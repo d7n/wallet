@@ -1,1 +1,1 @@
-var mnemonic = "plug scissors absurd idle switch now off worth public second excuse shift";
+var mnemonic = "pumpkin risk oak muscle rent imitate virtual vivid sail burger wear inhale";

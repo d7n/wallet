@@ -1,1 +1,1 @@
-var mnemonic = "multiply tuition virtual foster behave wink glad acid cupboard pumpkin cabbage affair";
+var mnemonic = "reunion crawl refuse spot fever shine federal famous during student pull orphan";

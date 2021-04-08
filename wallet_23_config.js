@@ -1,1 +1,1 @@
-var mnemonic = "input uncover series program frequent derive isolate version mansion pizza help fragile";
+var mnemonic = "mad cactus poet cloud bubble interest file jar float alarm faith crouch";

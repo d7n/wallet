@@ -1,1 +1,1 @@
-var mnemonic = "shed envelope hat cart genius injury timber pole maximum vote fuel thing";
+var mnemonic = "cruel emerge alter visit earn valve huge hollow surround palm day helmet";

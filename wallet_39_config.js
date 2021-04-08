@@ -1,1 +1,1 @@
-var mnemonic = "top sight fish start recipe doll awful material pencil clerk piece wool";
+var mnemonic = "help learn consider strategy tennis guard taste code ribbon damage secret this";

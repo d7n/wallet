@@ -1,1 +1,1 @@
-var mnemonic = "second iron tonight rose garden huge syrup bright sure cup stock cousin";
+var mnemonic = "bench wild other speed diagram thrive bus urban frequent flip give offer";

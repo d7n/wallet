@@ -1,1 +1,1 @@
-var mnemonic = "exotic remember rhythm twenty across dwarf degree congress scissors limb celery expire";
+var mnemonic = "bleak coach prosper crystal fiscal dirt link reduce rubber mix inflict error";

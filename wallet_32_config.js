@@ -1,1 +1,1 @@
-var mnemonic = "raw interest rail what hand position axis layer cricket sail grit admit";
+var mnemonic = "robust rail gadget cloud congress art private sugar burger oval mystery concert";

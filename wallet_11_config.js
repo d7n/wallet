@@ -1,1 +1,1 @@
-var mnemonic = "turkey later whisper injury chimney father obtain silent hedgehog insane estate summer";
+var mnemonic = "direct faculty enrich model funny tower tuition film second involve vocal illness";

@@ -1,1 +1,1 @@
-var mnemonic = "talent unknown plate credit toast fetch eye task evil episode hand assault";
+var mnemonic = "viable huge price valve galaxy bundle soup version magic ostrich this left";

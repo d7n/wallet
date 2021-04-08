@@ -1,1 +1,1 @@
-var mnemonic = "fresh citizen point puppy saddle field unable destroy wool one mother misery";
+var mnemonic = "glimpse grass moon jump dutch ticket spread melt donkey utility visual recall";

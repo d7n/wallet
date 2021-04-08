@@ -1,1 +1,1 @@
-var mnemonic = "review execute cross lonely develop dust duty wisdom unhappy victory gravity rug";
+var mnemonic = "conduct devote affair laugh prevent meat tube current fox term pupil twist";

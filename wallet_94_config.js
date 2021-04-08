@@ -1,1 +1,1 @@
-var mnemonic = "wet often note rigid stereo card vote casino limit wrestle soon strike";
+var mnemonic = "employ prison until lemon chest list occur debris sugar ozone south deposit";

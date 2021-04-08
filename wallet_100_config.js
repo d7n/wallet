@@ -1,1 +1,1 @@
-var mnemonic = "smooth unlock defy enough pulp whale assume twelve alpha want valley water";
+var mnemonic = "frown ring social shed deal file elevator worth boring else adapt bar";

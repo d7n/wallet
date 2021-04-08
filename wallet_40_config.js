@@ -1,1 +1,1 @@
-var mnemonic = "actor sad link alcohol ignore ill warm suggest fashion yellow visit opera";
+var mnemonic = "digital cactus sock dirt grain audit harsh chunk member speak expand because";

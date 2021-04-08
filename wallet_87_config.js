@@ -1,1 +1,1 @@
-var mnemonic = "strike misery flag equip copy moral amount artefact immense fetch coin exotic";
+var mnemonic = "require volume deputy slam erupt vacant flush private clay wash case banana";

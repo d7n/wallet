@@ -1,1 +1,1 @@
-var mnemonic = "exotic castle baby wage lunar enhance special exile title lecture total knee";
+var mnemonic = "orbit farm ramp lunch wheel danger giggle swing bubble oyster near runway";

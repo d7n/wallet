@@ -1,1 +1,1 @@
-var mnemonic = "media valid custom balance define bamboo marriage police jump text plug weird";
+var mnemonic = "test dash illness orbit code occur camp call govern pool oxygen clever";

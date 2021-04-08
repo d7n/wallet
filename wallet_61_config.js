@@ -1,1 +1,1 @@
-var mnemonic = "ocean undo race mirror brush pottery taxi oval sad frog elder zero";
+var mnemonic = "upset switch roof glove spider true roof advice coil wet ordinary bulk";

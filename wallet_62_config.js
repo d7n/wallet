@@ -1,1 +1,1 @@
-var mnemonic = "old hospital mirror best subway alley eager airport soup sibling asset lion";
+var mnemonic = "end blame dynamic tree credit turtle seminar interest swamp mandate casual parade";

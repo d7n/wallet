@@ -1,1 +1,1 @@
-var mnemonic = "moon above arm found cheese pizza blur slide blush chat divert robust";
+var mnemonic = "age knee thumb reason fold inhale decade frown trash group health hover";

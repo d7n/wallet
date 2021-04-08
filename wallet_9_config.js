@@ -1,1 +1,1 @@
-var mnemonic = "chase column grant true such steak strike turn state wine arrow rare";
+var mnemonic = "unknown idea ask jewel lemon verb furnace hard scale light hurt kid";

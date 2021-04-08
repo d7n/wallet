@@ -1,1 +1,1 @@
-var mnemonic = "awesome trust lunch author cost tobacco seminar foster warm document body pilot";
+var mnemonic = "cave fortune omit goat oyster gasp syrup maid bachelor net host acid";

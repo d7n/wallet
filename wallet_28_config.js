@@ -1,1 +1,1 @@
-var mnemonic = "seed parrot cart hurt fine obvious suffer accident pluck lady pipe lady";
+var mnemonic = "lawsuit corn lock blast say river betray music vital obvious lake love";

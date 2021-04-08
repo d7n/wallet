@@ -1,1 +1,1 @@
-var mnemonic = "truck trophy depth message exhibit dizzy adapt burden gesture raise tenant ride";
+var mnemonic = "solar reason curious people leg dream provide federal ramp disease valley pole";

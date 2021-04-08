@@ -1,1 +1,1 @@
-var mnemonic = "blue blind left earn tunnel weather goddess kiss orient sun input cross";
+var mnemonic = "motion use brush chuckle rotate rice remain supreme runway smile army hire";

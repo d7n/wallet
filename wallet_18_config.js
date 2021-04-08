@@ -1,1 +1,1 @@
-var mnemonic = "buzz snack local outer language high drill buzz kangaroo vessel unfair gauge";
+var mnemonic = "betray swear sing mother grief super blush husband chair height pelican soon";

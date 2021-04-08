@@ -1,1 +1,1 @@
-var mnemonic = "forget smart dress scrub puppy amazing regular brave camp tattoo own garage";
+var mnemonic = "stool buzz best prefer shaft over seat cousin pact cave thank credit";

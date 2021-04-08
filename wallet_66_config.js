@@ -1,1 +1,1 @@
-var mnemonic = "peasant soft project hungry fat gun gallery pyramid useful spice lawsuit crop";
+var mnemonic = "govern battle mention trick guitar box flush grape lesson regular youth awful";

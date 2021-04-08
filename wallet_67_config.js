@@ -1,1 +1,1 @@
-var mnemonic = "exist drastic shed shell armor awake meat noise pumpkin trigger biology gospel";
+var mnemonic = "cart leader worry satisfy resemble caught enhance avoid mimic script slow vacuum";

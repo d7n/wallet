@@ -1,1 +1,1 @@
-var mnemonic = "enable bargain advice cube turn become then primary balcony route rare artist";
+var mnemonic = "powder excuse will gate minimum dad fashion pudding canyon object traffic there";

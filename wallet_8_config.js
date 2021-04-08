@@ -1,1 +1,1 @@
-var mnemonic = "list toast winner parrot sense poverty review thunder student sugar powder industry";
+var mnemonic = "fruit version erode fashion endless sadness other leg outdoor you illness together";

@@ -1,1 +1,1 @@
-var mnemonic = "sign relax hero bottom theme they heavy relax bleak fit leave dumb";
+var mnemonic = "spin blossom copper country raven syrup pyramid pattern loan enrich foam rice";

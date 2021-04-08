@@ -1,1 +1,1 @@
-var mnemonic = "angry kiwi opera leave author remove else away horror clever cute sniff";
+var mnemonic = "exile indicate connect alpha marble mail benefit grow spin safe snack picnic";

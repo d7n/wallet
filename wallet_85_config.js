@@ -1,1 +1,1 @@
-var mnemonic = "badge luggage upper outer month index property gadget robot they mule diary";
+var mnemonic = "cram flat peanut force future dinosaur special old empty range orange hawk";

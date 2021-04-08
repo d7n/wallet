@@ -1,1 +1,1 @@
-var mnemonic = "hood drastic educate join inspire hill call staff spare check choose cart";
+var mnemonic = "accident derive armor announce now help fence abuse year alley wasp polar";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige nice gloom lion cereal casino reject mind whale swallow economy apology";
+var mnemonic = "possible utility until ribbon tooth local aunt scare filter walk tattoo donor";

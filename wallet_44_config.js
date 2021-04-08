@@ -1,1 +1,1 @@
-var mnemonic = "finish front thrive jar replace arctic day journey arrest lion echo prosper";
+var mnemonic = "rack boss claw click phone stumble term cousin flight seed hamster grant";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant museum suspect squirrel soup machine link audit pony marriage morning feel";
+var mnemonic = "seek cliff fork coin appear dice crack remain maximum humor airport clean";

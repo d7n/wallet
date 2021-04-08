@@ -1,1 +1,1 @@
-var mnemonic = "bright husband sight depth boss damp casino gather seat antenna foster insane";
+var mnemonic = "vanish april clap banana spend either alert wedding rabbit orbit hard nurse";

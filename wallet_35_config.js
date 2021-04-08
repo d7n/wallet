@@ -1,1 +1,1 @@
-var mnemonic = "curtain nest twist spell path sweet unusual meat barely ice setup pause";
+var mnemonic = "between future federal found paddle undo toy dinner good verify illness ring";

@@ -1,1 +1,1 @@
-var mnemonic = "return chief hedgehog off talent sugar bird scan profit sponsor goat tool";
+var mnemonic = "run air crawl nominee file item ecology craft multiply artist scene lab";

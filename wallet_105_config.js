@@ -1,1 +1,1 @@
-var mnemonic = "rally drill bundle three police idle path wheel slow great vote galaxy";
+var mnemonic = "column jacket surround stay web quality country inmate accident fancy garbage cute";

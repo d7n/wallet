@@ -1,1 +1,1 @@
-var mnemonic = "erupt awesome goose estate dry stuff torch toddler reopen glove ticket bachelor";
+var mnemonic = "weather unveil awkward scatter tomato destroy prison trick output hire hidden range";

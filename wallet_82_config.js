@@ -1,1 +1,1 @@
-var mnemonic = "doll equal dismiss noble share oxygen unveil tide swear govern onion bounce";
+var mnemonic = "critic broken party ankle razor pipe cactus virus damage over baby phone";

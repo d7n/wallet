@@ -1,1 +1,1 @@
-var mnemonic = "panther pony daring attitude social primary employ cancel glad water screen drift";
+var mnemonic = "face choice ritual ketchup swarm deputy glue grain fiber you mix advance";

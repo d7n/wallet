@@ -1,1 +1,1 @@
-var mnemonic = "dirt novel stage magic result merit face badge heart scan chuckle potato";
+var mnemonic = "tissue spread rich inherit verb dwarf visit celery fish hamster ready around";

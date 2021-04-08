@@ -1,1 +1,1 @@
-var mnemonic = "defense problem like acid lobster what voice vessel metal chuckle crouch tip";
+var mnemonic = "very audit urban rude blossom addict shield barely special confirm anxiety world";

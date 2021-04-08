@@ -1,1 +1,1 @@
-var mnemonic = "issue reveal push antenna ketchup struggle remove they play answer metal track";
+var mnemonic = "comfort gas aspect isolate property senior height other neck settle deer control";

@@ -1,1 +1,1 @@
-var mnemonic = "senior online uncover grief title save strategy comfort asset donate slender slogan";
+var mnemonic = "gain system beyond nurse dynamic smoke key market same snake prosper nominee";

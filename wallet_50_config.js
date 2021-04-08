@@ -1,1 +1,1 @@
-var mnemonic = "food mail furnace risk mistake finger discover forest any melody unusual lawsuit";
+var mnemonic = "east bone turn stable affair comic marine pledge dog travel truck total";

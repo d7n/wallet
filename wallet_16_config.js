@@ -1,1 +1,1 @@
-var mnemonic = "shed badge trim bike dirt sea undo follow misery increase member twelve";
+var mnemonic = "skin subject high horror puppy diary quiz curve version differ joy income";

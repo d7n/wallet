@@ -1,1 +1,1 @@
-var mnemonic = "weather slim prison enemy glare daughter venture erase story clever possible jungle";
+var mnemonic = "obscure paper dial side dice novel faith fat mean ginger artefact fluid";

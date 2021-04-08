@@ -1,1 +1,1 @@
-var mnemonic = "loop misery admit skin assault dad flavor vague bike medal agent unable";
+var mnemonic = "hollow vendor bone luggage cram what flush click dizzy net riot solve";

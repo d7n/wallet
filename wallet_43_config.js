@@ -1,1 +1,1 @@
-var mnemonic = "divorce west critic black portion adapt evil cycle slow pioneer into glow";
+var mnemonic = "picture hospital ghost circle meat volcano credit submit battle net rate reflect";

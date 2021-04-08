@@ -1,1 +1,1 @@
-var mnemonic = "vicious friend brother club street metal yard panda chat zebra breeze wise";
+var mnemonic = "athlete castle sea need void hamster thumb horn bleak raise filter raven";

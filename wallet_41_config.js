@@ -1,1 +1,1 @@
-var mnemonic = "purpose find avocado ocean match believe fossil note toward climb excite light";
+var mnemonic = "verify deposit finger what echo cricket alone fiscal vivid glare find size";

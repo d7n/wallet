@@ -1,1 +1,1 @@
-var mnemonic = "copy laugh surge main weird advance correct midnight scan plastic unit undo";
+var mnemonic = "salute help logic vivid enlist second man two bubble cigar ahead direct";

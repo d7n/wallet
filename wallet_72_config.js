@@ -1,1 +1,1 @@
-var mnemonic = "rug cluster mother frog excuse release soccer pitch bread fork vibrant entire";
+var mnemonic = "skill hen future brown belt sunny violin connect transfer bottom cereal illness";

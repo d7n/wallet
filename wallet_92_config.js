@@ -1,1 +1,1 @@
-var mnemonic = "skin critic practice grit utility mistake bulk denial pumpkin view three hundred";
+var mnemonic = "dilemma quantum afraid script relax ketchup theme wonder congress wrist torch rose";

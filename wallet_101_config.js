@@ -1,1 +1,1 @@
-var mnemonic = "view rely proof announce page column confirm like bread bullet enhance syrup";
+var mnemonic = "tonight attitude shock slice stand violin capital fetch picnic mutual bulk project";

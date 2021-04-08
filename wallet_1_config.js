@@ -1,1 +1,1 @@
-var mnemonic = "police wagon proud unfold champion valley strong plunge syrup open dish cram";
+var mnemonic = "auction beyond since trophy soap cereal grain earn define biology label finish";

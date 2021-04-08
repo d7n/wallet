@@ -1,1 +1,1 @@
-var mnemonic = "test coffee slow trap install heavy artefact myth govern flat demand noble";
+var mnemonic = "rail barrel noodle build ticket ice breeze dish topic fetch forget release";

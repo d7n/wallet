@@ -1,1 +1,1 @@
-var mnemonic = "banner away erase polar guitar danger charge armed knock mango collect bundle";
+var mnemonic = "type member bright resemble kiwi more mesh tennis problem want blush exit";

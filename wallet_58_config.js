@@ -1,1 +1,1 @@
-var mnemonic = "gesture album inch february circle joy rude option clerk acid hard battle";
+var mnemonic = "surge keep ridge stadium suspect write obscure tomato chair mixture prison image";

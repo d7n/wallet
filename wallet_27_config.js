@@ -1,1 +1,1 @@
-var mnemonic = "peace course asset use motion illegal enough biology you prefer obvious siege";
+var mnemonic = "extend crisp tuition ritual possible void future bench narrow recycle festival picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "taste solar heart squirrel horse romance bench tone tree steel hobby mean";
+var mnemonic = "frost raccoon slice minor hard setup labor intact awful foam acid parade";

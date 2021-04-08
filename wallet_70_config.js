@@ -1,1 +1,1 @@
-var mnemonic = "enlist staff lava absorb motor amount monitor laundry vibrant slight laptop sugar";
+var mnemonic = "cross bounce seven person pet cattle better square violin visual smart practice";

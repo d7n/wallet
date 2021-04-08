@@ -1,1 +1,1 @@
-var mnemonic = "section raw moon inside immense gorilla festival pigeon frost actress grant success";
+var mnemonic = "company live marble suffer rocket praise response south type pelican tumble jump";

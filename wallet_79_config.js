@@ -1,1 +1,1 @@
-var mnemonic = "amused december involve never twice release surge retire slam service put own";
+var mnemonic = "orient ocean force ripple sudden medal cycle vocal alarm celery lonely father";

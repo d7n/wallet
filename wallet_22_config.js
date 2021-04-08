@@ -1,1 +1,1 @@
-var mnemonic = "alarm warrior ripple paddle surprise stomach palace level era enrich negative sea";
+var mnemonic = "fringe surround egg basic relax fabric unaware violin trumpet render icon author";

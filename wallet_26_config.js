@@ -1,1 +1,1 @@
-var mnemonic = "dune silly change dance february sweet give master sword early assume trial";
+var mnemonic = "receive boil surprise beauty burden moral round absurd velvet local over onion";

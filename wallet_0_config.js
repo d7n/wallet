@@ -1,1 +1,1 @@
-var mnemonic = "way planet piece shuffle tag able unfold typical define panic junk morning";
+var mnemonic = "bulb always december main boss during object camera furnace bronze poet claim";

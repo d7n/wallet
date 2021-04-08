@@ -1,1 +1,1 @@
-var mnemonic = "injury wasp butter shell soul decorate ladder tip bundle ancient update mail";
+var mnemonic = "blossom fish member rate peanut satoshi want real issue heart whisper tribe";

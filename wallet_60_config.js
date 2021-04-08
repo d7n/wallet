@@ -1,1 +1,1 @@
-var mnemonic = "matrix reward suit crew agent antique cave festival perfect digital lake hen";
+var mnemonic = "wheel impact wrong ball door myself either energy bonus recall august wink";

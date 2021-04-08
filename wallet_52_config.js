@@ -1,1 +1,1 @@
-var mnemonic = "pelican lake miracle fade region enforce conduct venture hair scan obscure sadness";
+var mnemonic = "monkey impact island dwarf course bike mercy silly ill rifle captain near";

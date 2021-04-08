@@ -1,1 +1,1 @@
-var mnemonic = "confirm chief summer feel wheel leave infant elephant raise second repair crowd";
+var mnemonic = "host flock beef apple display dream cage profit couch kangaroo awkward illness";

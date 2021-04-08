@@ -1,1 +1,1 @@
-var mnemonic = "mass citizen giraffe analyst visit top bacon world aerobic pyramid helmet prison";
+var mnemonic = "brief survey sheriff link record labor ask inspire zebra loyal impose obey";

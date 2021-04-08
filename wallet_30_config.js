@@ -1,1 +1,1 @@
-var mnemonic = "tragic carpet table orphan tomorrow circle claw gaze equal gasp demand genius";
+var mnemonic = "purpose estate diagram misery gorilla cheap rent will machine box mesh web";

@@ -1,1 +1,1 @@
-var mnemonic = "chief armor math choose people buffalo unusual path until bless square spy";
+var mnemonic = "gather trap tail marriage moral clay occur edit erupt garlic bracket defy";

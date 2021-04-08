@@ -1,1 +1,1 @@
-var mnemonic = "unknown diary roast want copper wire antenna note tumble better zero achieve";
+var mnemonic = "alpha jeans suggest flower high smooth lens force pattern tortoise cube between";

@@ -1,1 +1,1 @@
-var mnemonic = "prison oak honey dose income music raven blade orchard cool craft guilt";
+var mnemonic = "endless fork belt proud impose harsh moon sign diagram alcohol connect pluck";

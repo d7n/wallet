@@ -1,1 +1,1 @@
-var mnemonic = "fold skin source concert permit giraffe diary can hidden display athlete scrap";
+var mnemonic = "panic dynamic arrest bachelor tobacco layer enter chief snow swear exile soldier";

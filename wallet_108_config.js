@@ -1,1 +1,1 @@
-var mnemonic = "wild proud burst rocket army hobby enforce color useful faith laugh tell";
+var mnemonic = "august evolve stamp fold wisdom napkin save meadow donate minor marble cotton";

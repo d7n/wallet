@@ -1,1 +1,1 @@
-var mnemonic = "mouse salute poverty stool dish invest mutual card crater dentist duck object";
+var mnemonic = "latin cable stove return flip length mirror allow behind vast foot proof";

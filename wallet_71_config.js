@@ -1,1 +1,1 @@
-var mnemonic = "father salad cabbage reduce message into language wheel snow glove awesome bar";
+var mnemonic = "bright robust light clever dizzy weird point clump youth shoot sauce tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "game wide perfect disagree hub ghost thought sniff cross drive hedgehog over";
+var mnemonic = "radar begin enjoy early quick clean still crystal beef wisdom country peace";

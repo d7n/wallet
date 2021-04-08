@@ -1,1 +1,1 @@
-var mnemonic = "budget end physical response broccoli team will decide scrub damp viable another";
+var mnemonic = "key weekend cement ramp never confirm grape exile side carbon add together";

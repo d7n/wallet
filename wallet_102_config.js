@@ -1,1 +1,1 @@
-var mnemonic = "clog spoil oppose agree joke vacuum verify lunch antenna define plastic plastic";
+var mnemonic = "accident clog mosquito actual alone essence despair force climb lemon claw cigar";
