@@ -1,1 +1,1 @@
-var mnemonic = "jacket loyal pact noble book secret cheap emerge vibrant enact lyrics dwarf";
+var mnemonic = "lake remove sting lounge ball pattern rally trophy sign collect lonely dwarf";

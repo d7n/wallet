@@ -1,1 +1,1 @@
-var mnemonic = "atom middle true account arctic real later exact unable clap say virus";
+var mnemonic = "guitar add clock upon section erode retire mind forward broom cargo ice";

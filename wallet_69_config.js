@@ -1,1 +1,1 @@
-var mnemonic = "unveil faith loop urge pupil artefact acoustic dance fun usage fluid mechanic";
+var mnemonic = "duty romance bind vocal pitch morning course vehicle usage slim pair rail";

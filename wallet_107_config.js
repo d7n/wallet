@@ -1,1 +1,1 @@
-var mnemonic = "cycle hub shift champion vacuum duck claim ready right net ranch strategy";
+var mnemonic = "long outside scorpion juice pride surface erosion flee outside auction then heart";

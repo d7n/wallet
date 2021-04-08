@@ -1,1 +1,1 @@
-var mnemonic = "carbon beef various twice decorate index metal early trumpet evidence gesture much";
+var mnemonic = "lake drive attitude very forget fruit ring enhance fit chest glow alert";

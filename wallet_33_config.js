@@ -1,1 +1,1 @@
-var mnemonic = "august maid shell orange adult drink pattern idle abuse loyal august cancel";
+var mnemonic = "adjust taste salt film atom spot rocket hand woman shoulder humor either";

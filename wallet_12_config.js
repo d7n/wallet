@@ -1,1 +1,1 @@
-var mnemonic = "spawn sphere host meat issue depart congress pond expand short horn rough";
+var mnemonic = "proof prison raw uniform bid busy convince half behind quick replace issue";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty tube yellow deposit solar jeans logic pave parrot wink abuse plastic";
+var mnemonic = "stereo fancy section trigger spoil tilt loop rather list clock express athlete";

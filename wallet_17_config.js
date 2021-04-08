@@ -1,1 +1,1 @@
-var mnemonic = "nerve live hand wreck enable cement wreck float artwork excess economy simple";
+var mnemonic = "behind diet icon another tank manage salmon ostrich inquiry jewel skill surge";

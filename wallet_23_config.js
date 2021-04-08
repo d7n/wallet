@@ -1,1 +1,1 @@
-var mnemonic = "humor student stadium abuse pledge pyramid measure direct quick float network apology";
+var mnemonic = "similar clap border chief robot place cradle antique sponsor news daughter cup";

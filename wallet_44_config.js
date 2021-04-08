@@ -1,1 +1,1 @@
-var mnemonic = "liar fetch inject vapor record what zero process accident mail cheese involve";
+var mnemonic = "frozen october ordinary wait heart bundle east unusual return sight multiply topple";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy sheriff radar sting economy ten lemon violin east valid fee sound";
+var mnemonic = "between fork truth blanket render rail shift code crater potato sudden donor";

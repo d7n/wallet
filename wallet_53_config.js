@@ -1,1 +1,1 @@
-var mnemonic = "oblige person vehicle trick permit abuse spell tennis crucial excite boring ocean";
+var mnemonic = "army topple abuse nut crack together bomb excess scout stay novel crowd";

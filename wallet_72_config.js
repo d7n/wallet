@@ -1,1 +1,1 @@
-var mnemonic = "silk frame logic such sunset impact ten spy joy patient arctic torch";
+var mnemonic = "friend bar ask crack unaware walnut elevator second captain couple caution tattoo";

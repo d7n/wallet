@@ -1,1 +1,1 @@
-var mnemonic = "miss crazy expose dilemma silly shift round check about host river slam";
+var mnemonic = "jealous throw human grow misery private steak process volume adjust jaguar abstract";

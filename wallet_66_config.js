@@ -1,1 +1,1 @@
-var mnemonic = "entire point display round base black system effort strong word mind fly";
+var mnemonic = "style fan wrap rookie zero nasty expand iron senior pony jump because";

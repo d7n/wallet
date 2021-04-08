@@ -1,1 +1,1 @@
-var mnemonic = "mixed jaguar thing pony usual shift bridge medal foot olive swallow moment";
+var mnemonic = "wild inhale speed auction tobacco same solve private flame spell narrow surge";

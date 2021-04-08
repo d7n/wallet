@@ -1,1 +1,1 @@
-var mnemonic = "disorder anger asset girl hard grit change move brief silly avocado come";
+var mnemonic = "shed second dose vapor join only shock language fruit swamp tunnel climb";

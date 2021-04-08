@@ -1,1 +1,1 @@
-var mnemonic = "caught six destroy carry tuna pupil oppose club opera level sample gas";
+var mnemonic = "bus bitter name rotate quick arrow hold garbage connect shine trap jeans";

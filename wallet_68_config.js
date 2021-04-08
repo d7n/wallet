@@ -1,1 +1,1 @@
-var mnemonic = "excess gadget practice torch slim era grant among blush mechanic control rebuild";
+var mnemonic = "wisdom town note potato twist broken buzz bind deputy happy habit plate";

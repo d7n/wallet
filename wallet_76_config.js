@@ -1,1 +1,1 @@
-var mnemonic = "doll pig cruise current marine nominee melody enhance flush father garage ostrich";
+var mnemonic = "crazy coach typical calm orphan alone habit museum hedgehog guitar title okay";

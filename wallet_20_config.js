@@ -1,1 +1,1 @@
-var mnemonic = "gossip pelican manual flight isolate subway tank save diet volume place usual";
+var mnemonic = "chimney rabbit report wait flower exercise vacuum fee tree fury media pizza";

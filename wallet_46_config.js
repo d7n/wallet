@@ -1,1 +1,1 @@
-var mnemonic = "pact injury fresh example wall ivory day choice secret kiss mule peace";
+var mnemonic = "pledge super monkey science icon hole name dad chef easily smart deal";

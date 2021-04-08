@@ -1,1 +1,1 @@
-var mnemonic = "celery velvet edge receive divide twenty top broom fix addict sense misery";
+var mnemonic = "crack rely feed assault legend girl return scrap where wisdom arm mango";

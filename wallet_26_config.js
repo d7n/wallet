@@ -1,1 +1,1 @@
-var mnemonic = "unique slight voyage couple blur region attract shuffle film response surface swamp";
+var mnemonic = "tower creek pyramid fitness rule race enlist anger embrace west pill token";

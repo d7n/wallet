@@ -1,1 +1,1 @@
-var mnemonic = "another tool isolate sail news consider fit pride home various action car";
+var mnemonic = "identify wild vital pave speak cargo pole element oyster text replace trophy";

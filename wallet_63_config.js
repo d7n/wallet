@@ -1,1 +1,1 @@
-var mnemonic = "milk super follow other negative panic plunge castle valve pledge scout relief";
+var mnemonic = "mass end armed coin myself symbol million candy drastic mind clap faint";

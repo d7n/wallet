@@ -1,1 +1,1 @@
-var mnemonic = "pelican dove zebra hub clinic chapter tortoise roast control spare candy elbow";
+var mnemonic = "real hawk stick project capital dish this monitor run helmet opinion parent";

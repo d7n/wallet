@@ -1,1 +1,1 @@
-var mnemonic = "leave title head desert tongue woman about gesture wool unfair rent industry";
+var mnemonic = "accident discover asset solid toy problem man detect pave bag tape erosion";

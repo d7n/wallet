@@ -1,1 +1,1 @@
-var mnemonic = "attitude height burst ripple volcano like drive name palm task fruit satisfy";
+var mnemonic = "congress toddler curtain security range basic car pole buzz gravity silk whisper";

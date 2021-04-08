@@ -1,1 +1,1 @@
-var mnemonic = "disagree reward mouse pistol emotion jaguar social rough car reopen butter sure";
+var mnemonic = "fluid special cash lawsuit tunnel announce stock tourist weather embody health attitude";

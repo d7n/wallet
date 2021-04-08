@@ -1,1 +1,1 @@
-var mnemonic = "island involve absent spray crack tag cheap transfer tonight define enlist borrow";
+var mnemonic = "crowd decorate attend define dentist friend analyst visual typical nature sail license";

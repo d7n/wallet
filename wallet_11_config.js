@@ -1,1 +1,1 @@
-var mnemonic = "wide camera warrior gadget track insane sugar salmon gold large aerobic pole";
+var mnemonic = "swing border eager loyal dynamic ivory riot glare custom stomach corn lion";

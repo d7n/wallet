@@ -1,1 +1,1 @@
-var mnemonic = "pepper sell survey orange gift song girl first awake midnight proof scout";
+var mnemonic = "mother bag december renew maximum cigar access caught average swift noble remind";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise direct bunker become flash roof valid major theme myself cereal project";
+var mnemonic = "empty guitar cactus dignity awake recall deposit problem label crunch borrow guitar";

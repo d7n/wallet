@@ -1,1 +1,1 @@
-var mnemonic = "report clock topple purchase soft album learn tunnel buffalo civil purity area";
+var mnemonic = "stove boss much inject season shiver desk valve common hawk boy wrap";

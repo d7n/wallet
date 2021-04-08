@@ -1,1 +1,1 @@
-var mnemonic = "hope birth tip pear review case ski fringe weasel pull oil solve";
+var mnemonic = "slogan neither rural pause plastic sting daring cinnamon pyramid pepper price slim";

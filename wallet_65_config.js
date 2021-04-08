@@ -1,1 +1,1 @@
-var mnemonic = "alert essay another about risk target fury beach child summer doctor liberty";
+var mnemonic = "tell crew toy gasp bunker enter under pen blade cannon plastic moon";

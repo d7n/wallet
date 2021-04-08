@@ -1,1 +1,1 @@
-var mnemonic = "wish roast airport isolate team salad error enhance verb differ strong asset";
+var mnemonic = "glove jacket spend area curious turtle truck tip lucky hawk right powder";

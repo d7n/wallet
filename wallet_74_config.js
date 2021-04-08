@@ -1,1 +1,1 @@
-var mnemonic = "valid sign put enable virtual genre derive arena funny detail pitch page";
+var mnemonic = "drip make item turkey mystery math own certain chronic nurse camp chest";

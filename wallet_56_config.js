@@ -1,1 +1,1 @@
-var mnemonic = "unusual rally bachelor search close family lawsuit cloud judge bleak fit grid";
+var mnemonic = "catalog diet promote basket aunt tourist scare cannon social exhibit metal mesh";

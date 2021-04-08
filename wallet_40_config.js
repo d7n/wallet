@@ -1,1 +1,1 @@
-var mnemonic = "there acoustic rich bacon crane devote lunar gallery furnace poverty list depend";
+var mnemonic = "blood wear hen ceiling twenty shaft wait motor young devote exact tortoise";

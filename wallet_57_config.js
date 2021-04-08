@@ -1,1 +1,1 @@
-var mnemonic = "hip nominee animal barrel industry wire spy mango infant ride black nurse";
+var mnemonic = "jacket wave play equal december mask kitchen picnic system buddy flag friend";

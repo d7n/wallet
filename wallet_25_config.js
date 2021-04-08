@@ -1,1 +1,1 @@
-var mnemonic = "another romance expect unveil sister wise tuna chimney session boring spare rent";
+var mnemonic = "vehicle lazy inside jaguar pelican mixed alley later tree raccoon punch crisp";

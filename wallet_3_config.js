@@ -1,1 +1,1 @@
-var mnemonic = "lawn over turkey music cup leopard improve mother bus produce dentist term";
+var mnemonic = "ticket ensure ask priority dilemma work brown shuffle belt eternal track concert";

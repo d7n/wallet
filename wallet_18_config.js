@@ -1,1 +1,1 @@
-var mnemonic = "bundle zone swing raven kiwi render pencil hurdle excuse say faint team";
+var mnemonic = "vacant sad sight tortoise crush caught never army across brief tenant scrap";

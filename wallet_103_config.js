@@ -1,1 +1,1 @@
-var mnemonic = "try clever pencil right task concert menu boy voice youth giraffe cruise";
+var mnemonic = "spot glide welcome margin unlock media slab basket height rally net few";

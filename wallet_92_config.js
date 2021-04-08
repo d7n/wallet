@@ -1,1 +1,1 @@
-var mnemonic = "okay reveal pull vault frog team mistake surround piano tower pattern love";
+var mnemonic = "tomorrow vacuum prize culture blade slice car grief elevator jeans funny flock";

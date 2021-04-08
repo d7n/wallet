@@ -1,1 +1,1 @@
-var mnemonic = "artist rhythm east face hollow mixture father swamp reject onion cement journey";
+var mnemonic = "twelve mystery cause clean staff indicate decline fox regular candy rabbit sniff";

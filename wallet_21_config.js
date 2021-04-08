@@ -1,1 +1,1 @@
-var mnemonic = "believe film conduct negative bitter draft nerve paddle shell federal remind hole";
+var mnemonic = "later loan edge evil armed ostrich razor expose valley trade true suspect";

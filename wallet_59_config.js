@@ -1,1 +1,1 @@
-var mnemonic = "paddle risk option piece uncover illness slight mimic lizard earth warrior exile";
+var mnemonic = "alpha hill junior desert give wheat bless between adapt dirt leopard fringe";

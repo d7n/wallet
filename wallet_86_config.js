@@ -1,1 +1,1 @@
-var mnemonic = "this expose divide hub polar silver awesome priority appear head latin hybrid";
+var mnemonic = "margin indoor slice opinion purpose caught dignity jar slush mesh govern retire";

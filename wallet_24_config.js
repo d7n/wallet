@@ -1,1 +1,1 @@
-var mnemonic = "witness hamster visual grid stumble swarm coffee arctic police cause film ceiling";
+var mnemonic = "area little pride canyon moment match image slight uncover flush fever stuff";

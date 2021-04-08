@@ -1,1 +1,1 @@
-var mnemonic = "van bridge prepare delay negative chicken shop similar comic much local friend";
+var mnemonic = "assault abandon antique repair galaxy connect sing bacon buddy resist snack zero";

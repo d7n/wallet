@@ -1,1 +1,1 @@
-var mnemonic = "absurd fetch rebel master spider oil outer rude farm pave mom work";
+var mnemonic = "together exit reflect uphold soup across stamp agent vault danger sad multiply";

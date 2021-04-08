@@ -1,1 +1,1 @@
-var mnemonic = "breeze garage stool problem good brick visual total unfair vacuum vote retire";
+var mnemonic = "journey rival hobby blossom kit sad immune person end unique veteran ride";

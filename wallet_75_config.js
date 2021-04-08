@@ -1,1 +1,1 @@
-var mnemonic = "verb dumb lawsuit fresh card wonder raw close jungle muscle notable weekend";
+var mnemonic = "enough regret weekend develop correct cruise faculty direct any angry only pretty";

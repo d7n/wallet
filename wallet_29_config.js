@@ -1,1 +1,1 @@
-var mnemonic = "muffin ripple dragon jealous ritual cube harsh suffer spin atom enroll crazy";
+var mnemonic = "village attack quit asthma true month orient aerobic zoo combine ignore gather";

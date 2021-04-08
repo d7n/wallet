@@ -1,1 +1,1 @@
-var mnemonic = "monitor team pair recall sting segment blossom observe you alone radar lunar";
+var mnemonic = "north fabric short chimney gun snap cupboard age monkey build radar friend";

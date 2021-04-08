@@ -1,1 +1,1 @@
-var mnemonic = "perfect material celery game sunny reduce bid rather lizard erode ocean notable";
+var mnemonic = "tobacco art fork satoshi top pitch jungle boy tattoo goose dentist practice";

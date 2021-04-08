@@ -1,1 +1,1 @@
-var mnemonic = "loud glide into mystery devote clock choose myth abstract glory rain front";
+var mnemonic = "elephant come emerge goat vivid word hip dragon donor virus glimpse awkward";

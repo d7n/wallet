@@ -1,1 +1,1 @@
-var mnemonic = "resist flock castle shadow chapter alpha bulb assault path huge later illegal";
+var mnemonic = "snack glue stumble shoot february vocal rely monster fix mesh mind silk";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion actress clown avocado wool because piece cancel bicycle nut pencil latin";
+var mnemonic = "much city labor buzz absent install aisle captain bulk kit across aspect";

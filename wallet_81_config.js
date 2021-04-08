@@ -1,1 +1,1 @@
-var mnemonic = "expand unusual ozone palm gloom amateur safe route trash gorilla glass cabbage";
+var mnemonic = "raccoon beyond frozen tomato artist dad tuna cannon enroll island destroy rookie";

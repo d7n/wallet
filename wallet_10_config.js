@@ -1,1 +1,1 @@
-var mnemonic = "trick detail supreme brand collect okay edit grass cross road shiver file";
+var mnemonic = "trash ivory differ now bread rare traffic hurry similar own inside legal";

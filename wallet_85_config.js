@@ -1,1 +1,1 @@
-var mnemonic = "immune bleak garden suggest reduce horror blush help page service tribe before";
+var mnemonic = "multiply sudden assist grace clip cupboard soon brand link metal company quality";

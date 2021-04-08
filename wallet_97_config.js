@@ -1,1 +1,1 @@
-var mnemonic = "motion budget say proud swift organ garage arctic minor decline shadow film";
+var mnemonic = "toilet become pistol gravity betray lunar tonight sense album tornado dawn creek";

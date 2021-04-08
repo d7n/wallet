@@ -1,1 +1,1 @@
-var mnemonic = "motor divert trade sweet priority rookie faith ozone plunge permit work emotion";
+var mnemonic = "lawn comfort trap rent smile cheap side rural anger brand reunion slam";

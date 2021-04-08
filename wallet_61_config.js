@@ -1,1 +1,1 @@
-var mnemonic = "broccoli again address room since toward final snow mechanic knock agent uncle";
+var mnemonic = "antique explain monster help fever position fat write dog twin into surprise";

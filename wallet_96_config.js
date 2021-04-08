@@ -1,1 +1,1 @@
-var mnemonic = "axis build air cactus bus surprise veteran visual payment flower air shy";
+var mnemonic = "senior outside edit fossil leader nephew start rapid indoor sell rotate jump";

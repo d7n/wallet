@@ -1,1 +1,1 @@
-var mnemonic = "caution extra inmate ticket shock priority denial nose hurt ankle head sing";
+var mnemonic = "trip weird fossil notable retire vocal give absurd tumble win tilt fluid";

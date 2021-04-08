@@ -1,1 +1,1 @@
-var mnemonic = "lend lawsuit reflect roof session ordinary planet pill patch divide blast spice";
+var mnemonic = "stick island repeat book mind carpet adult metal ordinary bachelor rally bid";

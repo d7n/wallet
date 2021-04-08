@@ -1,1 +1,1 @@
-var mnemonic = "moral play split guide such lunch ski before feed picnic tent knock";
+var mnemonic = "denial seed put pepper zoo any forget friend occur vocal tobacco giraffe";

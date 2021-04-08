@@ -1,1 +1,1 @@
-var mnemonic = "attend broken crumble swallow film patient long kidney fresh settle stove busy";
+var mnemonic = "cable hundred tomorrow wing army blouse mansion romance sign hip timber shine";

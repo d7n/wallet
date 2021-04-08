@@ -1,1 +1,1 @@
-var mnemonic = "fresh bottom morning length step visit tip vast blue cake shadow embrace";
+var mnemonic = "forum online ticket must assist express copper material rhythm humble raise else";

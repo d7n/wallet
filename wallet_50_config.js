@@ -1,1 +1,1 @@
-var mnemonic = "spatial scorpion leg scissors galaxy badge move green coral panic tragic health";
+var mnemonic = "rice field account ride toy buddy arrive absent super game harvest guilt";

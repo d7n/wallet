@@ -1,1 +1,1 @@
-var mnemonic = "column three vessel finish stock also science marriage universe person boring intact";
+var mnemonic = "palace unaware salt whip angle sleep pole frost palm private auction stock";

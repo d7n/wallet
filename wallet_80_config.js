@@ -1,1 +1,1 @@
-var mnemonic = "wasp liar range limb vault planet trust license post merit perfect chest";
+var mnemonic = "correct impose frown print depart whip soul seek top clump library crime";

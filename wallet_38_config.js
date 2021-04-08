@@ -1,1 +1,1 @@
-var mnemonic = "hope tone planet stomach dance company over judge horror world move bag";
+var mnemonic = "odor hospital garbage believe wash grief man pepper regret add dismiss usual";

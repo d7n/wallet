@@ -1,1 +1,1 @@
-var mnemonic = "business mouse hammer hazard day verify echo shuffle spice risk crystal number";
+var mnemonic = "bounce opera record rifle pill essence grid shuffle gown gravity eyebrow blue";

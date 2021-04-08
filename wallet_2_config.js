@@ -1,1 +1,1 @@
-var mnemonic = "mobile cook merit melody maze pool aerobic hedgehog range candy exit earn";
+var mnemonic = "virus start orphan promote enrich garage else street salt grit hidden mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome middle fantasy adult trap thing pledge guess hobby find wet useful";
+var mnemonic = "noodle gauge skirt vocal gesture buddy wrong limit announce credit siren hand";

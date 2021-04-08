@@ -1,1 +1,1 @@
-var mnemonic = "interest cruel sight surge lion middle setup elder rally arrive pony ginger";
+var mnemonic = "brush chalk harbor silk cargo biology junk student pottery glove silver property";

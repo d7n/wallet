@@ -1,1 +1,1 @@
-var mnemonic = "lock shallow athlete voyage plastic clock soap panic purchase aware demand dynamic";
+var mnemonic = "shoulder sick notice early neither cram absurd actual session warrior caution attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "gun radio original fuel inherit series peasant phrase clock visit edit diary";
+var mnemonic = "sell alone eagle diagram chunk lift arrive farm rhythm super vehicle shiver";

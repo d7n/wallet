@@ -1,1 +1,1 @@
-var mnemonic = "vote tornado protect jacket focus pioneer digital lava recipe speak clinic fury";
+var mnemonic = "tortoise tell pony stadium chimney team south space cotton much science dynamic";

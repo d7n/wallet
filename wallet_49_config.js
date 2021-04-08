@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur early knock spread flee tribe thrive story devote attract never barely";
+var mnemonic = "concert much public client wrist engine pretty crouch purchase plate delay much";

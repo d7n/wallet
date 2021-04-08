@@ -1,1 +1,1 @@
-var mnemonic = "cloud salon hub expand fuel rely scorpion motor involve cloth beef train";
+var mnemonic = "usual endless disease boy broccoli pitch social toward pretty slight canal ghost";

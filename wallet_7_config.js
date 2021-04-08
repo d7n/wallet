@@ -1,1 +1,1 @@
-var mnemonic = "icon cliff food found broken grief vintage exact camp deputy goat achieve";
+var mnemonic = "dynamic speak cattle wagon bird melt inner correct reduce narrow guard ensure";

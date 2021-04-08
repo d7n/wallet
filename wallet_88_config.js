@@ -1,1 +1,1 @@
-var mnemonic = "capital shoulder caught coil glow apology violin swing patch apart nasty zero";
+var mnemonic = "barrel wage laundry sense pudding light addict spatial chief hover thank ask";

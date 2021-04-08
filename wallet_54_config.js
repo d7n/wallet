@@ -1,1 +1,1 @@
-var mnemonic = "admit spell fashion easily effort special spy risk help crawl wrestle maximum";
+var mnemonic = "title hockey right disease attack decide dry game imitate announce night monitor";

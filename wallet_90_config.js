@@ -1,1 +1,1 @@
-var mnemonic = "stick aunt soul power defense eagle miss curtain bulk birth inmate weird";
+var mnemonic = "among matrix door lift museum season below jar rather dress end enjoy";
