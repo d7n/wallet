@@ -1,1 +1,1 @@
-var mnemonic = "planet speed wild modify swallow stock moment click glue secret banner achieve";
+var mnemonic = "drill spring badge farm insect struggle jewel kiwi famous leisure marble vintage";

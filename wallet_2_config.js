@@ -1,1 +1,1 @@
-var mnemonic = "accident into quick aisle blush drive hip body alone piano initial drink";
+var mnemonic = "juice degree world exile sorry twenty cost melt village discover return today";

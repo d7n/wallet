@@ -1,1 +1,1 @@
-var mnemonic = "shallow figure celery six device theme any wink student energy only two";
+var mnemonic = "diary spot tower cloud morning quantum fluid injury never february truly rose";

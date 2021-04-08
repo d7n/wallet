@@ -1,1 +1,1 @@
-var mnemonic = "point pistol undo shoot spoil gown brass popular identify gift nice rookie";
+var mnemonic = "next gap shoe isolate minor example gravity clean best elbow old rely";

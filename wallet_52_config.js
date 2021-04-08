@@ -1,1 +1,1 @@
-var mnemonic = "pull eternal bracket release tuition embody velvet upgrade where engine select sea";
+var mnemonic = "output stamp mule play level enroll bid rack shop know magnet much";

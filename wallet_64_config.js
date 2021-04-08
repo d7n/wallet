@@ -1,1 +1,1 @@
-var mnemonic = "word chicken visit bronze legend language box execute another pipe enemy step";
+var mnemonic = "sibling beauty hurt wrestle flavor patch reveal gesture letter brand exile ancient";

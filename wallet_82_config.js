@@ -1,1 +1,1 @@
-var mnemonic = "matrix curve mean verb that note penalty recall carry bronze half roof";
+var mnemonic = "winter hidden drop memory soon castle vapor inner timber kingdom jaguar prison";

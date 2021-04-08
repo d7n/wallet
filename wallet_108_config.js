@@ -1,1 +1,1 @@
-var mnemonic = "kiss hybrid parrot interest subject venue grow jealous asthma scorpion aisle build";
+var mnemonic = "mom join shine super boat review oak purchase veteran physical stairs trust";

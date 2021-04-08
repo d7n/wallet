@@ -1,1 +1,1 @@
-var mnemonic = "ability gift pause exile damage crowd miracle pluck voyage stem lock display";
+var mnemonic = "oxygen ice clay symptom hospital fatal plug column behave midnight struggle weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "timber mouse buddy snow motion sing tag clown network shop lecture total";
+var mnemonic = "crane fix ordinary cube unknown anxiety wolf logic solar uncover van wide";

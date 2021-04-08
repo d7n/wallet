@@ -1,1 +1,1 @@
-var mnemonic = "drop drum charge luxury visit erupt pattern actor noodle hedgehog cake capable";
+var mnemonic = "federal mother else globe sport payment dynamic tissue mystery romance balcony tired";

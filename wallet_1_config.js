@@ -1,1 +1,1 @@
-var mnemonic = "riot settle kit whale avocado skirt avoid video appear gesture diet lava";
+var mnemonic = "option chuckle chuckle online hurdle series stool home giraffe sense catalog almost";

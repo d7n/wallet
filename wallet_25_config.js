@@ -1,1 +1,1 @@
-var mnemonic = "amateur load drop fork liar whale way vintage gesture spare salmon body";
+var mnemonic = "way lend decide glimpse pigeon switch home only possible illegal chuckle other";

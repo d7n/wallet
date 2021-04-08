@@ -1,1 +1,1 @@
-var mnemonic = "pitch useful creek labor teach load wing settle spare parent husband profit";
+var mnemonic = "swallow trigger valley copper width mercy dash tip slice boy under tomorrow";

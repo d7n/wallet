@@ -1,1 +1,1 @@
-var mnemonic = "sauce main scheme height path must cream yard mean frown antenna frown";
+var mnemonic = "mixture broccoli crouch canvas six powder juice garage knife copper tip field";

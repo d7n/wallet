@@ -1,1 +1,1 @@
-var mnemonic = "income october garlic coffee pelican tent local obscure solid army laptop advice";
+var mnemonic = "company match junior indoor reject outer unhappy culture praise announce thank can";

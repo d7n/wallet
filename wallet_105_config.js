@@ -1,1 +1,1 @@
-var mnemonic = "weekend grief gesture someone indicate chaos offer actual fancy connect install horse";
+var mnemonic = "salon meadow mom crop squeeze sweet large certain wood curious embody explain";

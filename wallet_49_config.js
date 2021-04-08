@@ -1,1 +1,1 @@
-var mnemonic = "crunch section muscle staff glow laptop stuff high essence brave polar casual";
+var mnemonic = "pioneer boat friend fabric scale pull alien permit virtual train dice service";

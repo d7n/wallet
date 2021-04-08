@@ -1,1 +1,1 @@
-var mnemonic = "occur bullet rotate key person purpose chest dry obvious arrive grant tonight";
+var mnemonic = "nice glove stone supply awful tunnel must despair into never cluster table";

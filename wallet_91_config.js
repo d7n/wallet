@@ -1,1 +1,1 @@
-var mnemonic = "move skull sock spatial own love file cabin boost disease motor scrap";
+var mnemonic = "inquiry loyal stove destroy fever clerk topple script scout airport prosper merit";

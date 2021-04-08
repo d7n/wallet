@@ -1,1 +1,1 @@
-var mnemonic = "daring dilemma loyal humble cactus observe quote cause lab topple essence labor";
+var mnemonic = "slam mistake inch helmet occur segment cargo trash razor tennis load quote";

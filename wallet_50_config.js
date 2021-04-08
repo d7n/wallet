@@ -1,1 +1,1 @@
-var mnemonic = "method keen focus bright woman silk bacon ten obvious firm circle coconut";
+var mnemonic = "employ ranch unknown hire actual flush repeat warm absorb pass caution fade";

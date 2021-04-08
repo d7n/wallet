@@ -1,1 +1,1 @@
-var mnemonic = "opera floor pupil tiger bracket genius hybrid correct fatigue dream bulk breeze";
+var mnemonic = "embrace delay tell cactus affair attend idle device absent hello reflect light";

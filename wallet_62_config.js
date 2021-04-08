@@ -1,1 +1,1 @@
-var mnemonic = "artwork usage claw inch wage ship casino slogan reason divert general sugar";
+var mnemonic = "spice flat music task holiday tide vehicle arrow blur bone lens cabbage";

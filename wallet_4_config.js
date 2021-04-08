@@ -1,1 +1,1 @@
-var mnemonic = "anxiety craft taxi jacket panel street bundle approve ski evidence polar illness";
+var mnemonic = "picnic benefit scorpion situate response arena episode utility flip ribbon gravity stable";

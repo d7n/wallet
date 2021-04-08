@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog pepper logic wide car early deposit valve similar upgrade script tip";
+var mnemonic = "final good hint degree crash carpet box they cannon drum theory sure";

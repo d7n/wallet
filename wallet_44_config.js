@@ -1,1 +1,1 @@
-var mnemonic = "smart segment song mixture squeeze essay thrive journey empty myth differ sock";
+var mnemonic = "reflect orchard grape vote spring dawn loyal flavor actress short music toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "brush board collect stairs duck hold plate draw seat multiply body federal";
+var mnemonic = "crisp powder defy carry south stereo inspire little ridge food small vapor";

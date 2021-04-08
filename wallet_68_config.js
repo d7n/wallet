@@ -1,1 +1,1 @@
-var mnemonic = "online movie task blossom phrase pipe much antenna charge pen alpha actual";
+var mnemonic = "era view diamond donkey rabbit typical trick achieve art wish april peasant";

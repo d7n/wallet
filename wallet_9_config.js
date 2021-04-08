@@ -1,1 +1,1 @@
-var mnemonic = "large reduce forum present concert cousin possible pistol catalog pen strong shaft";
+var mnemonic = "say light occur camp gauge toe reveal pony river beauty obscure plate";

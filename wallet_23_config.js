@@ -1,1 +1,1 @@
-var mnemonic = "lock question little seek paper alien effort fossil swear skate entire goose";
+var mnemonic = "lunar wolf camera aware weapon assault hundred blush warm soccer illegal quiz";

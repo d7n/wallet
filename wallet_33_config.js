@@ -1,1 +1,1 @@
-var mnemonic = "live soul caught pluck vast exist hazard social shaft govern forum ask";
+var mnemonic = "rival used skin urge hard risk spend toy impulse trend crystal cave";

@@ -1,1 +1,1 @@
-var mnemonic = "afford luggage tooth quote shed zoo uncover announce wave casual caution mixture";
+var mnemonic = "cannon fossil unknown cliff sentence monkey tape coin olive grief sunset during";

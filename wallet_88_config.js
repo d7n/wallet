@@ -1,1 +1,1 @@
-var mnemonic = "feel loop detect tooth genius solution dice bag unveil this true worth";
+var mnemonic = "erosion resemble spell spoon badge visual best feature adjust rubber split improve";

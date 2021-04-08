@@ -1,1 +1,1 @@
-var mnemonic = "breeze tooth aware great casual win dignity spend wrestle client ranch act";
+var mnemonic = "diagram season bike famous silly pistol victory twin drip uniform rabbit science";

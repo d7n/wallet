@@ -1,1 +1,1 @@
-var mnemonic = "regret state grass sibling mixed priority radar wool fragile cake winner acquire";
+var mnemonic = "tray alter tobacco aware proud during tortoise depend affair carpet celery plug";

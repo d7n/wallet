@@ -1,1 +1,1 @@
-var mnemonic = "mix security fashion pig involve stock direct grain casual journey clay solution";
+var mnemonic = "addict lemon inhale spray run someone swear test crew consider dwarf feel";

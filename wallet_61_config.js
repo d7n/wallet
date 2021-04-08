@@ -1,1 +1,1 @@
-var mnemonic = "manage wear desert raw height acquire buyer trend govern december hint casual";
+var mnemonic = "infant poet bench chair mass cream mobile picnic retreat corn junk ten";

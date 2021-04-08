@@ -1,1 +1,1 @@
-var mnemonic = "ensure crime feed acoustic concert squeeze boy blur slush comic problem meat";
+var mnemonic = "embody law churn head robot strategy marine mammal lazy ski february explain";

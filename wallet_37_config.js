@@ -1,1 +1,1 @@
-var mnemonic = "hello awkward virus furnace juice snap purity wife upon farm hope valid";
+var mnemonic = "kick income joke ask round equip come tennis old airport trumpet uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "repair distance jacket erosion quiz choice point silent humor aspect wife want";
+var mnemonic = "dinosaur plug reflect silly soft catch kit supreme pole adapt among frequent";

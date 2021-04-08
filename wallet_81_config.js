@@ -1,1 +1,1 @@
-var mnemonic = "much climb nephew flee pill whisper pretty today home truck feature enemy";
+var mnemonic = "between win remain lion tape biology try protect margin sunny grape ocean";

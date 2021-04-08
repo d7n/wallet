@@ -1,1 +1,1 @@
-var mnemonic = "crunch moment jealous swap unaware farm loyal enroll leave pluck cause program";
+var mnemonic = "abuse shy remain excuse obey lyrics jewel session concert actual record bubble";

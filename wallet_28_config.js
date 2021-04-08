@@ -1,1 +1,1 @@
-var mnemonic = "wink myth grid okay error argue welcome vibrant cook crazy peanut toilet";
+var mnemonic = "garbage force series actor absurd update outdoor invite nephew tattoo label garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal light predict silent thumb voyage sudden phone recycle month echo make";
+var mnemonic = "bike review bacon random actress engage guess desk scrap orphan announce forum";

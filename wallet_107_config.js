@@ -1,1 +1,1 @@
-var mnemonic = "snap unaware snap reward pudding lesson midnight physical local prosper recall nurse";
+var mnemonic = "shrug maple fashion maximum pulse dirt huge fever kit silent slam few";

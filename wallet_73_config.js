@@ -1,1 +1,1 @@
-var mnemonic = "aspect protect useless three fiber husband club romance bright shoulder frequent cattle";
+var mnemonic = "federal purity program cream cute wreck crisp extra derive town easily toward";

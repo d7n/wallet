@@ -1,1 +1,1 @@
-var mnemonic = "govern cannon limit squirrel achieve burger kangaroo auction feel doctor pipe begin";
+var mnemonic = "situate sustain dilemma trophy east pole nature face olive glow drama stomach";

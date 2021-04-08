@@ -1,1 +1,1 @@
-var mnemonic = "album arrive dilemma cruise cancel alley spy balcony fitness hurdle month erase";
+var mnemonic = "swing answer identify search rib immense indoor indoor beyond clever else exotic";

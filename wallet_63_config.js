@@ -1,1 +1,1 @@
-var mnemonic = "throw inside image marine history bridge doll merge aerobic world notice host";
+var mnemonic = "critic exist chimney topic announce control spirit unfair unfold cargo early disorder";

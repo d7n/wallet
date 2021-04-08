@@ -1,1 +1,1 @@
-var mnemonic = "finger essence spice cross desert beauty shield supreme cry rebuild among vocal";
+var mnemonic = "task miracle bulk senior blossom method company lyrics inside flip when among";

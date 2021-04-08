@@ -1,1 +1,1 @@
-var mnemonic = "brief tell tide thought gesture smooth insane test suspect stadium spider frown";
+var mnemonic = "monster pudding allow drift shadow acoustic moral hobby cushion thrive erode vapor";

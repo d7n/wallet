@@ -1,1 +1,1 @@
-var mnemonic = "retire symbol bag network shine enable nature observe dice egg pave best";
+var mnemonic = "prize ride banner video magnet boost board arrest law kangaroo swift point";

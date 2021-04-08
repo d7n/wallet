@@ -1,1 +1,1 @@
-var mnemonic = "buffalo position calm senior motor furnace pelican puppy fish broken autumn aerobic";
+var mnemonic = "frequent drop cargo ginger sure corn knee absurd draft candy desk all";

@@ -1,1 +1,1 @@
-var mnemonic = "venue upset useful source notable wheat skull ghost practice plunge dentist solid";
+var mnemonic = "marble action card divorce inquiry resemble urban demise turn approve cattle pigeon";

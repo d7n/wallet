@@ -1,1 +1,1 @@
-var mnemonic = "picnic drink off door push wreck banner thumb assault cheap valid portion";
+var mnemonic = "attack solution tide pet cabin coin assume myself orbit enlist swear garment";

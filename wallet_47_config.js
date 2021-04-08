@@ -1,1 +1,1 @@
-var mnemonic = "portion oyster switch swarm vapor cup reopen tornado crawl balance often mail";
+var mnemonic = "merit sad goddess film brisk fade weird gloom breeze edge canal dutch";

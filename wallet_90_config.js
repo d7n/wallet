@@ -1,1 +1,1 @@
-var mnemonic = "fade still decrease awake snack gift forget swarm useful dial duck caution";
+var mnemonic = "trash afraid bronze route work rifle hole identify boss melody juice shiver";

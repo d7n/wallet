@@ -1,1 +1,1 @@
-var mnemonic = "promote foam air fragile proud pass marble waste valid pyramid now fine";
+var mnemonic = "stone bus pepper assist barrel room lift hood mule pretty misery garment";

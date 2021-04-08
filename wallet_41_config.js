@@ -1,1 +1,1 @@
-var mnemonic = "priority tonight merge hen copper garment silent upper sting head custom foster";
+var mnemonic = "letter shoulder mass voyage anger indoor hope uphold wage pink alien ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "account deliver weekend winner suit kite harsh resist decrease pass wall upgrade";
+var mnemonic = "reflect space weekend unlock debate unfair enroll magnet leisure game inch engage";

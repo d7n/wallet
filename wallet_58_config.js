@@ -1,1 +1,1 @@
-var mnemonic = "tooth latin stock sort already feature fragile estate vacuum endless list city";
+var mnemonic = "matter choice scrap rubber quote song smoke music race jacket love swim";

@@ -1,1 +1,1 @@
-var mnemonic = "pen jungle level where shoot acoustic thank horn winter powder book certain";
+var mnemonic = "symptom moon rebuild barrel myth topple enjoy delay ginger foot tourist nurse";

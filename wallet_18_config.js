@@ -1,1 +1,1 @@
-var mnemonic = "decrease crawl donkey gorilla ancient fever song robot lift fetch envelope desert";
+var mnemonic = "behind test sunset work indoor range pig weekend trick conduct indoor design";

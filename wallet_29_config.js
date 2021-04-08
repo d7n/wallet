@@ -1,1 +1,1 @@
-var mnemonic = "tonight anxiety leave cause dish leader green hamster pistol myth day random";
+var mnemonic = "festival jaguar wear bench arrange useless tilt love theme elbow absent note";

@@ -1,1 +1,1 @@
-var mnemonic = "caution kind parent segment when example clever heart pigeon arrow ladder material";
+var mnemonic = "can kick six cabin skull unable inmate sight game media hidden stem";

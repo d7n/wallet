@@ -1,1 +1,1 @@
-var mnemonic = "adjust orphan into stage fold virus couch another glad during ski omit";
+var mnemonic = "review hammer lottery remain vanish fever throw seven tornado ice maze trouble";

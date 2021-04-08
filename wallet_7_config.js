@@ -1,1 +1,1 @@
-var mnemonic = "umbrella possible scatter pond cream sense enrich address tissue glimpse maid hotel";
+var mnemonic = "trouble cupboard office cave fox rain unknown pumpkin sick dizzy palace nation";

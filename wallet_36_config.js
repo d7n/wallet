@@ -1,1 +1,1 @@
-var mnemonic = "street hard town cup happy whisper bar box smile fury barely clean";
+var mnemonic = "question holiday model repair van glove gossip gown peasant critic negative vital";

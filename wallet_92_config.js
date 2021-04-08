@@ -1,1 +1,1 @@
-var mnemonic = "seek grace design cupboard medal train cherry oil element aim enrich edit";
+var mnemonic = "caught hour arm inner popular main siege depend fatigue shop message display";

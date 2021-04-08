@@ -1,1 +1,1 @@
-var mnemonic = "sort awake remove buffalo mansion parade humor wealth forget version slow chest";
+var mnemonic = "plastic yard drip clerk cereal mechanic cake student cloth sketch mass length";

@@ -1,1 +1,1 @@
-var mnemonic = "fly bachelor around snack salmon prize bike slush flag solid gain flip";
+var mnemonic = "pistol recall elephant air prepare gas train ankle survey eternal conduct fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi nurse fantasy enroll bitter print crew drill hollow broom shoot virtual";
+var mnemonic = "mutual gesture farm still vintage raven grape tiny catch anchor develop develop";

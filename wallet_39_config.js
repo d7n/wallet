@@ -1,1 +1,1 @@
-var mnemonic = "youth spirit buddy pipe sock own special pole screen survey spread steak";
+var mnemonic = "drum ensure nothing galaxy sister regret flag spot apology real mean faith";

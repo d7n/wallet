@@ -1,1 +1,1 @@
-var mnemonic = "runway shiver silk boost frost sell hair message torch century power expire";
+var mnemonic = "swear try reform shrug ball author able burden receive tiny mean ten";

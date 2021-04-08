@@ -1,1 +1,1 @@
-var mnemonic = "meadow oyster area napkin hotel clap merge tonight hard occur permit ride";
+var mnemonic = "soup fade leg tube correct elite shield left view index slight beef";

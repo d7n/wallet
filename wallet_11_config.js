@@ -1,1 +1,1 @@
-var mnemonic = "ketchup auction maze aware feel behind flush fortune text blade digital trend";
+var mnemonic = "three unfair rocket twin summer response sword payment unique pipe kitten harsh";

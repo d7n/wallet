@@ -1,1 +1,1 @@
-var mnemonic = "velvet onion dinner purchase input fold huge congress visit afraid apple inflict";
+var mnemonic = "mother trophy gloom spirit injury pipe diagram trick ancient volume major taxi";

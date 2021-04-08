@@ -1,1 +1,1 @@
-var mnemonic = "oak primary stamp frost runway enter chronic animal eye note index budget";
+var mnemonic = "amused cluster say twelve sort daughter print wise tissue rescue clerk valid";

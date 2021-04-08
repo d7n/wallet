@@ -1,1 +1,1 @@
-var mnemonic = "debate cycle arrest couple hobby visa cabbage number raw castle diet child";
+var mnemonic = "spray motion tortoise muscle destroy monster sweet senior drama also neck identify";

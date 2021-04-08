@@ -1,1 +1,1 @@
-var mnemonic = "black blame tenant frown sunny depth poverty edit behave fork asthma blouse";
+var mnemonic = "lecture advice oak grow industry frame raise earth route either creek snap";

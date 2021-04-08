@@ -1,1 +1,1 @@
-var mnemonic = "climb must want oil toy twist various subway rabbit mercy antenna nominee";
+var mnemonic = "blast kingdom armed common question inmate verify pizza able series marble primary";

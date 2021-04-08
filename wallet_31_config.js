@@ -1,1 +1,1 @@
-var mnemonic = "young travel monster amused soccer prison few alpha voice drift february deal";
+var mnemonic = "fog creek enjoy grow wrist absent path year belt raw hazard pizza";

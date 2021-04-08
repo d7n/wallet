@@ -1,1 +1,1 @@
-var mnemonic = "universe weapon actor detect wrap disagree truck room book olive raven village";
+var mnemonic = "gaze pass give session corn foster iron tube sock potato mixed month";

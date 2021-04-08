@@ -1,1 +1,1 @@
-var mnemonic = "raccoon success pair wait network unable dignity chase myself liar company hundred";
+var mnemonic = "memory math item either box plug chair scatter nuclear federal mind use";

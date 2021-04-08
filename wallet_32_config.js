@@ -1,1 +1,1 @@
-var mnemonic = "anxiety salad stereo stone explain stem clip chalk push load earth tired";
+var mnemonic = "rough morning drink age attack mammal mouse media lift only rifle bottom";

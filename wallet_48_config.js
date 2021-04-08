@@ -1,1 +1,1 @@
-var mnemonic = "panic upset peanut proud tide canvas volcano heavy you horse sudden option";
+var mnemonic = "cheap quote spare rookie save awkward bubble helmet hobby where attend jelly";
