@@ -1,1 +1,1 @@
-var mnemonic = "detect again surround weapon milk youth faint delay already letter wear awkward";
+var mnemonic = "echo victory elegant farm chronic guilt more garbage warfare caught unique decline";

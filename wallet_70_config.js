@@ -1,1 +1,1 @@
-var mnemonic = "merge token bottom erase jeans shadow ability lounge sugar coyote isolate text";
+var mnemonic = "beyond crumble green gasp assume wisdom pencil tell oil during glide faith";

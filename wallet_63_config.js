@@ -1,1 +1,1 @@
-var mnemonic = "angle paddle warrior region secret inflict gas frog apology busy warfare under";
+var mnemonic = "consider long wide erode narrow problem catch canvas embrace despair boat pass";

@@ -1,1 +1,1 @@
-var mnemonic = "hand birth push forest matter pupil over can citizen embark grow dad";
+var mnemonic = "glad marriage degree patient ill exclude surface target asthma limit profit blouse";

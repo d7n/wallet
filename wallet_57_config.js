@@ -1,1 +1,1 @@
-var mnemonic = "alter wisdom crash wink step that motor alcohol foot fiscal blood skill";
+var mnemonic = "smile wear outside beyond cool bubble position lumber chat wild dry october";

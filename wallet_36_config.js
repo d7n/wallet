@@ -1,1 +1,1 @@
-var mnemonic = "easy citizen slight bracket wisdom depart negative rely hawk laptop fox uphold";
+var mnemonic = "design catalog calm involve utility dinner churn accuse because hundred east sudden";

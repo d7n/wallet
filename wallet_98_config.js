@@ -1,1 +1,1 @@
-var mnemonic = "van diet glass access keen because coin slice alpha organ figure major";
+var mnemonic = "radar push antenna tail valid need chief share snap layer crunch carry";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum basket shaft shy supply hawk flavor shaft bunker refuse ivory speak";
+var mnemonic = "fan aisle strategy will session cherry picnic drama much ivory about priority";

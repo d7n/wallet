@@ -1,1 +1,1 @@
-var mnemonic = "display sorry mushroom demand west grab drama fat donkey multiply achieve hero";
+var mnemonic = "panic nose hobby together window cat worth ugly patient bundle three true";

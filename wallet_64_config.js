@@ -1,1 +1,1 @@
-var mnemonic = "occur man weasel market trick crane country polar window upgrade excuse luggage";
+var mnemonic = "purse layer decide define blast return father mix stage attend ski path";

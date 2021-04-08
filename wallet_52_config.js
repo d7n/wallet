@@ -1,1 +1,1 @@
-var mnemonic = "cabin forum horn quality cushion stove vendor melt pig opera april clean";
+var mnemonic = "start dismiss prison spring tongue wish oval elegant collect shadow print rifle";

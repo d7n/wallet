@@ -1,1 +1,1 @@
-var mnemonic = "fan dad question scissors vote warrior input bench blush imitate april turn";
+var mnemonic = "crash liquid black ugly call company zone tobacco act lucky spot super";

@@ -1,1 +1,1 @@
-var mnemonic = "figure dial decorate render unhappy enjoy label mixed forward race clinic legend";
+var mnemonic = "camp furnace achieve summer chief bar lock marriage wash napkin mandate side";

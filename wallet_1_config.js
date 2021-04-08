@@ -1,1 +1,1 @@
-var mnemonic = "mistake novel impulse come surprise woman embark sport seed evidence govern water";
+var mnemonic = "such say wolf human cross habit embrace crucial foil buffalo dawn toss";

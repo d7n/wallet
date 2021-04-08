@@ -1,1 +1,1 @@
-var mnemonic = "essay reason click midnight gauge ancient size key relax wrong assume anger";
+var mnemonic = "whisper garbage toast quote catalog hollow dish milk move other shoe school";

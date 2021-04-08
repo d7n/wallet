@@ -1,1 +1,1 @@
-var mnemonic = "dragon soon flavor cloud climb sign reflect goddess wear frost woman language";
+var mnemonic = "focus task ocean funny mean embrace paper amount tortoise material riot certain";

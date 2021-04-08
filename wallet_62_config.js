@@ -1,1 +1,1 @@
-var mnemonic = "brown labor eye injury refuse true toy dice hope success crash elite";
+var mnemonic = "magnet rate august quote swarm neutral bright quality veteran double bone acquire";

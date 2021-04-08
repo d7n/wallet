@@ -1,1 +1,1 @@
-var mnemonic = "brown insect hazard parade end illegal learn cradle whale story oblige account";
+var mnemonic = "never patrol tube festival scare dice swamp power limit plate open proof";

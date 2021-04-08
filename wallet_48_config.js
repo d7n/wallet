@@ -1,1 +1,1 @@
-var mnemonic = "nurse casual teach sustain depend slender cook lazy clay love world child";
+var mnemonic = "frost response doctor follow swamp clarify october worry cactus practice bundle gun";

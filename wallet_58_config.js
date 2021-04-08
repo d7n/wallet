@@ -1,1 +1,1 @@
-var mnemonic = "express oil salmon warrior rhythm doll brass online whisper timber layer social";
+var mnemonic = "cup task bless kiss dream boost smooth ski double thrive west exact";

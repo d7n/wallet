@@ -1,1 +1,1 @@
-var mnemonic = "inflict critic gaze unable sadness ozone wide brown below truth much lizard";
+var mnemonic = "wild mask slush vendor mirror slide river observe digital bind discover universe";

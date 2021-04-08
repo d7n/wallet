@@ -1,1 +1,1 @@
-var mnemonic = "behind wool ginger divide swift apple enough gauge uncover friend mirror dust";
+var mnemonic = "connect sniff setup sea feature elegant shop differ vintage hire damage glue";

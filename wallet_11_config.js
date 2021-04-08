@@ -1,1 +1,1 @@
-var mnemonic = "satoshi final farm divorce slam spend neglect october glue seat title insane";
+var mnemonic = "orbit vehicle sauce science quick load true denial discover foam lamp melt";

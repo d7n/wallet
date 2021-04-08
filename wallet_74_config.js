@@ -1,1 +1,1 @@
-var mnemonic = "situate cook honey panther method unveil among actress guard kind job boy";
+var mnemonic = "front social heavy release tennis nasty depth cube sure ivory inch learn";

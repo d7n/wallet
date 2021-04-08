@@ -1,1 +1,1 @@
-var mnemonic = "immense inmate parent limb canvas lady ahead crisp situate glide pass symptom";
+var mnemonic = "artist crunch shoe arena boy pretty border leg trip diesel child faith";

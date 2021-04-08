@@ -1,1 +1,1 @@
-var mnemonic = "club couple blood steak void boil loyal balance pumpkin inject venture width";
+var mnemonic = "photo crazy awesome piano dress quit snow fence perfect domain exact subway";

@@ -1,1 +1,1 @@
-var mnemonic = "trip grab erosion trap ethics parade wife tilt immune gown helmet all";
+var mnemonic = "horn youth cushion inmate uncle split deliver donate chimney tattoo typical swallow";

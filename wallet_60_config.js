@@ -1,1 +1,1 @@
-var mnemonic = "monster fiber junior orchard all check trick smart piano tube liberty enforce";
+var mnemonic = "bless rent error cruel soldier topic mail predict decorate blame torch child";

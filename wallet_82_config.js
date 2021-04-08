@@ -1,1 +1,1 @@
-var mnemonic = "decrease exit foot rookie float deliver road poem bless face ensure people";
+var mnemonic = "infant point engage allow access popular elephant domain prize gather narrow nuclear";

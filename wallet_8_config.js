@@ -1,1 +1,1 @@
-var mnemonic = "often cram interest box real verify eternal obey quick electric photo casino";
+var mnemonic = "wall alpha indicate main raven ability tunnel access clever disagree arrow edge";

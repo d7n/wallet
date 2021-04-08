@@ -1,1 +1,1 @@
-var mnemonic = "confirm rose seven rival drill correct scatter skin grow truly glide bronze";
+var mnemonic = "license come welcome unhappy ethics client hockey amount ancient time solution grid";

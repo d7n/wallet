@@ -1,1 +1,1 @@
-var mnemonic = "market head hidden auction relief soccer midnight chef fury remind liar universe";
+var mnemonic = "vicious ice arena mutual rib voyage photo flush sadness whisper ethics small";

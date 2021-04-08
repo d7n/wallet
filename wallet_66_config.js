@@ -1,1 +1,1 @@
-var mnemonic = "alone theory mimic desk that exotic control inherit place much shock stay";
+var mnemonic = "embrace gym transfer install actual human wink decade begin swim sail donkey";

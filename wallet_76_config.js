@@ -1,1 +1,1 @@
-var mnemonic = "near drift minimum easily gaze height foil cube already jelly nothing december";
+var mnemonic = "social warfare train desk cup vivid swarm endorse infant renew goose volume";

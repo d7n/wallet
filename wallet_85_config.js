@@ -1,1 +1,1 @@
-var mnemonic = "deny foster correct venue endorse simple loyal live east stool fantasy pen";
+var mnemonic = "connect number conduct tired hundred warrior bright flush that away badge rigid";

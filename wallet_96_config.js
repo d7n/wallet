@@ -1,1 +1,1 @@
-var mnemonic = "case brass brick cable bid advice dragon define asset grab season occur";
+var mnemonic = "vibrant kitten image dolphin pool senior attitude cupboard light maze miracle tissue";

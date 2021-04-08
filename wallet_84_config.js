@@ -1,1 +1,1 @@
-var mnemonic = "travel ecology plate sheriff slush perfect garment aerobic atom world fault course";
+var mnemonic = "affair run job lawsuit pioneer police resist trip junk useless produce tomorrow";

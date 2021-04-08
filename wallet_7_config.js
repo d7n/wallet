@@ -1,1 +1,1 @@
-var mnemonic = "turn seven sand fever math monitor future pistol napkin siren ankle hurdle";
+var mnemonic = "board spare ready fence olympic viable game tilt position foot typical vocal";

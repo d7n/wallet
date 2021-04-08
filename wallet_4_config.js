@@ -1,1 +1,1 @@
-var mnemonic = "someone fan gown trigger only position man avoid defy grace kite meat";
+var mnemonic = "short meat stumble mountain either squirrel donkey letter dwarf peasant meat domain";

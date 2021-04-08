@@ -1,1 +1,1 @@
-var mnemonic = "trumpet humble space sphere flush hospital machine nerve chalk lens hole oven";
+var mnemonic = "pill sing fiscal avoid sibling hobby obtain region hollow area thunder evil";

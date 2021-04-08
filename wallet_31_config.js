@@ -1,1 +1,1 @@
-var mnemonic = "gather pond alter okay donkey autumn goose citizen comfort gospel catalog fiction";
+var mnemonic = "clog denial slim room dust gate dad dune income friend blast enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "among opinion index found hedgehog gadget oil celery visual oil neither stadium";
+var mnemonic = "fly nephew pole level race slender glad problem lift devote payment family";

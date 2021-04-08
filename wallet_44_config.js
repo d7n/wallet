@@ -1,1 +1,1 @@
-var mnemonic = "nation provide pilot okay include torch coffee giraffe extend frozen memory silk";
+var mnemonic = "sudden best december result dynamic frog best sign until chase again toe";

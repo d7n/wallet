@@ -1,1 +1,1 @@
-var mnemonic = "violin response strategy beef churn same sail better still scrub inform wise";
+var mnemonic = "liberty dog speed run century relief broccoli misery marble captain nurse penalty";

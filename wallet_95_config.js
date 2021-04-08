@@ -1,1 +1,1 @@
-var mnemonic = "earn math donkey potato pupil chimney buffalo urban hybrid drama interest anchor";
+var mnemonic = "bamboo clock innocent battle glance learn always mistake page evoke basic garment";

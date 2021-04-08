@@ -1,1 +1,1 @@
-var mnemonic = "employ bulb secret wife drive scare erosion income gold possible dice panda";
+var mnemonic = "skill network win dog vanish baby behind dilemma bullet olive morning road";

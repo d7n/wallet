@@ -1,1 +1,1 @@
-var mnemonic = "eagle blush neglect drastic note wet exhaust pink recycle try away vendor";
+var mnemonic = "absent body couch worry symptom outdoor neglect cactus property march claim spatial";

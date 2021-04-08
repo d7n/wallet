@@ -1,1 +1,1 @@
-var mnemonic = "smoke inch sure rose sauce purse nerve genuine onion egg test absorb";
+var mnemonic = "oven echo loyal stool render find avocado sample nephew glad morning dry";

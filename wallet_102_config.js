@@ -1,1 +1,1 @@
-var mnemonic = "bulk couch spider cage reflect apart beach disorder turkey soul possible supreme";
+var mnemonic = "emerge lunar drive concert rival identify bulk furnace emerge crash menu sail";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic vibrant lonely knock alpha require remember nurse south hub foil rug";
+var mnemonic = "gospel fee original expire expect clump hamster quarter angle picnic reduce heart";

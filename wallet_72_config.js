@@ -1,1 +1,1 @@
-var mnemonic = "stage drift gadget basic run fresh below spatial riot ethics derive relief";
+var mnemonic = "survey fame tonight ozone doctor random abstract memory estate include scene resist";

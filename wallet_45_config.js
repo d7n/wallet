@@ -1,1 +1,1 @@
-var mnemonic = "verify snow scheme repair build buyer civil sweet bamboo logic fruit feed";
+var mnemonic = "ugly crop lion wedding spike once surround cook mechanic switch cream term";

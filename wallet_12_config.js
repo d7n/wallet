@@ -1,1 +1,1 @@
-var mnemonic = "maximum mouse dry guitar choose mother shell carry avoid radio order concert";
+var mnemonic = "ranch swap cabin pretty play stool child inject net beach remind item";

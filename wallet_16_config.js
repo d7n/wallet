@@ -1,1 +1,1 @@
-var mnemonic = "link person speed canvas regular wasp purchase order letter skill demand siren";
+var mnemonic = "kingdom general debate pass expose visit make october kidney blood any comfort";

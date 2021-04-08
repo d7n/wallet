@@ -1,1 +1,1 @@
-var mnemonic = "climb exhaust river cheap critic zoo prepare size unique brave fish load";
+var mnemonic = "wink diet since rose swear smooth plunge diamond appear girl reward cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle people toward play song ritual sentence differ swamp couch quick father";
+var mnemonic = "ship festival unfair entry orbit proud help they proof tumble ahead moon";

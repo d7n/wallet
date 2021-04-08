@@ -1,1 +1,1 @@
-var mnemonic = "super seven able mercy badge cream resemble inmate system harsh ribbon accuse";
+var mnemonic = "divide muffin satisfy board brave blade repeat mass family cluster brave rack";

@@ -1,1 +1,1 @@
-var mnemonic = "desert usage pledge session custom mesh lemon shallow wish vapor journey gas";
+var mnemonic = "observe antenna enforce add quick excess goddess misery robust style sort fuel";

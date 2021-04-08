@@ -1,1 +1,1 @@
-var mnemonic = "blush stomach syrup rude stock laundry wine under horror flock various honey";
+var mnemonic = "view music treat time trigger gown moment canyon fault car flower donkey";

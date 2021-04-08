@@ -1,1 +1,1 @@
-var mnemonic = "glass potato bean type jump rain blade mass daughter mobile voyage sail";
+var mnemonic = "gather weird patrol punch bracket unknown more excess monster host orphan fever";

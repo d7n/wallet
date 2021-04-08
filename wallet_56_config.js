@@ -1,1 +1,1 @@
-var mnemonic = "avoid humor cargo surround accuse able system speed ancient educate theory token";
+var mnemonic = "coast small angle snap cabbage drop security original twist talk bicycle leisure";

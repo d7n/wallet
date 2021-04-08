@@ -1,1 +1,1 @@
-var mnemonic = "pipe vacant label march thumb undo limit donkey turtle net behind vintage";
+var mnemonic = "cushion parade border hold summer blame indicate entire trophy island mass later";

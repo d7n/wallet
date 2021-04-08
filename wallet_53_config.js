@@ -1,1 +1,1 @@
-var mnemonic = "toward exact pigeon fine solve magic patrol drive dice neutral duck impulse";
+var mnemonic = "black almost just rally skate upon caution cluster clean venue penalty rocket";

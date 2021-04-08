@@ -1,1 +1,1 @@
-var mnemonic = "blade claim course chronic stadium virtual candy ribbon project ethics beyond olive";
+var mnemonic = "acoustic smile explain local noble refuse auto path salmon silver quit manage";

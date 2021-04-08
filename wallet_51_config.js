@@ -1,1 +1,1 @@
-var mnemonic = "menu repeat settle jewel urge impulse skull weapon melody cover lecture hat";
+var mnemonic = "gossip expand version novel lock scrap inflict multiply best jelly blind sudden";

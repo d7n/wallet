@@ -1,1 +1,1 @@
-var mnemonic = "poverty describe swap clever abstract dash benefit relax student buyer charge spend";
+var mnemonic = "hammer steak juice spike venture injury mammal monitor employ thumb during apart";

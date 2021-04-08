@@ -1,1 +1,1 @@
-var mnemonic = "habit artist emotion final marble another giant salon castle original father scrap";
+var mnemonic = "chaos domain number shrimp universe engage pudding science embody purpose nephew rib";

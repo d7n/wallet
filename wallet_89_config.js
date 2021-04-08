@@ -1,1 +1,1 @@
-var mnemonic = "mask tape liar gospel muffin lab unique across before crush wide mosquito";
+var mnemonic = "kangaroo embrace bridge oval stay object love tower vibrant broom sword pond";

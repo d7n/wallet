@@ -1,1 +1,1 @@
-var mnemonic = "awesome cliff siege grant annual math shoot few club jealous three run";
+var mnemonic = "employ media dial faith food dinosaur stove cabbage situate mandate major advance";

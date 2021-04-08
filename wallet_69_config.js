@@ -1,1 +1,1 @@
-var mnemonic = "traffic lake gesture buddy clay robust uphold flower educate motion grab card";
+var mnemonic = "sort pulp antenna orient hurry merge ripple fossil essay enrich notice impose";

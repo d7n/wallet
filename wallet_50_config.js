@@ -1,1 +1,1 @@
-var mnemonic = "burger sustain impose hire glue vessel silly strike glove cupboard fatigue token";
+var mnemonic = "cabin sadness evolve panic gossip lamp rack beach betray cousin venue disorder";

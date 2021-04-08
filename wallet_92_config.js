@@ -1,1 +1,1 @@
-var mnemonic = "van prosper dress wheat public chaos mixture obtain dash wing notice review";
+var mnemonic = "grain opinion chef argue only deputy quiz float salute avocado level pilot";

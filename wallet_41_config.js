@@ -1,1 +1,1 @@
-var mnemonic = "famous alpha decade abuse fish roast term beef cat panic awful appear";
+var mnemonic = "knee endless taxi bacon fall ozone eager minor attitude toddler essence pen";

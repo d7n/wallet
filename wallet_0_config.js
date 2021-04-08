@@ -1,1 +1,1 @@
-var mnemonic = "rib gain nut dose intact answer inform stick start extra embody drama";
+var mnemonic = "clutch timber because sorry holiday plate salmon ranch garlic roast harvest agree";

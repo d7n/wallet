@@ -1,1 +1,1 @@
-var mnemonic = "regular wood silk found outside arrow cram girl feel time forward police";
+var mnemonic = "hour wool logic silver escape habit surface evoke despair capital agree board";

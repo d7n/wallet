@@ -1,1 +1,1 @@
-var mnemonic = "fantasy sun pet mountain vibrant obscure debate age cinnamon fossil inmate setup";
+var mnemonic = "sniff average poet ankle casino mention please obtain visual zero victory involve";

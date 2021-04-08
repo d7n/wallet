@@ -1,1 +1,1 @@
-var mnemonic = "deliver attitude omit chunk actress employ decline copper arrest hockey involve loan";
+var mnemonic = "dismiss midnight nest daring taste enhance push panel ostrich romance diamond banner";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll arrive jacket exit few raise roof work avoid increase tongue frame";
+var mnemonic = "horror tribe pond goddess spin twice brief impulse price enemy runway naive";

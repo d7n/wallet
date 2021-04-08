@@ -1,1 +1,1 @@
-var mnemonic = "acquire naive awesome margin fold one control kiwi error organ light huge";
+var mnemonic = "pupil segment garlic flavor suffer radar bless ball diesel resemble tumble dizzy";

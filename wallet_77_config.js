@@ -1,1 +1,1 @@
-var mnemonic = "brass drift relief harvest govern bus icon fence rent casual gate rapid";
+var mnemonic = "axis basket nose barely stereo witness road target giraffe acoustic wear army";

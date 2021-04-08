@@ -1,1 +1,1 @@
-var mnemonic = "close cushion rare connect silent frog sell meadow motor basket scare leaf";
+var mnemonic = "vocal cry sadness inform flag tool decline uncle stay luxury celery habit";

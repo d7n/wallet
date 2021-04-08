@@ -1,1 +1,1 @@
-var mnemonic = "student drive uncover fruit enlist basic reject odor ankle bamboo any special";
+var mnemonic = "slide symptom juice clever fence shoe okay shoulder habit medal disease survey";

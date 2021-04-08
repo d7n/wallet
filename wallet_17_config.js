@@ -1,1 +1,1 @@
-var mnemonic = "month before glance connect ghost case tube mix vacuum field arrive ecology";
+var mnemonic = "panda pudding assume excite whale anger brand this inquiry breeze pill person";

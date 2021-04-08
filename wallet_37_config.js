@@ -1,1 +1,1 @@
-var mnemonic = "truck planet monitor rate hip path man unhappy dilemma key country also";
+var mnemonic = "rapid salon usage pig honey walnut armor million fan interest stairs farm";

@@ -1,1 +1,1 @@
-var mnemonic = "magic exercise escape sad remove sing great hammer rough armed patch submit";
+var mnemonic = "frozen essence lemon level egg entry soul shield casual salad spend curve";

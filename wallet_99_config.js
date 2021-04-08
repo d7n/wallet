@@ -1,1 +1,1 @@
-var mnemonic = "luxury alcohol lake style setup access degree original egg essence stay vault";
+var mnemonic = "fortune expose guide battle local area soccer fork scan join number bring";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp health gossip bulk leaf jazz bench liar kite public total spin";
+var mnemonic = "height talent adult width toe ethics pear dove soldier end endless trouble";
