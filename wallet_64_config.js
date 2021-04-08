@@ -1,1 +1,1 @@
-var mnemonic = "patch blast radar viable liquid awake virtual mesh spy wagon inquiry flat";
+var mnemonic = "hello company oblige cave mean hire attitude easy lumber quit hurt ensure";

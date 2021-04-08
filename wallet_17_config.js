@@ -1,1 +1,1 @@
-var mnemonic = "upset amused attract come dilemma shoot describe trophy rain surface dirt review";
+var mnemonic = "ankle recycle robot buddy giggle social boil grief orient curtain shell fat";

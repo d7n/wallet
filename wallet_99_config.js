@@ -1,1 +1,1 @@
-var mnemonic = "uniform logic average steak wasp advance attend fold sugar lonely punch term";
+var mnemonic = "cable reform tuna hamster cover hungry during smoke utility food cereal universe";

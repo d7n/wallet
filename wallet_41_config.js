@@ -1,1 +1,1 @@
-var mnemonic = "captain bomb large uncover teach illegal congress cart rhythm wrist key despair";
+var mnemonic = "year cabbage cry shift piano option hundred ahead beyond start depend fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "bring pride steel pudding romance goat soup between science van family capable";
+var mnemonic = "want inspire pass live gentle order citizen humor cigar exclude zebra sound";

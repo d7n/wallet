@@ -1,1 +1,1 @@
-var mnemonic = "weekend fatigue day veteran film gossip tourist hold jelly tiger glass pool";
+var mnemonic = "need trigger song boss add fame pretty skin symbol shrimp wrist apple";

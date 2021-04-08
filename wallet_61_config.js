@@ -1,1 +1,1 @@
-var mnemonic = "picture video manage truly idea boring pretty system kiss stone ball pioneer";
+var mnemonic = "blood addict view rate mind alcohol crater obvious scout capital reduce excite";

@@ -1,1 +1,1 @@
-var mnemonic = "install account polar sister feature enemy inside tattoo flat regular river hard";
+var mnemonic = "athlete axis horror stage coast service omit board pull swarm knee bicycle";

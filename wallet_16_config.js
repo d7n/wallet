@@ -1,1 +1,1 @@
-var mnemonic = "unusual nuclear mango carry boost logic nerve injury dream cute grace orient";
+var mnemonic = "short clinic orient thumb pyramid solar session false suffer weekend banana cricket";

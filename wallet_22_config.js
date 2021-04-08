@@ -1,1 +1,1 @@
-var mnemonic = "since typical range jealous enter card panther tank neck bitter hand pudding";
+var mnemonic = "usage deliver bus genuine school guide inspire vault bread play emotion fitness";

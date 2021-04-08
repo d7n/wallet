@@ -1,1 +1,1 @@
-var mnemonic = "menu forget family submit program dose right trust derive hybrid menu pudding";
+var mnemonic = "check valley great nice olympic catch people urban network bless mechanic wedding";

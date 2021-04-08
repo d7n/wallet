@@ -1,1 +1,1 @@
-var mnemonic = "plunge verb acquire cube prosper humble stable vehicle milk meadow blur exhaust";
+var mnemonic = "filter smile solution anchor quarter solar slide eagle team lobster promote scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "special crouch reason finish foster slow cake west weapon science fork firm";
+var mnemonic = "wink hazard tank express edit dose ketchup fog outer toy great forget";

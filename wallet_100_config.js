@@ -1,1 +1,1 @@
-var mnemonic = "issue bring abstract dial task nephew dinosaur anchor visit bid visa olympic";
+var mnemonic = "pill simple spoil churn sight pencil square law swap prison noise correct";

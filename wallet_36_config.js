@@ -1,1 +1,1 @@
-var mnemonic = "coconut grid alarm upon immense soft protect nut obvious one lend horror";
+var mnemonic = "festival broken galaxy wedding way borrow jelly glimpse metal leave tower retire";

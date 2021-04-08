@@ -1,1 +1,1 @@
-var mnemonic = "atom pottery brain recipe unlock maze zero struggle weird episode give disease";
+var mnemonic = "type dice summer brave flee gesture twist cannon music yellow night lift";

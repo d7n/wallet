@@ -1,1 +1,1 @@
-var mnemonic = "resist sponsor giraffe fade fine snack mix hub quiz monitor minimum typical";
+var mnemonic = "someone girl spend woman lecture dance reopen museum ignore gravity curious say";

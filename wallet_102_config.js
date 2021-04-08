@@ -1,1 +1,1 @@
-var mnemonic = "lunch ship april rigid video someone joke brave benefit bike future skirt";
+var mnemonic = "discover version violin soft document tone pond company choice year film hidden";

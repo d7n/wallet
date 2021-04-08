@@ -1,1 +1,1 @@
-var mnemonic = "hold appear tree rather round attack bike raccoon rent section clinic piece";
+var mnemonic = "capable left decide agent human mosquito shiver proof success walnut mother emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "sound margin license bachelor glimpse journey wolf enough dance extend fiber trim";
+var mnemonic = "clip prison inherit puppy record enlist tackle correct toe love stairs melt";

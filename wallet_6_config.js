@@ -1,1 +1,1 @@
-var mnemonic = "focus kind endorse device comfort topic habit sport eternal crater wreck crucial";
+var mnemonic = "surround master almost another check another merry idle weasel jungle spawn write";

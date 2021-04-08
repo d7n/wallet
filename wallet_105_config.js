@@ -1,1 +1,1 @@
-var mnemonic = "snow situate hour deputy destroy shrimp sea expire wet concert include fiber";
+var mnemonic = "act unlock mechanic sample modify sort cattle vehicle garbage choose fashion monster";

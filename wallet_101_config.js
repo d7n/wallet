@@ -1,1 +1,1 @@
-var mnemonic = "round lonely envelope craft better exotic matrix network dwarf ozone deal truth";
+var mnemonic = "fossil marble drift horse panda rain skirt animal aware response artefact enable";

@@ -1,1 +1,1 @@
-var mnemonic = "globe bracket excuse carry describe match chuckle limit improve strategy mistake grass";
+var mnemonic = "click possible ceiling liquid iron success pitch convince warfare cup fluid jazz";

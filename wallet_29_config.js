@@ -1,1 +1,1 @@
-var mnemonic = "gold license letter drama finish clap ask foster mansion festival know curious";
+var mnemonic = "hip million bomb knock behave then inside palace grant mix legal figure";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding net slow transfer sudden extend lunar simple this swift recycle ordinary";
+var mnemonic = "spoon vivid quick person drama approve mountain ridge behave tomato stumble sport";

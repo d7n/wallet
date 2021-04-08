@@ -1,1 +1,1 @@
-var mnemonic = "forget enrich nuclear safe essence kitchen thrive screen awake file box select";
+var mnemonic = "noodle color hub fatigue example kidney viable topple bitter dream off swarm";

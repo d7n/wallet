@@ -1,1 +1,1 @@
-var mnemonic = "clog mass rabbit antenna diagram wide sibling decrease gesture avoid canyon fence";
+var mnemonic = "advice gift relief nuclear scissors giant crack grace file profit coyote host";

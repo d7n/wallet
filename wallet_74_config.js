@@ -1,1 +1,1 @@
-var mnemonic = "select catch ignore advance antenna logic emerge brand say private fly obscure";
+var mnemonic = "pear play nut effort hospital indicate add act sport physical climb rhythm";

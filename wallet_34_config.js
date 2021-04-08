@@ -1,1 +1,1 @@
-var mnemonic = "project reunion gasp banner rack aisle lumber mask alpha never receive crowd";
+var mnemonic = "clock major depart clarify nurse hamster hello milk orchard marriage senior discover";

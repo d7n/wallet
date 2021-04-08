@@ -1,1 +1,1 @@
-var mnemonic = "renew piece fat tobacco print push nation idea fade blur video volcano";
+var mnemonic = "abandon clever fresh candy breeze ridge jungle glory kitten coast half ticket";

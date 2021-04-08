@@ -1,1 +1,1 @@
-var mnemonic = "opera rely hundred female answer weapon business chunk bacon describe ostrich wash";
+var mnemonic = "cradle often bicycle shove broken shuffle mobile cactus sister rocket average mercy";

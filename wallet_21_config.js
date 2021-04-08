@@ -1,1 +1,1 @@
-var mnemonic = "memory cart rhythm action wall north host ensure cancel alpha sick rapid";
+var mnemonic = "exchange flower reject ice undo castle venture garden exit theme mutual ski";

@@ -1,1 +1,1 @@
-var mnemonic = "fever document asthma great modify digital spawn liberty unit road today curve";
+var mnemonic = "truth manage grocery bicycle prosper run age outside faith sleep this ketchup";

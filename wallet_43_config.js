@@ -1,1 +1,1 @@
-var mnemonic = "quick hamster mercy worry vivid slogan spare ridge pottery anxiety pipe extra";
+var mnemonic = "riot account addict head stamp ripple expose enjoy bounce hurt pluck coconut";

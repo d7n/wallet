@@ -1,1 +1,1 @@
-var mnemonic = "clog end inherit joke dolphin fan sleep gas walnut page stage fruit";
+var mnemonic = "fever column scorpion road dream slush urban sense bean admit transfer caution";

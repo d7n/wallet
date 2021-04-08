@@ -1,1 +1,1 @@
-var mnemonic = "race case sort mistake state drift voice twist ensure response ensure cloth";
+var mnemonic = "balcony slow face parade gloom tent cloud together around shell shoot faculty";

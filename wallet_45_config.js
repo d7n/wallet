@@ -1,1 +1,1 @@
-var mnemonic = "wise transfer joy file exclude pattern boost relax arm find elder draft";
+var mnemonic = "check space magic stove measure mixture purchase settle major boss brick aim";

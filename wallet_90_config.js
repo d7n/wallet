@@ -1,1 +1,1 @@
-var mnemonic = "moon tuna benefit captain brisk easily kitchen front run liberty head that";
+var mnemonic = "actor super fantasy pony below extra tube unique wisdom virus dawn region";

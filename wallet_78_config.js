@@ -1,1 +1,1 @@
-var mnemonic = "today return cereal rich merry parent snake motor harsh barely weapon weather";
+var mnemonic = "satisfy umbrella exclude hurt duck glass notable song century supply rural harbor";

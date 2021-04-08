@@ -1,1 +1,1 @@
-var mnemonic = "found account street congress step nephew faint exchange relief sister stamp swamp";
+var mnemonic = "hole tool scorpion pause laptop seek habit ritual key violin tumble sail";

@@ -1,1 +1,1 @@
-var mnemonic = "humble innocent bag sketch border dynamic embody flavor raw pear sauce alcohol";
+var mnemonic = "motion amused split purse give hybrid kit victory pass crucial mango engage";

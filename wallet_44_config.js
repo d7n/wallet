@@ -1,1 +1,1 @@
-var mnemonic = "pull mom message excess crash wet fun hand basket unlock decline slam";
+var mnemonic = "tackle foam tower defense detail original episode dismiss index certain win shadow";

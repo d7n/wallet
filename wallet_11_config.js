@@ -1,1 +1,1 @@
-var mnemonic = "habit salt proof return chuckle assist cream adapt cream shock hard mixed";
+var mnemonic = "sorry gather spell note novel make analyst plastic amazing flee chicken thunder";

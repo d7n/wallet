@@ -1,1 +1,1 @@
-var mnemonic = "spin judge brother ginger tree ranch galaxy advice start pattern flash sort";
+var mnemonic = "gossip ready mule cancel bronze web analyst uphold crouch goat virus bonus";

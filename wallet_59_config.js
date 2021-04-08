@@ -1,1 +1,1 @@
-var mnemonic = "breeze jazz van october fine rural broccoli nasty round bamboo head mountain";
+var mnemonic = "grape witness helmet glass ivory thrive circle grant rely option bullet borrow";

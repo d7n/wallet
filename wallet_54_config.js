@@ -1,1 +1,1 @@
-var mnemonic = "kitchen air cool absurd success task team size horse busy ensure session";
+var mnemonic = "catalog dust pottery donate run drink ignore note toy machine wedding mention";

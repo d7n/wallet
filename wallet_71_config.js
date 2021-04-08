@@ -1,1 +1,1 @@
-var mnemonic = "bargain sport ill truck when misery clerk dash figure tent nature vague";
+var mnemonic = "sight train okay inflict act piano inquiry goat uphold tool control flight";

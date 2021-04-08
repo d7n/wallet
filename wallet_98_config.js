@@ -1,1 +1,1 @@
-var mnemonic = "zero ketchup suggest manual degree brand skate mansion fossil humble bid achieve";
+var mnemonic = "steel hazard giraffe woman pelican wise program process tennis cheese arrest six";

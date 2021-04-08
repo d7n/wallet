@@ -1,1 +1,1 @@
-var mnemonic = "wave shrug tobacco argue hedgehog work proud manual source giraffe labor basket";
+var mnemonic = "roast speed fade small bar source measure amount cat suspect gallery retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery version imitate crumble diet glide afraid recycle giraffe order come size";
+var mnemonic = "popular virus nuclear swift worry forward spider nation hero sudden quit legend";

@@ -1,1 +1,1 @@
-var mnemonic = "either legal game vendor inflict later name embrace boil include circle leave";
+var mnemonic = "shoulder pole struggle blast absorb anxiety road silk need snow demise robust";

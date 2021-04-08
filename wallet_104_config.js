@@ -1,1 +1,1 @@
-var mnemonic = "nasty before surround poverty cave name hamster hazard order finger giant equal";
+var mnemonic = "congress wood curve latin clarify item city opera imitate february stand remember";

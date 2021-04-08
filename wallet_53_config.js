@@ -1,1 +1,1 @@
-var mnemonic = "emotion talent route cover room wear buffalo jelly category follow table retreat";
+var mnemonic = "doll impose autumn estate post unaware celery accident north sense dog sample";

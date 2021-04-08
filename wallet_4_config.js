@@ -1,1 +1,1 @@
-var mnemonic = "still fatigue mountain share squirrel effort bag conduct limit item unknown resist";
+var mnemonic = "thought problem north swing peasant write super tool electric member decorate code";

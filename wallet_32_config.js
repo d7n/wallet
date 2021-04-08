@@ -1,1 +1,1 @@
-var mnemonic = "wreck advance busy owner diagram dignity receive wet torch kangaroo antique smooth";
+var mnemonic = "combine door before weekend happy pistol cereal reward grief easily wasp remove";

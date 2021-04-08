@@ -1,1 +1,1 @@
-var mnemonic = "muscle bless state sweet taste boss tent twelve dice ability grunt caught";
+var mnemonic = "surprise reunion suggest elite fresh unable double diet cycle describe circle journey";

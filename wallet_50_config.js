@@ -1,1 +1,1 @@
-var mnemonic = "school excuse peanut three sample door green left measure second across front";
+var mnemonic = "cat load finish lonely theory dog scan scale old daughter pattern tell";

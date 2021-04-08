@@ -1,1 +1,1 @@
-var mnemonic = "account sheriff price core found eyebrow badge mind notice reform enable movie";
+var mnemonic = "bracket banner such chair win grape dignity rural tackle race primary useless";

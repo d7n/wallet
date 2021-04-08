@@ -1,1 +1,1 @@
-var mnemonic = "quality traffic essay deal voyage decade neutral pattern agree round clown volume";
+var mnemonic = "pact pass region wrestle since busy shallow transfer heart patch author mask";

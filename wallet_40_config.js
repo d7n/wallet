@@ -1,1 +1,1 @@
-var mnemonic = "sad record boring canoe north demise actual spike session modify lecture clip";
+var mnemonic = "estate path already notable invest acid wheel mushroom rate venture album cook";

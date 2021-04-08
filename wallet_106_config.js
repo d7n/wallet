@@ -1,1 +1,1 @@
-var mnemonic = "venture cactus pumpkin carbon industry health panel emerge mosquito wheat attack apology";
+var mnemonic = "suggest decide junk payment crater rich chase rival scatter method inflict setup";

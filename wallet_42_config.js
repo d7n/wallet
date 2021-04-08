@@ -1,1 +1,1 @@
-var mnemonic = "spot capital fade refuse exhaust liberty column victory lyrics cave lava play";
+var mnemonic = "arrive blouse spoon circle diesel brand situate day pepper lock panel rough";

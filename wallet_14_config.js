@@ -1,1 +1,1 @@
-var mnemonic = "tragic two club example regret glad witness phone behave urban pole hurry";
+var mnemonic = "someone brand gravity obvious custom job smart fresh video cinnamon fringe repair";

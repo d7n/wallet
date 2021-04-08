@@ -1,1 +1,1 @@
-var mnemonic = "beauty twist able hen thumb much strike enforce notice intact trust noble";
+var mnemonic = "invest rotate artefact bitter media urge uniform bamboo allow team under legal";

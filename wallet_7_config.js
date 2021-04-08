@@ -1,1 +1,1 @@
-var mnemonic = "debris dizzy stand soccer love salute raise venue crowd amateur piece enforce";
+var mnemonic = "calm shuffle tortoise ostrich cake oxygen cupboard jazz trigger elevator blade clock";

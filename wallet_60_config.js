@@ -1,1 +1,1 @@
-var mnemonic = "slot sausage year add have obtain mule hawk hire beyond stool climb";
+var mnemonic = "proof lazy destroy oyster lunch quit turkey reward spend cream borrow pistol";

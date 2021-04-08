@@ -1,1 +1,1 @@
-var mnemonic = "moment diagram spider clay sick burger december radar debris pulp web blanket";
+var mnemonic = "mosquito borrow prevent survey record demand space pluck cluster swift staff develop";

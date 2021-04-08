@@ -1,1 +1,1 @@
-var mnemonic = "cream follow sting immense attract punch panel hub jealous unhappy ride betray";
+var mnemonic = "dirt dwarf erode speed sponsor wrist pepper recall rack media timber umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "system mouse reveal begin sentence fish acid delay else erosion journey flash";
+var mnemonic = "wire dice destroy argue gallery address cable slice gesture rent leader lawn";

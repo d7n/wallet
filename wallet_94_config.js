@@ -1,1 +1,1 @@
-var mnemonic = "giggle deputy cactus cheap fragile satoshi deal thumb fun drop fade carpet";
+var mnemonic = "pull book play indoor penalty aunt spread achieve inmate medal bullet crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "detail twelve alpha relax pride olympic pelican close foam lyrics candy roast";
+var mnemonic = "awkward orient latin again symptom marble spy arm cigar token brass picture";

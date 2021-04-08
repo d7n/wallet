@@ -1,1 +1,1 @@
-var mnemonic = "public stable prize prefer monitor blur toddler gloom patient behind biology flock";
+var mnemonic = "orchard arctic sail ship extend tag example duty that team festival shield";

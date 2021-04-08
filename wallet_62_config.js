@@ -1,1 +1,1 @@
-var mnemonic = "slush spring still lunch doctor gallery suffer whale busy crawl spatial rhythm";
+var mnemonic = "device atom choose enhance paper car clean gym dentist spider quick alpha";

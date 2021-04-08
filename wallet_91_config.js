@@ -1,1 +1,1 @@
-var mnemonic = "express coyote apology village flavor tribe hungry horn must addict pig fish";
+var mnemonic = "isolate farm harvest they tone leopard slender kitten obscure around brisk push";

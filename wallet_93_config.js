@@ -1,1 +1,1 @@
-var mnemonic = "admit palm punch ocean abuse era pill attract must vanish wool team";
+var mnemonic = "gas craft clock entry mango mixed diamond demand express custom universe mean";

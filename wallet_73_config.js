@@ -1,1 +1,1 @@
-var mnemonic = "clean arch cry salute survey neutral ring crush surge work strong spy";
+var mnemonic = "kitchen avoid stick candy twist track scare promote jar trend puppy math";

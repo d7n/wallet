@@ -1,1 +1,1 @@
-var mnemonic = "board clerk ethics drum enable achieve stock marble benefit garbage awake ask";
+var mnemonic = "inform pizza blind allow shoot baby awkward junior occur insect bench evidence";

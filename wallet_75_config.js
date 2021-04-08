@@ -1,1 +1,1 @@
-var mnemonic = "camera habit memory first faculty flush catch expose trigger census elder unveil";
+var mnemonic = "latin early venue minute try crawl injury army desk must evil people";

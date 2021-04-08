@@ -1,1 +1,1 @@
-var mnemonic = "topple divide image shine there ozone execute window canvas process evolve chair";
+var mnemonic = "keen page shy analyst siren track dentist hybrid fold good surround suspect";

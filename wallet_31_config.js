@@ -1,1 +1,1 @@
-var mnemonic = "spice monkey struggle ordinary alarm myth work artefact tag all impulse stem";
+var mnemonic = "start equip action shoulder record true achieve reform adapt planet choice slogan";

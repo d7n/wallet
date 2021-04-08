@@ -1,1 +1,1 @@
-var mnemonic = "car arm canoe valid practice science shove indicate chapter evil rally damp";
+var mnemonic = "phone supply alert clown saddle biology apart labor fruit general guard type";

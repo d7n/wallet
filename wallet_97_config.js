@@ -1,1 +1,1 @@
-var mnemonic = "ritual rent nephew unknown topple rifle copper mother photo crater cage buddy";
+var mnemonic = "fade clutch truth depart soda fabric dish estate random joke neck wrestle";

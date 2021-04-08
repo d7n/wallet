@@ -1,1 +1,1 @@
-var mnemonic = "shoot edge lift field slush consider close sadness cattle van stock face";
+var mnemonic = "race park lend tent castle magnet pole gas subway rail sausage amount";

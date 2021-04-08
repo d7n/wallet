@@ -1,1 +1,1 @@
-var mnemonic = "receive only kind swap hungry round pair blanket uniform guess embody bar";
+var mnemonic = "amused tree crawl enter theory body teach mail note inherit twelve empower";

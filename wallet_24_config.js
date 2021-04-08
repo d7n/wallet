@@ -1,1 +1,1 @@
-var mnemonic = "visual where phrase throw dad magnet talent regular push coconut discover almost";
+var mnemonic = "organ this shove chaos race fox neglect scrub gather midnight detail lamp";

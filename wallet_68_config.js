@@ -1,1 +1,1 @@
-var mnemonic = "disagree solid owner pill mixture bus hazard blush easily yard bicycle device";
+var mnemonic = "repair funny fragile start chair noise inject raccoon salad since myth sun";
