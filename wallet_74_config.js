@@ -1,1 +1,1 @@
-var mnemonic = "bright person also soul foot chest mouse merge despair antique flock page";
+var mnemonic = "hint belt turn gossip phrase lonely jacket tongue harsh attract comic tower";

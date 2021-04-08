@@ -1,1 +1,1 @@
-var mnemonic = "cat tennis marble ice police grain stove roast sick rose will wrist";
+var mnemonic = "sadness simple layer spoil allow crush surface swarm sort inject swap bread";

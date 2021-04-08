@@ -1,1 +1,1 @@
-var mnemonic = "copper smart robust deposit radio meat farm demise inject choose addict vivid";
+var mnemonic = "much forest calm sunny upper drop clinic waste helmet observe awkward enhance";

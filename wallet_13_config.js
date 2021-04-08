@@ -1,1 +1,1 @@
-var mnemonic = "buddy squeeze remove noble setup south design float elbow steel menu violin";
+var mnemonic = "narrow episode fog dice essay bind ugly erosion female beyond such inhale";

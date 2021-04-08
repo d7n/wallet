@@ -1,1 +1,1 @@
-var mnemonic = "direct beauty coffee reflect system hope deny churn guide april tissue sea";
+var mnemonic = "luxury try stage great tiny glue protect pioneer again purpose connect pupil";

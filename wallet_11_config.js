@@ -1,1 +1,1 @@
-var mnemonic = "slide torch february fringe escape rescue drama distance used index way debris";
+var mnemonic = "gap return spoon rival toe regret win material dirt sail essay copy";

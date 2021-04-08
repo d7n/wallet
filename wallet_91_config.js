@@ -1,1 +1,1 @@
-var mnemonic = "update there harbor virus vote view else paper oblige tiger upper idle";
+var mnemonic = "draft pistol mad uniform sound film rough job output fox ready illegal";

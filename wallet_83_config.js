@@ -1,1 +1,1 @@
-var mnemonic = "bulk naive race float any soldier math glove assist bachelor strike choose";
+var mnemonic = "barrel stay cupboard dice small chef trip powder grab boat yard figure";

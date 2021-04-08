@@ -1,1 +1,1 @@
-var mnemonic = "above pelican shiver inquiry captain lecture dawn three rack season mask turn";
+var mnemonic = "bless general manage machine scrub decide lounge maximum pumpkin now awake library";

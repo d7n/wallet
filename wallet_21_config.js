@@ -1,1 +1,1 @@
-var mnemonic = "room autumn hen copper renew three split excuse empty absent note document";
+var mnemonic = "enforce worry allow canoe error supply cross cram kick laugh push cream";

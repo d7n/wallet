@@ -1,1 +1,1 @@
-var mnemonic = "crucial valid retreat copper usual rule ocean shuffle few shallow chuckle trap";
+var mnemonic = "peasant ticket theory account zebra process surge census vast peace immune guard";

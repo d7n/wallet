@@ -1,1 +1,1 @@
-var mnemonic = "gaze version gravity liberty palace jar sausage private cram fly vague suit";
+var mnemonic = "multiply group use horn unusual popular witness gaze gesture someone stem loop";

@@ -1,1 +1,1 @@
-var mnemonic = "acid recycle tip garlic success style another high soft flame love ignore";
+var mnemonic = "what make current surround tent ordinary coconut twist multiply change drive sell";

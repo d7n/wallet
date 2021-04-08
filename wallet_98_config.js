@@ -1,1 +1,1 @@
-var mnemonic = "weapon ability old illness join panda quit area sail absent theme damage";
+var mnemonic = "open audit pass train erode cloud cradle click asset shove keen live";

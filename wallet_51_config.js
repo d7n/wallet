@@ -1,1 +1,1 @@
-var mnemonic = "dirt need pledge course film thunder cherry foil pistol parent dizzy other";
+var mnemonic = "tank device found trip manage armed secret prefer road north animal pitch";

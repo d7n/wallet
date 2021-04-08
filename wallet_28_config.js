@@ -1,1 +1,1 @@
-var mnemonic = "prevent bitter essence maze foam antique review melody pistol vibrant ketchup width";
+var mnemonic = "lock income unhappy bridge margin start tuna crumble merit derive scout forget";

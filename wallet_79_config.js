@@ -1,1 +1,1 @@
-var mnemonic = "scheme speak twist ripple cycle picnic farm cross olive frozen decide position";
+var mnemonic = "symptom must exclude glory cake enhance enter chronic loan valid virtual film";

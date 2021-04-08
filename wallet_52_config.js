@@ -1,1 +1,1 @@
-var mnemonic = "biology flag lawsuit race enroll cover heart eyebrow frog merit sing jungle";
+var mnemonic = "faith govern trim autumn version only surge warm west obtain grit acid";

@@ -1,1 +1,1 @@
-var mnemonic = "loop student girl pulp length smoke audit steel goddess chest text gown";
+var mnemonic = "plug monitor license exclude cook chest question butter rifle floor feed security";

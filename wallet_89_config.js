@@ -1,1 +1,1 @@
-var mnemonic = "arena crop indoor palm edit transfer trash exclude payment nest embark error";
+var mnemonic = "radio exchange uniform proof swamp final victory donkey brave gas agent crowd";

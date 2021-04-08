@@ -1,1 +1,1 @@
-var mnemonic = "beauty fold shy supreme celery divert wrestle poet display throw cruel develop";
+var mnemonic = "member assume pear renew crew sock luxury face benefit swear sadness front";

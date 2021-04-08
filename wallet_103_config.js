@@ -1,1 +1,1 @@
-var mnemonic = "slush rabbit jazz gain system volume couple eagle female actual match stand";
+var mnemonic = "festival peace donate slab episode cart shine main suspect fix weasel useless";

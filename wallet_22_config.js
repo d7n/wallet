@@ -1,1 +1,1 @@
-var mnemonic = "girl scorpion trade silk inch width more pistol letter equal finish increase";
+var mnemonic = "play accident love erupt aerobic climb bomb regular fashion beyond art flight";

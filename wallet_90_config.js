@@ -1,1 +1,1 @@
-var mnemonic = "already sugar park tennis attend garden face under torch choose road prosper";
+var mnemonic = "song leave oak buyer iron mad dice infant squirrel soldier mosquito spin";

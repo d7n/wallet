@@ -1,1 +1,1 @@
-var mnemonic = "discover fox antique consider garden bridge certain fury bridge ski girl art";
+var mnemonic = "assume liar shock box uncle cost habit mix vacant kidney affair ceiling";

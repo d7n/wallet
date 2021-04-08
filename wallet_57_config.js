@@ -1,1 +1,1 @@
-var mnemonic = "hospital inhale other pen road cage position chaos avocado seek rain invite";
+var mnemonic = "music forum hand nuclear regular height cake remove island pottery stove pilot";

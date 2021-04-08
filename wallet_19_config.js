@@ -1,1 +1,1 @@
-var mnemonic = "base exchange stool size merit dad mountain surface peace oxygen entire cannon";
+var mnemonic = "depend volume clever sunny stage impact shoe accident crane tone oven busy";

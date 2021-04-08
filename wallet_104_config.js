@@ -1,1 +1,1 @@
-var mnemonic = "rifle ability machine very arrange arrow rally repair metal blanket antique pig";
+var mnemonic = "seven oyster spawn jump inform remind public divide audit urban senior panther";

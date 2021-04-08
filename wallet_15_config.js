@@ -1,1 +1,1 @@
-var mnemonic = "what round attend auto must margin level capable share into powder canyon";
+var mnemonic = "sight winter kit jaguar ghost ignore recycle repeat cross reunion rookie nature";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch assist pig false predict unable pull palace system unique open person";
+var mnemonic = "trumpet reflect tape smile provide reunion harsh angle illegal control blast nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "web stamp cart have bike vivid always language drink burden video hub";
+var mnemonic = "diet they random humble craft bundle nation hood ring cactus ribbon clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "update spirit solution found skin glide autumn match dignity daring arena fee";
+var mnemonic = "scrub artist van bulk limb total fat remind candy affair rebuild crucial";

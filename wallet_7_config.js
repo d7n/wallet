@@ -1,1 +1,1 @@
-var mnemonic = "riot domain obvious patrol extra rabbit glue second gauge gaze mammal solar";
+var mnemonic = "wheat raw husband kitten cable other kitchen utility harvest brief ecology film";

@@ -1,1 +1,1 @@
-var mnemonic = "clay aspect bomb gain lonely midnight sport thunder essence candy strong guitar";
+var mnemonic = "tail print avoid document act planet little wild unable pepper disease release";

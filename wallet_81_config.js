@@ -1,1 +1,1 @@
-var mnemonic = "face north entry tower pen panda vote arctic portion adult ketchup immense";
+var mnemonic = "correct floor swamp frost quiz bottom garlic nuclear profit dignity scatter lonely";

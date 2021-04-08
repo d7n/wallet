@@ -1,1 +1,1 @@
-var mnemonic = "avoid say life narrow depend alien better wrist regular release guitar prefer";
+var mnemonic = "undo width amount decrease private genre train robust guitar upset borrow myself";

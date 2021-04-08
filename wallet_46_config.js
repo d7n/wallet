@@ -1,1 +1,1 @@
-var mnemonic = "stereo kind fall aunt rather festival cream valid wish online relax trap";
+var mnemonic = "bunker faculty issue tell situate gentle hammer brush joke snap figure tray";

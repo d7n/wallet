@@ -1,1 +1,1 @@
-var mnemonic = "nut truly spell toss flight kite argue author glow fever leg check";
+var mnemonic = "output oven what reason cattle antenna segment mutual tomorrow hurdle december water";

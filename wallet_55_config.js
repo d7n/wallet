@@ -1,1 +1,1 @@
-var mnemonic = "jacket simple average civil demise hammer sock forget pencil sound knife goose";
+var mnemonic = "screen volume step update desert high excess mad evolve snack mobile snake";

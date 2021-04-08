@@ -1,1 +1,1 @@
-var mnemonic = "border pond gate off author design mouse time night vault olympic true";
+var mnemonic = "grief tank usage immune brand edit vast vibrant know discover fantasy upon";

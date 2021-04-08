@@ -1,1 +1,1 @@
-var mnemonic = "pudding oblige address other dune april dice caught meat scare perfect reveal";
+var mnemonic = "hospital bid pride shock coconut ability dove novel famous live waste loud";

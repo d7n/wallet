@@ -1,1 +1,1 @@
-var mnemonic = "crane light token become human test address bid quote must regret put";
+var mnemonic = "coil execute session toe enroll busy again already exile town case library";

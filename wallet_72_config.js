@@ -1,1 +1,1 @@
-var mnemonic = "innocent bulb indoor six chapter pause path mad recycle urban object music";
+var mnemonic = "frame sister title goat acid orphan oxygen robot dial split seat mixed";

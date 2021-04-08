@@ -1,1 +1,1 @@
-var mnemonic = "bid elder notable ripple pony aspect enforce glad junior demise act ring";
+var mnemonic = "odor venue fork pass reveal spare drop summer wrong bar swim lift";

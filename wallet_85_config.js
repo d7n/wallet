@@ -1,1 +1,1 @@
-var mnemonic = "still van voyage track decline thunder awesome embark grocery promote liberty delay";
+var mnemonic = "absurd fish sentence private arrow stuff gadget frame brother nice volume keep";

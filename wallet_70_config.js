@@ -1,1 +1,1 @@
-var mnemonic = "ecology rookie zone toe tag fault toy enlist advice recall position fresh";
+var mnemonic = "cube orange autumn alpha orbit rib poverty final scan attack myself burst";

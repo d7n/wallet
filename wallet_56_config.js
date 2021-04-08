@@ -1,1 +1,1 @@
-var mnemonic = "noise congress settle grab label jump major pulp organ inch prosper refuse";
+var mnemonic = "dwarf runway truth boy laugh vague glove danger sign melt rubber virus";

@@ -1,1 +1,1 @@
-var mnemonic = "double snake clarify say below topple mouse forest execute huge flat cannon";
+var mnemonic = "frost any glimpse notable quantum cattle trust gorilla manage electric top steel";

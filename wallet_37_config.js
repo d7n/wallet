@@ -1,1 +1,1 @@
-var mnemonic = "layer diamond bean list reduce term furnace fan barrel cotton antenna congress";
+var mnemonic = "kick group clog wing huge wolf advice liberty frown artefact hint negative";

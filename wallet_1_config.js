@@ -1,1 +1,1 @@
-var mnemonic = "close layer deal picture flee scan celery sea demise armor property mass";
+var mnemonic = "advance remind sword salon typical swallow notice glue math orbit alley shallow";

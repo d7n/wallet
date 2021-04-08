@@ -1,1 +1,1 @@
-var mnemonic = "water fat diesel vessel champion lady leg grain already grit initial suffer";
+var mnemonic = "point garlic credit load jump jelly milk derive family sort dice skin";

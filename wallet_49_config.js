@@ -1,1 +1,1 @@
-var mnemonic = "move snake source cherry tonight call need struggle fragile salon wing almost";
+var mnemonic = "arm detect decorate divorce aware dry dial simple captain derive defy process";

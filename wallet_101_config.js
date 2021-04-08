@@ -1,1 +1,1 @@
-var mnemonic = "mean brisk ozone wagon maximum brand lock fragile canoe dog strike soup";
+var mnemonic = "crouch next latin boss blouse maple broom lobster vote about because club";

@@ -1,1 +1,1 @@
-var mnemonic = "review fan firm ticket mandate argue sign lab add style purse mom";
+var mnemonic = "certain shove secret oblige myth tonight pretty safe illegal absorb mobile staff";

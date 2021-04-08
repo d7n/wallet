@@ -1,1 +1,1 @@
-var mnemonic = "youth nation grocery goat load story mobile provide document resist lazy clinic";
+var mnemonic = "sure ancient broccoli vessel nasty spot bamboo bird caught truck flower daring";

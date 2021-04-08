@@ -1,1 +1,1 @@
-var mnemonic = "artwork cinnamon glove load confirm reason tilt rocket planet ribbon bullet discover";
+var mnemonic = "enrich female frequent rose sudden glare sure notable involve wall success female";

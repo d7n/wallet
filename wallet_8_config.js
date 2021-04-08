@@ -1,1 +1,1 @@
-var mnemonic = "half property muscle choice fruit major fat critic fitness fatigue math one";
+var mnemonic = "angry timber relief position want brave wonder chronic trust object fold people";

@@ -1,1 +1,1 @@
-var mnemonic = "rack ride already lava borrow service forum rhythm spin lady vivid resemble";
+var mnemonic = "pudding charge syrup win roof exhibit warrior appear idle era view inflict";

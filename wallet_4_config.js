@@ -1,1 +1,1 @@
-var mnemonic = "oven nuclear aware dawn believe antenna sniff frequent stem net cube coyote";
+var mnemonic = "buyer maze manual spot neglect size rigid false canvas correct limit glow";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome heart close drastic style misery achieve stuff gap catalog any cruise";
+var mnemonic = "piece milk fish save school cube kangaroo bamboo company mimic prison fence";

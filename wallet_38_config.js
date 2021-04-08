@@ -1,1 +1,1 @@
-var mnemonic = "baby tunnel monkey long forest accuse warfare mirror board cereal gift ensure";
+var mnemonic = "enough pulse reveal museum infant bundle slogan click two infant supreme joke";

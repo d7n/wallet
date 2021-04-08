@@ -1,1 +1,1 @@
-var mnemonic = "already adult fun click cute alley report recall mom tortoise pet core";
+var mnemonic = "celery squirrel defense promote drip end music paddle auto miss stove engage";

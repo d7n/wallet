@@ -1,1 +1,1 @@
-var mnemonic = "visual keep wash fit earth virus ozone master degree mad list cinnamon";
+var mnemonic = "observe outer erode hire call file degree wish profit hope north next";

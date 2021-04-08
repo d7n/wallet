@@ -1,1 +1,1 @@
-var mnemonic = "butter egg wink salmon lunch base artefact emerge tornado thunder educate wisdom";
+var mnemonic = "enforce afford image outside saddle unable roast option build boost once replace";

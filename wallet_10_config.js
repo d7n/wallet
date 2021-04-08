@@ -1,1 +1,1 @@
-var mnemonic = "afraid float nature there cushion solve cool soccer father flight strong weather";
+var mnemonic = "trouble food myth slice meat barely quantum around unknown bunker theory together";

@@ -1,1 +1,1 @@
-var mnemonic = "income left cricket update talent raise mass seek gym venue soft art";
+var mnemonic = "credit scrap bubble wage expand scare tourist jewel now cloud afraid treat";

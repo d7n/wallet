@@ -1,1 +1,1 @@
-var mnemonic = "all merry eight lyrics ticket cricket wish pistol unique warrior sort soft";
+var mnemonic = "matter unhappy click wear tennis hotel into arctic salt butter never actor";

@@ -1,1 +1,1 @@
-var mnemonic = "neither core health radio coyote cruel innocent crazy scout vague version fence";
+var mnemonic = "cheese always vacuum manual phrase sad excess rotate school paddle evoke close";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut document average rocket board eternal aisle anxiety hammer master immune extra";
+var mnemonic = "pipe cereal cloud first family human warm panic sleep stage ordinary smooth";

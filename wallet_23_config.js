@@ -1,1 +1,1 @@
-var mnemonic = "story merge genre romance add jewel food crack eye account release kingdom";
+var mnemonic = "blood puppy tobacco surge shield skate myself apple random leisure praise fetch";

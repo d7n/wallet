@@ -1,1 +1,1 @@
-var mnemonic = "orbit tourist stable metal gasp fancy nerve odor erupt near pride scale";
+var mnemonic = "brother issue attitude bean margin chest cool daring erupt bomb orbit label";

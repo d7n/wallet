@@ -1,1 +1,1 @@
-var mnemonic = "radio kiss inner mercy wife dance rack online step cash broom sign";
+var mnemonic = "palace deliver dizzy future paddle tomato critic salad security sentence donate master";

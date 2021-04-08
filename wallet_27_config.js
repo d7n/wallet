@@ -1,1 +1,1 @@
-var mnemonic = "embrace tumble dust decline galaxy wing biology aisle fever napkin play mask";
+var mnemonic = "project ensure saddle marble cigar then engage scare mirror day toddler when";

@@ -1,1 +1,1 @@
-var mnemonic = "earn people festival they medal orient ordinary select keep tattoo success beauty";
+var mnemonic = "early friend will rebel slow couch arm cable firm aim purpose scatter";

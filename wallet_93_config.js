@@ -1,1 +1,1 @@
-var mnemonic = "industry weasel under little air medal behind music fossil master position tooth";
+var mnemonic = "awake chest raven manage grab pitch walk truth lizard arrive lobster dinosaur";

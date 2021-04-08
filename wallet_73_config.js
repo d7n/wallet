@@ -1,1 +1,1 @@
-var mnemonic = "invite crash tragic square jelly exclude scorpion warfare sausage click nose glide";
+var mnemonic = "desk smile simple sample decide exit shoe joke peace attack range mutual";

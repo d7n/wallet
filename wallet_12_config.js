@@ -1,1 +1,1 @@
-var mnemonic = "toast border essay garment flag gauge boss tobacco useless object cement solid";
+var mnemonic = "cabin machine runway dismiss void ship gorilla cube manage wish analyst jungle";

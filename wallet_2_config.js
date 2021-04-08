@@ -1,1 +1,1 @@
-var mnemonic = "attack stomach green bag cage truth park awesome april fitness scheme wrist";
+var mnemonic = "alcohol pause chimney judge wing minute mountain scrap diet rookie rival pig";

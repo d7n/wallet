@@ -1,1 +1,1 @@
-var mnemonic = "recipe nasty moon slight search cross pattern captain tourist token private seat";
+var mnemonic = "sample unusual three sentence regret inside duty evoke people nerve arrive stage";

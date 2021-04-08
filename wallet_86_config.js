@@ -1,1 +1,1 @@
-var mnemonic = "that rule uncle snap harbor joke error ten describe thought riot lunch";
+var mnemonic = "capital airport victory regular display antique ticket lonely moral kind chief exchange";

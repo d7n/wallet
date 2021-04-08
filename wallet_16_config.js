@@ -1,1 +1,1 @@
-var mnemonic = "shine option dance sea panther wire start predict page item palm boring";
+var mnemonic = "velvet super dial tool donor permit jar palace orbit choose ahead salon";

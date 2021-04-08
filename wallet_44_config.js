@@ -1,1 +1,1 @@
-var mnemonic = "gain skin type vivid essence knee involve fly cave bomb identify other";
+var mnemonic = "dilemma search place lonely title write liberty hold trust damp identify vehicle";

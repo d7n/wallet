@@ -1,1 +1,1 @@
-var mnemonic = "limit attract language quick miss immune pride more rebel disorder above skill";
+var mnemonic = "ladder antenna truck grab tennis team thought where deal wear file uniform";

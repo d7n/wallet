@@ -1,1 +1,1 @@
-var mnemonic = "raccoon response outer mixture core deal coach bachelor matter sure alley acid";
+var mnemonic = "physical hover series survey fruit ramp nose off tuition uncover mom vapor";

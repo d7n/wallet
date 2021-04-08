@@ -1,1 +1,1 @@
-var mnemonic = "swarm object purchase moon flock nuclear robust eye famous vault loan cage";
+var mnemonic = "void member symptom cable heart oyster laptop grow april tide wrestle account";

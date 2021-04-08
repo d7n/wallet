@@ -1,1 +1,1 @@
-var mnemonic = "floor gasp dynamic cover hard charge resemble floor digital total inflict vast";
+var mnemonic = "broom urban giraffe language gospel much inch power opera all advance tortoise";

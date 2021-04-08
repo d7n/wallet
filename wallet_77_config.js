@@ -1,1 +1,1 @@
-var mnemonic = "ring check spike drive drama shoot alter model long voyage forget fitness";
+var mnemonic = "blood parent sick midnight album praise subway elephant pole hamster wisdom fiber";

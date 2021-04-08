@@ -1,1 +1,1 @@
-var mnemonic = "begin grief casual advice false voice enjoy govern number whip remind close";
+var mnemonic = "lady sure kiwi property squirrel reveal buddy need dragon link switch captain";

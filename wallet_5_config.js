@@ -1,1 +1,1 @@
-var mnemonic = "main remain diagram bachelor remove primary legend story portion fault until chase";
+var mnemonic = "kind blouse glide clap hurt dinosaur scissors size margin collect love eight";

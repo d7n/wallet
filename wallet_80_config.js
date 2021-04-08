@@ -1,1 +1,1 @@
-var mnemonic = "purpose length salmon income ticket quote blood raven mind scrap penalty eagle";
+var mnemonic = "awful lesson faint dizzy airport view scissors expand boost unfair myself march";
