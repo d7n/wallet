@@ -1,1 +1,1 @@
-var mnemonic = "feature gravity pass people tonight list attitude benefit insect garlic snack foam";
+var mnemonic = "visa trial opinion shop subject kitten cargo fancy blanket foster forget execute";

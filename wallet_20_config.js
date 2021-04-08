@@ -1,1 +1,1 @@
-var mnemonic = "address raw split armor issue rare option fiscal swing win bonus dwarf";
+var mnemonic = "pistol satoshi exile urge palace almost pulp laptop thumb weapon social staff";

@@ -1,1 +1,1 @@
-var mnemonic = "trade woman shell crawl neutral water spoon foster raven flavor camp broken";
+var mnemonic = "defy area square shield want file pear glass retreat obey ability village";

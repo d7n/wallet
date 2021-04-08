@@ -1,1 +1,1 @@
-var mnemonic = "scatter useful shine bounce cement tent anchor cattle industry festival horror wedding";
+var mnemonic = "rescue loan execute furnace depart click polar video unable match liquid width";

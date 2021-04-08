@@ -1,1 +1,1 @@
-var mnemonic = "industry scrub always library black surround genuine spatial mean clutch need analyst";
+var mnemonic = "base fatal crater knee fruit sight upon bean arrow have cream industry";

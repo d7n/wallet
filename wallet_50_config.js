@@ -1,1 +1,1 @@
-var mnemonic = "cash quick print view ghost craft hurry harsh harbor river bounce dinosaur";
+var mnemonic = "congress accuse genius boil spread tiny love onion jacket pulse claw cabbage";

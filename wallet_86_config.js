@@ -1,1 +1,1 @@
-var mnemonic = "answer slender wood length obey blind virus leaf robust harbor ring joke";
+var mnemonic = "city answer olive rabbit derive ranch scissors trust wife idea arrange wool";

@@ -1,1 +1,1 @@
-var mnemonic = "sight heavy frog clever region link umbrella warm body follow cool know";
+var mnemonic = "episode aisle wrap thumb coin panic rough urban grape region shock crumble";

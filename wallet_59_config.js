@@ -1,1 +1,1 @@
-var mnemonic = "family much security agree connect clip any hamster dumb always canoe spawn";
+var mnemonic = "clay approve number wheel license pipe lion donkey pottery swift special tissue";

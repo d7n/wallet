@@ -1,1 +1,1 @@
-var mnemonic = "liar return hole cost point extra fringe broken please thunder used solid";
+var mnemonic = "coast immense stem alter junk creek aware stable predict attack today cluster";

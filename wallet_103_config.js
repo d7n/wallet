@@ -1,1 +1,1 @@
-var mnemonic = "hand cinnamon gaze anger buyer donor speak thrive urge tent champion tag";
+var mnemonic = "outside curve tortoise select unit leopard hat rare render slow chase card";

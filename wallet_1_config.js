@@ -1,1 +1,1 @@
-var mnemonic = "idea cereal arrive heart laptop cost mad sand soul face soft oyster";
+var mnemonic = "envelope chimney income this elegant taste story jewel rapid detect swarm initial";

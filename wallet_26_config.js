@@ -1,1 +1,1 @@
-var mnemonic = "laptop punch orphan rally employ place bean wrap owner year hope screen";
+var mnemonic = "question session material arrange giggle link soldier mad peasant image fatal taxi";

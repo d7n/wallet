@@ -1,1 +1,1 @@
-var mnemonic = "discover ribbon flat mobile rate dream cabbage chicken spin sense hedgehog hedgehog";
+var mnemonic = "animal topic job combine noise silk jewel merge liar air ecology unaware";

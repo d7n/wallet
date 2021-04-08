@@ -1,1 +1,1 @@
-var mnemonic = "hello cherry scissors tape news cactus hen item kangaroo analyst frame picture";
+var mnemonic = "village pelican exclude frost remember object demise praise giant author solution meat";

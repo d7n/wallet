@@ -1,1 +1,1 @@
-var mnemonic = "clinic scare tomato trophy march spoon churn minimum hover boring language group";
+var mnemonic = "crucial chest invite either retreat fog toss put barrel wear civil desk";

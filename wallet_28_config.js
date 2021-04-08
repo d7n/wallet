@@ -1,1 +1,1 @@
-var mnemonic = "ostrich swallow isolate rate divert panda save outside moment sun amazing pill";
+var mnemonic = "vapor shallow attack ten camp step crater duck champion boss cube devote";

@@ -1,1 +1,1 @@
-var mnemonic = "churn anger drive whisper version twenty raw captain curious verify doctor merit";
+var mnemonic = "fiscal satisfy oak body omit analyst lounge survey eight valve rice grit";

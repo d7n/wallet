@@ -1,1 +1,1 @@
-var mnemonic = "romance put biology able file split quick hidden solid math canal soon";
+var mnemonic = "pumpkin crouch program table valid ankle party check seven ability trade slim";

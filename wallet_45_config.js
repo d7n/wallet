@@ -1,1 +1,1 @@
-var mnemonic = "machine mother admit upon balcony subject unfold alert sand fitness grunt pond";
+var mnemonic = "zebra cloth leg later broom rule deer word glory online laundry enter";

@@ -1,1 +1,1 @@
-var mnemonic = "potato wish truck chair trip chimney glad river fence seed february angry";
+var mnemonic = "card wave matter earn give version reform awesome upgrade upset below track";

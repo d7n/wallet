@@ -1,1 +1,1 @@
-var mnemonic = "someone salon clock scheme catch snap want gentle program nuclear vague mix";
+var mnemonic = "stove plate pigeon muffin rice trouble diagram exile doctor witness town minor";

@@ -1,1 +1,1 @@
-var mnemonic = "neither rhythm wish copper situate whisper crack festival siege combine rare arrest";
+var mnemonic = "category razor pelican never hollow index harsh myth notable notable tray exercise";

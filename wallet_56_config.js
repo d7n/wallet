@@ -1,1 +1,1 @@
-var mnemonic = "simple process lunch ketchup patient taste either silly climb lady focus lamp";
+var mnemonic = "entry boy liar guess please main document estate elephant hybrid copy visit";

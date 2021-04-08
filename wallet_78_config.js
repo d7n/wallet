@@ -1,1 +1,1 @@
-var mnemonic = "law rely knock rather cabin poverty liquid salt gold minimum chair box";
+var mnemonic = "wine shop funny earn party slow hat horn concert primary cable machine";

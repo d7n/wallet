@@ -1,1 +1,1 @@
-var mnemonic = "join ensure file hire syrup boost two sadness kid salmon dignity cabbage";
+var mnemonic = "fish soldier total convince volcano original quick sad magnet setup piece switch";

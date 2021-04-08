@@ -1,1 +1,1 @@
-var mnemonic = "lumber air winter intact ketchup setup avocado kitten cube omit heavy clarify";
+var mnemonic = "citizen cliff garbage utility match biology stove water truly vacuum orphan very";

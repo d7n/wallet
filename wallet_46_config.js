@@ -1,1 +1,1 @@
-var mnemonic = "spoon output desk erode scorpion wrong usual opera acid horn outer column";
+var mnemonic = "enforce eight march vacant before actor crumble arrive glimpse sing alert caution";

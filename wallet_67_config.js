@@ -1,1 +1,1 @@
-var mnemonic = "scale artefact wide discover faculty address asset gate treat surface heavy discover";
+var mnemonic = "top vocal fluid key panda erase talk switch way harbor indoor emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "dry lock brisk divide quick silk curious slush extra action rough there";
+var mnemonic = "key metal impact adult joy admit ugly rich adult crop twelve corn";

@@ -1,1 +1,1 @@
-var mnemonic = "silk joke crop win art example iron attract cricket venue history give";
+var mnemonic = "honey above siege pilot music robot remain brass moral spoil lizard deny";

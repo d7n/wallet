@@ -1,1 +1,1 @@
-var mnemonic = "hood gym all grass bean orange believe chat menu lumber ask paper";
+var mnemonic = "comfort hole control spray fiction abstract call royal coast fade buyer trouble";

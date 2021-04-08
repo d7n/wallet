@@ -1,1 +1,1 @@
-var mnemonic = "caution cup trouble camp drift duty series situate hold pitch globe flee";
+var mnemonic = "suit seed festival waste eye correct wrap pioneer amount toe badge stem";

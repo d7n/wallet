@@ -1,1 +1,1 @@
-var mnemonic = "amazing trip fetch problem isolate vapor wheel gloom bomb oblige prefer fire";
+var mnemonic = "crunch dress cousin honey become stick august ill skill mercy maple vapor";

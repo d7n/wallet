@@ -1,1 +1,1 @@
-var mnemonic = "method skirt next bless nose laugh eyebrow settle also update leader protect";
+var mnemonic = "symptom spell negative hope index metal all pigeon shrimp pink muscle bundle";

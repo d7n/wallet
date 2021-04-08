@@ -1,1 +1,1 @@
-var mnemonic = "image enter crucial wolf inch select brain high arrive canvas patient resemble";
+var mnemonic = "fabric globe web lake outer curious alter scorpion emotion leave purity ensure";

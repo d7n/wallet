@@ -1,1 +1,1 @@
-var mnemonic = "apple wing age health version occur fit genuine across dream oak clump";
+var mnemonic = "rare virus rail night shine kidney stove amateur still stamp slender tower";

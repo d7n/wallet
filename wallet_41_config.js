@@ -1,1 +1,1 @@
-var mnemonic = "kid lab swear turn shove mosquito similar jaguar census give lazy dream";
+var mnemonic = "ahead island popular camera space evoke heart lesson next female master health";

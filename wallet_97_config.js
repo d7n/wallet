@@ -1,1 +1,1 @@
-var mnemonic = "black frown sadness produce phone night cover cloud spend spell foster tide";
+var mnemonic = "refuse clean unit virtual anchor current ivory brave flip cement survey cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "live valid swap victory gift tuna blade tonight eight fetch firm nation";
+var mnemonic = "improve veteran abuse zero cupboard similar egg motion champion cargo swift response";

@@ -1,1 +1,1 @@
-var mnemonic = "live turkey today seven slice blame garden prefer oval divorce opinion tribe";
+var mnemonic = "lobster army blind chapter release anger jaguar better novel loud symptom fabric";

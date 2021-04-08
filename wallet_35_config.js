@@ -1,1 +1,1 @@
-var mnemonic = "wife must know buzz list riot basic practice enjoy border rice cinnamon";
+var mnemonic = "car permit sad decide cook perfect sell stumble room dolphin atom possible";

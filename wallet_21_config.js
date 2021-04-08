@@ -1,1 +1,1 @@
-var mnemonic = "law company honey tourist donor fringe today bulb nature season junk visa";
+var mnemonic = "symptom will tone ski session settle faint team pet acid derive meadow";

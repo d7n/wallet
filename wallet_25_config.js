@@ -1,1 +1,1 @@
-var mnemonic = "need ancient lock segment guard stadium fuel apple name weapon thought draw";
+var mnemonic = "debris flower hamster artefact attack roast clarify nominee inside long sell recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "raven stock surround banner market usual tissue staff hello expand useless opera";
+var mnemonic = "scale gas orphan ugly kitchen bitter muffin chicken drift talent ankle warm";

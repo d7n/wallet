@@ -1,1 +1,1 @@
-var mnemonic = "blade crowd before hazard skate surge skate because sound acoustic buffalo flavor";
+var mnemonic = "wish episode child garlic science park grace cable fault enlist gorilla shrug";

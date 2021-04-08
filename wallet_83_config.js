@@ -1,1 +1,1 @@
-var mnemonic = "visit symptom utility carpet travel dismiss anxiety toss convince culture choice wheat";
+var mnemonic = "adapt finish skill sudden grit refuse plug salad celery main tornado target";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect asthma gym claw dynamic wisdom brass leaf unveil aim normal tomorrow";
+var mnemonic = "wagon volcano habit slam about damage armor tip reopen extra indicate knee";

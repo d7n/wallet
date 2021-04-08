@@ -1,1 +1,1 @@
-var mnemonic = "once butter segment ocean volume uniform buffalo model drink miss bacon disease";
+var mnemonic = "cross strong picture wheel test danger suggest devote room repeat reopen now";

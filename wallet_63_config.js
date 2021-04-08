@@ -1,1 +1,1 @@
-var mnemonic = "source uniform cancel grow violin enough blur dish soup public fabric result";
+var mnemonic = "symptom mobile awesome keen capital horror view sunset hazard image crunch unable";

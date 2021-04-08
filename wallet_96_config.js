@@ -1,1 +1,1 @@
-var mnemonic = "anxiety result photo attack zebra business lazy left polar three fancy column";
+var mnemonic = "canyon submit also load pluck unhappy addict burden call raise pioneer grace";

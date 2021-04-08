@@ -1,1 +1,1 @@
-var mnemonic = "rent coast churn holiday monitor grab lawsuit impose talk donate vocal visit";
+var mnemonic = "noodle inherit patient client timber derive force fee defense suspect doctor renew";

@@ -1,1 +1,1 @@
-var mnemonic = "fade foil manage lion despair van core adapt canal abuse bulk tomorrow";
+var mnemonic = "aunt scan slab fox wheel addict eager ice protect own jungle aim";

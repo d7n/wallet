@@ -1,1 +1,1 @@
-var mnemonic = "cycle dismiss tonight intact swift few lunar garment orange tube ketchup tribe";
+var mnemonic = "issue balcony change glide assume interest surge enable hungry regret apple wing";

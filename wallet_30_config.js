@@ -1,1 +1,1 @@
-var mnemonic = "together sheriff govern wet clog hungry brave rookie cube pull choice blue";
+var mnemonic = "swift monkey popular subway alone abandon rescue warrior video velvet crisp strike";

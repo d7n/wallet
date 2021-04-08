@@ -1,1 +1,1 @@
-var mnemonic = "ability begin one caught funny remember dynamic slogan cannon health orange become";
+var mnemonic = "add acquire black bulk slush hire nest goddess capital peanut zebra siren";

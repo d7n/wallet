@@ -1,1 +1,1 @@
-var mnemonic = "mouse slogan route gallery bone pull ring rough cycle autumn alert zoo";
+var mnemonic = "mystery rude repair tank eager blade pottery venture fabric fold marble ripple";

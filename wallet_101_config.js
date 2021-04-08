@@ -1,1 +1,1 @@
-var mnemonic = "step siege bring express measure brass buzz wish never own cram shed";
+var mnemonic = "sunny click type segment snake fossil describe narrow try mountain blame attend";

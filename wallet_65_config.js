@@ -1,1 +1,1 @@
-var mnemonic = "lumber gasp energy mixed sell refuse desert gauge wife memory switch trade";
+var mnemonic = "deposit help notable unfold work blast flip immense rail will jewel room";

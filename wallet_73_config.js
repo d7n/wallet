@@ -1,1 +1,1 @@
-var mnemonic = "cute save spot erode certain empty festival spoil spider change pill level";
+var mnemonic = "chief light road gorilla glue dinner breeze accuse calm empower iron exist";

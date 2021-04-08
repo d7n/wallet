@@ -1,1 +1,1 @@
-var mnemonic = "draft method tennis orange sample ostrich fat tank want warfare regret oak";
+var mnemonic = "help harsh sail danger kite debris jaguar image solid view cabin sun";

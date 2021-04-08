@@ -1,1 +1,1 @@
-var mnemonic = "vibrant clip moon time ketchup envelope nerve garage mobile patrol jaguar hint";
+var mnemonic = "fringe sand glad average cigar genuine priority electric lemon attract custom sound";

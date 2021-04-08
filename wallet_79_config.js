@@ -1,1 +1,1 @@
-var mnemonic = "combine state lock video neither chase empower swift tail garlic solve orchard";
+var mnemonic = "inmate vacant wait angle document session kingdom coyote clarify pottery arm decade";

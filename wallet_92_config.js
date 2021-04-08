@@ -1,1 +1,1 @@
-var mnemonic = "fuel victory problem raise shoot fiber expand veteran jealous loan reason brain";
+var mnemonic = "life alter keep certain mimic devote sign stuff bonus song thunder riot";

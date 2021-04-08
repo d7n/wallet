@@ -1,1 +1,1 @@
-var mnemonic = "athlete hurry essence powder merit easy mix blanket image mercy athlete pistol";
+var mnemonic = "subject uphold outer brick arm typical crumble myself social accuse void jealous";

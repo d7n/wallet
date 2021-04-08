@@ -1,1 +1,1 @@
-var mnemonic = "member issue hammer tongue fever arctic odor jar volcano ignore pass sand";
+var mnemonic = "garment leisure fiscal rate deposit menu onion group daring they kid penalty";

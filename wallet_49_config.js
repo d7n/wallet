@@ -1,1 +1,1 @@
-var mnemonic = "love table scene become acid aerobic priority place timber stomach rescue wasp";
+var mnemonic = "emotion method surprise music pudding credit evidence submit enforce whale mouse cancel";

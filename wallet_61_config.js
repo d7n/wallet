@@ -1,1 +1,1 @@
-var mnemonic = "glimpse range credit prevent cattle delay food mixed pause panic aware sponsor";
+var mnemonic = "thank noise slow net square tomorrow snack clerk essay debris motor century";

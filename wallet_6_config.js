@@ -1,1 +1,1 @@
-var mnemonic = "dance resemble style visa skull snack public hungry scissors point budget tiny";
+var mnemonic = "popular stay rough farm illness sphere movie turtle ankle one surge vocal";

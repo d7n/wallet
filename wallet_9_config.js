@@ -1,1 +1,1 @@
-var mnemonic = "sand enact soda rich roast kiwi invite virus guard boy lobster again";
+var mnemonic = "list erase plunge rely index frost answer effort journey split blouse glad";

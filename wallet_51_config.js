@@ -1,1 +1,1 @@
-var mnemonic = "seven room carpet problem custom scatter involve october skin index curious vintage";
+var mnemonic = "nothing moment crash cream because candy abandon team embark lady slogan crawl";

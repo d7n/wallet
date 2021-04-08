@@ -1,1 +1,1 @@
-var mnemonic = "borrow asthma cycle ketchup salute awesome trim capable paper error evidence stumble";
+var mnemonic = "tissue forest robot popular joke axis vintage moon upon bridge regular what";

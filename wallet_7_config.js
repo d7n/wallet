@@ -1,1 +1,1 @@
-var mnemonic = "round weather coach clog case devote twin bring woman pig concert huge";
+var mnemonic = "end glass top more north alone setup aim party can kiwi alter";

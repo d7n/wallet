@@ -1,1 +1,1 @@
-var mnemonic = "shrug legal uniform move actor alone cup valid near rifle cloth ridge";
+var mnemonic = "sleep rocket release athlete torch perfect veteran floor mail boss electric cherry";

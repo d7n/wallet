@@ -1,1 +1,1 @@
-var mnemonic = "gas clever hat mouse abstract detail patch vapor nut song mosquito damp";
+var mnemonic = "endless swim atom material device enlist shoot blade hip behind grain shrug";

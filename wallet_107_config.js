@@ -1,1 +1,1 @@
-var mnemonic = "monkey best embody truth slice spike toe lion salad you plunge damp";
+var mnemonic = "aim inherit economy define grocery stairs struggle seminar diamond normal seed chest";

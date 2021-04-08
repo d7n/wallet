@@ -1,1 +1,1 @@
-var mnemonic = "surprise ship aware apology click genius ticket wink bulb inside envelope almost";
+var mnemonic = "humor ritual wrong blue month tennis fish leaf change misery quantum problem";

@@ -1,1 +1,1 @@
-var mnemonic = "model chicken work income exhaust into time three cheese bring office hub";
+var mnemonic = "merry winner path outer wing rebel version gravity month bottom parrot sample";

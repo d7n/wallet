@@ -1,1 +1,1 @@
-var mnemonic = "today dawn address script destroy spatial since average puzzle empower fiber victory";
+var mnemonic = "brother basic pistol entry thought wild stone era dress bring chase hungry";

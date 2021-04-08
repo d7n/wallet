@@ -1,1 +1,1 @@
-var mnemonic = "goddess deputy sponsor tape merge much noble quantum fatal steak genius impulse";
+var mnemonic = "barrel neither virus govern mention jealous already famous subway fee street legal";

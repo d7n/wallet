@@ -1,1 +1,1 @@
-var mnemonic = "ten tomato inch blind zone cross hospital field image damage birth end";
+var mnemonic = "demand cotton acid pledge ring strategy extend main world banana ill world";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy piano quit adult license often stairs sun humor because dry maximum";
+var mnemonic = "ill crumble damage electric reward chase cattle retire over battle sort jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "nut valley best trip lizard burden nurse barely album fat stay skirt";
+var mnemonic = "hole pause loud settle furnace tip vocal media tuna catalog trophy foam";

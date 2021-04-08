@@ -1,1 +1,1 @@
-var mnemonic = "emerge breeze fresh joke scout grit voice correct elite talk also point";
+var mnemonic = "hazard soon cement script visual host window talk beef unlock fruit borrow";

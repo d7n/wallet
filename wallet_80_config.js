@@ -1,1 +1,1 @@
-var mnemonic = "turkey enable boring toward dash trade scissors enjoy chuckle almost neglect fetch";
+var mnemonic = "rally wagon wisdom ability stamp sort burst picture dumb million genre brisk";

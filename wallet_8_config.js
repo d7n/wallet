@@ -1,1 +1,1 @@
-var mnemonic = "note title pioneer melody barely eagle raven east coast use supreme table";
+var mnemonic = "spare dash employ ketchup edit victory marble puppy silent slogan duck document";

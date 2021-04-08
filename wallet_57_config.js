@@ -1,1 +1,1 @@
-var mnemonic = "size comfort mansion symbol undo silver sister bacon bronze deal shell health";
+var mnemonic = "van soda bar that industry risk metal blue oval bar seed example";

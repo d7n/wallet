@@ -1,1 +1,1 @@
-var mnemonic = "fresh noise mother view lift orange club tip legal stand picture kid";
+var mnemonic = "banner ghost sword room police share task wet total volcano discover trigger";

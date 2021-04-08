@@ -1,1 +1,1 @@
-var mnemonic = "brush cattle whip cheap lake prepare final dignity argue puppy prevent alpha";
+var mnemonic = "sock foam horse rifle usage wish athlete place congress cigar desert film";

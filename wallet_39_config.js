@@ -1,1 +1,1 @@
-var mnemonic = "thumb sentence torch custom echo region affair author wasp cactus buddy arm";
+var mnemonic = "original uncle hundred swear dolphin mule about upset film general sheriff strategy";
