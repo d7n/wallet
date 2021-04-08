@@ -1,1 +1,1 @@
-var mnemonic = "absent effort raccoon buyer else car during illness firm bacon stock badge";
+var mnemonic = "chief auction plastic broken taxi dice salute hub lounge trust blue aunt";

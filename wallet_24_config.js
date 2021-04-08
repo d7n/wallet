@@ -1,1 +1,1 @@
-var mnemonic = "drama quiz dream blossom mandate during atom rare frozen struggle deer wrap";
+var mnemonic = "spatial slow image win subway pledge problem nurse wagon magnet toward puzzle";

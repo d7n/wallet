@@ -1,1 +1,1 @@
-var mnemonic = "extra turtle appear stove fat cigar vacuum mail discover twin behind duty";
+var mnemonic = "hope rice access account track screen trophy panda sell plug future vote";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary sun come eight buzz choice lunch motion city offer iron inform";
+var mnemonic = "east glass hint dynamic laptop fame spin library atom shy obtain improve";

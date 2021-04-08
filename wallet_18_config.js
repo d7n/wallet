@@ -1,1 +1,1 @@
-var mnemonic = "move sword wall allow second minute swift west devote adult birth runway";
+var mnemonic = "impulse people fashion helmet sentence scheme unaware live undo basket garlic anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "renew left auction acoustic angry affair purse laundry village delay blind indoor";
+var mnemonic = "benefit heavy girl guard absorb school liberty movie banner time april sister";

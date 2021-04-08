@@ -1,1 +1,1 @@
-var mnemonic = "bind just screen couch very supply inform exhibit ribbon barely apart august";
+var mnemonic = "decrease satoshi private six ketchup large include drive need vivid scheme mobile";

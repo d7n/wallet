@@ -1,1 +1,1 @@
-var mnemonic = "planet settle olympic tilt retreat parent smoke glimpse hotel cream equal link";
+var mnemonic = "media nasty wrong smile glad strike census liquid letter coral saddle illegal";

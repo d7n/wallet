@@ -1,1 +1,1 @@
-var mnemonic = "roof business admit noble into crew museum large penalty lottery camp peanut";
+var mnemonic = "brother dish purse jealous oil public burst slide spread tourist flavor crater";

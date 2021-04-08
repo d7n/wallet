@@ -1,1 +1,1 @@
-var mnemonic = "rare since base leave gasp silver again novel emotion avocado budget drip";
+var mnemonic = "pistol stumble mean armor what weasel warfare salt cross day index today";

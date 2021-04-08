@@ -1,1 +1,1 @@
-var mnemonic = "air foil episode material attack stove ticket civil rifle whisper model obey";
+var mnemonic = "grain filter uncover sustain scatter list foam mask ask earn wrestle panel";

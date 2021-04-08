@@ -1,1 +1,1 @@
-var mnemonic = "vicious danger scrap soul feel limb flee hurt divorce symptom initial current";
+var mnemonic = "light wagon broccoli bullet age deny method lawsuit canvas gadget wide people";

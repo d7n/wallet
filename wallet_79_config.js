@@ -1,1 +1,1 @@
-var mnemonic = "lunch dune also program napkin mixed swamp tomorrow hunt often trash diary";
+var mnemonic = "favorite museum hurt round shell life mesh symptom limit travel clarify topic";

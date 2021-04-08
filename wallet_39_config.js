@@ -1,1 +1,1 @@
-var mnemonic = "bracket evidence uncle bacon enlist top minor fence estate kitten guard already";
+var mnemonic = "current myth bid culture extend blast fever seat upgrade spot close brand";

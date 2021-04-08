@@ -1,1 +1,1 @@
-var mnemonic = "liquid curious spray between topic bubble submit pupil gossip million miss route";
+var mnemonic = "start broccoli matrix afford seed believe bid fold evil chunk brief kick";

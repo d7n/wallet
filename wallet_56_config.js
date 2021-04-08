@@ -1,1 +1,1 @@
-var mnemonic = "author bitter bachelor unaware balcony congress cinnamon confirm attract cage nephew derive";
+var mnemonic = "debate round satoshi decade panther forward parent snap eyebrow slight tilt half";

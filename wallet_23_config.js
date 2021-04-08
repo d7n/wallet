@@ -1,1 +1,1 @@
-var mnemonic = "wine debris imitate treat load miracle tongue salad zero leg during auction";
+var mnemonic = "cause camera impact inch gun dinosaur tomorrow outside melt glide rigid sick";

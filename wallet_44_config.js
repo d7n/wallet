@@ -1,1 +1,1 @@
-var mnemonic = "satoshi twenty text menu bracket phone casual unknown vessel fruit abuse satoshi";
+var mnemonic = "relax clock staff woman device return connect regular effort load blur surge";

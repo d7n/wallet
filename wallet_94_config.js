@@ -1,1 +1,1 @@
-var mnemonic = "erupt under art loan load december museum noise glide force behave duck";
+var mnemonic = "roof bike mail soup canoe lake blouse region health rare profit cinnamon";

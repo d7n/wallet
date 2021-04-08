@@ -1,1 +1,1 @@
-var mnemonic = "account echo section actor panic valve depth point poverty rare gentle moon";
+var mnemonic = "aim danger cliff rug reflect electric never left burden shoot bunker render";

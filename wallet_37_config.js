@@ -1,1 +1,1 @@
-var mnemonic = "royal hen foam addict rescue damage hazard one fox hurdle fence gift";
+var mnemonic = "capital black hammer rose average zone window describe client bless miracle hip";

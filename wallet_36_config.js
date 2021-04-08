@@ -1,1 +1,1 @@
-var mnemonic = "coconut card develop brother pluck ugly price festival traffic gate early level";
+var mnemonic = "lecture erosion media review innocent hair scatter weasel enough erode nominee produce";

@@ -1,1 +1,1 @@
-var mnemonic = "beef south only video metal gun warfare cruel cluster base flush local";
+var mnemonic = "surround junk basket organ tooth order thumb hip suspect regret output imitate";

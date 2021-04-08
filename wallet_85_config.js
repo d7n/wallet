@@ -1,1 +1,1 @@
-var mnemonic = "wealth mix income section peasant wolf increase opinion also invest define latin";
+var mnemonic = "filter core defy blast whip believe sound glove major cattle miss mask";

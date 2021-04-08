@@ -1,1 +1,1 @@
-var mnemonic = "bus wear tornado rigid pond fruit offer mention bone catalog industry robot";
+var mnemonic = "matrix task bleak mosquito harsh virus opera dirt improve immune rude slide";

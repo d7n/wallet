@@ -1,1 +1,1 @@
-var mnemonic = "small oyster term seed drama picture elder sting better lecture razor cannon";
+var mnemonic = "scorpion noble hobby person fantasy theme stomach dumb travel clown guess inhale";

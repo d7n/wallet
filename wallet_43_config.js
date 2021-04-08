@@ -1,1 +1,1 @@
-var mnemonic = "debate broom olive pony write truly item embark start purse organ cannon";
+var mnemonic = "delay turkey soda silk unable harbor blanket weapon review sock busy cannon";

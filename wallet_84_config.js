@@ -1,1 +1,1 @@
-var mnemonic = "only judge era crater enlist twist lab arrest crisp hockey staff forest";
+var mnemonic = "traffic call coyote about adult mansion cabbage use accident doll sand dinner";

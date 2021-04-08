@@ -1,1 +1,1 @@
-var mnemonic = "acoustic peasant hope normal wrap envelope whisper away warrior ticket keep jungle";
+var mnemonic = "task mask arrow absurd century holiday bottom vacant hip winner fog maid";

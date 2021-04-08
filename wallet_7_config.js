@@ -1,1 +1,1 @@
-var mnemonic = "leader glory timber menu corn token panel sun lion setup into bonus";
+var mnemonic = "fix pupil spin twenty sort random increase during give clay gauge modify";

@@ -1,1 +1,1 @@
-var mnemonic = "glance hero desk can furnace wealth demise pepper wrong truly copy blue";
+var mnemonic = "goose smooth devote arrive oven prepare wheat tip tip goat rail slender";

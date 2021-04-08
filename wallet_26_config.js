@@ -1,1 +1,1 @@
-var mnemonic = "tuna say walnut oppose day orbit leg seven assume obey have naive";
+var mnemonic = "room riot approve crime choice need version next auction orchard bean foot";

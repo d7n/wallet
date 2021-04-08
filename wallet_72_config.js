@@ -1,1 +1,1 @@
-var mnemonic = "duck miss fetch cool quarter afford goose coast reopen feature ghost option";
+var mnemonic = "fatigue expand slush possible shaft scout advice link sick badge arena struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "wife series weasel riot kitchen true robust wing bacon exit praise struggle";
+var mnemonic = "future wash scrub wool lift crunch rough strategy almost final cloth pet";

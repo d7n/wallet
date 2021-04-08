@@ -1,1 +1,1 @@
-var mnemonic = "pear divide essay link curious once radar swap expose hammer return grain";
+var mnemonic = "orange air eagle dignity economy impose ladder argue swing recall head pink";

@@ -1,1 +1,1 @@
-var mnemonic = "border ribbon crawl sugar what tree peasant sibling drop rely custom used";
+var mnemonic = "congress calm city unusual suffer time prepare observe organ stage law laugh";

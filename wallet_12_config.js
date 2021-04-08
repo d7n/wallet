@@ -1,1 +1,1 @@
-var mnemonic = "purpose clinic family absorb brown wild alien man home bread target fragile";
+var mnemonic = "buddy silent repeat vibrant play fire clerk undo slim muscle able connect";

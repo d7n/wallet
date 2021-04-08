@@ -1,1 +1,1 @@
-var mnemonic = "captain spin gravity coffee rule tunnel final century high enroll ship spoil";
+var mnemonic = "sock first pulp tool curve unable census still dove fuel bomb caught";

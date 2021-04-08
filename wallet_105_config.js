@@ -1,1 +1,1 @@
-var mnemonic = "toy quit pony debris aim remove shed sunny corn find real short";
+var mnemonic = "nurse notable notable calm couple climb walk dune people thunder gaze large";

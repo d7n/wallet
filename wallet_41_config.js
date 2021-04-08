@@ -1,1 +1,1 @@
-var mnemonic = "useless version major reform tilt ozone tilt waste genuine account spray armor";
+var mnemonic = "obtain will appear glad yellow close cushion kiwi escape pony uncover salad";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow increase random hawk fly romance firm moment walnut raise rather vital";
+var mnemonic = "marble blast wine again absent club luxury learn accuse cricket because dinosaur";

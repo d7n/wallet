@@ -1,1 +1,1 @@
-var mnemonic = "gaze hollow save lyrics flower cushion piece erosion annual fish grid desk";
+var mnemonic = "fury add deal zero train door hobby energy hair ketchup cage battle";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin hybrid glimpse prosper gaze duty announce stem drop inspire disease defense";
+var mnemonic = "symbol local column blind camera fabric genius project concert across harbor tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "enter divert senior exhaust dune bomb bomb swallow submit path curtain fix";
+var mnemonic = "need wrap into race awkward always region few slam task swim impose";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease vault junk twice foot lazy lava pass enemy ice answer deputy";
+var mnemonic = "leopard sleep balcony divorce parrot crack kangaroo example volcano fever version melody";

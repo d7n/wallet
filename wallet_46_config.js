@@ -1,1 +1,1 @@
-var mnemonic = "foster settle cactus pink fancy confirm dirt affair wealth unusual permit trade";
+var mnemonic = "venue divorce hurdle hawk thumb any page deposit season believe boring inject";

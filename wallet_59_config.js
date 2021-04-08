@@ -1,1 +1,1 @@
-var mnemonic = "deal will picture direct icon duck ready fold omit smooth business ill";
+var mnemonic = "place ensure mixture require mix judge cement average expose online double remember";

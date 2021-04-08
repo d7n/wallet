@@ -1,1 +1,1 @@
-var mnemonic = "ordinary express announce object strong seminar off glare club faculty word cheese";
+var mnemonic = "climb laugh sight ecology tell sketch affair peasant note protect flame melt";

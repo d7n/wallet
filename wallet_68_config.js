@@ -1,1 +1,1 @@
-var mnemonic = "gun original save equal start course jump suffer story east auto survey";
+var mnemonic = "moral network error feature region divorce drum submit physical sauce ecology equip";

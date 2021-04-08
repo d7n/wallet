@@ -1,1 +1,1 @@
-var mnemonic = "history hockey fiction unaware century depth solid glad gain indoor border steel";
+var mnemonic = "bronze elegant weather hill audit intact volume false finish question element tree";

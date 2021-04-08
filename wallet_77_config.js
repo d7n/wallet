@@ -1,1 +1,1 @@
-var mnemonic = "bid vocal purity baby best humor gasp cactus bronze salon sort sister";
+var mnemonic = "tree genuine calm what defense unveil shift demand curve hint course dolphin";

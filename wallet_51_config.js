@@ -1,1 +1,1 @@
-var mnemonic = "mandate pizza vapor write laugh cigar square side put tunnel guide cargo";
+var mnemonic = "rare tooth climb very biology prison water coral benefit pretty journey enact";

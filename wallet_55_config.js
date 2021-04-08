@@ -1,1 +1,1 @@
-var mnemonic = "stage tell pull submit lend about silk scale shop sense arrest script";
+var mnemonic = "parade echo easy peace bone couch find rifle clock promote exchange grain";

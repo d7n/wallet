@@ -1,1 +1,1 @@
-var mnemonic = "turn job caught fly orchard sword side boss misery dizzy end argue";
+var mnemonic = "fortune diet pretty cube zoo rich top hungry dune design before pole";

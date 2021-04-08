@@ -1,1 +1,1 @@
-var mnemonic = "lab more buffalo industry stereo present mandate dance company cluster stereo sheriff";
+var mnemonic = "uncle keep suspect bring repeat flower make craft network tool absent sister";

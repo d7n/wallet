@@ -1,1 +1,1 @@
-var mnemonic = "robot flame album blue swift deputy among hundred senior tail rival creek";
+var mnemonic = "cash sock reflect property update unusual once attend solar immense pottery round";

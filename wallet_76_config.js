@@ -1,1 +1,1 @@
-var mnemonic = "enter rib position drive change mail increase bulk because fancy keen monkey";
+var mnemonic = "narrow venture inject prison easily remind frog purity shaft interest ensure blast";

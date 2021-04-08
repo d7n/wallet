@@ -1,1 +1,1 @@
-var mnemonic = "can milk hurdle flee bike finish when bench ginger census fly fatal";
+var mnemonic = "climb gloom deputy light tomorrow aunt basket stove hungry genius mule damp";

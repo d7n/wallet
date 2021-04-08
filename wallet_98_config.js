@@ -1,1 +1,1 @@
-var mnemonic = "symbol attack fantasy rally talent miracle away obvious clay stool space snack";
+var mnemonic = "mail arm close polar produce inquiry hotel laptop phrase pear company film";

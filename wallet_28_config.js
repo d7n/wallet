@@ -1,1 +1,1 @@
-var mnemonic = "faculty ball lumber clay insane build orchard tomato wife bullet estate melt";
+var mnemonic = "reform expose truly room equip tray fade sell mixed extend town setup";

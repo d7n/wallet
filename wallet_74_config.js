@@ -1,1 +1,1 @@
-var mnemonic = "glad pond scrap ability above express fantasy sister protect step script two";
+var mnemonic = "soccer uncover axis keep canyon stumble sand poem thrive shed nurse bulb";

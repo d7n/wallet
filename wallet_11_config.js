@@ -1,1 +1,1 @@
-var mnemonic = "history tunnel stamp entire mirror weekend genuine upper net reform again owner";
+var mnemonic = "hub range wrap travel caution task unfold cover polar brave mother suit";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover fabric off endless member strategy various solve venture squeeze brain grace";
+var mnemonic = "say craft rain forum cupboard roof busy damage prefer shift bind amount";

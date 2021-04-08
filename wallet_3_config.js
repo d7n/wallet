@@ -1,1 +1,1 @@
-var mnemonic = "album course boil future assist tip stick hazard better zoo liar hint";
+var mnemonic = "fame cushion visit air guard damp dragon such cruel enlist burst virus";

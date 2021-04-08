@@ -1,1 +1,1 @@
-var mnemonic = "bless report perfect stool public close fame dawn advance twice baby vacant";
+var mnemonic = "exit worry subway health process verify palm clean shield deputy popular rule";

@@ -1,1 +1,1 @@
-var mnemonic = "address round grass devote twelve throw note nerve gas mail wonder ivory";
+var mnemonic = "now rifle wrist behind vessel price wedding asthma into trial peace dog";

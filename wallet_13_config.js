@@ -1,1 +1,1 @@
-var mnemonic = "place talent walnut suffer fox vapor pull kitchen quit turtle barely bitter";
+var mnemonic = "address honey nasty lock era bread grief region broccoli just apology shine";

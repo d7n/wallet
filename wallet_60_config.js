@@ -1,1 +1,1 @@
-var mnemonic = "hole pottery element frozen special language desk include amused friend year infant";
+var mnemonic = "win post above ocean spare increase leader modify teach when spend forget";

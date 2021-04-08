@@ -1,1 +1,1 @@
-var mnemonic = "group when clarify spend luggage able start best license monkey degree dish";
+var mnemonic = "answer loan decide lion cousin prize member program air wrist assume sauce";

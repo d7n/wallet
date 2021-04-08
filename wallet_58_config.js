@@ -1,1 +1,1 @@
-var mnemonic = "scorpion opera ladder reflect original gas illegal alone sell fatal slogan stone";
+var mnemonic = "that brave laugh clarify educate poverty wine elder peanut bag educate clerk";

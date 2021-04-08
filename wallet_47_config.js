@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow scout glare foam snow exclude gloom arena buzz pull lonely zone";
+var mnemonic = "multiply sheriff tongue wood print balance junk outer custom inquiry solid what";

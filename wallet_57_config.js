@@ -1,1 +1,1 @@
-var mnemonic = "first remind away fluid bike topic tornado disease repair uphold very enemy";
+var mnemonic = "diet wonder stand have result error script horn student service canoe saddle";

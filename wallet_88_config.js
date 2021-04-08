@@ -1,1 +1,1 @@
-var mnemonic = "inject silver collect chronic frown vocal panther undo math promote differ gap";
+var mnemonic = "pen immense canoe blind chicken add fog possible primary vicious explain siege";

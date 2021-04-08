@@ -1,1 +1,1 @@
-var mnemonic = "slogan wrong net come knife cactus erase prevent host buffalo smart left";
+var mnemonic = "ensure palm mandate deer argue oil conduct expire wonder gossip vast plug";

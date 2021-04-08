@@ -1,1 +1,1 @@
-var mnemonic = "sting fall brave pattern sing draft arrest mom apology immense verb renew";
+var mnemonic = "unfair cream pattern brick squirrel chase wedding nest syrup parade electric inject";

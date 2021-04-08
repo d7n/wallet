@@ -1,1 +1,1 @@
-var mnemonic = "tunnel long coconut reflect tired fence vendor scare country helmet envelope napkin";
+var mnemonic = "valley trip shy shift hobby buffalo ankle author pass ensure address talent";

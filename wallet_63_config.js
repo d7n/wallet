@@ -1,1 +1,1 @@
-var mnemonic = "pact manage connect connect repair emerge session stay attract bachelor age junior";
+var mnemonic = "lend move gentle fiber again smooth program dolphin neither ask true grid";

@@ -1,1 +1,1 @@
-var mnemonic = "process myth gain clown disagree box obey hollow apple design wine logic";
+var mnemonic = "level below behind charge rely crystal woman hen tail curious discover spin";

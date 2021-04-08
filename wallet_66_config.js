@@ -1,1 +1,1 @@
-var mnemonic = "shy general voyage pigeon glance bag rose fashion blood sketch middle twin";
+var mnemonic = "gorilla transfer soft decide vivid barely life beef excite leopard blur capable";

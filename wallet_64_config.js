@@ -1,1 +1,1 @@
-var mnemonic = "symbol truck summer physical lemon beyond matter agent jacket limb athlete club";
+var mnemonic = "hill impose love actual come luggage stuff ten weasel blast cake huge";

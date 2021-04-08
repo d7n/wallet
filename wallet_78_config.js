@@ -1,1 +1,1 @@
-var mnemonic = "crawl beyond ocean struggle board timber flip bottom sister key lady thumb";
+var mnemonic = "stumble poverty popular ask wolf vast puzzle chief more extra clump main";

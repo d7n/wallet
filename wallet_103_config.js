@@ -1,1 +1,1 @@
-var mnemonic = "poem window climb you express priority budget marble judge crane float short";
+var mnemonic = "soap better retire width turn fall drill slim pelican trust diagram weekend";

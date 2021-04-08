@@ -1,1 +1,1 @@
-var mnemonic = "skill adapt dice cloud until isolate draw artefact suspect shoe level void";
+var mnemonic = "twin hood crucial cherry evidence more about thought manual heavy ketchup snake";

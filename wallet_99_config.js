@@ -1,1 +1,1 @@
-var mnemonic = "future south eyebrow feature pelican trade churn vocal seminar security need half";
+var mnemonic = "curious camera track spoil suit unknown decorate adult struggle polar spirit spike";

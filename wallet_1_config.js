@@ -1,1 +1,1 @@
-var mnemonic = "evil demand volume super project unit wheel orange blush clown fault cupboard";
+var mnemonic = "august program miracle fold ranch decrease version stage someone glass group crucial";

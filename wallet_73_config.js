@@ -1,1 +1,1 @@
-var mnemonic = "bar already neck become remove fork double joke dragon mean seat buzz";
+var mnemonic = "cause alter lesson note spatial deliver twelve salad flame dove alcohol coconut";
