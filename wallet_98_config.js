@@ -1,1 +1,1 @@
-var mnemonic = "skate health seed all zoo couple cradle rotate beach tilt glass hub";
+var mnemonic = "exotic castle baby wage lunar enhance special exile title lecture total knee";

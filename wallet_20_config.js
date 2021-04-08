@@ -1,1 +1,1 @@
-var mnemonic = "cart glove prefer embody drill vibrant push carry secret ramp rug grief";
+var mnemonic = "coral weekend stuff help guess toast west waste inside shift garden foster";

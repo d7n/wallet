@@ -1,1 +1,1 @@
-var mnemonic = "heavy metal supreme pass typical magnet tent love valid float shock claw";
+var mnemonic = "tragic carpet table orphan tomorrow circle claw gaze equal gasp demand genius";

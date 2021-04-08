@@ -1,1 +1,1 @@
-var mnemonic = "rival decrease poem attack onion tourist lottery diet suffer hero plastic casino";
+var mnemonic = "buzz snack local outer language high drill buzz kangaroo vessel unfair gauge";

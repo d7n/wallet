@@ -1,1 +1,1 @@
-var mnemonic = "tool strike stand author sorry winter soul find opinion salute under shed";
+var mnemonic = "gossip long bleak connect cause erupt boil symbol denial account segment youth";

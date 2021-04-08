@@ -1,1 +1,1 @@
-var mnemonic = "erosion chicken reduce ivory excuse sleep vapor gift frozen split attack over";
+var mnemonic = "ankle security diet remind ready tiger crawl debris phone chicken neglect traffic";

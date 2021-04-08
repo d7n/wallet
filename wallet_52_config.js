@@ -1,1 +1,1 @@
-var mnemonic = "genuine patrol between segment genuine disease wave aspect hero space jaguar hood";
+var mnemonic = "pelican lake miracle fade region enforce conduct venture hair scan obscure sadness";

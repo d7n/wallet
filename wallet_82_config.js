@@ -1,1 +1,1 @@
-var mnemonic = "edit possible buyer hood wreck suit accident pony same grass chalk congress";
+var mnemonic = "doll equal dismiss noble share oxygen unveil tide swear govern onion bounce";

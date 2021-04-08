@@ -1,1 +1,1 @@
-var mnemonic = "fame cabbage clerk eagle sort portion giant increase smile city escape scout";
+var mnemonic = "senior online uncover grief title save strategy comfort asset donate slender slogan";

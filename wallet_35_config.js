@@ -1,1 +1,1 @@
-var mnemonic = "dumb helmet young option gown inform palace orbit hair worry decline purse";
+var mnemonic = "curtain nest twist spell path sweet unusual meat barely ice setup pause";

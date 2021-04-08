@@ -1,1 +1,1 @@
-var mnemonic = "pen finger tonight cement race leg churn amateur carpet ceiling drama diesel";
+var mnemonic = "test coffee slow trap install heavy artefact myth govern flat demand noble";

@@ -1,1 +1,1 @@
-var mnemonic = "lend obey captain off silly vacant gasp horror trouble still ticket priority";
+var mnemonic = "dirt novel stage magic result merit face badge heart scan chuckle potato";

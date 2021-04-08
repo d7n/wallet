@@ -1,1 +1,1 @@
-var mnemonic = "antenna sign local patch coral industry note artwork hidden thank dad welcome";
+var mnemonic = "review execute cross lonely develop dust duty wisdom unhappy victory gravity rug";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong mass toward leisure skate finish limit cargo situate skill task athlete";
+var mnemonic = "defense problem like acid lobster what voice vessel metal chuckle crouch tip";

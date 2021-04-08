@@ -1,1 +1,1 @@
-var mnemonic = "security awkward guide rival prepare universe true mutual misery correct power orbit";
+var mnemonic = "shed envelope hat cart genius injury timber pole maximum vote fuel thing";

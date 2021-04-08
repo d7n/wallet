@@ -1,1 +1,1 @@
-var mnemonic = "order divert van roof detail surge track orange cruise captain tattoo coin";
+var mnemonic = "enlist staff lava absorb motor amount monitor laundry vibrant slight laptop sugar";

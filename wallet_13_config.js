@@ -1,1 +1,1 @@
-var mnemonic = "aspect sand segment slight attack illness face legend coast juice onion pool";
+var mnemonic = "talent unknown plate credit toast fetch eye task evil episode hand assault";

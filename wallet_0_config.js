@@ -1,1 +1,1 @@
-var mnemonic = "rare phone bag isolate label chronic task bulb plunge air fetch display";
+var mnemonic = "way planet piece shuffle tag able unfold typical define panic junk morning";

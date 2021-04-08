@@ -1,1 +1,1 @@
-var mnemonic = "cause nuclear mammal escape access core child chase hedgehog hand idle cash";
+var mnemonic = "between stereo seek impose nerve pet club solution robot pumpkin turn taste";

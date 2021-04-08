@@ -1,1 +1,1 @@
-var mnemonic = "parrot rule lazy estate trumpet tell miracle owner machine stone fall belt";
+var mnemonic = "oblige nice gloom lion cereal casino reject mind whale swallow economy apology";

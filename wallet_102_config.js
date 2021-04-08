@@ -1,1 +1,1 @@
-var mnemonic = "anchor chat dinosaur genuine option traffic artefact buffalo ski waste eternal morning";
+var mnemonic = "clog spoil oppose agree joke vacuum verify lunch antenna define plastic plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "notice hold shed monster science can glass path zebra board lawsuit nice";
+var mnemonic = "bright husband sight depth boss damp casino gather seat antenna foster insane";

@@ -1,1 +1,1 @@
-var mnemonic = "speed multiply notable join tonight fortune road alpha embody wash pistol protect";
+var mnemonic = "shed badge trim bike dirt sea undo follow misery increase member twelve";

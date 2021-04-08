@@ -1,1 +1,1 @@
-var mnemonic = "owner glad glide olive ability tree alley make math lava ladder slot";
+var mnemonic = "smooth unlock defy enough pulp whale assume twelve alpha want valley water";

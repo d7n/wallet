@@ -1,1 +1,1 @@
-var mnemonic = "execute correct fish detect mad human panther sample impose hammer force photo";
+var mnemonic = "list toast winner parrot sense poverty review thunder student sugar powder industry";

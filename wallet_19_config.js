@@ -1,1 +1,1 @@
-var mnemonic = "birth come toss tenant glow boil avoid act penalty dentist type elephant";
+var mnemonic = "truck trophy depth message exhibit dizzy adapt burden gesture raise tenant ride";

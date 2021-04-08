@@ -1,1 +1,1 @@
-var mnemonic = "security earn boat top kidney penalty other vessel coin cat pause regret";
+var mnemonic = "banner away erase polar guitar danger charge armed knock mango collect bundle";

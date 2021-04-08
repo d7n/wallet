@@ -1,1 +1,1 @@
-var mnemonic = "duty spend bomb wish wedding clip tail movie gorilla cheap always adult";
+var mnemonic = "loop misery admit skin assault dad flavor vague bike medal agent unable";

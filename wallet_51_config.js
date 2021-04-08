@@ -1,1 +1,1 @@
-var mnemonic = "host repair curve runway nation plate glue move tool always mushroom want";
+var mnemonic = "copy laugh surge main weird advance correct midnight scan plastic unit undo";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware aware stamp ivory tomato mind sea adjust attack smile junk salute";
+var mnemonic = "police wagon proud unfold champion valley strong plunge syrup open dish cram";

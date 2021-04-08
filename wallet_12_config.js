@@ -1,1 +1,1 @@
-var mnemonic = "announce dose ship depend unfair embody turn cat orbit long multiply denial";
+var mnemonic = "moon above arm found cheese pizza blur slide blush chat divert robust";

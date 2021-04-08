@@ -1,1 +1,1 @@
-var mnemonic = "fluid fatigue link entry famous vacant artwork kitten people pole express bring";
+var mnemonic = "matrix reward suit crew agent antique cave festival perfect digital lake hen";

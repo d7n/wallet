@@ -1,1 +1,1 @@
-var mnemonic = "shy birth cable circle purity permit silk immense snap dismiss source elbow";
+var mnemonic = "food mail furnace risk mistake finger discover forest any melody unusual lawsuit";

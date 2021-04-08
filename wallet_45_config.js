@@ -1,1 +1,1 @@
-var mnemonic = "spot such wasp wisdom cross foot heavy wing ginger pigeon hello tube";
+var mnemonic = "issue reveal push antenna ketchup struggle remove they play answer metal track";

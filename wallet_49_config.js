@@ -1,1 +1,1 @@
-var mnemonic = "unfair flat pride eyebrow priority enable cattle buyer assist scare sad front";
+var mnemonic = "amazing harbor type idea hungry oyster omit phone salute similar absurd piece";

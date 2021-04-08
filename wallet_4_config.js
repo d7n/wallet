@@ -1,1 +1,1 @@
-var mnemonic = "base vehicle ignore vote label combine disorder inject square scout lecture quiz";
+var mnemonic = "panther pony daring attitude social primary employ cancel glad water screen drift";

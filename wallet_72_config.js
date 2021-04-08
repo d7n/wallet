@@ -1,1 +1,1 @@
-var mnemonic = "pave struggle direct bike wrestle juice minor monitor toss wreck blind disagree";
+var mnemonic = "rug cluster mother frog excuse release soccer pitch bread fork vibrant entire";

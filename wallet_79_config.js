@@ -1,1 +1,1 @@
-var mnemonic = "era live kind surface moment lava dentist error steel girl coil disease";
+var mnemonic = "amused december involve never twice release surge retire slam service put own";

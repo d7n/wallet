@@ -1,1 +1,1 @@
-var mnemonic = "giraffe asset vault hood remove beyond hunt replace venture behind reduce cost";
+var mnemonic = "weather slim prison enemy glare daughter venture erase story clever possible jungle";

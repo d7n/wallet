@@ -1,1 +1,1 @@
-var mnemonic = "month mansion wall whisper march size reopen lottery web second icon never";
+var mnemonic = "dune silly change dance february sweet give master sword early assume trial";

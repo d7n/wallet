@@ -1,1 +1,1 @@
-var mnemonic = "when ripple region nation window protect just carry oak cruel problem give";
+var mnemonic = "finish front thrive jar replace arctic day journey arrest lion echo prosper";

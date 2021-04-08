@@ -1,1 +1,1 @@
-var mnemonic = "ensure vital sunset expire pause time praise equip gather feel grain lecture";
+var mnemonic = "confirm chief summer feel wheel leave infant elephant raise second repair crowd";

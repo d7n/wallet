@@ -1,1 +1,1 @@
-var mnemonic = "crowd circle wolf real arch scout gown fatigue depend lizard foster mom";
+var mnemonic = "vicious friend brother club street metal yard panda chat zebra breeze wise";

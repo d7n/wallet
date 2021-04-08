@@ -1,1 +1,1 @@
-var mnemonic = "school dignity run glue scale remind evidence prison focus stem master scheme";
+var mnemonic = "plug scissors absurd idle switch now off worth public second excuse shift";

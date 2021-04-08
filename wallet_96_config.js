@@ -1,1 +1,1 @@
-var mnemonic = "online truck lady trial truck jaguar marble poem spin abstract tribe song";
+var mnemonic = "hood drastic educate join inspire hill call staff spare check choose cart";

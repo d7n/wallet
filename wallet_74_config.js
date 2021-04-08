@@ -1,1 +1,1 @@
-var mnemonic = "bind method stereo floor salad punch visual pact ensure clip genius endless";
+var mnemonic = "chief armor math choose people buffalo unusual path until bless square spy";

@@ -1,1 +1,1 @@
-var mnemonic = "hood grief travel food cannon debris boost bulb canoe position toilet delay";
+var mnemonic = "skin critic practice grit utility mistake bulk denial pumpkin view three hundred";

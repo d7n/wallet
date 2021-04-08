@@ -1,1 +1,1 @@
-var mnemonic = "reward senior reunion shrimp only gather width fish inhale scout basic step";
+var mnemonic = "media valid custom balance define bamboo marriage police jump text plug weird";

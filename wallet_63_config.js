@@ -1,1 +1,1 @@
-var mnemonic = "miracle lazy pink ripple cradle pipe organ special else van series attack";
+var mnemonic = "divert keen illness seek dawn address couch pilot cook destroy give afford";

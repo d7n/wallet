@@ -1,1 +1,1 @@
-var mnemonic = "honey novel pipe smooth horse fit bonus install wedding infant empty level";
+var mnemonic = "seed parrot cart hurt fine obvious suffer accident pluck lady pipe lady";

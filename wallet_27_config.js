@@ -1,1 +1,1 @@
-var mnemonic = "sweet glass abandon gesture shuffle wisdom demise miracle refuse runway dinosaur burden";
+var mnemonic = "peace course asset use motion illegal enough biology you prefer obvious siege";

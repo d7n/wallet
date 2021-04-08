@@ -1,1 +1,1 @@
-var mnemonic = "horn column cotton pass ritual night fresh click loan pond indicate praise";
+var mnemonic = "injury wasp butter shell soul decorate ladder tip bundle ancient update mail";

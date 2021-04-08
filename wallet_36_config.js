@@ -1,1 +1,1 @@
-var mnemonic = "board boat train sock easily estate apology music fan correct diagram payment";
+var mnemonic = "depth olive glass mango brother satoshi divorce water cute casual right cash";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber hamster wrestle dismiss like gadget repeat digital stage assault grace topple";
+var mnemonic = "chase column grant true such steak strike turn state wine arrow rare";

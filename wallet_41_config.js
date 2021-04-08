@@ -1,1 +1,1 @@
-var mnemonic = "unique domain sick beef matrix card liar taxi state purse panther tissue";
+var mnemonic = "purpose find avocado ocean match believe fossil note toward climb excite light";

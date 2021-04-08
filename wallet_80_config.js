@@ -1,1 +1,1 @@
-var mnemonic = "afraid genuine twist kid ripple muscle picnic palm welcome april worry arrive";
+var mnemonic = "bleak promote nest modify build consider detect until ostrich merry neglect pretty";

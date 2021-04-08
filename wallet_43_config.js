@@ -1,1 +1,1 @@
-var mnemonic = "canyon picnic alone faith enact guide huge say pudding lend setup immense";
+var mnemonic = "divorce west critic black portion adapt evil cycle slow pioneer into glow";

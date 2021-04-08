@@ -1,1 +1,1 @@
-var mnemonic = "fetch expand chuckle dumb wage phone outside bag pool course security salt";
+var mnemonic = "review produce manage tent crack fruit flush city pride nest fog element";

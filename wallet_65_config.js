@@ -1,1 +1,1 @@
-var mnemonic = "silk sweet affair flower food athlete shiver wool village giggle space chair";
+var mnemonic = "exotic remember rhythm twenty across dwarf degree congress scissors limb celery expire";

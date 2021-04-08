@@ -1,1 +1,1 @@
-var mnemonic = "jealous genuine club coast apart pistol abstract hidden veteran tortoise found debate";
+var mnemonic = "multiply tuition virtual foster behave wink glad acid cupboard pumpkin cabbage affair";

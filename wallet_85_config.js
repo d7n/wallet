@@ -1,1 +1,1 @@
-var mnemonic = "guard hockey grant drop coyote voice violin armed vessel broken child egg";
+var mnemonic = "badge luggage upper outer month index property gadget robot they mule diary";

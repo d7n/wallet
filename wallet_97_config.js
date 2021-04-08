@@ -1,1 +1,1 @@
-var mnemonic = "goose hurt grief engage brother volume eyebrow welcome heavy blast account found";
+var mnemonic = "final dinner tackle cherry popular wool about wink end motor endless parrot";

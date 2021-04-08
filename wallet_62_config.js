@@ -1,1 +1,1 @@
-var mnemonic = "junior place crazy piano decrease version border oblige bacon cradle bench try";
+var mnemonic = "old hospital mirror best subway alley eager airport soup sibling asset lion";

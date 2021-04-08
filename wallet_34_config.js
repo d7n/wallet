@@ -1,1 +1,1 @@
-var mnemonic = "harsh solve student cool silver burden clock title still art race reward";
+var mnemonic = "choice marine sound gun memory consider parade pluck conduct wing skate coconut";

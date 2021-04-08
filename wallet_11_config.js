@@ -1,1 +1,1 @@
-var mnemonic = "stay rather junior music target silly frown orbit cargo alien farm arrive";
+var mnemonic = "turkey later whisper injury chimney father obtain silent hedgehog insane estate summer";

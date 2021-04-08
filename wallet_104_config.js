@@ -1,1 +1,1 @@
-var mnemonic = "fitness pair slide nice wagon cereal argue love slam tumble clump media";
+var mnemonic = "blood obvious special music veteran museum visit friend unusual energy paddle hotel";

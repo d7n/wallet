@@ -1,1 +1,1 @@
-var mnemonic = "cigar replace pupil trophy crack treat void candy slight abuse huge brown";
+var mnemonic = "taste solar heart squirrel horse romance bench tone tree steel hobby mean";

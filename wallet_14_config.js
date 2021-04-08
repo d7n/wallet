@@ -1,1 +1,1 @@
-var mnemonic = "pepper market debate frame melt crumble local wide hammer spin runway dawn";
+var mnemonic = "tenant museum suspect squirrel soup machine link audit pony marriage morning feel";

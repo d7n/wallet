@@ -1,1 +1,1 @@
-var mnemonic = "enforce host amount mango proud despair ensure way shallow monster rural recall";
+var mnemonic = "peasant soft project hungry fat gun gallery pyramid useful spice lawsuit crop";

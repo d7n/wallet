@@ -1,1 +1,1 @@
-var mnemonic = "lake cotton bone trap wedding ozone play domain syrup key avocado twist";
+var mnemonic = "burger risk during quit always luxury panel tattoo click legal vague market";

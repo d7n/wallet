@@ -1,1 +1,1 @@
-var mnemonic = "flush happy sentence above pepper naive drill bread duty account junior dream";
+var mnemonic = "cluster case orchard glow broom page bracket forward whisper describe various shield";

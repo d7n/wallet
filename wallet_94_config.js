@@ -1,1 +1,1 @@
-var mnemonic = "awkward manual dirt ripple thrive dream grant fish leader genuine write offer";
+var mnemonic = "wet often note rigid stereo card vote casino limit wrestle soon strike";

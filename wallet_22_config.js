@@ -1,1 +1,1 @@
-var mnemonic = "wood render achieve amount honey addict clump badge decline pulp spider elevator";
+var mnemonic = "alarm warrior ripple paddle surprise stomach palace level era enrich negative sea";

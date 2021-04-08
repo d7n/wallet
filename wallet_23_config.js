@@ -1,1 +1,1 @@
-var mnemonic = "swim desk fever lazy vibrant nominee consider job future bench still guess";
+var mnemonic = "input uncover series program frequent derive isolate version mansion pizza help fragile";

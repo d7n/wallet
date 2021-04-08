@@ -1,1 +1,1 @@
-var mnemonic = "project message december company blood absurd dolphin shoe dad option ribbon vendor";
+var mnemonic = "sign relax hero bottom theme they heavy relax bleak fit leave dumb";

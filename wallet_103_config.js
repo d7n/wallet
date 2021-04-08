@@ -1,1 +1,1 @@
-var mnemonic = "annual frame analyst cheap hen spice glad talent oppose night funny host";
+var mnemonic = "crush romance squirrel song once seven tuna catalog mean dragon check spike";

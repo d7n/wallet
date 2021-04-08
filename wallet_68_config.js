@@ -1,1 +1,1 @@
-var mnemonic = "zebra struggle pelican elder myth tonight actual between lock wine piano project";
+var mnemonic = "enable bargain advice cube turn become then primary balcony route rare artist";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal idle genuine put slam vehicle debate guard armor mirror pear early";
+var mnemonic = "budget end physical response broccoli team will decide scrub damp viable another";

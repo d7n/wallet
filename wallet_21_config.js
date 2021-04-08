@@ -1,1 +1,1 @@
-var mnemonic = "empower kingdom carbon napkin perfect brisk flight sudden slim evil ancient flight";
+var mnemonic = "prison oak honey dose income music raven blade orchard cool craft guilt";

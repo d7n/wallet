@@ -1,1 +1,1 @@
-var mnemonic = "this bird empower visit floor absorb wise hurt kite course lobster goat";
+var mnemonic = "wild proud burst rocket army hobby enforce color useful faith laugh tell";

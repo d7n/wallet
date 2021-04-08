@@ -1,1 +1,1 @@
-var mnemonic = "tumble swing wait degree spike index wood moment execute problem glue rubber";
+var mnemonic = "decrease leopard medal dismiss best sort celery client garment hole chat slender";

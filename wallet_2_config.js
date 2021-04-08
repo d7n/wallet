@@ -1,1 +1,1 @@
-var mnemonic = "trust across chronic edit young kick wealth stay young friend trophy solar";
+var mnemonic = "brown solar cigar soul tomorrow mind rocket wage glove top across culture";

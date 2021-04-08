@@ -1,1 +1,1 @@
-var mnemonic = "fit coil file unfold must worth gift share ridge box hawk deputy";
+var mnemonic = "forget smart dress scrub puppy amazing regular brave camp tattoo own garage";

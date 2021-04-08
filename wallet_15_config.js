@@ -1,1 +1,1 @@
-var mnemonic = "hand expire glide magnet forward write term bulk pony ride spoon boss";
+var mnemonic = "erupt awesome goose estate dry stuff torch toddler reopen glove ticket bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder mind grab fluid wild aspect lizard slight crack tennis join divorce";
+var mnemonic = "return chief hedgehog off talent sugar bird scan profit sponsor goat tool";

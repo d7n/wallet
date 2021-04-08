@@ -1,1 +1,1 @@
-var mnemonic = "destroy bachelor hand carpet capital gun repeat mountain flower dilemma alcohol actual";
+var mnemonic = "unknown diary roast want copper wire antenna note tumble better zero achieve";

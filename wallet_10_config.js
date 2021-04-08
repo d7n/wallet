@@ -1,1 +1,1 @@
-var mnemonic = "unveil south flee pelican entire crop noble surround usual skull virtual base";
+var mnemonic = "fold skin source concert permit giraffe diary can hidden display athlete scrap";
