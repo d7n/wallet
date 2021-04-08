@@ -1,1 +1,1 @@
-var mnemonic = "market fan utility lobster fluid deliver twice door suspect hurry february height";
+var mnemonic = "strategy say divorce inform mansion winter program side hip police parrot ripple";

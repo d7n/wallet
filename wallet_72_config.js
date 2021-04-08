@@ -1,1 +1,1 @@
-var mnemonic = "initial method damage legend carbon beyond snack resemble capital abuse body work";
+var mnemonic = "detect wet sunset field wage tone hungry general traffic net health couple";

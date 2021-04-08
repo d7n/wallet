@@ -1,1 +1,1 @@
-var mnemonic = "rabbit engine impose soda shoulder orbit food custom duck earn tongue question";
+var mnemonic = "supreme funny want idea draw profit artwork post accident pull usage media";

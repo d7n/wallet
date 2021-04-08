@@ -1,1 +1,1 @@
-var mnemonic = "can source trophy oil spray enlist nurse palace load chicken spell surface";
+var mnemonic = "empower such cereal unknown expose basket salad champion sunny track exclude ability";

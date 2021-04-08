@@ -1,1 +1,1 @@
-var mnemonic = "shallow habit powder become powder among spoil travel citizen flush rain color";
+var mnemonic = "since flock actor detail squeeze trial smart bag text turkey burst metal";

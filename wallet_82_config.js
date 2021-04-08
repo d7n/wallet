@@ -1,1 +1,1 @@
-var mnemonic = "forget tunnel identify drop island suggest tobacco camera then fiber enforce brush";
+var mnemonic = "regret nature abstract umbrella taxi appear stairs layer leaf trigger paper amateur";

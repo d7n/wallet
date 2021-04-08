@@ -1,1 +1,1 @@
-var mnemonic = "meat column feature question season height catalog million please witness extra album";
+var mnemonic = "rookie cave valve bicycle piece amazing olympic spend enough bronze review burger";

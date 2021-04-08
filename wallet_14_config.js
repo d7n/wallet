@@ -1,1 +1,1 @@
-var mnemonic = "helmet believe fold rocket lock pride phrase silver click verify exotic lava";
+var mnemonic = "hat cousin wave puzzle antenna scene tray library case swing exist concert";

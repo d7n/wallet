@@ -1,1 +1,1 @@
-var mnemonic = "trap wave satisfy prize snake accuse flee dentist lock shaft okay couple";
+var mnemonic = "breeze hour eagle lift hip athlete credit title area boost dragon ordinary";

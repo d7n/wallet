@@ -1,1 +1,1 @@
-var mnemonic = "loyal dream picture end sniff acquire fashion put valid picnic silver glance";
+var mnemonic = "remind sudden reunion sentence autumn multiply orient monkey proof smoke indicate exercise";

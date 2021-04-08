@@ -1,1 +1,1 @@
-var mnemonic = "stay cause advance tribe calm frequent motion device exist swallow group gorilla";
+var mnemonic = "wink rude detail seminar festival venture sweet float yard dash swift olympic";

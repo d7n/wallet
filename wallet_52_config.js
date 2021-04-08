@@ -1,1 +1,1 @@
-var mnemonic = "common extend evoke salmon utility rigid slender various robot decade walk you";
+var mnemonic = "clutch wage toast all language badge nerve welcome current truth share diamond";

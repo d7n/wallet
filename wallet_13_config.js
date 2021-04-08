@@ -1,1 +1,1 @@
-var mnemonic = "broken spirit clog exist visual soldier universe jazz network skate lounge involve";
+var mnemonic = "enhance prosper square hundred asset enhance shoot bunker shell cream thank rule";

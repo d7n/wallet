@@ -1,1 +1,1 @@
-var mnemonic = "slush cost autumn impact wet spin bracket gorilla milk uncle belt pelican";
+var mnemonic = "paddle uncle net screen idle original reduce achieve fire sense reopen someone";

@@ -1,1 +1,1 @@
-var mnemonic = "either flight lend armor dawn lab crowd measure tide slam ability feed";
+var mnemonic = "arch owner slush topic sudden cluster second salon soldier ten hand govern";

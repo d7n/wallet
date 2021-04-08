@@ -1,1 +1,1 @@
-var mnemonic = "ladder smoke ginger major nerve solid convince skull catch bomb phrase antenna";
+var mnemonic = "carpet attitude palm melody color elbow hold super remind mother tooth thunder";

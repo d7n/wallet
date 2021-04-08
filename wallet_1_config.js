@@ -1,1 +1,1 @@
-var mnemonic = "federal crush lens produce floor mule cradle luggage runway image learn success";
+var mnemonic = "unique faint source ugly advice choice silent banner invite charge salt grab";

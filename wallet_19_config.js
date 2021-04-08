@@ -1,1 +1,1 @@
-var mnemonic = "lazy example pyramid shuffle grit genuine recall jaguar erode hedgehog circle uncle";
+var mnemonic = "clip embrace behind find innocent knock end actor retire draw crush chunk";

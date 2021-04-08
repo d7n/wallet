@@ -1,1 +1,1 @@
-var mnemonic = "ginger monkey cannon certain clump hard industry master stock brick tackle bubble";
+var mnemonic = "circle poem search another keep slice harsh inner resemble marriage reflect volume";

@@ -1,1 +1,1 @@
-var mnemonic = "since space fiscal grief inside toilet deer cancel note peanut during icon";
+var mnemonic = "fringe jelly skull catalog mango dove green angry tape party alien ramp";

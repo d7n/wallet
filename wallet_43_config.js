@@ -1,1 +1,1 @@
-var mnemonic = "pyramid guitar imitate kitchen bubble minute glimpse intact fiber region seven length";
+var mnemonic = "bullet roof buddy chest raw rifle verb sing wool staff fossil dignity";

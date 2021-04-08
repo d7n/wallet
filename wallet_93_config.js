@@ -1,1 +1,1 @@
-var mnemonic = "boring real enter jar supreme rival another picnic piano bike boost leopard";
+var mnemonic = "sport slide muffin marble flame mom since pencil couch quiz chicken rubber";

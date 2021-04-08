@@ -1,1 +1,1 @@
-var mnemonic = "step rigid stable crawl bike digital wing ghost edit tenant paddle art";
+var mnemonic = "boy news tag wild lab rally dust draft liberty then exist sample";

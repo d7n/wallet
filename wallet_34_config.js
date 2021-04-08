@@ -1,1 +1,1 @@
-var mnemonic = "brother address kick gesture fan flock panel uphold dolphin weird domain fall";
+var mnemonic = "clinic fancy inherit expose dry online soul talent embark salad clip bottom";

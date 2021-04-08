@@ -1,1 +1,1 @@
-var mnemonic = "behind observe phrase ice evolve gospel dynamic delay soft wrestle quiz drastic";
+var mnemonic = "subject congress ahead laundry kiwi light salon trim robot together odor shaft";

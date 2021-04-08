@@ -1,1 +1,1 @@
-var mnemonic = "cradle sail sister hole sick used jelly diary tail journey antenna author";
+var mnemonic = "inch mail deer immune glory lonely anchor message organ paddle twist index";

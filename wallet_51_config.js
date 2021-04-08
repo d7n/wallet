@@ -1,1 +1,1 @@
-var mnemonic = "govern heart caught empty avoid siege famous frame mosquito monitor forward notable";
+var mnemonic = "million cram order people carbon lift slogan frog manual elbow prepare pull";

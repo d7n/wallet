@@ -1,1 +1,1 @@
-var mnemonic = "boring report team hamster media impact hour purchase method relax calm snow";
+var mnemonic = "scheme top useful victory aisle street regret giant helmet ribbon valid pull";

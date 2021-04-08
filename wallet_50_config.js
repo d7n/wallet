@@ -1,1 +1,1 @@
-var mnemonic = "normal confirm space distance situate skin august indoor orbit ginger beef crack";
+var mnemonic = "alert canal benefit caught noodle film soft cat fatal huge payment task";

@@ -1,1 +1,1 @@
-var mnemonic = "man meat tower ripple slice weather wisdom sentence duck grid dentist alpha";
+var mnemonic = "tip ahead arch border seat impulse lizard rent artwork toss coyote invest";

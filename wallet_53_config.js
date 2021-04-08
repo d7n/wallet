@@ -1,1 +1,1 @@
-var mnemonic = "repeat stadium foil dash arrest together actress drum escape near buzz purchase";
+var mnemonic = "catch tissue wheel direct diagram luxury sausage damp skirt weekend winter bottom";

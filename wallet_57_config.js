@@ -1,1 +1,1 @@
-var mnemonic = "ocean habit lyrics civil cause vivid carpet pride latin impose cheese split";
+var mnemonic = "august improve fiction able occur nephew absurd cake apart until local list";

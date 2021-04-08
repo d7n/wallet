@@ -1,1 +1,1 @@
-var mnemonic = "fortune surge excess recipe page expand emotion chunk join toss present benefit";
+var mnemonic = "mosquito always jaguar salad good argue snow ready refuse vacuum bachelor pizza";

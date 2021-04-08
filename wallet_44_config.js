@@ -1,1 +1,1 @@
-var mnemonic = "course soul daring anger hurt useful hood rate recall west beach inflict";
+var mnemonic = "turn dress water document lizard agree remain grab wealth easily vault ahead";

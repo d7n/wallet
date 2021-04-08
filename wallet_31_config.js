@@ -1,1 +1,1 @@
-var mnemonic = "reopen when multiply holiday mesh kit dumb possible topic iron naive usage";
+var mnemonic = "mammal cousin above cigar save hurt salmon color word act first sphere";

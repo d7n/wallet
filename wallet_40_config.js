@@ -1,1 +1,1 @@
-var mnemonic = "song quit boost captain hotel viable ghost bottom fat else still hotel";
+var mnemonic = "connect must excess palace sugar illegal estate ceiling hill border consider title";

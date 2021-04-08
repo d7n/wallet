@@ -1,1 +1,1 @@
-var mnemonic = "february cactus venture hello negative cake leg sad nest little clerk heavy";
+var mnemonic = "ice unfold alone cloud kit youth dawn history hotel opinion palm novel";

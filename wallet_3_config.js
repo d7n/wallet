@@ -1,1 +1,1 @@
-var mnemonic = "equip cover wheat insane fitness fetch fiscal six wasp coconut knife busy";
+var mnemonic = "wire aware dial wool citizen birth domain evil slab govern window monster";

@@ -1,1 +1,1 @@
-var mnemonic = "history mad mango oyster leopard post camera enter bacon nation outdoor level";
+var mnemonic = "holiday rail rain stick salad glimpse predict regular transfer poet cross worth";

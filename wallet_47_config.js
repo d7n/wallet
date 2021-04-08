@@ -1,1 +1,1 @@
-var mnemonic = "mutual pull decrease pelican morning unique pony animal dose bag apple common";
+var mnemonic = "float robot rate deposit ginger gap program deliver mimic injury glide canyon";

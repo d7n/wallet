@@ -1,1 +1,1 @@
-var mnemonic = "album extra outer object measure now paper cook repair license genuine speak";
+var mnemonic = "museum cattle abandon neither hip weird uniform female salon midnight diagram edit";

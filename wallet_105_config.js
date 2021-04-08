@@ -1,1 +1,1 @@
-var mnemonic = "frequent seat decrease tumble enemy wide planet world reunion merge base cushion";
+var mnemonic = "fiber search tobacco trigger ask rib kite country avoid ripple drum nurse";

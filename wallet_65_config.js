@@ -1,1 +1,1 @@
-var mnemonic = "shaft liberty rotate next slender elegant gold best buyer notice reduce north";
+var mnemonic = "lamp reveal virtual dynamic outdoor census palace surface matter marble trust scissors";

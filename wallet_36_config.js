@@ -1,1 +1,1 @@
-var mnemonic = "later bike struggle taxi popular guilt tunnel camp property laugh feel rely";
+var mnemonic = "sauce pretty tank process mean gravity solution daring kidney crack fame slice";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar kitchen clay step tragic wall blast much frog soldier dish grunt";
+var mnemonic = "circle conduct eye defy feature milk begin reason direct pole dignity grant";

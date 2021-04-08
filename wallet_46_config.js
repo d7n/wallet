@@ -1,1 +1,1 @@
-var mnemonic = "city stay scissors below rapid equip ribbon panic kind coral horror castle";
+var mnemonic = "poem draw broccoli innocent ready ivory erode scissors ecology enlist offer erode";

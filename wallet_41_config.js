@@ -1,1 +1,1 @@
-var mnemonic = "under purse forum stand riot speed roast elephant case speed hobby wild";
+var mnemonic = "fury trash attract slush step prosper input skirt bind movie start mind";

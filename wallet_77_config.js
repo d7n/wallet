@@ -1,1 +1,1 @@
-var mnemonic = "calm sting solid topic wall urge put slogan key horse banana weapon";
+var mnemonic = "gown horror priority quality point sea soap clarify canyon major labor word";

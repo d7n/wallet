@@ -1,1 +1,1 @@
-var mnemonic = "famous clump much mimic fly know error interest season artwork trust flower";
+var mnemonic = "service split end rely eye caution enforce arctic funny wise chaos trumpet";

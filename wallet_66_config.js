@@ -1,1 +1,1 @@
-var mnemonic = "horror rack lounge control assume fetch excuse shaft until head join across";
+var mnemonic = "decide protect income forum enrich correct use indicate evil moon bottom grab";

@@ -1,1 +1,1 @@
-var mnemonic = "festival only crazy pony material copper whip wet truck census snap guard";
+var mnemonic = "armed renew rebuild clump desk book rescue melt three hidden come unfold";

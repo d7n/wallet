@@ -1,1 +1,1 @@
-var mnemonic = "spot machine twenty taxi final unveil crucial photo effort door ensure humor";
+var mnemonic = "pond error athlete avoid doctor cake chief shift scissors social busy find";

@@ -1,1 +1,1 @@
-var mnemonic = "height quit acquire butter slush fox purity universe anchor gloom slab alter";
+var mnemonic = "pilot resource slab twenty food asthma secret tortoise differ defy ripple soup";

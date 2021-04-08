@@ -1,1 +1,1 @@
-var mnemonic = "light powder twelve tongue size extra collect wink deer inside rigid fruit";
+var mnemonic = "canyon pipe fantasy gadget trade waste decorate render click west maple rude";

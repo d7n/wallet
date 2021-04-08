@@ -1,1 +1,1 @@
-var mnemonic = "camera trick material answer produce connect tool giant energy crime please broom";
+var mnemonic = "surround please sell gaze gown habit opinion soft seven sand often parent";

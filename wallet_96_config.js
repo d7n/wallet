@@ -1,1 +1,1 @@
-var mnemonic = "reform pulp mixed height rose sheriff dinner arrest cargo orchard tent green";
+var mnemonic = "core prepare bench mother access tennis dog lazy episode prison runway purse";

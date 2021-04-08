@@ -1,1 +1,1 @@
-var mnemonic = "armed marble fiber pulp embark canal waste fiber ladder replace expect staff";
+var mnemonic = "woman angle lucky key typical know fatal other forward ask grape eight";

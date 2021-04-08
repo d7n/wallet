@@ -1,1 +1,1 @@
-var mnemonic = "satisfy fantasy proud deer clerk rail nurse vital favorite during gentle blanket";
+var mnemonic = "combine protect warm crop supreme display caution hour manual connect grape glue";

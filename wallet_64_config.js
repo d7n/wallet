@@ -1,1 +1,1 @@
-var mnemonic = "lyrics antique supreme skate year lava caught bachelor suit steak key yard";
+var mnemonic = "damage degree trust wisdom job custom craft best price move silk pull";

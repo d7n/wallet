@@ -1,1 +1,1 @@
-var mnemonic = "ahead leg clip rally erase jar affair roof afford select process comic";
+var mnemonic = "drip six beach fever tooth depart horror guitar similar nominee such satoshi";

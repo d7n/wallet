@@ -1,1 +1,1 @@
-var mnemonic = "slow news genuine wheat enjoy uncover pass piece suspect shock warrior merry";
+var mnemonic = "mouse mass ostrich noodle alone expire toilet away again outer gloom barely";

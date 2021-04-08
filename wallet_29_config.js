@@ -1,1 +1,1 @@
-var mnemonic = "lock shy drum satisfy bless razor rubber electric layer inch unfold rubber";
+var mnemonic = "away welcome input genius oval lock elbow voyage enjoy filter phone boil";

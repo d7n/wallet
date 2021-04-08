@@ -1,1 +1,1 @@
-var mnemonic = "injury perfect legend tunnel miss young pond tackle ten rent pilot intact";
+var mnemonic = "among crew object talent nerve cash wave spring steak birth stage neglect";

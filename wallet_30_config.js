@@ -1,1 +1,1 @@
-var mnemonic = "kitchen balance admit loan across detect gain citizen stem hammer consider recipe";
+var mnemonic = "teach top myself table clutch joy fossil elegant minute adapt soap arrest";

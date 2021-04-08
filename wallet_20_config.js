@@ -1,1 +1,1 @@
-var mnemonic = "wasp inquiry oil boring armed degree quality bomb twist brown enable life";
+var mnemonic = "shop question later travel hunt shoe rare ignore hockey fog tennis beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "square age evolve able flower frost then manual case claim task tomorrow";
+var mnemonic = "letter rate assault shadow plug enforce safe reject alone scene stock scorpion";

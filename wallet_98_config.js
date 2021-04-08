@@ -1,1 +1,1 @@
-var mnemonic = "exchange season medal hurry twenty exotic normal park ceiling candy sentence rate";
+var mnemonic = "question side beyond wealth march pilot select acquire jazz index attitude mixed";

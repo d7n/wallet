@@ -1,1 +1,1 @@
-var mnemonic = "fine machine vendor lamp hen canal fork depart diary duty segment pull";
+var mnemonic = "soon exchange great adjust main name trim rival long pottery tomorrow soon";

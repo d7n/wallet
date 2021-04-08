@@ -1,1 +1,1 @@
-var mnemonic = "state arch west sauce post civil father pattern twenty over climb rough";
+var mnemonic = "valve polar twenty deliver lock stage present soft sister end goose castle";

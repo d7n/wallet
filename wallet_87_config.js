@@ -1,1 +1,1 @@
-var mnemonic = "task calm volume top urge giggle crew library stick rude aerobic fame";
+var mnemonic = "poet you cost day cool raise ring timber design system clutch initial";

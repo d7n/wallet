@@ -1,1 +1,1 @@
-var mnemonic = "rookie tuna engage kingdom soft winner lady mail friend rely all unknown";
+var mnemonic = "tent wasp accuse level sport cheese tongue wine buffalo mechanic heavy quiz";

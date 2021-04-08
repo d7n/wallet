@@ -1,1 +1,1 @@
-var mnemonic = "swamp achieve bleak joke enforce festival above limit leader decorate liar pride";
+var mnemonic = "pond cherry major ignore brick frown victory reward blame crunch agent urban";

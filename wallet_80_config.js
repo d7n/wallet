@@ -1,1 +1,1 @@
-var mnemonic = "profit need cupboard need valve stem legal hybrid drum sponsor cancel other";
+var mnemonic = "boss verb east vessel already income cabin width urge weekend forward owner";

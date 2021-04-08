@@ -1,1 +1,1 @@
-var mnemonic = "label collect tail word inquiry apple essay silver view surprise wealth axis";
+var mnemonic = "bean palace drive market thrive say mean elephant lizard jacket episode arrive";

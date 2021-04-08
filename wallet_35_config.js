@@ -1,1 +1,1 @@
-var mnemonic = "taxi robot just seat pyramid solar pulse basket again person cliff maid";
+var mnemonic = "access choose hover useful maple virtual cloud then broccoli distance hazard swim";

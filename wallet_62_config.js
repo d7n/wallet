@@ -1,1 +1,1 @@
-var mnemonic = "denial gorilla birth crawl dry rival volume gossip notice drink tree mimic";
+var mnemonic = "hire waste popular wall audit brick express truck pull puppy entire danger";

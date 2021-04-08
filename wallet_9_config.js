@@ -1,1 +1,1 @@
-var mnemonic = "alien tail mistake early fence width all ceiling wait sustain sock behave";
+var mnemonic = "panda stumble syrup dentist hunt marble dad sleep split hungry album curious";

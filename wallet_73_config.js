@@ -1,1 +1,1 @@
-var mnemonic = "vocal foam opinion tissue into multiply update payment narrow swift you table";
+var mnemonic = "nerve behind envelope kit coyote hazard stumble traffic region account tiny web";

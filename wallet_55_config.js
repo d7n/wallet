@@ -1,1 +1,1 @@
-var mnemonic = "grace security cherry venue ostrich hybrid thank home sun canvas pen betray";
+var mnemonic = "affair spin drip fuel rocket web hello sick task vicious pause pitch";

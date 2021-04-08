@@ -1,1 +1,1 @@
-var mnemonic = "wrap course achieve reveal settle exile scatter medal bus series maid asthma";
+var mnemonic = "fluid body grace surround level certain sea insane satisfy below road fantasy";

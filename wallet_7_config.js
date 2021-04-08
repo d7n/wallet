@@ -1,1 +1,1 @@
-var mnemonic = "example biology bid addict option door author version reject tissue rubber kidney";
+var mnemonic = "huge fee moment hungry divert place delay tenant now meat depend glass";

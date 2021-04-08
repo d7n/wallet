@@ -1,1 +1,1 @@
-var mnemonic = "calm autumn smile fashion scale capital target truly claw crash gloom chef";
+var mnemonic = "angry rebuild sustain enable riot lens range crack health lava fine trim";

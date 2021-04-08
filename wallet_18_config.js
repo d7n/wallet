@@ -1,1 +1,1 @@
-var mnemonic = "jacket erupt job erupt hope crawl machine early student depart auto review";
+var mnemonic = "adult camera protect dinner output ritual glad junk cherry allow scare shed";

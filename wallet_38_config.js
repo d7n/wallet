@@ -1,1 +1,1 @@
-var mnemonic = "door crazy input artist reunion wreck never powder leg truth purpose what";
+var mnemonic = "rude exit final spoil renew thank direct photo barrel regular mutual actress";

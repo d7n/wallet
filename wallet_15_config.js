@@ -1,1 +1,1 @@
-var mnemonic = "gesture maximum wear below worry fly brother mesh ship dragon topple book";
+var mnemonic = "estate earth grocery giggle wedding shaft ketchup turtle rubber cluster yellow primary";

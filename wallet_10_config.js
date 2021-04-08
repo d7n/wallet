@@ -1,1 +1,1 @@
-var mnemonic = "dry identify zone repeat grain trap snake tower victory jump taste answer";
+var mnemonic = "blush reunion bless lift plastic flag pill guard cabbage love anger pride";

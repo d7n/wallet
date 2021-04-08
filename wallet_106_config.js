@@ -1,1 +1,1 @@
-var mnemonic = "civil degree kid subject cost doll valley exchange possible trophy select good";
+var mnemonic = "coach room warm swift jewel blur defense express patient rival nation resemble";

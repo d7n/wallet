@@ -1,1 +1,1 @@
-var mnemonic = "athlete sound blast pretty build ice menu coast excite author fatigue survey";
+var mnemonic = "true cycle clean riot brave return burden split enrich airport pretty surface";

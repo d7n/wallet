@@ -1,1 +1,1 @@
-var mnemonic = "armor someone million region isolate evil idle this cradle panther youth dwarf";
+var mnemonic = "lawn vote average fetch media frozen auto tackle case dumb human impulse";

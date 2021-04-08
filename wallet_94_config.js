@@ -1,1 +1,1 @@
-var mnemonic = "age blade salute mule move enter relief horror diesel release trend master";
+var mnemonic = "treat vacant fluid guilt glue ozone fresh human mixture dance pupil clay";

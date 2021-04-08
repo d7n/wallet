@@ -1,1 +1,1 @@
-var mnemonic = "very object hidden label kangaroo raccoon poet defense canal advice thought sell";
+var mnemonic = "fade cushion tooth fiction empty stock eight speed palace chimney control learn";

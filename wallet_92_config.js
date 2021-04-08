@@ -1,1 +1,1 @@
-var mnemonic = "squirrel funny head oil kingdom rib journey sword hamster number client balcony";
+var mnemonic = "else near bring exit move circle dutch switch gorilla chef shaft spoon";
