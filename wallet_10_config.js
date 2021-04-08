@@ -1,1 +1,1 @@
-var mnemonic = "dragon release spot thumb ability unusual capital napkin patient ignore solution opera";
+var mnemonic = "fit chunk pelican remind paper legend someone rain remain bar skull dash";

@@ -1,1 +1,1 @@
-var mnemonic = "now unknown planet develop onion cage bench amazing artwork venue indicate boss";
+var mnemonic = "test buyer slight plug input salmon blouse picture doll agent little three";

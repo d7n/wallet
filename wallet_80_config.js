@@ -1,1 +1,1 @@
-var mnemonic = "vacuum action save abstract kiwi baby refuse depart shove habit mercy sting";
+var mnemonic = "turkey emotion make velvet guide laptop attract jaguar sport usual uniform fit";

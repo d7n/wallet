@@ -1,1 +1,1 @@
-var mnemonic = "quiz topple outdoor debate leader bubble demise february lunch arena slow chunk";
+var mnemonic = "traffic hybrid float fold toilet occur leaf predict first congress unit will";

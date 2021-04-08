@@ -1,1 +1,1 @@
-var mnemonic = "upgrade rich clay diagram scrub trend level season mix birth exclude swear";
+var mnemonic = "round cliff stereo bar smooth shoe surprise version oyster robust route nerve";

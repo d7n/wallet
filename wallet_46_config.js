@@ -1,1 +1,1 @@
-var mnemonic = "toe cactus quick stamp final term catalog ring tomorrow want okay assume";
+var mnemonic = "jungle struggle rhythm birth bid imitate practice patch clean mean bunker erupt";

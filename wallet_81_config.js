@@ -1,1 +1,1 @@
-var mnemonic = "walnut visa wagon aerobic hero glance argue will final script stereo immense";
+var mnemonic = "entire concert tornado accuse dash shift leader success wave soldier option copper";

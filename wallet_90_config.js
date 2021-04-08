@@ -1,1 +1,1 @@
-var mnemonic = "library shallow exercise jazz border cloud pencil few palace few salt cannon";
+var mnemonic = "bring smile unhappy scorpion witness stone wise aunt person blame wink vital";

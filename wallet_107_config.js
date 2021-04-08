@@ -1,1 +1,1 @@
-var mnemonic = "pluck hello gorilla skull vote cross idea apple latin horror clutch monitor";
+var mnemonic = "casual inhale lens ill evolve vehicle climb during audit reject live shuffle";

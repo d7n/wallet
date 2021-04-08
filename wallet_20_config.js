@@ -1,1 +1,1 @@
-var mnemonic = "plug practice warfare other symbol outer donate yard swift pig donkey special";
+var mnemonic = "order pulp need uncover matrix rotate paper join great wrap dress stable";

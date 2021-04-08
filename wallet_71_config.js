@@ -1,1 +1,1 @@
-var mnemonic = "phrase train traffic destroy fog either amateur ticket hollow ordinary trophy want";
+var mnemonic = "travel retreat table grief ghost brass traffic evoke slender educate napkin worry";

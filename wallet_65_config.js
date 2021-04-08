@@ -1,1 +1,1 @@
-var mnemonic = "special teach wrong limb puzzle boost whip scorpion acid tongue deer vote";
+var mnemonic = "memory essay utility mosquito crush nerve assist ladder position offer kingdom fiction";

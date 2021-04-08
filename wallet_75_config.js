@@ -1,1 +1,1 @@
-var mnemonic = "gaze deputy slide spatial fee arena hello fee pudding victory photo blur";
+var mnemonic = "public panic gospel nice august garlic cluster absorb dream blind secret medal";

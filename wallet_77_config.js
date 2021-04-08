@@ -1,1 +1,1 @@
-var mnemonic = "rail broom grocery abandon pride build entire win tongue rapid model royal";
+var mnemonic = "acid shoot poverty hurt cup robot ladder sphere fee input employ twice";

@@ -1,1 +1,1 @@
-var mnemonic = "deer off captain coffee predict leisure hamster path jelly find stage usual";
+var mnemonic = "flash wing negative street expire seat march doctor raise magic sunny bar";

@@ -1,1 +1,1 @@
-var mnemonic = "model tornado lab satoshi rescue pulse right salon egg drum loan short";
+var mnemonic = "collect pepper movie chair mix media clutch doctor relief measure engine veteran";

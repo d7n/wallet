@@ -1,1 +1,1 @@
-var mnemonic = "edge replace limit ugly sustain laundry sad veteran fish title undo shoe";
+var mnemonic = "noble noodle pizza boat engine crucial wife violin inform win recycle know";

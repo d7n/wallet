@@ -1,1 +1,1 @@
-var mnemonic = "denial enough text odor clean retire involve forget change proof member talk";
+var mnemonic = "dismiss guitar produce dragon person million history trim shock chimney rice loud";

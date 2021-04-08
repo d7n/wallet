@@ -1,1 +1,1 @@
-var mnemonic = "someone front shrug kangaroo enrich evidence arm hammer lens catch enjoy liar";
+var mnemonic = "renew draw shadow rabbit wheat honey oval toe damp hurt fluid future";

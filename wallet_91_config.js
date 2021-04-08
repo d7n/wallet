@@ -1,1 +1,1 @@
-var mnemonic = "fire tiny engage horn merry box grief they unfair panic raise consider";
+var mnemonic = "fog novel puppy swallow cycle gloom still client magic donate drama rail";

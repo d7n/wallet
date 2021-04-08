@@ -1,1 +1,1 @@
-var mnemonic = "hub marble diet advance cereal nephew addict mushroom summer boost index system";
+var mnemonic = "gallery lamp novel student echo kick radio profit belt canyon antique cup";

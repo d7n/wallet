@@ -1,1 +1,1 @@
-var mnemonic = "pulse tip order lobster truck exchange avoid chaos security trash people loyal";
+var mnemonic = "spice asthma kitchen rack west attitude life fever farm record lobster blast";

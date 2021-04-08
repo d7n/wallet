@@ -1,1 +1,1 @@
-var mnemonic = "brisk alpha parent measure jazz give dad guitar deal chair shoe ribbon";
+var mnemonic = "edge wisdom picture gas balcony velvet glass tray ticket drift giraffe certain";

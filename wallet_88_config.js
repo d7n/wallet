@@ -1,1 +1,1 @@
-var mnemonic = "cost boring check cricket target cable senior photo bitter hamster protect wall";
+var mnemonic = "corn car ivory about dizzy nurse time energy output eternal reason ordinary";

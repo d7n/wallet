@@ -1,1 +1,1 @@
-var mnemonic = "evoke text video addict fabric laugh horror supply atom census circle diagram";
+var mnemonic = "seat wisdom weird smart hobby winner wing ready august easily claim garage";

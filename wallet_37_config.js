@@ -1,1 +1,1 @@
-var mnemonic = "drastic convince volume brisk good maze canal truth sight shift guess happy";
+var mnemonic = "candy idle recycle frequent ribbon mixture worry spider fashion unique super crop";

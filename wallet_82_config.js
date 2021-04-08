@@ -1,1 +1,1 @@
-var mnemonic = "penalty scatter squeeze artist opinion spring toddler project tired tumble planet brisk";
+var mnemonic = "rice approve slice cherry depart sketch water palm brick carry race that";

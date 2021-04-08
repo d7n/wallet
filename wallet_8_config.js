@@ -1,1 +1,1 @@
-var mnemonic = "wife genius aunt jelly cluster patient suggest copy guide food balcony vicious";
+var mnemonic = "auto reopen stem eyebrow horn number sweet artwork also dismiss essay increase";

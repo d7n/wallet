@@ -1,1 +1,1 @@
-var mnemonic = "must jump margin dismiss erupt struggle when bid hunt tilt skin elephant";
+var mnemonic = "volume answer rate dismiss win joy antique market dentist transfer horn pig";

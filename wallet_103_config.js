@@ -1,1 +1,1 @@
-var mnemonic = "edit fire van napkin season napkin bike electric also habit drive fatigue";
+var mnemonic = "used anchor wire include cigar switch reveal ridge dolphin copper kiss thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "devote hybrid narrow ridge myself devote forum fringe south enroll income submit";
+var mnemonic = "list wrap squeeze hint disorder network involve staff horror almost flush cry";

@@ -1,1 +1,1 @@
-var mnemonic = "viable announce foot heavy dwarf erupt account filter flash found diamond latin";
+var mnemonic = "wage pluck antique priority faint group maple scout license sail describe town";

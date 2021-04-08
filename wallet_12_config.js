@@ -1,1 +1,1 @@
-var mnemonic = "all struggle trigger demand sight ivory bring uphold library spend loan skull";
+var mnemonic = "ceiling wheat symbol lumber oak across brother bone gown garage cigar demand";

@@ -1,1 +1,1 @@
-var mnemonic = "code recall cover flavor bless pony engage expire key guard invest involve";
+var mnemonic = "jungle system crack like amateur two add success item intact coin traffic";

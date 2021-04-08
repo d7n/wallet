@@ -1,1 +1,1 @@
-var mnemonic = "helmet degree wisdom family size record tongue large rail insect bunker album";
+var mnemonic = "upgrade wrap twelve model mind grass nuclear fat business panel crop refuse";

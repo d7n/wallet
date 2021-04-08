@@ -1,1 +1,1 @@
-var mnemonic = "bottom sniff sunny portion bid fatal coin series lumber tide trick genius";
+var mnemonic = "toy soul panther custom census bonus mask extend share deer combine drastic";

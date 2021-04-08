@@ -1,1 +1,1 @@
-var mnemonic = "remove pattern lunch warfare suspect cigar unlock advice shine remind lend patch";
+var mnemonic = "pink trip almost congress cave erupt flower like family puzzle burst roast";

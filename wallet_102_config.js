@@ -1,1 +1,1 @@
-var mnemonic = "broken join exhaust flash silly gift mad survey fancy torch excess debate";
+var mnemonic = "squirrel shrug loan toy syrup rapid settle pepper circle useless exist arrange";

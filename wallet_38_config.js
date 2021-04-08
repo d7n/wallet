@@ -1,1 +1,1 @@
-var mnemonic = "point pilot ethics can tank shed right pluck rocket shoot recall inquiry";
+var mnemonic = "hold hello salmon affair slow click boat real odor lazy elbow arm";

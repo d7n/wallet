@@ -1,1 +1,1 @@
-var mnemonic = "table blade valve coast palm situate order sight fashion crane flower guide";
+var mnemonic = "parade squirrel put special helmet sentence capable agree public farm bind festival";

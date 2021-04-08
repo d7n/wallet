@@ -1,1 +1,1 @@
-var mnemonic = "warrior way typical way wing actress fog pizza benefit fish liquid proof";
+var mnemonic = "winter omit state merge add enjoy wisdom mimic sick between nurse jump";

@@ -1,1 +1,1 @@
-var mnemonic = "regret december acid invite fuel early liquid found hint enjoy stem fee";
+var mnemonic = "usage express corn drip mistake safe hidden absorb accuse lumber crunch range";

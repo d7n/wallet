@@ -1,1 +1,1 @@
-var mnemonic = "high bless section fog rent reward boring apart hour reward crater forest";
+var mnemonic = "treat thumb want shuffle dilemma carry sword final network wrap thunder network";

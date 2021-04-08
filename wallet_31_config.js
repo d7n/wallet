@@ -1,1 +1,1 @@
-var mnemonic = "more stool main blouse tuna win sponsor mercy outside talk few fiction";
+var mnemonic = "where cruise hawk evil snow violin chef like observe cruel gossip expect";

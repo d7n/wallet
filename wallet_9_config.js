@@ -1,1 +1,1 @@
-var mnemonic = "torch cradle inject program gadget fall extra kiss yellow you zero impose";
+var mnemonic = "taxi mean exact begin glass course region better elephant sadness ignore arch";

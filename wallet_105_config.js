@@ -1,1 +1,1 @@
-var mnemonic = "link winner chat cherry blanket marriage tobacco turkey aerobic visual venue salon";
+var mnemonic = "athlete giggle garage hover process tornado vital demise unveil kidney chat awful";

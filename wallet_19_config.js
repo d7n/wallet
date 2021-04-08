@@ -1,1 +1,1 @@
-var mnemonic = "harvest analyst fabric ankle soldier prison inner antique area jeans behind theme";
+var mnemonic = "candy job ocean fit piano remain clever suggest magnet example bomb surprise";

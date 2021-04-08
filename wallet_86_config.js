@@ -1,1 +1,1 @@
-var mnemonic = "bus dynamic mind tool laptop impact tenant one mule law security friend";
+var mnemonic = "industry purchase tree kick special system hungry glance teach rebel sense benefit";

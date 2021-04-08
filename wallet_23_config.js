@@ -1,1 +1,1 @@
-var mnemonic = "side immense glide usage bleak lottery project result remain tube twist explain";
+var mnemonic = "opinion helmet raise runway stamp creek sausage tape embody cliff bulk grace";

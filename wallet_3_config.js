@@ -1,1 +1,1 @@
-var mnemonic = "leave force snow fancy metal adjust obtain remove blame olympic bonus civil";
+var mnemonic = "fog inside slight hill pink mass obtain arctic bachelor remove agent neither";

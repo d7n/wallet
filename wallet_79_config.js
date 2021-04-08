@@ -1,1 +1,1 @@
-var mnemonic = "team float cigar hair borrow pond security world right tiny embody erase";
+var mnemonic = "fence aisle shock float truth month sunset loan strike health school solar";

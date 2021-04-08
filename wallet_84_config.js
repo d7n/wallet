@@ -1,1 +1,1 @@
-var mnemonic = "sea cricket slogan amused dynamic chest dentist roof envelope heart draw hero";
+var mnemonic = "brass unveil ice photo dish error question when hold hazard story oil";

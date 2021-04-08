@@ -1,1 +1,1 @@
-var mnemonic = "fit hub skin enhance badge stable erosion bunker strategy oven apology hidden";
+var mnemonic = "youth venue sun cousin load surprise enact love usual frame warm rug";

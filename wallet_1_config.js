@@ -1,1 +1,1 @@
-var mnemonic = "garage bright youth distance hire annual fan dismiss hold old fashion damage";
+var mnemonic = "depart interest large police noise eager sunset grant cargo say radar bring";

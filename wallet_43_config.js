@@ -1,1 +1,1 @@
-var mnemonic = "method road brick life two resist swamp tumble ensure rebuild judge zebra";
+var mnemonic = "hello duck era fence misery rich hour tennis lumber garbage festival ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace slide ring cupboard hungry sentence figure sick exotic hover morning crumble";
+var mnemonic = "donor drastic nasty develop juice lava climb kangaroo carpet icon news rebuild";

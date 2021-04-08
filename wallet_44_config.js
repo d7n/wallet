@@ -1,1 +1,1 @@
-var mnemonic = "split abstract already stove soldier swim honey cargo couch mosquito allow tip";
+var mnemonic = "candy virus ivory weasel inhale deliver dash mix treat math jelly cat";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet siren bounce rent tube behave force priority tenant slogan once robot";
+var mnemonic = "frequent nest save latin oil shallow genius sport imitate glow cruise skin";

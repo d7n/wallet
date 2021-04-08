@@ -1,1 +1,1 @@
-var mnemonic = "drink bullet asset energy rigid nominee subway travel devote shed spoon dawn";
+var mnemonic = "nation tree talent town pen busy tooth modify fence legend crime weapon";

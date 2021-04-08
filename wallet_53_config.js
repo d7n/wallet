@@ -1,1 +1,1 @@
-var mnemonic = "middle else pull shield guess proud cool acquire mistake recall bench claim";
+var mnemonic = "flip try pig rebel scrap soup slush eternal discover series reform jeans";

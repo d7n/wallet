@@ -1,1 +1,1 @@
-var mnemonic = "arm slender fever clog erupt shine eye kangaroo people blame nature usual";
+var mnemonic = "correct trophy quality agent clap damage gentle hover fossil satoshi master network";

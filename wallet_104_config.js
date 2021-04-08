@@ -1,1 +1,1 @@
-var mnemonic = "conduct taxi asset sense wash flip first mom brother valley garlic cheese";
+var mnemonic = "castle rain hollow lucky detail slice scissors lucky engage pluck supreme leopard";

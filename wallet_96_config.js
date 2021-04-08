@@ -1,1 +1,1 @@
-var mnemonic = "rough conduct purse list maid slam april then high share echo present";
+var mnemonic = "conduct good hero parent print lesson endorse stereo bone dust half solid";

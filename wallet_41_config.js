@@ -1,1 +1,1 @@
-var mnemonic = "vote wave spare source eye race electric salute uniform raw nephew edge";
+var mnemonic = "service proof way eternal early apart style illegal antique wide song august";

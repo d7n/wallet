@@ -1,1 +1,1 @@
-var mnemonic = "luggage father tone parade abstract sustain mesh month kind shadow roof spawn";
+var mnemonic = "glimpse catalog best drop frog own point sort birth slight close donor";

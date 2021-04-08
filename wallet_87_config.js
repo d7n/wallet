@@ -1,1 +1,1 @@
-var mnemonic = "alley mad asset electric ridge fabric rotate universe hood moon dream perfect";
+var mnemonic = "crime disease wrong hammer mimic win orange taste invite sail leopard mule";

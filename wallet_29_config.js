@@ -1,1 +1,1 @@
-var mnemonic = "myth inquiry hybrid shallow room idea burden arena favorite spot suspect wing";
+var mnemonic = "tomorrow paper vanish brass buddy deposit now object move plug visual unfold";

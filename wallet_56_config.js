@@ -1,1 +1,1 @@
-var mnemonic = "flash process donate cat cat buffalo cream annual need discover pattern like";
+var mnemonic = "soul people industry reform wonder forest layer ahead scheme wood step come";

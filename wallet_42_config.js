@@ -1,1 +1,1 @@
-var mnemonic = "bicycle inject much marriage circle palace bread citizen rate cactus metal pumpkin";
+var mnemonic = "enough comfort ostrich kid edit face expect also ostrich south chimney rally";

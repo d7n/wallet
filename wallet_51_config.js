@@ -1,1 +1,1 @@
-var mnemonic = "side pink kid such evil disease require fantasy view scene spare shield";
+var mnemonic = "chef trap hand asthma fan fame miracle million float seminar wrap hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue later daring bridge program proof lend away dignity flavor say coach";
+var mnemonic = "sail issue guitar very desert mercy confirm awake venture scissors finish emerge";

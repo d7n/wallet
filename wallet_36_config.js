@@ -1,1 +1,1 @@
-var mnemonic = "under tattoo comic upper hybrid view wash question border flush wool pigeon";
+var mnemonic = "aerobic legal holiday lyrics type purity left street sting style toe wool";

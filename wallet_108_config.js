@@ -1,1 +1,1 @@
-var mnemonic = "alien material sign license raven verify weather taxi dove harsh fix lounge";
+var mnemonic = "modify biology modify crumble actress sport acquire curtain scale orient silk impose";

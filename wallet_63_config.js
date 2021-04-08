@@ -1,1 +1,1 @@
-var mnemonic = "express gather game very gold truly another swift record brain public sugar";
+var mnemonic = "cool toast boss suit case three tourist mean orient recipe embrace blossom";

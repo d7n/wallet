@@ -1,1 +1,1 @@
-var mnemonic = "party rule modify record silly bone manual label crater pony bread never";
+var mnemonic = "layer six level machine shrug addict horror illness bless outer broccoli tower";

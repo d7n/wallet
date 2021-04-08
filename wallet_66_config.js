@@ -1,1 +1,1 @@
-var mnemonic = "before lens hazard harvest fetch wave usage resemble mechanic banana just mushroom";
+var mnemonic = "omit fever mix number fatigue stable bullet sail depend tell change merry";

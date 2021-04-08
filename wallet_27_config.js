@@ -1,1 +1,1 @@
-var mnemonic = "acoustic gain abuse aware day orient dial proof tragic warm voyage guitar";
+var mnemonic = "caution month mammal mechanic peanut federal flat ski pudding kid museum symptom";

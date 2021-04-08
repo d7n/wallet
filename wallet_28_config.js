@@ -1,1 +1,1 @@
-var mnemonic = "scan alcohol basket faculty brand deputy start region entry fence police shiver";
+var mnemonic = "hungry hub today board camera any hint clown diary trade replace apart";

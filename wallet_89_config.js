@@ -1,1 +1,1 @@
-var mnemonic = "confirm month flower wrestle track funny torch permit bottom enable blur sword";
+var mnemonic = "sea organ brush because stomach coffee column climb shoot kiwi woman chuckle";

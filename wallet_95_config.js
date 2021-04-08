@@ -1,1 +1,1 @@
-var mnemonic = "again soccer pizza soon tribe sun idea trend grid steak august punch";
+var mnemonic = "wave arena sort remind unfold injury flash fresh jungle wear knife satisfy";

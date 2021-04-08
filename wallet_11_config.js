@@ -1,1 +1,1 @@
-var mnemonic = "purse orange spray stay burger purchase box blade cycle visa animal tent";
+var mnemonic = "outdoor life beauty inmate use course debris basket impulse tomato pipe iron";

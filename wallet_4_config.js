@@ -1,1 +1,1 @@
-var mnemonic = "goose turn early crane fold live tide diagram around sell pair canal";
+var mnemonic = "noble boost hill lemon shrimp faint section joy junk paper december trouble";

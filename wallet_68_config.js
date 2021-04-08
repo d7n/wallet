@@ -1,1 +1,1 @@
-var mnemonic = "key inmate average few effort fog drum airport coffee about acoustic fragile";
+var mnemonic = "possible senior betray stable claim shine add basic notice limit couple annual";

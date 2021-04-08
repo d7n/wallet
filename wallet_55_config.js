@@ -1,1 +1,1 @@
-var mnemonic = "friend check diary cloud grass earth inch man ladder dumb insane distance";
+var mnemonic = "powder team aerobic piece talk trick divert episode version woman myself false";

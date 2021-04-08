@@ -1,1 +1,1 @@
-var mnemonic = "fog course observe road song name wire language trigger multiply regular ring";
+var mnemonic = "nephew honey horse radio tired myself neck select vivid lamp million oak";

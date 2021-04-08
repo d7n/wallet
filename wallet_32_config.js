@@ -1,1 +1,1 @@
-var mnemonic = "alone trumpet bunker garbage raccoon security focus piece way toy super hard";
+var mnemonic = "quick indoor marriage stereo roof opinion jump security grape plunge uniform once";

@@ -1,1 +1,1 @@
-var mnemonic = "major puzzle debris theme flip define assault evidence result animal rice salon";
+var mnemonic = "ice gaze burst survey sail clerk govern age accuse nature tower curve";

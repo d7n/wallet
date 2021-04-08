@@ -1,1 +1,1 @@
-var mnemonic = "rival debris chef bridge system tooth lecture mix walnut stairs lift electric";
+var mnemonic = "trophy diesel joke uncle bid climb friend secret swarm afford output they";

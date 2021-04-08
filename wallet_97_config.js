@@ -1,1 +1,1 @@
-var mnemonic = "judge owner tube dog skull spread seven ten admit decade virus law";
+var mnemonic = "shift blossom equal portion snack faculty slot note dynamic fragile dance one";
