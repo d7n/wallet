@@ -1,1 +1,1 @@
-var mnemonic = "want share picnic fruit enough witness diet certain gentle matrix typical eager";
+var mnemonic = "unaware aware stamp ivory tomato mind sea adjust attack smile junk salute";

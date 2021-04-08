@@ -1,1 +1,1 @@
-var mnemonic = "rice field account ride toy buddy arrive absent super game harvest guilt";
+var mnemonic = "shy birth cable circle purity permit silk immense snap dismiss source elbow";

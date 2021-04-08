@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow vacuum prize culture blade slice car grief elevator jeans funny flock";
+var mnemonic = "hood grief travel food cannon debris boost bulb canoe position toilet delay";

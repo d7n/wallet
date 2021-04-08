@@ -1,1 +1,1 @@
-var mnemonic = "bus bitter name rotate quick arrow hold garbage connect shine trap jeans";
+var mnemonic = "flush happy sentence above pepper naive drill bread duty account junior dream";

@@ -1,1 +1,1 @@
-var mnemonic = "duty romance bind vocal pitch morning course vehicle usage slim pair rail";
+var mnemonic = "wrong mass toward leisure skate finish limit cargo situate skill task athlete";

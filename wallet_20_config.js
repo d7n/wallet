@@ -1,1 +1,1 @@
-var mnemonic = "chimney rabbit report wait flower exercise vacuum fee tree fury media pizza";
+var mnemonic = "cart glove prefer embody drill vibrant push carry secret ramp rug grief";

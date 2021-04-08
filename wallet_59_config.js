@@ -1,1 +1,1 @@
-var mnemonic = "alpha hill junior desert give wheat bless between adapt dirt leopard fringe";
+var mnemonic = "cause nuclear mammal escape access core child chase hedgehog hand idle cash";

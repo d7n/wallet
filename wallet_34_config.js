@@ -1,1 +1,1 @@
-var mnemonic = "someone walnut consider differ ghost smoke burger burger already great stove picnic";
+var mnemonic = "harsh solve student cool silver burden clock title still art race reward";

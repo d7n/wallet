@@ -1,1 +1,1 @@
-var mnemonic = "drip make item turkey mystery math own certain chronic nurse camp chest";
+var mnemonic = "bind method stereo floor salad punch visual pact ensure clip genius endless";

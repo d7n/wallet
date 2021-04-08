@@ -1,1 +1,1 @@
-var mnemonic = "sell alone eagle diagram chunk lift arrive farm rhythm super vehicle shiver";
+var mnemonic = "vital height glove travel youth dog puzzle tool record tooth only burger";

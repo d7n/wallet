@@ -1,1 +1,1 @@
-var mnemonic = "crowd decorate attend define dentist friend analyst visual typical nature sail license";
+var mnemonic = "order divert van roof detail surge track orange cruise captain tattoo coin";

@@ -1,1 +1,1 @@
-var mnemonic = "palace unaware salt whip angle sleep pole frost palm private auction stock";
+var mnemonic = "rich garlic biology maple tone scale indoor unusual margin coast tag light";

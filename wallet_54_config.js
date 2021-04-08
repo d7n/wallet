@@ -1,1 +1,1 @@
-var mnemonic = "title hockey right disease attack decide dry game imitate announce night monitor";
+var mnemonic = "shoulder mind grab fluid wild aspect lizard slight crack tennis join divorce";

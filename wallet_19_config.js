@@ -1,1 +1,1 @@
-var mnemonic = "snack glue stumble shoot february vocal rely monster fix mesh mind silk";
+var mnemonic = "birth come toss tenant glow boil avoid act penalty dentist type elephant";

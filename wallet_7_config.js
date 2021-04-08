@@ -1,1 +1,1 @@
-var mnemonic = "dynamic speak cattle wagon bird melt inner correct reduce narrow guard ensure";
+var mnemonic = "jealous genuine club coast apart pistol abstract hidden veteran tortoise found debate";

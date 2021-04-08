@@ -1,1 +1,1 @@
-var mnemonic = "trip weird fossil notable retire vocal give absurd tumble win tilt fluid";
+var mnemonic = "skate health seed all zoo couple cradle rotate beach tilt glass hub";

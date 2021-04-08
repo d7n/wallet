@@ -1,1 +1,1 @@
-var mnemonic = "catalog diet promote basket aunt tourist scare cannon social exhibit metal mesh";
+var mnemonic = "gaze voice infant tattoo coast satoshi crop subject away rough urban title";

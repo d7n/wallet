@@ -1,1 +1,1 @@
-var mnemonic = "brush chalk harbor silk cargo biology junk student pottery glove silver property";
+var mnemonic = "spot such wasp wisdom cross foot heavy wing ginger pigeon hello tube";

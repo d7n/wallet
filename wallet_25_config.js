@@ -1,1 +1,1 @@
-var mnemonic = "vehicle lazy inside jaguar pelican mixed alley later tree raccoon punch crisp";
+var mnemonic = "destroy bachelor hand carpet capital gun repeat mountain flower dilemma alcohol actual";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket wave play equal december mask kitchen picnic system buddy flag friend";
+var mnemonic = "security earn boat top kidney penalty other vessel coin cat pause regret";

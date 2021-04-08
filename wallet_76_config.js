@@ -1,1 +1,1 @@
-var mnemonic = "crazy coach typical calm orphan alone habit museum hedgehog guitar title okay";
+var mnemonic = "school dignity run glue scale remind evidence prison focus stem master scheme";

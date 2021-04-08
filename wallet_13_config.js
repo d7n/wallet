@@ -1,1 +1,1 @@
-var mnemonic = "multiply carbon cat enforce drive visual cherry neither auto produce analyst shock";
+var mnemonic = "aspect sand segment slight attack illness face legend coast juice onion pool";

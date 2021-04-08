@@ -1,1 +1,1 @@
-var mnemonic = "vacant sad sight tortoise crush caught never army across brief tenant scrap";
+var mnemonic = "rival decrease poem attack onion tourist lottery diet suffer hero plastic casino";

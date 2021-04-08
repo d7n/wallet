@@ -1,1 +1,1 @@
-var mnemonic = "wisdom town note potato twist broken buzz bind deputy happy habit plate";
+var mnemonic = "zebra struggle pelican elder myth tonight actual between lock wine piano project";

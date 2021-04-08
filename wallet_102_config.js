@@ -1,1 +1,1 @@
-var mnemonic = "bean legend insect spirit voyage relief forward creek eight woman sadness concert";
+var mnemonic = "anchor chat dinosaur genuine option traffic artefact buffalo ski waste eternal morning";

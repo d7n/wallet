@@ -1,1 +1,1 @@
-var mnemonic = "correct impose frown print depart whip soul seek top clump library crime";
+var mnemonic = "afraid genuine twist kid ripple muscle picnic palm welcome april worry arrive";

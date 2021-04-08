@@ -1,1 +1,1 @@
-var mnemonic = "similar clap border chief robot place cradle antique sponsor news daughter cup";
+var mnemonic = "swim desk fever lazy vibrant nominee consider job future bench still guess";

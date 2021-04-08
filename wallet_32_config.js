@@ -1,1 +1,1 @@
-var mnemonic = "much city labor buzz absent install aisle captain bulk kit across aspect";
+var mnemonic = "identify often appear tornado jewel agree person carbon reduce floor impact wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "reject patch basic trigger vast side abuse album leaf endorse decrease basic";
+var mnemonic = "horn column cotton pass ritual night fresh click loan pond indicate praise";

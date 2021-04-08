@@ -1,1 +1,1 @@
-var mnemonic = "among matrix door lift museum season below jar rather dress end enjoy";
+var mnemonic = "hole matter palace elite ridge penalty rival panic village supreme powder eternal";

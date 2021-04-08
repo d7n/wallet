@@ -1,1 +1,1 @@
-var mnemonic = "senior outside edit fossil leader nephew start rapid indoor sell rotate jump";
+var mnemonic = "online truck lady trial truck jaguar marble poem spin abstract tribe song";

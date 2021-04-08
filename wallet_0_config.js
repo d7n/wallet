@@ -1,1 +1,1 @@
-var mnemonic = "usual endless disease boy broccoli pitch social toward pretty slight canal ghost";
+var mnemonic = "rare phone bag isolate label chronic task bulb plunge air fetch display";

@@ -1,1 +1,1 @@
-var mnemonic = "ball provide blush truly month purity soldier lava inner cluster color grab";
+var mnemonic = "brown collect barely vast fortune mask legend sport paper fabric affair decrease";

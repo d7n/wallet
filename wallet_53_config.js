@@ -1,1 +1,1 @@
-var mnemonic = "army topple abuse nut crack together bomb excess scout stay novel crowd";
+var mnemonic = "deer glory private develop area holiday design pact parade jewel enemy color";

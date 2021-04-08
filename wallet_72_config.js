@@ -1,1 +1,1 @@
-var mnemonic = "friend bar ask crack unaware walnut elevator second captain couple caution tattoo";
+var mnemonic = "pave struggle direct bike wrestle juice minor monitor toss wreck blind disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "real hawk stick project capital dish this monitor run helmet opinion parent";
+var mnemonic = "tool strike stand author sorry winter soul find opinion salute under shed";

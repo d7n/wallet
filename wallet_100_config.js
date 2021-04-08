@@ -1,1 +1,1 @@
-var mnemonic = "guitar add clock upon section erode retire mind forward broom cargo ice";
+var mnemonic = "owner glad glide olive ability tree alley make math lava ladder slot";

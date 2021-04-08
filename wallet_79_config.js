@@ -1,1 +1,1 @@
-var mnemonic = "mother bag december renew maximum cigar access caught average swift noble remind";
+var mnemonic = "era live kind surface moment lava dentist error steel girl coil disease";

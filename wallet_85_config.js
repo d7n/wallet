@@ -1,1 +1,1 @@
-var mnemonic = "multiply sudden assist grace clip cupboard soon brand link metal company quality";
+var mnemonic = "guard hockey grant drop coyote voice violin armed vessel broken child egg";

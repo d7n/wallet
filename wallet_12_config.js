@@ -1,1 +1,1 @@
-var mnemonic = "proof prison raw uniform bid busy convince half behind quick replace issue";
+var mnemonic = "announce dose ship depend unfair embody turn cat orbit long multiply denial";

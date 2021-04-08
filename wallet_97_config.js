@@ -1,1 +1,1 @@
-var mnemonic = "toilet become pistol gravity betray lunar tonight sense album tornado dawn creek";
+var mnemonic = "goose hurt grief engage brother volume eyebrow welcome heavy blast account found";

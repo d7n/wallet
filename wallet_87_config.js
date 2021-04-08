@@ -1,1 +1,1 @@
-var mnemonic = "congress toddler curtain security range basic car pole buzz gravity silk whisper";
+var mnemonic = "rice abandon plunge unusual firm short service people actor speak click pet";

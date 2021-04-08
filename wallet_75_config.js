@@ -1,1 +1,1 @@
-var mnemonic = "enough regret weekend develop correct cruise faculty direct any angry only pretty";
+var mnemonic = "install ship mosquito wrap brown neither asset memory mango quit fabric cause";

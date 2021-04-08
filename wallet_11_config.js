@@ -1,1 +1,1 @@
-var mnemonic = "swing border eager loyal dynamic ivory riot glare custom stomach corn lion";
+var mnemonic = "stay rather junior music target silly frown orbit cargo alien farm arrive";

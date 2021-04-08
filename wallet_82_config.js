@@ -1,1 +1,1 @@
-var mnemonic = "hour process park other bracket increase dress similar annual act work reduce";
+var mnemonic = "edit possible buyer hood wreck suit accident pony same grass chalk congress";

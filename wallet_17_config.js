@@ -1,1 +1,1 @@
-var mnemonic = "behind diet icon another tank manage salmon ostrich inquiry jewel skill surge";
+var mnemonic = "tumble swing wait degree spike index wood moment execute problem glue rubber";

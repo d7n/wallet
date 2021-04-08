@@ -1,1 +1,1 @@
-var mnemonic = "accident discover asset solid toy problem man detect pave bag tape erosion";
+var mnemonic = "lend obey captain off silly vacant gasp horror trouble still ticket priority";

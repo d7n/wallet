@@ -1,1 +1,1 @@
-var mnemonic = "ticket ensure ask priority dilemma work brown shuffle belt eternal track concert";
+var mnemonic = "vocal idle genuine put slam vehicle debate guard armor mirror pear early";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors bus notable child define venture please long clever guitar deal turn";
+var mnemonic = "dumb helmet young option gown inform palace orbit hair worry decline purse";

@@ -1,1 +1,1 @@
-var mnemonic = "assault abandon antique repair galaxy connect sing bacon buddy resist snack zero";
+var mnemonic = "marriage vague divide piece federal music spy marble prepare else clock input";

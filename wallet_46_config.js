@@ -1,1 +1,1 @@
-var mnemonic = "pledge super monkey science icon hole name dad chef easily smart deal";
+var mnemonic = "pen finger tonight cement race leg churn amateur carpet ceiling drama diesel";

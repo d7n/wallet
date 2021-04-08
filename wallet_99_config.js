@@ -1,1 +1,1 @@
-var mnemonic = "crack rely feed assault legend girl return scrap where wisdom arm mango";
+var mnemonic = "giraffe asset vault hood remove beyond hunt replace venture behind reduce cost";

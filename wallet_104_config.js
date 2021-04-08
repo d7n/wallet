@@ -1,1 +1,1 @@
-var mnemonic = "journey rival hobby blossom kit sad immune person end unique veteran ride";
+var mnemonic = "fitness pair slide nice wagon cereal argue love slam tumble clump media";

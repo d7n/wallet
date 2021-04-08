@@ -1,1 +1,1 @@
-var mnemonic = "wild inhale speed auction tobacco same solve private flame spell narrow surge";
+var mnemonic = "during source rebuild common deer symbol pistol fire display monster motion suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "denial seed put pepper zoo any forget friend occur vocal tobacco giraffe";
+var mnemonic = "parrot rule lazy estate trumpet tell miracle owner machine stone fall belt";

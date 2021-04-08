@@ -1,1 +1,1 @@
-var mnemonic = "daughter angle scorpion space month all ice stamp pig dilemma argue mandate";
+var mnemonic = "vintage pizza message check misery rotate pistol talent amused youth human wash";

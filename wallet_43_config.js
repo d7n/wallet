@@ -1,1 +1,1 @@
-var mnemonic = "stove boss much inject season shiver desk valve common hawk boy wrap";
+var mnemonic = "canyon picnic alone faith enact guide huge say pudding lend setup immense";

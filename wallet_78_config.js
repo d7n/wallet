@@ -1,1 +1,1 @@
-var mnemonic = "uncle shop word doll neither payment sight skill assume start use meadow";
+var mnemonic = "ensure vital sunset expire pause time praise equip gather feel grain lecture";

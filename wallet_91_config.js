@@ -1,1 +1,1 @@
-var mnemonic = "lake remove sting lounge ball pattern rally trophy sign collect lonely dwarf";
+var mnemonic = "fetch expand chuckle dumb wage phone outside bag pool course security salt";

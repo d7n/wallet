@@ -1,1 +1,1 @@
-var mnemonic = "roast rare draft today sail wide knee thing twenty exist card give";
+var mnemonic = "reward senior reunion shrimp only gather width fish inhale scout basic step";

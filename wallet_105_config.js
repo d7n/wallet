@@ -1,1 +1,1 @@
-var mnemonic = "slogan neither rural pause plastic sting daring cinnamon pyramid pepper price slim";
+var mnemonic = "sleep popular climb famous glue survey bottom city uphold comic thunder trap";

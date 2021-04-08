@@ -1,1 +1,1 @@
-var mnemonic = "area little pride canyon moment match image slight uncover flush fever stuff";
+var mnemonic = "security awkward guide rival prepare universe true mutual misery correct power orbit";

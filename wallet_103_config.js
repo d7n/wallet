@@ -1,1 +1,1 @@
-var mnemonic = "spot glide welcome margin unlock media slab basket height rally net few";
+var mnemonic = "annual frame analyst cheap hen spice glad talent oppose night funny host";

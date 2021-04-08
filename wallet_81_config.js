@@ -1,1 +1,1 @@
-var mnemonic = "raccoon beyond frozen tomato artist dad tuna cannon enroll island destroy rookie";
+var mnemonic = "duty spend bomb wish wedding clip tail movie gorilla cheap always adult";

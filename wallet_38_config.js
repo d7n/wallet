@@ -1,1 +1,1 @@
-var mnemonic = "odor hospital garbage believe wash grief man pepper regret add dismiss usual";
+var mnemonic = "erosion chicken reduce ivory excuse sleep vapor gift frozen split attack over";

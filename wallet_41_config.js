@@ -1,1 +1,1 @@
-var mnemonic = "jealous throw human grow misery private steak process volume adjust jaguar abstract";
+var mnemonic = "unique domain sick beef matrix card liar taxi state purse panther tissue";

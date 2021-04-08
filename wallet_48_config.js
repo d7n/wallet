@@ -1,1 +1,1 @@
-var mnemonic = "tortoise tell pony stadium chimney team south space cotton much science dynamic";
+var mnemonic = "curious space kitchen remove urge release dress faculty myself price witness sense";

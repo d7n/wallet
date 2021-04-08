@@ -1,1 +1,1 @@
-var mnemonic = "concert much public client wrist engine pretty crouch purchase plate delay much";
+var mnemonic = "unfair flat pride eyebrow priority enable cattle buyer assist scare sad front";

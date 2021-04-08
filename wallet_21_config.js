@@ -1,1 +1,1 @@
-var mnemonic = "later loan edge evil armed ostrich razor expose valley trade true suspect";
+var mnemonic = "empower kingdom carbon napkin perfect brisk flight sudden slim evil ancient flight";

@@ -1,1 +1,1 @@
-var mnemonic = "various cry initial tourist zebra solve detect immense prosper educate clarify enemy";
+var mnemonic = "notice hold shed monster science can glass path zebra board lawsuit nice";

@@ -1,1 +1,1 @@
-var mnemonic = "stick island repeat book mind carpet adult metal ordinary bachelor rally bid";
+var mnemonic = "speed multiply notable join tonight fortune road alpha embody wash pistol protect";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap bunker february fee left certain glad peanut theory just menu orbit";
+var mnemonic = "project message december company blood absurd dolphin shoe dad option ribbon vendor";

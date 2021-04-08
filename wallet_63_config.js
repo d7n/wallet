@@ -1,1 +1,1 @@
-var mnemonic = "mass end armed coin myself symbol million candy drastic mind clap faint";
+var mnemonic = "miracle lazy pink ripple cradle pipe organ special else van series attack";

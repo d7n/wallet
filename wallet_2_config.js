@@ -1,1 +1,1 @@
-var mnemonic = "virus start orphan promote enrich garage else street salt grit hidden mistake";
+var mnemonic = "trust across chronic edit young kick wealth stay young friend trophy solar";

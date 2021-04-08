@@ -1,1 +1,1 @@
-var mnemonic = "tower creek pyramid fitness rule race enlist anger embrace west pill token";
+var mnemonic = "month mansion wall whisper march size reopen lottery web second icon never";

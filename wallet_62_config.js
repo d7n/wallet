@@ -1,1 +1,1 @@
-var mnemonic = "sibling upper honey enrich snack comfort marble agent good combine consider ride";
+var mnemonic = "junior place crazy piano decrease version border oblige bacon cradle bench try";

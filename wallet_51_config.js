@@ -1,1 +1,1 @@
-var mnemonic = "lawn comfort trap rent smile cheap side rural anger brand reunion slam";
+var mnemonic = "host repair curve runway nation plate glue move tool always mushroom want";

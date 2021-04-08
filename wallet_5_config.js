@@ -1,1 +1,1 @@
-var mnemonic = "elephant come emerge goat vivid word hip dragon donor virus glimpse awkward";
+var mnemonic = "antenna sign local patch coral industry note artwork hidden thank dad welcome";

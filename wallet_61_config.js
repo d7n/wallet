@@ -1,1 +1,1 @@
-var mnemonic = "antique explain monster help fever position fat write dog twin into surprise";
+var mnemonic = "maximum symptom thought amateur olive wet auction loud shop pet outdoor mercy";

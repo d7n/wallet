@@ -1,1 +1,1 @@
-var mnemonic = "cable hundred tomorrow wing army blouse mansion romance sign hip timber shine";
+var mnemonic = "wood render achieve amount honey addict clump badge decline pulp spider elevator";

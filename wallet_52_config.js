@@ -1,1 +1,1 @@
-var mnemonic = "shoulder sick notice early neither cram absurd actual session warrior caution attitude";
+var mnemonic = "genuine patrol between segment genuine disease wave aspect hero space jaguar hood";

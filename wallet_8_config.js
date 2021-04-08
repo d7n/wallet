@@ -1,1 +1,1 @@
-var mnemonic = "between fork truth blanket render rail shift code crater potato sudden donor";
+var mnemonic = "execute correct fish detect mad human panther sample impose hammer force photo";

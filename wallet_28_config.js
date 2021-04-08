@@ -1,1 +1,1 @@
-var mnemonic = "forget warfare final sea swap develop reunion shy amused return eager burden";
+var mnemonic = "honey novel pipe smooth horse fit bonus install wedding infant empty level";

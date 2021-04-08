@@ -1,1 +1,1 @@
-var mnemonic = "north fabric short chimney gun snap cupboard age monkey build radar friend";
+var mnemonic = "base vehicle ignore vote label combine disorder inject square scout lecture quiz";

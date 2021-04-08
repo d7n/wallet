@@ -1,1 +1,1 @@
-var mnemonic = "stereo fancy section trigger spoil tilt loop rather list clock express athlete";
+var mnemonic = "pepper market debate frame melt crumble local wide hammer spin runway dawn";

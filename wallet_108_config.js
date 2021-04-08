@@ -1,1 +1,1 @@
-var mnemonic = "identify wild vital pave speak cargo pole element oyster text replace trophy";
+var mnemonic = "this bird empower visit floor absorb wise hurt kite course lobster goat";

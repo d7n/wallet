@@ -1,1 +1,1 @@
-var mnemonic = "fluid special cash lawsuit tunnel announce stock tourist weather embody health attitude";
+var mnemonic = "fit coil file unfold must worth gift share ridge box hawk deputy";

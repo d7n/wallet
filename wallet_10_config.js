@@ -1,1 +1,1 @@
-var mnemonic = "trash ivory differ now bread rare traffic hurry similar own inside legal";
+var mnemonic = "unveil south flee pelican entire crop noble surround usual skull virtual base";

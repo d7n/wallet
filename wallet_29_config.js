@@ -1,1 +1,1 @@
-var mnemonic = "village attack quit asthma true month orient aerobic zoo combine ignore gather";
+var mnemonic = "lake cotton bone trap wedding ozone play domain syrup key avocado twist";
