@@ -1,1 +1,1 @@
-var mnemonic = "pledge ramp salt suffer charge actor genre enemy myself cupboard concert echo";
+var mnemonic = "cereal cousin retreat payment divert foot brisk evolve high sport invite interest";

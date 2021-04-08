@@ -1,1 +1,1 @@
-var mnemonic = "monitor lottery cradle cargo depth until ridge garbage force toward hedgehog visa";
+var mnemonic = "frozen caution resemble autumn radar unknown rug quantum mosquito memory spice bulb";

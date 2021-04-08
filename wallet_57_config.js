@@ -1,1 +1,1 @@
-var mnemonic = "please smile media insane robust vault resist day reflect blush auction home";
+var mnemonic = "disorder bid near salmon fine pull mass midnight fiscal trade under cheap";

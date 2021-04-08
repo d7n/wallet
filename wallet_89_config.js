@@ -1,1 +1,1 @@
-var mnemonic = "bunker energy purchase witness pill summer wire empty math deliver social cousin";
+var mnemonic = "sugar hope spare raven draft silly glimpse differ coyote grid body square";

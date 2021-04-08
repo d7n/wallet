@@ -1,1 +1,1 @@
-var mnemonic = "smooth seminar force robot pole stable prison cactus unaware admit silly magnet";
+var mnemonic = "jaguar alpha you daughter fall title cry evoke love city sheriff loop";

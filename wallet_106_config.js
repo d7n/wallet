@@ -1,1 +1,1 @@
-var mnemonic = "loud fat budget print green rely asthma join alone foster either science";
+var mnemonic = "code window board arrest company kiss social wrestle credit absurd seed rose";

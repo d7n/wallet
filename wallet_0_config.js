@@ -1,1 +1,1 @@
-var mnemonic = "remember cube ordinary coach around sign transfer humor series mercy flush gravity";
+var mnemonic = "put cargo dose tool gentle satoshi merge alien waste never chunk genius";

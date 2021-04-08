@@ -1,1 +1,1 @@
-var mnemonic = "salon connect detail please wine envelope eager maid fix shaft cat guitar";
+var mnemonic = "brand choose scale often wire lemon lion code delay still village arrange";

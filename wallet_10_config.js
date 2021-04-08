@@ -1,1 +1,1 @@
-var mnemonic = "miracle thing candy cry equal home three possible color cross chat owner";
+var mnemonic = "spot relief tower learn analyst long boil need royal dice walk kid";

@@ -1,1 +1,1 @@
-var mnemonic = "mind pride crumble parent suit barely valid execute float drum divorce reveal";
+var mnemonic = "water conduct quality donor fragile mammal often spirit ignore similar drastic soda";

@@ -1,1 +1,1 @@
-var mnemonic = "sign wine exist blanket earn deny film roast gasp truck hole buddy";
+var mnemonic = "sock wild display obtain boss box case evolve belt gauge live minor";

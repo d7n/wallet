@@ -1,1 +1,1 @@
-var mnemonic = "main round inherit tunnel swallow soul height there sleep crop child topple";
+var mnemonic = "soul loan scout danger holiday jar aerobic exclude bunker unfold tail vault";

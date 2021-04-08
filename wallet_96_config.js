@@ -1,1 +1,1 @@
-var mnemonic = "goat yellow daughter trap purpose girl olympic base bullet soap february prosper";
+var mnemonic = "act search avoid win slush around sure wrong bargain page quote still";

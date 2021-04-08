@@ -1,1 +1,1 @@
-var mnemonic = "name original rabbit brand state bracket auction van laugh stick spice ranch";
+var mnemonic = "fame dolphin material cross network crash busy lesson yellow cart real awake";

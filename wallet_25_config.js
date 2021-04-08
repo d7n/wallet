@@ -1,1 +1,1 @@
-var mnemonic = "trust alter bring film intact crack cheap card city divert all danger";
+var mnemonic = "meat alien shy twice regular taxi sell foam pride lamp tissue lunch";

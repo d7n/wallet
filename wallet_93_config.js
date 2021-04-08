@@ -1,1 +1,1 @@
-var mnemonic = "belt sense certain manage gadget knock concert palm emotion raw glance depart";
+var mnemonic = "illness tag air chuckle oppose flavor credit divide rubber glass certain foot";

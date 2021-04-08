@@ -1,1 +1,1 @@
-var mnemonic = "danger nut fancy gaze blade sponsor speed repair goose hub endorse load";
+var mnemonic = "safe address desert fatigue stable risk net forward someone fluid armor slow";

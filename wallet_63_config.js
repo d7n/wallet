@@ -1,1 +1,1 @@
-var mnemonic = "digital artist brisk express naive question all warrior capable weapon behind next";
+var mnemonic = "young neutral damp above army garment trade catch home demise album favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "van shuffle deer educate nothing wolf need badge chair magic train bicycle";
+var mnemonic = "destroy exile inherit trend frog drop first vast vote saddle paddle quick";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant quit pluck fiction weasel stool stove sad world park pizza evidence";
+var mnemonic = "limb skin actual blanket obtain shine apart tobacco seed canal wait sheriff";

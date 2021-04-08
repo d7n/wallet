@@ -1,1 +1,1 @@
-var mnemonic = "sick dutch recipe member hazard reveal oppose abuse install police punch flip";
+var mnemonic = "copper journey copy inside morning mountain popular discover swarm cry isolate slab";

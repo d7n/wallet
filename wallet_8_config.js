@@ -1,1 +1,1 @@
-var mnemonic = "stomach afford rotate much zero tuna twin marriage kind require inhale nothing";
+var mnemonic = "pilot episode gym cargo never avoid faith blanket mind best doll jaguar";

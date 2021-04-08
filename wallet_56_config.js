@@ -1,1 +1,1 @@
-var mnemonic = "document subway media aisle curve weapon unusual bus retreat walnut soda bird";
+var mnemonic = "icon journey unveil diary drive swift rate orbit crop latin guilt tag";

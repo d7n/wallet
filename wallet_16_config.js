@@ -1,1 +1,1 @@
-var mnemonic = "account habit mention park juice quit skull drift found throw foot endorse";
+var mnemonic = "trial zoo license sort piano slight sea hero someone lumber replace flip";

@@ -1,1 +1,1 @@
-var mnemonic = "trick verb skin awkward sun catch cheese cause abandon hen cage trend";
+var mnemonic = "cat power reject unknown tobacco shoe hazard dad eyebrow olive negative figure";

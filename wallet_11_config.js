@@ -1,1 +1,1 @@
-var mnemonic = "balance expand decorate nation stool much heavy lake cradle young current present";
+var mnemonic = "idea open host glare leg scrub ginger tone barely magic scout effort";

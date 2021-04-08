@@ -1,1 +1,1 @@
-var mnemonic = "blame educate spin nephew job book text evolve wheat love insect chapter";
+var mnemonic = "occur nephew ski quote half screen defy ecology silver kit yellow cancel";

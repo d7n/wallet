@@ -1,1 +1,1 @@
-var mnemonic = "symptom oval proud cycle warrior bid system wool radio pilot anxiety school";
+var mnemonic = "believe universe minute basic clump general valve rug gossip belt lock live";

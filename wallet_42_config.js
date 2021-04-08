@@ -1,1 +1,1 @@
-var mnemonic = "leave uniform lunar sister popular still submit bullet east sorry wonder video";
+var mnemonic = "upset faint soup enemy impose inspire bike health kitchen differ matter erosion";

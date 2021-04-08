@@ -1,1 +1,1 @@
-var mnemonic = "clerk angle travel doctor vast viable ocean there lunar begin diary wool";
+var mnemonic = "repair win rebuild hill blast question ramp similar witness dial rebel chef";

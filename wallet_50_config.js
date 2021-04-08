@@ -1,1 +1,1 @@
-var mnemonic = "glow curve attend easy oppose play risk prosper flat attract kick camp";
+var mnemonic = "loop wave twist rival spoon youth brick combine best rebuild focus disagree";

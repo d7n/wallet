@@ -1,1 +1,1 @@
-var mnemonic = "firm mean because captain crouch tennis hawk table man brush badge better";
+var mnemonic = "matter ankle number begin solid into topple code place bunker square bitter";

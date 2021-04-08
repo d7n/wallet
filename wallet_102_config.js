@@ -1,1 +1,1 @@
-var mnemonic = "energy valid artefact receive trim town note try pluck old identify theory";
+var mnemonic = "face school fall visa notice team puppy party wonder alley eagle century";

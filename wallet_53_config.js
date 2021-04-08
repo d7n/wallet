@@ -1,1 +1,1 @@
-var mnemonic = "any ring coin install disease exit tomato hello test sense stand sweet";
+var mnemonic = "mobile whip water piece play fossil embark just approve try coyote toast";

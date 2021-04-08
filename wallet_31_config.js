@@ -1,1 +1,1 @@
-var mnemonic = "margin gap economy play hard assume huge swap wife chimney brush bullet";
+var mnemonic = "fragile mutual under ahead secret shell humor athlete session valve ecology flavor";

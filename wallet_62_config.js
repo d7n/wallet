@@ -1,1 +1,1 @@
-var mnemonic = "quarter math maid damp unknown sun journey absent pelican way disease load";
+var mnemonic = "trigger female exclude carry pistol race hundred tuna furnace parade spread eagle";

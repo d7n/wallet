@@ -1,1 +1,1 @@
-var mnemonic = "clump disorder pulse pulp magnet manage catch tuition sponsor crouch fragile boring";
+var mnemonic = "degree winner chuckle enforce laugh struggle jealous motion defy modify tube near";

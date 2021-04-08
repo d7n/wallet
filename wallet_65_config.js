@@ -1,1 +1,1 @@
-var mnemonic = "unfold scatter floor ship balance evolve say ladder rack stone rich van";
+var mnemonic = "electric powder reopen present embark provide seek alcohol brown crumble august used";

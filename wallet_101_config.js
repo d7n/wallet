@@ -1,1 +1,1 @@
-var mnemonic = "plunge nice lounge logic pet recycle pond bleak crime bonus emerge frost";
+var mnemonic = "culture reform shoot cruel edge plate staff mention cricket cereal prosper scan";

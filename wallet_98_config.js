@@ -1,1 +1,1 @@
-var mnemonic = "misery case swim square believe exhibit oppose frost doll genius fatigue month";
+var mnemonic = "scissors print okay giraffe wisdom similar spirit toward report vague oval various";

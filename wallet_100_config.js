@@ -1,1 +1,1 @@
-var mnemonic = "test behave moment address vacant candy amateur pilot earth board tape onion";
+var mnemonic = "bitter piece other order output ball fiber random car palace bullet burger";

@@ -1,1 +1,1 @@
-var mnemonic = "tower flight multiply sad castle swing vast smooth orchard rack what brass";
+var mnemonic = "settle vast dream test donkey carry enemy sphere room tribe busy usual";

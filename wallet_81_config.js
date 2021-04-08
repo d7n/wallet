@@ -1,1 +1,1 @@
-var mnemonic = "angle symptom vessel truck cabbage matrix used agree flash domain lucky helmet";
+var mnemonic = "upon gold truly diagram focus helmet tilt tray aware aspect pill behind";

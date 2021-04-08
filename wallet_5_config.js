@@ -1,1 +1,1 @@
-var mnemonic = "loyal artist final feature frozen flavor eager donate across comfort strategy female";
+var mnemonic = "dirt inject repeat unaware festival repeat bind shadow glove prosper they bachelor";

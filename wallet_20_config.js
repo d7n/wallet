@@ -1,1 +1,1 @@
-var mnemonic = "sort curious claw birth kind more chest enlist clog piano slight review";
+var mnemonic = "sight innocent derive danger expire viable soap announce crowd shine daring execute";

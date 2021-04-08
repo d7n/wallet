@@ -1,1 +1,1 @@
-var mnemonic = "equal share nothing cash depth calm leopard brother tumble entire pyramid frog";
+var mnemonic = "seminar shallow viable under tuition impact churn village obey offer possible barrel";

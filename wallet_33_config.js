@@ -1,1 +1,1 @@
-var mnemonic = "turtle section garment toilet gun keen eight because merry equip remove need";
+var mnemonic = "galaxy material style glide pond install trumpet lamp wheat hire crunch hard";

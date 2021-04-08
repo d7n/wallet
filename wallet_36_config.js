@@ -1,1 +1,1 @@
-var mnemonic = "bright whisper tongue sauce mind focus burger stereo firm quick grab muscle";
+var mnemonic = "valley endorse sand load follow simple credit assault describe odor arrow educate";

@@ -1,1 +1,1 @@
-var mnemonic = "brass under inside hen movie wild balcony sun order actor enroll lab";
+var mnemonic = "canvas drive range radar theme slogan sister cause almost nature digital round";

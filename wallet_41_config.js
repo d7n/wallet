@@ -1,1 +1,1 @@
-var mnemonic = "clinic tired credit pulp stock track host sea cycle torch recycle twist";
+var mnemonic = "cluster velvet crash gown crumble napkin area bright faculty tone pigeon slice";

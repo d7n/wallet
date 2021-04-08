@@ -1,1 +1,1 @@
-var mnemonic = "attend keep valve olive upper peanut valid today crater beach skin despair";
+var mnemonic = "knock relief budget alert shove airport best duck barrel diagram choice present";

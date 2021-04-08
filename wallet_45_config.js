@@ -1,1 +1,1 @@
-var mnemonic = "opera trial scout bike lonely uncover high shift soldier hunt dice mirror";
+var mnemonic = "marble innocent faint power expose expire pool olive coil piano describe valid";

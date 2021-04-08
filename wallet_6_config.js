@@ -1,1 +1,1 @@
-var mnemonic = "ask bomb quality fat taxi poet minute tenant raccoon symbol deposit dad";
+var mnemonic = "world grief prepare chest naive jaguar endorse august horse repeat mosquito bulb";

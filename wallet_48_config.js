@@ -1,1 +1,1 @@
-var mnemonic = "mule deny choice swift liberty ensure bridge trouble chat use indicate time";
+var mnemonic = "engine tell recipe sister heart share calm desert off expire wagon skirt";

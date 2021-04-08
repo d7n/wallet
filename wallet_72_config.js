@@ -1,1 +1,1 @@
-var mnemonic = "prevent emotion pudding input act quiz success pair labor moral chalk subject";
+var mnemonic = "animal utility ankle auto antenna forget spin motion boat wire fragile dinosaur";

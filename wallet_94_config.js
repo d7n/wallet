@@ -1,1 +1,1 @@
-var mnemonic = "record man barrel wealth bridge admit clock orchard humor test parrot frequent";
+var mnemonic = "success ill shine stuff auto fade stool country impose evolve spring valid";

@@ -1,1 +1,1 @@
-var mnemonic = "measure lens balance catch doctor glad talk wood monkey weasel banana quarter";
+var mnemonic = "afraid jar evoke resource alpha jealous hungry disorder mask field version sunset";

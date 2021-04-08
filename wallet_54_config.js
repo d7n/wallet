@@ -1,1 +1,1 @@
-var mnemonic = "cactus arctic surround chuckle burden flush slam hospital under vague lyrics they";
+var mnemonic = "slogan egg cook neck good drill lyrics trouble veteran company useless throw";

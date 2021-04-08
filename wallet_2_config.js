@@ -1,1 +1,1 @@
-var mnemonic = "kiss wing assault ethics fan market loyal zone provide ranch ceiling wash";
+var mnemonic = "hamster room list cross water cry attract diamond step sea twenty farm";

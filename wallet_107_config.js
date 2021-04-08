@@ -1,1 +1,1 @@
-var mnemonic = "frost observe output oval apple culture company intact guess old bounce dilemma";
+var mnemonic = "ahead diagram walk hospital juice worry shell arrest speed place culture team";

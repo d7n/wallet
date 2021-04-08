@@ -1,1 +1,1 @@
-var mnemonic = "beef wild awesome endorse blame year smooth donkey strong cross cage midnight";
+var mnemonic = "ridge clever eternal ensure about beyond onion climb burden narrow valley twist";

@@ -1,1 +1,1 @@
-var mnemonic = "assume guilt what jungle credit win fault champion hockey owner swing audit";
+var mnemonic = "title remember absorb dwarf vault grab flock ladder tribe grass rough peasant";

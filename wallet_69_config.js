@@ -1,1 +1,1 @@
-var mnemonic = "fatigue wrestle goose box tide basic figure tragic manual universe fish violin";
+var mnemonic = "middle marble tonight transfer evidence faculty box second burst forest trade blade";

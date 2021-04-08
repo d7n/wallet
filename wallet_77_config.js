@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur accident away paper lawsuit exile biology expect antique rigid mule pelican";
+var mnemonic = "project strong cave hole romance pepper before response assault pave finish grace";

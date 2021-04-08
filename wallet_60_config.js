@@ -1,1 +1,1 @@
-var mnemonic = "hollow spatial gun spoon family sun snap beach silly truth tumble goddess";
+var mnemonic = "space bachelor reason concert slush afford broken solar task stadium odor river";

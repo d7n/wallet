@@ -1,1 +1,1 @@
-var mnemonic = "river black accident category push dice crush arch state brief negative fee";
+var mnemonic = "army buzz garlic canvas make enlist insect head absurd shift mask end";

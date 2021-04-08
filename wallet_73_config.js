@@ -1,1 +1,1 @@
-var mnemonic = "beach blame gravity bird federal jelly fossil giggle become slim exchange common";
+var mnemonic = "question sibling vacuum dizzy rose hand harsh oyster evolve measure cabbage avoid";

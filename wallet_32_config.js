@@ -1,1 +1,1 @@
-var mnemonic = "crack isolate monitor cram mushroom hurt thrive slim daughter chase stairs garment";
+var mnemonic = "symptom helmet annual axis define era chunk timber ski parent able length";

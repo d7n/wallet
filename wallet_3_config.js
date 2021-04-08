@@ -1,1 +1,1 @@
-var mnemonic = "fault govern fruit caught picture anchor fringe north spin hedgehog obscure eagle";
+var mnemonic = "fit firm priority expand library suffer noise gap black empty lens rebuild";

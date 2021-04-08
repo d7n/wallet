@@ -1,1 +1,1 @@
-var mnemonic = "spend wet rookie exhibit among grape expand blame column royal comic near";
+var mnemonic = "slush tunnel resource front sure lobster rubber improve million dynamic essay burst";

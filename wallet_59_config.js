@@ -1,1 +1,1 @@
-var mnemonic = "begin distance clump doll argue wage cable boat else void broom slide";
+var mnemonic = "artefact deal use machine number laptop such basket use enter can legal";

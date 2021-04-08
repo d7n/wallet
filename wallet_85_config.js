@@ -1,1 +1,1 @@
-var mnemonic = "toy trick yard fiction angle hamster invest daring coral inflict toy rice";
+var mnemonic = "essay tell equip spice prize spice record error doll buddy meat digital";

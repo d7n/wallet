@@ -1,1 +1,1 @@
-var mnemonic = "video invest trust path cream pumpkin annual empty cement orbit crawl airport";
+var mnemonic = "essay device path naive cloud spell old cook pair solid uphold balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "million ghost diet radar diesel cable school blood client message whip fragile";
+var mnemonic = "open wall goddess ticket mango method source pig example faculty zone pride";

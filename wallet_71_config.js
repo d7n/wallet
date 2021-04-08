@@ -1,1 +1,1 @@
-var mnemonic = "fringe can source fish leg middle total open swim million inch doctor";
+var mnemonic = "matter neutral type hungry pudding glove cash holiday smile hint time guilt";

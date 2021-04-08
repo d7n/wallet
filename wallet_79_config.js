@@ -1,1 +1,1 @@
-var mnemonic = "net tackle junior rigid grunt truly jeans blade sausage receive wish physical";
+var mnemonic = "best catalog seat drill melody slim island gallery rhythm opera furnace wheel";

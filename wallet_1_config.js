@@ -1,1 +1,1 @@
-var mnemonic = "gown arrow original random decrease cost civil inner wrestle immense chuckle coral";
+var mnemonic = "river ranch void chair useful harvest dismiss pass rubber taxi hat pill";

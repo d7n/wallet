@@ -1,1 +1,1 @@
-var mnemonic = "artefact flip divorce end follow camp knee miss fly zoo miss swarm";
+var mnemonic = "switch casual animal august flame view enable rib fluid control current zero";

@@ -1,1 +1,1 @@
-var mnemonic = "fever catch item floor disease report wood lecture truth spike broom foil";
+var mnemonic = "trash fold exile release cable wrist provide weather install velvet material thumb";

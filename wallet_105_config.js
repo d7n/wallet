@@ -1,1 +1,1 @@
-var mnemonic = "curtain giant minute person uncle thought silent public little report palace tower";
+var mnemonic = "sorry tuition shove raven risk scissors uphold then hire jewel patch rebel";

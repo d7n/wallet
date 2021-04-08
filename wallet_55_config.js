@@ -1,1 +1,1 @@
-var mnemonic = "asthma civil wide giggle job segment arm island harbor worry coin surprise";
+var mnemonic = "lake gallery column sample degree hold canvas barely patch custom wreck end";

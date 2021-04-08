@@ -1,1 +1,1 @@
-var mnemonic = "bunker tape intact pluck female brisk share outdoor teach eager trap wet";
+var mnemonic = "garage allow dry obtain crop winner soldier space salad glory sign relax";

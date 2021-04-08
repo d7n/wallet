@@ -1,1 +1,1 @@
-var mnemonic = "scheme click medal stock license crater various paddle exchange boring ten blood";
+var mnemonic = "wool borrow delay pink off bicycle recipe dirt deliver survey mystery raven";

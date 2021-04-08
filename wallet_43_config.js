@@ -1,1 +1,1 @@
-var mnemonic = "sound deliver scatter sun magic pretty brisk sport buyer pen afraid sort";
+var mnemonic = "weather bachelor arrest degree attack glory one element memory ceiling degree cradle";

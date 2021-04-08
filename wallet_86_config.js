@@ -1,1 +1,1 @@
-var mnemonic = "mom amazing safe cousin long maximum aunt address weather crew unveil vanish";
+var mnemonic = "coral steak device guard double erupt end scene mind lab amused response";
