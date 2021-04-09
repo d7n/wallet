@@ -1,1 +1,1 @@
-var mnemonic = "night elephant index deer nice never brother enrich credit shift scrap century";
+var mnemonic = "bid smile comfort toddler ethics address spy spray destroy turkey victory prefer";

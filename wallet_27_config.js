@@ -1,1 +1,1 @@
-var mnemonic = "fruit spider country regret rate chunk hope month jump suspect submit fresh";
+var mnemonic = "baby spot hurdle umbrella foil merit away topple exit taxi parade blouse";

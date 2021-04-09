@@ -1,1 +1,1 @@
-var mnemonic = "monster cost absent employ depart dice crouch exit amazing together same smart";
+var mnemonic = "excess share grid furnace program dismiss grow manage hub sail laptop baby";

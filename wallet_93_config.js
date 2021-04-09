@@ -1,1 +1,1 @@
-var mnemonic = "gap waste radar property provide galaxy old lift flag antenna shallow fringe";
+var mnemonic = "bone erupt lava snake caution salad public antique lunar team cloth bring";

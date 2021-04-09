@@ -1,1 +1,1 @@
-var mnemonic = "camera vibrant basket van fortune satisfy pole can hotel group unit build";
+var mnemonic = "armor debate little blush remain elbow cost phone erosion segment noise kitten";

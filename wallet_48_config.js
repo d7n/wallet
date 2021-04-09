@@ -1,1 +1,1 @@
-var mnemonic = "hour other toddler cliff lady couple barely alone know load local output";
+var mnemonic = "response scrub nuclear maple coffee saddle warm crash road gesture climb damp";

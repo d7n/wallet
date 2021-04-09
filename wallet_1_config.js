@@ -1,1 +1,1 @@
-var mnemonic = "leave toss train dumb unfair cluster version town worry horn submit also";
+var mnemonic = "casino squeeze book bus quantum inquiry soap nice visual north wage polar";

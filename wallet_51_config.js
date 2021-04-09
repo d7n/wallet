@@ -1,1 +1,1 @@
-var mnemonic = "organ expand render oval license school unaware shine orient token guard arrow";
+var mnemonic = "slim season modify pool online unknown cherry vehicle such often actual know";

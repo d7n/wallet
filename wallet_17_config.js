@@ -1,1 +1,1 @@
-var mnemonic = "october purpose tower surround front holiday add unlock dinner increase humble poem";
+var mnemonic = "wool print liar odor common smooth pig blame input drop bacon parade";

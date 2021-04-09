@@ -1,1 +1,1 @@
-var mnemonic = "oyster ginger deer gravity celery carpet music pulse copy outside eyebrow exit";
+var mnemonic = "security drive heart own glory nuclear deer industry blue farm helmet quantum";

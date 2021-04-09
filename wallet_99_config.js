@@ -1,1 +1,1 @@
-var mnemonic = "weapon tube cherry solid spare venue rough scout exhaust city among grain";
+var mnemonic = "festival end struggle proof expect fly knife travel shaft sauce assault rubber";

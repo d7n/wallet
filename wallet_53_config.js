@@ -1,1 +1,1 @@
-var mnemonic = "inform ranch again remain crawl parrot guess usual affair empower move truck";
+var mnemonic = "love badge view economy mix family water aunt jealous element prize repeat";

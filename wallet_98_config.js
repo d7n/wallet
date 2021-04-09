@@ -1,1 +1,1 @@
-var mnemonic = "note pulp across season mutual candy cat payment tonight enlist tool stumble";
+var mnemonic = "pact hamster require siege olive miss flock window know eye provide trust";

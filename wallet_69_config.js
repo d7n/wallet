@@ -1,1 +1,1 @@
-var mnemonic = "drip media spot wine guitar cart awkward uncle scale note shoot radio";
+var mnemonic = "smooth state double flush olympic hat lock trash bronze across find where";

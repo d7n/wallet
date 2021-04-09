@@ -1,1 +1,1 @@
-var mnemonic = "wait silly credit luxury clump cricket surprise mushroom bulb innocent easily unfair";
+var mnemonic = "ocean limb crystal example year cradle joke clay warm situate receive arrive";

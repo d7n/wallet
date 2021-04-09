@@ -1,1 +1,1 @@
-var mnemonic = "someone six crucial student require curtain hurt cat grant spy patrol auto";
+var mnemonic = "switch home sniff danger age yellow imitate service clever just large expect";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger upgrade chronic talk leg diesel offer carpet lizard worth echo wine";
+var mnemonic = "wife lucky rookie choose cute oven column tackle sand polar hover mind";

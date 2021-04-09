@@ -1,1 +1,1 @@
-var mnemonic = "sample public puppy bleak kit avocado rapid agree able club call make";
+var mnemonic = "wash slender shuffle leader beach pair oven minor open melt shoulder invite";

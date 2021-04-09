@@ -1,1 +1,1 @@
-var mnemonic = "grape album oxygen canvas ivory twin rare enact either sell reform erupt";
+var mnemonic = "liquid table ship father degree dad rally destroy cotton vessel soccer whip";

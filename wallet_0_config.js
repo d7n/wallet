@@ -1,1 +1,1 @@
-var mnemonic = "avoid hungry weather swear inner second potato habit click rival risk ordinary";
+var mnemonic = "pulse dose awesome clinic want pole asthma depth sustain major tone canoe";

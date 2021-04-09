@@ -1,1 +1,1 @@
-var mnemonic = "blue october tribe banana already hawk guess pluck travel innocent pistol arrow";
+var mnemonic = "right enforce power chicken lecture model sustain rely parent discover pilot enemy";

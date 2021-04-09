@@ -1,1 +1,1 @@
-var mnemonic = "grow skin hard between fatal lab diesel awake luggage digital boat peace";
+var mnemonic = "night myself trigger waste female rate surge cigar until gap clever quantum";

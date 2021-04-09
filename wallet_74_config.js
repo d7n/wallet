@@ -1,1 +1,1 @@
-var mnemonic = "inside lawsuit kid say nerve alley auto junk celery volcano chair calm";
+var mnemonic = "fury mother harvest bike inform unique beyond say window explain panda marriage";

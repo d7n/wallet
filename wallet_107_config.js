@@ -1,1 +1,1 @@
-var mnemonic = "hockey blade crew weather media include lake pool genius quote jump rhythm";
+var mnemonic = "hour way employ board rotate assault annual sure imitate effort size walnut";

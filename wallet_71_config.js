@@ -1,1 +1,1 @@
-var mnemonic = "type demand clarify poem chronic battle result garden rally slow deposit coin";
+var mnemonic = "flock false fiber leopard alarm relief bonus tooth clarify code garbage magic";

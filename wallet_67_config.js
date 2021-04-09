@@ -1,1 +1,1 @@
-var mnemonic = "best tent board walk apology ceiling comic biology fiction document slot dinner";
+var mnemonic = "shallow yellow top agent position member indoor team water squirrel proud fiction";

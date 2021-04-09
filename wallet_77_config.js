@@ -1,1 +1,1 @@
-var mnemonic = "burger expire grass solar heavy keen gift fun auction also abuse uncle";
+var mnemonic = "deer rib cage satoshi night slim people topple enter decorate sample dwarf";

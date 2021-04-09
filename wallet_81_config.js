@@ -1,1 +1,1 @@
-var mnemonic = "churn stumble unaware endorse into fame actor film earn retire ill neglect";
+var mnemonic = "scheme another nothing salmon february trap innocent copper alone stay tide pelican";

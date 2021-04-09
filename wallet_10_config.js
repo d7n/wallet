@@ -1,1 +1,1 @@
-var mnemonic = "canyon raise scene gather settle suit fatal example funny twin scheme topple";
+var mnemonic = "spoon task off rally hammer seat year badge return ketchup hard gadget";

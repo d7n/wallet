@@ -1,1 +1,1 @@
-var mnemonic = "leisure pattern mask attack motion brain club write swift fly member column";
+var mnemonic = "snack vault trouble build alone glow grocery inhale step secret ahead proof";

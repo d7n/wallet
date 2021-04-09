@@ -1,1 +1,1 @@
-var mnemonic = "truth garlic drama girl napkin piano inch town chunk reduce disorder avoid";
+var mnemonic = "typical rigid spread sand scan right soon oven measure olympic beauty odor";

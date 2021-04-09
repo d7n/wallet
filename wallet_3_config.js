@@ -1,1 +1,1 @@
-var mnemonic = "little carpet spray sleep proud amateur height use mixed proud pair repair";
+var mnemonic = "roof around canvas liar undo quiz segment again orchard youth feel word";

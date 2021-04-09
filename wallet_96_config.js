@@ -1,1 +1,1 @@
-var mnemonic = "matter journey better nature amateur income room random valve vapor hammer horror";
+var mnemonic = "garlic razor gaze wagon embody coast blood arena stamp away mass fit";

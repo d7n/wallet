@@ -1,1 +1,1 @@
-var mnemonic = "float remove garlic very faith junk bitter infant glance arctic clinic blast";
+var mnemonic = "bubble october teach shiver arm boost head border knock field deliver unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "priority hero voice battle diamond shock wash lizard fever patch burst science";
+var mnemonic = "smile space spin cat weapon dizzy volume vocal spray better gloom save";

@@ -1,1 +1,1 @@
-var mnemonic = "curious holiday spoon coin usual flame drum umbrella wedding mistake filter anxiety";
+var mnemonic = "dose wife neglect once rookie pony stable million soul horror upgrade crash";

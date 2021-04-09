@@ -1,1 +1,1 @@
-var mnemonic = "heart embark fame unit arena soft indicate ensure pet buyer file weather";
+var mnemonic = "media worry victory pigeon material planet exhaust decrease eternal hub final sponsor";

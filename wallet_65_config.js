@@ -1,1 +1,1 @@
-var mnemonic = "scatter cool volcano viable sniff inner into hazard bounce scatter pave hint";
+var mnemonic = "gospel only frog obvious divorce banana trigger guilt write notable mad enforce";

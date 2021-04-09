@@ -1,1 +1,1 @@
-var mnemonic = "crime erosion swim baby choose biology wrestle swim feel crisp midnight injury";
+var mnemonic = "festival hobby fortune animal solve final naive agree grid uniform panic jump";

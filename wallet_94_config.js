@@ -1,1 +1,1 @@
-var mnemonic = "final pelican odor estate attitude thought father foam recall bachelor room cheap";
+var mnemonic = "giant spike marriage witness panic spin unhappy flame immense because siren awake";

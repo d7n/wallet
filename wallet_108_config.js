@@ -1,1 +1,1 @@
-var mnemonic = "mansion duck medal fly tissue balance poem roast boy hybrid damage mimic";
+var mnemonic = "love guilt boy lamp cluster friend day tube sentence drop middle fuel";

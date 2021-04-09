@@ -1,1 +1,1 @@
-var mnemonic = "equip town pencil tiger bomb wear bundle reunion quick practice symptom guess";
+var mnemonic = "window rose faith grunt excess during grief rib boy agent divert boost";

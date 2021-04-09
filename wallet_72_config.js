@@ -1,1 +1,1 @@
-var mnemonic = "infant trash glue echo arrive scissors defense erase sword prosper crack public";
+var mnemonic = "recycle regret truly struggle shadow twice owner digital kid just program pepper";

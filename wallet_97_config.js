@@ -1,1 +1,1 @@
-var mnemonic = "zero raw hurry carry toast shuffle flame genius cycle that air original";
+var mnemonic = "blind diagram time protect erosion property midnight carbon ahead shock wheat once";

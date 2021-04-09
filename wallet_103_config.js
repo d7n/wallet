@@ -1,1 +1,1 @@
-var mnemonic = "alter ten festival quarter view tool noodle fragile hawk suspect poverty route";
+var mnemonic = "rescue bind will success rug cupboard canvas decorate creek must betray ivory";

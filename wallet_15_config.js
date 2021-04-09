@@ -1,1 +1,1 @@
-var mnemonic = "finger stage weird hen stomach aim core leave copy fancy sentence zone";
+var mnemonic = "stove cat curious loop high wise gadget absurd include student demand impose";

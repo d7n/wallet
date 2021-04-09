@@ -1,1 +1,1 @@
-var mnemonic = "hawk six ketchup anxiety immune oyster pool mail theme recall forum cat";
+var mnemonic = "royal chuckle diamond useless salmon keen chronic choice enter naive cube joke";

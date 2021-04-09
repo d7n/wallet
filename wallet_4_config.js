@@ -1,1 +1,1 @@
-var mnemonic = "ship scout exercise manual main unaware robot gap cricket pepper bullet learn";
+var mnemonic = "argue mobile silk right pelican rug situate index link answer company annual";

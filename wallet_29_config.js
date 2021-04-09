@@ -1,1 +1,1 @@
-var mnemonic = "crew blade uniform crunch become grid auction satisfy move fault cart road";
+var mnemonic = "hurt alter double elegant now diet surface guard space water borrow seek";

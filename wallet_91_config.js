@@ -1,1 +1,1 @@
-var mnemonic = "cry pet ten whip plate symptom expect have glare staff slight beach";
+var mnemonic = "dress exit manual shaft erode during window bacon track lamp nation proud";

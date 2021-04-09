@@ -1,1 +1,1 @@
-var mnemonic = "snap clip embrace rotate vintage clutch between obscure month emerge thunder slice";
+var mnemonic = "fold conduct edit forum bar pear laptop robust mercy napkin story cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "flight ensure indoor blur merry loyal false next walk bronze news salmon";
+var mnemonic = "tackle still rely umbrella become rescue captain dentist cost chunk chest diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "grit people stay witness cruise busy ostrich evil promote material lazy pool";
+var mnemonic = "spend axis monitor fetch review huge fuel upon embark light critic refuse";

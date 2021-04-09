@@ -1,1 +1,1 @@
-var mnemonic = "infant empty palm manage glare merge basket mixed valley buffalo seek lemon";
+var mnemonic = "wink glass sound act arrange income empty viable mixed dog total charge";

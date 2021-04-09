@@ -1,1 +1,1 @@
-var mnemonic = "basic wisdom armed know bar wing angry upon crazy burden false robust";
+var mnemonic = "million amateur arrange wine hello cruel razor dignity floor bid ignore wedding";

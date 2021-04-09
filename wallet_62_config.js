@@ -1,1 +1,1 @@
-var mnemonic = "kitten view control path certain pet cliff random eager element galaxy year";
+var mnemonic = "artwork news shell doctor wedding hold narrow broccoli winner limit depth east";

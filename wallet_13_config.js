@@ -1,1 +1,1 @@
-var mnemonic = "old physical pumpkin great evolve any wash boat upon lemon leopard correct";
+var mnemonic = "maximum neutral surround sheriff asthma actress ritual grocery real bid next razor";

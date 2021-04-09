@@ -1,1 +1,1 @@
-var mnemonic = "test tiger quality spend describe film oil thank saddle parade nuclear huge";
+var mnemonic = "drama require strike coin drill lake deposit okay fog fish sign park";

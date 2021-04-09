@@ -1,1 +1,1 @@
-var mnemonic = "lab alone include vivid afraid boat primary ability action benefit energy clown";
+var mnemonic = "dial action cheese mountain start reason harbor negative oxygen furnace box april";

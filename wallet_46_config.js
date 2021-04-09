@@ -1,1 +1,1 @@
-var mnemonic = "spread glance sadness half inmate insane combine horse rose visit nasty narrow";
+var mnemonic = "asthma run test chicken render analyst hobby country join fashion funny bring";

@@ -1,1 +1,1 @@
-var mnemonic = "curve axis donkey shrug ankle argue town ring finger estate bubble mirror";
+var mnemonic = "cost main inmate tip venture belt plunge will brief poverty peasant now";

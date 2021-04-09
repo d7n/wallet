@@ -1,1 +1,1 @@
-var mnemonic = "road spend little walk cook cover click paddle wise build oven throw";
+var mnemonic = "donkey ancient file shine ask spike whale private demand blur chronic fury";

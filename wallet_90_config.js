@@ -1,1 +1,1 @@
-var mnemonic = "matter where crime plastic artwork glide boil angle canoe purse funny negative";
+var mnemonic = "submit base slim notice engage smoke autumn soap original source away tilt";

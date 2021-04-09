@@ -1,1 +1,1 @@
-var mnemonic = "seven they crazy captain record grab fall warfare universe shove zoo polar";
+var mnemonic = "select awake make twin purity involve rookie private label boy turn gossip";

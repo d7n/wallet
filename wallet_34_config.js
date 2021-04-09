@@ -1,1 +1,1 @@
-var mnemonic = "ticket burst busy diesel hedgehog suggest mutual neither dismiss grain shell inside";
+var mnemonic = "resist tennis kidney process rice make book boy waste helmet autumn tennis";

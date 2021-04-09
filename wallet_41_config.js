@@ -1,1 +1,1 @@
-var mnemonic = "dust athlete climb orient shed feature oppose damp trap bone stool call";
+var mnemonic = "jar trigger announce arrive vivid crisp poem kiss surprise lion family kitchen";

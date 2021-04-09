@@ -1,1 +1,1 @@
-var mnemonic = "orchard wing tunnel page eye flee double describe lady can cigar since";
+var mnemonic = "tattoo car myself short ski siren hip wrestle sure drip inflict swamp";

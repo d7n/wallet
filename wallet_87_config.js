@@ -1,1 +1,1 @@
-var mnemonic = "budget bonus balcony useless kidney you bar distance wisdom ahead stone salt";
+var mnemonic = "mechanic invest item fold kitten level jar hungry three despair window venture";

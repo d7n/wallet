@@ -1,1 +1,1 @@
-var mnemonic = "wrong tongue jealous blood depart ceiling physical excuse vocal milk love label";
+var mnemonic = "farm mail error outdoor sunny endorse oval strategy supreme surprise spider all";

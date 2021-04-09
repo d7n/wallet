@@ -1,1 +1,1 @@
-var mnemonic = "judge truth elite segment vessel pilot cross control work inquiry federal business";
+var mnemonic = "false doll stamp image lunar cheap urge loop jazz crawl aspect mother";

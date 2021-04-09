@@ -1,1 +1,1 @@
-var mnemonic = "usage kit kitchen multiply piece neither fringe educate frame trophy domain piece";
+var mnemonic = "correct tunnel orchard width laptop bird aspect beach bachelor club pilot way";

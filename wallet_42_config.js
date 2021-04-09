@@ -1,1 +1,1 @@
-var mnemonic = "shrimp van equal echo fox endorse settle gown decrease mention subway crop";
+var mnemonic = "recycle trim beyond pig toss milk club mixture upset finish quantum wisdom";

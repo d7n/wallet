@@ -1,1 +1,1 @@
-var mnemonic = "copper safe obey violin either priority forest simple wisdom ignore knee fitness";
+var mnemonic = "mobile spell hub scheme crowd logic near grain swamp heart scout ghost";

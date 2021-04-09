@@ -1,1 +1,1 @@
-var mnemonic = "divert spider tourist immune foster sweet feature lunch slow asset keep cigar";
+var mnemonic = "slight imitate include flag glance tuition twin abuse rose inquiry mystery bread";

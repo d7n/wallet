@@ -1,1 +1,1 @@
-var mnemonic = "result twist cheese estate glue credit brother shed coral slide wish balcony";
+var mnemonic = "input bubble hold fresh provide surround kingdom remain discover length hurdle clean";

@@ -1,1 +1,1 @@
-var mnemonic = "network wall cool dentist candy distance ranch thought clog pony fly reunion";
+var mnemonic = "behave human sound appear age educate bubble holiday hat yellow thank someone";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain scheme kingdom print taste plate rug hard lemon notable cash rate";
+var mnemonic = "misery chuckle pride edge pig orbit clown trial cart asset shrimp foot";

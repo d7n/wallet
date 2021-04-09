@@ -1,1 +1,1 @@
-var mnemonic = "link right sleep loan exclude bicycle sleep odor faith cry uniform degree";
+var mnemonic = "right mountain similar liberty chase tuition quarter ranch refuse double budget plate";

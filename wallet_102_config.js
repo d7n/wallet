@@ -1,1 +1,1 @@
-var mnemonic = "write moral sea join surge evolve target vintage quiz laugh image weird";
+var mnemonic = "fitness old prefer cliff planet isolate innocent possible arrange squirrel laugh doctor";

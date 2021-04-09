@@ -1,1 +1,1 @@
-var mnemonic = "humor calm hero eight liar profit lecture trim grain sorry hero suffer";
+var mnemonic = "soup nest tomorrow recall surprise enroll sleep game maximum rent drama ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "credit ghost swing essay ability bounce mistake reflect wheel benefit segment obscure";
+var mnemonic = "urge vacuum cactus bicycle wonder juice left blouse toward floor pull coin";

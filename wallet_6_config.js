@@ -1,1 +1,1 @@
-var mnemonic = "gallery outdoor finger account host knock whisper best victory because pond fog";
+var mnemonic = "mask twist orchard portion siren across state satoshi ball ice diet notable";

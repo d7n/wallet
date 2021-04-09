@@ -1,1 +1,1 @@
-var mnemonic = "list draft notice enhance enforce scene unfair ketchup run portion picture claim";
+var mnemonic = "awful beef phone return reform day fog oak salon idea dolphin copy";

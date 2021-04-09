@@ -1,1 +1,1 @@
-var mnemonic = "slot tackle year sphere gallery broom youth segment soup mind episode note";
+var mnemonic = "camera visual maple lamp reason bid leaf dose double visit pass strong";

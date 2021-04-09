@@ -1,1 +1,1 @@
-var mnemonic = "tuition dash divide mixed better silver cement purchase convince path flower trim";
+var mnemonic = "dumb cloth rigid sketch neck soft inner harvest picnic mammal shield bid";

@@ -1,1 +1,1 @@
-var mnemonic = "clock service unaware shadow vendor today bullet pair shoe phrase cliff sick";
+var mnemonic = "priority found analyst tornado bargain gesture subway move turkey own soft coast";

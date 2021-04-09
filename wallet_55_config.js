@@ -1,1 +1,1 @@
-var mnemonic = "bullet improve candy drift owner west humble invest pole talent sister wolf";
+var mnemonic = "arrest menu utility leopard culture vicious puppy senior rigid day duck human";
