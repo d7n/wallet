@@ -1,1 +1,1 @@
-var mnemonic = "kid cause danger glimpse sun indicate various water thrive diet parrot brave";
+var mnemonic = "doctor also away close light festival armor pupil help muffin burst indoor";

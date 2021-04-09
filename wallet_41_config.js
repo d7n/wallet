@@ -1,1 +1,1 @@
-var mnemonic = "quality begin pride broom power rural waste neglect duck gun allow alley";
+var mnemonic = "spot muscle name eagle donkey spider lyrics basic jewel assault one prize";

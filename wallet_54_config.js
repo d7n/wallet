@@ -1,1 +1,1 @@
-var mnemonic = "call icon seminar athlete twenty useful market beauty attack rough harbor length";
+var mnemonic = "bus race thank road chuckle knife spatial crawl jaguar pet raven number";

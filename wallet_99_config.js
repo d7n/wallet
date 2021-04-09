@@ -1,1 +1,1 @@
-var mnemonic = "donor spray runway say crawl same dish warm ladder scene measure robot";
+var mnemonic = "rotate toddler vacant corn toilet broom lucky salmon copy book sure aerobic";

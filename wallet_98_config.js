@@ -1,1 +1,1 @@
-var mnemonic = "middle cry lamp never pelican large fiber country peasant used eye quantum";
+var mnemonic = "outdoor feed elder fantasy image sight explain hybrid ability zoo immense segment";

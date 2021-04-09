@@ -1,1 +1,1 @@
-var mnemonic = "hospital slam okay manual clarify ancient about shoulder appear hen struggle smooth";
+var mnemonic = "limit chat table nephew effort kitchen fix shed bleak tobacco aerobic resist";

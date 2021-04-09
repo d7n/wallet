@@ -1,1 +1,1 @@
-var mnemonic = "bachelor morning maximum hello once limit distance again range remove injury enact";
+var mnemonic = "doctor cube assume bridge puzzle color anchor engine increase exit prepare fossil";

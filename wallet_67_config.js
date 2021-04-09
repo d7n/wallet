@@ -1,1 +1,1 @@
-var mnemonic = "raise kid post casual ghost style script arch begin idle chair thunder";
+var mnemonic = "cruel awesome arrive rain relief raise tribe size garbage frown display whip";

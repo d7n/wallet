@@ -1,1 +1,1 @@
-var mnemonic = "grab admit walk slab around salt sleep auto weird state refuse love";
+var mnemonic = "concert advice unusual slide enough fashion exist galaxy neither drift veteran head";

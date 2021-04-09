@@ -1,1 +1,1 @@
-var mnemonic = "tackle season party rich sea until peasant apart mandate public abuse immense";
+var mnemonic = "off round cabbage check useless response replace meat dust quick escape sunny";

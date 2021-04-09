@@ -1,1 +1,1 @@
-var mnemonic = "erupt kiss unveil orient knife excess upset hurdle confirm then gaze clerk";
+var mnemonic = "then comfort oblige mixture sheriff slab gossip holiday casino reunion dream keep";

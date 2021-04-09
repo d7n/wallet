@@ -1,1 +1,1 @@
-var mnemonic = "example trial account loud wedding check off fly warfare pulse vicious private";
+var mnemonic = "arena broken creek ghost fix guitar wave tennis before blouse scrap render";

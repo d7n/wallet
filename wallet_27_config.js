@@ -1,1 +1,1 @@
-var mnemonic = "confirm brief purse shrimp cancel sense romance symbol number rely combine benefit";
+var mnemonic = "cluster odor stock ring cousin peasant aunt pave attitude snack stem love";

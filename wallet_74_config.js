@@ -1,1 +1,1 @@
-var mnemonic = "unhappy surface smoke moral lawn scare oval soon invite sail topple faint";
+var mnemonic = "return match october ten bridge keen ivory bargain range network shoe helmet";

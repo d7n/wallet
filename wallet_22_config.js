@@ -1,1 +1,1 @@
-var mnemonic = "sting grow lyrics melody toss switch liquid apart muscle beauty practice torch";
+var mnemonic = "true notice coconut exercise patient slam square delay finger sleep divide decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "advance put about polar long imitate whip length artist drink worth prevent";
+var mnemonic = "item next future combine trick upper eagle artist grit dry venture wife";

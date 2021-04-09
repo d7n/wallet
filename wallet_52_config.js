@@ -1,1 +1,1 @@
-var mnemonic = "amateur other weather series they brain maximum skirt crime victory vintage phrase";
+var mnemonic = "tongue cabin deer embody choice fog ring document valid juice green beach";

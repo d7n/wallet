@@ -1,1 +1,1 @@
-var mnemonic = "minute crawl melt such same illegal kit stock acoustic step ring ice";
+var mnemonic = "honey month abstract result fossil target turn arrest enable hedgehog empower begin";

@@ -1,1 +1,1 @@
-var mnemonic = "spy awkward much beauty gas impact absorb napkin sample novel high exchange";
+var mnemonic = "kick bring lock dove dwarf cushion black wheat rescue tag also aim";

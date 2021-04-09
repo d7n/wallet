@@ -1,1 +1,1 @@
-var mnemonic = "stamp bomb table pink follow capital begin hint manage hero just stuff";
+var mnemonic = "below liar brisk umbrella total adapt purpose pioneer exit man label vacuum";

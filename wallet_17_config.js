@@ -1,1 +1,1 @@
-var mnemonic = "entry slim state intact cousin raise stage session health congress limb dawn";
+var mnemonic = "bonus village begin nation liquid fog surround nut guitar million brass soft";

@@ -1,1 +1,1 @@
-var mnemonic = "fold reason crush express coral climb problem motor accident bone forward asthma";
+var mnemonic = "outdoor envelope silk firm crucial top nest oblige trip any video crazy";

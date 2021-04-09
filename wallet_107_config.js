@@ -1,1 +1,1 @@
-var mnemonic = "initial kid volcano proof autumn useful total derive because shed embody cluster";
+var mnemonic = "base pill hint cost evidence rent capable muffin around effort hover afford";

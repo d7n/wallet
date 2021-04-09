@@ -1,1 +1,1 @@
-var mnemonic = "coast job load drive into side obvious neglect increase front scissors canal";
+var mnemonic = "control turkey produce outdoor addict access breeze surprise invest resemble base twin";

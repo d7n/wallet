@@ -1,1 +1,1 @@
-var mnemonic = "cover shaft giggle bulb town entire all vacuum vanish world join rare";
+var mnemonic = "buddy ecology until pill issue dolphin beef happy grass expire taxi letter";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder grocery focus reform cup chronic melody bunker side exile swift unlock";
+var mnemonic = "current pluck live wrong reveal chapter that special bike favorite poet hen";

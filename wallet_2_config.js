@@ -1,1 +1,1 @@
-var mnemonic = "roof blue brief clever neither jazz combine equal game borrow initial avoid";
+var mnemonic = "tiger drama tiny oppose grace popular error senior gesture lend air picture";

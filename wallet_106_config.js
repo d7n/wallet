@@ -1,1 +1,1 @@
-var mnemonic = "mixture jacket thing depart obscure unfold own kitchen mesh sadness meadow mix";
+var mnemonic = "office myself soda grape what gun say define talk fortune digital venue";

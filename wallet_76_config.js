@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit shield jealous exile network bulk wide assault day twelve dolphin hip";
+var mnemonic = "body push audit version super logic marriage oval simple guard sad install";

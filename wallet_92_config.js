@@ -1,1 +1,1 @@
-var mnemonic = "sorry rose they shiver office pelican bridge staff banner action gloom certain";
+var mnemonic = "delay prevent age lawn under build power truth later news pond leave";

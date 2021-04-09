@@ -1,1 +1,1 @@
-var mnemonic = "cake swim game federal close recipe move have nasty sad satisfy list";
+var mnemonic = "enable hybrid crunch injury sadness ribbon mosquito ivory nut pill rather camera";

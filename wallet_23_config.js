@@ -1,1 +1,1 @@
-var mnemonic = "visa usual drill staff poem peanut vote error table proof around better";
+var mnemonic = "suspect broccoli security elevator clown art biology edit pipe shock desert crucial";

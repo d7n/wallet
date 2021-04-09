@@ -1,1 +1,1 @@
-var mnemonic = "conduct blood visual setup core fluid spare normal carbon buffalo forget nose";
+var mnemonic = "top shadow chalk second produce outside lumber assist wrap slam fog carbon";

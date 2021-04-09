@@ -1,1 +1,1 @@
-var mnemonic = "excuse thrive dragon live ordinary peace edit pause maximum broken give group";
+var mnemonic = "water author parade bubble about unaware material roast purchase curve best trumpet";

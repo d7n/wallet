@@ -1,1 +1,1 @@
-var mnemonic = "pencil select valley flip payment powder harvest pride coach focus auction puzzle";
+var mnemonic = "around deputy hub hour electric mosquito soda drip notice industry sauce one";

@@ -1,1 +1,1 @@
-var mnemonic = "language indoor learn lecture uniform lens degree feed chuckle wage quantum deny";
+var mnemonic = "poem acoustic hungry safe remain roast delay panel dismiss minute render enough";

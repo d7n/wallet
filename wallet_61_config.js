@@ -1,1 +1,1 @@
-var mnemonic = "steel basket ozone veteran sister dutch task fat play retire pupil clap";
+var mnemonic = "fit purse rookie random clinic phone panic fit hungry chapter donkey month";

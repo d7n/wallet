@@ -1,1 +1,1 @@
-var mnemonic = "kiss six unfold later acoustic dilemma seat protect patient steak chat crater";
+var mnemonic = "portion frog whip siren roof toward occur dinosaur tumble dress turn cement";

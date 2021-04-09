@@ -1,1 +1,1 @@
-var mnemonic = "brush basket settle child share swamp lemon key tunnel route write brisk";
+var mnemonic = "wide bamboo couple later limb dove faculty base later endless ignore summer";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket embody swift buffalo siege problem plug crane asthma diagram left toddler";
+var mnemonic = "step core insane vintage saddle fruit near camp code loyal cook soft";

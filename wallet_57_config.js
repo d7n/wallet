@@ -1,1 +1,1 @@
-var mnemonic = "shrug view indoor month prize exercise better impact cool rough race access";
+var mnemonic = "garment entry cupboard fit chest book shrug traffic tiny ozone found emerge";

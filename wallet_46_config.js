@@ -1,1 +1,1 @@
-var mnemonic = "crowd wet topic finish since peace agree air arch decrease athlete chuckle";
+var mnemonic = "document size unable review fog bind attract notable diagram tiny amateur rent";

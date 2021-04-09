@@ -1,1 +1,1 @@
-var mnemonic = "champion autumn spend canoe miss wedding luxury brush bid possible dilemma april";
+var mnemonic = "blade entire item circle physical kid urban stamp banner license always upgrade";

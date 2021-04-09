@@ -1,1 +1,1 @@
-var mnemonic = "search simple increase limb real fitness disorder ball open hungry foam knock";
+var mnemonic = "coin phone target proud brick obscure pulse knife poverty dismiss entry citizen";

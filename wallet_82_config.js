@@ -1,1 +1,1 @@
-var mnemonic = "rate biology business excess foil critic royal bread today music stable suspect";
+var mnemonic = "first tobacco express gentle west equip lift exist scene eyebrow hurry alter";

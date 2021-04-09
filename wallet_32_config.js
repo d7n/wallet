@@ -1,1 +1,1 @@
-var mnemonic = "wire diary home glory pipe again dawn return clown peasant fence hurdle";
+var mnemonic = "action chat lawsuit camera anxiety card coil obvious main immense mask plastic";

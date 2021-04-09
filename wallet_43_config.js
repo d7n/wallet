@@ -1,1 +1,1 @@
-var mnemonic = "lens clump park cute online next only maze faculty trumpet indoor stand";
+var mnemonic = "reflect valve pattern flee fall fat satoshi square diagram model camera tell";

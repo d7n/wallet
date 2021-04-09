@@ -1,1 +1,1 @@
-var mnemonic = "april crumble tool enhance popular biology faith fire resemble swamp female wide";
+var mnemonic = "miss thumb around bunker expose enroll vacant enough trial subject despair resource";

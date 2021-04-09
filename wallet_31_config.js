@@ -1,1 +1,1 @@
-var mnemonic = "best company ghost broom void amount prefer banana ankle virtual welcome crush";
+var mnemonic = "jeans collect verify liar pepper evoke segment home twelve dial small ribbon";

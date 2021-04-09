@@ -1,1 +1,1 @@
-var mnemonic = "cradle risk firm clog space joy stove stairs employ mammal return before";
+var mnemonic = "false stove erupt stumble note quiz october matter friend glass lawsuit fault";

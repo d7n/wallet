@@ -1,1 +1,1 @@
-var mnemonic = "barrel empower viable ketchup maximum mouse tiny police fog venture another shell";
+var mnemonic = "practice vanish horse delay rail letter walk soup approve library year place";

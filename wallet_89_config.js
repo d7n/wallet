@@ -1,1 +1,1 @@
-var mnemonic = "glory this neither faint copy can clay ancient hotel face gesture relax";
+var mnemonic = "monitor pulse denial already will title sport ranch accident sock brisk borrow";

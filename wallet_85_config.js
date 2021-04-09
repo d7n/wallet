@@ -1,1 +1,1 @@
-var mnemonic = "upon story pig barrel broccoli scorpion friend know alcohol boring gallery aim";
+var mnemonic = "basic sell feature receive resemble neutral speed benefit illness master two faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "accident capital capable physical exchange leave offer hidden shock seat keep wire";
+var mnemonic = "august drama earth measure talent prepare worth bargain squirrel prevent invest limit";

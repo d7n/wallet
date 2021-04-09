@@ -1,1 +1,1 @@
-var mnemonic = "judge toy exist wool upgrade fatigue salmon praise business curve emotion cry";
+var mnemonic = "crouch upper birth agree pumpkin bitter marriage rack robot guilt crunch sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt effort stable august grass mail uncle slide immense prepare reunion pig";
+var mnemonic = "assist february lava deputy allow spread inmate holiday raw unveil anxiety liberty";

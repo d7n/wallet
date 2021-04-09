@@ -1,1 +1,1 @@
-var mnemonic = "file excess evidence pizza duck usual conduct found economy helmet oyster process";
+var mnemonic = "unknown imitate defy super auction manage wire boost athlete goat ghost spike";

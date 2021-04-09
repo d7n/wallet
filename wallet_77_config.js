@@ -1,1 +1,1 @@
-var mnemonic = "any letter cluster expect crash unfold copper wheat twin scene gun income";
+var mnemonic = "panel train idle web window invest green swim noise payment review add";

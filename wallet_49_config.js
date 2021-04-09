@@ -1,1 +1,1 @@
-var mnemonic = "arch able goat profit parent put swamp garlic object drop fence table";
+var mnemonic = "worry fortune lock fever evil vehicle when digital credit addict ball census";

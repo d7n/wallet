@@ -1,1 +1,1 @@
-var mnemonic = "federal connect mix memory neither liquid food motion banana identify strong tragic";
+var mnemonic = "peanut spoil concert attract portion snap north easy welcome skin paddle life";

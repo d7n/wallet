@@ -1,1 +1,1 @@
-var mnemonic = "crime exhaust picture winter web ribbon marble exhaust hen public horse reason";
+var mnemonic = "simple salmon extend never cram mushroom coyote file alien bleak leopard duck";

@@ -1,1 +1,1 @@
-var mnemonic = "spike spring host car toe deputy firm hand bread casino merge bulb";
+var mnemonic = "almost slender hat prevent music online collect trip labor cancel onion virus";

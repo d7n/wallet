@@ -1,1 +1,1 @@
-var mnemonic = "monster soccer exchange jazz immense acquire donor label kid symbol parent cat";
+var mnemonic = "rescue pass muffin boil enlist solar resemble hawk fantasy result shield wink";

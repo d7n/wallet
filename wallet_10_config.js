@@ -1,1 +1,1 @@
-var mnemonic = "infant round gossip sugar motion fringe soul rail direct cereal love trap";
+var mnemonic = "mechanic empower error quantum such kit park army adult top mean milk";

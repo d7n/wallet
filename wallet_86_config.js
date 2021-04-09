@@ -1,1 +1,1 @@
-var mnemonic = "final token spice consider double typical crucial cream upset result cancel hen";
+var mnemonic = "shiver nature inform wood detail problem afford bid proof fee toe end";

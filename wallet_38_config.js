@@ -1,1 +1,1 @@
-var mnemonic = "chapter inquiry renew ethics garden tornado spare huge helmet early junk polar";
+var mnemonic = "lion shaft quit borrow random wrap agent silly solve already great pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase deposit whip reflect athlete pull hundred repair jazz sheriff fluid nice";
+var mnemonic = "case economy buffalo rigid guess blossom diary sauce differ mosquito spray rain";

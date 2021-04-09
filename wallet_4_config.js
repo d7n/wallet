@@ -1,1 +1,1 @@
-var mnemonic = "smile pink lazy truly beach grape candy chunk seminar close timber stage";
+var mnemonic = "kitten runway display rent security cradle garlic one sibling giraffe armor trial";

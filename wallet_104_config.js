@@ -1,1 +1,1 @@
-var mnemonic = "odor uncle until car brick proof grace mix direct catalog trouble emotion";
+var mnemonic = "grit word blame chief display link abuse rural visual judge voyage ignore";

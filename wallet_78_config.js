@@ -1,1 +1,1 @@
-var mnemonic = "slow estate excess away rebel pride crane nasty leopard logic because flip";
+var mnemonic = "hint differ chapter language summer acid follow roast cricket claw system guess";

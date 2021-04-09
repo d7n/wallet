@@ -1,1 +1,1 @@
-var mnemonic = "pencil claw element enact debate runway spin vessel permit vibrant present bracket";
+var mnemonic = "frown then immune deposit friend blast game enroll peace target resemble connect";

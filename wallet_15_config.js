@@ -1,1 +1,1 @@
-var mnemonic = "error rough kiss despair creek install please crew gesture across dice owner";
+var mnemonic = "country tonight abandon midnight visa cave tenant blossom return inquiry just glance";

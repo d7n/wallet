@@ -1,1 +1,1 @@
-var mnemonic = "pet feature inform grass ribbon race arctic crowd toilet usage color arrow";
+var mnemonic = "large mobile panic museum slam outer palm exotic human verb lyrics victory";

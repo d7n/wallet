@@ -1,1 +1,1 @@
-var mnemonic = "elbow image latin weasel wrist razor zone pill glory symptom muffin fix";
+var mnemonic = "diamond motion flat treat champion alone unique sail leisure truth exit ten";

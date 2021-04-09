@@ -1,1 +1,1 @@
-var mnemonic = "plug public voyage flat rely skull quit warm gorilla dust century leopard";
+var mnemonic = "boil coconut attack void hamster black system federal cave borrow twist cause";

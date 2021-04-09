@@ -1,1 +1,1 @@
-var mnemonic = "reveal clever output february trigger moment dog glide feel honey install wrap";
+var mnemonic = "monitor wool tornado addict entire stick approve move adapt airport bundle high";

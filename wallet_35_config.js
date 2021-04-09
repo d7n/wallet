@@ -1,1 +1,1 @@
-var mnemonic = "wear report make cycle fever banner omit fit arctic dismiss clog cement";
+var mnemonic = "method crush nominee more cheap resist ranch annual merit together tortoise swallow";

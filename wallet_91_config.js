@@ -1,1 +1,1 @@
-var mnemonic = "market perfect innocent pudding scene equip safe alert guilt green prosper play";
+var mnemonic = "guess tired elbow make dust fit exchange flower hospital industry such cushion";

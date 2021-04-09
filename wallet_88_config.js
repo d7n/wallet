@@ -1,1 +1,1 @@
-var mnemonic = "above develop wisdom middle useful coil gold swing abstract muffin huge double";
+var mnemonic = "note tiny legend spatial have october whale keen weird act hope phrase";

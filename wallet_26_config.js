@@ -1,1 +1,1 @@
-var mnemonic = "carpet hotel photo humor stereo tackle chase attend check tag duck favorite";
+var mnemonic = "spy mass gorilla hedgehog point truly admit scrap shoot improve minimum card";

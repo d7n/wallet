@@ -1,1 +1,1 @@
-var mnemonic = "funny hire rifle salad damage cube perfect notable aerobic arena slim wing";
+var mnemonic = "where laundry verify peasant flat bounce under segment behave addict frame track";

@@ -1,1 +1,1 @@
-var mnemonic = "feed snap good similar wave twenty fame mix long element wedding distance";
+var mnemonic = "black satisfy embark pride space hire first vacant achieve gun carpet obvious";

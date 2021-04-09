@@ -1,1 +1,1 @@
-var mnemonic = "afford winner hungry hero puzzle joy boy confirm build under humble sort";
+var mnemonic = "model pepper boil again broken stereo board lawn digital glad furnace knock";

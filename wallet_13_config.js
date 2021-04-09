@@ -1,1 +1,1 @@
-var mnemonic = "blanket box eyebrow pig long eye because tent salute jelly flag top";
+var mnemonic = "kid throw pave globe penalty leisure air deposit safe behave fiction brown";

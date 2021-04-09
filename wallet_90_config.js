@@ -1,1 +1,1 @@
-var mnemonic = "promote essence extra dice banana village company reopen junk coil mountain congress";
+var mnemonic = "minimum whip remove icon phone friend basket wisdom together indicate crouch bird";

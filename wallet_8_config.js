@@ -1,1 +1,1 @@
-var mnemonic = "kite knife core bean race myth sail enforce lawn office blue teach";
+var mnemonic = "gather tonight sweet brown question raccoon plate armor again universe now pig";

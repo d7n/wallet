@@ -1,1 +1,1 @@
-var mnemonic = "educate talent rule gap knee prize brick hip search cargo link critic";
+var mnemonic = "unfair topic gap stumble height march notice solution raven tape analyst bronze";
