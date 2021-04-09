@@ -1,1 +1,1 @@
-var mnemonic = "lab comic snack cannon clutch advice science arm auction estate zoo grass";
+var mnemonic = "unit detect allow crane zone giggle early auto culture wait light conduct";

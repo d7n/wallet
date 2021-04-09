@@ -1,1 +1,1 @@
-var mnemonic = "corn hurry response siege false mesh camera creek mandate option depart venture";
+var mnemonic = "tag vocal order simple inner oil budget detect slam home accuse exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "since void jar arena journey scout neutral jewel more buzz abandon empower";
+var mnemonic = "two toward bring armor solid shell distance sad parade cloud announce hospital";

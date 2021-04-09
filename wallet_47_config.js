@@ -1,1 +1,1 @@
-var mnemonic = "wise season other canal wage hen brisk flush leader cabin swarm shell";
+var mnemonic = "spin half atom fury base cloud own sunny usage senior letter abandon";

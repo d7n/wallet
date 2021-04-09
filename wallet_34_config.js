@@ -1,1 +1,1 @@
-var mnemonic = "siren kind receive autumn maze tattoo feel calm bachelor remove faith diamond";
+var mnemonic = "subject wedding express sister suggest grass impulse text cruise harsh reduce bitter";

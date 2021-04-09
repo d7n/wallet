@@ -1,1 +1,1 @@
-var mnemonic = "screen drastic top trip price half pet gap ice flock sketch run";
+var mnemonic = "scare carpet avocado shoe distance emotion include pigeon near pony surround cactus";

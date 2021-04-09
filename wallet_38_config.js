@@ -1,1 +1,1 @@
-var mnemonic = "mango filter segment diary language start giggle hurry inherit rose craft stumble";
+var mnemonic = "abuse wage tiny helmet poem problem clutch bring social chronic arm emotion";

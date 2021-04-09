@@ -1,1 +1,1 @@
-var mnemonic = "essay gift front beach kind replace wagon firm report episode robust flip";
+var mnemonic = "menu fall melody canvas regular mass chief hamster portion ghost student mandate";

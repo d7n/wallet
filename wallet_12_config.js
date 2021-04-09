@@ -1,1 +1,1 @@
-var mnemonic = "ghost ice absurd notable now spray city priority car inquiry maze purse";
+var mnemonic = "spell cheese photo region best thought agent lumber behind satoshi obey solid";

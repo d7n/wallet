@@ -1,1 +1,1 @@
-var mnemonic = "trash burger upset trial flower toward need excess round security dizzy slush";
+var mnemonic = "hope inch select video dose north expose setup strategy inch cushion manage";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco reunion trumpet thought cause day someone fossil motor staff kangaroo carpet";
+var mnemonic = "dumb cradle render tiger outer roof grocery double bracket stamp nature frown";

@@ -1,1 +1,1 @@
-var mnemonic = "slice secret help bulk silk faculty uphold song economy spice letter bargain";
+var mnemonic = "seed margin thrive dismiss pulp slab abuse nominee oven split sea leave";

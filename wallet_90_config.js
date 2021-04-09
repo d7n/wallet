@@ -1,1 +1,1 @@
-var mnemonic = "crush abuse soup way either afraid grab immune impose tilt obey foam";
+var mnemonic = "lion pass salmon level orchard wool odor aware close loud typical civil";

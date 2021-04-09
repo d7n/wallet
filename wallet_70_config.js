@@ -1,1 +1,1 @@
-var mnemonic = "jungle drink clutch mouse flower anchor grain security power bounce regular wealth";
+var mnemonic = "mixed captain state habit night disagree essence feature gauge welcome onion resist";

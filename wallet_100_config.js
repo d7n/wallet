@@ -1,1 +1,1 @@
-var mnemonic = "gloom demand iron either pill circle circle assault indicate seek sustain poverty";
+var mnemonic = "ski asset gym benefit attract wine veteran disease nominee leg donate tomorrow";

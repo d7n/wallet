@@ -1,1 +1,1 @@
-var mnemonic = "tornado vapor gold become then produce apology usage drift jewel animal ski";
+var mnemonic = "knee cigar derive income entry ghost swing exist sun output raise champion";

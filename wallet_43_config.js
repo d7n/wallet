@@ -1,1 +1,1 @@
-var mnemonic = "fatigue situate balance vacant spare minor swamp bread message amused piece borrow";
+var mnemonic = "delay motion bomb donor friend reunion blade unfold derive journey book board";

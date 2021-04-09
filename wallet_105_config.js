@@ -1,1 +1,1 @@
-var mnemonic = "sign deal close market farm dove globe nurse toward boil solve jungle";
+var mnemonic = "maximum hotel slim region zone ramp perfect choice lemon exist canoe depth";

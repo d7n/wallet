@@ -1,1 +1,1 @@
-var mnemonic = "hat safe office aim various love hen farm promote excuse kid soup";
+var mnemonic = "render family already like custom tent flavor carbon festival creek sunset lazy";

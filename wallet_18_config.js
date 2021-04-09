@@ -1,1 +1,1 @@
-var mnemonic = "shy ginger liar dignity scan field useful mix flash drift sniff inmate";
+var mnemonic = "rapid pelican must author ozone ring column season place odor owner trip";

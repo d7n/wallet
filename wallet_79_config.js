@@ -1,1 +1,1 @@
-var mnemonic = "misery jewel into immense violin wire cram mango crucial claw sight bless";
+var mnemonic = "luggage stereo end lake add fuel frozen ostrich custom negative range symptom";

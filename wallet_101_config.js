@@ -1,1 +1,1 @@
-var mnemonic = "black divert blast congress alarm best color armed dinosaur hire genuine unaware";
+var mnemonic = "fossil strong essence find cinnamon boring cousin jungle inherit until inch viable";

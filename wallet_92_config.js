@@ -1,1 +1,1 @@
-var mnemonic = "skill assist wear ocean artefact finish taste wild reveal tray patch crop";
+var mnemonic = "enforce furnace pupil dance guess middle ship code left grant marine autumn";

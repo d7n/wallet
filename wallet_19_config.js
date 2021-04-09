@@ -1,1 +1,1 @@
-var mnemonic = "jungle borrow payment umbrella use field vendor board agree pride sock boat";
+var mnemonic = "verb enrich torch case pact barely castle gym stumble decrease pencil toss";

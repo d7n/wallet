@@ -1,1 +1,1 @@
-var mnemonic = "rule worry spirit tackle panel refuse inside december link strategy fiction law";
+var mnemonic = "open mesh movie hungry hip open hope any seat foil iron roof";

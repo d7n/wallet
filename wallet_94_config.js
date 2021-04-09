@@ -1,1 +1,1 @@
-var mnemonic = "virtual retire casual few fragile hen maximum regular notable kitten gravity reduce";
+var mnemonic = "borrow sick patch trumpet path tattoo pet embrace receive hair alpha bus";

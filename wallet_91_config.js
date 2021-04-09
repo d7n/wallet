@@ -1,1 +1,1 @@
-var mnemonic = "picnic rural wine announce dolphin life someone hill song wonder unfold fly";
+var mnemonic = "index rotate wink merry exhaust fit link mountain expand sock wave worry";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss safe piece distance process group sure check infant gift floor side";
+var mnemonic = "glide resist genuine person differ virus decorate disease dish device similar dial";

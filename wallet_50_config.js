@@ -1,1 +1,1 @@
-var mnemonic = "again mushroom innocent young flash guard just wide curve duck humor odor";
+var mnemonic = "debate exotic inside measure rely wise prevent intact almost over crouch green";

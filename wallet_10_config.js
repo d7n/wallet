@@ -1,1 +1,1 @@
-var mnemonic = "involve letter foil december nose blush decrease solve citizen angry miss zoo";
+var mnemonic = "oyster theme just fabric pull risk crazy aim exotic nothing busy wait";

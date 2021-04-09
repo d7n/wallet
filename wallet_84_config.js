@@ -1,1 +1,1 @@
-var mnemonic = "salt subject gift survey slogan black moment trim grow stool drama quiz";
+var mnemonic = "hurry tribe chapter flee tool range reflect spare friend zero near almost";

@@ -1,1 +1,1 @@
-var mnemonic = "brass model sibling divorce define exhaust autumn exit silent leisure symptom define";
+var mnemonic = "cash hold guard siren crawl entire remain amazing zero rocket rubber galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "genre case ship tomato share carry girl bright creek trash mom art";
+var mnemonic = "pipe craft please fantasy hungry dilemma manual marble space client above again";

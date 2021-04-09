@@ -1,1 +1,1 @@
-var mnemonic = "math slice pattern galaxy canal essence turtle visit orchard rather shrimp upon";
+var mnemonic = "master nice battle camp coin front episode lottery auction surround hawk girl";

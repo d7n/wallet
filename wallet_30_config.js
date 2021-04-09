@@ -1,1 +1,1 @@
-var mnemonic = "great mammal happy reduce cancel random badge chief tragic digital chuckle orbit";
+var mnemonic = "second random monkey quick hunt crystal furnace rib fury stable group harbor";

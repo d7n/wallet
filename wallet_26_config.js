@@ -1,1 +1,1 @@
-var mnemonic = "coconut run doll refuse zone cricket cherry solar citizen suit coast exercise";
+var mnemonic = "later version brown cotton deputy vote strong column claw add amazing unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "stick heart inhale cousin electric silk fatigue film welcome avocado vivid repair";
+var mnemonic = "champion never session rug recipe acoustic badge sport bachelor marriage victory moment";

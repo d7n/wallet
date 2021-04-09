@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur cross shove globe analyst magic inherit spatial junior scissors fault panda";
+var mnemonic = "average close razor wing damage wreck denial mesh peasant spin around turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty quarter neither stove chair sure glance never hour catalog crime all";
+var mnemonic = "rack flame visit interest caught install orchard enforce profit absent vacuum three";

@@ -1,1 +1,1 @@
-var mnemonic = "beach strategy scrap melt trash goat rule dutch false cat joy scare";
+var mnemonic = "final tobacco among cancel issue habit orange zebra useful embody steel icon";

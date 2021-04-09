@@ -1,1 +1,1 @@
-var mnemonic = "office middle apple lyrics stock box quarter cotton vendor panic tone scene";
+var mnemonic = "afford hobby tomato tape aware chase true success crucial merry latin decorate";

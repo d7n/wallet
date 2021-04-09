@@ -1,1 +1,1 @@
-var mnemonic = "holiday little ankle wrestle small convince view tornado december buddy trick boss";
+var mnemonic = "curious amateur fire deny visit dove salt display bright aware donate manual";

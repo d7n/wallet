@@ -1,1 +1,1 @@
-var mnemonic = "draft canoe page celery tortoise happy truth pear aware laptop target same";
+var mnemonic = "maze dragon arm quarter forward prize destroy cup fall argue glow effort";

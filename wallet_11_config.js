@@ -1,1 +1,1 @@
-var mnemonic = "earth organ mandate embark this gorilla silent clay mass govern will cup";
+var mnemonic = "world suffer hawk october cave few endorse picture charge gas figure grow";

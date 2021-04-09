@@ -1,1 +1,1 @@
-var mnemonic = "illness tortoise become history torch aunt faint fruit either person because penalty";
+var mnemonic = "junior pink wave weekend ahead cook quick run pistol increase receive abstract";

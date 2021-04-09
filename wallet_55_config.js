@@ -1,1 +1,1 @@
-var mnemonic = "fiction fat fashion velvet tell system often spoon bicycle scrub remember poet";
+var mnemonic = "embrace display brief brick spawn village laugh obey forum company swear praise";

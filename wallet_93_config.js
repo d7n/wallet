@@ -1,1 +1,1 @@
-var mnemonic = "mixture absurd pyramid liquid opera grunt secret force people render dinosaur rough";
+var mnemonic = "bargain muffin scale alter inmate awful cereal guitar staff sun cycle seminar";

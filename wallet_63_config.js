@@ -1,1 +1,1 @@
-var mnemonic = "verb execute half clap theory spare series custom horn turn emotion select";
+var mnemonic = "garbage say token roof remain wide climb remember garbage earth ozone audit";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist sleep home place horn pond brush twenty upper leg curious hungry";
+var mnemonic = "parrot spin door collect clap canvas anxiety approve engine student pulp love";

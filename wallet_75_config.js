@@ -1,1 +1,1 @@
-var mnemonic = "person grace arrive click crush maple canyon marriage orphan habit blanket limit";
+var mnemonic = "ecology gallery pear goose pistol napkin media plastic mail topple sort vivid";

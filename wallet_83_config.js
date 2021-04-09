@@ -1,1 +1,1 @@
-var mnemonic = "fruit unit casino clean banana second play infant what ramp easily upon";
+var mnemonic = "broccoli escape panther phone topic replace vapor proof dynamic crucial before round";

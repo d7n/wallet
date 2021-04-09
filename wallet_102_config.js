@@ -1,1 +1,1 @@
-var mnemonic = "road crowd kiwi volcano syrup digital alcohol flight under keen tribe gadget";
+var mnemonic = "media various speak main school rhythm cost crowd egg put predict swamp";

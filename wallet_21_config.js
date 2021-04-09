@@ -1,1 +1,1 @@
-var mnemonic = "casual buddy lamp icon atom fog attack setup roast sweet order sense";
+var mnemonic = "fortune pupil chair gravity lyrics economy brass banner nasty juice extra remain";

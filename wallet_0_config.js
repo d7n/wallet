@@ -1,1 +1,1 @@
-var mnemonic = "hand nest wait dinner wedding pave first trash future into river bubble";
+var mnemonic = "adapt satisfy nephew heart exist razor begin flat juice quit noodle stadium";

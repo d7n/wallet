@@ -1,1 +1,1 @@
-var mnemonic = "erupt essence throw jeans organ curtain super put never lottery refuse glide";
+var mnemonic = "review blade obvious frame cereal runway huge ski roof rabbit rich force";

@@ -1,1 +1,1 @@
-var mnemonic = "hair symptom void become witness satisfy coin invite power month dutch chimney";
+var mnemonic = "bamboo alone law father address fence milk smart smart deer derive chaos";

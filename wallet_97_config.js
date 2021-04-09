@@ -1,1 +1,1 @@
-var mnemonic = "odor over patrol size wisdom pizza winter scatter sort random immense slush";
+var mnemonic = "enemy scene immense mixed enact they cover cost certain define tiny crouch";

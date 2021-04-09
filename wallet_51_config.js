@@ -1,1 +1,1 @@
-var mnemonic = "myself decade milk loyal concert open sing wolf spare achieve legend two";
+var mnemonic = "flip adapt voice essay first force canyon orchard stamp lunar issue alone";

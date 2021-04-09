@@ -1,1 +1,1 @@
-var mnemonic = "dignity art arm combine morning swift elephant butter connect position treat success";
+var mnemonic = "bonus bar razor diary shaft tonight dolphin flip awkward garbage vital lumber";

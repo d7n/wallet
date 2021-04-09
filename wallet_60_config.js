@@ -1,1 +1,1 @@
-var mnemonic = "tray else raw please future casino train teach armor rubber century eternal";
+var mnemonic = "olive spatial treat team nominee gold version bullet apology error manual half";

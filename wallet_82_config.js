@@ -1,1 +1,1 @@
-var mnemonic = "vicious leave day feature museum then raccoon olive someone awkward thunder panther";
+var mnemonic = "mistake diesel dune pink divert run arrange trick pipe pencil alley pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare zone approve east almost glance topple neck over bag perfect session";
+var mnemonic = "cactus half fortune crime earth opera call repeat hello liberty knee judge";

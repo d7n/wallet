@@ -1,1 +1,1 @@
-var mnemonic = "below music faculty inhale print frog solve frozen error describe mimic shove";
+var mnemonic = "bag boy sting crop stuff health tide hybrid gesture fly rude address";

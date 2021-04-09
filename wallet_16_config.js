@@ -1,1 +1,1 @@
-var mnemonic = "holiday across below hurry obvious below scene skirt bicycle boat else glare";
+var mnemonic = "unveil library dawn index pen volume approve luggage machine palm movie access";

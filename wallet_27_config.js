@@ -1,1 +1,1 @@
-var mnemonic = "peace scheme shadow cargo health era media pioneer exit curtain rabbit exercise";
+var mnemonic = "pelican crisp pulp vague subject aisle fame joke elegant lounge club concert";

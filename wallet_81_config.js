@@ -1,1 +1,1 @@
-var mnemonic = "stay shaft hidden naive kiss burst west hover mixed assault custom arch";
+var mnemonic = "stool cable divide barely chief rate element arrow mandate together enjoy royal";

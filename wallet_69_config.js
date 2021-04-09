@@ -1,1 +1,1 @@
-var mnemonic = "warm bomb bunker rate equip cloud frequent mask album brown episode portion";
+var mnemonic = "struggle pave coffee mandate fox drastic tongue update south mass ring load";

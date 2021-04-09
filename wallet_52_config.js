@@ -1,1 +1,1 @@
-var mnemonic = "want club service leader note lazy noodle ranch shove only trial solve";
+var mnemonic = "age disorder seek curve nerve outer life series state process romance correct";

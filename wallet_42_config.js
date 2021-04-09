@@ -1,1 +1,1 @@
-var mnemonic = "own address beauty ocean dolphin monkey drum special renew decrease crop avoid";
+var mnemonic = "key vintage excess ticket suffer final point pill audit fine record denial";

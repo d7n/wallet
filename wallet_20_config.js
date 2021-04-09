@@ -1,1 +1,1 @@
-var mnemonic = "payment orbit bid into problem miracle fetch remain rude sweet crush inform";
+var mnemonic = "mango deny grant traffic grocery one gesture mandate easily pill flee purpose";

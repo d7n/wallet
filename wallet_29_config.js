@@ -1,1 +1,1 @@
-var mnemonic = "resource project okay vibrant snow liberty cattle quantum congress eight scene believe";
+var mnemonic = "physical ancient luxury obvious spread odor clump object twin vital disease capital";

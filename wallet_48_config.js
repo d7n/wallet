@@ -1,1 +1,1 @@
-var mnemonic = "mule dizzy salt cushion cruel concert girl ritual alter clog fame feature";
+var mnemonic = "tank suit insect decide cement region snow shallow buddy actress digital addict";

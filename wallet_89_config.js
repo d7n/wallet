@@ -1,1 +1,1 @@
-var mnemonic = "jewel rhythm age design smooth inform hybrid border exchange assault kite entire";
+var mnemonic = "scissors kite lemon donor comic piano emerge suffer suit order violin acid";

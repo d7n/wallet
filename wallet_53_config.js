@@ -1,1 +1,1 @@
-var mnemonic = "sign devote embrace move champion onion stamp panic above fun atom domain";
+var mnemonic = "demise forest grid protect area shadow craft month update noise since submit";

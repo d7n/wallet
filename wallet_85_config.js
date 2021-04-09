@@ -1,1 +1,1 @@
-var mnemonic = "century mad gold maid saddle aspect endless occur lottery hollow shove dream";
+var mnemonic = "body limit purpose main accident boil enemy butter liquid rival equal border";

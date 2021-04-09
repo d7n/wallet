@@ -1,1 +1,1 @@
-var mnemonic = "dune tank bargain acid response drive marble skill grant emerge bid draw";
+var mnemonic = "hurry lady rug general grab stadium slam art myself party salute entire";

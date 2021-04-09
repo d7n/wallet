@@ -1,1 +1,1 @@
-var mnemonic = "animal lift siren session ecology leave horn drill prepare abstract venture else";
+var mnemonic = "wood subway write march goddess salmon miss under trash kid spice innocent";

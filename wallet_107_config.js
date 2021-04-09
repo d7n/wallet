@@ -1,1 +1,1 @@
-var mnemonic = "spirit survey spike cushion junk renew wait slot near multiply target spawn";
+var mnemonic = "quality good trouble good decrease hotel rack horror urge tag forward apple";

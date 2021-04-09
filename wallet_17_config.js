@@ -1,1 +1,1 @@
-var mnemonic = "wasp viable alpha question fold innocent unknown tumble track raven rice acid";
+var mnemonic = "hope urban doll matter earth tone safe sauce share trap opera flee";

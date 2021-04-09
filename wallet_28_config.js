@@ -1,1 +1,1 @@
-var mnemonic = "exhibit faculty govern flag amazing crucial pear upgrade erosion margin acoustic lobster";
+var mnemonic = "ankle radar acoustic shed nice leg panel coral educate always slender order";

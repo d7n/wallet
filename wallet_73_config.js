@@ -1,1 +1,1 @@
-var mnemonic = "outer remind ability wall weekend aunt all cage course garbage donor foil";
+var mnemonic = "issue observe pair aerobic basket autumn radar level decade motor brief infant";

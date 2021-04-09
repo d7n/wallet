@@ -1,1 +1,1 @@
-var mnemonic = "subway young then social firm sheriff observe dinosaur fortune pulse vacuum replace";
+var mnemonic = "fade approve toward rude enemy defy tape bus toddler hill health until";

@@ -1,1 +1,1 @@
-var mnemonic = "potato region puppy echo detail they merry fossil cruel circle leg town";
+var mnemonic = "reflect invest bubble sun attract useless genius blanket cruise normal cross laundry";
