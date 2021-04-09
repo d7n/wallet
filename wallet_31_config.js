@@ -1,1 +1,1 @@
-var mnemonic = "dismiss between adult social wasp rabbit adult social eight raven unique lazy";
+var mnemonic = "until wing cliff frost aspect rabbit wild vacuum light ecology surround wagon";

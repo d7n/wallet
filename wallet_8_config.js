@@ -1,1 +1,1 @@
-var mnemonic = "zone whale output human scare hip twin farm snack ahead mirror hundred";
+var mnemonic = "stable discover patrol boat metal pulse stage cancel daughter account dish win";

@@ -1,1 +1,1 @@
-var mnemonic = "swap member absent used memory final exercise warfare crisp maze joke vapor";
+var mnemonic = "business magnet amount wish nuclear misery answer nice shoulder behind eagle lecture";

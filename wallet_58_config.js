@@ -1,1 +1,1 @@
-var mnemonic = "game fork little april render vocal obvious book pear lock sheriff brass";
+var mnemonic = "maze custom matrix truth female wing garlic rotate century dentist number laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe rescue link deal also topic kidney miracle lab scare claim depth";
+var mnemonic = "acoustic angry mystery stable bus finger trigger cherry wing play cause find";

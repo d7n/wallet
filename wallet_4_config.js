@@ -1,1 +1,1 @@
-var mnemonic = "zone alcohol pottery anger version notable fatigue make adapt survey sketch true";
+var mnemonic = "oppose drink mention receive capital recycle bench vicious trip liquid window diet";

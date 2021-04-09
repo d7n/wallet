@@ -1,1 +1,1 @@
-var mnemonic = "cable palace hard wrong deposit ramp book bean seed pig orange congress";
+var mnemonic = "shine smile small scene run chef bike twice math behave smile gaze";

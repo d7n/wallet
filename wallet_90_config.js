@@ -1,1 +1,1 @@
-var mnemonic = "future exchange exotic panda nature hero glove depth regret street key benefit";
+var mnemonic = "arctic provide reopen theory fly balcony action negative easily calm increase bubble";

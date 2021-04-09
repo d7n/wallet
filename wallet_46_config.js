@@ -1,1 +1,1 @@
-var mnemonic = "onion learn snap exhibit pottery vessel boil pilot rice baby kitten motion";
+var mnemonic = "harvest absurd aware net tuna list hybrid peace fire first sight marble";

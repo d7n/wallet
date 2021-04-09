@@ -1,1 +1,1 @@
-var mnemonic = "amateur focus coach drink burst balcony either educate okay muscle slim all";
+var mnemonic = "knife beauty image galaxy clay enter hawk local column cause decrease move";

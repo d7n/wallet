@@ -1,1 +1,1 @@
-var mnemonic = "render legend talk warrior night call trash bargain address innocent breeze pyramid";
+var mnemonic = "fun couch clog attitude try expose foam finish smile salon garden tomato";

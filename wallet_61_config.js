@@ -1,1 +1,1 @@
-var mnemonic = "chunk sentence urban chuckle try biology net decline animal release frog explain";
+var mnemonic = "upgrade room sample notable animal leaf swing monitor tide unusual tree lake";

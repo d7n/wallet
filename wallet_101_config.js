@@ -1,1 +1,1 @@
-var mnemonic = "trip already afraid canvas estate rack empty hurt alien balance song cushion";
+var mnemonic = "lumber cart machine manual indicate catch message juice orange milk prevent luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk hold tattoo language rescue just fetch usage siege income save organ";
+var mnemonic = "other neutral helmet mask dilemma busy simple okay purchase method glare gate";

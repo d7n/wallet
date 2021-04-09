@@ -1,1 +1,1 @@
-var mnemonic = "law waste quiz impact safe leave pride upon struggle gloom erosion elder";
+var mnemonic = "spread outside trap knock beyond that struggle impose trim cabbage width flavor";

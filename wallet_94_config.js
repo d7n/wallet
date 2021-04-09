@@ -1,1 +1,1 @@
-var mnemonic = "apart help axis kangaroo tool alarm face hedgehog curtain host minimum deputy";
+var mnemonic = "knee element piece vocal blue waste body quality muscle miss mansion acoustic";

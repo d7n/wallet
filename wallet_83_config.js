@@ -1,1 +1,1 @@
-var mnemonic = "tent bright notice begin stomach canoe basic pizza chase mansion rice merge";
+var mnemonic = "cat just assume loan shadow silver solar alcohol fruit turtle pulse shrug";

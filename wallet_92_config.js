@@ -1,1 +1,1 @@
-var mnemonic = "merry second feature void emotion mix chalk lizard spend leopard oxygen leopard";
+var mnemonic = "tape memory lock flag give unlock catalog worry bus trophy course oxygen";

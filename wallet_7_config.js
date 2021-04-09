@@ -1,1 +1,1 @@
-var mnemonic = "evoke habit suggest patrol party capital panel venue dinner access forward smoke";
+var mnemonic = "boost embark still kingdom idle ancient apple horror credit message clever relief";

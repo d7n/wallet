@@ -1,1 +1,1 @@
-var mnemonic = "slim assume ocean open tissue coral obtain coffee remember auto acoustic plastic";
+var mnemonic = "mercy food muscle clip mass aisle loyal traffic blast van edge reunion";

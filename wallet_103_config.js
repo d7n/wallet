@@ -1,1 +1,1 @@
-var mnemonic = "silver wolf wide project year job fuel senior system improve agree duck";
+var mnemonic = "dad stereo pupil slim cave direct wool champion build elevator direct clump";

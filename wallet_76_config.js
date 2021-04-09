@@ -1,1 +1,1 @@
-var mnemonic = "saddle switch cloud tackle mention enhance couple crowd present gown toilet brown";
+var mnemonic = "dumb gravity horror physical portion company tongue kitten shiver film satisfy into";

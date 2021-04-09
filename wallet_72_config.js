@@ -1,1 +1,1 @@
-var mnemonic = "tip thought exit peanut maple elder farm orange half section art include";
+var mnemonic = "begin state ripple wave cherry miss double axis daring video turkey crack";

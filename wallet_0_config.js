@@ -1,1 +1,1 @@
-var mnemonic = "disease about audit muffin stomach popular rescue horse clarify jeans clay tunnel";
+var mnemonic = "body climb shoot scare describe again pepper invest prison dress basket catch";

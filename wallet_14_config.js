@@ -1,1 +1,1 @@
-var mnemonic = "misery buzz vast trip shrug excess bundle dumb spider doll slim course";
+var mnemonic = "afraid comic kite shuffle pioneer amateur fork diet detail photo supply rebel";

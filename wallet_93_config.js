@@ -1,1 +1,1 @@
-var mnemonic = "impact width rally slim hire solar taxi opinion pulse rose wrestle immune";
+var mnemonic = "desk warfare couple grow butter exile since scrub tumble absent hidden sun";

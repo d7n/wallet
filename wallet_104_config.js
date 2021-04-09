@@ -1,1 +1,1 @@
-var mnemonic = "decorate tool main giggle quit oak size page large identify render disorder";
+var mnemonic = "rhythm syrup what above match brother swing practice all actual banner brick";

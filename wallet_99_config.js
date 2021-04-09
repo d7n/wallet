@@ -1,1 +1,1 @@
-var mnemonic = "ability crawl insane security shy opinion drum stumble stem feed hockey endless";
+var mnemonic = "satisfy virus such crop crash enter cancel cool bid burden phrase baby";

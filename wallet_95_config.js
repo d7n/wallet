@@ -1,1 +1,1 @@
-var mnemonic = "guess stereo summer iron party urban rival rubber mass upon oblige object";
+var mnemonic = "social clinic buffalo birth bridge acquire tunnel dwarf fetch argue inherit search";

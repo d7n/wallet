@@ -1,1 +1,1 @@
-var mnemonic = "rhythm cotton gate art rose mix enroll dolphin tackle giraffe lab man";
+var mnemonic = "simple tuna globe book churn limit swim embark drama wrap apology liquid";

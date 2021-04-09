@@ -1,1 +1,1 @@
-var mnemonic = "swallow grain tobacco fever add sell lawsuit organ model clean social caught";
+var mnemonic = "thank glory smart empty kiss gorilla smoke recall win razor fog mosquito";

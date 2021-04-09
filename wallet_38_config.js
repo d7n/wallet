@@ -1,1 +1,1 @@
-var mnemonic = "mistake jar circle glue afraid hill wing latin initial truly gallery weekend";
+var mnemonic = "height shove fetch fresh iron pony sample elder muffin cross amazing unfair";

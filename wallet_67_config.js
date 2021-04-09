@@ -1,1 +1,1 @@
-var mnemonic = "load trap settle rotate leaf add romance solid present inquiry trash error";
+var mnemonic = "salmon search library slight slam stuff endorse evoke direct flash twelve pumpkin";

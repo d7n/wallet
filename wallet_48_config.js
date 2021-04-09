@@ -1,1 +1,1 @@
-var mnemonic = "nothing success slender make accident gaze horror elevator coconut bus one opinion";
+var mnemonic = "element bird minor wire goat soccer concert service wash choice banner pear";

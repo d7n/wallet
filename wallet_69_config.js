@@ -1,1 +1,1 @@
-var mnemonic = "sweet chef hospital elegant sock female leader front pool kite shock fury";
+var mnemonic = "spoil shift clip plug service either cruel toy library outdoor pupil tuna";

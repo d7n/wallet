@@ -1,1 +1,1 @@
-var mnemonic = "pulp defy stomach patient upgrade athlete ability quantum special want sword enforce";
+var mnemonic = "kangaroo around try column budget guess range couch dove spice air hold";

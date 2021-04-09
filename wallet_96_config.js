@@ -1,1 +1,1 @@
-var mnemonic = "dirt plastic base figure federal cheap success vacant apology energy example danger";
+var mnemonic = "strike hover crater industry gown sentence eagle stone tackle panda popular write";

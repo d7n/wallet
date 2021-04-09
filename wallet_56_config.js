@@ -1,1 +1,1 @@
-var mnemonic = "dynamic mention cinnamon tower spare solar coin vote false decide ripple lock";
+var mnemonic = "rare peace inner hair evoke provide pull correct industry charge scheme mean";

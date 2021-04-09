@@ -1,1 +1,1 @@
-var mnemonic = "space glide tissue area east suspect agent knee flock music clinic explain";
+var mnemonic = "section dry drift error flush proof eye pottery private federal mixed choose";

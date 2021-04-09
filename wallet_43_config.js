@@ -1,1 +1,1 @@
-var mnemonic = "monitor bike cattle blast fitness flip robot edge gap blind fragile trumpet";
+var mnemonic = "immune oblige renew mom skin skull elephant minimum slim song matrix segment";

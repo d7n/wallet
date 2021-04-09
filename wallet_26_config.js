@@ -1,1 +1,1 @@
-var mnemonic = "glove noise gallery cannon muffin else rely gap square retire blue torch";
+var mnemonic = "true swamp actress juice busy shadow shuffle ahead enact tip daring broken";

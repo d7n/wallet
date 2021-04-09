@@ -1,1 +1,1 @@
-var mnemonic = "creek cinnamon tilt drift verb bind sugar love injury gown pink curious";
+var mnemonic = "fresh badge jaguar april van shine kind rich team olympic trade indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "junior square wagon cash snake hazard copy flavor truck piano future then";
+var mnemonic = "life idea gloom sister minor melody slender skin three adult present high";

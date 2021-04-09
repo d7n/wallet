@@ -1,1 +1,1 @@
-var mnemonic = "horn witness allow employ canvas exit nose sauce voyage dog erase grape";
+var mnemonic = "dwarf guess autumn hole rice jewel huge bulk transfer blade grief welcome";

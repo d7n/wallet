@@ -1,1 +1,1 @@
-var mnemonic = "army pride seat panic blossom nuclear stamp lamp online couple crunch brief";
+var mnemonic = "attend basket salt scorpion fragile social emotion fiscal symbol artefact wife thank";

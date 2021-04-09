@@ -1,1 +1,1 @@
-var mnemonic = "cover library vivid tell labor save erase grape magic butter donor shop";
+var mnemonic = "allow fantasy awkward warm scale home derive situate poem wonder brisk vault";

@@ -1,1 +1,1 @@
-var mnemonic = "people young sudden dinner celery caution either praise crystal flavor stage bleak";
+var mnemonic = "close nurse strategy yard mesh machine neglect october blue dash wood firm";

@@ -1,1 +1,1 @@
-var mnemonic = "cream tape purse reunion collect code teach divide elder wagon book genuine";
+var mnemonic = "can solar feature clown charge frame bottom verb opinion music wrist husband";

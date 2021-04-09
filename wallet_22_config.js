@@ -1,1 +1,1 @@
-var mnemonic = "steel kiwi once industry apple diet rather gallery armor mind drill process";
+var mnemonic = "flat tent kingdom moment cable high spoil guitar core goat knee leaf";

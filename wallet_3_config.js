@@ -1,1 +1,1 @@
-var mnemonic = "behind change soul favorite chief shrug sudden cook vintage bronze rail skin";
+var mnemonic = "sponsor toy section poverty wood vapor aunt uniform unfold dizzy thought strong";

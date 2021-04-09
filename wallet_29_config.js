@@ -1,1 +1,1 @@
-var mnemonic = "stove candy heavy blanket scissors play size dad lab trap mimic camp";
+var mnemonic = "animal auction moment steak snake gain scrub income car celery wave drive";

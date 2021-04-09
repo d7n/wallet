@@ -1,1 +1,1 @@
-var mnemonic = "crush taxi boring treat mouse fluid vacuum awesome much pupil laundry hard";
+var mnemonic = "pink mystery table happy cross avocado summer stay curious raw long fox";

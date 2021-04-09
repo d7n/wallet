@@ -1,1 +1,1 @@
-var mnemonic = "squirrel outdoor lock polar safe mass antique organ focus lizard solid kind";
+var mnemonic = "replace connect rib october tattoo pass stomach exhaust inner say legend edit";

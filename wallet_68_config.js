@@ -1,1 +1,1 @@
-var mnemonic = "leaf voyage genre rigid diamond weather source about basic tag heart link";
+var mnemonic = "run drum illegal model bike wrestle traffic abuse lens laugh unveil reopen";

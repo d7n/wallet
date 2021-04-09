@@ -1,1 +1,1 @@
-var mnemonic = "error involve movie bamboo swear mean bicycle benefit fox various hurry egg";
+var mnemonic = "index bounce north merry kidney attend defense occur action undo close hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect phone expose tumble half design raven salute session primary general neck";
+var mnemonic = "evolve shrug fatigue vacant bracket egg spirit pool jazz transfer slender betray";

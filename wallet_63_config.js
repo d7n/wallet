@@ -1,1 +1,1 @@
-var mnemonic = "ask frog silent bracket shrug drive reason light tortoise rose risk merry";
+var mnemonic = "round fault prepare reveal boost dragon govern recipe swing sting issue embrace";

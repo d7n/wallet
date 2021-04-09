@@ -1,1 +1,1 @@
-var mnemonic = "boost fresh solid crunch welcome wish chair ahead learn eagle minor tent";
+var mnemonic = "answer together window pulse toilet nose few screen frame denial license gap";

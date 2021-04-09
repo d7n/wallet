@@ -1,1 +1,1 @@
-var mnemonic = "lucky ancient valley uniform kick pluck curve fox spike spend flash route";
+var mnemonic = "junk more spike unique solar door notable inmate tortoise merit just burger";

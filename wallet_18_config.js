@@ -1,1 +1,1 @@
-var mnemonic = "general dose trick wave excess text shop hover loop sight expire ramp";
+var mnemonic = "you plastic olive improve fork north warm arrow legend right tape sting";

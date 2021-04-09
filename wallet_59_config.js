@@ -1,1 +1,1 @@
-var mnemonic = "fabric amazing six series million solution country tube loan maid spin soldier";
+var mnemonic = "small group leader near illegal cliff weasel citizen collect mobile rude enlist";

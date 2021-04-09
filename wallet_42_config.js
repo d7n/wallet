@@ -1,1 +1,1 @@
-var mnemonic = "submit misery aware favorite kingdom diagram copper caught state bulb claw prevent";
+var mnemonic = "twenty weird inject fiscal erase crane muscle task hammer emotion police unhappy";

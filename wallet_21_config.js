@@ -1,1 +1,1 @@
-var mnemonic = "quick struggle whip light risk arm audit voice erupt today witness orange";
+var mnemonic = "must tourist tonight group type iron seed another spot gun female athlete";

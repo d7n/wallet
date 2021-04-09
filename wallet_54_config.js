@@ -1,1 +1,1 @@
-var mnemonic = "fence glove atom reason flash plunge inject swallow twenty stem laundry curve";
+var mnemonic = "final ahead wave soul unusual bamboo cabin galaxy rain tenant hen ridge";

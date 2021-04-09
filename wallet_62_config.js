@@ -1,1 +1,1 @@
-var mnemonic = "rate loud idea coin slender health client correct embrace vote inflict parent";
+var mnemonic = "very intact bronze truly drift tag vessel dance silent blast stay ladder";

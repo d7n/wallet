@@ -1,1 +1,1 @@
-var mnemonic = "lion blanket half close relief carry express chef glass steel more mass";
+var mnemonic = "battle kiss behave tail blossom airport husband scissors next struggle limit chest";

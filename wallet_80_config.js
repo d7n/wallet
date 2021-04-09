@@ -1,1 +1,1 @@
-var mnemonic = "emerge loud mail mimic celery ankle toward actor dust boat note gallery";
+var mnemonic = "loud birth route scan deal notable ripple there fish envelope universe wet";

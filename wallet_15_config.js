@@ -1,1 +1,1 @@
-var mnemonic = "inner symbol radar project wife win merge diary gospel level merge direct";
+var mnemonic = "nation tongue sphere exhibit rapid crane improve submit muffin hand interest public";

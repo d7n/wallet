@@ -1,1 +1,1 @@
-var mnemonic = "please arena walnut route level vacuum pole phone stable all huge area";
+var mnemonic = "stem stumble upset soft update pattern remember marriage day decline clinic repair";

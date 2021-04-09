@@ -1,1 +1,1 @@
-var mnemonic = "escape combine movie neither correct ask swift tilt scene lobster menu birth";
+var mnemonic = "loyal chaos two speed tube title wish joy supreme alert reject door";

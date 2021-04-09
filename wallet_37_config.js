@@ -1,1 +1,1 @@
-var mnemonic = "paddle fiction glad syrup relief spider earth when zone group scrub squeeze";
+var mnemonic = "ocean pair where side scissors unit video surround pledge comic melt spell";

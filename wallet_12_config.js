@@ -1,1 +1,1 @@
-var mnemonic = "dinner avocado foster typical explain pass critic excess hunt weasel issue track";
+var mnemonic = "volcano drink common orient wheat dream roast arena deny squirrel index joy";

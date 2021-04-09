@@ -1,1 +1,1 @@
-var mnemonic = "fish valve satoshi genuine best little armed pet disagree famous same color";
+var mnemonic = "dress toe empty drum slim spatial year winner moon step method wedding";

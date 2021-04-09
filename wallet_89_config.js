@@ -1,1 +1,1 @@
-var mnemonic = "lion pistol text cage census bulk ozone basket deer tube design palace";
+var mnemonic = "aisle network lab orbit response rent swing dish tool tortoise twin text";

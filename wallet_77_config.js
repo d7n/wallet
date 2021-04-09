@@ -1,1 +1,1 @@
-var mnemonic = "promote maple screen liar calm argue glove orange grow useful pink letter";
+var mnemonic = "address thought cargo put wonder doctor gaze sell field seat merge radar";

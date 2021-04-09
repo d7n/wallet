@@ -1,1 +1,1 @@
-var mnemonic = "road employ life execute beach accuse agent joke potato alarm simple kit";
+var mnemonic = "defense clutch public surge balcony jelly elevator elite sponsor leopard torch symbol";

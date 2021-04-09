@@ -1,1 +1,1 @@
-var mnemonic = "movie involve grid chicken poverty guitar door shoulder label morning bonus vibrant";
+var mnemonic = "chef deliver hawk flush abandon fancy liberty undo confirm protect wasp title";

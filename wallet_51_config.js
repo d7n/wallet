@@ -1,1 +1,1 @@
-var mnemonic = "primary vault key busy lion text attend alley exact add shadow skull";
+var mnemonic = "lobster fossil wheat arena diet twist soon wheat solve begin coast legal";

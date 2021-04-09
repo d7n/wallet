@@ -1,1 +1,1 @@
-var mnemonic = "palace modify kitten approve prize practice divert flip educate pretty grace protect";
+var mnemonic = "door task share drive guard gap mercy excite survey oven chalk birth";

@@ -1,1 +1,1 @@
-var mnemonic = "swear bind simple photo rule manage steak security merit breeze elbow valley";
+var mnemonic = "million that tiny bind violin matter quick remove rice gun funny rival";

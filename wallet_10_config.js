@@ -1,1 +1,1 @@
-var mnemonic = "grace point vanish hurdle dismiss half unlock simple spray combine price turkey";
+var mnemonic = "learn open join ensure that nose dinner glove garbage lottery reason south";

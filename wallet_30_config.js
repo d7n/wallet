@@ -1,1 +1,1 @@
-var mnemonic = "olive popular chat knock category light waste axis dash pupil main police";
+var mnemonic = "expand student fiscal creek dance minute bar badge return genuine foster shadow";

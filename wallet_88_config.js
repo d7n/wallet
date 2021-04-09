@@ -1,1 +1,1 @@
-var mnemonic = "extend toss venture six capable bring earn luxury awesome clump noise pet";
+var mnemonic = "casino sample mouse fury wife photo edit cube thrive candy hockey sand";

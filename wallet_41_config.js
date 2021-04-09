@@ -1,1 +1,1 @@
-var mnemonic = "claw elevator sister machine funny connect scatter bean also scan protect pole";
+var mnemonic = "sunset inch swamp owner gravity praise stick idea kitten couple toddler dilemma";

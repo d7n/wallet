@@ -1,1 +1,1 @@
-var mnemonic = "chef under local alert pond sunset leave bless task salt furnace wrap";
+var mnemonic = "skate resist radar card snake risk quiz toast fancy oyster remember inside";

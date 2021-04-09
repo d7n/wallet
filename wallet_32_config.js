@@ -1,1 +1,1 @@
-var mnemonic = "pair fish excite maze canvas rival dance venture spider patient funny physical";
+var mnemonic = "coyote share put hockey almost twin ghost initial wife quiz year they";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic very issue kind system extend tail almost great bronze luxury wool";
+var mnemonic = "improve obvious soldier clever subway cigar cupboard news bleak food elevator skirt";

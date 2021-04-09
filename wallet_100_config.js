@@ -1,1 +1,1 @@
-var mnemonic = "april equip object stable clever ribbon special shed prepare mansion safe wet";
+var mnemonic = "solid long ring dose nest famous bubble author eight armor matter retire";

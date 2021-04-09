@@ -1,1 +1,1 @@
-var mnemonic = "voyage cliff broccoli often finger random reward symbol legend share river eyebrow";
+var mnemonic = "length gloom omit apology lobster hobby nominee arctic fashion intact marble vicious";

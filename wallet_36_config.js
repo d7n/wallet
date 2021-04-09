@@ -1,1 +1,1 @@
-var mnemonic = "warrior agree soap this soon visa basket knock raw cluster casual bomb";
+var mnemonic = "slice turkey goddess grit siege outer grit alarm option seek civil come";

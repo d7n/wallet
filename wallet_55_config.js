@@ -1,1 +1,1 @@
-var mnemonic = "initial project coconut wealth ugly test clap edit bounce notable lens identify";
+var mnemonic = "evidence few develop flush size image fruit next either sponsor trade theory";

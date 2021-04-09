@@ -1,1 +1,1 @@
-var mnemonic = "fold candy cotton language human employ depth grant potato smooth frame exclude";
+var mnemonic = "heavy client later pole guard lava main fish tobacco ethics coil outer";

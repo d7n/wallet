@@ -1,1 +1,1 @@
-var mnemonic = "pony soup office garment discover brush library void tag card exist good";
+var mnemonic = "giant glow work dirt arm panther theme enough market adapt anxiety acid";

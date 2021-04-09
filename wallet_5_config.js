@@ -1,1 +1,1 @@
-var mnemonic = "explain debate ball gentle lawsuit frozen subway office monitor off nature roast";
+var mnemonic = "atom prevent sauce release bread valid source hill valid business benefit cover";
