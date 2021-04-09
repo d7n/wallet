@@ -1,1 +1,1 @@
-var mnemonic = "noodle cross mention egg glory cave ketchup right fury critic royal holiday";
+var mnemonic = "increase rhythm degree build stone clean address liberty connect winter lady attitude";

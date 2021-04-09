@@ -1,1 +1,1 @@
-var mnemonic = "gospel business nephew nerve minor worth average monkey moral ordinary salt dizzy";
+var mnemonic = "reflect trash exist law boil pattern goat aim need link rocket load";

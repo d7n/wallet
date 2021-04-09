@@ -1,1 +1,1 @@
-var mnemonic = "head before smooth flee such okay satoshi wine elegant blood action purpose";
+var mnemonic = "dignity resemble tent suffer error gospel essence waste stable egg spray garbage";

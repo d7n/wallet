@@ -1,1 +1,1 @@
-var mnemonic = "orange seminar chief grab typical crater cave guitar friend relief oval benefit";
+var mnemonic = "cliff rack casual tackle parade waste moment ginger ceiling ice nose movie";

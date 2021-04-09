@@ -1,1 +1,1 @@
-var mnemonic = "siege point expand text view inside power possible sock note victory spirit";
+var mnemonic = "total solution limb quarter pride race luxury trigger olympic police almost mango";

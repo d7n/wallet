@@ -1,1 +1,1 @@
-var mnemonic = "whisper light violin frozen initial category boring law lens town friend real";
+var mnemonic = "often student minute ready devote candy output lemon orchard prison vessel height";

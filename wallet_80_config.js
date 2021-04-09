@@ -1,1 +1,1 @@
-var mnemonic = "middle anger skin stand island manual close nerve claw brass yellow annual";
+var mnemonic = "matter close goddess ladder exile electric envelope grant rural impose forward fragile";

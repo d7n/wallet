@@ -1,1 +1,1 @@
-var mnemonic = "prevent stay clog aunt switch venture relief cupboard top volcano often rain";
+var mnemonic = "helmet battle crazy more state click twenty soldier luggage can pass speed";

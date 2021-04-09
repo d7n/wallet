@@ -1,1 +1,1 @@
-var mnemonic = "reduce shaft famous absurd remove six smoke goat cousin pattern flag country";
+var mnemonic = "benefit legend glow hockey sponsor jar wife canyon timber into volume surface";

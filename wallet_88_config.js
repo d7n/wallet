@@ -1,1 +1,1 @@
-var mnemonic = "remind focus easily kind oil cable steak van gauge curtain birth top";
+var mnemonic = "hire gold hundred eagle athlete pride planet nature ethics ethics endless menu";

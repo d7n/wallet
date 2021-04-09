@@ -1,1 +1,1 @@
-var mnemonic = "fork negative hen obtain beef thing memory label alert select visa hurdle";
+var mnemonic = "describe sponsor material paper shove flame pole answer record bulk note lobster";

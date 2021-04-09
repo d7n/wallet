@@ -1,1 +1,1 @@
-var mnemonic = "vanish chest flight poem across bright renew thing mango swap defy board";
+var mnemonic = "aim spell leave evoke spoil tank voyage report winner drip then kit";

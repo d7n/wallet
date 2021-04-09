@@ -1,1 +1,1 @@
-var mnemonic = "hover finger smile chef provide they despair library globe payment relax route";
+var mnemonic = "that twin feed depend cost wool million section soccer vivid valley kite";

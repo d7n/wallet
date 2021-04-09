@@ -1,1 +1,1 @@
-var mnemonic = "crater ski surge peace style panda load plate snap blanket admit update";
+var mnemonic = "act puzzle inherit hotel speed snow level head brown coin front pepper";

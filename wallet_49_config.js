@@ -1,1 +1,1 @@
-var mnemonic = "beyond face patrol impulse airport network render close machine heart crush share";
+var mnemonic = "inmate coast equal chase tortoise negative animal stove text credit forget drama";

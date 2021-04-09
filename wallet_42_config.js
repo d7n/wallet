@@ -1,1 +1,1 @@
-var mnemonic = "turkey ship remove spot soul pool sword wall reform slow dream connect";
+var mnemonic = "local creek upper patch favorite lunch melody unit orient already mushroom country";

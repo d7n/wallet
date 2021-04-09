@@ -1,1 +1,1 @@
-var mnemonic = "erosion south soft alarm winter first sad assist split quantum into have";
+var mnemonic = "tape arrest throw topic east open subject bread speed clarify foot know";

@@ -1,1 +1,1 @@
-var mnemonic = "cry nation such general kiss pioneer inform satoshi battle business media okay";
+var mnemonic = "there case peace little license buffalo trip bridge blind arctic need come";

@@ -1,1 +1,1 @@
-var mnemonic = "practice inhale black brisk universe double room circle interest sense fossil stairs";
+var mnemonic = "better people relief notice online laptop inflict list unlock art expect tank";

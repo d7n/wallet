@@ -1,1 +1,1 @@
-var mnemonic = "learn crisp layer leopard join brother party debris resource treat glimpse truck";
+var mnemonic = "boring chase wall census prepare kiss armor degree dial obscure matter teach";

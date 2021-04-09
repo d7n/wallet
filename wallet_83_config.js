@@ -1,1 +1,1 @@
-var mnemonic = "forget false alley monitor crouch ripple behind april surge thrive since wrong";
+var mnemonic = "gentle parrot dirt surprise mass jazz adult garden casual connect guide diet";

@@ -1,1 +1,1 @@
-var mnemonic = "blue picnic fossil carpet help video crash town hold blush potato stamp";
+var mnemonic = "child crystal until attitude ability boss sphere short runway subject avocado armor";

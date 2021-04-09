@@ -1,1 +1,1 @@
-var mnemonic = "school three spike talent truly figure album omit antenna soldier usage grief";
+var mnemonic = "region element sphere field wool fancy retire impose vicious join marine slow";

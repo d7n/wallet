@@ -1,1 +1,1 @@
-var mnemonic = "stadium fan success army dilemma urban monkey rifle picture menu august run";
+var mnemonic = "glass rule defense minor budget brass beyond special forward target weasel flight";

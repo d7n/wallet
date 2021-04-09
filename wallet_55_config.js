@@ -1,1 +1,1 @@
-var mnemonic = "snap equip sense idea math mystery trigger famous uphold chapter clog devote";
+var mnemonic = "sort ketchup throw cactus around unknown private forest verify team labor club";

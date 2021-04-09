@@ -1,1 +1,1 @@
-var mnemonic = "genuine fetch mistake suit link hamster earth submit goose hub bright tube";
+var mnemonic = "heart blanket journey practice business inflict gorilla news fun work kit coyote";

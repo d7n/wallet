@@ -1,1 +1,1 @@
-var mnemonic = "guilt lesson artwork laugh regular quarter brick pigeon dentist sort impose melody";
+var mnemonic = "seat cloud push wild exist post common talk robust forum home misery";

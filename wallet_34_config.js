@@ -1,1 +1,1 @@
-var mnemonic = "coast pool merry true example swamp denial media deliver oblige bronze mimic";
+var mnemonic = "retire trap canal segment seek finger okay hood ceiling illness gain side";

@@ -1,1 +1,1 @@
-var mnemonic = "skin ketchup salon across treat wave muscle reflect output donkey leopard myself";
+var mnemonic = "visa balcony crack noble jungle false donate tuition always theme edit response";

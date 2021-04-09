@@ -1,1 +1,1 @@
-var mnemonic = "million autumn grant image market then eternal multiply wine gauge lend ranch";
+var mnemonic = "another stadium obvious buddy interest surface term rather bleak draw team special";

@@ -1,1 +1,1 @@
-var mnemonic = "captain figure kiss salute screen idea raccoon nest clean smoke occur depart";
+var mnemonic = "seven firm imitate code quarter gate asthma topple learn orchard order job";

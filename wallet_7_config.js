@@ -1,1 +1,1 @@
-var mnemonic = "visit mixture erase small comfort melody finish margin isolate pear typical heart";
+var mnemonic = "boil unit actual song stairs vessel vague salmon vapor copper yellow air";

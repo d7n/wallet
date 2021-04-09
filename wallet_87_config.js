@@ -1,1 +1,1 @@
-var mnemonic = "rain depend laundry midnight boost balcony west clarify credit twenty update favorite";
+var mnemonic = "dad symptom duty appear tobacco jacket mosquito sustain panel stock similar rebel";

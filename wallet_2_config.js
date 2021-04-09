@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo picture actual noodle same arctic soda cram march sign access lesson";
+var mnemonic = "detail tilt stereo always trash seed swear much winter cycle tape oak";

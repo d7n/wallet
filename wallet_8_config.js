@@ -1,1 +1,1 @@
-var mnemonic = "thrive move useless armed parrot kitchen skate broccoli repair lava south lecture";
+var mnemonic = "pupil belt wheel amateur tape unique wagon hybrid repair angle current tail";

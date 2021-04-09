@@ -1,1 +1,1 @@
-var mnemonic = "salute treat genuine fat finish logic champion ring buyer bench call minor";
+var mnemonic = "mind guide deer frost deer rose trial seek hundred excite together example";

@@ -1,1 +1,1 @@
-var mnemonic = "same web neutral cute blur skill garment strategy body sure hip slide";
+var mnemonic = "talk help skate parade cost long teach armed chimney name tank odor";

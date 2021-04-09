@@ -1,1 +1,1 @@
-var mnemonic = "whisper riot decline pistol color rescue wolf diary once sunset absurd destroy";
+var mnemonic = "crumble crane assist hunt rescue identify business blast coffee junior answer air";

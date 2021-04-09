@@ -1,1 +1,1 @@
-var mnemonic = "wall shine all minor wish surge intact report figure spread involve front";
+var mnemonic = "gaze exclude uniform addict daughter breeze ring hill husband bag true exit";

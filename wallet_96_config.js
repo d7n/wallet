@@ -1,1 +1,1 @@
-var mnemonic = "wife rally wish worth build meadow orbit kite visit forget physical ancient";
+var mnemonic = "kitten oblige aunt trade rally gospel voyage awesome silent obvious basket payment";

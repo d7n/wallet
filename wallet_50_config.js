@@ -1,1 +1,1 @@
-var mnemonic = "rain rabbit useless child shoe banner stool neither drastic warfare trap dignity";
+var mnemonic = "fluid someone bike reduce suggest crouch woman kite arrange divert adult disease";

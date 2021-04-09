@@ -1,1 +1,1 @@
-var mnemonic = "marine gas blame metal cover siege kangaroo run load brick title ride";
+var mnemonic = "depend diagram torch mechanic purity mechanic mystery oven board potato decline round";

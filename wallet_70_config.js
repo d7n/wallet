@@ -1,1 +1,1 @@
-var mnemonic = "blur artwork vague giggle blame harbor battle gate toward pilot success crime";
+var mnemonic = "add chapter rely violin between tattoo there canal arm please bundle canal";

@@ -1,1 +1,1 @@
-var mnemonic = "wire timber test paper guard joke cherry enlist outdoor tattoo wall snow";
+var mnemonic = "sniff snack sand sausage practice roast slush honey day pear inject dutch";

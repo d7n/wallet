@@ -1,1 +1,1 @@
-var mnemonic = "siege earth paper bitter carpet bus salute track accuse three dish ginger";
+var mnemonic = "boy myth average canyon online couch ridge naive cube input buyer tunnel";

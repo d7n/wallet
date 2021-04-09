@@ -1,1 +1,1 @@
-var mnemonic = "subway also enroll bus skate mansion daring shaft lawn alcohol nature youth";
+var mnemonic = "donkey supply pair poem enhance property produce law matrix demand base green";

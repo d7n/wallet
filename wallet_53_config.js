@@ -1,1 +1,1 @@
-var mnemonic = "typical refuse between bind coast physical pyramid toddler balcony embody field hero";
+var mnemonic = "cousin olive myself time alien unit game collect oyster tree lesson toward";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest machine invite during soccer tiny mammal column mobile fresh card surge";
+var mnemonic = "piano wedding empty six obtain design treat piece spend tower voyage rack";

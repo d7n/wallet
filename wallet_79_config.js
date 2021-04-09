@@ -1,1 +1,1 @@
-var mnemonic = "hard key shoot master spray hole cargo stock bubble load blossom cinnamon";
+var mnemonic = "gown purchase pioneer public replace middle siren fit menu front neck merge";

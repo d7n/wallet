@@ -1,1 +1,1 @@
-var mnemonic = "beauty live embrace swarm train media better valley soap armed swim picture";
+var mnemonic = "income frost swing memory dust truck dress outer entire kiss catch praise";

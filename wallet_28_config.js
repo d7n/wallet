@@ -1,1 +1,1 @@
-var mnemonic = "general miss wealth betray detect file jazz shop vintage glad arrange climb";
+var mnemonic = "wise hole rude exclude talk repair maple donkey fatigue circle fly behind";

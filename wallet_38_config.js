@@ -1,1 +1,1 @@
-var mnemonic = "sponsor source visual ignore wrist medal stable early vintage gas vacant doll";
+var mnemonic = "food push clog ritual lottery safe seven salon upgrade gospel balcony allow";

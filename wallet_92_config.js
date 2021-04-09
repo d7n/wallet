@@ -1,1 +1,1 @@
-var mnemonic = "twice audit notice race prefer enough lock gasp horror make breeze change";
+var mnemonic = "humble sign blast sugar ugly fire mammal park helmet enjoy nurse figure";

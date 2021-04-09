@@ -1,1 +1,1 @@
-var mnemonic = "wet exercise kid grant melt fuel labor ecology cushion shuffle puppy manual";
+var mnemonic = "crouch few budget broom turn elephant insane allow denial monster luggage black";

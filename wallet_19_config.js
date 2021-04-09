@@ -1,1 +1,1 @@
-var mnemonic = "rather reopen blue business local mail gasp deny upset pipe rubber street";
+var mnemonic = "marriage valve mistake across silent orient visual record twin renew more trade";

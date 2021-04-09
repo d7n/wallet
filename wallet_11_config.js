@@ -1,1 +1,1 @@
-var mnemonic = "fork state glove luggage identify palace middle tissue flame space siren icon";
+var mnemonic = "marble panda chronic busy light imitate dentist raccoon blind ketchup verb absent";

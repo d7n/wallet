@@ -1,1 +1,1 @@
-var mnemonic = "crush firm idle board maximum auto barrel heavy exact snake together jelly";
+var mnemonic = "hole list width bicycle travel great repair park voice picnic poem spring";

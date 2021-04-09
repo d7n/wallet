@@ -1,1 +1,1 @@
-var mnemonic = "voice say shoot live crop cheap share clutch current start cigar assist";
+var mnemonic = "nest flock system jump early title rough earn soda prepare other slot";

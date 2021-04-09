@@ -1,1 +1,1 @@
-var mnemonic = "proof eagle attack divorce shallow accident sunset veteran derive nice paddle vendor";
+var mnemonic = "wall access soft mean van gasp inhale warfare essence symbol magic magnet";

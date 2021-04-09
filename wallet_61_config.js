@@ -1,1 +1,1 @@
-var mnemonic = "embody pole hammer enable idea thank success doll acquire forum rely limb";
+var mnemonic = "advice hover rabbit spend aspect sponsor execute execute learn smile pink warrior";

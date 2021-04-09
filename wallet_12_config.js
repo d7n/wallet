@@ -1,1 +1,1 @@
-var mnemonic = "offer jacket busy two where offer version evidence define tornado safe breeze";
+var mnemonic = "rich stay real envelope surround pistol crawl ancient razor real speed slam";

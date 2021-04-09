@@ -1,1 +1,1 @@
-var mnemonic = "lemon safe grid property acoustic volcano lobster finish jar resemble engine aim";
+var mnemonic = "atom trade gadget reason visa omit spatial vendor idea uniform brass clinic";

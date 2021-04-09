@@ -1,1 +1,1 @@
-var mnemonic = "uphold write liberty leg super carpet certain yellow camp jewel slush tomorrow";
+var mnemonic = "lion dignity void noise industry blind genuine divorce subway novel trap link";

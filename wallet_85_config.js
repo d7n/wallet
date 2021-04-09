@@ -1,1 +1,1 @@
-var mnemonic = "around push wrist cannon inherit reduce lucky crawl glance crack leisure offer";
+var mnemonic = "fiscal crush episode chair swim uphold three balcony sad van eager decide";

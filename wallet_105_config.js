@@ -1,1 +1,1 @@
-var mnemonic = "frost network setup save actual unusual giant crop flush suffer ivory carpet";
+var mnemonic = "equip clutch token sketch west palm auction squeeze develop grief duty where";

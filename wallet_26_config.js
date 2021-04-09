@@ -1,1 +1,1 @@
-var mnemonic = "visual bubble faint involve shift help solid million vault motor answer tenant";
+var mnemonic = "primary sell enemy catch bench session cradle simple belt include stairs clean";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma hope someone because dust finish blame much tray there margin lumber";
+var mnemonic = "mixture carry party mango barely viable drive work cabbage juice vivid envelope";

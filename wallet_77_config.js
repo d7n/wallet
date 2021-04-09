@@ -1,1 +1,1 @@
-var mnemonic = "payment oppose arctic provide noble bus market trend unit scheme axis grain";
+var mnemonic = "snap index dynamic obscure scheme proud obtain federal kangaroo essay vague prosper";

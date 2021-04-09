@@ -1,1 +1,1 @@
-var mnemonic = "section century shrug assume rely nominee dumb soccer front slogan then smooth";
+var mnemonic = "desert couch drip spider catch dream promote write invite action cook quiz";

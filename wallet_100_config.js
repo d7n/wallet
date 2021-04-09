@@ -1,1 +1,1 @@
-var mnemonic = "where luggage final either book chronic identify blade sting hunt cliff say";
+var mnemonic = "cancel chest prefer case proud eagle nerve february risk disorder movie funny";

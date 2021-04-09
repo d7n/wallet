@@ -1,1 +1,1 @@
-var mnemonic = "parrot insane follow oxygen monkey festival soda december escape minor junior keen";
+var mnemonic = "lecture latin output ridge visit ancient village area razor ozone resource alley";

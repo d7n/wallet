@@ -1,1 +1,1 @@
-var mnemonic = "evil obvious obey meat chase north level hub problem pony injury analyst";
+var mnemonic = "stairs limb index social wasp fox split expand supply silver cargo behave";

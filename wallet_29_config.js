@@ -1,1 +1,1 @@
-var mnemonic = "region spatial manual naive best throw device pill execute suggest mutual grid";
+var mnemonic = "economy summer popular intact birth lumber fortune cancel atom vicious glow illegal";

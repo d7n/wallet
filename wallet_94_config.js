@@ -1,1 +1,1 @@
-var mnemonic = "valve valve rich round disease alien hammer wisdom deposit state broccoli museum";
+var mnemonic = "track dinner eight vehicle film key raccoon group cannon column advance fabric";

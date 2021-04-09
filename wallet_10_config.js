@@ -1,1 +1,1 @@
-var mnemonic = "oak now fish spider battle hello mansion circle suspect armed cloth route";
+var mnemonic = "employ spoon tail tongue portion young mountain twin where roast step resemble";

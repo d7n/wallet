@@ -1,1 +1,1 @@
-var mnemonic = "style nice system very dial chronic calm tonight awful uncle increase mimic";
+var mnemonic = "cheese train cute dolphin leaf episode blossom rough tilt busy art area";

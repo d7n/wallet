@@ -1,1 +1,1 @@
-var mnemonic = "cage joke embody flock knock keep loan feed sand ask dynamic obey";
+var mnemonic = "miss steel video inhale autumn crew rigid potato follow river solve genuine";

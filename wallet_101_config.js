@@ -1,1 +1,1 @@
-var mnemonic = "fish mail town knee enjoy vast affair scheme crisp donor expose silent";
+var mnemonic = "blind degree genuine lawn shadow moment one below fix define token nose";

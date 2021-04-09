@@ -1,1 +1,1 @@
-var mnemonic = "monkey vapor museum polar tomato hidden wash image among mad narrow strike";
+var mnemonic = "attack sun tragic rely solar asset merit wash endless file diet addict";

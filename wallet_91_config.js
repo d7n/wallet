@@ -1,1 +1,1 @@
-var mnemonic = "elite forward vicious panda tent dress ship spider damp axis toe advance";
+var mnemonic = "common face decide permit tag mistake begin similar tray tool used donate";

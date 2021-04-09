@@ -1,1 +1,1 @@
-var mnemonic = "sentence salt orphan record forum swift reward possible depth diet whisper entire";
+var mnemonic = "distance width convince paddle bamboo earth replace example sugar laugh notable smile";

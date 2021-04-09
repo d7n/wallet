@@ -1,1 +1,1 @@
-var mnemonic = "neutral magnet zebra pulse sail outer bind voice hold found tobacco lazy";
+var mnemonic = "learn example supreme nut flight like track zebra noodle know bright mimic";

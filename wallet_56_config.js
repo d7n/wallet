@@ -1,1 +1,1 @@
-var mnemonic = "express alien game soldier point novel cancel sister garbage rural fatal book";
+var mnemonic = "remain blouse beyond announce lava junior nurse garden deposit plunge install tip";

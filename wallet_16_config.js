@@ -1,1 +1,1 @@
-var mnemonic = "wrong congress goose nut tiger primary hunt camp child phone smart wreck";
+var mnemonic = "toilet kidney leave grief express boat acquire gap brief absent reject syrup";

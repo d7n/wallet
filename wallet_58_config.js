@@ -1,1 +1,1 @@
-var mnemonic = "doll giggle wink fruit peasant electric demand consider cute remind carpet rain";
+var mnemonic = "very priority oblige cable police wonder dry message cabin boss deer defy";

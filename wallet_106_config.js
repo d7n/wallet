@@ -1,1 +1,1 @@
-var mnemonic = "swallow mixed strategy ignore regular round crazy usual cat guilt domain saddle";
+var mnemonic = "follow wrist unit coconut thumb sea legal yard junk farm conduct art";

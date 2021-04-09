@@ -1,1 +1,1 @@
-var mnemonic = "proud lion globe return stairs blue yellow item range prize primary bounce";
+var mnemonic = "business grass stumble lion essay nature modify used future impact pudding stairs";

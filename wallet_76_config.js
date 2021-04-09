@@ -1,1 +1,1 @@
-var mnemonic = "fresh phrase object park thrive believe virus daughter muscle athlete thrive peanut";
+var mnemonic = "salad total opinion gentle knife broom broccoli will squeeze bright solve shine";

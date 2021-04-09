@@ -1,1 +1,1 @@
-var mnemonic = "put west plunge sense oxygen afraid stamp wheat auction eyebrow february choice";
+var mnemonic = "kit chair wasp govern document grab sea notice shock wheel chat rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse chicken lonely gloom since era prevent example actor useful daughter decline";
+var mnemonic = "club piano put tip book sample morning slight romance magic mom hint";

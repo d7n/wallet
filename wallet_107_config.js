@@ -1,1 +1,1 @@
-var mnemonic = "drift cover novel change turtle mail sniff cave sausage concert hungry unique";
+var mnemonic = "pottery cash cloth elbow prefer music mad force step snake engine recall";

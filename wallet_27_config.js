@@ -1,1 +1,1 @@
-var mnemonic = "forum eager announce nice drama erode harsh keen bachelor world boy peasant";
+var mnemonic = "solid exercise buzz credit attract mask resource wage damage angry typical prison";

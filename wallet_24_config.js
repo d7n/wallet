@@ -1,1 +1,1 @@
-var mnemonic = "travel rent gentle celery rack strong conduct blur frog electric razor shy";
+var mnemonic = "raw release answer wagon busy version lemon truck umbrella erosion again grape";
