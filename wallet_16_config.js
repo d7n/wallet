@@ -1,1 +1,1 @@
-var mnemonic = "chalk crush scrap symbol tone together hip gossip crash glory mandate sing";
+var mnemonic = "salmon correct kidney unknown trumpet bicycle village arm together trap steel crawl";

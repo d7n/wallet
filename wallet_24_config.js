@@ -1,1 +1,1 @@
-var mnemonic = "artefact there country square dilemma crater evoke panic spirit nature grape stem";
+var mnemonic = "local chuckle student quantum monster shed radio update stereo virus dilemma novel";

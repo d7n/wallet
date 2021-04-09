@@ -1,1 +1,1 @@
-var mnemonic = "game bacon feature walk spell thumb hand carry parade talk squirrel ritual";
+var mnemonic = "snow bulb deposit angry warfare odor stereo bundle acoustic skill heavy elbow";

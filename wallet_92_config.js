@@ -1,1 +1,1 @@
-var mnemonic = "farm brand decrease cushion tilt note border frost multiply bullet cluster game";
+var mnemonic = "manage hip meat crawl anger cement barely banana rotate swallow total salad";

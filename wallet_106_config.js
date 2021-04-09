@@ -1,1 +1,1 @@
-var mnemonic = "bean excuse sport witness erupt salt honey purse bird deputy hidden evil";
+var mnemonic = "badge purpose negative globe satoshi smart twist wrestle song reward follow snack";

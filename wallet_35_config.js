@@ -1,1 +1,1 @@
-var mnemonic = "afraid swarm vehicle message churn view umbrella response rate sphere clerk pipe";
+var mnemonic = "scale exclude crumble gate neglect shallow behind spend ginger hollow turkey half";

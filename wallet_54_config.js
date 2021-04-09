@@ -1,1 +1,1 @@
-var mnemonic = "enjoy angry unit hill tumble life install intact square evidence connect arch";
+var mnemonic = "melt mechanic skill nominee defy private exit loud share clever arrow fall";

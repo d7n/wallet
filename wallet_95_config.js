@@ -1,1 +1,1 @@
-var mnemonic = "celery beyond any link raccoon amazing volume uniform slice bridge pepper fantasy";
+var mnemonic = "fat busy symbol board neither bitter engine near tone doctor impulse real";

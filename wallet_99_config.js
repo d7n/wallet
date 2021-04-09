@@ -1,1 +1,1 @@
-var mnemonic = "awesome saddle federal power quality garment pistol crumble hunt book nephew accident";
+var mnemonic = "text enter rookie onion expect small biology taxi march deposit tackle gift";

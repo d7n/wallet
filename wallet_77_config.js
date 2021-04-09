@@ -1,1 +1,1 @@
-var mnemonic = "edit april response expect salute render fantasy scare high upon picnic unknown";
+var mnemonic = "sweet chuckle category orphan retreat potato rug shadow monitor domain input wage";

@@ -1,1 +1,1 @@
-var mnemonic = "tube trouble human flip call ceiling salad motion kangaroo session margin pulp";
+var mnemonic = "brain any harsh dash shrug shock front earth visual raw immense phrase";

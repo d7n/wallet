@@ -1,1 +1,1 @@
-var mnemonic = "hockey insect discover gap garlic hockey truth excuse surge act squirrel festival";
+var mnemonic = "immune kidney reward venture scene absurd crunch roof vintage bomb absorb tired";

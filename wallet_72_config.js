@@ -1,1 +1,1 @@
-var mnemonic = "world chimney chapter sorry praise eager today royal empty find direct cup";
+var mnemonic = "limb gravity because desert army erosion execute bird wasp maximum reduce woman";

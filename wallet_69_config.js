@@ -1,1 +1,1 @@
-var mnemonic = "sniff patch keep shell exhaust ring trial call leopard advance dry cream";
+var mnemonic = "pottery addict surprise couch witness wheat toast year stumble fortune sustain stick";

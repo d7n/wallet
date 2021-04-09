@@ -1,1 +1,1 @@
-var mnemonic = "when dune swear crush purpose antique fox unique rapid blossom tornado labor";
+var mnemonic = "marble rebel search fortune card usage crash say scorpion depend crisp special";

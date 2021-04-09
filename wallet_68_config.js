@@ -1,1 +1,1 @@
-var mnemonic = "local split finish three bright shiver raw key bike dry random reform";
+var mnemonic = "canvas keep vocal room upon jump festival legend ridge affair crisp bright";

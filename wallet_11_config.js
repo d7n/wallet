@@ -1,1 +1,1 @@
-var mnemonic = "amount insane parade confirm afraid shoulder relief uncover mountain black razor eye";
+var mnemonic = "version bench ivory high famous erode recipe rival over piece enroll cake";

@@ -1,1 +1,1 @@
-var mnemonic = "true open design clump survey river cream squeeze badge mule either number";
+var mnemonic = "nominee turkey novel become shy dolphin exhaust hood you moon concert book";

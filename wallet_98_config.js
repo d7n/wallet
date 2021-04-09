@@ -1,1 +1,1 @@
-var mnemonic = "shove image fork fever lemon fossil doll extend dry proud pitch ecology";
+var mnemonic = "rug time allow grunt embody find sick please pool detail mass jeans";

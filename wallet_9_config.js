@@ -1,1 +1,1 @@
-var mnemonic = "pluck approve item already boss demise cotton story sorry ball west sadness";
+var mnemonic = "mail sunset betray head benefit author east sibling desert today old stairs";

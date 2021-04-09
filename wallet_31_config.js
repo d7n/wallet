@@ -1,1 +1,1 @@
-var mnemonic = "shoe giraffe once ladder tail never unusual burger disagree vacuum faint scatter";
+var mnemonic = "lift adult when endless memory list aspect economy amazing miss exclude text";

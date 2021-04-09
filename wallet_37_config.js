@@ -1,1 +1,1 @@
-var mnemonic = "poverty pizza arena empower quit real picture sentence deal final swallow hard";
+var mnemonic = "acoustic bacon credit naive case hunt excuse dilemma license fury pole solid";

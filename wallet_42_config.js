@@ -1,1 +1,1 @@
-var mnemonic = "spirit bracket melt mushroom box grab enrich step birth wolf leave nut";
+var mnemonic = "alone burst miss travel nuclear depart wage stem gap sunset hip rally";

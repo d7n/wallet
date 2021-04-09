@@ -1,1 +1,1 @@
-var mnemonic = "peanut sweet random echo language prefer light raise lawsuit field limb cover";
+var mnemonic = "drama sibling super now pass lucky cargo subway fiber again surround stuff";

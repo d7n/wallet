@@ -1,1 +1,1 @@
-var mnemonic = "rescue chronic oak what youth just valid found daring inner measure weapon";
+var mnemonic = "boring crime alter swear begin fence fix patient fever menu fog knock";

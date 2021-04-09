@@ -1,1 +1,1 @@
-var mnemonic = "stock board ancient muffin town bulb found arena gospel credit frog tell";
+var mnemonic = "vendor prepare make duty swarm loop able nut turtle saddle axis table";

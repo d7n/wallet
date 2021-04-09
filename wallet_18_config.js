@@ -1,1 +1,1 @@
-var mnemonic = "useless ensure into reveal valid cave invest wisdom million extra zone midnight";
+var mnemonic = "regular annual shiver sport private mixture excuse chronic dad then rival pet";

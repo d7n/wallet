@@ -1,1 +1,1 @@
-var mnemonic = "often brief creek shrug enhance category rural game magic garbage battle album";
+var mnemonic = "what trial refuse dash total scissors office harsh ill forum attack delay";

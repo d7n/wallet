@@ -1,1 +1,1 @@
-var mnemonic = "bacon prefer kid pet wheat parade quick fame rookie ready consider tomato";
+var mnemonic = "future receive female emerge bounce wide federal sorry core time spray pattern";

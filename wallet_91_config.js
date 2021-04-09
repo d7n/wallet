@@ -1,1 +1,1 @@
-var mnemonic = "pig initial various loud kitchen hello between silver tonight disagree task coral";
+var mnemonic = "hockey oppose occur february labor depth member deal lunch spend ask keep";

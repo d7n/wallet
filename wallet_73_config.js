@@ -1,1 +1,1 @@
-var mnemonic = "school siren gospel author bread cabin step noise sword waste trip supply";
+var mnemonic = "pause celery club sister abandon net three basic nothing evoke tourist hawk";

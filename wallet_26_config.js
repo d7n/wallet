@@ -1,1 +1,1 @@
-var mnemonic = "scrub hospital coach kitchen orient copper album certain spin wheel devote expose";
+var mnemonic = "endorse entry remain purpose photo border across dynamic weekend large cotton coconut";

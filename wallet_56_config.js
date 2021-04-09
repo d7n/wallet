@@ -1,1 +1,1 @@
-var mnemonic = "night wash already chaos call wonder remain struggle pride aunt deal permit";
+var mnemonic = "course economy stay science page review that finger wife skill middle lawsuit";

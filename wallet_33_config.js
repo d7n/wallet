@@ -1,1 +1,1 @@
-var mnemonic = "canyon assault genre law pupil lemon glue act book snack maid horse";
+var mnemonic = "banana occur mesh venture rocket grit fancy palm risk ahead razor angry";

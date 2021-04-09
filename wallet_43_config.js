@@ -1,1 +1,1 @@
-var mnemonic = "ring miss salt sudden cheese vast maple walk flavor tip stomach dog";
+var mnemonic = "earth feel maid wait cycle fog exile country wish nothing bachelor lawn";

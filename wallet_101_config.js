@@ -1,1 +1,1 @@
-var mnemonic = "ripple attract picture pen excuse dash impact voyage patrol net black idea";
+var mnemonic = "grunt space suggest once tongue melody obscure neutral material loan tank mask";

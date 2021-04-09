@@ -1,1 +1,1 @@
-var mnemonic = "deny boost involve size elite holiday royal claw horn master prevent divorce";
+var mnemonic = "census useless celery glass axis coconut side order fade entire scissors couch";

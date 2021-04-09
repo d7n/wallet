@@ -1,1 +1,1 @@
-var mnemonic = "snack industry empower brush output raven child jump apart health decide resemble";
+var mnemonic = "few joy affair grain chat lady cry baby supreme tiger crater slow";

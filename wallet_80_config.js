@@ -1,1 +1,1 @@
-var mnemonic = "acid bulk hood neither such genre ship winter kite capital novel sudden";
+var mnemonic = "protect will gaze comfort powder try transfer write suit return market tank";

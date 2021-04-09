@@ -1,1 +1,1 @@
-var mnemonic = "base gossip result alley tornado panel dice oak annual element trust crumble";
+var mnemonic = "simple impose scene unlock again smile accuse remind hundred call work grow";

@@ -1,1 +1,1 @@
-var mnemonic = "grass strike skull question accuse trip ugly vital shell repeat donkey that";
+var mnemonic = "random blouse aim dutch become bronze wait enrich clean tortoise balance robust";

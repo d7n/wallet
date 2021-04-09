@@ -1,1 +1,1 @@
-var mnemonic = "lab force genre wrap choice ticket cheese lobster solution saddle attract invest";
+var mnemonic = "parent cigar winter truly moral treat barrel book neglect hybrid athlete embrace";

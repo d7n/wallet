@@ -1,1 +1,1 @@
-var mnemonic = "decade exhibit icon magic asset summer afford design narrow earn there camera";
+var mnemonic = "fault couple dream sign rely lunar scatter depart air borrow fox topic";

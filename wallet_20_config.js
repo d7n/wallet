@@ -1,1 +1,1 @@
-var mnemonic = "apology license leisure awake twin brass memory there catch capable opinion sense";
+var mnemonic = "august describe piece same inhale finger attend possible giraffe opera inhale submit";

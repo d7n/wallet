@@ -1,1 +1,1 @@
-var mnemonic = "inject hurry garbage nephew artwork report erode remove soldier need link reopen";
+var mnemonic = "palm captain major shiver maze erode drink space head paper rubber inmate";

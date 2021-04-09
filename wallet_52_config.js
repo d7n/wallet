@@ -1,1 +1,1 @@
-var mnemonic = "salad stable wide resist square ritual blast vendor forward under enforce awkward";
+var mnemonic = "crystal kid penalty jaguar please elegant curtain require balance myth during waste";

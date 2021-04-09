@@ -1,1 +1,1 @@
-var mnemonic = "opera honey quick isolate mask genuine pool describe laundry sad shock much";
+var mnemonic = "awesome tray mango what garlic seat live belt predict net bitter thunder";

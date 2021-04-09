@@ -1,1 +1,1 @@
-var mnemonic = "pond trim april system spell approve satoshi radar fence diamond pull lottery";
+var mnemonic = "mutual symbol leopard just away wool keen ball easily dove number lecture";

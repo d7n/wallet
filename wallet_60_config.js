@@ -1,1 +1,1 @@
-var mnemonic = "easy metal special velvet deny current slam horse pave regular actress cigar";
+var mnemonic = "submit rescue sustain sample fiscal badge castle mass sniff cherry abstract zone";

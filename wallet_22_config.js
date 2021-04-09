@@ -1,1 +1,1 @@
-var mnemonic = "expose busy broccoli hidden vicious retire medal ostrich slot busy century glimpse";
+var mnemonic = "ritual blouse fix north curve save crowd power tackle drive donate year";

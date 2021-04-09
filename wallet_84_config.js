@@ -1,1 +1,1 @@
-var mnemonic = "ankle couple movie attend electric drum cream runway mechanic mistake cart wrestle";
+var mnemonic = "orient humble mystery awesome correct hair wish scorpion rent private gauge misery";

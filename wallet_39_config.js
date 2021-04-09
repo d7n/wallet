@@ -1,1 +1,1 @@
-var mnemonic = "test subway curtain grape harvest void lion crystal artwork negative recycle auction";
+var mnemonic = "during service giraffe face scan devote jar asthma impose genius valve rib";

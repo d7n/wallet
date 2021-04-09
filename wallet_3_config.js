@@ -1,1 +1,1 @@
-var mnemonic = "carbon enlist vintage sketch ivory parent drive attract drink arrow giggle blind";
+var mnemonic = "destroy way test wash night unveil super exit early hawk other awful";

@@ -1,1 +1,1 @@
-var mnemonic = "demise charge box milk water merry solar vote filter mercy mixed garbage";
+var mnemonic = "armor bird detail legend include wing bike captain glance giant reopen act";

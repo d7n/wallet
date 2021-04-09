@@ -1,1 +1,1 @@
-var mnemonic = "magic result bachelor split fault flash slide demise sail hundred cruise puzzle";
+var mnemonic = "skirt wheel increase budget undo female lounge wolf vote wonder frame time";

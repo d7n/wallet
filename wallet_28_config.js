@@ -1,1 +1,1 @@
-var mnemonic = "credit shuffle delay cereal milk mansion swarm board pig mystery cream taste";
+var mnemonic = "boy dirt winner under ensure short fortune display chuckle garlic banner share";

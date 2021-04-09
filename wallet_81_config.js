@@ -1,1 +1,1 @@
-var mnemonic = "visit business brief hint common exile luggage salad dune fish moral flower";
+var mnemonic = "copper cover dutch result canyon later almost used inhale tent shoe daughter";

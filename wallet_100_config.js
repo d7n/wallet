@@ -1,1 +1,1 @@
-var mnemonic = "mansion forest pause address absurd object robot urge fine settle like deliver";
+var mnemonic = "nuclear mask clown purse decrease child action museum runway unknown fork debris";

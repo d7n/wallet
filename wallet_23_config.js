@@ -1,1 +1,1 @@
-var mnemonic = "toy depart eye between hour march cycle prefer neutral rocket miss learn";
+var mnemonic = "smooth robust mother young replace spirit then kitchen member seat top path";

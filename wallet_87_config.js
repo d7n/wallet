@@ -1,1 +1,1 @@
-var mnemonic = "mad hunt category dizzy iron stick negative blood smart since mean purchase";
+var mnemonic = "auto rib panther arrive federal describe face chase bench cliff address capable";

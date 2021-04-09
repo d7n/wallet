@@ -1,1 +1,1 @@
-var mnemonic = "shy spend agent walk all gloom inject refuse grab earth curious helmet";
+var mnemonic = "violin puppy elite novel meat candy stem neutral soft dune shy grain";

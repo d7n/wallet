@@ -1,1 +1,1 @@
-var mnemonic = "vocal donate treat armed joke universe begin pole used treat crime silver";
+var mnemonic = "surge rude gym despair grief raven stable argue cabin piece voice word";

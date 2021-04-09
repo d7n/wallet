@@ -1,1 +1,1 @@
-var mnemonic = "meat bronze tank royal february news credit fuel then mirror monkey crazy";
+var mnemonic = "bracket jaguar swim swear physical clog alien drum bike merry pause famous";

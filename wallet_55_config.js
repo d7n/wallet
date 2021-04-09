@@ -1,1 +1,1 @@
-var mnemonic = "afford element giant exit bread steak consider dust flag piano diary patient";
+var mnemonic = "used idle language food climb flat lock when hint average motion inside";

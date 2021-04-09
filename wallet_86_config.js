@@ -1,1 +1,1 @@
-var mnemonic = "antenna length club valve search toast denial cry sad tomorrow dragon hello";
+var mnemonic = "once message crater advice universe donate shine click inspire soldier explain blue";

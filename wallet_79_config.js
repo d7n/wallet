@@ -1,1 +1,1 @@
-var mnemonic = "surprise sing shop flower pudding shrimp slab good craft industry height void";
+var mnemonic = "make used cloud track delay recycle cheese cheese dial uniform wrestle flee";

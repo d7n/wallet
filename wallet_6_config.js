@@ -1,1 +1,1 @@
-var mnemonic = "board wife journey sing violin cancel vague sword curious usage master capable";
+var mnemonic = "dream humor check ahead fresh vote field bitter asthma flee donate submit";

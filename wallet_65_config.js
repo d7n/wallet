@@ -1,1 +1,1 @@
-var mnemonic = "become uphold suggest talk beyond debate despair phrase dynamic amateur exact concert";
+var mnemonic = "pen light venue arrange pencil silly depart snow chimney upon junior firm";

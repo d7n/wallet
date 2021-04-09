@@ -1,1 +1,1 @@
-var mnemonic = "own have collect sound shoot spice volcano pull next blouse portion cruise";
+var mnemonic = "leader radar resist sock satisfy luggage parrot wrong clog fan plastic orange";

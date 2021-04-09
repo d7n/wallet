@@ -1,1 +1,1 @@
-var mnemonic = "limb local runway potato chapter sudden power member stable carry water cost";
+var mnemonic = "poet control hazard photo jazz where distance pluck enemy entire giggle final";

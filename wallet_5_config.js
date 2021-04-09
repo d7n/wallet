@@ -1,1 +1,1 @@
-var mnemonic = "clip afraid unique faculty evoke sport twist brand sphere area umbrella casual";
+var mnemonic = "attitude trumpet dice change stamp property bachelor scrap pattern favorite excite slab";

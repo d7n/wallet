@@ -1,1 +1,1 @@
-var mnemonic = "spread sausage oblige sock auction journey drift balcony battle reopen visual innocent";
+var mnemonic = "jar boat pizza gun slide glance venture dinosaur focus rigid clip coil";

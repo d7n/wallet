@@ -1,1 +1,1 @@
-var mnemonic = "roof rhythm arch cattle tray correct wrong enough denial acquire industry hidden";
+var mnemonic = "ticket knee wet derive gloom dog famous obscure model sock stand benefit";

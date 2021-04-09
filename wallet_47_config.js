@@ -1,1 +1,1 @@
-var mnemonic = "bulb staff distance powder prosper already benefit surge absurd click dragon enter";
+var mnemonic = "sound reject lounge satoshi anxiety family tenant smooth behave salute film switch";

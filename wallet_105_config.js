@@ -1,1 +1,1 @@
-var mnemonic = "endorse inhale subject spot style found between hurt model trap miracle luggage";
+var mnemonic = "task junk injury guilt life dice catch kick moral wage robot small";

@@ -1,1 +1,1 @@
-var mnemonic = "silent rail oval casino caught sponsor unable book woman maze enjoy orient";
+var mnemonic = "business relief tuition rich hundred soul remember alley fence visual mistake merge";

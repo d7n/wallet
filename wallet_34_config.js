@@ -1,1 +1,1 @@
-var mnemonic = "wage case return view fuel devote despair erosion climb update lecture guard";
+var mnemonic = "tiger eagle balance galaxy amused ice summer latin soap gas lift aerobic";

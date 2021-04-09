@@ -1,1 +1,1 @@
-var mnemonic = "stage inflict teach tell speed shrimp supply copy coyote unknown parrot bicycle";
+var mnemonic = "boat roof glow champion run cook black tired rate unfold dad dish";

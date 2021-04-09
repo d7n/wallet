@@ -1,1 +1,1 @@
-var mnemonic = "example crack arrow sweet praise defense bacon ripple genuine hurry embark city";
+var mnemonic = "gossip snack script symbol bread alcohol struggle dose despair kind mosquito like";

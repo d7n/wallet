@@ -1,1 +1,1 @@
-var mnemonic = "velvet defense group injury amount shiver napkin music lion undo grit casino";
+var mnemonic = "note trial desk impose aerobic lock race boil have right sock envelope";

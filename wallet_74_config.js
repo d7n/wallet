@@ -1,1 +1,1 @@
-var mnemonic = "glare tackle purse razor alcohol expect mosquito need capital hero human museum";
+var mnemonic = "chair flash blood ship copy tent danger remind maid ride display payment";

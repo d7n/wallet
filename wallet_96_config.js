@@ -1,1 +1,1 @@
-var mnemonic = "phrase loop control diamond dream pony milk cinnamon sunset tumble nerve detect";
+var mnemonic = "input hunt bleak cliff weekend biology vital relax pudding bring polar loud";

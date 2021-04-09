@@ -1,1 +1,1 @@
-var mnemonic = "tray present random bench canoe exchange camera evidence ordinary pear input choice";
+var mnemonic = "pilot escape salad wedding chicken confirm olive between analyst citizen face lesson";

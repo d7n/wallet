@@ -1,1 +1,1 @@
-var mnemonic = "fence essay domain faculty plunge unique kitten blue lonely library deer acquire";
+var mnemonic = "repair era emerge pretty drip trial farm size borrow style sound taxi";

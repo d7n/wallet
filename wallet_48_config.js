@@ -1,1 +1,1 @@
-var mnemonic = "phrase scare social furnace answer extra ordinary light hamster consider water evil";
+var mnemonic = "sauce hair steel fiber tone dumb actual neck focus wrap couch pepper";

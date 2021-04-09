@@ -1,1 +1,1 @@
-var mnemonic = "option describe stomach engage future holiday grain woman health lady favorite act";
+var mnemonic = "dragon front double sure couple speak guide vanish stool catch suggest cream";

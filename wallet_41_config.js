@@ -1,1 +1,1 @@
-var mnemonic = "wood voyage gap always trophy curve gentle emotion invite gather ice paper";
+var mnemonic = "zoo palace feature convince bacon prefer pluck loan rely warrior deal arrest";

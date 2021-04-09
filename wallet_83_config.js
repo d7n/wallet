@@ -1,1 +1,1 @@
-var mnemonic = "soul dragon sock barely steel mutual reason spider school inform choose raw";
+var mnemonic = "fashion actress citizen shoe advice sting guide business bubble light enter lecture";
