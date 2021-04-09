@@ -1,1 +1,1 @@
-var mnemonic = "film relax castle chalk among include message rice boost excess helmet absurd";
+var mnemonic = "zone alcohol pottery anger version notable fatigue make adapt survey sketch true";

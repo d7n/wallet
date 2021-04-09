@@ -1,1 +1,1 @@
-var mnemonic = "garment warrior differ output verify dentist where life flush pear sad family";
+var mnemonic = "action text juice old tired crop pear settle head spawn since refuse";

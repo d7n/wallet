@@ -1,1 +1,1 @@
-var mnemonic = "observe flush toe love wine hamster winner soup basic attitude easy recipe";
+var mnemonic = "guess stereo summer iron party urban rival rubber mass upon oblige object";

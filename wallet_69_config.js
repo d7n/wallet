@@ -1,1 +1,1 @@
-var mnemonic = "shaft secret sheriff mandate sun rude mimic bag clever water any yellow";
+var mnemonic = "sweet chef hospital elegant sock female leader front pool kite shock fury";

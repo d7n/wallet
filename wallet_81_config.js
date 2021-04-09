@@ -1,1 +1,1 @@
-var mnemonic = "siren smile forest immense disagree shop digital sand hockey valley ivory decide";
+var mnemonic = "shed problem liar discover step journey distance message omit broccoli lemon alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "keep avocado jeans uniform priority acquire notice column ivory few release ritual";
+var mnemonic = "age program float click culture result timber divorce royal duck column write";

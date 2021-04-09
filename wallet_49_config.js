@@ -1,1 +1,1 @@
-var mnemonic = "cherry shrug patient smile bottom miracle mosquito page clog panic entire federal";
+var mnemonic = "elevator lesson over crumble filter two era toy grain advance super chef";

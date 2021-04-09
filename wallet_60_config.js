@@ -1,1 +1,1 @@
-var mnemonic = "leg kidney mind divide omit diary diary jump tennis narrow reveal pig";
+var mnemonic = "lucky ancient valley uniform kick pluck curve fox spike spend flash route";

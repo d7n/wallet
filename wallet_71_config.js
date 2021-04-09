@@ -1,1 +1,1 @@
-var mnemonic = "planet abstract cash castle orchard true ladder price paddle calm style prepare";
+var mnemonic = "render legend talk warrior night call trash bargain address innocent breeze pyramid";

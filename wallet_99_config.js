@@ -1,1 +1,1 @@
-var mnemonic = "rapid derive taxi lift unit main now client agent pumpkin clarify topic";
+var mnemonic = "ability crawl insane security shy opinion drum stumble stem feed hockey endless";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp range dream seat head sheriff luggage risk tissue loud face run";
+var mnemonic = "olympic very issue kind system extend tail almost great bronze luxury wool";

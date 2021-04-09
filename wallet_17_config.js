@@ -1,1 +1,1 @@
-var mnemonic = "person little pilot few mystery aware frame enact benefit mule together course";
+var mnemonic = "creek cinnamon tilt drift verb bind sugar love injury gown pink curious";

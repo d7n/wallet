@@ -1,1 +1,1 @@
-var mnemonic = "wise tobacco thrive guitar arm pelican say envelope laundry lazy fog labor";
+var mnemonic = "primary vault key busy lion text attend alley exact add shadow skull";

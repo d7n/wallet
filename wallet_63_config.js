@@ -1,1 +1,1 @@
-var mnemonic = "song edge glare tourist utility cabin style despair ticket garlic media salon";
+var mnemonic = "ask frog silent bracket shrug drive reason light tortoise rose risk merry";

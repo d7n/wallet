@@ -1,1 +1,1 @@
-var mnemonic = "ketchup vault scan protect crater benefit ramp waste sponsor alter laundry cheap";
+var mnemonic = "chunk sentence urban chuckle try biology net decline animal release frog explain";

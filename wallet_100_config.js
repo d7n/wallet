@@ -1,1 +1,1 @@
-var mnemonic = "reveal eternal kitchen tube best birth client above rude night note above";
+var mnemonic = "april equip object stable clever ribbon special shed prepare mansion safe wet";

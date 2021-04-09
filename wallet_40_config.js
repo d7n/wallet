@@ -1,1 +1,1 @@
-var mnemonic = "proud creek genuine collect math chef auto lonely review buddy cheap crew";
+var mnemonic = "ride whale curve toss agree royal meadow empty monster lottery refuse helmet";

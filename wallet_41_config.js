@@ -1,1 +1,1 @@
-var mnemonic = "toe alone offer simple cycle social spin south busy burst aunt toddler";
+var mnemonic = "claw elevator sister machine funny connect scatter bean also scan protect pole";

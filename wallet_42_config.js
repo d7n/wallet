@@ -1,1 +1,1 @@
-var mnemonic = "fence shiver artist negative diamond manual reject payment retire silver peanut heavy";
+var mnemonic = "submit misery aware favorite kingdom diagram copper caught state bulb claw prevent";

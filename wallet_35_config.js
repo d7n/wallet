@@ -1,1 +1,1 @@
-var mnemonic = "replace opera right aim solution garment broccoli exact sail deal poem expand";
+var mnemonic = "horn witness allow employ canvas exit nose sauce voyage dog erase grape";

@@ -1,1 +1,1 @@
-var mnemonic = "force fiber wasp carbon antenna quantum quick forward brand risk damage save";
+var mnemonic = "midnight cream noble hobby history favorite uncover knife hood poem annual correct";

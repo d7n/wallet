@@ -1,1 +1,1 @@
-var mnemonic = "edit flight lobster bid charge cupboard stuff program define oval need eight";
+var mnemonic = "mistake jar circle glue afraid hill wing latin initial truly gallery weekend";

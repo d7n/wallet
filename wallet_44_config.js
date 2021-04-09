@@ -1,1 +1,1 @@
-var mnemonic = "coffee hip focus sand stumble crisp trumpet spare service safe twice access";
+var mnemonic = "fringe rescue link deal also topic kidney miracle lab scare claim depth";

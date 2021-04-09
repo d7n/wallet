@@ -1,1 +1,1 @@
-var mnemonic = "dance boy better jar worth toilet jump bracket alert suspect lottery family";
+var mnemonic = "palace modify kitten approve prize practice divert flip educate pretty grace protect";

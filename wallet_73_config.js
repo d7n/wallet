@@ -1,1 +1,1 @@
-var mnemonic = "lucky scrub suspect sister young joy popular update escape giraffe relief round";
+var mnemonic = "swallow grain tobacco fever add sell lawsuit organ model clean social caught";

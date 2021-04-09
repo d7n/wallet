@@ -1,1 +1,1 @@
-var mnemonic = "scheme mistake summer stadium have exhibit patient snap doctor step logic observe";
+var mnemonic = "dismiss between adult social wasp rabbit adult social eight raven unique lazy";

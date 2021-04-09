@@ -1,1 +1,1 @@
-var mnemonic = "merry purse explain scare forget come shy tank waste hurry quantum tornado";
+var mnemonic = "please arena walnut route level vacuum pole phone stable all huge area";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke mutual hurry vibrant warrior mobile blood seed level foam client divorce";
+var mnemonic = "lion blanket half close relief carry express chef glass steel more mass";

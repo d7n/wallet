@@ -1,1 +1,1 @@
-var mnemonic = "crunch lemon try want sorry surprise magnet position best vault transfer merge";
+var mnemonic = "tent bright notice begin stomach canoe basic pizza chase mansion rice merge";

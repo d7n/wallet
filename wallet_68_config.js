@@ -1,1 +1,1 @@
-var mnemonic = "under indoor wash garden gesture topic milk flower time language liar dash";
+var mnemonic = "leaf voyage genre rigid diamond weather source about basic tag heart link";

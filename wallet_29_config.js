@@ -1,1 +1,1 @@
-var mnemonic = "junior mansion fix assault stuff swing notable expire music host shoe talk";
+var mnemonic = "stove candy heavy blanket scissors play size dad lab trap mimic camp";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch innocent gallery napkin reform soda mushroom slogan wolf cabin cotton vicious";
+var mnemonic = "nothing success slender make accident gaze horror elevator coconut bus one opinion";

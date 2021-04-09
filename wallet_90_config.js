@@ -1,1 +1,1 @@
-var mnemonic = "trade public coconut save choose unit public execute mansion message just puppy";
+var mnemonic = "future exchange exotic panda nature hero glove depth regret street key benefit";

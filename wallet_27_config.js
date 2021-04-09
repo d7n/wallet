@@ -1,1 +1,1 @@
-var mnemonic = "device recycle cook notice record van pitch ski adapt image sugar best";
+var mnemonic = "chef under local alert pond sunset leave bless task salt furnace wrap";

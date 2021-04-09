@@ -1,1 +1,1 @@
-var mnemonic = "name clarify alpha reject symbol error moment discover candy tomorrow index park";
+var mnemonic = "fish valve satoshi genuine best little armed pet disagree famous same color";

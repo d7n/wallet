@@ -1,1 +1,1 @@
-var mnemonic = "poet tower renew place jump reason curious ignore note suit cannon text";
+var mnemonic = "extend toss venture six capable bring earn luxury awesome clump noise pet";

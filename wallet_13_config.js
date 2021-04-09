@@ -1,1 +1,1 @@
-var mnemonic = "canvas when horror cattle cart elegant choose pottery wrap glance repair public";
+var mnemonic = "voyage cliff broccoli often finger random reward symbol legend share river eyebrow";

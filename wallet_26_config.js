@@ -1,1 +1,1 @@
-var mnemonic = "aisle inch slice movie cook jelly helmet grab crumble clutch donkey tonight";
+var mnemonic = "glove noise gallery cannon muffin else rely gap square retire blue torch";

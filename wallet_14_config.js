@@ -1,1 +1,1 @@
-var mnemonic = "scan rabbit rule forest inquiry act ethics clap seat pottery school honey";
+var mnemonic = "misery buzz vast trip shrug excess bundle dumb spider doll slim course";

@@ -1,1 +1,1 @@
-var mnemonic = "hour nature express swear dentist fame dawn pond bronze hour interest tank";
+var mnemonic = "law waste quiz impact safe leave pride upon struggle gloom erosion elder";

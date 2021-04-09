@@ -1,1 +1,1 @@
-var mnemonic = "bounce usual tail matrix horn mule dinosaur exile ketchup balance choose exhibit";
+var mnemonic = "carpet output arrange hospital run run sport cheese naive innocent cruel better";

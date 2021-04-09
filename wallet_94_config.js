@@ -1,1 +1,1 @@
-var mnemonic = "select firm box bundle isolate flag jar field hope echo confirm annual";
+var mnemonic = "apart help axis kangaroo tool alarm face hedgehog curtain host minimum deputy";

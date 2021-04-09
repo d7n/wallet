@@ -1,1 +1,1 @@
-var mnemonic = "clump ring tone half fence choice pony cluster morning popular clutch globe";
+var mnemonic = "amateur focus coach drink burst balcony either educate okay muscle slim all";

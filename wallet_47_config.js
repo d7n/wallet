@@ -1,1 +1,1 @@
-var mnemonic = "blast catalog click thunder circle tree fix coffee scrap dizzy circle dress";
+var mnemonic = "sketch maple range size organ obscure about blanket remove list despair language";

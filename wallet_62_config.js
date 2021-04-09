@@ -1,1 +1,1 @@
-var mnemonic = "rifle crush credit relax wheel correct scene echo try dress shift focus";
+var mnemonic = "rate loud idea coin slender health client correct embrace vote inflict parent";

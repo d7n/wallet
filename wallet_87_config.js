@@ -1,1 +1,1 @@
-var mnemonic = "upon popular wagon rug major thought snow hazard better talk merry achieve";
+var mnemonic = "latin draw armed strike question chef audit question galaxy elite during slide";

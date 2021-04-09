@@ -1,1 +1,1 @@
-var mnemonic = "absorb fortune raw era hold soup any demand tent decrease anchor multiply";
+var mnemonic = "swear bind simple photo rule manage steak security merit breeze elbow valley";

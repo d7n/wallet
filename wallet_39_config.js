@@ -1,1 +1,1 @@
-var mnemonic = "entry maze potato wise bless rather inside harbor stage hard situate video";
+var mnemonic = "double fly rug rally reveal select empty desk bonus wear mosquito camera";

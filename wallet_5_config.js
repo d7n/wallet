@@ -1,1 +1,1 @@
-var mnemonic = "brother trophy fun between champion lion chaos involve predict truth fetch silent";
+var mnemonic = "explain debate ball gentle lawsuit frozen subway office monitor off nature roast";

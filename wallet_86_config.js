@@ -1,1 +1,1 @@
-var mnemonic = "drift problem decorate message zone term coin laugh spring alpha case faith";
+var mnemonic = "junior square wagon cash snake hazard copy flavor truck piano future then";

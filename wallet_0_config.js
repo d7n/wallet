@@ -1,1 +1,1 @@
-var mnemonic = "skill original ability burger skin lounge fiber during emerge also fiction random";
+var mnemonic = "disease about audit muffin stomach popular rescue horse clarify jeans clay tunnel";

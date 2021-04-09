@@ -1,1 +1,1 @@
-var mnemonic = "exercise day icon pause monitor firm escape equip property follow rug trigger";
+var mnemonic = "crush taxi boring treat mouse fluid vacuum awesome much pupil laundry hard";

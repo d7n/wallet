@@ -1,1 +1,1 @@
-var mnemonic = "paddle control they orient nuclear glide daring over vocal credit quarter disagree";
+var mnemonic = "onion learn snap exhibit pottery vessel boil pilot rice baby kitten motion";

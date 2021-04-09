@@ -1,1 +1,1 @@
-var mnemonic = "clutch narrow monitor noodle throw hotel town travel inside traffic earth suggest";
+var mnemonic = "pair fish excite maze canvas rival dance venture spider patient funny physical";

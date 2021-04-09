@@ -1,1 +1,1 @@
-var mnemonic = "sphere inspire turtle dove captain rely strong harbor sell year broken chest";
+var mnemonic = "merry second feature void emotion mix chalk lizard spend leopard oxygen leopard";

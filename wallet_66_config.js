@@ -1,1 +1,1 @@
-var mnemonic = "topic still snow clay celery arrange slam wool tobacco another glance unaware";
+var mnemonic = "cable palace hard wrong deposit ramp book bean seed pig orange congress";

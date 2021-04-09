@@ -1,1 +1,1 @@
-var mnemonic = "borrow coral auto dolphin glance pudding tape grant artist minute near arrow";
+var mnemonic = "slim assume ocean open tissue coral obtain coffee remember auto acoustic plastic";

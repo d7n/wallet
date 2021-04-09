@@ -1,1 +1,1 @@
-var mnemonic = "noble rifle mesh hint setup sad coin bread addict gown bright diagram";
+var mnemonic = "load trap settle rotate leaf add romance solid present inquiry trash error";

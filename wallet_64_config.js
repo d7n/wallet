@@ -1,1 +1,1 @@
-var mnemonic = "throw elegant intact tell length have present bottom change metal timber stove";
+var mnemonic = "swap member absent used memory final exercise warfare crisp maze joke vapor";

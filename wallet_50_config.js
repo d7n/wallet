@@ -1,1 +1,1 @@
-var mnemonic = "shy sell debris run main august home slush orient away undo jar";
+var mnemonic = "rhythm cotton gate art rose mix enroll dolphin tackle giraffe lab man";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer busy border exchange mirror inspire soft giant umbrella rookie curious rice";
+var mnemonic = "pulp defy stomach patient upgrade athlete ability quantum special want sword enforce";

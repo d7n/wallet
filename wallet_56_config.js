@@ -1,1 +1,1 @@
-var mnemonic = "annual chest arch ill entry slice crop key deposit catalog extra target";
+var mnemonic = "dynamic mention cinnamon tower spare solar coin vote false decide ripple lock";

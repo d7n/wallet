@@ -1,1 +1,1 @@
-var mnemonic = "helmet sudden afraid error leaf lamp clarify cry announce jelly mango park";
+var mnemonic = "road employ life execute beach accuse agent joke potato alarm simple kit";

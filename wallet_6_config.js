@@ -1,1 +1,1 @@
-var mnemonic = "slot glory segment actress motor novel collect brisk camp foster cliff phrase";
+var mnemonic = "squirrel outdoor lock polar safe mass antique organ focus lizard solid kind";

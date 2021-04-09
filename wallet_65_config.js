@@ -1,1 +1,1 @@
-var mnemonic = "flower vocal pull arrow soft comfort antenna park punch slight major one";
+var mnemonic = "cream tape purse reunion collect code teach divide elder wagon book genuine";

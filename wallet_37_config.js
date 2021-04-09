@@ -1,1 +1,1 @@
-var mnemonic = "salute pave entry treat permit behind then priority rude legal dilemma super";
+var mnemonic = "paddle fiction glad syrup relief spider earth when zone group scrub squeeze";

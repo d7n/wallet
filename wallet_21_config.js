@@ -1,1 +1,1 @@
-var mnemonic = "pelican cannon scrap shift donkey blame weasel kit scout occur gown sentence";
+var mnemonic = "quick struggle whip light risk arm audit voice erupt today witness orange";

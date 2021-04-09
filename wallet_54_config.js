@@ -1,1 +1,1 @@
-var mnemonic = "bridge core brave horror wrist crack better crisp general tomato oil avocado";
+var mnemonic = "fence glove atom reason flash plunge inject swallow twenty stem laundry curve";

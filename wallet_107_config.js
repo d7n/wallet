@@ -1,1 +1,1 @@
-var mnemonic = "sketch sign survey token discover route gasp settle business aisle gadget reduce";
+var mnemonic = "space glide tissue area east suspect agent knee flock music clinic explain";

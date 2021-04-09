@@ -1,1 +1,1 @@
-var mnemonic = "spell throw obvious cross upset spoon amateur notable clarify course symbol bag";
+var mnemonic = "silver wolf wide project year job fuel senior system improve agree duck";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle riot base paddle demand over trouble scrap urban uniform record rely";
+var mnemonic = "dirt plastic base figure federal cheap success vacant apology energy example danger";

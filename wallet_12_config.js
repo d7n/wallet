@@ -1,1 +1,1 @@
-var mnemonic = "cheese arrive salmon thing prison genius friend absent sport animal stable wrap";
+var mnemonic = "dinner avocado foster typical explain pass critic excess hunt weasel issue track";

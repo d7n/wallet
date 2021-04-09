@@ -1,1 +1,1 @@
-var mnemonic = "melody this hungry logic pole almost object rug like chimney double raccoon";
+var mnemonic = "initial project coconut wealth ugly test clap edit bounce notable lens identify";

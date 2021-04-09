@@ -1,1 +1,1 @@
-var mnemonic = "grape inform rate science door ship weasel pond retire ten economy hollow";
+var mnemonic = "grace point vanish hurdle dismiss half unlock simple spray combine price turkey";

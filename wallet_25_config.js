@@ -1,1 +1,1 @@
-var mnemonic = "stomach retire thank differ lemon oblige vast version year one either earth";
+var mnemonic = "error involve movie bamboo swear mean bicycle benefit fox various hurry egg";

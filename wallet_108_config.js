@@ -1,1 +1,1 @@
-var mnemonic = "train hybrid have bunker believe summer design pottery rabbit cloth series sea";
+var mnemonic = "escape combine movie neither correct ask swift tilt scene lobster menu birth";

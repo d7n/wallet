@@ -1,1 +1,1 @@
-var mnemonic = "fortune size slim size will alter bullet track ecology file ball army";
+var mnemonic = "fold candy cotton language human employ depth grant potato smooth frame exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "cry shaft effort upon airport fruit acquire settle obtain giggle attract more";
+var mnemonic = "join math useful garbage thumb corn helmet limit knee wrist tree defy";

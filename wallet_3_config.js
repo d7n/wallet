@@ -1,1 +1,1 @@
-var mnemonic = "math burden allow cricket maximum virus hello cake scene pulp cloud cabbage";
+var mnemonic = "behind change soul favorite chief shrug sudden cook vintage bronze rail skin";

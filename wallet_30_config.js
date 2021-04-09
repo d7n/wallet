@@ -1,1 +1,1 @@
-var mnemonic = "guitar woman wasp tissue hotel south arrange slender arch laugh leisure skirt";
+var mnemonic = "olive popular chat knock category light waste axis dash pupil main police";

@@ -1,1 +1,1 @@
-var mnemonic = "file buddy divorce movie strike among identify castle soccer album nasty orchard";
+var mnemonic = "evoke habit suggest patrol party capital panel venue dinner access forward smoke";

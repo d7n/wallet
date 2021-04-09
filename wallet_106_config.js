@@ -1,1 +1,1 @@
-var mnemonic = "conduct electric any initial exhaust enable must oppose era income trial bronze";
+var mnemonic = "cover library vivid tell labor save erase grape magic butter donor shop";

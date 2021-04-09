@@ -1,1 +1,1 @@
-var mnemonic = "tortoise enrich must sorry alcohol emerge waste economy such glad mechanic duck";
+var mnemonic = "derive give remember pear lizard street suspect crowd spread pipe slim chronic";

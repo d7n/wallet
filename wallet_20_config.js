@@ -1,1 +1,1 @@
-var mnemonic = "sad horror brand assist movie head image vehicle craft sign shoot rabbit";
+var mnemonic = "chunk hold tattoo language rescue just fetch usage siege income save organ";
