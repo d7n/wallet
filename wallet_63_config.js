@@ -1,1 +1,1 @@
-var mnemonic = "dumb river despair avocado pizza cycle tongue grab tone twelve guilt fall";
+var mnemonic = "idea foam air raw alarm maid lawn result arena badge royal noise";

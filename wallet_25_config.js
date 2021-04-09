@@ -1,1 +1,1 @@
-var mnemonic = "kiss weather tone hold shove exit oil crucial sail input attract upper";
+var mnemonic = "similar tooth cage glad climb actual ginger tag mind walnut capital useless";

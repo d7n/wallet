@@ -1,1 +1,1 @@
-var mnemonic = "run art arctic venture speak audit visual dice moment select merge journey";
+var mnemonic = "gasp inside silver tiger check inner chair destroy virus plate light sentence";

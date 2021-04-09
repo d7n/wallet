@@ -1,1 +1,1 @@
-var mnemonic = "review sample tuition sorry transfer camera defense captain explain pause need make";
+var mnemonic = "prevent lake ignore citizen waste intact among summer during afford tent defense";

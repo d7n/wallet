@@ -1,1 +1,1 @@
-var mnemonic = "point broom boss vibrant dish comfort fringe jelly belt cannon panic rigid";
+var mnemonic = "earn walnut job flight pigeon mammal summer judge seed already bless riot";

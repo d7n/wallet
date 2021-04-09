@@ -1,1 +1,1 @@
-var mnemonic = "unusual palace awful immune simple rhythm shaft thank will grant advice way";
+var mnemonic = "enroll today child door asset enroll rabbit speed switch say topic grab";

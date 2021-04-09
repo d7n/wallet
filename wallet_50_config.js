@@ -1,1 +1,1 @@
-var mnemonic = "air drama dress foster submit oppose chronic damage sauce question crop lunch";
+var mnemonic = "solve royal spike matrix devote top mail virtual frequent client indicate repair";

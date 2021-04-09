@@ -1,1 +1,1 @@
-var mnemonic = "mystery possible giraffe museum rice soda web drive regular shadow young width";
+var mnemonic = "jeans someone green fox airport cause course urban dash dizzy vacuum uniform";

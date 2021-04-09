@@ -1,1 +1,1 @@
-var mnemonic = "fancy afraid skull image mansion already trigger sentence dice outer climb spider";
+var mnemonic = "scatter again total leopard universe sorry anxiety melt example alarm west thumb";

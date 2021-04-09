@@ -1,1 +1,1 @@
-var mnemonic = "blood knock alcohol seven wise lunch two carpet toy illegal gospel cream";
+var mnemonic = "alert side tooth social curious tennis option risk today torch clay animal";

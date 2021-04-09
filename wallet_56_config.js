@@ -1,1 +1,1 @@
-var mnemonic = "until original wedding gorilla vehicle modify craft want pretty trend fragile chalk";
+var mnemonic = "vivid evidence sustain radio merry refuse arena crucial movie govern little draw";

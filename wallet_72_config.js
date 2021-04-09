@@ -1,1 +1,1 @@
-var mnemonic = "found ordinary fiscal enemy hurdle inject swap that pilot minimum trust mirror";
+var mnemonic = "horn explain calm club twice essence owner adult midnight fatal truly prevent";

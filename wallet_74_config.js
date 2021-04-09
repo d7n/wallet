@@ -1,1 +1,1 @@
-var mnemonic = "because stadium void lazy online major egg grocery sleep uncle kiss behave";
+var mnemonic = "champion alien prison discover equal horse siren scheme brain river filter wing";

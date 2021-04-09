@@ -1,1 +1,1 @@
-var mnemonic = "grief aunt weekend endorse label actress category sunset adapt fever adjust chef";
+var mnemonic = "zoo okay jeans account spell region cherry empower antenna token draw fun";

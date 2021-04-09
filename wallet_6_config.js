@@ -1,1 +1,1 @@
-var mnemonic = "key devote lumber sleep income pistol attend three law evil grant neck";
+var mnemonic = "script decide repeat material image general gospel purse ten tape penalty avocado";

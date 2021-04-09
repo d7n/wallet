@@ -1,1 +1,1 @@
-var mnemonic = "flavor trophy aim diary spare explain tribe one two intact water elite";
+var mnemonic = "ramp round clinic appear margin capable oxygen infant stage hurt region never";

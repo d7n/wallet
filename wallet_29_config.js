@@ -1,1 +1,1 @@
-var mnemonic = "toast menu foot wreck side uphold dirt attack tennis mind web play";
+var mnemonic = "curve simple genre rule drastic flash source sight arrive bus double smoke";

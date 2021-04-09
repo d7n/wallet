@@ -1,1 +1,1 @@
-var mnemonic = "search audit talk unfold allow venue where canal chair load resist system";
+var mnemonic = "cup flat peanut assault traffic demand faculty afraid bomb mimic ill slam";

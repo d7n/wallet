@@ -1,1 +1,1 @@
-var mnemonic = "cluster disorder canoe attend limit possible quality skin flush dune family ocean";
+var mnemonic = "medal craft limb ripple laptop shrimp leaf price general arena patrol crumble";

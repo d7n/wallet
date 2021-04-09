@@ -1,1 +1,1 @@
-var mnemonic = "large ivory delay gorilla gasp noodle remove relief note point feed mother";
+var mnemonic = "island artwork palm impulse foam wink detail globe toy situate arrange rigid";

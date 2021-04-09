@@ -1,1 +1,1 @@
-var mnemonic = "armor cattle salon able improve copper depend limb expand grass stereo blame";
+var mnemonic = "common wrestle just will few derive phrase riot pact claim neck same";

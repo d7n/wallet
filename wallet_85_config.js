@@ -1,1 +1,1 @@
-var mnemonic = "keen pupil slight pride economy fabric believe endless melt once guess woman";
+var mnemonic = "helmet useless other humble bicycle session vibrant champion grant observe second army";

@@ -1,1 +1,1 @@
-var mnemonic = "cram mango crash spare opera focus truth joy grow cherry naive mother";
+var mnemonic = "hood frequent eternal void bottom harvest banner direct travel mass bid split";

@@ -1,1 +1,1 @@
-var mnemonic = "call flip ecology cram muffin brick setup frog pelican first struggle coin";
+var mnemonic = "mom cabin tomato rapid cram social review vibrant sound peasant favorite tunnel";

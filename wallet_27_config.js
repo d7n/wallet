@@ -1,1 +1,1 @@
-var mnemonic = "armor skate quarter little slice olive erosion make know season control caution";
+var mnemonic = "around sibling october pumpkin guess middle recycle adult alcohol trip lecture drastic";

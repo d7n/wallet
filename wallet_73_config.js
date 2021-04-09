@@ -1,1 +1,1 @@
-var mnemonic = "ozone render snow island bench orange curious source test next eye uphold";
+var mnemonic = "time lucky start glow rule cinnamon lady romance motor spatial tuition detail";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue attack hole gravity fiction exhibit tennis father coyote open torch hurry";
+var mnemonic = "clarify prepare unknown eternal tape jelly sell dolphin survey tower tell badge";

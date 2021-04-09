@@ -1,1 +1,1 @@
-var mnemonic = "pioneer clutch clever erode suspect define sustain grain evidence possible brush hard";
+var mnemonic = "have oppose choose stomach scale arch south edit champion rookie lawn jeans";

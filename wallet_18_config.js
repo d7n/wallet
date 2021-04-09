@@ -1,1 +1,1 @@
-var mnemonic = "thunder chimney enter potato rack armor mansion devote sound myself resist parent";
+var mnemonic = "glass inflict flock canoe spike vehicle piano glow moment entire track loan";

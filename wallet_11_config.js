@@ -1,1 +1,1 @@
-var mnemonic = "combine unusual grid write valid analyst wonder thank door promote tobacco release";
+var mnemonic = "page solve magnet sun ice else taxi junk power load child avocado";

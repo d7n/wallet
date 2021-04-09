@@ -1,1 +1,1 @@
-var mnemonic = "bargain junk crisp twin hint air open frequent dolphin disease shadow toe";
+var mnemonic = "crop lawn they island deny express atom develop talk play boil just";

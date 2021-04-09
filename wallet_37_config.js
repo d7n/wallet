@@ -1,1 +1,1 @@
-var mnemonic = "assume relief winter indoor liar vote guard random salad marine cake report";
+var mnemonic = "record cry stumble shadow planet left endorse east foster comfort claw excite";

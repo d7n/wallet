@@ -1,1 +1,1 @@
-var mnemonic = "crew pilot wrong wagon atom alien miss cargo quantum win length bright";
+var mnemonic = "earth girl recycle office autumn execute rain trip universe chat pledge remember";

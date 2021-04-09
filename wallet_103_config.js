@@ -1,1 +1,1 @@
-var mnemonic = "erode conduct pilot dolphin wait elephant zero bundle recipe repeat tent medal";
+var mnemonic = "enough announce march ski embrace type embrace trophy weapon metal village green";

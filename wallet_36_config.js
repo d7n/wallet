@@ -1,1 +1,1 @@
-var mnemonic = "shy buffalo rate theme jacket toward pulp nurse mirror coil merge unique";
+var mnemonic = "sphere during image health milk document recipe dinosaur certain battle foil wise";

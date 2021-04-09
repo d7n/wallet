@@ -1,1 +1,1 @@
-var mnemonic = "join color rack park logic dream autumn burst output correct release width";
+var mnemonic = "dune section modify profit have chunk stove stick clip cruise movie daring";

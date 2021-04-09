@@ -1,1 +1,1 @@
-var mnemonic = "payment rotate crack follow weird then inch split birth all rely laptop";
+var mnemonic = "fossil cloth canal margin coconut romance heart chicken tomorrow whale since purchase";

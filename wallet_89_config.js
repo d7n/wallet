@@ -1,1 +1,1 @@
-var mnemonic = "fabric cute dash stay distance floor client adapt saddle riot curve acid";
+var mnemonic = "asset width choice feature base deer inform increase bleak ability shock verb";

@@ -1,1 +1,1 @@
-var mnemonic = "elite merry gym fringe novel private question tomato senior nation clerk carry";
+var mnemonic = "furnace peasant jelly doctor recycle fish fog athlete evolve dune demise must";

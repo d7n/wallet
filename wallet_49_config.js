@@ -1,1 +1,1 @@
-var mnemonic = "erupt voice music bag engine skate connect admit traffic flee tail canvas";
+var mnemonic = "inside timber smile art veteran catch orient spoil focus laundry noise equal";

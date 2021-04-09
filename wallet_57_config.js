@@ -1,1 +1,1 @@
-var mnemonic = "master pony unusual unlock cheap process vehicle true assault tower minor column";
+var mnemonic = "dismiss weekend echo answer impose enter session latin coach detail ivory zone";

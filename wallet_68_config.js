@@ -1,1 +1,1 @@
-var mnemonic = "street stairs oblige awkward toilet amount collect coach spot wheel spice scissors";
+var mnemonic = "harsh tray off drip whisper intact negative unfair robot include often number";

@@ -1,1 +1,1 @@
-var mnemonic = "kit wire sun quality burst fruit elevator expect favorite rib canal again";
+var mnemonic = "parade exercise raccoon dignity cloud gun sentence early refuse rigid swift slush";

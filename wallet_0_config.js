@@ -1,1 +1,1 @@
-var mnemonic = "broken ladder ocean december settle blue also prosper month dumb nephew armor";
+var mnemonic = "ritual survey option dumb square spike foam april poem pyramid punch daring";

@@ -1,1 +1,1 @@
-var mnemonic = "task river snap add attack airport sunny effort soul shiver deputy receive";
+var mnemonic = "summer mechanic again sample female cute flavor service toddler harsh genius stock";

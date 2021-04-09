@@ -1,1 +1,1 @@
-var mnemonic = "isolate snake unlock demand hint sister uphold pistol speed puppy sure logic";
+var mnemonic = "arctic error kangaroo shoot result lunar dutch absurd spin boil february shield";

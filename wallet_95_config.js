@@ -1,1 +1,1 @@
-var mnemonic = "peanut glory labor animal green witness have tiger improve rice dirt indicate";
+var mnemonic = "piano chuckle tunnel opera scene again copy control inquiry gather biology choose";

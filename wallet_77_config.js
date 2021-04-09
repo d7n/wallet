@@ -1,1 +1,1 @@
-var mnemonic = "need job unfold process crash notable duck dumb empower rare youth adjust";
+var mnemonic = "sell sponsor heart struggle gather miracle curve city remind rail exhibit few";

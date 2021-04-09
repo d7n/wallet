@@ -1,1 +1,1 @@
-var mnemonic = "wrist baby hard slender across shaft enforce all harbor ladder purity adjust";
+var mnemonic = "govern domain friend vicious soda problem begin service solar shiver switch neither";

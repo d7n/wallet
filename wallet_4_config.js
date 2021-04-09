@@ -1,1 +1,1 @@
-var mnemonic = "history smoke fatigue capable state insane item simple husband water again tenant";
+var mnemonic = "usage bring green rely version bubble device human reopen satoshi fury error";

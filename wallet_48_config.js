@@ -1,1 +1,1 @@
-var mnemonic = "enroll weather special hard carry during position enroll agent during high trap";
+var mnemonic = "perfect stable example outer table safe blood spider pony dad tennis soon";

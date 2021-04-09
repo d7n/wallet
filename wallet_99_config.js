@@ -1,1 +1,1 @@
-var mnemonic = "train damp source gauge alley give hover inner auction kingdom inside vendor";
+var mnemonic = "satisfy must chief baby primary describe vapor clip undo drastic tragic into";

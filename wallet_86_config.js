@@ -1,1 +1,1 @@
-var mnemonic = "credit crystal grab team indoor salmon unaware kind select auction idle smoke";
+var mnemonic = "cave apart immense palm gown bless hip fade soldier garbage boil wonder";

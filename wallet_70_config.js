@@ -1,1 +1,1 @@
-var mnemonic = "impulse toddler enlist baby cruel dance angry cake gown language taste copper";
+var mnemonic = "goddess time wheat member match possible grow plunge finish next kid action";

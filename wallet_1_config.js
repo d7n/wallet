@@ -1,1 +1,1 @@
-var mnemonic = "floor term eight judge crouch depart believe situate eyebrow buddy silk pepper";
+var mnemonic = "smoke soda hotel acquire settle oak remain drift follow fragile toward submit";

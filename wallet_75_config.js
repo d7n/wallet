@@ -1,1 +1,1 @@
-var mnemonic = "goddess hidden tilt frame install cereal drop crawl blame shove axis minimum";
+var mnemonic = "speak light sand wrestle dune grant become become effort cigar illegal elephant";

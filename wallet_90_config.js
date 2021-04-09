@@ -1,1 +1,1 @@
-var mnemonic = "chimney idle social drastic giraffe entire expose over ship blood happy globe";
+var mnemonic = "stick remind dad situate civil fitness dad reopen broken chapter tornado vendor";

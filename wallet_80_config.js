@@ -1,1 +1,1 @@
-var mnemonic = "volume curve grocery huge animal view local prepare profit cram notice reveal";
+var mnemonic = "food exchange drip success culture ask mail south sea photo claw close";

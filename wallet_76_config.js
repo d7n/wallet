@@ -1,1 +1,1 @@
-var mnemonic = "layer upset pave response bridge evil tail maximum acoustic close love vote";
+var mnemonic = "unlock purpose potato pool turn certain broken artefact flag maximum picture body";

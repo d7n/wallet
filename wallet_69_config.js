@@ -1,1 +1,1 @@
-var mnemonic = "trophy announce mechanic army trade detail buzz sibling hobby asthma school exclude";
+var mnemonic = "avocado wise benefit parent derive false club future catalog swift celery occur";

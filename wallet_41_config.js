@@ -1,1 +1,1 @@
-var mnemonic = "hamster short phone law wave donate seminar maximum entire pistol zoo busy";
+var mnemonic = "aspect disagree fuel brain kitchen engage swap life broom egg parrot club";

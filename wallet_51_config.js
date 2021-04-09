@@ -1,1 +1,1 @@
-var mnemonic = "start again much garlic language wonder away ride upon glimpse leader extra";
+var mnemonic = "glove ensure flash post hurry absurd miss olympic advice chronic vote olive";

@@ -1,1 +1,1 @@
-var mnemonic = "teach universe inject please spawn spray rescue base clever diagram coach execute";
+var mnemonic = "retreat style hazard tattoo quarter oblige job library dice rent humor cause";

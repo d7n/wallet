@@ -1,1 +1,1 @@
-var mnemonic = "boring arrest father aerobic viable city cash garden mystery joy impulse rare";
+var mnemonic = "soap tank crunch bright thumb quality assault gadget foil uncle copper trick";

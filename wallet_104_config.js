@@ -1,1 +1,1 @@
-var mnemonic = "shove wood dismiss bean grass stool prefer glory wild prison jelly young";
+var mnemonic = "notable craft snow give arrow once want craft cart captain develop high";

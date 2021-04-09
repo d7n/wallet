@@ -1,1 +1,1 @@
-var mnemonic = "sister girl miracle inherit kit ship repeat isolate visa tooth better space";
+var mnemonic = "walk debate love lab dust field glimpse isolate vocal blood wing shield";

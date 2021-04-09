@@ -1,1 +1,1 @@
-var mnemonic = "birth cattle bright hard verify clutch improve task frown film movie impact";
+var mnemonic = "law actual sick vanish dwarf maple load submit bird sister consider pony";

@@ -1,1 +1,1 @@
-var mnemonic = "owner vehicle spring shiver attend detect dry pattern security license tattoo hold";
+var mnemonic = "describe online deny patrol lady tag topple hello place butter veteran amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon example shoe decade basic search exhibit switch involve squeeze fuel question";
+var mnemonic = "nasty predict pen number property cry height easy remember ethics enforce able";

@@ -1,1 +1,1 @@
-var mnemonic = "random edit shift boat voyage fancy oven chase fence meat apology round";
+var mnemonic = "easily correct cable material audit flock scene noise anchor cruise brown stable";

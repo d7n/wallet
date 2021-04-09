@@ -1,1 +1,1 @@
-var mnemonic = "amount style group quality inmate filter cousin light model ceiling glance organ";
+var mnemonic = "lyrics ski size clinic volume execute verify cheese welcome approve genre vast";

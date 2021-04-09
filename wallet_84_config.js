@@ -1,1 +1,1 @@
-var mnemonic = "audit elevator science between chronic butter goat modify still outside hold body";
+var mnemonic = "vehicle picture organ hour raw tape involve fine account loud flock step";

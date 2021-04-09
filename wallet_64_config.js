@@ -1,1 +1,1 @@
-var mnemonic = "orphan blind tenant salute demand pudding rain pattern devote trash leader shrimp";
+var mnemonic = "fluid reward paddle cloud empower adjust month book buzz uphold under fun";

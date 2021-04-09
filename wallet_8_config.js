@@ -1,1 +1,1 @@
-var mnemonic = "humble barely attitude submit high pulse exchange debris bind merit draft desk";
+var mnemonic = "parade diary corn inhale nothing purse true judge mystery weekend easy cotton";

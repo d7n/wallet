@@ -1,1 +1,1 @@
-var mnemonic = "organ swamp taxi lunch emotion initial kiwi artefact cloud carry solution match";
+var mnemonic = "return physical digital napkin amazing century panic wrap code venture craft valid";

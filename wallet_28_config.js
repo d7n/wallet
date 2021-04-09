@@ -1,1 +1,1 @@
-var mnemonic = "addict marriage category favorite radio alter bone chest broom opinion faculty bonus";
+var mnemonic = "horn blast narrow prepare know fence plug pink gasp snow produce obey";

@@ -1,1 +1,1 @@
-var mnemonic = "faint media give face pioneer assist horn second worth live margin rule";
+var mnemonic = "poet cloud pill sweet beef nurse dolphin scheme bomb record gloom scatter";

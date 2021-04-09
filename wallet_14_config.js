@@ -1,1 +1,1 @@
-var mnemonic = "true donate spoil scrap raccoon tiger ten seven way ahead hurt avocado";
+var mnemonic = "flash audit blossom moon luxury rule senior around calm double jelly trick";

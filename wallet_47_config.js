@@ -1,1 +1,1 @@
-var mnemonic = "vacuum chuckle liberty response tomato topple feed pottery boil panther media long";
+var mnemonic = "myself expand spider salt brick industry void bachelor task patrol extra detail";

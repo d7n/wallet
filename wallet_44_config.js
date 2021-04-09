@@ -1,1 +1,1 @@
-var mnemonic = "disagree latin grunt anger trim share helmet giggle identify divorce bread floor";
+var mnemonic = "one thank promote depart public require chronic joke elephant gadget person actor";

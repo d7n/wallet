@@ -1,1 +1,1 @@
-var mnemonic = "bunker stumble end corn tennis theme fetch worth summer wedding enforce movie";
+var mnemonic = "vanish torch topic bomb hamster minute render kangaroo emerge fire table shield";

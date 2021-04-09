@@ -1,1 +1,1 @@
-var mnemonic = "gallery record fever flip actress divide switch seminar strategy powder resource hip";
+var mnemonic = "permit kangaroo people soccer acoustic dune okay lunch alley pattern day elbow";

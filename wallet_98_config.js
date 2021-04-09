@@ -1,1 +1,1 @@
-var mnemonic = "stay surge worth nothing usage cheese neglect aware few flight mail patient";
+var mnemonic = "wire push claw toilet vocal tiger decide evolve volume vicious virus cup";

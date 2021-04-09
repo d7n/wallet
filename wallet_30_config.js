@@ -1,1 +1,1 @@
-var mnemonic = "evoke term now install tower pig mercy year mean reason skull tip";
+var mnemonic = "eager fan rug popular awkward thumb dawn talent present another plunge panda";

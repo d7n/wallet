@@ -1,1 +1,1 @@
-var mnemonic = "census cool can toward coin degree clump churn they trial interest easily";
+var mnemonic = "void pipe taxi fatal shoot flavor describe clerk orange govern whale include";

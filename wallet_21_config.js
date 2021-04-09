@@ -1,1 +1,1 @@
-var mnemonic = "genre choose choice hill armed cost boring reward fiscal friend clap run";
+var mnemonic = "same toddler diet interest fish believe say shove slim lion room second";

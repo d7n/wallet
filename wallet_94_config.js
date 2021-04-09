@@ -1,1 +1,1 @@
-var mnemonic = "that also gesture camera loop include local hollow million myth foster vast";
+var mnemonic = "gift pond stuff mandate mystery pear vessel panther invest series february coast";

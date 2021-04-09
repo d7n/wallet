@@ -1,1 +1,1 @@
-var mnemonic = "birth arena trap hat proof provide tribe dismiss super critic educate glove";
+var mnemonic = "odor lock fix cause fish truck offer disease sadness table fork mango";

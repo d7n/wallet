@@ -1,1 +1,1 @@
-var mnemonic = "eye veteran crunch earth goose pig test wear tongue trash thunder apple";
+var mnemonic = "soul bachelor lift front column prize smile merge sadness hole parrot month";

@@ -1,1 +1,1 @@
-var mnemonic = "project left aunt library steel inject gorilla turkey girl guilt three universe";
+var mnemonic = "access very book submit abuse social curtain crazy state dignity fortune initial";

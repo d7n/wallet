@@ -1,1 +1,1 @@
-var mnemonic = "hungry whisper aisle morning panther federal dizzy muscle anxiety margin spin practice";
+var mnemonic = "token speed spring meat hand steel sudden cross excuse west manage side";
