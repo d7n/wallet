@@ -1,1 +1,1 @@
-var mnemonic = "vendor spider ankle uniform raise best escape empower wonder correct height that";
+var mnemonic = "sleep brick hollow gallery solution cigar advance subway monkey engine desk amused";

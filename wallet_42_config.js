@@ -1,1 +1,1 @@
-var mnemonic = "shell cattle multiply bulb gorilla benefit decline comic neither original put increase";
+var mnemonic = "industry rice select forum hello wool assist diamond used market anchor found";

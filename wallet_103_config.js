@@ -1,1 +1,1 @@
-var mnemonic = "treat celery wrap yard afraid cheese course motor novel pattern split still";
+var mnemonic = "remember arrange olympic input hub special perfect wear ice echo satoshi punch";

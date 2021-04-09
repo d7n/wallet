@@ -1,1 +1,1 @@
-var mnemonic = "main tell region tumble asset win choose aisle drama foil dynamic boy";
+var mnemonic = "slogan select nerve stuff hello inner syrup hair unusual weasel burger swarm";

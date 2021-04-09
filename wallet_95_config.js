@@ -1,1 +1,1 @@
-var mnemonic = "amazing traffic thought bronze turtle umbrella farm grant wing inmate scorpion pill";
+var mnemonic = "describe lady drill hint wheel exhibit wolf know quantum simple bind soft";

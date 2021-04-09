@@ -1,1 +1,1 @@
-var mnemonic = "merry other lumber cabbage endorse document surge soap dice vintage injury alley";
+var mnemonic = "announce bonus worry evil twelve friend false machine dentist improve recycle name";

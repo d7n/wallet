@@ -1,1 +1,1 @@
-var mnemonic = "view dash tribe that hood bulb puzzle damp doctor eagle warm setup";
+var mnemonic = "lottery token crime mimic domain waste give mind rebuild wine walnut stumble";

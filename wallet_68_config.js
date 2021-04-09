@@ -1,1 +1,1 @@
-var mnemonic = "surprise raise prevent truly escape roof right battle emotion turn green celery";
+var mnemonic = "enroll alpha absent audit fire cloth skull magic bonus erase often economy";

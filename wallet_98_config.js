@@ -1,1 +1,1 @@
-var mnemonic = "proof lucky faith snake flag pink give punch method divorce salt crop";
+var mnemonic = "resource ancient assault baby vast relief spirit plunge exhibit pull reason clog";

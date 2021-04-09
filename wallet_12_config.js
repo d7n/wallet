@@ -1,1 +1,1 @@
-var mnemonic = "novel orient bring law street unknown pupil earth filter science device defense";
+var mnemonic = "trust decide solution fan decorate convince bleak same hair maze sing airport";

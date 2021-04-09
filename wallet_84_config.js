@@ -1,1 +1,1 @@
-var mnemonic = "mammal code number inquiry gaze phrase gift supply ivory occur mass normal";
+var mnemonic = "rough pull movie eagle target mirror sphere nation chat word layer exist";

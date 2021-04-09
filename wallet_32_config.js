@@ -1,1 +1,1 @@
-var mnemonic = "reunion staff boil return certain walk room soul turn frozen course betray";
+var mnemonic = "situate dish wine today razor initial reduce pupil bicycle people satisfy fun";

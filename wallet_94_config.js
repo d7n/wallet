@@ -1,1 +1,1 @@
-var mnemonic = "plug market youth goose clinic item tragic solid blouse suit action must";
+var mnemonic = "grape canyon render network innocent only color split split rifle plug salon";

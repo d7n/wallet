@@ -1,1 +1,1 @@
-var mnemonic = "leave rich state phone monkey orphan axis organ jelly wink net remain";
+var mnemonic = "sibling open super people combine echo top expand hazard lake speed swallow";

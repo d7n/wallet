@@ -1,1 +1,1 @@
-var mnemonic = "glide gun panel drift owner mango afford among mosquito bulk dice antenna";
+var mnemonic = "input siren ready lecture pole bomb zoo gain youth reveal hope upset";

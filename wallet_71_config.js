@@ -1,1 +1,1 @@
-var mnemonic = "fiber flavor embrace empower movie craft joy accuse secret reflect notable quantum";
+var mnemonic = "favorite weapon champion logic act coast cage mystery soap relief photo limb";

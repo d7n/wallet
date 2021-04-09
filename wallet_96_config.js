@@ -1,1 +1,1 @@
-var mnemonic = "use embrace industry fire coral vapor science swap embody clerk dust now";
+var mnemonic = "hammer chair grab orbit smoke young basic certain alone sibling helmet spray";

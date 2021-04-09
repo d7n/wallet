@@ -1,1 +1,1 @@
-var mnemonic = "false inhale slender coconut dust exhaust dwarf wear inmate wonder doll quote";
+var mnemonic = "client forward broken video make perfect card position speed jungle hockey camera";

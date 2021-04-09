@@ -1,1 +1,1 @@
-var mnemonic = "wash embark version prosper across foster have electric topple dream blind scheme";
+var mnemonic = "radio eye calm aerobic bridge rapid day banana helmet hole nose ability";

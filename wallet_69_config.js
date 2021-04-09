@@ -1,1 +1,1 @@
-var mnemonic = "enter parent fan clog glide genre tower during master double since salmon";
+var mnemonic = "access casual unaware title tissue okay tissue alarm speed gravity lab cruise";

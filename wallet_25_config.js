@@ -1,1 +1,1 @@
-var mnemonic = "athlete trigger grid nest lock pottery animal garage auto ticket guitar airport";
+var mnemonic = "debris fashion april affair choice runway elder nasty dynamic hen wing noodle";

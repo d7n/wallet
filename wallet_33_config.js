@@ -1,1 +1,1 @@
-var mnemonic = "frog kitchen skill draw fire poverty idle fatigue garage enlist diesel finger";
+var mnemonic = "struggle boss uphold wool head gorilla lumber rocket foil equal script cube";

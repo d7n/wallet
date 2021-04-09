@@ -1,1 +1,1 @@
-var mnemonic = "snow chronic joke transfer like angle kidney profit often spirit task mimic";
+var mnemonic = "settle twenty north fish guess cream fault deputy crisp scout picture adjust";

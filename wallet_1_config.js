@@ -1,1 +1,1 @@
-var mnemonic = "surge initial loyal december rigid neglect effort matrix practice obscure alone uncover";
+var mnemonic = "unaware word disagree uphold decline link husband link device egg tent cattle";

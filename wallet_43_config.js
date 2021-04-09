@@ -1,1 +1,1 @@
-var mnemonic = "clock skirt frame there account leg source sea sorry then shock avocado";
+var mnemonic = "outside dwarf retreat frozen art term maple year reject tattoo wink access";

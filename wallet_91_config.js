@@ -1,1 +1,1 @@
-var mnemonic = "whisper undo card soup grunt basket diagram awake promote forward hard erode";
+var mnemonic = "token grid company gospel deer skin march goddess hurry reduce tag recipe";

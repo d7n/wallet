@@ -1,1 +1,1 @@
-var mnemonic = "voice olympic blossom future decline train sport wisdom become type coconut next";
+var mnemonic = "since verb differ deputy renew settle energy slice pizza valve critic private";

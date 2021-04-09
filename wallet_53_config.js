@@ -1,1 +1,1 @@
-var mnemonic = "antique salad dress rice proud labor master poverty excite prefer wish capable";
+var mnemonic = "secret annual robot stereo boat cannon erode office brief brisk actress problem";

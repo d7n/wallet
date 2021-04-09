@@ -1,1 +1,1 @@
-var mnemonic = "main talk grape violin point ugly hold truck hospital laptop twice accident";
+var mnemonic = "sunset city harbor income chimney theory teach desk entire stadium mouse uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "purse label pause letter mean when talk tuna chapter cruise tape around";
+var mnemonic = "floor music insane horror tonight luxury mirror machine fury elder hat orient";

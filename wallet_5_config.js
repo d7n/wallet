@@ -1,1 +1,1 @@
-var mnemonic = "taxi toss afraid small work wall gym supply wrap insane end purchase";
+var mnemonic = "anxiety curtain battle daughter solar pledge cushion chronic firm scale bracket marriage";

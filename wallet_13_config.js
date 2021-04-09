@@ -1,1 +1,1 @@
-var mnemonic = "spoon summer bag horse tuition asset carpet giggle enemy rate own wish";
+var mnemonic = "six mix glimpse jaguar heart again obey catch grit card that output";

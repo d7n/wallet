@@ -1,1 +1,1 @@
-var mnemonic = "rocket lecture example benefit lizard flight bunker deliver jaguar screen toss island";
+var mnemonic = "fog soldier eyebrow physical ginger tackle exact feature ranch bottom stomach output";

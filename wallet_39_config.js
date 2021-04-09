@@ -1,1 +1,1 @@
-var mnemonic = "way try close art fortune once around taxi whale ugly blame hold";
+var mnemonic = "drop hospital bus gentle cargo slam envelope price sad confirm minimum decrease";

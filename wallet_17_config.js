@@ -1,1 +1,1 @@
-var mnemonic = "bitter bunker skirt kingdom gate arrest problem famous day mammal glass because";
+var mnemonic = "inherit similar worry arrange warrior coffee grace impose swallow inspire column age";

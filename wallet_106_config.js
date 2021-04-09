@@ -1,1 +1,1 @@
-var mnemonic = "enforce trouble salt upper film tuna normal almost answer gesture defy flush";
+var mnemonic = "garage still figure improve action quit raven invest amount column girl health";

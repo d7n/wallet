@@ -1,1 +1,1 @@
-var mnemonic = "strong garlic unlock doll balcony butter symbol galaxy horn gentle liar section";
+var mnemonic = "insane saddle seven capable grass wave edge spend gloom crouch key flight";

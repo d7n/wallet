@@ -1,1 +1,1 @@
-var mnemonic = "dawn test lazy chaos barrel system around ordinary shaft shoe east main";
+var mnemonic = "rapid age lady enter hen example picnic gossip spice term battle exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "august cave spring turn giggle present wagon bacon better fluid left bubble";
+var mnemonic = "wrestle firm off cheese sheriff switch spring noble square among again rabbit";

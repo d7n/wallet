@@ -1,1 +1,1 @@
-var mnemonic = "list maid theory warfare exhibit shove sport faculty easy shoe injury exotic";
+var mnemonic = "vintage image place luggage rescue organ vintage degree chase balance hint brisk";

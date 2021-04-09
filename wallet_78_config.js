@@ -1,1 +1,1 @@
-var mnemonic = "all vast danger uncover metal clean scout blossom addict climb enter almost";
+var mnemonic = "crater festival law ladder original clinic sauce lizard start aware dinner mad";

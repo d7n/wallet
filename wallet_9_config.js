@@ -1,1 +1,1 @@
-var mnemonic = "hire focus truth mean tuna cost bronze hybrid grain when outside shiver";
+var mnemonic = "hand double correct offer impulse filter thumb win fluid valid myth silver";

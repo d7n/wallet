@@ -1,1 +1,1 @@
-var mnemonic = "vehicle catalog corn door pony genius gasp cube wealth make planet atom";
+var mnemonic = "reason render more code galaxy cool eternal involve used cabin scene they";

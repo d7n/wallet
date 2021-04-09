@@ -1,1 +1,1 @@
-var mnemonic = "wear install shy broom okay travel cactus science virus prize great year";
+var mnemonic = "rubber volcano opera wrestle gown helmet diagram omit hybrid valley animal vast";

@@ -1,1 +1,1 @@
-var mnemonic = "stable spell search tuna sense pause puzzle update ritual battle fiscal soda";
+var mnemonic = "garment yard people cannon day vendor bronze bundle husband mix hero nation";

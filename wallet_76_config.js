@@ -1,1 +1,1 @@
-var mnemonic = "garbage gloom stamp blade coach quality orange discover echo stem hill agree";
+var mnemonic = "boost exclude tattoo symptom unlock offer brave axis chief liquid category habit";

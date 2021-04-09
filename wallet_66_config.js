@@ -1,1 +1,1 @@
-var mnemonic = "poverty omit obscure segment liar blue misery member gather obscure winter modify";
+var mnemonic = "vacant claw arm certain practice genius view crouch solid sugar perfect satoshi";

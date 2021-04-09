@@ -1,1 +1,1 @@
-var mnemonic = "join idle tribe fatigue nest comfort basic blouse skirt insect innocent tomato";
+var mnemonic = "hat cupboard behind brief wing weapon develop subject ethics above rate upon";

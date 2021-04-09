@@ -1,1 +1,1 @@
-var mnemonic = "fat club clerk area zebra leaf paddle eager milk bomb angle response";
+var mnemonic = "clutch train nut exchange solution pitch fossil party course case pigeon mask";

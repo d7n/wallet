@@ -1,1 +1,1 @@
-var mnemonic = "rare endless crack maze fiscal someone pyramid install nephew myth audit token";
+var mnemonic = "illness dismiss useless scene mechanic panel attract umbrella fatigue knife lawsuit subway";

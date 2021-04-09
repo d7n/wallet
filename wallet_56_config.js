@@ -1,1 +1,1 @@
-var mnemonic = "palace behave year alarm assist skin morning cement setup public brain omit";
+var mnemonic = "feel green direct invite smoke luxury pattern mail link split special like";

@@ -1,1 +1,1 @@
-var mnemonic = "throw odor gate embark head column lady lucky left eight genuine fury";
+var mnemonic = "science helmet diagram rich yard solution fame kangaroo skin receive return hurdle";

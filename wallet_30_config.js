@@ -1,1 +1,1 @@
-var mnemonic = "wrestle what winter lyrics dress obey charge rent valve then quote wall";
+var mnemonic = "property innocent describe twin cup give live gift destroy fine another ladder";

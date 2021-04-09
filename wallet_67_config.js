@@ -1,1 +1,1 @@
-var mnemonic = "vote lecture toy weather scatter yard water visual body wife capital face";
+var mnemonic = "high rule board coach disagree couple notice marble inform rotate original decrease";

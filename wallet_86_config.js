@@ -1,1 +1,1 @@
-var mnemonic = "swing crash harsh above giraffe apology face phrase tuition worth bunker decade";
+var mnemonic = "salon like later parade theory news relax erode judge have family wild";

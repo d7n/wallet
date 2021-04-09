@@ -1,1 +1,1 @@
-var mnemonic = "animal meat foil snack unknown retire sadness apart square amateur avocado language";
+var mnemonic = "chronic helmet deputy cinnamon stem enjoy spice path arrow retreat leg door";

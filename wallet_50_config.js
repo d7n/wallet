@@ -1,1 +1,1 @@
-var mnemonic = "lens shell seek favorite quiz later enemy man once move subway decrease";
+var mnemonic = "custom stay mobile nest protect spice during honey candy good apple clip";

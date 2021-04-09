@@ -1,1 +1,1 @@
-var mnemonic = "icon antique print invite weasel afraid imitate mix smile unknown state pony";
+var mnemonic = "bottom theme theory boy talk vibrant foam force shallow aerobic destroy soon";

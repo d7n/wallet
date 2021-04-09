@@ -1,1 +1,1 @@
-var mnemonic = "pet rate pipe autumn minor supreme across file again clean legal sniff";
+var mnemonic = "ridge valid egg labor admit front initial just anger meat stem hair";

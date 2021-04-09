@@ -1,1 +1,1 @@
-var mnemonic = "group smoke song despair never rapid exchange tenant canal little crash call";
+var mnemonic = "chief middle vacant field lava subject neck wool strike usual gasp outer";

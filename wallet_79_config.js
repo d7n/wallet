@@ -1,1 +1,1 @@
-var mnemonic = "tuna usual table scatter pistol pitch vibrant mad tackle arena chalk rib";
+var mnemonic = "prevent volume kind scan trend collect advance observe boring bread scrap grape";

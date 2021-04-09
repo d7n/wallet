@@ -1,1 +1,1 @@
-var mnemonic = "penalty adult catch old lion system jacket dragon upset second rival cheese";
+var mnemonic = "choose clump height inch select lava useful useful estate rocket urge blood";

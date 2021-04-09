@@ -1,1 +1,1 @@
-var mnemonic = "ignore barrel flip deal stumble person music very mass faint sweet donor";
+var mnemonic = "mobile region huge ask waste win powder include about prepare mirror motor";

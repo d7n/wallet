@@ -1,1 +1,1 @@
-var mnemonic = "language robust flat modify castle submit industry loyal kidney final easy destroy";
+var mnemonic = "share duck require fringe dolphin guilt way beyond glide act festival alpha";

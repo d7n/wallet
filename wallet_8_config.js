@@ -1,1 +1,1 @@
-var mnemonic = "pill check dad math talent regret advice truth token stool network post";
+var mnemonic = "force milk quick swim analyst brisk blast long category message connect chest";

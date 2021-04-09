@@ -1,1 +1,1 @@
-var mnemonic = "struggle twist corn repeat when buffalo alien ripple series lunch devote february";
+var mnemonic = "yellow tape tip fatigue term fire happy report mad fabric before alone";

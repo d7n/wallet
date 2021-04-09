@@ -1,1 +1,1 @@
-var mnemonic = "knee deputy peanut syrup service swarm laugh gentle program crop boring team";
+var mnemonic = "win guess rhythm primary hour catch alien fee speed gadget predict rally";

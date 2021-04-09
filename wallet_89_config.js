@@ -1,1 +1,1 @@
-var mnemonic = "desk swift symbol before letter awake permit fault hazard urban clerk correct";
+var mnemonic = "carbon treat obtain race ritual quick web hold quiz portion level garment";

@@ -1,1 +1,1 @@
-var mnemonic = "ready lawsuit year cabin wolf opinion approve dad tortoise leaf inflict frost";
+var mnemonic = "field desk muffin romance grape unique scale peace casual enough bronze vibrant";

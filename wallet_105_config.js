@@ -1,1 +1,1 @@
-var mnemonic = "minute search inform tuition large shed budget evil cause mass able giant";
+var mnemonic = "shell empty chapter disease win lonely brave blur veteran marble venue diamond";

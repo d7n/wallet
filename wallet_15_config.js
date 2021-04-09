@@ -1,1 +1,1 @@
-var mnemonic = "switch expire latin cruel census lottery vendor genuine fork decline cargo unfold";
+var mnemonic = "upper jacket tool spot assault slight jealous hard note album vault chapter";

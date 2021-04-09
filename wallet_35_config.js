@@ -1,1 +1,1 @@
-var mnemonic = "soap science asset canyon pave battle license element glare coconut nation hard";
+var mnemonic = "over detail sphere limb high hazard still amazing rice crane say bulk";

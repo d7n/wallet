@@ -1,1 +1,1 @@
-var mnemonic = "real chuckle loud depart marriage train imitate tunnel decline display car metal";
+var mnemonic = "wage trigger silly nice refuse seat crazy return alcohol sunny belt mammal";

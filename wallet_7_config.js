@@ -1,1 +1,1 @@
-var mnemonic = "chief coach later jazz weapon april nut response faculty forget crush frozen";
+var mnemonic = "trigger lady owner wrestle put home usage obey room wine bind shoot";

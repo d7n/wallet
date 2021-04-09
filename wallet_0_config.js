@@ -1,1 +1,1 @@
-var mnemonic = "permit work clarify sausage alarm diesel illness adjust midnight release monitor print";
+var mnemonic = "trouble gather mechanic level judge viable vessel double jump wolf ship ethics";

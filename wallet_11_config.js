@@ -1,1 +1,1 @@
-var mnemonic = "thumb clock input rebuild side champion sudden armor swim goose moment fish";
+var mnemonic = "fresh six coyote city stumble symbol item length blue cupboard naive panic";

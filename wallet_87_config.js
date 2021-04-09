@@ -1,1 +1,1 @@
-var mnemonic = "energy nurse brown tribe code remove surge mom leave guide rifle stable";
+var mnemonic = "solve ethics input jungle bulb shaft zoo bubble melt warrior indicate dirt";

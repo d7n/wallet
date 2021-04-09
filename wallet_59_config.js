@@ -1,1 +1,1 @@
-var mnemonic = "cart visual oven demand tribe hero wing wrap reunion prepare organ faint";
+var mnemonic = "lunar wool gate body throw exchange eternal best coffee pelican produce found";

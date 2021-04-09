@@ -1,1 +1,1 @@
-var mnemonic = "boil beauty door gift tail top flag carry song edit west disease";
+var mnemonic = "country fancy marine cherry ensure search transfer circle rude document know six";

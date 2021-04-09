@@ -1,1 +1,1 @@
-var mnemonic = "flee rose else sing extend fabric panel slam pass picnic cheese reopen";
+var mnemonic = "sword bullet couple stamp certain make afraid sheriff dog security antique eight";

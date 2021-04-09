@@ -1,1 +1,1 @@
-var mnemonic = "spin wealth seat monitor unfair win evolve this rival sing crawl embody";
+var mnemonic = "scheme myself monitor scorpion area parade good add quiz twenty stay caught";

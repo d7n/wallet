@@ -1,1 +1,1 @@
-var mnemonic = "split state metal stuff drop skate report turkey escape october witness zoo";
+var mnemonic = "bamboo cram glue margin offer fancy sleep tonight salon edge stereo bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "parent kiss unknown join winner strike nut fly soda young lemon dwarf";
+var mnemonic = "crash belt leopard swamp rib cupboard maximum pottery say horror toss unit";

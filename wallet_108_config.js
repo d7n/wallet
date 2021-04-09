@@ -1,1 +1,1 @@
-var mnemonic = "salad wool north mushroom kick celery brisk push ivory wheel labor spy";
+var mnemonic = "skate nominee test divorce topple clean pledge alcohol service model response syrup";

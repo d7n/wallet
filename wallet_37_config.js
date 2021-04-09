@@ -1,1 +1,1 @@
-var mnemonic = "parent picture outer measure maximum phrase snow afford rapid primary apart pizza";
+var mnemonic = "radio mammal clutch runway useful obtain bar share maze monitor culture noise";

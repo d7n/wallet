@@ -1,1 +1,1 @@
-var mnemonic = "comic impose wealth believe wash siege genre mechanic tell dash snake current";
+var mnemonic = "finger right casual clerk glad please law panther nature damage rotate winner";
