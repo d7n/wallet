@@ -1,1 +1,1 @@
-var mnemonic = "limb approve dolphin mix maid hundred love faculty cheese loop grab veteran";
+var mnemonic = "silver garment bid pool length dinner alley nominee shop wisdom online garment";

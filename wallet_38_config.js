@@ -1,1 +1,1 @@
-var mnemonic = "session palm cigar brick control rail protect ordinary much canyon emerge hidden";
+var mnemonic = "receive maid warfare episode grant amount oppose habit guide lady reflect differ";

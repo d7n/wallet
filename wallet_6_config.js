@@ -1,1 +1,1 @@
-var mnemonic = "electric toss ship midnight arrest cream slice describe agent odor guess secret";
+var mnemonic = "twist arctic spawn soap sauce impact buddy version matter kidney month trumpet";

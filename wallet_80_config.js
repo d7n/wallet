@@ -1,1 +1,1 @@
-var mnemonic = "recycle road because theme emotion cloth nothing awesome bird cactus spy miracle";
+var mnemonic = "wheel stone option toe demand six sunset replace joke conduct advice oven";

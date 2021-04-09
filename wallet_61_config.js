@@ -1,1 +1,1 @@
-var mnemonic = "design catch notice ski rival ten defense comic okay demise tilt speak";
+var mnemonic = "symbol light mercy doll sing oyster october school twin foam real sight";

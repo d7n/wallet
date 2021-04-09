@@ -1,1 +1,1 @@
-var mnemonic = "whip ski congress corn bubble spin blind science ripple panther trap program";
+var mnemonic = "treat deposit knife capital rail grocery fire drift chimney library picture robot";

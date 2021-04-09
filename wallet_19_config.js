@@ -1,1 +1,1 @@
-var mnemonic = "weather trick coach car layer quit auction tide diary lock reunion fabric";
+var mnemonic = "time click outdoor glimpse moral nephew tape time theory churn rude mail";

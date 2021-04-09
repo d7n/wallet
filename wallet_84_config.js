@@ -1,1 +1,1 @@
-var mnemonic = "blue donate song alley across virus legal concert mind smart such panic";
+var mnemonic = "grid digital honey breeze buzz engine acoustic image soccer truck keep medal";

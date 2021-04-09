@@ -1,1 +1,1 @@
-var mnemonic = "property trouble crawl typical advance seven property sock sheriff click design frequent";
+var mnemonic = "search birth own choose segment ask twice fossil high canyon shoot cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "like farm merge sad embody shop divorce begin gun seek match blast";
+var mnemonic = "that elite legal print relief glance picture portion upper prosper digital marble";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff convince lawn cloth zone thrive rally trigger napkin memory cupboard connect";
+var mnemonic = "barrel become nephew phrase drink pony discover useful weapon cover wire online";

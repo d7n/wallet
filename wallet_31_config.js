@@ -1,1 +1,1 @@
-var mnemonic = "insect october book dynamic gain label eight level urge syrup vocal try";
+var mnemonic = "control like guess laugh soon knee holiday enforce comic oyster turkey episode";

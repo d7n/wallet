@@ -1,1 +1,1 @@
-var mnemonic = "ancient love click razor dry again lunch trouble message right arm race";
+var mnemonic = "tilt normal divorce silver rather quantum real hospital educate blossom raise control";

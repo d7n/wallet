@@ -1,1 +1,1 @@
-var mnemonic = "skin divert audit concert position grape stable hello mass crisp sock mention";
+var mnemonic = "faculty guitar rabbit text joy aim cushion time derive beyond buffalo salad";

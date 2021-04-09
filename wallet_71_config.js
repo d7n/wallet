@@ -1,1 +1,1 @@
-var mnemonic = "blade prosper diamond leisure bean one carry police holiday stereo master resist";
+var mnemonic = "ankle city alpha barely suit pizza theory vanish powder office toward swarm";

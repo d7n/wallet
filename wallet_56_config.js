@@ -1,1 +1,1 @@
-var mnemonic = "penalty assume choice song favorite derive remain tide trim intact endless jealous";
+var mnemonic = "risk online barely dragon ripple draft rocket emotion body picnic juice harvest";

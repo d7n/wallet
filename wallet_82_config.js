@@ -1,1 +1,1 @@
-var mnemonic = "dinner patrol conduct hole tower pudding stove before appear brown very olympic";
+var mnemonic = "elegant harbor nerve piece decade first chapter super unknown dash canoe girl";

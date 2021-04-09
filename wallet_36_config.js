@@ -1,1 +1,1 @@
-var mnemonic = "version balance remind alley estate rely patch adult rich element gesture public";
+var mnemonic = "hurry resemble sunset gentle exit annual maze buyer ski type cream claim";

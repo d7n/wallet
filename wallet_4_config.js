@@ -1,1 +1,1 @@
-var mnemonic = "resource moment sign similar once cry zone all broken stadium giraffe craft";
+var mnemonic = "bulb flock dinosaur label easy similar rhythm erosion thumb expire hurry dove";

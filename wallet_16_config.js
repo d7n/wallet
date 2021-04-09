@@ -1,1 +1,1 @@
-var mnemonic = "fringe million film wreck air series cigar present cereal gold lift gospel";
+var mnemonic = "tackle find denial admit fragile public lyrics jazz cover aunt wonder earth";

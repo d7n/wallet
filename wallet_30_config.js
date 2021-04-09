@@ -1,1 +1,1 @@
-var mnemonic = "census ready crisp trap rural pulse inner daughter number tide shop love";
+var mnemonic = "tail crack creek interest hover noodle argue science lumber blast energy reject";

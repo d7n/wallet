@@ -1,1 +1,1 @@
-var mnemonic = "lyrics code relief sphere draft bulb rug change foam feed apple cheap";
+var mnemonic = "symbol tourist quality chicken tank tobacco two warrior shed mixed retire barrel";

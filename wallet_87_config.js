@@ -1,1 +1,1 @@
-var mnemonic = "border impulse way anxiety define labor estate loud orbit bulk immune rhythm";
+var mnemonic = "page hazard dance original misery wheel obscure baby this remain feed vast";

@@ -1,1 +1,1 @@
-var mnemonic = "armed december tunnel early icon step scan bachelor dust share trash fitness";
+var mnemonic = "long inherit sock castle end history thunder busy slot sentence vapor physical";

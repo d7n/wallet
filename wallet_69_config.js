@@ -1,1 +1,1 @@
-var mnemonic = "barrel welcome baby also mad sort popular magnet cook want blind about";
+var mnemonic = "season squirrel melody charge fog road plunge future reason garage typical session";

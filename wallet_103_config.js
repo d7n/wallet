@@ -1,1 +1,1 @@
-var mnemonic = "sight leave right sniff excess legend segment anxiety purity trouble lazy hold";
+var mnemonic = "render carbon purse battle toe hold swap trap merry knife abandon invite";

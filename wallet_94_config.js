@@ -1,1 +1,1 @@
-var mnemonic = "boil pyramid expire dune hire indicate angle place inner rocket differ diesel";
+var mnemonic = "tomato lamp leg novel video glow chase hour embody cause destroy monkey";

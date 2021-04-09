@@ -1,1 +1,1 @@
-var mnemonic = "dad physical retire curtain fatal family faint near afraid abstract distance regular";
+var mnemonic = "alcohol cute destroy endless warfare color early arch square switch pilot enroll";

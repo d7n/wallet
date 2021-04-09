@@ -1,1 +1,1 @@
-var mnemonic = "chef normal stone plate since curve abuse rack tackle worry bronze exhaust";
+var mnemonic = "major peanut shaft distance verb occur know keep truck length dry crush";

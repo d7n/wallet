@@ -1,1 +1,1 @@
-var mnemonic = "address gravity gown cabin else member pet demise hope more tip endless";
+var mnemonic = "bleak field verify floor repeat garden argue party canoe anchor impose grid";

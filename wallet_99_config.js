@@ -1,1 +1,1 @@
-var mnemonic = "gate utility able fetch private purity already camp cannon shrimp crucial develop";
+var mnemonic = "quarter addict shaft wage result hair deputy demand tragic era cream child";

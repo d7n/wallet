@@ -1,1 +1,1 @@
-var mnemonic = "lady crucial salt rookie minimum demand giant wall image borrow useful sight";
+var mnemonic = "trust clown fatal injury timber danger shoot allow involve artist pottery salute";

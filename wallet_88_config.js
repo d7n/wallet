@@ -1,1 +1,1 @@
-var mnemonic = "bundle silent repair rookie venue live census fit skirt cable silk arm";
+var mnemonic = "benefit room enjoy say crowd vintage someone enroll network romance crane rabbit";

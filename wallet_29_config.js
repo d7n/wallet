@@ -1,1 +1,1 @@
-var mnemonic = "remain soldier beyond student common green lawsuit cinnamon away sister toe argue";
+var mnemonic = "entry script couch width pumpkin deny gallery pill city burden control legend";

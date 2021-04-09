@@ -1,1 +1,1 @@
-var mnemonic = "tired rely price foot ritual tip survey view cloth right antique join";
+var mnemonic = "flash aware small extend glove mean still film custom subject try wife";

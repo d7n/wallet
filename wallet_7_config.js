@@ -1,1 +1,1 @@
-var mnemonic = "text rifle agree quote thought lawn wheat smart seminar best mistake fancy";
+var mnemonic = "pill minimum document boat ensure emerge arm castle argue cram lava circle";

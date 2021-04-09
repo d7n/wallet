@@ -1,1 +1,1 @@
-var mnemonic = "execute video goddess poem book outside timber merit shrug mercy crop arrange";
+var mnemonic = "apart obvious science salmon click alley flock table spot phone wall segment";

@@ -1,1 +1,1 @@
-var mnemonic = "gain dirt cream drama page guilt erode pass melody void warfare ahead";
+var mnemonic = "grief scene grass suit cube equip diet girl bamboo draw give valid";

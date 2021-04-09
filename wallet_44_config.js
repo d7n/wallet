@@ -1,1 +1,1 @@
-var mnemonic = "slow eternal spawn patrol genuine open barely replace luggage satoshi street update";
+var mnemonic = "scissors gym manage moment bracket stumble museum inch able idle auction lion";

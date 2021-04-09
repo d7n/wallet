@@ -1,1 +1,1 @@
-var mnemonic = "lobster hundred arch slice dad motor curtain family rather cannon limit code";
+var mnemonic = "tone exchange van diamond orphan any about idle above text stove boat";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans potato jacket film budget pass fiber humble glue curtain duck exist";
+var mnemonic = "early cycle snow shock day language aunt merit snow minor citizen toe";

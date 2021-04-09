@@ -1,1 +1,1 @@
-var mnemonic = "give shallow valley excite crew insect message early brain assist couch cool";
+var mnemonic = "royal cradle indicate kidney someone secret clean rare gown security lamp orbit";

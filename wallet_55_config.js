@@ -1,1 +1,1 @@
-var mnemonic = "ring sustain toe estate kidney people verify during spy wife swing nice";
+var mnemonic = "carry meadow proud twenty improve reflect click brief sign bubble common inquiry";

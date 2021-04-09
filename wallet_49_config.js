@@ -1,1 +1,1 @@
-var mnemonic = "grunt notable youth indicate pottery borrow drum shiver steel heavy rice grab";
+var mnemonic = "venture easy spy sibling jungle service avocado region wife couch carpet peasant";

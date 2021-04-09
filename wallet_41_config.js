@@ -1,1 +1,1 @@
-var mnemonic = "dizzy balance slogan fresh system thing confirm merit monkey sample april brick";
+var mnemonic = "aunt absurd unit prosper doctor before wage spring frog ability budget foot";

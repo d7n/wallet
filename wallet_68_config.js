@@ -1,1 +1,1 @@
-var mnemonic = "fog reward cupboard seven angry agree damp adjust duck donkey video hand";
+var mnemonic = "sample wrist toilet joy pyramid wagon crime current carpet winner achieve inform";

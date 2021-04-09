@@ -1,1 +1,1 @@
-var mnemonic = "wolf soup practice wrong sunset orphan catch clutch sleep birth bleak coral";
+var mnemonic = "palace heavy buffalo such loud endorse fringe easy wild element antenna rude";

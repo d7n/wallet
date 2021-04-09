@@ -1,1 +1,1 @@
-var mnemonic = "topple cage orbit boat swallow amazing snake scan direct bargain creek shrug";
+var mnemonic = "reveal speed barrel voyage glory torch luggage panic tortoise wall swap aspect";

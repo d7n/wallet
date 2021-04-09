@@ -1,1 +1,1 @@
-var mnemonic = "predict grief cherry civil improve dad sibling popular near height finger arrest";
+var mnemonic = "student pitch wonder borrow predict abandon spell under cheese segment kit quantum";

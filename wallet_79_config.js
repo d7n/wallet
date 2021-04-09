@@ -1,1 +1,1 @@
-var mnemonic = "evidence logic ancient place pole visa super effort winner joke crew spider";
+var mnemonic = "battle salad movie gym question include relax social approve dial viable warm";

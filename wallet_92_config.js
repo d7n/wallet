@@ -1,1 +1,1 @@
-var mnemonic = "borrow fiscal smile syrup kind pigeon language fabric trim allow helmet retire";
+var mnemonic = "destroy sword brass dose visa prison wisdom brother boy aware breeze depart";

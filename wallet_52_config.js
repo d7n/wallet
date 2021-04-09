@@ -1,1 +1,1 @@
-var mnemonic = "holiday unable museum friend nephew strategy year noise abstract ecology double topic";
+var mnemonic = "vast draw bus cricket giggle kidney piano congress egg moral second razor";

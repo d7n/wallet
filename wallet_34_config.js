@@ -1,1 +1,1 @@
-var mnemonic = "eight license cigar rent piece domain curtain bomb plug cycle naive vast";
+var mnemonic = "truth bring cousin squirrel trap grant cool expect virtual globe index priority";

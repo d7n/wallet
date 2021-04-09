@@ -1,1 +1,1 @@
-var mnemonic = "front undo gloom lyrics dial nut economy prison afraid love brush palm";
+var mnemonic = "august victory valve enforce lock tuition obvious renew manage cactus man angle";

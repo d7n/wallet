@@ -1,1 +1,1 @@
-var mnemonic = "daughter object scan artefact lock team express super galaxy antique picnic still";
+var mnemonic = "smoke palm verb share armor asset police clump prison clerk guard brown";

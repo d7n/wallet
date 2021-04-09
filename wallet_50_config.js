@@ -1,1 +1,1 @@
-var mnemonic = "impact crew bulb sock left duck pill know spawn unaware enhance loyal";
+var mnemonic = "rent satoshi stairs car size wire steak hedgehog else tower expose junk";

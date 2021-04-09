@@ -1,1 +1,1 @@
-var mnemonic = "host swarm sword funny master ritual silly snap fly girl sausage assume";
+var mnemonic = "grit mountain dolphin alert lady clog power urge emotion gasp glove nothing";

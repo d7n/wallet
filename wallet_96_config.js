@@ -1,1 +1,1 @@
-var mnemonic = "left relax hero wisdom cycle surround stairs saddle mention keep whisper choice";
+var mnemonic = "mansion voice siege attitude wild demand side decide maze indoor gift topple";

@@ -1,1 +1,1 @@
-var mnemonic = "light kit canyon palace member mango certain film across toe trash wolf";
+var mnemonic = "fatigue mammal casino narrow bitter rookie suffer hello delay sell whip solution";

@@ -1,1 +1,1 @@
-var mnemonic = "wage cousin notice work other drive hospital spray season version wish kit";
+var mnemonic = "glass physical rule enough scout mammal battle banner source minimum town peace";

@@ -1,1 +1,1 @@
-var mnemonic = "cat gas pioneer sausage inside auction chase pond more refuse gasp grief";
+var mnemonic = "smooth about blanket hen verb shallow act window spike oak type receive";

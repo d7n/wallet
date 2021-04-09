@@ -1,1 +1,1 @@
-var mnemonic = "elephant angry enlist invite unable legal decline kind venue glimpse math mimic";
+var mnemonic = "weird fire negative party whip list emotion couple actress surge ripple must";

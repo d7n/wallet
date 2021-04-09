@@ -1,1 +1,1 @@
-var mnemonic = "fox aware frown fee science brand antenna smart select much captain stomach";
+var mnemonic = "gospel ugly already myself exercise any problem attend garage life venture census";

@@ -1,1 +1,1 @@
-var mnemonic = "finger wave marine spin economy country taste bag garden cheese earn sword";
+var mnemonic = "enjoy hobby hint promote strong novel guard crew dish attend weapon deer";

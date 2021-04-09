@@ -1,1 +1,1 @@
-var mnemonic = "dish eager hybrid poem provide merge decrease fortune draft undo possible approve";
+var mnemonic = "voyage vote child husband catch best say video cactus denial bunker rail";

@@ -1,1 +1,1 @@
-var mnemonic = "cream wisdom garment hip hollow enforce wonder acoustic squeeze feed twelve museum";
+var mnemonic = "length wink acoustic narrow cushion buyer box silly alpha dynamic merry grocery";

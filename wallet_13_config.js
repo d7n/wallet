@@ -1,1 +1,1 @@
-var mnemonic = "baby increase tuition raven bacon occur target jazz during shrimp sister stick";
+var mnemonic = "enable riot across clinic mirror hero diagram absent orange answer mutual pilot";

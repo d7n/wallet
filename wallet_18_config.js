@@ -1,1 +1,1 @@
-var mnemonic = "merit exist lift trip circle crisp shallow punch strategy uniform pet salt";
+var mnemonic = "waste basket cloud chunk soccer asset regret sudden peanut art advice lab";

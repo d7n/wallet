@@ -1,1 +1,1 @@
-var mnemonic = "fat bread mistake noodle fame unique hurdle water physical coconut town notable";
+var mnemonic = "arrow cook tunnel invest lottery taste system entry crack match split black";

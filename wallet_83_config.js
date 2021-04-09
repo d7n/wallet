@@ -1,1 +1,1 @@
-var mnemonic = "potato purity vital ensure cup ghost false dignity atom theme boy report";
+var mnemonic = "field arena quality spice civil advance affair naive paddle hour token idea";

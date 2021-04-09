@@ -1,1 +1,1 @@
-var mnemonic = "lock spare rifle able design senior leisure cup tube during save camera";
+var mnemonic = "remind auto achieve question train across parrot always lyrics then erosion shock";

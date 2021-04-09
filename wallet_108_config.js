@@ -1,1 +1,1 @@
-var mnemonic = "used upgrade curve hand together unfair device blast afraid stadium ghost employ";
+var mnemonic = "embrace agent regret truly unit nature road ramp across dirt valve option";

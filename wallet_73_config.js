@@ -1,1 +1,1 @@
-var mnemonic = "web stone honey phone flavor select spider foil truth size erupt deposit";
+var mnemonic = "impulse trap angry have garment bench luxury duck occur taste brother trophy";

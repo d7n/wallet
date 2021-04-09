@@ -1,1 +1,1 @@
-var mnemonic = "bring female antique page adjust rubber fame saddle spirit swear cake tribe";
+var mnemonic = "decorate hen safe ramp august rail direct zone bridge glow someone head";

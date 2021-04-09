@@ -1,1 +1,1 @@
-var mnemonic = "slide maple sight improve gun civil dream juice inform debate cactus balcony";
+var mnemonic = "light castle subway eternal antique idle arrive brisk fluid similar sea skill";

@@ -1,1 +1,1 @@
-var mnemonic = "upset solve heavy above depth shrug cycle surprise type satoshi bright satoshi";
+var mnemonic = "suit dog burst awful brief file brisk blade dumb assault magic legend";

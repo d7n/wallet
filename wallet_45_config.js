@@ -1,1 +1,1 @@
-var mnemonic = "act flock limit sniff kitten nose auto fan announce enhance soccer just";
+var mnemonic = "service visa runway auto fold evidence deposit black breeze jealous wait green";

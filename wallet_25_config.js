@@ -1,1 +1,1 @@
-var mnemonic = "thrive spot must blood knee large unfair tilt mistake figure tiny reflect";
+var mnemonic = "wisdom spoil rent field random shiver basket cream duck minor among laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "collect whisper adjust earn crack tuition marriage sense inject canoe collect prefer";
+var mnemonic = "interest town like machine bronze roof valve beach episode raccoon manual found";

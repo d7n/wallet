@@ -1,1 +1,1 @@
-var mnemonic = "copper range blade captain return comic jump trim border scorpion custom receive";
+var mnemonic = "impulse gaze meadow situate legal survey easy spider lizard crunch wolf height";

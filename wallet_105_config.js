@@ -1,1 +1,1 @@
-var mnemonic = "diet laptop tornado season unfold tooth dad toilet title total aim relax";
+var mnemonic = "inhale fetch essay birth chase inmate woman endorse wing property pause eagle";

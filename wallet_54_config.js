@@ -1,1 +1,1 @@
-var mnemonic = "impulse absurd drift grain calm goose oil ask secret cupboard screen kite";
+var mnemonic = "vibrant fetch gallery matter purchase nothing chaos rice payment census rely stable";

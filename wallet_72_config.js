@@ -1,1 +1,1 @@
-var mnemonic = "eight salmon bridge fatal skirt spider cousin satisfy want airport dial glad";
+var mnemonic = "awake path rally suggest burden toward surface hand crime slim bright cotton";

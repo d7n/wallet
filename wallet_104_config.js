@@ -1,1 +1,1 @@
-var mnemonic = "off involve lock improve lock away giant convince canoe machine net wrist";
+var mnemonic = "casual unveil delay morning admit hood surge gap future spy panther hurry";

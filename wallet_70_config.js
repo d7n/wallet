@@ -1,1 +1,1 @@
-var mnemonic = "lunch party name unlock palm drum almost skirt extra runway lion grit";
+var mnemonic = "degree satoshi rain derive ill pizza exotic obscure list palace era agent";

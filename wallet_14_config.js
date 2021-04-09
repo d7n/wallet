@@ -1,1 +1,1 @@
-var mnemonic = "clever fish hawk end decrease among correct crowd fitness only best inhale";
+var mnemonic = "unlock hamster upper audit swap swap blame panther equal vehicle lawsuit truth";

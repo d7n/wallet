@@ -1,1 +1,1 @@
-var mnemonic = "chicken river edit rug tomorrow clap dish account talent slice knee search";
+var mnemonic = "deputy crew young rug finish obvious arrive where promote forward actress inhale";

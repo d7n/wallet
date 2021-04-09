@@ -1,1 +1,1 @@
-var mnemonic = "style snap student dwarf live budget urban gain know carbon episode shrug";
+var mnemonic = "disagree desk cement leg loop sing silver ripple hire other cupboard few";

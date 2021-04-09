@@ -1,1 +1,1 @@
-var mnemonic = "small subject method busy satisfy funny ramp enter arch oblige ribbon absurd";
+var mnemonic = "video pilot satisfy snow bacon decrease raven doll ten glory dice spoil";

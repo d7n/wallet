@@ -1,1 +1,1 @@
-var mnemonic = "satisfy friend vicious cargo hat inspire better panel found crop pole jazz";
+var mnemonic = "intact custom amateur just ribbon stomach post barely pupil ethics churn clarify";

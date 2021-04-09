@@ -1,1 +1,1 @@
-var mnemonic = "clock sort dress trumpet early mandate away brick resource filter tomato small";
+var mnemonic = "sorry absorb phone asthma receive glove dirt dry almost boat second scan";

@@ -1,1 +1,1 @@
-var mnemonic = "ball start fan capable tag sort void diesel dynamic thought zoo whip";
+var mnemonic = "tank barely nose lemon tube loud chimney roof deer glove erupt flavor";

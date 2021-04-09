@@ -1,1 +1,1 @@
-var mnemonic = "punch base usage concert hungry depend wild pudding cloth resemble armor squirrel";
+var mnemonic = "stomach live worth tank upset weird lecture damage domain merit crouch play";

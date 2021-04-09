@@ -1,1 +1,1 @@
-var mnemonic = "aunt session boost smooth road consider item brush long outside dove universe";
+var mnemonic = "basket lyrics thought vendor course cable clerk radio mean month fault job";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity wrestle chicken sketch cabbage salon cake material duck winner next actual";
+var mnemonic = "poet notice correct december salute loyal enroll clutch little raise melody horn";

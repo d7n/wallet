@@ -1,1 +1,1 @@
-var mnemonic = "vague initial blood nice essay piece crater spoon symptom asthma blind thumb";
+var mnemonic = "choice decorate runway primary just capable square adult hidden connect bid grab";
