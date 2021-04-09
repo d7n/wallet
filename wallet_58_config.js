@@ -1,1 +1,1 @@
-var mnemonic = "light opera nice bright unknown tissue solve taxi style wage unusual relax";
+var mnemonic = "reopen swap empty useful vote brave learn wet elegant liberty catalog mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "win real paper push like bachelor fold once step fork wink assume";
+var mnemonic = "mirror aunt dawn brick dinner stairs snake salon rural sad achieve please";

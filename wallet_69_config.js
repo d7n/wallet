@@ -1,1 +1,1 @@
-var mnemonic = "seat exile shed bargain lamp walnut sadness shell tell embark outdoor stomach";
+var mnemonic = "near coconut steak prosper pupil water inherit grief patrol thunder stamp hen";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury stone cluster kit wait settle again once galaxy chalk victory sauce";
+var mnemonic = "style small truth will little shoulder consider kiwi pig appear hurt test";

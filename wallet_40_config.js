@@ -1,1 +1,1 @@
-var mnemonic = "drama bunker upgrade either icon sorry desk tourist prefer bring few faith";
+var mnemonic = "merge cabin fuel fatal fetch find toss version forget mad castle fork";

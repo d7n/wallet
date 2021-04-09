@@ -1,1 +1,1 @@
-var mnemonic = "tube network mango grain enough fence earth evidence real inspire habit capital";
+var mnemonic = "media nephew life long trumpet awkward edge negative acoustic limb ladder dice";

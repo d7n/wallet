@@ -1,1 +1,1 @@
-var mnemonic = "virus today pull current skill sentence vapor silly spread orbit lion hip";
+var mnemonic = "sail offer enough motor dizzy federal place barely minute embrace above use";

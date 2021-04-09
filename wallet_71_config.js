@@ -1,1 +1,1 @@
-var mnemonic = "elegant size spray relief guilt nest cart body oblige simple vehicle mother";
+var mnemonic = "cargo jacket kick thank glide improve view bacon jump security never track";

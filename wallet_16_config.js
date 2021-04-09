@@ -1,1 +1,1 @@
-var mnemonic = "rain kiwi immune speak melody vendor loan churn rug federal author pigeon";
+var mnemonic = "detect ketchup forest offer pizza curious problem address inherit arrow kind intact";

@@ -1,1 +1,1 @@
-var mnemonic = "sound fitness deputy nurse meadow time someone diagram loyal net motion crowd";
+var mnemonic = "hospital index spoil copy edge oyster diamond result box train kingdom car";

@@ -1,1 +1,1 @@
-var mnemonic = "inject sentence minute leopard knee there endless negative river venue kiwi power";
+var mnemonic = "story decide boost penalty piano now business retire mandate moment silly open";

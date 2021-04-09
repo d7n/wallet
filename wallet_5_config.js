@@ -1,1 +1,1 @@
-var mnemonic = "lucky soul elephant gas order detect cruel romance coffee chef gold open";
+var mnemonic = "broccoli suffer observe hamster monster venture corn grab exile next curve mad";

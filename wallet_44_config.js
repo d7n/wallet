@@ -1,1 +1,1 @@
-var mnemonic = "spider same wise list card anger hard debris save fiscal crush suggest";
+var mnemonic = "learn wall faith crater hammer abuse punch kit mansion polar shock interest";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich direct rural release twenty slush whip divorce network cargo trigger flavor";
+var mnemonic = "wrestle ignore lazy tobacco crystal absent blind sing print display iron gallery";

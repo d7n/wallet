@@ -1,1 +1,1 @@
-var mnemonic = "guitar senior brief mom business pink charge prison time deer vintage ridge";
+var mnemonic = "outer hire ahead atom duty vicious attract tonight resist despair dumb vendor";

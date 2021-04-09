@@ -1,1 +1,1 @@
-var mnemonic = "glare cement agent piano tank runway maple apple sentence boat orient learn";
+var mnemonic = "master urban club urge globe rocket kick street good giggle payment record";

@@ -1,1 +1,1 @@
-var mnemonic = "forum few focus armor useless young scrub cause bright weather biology blast";
+var mnemonic = "wood walk tackle spare field slogan protect apple grain approve over mansion";

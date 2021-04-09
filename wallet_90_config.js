@@ -1,1 +1,1 @@
-var mnemonic = "thank shallow round museum market shell venue fruit zebra cage innocent wrap";
+var mnemonic = "unhappy lake strategy blush kingdom spend pear lunar move bargain track craft";

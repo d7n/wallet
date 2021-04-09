@@ -1,1 +1,1 @@
-var mnemonic = "device giant tide retreat pulse banana coffee outside original public napkin easy";
+var mnemonic = "debate upgrade mechanic laundry bulb bread can blind add symbol orphan nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "lake spike steak knife mask field humble fashion deal lamp such oval";
+var mnemonic = "crew glimpse spare enter minute next index burger recall fuel legal bean";

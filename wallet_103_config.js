@@ -1,1 +1,1 @@
-var mnemonic = "fix bargain orient lazy glove enhance stairs glory glimpse frog dragon found";
+var mnemonic = "deposit trumpet shift outer spoon comic arm muffin surface avoid glide quote";

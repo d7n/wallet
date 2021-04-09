@@ -1,1 +1,1 @@
-var mnemonic = "page protect trigger hunt own replace turkey forest when pottery lucky plug";
+var mnemonic = "aerobic cactus punch unveil park cry tornado caution diary bright harsh proof";

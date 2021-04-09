@@ -1,1 +1,1 @@
-var mnemonic = "december rotate nut skirt where ripple wheat anxiety wear lawsuit document gap";
+var mnemonic = "exile asthma refuse never pet delay shrug grab duck era label infant";

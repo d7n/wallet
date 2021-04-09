@@ -1,1 +1,1 @@
-var mnemonic = "cute puzzle glad museum north network switch rule cactus cannon bike column";
+var mnemonic = "man sure moon club debate acquire animal polar magic debate rose tongue";

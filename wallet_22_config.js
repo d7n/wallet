@@ -1,1 +1,1 @@
-var mnemonic = "sorry sleep ride hurry limb teach disagree urban mass toe happy minute";
+var mnemonic = "estate educate champion camp observe domain zone unveil myself hair unhappy diagram";

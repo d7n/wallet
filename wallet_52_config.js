@@ -1,1 +1,1 @@
-var mnemonic = "lucky round vanish breeze thrive expect smart fetch round upset office believe";
+var mnemonic = "siege runway apology section inner south above seek note unfold edit train";

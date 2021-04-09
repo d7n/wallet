@@ -1,1 +1,1 @@
-var mnemonic = "panda smoke hood scene tuna crane few topple rebuild pilot glide welcome";
+var mnemonic = "spring injury piece diet front sunset success small mountain thumb romance rather";

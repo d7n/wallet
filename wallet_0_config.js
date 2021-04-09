@@ -1,1 +1,1 @@
-var mnemonic = "rich undo merit indoor assume humor keep mutual brother observe tuna sleep";
+var mnemonic = "joy pumpkin seek meadow parrot ankle sphere draft lucky mirror build alien";

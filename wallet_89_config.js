@@ -1,1 +1,1 @@
-var mnemonic = "shield solar able soap decrease urge setup loop crumble know raw flower";
+var mnemonic = "bid chronic use check hazard bubble enemy body teach trumpet velvet double";

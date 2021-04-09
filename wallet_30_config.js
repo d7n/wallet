@@ -1,1 +1,1 @@
-var mnemonic = "promote false amount chunk ski settle rapid this cricket hazard cereal setup";
+var mnemonic = "picnic oven leg mouse small marriage next category enter fun awesome science";

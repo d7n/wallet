@@ -1,1 +1,1 @@
-var mnemonic = "cabin two solution predict remove phone buffalo yellow note ranch public blind";
+var mnemonic = "giant light visa clap can civil document snap segment kid expose flush";

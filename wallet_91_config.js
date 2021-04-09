@@ -1,1 +1,1 @@
-var mnemonic = "into change feature describe update trust fetch ignore girl price pigeon idle";
+var mnemonic = "document shock online essence feed alpha enhance owner bitter word guilt shock";

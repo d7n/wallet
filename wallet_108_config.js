@@ -1,1 +1,1 @@
-var mnemonic = "reason holiday duty sunny turkey weather cloud uniform open extend curtain whisper";
+var mnemonic = "derive glass awkward wagon large wage depend admit tumble aerobic verify solve";

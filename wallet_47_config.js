@@ -1,1 +1,1 @@
-var mnemonic = "pave situate animal miss silver left mercy gentle abstract wash account bronze";
+var mnemonic = "stool bulk much sweet trip human slab copy canyon fly ghost dilemma";

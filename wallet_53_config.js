@@ -1,1 +1,1 @@
-var mnemonic = "debris run inform become mule luggage sock soon salad same paper person";
+var mnemonic = "cable tribe brother proof cotton leisure donor vessel shield battle slight gauge";

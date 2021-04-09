@@ -1,1 +1,1 @@
-var mnemonic = "ketchup kangaroo deer member smoke guilt kingdom between impose chase wood drill";
+var mnemonic = "kick annual inhale weird device aim rough carpet square upper item undo";

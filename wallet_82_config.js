@@ -1,1 +1,1 @@
-var mnemonic = "primary same into style athlete tunnel broccoli suffer version soldier behave jar";
+var mnemonic = "shaft scout lock leopard plug nature sauce inquiry uncover sunset party trophy";

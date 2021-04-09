@@ -1,1 +1,1 @@
-var mnemonic = "myself nasty spoil release wing neither helmet machine wise cactus champion dose";
+var mnemonic = "adult pizza floor salon urban client kiss deny shrug side bean gold";

@@ -1,1 +1,1 @@
-var mnemonic = "grass diagram struggle lady rose flower fortune orchard prefer pass quality theory";
+var mnemonic = "visa kitchen outer foil title world exile limit glide gloom enact gravity";

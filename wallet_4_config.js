@@ -1,1 +1,1 @@
-var mnemonic = "chair nominee rough wolf faint kitten people weird oil wasp title bleak";
+var mnemonic = "aerobic taste liquid hood garage fire kingdom figure gown tail rich tide";

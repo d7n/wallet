@@ -1,1 +1,1 @@
-var mnemonic = "grab indicate evil hire airport sound front awesome camera ladder ensure curtain";
+var mnemonic = "you april defense major pretty media wedding item social wish warfare clap";

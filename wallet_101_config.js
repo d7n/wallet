@@ -1,1 +1,1 @@
-var mnemonic = "flight bamboo pulse evolve common fiber judge life direct fragile photo game";
+var mnemonic = "essence clog bulb stem beef win perfect provide base club proud chase";

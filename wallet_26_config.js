@@ -1,1 +1,1 @@
-var mnemonic = "marine sail canvas family fault poet roof alert lunar voyage stable crack";
+var mnemonic = "stand bring gossip captain reveal fault wild tired require moment onion rude";

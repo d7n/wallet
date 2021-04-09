@@ -1,1 +1,1 @@
-var mnemonic = "nose over okay spike emotion double autumn grow odor wool kite hazard";
+var mnemonic = "other connect mammal doctor sauce evil hedgehog bar ankle settle garden home";

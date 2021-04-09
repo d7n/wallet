@@ -1,1 +1,1 @@
-var mnemonic = "memory fork winner analyst desert recipe trim brief burger describe quantum chalk";
+var mnemonic = "polar grab winner captain luggage parrot wool swing man fork chat smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "head bachelor lyrics since seek myth puppy power method grocery brown twist";
+var mnemonic = "crystal shy minute second time wear supply prize soda today fan acquire";

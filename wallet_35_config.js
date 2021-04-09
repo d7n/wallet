@@ -1,1 +1,1 @@
-var mnemonic = "path chronic club habit neither horse happy salute bunker another reform ecology";
+var mnemonic = "frog cousin romance sample depart jungle fever fade lunar dance warm federal";

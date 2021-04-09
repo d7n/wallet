@@ -1,1 +1,1 @@
-var mnemonic = "cake there that apple naive offer life term head forget waste donate";
+var mnemonic = "awful wood pizza improve benefit cart unfair jar endless expire rule mercy";

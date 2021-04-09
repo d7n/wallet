@@ -1,1 +1,1 @@
-var mnemonic = "stick steak fit brother flush target work stadium large federal possible sample";
+var mnemonic = "soccer tunnel luggage bar sad funny blush cost inquiry interest circle clump";

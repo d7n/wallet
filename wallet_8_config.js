@@ -1,1 +1,1 @@
-var mnemonic = "exotic tenant car region gap already sing bounce gather sorry smart marble";
+var mnemonic = "play believe jacket flee artwork improve situate memory eight trumpet found puppy";

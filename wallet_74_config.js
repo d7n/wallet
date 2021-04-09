@@ -1,1 +1,1 @@
-var mnemonic = "salad enact actress proof slam near story cigar spoon bubble luxury wave";
+var mnemonic = "merit gap derive olive bag rate cash miss proud hundred clean endless";

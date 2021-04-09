@@ -1,1 +1,1 @@
-var mnemonic = "little pelican resource balcony warfare hurdle rural series spell method lemon vague";
+var mnemonic = "ring penalty empty affair innocent below message toe term success scatter story";

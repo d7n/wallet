@@ -1,1 +1,1 @@
-var mnemonic = "awkward random process reduce rail elite ready attack team belt harbor goddess";
+var mnemonic = "surprise snow swallow bind south flip someone reform mean lawsuit gravity brand";

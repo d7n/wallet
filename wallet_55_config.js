@@ -1,1 +1,1 @@
-var mnemonic = "chaos ostrich slight leg demise fortune hunt catch work skull boss oval";
+var mnemonic = "daughter orient dawn hat dance result insect border chicken husband leopard twenty";

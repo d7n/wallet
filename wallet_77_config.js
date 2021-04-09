@@ -1,1 +1,1 @@
-var mnemonic = "avocado pipe pitch portion industry crisp drastic sense slender bridge educate ceiling";
+var mnemonic = "balcony pledge frost wonder series unit life dust hint banana hub imitate";

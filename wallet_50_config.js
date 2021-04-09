@@ -1,1 +1,1 @@
-var mnemonic = "butter involve tube wrap myself indicate crazy pupil donor slab style vintage";
+var mnemonic = "family trigger husband access basic gasp diesel present ritual want prevent fine";

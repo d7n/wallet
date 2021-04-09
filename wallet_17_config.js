@@ -1,1 +1,1 @@
-var mnemonic = "gap need mad machine fringe stock beauty demise acoustic domain east dolphin";
+var mnemonic = "town alarm math recipe talk tape vapor tube egg method coyote frown";

@@ -1,1 +1,1 @@
-var mnemonic = "half orphan rose tone unknown upgrade dolphin lumber gas kitchen feel powder";
+var mnemonic = "expose run finger stick sorry dove false please pistol just afraid outdoor";

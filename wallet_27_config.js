@@ -1,1 +1,1 @@
-var mnemonic = "whisper tomato column couch gown dry ensure paper space puzzle roof rain";
+var mnemonic = "vocal load sign average butter labor afford dove riot hazard middle spray";

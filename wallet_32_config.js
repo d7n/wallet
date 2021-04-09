@@ -1,1 +1,1 @@
-var mnemonic = "moment night dose churn stuff level demise suffer ice bonus naive uphold";
+var mnemonic = "abuse shoe tornado ensure wolf rival forum kitchen inform govern entry safe";

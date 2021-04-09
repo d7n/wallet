@@ -1,1 +1,1 @@
-var mnemonic = "version angle rent giggle when exist roast hat skirt pigeon teach symbol";
+var mnemonic = "shy game ask deny onion nation future soap credit shoe chunk shallow";

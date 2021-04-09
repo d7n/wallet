@@ -1,1 +1,1 @@
-var mnemonic = "receive drill bread license repair proud shed action rice govern tenant peace";
+var mnemonic = "seat elephant million field sister wood upset daughter tilt cost museum lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "comic myself ocean pudding prevent van orient author expose chicken valley employ";
+var mnemonic = "over climb obvious lens cinnamon salute budget crumble remain file sheriff they";

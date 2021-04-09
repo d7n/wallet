@@ -1,1 +1,1 @@
-var mnemonic = "diagram struggle gospel cloud tortoise flat security brown supply genius make ranch";
+var mnemonic = "today valve blush hamster similar jeans bird detail badge goddess dizzy prevent";

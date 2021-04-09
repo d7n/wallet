@@ -1,1 +1,1 @@
-var mnemonic = "practice village voyage define fade act valley release favorite outer merge title";
+var mnemonic = "useful nasty globe receive copy pact bus sign cook shoe curtain canvas";

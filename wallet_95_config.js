@@ -1,1 +1,1 @@
-var mnemonic = "purse ordinary economy syrup planet kangaroo essence pigeon damp major aisle unlock";
+var mnemonic = "march march light know mail myself panther floor wool galaxy super neglect";

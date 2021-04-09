@@ -1,1 +1,1 @@
-var mnemonic = "sick peanut small dove stairs dress ticket butter demand turkey volcano school";
+var mnemonic = "swing mercy orient outside concert eyebrow harvest true draft woman athlete fall";

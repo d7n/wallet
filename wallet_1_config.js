@@ -1,1 +1,1 @@
-var mnemonic = "virus drive whip long provide silly fashion street dial candy early three";
+var mnemonic = "party erode old frown sentence net delay tired control note rich innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle surge flavor allow midnight wood giant rough exercise mercy mention casino";
+var mnemonic = "away absurd mandate gossip company lunch pass process cry two lecture regret";

@@ -1,1 +1,1 @@
-var mnemonic = "combine drive derive rabbit hold car novel ordinary faith endless chronic layer";
+var mnemonic = "mind bullet wasp vault mix flower potato antique horse pulp soul check";

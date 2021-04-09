@@ -1,1 +1,1 @@
-var mnemonic = "chimney smile swap oppose camp banana peace bus pass pluck juice woman";
+var mnemonic = "thank security festival improve devote endorse dynamic gauge own girl trend sugar";

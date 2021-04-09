@@ -1,1 +1,1 @@
-var mnemonic = "protect theme depart rotate reject rain evoke deliver wear simple race swim";
+var mnemonic = "proof pole survey life oven picnic pottery army monkey vehicle coin reject";

@@ -1,1 +1,1 @@
-var mnemonic = "bag employ such tonight parade excite canyon file exercise magnet hurdle scissors";
+var mnemonic = "tell dirt clump coconut letter lecture census bus pill wire camp boss";

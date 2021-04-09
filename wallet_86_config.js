@@ -1,1 +1,1 @@
-var mnemonic = "ensure blind ladder gym wing when citizen fence hamster physical mother suggest";
+var mnemonic = "pelican glow desert simple impact below clown hurdle business stone glass among";

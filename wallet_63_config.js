@@ -1,1 +1,1 @@
-var mnemonic = "crucial output seek dumb laundry quote agent enable pond decorate judge sleep";
+var mnemonic = "exchange market series smile imitate fortune grit twin debate venture receive elbow";

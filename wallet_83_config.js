@@ -1,1 +1,1 @@
-var mnemonic = "uniform ethics torch leopard test tuna extra mass method love sail gun";
+var mnemonic = "sentence equip relief heavy lyrics polar system skull forum risk rookie crumble";

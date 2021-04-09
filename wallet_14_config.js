@@ -1,1 +1,1 @@
-var mnemonic = "document punch ghost toast lyrics lazy radar follow ahead empty erode grow";
+var mnemonic = "garage crystal office chapter amateur sausage stable sorry audit unaware close mechanic";

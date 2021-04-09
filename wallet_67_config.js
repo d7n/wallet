@@ -1,1 +1,1 @@
-var mnemonic = "crazy ready also manage early merge endless lawsuit destroy verify bless health";
+var mnemonic = "choose market announce craft crawl grid genre ride coast fence soldier fire";

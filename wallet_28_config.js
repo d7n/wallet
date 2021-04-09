@@ -1,1 +1,1 @@
-var mnemonic = "color bench near lawsuit drill reduce badge prepare reward skull injury sunny";
+var mnemonic = "lottery round jazz mystery voice swarm unknown solid wild habit around coyote";

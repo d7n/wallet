@@ -1,1 +1,1 @@
-var mnemonic = "uniform walk pride supply copper coin kick ketchup industry right manual daring";
+var mnemonic = "guilt taste october flash wrong circle try voyage odor calm moon unknown";

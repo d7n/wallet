@@ -1,1 +1,1 @@
-var mnemonic = "rotate goose tornado spin pilot cloud worth travel rapid spread kangaroo vast";
+var mnemonic = "sauce mystery evoke electric desk tumble brief garden imitate will belt border";

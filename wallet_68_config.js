@@ -1,1 +1,1 @@
-var mnemonic = "leisure consider property edge urban settle emerge myth doctor shove wood fatigue";
+var mnemonic = "grape wonder rapid ball tackle penalty business nerve latin fitness roast nest";

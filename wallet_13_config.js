@@ -1,1 +1,1 @@
-var mnemonic = "riot vocal produce panel three position involve aim noise weekend inch sting";
+var mnemonic = "farm shadow jelly online december chuckle cave opera ramp ordinary gorilla evoke";

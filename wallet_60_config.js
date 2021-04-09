@@ -1,1 +1,1 @@
-var mnemonic = "quick boil hollow dirt ball able snap wrist column rubber inner cloud";
+var mnemonic = "never paddle visual make nerve glimpse mention exhibit amateur bread better drip";

@@ -1,1 +1,1 @@
-var mnemonic = "august upon black sniff liar input despair pistol embody rubber kite audit";
+var mnemonic = "evil keen series cinnamon rebel bacon brush olympic piano region lobster round";

@@ -1,1 +1,1 @@
-var mnemonic = "family together impact lunch aerobic miracle suspect guitar more horse pattern mutual";
+var mnemonic = "oven tackle swallow trash robust young throw bread blood lesson treat stable";

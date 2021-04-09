@@ -1,1 +1,1 @@
-var mnemonic = "carbon nephew art vicious zoo spot eight fruit curious crawl wet wreck";
+var mnemonic = "abandon toddler gentle spare aim okay vote bunker exclude lunar razor city";

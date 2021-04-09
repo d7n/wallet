@@ -1,1 +1,1 @@
-var mnemonic = "palace tortoise mechanic whale fee opinion much violin exotic scare curve oval";
+var mnemonic = "open fresh hybrid dice perfect awesome happy dash bamboo machine unfair myth";

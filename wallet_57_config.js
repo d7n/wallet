@@ -1,1 +1,1 @@
-var mnemonic = "garlic below rescue ugly shuffle apart material meat abuse harbor position worth";
+var mnemonic = "popular post evolve sick suspect maid verify fade online slim trick artwork";

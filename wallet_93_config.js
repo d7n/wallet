@@ -1,1 +1,1 @@
-var mnemonic = "young squeeze fan toddler ensure elephant solve sunny fitness angle since pig";
+var mnemonic = "sample vault actor shock orient corn item home enroll alone involve mule";

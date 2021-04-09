@@ -1,1 +1,1 @@
-var mnemonic = "enter amateur top alone month catalog dust nominee code fault habit inflict";
+var mnemonic = "dune deny tell tattoo attract tiger man cabin such bottom ahead buffalo";

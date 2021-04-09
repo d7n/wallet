@@ -1,1 +1,1 @@
-var mnemonic = "mammal century prosper subway box harbor bind tower office salmon toss stairs";
+var mnemonic = "casual dutch deny toward pause field monster six acoustic unable catalog spot";

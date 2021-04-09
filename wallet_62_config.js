@@ -1,1 +1,1 @@
-var mnemonic = "impose curve chef ribbon upset senior point filter flight able spatial angry";
+var mnemonic = "people leg home either rival cloth evoke expire resemble sample melt abuse";
