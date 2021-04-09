@@ -1,1 +1,1 @@
-var mnemonic = "pipe dawn magic table argue clean dune release ancient penalty fiscal cement";
+var mnemonic = "taxi female finish canal aisle venture tongue security movie measure seek man";

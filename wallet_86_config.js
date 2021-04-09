@@ -1,1 +1,1 @@
-var mnemonic = "crush phrase ready agree mom melody law win merry slim cruel shine";
+var mnemonic = "provide harsh right spell insane bulb vanish brand loud episode float rival";

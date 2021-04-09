@@ -1,1 +1,1 @@
-var mnemonic = "option romance struggle call fiscal jazz grab box fan paper elder indoor";
+var mnemonic = "teach goat armed neutral pill nurse jealous body opera half hill walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust attract local arm usual attract supreme adjust exclude nuclear coin yellow";
+var mnemonic = "blossom various knee float coin quiz else shed glare gospel trust debris";

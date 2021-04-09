@@ -1,1 +1,1 @@
-var mnemonic = "gym radio oxygen diary patient oak track elite reduce crater remain erase";
+var mnemonic = "sail subway parrot explain hurry nice leg voyage grid transfer utility monkey";

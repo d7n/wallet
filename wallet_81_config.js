@@ -1,1 +1,1 @@
-var mnemonic = "found thought alter unit eight liberty medal answer exile people disagree spring";
+var mnemonic = "curious real indicate immune venture cube arrange curtain chunk damp addict announce";

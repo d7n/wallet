@@ -1,1 +1,1 @@
-var mnemonic = "escape shine purpose win spoon ripple shrimp soldier pyramid cheap year matrix";
+var mnemonic = "chair noble bind fence rubber street song arctic spend broken fiction siege";

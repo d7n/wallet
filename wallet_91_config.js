@@ -1,1 +1,1 @@
-var mnemonic = "cricket purchase major limit acquire liquid knock badge remain raise index scene";
+var mnemonic = "tiger eager robust casino increase any envelope tomorrow series wreck maze success";

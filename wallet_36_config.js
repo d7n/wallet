@@ -1,1 +1,1 @@
-var mnemonic = "place math poverty glare holiday loud elegant palm start corn text october";
+var mnemonic = "hair light trip flower pudding struggle crucial clap denial orphan bean shoe";

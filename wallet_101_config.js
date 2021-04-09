@@ -1,1 +1,1 @@
-var mnemonic = "auction evidence alpha host often health quit lumber dilemma giant lunch settle";
+var mnemonic = "neutral will pony mammal ten race vehicle stumble carbon degree elite urban";

@@ -1,1 +1,1 @@
-var mnemonic = "advance disease trouble crawl meadow shine crystal price soup alpha hood loyal";
+var mnemonic = "forward immense endorse trip jeans panda pretty problem juice mesh myself park";

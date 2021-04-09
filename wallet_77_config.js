@@ -1,1 +1,1 @@
-var mnemonic = "detail master wear blade gain hunt control parent bitter bone major narrow";
+var mnemonic = "october gentle pioneer next album office grace gadget enable egg kite close";

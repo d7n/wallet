@@ -1,1 +1,1 @@
-var mnemonic = "speak orient image pudding exact surround elegant slush truly coast luxury okay";
+var mnemonic = "great defense mesh example capable win equal barrel symbol labor burger token";

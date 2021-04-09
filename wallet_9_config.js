@@ -1,1 +1,1 @@
-var mnemonic = "toast tennis mushroom allow acid pelican height butter corn water genius report";
+var mnemonic = "chimney erase art grit clay syrup mind minimum voyage opinion catalog measure";

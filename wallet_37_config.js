@@ -1,1 +1,1 @@
-var mnemonic = "dismiss offer strategy smooth pelican away tunnel abandon antenna cabbage parent blast";
+var mnemonic = "piano immune silk science tomato exact target intact bar favorite enjoy frequent";

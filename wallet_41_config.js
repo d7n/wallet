@@ -1,1 +1,1 @@
-var mnemonic = "wall below caution enlist festival fluid hospital actress foot auction now swap";
+var mnemonic = "talk extend ripple ostrich cable drink rescue next give repeat endorse school";

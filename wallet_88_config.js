@@ -1,1 +1,1 @@
-var mnemonic = "lunar fence assist cry phone fine mail bird suggest forget quality scissors";
+var mnemonic = "horror voyage close hill popular regular waste tent energy allow rally resource";

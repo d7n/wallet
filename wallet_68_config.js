@@ -1,1 +1,1 @@
-var mnemonic = "matrix slender divide draw fan hammer van code tumble economy off someone";
+var mnemonic = "sketch elbow pupil damage pave sign arm average razor visit toy just";

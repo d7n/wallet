@@ -1,1 +1,1 @@
-var mnemonic = "hour rotate garden neglect already vacant when young army alert group task";
+var mnemonic = "dust salt heart put lamp bomb gloom shoulder owner spread ocean radio";

@@ -1,1 +1,1 @@
-var mnemonic = "dose shallow fine repair inform beach device gift champion tissue claim come";
+var mnemonic = "pudding unique glad enough cross same upset toddler arena shield range hint";

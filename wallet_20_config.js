@@ -1,1 +1,1 @@
-var mnemonic = "excess view snap chief hammer dentist buddy cloth draft jazz lizard delay";
+var mnemonic = "diesel beauty income february speed there stick lyrics escape tone this answer";

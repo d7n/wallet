@@ -1,1 +1,1 @@
-var mnemonic = "bubble require noise term stomach hello social day case speak vocal tiny";
+var mnemonic = "muscle spend public benefit turtle auto like liar advice fault piece away";

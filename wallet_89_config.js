@@ -1,1 +1,1 @@
-var mnemonic = "second photo kick robust tomorrow one brother solve gospel enact spice drop";
+var mnemonic = "trip butter immune unfold daring lend maple device engage sorry provide talk";

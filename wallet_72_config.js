@@ -1,1 +1,1 @@
-var mnemonic = "enact coffee lyrics shaft matrix clinic orange legend wheat quiz hope clutch";
+var mnemonic = "surface turn rifle another convince shrug trumpet correct must wave nothing desk";

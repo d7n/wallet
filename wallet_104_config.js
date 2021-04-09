@@ -1,1 +1,1 @@
-var mnemonic = "perfect before cabin olive lazy bulb pact topple column vague robust vehicle";
+var mnemonic = "address damage cat salon cup neither enter icon bread camera path virus";

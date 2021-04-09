@@ -1,1 +1,1 @@
-var mnemonic = "twenty place casino quarter bleak purse retire anxiety tone girl youth want";
+var mnemonic = "good shock praise alcohol attract hour cotton network torch notable want sell";

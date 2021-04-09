@@ -1,1 +1,1 @@
-var mnemonic = "resource abuse fox robust inherit best senior erode kangaroo ignore foster panda";
+var mnemonic = "vehicle blue creek region sausage neutral sail chase theory spin circle nut";

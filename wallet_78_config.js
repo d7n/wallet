@@ -1,1 +1,1 @@
-var mnemonic = "rule kind insane kind odor observe library step keen glad pluck program";
+var mnemonic = "kiwi tray fruit own faculty dial actual chunk glare design flight move";

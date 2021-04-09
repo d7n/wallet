@@ -1,1 +1,1 @@
-var mnemonic = "dice duty reason erupt output cake spice civil foot planet frequent awkward";
+var mnemonic = "rapid surround ticket merit spike liquid island time cable badge tilt pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "barely face crumble balance hidden slab spatial letter arm toast woman inhale";
+var mnemonic = "pretty black security seat congress scan country job repair style save release";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber innocent source marine web blue demand seminar never horror uncover almost";
+var mnemonic = "shop easily scissors please keep script tortoise hybrid student jewel combine harsh";

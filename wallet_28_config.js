@@ -1,1 +1,1 @@
-var mnemonic = "upgrade ecology slam noodle dumb level hat genre arctic defy knee defy";
+var mnemonic = "grass shoe future prize this fiber stool truck collect purpose snack trade";

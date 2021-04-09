@@ -1,1 +1,1 @@
-var mnemonic = "major pioneer when media survey bitter sick rack question blur kidney toddler";
+var mnemonic = "test uniform attract note only robust name country sense ridge mix match";

@@ -1,1 +1,1 @@
-var mnemonic = "enter side wise pet analyst ivory umbrella open obscure sad culture argue";
+var mnemonic = "pretty focus clutch butter ladder uncle trip unfair beach alter ritual rifle";

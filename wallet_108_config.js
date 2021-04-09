@@ -1,1 +1,1 @@
-var mnemonic = "want night rule asthma segment wine index chuckle pistol staff ketchup sense";
+var mnemonic = "royal copy social bundle skate nest sea afraid drip bench orient project";

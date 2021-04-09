@@ -1,1 +1,1 @@
-var mnemonic = "hint parrot twin hill gossip steel loud rude tobacco token thought modify";
+var mnemonic = "joke skate exact science business immune sun sustain comfort assist oblige olympic";

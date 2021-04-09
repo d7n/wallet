@@ -1,1 +1,1 @@
-var mnemonic = "shadow certain pause glimpse neither sustain rapid worry raccoon subject caught cherry";
+var mnemonic = "disease reopen indoor nurse grow donor correct evoke forget thrive must fat";

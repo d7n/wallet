@@ -1,1 +1,1 @@
-var mnemonic = "whisper cloud security property rice man boost barely first wine initial office";
+var mnemonic = "bag border cycle seat quote faculty admit spin color dragon spare female";

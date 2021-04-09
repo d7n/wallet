@@ -1,1 +1,1 @@
-var mnemonic = "sustain ethics energy sort wisdom pink patrol thing twice cake various grow";
+var mnemonic = "very deny tobacco approve gorilla kidney knee symptom valve size hedgehog flower";

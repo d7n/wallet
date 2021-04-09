@@ -1,1 +1,1 @@
-var mnemonic = "air arctic essence flee perfect cushion kidney rice celery other scheme myself";
+var mnemonic = "post vapor hen burst mail earth immense section model joy flower time";

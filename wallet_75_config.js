@@ -1,1 +1,1 @@
-var mnemonic = "twist leave turtle expand chair lottery general double among place strong ceiling";
+var mnemonic = "employ trial dirt sibling health electric play twenty exhaust again puppy dawn";

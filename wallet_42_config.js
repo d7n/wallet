@@ -1,1 +1,1 @@
-var mnemonic = "once fruit spike wagon maximum short spend nurse snow task result release";
+var mnemonic = "history have update modify angle language bottom cannon amount ritual tiny cycle";

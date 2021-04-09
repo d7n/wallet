@@ -1,1 +1,1 @@
-var mnemonic = "muscle taxi symbol festival depart flock loan mechanic nasty crowd column decrease";
+var mnemonic = "tired sport insane prison capable glow snap fame crowd please cabbage bamboo";

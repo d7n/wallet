@@ -1,1 +1,1 @@
-var mnemonic = "wheat glad deer zone cage topple elite wasp ridge slab never gentle";
+var mnemonic = "exile embark effort maze catalog menu food brass two pudding door clog";

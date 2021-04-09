@@ -1,1 +1,1 @@
-var mnemonic = "clock matrix pact enjoy column salt walnut wrist bargain sound attack yard";
+var mnemonic = "tonight soda insect confirm cruel pen convince tower assault game chest sound";

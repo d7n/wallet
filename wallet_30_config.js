@@ -1,1 +1,1 @@
-var mnemonic = "brand report brave faculty cattle swift pen scorpion quarter humble build reduce";
+var mnemonic = "universe bachelor vague marble vanish salt seminar blast note web office favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "arena service news teach pet purse dream sphere sheriff subway palace glare";
+var mnemonic = "name radio alien coast satoshi color regular wagon lock robust float series";

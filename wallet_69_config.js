@@ -1,1 +1,1 @@
-var mnemonic = "rival cabbage surge wasp scout focus slender remember win mistake girl table";
+var mnemonic = "picnic quick siren hollow cotton ball flame hunt example sing tackle west";

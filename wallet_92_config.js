@@ -1,1 +1,1 @@
-var mnemonic = "isolate kitten liberty put muscle follow tooth yard music cotton phrase muffin";
+var mnemonic = "list task resource friend survey receive faculty dumb toe unusual sentence monster";

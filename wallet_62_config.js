@@ -1,1 +1,1 @@
-var mnemonic = "sentence connect olympic surprise bicycle small edge feel prefer assist ignore buzz";
+var mnemonic = "market grow husband capital corn turkey axis dawn silly luxury detail relax";

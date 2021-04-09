@@ -1,1 +1,1 @@
-var mnemonic = "favorite clump clerk denial toy sample monkey hedgehog knee afraid run march";
+var mnemonic = "bamboo section warm vendor bike sweet father traffic fiction van group lizard";

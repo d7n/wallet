@@ -1,1 +1,1 @@
-var mnemonic = "legal brick identify expire puzzle link execute depend sausage blue grow audit";
+var mnemonic = "fade moment burden toward youth kitten rule try spike north violin holiday";

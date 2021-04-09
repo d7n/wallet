@@ -1,1 +1,1 @@
-var mnemonic = "host accuse plunge dinner hour scan budget urge burger banana rubber mixed";
+var mnemonic = "fall spare boil machine tennis deputy city rice reject card dinosaur frozen";

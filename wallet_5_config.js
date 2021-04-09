@@ -1,1 +1,1 @@
-var mnemonic = "cat hole correct federal hub student explain same simple someone above deposit";
+var mnemonic = "boil holiday insane gap wage hurdle peasant exclude yard ball add kite";

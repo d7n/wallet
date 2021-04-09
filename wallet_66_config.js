@@ -1,1 +1,1 @@
-var mnemonic = "weird home tomato bridge carbon beach sense awake design art creek drum";
+var mnemonic = "assist mouse habit wisdom gap base six average moral bird west village";

@@ -1,1 +1,1 @@
-var mnemonic = "disease genuine donor brief jump unfold extend toy ice proof floor forest";
+var mnemonic = "cheap universe awful credit letter crew champion ability virtual seed exact always";

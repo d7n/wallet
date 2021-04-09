@@ -1,1 +1,1 @@
-var mnemonic = "civil moment latin beef chase squirrel until spend walnut sound cattle reunion";
+var mnemonic = "off cruise raw grocery stand sphere parrot nest hire double else caution";

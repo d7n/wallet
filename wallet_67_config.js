@@ -1,1 +1,1 @@
-var mnemonic = "slam pond upper alien destroy skull outer couch time twice bundle release";
+var mnemonic = "nurse depth crash hollow then oval meadow stamp own nuclear ready vendor";

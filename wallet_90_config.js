@@ -1,1 +1,1 @@
-var mnemonic = "bundle this engine want prison case loud fun reunion calm hour video";
+var mnemonic = "riot color fold aspect hazard object thumb south card please soft electric";

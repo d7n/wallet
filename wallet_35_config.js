@@ -1,1 +1,1 @@
-var mnemonic = "slam gun young embrace net priority couple tonight obscure sunset nut reject";
+var mnemonic = "dice clever cinnamon help open congress episode punch input spare curve north";

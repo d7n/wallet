@@ -1,1 +1,1 @@
-var mnemonic = "promote dragon forest soccer fix excuse pumpkin country rubber blast honey else";
+var mnemonic = "reward interest cable laugh divorce cruise pilot oxygen wonder imitate people bean";

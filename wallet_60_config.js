@@ -1,1 +1,1 @@
-var mnemonic = "client hire dizzy card license edit thunder sound forest cliff busy hole";
+var mnemonic = "fantasy dish bunker include fork leisure antenna myself mule pumpkin plastic kiss";

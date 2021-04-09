@@ -1,1 +1,1 @@
-var mnemonic = "scene powder open youth more bullet prevent extra dice cloud soda defy";
+var mnemonic = "barrel cave park jungle shift blind spice inform alpha market bench flock";

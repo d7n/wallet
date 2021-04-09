@@ -1,1 +1,1 @@
-var mnemonic = "ready choice december field phrase asthma ridge distance tongue eyebrow kite junk";
+var mnemonic = "auto okay differ much electric public record slender exclude remain key mesh";

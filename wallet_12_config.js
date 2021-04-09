@@ -1,1 +1,1 @@
-var mnemonic = "pistol solar father hover gaze happy budget rich blast decorate cross clap";
+var mnemonic = "plate access try sibling satoshi human boat hint depend orchard verb laugh";

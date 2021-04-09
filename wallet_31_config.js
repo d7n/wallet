@@ -1,1 +1,1 @@
-var mnemonic = "report afford secret photo hold source summer breeze wedding rival shiver much";
+var mnemonic = "arena hour silk glove hover express salt like bicycle brush diet couch";

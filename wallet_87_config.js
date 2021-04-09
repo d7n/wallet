@@ -1,1 +1,1 @@
-var mnemonic = "civil bridge impose donor latin notice crouch someone pudding era end plate";
+var mnemonic = "hole brush inch child ghost lobster twin thing solar riot cushion possible";

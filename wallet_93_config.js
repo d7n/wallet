@@ -1,1 +1,1 @@
-var mnemonic = "traffic heart problem hybrid woman spray relief upset lava trophy excite gesture";
+var mnemonic = "strong pause cool never habit gold illness supply drip bridge core random";

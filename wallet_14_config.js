@@ -1,1 +1,1 @@
-var mnemonic = "supply pelican better episode police myth thank one holiday matter version apple";
+var mnemonic = "butter wheat reason wedding hold run melody blue menu reward wine soft";

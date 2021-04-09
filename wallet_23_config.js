@@ -1,1 +1,1 @@
-var mnemonic = "casual tray settle subject like tip valid index correct soft grant lens";
+var mnemonic = "faith dose dwarf silk riot target airport van guard fame tray focus";

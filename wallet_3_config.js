@@ -1,1 +1,1 @@
-var mnemonic = "student doll apart milk person robot helmet become silent domain seek absent";
+var mnemonic = "sick access sample number word cancel jeans rookie search inner fit dragon";

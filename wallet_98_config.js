@@ -1,1 +1,1 @@
-var mnemonic = "nice truly oval appear web noble address level delay all bomb blast";
+var mnemonic = "master fiction cigar bacon portion raccoon seven disorder cluster people sad opinion";

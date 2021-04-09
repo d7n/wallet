@@ -1,1 +1,1 @@
-var mnemonic = "voice asthma state lizard wire candy still annual yellow mean interest battle";
+var mnemonic = "portion elbow knock bachelor hotel siren come trend danger myself scrub effort";

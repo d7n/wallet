@@ -1,1 +1,1 @@
-var mnemonic = "bubble thrive maid shadow dove fit rally unveil prize harbor this grant";
+var mnemonic = "spoil breeze menu tornado small throw army wish pride render crew earn";

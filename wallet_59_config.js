@@ -1,1 +1,1 @@
-var mnemonic = "beauty custom demand used bus okay perfect aerobic remind book master man";
+var mnemonic = "target kitchen mammal fun flat wrong kid sun dream father afford equal";

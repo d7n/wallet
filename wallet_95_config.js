@@ -1,1 +1,1 @@
-var mnemonic = "stable eyebrow spend sudden strike quantum advance intact captain tube order plug";
+var mnemonic = "into grace cancel minor evil float author else problem width west ghost";

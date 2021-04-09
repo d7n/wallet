@@ -1,1 +1,1 @@
-var mnemonic = "topic chalk desert pluck future rough earn visa gloom sleep tissue year";
+var mnemonic = "false catch blanket lion brand scene exhibit fame bacon crew gauge zoo";

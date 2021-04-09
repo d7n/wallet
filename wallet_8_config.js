@@ -1,1 +1,1 @@
-var mnemonic = "globe bag electric walk soup wolf twin exclude scan elder decrease model";
+var mnemonic = "huge thumb brief yard benefit climb roof seed friend dumb wing vault";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh peanut junk spawn palm seminar renew daughter unaware spare salt celery";
+var mnemonic = "destroy next bitter chat arrange armed need milk cluster false box imitate";

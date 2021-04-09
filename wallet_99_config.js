@@ -1,1 +1,1 @@
-var mnemonic = "loop couch transfer begin travel issue pelican shadow ribbon diamond sting wait";
+var mnemonic = "laptop bleak soul cross build lyrics trim nut tomorrow monitor dad flash";

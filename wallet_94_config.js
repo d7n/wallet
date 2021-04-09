@@ -1,1 +1,1 @@
-var mnemonic = "gas key limit salon relief paper metal poverty ghost peanut snap spatial";
+var mnemonic = "antique pulp wreck gallery fat around reason push sight worry resource whale";

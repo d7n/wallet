@@ -1,1 +1,1 @@
-var mnemonic = "forum polar friend matter muscle pair detect dynamic task detect twice agree";
+var mnemonic = "february ridge wheat spirit twenty job cream tourist desk supply input front";

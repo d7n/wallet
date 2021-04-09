@@ -1,1 +1,1 @@
-var mnemonic = "surface damp trouble erase asthma denial dwarf close solar ask phone wink";
+var mnemonic = "crush laugh amused muffin grape hover museum hollow must drop circle fiction";

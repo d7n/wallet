@@ -1,1 +1,1 @@
-var mnemonic = "apple spray attract library attract radio monkey over crucial torch will mad";
+var mnemonic = "save ancient bar hub grain crawl cinnamon garlic huge lesson perfect grape";

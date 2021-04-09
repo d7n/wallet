@@ -1,1 +1,1 @@
-var mnemonic = "essence strategy caution topple harbor they adjust jump shallow tackle struggle route";
+var mnemonic = "faint dentist allow print tooth disagree age follow educate deposit master wasp";

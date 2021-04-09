@@ -1,1 +1,1 @@
-var mnemonic = "invest peace crash tube orbit company aspect reason slide affair drive weird";
+var mnemonic = "glow biology candy blur toast globe mystery drink vast rough couch arena";

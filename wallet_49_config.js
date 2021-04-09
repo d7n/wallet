@@ -1,1 +1,1 @@
-var mnemonic = "village hawk fold year virus dilemma cotton raven weapon pudding notice manual";
+var mnemonic = "polar awake arm rigid affair census evidence cinnamon bachelor patch nephew wagon";

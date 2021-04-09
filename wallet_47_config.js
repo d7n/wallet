@@ -1,1 +1,1 @@
-var mnemonic = "slogan blade table toast legend mystery crouch next agent weather skirt various";
+var mnemonic = "give expire slow doll legend crucial shiver floor dolphin mercy kit dove";

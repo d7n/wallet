@@ -1,1 +1,1 @@
-var mnemonic = "faculty milk roast occur above cupboard federal tired silver fan pact quote";
+var mnemonic = "remind sugar give crouch surge upset sock icon require replace brother solid";

@@ -1,1 +1,1 @@
-var mnemonic = "input genre wrong obscure green load escape please alert moral enroll festival";
+var mnemonic = "wink comic choice inquiry level slice glad oxygen next debate usage pottery";
