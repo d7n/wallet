@@ -1,1 +1,1 @@
-var mnemonic = "swamp minimum mystery sauce razor scrub hotel noise power resemble coin trust";
+var mnemonic = "screen taxi absurd capital planet cluster skirt bullet mercy tail brass indicate";

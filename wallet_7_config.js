@@ -1,1 +1,1 @@
-var mnemonic = "accuse youth party join mother price glow destroy blur leopard ghost army";
+var mnemonic = "talent banana civil antenna leg code naive tree robust actual diary amazing";

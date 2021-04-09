@@ -1,1 +1,1 @@
-var mnemonic = "rough hood brand cook fuel evolve royal crouch repair rebuild solar rapid";
+var mnemonic = "degree ostrich label follow quote genius ski say aunt comfort dial rude";

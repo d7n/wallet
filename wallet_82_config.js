@@ -1,1 +1,1 @@
-var mnemonic = "permit toward know wood neither pupil super actor junior find alter talk";
+var mnemonic = "into rotate game breeze chef squirrel elder holiday school poverty fit mean";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit tennis mechanic motor pencil cactus chapter liberty senior plastic cabbage disorder";
+var mnemonic = "bronze frog flash solid border hat heavy mansion glue demise hedgehog denial";

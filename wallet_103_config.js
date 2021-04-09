@@ -1,1 +1,1 @@
-var mnemonic = "pond organ refuse ski ahead slow evidence cancel sponsor attend salt fox";
+var mnemonic = "arrive abstract stool force desk allow siren uncover cube pass attitude recall";

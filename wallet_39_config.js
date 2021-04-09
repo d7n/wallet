@@ -1,1 +1,1 @@
-var mnemonic = "violin sting sun protect whip trim castle senior exist approve undo rail";
+var mnemonic = "salmon unfair magnet credit hungry mean armor ginger ready spare decrease crucial";

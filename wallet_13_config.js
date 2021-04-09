@@ -1,1 +1,1 @@
-var mnemonic = "basic resist grain float animal wire hungry pull hint extra engage struggle";
+var mnemonic = "marriage license science pencil love artefact index win crawl sunset beyond soldier";

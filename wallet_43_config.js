@@ -1,1 +1,1 @@
-var mnemonic = "pull matter travel chronic lumber sniff wash valve churn off estate laundry";
+var mnemonic = "come vast one enable loud profit fringe credit whale hurt vintage erosion";

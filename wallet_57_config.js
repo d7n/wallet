@@ -1,1 +1,1 @@
-var mnemonic = "honey album stay initial chimney size sand wet motion mail journey suspect";
+var mnemonic = "demand arm south tumble violin close bounce deny alter kite window neither";

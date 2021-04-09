@@ -1,1 +1,1 @@
-var mnemonic = "plunge pottery rain leave involve curtain month famous artefact liquid submit reunion";
+var mnemonic = "rule what live can cruel grab zebra never virus vague tide curve";

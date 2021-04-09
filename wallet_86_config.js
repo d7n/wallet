@@ -1,1 +1,1 @@
-var mnemonic = "gain cost loud apology betray blur mass like eagle quiz waste color";
+var mnemonic = "quality unhappy battle embark zone eyebrow limit unknown erode kite evolve upset";

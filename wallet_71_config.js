@@ -1,1 +1,1 @@
-var mnemonic = "liquid question vibrant gain uncle spirit wear neutral exist parade wave cushion";
+var mnemonic = "post rhythm when response material spy mammal exercise approve vendor fever payment";

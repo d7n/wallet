@@ -1,1 +1,1 @@
-var mnemonic = "immense robot husband pony brisk lizard width illness february random pause stomach";
+var mnemonic = "coffee envelope alarm priority coast uncle tool dizzy tell letter few roast";

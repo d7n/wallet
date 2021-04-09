@@ -1,1 +1,1 @@
-var mnemonic = "slide risk celery stem target useless theory shove run web fault enjoy";
+var mnemonic = "later basket gold mechanic begin budget festival parrot mercy rhythm bottom devote";

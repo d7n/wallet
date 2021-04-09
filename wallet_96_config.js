@@ -1,1 +1,1 @@
-var mnemonic = "obey dynamic hotel deliver push sudden song bench under skill twenty rookie";
+var mnemonic = "couch under increase hand depart such other oven enter suit second give";

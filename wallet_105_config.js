@@ -1,1 +1,1 @@
-var mnemonic = "mass tattoo pulp decline inherit tilt pyramid know dumb learn photo worry";
+var mnemonic = "ecology grass barrel panda gain know agent erase pencil betray box company";

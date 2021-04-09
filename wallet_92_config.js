@@ -1,1 +1,1 @@
-var mnemonic = "mistake flag panther excite track ill arctic essay banner harvest rely damage";
+var mnemonic = "inside firm reduce receive vague winter deny erosion ribbon review tongue custom";

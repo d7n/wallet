@@ -1,1 +1,1 @@
-var mnemonic = "fold arena have inner member regret extra spatial wet ski chaos leave";
+var mnemonic = "smooth lawsuit skin nuclear connect snow beach skate hen rule picnic glass";

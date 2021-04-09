@@ -1,1 +1,1 @@
-var mnemonic = "hidden high zone evolve bread gadget glow enjoy pool dial tilt return";
+var mnemonic = "farm atom measure club bronze guess uncover program route arrange upgrade pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "atom hawk yellow dentist cruel achieve soap flag hospital merit mule film";
+var mnemonic = "place wrestle echo curve kiss way client demise lava mechanic flash put";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter voyage radio reflect vehicle barrel peace vacant cousin combine crane write";
+var mnemonic = "intact airport special limit hazard hotel clinic final point year drift creek";

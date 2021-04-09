@@ -1,1 +1,1 @@
-var mnemonic = "size flush pilot ice viable above torch element virus inner cheap dance";
+var mnemonic = "lyrics media fiscal category column silk subway victory wrist mother indoor chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "learn bridge original stay juice cattle pigeon aware swap scout barrel supreme";
+var mnemonic = "purse call gas spirit icon talk daughter bring inform grace world robust";

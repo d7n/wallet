@@ -1,1 +1,1 @@
-var mnemonic = "run mobile manage cannon cheap infant sport special twice dry luxury train";
+var mnemonic = "vicious another visual rent name engine divert begin paper height jealous able";

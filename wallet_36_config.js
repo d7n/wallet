@@ -1,1 +1,1 @@
-var mnemonic = "kit exhaust scan country major essence recall vast human great major transfer";
+var mnemonic = "fix industry bus balcony omit scan tilt razor exercise belt lunar desk";

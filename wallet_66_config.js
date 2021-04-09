@@ -1,1 +1,1 @@
-var mnemonic = "blast slot home any lunch lamp amateur habit pumpkin book series unusual";
+var mnemonic = "spirit rice mosquito basic daring mercy ball hire change uncover gossip enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "change aspect curve hover globe jaguar advice pink sorry moon uniform drum";
+var mnemonic = "lunch frozen depart already brain galaxy senior lunch soldier life west hint";

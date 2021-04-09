@@ -1,1 +1,1 @@
-var mnemonic = "disagree empty alley parent wait brown sphere inmate century cheese slush sting";
+var mnemonic = "toe tail maple history mystery party silver excite robot ice guitar plunge";

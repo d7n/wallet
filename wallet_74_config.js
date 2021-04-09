@@ -1,1 +1,1 @@
-var mnemonic = "board master isolate basket video fluid course crisp seven spoil valley expand";
+var mnemonic = "innocent primary safe hill exchange social east unable vicious climb boat spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "business same claw loud avocado age reason slab shield unlock gorilla spread";
+var mnemonic = "law tide angry indoor breeze myth wedding range various hope material simple";

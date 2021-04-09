@@ -1,1 +1,1 @@
-var mnemonic = "ecology orange slot able grass soon pitch boring hat suggest mobile gauge";
+var mnemonic = "top decide fix one already antique decade calm observe rude vacuum orchard";

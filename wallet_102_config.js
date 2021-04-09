@@ -1,1 +1,1 @@
-var mnemonic = "live prison equal lobster enjoy boat top october pool name medal pledge";
+var mnemonic = "celery hundred write nest install reward total fall sell bus finish scissors";

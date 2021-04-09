@@ -1,1 +1,1 @@
-var mnemonic = "leisure east clog field among someone share tell arrest asthma spy autumn";
+var mnemonic = "brown beach song crop lobster island memory spell bundle leisure aspect kind";

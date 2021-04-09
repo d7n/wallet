@@ -1,1 +1,1 @@
-var mnemonic = "uniform feel enemy bean property middle adapt ill cloud believe cricket cement";
+var mnemonic = "trash hobby since option hobby idle slot sniff emerge bus flush code";

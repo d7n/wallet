@@ -1,1 +1,1 @@
-var mnemonic = "engage advance jar cricket resist dad surface rough agent odor theory know";
+var mnemonic = "learn enough slender solar limit denial hotel emotion frozen extra burger expect";

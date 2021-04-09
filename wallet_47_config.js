@@ -1,1 +1,1 @@
-var mnemonic = "fun double match patrol health afraid uncle strong bulb safe orient reflect";
+var mnemonic = "various argue between begin glue frown wasp rally walk zone can lounge";

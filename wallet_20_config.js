@@ -1,1 +1,1 @@
-var mnemonic = "door rabbit maze cost mirror anchor stadium foot clay soul relax east";
+var mnemonic = "brick flag father craft degree employ produce advance parrot truly amused moral";

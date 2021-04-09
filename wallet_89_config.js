@@ -1,1 +1,1 @@
-var mnemonic = "kite wolf mask split special large when physical funny curtain reform book";
+var mnemonic = "puppy chef ahead lyrics grant theory fault media defense frequent ladder pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "subject opinion access happy napkin drip fun drop attend popular shoulder pilot";
+var mnemonic = "cousin furnace once bronze enact wire husband urban loop orbit donkey miracle";

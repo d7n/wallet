@@ -1,1 +1,1 @@
-var mnemonic = "news keen index forum hockey apart youth execute bridge message humble clerk";
+var mnemonic = "chaos sunny frog top seat enjoy exist marine cross despair toss post";

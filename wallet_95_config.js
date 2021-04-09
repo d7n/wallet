@@ -1,1 +1,1 @@
-var mnemonic = "ramp knee end swing junior announce life wolf orbit maid opinion subject";
+var mnemonic = "short spray license trend sauce learn any fire forward moon surround tone";

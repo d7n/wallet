@@ -1,1 +1,1 @@
-var mnemonic = "gather stone weird enhance brother analyst virtual odor display garden victory bicycle";
+var mnemonic = "acid depend acoustic hint mail expose source spare rent normal despair present";

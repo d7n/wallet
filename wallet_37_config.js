@@ -1,1 +1,1 @@
-var mnemonic = "rapid slow congress travel tide surround alien legal dolphin walnut split frozen";
+var mnemonic = "rocket slide nature possible gate hair recall laundry control puppy abuse adjust";

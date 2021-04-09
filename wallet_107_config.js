@@ -1,1 +1,1 @@
-var mnemonic = "effort summer style lunch major sweet refuse drip govern path barrel silver";
+var mnemonic = "verb food shell alter royal velvet custom supreme awkward custom afraid during";

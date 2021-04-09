@@ -1,1 +1,1 @@
-var mnemonic = "mansion renew cup source bring found economy replace end churn bird calm";
+var mnemonic = "pool grain wealth hockey famous music start velvet detail egg fee wheat";

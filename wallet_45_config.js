@@ -1,1 +1,1 @@
-var mnemonic = "paper cinnamon method ginger bamboo candy remain rain nice actual adjust frog";
+var mnemonic = "receive envelope outer exact maximum dad tooth adapt input pilot exact develop";

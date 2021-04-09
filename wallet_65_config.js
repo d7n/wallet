@@ -1,1 +1,1 @@
-var mnemonic = "direct roof trust tonight index stool item hen ordinary off dog grape";
+var mnemonic = "jungle audit best sleep inherit coconut convince science beyond discover hockey consider";

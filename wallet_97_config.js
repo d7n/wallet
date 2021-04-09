@@ -1,1 +1,1 @@
-var mnemonic = "toward romance brush faith knee taste surprise joke angry spread flavor dove";
+var mnemonic = "library mercy slush grass curious purpose record oak baby hub increase bread";

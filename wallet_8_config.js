@@ -1,1 +1,1 @@
-var mnemonic = "cattle dynamic taste illegal point there very proof entire pupil plastic pipe";
+var mnemonic = "coach wait feel scale lonely magic garment solar soldier imitate marine talent";

@@ -1,1 +1,1 @@
-var mnemonic = "marine put drill dolphin action picnic potato warfare taxi universe mule neither";
+var mnemonic = "warrior middle group spatial engine brisk mango estate category joy tattoo retreat";

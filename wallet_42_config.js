@@ -1,1 +1,1 @@
-var mnemonic = "group shiver merge awake fossil exist judge gas ankle motion tenant inspire";
+var mnemonic = "evidence uphold powder sister myself gain bring squirrel helmet dose torch open";

@@ -1,1 +1,1 @@
-var mnemonic = "reject viable slot olive weird muffin retreat remind master mirror patch lumber";
+var mnemonic = "warfare same volcano bridge kid deposit disagree super bottom lazy repeat weather";

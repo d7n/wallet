@@ -1,1 +1,1 @@
-var mnemonic = "lounge illness huge someone antique soccer party rebuild supply define belt include";
+var mnemonic = "legal number sound rifle appear item stage maximum submit fabric label blush";

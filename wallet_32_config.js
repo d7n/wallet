@@ -1,1 +1,1 @@
-var mnemonic = "peanut illness attract home course choose filter beyond range minor anchor girl";
+var mnemonic = "mass welcome catch organ awesome galaxy maze prefer nerve lizard bitter trust";

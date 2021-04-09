@@ -1,1 +1,1 @@
-var mnemonic = "panel until rubber subway grant marine pig hurdle banana couple habit habit";
+var mnemonic = "example cook blossom wrist notable sponsor hammer crumble tribe gauge punch dizzy";

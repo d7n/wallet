@@ -1,1 +1,1 @@
-var mnemonic = "pipe suffer spatial civil auto author push tongue breeze car planet alarm";
+var mnemonic = "cost embrace thunder level hurry stuff annual style logic confirm buddy frequent";

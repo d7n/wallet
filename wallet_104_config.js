@@ -1,1 +1,1 @@
-var mnemonic = "arrow sad beach wash strike pulse denial remember illegal afraid swallow rifle";
+var mnemonic = "swear unique offer tank network network trouble fire silent polar direct ahead";

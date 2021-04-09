@@ -1,1 +1,1 @@
-var mnemonic = "tumble nephew once security century proof vague debate major combine design wealth";
+var mnemonic = "rude erode bundle release feed you cable harsh few explain layer hedgehog";

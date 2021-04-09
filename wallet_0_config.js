@@ -1,1 +1,1 @@
-var mnemonic = "neutral sell rival online write jaguar weapon awkward iron grass happy bracket";
+var mnemonic = "adjust other tip mouse old diagram child expose basket wealth gap observe";

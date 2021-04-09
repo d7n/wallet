@@ -1,1 +1,1 @@
-var mnemonic = "repeat note survey minor segment curious cloth cat hammer much license soon";
+var mnemonic = "give already eyebrow saddle knife silly birth begin canvas bitter brain spend";

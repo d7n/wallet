@@ -1,1 +1,1 @@
-var mnemonic = "crouch lunch what gorilla carry brand hurdle tattoo edge valley thumb comfort";
+var mnemonic = "code around wage wave parrot debate cloud kiwi tattoo rose broom reform";

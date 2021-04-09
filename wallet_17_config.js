@@ -1,1 +1,1 @@
-var mnemonic = "hood credit weekend prevent book model drink vendor shield apology garment little";
+var mnemonic = "edge canvas entry evil fortune power figure jump toward shrimp chair giraffe";

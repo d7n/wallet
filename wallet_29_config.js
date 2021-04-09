@@ -1,1 +1,1 @@
-var mnemonic = "kitchen shift sword off blanket situate coil hidden code vault oak guide";
+var mnemonic = "critic tail judge spin ketchup valve stock cherry witness alcohol fan gasp";

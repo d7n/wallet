@@ -1,1 +1,1 @@
-var mnemonic = "lab organ defy mandate general survey round faculty where rubber case oblige";
+var mnemonic = "world play season tribe advice lava pull double sunny praise luggage fuel";

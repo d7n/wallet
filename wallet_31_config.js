@@ -1,1 +1,1 @@
-var mnemonic = "hero canvas drum session drum practice speak submit monkey onion quick beef";
+var mnemonic = "evil jeans clarify hover filter corn kid drama guess twice tray car";

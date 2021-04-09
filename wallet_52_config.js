@@ -1,1 +1,1 @@
-var mnemonic = "step glove wet auction entire million dilemma denial barely latin seek loyal";
+var mnemonic = "reduce fitness lava proof twice alien regret slice audit search visual ski";

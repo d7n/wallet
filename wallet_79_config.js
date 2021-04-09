@@ -1,1 +1,1 @@
-var mnemonic = "pepper wine expect space fabric thrive raccoon exhaust faculty exit panel supply";
+var mnemonic = "nose mass subway youth abuse drip gather roast cliff negative can unique";

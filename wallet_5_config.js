@@ -1,1 +1,1 @@
-var mnemonic = "trash agree design school opinion release voyage super under goat anchor mobile";
+var mnemonic = "boost object scrub alley guitar report path govern oak october shrug lens";

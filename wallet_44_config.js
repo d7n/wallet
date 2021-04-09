@@ -1,1 +1,1 @@
-var mnemonic = "infant exact enough dream very bridge bubble system neutral relax sunset ready";
+var mnemonic = "then uncover easily manual job system sport half beef gap language point";

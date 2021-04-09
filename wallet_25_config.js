@@ -1,1 +1,1 @@
-var mnemonic = "bean crane cram hundred table boil swing search reveal flame harvest fiction";
+var mnemonic = "intact struggle canvas autumn various bonus flag fabric citizen flavor popular modify";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic wedding engage argue common immune caught genuine enemy timber cycle tongue";
+var mnemonic = "spot useful march kit blood believe enough daughter spring theory awake coach";

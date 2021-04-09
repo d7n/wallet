@@ -1,1 +1,1 @@
-var mnemonic = "course decade voyage matrix wolf face better switch analyst ball explain organ";
+var mnemonic = "school twelve final talent scrub mirror pave visit ethics season episode can";

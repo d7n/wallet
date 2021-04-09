@@ -1,1 +1,1 @@
-var mnemonic = "album fly spirit adult three page weapon ramp injury swamp normal travel";
+var mnemonic = "lake sun click relax clinic junior coil save prefer lounge color consider";

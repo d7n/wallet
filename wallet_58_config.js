@@ -1,1 +1,1 @@
-var mnemonic = "science jelly tree spoil afford heart luxury exhaust oval boil knock door";
+var mnemonic = "cabbage organ rally disorder joke exist venture banner into flock rookie early";

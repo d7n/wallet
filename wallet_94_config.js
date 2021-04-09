@@ -1,1 +1,1 @@
-var mnemonic = "slab sport dinosaur olive ride effort brain talent can opera library express";
+var mnemonic = "amused letter stem seminar arena agree differ cannon toy decade canyon sudden";

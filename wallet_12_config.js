@@ -1,1 +1,1 @@
-var mnemonic = "mechanic give plunge pistol demise harsh journey clutch capable empower hybrid youth";
+var mnemonic = "salmon menu sugar enter fatal like barrel sample category twice gauge situate";

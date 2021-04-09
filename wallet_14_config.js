@@ -1,1 +1,1 @@
-var mnemonic = "genius dentist enforce hockey prize tooth pig monster leaf kangaroo original disagree";
+var mnemonic = "race often insect spatial wrist silly begin jazz broom thunder wild number";

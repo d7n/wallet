@@ -1,1 +1,1 @@
-var mnemonic = "tape burst rude shell depend laptop milk prosper attitude hen future range";
+var mnemonic = "vote hurt leader object flush table camp glow birth salmon chunk number";

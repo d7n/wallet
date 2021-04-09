@@ -1,1 +1,1 @@
-var mnemonic = "dad pair inside clay frequent depth video pear foot anger discover garage";
+var mnemonic = "govern daughter analyst bubble come wealth oak spin weather blur tell soccer";

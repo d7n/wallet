@@ -1,1 +1,1 @@
-var mnemonic = "acoustic story seed dash carry build point okay clump shrimp city comic";
+var mnemonic = "concert orphan stand example simple lamp ridge orange empower deny kingdom fee";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake retreat start popular movie among trouble hidden model helmet frame prize";
+var mnemonic = "stay margin asthma copper patient cabin grain spare balcony buffalo lift fever";

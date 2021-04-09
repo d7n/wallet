@@ -1,1 +1,1 @@
-var mnemonic = "hip broccoli also episode pepper cargo penalty dose trust pencil that runway";
+var mnemonic = "timber prevent ivory harsh verb pride decide song eager south bread pride";

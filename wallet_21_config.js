@@ -1,1 +1,1 @@
-var mnemonic = "jelly grass harvest zone bid army return weapon silly put unique shadow";
+var mnemonic = "private sort tennis modify pretty salt fetch ignore price sweet pudding rotate";

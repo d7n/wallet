@@ -1,1 +1,1 @@
-var mnemonic = "left shed sword hip license arrest stomach dad faculty trade learn art";
+var mnemonic = "also fame sunset cabbage heavy issue jazz ramp hunt eagle desk best";

@@ -1,1 +1,1 @@
-var mnemonic = "essay surface wood age pencil aisle rose gauge box raw maple detect";
+var mnemonic = "transfer concert power focus detect zero nice brush autumn duck rebuild volume";
