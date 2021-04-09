@@ -1,1 +1,1 @@
-var mnemonic = "post acquire six range current cash vacant bacon company bamboo label cable";
+var mnemonic = "bread behave early leaf fortune pill robust short original pretty fossil remain";

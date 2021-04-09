@@ -1,1 +1,1 @@
-var mnemonic = "finish aunt iron sick make inch maid very violin alpha outside regular";
+var mnemonic = "mandate already spray copy junior ritual nominee wish sleep jaguar jungle about";

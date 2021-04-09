@@ -1,1 +1,1 @@
-var mnemonic = "notable renew economy aware fruit clap ancient estate room rhythm message person";
+var mnemonic = "season input venue filter celery goddess sport little soul pumpkin sure pencil";

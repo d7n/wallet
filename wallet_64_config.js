@@ -1,1 +1,1 @@
-var mnemonic = "army tank piano fiscal adjust present master zero desert dinosaur hurry relief";
+var mnemonic = "scare champion olive stomach rain angle blossom rough mercy legal split march";

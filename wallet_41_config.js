@@ -1,1 +1,1 @@
-var mnemonic = "lens melody kidney climb disagree milk reunion spot peasant donate tuna foil";
+var mnemonic = "decide indoor supply buffalo brush mix resource venue midnight work pottery harsh";

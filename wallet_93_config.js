@@ -1,1 +1,1 @@
-var mnemonic = "caution about flee whisper embody canyon dance betray real type fossil copper";
+var mnemonic = "knee sphere protect sketch during unveil burst custom survey only pretty inflict";

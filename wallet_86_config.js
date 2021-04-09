@@ -1,1 +1,1 @@
-var mnemonic = "switch announce alarm armed render crumble motor notice nurse artist wedding crane";
+var mnemonic = "cigar average useful broken exile ocean lyrics differ satisfy milk echo ensure";

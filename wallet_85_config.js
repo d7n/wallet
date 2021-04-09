@@ -1,1 +1,1 @@
-var mnemonic = "carry absurd goose zoo cattle matrix equip chapter agent december reopen mesh";
+var mnemonic = "change kangaroo shrug diet absurd burger bulb member pause muffin key quit";

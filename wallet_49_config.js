@@ -1,1 +1,1 @@
-var mnemonic = "twin soda change crisp bacon boy ahead remember turkey annual lyrics main";
+var mnemonic = "flush equip margin color dice jump among cube alone ketchup neutral aisle";

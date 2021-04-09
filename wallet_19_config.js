@@ -1,1 +1,1 @@
-var mnemonic = "clever notable turtle please topple music wet asset buzz guilt unlock basket";
+var mnemonic = "oxygen bid derive century degree village that fossil smart title uphold fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "pear ask sauce either deer amazing feed pilot travel push attitude floor";
+var mnemonic = "term edit ripple race click neutral scare prison marriage include zebra rely";

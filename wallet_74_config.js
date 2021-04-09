@@ -1,1 +1,1 @@
-var mnemonic = "circle deputy motor ladder east shoe rug impact female pause liar enable";
+var mnemonic = "credit dad planet runway dawn away bring cheap inform disorder world group";

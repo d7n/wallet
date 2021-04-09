@@ -1,1 +1,1 @@
-var mnemonic = "scale execute cancel attack number kit someone purchase wisdom physical state identify";
+var mnemonic = "opera ski inflict logic wink mountain engage pizza sure play fan cliff";

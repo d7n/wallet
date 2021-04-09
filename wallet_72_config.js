@@ -1,1 +1,1 @@
-var mnemonic = "night drop ensure kick thank item mixed effort tone spread matter taxi";
+var mnemonic = "more power hazard style miss puzzle suspect indicate discover wagon begin potato";

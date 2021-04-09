@@ -1,1 +1,1 @@
-var mnemonic = "finger certain surprise picnic special food napkin token cute hen motor pen";
+var mnemonic = "imitate magnet novel confirm quiz wage sentence carbon turtle chase smooth ordinary";

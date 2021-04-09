@@ -1,1 +1,1 @@
-var mnemonic = "tired cup fork table lobster awful coyote pipe purchase van robust guess";
+var mnemonic = "envelope employ other hard food brush half lyrics wedding prosper hurry aisle";

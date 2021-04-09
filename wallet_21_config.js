@@ -1,1 +1,1 @@
-var mnemonic = "lumber culture club wall clean left scrap swap emotion about drip purse";
+var mnemonic = "story stove enough fetch unusual little market obscure goose hold poverty embrace";

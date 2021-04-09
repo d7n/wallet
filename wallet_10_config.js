@@ -1,1 +1,1 @@
-var mnemonic = "comic become between garbage army gorilla point thank bleak panda domain vacant";
+var mnemonic = "arm globe scene mobile when soldier click license noise muffin mutual spawn";

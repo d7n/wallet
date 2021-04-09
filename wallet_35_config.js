@@ -1,1 +1,1 @@
-var mnemonic = "spy outer tent apple kidney tenant pink excess gold kite myth bird";
+var mnemonic = "valve cherry jealous crime office also vacuum okay obvious photo report feed";

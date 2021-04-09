@@ -1,1 +1,1 @@
-var mnemonic = "fantasy industry heart antenna emerge doll special random alcohol enlist inform display";
+var mnemonic = "radar often caught raven pass bachelor couple faith soul feed carry panda";

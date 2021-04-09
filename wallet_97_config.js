@@ -1,1 +1,1 @@
-var mnemonic = "fiscal busy remember device body adapt shadow error piano victory answer toddler";
+var mnemonic = "shoe valley often trim plug own stone income bitter test vacant flavor";

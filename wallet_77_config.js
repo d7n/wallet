@@ -1,1 +1,1 @@
-var mnemonic = "cart fault motion blanket dutch okay wisdom love broom cover valve cost";
+var mnemonic = "express robust sound degree hazard tip engine glare surround fuel client note";

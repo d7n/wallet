@@ -1,1 +1,1 @@
-var mnemonic = "good private system share nurse buddy wall trash broccoli happy plunge hand";
+var mnemonic = "vapor real kite deputy skate traffic vital pledge sister emerge mimic avoid";

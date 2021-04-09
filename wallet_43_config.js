@@ -1,1 +1,1 @@
-var mnemonic = "dirt margin pioneer artefact employ position model pipe smile arctic project jacket";
+var mnemonic = "original stool hair van alpha stool prize gravity slab slab mean agent";

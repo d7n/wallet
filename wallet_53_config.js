@@ -1,1 +1,1 @@
-var mnemonic = "key lesson develop letter say domain waste pond before leisure wing bachelor";
+var mnemonic = "rebuild fly cat clown snow three oppose three hotel prosper skull lend";

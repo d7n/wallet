@@ -1,1 +1,1 @@
-var mnemonic = "hill roof vacant spray depend evidence game fox powder pepper raven milk";
+var mnemonic = "bless rail board fame boil toe purpose goddess holiday melt glimpse cycle";

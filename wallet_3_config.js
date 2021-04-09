@@ -1,1 +1,1 @@
-var mnemonic = "oblige afford bright chest blur photo oval jelly minute among duck problem";
+var mnemonic = "gadget pull slogan scare glad rural believe gloom file blossom twice welcome";

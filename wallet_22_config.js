@@ -1,1 +1,1 @@
-var mnemonic = "village toss cart page nose dirt glass palace medal imitate draft record";
+var mnemonic = "erase liquid gallery mountain liquid lobster float aspect loyal auto sport reunion";

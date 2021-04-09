@@ -1,1 +1,1 @@
-var mnemonic = "super school fence wall split spatial tide observe album spoil future symptom";
+var mnemonic = "effort crawl that piano come enhance bag civil toward royal token stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket glass beyond account divide adapt object sea forget case peasant bracket";
+var mnemonic = "boy critic result pact wine discover black topple industry ill peasant replace";

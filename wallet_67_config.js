@@ -1,1 +1,1 @@
-var mnemonic = "spell lock prepare onion enemy forum luxury damp photo record subway notice";
+var mnemonic = "spin slab agent merry jaguar sign wave kidney name snake evoke language";

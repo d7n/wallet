@@ -1,1 +1,1 @@
-var mnemonic = "machine bus expire inner multiply hobby defense response fortune lizard session elbow";
+var mnemonic = "betray blade machine rain master eight way eyebrow meadow trick twice skirt";

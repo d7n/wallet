@@ -1,1 +1,1 @@
-var mnemonic = "bacon short east visual box tool cube gun owner journey final citizen";
+var mnemonic = "mind base expire hunt consider drastic border script economy bridge health cement";

@@ -1,1 +1,1 @@
-var mnemonic = "melt safe place front arrange access same honey horror vicious assist exhibit";
+var mnemonic = "anchor razor senior limit case enter repeat wink hunt build season noodle";

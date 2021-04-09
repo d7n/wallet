@@ -1,1 +1,1 @@
-var mnemonic = "retreat ride disagree pride strong seven bracket avocado crumble gossip current soft";
+var mnemonic = "mesh sword miracle junk drop silk opinion knock rural matrix bless nut";

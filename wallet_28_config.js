@@ -1,1 +1,1 @@
-var mnemonic = "harvest behind super gather balance human buyer cruise educate decrease figure love";
+var mnemonic = "horse rural drive eye slide drill enable oblige safe clean toss deputy";

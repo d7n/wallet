@@ -1,1 +1,1 @@
-var mnemonic = "ketchup seven almost strong budget pole edge effort wheat coin garbage history";
+var mnemonic = "increase track check join cream myth ostrich connect ramp raven sunny front";

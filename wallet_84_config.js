@@ -1,1 +1,1 @@
-var mnemonic = "once sauce ritual alley dilemma blade box indicate victory awake blade conduct";
+var mnemonic = "broom moral someone tail despair mistake invest caution surprise room vote dizzy";

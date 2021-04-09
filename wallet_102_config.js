@@ -1,1 +1,1 @@
-var mnemonic = "loop crucial action brush awesome dinosaur noise entry dwarf since alley shield";
+var mnemonic = "orient sword exchange page extra hope pole news grain chief talk glad";

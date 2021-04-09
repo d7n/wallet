@@ -1,1 +1,1 @@
-var mnemonic = "wood human cram shaft cheap story choice family horror govern enlist recipe";
+var mnemonic = "tattoo claim fancy segment turn sound cousin reform law agree please rhythm";

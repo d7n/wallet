@@ -1,1 +1,1 @@
-var mnemonic = "blade tennis coral trick ball book ski drama loan report frame dignity";
+var mnemonic = "high woman onion business game husband upper food rain level mansion seat";

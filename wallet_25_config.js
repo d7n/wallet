@@ -1,1 +1,1 @@
-var mnemonic = "midnight return bright segment curtain mirror card elevator firm camera reward zebra";
+var mnemonic = "meadow bitter unlock odor idle juice possible olive invite measure affair mouse";

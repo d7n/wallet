@@ -1,1 +1,1 @@
-var mnemonic = "future divorce lumber bar crumble basket trip keep turkey cat finger embody";
+var mnemonic = "stumble letter rifle priority spot order confirm mouse solar fall neutral rough";

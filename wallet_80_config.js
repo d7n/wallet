@@ -1,1 +1,1 @@
-var mnemonic = "region situate access crack jungle cricket path piano cupboard suit book gap";
+var mnemonic = "plastic dinner impact donor prevent circle later violin lonely fall helmet illegal";

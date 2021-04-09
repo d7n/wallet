@@ -1,1 +1,1 @@
-var mnemonic = "comfort lion chuckle off lucky satisfy step trumpet dust toast slam banner";
+var mnemonic = "reflect tragic couch ugly measure access punch swallow pelican jar ankle fruit";

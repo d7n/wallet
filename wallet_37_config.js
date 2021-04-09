@@ -1,1 +1,1 @@
-var mnemonic = "chronic sport wool luggage tattoo scorpion swear purchase outer toddler muscle advice";
+var mnemonic = "reform bring cloth abstract advice bless trade vague rough custom cotton exhaust";

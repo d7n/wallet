@@ -1,1 +1,1 @@
-var mnemonic = "sunny blue execute fossil sudden horror mail grain response text minor tourist";
+var mnemonic = "wear hood much remind unable glide rough sock write submit decide weekend";

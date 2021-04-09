@@ -1,1 +1,1 @@
-var mnemonic = "wrong fever between screen ancient lava supply tumble news kiss online faint";
+var mnemonic = "nut decide step pride stock voyage banana kick blame cement assist palm";

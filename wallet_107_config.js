@@ -1,1 +1,1 @@
-var mnemonic = "horse learn prize grow motor gift fresh movie involve pulse aware life";
+var mnemonic = "medal ocean club engine place blood deny program tool wheat dry potato";

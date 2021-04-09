@@ -1,1 +1,1 @@
-var mnemonic = "chuckle blood gasp another level century useless render celery mutual senior snake";
+var mnemonic = "snake census clump vehicle myth erosion diary uncover fatigue syrup luggage outside";

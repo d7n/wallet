@@ -1,1 +1,1 @@
-var mnemonic = "destroy ecology current boy warrior senior nation auction lava earn index patch";
+var mnemonic = "suit fury street uniform mix crumble sphere butter candy gift bring join";

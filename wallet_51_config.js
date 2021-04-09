@@ -1,1 +1,1 @@
-var mnemonic = "image mixture media despair gym number glide notable favorite tragic shadow bless";
+var mnemonic = "north peasant shuffle hour opera solve certain chase seven exile forest coast";

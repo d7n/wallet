@@ -1,1 +1,1 @@
-var mnemonic = "maximum consider cushion beauty audit spoil empty venture pipe vicious faint okay";
+var mnemonic = "truth charge fuel dad matrix umbrella glide true twenty mule resist report";

@@ -1,1 +1,1 @@
-var mnemonic = "still corn lesson chicken gallery clerk rent ivory reunion fantasy main situate";
+var mnemonic = "element lecture odor ignore possible collect match remember early attend slab pistol";

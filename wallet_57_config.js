@@ -1,1 +1,1 @@
-var mnemonic = "easily angry curious tornado cook van save symptom exact since vivid start";
+var mnemonic = "health casino ten disease flash success ladder stand flight hello liberty stadium";

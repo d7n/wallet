@@ -1,1 +1,1 @@
-var mnemonic = "course valid slim height south enable crowd record noble talent neither divorce";
+var mnemonic = "rookie cube combine gold give pair kitten gentle dilemma envelope view glow";

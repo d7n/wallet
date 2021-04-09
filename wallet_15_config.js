@@ -1,1 +1,1 @@
-var mnemonic = "eye feel fit marine crucial mesh prosper diet legal blast tip olive";
+var mnemonic = "embrace trade nest coin diet speed seek asset obey stove wire goose";

@@ -1,1 +1,1 @@
-var mnemonic = "wink brand ask make hurry exotic popular ethics sail kite because pledge";
+var mnemonic = "dune trim enforce wisdom return sun pig detect vanish when seek letter";

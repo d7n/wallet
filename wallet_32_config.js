@@ -1,1 +1,1 @@
-var mnemonic = "off extend spawn arrow stamp element modify shoot deputy flip essay vacant";
+var mnemonic = "ceiling fault student glue camp boost tenant evoke spike exile magnet entire";

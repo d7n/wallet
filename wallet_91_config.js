@@ -1,1 +1,1 @@
-var mnemonic = "dose robust float day census grid cupboard heavy license sing cry bounce";
+var mnemonic = "clutch act enlist gold avoid coyote empty swift slim settle guess fatal";

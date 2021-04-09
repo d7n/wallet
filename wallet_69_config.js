@@ -1,1 +1,1 @@
-var mnemonic = "fiber minor coast grief grace unfold this release credit orchard off dust";
+var mnemonic = "agent trophy arrive use obtain food hollow success believe jaguar magic play";

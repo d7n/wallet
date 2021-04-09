@@ -1,1 +1,1 @@
-var mnemonic = "half bus almost edge various small vast jacket record stable airport decrease";
+var mnemonic = "shock sun drink flame define lounge bitter cattle pigeon wave chest certain";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme mutual virtual race option cover useful plug point run engine apart";
+var mnemonic = "toward dilemma void agree obvious robot bind aerobic shrimp ability track wage";

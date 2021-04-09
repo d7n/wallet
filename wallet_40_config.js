@@ -1,1 +1,1 @@
-var mnemonic = "laundry argue future put soon front reason adapt husband twist scheme zero";
+var mnemonic = "afraid scrub tiny birth sudden select casual retreat eight color globe bean";

@@ -1,1 +1,1 @@
-var mnemonic = "usual reduce spider repeat leopard next slab civil sock run suspect build";
+var mnemonic = "mask reduce pencil monitor target exchange unaware disease wreck shield grocery fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet kangaroo hockey replace describe lock glow share cross promote crumble reflect";
+var mnemonic = "runway wing drive hour music book bread actual jealous soccer frequent sure";

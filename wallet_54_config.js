@@ -1,1 +1,1 @@
-var mnemonic = "fine kitchen coach snow corn intact document salute behind year hurry endorse";
+var mnemonic = "edit cheap square argue slam tongue modify vacuum fancy decrease silly boost";

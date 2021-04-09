@@ -1,1 +1,1 @@
-var mnemonic = "mystery decline prepare found clump document album dice today knock crystal name";
+var mnemonic = "pudding unable clip measure large true water twin shuffle cousin radar stadium";

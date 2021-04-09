@@ -1,1 +1,1 @@
-var mnemonic = "away glove useless orange refuse depend series carpet spike forget shop rather";
+var mnemonic = "puzzle merry bitter nerve have arrive manual oak coral else broken vault";

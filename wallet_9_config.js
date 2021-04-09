@@ -1,1 +1,1 @@
-var mnemonic = "spring galaxy attitude hair endorse token mammal gap end century volume blue";
+var mnemonic = "work buzz junior false start discover ready suggest leopard butter elder crisp";

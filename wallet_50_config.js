@@ -1,1 +1,1 @@
-var mnemonic = "indoor indicate dress urban funny margin head wire budget glue since shove";
+var mnemonic = "rude modify decide prison isolate absorb clown coast marble spare agree blanket";

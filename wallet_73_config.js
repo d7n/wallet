@@ -1,1 +1,1 @@
-var mnemonic = "will endless inspire unknown sister sea track tiny supreme puppy shoe yard";
+var mnemonic = "filter ostrich unusual myself juice place book marble pride profit photo obey";

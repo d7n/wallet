@@ -1,1 +1,1 @@
-var mnemonic = "attitude property domain water volume quote crazy this joke actor scene oblige";
+var mnemonic = "wonder noise diary cigar own close tone runway grab breeze craft pet";

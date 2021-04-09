@@ -1,1 +1,1 @@
-var mnemonic = "until book cable foot salon gossip arena orphan name catch walnut analyst";
+var mnemonic = "session unlock legal world news sibling primary sell cotton glide element potato";

@@ -1,1 +1,1 @@
-var mnemonic = "flash picnic task armor pigeon patrol very floor again adjust modify hero";
+var mnemonic = "govern build scan cool decade robust fluid intact begin carbon erode mask";

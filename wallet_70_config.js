@@ -1,1 +1,1 @@
-var mnemonic = "elegant puzzle toy practice pottery mass item floor crouch anger nasty dismiss";
+var mnemonic = "industry clip park stone black rabbit uphold squirrel tank portion exit forward";

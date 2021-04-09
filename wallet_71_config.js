@@ -1,1 +1,1 @@
-var mnemonic = "secret flee border forum orphan video despair exchange put blossom faint once";
+var mnemonic = "finish glory proud december angle speak message noise admit arctic couple planet";

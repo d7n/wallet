@@ -1,1 +1,1 @@
-var mnemonic = "merry quit clay swift survey glass rain correct eight attend tackle canyon";
+var mnemonic = "course gown velvet parent maple quick fog addict hurry virus monitor minor";

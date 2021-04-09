@@ -1,1 +1,1 @@
-var mnemonic = "mad double turkey divert ethics stomach film organ drum gloom friend rival";
+var mnemonic = "virtual style welcome soccer eternal harvest neutral tumble chicken wheel woman toe";

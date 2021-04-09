@@ -1,1 +1,1 @@
-var mnemonic = "valve flame valid gloom isolate cabbage mention whale jeans thunder antenna street";
+var mnemonic = "close inflict refuse bike wall major peace sugar innocent thunder spoil secret";

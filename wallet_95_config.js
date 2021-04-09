@@ -1,1 +1,1 @@
-var mnemonic = "try solution guess cluster hockey feature shrimp wink relief tonight oyster card";
+var mnemonic = "issue boring fiber cargo wage split milk web surge century someone robust";

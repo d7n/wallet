@@ -1,1 +1,1 @@
-var mnemonic = "sibling recall unknown forest math debate ginger change small exotic vehicle shadow";
+var mnemonic = "party talent rival antenna pride quiz rebel release cram double lemon laugh";

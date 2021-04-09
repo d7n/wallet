@@ -1,1 +1,1 @@
-var mnemonic = "spawn inform clog prevent radio symptom car frown chat scissors funny coral";
+var mnemonic = "great hollow yellow service ritual dial copper inside glass swallow help cargo";

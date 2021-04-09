@@ -1,1 +1,1 @@
-var mnemonic = "main nephew swap sausage half dismiss filter episode hawk unaware hip abuse";
+var mnemonic = "mirror train recall whip primary negative sock survey float occur hunt legend";

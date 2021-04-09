@@ -1,1 +1,1 @@
-var mnemonic = "borrow soul sand road second paddle piano walnut maximum alpha north pave";
+var mnemonic = "steel neither loan claw eye relax dad mammal help maid october fame";

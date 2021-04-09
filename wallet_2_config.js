@@ -1,1 +1,1 @@
-var mnemonic = "meat belt east tide hospital foil excuse chapter husband runway guide unknown";
+var mnemonic = "screen dog exhibit physical chest estate wonder excess tape gossip timber wild";

@@ -1,1 +1,1 @@
-var mnemonic = "foil dream truck crunch sister throw soccer patrol jazz ostrich organ body";
+var mnemonic = "trouble clap glow zoo connect palm bunker debate response car cram group";

@@ -1,1 +1,1 @@
-var mnemonic = "glove song camp icon sting reunion speak mercy bleak emotion morning obscure";
+var mnemonic = "voice end cool speak census cousin hurdle floor slush west uncover still";
