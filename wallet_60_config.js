@@ -1,1 +1,1 @@
-var mnemonic = "intact airport special limit hazard hotel clinic final point year drift creek";
+var mnemonic = "goat drama detect theory satoshi cube typical pelican worry protect capable demand";

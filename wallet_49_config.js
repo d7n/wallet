@@ -1,1 +1,1 @@
-var mnemonic = "govern daughter analyst bubble come wealth oak spin weather blur tell soccer";
+var mnemonic = "topic voice guilt cave bleak extend okay apple bottom language repair index";

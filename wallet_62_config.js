@@ -1,1 +1,1 @@
-var mnemonic = "school twelve final talent scrub mirror pave visit ethics season episode can";
+var mnemonic = "float insane call gas tomorrow taste iron between hurdle rack minute better";

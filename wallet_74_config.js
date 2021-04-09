@@ -1,1 +1,1 @@
-var mnemonic = "innocent primary safe hill exchange social east unable vicious climb boat spirit";
+var mnemonic = "learn unit camp bonus wear lunch ocean virtual slot heart cloud zero";

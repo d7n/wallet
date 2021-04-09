@@ -1,1 +1,1 @@
-var mnemonic = "slim faith shaft bounce imitate process tattoo forget glue oval top husband";
+var mnemonic = "draft tape fame little repair youth biology save example primary dish potato";

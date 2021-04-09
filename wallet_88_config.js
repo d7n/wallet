@@ -1,1 +1,1 @@
-var mnemonic = "warfare same volcano bridge kid deposit disagree super bottom lazy repeat weather";
+var mnemonic = "step slow inhale depend aunt warfare diagram edge order critic toe agree";

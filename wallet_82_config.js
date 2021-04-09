@@ -1,1 +1,1 @@
-var mnemonic = "into rotate game breeze chef squirrel elder holiday school poverty fit mean";
+var mnemonic = "notice tip bitter banana reveal upset prepare submit couple fork canoe across";

@@ -1,1 +1,1 @@
-var mnemonic = "cost embrace thunder level hurry stuff annual style logic confirm buddy frequent";
+var mnemonic = "retreat derive foot year mansion about beef hollow fortune trim apart debris";

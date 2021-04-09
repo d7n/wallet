@@ -1,1 +1,1 @@
-var mnemonic = "post rhythm when response material spy mammal exercise approve vendor fever payment";
+var mnemonic = "canyon piece you turkey weather casino issue scatter bean old skin decline";

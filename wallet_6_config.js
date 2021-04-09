@@ -1,1 +1,1 @@
-var mnemonic = "acid depend acoustic hint mail expose source spare rent normal despair present";
+var mnemonic = "memory miracle poet grass junior fit where arch history debate craft wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "hire hazard barrel tuna arrow wolf repair illegal drastic faint world timber";
+var mnemonic = "lecture person venture ankle salute shoot tuition regular cup crush balcony fork";

@@ -1,1 +1,1 @@
-var mnemonic = "paper tumble error come endorse potato taxi lecture summer owner ignore quality";
+var mnemonic = "educate type save noise crumble soldier awkward world owner best illness rare";

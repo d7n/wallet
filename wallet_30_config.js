@@ -1,1 +1,1 @@
-var mnemonic = "public fit usage sign version because math easy light attack there gap";
+var mnemonic = "boost small rapid conduct off ten logic original mind reopen tiny gaze";

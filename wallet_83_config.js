@@ -1,1 +1,1 @@
-var mnemonic = "screen taxi absurd capital planet cluster skirt bullet mercy tail brass indicate";
+var mnemonic = "cement evidence tube ladder world gossip rebuild guess photo rely provide snake";

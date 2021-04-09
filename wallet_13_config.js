@@ -1,1 +1,1 @@
-var mnemonic = "marriage license science pencil love artefact index win crawl sunset beyond soldier";
+var mnemonic = "decade garbage clip title target rural stage firm endorse bread estate artwork";

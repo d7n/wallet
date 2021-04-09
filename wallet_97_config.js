@@ -1,1 +1,1 @@
-var mnemonic = "library mercy slush grass curious purpose record oak baby hub increase bread";
+var mnemonic = "planet agree owner dry drum jealous exist apology become pen slush elite";

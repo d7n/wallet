@@ -1,1 +1,1 @@
-var mnemonic = "world play season tribe advice lava pull double sunny praise luggage fuel";
+var mnemonic = "relief wealth barely soap song lecture vocal general cause sentence monster rhythm";

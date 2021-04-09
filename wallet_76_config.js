@@ -1,1 +1,1 @@
-var mnemonic = "fatigue blood vehicle exhaust taste harbor helmet negative dish they paper hold";
+var mnemonic = "remove blood able fossil rose month tired chronic error swallow team federal";

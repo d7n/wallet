@@ -1,1 +1,1 @@
-var mnemonic = "coffee envelope alarm priority coast uncle tool dizzy tell letter few roast";
+var mnemonic = "twenty more silent review dignity rigid useful wish east romance coyote girl";

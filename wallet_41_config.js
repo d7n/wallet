@@ -1,1 +1,1 @@
-var mnemonic = "lyrics media fiscal category column silk subway victory wrist mother indoor chapter";
+var mnemonic = "canyon rebel perfect audit forum pretty fetch subway assume asthma stone perfect";

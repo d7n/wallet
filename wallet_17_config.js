@@ -1,1 +1,1 @@
-var mnemonic = "edge canvas entry evil fortune power figure jump toward shrimp chair giraffe";
+var mnemonic = "gauge fancy jewel axis sister six weasel share laptop document view hunt";

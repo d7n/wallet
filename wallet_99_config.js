@@ -1,1 +1,1 @@
-var mnemonic = "smooth lawsuit skin nuclear connect snow beach skate hen rule picnic glass";
+var mnemonic = "nothing sure possible donkey fence pink bread that smart length open slot";

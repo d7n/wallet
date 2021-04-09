@@ -1,1 +1,1 @@
-var mnemonic = "inside firm reduce receive vague winter deny erosion ribbon review tongue custom";
+var mnemonic = "pass oxygen attract shallow unveil liar essence dinner mom equal tragic price";

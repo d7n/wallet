@@ -1,1 +1,1 @@
-var mnemonic = "legal number sound rifle appear item stage maximum submit fabric label blush";
+var mnemonic = "uphold drink gown harsh link sunny choose glance fruit concert funny injury";

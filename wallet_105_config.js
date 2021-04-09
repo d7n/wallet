@@ -1,1 +1,1 @@
-var mnemonic = "ecology grass barrel panda gain know agent erase pencil betray box company";
+var mnemonic = "hair forget purpose need wrap taxi type wet hawk tent sunset mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin glove rival over limb scissors dinosaur move certain tragic matter faculty";
+var mnemonic = "science avocado ten isolate hawk isolate fade decorate autumn blood sauce gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi ready turn toss steak strategy bounce say drink ridge mad cross";
+var mnemonic = "awful skill review differ sight fix stem gun case life engine obscure";

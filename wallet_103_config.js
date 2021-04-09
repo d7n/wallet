@@ -1,1 +1,1 @@
-var mnemonic = "arrive abstract stool force desk allow siren uncover cube pass attitude recall";
+var mnemonic = "motion tag pull twin daughter floor economy modify age alone paper alone";

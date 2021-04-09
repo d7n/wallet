@@ -1,1 +1,1 @@
-var mnemonic = "farm atom measure club bronze guess uncover program route arrange upgrade pistol";
+var mnemonic = "stuff battle captain nothing afraid hotel power sketch culture charge arm mixed";

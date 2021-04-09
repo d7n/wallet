@@ -1,1 +1,1 @@
-var mnemonic = "pool grain wealth hockey famous music start velvet detail egg fee wheat";
+var mnemonic = "weather pretty image truck end fan lunch snack excuse owner room lady";

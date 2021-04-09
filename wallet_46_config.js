@@ -1,1 +1,1 @@
-var mnemonic = "learn enough slender solar limit denial hotel emotion frozen extra burger expect";
+var mnemonic = "park seek mind bottom clog mom home say nuclear twenty sign quantum";

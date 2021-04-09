@@ -1,1 +1,1 @@
-var mnemonic = "critic tail judge spin ketchup valve stock cherry witness alcohol fan gasp";
+var mnemonic = "banner romance nut decade mail live across tell bring exchange mention midnight";

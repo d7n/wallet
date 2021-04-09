@@ -1,1 +1,1 @@
-var mnemonic = "vicious another visual rent name engine divert begin paper height jealous able";
+var mnemonic = "melody capable sustain manual girl riot blanket outside feed spy code turtle";

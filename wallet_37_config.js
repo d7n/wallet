@@ -1,1 +1,1 @@
-var mnemonic = "rocket slide nature possible gate hair recall laundry control puppy abuse adjust";
+var mnemonic = "result father quote grass notice country renew point cloth short cup boat";

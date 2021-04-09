@@ -1,1 +1,1 @@
-var mnemonic = "concert orphan stand example simple lamp ridge orange empower deny kingdom fee";
+var mnemonic = "enough destroy reject move much smooth sorry unknown review universe ill spare";

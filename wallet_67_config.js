@@ -1,1 +1,1 @@
-var mnemonic = "drama trim sort panel advance brisk tilt swim shift actual metal belt";
+var mnemonic = "blood multiply lemon sketch stay end normal witness daughter jelly biology march";

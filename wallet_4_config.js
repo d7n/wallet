@@ -1,1 +1,1 @@
-var mnemonic = "code around wage wave parrot debate cloud kiwi tattoo rose broom reform";
+var mnemonic = "assume pluck box blur eye foam key miracle story arctic bottom upset";

@@ -1,1 +1,1 @@
-var mnemonic = "evil jeans clarify hover filter corn kid drama guess twice tray car";
+var mnemonic = "habit cliff blind decade bless laundry sausage exhaust sample grape hen typical";

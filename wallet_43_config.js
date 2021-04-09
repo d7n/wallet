@@ -1,1 +1,1 @@
-var mnemonic = "come vast one enable loud profit fringe credit whale hurt vintage erosion";
+var mnemonic = "initial viable cover now view habit exchange steel world remain ozone delay";

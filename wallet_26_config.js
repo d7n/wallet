@@ -1,1 +1,1 @@
-var mnemonic = "transfer concert power focus detect zero nice brush autumn duck rebuild volume";
+var mnemonic = "river country tragic purpose kind rough bridge excess win absorb wool require";

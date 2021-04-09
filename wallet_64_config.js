@@ -1,1 +1,1 @@
-var mnemonic = "degree ostrich label follow quote genius ski say aunt comfort dial rude";
+var mnemonic = "alley enhance turtle saddle sausage oyster expose drip rocket tribe maid tomato";

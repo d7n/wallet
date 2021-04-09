@@ -1,1 +1,1 @@
-var mnemonic = "boost object scrub alley guitar report path govern oak october shrug lens";
+var mnemonic = "source fog double cream match brisk burden velvet travel call fit metal";

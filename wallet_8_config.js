@@ -1,1 +1,1 @@
-var mnemonic = "coach wait feel scale lonely magic garment solar soldier imitate marine talent";
+var mnemonic = "play silk giggle drama risk web host patrol liquid purity cruise ceiling";

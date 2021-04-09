@@ -1,1 +1,1 @@
-var mnemonic = "trash hobby since option hobby idle slot sniff emerge bus flush code";
+var mnemonic = "balance later vote neutral power fancy side play valve ribbon unusual conduct";

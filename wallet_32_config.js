@@ -1,1 +1,1 @@
-var mnemonic = "mass welcome catch organ awesome galaxy maze prefer nerve lizard bitter trust";
+var mnemonic = "estate frozen victory toward grunt filter federal onion unable fabric tragic muffin";

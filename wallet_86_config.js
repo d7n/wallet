@@ -1,1 +1,1 @@
-var mnemonic = "quality unhappy battle embark zone eyebrow limit unknown erode kite evolve upset";
+var mnemonic = "rifle discover toe resource mesh raise wage glide when erupt useless case";

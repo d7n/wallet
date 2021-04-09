@@ -1,1 +1,1 @@
-var mnemonic = "amused letter stem seminar arena agree differ cannon toy decade canyon sudden";
+var mnemonic = "ask arrow eager obey planet hill much vibrant another decorate urban genius";

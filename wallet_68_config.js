@@ -1,1 +1,1 @@
-var mnemonic = "timber prevent ivory harsh verb pride decide song eager south bread pride";
+var mnemonic = "brand limb sentence arrest brave glass wall walk patch insect undo orphan";

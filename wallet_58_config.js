@@ -1,1 +1,1 @@
-var mnemonic = "cabbage organ rally disorder joke exist venture banner into flock rookie early";
+var mnemonic = "east pulse unveil canyon peasant mistake involve call void predict trumpet small";

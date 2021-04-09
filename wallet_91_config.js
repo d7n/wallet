@@ -1,1 +1,1 @@
-var mnemonic = "abuse spatial transfer middle guard legend joy inmate access release black crouch";
+var mnemonic = "flash often miss chalk similar despair fence once tunnel rather month hidden";

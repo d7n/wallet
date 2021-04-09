@@ -1,1 +1,1 @@
-var mnemonic = "law tide angry indoor breeze myth wedding range various hope material simple";
+var mnemonic = "estate stem expose hotel make cruel night glance thumb buyer trip pottery";

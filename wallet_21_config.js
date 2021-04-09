@@ -1,1 +1,1 @@
-var mnemonic = "private sort tennis modify pretty salt fetch ignore price sweet pudding rotate";
+var mnemonic = "cycle century oval apart clown wire century gorilla screen like leg attend";

@@ -1,1 +1,1 @@
-var mnemonic = "rude erode bundle release feed you cable harsh few explain layer hedgehog";
+var mnemonic = "cross case more screen fatal vast resource crash unable firm virtual alert";

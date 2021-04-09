@@ -1,1 +1,1 @@
-var mnemonic = "puppy chef ahead lyrics grant theory fault media defense frequent ladder pupil";
+var mnemonic = "saddle mutual ahead concert move much brick excuse fork must tiny series";

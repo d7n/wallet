@@ -1,1 +1,1 @@
-var mnemonic = "stay margin asthma copper patient cabin grain spare balcony buffalo lift fever";
+var mnemonic = "hope setup father loyal tourist into point mystery assist split artist upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin furnace once bronze enact wire husband urban loop orbit donkey miracle";
+var mnemonic = "vote auction table exhaust profit globe resource fame nuclear square age pair";

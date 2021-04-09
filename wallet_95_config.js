@@ -1,1 +1,1 @@
-var mnemonic = "short spray license trend sauce learn any fire forward moon surround tone";
+var mnemonic = "lady front better real domain scrub close diesel badge nominee cinnamon gas";

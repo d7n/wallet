@@ -1,1 +1,1 @@
-var mnemonic = "also fame sunset cabbage heavy issue jazz ramp hunt eagle desk best";
+var mnemonic = "hen warrior monitor runway erupt someone garment expose latin thrive liquid emerge";

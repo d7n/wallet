@@ -1,1 +1,1 @@
-var mnemonic = "race often insect spatial wrist silly begin jazz broom thunder wild number";
+var mnemonic = "member sock frog treat casual gift garment balance runway next quarter finger";

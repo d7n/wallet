@@ -1,1 +1,1 @@
-var mnemonic = "panda december hazard jacket year fiction child ozone burden metal wisdom embrace";
+var mnemonic = "trash boy waste group lamp foster blast among title iron steak together";

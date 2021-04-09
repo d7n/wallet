@@ -1,1 +1,1 @@
-var mnemonic = "salad awesome retreat culture object alert virtual argue damage patient soldier year";
+var mnemonic = "tail sense dose top business smooth poverty drive bargain off athlete camera";

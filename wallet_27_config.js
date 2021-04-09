@@ -1,1 +1,1 @@
-var mnemonic = "between quarter reduce nature fresh lobster veteran inject pill vintage pattern provide";
+var mnemonic = "deer access tonight fee exhaust giant disease goose seek sock juice remind";

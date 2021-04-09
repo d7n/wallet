@@ -1,1 +1,1 @@
-var mnemonic = "couch under increase hand depart such other oven enter suit second give";
+var mnemonic = "muscle original sting yard abuse cry burden diary cushion resource pepper focus";

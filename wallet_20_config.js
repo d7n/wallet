@@ -1,1 +1,1 @@
-var mnemonic = "brick flag father craft degree employ produce advance parrot truly amused moral";
+var mnemonic = "corn waste canyon air enroll wreck version siren toy require choose junk";

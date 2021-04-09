@@ -1,1 +1,1 @@
-var mnemonic = "coral install regular diagram sweet angry finish output flower follow idle dice";
+var mnemonic = "stadium wild stick surge worry squirrel horror mimic swear repeat play token";

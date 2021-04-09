@@ -1,1 +1,1 @@
-var mnemonic = "salmon menu sugar enter fatal like barrel sample category twice gauge situate";
+var mnemonic = "match consider address ivory outdoor quantum metal bean human feel rug auto";

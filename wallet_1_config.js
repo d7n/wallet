@@ -1,1 +1,1 @@
-var mnemonic = "angle chuckle float flavor tilt visa kid provide select energy retire rescue";
+var mnemonic = "feel blush upper ozone burden any wood transfer silk release chest myth";

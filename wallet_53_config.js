@@ -1,1 +1,1 @@
-var mnemonic = "fame chat shock grow solve arrow gas narrow vicious until tenant general";
+var mnemonic = "drive where bachelor ship century turtle elephant satoshi verb wasp mom spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior middle group spatial engine brisk mango estate category joy tattoo retreat";
+var mnemonic = "useless dust skull inject shift exhibit entire minor lift satoshi sword dolphin";

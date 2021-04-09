@@ -1,1 +1,1 @@
-var mnemonic = "nose mass subway youth abuse drip gather roast cliff negative can unique";
+var mnemonic = "public coil save change cannon orchard useful maximum witness invite what ask";

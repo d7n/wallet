@@ -1,1 +1,1 @@
-var mnemonic = "still accident wing lunch scan salt human one manage canal build pride";
+var mnemonic = "frog impose jazz marine pitch vehicle grain short adapt divert salon taste";

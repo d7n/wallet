@@ -1,1 +1,1 @@
-var mnemonic = "adjust other tip mouse old diagram child expose basket wealth gap observe";
+var mnemonic = "sword fluid pyramid witness capital more sick verify select century hamster wall";

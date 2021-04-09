@@ -1,1 +1,1 @@
-var mnemonic = "verb food shell alter royal velvet custom supreme awkward custom afraid during";
+var mnemonic = "reason blue ranch gorilla fossil misery more gift odor weapon indicate stairs";

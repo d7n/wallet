@@ -1,1 +1,1 @@
-var mnemonic = "fix industry bus balcony omit scan tilt razor exercise belt lunar desk";
+var mnemonic = "brisk suffer vicious normal prepare when bronze recycle call hen else knock";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon unfair magnet credit hungry mean armor ginger ready spare decrease crucial";
+var mnemonic = "brisk friend volume foster veteran twist grit busy arch trial laundry report";

@@ -1,1 +1,1 @@
-var mnemonic = "talent banana civil antenna leg code naive tree robust actual diary amazing";
+var mnemonic = "wood census rocket arena sign habit wish wine pulp clever mom birth";

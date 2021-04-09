@@ -1,1 +1,1 @@
-var mnemonic = "toe tail maple history mystery party silver excite robot ice guitar plunge";
+var mnemonic = "verify winter year invite buddy clap any blush stick nice enact tag";

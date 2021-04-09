@@ -1,1 +1,1 @@
-var mnemonic = "lake sun click relax clinic junior coil save prefer lounge color consider";
+var mnemonic = "tail board practice attend attack medal credit palm trigger appear when onion";

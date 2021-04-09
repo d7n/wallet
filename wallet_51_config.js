@@ -1,1 +1,1 @@
-var mnemonic = "brown beach song crop lobster island memory spell bundle leisure aspect kind";
+var mnemonic = "hill sunny city interest letter text people hood trial frame embark hint";

@@ -1,1 +1,1 @@
-var mnemonic = "then uncover easily manual job system sport half beef gap language point";
+var mnemonic = "crucial argue pioneer guard umbrella theory kiwi cost gift calm any add";

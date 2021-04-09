@@ -1,1 +1,1 @@
-var mnemonic = "reduce fitness lava proof twice alien regret slice audit search visual ski";
+var mnemonic = "much donkey amateur salmon acoustic abuse sustain can bread feel addict rhythm";

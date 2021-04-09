@@ -1,1 +1,1 @@
-var mnemonic = "lunch frozen depart already brain galaxy senior lunch soldier life west hint";
+var mnemonic = "language fatigue sketch north blast deposit merge column worth vessel general celery";

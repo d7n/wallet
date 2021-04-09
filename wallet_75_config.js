@@ -1,1 +1,1 @@
-var mnemonic = "chaos sunny frog top seat enjoy exist marine cross despair toss post";
+var mnemonic = "depth energy angle equal mango blue toss pupil brown whip fatigue frame";

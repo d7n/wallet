@@ -1,1 +1,1 @@
-var mnemonic = "rule what live can cruel grab zebra never virus vague tide curve";
+var mnemonic = "update curious grab approve there absurd dignity excess knee sausage urban thank";

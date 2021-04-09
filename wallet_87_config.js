@@ -1,1 +1,1 @@
-var mnemonic = "purse call gas spirit icon talk daughter bring inform grace world robust";
+var mnemonic = "fringe true term photo fan solution game real crunch elegant quick float";

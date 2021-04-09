@@ -1,1 +1,1 @@
-var mnemonic = "various argue between begin glue frown wasp rally walk zone can lounge";
+var mnemonic = "mandate pizza whisper program hole street car blast vocal rich defense oval";

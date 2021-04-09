@@ -1,1 +1,1 @@
-var mnemonic = "release flower banana pull reflect club fit collect hotel follow oblige milk";
+var mnemonic = "can noble rifle select zoo jungle hire album lamp front acid jealous";

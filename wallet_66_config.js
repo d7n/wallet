@@ -1,1 +1,1 @@
-var mnemonic = "spirit rice mosquito basic daring mercy ball hire change uncover gossip enlist";
+var mnemonic = "shrimp put warfare desk blood idea pluck drama silly text animal illness";

@@ -1,1 +1,1 @@
-var mnemonic = "spot useful march kit blood believe enough daughter spring theory awake coach";
+var mnemonic = "harvest quote raven conduct brave physical solve menu search ball slide envelope";
