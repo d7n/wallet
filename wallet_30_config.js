@@ -1,1 +1,1 @@
-var mnemonic = "arena ticket museum attract dust song naive pyramid treat acquire tortoise loud";
+var mnemonic = "regret sentence winner bicycle ring empty lady appear banner pink tomato proof";

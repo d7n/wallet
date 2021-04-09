@@ -1,1 +1,1 @@
-var mnemonic = "critic kangaroo fabric amazing delay warrior glue quiz into lonely raccoon inform";
+var mnemonic = "bright patient cactus noodle spray army virtual frog evolve screen club prevent";

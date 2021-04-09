@@ -1,1 +1,1 @@
-var mnemonic = "thrive smooth shell pottery ability unusual amateur case rival output wolf winner";
+var mnemonic = "host glad float bottom eagle tide fish such network library nature next";

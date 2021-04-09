@@ -1,1 +1,1 @@
-var mnemonic = "silk blast patient sheriff input parrot concert aware casual crawl pact dragon";
+var mnemonic = "violin weasel purchase turtle goddess increase call kitchen mango swear slender reject";

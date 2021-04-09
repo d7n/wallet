@@ -1,1 +1,1 @@
-var mnemonic = "month symbol license cigar guard cover solution chase furnace famous taste wealth";
+var mnemonic = "reform insect wine ketchup recall alley trap tuition chest satisfy trick tool";

@@ -1,1 +1,1 @@
-var mnemonic = "panel frozen wild popular before until frog toy young arrive tourist lion";
+var mnemonic = "submit essay flat afraid body undo loan recipe hip lyrics drum nerve";

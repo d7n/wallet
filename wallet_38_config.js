@@ -1,1 +1,1 @@
-var mnemonic = "tiger quote pulp win minute able brand remain reward claim gloom romance";
+var mnemonic = "tray apart asset penalty fiber pluck green solution easily snow valley real";

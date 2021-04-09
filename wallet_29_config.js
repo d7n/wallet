@@ -1,1 +1,1 @@
-var mnemonic = "ocean bounce aerobic cage rival side parade pepper camera rib duck destroy";
+var mnemonic = "parade urge zoo scout toss carry decrease twist physical diary auto flee";

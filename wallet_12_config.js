@@ -1,1 +1,1 @@
-var mnemonic = "fetch chair artefact rapid sister update source oblige sand come donkey guard";
+var mnemonic = "alarm neck thank please banana decline fuel fortune layer sibling guitar comic";

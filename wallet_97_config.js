@@ -1,1 +1,1 @@
-var mnemonic = "fog flush room birth tag green return chief captain fame tortoise option";
+var mnemonic = "recipe soul sea gentle always opinion grape brush call lecture cricket visual";

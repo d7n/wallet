@@ -1,1 +1,1 @@
-var mnemonic = "before pact govern earth glimpse effort scene bread protect clap cushion drill";
+var mnemonic = "connect lake blast glimpse account best demise teach slot license drill worth";

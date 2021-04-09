@@ -1,1 +1,1 @@
-var mnemonic = "cube unit tomato educate sail exist hard office above minor clip group";
+var mnemonic = "juice express gospel warrior jewel behind parent grace buddy ghost sing flock";

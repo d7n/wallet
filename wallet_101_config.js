@@ -1,1 +1,1 @@
-var mnemonic = "cancel woman ready tackle cotton soap fantasy express grief crew real orient";
+var mnemonic = "evidence orange enough spend decline vacuum ticket fiscal speak view flat castle";

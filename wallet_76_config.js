@@ -1,1 +1,1 @@
-var mnemonic = "final jungle milk chair open staff depth fortune sea chuckle turn response";
+var mnemonic = "wheat repair idle stuff bar grain initial silver fault assault broken tape";

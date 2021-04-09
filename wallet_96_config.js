@@ -1,1 +1,1 @@
-var mnemonic = "together october buzz globe certain defy slab brown credit orient black clump";
+var mnemonic = "shuffle lumber coyote predict basic crime luxury enlist fish occur real angry";

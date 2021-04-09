@@ -1,1 +1,1 @@
-var mnemonic = "program luxury early tent answer there cricket borrow pelican letter mammal stay";
+var mnemonic = "reject forward hole cattle aspect unhappy exchange glue reduce urban candy crunch";

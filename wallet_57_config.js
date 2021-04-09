@@ -1,1 +1,1 @@
-var mnemonic = "member alley thunder humor horn cook airport spring taste rough wood alarm";
+var mnemonic = "harbor kid patch twenty stool peace hungry sweet sunset photo daring spice";

@@ -1,1 +1,1 @@
-var mnemonic = "depart excuse forum surprise balance lazy rose know will flower distance venture";
+var mnemonic = "exile purse like digital gravity regular throw diary cotton book empty catch";

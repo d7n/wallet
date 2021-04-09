@@ -1,1 +1,1 @@
-var mnemonic = "assist elder fade depart virtual there burst trick year audit risk topple";
+var mnemonic = "dinner blush country frequent chief glide river wrap bench seek sport crucial";

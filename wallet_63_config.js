@@ -1,1 +1,1 @@
-var mnemonic = "dish error define slogan foster eternal dune ghost rice mobile prison crouch";
+var mnemonic = "cinnamon sketch agree extend citizen toilet mechanic robot consider wave neither genre";

@@ -1,1 +1,1 @@
-var mnemonic = "diet gather robot open surface prison outside shaft orphan rival forum clap";
+var mnemonic = "hill sting pottery airport rough issue toward cave else hospital forget minor";

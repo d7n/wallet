@@ -1,1 +1,1 @@
-var mnemonic = "logic vapor way culture game brass benefit grape father fresh jacket jeans";
+var mnemonic = "gym interest live siren ceiling garment blossom there fever thunder there tell";

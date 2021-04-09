@@ -1,1 +1,1 @@
-var mnemonic = "train stove slush midnight road exile light evolve theme afford state leader";
+var mnemonic = "over body ride nurse company calm sell pitch dolphin favorite round question";

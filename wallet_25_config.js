@@ -1,1 +1,1 @@
-var mnemonic = "talk awkward teach screen reject junk exercise uncover august suffer tent melt";
+var mnemonic = "rely burger grunt wolf antenna pioneer silly galaxy thought utility cable worth";

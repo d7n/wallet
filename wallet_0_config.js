@@ -1,1 +1,1 @@
-var mnemonic = "wise domain bread silver special buzz index nothing pond nut subway path";
+var mnemonic = "ability produce method title vital street expand ordinary brick love ignore coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "deny gentle umbrella volcano clock fit govern add speak blast bird cheap";
+var mnemonic = "outer ten license stool subject rough poet merit artist very merge regret";

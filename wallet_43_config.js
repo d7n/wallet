@@ -1,1 +1,1 @@
-var mnemonic = "fog special able iron timber citizen wasp reunion strike apple steak evidence";
+var mnemonic = "depart twist cloud chapter marriage possible zero cluster check end depart option";

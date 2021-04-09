@@ -1,1 +1,1 @@
-var mnemonic = "talent abuse rifle sock crater among obtain spare master captain voice unusual";
+var mnemonic = "swift also debris twist jazz random fork repair fetch certain denial involve";

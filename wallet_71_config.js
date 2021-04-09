@@ -1,1 +1,1 @@
-var mnemonic = "return tribe trade opinion modify tribe gaze wife very corn taste observe";
+var mnemonic = "wood bus soft pet glide video island road devote harbor onion rate";

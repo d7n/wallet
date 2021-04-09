@@ -1,1 +1,1 @@
-var mnemonic = "wrap skill fault write adult cement north guard pen sketch chalk fun";
+var mnemonic = "ripple market search pave whisper orient bone clerk clean vessel table green";

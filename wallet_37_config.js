@@ -1,1 +1,1 @@
-var mnemonic = "gold marble cherry erode grocery van edit swallow orbit myth hobby bunker";
+var mnemonic = "scout sleep blur math noodle elite album trend travel wise net sniff";

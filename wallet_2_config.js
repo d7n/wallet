@@ -1,1 +1,1 @@
-var mnemonic = "crane detect regular convince scan render video oppose sting post december leg";
+var mnemonic = "prefer oven west silly caught sail tip balcony hazard inflict solid learn";

@@ -1,1 +1,1 @@
-var mnemonic = "way embody capital ethics pulse photo riot trip general wagon latin city";
+var mnemonic = "erupt satisfy river hard shuffle remove smart gauge journey scare surprise humble";

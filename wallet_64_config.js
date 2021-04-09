@@ -1,1 +1,1 @@
-var mnemonic = "own host quarter fantasy cousin baby leave lens pilot sleep humor keen";
+var mnemonic = "crucial drive limb shed ethics century music scorpion tilt shock quarter liberty";

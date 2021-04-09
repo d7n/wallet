@@ -1,1 +1,1 @@
-var mnemonic = "unable maximum simple unlock dwarf corn dwarf parade palm one velvet hawk";
+var mnemonic = "tennis city unique laptop moral buzz prepare share soldier trouble ocean tray";

@@ -1,1 +1,1 @@
-var mnemonic = "slim physical alter advance visual odor detail thought bag jeans finger chest";
+var mnemonic = "hurt liberty sheriff orient fortune critic crisp offer addict october buyer solve";

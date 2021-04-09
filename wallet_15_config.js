@@ -1,1 +1,1 @@
-var mnemonic = "cotton youth crater dash harsh thank approve lake category clinic decade depart";
+var mnemonic = "one squirrel open hurry goat camera gauge shiver tongue mushroom local example";

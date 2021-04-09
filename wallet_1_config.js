@@ -1,1 +1,1 @@
-var mnemonic = "fix ankle buddy start net crazy wagon front strike pear file caution";
+var mnemonic = "enforce hundred culture setup limb silent table world fence gorilla silly grass";

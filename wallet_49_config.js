@@ -1,1 +1,1 @@
-var mnemonic = "initial amount alien rib pattern conduct apology truth boost green estate spirit";
+var mnemonic = "plate engage shrug pet behind bid target escape apart undo bridge soda";

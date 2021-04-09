@@ -1,1 +1,1 @@
-var mnemonic = "traffic goat inspire grain believe anxiety simple budget sibling front rally inhale";
+var mnemonic = "route weather helmet flock kitchen coyote foil talk treat endless play verify";

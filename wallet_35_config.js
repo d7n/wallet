@@ -1,1 +1,1 @@
-var mnemonic = "winner wheel market relax worth educate slim scheme spring drop gold property";
+var mnemonic = "seven iron bachelor remove soul arrow deliver focus glory vital season exhaust";

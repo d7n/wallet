@@ -1,1 +1,1 @@
-var mnemonic = "surface success success kiwi sand room circle helmet focus have wisdom betray";
+var mnemonic = "coast always split achieve claim attitude wear indicate essence effort tiger tomato";

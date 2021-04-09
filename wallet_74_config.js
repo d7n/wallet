@@ -1,1 +1,1 @@
-var mnemonic = "venue divide foot sad estate private focus very poverty leaf pill transfer";
+var mnemonic = "stairs sunset sign manage cake glimpse climb diamond predict select charge embrace";

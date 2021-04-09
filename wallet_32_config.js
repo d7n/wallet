@@ -1,1 +1,1 @@
-var mnemonic = "thunder kangaroo venture lecture process bar luggage learn anchor repair gadget unlock";
+var mnemonic = "company brisk guitar guard luggage mixed dinner scene mad fan bean alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito silver tide pyramid enhance private afford weather approve surprise tribe sense";
+var mnemonic = "air boat brown science quantum enemy luggage negative spawn pact knee hotel";

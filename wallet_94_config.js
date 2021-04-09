@@ -1,1 +1,1 @@
-var mnemonic = "amount copy text grief sport airport there health argue mistake control inject";
+var mnemonic = "debris left thumb air aim erode neck crisp speed okay ginger okay";

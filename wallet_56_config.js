@@ -1,1 +1,1 @@
-var mnemonic = "cash mistake clog enjoy secret screen word main lecture tray patch mystery";
+var mnemonic = "buyer empty amateur rich bird arrive chuckle radio laundry inflict wonder gain";

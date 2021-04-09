@@ -1,1 +1,1 @@
-var mnemonic = "rough acquire amused vehicle exile night muscle absorb inspire flag armor post";
+var mnemonic = "deliver dentist zoo fall budget fall claw judge unit crop team reason";

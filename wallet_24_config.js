@@ -1,1 +1,1 @@
-var mnemonic = "repeat gap enforce file arrest mixture since emerge lady wonder urban lift";
+var mnemonic = "leg message false outdoor fatal meat double begin midnight grow behave promote";

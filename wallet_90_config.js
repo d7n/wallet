@@ -1,1 +1,1 @@
-var mnemonic = "seven nothing lonely confirm danger pretty drum reject indoor base fine rigid";
+var mnemonic = "flame link check outdoor cactus wrestle arrive life dawn hurt scatter sight";

@@ -1,1 +1,1 @@
-var mnemonic = "false certain pony ostrich super fiction unit canyon future chest word wrong";
+var mnemonic = "federal merge heavy abstract equal call final dream stable fiscal base garage";

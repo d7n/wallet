@@ -1,1 +1,1 @@
-var mnemonic = "measure follow square amused alien sheriff traffic coffee yellow jeans hidden cave";
+var mnemonic = "burden disorder attitude arena sugar violin click bus deny flavor poverty picture";

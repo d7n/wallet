@@ -1,1 +1,1 @@
-var mnemonic = "toy gas moment pink inspire veteran zero depart prison quit notable endless";
+var mnemonic = "burden syrup material puppy angry under wall cool tree boat federal shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid concert close flash post traffic physical elephant flush peanut craft core";
+var mnemonic = "skull bright sadness supply desk anchor alarm airport grocery essay basket fatigue";

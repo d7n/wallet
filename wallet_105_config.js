@@ -1,1 +1,1 @@
-var mnemonic = "deputy slam stamp salt magnet mimic weekend genuine excuse accident walnut burger";
+var mnemonic = "elder announce rifle predict six mimic corn traffic easily sleep unfair coin";

@@ -1,1 +1,1 @@
-var mnemonic = "diet neither antenna release moment general bird snake admit sun gold demand";
+var mnemonic = "more maze hammer sing version toast spin sign fossil bag rebuild slot";

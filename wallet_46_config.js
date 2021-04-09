@@ -1,1 +1,1 @@
-var mnemonic = "traffic depart pigeon link emotion honey runway refuse nice trumpet service crucial";
+var mnemonic = "universe gaze system nature indicate recall beyond dinosaur this game ball renew";

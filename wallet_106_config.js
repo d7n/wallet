@@ -1,1 +1,1 @@
-var mnemonic = "balcony stamp bag clay frozen able gas border merge loop cloud fun";
+var mnemonic = "rule pave exotic avocado broom element december verb govern same daring release";

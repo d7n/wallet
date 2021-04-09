@@ -1,1 +1,1 @@
-var mnemonic = "exact error bench magic suspect change churn banana couple collect victory embark";
+var mnemonic = "draft robot web link current upset decrease sign collect case castle nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "mix mistake spray ordinary come horror february emotion verify you when funny";
+var mnemonic = "boil section large right clerk pony regular frozen large slender moon dose";

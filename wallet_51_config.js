@@ -1,1 +1,1 @@
-var mnemonic = "test volume deposit deputy zebra water strike clock vacant picture bomb cry";
+var mnemonic = "obey army story hospital bubble sausage wet relief advice learn chase stock";

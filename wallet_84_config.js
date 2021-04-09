@@ -1,1 +1,1 @@
-var mnemonic = "sleep antenna couple fatal brown width floor merit survey stay sausage dish";
+var mnemonic = "wide approve inspire wolf broken hurry runway ripple vivid horror bacon state";

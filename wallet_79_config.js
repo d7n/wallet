@@ -1,1 +1,1 @@
-var mnemonic = "baby fancy foam attend thunder cause limit lazy rookie divide circle move";
+var mnemonic = "picnic cushion turtle ghost toss leave beyond verb cruise keep salon draw";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey language disorder step bird awful notice casino boss ranch weather base";
+var mnemonic = "flock sense thing tuna same check receive derive ecology winner beach radar";

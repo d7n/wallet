@@ -1,1 +1,1 @@
-var mnemonic = "pelican convince gorilla soon sand broom museum pepper recycle lizard develop visa";
+var mnemonic = "mass pilot lucky business trumpet april bullet exhaust elevator truly expose around";

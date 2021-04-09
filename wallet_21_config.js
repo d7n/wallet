@@ -1,1 +1,1 @@
-var mnemonic = "cushion shallow service dutch midnight evil bracket strong great real parent maple";
+var mnemonic = "fix claw hungry deputy world term wet moral ability ride metal hurdle";

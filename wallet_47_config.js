@@ -1,1 +1,1 @@
-var mnemonic = "injury prosper amazing pool caught extra exile twenty century upset crop tip";
+var mnemonic = "offer inspire symbol miss reduce blue alarm deliver sock airport clarify debris";

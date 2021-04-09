@@ -1,1 +1,1 @@
-var mnemonic = "oval season canyon attend oil family vivid output eternal silk pioneer magnet";
+var mnemonic = "suggest park goddess afraid kitten staff jazz gentle soldier depend wild leisure";

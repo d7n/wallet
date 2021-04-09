@@ -1,1 +1,1 @@
-var mnemonic = "wing machine plunge rib you crawl room sort brother hold legal eager";
+var mnemonic = "stand analyst family dove first cereal analyst baby swap napkin surround animal";

@@ -1,1 +1,1 @@
-var mnemonic = "belt sniff surface unveil horse ring orient pattern journey silk snake tray";
+var mnemonic = "movie winter enforce party pond exotic boss orphan achieve exist december clay";

@@ -1,1 +1,1 @@
-var mnemonic = "intact art yellow pledge amount mistake exercise health find silent olympic merge";
+var mnemonic = "primary grain pause resist lecture fiction brass work album castle fit cool";

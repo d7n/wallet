@@ -1,1 +1,1 @@
-var mnemonic = "oven wealth culture couch record firm coffee point maze front vessel position";
+var mnemonic = "mouse habit actor venue flip effort thought soldier try chronic mass future";

@@ -1,1 +1,1 @@
-var mnemonic = "draft hunt slot maid eye clean surprise tuna fame crush novel goat";
+var mnemonic = "hope analyst gasp island random excite drive little fork tunnel reject barrel";

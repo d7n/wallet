@@ -1,1 +1,1 @@
-var mnemonic = "need essay kite autumn retire tree tilt obscure forum palace hobby bean";
+var mnemonic = "catch deposit hip endless bullet glow hurdle traffic grunt crash front spell";

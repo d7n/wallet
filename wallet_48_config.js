@@ -1,1 +1,1 @@
-var mnemonic = "dial gather latin figure extra warm amazing talent mass enable resist illegal";
+var mnemonic = "usual tribe account inquiry magnet elegant common oppose ability wise depend manual";

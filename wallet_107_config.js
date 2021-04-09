@@ -1,1 +1,1 @@
-var mnemonic = "fortune express describe wing monkey near math buffalo ritual mad sail scatter";
+var mnemonic = "liberty sausage desk chuckle expire hundred domain govern innocent pave latin chronic";

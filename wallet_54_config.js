@@ -1,1 +1,1 @@
-var mnemonic = "miracle tired chase leader lyrics arctic bitter blind holiday main act outer";
+var mnemonic = "remain pig danger need bridge summer correct brave attend alien museum tuition";

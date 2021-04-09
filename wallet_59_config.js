@@ -1,1 +1,1 @@
-var mnemonic = "argue comfort snap tackle eye daring charge menu twenty imitate narrow evolve";
+var mnemonic = "twice endless mesh usage access grit group fatal better crew accuse situate";

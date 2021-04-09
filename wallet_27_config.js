@@ -1,1 +1,1 @@
-var mnemonic = "effort fee fork neck cart canoe high shy lens february shoulder impulse";
+var mnemonic = "bleak hip arrange combine electric very brother metal note member dish nephew";

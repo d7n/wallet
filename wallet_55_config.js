@@ -1,1 +1,1 @@
-var mnemonic = "venture dumb seek bamboo dentist isolate frown motion together payment uncover small";
+var mnemonic = "regular chimney cricket cinnamon drastic since vast february exotic abuse infant quick";

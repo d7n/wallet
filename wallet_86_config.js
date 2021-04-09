@@ -1,1 +1,1 @@
-var mnemonic = "hero boss replace gentle ensure space input twin dash blouse example twin";
+var mnemonic = "release escape winner infant token seed benefit mouse field illegal limb normal";

@@ -1,1 +1,1 @@
-var mnemonic = "ride frozen trim assist behave organ roast address escape enforce property cannon";
+var mnemonic = "ridge actress asthma guitar whip reduce tent vintage leaf shine equip predict";

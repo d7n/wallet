@@ -1,1 +1,1 @@
-var mnemonic = "hole gift tennis erosion humble ceiling this rate math around discover mother";
+var mnemonic = "debate social gap route brush curve remain old truck radio cabbage exchange";

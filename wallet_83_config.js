@@ -1,1 +1,1 @@
-var mnemonic = "concert attack security quiz today friend decrease wood toddler toss meadow plug";
+var mnemonic = "sauce search soup uncle sibling smoke escape noise test blanket hood fox";

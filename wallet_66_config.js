@@ -1,1 +1,1 @@
-var mnemonic = "soup luxury entire cradle later law infant tiger old empty vacuum label";
+var mnemonic = "spend swing common mistake same protect rail uncover hair opinion describe strong";

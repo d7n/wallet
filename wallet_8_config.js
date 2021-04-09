@@ -1,1 +1,1 @@
-var mnemonic = "space bulb uniform slab pen vapor south dwarf lazy bracket left oak";
+var mnemonic = "purity catch dice electric stomach cricket smile expect output ball palm hello";

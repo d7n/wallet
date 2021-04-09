@@ -1,1 +1,1 @@
-var mnemonic = "taste nominee glass basket payment crazy token fossil chalk mail steel manual";
+var mnemonic = "odor poem insect space series couch lounge south scheme roof middle chief";
