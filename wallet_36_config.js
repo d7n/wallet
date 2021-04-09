@@ -1,1 +1,1 @@
-var mnemonic = "hair light trip flower pudding struggle crucial clap denial orphan bean shoe";
+var mnemonic = "damage daughter razor assault method brother romance guilt climb insect monitor fruit";

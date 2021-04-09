@@ -1,1 +1,1 @@
-var mnemonic = "cheap universe awful credit letter crew champion ability virtual seed exact always";
+var mnemonic = "confirm maple rally barely mask odor ketchup month eyebrow kiss people either";

@@ -1,1 +1,1 @@
-var mnemonic = "glow biology candy blur toast globe mystery drink vast rough couch arena";
+var mnemonic = "list guard taxi basic horror setup blood clinic kick popular regret hungry";

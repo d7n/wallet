@@ -1,1 +1,1 @@
-var mnemonic = "nurse depth crash hollow then oval meadow stamp own nuclear ready vendor";
+var mnemonic = "custom arrange enable fetch material shrimp unlock clutch coffee silver nominee december";

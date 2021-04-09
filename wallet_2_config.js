@@ -1,1 +1,1 @@
-var mnemonic = "barrel cave park jungle shift blind spice inform alpha market bench flock";
+var mnemonic = "pyramid kingdom license tunnel cabbage win kidney sort crouch snake swear welcome";

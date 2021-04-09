@@ -1,1 +1,1 @@
-var mnemonic = "antique pulp wreck gallery fat around reason push sight worry resource whale";
+var mnemonic = "ceiling silent cinnamon mention between jeans void ship patient advance sea bounce";

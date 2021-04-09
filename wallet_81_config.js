@@ -1,1 +1,1 @@
-var mnemonic = "curious real indicate immune venture cube arrange curtain chunk damp addict announce";
+var mnemonic = "mandate stable trophy inherit wish excuse liar major answer glance coyote manage";

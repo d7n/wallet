@@ -1,1 +1,1 @@
-var mnemonic = "tonight soda insect confirm cruel pen convince tower assault game chest sound";
+var mnemonic = "version elegant night lab dice theme ribbon final wet carpet start worth";

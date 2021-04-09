@@ -1,1 +1,1 @@
-var mnemonic = "boil holiday insane gap wage hurdle peasant exclude yard ball add kite";
+var mnemonic = "subway unveil advance lumber genre parrot evil essence escape pig behind include";

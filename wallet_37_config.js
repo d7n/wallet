@@ -1,1 +1,1 @@
-var mnemonic = "piano immune silk science tomato exact target intact bar favorite enjoy frequent";
+var mnemonic = "exchange entry please rescue final field rhythm segment throw midnight unfair mass";

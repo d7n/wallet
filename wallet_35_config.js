@@ -1,1 +1,1 @@
-var mnemonic = "dice clever cinnamon help open congress episode punch input spare curve north";
+var mnemonic = "stamp final hedgehog appear cloth praise jelly dust column spot cancel soft";

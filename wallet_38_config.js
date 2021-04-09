@@ -1,1 +1,1 @@
-var mnemonic = "remind sugar give crouch surge upset sock icon require replace brother solid";
+var mnemonic = "east process fresh fly machine foam sketch warfare clutch subject sad art";

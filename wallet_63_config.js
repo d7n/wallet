@@ -1,1 +1,1 @@
-var mnemonic = "disease reopen indoor nurse grow donor correct evoke forget thrive must fat";
+var mnemonic = "lift mixture rapid lyrics ask brisk hamster fever negative spot absent army";

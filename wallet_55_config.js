@@ -1,1 +1,1 @@
-var mnemonic = "action wear thunder furnace parent frozen mouse display task lobster debris dinner";
+var mnemonic = "hood lab burger brother now foot auto wolf trial area help bullet";

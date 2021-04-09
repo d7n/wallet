@@ -1,1 +1,1 @@
-var mnemonic = "hole brush inch child ghost lobster twin thing solar riot cushion possible";
+var mnemonic = "art critic wrap weekend exile attack door delay illegal lion move arch";

@@ -1,1 +1,1 @@
-var mnemonic = "strong pause cool never habit gold illness supply drip bridge core random";
+var mnemonic = "around east tortoise conduct scout alpha parrot occur bacon consider tonight route";

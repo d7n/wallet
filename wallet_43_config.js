@@ -1,1 +1,1 @@
-var mnemonic = "name radio alien coast satoshi color regular wagon lock robust float series";
+var mnemonic = "smoke half slab laptop rather wave next utility potato anchor morning dust";

@@ -1,1 +1,1 @@
-var mnemonic = "portion elbow knock bachelor hotel siren come trend danger myself scrub effort";
+var mnemonic = "inflict cup tomato amazing never increase ladder century razor dirt urge fog";

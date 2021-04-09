@@ -1,1 +1,1 @@
-var mnemonic = "pretty focus clutch butter ladder uncle trip unfair beach alter ritual rifle";
+var mnemonic = "special attract topic bracket duck later canal right eight traffic clog solid";

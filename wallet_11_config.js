@@ -1,1 +1,1 @@
-var mnemonic = "reward interest cable laugh divorce cruise pilot oxygen wonder imitate people bean";
+var mnemonic = "melt mosquito language public enough slim cause sound confirm make fortune worry";

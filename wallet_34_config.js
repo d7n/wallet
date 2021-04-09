@@ -1,1 +1,1 @@
-var mnemonic = "fade moment burden toward youth kitten rule try spike north violin holiday";
+var mnemonic = "kangaroo ordinary apple cancel fiber grunt snake manage obvious trash deny canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "sick access sample number word cancel jeans rookie search inner fit dragon";
+var mnemonic = "tent order ethics deny poem border report rain alley total proof image";

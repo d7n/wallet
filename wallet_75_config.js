@@ -1,1 +1,1 @@
-var mnemonic = "employ trial dirt sibling health electric play twenty exhaust again puppy dawn";
+var mnemonic = "square rebuild mistake error faculty coconut enough produce bitter faculty copper sunset";

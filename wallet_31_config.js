@@ -1,1 +1,1 @@
-var mnemonic = "arena hour silk glove hover express salt like bicycle brush diet couch";
+var mnemonic = "lock coach produce cabbage derive pipe pig expand cake flip exchange village";

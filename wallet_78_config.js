@@ -1,1 +1,1 @@
-var mnemonic = "kiwi tray fruit own faculty dial actual chunk glare design flight move";
+var mnemonic = "flower absurd elegant series fancy merge innocent what monitor cloth recall column";

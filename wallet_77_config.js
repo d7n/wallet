@@ -1,1 +1,1 @@
-var mnemonic = "october gentle pioneer next album office grace gadget enable egg kite close";
+var mnemonic = "barrel uniform prize inform busy rigid arrive pledge board kangaroo damp upset";

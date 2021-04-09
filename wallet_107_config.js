@@ -1,1 +1,1 @@
-var mnemonic = "february ridge wheat spirit twenty job cream tourist desk supply input front";
+var mnemonic = "legend prefer monkey spot oblige quick coyote find rally pencil august affair";

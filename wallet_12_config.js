@@ -1,1 +1,1 @@
-var mnemonic = "plate access try sibling satoshi human boat hint depend orchard verb laugh";
+var mnemonic = "load kingdom drift vessel future nasty much cake peace habit chronic certain";

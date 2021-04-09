@@ -1,1 +1,1 @@
-var mnemonic = "trip butter immune unfold daring lend maple device engage sorry provide talk";
+var mnemonic = "vendor dune capital unveil voyage medal couch push novel twin only home";

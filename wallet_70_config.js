@@ -1,1 +1,1 @@
-var mnemonic = "rapid surround ticket merit spike liquid island time cable badge tilt pipe";
+var mnemonic = "vibrant typical wolf bonus spider argue hidden that boy invite angle aspect";

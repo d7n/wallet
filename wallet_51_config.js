@@ -1,1 +1,1 @@
-var mnemonic = "test uniform attract note only robust name country sense ridge mix match";
+var mnemonic = "biology buzz combine agree alarm velvet popular chunk ordinary scare rely welcome";

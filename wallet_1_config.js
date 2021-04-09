@@ -1,1 +1,1 @@
-var mnemonic = "taxi female finish canal aisle venture tongue security movie measure seek man";
+var mnemonic = "display evil one solar three oblige mixed receive mean expect tribe exist";

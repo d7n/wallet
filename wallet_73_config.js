@@ -1,1 +1,1 @@
-var mnemonic = "once gift alcohol scrub tube ordinary negative car plate industry voyage gift";
+var mnemonic = "inner define idle donate lonely inherit game glow initial avoid include resist";

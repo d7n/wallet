@@ -1,1 +1,1 @@
-var mnemonic = "sail subway parrot explain hurry nice leg voyage grid transfer utility monkey";
+var mnemonic = "raise cereal question cricket type someone share usual scare swallow upset account";

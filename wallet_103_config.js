@@ -1,1 +1,1 @@
-var mnemonic = "spoil breeze menu tornado small throw army wish pride render crew earn";
+var mnemonic = "ensure dad carbon double make feed save envelope near head hello salt";

@@ -1,1 +1,1 @@
-var mnemonic = "fit sand account enable inhale question speed inflict snow exhaust error twin";
+var mnemonic = "fossil envelope little sorry produce light harbor during exhaust battle achieve kitchen";

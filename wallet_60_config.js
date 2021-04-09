@@ -1,1 +1,1 @@
-var mnemonic = "fantasy dish bunker include fork leisure antenna myself mule pumpkin plastic kiss";
+var mnemonic = "scatter gossip change prize huge enrich describe asset have enroll ring hero";

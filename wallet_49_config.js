@@ -1,1 +1,1 @@
-var mnemonic = "polar awake arm rigid affair census evidence cinnamon bachelor patch nephew wagon";
+var mnemonic = "unique matrix trial knock response toss asset seven jacket leopard style unfold";

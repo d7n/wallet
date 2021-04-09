@@ -1,1 +1,1 @@
-var mnemonic = "give expire slow doll legend crucial shiver floor dolphin mercy kit dove";
+var mnemonic = "shy skill immense ahead disorder mesh gallery cook arm belt excess develop";

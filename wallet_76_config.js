@@ -1,1 +1,1 @@
-var mnemonic = "destroy next bitter chat arrange armed need milk cluster false box imitate";
+var mnemonic = "harvest slush amateur upgrade moon together field throw song crush capital loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "forward immense endorse trip jeans panda pretty problem juice mesh myself park";
+var mnemonic = "unfair panel cabbage skirt remember answer second rebuild spike margin clown exhaust";

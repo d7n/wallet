@@ -1,1 +1,1 @@
-var mnemonic = "faith dose dwarf silk riot target airport van guard fame tray focus";
+var mnemonic = "toilet advance super butter fix mad defy tattoo plug great oblige giraffe";

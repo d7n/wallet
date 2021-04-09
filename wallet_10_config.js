@@ -1,1 +1,1 @@
-var mnemonic = "pudding unique glad enough cross same upset toddler arena shield range hint";
+var mnemonic = "witness noble shock claim garage tent dune basket title basic fruit immune";

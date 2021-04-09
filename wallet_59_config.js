@@ -1,1 +1,1 @@
-var mnemonic = "target kitchen mammal fun flat wrong kid sun dream father afford equal";
+var mnemonic = "walnut response plastic ladder yellow pepper ritual pave chef involve agent tourist";

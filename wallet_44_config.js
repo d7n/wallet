@@ -1,1 +1,1 @@
-var mnemonic = "muscle spend public benefit turtle auto like liar advice fault piece away";
+var mnemonic = "people only food embody cost goose whip crisp stadium stock fruit over";

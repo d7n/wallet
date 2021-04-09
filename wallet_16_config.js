@@ -1,1 +1,1 @@
-var mnemonic = "you chunk magnet poem coin book lobster champion daughter average rare wish";
+var mnemonic = "furnace exhibit rose top loud nuclear hammer mistake enough size reason gap";

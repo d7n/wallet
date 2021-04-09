@@ -1,1 +1,1 @@
-var mnemonic = "grit paper chicken note still hole blade tattoo motion mistake syrup vicious";
+var mnemonic = "burger february decade smooth brown educate inflict sauce industry visual universe holiday";

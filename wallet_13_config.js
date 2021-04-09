@@ -1,1 +1,1 @@
-var mnemonic = "off cruise raw grocery stand sphere parrot nest hire double else caution";
+var mnemonic = "over tilt save load flat photo height express risk anxiety amount fine";

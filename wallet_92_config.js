@@ -1,1 +1,1 @@
-var mnemonic = "list task resource friend survey receive faculty dumb toe unusual sentence monster";
+var mnemonic = "draft frequent mountain dentist build palace fatal income give bonus fashion invite";

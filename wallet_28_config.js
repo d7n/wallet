@@ -1,1 +1,1 @@
-var mnemonic = "grass shoe future prize this fiber stool truck collect purpose snack trade";
+var mnemonic = "member remain column access toast gloom trade shadow push gossip often various";

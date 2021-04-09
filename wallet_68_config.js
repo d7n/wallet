@@ -1,1 +1,1 @@
-var mnemonic = "sketch elbow pupil damage pave sign arm average razor visit toy just";
+var mnemonic = "walnut broken slow vicious venture suspect butter lunar lawsuit company stadium shrimp";

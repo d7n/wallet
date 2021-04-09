@@ -1,1 +1,1 @@
-var mnemonic = "address damage cat salon cup neither enter icon bread camera path virus";
+var mnemonic = "soup rude scare assume lobster table spoil pretty virtual display behind dry";

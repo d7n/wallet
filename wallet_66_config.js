@@ -1,1 +1,1 @@
-var mnemonic = "assist mouse habit wisdom gap base six average moral bird west village";
+var mnemonic = "rough penalty margin rich couch embark poverty damp craft wild drink piano";

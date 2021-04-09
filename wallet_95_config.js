@@ -1,1 +1,1 @@
-var mnemonic = "into grace cancel minor evil float author else problem width west ghost";
+var mnemonic = "adapt fiber focus room drill refuse predict height segment shaft cry balcony";

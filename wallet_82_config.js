@@ -1,1 +1,1 @@
-var mnemonic = "pen asthma enact conduct horror marine piano stomach hire various fee reopen";
+var mnemonic = "snake own exercise current unlock cover spring aware chapter left menu general";

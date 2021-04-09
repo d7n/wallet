@@ -1,1 +1,1 @@
-var mnemonic = "tiger eager robust casino increase any envelope tomorrow series wreck maze success";
+var mnemonic = "broccoli shift trade hospital elbow misery segment live captain give kick list";

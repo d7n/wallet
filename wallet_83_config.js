@@ -1,1 +1,1 @@
-var mnemonic = "teach mango minimum rapid crew vital dice hybrid vital input seven rival";
+var mnemonic = "crisp ridge village display mountain sell dilemma canvas steak range poet say";

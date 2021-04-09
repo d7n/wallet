@@ -1,1 +1,1 @@
-var mnemonic = "diesel beauty income february speed there stick lyrics escape tone this answer";
+var mnemonic = "bid bracket impulse deposit strong fun october gun six wealth limb dismiss";

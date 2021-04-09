@@ -1,1 +1,1 @@
-var mnemonic = "vehicle blue creek region sausage neutral sail chase theory spin circle nut";
+var mnemonic = "man acid exist prepare caught strong mercy inflict orient panther sad nice";

@@ -1,1 +1,1 @@
-var mnemonic = "save ancient bar hub grain crawl cinnamon garlic huge lesson perfect grape";
+var mnemonic = "zone solid insect across detail copper mass hockey record noodle shove pigeon";

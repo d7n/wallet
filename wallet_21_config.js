@@ -1,1 +1,1 @@
-var mnemonic = "wheel minor rather expect bus cheap order spice pepper click flock quiz";
+var mnemonic = "saddle approve onion off horror drum paddle learn hazard often almost kid";

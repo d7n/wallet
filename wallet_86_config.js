@@ -1,1 +1,1 @@
-var mnemonic = "provide harsh right spell insane bulb vanish brand loud episode float rival";
+var mnemonic = "spot cook only melt liberty mystery wonder idea ethics neutral inherit satisfy";

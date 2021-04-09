@@ -1,1 +1,1 @@
-var mnemonic = "joke skate exact science business immune sun sustain comfort assist oblige olympic";
+var mnemonic = "broom museum west effort slide pottery moment street scale congress happy pupil";

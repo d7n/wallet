@@ -1,1 +1,1 @@
-var mnemonic = "laptop bleak soul cross build lyrics trim nut tomorrow monitor dad flash";
+var mnemonic = "snack wheel typical other fall infant they hedgehog round install rare peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "crush laugh amused muffin grape hover museum hollow must drop circle fiction";
+var mnemonic = "place detail brush hard asthma confirm again trigger summer prefer brisk awake";

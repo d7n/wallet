@@ -1,1 +1,1 @@
-var mnemonic = "master fiction cigar bacon portion raccoon seven disorder cluster people sad opinion";
+var mnemonic = "casual february wave draw loud veteran erase three large marriage exercise remember";

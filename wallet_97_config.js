@@ -1,1 +1,1 @@
-var mnemonic = "skull battle ceiling tackle wet announce where trial inside humble boy tunnel";
+var mnemonic = "elevator pen rule shrimp drum wood fresh manual excuse doll razor license";

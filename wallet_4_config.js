@@ -1,1 +1,1 @@
-var mnemonic = "tired sport insane prison capable glow snap fame crowd please cabbage bamboo";
+var mnemonic = "divert used thing kid expose use cactus oyster blanket insect bitter forest";

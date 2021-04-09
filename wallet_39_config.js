@@ -1,1 +1,1 @@
-var mnemonic = "obey frame away trip soap stomach abandon kitchen trick royal address defy";
+var mnemonic = "rule excite kiss bind start pipe scissors beauty panda crystal solid sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "hole buzz rebel citizen tuition planet exercise put unveil rail vintage best";
+var mnemonic = "claim dial elbow member make transfer shoot mango piece salon world comfort";

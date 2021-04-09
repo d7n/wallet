@@ -1,1 +1,1 @@
-var mnemonic = "bag border cycle seat quote faculty admit spin color dragon spare female";
+var mnemonic = "original farm mosquito rival exhibit noodle joke vast once galaxy version mixed";

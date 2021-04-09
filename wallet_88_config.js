@@ -1,1 +1,1 @@
-var mnemonic = "horror voyage close hill popular regular waste tent energy allow rally resource";
+var mnemonic = "shine enforce radio crystal alcohol mix cup divert document reveal wink slogan";

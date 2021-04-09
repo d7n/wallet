@@ -1,1 +1,1 @@
-var mnemonic = "wink comic choice inquiry level slice glad oxygen next debate usage pottery";
+var mnemonic = "mirror evoke setup situate shadow turkey beyond scare forest tape goose hat";

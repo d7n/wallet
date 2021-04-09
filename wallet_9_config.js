@@ -1,1 +1,1 @@
-var mnemonic = "chimney erase art grit clay syrup mind minimum voyage opinion catalog measure";
+var mnemonic = "mosquito survey student aisle call allow pipe they betray sock match lucky";

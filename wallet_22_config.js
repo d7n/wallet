@@ -1,1 +1,1 @@
-var mnemonic = "bamboo section warm vendor bike sweet father traffic fiction van group lizard";
+var mnemonic = "tobacco exhibit liberty educate ramp merry city random logic unit ghost uncle";

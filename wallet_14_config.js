@@ -1,1 +1,1 @@
-var mnemonic = "butter wheat reason wedding hold run melody blue menu reward wine soft";
+var mnemonic = "six gate spread hedgehog salt frozen prefer egg issue wrestle profit hammer";

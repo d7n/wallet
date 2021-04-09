@@ -1,1 +1,1 @@
-var mnemonic = "royal copy social bundle skate nest sea afraid drip bench orient project";
+var mnemonic = "isolate vintage exhibit crater stuff festival whip desert favorite curious screen unable";

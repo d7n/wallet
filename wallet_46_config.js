@@ -1,1 +1,1 @@
-var mnemonic = "very deny tobacco approve gorilla kidney knee symptom valve size hedgehog flower";
+var mnemonic = "already duck attend kiwi heart weird mother bounce stairs learn venture forget";

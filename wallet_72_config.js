@@ -1,1 +1,1 @@
-var mnemonic = "surface turn rifle another convince shrug trumpet correct must wave nothing desk";
+var mnemonic = "physical tribe skull fly silly erode seminar sister sand gather dry false";

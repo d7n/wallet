@@ -1,1 +1,1 @@
-var mnemonic = "great defense mesh example capable win equal barrel symbol labor burger token";
+var mnemonic = "busy eight increase atom warm affair immense squirrel close spend express legal";

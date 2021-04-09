@@ -1,1 +1,1 @@
-var mnemonic = "history have update modify angle language bottom cannon amount ritual tiny cycle";
+var mnemonic = "mean web gentle fade page lunar bounce truly usual roof festival muffin";

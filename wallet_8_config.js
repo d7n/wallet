@@ -1,1 +1,1 @@
-var mnemonic = "huge thumb brief yard benefit climb roof seed friend dumb wing vault";
+var mnemonic = "west hero arm virus pottery alone prosper soft decrease monitor wrestle congress";

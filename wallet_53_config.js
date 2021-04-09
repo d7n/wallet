@@ -1,1 +1,1 @@
-var mnemonic = "post vapor hen burst mail earth immense section model joy flower time";
+var mnemonic = "torch replace nation sustain turn aware yard satisfy bid wedding toast vessel";

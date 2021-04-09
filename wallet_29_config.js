@@ -1,1 +1,1 @@
-var mnemonic = "baby furnace inherit ill split hunt vendor earth media street later hand";
+var mnemonic = "under give maximum engage borrow among allow gallery connect column vacant cram";

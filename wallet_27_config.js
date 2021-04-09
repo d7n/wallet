@@ -1,1 +1,1 @@
-var mnemonic = "auto okay differ much electric public record slender exclude remain key mesh";
+var mnemonic = "upgrade attitude toy disease away diesel void effort feed boring quarter sleep";

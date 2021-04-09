@@ -1,1 +1,1 @@
-var mnemonic = "good shock praise alcohol attract hour cotton network torch notable want sell";
+var mnemonic = "grunt token depend bomb inform basic stove rare again welcome height coffee";

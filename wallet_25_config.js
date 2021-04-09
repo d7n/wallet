@@ -1,1 +1,1 @@
-var mnemonic = "pond clock solid liar between stem enemy ice shuffle spread bridge visa";
+var mnemonic = "detail account ugly toward such search lift surface flight age roast mammal";
