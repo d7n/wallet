@@ -1,1 +1,1 @@
-var mnemonic = "enforce hundred culture setup limb silent table world fence gorilla silly grass";
+var mnemonic = "goat solid final climb blame nut seat torch trash abstract shiver confirm";

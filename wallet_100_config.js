@@ -1,1 +1,1 @@
-var mnemonic = "deliver dentist zoo fall budget fall claw judge unit crop team reason";
+var mnemonic = "where luggage final either book chronic identify blade sting hunt cliff say";

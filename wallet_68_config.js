@@ -1,1 +1,1 @@
-var mnemonic = "catch deposit hip endless bullet glow hurdle traffic grunt crash front spell";
+var mnemonic = "genuine fetch mistake suit link hamster earth submit goose hub bright tube";

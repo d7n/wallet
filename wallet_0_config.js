@@ -1,1 +1,1 @@
-var mnemonic = "ability produce method title vital street expand ordinary brick love ignore coconut";
+var mnemonic = "blouse chicken lonely gloom since era prevent example actor useful daughter decline";

@@ -1,1 +1,1 @@
-var mnemonic = "regret sentence winner bicycle ring empty lady appear banner pink tomato proof";
+var mnemonic = "blue picnic fossil carpet help video crash town hold blush potato stamp";

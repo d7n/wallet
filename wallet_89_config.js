@@ -1,1 +1,1 @@
-var mnemonic = "air boat brown science quantum enemy luggage negative spawn pact knee hotel";
+var mnemonic = "asthma hope someone because dust finish blame much tray there margin lumber";

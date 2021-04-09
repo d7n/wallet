@@ -1,1 +1,1 @@
-var mnemonic = "outer ten license stool subject rough poet merit artist very merge regret";
+var mnemonic = "payment oppose arctic provide noble bus market trend unit scheme axis grain";

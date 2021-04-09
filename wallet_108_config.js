@@ -1,1 +1,1 @@
-var mnemonic = "more maze hammer sing version toast spin sign fossil bag rebuild slot";
+var mnemonic = "erosion south soft alarm winter first sad assist split quantum into have";

@@ -1,1 +1,1 @@
-var mnemonic = "mass pilot lucky business trumpet april bullet exhaust elevator truly expose around";
+var mnemonic = "million autumn grant image market then eternal multiply wine gauge lend ranch";

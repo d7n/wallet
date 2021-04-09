@@ -1,1 +1,1 @@
-var mnemonic = "spend swing common mistake same protect rail uncover hair opinion describe strong";
+var mnemonic = "parrot insane follow oxygen monkey festival soda december escape minor junior keen";

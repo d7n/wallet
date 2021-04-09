@@ -1,1 +1,1 @@
-var mnemonic = "harbor kid patch twenty stool peace hungry sweet sunset photo daring spice";
+var mnemonic = "wire timber test paper guard joke cherry enlist outdoor tattoo wall snow";

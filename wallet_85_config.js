@@ -1,1 +1,1 @@
-var mnemonic = "federal merge heavy abstract equal call final dream stable fiscal base garage";
+var mnemonic = "around push wrist cannon inherit reduce lucky crawl glance crack leisure offer";

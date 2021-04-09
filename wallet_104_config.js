@@ -1,1 +1,1 @@
-var mnemonic = "brisk cereal awkward demand stuff pig mansion sugar doll series lab leave";
+var mnemonic = "voice say shoot live crop cheap share clutch current start cigar assist";

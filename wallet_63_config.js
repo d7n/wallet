@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon sketch agree extend citizen toilet mechanic robot consider wave neither genre";
+var mnemonic = "practice inhale black brisk universe double room circle interest sense fossil stairs";

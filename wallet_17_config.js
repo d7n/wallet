@@ -1,1 +1,1 @@
-var mnemonic = "fragile edit pond tomato afford game option scissors seminar door lounge maid";
+var mnemonic = "digital save wine recipe dress turtle dash tackle belt tide december pink";

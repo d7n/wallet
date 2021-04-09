@@ -1,1 +1,1 @@
-var mnemonic = "bone ranch vehicle hip rule scrap lock laptop harbor scheme history badge";
+var mnemonic = "fold sign cycle eagle rotate speak butter middle about control mushroom change";

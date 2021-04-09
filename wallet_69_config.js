@@ -1,1 +1,1 @@
-var mnemonic = "submit essay flat afraid body undo loan recipe hip lyrics drum nerve";
+var mnemonic = "same web neutral cute blur skill garment strategy body sure hip slide";

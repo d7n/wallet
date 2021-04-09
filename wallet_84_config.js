@@ -1,1 +1,1 @@
-var mnemonic = "wide approve inspire wolf broken hurry runway ripple vivid horror bacon state";
+var mnemonic = "evil obvious obey meat chase north level hub problem pony injury analyst";

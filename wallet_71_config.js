@@ -1,1 +1,1 @@
-var mnemonic = "wood bus soft pet glide video island road devote harbor onion rate";
+var mnemonic = "orange seminar chief grab typical crater cave guitar friend relief oval benefit";

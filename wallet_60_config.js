@@ -1,1 +1,1 @@
-var mnemonic = "mouse habit actor venue flip effort thought soldier try chronic mass future";
+var mnemonic = "wall shine all minor wish surge intact report figure spread involve front";

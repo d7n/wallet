@@ -1,1 +1,1 @@
-var mnemonic = "over body ride nurse company calm sell pitch dolphin favorite round question";
+var mnemonic = "proud lion globe return stairs blue yellow item range prize primary bounce";

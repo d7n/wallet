@@ -1,1 +1,1 @@
-var mnemonic = "suggest park goddess afraid kitten staff jazz gentle soldier depend wild leisure";
+var mnemonic = "school three spike talent truly figure album omit antenna soldier usage grief";

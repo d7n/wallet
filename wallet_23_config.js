@@ -1,1 +1,1 @@
-var mnemonic = "stand analyst family dove first cereal analyst baby swap napkin surround animal";
+var mnemonic = "prevent stay clog aunt switch venture relief cupboard top volcano often rain";

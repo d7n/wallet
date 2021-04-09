@@ -1,1 +1,1 @@
-var mnemonic = "clap quote galaxy reflect cereal leopard keep often account cactus payment fossil";
+var mnemonic = "guilt lesson artwork laugh regular quarter brick pigeon dentist sort impose melody";

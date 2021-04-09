@@ -1,1 +1,1 @@
-var mnemonic = "connect lake blast glimpse account best demise teach slot license drill worth";
+var mnemonic = "silent host income domain charge anxiety balance hotel violin owner impose faint";

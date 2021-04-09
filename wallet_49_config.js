@@ -1,1 +1,1 @@
-var mnemonic = "plate engage shrug pet behind bid target escape apart undo bridge soda";
+var mnemonic = "beyond face patrol impulse airport network render close machine heart crush share";

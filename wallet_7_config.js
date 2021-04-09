@@ -1,1 +1,1 @@
-var mnemonic = "angle affair laundry accident garden output junior ritual dolphin social beyond spare";
+var mnemonic = "visit mixture erase small comfort melody finish margin isolate pear typical heart";

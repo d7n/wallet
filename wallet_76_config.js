@@ -1,1 +1,1 @@
-var mnemonic = "wheat repair idle stuff bar grain initial silver fault assault broken tape";
+var mnemonic = "fresh phrase object park thrive believe virus daughter muscle athlete thrive peanut";

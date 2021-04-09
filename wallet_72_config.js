@@ -1,1 +1,1 @@
-var mnemonic = "poet over response six cloud lift just ginger monitor unable fiction embark";
+var mnemonic = "whisper light violin frozen initial category boring law lens town friend real";

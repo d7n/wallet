@@ -1,1 +1,1 @@
-var mnemonic = "license hold cat follow unusual flavor six obvious version idle measure dawn";
+var mnemonic = "suggest machine invite during soccer tiny mammal column mobile fresh card surge";

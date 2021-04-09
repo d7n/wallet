@@ -1,1 +1,1 @@
-var mnemonic = "reform insect wine ketchup recall alley trap tuition chest satisfy trick tool";
+var mnemonic = "put west plunge sense oxygen afraid stamp wheat auction eyebrow february choice";

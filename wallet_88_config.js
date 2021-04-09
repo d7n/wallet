@@ -1,1 +1,1 @@
-var mnemonic = "deputy correct claim drama exotic drink cotton blind school dawn jeans van";
+var mnemonic = "remind focus easily kind oil cable steak van gauge curtain birth top";

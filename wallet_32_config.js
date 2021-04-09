@@ -1,1 +1,1 @@
-var mnemonic = "company brisk guitar guard luggage mixed dinner scene mad fan bean alcohol";
+var mnemonic = "wet exercise kid grant melt fuel labor ecology cushion shuffle puppy manual";

@@ -1,1 +1,1 @@
-var mnemonic = "rely burger grunt wolf antenna pioneer silly galaxy thought utility cable worth";
+var mnemonic = "fork negative hen obtain beef thing memory label alert select visa hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "scout sleep blur math noodle elite album trend travel wise net sniff";
+var mnemonic = "valve design debate aware uphold sight menu like next toward north charge";

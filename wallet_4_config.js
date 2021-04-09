@@ -1,1 +1,1 @@
-var mnemonic = "primary grain pause resist lecture fiction brass work album castle fit cool";
+var mnemonic = "captain figure kiss salute screen idea raccoon nest clean smoke occur depart";

@@ -1,1 +1,1 @@
-var mnemonic = "draft robot web link current upset decrease sign collect case castle nurse";
+var mnemonic = "rain depend laundry midnight boost balcony west clarify credit twenty update favorite";

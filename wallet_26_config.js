@@ -1,1 +1,1 @@
-var mnemonic = "skull bright sadness supply desk anchor alarm airport grocery essay basket fatigue";
+var mnemonic = "visual bubble faint involve shift help solid million vault motor answer tenant";

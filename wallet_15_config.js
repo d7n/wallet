@@ -1,1 +1,1 @@
-var mnemonic = "one squirrel open hurry goat camera gauge shiver tongue mushroom local example";
+var mnemonic = "lady scout flock citizen photo submit robot render long dutch document tiger";

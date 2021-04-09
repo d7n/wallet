@@ -1,1 +1,1 @@
-var mnemonic = "rule pave exotic avocado broom element december verb govern same daring release";
+var mnemonic = "swallow mixed strategy ignore regular round crazy usual cat guilt domain saddle";

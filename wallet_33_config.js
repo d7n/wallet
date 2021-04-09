@@ -1,1 +1,1 @@
-var mnemonic = "host glad float bottom eagle tide fish such network library nature next";
+var mnemonic = "section century shrug assume rely nominee dumb soccer front slogan then smooth";

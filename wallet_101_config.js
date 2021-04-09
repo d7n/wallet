@@ -1,1 +1,1 @@
-var mnemonic = "evidence orange enough spend decline vacuum ticket fiscal speak view flat castle";
+var mnemonic = "fish mail town knee enjoy vast affair scheme crisp donor expose silent";

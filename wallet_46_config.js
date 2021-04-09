@@ -1,1 +1,1 @@
-var mnemonic = "universe gaze system nature indicate recall beyond dinosaur this game ball renew";
+var mnemonic = "gospel business nephew nerve minor worth average monkey moral ordinary salt dizzy";

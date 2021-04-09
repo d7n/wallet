@@ -1,1 +1,1 @@
-var mnemonic = "route weather helmet flock kitchen coyote foil talk treat endless play verify";
+var mnemonic = "gasp account rural fortune bubble debris aware exit merry sleep bridge country";

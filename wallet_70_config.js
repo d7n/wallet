@@ -1,1 +1,1 @@
-var mnemonic = "hurt liberty sheriff orient fortune critic crisp offer addict october buyer solve";
+var mnemonic = "blur artwork vague giggle blame harbor battle gate toward pilot success crime";

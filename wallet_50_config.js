@@ -1,1 +1,1 @@
-var mnemonic = "never diagram error idea ancient chronic scrap cabin link indoor access vacant";
+var mnemonic = "rain rabbit useless child shoe banner stool neither drastic warfare trap dignity";

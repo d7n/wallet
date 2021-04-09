@@ -1,1 +1,1 @@
-var mnemonic = "liberty sausage desk chuckle expire hundred domain govern innocent pave latin chronic";
+var mnemonic = "drift cover novel change turtle mail sniff cave sausage concert hungry unique";

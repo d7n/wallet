@@ -1,1 +1,1 @@
-var mnemonic = "seven iron bachelor remove soul arrow deliver focus glory vital season exhaust";
+var mnemonic = "vanish chest flight poem across bright renew thing mango swap defy board";

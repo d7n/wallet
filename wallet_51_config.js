@@ -1,1 +1,1 @@
-var mnemonic = "obey army story hospital bubble sausage wet relief advice learn chase stock";
+var mnemonic = "neutral magnet zebra pulse sail outer bind voice hold found tobacco lazy";

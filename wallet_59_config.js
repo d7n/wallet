@@ -1,1 +1,1 @@
-var mnemonic = "twice endless mesh usage access grit group fatal better crew accuse situate";
+var mnemonic = "sick tackle panic swear dinner humor pave flat isolate layer trend target";

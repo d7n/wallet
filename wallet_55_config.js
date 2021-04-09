@@ -1,1 +1,1 @@
-var mnemonic = "regular chimney cricket cinnamon drastic since vast february exotic abuse infant quick";
+var mnemonic = "snap equip sense idea math mystery trigger famous uphold chapter clog devote";

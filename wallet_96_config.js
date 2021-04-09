@@ -1,1 +1,1 @@
-var mnemonic = "shuffle lumber coyote predict basic crime luxury enlist fish occur real angry";
+var mnemonic = "wife rally wish worth build meadow orbit kite visit forget physical ancient";

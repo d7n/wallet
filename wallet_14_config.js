@@ -1,1 +1,1 @@
-var mnemonic = "movie winter enforce party pond exotic boss orphan achieve exist december clay";
+var mnemonic = "proof eagle attack divorce shallow accident sunset veteran derive nice paddle vendor";

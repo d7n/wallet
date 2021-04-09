@@ -1,1 +1,1 @@
-var mnemonic = "rose avocado weather slender miss ozone amateur vast original deputy tail gospel";
+var mnemonic = "coast pool merry true example swamp denial media deliver oblige bronze mimic";

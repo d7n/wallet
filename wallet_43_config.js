@@ -1,1 +1,1 @@
-var mnemonic = "depart twist cloud chapter marriage possible zero cluster check end depart option";
+var mnemonic = "cage joke embody flock knock keep loan feed sand ask dynamic obey";

@@ -1,1 +1,1 @@
-var mnemonic = "flame link check outdoor cactus wrestle arrive life dawn hurt scatter sight";
+var mnemonic = "noodle cross mention egg glory cave ketchup right fury critic royal holiday";

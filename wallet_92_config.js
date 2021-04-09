@@ -1,1 +1,1 @@
-var mnemonic = "cereal snake aerobic alley clerk agree such abandon armor innocent try vacuum";
+var mnemonic = "twice audit notice race prefer enough lock gasp horror make breeze change";

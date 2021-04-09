@@ -1,1 +1,1 @@
-var mnemonic = "stairs sunset sign manage cake glimpse climb diamond predict select charge embrace";
+var mnemonic = "siege earth paper bitter carpet bus salute track accuse three dish ginger";

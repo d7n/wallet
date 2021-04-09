@@ -1,1 +1,1 @@
-var mnemonic = "ordinary suit midnight knock critic stadium question result august usual recall beauty";
+var mnemonic = "pencil voyage drama creek hard tag network follow travel sorry monster physical";

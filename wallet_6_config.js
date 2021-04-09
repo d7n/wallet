@@ -1,1 +1,1 @@
-var mnemonic = "ridge actress asthma guitar whip reduce tent vintage leaf shine equip predict";
+var mnemonic = "reduce shaft famous absurd remove six smoke goat cousin pattern flag country";

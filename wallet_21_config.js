@@ -1,1 +1,1 @@
-var mnemonic = "fix claw hungry deputy world term wet moral ability ride metal hurdle";
+var mnemonic = "cry nation such general kiss pioneer inform satoshi battle business media okay";

@@ -1,1 +1,1 @@
-var mnemonic = "devote blue turtle frame nominee mesh water situate file naive despair market";
+var mnemonic = "uphold write liberty leg super carpet certain yellow camp jewel slush tomorrow";

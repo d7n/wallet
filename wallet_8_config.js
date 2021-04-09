@@ -1,1 +1,1 @@
-var mnemonic = "purity catch dice electric stomach cricket smile expect output ball palm hello";
+var mnemonic = "thrive move useless armed parrot kitchen skate broccoli repair lava south lecture";

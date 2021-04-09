@@ -1,1 +1,1 @@
-var mnemonic = "sauce search soup uncle sibling smoke escape noise test blanket hood fox";
+var mnemonic = "forget false alley monitor crouch ripple behind april surge thrive since wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "violin weasel purchase turtle goddess increase call kitchen mango swear slender reject";
+var mnemonic = "general miss wealth betray detect file jazz shop vintage glad arrange climb";

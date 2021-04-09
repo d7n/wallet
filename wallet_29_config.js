@@ -1,1 +1,1 @@
-var mnemonic = "parade urge zoo scout toss carry decrease twist physical diary auto flee";
+var mnemonic = "region spatial manual naive best throw device pill execute suggest mutual grid";

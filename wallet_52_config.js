@@ -1,1 +1,1 @@
-var mnemonic = "odor poem insect space series couch lounge south scheme roof middle chief";
+var mnemonic = "lemon safe grid property acoustic volcano lobster finish jar resemble engine aim";

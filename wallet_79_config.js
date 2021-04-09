@@ -1,1 +1,1 @@
-var mnemonic = "picnic cushion turtle ghost toss leave beyond verb cruise keep salon draw";
+var mnemonic = "hard key shoot master spray hole cargo stock bubble load blossom cinnamon";

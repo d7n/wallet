@@ -1,1 +1,1 @@
-var mnemonic = "burden disorder attitude arena sugar violin click bus deny flavor poverty picture";
+var mnemonic = "whisper riot decline pistol color rescue wolf diary once sunset absurd destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi diagram cannon carry bind tomato swamp chapter depend program prize grant";
+var mnemonic = "marine gas blame metal cover siege kangaroo run load brick title ride";

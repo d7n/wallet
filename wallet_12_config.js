@@ -1,1 +1,1 @@
-var mnemonic = "alarm neck thank please banana decline fuel fortune layer sibling guitar comic";
+var mnemonic = "offer jacket busy two where offer version evidence define tornado safe breeze";

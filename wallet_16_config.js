@@ -1,1 +1,1 @@
-var mnemonic = "coast always split achieve claim attitude wear indicate essence effort tiger tomato";
+var mnemonic = "wrong congress goose nut tiger primary hunt camp child phone smart wreck";

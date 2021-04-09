@@ -1,1 +1,1 @@
-var mnemonic = "burden syrup material puppy angry under wall cool tree boat federal shoulder";
+var mnemonic = "head before smooth flee such okay satoshi wine elegant blood action purpose";

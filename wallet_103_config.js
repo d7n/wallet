@@ -1,1 +1,1 @@
-var mnemonic = "exile purse like digital gravity regular throw diary cotton book empty catch";
+var mnemonic = "beauty live embrace swarm train media better valley soap armed swim picture";

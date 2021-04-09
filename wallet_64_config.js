@@ -1,1 +1,1 @@
-var mnemonic = "crucial drive limb shed ethics century music scorpion tilt shock quarter liberty";
+var mnemonic = "sting castle flee embody lawsuit injury lunar pledge economy menu scheme cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "debate social gap route brush curve remain old truck radio cabbage exchange";
+var mnemonic = "fork state glove luggage identify palace middle tissue flame space siren icon";

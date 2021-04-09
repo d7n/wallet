@@ -1,1 +1,1 @@
-var mnemonic = "quality code online knee pitch tuna frown fury pride flavor welcome connect";
+var mnemonic = "middle anger skin stand island manual close nerve claw brass yellow annual";

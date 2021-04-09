@@ -1,1 +1,1 @@
-var mnemonic = "ripple market search pave whisper orient bone clerk clean vessel table green";
+var mnemonic = "ecology slot scorpion champion rabbit cover switch alien claim ocean suffer struggle";

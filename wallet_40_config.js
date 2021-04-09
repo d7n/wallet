@@ -1,1 +1,1 @@
-var mnemonic = "juice express gospel warrior jewel behind parent grace buddy ghost sing flock";
+var mnemonic = "monkey vapor museum polar tomato hidden wash image among mad narrow strike";

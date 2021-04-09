@@ -1,1 +1,1 @@
-var mnemonic = "reject forward hole cattle aspect unhappy exchange glue reduce urban candy crunch";
+var mnemonic = "skin ketchup salon across treat wave muscle reflect output donkey leopard myself";

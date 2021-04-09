@@ -1,1 +1,1 @@
-var mnemonic = "elder announce rifle predict six mimic corn traffic easily sleep unfair coin";
+var mnemonic = "frost network setup save actual unusual giant crop flush suffer ivory carpet";

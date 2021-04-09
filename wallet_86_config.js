@@ -1,1 +1,1 @@
-var mnemonic = "release escape winner infant token seed benefit mouse field illegal limb normal";
+var mnemonic = "hover finger smile chef provide they despair library globe payment relax route";

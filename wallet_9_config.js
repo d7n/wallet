@@ -1,1 +1,1 @@
-var mnemonic = "boil section large right clerk pony regular frozen large slender moon dose";
+var mnemonic = "sentence salt orphan record forum swift reward possible depth diet whisper entire";

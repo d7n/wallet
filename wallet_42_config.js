@@ -1,1 +1,1 @@
-var mnemonic = "swift also debris twist jazz random fork repair fetch certain denial involve";
+var mnemonic = "turkey ship remove spot soul pool sword wall reform slow dream connect";

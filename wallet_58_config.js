@@ -1,1 +1,1 @@
-var mnemonic = "dinner blush country frequent chief glide river wrap bench seek sport crucial";
+var mnemonic = "doll giggle wink fruit peasant electric demand consider cute remind carpet rain";
