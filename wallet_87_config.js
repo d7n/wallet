@@ -1,1 +1,1 @@
-var mnemonic = "dad symptom duty appear tobacco jacket mosquito sustain panel stock similar rebel";
+var mnemonic = "upon popular wagon rug major thought snow hazard better talk merry achieve";

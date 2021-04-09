@@ -1,1 +1,1 @@
-var mnemonic = "that twin feed depend cost wool million section soccer vivid valley kite";
+var mnemonic = "drift problem decorate message zone term coin laugh spring alpha case faith";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin olive myself time alien unit game collect oyster tree lesson toward";
+var mnemonic = "evoke mutual hurry vibrant warrior mobile blood seed level foam client divorce";

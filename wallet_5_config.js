@@ -1,1 +1,1 @@
-var mnemonic = "lion dignity void noise industry blind genuine divorce subway novel trap link";
+var mnemonic = "brother trophy fun between champion lion chaos involve predict truth fetch silent";

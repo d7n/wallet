@@ -1,1 +1,1 @@
-var mnemonic = "food push clog ritual lottery safe seven salon upgrade gospel balcony allow";
+var mnemonic = "edit flight lobster bid charge cupboard stuff program define oval need eight";

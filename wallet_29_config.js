@@ -1,1 +1,1 @@
-var mnemonic = "economy summer popular intact birth lumber fortune cancel atom vicious glow illegal";
+var mnemonic = "junior mansion fix assault stuff swing notable expire music host shoe talk";

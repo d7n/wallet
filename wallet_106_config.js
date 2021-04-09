@@ -1,1 +1,1 @@
-var mnemonic = "follow wrist unit coconut thumb sea legal yard junk farm conduct art";
+var mnemonic = "conduct electric any initial exhaust enable must oppose era income trial bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten oblige aunt trade rally gospel voyage awesome silent obvious basket payment";
+var mnemonic = "tackle riot base paddle demand over trouble scrap urban uniform record rely";

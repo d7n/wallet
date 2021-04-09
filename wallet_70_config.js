@@ -1,1 +1,1 @@
-var mnemonic = "add chapter rely violin between tattoo there canal arm please bundle canal";
+var mnemonic = "absorb fortune raw era hold soup any demand tent decrease anchor multiply";

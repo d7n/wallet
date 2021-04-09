@@ -1,1 +1,1 @@
-var mnemonic = "wise hole rude exclude talk repair maple donkey fatigue circle fly behind";
+var mnemonic = "fortune size slim size will alter bullet track ecology file ball army";

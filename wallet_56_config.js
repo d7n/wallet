@@ -1,1 +1,1 @@
-var mnemonic = "remain blouse beyond announce lava junior nurse garden deposit plunge install tip";
+var mnemonic = "annual chest arch ill entry slice crop key deposit catalog extra target";

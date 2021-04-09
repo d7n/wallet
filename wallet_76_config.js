@@ -1,1 +1,1 @@
-var mnemonic = "salad total opinion gentle knife broom broccoli will squeeze bright solve shine";
+var mnemonic = "art result catch require field cool stone novel make spring brand crater";

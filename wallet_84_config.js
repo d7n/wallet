@@ -1,1 +1,1 @@
-var mnemonic = "stairs limb index social wasp fox split expand supply silver cargo behave";
+var mnemonic = "clump ring tone half fence choice pony cluster morning popular clutch globe";

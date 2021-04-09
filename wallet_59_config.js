@@ -1,1 +1,1 @@
-var mnemonic = "tortoise spin auction zero bunker avoid dust family sun either palm cheap";
+var mnemonic = "lyrics faith motor wedding black sketch mandate gap again work talk word";

@@ -1,1 +1,1 @@
-var mnemonic = "boring chase wall census prepare kiss armor degree dial obscure matter teach";
+var mnemonic = "blast catalog click thunder circle tree fix coffee scrap dizzy circle dress";

@@ -1,1 +1,1 @@
-var mnemonic = "cup album weather outdoor genuine memory sunny flock dumb smooth amateur inherit";
+var mnemonic = "entry maze potato wise bless rather inside harbor stage hard situate video";

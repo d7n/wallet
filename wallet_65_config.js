@@ -1,1 +1,1 @@
-var mnemonic = "liberty measure derive frost junior kingdom response young motion call parrot recipe";
+var mnemonic = "flower vocal pull arrow soft comfort antenna park punch slight major one";

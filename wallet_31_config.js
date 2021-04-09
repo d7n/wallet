@@ -1,1 +1,1 @@
-var mnemonic = "crumble crane assist hunt rescue identify business blast coffee junior answer air";
+var mnemonic = "scheme mistake summer stadium have exhibit patient snap doctor step logic observe";

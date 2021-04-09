@@ -1,1 +1,1 @@
-var mnemonic = "often student minute ready devote candy output lemon orchard prison vessel height";
+var mnemonic = "dirt cloth mix border gravity divide fragile minimum couple arrow near lecture";

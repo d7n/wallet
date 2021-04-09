@@ -1,1 +1,1 @@
-var mnemonic = "snap index dynamic obscure scheme proud obtain federal kangaroo essay vague prosper";
+var mnemonic = "royal alien unfold danger onion cute engine lottery leisure stand depend extend";

@@ -1,1 +1,1 @@
-var mnemonic = "aim spell leave evoke spoil tank voyage report winner drip then kit";
+var mnemonic = "replace opera right aim solution garment broccoli exact sail deal poem expand";

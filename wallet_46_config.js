@@ -1,1 +1,1 @@
-var mnemonic = "reflect trash exist law boil pattern goat aim need link rocket load";
+var mnemonic = "paddle control they orient nuclear glide daring over vocal credit quarter disagree";

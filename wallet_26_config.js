@@ -1,1 +1,1 @@
-var mnemonic = "primary sell enemy catch bench session cradle simple belt include stairs clean";
+var mnemonic = "aisle inch slice movie cook jelly helmet grab crumble clutch donkey tonight";

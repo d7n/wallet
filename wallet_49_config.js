@@ -1,1 +1,1 @@
-var mnemonic = "inmate coast equal chase tortoise negative animal stove text credit forget drama";
+var mnemonic = "cherry shrug patient smile bottom miracle mosquito page clog panic entire federal";

@@ -1,1 +1,1 @@
-var mnemonic = "detail tilt stereo always trash seed swear much winter cycle tape oak";
+var mnemonic = "cry shaft effort upon airport fruit acquire settle obtain giggle attract more";

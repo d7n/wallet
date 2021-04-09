@@ -1,1 +1,1 @@
-var mnemonic = "pupil belt wheel amateur tape unique wagon hybrid repair angle current tail";
+var mnemonic = "shoot wedding window rough alpha prison alarm master behind situate reveal pet";

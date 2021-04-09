@@ -1,1 +1,1 @@
-var mnemonic = "pottery cash cloth elbow prefer music mad force step snake engine recall";
+var mnemonic = "sketch sign survey token discover route gasp settle business aisle gadget reduce";

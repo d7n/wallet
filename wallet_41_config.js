@@ -1,1 +1,1 @@
-var mnemonic = "donkey supply pair poem enhance property produce law matrix demand base green";
+var mnemonic = "toe alone offer simple cycle social spin south busy burst aunt toddler";

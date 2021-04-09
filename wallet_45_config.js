@@ -1,1 +1,1 @@
-var mnemonic = "piano wedding empty six obtain design treat piece spend tower voyage rack";
+var mnemonic = "gasp range dream seat head sheriff luggage risk tissue loud face run";

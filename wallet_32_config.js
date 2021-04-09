@@ -1,1 +1,1 @@
-var mnemonic = "crouch few budget broom turn elephant insane allow denial monster luggage black";
+var mnemonic = "clutch narrow monitor noodle throw hotel town travel inside traffic earth suggest";

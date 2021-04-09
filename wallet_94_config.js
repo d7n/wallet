@@ -1,1 +1,1 @@
-var mnemonic = "track dinner eight vehicle film key raccoon group cannon column advance fabric";
+var mnemonic = "select firm box bundle isolate flag jar field hope echo confirm annual";

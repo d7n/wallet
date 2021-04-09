@@ -1,1 +1,1 @@
-var mnemonic = "boil unit actual song stairs vessel vague salmon vapor copper yellow air";
+var mnemonic = "file buddy divorce movie strike among identify castle soccer album nasty orchard";

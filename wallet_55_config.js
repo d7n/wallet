@@ -1,1 +1,1 @@
-var mnemonic = "sort ketchup throw cactus around unknown private forest verify team labor club";
+var mnemonic = "melody this hungry logic pole almost object rug like chimney double raccoon";

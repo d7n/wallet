@@ -1,1 +1,1 @@
-var mnemonic = "humble sign blast sugar ugly fire mammal park helmet enjoy nurse figure";
+var mnemonic = "sphere inspire turtle dove captain rely strong harbor sell year broken chest";

@@ -1,1 +1,1 @@
-var mnemonic = "equip clutch token sketch west palm auction squeeze develop grief duty where";
+var mnemonic = "diesel hard wheat excuse nation banner device flush duty surface hair shine";

@@ -1,1 +1,1 @@
-var mnemonic = "seat cloud push wild exist post common talk robust forum home misery";
+var mnemonic = "observe flush toe love wine hamster winner soup basic attitude easy recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "club piano put tip book sample morning slight romance magic mom hint";
+var mnemonic = "skill original ability burger skin lounge fiber during emerge also fiction random";

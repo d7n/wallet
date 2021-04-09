@@ -1,1 +1,1 @@
-var mnemonic = "shop online wave agree dash bounce option blur future resemble gas april";
+var mnemonic = "mobile tomorrow zero client taste buyer toe blind lend announce dial decline";

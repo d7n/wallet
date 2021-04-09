@@ -1,1 +1,1 @@
-var mnemonic = "gown purchase pioneer public replace middle siren fit menu front neck merge";
+var mnemonic = "tortoise enrich must sorry alcohol emerge waste economy such glad mechanic duck";

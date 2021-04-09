@@ -1,1 +1,1 @@
-var mnemonic = "mandate move promote room garment horn budget feature coral ecology spice scare";
+var mnemonic = "throw elegant intact tell length have present bottom change metal timber stove";

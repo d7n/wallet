@@ -1,1 +1,1 @@
-var mnemonic = "helmet battle crazy more state click twenty soldier luggage can pass speed";
+var mnemonic = "skirt daughter liquid obey juice tip profit planet tiger soon carpet upset";

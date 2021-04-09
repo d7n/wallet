@@ -1,1 +1,1 @@
-var mnemonic = "kit chair wasp govern document grab sea notice shock wheel chat rigid";
+var mnemonic = "helmet sudden afraid error leaf lamp clarify cry announce jelly mango park";

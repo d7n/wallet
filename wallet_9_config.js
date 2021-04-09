@@ -1,1 +1,1 @@
-var mnemonic = "distance width convince paddle bamboo earth replace example sugar laugh notable smile";
+var mnemonic = "hour nature express swear dentist fame dawn pond bronze hour interest tank";

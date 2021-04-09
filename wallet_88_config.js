@@ -1,1 +1,1 @@
-var mnemonic = "hire gold hundred eagle athlete pride planet nature ethics ethics endless menu";
+var mnemonic = "poet tower renew place jump reason curious ignore note suit cannon text";

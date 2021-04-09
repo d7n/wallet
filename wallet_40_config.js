@@ -1,1 +1,1 @@
-var mnemonic = "attack sun tragic rely solar asset merit wash endless file diet addict";
+var mnemonic = "proud creek genuine collect math chef auto lonely review buddy cheap crew";

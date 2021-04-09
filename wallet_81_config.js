@@ -1,1 +1,1 @@
-var mnemonic = "glass rule defense minor budget brass beyond special forward target weasel flight";
+var mnemonic = "siren smile forest immense disagree shop digital sand hockey valley ivory decide";

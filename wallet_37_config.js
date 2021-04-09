@@ -1,1 +1,1 @@
-var mnemonic = "dry have sunset phrase segment session energy island alcohol pass author label";
+var mnemonic = "salute pave entry treat permit behind then priority rude legal dilemma super";

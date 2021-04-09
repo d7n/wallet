@@ -1,1 +1,1 @@
-var mnemonic = "solid exercise buzz credit attract mask resource wage damage angry typical prison";
+var mnemonic = "device recycle cook notice record van pitch ski adapt image sugar best";

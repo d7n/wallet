@@ -1,1 +1,1 @@
-var mnemonic = "raw release answer wagon busy version lemon truck umbrella erosion again grape";
+var mnemonic = "name clarify alpha reject symbol error moment discover candy tomorrow index park";

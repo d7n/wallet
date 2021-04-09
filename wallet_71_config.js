@@ -1,1 +1,1 @@
-var mnemonic = "cliff rack casual tackle parade waste moment ginger ceiling ice nose movie";
+var mnemonic = "planet abstract cash castle orchard true ladder price paddle calm style prepare";

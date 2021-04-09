@@ -1,1 +1,1 @@
-var mnemonic = "desert couch drip spider catch dream promote write invite action cook quiz";
+var mnemonic = "borrow coral auto dolphin glance pudding tape grant artist minute near arrow";

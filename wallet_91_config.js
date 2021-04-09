@@ -1,1 +1,1 @@
-var mnemonic = "common face decide permit tag mistake begin similar tray tool used donate";
+var mnemonic = "exercise day icon pause monitor firm escape equip property follow rug trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "hole list width bicycle travel great repair park voice picnic poem spring";
+var mnemonic = "soccer busy border exchange mirror inspire soft giant umbrella rookie curious rice";

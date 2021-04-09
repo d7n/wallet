@@ -1,1 +1,1 @@
-var mnemonic = "mind guide deer frost deer rose trial seek hundred excite together example";
+var mnemonic = "angry balance quantum give news bright process invest animal frown will champion";

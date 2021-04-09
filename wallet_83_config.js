@@ -1,1 +1,1 @@
-var mnemonic = "gentle parrot dirt surprise mass jazz adult garden casual connect guide diet";
+var mnemonic = "crunch lemon try want sorry surprise magnet position best vault transfer merge";

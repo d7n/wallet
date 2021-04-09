@@ -1,1 +1,1 @@
-var mnemonic = "depend diagram torch mechanic purity mechanic mystery oven board potato decline round";
+var mnemonic = "dance boy better jar worth toilet jump bracket alert suspect lottery family";

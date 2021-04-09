@@ -1,1 +1,1 @@
-var mnemonic = "describe sponsor material paper shove flame pole answer record bulk note lobster";
+var mnemonic = "stomach retire thank differ lemon oblige vast version year one either earth";

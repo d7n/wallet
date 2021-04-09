@@ -1,1 +1,1 @@
-var mnemonic = "marble panda chronic busy light imitate dentist raccoon blind ketchup verb absent";
+var mnemonic = "fox morning robot during return empty era have usual cloth voice sand";

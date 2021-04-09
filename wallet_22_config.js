@@ -1,1 +1,1 @@
-var mnemonic = "cheese train cute dolphin leaf episode blossom rough tilt busy art area";
+var mnemonic = "piece size chest hunt idle gorilla wreck text auction profit orient push";

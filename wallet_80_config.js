@@ -1,1 +1,1 @@
-var mnemonic = "matter close goddess ladder exile electric envelope grant rural impose forward fragile";
+var mnemonic = "improve breeze sustain sample mule gasp describe doctor deal invite account town";

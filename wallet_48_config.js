@@ -1,1 +1,1 @@
-var mnemonic = "hungry inhale audit wreck away hole love unique glad wide jealous faint";
+var mnemonic = "crunch innocent gallery napkin reform soda mushroom slogan wolf cabin cotton vicious";

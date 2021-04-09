@@ -1,1 +1,1 @@
-var mnemonic = "mixture carry party mango barely viable drive work cabbage juice vivid envelope";
+var mnemonic = "relief share noble bright kite soccer carpet divorce nice blossom chest talk";

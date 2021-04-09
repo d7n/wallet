@@ -1,1 +1,1 @@
-var mnemonic = "lecture latin output ridge visit ancient village area razor ozone resource alley";
+var mnemonic = "topic still snow clay celery arrange slam wool tobacco another glance unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor secret cup remember long permit small february release cause sniff youth";
+var mnemonic = "canvas when horror cattle cart elegant choose pottery wrap glance repair public";

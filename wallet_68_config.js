@@ -1,1 +1,1 @@
-var mnemonic = "heart blanket journey practice business inflict gorilla news fun work kit coyote";
+var mnemonic = "under indoor wash garden gesture topic milk flower time language liar dash";

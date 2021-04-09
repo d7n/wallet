@@ -1,1 +1,1 @@
-var mnemonic = "cancel chest prefer case proud eagle nerve february risk disorder movie funny";
+var mnemonic = "reveal eternal kitchen tube best birth client above rude night note above";

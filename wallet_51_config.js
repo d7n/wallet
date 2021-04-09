@@ -1,1 +1,1 @@
-var mnemonic = "learn example supreme nut flight like track zebra noodle know bright mimic";
+var mnemonic = "wise tobacco thrive guitar arm pelican say envelope laundry lazy fog labor";

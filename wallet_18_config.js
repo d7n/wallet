@@ -1,1 +1,1 @@
-var mnemonic = "total solution limb quarter pride race luxury trigger olympic police almost mango";
+var mnemonic = "lazy erosion garment essence mansion nasty pumpkin element limb castle frozen vessel";

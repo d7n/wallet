@@ -1,1 +1,1 @@
-var mnemonic = "employ spoon tail tongue portion young mountain twin where roast step resemble";
+var mnemonic = "grape inform rate science door ship weasel pond retire ten economy hollow";

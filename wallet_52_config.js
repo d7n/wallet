@@ -1,1 +1,1 @@
-var mnemonic = "atom trade gadget reason visa omit spatial vendor idea uniform brass clinic";
+var mnemonic = "hen chunk wreck piece guess glow bless stock surge rack charge stomach";

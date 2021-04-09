@@ -1,1 +1,1 @@
-var mnemonic = "sausage keep cover super leaf aisle gas noise elephant labor festival debris";
+var mnemonic = "bridge core brave horror wrist crack better crisp general tomato oil avocado";

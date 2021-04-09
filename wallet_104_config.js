@@ -1,1 +1,1 @@
-var mnemonic = "nest flock system jump early title rough earn soda prepare other slot";
+var mnemonic = "mountain derive network flip clown useless omit runway excuse athlete route naive";

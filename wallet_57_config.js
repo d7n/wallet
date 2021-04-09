@@ -1,1 +1,1 @@
-var mnemonic = "sniff snack sand sausage practice roast slush honey day pear inject dutch";
+var mnemonic = "bounce usual tail matrix horn mule dinosaur exile ketchup balance choose exhibit";

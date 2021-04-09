@@ -1,1 +1,1 @@
-var mnemonic = "seven firm imitate code quarter gate asthma topple learn orchard order job";
+var mnemonic = "film relax castle chalk among include message rice boost excess helmet absurd";

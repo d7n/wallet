@@ -1,1 +1,1 @@
-var mnemonic = "taxi divorce catalog come verb skirt found code beef between head orphan";
+var mnemonic = "rapid derive taxi lift unit main now client agent pumpkin clarify topic";

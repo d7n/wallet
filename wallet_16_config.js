@@ -1,1 +1,1 @@
-var mnemonic = "toilet kidney leave grief express boat acquire gap brief absent reject syrup";
+var mnemonic = "merry purse explain scare forget come shy tank waste hurry quantum tornado";

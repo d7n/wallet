@@ -1,1 +1,1 @@
-var mnemonic = "retire trap canal segment seek finger okay hood ceiling illness gain side";
+var mnemonic = "hard unfair clutch cruise notice census skate silk witness resource crazy grow";

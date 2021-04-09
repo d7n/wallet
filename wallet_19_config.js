@@ -1,1 +1,1 @@
-var mnemonic = "marriage valve mistake across silent orient visual record twin renew more trade";
+var mnemonic = "time flat fetch crisp antenna cloud resource belt figure reduce soccer spoil";

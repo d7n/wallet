@@ -1,1 +1,1 @@
-var mnemonic = "miss steel video inhale autumn crew rigid potato follow river solve genuine";
+var mnemonic = "rookie bottom atom clap mushroom balcony remove grant cup glue mixture tragic";

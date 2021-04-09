@@ -1,1 +1,1 @@
-var mnemonic = "orange limit cradle prevent bargain zero submit garage cover current venture only";
+var mnemonic = "garment warrior differ output verify dentist where life flush pear sad family";

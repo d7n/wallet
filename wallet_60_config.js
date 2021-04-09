@@ -1,1 +1,1 @@
-var mnemonic = "gaze exclude uniform addict daughter breeze ring hill husband bag true exit";
+var mnemonic = "leg kidney mind divide omit diary diary jump tennis narrow reveal pig";

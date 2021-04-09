@@ -1,1 +1,1 @@
-var mnemonic = "blind degree genuine lawn shadow moment one below fix define token nose";
+var mnemonic = "cannon snow desk trumpet aunt crop hurdle zero permit mean tumble lonely";

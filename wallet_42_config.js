@@ -1,1 +1,1 @@
-var mnemonic = "local creek upper patch favorite lunch melody unit orient already mushroom country";
+var mnemonic = "fence shiver artist negative diamond manual reject payment retire silver peanut heavy";

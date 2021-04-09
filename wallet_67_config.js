@@ -1,1 +1,1 @@
-var mnemonic = "visa balcony crack noble jungle false donate tuition always theme edit response";
+var mnemonic = "noble rifle mesh hint setup sad coin bread addict gown bright diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "increase rhythm degree build stone clean address liberty connect winter lady attitude";
+var mnemonic = "trade public coconut save choose unit public execute mansion message just puppy";

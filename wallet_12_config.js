@@ -1,1 +1,1 @@
-var mnemonic = "rich stay real envelope surround pistol crawl ancient razor real speed slam";
+var mnemonic = "cheese arrive salmon thing prison genius friend absent sport animal stable wrap";
