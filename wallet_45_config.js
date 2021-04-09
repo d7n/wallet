@@ -1,1 +1,1 @@
-var mnemonic = "spend axis monitor fetch review huge fuel upon embark light critic refuse";
+var mnemonic = "stamp leg exit forget hobby pact ranch orphan rhythm health vivid legend";

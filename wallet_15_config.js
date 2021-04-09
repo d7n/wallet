@@ -1,1 +1,1 @@
-var mnemonic = "stove cat curious loop high wise gadget absurd include student demand impose";
+var mnemonic = "panic adapt file first zero zoo destroy car actual live task east";

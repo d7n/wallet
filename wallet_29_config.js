@@ -1,1 +1,1 @@
-var mnemonic = "hurt alter double elegant now diet surface guard space water borrow seek";
+var mnemonic = "say increase perfect equip metal insect bulk obtain spring can beef canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "love badge view economy mix family water aunt jealous element prize repeat";
+var mnemonic = "thumb shoe lift envelope other scene essence announce captain swift swear enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "festival end struggle proof expect fly knife travel shaft sauce assault rubber";
+var mnemonic = "find diagram domain away fluid poem example fiscal heart honey fox accident";

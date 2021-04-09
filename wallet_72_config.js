@@ -1,1 +1,1 @@
-var mnemonic = "recycle regret truly struggle shadow twice owner digital kid just program pepper";
+var mnemonic = "suspect retire length setup onion canyon upset permit cube wedding member square";

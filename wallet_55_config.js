@@ -1,1 +1,1 @@
-var mnemonic = "arrest menu utility leopard culture vicious puppy senior rigid day duck human";
+var mnemonic = "resource topple insect promote embrace invite lock soft teach bike hospital resist";

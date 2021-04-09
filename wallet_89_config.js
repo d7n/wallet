@@ -1,1 +1,1 @@
-var mnemonic = "urge vacuum cactus bicycle wonder juice left blouse toward floor pull coin";
+var mnemonic = "buddy carry work sense color ramp deposit imitate topple surge spray canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel only frog obvious divorce banana trigger guilt write notable mad enforce";
+var mnemonic = "wing will cry morning jump minimum rocket hunt consider demand battle ladder";

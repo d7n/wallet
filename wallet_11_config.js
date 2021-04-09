@@ -1,1 +1,1 @@
-var mnemonic = "farm mail error outdoor sunny endorse oval strategy supreme surprise spider all";
+var mnemonic = "trap egg small language demise tilt narrow put oak interest road picture";

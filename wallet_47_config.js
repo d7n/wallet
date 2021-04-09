@@ -1,1 +1,1 @@
-var mnemonic = "dose wife neglect once rookie pony stable million soul horror upgrade crash";
+var mnemonic = "vote father beyond budget else fan exhaust subway arrow leaf weapon habit";

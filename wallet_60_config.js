@@ -1,1 +1,1 @@
-var mnemonic = "false doll stamp image lunar cheap urge loop jazz crawl aspect mother";
+var mnemonic = "wall useless pitch supreme boat piano permit electric account speak kitchen thumb";

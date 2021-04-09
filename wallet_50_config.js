@@ -1,1 +1,1 @@
-var mnemonic = "rude rude gentle treat replace book chalk beyond hill electric foam tree";
+var mnemonic = "idle forum other mom census gas century face steel uphold cruel drum";

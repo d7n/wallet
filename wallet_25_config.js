@@ -1,1 +1,1 @@
-var mnemonic = "couch anxiety imitate rifle sure fold same suggest isolate video drill sock";
+var mnemonic = "faculty want document remain business pave height busy debate valve believe left";

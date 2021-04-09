@@ -1,1 +1,1 @@
-var mnemonic = "royal chuckle diamond useless salmon keen chronic choice enter naive cube joke";
+var mnemonic = "bar usual cluster sponsor cluster calm neither unlock caution mystery daring rotate";

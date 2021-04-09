@@ -1,1 +1,1 @@
-var mnemonic = "garlic razor gaze wagon embody coast blood arena stamp away mass fit";
+var mnemonic = "scout upset elbow arm strong there caution steel panel genre bike hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "festival hobby fortune animal solve final naive agree grid uniform panic jump";
+var mnemonic = "around tonight gorilla razor present fix orient slide asthma primary scorpion you";

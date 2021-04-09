@@ -1,1 +1,1 @@
-var mnemonic = "potato great soccer allow squirrel neck around express citizen sing basic meat";
+var mnemonic = "follow vivid ride day puzzle echo nature world chimney crumble little review";

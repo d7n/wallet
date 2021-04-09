@@ -1,1 +1,1 @@
-var mnemonic = "camera visual maple lamp reason bid leaf dose double visit pass strong";
+var mnemonic = "today farm loop endless accident spend destroy curious yellow sunset payment sort";

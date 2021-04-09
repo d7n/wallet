@@ -1,1 +1,1 @@
-var mnemonic = "recycle trim beyond pig toss milk club mixture upset finish quantum wisdom";
+var mnemonic = "basket quantum seek since enter way six belt parrot pact slogan atom";

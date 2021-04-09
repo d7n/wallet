@@ -1,1 +1,1 @@
-var mnemonic = "salt goose catalog hundred profit swing ankle pigeon humble traffic drill poet";
+var mnemonic = "share escape shock advice pull raise agree clay interest material sauce biology";

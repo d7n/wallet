@@ -1,1 +1,1 @@
-var mnemonic = "width impact door glide desk yellow castle inmate cruel very machine team";
+var mnemonic = "exchange narrow multiply holiday pave scissors dial ordinary gym balance useless opinion";

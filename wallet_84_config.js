@@ -1,1 +1,1 @@
-var mnemonic = "wife lucky rookie choose cute oven column tackle sand polar hover mind";
+var mnemonic = "resist spread trophy drink brand meadow miracle coin lesson talent fragile bone";

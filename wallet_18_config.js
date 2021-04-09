@@ -1,1 +1,1 @@
-var mnemonic = "dial action cheese mountain start reason harbor negative oxygen furnace box april";
+var mnemonic = "kangaroo label tree simple level turkey develop forward frost admit buyer ten";

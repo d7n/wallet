@@ -1,1 +1,1 @@
-var mnemonic = "bone erupt lava snake caution salad public antique lunar team cloth bring";
+var mnemonic = "frame obtain blast recycle dish aunt escape deliver daughter celery alert spare";

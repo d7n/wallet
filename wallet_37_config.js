@@ -1,1 +1,1 @@
-var mnemonic = "mobile spell hub scheme crowd logic near grain swamp heart scout ghost";
+var mnemonic = "column patch now witness pistol carbon tackle either into almost chuckle mandate";

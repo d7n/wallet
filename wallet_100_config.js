@@ -1,1 +1,1 @@
-var mnemonic = "lyrics arm item reopen abstract demand security rubber nest deputy vacant giggle";
+var mnemonic = "hamster scan cricket capital motor echo silk sort position tube route police";

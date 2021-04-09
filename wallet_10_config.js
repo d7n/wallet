@@ -1,1 +1,1 @@
-var mnemonic = "spoon task off rally hammer seat year badge return ketchup hard gadget";
+var mnemonic = "tourist owner alley bridge attack parrot web garden exist journey color mule";

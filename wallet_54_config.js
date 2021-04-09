@@ -1,1 +1,1 @@
-var mnemonic = "project laundry economy chase lecture avoid cry october neutral achieve away moon";
+var mnemonic = "decorate mask absent raw foot joy hole derive evidence exact more ready";

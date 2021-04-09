@@ -1,1 +1,1 @@
-var mnemonic = "liquid table ship father degree dad rally destroy cotton vessel soccer whip";
+var mnemonic = "soup middle derive reflect mad onion rack alcohol stairs sting still robot";

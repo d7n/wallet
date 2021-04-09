@@ -1,1 +1,1 @@
-var mnemonic = "setup nominee antenna census hurt kitten convince panel zero small crew very";
+var mnemonic = "stem pink group leisure achieve among kit miracle pet such grace champion";

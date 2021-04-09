@@ -1,1 +1,1 @@
-var mnemonic = "smile space spin cat weapon dizzy volume vocal spray better gloom save";
+var mnemonic = "female raw size ready reject pilot negative opinion brand wash shield idle";

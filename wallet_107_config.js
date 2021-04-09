@@ -1,1 +1,1 @@
-var mnemonic = "hour way employ board rotate assault annual sure imitate effort size walnut";
+var mnemonic = "shoot exhibit similar ostrich travel will kingdom reflect bubble recall valley kangaroo";

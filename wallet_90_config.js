@@ -1,1 +1,1 @@
-var mnemonic = "submit base slim notice engage smoke autumn soap original source away tilt";
+var mnemonic = "cinnamon zebra during into fetch exact choice rhythm replace pluck key safe";

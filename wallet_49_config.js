@@ -1,1 +1,1 @@
-var mnemonic = "bubble october teach shiver arm boost head border knock field deliver unknown";
+var mnemonic = "online call fantasy idea number host galaxy river festival depend toy code";

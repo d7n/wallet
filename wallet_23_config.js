@@ -1,1 +1,1 @@
-var mnemonic = "typical rigid spread sand scan right soon oven measure olympic beauty odor";
+var mnemonic = "tonight jewel ensure shoulder wage now blame weekend sunny useless olympic kiwi";

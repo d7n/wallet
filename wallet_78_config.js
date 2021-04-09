@@ -1,1 +1,1 @@
-var mnemonic = "final truth squirrel ecology balance universe flag rug when news banner sell";
+var mnemonic = "result lava ghost shed wolf core pair empower pony merit maid sponsor";

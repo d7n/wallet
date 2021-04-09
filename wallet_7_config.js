@@ -1,1 +1,1 @@
-var mnemonic = "cost main inmate tip venture belt plunge will brief poverty peasant now";
+var mnemonic = "exhibit pluck uncover wagon limb top thought evil fashion notable winner trash";

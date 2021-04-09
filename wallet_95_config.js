@@ -1,1 +1,1 @@
-var mnemonic = "lava shell honey ski own tennis project enforce betray rifle rent raw";
+var mnemonic = "aware tribe slogan cupboard unique dry journey debate fence anger output hello";

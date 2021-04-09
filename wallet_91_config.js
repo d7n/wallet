@@ -1,1 +1,1 @@
-var mnemonic = "dress exit manual shaft erode during window bacon track lamp nation proud";
+var mnemonic = "west gesture rabbit artist pull horror cloud load season struggle milk render";

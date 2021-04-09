@@ -1,1 +1,1 @@
-var mnemonic = "license breeze scene wonder merge scan fringe flock trash business setup verify";
+var mnemonic = "pigeon make sauce check decade time boy say sun because erode front";

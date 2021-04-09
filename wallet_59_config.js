@@ -1,1 +1,1 @@
-var mnemonic = "dumb cloth rigid sketch neck soft inner harvest picnic mammal shield bid";
+var mnemonic = "attend lazy staff scissors dignity step knock purchase draw shrug spider sketch";

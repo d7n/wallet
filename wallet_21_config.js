@@ -1,1 +1,1 @@
-var mnemonic = "obtain beyond leader ahead midnight size exotic couple palm test deer jelly";
+var mnemonic = "bacon write weasel gentle legend usual private endless ball chronic wire matrix";

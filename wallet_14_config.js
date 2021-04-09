@@ -1,1 +1,1 @@
-var mnemonic = "wink glass sound act arrange income empty viable mixed dog total charge";
+var mnemonic = "aware ivory invite own car habit breeze real hill assault hub version";

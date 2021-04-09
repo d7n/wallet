@@ -1,1 +1,1 @@
-var mnemonic = "blind diagram time protect erosion property midnight carbon ahead shock wheat once";
+var mnemonic = "similar bottom hole member north alone debris reduce corn pole dynamic dose";

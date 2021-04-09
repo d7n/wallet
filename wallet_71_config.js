@@ -1,1 +1,1 @@
-var mnemonic = "flock false fiber leopard alarm relief bonus tooth clarify code garbage magic";
+var mnemonic = "family mesh report proud oval foam soldier glow wisdom tone cycle essence";

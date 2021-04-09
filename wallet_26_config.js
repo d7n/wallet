@@ -1,1 +1,1 @@
-var mnemonic = "right enforce power chicken lecture model sustain rely parent discover pilot enemy";
+var mnemonic = "excuse inspire hurdle cargo mystery scan quiz push outside devote green obscure";

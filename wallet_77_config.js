@@ -1,1 +1,1 @@
-var mnemonic = "deer rib cage satoshi night slim people topple enter decorate sample dwarf";
+var mnemonic = "banner act better avocado decide oil grunt practice near notable essay infant";

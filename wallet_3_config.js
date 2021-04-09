@@ -1,1 +1,1 @@
-var mnemonic = "roof around canvas liar undo quiz segment again orchard youth feel word";
+var mnemonic = "frequent legal when hotel exist favorite resemble stuff mango cargo they traffic";

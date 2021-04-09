@@ -1,1 +1,1 @@
-var mnemonic = "rescue bind will success rug cupboard canvas decorate creek must betray ivory";
+var mnemonic = "brief obscure arrange essay soup auction torch office toss traffic exile victory";

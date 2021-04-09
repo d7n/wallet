@@ -1,1 +1,1 @@
-var mnemonic = "fury mother harvest bike inform unique beyond say window explain panda marriage";
+var mnemonic = "tobacco divert cigar gadget child proud session audit present win brain stage";

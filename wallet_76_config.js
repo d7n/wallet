@@ -1,1 +1,1 @@
-var mnemonic = "drama require strike coin drill lake deposit okay fog fish sign park";
+var mnemonic = "town nephew virus flavor bonus volume asthma mimic sock tower fabric spatial";

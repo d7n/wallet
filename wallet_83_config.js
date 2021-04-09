@@ -1,1 +1,1 @@
-var mnemonic = "priority found analyst tornado bargain gesture subway move turkey own soft coast";
+var mnemonic = "dry chuckle ostrich grocery pulse hand misery prize tide slam become zebra";

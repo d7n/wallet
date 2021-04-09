@@ -1,1 +1,1 @@
-var mnemonic = "window rose faith grunt excess during grief rib boy agent divert boost";
+var mnemonic = "grunt foster body link crisp belt hamster medal blue resemble miracle liberty";

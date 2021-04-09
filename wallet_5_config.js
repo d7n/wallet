@@ -1,1 +1,1 @@
-var mnemonic = "awful beef phone return reform day fog oak salon idea dolphin copy";
+var mnemonic = "best lumber bench slush lion bitter invite enrich dose inch vapor chapter";

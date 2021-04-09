@@ -1,1 +1,1 @@
-var mnemonic = "tattoo car myself short ski siren hip wrestle sure drip inflict swamp";
+var mnemonic = "gorilla public intact awful sample sort fix basket arrest curve income height";

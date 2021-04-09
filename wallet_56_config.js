@@ -1,1 +1,1 @@
-var mnemonic = "armor debate little blush remain elbow cost phone erosion segment noise kitten";
+var mnemonic = "embark tank grab body develop enemy scrub before satisfy trouble ship torch";

@@ -1,1 +1,1 @@
-var mnemonic = "argue mobile silk right pelican rug situate index link answer company annual";
+var mnemonic = "patient glow physical differ virus denial yard cupboard electric stem cup loan";

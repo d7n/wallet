@@ -1,1 +1,1 @@
-var mnemonic = "behave human sound appear age educate bubble holiday hat yellow thank someone";
+var mnemonic = "crack mercy subject amount maple convince merge fault blur okay element popular";

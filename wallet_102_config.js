@@ -1,1 +1,1 @@
-var mnemonic = "fitness old prefer cliff planet isolate innocent possible arrange squirrel laugh doctor";
+var mnemonic = "drama vacant bounce blur load number radio explain engage hint glove meat";

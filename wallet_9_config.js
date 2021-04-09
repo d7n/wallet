@@ -1,1 +1,1 @@
-var mnemonic = "wash slender shuffle leader beach pair oven minor open melt shoulder invite";
+var mnemonic = "awesome tool flame gap clever rapid endless alcohol grass boss canoe improve";

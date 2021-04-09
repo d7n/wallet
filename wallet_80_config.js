@@ -1,1 +1,1 @@
-var mnemonic = "bid smile comfort toddler ethics address spy spray destroy turkey victory prefer";
+var mnemonic = "identify before vast exist trouble install team kitchen major always rotate trigger";

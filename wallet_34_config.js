@@ -1,1 +1,1 @@
-var mnemonic = "resist tennis kidney process rice make book boy waste helmet autumn tennis";
+var mnemonic = "gold shrug artefact hedgehog buyer section script regular wave cancel island bitter";

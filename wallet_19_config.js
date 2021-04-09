@@ -1,1 +1,1 @@
-var mnemonic = "lecture praise insane symbol waste engage among stem section secret fiber trial";
+var mnemonic = "rather beyond very entry pair ten reduce couple replace vote churn panther";

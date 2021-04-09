@@ -1,1 +1,1 @@
-var mnemonic = "jar trigger announce arrive vivid crisp poem kiss surprise lion family kitchen";
+var mnemonic = "excuse disorder pill spoon dumb vibrant expose height choose truck ridge suggest";

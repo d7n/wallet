@@ -1,1 +1,1 @@
-var mnemonic = "pact hamster require siege olive miss flock window know eye provide trust";
+var mnemonic = "blade crazy roast critic time message joke salad auto phone juice tip";

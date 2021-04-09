@@ -1,1 +1,1 @@
-var mnemonic = "excess share grid furnace program dismiss grow manage hub sail laptop baby";
+var mnemonic = "exhibit pigeon lab letter attend party scale roof nephew ivory awkward bleak";

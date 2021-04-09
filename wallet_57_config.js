@@ -1,1 +1,1 @@
-var mnemonic = "exhaust detect solid suggest spoil amount corn blouse nature cycle genius bomb";
+var mnemonic = "cement maple soda recall curve motion mention mechanic remove mistake behave prefer";

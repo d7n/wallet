@@ -1,1 +1,1 @@
-var mnemonic = "snack vault trouble build alone glow grocery inhale step secret ahead proof";
+var mnemonic = "royal beach thrive exotic poem power angry stock panther daughter thing once";

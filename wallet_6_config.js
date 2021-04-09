@@ -1,1 +1,1 @@
-var mnemonic = "mask twist orchard portion siren across state satoshi ball ice diet notable";
+var mnemonic = "hour only bronze speed festival danger virtual scrap journey main effort clerk";

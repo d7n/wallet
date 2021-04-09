@@ -1,1 +1,1 @@
-var mnemonic = "switch home sniff danger age yellow imitate service clever just large expect";
+var mnemonic = "false angle food stuff future bridge trumpet frequent waste two equip vacant";

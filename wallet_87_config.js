@@ -1,1 +1,1 @@
-var mnemonic = "mechanic invest item fold kitten level jar hungry three despair window venture";
+var mnemonic = "rubber popular usage antenna document book ginger trouble kitchen renew vital dragon";

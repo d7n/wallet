@@ -1,1 +1,1 @@
-var mnemonic = "ocean limb crystal example year cradle joke clay warm situate receive arrive";
+var mnemonic = "provide pair ordinary grant bar voyage throw horn deer pulp portion betray";

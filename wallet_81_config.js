@@ -1,1 +1,1 @@
-var mnemonic = "scheme another nothing salmon february trap innocent copper alone stay tide pelican";
+var mnemonic = "fade caught hurdle grunt away happy glow right eyebrow menu crawl mosquito";

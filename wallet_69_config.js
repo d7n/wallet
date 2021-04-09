@@ -1,1 +1,1 @@
-var mnemonic = "smooth state double flush olympic hat lock trash bronze across find where";
+var mnemonic = "model length nominee pepper local submit ordinary vivid employ twelve argue bounce";

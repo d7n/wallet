@@ -1,1 +1,1 @@
-var mnemonic = "office face broken outer weird answer truth share unfair pistol blush poem";
+var mnemonic = "waste glass chef diary between basket unique festival depth comfort spring rescue";

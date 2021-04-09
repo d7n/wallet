@@ -1,1 +1,1 @@
-var mnemonic = "maximum neutral surround sheriff asthma actress ritual grocery real bid next razor";
+var mnemonic = "glide paddle furnace skirt toy reform assume magnet aspect law essay spatial";

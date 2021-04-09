@@ -1,1 +1,1 @@
-var mnemonic = "baby spot hurdle umbrella foil merit away topple exit taxi parade blouse";
+var mnemonic = "act dizzy game endless catalog embark shallow rail wire knee camp need";

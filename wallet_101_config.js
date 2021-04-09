@@ -1,1 +1,1 @@
-var mnemonic = "input bubble hold fresh provide surround kingdom remain discover length hurdle clean";
+var mnemonic = "oblige like analyst yellow degree length off category repair waste more quantum";

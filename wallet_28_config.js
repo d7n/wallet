@@ -1,1 +1,1 @@
-var mnemonic = "correct tunnel orchard width laptop bird aspect beach bachelor club pilot way";
+var mnemonic = "excite soup ramp volcano cereal shrimp into minute quality rabbit stay pass";

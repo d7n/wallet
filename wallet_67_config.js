@@ -1,1 +1,1 @@
-var mnemonic = "shallow yellow top agent position member indoor team water squirrel proud fiction";
+var mnemonic = "slender easy adjust change repeat chalk polar feel choice crawl remove execute";

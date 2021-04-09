@@ -1,1 +1,1 @@
-var mnemonic = "pulse dose awesome clinic want pole asthma depth sustain major tone canoe";
+var mnemonic = "fantasy argue work damage interest various humor observe express evidence foster engine";

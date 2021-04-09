@@ -1,1 +1,1 @@
-var mnemonic = "weekend second fluid control rice long later burger opera strike acquire entry";
+var mnemonic = "play cancel diagram write lecture champion acid dirt ecology urban bring invite";
