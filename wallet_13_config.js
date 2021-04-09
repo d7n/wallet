@@ -1,1 +1,1 @@
-var mnemonic = "decade garbage clip title target rural stage firm endorse bread estate artwork";
+var mnemonic = "civil moment latin beef chase squirrel until spend walnut sound cattle reunion";

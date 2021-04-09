@@ -1,1 +1,1 @@
-var mnemonic = "notice tip bitter banana reveal upset prepare submit couple fork canoe across";
+var mnemonic = "exercise permit hockey result reflect quarter peasant chapter image street spread kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium wild stick surge worry squirrel horror mimic swear repeat play token";
+var mnemonic = "slam gun young embrace net priority couple tonight obscure sunset nut reject";

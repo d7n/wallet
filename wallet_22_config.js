@@ -1,1 +1,1 @@
-var mnemonic = "science avocado ten isolate hawk isolate fade decorate autumn blood sauce gadget";
+var mnemonic = "favorite clump clerk denial toy sample monkey hedgehog knee afraid run march";

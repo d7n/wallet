@@ -1,1 +1,1 @@
-var mnemonic = "canyon rebel perfect audit forum pretty fetch subway assume asthma stone perfect";
+var mnemonic = "wall below caution enlist festival fluid hospital actress foot auction now swap";

@@ -1,1 +1,1 @@
-var mnemonic = "arm upper balance street warm small there diamond license source unveil enhance";
+var mnemonic = "invest peace crash tube orbit company aspect reason slide affair drive weird";

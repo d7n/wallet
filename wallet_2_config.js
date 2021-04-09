@@ -1,1 +1,1 @@
-var mnemonic = "uphold drink gown harsh link sunny choose glance fruit concert funny injury";
+var mnemonic = "scene powder open youth more bullet prevent extra dice cloud soda defy";

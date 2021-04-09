@@ -1,1 +1,1 @@
-var mnemonic = "fence cigar invest joke column dismiss genuine lecture stairs exist firm secret";
+var mnemonic = "once fruit spike wagon maximum short spend nurse snow task result release";

@@ -1,1 +1,1 @@
-var mnemonic = "relief wealth barely soap song lecture vocal general cause sentence monster rhythm";
+var mnemonic = "enact coffee lyrics shaft matrix clinic orange legend wheat quiz hope clutch";

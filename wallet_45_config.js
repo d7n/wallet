@@ -1,1 +1,1 @@
-var mnemonic = "life tunnel notice ketchup repair candy dragon usual summer display install sort";
+var mnemonic = "hint parrot twin hill gossip steel loud rude tobacco token thought modify";

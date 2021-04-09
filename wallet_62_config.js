@@ -1,1 +1,1 @@
-var mnemonic = "float insane call gas tomorrow taste iron between hurdle rack minute better";
+var mnemonic = "sentence connect olympic surprise bicycle small edge feel prefer assist ignore buzz";

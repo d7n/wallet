@@ -1,1 +1,1 @@
-var mnemonic = "river country tragic purpose kind rough bridge excess win absorb wool require";
+var mnemonic = "twenty place casino quarter bleak purse retire anxiety tone girl youth want";

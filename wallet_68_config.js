@@ -1,1 +1,1 @@
-var mnemonic = "brand limb sentence arrest brave glass wall walk patch insect undo orphan";
+var mnemonic = "matrix slender divide draw fan hammer van code tumble economy off someone";

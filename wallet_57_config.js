@@ -1,1 +1,1 @@
-var mnemonic = "drama under rally absent situate image frozen garden advice arrive upper glide";
+var mnemonic = "observe pottery cannon vintage vast jazz now base diet twice vital survey";

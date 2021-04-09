@@ -1,1 +1,1 @@
-var mnemonic = "play silk giggle drama risk web host patrol liquid purity cruise ceiling";
+var mnemonic = "globe bag electric walk soup wolf twin exclude scan elder decrease model";

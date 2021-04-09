@@ -1,1 +1,1 @@
-var mnemonic = "awful skill review differ sight fix stem gun case life engine obscure";
+var mnemonic = "faculty milk roast occur above cupboard federal tired silver fan pact quote";

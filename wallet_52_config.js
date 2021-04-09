@@ -1,1 +1,1 @@
-var mnemonic = "much donkey amateur salmon acoustic abuse sustain can bread feel addict rhythm";
+var mnemonic = "usual energy cactus bunker helmet laundry fire emotion boost outer bamboo faculty";

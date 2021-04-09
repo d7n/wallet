@@ -1,1 +1,1 @@
-var mnemonic = "assume pluck box blur eye foam key miracle story arctic bottom upset";
+var mnemonic = "muscle taxi symbol festival depart flock loan mechanic nasty crowd column decrease";

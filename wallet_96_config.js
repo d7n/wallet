@@ -1,1 +1,1 @@
-var mnemonic = "muscle original sting yard abuse cry burden diary cushion resource pepper focus";
+var mnemonic = "voice asthma state lizard wire candy still annual yellow mean interest battle";

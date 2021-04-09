@@ -1,1 +1,1 @@
-var mnemonic = "canyon piece you turkey weather casino issue scatter bean old skin decline";
+var mnemonic = "input genre wrong obscure green load escape please alert moral enroll festival";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster click copy cave mansion sing palace night monster expand will draw";
+var mnemonic = "auction evidence alpha host often health quit lumber dilemma giant lunch settle";

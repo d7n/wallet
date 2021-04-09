@@ -1,1 +1,1 @@
-var mnemonic = "estate frozen victory toward grunt filter federal onion unable fabric tragic muffin";
+var mnemonic = "whisper cloud security property rice man boost barely first wine initial office";

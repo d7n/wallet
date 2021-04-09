@@ -1,1 +1,1 @@
-var mnemonic = "blood multiply lemon sketch stay end normal witness daughter jelly biology march";
+var mnemonic = "slam pond upper alien destroy skull outer couch time twice bundle release";

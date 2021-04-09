@@ -1,1 +1,1 @@
-var mnemonic = "jelly athlete bike north punch fan ozone canyon remain beyond hover proof";
+var mnemonic = "rival cabbage surge wasp scout focus slender remember win mistake girl table";

@@ -1,1 +1,1 @@
-var mnemonic = "park seek mind bottom clog mom home say nuclear twenty sign quantum";
+var mnemonic = "sustain ethics energy sort wisdom pink patrol thing twice cake various grow";

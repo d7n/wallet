@@ -1,1 +1,1 @@
-var mnemonic = "cement evidence tube ladder world gossip rebuild guess photo rely provide snake";
+var mnemonic = "traffic image call share army medal online glove often gaze addict exercise";

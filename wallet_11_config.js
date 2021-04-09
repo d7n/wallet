@@ -1,1 +1,1 @@
-var mnemonic = "educate type save noise crumble soldier awkward world owner best illness rare";
+var mnemonic = "promote dragon forest soccer fix excuse pumpkin country rubber blast honey else";

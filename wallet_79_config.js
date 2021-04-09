@@ -1,1 +1,1 @@
-var mnemonic = "public coil save change cannon orchard useful maximum witness invite what ask";
+var mnemonic = "speak orient image pudding exact surround elegant slush truly coast luxury okay";

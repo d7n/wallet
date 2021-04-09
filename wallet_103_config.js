@@ -1,1 +1,1 @@
-var mnemonic = "motion tag pull twin daughter floor economy modify age alone paper alone";
+var mnemonic = "bubble thrive maid shadow dove fit rally unveil prize harbor this grant";

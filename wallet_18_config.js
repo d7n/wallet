@@ -1,1 +1,1 @@
-var mnemonic = "choice exile topple myself this castle wagon unlock secret item lesson history";
+var mnemonic = "select nut vessel friend provide fuel service outside glare tired chief away";

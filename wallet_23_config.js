@@ -1,1 +1,1 @@
-var mnemonic = "trash boy waste group lamp foster blast among title iron steak together";
+var mnemonic = "casual tray settle subject like tip valid index correct soft grant lens";

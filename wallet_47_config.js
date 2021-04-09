@@ -1,1 +1,1 @@
-var mnemonic = "mandate pizza whisper program hole street car blast vocal rich defense oval";
+var mnemonic = "slogan blade table toast legend mystery crouch next agent weather skirt various";

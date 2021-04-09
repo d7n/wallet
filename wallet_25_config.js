@@ -1,1 +1,1 @@
-var mnemonic = "mosquito snap forum you train fever toddler pass caught domain later reveal";
+var mnemonic = "ketchup crazy depend client spot country pig upper write worry twenty daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "topic voice guilt cave bleak extend okay apple bottom language repair index";
+var mnemonic = "village hawk fold year virus dilemma cotton raven weapon pudding notice manual";

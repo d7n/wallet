@@ -1,1 +1,1 @@
-var mnemonic = "vote auction table exhaust profit globe resource fame nuclear square age pair";
+var mnemonic = "student doll apart milk person robot helmet become silent domain seek absent";

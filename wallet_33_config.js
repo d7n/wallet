@@ -1,1 +1,1 @@
-var mnemonic = "city penalty owner horn rib minimum extra convince achieve host enroll glue";
+var mnemonic = "apple spray attract library attract radio monkey over crucial torch will mad";

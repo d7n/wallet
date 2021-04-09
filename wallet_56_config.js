@@ -1,1 +1,1 @@
-var mnemonic = "undo chair neck oppose dolphin suffer cover crisp debate twin hunt cram";
+var mnemonic = "essence strategy caution topple harbor they adjust jump shallow tackle struggle route";

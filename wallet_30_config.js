@@ -1,1 +1,1 @@
-var mnemonic = "boost small rapid conduct off ten logic original mind reopen tiny gaze";
+var mnemonic = "brand report brave faculty cattle swift pen scorpion quarter humble build reduce";

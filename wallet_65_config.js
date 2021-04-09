@@ -1,1 +1,1 @@
-var mnemonic = "jealous into scissors gossip rigid middle length genre vital artist pear dolphin";
+var mnemonic = "inhale pet very vibrant better useless confirm power few once rule purchase";

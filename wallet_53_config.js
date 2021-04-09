@@ -1,1 +1,1 @@
-var mnemonic = "drive where bachelor ship century turtle elephant satoshi verb wasp mom spoon";
+var mnemonic = "air arctic essence flee perfect cushion kidney rice celery other scheme myself";

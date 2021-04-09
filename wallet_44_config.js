@@ -1,1 +1,1 @@
-var mnemonic = "crucial argue pioneer guard umbrella theory kiwi cost gift calm any add";
+var mnemonic = "bubble require noise term stomach hello social day case speak vocal tiny";

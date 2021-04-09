@@ -1,1 +1,1 @@
-var mnemonic = "saddle mutual ahead concert move much brick excuse fork must tiny series";
+var mnemonic = "second photo kick robust tomorrow one brother solve gospel enact spice drop";

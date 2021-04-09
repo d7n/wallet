@@ -1,1 +1,1 @@
-var mnemonic = "drastic glove impulse heart bind north practice describe curtain party rebel pizza";
+var mnemonic = "item slam ball beauty donor judge soccer can scale audit proof fluid";

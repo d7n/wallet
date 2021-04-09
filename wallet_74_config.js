@@ -1,1 +1,1 @@
-var mnemonic = "learn unit camp bonus wear lunch ocean virtual slot heart cloud zero";
+var mnemonic = "barely face crumble balance hidden slab spatial letter arm toast woman inhale";

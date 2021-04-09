@@ -1,1 +1,1 @@
-var mnemonic = "clip health today shrimp document assume believe brush damage control series garlic";
+var mnemonic = "upgrade ecology slam noodle dumb level hat genre arctic defy knee defy";

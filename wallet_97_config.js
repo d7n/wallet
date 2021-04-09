@@ -1,1 +1,1 @@
-var mnemonic = "planet agree owner dry drum jealous exist apology become pen slush elite";
+var mnemonic = "found entire snake neglect raven naive circle dish kitten search walnut lesson";

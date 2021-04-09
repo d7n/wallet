@@ -1,1 +1,1 @@
-var mnemonic = "frog impose jazz marine pitch vehicle grain short adapt divert salon taste";
+var mnemonic = "traffic heart problem hybrid woman spray relief upset lava trophy excite gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "hen warrior monitor runway erupt someone garment expose latin thrive liquid emerge";
+var mnemonic = "rule kind insane kind odor observe library step keen glad pluck program";

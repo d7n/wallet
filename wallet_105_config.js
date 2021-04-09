@@ -1,1 +1,1 @@
-var mnemonic = "hair forget purpose need wrap taxi type wet hawk tent sunset mesh";
+var mnemonic = "radio sea seat will ranch scale bamboo say abandon ribbon crowd knife";

@@ -1,1 +1,1 @@
-var mnemonic = "source fog double cream match brisk burden velvet travel call fit metal";
+var mnemonic = "cat hole correct federal hub student explain same simple someone above deposit";

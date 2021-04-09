@@ -1,1 +1,1 @@
-var mnemonic = "melody capable sustain manual girl riot blanket outside feed spy code turtle";
+var mnemonic = "surface damp trouble erase asthma denial dwarf close solar ask phone wink";

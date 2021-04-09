@@ -1,1 +1,1 @@
-var mnemonic = "gauge fancy jewel axis sister six weasel share laptop document view hunt";
+var mnemonic = "advance disease trouble crawl meadow shine crystal price soup alpha hood loyal";

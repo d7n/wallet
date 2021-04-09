@@ -1,1 +1,1 @@
-var mnemonic = "east pulse unveil canyon peasant mistake involve call void predict trumpet small";
+var mnemonic = "disease genuine donor brief jump unfold extend toy ice proof floor forest";

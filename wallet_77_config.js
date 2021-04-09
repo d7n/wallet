@@ -1,1 +1,1 @@
-var mnemonic = "limb job sketch spend stove hero patch venture display argue question advice";
+var mnemonic = "detail master wear blade gain hunt control parent bitter bone major narrow";

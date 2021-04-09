@@ -1,1 +1,1 @@
-var mnemonic = "remove blood able fossil rose month tired chronic error swallow team federal";
+var mnemonic = "fresh peanut junk spawn palm seminar renew daughter unaware spare salt celery";

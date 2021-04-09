@@ -1,1 +1,1 @@
-var mnemonic = "alley enhance turtle saddle sausage oyster expose drip rocket tribe maid tomato";
+var mnemonic = "unknown make beach anchor episode menu ask roast bike broken pull prepare";

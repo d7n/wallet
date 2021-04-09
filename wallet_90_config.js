@@ -1,1 +1,1 @@
-var mnemonic = "draft tape fame little repair youth biology save example primary dish potato";
+var mnemonic = "bundle this engine want prison case loud fun reunion calm hour video";

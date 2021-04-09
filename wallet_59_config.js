@@ -1,1 +1,1 @@
-var mnemonic = "jump three invite pattern engine cactus nominee midnight interest physical cube please";
+var mnemonic = "beauty custom demand used bus okay perfect aerobic remind book master man";

@@ -1,1 +1,1 @@
-var mnemonic = "language fatigue sketch north blast deposit merge column worth vessel general celery";
+var mnemonic = "employ improve twice rifle camera gorilla acquire recall matter there history arch";

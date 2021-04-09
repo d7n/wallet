@@ -1,1 +1,1 @@
-var mnemonic = "deer access tonight fee exhaust giant disease goose seek sock juice remind";
+var mnemonic = "ready choice december field phrase asthma ridge distance tongue eyebrow kite junk";

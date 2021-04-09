@@ -1,1 +1,1 @@
-var mnemonic = "can noble rifle select zoo jungle hire album lamp front acid jealous";
+var mnemonic = "want night rule asthma segment wine index chuckle pistol staff ketchup sense";

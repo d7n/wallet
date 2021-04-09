@@ -1,1 +1,1 @@
-var mnemonic = "verify winter year invite buddy clap any blush stick nice enact tag";
+var mnemonic = "gym radio oxygen diary patient oak track elite reduce crater remain erase";

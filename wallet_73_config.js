@@ -1,1 +1,1 @@
-var mnemonic = "estate stem expose hotel make cruel night glance thumb buyer trip pottery";
+var mnemonic = "gate champion abandon wolf normal harbor collect entry rival hunt claim inherit";

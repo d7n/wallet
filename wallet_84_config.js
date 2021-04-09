@@ -1,1 +1,1 @@
-var mnemonic = "hope setup father loyal tourist into point mystery assist split artist upgrade";
+var mnemonic = "option romance struggle call fiscal jazz grab box fan paper elder indoor";

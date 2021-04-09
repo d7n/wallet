@@ -1,1 +1,1 @@
-var mnemonic = "shrimp put warfare desk blood idea pluck drama silly text animal illness";
+var mnemonic = "weird home tomato bridge carbon beach sense awake design art creek drum";

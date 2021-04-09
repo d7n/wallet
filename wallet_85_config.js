@@ -1,1 +1,1 @@
-var mnemonic = "useless dust skull inject shift exhibit entire minor lift satoshi sword dolphin";
+var mnemonic = "adjust attract local arm usual attract supreme adjust exclude nuclear coin yellow";

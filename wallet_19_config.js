@@ -1,1 +1,1 @@
-var mnemonic = "twenty more silent review dignity rigid useful wish east romance coyote girl";
+var mnemonic = "random seven basket tell slide congress front among mango bacon knee prosper";

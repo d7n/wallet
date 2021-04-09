@@ -1,1 +1,1 @@
-var mnemonic = "lecture person venture ankle salute shoot tuition regular cup crush balcony fork";
+var mnemonic = "legal brick identify expire puzzle link execute depend sausage blue grow audit";

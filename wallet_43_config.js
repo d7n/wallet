@@ -1,1 +1,1 @@
-var mnemonic = "initial viable cover now view habit exchange steel world remain ozone delay";
+var mnemonic = "arena service news teach pet purse dream sphere sheriff subway palace glare";

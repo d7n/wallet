@@ -1,1 +1,1 @@
-var mnemonic = "result father quote grass notice country renew point cloth short cup boat";
+var mnemonic = "dismiss offer strategy smooth pelican away tunnel abandon antenna cabbage parent blast";

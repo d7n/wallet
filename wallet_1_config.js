@@ -1,1 +1,1 @@
-var mnemonic = "feel blush upper ozone burden any wood transfer silk release chest myth";
+var mnemonic = "pipe dawn magic table argue clean dune release ancient penalty fiscal cement";

@@ -1,1 +1,1 @@
-var mnemonic = "cross case more screen fatal vast resource crash unable firm virtual alert";
+var mnemonic = "dice duty reason erupt output cake spice civil foot planet frequent awkward";

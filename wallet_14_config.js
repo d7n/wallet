@@ -1,1 +1,1 @@
-var mnemonic = "member sock frog treat casual gift garment balance runway next quarter finger";
+var mnemonic = "supply pelican better episode police myth thank one holiday matter version apple";

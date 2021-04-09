@@ -1,1 +1,1 @@
-var mnemonic = "sand large cable siege drama share skill purchase agent lady obvious alley";
+var mnemonic = "topic chalk desert pluck future rough earn visa gloom sleep tissue year";

@@ -1,1 +1,1 @@
-var mnemonic = "trick behave snap seven umbrella palace match pen zero fly penalty language";
+var mnemonic = "perfect before cabin olive lazy bulb pact topple column vague robust vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "ask arrow eager obey planet hill much vibrant another decorate urban genius";
+var mnemonic = "gas key limit salon relief paper metal poverty ghost peanut snap spatial";

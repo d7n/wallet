@@ -1,1 +1,1 @@
-var mnemonic = "balance later vote neutral power fancy side play valve ribbon unusual conduct";
+var mnemonic = "nice truly oval appear web noble address level delay all bomb blast";

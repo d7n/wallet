@@ -1,1 +1,1 @@
-var mnemonic = "fringe true term photo fan solution game real crunch elegant quick float";
+var mnemonic = "civil bridge impose donor latin notice crouch someone pudding era end plate";

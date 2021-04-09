@@ -1,1 +1,1 @@
-var mnemonic = "reason blue ranch gorilla fossil misery more gift odor weapon indicate stairs";
+var mnemonic = "forum polar friend matter muscle pair detect dynamic task detect twice agree";

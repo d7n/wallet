@@ -1,1 +1,1 @@
-var mnemonic = "solar page borrow maid imitate anchor crane cherry add old height mansion";
+var mnemonic = "clock matrix pact enjoy column salt walnut wrist bargain sound attack yard";

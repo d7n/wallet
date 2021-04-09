@@ -1,1 +1,1 @@
-var mnemonic = "hill sunny city interest letter text people hood trial frame embark hint";
+var mnemonic = "major pioneer when media survey bitter sick rack question blur kidney toddler";

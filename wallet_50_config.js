@@ -1,1 +1,1 @@
-var mnemonic = "tail sense dose top business smooth poverty drive bargain off athlete camera";
+var mnemonic = "hour rotate garden neglect already vacant when young army alert group task";

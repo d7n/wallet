@@ -1,1 +1,1 @@
-var mnemonic = "nothing sure possible donkey fence pink bread that smart length open slot";
+var mnemonic = "loop couch transfer begin travel issue pelican shadow ribbon diamond sting wait";

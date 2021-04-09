@@ -1,1 +1,1 @@
-var mnemonic = "lady front better real domain scrub close diesel badge nominee cinnamon gas";
+var mnemonic = "stable eyebrow spend sudden strike quantum advance intact captain tube order plug";

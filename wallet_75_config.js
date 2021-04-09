@@ -1,1 +1,1 @@
-var mnemonic = "depth energy angle equal mango blue toss pupil brown whip fatigue frame";
+var mnemonic = "twist leave turtle expand chair lottery general double among place strong ceiling";

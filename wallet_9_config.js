@@ -1,1 +1,1 @@
-var mnemonic = "tail board practice attend attack medal credit palm trigger appear when onion";
+var mnemonic = "toast tennis mushroom allow acid pelican height butter corn water genius report";

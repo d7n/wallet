@@ -1,1 +1,1 @@
-var mnemonic = "wood census rocket arena sign habit wish wine pulp clever mom birth";
+var mnemonic = "enter side wise pet analyst ivory umbrella open obscure sad culture argue";

@@ -1,1 +1,1 @@
-var mnemonic = "weather pretty image truck end fan lunch snack excuse owner room lady";
+var mnemonic = "dose shallow fine repair inform beach device gift champion tissue claim come";

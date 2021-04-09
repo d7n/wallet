@@ -1,1 +1,1 @@
-var mnemonic = "corn waste canyon air enroll wreck version siren toy require choose junk";
+var mnemonic = "excess view snap chief hammer dentist buddy cloth draft jazz lizard delay";
