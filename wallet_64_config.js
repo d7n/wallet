@@ -1,1 +1,1 @@
-var mnemonic = "still friend ramp monkey oval mother effort raccoon nice point copy toilet";
+var mnemonic = "icon all sad drum prosper verb poem aware supply country open trigger";

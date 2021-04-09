@@ -1,1 +1,1 @@
-var mnemonic = "actress true supply exotic obey exist day wasp hero pioneer hen deliver";
+var mnemonic = "exhaust exit oppose correct rent host emerge this bench license grunt canyon";

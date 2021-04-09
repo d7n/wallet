@@ -1,1 +1,1 @@
-var mnemonic = "kingdom peace weapon blame make alone student symbol wasp black wrestle short";
+var mnemonic = "absurd bean pull cake shove blade very gown captain stereo limb chicken";

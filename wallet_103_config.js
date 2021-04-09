@@ -1,1 +1,1 @@
-var mnemonic = "prefer sample sweet vendor flee thought board lecture ordinary witness phone agent";
+var mnemonic = "cycle hire trim aim august sustain whale amazing sausage wisdom ceiling rally";

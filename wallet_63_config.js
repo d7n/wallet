@@ -1,1 +1,1 @@
-var mnemonic = "drum ranch pioneer auto outdoor nerve auction tag conduct dry vehicle dune";
+var mnemonic = "setup ecology evidence behave pact coyote country utility assault cereal milk model";

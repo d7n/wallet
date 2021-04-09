@@ -1,1 +1,1 @@
-var mnemonic = "method excess reflect earn urban entire hidden food error scout language siege";
+var mnemonic = "gentle length inquiry drama pilot plastic vintage pole powder sound slogan silk";

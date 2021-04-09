@@ -1,1 +1,1 @@
-var mnemonic = "humor iron aspect include cushion fee bunker dignity what smile define pepper";
+var mnemonic = "alarm bind skate tiny special retreat giant confirm dutch deer outdoor lift";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor reduce bring tube unaware whisper sign claw industry small hip van";
+var mnemonic = "later jump dirt vocal spend find chaos shield side repeat iron state";

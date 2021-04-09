@@ -1,1 +1,1 @@
-var mnemonic = "trust echo coyote ridge album diagram shift oak height sun goat basic";
+var mnemonic = "corn car electric power lend useful gaze annual mention eager one mixed";

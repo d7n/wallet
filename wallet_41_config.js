@@ -1,1 +1,1 @@
-var mnemonic = "supreme refuse high voice able sad zebra sting amazing peasant brain jacket";
+var mnemonic = "brother found rifle inhale stone truly silent enrich ugly remind cart tortoise";

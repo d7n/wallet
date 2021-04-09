@@ -1,1 +1,1 @@
-var mnemonic = "goddess journey police episode chef visual dynamic uncle travel deny depend umbrella";
+var mnemonic = "sleep code effort drip duck describe color inspire wrist pair wedding insect";

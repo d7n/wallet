@@ -1,1 +1,1 @@
-var mnemonic = "battle name crawl woman timber evil true virtual accuse gate crash dolphin";
+var mnemonic = "cigar habit distance bird number repeat marine august bind choose rare tilt";

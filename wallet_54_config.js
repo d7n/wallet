@@ -1,1 +1,1 @@
-var mnemonic = "wedding lounge pair pig gown kitten myth bridge album keen pluck spider";
+var mnemonic = "legend turkey assist stand notable behave coil suit beauty parrot all bulk";

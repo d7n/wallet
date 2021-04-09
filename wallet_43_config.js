@@ -1,1 +1,1 @@
-var mnemonic = "sad region coffee fury roof predict night suit pony ready envelope little";
+var mnemonic = "shield mystery side gold van catalog drift else grocery add air expand";

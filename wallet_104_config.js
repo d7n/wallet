@@ -1,1 +1,1 @@
-var mnemonic = "possible canoe decorate humor stone penalty raw decrease hill own toward enough";
+var mnemonic = "blur immune census calm machine cause dove zone ghost social harsh alley";

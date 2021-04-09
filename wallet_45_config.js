@@ -1,1 +1,1 @@
-var mnemonic = "during curtain crack stone hole expire title meadow dizzy action teach zoo";
+var mnemonic = "devote cousin afraid praise harbor clog wave robust letter thought thing various";

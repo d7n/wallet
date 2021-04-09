@@ -1,1 +1,1 @@
-var mnemonic = "alert pear order offer reflect soap will suffer now vacant outer slam";
+var mnemonic = "craft recycle swamp cloud guess canal heavy behind lottery crisp food small";

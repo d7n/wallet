@@ -1,1 +1,1 @@
-var mnemonic = "north predict hockey top neutral pact street trophy absorb heavy pottery guilt";
+var mnemonic = "sudden train velvet echo farm occur gravity harvest cereal joke loyal wear";

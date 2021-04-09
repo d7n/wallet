@@ -1,1 +1,1 @@
-var mnemonic = "hamster book deposit echo beach ten grocery decide isolate name judge earth";
+var mnemonic = "beauty arrow sell destroy tree panic brick another sheriff small prepare wing";

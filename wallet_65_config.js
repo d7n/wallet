@@ -1,1 +1,1 @@
-var mnemonic = "genuine uncover history hub boat quiz inch analyst display above shiver push";
+var mnemonic = "rescue clarify short claw enough east crime online soul fix recipe shiver";

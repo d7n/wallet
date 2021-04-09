@@ -1,1 +1,1 @@
-var mnemonic = "route unhappy vendor imitate sausage spirit pizza quote tide drink assault envelope";
+var mnemonic = "citizen impact pipe wrong night dice punch hello network room satisfy spare";

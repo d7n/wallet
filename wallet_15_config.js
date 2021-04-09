@@ -1,1 +1,1 @@
-var mnemonic = "chair soccer seek nuclear twice adapt aisle typical girl thrive advance one";
+var mnemonic = "chase donate napkin rabbit distance attract mad between meadow skull ordinary current";

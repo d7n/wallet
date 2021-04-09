@@ -1,1 +1,1 @@
-var mnemonic = "awake hair dolphin ancient ride hurdle save scan garbage panther merry else";
+var mnemonic = "stove marriage estate ethics clinic cause shove off design bundle labor notable";

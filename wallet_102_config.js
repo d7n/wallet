@@ -1,1 +1,1 @@
-var mnemonic = "slow present moral arrange minute wrist goat tuition buffalo rival skin soap";
+var mnemonic = "fabric give culture someone vivid solar electric car erode version hammer salt";

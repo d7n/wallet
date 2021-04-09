@@ -1,1 +1,1 @@
-var mnemonic = "praise scorpion fish toast push filter degree basket alien barrel trend gospel";
+var mnemonic = "foster valid jazz kitchen virtual common thought mule island liberty rapid name";

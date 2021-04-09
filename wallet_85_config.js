@@ -1,1 +1,1 @@
-var mnemonic = "dry hidden afraid great wheat recall knee uncover fitness reform mirror risk";
+var mnemonic = "permit bus width entry crumble napkin cactus add olympic damage cotton avocado";

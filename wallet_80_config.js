@@ -1,1 +1,1 @@
-var mnemonic = "render dinner employ order egg sell sphere region swarm install cry metal";
+var mnemonic = "reward extra false wedding follow monkey long universe edge reveal motion panic";

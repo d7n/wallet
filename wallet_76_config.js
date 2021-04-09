@@ -1,1 +1,1 @@
-var mnemonic = "meadow pluck ugly blur lake tooth dish gentle only hard trim capable";
+var mnemonic = "news width ramp science supreme stereo miss blouse around tell predict donor";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate army light vocal jump vague enrich crane inform light quality either";
+var mnemonic = "lawsuit rail wheel loop virus turtle snake aerobic program body mutual fade";

@@ -1,1 +1,1 @@
-var mnemonic = "army kitchen ride minimum pitch bottom much meadow plug shoe wrap stuff";
+var mnemonic = "actor mail awful advice taste damp flush parent matrix hip melody river";

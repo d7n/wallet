@@ -1,1 +1,1 @@
-var mnemonic = "nephew average renew click ozone whip curious ordinary tragic critic leave curtain";
+var mnemonic = "sphere pill damage globe change oppose wire one bean teach work praise";

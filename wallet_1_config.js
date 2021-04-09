@@ -1,1 +1,1 @@
-var mnemonic = "spice surprise tenant spawn cash enable loyal light firm regret tower garden";
+var mnemonic = "assault habit census summer code quality sport leopard tool else chaos inflict";

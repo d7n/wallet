@@ -1,1 +1,1 @@
-var mnemonic = "page resemble twist punch smooth enemy track tired fossil inherit special obey";
+var mnemonic = "legend gaze kidney stereo meadow young foot drink peanut arctic jacket swap";

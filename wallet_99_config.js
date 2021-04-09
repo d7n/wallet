@@ -1,1 +1,1 @@
-var mnemonic = "velvet common program amount quality disease dove curious begin team help coyote";
+var mnemonic = "ability genuine six monster poem dwarf firm cupboard treat poet dog dumb";

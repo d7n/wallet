@@ -1,1 +1,1 @@
-var mnemonic = "squeeze green beyond rent reform shuffle renew flip tail upset eight rule";
+var mnemonic = "sleep off riot tobacco minute speak subway exile use medal radio net";

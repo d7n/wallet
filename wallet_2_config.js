@@ -1,1 +1,1 @@
-var mnemonic = "toy castle flag stick screen elevator clay ride hat object soft lazy";
+var mnemonic = "evoke black ramp cluster capable speak carpet trial captain share poverty harbor";

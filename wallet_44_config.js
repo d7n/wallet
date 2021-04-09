@@ -1,1 +1,1 @@
-var mnemonic = "collect cousin vocal donor divorce visit rack afford forest quote amateur pattern";
+var mnemonic = "blood romance protect island pyramid dutch lyrics rubber winner rookie dad until";

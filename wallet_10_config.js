@@ -1,1 +1,1 @@
-var mnemonic = "basket raise live earn silent salt edit apology aim report early runway";
+var mnemonic = "popular banana lend fringe unique chalk ramp vicious aunt put long lock";

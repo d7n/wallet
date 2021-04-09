@@ -1,1 +1,1 @@
-var mnemonic = "select lab salon staff van junior gym similar taste annual orange ankle";
+var mnemonic = "column cricket myth width enlist oil demand frog tribe make erosion tribe";

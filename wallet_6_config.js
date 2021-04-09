@@ -1,1 +1,1 @@
-var mnemonic = "force aunt toddler gasp nerve shine disease thrive purpose sheriff bonus arrive";
+var mnemonic = "rebel canal expire another clever sheriff gap plunge scene april garage diesel";

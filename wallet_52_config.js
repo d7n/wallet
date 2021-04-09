@@ -1,1 +1,1 @@
-var mnemonic = "short foster hungry wealth fragile appear immense car eagle list elevator bachelor";
+var mnemonic = "slide brave bag dutch wine govern crazy title dolphin mass element fault";

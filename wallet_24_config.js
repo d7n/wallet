@@ -1,1 +1,1 @@
-var mnemonic = "spy predict famous recycle below mouse zone hurt surface unable gap harbor";
+var mnemonic = "brain mixture minor interest wrestle pattern arm aware annual express meat bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "step give shadow embrace ignore pond street strong track decorate tiger fog";
+var mnemonic = "life alone budget patient weapon dad scatter victory laundry bullet luggage invite";

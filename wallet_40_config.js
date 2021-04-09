@@ -1,1 +1,1 @@
-var mnemonic = "catalog wet negative enroll bitter come chapter maple climb rigid range obscure";
+var mnemonic = "fall found capital decline deer swarm hybrid girl fetch uncle nation token";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot romance chimney legal sister jacket sound fence repair junior school portion";
+var mnemonic = "album glass total right team belt meat blind hazard century fatigue misery";

@@ -1,1 +1,1 @@
-var mnemonic = "april valve lucky sheriff area aspect exile laundry certain tip reward reopen";
+var mnemonic = "praise expect win unique vivid frequent repeat reunion struggle strategy huge forum";

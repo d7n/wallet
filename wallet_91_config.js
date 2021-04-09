@@ -1,1 +1,1 @@
-var mnemonic = "teach fiscal tube motor phrase letter stamp voyage meat old rent blossom";
+var mnemonic = "isolate couch bird battle dinosaur frequent disease marine robot winter ostrich shaft";

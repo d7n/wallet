@@ -1,1 +1,1 @@
-var mnemonic = "they pilot ecology sadness inflict exclude diet kid school loud lottery combine";
+var mnemonic = "place save pluck always cave jazz quick deny vessel bounce situate kangaroo";

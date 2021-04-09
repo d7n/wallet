@@ -1,1 +1,1 @@
-var mnemonic = "green company purchase stable best bag merge elbow ten post bacon salt";
+var mnemonic = "cup wolf suspect tenant amount undo ahead fire ozone hip hollow deer";

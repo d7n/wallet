@@ -1,1 +1,1 @@
-var mnemonic = "trap basic filter super token category cushion video attract climb vendor divide";
+var mnemonic = "original hello foil weapon caught sword skin bike behave vast harsh egg";

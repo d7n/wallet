@@ -1,1 +1,1 @@
-var mnemonic = "develop zero soup virus deal street bundle transfer flag amateur penalty any";
+var mnemonic = "face oyster suggest sketch debate nuclear adjust system train dog cover choice";

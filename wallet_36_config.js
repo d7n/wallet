@@ -1,1 +1,1 @@
-var mnemonic = "piano act velvet knife camera car solar coffee gadget opinion dust trust";
+var mnemonic = "exclude nut magic census pull train cousin salmon barely derive pattern rifle";

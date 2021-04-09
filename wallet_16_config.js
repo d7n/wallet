@@ -1,1 +1,1 @@
-var mnemonic = "rabbit detail confirm provide material strong ten horse choice host cage badge";
+var mnemonic = "tone furnace age six laptop weapon sadness boring urban cause salad area";

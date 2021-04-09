@@ -1,1 +1,1 @@
-var mnemonic = "meadow combine wet ignore clerk child limb diet isolate erase duck any";
+var mnemonic = "say differ winner hat flavor damage engage swamp enter illness harbor alarm";

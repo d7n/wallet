@@ -1,1 +1,1 @@
-var mnemonic = "trial luggage vehicle capable horn theory dismiss because position bless captain worth";
+var mnemonic = "journey hunt just fitness patch room rich giant myself steel patch chest";

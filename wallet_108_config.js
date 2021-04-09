@@ -1,1 +1,1 @@
-var mnemonic = "stereo humble exclude trouble what govern spell minimum throw lion tornado winner";
+var mnemonic = "dentist truth attack output soup speak alien zoo sentence cruel open moral";

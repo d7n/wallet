@@ -1,1 +1,1 @@
-var mnemonic = "unfold kiwi shy myself brand grain balance umbrella remove will dolphin hamster";
+var mnemonic = "wall improve void pig shuffle enlist rifle style morning panda layer rough";

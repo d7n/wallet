@@ -1,1 +1,1 @@
-var mnemonic = "relax library lawsuit offer luxury napkin shoe surprise brown left want illegal";
+var mnemonic = "family inhale potato nasty youth shoot sunny jar host alcohol bachelor burger";

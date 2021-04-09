@@ -1,1 +1,1 @@
-var mnemonic = "false intact wait shock stuff loop celery fruit say broom know town";
+var mnemonic = "long giraffe kiss start spoil thought project dose direct dust odor hole";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo addict lady powder curious loop stem speed flavor six high roof";
+var mnemonic = "prefer tip minor kick cat vessel gun disorder enforce autumn tank slim";

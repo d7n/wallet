@@ -1,1 +1,1 @@
-var mnemonic = "best future sand retreat student anxiety pottery tuition announce furnace dog peace";
+var mnemonic = "calm copper royal early cruise purpose immune garage bracket apart gossip cricket";

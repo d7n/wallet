@@ -1,1 +1,1 @@
-var mnemonic = "camera hen indicate book sample outer animal plunge tonight saddle couch force";
+var mnemonic = "dignity brick juice derive biology harbor trumpet clog adult word tiger heart";

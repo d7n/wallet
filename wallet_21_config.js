@@ -1,1 +1,1 @@
-var mnemonic = "you cliff vast nerve breeze lizard amazing wear noble moon wash unit";
+var mnemonic = "usual direct taxi talk sand devote carry shock kid hollow theme write";

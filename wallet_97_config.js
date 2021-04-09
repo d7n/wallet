@@ -1,1 +1,1 @@
-var mnemonic = "online witness check tragic warm frost museum photo spring sibling copper ketchup";
+var mnemonic = "cotton alone grab pumpkin lift struggle forget involve excite old index amused";

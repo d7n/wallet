@@ -1,1 +1,1 @@
-var mnemonic = "timber leopard grunt label eager wage accident farm west giggle label admit";
+var mnemonic = "resource album much guitar yellow drill elder legal another mouse clutch board";

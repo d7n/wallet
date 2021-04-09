@@ -1,1 +1,1 @@
-var mnemonic = "ostrich vehicle champion market ordinary erosion day screen useful bronze lake number";
+var mnemonic = "hub orbit come diesel only cradle buffalo inquiry enact vibrant arrive suit";

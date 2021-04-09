@@ -1,1 +1,1 @@
-var mnemonic = "market already income solar just amount change theory more skull affair vintage";
+var mnemonic = "resemble project hawk ranch bird youth chunk nurse garden auto season gallery";

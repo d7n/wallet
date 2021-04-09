@@ -1,1 +1,1 @@
-var mnemonic = "beauty broken donor obtain convince near rifle teach bottom urban monster tortoise";
+var mnemonic = "green receive soft stay icon asthma tragic chest damage popular lemon vibrant";

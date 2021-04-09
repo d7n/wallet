@@ -1,1 +1,1 @@
-var mnemonic = "print little gather spoil mind fossil emotion judge bundle adapt story park";
+var mnemonic = "armed pave unusual clarify lava snow citizen domain vast stock other pause";

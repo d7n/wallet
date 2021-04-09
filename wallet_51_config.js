@@ -1,1 +1,1 @@
-var mnemonic = "industry trial pig october response stairs crop three hair benefit monitor shove";
+var mnemonic = "decade scare essence assume bamboo develop super erupt salute right rural garden";

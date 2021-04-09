@@ -1,1 +1,1 @@
-var mnemonic = "sign hedgehog duty afford front tired lens electric doll vibrant famous era";
+var mnemonic = "rib poverty sadness menu timber become dad special stove panel traffic dust";

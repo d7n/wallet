@@ -1,1 +1,1 @@
-var mnemonic = "sound size milk dice scatter void hub wage rally plug sheriff security";
+var mnemonic = "steel escape labor reason wealth cherry doctor fiction trash adjust grunt pumpkin";

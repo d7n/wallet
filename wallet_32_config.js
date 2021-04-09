@@ -1,1 +1,1 @@
-var mnemonic = "today bonus embrace feature trash inmate draw talent body morning evoke swamp";
+var mnemonic = "trim during device learn wide coyote child steel window illegal very injury";

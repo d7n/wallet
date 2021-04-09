@@ -1,1 +1,1 @@
-var mnemonic = "crash vocal style truck prosper disagree pond street update melt beyond tonight";
+var mnemonic = "title blade cactus clock decade damp stand owner tomorrow venture spawn bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost moral universe rescue number cube embrace zoo trash reduce under bulb";
+var mnemonic = "design assume behind citizen salad trust ship federal letter beauty someone key";

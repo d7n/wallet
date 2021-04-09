@@ -1,1 +1,1 @@
-var mnemonic = "give nut eight tiny utility radio spatial gadget sock shallow quick apple";
+var mnemonic = "shiver laundry cloth try document hip earn sudden mix army fish coffee";

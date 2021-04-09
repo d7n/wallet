@@ -1,1 +1,1 @@
-var mnemonic = "bracket morning leave topic shallow desert useful action acquire fossil mobile then";
+var mnemonic = "hobby between extra infant fatigue slight reduce butter unaware echo congress mechanic";

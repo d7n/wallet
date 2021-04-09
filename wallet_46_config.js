@@ -1,1 +1,1 @@
-var mnemonic = "gaze deliver popular knife coconut silly fan mimic inflict fold police again";
+var mnemonic = "risk author rich expire pause mix prize table picnic zero grow license";

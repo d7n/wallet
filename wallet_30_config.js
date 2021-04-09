@@ -1,1 +1,1 @@
-var mnemonic = "swamp notice music taste curious sea actress mesh that key bottom baby";
+var mnemonic = "west peasant carpet network tilt retreat ritual tide today lounge tennis behave";

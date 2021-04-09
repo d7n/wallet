@@ -1,1 +1,1 @@
-var mnemonic = "flee walk vote asset tilt material galaxy decorate kiss expand law ivory";
+var mnemonic = "action option dash mask simple normal frequent average magnet misery basket observe";

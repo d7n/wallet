@@ -1,1 +1,1 @@
-var mnemonic = "fresh stairs scene reform small book jewel decline high lend embrace erosion";
+var mnemonic = "enter odor trend unlock bacon food fury nest farm boat smooth dream";

@@ -1,1 +1,1 @@
-var mnemonic = "student dolphin crouch code gap fresh august like ugly differ tattoo park";
+var mnemonic = "vital suit ivory wrestle brick tribe inch parent wave pair energy obvious";

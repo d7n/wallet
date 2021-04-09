@@ -1,1 +1,1 @@
-var mnemonic = "educate core top phone original cry noise hammer guilt dad host text";
+var mnemonic = "primary peasant version right divide advance protect book art knife soft initial";

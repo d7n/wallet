@@ -1,1 +1,1 @@
-var mnemonic = "grow east believe comic tone switch multiply enrich rich proof endorse eyebrow";
+var mnemonic = "wise recall two source parent abandon neutral tenant glad anchor ice better";

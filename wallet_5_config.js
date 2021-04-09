@@ -1,1 +1,1 @@
-var mnemonic = "scrap nature maid act pluck primary rebuild imitate cannon idea chapter explain";
+var mnemonic = "upper tobacco empower flight wage nephew alter address balcony trend expect rifle";

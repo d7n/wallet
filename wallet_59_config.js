@@ -1,1 +1,1 @@
-var mnemonic = "come ethics list danger clerk kiss secret guilt loyal try comic cool";
+var mnemonic = "injury advance chunk super sing warfare excite feel please suspect buffalo arrive";

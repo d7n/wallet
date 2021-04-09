@@ -1,1 +1,1 @@
-var mnemonic = "erupt supreme session vault cotton found foster blossom force company rocket motion";
+var mnemonic = "category hurdle reject family column skill cram prize civil hope punch barely";
