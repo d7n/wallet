@@ -1,1 +1,1 @@
-var mnemonic = "trap egg small language demise tilt narrow put oak interest road picture";
+var mnemonic = "evidence laptop maple west holiday draw snake deputy dismiss initial retire marriage";

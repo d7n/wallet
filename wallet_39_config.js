@@ -1,1 +1,1 @@
-var mnemonic = "pigeon make sauce check decade time boy say sun because erode front";
+var mnemonic = "steak tonight hidden grass item firm food hybrid dragon tiny scare artist";

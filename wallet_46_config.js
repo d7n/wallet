@@ -1,1 +1,1 @@
-var mnemonic = "guess marriage jazz tragic faculty jacket normal avoid border priority buyer today";
+var mnemonic = "chef nice slush design raw depart spin sock image item develop shield";

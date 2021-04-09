@@ -1,1 +1,1 @@
-var mnemonic = "hamster scan cricket capital motor echo silk sort position tube route police";
+var mnemonic = "minute bunker emerge wear often repeat capital hello buzz lamp ribbon tower";

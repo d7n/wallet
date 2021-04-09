@@ -1,1 +1,1 @@
-var mnemonic = "around tonight gorilla razor present fix orient slide asthma primary scorpion you";
+var mnemonic = "agree like abstract bubble chaos circle abuse turtle pretty claim because reject";

@@ -1,1 +1,1 @@
-var mnemonic = "invest rival tilt suggest duty onion hotel call call achieve empty error";
+var mnemonic = "cricket tree like quit nice champion ecology soul census explain arch into";

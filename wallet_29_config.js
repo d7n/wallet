@@ -1,1 +1,1 @@
-var mnemonic = "say increase perfect equip metal insect bulk obtain spring can beef canoe";
+var mnemonic = "great increase speed guide admit join second matrix orbit awake deal glare";

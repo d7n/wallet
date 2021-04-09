@@ -1,1 +1,1 @@
-var mnemonic = "display goat tree sleep rotate permit unlock plunge course question park parade";
+var mnemonic = "couple knife increase mansion gaze define alpha ritual chair bunker negative quarter";

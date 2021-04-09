@@ -1,1 +1,1 @@
-var mnemonic = "multiply cinnamon nerve brick turtle ordinary spare eyebrow phrase inflict remove plate";
+var mnemonic = "chapter trick boring pottery odor knife mandate luggage apple bachelor eager expect";

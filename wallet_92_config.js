@@ -1,1 +1,1 @@
-var mnemonic = "royal beach thrive exotic poem power angry stock panther daughter thing once";
+var mnemonic = "eye basic robust hazard museum barely square share orient talk farm final";

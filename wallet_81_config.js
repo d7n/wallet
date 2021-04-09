@@ -1,1 +1,1 @@
-var mnemonic = "fade caught hurdle grunt away happy glow right eyebrow menu crawl mosquito";
+var mnemonic = "outdoor opinion spot height unknown cannon forward album treat zero bronze naive";

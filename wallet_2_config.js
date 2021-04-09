@@ -1,1 +1,1 @@
-var mnemonic = "green tank legend glass web large roof major grace sibling someone since";
+var mnemonic = "nasty filter oblige alley cabin divide winter double tuna win host cruise";

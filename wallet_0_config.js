@@ -1,1 +1,1 @@
-var mnemonic = "fantasy argue work damage interest various humor observe express evidence foster engine";
+var mnemonic = "unfair actor antique derive describe west twice split trick purchase catch drift";

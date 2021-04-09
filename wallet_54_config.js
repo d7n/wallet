@@ -1,1 +1,1 @@
-var mnemonic = "decorate mask absent raw foot joy hole derive evidence exact more ready";
+var mnemonic = "upon sight guard light wrap tunnel trouble tonight fit shy spend grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "attend lazy staff scissors dignity step knock purchase draw shrug spider sketch";
+var mnemonic = "absorb tip novel leopard best subway glory hundred clarify narrow manual sister";

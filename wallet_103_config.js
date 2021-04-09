@@ -1,1 +1,1 @@
-var mnemonic = "brief obscure arrange essay soup auction torch office toss traffic exile victory";
+var mnemonic = "reopen front flash junk wait color artwork horse hair weapon must deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic digital sun pig return danger install system matter this aspect pole";
+var mnemonic = "random exist snap theory bronze aim moment spoon ethics bench innocent client";

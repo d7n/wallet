@@ -1,1 +1,1 @@
-var mnemonic = "grunt foster body link crisp belt hamster medal blue resemble miracle liberty";
+var mnemonic = "faculty ugly tribe wet skill also muffin toe media lend bike teach";

@@ -1,1 +1,1 @@
-var mnemonic = "online call fantasy idea number host galaxy river festival depend toy code";
+var mnemonic = "giggle left drill twist ozone close royal misery praise fuel eyebrow cable";

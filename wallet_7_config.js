@@ -1,1 +1,1 @@
-var mnemonic = "exhibit pluck uncover wagon limb top thought evil fashion notable winner trash";
+var mnemonic = "distance custom tongue gospel matter soul involve shuffle belt panel weird slogan";

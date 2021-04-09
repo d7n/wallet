@@ -1,1 +1,1 @@
-var mnemonic = "oxygen divide frost six fabric great senior mango option forum coffee wear";
+var mnemonic = "mutual divorce borrow bind welcome spend goddess stable already shadow trust liquid";

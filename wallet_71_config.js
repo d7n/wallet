@@ -1,1 +1,1 @@
-var mnemonic = "family mesh report proud oval foam soldier glow wisdom tone cycle essence";
+var mnemonic = "spoil engage sudden lady limb major nation like hazard throw wagon glory";

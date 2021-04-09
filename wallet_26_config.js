@@ -1,1 +1,1 @@
-var mnemonic = "excuse inspire hurdle cargo mystery scan quiz push outside devote green obscure";
+var mnemonic = "popular pluck welcome trial pledge trash dose jeans speed owner ignore dream";

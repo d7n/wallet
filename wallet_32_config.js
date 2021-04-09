@@ -1,1 +1,1 @@
-var mnemonic = "witness option clump deposit long vanish spare arrive analyst arrive kitten pond";
+var mnemonic = "people olive note broom course circle kind ask still crucial gravity nest";

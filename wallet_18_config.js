@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo label tree simple level turkey develop forward frost admit buyer ten";
+var mnemonic = "vicious plate artist release force bright vendor useless width icon trouble void";

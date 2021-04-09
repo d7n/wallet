@@ -1,1 +1,1 @@
-var mnemonic = "better warrior celery bubble visa bridge depart fossil observe expect sign brisk";
+var mnemonic = "glimpse city escape squeeze sheriff federal raccoon girl sibling assist million myself";

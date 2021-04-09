@@ -1,1 +1,1 @@
-var mnemonic = "junk shoot dynamic dolphin sugar ethics unusual cloth oil prosper deal process";
+var mnemonic = "carbon echo deputy stereo finish tortoise absurd sail snow express swamp entry";

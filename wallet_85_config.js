@@ -1,1 +1,1 @@
-var mnemonic = "exchange narrow multiply holiday pave scissors dial ordinary gym balance useless opinion";
+var mnemonic = "destroy acquire day street page curtain road steak north fuel soup join";

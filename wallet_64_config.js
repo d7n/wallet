@@ -1,1 +1,1 @@
-var mnemonic = "prevent dragon theme brand federal potato fine strong possible top hard oval";
+var mnemonic = "kid peasant banner chef science soul noodle because crash mammal educate flame";

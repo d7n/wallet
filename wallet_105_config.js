@@ -1,1 +1,1 @@
-var mnemonic = "share escape shock advice pull raise agree clay interest material sauce biology";
+var mnemonic = "bullet random grab repeat love express pupil silly put journey enhance group";

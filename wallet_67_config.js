@@ -1,1 +1,1 @@
-var mnemonic = "slender easy adjust change repeat chalk polar feel choice crawl remove execute";
+var mnemonic = "scene drastic return unaware phrase tackle online sick target sketch have mobile";

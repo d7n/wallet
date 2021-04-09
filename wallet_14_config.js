@@ -1,1 +1,1 @@
-var mnemonic = "aware ivory invite own car habit breeze real hill assault hub version";
+var mnemonic = "yard later oppose valley swim recipe enough horse coconut sword project label";

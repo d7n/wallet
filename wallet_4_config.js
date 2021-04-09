@@ -1,1 +1,1 @@
-var mnemonic = "patient glow physical differ virus denial yard cupboard electric stem cup loan";
+var mnemonic = "rice extend year saddle agree maple slice defense produce correct master gallery";

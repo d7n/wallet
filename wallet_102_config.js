@@ -1,1 +1,1 @@
-var mnemonic = "drama vacant bounce blur load number radio explain engage hint glove meat";
+var mnemonic = "select embrace forget together expire pear sort where huge broccoli bundle armed";

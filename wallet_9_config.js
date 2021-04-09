@@ -1,1 +1,1 @@
-var mnemonic = "awesome tool flame gap clever rapid endless alcohol grass boss canoe improve";
+var mnemonic = "street illness airport because swamp faculty toy behind actual aim holiday globe";

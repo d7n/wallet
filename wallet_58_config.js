@@ -1,1 +1,1 @@
-var mnemonic = "sister escape still since bracket trigger drum curtain actress offer merge regular";
+var mnemonic = "glance patient item perfect hurdle purity feed fat stem tattoo bag inside";

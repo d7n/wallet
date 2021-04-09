@@ -1,1 +1,1 @@
-var mnemonic = "hockey excite rubber obtain slush pear upgrade gasp position exhibit own bar";
+var mnemonic = "equal follow vendor amused twice cabbage trigger dash pony shuffle output quarter";

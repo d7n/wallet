@@ -1,1 +1,1 @@
-var mnemonic = "identify before vast exist trouble install team kitchen major always rotate trigger";
+var mnemonic = "foam thunder hole endless cluster gather edge candy dwarf weasel plunge flat";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon zebra during into fetch exact choice rhythm replace pluck key safe";
+var mnemonic = "unit brush series just unfair wrap art lunar arena vital network drop";

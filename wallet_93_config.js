@@ -1,1 +1,1 @@
-var mnemonic = "frame obtain blast recycle dish aunt escape deliver daughter celery alert spare";
+var mnemonic = "guitar type orient guilt credit flush solar harbor object admit analyst file";

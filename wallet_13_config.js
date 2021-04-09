@@ -1,1 +1,1 @@
-var mnemonic = "glide paddle furnace skirt toy reform assume magnet aspect law essay spatial";
+var mnemonic = "crumble confirm diamond isolate blouse shoot tiger taste laugh dinner setup ordinary";

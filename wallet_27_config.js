@@ -1,1 +1,1 @@
-var mnemonic = "act dizzy game endless catalog embark shallow rail wire knee camp need";
+var mnemonic = "dial general notable priority canal mad object hope quick earth draft again";

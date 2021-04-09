@@ -1,1 +1,1 @@
-var mnemonic = "resist spread trophy drink brand meadow miracle coin lesson talent fragile bone";
+var mnemonic = "detect visit hungry civil path you risk weasel control make public stamp";

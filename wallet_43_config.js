@@ -1,1 +1,1 @@
-var mnemonic = "follow vivid ride day puzzle echo nature world chimney crumble little review";
+var mnemonic = "prefer border high wedding admit gesture way day tongue bracket idle point";

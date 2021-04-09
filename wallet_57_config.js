@@ -1,1 +1,1 @@
-var mnemonic = "cement maple soda recall curve motion mention mechanic remove mistake behave prefer";
+var mnemonic = "track square recall shoulder tell surface scout penalty debate grant season loop";

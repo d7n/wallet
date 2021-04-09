@@ -1,1 +1,1 @@
-var mnemonic = "vote father beyond budget else fan exhaust subway arrow leaf weapon habit";
+var mnemonic = "brain belt gaze until quantum quality salmon diesel advice pride prepare banner";

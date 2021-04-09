@@ -1,1 +1,1 @@
-var mnemonic = "similar bottom hole member north alone debris reduce corn pole dynamic dose";
+var mnemonic = "elegant mixed ribbon conduct guess absurd country monkey hybrid regular kitten surround";

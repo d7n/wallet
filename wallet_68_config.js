@@ -1,1 +1,1 @@
-var mnemonic = "waste glass chef diary between basket unique festival depth comfort spring rescue";
+var mnemonic = "sudden attract odor angle blouse boring security oil neck cake present come";

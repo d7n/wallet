@@ -1,1 +1,1 @@
-var mnemonic = "someone stay empty fog sustain alert front label slight hello few genre";
+var mnemonic = "crater sort parent dad skin true fringe member curious blush winter vault";

@@ -1,1 +1,1 @@
-var mnemonic = "sail junk butter announce audit canal cannon pumpkin soda manage staff segment";
+var mnemonic = "ski switch staff love turtle twenty inherit dizzy bracket dad screen reunion";

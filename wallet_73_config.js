@@ -1,1 +1,1 @@
-var mnemonic = "vivid try bright tomorrow fly ring slam scout leaf unveil cancel occur";
+var mnemonic = "legend canvas kangaroo fire verify pull what final trophy become ahead bright";

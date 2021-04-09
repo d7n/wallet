@@ -1,1 +1,1 @@
-var mnemonic = "soup middle derive reflect mad onion rack alcohol stairs sting still robot";
+var mnemonic = "foam hedgehog business minimum kit taxi plunge trophy stay hello execute balance";

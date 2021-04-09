@@ -1,1 +1,1 @@
-var mnemonic = "leader bless okay neutral film giant resource section nature coffee celery early";
+var mnemonic = "elder seven habit amount abstract juice drama predict alter moral true cargo";

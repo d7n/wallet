@@ -1,1 +1,1 @@
-var mnemonic = "retire coffee moment garden lecture grass place bird crunch desk rail maze";
+var mnemonic = "bottom sorry embark amazing acid inspire convince midnight crouch film identify harbor";

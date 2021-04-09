@@ -1,1 +1,1 @@
-var mnemonic = "rubber popular usage antenna document book ginger trouble kitchen renew vital dragon";
+var mnemonic = "damp reason blind bachelor paddle power quantum fever horn miracle genius weapon";

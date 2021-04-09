@@ -1,1 +1,1 @@
-var mnemonic = "female raw size ready reject pilot negative opinion brand wash shield idle";
+var mnemonic = "evidence tackle ceiling orient treat warfare fold frost glue lounge truck pass";

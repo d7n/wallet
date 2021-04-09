@@ -1,1 +1,1 @@
-var mnemonic = "impact hunt solve like unique patient price pudding frequent toe purity quote";
+var mnemonic = "drastic exact tourist outside absorb prepare quarter because suffer about accuse kiss";

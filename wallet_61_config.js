@@ -1,1 +1,1 @@
-var mnemonic = "rug miracle income visa trigger gaze fiscal roof bid sudden decrease north";
+var mnemonic = "patch jacket move life regular liar saddle tragic coach float athlete depth";

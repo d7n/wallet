@@ -1,1 +1,1 @@
-var mnemonic = "best lumber bench slush lion bitter invite enrich dose inch vapor chapter";
+var mnemonic = "camera auction spot arm pencil initial enact liquid reason post route next";

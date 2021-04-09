@@ -1,1 +1,1 @@
-var mnemonic = "embark tank grab body develop enemy scrub before satisfy trouble ship torch";
+var mnemonic = "replace steel art stay expire bullet eyebrow genre winter deer sing equip";

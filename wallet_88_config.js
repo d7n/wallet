@@ -1,1 +1,1 @@
-var mnemonic = "false angle food stuff future bridge trumpet frequent waste two equip vacant";
+var mnemonic = "remove pelican pond main chalk typical joy girl own garage moral develop";

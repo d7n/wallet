@@ -1,1 +1,1 @@
-var mnemonic = "hour only bronze speed festival danger virtual scrap journey main effort clerk";
+var mnemonic = "nerve corn pottery fold hamster space equip mad chat relief exhaust wolf";

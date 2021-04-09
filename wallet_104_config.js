@@ -1,1 +1,1 @@
-var mnemonic = "provide pair ordinary grant bar voyage throw horn deer pulp portion betray";
+var mnemonic = "flower payment soon test disagree town rapid fever verb transfer swamp screen";

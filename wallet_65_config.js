@@ -1,1 +1,1 @@
-var mnemonic = "wing will cry morning jump minimum rocket hunt consider demand battle ladder";
+var mnemonic = "solution thing alpha trigger hurt run transfer success situate replace clinic dream";

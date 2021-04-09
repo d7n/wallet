@@ -1,1 +1,1 @@
-var mnemonic = "rather beyond very entry pair ten reduce couple replace vote churn panther";
+var mnemonic = "summer receive shed assault private inquiry cry whale jewel gallery clock drip";

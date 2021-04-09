@@ -1,1 +1,1 @@
-var mnemonic = "excuse disorder pill spoon dumb vibrant expose height choose truck ridge suggest";
+var mnemonic = "kidney cushion elbow fiction ripple drift burger hat magnet ribbon soccer indicate";

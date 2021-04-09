@@ -1,1 +1,1 @@
-var mnemonic = "aware tribe slogan cupboard unique dry journey debate fence anger output hello";
+var mnemonic = "tag stage feature donate differ add expand fun laptop urge arrest fiscal";

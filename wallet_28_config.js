@@ -1,1 +1,1 @@
-var mnemonic = "excite soup ramp volcano cereal shrimp into minute quality rabbit stay pass";
+var mnemonic = "inch that carbon report tone sick engine used sphere latin young photo";

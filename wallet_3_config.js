@@ -1,1 +1,1 @@
-var mnemonic = "frequent legal when hotel exist favorite resemble stuff mango cargo they traffic";
+var mnemonic = "outer prefer chapter strong embrace puppy lab luggage inject hundred figure baby";

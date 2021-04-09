@@ -1,1 +1,1 @@
-var mnemonic = "play cancel diagram write lecture champion acid dirt ecology urban bring invite";
+var mnemonic = "lift window immense seven alone easily wood witness payment orange salon actress";

@@ -1,1 +1,1 @@
-var mnemonic = "crack mercy subject amount maple convince merge fault blur okay element popular";
+var mnemonic = "spell believe fish ticket ball casual jelly rubber slam title inside end";

@@ -1,1 +1,1 @@
-var mnemonic = "scout upset elbow arm strong there caution steel panel genre bike hundred";
+var mnemonic = "grocery buzz royal circle tattoo advice paper object notice engage crouch hotel";

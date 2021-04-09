@@ -1,1 +1,1 @@
-var mnemonic = "basket quantum seek since enter way six belt parrot pact slogan atom";
+var mnemonic = "dynamic company able bottom spread agree excite simple enforce six gather maze";

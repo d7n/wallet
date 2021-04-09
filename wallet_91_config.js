@@ -1,1 +1,1 @@
-var mnemonic = "west gesture rabbit artist pull horror cloud load season struggle milk render";
+var mnemonic = "gallery field lunch erase random excite anger mother crazy level air never";

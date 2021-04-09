@@ -1,1 +1,1 @@
-var mnemonic = "bar usual cluster sponsor cluster calm neither unlock caution mystery daring rotate";
+var mnemonic = "social calm travel stay isolate cute office canyon legend piano network card";

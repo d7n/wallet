@@ -1,1 +1,1 @@
-var mnemonic = "shoot exhibit similar ostrich travel will kingdom reflect bubble recall valley kangaroo";
+var mnemonic = "voice light enforce category dragon ten away hamster explain mountain unusual ring";

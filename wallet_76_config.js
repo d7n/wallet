@@ -1,1 +1,1 @@
-var mnemonic = "town nephew virus flavor bonus volume asthma mimic sock tower fabric spatial";
+var mnemonic = "license wish orange lounge club dash tattoo attitude hazard student material budget";

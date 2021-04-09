@@ -1,1 +1,1 @@
-var mnemonic = "suspect retire length setup onion canyon upset permit cube wedding member square";
+var mnemonic = "anger record peace record disagree advice maximum lawn barely unaware omit reopen";

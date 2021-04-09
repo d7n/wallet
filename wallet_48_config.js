@@ -1,1 +1,1 @@
-var mnemonic = "elbow easily garment proud warm erupt law grunt fancy envelope cinnamon wedding";
+var mnemonic = "say again lumber celery twelve history point relief more prison office amount";

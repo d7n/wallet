@@ -1,1 +1,1 @@
-var mnemonic = "lava lazy twenty sweet size steel olive pledge logic lens project small";
+var mnemonic = "fringe dream afraid impose believe gift elbow super copper tourist roof combine";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight jewel ensure shoulder wage now blame weekend sunny useless olympic kiwi";
+var mnemonic = "rotate milk modify claim attend parent belt pill problem define wool assist";

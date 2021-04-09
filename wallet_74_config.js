@@ -1,1 +1,1 @@
-var mnemonic = "tobacco divert cigar gadget child proud session audit present win brain stage";
+var mnemonic = "current fresh limb eager artist belt frost blanket book era glory rail";

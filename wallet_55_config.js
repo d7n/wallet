@@ -1,1 +1,1 @@
-var mnemonic = "resource topple insect promote embrace invite lock soft teach bike hospital resist";
+var mnemonic = "soft fuel open boil mouse stomach point pizza question struggle thrive only";

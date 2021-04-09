@@ -1,1 +1,1 @@
-var mnemonic = "banner act better avocado decide oil grunt practice near notable essay infant";
+var mnemonic = "syrup obvious orphan baby embark tired palm latin achieve cannon cover music";

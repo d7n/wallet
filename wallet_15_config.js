@@ -1,1 +1,1 @@
-var mnemonic = "panic adapt file first zero zoo destroy car actual live task east";
+var mnemonic = "coral end crash involve puppy biology lounge certain sell beef danger glimpse";

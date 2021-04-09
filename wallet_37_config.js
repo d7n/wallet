@@ -1,1 +1,1 @@
-var mnemonic = "column patch now witness pistol carbon tackle either into almost chuckle mandate";
+var mnemonic = "program robust victory step dress nation forward clap step rent trophy shy";

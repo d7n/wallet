@@ -1,1 +1,1 @@
-var mnemonic = "result lava ghost shed wolf core pair empower pony merit maid sponsor";
+var mnemonic = "phone kind stand carpet wing loud never obey exotic cover aisle drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp leg exit forget hobby pact ranch orphan rhythm health vivid legend";
+var mnemonic = "duty toy mirror dose panic gather service depart know border ridge actor";

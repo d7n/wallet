@@ -1,1 +1,1 @@
-var mnemonic = "model length nominee pepper local submit ordinary vivid employ twelve argue bounce";
+var mnemonic = "method garbage couch swear diary increase salmon urban travel myself rule thing";

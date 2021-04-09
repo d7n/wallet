@@ -1,1 +1,1 @@
-var mnemonic = "dry chuckle ostrich grocery pulse hand misery prize tide slam become zebra";
+var mnemonic = "next roast volcano dust gesture dizzy pumpkin peasant radio remind jewel winner";

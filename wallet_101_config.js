@@ -1,1 +1,1 @@
-var mnemonic = "oblige like analyst yellow degree length off category repair waste more quantum";
+var mnemonic = "poet first symptom burst still romance round helmet write cost yellow coconut";

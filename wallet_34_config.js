@@ -1,1 +1,1 @@
-var mnemonic = "gold shrug artefact hedgehog buyer section script regular wave cancel island bitter";
+var mnemonic = "panther error clog search cigar name gossip tuition garden glance squirrel okay";

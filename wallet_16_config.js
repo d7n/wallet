@@ -1,1 +1,1 @@
-var mnemonic = "today farm loop endless accident spend destroy curious yellow sunset payment sort";
+var mnemonic = "urge online wear weapon stamp rally sort easily genre relax wood area";
