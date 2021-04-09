@@ -1,1 +1,1 @@
-var mnemonic = "fatigue sell resemble embody faint exchange end caution dragon damage melt winner";
+var mnemonic = "jacket bone behind tunnel client lucky grit culture embark neck soccer cradle";

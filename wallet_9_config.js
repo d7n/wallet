@@ -1,1 +1,1 @@
-var mnemonic = "room maid mixed quiz art ship attack aerobic border gap giggle maid";
+var mnemonic = "alert dance salute hungry horn maple improve like royal someone grant tuna";

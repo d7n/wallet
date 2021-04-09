@@ -1,1 +1,1 @@
-var mnemonic = "six wild solar torch pond almost imitate strike combine tomorrow dragon real";
+var mnemonic = "purchase raise nest matter tornado drum explain sketch tomorrow proof curve fancy";

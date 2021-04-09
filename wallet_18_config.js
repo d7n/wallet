@@ -1,1 +1,1 @@
-var mnemonic = "ability only symptom solar ship plug diagram advice screen avocado improve alcohol";
+var mnemonic = "diary virtual govern neither black cheap inspire carpet scheme future flame sting";

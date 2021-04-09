@@ -1,1 +1,1 @@
-var mnemonic = "hill enough happy over file shell result mango bring language notable balance";
+var mnemonic = "large degree tennis pattern ball okay design voice pluck curve mother unfair";

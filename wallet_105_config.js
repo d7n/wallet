@@ -1,1 +1,1 @@
-var mnemonic = "zoo ski position weasel draw recipe route help only gap indoor survey";
+var mnemonic = "weather shuffle degree patient dirt dune minimum bag fiscal season absent barely";

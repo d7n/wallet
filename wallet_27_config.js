@@ -1,1 +1,1 @@
-var mnemonic = "host effort castle move lottery game pilot slice clinic crew educate shove";
+var mnemonic = "rice shaft choice flat antique drill stereo oyster reunion clown tennis weird";

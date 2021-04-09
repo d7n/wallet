@@ -1,1 +1,1 @@
-var mnemonic = "athlete assist degree series hard cook witness have mobile style pet leg";
+var mnemonic = "unlock vessel face predict floor suit island chest pencil vessel beef amused";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic exit smooth like talent treat slot economy sound symptom blue blame";
+var mnemonic = "dice dinosaur record milk season doctor angle title once link unlock middle";

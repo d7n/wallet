@@ -1,1 +1,1 @@
-var mnemonic = "wheat bleak actor pumpkin carry quantum jewel trigger vendor river combine lady";
+var mnemonic = "want mouse owner wall photo obtain spy puppy you foster jewel mirror";

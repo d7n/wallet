@@ -1,1 +1,1 @@
-var mnemonic = "odor style oxygen between endorse disease ancient film control card patrol inspire";
+var mnemonic = "defy junior miss produce relief elephant plunge yellow stove wave never task";

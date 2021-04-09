@@ -1,1 +1,1 @@
-var mnemonic = "spring ignore athlete this screen fuel unfair egg client unit engine between";
+var mnemonic = "turn series robot burden destroy pair machine mandate item immune panther unique";

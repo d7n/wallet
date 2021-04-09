@@ -1,1 +1,1 @@
-var mnemonic = "virus pill boss run battle coyote dash surge glove merry warm toast";
+var mnemonic = "boss sheriff scatter bubble brick add pledge legend burst iron music fence";

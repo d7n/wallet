@@ -1,1 +1,1 @@
-var mnemonic = "brief noise void roast know door heavy smoke scrub wave salute atom";
+var mnemonic = "square under section wrestle carbon solid stick same unaware cruise awesome alone";

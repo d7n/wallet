@@ -1,1 +1,1 @@
-var mnemonic = "issue gadget school panda buddy make involve problem glad orbit must fish";
+var mnemonic = "meat hawk copper sense trial usual grace duck chase enemy action near";

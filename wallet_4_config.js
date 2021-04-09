@@ -1,1 +1,1 @@
-var mnemonic = "ball exclude clog output brass maze shallow diary twice start ketchup angle";
+var mnemonic = "derive glow sustain defense camp nice vapor vicious nurse refuse roof room";

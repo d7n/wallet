@@ -1,1 +1,1 @@
-var mnemonic = "purchase party breeze thought monkey hundred payment audit nephew escape awful network";
+var mnemonic = "spare expire belt wasp junk fame rescue wagon pelican hundred place beef";

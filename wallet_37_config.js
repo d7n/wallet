@@ -1,1 +1,1 @@
-var mnemonic = "earn people fantasy cheese retire sausage season spell defense flight artist suffer";
+var mnemonic = "husband security puppy crime salute combine own web filter adult march under";

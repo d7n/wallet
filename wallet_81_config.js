@@ -1,1 +1,1 @@
-var mnemonic = "scale cluster luggage cause real double rail glimpse ivory festival involve dumb";
+var mnemonic = "clay insect slush upset skin evil gravity open smart describe review refuse";

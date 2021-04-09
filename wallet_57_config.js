@@ -1,1 +1,1 @@
-var mnemonic = "rail style burger popular ceiling edit reward dynamic yard beyond captain jelly";
+var mnemonic = "innocent loan spoon subject tower bean wing dwarf level make produce someone";

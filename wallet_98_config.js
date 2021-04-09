@@ -1,1 +1,1 @@
-var mnemonic = "heart human web story gorilla more width concert bamboo mixed coral know";
+var mnemonic = "divide vacant hire wise fringe door ignore tomorrow permit vendor fluid bid";

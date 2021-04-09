@@ -1,1 +1,1 @@
-var mnemonic = "clutch nation mixture wish weasel seek sun cost picnic west comfort wood";
+var mnemonic = "shoulder erupt surface toddler state fan service robot file thrive bargain found";

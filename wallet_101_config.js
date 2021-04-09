@@ -1,1 +1,1 @@
-var mnemonic = "submit equal mutual fatal ride palm twenty midnight lion unit yard badge";
+var mnemonic = "also wage vote uphold rather apple popular vivid strategy action identify base";

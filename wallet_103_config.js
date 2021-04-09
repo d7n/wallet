@@ -1,1 +1,1 @@
-var mnemonic = "error jaguar local arena face onion syrup know kite welcome argue cube";
+var mnemonic = "start daughter slot snake orient blast fiber destroy ship fetch hire fold";

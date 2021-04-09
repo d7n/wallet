@@ -1,1 +1,1 @@
-var mnemonic = "ghost cabbage leave earn faculty awkward victory satisfy business soap draw link";
+var mnemonic = "green gloom economy trap faith visual double huge chapter wave screen multiply";

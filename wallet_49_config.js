@@ -1,1 +1,1 @@
-var mnemonic = "welcome toilet pitch suspect load able gloom squeeze belt describe multiply female";
+var mnemonic = "actress coil remember fiscal online globe organ fiction margin drill vessel vacuum";

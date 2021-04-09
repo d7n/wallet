@@ -1,1 +1,1 @@
-var mnemonic = "type novel level return order common crisp cram over hold crystal bamboo";
+var mnemonic = "cook beach valve access entry blush chimney ugly hurry resist imitate life";

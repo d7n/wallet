@@ -1,1 +1,1 @@
-var mnemonic = "stick find deputy spike jealous leader youth cousin jazz husband mean abuse";
+var mnemonic = "topple ordinary fortune tiger virtual amazing remember lend order vintage poverty stove";

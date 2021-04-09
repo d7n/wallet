@@ -1,1 +1,1 @@
-var mnemonic = "ghost logic volcano antenna boy solution scare you solar mom dish visit";
+var mnemonic = "term work require rebuild jar laugh abuse box book soap just explain";

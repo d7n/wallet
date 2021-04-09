@@ -1,1 +1,1 @@
-var mnemonic = "render rigid away relief assault prepare witness rain prison inspire purchase illness";
+var mnemonic = "view economy isolate audit ticket motor marble noodle multiply chicken forget lock";

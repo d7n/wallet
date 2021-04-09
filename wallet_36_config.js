@@ -1,1 +1,1 @@
-var mnemonic = "charge enhance dragon pulp tape connect garden slender flock donor gun napkin";
+var mnemonic = "isolate atom survey ship civil view call estate document timber sentence start";

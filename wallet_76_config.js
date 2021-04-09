@@ -1,1 +1,1 @@
-var mnemonic = "bomb amazing gap debate blouse surface anchor fine forget shy spawn super";
+var mnemonic = "coral report cattle trip west pelican crater drink tool tool urge energy";

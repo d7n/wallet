@@ -1,1 +1,1 @@
-var mnemonic = "hundred fragile saddle cable mutual patient ugly they toilet donate square thought";
+var mnemonic = "wink lab flame hour deer spot section kick dad subject admit cook";

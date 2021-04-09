@@ -1,1 +1,1 @@
-var mnemonic = "voice sphere useful soon tell attack roast office squirrel join bridge radio";
+var mnemonic = "spin tourist filter matrix eagle taxi lunar bulb sphere hollow lobster twelve";

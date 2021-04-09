@@ -1,1 +1,1 @@
-var mnemonic = "remain wide emerge spin cable middle ancient youth father galaxy find unique";
+var mnemonic = "peanut raw tray stomach wire punch loyal fruit awake raise hard balance";

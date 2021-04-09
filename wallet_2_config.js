@@ -1,1 +1,1 @@
-var mnemonic = "segment bus armed guess hundred duty snack parent menu skin item trend";
+var mnemonic = "public damage shrug sure pen area invite erode team call text blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze neutral mad kangaroo ribbon napkin february rail front deliver swing attack";
+var mnemonic = "filter appear easily virtual exhaust fit solid voice fossil key elephant boat";

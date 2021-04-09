@@ -1,1 +1,1 @@
-var mnemonic = "law funny scheme educate giant remember noble label dirt mansion pencil want";
+var mnemonic = "link special deposit bless enemy celery pioneer behave later digital seat pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate escape jelly dilemma midnight mystery also cat laugh employ afraid fashion";
+var mnemonic = "oven news pony fold gift leaf minute wet toddler ethics vicious color";

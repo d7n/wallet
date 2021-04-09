@@ -1,1 +1,1 @@
-var mnemonic = "dune rug pond work soap noise salt plate pet siren patrol drive";
+var mnemonic = "globe infant deny adjust story camp combine library mountain soap inhale giant";

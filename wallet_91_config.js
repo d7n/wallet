@@ -1,1 +1,1 @@
-var mnemonic = "payment like dawn fatigue large pull lady consider spray surround index destroy";
+var mnemonic = "fog silk cute motor evil hope warrior crystal fee unfair stadium bench";

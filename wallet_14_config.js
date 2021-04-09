@@ -1,1 +1,1 @@
-var mnemonic = "cement hunt ozone steak rifle forward kit area ignore ocean crime sting";
+var mnemonic = "disease usage wait disagree desk now army card fan badge sight spawn";

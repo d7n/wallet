@@ -1,1 +1,1 @@
-var mnemonic = "insect hover comic paddle borrow spoil patrol dutch proud clever fantasy region";
+var mnemonic = "doll wish alcohol machine region fall spike emotion supreme plug piece fancy";

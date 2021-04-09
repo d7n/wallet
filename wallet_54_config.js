@@ -1,1 +1,1 @@
-var mnemonic = "master eagle guard phone receive across walk shoot town auto caution boss";
+var mnemonic = "decide hurdle edit depart replace wife gloom glory renew exchange can science";

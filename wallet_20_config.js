@@ -1,1 +1,1 @@
-var mnemonic = "say laundry young crisp innocent wasp rice special reject casino solid home";
+var mnemonic = "paddle isolate myself goddess waste wasp april badge view afraid shed aim";

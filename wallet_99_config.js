@@ -1,1 +1,1 @@
-var mnemonic = "useless worth ride rescue question control unaware solve luggage thank zone assist";
+var mnemonic = "toe early tackle negative upon inner banana galaxy bottom flip odor maple";

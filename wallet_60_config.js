@@ -1,1 +1,1 @@
-var mnemonic = "smart friend bike dutch lift amateur wet person abstract scorpion rose discover";
+var mnemonic = "unfair vehicle happy message alarm recipe resemble polar must size believe solid";

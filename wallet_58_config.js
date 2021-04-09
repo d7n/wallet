@@ -1,1 +1,1 @@
-var mnemonic = "tortoise yellow bid kingdom end false raise era until race mountain biology";
+var mnemonic = "column between ivory noodle pony shrimp raise water jar soap piece actress";

@@ -1,1 +1,1 @@
-var mnemonic = "ring episode action anxiety language random west copy truly lion else divorce";
+var mnemonic = "wing find whisper inform march brain decorate edge pulp success bright eye";

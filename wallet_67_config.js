@@ -1,1 +1,1 @@
-var mnemonic = "coral right diamond often lizard ski alarm dizzy act whale track text";
+var mnemonic = "deposit desk name work wrist interest crucial horse place theme submit pipe";

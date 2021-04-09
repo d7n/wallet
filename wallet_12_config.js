@@ -1,1 +1,1 @@
-var mnemonic = "advice basket thought debris nice amount tell guess hockey table gossip middle";
+var mnemonic = "coconut arrow favorite barrel usual merge winter join replace rely loan future";

@@ -1,1 +1,1 @@
-var mnemonic = "forget super easily modify budget sadness portion thumb orange merit margin prosper";
+var mnemonic = "path keep know limb cliff notable alley skull primary else erode foster";

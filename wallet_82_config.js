@@ -1,1 +1,1 @@
-var mnemonic = "rice sphere lucky athlete excess alley adapt glow frost smoke expand reveal";
+var mnemonic = "glance like half crash senior cattle lucky radar autumn select blast atom";

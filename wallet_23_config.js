@@ -1,1 +1,1 @@
-var mnemonic = "crush forget scissors glide ribbon obscure detect error silk around sweet radar";
+var mnemonic = "capital menu angry tennis bench income birth tobacco grit drive stay screen";

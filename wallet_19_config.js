@@ -1,1 +1,1 @@
-var mnemonic = "message south hour bullet crash wait trial private bitter metal hammer involve";
+var mnemonic = "depart pull season pear diamond beach bacon depth sure proof kiwi rice";

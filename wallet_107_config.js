@@ -1,1 +1,1 @@
-var mnemonic = "amused sauce gate leg curious lawsuit plunge dignity world drop remember river";
+var mnemonic = "monitor donkey cover armor idea rally pair ketchup guitar exhaust catch cancel";

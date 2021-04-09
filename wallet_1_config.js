@@ -1,1 +1,1 @@
-var mnemonic = "tree boost apple mean nothing blade kick obtain escape nut phone project";
+var mnemonic = "steel apple brisk hawk box grass guilt transfer ring genuine husband youth";

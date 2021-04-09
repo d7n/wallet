@@ -1,1 +1,1 @@
-var mnemonic = "cup topple betray wise bitter orchard garbage critic obscure magic usual design";
+var mnemonic = "despair insect mail buddy trigger street target monster shock base october shift";

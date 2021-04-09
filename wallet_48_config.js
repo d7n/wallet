@@ -1,1 +1,1 @@
-var mnemonic = "concert book typical next social worry oblige expand first devote safe spray";
+var mnemonic = "chest wire acid wagon design toast armed eye return quality bamboo food";

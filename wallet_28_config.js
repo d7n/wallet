@@ -1,1 +1,1 @@
-var mnemonic = "notable bicycle hero analyst during kiss rifle column any leg announce confirm";
+var mnemonic = "boring material enact drum lizard laundry govern describe monster lady shock creek";

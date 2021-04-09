@@ -1,1 +1,1 @@
-var mnemonic = "cabin cake crystal valve steak title else enemy filter disagree hill damp";
+var mnemonic = "dwarf broccoli track merit lounge kidney length advice fresh across merge depth";

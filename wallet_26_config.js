@@ -1,1 +1,1 @@
-var mnemonic = "box mouse electric attend long exchange announce cream tide buddy urge pass";
+var mnemonic = "price fury miracle robust unique since shadow region bachelor close portion present";

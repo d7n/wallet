@@ -1,1 +1,1 @@
-var mnemonic = "come almost pass muffin chase replace deny flower path gadget chalk flush";
+var mnemonic = "source settle woman garlic pen weekend average decline rail bright purpose cradle";

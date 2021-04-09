@@ -1,1 +1,1 @@
-var mnemonic = "bargain common gravity vivid window figure color ecology habit injury coin radar";
+var mnemonic = "suggest rent rather token snow duck toast debris retreat alien onion idea";

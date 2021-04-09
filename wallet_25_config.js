@@ -1,1 +1,1 @@
-var mnemonic = "erupt profit spawn uncover gun whisper worry wing walk scrap cat cram";
+var mnemonic = "spike base quarter turn pole cage exact reform company gorilla alley wash";

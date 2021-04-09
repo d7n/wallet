@@ -1,1 +1,1 @@
-var mnemonic = "verify skin purse claw garden correct cruel resemble maple walk spoon crystal";
+var mnemonic = "fault pride merry anchor feed tornado december visual finish master chief report";

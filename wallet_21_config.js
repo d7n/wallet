@@ -1,1 +1,1 @@
-var mnemonic = "maid derive measure hope erase tuition spy income sorry busy various way";
+var mnemonic = "metal hundred oil fold ocean flip yellow tower lawn upper service fuel";

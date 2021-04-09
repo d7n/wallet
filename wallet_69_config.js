@@ -1,1 +1,1 @@
-var mnemonic = "boat topple act talent order what image power glance learn empower clever";
+var mnemonic = "glue unaware must over tip smart ostrich custom useless rebel sport stem";

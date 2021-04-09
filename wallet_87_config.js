@@ -1,1 +1,1 @@
-var mnemonic = "roast icon nation drift pioneer rally clock leader squeeze arrive belt furnace";
+var mnemonic = "increase debate stamp cover school clown taxi cherry bar typical jaguar where";

@@ -1,1 +1,1 @@
-var mnemonic = "swim dutch faint coin hundred anxiety wear unknown mutual tortoise mechanic hair";
+var mnemonic = "perfect happy embody test army minute lake gesture select autumn eagle bridge";

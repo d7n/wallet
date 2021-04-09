@@ -1,1 +1,1 @@
-var mnemonic = "ostrich canvas mirror coffee marine item mask awful frame robust about north";
+var mnemonic = "install mystery enjoy genre song oval pitch donkey circle pistol grain tooth";

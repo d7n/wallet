@@ -1,1 +1,1 @@
-var mnemonic = "right system web juice seven abandon safe face tell pepper emotion horse";
+var mnemonic = "stick employ power silent truck source elbow volume gorilla way spawn beauty";

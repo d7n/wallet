@@ -1,1 +1,1 @@
-var mnemonic = "duck quantum thank trap episode sun gain already february moment stereo glove";
+var mnemonic = "trial kiss mean sorry someone quiz struggle gate wash genre switch six";

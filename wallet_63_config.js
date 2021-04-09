@@ -1,1 +1,1 @@
-var mnemonic = "nasty pear midnight beach travel orphan wrist circle crew spice funny bubble";
+var mnemonic = "length globe real vintage rather fade nature match deer mechanic oil remember";

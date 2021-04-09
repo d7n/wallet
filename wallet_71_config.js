@@ -1,1 +1,1 @@
-var mnemonic = "december cheese win life level rail canoe opera trap license essay feed";
+var mnemonic = "leader powder nuclear sight blouse jelly flag report private kitchen winner deny";

@@ -1,1 +1,1 @@
-var mnemonic = "total raw patrol treat cactus lady safe monster flame prize skill neutral";
+var mnemonic = "lake observe know midnight liar merit denial silent galaxy wish right remember";

@@ -1,1 +1,1 @@
-var mnemonic = "opera shallow couple gather advice amazing video canyon spend potato tribe toy";
+var mnemonic = "item girl drip essence zoo buyer among palm resemble impulse narrow chef";

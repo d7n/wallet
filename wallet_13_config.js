@@ -1,1 +1,1 @@
-var mnemonic = "rude nurse buffalo survey doll ride garlic rifle brass distance naive travel";
+var mnemonic = "knock exotic festival blossom morning flavor hole stadium festival core often choose";

@@ -1,1 +1,1 @@
-var mnemonic = "trash audit derive conduct manage neither remove marble feature jewel miracle fury";
+var mnemonic = "outer hurry scorpion ostrich please correct immune truth speed dumb girl radar";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive shallow wife stock call biology green juice rubber ball smile eternal";
+var mnemonic = "ignore review remove execute rally guide glance sponsor mango question render wire";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty judge bread explain resource near fantasy deputy bubble trash journey bargain";
+var mnemonic = "immune stairs van veteran private father water moon script trap aware solution";

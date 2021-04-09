@@ -1,1 +1,1 @@
-var mnemonic = "educate lunch math cook annual flower runway chest chase steel buzz goddess";
+var mnemonic = "liquid solution flip sleep inflict peace patch all amount sample know romance";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding unknown basic regular recipe thing twelve auto modify custom discover decorate";
+var mnemonic = "voyage surround connect fold taxi afraid moment review ladder logic sunset surface";

@@ -1,1 +1,1 @@
-var mnemonic = "bus umbrella primary bind kidney plug ready razor bargain keen choose news";
+var mnemonic = "vacuum cheese caught bird marine badge easily eternal inner treat opera resist";

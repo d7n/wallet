@@ -1,1 +1,1 @@
-var mnemonic = "fee local strike permit depth output develop candy hat soccer yellow during";
+var mnemonic = "alarm small match warrior assume rely cushion top survey screen situate device";

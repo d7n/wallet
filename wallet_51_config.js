@@ -1,1 +1,1 @@
-var mnemonic = "clutch soda spatial squeeze program congress renew hat chief execute argue gaze";
+var mnemonic = "early pudding middle ramp rack fold crowd crush fiber ride tourist slight";
