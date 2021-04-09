@@ -1,1 +1,1 @@
-var mnemonic = "chair taxi leisure find ill lesson fossil bless garbage rely minor cable";
+var mnemonic = "fiscal busy remember device body adapt shadow error piano victory answer toddler";

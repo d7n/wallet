@@ -1,1 +1,1 @@
-var mnemonic = "pole mouse nurse resemble baby ice struggle lady attend ride random pigeon";
+var mnemonic = "wink brand ask make hurry exotic popular ethics sail kite because pledge";

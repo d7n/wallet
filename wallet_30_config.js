@@ -1,1 +1,1 @@
-var mnemonic = "ladder scout upgrade bubble ethics much rule demand misery tube tennis issue";
+var mnemonic = "sibling recall unknown forest math debate ginger change small exotic vehicle shadow";

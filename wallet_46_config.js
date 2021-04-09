@@ -1,1 +1,1 @@
-var mnemonic = "wasp grass kitchen seat ketchup renew wrong hand mushroom sand angle pyramid";
+var mnemonic = "course valid slim height south enable crowd record noble talent neither divorce";

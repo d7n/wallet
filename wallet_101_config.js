@@ -1,1 +1,1 @@
-var mnemonic = "voyage axis toast citizen choose pencil kidney find bid brand indicate subject";
+var mnemonic = "retreat ride disagree pride strong seven bracket avocado crumble gossip current soft";

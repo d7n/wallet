@@ -1,1 +1,1 @@
-var mnemonic = "invite trash equal fault old clay legal loud gym language december morning";
+var mnemonic = "army tank piano fiscal adjust present master zero desert dinosaur hurry relief";

@@ -1,1 +1,1 @@
-var mnemonic = "urban hamster fault seed naive shine daughter rubber whisper base crash update";
+var mnemonic = "laundry argue future put soon front reason adapt husband twist scheme zero";

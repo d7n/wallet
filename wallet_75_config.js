@@ -1,1 +1,1 @@
-var mnemonic = "luxury impose case funny real across hat knife neglect coast swap juice";
+var mnemonic = "until book cable foot salon gossip arena orphan name catch walnut analyst";

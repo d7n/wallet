@@ -1,1 +1,1 @@
-var mnemonic = "mad volume eye powder female click wrist civil wasp march slab retreat";
+var mnemonic = "fiber minor coast grief grace unfold this release credit orchard off dust";

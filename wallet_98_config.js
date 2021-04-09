@@ -1,1 +1,1 @@
-var mnemonic = "crystal hurt flock desert quote business approve piano inject ordinary window milk";
+var mnemonic = "muscle trophy rough famous essay used false draft clip cluster option wash";

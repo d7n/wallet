@@ -1,1 +1,1 @@
-var mnemonic = "letter weird envelope buzz lounge easy run father rather suggest hamster normal";
+var mnemonic = "judge disorder mushroom denial buddy grid spike document canoe example gown walnut";

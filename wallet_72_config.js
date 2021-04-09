@@ -1,1 +1,1 @@
-var mnemonic = "increase amazing sentence seed arrest silver common discover satoshi lumber novel boil";
+var mnemonic = "night drop ensure kick thank item mixed effort tone spread matter taxi";

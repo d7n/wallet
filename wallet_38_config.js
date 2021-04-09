@@ -1,1 +1,1 @@
-var mnemonic = "dune desk shiver promote orchard evidence now apple fury mansion volume business";
+var mnemonic = "hamster lawn expire siren such panel notice record rose two chest violin";

@@ -1,1 +1,1 @@
-var mnemonic = "input long bottom autumn chase inform senior rubber develop walnut gospel squirrel";
+var mnemonic = "glove song camp icon sting reunion speak mercy bleak emotion morning obscure";

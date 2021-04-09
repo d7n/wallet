@@ -1,1 +1,1 @@
-var mnemonic = "coyote girl author length soup across tape pull thunder nose arch erase";
+var mnemonic = "super school fence wall split spatial tide observe album spoil future symptom";

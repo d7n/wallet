@@ -1,1 +1,1 @@
-var mnemonic = "verb stick thunder artefact struggle amused strike achieve funny bundle orient infant";
+var mnemonic = "bullet kangaroo hockey replace describe lock glow share cross promote crumble reflect";

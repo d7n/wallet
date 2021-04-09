@@ -1,1 +1,1 @@
-var mnemonic = "teach loan auction scorpion mammal gas foil web spice sad wedding virtual";
+var mnemonic = "blade tennis coral trick ball book ski drama loan report frame dignity";

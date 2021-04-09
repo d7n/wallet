@@ -1,1 +1,1 @@
-var mnemonic = "pulse glass judge list garbage belt express maze razor town fruit all";
+var mnemonic = "wrong fever between screen ancient lava supply tumble news kiss online faint";

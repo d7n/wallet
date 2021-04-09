@@ -1,1 +1,1 @@
-var mnemonic = "air must flee aware rubber drastic fix dust grant breeze egg sing";
+var mnemonic = "circle deputy motor ladder east shoe rug impact female pause liar enable";

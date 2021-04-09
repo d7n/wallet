@@ -1,1 +1,1 @@
-var mnemonic = "coast critic fatal ceiling step material bone expect mom tennis hundred pipe";
+var mnemonic = "village toss cart page nose dirt glass palace medal imitate draft record";

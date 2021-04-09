@@ -1,1 +1,1 @@
-var mnemonic = "leg night hope tone point genius wait vocal together defy winner race";
+var mnemonic = "horse learn prize grow motor gift fresh movie involve pulse aware life";

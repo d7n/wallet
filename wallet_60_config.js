@@ -1,1 +1,1 @@
-var mnemonic = "wreck wet unusual since fiscal wage inform fog swarm quality burden voice";
+var mnemonic = "valve flame valid gloom isolate cabbage mention whale jeans thunder antenna street";

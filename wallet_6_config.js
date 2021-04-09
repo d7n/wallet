@@ -1,1 +1,1 @@
-var mnemonic = "share muscle humble equip innocent start test inspire buzz ivory chest gentle";
+var mnemonic = "shield high muscle book mind pigeon melt calm future intact coyote opera";

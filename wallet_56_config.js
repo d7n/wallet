@@ -1,1 +1,1 @@
-var mnemonic = "correct arrest reflect awesome hill sea speak soda glove flavor dance rail";
+var mnemonic = "ketchup seven almost strong budget pole edge effort wheat coin garbage history";

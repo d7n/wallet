@@ -1,1 +1,1 @@
-var mnemonic = "away equip romance improve foil club slush jewel jazz rhythm travel describe";
+var mnemonic = "oblige afford bright chest blur photo oval jelly minute among duck problem";

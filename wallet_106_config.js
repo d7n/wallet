@@ -1,1 +1,1 @@
-var mnemonic = "quick tank mistake essence heart attend element blind pond curtain mind gather";
+var mnemonic = "rose palace month artefact kitten action episode ocean know juice offer balance";

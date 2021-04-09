@@ -1,1 +1,1 @@
-var mnemonic = "manual rather huge sugar click october green valley between desk text fatigue";
+var mnemonic = "scale execute cancel attack number kit someone purchase wisdom physical state identify";

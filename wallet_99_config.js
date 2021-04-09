@@ -1,1 +1,1 @@
-var mnemonic = "nominee goddess wise guilt vanish acoustic find slam orange inflict sense knee";
+var mnemonic = "dirt sign arena glass speed about dawn flavor monitor enroll pitch scout";

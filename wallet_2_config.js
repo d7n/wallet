@@ -1,1 +1,1 @@
-var mnemonic = "thank scrub basic hurt order ankle frown tower tuna hollow sister various";
+var mnemonic = "meat belt east tide hospital foil excuse chapter husband runway guide unknown";

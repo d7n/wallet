@@ -1,1 +1,1 @@
-var mnemonic = "burger hint fork sheriff zone globe fish link spirit chunk tunnel diary";
+var mnemonic = "try solution guess cluster hockey feature shrimp wink relief tonight oyster card";

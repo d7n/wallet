@@ -1,1 +1,1 @@
-var mnemonic = "flock good young void inside short used dish sample goddess shoe museum";
+var mnemonic = "comic become between garbage army gorilla point thank bleak panda domain vacant";

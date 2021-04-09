@@ -1,1 +1,1 @@
-var mnemonic = "burst rib bonus thought ethics proud aspect bubble front city farm since";
+var mnemonic = "notable renew economy aware fruit clap ancient estate room rhythm message person";

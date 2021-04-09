@@ -1,1 +1,1 @@
-var mnemonic = "invest foster matrix unveil tape buzz fluid awesome raise tray final method";
+var mnemonic = "maximum consider cushion beauty audit spoil empty venture pipe vicious faint okay";

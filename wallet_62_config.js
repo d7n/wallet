@@ -1,1 +1,1 @@
-var mnemonic = "like orchard will vendor mass obvious gadget clog picture diesel tag wave";
+var mnemonic = "motion dune dry afford purpose crisp spot royal select display deal gate";

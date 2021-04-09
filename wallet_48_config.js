@@ -1,1 +1,1 @@
-var mnemonic = "embrace soda tissue daring news foster divorce bachelor cup output pepper repeat";
+var mnemonic = "sunny blue execute fossil sudden horror mail grain response text minor tourist";

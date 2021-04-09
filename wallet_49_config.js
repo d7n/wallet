@@ -1,1 +1,1 @@
-var mnemonic = "two profit celery staff risk wisdom naive alien assist now galaxy enough";
+var mnemonic = "twin soda change crisp bacon boy ahead remember turkey annual lyrics main";

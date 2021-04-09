@@ -1,1 +1,1 @@
-var mnemonic = "axis steel box asset noodle ritual person girl enough glow toilet uncover";
+var mnemonic = "once sauce ritual alley dilemma blade box indicate victory awake blade conduct";

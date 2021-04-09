@@ -1,1 +1,1 @@
-var mnemonic = "defense okay veteran need perfect sweet ice exit aerobic catch laptop boy";
+var mnemonic = "sleep wealth index volcano abuse lift ring easily coyote until quick list";

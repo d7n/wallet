@@ -1,1 +1,1 @@
-var mnemonic = "cover wall humble fluid favorite top roof dirt monkey whale disorder spider";
+var mnemonic = "cart fault motion blanket dutch okay wisdom love broom cover valve cost";

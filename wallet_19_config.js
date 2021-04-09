@@ -1,1 +1,1 @@
-var mnemonic = "next chalk donor ladder tribe nominee food multiply income moral cage truth";
+var mnemonic = "clever notable turtle please topple music wet asset buzz guilt unlock basket";

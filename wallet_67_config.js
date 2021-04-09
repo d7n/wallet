@@ -1,1 +1,1 @@
-var mnemonic = "evidence calm increase nuclear vanish program donor crouch ugly foil inhale team";
+var mnemonic = "spell lock prepare onion enemy forum luxury damp photo record subway notice";

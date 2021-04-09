@@ -1,1 +1,1 @@
-var mnemonic = "market evil power rug iron wave friend exchange immune sea elder run";
+var mnemonic = "main nephew swap sausage half dismiss filter episode hawk unaware hip abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "surge behave vibrant swift carbon hospital slot video family enjoy escape summer";
+var mnemonic = "region situate access crack jungle cricket path piano cupboard suit book gap";

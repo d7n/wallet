@@ -1,1 +1,1 @@
-var mnemonic = "velvet forget hover april mobile order flight gather shell language bleak knife";
+var mnemonic = "lumber culture club wall clean left scrap swap emotion about drip purse";

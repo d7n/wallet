@@ -1,1 +1,1 @@
-var mnemonic = "interest unhappy trouble chase hockey object excite base need electric much image";
+var mnemonic = "eye feel fit marine crucial mesh prosper diet legal blast tip olive";

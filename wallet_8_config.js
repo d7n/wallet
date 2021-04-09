@@ -1,1 +1,1 @@
-var mnemonic = "chair damp memory brass chalk shine prize save paper choice arrange model";
+var mnemonic = "chuckle blood gasp another level century useless render celery mutual senior snake";

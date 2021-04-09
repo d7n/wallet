@@ -1,1 +1,1 @@
-var mnemonic = "above memory cinnamon disagree ski dinosaur sick physical whip general hotel main";
+var mnemonic = "will endless inspire unknown sister sea track tiny supreme puppy shoe yard";

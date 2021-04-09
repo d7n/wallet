@@ -1,1 +1,1 @@
-var mnemonic = "dirt minimum flat wheel again require banner mechanic latin before paper into";
+var mnemonic = "melt safe place front arrange access same honey horror vicious assist exhibit";

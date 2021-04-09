@@ -1,1 +1,1 @@
-var mnemonic = "online father nurse knock pyramid artwork jeans debris arrow artist three only";
+var mnemonic = "midnight return bright segment curtain mirror card elevator firm camera reward zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "snack same setup regret distance ability reform zebra envelope asset twenty flee";
+var mnemonic = "pistol boil wheat place client globe odor maze flat asthma typical silent";

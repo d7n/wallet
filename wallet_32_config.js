@@ -1,1 +1,1 @@
-var mnemonic = "weasel claim reject glare sunny grief shift mention social puppy sock school";
+var mnemonic = "off extend spawn arrow stamp element modify shoot deputy flip essay vacant";

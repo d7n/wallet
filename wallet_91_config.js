@@ -1,1 +1,1 @@
-var mnemonic = "awesome ill gather dad link perfect guide ability double aim afford million";
+var mnemonic = "dose robust float day census grid cupboard heavy license sing cry bounce";

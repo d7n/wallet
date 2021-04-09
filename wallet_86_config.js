@@ -1,1 +1,1 @@
-var mnemonic = "reveal toy cream dragon onion mystery woman rule void wild title window";
+var mnemonic = "switch announce alarm armed render crumble motor notice nurse artist wedding crane";

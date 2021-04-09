@@ -1,1 +1,1 @@
-var mnemonic = "raise parade afford olympic thought pyramid vendor sample crumble sail certain beef";
+var mnemonic = "hill roof vacant spray depend evidence game fox powder pepper raven milk";

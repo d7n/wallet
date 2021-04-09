@@ -1,1 +1,1 @@
-var mnemonic = "entire hold offer pumpkin reveal able enjoy brisk judge credit question piano";
+var mnemonic = "attitude property domain water volume quote crazy this joke actor scene oblige";

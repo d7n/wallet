@@ -1,1 +1,1 @@
-var mnemonic = "economy hobby sphere okay never dream mixed member wing ice bubble isolate";
+var mnemonic = "tired cup fork table lobster awful coyote pipe purchase van robust guess";

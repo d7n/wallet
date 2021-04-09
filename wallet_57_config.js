@@ -1,1 +1,1 @@
-var mnemonic = "empty doctor conduct trap beyond enroll leg mandate rapid lizard gravity exhibit";
+var mnemonic = "easily angry curious tornado cook van save symptom exact since vivid start";

@@ -1,1 +1,1 @@
-var mnemonic = "economy bird write ticket gain destroy render raccoon timber bench unfold jaguar";
+var mnemonic = "finger certain surprise picnic special food napkin token cute hen motor pen";

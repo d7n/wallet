@@ -1,1 +1,1 @@
-var mnemonic = "differ duck match off primary marble paper core cart kidney script feature";
+var mnemonic = "loop crucial action brush awesome dinosaur noise entry dwarf since alley shield";

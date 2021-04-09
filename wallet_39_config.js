@@ -1,1 +1,1 @@
-var mnemonic = "birth hockey rescue debris brick ozone marriage cricket primary emotion torch estate";
+var mnemonic = "pear ask sauce either deer amazing feed pilot travel push attitude floor";

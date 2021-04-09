@@ -1,1 +1,1 @@
-var mnemonic = "myself brother rent pumpkin social correct skin room clown stumble reduce tragic";
+var mnemonic = "evoke fresh divorce erase energy broccoli filter alone unit rotate oval vicious";

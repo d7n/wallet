@@ -1,1 +1,1 @@
-var mnemonic = "shrug dragon hockey venue garment object renew drama flush endless paper puzzle";
+var mnemonic = "dirt margin pioneer artefact employ position model pipe smile arctic project jacket";

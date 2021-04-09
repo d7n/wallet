@@ -1,1 +1,1 @@
-var mnemonic = "alien poet brother exist jewel gold desert include spare sibling reunion exist";
+var mnemonic = "spy outer tent apple kidney tenant pink excess gold kite myth bird";

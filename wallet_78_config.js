@@ -1,1 +1,1 @@
-var mnemonic = "someone donor harsh action prepare final express capital exchange moment fiscal limit";
+var mnemonic = "foil dream truck crunch sister throw soccer patrol jazz ostrich organ body";

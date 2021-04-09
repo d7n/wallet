@@ -1,1 +1,1 @@
-var mnemonic = "slide glide come hood bicycle orange sword talent special more flush napkin";
+var mnemonic = "key lesson develop letter say domain waste pond before leisure wing bachelor";

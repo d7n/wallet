@@ -1,1 +1,1 @@
-var mnemonic = "common survey dry penalty scan shoulder husband afford vehicle dress raw match";
+var mnemonic = "chalk journey guide rescue hundred season void grid slow snow stable enroll";

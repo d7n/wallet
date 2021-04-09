@@ -1,1 +1,1 @@
-var mnemonic = "plunge digital anxiety page other shrug ranch piece vocal hat panther note";
+var mnemonic = "post acquire six range current cash vacant bacon company bamboo label cable";

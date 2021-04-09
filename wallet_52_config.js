@@ -1,1 +1,1 @@
-var mnemonic = "sample transfer tortoise right transfer toward sphere media purse waste hotel caught";
+var mnemonic = "mystery decline prepare found clump document album dice today knock crystal name";

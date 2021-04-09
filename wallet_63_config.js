@@ -1,1 +1,1 @@
-var mnemonic = "owner tag later slam true system track denial wasp extend envelope elevator";
+var mnemonic = "spawn inform clog prevent radio symptom car frown chat scissors funny coral";

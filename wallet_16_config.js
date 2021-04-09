@@ -1,1 +1,1 @@
-var mnemonic = "web wealth genius wolf limb woman emotion grow tenant good photo cloth";
+var mnemonic = "merry quit clay swift survey glass rain correct eight attend tackle canyon";

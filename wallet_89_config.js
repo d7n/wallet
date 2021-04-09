@@ -1,1 +1,1 @@
-var mnemonic = "owner actress stay other chronic drink fantasy oxygen dutch window maple hurry";
+var mnemonic = "machine bus expire inner multiply hobby defense response fortune lizard session elbow";

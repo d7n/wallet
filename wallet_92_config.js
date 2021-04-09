@@ -1,1 +1,1 @@
-var mnemonic = "subject genre dentist upon runway proof movie rail caught carbon track skull";
+var mnemonic = "gospel gas result cat easily sister magic forum note soon innocent stamp";

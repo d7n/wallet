@@ -1,1 +1,1 @@
-var mnemonic = "slight love idea time solution silly frost case attend connect mean illness";
+var mnemonic = "response lawsuit jelly chaos vapor cross write ability between satisfy message gallery";

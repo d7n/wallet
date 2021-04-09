@@ -1,1 +1,1 @@
-var mnemonic = "pet world vessel party poet spring kind health spy demise race bless";
+var mnemonic = "harvest behind super gather balance human buyer cruise educate decrease figure love";

@@ -1,1 +1,1 @@
-var mnemonic = "art common base foster busy crisp cave theory sentence salmon fiction market";
+var mnemonic = "custom melt slab inch like lawsuit swear glance explain strong grocery glory";

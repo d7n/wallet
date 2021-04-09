@@ -1,1 +1,1 @@
-var mnemonic = "comfort fetch upgrade lonely slot slow immense chronic employ reveal rhythm include";
+var mnemonic = "pepper eager upon health turn box program boost drink learn gold replace";

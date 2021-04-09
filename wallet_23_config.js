@@ -1,1 +1,1 @@
-var mnemonic = "pilot grant mass maid search lift mistake stamp oil hope route artwork";
+var mnemonic = "cram kit party marble vivid spike joke inflict warm camp kiss same";

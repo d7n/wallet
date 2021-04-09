@@ -1,1 +1,1 @@
-var mnemonic = "search witness bamboo dinner city artefact network love border shed mandate box";
+var mnemonic = "bacon short east visual box tool cube gun owner journey final citizen";

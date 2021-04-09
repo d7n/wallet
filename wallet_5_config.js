@@ -1,1 +1,1 @@
-var mnemonic = "number birth smart above champion famous visit arrive renew patrol skate candy";
+var mnemonic = "finish aunt iron sick make inch maid very violin alpha outside regular";

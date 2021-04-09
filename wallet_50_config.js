@@ -1,1 +1,1 @@
-var mnemonic = "health human empower female wait nephew zebra rebel range curve topic away";
+var mnemonic = "indoor indicate dress urban funny margin head wire budget glue since shove";

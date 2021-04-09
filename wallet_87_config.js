@@ -1,1 +1,1 @@
-var mnemonic = "attend nature label fortune scale twice bleak obvious famous detail health liquid";
+var mnemonic = "good private system share nurse buddy wall trash broccoli happy plunge hand";

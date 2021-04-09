@@ -1,1 +1,1 @@
-var mnemonic = "much cancel wasp renew swing exclude hunt lizard defy garbage cry upset";
+var mnemonic = "entire rug spawn silent argue hand exist hello fan trial panel skate";

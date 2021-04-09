@@ -1,1 +1,1 @@
-var mnemonic = "cousin odor stairs jealous gasp blouse decide onion wild junk color badge";
+var mnemonic = "caution about flee whisper embody canyon dance betray real type fossil copper";

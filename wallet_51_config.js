@@ -1,1 +1,1 @@
-var mnemonic = "rate robot joy similar gauge biology evil cloth ethics kite error rely";
+var mnemonic = "image mixture media despair gym number glide notable favorite tragic shadow bless";

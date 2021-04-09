@@ -1,1 +1,1 @@
-var mnemonic = "loud cigar elevator twin soda bus subject token dash almost forward thing";
+var mnemonic = "destroy ecology current boy warrior senior nation auction lava earn index patch";

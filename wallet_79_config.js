@@ -1,1 +1,1 @@
-var mnemonic = "mixture consider dad choice crouch skate unique address draw region enrich swap";
+var mnemonic = "comfort lion chuckle off lucky satisfy step trumpet dust toast slam banner";

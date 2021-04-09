@@ -1,1 +1,1 @@
-var mnemonic = "face suffer dolphin today slush country build begin luggage number uncle army";
+var mnemonic = "away glove useless orange refuse depend series carpet spike forget shop rather";

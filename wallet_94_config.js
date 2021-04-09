@@ -1,1 +1,1 @@
-var mnemonic = "glory crystal call boss middle ignore sibling elite story suggest mixture talk";
+var mnemonic = "blanket glass beyond account divide adapt object sea forget case peasant bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge rack device champion entire auto mystery bullet ribbon rack situate goddess";
+var mnemonic = "elegant puzzle toy practice pottery mass item floor crouch anger nasty dismiss";

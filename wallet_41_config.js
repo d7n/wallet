@@ -1,1 +1,1 @@
-var mnemonic = "vicious family doctor certain kiss stage rescue hen soup jungle stairs void";
+var mnemonic = "lens melody kidney climb disagree milk reunion spot peasant donate tuna foil";

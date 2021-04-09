@@ -1,1 +1,1 @@
-var mnemonic = "glow once resemble maximum shy differ grow attack angle image nation surface";
+var mnemonic = "marriage genre still journey venue alien donor exhibit price three random omit";

@@ -1,1 +1,1 @@
-var mnemonic = "often false mouse mask supply total hero security student aware badge super";
+var mnemonic = "flash picnic task armor pigeon patrol very floor again adjust modify hero";

@@ -1,1 +1,1 @@
-var mnemonic = "horse glass board garbage fruit slot link census program oblige clutch fruit";
+var mnemonic = "wood human cram shaft cheap story choice family horror govern enlist recipe";

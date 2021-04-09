@@ -1,1 +1,1 @@
-var mnemonic = "ugly wear coach nation solution attack view inject hand scorpion guide orbit";
+var mnemonic = "sugar street essay chase soft call fence canoe robot replace bright hello";

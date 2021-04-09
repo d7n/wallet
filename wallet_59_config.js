@@ -1,1 +1,1 @@
-var mnemonic = "ramp avoid shiver ladder name note almost style unveil timber little issue";
+var mnemonic = "future divorce lumber bar crumble basket trip keep turkey cat finger embody";
