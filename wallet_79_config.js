@@ -1,1 +1,1 @@
-var mnemonic = "sorry casual bubble sword hospital cave group apology truly balance injury primary";
+var mnemonic = "sentence parrot path young knee increase loud pill clock wagon fatal board";

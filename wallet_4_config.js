@@ -1,1 +1,1 @@
-var mnemonic = "naive index deal journey index chaos ask patient confirm wedding universe forum";
+var mnemonic = "grain position outer thank push buzz salad hamster nature treat exit receive";

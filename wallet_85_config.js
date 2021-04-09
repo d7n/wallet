@@ -1,1 +1,1 @@
-var mnemonic = "place pudding notice skull script device myself output edge oil relief explain";
+var mnemonic = "order cabbage load stomach enact dirt pudding bench sunset pretty wonder tank";

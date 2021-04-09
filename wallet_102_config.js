@@ -1,1 +1,1 @@
-var mnemonic = "menu farm toddler excess kingdom harbor allow island cereal mass dune flash";
+var mnemonic = "shrimp captain else smoke page tone despair reduce tenant drastic evil wait";

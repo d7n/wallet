@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ozone goose click virus nose empty orchard little enact mule flavor";
+var mnemonic = "hello member edge include use document club unveil original normal feature pudding";

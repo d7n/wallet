@@ -1,1 +1,1 @@
-var mnemonic = "quick knife fancy jar moment option embark slice glass bike sick profit";
+var mnemonic = "cave pistol cross thank marriage until daring toddler fruit buyer swap couch";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess model aim dust winner amount duck spread stable shrug until ostrich";
+var mnemonic = "act love couch render jewel language nut drink car dragon issue misery";

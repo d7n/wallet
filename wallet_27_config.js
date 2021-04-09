@@ -1,1 +1,1 @@
-var mnemonic = "nature lawn bulb mask bomb fringe burden student save tattoo hamster primary";
+var mnemonic = "supreme beef brick portion luggage basic again october essay story spatial require";

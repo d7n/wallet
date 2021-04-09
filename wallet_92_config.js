@@ -1,1 +1,1 @@
-var mnemonic = "client robot wide deputy only example baby occur anger step roast skull";
+var mnemonic = "lamp chase middle winter suspect access library panther squirrel basket cube security";

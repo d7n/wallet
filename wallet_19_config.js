@@ -1,1 +1,1 @@
-var mnemonic = "banner tumble wolf security keen design glimpse siren section photo elder boss";
+var mnemonic = "silent toe claim nest march design small neck candy shallow thumb tackle";

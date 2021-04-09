@@ -1,1 +1,1 @@
-var mnemonic = "give radio eyebrow wish ripple dream daughter approve ship gold slender various";
+var mnemonic = "suffer auto planet option able intact ranch duty try neglect toy brisk";

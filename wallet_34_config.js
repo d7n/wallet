@@ -1,1 +1,1 @@
-var mnemonic = "day distance price affair guess ritual rare narrow hire hobby gap grief";
+var mnemonic = "crouch thank odor index drastic lens rather clinic movie repeat digital fork";

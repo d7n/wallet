@@ -1,1 +1,1 @@
-var mnemonic = "awkward window endless mail depend winner april rebuild leaf dance agent urban";
+var mnemonic = "deputy icon sugar nation spread curtain enact sample dinosaur vital garden rifle";

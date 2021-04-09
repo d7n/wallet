@@ -1,1 +1,1 @@
-var mnemonic = "tuna annual copy media manage weekend sample twelve rack maze hope either";
+var mnemonic = "cram choose around miss drop laundry prevent peasant zone figure fold cream";

@@ -1,1 +1,1 @@
-var mnemonic = "spin bread play climb upset narrow margin quick when all shy mechanic";
+var mnemonic = "crawl belt glimpse liquid gorilla soul soft know add asset discover powder";

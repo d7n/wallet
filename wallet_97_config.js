@@ -1,1 +1,1 @@
-var mnemonic = "census summer advice rain scorpion auction toward flee awful session inquiry extend";
+var mnemonic = "junk split recipe champion mother midnight achieve case dune primary swift garlic";

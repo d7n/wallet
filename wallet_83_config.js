@@ -1,1 +1,1 @@
-var mnemonic = "antenna digital cave include soup spot obvious isolate scrap cash cupboard deny";
+var mnemonic = "riot decorate dinosaur snack engine thunder cost monitor kangaroo leave goat ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen census liquid jaguar brick assault recycle exhaust rain yellow desert practice";
+var mnemonic = "dizzy absorb suffer inflict peace alley outdoor engine fatigue garden stamp possible";

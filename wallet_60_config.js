@@ -1,1 +1,1 @@
-var mnemonic = "guess gift dirt act sell ring enemy swear clap betray allow property";
+var mnemonic = "siren fabric edge horror tool old space rifle parade border gasp blossom";

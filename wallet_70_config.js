@@ -1,1 +1,1 @@
-var mnemonic = "wisdom layer valid december able marine avoid horn before correct gather accuse";
+var mnemonic = "convince ask pottery vintage clinic drama enable review provide food session city";

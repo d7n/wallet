@@ -1,1 +1,1 @@
-var mnemonic = "live birth section shoe paddle harbor answer shock endorse voice skin hurry";
+var mnemonic = "call home story amateur aunt trick now primary wish wrist enrich now";

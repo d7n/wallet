@@ -1,1 +1,1 @@
-var mnemonic = "quantum trip city borrow protect educate dance another almost elbow smart ship";
+var mnemonic = "near family atom link scrub aspect luxury acid walk human wasp feed";

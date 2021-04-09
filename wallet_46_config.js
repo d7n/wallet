@@ -1,1 +1,1 @@
-var mnemonic = "banner expire vessel rose rookie enable survey soda opinion away force right";
+var mnemonic = "tonight share kangaroo vibrant enjoy only whip unfair already example early wall";

@@ -1,1 +1,1 @@
-var mnemonic = "asset shrug antique fury camera envelope good seek lazy system window table";
+var mnemonic = "turkey announce bronze width distance husband silly shiver protect tomato idle fresh";

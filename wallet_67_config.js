@@ -1,1 +1,1 @@
-var mnemonic = "asset stereo brand rough reason jazz clever lizard thing nut enjoy valve";
+var mnemonic = "hammer nature secret rapid monitor crawl hybrid glass supply vast liberty merge";

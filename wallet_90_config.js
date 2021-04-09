@@ -1,1 +1,1 @@
-var mnemonic = "flash any man dance sample until claim main phone gate brick coach";
+var mnemonic = "bronze hollow prison start better thunder nerve game card wide capable example";

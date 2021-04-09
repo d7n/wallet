@@ -1,1 +1,1 @@
-var mnemonic = "jaguar great chest coffee awesome favorite name magnet paddle cousin vivid audit";
+var mnemonic = "marble kick sure matter gather type hope join obey decline athlete ride";

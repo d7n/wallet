@@ -1,1 +1,1 @@
-var mnemonic = "pen game gallery audit glue theory pretty tape model suggest coil urban";
+var mnemonic = "umbrella midnight glad scan twelve split just setup trap loud core current";

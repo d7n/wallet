@@ -1,1 +1,1 @@
-var mnemonic = "actor trim subway rifle morning gap wing motion there arrow amused identify";
+var mnemonic = "knife rocket annual inch vault illegal number oven room entry penalty evil";

@@ -1,1 +1,1 @@
-var mnemonic = "pass card leave card cube enact depend envelope ring extend industry walk";
+var mnemonic = "trap cry bag nut damp calm poverty march illegal brand crouch pet";

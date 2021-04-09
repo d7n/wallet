@@ -1,1 +1,1 @@
-var mnemonic = "stadium fortune coin brass holiday series gym dentist city embrace invite finger";
+var mnemonic = "despair auction doll dose orphan hero you rotate tomorrow jazz verb bring";

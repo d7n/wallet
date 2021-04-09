@@ -1,1 +1,1 @@
-var mnemonic = "shine wreck mammal suspect high kingdom cliff caught leave hero upset next";
+var mnemonic = "stumble juice roast ghost garden online area fitness hope hole ignore shiver";

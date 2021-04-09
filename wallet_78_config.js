@@ -1,1 +1,1 @@
-var mnemonic = "prepare image enter length state hurdle nephew snow have foot evidence believe";
+var mnemonic = "clarify cart such obscure mesh prefer later ugly case essay cage bar";

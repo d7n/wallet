@@ -1,1 +1,1 @@
-var mnemonic = "explain auction similar crater burger sweet switch leaf pull click axis struggle";
+var mnemonic = "agent number lab neck net forum audit mistake hire park discover donate";

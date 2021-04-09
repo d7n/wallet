@@ -1,1 +1,1 @@
-var mnemonic = "bean phone family broom guess all element bonus shiver wreck track sign";
+var mnemonic = "area normal abandon then black naive pond unique broccoli food toss venue";

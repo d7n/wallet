@@ -1,1 +1,1 @@
-var mnemonic = "view route make lab lumber nephew check latin model quick genius awkward";
+var mnemonic = "table level aim human kangaroo ranch private ship trophy virus bubble remind";

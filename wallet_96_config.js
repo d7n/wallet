@@ -1,1 +1,1 @@
-var mnemonic = "loan diary retire lizard whip burden verb kiwi join case chase unaware";
+var mnemonic = "name sand amazing coral utility raw task saddle blouse junior punch stay";

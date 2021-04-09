@@ -1,1 +1,1 @@
-var mnemonic = "siege fetch puzzle later any divide account discover puppy skirt hybrid prison";
+var mnemonic = "destroy bunker require club chuckle volume slide sample trigger note escape sure";

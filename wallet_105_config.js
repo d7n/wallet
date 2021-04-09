@@ -1,1 +1,1 @@
-var mnemonic = "bubble ancient velvet valve devote equal reveal festival discover manage front damp";
+var mnemonic = "segment scheme lady juice muscle deliver humor cycle hotel elegant elephant boat";

@@ -1,1 +1,1 @@
-var mnemonic = "reason lab champion soon avocado true appear invest wrestle soup cloth cash";
+var mnemonic = "loud skate memory horse culture core apple enrich output crisp seed include";

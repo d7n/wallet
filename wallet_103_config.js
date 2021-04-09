@@ -1,1 +1,1 @@
-var mnemonic = "silent chest arrow veteran inflict tourist betray now minute off stool leader";
+var mnemonic = "subject sad issue treat float visual bar illness weather step hockey dry";

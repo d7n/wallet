@@ -1,1 +1,1 @@
-var mnemonic = "profit high hybrid repeat clump quit guess census dream swallow able salute";
+var mnemonic = "essence tail car rabbit congress voyage print peace upon crunch visual work";

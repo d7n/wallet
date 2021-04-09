@@ -1,1 +1,1 @@
-var mnemonic = "hobby better chief choose phrase friend siege range place pipe cliff economy";
+var mnemonic = "elevator expect toast dry detect satoshi argue siren child domain artist stumble";

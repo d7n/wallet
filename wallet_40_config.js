@@ -1,1 +1,1 @@
-var mnemonic = "opera finish tragic road tuna palace volcano hero orbit eight canal divide";
+var mnemonic = "snake cargo remember dress talk swarm marble emotion aunt donor panel butter";

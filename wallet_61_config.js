@@ -1,1 +1,1 @@
-var mnemonic = "sustain into series wealth place afford boss coyote put slam cloud pony";
+var mnemonic = "abuse empty staff jelly cart marine balance bomb toilet obscure travel advice";

@@ -1,1 +1,1 @@
-var mnemonic = "drive juice region cash vital riot naive salon arm fame wire around";
+var mnemonic = "flavor scissors purchase bulk drift panther option pair street best pudding soldier";

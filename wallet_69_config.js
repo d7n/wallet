@@ -1,1 +1,1 @@
-var mnemonic = "hub fly group student tackle ecology mimic idle maid dose exist diagram";
+var mnemonic = "tape program illness item network steel toward smile fever gather shuffle suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "wink welcome nature member forward cube solid snack canvas walnut gorilla crash";
+var mnemonic = "yard loud able garment shiver sight unit enough observe sudden whisper lend";

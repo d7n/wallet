@@ -1,1 +1,1 @@
-var mnemonic = "birth embark chapter portion quote proof ecology pumpkin enhance wonder hurry ignore";
+var mnemonic = "upper tell hint mechanic actor capital ozone panel salute capital office entire";

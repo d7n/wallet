@@ -1,1 +1,1 @@
-var mnemonic = "job pepper between split eagle sing whale chair saddle impulse use humble";
+var mnemonic = "build myself hover spring knife hospital mutual gym dog reveal bitter hedgehog";

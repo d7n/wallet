@@ -1,1 +1,1 @@
-var mnemonic = "taxi urge harsh pair reduce priority tree fish canoe police child oil";
+var mnemonic = "exit clap riot toss birth original eternal table sphere dish person midnight";

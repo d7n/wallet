@@ -1,1 +1,1 @@
-var mnemonic = "liquid smoke cinnamon expect under evidence age fold address super unable leaf";
+var mnemonic = "crazy feed action kind neck fire person author what buzz hole suffer";

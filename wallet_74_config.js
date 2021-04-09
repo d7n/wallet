@@ -1,1 +1,1 @@
-var mnemonic = "empower chapter oxygen pyramid dress keen copper enrich country only scrap onion";
+var mnemonic = "purpose sword country novel fold process measure first syrup rug second point";

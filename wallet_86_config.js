@@ -1,1 +1,1 @@
-var mnemonic = "obtain glad cycle volume episode choice gas music affair about luggage calm";
+var mnemonic = "exhibit spice ice rose tennis setup maid produce switch pet useless shop";

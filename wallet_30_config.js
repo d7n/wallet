@@ -1,1 +1,1 @@
-var mnemonic = "torch helmet brush actress witness dash hedgehog elephant praise sort wife arrange";
+var mnemonic = "senior panda scale column claim rival radar crunch aunt monster between chunk";

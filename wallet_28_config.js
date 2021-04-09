@@ -1,1 +1,1 @@
-var mnemonic = "proof toddler demise report payment spare inmate replace pride seat you lobster";
+var mnemonic = "mango mail mistake start syrup quarter dignity worth service rabbit tornado spin";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge bounce wise broken dice assist space case boring impulse way holiday";
+var mnemonic = "motion dynamic immune clog symbol autumn lawsuit slight actual good thank any";

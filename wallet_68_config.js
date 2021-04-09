@@ -1,1 +1,1 @@
-var mnemonic = "present tag fire define figure library relief sand awesome satisfy stable identify";
+var mnemonic = "mountain dove energy language crisp machine under witness term bulb puppy crane";

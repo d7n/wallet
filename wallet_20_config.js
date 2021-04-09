@@ -1,1 +1,1 @@
-var mnemonic = "energy stone stone adjust cost sting orange anchor bubble math people remember";
+var mnemonic = "siege heavy check card phrase casino business scan over volume text swim";

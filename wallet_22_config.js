@@ -1,1 +1,1 @@
-var mnemonic = "comfort zone quote album truly sell mushroom neck reflect imitate cake state";
+var mnemonic = "shuffle rather move forest setup economy beach merge worth puzzle exist when";

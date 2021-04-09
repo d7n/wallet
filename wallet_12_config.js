@@ -1,1 +1,1 @@
-var mnemonic = "tunnel unhappy grape palm crack tornado little sister awake prize marble horror";
+var mnemonic = "various perfect draw wish until swallow endless method fine gospel home faculty";

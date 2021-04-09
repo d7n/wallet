@@ -1,1 +1,1 @@
-var mnemonic = "explain film army arch galaxy scatter gadget hard sign execute plastic spread";
+var mnemonic = "clean gospel city share enforce snack unveil slab armed robot disorder tone";

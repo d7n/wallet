@@ -1,1 +1,1 @@
-var mnemonic = "chase potato throw swim fatal never catalog athlete pull tourist hundred inform";
+var mnemonic = "pizza bag violin human come earn design because obscure maid faculty remain";

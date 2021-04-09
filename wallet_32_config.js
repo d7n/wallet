@@ -1,1 +1,1 @@
-var mnemonic = "announce ethics warm myself ten mean behave tunnel garment earn silk wolf";
+var mnemonic = "weekend river table utility actress sniff luxury alarm spice sad expose better";

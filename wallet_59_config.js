@@ -1,1 +1,1 @@
-var mnemonic = "document remember ordinary lizard tip town disease length smoke hedgehog token ankle";
+var mnemonic = "fold kitchen elegant burger talent ketchup raven media process surge owner drama";

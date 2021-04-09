@@ -1,1 +1,1 @@
-var mnemonic = "wage forest speed always give lizard prison outer lawsuit plug mistake result";
+var mnemonic = "flee fitness beef agree myth setup want express siren term museum tenant";

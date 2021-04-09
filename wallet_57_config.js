@@ -1,1 +1,1 @@
-var mnemonic = "foil uphold genre border answer range century cram toilet silver column boy";
+var mnemonic = "click miss space pause mimic right tide divert glare gaze manual become";

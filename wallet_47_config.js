@@ -1,1 +1,1 @@
-var mnemonic = "announce where lab hen mouse pioneer metal feel theory soup unhappy blame";
+var mnemonic = "shove torch shift move bright limit enough animal main plastic else shrimp";

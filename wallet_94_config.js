@@ -1,1 +1,1 @@
-var mnemonic = "tent spoil base weasel boss genre hen bamboo rough recycle solve wish";
+var mnemonic = "grocery inside vintage document offer load chronic exile trouble amazing stuff despair";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud scene gasp drill garbage cliff later cram crawl flee crowd tray";
+var mnemonic = "nerve engage fruit shiver other fix scan van oak glimpse north movie";

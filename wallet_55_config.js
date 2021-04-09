@@ -1,1 +1,1 @@
-var mnemonic = "imitate early aspect van champion deal march foam public very next tell";
+var mnemonic = "label daughter pen joke ketchup output amount core speed balance abandon arctic";

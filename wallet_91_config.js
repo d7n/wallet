@@ -1,1 +1,1 @@
-var mnemonic = "giant magnet lock leisure eye cereal garlic actor rabbit example culture pool";
+var mnemonic = "plug level april shine armed chair siren primary tooth dress life toe";

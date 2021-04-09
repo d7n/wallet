@@ -1,1 +1,1 @@
-var mnemonic = "life unit rapid dog grid pilot obvious glide pulp regular ocean alcohol";
+var mnemonic = "road curtain future license crew electric broken razor surge key truly like";

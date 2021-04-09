@@ -1,1 +1,1 @@
-var mnemonic = "next logic nephew shift future desk advance penalty parrot great hope valve";
+var mnemonic = "body drip duck wasp gloom limit quit give pact employ farm vessel";

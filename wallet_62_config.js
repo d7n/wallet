@@ -1,1 +1,1 @@
-var mnemonic = "bike mad nature piano spray forget else purse define minute escape gentle";
+var mnemonic = "forget above drop hint law loop luxury then dune smooth recycle fluid";

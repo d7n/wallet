@@ -1,1 +1,1 @@
-var mnemonic = "relax lend employ win impulse wrong subway extra cup noise kid retire";
+var mnemonic = "street pizza kit puppy blind victory fit push surface brother process cram";

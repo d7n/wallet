@@ -1,1 +1,1 @@
-var mnemonic = "harsh loop total express hobby sausage illness position desk winner cheap gesture";
+var mnemonic = "planet dial celery top bread banana clump husband cushion envelope merry depend";

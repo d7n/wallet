@@ -1,1 +1,1 @@
-var mnemonic = "width stable eagle oyster produce disagree pledge fury pyramid salon rain oak";
+var mnemonic = "rapid champion comfort trust jazz swing copper sugar cable talk purity kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant engage ugly wrist never breeze piano control swing gravity affair degree";
+var mnemonic = "excess tube include neck relief coil wisdom pretty dune print prevent flee";

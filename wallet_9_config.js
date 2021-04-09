@@ -1,1 +1,1 @@
-var mnemonic = "idea inform air live cabin genius balance unable social pact canal play";
+var mnemonic = "blood citizen any use useful teach iron march move float unlock share";

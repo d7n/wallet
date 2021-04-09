@@ -1,1 +1,1 @@
-var mnemonic = "route arctic hand tool powder sound wagon eyebrow glance text nerve butter";
+var mnemonic = "swallow stool funny regular pole symbol rice million private picnic drastic gown";

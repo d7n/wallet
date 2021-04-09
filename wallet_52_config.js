@@ -1,1 +1,1 @@
-var mnemonic = "permit aisle cloud cabin embody gloom resist speak can crucial struggle aim";
+var mnemonic = "attract spot jealous inmate simple twin million price chair loan cabin attack";

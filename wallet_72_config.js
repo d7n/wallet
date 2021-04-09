@@ -1,1 +1,1 @@
-var mnemonic = "diary hurt trust check cloth story brush wisdom tiny rhythm news coil";
+var mnemonic = "pitch video suspect solution retire web budget medal oppose raw swarm addict";

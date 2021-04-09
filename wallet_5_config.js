@@ -1,1 +1,1 @@
-var mnemonic = "bread reward feel chair fashion hero grit topic sting private april absorb";
+var mnemonic = "century collect law hamster lonely aunt promote stand april agent chimney seven";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect flash soldier trick road disagree boil also normal athlete dismiss hybrid";
+var mnemonic = "another clap bridge stadium furnace learn defense quality coffee normal crisp behind";

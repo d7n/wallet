@@ -1,1 +1,1 @@
-var mnemonic = "quantum trade manage awesome corn room funny approve betray bulk trust reflect";
+var mnemonic = "approve what cycle skull language current deposit steel assault truck rebel endorse";
