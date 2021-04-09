@@ -1,1 +1,1 @@
-var mnemonic = "family trigger husband access basic gasp diesel present ritual want prevent fine";
+var mnemonic = "issue gadget school panda buddy make involve problem glad orbit must fish";

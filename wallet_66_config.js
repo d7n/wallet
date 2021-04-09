@@ -1,1 +1,1 @@
-var mnemonic = "proof pole survey life oven picnic pottery army monkey vehicle coin reject";
+var mnemonic = "cricket immune hundred behind apology era frost pioneer ripple sibling concert erupt";

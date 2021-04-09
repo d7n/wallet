@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow prize card subject ginger pave suspect angle parade alert scrub shadow";
+var mnemonic = "roast icon nation drift pioneer rally clock leader squeeze arrive belt furnace";

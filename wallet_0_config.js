@@ -1,1 +1,1 @@
-var mnemonic = "joy pumpkin seek meadow parrot ankle sphere draft lucky mirror build alien";
+var mnemonic = "idle alter search acid type aspect wide spider never bus air helmet";

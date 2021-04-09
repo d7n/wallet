@@ -1,1 +1,1 @@
-var mnemonic = "document shock online essence feed alpha enhance owner bitter word guilt shock";
+var mnemonic = "payment like dawn fatigue large pull lady consider spray surround index destroy";

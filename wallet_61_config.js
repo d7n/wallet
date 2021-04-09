@@ -1,1 +1,1 @@
-var mnemonic = "away absurd mandate gossip company lunch pass process cry two lecture regret";
+var mnemonic = "bargain common gravity vivid window figure color ecology habit injury coin radar";

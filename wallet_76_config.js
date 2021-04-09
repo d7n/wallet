@@ -1,1 +1,1 @@
-var mnemonic = "exile asthma refuse never pet delay shrug grab duck era label infant";
+var mnemonic = "bomb amazing gap debate blouse surface anchor fine forget shy spawn super";

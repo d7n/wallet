@@ -1,1 +1,1 @@
-var mnemonic = "seat elephant million field sister wood upset daughter tilt cost museum lesson";
+var mnemonic = "room maid mixed quiz art ship attack aerobic border gap giggle maid";

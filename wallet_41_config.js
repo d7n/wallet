@@ -1,1 +1,1 @@
-var mnemonic = "tell dirt clump coconut letter lecture census bus pill wire camp boss";
+var mnemonic = "inmate escape jelly dilemma midnight mystery also cat laugh employ afraid fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt taste october flash wrong circle try voyage odor calm moon unknown";
+var mnemonic = "render rigid away relief assault prepare witness rain prison inspire purchase illness";

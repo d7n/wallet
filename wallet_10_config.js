@@ -1,1 +1,1 @@
-var mnemonic = "tackle monitor glory inquiry fan tide gold smoke midnight reward lounge below";
+var mnemonic = "exit various client lesson fury ski sister cherry print retreat tonight because";

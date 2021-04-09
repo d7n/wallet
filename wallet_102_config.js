@@ -1,1 +1,1 @@
-var mnemonic = "aware embark machine today indicate fold minute saddle crucial utility stairs senior";
+var mnemonic = "swim dutch faint coin hundred anxiety wear unknown mutual tortoise mechanic hair";

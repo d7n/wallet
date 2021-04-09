@@ -1,1 +1,1 @@
-var mnemonic = "outer hire ahead atom duty vicious attract tonight resist despair dumb vendor";
+var mnemonic = "athlete assist degree series hard cook witness have mobile style pet leg";

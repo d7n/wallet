@@ -1,1 +1,1 @@
-var mnemonic = "mind bullet wasp vault mix flower potato antique horse pulp soul check";
+var mnemonic = "virus pill boss run battle coyote dash surge glove merry warm toast";

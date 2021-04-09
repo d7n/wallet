@@ -1,1 +1,1 @@
-var mnemonic = "awful wood pizza improve benefit cart unfair jar endless expire rule mercy";
+var mnemonic = "master eagle guard phone receive across walk shoot town auto caution boss";

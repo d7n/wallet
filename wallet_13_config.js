@@ -1,1 +1,1 @@
-var mnemonic = "farm shadow jelly online december chuckle cave opera ramp ordinary gorilla evoke";
+var mnemonic = "rude nurse buffalo survey doll ride garlic rifle brass distance naive travel";

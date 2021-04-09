@@ -1,1 +1,1 @@
-var mnemonic = "play believe jacket flee artwork improve situate memory eight trumpet found puppy";
+var mnemonic = "arrive shallow wife stock call biology green juice rubber ball smile eternal";

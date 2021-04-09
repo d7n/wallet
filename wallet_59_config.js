@@ -1,1 +1,1 @@
-var mnemonic = "today valve blush hamster similar jeans bird detail badge goddess dizzy prevent";
+var mnemonic = "verify skin purse claw garden correct cruel resemble maple walk spoon crystal";

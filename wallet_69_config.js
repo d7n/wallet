@@ -1,1 +1,1 @@
-var mnemonic = "near coconut steak prosper pupil water inherit grief patrol thunder stamp hen";
+var mnemonic = "boat topple act talent order what image power glance learn empower clever";

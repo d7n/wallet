@@ -1,1 +1,1 @@
-var mnemonic = "giraffe burden target argue control design orbit project around process script chicken";
+var mnemonic = "say laundry young crisp innocent wasp rice special reject casino solid home";

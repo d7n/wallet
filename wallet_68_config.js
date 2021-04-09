@@ -1,1 +1,1 @@
-var mnemonic = "grape wonder rapid ball tackle penalty business nerve latin fitness roast nest";
+var mnemonic = "shallow slight expire divert celery grass pond labor hello cable royal silly";

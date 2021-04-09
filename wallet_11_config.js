@@ -1,1 +1,1 @@
-var mnemonic = "style small truth will little shoulder consider kiwi pig appear hurt test";
+var mnemonic = "cinnamon law attitude mass ten cat trophy knee sure tattoo culture coin";

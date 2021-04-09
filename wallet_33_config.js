@@ -1,1 +1,1 @@
-var mnemonic = "capital enlist acid twin depend region veteran million light office pole tool";
+var mnemonic = "acoustic silent analyst law staff suggest creek neither garbage joy try fade";

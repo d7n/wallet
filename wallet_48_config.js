@@ -1,1 +1,1 @@
-var mnemonic = "empty inject gift art vault beyond much dry crew degree rhythm tent";
+var mnemonic = "concert book typical next social worry oblige expand first devote safe spray";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon toddler gentle spare aim okay vote bunker exclude lunar razor city";
+var mnemonic = "law funny scheme educate giant remember noble label dirt mansion pencil want";

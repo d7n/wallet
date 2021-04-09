@@ -1,1 +1,1 @@
-var mnemonic = "mirror aunt dawn brick dinner stairs snake salon rural sad achieve please";
+var mnemonic = "liberty judge bread explain resource near fantasy deputy bubble trash journey bargain";

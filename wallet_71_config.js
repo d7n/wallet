@@ -1,1 +1,1 @@
-var mnemonic = "cargo jacket kick thank glide improve view bacon jump security never track";
+var mnemonic = "december cheese win life level rail canoe opera trap license essay feed";

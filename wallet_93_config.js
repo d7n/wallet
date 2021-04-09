@@ -1,1 +1,1 @@
-var mnemonic = "sample vault actor shock orient corn item home enroll alone involve mule";
+var mnemonic = "more open adult sustain dilemma source unit upgrade cliff blue invest glory";

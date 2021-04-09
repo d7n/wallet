@@ -1,1 +1,1 @@
-var mnemonic = "learn wall faith crater hammer abuse punch kit mansion polar shock interest";
+var mnemonic = "spring ignore athlete this screen fuel unfair egg client unit engine between";

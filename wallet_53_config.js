@@ -1,1 +1,1 @@
-var mnemonic = "cable tribe brother proof cotton leisure donor vessel shield battle slight gauge";
+var mnemonic = "inhale portion obvious early bicycle can mushroom agree ostrich quiz garment reward";

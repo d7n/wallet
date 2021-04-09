@@ -1,1 +1,1 @@
-var mnemonic = "shaft scout lock leopard plug nature sauce inquiry uncover sunset party trophy";
+var mnemonic = "rice sphere lucky athlete excess alley adapt glow frost smoke expand reveal";

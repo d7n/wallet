@@ -1,1 +1,1 @@
-var mnemonic = "sentence equip relief heavy lyrics polar system skull forum risk rookie crumble";
+var mnemonic = "crawl copper south country laptop cliff expect enforce pigeon test advance enjoy";

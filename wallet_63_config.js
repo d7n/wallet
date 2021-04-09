@@ -1,1 +1,1 @@
-var mnemonic = "exchange market series smile imitate fortune grit twin debate venture receive elbow";
+var mnemonic = "nasty pear midnight beach travel orphan wrist circle crew spice funny bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "thank security festival improve devote endorse dynamic gauge own girl trend sugar";
+var mnemonic = "purchase party breeze thought monkey hundred payment audit nephew escape awful network";

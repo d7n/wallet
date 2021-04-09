@@ -1,1 +1,1 @@
-var mnemonic = "evil keen series cinnamon rebel bacon brush olympic piano region lobster round";
+var mnemonic = "odor style oxygen between endorse disease ancient film control card patrol inspire";

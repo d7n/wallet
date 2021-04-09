@@ -1,1 +1,1 @@
-var mnemonic = "feed guide attack frown record cactus zero state humble praise resist cupboard";
+var mnemonic = "ghost cabbage leave earn faculty awkward victory satisfy business soap draw link";

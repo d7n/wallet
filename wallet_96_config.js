@@ -1,1 +1,1 @@
-var mnemonic = "source mansion tunnel mass since above material turkey veteran outdoor trial swap";
+var mnemonic = "ostrich canvas mirror coffee marine item mask awful frame robust about north";

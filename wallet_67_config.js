@@ -1,1 +1,1 @@
-var mnemonic = "choose market announce craft crawl grid genre ride coast fence soldier fire";
+var mnemonic = "coral right diamond often lizard ski alarm dizzy act whale track text";

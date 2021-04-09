@@ -1,1 +1,1 @@
-var mnemonic = "wood walk tackle spare field slogan protect apple grain approve over mansion";
+var mnemonic = "clutch soda spatial squeeze program congress renew hat chief execute argue gaze";

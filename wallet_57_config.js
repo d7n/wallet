@@ -1,1 +1,1 @@
-var mnemonic = "popular post evolve sick suspect maid verify fade online slim trick artwork";
+var mnemonic = "rail style burger popular ceiling edit reward dynamic yard beyond captain jelly";

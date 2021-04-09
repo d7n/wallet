@@ -1,1 +1,1 @@
-var mnemonic = "balcony pledge frost wonder series unit life dust hint banana hub imitate";
+var mnemonic = "glide hope close tongue argue remember search lonely used unable mother notice";

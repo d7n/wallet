@@ -1,1 +1,1 @@
-var mnemonic = "unique horn midnight adapt actor toe valid tape teach adult century frozen";
+var mnemonic = "cause flavor raw moral nature metal climb winter oyster jeans valid broccoli";

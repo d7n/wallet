@@ -1,1 +1,1 @@
-var mnemonic = "frog cousin romance sample depart jungle fever fade lunar dance warm federal";
+var mnemonic = "hill enough happy over file shell result mango bring language notable balance";

@@ -1,1 +1,1 @@
-var mnemonic = "expose run finger stick sorry dove false please pistol just afraid outdoor";
+var mnemonic = "welcome toilet pitch suspect load able gloom squeeze belt describe multiply female";

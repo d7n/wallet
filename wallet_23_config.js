@@ -1,1 +1,1 @@
-var mnemonic = "other connect mammal doctor sauce evil hedgehog bar ankle settle garden home";
+var mnemonic = "crush forget scissors glide ribbon obscure detect error silk around sweet radar";

@@ -1,1 +1,1 @@
-var mnemonic = "swing mercy orient outside concert eyebrow harvest true draft woman athlete fall";
+var mnemonic = "message south hour bullet crash wait trial private bitter metal hammer involve";

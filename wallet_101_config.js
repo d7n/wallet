@@ -1,1 +1,1 @@
-var mnemonic = "essence clog bulb stem beef win perfect provide base club proud chase";
+var mnemonic = "submit equal mutual fatal ride palm twenty midnight lion unit yard badge";

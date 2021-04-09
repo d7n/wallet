@@ -1,1 +1,1 @@
-var mnemonic = "town alarm math recipe talk tape vapor tube egg method coyote frown";
+var mnemonic = "right system web juice seven abandon safe face tell pepper emotion horse";

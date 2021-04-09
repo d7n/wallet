@@ -1,1 +1,1 @@
-var mnemonic = "useful nasty globe receive copy pact bus sign cook shoe curtain canvas";
+var mnemonic = "cabin cake crystal valve steak title else enemy filter disagree hill damp";

@@ -1,1 +1,1 @@
-var mnemonic = "visa kitchen outer foil title world exile limit glide gloom enact gravity";
+var mnemonic = "zoo ski position weasel draw recipe route help only gap indoor survey";

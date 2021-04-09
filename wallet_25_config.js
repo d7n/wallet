@@ -1,1 +1,1 @@
-var mnemonic = "giant light visa clap can civil document snap segment kid expose flush";
+var mnemonic = "erupt profit spawn uncover gun whisper worry wing walk scrap cat cram";

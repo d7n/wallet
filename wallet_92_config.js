@@ -1,1 +1,1 @@
-var mnemonic = "aerobic cactus punch unveil park cry tornado caution diary bright harsh proof";
+var mnemonic = "discover armed warrior sun soccer lemon time rib purity cattle clump cheap";

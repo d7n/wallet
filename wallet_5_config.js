@@ -1,1 +1,1 @@
-var mnemonic = "broccoli suffer observe hamster monster venture corn grab exile next curve mad";
+var mnemonic = "brief noise void roast know door heavy smoke scrub wave salute atom";

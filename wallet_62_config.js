@@ -1,1 +1,1 @@
-var mnemonic = "people leg home either rival cloth evoke expire resemble sample melt abuse";
+var mnemonic = "pole grab year elite pool siren symbol noise pink coffee fall skill";

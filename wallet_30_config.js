@@ -1,1 +1,1 @@
-var mnemonic = "picnic oven leg mouse small marriage next category enter fun awesome science";
+var mnemonic = "type novel level return order common crisp cram over hold crystal bamboo";

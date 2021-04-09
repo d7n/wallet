@@ -1,1 +1,1 @@
-var mnemonic = "sail offer enough motor dizzy federal place barely minute embrace above use";
+var mnemonic = "six wild solar torch pond almost imitate strike combine tomorrow dragon real";

@@ -1,1 +1,1 @@
-var mnemonic = "rent rather seat night asset sibling donkey mandate control faith nerve bullet";
+var mnemonic = "cup topple betray wise bitter orchard garbage critic obscure magic usual design";

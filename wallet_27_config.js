@@ -1,1 +1,1 @@
-var mnemonic = "vocal load sign average butter labor afford dove riot hazard middle spray";
+var mnemonic = "host effort castle move lottery game pilot slice clinic crew educate shove";

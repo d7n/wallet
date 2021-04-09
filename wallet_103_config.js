@@ -1,1 +1,1 @@
-var mnemonic = "deposit trumpet shift outer spoon comic arm muffin surface avoid glide quote";
+var mnemonic = "error jaguar local arena face onion syrup know kite welcome argue cube";

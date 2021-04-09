@@ -1,1 +1,1 @@
-var mnemonic = "kick annual inhale weird device aim rough carpet square upper item undo";
+var mnemonic = "tree strategy fame truth quick flame pill year achieve advance concert upon";

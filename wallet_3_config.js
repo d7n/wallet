@@ -1,1 +1,1 @@
-var mnemonic = "adult pizza floor salon urban client kiss deny shrug side bean gold";
+var mnemonic = "together ignore century disorder betray accident affair office mimic butter affair rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "merge cabin fuel fatal fetch find toss version forget mad castle fork";
+var mnemonic = "stick find deputy spike jealous leader youth cousin jazz husband mean abuse";

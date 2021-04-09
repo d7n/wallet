@@ -1,1 +1,1 @@
-var mnemonic = "media nephew life long trumpet awkward edge negative acoustic limb ladder dice";
+var mnemonic = "oval print unfold coil inform toss great seed grab wall orange steak";

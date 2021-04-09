@@ -1,1 +1,1 @@
-var mnemonic = "party erode old frown sentence net delay tired control note rich innocent";
+var mnemonic = "tree boost apple mean nothing blade kick obtain escape nut phone project";

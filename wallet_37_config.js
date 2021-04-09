@@ -1,1 +1,1 @@
-var mnemonic = "casual dutch deny toward pause field monster six acoustic unable catalog spot";
+var mnemonic = "earn people fantasy cheese retire sausage season spell defense flight artist suffer";

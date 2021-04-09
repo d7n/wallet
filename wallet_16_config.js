@@ -1,1 +1,1 @@
-var mnemonic = "detect ketchup forest offer pizza curious problem address inherit arrow kind intact";
+var mnemonic = "insect hover comic paddle borrow spoil patrol dutch proud clever fantasy region";

@@ -1,1 +1,1 @@
-var mnemonic = "garage crystal office chapter amateur sausage stable sorry audit unaware close mechanic";
+var mnemonic = "cement hunt ozone steak rifle forward kit area ignore ocean crime sting";

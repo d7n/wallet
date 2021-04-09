@@ -1,1 +1,1 @@
-var mnemonic = "shy game ask deny onion nation future soap credit shoe chunk shallow";
+var mnemonic = "fee local strike permit depth output develop candy hat soccer yellow during";

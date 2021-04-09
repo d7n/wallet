@@ -1,1 +1,1 @@
-var mnemonic = "polar grab winner captain luggage parrot wool swing man fork chat smooth";
+var mnemonic = "hundred fragile saddle cable mutual patient ugly they toilet donate square thought";

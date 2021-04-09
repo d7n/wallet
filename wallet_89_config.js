@@ -1,1 +1,1 @@
-var mnemonic = "bid chronic use check hazard bubble enemy body teach trumpet velvet double";
+var mnemonic = "error matrix misery welcome mechanic time long exclude fortune doll harvest crush";

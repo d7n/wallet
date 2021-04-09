@@ -1,1 +1,1 @@
-var mnemonic = "debate upgrade mechanic laundry bulb bread can blind add symbol orphan nothing";
+var mnemonic = "wheat bleak actor pumpkin carry quantum jewel trigger vendor river combine lady";

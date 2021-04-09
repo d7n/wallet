@@ -1,1 +1,1 @@
-var mnemonic = "over climb obvious lens cinnamon salute budget crumble remain file sheriff they";
+var mnemonic = "duck quantum thank trap episode sun gain already february moment stereo glove";

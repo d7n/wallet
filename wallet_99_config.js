@@ -1,1 +1,1 @@
-var mnemonic = "puppy weather boat host trash polar problem loyal loyal smart area sweet";
+var mnemonic = "useless worth ride rescue question control unaware solve luggage thank zone assist";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise snow swallow bind south flip someone reform mean lawsuit gravity brand";
+var mnemonic = "ring episode action anxiety language random west copy truly lion else divorce";

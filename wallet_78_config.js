@@ -1,1 +1,1 @@
-var mnemonic = "man sure moon club debate acquire animal polar magic debate rose tongue";
+var mnemonic = "opera shallow couple gather advice amazing video canyon spend potato tribe toy";

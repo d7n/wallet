@@ -1,1 +1,1 @@
-var mnemonic = "reopen swap empty useful vote brave learn wet elegant liberty catalog mushroom";
+var mnemonic = "tortoise yellow bid kingdom end false raise era until race mountain biology";

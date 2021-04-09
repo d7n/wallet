@@ -1,1 +1,1 @@
-var mnemonic = "gorilla build argue subject moment fish body truth elegant firm true orange";
+var mnemonic = "heart human web story gorilla more width concert bamboo mixed coral know";

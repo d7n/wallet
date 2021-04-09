@@ -1,1 +1,1 @@
-var mnemonic = "analyst dignity miss toast favorite setup gentle size grocery equip stage pill";
+var mnemonic = "charge enhance dragon pulp tape connect garden slender flock donor gun napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "story decide boost penalty piano now business retire mandate moment silly open";
+var mnemonic = "scale cluster luggage cause real double rail glimpse ivory festival involve dumb";

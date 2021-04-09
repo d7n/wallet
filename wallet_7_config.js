@@ -1,1 +1,1 @@
-var mnemonic = "you exotic divert bind void move film wash sauce gauge famous collect";
+var mnemonic = "squeeze neutral mad kangaroo ribbon napkin february rail front deliver swing attack";

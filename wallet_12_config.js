@@ -1,1 +1,1 @@
-var mnemonic = "ring penalty empty affair innocent below message toe term success scatter story";
+var mnemonic = "advice basket thought debris nice amount tell guess hockey table gossip middle";

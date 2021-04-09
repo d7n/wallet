@@ -1,1 +1,1 @@
-var mnemonic = "crystal shy minute second time wear supply prize soda today fan acquire";
+var mnemonic = "amused sauce gate leg curious lawsuit plunge dignity world drop remember river";

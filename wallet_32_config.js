@@ -1,1 +1,1 @@
-var mnemonic = "abuse shoe tornado ensure wolf rival forum kitchen inform govern entry safe";
+var mnemonic = "fatigue sell resemble embody faint exchange end caution dragon damage melt winner";

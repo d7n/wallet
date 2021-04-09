@@ -1,1 +1,1 @@
-var mnemonic = "spring injury piece diet front sunset success small mountain thumb romance rather";
+var mnemonic = "pudding unknown basic regular recipe thing twelve auto modify custom discover decorate";

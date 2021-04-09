@@ -1,1 +1,1 @@
-var mnemonic = "march march light know mail myself panther floor wool galaxy super neglect";
+var mnemonic = "remain wide emerge spin cable middle ancient youth father galaxy find unique";

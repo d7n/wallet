@@ -1,1 +1,1 @@
-var mnemonic = "hospital index spoil copy edge oyster diamond result box train kingdom car";
+var mnemonic = "segment bus armed guess hundred duty snack parent menu skin item trend";

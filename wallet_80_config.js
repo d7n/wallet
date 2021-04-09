@@ -1,1 +1,1 @@
-var mnemonic = "oven tackle swallow trash robust young throw bread blood lesson treat stable";
+var mnemonic = "kite version melody advice habit kiwi office math improve scene cloud dog";

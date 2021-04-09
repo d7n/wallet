@@ -1,1 +1,1 @@
-var mnemonic = "stand bring gossip captain reveal fault wild tired require moment onion rude";
+var mnemonic = "box mouse electric attend long exchange announce cream tide buddy urge pass";

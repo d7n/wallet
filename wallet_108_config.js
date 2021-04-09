@@ -1,1 +1,1 @@
-var mnemonic = "derive glass awkward wagon large wage depend admit tumble aerobic verify solve";
+var mnemonic = "trash audit derive conduct manage neither remove marble feature jewel miracle fury";

@@ -1,1 +1,1 @@
-var mnemonic = "merit gap derive olive bag rate cash miss proud hundred clean endless";
+var mnemonic = "educate lunch math cook annual flower runway chest chase steel buzz goddess";

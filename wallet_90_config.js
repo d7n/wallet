@@ -1,1 +1,1 @@
-var mnemonic = "unhappy lake strategy blush kingdom spend pear lunar move bargain track craft";
+var mnemonic = "sick husband bunker lunch stage ocean gesture clap card panic divide tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce mystery evoke electric desk tumble brief garden imitate will belt border";
+var mnemonic = "ability only symptom solar ship plug diagram advice screen avocado improve alcohol";

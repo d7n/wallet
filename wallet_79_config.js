@@ -1,1 +1,1 @@
-var mnemonic = "crew glimpse spare enter minute next index burger recall fuel legal bean";
+var mnemonic = "used prevent zoo shell list volume dose rely radar unfair orbit urban";
