@@ -1,1 +1,1 @@
-var mnemonic = "bulb capital pudding lecture place resist tag expect bike topple amazing venture";
+var mnemonic = "slab sport dinosaur olive ride effort brain talent can opera library express";

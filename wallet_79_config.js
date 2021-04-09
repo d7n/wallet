@@ -1,1 +1,1 @@
-var mnemonic = "sleep off riot tobacco minute speak subway exile use medal radio net";
+var mnemonic = "pepper wine expect space fabric thrive raccoon exhaust faculty exit panel supply";

@@ -1,1 +1,1 @@
-var mnemonic = "wall improve void pig shuffle enlist rifle style morning panda layer rough";
+var mnemonic = "album fly spirit adult three page weapon ramp injury swamp normal travel";

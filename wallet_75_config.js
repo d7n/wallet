@@ -1,1 +1,1 @@
-var mnemonic = "later jump dirt vocal spend find chaos shield side repeat iron state";
+var mnemonic = "news keen index forum hockey apart youth execute bridge message humble clerk";

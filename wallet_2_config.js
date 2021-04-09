@@ -1,1 +1,1 @@
-var mnemonic = "evoke black ramp cluster capable speak carpet trial captain share poverty harbor";
+var mnemonic = "lounge illness huge someone antique soccer party rebuild supply define belt include";

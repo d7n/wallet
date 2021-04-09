@@ -1,1 +1,1 @@
-var mnemonic = "pool print culture subway guitar exhibit erase head cake hour round cook";
+var mnemonic = "mistake flag panther excite track ill arctic essay banner harvest rely damage";

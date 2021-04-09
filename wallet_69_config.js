@@ -1,1 +1,1 @@
-var mnemonic = "shiver laundry cloth try document hip earn sudden mix army fish coffee";
+var mnemonic = "slide risk celery stem target useless theory shove run web fault enjoy";

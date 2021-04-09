@@ -1,1 +1,1 @@
-var mnemonic = "legend gaze kidney stereo meadow young foot drink peanut arctic jacket swap";
+var mnemonic = "essay surface wood age pencil aisle rose gauge box raw maple detect";

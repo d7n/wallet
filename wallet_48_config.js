@@ -1,1 +1,1 @@
-var mnemonic = "exhaust exit oppose correct rent host emerge this bench license grunt canyon";
+var mnemonic = "hidden high zone evolve bread gadget glow enjoy pool dial tilt return";

@@ -1,1 +1,1 @@
-var mnemonic = "blood romance protect island pyramid dutch lyrics rubber winner rookie dad until";
+var mnemonic = "infant exact enough dream very bridge bubble system neutral relax sunset ready";

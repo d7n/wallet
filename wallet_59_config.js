@@ -1,1 +1,1 @@
-var mnemonic = "injury advance chunk super sing warfare excite feel please suspect buffalo arrive";
+var mnemonic = "flag curtain magic reunion vote barrel wing toddler elegant occur raw oval";

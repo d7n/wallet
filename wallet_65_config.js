@@ -1,1 +1,1 @@
-var mnemonic = "rescue clarify short claw enough east crime online soul fix recipe shiver";
+var mnemonic = "direct roof trust tonight index stool item hen ordinary off dog grape";

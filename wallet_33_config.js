@@ -1,1 +1,1 @@
-var mnemonic = "column cricket myth width enlist oil demand frog tribe make erosion tribe";
+var mnemonic = "gravity lumber surround toddler cake muscle uphold add thought point govern mushroom";

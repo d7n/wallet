@@ -1,1 +1,1 @@
-var mnemonic = "original hello foil weapon caught sword skin bike behave vast harsh egg";
+var mnemonic = "fun double match patrol health afraid uncle strong bulb safe orient reflect";

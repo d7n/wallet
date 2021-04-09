@@ -1,1 +1,1 @@
-var mnemonic = "rib poverty sadness menu timber become dad special stove panel traffic dust";
+var mnemonic = "sea exile foot fence youth empower same photo together bargain horn silent";

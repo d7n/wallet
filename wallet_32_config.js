@@ -1,1 +1,1 @@
-var mnemonic = "trim during device learn wide coyote child steel window illegal very injury";
+var mnemonic = "peanut illness attract home course choose filter beyond range minor anchor girl";

@@ -1,1 +1,1 @@
-var mnemonic = "risk author rich expire pause mix prize table picnic zero grow license";
+var mnemonic = "engage advance jar cricket resist dad surface rough agent odor theory know";

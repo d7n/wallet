@@ -1,1 +1,1 @@
-var mnemonic = "cake verb machine panic snack jacket worth letter south away sauce make";
+var mnemonic = "mass tattoo pulp decline inherit tilt pyramid know dumb learn photo worry";

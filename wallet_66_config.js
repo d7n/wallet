@@ -1,1 +1,1 @@
-var mnemonic = "verify timber swift fence unusual inch sport city actual glimpse nose girl";
+var mnemonic = "blast slot home any lunch lamp amateur habit pumpkin book series unusual";

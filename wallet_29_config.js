@@ -1,1 +1,1 @@
-var mnemonic = "primary peasant version right divide advance protect book art knife soft initial";
+var mnemonic = "kitchen shift sword off blanket situate coil hidden code vault oak guide";

@@ -1,1 +1,1 @@
-var mnemonic = "brain mixture minor interest wrestle pattern arm aware annual express meat bulk";
+var mnemonic = "general beyond pelican health trick alley reflect reduce pizza letter student office";

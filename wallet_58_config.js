@@ -1,1 +1,1 @@
-var mnemonic = "stove marriage estate ethics clinic cause shove off design bundle labor notable";
+var mnemonic = "science jelly tree spoil afford heart luxury exhaust oval boil knock door";

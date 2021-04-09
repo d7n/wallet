@@ -1,1 +1,1 @@
-var mnemonic = "decade scare essence assume bamboo develop super erupt salute right rural garden";
+var mnemonic = "leisure east clog field among someone share tell arrest asthma spy autumn";

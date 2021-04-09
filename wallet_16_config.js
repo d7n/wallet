@@ -1,1 +1,1 @@
-var mnemonic = "tone furnace age six laptop weapon sadness boring urban cause salad area";
+var mnemonic = "acoustic story seed dash carry build point okay clump shrimp city comic";

@@ -1,1 +1,1 @@
-var mnemonic = "craft recycle swamp cloud guess canal heavy behind lottery crisp food small";
+var mnemonic = "learn bridge original stay juice cattle pigeon aware swap scout barrel supreme";

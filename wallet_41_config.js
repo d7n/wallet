@@ -1,1 +1,1 @@
-var mnemonic = "brother found rifle inhale stone truly silent enrich ugly remind cart tortoise";
+var mnemonic = "size flush pilot ice viable above torch element virus inner cheap dance";

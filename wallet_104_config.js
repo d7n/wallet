@@ -1,1 +1,1 @@
-var mnemonic = "blur immune census calm machine cause dove zone ghost social harsh alley";
+var mnemonic = "arrow sad beach wash strike pulse denial remember illegal afraid swallow rifle";

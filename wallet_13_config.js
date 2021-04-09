@@ -1,1 +1,1 @@
-var mnemonic = "member vibrant capital budget mushroom muffin mixture tone dirt aerobic scorpion first";
+var mnemonic = "basic resist grain float animal wire hungry pull hint extra engage struggle";

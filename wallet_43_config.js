@@ -1,1 +1,1 @@
-var mnemonic = "shield mystery side gold van catalog drift else grocery add air expand";
+var mnemonic = "pull matter travel chronic lumber sniff wash valve churn off estate laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton alone grab pumpkin lift struggle forget involve excite old index amused";
+var mnemonic = "toward romance brush faith knee taste surprise joke angry spread flavor dove";

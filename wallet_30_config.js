@@ -1,1 +1,1 @@
-var mnemonic = "west peasant carpet network tilt retreat ritual tide today lounge tennis behave";
+var mnemonic = "shallow thank come horn army casual column wealth symbol media mind vehicle";

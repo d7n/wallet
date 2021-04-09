@@ -1,1 +1,1 @@
-var mnemonic = "isolate couch bird battle dinosaur frequent disease marine robot winter ostrich shaft";
+var mnemonic = "saddle make romance hand uncover afford faith flush garlic exotic rack monkey";

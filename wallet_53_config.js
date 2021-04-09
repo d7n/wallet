@@ -1,1 +1,1 @@
-var mnemonic = "soda smoke sort liar sibling smoke knock stadium bike adapt walnut often";
+var mnemonic = "key explain distance find icon obscure athlete ordinary unlock evidence crouch pigeon";

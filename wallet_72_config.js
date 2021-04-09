@@ -1,1 +1,1 @@
-var mnemonic = "cigar habit distance bird number repeat marine august bind choose rare tilt";
+var mnemonic = "lab organ defy mandate general survey round faculty where rubber case oblige";

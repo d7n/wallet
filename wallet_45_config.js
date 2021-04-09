@@ -1,1 +1,1 @@
-var mnemonic = "devote cousin afraid praise harbor clog wave robust letter thought thing various";
+var mnemonic = "paper cinnamon method ginger bamboo candy remain rain nice actual adjust frog";

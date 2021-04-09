@@ -1,1 +1,1 @@
-var mnemonic = "assault habit census summer code quality sport leopard tool else chaos inflict";
+var mnemonic = "comfort slim bundle ridge above feel initial alien business bachelor wrist kind";

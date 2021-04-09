@@ -1,1 +1,1 @@
-var mnemonic = "usual direct taxi talk sand devote carry shock kid hollow theme write";
+var mnemonic = "jelly grass harvest zone bid army return weapon silly put unique shadow";

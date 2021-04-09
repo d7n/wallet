@@ -1,1 +1,1 @@
-var mnemonic = "fall found capital decline deer swarm hybrid girl fetch uncle nation token";
+var mnemonic = "disagree empty alley parent wait brown sphere inmate century cheese slush sting";

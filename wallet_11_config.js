@@ -1,1 +1,1 @@
-var mnemonic = "enter odor trend unlock bacon food fury nest farm boat smooth dream";
+var mnemonic = "scan aunt announce dose category school system bamboo select absent position youth";

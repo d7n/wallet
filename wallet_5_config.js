@@ -1,1 +1,1 @@
-var mnemonic = "upper tobacco empower flight wage nephew alter address balcony trend expect rifle";
+var mnemonic = "trash agree design school opinion release voyage super under goat anchor mobile";

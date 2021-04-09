@@ -1,1 +1,1 @@
-var mnemonic = "stamp response employ must valid steak ahead neutral knife father sand amateur";
+var mnemonic = "rapid slow congress travel tide surround alien legal dolphin walnut split frozen";

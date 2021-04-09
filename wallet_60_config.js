@@ -1,1 +1,1 @@
-var mnemonic = "journey hunt just fitness patch room rich giant myself steel patch chest";
+var mnemonic = "bitter voyage radio reflect vehicle barrel peace vacant cousin combine crane write";

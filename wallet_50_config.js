@@ -1,1 +1,1 @@
-var mnemonic = "diesel render cluster hotel laptop mixture dune exclude room animal fever coral";
+var mnemonic = "muffin bus desert gift alpha isolate actress giggle chicken budget joke obvious";

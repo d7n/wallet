@@ -1,1 +1,1 @@
-var mnemonic = "long giraffe kiss start spoil thought project dose direct dust odor hole";
+var mnemonic = "honey album stay initial chimney size sand wet motion mail journey suspect";

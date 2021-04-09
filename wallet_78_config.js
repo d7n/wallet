@@ -1,1 +1,1 @@
-var mnemonic = "design assume behind citizen salad trust ship federal letter beauty someone key";
+var mnemonic = "left shed sword hip license arrest stomach dad faculty trade learn art";

@@ -1,1 +1,1 @@
-var mnemonic = "news width ramp science supreme stereo miss blouse around tell predict donor";
+var mnemonic = "famous raise brass vivid rocket crazy cheese mom ill enjoy panther identify";

@@ -1,1 +1,1 @@
-var mnemonic = "circle game chair verb despair refuse tunnel have medal viable rain double";
+var mnemonic = "trial tomorrow sausage paddle pistol soap pink unique vessel net silver father";

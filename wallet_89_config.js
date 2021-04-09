@@ -1,1 +1,1 @@
-var mnemonic = "absurd bean pull cake shove blade very gown captain stereo limb chicken";
+var mnemonic = "kite wolf mask split special large when physical funny curtain reform book";

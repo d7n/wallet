@@ -1,1 +1,1 @@
-var mnemonic = "life alone budget patient weapon dad scatter victory laundry bullet luggage invite";
+var mnemonic = "business same claw loud avocado age reason slab shield unlock gorilla spread";

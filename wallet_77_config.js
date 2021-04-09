@@ -1,1 +1,1 @@
-var mnemonic = "action option dash mask simple normal frequent average magnet misery basket observe";
+var mnemonic = "panel until rubber subway grant marine pig hurdle banana couple habit habit";

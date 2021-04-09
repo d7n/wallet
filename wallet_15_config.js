@@ -1,1 +1,1 @@
-var mnemonic = "chase donate napkin rabbit distance attract mad between meadow skull ordinary current";
+var mnemonic = "plastic wedding engage argue common immune caught genuine enemy timber cycle tongue";

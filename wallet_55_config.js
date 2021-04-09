@@ -1,1 +1,1 @@
-var mnemonic = "title blade cactus clock decade damp stand owner tomorrow venture spawn bronze";
+var mnemonic = "change aspect curve hover globe jaguar advice pink sorry moon uniform drum";

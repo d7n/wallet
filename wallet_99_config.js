@@ -1,1 +1,1 @@
-var mnemonic = "ability genuine six monster poem dwarf firm cupboard treat poet dog dumb";
+var mnemonic = "fold arena have inner member regret extra spatial wet ski chaos leave";

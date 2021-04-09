@@ -1,1 +1,1 @@
-var mnemonic = "resemble project hawk ranch bird youth chunk nurse garden auto season gallery";
+var mnemonic = "genius dentist enforce hockey prize tooth pig monster leaf kangaroo original disagree";

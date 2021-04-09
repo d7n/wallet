@@ -1,1 +1,1 @@
-var mnemonic = "citizen impact pipe wrong night dice punch hello network room satisfy spare";
+var mnemonic = "obey dynamic hotel deliver push sudden song bench under skill twenty rookie";

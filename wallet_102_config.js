@@ -1,1 +1,1 @@
-var mnemonic = "fabric give culture someone vivid solar electric car erode version hammer salt";
+var mnemonic = "live prison equal lobster enjoy boat top october pool name medal pledge";

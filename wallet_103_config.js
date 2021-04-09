@@ -1,1 +1,1 @@
-var mnemonic = "cycle hire trim aim august sustain whale amazing sausage wisdom ceiling rally";
+var mnemonic = "pond organ refuse ski ahead slow evidence cancel sponsor attend salt fox";

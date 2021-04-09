@@ -1,1 +1,1 @@
-var mnemonic = "mutual race salt person become arrive material service sibling ancient beef sausage";
+var mnemonic = "violin sting sun protect whip trim castle senior exist approve undo rail";

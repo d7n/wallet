@@ -1,1 +1,1 @@
-var mnemonic = "entire bunker sauce fury stand allow screen accuse shoot cluster flight reopen";
+var mnemonic = "accuse youth party join mother price glow destroy blur leopard ghost army";

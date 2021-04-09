@@ -1,1 +1,1 @@
-var mnemonic = "steel escape labor reason wealth cherry doctor fiction trash adjust grunt pumpkin";
+var mnemonic = "bean crane cram hundred table boil swing search reveal flame harvest fiction";

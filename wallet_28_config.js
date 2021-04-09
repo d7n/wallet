@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit rail wheel loop virus turtle snake aerobic program body mutual fade";
+var mnemonic = "ecology orange slot able grass soon pitch boring hat suggest mobile gauge";

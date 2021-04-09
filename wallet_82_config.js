@@ -1,1 +1,1 @@
-var mnemonic = "place save pluck always cave jazz quick deny vessel bounce situate kangaroo";
+var mnemonic = "permit toward know wood neither pupil super actor junior find alter talk";

@@ -1,1 +1,1 @@
-var mnemonic = "vital suit ivory wrestle brick tribe inch parent wave pair energy obvious";
+var mnemonic = "usage hat ensure bullet sudden brother ill orient endless roast clinic critic";

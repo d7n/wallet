@@ -1,1 +1,1 @@
-var mnemonic = "boat inside cry great flame title gym novel mask guilt response physical";
+var mnemonic = "hip broccoli also episode pepper cargo penalty dose trust pencil that runway";

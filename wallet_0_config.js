@@ -1,1 +1,1 @@
-var mnemonic = "wise recall two source parent abandon neutral tenant glad anchor ice better";
+var mnemonic = "neutral sell rival online write jaguar weapon awkward iron grass happy bracket";

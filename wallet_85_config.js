@@ -1,1 +1,1 @@
-var mnemonic = "permit bus width entry crumble napkin cactus add olympic damage cotton avocado";
+var mnemonic = "marine put drill dolphin action picnic potato warfare taxi universe mule neither";

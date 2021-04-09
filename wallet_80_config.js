@@ -1,1 +1,1 @@
-var mnemonic = "reward extra false wedding follow monkey long universe edge reveal motion panic";
+var mnemonic = "run mobile manage cannon cheap infant sport special twice dry luxury train";

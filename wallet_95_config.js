@@ -1,1 +1,1 @@
-var mnemonic = "general inside sight hunt stage draw slab major popular disease toy bamboo";
+var mnemonic = "ramp knee end swing junior announce life wolf orbit maid opinion subject";

@@ -1,1 +1,1 @@
-var mnemonic = "corn car electric power lend useful gaze annual mention eager one mixed";
+var mnemonic = "dad pair inside clay frequent depth video pear foot anger discover garage";

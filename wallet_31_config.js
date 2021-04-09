@@ -1,1 +1,1 @@
-var mnemonic = "sudden train velvet echo farm occur gravity harvest cereal joke loyal wear";
+var mnemonic = "hero canvas drum session drum practice speak submit monkey onion quick beef";

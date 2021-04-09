@@ -1,1 +1,1 @@
-var mnemonic = "slide brave bag dutch wine govern crazy title dolphin mass element fault";
+var mnemonic = "step glove wet auction entire million dilemma denial barely latin seek loyal";

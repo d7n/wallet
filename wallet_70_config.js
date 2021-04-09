@@ -1,1 +1,1 @@
-var mnemonic = "actor mail awful advice taste damp flush parent matrix hip melody river";
+var mnemonic = "tumble nephew once security century proof vague debate major combine design wealth";

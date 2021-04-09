@@ -1,1 +1,1 @@
-var mnemonic = "alarm bind skate tiny special retreat giant confirm dutch deer outdoor lift";
+var mnemonic = "liquid question vibrant gain uncle spirit wear neutral exist parade wave cushion";

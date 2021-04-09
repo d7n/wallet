@@ -1,1 +1,1 @@
-var mnemonic = "popular banana lend fringe unique chalk ramp vicious aunt put long lock";
+var mnemonic = "mansion renew cup source bring found economy replace end churn bird calm";

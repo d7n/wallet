@@ -1,1 +1,1 @@
-var mnemonic = "praise expect win unique vivid frequent repeat reunion struggle strategy huge forum";
+var mnemonic = "gain cost loud apology betray blur mass like eagle quiz waste color";

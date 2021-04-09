@@ -1,1 +1,1 @@
-var mnemonic = "injury author urban theme damp pond mesh close dentist envelope guitar squirrel";
+var mnemonic = "reject viable slot olive weird muffin retreat remind master mirror patch lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "icon all sad drum prosper verb poem aware supply country open trigger";
+var mnemonic = "rough hood brand cook fuel evolve royal crouch repair rebuild solar rapid";

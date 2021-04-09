@@ -1,1 +1,1 @@
-var mnemonic = "gentle length inquiry drama pilot plastic vintage pole powder sound slogan silk";
+var mnemonic = "cattle dynamic taste illegal point there very proof entire pupil plastic pipe";

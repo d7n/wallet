@@ -1,1 +1,1 @@
-var mnemonic = "online sail hurt cash almost wealth borrow gown produce sudden siege wasp";
+var mnemonic = "atom hawk yellow dentist cruel achieve soap flag hospital merit mule film";

@@ -1,1 +1,1 @@
-var mnemonic = "setup ecology evidence behave pact coyote country utility assault cereal milk model";
+var mnemonic = "tape burst rude shell depend laptop milk prosper attitude hen future range";

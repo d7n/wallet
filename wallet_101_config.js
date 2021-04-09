@@ -1,1 +1,1 @@
-var mnemonic = "family inhale potato nasty youth shoot sunny jar host alcohol bachelor burger";
+var mnemonic = "spike slow lunar region used life replace drop pole error sun carpet";

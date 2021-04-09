@@ -1,1 +1,1 @@
-var mnemonic = "exclude nut magic census pull train cousin salmon barely derive pattern rifle";
+var mnemonic = "kit exhaust scan country major essence recall vast human great major transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer tip minor kick cat vessel gun disorder enforce autumn tank slim";
+var mnemonic = "pipe suffer spatial civil auto author push tongue breeze car planet alarm";

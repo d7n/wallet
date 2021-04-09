@@ -1,1 +1,1 @@
-var mnemonic = "resource album much guitar yellow drill elder legal another mouse clutch board";
+var mnemonic = "immense robot husband pony brisk lizard width illness february random pause stomach";

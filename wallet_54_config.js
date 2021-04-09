@@ -1,1 +1,1 @@
-var mnemonic = "legend turkey assist stand notable behave coil suit beauty parrot all bulk";
+var mnemonic = "repeat note survey minor segment curious cloth cat hammer much license soon";

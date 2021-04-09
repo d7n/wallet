@@ -1,1 +1,1 @@
-var mnemonic = "rebel canal expire another clever sheriff gap plunge scene april garage diesel";
+var mnemonic = "gather stone weird enhance brother analyst virtual odor display garden victory bicycle";
