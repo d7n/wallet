@@ -1,1 +1,1 @@
-var mnemonic = "minimum whip remove icon phone friend basket wisdom together indicate crouch bird";
+var mnemonic = "solution siren fat awkward parent barrel salad side enact vacant rude embody";

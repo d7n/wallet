@@ -1,1 +1,1 @@
-var mnemonic = "portion frog whip siren roof toward occur dinosaur tumble dress turn cement";
+var mnemonic = "question saddle orphan clever one hollow wide flame unveil chicken divorce ivory";

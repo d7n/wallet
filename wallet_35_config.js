@@ -1,1 +1,1 @@
-var mnemonic = "method crush nominee more cheap resist ranch annual merit together tortoise swallow";
+var mnemonic = "echo art subway card pond orphan wasp push step switch clerk tone";

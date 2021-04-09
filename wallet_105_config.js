@@ -1,1 +1,1 @@
-var mnemonic = "black satisfy embark pride space hire first vacant achieve gun carpet obvious";
+var mnemonic = "size section beyond sponsor dragon child public hidden valve easy reform drift";

@@ -1,1 +1,1 @@
-var mnemonic = "grit word blame chief display link abuse rural visual judge voyage ignore";
+var mnemonic = "toddler struggle grace random size salad ordinary pudding leaf topic jeans fuel";

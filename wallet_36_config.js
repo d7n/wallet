@@ -1,1 +1,1 @@
-var mnemonic = "where laundry verify peasant flat bounce under segment behave addict frame track";
+var mnemonic = "alter naive legal sentence cinnamon add practice ask soul fox busy balance";

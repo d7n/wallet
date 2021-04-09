@@ -1,1 +1,1 @@
-var mnemonic = "gather tonight sweet brown question raccoon plate armor again universe now pig";
+var mnemonic = "dad coconut interest toe hat alter quality pyramid interest process valley control";

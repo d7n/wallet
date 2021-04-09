@@ -1,1 +1,1 @@
-var mnemonic = "water author parade bubble about unaware material roast purchase curve best trumpet";
+var mnemonic = "combine learn health eye cliff axis innocent gentle bench output lava method";

@@ -1,1 +1,1 @@
-var mnemonic = "top shadow chalk second produce outside lumber assist wrap slam fog carbon";
+var mnemonic = "ticket review marble uncle early minimum arena course area draw bicycle stomach";

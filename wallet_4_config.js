@@ -1,1 +1,1 @@
-var mnemonic = "kitten runway display rent security cradle garlic one sibling giraffe armor trial";
+var mnemonic = "annual resist artwork over tenant convince moon praise property arch artwork swim";

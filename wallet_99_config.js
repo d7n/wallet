@@ -1,1 +1,1 @@
-var mnemonic = "rotate toddler vacant corn toilet broom lucky salmon copy book sure aerobic";
+var mnemonic = "oyster wet share hawk inmate once want leave secret decrease quarter exile";

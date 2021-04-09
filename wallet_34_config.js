@@ -1,1 +1,1 @@
-var mnemonic = "false stove erupt stumble note quiz october matter friend glass lawsuit fault";
+var mnemonic = "primary conduct cram twist keep caution turkey brush feel shift machine daring";

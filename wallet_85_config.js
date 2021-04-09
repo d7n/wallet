@@ -1,1 +1,1 @@
-var mnemonic = "basic sell feature receive resemble neutral speed benefit illness master two faculty";
+var mnemonic = "unable negative flower engine cash stove crack school hammer industry square fork";

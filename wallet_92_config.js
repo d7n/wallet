@@ -1,1 +1,1 @@
-var mnemonic = "delay prevent age lawn under build power truth later news pond leave";
+var mnemonic = "exit panther course dizzy release price explain bid valley phrase analyst uphold";

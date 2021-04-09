@@ -1,1 +1,1 @@
-var mnemonic = "bus race thank road chuckle knife spatial crawl jaguar pet raven number";
+var mnemonic = "panther build outside intact pig south town snow credit fury dignity volume";

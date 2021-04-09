@@ -1,1 +1,1 @@
-var mnemonic = "assist february lava deputy allow spread inmate holiday raw unveil anxiety liberty";
+var mnemonic = "fiscal bundle client emotion heart account daring episode juice hard census stick";

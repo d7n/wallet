@@ -1,1 +1,1 @@
-var mnemonic = "large mobile panic museum slam outer palm exotic human verb lyrics victory";
+var mnemonic = "choice various vague track eight claw consider client type train skirt jungle";

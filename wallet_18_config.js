@@ -1,1 +1,1 @@
-var mnemonic = "sister extend taxi all sauce explain length expire size position year moment";
+var mnemonic = "narrow soap fee model rebel category parent income license item ancient decide";

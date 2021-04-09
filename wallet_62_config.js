@@ -1,1 +1,1 @@
-var mnemonic = "fan script settle liar harvest during wine outside accuse jeans genius decorate";
+var mnemonic = "book artist ignore foil glimpse trumpet found crouch eyebrow valid october gesture";

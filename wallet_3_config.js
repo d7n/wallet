@@ -1,1 +1,1 @@
-var mnemonic = "blade entire item circle physical kid urban stamp banner license always upgrade";
+var mnemonic = "betray mandate hint figure economy fall city marriage badge adjust number nose";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor wool tornado addict entire stick approve move adapt airport bundle high";
+var mnemonic = "move receive furnace sauce occur yard crisp chest capital quote crew that";

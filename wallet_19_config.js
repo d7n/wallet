@@ -1,1 +1,1 @@
-var mnemonic = "poem acoustic hungry safe remain roast delay panel dismiss minute render enough";
+var mnemonic = "tell cube course aspect script seat special cattle video second diary still";

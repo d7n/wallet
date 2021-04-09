@@ -1,1 +1,1 @@
-var mnemonic = "simple salmon extend never cram mushroom coyote file alien bleak leopard duck";
+var mnemonic = "traffic magic home manage proud plunge naive mail athlete debris solar ship";

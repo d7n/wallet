@@ -1,1 +1,1 @@
-var mnemonic = "frown then immune deposit friend blast game enroll peace target resemble connect";
+var mnemonic = "raccoon diary leave globe aim galaxy gadget power before summer scene club";

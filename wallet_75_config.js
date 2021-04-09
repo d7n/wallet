@@ -1,1 +1,1 @@
-var mnemonic = "shoulder brief cabin basic junk again toddler crack trash poet fly run";
+var mnemonic = "dry hand impact more item real powder nasty brother slam match sell";

@@ -1,1 +1,1 @@
-var mnemonic = "garment entry cupboard fit chest book shrug traffic tiny ozone found emerge";
+var mnemonic = "amazing donkey where tube episode rocket image execute idle glow ozone husband";

@@ -1,1 +1,1 @@
-var mnemonic = "property team athlete clerk insect level push dash auto pony grow speak";
+var mnemonic = "kidney daring enter honey stock patient snack plug silent sunset space rebuild";

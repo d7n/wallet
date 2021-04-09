@@ -1,1 +1,1 @@
-var mnemonic = "honey month abstract result fossil target turn arrest enable hedgehog empower begin";
+var mnemonic = "deny rack raccoon where hour artwork recall honey work wonder curtain swarm";

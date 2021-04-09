@@ -1,1 +1,1 @@
-var mnemonic = "around deputy hub hour electric mosquito soda drip notice industry sauce one";
+var mnemonic = "favorite useful fame runway dilemma believe say horn lyrics salute cradle canyon";

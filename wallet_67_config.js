@@ -1,1 +1,1 @@
-var mnemonic = "cruel awesome arrive rain relief raise tribe size garbage frown display whip";
+var mnemonic = "shop slot prepare climb panda seven girl buffalo artwork devote floor allow";

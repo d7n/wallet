@@ -1,1 +1,1 @@
-var mnemonic = "bonus village begin nation liquid fog surround nut guitar million brass soft";
+var mnemonic = "super unable poverty hub ocean universe become sustain glimpse erosion question river";

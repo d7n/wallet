@@ -1,1 +1,1 @@
-var mnemonic = "reflect valve pattern flee fall fat satoshi square diagram model camera tell";
+var mnemonic = "quarter spatial thought chuckle tent road crash naive boil element exit palace";

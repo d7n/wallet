@@ -1,1 +1,1 @@
-var mnemonic = "boil coconut attack void hamster black system federal cave borrow twist cause";
+var mnemonic = "mutual shift switch what juice invite basket color defense parade elevator alpha";

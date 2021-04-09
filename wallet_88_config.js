@@ -1,1 +1,1 @@
-var mnemonic = "note tiny legend spatial have october whale keen weird act hope phrase";
+var mnemonic = "sausage hat beauty test cable globe father turn damage empower choice silly";

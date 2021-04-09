@@ -1,1 +1,1 @@
-var mnemonic = "peanut spoil concert attract portion snap north easy welcome skin paddle life";
+var mnemonic = "elite fringe obvious fall case that tooth comfort pink blind actual shuffle";

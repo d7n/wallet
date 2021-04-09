@@ -1,1 +1,1 @@
-var mnemonic = "attitude kick stick dose control regular youth invite girl plunge transfer minimum";
+var mnemonic = "install forward cable rebuild express audit actual easy upgrade caught doctor stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect broccoli security elevator clown art biology edit pipe shock desert crucial";
+var mnemonic = "urge immune twice execute despair insane kiwi melody smart execute chapter rail";

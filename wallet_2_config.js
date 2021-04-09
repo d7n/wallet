@@ -1,1 +1,1 @@
-var mnemonic = "tiger drama tiny oppose grace popular error senior gesture lend air picture";
+var mnemonic = "ridge business intact employ praise victory produce room jeans genuine despair enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "again galaxy concert shrimp skate simple pretty act strong motion food estate";
+var mnemonic = "acquire ride dish force anxiety develop leaf universe happy affair detail advice";

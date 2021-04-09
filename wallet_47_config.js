@@ -1,1 +1,1 @@
-var mnemonic = "barely actor split attack fortune nature illegal number slush skate style arm";
+var mnemonic = "base lesson canoe hour allow heart world race broken tourist never talent";

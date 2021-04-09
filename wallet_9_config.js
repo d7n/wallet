@@ -1,1 +1,1 @@
-var mnemonic = "limit chat table nephew effort kitchen fix shed bleak tobacco aerobic resist";
+var mnemonic = "drum relax gasp hazard absorb visa spray tomato before bachelor seat prize";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown imitate defy super auction manage wire boost athlete goat ghost spike";
+var mnemonic = "duty pass tuition island bamboo island turn drive arena theme chuckle arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver nature inform wood detail problem afford bid proof fee toe end";
+var mnemonic = "tape educate capable easily carbon museum label remove such boat dove tongue";

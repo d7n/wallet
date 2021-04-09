@@ -1,1 +1,1 @@
-var mnemonic = "monitor pulse denial already will title sport ranch accident sock brisk borrow";
+var mnemonic = "april veteran tank toilet issue taste mandate trial dolphin local help shop";

@@ -1,1 +1,1 @@
-var mnemonic = "off round cabbage check useless response replace meat dust quick escape sunny";
+var mnemonic = "vacuum code together drop surprise onion skull absorb hobby fossil scout crowd";

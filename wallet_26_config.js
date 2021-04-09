@@ -1,1 +1,1 @@
-var mnemonic = "spy mass gorilla hedgehog point truly admit scrap shoot improve minimum card";
+var mnemonic = "elegant raven century retreat wasp keen dawn merry claim enrich camera layer";

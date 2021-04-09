@@ -1,1 +1,1 @@
-var mnemonic = "base pill hint cost evidence rent capable muffin around effort hover afford";
+var mnemonic = "order slight struggle lesson rose motor firm tide figure barrel hospital else";

@@ -1,1 +1,1 @@
-var mnemonic = "hint differ chapter language summer acid follow roast cricket claw system guess";
+var mnemonic = "fringe allow master diet citizen appear congress evoke birth beach shine claim";

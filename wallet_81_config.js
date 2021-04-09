@@ -1,1 +1,1 @@
-var mnemonic = "citizen dad ignore hobby insane assume mechanic eyebrow then exist middle plastic";
+var mnemonic = "bleak express engine soap omit tent isolate box insect burden turkey soon";

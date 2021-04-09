@@ -1,1 +1,1 @@
-var mnemonic = "panel train idle web window invest green swim noise payment review add";
+var mnemonic = "wear dinner page end theory comfort mix improve nation shield heart mammal";

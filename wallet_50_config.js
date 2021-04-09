@@ -1,1 +1,1 @@
-var mnemonic = "buddy ecology until pill issue dolphin beef happy grass expire taxi letter";
+var mnemonic = "wink hedgehog nerve rifle almost drink shield because roof bachelor food evolve";

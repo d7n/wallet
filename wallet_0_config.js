@@ -1,1 +1,1 @@
-var mnemonic = "concert advice unusual slide enough fashion exist galaxy neither drift veteran head";
+var mnemonic = "must where drift paper diamond photo help antenna very spike token cat";

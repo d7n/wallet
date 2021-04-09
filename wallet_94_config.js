@@ -1,1 +1,1 @@
-var mnemonic = "kick bring lock dove dwarf cushion black wheat rescue tag also aim";
+var mnemonic = "coast infant crane climb code palm enrich knock pink surprise enforce toast";

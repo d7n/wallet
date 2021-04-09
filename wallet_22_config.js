@@ -1,1 +1,1 @@
-var mnemonic = "true notice coconut exercise patient slam square delay finger sleep divide decorate";
+var mnemonic = "grunt hospital flash script sunny flee shed cruise finish cattle cousin atom";

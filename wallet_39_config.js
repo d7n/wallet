@@ -1,1 +1,1 @@
-var mnemonic = "below liar brisk umbrella total adapt purpose pioneer exit man label vacuum";
+var mnemonic = "youth next poverty question aspect wisdom away best tennis valley curtain fancy";

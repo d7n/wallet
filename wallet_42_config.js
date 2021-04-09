@@ -1,1 +1,1 @@
-var mnemonic = "doctor also away close light festival armor pupil help muffin burst indoor";
+var mnemonic = "pattern rifle body olympic awake brother asset snow swallow affair please chicken";

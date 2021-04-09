@@ -1,1 +1,1 @@
-var mnemonic = "action chat lawsuit camera anxiety card coil obvious main immense mask plastic";
+var mnemonic = "recall calm cradle lucky electric road upon push emerge radar february pink";

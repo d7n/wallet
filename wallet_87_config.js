@@ -1,1 +1,1 @@
-var mnemonic = "elite gym drum profit finish orient pave erode human nerve beach hospital";
+var mnemonic = "blast logic peanut hybrid hill lemon tornado question trigger cement have damage";

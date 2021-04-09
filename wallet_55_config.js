@@ -1,1 +1,1 @@
-var mnemonic = "miss thumb around bunker expose enroll vacant enough trial subject despair resource";
+var mnemonic = "model solution color buzz hand collect area food heart swarm tooth actress";

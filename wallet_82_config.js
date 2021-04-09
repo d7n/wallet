@@ -1,1 +1,1 @@
-var mnemonic = "first tobacco express gentle west equip lift exist scene eyebrow hurry alter";
+var mnemonic = "beach youth image feel slender layer snack retire wait claim canyon apple";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse pipe cook want use puppy woman present ski vendor swing disorder";
+var mnemonic = "west budget uphold chief acoustic riot uniform reason lift forum iron struggle";

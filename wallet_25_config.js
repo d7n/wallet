@@ -1,1 +1,1 @@
-var mnemonic = "canoe reason bonus play banner mango room mimic trust detail sketch until";
+var mnemonic = "lunch timber income tone cable lobster mushroom sister bomb wood dish climb";

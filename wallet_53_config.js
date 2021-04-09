@@ -1,1 +1,1 @@
-var mnemonic = "hotel protect enrich royal spatial female gospel voice future steak piano sound";
+var mnemonic = "useless toward wage device frog ostrich rally episode divert smile patch park";

@@ -1,1 +1,1 @@
-var mnemonic = "current pluck live wrong reveal chapter that special bike favorite poet hen";
+var mnemonic = "accident timber guard gate burst scene shine people fragile episode enemy ribbon";

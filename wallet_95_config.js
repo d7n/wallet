@@ -1,1 +1,1 @@
-var mnemonic = "diamond motion flat treat champion alone unique sail leisure truth exit ten";
+var mnemonic = "area seminar day snack critic robust field best square tragic usage sauce";

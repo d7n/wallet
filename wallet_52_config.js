@@ -1,1 +1,1 @@
-var mnemonic = "tongue cabin deer embody choice fog ring document valid juice green beach";
+var mnemonic = "survey urge glad virus green feel mouse fence girl gap crew club";

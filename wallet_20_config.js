@@ -1,1 +1,1 @@
-var mnemonic = "enable hybrid crunch injury sadness ribbon mosquito ivory nut pill rather camera";
+var mnemonic = "kangaroo arch harvest bulk army infant night large worry thank coin early";

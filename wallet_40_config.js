@@ -1,1 +1,1 @@
-var mnemonic = "august drama earth measure talent prepare worth bargain squirrel prevent invest limit";
+var mnemonic = "caution picnic weather spare head around bird claw solve behind report lobster";

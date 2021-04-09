@@ -1,1 +1,1 @@
-var mnemonic = "doctor cube assume bridge puzzle color anchor engine increase exit prepare fossil";
+var mnemonic = "rocket item dry nose just shift engage account month rough tape pluck";

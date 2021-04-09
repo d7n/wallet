@@ -1,1 +1,1 @@
-var mnemonic = "worry fortune lock fever evil vehicle when digital credit addict ball census";
+var mnemonic = "extra blind trigger claw state pact risk bottom emotion ugly pattern glance";

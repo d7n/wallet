@@ -1,1 +1,1 @@
-var mnemonic = "cluster odor stock ring cousin peasant aunt pave attitude snack stem love";
+var mnemonic = "wrist heart satisfy magic old when notable boy ship aim any van";

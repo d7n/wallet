@@ -1,1 +1,1 @@
-var mnemonic = "invest pistol garlic swing seek hurt cricket sustain together smart world found";
+var mnemonic = "voice assist consider provide describe people excite spy lava witness still improve";

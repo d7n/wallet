@@ -1,1 +1,1 @@
-var mnemonic = "almost slender hat prevent music online collect trip labor cancel onion virus";
+var mnemonic = "struggle matter puppy flower wasp magic armed win sail chicken uphold era";

@@ -1,1 +1,1 @@
-var mnemonic = "early cancel owner unknown soup radio donor equip improve coffee nest never";
+var mnemonic = "bus host thrive elegant stage link degree course undo adjust ice power";

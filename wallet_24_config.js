@@ -1,1 +1,1 @@
-var mnemonic = "wide bamboo couple later limb dove faculty base later endless ignore summer";
+var mnemonic = "supreme quit true veteran health strike parade disorder shallow laundry smooth rebel";

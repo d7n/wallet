@@ -1,1 +1,1 @@
-var mnemonic = "fit purse rookie random clinic phone panic fit hungry chapter donkey month";
+var mnemonic = "sudden novel clog utility candy intact enough reflect flash shine reopen shallow";

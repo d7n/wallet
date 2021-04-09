@@ -1,1 +1,1 @@
-var mnemonic = "spot muscle name eagle donkey spider lyrics basic jewel assault one prize";
+var mnemonic = "abuse voice frequent fork enemy athlete become expect flip skirt panther spice";

@@ -1,1 +1,1 @@
-var mnemonic = "step core insane vintage saddle fruit near camp code loyal cook soft";
+var mnemonic = "strategy taste renew west around tent release prize hover palm pave trap";

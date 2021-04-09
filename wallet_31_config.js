@@ -1,1 +1,1 @@
-var mnemonic = "jeans collect verify liar pepper evoke segment home twelve dial small ribbon";
+var mnemonic = "permit health olympic skill brisk quantum upper wealth west move process trophy";

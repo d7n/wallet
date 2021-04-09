@@ -1,1 +1,1 @@
-var mnemonic = "rescue pass muffin boil enlist solar resemble hawk fantasy result shield wink";
+var mnemonic = "sustain turtle before aerobic foot artist mule error size hammer federal nature";

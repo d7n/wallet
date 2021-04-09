@@ -1,1 +1,1 @@
-var mnemonic = "crouch upper birth agree pumpkin bitter marriage rack robot guilt crunch sketch";
+var mnemonic = "mail hour turn lounge essay frost bitter toss auto maximum glow negative";

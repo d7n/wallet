@@ -1,1 +1,1 @@
-var mnemonic = "wool tell east multiply smooth pretty away charge nest stem control rookie";
+var mnemonic = "monster measure lock soup sock laugh glass actress smile reduce concert welcome";

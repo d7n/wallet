@@ -1,1 +1,1 @@
-var mnemonic = "document size unable review fog bind attract notable diagram tiny amateur rent";
+var mnemonic = "moon sleep wool real educate draft swing brass brain produce turkey strike";

@@ -1,1 +1,1 @@
-var mnemonic = "practice vanish horse delay rail letter walk soup approve library year place";
+var mnemonic = "wreck clock media cheese student bench salmon gun issue thumb orphan evil";

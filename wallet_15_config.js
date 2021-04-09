@@ -1,1 +1,1 @@
-var mnemonic = "country tonight abandon midnight visa cave tenant blossom return inquiry just glance";
+var mnemonic = "slogan equal palace matrix buddy skill avoid album grief govern grit dolphin";

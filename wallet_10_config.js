@@ -1,1 +1,1 @@
-var mnemonic = "mechanic empower error quantum such kit park army adult top mean milk";
+var mnemonic = "cream clerk shadow region frame fox island sting nation nurse fork way";

@@ -1,1 +1,1 @@
-var mnemonic = "arena broken creek ghost fix guitar wave tennis before blouse scrap render";
+var mnemonic = "pear various link must ecology north wish skate library chimney end turn";

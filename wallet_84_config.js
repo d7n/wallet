@@ -1,1 +1,1 @@
-var mnemonic = "hurdle helmet snack unusual silk scatter cream pear drill fashion venture fall";
+var mnemonic = "shuffle vivid can grow park slush humble mistake like merry curious option";

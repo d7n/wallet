@@ -1,1 +1,1 @@
-var mnemonic = "control turkey produce outdoor addict access breeze surprise invest resemble base twin";
+var mnemonic = "paddle protect toilet coconut give vintage club solid bullet process detect vacuum";

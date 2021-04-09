@@ -1,1 +1,1 @@
-var mnemonic = "unfair topic gap stumble height march notice solution raven tape analyst bronze";
+var mnemonic = "island enter increase that liquid air churn that book fan media ceiling";
