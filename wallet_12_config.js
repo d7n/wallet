@@ -1,1 +1,1 @@
-var mnemonic = "spell cheese photo region best thought agent lumber behind satoshi obey solid";
+var mnemonic = "meadow combine wet ignore clerk child limb diet isolate erase duck any";

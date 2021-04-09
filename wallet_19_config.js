@@ -1,1 +1,1 @@
-var mnemonic = "verb enrich torch case pact barely castle gym stumble decrease pencil toss";
+var mnemonic = "timber leopard grunt label eager wage accident farm west giggle label admit";

@@ -1,1 +1,1 @@
-var mnemonic = "key vintage excess ticket suffer final point pill audit fine record denial";
+var mnemonic = "develop zero soup virus deal street bundle transfer flag amateur penalty any";

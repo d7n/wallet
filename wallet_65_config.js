@@ -1,1 +1,1 @@
-var mnemonic = "bonus bar razor diary shaft tonight dolphin flip awkward garbage vital lumber";
+var mnemonic = "genuine uncover history hub boat quiz inch analyst display above shiver push";

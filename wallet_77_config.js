@@ -1,1 +1,1 @@
-var mnemonic = "neutral humor vanish catch ladder gas inhale junk glass health someone blind";
+var mnemonic = "flee walk vote asset tilt material galaxy decorate kiss expand law ivory";

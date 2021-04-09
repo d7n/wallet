@@ -1,1 +1,1 @@
-var mnemonic = "reflect invest bubble sun attract useless genius blanket cruise normal cross laundry";
+var mnemonic = "unfold kiwi shy myself brand grain balance umbrella remove will dolphin hamster";

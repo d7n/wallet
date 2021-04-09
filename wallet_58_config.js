@@ -1,1 +1,1 @@
-var mnemonic = "cactus half fortune crime earth opera call repeat hello liberty knee judge";
+var mnemonic = "awake hair dolphin ancient ride hurdle save scan garbage panther merry else";

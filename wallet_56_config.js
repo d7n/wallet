@@ -1,1 +1,1 @@
-var mnemonic = "bid resource budget thought carry develop barely style panther member idea lock";
+var mnemonic = "evil rug paddle symptom neck fuel lecture devote frown trigger whisper frost";

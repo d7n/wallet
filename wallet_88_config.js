@@ -1,1 +1,1 @@
-var mnemonic = "master nice battle camp coin front episode lottery auction surround hawk girl";
+var mnemonic = "tilt distance media resemble before champion object club stick innocent puzzle picture";

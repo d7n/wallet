@@ -1,1 +1,1 @@
-var mnemonic = "later version brown cotton deputy vote strong column claw add amazing unusual";
+var mnemonic = "page resemble twist punch smooth enemy track tired fossil inherit special obey";

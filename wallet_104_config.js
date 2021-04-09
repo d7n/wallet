@@ -1,1 +1,1 @@
-var mnemonic = "daring cream lady reform dinner favorite broom salon palm current siren nurse";
+var mnemonic = "possible canoe decorate humor stone penalty raw decrease hill own toward enough";

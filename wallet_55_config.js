@@ -1,1 +1,1 @@
-var mnemonic = "embrace display brief brick spawn village laugh obey forum company swear praise";
+var mnemonic = "crash vocal style truck prosper disagree pond street update melt beyond tonight";

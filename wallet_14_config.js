@@ -1,1 +1,1 @@
-var mnemonic = "seed margin thrive dismiss pulp slab abuse nominee oven split sea leave";
+var mnemonic = "market already income solar just amount change theory more skull affair vintage";

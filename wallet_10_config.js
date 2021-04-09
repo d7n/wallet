@@ -1,1 +1,1 @@
-var mnemonic = "oyster theme just fabric pull risk crazy aim exotic nothing busy wait";
+var mnemonic = "basket raise live earn silent salt edit apology aim report early runway";

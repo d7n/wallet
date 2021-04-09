@@ -1,1 +1,1 @@
-var mnemonic = "delay motion bomb donor friend reunion blade unfold derive journey book board";
+var mnemonic = "sad region coffee fury roof predict night suit pony ready envelope little";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune pupil chair gravity lyrics economy brass banner nasty juice extra remain";
+var mnemonic = "you cliff vast nerve breeze lizard amazing wear noble moon wash unit";

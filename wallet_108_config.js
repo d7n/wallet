@@ -1,1 +1,1 @@
-var mnemonic = "average close razor wing damage wreck denial mesh peasant spin around turkey";
+var mnemonic = "stereo humble exclude trouble what govern spell minimum throw lion tornado winner";

@@ -1,1 +1,1 @@
-var mnemonic = "bag boy sting crop stuff health tide hybrid gesture fly rude address";
+var mnemonic = "during curtain crack stone hole expire title meadow dizzy action teach zoo";

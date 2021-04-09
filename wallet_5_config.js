@@ -1,1 +1,1 @@
-var mnemonic = "swap beauty poverty flip panic outside runway loop uncover attitude rather angle";
+var mnemonic = "scrap nature maid act pluck primary rebuild imitate cannon idea chapter explain";

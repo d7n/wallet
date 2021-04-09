@@ -1,1 +1,1 @@
-var mnemonic = "borrow sick patch trumpet path tattoo pet embrace receive hair alpha bus";
+var mnemonic = "cruise pact average impact vast symptom coyote table subject dutch giant goose";

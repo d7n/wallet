@@ -1,1 +1,1 @@
-var mnemonic = "junior pink wave weekend ahead cook quick run pistol increase receive abstract";
+var mnemonic = "thumb obscure kangaroo smoke kind slight clinic bachelor reunion jaguar monster bullet";

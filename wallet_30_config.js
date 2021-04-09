@@ -1,1 +1,1 @@
-var mnemonic = "second random monkey quick hunt crystal furnace rib fury stable group harbor";
+var mnemonic = "swamp notice music taste curious sea actress mesh that key bottom baby";

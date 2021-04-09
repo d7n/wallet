@@ -1,1 +1,1 @@
-var mnemonic = "adapt satisfy nephew heart exist razor begin flat juice quit noodle stadium";
+var mnemonic = "grow east believe comic tone switch multiply enrich rich proof endorse eyebrow";

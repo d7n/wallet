@@ -1,1 +1,1 @@
-var mnemonic = "bargain muffin scale alter inmate awful cereal guitar staff sun cycle seminar";
+var mnemonic = "print little gather spoil mind fossil emotion judge bundle adapt story park";

@@ -1,1 +1,1 @@
-var mnemonic = "during tunnel poverty apart news sphere inherit lion present resemble beyond obscure";
+var mnemonic = "solar sorry fire diesel replace helmet cliff cement ancient mandate anger giraffe";

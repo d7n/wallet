@@ -1,1 +1,1 @@
-var mnemonic = "any upper country heavy power bullet machine audit hurt rhythm access brand";
+var mnemonic = "gaze deliver popular knife coconut silly fan mimic inflict fold police again";

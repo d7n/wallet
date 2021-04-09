@@ -1,1 +1,1 @@
-var mnemonic = "fade approve toward rude enemy defy tape bus toddler hill health until";
+var mnemonic = "jeans plastic sudden magnet solve frozen cigar three floor estate crowd wave";

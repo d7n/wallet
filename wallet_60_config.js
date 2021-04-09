@@ -1,1 +1,1 @@
-var mnemonic = "olive spatial treat team nominee gold version bullet apology error manual half";
+var mnemonic = "trial luggage vehicle capable horn theory dismiss because position bless captain worth";

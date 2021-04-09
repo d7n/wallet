@@ -1,1 +1,1 @@
-var mnemonic = "index rotate wink merry exhaust fit link mountain expand sock wave worry";
+var mnemonic = "teach fiscal tube motor phrase letter stamp voyage meat old rent blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "open mesh movie hungry hip open hope any seat foil iron roof";
+var mnemonic = "sound size milk dice scatter void hub wage rally plug sheriff security";

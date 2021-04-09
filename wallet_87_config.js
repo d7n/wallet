@@ -1,1 +1,1 @@
-var mnemonic = "curious amateur fire deny visit dove salt display bright aware donate manual";
+var mnemonic = "alert pear order offer reflect soap will suffer now vacant outer slam";

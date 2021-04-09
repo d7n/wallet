@@ -1,1 +1,1 @@
-var mnemonic = "quality good trouble good decrease hotel rack horror urge tag forward apple";
+var mnemonic = "green company purchase stable best bag merge elbow ten post bacon salt";

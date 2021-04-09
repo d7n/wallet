@@ -1,1 +1,1 @@
-var mnemonic = "champion never session rug recipe acoustic badge sport bachelor marriage victory moment";
+var mnemonic = "supreme refuse high voice able sad zebra sting amazing peasant brain jacket";

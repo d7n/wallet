@@ -1,1 +1,1 @@
-var mnemonic = "history absent system potato amount fade swarm lyrics original cattle breeze lock";
+var mnemonic = "force aunt toddler gasp nerve shine disease thrive purpose sheriff bonus arrive";

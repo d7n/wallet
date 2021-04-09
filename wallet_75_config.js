@@ -1,1 +1,1 @@
-var mnemonic = "ecology gallery pear goose pistol napkin media plastic mail topple sort vivid";
+var mnemonic = "harbor reduce bring tube unaware whisper sign claw industry small hip van";

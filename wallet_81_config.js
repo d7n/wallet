@@ -1,1 +1,1 @@
-var mnemonic = "stool cable divide barely chief rate element arrow mandate together enjoy royal";
+var mnemonic = "bamboo addict lady powder curious loop stem speed flavor six high roof";

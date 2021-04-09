@@ -1,1 +1,1 @@
-var mnemonic = "puzzle lift organ ketchup often benefit game sample easily cruise vacuum volcano";
+var mnemonic = "come ethics list danger clerk kiss secret guilt loyal try comic cool";

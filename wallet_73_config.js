@@ -1,1 +1,1 @@
-var mnemonic = "issue observe pair aerobic basket autumn radar level decade motor brief infant";
+var mnemonic = "step give shadow embrace ignore pond street strong track decorate tiger fog";

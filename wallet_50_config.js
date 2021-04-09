@@ -1,1 +1,1 @@
-var mnemonic = "debate exotic inside measure rely wise prevent intact almost over crouch green";
+var mnemonic = "neglect attract lounge bone pulp gold utility tragic attend card parrot piece";

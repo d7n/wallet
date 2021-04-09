@@ -1,1 +1,1 @@
-var mnemonic = "maze dragon arm quarter forward prize destroy cup fall argue glow effort";
+var mnemonic = "route unhappy vendor imitate sausage spirit pizza quote tide drink assault envelope";

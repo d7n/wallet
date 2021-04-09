@@ -1,1 +1,1 @@
-var mnemonic = "chat congress canyon twice long pen cross muscle object apology hint weekend";
+var mnemonic = "meadow pluck ugly blur lake tooth dish gentle only hard trim capable";

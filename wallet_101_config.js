@@ -1,1 +1,1 @@
-var mnemonic = "fossil strong essence find cinnamon boring cousin jungle inherit until inch viable";
+var mnemonic = "relax library lawsuit offer luxury napkin shoe surprise brown left want illegal";

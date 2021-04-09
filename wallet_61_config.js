@@ -1,1 +1,1 @@
-var mnemonic = "hurry lady rug general grab stadium slam art myself party salute entire";
+var mnemonic = "praise scorpion fish toast push filter degree basket alien barrel trend gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "light win proof bleak sport pelican enjoy duty diet anchor response waste";
+var mnemonic = "false intact wait shock stuff loop celery fruit say broom know town";

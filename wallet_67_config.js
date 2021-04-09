@@ -1,1 +1,1 @@
-var mnemonic = "picture rigid junior gospel share cross joke shallow strategy evidence solve mouse";
+var mnemonic = "enable priority convince gaze garbage arctic more plunge parrot warfare bike shift";

@@ -1,1 +1,1 @@
-var mnemonic = "review blade obvious frame cereal runway huge ski roof rabbit rich force";
+var mnemonic = "beauty broken donor obtain convince near rifle teach bottom urban monster tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "mango deny grant traffic grocery one gesture mandate easily pill flee purpose";
+var mnemonic = "circle thrive total bronze chaos wrap body hazard dirt cruel switch tide";

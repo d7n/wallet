@@ -1,1 +1,1 @@
-var mnemonic = "physical ancient luxury obvious spread odor clump object twin vital disease capital";
+var mnemonic = "educate core top phone original cry noise hammer guilt dad host text";

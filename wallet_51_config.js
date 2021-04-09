@@ -1,1 +1,1 @@
-var mnemonic = "flip adapt voice essay first force canyon orchard stamp lunar issue alone";
+var mnemonic = "industry trial pig october response stairs crop three hair benefit monitor shove";

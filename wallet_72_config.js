@@ -1,1 +1,1 @@
-var mnemonic = "rail gather glad blanket kind energy check boil license muffin refuse fiscal";
+var mnemonic = "battle name crawl woman timber evil true virtual accuse gate crash dolphin";

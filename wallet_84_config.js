@@ -1,1 +1,1 @@
-var mnemonic = "hurry tribe chapter flee tool range reflect spare friend zero near almost";
+var mnemonic = "shoot romance chimney legal sister jacket sound fence repair junior school portion";

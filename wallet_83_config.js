@@ -1,1 +1,1 @@
-var mnemonic = "broccoli escape panther phone topic replace vapor proof dynamic crucial before round";
+var mnemonic = "clump merry square general vault call worth fluid huge finger sad rude";

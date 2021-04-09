@@ -1,1 +1,1 @@
-var mnemonic = "subject wedding express sister suggest grass impulse text cruise harsh reduce bitter";
+var mnemonic = "round labor pistol wife flush sock market dose brand train wool liberty";

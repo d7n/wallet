@@ -1,1 +1,1 @@
-var mnemonic = "upset tone buffalo ostrich pen host emerge mansion float erode tragic spell";
+var mnemonic = "camera hen indicate book sample outer animal plunge tonight saddle couch force";

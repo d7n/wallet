@@ -1,1 +1,1 @@
-var mnemonic = "cash hold guard siren crawl entire remain amazing zero rocket rubber galaxy";
+var mnemonic = "today bonus embrace feature trash inmate draw talent body morning evoke swamp";

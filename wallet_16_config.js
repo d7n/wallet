@@ -1,1 +1,1 @@
-var mnemonic = "unveil library dawn index pen volume approve luggage machine palm movie access";
+var mnemonic = "rabbit detail confirm provide material strong ten horse choice host cage badge";

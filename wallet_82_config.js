@@ -1,1 +1,1 @@
-var mnemonic = "mistake diesel dune pink divert run arrange trick pipe pencil alley pelican";
+var mnemonic = "they pilot ecology sadness inflict exclude diet kid school loud lottery combine";

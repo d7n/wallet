@@ -1,1 +1,1 @@
-var mnemonic = "wood subway write march goddess salmon miss under trash kid spice innocent";
+var mnemonic = "ecology such entire razor harsh romance load banana turkey zebra pilot sauce";

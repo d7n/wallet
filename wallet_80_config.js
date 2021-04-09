@@ -1,1 +1,1 @@
-var mnemonic = "bamboo alone law father address fence milk smart smart deer derive chaos";
+var mnemonic = "render dinner employ order egg sell sphere region swarm install cry metal";

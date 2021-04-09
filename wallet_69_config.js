@@ -1,1 +1,1 @@
-var mnemonic = "struggle pave coffee mandate fox drastic tongue update south mass ring load";
+var mnemonic = "give nut eight tiny utility radio spatial gadget sock shallow quick apple";

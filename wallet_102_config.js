@@ -1,1 +1,1 @@
-var mnemonic = "media various speak main school rhythm cost crowd egg put predict swamp";
+var mnemonic = "slow present moral arrange minute wrist goat tuition buffalo rival skin soap";

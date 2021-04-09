@@ -1,1 +1,1 @@
-var mnemonic = "age disorder seek curve nerve outer life series state process romance correct";
+var mnemonic = "short foster hungry wealth fragile appear immense car eagle list elevator bachelor";

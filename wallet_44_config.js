@@ -1,1 +1,1 @@
-var mnemonic = "glide resist genuine person differ virus decorate disease dish device similar dial";
+var mnemonic = "collect cousin vocal donor divorce visit rack afford forest quote amateur pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "unit detect allow crane zone giggle early auto culture wait light conduct";
+var mnemonic = "april valve lucky sheriff area aspect exile laundry certain tip reward reopen";

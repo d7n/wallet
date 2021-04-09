@@ -1,1 +1,1 @@
-var mnemonic = "rapid pelican must author ozone ring column season place odor owner trip";
+var mnemonic = "bracket morning leave topic shallow desert useful action acquire fossil mobile then";

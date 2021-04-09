@@ -1,1 +1,1 @@
-var mnemonic = "scissors kite lemon donor comic piano emerge suffer suit order violin acid";
+var mnemonic = "kingdom peace weapon blame make alone student symbol wasp black wrestle short";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe craft please fantasy hungry dilemma manual marble space client above again";
+var mnemonic = "prefer sample sweet vendor flee thought board lecture ordinary witness phone agent";

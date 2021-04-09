@@ -1,1 +1,1 @@
-var mnemonic = "final tobacco among cancel issue habit orange zebra useful embody steel icon";
+var mnemonic = "buyer obscure utility ride poet leopard sort suspect pepper innocent valve initial";

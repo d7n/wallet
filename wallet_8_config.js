@@ -1,1 +1,1 @@
-var mnemonic = "admit marine increase render system memory wink glue announce increase soap toddler";
+var mnemonic = "method excess reflect earn urban entire hidden food error scout language siege";

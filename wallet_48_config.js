@@ -1,1 +1,1 @@
-var mnemonic = "tank suit insect decide cement region snow shallow buddy actress digital addict";
+var mnemonic = "actress true supply exotic obey exist day wasp hero pioneer hen deliver";

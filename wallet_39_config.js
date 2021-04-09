@@ -1,1 +1,1 @@
-var mnemonic = "menu fall melody canvas regular mass chief hamster portion ghost student mandate";
+var mnemonic = "desk turn crawl can stage display property patrol toy empower fuel plastic";

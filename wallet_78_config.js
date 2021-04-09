@@ -1,1 +1,1 @@
-var mnemonic = "tag vocal order simple inner oil budget detect slam home accuse exercise";
+var mnemonic = "ghost moral universe rescue number cube embrace zoo trash reduce under bulb";

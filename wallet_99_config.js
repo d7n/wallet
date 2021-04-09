@@ -1,1 +1,1 @@
-var mnemonic = "dumb cradle render tiger outer roof grocery double bracket stamp nature frown";
+var mnemonic = "velvet common program amount quality disease dove curious begin team help coyote";

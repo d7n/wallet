@@ -1,1 +1,1 @@
-var mnemonic = "spin half atom fury base cloud own sunny usage senior letter abandon";
+var mnemonic = "trap basic filter super token category cushion video attract climb vendor divide";

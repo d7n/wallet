@@ -1,1 +1,1 @@
-var mnemonic = "enforce furnace pupil dance guess middle ship code left grant marine autumn";
+var mnemonic = "spirit either path bronze embody canyon cry poverty orchard salon cactus cinnamon";

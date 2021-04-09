@@ -1,1 +1,1 @@
-var mnemonic = "luggage stereo end lake add fuel frozen ostrich custom negative range symptom";
+var mnemonic = "squeeze green beyond rent reform shuffle renew flip tail upset eight rule";

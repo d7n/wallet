@@ -1,1 +1,1 @@
-var mnemonic = "enemy scene immense mixed enact they cover cost certain define tiny crouch";
+var mnemonic = "online witness check tragic warm frost museum photo spring sibling copper ketchup";

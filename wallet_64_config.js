@@ -1,1 +1,1 @@
-var mnemonic = "federal entry curve frost upset two vast cradle essay erupt stumble area";
+var mnemonic = "still friend ramp monkey oval mother effort raccoon nice point copy toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon find inject rack fossil hurdle maximum spice board peanut build filter";
+var mnemonic = "north predict hockey top neutral pact street trophy absorb heavy pottery guilt";

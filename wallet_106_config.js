@@ -1,1 +1,1 @@
-var mnemonic = "rough heavy buzz critic indicate roof february hint sing west float transfer";
+var mnemonic = "erupt supreme session vault cotton found foster blossom force company rocket motion";

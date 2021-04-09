@@ -1,1 +1,1 @@
-var mnemonic = "abuse wage tiny helmet poem problem clutch bring social chronic arm emotion";
+var mnemonic = "hamster book deposit echo beach ten grocery decide isolate name judge earth";

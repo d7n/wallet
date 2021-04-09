@@ -1,1 +1,1 @@
-var mnemonic = "scare carpet avocado shoe distance emotion include pigeon near pony surround cactus";
+var mnemonic = "spice surprise tenant spawn cash enable loyal light firm regret tower garden";

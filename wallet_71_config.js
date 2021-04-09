@@ -1,1 +1,1 @@
-var mnemonic = "parrot spin door collect clap canvas anxiety approve engine student pulp love";
+var mnemonic = "humor iron aspect include cushion fee bunker dignity what smile define pepper";
