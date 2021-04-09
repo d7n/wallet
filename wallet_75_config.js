@@ -1,1 +1,1 @@
-var mnemonic = "record gown toddler dial average toast admit charge elegant spring old garment";
+var mnemonic = "ridge bounce wise broken dice assist space case boring impulse way holiday";

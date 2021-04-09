@@ -1,1 +1,1 @@
-var mnemonic = "ripple frozen alter student rifle civil tragic fade tortoise ghost undo cute";
+var mnemonic = "awkward window endless mail depend winner april rebuild leaf dance agent urban";

@@ -1,1 +1,1 @@
-var mnemonic = "desert illegal vicious powder bridge never guide song notable ticket heart lizard";
+var mnemonic = "tunnel unhappy grape palm crack tornado little sister awake prize marble horror";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact deal use machine number laptop such basket use enter can legal";
+var mnemonic = "document remember ordinary lizard tip town disease length smoke hedgehog token ankle";

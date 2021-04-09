@@ -1,1 +1,1 @@
-var mnemonic = "title remember absorb dwarf vault grab flock ladder tribe grass rough peasant";
+var mnemonic = "sustain into series wealth place afford boss coyote put slam cloud pony";

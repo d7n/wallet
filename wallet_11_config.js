@@ -1,1 +1,1 @@
-var mnemonic = "idea open host glare leg scrub ginger tone barely magic scout effort";
+var mnemonic = "explain auction similar crater burger sweet switch leaf pull click axis struggle";

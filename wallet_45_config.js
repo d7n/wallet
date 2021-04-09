@@ -1,1 +1,1 @@
-var mnemonic = "marble innocent faint power expose expire pool olive coil piano describe valid";
+var mnemonic = "profit high hybrid repeat clump quit guess census dream swallow able salute";

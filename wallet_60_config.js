@@ -1,1 +1,1 @@
-var mnemonic = "space bachelor reason concert slush afford broken solar task stadium odor river";
+var mnemonic = "guess gift dirt act sell ring enemy swear clap betray allow property";

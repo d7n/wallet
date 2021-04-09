@@ -1,1 +1,1 @@
-var mnemonic = "kick pulse horn intact divide family business gasp grief timber kind focus";
+var mnemonic = "naive index deal journey index chaos ask patient confirm wedding universe forum";

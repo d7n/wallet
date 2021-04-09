@@ -1,1 +1,1 @@
-var mnemonic = "goddess comfort cabbage mistake deal tree travel sniff marine side million submit";
+var mnemonic = "hobby better chief choose phrase friend siege range place pipe cliff economy";

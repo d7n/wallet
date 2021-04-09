@@ -1,1 +1,1 @@
-var mnemonic = "river ranch void chair useful harvest dismiss pass rubber taxi hat pill";
+var mnemonic = "champion salad display rough fuel excuse jelly drop siren crime cluster fresh";

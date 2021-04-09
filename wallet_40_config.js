@@ -1,1 +1,1 @@
-var mnemonic = "copper journey copy inside morning mountain popular discover swarm cry isolate slab";
+var mnemonic = "opera finish tragic road tuna palace volcano hero orbit eight canal divide";

@@ -1,1 +1,1 @@
-var mnemonic = "auto urban card furnace practice history sustain vault grocery razor weekend lecture";
+var mnemonic = "silent chest arrow veteran inflict tourist betray now minute off stool leader";

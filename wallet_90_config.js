@@ -1,1 +1,1 @@
-var mnemonic = "fade garment clarify century rescue flat average winner pen figure hazard net";
+var mnemonic = "flash any man dance sample until claim main phone gate brick coach";

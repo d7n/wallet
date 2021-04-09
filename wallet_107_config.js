@@ -1,1 +1,1 @@
-var mnemonic = "ahead diagram walk hospital juice worry shell arrest speed place culture team";
+var mnemonic = "taxi urge harsh pair reduce priority tree fish canoe police child oil";

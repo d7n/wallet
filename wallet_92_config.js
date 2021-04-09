@@ -1,1 +1,1 @@
-var mnemonic = "brand choose scale often wire lemon lion code delay still village arrange";
+var mnemonic = "client robot wide deputy only example baby occur anger step roast skull";

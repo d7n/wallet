@@ -1,1 +1,1 @@
-var mnemonic = "seminar shallow viable under tuition impact churn village obey offer possible barrel";
+var mnemonic = "life unit rapid dog grid pilot obvious glide pulp regular ocean alcohol";

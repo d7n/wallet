@@ -1,1 +1,1 @@
-var mnemonic = "upon gold truly diagram focus helmet tilt tray aware aspect pill behind";
+var mnemonic = "click hover neither sister welcome oblige undo flag method trouble hood typical";

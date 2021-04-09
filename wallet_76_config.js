@@ -1,1 +1,1 @@
-var mnemonic = "area brush twelve coconut license boil club source property venture absent quantum";
+var mnemonic = "grit strong spike champion mad distance grief balance timber pioneer scheme hope";

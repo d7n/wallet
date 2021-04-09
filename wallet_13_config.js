@@ -1,1 +1,1 @@
-var mnemonic = "jaguar alpha you daughter fall title cry evoke love city sheriff loop";
+var mnemonic = "drive juice region cash vital riot naive salon arm fame wire around";

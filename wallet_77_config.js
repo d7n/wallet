@@ -1,1 +1,1 @@
-var mnemonic = "project strong cave hole romance pepper before response assault pave finish grace";
+var mnemonic = "pass card leave card cube enact depend envelope ring extend industry walk";

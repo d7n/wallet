@@ -1,1 +1,1 @@
-var mnemonic = "put cargo dose tool gentle satoshi merge alien waste never chunk genius";
+var mnemonic = "width stable eagle oyster produce disagree pledge fury pyramid salon rain oak";

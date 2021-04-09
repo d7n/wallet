@@ -1,1 +1,1 @@
-var mnemonic = "trial zoo license sort piano slight sea hero someone lumber replace flip";
+var mnemonic = "mobile void volcano use furnace word measure six fiber inquiry promote shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "illness tag air chuckle oppose flavor credit divide rubber glass certain foot";
+var mnemonic = "liquid smoke cinnamon expect under evidence age fold address super unable leaf";

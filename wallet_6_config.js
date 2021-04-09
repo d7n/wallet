@@ -1,1 +1,1 @@
-var mnemonic = "world grief prepare chest naive jaguar endorse august horse repeat mosquito bulb";
+var mnemonic = "possible naive swift beef vessel drill bright finger twice crash insect second";

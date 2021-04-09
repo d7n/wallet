@@ -1,1 +1,1 @@
-var mnemonic = "middle marble tonight transfer evidence faculty box second burst forest trade blade";
+var mnemonic = "hub fly group student tackle ecology mimic idle maid dose exist diagram";

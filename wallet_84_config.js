@@ -1,1 +1,1 @@
-var mnemonic = "cat power reject unknown tobacco shoe hazard dad eyebrow olive negative figure";
+var mnemonic = "quantum trade manage awesome corn room funny approve betray bulk trust reflect";

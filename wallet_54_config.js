@@ -1,1 +1,1 @@
-var mnemonic = "slogan egg cook neck good drill lyrics trouble veteran company useless throw";
+var mnemonic = "shine wreck mammal suspect high kingdom cliff caught leave hero upset next";

@@ -1,1 +1,1 @@
-var mnemonic = "valley endorse sand load follow simple credit assault describe odor arrow educate";
+var mnemonic = "lunch donkey helmet diesel oppose cinnamon pole response layer bring minor brick";

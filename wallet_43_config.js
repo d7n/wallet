@@ -1,1 +1,1 @@
-var mnemonic = "weather bachelor arrest degree attack glory one element memory ceiling degree cradle";
+var mnemonic = "route arctic hand tool powder sound wagon eyebrow glance text nerve butter";

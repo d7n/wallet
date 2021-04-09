@@ -1,1 +1,1 @@
-var mnemonic = "sock wild display obtain boss box case evolve belt gauge live minor";
+var mnemonic = "birth embark chapter portion quote proof ecology pumpkin enhance wonder hurry ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "culture reform shoot cruel edge plate staff mention cricket cereal prosper scan";
+var mnemonic = "stadium fortune coin brass holiday series gym dentist city embrace invite finger";

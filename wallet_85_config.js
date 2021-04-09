@@ -1,1 +1,1 @@
-var mnemonic = "essay tell equip spice prize spice record error doll buddy meat digital";
+var mnemonic = "place pudding notice skull script device myself output edge oil relief explain";

@@ -1,1 +1,1 @@
-var mnemonic = "degree winner chuckle enforce laugh struggle jealous motion defy modify tube near";
+var mnemonic = "proof toddler demise report payment spare inmate replace pride seat you lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram increase pear hip point option also uniform food space decide expire";
+var mnemonic = "announce where lab hen mouse pioneer metal feel theory soup unhappy blame";

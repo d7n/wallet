@@ -1,1 +1,1 @@
-var mnemonic = "bread basket small reform peasant network hood slight hamster high mammal daughter";
+var mnemonic = "next logic nephew shift future desk advance penalty parrot great hope valve";

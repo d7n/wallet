@@ -1,1 +1,1 @@
-var mnemonic = "sugar hope spare raven draft silly glimpse differ coyote grid body square";
+var mnemonic = "spin bread play climb upset narrow margin quick when all shy mechanic";

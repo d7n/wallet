@@ -1,1 +1,1 @@
-var mnemonic = "water conduct quality donor fragile mammal often spirit ignore similar drastic soda";
+var mnemonic = "giant magnet lock leisure eye cereal garlic actor rabbit example culture pool";

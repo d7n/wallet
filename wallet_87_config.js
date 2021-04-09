@@ -1,1 +1,1 @@
-var mnemonic = "zoo average evidence helmet just night fiction timber tuition blanket never lunch";
+var mnemonic = "relax lend employ win impulse wrong subway extra cup noise kid retire";

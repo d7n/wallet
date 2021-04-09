@@ -1,1 +1,1 @@
-var mnemonic = "lake gallery column sample degree hold canvas barely patch custom wreck end";
+var mnemonic = "imitate early aspect van champion deal march foam public very next tell";

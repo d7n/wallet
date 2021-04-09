@@ -1,1 +1,1 @@
-var mnemonic = "birth velvet gift essence pink fan smoke spider volcano month flash box";
+var mnemonic = "quick knife fancy jar moment option embark slice glass bike sick profit";

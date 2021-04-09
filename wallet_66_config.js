@@ -1,1 +1,1 @@
-var mnemonic = "memory early version inherit alley tiger adapt icon lonely install truly bright";
+var mnemonic = "jaguar great chest coffee awesome favorite name magnet paddle cousin vivid audit";

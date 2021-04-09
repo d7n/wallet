@@ -1,1 +1,1 @@
-var mnemonic = "cluster velvet crash gown crumble napkin area bright faculty tone pigeon slice";
+var mnemonic = "curtain erosion version time behave duck awesome wrestle tennis win media grace";

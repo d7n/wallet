@@ -1,1 +1,1 @@
-var mnemonic = "hammer loop debris mix excite brief city guard loyal wall neglect act";
+var mnemonic = "vacant engage ugly wrist never breeze piano control swing gravity affair degree";

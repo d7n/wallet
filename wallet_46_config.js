@@ -1,1 +1,1 @@
-var mnemonic = "matter ankle number begin solid into topple code place bunker square bitter";
+var mnemonic = "banner expire vessel rose rookie enable survey soda opinion away force right";

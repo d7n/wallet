@@ -1,1 +1,1 @@
-var mnemonic = "act search avoid win slush around sure wrong bargain page quote still";
+var mnemonic = "loan diary retire lizard whip burden verb kiwi join case chase unaware";

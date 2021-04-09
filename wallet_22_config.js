@@ -1,1 +1,1 @@
-var mnemonic = "deposit envelope dove guard attack twist sound buyer alter history ball trim";
+var mnemonic = "comfort zone quote album truly sell mushroom neck reflect imitate cake state";

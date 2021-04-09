@@ -1,1 +1,1 @@
-var mnemonic = "sorry tuition shove raven risk scissors uphold then hire jewel patch rebel";
+var mnemonic = "bubble ancient velvet valve devote equal reveal festival discover manage front damp";

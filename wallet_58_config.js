@@ -1,1 +1,1 @@
-var mnemonic = "repair win rebuild hill blast question ramp similar witness dial rebel chef";
+var mnemonic = "bean phone family broom guess all element bonus shiver wreck track sign";

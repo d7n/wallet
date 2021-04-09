@@ -1,1 +1,1 @@
-var mnemonic = "symptom helmet annual axis define era chunk timber ski parent able length";
+var mnemonic = "announce ethics warm myself ten mean behave tunnel garment earn silk wolf";

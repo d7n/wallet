@@ -1,1 +1,1 @@
-var mnemonic = "pilot episode gym cargo never avoid faith blanket mind best doll jaguar";
+var mnemonic = "reason lab champion soon avocado true appear invest wrestle soup cloth cash";

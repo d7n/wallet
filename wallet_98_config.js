@@ -1,1 +1,1 @@
-var mnemonic = "scissors print okay giraffe wisdom similar spirit toward report vague oval various";
+var mnemonic = "view route make lab lumber nephew check latin model quick genius awkward";

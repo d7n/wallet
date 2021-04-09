@@ -1,1 +1,1 @@
-var mnemonic = "face school fall visa notice team puppy party wonder alley eagle century";
+var mnemonic = "menu farm toddler excess kingdom harbor allow island cereal mass dune flash";

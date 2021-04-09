@@ -1,1 +1,1 @@
-var mnemonic = "animal utility ankle auto antenna forget spin motion boat wire fragile dinosaur";
+var mnemonic = "diary hurt trust check cloth story brush wisdom tiny rhythm news coil";

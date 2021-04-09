@@ -1,1 +1,1 @@
-var mnemonic = "question sibling vacuum dizzy rose hand harsh oyster evolve measure cabbage avoid";
+var mnemonic = "limb strike right mesh husband table black double swap similar cream gaze";

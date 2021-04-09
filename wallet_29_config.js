@@ -1,1 +1,1 @@
-var mnemonic = "ridge clever eternal ensure about beyond onion climb burden narrow valley twist";
+var mnemonic = "exhibit season method copy cabin emotion session buffalo matter pave urge capital";

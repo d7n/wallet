@@ -1,1 +1,1 @@
-var mnemonic = "sense unfair bubble kingdom abuse middle reform citizen girl early tobacco mixture";
+var mnemonic = "asset stereo brand rough reason jazz clever lizard thing nut enjoy valve";

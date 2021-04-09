@@ -1,1 +1,1 @@
-var mnemonic = "wool borrow delay pink off bicycle recipe dirt deliver survey mystery raven";
+var mnemonic = "else brisk virus cradle faculty essence section edit dance river gallery cause";

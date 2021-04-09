@@ -1,1 +1,1 @@
-var mnemonic = "sight innocent derive danger expire viable soap announce crowd shine daring execute";
+var mnemonic = "energy stone stone adjust cost sting orange anchor bubble math people remember";

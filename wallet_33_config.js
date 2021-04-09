@@ -1,1 +1,1 @@
-var mnemonic = "galaxy material style glide pond install trumpet lamp wheat hire crunch hard";
+var mnemonic = "wage forest speed always give lizard prison outer lawsuit plug mistake result";

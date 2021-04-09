@@ -1,1 +1,1 @@
-var mnemonic = "destroy exile inherit trend frog drop first vast vote saddle paddle quick";
+var mnemonic = "antenna digital cave include soup spot obvious isolate scrap cash cupboard deny";

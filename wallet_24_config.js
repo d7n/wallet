@@ -1,1 +1,1 @@
-var mnemonic = "cereal cousin retreat payment divert foot brisk evolve high sport invite interest";
+var mnemonic = "asset shrug antique fury camera envelope good seek lazy system window table";

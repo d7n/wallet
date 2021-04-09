@@ -1,1 +1,1 @@
-var mnemonic = "fit firm priority expand library suffer noise gap black empty lens rebuild";
+var mnemonic = "matrix snap sword miracle pizza scrap cousin weird suffer credit album goat";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen caution resemble autumn radar unknown rug quantum mosquito memory spice bulb";
+var mnemonic = "chase potato throw swim fatal never catalog athlete pull tourist hundred inform";

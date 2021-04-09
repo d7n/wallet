@@ -1,1 +1,1 @@
-var mnemonic = "fragile mutual under ahead secret shell humor athlete session valve ecology flavor";
+var mnemonic = "aspect flash soldier trick road disagree boil also normal athlete dismiss hybrid";

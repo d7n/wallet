@@ -1,1 +1,1 @@
-var mnemonic = "fiction fault normal child wait boring smile ramp flag pudding bone shove";
+var mnemonic = "wisdom layer valid december able marine avoid horn before correct gather accuse";

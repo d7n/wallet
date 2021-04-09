@@ -1,1 +1,1 @@
-var mnemonic = "engine tell recipe sister heart share calm desert off expire wagon skirt";
+var mnemonic = "siege fetch puzzle later any divide account discover puppy skirt hybrid prison";

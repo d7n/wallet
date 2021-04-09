@@ -1,1 +1,1 @@
-var mnemonic = "view category engine hawk unhappy merit reform cube network carry aim loan";
+var mnemonic = "empower chapter oxygen pyramid dress keen copper enrich country only scrap onion";

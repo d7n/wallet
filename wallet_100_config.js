@@ -1,1 +1,1 @@
-var mnemonic = "bitter piece other order output ball fiber random car palace bullet burger";
+var mnemonic = "wink welcome nature member forward cube solid snack canvas walnut gorilla crash";

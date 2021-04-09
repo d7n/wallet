@@ -1,1 +1,1 @@
-var mnemonic = "conduct detect happy dragon crane video else useless mandate maple episode blood";
+var mnemonic = "job pepper between split eagle sing whale chair saddle impulse use humble";

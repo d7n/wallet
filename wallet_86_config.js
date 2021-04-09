@@ -1,1 +1,1 @@
-var mnemonic = "coral steak device guard double erupt end scene mind lab amused response";
+var mnemonic = "obtain glad cycle volume episode choice gas music affair about luggage calm";

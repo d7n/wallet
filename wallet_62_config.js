@@ -1,1 +1,1 @@
-var mnemonic = "trigger female exclude carry pistol race hundred tuna furnace parade spread eagle";
+var mnemonic = "bike mad nature piano spray forget else purse define minute escape gentle";

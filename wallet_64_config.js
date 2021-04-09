@@ -1,1 +1,1 @@
-var mnemonic = "canvas drive range radar theme slogan sister cause almost nature digital round";
+var mnemonic = "actor trim subway rifle morning gap wing motion there arrow amused identify";

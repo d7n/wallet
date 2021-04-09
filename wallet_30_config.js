@@ -1,1 +1,1 @@
-var mnemonic = "knock relief budget alert shove airport best duck barrel diagram choice present";
+var mnemonic = "torch helmet brush actress witness dash hedgehog elephant praise sort wife arrange";

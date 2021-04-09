@@ -1,1 +1,1 @@
-var mnemonic = "code window board arrest company kiss social wrestle credit absurd seed rose";
+var mnemonic = "pen game gallery audit glue theory pretty tape model suggest coil urban";

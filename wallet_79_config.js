@@ -1,1 +1,1 @@
-var mnemonic = "best catalog seat drill melody slim island gallery rhythm opera furnace wheel";
+var mnemonic = "sorry casual bubble sword hospital cave group apology truly balance injury primary";

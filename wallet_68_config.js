@@ -1,1 +1,1 @@
-var mnemonic = "occur nephew ski quote half screen defy ecology silver kit yellow cancel";
+var mnemonic = "present tag fire define figure library relief sand awesome satisfy stable identify";

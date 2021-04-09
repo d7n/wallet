@@ -1,1 +1,1 @@
-var mnemonic = "icon journey unveil diary drive swift rate orbit crop latin guilt tag";
+var mnemonic = "field toss oyster vast resemble skin approve garment goddess ball hello member";

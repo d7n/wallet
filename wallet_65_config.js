@@ -1,1 +1,1 @@
-var mnemonic = "electric powder reopen present embark provide seek alcohol brown crumble august used";
+var mnemonic = "jealous pulse loan bind tooth bright digital arena same kiwi fruit adult";

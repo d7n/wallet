@@ -1,1 +1,1 @@
-var mnemonic = "soul loan scout danger holiday jar aerobic exclude bunker unfold tail vault";
+var mnemonic = "tortoise ozone goose click virus nose empty orchard little enact mule flavor";

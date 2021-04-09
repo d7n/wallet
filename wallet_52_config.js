@@ -1,1 +1,1 @@
-var mnemonic = "settle vast dream test donkey carry enemy sphere room tribe busy usual";
+var mnemonic = "permit aisle cloud cabin embody gloom resist speak can crucial struggle aim";

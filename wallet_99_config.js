@@ -1,1 +1,1 @@
-var mnemonic = "slush tunnel resource front sure lobster rubber improve million dynamic essay burst";
+var mnemonic = "home knock open pyramid method illegal throw unknown photo muffin stone kid";

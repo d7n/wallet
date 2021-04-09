@@ -1,1 +1,1 @@
-var mnemonic = "spot relief tower learn analyst long boil need royal dice walk kid";
+var mnemonic = "goddess model aim dust winner amount duck spread stable shrug until ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "limb skin actual blanket obtain shine apart tobacco seed canal wait sheriff";
+var mnemonic = "write mountain couch adjust erupt bread outside once raise timber emotion day";

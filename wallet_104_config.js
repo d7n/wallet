@@ -1,1 +1,1 @@
-var mnemonic = "believe universe minute basic clump general valve rug gossip belt lock live";
+var mnemonic = "harsh loop total express hobby sausage illness position desk winner cheap gesture";

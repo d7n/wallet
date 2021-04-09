@@ -1,1 +1,1 @@
-var mnemonic = "safe address desert fatigue stable risk net forward someone fluid armor slow";
+var mnemonic = "express combine layer behave pave spatial glow accident believe imitate expect board";
