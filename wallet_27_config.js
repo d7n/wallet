@@ -1,1 +1,1 @@
-var mnemonic = "choice chalk satoshi addict south mention eye human dance measure woman rabbit";
+var mnemonic = "pair spread win camera remember lock beyond fine news tragic obtain course";

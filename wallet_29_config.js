@@ -1,1 +1,1 @@
-var mnemonic = "elegant runway bird festival logic injury ugly glow false local animal cancel";
+var mnemonic = "inform pass harvest saddle remove skill cherry local neither alert situate embody";

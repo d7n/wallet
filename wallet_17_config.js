@@ -1,1 +1,1 @@
-var mnemonic = "switch enforce naive trophy run clap scare aware gym tuna drill dream";
+var mnemonic = "deposit tree pioneer arrange follow dawn again claw drip initial couch owner";

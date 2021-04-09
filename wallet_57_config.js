@@ -1,1 +1,1 @@
-var mnemonic = "vote direct exile critic page near gadget spoon large secret escape witness";
+var mnemonic = "group aisle remember humor pass device rabbit shuffle dentist mandate consider raccoon";

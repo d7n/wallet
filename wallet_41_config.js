@@ -1,1 +1,1 @@
-var mnemonic = "either blossom honey enforce gas merit list figure trend debris problem zero";
+var mnemonic = "shy style flock course dust radio bless weapon please dad awkward tiny";

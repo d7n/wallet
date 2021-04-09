@@ -1,1 +1,1 @@
-var mnemonic = "divert cover trip truth forward airport vapor orchard stuff tank horror number";
+var mnemonic = "again about robot inform blue ethics group tuition abuse math fancy laundry";

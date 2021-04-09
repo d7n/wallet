@@ -1,1 +1,1 @@
-var mnemonic = "embody deny code antenna stone arch slogan carry limb airport bring pledge";
+var mnemonic = "harvest valid mirror word rough inhale rain wood coach blame truck horse";

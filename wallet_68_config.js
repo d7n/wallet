@@ -1,1 +1,1 @@
-var mnemonic = "sense flat erosion track security under cable tumble ostrich tray enhance argue";
+var mnemonic = "turtle comic wheel earth mansion soul mechanic mandate like label catch force";

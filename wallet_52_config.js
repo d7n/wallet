@@ -1,1 +1,1 @@
-var mnemonic = "giant stem tiger say key grocery disorder smile quiz distance tourist heart";
+var mnemonic = "report cinnamon project offer load label panda person ramp spice copy border";

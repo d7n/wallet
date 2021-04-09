@@ -1,1 +1,1 @@
-var mnemonic = "weather album regular lesson wall answer reason second enhance muffin awful nephew";
+var mnemonic = "vacant hat vanish any device prison explain loyal raw truth subject blur";

@@ -1,1 +1,1 @@
-var mnemonic = "kit bargain office fix maze impact reflect antenna hope hunt chef tumble";
+var mnemonic = "shove require visit dress quit drift unaware grain access admit bronze brush";

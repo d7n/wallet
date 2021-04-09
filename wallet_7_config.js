@@ -1,1 +1,1 @@
-var mnemonic = "play analyst cabin coral fashion change motor general kite lock apology impulse";
+var mnemonic = "fence engine squirrel ancient extend north prison slice special now boat tomorrow";

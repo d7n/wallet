@@ -1,1 +1,1 @@
-var mnemonic = "valid anxiety sick hedgehog circle grunt sun magic dash permit two young";
+var mnemonic = "tuition version elegant bamboo siege insect nose ridge nest gossip helmet atom";

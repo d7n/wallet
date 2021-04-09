@@ -1,1 +1,1 @@
-var mnemonic = "soon smile train patient pattern mistake thought wear oxygen torch gesture host";
+var mnemonic = "reason depend swift weather weather genius allow core valid response nuclear miss";

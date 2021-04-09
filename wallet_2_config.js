@@ -1,1 +1,1 @@
-var mnemonic = "wire punch open series bless already garbage license misery figure whisper runway";
+var mnemonic = "quality glimpse cactus illness napkin hockey bomb neutral expand silly umbrella guard";

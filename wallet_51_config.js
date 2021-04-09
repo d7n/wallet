@@ -1,1 +1,1 @@
-var mnemonic = "mercy since sheriff chair calm cause cover april prosper shift reunion knife";
+var mnemonic = "desert wine soup bless magnet sign mansion entry cactus leisure grass space";

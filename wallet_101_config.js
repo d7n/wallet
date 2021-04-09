@@ -1,1 +1,1 @@
-var mnemonic = "motor cigar stumble label oblige bubble play exotic rifle diesel cruise balance";
+var mnemonic = "isolate glow regret shoe brand hello innocent trial lobster pigeon glance recycle";

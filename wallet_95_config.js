@@ -1,1 +1,1 @@
-var mnemonic = "chicken critic enroll assault later pig seek pepper weapon illegal hungry invest";
+var mnemonic = "galaxy law pool sight obey rely potato other daughter empty issue athlete";

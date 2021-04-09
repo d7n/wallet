@@ -1,1 +1,1 @@
-var mnemonic = "eight sea scene answer coffee payment escape rack usage sniff neutral mother";
+var mnemonic = "pride basket october next blood oven indoor link pause video knife misery";

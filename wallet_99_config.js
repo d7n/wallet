@@ -1,1 +1,1 @@
-var mnemonic = "cancel old lake warm card clerk public fossil jungle walk resist there";
+var mnemonic = "today slam trust into across frost bracket skin grant rely quote acid";

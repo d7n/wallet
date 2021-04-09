@@ -1,1 +1,1 @@
-var mnemonic = "enforce host run hub street slender alcohol apple melt trial flag matrix";
+var mnemonic = "pink gasp rural follow pool language spoon vicious fan warm kiss core";

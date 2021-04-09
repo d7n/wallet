@@ -1,1 +1,1 @@
-var mnemonic = "august sell where trip zebra industry planet depart space accident next pole";
+var mnemonic = "suffer math venture era omit junior remember gadget fade glove ancient arch";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry ethics easily athlete visa reject love only net tackle torch fee";
+var mnemonic = "useless spirit vibrant inform wife orange cook force erupt topic jewel decrease";

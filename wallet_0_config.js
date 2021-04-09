@@ -1,1 +1,1 @@
-var mnemonic = "large regular picture coin dog voice celery situate volcano catalog sting page";
+var mnemonic = "december comic meadow cricket fabric boss walnut lens resemble limb lobster cube";

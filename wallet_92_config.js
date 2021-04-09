@@ -1,1 +1,1 @@
-var mnemonic = "ritual system charge able green trust fatigue people album ivory visa another";
+var mnemonic = "forest illegal ketchup useless tunnel will receive credit furnace brass bulb remain";

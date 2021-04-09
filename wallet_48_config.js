@@ -1,1 +1,1 @@
-var mnemonic = "engine motion token know rigid bamboo flat void genuine upset cup bacon";
+var mnemonic = "either laptop emotion service limit august vintage deer disease program oppose room";

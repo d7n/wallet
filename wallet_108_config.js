@@ -1,1 +1,1 @@
-var mnemonic = "inquiry snack penalty almost champion fee merit visa wrestle accident arrive enrich";
+var mnemonic = "focus club decrease half position way grocery trend card crawl satoshi fruit";

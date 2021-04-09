@@ -1,1 +1,1 @@
-var mnemonic = "autumn biology trash priority orchard empty fancy base magnet broom harbor need";
+var mnemonic = "rifle hammer recycle bottom hobby first trumpet tooth scrub cat square orphan";

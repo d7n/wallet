@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo roast purse seminar hollow unhappy damage grass punch arrest unaware cup";
+var mnemonic = "patrol brass bean hat cover track weapon approve alien box sound rally";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid wolf ceiling metal need sausage enlist lawn tiger use sport brush";
+var mnemonic = "warfare weapon emerge project mimic buffalo thought glove under reward capital detail";

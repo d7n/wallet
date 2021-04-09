@@ -1,1 +1,1 @@
-var mnemonic = "false wild lunar enact appear rally resist cabbage curious couple grant estate";
+var mnemonic = "laundry waste universe road sad ball arena glue winter accuse pepper three";

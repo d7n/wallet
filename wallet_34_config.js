@@ -1,1 +1,1 @@
-var mnemonic = "siege web wink desk foster identify nose fossil swim predict sport skirt";
+var mnemonic = "mix day bitter credit smile sadness general cheese rough this royal arena";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar still deer sound sea grunt cute one party develop cloth visit";
+var mnemonic = "crop warm green allow same hundred group wolf next saddle final scrap";

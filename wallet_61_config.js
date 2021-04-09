@@ -1,1 +1,1 @@
-var mnemonic = "valley atom proof bronze lunar donate disease stomach hurdle category grass that";
+var mnemonic = "turtle swallow fire coach figure capital air perfect expand sick donate attend";

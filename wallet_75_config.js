@@ -1,1 +1,1 @@
-var mnemonic = "swarm acquire magic large tissue typical submit build twenty adult nest zoo";
+var mnemonic = "audit lawn drift hybrid runway candy polar actress screen just door walnut";

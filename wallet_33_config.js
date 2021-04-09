@@ -1,1 +1,1 @@
-var mnemonic = "farm say comfort penalty bundle vote correct weasel mule mesh mom minimum";
+var mnemonic = "music bus photo drama fitness language vanish purpose sketch furnace visit orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen chase sentence rail empower ribbon mercy parrot unknown chase silly diesel";
+var mnemonic = "gather route impose sister pattern boil oyster depart bless rule club limb";

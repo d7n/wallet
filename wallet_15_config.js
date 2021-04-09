@@ -1,1 +1,1 @@
-var mnemonic = "hill inmate hundred powder sing awesome extend cruel seed omit canoe ginger";
+var mnemonic = "topple demand weather visit lunar script rely struggle traffic hurdle soul jeans";

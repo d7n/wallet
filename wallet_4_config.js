@@ -1,1 +1,1 @@
-var mnemonic = "wheel light enable fury stem more sniff plastic actual argue letter seminar";
+var mnemonic = "dune company hedgehog unusual clerk thrive easy sleep sign nephew winter engage";

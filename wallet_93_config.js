@@ -1,1 +1,1 @@
-var mnemonic = "veteran rifle vibrant boy gospel author quick appear express forward order cheap";
+var mnemonic = "face wife evolve this misery increase below vendor congress moral goat busy";

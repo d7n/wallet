@@ -1,1 +1,1 @@
-var mnemonic = "among whale ancient industry eight radio kid document soap oblige tribe carry";
+var mnemonic = "coil dish inherit globe december mind movie crack blind fatigue glide edit";

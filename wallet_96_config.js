@@ -1,1 +1,1 @@
-var mnemonic = "barrel team crime estate arrive cushion term fish boring increase during umbrella";
+var mnemonic = "ocean wreck illegal rigid depend usual brain physical merry child never differ";

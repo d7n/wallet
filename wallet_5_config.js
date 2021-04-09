@@ -1,1 +1,1 @@
-var mnemonic = "sphere fish table mom text curve balance afraid winter siren country slice";
+var mnemonic = "scan hover opera flag photo picnic advance cycle six tuna asset sting";

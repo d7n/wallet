@@ -1,1 +1,1 @@
-var mnemonic = "stereo window large actress neck achieve vendor roof garbage dismiss fetch image";
+var mnemonic = "ginger retire lounge kitten stand slam dry diesel chimney flower omit bacon";

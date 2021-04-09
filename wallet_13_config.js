@@ -1,1 +1,1 @@
-var mnemonic = "prepare point bubble blame furnace frozen list powder rocket banana expand dress";
+var mnemonic = "wine town blur window trash liberty melody coach muffin often unfair coyote";

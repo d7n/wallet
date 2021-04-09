@@ -1,1 +1,1 @@
-var mnemonic = "power design spawn hair oblige brother syrup prize turtle churn arena first";
+var mnemonic = "country fruit banner buffalo carpet kiwi enjoy jelly recipe clutch practice ivory";

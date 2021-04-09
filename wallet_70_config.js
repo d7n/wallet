@@ -1,1 +1,1 @@
-var mnemonic = "awful street valley flock video bulk column pause fix swallow image keen";
+var mnemonic = "conduct exotic witness trust yellow urge wine key uniform vivid sleep drip";

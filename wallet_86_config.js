@@ -1,1 +1,1 @@
-var mnemonic = "lava wood pool lonely forest cotton pelican resemble light secret slight armor";
+var mnemonic = "embark addict parrot door screen wealth tone want lion rule render peasant";

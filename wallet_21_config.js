@@ -1,1 +1,1 @@
-var mnemonic = "nest sentence language amused immune rent side hill also accuse prepare globe";
+var mnemonic = "imitate drop prison rapid uncle stove token meadow list this tuna rotate";

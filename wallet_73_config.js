@@ -1,1 +1,1 @@
-var mnemonic = "message parade exile amount chair basic mango prize pigeon bullet wrist another";
+var mnemonic = "panda tribe quantum very icon cause powder firm hill round gloom pulp";

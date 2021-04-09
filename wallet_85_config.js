@@ -1,1 +1,1 @@
-var mnemonic = "arctic fish loyal scale jealous kit spray calm hole unfold merit half";
+var mnemonic = "kidney focus limb march chicken shield make spice two spike demise nose";

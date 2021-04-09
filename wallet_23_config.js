@@ -1,1 +1,1 @@
-var mnemonic = "crime junior disagree thing expect forum student square cargo light invest border";
+var mnemonic = "grid pelican choose plunge capable slender young assume kidney taxi inform ritual";

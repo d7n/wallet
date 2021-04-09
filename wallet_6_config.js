@@ -1,1 +1,1 @@
-var mnemonic = "helmet omit profit practice suit adapt fringe index net piano assist raven";
+var mnemonic = "frown drive possible question coil sure buddy rug item giraffe ill friend";

@@ -1,1 +1,1 @@
-var mnemonic = "coach ocean mother stairs false guard invite knock orient pyramid impose smooth";
+var mnemonic = "air near kit genius brand shaft number deal solve neglect movie market";

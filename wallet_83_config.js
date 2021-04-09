@@ -1,1 +1,1 @@
-var mnemonic = "interest drama next script day tag tourist autumn feel fragile pig laundry";
+var mnemonic = "hidden human genius major ivory ladder mirror firm pen pull rose ask";

@@ -1,1 +1,1 @@
-var mnemonic = "ready rescue sense ladder next decide lottery confirm tragic hobby pigeon spirit";
+var mnemonic = "demise trip safe relief tribe promote movie field setup soccer bench hospital";

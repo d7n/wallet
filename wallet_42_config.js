@@ -1,1 +1,1 @@
-var mnemonic = "mention hello north index slogan chuckle erosion grab word season local ethics";
+var mnemonic = "legend proof wire unit youth aunt oval galaxy release click speak rough";

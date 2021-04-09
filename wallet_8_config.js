@@ -1,1 +1,1 @@
-var mnemonic = "garden define brisk version spot juice boss purpose afraid online craft adjust";
+var mnemonic = "square motion coyote reunion happy picture zebra guess impulse picture eagle way";

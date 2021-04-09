@@ -1,1 +1,1 @@
-var mnemonic = "clever morning aerobic road step frog fiber fashion tongue demand extend cable";
+var mnemonic = "chimney focus slender upgrade stem merry coconut solid differ nuclear december fatigue";

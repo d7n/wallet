@@ -1,1 +1,1 @@
-var mnemonic = "labor service pet grief dragon mother device history nephew coin liquid dynamic";
+var mnemonic = "vanish okay fame weapon can bunker hat suffer awesome ranch dial deny";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix next solve invite subject hedgehog pink exchange program robust penalty spatial";
+var mnemonic = "fat end vessel priority organ midnight tuna next outside focus gossip miss";

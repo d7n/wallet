@@ -1,1 +1,1 @@
-var mnemonic = "wool correct keen vicious display love direct liar only gorilla giggle topic";
+var mnemonic = "trap iron moment move luxury bridge fiction awake cram chat possible clever";

@@ -1,1 +1,1 @@
-var mnemonic = "source frame news practice solve super slush maze clip medal fan junk";
+var mnemonic = "bean category render bike catch sadness foot talk expect object produce pony";

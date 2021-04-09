@@ -1,1 +1,1 @@
-var mnemonic = "zoo direct math embark weasel wear place piece birth eye kitten cousin";
+var mnemonic = "fury motor symptom airport bounce arrow mirror today draft orchard diet chaos";

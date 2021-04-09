@@ -1,1 +1,1 @@
-var mnemonic = "unfold gun cost little flavor hope disorder foam ill try keen moral";
+var mnemonic = "make discover local soon ball travel large have fly capable math net";

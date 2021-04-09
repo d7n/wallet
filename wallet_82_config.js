@@ -1,1 +1,1 @@
-var mnemonic = "park normal antenna ugly again twenty birth limb surround book clap skill";
+var mnemonic = "sad rebuild trigger leisure fall taste champion mountain misery autumn thrive bag";

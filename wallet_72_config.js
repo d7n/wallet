@@ -1,1 +1,1 @@
-var mnemonic = "length spin balcony home calm coconut come olive earth under scout august";
+var mnemonic = "live pistol cliff various virtual black merge stock code lunch vote crash";

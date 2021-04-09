@@ -1,1 +1,1 @@
-var mnemonic = "reunion law claw october frozen pact shop unusual ceiling please stairs credit";
+var mnemonic = "tumble fancy hurdle shop motor vague priority citizen turkey armed raven luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "business spice stem access behind craft master ocean fence moon abstract sunny";
+var mnemonic = "wolf purchase cabin echo physical hour ostrich whip blame wide beef case";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli hidden afford buffalo can engine great wish age benefit divert memory";
+var mnemonic = "essence pencil bird marble silly grant useful split artist path beef agree";

@@ -1,1 +1,1 @@
-var mnemonic = "siren room boil width arena galaxy hope steel glimpse section spray length";
+var mnemonic = "crazy oblige muffin task accident guard announce fever ring adult piece poverty";

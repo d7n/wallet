@@ -1,1 +1,1 @@
-var mnemonic = "accident unlock matter crack bright inmate vessel today meat conduct unfold material";
+var mnemonic = "miracle fruit near okay penalty range figure rubber cherry business estate traffic";

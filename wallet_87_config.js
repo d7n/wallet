@@ -1,1 +1,1 @@
-var mnemonic = "ketchup home dawn credit defense verify crater tip sort dizzy cliff genuine";
+var mnemonic = "twenty kiwi fashion marine oil guess ethics palace road idea reunion service";

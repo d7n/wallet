@@ -1,1 +1,1 @@
-var mnemonic = "cheese barrel walk knee bench virus pause say now trash jar duck";
+var mnemonic = "thrive close burger day wisdom tell entire thrive group monitor rapid juice";

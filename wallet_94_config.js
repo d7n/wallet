@@ -1,1 +1,1 @@
-var mnemonic = "amazing ice adapt sword icon moment forget paddle material bean sunset same";
+var mnemonic = "account priority panel bean great rifle demise work joke sadness awkward weekend";

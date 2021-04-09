@@ -1,1 +1,1 @@
-var mnemonic = "vital bachelor come expect wrap glance material crowd certain congress flip peasant";
+var mnemonic = "joke foil milk imitate among odor famous sting harvest chimney knife flag";

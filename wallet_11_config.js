@@ -1,1 +1,1 @@
-var mnemonic = "bread omit decade stool inside concert tragic group sword worry prosper thought";
+var mnemonic = "lesson noodle trust federal day indoor velvet bridge caution camp add useless";

@@ -1,1 +1,1 @@
-var mnemonic = "have vendor banner sponsor bacon glory raccoon end seek absorb can modify";
+var mnemonic = "vanish surround drift innocent order hurry father accuse route path monkey stairs";

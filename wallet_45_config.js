@@ -1,1 +1,1 @@
-var mnemonic = "replace body blouse grief swarm confirm nice apology rescue fine figure exclude";
+var mnemonic = "patient crash text daring armed enlist pause recall blouse fog shaft scout";

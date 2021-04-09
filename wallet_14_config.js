@@ -1,1 +1,1 @@
-var mnemonic = "coffee act aunt adult shiver empower auction wonder main off artist improve";
+var mnemonic = "save orient safe cool chair rival endorse alcohol dawn nose place husband";

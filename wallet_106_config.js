@@ -1,1 +1,1 @@
-var mnemonic = "traffic anchor rain sun dance laundry uniform clean employ zone slim bulk";
+var mnemonic = "siren divorce sure liquid syrup blouse convince describe wool film canal rigid";

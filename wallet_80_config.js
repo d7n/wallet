@@ -1,1 +1,1 @@
-var mnemonic = "scorpion keen swamp winter pitch absurd upgrade ugly plunge pill pave stove";
+var mnemonic = "polar exit sniff margin expose physical motor surface diary tail weapon blade";

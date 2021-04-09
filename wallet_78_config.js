@@ -1,1 +1,1 @@
-var mnemonic = "sausage attend ship depth couch afford sunset caution girl abuse upon raccoon";
+var mnemonic = "include differ grant when dinner major hungry cheap negative ranch spray blush";

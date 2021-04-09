@@ -1,1 +1,1 @@
-var mnemonic = "exist gap spread pudding embrace limit evidence blind infant actress salmon toss";
+var mnemonic = "bounce loan puzzle injury neither donate young solution globe chest friend question";

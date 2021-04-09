@@ -1,1 +1,1 @@
-var mnemonic = "vibrant symbol aunt crack few drum stem private apart smooth bitter right";
+var mnemonic = "soul drum surprise ankle chest pepper mechanic truth island figure quality giraffe";

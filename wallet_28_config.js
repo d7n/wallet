@@ -1,1 +1,1 @@
-var mnemonic = "found earth abuse pulse army wisdom bottom hat endless swift amount toast";
+var mnemonic = "gather onion ask canvas long shed festival inmate expand daughter whisper sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "festival zero attitude sweet ivory lock female kick certain length senior trophy";
+var mnemonic = "journey usual weird brother music jacket quarter rain observe diagram thrive jump";

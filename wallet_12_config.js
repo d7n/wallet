@@ -1,1 +1,1 @@
-var mnemonic = "south motor moment tennis rather multiply suspect ancient intact initial physical fruit";
+var mnemonic = "cup bomb oblige cupboard cat husband idle security admit album pride salt";

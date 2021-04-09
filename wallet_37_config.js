@@ -1,1 +1,1 @@
-var mnemonic = "odor whisper entire ritual dog define firm depart crater citizen stamp grass";
+var mnemonic = "fee when fashion october hero stamp honey omit sun result unable bubble";
