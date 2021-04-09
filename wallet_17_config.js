@@ -1,1 +1,1 @@
-var mnemonic = "inherit similar worry arrange warrior coffee grace impose swallow inspire column age";
+var mnemonic = "indoor there enough upon spy rigid region toddler ethics attack sell artist";

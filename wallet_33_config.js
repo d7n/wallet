@@ -1,1 +1,1 @@
-var mnemonic = "struggle boss uphold wool head gorilla lumber rocket foil equal script cube";
+var mnemonic = "okay belt sudden panic chalk resemble toy sport grow wagon garlic special";

@@ -1,1 +1,1 @@
-var mnemonic = "client forward broken video make perfect card position speed jungle hockey camera";
+var mnemonic = "move pave flower negative slogan attend balance minute miracle term nephew already";

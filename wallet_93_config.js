@@ -1,1 +1,1 @@
-var mnemonic = "finger right casual clerk glad please law panther nature damage rotate winner";
+var mnemonic = "load kitten damp chief surprise screen inner panic connect also theory music";

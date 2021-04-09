@@ -1,1 +1,1 @@
-var mnemonic = "custom stay mobile nest protect spice during honey candy good apple clip";
+var mnemonic = "violin parrot glad suspect apart scrub cloud husband diet sing canoe order";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber volcano opera wrestle gown helmet diagram omit hybrid valley animal vast";
+var mnemonic = "piano lyrics erosion saddle art wrist final hungry decorate cloth laugh month";

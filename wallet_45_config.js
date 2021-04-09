@@ -1,1 +1,1 @@
-var mnemonic = "elevator canvas tomato have canyon stone glare they gadget upper frost top";
+var mnemonic = "gate venue present harbor naive grunt print vessel unusual mimic more autumn";

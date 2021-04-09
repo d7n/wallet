@@ -1,1 +1,1 @@
-var mnemonic = "outside dwarf retreat frozen art term maple year reject tattoo wink access";
+var mnemonic = "elephant rifle reopen join anger ill cancel task air solve step grant";

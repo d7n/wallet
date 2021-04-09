@@ -1,1 +1,1 @@
-var mnemonic = "reason render more code galaxy cool eternal involve used cabin scene they";
+var mnemonic = "october donate rice zero rose doctor body pioneer private skill fault pyramid";

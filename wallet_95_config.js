@@ -1,1 +1,1 @@
-var mnemonic = "describe lady drill hint wheel exhibit wolf know quantum simple bind soft";
+var mnemonic = "fun theory immune matrix quote hunt outside joy marriage odor ordinary sport";

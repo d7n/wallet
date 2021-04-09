@@ -1,1 +1,1 @@
-var mnemonic = "lunar wool gate body throw exchange eternal best coffee pelican produce found";
+var mnemonic = "return only can fetch slender vivid barely various marine orbit useful clock";

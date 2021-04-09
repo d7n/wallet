@@ -1,1 +1,1 @@
-var mnemonic = "return narrow odor jungle coin scout pipe leopard fragile mechanic tree mass";
+var mnemonic = "unaware blast artefact consider nothing rigid draft bless pass lock century winter";

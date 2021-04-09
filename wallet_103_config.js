@@ -1,1 +1,1 @@
-var mnemonic = "remember arrange olympic input hub special perfect wear ice echo satoshi punch";
+var mnemonic = "glimpse hospital voice remind sand ladder then eyebrow bid stereo crystal gravity";

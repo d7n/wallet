@@ -1,1 +1,1 @@
-var mnemonic = "industry rice select forum hello wool assist diamond used market anchor found";
+var mnemonic = "measure sponsor involve brave magnet congress obey later camp tail master nurse";

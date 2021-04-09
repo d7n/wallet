@@ -1,1 +1,1 @@
-var mnemonic = "debris fashion april affair choice runway elder nasty dynamic hen wing noodle";
+var mnemonic = "advice oak forum hurdle private lesson kick spring solution nice annual bread";

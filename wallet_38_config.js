@@ -1,1 +1,1 @@
-var mnemonic = "girl advice cube inhale add maple armed napkin night bounce ugly illegal";
+var mnemonic = "mix question museum call allow hand fox develop apple quarter render name";

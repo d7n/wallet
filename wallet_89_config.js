@@ -1,1 +1,1 @@
-var mnemonic = "carbon treat obtain race ritual quick web hold quiz portion level garment";
+var mnemonic = "fatal wait skin spirit salt glue mango shove jaguar wealth clerk barely";

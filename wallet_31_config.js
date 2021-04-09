@@ -1,1 +1,1 @@
-var mnemonic = "sleep brick hollow gallery solution cigar advance subway monkey engine desk amused";
+var mnemonic = "kite bottom cake awful unit cotton boss cave text volume message easily";

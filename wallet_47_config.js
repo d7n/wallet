@@ -1,1 +1,1 @@
-var mnemonic = "science helmet diagram rich yard solution fame kangaroo skin receive return hurdle";
+var mnemonic = "anger melody match crash surface online kitten thunder speed live carry harbor";

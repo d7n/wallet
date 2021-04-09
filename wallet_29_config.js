@@ -1,1 +1,1 @@
-var mnemonic = "suffer plug large height inflict book truck stove rare stick basket crane";
+var mnemonic = "deny satoshi pretty huge canvas biology ocean begin swift second absent prison";

@@ -1,1 +1,1 @@
-var mnemonic = "field desk muffin romance grape unique scale peace casual enough bronze vibrant";
+var mnemonic = "kick left replace mixed birth cover quote push school crucial detect fury";

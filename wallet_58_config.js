@@ -1,1 +1,1 @@
-var mnemonic = "vote alter borrow major duty glue soccer helmet win wrap cool tide";
+var mnemonic = "physical display chapter defense three buzz transfer tumble cost off giggle excite";

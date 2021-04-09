@@ -1,1 +1,1 @@
-var mnemonic = "chief middle vacant field lava subject neck wool strike usual gasp outer";
+var mnemonic = "addict dry harsh hero foster inspire child good lumber coffee style digital";

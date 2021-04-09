@@ -1,1 +1,1 @@
-var mnemonic = "favorite weapon champion logic act coast cage mystery soap relief photo limb";
+var mnemonic = "until extra purity bracket long gain flame diary chunk unit mom clump";

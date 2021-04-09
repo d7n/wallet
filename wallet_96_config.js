@@ -1,1 +1,1 @@
-var mnemonic = "hammer chair grab orbit smoke young basic certain alone sibling helmet spray";
+var mnemonic = "width medal result kit useless wheat sock discover deal cabin genre result";

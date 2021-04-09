@@ -1,1 +1,1 @@
-var mnemonic = "scheme myself monitor scorpion area parade good add quiz twenty stay caught";
+var mnemonic = "food whisper sport win profit neglect swim target earth liberty orchard bicycle";

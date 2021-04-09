@@ -1,1 +1,1 @@
-var mnemonic = "salon like later parade theory news relax erode judge have family wild";
+var mnemonic = "tray piano net eyebrow identify cousin guilt lesson only two shoe soul";

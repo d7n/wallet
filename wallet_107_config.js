@@ -1,1 +1,1 @@
-var mnemonic = "slogan select nerve stuff hello inner syrup hair unusual weasel burger swarm";
+var mnemonic = "future pyramid fiber file staff burger cake thank lottery valley judge together";

@@ -1,1 +1,1 @@
-var mnemonic = "hand double correct offer impulse filter thumb win fluid valid myth silver";
+var mnemonic = "card ghost web globe replace magic observe cash walk fatigue hello first";

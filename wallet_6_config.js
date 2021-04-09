@@ -1,1 +1,1 @@
-var mnemonic = "mobile region huge ask waste win powder include about prepare mirror motor";
+var mnemonic = "actress network suffer vocal fluid ankle bread flip circle prevent senior loud";

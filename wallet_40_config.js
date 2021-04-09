@@ -1,1 +1,1 @@
-var mnemonic = "term cruise swift churn kangaroo salt regret peanut situate shield soap script";
+var mnemonic = "roast black basic neglect now news skull near comfort gesture version vivid";

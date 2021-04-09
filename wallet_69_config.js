@@ -1,1 +1,1 @@
-var mnemonic = "access casual unaware title tissue okay tissue alarm speed gravity lab cruise";
+var mnemonic = "forward attract hotel enable cactus void dog item portion excuse inform clump";

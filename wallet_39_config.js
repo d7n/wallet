@@ -1,1 +1,1 @@
-var mnemonic = "drop hospital bus gentle cargo slam envelope price sad confirm minimum decrease";
+var mnemonic = "elbow material position custom urge pelican fashion air visit private warfare pudding";

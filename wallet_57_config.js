@@ -1,1 +1,1 @@
-var mnemonic = "radio eye calm aerobic bridge rapid day banana helmet hole nose ability";
+var mnemonic = "frozen involve squirrel comfort treat theme hospital post kind spend matter online";

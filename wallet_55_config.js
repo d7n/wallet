@@ -1,1 +1,1 @@
-var mnemonic = "crash belt leopard swamp rib cupboard maximum pottery say horror toss unit";
+var mnemonic = "prize that street faith raise target smart salt force matrix fury pause";

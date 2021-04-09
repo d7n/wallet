@@ -1,1 +1,1 @@
-var mnemonic = "able solar worry trust admit pilot panther crack forum must tube forum";
+var mnemonic = "expand divert pigeon glass festival half buffalo dust supreme agree disorder mystery";

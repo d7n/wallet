@@ -1,1 +1,1 @@
-var mnemonic = "extra antique stamp foster boil galaxy balcony moon carpet business atom critic";
+var mnemonic = "swap joy agree expect antenna jewel bubble valid worth essay plastic transfer";

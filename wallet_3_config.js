@@ -1,1 +1,1 @@
-var mnemonic = "garment yard people cannon day vendor bronze bundle husband mix hero nation";
+var mnemonic = "element rally talk lemon cause obtain soap quiz exist boost excuse raccoon";

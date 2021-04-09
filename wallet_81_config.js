@@ -1,1 +1,1 @@
-var mnemonic = "announce bonus worry evil twelve friend false machine dentist improve recycle name";
+var mnemonic = "panda issue squirrel mad judge helmet midnight zero mouse device document middle";

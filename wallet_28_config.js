@@ -1,1 +1,1 @@
-var mnemonic = "logic session better real cargo become coconut crane hundred habit repair deliver";
+var mnemonic = "dignity oblige sustain absorb bag master core juice betray rapid owner discover";

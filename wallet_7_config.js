@@ -1,1 +1,1 @@
-var mnemonic = "trigger lady owner wrestle put home usage obey room wine bind shoot";
+var mnemonic = "enjoy guide update exchange action twelve toast entire genre sibling fashion alone";

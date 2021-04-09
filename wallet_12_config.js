@@ -1,1 +1,1 @@
-var mnemonic = "trust decide solution fan decorate convince bleak same hair maze sing airport";
+var mnemonic = "bundle verb east hip sand mushroom citizen horse estate perfect lab mistake";

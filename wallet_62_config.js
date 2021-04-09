@@ -1,1 +1,1 @@
-var mnemonic = "situate impact layer weather ankle corn age common try marble segment sunset";
+var mnemonic = "credit grass invite eight inform ahead cloud measure buffalo wide bag bleak";

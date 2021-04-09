@@ -1,1 +1,1 @@
-var mnemonic = "truth evidence stool chaos genuine soda sure approve hazard tuna safe century";
+var mnemonic = "net true indoor under sell shock still polar neutral crime educate decade";

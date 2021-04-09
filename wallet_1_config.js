@@ -1,1 +1,1 @@
-var mnemonic = "unaware word disagree uphold decline link husband link device egg tent cattle";
+var mnemonic = "minor success upper chief great train garbage want inch dad rail coach";

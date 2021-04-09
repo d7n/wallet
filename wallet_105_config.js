@@ -1,1 +1,1 @@
-var mnemonic = "shell empty chapter disease win lonely brave blur veteran marble venue diamond";
+var mnemonic = "ginger more improve critic police friend access material plastic used afford develop";

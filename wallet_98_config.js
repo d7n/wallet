@@ -1,1 +1,1 @@
-var mnemonic = "resource ancient assault baby vast relief spirit plunge exhibit pull reason clog";
+var mnemonic = "impact blame opera fatigue give road when cliff utility model cabbage gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery token crime mimic domain waste give mind rebuild wine walnut stumble";
+var mnemonic = "service swarm glove define debris such window canvas canvas doll beyond blanket";

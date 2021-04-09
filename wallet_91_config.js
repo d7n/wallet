@@ -1,1 +1,1 @@
-var mnemonic = "token grid company gospel deer skin march goddess hurry reduce tag recipe";
+var mnemonic = "system hidden creek foam angle blind april fade pause unfair series coin";

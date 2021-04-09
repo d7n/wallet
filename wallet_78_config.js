@@ -1,1 +1,1 @@
-var mnemonic = "crater festival law ladder original clinic sauce lizard start aware dinner mad";
+var mnemonic = "shed hidden before report peasant purchase bread you athlete vintage act question";

@@ -1,1 +1,1 @@
-var mnemonic = "skate nominee test divorce topple clean pledge alcohol service model response syrup";
+var mnemonic = "news crazy canoe double science perfect filter liquid area diesel tornado notice";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle firm off cheese sheriff switch spring noble square among again rabbit";
+var mnemonic = "aisle taxi right excess gentle between prosper clip float snow accuse later";

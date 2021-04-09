@@ -1,1 +1,1 @@
-var mnemonic = "input siren ready lecture pole bomb zoo gain youth reveal hope upset";
+var mnemonic = "over food child chunk wave furnace accuse orchard fog skin churn jacket";

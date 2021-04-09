@@ -1,1 +1,1 @@
-var mnemonic = "country fancy marine cherry ensure search transfer circle rude document know six";
+var mnemonic = "elephant egg motion kitten torch mandate brisk occur accuse inmate equal net";

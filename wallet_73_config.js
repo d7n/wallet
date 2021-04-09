@@ -1,1 +1,1 @@
-var mnemonic = "bamboo cram glue margin offer fancy sleep tonight salon edge stereo bomb";
+var mnemonic = "shop alone auction turkey clever edge require drive police truth saddle feed";

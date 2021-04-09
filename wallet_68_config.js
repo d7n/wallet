@@ -1,1 +1,1 @@
-var mnemonic = "enroll alpha absent audit fire cloth skull magic bonus erase often economy";
+var mnemonic = "aspect arm control tomato toe tribe brand pen desert hawk space short";

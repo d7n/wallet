@@ -1,1 +1,1 @@
-var mnemonic = "script gossip country nose kit outdoor fringe math tone else soul rigid";
+var mnemonic = "resist onion theory clerk sweet world message maple aspect despair toddler three";

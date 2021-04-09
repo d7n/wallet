@@ -1,1 +1,1 @@
-var mnemonic = "miracle limb cruise stick carry drop bean wife dad food trim charge";
+var mnemonic = "fury special exit twice gather member patch hospital include easy pistol network";

@@ -1,1 +1,1 @@
-var mnemonic = "solve ethics input jungle bulb shaft zoo bubble melt warrior indicate dirt";
+var mnemonic = "rural decorate eye faculty home dinner tomorrow thought camera kid broken warm";

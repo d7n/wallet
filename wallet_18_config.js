@@ -1,1 +1,1 @@
-var mnemonic = "bottom theme theory boy talk vibrant foam force shallow aerobic destroy soon";
+var mnemonic = "connect high old sing merge grant reduce repair foot fish exit bird";

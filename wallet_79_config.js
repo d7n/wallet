@@ -1,1 +1,1 @@
-var mnemonic = "prevent volume kind scan trend collect advance observe boring bread scrap grape";
+var mnemonic = "clog situate egg deer mouse cluster sight trigger fury cousin assault ship";

@@ -1,1 +1,1 @@
-var mnemonic = "since verb differ deputy renew settle energy slice pizza valve critic private";
+var mnemonic = "injury prevent animal memory segment response unfair sign invite bird motion goddess";

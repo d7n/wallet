@@ -1,1 +1,1 @@
-var mnemonic = "fresh six coyote city stumble symbol item length blue cupboard naive panic";
+var mnemonic = "remember friend amazing patient amazing coil valid unaware series fiction grass tourist";

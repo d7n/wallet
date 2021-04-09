@@ -1,1 +1,1 @@
-var mnemonic = "yellow tape tip fatigue term fire happy report mad fabric before alone";
+var mnemonic = "around heavy surround zebra april logic smile turkey canal add steel copper";

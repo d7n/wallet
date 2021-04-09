@@ -1,1 +1,1 @@
-var mnemonic = "choose clump height inch select lava useful useful estate rocket urge blood";
+var mnemonic = "play exit minimum negative talent manual immense creek friend gather width barely";

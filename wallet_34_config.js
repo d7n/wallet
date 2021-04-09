@@ -1,1 +1,1 @@
-var mnemonic = "vintage image place luggage rescue organ vintage degree chase balance hint brisk";
+var mnemonic = "gloom give sibling depth myth artist job lion object lobster oppose gown";

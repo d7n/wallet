@@ -1,1 +1,1 @@
-var mnemonic = "boost exclude tattoo symptom unlock offer brave axis chief liquid category habit";
+var mnemonic = "chat attitude action swap cage deputy water coconut resemble creek pencil deny";

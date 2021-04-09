@@ -1,1 +1,1 @@
-var mnemonic = "rough pull movie eagle target mirror sphere nation chat word layer exist";
+var mnemonic = "intact gossip pole beyond myself ball eye foam cross anchor actual supreme";

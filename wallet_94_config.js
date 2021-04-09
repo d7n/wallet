@@ -1,1 +1,1 @@
-var mnemonic = "grape canyon render network innocent only color split split rifle plug salon";
+var mnemonic = "asthma addict frozen there early sphere uniform drum turn burst plug same";

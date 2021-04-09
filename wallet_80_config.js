@@ -1,1 +1,1 @@
-var mnemonic = "illness dismiss useless scene mechanic panel attract umbrella fatigue knife lawsuit subway";
+var mnemonic = "industry donor plastic sight hair dynamic quantum puzzle soda sail return recipe";

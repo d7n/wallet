@@ -1,1 +1,1 @@
-var mnemonic = "rack upper hungry umbrella shoot genuine please sketch sword control august raise";
+var mnemonic = "web comic dawn enroll baby panther erupt rural fabric rapid topple hour";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant claw arm certain practice genius view crouch solid sugar perfect satoshi";
+var mnemonic = "unhappy innocent find expire tourist van identify sense cereal math often window";

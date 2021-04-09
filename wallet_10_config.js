@@ -1,1 +1,1 @@
-var mnemonic = "floor music insane horror tonight luxury mirror machine fury elder hat orient";
+var mnemonic = "define name regular hero organ idle culture hammer voyage fabric rack drink";

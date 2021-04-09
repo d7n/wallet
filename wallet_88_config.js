@@ -1,1 +1,1 @@
-var mnemonic = "sunset city harbor income chimney theory teach desk entire stadium mouse uncle";
+var mnemonic = "diamond wrong where about peanut happy chimney rib pelican error reason spoil";

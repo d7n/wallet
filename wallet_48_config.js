@@ -1,1 +1,1 @@
-var mnemonic = "donkey eye catalog cable move discover vital teach mom jeans kingdom birth";
+var mnemonic = "excuse hover climb music doctor filter nation worry saddle detect distance answer";

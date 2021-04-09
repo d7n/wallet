@@ -1,1 +1,1 @@
-var mnemonic = "feel green direct invite smoke luxury pattern mail link split special like";
+var mnemonic = "south ask best lecture shaft notice concert small collect warrior resemble dizzy";

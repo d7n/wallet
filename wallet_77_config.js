@@ -1,1 +1,1 @@
-var mnemonic = "rapid age lady enter hen example picnic gossip spice term battle exotic";
+var mnemonic = "quiz pelican marine add barely wrestle chat tragic trend install tool video";

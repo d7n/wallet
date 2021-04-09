@@ -1,1 +1,1 @@
-var mnemonic = "sibling open super people combine echo top expand hazard lake speed swallow";
+var mnemonic = "fuel float kitchen crystal total lava adapt vital float ice panda lesson";

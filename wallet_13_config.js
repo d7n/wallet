@@ -1,1 +1,1 @@
-var mnemonic = "six mix glimpse jaguar heart again obey catch grit card that output";
+var mnemonic = "spike pride innocent layer empty actual link buddy super state convince have";

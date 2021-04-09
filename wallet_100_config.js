@@ -1,1 +1,1 @@
-var mnemonic = "chronic helmet deputy cinnamon stem enjoy spice path arrow retreat leg door";
+var mnemonic = "robust produce search fan decide cheap fun chicken horror will build load";

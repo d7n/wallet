@@ -1,1 +1,1 @@
-var mnemonic = "anxiety curtain battle daughter solar pledge cushion chronic firm scale bracket marriage";
+var mnemonic = "move amateur occur kangaroo river position pilot immense type model region awesome";

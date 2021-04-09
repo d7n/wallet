@@ -1,1 +1,1 @@
-var mnemonic = "clutch train nut exchange solution pitch fossil party course case pigeon mask";
+var mnemonic = "bread dream wheel educate junk envelope lounge step pistol trap flower laugh";

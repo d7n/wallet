@@ -1,1 +1,1 @@
-var mnemonic = "fog soldier eyebrow physical ginger tackle exact feature ranch bottom stomach output";
+var mnemonic = "enter answer gate valley bag client truck disease filter useless fire multiply";

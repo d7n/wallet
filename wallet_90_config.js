@@ -1,1 +1,1 @@
-var mnemonic = "hat cupboard behind brief wing weapon develop subject ethics above rate upon";
+var mnemonic = "half dirt airport abstract bless elevator frame shy mandate fatal gap picture";

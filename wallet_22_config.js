@@ -1,1 +1,1 @@
-var mnemonic = "today fabric dice orchard acid aisle upon predict bulk impact lake energy";
+var mnemonic = "garage refuse below strategy parade unable ramp name razor dry kind across";

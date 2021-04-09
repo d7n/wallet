@@ -1,1 +1,1 @@
-var mnemonic = "utility course expose range champion safe evolve grief bracket spider kind lyrics";
+var mnemonic = "tired exercise guide tongue fury exhaust cupboard electric excess bargain miss script";

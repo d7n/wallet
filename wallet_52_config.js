@@ -1,1 +1,1 @@
-var mnemonic = "wage trigger silly nice refuse seat crazy return alcohol sunny belt mammal";
+var mnemonic = "joy display surface hockey shiver tooth into kiss wage vehicle false child";

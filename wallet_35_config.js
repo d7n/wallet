@@ -1,1 +1,1 @@
-var mnemonic = "over detail sphere limb high hazard still amazing rice crane say bulk";
+var mnemonic = "renew exhibit acoustic dice welcome survey yard velvet quick february bar flip";

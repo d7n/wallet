@@ -1,1 +1,1 @@
-var mnemonic = "insane saddle seven capable grass wave edge spend gloom crouch key flight";
+var mnemonic = "alpha announce pig swear paddle country protect tip glimpse donate mutual pretty";

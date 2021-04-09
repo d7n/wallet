@@ -1,1 +1,1 @@
-var mnemonic = "sword bullet couple stamp certain make afraid sheriff dog security antique eight";
+var mnemonic = "sunset poem snack syrup female unaware option deputy wedding foil young force";

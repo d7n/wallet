@@ -1,1 +1,1 @@
-var mnemonic = "force milk quick swim analyst brisk blast long category message connect chest";
+var mnemonic = "border check bring hill next mention prefer medal depend occur frog treat";

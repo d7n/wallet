@@ -1,1 +1,1 @@
-var mnemonic = "dance eagle dynamic pilot crouch cross custom other until code release cloth";
+var mnemonic = "mandate bicycle address zoo disorder august club depth receive milk monitor brief";

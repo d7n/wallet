@@ -1,1 +1,1 @@
-var mnemonic = "nuclear energy woman trap shield resemble chapter witness prize awake suffer online";
+var mnemonic = "rare person sample pattern grunt nasty injury artist gift hunt must salon";

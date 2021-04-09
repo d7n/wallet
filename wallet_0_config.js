@@ -1,1 +1,1 @@
-var mnemonic = "trouble gather mechanic level judge viable vessel double jump wolf ship ethics";
+var mnemonic = "tiger security parrot october popular bone never evolve story asthma question habit";
