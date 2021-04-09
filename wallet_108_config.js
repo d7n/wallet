@@ -1,1 +1,1 @@
-var mnemonic = "outer hurry scorpion ostrich please correct immune truth speed dumb girl radar";
+var mnemonic = "apple task chimney eyebrow carpet desert kid genuine merge glance strike analyst";

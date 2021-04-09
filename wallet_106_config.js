@@ -1,1 +1,1 @@
-var mnemonic = "lake observe know midnight liar merit denial silent galaxy wish right remember";
+var mnemonic = "insane high matrix element coconut begin area dilemma heavy pen divide hockey";

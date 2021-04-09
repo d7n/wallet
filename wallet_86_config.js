@@ -1,1 +1,1 @@
-var mnemonic = "spin tourist filter matrix eagle taxi lunar bulb sphere hollow lobster twelve";
+var mnemonic = "habit elevator dismiss cry left comic infant shield mule feed swift ancient";

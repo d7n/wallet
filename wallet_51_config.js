@@ -1,1 +1,1 @@
-var mnemonic = "early pudding middle ramp rack fold crowd crush fiber ride tourist slight";
+var mnemonic = "exchange acoustic hill second trouble rude library hover reform stadium glance call";

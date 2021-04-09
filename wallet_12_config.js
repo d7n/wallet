@@ -1,1 +1,1 @@
-var mnemonic = "coconut arrow favorite barrel usual merge winter join replace rely loan future";
+var mnemonic = "parade naive adult dinner else noise trumpet hybrid topple afford memory early";

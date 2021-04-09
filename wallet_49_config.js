@@ -1,1 +1,1 @@
-var mnemonic = "actress coil remember fiscal online globe organ fiction margin drill vessel vacuum";
+var mnemonic = "proof pledge clerk autumn pole screen mixture quiz cinnamon kitten often spot";

@@ -1,1 +1,1 @@
-var mnemonic = "oven news pony fold gift leaf minute wet toddler ethics vicious color";
+var mnemonic = "point total require milk mansion sausage cave loan fog minute long budget";

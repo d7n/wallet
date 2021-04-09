@@ -1,1 +1,1 @@
-var mnemonic = "unlock vessel face predict floor suit island chest pencil vessel beef amused";
+var mnemonic = "basket left police invest impose cargo saddle remind merry slot rookie rabbit";

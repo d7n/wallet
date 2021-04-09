@@ -1,1 +1,1 @@
-var mnemonic = "jazz silly north cloud road leave execute excess oval shell youth delay";
+var mnemonic = "nature height pottery oven relief kitten scout stone into section ignore keep";

@@ -1,1 +1,1 @@
-var mnemonic = "coral report cattle trip west pelican crater drink tool tool urge energy";
+var mnemonic = "clarify left local chuckle load siren omit vanish regret glory ankle clarify";

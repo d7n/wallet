@@ -1,1 +1,1 @@
-var mnemonic = "column between ivory noodle pony shrimp raise water jar soap piece actress";
+var mnemonic = "repeat muffin luggage debris valid frog feed power since welcome pudding rose";

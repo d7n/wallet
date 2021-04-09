@@ -1,1 +1,1 @@
-var mnemonic = "post expire skull refuse wait april coast level stuff supreme remove girl";
+var mnemonic = "nut crush prize arrange health benefit very adjust injury common liar share";

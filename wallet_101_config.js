@@ -1,1 +1,1 @@
-var mnemonic = "also wage vote uphold rather apple popular vivid strategy action identify base";
+var mnemonic = "east clog erase blood butter capable enable again smart rent bone rescue";

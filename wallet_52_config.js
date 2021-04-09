@@ -1,1 +1,1 @@
-var mnemonic = "path keep know limb cliff notable alley skull primary else erode foster";
+var mnemonic = "couple trip milk frog cotton emerge biology abuse country rabbit toe leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "increase debate stamp cover school clown taxi cherry bar typical jaguar where";
+var mnemonic = "trumpet enter custom sunny staff cinnamon pitch tip color green song short";

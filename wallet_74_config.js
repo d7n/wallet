@@ -1,1 +1,1 @@
-var mnemonic = "liquid solution flip sleep inflict peace patch all amount sample know romance";
+var mnemonic = "knife yellow public hawk length smart shrimp fever mushroom bitter cause hero";

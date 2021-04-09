@@ -1,1 +1,1 @@
-var mnemonic = "spike base quarter turn pole cage exact reform company gorilla alley wash";
+var mnemonic = "nice clever gauge crystal enrich treat want target portion donor arrange gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "fog silk cute motor evil hope warrior crystal fee unfair stadium bench";
+var mnemonic = "chair system crisp palace arrive exercise manage describe message key grid install";

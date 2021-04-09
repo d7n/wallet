@@ -1,1 +1,1 @@
-var mnemonic = "web miss clarify else phrase job certain coach phrase horror priority stay";
+var mnemonic = "sun mixture large labor swing fuel avoid enrich stomach region cement raw";

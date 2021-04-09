@@ -1,1 +1,1 @@
-var mnemonic = "glance like half crash senior cattle lucky radar autumn select blast atom";
+var mnemonic = "crisp dad spoil detail woman permit engage eyebrow keen defense elder onion";

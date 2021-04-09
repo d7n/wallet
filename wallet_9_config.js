@@ -1,1 +1,1 @@
-var mnemonic = "alert dance salute hungry horn maple improve like royal someone grant tuna";
+var mnemonic = "impact clean own minimum couch social alley worth know income cement punch";

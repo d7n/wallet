@@ -1,1 +1,1 @@
-var mnemonic = "trial kiss mean sorry someone quiz struggle gate wash genre switch six";
+var mnemonic = "worry tonight color open enact curious mechanic party collect proud coyote cycle";

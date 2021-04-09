@@ -1,1 +1,1 @@
-var mnemonic = "cook beach valve access entry blush chimney ugly hurry resist imitate life";
+var mnemonic = "clown toss meadow answer team ivory treat favorite afford burger raccoon major";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle isolate myself goddess waste wasp april badge view afraid shed aim";
+var mnemonic = "empower jewel despair film whale achieve forum scheme confirm poet juice race";

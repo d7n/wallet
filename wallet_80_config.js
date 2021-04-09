@@ -1,1 +1,1 @@
-var mnemonic = "replace census shoe bless brain train wink tell stable rookie noodle run";
+var mnemonic = "town ancient consider roof fatal scheme three magnet diamond over capable dove";

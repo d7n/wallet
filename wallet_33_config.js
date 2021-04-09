@@ -1,1 +1,1 @@
-var mnemonic = "fat view bone dune laptop thank thank flower one people pair flock";
+var mnemonic = "error open meat initial member purpose plastic aerobic company panel dial write";

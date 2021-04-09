@@ -1,1 +1,1 @@
-var mnemonic = "disease usage wait disagree desk now army card fan badge sight spawn";
+var mnemonic = "fever join play escape chuckle spot air scene result safe devote wealth";

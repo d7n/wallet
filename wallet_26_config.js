@@ -1,1 +1,1 @@
-var mnemonic = "price fury miracle robust unique since shadow region bachelor close portion present";
+var mnemonic = "vivid field steel surge carry joy smile scene multiply siren erode remember";

@@ -1,1 +1,1 @@
-var mnemonic = "immune stairs van veteran private father water moon script trap aware solution";
+var mnemonic = "bicycle estate fence squirrel daring coyote pig quantum fee note issue more";

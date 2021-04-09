@@ -1,1 +1,1 @@
-var mnemonic = "toddler salad drink jump damp myself agree replace need salad main buyer";
+var mnemonic = "slice reveal skirt tone label island tag viable menu injury thunder vital";

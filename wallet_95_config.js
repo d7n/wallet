@@ -1,1 +1,1 @@
-var mnemonic = "peanut raw tray stomach wire punch loyal fruit awake raise hard balance";
+var mnemonic = "stove inmate faculty junk matrix robust term deal blur focus prefer circle";

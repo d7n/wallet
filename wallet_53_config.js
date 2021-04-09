@@ -1,1 +1,1 @@
-var mnemonic = "wealth aspect cake essence naive bitter drink double deer crew protect weapon";
+var mnemonic = "noise series dust also alert soda observe cube trick ghost rocket market";

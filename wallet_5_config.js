@@ -1,1 +1,1 @@
-var mnemonic = "square under section wrestle carbon solid stick same unaware cruise awesome alone";
+var mnemonic = "sausage million tobacco two misery clap voice panel nurse matrix kingdom solar";

@@ -1,1 +1,1 @@
-var mnemonic = "toast fine enroll check next illegal rally moon doll curve slush chunk";
+var mnemonic = "strike creek pause almost ceiling sign member crisp cheese ghost original error";

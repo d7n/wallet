@@ -1,1 +1,1 @@
-var mnemonic = "wing find whisper inform march brain decorate edge pulp success bright eye";
+var mnemonic = "civil electric situate pet already benefit subject edit edge pass road forest";

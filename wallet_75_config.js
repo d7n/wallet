@@ -1,1 +1,1 @@
-var mnemonic = "voyage surround connect fold taxi afraid moment review ladder logic sunset surface";
+var mnemonic = "unique riot solid pottery recall burger cliff permit sick shallow song cancel";

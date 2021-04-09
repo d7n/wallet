@@ -1,1 +1,1 @@
-var mnemonic = "repeat shoe lunch hope fan exclude save tenant brief settle lab idle";
+var mnemonic = "shed sure borrow mimic segment sail base fly jump price canvas flat";

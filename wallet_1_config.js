@@ -1,1 +1,1 @@
-var mnemonic = "steel apple brisk hawk box grass guilt transfer ring genuine husband youth";
+var mnemonic = "shy demise what sign affair mind neutral tumble morning myth fortune angry";

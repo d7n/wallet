@@ -1,1 +1,1 @@
-var mnemonic = "embark dance abuse gun twelve twenty brand debate group spell clump laugh";
+var mnemonic = "large envelope fame helmet cute swing rich library almost minute ceiling vanish";

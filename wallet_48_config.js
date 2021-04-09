@@ -1,1 +1,1 @@
-var mnemonic = "chest wire acid wagon design toast armed eye return quality bamboo food";
+var mnemonic = "gym ocean remember confirm viable caught omit recipe bulk verb upon aerobic";

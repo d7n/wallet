@@ -1,1 +1,1 @@
-var mnemonic = "divide vacant hire wise fringe door ignore tomorrow permit vendor fluid bid";
+var mnemonic = "thunder potato pluck hen pupil joy corn equal pattern chase local october";

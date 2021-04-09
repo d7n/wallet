@@ -1,1 +1,1 @@
-var mnemonic = "pause spider quit original only task amateur approve rapid icon screen rent";
+var mnemonic = "model thing teach dizzy bacon soon fox sadness toast crane hero museum";

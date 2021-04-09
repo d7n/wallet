@@ -1,1 +1,1 @@
-var mnemonic = "alarm small match warrior assume rely cushion top survey screen situate device";
+var mnemonic = "mean pudding humor churn behave hidden there video eyebrow season clay bike";

@@ -1,1 +1,1 @@
-var mnemonic = "leader powder nuclear sight blouse jelly flag report private kitchen winner deny";
+var mnemonic = "abandon human similar robust bring quarter brass crawl episode medal job speak";

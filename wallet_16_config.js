@@ -1,1 +1,1 @@
-var mnemonic = "doll wish alcohol machine region fall spike emotion supreme plug piece fancy";
+var mnemonic = "silent promote armed voyage humble coach copy hold supply recycle despair box";

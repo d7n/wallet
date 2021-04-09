@@ -1,1 +1,1 @@
-var mnemonic = "deposit desk name work wrist interest crucial horse place theme submit pipe";
+var mnemonic = "bamboo sport any need roof canoe autumn satisfy garden idle diet indoor";

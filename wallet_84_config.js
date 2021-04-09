@@ -1,1 +1,1 @@
-var mnemonic = "defy junior miss produce relief elephant plunge yellow stove wave never task";
+var mnemonic = "assume veteran borrow again oak canyon address gesture fade about charge hockey";

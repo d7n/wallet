@@ -1,1 +1,1 @@
-var mnemonic = "turn series robot burden destroy pair machine mandate item immune panther unique";
+var mnemonic = "whip knock often choice obscure like tornado accuse pill include gun heavy";

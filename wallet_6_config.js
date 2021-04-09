@@ -1,1 +1,1 @@
-var mnemonic = "despair insect mail buddy trigger street target monster shock base october shift";
+var mnemonic = "shrimp news airport insane suit cruise abuse output cheap slow cushion another";

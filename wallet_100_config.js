@@ -1,1 +1,1 @@
-var mnemonic = "globe infant deny adjust story camp combine library mountain soap inhale giant";
+var mnemonic = "ozone parade correct bundle dance point garden appear rebel fog maple walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum cheese caught bird marine badge easily eternal inner treat opera resist";
+var mnemonic = "kiss pear record canoe assume moral believe rate valid only error busy";

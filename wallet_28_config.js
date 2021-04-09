@@ -1,1 +1,1 @@
-var mnemonic = "boring material enact drum lizard laundry govern describe monster lady shock creek";
+var mnemonic = "farm surprise small human right rubber stereo reject door surround venue dawn";

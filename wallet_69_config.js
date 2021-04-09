@@ -1,1 +1,1 @@
-var mnemonic = "glue unaware must over tip smart ostrich custom useless rebel sport stem";
+var mnemonic = "strong inspire senior main grief enhance razor book verb field snap decade";

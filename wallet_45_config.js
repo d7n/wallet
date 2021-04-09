@@ -1,1 +1,1 @@
-var mnemonic = "wink lab flame hour deer spot section kick dad subject admit cook";
+var mnemonic = "glass six useless embark blouse sugar tower hurry trick damp casual sauce";

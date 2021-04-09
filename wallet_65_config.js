@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit melody labor exist walk poverty hurdle duty yard hill six horn";
+var mnemonic = "bargain panic gather clock minimum purse where cash sport hood crumble double";

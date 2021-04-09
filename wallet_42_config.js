@@ -1,1 +1,1 @@
-var mnemonic = "dice dinosaur record milk season doctor angle title once link unlock middle";
+var mnemonic = "ski gloom bracket that gesture vital tomato box tongue monitor banner fork";

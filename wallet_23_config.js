@@ -1,1 +1,1 @@
-var mnemonic = "capital menu angry tennis bench income birth tobacco grit drive stay screen";
+var mnemonic = "dawn sudden erase believe word live match around payment recall affair blast";

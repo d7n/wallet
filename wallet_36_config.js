@@ -1,1 +1,1 @@
-var mnemonic = "isolate atom survey ship civil view call estate document timber sentence start";
+var mnemonic = "horn phone creek borrow fat guess evil liquid volcano endorse swap bracket";

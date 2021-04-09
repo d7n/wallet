@@ -1,1 +1,1 @@
-var mnemonic = "purchase raise nest matter tornado drum explain sketch tomorrow proof curve fancy";
+var mnemonic = "pistol salute daring train item pink write artefact palm enlist desk tag";

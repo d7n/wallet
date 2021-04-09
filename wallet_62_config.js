@@ -1,1 +1,1 @@
-var mnemonic = "lyrics bid exit wheel scale material fine olive reason script stone evidence";
+var mnemonic = "diamond diet cannon soon place twist include assist valve lecture stand absurd";

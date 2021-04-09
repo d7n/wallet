@@ -1,1 +1,1 @@
-var mnemonic = "ignore review remove execute rally guide glance sponsor mango question render wire";
+var mnemonic = "float amazing rookie chest miss invest nerve give tail pumpkin pull garage";

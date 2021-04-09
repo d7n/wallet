@@ -1,1 +1,1 @@
-var mnemonic = "spare expire belt wasp junk fame rescue wagon pelican hundred place beef";
+var mnemonic = "cost cube sail grab dose thunder merry garage crucial buyer wave frozen";

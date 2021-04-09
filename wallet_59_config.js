@@ -1,1 +1,1 @@
-var mnemonic = "fault pride merry anchor feed tornado december visual finish master chief report";
+var mnemonic = "nurse clean vault fragile solution clutch pull proud keep loan leopard turn";

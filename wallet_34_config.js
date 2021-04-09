@@ -1,1 +1,1 @@
-var mnemonic = "link special deposit bless enemy celery pioneer behave later digital seat pizza";
+var mnemonic = "summer shield way ghost client blast shuffle jelly inject voyage consider runway";

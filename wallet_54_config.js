@@ -1,1 +1,1 @@
-var mnemonic = "decide hurdle edit depart replace wife gloom glory renew exchange can science";
+var mnemonic = "globe square security kit twin oyster street solid phrase tornado voice walnut";

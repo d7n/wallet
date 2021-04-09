@@ -1,1 +1,1 @@
-var mnemonic = "shoulder erupt surface toddler state fan service robot file thrive bargain found";
+var mnemonic = "sock consider body bounce rapid noble puppy layer bracket major filter science";

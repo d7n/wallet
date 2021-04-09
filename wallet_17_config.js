@@ -1,1 +1,1 @@
-var mnemonic = "stick employ power silent truck source elbow volume gorilla way spawn beauty";
+var mnemonic = "key make behave rack brain joke cost blush raccoon fetch canyon tape";

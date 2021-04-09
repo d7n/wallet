@@ -1,1 +1,1 @@
-var mnemonic = "install mystery enjoy genre song oval pitch donkey circle pistol grain tooth";
+var mnemonic = "gold romance dry praise baby patient crisp theme light confirm negative hard";

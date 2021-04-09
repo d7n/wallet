@@ -1,1 +1,1 @@
-var mnemonic = "utility consider kitchen globe arrive point opera nature elder extend thumb glue";
+var mnemonic = "nature elephant cement climb orchard cattle icon best fortune soldier color present";

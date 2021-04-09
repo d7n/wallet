@@ -1,1 +1,1 @@
-var mnemonic = "diary virtual govern neither black cheap inspire carpet scheme future flame sting";
+var mnemonic = "animal wine earn rocket stone across snack celery ask copper mushroom wash";

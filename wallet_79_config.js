@@ -1,1 +1,1 @@
-var mnemonic = "lazy wing razor gauge defense normal crater dolphin evidence merry stomach unfold";
+var mnemonic = "giant galaxy rotate can grief intact tennis step spoil spice trim soda";

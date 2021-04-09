@@ -1,1 +1,1 @@
-var mnemonic = "item girl drip essence zoo buyer among palm resemble impulse narrow chef";
+var mnemonic = "trial toe fine super wolf latin wash gown bless sight imitate piano";

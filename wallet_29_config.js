@@ -1,1 +1,1 @@
-var mnemonic = "illegal pear diagram imitate double one rail target exchange law sunny review";
+var mnemonic = "door guess ritual mesh such sing blush action offer pistol virtual method";

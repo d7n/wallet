@@ -1,1 +1,1 @@
-var mnemonic = "unfair vehicle happy message alarm recipe resemble polar must size believe solid";
+var mnemonic = "drill immense primary invest scrub hand ankle alley welcome steak segment goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "require core festival mystery mail match bean defense cup shoulder pattern metal";
+var mnemonic = "much gym worry physical verify monster sketch ugly motor tumble supreme sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor donkey cover armor idea rally pair ketchup guitar exhaust catch cancel";
+var mnemonic = "label clap century process tribe ice club vessel helmet suspect jacket language";

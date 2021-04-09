@@ -1,1 +1,1 @@
-var mnemonic = "jacket bone behind tunnel client lucky grit culture embark neck soccer cradle";
+var mnemonic = "pitch useful nerve report patrol wood absent polar kit joke raise pulp";

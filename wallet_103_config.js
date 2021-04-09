@@ -1,1 +1,1 @@
-var mnemonic = "start daughter slot snake orient blast fiber destroy ship fetch hire fold";
+var mnemonic = "copy bacon park dream spring modify spike afford salmon accuse embark pig";

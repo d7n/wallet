@@ -1,1 +1,1 @@
-var mnemonic = "perfect happy embody test army minute lake gesture select autumn eagle bridge";
+var mnemonic = "total divorce gown ugly annual family ranch quote rent remove alcohol jungle";

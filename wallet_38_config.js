@@ -1,1 +1,1 @@
-var mnemonic = "dwarf broccoli track merit lounge kidney length advice fresh across merge depth";
+var mnemonic = "crunch sing ahead supply remove host base collect ceiling push various clutch";

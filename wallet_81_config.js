@@ -1,1 +1,1 @@
-var mnemonic = "clay insect slush upset skin evil gravity open smart describe review refuse";
+var mnemonic = "trust pitch latin butter police hunt network social infant huge mixture able";

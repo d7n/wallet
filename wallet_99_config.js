@@ -1,1 +1,1 @@
-var mnemonic = "toe early tackle negative upon inner banana galaxy bottom flip odor maple";
+var mnemonic = "hole figure orbit rent castle palm kick auto idea garment else flight";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle worry mammal cheese flock produce enrich use void catalog person need";
+var mnemonic = "vault enable economy elephant source mistake junior humor welcome front plug nice";

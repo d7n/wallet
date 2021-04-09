@@ -1,1 +1,1 @@
-var mnemonic = "view economy isolate audit ticket motor marble noodle multiply chicken forget lock";
+var mnemonic = "cruel grab know clay outside physical name bleak ocean liquid blue question";
