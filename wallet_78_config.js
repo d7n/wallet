@@ -1,1 +1,1 @@
-var mnemonic = "bleak field verify floor repeat garden argue party canoe anchor impose grid";
+var mnemonic = "tomorrow duty horror modify omit choose faint dress bubble vacuum despair auction";

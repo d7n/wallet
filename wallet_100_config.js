@@ -1,1 +1,1 @@
-var mnemonic = "video pilot satisfy snow bacon decrease raven doll ten glory dice spoil";
+var mnemonic = "mansion forest pause address absurd object robot urge fine settle like deliver";

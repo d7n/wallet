@@ -1,1 +1,1 @@
-var mnemonic = "barrel become nephew phrase drink pony discover useful weapon cover wire online";
+var mnemonic = "amount insane parade confirm afraid shoulder relief uncover mountain black razor eye";

@@ -1,1 +1,1 @@
-var mnemonic = "palace heavy buffalo such loud endorse fringe easy wild element antenna rude";
+var mnemonic = "shove image fork fever lemon fossil doll extend dry proud pitch ecology";

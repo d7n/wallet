@@ -1,1 +1,1 @@
-var mnemonic = "capable elevator margin decorate matter north swap symptom genius have tilt harbor";
+var mnemonic = "option describe stomach engage future holiday grain woman health lady favorite act";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle city alpha barely suit pizza theory vanish powder office toward swarm";
+var mnemonic = "snake retreat want digital dinner base minor soda defense chronic pretty salmon";

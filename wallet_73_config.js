@@ -1,1 +1,1 @@
-var mnemonic = "impulse trap angry have garment bench luxury duck occur taste brother trophy";
+var mnemonic = "school siren gospel author bread cabin step noise sword waste trip supply";

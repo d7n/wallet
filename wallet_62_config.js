@@ -1,1 +1,1 @@
-var mnemonic = "early cycle snow shock day language aunt merit snow minor citizen toe";
+var mnemonic = "snack industry empower brush output raven child jump apart health decide resemble";

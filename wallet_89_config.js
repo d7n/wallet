@@ -1,1 +1,1 @@
-var mnemonic = "trust clown fatal injury timber danger shoot allow involve artist pottery salute";
+var mnemonic = "deny boost involve size elite holiday royal claw horn master prevent divorce";

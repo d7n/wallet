@@ -1,1 +1,1 @@
-var mnemonic = "fury ring rally yellow warfare sense shoulder basic tortoise walk essence mansion";
+var mnemonic = "glare tackle purse razor alcohol expect mosquito need capital hero human museum";

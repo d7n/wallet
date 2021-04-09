@@ -1,1 +1,1 @@
-var mnemonic = "flash aware small extend glove mean still film custom subject try wife";
+var mnemonic = "grass strike skull question accuse trip ugly vital shell repeat donkey that";

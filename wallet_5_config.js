@@ -1,1 +1,1 @@
-var mnemonic = "royal cradle indicate kidney someone secret clean rare gown security lamp orbit";
+var mnemonic = "clip afraid unique faculty evoke sport twist brand sphere area umbrella casual";

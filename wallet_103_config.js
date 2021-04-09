@@ -1,1 +1,1 @@
-var mnemonic = "render carbon purse battle toe hold swap trap merry knife abandon invite";
+var mnemonic = "physical buzz hat pulp smile decide shine turkey sea impact spoon device";

@@ -1,1 +1,1 @@
-var mnemonic = "light castle subway eternal antique idle arrive brisk fluid similar sea skill";
+var mnemonic = "phrase scare social furnace answer extra ordinary light hamster consider water evil";

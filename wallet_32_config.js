@@ -1,1 +1,1 @@
-var mnemonic = "fatigue mammal casino narrow bitter rookie suffer hello delay sell whip solution";
+var mnemonic = "candy upper pink fetch empower mule uphold local civil cattle daughter sign";

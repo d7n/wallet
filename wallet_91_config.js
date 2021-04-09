@@ -1,1 +1,1 @@
-var mnemonic = "glass physical rule enough scout mammal battle banner source minimum town peace";
+var mnemonic = "pig initial various loud kitchen hello between silver tonight disagree task coral";

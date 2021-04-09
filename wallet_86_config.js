@@ -1,1 +1,1 @@
-var mnemonic = "deputy crew young rug finish obvious arrive where promote forward actress inhale";
+var mnemonic = "antenna length club valve search toast denial cry sad tomorrow dragon hello";

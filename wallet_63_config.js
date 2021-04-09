@@ -1,1 +1,1 @@
-var mnemonic = "couch screen glare proof topic gate hungry marine zero laptop museum announce";
+var mnemonic = "discover addict renew pepper paper shoot wing eyebrow fuel shaft vital good";

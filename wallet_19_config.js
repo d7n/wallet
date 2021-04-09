@@ -1,1 +1,1 @@
-var mnemonic = "time click outdoor glimpse moral nephew tape time theory churn rude mail";
+var mnemonic = "case reward clerk seven render utility door tonight banner hurry private pride";

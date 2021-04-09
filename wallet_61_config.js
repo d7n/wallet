@@ -1,1 +1,1 @@
-var mnemonic = "symbol light mercy doll sing oyster october school twin foam real sight";
+var mnemonic = "enable desk exclude cry worry announce edge sad ethics measure potato glimpse";

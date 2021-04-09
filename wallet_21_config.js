@@ -1,1 +1,1 @@
-var mnemonic = "poet notice correct december salute loyal enroll clutch little raise melody horn";
+var mnemonic = "opera honey quick isolate mask genuine pool describe laundry sad shock much";

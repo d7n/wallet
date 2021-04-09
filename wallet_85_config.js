@@ -1,1 +1,1 @@
-var mnemonic = "remind auto achieve question train across parrot always lyrics then erosion shock";
+var mnemonic = "stage inflict teach tell speed shrimp supply copy coyote unknown parrot bicycle";

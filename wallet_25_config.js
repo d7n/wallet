@@ -1,1 +1,1 @@
-var mnemonic = "wisdom spoil rent field random shiver basket cream duck minor among laptop";
+var mnemonic = "rescue chronic oak what youth just valid found daring inner measure weapon";

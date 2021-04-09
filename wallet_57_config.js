@@ -1,1 +1,1 @@
-var mnemonic = "symbol tourist quality chicken tank tobacco two warrior shed mixed retire barrel";
+var mnemonic = "fabric monitor wrap carbon absurd black conduct strategy derive music link silent";

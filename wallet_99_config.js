@@ -1,1 +1,1 @@
-var mnemonic = "quarter addict shaft wage result hair deputy demand tragic era cream child";
+var mnemonic = "awesome saddle federal power quality garment pistol crumble hunt book nephew accident";

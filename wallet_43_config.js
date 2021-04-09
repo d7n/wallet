@@ -1,1 +1,1 @@
-var mnemonic = "gospel ugly already myself exercise any problem attend garage life venture census";
+var mnemonic = "ring miss salt sudden cheese vast maple walk flavor tip stomach dog";

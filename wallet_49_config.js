@@ -1,1 +1,1 @@
-var mnemonic = "venture easy spy sibling jungle service avocado region wife couch carpet peasant";
+var mnemonic = "roof rhythm arch cattle tray correct wrong enough denial acquire industry hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "tank barely nose lemon tube loud chimney roof deer glove erupt flavor";
+var mnemonic = "artefact there country square dilemma crater evoke panic spirit nature grape stem";

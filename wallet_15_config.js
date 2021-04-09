@@ -1,1 +1,1 @@
-var mnemonic = "expect rebuild arrow excess trash sleep blast grant spread rely damage autumn";
+var mnemonic = "limb local runway potato chapter sudden power member stable carry water cost";

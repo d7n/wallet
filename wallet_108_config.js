@@ -1,1 +1,1 @@
-var mnemonic = "embrace agent regret truly unit nature road ramp across dirt valve option";
+var mnemonic = "fence essay domain faculty plunge unique kitten blue lonely library deer acquire";

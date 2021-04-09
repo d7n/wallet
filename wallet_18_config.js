@@ -1,1 +1,1 @@
-var mnemonic = "waste basket cloud chunk soccer asset regret sudden peanut art advice lab";
+var mnemonic = "useless ensure into reveal valid cave invest wisdom million extra zone midnight";

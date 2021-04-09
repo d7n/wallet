@@ -1,1 +1,1 @@
-var mnemonic = "degree satoshi rain derive ill pizza exotic obscure list palace era agent";
+var mnemonic = "silk kind crane infant surround large unfold amazing auto reopen pigeon grit";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle find denial admit fragile public lyrics jazz cover aunt wonder earth";
+var mnemonic = "chalk crush scrap symbol tone together hip gossip crash glory mandate sing";

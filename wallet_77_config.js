@@ -1,1 +1,1 @@
-var mnemonic = "smoke palm verb share armor asset police clump prison clerk guard brown";
+var mnemonic = "edit april response expect salute render fantasy scare high upon picnic unknown";

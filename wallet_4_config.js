@@ -1,1 +1,1 @@
-var mnemonic = "bulb flock dinosaur label easy similar rhythm erosion thumb expire hurry dove";
+var mnemonic = "stock board ancient muffin town bulb found arena gospel credit frog tell";

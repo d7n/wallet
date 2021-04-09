@@ -1,1 +1,1 @@
-var mnemonic = "vibrant fetch gallery matter purchase nothing chaos rice payment census rely stable";
+var mnemonic = "enjoy angry unit hill tumble life install intact square evidence connect arch";

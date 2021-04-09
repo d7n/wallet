@@ -1,1 +1,1 @@
-var mnemonic = "that elite legal print relief glance picture portion upper prosper digital marble";
+var mnemonic = "sail absorb assume vibrant slide extend loan close ghost lamp joke wash";

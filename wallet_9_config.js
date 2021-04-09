@@ -1,1 +1,1 @@
-var mnemonic = "choice decorate runway primary just capable square adult hidden connect bid grab";
+var mnemonic = "pluck approve item already boss demise cotton story sorry ball west sadness";

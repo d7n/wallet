@@ -1,1 +1,1 @@
-var mnemonic = "rent satoshi stairs car size wire steak hedgehog else tower expose junk";
+var mnemonic = "flower mix velvet lock fox arrange drink year pen crumble opera limit";

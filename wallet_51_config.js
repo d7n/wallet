@@ -1,1 +1,1 @@
-var mnemonic = "suit dog burst awful brief file brisk blade dumb assault magic legend";
+var mnemonic = "shy spend agent walk all gloom inject refuse grab earth curious helmet";

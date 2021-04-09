@@ -1,1 +1,1 @@
-var mnemonic = "entry script couch width pumpkin deny gallery pill city burden control legend";
+var mnemonic = "tumble coffee burst mushroom worth nut mushroom error close mercy meadow beach";

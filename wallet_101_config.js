@@ -1,1 +1,1 @@
-var mnemonic = "basket lyrics thought vendor course cable clerk radio mean month fault job";
+var mnemonic = "ripple attract picture pen excuse dash impact voyage patrol net black idea";

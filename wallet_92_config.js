@@ -1,1 +1,1 @@
-var mnemonic = "destroy sword brass dose visa prison wisdom brother boy aware breeze depart";
+var mnemonic = "farm brand decrease cushion tilt note border frost multiply bullet cluster game";

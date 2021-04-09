@@ -1,1 +1,1 @@
-var mnemonic = "sample wrist toilet joy pyramid wagon crime current carpet winner achieve inform";
+var mnemonic = "local split finish three bright shiver raw key bike dry random reform";

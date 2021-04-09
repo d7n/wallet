@@ -1,1 +1,1 @@
-var mnemonic = "hurry resemble sunset gentle exit annual maze buyer ski type cream claim";
+var mnemonic = "meat bronze tank royal february news credit fuel then mirror monkey crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree desk cement leg loop sing silver ripple hire other cupboard few";
+var mnemonic = "own have collect sound shoot spice volcano pull next blouse portion cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "vast draw bus cricket giggle kidney piano congress egg moral second razor";
+var mnemonic = "salad stable wide resist square ritual blast vendor forward under enforce awkward";

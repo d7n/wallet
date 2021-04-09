@@ -1,1 +1,1 @@
-var mnemonic = "enjoy hobby hint promote strong novel guard crew dish attend weapon deer";
+var mnemonic = "credit shuffle delay cereal milk mansion swarm board pig mystery cream taste";

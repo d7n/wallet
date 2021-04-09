@@ -1,1 +1,1 @@
-var mnemonic = "grid digital honey breeze buzz engine acoustic image soccer truck keep medal";
+var mnemonic = "ankle couple movie attend electric drum cream runway mechanic mistake cart wrestle";

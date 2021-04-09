@@ -1,1 +1,1 @@
-var mnemonic = "tilt normal divorce silver rather quantum real hospital educate blossom raise control";
+var mnemonic = "toy depart eye between hour march cycle prefer neutral rocket miss learn";

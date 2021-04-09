@@ -1,1 +1,1 @@
-var mnemonic = "universe juice license tenant occur garbage filter flight bleak ozone student kidney";
+var mnemonic = "pond riot awkward matrix runway kidney awful boring angry satisfy donor gather";

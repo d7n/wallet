@@ -1,1 +1,1 @@
-var mnemonic = "matrix destroy drift glue walnut change rent draw upset add hello mesh";
+var mnemonic = "spirit bracket melt mushroom box grab enrich step birth wolf leave nut";

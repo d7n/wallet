@@ -1,1 +1,1 @@
-var mnemonic = "grit mountain dolphin alert lady clog power urge emotion gasp glove nothing";
+var mnemonic = "bulb staff distance powder prosper already benefit surge absurd click dragon enter";

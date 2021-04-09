@@ -1,1 +1,1 @@
-var mnemonic = "carry meadow proud twenty improve reflect click brief sign bubble common inquiry";
+var mnemonic = "afford element giant exit bread steak consider dust flag piano diary patient";

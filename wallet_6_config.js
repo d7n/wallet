@@ -1,1 +1,1 @@
-var mnemonic = "twist arctic spawn soap sauce impact buddy version matter kidney month trumpet";
+var mnemonic = "board wife journey sing violin cancel vague sword curious usage master capable";

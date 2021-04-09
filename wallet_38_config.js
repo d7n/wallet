@@ -1,1 +1,1 @@
-var mnemonic = "receive maid warfare episode grant amount oppose habit guide lady reflect differ";
+var mnemonic = "true open design clump survey river cream squeeze badge mule either number";

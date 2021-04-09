@@ -1,1 +1,1 @@
-var mnemonic = "risk online barely dragon ripple draft rocket emotion body picnic juice harvest";
+var mnemonic = "night wash already chaos call wonder remain struggle pride aunt deal permit";

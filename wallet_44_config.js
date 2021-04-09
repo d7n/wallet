@@ -1,1 +1,1 @@
-var mnemonic = "scissors gym manage moment bracket stumble museum inch able idle auction lion";
+var mnemonic = "demise charge box milk water merry solar vote filter mercy mixed garbage";

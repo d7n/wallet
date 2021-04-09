@@ -1,1 +1,1 @@
-var mnemonic = "aunt absurd unit prosper doctor before wage spring frog ability budget foot";
+var mnemonic = "wood voyage gap always trophy curve gentle emotion invite gather ice paper";

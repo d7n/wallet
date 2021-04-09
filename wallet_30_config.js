@@ -1,1 +1,1 @@
-var mnemonic = "tail crack creek interest hover noodle argue science lumber blast energy reject";
+var mnemonic = "bacon prefer kid pet wheat parade quick fame rookie ready consider tomato";

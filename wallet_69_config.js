@@ -1,1 +1,1 @@
-var mnemonic = "season squirrel melody charge fog road plunge future reason garage typical session";
+var mnemonic = "sniff patch keep shell exhaust ring trial call leopard advance dry cream";

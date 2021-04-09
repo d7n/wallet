@@ -1,1 +1,1 @@
-var mnemonic = "dance moment agree million icon panel churn celery various refuse clock cause";
+var mnemonic = "canyon assault genre law pupil lemon glue act book snack maid horse";

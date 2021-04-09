@@ -1,1 +1,1 @@
-var mnemonic = "battle salad movie gym question include relax social approve dial viable warm";
+var mnemonic = "surprise sing shop flower pudding shrimp slab good craft industry height void";

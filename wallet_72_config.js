@@ -1,1 +1,1 @@
-var mnemonic = "awake path rally suggest burden toward surface hand crime slim bright cotton";
+var mnemonic = "world chimney chapter sorry praise eager today royal empty find direct cup";

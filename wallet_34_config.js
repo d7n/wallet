@@ -1,1 +1,1 @@
-var mnemonic = "truth bring cousin squirrel trap grant cool expect virtual globe index priority";
+var mnemonic = "wage case return view fuel devote despair erosion climb update lecture guard";

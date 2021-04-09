@@ -1,1 +1,1 @@
-var mnemonic = "august victory valve enforce lock tuition obvious renew manage cactus man angle";
+var mnemonic = "poverty pizza arena empower quit real picture sentence deal final swallow hard";

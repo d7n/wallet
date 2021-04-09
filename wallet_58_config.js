@@ -1,1 +1,1 @@
-var mnemonic = "grief scene grass suit cube equip diet girl bamboo draw give valid";
+var mnemonic = "example crack arrow sweet praise defense bacon ripple genuine hurry embark city";

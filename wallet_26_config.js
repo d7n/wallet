@@ -1,1 +1,1 @@
-var mnemonic = "major peanut shaft distance verb occur know keep truck length dry crush";
+var mnemonic = "scrub hospital coach kitchen orient copper album certain spin wheel devote expose";

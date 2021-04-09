@@ -1,1 +1,1 @@
-var mnemonic = "tone exchange van diamond orphan any about idle above text stove boat";
+var mnemonic = "base gossip result alley tornado panel dice oak annual element trust crumble";

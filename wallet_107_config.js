@@ -1,1 +1,1 @@
-var mnemonic = "weird fire negative party whip list emotion couple actress surge ripple must";
+var mnemonic = "vocal donate treat armed joke universe begin pole used treat crime silver";

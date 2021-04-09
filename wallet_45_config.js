@@ -1,1 +1,1 @@
-var mnemonic = "service visa runway auto fold evidence deposit black breeze jealous wait green";
+var mnemonic = "faculty hunt monster enrich adapt pill open face tooth short force purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "intact custom amateur just ribbon stomach post barely pupil ethics churn clarify";
+var mnemonic = "game bacon feature walk spell thumb hand carry parade talk squirrel ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock hamster upper audit swap swap blame panther equal vehicle lawsuit truth";
+var mnemonic = "inject hurry garbage nephew artwork report erode remove soldier need link reopen";

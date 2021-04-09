@@ -1,1 +1,1 @@
-var mnemonic = "search birth own choose segment ask twice fossil high canyon shoot cloud";
+var mnemonic = "hello educate flight assault there prefer orphan alcohol link judge boil dash";

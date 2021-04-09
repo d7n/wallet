@@ -1,1 +1,1 @@
-var mnemonic = "wheel stone option toe demand six sunset replace joke conduct advice oven";
+var mnemonic = "acid bulk hood neither such genre ship winter kite capital novel sudden";

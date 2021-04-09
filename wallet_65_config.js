@@ -1,1 +1,1 @@
-var mnemonic = "expand stairs jar volume skin decide knife chief forest raccoon neglect already";
+var mnemonic = "become uphold suggest talk beyond debate despair phrase dynamic amateur exact concert";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach live worth tank upset weird lecture damage domain merit crouch play";
+var mnemonic = "atom limit south dog parrot dynamic inflict scatter lumber swear silly client";

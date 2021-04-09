@@ -1,1 +1,1 @@
-var mnemonic = "club very shell moral humor topic stem merge awake myth will sketch";
+var mnemonic = "spread sausage oblige sock auction journey drift balcony battle reopen visual innocent";

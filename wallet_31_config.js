@@ -1,1 +1,1 @@
-var mnemonic = "control like guess laugh soon knee holiday enforce comic oyster turkey episode";
+var mnemonic = "shoe giraffe once ladder tail never unusual burger disagree vacuum faint scatter";

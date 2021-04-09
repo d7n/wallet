@@ -1,1 +1,1 @@
-var mnemonic = "benefit room enjoy say crowd vintage someone enroll network romance crane rabbit";
+var mnemonic = "peanut sweet random echo language prefer light raise lawsuit field limb cover";

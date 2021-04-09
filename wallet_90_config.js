@@ -1,1 +1,1 @@
-var mnemonic = "trash sail gravity cruel paper wheat guilt choice pool onion kidney squirrel";
+var mnemonic = "when dune swear crush purpose antique fox unique rapid blossom tornado labor";

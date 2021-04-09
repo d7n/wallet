@@ -1,1 +1,1 @@
-var mnemonic = "long inherit sock castle end history thunder busy slot sentence vapor physical";
+var mnemonic = "forget promote then skill acquire brick maple student abuse virus case front";

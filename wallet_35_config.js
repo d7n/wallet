@@ -1,1 +1,1 @@
-var mnemonic = "reveal speed barrel voyage glory torch luggage panic tortoise wall swap aspect";
+var mnemonic = "afraid swarm vehicle message churn view umbrella response rate sphere clerk pipe";

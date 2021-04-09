@@ -1,1 +1,1 @@
-var mnemonic = "voyage vote child husband catch best say video cactus denial bunker rail";
+var mnemonic = "vague brisk web asthma pistol inside basic language later tiny dignity brain";

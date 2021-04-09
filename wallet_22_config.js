@@ -1,1 +1,1 @@
-var mnemonic = "treat deposit knife capital rail grocery fire drift chimney library picture robot";
+var mnemonic = "expose busy broccoli hidden vicious retire medal ostrich slot busy century glimpse";

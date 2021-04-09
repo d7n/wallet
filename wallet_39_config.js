@@ -1,1 +1,1 @@
-var mnemonic = "length wink acoustic narrow cushion buyer box silly alpha dynamic merry grocery";
+var mnemonic = "test subway curtain grape harvest void lion crystal artwork negative recycle auction";

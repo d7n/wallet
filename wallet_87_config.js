@@ -1,1 +1,1 @@
-var mnemonic = "page hazard dance original misery wheel obscure baby this remain feed vast";
+var mnemonic = "mad hunt category dizzy iron stick negative blood smart since mean purchase";

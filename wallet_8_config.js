@@ -1,1 +1,1 @@
-var mnemonic = "arrow cook tunnel invest lottery taste system entry crack match split black";
+var mnemonic = "often brief creek shrug enhance category rural game magic garbage battle album";
