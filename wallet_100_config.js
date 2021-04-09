@@ -1,1 +1,1 @@
-var mnemonic = "ozone parade correct bundle dance point garden appear rebel fog maple walnut";
+var mnemonic = "rough acquire amused vehicle exile night muscle absorb inspire flag armor post";

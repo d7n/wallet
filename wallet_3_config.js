@@ -1,1 +1,1 @@
-var mnemonic = "nature height pottery oven relief kitten scout stone into section ignore keep";
+var mnemonic = "oval season canyon attend oil family vivid output eternal silk pioneer magnet";

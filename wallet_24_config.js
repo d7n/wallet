@@ -1,1 +1,1 @@
-var mnemonic = "change magnet pony travel rival give gift absorb knock sudden surface fish";
+var mnemonic = "repeat gap enforce file arrest mixture since emerge lady wonder urban lift";

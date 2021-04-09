@@ -1,1 +1,1 @@
-var mnemonic = "trust pitch latin butter police hunt network social infant huge mixture able";
+var mnemonic = "donkey language disorder step bird awful notice casino boss ranch weather base";

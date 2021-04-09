@@ -1,1 +1,1 @@
-var mnemonic = "silent promote armed voyage humble coach copy hold supply recycle despair box";
+var mnemonic = "surface success success kiwi sand room circle helmet focus have wisdom betray";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel grab know clay outside physical name bleak ocean liquid blue question";
+var mnemonic = "sword episode spare pony style clip there error juice inch interest loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "shed sure borrow mimic segment sail base fly jump price canvas flat";
+var mnemonic = "venture dumb seek bamboo dentist isolate frown motion together payment uncover small";

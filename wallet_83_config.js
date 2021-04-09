@@ -1,1 +1,1 @@
-var mnemonic = "nut crush prize arrange health benefit very adjust injury common liar share";
+var mnemonic = "concert attack security quiz today friend decrease wood toddler toss meadow plug";

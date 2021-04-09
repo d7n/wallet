@@ -1,1 +1,1 @@
-var mnemonic = "point total require milk mansion sausage cave loan fog minute long budget";
+var mnemonic = "diet gather robot open surface prison outside shaft orphan rival forum clap";

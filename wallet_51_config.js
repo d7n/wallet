@@ -1,1 +1,1 @@
-var mnemonic = "exchange acoustic hill second trouble rude library hover reform stadium glance call";
+var mnemonic = "test volume deposit deputy zebra water strike clock vacant picture bomb cry";

@@ -1,1 +1,1 @@
-var mnemonic = "hole figure orbit rent castle palm kick auto idea garment else flight";
+var mnemonic = "game weather art banner good start tag method drift purity scheme brand";

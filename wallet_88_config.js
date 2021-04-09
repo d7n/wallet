@@ -1,1 +1,1 @@
-var mnemonic = "civil electric situate pet already benefit subject edit edge pass road forest";
+var mnemonic = "patch animal fatal pilot obscure shoulder hospital father recipe dove face void";

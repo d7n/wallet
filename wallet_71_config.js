@@ -1,1 +1,1 @@
-var mnemonic = "abandon human similar robust bring quarter brass crawl episode medal job speak";
+var mnemonic = "return tribe trade opinion modify tribe gaze wife very corn taste observe";

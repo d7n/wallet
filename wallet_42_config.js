@@ -1,1 +1,1 @@
-var mnemonic = "ski gloom bracket that gesture vital tomato box tongue monitor banner fork";
+var mnemonic = "talent abuse rifle sock crater among obtain spare master captain voice unusual";

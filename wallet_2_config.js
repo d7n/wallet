@@ -1,1 +1,1 @@
-var mnemonic = "add special naive park butter sing zero green act dust jump cushion";
+var mnemonic = "crane detect regular convince scan render video oppose sting post december leg";

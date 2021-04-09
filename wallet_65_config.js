@@ -1,1 +1,1 @@
-var mnemonic = "bargain panic gather clock minimum purse where cash sport hood crumble double";
+var mnemonic = "wrap skill fault write adult cement north guard pen sketch chalk fun";

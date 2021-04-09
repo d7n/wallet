@@ -1,1 +1,1 @@
-var mnemonic = "fever join play escape chuckle spot air scene result safe devote wealth";
+var mnemonic = "belt sniff surface unveil horse ring orient pattern journey silk snake tray";

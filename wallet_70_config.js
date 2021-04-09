@@ -1,1 +1,1 @@
-var mnemonic = "worry tonight color open enact curious mechanic party collect proud coyote cycle";
+var mnemonic = "slim physical alter advance visual odor detail thought bag jeans finger chest";

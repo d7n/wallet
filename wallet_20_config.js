@@ -1,1 +1,1 @@
-var mnemonic = "empower jewel despair film whale achieve forum scheme confirm poet juice race";
+var mnemonic = "traffic goat inspire grain believe anxiety simple budget sibling front rally inhale";

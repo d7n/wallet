@@ -1,1 +1,1 @@
-var mnemonic = "shy demise what sign affair mind neutral tumble morning myth fortune angry";
+var mnemonic = "fix ankle buddy start net crazy wagon front strike pear file caution";

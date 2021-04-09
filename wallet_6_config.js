@@ -1,1 +1,1 @@
-var mnemonic = "shrimp news airport insane suit cruise abuse output cheap slow cushion another";
+var mnemonic = "ride frozen trim assist behave organ roast address escape enforce property cannon";

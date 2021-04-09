@@ -1,1 +1,1 @@
-var mnemonic = "door guess ritual mesh such sing blush action offer pistol virtual method";
+var mnemonic = "ocean bounce aerobic cage rival side parade pepper camera rib duck destroy";

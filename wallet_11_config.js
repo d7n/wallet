@@ -1,1 +1,1 @@
-var mnemonic = "much gym worry physical verify monster sketch ugly motor tumble supreme sunny";
+var mnemonic = "hole gift tennis erosion humble ceiling this rate math around discover mother";

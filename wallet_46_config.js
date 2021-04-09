@@ -1,1 +1,1 @@
-var mnemonic = "mean pudding humor churn behave hidden there video eyebrow season clay bike";
+var mnemonic = "traffic depart pigeon link emotion honey runway refuse nice trumpet service crucial";

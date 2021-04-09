@@ -1,1 +1,1 @@
-var mnemonic = "strike creek pause almost ceiling sign member crisp cheese ghost original error";
+var mnemonic = "soup luxury entire cradle later law infant tiger old empty vacuum label";

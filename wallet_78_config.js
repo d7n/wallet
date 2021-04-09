@@ -1,1 +1,1 @@
-var mnemonic = "trial toe fine super wolf latin wash gown bless sight imitate piano";
+var mnemonic = "toy gas moment pink inspire veteran zero depart prison quit notable endless";

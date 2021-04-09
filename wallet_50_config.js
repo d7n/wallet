@@ -1,1 +1,1 @@
-var mnemonic = "occur raw patrol glow blame invite gym subject indoor trip juice soup";
+var mnemonic = "fly mistake torch dune evoke hat drum furnace hybrid basic rail when";

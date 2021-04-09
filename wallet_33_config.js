@@ -1,1 +1,1 @@
-var mnemonic = "error open meat initial member purpose plastic aerobic company panel dial write";
+var mnemonic = "thrive smooth shell pottery ability unusual amateur case rival output wolf winner";

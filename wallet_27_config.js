@@ -1,1 +1,1 @@
-var mnemonic = "remain random bunker shoulder visual win worry limb desk merge female usual";
+var mnemonic = "effort fee fork neck cart canoe high shy lens february shoulder impulse";

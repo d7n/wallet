@@ -1,1 +1,1 @@
-var mnemonic = "sun mixture large labor swing fuel avoid enrich stomach region cement raw";
+var mnemonic = "deny gentle umbrella volcano clock fit govern add speak blast bird cheap";

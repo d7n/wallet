@@ -1,1 +1,1 @@
-var mnemonic = "sport whale cargo ostrich arena loud junk convince call carpet cereal option";
+var mnemonic = "member alley thunder humor horn cook airport spring taste rough wood alarm";

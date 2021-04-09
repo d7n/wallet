@@ -1,1 +1,1 @@
-var mnemonic = "unique riot solid pottery recall burger cliff permit sick shallow song cancel";
+var mnemonic = "spare cup captain pudding weekend pupil stool drip solution doctor lemon captain";

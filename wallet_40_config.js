@@ -1,1 +1,1 @@
-var mnemonic = "energy alone stage never tennis entire powder describe effort thing cannon razor";
+var mnemonic = "cube unit tomato educate sail exist hard office above minor clip group";

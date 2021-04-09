@@ -1,1 +1,1 @@
-var mnemonic = "giant galaxy rotate can grief intact tennis step spoil spice trim soda";
+var mnemonic = "baby fancy foam attend thunder cause limit lazy rookie divide circle move";

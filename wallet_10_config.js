@@ -1,1 +1,1 @@
-var mnemonic = "vault enable economy elephant source mistake junior humor welcome front plug nice";
+var mnemonic = "dilemma worry sorry member jealous seminar reason afraid audit all hold poem";

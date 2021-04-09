@@ -1,1 +1,1 @@
-var mnemonic = "insane high matrix element coconut begin area dilemma heavy pen divide hockey";
+var mnemonic = "balcony stamp bag clay frozen able gas border merge loop cloud fun";

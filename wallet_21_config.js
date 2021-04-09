@@ -1,1 +1,1 @@
-var mnemonic = "math cruel pizza illness lake crawl weird region brave column pole crash";
+var mnemonic = "cushion shallow service dutch midnight evil bracket strong great real parent maple";

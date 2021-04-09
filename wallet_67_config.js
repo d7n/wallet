@@ -1,1 +1,1 @@
-var mnemonic = "bamboo sport any need roof canoe autumn satisfy garden idle diet indoor";
+var mnemonic = "program luxury early tent answer there cricket borrow pelican letter mammal stay";

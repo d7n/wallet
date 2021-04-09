@@ -1,1 +1,1 @@
-var mnemonic = "ticket chase hard shoe ridge stamp rug boy hire axis vintage leader";
+var mnemonic = "deputy slam stamp salt magnet mimic weekend genuine excuse accident walnut burger";

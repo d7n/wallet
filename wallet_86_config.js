@@ -1,1 +1,1 @@
-var mnemonic = "habit elevator dismiss cry left comic infant shield mule feed swift ancient";
+var mnemonic = "hero boss replace gentle ensure space input twin dash blouse example twin";

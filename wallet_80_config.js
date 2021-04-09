@@ -1,1 +1,1 @@
-var mnemonic = "town ancient consider roof fatal scheme three magnet diamond over capable dove";
+var mnemonic = "decorate anchor lend response motion absent mansion turkey pelican audit local people";

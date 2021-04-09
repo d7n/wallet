@@ -1,1 +1,1 @@
-var mnemonic = "social spare dove blanket fetch mixed awkward net gaze avocado purchase siren";
+var mnemonic = "amount copy text grief sport airport there health argue mistake control inject";

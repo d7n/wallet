@@ -1,1 +1,1 @@
-var mnemonic = "knife yellow public hawk length smart shrimp fever mushroom bitter cause hero";
+var mnemonic = "venue divide foot sad estate private focus very poverty leaf pill transfer";

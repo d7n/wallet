@@ -1,1 +1,1 @@
-var mnemonic = "trumpet enter custom sunny staff cinnamon pitch tip color green song short";
+var mnemonic = "exact error bench magic suspect change churn banana couple collect victory embark";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn sudden erase believe word live match around payment recall affair blast";
+var mnemonic = "wing machine plunge rib you crawl room sort brother hold legal eager";

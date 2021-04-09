@@ -1,1 +1,1 @@
-var mnemonic = "copy bacon park dream spring modify spike afford salmon accuse embark pig";
+var mnemonic = "depart excuse forum surprise balance lazy rose know will flower distance venture";

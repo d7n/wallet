@@ -1,1 +1,1 @@
-var mnemonic = "whip knock often choice obscure like tornado accuse pill include gun heavy";
+var mnemonic = "before pact govern earth glimpse effort scene bread protect clap cushion drill";

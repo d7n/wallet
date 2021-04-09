@@ -1,1 +1,1 @@
-var mnemonic = "cost cube sail grab dose thunder merry garage crucial buyer wave frozen";
+var mnemonic = "cash mistake clog enjoy secret screen word main lecture tray patch mystery";

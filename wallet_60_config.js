@@ -1,1 +1,1 @@
-var mnemonic = "drill immense primary invest scrub hand ankle alley welcome steak segment goddess";
+var mnemonic = "oven wealth culture couch record firm coffee point maze front vessel position";

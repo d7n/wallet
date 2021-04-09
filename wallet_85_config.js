@@ -1,1 +1,1 @@
-var mnemonic = "empty client major fence tower impose evil suffer review axis claim flat";
+var mnemonic = "false certain pony ostrich super fiction unit canyon future chest word wrong";

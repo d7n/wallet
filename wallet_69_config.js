@@ -1,1 +1,1 @@
-var mnemonic = "strong inspire senior main grief enhance razor book verb field snap decade";
+var mnemonic = "panel frozen wild popular before until frog toy young arrive tourist lion";

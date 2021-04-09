@@ -1,1 +1,1 @@
-var mnemonic = "nice clever gauge crystal enrich treat want target portion donor arrange gravity";
+var mnemonic = "talk awkward teach screen reject junk exercise uncover august suffer tent melt";

@@ -1,1 +1,1 @@
-var mnemonic = "large envelope fame helmet cute swing rich library almost minute ceiling vanish";
+var mnemonic = "injury prosper amazing pool caught extra exile twenty century upset crop tip";

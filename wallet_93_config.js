@@ -1,1 +1,1 @@
-var mnemonic = "fire tumble solar identify guilt floor wink throw cattle fat pulp creek";
+var mnemonic = "pelican convince gorilla soon sand broom museum pepper recycle lizard develop visa";

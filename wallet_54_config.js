@@ -1,1 +1,1 @@
-var mnemonic = "globe square security kit twin oyster street solid phrase tornado voice walnut";
+var mnemonic = "miracle tired chase leader lyrics arctic bitter blind holiday main act outer";

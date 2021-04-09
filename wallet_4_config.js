@@ -1,1 +1,1 @@
-var mnemonic = "canoe else raise pioneer thunder wash belt fortune immense soft plug win";
+var mnemonic = "intact art yellow pledge amount mistake exercise health find silent olympic merge";

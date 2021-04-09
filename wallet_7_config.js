@@ -1,1 +1,1 @@
-var mnemonic = "rough snack hold never explain sausage dirt near bread feel crush hard";
+var mnemonic = "ripple dream mind great crew hero valley plug purchase tissue black castle";

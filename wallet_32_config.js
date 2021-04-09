@@ -1,1 +1,1 @@
-var mnemonic = "pitch useful nerve report patrol wood absent polar kit joke raise pulp";
+var mnemonic = "thunder kangaroo venture lecture process bar luggage learn anchor repair gadget unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "total divorce gown ugly annual family ranch quote rent remove alcohol jungle";
+var mnemonic = "scare giggle pet crawl approve skate surround caution trip exit quote shove";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp dad spoil detail woman permit engage eyebrow keen defense elder onion";
+var mnemonic = "month symbol license cigar guard cover solution chase furnace famous taste wealth";

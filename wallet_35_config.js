@@ -1,1 +1,1 @@
-var mnemonic = "ostrich frame magnet scene thank staff upon unfair topic cliff soul fiber";
+var mnemonic = "winner wheel market relax worth educate slim scheme spring drop gold property";

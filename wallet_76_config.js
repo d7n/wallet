@@ -1,1 +1,1 @@
-var mnemonic = "clarify left local chuckle load siren omit vanish regret glory ankle clarify";
+var mnemonic = "final jungle milk chair open staff depth fortune sea chuckle turn response";

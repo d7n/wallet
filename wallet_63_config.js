@@ -1,1 +1,1 @@
-var mnemonic = "abuse envelope manage powder sponsor boy duck casual inflict genius fence tray";
+var mnemonic = "dish error define slogan foster eternal dune ghost rice mobile prison crouch";

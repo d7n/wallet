@@ -1,1 +1,1 @@
-var mnemonic = "sock consider body bounce rapid noble puppy layer bracket major filter science";
+var mnemonic = "soon stove gown crime mule glide camera can dune paper mesh adjust";

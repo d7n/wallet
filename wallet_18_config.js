@@ -1,1 +1,1 @@
-var mnemonic = "animal wine earn rocket stone across snack celery ask copper mushroom wash";
+var mnemonic = "critic kangaroo fabric amazing delay warrior glue quiz into lonely raccoon inform";

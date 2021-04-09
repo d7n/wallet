@@ -1,1 +1,1 @@
-var mnemonic = "day glare slender put tired tree inject magnet sheriff rebel flavor when";
+var mnemonic = "way embody capital ethics pulse photo riot trip general wagon latin city";

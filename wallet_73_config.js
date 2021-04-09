@@ -1,1 +1,1 @@
-var mnemonic = "pistol salute daring train item pink write artefact palm enlist desk tag";
+var mnemonic = "train stove slush midnight road exile light evolve theme afford state leader";

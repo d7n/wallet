@@ -1,1 +1,1 @@
-var mnemonic = "model thing teach dizzy bacon soon fox sadness toast crane hero museum";
+var mnemonic = "own host quarter fantasy cousin baby leave lens pilot sleep humor keen";

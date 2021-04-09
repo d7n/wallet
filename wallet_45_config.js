@@ -1,1 +1,1 @@
-var mnemonic = "glass six useless embark blouse sugar tower hurry trick damp casual sauce";
+var mnemonic = "hollow buyer pupil canal fossil rival bulb divide avocado arrest rocket pen";

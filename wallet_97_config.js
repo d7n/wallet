@@ -1,1 +1,1 @@
-var mnemonic = "struggle health wish range helmet harsh climb advice forget pink shove zone";
+var mnemonic = "fog flush room birth tag green return chief captain fame tortoise option";

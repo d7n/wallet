@@ -1,1 +1,1 @@
-var mnemonic = "scare duck gorilla weekend rhythm any orient rain upgrade cry put unfair";
+var mnemonic = "gold marble cherry erode grocery van edit swallow orbit myth hobby bunker";

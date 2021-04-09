@@ -1,1 +1,1 @@
-var mnemonic = "sausage million tobacco two misery clap voice panel nurse matrix kingdom solar";
+var mnemonic = "pill february mercy quick damage tank like bracket act impact lyrics ivory";

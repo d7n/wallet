@@ -1,1 +1,1 @@
-var mnemonic = "gym ocean remember confirm viable caught omit recipe bulk verb upon aerobic";
+var mnemonic = "dial gather latin figure extra warm amazing talent mass enable resist illegal";

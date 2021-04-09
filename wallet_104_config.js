@@ -1,1 +1,1 @@
-var mnemonic = "basket left police invest impose cargo saddle remind merry slot rookie rabbit";
+var mnemonic = "elevator often reject virus affair split distance balance chapter lottery extend estate";

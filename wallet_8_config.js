@@ -1,1 +1,1 @@
-var mnemonic = "float amazing rookie chest miss invest nerve give tail pumpkin pull garage";
+var mnemonic = "space bulb uniform slab pen vapor south dwarf lazy bracket left oak";

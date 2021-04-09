@@ -1,1 +1,1 @@
-var mnemonic = "crunch sing ahead supply remove host base collect ceiling push various clutch";
+var mnemonic = "tiger quote pulp win minute able brand remain reward claim gloom romance";

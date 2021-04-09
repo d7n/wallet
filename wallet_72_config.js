@@ -1,1 +1,1 @@
-var mnemonic = "require avoid bag buyer tackle tissue finger wear wasp light device issue";
+var mnemonic = "ritual when put voice impulse close fury catalog inflict decide file lens";

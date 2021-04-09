@@ -1,1 +1,1 @@
-var mnemonic = "slice reveal skirt tone label island tag viable menu injury thunder vital";
+var mnemonic = "need essay kite autumn retire tree tilt obscure forum palace hobby bean";

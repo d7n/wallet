@@ -1,1 +1,1 @@
-var mnemonic = "couple trip milk frog cotton emerge biology abuse country rabbit toe leopard";
+var mnemonic = "taste nominee glass basket payment crazy token fossil chalk mail steel manual";

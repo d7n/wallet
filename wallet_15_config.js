@@ -1,1 +1,1 @@
-var mnemonic = "kiss pear record canoe assume moral believe rate valid only error busy";
+var mnemonic = "cotton youth crater dash harsh thank approve lake category clinic decade depart";

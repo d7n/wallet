@@ -1,1 +1,1 @@
-var mnemonic = "noise series dust also alert soda observe cube trick ghost rocket market";
+var mnemonic = "gadget cycle lawn carry auto quit angle popular swarm return mountain above";

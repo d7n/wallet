@@ -1,1 +1,1 @@
-var mnemonic = "label clap century process tribe ice club vessel helmet suspect jacket language";
+var mnemonic = "fortune express describe wing monkey near math buffalo ritual mad sail scatter";

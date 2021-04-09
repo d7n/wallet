@@ -1,1 +1,1 @@
-var mnemonic = "hub coast mango feature steel tell twist cup sense spread cost steel";
+var mnemonic = "attack major cycle cabin notable define write myth bitter pilot index sick";

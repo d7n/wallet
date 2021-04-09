@@ -1,1 +1,1 @@
-var mnemonic = "key make behave rack brain joke cost blush raccoon fetch canyon tape";
+var mnemonic = "dirt october lesson strategy table swift direct ripple strong drift exchange frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "farm surprise small human right rubber stereo reject door surround venue dawn";
+var mnemonic = "silk blast patient sheriff input parrot concert aware casual crawl pact dragon";
