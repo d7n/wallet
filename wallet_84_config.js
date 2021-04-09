@@ -1,1 +1,1 @@
-var mnemonic = "coin random gaze friend option enable science ramp found nut winter express";
+var mnemonic = "need upper pool panda worry august elegant frequent shine fat trouble excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "square rebuild mistake error faculty coconut enough produce bitter faculty copper sunset";
+var mnemonic = "icon inmate finger parade wash dress tilt impose answer demand crumble rapid";

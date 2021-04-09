@@ -1,1 +1,1 @@
-var mnemonic = "damage daughter razor assault method brother romance guilt climb insect monitor fruit";
+var mnemonic = "loan west urge beyond garbage onion decorate analyst bright unveil win fatigue";

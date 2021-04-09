@@ -1,1 +1,1 @@
-var mnemonic = "unfair panel cabbage skirt remember answer second rebuild spike margin clown exhaust";
+var mnemonic = "panther void vapor industry ecology space core type fiber hurry fancy hungry";

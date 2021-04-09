@@ -1,1 +1,1 @@
-var mnemonic = "claim dial elbow member make transfer shoot mango piece salon world comfort";
+var mnemonic = "canyon festival invest surround goat tiny pink nominee visit ignore royal describe";

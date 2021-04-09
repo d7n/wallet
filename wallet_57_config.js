@@ -1,1 +1,1 @@
-var mnemonic = "focus side hard flight manual wine guilt survey among liberty believe ozone";
+var mnemonic = "cruel collect differ enlist number ivory excuse ahead impact misery lock obvious";

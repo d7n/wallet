@@ -1,1 +1,1 @@
-var mnemonic = "walnut response plastic ladder yellow pepper ritual pave chef involve agent tourist";
+var mnemonic = "burst timber sibling nest early weather month annual debris sausage extra finish";

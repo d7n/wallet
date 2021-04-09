@@ -1,1 +1,1 @@
-var mnemonic = "adapt fiber focus room drill refuse predict height segment shaft cry balcony";
+var mnemonic = "remember teach forget list spin post mimic various proud regret trumpet slight";

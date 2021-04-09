@@ -1,1 +1,1 @@
-var mnemonic = "earth label cool twenty heavy tell melody differ husband guitar hawk hire";
+var mnemonic = "birth august blade surprise elbow submit bounce dilemma method hundred stairs front";

@@ -1,1 +1,1 @@
-var mnemonic = "six gate spread hedgehog salt frozen prefer egg issue wrestle profit hammer";
+var mnemonic = "honey dose worth found unveil festival renew discover armed ramp tail inmate";

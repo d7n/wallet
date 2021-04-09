@@ -1,1 +1,1 @@
-var mnemonic = "pyramid kingdom license tunnel cabbage win kidney sort crouch snake swear welcome";
+var mnemonic = "example buffalo beyond gather mutual ocean flight ritual mail say salt old";

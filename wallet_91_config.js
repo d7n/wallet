@@ -1,1 +1,1 @@
-var mnemonic = "broccoli shift trade hospital elbow misery segment live captain give kick list";
+var mnemonic = "educate tower tide twin brisk north series gossip impulse harvest seat chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "balance room math lava access boss wife office half sunset regular furnace";
+var mnemonic = "ship bright require caution river tattoo nature funny hundred erase frozen erupt";

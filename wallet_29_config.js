@@ -1,1 +1,1 @@
-var mnemonic = "under give maximum engage borrow among allow gallery connect column vacant cram";
+var mnemonic = "farm sure trade speed obvious bench pig limb deposit inherit stem either";

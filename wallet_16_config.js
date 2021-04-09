@@ -1,1 +1,1 @@
-var mnemonic = "furnace exhibit rose top loud nuclear hammer mistake enough size reason gap";
+var mnemonic = "hero nation swim public lonely slab federal base refuse mansion gauge eight";

@@ -1,1 +1,1 @@
-var mnemonic = "special attract topic bracket duck later canal right eight traffic clog solid";
+var mnemonic = "lend marine join become position kind mention gossip frog culture repair boy";

@@ -1,1 +1,1 @@
-var mnemonic = "detail account ugly toward such search lift surface flight age roast mammal";
+var mnemonic = "chunk physical noodle need prepare present tourist elbow later travel safe flower";

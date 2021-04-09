@@ -1,1 +1,1 @@
-var mnemonic = "harvest slush amateur upgrade moon together field throw song crush capital loyal";
+var mnemonic = "unfold include bulb ship spell middle snap various violin exercise carbon outer";

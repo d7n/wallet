@@ -1,1 +1,1 @@
-var mnemonic = "casual february wave draw loud veteran erase three large marriage exercise remember";
+var mnemonic = "poet bread weekend cup evolve ocean unaware chest exotic dry gown caught";

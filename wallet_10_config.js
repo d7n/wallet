@@ -1,1 +1,1 @@
-var mnemonic = "witness noble shock claim garage tent dune basket title basic fruit immune";
+var mnemonic = "field release cable cannon art inhale crew cable payment notice armor member";

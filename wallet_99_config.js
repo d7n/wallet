@@ -1,1 +1,1 @@
-var mnemonic = "snack wheel typical other fall infant they hedgehog round install rare peanut";
+var mnemonic = "toddler oil cover edit impose resist response foster float usage shadow swim";

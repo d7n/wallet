@@ -1,1 +1,1 @@
-var mnemonic = "stereo fall disease lend first cactus public raise enlist scatter spoon ripple";
+var mnemonic = "run exhaust there erode sound daring path glare faint adapt secret tennis";

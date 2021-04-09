@@ -1,1 +1,1 @@
-var mnemonic = "list guard taxi basic horror setup blood clinic kick popular regret hungry";
+var mnemonic = "camera trim promote special news license pull twenty lecture keen deny path";

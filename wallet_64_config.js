@@ -1,1 +1,1 @@
-var mnemonic = "burger february decade smooth brown educate inflict sauce industry visual universe holiday";
+var mnemonic = "because grain what potato plastic bullet sun best genius welcome swamp diamond";

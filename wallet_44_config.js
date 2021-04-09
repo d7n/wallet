@@ -1,1 +1,1 @@
-var mnemonic = "people only food embody cost goose whip crisp stadium stock fruit over";
+var mnemonic = "shell jeans acoustic urban float segment injury coil canal wreck hamster drop";

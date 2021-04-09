@@ -1,1 +1,1 @@
-var mnemonic = "enforce win olympic modify remind film brand acid round lend keep try";
+var mnemonic = "possible prison position friend episode loyal drink eagle venue argue brick connect";

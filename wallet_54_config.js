@@ -1,1 +1,1 @@
-var mnemonic = "version elegant night lab dice theme ribbon final wet carpet start worth";
+var mnemonic = "flat scatter fresh hover topic pet stock leaf forward example labor engage";

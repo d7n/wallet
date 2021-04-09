@@ -1,1 +1,1 @@
-var mnemonic = "rule excite kiss bind start pipe scissors beauty panda crystal solid sauce";
+var mnemonic = "sorry smile aim planet awake exclude sad emerge boat injury giggle tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "hood lab burger brother now foot auto wolf trial area help bullet";
+var mnemonic = "concert tackle float impose capital glory vacant east bus emerge canoe quit";

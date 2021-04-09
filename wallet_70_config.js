@@ -1,1 +1,1 @@
-var mnemonic = "vibrant typical wolf bonus spider argue hidden that boy invite angle aspect";
+var mnemonic = "announce dignity special hero protect card letter small fatigue collect coconut tonight";

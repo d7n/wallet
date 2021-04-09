@@ -1,1 +1,1 @@
-var mnemonic = "crisp ridge village display mountain sell dilemma canvas steak range poet say";
+var mnemonic = "fog inner life party smart upper reform riot helmet wet twelve blade";

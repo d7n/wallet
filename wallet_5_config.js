@@ -1,1 +1,1 @@
-var mnemonic = "subway unveil advance lumber genre parrot evil essence escape pig behind include";
+var mnemonic = "audit energy country square soccer party window leaf mango enemy erase video";

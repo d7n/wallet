@@ -1,1 +1,1 @@
-var mnemonic = "ceiling silent cinnamon mention between jeans void ship patient advance sea bounce";
+var mnemonic = "garden tone rely display grain planet empower rely medal general sand name";

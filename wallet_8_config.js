@@ -1,1 +1,1 @@
-var mnemonic = "west hero arm virus pottery alone prosper soft decrease monitor wrestle congress";
+var mnemonic = "pioneer castle convince coast symptom feel paddle film room april inspire wild";

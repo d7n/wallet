@@ -1,1 +1,1 @@
-var mnemonic = "over tilt save load flat photo height express risk anxiety amount fine";
+var mnemonic = "harbor mountain destroy slim physical size problem impact brown patrol biology trust";

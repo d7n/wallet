@@ -1,1 +1,1 @@
-var mnemonic = "bind flock impact wheel plate human document airport vocal tiger main tape";
+var mnemonic = "view skull menu month royal glove fold zone later paddle damage harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "physical tribe skull fly silly erode seminar sister sand gather dry false";
+var mnemonic = "hockey fade talent flock across abuse auto surge true dentist employ price";

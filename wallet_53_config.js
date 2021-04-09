@@ -1,1 +1,1 @@
-var mnemonic = "torch replace nation sustain turn aware yard satisfy bid wedding toast vessel";
+var mnemonic = "myth bamboo harsh nasty sugar island rifle pact twin wonder wealth thumb";

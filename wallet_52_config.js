@@ -1,1 +1,1 @@
-var mnemonic = "lunar street roast cupboard piece invite iron disorder lake neglect breeze tuition";
+var mnemonic = "demise again island pyramid estate salad rack shuffle tag insane explain damp";

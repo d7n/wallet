@@ -1,1 +1,1 @@
-var mnemonic = "debris tool reform ring autumn physical tooth friend era rocket gun nasty";
+var mnemonic = "lyrics worry surface zebra absurd spell wreck hammer resource tip adjust speed";

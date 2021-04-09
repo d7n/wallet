@@ -1,1 +1,1 @@
-var mnemonic = "original farm mosquito rival exhibit noodle joke vast once galaxy version mixed";
+var mnemonic = "vast case birth credit hawk clever spread actress consider matter grocery insane";

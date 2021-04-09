@@ -1,1 +1,1 @@
-var mnemonic = "member remain column access toast gloom trade shadow push gossip often various";
+var mnemonic = "essence forum public despair valid omit oblige purchase include mango fragile spread";

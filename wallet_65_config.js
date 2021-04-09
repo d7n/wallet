@@ -1,1 +1,1 @@
-var mnemonic = "gather wrong donor tissue country rail move milk shadow wish shaft park";
+var mnemonic = "depend attend valid guess crane idea horse state auction twin tag punch";

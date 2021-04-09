@@ -1,1 +1,1 @@
-var mnemonic = "saddle approve onion off horror drum paddle learn hazard often almost kid";
+var mnemonic = "history village weekend absent uncover tag faint hunt cattle defy sentence peanut";

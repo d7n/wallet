@@ -1,1 +1,1 @@
-var mnemonic = "shine enforce radio crystal alcohol mix cup divert document reveal wink slogan";
+var mnemonic = "fade awful brick runway motor code brush pistol domain session glass fiscal";

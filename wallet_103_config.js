@@ -1,1 +1,1 @@
-var mnemonic = "ensure dad carbon double make feed save envelope near head hello salt";
+var mnemonic = "key hard glove negative cement answer atom pipe need rose marriage excuse";

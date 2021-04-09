@@ -1,1 +1,1 @@
-var mnemonic = "scatter gossip change prize huge enrich describe asset have enroll ring hero";
+var mnemonic = "say cliff moment camera base vote poet heart spice valve next crane";

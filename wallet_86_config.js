@@ -1,1 +1,1 @@
-var mnemonic = "spot cook only melt liberty mystery wonder idea ethics neutral inherit satisfy";
+var mnemonic = "walnut debris satoshi supreme exit expose sunset depth test describe leisure way";

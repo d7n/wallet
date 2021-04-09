@@ -1,1 +1,1 @@
-var mnemonic = "art critic wrap weekend exile attack door delay illegal lion move arch";
+var mnemonic = "genre zoo smooth wheat salon air link burst unfair common typical arrest";

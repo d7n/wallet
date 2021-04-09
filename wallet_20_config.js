@@ -1,1 +1,1 @@
-var mnemonic = "bid bracket impulse deposit strong fun october gun six wealth limb dismiss";
+var mnemonic = "weapon uncover toilet flip twenty category guitar coffee magnet razor struggle assault";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange entry please rescue final field rhythm segment throw midnight unfair mass";
+var mnemonic = "broccoli thought easily profit knock dial recipe mad error surge bundle omit";

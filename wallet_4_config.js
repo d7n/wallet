@@ -1,1 +1,1 @@
-var mnemonic = "divert used thing kid expose use cactus oyster blanket insect bitter forest";
+var mnemonic = "monkey title organ curtain spice spare abstract tide vintage orphan physical tissue";

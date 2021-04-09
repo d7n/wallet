@@ -1,1 +1,1 @@
-var mnemonic = "mirror evoke setup situate shadow turkey beyond scare forest tape goose hat";
+var mnemonic = "brother judge shallow cancel ball tiny board behave volume salon universe addict";

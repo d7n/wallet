@@ -1,1 +1,1 @@
-var mnemonic = "flower absurd elegant series fancy merge innocent what monitor cloth recall column";
+var mnemonic = "mule cluster april eight staff room rhythm law dumb clay empty recipe";

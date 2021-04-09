@@ -1,1 +1,1 @@
-var mnemonic = "lift mixture rapid lyrics ask brisk hamster fever negative spot absent army";
+var mnemonic = "client inspire visual left supreme combine day corn rude index mosquito wear";

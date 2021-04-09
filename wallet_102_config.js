@@ -1,1 +1,1 @@
-var mnemonic = "mind include human harsh mobile habit teach awesome clock abstract pelican tired";
+var mnemonic = "beauty wrestle deer clown cricket famous random video royal river ketchup carpet";

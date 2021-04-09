@@ -1,1 +1,1 @@
-var mnemonic = "man acid exist prepare caught strong mercy inflict orient panther sad nice";
+var mnemonic = "art pony over oxygen process apart reveal code blame comfort act owner";

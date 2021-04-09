@@ -1,1 +1,1 @@
-var mnemonic = "bulb this marble police cloth border merge save obey fold siren payment";
+var mnemonic = "toward hotel physical flame fortune strategy good monster dismiss earth announce north";

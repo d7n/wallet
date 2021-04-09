@@ -1,1 +1,1 @@
-var mnemonic = "barrel uniform prize inform busy rigid arrive pledge board kangaroo damp upset";
+var mnemonic = "use option shuffle piano salad tackle benefit luxury office expire enlist country";

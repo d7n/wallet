@@ -1,1 +1,1 @@
-var mnemonic = "custom arrange enable fetch material shrimp unlock clutch coffee silver nominee december";
+var mnemonic = "engine token oyster pipe dog traffic crisp order climb try series route";

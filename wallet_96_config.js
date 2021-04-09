@@ -1,1 +1,1 @@
-var mnemonic = "inflict cup tomato amazing never increase ladder century razor dirt urge fog";
+var mnemonic = "fatigue wasp resource sunny bitter search easily canyon response wise tenant end";

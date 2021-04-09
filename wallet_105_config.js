@@ -1,1 +1,1 @@
-var mnemonic = "stairs glass easy reopen credit salad dish lava rebel globe shaft stomach";
+var mnemonic = "twist surprise elephant cherry medal prefer fruit citizen cube punch clay wrist";

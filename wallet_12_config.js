@@ -1,1 +1,1 @@
-var mnemonic = "load kingdom drift vessel future nasty much cake peace habit chronic certain";
+var mnemonic = "worry snake raise keep lounge second lamp attack spell bunker farm alien";

@@ -1,1 +1,1 @@
-var mnemonic = "brown goose result soft pink regret dial absurd ketchup trip fox judge";
+var mnemonic = "swing response present eye siren siren either middle salad crawl topple jealous";

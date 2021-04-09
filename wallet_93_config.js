@@ -1,1 +1,1 @@
-var mnemonic = "around east tortoise conduct scout alpha parrot occur bacon consider tonight route";
+var mnemonic = "idle property minimum shrug album unit affair glide size mouse curtain rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke half slab laptop rather wave next utility potato anchor morning dust";
+var mnemonic = "announce again logic render screen zebra alert crater october govern topic spray";

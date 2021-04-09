@@ -1,1 +1,1 @@
-var mnemonic = "broom museum west effort slide pottery moment street scale congress happy pupil";
+var mnemonic = "occur zebra river deal erode kingdom cigar blanket safe divert junk doll";

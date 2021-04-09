@@ -1,1 +1,1 @@
-var mnemonic = "soup rude scare assume lobster table spoil pretty virtual display behind dry";
+var mnemonic = "normal exclude clever outer describe eyebrow piano true portion snow crush juice";

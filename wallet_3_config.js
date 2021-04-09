@@ -1,1 +1,1 @@
-var mnemonic = "tent order ethics deny poem border report rain alley total proof image";
+var mnemonic = "side pluck column nuclear gap equal rule unfold pony velvet arctic infant";

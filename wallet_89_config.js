@@ -1,1 +1,1 @@
-var mnemonic = "vendor dune capital unveil voyage medal couch push novel twin only home";
+var mnemonic = "shop hurry ice fold dose rail economy wear change rebuild panic impose";

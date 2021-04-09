@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo ordinary apple cancel fiber grunt snake manage obvious trash deny canyon";
+var mnemonic = "cargo sign shove property theme liar have lucky skull sausage ice cheese";

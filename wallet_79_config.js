@@ -1,1 +1,1 @@
-var mnemonic = "busy eight increase atom warm affair immense squirrel close spend express legal";
+var mnemonic = "silly rail frozen close little buddy avoid concert cross outside symptom make";

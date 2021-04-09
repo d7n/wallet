@@ -1,1 +1,1 @@
-var mnemonic = "panther comfort shrug trial pumpkin party trust fashion finger matter yard clip";
+var mnemonic = "session toddler victory blanket amateur wrist balcony seek clever column pulp divert";

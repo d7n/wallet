@@ -1,1 +1,1 @@
-var mnemonic = "zone solid insect across detail copper mass hockey record noodle shove pigeon";
+var mnemonic = "receive expire start knife tissue smoke april remain entry tag panic quick";

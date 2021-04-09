@@ -1,1 +1,1 @@
-var mnemonic = "rose client mind cancel chaos female track amazing animal orange donkey rookie";
+var mnemonic = "visit solid possible burst fragile forward forget common arena electric tourist trend";

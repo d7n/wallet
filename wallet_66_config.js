@@ -1,1 +1,1 @@
-var mnemonic = "rough penalty margin rich couch embark poverty damp craft wild drink piano";
+var mnemonic = "east lecture doctor amused define abandon thank online help lunch atom virus";

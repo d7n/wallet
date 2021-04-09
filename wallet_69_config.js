@@ -1,1 +1,1 @@
-var mnemonic = "notable fantasy element situate museum motion ceiling nuclear veteran honey devote entry";
+var mnemonic = "canyon slide basic science surround festival hazard figure slow globe school shrimp";

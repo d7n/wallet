@@ -1,1 +1,1 @@
-var mnemonic = "upgrade attitude toy disease away diesel void effort feed boring quarter sleep";
+var mnemonic = "maximum monitor other sorry hurry deny credit brass regret doll lazy lizard";

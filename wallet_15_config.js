@@ -1,1 +1,1 @@
-var mnemonic = "nurse return shallow error clip mandate skin swap fuel cabin cat raise";
+var mnemonic = "hint below truly hill elephant maximum mule suffer say enact receive grab";

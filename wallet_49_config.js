@@ -1,1 +1,1 @@
-var mnemonic = "unique matrix trial knock response toss asset seven jacket leopard style unfold";
+var mnemonic = "ribbon engage tortoise celery keen cage sick arm exotic trial denial dragon";

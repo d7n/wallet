@@ -1,1 +1,1 @@
-var mnemonic = "mean web gentle fade page lunar bounce truly usual roof festival muffin";
+var mnemonic = "tongue aunt quit document divert step script battle grief describe human stuff";

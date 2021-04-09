@@ -1,1 +1,1 @@
-var mnemonic = "walnut broken slow vicious venture suspect butter lunar lawsuit company stadium shrimp";
+var mnemonic = "under setup glue cluster girl slot alone summer parent okay pumpkin blood";

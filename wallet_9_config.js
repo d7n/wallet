@@ -1,1 +1,1 @@
-var mnemonic = "mosquito survey student aisle call allow pipe they betray sock match lucky";
+var mnemonic = "danger throw wool corn nurse leisure sand machine tape finger weekend happy";

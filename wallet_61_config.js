@@ -1,1 +1,1 @@
-var mnemonic = "cry mansion teach survey armor basket chase genius problem team scrub wheel";
+var mnemonic = "rebuild jacket nose ten lobster tomato feed awake various foam female enroll";

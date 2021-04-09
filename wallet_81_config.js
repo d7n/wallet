@@ -1,1 +1,1 @@
-var mnemonic = "mandate stable trophy inherit wish excuse liar major answer glance coyote manage";
+var mnemonic = "share joke fantasy approve town wait glory gadget corn circle steak explain";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing gas barely dash truly pink derive private surround sell toe true";
+var mnemonic = "orient horse media exile trade lift destroy kite shy correct glance crawl";

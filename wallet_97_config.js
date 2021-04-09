@@ -1,1 +1,1 @@
-var mnemonic = "elevator pen rule shrimp drum wood fresh manual excuse doll razor license";
+var mnemonic = "license bamboo peasant myself input country frown face leopard clean hover butter";

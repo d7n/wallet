@@ -1,1 +1,1 @@
-var mnemonic = "biology buzz combine agree alarm velvet popular chunk ordinary scare rely welcome";
+var mnemonic = "cricket visit umbrella tattoo monitor area second remove disease solar whale shed";

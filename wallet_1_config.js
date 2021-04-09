@@ -1,1 +1,1 @@
-var mnemonic = "display evil one solar three oblige mixed receive mean expect tribe exist";
+var mnemonic = "crater phone carpet humor hover upset route gather rapid planet feed host";

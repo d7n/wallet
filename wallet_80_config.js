@@ -1,1 +1,1 @@
-var mnemonic = "place detail brush hard asthma confirm again trigger summer prefer brisk awake";
+var mnemonic = "chase fresh found plastic noodle album language auction produce supply owner choose";

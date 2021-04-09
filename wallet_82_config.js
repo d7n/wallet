@@ -1,1 +1,1 @@
-var mnemonic = "snake own exercise current unlock cover spring aware chapter left menu general";
+var mnemonic = "arrange random arena latin crop make sing screen output crash pelican soul";

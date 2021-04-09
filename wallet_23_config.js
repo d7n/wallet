@@ -1,1 +1,1 @@
-var mnemonic = "toilet advance super butter fix mad defy tattoo plug great oblige giraffe";
+var mnemonic = "exchange able aerobic stay deposit uncle cave hood they sunset grant ensure";

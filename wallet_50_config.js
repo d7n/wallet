@@ -1,1 +1,1 @@
-var mnemonic = "game gun forum entry female core foil cushion deliver cycle outdoor tongue";
+var mnemonic = "cube ignore profit ranch carry input kidney first gauge zero unknown balance";

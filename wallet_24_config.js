@@ -1,1 +1,1 @@
-var mnemonic = "fossil envelope little sorry produce light harbor during exhaust battle achieve kitchen";
+var mnemonic = "huge observe salute inner lonely weasel ritual reflect above source badge trumpet";

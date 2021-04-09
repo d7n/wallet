@@ -1,1 +1,1 @@
-var mnemonic = "confirm maple rally barely mask odor ketchup month eyebrow kiss people either";
+var mnemonic = "meat zebra right light wire journey cousin more island inch together hammer";
