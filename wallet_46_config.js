@@ -1,1 +1,1 @@
-var mnemonic = "cage practice test insect token salute album notable soccer rapid excess explain";
+var mnemonic = "oyster misery illness asset moment file obscure silent symbol pill squeeze cotton";

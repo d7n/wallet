@@ -1,1 +1,1 @@
-var mnemonic = "fatigue wasp resource sunny bitter search easily canyon response wise tenant end";
+var mnemonic = "barrel team crime estate arrive cushion term fish boring increase during umbrella";

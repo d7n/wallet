@@ -1,1 +1,1 @@
-var mnemonic = "fade awful brick runway motor code brush pistol domain session glass fiscal";
+var mnemonic = "enforce host run hub street slender alcohol apple melt trial flag matrix";

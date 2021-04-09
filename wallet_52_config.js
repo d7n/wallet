@@ -1,1 +1,1 @@
-var mnemonic = "demise again island pyramid estate salad rack shuffle tag insane explain damp";
+var mnemonic = "giant stem tiger say key grocery disorder smile quiz distance tourist heart";

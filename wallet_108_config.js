@@ -1,1 +1,1 @@
-var mnemonic = "slow problem motor reopen expect tortoise vehicle monster pelican salmon victory glare";
+var mnemonic = "inquiry snack penalty almost champion fee merit visa wrestle accident arrive enrich";

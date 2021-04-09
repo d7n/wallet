@@ -1,1 +1,1 @@
-var mnemonic = "farm sure trade speed obvious bench pig limb deposit inherit stem either";
+var mnemonic = "elegant runway bird festival logic injury ugly glow false local animal cancel";

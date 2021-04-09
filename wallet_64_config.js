@@ -1,1 +1,1 @@
-var mnemonic = "because grain what potato plastic bullet sun best genius welcome swamp diamond";
+var mnemonic = "unique emerge typical choice ranch sphere walk idle upon mansion neck meat";

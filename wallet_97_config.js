@@ -1,1 +1,1 @@
-var mnemonic = "license bamboo peasant myself input country frown face leopard clean hover butter";
+var mnemonic = "siren room boil width arena galaxy hope steel glimpse section spray length";

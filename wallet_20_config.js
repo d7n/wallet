@@ -1,1 +1,1 @@
-var mnemonic = "weapon uncover toilet flip twenty category guitar coffee magnet razor struggle assault";
+var mnemonic = "tide over milk echo trigger lottery delay brick latin poet weasel join";

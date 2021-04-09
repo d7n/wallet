@@ -1,1 +1,1 @@
-var mnemonic = "honey dose worth found unveil festival renew discover armed ramp tail inmate";
+var mnemonic = "coffee act aunt adult shiver empower auction wonder main off artist improve";

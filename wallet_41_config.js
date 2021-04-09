@@ -1,1 +1,1 @@
-var mnemonic = "orient horse media exile trade lift destroy kite shy correct glance crawl";
+var mnemonic = "either blossom honey enforce gas merit list figure trend debris problem zero";

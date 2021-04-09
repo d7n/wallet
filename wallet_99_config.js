@@ -1,1 +1,1 @@
-var mnemonic = "toddler oil cover edit impose resist response foster float usage shadow swim";
+var mnemonic = "cancel old lake warm card clerk public fossil jungle walk resist there";

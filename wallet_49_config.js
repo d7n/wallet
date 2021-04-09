@@ -1,1 +1,1 @@
-var mnemonic = "ribbon engage tortoise celery keen cage sick arm exotic trial denial dragon";
+var mnemonic = "cricket tragic display debate portion gorilla sniff stand pet entire material idle";

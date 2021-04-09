@@ -1,1 +1,1 @@
-var mnemonic = "harbor mountain destroy slim physical size problem impact brown patrol biology trust";
+var mnemonic = "prepare point bubble blame furnace frozen list powder rocket banana expand dress";

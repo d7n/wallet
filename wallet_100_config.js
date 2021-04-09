@@ -1,1 +1,1 @@
-var mnemonic = "canyon festival invest surround goat tiny pink nominee visit ignore royal describe";
+var mnemonic = "flash net brother innocent stand quiz explain force soccer hollow utility virus";

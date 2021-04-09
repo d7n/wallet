@@ -1,1 +1,1 @@
-var mnemonic = "shell jeans acoustic urban float segment injury coil canal wreck hamster drop";
+var mnemonic = "valid anxiety sick hedgehog circle grunt sun magic dash permit two young";

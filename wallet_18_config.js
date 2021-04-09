@@ -1,1 +1,1 @@
-var mnemonic = "session toddler victory blanket amateur wrist balcony seek clever column pulp divert";
+var mnemonic = "novel grow problem afraid ozone slab donor wife actress leaf basket ball";

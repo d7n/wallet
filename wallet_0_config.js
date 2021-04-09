@@ -1,1 +1,1 @@
-var mnemonic = "lyrics worry surface zebra absurd spell wreck hammer resource tip adjust speed";
+var mnemonic = "large regular picture coin dog voice celery situate volcano catalog sting page";

@@ -1,1 +1,1 @@
-var mnemonic = "garden tone rely display grain planet empower rely medal general sand name";
+var mnemonic = "amazing ice adapt sword icon moment forget paddle material bean sunset same";

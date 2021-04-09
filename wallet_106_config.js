@@ -1,1 +1,1 @@
-var mnemonic = "camera trim promote special news license pull twenty lecture keen deny path";
+var mnemonic = "traffic anchor rain sun dance laundry uniform clean employ zone slim bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey title organ curtain spice spare abstract tide vintage orphan physical tissue";
+var mnemonic = "wheel light enable fury stem more sniff plastic actual argue letter seminar";

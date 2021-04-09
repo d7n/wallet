@@ -1,1 +1,1 @@
-var mnemonic = "example buffalo beyond gather mutual ocean flight ritual mail say salt old";
+var mnemonic = "wire punch open series bless already garbage license misery figure whisper runway";

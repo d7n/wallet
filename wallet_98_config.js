@@ -1,1 +1,1 @@
-var mnemonic = "poet bread weekend cup evolve ocean unaware chest exotic dry gown caught";
+var mnemonic = "kit bargain office fix maze impact reflect antenna hope hunt chef tumble";

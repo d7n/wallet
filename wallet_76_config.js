@@ -1,1 +1,1 @@
-var mnemonic = "unfold include bulb ship spell middle snap various violin exercise carbon outer";
+var mnemonic = "soon smile train patient pattern mistake thought wear oxygen torch gesture host";

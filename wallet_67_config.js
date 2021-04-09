@@ -1,1 +1,1 @@
-var mnemonic = "engine token oyster pipe dog traffic crisp order climb try series route";
+var mnemonic = "kitchen chase sentence rail empower ribbon mercy parrot unknown chase silly diesel";

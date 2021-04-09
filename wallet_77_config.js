@@ -1,1 +1,1 @@
-var mnemonic = "use option shuffle piano salad tackle benefit luxury office expire enlist country";
+var mnemonic = "ready rescue sense ladder next decide lottery confirm tragic hobby pigeon spirit";

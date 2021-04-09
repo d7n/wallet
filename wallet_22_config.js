@@ -1,1 +1,1 @@
-var mnemonic = "pond caught resemble pigeon program master symptom drip ignore park notable crowd";
+var mnemonic = "inspire sting this raven alarm make afraid cloud tool stool height bubble";

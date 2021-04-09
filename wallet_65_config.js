@@ -1,1 +1,1 @@
-var mnemonic = "depend attend valid guess crane idea horse state auction twin tag punch";
+var mnemonic = "among whale ancient industry eight radio kid document soap oblige tribe carry";

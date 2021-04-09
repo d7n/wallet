@@ -1,1 +1,1 @@
-var mnemonic = "ski foam exist connect panic stereo snake need leader repeat weasel gap";
+var mnemonic = "wool correct keen vicious display love direct liar only gorilla giggle topic";

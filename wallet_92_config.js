@@ -1,1 +1,1 @@
-var mnemonic = "escape tired put rather desert believe add grid leader runway music black";
+var mnemonic = "ritual system charge able green trust fatigue people album ivory visa another";

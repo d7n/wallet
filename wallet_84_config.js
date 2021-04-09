@@ -1,1 +1,1 @@
-var mnemonic = "need upper pool panda worry august elegant frequent shine fat trouble excuse";
+var mnemonic = "air shock motion pioneer social sibling never train erase wrap drama stem";

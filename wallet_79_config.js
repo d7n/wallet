@@ -1,1 +1,1 @@
-var mnemonic = "silly rail frozen close little buddy avoid concert cross outside symptom make";
+var mnemonic = "broccoli hidden afford buffalo can engine great wish age benefit divert memory";

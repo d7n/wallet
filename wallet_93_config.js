@@ -1,1 +1,1 @@
-var mnemonic = "idle property minimum shrug album unit affair glide size mouse curtain rotate";
+var mnemonic = "veteran rifle vibrant boy gospel author quick appear express forward order cheap";

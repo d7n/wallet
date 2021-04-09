@@ -1,1 +1,1 @@
-var mnemonic = "cargo sign shove property theme liar have lucky skull sausage ice cheese";
+var mnemonic = "siege web wink desk foster identify nose fossil swim predict sport skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "toward hotel physical flame fortune strategy good monster dismiss earth announce north";
+var mnemonic = "sugar still deer sound sea grunt cute one party develop cloth visit";

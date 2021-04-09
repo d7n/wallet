@@ -1,1 +1,1 @@
-var mnemonic = "brother judge shallow cancel ball tiny board behave volume salon universe addict";
+var mnemonic = "cheese barrel walk knee bench virus pause say now trash jar duck";

@@ -1,1 +1,1 @@
-var mnemonic = "panther void vapor industry ecology space core type fiber hurry fancy hungry";
+var mnemonic = "switch enforce naive trophy run clap scare aware gym tuna drill dream";

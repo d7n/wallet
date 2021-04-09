@@ -1,1 +1,1 @@
-var mnemonic = "educate tower tide twin brisk north series gossip impulse harvest seat chicken";
+var mnemonic = "vibrant symbol aunt crack few drum stem private apart smooth bitter right";

@@ -1,1 +1,1 @@
-var mnemonic = "agree large garage gown abandon alert rely carbon void borrow kiwi duty";
+var mnemonic = "kangaroo roast purse seminar hollow unhappy damage grass punch arrest unaware cup";

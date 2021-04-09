@@ -1,1 +1,1 @@
-var mnemonic = "normal exclude clever outer describe eyebrow piano true portion snow crush juice";
+var mnemonic = "exist gap spread pudding embrace limit evidence blind infant actress salmon toss";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum monitor other sorry hurry deny credit brass regret doll lazy lizard";
+var mnemonic = "choice chalk satoshi addict south mention eye human dance measure woman rabbit";

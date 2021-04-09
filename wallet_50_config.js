@@ -1,1 +1,1 @@
-var mnemonic = "cube ignore profit ranch carry input kidney first gauge zero unknown balance";
+var mnemonic = "clever morning aerobic road step frog fiber fashion tongue demand extend cable";

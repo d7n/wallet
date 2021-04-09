@@ -1,1 +1,1 @@
-var mnemonic = "under setup glue cluster girl slot alone summer parent okay pumpkin blood";
+var mnemonic = "sense flat erosion track security under cable tumble ostrich tray enhance argue";

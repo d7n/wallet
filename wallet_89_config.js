@@ -1,1 +1,1 @@
-var mnemonic = "shop hurry ice fold dose rail economy wear change rebuild panic impose";
+var mnemonic = "because scheme asset upset category crawl foster odor scheme ahead guilt rebel";

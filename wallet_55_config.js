@@ -1,1 +1,1 @@
-var mnemonic = "concert tackle float impose capital glory vacant east bus emerge canoe quit";
+var mnemonic = "lounge bubble shuffle divorce hotel cake viable world income almost erupt assault";

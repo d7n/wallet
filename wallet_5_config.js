@@ -1,1 +1,1 @@
-var mnemonic = "audit energy country square soccer party window leaf mango enemy erase video";
+var mnemonic = "sphere fish table mom text curve balance afraid winter siren country slice";

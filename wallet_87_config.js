@@ -1,1 +1,1 @@
-var mnemonic = "genre zoo smooth wheat salon air link burst unfair common typical arrest";
+var mnemonic = "ketchup home dawn credit defense verify crater tip sort dizzy cliff genuine";

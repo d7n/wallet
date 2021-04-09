@@ -1,1 +1,1 @@
-var mnemonic = "flat scatter fresh hover topic pet stock leaf forward example labor engage";
+var mnemonic = "skin always palace shift answer still cycle employ pattern expose ordinary rude";

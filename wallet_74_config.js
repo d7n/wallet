@@ -1,1 +1,1 @@
-var mnemonic = "run exhaust there erode sound daring path glare faint adapt secret tennis";
+var mnemonic = "labor service pet grief dragon mother device history nephew coin liquid dynamic";

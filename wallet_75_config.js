@@ -1,1 +1,1 @@
-var mnemonic = "icon inmate finger parade wash dress tilt impose answer demand crumble rapid";
+var mnemonic = "swarm acquire magic large tissue typical submit build twenty adult nest zoo";

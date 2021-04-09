@@ -1,1 +1,1 @@
-var mnemonic = "say cliff moment camera base vote poet heart spice valve next crane";
+var mnemonic = "matrix next solve invite subject hedgehog pink exchange program robust penalty spatial";

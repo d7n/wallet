@@ -1,1 +1,1 @@
-var mnemonic = "remember teach forget list spin post mimic various proud regret trumpet slight";
+var mnemonic = "chicken critic enroll assault later pig seek pepper weapon illegal hungry invest";

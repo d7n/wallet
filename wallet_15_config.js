@@ -1,1 +1,1 @@
-var mnemonic = "hint below truly hill elephant maximum mule suffer say enact receive grab";
+var mnemonic = "hill inmate hundred powder sing awesome extend cruel seed omit canoe ginger";

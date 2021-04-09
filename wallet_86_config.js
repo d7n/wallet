@@ -1,1 +1,1 @@
-var mnemonic = "walnut debris satoshi supreme exit expose sunset depth test describe leisure way";
+var mnemonic = "lava wood pool lonely forest cotton pelican resemble light secret slight armor";

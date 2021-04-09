@@ -1,1 +1,1 @@
-var mnemonic = "canyon slide basic science surround festival hazard figure slow globe school shrimp";
+var mnemonic = "source frame news practice solve super slush maze clip medal fan junk";

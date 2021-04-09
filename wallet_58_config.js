@@ -1,1 +1,1 @@
-var mnemonic = "meat zebra right light wire journey cousin more island inch together hammer";
+var mnemonic = "unfold gun cost little flavor hope disorder foam ill try keen moral";

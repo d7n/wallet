@@ -1,1 +1,1 @@
-var mnemonic = "exchange able aerobic stay deposit uncle cave hood they sunset grant ensure";
+var mnemonic = "crime junior disagree thing expect forum student square cargo light invest border";

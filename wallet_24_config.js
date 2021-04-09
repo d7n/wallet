@@ -1,1 +1,1 @@
-var mnemonic = "huge observe salute inner lonely weasel ritual reflect above source badge trumpet";
+var mnemonic = "stereo window large actress neck achieve vendor roof garbage dismiss fetch image";

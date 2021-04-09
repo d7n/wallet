@@ -1,1 +1,1 @@
-var mnemonic = "history village weekend absent uncover tag faint hunt cattle defy sentence peanut";
+var mnemonic = "nest sentence language amused immune rent side hill also accuse prepare globe";

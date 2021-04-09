@@ -1,1 +1,1 @@
-var mnemonic = "chase fresh found plastic noodle album language auction produce supply owner choose";
+var mnemonic = "scorpion keen swamp winter pitch absurd upgrade ugly plunge pill pave stove";

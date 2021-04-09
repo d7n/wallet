@@ -1,1 +1,1 @@
-var mnemonic = "lend marine join become position kind mention gossip frog culture repair boy";
+var mnemonic = "play analyst cabin coral fashion change motor general kite lock apology impulse";

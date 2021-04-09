@@ -1,1 +1,1 @@
-var mnemonic = "possible prison position friend episode loyal drink eagle venue argue brick connect";
+var mnemonic = "coach ocean mother stairs false guard invite knock orient pyramid impose smooth";

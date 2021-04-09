@@ -1,1 +1,1 @@
-var mnemonic = "side pluck column nuclear gap equal rule unfold pony velvet arctic infant";
+var mnemonic = "reunion law claw october frozen pact shop unusual ceiling please stairs credit";

@@ -1,1 +1,1 @@
-var mnemonic = "fog inner life party smart upper reform riot helmet wet twelve blade";
+var mnemonic = "interest drama next script day tag tourist autumn feel fragile pig laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "box cactus keep pig fold basket scrub giraffe rescue degree gown order";
+var mnemonic = "message parade exile amount chair basic mango prize pigeon bullet wrist another";

@@ -1,1 +1,1 @@
-var mnemonic = "firm approve wreck zoo dress mom clean unusual galaxy idea basket define";
+var mnemonic = "motor cigar stumble label oblige bubble play exotic rifle diesel cruise balance";

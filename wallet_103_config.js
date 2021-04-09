@@ -1,1 +1,1 @@
-var mnemonic = "key hard glove negative cement answer atom pipe need rose marriage excuse";
+var mnemonic = "warfare render reject stay friend crowd civil school weird tortoise cat video";

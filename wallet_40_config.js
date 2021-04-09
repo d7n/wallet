@@ -1,1 +1,1 @@
-var mnemonic = "diamond ribbon cloth neglect merry mother skill twist patch sing tongue waste";
+var mnemonic = "have vendor banner sponsor bacon glory raccoon end seek absorb can modify";

@@ -1,1 +1,1 @@
-var mnemonic = "view skull menu month royal glove fold zone later paddle damage harsh";
+var mnemonic = "accident unlock matter crack bright inmate vessel today meat conduct unfold material";

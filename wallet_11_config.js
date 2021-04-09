@@ -1,1 +1,1 @@
-var mnemonic = "pride bless empty vendor bag wire between oyster truck story round devote";
+var mnemonic = "bread omit decade stool inside concert tragic group sword worry prosper thought";

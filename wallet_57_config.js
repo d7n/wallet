@@ -1,1 +1,1 @@
-var mnemonic = "cruel collect differ enlist number ivory excuse ahead impact misery lock obvious";
+var mnemonic = "vote direct exile critic page near gadget spoon large secret escape witness";

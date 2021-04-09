@@ -1,1 +1,1 @@
-var mnemonic = "tongue aunt quit document divert step script battle grief describe human stuff";
+var mnemonic = "mention hello north index slogan chuckle erosion grab word season local ethics";

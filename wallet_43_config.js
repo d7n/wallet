@@ -1,1 +1,1 @@
-var mnemonic = "announce again logic render screen zebra alert crater october govern topic spray";
+var mnemonic = "false wild lunar enact appear rally resist cabbage curious couple grant estate";

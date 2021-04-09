@@ -1,1 +1,1 @@
-var mnemonic = "moon image glad job version foster ball film city tiger frog render";
+var mnemonic = "swim license engage torch absorb erupt shaft cigar violin used lens turn";

@@ -1,1 +1,1 @@
-var mnemonic = "ship bright require caution river tattoo nature funny hundred erase frozen erupt";
+var mnemonic = "material client disagree slogan rapid friend actress first crazy figure swim urge";

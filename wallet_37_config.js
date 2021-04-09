@@ -1,1 +1,1 @@
-var mnemonic = "broccoli thought easily profit knock dial recipe mad error surge bundle omit";
+var mnemonic = "odor whisper entire ritual dog define firm depart crater citizen stamp grass";

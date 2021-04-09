@@ -1,1 +1,1 @@
-var mnemonic = "client inspire visual left supreme combine day corn rude index mosquito wear";
+var mnemonic = "weather album regular lesson wall answer reason second enhance muffin awful nephew";

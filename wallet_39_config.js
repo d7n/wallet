@@ -1,1 +1,1 @@
-var mnemonic = "sorry smile aim planet awake exclude sad emerge boat injury giggle tissue";
+var mnemonic = "power design spawn hair oblige brother syrup prize turtle churn arena first";

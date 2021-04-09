@@ -1,1 +1,1 @@
-var mnemonic = "twist surprise elephant cherry medal prefer fruit citizen cube punch clay wrist";
+var mnemonic = "hurry ethics easily athlete visa reject love only net tackle torch fee";

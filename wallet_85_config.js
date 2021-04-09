@@ -1,1 +1,1 @@
-var mnemonic = "swing response present eye siren siren either middle salad crawl topple jealous";
+var mnemonic = "arctic fish loyal scale jealous kit spray calm hole unfold merit half";

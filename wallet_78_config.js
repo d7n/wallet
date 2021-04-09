@@ -1,1 +1,1 @@
-var mnemonic = "mule cluster april eight staff room rhythm law dumb clay empty recipe";
+var mnemonic = "sausage attend ship depth couch afford sunset caution girl abuse upon raccoon";

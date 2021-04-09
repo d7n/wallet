@@ -1,1 +1,1 @@
-var mnemonic = "share joke fantasy approve town wait glory gadget corn circle steak explain";
+var mnemonic = "embody deny code antenna stone arch slogan carry limb airport bring pledge";
