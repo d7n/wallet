@@ -1,1 +1,1 @@
-var mnemonic = "skate lake zebra remove mirror only shrimp exclude faculty field also gallery";
+var mnemonic = "math slice pattern galaxy canal essence turtle visit orchard rather shrimp upon";

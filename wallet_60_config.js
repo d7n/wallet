@@ -1,1 +1,1 @@
-var mnemonic = "erosion chaos goddess phone champion firm betray voice meat destroy disagree include";
+var mnemonic = "tray else raw please future casino train teach armor rubber century eternal";

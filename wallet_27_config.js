@@ -1,1 +1,1 @@
-var mnemonic = "rule avoid smooth slight tuna rain kite smooth false kangaroo seek lab";
+var mnemonic = "peace scheme shadow cargo health era media pioneer exit curtain rabbit exercise";

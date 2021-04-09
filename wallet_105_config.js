@@ -1,1 +1,1 @@
-var mnemonic = "leave immune enhance lab oxygen video give age clog horse pen loop";
+var mnemonic = "sign deal close market farm dove globe nurse toward boil solve jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "trade unable elbow brass friend transfer salute arrow sport flat breeze collect";
+var mnemonic = "claim dynamic punch crumble bachelor census uniform enable extra glare pink maximum";

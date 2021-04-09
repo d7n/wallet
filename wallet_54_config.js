@@ -1,1 +1,1 @@
-var mnemonic = "decade holiday north shock slice coach fiction chronic cereal world crunch chuckle";
+var mnemonic = "pencil wrong together olive either smile maze demise try dizzy mask breeze";

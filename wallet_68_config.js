@@ -1,1 +1,1 @@
-var mnemonic = "castle belt unique omit unit crunch lecture bulk ignore employ already humor";
+var mnemonic = "hotel purchase armed pulp mom suit verify ketchup push boy humor lawsuit";

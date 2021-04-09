@@ -1,1 +1,1 @@
-var mnemonic = "whale since mind family damp shine have still carry joke fork marine";
+var mnemonic = "earth organ mandate embark this gorilla silent clay mass govern will cup";

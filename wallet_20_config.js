@@ -1,1 +1,1 @@
-var mnemonic = "catch hub alcohol source boat push pen siren rotate improve opera horn";
+var mnemonic = "payment orbit bid into problem miracle fetch remain rude sweet crush inform";

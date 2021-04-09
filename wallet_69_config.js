@@ -1,1 +1,1 @@
-var mnemonic = "boost ghost enforce surround crash balcony biology soft cigar page gospel jazz";
+var mnemonic = "warm bomb bunker rate equip cloud frequent mask album brown episode portion";

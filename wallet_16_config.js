@@ -1,1 +1,1 @@
-var mnemonic = "stay portion wagon exclude possible scheme wrestle arrest become assault lady relax";
+var mnemonic = "holiday across below hurry obvious below scene skirt bicycle boat else glare";

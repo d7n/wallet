@@ -1,1 +1,1 @@
-var mnemonic = "kite hint husband rather thumb congress health solve vocal route seminar wrong";
+var mnemonic = "casual buddy lamp icon atom fog attack setup roast sweet order sense";

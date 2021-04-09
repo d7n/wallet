@@ -1,1 +1,1 @@
-var mnemonic = "install someone index nest deer pepper dry fun cinnamon buffalo athlete school";
+var mnemonic = "unfold talent opinion cash borrow what ramp critic cattle pattern main young";

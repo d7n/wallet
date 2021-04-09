@@ -1,1 +1,1 @@
-var mnemonic = "toilet stage identify rapid volume bottom loop dolphin stem trick kite hundred";
+var mnemonic = "screen drastic top trip price half pet gap ice flock sketch run";

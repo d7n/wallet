@@ -1,1 +1,1 @@
-var mnemonic = "rain benefit exile machine orphan pottery powder odor token cigar guitar machine";
+var mnemonic = "animal lift siren session ecology leave horn drill prepare abstract venture else";

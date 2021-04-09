@@ -1,1 +1,1 @@
-var mnemonic = "lonely door write addict welcome myth divide raven salute clock follow broom";
+var mnemonic = "cable deer hint armed dance protect garage fruit retire hobby detail razor";

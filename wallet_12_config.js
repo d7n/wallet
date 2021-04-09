@@ -1,1 +1,1 @@
-var mnemonic = "settle pelican warfare mom notable real away replace consider observe trigger expand";
+var mnemonic = "ghost ice absurd notable now spray city priority car inquiry maze purse";

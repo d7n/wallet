@@ -1,1 +1,1 @@
-var mnemonic = "sibling album voice blanket express kitchen devote embark project sausage name critic";
+var mnemonic = "siren kind receive autumn maze tattoo feel calm bachelor remove faith diamond";

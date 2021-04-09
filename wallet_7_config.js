@@ -1,1 +1,1 @@
-var mnemonic = "labor token virus else goat snake guard sport finger expect silk below";
+var mnemonic = "illness tortoise become history torch aunt faint fruit either person because penalty";

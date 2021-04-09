@@ -1,1 +1,1 @@
-var mnemonic = "bless barrel north brisk egg answer strong fitness betray either mystery glue";
+var mnemonic = "tornado vapor gold become then produce apology usage drift jewel animal ski";

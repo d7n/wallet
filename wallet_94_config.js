@@ -1,1 +1,1 @@
-var mnemonic = "fuel vacuum twenty fiction science voyage stumble unveil inspire bounce vanish stock";
+var mnemonic = "virtual retire casual few fragile hen maximum regular notable kitten gravity reduce";

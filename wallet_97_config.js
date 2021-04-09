@@ -1,1 +1,1 @@
-var mnemonic = "success castle wool mind satisfy retreat tunnel ensure pattern approve circle claim";
+var mnemonic = "odor over patrol size wisdom pizza winter scatter sort random immense slush";

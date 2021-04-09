@@ -1,1 +1,1 @@
-var mnemonic = "melody push lava version tool type garage warfare follow craft skill aerobic";
+var mnemonic = "fitness unique approve item health legal bring peace find anxiety know aerobic";

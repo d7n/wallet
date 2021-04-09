@@ -1,1 +1,1 @@
-var mnemonic = "current squirrel range smooth empty wink fit submit deliver journey profit celery";
+var mnemonic = "misery jewel into immense violin wire cram mango crucial claw sight bless";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil digital donkey begin breeze nation cherry twelve loud follow limit print";
+var mnemonic = "erupt essence throw jeans organ curtain super put never lottery refuse glide";

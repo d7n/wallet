@@ -1,1 +1,1 @@
-var mnemonic = "will crush profit search click pulp organ seminar entry toddler hen similar";
+var mnemonic = "dentist sleep home place horn pond brush twenty upper leg curious hungry";

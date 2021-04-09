@@ -1,1 +1,1 @@
-var mnemonic = "argue food involve still main shield arrest vault conduct super law rely";
+var mnemonic = "vicious leave day feature museum then raccoon olive someone awkward thunder panther";

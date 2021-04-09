@@ -1,1 +1,1 @@
-var mnemonic = "exchange already donate again rhythm season category sick version escape blue section";
+var mnemonic = "outer remind ability wall weekend aunt all cage course garbage donor foil";

@@ -1,1 +1,1 @@
-var mnemonic = "remove dash rice street romance taste side bean donate amused pyramid skate";
+var mnemonic = "hair symptom void become witness satisfy coin invite power month dutch chimney";

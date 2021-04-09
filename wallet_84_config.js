@@ -1,1 +1,1 @@
-var mnemonic = "cupboard code lawsuit bronze magnet mechanic will ostrich rough similar age practice";
+var mnemonic = "salt subject gift survey slogan black moment trim grow stool drama quiz";

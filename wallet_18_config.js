@@ -1,1 +1,1 @@
-var mnemonic = "filter suffer dune rain reopen dish flush cradle grief afraid tragic enough";
+var mnemonic = "shy ginger liar dignity scan field useful mix flash drift sniff inmate";

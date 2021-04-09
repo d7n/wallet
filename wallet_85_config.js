@@ -1,1 +1,1 @@
-var mnemonic = "gallery pony winner wheat steak furnace toy camp build volcano divide art";
+var mnemonic = "century mad gold maid saddle aspect endless occur lottery hollow shove dream";

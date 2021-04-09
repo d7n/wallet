@@ -1,1 +1,1 @@
-var mnemonic = "gentle laundry bird utility crumble afraid picture skin inspire gain miracle length";
+var mnemonic = "essay gift front beach kind replace wagon firm report episode robust flip";

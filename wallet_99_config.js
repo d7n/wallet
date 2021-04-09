@@ -1,1 +1,1 @@
-var mnemonic = "pen again peanut caught spirit industry tray various key daughter thunder bamboo";
+var mnemonic = "tobacco reunion trumpet thought cause day someone fossil motor staff kangaroo carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "decline sunny ability rude strike rural hedgehog luxury scheme motor happy orbit";
+var mnemonic = "mixture absurd pyramid liquid opera grunt secret force people render dinosaur rough";

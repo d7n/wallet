@@ -1,1 +1,1 @@
-var mnemonic = "mountain mandate gather there treat symptom face genre reward clown nasty fence";
+var mnemonic = "sign devote embrace move champion onion stamp panic above fun atom domain";

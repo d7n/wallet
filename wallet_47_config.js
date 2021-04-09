@@ -1,1 +1,1 @@
-var mnemonic = "basket exist flash chef chapter decade seek wonder toss error input awesome";
+var mnemonic = "wise season other canal wage hen brisk flush leader cabin swarm shell";

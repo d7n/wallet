@@ -1,1 +1,1 @@
-var mnemonic = "monkey wage trial fitness hollow conduct knee erosion elephant brief film twenty";
+var mnemonic = "mango filter segment diary language start giggle hurry inherit rose craft stumble";

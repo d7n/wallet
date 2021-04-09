@@ -1,1 +1,1 @@
-var mnemonic = "online treat adult broccoli excite lock vacant potato toward square harbor clip";
+var mnemonic = "toy mask peace olive shadow local real maze stage impose foot slush";

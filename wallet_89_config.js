@@ -1,1 +1,1 @@
-var mnemonic = "high grit enable afford embark clever stove fantasy buddy patient aisle safe";
+var mnemonic = "jewel rhythm age design smooth inform hybrid border exchange assault kite entire";

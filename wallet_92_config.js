@@ -1,1 +1,1 @@
-var mnemonic = "obscure marine tail affair document crawl survey setup rather slush kick harvest";
+var mnemonic = "skill assist wear ocean artefact finish taste wild reveal tray patch crop";

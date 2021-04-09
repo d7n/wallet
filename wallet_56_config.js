@@ -1,1 +1,1 @@
-var mnemonic = "struggle core praise blanket dignity grid penalty shadow trigger dumb stable actor";
+var mnemonic = "will shy hill adult episode trade tip pony veteran saddle health glove";

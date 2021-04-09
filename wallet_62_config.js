@@ -1,1 +1,1 @@
-var mnemonic = "also phrase tribe mistake bitter ten flock shoot thumb snack enough jewel";
+var mnemonic = "since void jar arena journey scout neutral jewel more buzz abandon empower";

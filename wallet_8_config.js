@@ -1,1 +1,1 @@
-var mnemonic = "collect twenty audit prosper whip hobby color motor unhappy trust twelve bracket";
+var mnemonic = "bracket mystery inflict crouch corn yard glad smart visit since magic measure";

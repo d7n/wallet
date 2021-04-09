@@ -1,1 +1,1 @@
-var mnemonic = "magic between congress else bone extend horse another rather close antenna pretty";
+var mnemonic = "dinosaur cross shove globe analyst magic inherit spatial junior scissors fault panda";

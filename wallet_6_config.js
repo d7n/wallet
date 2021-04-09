@@ -1,1 +1,1 @@
-var mnemonic = "enforce shrimp ship actual hungry nose rapid helmet record immune plug high";
+var mnemonic = "photo pluck success small miss tower age target marriage spell negative crack";

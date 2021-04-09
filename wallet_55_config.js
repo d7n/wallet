@@ -1,1 +1,1 @@
-var mnemonic = "minor bitter govern print squirrel radar gadget sea wide update design offer";
+var mnemonic = "fiction fat fashion velvet tell system often spoon bicycle scrub remember poet";

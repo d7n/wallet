@@ -1,1 +1,1 @@
-var mnemonic = "security daughter oyster luxury voice rug bird palm output frequent fish empower";
+var mnemonic = "potato region puppy echo detail they merry fossil cruel circle leg town";

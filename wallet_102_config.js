@@ -1,1 +1,1 @@
-var mnemonic = "odor brisk trade notable clip connect faint vendor dinosaur urge keen category";
+var mnemonic = "road crowd kiwi volcano syrup digital alcohol flight under keen tribe gadget";

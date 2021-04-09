@@ -1,1 +1,1 @@
-var mnemonic = "sock room avoid glove glare aware income cinnamon proud hawk bench oak";
+var mnemonic = "slice secret help bulk silk faculty uphold song economy spice letter bargain";

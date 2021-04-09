@@ -1,1 +1,1 @@
-var mnemonic = "peasant manual tackle amount garden black garage object obscure runway stereo cliff";
+var mnemonic = "picnic rural wine announce dolphin life someone hill song wonder unfold fly";

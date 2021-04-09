@@ -1,1 +1,1 @@
-var mnemonic = "conduct know knife time what jungle kind liquid cannon water soda network";
+var mnemonic = "office middle apple lyrics stock box quarter cotton vendor panic tone scene";

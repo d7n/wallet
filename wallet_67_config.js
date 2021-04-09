@@ -1,1 +1,1 @@
-var mnemonic = "fever amount exercise chunk awkward reform arrow network morning wash bubble hand";
+var mnemonic = "turtle another marriage cat vicious eight half timber situate mesh gasp body";

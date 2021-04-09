@@ -1,1 +1,1 @@
-var mnemonic = "table chapter prepare concert bottom muscle text game tube foster age broken";
+var mnemonic = "fatigue situate balance vacant spare minor swamp bread message amused piece borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "seven reject one direct quantum birth option cover kid fitness toilet doctor";
+var mnemonic = "myself decade milk loyal concert open sing wolf spare achieve legend two";

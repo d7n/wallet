@@ -1,1 +1,1 @@
-var mnemonic = "this beauty music poverty disagree symbol screen lucky mention include output rebuild";
+var mnemonic = "stick heart inhale cousin electric silk fatigue film welcome avocado vivid repair";

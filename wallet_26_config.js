@@ -1,1 +1,1 @@
-var mnemonic = "educate chaos glass vibrant clock favorite hub such ticket govern sunny receive";
+var mnemonic = "coconut run doll refuse zone cricket cherry solar citizen suit coast exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "maple robot deer flat feed bicycle genre sphere sauce brisk ridge slight";
+var mnemonic = "subway young then social firm sheriff observe dinosaur fortune pulse vacuum replace";

@@ -1,1 +1,1 @@
-var mnemonic = "release rival tackle capable story view thrive rebuild scheme night poem awkward";
+var mnemonic = "jungle borrow payment umbrella use field vendor board agree pride sock boat";

@@ -1,1 +1,1 @@
-var mnemonic = "exile learn silver mosquito keen fever age humor age autumn main bring";
+var mnemonic = "want club service leader note lazy noodle ranch shove only trial solve";

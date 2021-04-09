@@ -1,1 +1,1 @@
-var mnemonic = "strategy dress novel modify axis brand muscle wet leave annual brave black";
+var mnemonic = "wasp viable alpha question fold innocent unknown tumble track raven rice acid";

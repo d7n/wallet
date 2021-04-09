@@ -1,1 +1,1 @@
-var mnemonic = "duck need popular chicken goose casual bunker slogan dose hen elbow day";
+var mnemonic = "involve letter foil december nose blush decrease solve citizen angry miss zoo";

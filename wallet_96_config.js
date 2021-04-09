@@ -1,1 +1,1 @@
-var mnemonic = "near thrive olympic math void valid shiver gas plastic orbit melody then";
+var mnemonic = "draft canoe page celery tortoise happy truth pear aware laptop target same";

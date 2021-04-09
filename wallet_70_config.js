@@ -1,1 +1,1 @@
-var mnemonic = "first protect meat dragon latin safe kangaroo march face electric broom mule";
+var mnemonic = "jungle drink clutch mouse flower anchor grain security power bounce regular wealth";

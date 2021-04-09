@@ -1,1 +1,1 @@
-var mnemonic = "globe claim snow blanket broom motion trade fit jar drop final fish";
+var mnemonic = "again mushroom innocent young flash guard just wide curve duck humor odor";

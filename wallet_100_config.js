@@ -1,1 +1,1 @@
-var mnemonic = "all potato pitch fabric crisp net sadness push patch slam trust gallery";
+var mnemonic = "gloom demand iron either pill circle circle assault indicate seek sustain poverty";

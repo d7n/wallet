@@ -1,1 +1,1 @@
-var mnemonic = "erode canal eagle sound nest confirm original success green candy bonus sand";
+var mnemonic = "drop certain devote gospel taste trophy sure boil lumber ticket poverty cattle";

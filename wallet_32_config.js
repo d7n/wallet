@@ -1,1 +1,1 @@
-var mnemonic = "member swap reveal vapor mind popular track analyst review annual desert hand";
+var mnemonic = "brass model sibling divorce define exhaust autumn exit silent leisure symptom define";

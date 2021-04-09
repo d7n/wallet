@@ -1,1 +1,1 @@
-var mnemonic = "cheese name eager grit amateur lady rely popular option gym impact trouble";
+var mnemonic = "corn hurry response siege false mesh camera creek mandate option depart venture";

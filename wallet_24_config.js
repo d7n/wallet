@@ -1,1 +1,1 @@
-var mnemonic = "anchor slogan rally sad minor arm cotton dream impose address happy final";
+var mnemonic = "hat safe office aim various love hen farm promote excuse kid soup";

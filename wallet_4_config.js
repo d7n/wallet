@@ -1,1 +1,1 @@
-var mnemonic = "explain giant urge focus grape lazy recipe auction verify neither escape fence";
+var mnemonic = "child opinion buzz buffalo stable unique together energy waste client foot build";

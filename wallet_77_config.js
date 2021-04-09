@@ -1,1 +1,1 @@
-var mnemonic = "mutual give tumble desk frozen fashion absorb dynamic bread snap clog wife";
+var mnemonic = "output grit bless gloom palm slow roof young jelly lizard analyst ill";

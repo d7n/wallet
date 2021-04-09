@@ -1,1 +1,1 @@
-var mnemonic = "maid copy rally inhale make scrap light unique submit animal tiger expand";
+var mnemonic = "verb execute half clap theory spare series custom horn turn emotion select";

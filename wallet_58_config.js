@@ -1,1 +1,1 @@
-var mnemonic = "already moral lottery urban riot fix parrot song cannon athlete firm table";
+var mnemonic = "warfare zone approve east almost glance topple neck over bag perfect session";

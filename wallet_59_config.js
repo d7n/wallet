@@ -1,1 +1,1 @@
-var mnemonic = "boy little debate huge chief panther certain tonight ring melt anger basket";
+var mnemonic = "during nephew orchard range purse absorb slender weather cupboard police demand gadget";

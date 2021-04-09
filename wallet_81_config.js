@@ -1,1 +1,1 @@
-var mnemonic = "anchor expect tiger type chest peasant treat plastic cattle box treat omit";
+var mnemonic = "stay shaft hidden naive kiss burst west hover mixed assault custom arch";

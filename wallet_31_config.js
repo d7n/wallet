@@ -1,1 +1,1 @@
-var mnemonic = "three wagon satoshi advance equal engine garage glove measure swap mask select";
+var mnemonic = "regular remind vessel stool stomach cousin soccer tongue patrol lock verb say";

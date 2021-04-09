@@ -1,1 +1,1 @@
-var mnemonic = "retreat option cause panel elite bleak nation husband orchard elephant monkey speak";
+var mnemonic = "genre case ship tomato share carry girl bright creek trash mom art";

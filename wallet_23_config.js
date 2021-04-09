@@ -1,1 +1,1 @@
-var mnemonic = "drip body chronic skirt tunnel also term certain put donate swim erase";
+var mnemonic = "faculty quarter neither stove chair sure glance never hour catalog crime all";

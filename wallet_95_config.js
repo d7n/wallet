@@ -1,1 +1,1 @@
-var mnemonic = "upon bean mechanic regret age tree daring despair rare flee father kid";
+var mnemonic = "trash burger upset trial flower toward need excess round security dizzy slush";

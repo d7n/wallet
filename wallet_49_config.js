@@ -1,1 +1,1 @@
-var mnemonic = "dove motion twenty romance permit album base bracket carry climb power shoot";
+var mnemonic = "silk mercy ready dawn genre space quit grape genius man top vast";

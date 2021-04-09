@@ -1,1 +1,1 @@
-var mnemonic = "pretty glad crack jacket song dinner liberty alley siege busy hamster ozone";
+var mnemonic = "beach strategy scrap melt trash goat rule dutch false cat joy scare";

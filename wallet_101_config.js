@@ -1,1 +1,1 @@
-var mnemonic = "yard involve tower hurdle hill senior forest unveil vapor crater track tray";
+var mnemonic = "black divert blast congress alarm best color armed dinosaur hire genuine unaware";

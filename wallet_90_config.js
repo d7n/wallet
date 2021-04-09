@@ -1,1 +1,1 @@
-var mnemonic = "long home such destroy affair pledge noise negative lion call pulp trip";
+var mnemonic = "crush abuse soup way either afraid grab immune impose tilt obey foam";

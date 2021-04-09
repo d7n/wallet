@@ -1,1 +1,1 @@
-var mnemonic = "bottom robust ribbon buyer attend skin warm token produce young spoil wrist";
+var mnemonic = "spirit survey spike cushion junk renew wait slot near multiply target spawn";

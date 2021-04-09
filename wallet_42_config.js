@@ -1,1 +1,1 @@
-var mnemonic = "best prefer purchase taste unfold hazard venture body month host off swing";
+var mnemonic = "own address beauty ocean dolphin monkey drum special renew decrease crop avoid";

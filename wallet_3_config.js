@@ -1,1 +1,1 @@
-var mnemonic = "weird pretty toe use radio puzzle exit solar display tribe noodle dry";
+var mnemonic = "simple beef better together canoe ozone cradle seven bundle laundry crime episode";

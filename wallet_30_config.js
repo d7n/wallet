@@ -1,1 +1,1 @@
-var mnemonic = "slide sight mango enroll ice earn front judge saddle urban art settle";
+var mnemonic = "great mammal happy reduce cancel random badge chief tragic digital chuckle orbit";

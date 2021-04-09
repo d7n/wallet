@@ -1,1 +1,1 @@
-var mnemonic = "measure invite pen stadium twenty fence brief cherry wedding property stool cool";
+var mnemonic = "rule worry spirit tackle panel refuse inside december link strategy fiction law";

@@ -1,1 +1,1 @@
-var mnemonic = "include impact leaf permit off rural royal twenty scissors weekend group sponsor";
+var mnemonic = "month infant seat drop wide rigid medal apart salad intact blanket zoo";

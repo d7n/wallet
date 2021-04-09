@@ -1,1 +1,1 @@
-var mnemonic = "nasty survey time vessel develop grain message acid deny museum palace weasel";
+var mnemonic = "person grace arrive click crush maple canyon marriage orphan habit blanket limit";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn among ring list grid guilt fold laugh uncover travel gentle soon";
+var mnemonic = "dune tank bargain acid response drive marble skill grant emerge bid draw";
