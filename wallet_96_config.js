@@ -1,1 +1,1 @@
-var mnemonic = "expose orbit dizzy dog sorry spread short segment second mention hero elevator";
+var mnemonic = "pet feature inform grass ribbon race arctic crowd toilet usage color arrow";

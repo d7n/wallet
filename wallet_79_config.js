@@ -1,1 +1,1 @@
-var mnemonic = "often seminar bounce fatigue include menu cat next mimic top supply awful";
+var mnemonic = "barrel empower viable ketchup maximum mouse tiny police fog venture another shell";

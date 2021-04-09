@@ -1,1 +1,1 @@
-var mnemonic = "excuse grocery illness that belt genre near evidence mixture recall divorce target";
+var mnemonic = "steel basket ozone veteran sister dutch task fat play retire pupil clap";

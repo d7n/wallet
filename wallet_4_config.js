@@ -1,1 +1,1 @@
-var mnemonic = "damage flame critic write box alone area crack ceiling all egg update";
+var mnemonic = "smile pink lazy truly beach grape candy chunk seminar close timber stage";

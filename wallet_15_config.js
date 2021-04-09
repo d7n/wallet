@@ -1,1 +1,1 @@
-var mnemonic = "ignore group hat fun engine marine base face mention music scene manual";
+var mnemonic = "error rough kiss despair creek install please crew gesture across dice owner";

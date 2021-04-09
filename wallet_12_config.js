@@ -1,1 +1,1 @@
-var mnemonic = "genre cute cheese space argue enemy question snow afford bottom summer pave";
+var mnemonic = "coast job load drive into side obvious neglect increase front scissors canal";

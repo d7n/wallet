@@ -1,1 +1,1 @@
-var mnemonic = "curious jungle chef language require chronic there gas garden pottery blush voice";
+var mnemonic = "chalk omit change asthma razor nasty ocean amused vocal choice angle fatal";

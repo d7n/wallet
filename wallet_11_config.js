@@ -1,1 +1,1 @@
-var mnemonic = "wise change stand claim broom opera spike spider skull tank chest cream";
+var mnemonic = "judge toy exist wool upgrade fatigue salmon praise business curve emotion cry";

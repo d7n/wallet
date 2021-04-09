@@ -1,1 +1,1 @@
-var mnemonic = "fish hamster need march card never estate yellow anxiety jungle rack donor";
+var mnemonic = "file excess evidence pizza duck usual conduct found economy helmet oyster process";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin invest favorite inhale ecology net random truck ghost initial combine sugar";
+var mnemonic = "wire diary home glory pipe again dawn return clown peasant fence hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "reform opera limb work clever palace shine amused beef spell mansion gravity";
+var mnemonic = "spike spring host car toe deputy firm hand bread casino merge bulb";

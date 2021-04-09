@@ -1,1 +1,1 @@
-var mnemonic = "clay human certain mixture service slide hidden health believe that wife about";
+var mnemonic = "excuse thrive dragon live ordinary peace edit pause maximum broken give group";

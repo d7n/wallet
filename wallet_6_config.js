@@ -1,1 +1,1 @@
-var mnemonic = "attitude scrub certain gasp mechanic pioneer pill conduct plastic gauge water clog";
+var mnemonic = "fold reason crush express coral climb problem motor accident bone forward asthma";

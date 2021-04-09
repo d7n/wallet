@@ -1,1 +1,1 @@
-var mnemonic = "swap inherit weather south also absent man impose spin panda bottom gain";
+var mnemonic = "stamp bomb table pink follow capital begin hint manage hero just stuff";

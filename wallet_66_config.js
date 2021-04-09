@@ -1,1 +1,1 @@
-var mnemonic = "cost demise swarm opinion truly napkin plunge birth speak puppy chaos behind";
+var mnemonic = "reveal clever output february trigger moment dog glide feel honey install wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "collect clog promote loop repeat math betray lady demise book slush gauge";
+var mnemonic = "minute crawl melt such same illegal kit stock acoustic step ring ice";

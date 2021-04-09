@@ -1,1 +1,1 @@
-var mnemonic = "enlist boss orphan topic round all sword assault decline popular game vital";
+var mnemonic = "lawsuit shield jealous exile network bulk wide assault day twelve dolphin hip";

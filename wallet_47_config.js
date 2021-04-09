@@ -1,1 +1,1 @@
-var mnemonic = "visit trend pulse legal output elder amused animal crack screen walk scrap";
+var mnemonic = "social aspect west public ability term shoot differ mountain quiz file deposit";

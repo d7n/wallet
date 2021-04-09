@@ -1,1 +1,1 @@
-var mnemonic = "owner cement below inherit kangaroo reopen plate shy tell deny deer picnic";
+var mnemonic = "example trial account loud wedding check off fly warfare pulse vicious private";

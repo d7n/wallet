@@ -1,1 +1,1 @@
-var mnemonic = "prepare prefer mouse please guard burden whisper priority admit blossom fashion extend";
+var mnemonic = "unhappy surface smoke moral lawn scare oval soon invite sail topple faint";

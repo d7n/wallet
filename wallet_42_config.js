@@ -1,1 +1,1 @@
-var mnemonic = "annual category thank army allow join umbrella behave pill unable flavor lobster";
+var mnemonic = "kid cause danger glimpse sun indicate various water thrive diet parrot brave";

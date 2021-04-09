@@ -1,1 +1,1 @@
-var mnemonic = "choice manual nephew elegant quote strategy chief smart onion hobby grief matrix";
+var mnemonic = "carpet hotel photo humor stereo tackle chase attend check tag duck favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "slight fitness wrap digital benefit enemy crane common airport rack pumpkin drill";
+var mnemonic = "analyst surprise young choice tobacco virtual grid still sea decrease ladder appear";

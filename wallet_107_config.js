@@ -1,1 +1,1 @@
-var mnemonic = "strategy people math choose scale paddle brick scrub phrase uniform ethics multiply";
+var mnemonic = "initial kid volcano proof autumn useful total derive because shed embody cluster";

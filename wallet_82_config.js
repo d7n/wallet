@@ -1,1 +1,1 @@
-var mnemonic = "minute crane witness series mirror swim route fruit miracle ensure athlete human";
+var mnemonic = "rate biology business excess foil critic royal bread today music stable suspect";

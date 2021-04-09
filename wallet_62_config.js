@@ -1,1 +1,1 @@
-var mnemonic = "inch fetch verify enjoy fly lab office divert raw patrol invite valley";
+var mnemonic = "use vibrant process there cloud deputy ginger anxiety learn letter please gift";

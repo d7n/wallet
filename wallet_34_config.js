@@ -1,1 +1,1 @@
-var mnemonic = "screen design maple salt profit woman benefit crystal lucky pass mother resist";
+var mnemonic = "cradle risk firm clog space joy stove stairs employ mammal return before";

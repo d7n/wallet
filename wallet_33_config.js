@@ -1,1 +1,1 @@
-var mnemonic = "glad loop bracket unfold office daughter execute educate chicken cute violin flavor";
+var mnemonic = "search simple increase limb real fitness disorder ball open hungry foam knock";

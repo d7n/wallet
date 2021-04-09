@@ -1,1 +1,1 @@
-var mnemonic = "shuffle lion seed life elbow hood exclude method belt nasty arrive buddy";
+var mnemonic = "fog crowd oven pizza fuel brush vacant brief silk brief beauty certain";

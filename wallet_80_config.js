@@ -1,1 +1,1 @@
-var mnemonic = "believe pig finger planet bright erase spike surprise night escape supply shed";
+var mnemonic = "kiss six unfold later acoustic dilemma seat protect patient steak chat crater";

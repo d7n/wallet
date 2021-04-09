@@ -1,1 +1,1 @@
-var mnemonic = "permit force street skin organ fabric bean table cactus cricket ocean grab";
+var mnemonic = "call icon seminar athlete twenty useful market beauty attack rough harbor length";

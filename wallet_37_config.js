@@ -1,1 +1,1 @@
-var mnemonic = "unfold miss always night sell object fold vanish pretty innocent faint view";
+var mnemonic = "bachelor morning maximum hello once limit distance again range remove injury enact";

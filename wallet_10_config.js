@@ -1,1 +1,1 @@
-var mnemonic = "outdoor bone scatter dish pledge affair usage acoustic they eager present roof";
+var mnemonic = "infant round gossip sugar motion fringe soul rail direct cereal love trap";

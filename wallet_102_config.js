@@ -1,1 +1,1 @@
-var mnemonic = "skirt frog miss neck diet sample steel gauge ride october proof ignore";
+var mnemonic = "conduct blood visual setup core fluid spare normal carbon buffalo forget nose";

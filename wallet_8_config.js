@@ -1,1 +1,1 @@
-var mnemonic = "drastic party energy tape airport bunker anxiety leave gospel anxiety great exit";
+var mnemonic = "kite knife core bean race myth sail enforce lawn office blue teach";

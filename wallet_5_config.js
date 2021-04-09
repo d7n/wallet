@@ -1,1 +1,1 @@
-var mnemonic = "prevent void general hire cup warfare bean reason decade ancient balance fence";
+var mnemonic = "waste account rival core face custom wolf fee identify timber warm exile";

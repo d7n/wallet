@@ -1,1 +1,1 @@
-var mnemonic = "material movie palace awake reflect mom icon alert quit mansion person buzz";
+var mnemonic = "champion autumn spend canoe miss wedding luxury brush bid possible dilemma april";

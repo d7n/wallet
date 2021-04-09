@@ -1,1 +1,1 @@
-var mnemonic = "flash rely negative antenna aerobic drastic blind canal obtain salute public cargo";
+var mnemonic = "tuna return mouse novel fee chronic enemy today enable robust leisure swift";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster basic degree salute enemy tortoise fiction tongue welcome embrace agent hope";
+var mnemonic = "denial december airport simple post flip artist razor awkward crumble undo since";

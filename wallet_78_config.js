@@ -1,1 +1,1 @@
-var mnemonic = "vibrant zoo gorilla collect skin stamp sort wing world rent hold mind";
+var mnemonic = "slow estate excess away rebel pride crane nasty leopard logic because flip";

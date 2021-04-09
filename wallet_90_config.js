@@ -1,1 +1,1 @@
-var mnemonic = "mutual enough trend essence fee skirt message fog audit know word public";
+var mnemonic = "promote essence extra dice banana village company reopen junk coil mountain congress";

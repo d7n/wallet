@@ -1,1 +1,1 @@
-var mnemonic = "dignity tragic sweet evil curve twist lumber try funny damp purchase enemy";
+var mnemonic = "cake swim game federal close recipe move have nasty sad satisfy list";

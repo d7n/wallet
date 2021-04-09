@@ -1,1 +1,1 @@
-var mnemonic = "exact include laugh output crack slogan math lyrics affair garden learn rebuild";
+var mnemonic = "blanket box eyebrow pig long eye because tent salute jelly flag top";

@@ -1,1 +1,1 @@
-var mnemonic = "trash gym violin client seat select often tray witness twelve village there";
+var mnemonic = "sting grow lyrics melody toss switch liquid apart muscle beauty practice torch";

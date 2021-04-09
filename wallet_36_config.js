@@ -1,1 +1,1 @@
-var mnemonic = "script whale interest venture clock gap estate shuffle language asset often stove";
+var mnemonic = "funny hire rifle salad damage cube perfect notable aerobic arena slim wing";

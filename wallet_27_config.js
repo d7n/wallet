@@ -1,1 +1,1 @@
-var mnemonic = "eternal next fashion recycle tribe exist hole shrug fitness lumber treat exit";
+var mnemonic = "confirm brief purse shrimp cancel sense romance symbol number rely combine benefit";

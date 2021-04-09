@@ -1,1 +1,1 @@
-var mnemonic = "west seat collect bamboo random original street riot relax dash fame multiply";
+var mnemonic = "tackle season party rich sea until peasant apart mandate public abuse immense";

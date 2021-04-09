@@ -1,1 +1,1 @@
-var mnemonic = "destroy embark badge glimpse lend ice wasp rescue parent rebel stuff come";
+var mnemonic = "chapter inquiry renew ethics garden tornado spare huge helmet early junk polar";

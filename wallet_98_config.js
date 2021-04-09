@@ -1,1 +1,1 @@
-var mnemonic = "festival rubber capable current faint creek awake reveal mandate vicious select similar";
+var mnemonic = "middle cry lamp never pelican large fiber country peasant used eye quantum";

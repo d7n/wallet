@@ -1,1 +1,1 @@
-var mnemonic = "river author myself between hazard find spot ranch narrow thumb adjust calm";
+var mnemonic = "feed snap good similar wave twenty fame mix long element wedding distance";

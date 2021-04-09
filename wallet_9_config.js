@@ -1,1 +1,1 @@
-var mnemonic = "perfect garden venture embody matrix treat oyster cycle unusual nut shock split";
+var mnemonic = "hospital slam okay manual clarify ancient about shoulder appear hen struggle smooth";

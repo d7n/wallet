@@ -1,1 +1,1 @@
-var mnemonic = "subway unable party coin survey punch street canal unique tree depth three";
+var mnemonic = "sorry rose they shiver office pelican bridge staff banner action gloom certain";

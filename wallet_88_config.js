@@ -1,1 +1,1 @@
-var mnemonic = "mammal excess clock soon choose axis about kangaroo gloom buyer airport outside";
+var mnemonic = "above develop wisdom middle useful coil gold swing abstract muffin huge double";

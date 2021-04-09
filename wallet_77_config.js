@@ -1,1 +1,1 @@
-var mnemonic = "reduce alley bring alien already hair salmon lonely priority nation census example";
+var mnemonic = "any letter cluster expect crash unfold copper wheat twin scene gun income";

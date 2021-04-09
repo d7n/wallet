@@ -1,1 +1,1 @@
-var mnemonic = "flat cool split simple creek water enlist royal school spoil spice aerobic";
+var mnemonic = "argue winner hollow like step answer universe clinic surprise twin large law";

@@ -1,1 +1,1 @@
-var mnemonic = "year actor neglect member protect goat husband sentence knee snack jungle mimic";
+var mnemonic = "veteran stereo repair web distance trophy sock cannon suffer delay knock among";

@@ -1,1 +1,1 @@
-var mnemonic = "initial own creek turn merry peasant dynamic once dawn agree gauge give";
+var mnemonic = "disorder grocery focus reform cup chronic melody bunker side exile swift unlock";

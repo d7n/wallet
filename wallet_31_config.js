@@ -1,1 +1,1 @@
-var mnemonic = "faith bless peasant symbol ability easy alarm balance dentist clown answer truck";
+var mnemonic = "best company ghost broom void amount prefer banana ankle virtual welcome crush";

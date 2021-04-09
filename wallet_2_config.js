@@ -1,1 +1,1 @@
-var mnemonic = "master satisfy cream angle sponsor angry wash just siege wrist embody travel";
+var mnemonic = "roof blue brief clever neither jazz combine equal game borrow initial avoid";

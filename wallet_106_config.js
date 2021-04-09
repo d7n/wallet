@@ -1,1 +1,1 @@
-var mnemonic = "athlete point result stove accident size erosion loan gate cry wise table";
+var mnemonic = "mixture jacket thing depart obscure unfold own kitchen mesh sadness meadow mix";

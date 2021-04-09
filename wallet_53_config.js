@@ -1,1 +1,1 @@
-var mnemonic = "destroy sound feature race head iron bless basic miss pepper sign will";
+var mnemonic = "merge machine item pair unfair calm pair swift relief tattoo accuse number";

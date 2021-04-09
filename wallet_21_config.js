@@ -1,1 +1,1 @@
-var mnemonic = "merge regular friend negative ketchup prosper clinic mesh depth try canvas giggle";
+var mnemonic = "purchase deposit whip reflect athlete pull hundred repair jazz sheriff fluid nice";

@@ -1,1 +1,1 @@
-var mnemonic = "derive void power ready trim cushion buddy buyer wage blossom feel flush";
+var mnemonic = "final token spice consider double typical crucial cream upset result cancel hen";

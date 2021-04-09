@@ -1,1 +1,1 @@
-var mnemonic = "office axis sphere shoot secret reunion select cattle degree marine raven mad";
+var mnemonic = "shrug view indoor month prize exercise better impact cool rough race access";

@@ -1,1 +1,1 @@
-var mnemonic = "urban tape empower ordinary grow wet outside faint giggle damage dizzy small";
+var mnemonic = "evidence hollow maple ensure great antenna impact reopen meat skull focus good";

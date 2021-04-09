@@ -1,1 +1,1 @@
-var mnemonic = "waste borrow dance report nephew thing chunk advance hurt antique vibrant twenty";
+var mnemonic = "erupt kiss unveil orient knife excess upset hurdle confirm then gaze clerk";

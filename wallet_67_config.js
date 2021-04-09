@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit gravity two modify portion science lion twist priority debris deliver cave";
+var mnemonic = "raise kid post casual ghost style script arch begin idle chair thunder";

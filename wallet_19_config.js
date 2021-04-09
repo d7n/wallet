@@ -1,1 +1,1 @@
-var mnemonic = "initial note expect impact medal asset fun victory clown language live napkin";
+var mnemonic = "language indoor learn lecture uniform lens degree feed chuckle wage quantum deny";

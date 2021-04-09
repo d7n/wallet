@@ -1,1 +1,1 @@
-var mnemonic = "jelly possible pitch quality more cloth stumble fiction snap dial inhale royal";
+var mnemonic = "glory this neither faint copy can clay ancient hotel face gesture relax";

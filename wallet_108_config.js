@@ -1,1 +1,1 @@
-var mnemonic = "merit venture brief merge few foot useful frown calm earth demise hood";
+var mnemonic = "bracket embody swift buffalo siege problem plug crane asthma diagram left toddler";

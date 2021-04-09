@@ -1,1 +1,1 @@
-var mnemonic = "desk unknown hello cigar camera bargain sell hover robot wrap immune kiwi";
+var mnemonic = "visa usual drill staff poem peanut vote error table proof around better";

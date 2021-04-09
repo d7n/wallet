@@ -1,1 +1,1 @@
-var mnemonic = "inform west again nurse project expect album calm indoor melody tape step";
+var mnemonic = "cover shaft giggle bulb town entire all vacuum vanish world join rare";

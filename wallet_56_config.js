@@ -1,1 +1,1 @@
-var mnemonic = "message maze slam remove trouble addict wrong palm agree puppy profit repeat";
+var mnemonic = "monster soccer exchange jazz immense acquire donor label kid symbol parent cat";

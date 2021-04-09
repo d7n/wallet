@@ -1,1 +1,1 @@
-var mnemonic = "transfer glance silver reward crunch shoot frost food liberty satoshi vacuum paper";
+var mnemonic = "spy awkward much beauty gas impact absorb napkin sample novel high exchange";

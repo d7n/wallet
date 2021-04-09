@@ -1,1 +1,1 @@
-var mnemonic = "mansion steak tattoo universe grocery polar jar flee punch duck cinnamon aunt";
+var mnemonic = "advance put about polar long imitate whip length artist drink worth prevent";

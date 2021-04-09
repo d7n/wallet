@@ -1,1 +1,1 @@
-var mnemonic = "comic grit stable just emotion chronic aerobic tape bright abuse desk surround";
+var mnemonic = "child cute share denial sun loud upgrade grid pudding play fluid orange";

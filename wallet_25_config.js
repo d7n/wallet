@@ -1,1 +1,1 @@
-var mnemonic = "twice humor pitch rescue frost maid neck elephant agree push thought bread";
+var mnemonic = "practice diagram round edge disagree urge reveal comic baby split shoot renew";

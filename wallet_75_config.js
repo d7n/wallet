@@ -1,1 +1,1 @@
-var mnemonic = "you wealth infant talk nature sign tenant various drift field mountain choose";
+var mnemonic = "search stairs sock hundred dumb baby turkey message loud cook maid rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "where success pupil rabbit fix recycle enough remind sell eight lake bargain";
+var mnemonic = "success thumb update shy rally net rookie discover tiger wild identify arch";

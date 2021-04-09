@@ -1,1 +1,1 @@
-var mnemonic = "hunt focus process journey repeat sunset noodle nuclear another they juice liquid";
+var mnemonic = "federal connect mix memory neither liquid food motion banana identify strong tragic";

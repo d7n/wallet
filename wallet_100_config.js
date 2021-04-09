@@ -1,1 +1,1 @@
-var mnemonic = "bus pilot heavy hamster nerve case minor tenant salt dirt certain loop";
+var mnemonic = "drive differ deposit harsh friend goddess found cave transfer diamond access viable";

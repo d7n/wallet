@@ -1,1 +1,1 @@
-var mnemonic = "salad fish benefit fresh elegant clock phrase axis giraffe belt manual ahead";
+var mnemonic = "donor spray runway say crawl same dish warm ladder scene measure robot";

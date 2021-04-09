@@ -1,1 +1,1 @@
-var mnemonic = "fuel mango test cause large reveal heart aunt daring faint display great";
+var mnemonic = "iron harbor fog awkward invest sure phone measure paper fantasy inhale junior";

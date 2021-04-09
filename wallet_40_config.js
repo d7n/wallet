@@ -1,1 +1,1 @@
-var mnemonic = "example deal fat october wall maid shallow build meat miss strategy minute";
+var mnemonic = "accident capital capable physical exchange leave offer hidden shock seat keep wire";

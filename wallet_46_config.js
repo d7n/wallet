@@ -1,1 +1,1 @@
-var mnemonic = "rubber pepper hen spare occur jealous enhance inner flat when lemon fluid";
+var mnemonic = "crowd wet topic finish since peace agree air arch decrease athlete chuckle";

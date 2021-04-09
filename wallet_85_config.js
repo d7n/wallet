@@ -1,1 +1,1 @@
-var mnemonic = "buyer fox tuna december turn human begin strategy critic dumb conduct come";
+var mnemonic = "upon story pig barrel broccoli scorpion friend know alcohol boring gallery aim";

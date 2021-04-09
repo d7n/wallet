@@ -1,1 +1,1 @@
-var mnemonic = "diary dove shoot job dress occur grid december female critic unit bulb";
+var mnemonic = "afford winner hungry hero puzzle joy boy confirm build under humble sort";

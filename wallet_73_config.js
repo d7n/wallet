@@ -1,1 +1,1 @@
-var mnemonic = "rebel public lady update tent inner awake doll sorry tissue ghost oblige";
+var mnemonic = "roof vibrant leaf share chicken notice laugh jazz elder focus finish price";

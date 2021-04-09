@@ -1,1 +1,1 @@
-var mnemonic = "lens penalty saddle scorpion own denial allow nose moral minute speed airport";
+var mnemonic = "brush basket settle child share swamp lemon key tunnel route write brisk";

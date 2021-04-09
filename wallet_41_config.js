@@ -1,1 +1,1 @@
-var mnemonic = "trap auction settle firm observe hawk brass reject dress quantum auto extend";
+var mnemonic = "quality begin pride broom power rural waste neglect duck gun allow alley";

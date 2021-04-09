@@ -1,1 +1,1 @@
-var mnemonic = "shy learn say aim only angle orient peasant already trade inmate dove";
+var mnemonic = "market perfect innocent pudding scene equip safe alert guilt green prosper play";

@@ -1,1 +1,1 @@
-var mnemonic = "grace become young tragic raccoon stadium carry stadium music chuckle chunk lake";
+var mnemonic = "elbow image latin weasel wrist razor zone pill glory symptom muffin fix";
