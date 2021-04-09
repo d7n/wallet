@@ -1,1 +1,1 @@
-var mnemonic = "brain belt gaze until quantum quality salmon diesel advice pride prepare banner";
+var mnemonic = "visit trend pulse legal output elder amused animal crack screen walk scrap";

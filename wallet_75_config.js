@@ -1,1 +1,1 @@
-var mnemonic = "spell believe fish ticket ball casual jelly rubber slam title inside end";
+var mnemonic = "you wealth infant talk nature sign tenant various drift field mountain choose";

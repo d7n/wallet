@@ -1,1 +1,1 @@
-var mnemonic = "agree like abstract bubble chaos circle abuse turtle pretty claim because reject";
+var mnemonic = "hunt focus process journey repeat sunset noodle nuclear another they juice liquid";

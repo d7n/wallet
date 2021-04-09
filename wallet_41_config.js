@@ -1,1 +1,1 @@
-var mnemonic = "kidney cushion elbow fiction ripple drift burger hat magnet ribbon soccer indicate";
+var mnemonic = "trap auction settle firm observe hawk brass reject dress quantum auto extend";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty ugly tribe wet skill also muffin toe media lend bike teach";
+var mnemonic = "faith bless peasant symbol ability easy alarm balance dentist clown answer truck";

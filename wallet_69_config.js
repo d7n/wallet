@@ -1,1 +1,1 @@
-var mnemonic = "method garbage couch swear diary increase salmon urban travel myself rule thing";
+var mnemonic = "spice mail wife drastic rain social luxury south invest wire style air";

@@ -1,1 +1,1 @@
-var mnemonic = "dial general notable priority canal mad object hope quick earth draft again";
+var mnemonic = "eternal next fashion recycle tribe exist hole shrug fitness lumber treat exit";

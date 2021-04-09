@@ -1,1 +1,1 @@
-var mnemonic = "tag stage feature donate differ add expand fun laptop urge arrest fiscal";
+var mnemonic = "grace become young tragic raccoon stadium carry stadium music chuckle chunk lake";

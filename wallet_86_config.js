@@ -1,1 +1,1 @@
-var mnemonic = "foam hedgehog business minimum kit taxi plunge trophy stay hello execute balance";
+var mnemonic = "derive void power ready trim cushion buddy buyer wage blossom feel flush";

@@ -1,1 +1,1 @@
-var mnemonic = "scene drastic return unaware phrase tackle online sick target sketch have mobile";
+var mnemonic = "lawsuit gravity two modify portion science lion twist priority debris deliver cave";

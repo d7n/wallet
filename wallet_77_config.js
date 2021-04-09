@@ -1,1 +1,1 @@
-var mnemonic = "syrup obvious orphan baby embark tired palm latin achieve cannon cover music";
+var mnemonic = "reduce alley bring alien already hair salmon lonely priority nation census example";

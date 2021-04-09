@@ -1,1 +1,1 @@
-var mnemonic = "track square recall shoulder tell surface scout penalty debate grant season loop";
+var mnemonic = "office axis sphere shoot secret reunion select cattle degree marine raven mad";

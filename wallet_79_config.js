@@ -1,1 +1,1 @@
-var mnemonic = "couple knife increase mansion gaze define alpha ritual chair bunker negative quarter";
+var mnemonic = "often seminar bounce fatigue include menu cat next mimic top supply awful";

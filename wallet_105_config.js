@@ -1,1 +1,1 @@
-var mnemonic = "bullet random grab repeat love express pupil silly put journey enhance group";
+var mnemonic = "river author myself between hazard find spot ranch narrow thumb adjust calm";

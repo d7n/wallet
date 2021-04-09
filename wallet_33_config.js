@@ -1,1 +1,1 @@
-var mnemonic = "social calm travel stay isolate cute office canyon legend piano network card";
+var mnemonic = "glad loop bracket unfold office daughter execute educate chicken cute violin flavor";

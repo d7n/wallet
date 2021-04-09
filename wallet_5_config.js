@@ -1,1 +1,1 @@
-var mnemonic = "camera auction spot arm pencil initial enact liquid reason post route next";
+var mnemonic = "prevent void general hire cup warfare bean reason decade ancient balance fence";

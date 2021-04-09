@@ -1,1 +1,1 @@
-var mnemonic = "note enemy argue cruel sniff lamp reunion margin slow try mouse ship";
+var mnemonic = "trash gym violin client seat select often tray witness twelve village there";

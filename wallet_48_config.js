@@ -1,1 +1,1 @@
-var mnemonic = "say again lumber celery twelve history point relief more prison office amount";
+var mnemonic = "diary dove shoot job dress occur grid december female critic unit bulb";

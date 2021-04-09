@@ -1,1 +1,1 @@
-var mnemonic = "crater sort parent dad skin true fringe member curious blush winter vault";
+var mnemonic = "waste borrow dance report nephew thing chunk advance hurt antique vibrant twenty";

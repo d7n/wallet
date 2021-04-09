@@ -1,1 +1,1 @@
-var mnemonic = "cricket tree like quit nice champion ecology soul census explain arch into";
+var mnemonic = "love scrap width buffalo double cause base upon jazz pipe alone lady";

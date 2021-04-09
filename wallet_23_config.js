@@ -1,1 +1,1 @@
-var mnemonic = "rotate milk modify claim attend parent belt pill problem define wool assist";
+var mnemonic = "desk unknown hello cigar camera bargain sell hover robot wrap immune kiwi";

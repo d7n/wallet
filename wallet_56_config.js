@@ -1,1 +1,1 @@
-var mnemonic = "replace steel art stay expire bullet eyebrow genre winter deer sing equip";
+var mnemonic = "message maze slam remove trouble addict wrong palm agree puppy profit repeat";

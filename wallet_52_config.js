@@ -1,1 +1,1 @@
-var mnemonic = "equal follow vendor amused twice cabbage trigger dash pony shuffle output quarter";
+var mnemonic = "fluid torch bullet course pudding color invite vibrant youth prepare wall aunt";

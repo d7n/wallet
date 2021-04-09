@@ -1,1 +1,1 @@
-var mnemonic = "carbon echo deputy stereo finish tortoise absurd sail snow express swamp entry";
+var mnemonic = "sunset erode antique still below quarter elder oven voice fortune december sun";

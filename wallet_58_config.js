@@ -1,1 +1,1 @@
-var mnemonic = "glance patient item perfect hurdle purity feed fat stem tattoo bag inside";
+var mnemonic = "urban tape empower ordinary grow wet outside faint giggle damage dizzy small";

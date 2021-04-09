@@ -1,1 +1,1 @@
-var mnemonic = "dynamic company able bottom spread agree excite simple enforce six gather maze";
+var mnemonic = "annual category thank army allow join umbrella behave pill unable flavor lobster";

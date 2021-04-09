@@ -1,1 +1,1 @@
-var mnemonic = "patch jacket move life regular liar saddle tragic coach float athlete depth";
+var mnemonic = "excuse grocery illness that belt genre near evidence mixture recall divorce target";

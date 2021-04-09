@@ -1,1 +1,1 @@
-var mnemonic = "reopen front flash junk wait color artwork horse hair weapon must deliver";
+var mnemonic = "hurry direct vivid holiday dismiss prevent drop use chunk oven ozone simple";

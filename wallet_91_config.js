@@ -1,1 +1,1 @@
-var mnemonic = "gallery field lunch erase random excite anger mother crazy level air never";
+var mnemonic = "shy learn say aim only angle orient peasant already trade inmate dove";

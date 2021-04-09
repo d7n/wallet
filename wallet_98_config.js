@@ -1,1 +1,1 @@
-var mnemonic = "club whale maple vicious spike dash interest maze either satoshi degree strike";
+var mnemonic = "festival rubber capable current faint creek awake reveal mandate vicious select similar";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery buzz royal circle tattoo advice paper object notice engage crouch hotel";
+var mnemonic = "expose orbit dizzy dog sorry spread short segment second mention hero elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "street illness airport because swamp faculty toy behind actual aim holiday globe";
+var mnemonic = "perfect garden venture embody matrix treat oyster cycle unusual nut shock split";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty filter oblige alley cabin divide winter double tuna win host cruise";
+var mnemonic = "master satisfy cream angle sponsor angry wash just siege wrist embody travel";

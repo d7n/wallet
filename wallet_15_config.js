@@ -1,1 +1,1 @@
-var mnemonic = "coral end crash involve puppy biology lounge certain sell beef danger glimpse";
+var mnemonic = "ignore group hat fun engine marine base face mention music scene manual";

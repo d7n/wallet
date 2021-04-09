@@ -1,1 +1,1 @@
-var mnemonic = "eye basic robust hazard museum barely square share orient talk farm final";
+var mnemonic = "subway unable party coin survey punch street canal unique tree depth three";

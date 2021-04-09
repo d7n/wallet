@@ -1,1 +1,1 @@
-var mnemonic = "harbor snap admit foot repeat detect torch gauge frozen truck exist time";
+var mnemonic = "example deal fat october wall maid shallow build meat miss strategy minute";

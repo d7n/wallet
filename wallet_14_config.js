@@ -1,1 +1,1 @@
-var mnemonic = "yard later oppose valley swim recipe enough horse coconut sword project label";
+var mnemonic = "initial own creek turn merry peasant dynamic once dawn agree gauge give";

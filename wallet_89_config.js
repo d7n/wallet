@@ -1,1 +1,1 @@
-var mnemonic = "chaos update snow hat vault clip wire gauge fabric shy gun myth";
+var mnemonic = "jelly possible pitch quality more cloth stumble fiction snap dial inhale royal";

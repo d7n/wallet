@@ -1,1 +1,1 @@
-var mnemonic = "foam thunder hole endless cluster gather edge candy dwarf weasel plunge flat";
+var mnemonic = "believe pig finger planet bright erase spike surprise night escape supply shed";

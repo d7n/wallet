@@ -1,1 +1,1 @@
-var mnemonic = "kid peasant banner chef science soul noodle because crash mammal educate flame";
+var mnemonic = "slight fitness wrap digital benefit enemy crane common airport rack pumpkin drill";

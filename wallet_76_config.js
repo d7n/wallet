@@ -1,1 +1,1 @@
-var mnemonic = "license wish orange lounge club dash tattoo attitude hazard student material budget";
+var mnemonic = "enlist boss orphan topic round all sword assault decline popular game vital";

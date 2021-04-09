@@ -1,1 +1,1 @@
-var mnemonic = "panther error clog search cigar name gossip tuition garden glance squirrel okay";
+var mnemonic = "screen design maple salt profit woman benefit crystal lucky pass mother resist";

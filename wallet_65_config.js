@@ -1,1 +1,1 @@
-var mnemonic = "solution thing alpha trigger hurt run transfer success situate replace clinic dream";
+var mnemonic = "owner cement below inherit kangaroo reopen plate shy tell deny deer picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "select embrace forget together expire pear sort where huge broccoli bundle armed";
+var mnemonic = "skirt frog miss neck diet sample steel gauge ride october proof ignore";

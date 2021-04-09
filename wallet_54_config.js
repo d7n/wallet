@@ -1,1 +1,1 @@
-var mnemonic = "upon sight guard light wrap tunnel trouble tonight fit shy spend grunt";
+var mnemonic = "permit force street skin organ fabric bean table cactus cricket ocean grab";

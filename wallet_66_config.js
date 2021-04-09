@@ -1,1 +1,1 @@
-var mnemonic = "chapter trick boring pottery odor knife mandate luggage apple bachelor eager expect";
+var mnemonic = "cost demise swarm opinion truly napkin plunge birth speak puppy chaos behind";

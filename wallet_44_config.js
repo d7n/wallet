@@ -1,1 +1,1 @@
-var mnemonic = "glimpse city escape squeeze sheriff federal raccoon girl sibling assist million myself";
+var mnemonic = "year actor neglect member protect goat husband sentence knee snack jungle mimic";

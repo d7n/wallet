@@ -1,1 +1,1 @@
-var mnemonic = "damp reason blind bachelor paddle power quantum fever horn miracle genius weapon";
+var mnemonic = "hamster basic degree salute enemy tortoise fiction tongue welcome embrace agent hope";

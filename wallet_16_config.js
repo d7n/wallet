@@ -1,1 +1,1 @@
-var mnemonic = "urge online wear weapon stamp rally sort easily genre relax wood area";
+var mnemonic = "collect clog promote loop repeat math betray lady demise book slush gauge";

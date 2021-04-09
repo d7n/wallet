@@ -1,1 +1,1 @@
-var mnemonic = "crumble confirm diamond isolate blouse shoot tiger taste laugh dinner setup ordinary";
+var mnemonic = "exact include laugh output crack slogan math lyrics affair garden learn rebuild";

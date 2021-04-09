@@ -1,1 +1,1 @@
-var mnemonic = "mutual divorce borrow bind welcome spend goddess stable already shadow trust liquid";
+var mnemonic = "destroy embark badge glimpse lend ice wasp rescue parent rebel stuff come";

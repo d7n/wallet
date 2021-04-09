@@ -1,1 +1,1 @@
-var mnemonic = "rice extend year saddle agree maple slice defense produce correct master gallery";
+var mnemonic = "damage flame critic write box alone area crack ceiling all egg update";

@@ -1,1 +1,1 @@
-var mnemonic = "popular pluck welcome trial pledge trash dose jeans speed owner ignore dream";
+var mnemonic = "choice manual nephew elegant quote strategy chief smart onion hobby grief matrix";

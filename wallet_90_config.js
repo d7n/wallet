@@ -1,1 +1,1 @@
-var mnemonic = "unit brush series just unfair wrap art lunar arena vital network drop";
+var mnemonic = "mutual enough trend essence fee skirt message fog audit know word public";

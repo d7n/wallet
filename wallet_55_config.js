@@ -1,1 +1,1 @@
-var mnemonic = "soft fuel open boil mouse stomach point pizza question struggle thrive only";
+var mnemonic = "barrel hedgehog deer stuff tourist ginger invite slogan elegant festival void tell";

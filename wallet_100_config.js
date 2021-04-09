@@ -1,1 +1,1 @@
-var mnemonic = "minute bunker emerge wear often repeat capital hello buzz lamp ribbon tower";
+var mnemonic = "bus pilot heavy hamster nerve case minor tenant salt dirt certain loop";

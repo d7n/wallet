@@ -1,1 +1,1 @@
-var mnemonic = "remove pelican pond main chalk typical joy girl own garage moral develop";
+var mnemonic = "mammal excess clock soon choose axis about kangaroo gloom buyer airport outside";

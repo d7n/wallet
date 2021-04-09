@@ -1,1 +1,1 @@
-var mnemonic = "stove review entry fee devote eagle material grape coast ordinary mushroom cabbage";
+var mnemonic = "outdoor bone scatter dish pledge affair usage acoustic they eager present roof";

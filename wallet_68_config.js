@@ -1,1 +1,1 @@
-var mnemonic = "sudden attract odor angle blouse boring security oil neck cake present come";
+var mnemonic = "sunny master mouse lift reason cushion thunder offer ball income horse addict";

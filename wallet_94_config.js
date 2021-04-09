@@ -1,1 +1,1 @@
-var mnemonic = "tired win tortoise circle eye club salute proof want rival neutral develop";
+var mnemonic = "transfer glance silver reward crunch shoot frost food liberty satoshi vacuum paper";

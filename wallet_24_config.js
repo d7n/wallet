@@ -1,1 +1,1 @@
-var mnemonic = "lift window immense seven alone easily wood witness payment orange salon actress";
+var mnemonic = "lens penalty saddle scorpion own denial allow nose moral minute speed airport";

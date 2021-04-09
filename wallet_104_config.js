@@ -1,1 +1,1 @@
-var mnemonic = "flower payment soon test disagree town rapid fever verb transfer swamp screen";
+var mnemonic = "private tissue stable idle tobacco kiss road grocery chuckle neutral dash heart";

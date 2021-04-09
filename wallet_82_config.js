@@ -1,1 +1,1 @@
-var mnemonic = "fringe dream afraid impose believe gift elbow super copper tourist roof combine";
+var mnemonic = "minute crane witness series mirror swim route fruit miracle ensure athlete human";

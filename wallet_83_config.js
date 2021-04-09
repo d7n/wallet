@@ -1,1 +1,1 @@
-var mnemonic = "next roast volcano dust gesture dizzy pumpkin peasant radio remind jewel winner";
+var mnemonic = "clay human certain mixture service slide hidden health believe that wife about";

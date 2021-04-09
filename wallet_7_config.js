@@ -1,1 +1,1 @@
-var mnemonic = "distance custom tongue gospel matter soul involve shuffle belt panel weird slogan";
+var mnemonic = "where success pupil rabbit fix recycle enough remind sell eight lake bargain";

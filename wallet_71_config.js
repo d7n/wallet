@@ -1,1 +1,1 @@
-var mnemonic = "spoil engage sudden lady limb major nation like hazard throw wagon glory";
+var mnemonic = "fish hamster need march card never estate yellow anxiety jungle rack donor";

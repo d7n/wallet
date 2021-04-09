@@ -1,1 +1,1 @@
-var mnemonic = "legend canvas kangaroo fire verify pull what final trophy become ahead bright";
+var mnemonic = "rebel public lady update tent inner awake doll sorry tissue ghost oblige";

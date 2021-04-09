@@ -1,1 +1,1 @@
-var mnemonic = "chalk wagon original page govern other beauty hamster okay lawsuit flash essay";
+var mnemonic = "salad fish benefit fresh elegant clock phrase axis giraffe belt manual ahead";

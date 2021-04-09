@@ -1,1 +1,1 @@
-var mnemonic = "poet first symptom burst still romance round helmet write cost yellow coconut";
+var mnemonic = "mansion steak tattoo universe grocery polar jar flee punch duck cinnamon aunt";

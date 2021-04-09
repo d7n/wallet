@@ -1,1 +1,1 @@
-var mnemonic = "guitar type orient guilt credit flush solar harbor object admit analyst file";
+var mnemonic = "flash rely negative antenna aerobic drastic blind canal obtain salute public cargo";

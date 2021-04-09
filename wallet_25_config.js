@@ -1,1 +1,1 @@
-var mnemonic = "spike chronic vital moral forward tunnel traffic wash surface smooth sure panther";
+var mnemonic = "twice humor pitch rescue frost maid neck elephant agree push thought bread";

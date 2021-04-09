@@ -1,1 +1,1 @@
-var mnemonic = "inch that carbon report tone sick engine used sphere latin young photo";
+var mnemonic = "spice detail brain grape avoid radio already grape immune source mutual tribe";

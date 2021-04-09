@@ -1,1 +1,1 @@
-var mnemonic = "people olive note broom course circle kind ask still crucial gravity nest";
+var mnemonic = "muffin invest favorite inhale ecology net random truck ghost initial combine sugar";

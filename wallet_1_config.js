@@ -1,1 +1,1 @@
-var mnemonic = "drastic exact tourist outside absorb prepare quarter because suffer about accuse kiss";
+var mnemonic = "define album hungry disagree hair hub dynamic run about canoe spray wall";

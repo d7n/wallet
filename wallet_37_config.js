@@ -1,1 +1,1 @@
-var mnemonic = "program robust victory step dress nation forward clap step rent trophy shy";
+var mnemonic = "unfold miss always night sell object fold vanish pretty innocent faint view";

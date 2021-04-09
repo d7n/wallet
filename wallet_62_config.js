@@ -1,1 +1,1 @@
-var mnemonic = "bottom sorry embark amazing acid inspire convince midnight crouch film identify harbor";
+var mnemonic = "inch fetch verify enjoy fly lab office divert raw patrol invite valley";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious plate artist release force bright vendor useless width icon trouble void";
+var mnemonic = "fuel mango test cause large reveal heart aunt daring faint display great";

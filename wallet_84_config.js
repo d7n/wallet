@@ -1,1 +1,1 @@
-var mnemonic = "detect visit hungry civil path you risk weasel control make public stamp";
+var mnemonic = "shuffle lion seed life elbow hood exclude method belt nasty arrive buddy";

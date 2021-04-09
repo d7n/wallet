@@ -1,1 +1,1 @@
-var mnemonic = "destroy acquire day street page curtain road steak north fuel soup join";
+var mnemonic = "buyer fox tuna december turn human begin strategy critic dumb conduct come";

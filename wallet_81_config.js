@@ -1,1 +1,1 @@
-var mnemonic = "outdoor opinion spot height unknown cannon forward album treat zero bronze naive";
+var mnemonic = "moral steak submit away idea shine picture jeans skull angle lawsuit course";

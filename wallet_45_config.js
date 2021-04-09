@@ -1,1 +1,1 @@
-var mnemonic = "duty toy mirror dose panic gather service depart know border ridge actor";
+var mnemonic = "reform opera limb work clever palace shine amused beef spell mansion gravity";

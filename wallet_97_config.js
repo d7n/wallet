@@ -1,1 +1,1 @@
-var mnemonic = "elegant mixed ribbon conduct guess absurd country monkey hybrid regular kitten surround";
+var mnemonic = "comic grit stable just emotion chronic aerobic tape bright abuse desk surround";

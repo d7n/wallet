@@ -1,1 +1,1 @@
-var mnemonic = "absorb tip novel leopard best subway glory hundred clarify narrow manual sister";
+var mnemonic = "step garment enforce monkey muffin vocal mystery senior blur absorb derive hub";

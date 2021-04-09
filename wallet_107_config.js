@@ -1,1 +1,1 @@
-var mnemonic = "voice light enforce category dragon ten away hamster explain mountain unusual ring";
+var mnemonic = "strategy people math choose scale paddle brick scrub phrase uniform ethics multiply";

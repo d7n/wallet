@@ -1,1 +1,1 @@
-var mnemonic = "elder seven habit amount abstract juice drama predict alter moral true cargo";
+var mnemonic = "flat cool split simple creek water enlist royal school spoil spice aerobic";
