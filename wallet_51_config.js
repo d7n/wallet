@@ -1,1 +1,1 @@
-var mnemonic = "fabric labor opinion dynamic unable begin topic match twelve undo kit welcome";
+var mnemonic = "forum few focus armor useless young scrub cause bright weather biology blast";

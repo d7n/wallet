@@ -1,1 +1,1 @@
-var mnemonic = "erupt shove neglect jump industry brisk release method strategy chef tobacco inflict";
+var mnemonic = "promote false amount chunk ski settle rapid this cricket hazard cereal setup";

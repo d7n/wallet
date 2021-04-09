@@ -1,1 +1,1 @@
-var mnemonic = "measure sponsor involve brave magnet congress obey later camp tail master nurse";
+var mnemonic = "stick steak fit brother flush target work stadium large federal possible sample";

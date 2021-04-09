@@ -1,1 +1,1 @@
-var mnemonic = "move pave flower negative slogan attend balance minute miracle term nephew already";
+var mnemonic = "palace tortoise mechanic whale fee opinion much violin exotic scare curve oval";

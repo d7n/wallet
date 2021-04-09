@@ -1,1 +1,1 @@
-var mnemonic = "food whisper sport win profit neglect swim target earth liberty orchard bicycle";
+var mnemonic = "quick boil hollow dirt ball able snap wrist column rubber inner cloud";

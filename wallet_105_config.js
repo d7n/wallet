@@ -1,1 +1,1 @@
-var mnemonic = "ginger more improve critic police friend access material plastic used afford develop";
+var mnemonic = "grass diagram struggle lady rose flower fortune orchard prefer pass quality theory";

@@ -1,1 +1,1 @@
-var mnemonic = "play exit minimum negative talent manual immense creek friend gather width barely";
+var mnemonic = "spider same wise list card anger hard debris save fiscal crush suggest";

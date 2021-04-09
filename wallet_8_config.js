@@ -1,1 +1,1 @@
-var mnemonic = "border check bring hill next mention prefer medal depend occur frog treat";
+var mnemonic = "exotic tenant car region gap already sing bounce gather sorry smart marble";

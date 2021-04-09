@@ -1,1 +1,1 @@
-var mnemonic = "surprise plastic primary cost south olive gather seminar gasp spoon brick beach";
+var mnemonic = "nose over okay spike emotion double autumn grow odor wool kite hazard";

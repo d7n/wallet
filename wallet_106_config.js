@@ -1,1 +1,1 @@
-var mnemonic = "alert trap gain position exhaust luggage diesel shell real luxury grit saddle";
+var mnemonic = "enrich direct rural release twenty slush whip divorce network cargo trigger flavor";

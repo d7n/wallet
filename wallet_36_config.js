@@ -1,1 +1,1 @@
-var mnemonic = "october donate rice zero rose doctor body pioneer private skill fault pyramid";
+var mnemonic = "sibling mass plate record rapid cover whip fish bench urban mind magic";

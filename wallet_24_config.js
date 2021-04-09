@@ -1,1 +1,1 @@
-var mnemonic = "tired exercise guide tongue fury exhaust cupboard electric excess bargain miss script";
+var mnemonic = "crime claw old picnic destroy response sure clump anger trigger prevent profit";

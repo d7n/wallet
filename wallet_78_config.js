@@ -1,1 +1,1 @@
-var mnemonic = "shed hidden before report peasant purchase bread you athlete vintage act question";
+var mnemonic = "cute puzzle glad museum north network switch rule cactus cannon bike column";

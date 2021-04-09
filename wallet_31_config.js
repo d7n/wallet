@@ -1,1 +1,1 @@
-var mnemonic = "kite bottom cake awful unit cotton boss cave text volume message easily";
+var mnemonic = "win real paper push like bachelor fold once step fork wink assume";

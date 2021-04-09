@@ -1,1 +1,1 @@
-var mnemonic = "unaware blast artefact consider nothing rigid draft bless pass lock century winter";
+var mnemonic = "sick peanut small dove stairs dress ticket butter demand turkey volcano school";

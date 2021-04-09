@@ -1,1 +1,1 @@
-var mnemonic = "joy display surface hockey shiver tooth into kiss wage vehicle false child";
+var mnemonic = "lucky round vanish breeze thrive expect smart fetch round upset office believe";

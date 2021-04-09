@@ -1,1 +1,1 @@
-var mnemonic = "width medal result kit useless wheat sock discover deal cabin genre result";
+var mnemonic = "awkward suspect panic life twelve bulb catch marble element click lift gas";

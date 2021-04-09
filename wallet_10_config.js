@@ -1,1 +1,1 @@
-var mnemonic = "define name regular hero organ idle culture hammer voyage fabric rack drink";
+var mnemonic = "certain canoe empower cruel pool grocery they toddler junk clock bench beach";

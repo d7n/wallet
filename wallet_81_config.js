@@ -1,1 +1,1 @@
-var mnemonic = "panda issue squirrel mad judge helmet midnight zero mouse device document middle";
+var mnemonic = "inject sentence minute leopard knee there endless negative river venue kiwi power";

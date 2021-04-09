@@ -1,1 +1,1 @@
-var mnemonic = "news crazy canoe double science perfect filter liquid area diesel tornado notice";
+var mnemonic = "reason holiday duty sunny turkey weather cloud uniform open extend curtain whisper";

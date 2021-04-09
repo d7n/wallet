@@ -1,1 +1,1 @@
-var mnemonic = "south ask best lecture shaft notice concert small collect warrior resemble dizzy";
+var mnemonic = "chimney smile swap oppose camp banana peace bus pass pluck juice woman";

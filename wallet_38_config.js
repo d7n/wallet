@@ -1,1 +1,1 @@
-var mnemonic = "mix question museum call allow hand fox develop apple quarter render name";
+var mnemonic = "practice village voyage define fade act valley release favorite outer merge title";

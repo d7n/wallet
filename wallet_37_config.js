@@ -1,1 +1,1 @@
-var mnemonic = "coyote beef vehicle crouch because sense patrol true journey uphold apart ice";
+var mnemonic = "mammal century prosper subway box harbor bind tower office salmon toss stairs";

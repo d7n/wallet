@@ -1,1 +1,1 @@
-var mnemonic = "expand divert pigeon glass festival half buffalo dust supreme agree disorder mystery";
+var mnemonic = "flight bamboo pulse evolve common fiber judge life direct fragile photo game";

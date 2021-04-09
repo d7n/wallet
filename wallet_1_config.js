@@ -1,1 +1,1 @@
-var mnemonic = "minor success upper chief great train garbage want inch dad rail coach";
+var mnemonic = "virus drive whip long provide silly fashion street dial candy early three";

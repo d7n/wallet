@@ -1,1 +1,1 @@
-var mnemonic = "explain cry install utility client demise source type crazy other luxury crumble";
+var mnemonic = "crucial output seek dumb laundry quote agent enable pond decorate judge sleep";

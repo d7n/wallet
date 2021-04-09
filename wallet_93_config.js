@@ -1,1 +1,1 @@
-var mnemonic = "load kitten damp chief surprise screen inner panic connect also theory music";
+var mnemonic = "young squeeze fan toddler ensure elephant solve sunny fitness angle since pig";

@@ -1,1 +1,1 @@
-var mnemonic = "injury prevent animal memory segment response unfair sign invite bird motion goddess";
+var mnemonic = "primary same into style athlete tunnel broccoli suffer version soldier behave jar";

@@ -1,1 +1,1 @@
-var mnemonic = "intact gossip pole beyond myself ball eye foam cross anchor actual supreme";
+var mnemonic = "august upon black sniff liar input despair pistol embody rubber kite audit";

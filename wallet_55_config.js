@@ -1,1 +1,1 @@
-var mnemonic = "prize that street faith raise target smart salt force matrix fury pause";
+var mnemonic = "chaos ostrich slight leg demise fortune hunt catch work skull boss oval";

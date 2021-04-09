@@ -1,1 +1,1 @@
-var mnemonic = "rural decorate eye faculty home dinner tomorrow thought camera kid broken warm";
+var mnemonic = "misery enable head tribe spin sheriff atom replace pride segment boat almost";

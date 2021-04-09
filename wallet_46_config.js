@@ -1,1 +1,1 @@
-var mnemonic = "addict dry harsh hero foster inspire child good lumber coffee style digital";
+var mnemonic = "version angle rent giggle when exist roast hat skirt pigeon teach symbol";

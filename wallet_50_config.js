@@ -1,1 +1,1 @@
-var mnemonic = "violin parrot glad suspect apart scrub cloud husband diet sing canoe order";
+var mnemonic = "butter involve tube wrap myself indicate crazy pupil donor slab style vintage";

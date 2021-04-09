@@ -1,1 +1,1 @@
-var mnemonic = "fun theory immune matrix quote hunt outside joy marriage odor ordinary sport";
+var mnemonic = "purse ordinary economy syrup planet kangaroo essence pigeon damp major aisle unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma addict frozen there early sphere uniform drum turn burst plug same";
+var mnemonic = "air present reward okay member boil unaware cool any rude display when";

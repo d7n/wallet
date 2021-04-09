@@ -1,1 +1,1 @@
-var mnemonic = "physical display chapter defense three buzz transfer tumble cost off giggle excite";
+var mnemonic = "light opera nice bright unknown tissue solve taxi style wage unusual relax";

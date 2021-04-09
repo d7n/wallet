@@ -1,1 +1,1 @@
-var mnemonic = "steel school popular boring sniff school yard scare poverty unaware canyon wrong";
+var mnemonic = "device giant tide retreat pulse banana coffee outside original public napkin easy";

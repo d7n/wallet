@@ -1,1 +1,1 @@
-var mnemonic = "pupil bamboo leave diamond moral trophy possible file miracle media nature blade";
+var mnemonic = "panda smoke hood scene tuna crane few topple rebuild pilot glide welcome";

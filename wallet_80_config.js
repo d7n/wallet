@@ -1,1 +1,1 @@
-var mnemonic = "industry donor plastic sight hair dynamic quantum puzzle soda sail return recipe";
+var mnemonic = "family together impact lunch aerobic miracle suspect guitar more horse pattern mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "over food child chunk wave furnace accuse orchard fog skin churn jacket";
+var mnemonic = "page protect trigger hunt own replace turkey forest when pottery lucky plug";

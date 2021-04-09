@@ -1,1 +1,1 @@
-var mnemonic = "gate venue present harbor naive grunt print vessel unusual mimic more autumn";
+var mnemonic = "memory fork winner analyst desert recipe trim brief burger describe quantum chalk";

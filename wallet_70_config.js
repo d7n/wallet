@@ -1,1 +1,1 @@
-var mnemonic = "elephant egg motion kitten torch mandate brisk occur accuse inmate equal net";
+var mnemonic = "comic myself ocean pudding prevent van orient author expose chicken valley employ";

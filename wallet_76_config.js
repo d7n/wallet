@@ -1,1 +1,1 @@
-var mnemonic = "chat attitude action swap cage deputy water coconut resemble creek pencil deny";
+var mnemonic = "december rotate nut skirt where ripple wheat anxiety wear lawsuit document gap";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse hover climb music doctor filter nation worry saddle detect distance answer";
+var mnemonic = "leaf gaze bless stereo home empower coast dawn wear anxiety seed car";

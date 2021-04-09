@@ -1,1 +1,1 @@
-var mnemonic = "connect high old sing merge grant reduce repair foot fish exit bird";
+var mnemonic = "rotate goose tornado spin pilot cloud worth travel rapid spread kangaroo vast";

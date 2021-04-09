@@ -1,1 +1,1 @@
-var mnemonic = "advice oak forum hurdle private lesson kick spring solution nice annual bread";
+var mnemonic = "cabin two solution predict remove phone buffalo yellow note ranch public blind";

@@ -1,1 +1,1 @@
-var mnemonic = "return only can fetch slender vivid barely various marine orbit useful clock";
+var mnemonic = "diagram struggle gospel cloud tortoise flat security brown supply genius make ranch";

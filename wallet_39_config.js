@@ -1,1 +1,1 @@
-var mnemonic = "elbow material position custom urge pelican fashion air visit private warfare pudding";
+var mnemonic = "uniform walk pride supply copper coin kick ketchup industry right manual daring";

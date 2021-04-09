@@ -1,1 +1,1 @@
-var mnemonic = "elephant rifle reopen join anger ill cancel task air solve step grant";
+var mnemonic = "combine drive derive rabbit hold car novel ordinary faith endless chronic layer";

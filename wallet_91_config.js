@@ -1,1 +1,1 @@
-var mnemonic = "system hidden creek foam angle blind april fade pause unfair series coin";
+var mnemonic = "into change feature describe update trust fetch ignore girl price pigeon idle";

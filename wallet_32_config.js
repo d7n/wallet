@@ -1,1 +1,1 @@
-var mnemonic = "favorite assist chronic jelly faith pretty sausage simple layer exotic trash project";
+var mnemonic = "moment night dose churn stuff level demise suffer ice bonus naive uphold";

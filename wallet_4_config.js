@@ -1,1 +1,1 @@
-var mnemonic = "piano lyrics erosion saddle art wrist final hungry decorate cloth laugh month";
+var mnemonic = "chair nominee rough wolf faint kitten people weird oil wasp title bleak";

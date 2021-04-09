@@ -1,1 +1,1 @@
-var mnemonic = "tray piano net eyebrow identify cousin guilt lesson only two shoe soul";
+var mnemonic = "ensure blind ladder gym wing when citizen fence hamster physical mother suggest";

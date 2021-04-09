@@ -1,1 +1,1 @@
-var mnemonic = "gloom give sibling depth myth artist job lion object lobster oppose gown";
+var mnemonic = "carbon nephew art vicious zoo spot eight fruit curious crawl wet wreck";

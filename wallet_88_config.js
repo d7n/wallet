@@ -1,1 +1,1 @@
-var mnemonic = "diamond wrong where about peanut happy chimney rib pelican error reason spoil";
+var mnemonic = "awkward random process reduce rail elite ready attack team belt harbor goddess";

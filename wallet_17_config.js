@@ -1,1 +1,1 @@
-var mnemonic = "indoor there enough upon spy rigid region toddler ethics attack sell artist";
+var mnemonic = "gap need mad machine fringe stock beauty demise acoustic domain east dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "deny satoshi pretty huge canvas biology ocean begin swift second absent prison";
+var mnemonic = "ketchup kangaroo deer member smoke guilt kingdom between impose chase wood drill";

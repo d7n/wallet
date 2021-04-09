@@ -1,1 +1,1 @@
-var mnemonic = "credit grass invite eight inform ahead cloud measure buffalo wide bag bleak";
+var mnemonic = "impose curve chef ribbon upset senior point filter flight able spatial angry";

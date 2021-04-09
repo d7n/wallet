@@ -1,1 +1,1 @@
-var mnemonic = "fatal wait skin spirit salt glue mango shove jaguar wealth clerk barely";
+var mnemonic = "shield solar able soap decrease urge setup loop crumble know raw flower";

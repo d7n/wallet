@@ -1,1 +1,1 @@
-var mnemonic = "clog situate egg deer mouse cluster sight trigger fury cousin assault ship";
+var mnemonic = "lake spike steak knife mask field humble fashion deal lamp such oval";

@@ -1,1 +1,1 @@
-var mnemonic = "enter answer gate valley bag client truck disease filter useless fire multiply";
+var mnemonic = "whisper tomato column couch gown dry ensure paper space puzzle roof rain";

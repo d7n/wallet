@@ -1,1 +1,1 @@
-var mnemonic = "bread dream wheel educate junk envelope lounge step pistol trap flower laugh";
+var mnemonic = "glare cement agent piano tank runway maple apple sentence boat orient learn";

@@ -1,1 +1,1 @@
-var mnemonic = "spike pride innocent layer empty actual link buddy super state convince have";
+var mnemonic = "riot vocal produce panel three position involve aim noise weekend inch sting";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate bicycle address zoo disorder august club depth receive milk monitor brief";
+var mnemonic = "marine sail canvas family fault poet roof alert lunar voyage stable crack";

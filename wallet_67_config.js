@@ -1,1 +1,1 @@
-var mnemonic = "hundred balance federal panther rib swing satisfy someone bundle shove call harsh";
+var mnemonic = "crazy ready also manage early merge endless lawsuit destroy verify bless health";

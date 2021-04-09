@@ -1,1 +1,1 @@
-var mnemonic = "rare person sample pattern grunt nasty injury artist gift hunt must salon";
+var mnemonic = "sound fitness deputy nurse meadow time someone diagram loyal net motion crowd";

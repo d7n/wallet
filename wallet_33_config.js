@@ -1,1 +1,1 @@
-var mnemonic = "okay belt sudden panic chalk resemble toy sport grow wagon garlic special";
+var mnemonic = "aim sudden click mystery art earn love army digital hamster can solve";

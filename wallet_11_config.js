@@ -1,1 +1,1 @@
-var mnemonic = "remember friend amazing patient amazing coil valid unaware series fiction grass tourist";
+var mnemonic = "luxury stone cluster kit wait settle again once galaxy chalk victory sauce";

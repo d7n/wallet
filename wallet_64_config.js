@@ -1,1 +1,1 @@
-var mnemonic = "net true indoor under sell shock still polar neutral crime educate decade";
+var mnemonic = "grab indicate evil hire airport sound front awesome camera ladder ensure curtain";

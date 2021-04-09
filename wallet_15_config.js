@@ -1,1 +1,1 @@
-var mnemonic = "duck order school elbow sail boost bitter present force design keep symptom";
+var mnemonic = "crew bleak daring biology best effort edge novel chicken breeze edit economy";

@@ -1,1 +1,1 @@
-var mnemonic = "angle already dawn cancel artwork that control control body warrior door blouse";
+var mnemonic = "tube network mango grain enough fence earth evidence real inspire habit capital";

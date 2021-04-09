@@ -1,1 +1,1 @@
-var mnemonic = "sunset poem snack syrup female unaware option deputy wedding foil young force";
+var mnemonic = "bag employ such tonight parade excite canyon file exercise magnet hurdle scissors";

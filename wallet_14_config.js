@@ -1,1 +1,1 @@
-var mnemonic = "fury special exit twice gather member patch hospital include easy pistol network";
+var mnemonic = "document punch ghost toast lyrics lazy radar follow ahead empty erode grow";

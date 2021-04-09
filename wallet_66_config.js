@@ -1,1 +1,1 @@
-var mnemonic = "unhappy innocent find expire tourist van identify sense cereal math often window";
+var mnemonic = "protect theme depart rotate reject rain evoke deliver wear simple race swim";

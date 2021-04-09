@@ -1,1 +1,1 @@
-var mnemonic = "robust produce search fan decide cheap fun chicken horror will build load";
+var mnemonic = "enter amateur top alone month catalog dust nominee code fault habit inflict";

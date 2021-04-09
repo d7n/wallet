@@ -1,1 +1,1 @@
-var mnemonic = "card ghost web globe replace magic observe cash walk fatigue hello first";
+var mnemonic = "receive drill bread license repair proud shed action rice govern tenant peace";

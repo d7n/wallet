@@ -1,1 +1,1 @@
-var mnemonic = "impact blame opera fatigue give road when cliff utility model cabbage gauge";
+var mnemonic = "claw clerk voice volume problem gauge valley cheese tell sunny cherry wife";

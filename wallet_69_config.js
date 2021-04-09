@@ -1,1 +1,1 @@
-var mnemonic = "forward attract hotel enable cactus void dog item portion excuse inform clump";
+var mnemonic = "seat exile shed bargain lamp walnut sadness shell tell embark outdoor stomach";

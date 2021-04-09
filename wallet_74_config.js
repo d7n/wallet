@@ -1,1 +1,1 @@
-var mnemonic = "aisle taxi right excess gentle between prosper clip float snow accuse later";
+var mnemonic = "salad enact actress proof slam near story cigar spoon bubble luxury wave";

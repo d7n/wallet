@@ -1,1 +1,1 @@
-var mnemonic = "enjoy guide update exchange action twelve toast entire genre sibling fashion alone";
+var mnemonic = "glue fantasy erosion below eagle double uncover fish hedgehog upon behave express";

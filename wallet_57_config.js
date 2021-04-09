@@ -1,1 +1,1 @@
-var mnemonic = "frozen involve squirrel comfort treat theme hospital post kind spend matter online";
+var mnemonic = "garlic below rescue ugly shuffle apart material meat abuse harbor position worth";

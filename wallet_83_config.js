@@ -1,1 +1,1 @@
-var mnemonic = "health tone delay total acid help dolphin imitate fault network whisper border";
+var mnemonic = "uniform ethics torch leopard test tuna extra mass method love sail gun";

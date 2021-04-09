@@ -1,1 +1,1 @@
-var mnemonic = "element rally talk lemon cause obtain soap quiz exist boost excuse raccoon";
+var mnemonic = "myself nasty spoil release wing neither helmet machine wise cactus champion dose";

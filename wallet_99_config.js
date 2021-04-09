@@ -1,1 +1,1 @@
-var mnemonic = "resist onion theory clerk sweet world message maple aspect despair toddler three";
+var mnemonic = "fantasy spoil fold hint shock debate write match face pyramid obtain cruel";

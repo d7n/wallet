@@ -1,1 +1,1 @@
-var mnemonic = "aspect arm control tomato toe tribe brand pen desert hawk space short";
+var mnemonic = "leisure consider property edge urban settle emerge myth doctor shove wood fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "anger melody match crash surface online kitten thunder speed live carry harbor";
+var mnemonic = "pave situate animal miss silver left mercy gentle abstract wash account bronze";

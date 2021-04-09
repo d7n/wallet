@@ -1,1 +1,1 @@
-var mnemonic = "future pyramid fiber file staff burger cake thank lottery valley judge together";
+var mnemonic = "head bachelor lyrics since seek myth puppy power method grocery brown twist";

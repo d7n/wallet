@@ -1,1 +1,1 @@
-var mnemonic = "renew exhibit acoustic dice welcome survey yard velvet quick february bar flip";
+var mnemonic = "path chronic club habit neither horse happy salute bunker another reform ecology";

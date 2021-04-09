@@ -1,1 +1,1 @@
-var mnemonic = "roast black basic neglect now news skull near comfort gesture version vivid";
+var mnemonic = "drama bunker upgrade either icon sorry desk tourist prefer bring few faith";
