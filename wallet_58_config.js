@@ -1,1 +1,1 @@
-var mnemonic = "make discover local soon ball travel large have fly capable math net";
+var mnemonic = "bargain junk crisp twin hint air open frequent dolphin disease shadow toe";

@@ -1,1 +1,1 @@
-var mnemonic = "save orient safe cool chair rival endorse alcohol dawn nose place husband";
+var mnemonic = "true donate spoil scrap raccoon tiger ten seven way ahead hurt avocado";

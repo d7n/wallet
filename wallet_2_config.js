@@ -1,1 +1,1 @@
-var mnemonic = "quality glimpse cactus illness napkin hockey bomb neutral expand silly umbrella guard";
+var mnemonic = "bird dry drip broom squeeze trigger filter naive upset exist toy salute";

@@ -1,1 +1,1 @@
-var mnemonic = "bean category render bike catch sadness foot talk expect object produce pony";
+var mnemonic = "trophy announce mechanic army trade detail buzz sibling hobby asthma school exclude";

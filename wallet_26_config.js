@@ -1,1 +1,1 @@
-var mnemonic = "suffer math venture era omit junior remember gadget fade glove ancient arch";
+var mnemonic = "armor cattle salon able improve copper depend limb expand grass stereo blame";

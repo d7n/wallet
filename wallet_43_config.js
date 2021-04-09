@@ -1,1 +1,1 @@
-var mnemonic = "laundry waste universe road sad ball arena glue winter accuse pepper three";
+var mnemonic = "birth arena trap hat proof provide tribe dismiss super critic educate glove";

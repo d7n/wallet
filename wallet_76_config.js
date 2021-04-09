@@ -1,1 +1,1 @@
-var mnemonic = "reason depend swift weather weather genius allow core valid response nuclear miss";
+var mnemonic = "layer upset pave response bridge evil tail maximum acoustic close love vote";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney focus limb march chicken shield make spice two spike demise nose";
+var mnemonic = "keen pupil slight pride economy fabric believe endless melt once guess woman";

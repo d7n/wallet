@@ -1,1 +1,1 @@
-var mnemonic = "loop priority buddy diary burden odor turkey gentle float innocent seek physical";
+var mnemonic = "census cool can toward coin degree clump churn they trial interest easily";

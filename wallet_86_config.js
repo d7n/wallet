@@ -1,1 +1,1 @@
-var mnemonic = "embark addict parrot door screen wealth tone want lion rule render peasant";
+var mnemonic = "credit crystal grab team indoor salmon unaware kind select auction idle smoke";

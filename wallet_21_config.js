@@ -1,1 +1,1 @@
-var mnemonic = "imitate drop prison rapid uncle stove token meadow list this tuna rotate";
+var mnemonic = "genre choose choice hill armed cost boring reward fiscal friend clap run";

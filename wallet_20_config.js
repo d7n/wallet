@@ -1,1 +1,1 @@
-var mnemonic = "satisfy reflect toilet hamster glue sustain census kind float royal inch advance";
+var mnemonic = "fancy afraid skull image mansion already trigger sentence dice outer climb spider";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest valid mirror word rough inhale rain wood coach blame truck horse";
+var mnemonic = "project left aunt library steel inject gorilla turkey girl guilt three universe";

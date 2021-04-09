@@ -1,1 +1,1 @@
-var mnemonic = "focus club decrease half position way grocery trend card crawl satoshi fruit";
+var mnemonic = "tongue attack hole gravity fiction exhibit tennis father coyote open torch hurry";

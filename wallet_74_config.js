@@ -1,1 +1,1 @@
-var mnemonic = "vanish okay fame weapon can bunker hat suffer awesome ranch dial deny";
+var mnemonic = "because stadium void lazy online major egg grocery sleep uncle kiss behave";

@@ -1,1 +1,1 @@
-var mnemonic = "potato luggage layer steak gentle pepper hood way dial casino cradle barely";
+var mnemonic = "teach universe inject please spawn spray rescue base clever diagram coach execute";

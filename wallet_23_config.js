@@ -1,1 +1,1 @@
-var mnemonic = "grid pelican choose plunge capable slender young assume kidney taxi inform ritual";
+var mnemonic = "mask dumb own fitness pill fluid exercise hockey exit engage elephant update";

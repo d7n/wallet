@@ -1,1 +1,1 @@
-var mnemonic = "ocean wreck illegal rigid depend usual brain physical merry child never differ";
+var mnemonic = "elite merry gym fringe novel private question tomato senior nation clerk carry";

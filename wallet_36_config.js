@@ -1,1 +1,1 @@
-var mnemonic = "fury motor symptom airport bounce arrow mirror today draft orchard diet chaos";
+var mnemonic = "shy buffalo rate theme jacket toward pulp nurse mirror coil merge unique";

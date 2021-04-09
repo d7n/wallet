@@ -1,1 +1,1 @@
-var mnemonic = "crazy oblige muffin task accident guard announce fever ring adult piece poverty";
+var mnemonic = "owner vehicle spring shiver attend detect dry pattern security license tattoo hold";

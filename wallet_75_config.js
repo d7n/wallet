@@ -1,1 +1,1 @@
-var mnemonic = "audit lawn drift hybrid runway candy polar actress screen just door walnut";
+var mnemonic = "goddess hidden tilt frame install cereal drop crawl blame shove axis minimum";

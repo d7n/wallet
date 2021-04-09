@@ -1,1 +1,1 @@
-var mnemonic = "square motion coyote reunion happy picture zebra guess impulse picture eagle way";
+var mnemonic = "humble barely attitude submit high pulse exchange debris bind merit draft desk";

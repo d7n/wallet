@@ -1,1 +1,1 @@
-var mnemonic = "trouble stock glory number empty only drive romance own meadow battle mom";
+var mnemonic = "thunder chimney enter potato rack armor mansion devote sound myself resist parent";

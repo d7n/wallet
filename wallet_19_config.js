@@ -1,1 +1,1 @@
-var mnemonic = "purity cactus then salute critic giggle stage spy double they normal select";
+var mnemonic = "grief aunt weekend endorse label actress category sunset adapt fever adjust chef";

@@ -1,1 +1,1 @@
-var mnemonic = "wine town blur window trash liberty melody coach muffin often unfair coyote";
+var mnemonic = "organ swamp taxi lunch emotion initial kiwi artefact cloud carry solution match";

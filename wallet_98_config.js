@@ -1,1 +1,1 @@
-var mnemonic = "shove require visit dress quit drift unaware grain access admit bronze brush";
+var mnemonic = "stay surge worth nothing usage cheese neglect aware few flight mail patient";

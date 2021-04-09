@@ -1,1 +1,1 @@
-var mnemonic = "panda tribe quantum very icon cause powder firm hill round gloom pulp";
+var mnemonic = "ozone render snow island bench orange curious source test next eye uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "fat end vessel priority organ midnight tuna next outside focus gossip miss";
+var mnemonic = "width gather similar lunch duck tumble autumn banana couple device cat injury";

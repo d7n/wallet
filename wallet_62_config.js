@@ -1,1 +1,1 @@
-var mnemonic = "miracle fruit near okay penalty range figure rubber cherry business estate traffic";
+var mnemonic = "cram mango crash spare opera focus truth joy grow cherry naive mother";

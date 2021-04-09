@@ -1,1 +1,1 @@
-var mnemonic = "report cinnamon project offer load label panda person ramp spice copy border";
+var mnemonic = "jump outside tourist extend diagram pipe ritual early skull empower castle pond";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty kiwi fashion marine oil guess ethics palace road idea reunion service";
+var mnemonic = "floor dream approve excess embody six plate crumble build must circle couple";

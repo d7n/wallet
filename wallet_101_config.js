@@ -1,1 +1,1 @@
-var mnemonic = "isolate glow regret shoe brand hello innocent trial lobster pigeon glance recycle";
+var mnemonic = "traffic during palm hub kick common demand joke hard typical vivid normal";

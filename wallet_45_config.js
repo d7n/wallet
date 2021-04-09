@@ -1,1 +1,1 @@
-var mnemonic = "patient crash text daring armed enlist pause recall blouse fog shaft scout";
+var mnemonic = "point broom boss vibrant dish comfort fringe jelly belt cannon panic rigid";

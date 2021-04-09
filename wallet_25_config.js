@@ -1,1 +1,1 @@
-var mnemonic = "joke foil milk imitate among odor famous sting harvest chimney knife flag";
+var mnemonic = "kiss weather tone hold shove exit oil crucial sail input attract upper";

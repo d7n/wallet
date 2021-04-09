@@ -1,1 +1,1 @@
-var mnemonic = "hello derive impulse combine grain truly garbage spare torch degree month rule";
+var mnemonic = "fabric cute dash stay distance floor client adapt saddle riot curve acid";

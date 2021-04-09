@@ -1,1 +1,1 @@
-var mnemonic = "soul drum surprise ankle chest pepper mechanic truth island figure quality giraffe";
+var mnemonic = "payment rotate crack follow weird then inch split birth all rely laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf purchase cabin echo physical hour ostrich whip blame wide beef case";
+var mnemonic = "fancy sniff usual quality february elegant army wait belt mushroom journey omit";

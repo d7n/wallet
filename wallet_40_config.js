@@ -1,1 +1,1 @@
-var mnemonic = "vanish surround drift innocent order hurry father accuse route path monkey stairs";
+var mnemonic = "search audit talk unfold allow venue where canal chair load resist system";

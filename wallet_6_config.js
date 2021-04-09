@@ -1,1 +1,1 @@
-var mnemonic = "frown drive possible question coil sure buddy rug item giraffe ill friend";
+var mnemonic = "key devote lumber sleep income pistol attend three law evil grant neck";

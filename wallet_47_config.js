@@ -1,1 +1,1 @@
-var mnemonic = "trap iron moment move luxury bridge fiction awake cram chat possible clever";
+var mnemonic = "vacuum chuckle liberty response tomato topple feed pottery boil panther media long";

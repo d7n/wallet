@@ -1,1 +1,1 @@
-var mnemonic = "thrive close burger day wisdom tell entire thrive group monitor rapid juice";
+var mnemonic = "wrist baby hard slender across shaft enforce all harbor ladder purity adjust";

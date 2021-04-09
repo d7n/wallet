@@ -1,1 +1,1 @@
-var mnemonic = "group aisle remember humor pass device rabbit shuffle dentist mandate consider raccoon";
+var mnemonic = "master pony unusual unlock cheap process vehicle true assault tower minor column";

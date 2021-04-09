@@ -1,1 +1,1 @@
-var mnemonic = "either laptop emotion service limit august vintage deer disease program oppose room";
+var mnemonic = "enroll weather special hard carry during position enroll agent during high trap";

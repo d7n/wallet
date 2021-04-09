@@ -1,1 +1,1 @@
-var mnemonic = "soda fitness over catalog rescue pig special ostrich gasp sample smart prize";
+var mnemonic = "mystery possible giraffe museum rice soda web drive regular shadow young width";

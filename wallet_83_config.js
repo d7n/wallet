@@ -1,1 +1,1 @@
-var mnemonic = "hidden human genius major ivory ladder mirror firm pen pull rose ask";
+var mnemonic = "random edit shift boat voyage fancy oven chase fence meat apology round";

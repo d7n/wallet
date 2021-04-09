@@ -1,1 +1,1 @@
-var mnemonic = "deposit dwarf dove finger replace height clean faint senior maple face art";
+var mnemonic = "obtain bike core pitch picture just flavor syrup train happy twin horror";

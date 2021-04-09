@@ -1,1 +1,1 @@
-var mnemonic = "tumble fancy hurdle shop motor vague priority citizen turkey armed raven luggage";
+var mnemonic = "amount style group quality inmate filter cousin light model ceiling glance organ";

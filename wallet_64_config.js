@@ -1,1 +1,1 @@
-var mnemonic = "matrix puzzle slice detail chalk shoot fee gorilla cereal soda rhythm distance";
+var mnemonic = "orphan blind tenant salute demand pudding rain pattern devote trash leader shrimp";

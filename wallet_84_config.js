@@ -1,1 +1,1 @@
-var mnemonic = "fossil sentence winter asset leader subway exotic inhale clown letter bar settle";
+var mnemonic = "audit elevator science between chronic butter goat modify still outside hold body";

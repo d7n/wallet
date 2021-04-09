@@ -1,1 +1,1 @@
-var mnemonic = "lesson noodle trust federal day indoor velvet bridge caution camp add useless";
+var mnemonic = "combine unusual grid write valid analyst wonder thank door promote tobacco release";

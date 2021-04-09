@@ -1,1 +1,1 @@
-var mnemonic = "pride basket october next blood oven indoor link pause video knife misery";
+var mnemonic = "task river snap add attack airport sunny effort soul shiver deputy receive";

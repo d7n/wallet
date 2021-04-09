@@ -1,1 +1,1 @@
-var mnemonic = "battle tennis blood zebra various ability retire top online valley forest route";
+var mnemonic = "spoon example shoe decade basic search exhibit switch involve squeeze fuel question";

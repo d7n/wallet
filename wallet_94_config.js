@@ -1,1 +1,1 @@
-var mnemonic = "account priority panel bean great rifle demise work joke sadness awkward weekend";
+var mnemonic = "that also gesture camera loop include local hollow million myth foster vast";

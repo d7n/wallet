@@ -1,1 +1,1 @@
-var mnemonic = "dune company hedgehog unusual clerk thrive easy sleep sign nephew winter engage";
+var mnemonic = "history smoke fatigue capable state insane item simple husband water again tenant";

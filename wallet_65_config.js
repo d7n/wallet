@@ -1,1 +1,1 @@
-var mnemonic = "coil dish inherit globe december mind movie crack blind fatigue glide edit";
+var mnemonic = "crew pilot wrong wagon atom alien miss cargo quantum win length bright";

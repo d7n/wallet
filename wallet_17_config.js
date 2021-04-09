@@ -1,1 +1,1 @@
-var mnemonic = "deposit tree pioneer arrange follow dawn again claw drip initial couch owner";
+var mnemonic = "upgrade flame lecture resist family silver number apart balcony spoon lottery ship";

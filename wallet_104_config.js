@@ -1,1 +1,1 @@
-var mnemonic = "bounce loan puzzle injury neither donate young solution globe chest friend question";
+var mnemonic = "shove wood dismiss bean grass stool prefer glory wild prison jelly young";

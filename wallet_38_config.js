@@ -1,1 +1,1 @@
-var mnemonic = "dignity hazard unable goddess name leaf fabric room shiver muscle true voyage";
+var mnemonic = "country inform open apple staff margin cherry leave shrug debris record mom";

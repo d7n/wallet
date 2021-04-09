@@ -1,1 +1,1 @@
-var mnemonic = "music bus photo drama fitness language vanish purpose sketch furnace visit orbit";
+var mnemonic = "kit wire sun quality burst fruit elevator expect favorite rib canal again";

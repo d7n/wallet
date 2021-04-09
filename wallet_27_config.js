@@ -1,1 +1,1 @@
-var mnemonic = "pair spread win camera remember lock beyond fine news tragic obtain course";
+var mnemonic = "armor skate quarter little slice olive erosion make know season control caution";

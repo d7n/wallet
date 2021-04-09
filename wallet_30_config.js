@@ -1,1 +1,1 @@
-var mnemonic = "vapor chuckle front vivid immune glass carpet ordinary universe torch pizza brisk";
+var mnemonic = "evoke term now install tower pig mercy year mean reason skull tip";

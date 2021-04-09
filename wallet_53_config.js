@@ -1,1 +1,1 @@
-var mnemonic = "clog enforce evil brother force tomato victory stand profit ripple gather stone";
+var mnemonic = "pioneer clutch clever erode suspect define sustain grain evidence possible brush hard";

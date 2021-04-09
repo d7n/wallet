@@ -1,1 +1,1 @@
-var mnemonic = "face wife evolve this misery increase below vendor congress moral goat busy";
+var mnemonic = "call flip ecology cram muffin brick setup frog pelican first struggle coin";

@@ -1,1 +1,1 @@
-var mnemonic = "country fruit banner buffalo carpet kiwi enjoy jelly recipe clutch practice ivory";
+var mnemonic = "unusual palace awful immune simple rhythm shaft thank will grant advice way";

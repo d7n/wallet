@@ -1,1 +1,1 @@
-var mnemonic = "desert wine soup bless magnet sign mansion entry cactus leisure grass space";
+var mnemonic = "start again much garlic language wonder away ride upon glimpse leader extra";

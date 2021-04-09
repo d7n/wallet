@@ -1,1 +1,1 @@
-var mnemonic = "legend proof wire unit youth aunt oval galaxy release click speak rough";
+var mnemonic = "birth cattle bright hard verify clutch improve task frown film movie impact";

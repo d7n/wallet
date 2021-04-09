@@ -1,1 +1,1 @@
-var mnemonic = "turtle swallow fire coach figure capital air perfect expand sick donate attend";
+var mnemonic = "flavor trophy aim diary spare explain tribe one two intact water elite";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare weapon emerge project mimic buffalo thought glove under reward capital detail";
+var mnemonic = "abuse traffic jacket author year celery keen electric patient weapon tennis monitor";

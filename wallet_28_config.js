@@ -1,1 +1,1 @@
-var mnemonic = "gather onion ask canvas long shed festival inmate expand daughter whisper sunny";
+var mnemonic = "addict marriage category favorite radio alter bone chest broom opinion faculty bonus";

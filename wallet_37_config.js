@@ -1,1 +1,1 @@
-var mnemonic = "fee when fashion october hero stamp honey omit sun result unable bubble";
+var mnemonic = "assume relief winter indoor liar vote guard random salad marine cake report";

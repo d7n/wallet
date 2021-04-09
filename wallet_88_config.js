@@ -1,1 +1,1 @@
-var mnemonic = "pink gasp rural follow pool language spoon vicious fan warm kiss core";
+var mnemonic = "hungry whisper aisle morning panther federal dizzy muscle anxiety margin spin practice";

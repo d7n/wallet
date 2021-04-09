@@ -1,1 +1,1 @@
-var mnemonic = "siren divorce sure liquid syrup blouse convince describe wool film canal rigid";
+var mnemonic = "review sample tuition sorry transfer camera defense captain explain pause need make";

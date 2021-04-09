@@ -1,1 +1,1 @@
-var mnemonic = "cup bomb oblige cupboard cat husband idle security admit album pride salt";
+var mnemonic = "delay smile update avocado access size crisp festival rapid improve child dragon";

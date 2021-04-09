@@ -1,1 +1,1 @@
-var mnemonic = "galaxy law pool sight obey rely potato other daughter empty issue athlete";
+var mnemonic = "peanut glory labor animal green witness have tiger improve rice dirt indicate";

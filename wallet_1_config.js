@@ -1,1 +1,1 @@
-var mnemonic = "journey usual weird brother music jacket quarter rain observe diagram thrive jump";
+var mnemonic = "floor term eight judge crouch depart believe situate eyebrow buddy silk pepper";

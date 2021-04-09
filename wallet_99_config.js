@@ -1,1 +1,1 @@
-var mnemonic = "today slam trust into across frost bracket skin grant rely quote acid";
+var mnemonic = "train damp source gauge alley give hover inner auction kingdom inside vendor";

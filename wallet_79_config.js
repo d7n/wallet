@@ -1,1 +1,1 @@
-var mnemonic = "essence pencil bird marble silly grant useful split artist path beef agree";
+var mnemonic = "bunker stumble end corn tennis theme fetch worth summer wedding enforce movie";

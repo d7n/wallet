@@ -1,1 +1,1 @@
-var mnemonic = "tuition version elegant bamboo siege insect nose ridge nest gossip helmet atom";
+var mnemonic = "disagree latin grunt anger trim share helmet giggle identify divorce bread floor";

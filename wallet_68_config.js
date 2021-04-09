@@ -1,1 +1,1 @@
-var mnemonic = "turtle comic wheel earth mansion soul mechanic mandate like label catch force";
+var mnemonic = "street stairs oblige awkward toilet amount collect coach spot wheel spice scissors";

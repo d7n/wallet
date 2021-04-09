@@ -1,1 +1,1 @@
-var mnemonic = "shy style flock course dust radio bless weapon please dad awkward tiny";
+var mnemonic = "hamster short phone law wave donate seminar maximum entire pistol zoo busy";

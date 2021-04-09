@@ -1,1 +1,1 @@
-var mnemonic = "mix day bitter credit smile sadness general cheese rough this royal arena";
+var mnemonic = "gallery record fever flip actress divide switch seminar strategy powder resource hip";

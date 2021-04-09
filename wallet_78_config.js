@@ -1,1 +1,1 @@
-var mnemonic = "include differ grant when dinner major hungry cheap negative ranch spray blush";
+var mnemonic = "blood knock alcohol seven wise lunch two carpet toy illegal gospel cream";

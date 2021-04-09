@@ -1,1 +1,1 @@
-var mnemonic = "crop warm green allow same hundred group wolf next saddle final scrap";
+var mnemonic = "until original wedding gorilla vehicle modify craft want pretty trend fragile chalk";

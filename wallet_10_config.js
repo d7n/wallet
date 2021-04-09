@@ -1,1 +1,1 @@
-var mnemonic = "again about robot inform blue ethics group tuition abuse math fancy laundry";
+var mnemonic = "isolate snake unlock demand hint sister uphold pistol speed puppy sure logic";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney focus slender upgrade stem merry coconut solid differ nuclear december fatigue";
+var mnemonic = "air drama dress foster submit oppose chronic damage sauce question crop lunch";

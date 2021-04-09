@@ -1,1 +1,1 @@
-var mnemonic = "sad rebuild trigger leisure fall taste champion mountain misery autumn thrive bag";
+var mnemonic = "eye veteran crunch earth goose pig test wear tongue trash thunder apple";

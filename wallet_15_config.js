@@ -1,1 +1,1 @@
-var mnemonic = "topple demand weather visit lunar script rely struggle traffic hurdle soul jeans";
+var mnemonic = "sister girl miracle inherit kit ship repeat isolate visa tooth better space";

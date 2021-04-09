@@ -1,1 +1,1 @@
-var mnemonic = "select rain brick foil combine orient crush dwarf nest regret giant panel";
+var mnemonic = "erode conduct pilot dolphin wait elephant zero bundle recipe repeat tent medal";

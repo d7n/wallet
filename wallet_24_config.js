@@ -1,1 +1,1 @@
-var mnemonic = "ginger retire lounge kitten stand slam dry diesel chimney flower omit bacon";
+var mnemonic = "usage traffic path stadium awful engine stereo ball liquid custom where involve";

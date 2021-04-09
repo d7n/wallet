@@ -1,1 +1,1 @@
-var mnemonic = "live pistol cliff various virtual black merge stock code lunch vote crash";
+var mnemonic = "found ordinary fiscal enemy hurdle inject swap that pilot minimum trust mirror";

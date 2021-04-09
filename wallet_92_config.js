@@ -1,1 +1,1 @@
-var mnemonic = "forest illegal ketchup useless tunnel will receive credit furnace brass bulb remain";
+var mnemonic = "festival addict garbage blade test deputy nuclear evoke library estate actual mandate";

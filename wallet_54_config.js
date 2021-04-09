@@ -1,1 +1,1 @@
-var mnemonic = "theory couple know diamond solution style patch syrup sad abandon select sense";
+var mnemonic = "join color rack park logic dream autumn burst output correct release width";

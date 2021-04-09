@@ -1,1 +1,1 @@
-var mnemonic = "gather route impose sister pattern boil oyster depart bless rule club limb";
+var mnemonic = "club air wall believe squirrel fabric inject ahead violin indicate blue joke";

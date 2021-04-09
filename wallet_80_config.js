@@ -1,1 +1,1 @@
-var mnemonic = "polar exit sniff margin expose physical motor surface diary tail weapon blade";
+var mnemonic = "volume curve grocery huge animal view local prepare profit cram notice reveal";

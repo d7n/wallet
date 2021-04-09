@@ -1,1 +1,1 @@
-var mnemonic = "patrol brass bean hat cover track weapon approve alien box sound rally";
+var mnemonic = "theme rack museum edge over bright aim milk rubber scorpion dust calm";
