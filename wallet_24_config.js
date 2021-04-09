@@ -1,1 +1,1 @@
-var mnemonic = "dress toe empty drum slim spatial year winner moon step method wedding";
+var mnemonic = "convince vague garment chronic exile critic learn ethics shift inch attend present";

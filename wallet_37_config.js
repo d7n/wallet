@@ -1,1 +1,1 @@
-var mnemonic = "ocean pair where side scissors unit video surround pledge comic melt spell";
+var mnemonic = "copper safe obey violin either priority forest simple wisdom ignore knee fitness";

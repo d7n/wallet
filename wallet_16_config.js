@@ -1,1 +1,1 @@
-var mnemonic = "stem stumble upset soft update pattern remember marriage day decline clinic repair";
+var mnemonic = "slot tackle year sphere gallery broom youth segment soup mind episode note";

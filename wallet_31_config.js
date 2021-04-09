@@ -1,1 +1,1 @@
-var mnemonic = "until wing cliff frost aspect rabbit wild vacuum light ecology surround wagon";
+var mnemonic = "equip town pencil tiger bomb wear bundle reunion quick practice symptom guess";

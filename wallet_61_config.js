@@ -1,1 +1,1 @@
-var mnemonic = "upgrade room sample notable animal leaf swing monitor tide unusual tree lake";
+var mnemonic = "humor calm hero eight liar profit lecture trim grain sorry hero suffer";

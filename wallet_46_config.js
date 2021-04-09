@@ -1,1 +1,1 @@
-var mnemonic = "harvest absurd aware net tuna list hybrid peace fire first sight marble";
+var mnemonic = "spread glance sadness half inmate insane combine horse rose visit nasty narrow";

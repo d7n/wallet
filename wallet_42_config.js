@@ -1,1 +1,1 @@
-var mnemonic = "twenty weird inject fiscal erase crane muscle task hammer emotion police unhappy";
+var mnemonic = "shrimp van equal echo fox endorse settle gown decrease mention subway crop";

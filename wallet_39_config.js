@@ -1,1 +1,1 @@
-var mnemonic = "annual patient edge access glide bid small artefact chaos anger caught oblige";
+var mnemonic = "flock disorder helmet oblige soft view danger swallow transfer clock neck include";

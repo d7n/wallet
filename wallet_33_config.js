@@ -1,1 +1,1 @@
-var mnemonic = "mercy food muscle clip mass aisle loyal traffic blast van edge reunion";
+var mnemonic = "hawk six ketchup anxiety immune oyster pool mail theme recall forum cat";

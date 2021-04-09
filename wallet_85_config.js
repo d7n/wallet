@@ -1,1 +1,1 @@
-var mnemonic = "lava public remain floor trap path oven cruise frown omit phone energy";
+var mnemonic = "chair panic spray gate play slim team hazard aspect solution bitter auto";

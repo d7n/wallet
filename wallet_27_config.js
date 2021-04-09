@@ -1,1 +1,1 @@
-var mnemonic = "skate resist radar card snake risk quiz toast fancy oyster remember inside";
+var mnemonic = "fruit spider country regret rate chunk hope month jump suspect submit fresh";

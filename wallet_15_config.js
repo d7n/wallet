@@ -1,1 +1,1 @@
-var mnemonic = "nation tongue sphere exhibit rapid crane improve submit muffin hand interest public";
+var mnemonic = "finger stage weird hen stomach aim core leave copy fancy sentence zone";

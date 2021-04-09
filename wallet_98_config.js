@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo around try column budget guess range couch dove spice air hold";
+var mnemonic = "note pulp across season mutual candy cat payment tonight enlist tool stumble";

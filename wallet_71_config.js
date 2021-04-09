@@ -1,1 +1,1 @@
-var mnemonic = "fun couch clog attitude try expose foam finish smile salon garden tomato";
+var mnemonic = "type demand clarify poem chronic battle result garden rally slow deposit coin";

@@ -1,1 +1,1 @@
-var mnemonic = "shine smile small scene run chef bike twice math behave smile gaze";
+var mnemonic = "heart embark fame unit arena soft indicate ensure pet buyer file weather";

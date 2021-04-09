@@ -1,1 +1,1 @@
-var mnemonic = "dad stereo pupil slim cave direct wool champion build elevator direct clump";
+var mnemonic = "alter ten festival quarter view tool noodle fragile hawk suspect poverty route";

@@ -1,1 +1,1 @@
-var mnemonic = "spread outside trap knock beyond that struggle impose trim cabbage width flavor";
+var mnemonic = "sample public puppy bleak kit avocado rapid agree able club call make";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano drink common orient wheat dream roast arena deny squirrel index joy";
+var mnemonic = "gold ostrich vehicle rack hello wall ancient power gown fat level sail";

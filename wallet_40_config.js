@@ -1,1 +1,1 @@
-var mnemonic = "brick sadness lucky pattern memory bless diesel talent crazy wild ability sausage";
+var mnemonic = "mountain scheme kingdom print taste plate rug hard lemon notable cash rate";

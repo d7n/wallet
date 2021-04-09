@@ -1,1 +1,1 @@
-var mnemonic = "door task share drive guard gap mercy excite survey oven chalk birth";
+var mnemonic = "network wall cool dentist candy distance ranch thought clog pony fly reunion";

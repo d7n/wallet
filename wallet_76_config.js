@@ -1,1 +1,1 @@
-var mnemonic = "dumb gravity horror physical portion company tongue kitten shiver film satisfy into";
+var mnemonic = "test tiger quality spend describe film oil thank saddle parade nuclear huge";

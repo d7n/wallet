@@ -1,1 +1,1 @@
-var mnemonic = "element bird minor wire goat soccer concert service wash choice banner pear";
+var mnemonic = "hour other toddler cliff lady couple barely alone know load local output";

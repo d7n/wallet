@@ -1,1 +1,1 @@
-var mnemonic = "junk more spike unique solar door notable inmate tortoise merit just burger";
+var mnemonic = "judge truth elite segment vessel pilot cross control work inquiry federal business";

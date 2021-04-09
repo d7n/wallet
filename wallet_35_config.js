@@ -1,1 +1,1 @@
-var mnemonic = "dwarf guess autumn hole rice jewel huge bulk transfer blade grief welcome";
+var mnemonic = "road spend little walk cook cover click paddle wise build oven throw";

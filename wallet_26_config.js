@@ -1,1 +1,1 @@
-var mnemonic = "true swamp actress juice busy shadow shuffle ahead enact tip daring broken";
+var mnemonic = "blue october tribe banana already hawk guess pluck travel innocent pistol arrow";

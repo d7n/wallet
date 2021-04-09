@@ -1,1 +1,1 @@
-var mnemonic = "answer together window pulse toilet nose few screen frame denial license gap";
+var mnemonic = "ticket burst busy diesel hedgehog suggest mutual neither dismiss grain shell inside";

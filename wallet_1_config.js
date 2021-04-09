@@ -1,1 +1,1 @@
-var mnemonic = "close nurse strategy yard mesh machine neglect october blue dash wood firm";
+var mnemonic = "leave toss train dumb unfair cluster version town worry horn submit also";

@@ -1,1 +1,1 @@
-var mnemonic = "attend basket salt scorpion fragile social emotion fiscal symbol artefact wife thank";
+var mnemonic = "truth garlic drama girl napkin piano inch town chunk reduce disorder avoid";

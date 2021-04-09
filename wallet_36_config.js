@@ -1,1 +1,1 @@
-var mnemonic = "slice turkey goddess grit siege outer grit alarm option seek civil come";
+var mnemonic = "grow skin hard between fatal lab diesel awake luggage digital boat peace";

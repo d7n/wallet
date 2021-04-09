@@ -1,1 +1,1 @@
-var mnemonic = "solid long ring dose nest famous bubble author eight armor matter retire";
+var mnemonic = "blame sound legal report wood woman swing whip jump tattoo forest puzzle";

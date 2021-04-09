@@ -1,1 +1,1 @@
-var mnemonic = "social clinic buffalo birth bridge acquire tunnel dwarf fetch argue inherit search";
+var mnemonic = "oxygen exclude silent special puzzle tide diet gym pupil dove foster dad";

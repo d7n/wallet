@@ -1,1 +1,1 @@
-var mnemonic = "coyote share put hockey almost twin ghost initial wife quiz year they";
+var mnemonic = "flight ensure indoor blur merry loyal false next walk bronze news salmon";

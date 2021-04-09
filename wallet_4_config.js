@@ -1,1 +1,1 @@
-var mnemonic = "oppose drink mention receive capital recycle bench vicious trip liquid window diet";
+var mnemonic = "ship scout exercise manual main unaware robot gap cricket pepper bullet learn";

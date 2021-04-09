@@ -1,1 +1,1 @@
-var mnemonic = "sponsor toy section poverty wood vapor aunt uniform unfold dizzy thought strong";
+var mnemonic = "little carpet spray sleep proud amateur height use mixed proud pair repair";

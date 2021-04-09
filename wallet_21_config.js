@@ -1,1 +1,1 @@
-var mnemonic = "must tourist tonight group type iron seed another spot gun female athlete";
+var mnemonic = "mouse bargain fancy cabin they inch manual candy coin room prepare bright";

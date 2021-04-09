@@ -1,1 +1,1 @@
-var mnemonic = "arrange payment sadness magnet gain flavor caught notable poem right orphan tip";
+var mnemonic = "budget bonus balcony useless kidney you bar distance wisdom ahead stone salt";

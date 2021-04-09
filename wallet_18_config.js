@@ -1,1 +1,1 @@
-var mnemonic = "you plastic olive improve fork north warm arrow legend right tape sting";
+var mnemonic = "lab alone include vivid afraid boat primary ability action benefit energy clown";

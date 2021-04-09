@@ -1,1 +1,1 @@
-var mnemonic = "final ahead wave soul unusual bamboo cabin galaxy rain tenant hen ridge";
+var mnemonic = "salmon peasant life favorite toilet egg correct flag twist drip when decline";

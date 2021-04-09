@@ -1,1 +1,1 @@
-var mnemonic = "evidence few develop flush size image fruit next either sponsor trade theory";
+var mnemonic = "bullet improve candy drift owner west humble invest pole talent sister wolf";

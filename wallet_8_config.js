@@ -1,1 +1,1 @@
-var mnemonic = "stable discover patrol boat metal pulse stage cancel daughter account dish win";
+var mnemonic = "monster cost absent employ depart dice crouch exit amazing together same smart";

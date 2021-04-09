@@ -1,1 +1,1 @@
-var mnemonic = "address thought cargo put wonder doctor gaze sell field seat merge radar";
+var mnemonic = "burger expire grass solar heavy keen gift fun auction also abuse uncle";

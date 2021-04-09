@@ -1,1 +1,1 @@
-var mnemonic = "allow fantasy awkward warm scale home derive situate poem wonder brisk vault";
+var mnemonic = "priority hero voice battle diamond shock wash lizard fever patch burst science";

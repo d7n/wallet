@@ -1,1 +1,1 @@
-var mnemonic = "body climb shoot scare describe again pepper invest prison dress basket catch";
+var mnemonic = "avoid hungry weather swear inner second potato habit click rival risk ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit vague engage boy art joy history toe sport useless romance orient";
+var mnemonic = "twist fence eyebrow budget joy climb someone hover taxi normal napkin often";

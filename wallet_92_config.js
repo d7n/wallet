@@ -1,1 +1,1 @@
-var mnemonic = "tape memory lock flag give unlock catalog worry bus trophy course oxygen";
+var mnemonic = "leisure pattern mask attack motion brain club write swift fly member column";

@@ -1,1 +1,1 @@
-var mnemonic = "section dry drift error flush proof eye pottery private federal mixed choose";
+var mnemonic = "hockey blade crew weather media include lake pool genius quote jump rhythm";

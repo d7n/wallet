@@ -1,1 +1,1 @@
-var mnemonic = "height shove fetch fresh iron pony sample elder muffin cross amazing unfair";
+var mnemonic = "throw divorce shift indicate north outside fat buyer stomach eye alpha civil";

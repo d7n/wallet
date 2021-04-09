@@ -1,1 +1,1 @@
-var mnemonic = "desk warfare couple grow butter exile since scrub tumble absent hidden sun";
+var mnemonic = "gap waste radar property provide galaxy old lift flag antenna shallow fringe";

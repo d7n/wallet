@@ -1,1 +1,1 @@
-var mnemonic = "acoustic angry mystery stable bus finger trigger cherry wing play cause find";
+var mnemonic = "six poverty powder steak tenant fantasy rural taste brush warm claw quote";

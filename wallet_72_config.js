@@ -1,1 +1,1 @@
-var mnemonic = "begin state ripple wave cherry miss double axis daring video turkey crack";
+var mnemonic = "infant trash glue echo arrive scissors defense erase sword prosper crack public";

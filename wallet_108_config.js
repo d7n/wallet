@@ -1,1 +1,1 @@
-var mnemonic = "loyal chaos two speed tube title wish joy supreme alert reject door";
+var mnemonic = "mansion duck medal fly tissue balance poem roast boy hybrid damage mimic";

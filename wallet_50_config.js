@@ -1,1 +1,1 @@
-var mnemonic = "simple tuna globe book churn limit swim embark drama wrap apology liquid";
+var mnemonic = "gadget frame lens lava tape omit metal profit merry fox unique trend";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve shrug fatigue vacant bracket egg spirit pool jazz transfer slender betray";
+var mnemonic = "inside lawsuit kid say nerve alley auto junk celery volcano chair calm";

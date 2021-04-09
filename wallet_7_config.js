@@ -1,1 +1,1 @@
-var mnemonic = "boost embark still kingdom idle ancient apple horror credit message clever relief";
+var mnemonic = "curve axis donkey shrug ankle argue town ring finger estate bubble mirror";

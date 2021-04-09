@@ -1,1 +1,1 @@
-var mnemonic = "expand student fiscal creek dance minute bar badge return genuine foster shadow";
+var mnemonic = "crime erosion swim baby choose biology wrestle swim feel crisp midnight injury";

@@ -1,1 +1,1 @@
-var mnemonic = "defense clutch public surge balcony jelly elevator elite sponsor leopard torch symbol";
+var mnemonic = "price charge wrist crucial soft celery chimney park cart assist tumble rifle";

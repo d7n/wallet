@@ -1,1 +1,1 @@
-var mnemonic = "learn open join ensure that nose dinner glove garbage lottery reason south";
+var mnemonic = "canyon raise scene gather settle suit fatal example funny twin scheme topple";

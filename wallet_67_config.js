@@ -1,1 +1,1 @@
-var mnemonic = "salmon search library slight slam stuff endorse evoke direct flash twelve pumpkin";
+var mnemonic = "best tent board walk apology ceiling comic biology fiction document slot dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "giant glow work dirt arm panther theme enough market adapt anxiety acid";
+var mnemonic = "wrong tongue jealous blood depart ceiling physical excuse vocal milk love label";

@@ -1,1 +1,1 @@
-var mnemonic = "animal auction moment steak snake gain scrub income car celery wave drive";
+var mnemonic = "crew blade uniform crunch become grid auction satisfy move fault cart road";

@@ -1,1 +1,1 @@
-var mnemonic = "knife beauty image galaxy clay enter hawk local column cause decrease move";
+var mnemonic = "trigger upgrade chronic talk leg diesel offer carpet lizard worth echo wine";

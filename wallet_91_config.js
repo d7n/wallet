@@ -1,1 +1,1 @@
-var mnemonic = "pink mystery table happy cross avocado summer stay curious raw long fox";
+var mnemonic = "cry pet ten whip plate symptom expect have glare staff slight beach";

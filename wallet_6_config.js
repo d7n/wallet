@@ -1,1 +1,1 @@
-var mnemonic = "replace connect rib october tattoo pass stomach exhaust inner say legend edit";
+var mnemonic = "gallery outdoor finger account host knock whisper best victory because pond fog";

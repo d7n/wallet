@@ -1,1 +1,1 @@
-var mnemonic = "improve obvious soldier clever subway cigar cupboard news bleak food elevator skirt";
+var mnemonic = "grit people stay witness cruise busy ostrich evil promote material lazy pool";

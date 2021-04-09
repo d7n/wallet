@@ -1,1 +1,1 @@
-var mnemonic = "million that tiny bind violin matter quick remove rice gun funny rival";
+var mnemonic = "seven they crazy captain record grab fall warfare universe shove zoo polar";

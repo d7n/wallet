@@ -1,1 +1,1 @@
-var mnemonic = "lumber cart machine manual indicate catch message juice orange milk prevent luggage";
+var mnemonic = "result twist cheese estate glue credit brother shed coral slide wish balcony";

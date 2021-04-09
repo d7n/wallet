@@ -1,1 +1,1 @@
-var mnemonic = "length gloom omit apology lobster hobby nominee arctic fashion intact marble vicious";
+var mnemonic = "old physical pumpkin great evolve any wash boat upon lemon leopard correct";

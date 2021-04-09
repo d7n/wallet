@@ -1,1 +1,1 @@
-var mnemonic = "small group leader near illegal cliff weasel citizen collect mobile rude enlist";
+var mnemonic = "tuition dash divide mixed better silver cement purchase convince path flower trim";

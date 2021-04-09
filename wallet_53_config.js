@@ -1,1 +1,1 @@
-var mnemonic = "battle kiss behave tail blossom airport husband scissors next struggle limit chest";
+var mnemonic = "inform ranch again remain crawl parrot guess usual affair empower move truck";

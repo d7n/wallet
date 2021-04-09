@@ -1,1 +1,1 @@
-var mnemonic = "fresh badge jaguar april van shine kind rich team olympic trade indicate";
+var mnemonic = "october purpose tower surround front holiday add unlock dinner increase humble poem";

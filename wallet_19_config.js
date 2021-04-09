@@ -1,1 +1,1 @@
-var mnemonic = "chef deliver hawk flush abandon fancy liberty undo confirm protect wasp title";
+var mnemonic = "echo street cannon craft detail barely alien decide farm riot divert cheap";

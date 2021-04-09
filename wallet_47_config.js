@@ -1,1 +1,1 @@
-var mnemonic = "animal wide slush bottom work unlock split rebel mansion primary valley place";
+var mnemonic = "curious holiday spoon coin usual flame drum umbrella wedding mistake filter anxiety";

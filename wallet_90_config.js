@@ -1,1 +1,1 @@
-var mnemonic = "arctic provide reopen theory fly balcony action negative easily calm increase bubble";
+var mnemonic = "matter where crime plastic artwork glide boil angle canoe purse funny negative";

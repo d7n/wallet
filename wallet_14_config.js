@@ -1,1 +1,1 @@
-var mnemonic = "afraid comic kite shuffle pioneer amateur fork diet detail photo supply rebel";
+var mnemonic = "infant empty palm manage glare merge basket mixed valley buffalo seek lemon";

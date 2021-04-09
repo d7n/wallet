@@ -1,1 +1,1 @@
-var mnemonic = "lyrics lyrics evoke faith render code nose dad impact electric maze wagon";
+var mnemonic = "journey absurd select maximum maze south devote whale brass palm hockey parent";

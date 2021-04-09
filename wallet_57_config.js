@@ -1,1 +1,1 @@
-var mnemonic = "spread tennis bind divide bunker borrow catalog humble fox ritual latin project";
+var mnemonic = "coin brother involve grit humble lucky shock wasp cousin oxygen agent produce";

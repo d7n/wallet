@@ -1,1 +1,1 @@
-var mnemonic = "strike hover crater industry gown sentence eagle stone tackle panda popular write";
+var mnemonic = "matter journey better nature amateur income room random valve vapor hammer horror";

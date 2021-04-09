@@ -1,1 +1,1 @@
-var mnemonic = "sunset inch swamp owner gravity praise stick idea kitten couple toddler dilemma";
+var mnemonic = "dust athlete climb orient shed feature oppose damp trap bone stool call";

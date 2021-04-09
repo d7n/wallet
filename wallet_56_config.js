@@ -1,1 +1,1 @@
-var mnemonic = "rare peace inner hair evoke provide pull correct industry charge scheme mean";
+var mnemonic = "camera vibrant basket van fortune satisfy pole can hotel group unit build";

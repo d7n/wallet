@@ -1,1 +1,1 @@
-var mnemonic = "rhythm syrup what above match brother swing practice all actual banner brick";
+var mnemonic = "wait silly credit luxury clump cricket surprise mushroom bulb innocent easily unfair";

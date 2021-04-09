@@ -1,1 +1,1 @@
-var mnemonic = "maze custom matrix truth female wing garlic rotate century dentist number laptop";
+var mnemonic = "divert spider tourist immune foster sweet feature lunch slow asset keep cigar";

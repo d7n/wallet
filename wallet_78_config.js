@@ -1,1 +1,1 @@
-var mnemonic = "pole utility squeeze fluid never charge genuine prevent garden rug embody kit";
+var mnemonic = "neutral hotel twelve distance resemble easily thought scorpion train useless story wide";

@@ -1,1 +1,1 @@
-var mnemonic = "loud birth route scan deal notable ripple there fish envelope universe wet";
+var mnemonic = "night elephant index deer nice never brother enrich credit shift scrap century";

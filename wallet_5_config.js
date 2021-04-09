@@ -1,1 +1,1 @@
-var mnemonic = "atom prevent sauce release bread valid source hill valid business benefit cover";
+var mnemonic = "list draft notice enhance enforce scene unfair ketchup run portion picture claim";

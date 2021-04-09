@@ -1,1 +1,1 @@
-var mnemonic = "aisle network lab orbit response rent swing dish tool tortoise twin text";
+var mnemonic = "credit ghost swing essay ability bounce mistake reflect wheel benefit segment obscure";

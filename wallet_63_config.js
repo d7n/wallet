@@ -1,1 +1,1 @@
-var mnemonic = "round fault prepare reveal boost dragon govern recipe swing sting issue embrace";
+var mnemonic = "link right sleep loan exclude bicycle sleep odor faith cry uniform degree";

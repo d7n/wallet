@@ -1,1 +1,1 @@
-var mnemonic = "flat tent kingdom moment cable high spoil guitar core goat knee leaf";
+var mnemonic = "orchard wing tunnel page eye flee double describe lady can cigar since";

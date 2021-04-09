@@ -1,1 +1,1 @@
-var mnemonic = "knee element piece vocal blue waste body quality muscle miss mansion acoustic";
+var mnemonic = "final pelican odor estate attitude thought father foam recall bachelor room cheap";

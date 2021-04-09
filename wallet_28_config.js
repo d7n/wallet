@@ -1,1 +1,1 @@
-var mnemonic = "heavy client later pole guard lava main fish tobacco ethics coil outer";
+var mnemonic = "usage kit kitchen multiply piece neither fringe educate frame trophy domain piece";

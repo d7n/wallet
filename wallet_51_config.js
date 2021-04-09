@@ -1,1 +1,1 @@
-var mnemonic = "lobster fossil wheat arena diet twist soon wheat solve begin coast legal";
+var mnemonic = "organ expand render oval license school unaware shine orient token guard arrow";

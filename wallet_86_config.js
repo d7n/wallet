@@ -1,1 +1,1 @@
-var mnemonic = "life idea gloom sister minor melody slender skin three adult present high";
+var mnemonic = "grape album oxygen canvas ivory twin rare enact either sell reform erupt";

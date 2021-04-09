@@ -1,1 +1,1 @@
-var mnemonic = "cousin omit cool reward divert fringe bless turn team inform mail various";
+var mnemonic = "zero raw hurry carry toast shuffle flame genius cycle that air original";
