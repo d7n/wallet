@@ -1,1 +1,1 @@
-var mnemonic = "poet control hazard photo jazz where distance pluck enemy entire giggle final";
+var mnemonic = "interest unhappy trouble chase hockey object excite base need electric much image";

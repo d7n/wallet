@@ -1,1 +1,1 @@
-var mnemonic = "gorilla cliff base universe diesel remember cave jelly shallow junk enough opinion";
+var mnemonic = "chair taxi leisure find ill lesson fossil bless garbage rely minor cable";

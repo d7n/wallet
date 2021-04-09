@@ -1,1 +1,1 @@
-var mnemonic = "false pact remove penalty east pair high cave combine symptom custom scale";
+var mnemonic = "glory crystal call boss middle ignore sibling elite story suggest mixture talk";

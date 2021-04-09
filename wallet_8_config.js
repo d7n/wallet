@@ -1,1 +1,1 @@
-var mnemonic = "what trial refuse dash total scissors office harsh ill forum attack delay";
+var mnemonic = "chair damp memory brass chalk shine prize save paper choice arrange model";

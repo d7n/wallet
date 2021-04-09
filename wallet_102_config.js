@@ -1,1 +1,1 @@
-var mnemonic = "note year silent coast hub excuse marine mixture cash couch throw later";
+var mnemonic = "differ duck match off primary marble paper core cart kidney script feature";

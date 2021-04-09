@@ -1,1 +1,1 @@
-var mnemonic = "fashion actress citizen shoe advice sting guide business bubble light enter lecture";
+var mnemonic = "coyote girl author length soup across tape pull thunder nose arch erase";

@@ -1,1 +1,1 @@
-var mnemonic = "snow bulb deposit angry warfare odor stereo bundle acoustic skill heavy elbow";
+var mnemonic = "thank scrub basic hurt order ankle frown tower tuna hollow sister various";

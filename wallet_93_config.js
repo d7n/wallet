@@ -1,1 +1,1 @@
-var mnemonic = "pilot escape salad wedding chicken confirm olive between analyst citizen face lesson";
+var mnemonic = "cousin odor stairs jealous gasp blouse decide onion wild junk color badge";

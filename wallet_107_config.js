@@ -1,1 +1,1 @@
-var mnemonic = "surge rude gym despair grief raven stable argue cabin piece voice word";
+var mnemonic = "leg night hope tone point genius wait vocal together defy winner race";

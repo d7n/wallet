@@ -1,1 +1,1 @@
-var mnemonic = "pottery addict surprise couch witness wheat toast year stumble fortune sustain stick";
+var mnemonic = "mad volume eye powder female click wrist civil wasp march slab retreat";

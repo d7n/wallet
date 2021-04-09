@@ -1,1 +1,1 @@
-var mnemonic = "sound reject lounge satoshi anxiety family tenant smooth behave salute film switch";
+var mnemonic = "worth illness kiwi various exotic mandate fault dirt please extra sniff subway";

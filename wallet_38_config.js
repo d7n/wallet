@@ -1,1 +1,1 @@
-var mnemonic = "nominee turkey novel become shy dolphin exhaust hood you moon concert book";
+var mnemonic = "dune desk shiver promote orchard evidence now apple fury mansion volume business";

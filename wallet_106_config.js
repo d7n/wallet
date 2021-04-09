@@ -1,1 +1,1 @@
-var mnemonic = "badge purpose negative globe satoshi smart twist wrestle song reward follow snack";
+var mnemonic = "quick tank mistake essence heart attend element blind pond curtain mind gather";

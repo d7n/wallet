@@ -1,1 +1,1 @@
-var mnemonic = "copper cover dutch result canyon later almost used inhale tent shoe daughter";
+var mnemonic = "face suffer dolphin today slush country build begin luggage number uncle army";

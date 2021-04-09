@@ -1,1 +1,1 @@
-var mnemonic = "marble rebel search fortune card usage crash say scorpion depend crisp special";
+var mnemonic = "plunge digital anxiety page other shrug ranch piece vocal hat panther note";

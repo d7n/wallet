@@ -1,1 +1,1 @@
-var mnemonic = "sweet chuckle category orphan retreat potato rug shadow monitor domain input wage";
+var mnemonic = "cover wall humble fluid favorite top roof dirt monkey whale disorder spider";

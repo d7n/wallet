@@ -1,1 +1,1 @@
-var mnemonic = "drama sibling super now pass lucky cargo subway fiber again surround stuff";
+var mnemonic = "economy bird write ticket gain destroy render raccoon timber bench unfold jaguar";

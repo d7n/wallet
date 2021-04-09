@@ -1,1 +1,1 @@
-var mnemonic = "text enter rookie onion expect small biology taxi march deposit tackle gift";
+var mnemonic = "nominee goddess wise guilt vanish acoustic find slam orange inflict sense knee";

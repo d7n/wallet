@@ -1,1 +1,1 @@
-var mnemonic = "version bench ivory high famous erode recipe rival over piece enroll cake";
+var mnemonic = "often false mouse mask supply total hero security student aware badge super";

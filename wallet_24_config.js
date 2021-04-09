@@ -1,1 +1,1 @@
-var mnemonic = "local chuckle student quantum monster shed radio update stereo virus dilemma novel";
+var mnemonic = "teach loan auction scorpion mammal gas foil web spice sad wedding virtual";

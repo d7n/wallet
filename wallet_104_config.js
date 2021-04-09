@@ -1,1 +1,1 @@
-var mnemonic = "parent cigar winter truly moral treat barrel book neglect hybrid athlete embrace";
+var mnemonic = "letter weird envelope buzz lounge easy run father rather suggest hamster normal";

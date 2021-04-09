@@ -1,1 +1,1 @@
-var mnemonic = "melt mechanic skill nominee defy private exit loud share clever arrow fall";
+var mnemonic = "quarter mind retreat benefit invite snow round sick toddler aerobic spread section";

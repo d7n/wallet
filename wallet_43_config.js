@@ -1,1 +1,1 @@
-var mnemonic = "earth feel maid wait cycle fog exile country wish nothing bachelor lawn";
+var mnemonic = "shrug dragon hockey venue garment object renew drama flush endless paper puzzle";

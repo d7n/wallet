@@ -1,1 +1,1 @@
-var mnemonic = "once message crater advice universe donate shine click inspire soldier explain blue";
+var mnemonic = "reveal toy cream dragon onion mystery woman rule void wild title window";

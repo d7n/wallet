@@ -1,1 +1,1 @@
-var mnemonic = "pen light venue arrange pencil silly depart snow chimney upon junior firm";
+var mnemonic = "dirt minimum flat wheel again require banner mechanic latin before paper into";

@@ -1,1 +1,1 @@
-var mnemonic = "birth suffer tide crime twelve library sun evidence target mule purchase day";
+var mnemonic = "owner tag later slam true system track denial wasp extend envelope elevator";

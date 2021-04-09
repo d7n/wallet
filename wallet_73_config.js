@@ -1,1 +1,1 @@
-var mnemonic = "pause celery club sister abandon net three basic nothing evoke tourist hawk";
+var mnemonic = "above memory cinnamon disagree ski dinosaur sick physical whip general hotel main";

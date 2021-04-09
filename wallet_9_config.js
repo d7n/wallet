@@ -1,1 +1,1 @@
-var mnemonic = "mail sunset betray head benefit author east sibling desert today old stairs";
+var mnemonic = "input bounce quote tail garage heart rent bus favorite flush response fold";

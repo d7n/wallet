@@ -1,1 +1,1 @@
-var mnemonic = "brand salute belt august scorpion spend expect web injury traffic group notice";
+var mnemonic = "urban hamster fault seed naive shine daughter rubber whisper base crash update";

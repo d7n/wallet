@@ -1,1 +1,1 @@
-var mnemonic = "fat busy symbol board neither bitter engine near tone doctor impulse real";
+var mnemonic = "burger hint fork sheriff zone globe fish link spirit chunk tunnel diary";

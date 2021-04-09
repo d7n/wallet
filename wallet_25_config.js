@@ -1,1 +1,1 @@
-var mnemonic = "boring crime alter swear begin fence fix patient fever menu fog knock";
+var mnemonic = "online father nurse knock pyramid artwork jeans debris arrow artist three only";

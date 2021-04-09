@@ -1,1 +1,1 @@
-var mnemonic = "orient humble mystery awesome correct hair wish scorpion rent private gauge misery";
+var mnemonic = "axis steel box asset noodle ritual person girl enough glow toilet uncover";

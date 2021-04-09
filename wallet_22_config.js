@@ -1,1 +1,1 @@
-var mnemonic = "ritual blouse fix north curve save crowd power tackle drive donate year";
+var mnemonic = "coast critic fatal ceiling step material bone expect mom tennis hundred pipe";

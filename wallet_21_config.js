@@ -1,1 +1,1 @@
-var mnemonic = "awesome tray mango what garlic seat live belt predict net bitter thunder";
+var mnemonic = "velvet forget hover april mobile order flight gather shell language bleak knife";

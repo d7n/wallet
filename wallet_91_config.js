@@ -1,1 +1,1 @@
-var mnemonic = "hockey oppose occur february labor depth member deal lunch spend ask keep";
+var mnemonic = "awesome ill gather dad link perfect guide ability double aim afford million";

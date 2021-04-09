@@ -1,1 +1,1 @@
-var mnemonic = "submit rescue sustain sample fiscal badge castle mass sniff cherry abstract zone";
+var mnemonic = "wreck wet unusual since fiscal wage inform fog swarm quality burden voice";

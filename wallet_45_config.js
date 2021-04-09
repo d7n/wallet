@@ -1,1 +1,1 @@
-var mnemonic = "lottery indicate flavor wife behave involve family sunset album nest picnic silver";
+var mnemonic = "defense okay veteran need perfect sweet ice exit aerobic catch laptop boy";

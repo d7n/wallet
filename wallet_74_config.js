@@ -1,1 +1,1 @@
-var mnemonic = "chair flash blood ship copy tent danger remind maid ride display payment";
+var mnemonic = "air must flee aware rubber drastic fix dust grant breeze egg sing";

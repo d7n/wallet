@@ -1,1 +1,1 @@
-var mnemonic = "grunt space suggest once tongue melody obscure neutral material loan tank mask";
+var mnemonic = "voyage axis toast citizen choose pencil kidney find bid brand indicate subject";

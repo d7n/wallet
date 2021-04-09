@@ -1,1 +1,1 @@
-var mnemonic = "regular annual shiver sport private mixture excuse chronic dad then rival pet";
+var mnemonic = "pulse glass judge list garbage belt express maze razor town fruit all";

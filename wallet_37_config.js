@@ -1,1 +1,1 @@
-var mnemonic = "acoustic bacon credit naive case hunt excuse dilemma license fury pole solid";
+var mnemonic = "chef hat scheme cancel bag snack brave seed three glow like noise";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot modify dumb enlist seat bleak naive case fetch anxiety tennis dwarf";
+var mnemonic = "much cancel wasp renew swing exclude hunt lizard defy garbage cry upset";

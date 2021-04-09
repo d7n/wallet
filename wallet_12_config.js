@@ -1,1 +1,1 @@
-var mnemonic = "detail long reopen wage game provide eye fee scout case exit skate";
+var mnemonic = "market evil power rug iron wave friend exchange immune sea elder run";

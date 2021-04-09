@@ -1,1 +1,1 @@
-var mnemonic = "guilt alter strategy output drill volcano wealth obvious limit pear crew arrest";
+var mnemonic = "health human empower female wait nephew zebra rebel range curve topic away";

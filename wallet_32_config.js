@@ -1,1 +1,1 @@
-var mnemonic = "rebel online tortoise legend devote rebel music vendor absurd hamster art pitch";
+var mnemonic = "weasel claim reject glare sunny grief shift mention social puppy sock school";

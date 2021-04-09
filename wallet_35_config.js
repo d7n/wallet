@@ -1,1 +1,1 @@
-var mnemonic = "scale exclude crumble gate neglect shallow behind spend ginger hollow turkey half";
+var mnemonic = "alien poet brother exist jewel gold desert include spare sibling reunion exist";

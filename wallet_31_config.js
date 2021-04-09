@@ -1,1 +1,1 @@
-var mnemonic = "lift adult when endless memory list aspect economy amazing miss exclude text";
+var mnemonic = "glow once resemble maximum shy differ grow attack angle image nation surface";

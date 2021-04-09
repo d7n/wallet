@@ -1,1 +1,1 @@
-var mnemonic = "crystal kid penalty jaguar please elegant curtain require balance myth during waste";
+var mnemonic = "sample transfer tortoise right transfer toward sphere media purse waste hotel caught";

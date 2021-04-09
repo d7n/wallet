@@ -1,1 +1,1 @@
-var mnemonic = "random blouse aim dutch become bronze wait enrich clean tortoise balance robust";
+var mnemonic = "burst rib bonus thought ethics proud aspect bubble front city farm since";

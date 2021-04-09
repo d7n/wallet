@@ -1,1 +1,1 @@
-var mnemonic = "limb gravity because desert army erosion execute bird wasp maximum reduce woman";
+var mnemonic = "increase amazing sentence seed arrest silver common discover satoshi lumber novel boil";

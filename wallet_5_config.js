@@ -1,1 +1,1 @@
-var mnemonic = "attitude trumpet dice change stamp property bachelor scrap pattern favorite excite slab";
+var mnemonic = "number birth smart above champion famous visit arrive renew patrol skate candy";

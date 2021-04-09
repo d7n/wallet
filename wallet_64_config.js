@@ -1,1 +1,1 @@
-var mnemonic = "mutual symbol leopard just away wool keen ball easily dove number lecture";
+var mnemonic = "invite trash equal fault old clay legal loud gym language december morning";

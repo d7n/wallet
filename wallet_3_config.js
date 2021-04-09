@@ -1,1 +1,1 @@
-var mnemonic = "destroy way test wash night unveil super exit early hawk other awful";
+var mnemonic = "away equip romance improve foil club slush jewel jazz rhythm travel describe";

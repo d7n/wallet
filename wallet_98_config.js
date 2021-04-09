@@ -1,1 +1,1 @@
-var mnemonic = "rug time allow grunt embody find sick please pool detail mass jeans";
+var mnemonic = "crystal hurt flock desert quote business approve piano inject ordinary window milk";

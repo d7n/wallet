@@ -1,1 +1,1 @@
-var mnemonic = "august describe piece same inhale finger attend possible giraffe opera inhale submit";
+var mnemonic = "focus chicken exhaust lemon install toilet margin style man forget soda attack";

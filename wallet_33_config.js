@@ -1,1 +1,1 @@
-var mnemonic = "banana occur mesh venture rocket grit fancy palm risk ahead razor angry";
+var mnemonic = "cat capable when onion turkey elder resemble spike evil demise oxygen minute";

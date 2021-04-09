@@ -1,1 +1,1 @@
-var mnemonic = "immune kidney reward venture scene absurd crunch roof vintage bomb absorb tired";
+var mnemonic = "luxury impose case funny real across hat knife neglect coast swap juice";

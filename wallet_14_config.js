@@ -1,1 +1,1 @@
-var mnemonic = "palm captain major shiver maze erode drink space head paper rubber inmate";
+var mnemonic = "horse glass board garbage fruit slot link census program oblige clutch fruit";

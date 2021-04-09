@@ -1,1 +1,1 @@
-var mnemonic = "fault couple dream sign rely lunar scatter depart air borrow fox topic";
+var mnemonic = "ugly wear coach nation solution attack view inject hand scorpion guide orbit";

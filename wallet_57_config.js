@@ -1,1 +1,1 @@
-var mnemonic = "close cactus expire about salmon slender manage primary verb over model fox";
+var mnemonic = "empty doctor conduct trap beyond enroll leg mandate rapid lizard gravity exhibit";

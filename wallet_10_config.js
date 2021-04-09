@@ -1,1 +1,1 @@
-var mnemonic = "ethics history cannon manage craft economy rival cheap gate universe correct crime";
+var mnemonic = "flock good young void inside short used dish sample goddess shoe museum";

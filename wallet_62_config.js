@@ -1,1 +1,1 @@
-var mnemonic = "few joy affair grain chat lady cry baby supreme tiger crater slow";
+var mnemonic = "like orchard will vendor mass obvious gadget clog picture diesel tag wave";

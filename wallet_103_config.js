@@ -1,1 +1,1 @@
-var mnemonic = "expand wash coil make bridge hazard tissue quiz dash shine matter near";
+var mnemonic = "myself brother rent pumpkin social correct skin room clown stumble reduce tragic";

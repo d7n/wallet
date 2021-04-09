@@ -1,1 +1,1 @@
-var mnemonic = "auto rib panther arrive federal describe face chase bench cliff address capable";
+var mnemonic = "attend nature label fortune scale twice bleak obvious famous detail health liquid";

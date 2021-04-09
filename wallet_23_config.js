@@ -1,1 +1,1 @@
-var mnemonic = "smooth robust mother young replace spirit then kitchen member seat top path";
+var mnemonic = "pilot grant mass maid search lift mistake stamp oil hope route artwork";

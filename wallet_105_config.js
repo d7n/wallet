@@ -1,1 +1,1 @@
-var mnemonic = "task junk injury guilt life dice catch kick moral wage robot small";
+var mnemonic = "input long bottom autumn chase inform senior rubber develop walnut gospel squirrel";

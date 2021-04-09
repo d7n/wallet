@@ -1,1 +1,1 @@
-var mnemonic = "repair era emerge pretty drip trial farm size borrow style sound taxi";
+var mnemonic = "invest foster matrix unveil tape buzz fluid awesome raise tray final method";

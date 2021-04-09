@@ -1,1 +1,1 @@
-var mnemonic = "vendor prepare make duty swarm loop able nut turtle saddle axis table";
+var mnemonic = "fluid mystery story matter nose box puppy door stereo language unaware busy";

@@ -1,1 +1,1 @@
-var mnemonic = "boy dirt winner under ensure short fortune display chuckle garlic banner share";
+var mnemonic = "pet world vessel party poet spring kind health spy demise race bless";

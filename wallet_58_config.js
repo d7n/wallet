@@ -1,1 +1,1 @@
-var mnemonic = "gossip snack script symbol bread alcohol struggle dose despair kind mosquito like";
+var mnemonic = "economy hobby sphere okay never dream mixed member wing ice bubble isolate";

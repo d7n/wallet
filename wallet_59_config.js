@@ -1,1 +1,1 @@
-var mnemonic = "elegant differ harsh safe seminar desk utility pact absorb name ticket enrich";
+var mnemonic = "ramp avoid shiver ladder name note almost style unveil timber little issue";

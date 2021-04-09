@@ -1,1 +1,1 @@
-var mnemonic = "alone burst miss travel nuclear depart wage stem gap sunset hip rally";
+var mnemonic = "comfort fetch upgrade lonely slot slow immense chronic employ reveal rhythm include";

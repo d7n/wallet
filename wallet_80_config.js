@@ -1,1 +1,1 @@
-var mnemonic = "protect will gaze comfort powder try transfer write suit return market tank";
+var mnemonic = "surge behave vibrant swift carbon hospital slot video family enjoy escape summer";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket jaguar swim swear physical clog alien drum bike merry pause famous";
+var mnemonic = "search witness bamboo dinner city artefact network love border shed mandate box";

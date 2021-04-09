@@ -1,1 +1,1 @@
-var mnemonic = "zoo palace feature convince bacon prefer pluck loan rely warrior deal arrest";
+var mnemonic = "vicious family doctor certain kiss stage rescue hen soup jungle stairs void";

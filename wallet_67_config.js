@@ -1,1 +1,1 @@
-var mnemonic = "leader radar resist sock satisfy luggage parrot wrong clog fan plastic orange";
+var mnemonic = "evidence calm increase nuclear vanish program donor crouch ugly foil inhale team";

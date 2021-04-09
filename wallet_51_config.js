@@ -1,1 +1,1 @@
-var mnemonic = "violin puppy elite novel meat candy stem neutral soft dune shy grain";
+var mnemonic = "rate robot joy similar gauge biology evil cloth ethics kite error rely";

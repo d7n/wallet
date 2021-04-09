@@ -1,1 +1,1 @@
-var mnemonic = "future receive female emerge bounce wide federal sorry core time spray pattern";
+var mnemonic = "ladder scout upgrade bubble ethics much rule demand misery tube tennis issue";

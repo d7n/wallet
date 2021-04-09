@@ -1,1 +1,1 @@
-var mnemonic = "boat roof glow champion run cook black tired rate unfold dad dish";
+var mnemonic = "gun lucky gloom rigid ask crunch term brush imitate organ orange save";

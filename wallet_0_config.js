@@ -1,1 +1,1 @@
-var mnemonic = "brain any harsh dash shrug shock front earth visual raw immense phrase";
+var mnemonic = "snack same setup regret distance ability reform zebra envelope asset twenty flee";

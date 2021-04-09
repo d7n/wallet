@@ -1,1 +1,1 @@
-var mnemonic = "brother tackle relax nuclear echo direct uphold object pudding diamond enemy fox";
+var mnemonic = "someone donor harsh action prepare final express capital exchange moment fiscal limit";

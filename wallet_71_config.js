@@ -1,1 +1,1 @@
-var mnemonic = "artefact coast feed flock glide extra style ritual soda beef noble trip";
+var mnemonic = "like where decide amazing blue snack cable main top excuse element exercise";

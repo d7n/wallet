@@ -1,1 +1,1 @@
-var mnemonic = "runway mistake hundred speed expose relief build cool ivory vapor rifle candy";
+var mnemonic = "slide glide come hood bicycle orange sword talent special more flush napkin";

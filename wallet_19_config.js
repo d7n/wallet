@@ -1,1 +1,1 @@
-var mnemonic = "glove sword culture river ketchup pretty ignore captain again student boost tube";
+var mnemonic = "next chalk donor ladder tribe nominee food multiply income moral cage truth";

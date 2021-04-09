@@ -1,1 +1,1 @@
-var mnemonic = "nuclear mask clown purse decrease child action museum runway unknown fork debris";
+var mnemonic = "art common base foster busy crisp cave theory sentence salmon fiction market";

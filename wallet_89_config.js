@@ -1,1 +1,1 @@
-var mnemonic = "census useless celery glass axis coconut side order fade entire scissors couch";
+var mnemonic = "owner actress stay other chronic drink fantasy oxygen dutch window maple hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "input hunt bleak cliff weekend biology vital relax pudding bring polar loud";
+var mnemonic = "entire hold offer pumpkin reveal able enjoy brisk judge credit question piano";

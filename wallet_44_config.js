@@ -1,1 +1,1 @@
-var mnemonic = "armor bird detail legend include wing bike captain glance giant reopen act";
+var mnemonic = "when bullet devote into hip acid exchange thumb liquid radio mutual anxiety";

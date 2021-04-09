@@ -1,1 +1,1 @@
-var mnemonic = "sauce hair steel fiber tone dumb actual neck focus wrap couch pepper";
+var mnemonic = "embrace soda tissue daring news foster divorce bachelor cup output pepper repeat";

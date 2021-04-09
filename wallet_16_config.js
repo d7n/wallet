@@ -1,1 +1,1 @@
-var mnemonic = "salmon correct kidney unknown trumpet bicycle village arm together trap steel crawl";
+var mnemonic = "web wealth genius wolf limb woman emotion grow tenant good photo cloth";
