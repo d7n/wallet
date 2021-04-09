@@ -1,1 +1,1 @@
-var mnemonic = "voice end cool speak census cousin hurdle floor slush west uncover still";
+var mnemonic = "leave immune enhance lab oxygen video give age clog horse pen loop";

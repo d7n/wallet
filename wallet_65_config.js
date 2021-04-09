@@ -1,1 +1,1 @@
-var mnemonic = "anchor razor senior limit case enter repeat wink hunt build season noodle";
+var mnemonic = "leg pond run glide blue head praise journey peace stand taxi pave";

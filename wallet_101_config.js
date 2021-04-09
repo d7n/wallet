@@ -1,1 +1,1 @@
-var mnemonic = "mesh sword miracle junk drop silk opinion knock rural matrix bless nut";
+var mnemonic = "yard involve tower hurdle hill senior forest unveil vapor crater track tray";

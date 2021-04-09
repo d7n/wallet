@@ -1,1 +1,1 @@
-var mnemonic = "pudding unable clip measure large true water twin shuffle cousin radar stadium";
+var mnemonic = "exile learn silver mosquito keen fever age humor age autumn main bring";

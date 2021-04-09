@@ -1,1 +1,1 @@
-var mnemonic = "garage victory wheel add solid voyage question legend patient congress text effort";
+var mnemonic = "all potato pitch fabric crisp net sadness push patch slam trust gallery";

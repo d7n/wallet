@@ -1,1 +1,1 @@
-var mnemonic = "reform bring cloth abstract advice bless trade vague rough custom cotton exhaust";
+var mnemonic = "pretty glad crack jacket song dinner liberty alley siege busy hamster ozone";

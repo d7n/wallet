@@ -1,1 +1,1 @@
-var mnemonic = "height devote donkey holiday february rail invite drink else smoke sort feed";
+var mnemonic = "dawn among ring list grid guilt fold laugh uncover travel gentle soon";

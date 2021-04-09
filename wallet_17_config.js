@@ -1,1 +1,1 @@
-var mnemonic = "order auto lunch shallow earth attract absorb input gravity bitter unable topic";
+var mnemonic = "strategy dress novel modify axis brand muscle wet leave annual brave black";

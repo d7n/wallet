@@ -1,1 +1,1 @@
-var mnemonic = "snake census clump vehicle myth erosion diary uncover fatigue syrup luggage outside";
+var mnemonic = "collect twenty audit prosper whip hobby color motor unhappy trust twelve bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "work buzz junior false start discover ready suggest leopard butter elder crisp";
+var mnemonic = "security daughter oyster luxury voice rug bird palm output frequent fish empower";

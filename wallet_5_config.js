@@ -1,1 +1,1 @@
-var mnemonic = "mandate already spray copy junior ritual nominee wish sleep jaguar jungle about";
+var mnemonic = "melody push lava version tool type garage warfare follow craft skill aerobic";

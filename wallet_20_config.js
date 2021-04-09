@@ -1,1 +1,1 @@
-var mnemonic = "mask reduce pencil monitor target exchange unaware disease wreck shield grocery fruit";
+var mnemonic = "catch hub alcohol source boat push pen siren rotate improve opera horn";

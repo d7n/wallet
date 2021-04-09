@@ -1,1 +1,1 @@
-var mnemonic = "rain lamp excite cable diamond must deliver object unhappy logic woman mail";
+var mnemonic = "sibling album voice blanket express kitchen devote embark project sausage name critic";

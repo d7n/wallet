@@ -1,1 +1,1 @@
-var mnemonic = "clutch act enlist gold avoid coyote empty swift slim settle guess fatal";
+var mnemonic = "peasant manual tackle amount garden black garage object obscure runway stereo cliff";

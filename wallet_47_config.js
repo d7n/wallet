@@ -1,1 +1,1 @@
-var mnemonic = "steel neither loan claw eye relax dad mammal help maid october fame";
+var mnemonic = "basket exist flash chef chapter decade seek wonder toss error input awesome";

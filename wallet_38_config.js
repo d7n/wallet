@@ -1,1 +1,1 @@
-var mnemonic = "fix document tell mesh edge lazy mother ice access victory off ankle";
+var mnemonic = "monkey wage trial fitness hollow conduct knee erosion elephant brief film twenty";

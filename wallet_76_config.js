@@ -1,1 +1,1 @@
-var mnemonic = "bless rail board fame boil toe purpose goddess holiday melt glimpse cycle";
+var mnemonic = "left dawn blast slab accuse admit garbage waste coast next jacket auto";

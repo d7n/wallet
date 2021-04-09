@@ -1,1 +1,1 @@
-var mnemonic = "opera ski inflict logic wink mountain engage pizza sure play fan cliff";
+var mnemonic = "defy wish object ecology attend jealous collect just retire remind mesh pizza";

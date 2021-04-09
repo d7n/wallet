@@ -1,1 +1,1 @@
-var mnemonic = "inject february quality consider space story benefit napkin nominee apple trend remain";
+var mnemonic = "retreat option cause panel elite bleak nation husband orchard elephant monkey speak";

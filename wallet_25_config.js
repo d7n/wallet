@@ -1,1 +1,1 @@
-var mnemonic = "meadow bitter unlock odor idle juice possible olive invite measure affair mouse";
+var mnemonic = "measure invite pen stadium twenty fence brief cherry wedding property stool cool";

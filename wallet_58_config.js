@@ -1,1 +1,1 @@
-var mnemonic = "envelope employ other hard food brush half lyrics wedding prosper hurry aisle";
+var mnemonic = "already moral lottery urban riot fix parrot song cannon athlete firm table";

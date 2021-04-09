@@ -1,1 +1,1 @@
-var mnemonic = "industry clip park stone black rabbit uphold squirrel tank portion exit forward";
+var mnemonic = "first protect meat dragon latin safe kangaroo march face electric broom mule";

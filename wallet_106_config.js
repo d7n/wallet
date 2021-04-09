@@ -1,1 +1,1 @@
-var mnemonic = "uniform table roof cash total brain finish mountain dry napkin eye regular";
+var mnemonic = "lonely door write addict welcome myth divide raven salute clock follow broom";

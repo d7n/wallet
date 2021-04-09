@@ -1,1 +1,1 @@
-var mnemonic = "bargain auto annual bless turn coil wrong orphan worth dirt arm symptom";
+var mnemonic = "civil forward verify melody pyramid gravity ozone limit wave uncle scale license";

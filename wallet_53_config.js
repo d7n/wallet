@@ -1,1 +1,1 @@
-var mnemonic = "rebuild fly cat clown snow three oppose three hotel prosper skull lend";
+var mnemonic = "mountain mandate gather there treat symptom face genre reward clown nasty fence";

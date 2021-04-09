@@ -1,1 +1,1 @@
-var mnemonic = "close inflict refuse bike wall major peace sugar innocent thunder spoil secret";
+var mnemonic = "erosion chaos goddess phone champion firm betray voice meat destroy disagree include";

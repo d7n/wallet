@@ -1,1 +1,1 @@
-var mnemonic = "oxygen bid derive century degree village that fossil smart title uphold fetch";
+var mnemonic = "release rival tackle capable story view thrive rebuild scheme night poem awkward";

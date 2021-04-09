@@ -1,1 +1,1 @@
-var mnemonic = "original stool hair van alpha stool prize gravity slab slab mean agent";
+var mnemonic = "table chapter prepare concert bottom muscle text game tube foster age broken";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch glimpse thing lawn borrow spin census club spray sister purchase obscure";
+var mnemonic = "unveil digital donkey begin breeze nation cherry twelve loud follow limit print";

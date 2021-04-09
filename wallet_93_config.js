@@ -1,1 +1,1 @@
-var mnemonic = "knee sphere protect sketch during unveil burst custom survey only pretty inflict";
+var mnemonic = "decline sunny ability rude strike rural hedgehog luxury scheme motor happy orbit";

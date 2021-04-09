@@ -1,1 +1,1 @@
-var mnemonic = "radar often caught raven pass bachelor couple faith soul feed carry panda";
+var mnemonic = "minor bitter govern print squirrel radar gadget sea wide update design offer";

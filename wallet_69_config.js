@@ -1,1 +1,1 @@
-var mnemonic = "agent trophy arrive use obtain food hollow success believe jaguar magic play";
+var mnemonic = "boost ghost enforce surround crash balcony biology soft cigar page gospel jazz";

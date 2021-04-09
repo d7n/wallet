@@ -1,1 +1,1 @@
-var mnemonic = "bread behave early leaf fortune pill robust short original pretty fossil remain";
+var mnemonic = "long home such destroy affair pledge noise negative lion call pulp trip";

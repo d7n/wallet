@@ -1,1 +1,1 @@
-var mnemonic = "orient caught round thunder swarm wire zero pumpkin escape often frequent essay";
+var mnemonic = "erode canal eagle sound nest confirm original success green candy bonus sand";

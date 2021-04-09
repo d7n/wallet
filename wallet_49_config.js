@@ -1,1 +1,1 @@
-var mnemonic = "flush equip margin color dice jump among cube alone ketchup neutral aisle";
+var mnemonic = "dove motion twenty romance permit album base bracket carry climb power shoot";

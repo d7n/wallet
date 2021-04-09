@@ -1,1 +1,1 @@
-var mnemonic = "finish glory proud december angle speak message noise admit arctic couple planet";
+var mnemonic = "will crush profit search click pulp organ seminar entry toddler hen similar";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling fault student glue camp boost tenant evoke spike exile magnet entire";
+var mnemonic = "member swap reveal vapor mind popular track analyst review annual desert hand";

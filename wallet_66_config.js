@@ -1,1 +1,1 @@
-var mnemonic = "season input venue filter celery goddess sport little soul pumpkin sure pencil";
+var mnemonic = "maple robot deer flat feed bicycle genre sphere sauce brisk ridge slight";

@@ -1,1 +1,1 @@
-var mnemonic = "great hollow yellow service ritual dial copper inside glass swallow help cargo";
+var mnemonic = "maid copy rally inhale make scrap light unique submit animal tiger expand";

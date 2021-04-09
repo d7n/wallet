@@ -1,1 +1,1 @@
-var mnemonic = "wonder noise diary cigar own close tone runway grab breeze craft pet";
+var mnemonic = "near thrive olympic math void valid shiver gas plastic orbit melody then";

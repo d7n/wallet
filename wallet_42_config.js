@@ -1,1 +1,1 @@
-var mnemonic = "squirrel attract result strong have business world wet clever welcome drill nut";
+var mnemonic = "best prefer purchase taste unfold hazard venture body month host off swing";

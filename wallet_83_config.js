@@ -1,1 +1,1 @@
-var mnemonic = "effort crawl that piano come enhance bag civil toward royal token stereo";
+var mnemonic = "eyebrow budget life organ open top artwork hair expect smart aim smile";

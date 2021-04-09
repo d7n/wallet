@@ -1,1 +1,1 @@
-var mnemonic = "embrace trade nest coin diet speed seek asset obey stove wire goose";
+var mnemonic = "conduct know knife time what jungle kind liquid cannon water soda network";

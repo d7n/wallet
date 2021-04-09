@@ -1,1 +1,1 @@
-var mnemonic = "lucky steel push cupboard broccoli tilt harbor slide catalog faint possible cry";
+var mnemonic = "also phrase tribe mistake bitter ten flock shoot thumb snack enough jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "issue boring fiber cargo wage split milk web surge century someone robust";
+var mnemonic = "upon bean mechanic regret age tree daring despair rare flee father kid";

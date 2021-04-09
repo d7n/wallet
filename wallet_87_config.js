@@ -1,1 +1,1 @@
-var mnemonic = "vapor real kite deputy skate traffic vital pledge sister emerge mimic avoid";
+var mnemonic = "debris little bone vacuum business bid survey trash mouse remove liberty view";

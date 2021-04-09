@@ -1,1 +1,1 @@
-var mnemonic = "rude modify decide prison isolate absorb clown coast marble spare agree blanket";
+var mnemonic = "globe claim snow blanket broom motion trade fit jar drop final fish";

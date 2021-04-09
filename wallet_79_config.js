@@ -1,1 +1,1 @@
-var mnemonic = "reflect tragic couch ugly measure access punch swallow pelican jar ankle fruit";
+var mnemonic = "current squirrel range smooth empty wink fit submit deliver journey profit celery";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe valley often trim plug own stone income bitter test vacant flavor";
+var mnemonic = "success castle wool mind satisfy retreat tunnel ensure pattern approve circle claim";

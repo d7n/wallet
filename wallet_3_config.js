@@ -1,1 +1,1 @@
-var mnemonic = "gadget pull slogan scare glad rural believe gloom file blossom twice welcome";
+var mnemonic = "weird pretty toe use radio puzzle exit solar display tribe noodle dry";

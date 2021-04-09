@@ -1,1 +1,1 @@
-var mnemonic = "change kangaroo shrug diet absurd burger bulb member pause muffin key quit";
+var mnemonic = "gallery pony winner wheat steak furnace toy camp build volcano divide art";

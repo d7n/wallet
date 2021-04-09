@@ -1,1 +1,1 @@
-var mnemonic = "spin slab agent merry jaguar sign wave kidney name snake evoke language";
+var mnemonic = "fever amount exercise chunk awkward reform arrow network morning wash bubble hand";

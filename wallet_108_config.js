@@ -1,1 +1,1 @@
-var mnemonic = "truth charge fuel dad matrix umbrella glide true twenty mule resist report";
+var mnemonic = "magic between congress else bone extend horse another rather close antenna pretty";

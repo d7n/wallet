@@ -1,1 +1,1 @@
-var mnemonic = "more power hazard style miss puzzle suspect indicate discover wagon begin potato";
+var mnemonic = "exist busy acquire claim acoustic sibling nurse vintage spoon action monster antique";

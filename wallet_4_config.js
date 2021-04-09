@@ -1,1 +1,1 @@
-var mnemonic = "winter soap hard inflict vacuum snack tower tape truth right behind end";
+var mnemonic = "explain giant urge focus grape lazy recipe auction verify neither escape fence";

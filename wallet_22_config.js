@@ -1,1 +1,1 @@
-var mnemonic = "erase liquid gallery mountain liquid lobster float aspect loyal auto sport reunion";
+var mnemonic = "erosion gun acid option connect slot liberty eyebrow hand wine later blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "element lecture odor ignore possible collect match remember early attend slab pistol";
+var mnemonic = "rule avoid smooth slight tuna rain kite smooth false kangaroo seek lab";

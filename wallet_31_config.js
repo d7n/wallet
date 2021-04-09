@@ -1,1 +1,1 @@
-var mnemonic = "connect velvet ball wool modify cream before code labor about notable lawn";
+var mnemonic = "three wagon satoshi advance equal engine garage glove measure swap mask select";

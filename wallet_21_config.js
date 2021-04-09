@@ -1,1 +1,1 @@
-var mnemonic = "story stove enough fetch unusual little market obscure goose hold poverty embrace";
+var mnemonic = "kite hint husband rather thumb congress health solve vocal route seminar wrong";

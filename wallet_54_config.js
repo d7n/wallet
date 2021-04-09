@@ -1,1 +1,1 @@
-var mnemonic = "edit cheap square argue slam tongue modify vacuum fancy decrease silly boost";
+var mnemonic = "decade holiday north shock slice coach fiction chronic cereal world crunch chuckle";

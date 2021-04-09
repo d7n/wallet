@@ -1,1 +1,1 @@
-var mnemonic = "afraid scrub tiny birth sudden select casual retreat eight color globe bean";
+var mnemonic = "trade unable elbow brass friend transfer salute arrow sport flat breeze collect";

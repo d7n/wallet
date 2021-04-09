@@ -1,1 +1,1 @@
-var mnemonic = "scare aspect crack basket owner cradle tell reward cheese achieve guitar dignity";
+var mnemonic = "pen again peanut caught spirit industry tray various key daughter thunder bamboo";

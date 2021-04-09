@@ -1,1 +1,1 @@
-var mnemonic = "dune trim enforce wisdom return sun pig detect vanish when seek letter";
+var mnemonic = "among annual obtain wage shrimp term hobby indoor access left dad place";

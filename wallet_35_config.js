@@ -1,1 +1,1 @@
-var mnemonic = "valve cherry jealous crime office also vacuum okay obvious photo report feed";
+var mnemonic = "core return oval check old current morning actress curious inflict case magnet";

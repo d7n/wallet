@@ -1,1 +1,1 @@
-var mnemonic = "novel guess afraid apology edit amount carpet weasel purpose beauty three wrestle";
+var mnemonic = "castle belt unique omit unit crunch lecture bulk ignore employ already humor";

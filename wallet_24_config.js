@@ -1,1 +1,1 @@
-var mnemonic = "high woman onion business game husband upper food rain level mansion seat";
+var mnemonic = "anchor slogan rally sad minor arm cotton dream impose address happy final";

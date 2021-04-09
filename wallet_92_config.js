@@ -1,1 +1,1 @@
-var mnemonic = "tennis alter title inner shell jar middle debate project cheap hundred call";
+var mnemonic = "obscure marine tail affair document crawl survey setup rather slush kick harvest";

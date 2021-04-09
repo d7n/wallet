@@ -1,1 +1,1 @@
-var mnemonic = "health casino ten disease flash success ladder stand flight hello liberty stadium";
+var mnemonic = "install someone index nest deer pepper dry fun cinnamon buffalo athlete school";

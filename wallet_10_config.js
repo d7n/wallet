@@ -1,1 +1,1 @@
-var mnemonic = "arm globe scene mobile when soldier click license noise muffin mutual spawn";
+var mnemonic = "duck need popular chicken goose casual bunker slogan dose hen elbow day";

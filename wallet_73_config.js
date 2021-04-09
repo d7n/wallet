@@ -1,1 +1,1 @@
-var mnemonic = "filter ostrich unusual myself juice place book marble pride profit photo obey";
+var mnemonic = "exchange already donate again rhythm season category sick version escape blue section";

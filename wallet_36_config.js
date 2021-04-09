@@ -1,1 +1,1 @@
-var mnemonic = "mind base expire hunt consider drastic border script economy bridge health cement";
+var mnemonic = "bless barrel north brisk egg answer strong fitness betray either mystery glue";

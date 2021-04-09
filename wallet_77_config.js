@@ -1,1 +1,1 @@
-var mnemonic = "express robust sound degree hazard tip engine glare surround fuel client note";
+var mnemonic = "mutual give tumble desk frozen fashion absorb dynamic bread snap clog wife";

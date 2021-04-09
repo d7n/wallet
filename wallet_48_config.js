@@ -1,1 +1,1 @@
-var mnemonic = "wear hood much remind unable glide rough sock write submit decide weekend";
+var mnemonic = "define escape coil fever travel orchard virus eternal blast gallery gasp pilot";

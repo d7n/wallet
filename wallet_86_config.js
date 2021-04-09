@@ -1,1 +1,1 @@
-var mnemonic = "cigar average useful broken exile ocean lyrics differ satisfy milk echo ensure";
+var mnemonic = "height equip sing canoe mixed cruel festival boring panda lift inner pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "scare champion olive stomach rain angle blossom rough mercy legal split march";
+var mnemonic = "online treat adult broccoli excite lock vacant potato toward square harbor clip";

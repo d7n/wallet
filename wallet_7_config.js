@@ -1,1 +1,1 @@
-var mnemonic = "runway wing drive hour music book bread actual jealous soccer frequent sure";
+var mnemonic = "labor token virus else goat snake guard sport finger expect silk below";

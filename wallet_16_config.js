@@ -1,1 +1,1 @@
-var mnemonic = "course gown velvet parent maple quick fog addict hurry virus monitor minor";
+var mnemonic = "stay portion wagon exclude possible scheme wrestle arrest become assault lady relax";

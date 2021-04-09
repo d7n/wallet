@@ -1,1 +1,1 @@
-var mnemonic = "stumble letter rifle priority spot order confirm mouse solar fall neutral rough";
+var mnemonic = "boy little debate huge chief panther certain tonight ring melt anger basket";

@@ -1,1 +1,1 @@
-var mnemonic = "orient sword exchange page extra hope pole news grain chief talk glad";
+var mnemonic = "odor brisk trade notable clip connect faint vendor dinosaur urge keen category";

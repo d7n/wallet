@@ -1,1 +1,1 @@
-var mnemonic = "imitate magnet novel confirm quiz wage sentence carbon turtle chase smooth ordinary";
+var mnemonic = "skate lake zebra remove mirror only shrimp exclude faculty field also gallery";

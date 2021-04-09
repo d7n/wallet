@@ -1,1 +1,1 @@
-var mnemonic = "mirror train recall whip primary negative sock survey float occur hunt legend";
+var mnemonic = "settle pelican warfare mom notable real away replace consider observe trigger expand";

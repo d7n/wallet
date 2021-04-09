@@ -1,1 +1,1 @@
-var mnemonic = "radar clever educate solution oven unit social egg scout use kingdom swap";
+var mnemonic = "enforce shrimp ship actual hungry nose rapid helmet record immune plug high";

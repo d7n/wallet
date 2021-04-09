@@ -1,1 +1,1 @@
-var mnemonic = "decide indoor supply buffalo brush mix resource venue midnight work pottery harsh";
+var mnemonic = "this beauty music poverty disagree symbol screen lucky mention include output rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "north peasant shuffle hour opera solve certain chase seven exile forest coast";
+var mnemonic = "seven reject one direct quantum birth option cover kid fitness toilet doctor";

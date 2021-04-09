@@ -1,1 +1,1 @@
-var mnemonic = "term edit ripple race click neutral scare prison marriage include zebra rely";
+var mnemonic = "gentle laundry bird utility crumble afraid picture skin inspire gain miracle length";

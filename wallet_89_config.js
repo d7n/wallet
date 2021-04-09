@@ -1,1 +1,1 @@
-var mnemonic = "betray blade machine rain master eight way eyebrow meadow trick twice skirt";
+var mnemonic = "high grit enable afford embark clever stove fantasy buddy patient aisle safe";

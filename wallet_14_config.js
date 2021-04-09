@@ -1,1 +1,1 @@
-var mnemonic = "tattoo claim fancy segment turn sound cousin reform law agree please rhythm";
+var mnemonic = "sock room avoid glove glare aware income cinnamon proud hawk bench oak";

@@ -1,1 +1,1 @@
-var mnemonic = "govern build scan cool decade robust fluid intact begin carbon erode mask";
+var mnemonic = "whale since mind family damp shine have still carry joke fork marine";

@@ -1,1 +1,1 @@
-var mnemonic = "toward dilemma void agree obvious robot bind aerobic shrimp ability track wage";
+var mnemonic = "scene knock gain water april family blush portion tackle ensure calm question";
