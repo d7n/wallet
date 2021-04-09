@@ -1,1 +1,1 @@
-var mnemonic = "salute home upset there escape sock pride child brave destroy various swear";
+var mnemonic = "fringe million film wreck air series cigar present cereal gold lift gospel";

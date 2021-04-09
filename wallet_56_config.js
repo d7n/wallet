@@ -1,1 +1,1 @@
-var mnemonic = "network maid mix forget coach stage copper oxygen easy depend health veteran";
+var mnemonic = "penalty assume choice song favorite derive remain tide trim intact endless jealous";

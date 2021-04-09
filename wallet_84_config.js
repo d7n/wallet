@@ -1,1 +1,1 @@
-var mnemonic = "approve what cycle skull language current deposit steel assault truck rebel endorse";
+var mnemonic = "blue donate song alley across virus legal concert mind smart such panic";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop fee exhibit armor drum fashion suit original badge lesson demand bleak";
+var mnemonic = "web stone honey phone flavor select spider foil truth size erupt deposit";

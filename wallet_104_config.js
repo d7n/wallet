@@ -1,1 +1,1 @@
-var mnemonic = "planet dial celery top bread banana clump husband cushion envelope merry depend";
+var mnemonic = "off involve lock improve lock away giant convince canoe machine net wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "fold kitchen elegant burger talent ketchup raven media process surge owner drama";
+var mnemonic = "oyster double acoustic method neither dinosaur confirm orphan mystery problem joke deer";

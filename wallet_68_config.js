@@ -1,1 +1,1 @@
-var mnemonic = "mountain dove energy language crisp machine under witness term bulb puppy crane";
+var mnemonic = "fog reward cupboard seven angry agree damp adjust duck donkey video hand";

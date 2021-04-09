@@ -1,1 +1,1 @@
-var mnemonic = "suffer auto planet option able intact ranch duty try neglect toy brisk";
+var mnemonic = "topple cage orbit boat swallow amazing snake scan direct bargain creek shrug";

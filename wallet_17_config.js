@@ -1,1 +1,1 @@
-var mnemonic = "hello member edge include use document club unveil original normal feature pudding";
+var mnemonic = "wash decide path hotel slam blossom pony grant scissors appear vehicle wife";

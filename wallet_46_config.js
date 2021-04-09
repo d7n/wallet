@@ -1,1 +1,1 @@
-var mnemonic = "tonight share kangaroo vibrant enjoy only whip unfair already example early wall";
+var mnemonic = "lobster hundred arch slice dad motor curtain family rather cannon limit code";

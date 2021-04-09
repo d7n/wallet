@@ -1,1 +1,1 @@
-var mnemonic = "street pizza kit puppy blind victory fit push surface brother process cram";
+var mnemonic = "border impulse way anxiety define labor estate loud orbit bulk immune rhythm";

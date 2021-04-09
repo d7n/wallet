@@ -1,1 +1,1 @@
-var mnemonic = "junk split recipe champion mother midnight achieve case dune primary swift garlic";
+var mnemonic = "shop crouch verb sense merit myth wine ill undo plug tank dove";

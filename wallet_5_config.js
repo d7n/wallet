@@ -1,1 +1,1 @@
-var mnemonic = "century collect law hamster lonely aunt promote stand april agent chimney seven";
+var mnemonic = "give shallow valley excite crew insect message early brain assist couch cool";

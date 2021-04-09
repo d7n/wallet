@@ -1,1 +1,1 @@
-var mnemonic = "riot decorate dinosaur snack engine thunder cost monitor kangaroo leave goat ecology";
+var mnemonic = "potato purity vital ensure cup ghost false dignity atom theme boy report";

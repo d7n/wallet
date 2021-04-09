@@ -1,1 +1,1 @@
-var mnemonic = "grocery inside vintage document offer load chronic exile trouble amazing stuff despair";
+var mnemonic = "boil pyramid expire dune hire indicate angle place inner rocket differ diesel";

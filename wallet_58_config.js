@@ -1,1 +1,1 @@
-var mnemonic = "area normal abandon then black naive pond unique broccoli food toss venue";
+var mnemonic = "gain dirt cream drama page guilt erode pass melody void warfare ahead";

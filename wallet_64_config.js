@@ -1,1 +1,1 @@
-var mnemonic = "knife rocket annual inch vault illegal number oven room entry penalty evil";
+var mnemonic = "chest stem chaos oyster soldier voyage stand crush regret daughter saddle thought";

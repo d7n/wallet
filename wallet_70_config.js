@@ -1,1 +1,1 @@
-var mnemonic = "convince ask pottery vintage clinic drama enable review provide food session city";
+var mnemonic = "lunch party name unlock palm drum almost skirt extra runway lion grit";

@@ -1,1 +1,1 @@
-var mnemonic = "siren fabric edge horror tool old space rifle parade border gasp blossom";
+var mnemonic = "limb approve dolphin mix maid hundred love faculty cheese loop grab veteran";

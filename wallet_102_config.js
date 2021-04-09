@@ -1,1 +1,1 @@
-var mnemonic = "shrimp captain else smoke page tone despair reduce tenant drastic evil wait";
+var mnemonic = "copper range blade captain return comic jump trim border scorpion custom receive";

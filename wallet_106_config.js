@@ -1,1 +1,1 @@
-var mnemonic = "umbrella midnight glad scan twelve split just setup trap loud core current";
+var mnemonic = "join park curtain pipe abandon network soup siren step digital distance captain";

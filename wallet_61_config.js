@@ -1,1 +1,1 @@
-var mnemonic = "abuse empty staff jelly cart marine balance bomb toilet obscure travel advice";
+var mnemonic = "design catch notice ski rival ten defense comic okay demise tilt speak";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator expect toast dry detect satoshi argue siren child domain artist stumble";
+var mnemonic = "initial snow border urge lizard age buddy forum angle gown guide champion";

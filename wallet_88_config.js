@@ -1,1 +1,1 @@
-var mnemonic = "cave pistol cross thank marriage until daring toddler fruit buyer swap couch";
+var mnemonic = "bundle silent repair rookie venue live census fit skirt cable silk arm";

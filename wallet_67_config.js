@@ -1,1 +1,1 @@
-var mnemonic = "hammer nature secret rapid monitor crawl hybrid glass supply vast liberty merge";
+var mnemonic = "style snap student dwarf live budget urban gain know carbon episode shrug";

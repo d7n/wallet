@@ -1,1 +1,1 @@
-var mnemonic = "act love couch render jewel language nut drink car dragon issue misery";
+var mnemonic = "dish eager hybrid poem provide merge decrease fortune draft undo possible approve";

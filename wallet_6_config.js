@@ -1,1 +1,1 @@
-var mnemonic = "layer cannon erupt nut mesh boy foster frown gain trade twist task";
+var mnemonic = "electric toss ship midnight arrest cream slice describe agent odor guess secret";

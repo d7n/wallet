@@ -1,1 +1,1 @@
-var mnemonic = "swallow stool funny regular pole symbol rice million private picnic drastic gown";
+var mnemonic = "fox aware frown fee science brand antenna smart select much captain stomach";

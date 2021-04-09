@@ -1,1 +1,1 @@
-var mnemonic = "click miss space pause mimic right tide divert glare gaze manual become";
+var mnemonic = "lyrics code relief sphere draft bulb rug change foam feed apple cheap";

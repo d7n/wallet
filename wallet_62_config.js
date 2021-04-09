@@ -1,1 +1,1 @@
-var mnemonic = "forget above drop hint law loop luxury then dune smooth recycle fluid";
+var mnemonic = "jeans potato jacket film budget pass fiber humble glue curtain duck exist";

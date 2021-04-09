@@ -1,1 +1,1 @@
-var mnemonic = "shuffle rather move forest setup economy beach merge worth puzzle exist when";
+var mnemonic = "whip ski congress corn bubble spin blind science ripple panther trap program";

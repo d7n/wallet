@@ -1,1 +1,1 @@
-var mnemonic = "crawl belt glimpse liquid gorilla soul soft know add asset discover powder";
+var mnemonic = "lady crucial salt rookie minimum demand giant wall image borrow useful sight";

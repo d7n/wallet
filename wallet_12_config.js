@@ -1,1 +1,1 @@
-var mnemonic = "various perfect draw wish until swallow endless method fine gospel home faculty";
+var mnemonic = "property trouble crawl typical advance seven property sock sheriff click design frequent";

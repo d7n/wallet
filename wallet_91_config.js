@@ -1,1 +1,1 @@
-var mnemonic = "plug level april shine armed chair siren primary tooth dress life toe";
+var mnemonic = "wage cousin notice work other drive hospital spray season version wish kit";

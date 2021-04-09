@@ -1,1 +1,1 @@
-var mnemonic = "deputy icon sugar nation spread curtain enact sample dinosaur vital garden rifle";
+var mnemonic = "merit exist lift trip circle crisp shallow punch strategy uniform pet salt";

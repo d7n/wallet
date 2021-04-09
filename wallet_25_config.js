@@ -1,1 +1,1 @@
-var mnemonic = "adjust barrel normal divide special coyote perfect pond rack green glide robust";
+var mnemonic = "thrive spot must blood knee large unfair tilt mistake figure tiny reflect";

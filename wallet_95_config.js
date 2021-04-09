@@ -1,1 +1,1 @@
-var mnemonic = "turtle mean mad mistake police menu lava apology camp boss two ketchup";
+var mnemonic = "dad physical retire curtain fatal family faint near afraid abstract distance regular";

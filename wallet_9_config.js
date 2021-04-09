@@ -1,1 +1,1 @@
-var mnemonic = "blood citizen any use useful teach iron march move float unlock share";
+var mnemonic = "vague initial blood nice essay piece crater spoon symptom asthma blind thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "excess tube include neck relief coil wisdom pretty dune print prevent flee";
+var mnemonic = "used upgrade curve hand together unfair device blast afraid stadium ghost employ";

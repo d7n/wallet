@@ -1,1 +1,1 @@
-var mnemonic = "silent toe claim nest march design small neck candy shallow thumb tackle";
+var mnemonic = "weather trick coach car layer quit auction tide diary lock reunion fabric";

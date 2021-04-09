@@ -1,1 +1,1 @@
-var mnemonic = "attract spot jealous inmate simple twin million price chair loan cabin attack";
+var mnemonic = "holiday unable museum friend nephew strategy year noise abstract ecology double topic";

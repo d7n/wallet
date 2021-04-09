@@ -1,1 +1,1 @@
-var mnemonic = "snake cargo remember dress talk swarm marble emotion aunt donor panel butter";
+var mnemonic = "like farm merge sad embody shop divorce begin gun seek match blast";

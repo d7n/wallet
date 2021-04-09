@@ -1,1 +1,1 @@
-var mnemonic = "segment scheme lady juice muscle deliver humor cycle hotel elegant elephant boat";
+var mnemonic = "diet laptop tornado season unfold tooth dad toilet title total aim relax";

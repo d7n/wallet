@@ -1,1 +1,1 @@
-var mnemonic = "agent number lab neck net forum audit mistake hire park discover donate";
+var mnemonic = "stuff convince lawn cloth zone thrive rally trigger napkin memory cupboard connect";

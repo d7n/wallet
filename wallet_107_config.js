@@ -1,1 +1,1 @@
-var mnemonic = "exit clap riot toss birth original eternal table sphere dish person midnight";
+var mnemonic = "elephant angry enlist invite unable legal decline kind venue glimpse math mimic";

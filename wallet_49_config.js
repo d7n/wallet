@@ -1,1 +1,1 @@
-var mnemonic = "nerve engage fruit shiver other fix scan van oak glimpse north movie";
+var mnemonic = "grunt notable youth indicate pottery borrow drum shiver steel heavy rice grab";

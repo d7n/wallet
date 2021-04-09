@@ -1,1 +1,1 @@
-var mnemonic = "pitch video suspect solution retire web budget medal oppose raw swarm addict";
+var mnemonic = "eight salmon bridge fatal skirt spider cousin satisfy want airport dial glad";

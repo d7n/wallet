@@ -1,1 +1,1 @@
-var mnemonic = "control include purity fuel offer frog bachelor endless parade laundry leg identify";
+var mnemonic = "remain soldier beyond student common green lawsuit cinnamon away sister toe argue";

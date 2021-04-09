@@ -1,1 +1,1 @@
-var mnemonic = "supreme beef brick portion luggage basic again october essay story spatial require";
+var mnemonic = "predict grief cherry civil improve dad sibling popular near height finger arrest";

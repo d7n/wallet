@@ -1,1 +1,1 @@
-var mnemonic = "exhibit spice ice rose tennis setup maid produce switch pet useless shop";
+var mnemonic = "chicken river edit rug tomorrow clap dish account talent slice knee search";

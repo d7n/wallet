@@ -1,1 +1,1 @@
-var mnemonic = "marble kick sure matter gather type hope join obey decline athlete ride";
+var mnemonic = "tired rely price foot ritual tip survey view cloth right antique join";

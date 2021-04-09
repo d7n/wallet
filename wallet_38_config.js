@@ -1,1 +1,1 @@
-var mnemonic = "cram choose around miss drop laundry prevent peasant zone figure fold cream";
+var mnemonic = "session palm cigar brick control rail protect ordinary much canyon emerge hidden";

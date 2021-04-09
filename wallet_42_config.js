@@ -1,1 +1,1 @@
-var mnemonic = "clean gospel city share enforce snack unveil slab armed robot disorder tone";
+var mnemonic = "force diesel expire admit border slow harvest cloth disorder ill lunar cycle";

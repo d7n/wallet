@@ -1,1 +1,1 @@
-var mnemonic = "road curtain future license crew electric broken razor surge key truly like";
+var mnemonic = "text rifle agree quote thought lawn wheat smart seminar best mistake fancy";

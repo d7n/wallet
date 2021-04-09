@@ -1,1 +1,1 @@
-var mnemonic = "bronze hollow prison start better thunder nerve game card wide capable example";
+var mnemonic = "melt pride inform sugar boat fitness approve junk grunt explain pepper gadget";

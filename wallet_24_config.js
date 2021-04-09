@@ -1,1 +1,1 @@
-var mnemonic = "turkey announce bronze width distance husband silly shiver protect tomato idle fresh";
+var mnemonic = "ball start fan capable tag sort void diesel dynamic thought zoo whip";

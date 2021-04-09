@@ -1,1 +1,1 @@
-var mnemonic = "build myself hover spring knife hospital mutual gym dog reveal bitter hedgehog";
+var mnemonic = "cream wisdom garment hip hollow enforce wonder acoustic squeeze feed twelve museum";

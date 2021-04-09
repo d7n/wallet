@@ -1,1 +1,1 @@
-var mnemonic = "trap cry bag nut damp calm poverty march illegal brand crouch pet";
+var mnemonic = "daughter object scan artefact lock team express super galaxy antique picnic still";

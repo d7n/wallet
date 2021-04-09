@@ -1,1 +1,1 @@
-var mnemonic = "siege heavy check card phrase casino business scan over volume text swim";
+var mnemonic = "execute video goddess poem book outside timber merit shrug mercy crop arrange";

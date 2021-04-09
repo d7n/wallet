@@ -1,1 +1,1 @@
-var mnemonic = "crouch thank odor index drastic lens rather clinic movie repeat digital fork";
+var mnemonic = "eight license cigar rent piece domain curtain bomb plug cycle naive vast";

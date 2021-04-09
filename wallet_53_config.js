@@ -1,1 +1,1 @@
-var mnemonic = "math tiny pepper sight bind peanut finger smooth cloth dog outer indicate";
+var mnemonic = "punch base usage concert hungry depend wild pudding cloth resemble armor squirrel";

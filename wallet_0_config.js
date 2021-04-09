@@ -1,1 +1,1 @@
-var mnemonic = "rapid champion comfort trust jazz swing copper sugar cable talk purity kiwi";
+var mnemonic = "collect whisper adjust earn crack tuition marriage sense inject canoe collect prefer";

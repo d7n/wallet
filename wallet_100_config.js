@@ -1,1 +1,1 @@
-var mnemonic = "yard loud able garment shiver sight unit enough observe sudden whisper lend";
+var mnemonic = "small subject method busy satisfy funny ramp enter arch oblige ribbon absurd";

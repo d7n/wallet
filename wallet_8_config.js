@@ -1,1 +1,1 @@
-var mnemonic = "loud skate memory horse culture core apple enrich output crisp seed include";
+var mnemonic = "fat bread mistake noodle fame unique hurdle water physical coconut town notable";

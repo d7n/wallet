@@ -1,1 +1,1 @@
-var mnemonic = "label daughter pen joke ketchup output amount core speed balance abandon arctic";
+var mnemonic = "ring sustain toe estate kidney people verify during spy wife swing nice";

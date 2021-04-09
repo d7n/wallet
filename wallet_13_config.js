@@ -1,1 +1,1 @@
-var mnemonic = "flavor scissors purchase bulk drift panther option pair street best pudding soldier";
+var mnemonic = "baby increase tuition raven bacon occur target jazz during shrimp sister stick";

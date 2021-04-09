@@ -1,1 +1,1 @@
-var mnemonic = "upper tell hint mechanic actor capital ozone panel salute capital office entire";
+var mnemonic = "ancient love click razor dry again lunch trouble message right arm race";

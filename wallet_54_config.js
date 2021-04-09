@@ -1,1 +1,1 @@
-var mnemonic = "stumble juice roast ghost garden online area fitness hope hole ignore shiver";
+var mnemonic = "impulse absurd drift grain calm goose oil ask secret cupboard screen kite";

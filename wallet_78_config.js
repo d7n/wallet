@@ -1,1 +1,1 @@
-var mnemonic = "clarify cart such obscure mesh prefer later ugly case essay cage bar";
+var mnemonic = "address gravity gown cabin else member pet demise hope more tip endless";

@@ -1,1 +1,1 @@
-var mnemonic = "senior panda scale column claim rival radar crunch aunt monster between chunk";
+var mnemonic = "census ready crisp trap rural pulse inner daughter number tide shop love";

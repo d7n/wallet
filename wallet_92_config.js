@@ -1,1 +1,1 @@
-var mnemonic = "lamp chase middle winter suspect access library panther squirrel basket cube security";
+var mnemonic = "borrow fiscal smile syrup kind pigeon language fabric trim allow helmet retire";

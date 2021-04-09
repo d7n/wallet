@@ -1,1 +1,1 @@
-var mnemonic = "mango mail mistake start syrup quarter dignity worth service rabbit tornado spin";
+var mnemonic = "finger wave marine spin economy country taste bag garden cheese earn sword";

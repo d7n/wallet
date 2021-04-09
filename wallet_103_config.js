@@ -1,1 +1,1 @@
-var mnemonic = "subject sad issue treat float visual bar illness weather step hockey dry";
+var mnemonic = "sight leave right sniff excess legend segment anxiety purity trouble lazy hold";

@@ -1,1 +1,1 @@
-var mnemonic = "awake slice cinnamon crush proof icon warrior cram child ignore border exact";
+var mnemonic = "skin divert audit concert position grape stable hello mass crisp sock mention";

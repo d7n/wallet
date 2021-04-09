@@ -1,1 +1,1 @@
-var mnemonic = "beef anchor news caution lumber build tongue rough once match wait elevator";
+var mnemonic = "armed december tunnel early icon step scan bachelor dust share trash fitness";

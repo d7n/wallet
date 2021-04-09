@@ -1,1 +1,1 @@
-var mnemonic = "clever camp daughter shrimp session swap prize open elbow success language duty";
+var mnemonic = "blade prosper diamond leisure bean one carry police holiday stereo master resist";

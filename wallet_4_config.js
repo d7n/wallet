@@ -1,1 +1,1 @@
-var mnemonic = "grain position outer thank push buzz salad hamster nature treat exit receive";
+var mnemonic = "resource moment sign similar once cry zone all broken stadium giraffe craft";

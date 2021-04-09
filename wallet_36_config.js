@@ -1,1 +1,1 @@
-var mnemonic = "issue assault absent market minute render common cause express curious wink much";
+var mnemonic = "version balance remind alley estate rely patch adult rich element gesture public";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza bag violin human come earn design because obscure maid faculty remain";
+var mnemonic = "slow eternal spawn patrol genuine open barely replace luggage satoshi street update";

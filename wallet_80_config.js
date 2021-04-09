@@ -1,1 +1,1 @@
-var mnemonic = "kiss index click minor slide arrest case surface prize hair cloth shoot";
+var mnemonic = "recycle road because theme emotion cloth nothing awesome bird cactus spy miracle";

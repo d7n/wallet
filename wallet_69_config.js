@@ -1,1 +1,1 @@
-var mnemonic = "tape program illness item network steel toward smile fever gather shuffle suspect";
+var mnemonic = "barrel welcome baby also mad sort popular magnet cook want blind about";

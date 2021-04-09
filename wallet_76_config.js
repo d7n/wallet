@@ -1,1 +1,1 @@
-var mnemonic = "endless couch purity open pole shock wild garden swift foster kangaroo own";
+var mnemonic = "quick fiction health bike birth wash laptop flight inhale wedding exist heavy";

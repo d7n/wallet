@@ -1,1 +1,1 @@
-var mnemonic = "essence tail car rabbit congress voyage print peace upon crunch visual work";
+var mnemonic = "act flock limit sniff kitten nose auto fan announce enhance soccer just";

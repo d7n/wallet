@@ -1,1 +1,1 @@
-var mnemonic = "sentence parrot path young knee increase loud pill clock wagon fatal board";
+var mnemonic = "evidence logic ancient place pole visa super effort winner joke crew spider";

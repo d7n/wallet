@@ -1,1 +1,1 @@
-var mnemonic = "roast huge tennis horse resemble clarify glad movie much blush pill vivid";
+var mnemonic = "dignity wrestle chicken sketch cabbage salon cake material duck winner next actual";

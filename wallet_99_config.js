@@ -1,1 +1,1 @@
-var mnemonic = "jelly entire joy minor unknown birth cigar life pretty topple member measure";
+var mnemonic = "gate utility able fetch private purity already camp cannon shrimp crucial develop";

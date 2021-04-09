@@ -1,1 +1,1 @@
-var mnemonic = "weekend river table utility actress sniff luxury alarm spice sad expose better";
+var mnemonic = "light kit canyon palace member mango certain film across toe trash wolf";

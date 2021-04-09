@@ -1,1 +1,1 @@
-var mnemonic = "dizzy absorb suffer inflict peace alley outdoor engine fatigue garden stamp possible";
+var mnemonic = "clever fish hawk end decrease among correct crowd fitness only best inhale";
