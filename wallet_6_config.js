@@ -1,1 +1,1 @@
-var mnemonic = "script decide repeat material image general gospel purse ten tape penalty avocado";
+var mnemonic = "ignore barrel flip deal stumble person music very mass faint sweet donor";

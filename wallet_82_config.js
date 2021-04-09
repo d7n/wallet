@@ -1,1 +1,1 @@
-var mnemonic = "soul bachelor lift front column prize smile merge sadness hole parrot month";
+var mnemonic = "voice olympic blossom future decline train sport wisdom become type coconut next";

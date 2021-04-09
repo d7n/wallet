@@ -1,1 +1,1 @@
-var mnemonic = "child cost liquid maple emotion crazy clean afford drastic glare shoot inspire";
+var mnemonic = "poverty omit obscure segment liar blue misery member gather obscure winter modify";

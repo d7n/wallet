@@ -1,1 +1,1 @@
-var mnemonic = "gift pond stuff mandate mystery pear vessel panther invest series february coast";
+var mnemonic = "plug market youth goose clinic item tragic solid blouse suit action must";

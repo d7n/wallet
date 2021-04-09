@@ -1,1 +1,1 @@
-var mnemonic = "stick remind dad situate civil fitness dad reopen broken chapter tornado vendor";
+var mnemonic = "join idle tribe fatigue nest comfort basic blouse skirt insect innocent tomato";

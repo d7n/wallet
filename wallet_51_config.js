@@ -1,1 +1,1 @@
-var mnemonic = "glove ensure flash post hurry absurd miss olympic advice chronic vote olive";
+var mnemonic = "snow chronic joke transfer like angle kidney profit often spirit task mimic";

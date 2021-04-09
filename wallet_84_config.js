@@ -1,1 +1,1 @@
-var mnemonic = "vehicle picture organ hour raw tape involve fine account loud flock step";
+var mnemonic = "mammal code number inquiry gaze phrase gift supply ivory occur mass normal";

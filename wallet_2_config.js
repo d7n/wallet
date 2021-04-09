@@ -1,1 +1,1 @@
-var mnemonic = "hill donkey grunt pull expect maximum nose bomb bitter lift limit drip";
+var mnemonic = "spoil life survey rubber myself bridge lion photo angle rabbit arctic order";

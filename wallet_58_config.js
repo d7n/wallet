@@ -1,1 +1,1 @@
-var mnemonic = "crop lawn they island deny express atom develop talk play boil just";
+var mnemonic = "behind head road pupil sponsor wet style sheriff accuse parrot loyal duck";

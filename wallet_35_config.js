@@ -1,1 +1,1 @@
-var mnemonic = "approve hover pact will nothing series very silent rocket foam sun chat";
+var mnemonic = "soap science asset canyon pave battle license element glare coconut nation hard";

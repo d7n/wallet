@@ -1,1 +1,1 @@
-var mnemonic = "similar tooth cage glad climb actual ginger tag mind walnut capital useless";
+var mnemonic = "athlete trigger grid nest lock pottery animal garage auto ticket guitar airport";

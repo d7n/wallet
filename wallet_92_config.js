@@ -1,1 +1,1 @@
-var mnemonic = "this moment major dice true trip fitness life defense document net upper";
+var mnemonic = "glide gun panel drift owner mango afford among mosquito bulk dice antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "limit garbage hawk human knock ethics secret ball empty bulb basic stadium";
+var mnemonic = "spin wealth seat monitor unfair win evolve this rival sing crawl embody";

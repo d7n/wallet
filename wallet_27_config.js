@@ -1,1 +1,1 @@
-var mnemonic = "around sibling october pumpkin guess middle recycle adult alcohol trip lecture drastic";
+var mnemonic = "rocket lecture example benefit lizard flight bunker deliver jaguar screen toss island";

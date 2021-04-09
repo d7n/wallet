@@ -1,1 +1,1 @@
-var mnemonic = "summer mechanic again sample female cute flavor service toddler harsh genius stock";
+var mnemonic = "reunion staff boil return certain walk room soul turn frozen course betray";

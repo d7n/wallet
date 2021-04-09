@@ -1,1 +1,1 @@
-var mnemonic = "mom cabin tomato rapid cram social review vibrant sound peasant favorite tunnel";
+var mnemonic = "comic impose wealth believe wash siege genre mechanic tell dash snake current";

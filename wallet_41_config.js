@@ -1,1 +1,1 @@
-var mnemonic = "aspect disagree fuel brain kitchen engage swap life broom egg parrot club";
+var mnemonic = "flee rose else sing extend fabric panel slam pass picnic cheese reopen";

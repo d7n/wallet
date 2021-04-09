@@ -1,1 +1,1 @@
-var mnemonic = "solve royal spike matrix devote top mail virtual frequent client indicate repair";
+var mnemonic = "lens shell seek favorite quiz later enemy man once move subway decrease";

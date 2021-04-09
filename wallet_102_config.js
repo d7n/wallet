@@ -1,1 +1,1 @@
-var mnemonic = "teach team blush rifle eagle purse absurd hard rose jelly carpet average";
+var mnemonic = "ready lawsuit year cabin wolf opinion approve dad tortoise leaf inflict frost";

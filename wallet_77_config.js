@@ -1,1 +1,1 @@
-var mnemonic = "sell sponsor heart struggle gather miracle curve city remind rail exhibit few";
+var mnemonic = "dawn test lazy chaos barrel system around ordinary shaft shoe east main";

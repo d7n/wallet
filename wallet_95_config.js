@@ -1,1 +1,1 @@
-var mnemonic = "piano chuckle tunnel opera scene again copy control inquiry gather biology choose";
+var mnemonic = "amazing traffic thought bronze turtle umbrella farm grant wing inmate scorpion pill";

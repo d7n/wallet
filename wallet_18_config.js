@@ -1,1 +1,1 @@
-var mnemonic = "glass inflict flock canoe spike vehicle piano glow moment entire track loan";
+var mnemonic = "icon antique print invite weasel afraid imitate mix smile unknown state pony";

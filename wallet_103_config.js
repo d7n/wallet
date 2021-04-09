@@ -1,1 +1,1 @@
-var mnemonic = "enough announce march ski embrace type embrace trophy weapon metal village green";
+var mnemonic = "treat celery wrap yard afraid cheese course motor novel pattern split still";

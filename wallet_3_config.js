@@ -1,1 +1,1 @@
-var mnemonic = "lyrics ski size clinic volume execute verify cheese welcome approve genre vast";
+var mnemonic = "stable spell search tuna sense pause puzzle update ritual battle fiscal soda";

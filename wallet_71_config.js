@@ -1,1 +1,1 @@
-var mnemonic = "govern domain friend vicious soda problem begin service solar shiver switch neither";
+var mnemonic = "fiber flavor embrace empower movie craft joy accuse secret reflect notable quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid reward paddle cloud empower adjust month book buzz uphold under fun";
+var mnemonic = "assault together dizzy fiction avoid slot approve lesson best exclude purity crisp";

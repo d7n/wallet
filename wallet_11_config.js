@@ -1,1 +1,1 @@
-var mnemonic = "page solve magnet sun ice else taxi junk power load child avocado";
+var mnemonic = "thumb clock input rebuild side champion sudden armor swim goose moment fish";

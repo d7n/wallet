@@ -1,1 +1,1 @@
-var mnemonic = "poet cloud pill sweet beef nurse dolphin scheme bomb record gloom scatter";
+var mnemonic = "taxi toss afraid small work wall gym supply wrap insane end purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "access very book submit abuse social curtain crazy state dignity fortune initial";
+var mnemonic = "merry other lumber cabbage endorse document surge soap dice vintage injury alley";

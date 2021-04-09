@@ -1,1 +1,1 @@
-var mnemonic = "satisfy must chief baby primary describe vapor clip undo drastic tragic into";
+var mnemonic = "artwork various album enhance motor universe galaxy funny six identify shaft second";

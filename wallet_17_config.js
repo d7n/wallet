@@ -1,1 +1,1 @@
-var mnemonic = "cabbage milk home apart dutch hedgehog helmet reunion oppose galaxy floor tooth";
+var mnemonic = "bitter bunker skirt kingdom gate arrest problem famous day mammal glass because";

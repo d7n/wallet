@@ -1,1 +1,1 @@
-var mnemonic = "return physical digital napkin amazing century panic wrap code venture craft valid";
+var mnemonic = "spoon summer bag horse tuition asset carpet giggle enemy rate own wish";

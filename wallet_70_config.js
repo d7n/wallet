@@ -1,1 +1,1 @@
-var mnemonic = "goddess time wheat member match possible grow plunge finish next kid action";
+var mnemonic = "boil beauty door gift tail top flag carry song edit west disease";

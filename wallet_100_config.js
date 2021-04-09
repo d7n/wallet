@@ -1,1 +1,1 @@
-var mnemonic = "gasp inside silver tiger check inner chair destroy virus plate light sentence";
+var mnemonic = "animal meat foil snack unknown retire sadness apart square amateur avocado language";

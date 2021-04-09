@@ -1,1 +1,1 @@
-var mnemonic = "have oppose choose stomach scale arch south edit champion rookie lawn jeans";
+var mnemonic = "antique salad dress rice proud labor master poverty excite prefer wish capable";

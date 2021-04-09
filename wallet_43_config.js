@@ -1,1 +1,1 @@
-var mnemonic = "odor lock fix cause fish truck offer disease sadness table fork mango";
+var mnemonic = "clock skirt frame there account leg source sea sorry then shock avocado";

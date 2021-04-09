@@ -1,1 +1,1 @@
-var mnemonic = "keen chuckle puppy infant reward start parade alley narrow honey random drink";
+var mnemonic = "novel orient bring law street unknown pupil earth filter science device defense";

@@ -1,1 +1,1 @@
-var mnemonic = "token speed spring meat hand steel sudden cross excuse west manage side";
+var mnemonic = "main talk grape violin point ugly hold truck hospital laptop twice accident";

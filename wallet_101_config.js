@@ -1,1 +1,1 @@
-var mnemonic = "kitten lamp couch carry motion busy giggle confirm book license salad medal";
+var mnemonic = "spider stable design feature lottery okay gate apart leaf virtual ginger ankle";

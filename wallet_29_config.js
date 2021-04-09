@@ -1,1 +1,1 @@
-var mnemonic = "curve simple genre rule drastic flash source sight arrive bus double smoke";
+var mnemonic = "guess club room expand super phrase parent nature unveil harbor sister diet";

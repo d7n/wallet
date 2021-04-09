@@ -1,1 +1,1 @@
-var mnemonic = "course whip wide require scout decrease tonight income club green indoor hello";
+var mnemonic = "betray drama car rug neck lunar mistake convince myself genius negative cabbage";

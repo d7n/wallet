@@ -1,1 +1,1 @@
-var mnemonic = "cup flat peanut assault traffic demand faculty afraid bomb mimic ill slam";
+var mnemonic = "addict unusual melt vintage bonus whisper resemble aerobic cloth evoke mean cattle";

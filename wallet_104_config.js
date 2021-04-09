@@ -1,1 +1,1 @@
-var mnemonic = "notable craft snow give arrow once want craft cart captain develop high";
+var mnemonic = "leave rich state phone monkey orphan axis organ jelly wink net remain";

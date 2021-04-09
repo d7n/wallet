@@ -1,1 +1,1 @@
-var mnemonic = "soap tank crunch bright thumb quality assault gadget foil uncle copper trick";
+var mnemonic = "view dash tribe that hood bulb puzzle damp doctor eagle warm setup";

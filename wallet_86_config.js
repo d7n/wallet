@@ -1,1 +1,1 @@
-var mnemonic = "cave apart immense palm gown bless hip fade soldier garbage boil wonder";
+var mnemonic = "swing crash harsh above giraffe apology face phrase tuition worth bunker decade";

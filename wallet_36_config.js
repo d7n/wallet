@@ -1,1 +1,1 @@
-var mnemonic = "sphere during image health milk document recipe dinosaur certain battle foil wise";
+var mnemonic = "vehicle catalog corn door pony genius gasp cube wealth make planet atom";

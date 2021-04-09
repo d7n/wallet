@@ -1,1 +1,1 @@
-var mnemonic = "enroll today child door asset enroll rabbit speed switch say topic grab";
+var mnemonic = "way try close art fortune once around taxi whale ugly blame hold";

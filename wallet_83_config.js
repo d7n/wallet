@@ -1,1 +1,1 @@
-var mnemonic = "easily correct cable material audit flock scene noise anchor cruise brown stable";
+var mnemonic = "kiwi limit negative kitten blouse curve boss silent omit mechanic share ice";

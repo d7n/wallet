@@ -1,1 +1,1 @@
-var mnemonic = "furnace peasant jelly doctor recycle fish fog athlete evolve dune demise must";
+var mnemonic = "use embrace industry fire coral vapor science swap embody clerk dust now";

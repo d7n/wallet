@@ -1,1 +1,1 @@
-var mnemonic = "parade diary corn inhale nothing purse true judge mystery weekend easy cotton";
+var mnemonic = "pill check dad math talent regret advice truth token stool network post";

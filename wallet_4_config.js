@@ -1,1 +1,1 @@
-var mnemonic = "usage bring green rely version bubble device human reopen satoshi fury error";
+var mnemonic = "wear install shy broom okay travel cactus science virus prize great year";

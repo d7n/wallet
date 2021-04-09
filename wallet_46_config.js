@@ -1,1 +1,1 @@
-var mnemonic = "history design wife define neither negative ahead veteran grace mobile enjoy tortoise";
+var mnemonic = "group smoke song despair never rapid exchange tenant canal little crash call";

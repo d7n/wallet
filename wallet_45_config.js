@@ -1,1 +1,1 @@
-var mnemonic = "earn walnut job flight pigeon mammal summer judge seed already bless riot";
+var mnemonic = "detect clarify profit inmate addict define gate muscle true inflict day weird";

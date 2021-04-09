@@ -1,1 +1,1 @@
-var mnemonic = "clarify prepare unknown eternal tape jelly sell dolphin survey tower tell badge";
+var mnemonic = "salad wool north mushroom kick celery brisk push ivory wheel labor spy";

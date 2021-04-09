@@ -1,1 +1,1 @@
-var mnemonic = "play mind pen vibrant mixed success long blur become shy wealth gold";
+var mnemonic = "gentle road congress one exhibit chicken muscle myself now retire swarm promote";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil cloth canal margin coconut romance heart chicken tomorrow whale since purchase";
+var mnemonic = "whisper undo card soup grunt basket diagram awake promote forward hard erode";

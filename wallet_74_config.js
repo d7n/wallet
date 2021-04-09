@@ -1,1 +1,1 @@
-var mnemonic = "champion alien prison discover equal horse siren scheme brain river filter wing";
+var mnemonic = "august cave spring turn giggle present wagon bacon better fluid left bubble";

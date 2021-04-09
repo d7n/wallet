@@ -1,1 +1,1 @@
-var mnemonic = "dune section modify profit have chunk stove stick clip cruise movie daring";
+var mnemonic = "strong garlic unlock doll balcony butter symbol galaxy horn gentle liar section";

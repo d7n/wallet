@@ -1,1 +1,1 @@
-var mnemonic = "parade exercise raccoon dignity cloud gun sentence early refuse rigid swift slush";
+var mnemonic = "frog kitchen skill draw fire poverty idle fatigue garage enlist diesel finger";

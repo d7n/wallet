@@ -1,1 +1,1 @@
-var mnemonic = "helmet useless other humble bicycle session vibrant champion grant observe second army";
+var mnemonic = "outside gold violin face skull option group blossom nuclear remain shallow remove";

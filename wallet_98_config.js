@@ -1,1 +1,1 @@
-var mnemonic = "wire push claw toilet vocal tiger decide evolve volume vicious virus cup";
+var mnemonic = "proof lucky faith snake flag pink give punch method divorce salt crop";

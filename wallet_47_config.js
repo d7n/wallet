@@ -1,1 +1,1 @@
-var mnemonic = "myself expand spider salt brick industry void bachelor task patrol extra detail";
+var mnemonic = "throw odor gate embark head column lady lucky left eight genuine fury";

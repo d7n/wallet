@@ -1,1 +1,1 @@
-var mnemonic = "record cry stumble shadow planet left endorse east foster comfort claw excite";
+var mnemonic = "parent picture outer measure maximum phrase snow afford rapid primary apart pizza";

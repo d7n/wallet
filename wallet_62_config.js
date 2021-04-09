@@ -1,1 +1,1 @@
-var mnemonic = "hood frequent eternal void bottom harvest banner direct travel mass bid split";
+var mnemonic = "husband holiday bike salute raise badge pet army spring awake surround fine";

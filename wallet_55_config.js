@@ -1,1 +1,1 @@
-var mnemonic = "void pipe taxi fatal shoot flavor describe clerk orange govern whale include";
+var mnemonic = "parent kiss unknown join winner strike nut fly soda young lemon dwarf";

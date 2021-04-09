@@ -1,1 +1,1 @@
-var mnemonic = "harsh tray off drip whisper intact negative unfair robot include often number";
+var mnemonic = "surprise raise prevent truly escape roof right battle emotion turn green celery";

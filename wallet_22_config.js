@@ -1,1 +1,1 @@
-var mnemonic = "jeans someone green fox airport cause course urban dash dizzy vacuum uniform";
+var mnemonic = "box deal glimpse doctor enable scrap degree original rack number income double";

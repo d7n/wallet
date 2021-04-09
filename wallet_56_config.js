@@ -1,1 +1,1 @@
-var mnemonic = "vivid evidence sustain radio merry refuse arena crucial movie govern little draw";
+var mnemonic = "palace behave year alarm assist skin morning cement setup public brain omit";

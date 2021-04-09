@@ -1,1 +1,1 @@
-var mnemonic = "perfect stable example outer table safe blood spider pony dad tennis soon";
+var mnemonic = "congress private asthma float point access receive gallery region rent slam comfort";

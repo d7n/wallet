@@ -1,1 +1,1 @@
-var mnemonic = "describe online deny patrol lady tag topple hello place butter veteran amateur";
+var mnemonic = "false inhale slender coconut dust exhaust dwarf wear inmate wonder doll quote";

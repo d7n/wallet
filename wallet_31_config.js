@@ -1,1 +1,1 @@
-var mnemonic = "news clap lesson elder scorpion merge human home angry mask balcony quit";
+var mnemonic = "vendor spider ankle uniform raise best escape empower wonder correct height that";

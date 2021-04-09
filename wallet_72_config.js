@@ -1,1 +1,1 @@
-var mnemonic = "horn explain calm club twice essence owner adult midnight fatal truly prevent";
+var mnemonic = "test style glory island dune neutral response pigeon cloth seek tackle effort";

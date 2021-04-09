@@ -1,1 +1,1 @@
-var mnemonic = "prevent lake ignore citizen waste intact among summer during afford tent defense";
+var mnemonic = "enforce trouble salt upper film tuna normal almost answer gesture defy flush";

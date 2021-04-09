@@ -1,1 +1,1 @@
-var mnemonic = "medal craft limb ripple laptop shrimp leaf price general arena patrol crumble";
+var mnemonic = "chief coach later jazz weapon april nut response faculty forget crush frozen";

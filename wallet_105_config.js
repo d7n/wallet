@@ -1,1 +1,1 @@
-var mnemonic = "island artwork palm impulse foam wink detail globe toy situate arrange rigid";
+var mnemonic = "minute search inform tuition large shed budget evil cause mass able giant";

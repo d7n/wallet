@@ -1,1 +1,1 @@
-var mnemonic = "avocado wise benefit parent derive false club future catalog swift celery occur";
+var mnemonic = "enter parent fan clog glide genre tower during master double since salmon";

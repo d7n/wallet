@@ -1,1 +1,1 @@
-var mnemonic = "earth girl recycle office autumn execute rain trip universe chat pledge remember";
+var mnemonic = "language robust flat modify castle submit industry loyal kidney final easy destroy";

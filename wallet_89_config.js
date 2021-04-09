@@ -1,1 +1,1 @@
-var mnemonic = "asset width choice feature base deer inform increase bleak ability shock verb";
+var mnemonic = "desk swift symbol before letter awake permit fault hazard urban clerk correct";

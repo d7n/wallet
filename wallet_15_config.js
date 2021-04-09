@@ -1,1 +1,1 @@
-var mnemonic = "walk debate love lab dust field glimpse isolate vocal blood wing shield";
+var mnemonic = "switch expire latin cruel census lottery vendor genuine fork decline cargo unfold";

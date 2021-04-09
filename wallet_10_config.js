@@ -1,1 +1,1 @@
-var mnemonic = "arctic error kangaroo shoot result lunar dutch absurd spin boil february shield";
+var mnemonic = "purse label pause letter mean when talk tuna chapter cruise tape around";

@@ -1,1 +1,1 @@
-var mnemonic = "time lucky start glow rule cinnamon lady romance motor spatial tuition detail";
+var mnemonic = "split state metal stuff drop skate report turkey escape october witness zoo";

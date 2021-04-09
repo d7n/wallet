@@ -1,1 +1,1 @@
-var mnemonic = "unlock purpose potato pool turn certain broken artefact flag maximum picture body";
+var mnemonic = "garbage gloom stamp blade coach quality orange discover echo stem hill agree";

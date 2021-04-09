@@ -1,1 +1,1 @@
-var mnemonic = "law actual sick vanish dwarf maple load submit bird sister consider pony";
+var mnemonic = "shell cattle multiply bulb gorilla benefit decline comic neither original put increase";

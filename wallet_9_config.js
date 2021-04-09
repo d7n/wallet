@@ -1,1 +1,1 @@
-var mnemonic = "retreat style hazard tattoo quarter oblige job library dice rent humor cause";
+var mnemonic = "hire focus truth mean tuna cost bronze hybrid grain when outside shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "eager fan rug popular awkward thumb dawn talent present another plunge panda";
+var mnemonic = "wrestle what winter lyrics dress obey charge rent valve then quote wall";
