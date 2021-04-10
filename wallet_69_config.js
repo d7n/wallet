@@ -1,1 +1,1 @@
-var mnemonic = "twin dilemma whip benefit devote say maximum document arrange stool derive possible";
+var mnemonic = "share bring bless scrub glory neither tuition height nuclear soap away funny";

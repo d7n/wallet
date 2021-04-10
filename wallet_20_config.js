@@ -1,1 +1,1 @@
-var mnemonic = "check paddle crane december engine motion call boring discover royal isolate just";
+var mnemonic = "lift exist liquid burst meadow negative board amount quarter light tackle small";

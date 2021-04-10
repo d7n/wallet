@@ -1,1 +1,1 @@
-var mnemonic = "know skirt ripple unaware erupt skate ride series speak region battle filter";
+var mnemonic = "embrace entry fiction nation snap embody ancient margin fuel brand wing fade";

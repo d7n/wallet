@@ -1,1 +1,1 @@
-var mnemonic = "gesture art vivid add unable rapid caught female move draft gun fan";
+var mnemonic = "earn cliff agent vapor merit city nerve fuel turtle height salute weird";

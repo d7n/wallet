@@ -1,1 +1,1 @@
-var mnemonic = "wait exercise trade cloud raccoon hero party awake floor rare muscle power";
+var mnemonic = "virus loyal elder wealth width lady primary diagram chuckle employ effort flat";

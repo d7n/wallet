@@ -1,1 +1,1 @@
-var mnemonic = "cigar panda year theory first trick tourist federal garment cycle pond embark";
+var mnemonic = "purity vital kingdom salt salon admit alien banner ship barrel crack select";

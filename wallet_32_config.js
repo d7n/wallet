@@ -1,1 +1,1 @@
-var mnemonic = "grocery consider cover smoke vocal custom display silver ocean delay acoustic decorate";
+var mnemonic = "already luggage leaf later glue ritual armed write tribe dignity stool about";

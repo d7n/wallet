@@ -1,1 +1,1 @@
-var mnemonic = "spread pause boring miss rotate satisfy wonder spy rare ill tiny method";
+var mnemonic = "trust double arch bread mouse demise blast maze license future emerge stage";

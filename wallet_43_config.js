@@ -1,1 +1,1 @@
-var mnemonic = "muscle renew crawl bind dignity market great canoe train mixture left record";
+var mnemonic = "fame regular sorry twist lab wait school bike buffalo talent this lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "around tissue parrot victory yard expire thing tail uniform region senior april";
+var mnemonic = "acid stamp shoulder marriage busy mushroom junior across alpha danger easy window";

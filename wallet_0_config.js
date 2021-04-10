@@ -1,1 +1,1 @@
-var mnemonic = "speak useless sport action elegant dawn fitness bacon mosquito shield giggle suggest";
+var mnemonic = "profit vibrant error stem judge control opinion age three fluid island erupt";

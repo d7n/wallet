@@ -1,1 +1,1 @@
-var mnemonic = "open daughter hard receive liberty fall van earn junk spray mistake loud";
+var mnemonic = "daring close final accident sound help second shrimp gym steel pumpkin auto";

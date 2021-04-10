@@ -1,1 +1,1 @@
-var mnemonic = "mystery useful drum amazing almost puzzle build budget gaze future weather turn";
+var mnemonic = "panic impact height indoor chronic bullet spread awkward first jaguar stick cargo";

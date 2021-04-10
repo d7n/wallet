@@ -1,1 +1,1 @@
-var mnemonic = "second mad scissors approve keen account day possible pottery tail people brisk";
+var mnemonic = "project fan rain runway giggle help ridge hat nurse visual strike midnight";

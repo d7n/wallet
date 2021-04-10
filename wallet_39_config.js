@@ -1,1 +1,1 @@
-var mnemonic = "rural body beach forget neck mouse smart say theory exile nerve guess";
+var mnemonic = "digital jar chicken lamp reveal together energy strike extend drop mechanic true";

@@ -1,1 +1,1 @@
-var mnemonic = "alone clump negative then rent deny common craft sentence zone place whale";
+var mnemonic = "ball source panda access unusual fragile glimpse add step adult soul spare";

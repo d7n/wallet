@@ -1,1 +1,1 @@
-var mnemonic = "amused broccoli vintage pair hub rule gravity asthma dance fat grid axis";
+var mnemonic = "rice april prosper hotel useless similar join matter evil era twenty cause";

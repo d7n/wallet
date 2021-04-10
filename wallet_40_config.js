@@ -1,1 +1,1 @@
-var mnemonic = "pluck auto usual match element eyebrow gossip inflict material total face virtual";
+var mnemonic = "leave sudden paper adult bean butter pact hunt school spare sudden number";

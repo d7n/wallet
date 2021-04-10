@@ -1,1 +1,1 @@
-var mnemonic = "dirt pizza icon deer notice surround bracket ten globe message plug zero";
+var mnemonic = "trend like dad nature account rail holiday mango coconut ranch pitch example";

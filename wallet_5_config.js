@@ -1,1 +1,1 @@
-var mnemonic = "clump island project rail year awesome cattle live taxi dust artist news";
+var mnemonic = "expire grunt mirror foot soap shine raccoon famous diamond cram siege asset";

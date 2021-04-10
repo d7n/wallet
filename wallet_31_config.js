@@ -1,1 +1,1 @@
-var mnemonic = "draft front undo program hip lumber lumber defy chaos random shed slight";
+var mnemonic = "tonight gather run kind possible morning develop similar oil ginger critic wave";

@@ -1,1 +1,1 @@
-var mnemonic = "balance visit slogan gadget join tower angry treat sign athlete adult business";
+var mnemonic = "level knife winner afford embark hover air ignore cradle bottom hold paper";

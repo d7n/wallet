@@ -1,1 +1,1 @@
-var mnemonic = "rebel avocado salute flag junior gravity sound switch team south leopard govern";
+var mnemonic = "animal stock farm glimpse fortune penalty stay course galaxy betray rally antenna";

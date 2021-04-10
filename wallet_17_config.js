@@ -1,1 +1,1 @@
-var mnemonic = "loan mule festival valid inmate found fatal hamster aware alcohol hurdle crack";
+var mnemonic = "general federal funny sport actress whale glide wire lumber captain notable bachelor";

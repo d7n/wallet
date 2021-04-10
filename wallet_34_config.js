@@ -1,1 +1,1 @@
-var mnemonic = "hour forward entry august van road endless doctor hip wave brother tribe";
+var mnemonic = "wing wrap cupboard depart engine pear scissors news rain royal monitor mountain";

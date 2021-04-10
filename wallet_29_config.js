@@ -1,1 +1,1 @@
-var mnemonic = "world used credit someone latin dog leopard charge frog dignity crystal wisdom";
+var mnemonic = "light antique father repair absent puzzle stand frozen vehicle tent goddess roast";

@@ -1,1 +1,1 @@
-var mnemonic = "slab mansion alcohol arrest merit chuckle vacant reunion exhibit organ chuckle decide";
+var mnemonic = "grocery exchange wash family priority pipe near issue team wild picnic vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "slot jungle soap trust anger myself alter major torch turkey pride flag";
+var mnemonic = "cause pupil spin lock donate brave try away concert distance zero category";

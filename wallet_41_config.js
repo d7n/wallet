@@ -1,1 +1,1 @@
-var mnemonic = "peace describe select swamp daring cotton rice scale token engine nerve anxiety";
+var mnemonic = "metal dwarf scissors never easily mouse suffer neither lava gesture dwarf beyond";

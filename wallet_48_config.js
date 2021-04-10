@@ -1,1 +1,1 @@
-var mnemonic = "suit impulse width turtle gate patch galaxy oval symptom maple lend cricket";
+var mnemonic = "amazing inquiry ask stairs pulse broccoli make move cram avoid slogan donate";

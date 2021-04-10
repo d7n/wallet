@@ -1,1 +1,1 @@
-var mnemonic = "juice trap exhibit wisdom frozen laugh mother neck pizza deputy helmet habit";
+var mnemonic = "vicious catalog fiction struggle appear disagree fall smooth agent gaze chaos tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial inhale chief ridge very drift patient stove cage flight armed floor";
+var mnemonic = "jazz main drift detail vapor advance expand two choose refuse ball layer";

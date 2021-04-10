@@ -1,1 +1,1 @@
-var mnemonic = "divide laptop sister thing cable merge choice sound mad pluck inspire scatter";
+var mnemonic = "sail dash draw infant turn pulse combine keen cake van toward blame";

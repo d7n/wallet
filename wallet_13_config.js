@@ -1,1 +1,1 @@
-var mnemonic = "mail lizard cute frequent humble insect return gesture blush endless birth delay";
+var mnemonic = "hood notice churn hunt system antique engage wall beef omit frost one";

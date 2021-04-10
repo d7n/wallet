@@ -1,1 +1,1 @@
-var mnemonic = "wrestle into scrap rival cool old blast comic when plunge crawl arch";
+var mnemonic = "tank wild banana shell clinic drift lesson chapter load swear usage dial";

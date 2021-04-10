@@ -1,1 +1,1 @@
-var mnemonic = "wine display sleep bicycle point annual doll guitar faint author cycle head";
+var mnemonic = "rally puzzle month choose finger sample indoor hospital coin twenty powder claim";

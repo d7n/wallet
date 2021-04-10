@@ -1,1 +1,1 @@
-var mnemonic = "pass month goat agree return make device segment all valley uphold romance";
+var mnemonic = "inch fruit lawsuit merit bullet exotic wire pelican extra jealous blood weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie buffalo nurse where illegal ecology image you sing ignore peasant brother";
+var mnemonic = "feature prefer such roast icon logic gorilla pistol drink toilet slide ability";

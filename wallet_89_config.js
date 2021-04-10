@@ -1,1 +1,1 @@
-var mnemonic = "load brown involve amateur violin kid wreck skin arrest chat horror dream";
+var mnemonic = "eye replace feed blanket emerge fan inject mushroom poet goose nature strike";

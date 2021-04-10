@@ -1,1 +1,1 @@
-var mnemonic = "neither school march inherit chronic door second biology combine neck inject layer";
+var mnemonic = "grunt adapt butter accuse grain country dune violin attend remove casino cactus";

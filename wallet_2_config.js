@@ -1,1 +1,1 @@
-var mnemonic = "audit urban relief never blind twin citizen happy put actress match below";
+var mnemonic = "morning summer cannon easily entire forum make tennis weapon people cover wet";

@@ -1,1 +1,1 @@
-var mnemonic = "acid then outside island shine student horse vivid gun midnight figure sand";
+var mnemonic = "garage eye total spoon toward report dumb ghost steak avocado ignore cargo";

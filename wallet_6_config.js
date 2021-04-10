@@ -1,1 +1,1 @@
-var mnemonic = "hip horse broom industry put require boss repair gun trim replace keep";
+var mnemonic = "assume force face plastic labor lion include enrich slab shrug fossil latin";

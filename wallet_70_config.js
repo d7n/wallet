@@ -1,1 +1,1 @@
-var mnemonic = "camera cheap hockey finish fade critic actual symbol scrub remain hat medal";
+var mnemonic = "mystery brisk burger mechanic own alley trash fatal urge hamster setup wage";

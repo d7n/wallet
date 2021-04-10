@@ -1,1 +1,1 @@
-var mnemonic = "lonely target arm spring glass light aerobic used person asthma claim harsh";
+var mnemonic = "scorpion drama vote dentist blush coffee sing mule minute coil polar make";

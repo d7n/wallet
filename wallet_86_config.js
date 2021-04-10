@@ -1,1 +1,1 @@
-var mnemonic = "couple device pet small divorce verify document culture fatigue explain shift loyal";
+var mnemonic = "tomato walnut axis injury thing lunar ginger abstract excite black mass tip";

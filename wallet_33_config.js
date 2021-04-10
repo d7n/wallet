@@ -1,1 +1,1 @@
-var mnemonic = "smile belt captain siege owner pill cricket short connect flower black lamp";
+var mnemonic = "wild confirm tooth filter critic apart nose want panther mask cereal anxiety";

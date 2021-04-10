@@ -1,1 +1,1 @@
-var mnemonic = "relief employ blur submit remain output wasp fun possible enforce throw silver";
+var mnemonic = "inside math ordinary december local proud dolphin blur trial baby leave brush";

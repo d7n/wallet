@@ -1,1 +1,1 @@
-var mnemonic = "draft sausage gloom point uphold design escape pond wheel planet desk hockey";
+var mnemonic = "unlock normal monitor verb license joy escape about sibling dirt rule large";

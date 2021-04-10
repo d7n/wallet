@@ -1,1 +1,1 @@
-var mnemonic = "style item vacuum solution clinic will way arrange sauce excite wash diet";
+var mnemonic = "elite huge shield over dinosaur assault leisure trigger predict gadget rich stock";

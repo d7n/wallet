@@ -1,1 +1,1 @@
-var mnemonic = "network egg jar census just refuse million budget luxury decrease tank antique";
+var mnemonic = "tackle margin animal soon net twist unique velvet remove ridge impose you";

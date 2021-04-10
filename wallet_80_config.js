@@ -1,1 +1,1 @@
-var mnemonic = "flag apple asthma marble uniform august top bachelor iron inmate extend daring";
+var mnemonic = "pave senior below claim aspect erosion tiny million spell wonder image pet";

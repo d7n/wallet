@@ -1,1 +1,1 @@
-var mnemonic = "when lottery chalk will question uphold gospel sell human fever fly casual";
+var mnemonic = "kiss unit north pride aisle calm giraffe panda soon gather eight blood";

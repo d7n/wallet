@@ -1,1 +1,1 @@
-var mnemonic = "ring crunch dumb another stay common degree swear elite install bounce define";
+var mnemonic = "trophy receive flame point pulse student until goose dinner tribe exhibit reunion";

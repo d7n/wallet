@@ -1,1 +1,1 @@
-var mnemonic = "smart army boss height casual warrior reveal asthma blush olympic okay post";
+var mnemonic = "luggage shrug cross donkey snack conduct city impose slush long wire special";

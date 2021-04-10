@@ -1,1 +1,1 @@
-var mnemonic = "abandon acquire odor gasp cave token describe until raw man tape bonus";
+var mnemonic = "affair above scale start winter vibrant faculty opera cigar scissors replace portion";

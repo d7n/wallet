@@ -1,1 +1,1 @@
-var mnemonic = "holiday digital sleep blush fruit decline brand board garbage repeat myth media";
+var mnemonic = "hunt tilt duck blind govern become cluster nation slice token inmate belt";

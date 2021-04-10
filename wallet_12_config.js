@@ -1,1 +1,1 @@
-var mnemonic = "dial clean use indicate later crane lumber window glove glow grow siren";
+var mnemonic = "meat inform adapt quit gym bind best twelve dream pencil health peasant";

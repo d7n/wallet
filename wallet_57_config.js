@@ -1,1 +1,1 @@
-var mnemonic = "slice quarter adapt airport real dad ivory gadget engage exchange polar skate";
+var mnemonic = "scare spirit birth impose leg lens else purity buyer cinnamon fever ethics";

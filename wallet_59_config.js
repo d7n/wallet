@@ -1,1 +1,1 @@
-var mnemonic = "laptop barely regret uphold pink spy hedgehog airport elevator main dentist mask";
+var mnemonic = "method motion crisp fantasy canoe weather unveil crater hazard excuse budget civil";

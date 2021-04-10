@@ -1,1 +1,1 @@
-var mnemonic = "stage fox sure disorder bulb ship oven neck recipe great write spoon";
+var mnemonic = "ahead during original unusual tortoise check eagle double all rude foam clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle legal essence vivid dizzy dilemma stone net illness bring snack smooth";
+var mnemonic = "busy biology choose banana strong unit test moon safe finish pass holiday";

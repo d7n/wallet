@@ -1,1 +1,1 @@
-var mnemonic = "recycle soup win burden material evil bundle huge text foil stadium rail";
+var mnemonic = "banana sail tone web solution chapter tumble left sign autumn wall party";

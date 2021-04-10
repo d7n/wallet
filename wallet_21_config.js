@@ -1,1 +1,1 @@
-var mnemonic = "isolate knee latin wrist soldier budget know put hello paper portion nominee";
+var mnemonic = "retire veteran property material collect version enrich mind ritual fringe spawn provide";

@@ -1,1 +1,1 @@
-var mnemonic = "force dress stage skull token divide web skirt scatter attack rubber truth";
+var mnemonic = "very decade rule upgrade file blame design suspect title absorb scorpion opera";

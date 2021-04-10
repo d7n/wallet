@@ -1,1 +1,1 @@
-var mnemonic = "mean increase coyote wrestle require piece slab enjoy horror exhaust lobster off";
+var mnemonic = "buzz impulse flame green furnace night razor fruit jungle damage fatal sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion love reward opera more aerobic usage helmet sock pool item genuine";
+var mnemonic = "youth protect fabric connect fortune mandate capital remain filter mother limb staff";

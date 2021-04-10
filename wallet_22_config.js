@@ -1,1 +1,1 @@
-var mnemonic = "fit syrup slow return like airport play garbage despair person black find";
+var mnemonic = "cattle oxygen property spice over random scrap whip final vague injury limit";

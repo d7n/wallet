@@ -1,1 +1,1 @@
-var mnemonic = "glare museum choice child find infant vacuum truly oxygen hunt motion later";
+var mnemonic = "butter move speak cup close chase anchor spy consider picnic sheriff genuine";

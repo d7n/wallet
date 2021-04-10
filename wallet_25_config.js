@@ -1,1 +1,1 @@
-var mnemonic = "chief drip snack sugar main mushroom summer neglect brave smile another primary";
+var mnemonic = "brother west parade attitude polar depth meat provide farm choice term behave";

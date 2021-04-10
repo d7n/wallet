@@ -1,1 +1,1 @@
-var mnemonic = "autumn seven sustain smooth breeze infant frog rice six quick patrol job";
+var mnemonic = "school grant dirt reward essay link lava change adult used frost festival";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken mixture vendor roof express pulp beyond shed impact nut notable above";
+var mnemonic = "rare easy own observe tissue canyon lady eyebrow asthma matrix bounce hint";

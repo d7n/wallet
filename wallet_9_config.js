@@ -1,1 +1,1 @@
-var mnemonic = "funny crawl vintage monkey echo night dry hotel absurd globe minute journey";
+var mnemonic = "buffalo picnic garage entry teach nasty husband hand income battle hamster impulse";

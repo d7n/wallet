@@ -1,1 +1,1 @@
-var mnemonic = "price concert noise scatter chicken grit south bullet radio stairs rely air";
+var mnemonic = "snap february master palm hurry earth galaxy evidence few offer shy vacuum";

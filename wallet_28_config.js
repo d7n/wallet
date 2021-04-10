@@ -1,1 +1,1 @@
-var mnemonic = "rice pole various allow accident peace strike jewel donate zone aerobic deer";
+var mnemonic = "reunion pupil conduct gain light infant steel minor orient code pigeon wave";

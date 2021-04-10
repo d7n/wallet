@@ -1,1 +1,1 @@
-var mnemonic = "addict truly exercise chicken garbage rib guess wet flash photo snow obey";
+var mnemonic = "mule orchard welcome final rookie range modify apple survey chest use humble";

@@ -1,1 +1,1 @@
-var mnemonic = "twist bicycle fee input river surprise wash oxygen demand next grape broken";
+var mnemonic = "fiction neither horror circle valid autumn wage ghost elder poet orient cattle";

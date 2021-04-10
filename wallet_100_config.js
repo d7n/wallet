@@ -1,1 +1,1 @@
-var mnemonic = "spoil happy fame top toast mean decide tip learn double copy own";
+var mnemonic = "waste margin copy describe decade episode avocado fun critic liberty gas awesome";

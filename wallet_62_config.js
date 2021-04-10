@@ -1,1 +1,1 @@
-var mnemonic = "grief exhibit used allow humor runway exhibit goose pyramid grace champion half";
+var mnemonic = "harsh picnic pelican brain window cargo custom nasty lawsuit raise open sentence";

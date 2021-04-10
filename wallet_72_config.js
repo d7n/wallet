@@ -1,1 +1,1 @@
-var mnemonic = "dry chimney flock peasant gospel grass camera inner drill cart layer ready";
+var mnemonic = "liquid property shift face inside delay copy two bullet bacon sausage reject";

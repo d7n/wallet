@@ -1,1 +1,1 @@
-var mnemonic = "fiscal drink goose erode short toddler broccoli village crane mean gauge insane";
+var mnemonic = "outdoor trick erase forum essence polar almost again leopard misery poet wagon";

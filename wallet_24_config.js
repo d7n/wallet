@@ -1,1 +1,1 @@
-var mnemonic = "saddle lens defy response beyond unable fence accuse feature asset trouble vibrant";
+var mnemonic = "blossom update head settle cherry rigid addict choice search nest injury wing";

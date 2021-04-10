@@ -1,1 +1,1 @@
-var mnemonic = "fatal almost today shop bargain toddler comfort alcohol spread cost session diesel";
+var mnemonic = "someone must hard unfold wide tiny shrimp syrup alley negative alley snow";

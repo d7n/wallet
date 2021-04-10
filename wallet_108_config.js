@@ -1,1 +1,1 @@
-var mnemonic = "fire judge idea hub truth pyramid void ceiling perfect thumb exclude tourist";
+var mnemonic = "suit tooth dinosaur suit raise benefit move situate system praise net gesture";

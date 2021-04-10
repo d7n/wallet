@@ -1,1 +1,1 @@
-var mnemonic = "erupt sphere ensure snap clean album pig sport popular sponsor fan load";
+var mnemonic = "harbor breeze vapor chalk virus reform month ozone sock enforce humor filter";

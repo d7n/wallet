@@ -1,1 +1,1 @@
-var mnemonic = "excite lonely tuition royal dance photo weekend grass royal innocent elegant this";
+var mnemonic = "armor argue toss various protect penalty similar plate settle upgrade media script";

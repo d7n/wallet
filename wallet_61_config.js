@@ -1,1 +1,1 @@
-var mnemonic = "joke thumb now odor blue raise congress odor almost disagree mercy scissors";
+var mnemonic = "warm error actual clay time draw door between over cat minute assault";

@@ -1,1 +1,1 @@
-var mnemonic = "flame cushion thrive excuse shift image outdoor hard canoe style pole manual";
+var mnemonic = "library silk type fiscal lobster reunion twice achieve trust monster hand raccoon";

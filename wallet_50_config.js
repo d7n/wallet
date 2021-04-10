@@ -1,1 +1,1 @@
-var mnemonic = "exhaust exchange tattoo sister antique tent trigger tired balance skull vacant wool";
+var mnemonic = "devote submit miss path stem obscure say virus accident spawn bid under";

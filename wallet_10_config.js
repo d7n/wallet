@@ -1,1 +1,1 @@
-var mnemonic = "survey movie mouse bachelor arm toilet plug hollow desert extra impact found";
+var mnemonic = "business danger embark note cook diet powder comfort loyal suspect coach rescue";

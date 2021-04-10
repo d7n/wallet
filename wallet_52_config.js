@@ -1,1 +1,1 @@
-var mnemonic = "wedding exact tomato guess still camp magnet odor coast term toward road";
+var mnemonic = "dolphin interest slab bubble north pelican pulp divorce lab dress clown double";

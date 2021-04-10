@@ -1,1 +1,1 @@
-var mnemonic = "noble apple video pluck paper enrich essence roof rely reunion wreck clog";
+var mnemonic = "fiscal trade box impulse glad wash rare waste what remember woman bread";
