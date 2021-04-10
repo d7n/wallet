@@ -1,1 +1,1 @@
-var mnemonic = "loud section rare crazy injury romance impulse bind exit option leg copper";
+var mnemonic = "inner bubble arch float share energy tip into labor steak twist game";

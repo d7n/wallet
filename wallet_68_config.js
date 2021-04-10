@@ -1,1 +1,1 @@
-var mnemonic = "rocket begin whip video view hurt carbon top tomorrow club skill tobacco";
+var mnemonic = "climb verify crazy bridge guard wife version length extend language blouse art";

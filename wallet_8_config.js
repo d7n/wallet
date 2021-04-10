@@ -1,1 +1,1 @@
-var mnemonic = "impulse disorder first close chaos purpose finger reveal video salute glow object";
+var mnemonic = "mutual flip pulp control topic fine success seven carry edge chicken behind";

@@ -1,1 +1,1 @@
-var mnemonic = "poem success salad genius luggage cover cigar ability eyebrow iron try glad";
+var mnemonic = "armor foam before digital glove record pole purity pumpkin minor daughter detect";

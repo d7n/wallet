@@ -1,1 +1,1 @@
-var mnemonic = "song aisle north marble ladder ahead ladder repeat kangaroo tiny coil provide";
+var mnemonic = "off license science hip bulk leopard sentence crunch practice myself mention decorate";

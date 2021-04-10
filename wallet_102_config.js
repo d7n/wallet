@@ -1,1 +1,1 @@
-var mnemonic = "slim tunnel plate half isolate unfair social leave finger voyage know power";
+var mnemonic = "safe void unusual gorilla crisp stomach wash awkward jelly diesel canal high";

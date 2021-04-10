@@ -1,1 +1,1 @@
-var mnemonic = "team unfold duck proof fringe oak conduct gadget arrow remember hole anchor";
+var mnemonic = "rib gentle tired ceiling ivory beef fame base tape certain sausage wild";

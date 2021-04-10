@@ -1,1 +1,1 @@
-var mnemonic = "flight boring donor hamster depend cause lawn quantum mystery rough pen course";
+var mnemonic = "kit cram twin reopen version damage habit member gain aunt palm crane";

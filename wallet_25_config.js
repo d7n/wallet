@@ -1,1 +1,1 @@
-var mnemonic = "neutral bundle beef vacant coast protect snow night cabbage just syrup asset";
+var mnemonic = "coach fire mask alpha copy trouble lion hole umbrella dog dwarf metal";

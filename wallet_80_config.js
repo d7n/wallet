@@ -1,1 +1,1 @@
-var mnemonic = "humble thrive name breeze fog drill volume pole try alien flip bridge";
+var mnemonic = "plunge inflict payment useless tape shock sadness quick insane grocery library predict";

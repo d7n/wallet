@@ -1,1 +1,1 @@
-var mnemonic = "put balcony lake science luxury hedgehog few surround coffee panther real giggle";
+var mnemonic = "embark mountain grab bid solution very close cook dance emerge valid surprise";

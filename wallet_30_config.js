@@ -1,1 +1,1 @@
-var mnemonic = "ketchup celery person dial entry rent orbit sick upper enrich weekend midnight";
+var mnemonic = "dolphin balance siren doctor curtain hurry skill frown middle original stuff depart";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard merit fuel oven genre edge drastic drive mesh again smoke apart";
+var mnemonic = "valve strategy small scheme gesture resemble choice path aerobic stomach muscle punch";

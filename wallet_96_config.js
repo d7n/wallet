@@ -1,1 +1,1 @@
-var mnemonic = "drill fault live exercise glue pigeon awake immense nerve goat wreck vote";
+var mnemonic = "cushion toss burden tired clay drip myth solar skull receive carbon vast";

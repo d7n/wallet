@@ -1,1 +1,1 @@
-var mnemonic = "van pen penalty cousin dolphin eagle capital embrace trade vivid health shallow";
+var mnemonic = "seek sauce popular flash media whale limit outdoor run often easily eternal";

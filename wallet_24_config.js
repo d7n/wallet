@@ -1,1 +1,1 @@
-var mnemonic = "crane situate cloth educate final crucial replace pelican thought potato tower oak";
+var mnemonic = "future toilet member seed slogan add gown travel desert confirm can apology";

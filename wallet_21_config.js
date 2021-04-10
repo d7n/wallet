@@ -1,1 +1,1 @@
-var mnemonic = "brief cloud trust large fork apart process develop myth fuel busy cloth";
+var mnemonic = "yellow pulse reflect produce goat victory actress latin color sudden blur doll";

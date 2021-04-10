@@ -1,1 +1,1 @@
-var mnemonic = "whale dog surge pudding uniform ramp style pulp dignity praise member know";
+var mnemonic = "sure trust uniform quality amused make antique heart okay uniform human rely";

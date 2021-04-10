@@ -1,1 +1,1 @@
-var mnemonic = "bus sail derive endorse benefit puzzle muffin gift jaguar resource unhappy taste";
+var mnemonic = "slice shaft hello science flight cat legal leg affair kiss menu panther";

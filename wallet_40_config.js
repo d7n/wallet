@@ -1,1 +1,1 @@
-var mnemonic = "social disagree belt drop happy warrior legend name sea earn volume smoke";
+var mnemonic = "orbit ranch buffalo voice diamond civil love borrow twist crawl marine mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "length mother broccoli tuition upper world cream couch speak pizza sponsor hockey";
+var mnemonic = "arrive awkward unveil naive hill only adjust recall rabbit machine moment sad";

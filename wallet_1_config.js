@@ -1,1 +1,1 @@
-var mnemonic = "claim awkward diet carbon old beef unfair pole gauge current pet there";
+var mnemonic = "proud surround owner six claim tennis cushion topic abstract success atom please";

@@ -1,1 +1,1 @@
-var mnemonic = "fame kidney item light orbit source glance gas link pony draw into";
+var mnemonic = "frozen limit engage canal truck roast saddle dream visual system stay protect";

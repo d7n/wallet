@@ -1,1 +1,1 @@
-var mnemonic = "season narrow shallow junk elevator basic hill fury immense finger olympic check";
+var mnemonic = "theme hockey thumb mango raccoon earn thank immune essay essence episode dawn";

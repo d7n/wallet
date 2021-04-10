@@ -1,1 +1,1 @@
-var mnemonic = "approve wash route empower feed basic inner urge phone select victory question";
+var mnemonic = "base doctor security blouse member volcano sentence twin cannon wine nasty buffalo";

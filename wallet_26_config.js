@@ -1,1 +1,1 @@
-var mnemonic = "kitten clip lesson lonely rookie step crime color delay walnut wheat use";
+var mnemonic = "maple peace pitch cruise play salt umbrella change boil add whip audit";

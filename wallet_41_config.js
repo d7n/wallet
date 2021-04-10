@@ -1,1 +1,1 @@
-var mnemonic = "thrive chest script enlist citizen fuel style clown nuclear rent step recall";
+var mnemonic = "catalog fantasy symbol amateur short course donate elbow nest club estate mix";

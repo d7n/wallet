@@ -1,1 +1,1 @@
-var mnemonic = "wagon dream field tobacco salon faculty false action step menu army nasty";
+var mnemonic = "face pitch reason soap vital unfair butter retire message grape stamp neutral";

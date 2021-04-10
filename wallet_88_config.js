@@ -1,1 +1,1 @@
-var mnemonic = "museum neutral index legend student play skirt heavy wide kind tiny coyote";
+var mnemonic = "mirror beef dust length turn stove mom pipe hollow attitude power display";

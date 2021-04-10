@@ -1,1 +1,1 @@
-var mnemonic = "female erase shuffle exist business beyond quiz vacuum someone when quantum clean";
+var mnemonic = "dutch oxygen size treat face shield time drama stereo kangaroo mammal trash";

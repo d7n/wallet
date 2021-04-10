@@ -1,1 +1,1 @@
-var mnemonic = "medal horse stand vessel arch future cupboard hybrid pony museum zoo stool";
+var mnemonic = "blast ritual siren prize dream update phrase grass opinion actress draw electric";

@@ -1,1 +1,1 @@
-var mnemonic = "dune refuse choice thank love glory oven clock autumn mean sunset remind";
+var mnemonic = "better sponsor climb snap olive cushion adult tribe guide unusual quarter base";

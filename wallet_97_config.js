@@ -1,1 +1,1 @@
-var mnemonic = "test unusual current version thank evolve typical rebel tree flag match sample";
+var mnemonic = "sort provide gallery library huge over century sort chunk degree rude raven";

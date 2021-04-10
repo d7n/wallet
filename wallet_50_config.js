@@ -1,1 +1,1 @@
-var mnemonic = "math absent school thing shock begin giant fiber affair shrug whisper legend";
+var mnemonic = "tape vicious flight genre answer original crush calm blouse chief crane become";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust scale board legend impose grief plunge text absorb camp multiply little";
+var mnemonic = "salad swallow say seat jaguar moral column alcohol cry omit gate say";

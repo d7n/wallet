@@ -1,1 +1,1 @@
-var mnemonic = "mixture vivid ramp normal black envelope someone dentist knife kitchen payment scrap";
+var mnemonic = "trip intact dream shop fitness want nice very hawk wool portion hamster";

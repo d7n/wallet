@@ -1,1 +1,1 @@
-var mnemonic = "animal ride scissors artefact record cube survey armed trim liar shop option";
+var mnemonic = "close sail screen happy bacon blind sudden method pioneer know pen faint";

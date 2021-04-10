@@ -1,1 +1,1 @@
-var mnemonic = "crash toddler spare write twenty poem ride panther train discover autumn casino";
+var mnemonic = "marine focus february earn narrow torch sunny drip filter return enemy carbon";

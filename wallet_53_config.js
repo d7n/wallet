@@ -1,1 +1,1 @@
-var mnemonic = "midnight equal put doll tell wolf exhaust bird winner chapter shallow spend";
+var mnemonic = "industry vital travel bamboo mirror question tilt success elite tennis skin pulse";

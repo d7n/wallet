@@ -1,1 +1,1 @@
-var mnemonic = "bid cement great zebra panic shift mushroom december social race clap breeze";
+var mnemonic = "hire radio they clay fury hunt uncle ritual record immune tragic roast";

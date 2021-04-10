@@ -1,1 +1,1 @@
-var mnemonic = "episode once happy ghost badge sing spike two kiss avoid glad pole";
+var mnemonic = "daring badge rural puppy nothing try point canal table slim butter maple";

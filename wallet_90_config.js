@@ -1,1 +1,1 @@
-var mnemonic = "knife maple twist flavor dry brass ensure chimney thank thrive fence erase";
+var mnemonic = "quantum swing town wink vendor steel great vault transfer arrive detect gesture";

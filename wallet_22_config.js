@@ -1,1 +1,1 @@
-var mnemonic = "surge they cross easy boss scheme island below absurd ugly chuckle nothing";
+var mnemonic = "there phrase eyebrow spin attend ticket nothing grass bulk fringe lawsuit prison";

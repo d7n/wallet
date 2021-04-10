@@ -1,1 +1,1 @@
-var mnemonic = "diary siege consider path river stage surface thumb wonder beyond hundred artwork";
+var mnemonic = "funny rifle glare twist danger oppose argue work march index track narrow";

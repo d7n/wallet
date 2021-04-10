@@ -1,1 +1,1 @@
-var mnemonic = "flag goose spin maid history gaze salad creek lab mask rude art";
+var mnemonic = "attack blue brave item squirrel bonus distance lake choice night ripple urge";

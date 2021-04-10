@@ -1,1 +1,1 @@
-var mnemonic = "control section faith special mixed mask clerk gather tell dial tone grab";
+var mnemonic = "pause spell cage state area twin inmate saddle energy tuna appear science";

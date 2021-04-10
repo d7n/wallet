@@ -1,1 +1,1 @@
-var mnemonic = "crawl staff spice credit blue apart mobile reform garden nose unhappy mirror";
+var mnemonic = "awake faith deputy during learn type bacon force legend loyal check hour";

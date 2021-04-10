@@ -1,1 +1,1 @@
-var mnemonic = "diesel word humor glove work curtain caution scorpion urban swap drink image";
+var mnemonic = "armed book blind update they spider dizzy neglect problem survey immune dish";

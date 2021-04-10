@@ -1,1 +1,1 @@
-var mnemonic = "drum orbit escape track wool three hurt letter nation scale tumble balcony";
+var mnemonic = "brick remember joke victory major window rule regret duck atom dice paddle";

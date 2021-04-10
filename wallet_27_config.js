@@ -1,1 +1,1 @@
-var mnemonic = "avoid summer range vanish write beach guess water fine deputy before play";
+var mnemonic = "hunt ready vanish scout huge profit raven census hole pyramid comic wing";

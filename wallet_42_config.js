@@ -1,1 +1,1 @@
-var mnemonic = "fold oak twin enter trim clog spice spell swamp piece argue oppose";
+var mnemonic = "object switch federal ripple relief clap cactus thunder spider either fruit owner";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon pioneer wedding below orange task smoke stove tumble tenant ahead black";
+var mnemonic = "balcony expose skate catalog enrich hurdle alley claw sweet input coin digital";

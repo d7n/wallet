@@ -1,1 +1,1 @@
-var mnemonic = "floor comic cliff movie desk verify spirit pact promote spirit industry find";
+var mnemonic = "urban journey such hurt drama exercise rebel drama salt shell tank increase";

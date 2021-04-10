@@ -1,1 +1,1 @@
-var mnemonic = "smoke melody plunge basket group civil eyebrow earn put please shop coyote";
+var mnemonic = "common ski step unveil kidney puzzle vehicle together trick reunion cruise skill";

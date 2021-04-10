@@ -1,1 +1,1 @@
-var mnemonic = "sword dune nut tone two attitude hero bone slab idle earn subject";
+var mnemonic = "shallow bamboo mule remove polar afraid prevent amount small defense balance dance";

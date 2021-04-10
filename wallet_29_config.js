@@ -1,1 +1,1 @@
-var mnemonic = "blame robot crater chef seven gloom cash gesture panther opera mystery quiz";
+var mnemonic = "maple flavor poverty interest flush shop cannon vintage detect fun select butter";

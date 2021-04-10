@@ -1,1 +1,1 @@
-var mnemonic = "fetch surprise ugly spike flip ensure echo approve allow bundle jealous oil";
+var mnemonic = "wrist novel pluck obtain much tobacco junk supreme laugh render emerge exhibit";

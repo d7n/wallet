@@ -1,1 +1,1 @@
-var mnemonic = "rough wreck also boost worry neutral write taxi rally keep skull embody";
+var mnemonic = "genre sleep similar useful sentence whale maple same plate allow decrease dune";

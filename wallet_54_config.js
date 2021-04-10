@@ -1,1 +1,1 @@
-var mnemonic = "crazy rich tongue plunge amount federal episode book farm laptop rich myth";
+var mnemonic = "post another abandon phone inquiry cherry clean defense van mimic park sorry";

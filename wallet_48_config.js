@@ -1,1 +1,1 @@
-var mnemonic = "subject over rib flag flavor trash guide slab walnut can remove moon";
+var mnemonic = "same fame plate salon try inflict dignity coffee try story differ dice";

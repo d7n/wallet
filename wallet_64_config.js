@@ -1,1 +1,1 @@
-var mnemonic = "melt tube asset army issue appear train flame stay crowd hotel embody";
+var mnemonic = "stairs visual autumn crouch reject thought stone velvet burger trigger response crack";

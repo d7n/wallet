@@ -1,1 +1,1 @@
-var mnemonic = "motor crouch easily spend lemon doctor elite throw upgrade negative whale tumble";
+var mnemonic = "point toilet car fiction unusual tuna hockey select mesh seven world inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "marine idea enhance wife exhibit spin match walk noble skill unlock frame";
+var mnemonic = "lesson nose hen guide you bubble type donkey opera cement smile hip";

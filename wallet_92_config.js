@@ -1,1 +1,1 @@
-var mnemonic = "own immune south sock into smoke blast vote era defy remember patient";
+var mnemonic = "dutch armed half quote meat grass plug duck lyrics million because involve";

@@ -1,1 +1,1 @@
-var mnemonic = "fat repeat marble wise industry flat catch inside emotion volume hawk kidney";
+var mnemonic = "suspect radio today mail transfer practice sleep across village degree solution expand";

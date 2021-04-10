@@ -1,1 +1,1 @@
-var mnemonic = "crowd curious river differ around sail garbage marine manage clock please mixture";
+var mnemonic = "forest announce master under stairs weather attract slim novel menu urban cart";

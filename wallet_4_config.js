@@ -1,1 +1,1 @@
-var mnemonic = "stock shiver wet cabbage rich replace cat bus arrest fringe keen current";
+var mnemonic = "access surround cool flower odor century client neglect story skin timber sad";

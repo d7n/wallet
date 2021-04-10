@@ -1,1 +1,1 @@
-var mnemonic = "race pelican tape inflict shrimp accident stadium cost rifle announce boat wire";
+var mnemonic = "resemble gap cream earn will zoo change master promote hint junior flush";

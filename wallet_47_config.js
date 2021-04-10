@@ -1,1 +1,1 @@
-var mnemonic = "rocket april develop tiger victory universe funny child keen extend rare vacuum";
+var mnemonic = "member ethics proud defense eternal picnic adapt dry add short awful security";

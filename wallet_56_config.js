@@ -1,1 +1,1 @@
-var mnemonic = "demand cousin sister pride skirt veteran more inform entire amount traffic slide";
+var mnemonic = "corn another wash exhaust hockey second convince expand claim phone stadium sister";

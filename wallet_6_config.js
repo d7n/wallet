@@ -1,1 +1,1 @@
-var mnemonic = "current this sunny village quantum expand enough service easily hat arm buyer";
+var mnemonic = "matrix truck pull slender lemon school evil wear market style tail polar";

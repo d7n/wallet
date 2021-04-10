@@ -1,1 +1,1 @@
-var mnemonic = "square able camp bone genuine copper tumble grow reason solid parent walnut";
+var mnemonic = "lava ring expire reject daring olive onion broccoli margin offer educate fiscal";

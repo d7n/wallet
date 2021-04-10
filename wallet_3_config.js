@@ -1,1 +1,1 @@
-var mnemonic = "gossip thing tail camera spatial happy glass tell stairs edge moment electric";
+var mnemonic = "steel design midnight chase step foil dust rude skin typical chunk ghost";

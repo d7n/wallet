@@ -1,1 +1,1 @@
-var mnemonic = "funny mimic report stone gate trade zero tell airport rifle wedding virtual";
+var mnemonic = "license hold digital tongue cable smile snap update spring fox build tornado";

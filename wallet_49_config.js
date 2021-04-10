@@ -1,1 +1,1 @@
-var mnemonic = "tell slam company grace marriage output adjust illness glue nominee weasel nation";
+var mnemonic = "buzz corn add demise effort grace black able keep glide tide spin";

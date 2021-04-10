@@ -1,1 +1,1 @@
-var mnemonic = "job warrior core material major evidence idle reveal win friend adapt spread";
+var mnemonic = "awkward agree popular dose square blame worth right session border common enter";

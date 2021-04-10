@@ -1,1 +1,1 @@
-var mnemonic = "creek coconut pioneer practice tennis grass aim spring kitchen share demand sun";
+var mnemonic = "private ahead maple response again raven icon put explain find draw offer";

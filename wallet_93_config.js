@@ -1,1 +1,1 @@
-var mnemonic = "swarm spend artwork ceiling original physical north prefer juice picnic vital involve";
+var mnemonic = "true harbor rare dilemma carpet frog polar corn off sweet subject across";

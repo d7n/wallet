@@ -1,1 +1,1 @@
-var mnemonic = "festival mistake fiction climb buyer know toilet join dress long scrap battle";
+var mnemonic = "guide story apart moon raw atom supreme sustain spring praise bench gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "whale argue push attitude farm truly what fiction saddle badge retire coil";
+var mnemonic = "poem else metal wheat roast sponsor project fire alert okay earn margin";

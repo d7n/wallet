@@ -1,1 +1,1 @@
-var mnemonic = "mean gate globe venue truck galaxy train hill media route doctor kid";
+var mnemonic = "scene juice express canoe autumn humble slam cause rice sure face youth";

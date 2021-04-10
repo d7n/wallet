@@ -1,1 +1,1 @@
-var mnemonic = "month sunny isolate pepper slight improve seminar fix brisk flag illness casual";
+var mnemonic = "grain bread elegant daughter six vibrant course pact omit uncover always debate";

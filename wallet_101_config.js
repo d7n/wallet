@@ -1,1 +1,1 @@
-var mnemonic = "hour entire farm similar manual blush cram pluck robust attract prize abstract";
+var mnemonic = "scan primary pause iron emotion usage lumber clog goddess artefact certain behind";

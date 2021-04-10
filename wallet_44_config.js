@@ -1,1 +1,1 @@
-var mnemonic = "large hold glare swap armed confirm just range fantasy sugar cheese citizen";
+var mnemonic = "erode credit observe defense abandon unique lawsuit access almost over climb bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "bench man dog enrich year satisfy win valid ship snap income coach";
+var mnemonic = "wait corn race adapt convince key amused mechanic skate face phone glare";

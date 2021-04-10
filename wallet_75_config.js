@@ -1,1 +1,1 @@
-var mnemonic = "meat flower smile grace arrow steak odor enrich later web nephew rug";
+var mnemonic = "window genuine crack steak radar rain fan false solid unveil waste eternal";

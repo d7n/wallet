@@ -1,1 +1,1 @@
-var mnemonic = "army outer glance fame enjoy deny tissue educate elite hotel intact satoshi";
+var mnemonic = "head nation moral warfare option funny inherit urban stairs cushion disagree talk";

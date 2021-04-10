@@ -1,1 +1,1 @@
-var mnemonic = "gadget close record gun large hurry deliver salad pumpkin lizard result patient";
+var mnemonic = "vacant ginger bird tomorrow denial blade scissors shaft lunch refuse federal infant";

@@ -1,1 +1,1 @@
-var mnemonic = "answer hybrid reveal heavy put surround entry symbol region always deliver corn";
+var mnemonic = "artwork rely indoor change casino business page modify such second phrase mind";
