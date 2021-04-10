@@ -1,1 +1,1 @@
-var mnemonic = "example coral hedgehog indicate proud remain cost twelve choice oblige vacant until";
+var mnemonic = "post off nature hunt prize spread happy gather goat kingdom lonely salt";

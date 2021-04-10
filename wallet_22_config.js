@@ -1,1 +1,1 @@
-var mnemonic = "analyst arctic palace decorate ancient bullet tissue shoulder this subject suspect slogan";
+var mnemonic = "boy exclude edge mosquito control whale exit dizzy soccer talent girl vendor";

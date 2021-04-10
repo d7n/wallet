@@ -1,1 +1,1 @@
-var mnemonic = "force tag weather ensure distance ski wood few minimum leave art carry";
+var mnemonic = "piano twist concert fruit tree service gain promote powder session mail work";

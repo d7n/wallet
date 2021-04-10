@@ -1,1 +1,1 @@
-var mnemonic = "olympic direct life cabin person drink blue oxygen assist blur scout laptop";
+var mnemonic = "surprise loan song wheel canoe round job dwarf snake endless notable cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "pig method cargo dawn spy pitch victory fire milk bitter excuse rebuild";
+var mnemonic = "axis sea dial trigger elbow danger expand absent grass drift exile repair";

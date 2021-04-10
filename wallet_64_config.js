@@ -1,1 +1,1 @@
-var mnemonic = "mad hurry inmate mercy civil infant suggest remove parent marble base wage";
+var mnemonic = "stand inner tongue sad marine earn enforce crucial gentle silly program ethics";

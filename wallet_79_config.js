@@ -1,1 +1,1 @@
-var mnemonic = "live pizza parent walk bullet expire open library equal pact emotion tuition";
+var mnemonic = "slim cart enroll slogan latin series panther twice rubber dad inform party";

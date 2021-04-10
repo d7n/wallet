@@ -1,1 +1,1 @@
-var mnemonic = "copy piano stomach useless eternal despair wing guide either stove survey asset";
+var mnemonic = "below bird fault crisp buzz wait math rule weapon ostrich toddler question";

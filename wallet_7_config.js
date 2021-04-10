@@ -1,1 +1,1 @@
-var mnemonic = "observe market one elite remain pride alley ocean flight inch enemy stone";
+var mnemonic = "tourist few daring excuse section limb real asset shrug taxi chunk notice";

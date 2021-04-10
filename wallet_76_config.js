@@ -1,1 +1,1 @@
-var mnemonic = "increase book please found army observe gift tail legend hint exist canvas";
+var mnemonic = "cloud acid enjoy true velvet deposit keen argue recall street slogan swallow";

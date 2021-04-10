@@ -1,1 +1,1 @@
-var mnemonic = "best glory harbor divorce destroy merge dream embark gown you solve bomb";
+var mnemonic = "riot simple dragon pear cabin much furnace pelican damp key vicious attend";

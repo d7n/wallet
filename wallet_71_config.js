@@ -1,1 +1,1 @@
-var mnemonic = "one canvas model banana obtain planet hip drift essence brisk attitude feature";
+var mnemonic = "coast popular silly gadget have clutch solution reason rabbit weapon tumble loan";

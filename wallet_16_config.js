@@ -1,1 +1,1 @@
-var mnemonic = "shop candy weather enter market inherit list never video jealous couple peasant";
+var mnemonic = "tissue object adult then behave flash glow omit dream memory lock cup";

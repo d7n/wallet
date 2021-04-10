@@ -1,1 +1,1 @@
-var mnemonic = "oven kitten prepare civil express ball chimney write power deliver project boss";
+var mnemonic = "motion coast solid kind expire include sheriff truck option hazard evidence hunt";

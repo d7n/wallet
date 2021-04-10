@@ -1,1 +1,1 @@
-var mnemonic = "unusual shy curve valley canyon limit foam exercise glow okay citizen daughter";
+var mnemonic = "whisper clap absurd bird into retire because task ranch estate basket reunion";

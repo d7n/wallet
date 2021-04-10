@@ -1,1 +1,1 @@
-var mnemonic = "auction become urban sniff neck exotic autumn tape leg apart dad have";
+var mnemonic = "unable seminar churn whisper priority crime floor magic accuse general again morning";

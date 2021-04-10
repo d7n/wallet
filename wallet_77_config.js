@@ -1,1 +1,1 @@
-var mnemonic = "school umbrella above carpet few bird scare man attract opinion pulp notice";
+var mnemonic = "close boat puppy short document initial present turkey this mountain heart shove";

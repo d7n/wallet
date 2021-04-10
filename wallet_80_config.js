@@ -1,1 +1,1 @@
-var mnemonic = "strong dune crouch game mixture volume rubber birth attract desert pony silly";
+var mnemonic = "laundry frequent pole rude peasant unfair output they series kite south ocean";

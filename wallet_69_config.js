@@ -1,1 +1,1 @@
-var mnemonic = "this title ostrich canoe cake cover usual glow cousin palm aspect uniform";
+var mnemonic = "mushroom gather soup strike image lobster force elephant client drum way runway";

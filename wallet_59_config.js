@@ -1,1 +1,1 @@
-var mnemonic = "leopard fall because stock animal private ball world item loud fat core";
+var mnemonic = "inspire rib base load argue style tape female pledge price where fortune";

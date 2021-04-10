@@ -1,1 +1,1 @@
-var mnemonic = "under brief robot happy meat clinic ready smooth man metal shield soldier";
+var mnemonic = "romance wet report security village endless trouble observe blush near captain soap";

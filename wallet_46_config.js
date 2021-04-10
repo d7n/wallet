@@ -1,1 +1,1 @@
-var mnemonic = "mobile learn wood ocean similar brick second indoor slide time catalog venue";
+var mnemonic = "soup economy assault admit infant actor treat remove liar interest number order";

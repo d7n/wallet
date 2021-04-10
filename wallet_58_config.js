@@ -1,1 +1,1 @@
-var mnemonic = "satisfy latin orange marble settle banana auto awful holiday owner list oyster";
+var mnemonic = "hat topple turkey prefer vacant lesson invest music same regret afford salt";

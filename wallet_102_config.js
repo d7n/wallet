@@ -1,1 +1,1 @@
-var mnemonic = "envelope neither embrace drop wonder trumpet clog puppy excess valley sunset novel";
+var mnemonic = "tongue hawk woman helmet suffer please faculty purity render can hip mistake";

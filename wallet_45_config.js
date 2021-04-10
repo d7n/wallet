@@ -1,1 +1,1 @@
-var mnemonic = "around slush vendor one sentence phrase heavy blast family culture mean excuse";
+var mnemonic = "length deposit nuclear drink wash avocado sketch obey book two panda charge";

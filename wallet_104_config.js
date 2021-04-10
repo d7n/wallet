@@ -1,1 +1,1 @@
-var mnemonic = "volume leaf tongue seminar wait update tape penalty lobster mimic case crush";
+var mnemonic = "glad very brick journey fabric reform stuff shine defy amateur injury banana";

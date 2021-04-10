@@ -1,1 +1,1 @@
-var mnemonic = "own almost sweet trash drink limb shift car mercy fantasy sort wrap";
+var mnemonic = "also library wash shrug radio pipe inmate model usage umbrella major duck";

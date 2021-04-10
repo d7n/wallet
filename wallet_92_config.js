@@ -1,1 +1,1 @@
-var mnemonic = "cabin distance print trouble butter skin lend offer someone feed grow slight";
+var mnemonic = "before tunnel gallery estate bring warfare collect panda across trim push ready";

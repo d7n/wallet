@@ -1,1 +1,1 @@
-var mnemonic = "glimpse today hospital vendor say pitch tape search sun result spin monster";
+var mnemonic = "edit confirm series coast clean wet nuclear cave coast unique bonus gossip";

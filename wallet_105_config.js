@@ -1,1 +1,1 @@
-var mnemonic = "must liquid dust attitude when kind slim jewel stadium creek approve reopen";
+var mnemonic = "clever resist sword giraffe unusual aisle jungle rapid pilot process cream muffin";

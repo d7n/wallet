@@ -1,1 +1,1 @@
-var mnemonic = "drum ability cinnamon symbol light north police major avoid pause equal tribe";
+var mnemonic = "hamster knock purity powder reason monitor eye library rice hub eager face";

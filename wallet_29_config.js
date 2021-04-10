@@ -1,1 +1,1 @@
-var mnemonic = "mix spike cat beach swallow pause gold team wedding switch add sea";
+var mnemonic = "library ladder crisp hotel switch broken company hour pass neglect candy curious";

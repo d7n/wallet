@@ -1,1 +1,1 @@
-var mnemonic = "jungle flush shoot kite memory capital grab acquire shuffle sing tube crumble";
+var mnemonic = "exist stamp opinion ethics exclude flower grid enough couch proud exhibit odor";

@@ -1,1 +1,1 @@
-var mnemonic = "man rain orchard salute swap note pear humor neglect lecture okay cabin";
+var mnemonic = "elegant relief pact melt nurse sudden rich penalty impact defense echo educate";

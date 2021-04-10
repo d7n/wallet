@@ -1,1 +1,1 @@
-var mnemonic = "coconut disagree bag utility surround time weekend reason nose van purse segment";
+var mnemonic = "document tip analyst drip climb tribe explain item horn tiger siege arrange";

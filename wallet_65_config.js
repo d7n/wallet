@@ -1,1 +1,1 @@
-var mnemonic = "salon number mandate isolate pencil share amount intact farm vague want shell";
+var mnemonic = "kingdom harbor divert join film junior dream wolf erase thing sand skin";

@@ -1,1 +1,1 @@
-var mnemonic = "now hurt enjoy good scrap march click abuse brain toward glue pupil";
+var mnemonic = "female cricket struggle model hat whale gospel roof urge keen craft fault";

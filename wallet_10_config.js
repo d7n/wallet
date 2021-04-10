@@ -1,1 +1,1 @@
-var mnemonic = "edit liberty firm penalty chef session hawk theory more theory bitter three";
+var mnemonic = "welcome sun hope patch tooth lava reason valid future saddle hover approve";

@@ -1,1 +1,1 @@
-var mnemonic = "soda lecture silver endorse quality lava boring border puppy sort absurd organ";
+var mnemonic = "repeat outer hair power clinic chest liberty devote sail talk glue silver";

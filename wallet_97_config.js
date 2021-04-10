@@ -1,1 +1,1 @@
-var mnemonic = "ancient mix short badge hobby stereo crowd opera winter sunny nature eye";
+var mnemonic = "morning close will token kid together hero blue keen mountain tortoise room";

@@ -1,1 +1,1 @@
-var mnemonic = "seed wage buddy depart heavy ethics spring wheat snake parade reopen inquiry";
+var mnemonic = "demand catalog mosquito tourist tell tragic foil truly home suit matrix resist";

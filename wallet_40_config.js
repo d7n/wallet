@@ -1,1 +1,1 @@
-var mnemonic = "raw next cycle name doctor black early blast have segment stamp bus";
+var mnemonic = "later village tribe jelly praise panda gap shy drastic viable power edit";

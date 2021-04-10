@@ -1,1 +1,1 @@
-var mnemonic = "jealous avocado occur cause age rug deposit goose float like mind cricket";
+var mnemonic = "tray mirror message giant shove wine make crack nominee chuckle taste animal";

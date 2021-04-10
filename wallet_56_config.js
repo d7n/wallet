@@ -1,1 +1,1 @@
-var mnemonic = "wasp vague night romance rebel toilet volume damp social tooth supreme reform";
+var mnemonic = "use choice chase vicious fence victory virtual print report undo goddess uncle";

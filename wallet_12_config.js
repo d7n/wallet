@@ -1,1 +1,1 @@
-var mnemonic = "mountain remind museum toss drastic pigeon unveil powder enemy urge grit wait";
+var mnemonic = "episode panel toss auto spike sunny firm crew wall tongue bone crisp";

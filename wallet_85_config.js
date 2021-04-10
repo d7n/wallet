@@ -1,1 +1,1 @@
-var mnemonic = "such blush talent deposit essence plastic immune rival task actress hat garbage";
+var mnemonic = "enough hole voice volume wreck shaft pig urban design token goose trim";

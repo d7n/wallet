@@ -1,1 +1,1 @@
-var mnemonic = "arrange small feel bike wool panther boost boat weasel cheese canyon buyer";
+var mnemonic = "finish airport cheese jelly peace era wreck harsh this oxygen farm pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "between system reform waste kingdom invest salute forum laptop trend early brief";
+var mnemonic = "gloom multiply glue theory two please elegant hurry creek entire whisper betray";

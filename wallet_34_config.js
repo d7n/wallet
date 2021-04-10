@@ -1,1 +1,1 @@
-var mnemonic = "impulse surge upper settle corn great dry expand ugly motion garden tattoo";
+var mnemonic = "rubber lounge physical scale orchard retire unlock ritual earth ranch stem found";

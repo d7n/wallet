@@ -1,1 +1,1 @@
-var mnemonic = "mind credit jar physical until hamster size afraid weird tree frame champion";
+var mnemonic = "velvet syrup caught winner noodle velvet gadget trip sing such alter mesh";

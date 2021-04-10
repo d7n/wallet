@@ -1,1 +1,1 @@
-var mnemonic = "squeeze road volume tell left way raccoon six tired lift best inflict";
+var mnemonic = "wagon exhibit today notable maze escape woman surround knock fox begin crumble";

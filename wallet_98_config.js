@@ -1,1 +1,1 @@
-var mnemonic = "angle ask panic enable satisfy urge caution young voyage pretty resemble business";
+var mnemonic = "whisper shell dance lesson one orient web fox furnace hedgehog thumb shove";

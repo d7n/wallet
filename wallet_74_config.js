@@ -1,1 +1,1 @@
-var mnemonic = "fuel road any among tribe machine smart bleak custom insane mosquito tenant";
+var mnemonic = "fence narrow similar limit pull sentence cabin drop loud spatial liquid fury";

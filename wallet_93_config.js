@@ -1,1 +1,1 @@
-var mnemonic = "buyer shiver chef pull insane record survey unique coral conduct long exercise";
+var mnemonic = "vessel thank sugar gym observe hurt cost clutch treat breeze three various";

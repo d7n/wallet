@@ -1,1 +1,1 @@
-var mnemonic = "delay chat neck icon rapid write aspect blade critic text hen vibrant";
+var mnemonic = "bronze hire speed quantum pole during impulse harsh mean intact column chief";

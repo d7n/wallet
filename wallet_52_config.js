@@ -1,1 +1,1 @@
-var mnemonic = "world oyster easy outer easily valid punch buffalo tragic bench because bus";
+var mnemonic = "exhaust sugar fragile shine salute avoid hedgehog glory radio rent join portion";

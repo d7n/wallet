@@ -1,1 +1,1 @@
-var mnemonic = "custom whisper achieve face cruel forward assault exhaust decrease almost burst inner";
+var mnemonic = "force pottery tomorrow section firm reflect smoke unknown brick person scout canvas";

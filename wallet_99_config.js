@@ -1,1 +1,1 @@
-var mnemonic = "turkey tone health banana hazard silk divide sudden super feed action sick";
+var mnemonic = "spirit solar warfare timber slush neither undo smoke hotel screen differ main";

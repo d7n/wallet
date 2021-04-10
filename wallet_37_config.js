@@ -1,1 +1,1 @@
-var mnemonic = "pudding cook pond garbage plug wire chimney future able ritual leg fashion";
+var mnemonic = "congress poem tube lava warrior certain ribbon husband fine crane glow found";

@@ -1,1 +1,1 @@
-var mnemonic = "infant snack jealous awkward someone spring void number square defy social fog";
+var mnemonic = "direct potato voyage aisle observe toy vehicle umbrella culture divide drift agree";

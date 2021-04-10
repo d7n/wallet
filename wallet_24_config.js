@@ -1,1 +1,1 @@
-var mnemonic = "video nothing poverty tourist lonely divorce silk black wrong curve sister flock";
+var mnemonic = "ill humor kingdom valley view place this actual craft cart chuckle dove";

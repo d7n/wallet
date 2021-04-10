@@ -1,1 +1,1 @@
-var mnemonic = "spin hurdle era radio absorb attract shuffle work course disease item stomach";
+var mnemonic = "glow tunnel atom punch animal wait science tackle install ranch flat immune";

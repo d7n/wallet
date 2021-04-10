@@ -1,1 +1,1 @@
-var mnemonic = "index need vacant group cram donate hospital kitchen glove remember dice clinic";
+var mnemonic = "obey shy castle pistol cool renew canoe fork hard champion resist skull";

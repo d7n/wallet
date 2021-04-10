@@ -1,1 +1,1 @@
-var mnemonic = "now lobster veteran bounce figure tank crumble stool blanket wall tail plunge";
+var mnemonic = "two script number runway immense enroll soul artwork salt occur festival sudden";

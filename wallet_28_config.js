@@ -1,1 +1,1 @@
-var mnemonic = "kind menu axis snap inmate fury mansion desk margin sight vote early";
+var mnemonic = "melt frown maple horse reform silly race surge inherit immune dune enrich";

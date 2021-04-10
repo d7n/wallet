@@ -1,1 +1,1 @@
-var mnemonic = "laptop frown notable pigeon liberty ghost unusual potato art exhaust negative burden";
+var mnemonic = "buyer author remember warm piano yard disagree suit casual april erode afford";

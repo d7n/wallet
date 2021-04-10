@@ -1,1 +1,1 @@
-var mnemonic = "program text traffic setup soap lobster symptom solid profit game illegal glide";
+var mnemonic = "oyster repeat hurry suspect zoo senior vehicle tissue discover prevent marine camera";

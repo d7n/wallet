@@ -1,1 +1,1 @@
-var mnemonic = "zone tired garlic ramp cement fold program palace famous dragon spider lawsuit";
+var mnemonic = "auto worth pear ten bitter broccoli obvious know cross same before garage";

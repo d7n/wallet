@@ -1,1 +1,1 @@
-var mnemonic = "train fossil bachelor detail retreat situate unlock honey ripple owner aspect accuse";
+var mnemonic = "soda swing left fitness manual segment rocket predict learn vacant subject level";

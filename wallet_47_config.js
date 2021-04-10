@@ -1,1 +1,1 @@
-var mnemonic = "prison slide work museum hungry soup skull credit lake wise develop visual";
+var mnemonic = "modify bargain survey thing wealth bronze usage tell focus noodle carbon march";

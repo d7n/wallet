@@ -1,1 +1,1 @@
-var mnemonic = "chest smile area camera tank artwork olive cave armor swim feature test";
+var mnemonic = "salmon theme tomorrow swift artefact safe pudding train tackle baby beauty reform";

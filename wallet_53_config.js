@@ -1,1 +1,1 @@
-var mnemonic = "slow leave idea effort anchor better surprise ecology dynamic frequent review good";
+var mnemonic = "reunion awful timber maid radar december camp initial badge average release trash";

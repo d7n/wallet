@@ -1,1 +1,1 @@
-var mnemonic = "faculty obvious battle bench umbrella cycle soccer poem baby whisper train stem";
+var mnemonic = "anger noodle hurry snap tiny cry gas raccoon collect truck piece glimpse";

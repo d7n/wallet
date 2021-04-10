@@ -1,1 +1,1 @@
-var mnemonic = "erode acoustic exist distance settle random stable cherry used cruel coin yard";
+var mnemonic = "category general color push brush category brother cigar pig life wisdom stage";

@@ -1,1 +1,1 @@
-var mnemonic = "coral urban web gather concert basic donor tunnel reveal neck arrow replace";
+var mnemonic = "mesh acoustic radar danger phone guard era position pelican panic gather glory";

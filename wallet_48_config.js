@@ -1,1 +1,1 @@
-var mnemonic = "cattle couch smoke shuffle state surprise damage sort naive word champion settle";
+var mnemonic = "flavor fit stand rival copy woman sadness tomato daring struggle piano gorilla";

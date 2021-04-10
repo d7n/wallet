@@ -1,1 +1,1 @@
-var mnemonic = "grief faculty apart mechanic drink harbor wild distance palace similar cloud slogan";
+var mnemonic = "marine bus youth design pact fresh plunge decline pair consider try fancy";

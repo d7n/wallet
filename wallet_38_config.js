@@ -1,1 +1,1 @@
-var mnemonic = "plunge member recycle enforce expose people welcome suffer donor cushion body jeans";
+var mnemonic = "embrace hip such space level depart uniform wrap explain harbor fossil enjoy";

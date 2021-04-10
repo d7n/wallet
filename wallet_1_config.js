@@ -1,1 +1,1 @@
-var mnemonic = "toss whisper impulse street rally subway brave dinosaur zone lab dash sauce";
+var mnemonic = "brief bachelor chef tower can noodle deer beyond fruit possible sniff spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "curve theory bulb rain crazy diamond assist salmon duty peanut afraid love";
+var mnemonic = "garment first brisk tragic coast summer bid duty panic solution twelve raise";

@@ -1,1 +1,1 @@
-var mnemonic = "immense crack ordinary language camera sort dice oven ensure deal film release";
+var mnemonic = "please ordinary airport radar saddle nice cabbage bomb waste second devote notice";

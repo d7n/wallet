@@ -1,1 +1,1 @@
-var mnemonic = "survey maze bubble dune road orient coconut witness airport tent clock match";
+var mnemonic = "group awful fatal casual anger comic upper upset echo change spice domain";

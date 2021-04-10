@@ -1,1 +1,1 @@
-var mnemonic = "message coral warm scene inflict twenty alley sample deer alpha bag manual";
+var mnemonic = "table embrace dizzy orange reopen fence crumble section never wire upon embody";

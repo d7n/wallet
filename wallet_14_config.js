@@ -1,1 +1,1 @@
-var mnemonic = "huge height deliver bubble critic neither thumb arrest chat destroy force festival";
+var mnemonic = "layer logic valley gain total relax stuff box modify double little attend";

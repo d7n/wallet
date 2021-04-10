@@ -1,1 +1,1 @@
-var mnemonic = "orbit start spider twin coral cat need sea brick banana word opera";
+var mnemonic = "dawn wreck issue hurry ecology annual reunion nominee next copper winner innocent";

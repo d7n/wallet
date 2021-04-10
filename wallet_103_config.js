@@ -1,1 +1,1 @@
-var mnemonic = "yellow hint wasp twice amused climb remember interest unfold deliver census discover";
+var mnemonic = "scrap flip onion salon rough teach nut first explain luggage cream female";

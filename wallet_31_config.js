@@ -1,1 +1,1 @@
-var mnemonic = "lab camp claim search consider swing assault renew soft twin rotate punch";
+var mnemonic = "diamond word science supreme wheat cat peace plate poem force language general";

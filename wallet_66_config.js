@@ -1,1 +1,1 @@
-var mnemonic = "firm silly useless sudden limit price off lyrics grape exercise extra guitar";
+var mnemonic = "mixed best bus lizard session vivid crime better brick tilt recycle share";

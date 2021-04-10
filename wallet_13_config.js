@@ -1,1 +1,1 @@
-var mnemonic = "north group glide club leisure news people rice tail injury wish blast";
+var mnemonic = "cube song blouse ethics violin champion believe pull clinic unusual noodle celery";
