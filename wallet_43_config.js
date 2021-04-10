@@ -1,1 +1,1 @@
-var mnemonic = "dice beyond must another mail trial ethics fragile term park prevent primary";
+var mnemonic = "this viable laundry lake bottom lamp crash hard fall news silver depth";

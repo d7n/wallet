@@ -1,1 +1,1 @@
-var mnemonic = "copper fever miss smoke way badge cause inhale during chase olive lift";
+var mnemonic = "pony ill doctor stem burden afraid cherry just garage pass deposit valid";

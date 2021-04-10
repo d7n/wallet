@@ -1,1 +1,1 @@
-var mnemonic = "answer imitate boost surprise oil card disagree gadget mimic make team crisp";
+var mnemonic = "lake educate candy curtain pioneer vibrant cycle slush seven sword convince gate";

@@ -1,1 +1,1 @@
-var mnemonic = "give buyer dad word mosquito salon tide garden decrease vendor fame private";
+var mnemonic = "fiber retreat steak index satisfy coach slim snow hat knock kite soda";

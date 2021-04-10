@@ -1,1 +1,1 @@
-var mnemonic = "civil pulse clever brisk quit credit dynamic clutch kit boy common space";
+var mnemonic = "square valid park limit crater analyst hunt answer horn main action lyrics";

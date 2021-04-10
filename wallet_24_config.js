@@ -1,1 +1,1 @@
-var mnemonic = "badge valve scout wrestle width add stem forward icon tennis jelly sell";
+var mnemonic = "bridge grass harvest fruit aisle vehicle then wet rather badge blouse toward";

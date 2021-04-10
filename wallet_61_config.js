@@ -1,1 +1,1 @@
-var mnemonic = "forward frame theory frozen renew brain bind tourist suffer casino reason school";
+var mnemonic = "safe talk rabbit issue miss dish crumble panic derive multiply pave exit";

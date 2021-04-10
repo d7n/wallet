@@ -1,1 +1,1 @@
-var mnemonic = "fringe crop sudden strategy effort great license cereal case entry pass lion";
+var mnemonic = "evoke produce trouble enemy core impose easy hard rubber unhappy region stomach";

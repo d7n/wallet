@@ -1,1 +1,1 @@
-var mnemonic = "omit latin sting bone law panic cloud trial cradle throw nasty raccoon";
+var mnemonic = "clown inner woman claw survey fun like flash choose track when dilemma";

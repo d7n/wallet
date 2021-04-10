@@ -1,1 +1,1 @@
-var mnemonic = "lizard sunny obvious involve gravity cat afford ski suit puppy social father";
+var mnemonic = "false famous expect trick distance nice ivory tunnel father junior entire loud";

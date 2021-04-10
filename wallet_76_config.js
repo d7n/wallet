@@ -1,1 +1,1 @@
-var mnemonic = "depart grape fat amazing upset car clutch reopen champion snake impulse renew";
+var mnemonic = "wolf update dumb credit distance penalty cable hospital mix together spice alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "intact ankle gauge seat gym leaf canoe rally river addict stool wrist";
+var mnemonic = "gas rather margin side object student wasp dignity sudden liberty naive response";

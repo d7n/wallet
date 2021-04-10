@@ -1,1 +1,1 @@
-var mnemonic = "subject target gown menu educate whisper plate photo dice glow hard endless";
+var mnemonic = "aim sunny okay moon author image skin evolve olympic payment glove ensure";

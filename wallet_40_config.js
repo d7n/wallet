@@ -1,1 +1,1 @@
-var mnemonic = "crawl slim stomach rifle arctic shrimp green inspire day dwarf property assault";
+var mnemonic = "burden chef advice capable trigger tiny fabric item target harvest ocean build";

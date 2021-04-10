@@ -1,1 +1,1 @@
-var mnemonic = "day inch equip slam help sad kid tent high pretty vote birth";
+var mnemonic = "neck urge then position spend around post stool worry unaware ancient derive";

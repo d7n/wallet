@@ -1,1 +1,1 @@
-var mnemonic = "original worry salad finish raven color source syrup order ribbon recycle eternal";
+var mnemonic = "clerk pass token vital foster rival eight walk then loop harsh poverty";

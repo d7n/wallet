@@ -1,1 +1,1 @@
-var mnemonic = "twist drink trumpet lecture side grab certain into service puzzle artefact coffee";
+var mnemonic = "prison click agree parade eye slim fat pass tower hollow cheap delay";

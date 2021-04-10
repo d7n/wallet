@@ -1,1 +1,1 @@
-var mnemonic = "earn glue despair myth mind bind urge nature soldier later family region";
+var mnemonic = "there rail diagram fog breeze attack photo orbit twist carry circle hazard";

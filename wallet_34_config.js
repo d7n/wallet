@@ -1,1 +1,1 @@
-var mnemonic = "penalty month dolphin snow evidence fun merge scatter scrub dove exhaust chest";
+var mnemonic = "tower battle inch sick step pulp flash hurry tongue anger blood able";

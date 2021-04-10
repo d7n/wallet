@@ -1,1 +1,1 @@
-var mnemonic = "tongue cash lady business round rare crisp dad junk practice course route";
+var mnemonic = "axis peasant mean vivid enemy friend lens mule vicious nice arrest unfold";

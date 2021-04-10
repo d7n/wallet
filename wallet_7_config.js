@@ -1,1 +1,1 @@
-var mnemonic = "earth poet load final fever damp jacket lunch rich allow aisle annual";
+var mnemonic = "spider luggage robot country humble swim nature soup duck trim only mistake";

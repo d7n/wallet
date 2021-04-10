@@ -1,1 +1,1 @@
-var mnemonic = "oak sign door gather stomach violin mechanic reduce rose win easily clarify";
+var mnemonic = "monster sure conduct net zone cage else soap position cactus poverty traffic";

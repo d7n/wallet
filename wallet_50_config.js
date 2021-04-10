@@ -1,1 +1,1 @@
-var mnemonic = "decrease chronic special scare advance quiz town omit magnet prosper diamond access";
+var mnemonic = "day buyer unit forum fat entire buzz lemon movie solid wide design";

@@ -1,1 +1,1 @@
-var mnemonic = "shift silk noodle acid submit rival begin cupboard control tomorrow narrow slice";
+var mnemonic = "destroy manual insane toy coast asset worry blush turtle youth crazy author";

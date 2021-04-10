@@ -1,1 +1,1 @@
-var mnemonic = "case equal february dress ill because space side detect hip shield middle";
+var mnemonic = "pride private shallow nominee library range grunt amused benefit sun paddle electric";

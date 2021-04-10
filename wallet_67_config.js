@@ -1,1 +1,1 @@
-var mnemonic = "badge hat film company aspect uncover erupt eyebrow bronze ostrich surge vicious";
+var mnemonic = "inner creek atom purity fox humor slow local tail rabbit melt poem";

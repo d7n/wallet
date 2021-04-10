@@ -1,1 +1,1 @@
-var mnemonic = "list type market thank write grape morning leaf second horn valve certain";
+var mnemonic = "supreme student autumn weapon expose debris obtain derive siren huge predict pact";

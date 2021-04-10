@@ -1,1 +1,1 @@
-var mnemonic = "knock cube mango split common harsh year chase catalog blush escape brush";
+var mnemonic = "obey prize pear daughter shop candy side canyon stand bronze rural board";

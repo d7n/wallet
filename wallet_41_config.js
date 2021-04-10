@@ -1,1 +1,1 @@
-var mnemonic = "kitchen belt case project blue guess cushion stadium trick mother wine furnace";
+var mnemonic = "lazy toe evolve voice peanut device blade situate brand bridge property panther";

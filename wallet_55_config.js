@@ -1,1 +1,1 @@
-var mnemonic = "erode model jelly video hedgehog broom start card zero away blouse fiber";
+var mnemonic = "crop list robust bleak slam right violin noble pumpkin happy sword spy";

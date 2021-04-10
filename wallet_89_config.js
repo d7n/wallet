@@ -1,1 +1,1 @@
-var mnemonic = "horn prevent february staff lock crack atom grief stone sick service chase";
+var mnemonic = "cart century bike announce youth smooth torch embark fatigue feed tube acid";

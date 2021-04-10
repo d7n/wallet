@@ -1,1 +1,1 @@
-var mnemonic = "urban cigar curve turtle bar initial welcome blossom rocket rival equip glow";
+var mnemonic = "aerobic fit wrestle torch purse valley sphere trumpet drop wheat amused pioneer";

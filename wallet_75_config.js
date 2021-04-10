@@ -1,1 +1,1 @@
-var mnemonic = "plastic easy science asthma spin theory project defy dirt rent client maid";
+var mnemonic = "river round alter rebel apology eager image desk zero hunt curious six";

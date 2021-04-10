@@ -1,1 +1,1 @@
-var mnemonic = "bean found liquid coral today inside trust uncle casino skull soccer genuine";
+var mnemonic = "diagram mosquito voyage limb weather cigar smooth orbit neck whisper build shine";

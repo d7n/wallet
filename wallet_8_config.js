@@ -1,1 +1,1 @@
-var mnemonic = "erupt hover select soul air shy sad enemy isolate gesture visa blood";
+var mnemonic = "chef like chapter world obscure execute truck regret whale spirit parade kite";

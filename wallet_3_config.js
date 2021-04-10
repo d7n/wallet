@@ -1,1 +1,1 @@
-var mnemonic = "rack must way mango west flat put mean man excuse warm merge";
+var mnemonic = "fly iron twin fire wear border deny lucky talk teach access learn";

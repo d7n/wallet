@@ -1,1 +1,1 @@
-var mnemonic = "cash tag silver identify cloth trouble gallery general bulk joke radio obvious";
+var mnemonic = "weird burden similar absorb ordinary affair vote rain actual scene illness under";

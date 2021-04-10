@@ -1,1 +1,1 @@
-var mnemonic = "supply clip vicious order predict corn negative accident coral skull initial stay";
+var mnemonic = "average project economy fitness orchard wealth clock shrug slot sorry olympic assume";

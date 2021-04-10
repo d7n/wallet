@@ -1,1 +1,1 @@
-var mnemonic = "anxiety three tooth pull leopard oblige train truly glove nut lunar cushion";
+var mnemonic = "canal cruise opera pig transfer few figure claw stand use charge gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "dish method glow small math vehicle stick fuel grab possible traffic discover";
+var mnemonic = "outside tobacco decade junk defy seat nasty truly beef ride great bless";

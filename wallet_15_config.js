@@ -1,1 +1,1 @@
-var mnemonic = "insect december imitate empty bamboo decline street crash peanut magic submit jungle";
+var mnemonic = "infant lunar scheme lake anxiety canyon sudden baby toilet direct card remember";

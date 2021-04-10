@@ -1,1 +1,1 @@
-var mnemonic = "danger young damp fantasy uncover never badge add tortoise faculty disease item";
+var mnemonic = "practice mixed swap solution isolate mandate panda artist spray sniff trim couple";

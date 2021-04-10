@@ -1,1 +1,1 @@
-var mnemonic = "wealth wet scare motion insane party skirt base clog half assault extra";
+var mnemonic = "butter pulp chapter good weird donor ski glide hospital gesture unveil connect";

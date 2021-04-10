@@ -1,1 +1,1 @@
-var mnemonic = "sight grant bulk fragile senior luggage stuff skate opinion inflict inquiry grit";
+var mnemonic = "occur van worth glad drum wire income park border now victory cruise";

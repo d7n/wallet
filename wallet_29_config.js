@@ -1,1 +1,1 @@
-var mnemonic = "multiply park often cable clarify exile era mercy they rule cram behind";
+var mnemonic = "pet curious print syrup announce juice fame slush nose trial scatter chase";

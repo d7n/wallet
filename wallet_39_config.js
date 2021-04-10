@@ -1,1 +1,1 @@
-var mnemonic = "now blame choice rally brain just champion trend sister expose scare ghost";
+var mnemonic = "dry whip glide denial two trial cotton seed try split light oil";

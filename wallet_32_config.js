@@ -1,1 +1,1 @@
-var mnemonic = "forest rain share that lens amateur athlete icon finger average dust style";
+var mnemonic = "window second suffer high quality keep bright reason about tree month release";

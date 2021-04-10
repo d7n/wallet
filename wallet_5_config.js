@@ -1,1 +1,1 @@
-var mnemonic = "isolate arrive ripple best wood layer eyebrow good kidney net life smooth";
+var mnemonic = "idea text round mushroom there mechanic milk click length mass armor gun";

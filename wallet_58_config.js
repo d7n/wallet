@@ -1,1 +1,1 @@
-var mnemonic = "chief eight humor music charge ability scout travel head arena eagle make";
+var mnemonic = "proof matter rack merit teach start cycle script inch employ put stool";

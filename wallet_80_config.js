@@ -1,1 +1,1 @@
-var mnemonic = "swim jump birth hair snake right kingdom female opera story pave affair";
+var mnemonic = "pause replace setup copper leader boss artist shaft blind doctor wolf oven";

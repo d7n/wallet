@@ -1,1 +1,1 @@
-var mnemonic = "urge stool will series tobacco resource piano dove junk ranch unique want";
+var mnemonic = "inner cause bright movie buddy sausage dignity narrow festival liar evolve since";

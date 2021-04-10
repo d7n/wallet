@@ -1,1 +1,1 @@
-var mnemonic = "mother barrel before noodle stumble magnet borrow slight grace glance bounce apology";
+var mnemonic = "pigeon arena arena desk melt sight call room fossil average juice ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "rival grass street suffer segment hub peanut frozen recycle path immense inside";
+var mnemonic = "moment crop ticket basket syrup now render sweet nice cost globe height";

@@ -1,1 +1,1 @@
-var mnemonic = "palm venue imitate angry suspect faint clever reveal adult sphere across paddle";
+var mnemonic = "cable float crack afford mechanic pact scale hire weapon pink file hockey";

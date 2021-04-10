@@ -1,1 +1,1 @@
-var mnemonic = "cannon never loyal good mercy often august purchase limb copper bread post";
+var mnemonic = "season foil final shove phrase hamster refuse coach friend luxury capable pet";

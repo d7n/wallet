@@ -1,1 +1,1 @@
-var mnemonic = "evoke punch energy thrive minute quantum figure essence steak manual short cruise";
+var mnemonic = "swallow person slush idea divert network stove vessel hand alarm culture tide";

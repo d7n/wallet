@@ -1,1 +1,1 @@
-var mnemonic = "soon asthma put adult occur trick embark spoon frost admit water sun";
+var mnemonic = "cereal reopen topple yard void toe join advance try pattern economy nerve";

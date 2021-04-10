@@ -1,1 +1,1 @@
-var mnemonic = "fiscal worry prison cluster sell fee evolve upper stem wheel tag taste";
+var mnemonic = "cream glimpse object floor reward spike dash welcome east sister elite recipe";

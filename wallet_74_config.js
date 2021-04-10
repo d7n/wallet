@@ -1,1 +1,1 @@
-var mnemonic = "trouble true danger phrase miss angry maple network lunar sock admit arrow";
+var mnemonic = "consider mushroom kitten voice social warrior grid evidence need know void spot";

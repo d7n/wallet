@@ -1,1 +1,1 @@
-var mnemonic = "garden range travel blast teach grab envelope label wagon siege solar frost";
+var mnemonic = "climb surprise click drink chief only pond ask confirm cube help fall";

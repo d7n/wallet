@@ -1,1 +1,1 @@
-var mnemonic = "picnic coast juice ability vague pride success exercise engine ski fatal harsh";
+var mnemonic = "maze leisure gap pause slight document iron glue dish smoke nephew initial";

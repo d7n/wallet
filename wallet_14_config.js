@@ -1,1 +1,1 @@
-var mnemonic = "loyal strike drop wet flash ripple sadness rather legal entire fetch confirm";
+var mnemonic = "distance project hurdle setup flush rail nut ask actor wolf vacant donkey";

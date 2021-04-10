@@ -1,1 +1,1 @@
-var mnemonic = "machine heavy coconut explain chest ensure fork good source clip engine ignore";
+var mnemonic = "gospel appear dial awake main amateur sphere float ecology crisp soda toilet";

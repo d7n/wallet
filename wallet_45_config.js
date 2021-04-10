@@ -1,1 +1,1 @@
-var mnemonic = "quantum find click gospel syrup reveal shadow coffee enough hunt unhappy grow";
+var mnemonic = "honey poverty assume happy useless scheme donor decide evoke rich logic around";

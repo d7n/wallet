@@ -1,1 +1,1 @@
-var mnemonic = "chimney trim eternal bone west rebel wedding wait average fiction detect sketch";
+var mnemonic = "record rude wrestle trigger layer garden victory head interest forum shoe nation";

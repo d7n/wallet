@@ -1,1 +1,1 @@
-var mnemonic = "father uphold afraid rigid cable double canvas gun chicken anger cheap soldier";
+var mnemonic = "good hotel stuff humble brick clump finger ocean burst margin access almost";

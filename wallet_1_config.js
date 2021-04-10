@@ -1,1 +1,1 @@
-var mnemonic = "mind high rent boy trip soda frost sure turkey prevent enough boy";
+var mnemonic = "dress tuna artwork shaft bag hamster brand question trial universe eagle myth";

@@ -1,1 +1,1 @@
-var mnemonic = "organ regret unable exotic zero ghost shop group two head lobster element";
+var mnemonic = "list kingdom always west cereal diary slush flash away solar bless all";

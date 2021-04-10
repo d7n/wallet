@@ -1,1 +1,1 @@
-var mnemonic = "shuffle alert february square portion sorry output maple forget match token myth";
+var mnemonic = "cushion mule cover fetch song shrimp try grape mutual swift process bridge";

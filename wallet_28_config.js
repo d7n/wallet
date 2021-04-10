@@ -1,1 +1,1 @@
-var mnemonic = "job frame walnut describe public surprise quality blouse rack spray essence room";
+var mnemonic = "split hand kick only more where game sunny since exile cigar drill";

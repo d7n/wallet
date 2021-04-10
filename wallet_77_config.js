@@ -1,1 +1,1 @@
-var mnemonic = "grass when permit owner kitchen eyebrow cannon pave page egg cream only";
+var mnemonic = "floor fall okay doctor genre poem bicycle recycle metal give charge laundry";

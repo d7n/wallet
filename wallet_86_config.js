@@ -1,1 +1,1 @@
-var mnemonic = "scout ozone same merge test depend stock dinner wire online donkey nut";
+var mnemonic = "armed curious network panda eyebrow dial angle odor jelly pool very copper";

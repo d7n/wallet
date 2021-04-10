@@ -1,1 +1,1 @@
-var mnemonic = "gun such chest now lift cradle forest skate fan comfort machine drama";
+var mnemonic = "tide round one upon small moment defy afford embark vintage pony bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "little reason guitar master mobile scheme client birth cinnamon limit shaft april";
+var mnemonic = "anxiety snack drastic faint solution fame radio bread narrow brother long address";

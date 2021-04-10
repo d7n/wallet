@@ -1,1 +1,1 @@
-var mnemonic = "mixture move regret ball want paper catalog tilt knock tornado once coil";
+var mnemonic = "hurdle glow fish senior shell ethics reward crouch annual indoor another crumble";

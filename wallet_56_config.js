@@ -1,1 +1,1 @@
-var mnemonic = "fruit conduct vessel valley dog blood skate kidney sock wealth forest rookie";
+var mnemonic = "give person close amount into margin draft express bridge thrive live total";

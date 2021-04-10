@@ -1,1 +1,1 @@
-var mnemonic = "federal hurt case rotate inside true culture wrist pact weasel net remove";
+var mnemonic = "curve virtual elevator donkey moon minimum scene dolphin stumble before luxury solution";

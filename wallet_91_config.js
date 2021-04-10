@@ -1,1 +1,1 @@
-var mnemonic = "arena ignore seed apology tornado unable midnight now weekend decade quit journey";
+var mnemonic = "door muffin express panic never sweet exhibit fabric chicken below vacant dress";

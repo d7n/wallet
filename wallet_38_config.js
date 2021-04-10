@@ -1,1 +1,1 @@
-var mnemonic = "small grass pink salmon immense pattern hockey critic thing voyage crystal dash";
+var mnemonic = "hobby wash hello plug pear hire cannon spawn episode feel worth iron";

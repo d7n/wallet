@@ -1,1 +1,1 @@
-var mnemonic = "nuclear there elite dial credit assault derive scene interest behind ahead life";
+var mnemonic = "dash little recycle adapt hazard royal crouch warfare afraid exercise jealous ankle";

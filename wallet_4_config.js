@@ -1,1 +1,1 @@
-var mnemonic = "forum leopard cabin outdoor stick leisure custom solution secret oven elbow dust";
+var mnemonic = "cement violin rate ahead impulse nuclear glimpse beach tomorrow wood width card";

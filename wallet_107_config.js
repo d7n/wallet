@@ -1,1 +1,1 @@
-var mnemonic = "wait seminar tuition travel pioneer bring excite solution already start ball echo";
+var mnemonic = "seat elephant august drastic zoo radio ghost speed fantasy royal clinic confirm";

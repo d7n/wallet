@@ -1,1 +1,1 @@
-var mnemonic = "squirrel tone melt cloth strong pass gentle connect subject assume desert unaware";
+var mnemonic = "giggle extend shrug silk spike rare web asthma near egg warfare pumpkin";

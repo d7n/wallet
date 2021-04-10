@@ -1,1 +1,1 @@
-var mnemonic = "foster park century claim resemble crazy glimpse guitar husband curtain all diagram";
+var mnemonic = "protect license swamp bracket ethics wrist detect assume health decade step road";

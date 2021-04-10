@@ -1,1 +1,1 @@
-var mnemonic = "donor canal renew pilot harvest fury industry mouse surprise balcony book police";
+var mnemonic = "jar swing color cool breeze actor gasp nominee carpet visual mass one";

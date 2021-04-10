@@ -1,1 +1,1 @@
-var mnemonic = "maximum region drive life bundle bamboo advice trick parade law obey thunder";
+var mnemonic = "rocket clip prize episode matter spirit sunset maximum excess coconut essence select";
