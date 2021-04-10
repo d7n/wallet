@@ -1,1 +1,1 @@
-var mnemonic = "symptom above girl give clinic car mountain knock cruel loud alter write";
+var mnemonic = "kitten clip lesson lonely rookie step crime color delay walnut wheat use";

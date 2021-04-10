@@ -1,1 +1,1 @@
-var mnemonic = "hotel august pluck zoo enter gun enforce device bench fuel apology dynamic";
+var mnemonic = "team unfold duck proof fringe oak conduct gadget arrow remember hole anchor";

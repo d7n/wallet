@@ -1,1 +1,1 @@
-var mnemonic = "february season coach ginger now scan twice little embody lens improve source";
+var mnemonic = "mean gate globe venue truck galaxy train hill media route doctor kid";

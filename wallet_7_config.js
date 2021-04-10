@@ -1,1 +1,1 @@
-var mnemonic = "correct mask detail major emotion predict obvious tongue pizza final reason over";
+var mnemonic = "female erase shuffle exist business beyond quiz vacuum someone when quantum clean";

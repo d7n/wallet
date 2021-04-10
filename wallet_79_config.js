@@ -1,1 +1,1 @@
-var mnemonic = "actor echo soon hospital display mobile right finger toward denial luggage buyer";
+var mnemonic = "raccoon gift violin diamond certain merit leg honey liar corn erase hen";

@@ -1,1 +1,1 @@
-var mnemonic = "hair payment breeze rebel dress hurry ramp orient reward flower fossil sword";
+var mnemonic = "gossip thing tail camera spatial happy glass tell stairs edge moment electric";

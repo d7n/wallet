@@ -1,1 +1,1 @@
-var mnemonic = "cotton stone cotton tell favorite ring maple casual olympic bless popular chimney";
+var mnemonic = "claim awkward diet carbon old beef unfair pole gauge current pet there";

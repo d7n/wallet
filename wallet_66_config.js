@@ -1,1 +1,1 @@
-var mnemonic = "crash tourist extra shallow grid legal cost poet inmate mercy apple expire";
+var mnemonic = "bid cement great zebra panic shift mushroom december social race clap breeze";

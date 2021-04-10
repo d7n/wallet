@@ -1,1 +1,1 @@
-var mnemonic = "material lobster detect atom prize ocean hole human lava steel monitor fabric";
+var mnemonic = "avoid summer range vanish write beach guess water fine deputy before play";

@@ -1,1 +1,1 @@
-var mnemonic = "across develop coil sustain can palm track thumb approve lounge paddle winter";
+var mnemonic = "dolphin picnic concert federal baby enjoy fog mechanic general leisure gap match";

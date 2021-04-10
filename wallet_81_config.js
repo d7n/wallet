@@ -1,1 +1,1 @@
-var mnemonic = "list gravity glance soup prison ugly crime cabin guide shell believe able";
+var mnemonic = "myth drill drift aspect helmet inspire prevent network wash section festival amazing";

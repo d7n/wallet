@@ -1,1 +1,1 @@
-var mnemonic = "moral produce wrist provide favorite inspire shiver mind knee tell stone final";
+var mnemonic = "rocket begin whip video view hurt carbon top tomorrow club skill tobacco";

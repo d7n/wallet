@@ -1,1 +1,1 @@
-var mnemonic = "consider bronze gossip donkey away labor tag clinic regular recall age march";
+var mnemonic = "cost permit cousin endless width rookie endless old leopard satoshi soap squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "phone memory phone wedding tongue garbage panther word capital cricket render true";
+var mnemonic = "blame robot crater chef seven gloom cash gesture panther opera mystery quiz";

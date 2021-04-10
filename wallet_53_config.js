@@ -1,1 +1,1 @@
-var mnemonic = "since sunset lemon equal sheriff diesel seek impact parade popular hurt jazz";
+var mnemonic = "midnight equal put doll tell wolf exhaust bird winner chapter shallow spend";

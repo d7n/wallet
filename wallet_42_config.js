@@ -1,1 +1,1 @@
-var mnemonic = "dance seek excuse toddler eager toss certain review shaft turtle genius cabbage";
+var mnemonic = "fold oak twin enter trim clog spice spell swamp piece argue oppose";

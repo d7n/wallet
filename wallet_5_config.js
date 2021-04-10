@@ -1,1 +1,1 @@
-var mnemonic = "jump bird rate barrel unusual toast diagram mail uncover gap ketchup twenty";
+var mnemonic = "midnight market where flat kite gun view try journey old ozone vicious";

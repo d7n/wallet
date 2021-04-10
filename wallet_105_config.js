@@ -1,1 +1,1 @@
-var mnemonic = "volcano include ozone snow life power almost thank sibling tackle rally junior";
+var mnemonic = "race pelican tape inflict shrimp accident stadium cost rifle announce boat wire";

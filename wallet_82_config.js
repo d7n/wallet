@@ -1,1 +1,1 @@
-var mnemonic = "stand repeat blush violin label clip dial panic dinner task benefit stairs";
+var mnemonic = "whale argue push attitude farm truly what fiction saddle badge retire coil";

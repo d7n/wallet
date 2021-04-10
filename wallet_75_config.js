@@ -1,1 +1,1 @@
-var mnemonic = "weather empower cloth key organ token atom fabric smoke rebel fire pole";
+var mnemonic = "meat flower smile grace arrow steak odor enrich later web nephew rug";

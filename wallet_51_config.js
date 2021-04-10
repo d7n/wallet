@@ -1,1 +1,1 @@
-var mnemonic = "tiger treat harbor table fabric often basic episode analyst mystery void canyon";
+var mnemonic = "diesel word humor glove work curtain caution scorpion urban swap drink image";

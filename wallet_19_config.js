@@ -1,1 +1,1 @@
-var mnemonic = "van scan drift benefit double romance fish deal mail adult glimpse thought";
+var mnemonic = "month sunny isolate pepper slight improve seminar fix brisk flag illness casual";

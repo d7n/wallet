@@ -1,1 +1,1 @@
-var mnemonic = "brick execute rely snack stool welcome organ gym input naive demand wait";
+var mnemonic = "marine idea enhance wife exhibit spin match walk noble skill unlock frame";

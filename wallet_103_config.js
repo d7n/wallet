@@ -1,1 +1,1 @@
-var mnemonic = "echo jeans delay now output tell option citizen rebel ignore venue brown";
+var mnemonic = "approve wash route empower feed basic inner urge phone select victory question";

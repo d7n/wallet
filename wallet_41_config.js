@@ -1,1 +1,1 @@
-var mnemonic = "coral vintage gesture fresh soap also velvet quantum earn old spice render";
+var mnemonic = "thrive chest script enlist citizen fuel style clown nuclear rent step recall";

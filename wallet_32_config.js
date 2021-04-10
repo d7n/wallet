@@ -1,1 +1,1 @@
-var mnemonic = "few silver flip soda unaware dilemma axis vendor novel kit home shiver";
+var mnemonic = "there master asthma female also mean donor spend harsh force wheat speed";

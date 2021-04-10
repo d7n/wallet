@@ -1,1 +1,1 @@
-var mnemonic = "duty subject casual ancient onion mansion depart alien luxury caution melt lawn";
+var mnemonic = "mixture vivid ramp normal black envelope someone dentist knife kitchen payment scrap";

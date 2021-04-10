@@ -1,1 +1,1 @@
-var mnemonic = "curious wolf runway calm myth build similar shrug thought tone milk juice";
+var mnemonic = "diary siege consider path river stage surface thumb wonder beyond hundred artwork";

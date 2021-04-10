@@ -1,1 +1,1 @@
-var mnemonic = "citizen nominee very trophy elegant lock hub false stomach joke devote call";
+var mnemonic = "floor comic cliff movie desk verify spirit pact promote spirit industry find";

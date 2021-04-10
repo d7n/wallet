@@ -1,1 +1,1 @@
-var mnemonic = "pizza salon harvest lonely noble spare asset protect organ able hurdle elbow";
+var mnemonic = "crawl staff spice credit blue apart mobile reform garden nose unhappy mirror";

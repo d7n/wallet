@@ -1,1 +1,1 @@
-var mnemonic = "that festival cross banana walnut box super man vehicle silk warrior whip";
+var mnemonic = "put balcony lake science luxury hedgehog few surround coffee panther real giggle";

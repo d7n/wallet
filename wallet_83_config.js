@@ -1,1 +1,1 @@
-var mnemonic = "fossil hospital fan sausage shock joke odor custom novel shine float dragon";
+var mnemonic = "length mother broccoli tuition upper world cream couch speak pizza sponsor hockey";

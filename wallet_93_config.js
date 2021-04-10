@@ -1,1 +1,1 @@
-var mnemonic = "scrub drastic august holiday soap grunt license second length result toss knock";
+var mnemonic = "swarm spend artwork ceiling original physical north prefer juice picnic vital involve";

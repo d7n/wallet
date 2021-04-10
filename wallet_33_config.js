@@ -1,1 +1,1 @@
-var mnemonic = "jaguar second pony skin shrimp lunar hello super garden promote endorse melody";
+var mnemonic = "paper egg dry chicken lesson swear diamond security program dumb ginger peasant";

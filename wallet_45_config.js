@@ -1,1 +1,1 @@
-var mnemonic = "wheat mix feature crash burger winner meadow home aim crystal wool inside";
+var mnemonic = "rain chicken style avocado gospel garment liberty security castle wrestle lazy ramp";

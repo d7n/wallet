@@ -1,1 +1,1 @@
-var mnemonic = "alpha final bamboo security liar plate such salute super seed nation inner";
+var mnemonic = "knife maple twist flavor dry brass ensure chimney thank thrive fence erase";

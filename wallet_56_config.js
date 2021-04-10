@@ -1,1 +1,1 @@
-var mnemonic = "doctor uphold energy void stable online muffin simple program trade segment letter";
+var mnemonic = "demand cousin sister pride skirt veteran more inform entire amount traffic slide";

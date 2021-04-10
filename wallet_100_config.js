@@ -1,1 +1,1 @@
-var mnemonic = "rescue fossil cabin tool wire notable valid valid modify oblige alpha insect";
+var mnemonic = "creek coconut pioneer practice tennis grass aim spring kitchen share demand sun";

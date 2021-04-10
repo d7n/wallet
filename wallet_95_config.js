@@ -1,1 +1,1 @@
-var mnemonic = "shadow plate uniform student guess famous manage wire giraffe rubber can sister";
+var mnemonic = "army outer glance fame enjoy deny tissue educate elite hotel intact satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "armed transfer silk arch sign angle surge else gold lumber prepare output";
+var mnemonic = "drum orbit escape track wool three hurt letter nation scale tumble balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "option remain service raise mean hospital student lunch ginger change two sleep";
+var mnemonic = "demise hamster mango essence swim ladder split gaze south spell carbon vintage";

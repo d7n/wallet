@@ -1,1 +1,1 @@
-var mnemonic = "bachelor cat village dove black trust around chaos curtain runway close situate";
+var mnemonic = "beef around fruit split pilot column wagon pilot harvest gift office legend";

@@ -1,1 +1,1 @@
-var mnemonic = "arch office display victory file nut mushroom speak blade invest chuckle promote";
+var mnemonic = "humble thrive name breeze fog drill volume pole try alien flip bridge";

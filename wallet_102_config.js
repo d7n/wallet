@@ -1,1 +1,1 @@
-var mnemonic = "vacuum bottom smart festival super erase power depart brick success vivid science";
+var mnemonic = "slim tunnel plate half isolate unfair social leave finger voyage know power";

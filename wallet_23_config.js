@@ -1,1 +1,1 @@
-var mnemonic = "city party rug mystery spider happy chair horror taste have dwarf mask";
+var mnemonic = "song aisle north marble ladder ahead ladder repeat kangaroo tiny coil provide";

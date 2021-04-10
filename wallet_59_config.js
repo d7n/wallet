@@ -1,1 +1,1 @@
-var mnemonic = "pony document marriage purse address sell divide umbrella faint farm feature glass";
+var mnemonic = "ribbon pioneer wedding below orange task smoke stove tumble tenant ahead black";

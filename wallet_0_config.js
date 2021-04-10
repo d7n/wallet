@@ -1,1 +1,1 @@
-var mnemonic = "track scheme beef flag verb reflect swing culture foam lunar water radio";
+var mnemonic = "festival mistake fiction climb buyer know toilet join dress long scrap battle";

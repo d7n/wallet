@@ -1,1 +1,1 @@
-var mnemonic = "case airport tape base skin lyrics news acoustic tag eye arena air";
+var mnemonic = "crash toddler spare write twenty poem ride panther train discover autumn casino";

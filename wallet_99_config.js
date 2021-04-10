@@ -1,1 +1,1 @@
-var mnemonic = "indicate honey remove luggage cruise trust plug taxi spirit vapor scheme forward";
+var mnemonic = "flag goose spin maid history gaze salad creek lab mask rude art";

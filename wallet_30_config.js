@@ -1,1 +1,1 @@
-var mnemonic = "behave void nurse replace earth flush brick survey cricket cycle great power";
+var mnemonic = "ketchup celery person dial entry rent orbit sick upper enrich weekend midnight";

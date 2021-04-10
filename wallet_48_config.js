@@ -1,1 +1,1 @@
-var mnemonic = "divorce travel method mention scrap rotate trumpet trick reflect rate couple law";
+var mnemonic = "subject over rib flag flavor trash guide slab walnut can remove moon";

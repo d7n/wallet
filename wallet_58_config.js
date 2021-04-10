@@ -1,1 +1,1 @@
-var mnemonic = "coil pole novel twin pistol desk language sun squirrel glare work vicious";
+var mnemonic = "wagon dream field tobacco salon faculty false action step menu army nasty";

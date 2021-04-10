@@ -1,1 +1,1 @@
-var mnemonic = "dove aware actress host three window frog indicate large symptom cram grief";
+var mnemonic = "loud section rare crazy injury romance impulse bind exit option leg copper";

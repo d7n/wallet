@@ -1,1 +1,1 @@
-var mnemonic = "clock garbage tragic giraffe saddle ethics unit apart coach design open curious";
+var mnemonic = "sound someone green arrange hobby pluck basic month print timber lemon oval";

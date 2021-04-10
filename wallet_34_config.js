@@ -1,1 +1,1 @@
-var mnemonic = "clay liquid arrange stairs inherit deal illness swarm police moon treat cancel";
+var mnemonic = "funny mimic report stone gate trade zero tell airport rifle wedding virtual";

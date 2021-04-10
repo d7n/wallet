@@ -1,1 +1,1 @@
-var mnemonic = "drama habit abandon note inflict major dry talent almost broccoli jeans robot";
+var mnemonic = "museum neutral index legend student play skirt heavy wide kind tiny coyote";

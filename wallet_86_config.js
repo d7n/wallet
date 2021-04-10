@@ -1,1 +1,1 @@
-var mnemonic = "else guitar divorce daring biology luggage people horn worth raise dizzy start";
+var mnemonic = "rough wreck also boost worry neutral write taxi rally keep skull embody";

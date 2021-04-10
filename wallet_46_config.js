@@ -1,1 +1,1 @@
-var mnemonic = "stay oxygen nominee lens napkin tell chaos strike script toward example tonight";
+var mnemonic = "demise skill south weapon picture shoulder polar senior sure mom drop grace";

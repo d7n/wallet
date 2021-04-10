@@ -1,1 +1,1 @@
-var mnemonic = "huge day accident tackle fix eye army cupboard vapor equal host century";
+var mnemonic = "absent pumpkin cradle boost soup dice energy spawn stadium thrive humor item";

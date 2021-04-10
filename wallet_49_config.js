@@ -1,1 +1,1 @@
-var mnemonic = "range wide edit rug zero wife margin again search youth asthma lawsuit";
+var mnemonic = "tell slam company grace marriage output adjust illness glue nominee weasel nation";

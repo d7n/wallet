@@ -1,1 +1,1 @@
-var mnemonic = "thrive supply reflect milk wrong door rigid crisp tent feel boring frozen";
+var mnemonic = "drill fault live exercise glue pigeon awake immense nerve goat wreck vote";

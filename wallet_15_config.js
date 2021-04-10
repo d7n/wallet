@@ -1,1 +1,1 @@
-var mnemonic = "gallery satoshi grain join people air oven define hawk upset angry mother";
+var mnemonic = "flight boring donor hamster depend cause lawn quantum mystery rough pen course";

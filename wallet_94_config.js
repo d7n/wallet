@@ -1,1 +1,1 @@
-var mnemonic = "carry genuine hen goddess matrix fee maid sponsor october boring spice result";
+var mnemonic = "square able camp bone genuine copper tumble grow reason solid parent walnut";

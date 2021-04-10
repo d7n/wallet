@@ -1,1 +1,1 @@
-var mnemonic = "peace file render useful energy response viable system door chat say asthma";
+var mnemonic = "call frame chief crush winner off tonight brown aware goat cube siren";

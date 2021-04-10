@@ -1,1 +1,1 @@
-var mnemonic = "depth dance jacket angle normal defy sorry find vault embark december recall";
+var mnemonic = "test unusual current version thank evolve typical rebel tree flag match sample";

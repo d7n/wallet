@@ -1,1 +1,1 @@
-var mnemonic = "brown inhale author forget spider office deputy gate genuine wonder bacon poet";
+var mnemonic = "fame kidney item light orbit source glance gas link pony draw into";

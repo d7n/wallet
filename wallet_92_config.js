@@ -1,1 +1,1 @@
-var mnemonic = "easily control man someone attitude section coin idea shove blame bone window";
+var mnemonic = "own immune south sock into smoke blast vote era defy remember patient";

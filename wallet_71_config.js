@@ -1,1 +1,1 @@
-var mnemonic = "various bean early fluid share genius fly spell miracle total magic cake";
+var mnemonic = "gadget close record gun large hurry deliver salad pumpkin lizard result patient";

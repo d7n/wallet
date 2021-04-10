@@ -1,1 +1,1 @@
-var mnemonic = "coil mom drop bottom law exhaust foil jewel digital climb load kitten";
+var mnemonic = "crowd curious river differ around sail garbage marine manage clock please mixture";

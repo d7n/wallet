@@ -1,1 +1,1 @@
-var mnemonic = "stairs become brief message toy grit laptop super height pistol language song";
+var mnemonic = "sword dune nut tone two attitude hero bone slab idle earn subject";

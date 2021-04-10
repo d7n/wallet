@@ -1,1 +1,1 @@
-var mnemonic = "elbow close tenant enjoy symbol private lion dawn come veteran salute country";
+var mnemonic = "toward rough juice civil lab expect emerge father truly wrap skate flat";

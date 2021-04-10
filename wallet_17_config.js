@@ -1,1 +1,1 @@
-var mnemonic = "promote suggest favorite build chronic fantasy law among correct super fetch error";
+var mnemonic = "job warrior core material major evidence idle reveal win friend adapt spread";

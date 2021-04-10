@@ -1,1 +1,1 @@
-var mnemonic = "logic post tomorrow process social jelly erase oppose share tuition cattle special";
+var mnemonic = "current this sunny village quantum expand enough service easily hat arm buyer";

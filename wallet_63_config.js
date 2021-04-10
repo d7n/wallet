@@ -1,1 +1,1 @@
-var mnemonic = "note pink address device summer voyage thank flush clay calm eagle worry";
+var mnemonic = "gather core hawk wear bonus relax paddle tuna involve frequent rotate pelican";

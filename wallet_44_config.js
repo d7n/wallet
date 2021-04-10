@@ -1,1 +1,1 @@
-var mnemonic = "song acid thought forward enter wrap north build ten gather comic begin";
+var mnemonic = "large hold glare swap armed confirm just range fantasy sugar cheese citizen";

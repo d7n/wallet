@@ -1,1 +1,1 @@
-var mnemonic = "coin ten sample collect mix couch insane subject fabric weekend expose rice";
+var mnemonic = "draft prepare jar always online castle bonus muscle head chef aisle suit";

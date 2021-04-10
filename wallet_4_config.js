@@ -1,1 +1,1 @@
-var mnemonic = "erosion myself road cancel safe surprise mesh direct wood base artist tiny";
+var mnemonic = "stock shiver wet cabbage rich replace cat bus arrest fringe keen current";

@@ -1,1 +1,1 @@
-var mnemonic = "hover casino vital pole deliver boil poet novel sound cart immune decide";
+var mnemonic = "surge they cross easy boss scheme island below absurd ugly chuckle nothing";

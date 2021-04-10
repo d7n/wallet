@@ -1,1 +1,1 @@
-var mnemonic = "custom stumble vault mixed process feature swarm family egg safe abandon royal";
+var mnemonic = "neutral bundle beef vacant coast protect snow night cabbage just syrup asset";

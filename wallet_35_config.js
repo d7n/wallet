@@ -1,1 +1,1 @@
-var mnemonic = "teach slender second wear sausage borrow curious exotic impulse satisfy leisure diary";
+var mnemonic = "season narrow shallow junk elevator basic hill fury immense finger olympic check";

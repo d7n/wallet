@@ -1,1 +1,1 @@
-var mnemonic = "mirror woman sense high boy belt soap amused force toy paddle magnet";
+var mnemonic = "fetch surprise ugly spike flip ensure echo approve allow bundle jealous oil";

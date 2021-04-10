@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow infant onion train arm atom hawk width champion alpha recipe squeeze";
+var mnemonic = "smoke melody plunge basket group civil eyebrow earn put please shop coyote";

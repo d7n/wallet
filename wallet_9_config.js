@@ -1,1 +1,1 @@
-var mnemonic = "attitude urban file outer trip age flip sand speed traffic later under";
+var mnemonic = "animal ride scissors artefact record cube survey armed trim liar shop option";

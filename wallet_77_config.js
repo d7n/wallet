@@ -1,1 +1,1 @@
-var mnemonic = "embrace fan fresh winner relax input veteran chat fork picture announce split";
+var mnemonic = "episode once happy ghost badge sing spike two kiss avoid glad pole";

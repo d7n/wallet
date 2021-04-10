@@ -1,1 +1,1 @@
-var mnemonic = "price radio toy color tank express speed follow exclude shrug satisfy siren";
+var mnemonic = "impulse disorder first close chaos purpose finger reveal video salute glow object";

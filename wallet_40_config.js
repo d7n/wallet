@@ -1,1 +1,1 @@
-var mnemonic = "fee reveal misery spy history struggle skull diet want tumble phrase fish";
+var mnemonic = "social disagree belt drop happy warrior legend name sea earn volume smoke";

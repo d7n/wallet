@@ -1,1 +1,1 @@
-var mnemonic = "sell helmet replace castle random win wire shock wet junk carbon proud";
+var mnemonic = "motor crouch easily spend lemon doctor elite throw upgrade negative whale tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow perfect wrap hub wealth very share cabbage knife decrease illegal method";
+var mnemonic = "bench man dog enrich year satisfy win valid ship snap income coach";
