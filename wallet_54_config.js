@@ -1,1 +1,1 @@
-var mnemonic = "discover wealth report rebel track share base tunnel equip lizard unlock minimum";
+var mnemonic = "return chronic perfect index almost panther rare pencil cruise lend vibrant heart";

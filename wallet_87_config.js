@@ -1,1 +1,1 @@
-var mnemonic = "power panel sentence omit caught share matter hour awful guard tape enact";
+var mnemonic = "foam mixed stamp meadow enact message grit video rally grit route coil";

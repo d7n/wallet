@@ -1,1 +1,1 @@
-var mnemonic = "rich drama climb casual stable clump auto pig nut mean kangaroo mass";
+var mnemonic = "soap soldier topic crystal void feature guitar paddle cupboard tennis visual skirt";

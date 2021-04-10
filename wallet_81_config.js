@@ -1,1 +1,1 @@
-var mnemonic = "cry almost bronze inmate gold arrange blue symptom debris leisure dilemma direct";
+var mnemonic = "seven adjust pretty pistol expose rocket climb cement promote jeans doctor summer";

@@ -1,1 +1,1 @@
-var mnemonic = "outer coffee immune assume virtual ring insane spike census slab flat worth";
+var mnemonic = "jelly chapter hamster unveil belt put lottery beyond great dress frame coast";

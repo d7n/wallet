@@ -1,1 +1,1 @@
-var mnemonic = "team accident attract caution safe drift ketchup sheriff area prize slow result";
+var mnemonic = "ivory guard heavy wedding abandon boring plunge year glory clarify floor card";

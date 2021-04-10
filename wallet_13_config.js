@@ -1,1 +1,1 @@
-var mnemonic = "float segment into brisk jazz vault entire infant accident good light desert";
+var mnemonic = "steak breeze crisp target biology dial slush similar bid season squeeze pact";

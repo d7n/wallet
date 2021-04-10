@@ -1,1 +1,1 @@
-var mnemonic = "coffee brief situate assist car crystal very outside female page genius sauce";
+var mnemonic = "insane lemon alarm dad fortune dutch car piano wrap capital actor lab";

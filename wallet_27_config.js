@@ -1,1 +1,1 @@
-var mnemonic = "joke clog puppy meat weird gadget chimney agent obtain wage rice spawn";
+var mnemonic = "century account dice rug flame anxiety bachelor seed warfare shoe sail usage";

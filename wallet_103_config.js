@@ -1,1 +1,1 @@
-var mnemonic = "alley copy plug about soccer fruit flower boss romance prison diagram comfort";
+var mnemonic = "ghost vessel animal ten option raccoon bubble loop letter mandate stairs truth";

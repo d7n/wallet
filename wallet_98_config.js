@@ -1,1 +1,1 @@
-var mnemonic = "carry shy pair shine pepper correct have vehicle wall bring right worry";
+var mnemonic = "joke allow call equal visual early day glow gasp trial salmon direct";

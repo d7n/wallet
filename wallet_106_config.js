@@ -1,1 +1,1 @@
-var mnemonic = "ignore wait flee rather mention say lake depart mango liberty library hard";
+var mnemonic = "ivory caught frequent fame stem topic assault tiny foam couple bird hill";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy sustain various umbrella crunch oyster actress galaxy raw total brass today";
+var mnemonic = "define assume off turtle upon hurdle shine announce also claw rebel word";

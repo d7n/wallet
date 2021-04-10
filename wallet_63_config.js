@@ -1,1 +1,1 @@
-var mnemonic = "always uniform soul orbit machine current paddle upgrade medal amateur uncover quote";
+var mnemonic = "melody pencil cat thrive adjust abstract deal jealous kingdom crouch flock bind";

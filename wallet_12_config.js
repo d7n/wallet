@@ -1,1 +1,1 @@
-var mnemonic = "drip later soap assault junk length fluid poem render frown asset jeans";
+var mnemonic = "one trim office gap ankle apology length twelve anchor muscle bronze lunar";

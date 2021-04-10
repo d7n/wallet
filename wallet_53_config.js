@@ -1,1 +1,1 @@
-var mnemonic = "captain spice sell cruise captain caught grain creek post area autumn carbon";
+var mnemonic = "illness aware fitness dream violin rent dumb digital bitter cruel mansion deliver";

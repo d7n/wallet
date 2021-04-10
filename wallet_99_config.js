@@ -1,1 +1,1 @@
-var mnemonic = "exist saddle pioneer film earth candy pear inject protect sail drama month";
+var mnemonic = "frog bullet sport setup shop display glow simple uncover shock wool sure";

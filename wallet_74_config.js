@@ -1,1 +1,1 @@
-var mnemonic = "assist half flock attend tenant shoulder wall universe base tank shrug october";
+var mnemonic = "lounge assault demand timber weasel open neck celery empty method pumpkin trip";

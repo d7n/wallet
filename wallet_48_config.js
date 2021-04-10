@@ -1,1 +1,1 @@
-var mnemonic = "jealous welcome doll slow mansion palace novel unfold toddler unhappy smooth blush";
+var mnemonic = "spread afford dial scene notice design essence legal must sock enough stick";

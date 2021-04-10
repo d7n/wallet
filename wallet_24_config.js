@@ -1,1 +1,1 @@
-var mnemonic = "net trim ready lumber define muscle welcome must violin minute eyebrow wasp";
+var mnemonic = "surround slice grant rival report fat jungle silk universe oblige state opera";

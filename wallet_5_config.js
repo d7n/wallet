@@ -1,1 +1,1 @@
-var mnemonic = "world viable never have west obvious cross that leg flip dragon grunt";
+var mnemonic = "benefit jacket kitten merit hawk raven loud order chair rhythm cry spot";

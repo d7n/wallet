@@ -1,1 +1,1 @@
-var mnemonic = "news carpet reason crunch million advice kidney carry example captain save mango";
+var mnemonic = "dentist another escape saddle switch harsh cave sniff useless hello olympic denial";

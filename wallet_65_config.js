@@ -1,1 +1,1 @@
-var mnemonic = "recipe clump ocean bone slight lesson top female brave way film boat";
+var mnemonic = "mother joke release punch camp mosquito capable record noise tumble design dice";

@@ -1,1 +1,1 @@
-var mnemonic = "travel blush balance crunch donor copper ketchup ramp exotic relief blossom crouch";
+var mnemonic = "sell much robot decrease denial boss car loop eager orphan syrup humble";

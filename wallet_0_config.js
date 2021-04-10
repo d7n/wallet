@@ -1,1 +1,1 @@
-var mnemonic = "close short attract exit flash genuine crunch unusual snow fruit cake twist";
+var mnemonic = "exile arena arm tourist crucial type latin chaos marble high noodle dish";

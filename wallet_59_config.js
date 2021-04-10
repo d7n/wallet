@@ -1,1 +1,1 @@
-var mnemonic = "arrest hawk trap sunset sing south gauge nerve coach bundle wood asthma";
+var mnemonic = "illness mutual error border glass glad enemy honey lottery patient jungle object";

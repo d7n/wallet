@@ -1,1 +1,1 @@
-var mnemonic = "sibling win option noise galaxy nuclear canal rookie promote ball explain legal";
+var mnemonic = "festival curve loop join tribe dumb nothing length noise endless law route";

@@ -1,1 +1,1 @@
-var mnemonic = "pet wrap priority powder street shift document ceiling business shaft leave page";
+var mnemonic = "document thunder tray link source goat odor behave confirm cheese discover talent";

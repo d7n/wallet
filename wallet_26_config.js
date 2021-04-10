@@ -1,1 +1,1 @@
-var mnemonic = "jazz test fetch valid loud kingdom crazy sponsor assist man impose machine";
+var mnemonic = "give main mimic execute lock loop noodle enhance pink mother dust sport";

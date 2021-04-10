@@ -1,1 +1,1 @@
-var mnemonic = "more rotate side gun float cluster flag myth require member deputy fish";
+var mnemonic = "effort stairs text tackle body extra topic zero run forward all bind";

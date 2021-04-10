@@ -1,1 +1,1 @@
-var mnemonic = "grab property rapid body cliff admit ostrich negative roof matter census vault";
+var mnemonic = "reveal plunge silent honey over seed luxury grace act gadget leg reject";

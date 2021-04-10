@@ -1,1 +1,1 @@
-var mnemonic = "sell tooth profit tiny wear extra clean verify come frog cause world";
+var mnemonic = "mention kit attract post motion fetch stock grape street face vanish game";

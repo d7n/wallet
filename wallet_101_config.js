@@ -1,1 +1,1 @@
-var mnemonic = "spray survey odor outside among aspect best occur poem amazing evoke skull";
+var mnemonic = "elder feel anchor aspect liquid level syrup leisure play learn oyster distance";

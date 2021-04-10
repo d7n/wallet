@@ -1,1 +1,1 @@
-var mnemonic = "shy what flush salt loan wet ancient possible flock daughter furnace wage";
+var mnemonic = "flavor stuff wage item whale harvest achieve labor eternal expand soap ball";

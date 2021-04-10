@@ -1,1 +1,1 @@
-var mnemonic = "venture soap race nasty bike define swarm upon online aspect pink athlete";
+var mnemonic = "enter belt coast fiber humor barrel suggest afford once average legal among";

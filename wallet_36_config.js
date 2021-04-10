@@ -1,1 +1,1 @@
-var mnemonic = "ill warrior tag sponsor potato alcohol crazy skirt magnet wagon hospital section";
+var mnemonic = "include express puzzle bus draft unknown dizzy critic bitter destroy bullet base";

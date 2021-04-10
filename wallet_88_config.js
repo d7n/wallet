@@ -1,1 +1,1 @@
-var mnemonic = "lizard maple vital afford still rude upper shiver relief worry behave blush";
+var mnemonic = "vote apology speed lady valley tortoise agent keen outside harsh mean photo";

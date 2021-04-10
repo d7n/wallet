@@ -1,1 +1,1 @@
-var mnemonic = "sorry shell survey country fly lunar begin debris round duck miracle grace";
+var mnemonic = "couple print slush rack ticket buffalo immune blood cereal mother light design";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet talent clean liquid symbol rain bread trigger meadow december express elegant";
+var mnemonic = "stone sauce family mystery cage improve step lunch mother ethics once blood";

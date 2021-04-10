@@ -1,1 +1,1 @@
-var mnemonic = "cycle double catch choose glare swarm warrior myth amused mom capable skill";
+var mnemonic = "pet medal unfair clog kite capital guess minute rain assist lumber arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "humble evidence buddy erode mandate brief second off derive hurt matrix unique";
+var mnemonic = "isolate jealous fall oyster stomach mammal rookie agent okay sudden kick magnet";

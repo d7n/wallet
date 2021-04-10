@@ -1,1 +1,1 @@
-var mnemonic = "reveal caught voice govern angry tuna lunar miss utility artist divorce champion";
+var mnemonic = "surprise hamster clutch type coral soda okay shoot alarm knife process notable";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber ten warfare betray wide husband slam pause viable disagree strong region";
+var mnemonic = "message couple oyster cricket rhythm snack remember produce clump nose melt flip";

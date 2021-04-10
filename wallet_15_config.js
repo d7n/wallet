@@ -1,1 +1,1 @@
-var mnemonic = "stomach child invite fiber sphere diet comic online lucky quick lonely shrug";
+var mnemonic = "decade menu raise expand canoe small future desk radio penalty off vapor";

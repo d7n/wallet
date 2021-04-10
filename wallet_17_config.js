@@ -1,1 +1,1 @@
-var mnemonic = "lyrics dentist know crumble spring honey inspire surface east miss display brain";
+var mnemonic = "over leader nation deer slice zone number boss enlist photo detail inhale";

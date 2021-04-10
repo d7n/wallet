@@ -1,1 +1,1 @@
-var mnemonic = "easily discover spring warm palace match staff core that order bulb course";
+var mnemonic = "file someone shine aerobic robust salon retire punch traffic suggest table maze";

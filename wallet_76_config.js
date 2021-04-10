@@ -1,1 +1,1 @@
-var mnemonic = "embody tooth oppose armed thunder resist cover sustain unhappy ketchup frown solve";
+var mnemonic = "extra feature toddler side modify tower shrug where sleep angle lucky zoo";

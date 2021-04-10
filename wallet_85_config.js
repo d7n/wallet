@@ -1,1 +1,1 @@
-var mnemonic = "drip early cross report bamboo letter abandon razor sudden film nominee expect";
+var mnemonic = "fiscal ugly bacon tuition piano joy ancient stay rubber water tube pencil";

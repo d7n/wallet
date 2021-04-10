@@ -1,1 +1,1 @@
-var mnemonic = "nose knife satoshi mass oven rebuild chicken pride series click bounce reopen";
+var mnemonic = "job body knee suspect leave kiss order bubble blade high puzzle nasty";

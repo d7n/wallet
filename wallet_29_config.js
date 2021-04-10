@@ -1,1 +1,1 @@
-var mnemonic = "bronze veteran tribe dawn wall shaft lottery panel slim gown position student";
+var mnemonic = "retreat method injury wheel acid strong load issue estate gorilla february derive";

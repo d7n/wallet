@@ -1,1 +1,1 @@
-var mnemonic = "smile olive kitchen october forget excite please pattern awesome wave arrow journey";
+var mnemonic = "toe april huge trial address pole glad gate tank infant body cactus";

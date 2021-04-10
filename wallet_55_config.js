@@ -1,1 +1,1 @@
-var mnemonic = "world grunt drill barely fee gloom final east blue stuff arena blood";
+var mnemonic = "atom junior talent cotton science patrol mammal lonely begin fog either derive";

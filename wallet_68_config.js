@@ -1,1 +1,1 @@
-var mnemonic = "giggle tortoise yellow marine false sunny lawn safe worry lunar wrap gaze";
+var mnemonic = "glimpse begin tool brand aisle brown craft demise collect rhythm prepare spot";

@@ -1,1 +1,1 @@
-var mnemonic = "discover stone inch asthma oval outer pink winter pioneer artist talent file";
+var mnemonic = "jungle accident surge stairs inhale chapter kitten danger diamond crater minor quiz";

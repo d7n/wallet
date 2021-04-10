@@ -1,1 +1,1 @@
-var mnemonic = "focus purpose divide addict bronze blue idle zone engage ship canoe butter";
+var mnemonic = "key tortoise lizard woman omit pipe shield position foil march orphan target";

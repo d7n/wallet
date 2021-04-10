@@ -1,1 +1,1 @@
-var mnemonic = "genre absorb web ski grocery scene slam author price feel interest tilt";
+var mnemonic = "quantum lake mention inner abstract ocean flip spread mother shell choose garment";

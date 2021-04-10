@@ -1,1 +1,1 @@
-var mnemonic = "young horror advance shell entry debate puzzle afford fit adapt print prison";
+var mnemonic = "erosion bamboo okay grit open lumber dust weekend diary camp sketch smooth";

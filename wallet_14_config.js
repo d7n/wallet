@@ -1,1 +1,1 @@
-var mnemonic = "obey post never pizza fury search begin hurdle dog circle calm eternal";
+var mnemonic = "long girl nose couple pony spy trim afraid eternal festival news curve";

@@ -1,1 +1,1 @@
-var mnemonic = "critic icon borrow manage soldier tissue okay city divert chase sand minor";
+var mnemonic = "half pipe comfort profit fit seek timber exile tiny baby forget assault";

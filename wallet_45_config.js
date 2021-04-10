@@ -1,1 +1,1 @@
-var mnemonic = "perfect tragic pig voyage tonight check mind bind erosion legend hurdle apology";
+var mnemonic = "alert suspect nurse denial zebra shadow capital unknown welcome patch pair scrap";

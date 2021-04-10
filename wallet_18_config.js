@@ -1,1 +1,1 @@
-var mnemonic = "rib train there mesh limb century obscure acid one nest poem clerk";
+var mnemonic = "bulk atom reward kid best exchange sign toilet piece bitter defense manual";

@@ -1,1 +1,1 @@
-var mnemonic = "motion permit wet flock dawn moon detect shy eagle robot always moon";
+var mnemonic = "behind sting again twenty swarm someone stand winter either adjust ivory correct";

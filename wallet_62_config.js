@@ -1,1 +1,1 @@
-var mnemonic = "panel clown noble concert west staff educate pool prison forward lab coffee";
+var mnemonic = "light advance sphere feed surface know audit allow bright beauty frequent large";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor tennis lyrics member car much tobacco rotate parrot frown rookie slush";
+var mnemonic = "cook report twenty author plunge pass injury mass shield balcony maple rural";

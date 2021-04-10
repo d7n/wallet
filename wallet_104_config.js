@@ -1,1 +1,1 @@
-var mnemonic = "alley elbow final fluid hint surge knife valve artwork drop super bracket";
+var mnemonic = "satisfy panda this attitude industry emotion property loud immense social excuse under";

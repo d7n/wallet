@@ -1,1 +1,1 @@
-var mnemonic = "drill attack impact trip secret guitar spot proof maze nice solar apology";
+var mnemonic = "family banana grape library leader clog six lion crop emerge struggle floor";

@@ -1,1 +1,1 @@
-var mnemonic = "direct order comic next toy major network scare aunt helmet equal intact";
+var mnemonic = "soon only guard page rural humor parrot stock board entire success option";

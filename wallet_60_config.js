@@ -1,1 +1,1 @@
-var mnemonic = "cross water grab roof reveal stove pudding miracle alcohol hand jaguar scrub";
+var mnemonic = "path pill web lawsuit myself treat garlic this crisp face round prize";

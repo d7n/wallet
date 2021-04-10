@@ -1,1 +1,1 @@
-var mnemonic = "august coil peanut bring number matter pond utility session clutch spatial horror";
+var mnemonic = "rubber expire unable twelve tube domain amazing lady video dawn scene mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "fall maid edge mosquito surround unit harsh buzz globe dune advice extra";
+var mnemonic = "special quality walnut enemy below brother pistol strategy approve acid parade alpha";

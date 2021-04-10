@@ -1,1 +1,1 @@
-var mnemonic = "seminar category grass drink like rookie knee rice tenant ghost moral film";
+var mnemonic = "reveal decorate error educate monkey client spider stumble inject trumpet scare pelican";

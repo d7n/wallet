@@ -1,1 +1,1 @@
-var mnemonic = "range client rubber buzz buffalo wage enroll drip popular inspire wonder violin";
+var mnemonic = "window cruise scout cram allow reward party manage shuffle rocket brother alter";

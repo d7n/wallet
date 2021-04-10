@@ -1,1 +1,1 @@
-var mnemonic = "already yard horn foil feed yellow april leopard dumb gesture network sound";
+var mnemonic = "train find runway scheme wet text submit rabbit ancient night keen arch";

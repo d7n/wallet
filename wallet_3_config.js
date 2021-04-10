@@ -1,1 +1,1 @@
-var mnemonic = "skull feed project whale vintage stove enough symptom behave reform rocket foster";
+var mnemonic = "aspect various bonus cycle resource lesson reveal window inject aerobic surprise float";

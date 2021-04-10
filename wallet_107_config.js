@@ -1,1 +1,1 @@
-var mnemonic = "march cloth company pottery six diamond dad little settle coconut glass popular";
+var mnemonic = "fee earn artwork olive foster erase poverty inflict about breeze consider jewel";

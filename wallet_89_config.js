@@ -1,1 +1,1 @@
-var mnemonic = "topple frost crack one spy autumn disorder hammer ivory cool man chimney";
+var mnemonic = "stereo private correct gravity yellow pool south prefer enrich mixture door mad";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors arrow adult drill corn note vintage cave addict hedgehog vote paper";
+var mnemonic = "garden smoke regret label notice immune guitar century another pen nerve juice";

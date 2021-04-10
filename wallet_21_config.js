@@ -1,1 +1,1 @@
-var mnemonic = "conduct husband travel dolphin bright piano scrap potato assist dry fox crack";
+var mnemonic = "excite sugar depart spawn veteran peanut frown seat maze vocal pudding foster";

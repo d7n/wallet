@@ -1,1 +1,1 @@
-var mnemonic = "engine conduct country juice fire rubber rough truly absent swing remember such";
+var mnemonic = "crumble focus arena sustain scorpion settle crane turn inform fury vivid cheese";

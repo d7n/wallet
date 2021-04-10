@@ -1,1 +1,1 @@
-var mnemonic = "observe asthma humor unveil nut bomb stadium inside differ useful shoulder kingdom";
+var mnemonic = "shed jealous emerge sail spoon horse will oblige host proud grit pole";

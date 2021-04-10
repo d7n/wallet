@@ -1,1 +1,1 @@
-var mnemonic = "gaze better neutral comic mind actress game season indicate dune object promote";
+var mnemonic = "divorce embrace crystal raise struggle luggage file coach strike fit random cancel";

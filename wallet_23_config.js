@@ -1,1 +1,1 @@
-var mnemonic = "volcano move mind entry win rookie tip leave endless first hobby exit";
+var mnemonic = "news such seat ocean utility volume rubber mother coin aisle ivory tag";

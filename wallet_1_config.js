@@ -1,1 +1,1 @@
-var mnemonic = "sheriff great cool immune trip rain buzz ranch resemble rare math faint";
+var mnemonic = "nasty taxi income slight yard layer honey peasant fruit tired bomb garment";

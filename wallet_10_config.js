@@ -1,1 +1,1 @@
-var mnemonic = "table flame garment guitar illegal napkin churn mobile squeeze attitude much crumble";
+var mnemonic = "minimum devote predict chaos switch emerge warm concert bamboo share embark finger";

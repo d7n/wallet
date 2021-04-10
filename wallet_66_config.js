@@ -1,1 +1,1 @@
-var mnemonic = "habit sauce edge inspire bid exchange grant stage limit buyer ecology team";
+var mnemonic = "fiction panic twice rocket edit topple slender discover nut muscle clock desert";
