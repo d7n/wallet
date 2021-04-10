@@ -1,1 +1,1 @@
-var mnemonic = "foster repair man consider sea news install case climb vapor toss inner";
+var mnemonic = "bamboo differ seat index baby segment token hole soft history ocean drama";

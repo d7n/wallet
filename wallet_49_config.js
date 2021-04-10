@@ -1,1 +1,1 @@
-var mnemonic = "host drive toward program update pause prepare dust install pool mask hood";
+var mnemonic = "merry combine adult silk visual disease street snap arena observe famous ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion venue boat grant upon orange someone grape gap impose coral front";
+var mnemonic = "panic upon broom ozone ugly laugh rifle cereal now close poem sustain";

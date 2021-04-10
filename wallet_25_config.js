@@ -1,1 +1,1 @@
-var mnemonic = "grit egg salon victory yard naive kit bamboo pill live farm cluster";
+var mnemonic = "struggle various tube spare suit carry find learn soldier cause history wine";

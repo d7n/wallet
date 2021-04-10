@@ -1,1 +1,1 @@
-var mnemonic = "misery crucial mix loud exhibit kingdom police any pottery argue buyer matter";
+var mnemonic = "hope shine narrow thrive lucky earn affair install chapter truly fire cheap";

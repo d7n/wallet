@@ -1,1 +1,1 @@
-var mnemonic = "awake cliff tortoise seminar shy outside attack fever cover flush crawl cause";
+var mnemonic = "myself tunnel drill faint print enforce label recall visa clutch modify price";

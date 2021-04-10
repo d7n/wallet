@@ -1,1 +1,1 @@
-var mnemonic = "neck era blur leave culture west term pledge void rose fortune invest";
+var mnemonic = "kitchen front rare energy gap sock pause eight stock circle twelve admit";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth donate swim this space tornado grace hour cover awkward another orange";
+var mnemonic = "panda universe meadow task hammer find oppose october very system mad stable";

@@ -1,1 +1,1 @@
-var mnemonic = "forest depth sheriff find general pair faculty list couch awesome unfold dose";
+var mnemonic = "fork tomorrow immune tip film buffalo erode emerge motor emotion team swing";

@@ -1,1 +1,1 @@
-var mnemonic = "region bird bring more monkey fortune dial crumble panda common logic breeze";
+var mnemonic = "fox ready situate hobby abandon replace ramp bamboo abuse giggle record cube";

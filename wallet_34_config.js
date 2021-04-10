@@ -1,1 +1,1 @@
-var mnemonic = "spread upset use liar gallery narrow actor sport that fashion light benefit";
+var mnemonic = "develop cushion banana muscle wedding work calm expire spice rail broccoli silly";

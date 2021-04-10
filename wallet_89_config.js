@@ -1,1 +1,1 @@
-var mnemonic = "outdoor broom rapid combine quiz canal rabbit love main evil still quit";
+var mnemonic = "language mechanic water resist police pluck uncover host argue maze they swarm";

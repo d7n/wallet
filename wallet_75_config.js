@@ -1,1 +1,1 @@
-var mnemonic = "wrap same jacket bulb door blast circle suggest left prize add across";
+var mnemonic = "radio lonely purse orange jungle grain faith test play never arm someone";

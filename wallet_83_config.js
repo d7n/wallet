@@ -1,1 +1,1 @@
-var mnemonic = "velvet another zone stool foam oppose apple acid where wife sphere thing";
+var mnemonic = "goat siege actor lizard urge already drastic social climb sock arrange phrase";

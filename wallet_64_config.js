@@ -1,1 +1,1 @@
-var mnemonic = "penalty trim dinosaur away sibling twelve grace audit repair deal outdoor discover";
+var mnemonic = "rebel wing current polar shine mirror where spin adapt knee finish you";

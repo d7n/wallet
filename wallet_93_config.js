@@ -1,1 +1,1 @@
-var mnemonic = "vintage skill deny sausage opera upper element cart inherit confirm celery jeans";
+var mnemonic = "vanish alter armed someone lawsuit rose horse chicken joy rebuild lecture off";

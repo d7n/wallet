@@ -1,1 +1,1 @@
-var mnemonic = "car black donor evil use improve piece refuse play tiny water exotic";
+var mnemonic = "corn session wing degree moon filter battle host multiply transfer goat fluid";

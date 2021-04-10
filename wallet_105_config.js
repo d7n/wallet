@@ -1,1 +1,1 @@
-var mnemonic = "mesh dial census final crowd unknown funny twist seed latin wonder juice";
+var mnemonic = "ability rural search assist denial option submit junior steel they raise dwarf";

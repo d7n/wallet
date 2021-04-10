@@ -1,1 +1,1 @@
-var mnemonic = "remind sort castle deputy occur rabbit warfare empower gas post parent sense";
+var mnemonic = "street cherry desk hidden field swear north metal movie leisure slogan picnic";

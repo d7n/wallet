@@ -1,1 +1,1 @@
-var mnemonic = "garment fire armor exact test hotel leg galaxy tail health course receive";
+var mnemonic = "talk despair mask reason air push throw train near reduce judge link";

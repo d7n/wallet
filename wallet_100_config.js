@@ -1,1 +1,1 @@
-var mnemonic = "soup concert mad sunset siren cushion faculty hollow similar alpha always bicycle";
+var mnemonic = "tool plate exercise raise ski dizzy assume advice process sudden forget arrow";

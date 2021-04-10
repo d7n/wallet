@@ -1,1 +1,1 @@
-var mnemonic = "rough mandate bean inside predict canal west vendor dumb tornado flat mean";
+var mnemonic = "jaguar resist wisdom imitate link action galaxy deer include giant senior legend";

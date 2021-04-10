@@ -1,1 +1,1 @@
-var mnemonic = "mixture galaxy banner puzzle meadow civil outer rug cherry ring vivid season";
+var mnemonic = "eight length jungle turn width merry laptop boil occur awkward margin year";

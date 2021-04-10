@@ -1,1 +1,1 @@
-var mnemonic = "quit rug robust void course black smart brass tilt salt neither supply";
+var mnemonic = "success spice column shoe fork capital earth kid slush theme exercise state";

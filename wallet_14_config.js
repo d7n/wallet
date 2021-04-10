@@ -1,1 +1,1 @@
-var mnemonic = "switch bleak member never shaft palace brown finish reform discover dumb thumb";
+var mnemonic = "cloth blanket stay stage quantum bleak session pet modify demise evidence exit";

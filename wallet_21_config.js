@@ -1,1 +1,1 @@
-var mnemonic = "surround select way spell define cinnamon tooth tip habit umbrella jaguar elevator";
+var mnemonic = "pond join host kitchen hawk ancient amused bottom gentle bid library indicate";

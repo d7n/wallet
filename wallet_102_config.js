@@ -1,1 +1,1 @@
-var mnemonic = "mask cruise discover junior that exchange casual flush autumn soldier need fragile";
+var mnemonic = "unknown embody hurry turkey trumpet forum carry bar measure cause dilemma apology";

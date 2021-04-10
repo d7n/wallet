@@ -1,1 +1,1 @@
-var mnemonic = "juice frog argue thing normal baby inner exit afraid festival novel nerve";
+var mnemonic = "tornado equip among basic adapt diesel ramp retire place junk beauty page";

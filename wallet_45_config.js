@@ -1,1 +1,1 @@
-var mnemonic = "flash slush floor trip stone deliver drift genuine slim recipe snack drill";
+var mnemonic = "female conduct doctor fish quit welcome engage injury review industry switch predict";

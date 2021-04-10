@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog coyote where man fan entire permit always field thought flock build";
+var mnemonic = "process moral hungry involve husband horse fire famous call distance office walnut";

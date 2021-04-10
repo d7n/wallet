@@ -1,1 +1,1 @@
-var mnemonic = "episode weasel jealous aunt dumb left scrap reason enrich situate invest pottery";
+var mnemonic = "arctic pizza fine regret hungry hospital wrist scrap virus predict solar frozen";

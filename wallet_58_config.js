@@ -1,1 +1,1 @@
-var mnemonic = "alert ginger senior crowd wasp hat life art only degree tumble pledge";
+var mnemonic = "topple traffic donate flight hat kitten buddy access bulk little physical always";

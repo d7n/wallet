@@ -1,1 +1,1 @@
-var mnemonic = "question equip search ready answer shallow snap ginger destroy food right endorse";
+var mnemonic = "plunge castle dutch lunar demand vast crowd legend sorry olive sword pull";

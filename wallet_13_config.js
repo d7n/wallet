@@ -1,1 +1,1 @@
-var mnemonic = "clean brief hedgehog series miss magic able resist fun wagon sail drama";
+var mnemonic = "buyer cancel pond mechanic worth toss obtain void super solid wood hazard";

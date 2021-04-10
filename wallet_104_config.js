@@ -1,1 +1,1 @@
-var mnemonic = "hill shrug ecology cancel off away zero village digital organ level wheat";
+var mnemonic = "deputy bulb garden gaze initial will item radio grid happy sibling tree";

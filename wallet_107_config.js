@@ -1,1 +1,1 @@
-var mnemonic = "dumb nest rubber prevent learn fat soap royal supply family brush mosquito";
+var mnemonic = "direct rude head laundry globe bleak assume choice august expire endorse moment";

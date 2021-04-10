@@ -1,1 +1,1 @@
-var mnemonic = "trial oppose marine cancel asset special heart hollow simple estate mobile army";
+var mnemonic = "tired impact poem tobacco slim song check bonus asthma note ring pyramid";

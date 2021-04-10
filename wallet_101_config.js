@@ -1,1 +1,1 @@
-var mnemonic = "media review cradle volume change there glare leg discover express canoe explain";
+var mnemonic = "team boat edge output fashion swear please bone once tape eyebrow narrow";

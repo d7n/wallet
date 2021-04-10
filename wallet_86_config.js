@@ -1,1 +1,1 @@
-var mnemonic = "project symptom silk state record emerge razor hunt cover north spirit exchange";
+var mnemonic = "hen dragon merit industry brick shoulder ready perfect immense canoe lecture charge";

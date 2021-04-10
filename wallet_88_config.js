@@ -1,1 +1,1 @@
-var mnemonic = "hamster situate slim idea agree nut suit clarify bulk laundry pyramid deposit";
+var mnemonic = "hollow property cash blast virus consider like joke fence maze silver fatigue";

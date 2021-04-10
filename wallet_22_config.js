@@ -1,1 +1,1 @@
-var mnemonic = "supreme capital episode body mistake claw combine family ahead diagram hint detail";
+var mnemonic = "embody blouse push define castle buddy winter elder describe pilot olive text";

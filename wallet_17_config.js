@@ -1,1 +1,1 @@
-var mnemonic = "rug tray true humor service clump hub seed token vessel surround wagon";
+var mnemonic = "humor enemy fly guide club fire faith cliff vault length cat woman";

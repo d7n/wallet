@@ -1,1 +1,1 @@
-var mnemonic = "park tumble arrive ugly universe oil trick unaware excuse subject dizzy rookie";
+var mnemonic = "kidney raven old cherry turkey scorpion weekend element sunset shaft tribe exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "view next recycle hollow inch reform awkward salmon acquire fiscal fire insane";
+var mnemonic = "stairs visa cart brain mercy machine bacon future grid desert aim input";

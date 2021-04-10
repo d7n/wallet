@@ -1,1 +1,1 @@
-var mnemonic = "hidden sight tennis build reduce west strike like mesh employ provide tent";
+var mnemonic = "stereo wife taste cart ticket ridge bamboo similar hedgehog power nasty kick";

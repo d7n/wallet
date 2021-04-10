@@ -1,1 +1,1 @@
-var mnemonic = "squirrel awkward junior fury hobby van put fluid solid express mammal inherit";
+var mnemonic = "top glove venue vehicle evolve fox enrich catalog afraid calm above trust";

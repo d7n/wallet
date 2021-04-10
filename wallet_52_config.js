@@ -1,1 +1,1 @@
-var mnemonic = "check mesh apart senior giggle casual cruise galaxy abuse season problem extra";
+var mnemonic = "sadness truly dilemma vintage obvious august dream bless visa lab predict round";

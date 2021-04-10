@@ -1,1 +1,1 @@
-var mnemonic = "predict purse proud fiction bomb visa equal creek tide radar render perfect";
+var mnemonic = "depth reason curious transfer heavy question enhance artist mirror fruit cliff visual";

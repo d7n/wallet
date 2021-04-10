@@ -1,1 +1,1 @@
-var mnemonic = "dish couple clay glad canal series flavor unfair tennis toddler clump stairs";
+var mnemonic = "play deputy copy feature hurdle agent fly bread mind idle foot castle";

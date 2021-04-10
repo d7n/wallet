@@ -1,1 +1,1 @@
-var mnemonic = "envelope model kidney gather rule wealth refuse report coast knock absurd problem";
+var mnemonic = "belt mule horse combine liquid radar prevent donate erosion enhance rather trophy";

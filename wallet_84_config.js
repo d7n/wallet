@@ -1,1 +1,1 @@
-var mnemonic = "text conduct pony embody wing appear friend gas engine denial eager manage";
+var mnemonic = "level smile helmet chicken hill lounge stage grant magnet swamp skull spot";

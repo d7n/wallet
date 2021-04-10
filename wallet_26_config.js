@@ -1,1 +1,1 @@
-var mnemonic = "uncle fresh message wrap suffer element mercy uncover travel cycle ill deny";
+var mnemonic = "wrong access divide upgrade hidden license world mistake column taste cheap click";

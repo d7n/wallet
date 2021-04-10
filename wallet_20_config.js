@@ -1,1 +1,1 @@
-var mnemonic = "raise farm jealous famous dog robust law canal rocket ask tail muscle";
+var mnemonic = "equip casual inside bind abuse gym stadium actress noise fold naive old";

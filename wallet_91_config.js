@@ -1,1 +1,1 @@
-var mnemonic = "abuse multiply merry lizard pilot method race orange town alarm three transfer";
+var mnemonic = "monitor victory blouse again diesel genuine finish rely sausage tourist wheel dial";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth gold long fork prepare robust oyster lady damp siege observe sword";
+var mnemonic = "music kite arm machine day alpha bind paddle rebel call reveal lava";

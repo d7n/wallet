@@ -1,1 +1,1 @@
-var mnemonic = "giant govern receive weasel soccer fat table wreck small obscure fit jaguar";
+var mnemonic = "tiny daughter depend rate hire series ladder kingdom lab border educate since";

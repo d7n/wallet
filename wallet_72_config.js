@@ -1,1 +1,1 @@
-var mnemonic = "hero birth slot husband actor gravity seven defy drift stomach there column";
+var mnemonic = "bench video human derive close defy near unaware fury peace crumble habit";

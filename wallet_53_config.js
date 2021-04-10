@@ -1,1 +1,1 @@
-var mnemonic = "boil cloud shadow abuse bulb dune exact upper foot abstract assume worth";
+var mnemonic = "help praise equip simple measure foil shove prosper result brother phone blind";

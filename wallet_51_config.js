@@ -1,1 +1,1 @@
-var mnemonic = "clarify sister sad dirt near shaft virus traffic escape tool icon melt";
+var mnemonic = "inform blossom waste tell spatial occur bottom hospital cloth weather biology excess";

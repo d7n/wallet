@@ -1,1 +1,1 @@
-var mnemonic = "quarter captain right problem vintage language rural code found valley cotton wasp";
+var mnemonic = "monitor subject much stumble net wide ensure giggle into index easily rice";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid first jungle poem museum access sunset clip crumble black sentence lunch";
+var mnemonic = "kite century output brass sea purchase over elegant basket quiz rural level";

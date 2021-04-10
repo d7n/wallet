@@ -1,1 +1,1 @@
-var mnemonic = "voyage else dash pride inhale mean erupt flight stand neutral hair topple";
+var mnemonic = "apology skin update mention tool parent denial evidence beauty sting dragon mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "salon naive link elbow family oak emotion olympic capital casual intact range";
+var mnemonic = "volcano skirt vessel eagle sunny diamond just anxiety door long seminar mystery";

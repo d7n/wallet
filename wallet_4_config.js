@@ -1,1 +1,1 @@
-var mnemonic = "elephant allow degree atom bamboo coyote attend jazz object age fresh trophy";
+var mnemonic = "curtain category awesome skate salmon chicken settle also feature team choose wine";

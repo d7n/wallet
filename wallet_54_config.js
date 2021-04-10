@@ -1,1 +1,1 @@
-var mnemonic = "team lawn decorate shell grit amused purse zero dial high chef wild";
+var mnemonic = "topple east unusual alcohol tired obvious flavor lonely attitude blade science grit";

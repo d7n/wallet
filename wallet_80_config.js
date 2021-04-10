@@ -1,1 +1,1 @@
-var mnemonic = "lyrics edit page twenty core symptom example tackle fault head arm menu";
+var mnemonic = "often alert veteran sunny lazy absurd vehicle knife uncle fox purpose faculty";

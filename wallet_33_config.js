@@ -1,1 +1,1 @@
-var mnemonic = "hire april world begin pencil unknown whale mountain army gown glimpse father";
+var mnemonic = "cricket solar dress fault remain cry corn cross october jar milk pull";

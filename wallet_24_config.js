@@ -1,1 +1,1 @@
-var mnemonic = "useful chat same frog wasp shoot amazing meat vicious gown vendor spy";
+var mnemonic = "horse wolf hen permit outdoor nurse vague finger coral engage good race";

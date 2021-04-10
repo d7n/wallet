@@ -1,1 +1,1 @@
-var mnemonic = "select wave zebra unhappy select rain capital review filter skin result permit";
+var mnemonic = "benefit depend decrease blanket winner napkin praise aerobic old dial evil safe";

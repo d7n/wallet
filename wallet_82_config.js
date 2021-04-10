@@ -1,1 +1,1 @@
-var mnemonic = "butter word sheriff fruit increase blossom sting replace curtain glide regular panther";
+var mnemonic = "patient feed until sauce cupboard jacket miracle improve goat fruit short travel";

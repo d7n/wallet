@@ -1,1 +1,1 @@
-var mnemonic = "siege stable point borrow shiver exhibit film wink label useful glass wear";
+var mnemonic = "sketch chicken uncover glance private multiply filter game palace elevator melt derive";

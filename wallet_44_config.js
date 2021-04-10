@@ -1,1 +1,1 @@
-var mnemonic = "prevent fantasy health teach certain pool item powder media electric save improve";
+var mnemonic = "village question ugly asset boy harvest depth unusual stem glory claim joy";

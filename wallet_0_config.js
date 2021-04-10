@@ -1,1 +1,1 @@
-var mnemonic = "alley boil glad scout critic public luxury advice become clap turtle gun";
+var mnemonic = "maximum fish degree burger open crawl cheap easy clever note garlic relief";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin flight illegal control whisper very dawn upon coin guitar wolf usage";
+var mnemonic = "mimic drop soccer core lemon cluster perfect dwarf fox goat glow toast";

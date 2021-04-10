@@ -1,1 +1,1 @@
-var mnemonic = "never warfare list motor horn panic actor rhythm host sunset fork spoil";
+var mnemonic = "negative always echo exchange turtle good carpet limb brief initial gallery supply";

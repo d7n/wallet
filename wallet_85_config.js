@@ -1,1 +1,1 @@
-var mnemonic = "devote panda pumpkin slogan afford hungry man inherit sell vault power wonder";
+var mnemonic = "firm surprise spoon acoustic wife input swift involve chalk express arrive question";

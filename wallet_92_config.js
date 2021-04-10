@@ -1,1 +1,1 @@
-var mnemonic = "surprise medal bid cool chief dish sword cry attitude organ people scorpion";
+var mnemonic = "license bring gown polar adult online harvest able glide invite desk flash";

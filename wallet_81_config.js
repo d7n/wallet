@@ -1,1 +1,1 @@
-var mnemonic = "armed final winter come slice feel idle isolate icon ill valid violin";
+var mnemonic = "device subway isolate choice subway wool design patient banana decade salute pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "tape quit surface alone fish force together buyer acoustic laptop polar clutch";
+var mnemonic = "prevent purity cave apology only usage science mixed small street gain biology";

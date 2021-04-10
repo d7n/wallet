@@ -1,1 +1,1 @@
-var mnemonic = "kiss core echo grunt tag frame relax hover beach pony forget fly";
+var mnemonic = "sheriff six frame hungry team tuition soft decide ladder speak dilemma labor";

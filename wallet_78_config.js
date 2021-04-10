@@ -1,1 +1,1 @@
-var mnemonic = "movie cycle road humor joke swarm habit calm fire alien obscure donate";
+var mnemonic = "crisp peasant enlist wolf hunt giant gesture surprise poverty person oil oxygen";

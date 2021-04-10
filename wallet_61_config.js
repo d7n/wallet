@@ -1,1 +1,1 @@
-var mnemonic = "knife exile cargo sister enough major earth flight axis good vocal brief";
+var mnemonic = "napkin improve gloom bargain enrich device spy pulse improve approve security together";

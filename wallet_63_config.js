@@ -1,1 +1,1 @@
-var mnemonic = "impact actual south second release lady insane index box east forum candy";
+var mnemonic = "lumber recipe horror local exhaust concert cat purity squeeze arm idle gauge";

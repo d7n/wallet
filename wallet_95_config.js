@@ -1,1 +1,1 @@
-var mnemonic = "heavy record work rely mixed oval solar jar brick curious grit error";
+var mnemonic = "kick chief pumpkin galaxy deer battle hospital soccer replace utility inmate fan";

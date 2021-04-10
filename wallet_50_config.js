@@ -1,1 +1,1 @@
-var mnemonic = "hollow dynamic loop joke chest trouble mandate earth scissors mom spike dance";
+var mnemonic = "absent short assume divorce draw scan taxi where carry enable filter churn";

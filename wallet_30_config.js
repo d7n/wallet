@@ -1,1 +1,1 @@
-var mnemonic = "bicycle sick kite sphere fresh uniform discover flavor glide melody cause pet";
+var mnemonic = "run share federal announce track village more march unlock flock common sauce";

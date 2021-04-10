@@ -1,1 +1,1 @@
-var mnemonic = "express lady black inmate expect gym address fine news rapid athlete wedding";
+var mnemonic = "outdoor position vocal buffalo alert bonus erase twin earth dog entry north";
