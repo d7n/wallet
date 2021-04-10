@@ -1,1 +1,1 @@
-var mnemonic = "mistake brain wasp quit portion purse virtual icon return bomb rude symbol";
+var mnemonic = "garage situate glimpse wife draft water dolphin claw awake task glow action";

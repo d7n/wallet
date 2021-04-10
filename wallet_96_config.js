@@ -1,1 +1,1 @@
-var mnemonic = "aim sunny okay moon author image skin evolve olympic payment glove ensure";
+var mnemonic = "sport minute draw uniform armor custom gadget ecology pride wave engage sting";

@@ -1,1 +1,1 @@
-var mnemonic = "burden chef advice capable trigger tiny fabric item target harvest ocean build";
+var mnemonic = "audit gift proud hold bundle region eagle swamp museum satisfy north sample";

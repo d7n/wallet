@@ -1,1 +1,1 @@
-var mnemonic = "chef like chapter world obscure execute truck regret whale spirit parade kite";
+var mnemonic = "office fabric bag opinion protect bone carpet rural dance inherit soap poem";

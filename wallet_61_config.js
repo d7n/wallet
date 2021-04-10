@@ -1,1 +1,1 @@
-var mnemonic = "safe talk rabbit issue miss dish crumble panic derive multiply pave exit";
+var mnemonic = "hour throw abandon undo uncle nurse fuel negative ski gloom buzz scale";

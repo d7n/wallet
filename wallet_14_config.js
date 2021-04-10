@@ -1,1 +1,1 @@
-var mnemonic = "distance project hurdle setup flush rail nut ask actor wolf vacant donkey";
+var mnemonic = "north bless village chronic combine water velvet depend guess focus empower visa";

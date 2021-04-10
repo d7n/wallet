@@ -1,1 +1,1 @@
-var mnemonic = "hurdle glow fish senior shell ethics reward crouch annual indoor another crumble";
+var mnemonic = "river scrap grant glue casual urge model era harsh cousin limit picnic";

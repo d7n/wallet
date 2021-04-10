@@ -1,1 +1,1 @@
-var mnemonic = "inflict surge mix country give bird toe under decide ahead toast soap";
+var mnemonic = "type skirt inherit shop police disagree exist agent diary film they bus";

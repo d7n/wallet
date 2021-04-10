@@ -1,1 +1,1 @@
-var mnemonic = "butter pulp chapter good weird donor ski glide hospital gesture unveil connect";
+var mnemonic = "glimpse country hold one universe sort robust among balance loyal quit defy";

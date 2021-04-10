@@ -1,1 +1,1 @@
-var mnemonic = "monster sure conduct net zone cage else soap position cactus poverty traffic";
+var mnemonic = "protect tell record gun panda meat lady humble deer exit document expand";

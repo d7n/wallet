@@ -1,1 +1,1 @@
-var mnemonic = "correct urban shoulder label world meat anxiety genius squeeze recycle joy often";
+var mnemonic = "empty setup relief engine skull clown differ promote they siege husband struggle";

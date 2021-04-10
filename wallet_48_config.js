@@ -1,1 +1,1 @@
-var mnemonic = "weasel can brother purity cement shadow joke system autumn rhythm budget toast";
+var mnemonic = "coach ranch again kit rally input humor into peanut door scene emotion";

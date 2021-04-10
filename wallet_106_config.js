@@ -1,1 +1,1 @@
-var mnemonic = "curve virtual elevator donkey moon minimum scene dolphin stumble before luxury solution";
+var mnemonic = "announce earth end eight radar lecture club axis chapter length trap better";

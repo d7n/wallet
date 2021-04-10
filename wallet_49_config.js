@@ -1,1 +1,1 @@
-var mnemonic = "lake educate candy curtain pioneer vibrant cycle slush seven sword convince gate";
+var mnemonic = "asthma tail boy easily say witness critic stem sword humble treat tape";

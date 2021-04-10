@@ -1,1 +1,1 @@
-var mnemonic = "practice mixed swap solution isolate mandate panda artist spray sniff trim couple";
+var mnemonic = "gloom citizen rate blush divide arm clown pupil debris lawn satoshi monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "infant lunar scheme lake anxiety canyon sudden baby toilet direct card remember";
+var mnemonic = "sleep glow gesture blind merry element venue bread youth trip seminar midnight";

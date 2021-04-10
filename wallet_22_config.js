@@ -1,1 +1,1 @@
-var mnemonic = "cereal reopen topple yard void toe join advance try pattern economy nerve";
+var mnemonic = "leave neglect brain kick aware inner appear safe text devote habit hurry";

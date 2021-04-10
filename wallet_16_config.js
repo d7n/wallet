@@ -1,1 +1,1 @@
-var mnemonic = "maze leisure gap pause slight document iron glue dish smoke nephew initial";
+var mnemonic = "bottom usage scrub broccoli short void travel wine become mandate arrow purpose";

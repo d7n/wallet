@@ -1,1 +1,1 @@
-var mnemonic = "mango dizzy loop bring beach sense puzzle maid chef old vital cloth";
+var mnemonic = "stage start maid phrase morning you end stamp crucial flag essay faculty";

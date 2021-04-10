@@ -1,1 +1,1 @@
-var mnemonic = "gas rather margin side object student wasp dignity sudden liberty naive response";
+var mnemonic = "museum glimpse assist reflect bulk enroll gloom forward teach because extra early";

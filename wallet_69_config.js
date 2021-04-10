@@ -1,1 +1,1 @@
-var mnemonic = "curtain upgrade tennis enforce attitude remember weapon then labor arena index budget";
+var mnemonic = "entire eyebrow innocent few swap minor scorpion front fatigue trigger burden large";

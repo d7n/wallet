@@ -1,1 +1,1 @@
-var mnemonic = "proof matter rack merit teach start cycle script inch employ put stool";
+var mnemonic = "explain brush bright lab advice cat hungry year horn recipe hub job";

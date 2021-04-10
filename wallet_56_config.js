@@ -1,1 +1,1 @@
-var mnemonic = "give person close amount into margin draft express bridge thrive live total";
+var mnemonic = "huge quick where erosion recall grape dress require raw divide produce goose";

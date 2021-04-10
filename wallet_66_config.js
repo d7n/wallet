@@ -1,1 +1,1 @@
-var mnemonic = "super frozen vendor average honey noise recycle appear still casual perfect knock";
+var mnemonic = "close deer material dust beyond acquire garage step vessel evil humble valve";

@@ -1,1 +1,1 @@
-var mnemonic = "consider mushroom kitten voice social warrior grid evidence need know void spot";
+var mnemonic = "search scrub family saddle puppy gate aspect scan language obey grocery raise";

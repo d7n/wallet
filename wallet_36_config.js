@@ -1,1 +1,1 @@
-var mnemonic = "pigeon arena arena desk melt sight call room fossil average juice ritual";
+var mnemonic = "field emerge virus ready nuclear invest unknown wealth extra pluck moment taxi";

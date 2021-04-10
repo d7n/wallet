@@ -1,1 +1,1 @@
-var mnemonic = "middle praise profit man arrange stable elder three pause bunker owner evolve";
+var mnemonic = "hard flat episode marriage food perfect scrap price army man volcano ozone";

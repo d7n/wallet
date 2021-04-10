@@ -1,1 +1,1 @@
-var mnemonic = "moment crop ticket basket syrup now render sweet nice cost globe height";
+var mnemonic = "genius voyage decline sweet frozen people legend bargain valve slogan first tornado";

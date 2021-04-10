@@ -1,1 +1,1 @@
-var mnemonic = "cushion mule cover fetch song shrimp try grape mutual swift process bridge";
+var mnemonic = "early spot mirror olive cousin tumble immune bottom insane disorder cool attract";

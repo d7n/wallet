@@ -1,1 +1,1 @@
-var mnemonic = "neck urge then position spend around post stool worry unaware ancient derive";
+var mnemonic = "march level inhale dumb bubble inside judge cupboard push mystery year spell";

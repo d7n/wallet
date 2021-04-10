@@ -1,1 +1,1 @@
-var mnemonic = "lava unlock eagle medal tell ghost dutch during dance tongue arrest stove";
+var mnemonic = "eagle mail dirt peanut away erode share pink cake wife swamp term";

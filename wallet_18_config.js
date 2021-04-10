@@ -1,1 +1,1 @@
-var mnemonic = "cable float crack afford mechanic pact scale hire weapon pink file hockey";
+var mnemonic = "proud seven domain fade merit imitate frozen next clerk tomorrow horse front";

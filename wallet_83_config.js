@@ -1,1 +1,1 @@
-var mnemonic = "exclude cage salmon critic quote orphan among canal stomach suffer aware frown";
+var mnemonic = "toe weapon matter wife rule rule job say ramp pair monitor box";

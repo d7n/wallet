@@ -1,1 +1,1 @@
-var mnemonic = "split idle unhappy gloom select royal mention atom identify hood ghost permit";
+var mnemonic = "leisure festival craft fault actual flip educate list garlic sound stumble arch";

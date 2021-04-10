@@ -1,1 +1,1 @@
-var mnemonic = "wet rocket quarter sunny plunge toe rude win lock rescue squeeze approve";
+var mnemonic = "giggle matter fragile sport carry panic audit come chief night hire problem";

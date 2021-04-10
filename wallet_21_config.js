@@ -1,1 +1,1 @@
-var mnemonic = "pride private shallow nominee library range grunt amused benefit sun paddle electric";
+var mnemonic = "side school now embody mosquito hurdle apple journey digital tiny hint drill";

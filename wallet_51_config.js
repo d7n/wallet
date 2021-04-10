@@ -1,1 +1,1 @@
-var mnemonic = "critic cute asthma cute random tent carry hood company rib claim genius";
+var mnemonic = "appear suit congress ceiling fragile stomach height protect captain forget chunk opinion";

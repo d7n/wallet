@@ -1,1 +1,1 @@
-var mnemonic = "fiber retreat steak index satisfy coach slim snow hat knock kite soda";
+var mnemonic = "occur dune extra kitchen security joke pioneer convince exotic change neglect anger";

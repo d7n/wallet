@@ -1,1 +1,1 @@
-var mnemonic = "supreme student autumn weapon expose debris obtain derive siren huge predict pact";
+var mnemonic = "allow eager adapt skill radio two dune paper behind fee gain steak";

@@ -1,1 +1,1 @@
-var mnemonic = "list kingdom always west cereal diary slush flash away solar bless all";
+var mnemonic = "acquire forum mother ranch emerge arctic train fan traffic box basic motion";

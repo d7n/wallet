@@ -1,1 +1,1 @@
-var mnemonic = "select gallery about olympic car kite puppy depart zone venue any chaos";
+var mnemonic = "shadow today dentist rabbit safe exclude solve knife awkward canvas bulb position";

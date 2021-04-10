@@ -1,1 +1,1 @@
-var mnemonic = "under team vote empower actress piece deposit name stock inform tennis acoustic";
+var mnemonic = "heart vault author sweet logic round cricket width neutral runway cattle fix";

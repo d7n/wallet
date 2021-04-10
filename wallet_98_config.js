@@ -1,1 +1,1 @@
-var mnemonic = "axis peasant mean vivid enemy friend lens mule vicious nice arrest unfold";
+var mnemonic = "pond rally beef supply entire brisk planet brass test artist sock deliver";

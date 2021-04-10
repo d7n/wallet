@@ -1,1 +1,1 @@
-var mnemonic = "record rude wrestle trigger layer garden victory head interest forum shoe nation";
+var mnemonic = "inhale credit profit category explain type praise rebuild snap vicious cry venue";

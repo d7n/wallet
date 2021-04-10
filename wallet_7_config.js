@@ -1,1 +1,1 @@
-var mnemonic = "spider luggage robot country humble swim nature soup duck trim only mistake";
+var mnemonic = "banner diagram cool sphere pool couch embrace balance hunt differ erupt business";

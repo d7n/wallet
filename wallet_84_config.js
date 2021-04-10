@@ -1,1 +1,1 @@
-var mnemonic = "tide round one upon small moment defy afford embark vintage pony bleak";
+var mnemonic = "ugly thunder border list truly eight extend shadow nuclear moon horror wash";

@@ -1,1 +1,1 @@
-var mnemonic = "seat elephant august drastic zoo radio ghost speed fantasy royal clinic confirm";
+var mnemonic = "first achieve beach program extra helmet layer company gorilla run visa cable";

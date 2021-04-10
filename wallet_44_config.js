@@ -1,1 +1,1 @@
-var mnemonic = "aerobic fit wrestle torch purse valley sphere trumpet drop wheat amused pioneer";
+var mnemonic = "onion fantasy inch tunnel skill crystal bike tonight once minor someone annual";

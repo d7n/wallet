@@ -1,1 +1,1 @@
-var mnemonic = "bind seat lock medal lawsuit student wet choice upper casual habit vibrant";
+var mnemonic = "goddess buyer poverty crawl trial intact audit price meadow share program mosquito";

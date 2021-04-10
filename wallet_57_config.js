@@ -1,1 +1,1 @@
-var mnemonic = "crouch sense toast glow boost dawn asset country senior scheme news layer";
+var mnemonic = "husband fish tooth umbrella stove later cheese dash owner old flag acoustic";

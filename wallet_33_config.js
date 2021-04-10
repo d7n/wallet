@@ -1,1 +1,1 @@
-var mnemonic = "rocket clip prize episode matter spirit sunset maximum excess coconut essence select";
+var mnemonic = "dial document trip seat marine interest guard sand bronze acquire heart shop";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke produce trouble enemy core impose easy hard rubber unhappy region stomach";
+var mnemonic = "imitate high gain wagon ugly diesel sample label frozen wink stumble diesel";

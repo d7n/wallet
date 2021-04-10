@@ -1,1 +1,1 @@
-var mnemonic = "river round alter rebel apology eager image desk zero hunt curious six";
+var mnemonic = "waste rescue scatter this chunk weird corn beef gold bone emerge solar";

@@ -1,1 +1,1 @@
-var mnemonic = "climb surprise click drink chief only pond ask confirm cube help fall";
+var mnemonic = "amateur cave crumble velvet limit slam promote fly half battle flight spend";

@@ -1,1 +1,1 @@
-var mnemonic = "dash little recycle adapt hazard royal crouch warfare afraid exercise jealous ankle";
+var mnemonic = "humor brick remember ecology equal toast invest sail own enlist phrase upper";

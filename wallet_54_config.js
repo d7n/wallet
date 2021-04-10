@@ -1,1 +1,1 @@
-var mnemonic = "clerk pass token vital foster rival eight walk then loop harsh poverty";
+var mnemonic = "fashion pear smooth grief bar when orphan hub slab buffalo wink chaos";

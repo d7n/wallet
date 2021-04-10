@@ -1,1 +1,1 @@
-var mnemonic = "gospel appear dial awake main amateur sphere float ecology crisp soda toilet";
+var mnemonic = "fortune remind ability ranch burst general better erode mandate wet pass jar";

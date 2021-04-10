@@ -1,1 +1,1 @@
-var mnemonic = "armed curious network panda eyebrow dial angle odor jelly pool very copper";
+var mnemonic = "beyond flag chest shrimp royal wet steel ready grape egg domain outside";

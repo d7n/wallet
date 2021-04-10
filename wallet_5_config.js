@@ -1,1 +1,1 @@
-var mnemonic = "idea text round mushroom there mechanic milk click length mass armor gun";
+var mnemonic = "habit furnace harvest vivid soda burger simple beauty face digital trade broom";

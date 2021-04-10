@@ -1,1 +1,1 @@
-var mnemonic = "dress tuna artwork shaft bag hamster brand question trial universe eagle myth";
+var mnemonic = "tomato beyond hurry solve auto replace arch cigar spy fringe famous rule";

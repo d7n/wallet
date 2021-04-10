@@ -1,1 +1,1 @@
-var mnemonic = "cart century bike announce youth smooth torch embark fatigue feed tube acid";
+var mnemonic = "core tail drip wild tree scheme digital canoe orient cruise flavor box";

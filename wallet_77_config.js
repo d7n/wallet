@@ -1,1 +1,1 @@
-var mnemonic = "floor fall okay doctor genre poem bicycle recycle metal give charge laundry";
+var mnemonic = "canvas bounce this quote select leg impose dutch sadness amount talent frost";

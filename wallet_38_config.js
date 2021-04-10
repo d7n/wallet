@@ -1,1 +1,1 @@
-var mnemonic = "hobby wash hello plug pear hire cannon spawn episode feel worth iron";
+var mnemonic = "genuine symbol item protect rate actress orbit aunt cake pet catch brave";

@@ -1,1 +1,1 @@
-var mnemonic = "mass cash resist zero slide enemy before wrestle liquid noise erupt rent";
+var mnemonic = "immense velvet beach leisure beef off swarm ceiling fuel shallow hand rabbit";

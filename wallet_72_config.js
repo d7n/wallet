@@ -1,1 +1,1 @@
-var mnemonic = "prison click agree parade eye slim fat pass tower hollow cheap delay";
+var mnemonic = "recycle merge ribbon toy mixture predict loop limb envelope client donor maple";

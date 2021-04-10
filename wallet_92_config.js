@@ -1,1 +1,1 @@
-var mnemonic = "there rail diagram fog breeze attack photo orbit twist carry circle hazard";
+var mnemonic = "phrase cheap sign autumn turtle often artwork tumble shock bread web brain";

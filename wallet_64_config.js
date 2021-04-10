@@ -1,1 +1,1 @@
-var mnemonic = "good hotel stuff humble brick clump finger ocean burst margin access almost";
+var mnemonic = "deliver month squeeze green shove sting subway focus night fetch evidence unfold";

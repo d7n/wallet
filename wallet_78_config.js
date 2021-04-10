@@ -1,1 +1,1 @@
-var mnemonic = "clown inner woman claw survey fun like flash choose track when dilemma";
+var mnemonic = "box fit type please exit inflict crowd either notable brand tennis gun";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty moral toward cigar evolve blade small resemble nut clarify swamp wood";
+var mnemonic = "alcohol primary sorry hint normal puzzle ready enlist pizza neutral rookie author";

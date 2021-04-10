@@ -1,1 +1,1 @@
-var mnemonic = "sadness erode manual legend almost cover shuffle fish soft wrestle output impact";
+var mnemonic = "tonight guard brand resist wagon senior move spider detail melt myself hero";

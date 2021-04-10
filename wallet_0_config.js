@@ -1,1 +1,1 @@
-var mnemonic = "swallow person slush idea divert network stove vessel hand alarm culture tide";
+var mnemonic = "tray whip bachelor cat skin intact tide slender flame grow club split";

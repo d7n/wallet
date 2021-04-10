@@ -1,1 +1,1 @@
-var mnemonic = "canal cruise opera pig transfer few figure claw stand use charge gloom";
+var mnemonic = "decorate deal become recycle throw fun crowd moon journey misery vibrant grace";

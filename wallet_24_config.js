@@ -1,1 +1,1 @@
-var mnemonic = "bridge grass harvest fruit aisle vehicle then wet rather badge blouse toward";
+var mnemonic = "alley evidence super denial stone couch false chief grain level tunnel minute";

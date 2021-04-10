@@ -1,1 +1,1 @@
-var mnemonic = "square valid park limit crater analyst hunt answer horn main action lyrics";
+var mnemonic = "pottery march achieve depth buddy hollow pledge abandon dice canoe among since";

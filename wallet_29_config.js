@@ -1,1 +1,1 @@
-var mnemonic = "pet curious print syrup announce juice fame slush nose trial scatter chase";
+var mnemonic = "hold cash undo coffee useless tumble latin behave noodle salmon prefer remember";

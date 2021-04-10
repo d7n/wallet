@@ -1,1 +1,1 @@
-var mnemonic = "cement violin rate ahead impulse nuclear glimpse beach tomorrow wood width card";
+var mnemonic = "thought upgrade bachelor chest fame ancient upgrade make knife type dwarf peanut";

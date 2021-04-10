@@ -1,1 +1,1 @@
-var mnemonic = "dry whip glide denial two trial cotton seed try split light oil";
+var mnemonic = "aerobic they guitar royal photo ancient fruit pattern census luggage trim exile";

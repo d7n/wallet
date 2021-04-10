@@ -1,1 +1,1 @@
-var mnemonic = "copy diesel genre coach same nation try angle negative awake antenna present";
+var mnemonic = "exact afford hundred puppy market avocado venue bicycle erosion resist sphere wheel";

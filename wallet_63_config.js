@@ -1,1 +1,1 @@
-var mnemonic = "giggle extend shrug silk spike rare web asthma near egg warfare pumpkin";
+var mnemonic = "alarm meat runway inside echo grid uniform rate input panic term net";

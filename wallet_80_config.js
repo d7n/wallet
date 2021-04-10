@@ -1,1 +1,1 @@
-var mnemonic = "pause replace setup copper leader boss artist shaft blind doctor wolf oven";
+var mnemonic = "jewel fade crawl tail siege industry vapor kick empty sister win roast";

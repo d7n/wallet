@@ -1,1 +1,1 @@
-var mnemonic = "honey poverty assume happy useless scheme donor decide evoke rich logic around";
+var mnemonic = "tank increase story good arch ship blouse unit master door warm toy";

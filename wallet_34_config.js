@@ -1,1 +1,1 @@
-var mnemonic = "tower battle inch sick step pulp flash hurry tongue anger blood able";
+var mnemonic = "cry unlock robust treat birth rail garage slam payment because voyage flavor";

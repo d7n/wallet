@@ -1,1 +1,1 @@
-var mnemonic = "destroy manual insane toy coast asset worry blush turtle youth crazy author";
+var mnemonic = "swim unable practice stove fossil toast lock cruel retire ozone rabbit transfer";

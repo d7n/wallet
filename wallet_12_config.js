@@ -1,1 +1,1 @@
-var mnemonic = "false famous expect trick distance nice ivory tunnel father junior entire loud";
+var mnemonic = "enough tone sample rule rescue gaze alter visual execute tomato course trophy";

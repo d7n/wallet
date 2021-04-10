@@ -1,1 +1,1 @@
-var mnemonic = "average project economy fitness orchard wealth clock shrug slot sorry olympic assume";
+var mnemonic = "unit icon planet tourist kiwi credit hamster once category project absurd gadget";

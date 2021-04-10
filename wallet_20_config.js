@@ -1,1 +1,1 @@
-var mnemonic = "guard empower angle mechanic smile dance oil jelly actress rapid taste connect";
+var mnemonic = "hip bottom estate physical glove verify exercise trust tip mystery vault hungry";

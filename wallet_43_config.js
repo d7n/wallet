@@ -1,1 +1,1 @@
-var mnemonic = "this viable laundry lake bottom lamp crash hard fall news silver depth";
+var mnemonic = "question harsh swamp win office guess payment potato price mango owner maze";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding cereal input buffalo volume ostrich filter metal immense abandon monitor target";
+var mnemonic = "come legal aisle electric exercise ice lyrics double deputy celery utility shine";

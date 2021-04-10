@@ -1,1 +1,1 @@
-var mnemonic = "crop list robust bleak slam right violin noble pumpkin happy sword spy";
+var mnemonic = "huge viable pride deny master vessel quantum faculty grocery emerge mammal music";

@@ -1,1 +1,1 @@
-var mnemonic = "protect license swamp bracket ethics wrist detect assume health decade step road";
+var mnemonic = "little guess speed shove exact scrub spin pact now rookie effort night";

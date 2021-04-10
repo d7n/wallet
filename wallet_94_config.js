@@ -1,1 +1,1 @@
-var mnemonic = "inner cause bright movie buddy sausage dignity narrow festival liar evolve since";
+var mnemonic = "furnace index piano february card toward pigeon document swear butter wink engine";

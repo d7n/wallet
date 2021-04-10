@@ -1,1 +1,1 @@
-var mnemonic = "anxiety snack drastic faint solution fame radio bread narrow brother long address";
+var mnemonic = "maple design afraid volcano rebuild globe walnut nice honey unfold banana attitude";

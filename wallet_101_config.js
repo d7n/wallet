@@ -1,1 +1,1 @@
-var mnemonic = "outside tobacco decade junk defy seat nasty truly beef ride great bless";
+var mnemonic = "believe small because mass print ignore hello stereo fat guide fever pioneer";

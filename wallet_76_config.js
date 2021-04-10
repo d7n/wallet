@@ -1,1 +1,1 @@
-var mnemonic = "wolf update dumb credit distance penalty cable hospital mix together spice alarm";
+var mnemonic = "media result mail matter various embody run orange coin praise student trigger";

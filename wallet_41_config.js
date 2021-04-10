@@ -1,1 +1,1 @@
-var mnemonic = "lazy toe evolve voice peanut device blade situate brand bridge property panther";
+var mnemonic = "law tag drift ozone apology sunny suggest rabbit fork adult ketchup calm";
