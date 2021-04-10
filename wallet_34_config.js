@@ -1,1 +1,1 @@
-var mnemonic = "maple cover day eager august rule ankle indicate fitness myself peace quarter";
+var mnemonic = "grief estate genre cage neck sort smart bulk service curve wide frozen";

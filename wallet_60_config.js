@@ -1,1 +1,1 @@
-var mnemonic = "follow print vague scatter million nice unknown prize angry gossip section stairs";
+var mnemonic = "obscure bomb check rice stock laundry west omit host tip indoor dove";

@@ -1,1 +1,1 @@
-var mnemonic = "hand paddle outer casino dune erase lizard net right faculty path pond";
+var mnemonic = "mandate auction patient run fade woman auto prepare drop across shaft build";

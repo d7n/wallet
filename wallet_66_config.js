@@ -1,1 +1,1 @@
-var mnemonic = "symptom nothing patrol trophy market loan tower welcome garlic quick pulse lyrics";
+var mnemonic = "enhance scheme ceiling camera police dune gossip nurse call raw zebra want";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow alien magnet trigger patrol will online tribe sibling matter magnet barely";
+var mnemonic = "stuff together object razor plate ice believe glide leader agree minimum short";

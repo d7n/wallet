@@ -1,1 +1,1 @@
-var mnemonic = "field acquire bomb sting script key witness normal core hunt solar simple";
+var mnemonic = "joke attend tattoo envelope float memory vibrant pen oval valid citizen occur";

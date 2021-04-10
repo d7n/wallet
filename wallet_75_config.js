@@ -1,1 +1,1 @@
-var mnemonic = "erosion runway body auto fire solar stem method hand tourist ecology focus";
+var mnemonic = "fitness fix tail trade shoot few drill popular bean cupboard tackle enhance";

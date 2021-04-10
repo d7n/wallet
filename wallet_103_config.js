@@ -1,1 +1,1 @@
-var mnemonic = "income emerge humble master brave cement naive during perfect note edit tree";
+var mnemonic = "flower bring fragile length appear spy tennis age guilt proud glue hungry";

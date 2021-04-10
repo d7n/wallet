@@ -1,1 +1,1 @@
-var mnemonic = "joke smooth prepare play suggest endless economy empty core funny hedgehog topple";
+var mnemonic = "material abandon infant bus fee dutch control draw brick first clutch vintage";

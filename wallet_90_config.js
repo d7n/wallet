@@ -1,1 +1,1 @@
-var mnemonic = "swing noodle rabbit world nurse pull dilemma chimney december stadium merit never";
+var mnemonic = "book praise easily first tuna dawn mirror surprise ocean copper midnight cactus";

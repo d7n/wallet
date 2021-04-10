@@ -1,1 +1,1 @@
-var mnemonic = "bike brave update hole ask lucky they mountain lucky cook clay possible";
+var mnemonic = "warfare lava couple camera vapor snack company power ice surprise behind until";

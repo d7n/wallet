@@ -1,1 +1,1 @@
-var mnemonic = "fiber drive chimney lonely avocado dinner giggle heart matrix artefact expect south";
+var mnemonic = "olive tomato jungle design person piece desk energy ill flash now civil";

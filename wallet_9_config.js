@@ -1,1 +1,1 @@
-var mnemonic = "crisp mix explain slice rack achieve relief egg nurse flight scout reform";
+var mnemonic = "code horn artefact purpose jungle cherry rate space talk toward best rely";

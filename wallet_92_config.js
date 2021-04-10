@@ -1,1 +1,1 @@
-var mnemonic = "rhythm shock chase steel tumble drive stick hip ketchup brief cousin raven";
+var mnemonic = "sheriff same horse project grief company torch wash sand surface eager curious";

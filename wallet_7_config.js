@@ -1,1 +1,1 @@
-var mnemonic = "border update gas fault crowd outer toward glove index choice current swap";
+var mnemonic = "space claim office rail type rough letter turn ship borrow segment patient";

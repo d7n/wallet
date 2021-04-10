@@ -1,1 +1,1 @@
-var mnemonic = "bulb payment farm shrimp ripple invest squirrel great gaze outside unveil rifle";
+var mnemonic = "return spirit laptop visit eye timber science place mule risk coach wink";

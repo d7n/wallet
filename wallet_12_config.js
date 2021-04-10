@@ -1,1 +1,1 @@
-var mnemonic = "rather educate toilet enrich worth park nut valve shop indoor drill shrimp";
+var mnemonic = "tell march afford blame neutral carpet bright chaos song clip bag frame";

@@ -1,1 +1,1 @@
-var mnemonic = "biology rack iron regular inmate trade wine hospital banana tissue issue sustain";
+var mnemonic = "loud cushion pupil pass mango old short elevator april acquire inject addict";

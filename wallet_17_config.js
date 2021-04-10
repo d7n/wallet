@@ -1,1 +1,1 @@
-var mnemonic = "share occur never finger mad pistol march evoke ankle dirt pole pill";
+var mnemonic = "infant blade clog social giraffe uncle verb public paper combine gesture traffic";

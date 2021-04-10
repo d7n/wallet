@@ -1,1 +1,1 @@
-var mnemonic = "gallery ski hobby smooth hurt vague quarter echo recall student trick flip";
+var mnemonic = "love general advice maze match whip stove rug palace pattern ankle traffic";

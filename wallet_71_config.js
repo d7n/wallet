@@ -1,1 +1,1 @@
-var mnemonic = "that sudden easily eagle prepare decrease bonus female portion chronic opera cute";
+var mnemonic = "truth fossil inquiry label knock box core market kiss initial eagle entire";

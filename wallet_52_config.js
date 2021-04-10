@@ -1,1 +1,1 @@
-var mnemonic = "rib pet hand belt mutual post list custom scene limit draft tape";
+var mnemonic = "joke uncover fish vacant invest hair between era quality endless argue combine";

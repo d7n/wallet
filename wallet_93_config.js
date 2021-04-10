@@ -1,1 +1,1 @@
-var mnemonic = "slot curve deal tourist base basic later pilot mandate shed stage boost";
+var mnemonic = "include boss learn path hour outdoor cargo give diamond sample drive defy";

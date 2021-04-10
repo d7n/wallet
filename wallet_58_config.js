@@ -1,1 +1,1 @@
-var mnemonic = "erupt dolphin pigeon like canal era unlock rate method bronze pepper security";
+var mnemonic = "build chimney powder coyote flock guitar copy senior affair dutch again seat";

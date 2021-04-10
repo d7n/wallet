@@ -1,1 +1,1 @@
-var mnemonic = "believe twist today slam hand vibrant federal rice can orient jazz affair";
+var mnemonic = "conduct bean tourist gloom about glass ten engage kingdom couch prevent trouble";

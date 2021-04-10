@@ -1,1 +1,1 @@
-var mnemonic = "blur blanket carbon skull toe stick initial orchard message invest slab limb";
+var mnemonic = "pepper typical burden lava member bus wood tray expose cheap woman juice";

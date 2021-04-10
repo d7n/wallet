@@ -1,1 +1,1 @@
-var mnemonic = "issue sniff law rapid inform play force candy moral misery letter vast";
+var mnemonic = "mention fun below borrow snow timber where office west all grief typical";

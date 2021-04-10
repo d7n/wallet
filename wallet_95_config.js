@@ -1,1 +1,1 @@
-var mnemonic = "sorry ozone sponsor enroll lazy dream practice fury citizen burden shoot erupt";
+var mnemonic = "since beauty attract cloth extra glow modify mix between border wear copper";

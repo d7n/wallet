@@ -1,1 +1,1 @@
-var mnemonic = "mechanic whisper code charge usual era dynamic coast quantum drink asthma retire";
+var mnemonic = "prefer saddle secret milk armed plunge cool regular ugly syrup fashion cage";

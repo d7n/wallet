@@ -1,1 +1,1 @@
-var mnemonic = "icon sheriff tank bind embody goat core travel south insane anchor salmon";
+var mnemonic = "swap ancient session elder misery flock rebel autumn obtain muscle harsh defy";

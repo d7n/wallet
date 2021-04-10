@@ -1,1 +1,1 @@
-var mnemonic = "split carbon achieve peasant liar dose wise blue orange sell tone angry";
+var mnemonic = "sword soul bicycle farm move blanket dawn spread swallow weekend able spring";

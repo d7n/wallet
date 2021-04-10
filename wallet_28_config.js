@@ -1,1 +1,1 @@
-var mnemonic = "giant off series eager recall bounce forest purse shoulder also lock normal";
+var mnemonic = "category audit code spring atom blur swift torch update cup tank real";

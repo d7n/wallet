@@ -1,1 +1,1 @@
-var mnemonic = "lyrics embark leaf make girl camera deposit shoe unit urge erode tone";
+var mnemonic = "derive tray inch miss search common attract match hero despair prize hub";

@@ -1,1 +1,1 @@
-var mnemonic = "sing this betray mix raven talk calm delay convince pattern other turn";
+var mnemonic = "cargo grit catch exit planet deposit initial crouch lamp belt vital estate";

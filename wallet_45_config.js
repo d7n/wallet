@@ -1,1 +1,1 @@
-var mnemonic = "camera ethics broom estate chicken museum health ask pony matrix repair asset";
+var mnemonic = "opera slab bean embark shoulder burden fall spray measure outdoor zero plastic";

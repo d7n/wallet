@@ -1,1 +1,1 @@
-var mnemonic = "unlock ribbon ripple problem lecture elite diary butter urban tired cool success";
+var mnemonic = "chief month animal dwarf mercy biology audit title congress trust same young";

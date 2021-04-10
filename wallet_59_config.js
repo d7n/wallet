@@ -1,1 +1,1 @@
-var mnemonic = "degree educate eagle strike seed blood jungle buddy clarify acquire genuine practice";
+var mnemonic = "level tooth current iron tattoo alter undo direct among victory traffic talk";

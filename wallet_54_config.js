@@ -1,1 +1,1 @@
-var mnemonic = "bomb shoot online exclude column about shadow marriage sheriff two people field";
+var mnemonic = "lake wife stay catalog february engine slice monkey silver alien promote tail";

@@ -1,1 +1,1 @@
-var mnemonic = "hold usage defy stereo resource casino elephant squirrel mean enroll shoulder neutral";
+var mnemonic = "harsh ethics kitchen wrong ladder stool chest acoustic vast decline moral reform";

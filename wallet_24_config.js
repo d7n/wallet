@@ -1,1 +1,1 @@
-var mnemonic = "candy elegant dinosaur heavy pen practice north ball forward earn patient please";
+var mnemonic = "paddle about outer grit net soldier travel depart rather wet situate enough";

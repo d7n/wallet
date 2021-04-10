@@ -1,1 +1,1 @@
-var mnemonic = "paper small maximum pause horror drop situate position dismiss cage cherry top";
+var mnemonic = "ginger brief net divorce spy assault culture success senior cement donor offer";

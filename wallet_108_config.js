@@ -1,1 +1,1 @@
-var mnemonic = "quick reason age orbit return yellow level poem security fit wait fluid";
+var mnemonic = "sphere cram bridge end van poem bundle sword river laugh zoo spend";

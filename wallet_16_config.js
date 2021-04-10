@@ -1,1 +1,1 @@
-var mnemonic = "way please goddess tongue fringe shine audit solid biology balance turn measure";
+var mnemonic = "iron quick smart rally tongue group offer drop maximum volume speed mirror";

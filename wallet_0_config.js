@@ -1,1 +1,1 @@
-var mnemonic = "evolve trade inquiry lecture crazy zone melody remove cattle opinion below road";
+var mnemonic = "neutral vocal twelve bleak winter own position various live card bulb cancel";

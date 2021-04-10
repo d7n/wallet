@@ -1,1 +1,1 @@
-var mnemonic = "rural argue inner cheese original unit guess lottery derive hybrid zoo found";
+var mnemonic = "convince calm east lemon tonight surprise kingdom remove enforce coast unaware endless";

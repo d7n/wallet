@@ -1,1 +1,1 @@
-var mnemonic = "misery property orient bounce merit remember pizza lady brief roast rent parrot";
+var mnemonic = "barely close oblige defense birth sheriff tattoo account since orbit size heart";

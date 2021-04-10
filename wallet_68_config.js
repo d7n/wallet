@@ -1,1 +1,1 @@
-var mnemonic = "damp lion holiday sing leaf author acoustic original card enough afford swarm";
+var mnemonic = "train century blame celery swim notice able tortoise fence sustain script flee";

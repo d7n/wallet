@@ -1,1 +1,1 @@
-var mnemonic = "joke hockey help crisp wonder bid upgrade muffin lift two render keep";
+var mnemonic = "wrong grace ecology palm inject sketch clutch column spawn dizzy fold remain";

@@ -1,1 +1,1 @@
-var mnemonic = "call fluid clip donor cradle random able topic wall jungle daughter where";
+var mnemonic = "what bamboo goat equal slab raise pass bicycle violin leopard vault moment";

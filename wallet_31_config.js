@@ -1,1 +1,1 @@
-var mnemonic = "clarify inject sweet humble near weasel cream minimum word donate daring normal";
+var mnemonic = "settle load field page wonder start civil ranch paper powder tuition pilot";

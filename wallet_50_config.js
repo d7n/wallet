@@ -1,1 +1,1 @@
-var mnemonic = "primary before husband rather choose embark winter crouch happy test hen census";
+var mnemonic = "decade upon pitch invest text bleak suggest home robust bitter daughter buzz";

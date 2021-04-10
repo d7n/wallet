@@ -1,1 +1,1 @@
-var mnemonic = "asthma genuine leisure across clinic section try minute invite young diet destroy";
+var mnemonic = "sort parade congress gloom perfect dismiss toe security you pitch hunt idle";

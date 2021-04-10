@@ -1,1 +1,1 @@
-var mnemonic = "wheel one mansion pet nut desk foot diet course police veteran essence";
+var mnemonic = "run upgrade shield weather display book entire submit stand hurdle asset design";

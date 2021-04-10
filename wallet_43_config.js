@@ -1,1 +1,1 @@
-var mnemonic = "hundred wide raw below pink action abandon grant reward kitten resist venture";
+var mnemonic = "rib stomach fabric outside spot icon fitness flat easy tip song uphold";

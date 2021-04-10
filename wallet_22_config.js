@@ -1,1 +1,1 @@
-var mnemonic = "earth arrange ring estate winter pudding weird ankle swing disease bomb rule";
+var mnemonic = "business initial stem dutch use cheese siren various blood endorse garbage art";

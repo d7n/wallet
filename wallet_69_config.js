@@ -1,1 +1,1 @@
-var mnemonic = "fee junior pen steel creek grow ritual dress what tourist cruel total";
+var mnemonic = "dirt tape judge rail kind present pigeon empower rib oil derive magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "brass hotel run rhythm faith opinion hammer problem advice child phone stock";
+var mnemonic = "vendor retire detail purchase twice skill resist humble calm april insect amazing";

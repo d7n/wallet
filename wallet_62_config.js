@@ -1,1 +1,1 @@
-var mnemonic = "diagram napkin future hazard boost real camera habit chaos nothing peace task";
+var mnemonic = "special merge expire hidden tattoo latin truly latin decide grape oblige universe";

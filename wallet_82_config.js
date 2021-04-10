@@ -1,1 +1,1 @@
-var mnemonic = "buffalo magic viable furnace assist away hard supply favorite congress panel must";
+var mnemonic = "squeeze punch anchor trip betray coconut cry grain kitchen torch yard area";

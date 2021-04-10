@@ -1,1 +1,1 @@
-var mnemonic = "tube sphere rough inside ritual very aware climb air ramp romance vintage";
+var mnemonic = "elite test business suffer sunny diamond blossom pigeon shallow route page payment";

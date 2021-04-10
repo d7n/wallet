@@ -1,1 +1,1 @@
-var mnemonic = "field young child acquire scare mushroom casino rug giggle select debris velvet";
+var mnemonic = "ankle lend hood there permit improve feed add add income belt quiz";

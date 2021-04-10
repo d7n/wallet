@@ -1,1 +1,1 @@
-var mnemonic = "legal tomorrow puppy adjust faculty unlock host glimpse music enlist trip prosper";
+var mnemonic = "salute earn come vendor hidden way tower prepare unit faith rack retreat";

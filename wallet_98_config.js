@@ -1,1 +1,1 @@
-var mnemonic = "huge talk fiscal half amount say square coast just retire rescue lizard";
+var mnemonic = "combine leopard tag tomato height salt orange utility diagram puppy always drill";

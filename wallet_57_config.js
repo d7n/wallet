@@ -1,1 +1,1 @@
-var mnemonic = "welcome survey obvious economy snap spare just beauty orient wing sleep beauty";
+var mnemonic = "van same program hat turn south rude garment echo elbow food barely";

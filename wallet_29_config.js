@@ -1,1 +1,1 @@
-var mnemonic = "flush vessel model blouse found resource report burden reward together spice basic";
+var mnemonic = "shock buyer fiscal case garbage vanish spare thing satoshi aim copper sound";

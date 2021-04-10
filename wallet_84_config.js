@@ -1,1 +1,1 @@
-var mnemonic = "skull tornado unit misery decrease beach fringe blame comic average parrot jeans";
+var mnemonic = "ship tornado become love muscle horror method blade unique glass vintage goose";

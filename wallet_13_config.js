@@ -1,1 +1,1 @@
-var mnemonic = "easily during powder monkey race degree federal monitor minor rotate embody bonus";
+var mnemonic = "satoshi awful wing upon move kitchen work cigar only flip cheap address";

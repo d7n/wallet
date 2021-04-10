@@ -1,1 +1,1 @@
-var mnemonic = "insect volcano prepare refuse life unknown point frost hole grass mobile keep";
+var mnemonic = "diagram cricket balcony endorse copper pupil acoustic super print inhale gather equip";

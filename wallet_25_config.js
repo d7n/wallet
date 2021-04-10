@@ -1,1 +1,1 @@
-var mnemonic = "brand buddy little toddler road hungry yellow myth castle mercy between cabbage";
+var mnemonic = "garden code word brave state sand calm arrest drip job ostrich novel";

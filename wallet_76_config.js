@@ -1,1 +1,1 @@
-var mnemonic = "cheap resource conduct sunset glare noise light exhaust space deny velvet over";
+var mnemonic = "shuffle plunge salon alpha mobile eagle security garlic galaxy hurt grape wear";

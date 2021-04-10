@@ -1,1 +1,1 @@
-var mnemonic = "seven lumber film parrot extend despair lobster ignore index arrest address struggle";
+var mnemonic = "direct ecology magic dutch worth heart goddess vacuum rocket saddle zoo hint";

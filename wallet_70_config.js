@@ -1,1 +1,1 @@
-var mnemonic = "mobile erase sell upgrade ask already puppy enlist decline pull theme royal";
+var mnemonic = "plastic mushroom pumpkin loan equal damp symptom install volume cup boat adult";

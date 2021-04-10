@@ -1,1 +1,1 @@
-var mnemonic = "coast another armor monitor page buzz ghost judge review borrow velvet lion";
+var mnemonic = "sock blue proud into often subway online novel palace drink predict payment";

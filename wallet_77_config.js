@@ -1,1 +1,1 @@
-var mnemonic = "about jaguar shock bachelor glide gap space give boil rubber session junk";
+var mnemonic = "sister double climb coast spoon width recall hazard green derive include remain";

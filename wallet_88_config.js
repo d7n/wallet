@@ -1,1 +1,1 @@
-var mnemonic = "rocket position boat giant cereal frown long paddle balance jewel cup conduct";
+var mnemonic = "wink ceiling afraid lemon world cover impact salt woman fancy replace slight";

@@ -1,1 +1,1 @@
-var mnemonic = "honey universe below festival useless sound pledge visual reveal tide season remain";
+var mnemonic = "keep nominee fragile wasp history high thrive kick collect salon more spawn";

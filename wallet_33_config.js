@@ -1,1 +1,1 @@
-var mnemonic = "aunt project wait flag confirm access lion gaze ecology journey obscure lab";
+var mnemonic = "joy fame kitten detect program earth toilet pole cram silk tissue income";

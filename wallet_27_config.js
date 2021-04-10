@@ -1,1 +1,1 @@
-var mnemonic = "waste rebuild grid frog nose frown target urban habit atom during divert";
+var mnemonic = "ready stone pause book defense toward absorb roast derive divorce scrub glory";

@@ -1,1 +1,1 @@
-var mnemonic = "right panther spoon view nephew rookie reward wet brisk rib romance glide";
+var mnemonic = "patient gas swear token account debate borrow pink curve ordinary chicken swim";

@@ -1,1 +1,1 @@
-var mnemonic = "fine destroy screen degree match vehicle coach multiply metal february acquire angry";
+var mnemonic = "keen mind average execute round exile nephew raise where rival slide powder";

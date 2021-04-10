@@ -1,1 +1,1 @@
-var mnemonic = "spin note brand script enrich off once forward usual exact harbor dice";
+var mnemonic = "gasp also resemble quote arrow boost hazard title theory success soft episode";

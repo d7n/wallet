@@ -1,1 +1,1 @@
-var mnemonic = "rare oval chase custom please hood vessel monster shed hen fire gate";
+var mnemonic = "enforce input slight invest silk furnace nice destroy wear throw health angry";

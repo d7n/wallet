@@ -1,1 +1,1 @@
-var mnemonic = "illness carry section frown cause share govern solar aisle struggle stable slim";
+var mnemonic = "rifle elite chimney canal type type manage brush cream hip vapor genuine";

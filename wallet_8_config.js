@@ -1,1 +1,1 @@
-var mnemonic = "poverty valley flash nephew hold pear rate crew credit noise still express";
+var mnemonic = "sponsor butter ill mad man verb maze arctic gap hurt swarm industry";

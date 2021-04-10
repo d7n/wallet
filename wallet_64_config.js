@@ -1,1 +1,1 @@
-var mnemonic = "solar wall cereal core play upset miracle salute wheat there uncle category";
+var mnemonic = "meat radio boy invest dignity lesson sort amount drastic surface token portion";

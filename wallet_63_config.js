@@ -1,1 +1,1 @@
-var mnemonic = "radar drive crazy duty misery abuse chaos velvet behave peasant demand yellow";
+var mnemonic = "filter answer ozone inflict purpose violin pact junior radio lens scrub fork";
