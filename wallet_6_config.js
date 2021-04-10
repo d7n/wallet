@@ -1,1 +1,1 @@
-var mnemonic = "verb make glide question sample steel desert label saddle jelly fatal actual";
+var mnemonic = "split carbon achieve peasant liar dose wise blue orange sell tone angry";

@@ -1,1 +1,1 @@
-var mnemonic = "wide ladder push dish diamond cloud cause car vocal final raw owner";
+var mnemonic = "sorry ozone sponsor enroll lazy dream practice fury citizen burden shoot erupt";

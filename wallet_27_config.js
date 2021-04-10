@@ -1,1 +1,1 @@
-var mnemonic = "drift pretty neither left recall stock rose liquid crop survey marine earn";
+var mnemonic = "waste rebuild grid frog nose frown target urban habit atom during divert";

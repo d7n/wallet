@@ -1,1 +1,1 @@
-var mnemonic = "empty promote follow gift trigger surge art limit fee medal once else";
+var mnemonic = "great diet barely protect demand waste bachelor junior dilemma amateur outdoor type";

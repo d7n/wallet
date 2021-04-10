@@ -1,1 +1,1 @@
-var mnemonic = "light gadget cup apology case series sugar laundry theory surround denial autumn";
+var mnemonic = "trim snap acid laundry dose logic afraid drift long oval brush tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge vehicle swarm disagree dinner sort joke what palace sustain sign ride";
+var mnemonic = "salad orchard sphere globe proud because awful lizard label detail velvet time";

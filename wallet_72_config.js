@@ -1,1 +1,1 @@
-var mnemonic = "trip flee almost claw swallow plastic denial escape album property delay shuffle";
+var mnemonic = "marine day gate lesson ask kangaroo safe hair only comic during security";

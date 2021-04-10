@@ -1,1 +1,1 @@
-var mnemonic = "south pudding join electric sock inspire call inquiry piano run clinic beauty";
+var mnemonic = "camera ethics broom estate chicken museum health ask pony matrix repair asset";

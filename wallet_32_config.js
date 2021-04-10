@@ -1,1 +1,1 @@
-var mnemonic = "creek base blood fatigue eye strong lazy clip seminar latin winter casino";
+var mnemonic = "spin note brand script enrich off once forward usual exact harbor dice";

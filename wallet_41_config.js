@@ -1,1 +1,1 @@
-var mnemonic = "tongue defy wise knee include cable olive climb one plate flip lady";
+var mnemonic = "bike brave update hole ask lucky they mountain lucky cook clay possible";

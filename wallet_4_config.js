@@ -1,1 +1,1 @@
-var mnemonic = "estate letter quit cabbage indicate party page forum tooth cost tent ethics";
+var mnemonic = "biology rack iron regular inmate trade wine hospital banana tissue issue sustain";

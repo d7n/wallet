@@ -1,1 +1,1 @@
-var mnemonic = "arena hood slender fitness erosion seminar wage replace occur step cereal apart";
+var mnemonic = "rib pet hand belt mutual post list custom scene limit draft tape";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter tank author catch wood helmet laundry pulp blue avocado circle sweet";
+var mnemonic = "call fluid clip donor cradle random able topic wall jungle daughter where";

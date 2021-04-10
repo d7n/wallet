@@ -1,1 +1,1 @@
-var mnemonic = "trophy scheme mass myself axis circle snow depart memory clever leader fatal";
+var mnemonic = "easily during powder monkey race degree federal monitor minor rotate embody bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "birth task century divorce hip swamp ethics tooth chief frozen pond left";
+var mnemonic = "crop entire jacket never man pair slide iron squeeze erupt idle gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue canvas chest banana chase math letter math alley unveil glimpse spatial";
+var mnemonic = "hundred wide raw below pink action abandon grant reward kitten resist venture";

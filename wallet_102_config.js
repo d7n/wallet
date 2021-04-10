@@ -1,1 +1,1 @@
-var mnemonic = "cabin female unusual patrol involve visit filter stock canvas vote outer tourist";
+var mnemonic = "tube sphere rough inside ritual very aware climb air ramp romance vintage";

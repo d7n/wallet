@@ -1,1 +1,1 @@
-var mnemonic = "guard ring frequent absent able priority also slow blast mass alcohol screen";
+var mnemonic = "symptom nothing patrol trophy market loan tower welcome garlic quick pulse lyrics";

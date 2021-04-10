@@ -1,1 +1,1 @@
-var mnemonic = "traffic typical movie rocket salon slogan prize custom mansion hungry divorce remain";
+var mnemonic = "fine destroy screen degree match vehicle coach multiply metal february acquire angry";

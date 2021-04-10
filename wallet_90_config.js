@@ -1,1 +1,1 @@
-var mnemonic = "cloth eyebrow awkward wise trip rug relax diagram gate garden describe vote";
+var mnemonic = "swing noodle rabbit world nurse pull dilemma chimney december stadium merit never";

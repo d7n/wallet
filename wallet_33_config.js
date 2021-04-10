@@ -1,1 +1,1 @@
-var mnemonic = "width flat crazy fly course damp laptop submit giant couch morning spot";
+var mnemonic = "aunt project wait flag confirm access lion gaze ecology journey obscure lab";

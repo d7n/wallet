@@ -1,1 +1,1 @@
-var mnemonic = "album unusual scrub brave rural certain vague shop under pistol found cable";
+var mnemonic = "income emerge humble master brave cement naive during perfect note edit tree";

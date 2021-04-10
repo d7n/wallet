@@ -1,1 +1,1 @@
-var mnemonic = "deal occur action group focus impose boring caution attend fox night pledge";
+var mnemonic = "diagram napkin future hazard boost real camera habit chaos nothing peace task";

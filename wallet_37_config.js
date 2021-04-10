@@ -1,1 +1,1 @@
-var mnemonic = "accident midnight belt harsh leisure stable club emerge naive more supreme legend";
+var mnemonic = "radar infant grunt claim envelope assault pluck firm slam slender flower saddle";

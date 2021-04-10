@@ -1,1 +1,1 @@
-var mnemonic = "slight barely dumb valid gesture chicken problem fee daughter aisle earth spread";
+var mnemonic = "garage gas tower frown oxygen false goddess begin physical deposit talent screen";

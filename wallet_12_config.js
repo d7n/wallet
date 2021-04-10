@@ -1,1 +1,1 @@
-var mnemonic = "matter mercy source small ocean cat tenant judge siege hidden cotton discover";
+var mnemonic = "rather educate toilet enrich worth park nut valve shop indoor drill shrimp";

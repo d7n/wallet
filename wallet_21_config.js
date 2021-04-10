@@ -1,1 +1,1 @@
-var mnemonic = "invite emerge maple machine dismiss day typical time fork response process prosper";
+var mnemonic = "joke hockey help crisp wonder bid upgrade muffin lift two render keep";

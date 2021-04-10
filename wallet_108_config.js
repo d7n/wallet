@@ -1,1 +1,1 @@
-var mnemonic = "height stand light develop opera area sort dance kidney wish fan captain";
+var mnemonic = "quick reason age orbit return yellow level poem security fit wait fluid";

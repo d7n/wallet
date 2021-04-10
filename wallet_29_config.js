@@ -1,1 +1,1 @@
-var mnemonic = "salute document never holiday text old tent corn slow car episode any";
+var mnemonic = "flush vessel model blouse found resource report burden reward together spice basic";

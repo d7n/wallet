@@ -1,1 +1,1 @@
-var mnemonic = "donkey rain idea digital cage speak actor excite bird another sun resemble";
+var mnemonic = "way please goddess tongue fringe shine audit solid biology balance turn measure";

@@ -1,1 +1,1 @@
-var mnemonic = "model hazard sphere soup track farm fee monster replace slim venue sugar";
+var mnemonic = "degree educate eagle strike seed blood jungle buddy clarify acquire genuine practice";

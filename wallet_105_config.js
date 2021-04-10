@@ -1,1 +1,1 @@
-var mnemonic = "yellow banana picture option zero unlock theory bus bean major dust giggle";
+var mnemonic = "joke smooth prepare play suggest endless economy empty core funny hedgehog topple";

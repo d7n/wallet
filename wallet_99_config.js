@@ -1,1 +1,1 @@
-var mnemonic = "lucky capital deposit argue broom prison inform cloth message champion search announce";
+var mnemonic = "brass hotel run rhythm faith opinion hammer problem advice child phone stock";

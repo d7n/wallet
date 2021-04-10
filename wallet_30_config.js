@@ -1,1 +1,1 @@
-var mnemonic = "cat acquire provide hood magic ostrich turtle account exhibit shoot manage ladder";
+var mnemonic = "fiber drive chimney lonely avocado dinner giggle heart matrix artefact expect south";

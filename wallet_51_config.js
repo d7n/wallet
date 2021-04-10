@@ -1,1 +1,1 @@
-var mnemonic = "lumber draft romance shrimp catalog six good real motion sick choose valley";
+var mnemonic = "actual moral express beef swing curious awake wise swarm mountain shop kingdom";

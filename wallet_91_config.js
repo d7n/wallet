@@ -1,1 +1,1 @@
-var mnemonic = "crowd strategy devote keep crop trend source either bridge there deputy skate";
+var mnemonic = "honey universe below festival useless sound pledge visual reveal tide season remain";

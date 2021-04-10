@@ -1,1 +1,1 @@
-var mnemonic = "expire bounce bread lab bind shallow mercy buyer mechanic hockey cannon slide";
+var mnemonic = "adult web once define elder panther zone credit tomorrow credit liquid finger";

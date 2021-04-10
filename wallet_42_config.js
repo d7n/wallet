@@ -1,1 +1,1 @@
-var mnemonic = "effort wish tumble fancy sound robot clap kitten achieve cradle forest slender";
+var mnemonic = "hold usage defy stereo resource casino elephant squirrel mean enroll shoulder neutral";

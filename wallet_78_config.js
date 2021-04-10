@@ -1,1 +1,1 @@
-var mnemonic = "dune spread switch category actress doll alone stumble army album describe salt";
+var mnemonic = "paper small maximum pause horror drop situate position dismiss cage cherry top";

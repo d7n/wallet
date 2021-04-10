@@ -1,1 +1,1 @@
-var mnemonic = "calm strong crazy pair stage antenna venue stick antenna lumber rely trim";
+var mnemonic = "slot curve deal tourist base basic later pilot mandate shed stage boost";

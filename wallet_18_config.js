@@ -1,1 +1,1 @@
-var mnemonic = "abuse rural design ozone sign neglect tent pig toe peace wine solar";
+var mnemonic = "icon sheriff tank bind embody goat core travel south insane anchor salmon";

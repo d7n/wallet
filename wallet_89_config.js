@@ -1,1 +1,1 @@
-var mnemonic = "plate you diet judge quit power similar theme route divert join mosquito";
+var mnemonic = "unlock ribbon ripple problem lecture elite diary butter urban tired cool success";

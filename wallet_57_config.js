@@ -1,1 +1,1 @@
-var mnemonic = "solve wreck drive secret valid tragic army cannon cupboard ozone suit often";
+var mnemonic = "welcome survey obvious economy snap spare just beauty orient wing sleep beauty";

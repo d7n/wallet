@@ -1,1 +1,1 @@
-var mnemonic = "certain innocent blame glass share online cotton metal undo cross token speak";
+var mnemonic = "solar wall cereal core play upset miracle salute wheat there uncle category";

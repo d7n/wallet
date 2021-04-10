@@ -1,1 +1,1 @@
-var mnemonic = "recycle banner coconut sort lucky cram educate attack sign marine message suffer";
+var mnemonic = "seven lumber film parrot extend despair lobster ignore index arrest address struggle";

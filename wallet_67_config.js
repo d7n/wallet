@@ -1,1 +1,1 @@
-var mnemonic = "game eye used calm bless sting vintage sister crack search sound later";
+var mnemonic = "sing this betray mix raven talk calm delay convince pattern other turn";

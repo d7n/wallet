@@ -1,1 +1,1 @@
-var mnemonic = "rose matter rigid jar bright canvas return reform just body daring tool";
+var mnemonic = "mobile erase sell upgrade ask already puppy enlist decline pull theme royal";

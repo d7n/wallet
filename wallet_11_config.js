@@ -1,1 +1,1 @@
-var mnemonic = "leaf crunch mesh school brass swallow hockey venue speed wage hidden frequent";
+var mnemonic = "rural argue inner cheese original unit guess lottery derive hybrid zoo found";

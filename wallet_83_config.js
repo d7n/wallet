@@ -1,1 +1,1 @@
-var mnemonic = "assault jelly smooth motion option glimpse possible core math october exotic work";
+var mnemonic = "cruise cup zero lecture address angle wash cabin envelope magnet lawsuit shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness patient say letter ignore luggage sound sleep mimic exhibit shield awake";
+var mnemonic = "bomb shoot online exclude column about shadow marriage sheriff two people field";

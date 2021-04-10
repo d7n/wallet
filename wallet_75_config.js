@@ -1,1 +1,1 @@
-var mnemonic = "festival inject weapon iron refuse balcony garbage under letter photo puppy wheat";
+var mnemonic = "erosion runway body auto fire solar stem method hand tourist ecology focus";

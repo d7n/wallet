@@ -1,1 +1,1 @@
-var mnemonic = "spin office suggest leg worry now almost craft lake across flash reflect";
+var mnemonic = "rocket position boat giant cereal frown long paddle balance jewel cup conduct";

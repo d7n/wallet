@@ -1,1 +1,1 @@
-var mnemonic = "menu void recall jealous cool ridge million riot walnut lunch verify ethics";
+var mnemonic = "about jaguar shock bachelor glide gap space give boil rubber session junk";

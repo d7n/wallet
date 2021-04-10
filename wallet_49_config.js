@@ -1,1 +1,1 @@
-var mnemonic = "steel mammal enforce record laugh neck warfare web supreme choose copper boy";
+var mnemonic = "rare oval chase custom please hood vessel monster shed hen fire gate";

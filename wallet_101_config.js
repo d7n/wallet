@@ -1,1 +1,1 @@
-var mnemonic = "gas laugh apart box urge diary reflect fall super walnut evil clock";
+var mnemonic = "pistol gold silver funny casino flower there loud scare work donkey list";

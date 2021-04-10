@@ -1,1 +1,1 @@
-var mnemonic = "ensure cycle evidence primary normal design tenant faculty junk life symbol zebra";
+var mnemonic = "gallery ski hobby smooth hurt vague quarter echo recall student trick flip";

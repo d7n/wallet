@@ -1,1 +1,1 @@
-var mnemonic = "token grow economy priority orient core grow cupboard crazy slogan bunker example";
+var mnemonic = "crisp mix explain slice rack achieve relief egg nurse flight scout reform";

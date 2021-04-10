@@ -1,1 +1,1 @@
-var mnemonic = "special drum fire clay candy reopen reveal stable nasty find bacon gossip";
+var mnemonic = "doll game radar scheme denial inside empty lazy priority armor shed search";

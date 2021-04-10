@@ -1,1 +1,1 @@
-var mnemonic = "pear prepare spawn announce tuition arena need skill crop lizard panther increase";
+var mnemonic = "skull tornado unit misery decrease beach fringe blame comic average parrot jeans";

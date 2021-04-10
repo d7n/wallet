@@ -1,1 +1,1 @@
-var mnemonic = "radio enhance pave urban require network possible certain swift donate kiss thunder";
+var mnemonic = "poverty valley flash nephew hold pear rate crew credit noise still express";

@@ -1,1 +1,1 @@
-var mnemonic = "provide perfect lobster blame plunge box romance pair appear route they century";
+var mnemonic = "field acquire bomb sting script key witness normal core hunt solar simple";

@@ -1,1 +1,1 @@
-var mnemonic = "media armor cinnamon scheme general clever among trigger plunge tip curious inform";
+var mnemonic = "add manage cruel tired scatter cabbage install lab car master cook another";

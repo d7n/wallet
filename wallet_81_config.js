@@ -1,1 +1,1 @@
-var mnemonic = "teach high future day dry appear dream hood wrestle wing degree supply";
+var mnemonic = "coast another armor monitor page buzz ghost judge review borrow velvet lion";

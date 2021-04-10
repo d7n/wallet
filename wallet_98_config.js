@@ -1,1 +1,1 @@
-var mnemonic = "leopard near mother history forget torch once zero choose cool embark wheel";
+var mnemonic = "huge talk fiscal half amount say square coast just retire rescue lizard";

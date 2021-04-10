@@ -1,1 +1,1 @@
-var mnemonic = "celery space eight fix oblige sea pond lawsuit include shallow bind tribe";
+var mnemonic = "cheap resource conduct sunset glare noise light exhaust space deny velvet over";

@@ -1,1 +1,1 @@
-var mnemonic = "frame exhaust output leg series absorb poverty verb skill figure group you";
+var mnemonic = "believe twist today slam hand vibrant federal rice can orient jazz affair";

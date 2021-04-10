@@ -1,1 +1,1 @@
-var mnemonic = "blue combine beach arena praise alcohol tomato join effort fix much tonight";
+var mnemonic = "follow print vague scatter million nice unknown prize angry gossip section stairs";

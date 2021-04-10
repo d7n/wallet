@@ -1,1 +1,1 @@
-var mnemonic = "game joy crush about pear load gravity eyebrow advice estate shaft nut";
+var mnemonic = "earth arrange ring estate winter pudding weird ankle swing disease bomb rule";

@@ -1,1 +1,1 @@
-var mnemonic = "auction uphold twist mimic clever journey wrap stand fresh term metal pipe";
+var mnemonic = "hair father final uncle sick summer deputy about broccoli hat combine foot";

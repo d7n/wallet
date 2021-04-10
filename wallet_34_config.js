@@ -1,1 +1,1 @@
-var mnemonic = "project odor escape empower distance poverty critic mule man bachelor dolphin sell";
+var mnemonic = "maple cover day eager august rule ankle indicate fitness myself peace quarter";

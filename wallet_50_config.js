@@ -1,1 +1,1 @@
-var mnemonic = "uncover toward rare either fatigue fork garage cradle scan recall sphere divorce";
+var mnemonic = "primary before husband rather choose embark winter crouch happy test hen census";

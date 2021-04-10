@@ -1,1 +1,1 @@
-var mnemonic = "benefit mad range giraffe neither scrap artwork topic east rescue stand cat";
+var mnemonic = "brand buddy little toddler road hungry yellow myth castle mercy between cabbage";

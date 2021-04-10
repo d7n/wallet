@@ -1,1 +1,1 @@
-var mnemonic = "gap border desert remain smooth cotton ripple second bean defense miracle organ";
+var mnemonic = "trade invite average pill goose symptom unusual reveal cart prefer echo uncle";

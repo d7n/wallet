@@ -1,1 +1,1 @@
-var mnemonic = "reform screen dynamic attitude fatigue cement stable credit fix skate circle fall";
+var mnemonic = "fee junior pen steel creek grow ritual dress what tourist cruel total";

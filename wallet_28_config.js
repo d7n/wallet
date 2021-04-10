@@ -1,1 +1,1 @@
-var mnemonic = "perfect lounge donor gain vendor appear wolf brother play siege surge zero";
+var mnemonic = "giant off series eager recall bounce forest purse shoulder also lock normal";

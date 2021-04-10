@@ -1,1 +1,1 @@
-var mnemonic = "struggle critic hero forum size square brother wealth puppy jar tilt fantasy";
+var mnemonic = "shadow alien magnet trigger patrol will online tribe sibling matter magnet barely";

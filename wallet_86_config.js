@@ -1,1 +1,1 @@
-var mnemonic = "panda hand cushion able deputy stable dry used assist idle finger animal";
+var mnemonic = "hint muffin abuse rifle tail lawsuit reward reopen empty energy segment gentle";

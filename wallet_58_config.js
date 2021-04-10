@@ -1,1 +1,1 @@
-var mnemonic = "inquiry fetch worth afraid bundle sample fluid bird isolate fade wink catch";
+var mnemonic = "erupt dolphin pigeon like canal era unlock rate method bronze pepper security";

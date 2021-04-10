@@ -1,1 +1,1 @@
-var mnemonic = "axis knee survey another identify kitten despair clutch bubble battle give fancy";
+var mnemonic = "blur blanket carbon skull toe stick initial orchard message invest slab limb";

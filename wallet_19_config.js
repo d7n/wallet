@@ -1,1 +1,1 @@
-var mnemonic = "sound weapon gauge right flee excite meadow jeans forest demise rival need";
+var mnemonic = "orbit remember coconut oven list such notice middle coach person dwarf faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson must obscure abuse pig cloth betray answer venture february recall service";
+var mnemonic = "rhythm shock chase steel tumble drive stick hip ketchup brief cousin raven";

@@ -1,1 +1,1 @@
-var mnemonic = "limb horror hint drill verb sight salad day marble destroy false panel";
+var mnemonic = "asthma genuine leisure across clinic section try minute invite young diet destroy";

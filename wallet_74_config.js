@@ -1,1 +1,1 @@
-var mnemonic = "sight hurt sand report pigeon repair pole scissors kingdom census swear edge";
+var mnemonic = "used awful quit fetch hello absent copy include valley zoo hunt regret";

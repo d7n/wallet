@@ -1,1 +1,1 @@
-var mnemonic = "fold demise about cat age travel void cluster dynamic evoke disease spider";
+var mnemonic = "lyrics embark leaf make girl camera deposit shoe unit urge erode tone";

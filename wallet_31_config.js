@@ -1,1 +1,1 @@
-var mnemonic = "cat toward razor salmon adult extend latin ankle power invite share bar";
+var mnemonic = "clarify inject sweet humble near weasel cream minimum word donate daring normal";

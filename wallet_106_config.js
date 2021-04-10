@@ -1,1 +1,1 @@
-var mnemonic = "organ crouch recall ski vapor index limb depart cruel clutch pluck spatial";
+var mnemonic = "black sudden help budget father math bullet gown crowd oblige flip feed";

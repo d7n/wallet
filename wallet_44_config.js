@@ -1,1 +1,1 @@
-var mnemonic = "more card pistol leisure coconut tail before unfold spot ready shine pupil";
+var mnemonic = "illness carry section frown cause share govern solar aisle struggle stable slim";

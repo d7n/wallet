@@ -1,1 +1,1 @@
-var mnemonic = "ozone flower retreat kick erosion evoke finish simple post pass coconut web";
+var mnemonic = "wheel one mansion pet nut desk foot diet course police veteran essence";

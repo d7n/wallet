@@ -1,1 +1,1 @@
-var mnemonic = "giant advice veteran column clinic edge donate fatigue sister useful blouse bar";
+var mnemonic = "border update gas fault crowd outer toward glove index choice current swap";

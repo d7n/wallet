@@ -1,1 +1,1 @@
-var mnemonic = "diary that whale present above episode outer merge spider scale pink coast";
+var mnemonic = "mention hill goose fiction long involve summer add major pulp snake grunt";

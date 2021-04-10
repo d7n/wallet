@@ -1,1 +1,1 @@
-var mnemonic = "river indicate current juice rare increase ability hundred feel young cargo struggle";
+var mnemonic = "bulb payment farm shrimp ripple invest squirrel great gaze outside unveil rifle";

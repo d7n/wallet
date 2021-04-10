@@ -1,1 +1,1 @@
-var mnemonic = "erase jealous poem sail grocery dynamic welcome trumpet parent actual style cherry";
+var mnemonic = "legal tomorrow puppy adjust faculty unlock host glimpse music enlist trip prosper";

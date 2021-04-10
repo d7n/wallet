@@ -1,1 +1,1 @@
-var mnemonic = "between dwarf arch border tuna wrestle outer during hair auto soup group";
+var mnemonic = "radar drive crazy duty misery abuse chaos velvet behave peasant demand yellow";

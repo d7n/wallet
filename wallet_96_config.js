@@ -1,1 +1,1 @@
-var mnemonic = "loop such million learn ramp approve slab ghost response valid vendor sniff";
+var mnemonic = "right panther spoon view nephew rookie reward wet brisk rib romance glide";

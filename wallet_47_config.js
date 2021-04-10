@@ -1,1 +1,1 @@
-var mnemonic = "beef intact much ginger major ride tonight taste meat thunder erosion sadness";
+var mnemonic = "mechanic whisper code charge usual era dynamic coast quantum drink asthma retire";
