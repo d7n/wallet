@@ -1,1 +1,1 @@
-var mnemonic = "ivory caught frequent fame stem topic assault tiny foam couple bird hill";
+var mnemonic = "obscure midnight model melt rural fault change horror student slam mirror voice";

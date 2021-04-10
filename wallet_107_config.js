@@ -1,1 +1,1 @@
-var mnemonic = "fee earn artwork olive foster erase poverty inflict about breeze consider jewel";
+var mnemonic = "aisle change rough fun tip rib hire chest quarter alien renew person";

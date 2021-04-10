@@ -1,1 +1,1 @@
-var mnemonic = "illness aware fitness dream violin rent dumb digital bitter cruel mansion deliver";
+var mnemonic = "marine dust broccoli leg duck tape endless dune dog nasty moment silk";

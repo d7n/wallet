@@ -1,1 +1,1 @@
-var mnemonic = "satisfy panda this attitude industry emotion property loud immense social excuse under";
+var mnemonic = "tag update spend filter toss chuckle minute deposit festival filter genre staff";

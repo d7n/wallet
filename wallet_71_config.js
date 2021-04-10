@@ -1,1 +1,1 @@
-var mnemonic = "reveal plunge silent honey over seed luxury grace act gadget leg reject";
+var mnemonic = "heavy miss middle hockey salon awesome decide rather slogan like defense grunt";

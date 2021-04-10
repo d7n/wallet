@@ -1,1 +1,1 @@
-var mnemonic = "effort stairs text tackle body extra topic zero run forward all bind";
+var mnemonic = "throw universe sample brass bag common broken bronze either wood social guide";

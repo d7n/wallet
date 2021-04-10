@@ -1,1 +1,1 @@
-var mnemonic = "lamp million blouse scan moral laundry strike famous core body sleep shiver";
+var mnemonic = "guess clean marble wolf student promote next figure lawn leave guide split";

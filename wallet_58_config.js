@@ -1,1 +1,1 @@
-var mnemonic = "horse street never swarm eight play arrange fish sell stock defy wet";
+var mnemonic = "apology denial civil wine response dizzy squirrel find height crater opera food";

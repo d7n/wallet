@@ -1,1 +1,1 @@
-var mnemonic = "fiscal ugly bacon tuition piano joy ancient stay rubber water tube pencil";
+var mnemonic = "refuse caught where average hamster sing acid slim gauge ladder device above";

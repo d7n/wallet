@@ -1,1 +1,1 @@
-var mnemonic = "joke allow call equal visual early day glow gasp trial salmon direct";
+var mnemonic = "duty brass close goose limb hand roast tumble present achieve squirrel grit";

@@ -1,1 +1,1 @@
-var mnemonic = "atom junior talent cotton science patrol mammal lonely begin fog either derive";
+var mnemonic = "hold write attitude human twelve road flee clay goose inch badge nose";

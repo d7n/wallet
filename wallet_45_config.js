@@ -1,1 +1,1 @@
-var mnemonic = "alert suspect nurse denial zebra shadow capital unknown welcome patch pair scrap";
+var mnemonic = "jump card dutch cream abandon dragon enjoy someone cost similar bright erupt";

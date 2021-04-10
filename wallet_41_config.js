@@ -1,1 +1,1 @@
-var mnemonic = "daring frown neck wave drama match possible system camp youth tent swim";
+var mnemonic = "book loyal dial solar blanket dog vast shallow jazz talent kiwi rough";

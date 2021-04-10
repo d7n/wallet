@@ -1,1 +1,1 @@
-var mnemonic = "ahead lab matrix menu innocent jeans food trouble bring cup arm swamp";
+var mnemonic = "crime tourist hungry camera direct fox curtain garage merry grass permit gossip";

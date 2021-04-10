@@ -1,1 +1,1 @@
-var mnemonic = "fiber parrot network choice area hope option warrior enough smart buddy surface";
+var mnemonic = "word scare debate note comfort adapt flock sheriff spike photo urban bid";

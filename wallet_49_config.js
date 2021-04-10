@@ -1,1 +1,1 @@
-var mnemonic = "document thunder tray link source goat odor behave confirm cheese discover talent";
+var mnemonic = "awful donate bird advice remove like pen dream snack proof dial dial";

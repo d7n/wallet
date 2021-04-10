@@ -1,1 +1,1 @@
-var mnemonic = "over leader nation deer slice zone number boss enlist photo detail inhale";
+var mnemonic = "slender furnace ocean tray soap tell lunar dynamic taxi rookie extend little";

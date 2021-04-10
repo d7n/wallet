@@ -1,1 +1,1 @@
-var mnemonic = "file someone shine aerobic robust salon retire punch traffic suggest table maze";
+var mnemonic = "upper fortune toward voyage hurry empty follow utility opinion dentist waste taxi";

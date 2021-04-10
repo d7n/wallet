@@ -1,1 +1,1 @@
-var mnemonic = "mention kit attract post motion fetch stock grape street face vanish game";
+var mnemonic = "waste table million physical element decide sorry pudding genre crop idea connect";

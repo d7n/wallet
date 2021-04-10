@@ -1,1 +1,1 @@
-var mnemonic = "exile arena arm tourist crucial type latin chaos marble high noodle dish";
+var mnemonic = "scan smile gather flame sad thank guitar door silver tree august entire";

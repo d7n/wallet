@@ -1,1 +1,1 @@
-var mnemonic = "quantum lake mention inner abstract ocean flip spread mother shell choose garment";
+var mnemonic = "silent perfect marriage glance casino raw young cricket wrap ticket column month";

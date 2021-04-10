@@ -1,1 +1,1 @@
-var mnemonic = "one trim office gap ankle apology length twelve anchor muscle bronze lunar";
+var mnemonic = "despair head amused into unable dumb wet inquiry chapter exhibit wish pluck";

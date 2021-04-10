@@ -1,1 +1,1 @@
-var mnemonic = "cook report twenty author plunge pass injury mass shield balcony maple rural";
+var mnemonic = "frost extend setup negative rude equip honey assault survey radio that pizza";

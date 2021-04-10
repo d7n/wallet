@@ -1,1 +1,1 @@
-var mnemonic = "decade menu raise expand canoe small future desk radio penalty off vapor";
+var mnemonic = "elbow snack winter artist warrior able enroll assume security token cereal involve";

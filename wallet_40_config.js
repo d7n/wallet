@@ -1,1 +1,1 @@
-var mnemonic = "forum jewel spell copper merit session spatial industry add tribe tonight naive";
+var mnemonic = "forward wonder snap venue ill soda memory yard blood lawsuit grunt satoshi";

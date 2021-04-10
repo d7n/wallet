@@ -1,1 +1,1 @@
-var mnemonic = "picnic expose job reveal man quick pulp ill seed tell measure fall";
+var mnemonic = "silent opera arrow beef furnace tent baby kitten laptop warm later sample";

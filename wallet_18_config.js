@@ -1,1 +1,1 @@
-var mnemonic = "bulk atom reward kid best exchange sign toilet piece bitter defense manual";
+var mnemonic = "dirt west injury album sorry lyrics brush face debris people knock muscle";

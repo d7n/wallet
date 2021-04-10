@@ -1,1 +1,1 @@
-var mnemonic = "drift water round record visit solution advice clog salt slush employ jeans";
+var mnemonic = "expose early race juice title banner tornado pulp flag combine void business";

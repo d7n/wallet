@@ -1,1 +1,1 @@
-var mnemonic = "garden smoke regret label notice immune guitar century another pen nerve juice";
+var mnemonic = "exchange chat rhythm rotate hub cross cruise pattern morning essence rug can";

@@ -1,1 +1,1 @@
-var mnemonic = "festival curve loop join tribe dumb nothing length noise endless law route";
+var mnemonic = "rib mad super hole armor cancel raven door deputy kangaroo ready blame";

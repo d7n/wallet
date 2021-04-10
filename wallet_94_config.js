@@ -1,1 +1,1 @@
-var mnemonic = "glad sudden rib require spray wire advice fade lab scene negative flash";
+var mnemonic = "vanish review seven roast fame giraffe spring common indicate symbol tennis secret";

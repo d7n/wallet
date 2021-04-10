@@ -1,1 +1,1 @@
-var mnemonic = "isolate jealous fall oyster stomach mammal rookie agent okay sudden kick magnet";
+var mnemonic = "any round submit gaze volume trophy matter amused unlock ahead mouse horse";

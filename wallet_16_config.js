@@ -1,1 +1,1 @@
-var mnemonic = "describe village bubble slender cloth midnight raven surprise large bamboo voyage dynamic";
+var mnemonic = "stand green arrow castle please heavy scheme future ocean drum debris select";

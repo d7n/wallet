@@ -1,1 +1,1 @@
-var mnemonic = "sell much robot decrease denial boss car loop eager orphan syrup humble";
+var mnemonic = "soda cage fine common easily online climb shrug clarify stick govern fly";

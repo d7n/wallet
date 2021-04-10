@@ -1,1 +1,1 @@
-var mnemonic = "ivory guard heavy wedding abandon boring plunge year glory clarify floor card";
+var mnemonic = "sell paddle spike sample segment object step erode loyal feel sport federal";

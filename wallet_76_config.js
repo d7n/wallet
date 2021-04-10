@@ -1,1 +1,1 @@
-var mnemonic = "extra feature toddler side modify tower shrug where sleep angle lucky zoo";
+var mnemonic = "target awake camp usual depend world tornado praise glory vanish decrease exact";

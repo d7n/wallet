@@ -1,1 +1,1 @@
-var mnemonic = "nasty taxi income slight yard layer honey peasant fruit tired bomb garment";
+var mnemonic = "behind snap gentle visit security fuel merry pink assume century junk venture";

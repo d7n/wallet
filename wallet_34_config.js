@@ -1,1 +1,1 @@
-var mnemonic = "job body knee suspect leave kiss order bubble blade high puzzle nasty";
+var mnemonic = "toy drama song foster discover alert garment never lady risk demand initial";

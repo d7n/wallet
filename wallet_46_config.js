@@ -1,1 +1,1 @@
-var mnemonic = "pet medal unfair clog kite capital guess minute rain assist lumber arrow";
+var mnemonic = "settle penalty hint smooth august acid giggle hat inmate silver cereal local";

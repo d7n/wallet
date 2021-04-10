@@ -1,1 +1,1 @@
-var mnemonic = "stone sauce family mystery cage improve step lunch mother ethics once blood";
+var mnemonic = "lottery pause civil nominee base junk build obscure patrol craft sorry story";

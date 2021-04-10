@@ -1,1 +1,1 @@
-var mnemonic = "crisp oppose also file tuna bring fire notable eager plunge milk glance";
+var mnemonic = "logic laptop vendor item scorpion close crop only help skull file scan";

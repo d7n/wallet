@@ -1,1 +1,1 @@
-var mnemonic = "message couple oyster cricket rhythm snack remember produce clump nose melt flip";
+var mnemonic = "detail tide speak nature sure expire coconut consider ten material stone teach";

@@ -1,1 +1,1 @@
-var mnemonic = "long girl nose couple pony spy trim afraid eternal festival news curve";
+var mnemonic = "industry roast area embody vocal mutual jeans slender crystal theme salon cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost vessel animal ten option raccoon bubble loop letter mandate stairs truth";
+var mnemonic = "hire letter bomb endorse pudding letter fancy size flee practice monkey differ";

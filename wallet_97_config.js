@@ -1,1 +1,1 @@
-var mnemonic = "service legal pepper renew eyebrow romance metal fiscal woman flash safe fantasy";
+var mnemonic = "trash deputy daring profit fall fever silly lend dust lion drink execute";

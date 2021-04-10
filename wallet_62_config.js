@@ -1,1 +1,1 @@
-var mnemonic = "light advance sphere feed surface know audit allow bright beauty frequent large";
+var mnemonic = "energy motor birth decide thing network private accuse tortoise library enforce summer";

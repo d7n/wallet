@@ -1,1 +1,1 @@
-var mnemonic = "half pipe comfort profit fit seek timber exile tiny baby forget assault";
+var mnemonic = "cement exotic grunt habit noodle strike receive crack chest wire hamster aware";

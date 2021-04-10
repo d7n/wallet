@@ -1,1 +1,1 @@
-var mnemonic = "soap soldier topic crystal void feature guitar paddle cupboard tennis visual skirt";
+var mnemonic = "tape mosquito enable general torch eternal argue tower source long trophy exchange";

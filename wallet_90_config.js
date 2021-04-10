@@ -1,1 +1,1 @@
-var mnemonic = "cool lend slush point drink trust access sauce dust device survey march";
+var mnemonic = "scatter fiber dove west hour genius camp thing auction swim merry forest";

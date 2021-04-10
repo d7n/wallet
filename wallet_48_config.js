@@ -1,1 +1,1 @@
-var mnemonic = "spread afford dial scene notice design essence legal must sock enough stick";
+var mnemonic = "squeeze extra mansion rescue ring sample hurt motor sausage fatigue warfare crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "melody pencil cat thrive adjust abstract deal jealous kingdom crouch flock bind";
+var mnemonic = "fuel harbor brain attend orchard timber crop toe poet blast pyramid ship";

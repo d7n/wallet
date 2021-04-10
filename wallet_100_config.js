@@ -1,1 +1,1 @@
-var mnemonic = "toe april huge trial address pole glad gate tank infant body cactus";
+var mnemonic = "glimpse like mansion city neck silly position predict collect palm olive voice";

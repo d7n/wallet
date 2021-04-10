@@ -1,1 +1,1 @@
-var mnemonic = "surprise hamster clutch type coral soda okay shoot alarm knife process notable";
+var mnemonic = "distance excess ship eight web chair wire average ski pluck seed choice";

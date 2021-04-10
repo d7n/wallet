@@ -1,1 +1,1 @@
-var mnemonic = "vote apology speed lady valley tortoise agent keen outside harsh mean photo";
+var mnemonic = "feature regret absorb breeze valve resemble coil trial rich stone either kite";

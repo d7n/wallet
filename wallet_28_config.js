@@ -1,1 +1,1 @@
-var mnemonic = "shed jealous emerge sail spoon horse will oblige host proud grit pole";
+var mnemonic = "sponsor dignity cricket alter ready bulb mandate cricket pig stable talent voyage";

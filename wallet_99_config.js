@@ -1,1 +1,1 @@
-var mnemonic = "frog bullet sport setup shop display glow simple uncover shock wool sure";
+var mnemonic = "table bottom rebel hair rely arrest glad treat group model moral relief";

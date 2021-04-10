@@ -1,1 +1,1 @@
-var mnemonic = "face simple lazy innocent wonder edit recipe follow word discover slender puzzle";
+var mnemonic = "blossom reward soup orchard mistake urban tragic season vessel turtle oppose custom";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum devote predict chaos switch emerge warm concert bamboo share embark finger";
+var mnemonic = "jacket sudden thrive antique found silk ahead blouse struggle air cook fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "elder feel anchor aspect liquid level syrup leisure play learn oyster distance";
+var mnemonic = "sand brief equip social ivory clerk supply primary idle become real pizza";

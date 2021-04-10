@@ -1,1 +1,1 @@
-var mnemonic = "century account dice rug flame anxiety bachelor seed warfare shoe sail usage";
+var mnemonic = "child dance iron priority victory tomorrow shoe convince dismiss pottery unlock divert";

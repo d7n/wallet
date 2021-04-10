@@ -1,1 +1,1 @@
-var mnemonic = "jelly chapter hamster unveil belt put lottery beyond great dress frame coast";
+var mnemonic = "pattern oyster embody daring drift industry you another response hand firm again";

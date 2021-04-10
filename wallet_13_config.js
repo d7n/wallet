@@ -1,1 +1,1 @@
-var mnemonic = "steak breeze crisp target biology dial slush similar bid season squeeze pact";
+var mnemonic = "give stand chat firm glass element melody episode brain story winter cost";

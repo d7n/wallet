@@ -1,1 +1,1 @@
-var mnemonic = "news such seat ocean utility volume rubber mother coin aisle ivory tag";
+var mnemonic = "globe patient divert floor virtual park cream evoke describe traffic time neutral";

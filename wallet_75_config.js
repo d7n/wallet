@@ -1,1 +1,1 @@
-var mnemonic = "behind sting again twenty swarm someone stand winter either adjust ivory correct";
+var mnemonic = "worry rude wire already rib valve grass pool castle nut judge badge";

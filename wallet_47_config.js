@@ -1,1 +1,1 @@
-var mnemonic = "enter belt coast fiber humor barrel suggest afford once average legal among";
+var mnemonic = "member staff soup mouse tackle liberty pelican nuclear fabric unlock social spy";

@@ -1,1 +1,1 @@
-var mnemonic = "effort hamster skirt during rally black bargain behave blush enter poem depart";
+var mnemonic = "attract load present often rubber powder tennis deal put income increase require";

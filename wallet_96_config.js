@@ -1,1 +1,1 @@
-var mnemonic = "erosion bamboo okay grit open lumber dust weekend diary camp sketch smooth";
+var mnemonic = "rose cheese escape nut material medal donor bone since have garage funny";

@@ -1,1 +1,1 @@
-var mnemonic = "include express puzzle bus draft unknown dizzy critic bitter destroy bullet base";
+var mnemonic = "orchard flat episode multiply famous disagree lonely local earth adjust gospel weekend";

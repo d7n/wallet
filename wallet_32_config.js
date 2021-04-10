@@ -1,1 +1,1 @@
-var mnemonic = "soon only guard page rural humor parrot stock board entire success option";
+var mnemonic = "heavy diamond head bracket merry neglect fury derive plug become senior cigar";

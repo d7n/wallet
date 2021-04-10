@@ -1,1 +1,1 @@
-var mnemonic = "leisure couple trim under uncover taste theme sense together once analyst dynamic";
+var mnemonic = "motion sudden income seed jaguar year path dog narrow trip sniff buyer";

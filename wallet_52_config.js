@@ -1,1 +1,1 @@
-var mnemonic = "reveal decorate error educate monkey client spider stumble inject trumpet scare pelican";
+var mnemonic = "husband secret south family stumble credit logic sight base duty victory moment";

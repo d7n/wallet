@@ -1,1 +1,1 @@
-var mnemonic = "divorce embrace crystal raise struggle luggage file coach strike fit random cancel";
+var mnemonic = "loop inquiry make pretty nasty bullet want alien amused marriage bacon grunt";

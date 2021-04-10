@@ -1,1 +1,1 @@
-var mnemonic = "jungle accident surge stairs inhale chapter kitten danger diamond crater minor quiz";
+var mnemonic = "snap phone voyage iron august turtle punch purpose kidney inject dilemma balance";

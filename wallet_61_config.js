@@ -1,1 +1,1 @@
-var mnemonic = "train find runway scheme wet text submit rabbit ancient night keen arch";
+var mnemonic = "whale assume festival help dad addict road deny above speak beach offer";

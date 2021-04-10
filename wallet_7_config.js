@@ -1,1 +1,1 @@
-var mnemonic = "bike noble neck half summer tumble supreme soft first invest opinion say";
+var mnemonic = "will mansion tobacco swap minute glare photo cage green cruise culture under";

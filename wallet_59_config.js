@@ -1,1 +1,1 @@
-var mnemonic = "illness mutual error border glass glad enemy honey lottery patient jungle object";
+var mnemonic = "voice combine loud page assault shrug stock aisle destroy syrup rose pioneer";

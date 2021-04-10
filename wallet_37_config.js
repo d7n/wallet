@@ -1,1 +1,1 @@
-var mnemonic = "dentist another escape saddle switch harsh cave sniff useless hello olympic denial";
+var mnemonic = "census permit goddess pulse feed laugh hope regret trend mercy main core";

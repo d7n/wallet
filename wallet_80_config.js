@@ -1,1 +1,1 @@
-var mnemonic = "crumble focus arena sustain scorpion settle crane turn inform fury vivid cheese";
+var mnemonic = "column wool churn nose diesel exchange disorder liar special check room figure";

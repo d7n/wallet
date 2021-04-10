@@ -1,1 +1,1 @@
-var mnemonic = "wagon upgrade fortune join engage program faith act term pond choose audit";
+var mnemonic = "provide upper interest unit much novel special clown gesture february pave buyer";

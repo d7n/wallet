@@ -1,1 +1,1 @@
-var mnemonic = "foam mixed stamp meadow enact message grit video rally grit route coil";
+var mnemonic = "damage card year salt entire romance disease either south digital hedgehog settle";

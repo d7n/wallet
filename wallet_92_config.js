@@ -1,1 +1,1 @@
-var mnemonic = "key tortoise lizard woman omit pipe shield position foil march orphan target";
+var mnemonic = "canyon exhibit hat draw mask drip crime yellow sell sentence staff wire";

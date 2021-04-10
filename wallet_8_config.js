@@ -1,1 +1,1 @@
-var mnemonic = "alone flash imitate cover silk page lunar trial palm isolate elegant similar";
+var mnemonic = "lounge three magic mesh hobby rely wet juice limit carry column together";

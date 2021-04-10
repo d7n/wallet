@@ -1,1 +1,1 @@
-var mnemonic = "lounge assault demand timber weasel open neck celery empty method pumpkin trip";
+var mnemonic = "record cinnamon good feel inside grow vast pitch defense drama black fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "window cruise scout cram allow reward party manage shuffle rocket brother alter";
+var mnemonic = "just maple turtle aerobic federal input salon never music spend total vintage";

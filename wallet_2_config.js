@@ -1,1 +1,1 @@
-var mnemonic = "insane lemon alarm dad fortune dutch car piano wrap capital actor lab";
+var mnemonic = "tunnel army bid jungle key usage buyer amateur second west alcohol zone";

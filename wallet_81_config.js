@@ -1,1 +1,1 @@
-var mnemonic = "seven adjust pretty pistol expose rocket climb cement promote jeans doctor summer";
+var mnemonic = "start ahead awesome fine detect violin thought lyrics stand mail hawk hero";

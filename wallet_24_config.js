@@ -1,1 +1,1 @@
-var mnemonic = "surround slice grant rival report fat jungle silk universe oblige state opera";
+var mnemonic = "cage copy cream clock rookie comfort hire skate giraffe vehicle crop tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse begin tool brand aisle brown craft demise collect rhythm prepare spot";
+var mnemonic = "amused fever tag pistol hand twin connect axis suggest mercy near sight";

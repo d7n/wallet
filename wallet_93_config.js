@@ -1,1 +1,1 @@
-var mnemonic = "ghost excess voyage cigar coach virus lab pill vault junior volcano humble";
+var mnemonic = "deer auction priority second omit heart liar coffee bird crisp orbit bacon";

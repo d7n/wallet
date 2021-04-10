@@ -1,1 +1,1 @@
-var mnemonic = "rubber expire unable twelve tube domain amazing lady video dawn scene mimic";
+var mnemonic = "crack cute believe prison garage easily sing candy suggest whale clip royal";

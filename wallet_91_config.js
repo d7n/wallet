@@ -1,1 +1,1 @@
-var mnemonic = "family banana grape library leader clog six lion crop emerge struggle floor";
+var mnemonic = "dad wedding genuine spoon over expire aerobic amazing east spare alpha duty";

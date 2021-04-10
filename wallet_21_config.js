@@ -1,1 +1,1 @@
-var mnemonic = "excite sugar depart spawn veteran peanut frown seat maze vocal pudding foster";
+var mnemonic = "brave trim lift benefit wall weasel panther cupboard credit enact match logic";

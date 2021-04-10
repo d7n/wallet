@@ -1,1 +1,1 @@
-var mnemonic = "define assume off turtle upon hurdle shine announce also claw rebel word";
+var mnemonic = "tilt topic glide cargo congress solar aspect zero drive tone mimic other";
