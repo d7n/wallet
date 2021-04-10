@@ -1,1 +1,1 @@
-var mnemonic = "mushroom rug benefit arena print penalty multiply story brief note remind funny";
+var mnemonic = "fiscal drink goose erode short toddler broccoli village crane mean gauge insane";

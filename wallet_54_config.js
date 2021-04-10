@@ -1,1 +1,1 @@
-var mnemonic = "helmet immense whip off course outside lunar swarm brand fly unveil salmon";
+var mnemonic = "deny unit celery bus scorpion jealous aunt idea air field solution harvest";

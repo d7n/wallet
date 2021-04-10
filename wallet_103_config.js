@@ -1,1 +1,1 @@
-var mnemonic = "sausage divert arrive corn deny echo canvas brand stuff identify original monster";
+var mnemonic = "rebel avocado salute flag junior gravity sound switch team south leopard govern";

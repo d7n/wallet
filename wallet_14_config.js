@@ -1,1 +1,1 @@
-var mnemonic = "apple junior gaze brass stick term tackle kite define fancy nature behind";
+var mnemonic = "amused broccoli vintage pair hub rule gravity asthma dance fat grid axis";

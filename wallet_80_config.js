@@ -1,1 +1,1 @@
-var mnemonic = "valley crucial silk liquid space video spawn media invest artwork large describe";
+var mnemonic = "flag apple asthma marble uniform august top bachelor iron inmate extend daring";

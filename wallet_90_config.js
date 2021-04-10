@@ -1,1 +1,1 @@
-var mnemonic = "patch address caution wedding tribe toward dirt broken extend grape tuition ability";
+var mnemonic = "forest gather trap era buzz frog holiday horn length boy remind add";

@@ -1,1 +1,1 @@
-var mnemonic = "engage senior have item stool fix cute dizzy hole harvest gather rose";
+var mnemonic = "grocery consider cover smoke vocal custom display silver ocean delay acoustic decorate";

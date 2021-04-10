@@ -1,1 +1,1 @@
-var mnemonic = "few skin boil lock student regular confirm gain excuse resist shaft property";
+var mnemonic = "trophy violin process winter critic lobster rally negative regret piece much sunny";

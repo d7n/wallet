@@ -1,1 +1,1 @@
-var mnemonic = "account cheese other sock exclude source wish lab machine lemon they sell";
+var mnemonic = "lonely target arm spring glass light aerobic used person asthma claim harsh";

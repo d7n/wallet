@@ -1,1 +1,1 @@
-var mnemonic = "elite dentist argue blast phrase message other cover bright ship clay gauge";
+var mnemonic = "saddle lens defy response beyond unable fence accuse feature asset trouble vibrant";

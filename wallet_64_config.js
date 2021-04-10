@@ -1,1 +1,1 @@
-var mnemonic = "street have rhythm palace aerobic domain erosion elevator live milk rival slam";
+var mnemonic = "divide laptop sister thing cable merge choice sound mad pluck inspire scatter";

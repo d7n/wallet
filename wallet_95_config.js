@@ -1,1 +1,1 @@
-var mnemonic = "vocal solve master lonely resemble grocery thank fiscal code inmate job fog";
+var mnemonic = "tongue eager pencil decorate wasp behind divide myself lumber width churn hair";

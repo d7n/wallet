@@ -1,1 +1,1 @@
-var mnemonic = "swamp pitch fatigue win ginger buffalo someone cargo soft bargain season expire";
+var mnemonic = "noble apple video pluck paper enrich essence roof rely reunion wreck clog";

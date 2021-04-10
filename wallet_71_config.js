@@ -1,1 +1,1 @@
-var mnemonic = "rely category mystery ranch gym exotic wink chef cheese reflect copy fresh";
+var mnemonic = "twist bicycle fee input river surprise wash oxygen demand next grape broken";

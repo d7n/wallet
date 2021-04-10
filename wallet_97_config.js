@@ -1,1 +1,1 @@
-var mnemonic = "review curious evoke beach swing fiscal oak excite motion clock lumber town";
+var mnemonic = "ankle legal essence vivid dizzy dilemma stone net illness bring snack smooth";

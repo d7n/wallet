@@ -1,1 +1,1 @@
-var mnemonic = "notable lab airport history copper sight hunt theory neck jaguar episode shiver";
+var mnemonic = "scorpion love reward opera more aerobic usage helmet sock pool item genuine";

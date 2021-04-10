@@ -1,1 +1,1 @@
-var mnemonic = "wrong reason express pelican emerge review base move wagon machine health foam";
+var mnemonic = "alone clump negative then rent deny common craft sentence zone place whale";

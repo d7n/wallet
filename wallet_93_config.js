@@ -1,1 +1,1 @@
-var mnemonic = "tip inch lift arena stereo jeans civil script invite math mechanic extra";
+var mnemonic = "when lottery chalk will question uphold gospel sell human fever fly casual";

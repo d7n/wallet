@@ -1,1 +1,1 @@
-var mnemonic = "urge floor human behave wine stone clown worth bridge spell absorb save";
+var mnemonic = "spoil happy fame top toast mean decide tip learn double copy own";

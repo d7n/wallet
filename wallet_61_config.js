@@ -1,1 +1,1 @@
-var mnemonic = "clap increase deliver pony focus urge abuse call enforce resource this toward";
+var mnemonic = "joke thumb now odor blue raise congress odor almost disagree mercy scissors";

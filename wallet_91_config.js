@@ -1,1 +1,1 @@
-var mnemonic = "obtain purse asset become praise please drastic reject labor erupt dog where";
+var mnemonic = "open daughter hard receive liberty fall van earn junk spray mistake loud";

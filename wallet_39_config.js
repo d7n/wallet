@@ -1,1 +1,1 @@
-var mnemonic = "misery coil away bean kitchen spice tuna maximum group repeat deal tattoo";
+var mnemonic = "rural body beach forget neck mouse smart say theory exile nerve guess";

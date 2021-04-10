@@ -1,1 +1,1 @@
-var mnemonic = "coyote unlock amazing cube secret dad nose trophy insane advice know sweet";
+var mnemonic = "funny crawl vintage monkey echo night dry hotel absurd globe minute journey";

@@ -1,1 +1,1 @@
-var mnemonic = "faint toilet fever broken clown student prefer nerve donor plastic tiny apart";
+var mnemonic = "wedding exact tomato guess still camp magnet odor coast term toward road";

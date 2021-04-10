@@ -1,1 +1,1 @@
-var mnemonic = "dune lion pattern soft rough diesel mouse tooth strong double leave position";
+var mnemonic = "fatal almost today shop bargain toddler comfort alcohol spread cost session diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "current century benefit try report border coach spawn rent thought battle stone";
+var mnemonic = "flame cushion thrive excuse shift image outdoor hard canoe style pole manual";

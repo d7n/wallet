@@ -1,1 +1,1 @@
-var mnemonic = "during dad bleak orphan museum slogan excite soft primary picnic route feature";
+var mnemonic = "wait exercise trade cloud raccoon hero party awake floor rare muscle power";

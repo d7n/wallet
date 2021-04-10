@@ -1,1 +1,1 @@
-var mnemonic = "swift wreck upset bright spray degree priority crowd craft talk drop emotion";
+var mnemonic = "slot jungle soap trust anger myself alter major torch turkey pride flag";

@@ -1,1 +1,1 @@
-var mnemonic = "sort primary expect airport chest peanut tomato brick hard caution helmet scan";
+var mnemonic = "differ net library brown ring scout digital stamp brush dad snake title";

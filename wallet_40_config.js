@@ -1,1 +1,1 @@
-var mnemonic = "bicycle nice offer shop paddle young rent tell clarify surge manual bacon";
+var mnemonic = "pluck auto usual match element eyebrow gossip inflict material total face virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "merit team involve split globe sketch life cause dirt antenna ritual poem";
+var mnemonic = "force dress stage skull token divide web skirt scatter attack rubber truth";

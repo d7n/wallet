@@ -1,1 +1,1 @@
-var mnemonic = "shy midnight soldier govern hub flash void hair permit universe truly club";
+var mnemonic = "mansion concert fossil satoshi share medal yard frog whip lizard borrow modify";

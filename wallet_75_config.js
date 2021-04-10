@@ -1,1 +1,1 @@
-var mnemonic = "produce net car topic index either regular upper ski upgrade powder capital";
+var mnemonic = "know skirt ripple unaware erupt skate ride series speak region battle filter";

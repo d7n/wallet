@@ -1,1 +1,1 @@
-var mnemonic = "similar isolate shoulder argue main wink upon east young demand arrest memory";
+var mnemonic = "erupt sphere ensure snap clean album pig sport popular sponsor fan load";

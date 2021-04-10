@@ -1,1 +1,1 @@
-var mnemonic = "banner balance roast adjust pitch idea shuffle cry banner kind knock purse";
+var mnemonic = "holiday digital sleep blush fruit decline brand board garbage repeat myth media";

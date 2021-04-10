@@ -1,1 +1,1 @@
-var mnemonic = "supply action jazz devote police used car enemy convince rifle armor inner";
+var mnemonic = "draft front undo program hip lumber lumber defy chaos random shed slight";

@@ -1,1 +1,1 @@
-var mnemonic = "sense under state vicious recycle have theory naive evolve predict symbol just";
+var mnemonic = "survey movie mouse bachelor arm toilet plug hollow desert extra impact found";

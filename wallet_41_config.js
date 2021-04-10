@@ -1,1 +1,1 @@
-var mnemonic = "match avoid bronze base real play step planet fine ride brick soft";
+var mnemonic = "peace describe select swamp daring cotton rice scale token engine nerve anxiety";

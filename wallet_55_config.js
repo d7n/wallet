@@ -1,1 +1,1 @@
-var mnemonic = "call argue ignore antenna slow north table notable return sphere filter library";
+var mnemonic = "style item vacuum solution clinic will way arrange sauce excite wash diet";

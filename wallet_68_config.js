@@ -1,1 +1,1 @@
-var mnemonic = "core believe myself daring quarter social million minute citizen away sport regular";
+var mnemonic = "mystery useful drum amazing almost puzzle build budget gaze future weather turn";

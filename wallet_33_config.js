@@ -1,1 +1,1 @@
-var mnemonic = "kidney riot ring soon very power desk piece convince curve year dynamic";
+var mnemonic = "smile belt captain siege owner pill cricket short connect flower black lamp";

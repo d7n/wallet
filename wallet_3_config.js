@@ -1,1 +1,1 @@
-var mnemonic = "replace field visual main item deliver action hire slim submit scheme swear";
+var mnemonic = "hamster slam replace pilot lady metal void ahead engage afraid cloth tent";

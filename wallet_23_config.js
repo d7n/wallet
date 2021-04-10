@@ -1,1 +1,1 @@
-var mnemonic = "other ensure milk fence scrap pigeon one say truck bright normal prefer";
+var mnemonic = "draft sausage gloom point uphold design escape pond wheel planet desk hockey";

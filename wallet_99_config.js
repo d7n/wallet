@@ -1,1 +1,1 @@
-var mnemonic = "blanket armed duck lion front wasp foil pony around liquid just kidney";
+var mnemonic = "mean increase coyote wrestle require piece slab enjoy horror exhaust lobster off";

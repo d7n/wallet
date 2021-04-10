@@ -1,1 +1,1 @@
-var mnemonic = "firm address cheap omit say breeze pond moon hollow peace purchase soldier";
+var mnemonic = "price concert noise scatter chicken grit south bullet radio stairs rely air";

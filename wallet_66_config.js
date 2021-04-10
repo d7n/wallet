@@ -1,1 +1,1 @@
-var mnemonic = "table stable there loyal asset excuse globe mammal load found forum foster";
+var mnemonic = "network egg jar census just refuse million budget luxury decrease tank antique";

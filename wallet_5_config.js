@@ -1,1 +1,1 @@
-var mnemonic = "tilt roof track proof useful endorse impact same shoot plug cigar present";
+var mnemonic = "clump island project rail year awesome cattle live taxi dust artist news";

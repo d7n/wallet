@@ -1,1 +1,1 @@
-var mnemonic = "inform rent garbage book cover raccoon auto pelican primary wrestle home boost";
+var mnemonic = "chief drip snack sugar main mushroom summer neglect brave smile another primary";

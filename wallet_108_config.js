@@ -1,1 +1,1 @@
-var mnemonic = "crop hat giraffe must valley discover rose trigger warrior gate adapt measure";
+var mnemonic = "fire judge idea hub truth pyramid void ceiling perfect thumb exclude tourist";

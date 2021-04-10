@@ -1,1 +1,1 @@
-var mnemonic = "ocean trumpet glimpse seek true please enroll sibling equip drink amount arrange";
+var mnemonic = "smart army boss height casual warrior reveal asthma blush olympic okay post";

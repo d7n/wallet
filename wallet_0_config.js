@@ -1,1 +1,1 @@
-var mnemonic = "gravity like worry glass morning accident alert bundle fantasy exact other clever";
+var mnemonic = "speak useless sport action elegant dawn fitness bacon mosquito shield giggle suggest";

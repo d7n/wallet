@@ -1,1 +1,1 @@
-var mnemonic = "sudden desert wall escape human casino vacuum amused below link glass drink";
+var mnemonic = "grief exhibit used allow humor runway exhibit goose pyramid grace champion half";

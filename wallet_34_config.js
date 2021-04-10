@@ -1,1 +1,1 @@
-var mnemonic = "domain ride scan ten mirror kiwi absent rival double deposit iron draw";
+var mnemonic = "hour forward entry august van road endless doctor hip wave brother tribe";

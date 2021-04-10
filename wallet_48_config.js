@@ -1,1 +1,1 @@
-var mnemonic = "jump tissue settle cigar fire scatter body regular live youth toast phrase";
+var mnemonic = "suit impulse width turtle gate patch galaxy oval symptom maple lend cricket";

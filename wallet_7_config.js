@@ -1,1 +1,1 @@
-var mnemonic = "rabbit gain radio wash bamboo museum parent client twice outside anchor online";
+var mnemonic = "whisper detail judge doll fancy police wing cover heavy hybrid other vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble card rubber chest art neither method team bird spawn check flavor";
+var mnemonic = "stage fox sure disorder bulb ship oven neck recipe great write spoon";

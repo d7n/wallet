@@ -1,1 +1,1 @@
-var mnemonic = "suggest mix danger people unfair public render barrel whale cereal maid future";
+var mnemonic = "rice pole various allow accident peace strike jewel donate zone aerobic deer";

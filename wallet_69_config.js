@@ -1,1 +1,1 @@
-var mnemonic = "long end proof stay picture have spend potato devote cluster analyst skirt";
+var mnemonic = "twin dilemma whip benefit devote say maximum document arrange stool derive possible";

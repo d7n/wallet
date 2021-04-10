@@ -1,1 +1,1 @@
-var mnemonic = "genius phrase bargain wife company lock prevent claim marriage mandate decorate evoke";
+var mnemonic = "exhaust exchange tattoo sister antique tent trigger tired balance skull vacant wool";

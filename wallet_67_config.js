@@ -1,1 +1,1 @@
-var mnemonic = "record long often alarm umbrella half holiday example carry random emotion craft";
+var mnemonic = "acid then outside island shine student horse vivid gun midnight figure sand";

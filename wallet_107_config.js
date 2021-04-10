@@ -1,1 +1,1 @@
-var mnemonic = "giggle peanut team label foster aware limit hurdle now enhance churn mosquito";
+var mnemonic = "balance visit slogan gadget join tower angry treat sign athlete adult business";

@@ -1,1 +1,1 @@
-var mnemonic = "vital bracket know guess favorite loan bus abstract iron fade spider strong";
+var mnemonic = "isolate knee latin wrist soldier budget know put hello paper portion nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "silent nephew obscure safe rookie ketchup rug piano march fire palace release";
+var mnemonic = "slice quarter adapt airport real dad ivory gadget engage exchange polar skate";

@@ -1,1 +1,1 @@
-var mnemonic = "smile essay exercise silent popular elite elder across hole popular obey sponsor";
+var mnemonic = "dry chimney flock peasant gospel grass camera inner drill cart layer ready";

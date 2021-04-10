@@ -1,1 +1,1 @@
-var mnemonic = "era entire furnace kitchen legal pause bulk donkey grass broom note endless";
+var mnemonic = "dirt pizza icon deer notice surround bracket ten globe message plug zero";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce pond lyrics together trophy satoshi twenty wrap will essence eagle social";
+var mnemonic = "second mad scissors approve keen account day possible pottery tail people brisk";

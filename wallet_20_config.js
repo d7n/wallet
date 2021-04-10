@@ -1,1 +1,1 @@
-var mnemonic = "claim vacuum luggage mammal kiwi kit arrow traffic sword remind resource conduct";
+var mnemonic = "check paddle crane december engine motion call boring discover royal isolate just";

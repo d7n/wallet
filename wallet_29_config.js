@@ -1,1 +1,1 @@
-var mnemonic = "surround river ensure route cabin oven notable upper simple slice sail nation";
+var mnemonic = "world used credit someone latin dog leopard charge frog dignity crystal wisdom";

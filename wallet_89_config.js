@@ -1,1 +1,1 @@
-var mnemonic = "mother major school magic melody river hybrid wedding million shoot any company";
+var mnemonic = "load brown involve amateur violin kid wreck skin arrest chat horror dream";

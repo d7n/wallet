@@ -1,1 +1,1 @@
-var mnemonic = "organ unhappy basket toast bronze broken close click lecture erode iron evolve";
+var mnemonic = "spatial inhale chief ridge very drift patient stove cage flight armed floor";

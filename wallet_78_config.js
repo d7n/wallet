@@ -1,1 +1,1 @@
-var mnemonic = "hire have dentist wolf secret case couch genius gospel wreck load profit";
+var mnemonic = "spread pause boring miss rotate satisfy wonder spy rare ill tiny method";

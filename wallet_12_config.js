@@ -1,1 +1,1 @@
-var mnemonic = "book thought seminar skill main deal chalk pledge dismiss sudden clever couch";
+var mnemonic = "dial clean use indicate later crane lumber window glove glow grow siren";

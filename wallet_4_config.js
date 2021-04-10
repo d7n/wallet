@@ -1,1 +1,1 @@
-var mnemonic = "orange emotion lyrics neither narrow neither bulb good link west delay thank";
+var mnemonic = "juice trap exhibit wisdom frozen laugh mother neck pizza deputy helmet habit";

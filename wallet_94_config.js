@@ -1,1 +1,1 @@
-var mnemonic = "child change shift side author total yellow thumb omit because novel palace";
+var mnemonic = "rookie buffalo nurse where illegal ecology image you sing ignore peasant brother";

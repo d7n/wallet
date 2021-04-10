@@ -1,1 +1,1 @@
-var mnemonic = "lesson provide valid entry crop indoor element return quote pole net write";
+var mnemonic = "excite lonely tuition royal dance photo weekend grass royal innocent elegant this";

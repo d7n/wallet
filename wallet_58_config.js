@@ -1,1 +1,1 @@
-var mnemonic = "cherry tribe possible wire layer unusual hazard mask hotel cycle wheat chat";
+var mnemonic = "relief employ blur submit remain output wasp fun possible enforce throw silver";

@@ -1,1 +1,1 @@
-var mnemonic = "allow hazard planet fresh strike lift pig eight document guess sea crack";
+var mnemonic = "abandon acquire odor gasp cave token describe until raw man tape bonus";

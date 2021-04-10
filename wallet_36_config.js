@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur quantum crew addict trumpet stable family siren fence innocent drink dawn";
+var mnemonic = "cigar panda year theory first trick tourist federal garment cycle pond embark";

@@ -1,1 +1,1 @@
-var mnemonic = "arena slab enlist capable stage explain ghost gloom alien cost raise setup";
+var mnemonic = "slab mansion alcohol arrest merit chuckle vacant reunion exhibit organ chuckle decide";

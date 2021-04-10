@@ -1,1 +1,1 @@
-var mnemonic = "balcony hero tool ski cancel across alter neutral dizzy labor casino now";
+var mnemonic = "muscle renew crawl bind dignity market great canoe train mixture left record";

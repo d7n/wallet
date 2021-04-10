@@ -1,1 +1,1 @@
-var mnemonic = "hello easy coil mutual broom cannon weekend knock enlist differ rapid border";
+var mnemonic = "wrestle into scrap rival cool old blast comic when plunge crawl arch";

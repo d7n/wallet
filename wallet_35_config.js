@@ -1,1 +1,1 @@
-var mnemonic = "crime drop ghost agree hedgehog pact casual dish conduct rescue address rose";
+var mnemonic = "recycle soup win burden material evil bundle huge text foil stadium rail";

@@ -1,1 +1,1 @@
-var mnemonic = "maple win auction catalog decide blanket aunt broom pupil deposit embody witness";
+var mnemonic = "broccoli marble slim boil wedding castle few wagon swarm session practice speed";

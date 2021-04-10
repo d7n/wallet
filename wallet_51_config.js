@@ -1,1 +1,1 @@
-var mnemonic = "lobster atom artwork spray design stem crane lobster patch chapter galaxy live";
+var mnemonic = "glare museum choice child find infant vacuum truly oxygen hunt motion later";

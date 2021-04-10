@@ -1,1 +1,1 @@
-var mnemonic = "rhythm security furnace image glass mad tiny chimney save avocado aunt strong";
+var mnemonic = "congress between upset cement chair common renew table bulb hold jealous practice";

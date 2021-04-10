@@ -1,1 +1,1 @@
-var mnemonic = "crane soul ramp pole blouse permit grocery math patch proud tag victory";
+var mnemonic = "cram tank awesome crane shift skull never zebra flat catch orbit holiday";

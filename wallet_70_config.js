@@ -1,1 +1,1 @@
-var mnemonic = "pool vanish odor wage faculty response agree language federal food payment notable";
+var mnemonic = "camera cheap hockey finish fade critic actual symbol scrub remain hat medal";

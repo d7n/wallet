@@ -1,1 +1,1 @@
-var mnemonic = "clarify february pioneer arrange term second hip valid lucky zero occur smile";
+var mnemonic = "ring crunch dumb another stay common degree swear elite install bounce define";

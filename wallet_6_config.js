@@ -1,1 +1,1 @@
-var mnemonic = "damp review chuckle earn vehicle announce school focus salute flush arrive avocado";
+var mnemonic = "hip horse broom industry put require boss repair gun trim replace keep";
