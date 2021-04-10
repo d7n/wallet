@@ -1,1 +1,1 @@
-var mnemonic = "dwarf one sample broccoli skin lamp tongue thing that jungle market wild";
+var mnemonic = "good piano trick black develop current media border face club absorb leisure";

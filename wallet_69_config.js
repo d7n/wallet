@@ -1,1 +1,1 @@
-var mnemonic = "bridge fuel ordinary clock leopard soup snap balcony burden welcome invest fortune";
+var mnemonic = "bacon anxiety copper pink brisk author burger beauty swallow intact boost lounge";

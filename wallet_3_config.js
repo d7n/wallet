@@ -1,1 +1,1 @@
-var mnemonic = "biology plate tower ginger used spoil common dismiss sun banana tattoo knock";
+var mnemonic = "awful panda bless blade tone today panel begin usual wonder ask bless";

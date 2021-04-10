@@ -1,1 +1,1 @@
-var mnemonic = "boring ankle runway bread grant bamboo fine help blind culture fruit wing";
+var mnemonic = "cat basket police kind wash patient oblige laptop always purity sure very";

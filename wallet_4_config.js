@@ -1,1 +1,1 @@
-var mnemonic = "sponsor limit flush toe egg also ceiling dolphin dentist garden humble stem";
+var mnemonic = "exotic cabin always zone hunt excuse ginger custom grid swamp ostrich prosper";

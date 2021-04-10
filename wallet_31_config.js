@@ -1,1 +1,1 @@
-var mnemonic = "genuine drill assist anchor pumpkin child wonder grab giant sand lumber way";
+var mnemonic = "rice share opinion issue able slow west expire more tip moral analyst";

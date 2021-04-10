@@ -1,1 +1,1 @@
-var mnemonic = "omit together man drastic group dignity detail reform adapt snow lunch amused";
+var mnemonic = "wife major flag glow perfect develop focus rice blossom side spin truth";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive garden attend ripple zoo speak spin rookie cattle trip brown office";
+var mnemonic = "decorate pipe march note wife body volcano estate marble artist spawn silent";

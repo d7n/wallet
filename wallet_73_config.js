@@ -1,1 +1,1 @@
-var mnemonic = "apart broken mix side quote angle click crush moon air wise very";
+var mnemonic = "dilemma uphold phone promote wonder animal toddler junk rotate cattle mention pear";

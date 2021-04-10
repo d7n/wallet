@@ -1,1 +1,1 @@
-var mnemonic = "retreat pitch ask kingdom rifle mule rent floor afford public clown since";
+var mnemonic = "faith link fortune woman produce utility day eyebrow impose little coil draw";

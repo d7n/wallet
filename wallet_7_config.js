@@ -1,1 +1,1 @@
-var mnemonic = "output dignity duty tip exchange prison trust vocal place soft vehicle service";
+var mnemonic = "harsh orphan renew pool stomach machine favorite pen ring calm husband rice";

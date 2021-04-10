@@ -1,1 +1,1 @@
-var mnemonic = "junior puppy cake kangaroo author senior melody client student horn cat project";
+var mnemonic = "ridge chest announce able resource silver tornado blur solution garbage exhibit prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "patch fury absurd churn audit sign vendor taste dolphin demise powder budget";
+var mnemonic = "inch alert access spirit stone install alter vanish repair shield use casino";

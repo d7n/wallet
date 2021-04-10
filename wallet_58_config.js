@@ -1,1 +1,1 @@
-var mnemonic = "scorpion element before pluck spatial hard few consider vanish horn coffee slam";
+var mnemonic = "topic fresh fade alley survey ready agree mountain fade error increase snap";

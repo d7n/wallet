@@ -1,1 +1,1 @@
-var mnemonic = "minute mule image mail educate hill attract evidence napkin romance south material";
+var mnemonic = "boat wall where glow visa spend forum song ecology emerge valley struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "decline birth hollow roast eager train eight elite host vendor six usual";
+var mnemonic = "bridge resource proof funny grace carbon chronic print frown endless rain ritual";

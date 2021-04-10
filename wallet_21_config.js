@@ -1,1 +1,1 @@
-var mnemonic = "purse volcano brown maximum exhaust soldier soul fun crucial trophy glass arrange";
+var mnemonic = "list problem organ stadium radio gospel upper crazy ocean bounce knee siege";

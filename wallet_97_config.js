@@ -1,1 +1,1 @@
-var mnemonic = "ranch glory basket bind success crush skate awesome loud salon midnight flee";
+var mnemonic = "destroy settle fat off more save unveil myself wrap unknown quote tower";

@@ -1,1 +1,1 @@
-var mnemonic = "still envelope cancel volume need patrol pill glare winter cruise border shrug";
+var mnemonic = "risk element scissors split priority crack frequent fetch plate tattoo symptom token";

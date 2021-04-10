@@ -1,1 +1,1 @@
-var mnemonic = "rude tragic charge spin bulk stereo little all able coral muffin cloud";
+var mnemonic = "mention fold rule step rubber aim brush elegant when protect country arctic";

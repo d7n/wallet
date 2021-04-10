@@ -1,1 +1,1 @@
-var mnemonic = "portion scare pupil rug young dumb category legal certain mention jelly guitar";
+var mnemonic = "mail cheese banana connect lobster tape furnace heart rice alley plastic useful";

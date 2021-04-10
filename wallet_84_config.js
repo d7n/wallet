@@ -1,1 +1,1 @@
-var mnemonic = "easy goose original nose fragile time fold lamp rhythm snack visit burger";
+var mnemonic = "chaos regular switch print unhappy slab case steak guide cruise helmet patient";

@@ -1,1 +1,1 @@
-var mnemonic = "slide across deny tower winner material endless slice neck arch panda rocket";
+var mnemonic = "endorse distance bamboo cluster staff orphan dirt obvious jeans pitch stick omit";

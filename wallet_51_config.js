@@ -1,1 +1,1 @@
-var mnemonic = "slow noise emotion bonus recycle scrap crowd nation blade hello provide erase";
+var mnemonic = "long shadow analyst tissue pen grief wrong access open cannon approve jewel";

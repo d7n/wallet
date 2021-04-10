@@ -1,1 +1,1 @@
-var mnemonic = "engage hat perfect razor cable lens smile sing man water mouse ocean";
+var mnemonic = "call foam oblige hole develop attitude false act garbage cream sketch crush";

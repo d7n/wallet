@@ -1,1 +1,1 @@
-var mnemonic = "kiss caught sniff drastic kitten flock melody whisper sail fossil mad view";
+var mnemonic = "keen drastic spell brand suffer canal derive more jaguar peace broccoli govern";

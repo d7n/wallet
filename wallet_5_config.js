@@ -1,1 +1,1 @@
-var mnemonic = "common blur chef satisfy bitter feature sock shoe cabbage tattoo real custom";
+var mnemonic = "medal cash alley army clean list sense column summer under sign easily";

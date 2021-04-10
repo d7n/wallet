@@ -1,1 +1,1 @@
-var mnemonic = "april glare mountain witness piece fetch task course slide asthma rain clog";
+var mnemonic = "only rocket quit better purity when alter space make dog brush size";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery core jelly area degree science memory crucial output text width blind";
+var mnemonic = "guilt offer once limb spoil use dry captain because orange bird bless";

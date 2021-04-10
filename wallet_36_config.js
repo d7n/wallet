@@ -1,1 +1,1 @@
-var mnemonic = "brave arm review portion music what you task artefact select brand fresh";
+var mnemonic = "choose fetch group oak embrace wood girl taxi burger thank melt chaos";

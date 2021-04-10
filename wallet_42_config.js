@@ -1,1 +1,1 @@
-var mnemonic = "drop lion shoot already cousin potato risk pony track bird icon hire";
+var mnemonic = "stove put popular little error soap phrase way emerge tide drama raven";

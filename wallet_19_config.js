@@ -1,1 +1,1 @@
-var mnemonic = "lion blossom timber submit return razor fault please boring firm false lend";
+var mnemonic = "debris essay pair pair notable illness satisfy across rotate genre verify example";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope puppy parent flat crater alpha toward scene ski exercise hair romance";
+var mnemonic = "casino cement then local decorate toss tool measure vintage aspect solution destroy";

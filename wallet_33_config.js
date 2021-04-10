@@ -1,1 +1,1 @@
-var mnemonic = "paper click hobby bonus column circle critic boat face friend toward drama";
+var mnemonic = "opera injury wise holiday wise devote brand seat front express entry achieve";

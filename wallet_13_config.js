@@ -1,1 +1,1 @@
-var mnemonic = "misery link stereo cinnamon second rally lecture prepare stay daring have change";
+var mnemonic = "tumble evolve can harsh online retreat tragic figure render truly snack guitar";

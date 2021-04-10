@@ -1,1 +1,1 @@
-var mnemonic = "boring spread waste shy obscure fog volume sample gauge neutral assist account";
+var mnemonic = "snap story stairs practice whisper energy someone hill solution scrap feel hill";

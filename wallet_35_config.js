@@ -1,1 +1,1 @@
-var mnemonic = "opinion daughter quick trouble crazy utility flight reunion face alcohol segment unlock";
+var mnemonic = "kit game snap gauge trim metal vocal strong virus trophy congress liberty";

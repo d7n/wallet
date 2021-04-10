@@ -1,1 +1,1 @@
-var mnemonic = "payment antenna curve local ring supply oven shadow copper rival income sight";
+var mnemonic = "ginger wheat large hurt elevator carpet modify jealous coconut math oak gym";

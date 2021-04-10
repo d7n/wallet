@@ -1,1 +1,1 @@
-var mnemonic = "chalk kidney labor helmet rate draw brother flock twelve gown tackle plunge";
+var mnemonic = "alarm suit city walk dinner submit valley ticket dance abuse repeat attack";

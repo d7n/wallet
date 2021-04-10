@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow cube rule coral fly melody flat fiscal oxygen aware bicycle believe";
+var mnemonic = "crisp boost about drip concert ridge acid mechanic delay bullet noodle patch";

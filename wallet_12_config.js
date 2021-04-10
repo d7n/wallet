@@ -1,1 +1,1 @@
-var mnemonic = "very dash tooth awake anchor again fitness between loop script gap galaxy";
+var mnemonic = "win man category guilt slab mass enter fly lab expand actress reform";

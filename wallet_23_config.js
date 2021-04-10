@@ -1,1 +1,1 @@
-var mnemonic = "helmet busy spot property phrase joke ethics worth ride toilet found knife";
+var mnemonic = "video dish reject pitch cereal mouse country dawn asthma wrong wasp copy";

@@ -1,1 +1,1 @@
-var mnemonic = "nature metal day rabbit escape tumble stomach course art make anxiety april";
+var mnemonic = "sentence furnace mistake glass crucial fox since sustain want icon enrich task";

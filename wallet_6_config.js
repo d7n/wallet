@@ -1,1 +1,1 @@
-var mnemonic = "hood soup legal grief dolphin frequent autumn mule pipe heart picture secret";
+var mnemonic = "all fitness snap famous sand bicycle vendor conduct pet wire suggest sure";

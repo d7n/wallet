@@ -1,1 +1,1 @@
-var mnemonic = "you ski board ribbon video code tag pride then yellow gold fly";
+var mnemonic = "length lens combine type either better wise scissors sister garlic refuse tenant";

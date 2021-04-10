@@ -1,1 +1,1 @@
-var mnemonic = "vital arch weather decrease nut six receive jaguar issue ribbon trial since";
+var mnemonic = "chunk omit limb segment slot nut stamp remove seminar lottery badge season";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken glue very forest year trend steel guard immense else ten hold";
+var mnemonic = "entry cabbage auto position acid tongue mule bird melody industry better weasel";

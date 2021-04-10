@@ -1,1 +1,1 @@
-var mnemonic = "silver menu grab math vendor agree monkey battle crew sunny hair pink";
+var mnemonic = "broom rare leaf wear pattern region castle salad they erupt script sense";

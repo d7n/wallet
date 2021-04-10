@@ -1,1 +1,1 @@
-var mnemonic = "source birth kingdom correct render dizzy basket faint describe family around pulp";
+var mnemonic = "bind leave year tiny charge jeans twist giggle nice ill season when";

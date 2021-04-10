@@ -1,1 +1,1 @@
-var mnemonic = "limb kick add fork motion throw example fragile fade word scan midnight";
+var mnemonic = "october judge lock hidden defy muscle lady grid emerge main boat real";

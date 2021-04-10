@@ -1,1 +1,1 @@
-var mnemonic = "syrup carry cabin ketchup voyage car join sword exact depart crouch limb";
+var mnemonic = "turkey family cook panel stable crack distance betray place already ice chef";

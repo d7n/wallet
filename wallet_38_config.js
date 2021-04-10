@@ -1,1 +1,1 @@
-var mnemonic = "major ask dutch ensure federal toe fiscal split clarify rail maze pretty";
+var mnemonic = "useless person auction print head luggage eye hat abuse position inquiry flavor";

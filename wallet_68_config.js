@@ -1,1 +1,1 @@
-var mnemonic = "disease wide cook napkin enlist tired begin off bright dizzy kit decrease";
+var mnemonic = "opera weapon power atom okay eight swap swallow cup hand divert dismiss";

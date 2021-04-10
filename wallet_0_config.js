@@ -1,1 +1,1 @@
-var mnemonic = "doll screen open vendor emotion erode rival fragile mind wonder pluck bridge";
+var mnemonic = "truck shield stone owner absorb hub swear salad sign off proud keep";

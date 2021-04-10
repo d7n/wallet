@@ -1,1 +1,1 @@
-var mnemonic = "poet prepare heart lecture plate cause business ride foster donkey demise coach";
+var mnemonic = "dust six pig fiscal fortune shift pair scrap tunnel comfort nuclear choose";

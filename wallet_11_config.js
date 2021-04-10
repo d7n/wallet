@@ -1,1 +1,1 @@
-var mnemonic = "inflict solve salute rigid cricket expose shop start wagon assault maximum split";
+var mnemonic = "one forward thunder program scout reveal slot balcony inmate original rare advance";

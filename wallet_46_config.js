@@ -1,1 +1,1 @@
-var mnemonic = "print group decorate sibling comic setup frown never force cover panic trade";
+var mnemonic = "expand faculty deny monitor wave blush soap famous social side rely way";

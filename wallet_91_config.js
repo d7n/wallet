@@ -1,1 +1,1 @@
-var mnemonic = "spatial uniform pull scout champion keen pilot kid secret erase eagle inflict";
+var mnemonic = "roof liberty spike order casino enact collect evolve dad drip monitor kid";

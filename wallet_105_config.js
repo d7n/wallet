@@ -1,1 +1,1 @@
-var mnemonic = "cactus jewel chicken hamster butter upon warrior skull once black gesture tongue";
+var mnemonic = "width whip situate cluster sell daughter edit noble special cluster walk key";

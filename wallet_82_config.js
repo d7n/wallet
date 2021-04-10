@@ -1,1 +1,1 @@
-var mnemonic = "about fragile drop music gadget turkey paper boring essay design caution coffee";
+var mnemonic = "flavor prize planet one airport junk bar churn tilt old tattoo bridge";

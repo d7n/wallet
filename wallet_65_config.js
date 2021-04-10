@@ -1,1 +1,1 @@
-var mnemonic = "quarter brass mimic catch myself connect clump erode plunge warfare alcohol sense";
+var mnemonic = "organ lady barrel child pink mom urban anchor gate smoke wet diary";

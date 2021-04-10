@@ -1,1 +1,1 @@
-var mnemonic = "laptop begin begin gasp erode jewel okay spell scan rifle enforce mandate";
+var mnemonic = "mad scare misery glide push remember patch pistol iron forward run tool";

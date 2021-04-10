@@ -1,1 +1,1 @@
-var mnemonic = "net cat prevent taxi solution banana chapter scale satisfy scissors excuse rough";
+var mnemonic = "base employ project document poverty salmon senior stable minor present response garment";

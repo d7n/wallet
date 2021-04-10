@@ -1,1 +1,1 @@
-var mnemonic = "coral skin rough make hundred visual arch neglect wish income nose equip";
+var mnemonic = "goose donate time barely bargain culture rapid dad raven text achieve ticket";

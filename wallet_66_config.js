@@ -1,1 +1,1 @@
-var mnemonic = "magnet now execute ginger indoor mansion certain orphan this ticket cup axis";
+var mnemonic = "before spring pear job whale verify alert ring width vicious mean cheap";

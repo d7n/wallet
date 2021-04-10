@@ -1,1 +1,1 @@
-var mnemonic = "acid marble dinner sentence example drop wine verb stool rent segment coral";
+var mnemonic = "position waste join ecology lottery dad jacket gap surprise fiber three crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "rich weasel tennis notable speak mercy skirt clown enhance delay knock critic";
+var mnemonic = "behind lady effort copper else canoe reduce half elbow super rural rookie";

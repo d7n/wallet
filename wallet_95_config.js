@@ -1,1 +1,1 @@
-var mnemonic = "disorder adapt cloth bid confirm crime drift news leg sport else obscure";
+var mnemonic = "alert motor insect minimum legend invite beef cannon law limb maximum shadow";

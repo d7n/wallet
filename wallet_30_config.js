@@ -1,1 +1,1 @@
-var mnemonic = "laugh truly depend stay worry tunnel sniff season clerk aisle desk tail";
+var mnemonic = "hold kingdom can edge awkward puppy ill hero traffic loop bless ladder";

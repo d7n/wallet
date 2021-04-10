@@ -1,1 +1,1 @@
-var mnemonic = "wish voice crime hunt stone cable increase crime actor bleak boy silver";
+var mnemonic = "aware owner come ice horror liar disease satisfy left solar movie enough";

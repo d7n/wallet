@@ -1,1 +1,1 @@
-var mnemonic = "field device around bronze arrange orient phone attitude timber clog pencil lens";
+var mnemonic = "segment alter portion fragile slice early uphold way confirm acoustic crouch olympic";

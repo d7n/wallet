@@ -1,1 +1,1 @@
-var mnemonic = "work pupil alley fence round circle balcony village end blood faculty sustain";
+var mnemonic = "kiwi harsh clean giraffe color leisure alter hold timber cloth erase during";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer rocket snap barely basket solution horse hurt script kingdom insane under";
+var mnemonic = "reunion hungry security pulp fish barely biology rotate scene sweet elevator around";

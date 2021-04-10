@@ -1,1 +1,1 @@
-var mnemonic = "border arrange lunch panic woman normal inherit speak head purpose idea deal";
+var mnemonic = "upper whale used young mean deny grass call note antique emerge word";

@@ -1,1 +1,1 @@
-var mnemonic = "fan fluid logic coffee company grant weapon robust option window conduct magnet";
+var mnemonic = "priority equip broccoli mosquito era dizzy coral interest tool answer tonight apart";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon seminar lumber coil debate model peanut pottery future finger ceiling march";
+var mnemonic = "security stadium identify exhibit vast nasty copy oven because turtle tourist question";

@@ -1,1 +1,1 @@
-var mnemonic = "clap holiday ivory vault muscle correct volume sight hunt help chair close";
+var mnemonic = "trust proud cereal top income lava side puzzle moral rebuild turtle diamond";

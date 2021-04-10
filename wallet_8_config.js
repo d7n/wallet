@@ -1,1 +1,1 @@
-var mnemonic = "cake junior gap lock bridge pupil damp fatigue they picnic grid young";
+var mnemonic = "two flee aisle cloud fluid goddess swing swear client accuse shock carbon";

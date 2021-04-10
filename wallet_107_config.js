@@ -1,1 +1,1 @@
-var mnemonic = "outer park syrup ancient weird twelve blood verify august web announce maid";
+var mnemonic = "laptop hand merry theory pattern poet supreme faith claw cushion hint case";

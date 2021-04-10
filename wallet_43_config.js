@@ -1,1 +1,1 @@
-var mnemonic = "urge merry child draw diet better brain atom suggest jaguar vocal brisk";
+var mnemonic = "mirror turkey trip castle inject exit boil punch weasel wide grass dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "slam father around deer vanish thing sister neck stay fortune episode sea";
+var mnemonic = "breeze swear monitor sentence valve reduce slender tenant forest truck trigger awesome";

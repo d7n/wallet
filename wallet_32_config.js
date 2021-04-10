@@ -1,1 +1,1 @@
-var mnemonic = "craft airport fit leaf giant size physical home size few aim pride";
+var mnemonic = "weekend miracle brave draft vendor boring blade decrease bubble scale desert scout";

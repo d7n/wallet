@@ -1,1 +1,1 @@
-var mnemonic = "cage fork thrive buffalo frown cabin yard wisdom roast answer just pencil";
+var mnemonic = "click much olympic kidney fringe utility ill lion east mixed market three";

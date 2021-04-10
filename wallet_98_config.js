@@ -1,1 +1,1 @@
-var mnemonic = "endorse cliff envelope stuff robot aerobic wash bid make deny express forest";
+var mnemonic = "visual game rose seminar series monkey person duck chicken safe wasp december";

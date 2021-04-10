@@ -1,1 +1,1 @@
-var mnemonic = "beef kiss coyote egg quarter pill jungle aware knock casino source dilemma";
+var mnemonic = "chicken dry amazing cement company silk jelly slab affair rude kite trap";

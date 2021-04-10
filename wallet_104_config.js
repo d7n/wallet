@@ -1,1 +1,1 @@
-var mnemonic = "never era captain brown crater evolve boy program turn rare jeans valley";
+var mnemonic = "uphold witness keen pencil relax image major excuse census salute eagle excite";

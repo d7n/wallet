@@ -1,1 +1,1 @@
-var mnemonic = "seven hire cabbage loyal young hungry sadness decorate submit stairs ranch spend";
+var mnemonic = "ivory soft little vendor this pear river fashion sketch time private unveil";
