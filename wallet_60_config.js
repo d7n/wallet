@@ -1,1 +1,1 @@
-var mnemonic = "seat climb crumble jelly youth arrange phrase enjoy bicycle cereal aware open";
+var mnemonic = "chef erosion kite brick hungry elephant audit oyster salt kingdom fossil point";

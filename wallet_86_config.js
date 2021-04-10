@@ -1,1 +1,1 @@
-var mnemonic = "bacon rate gaze degree burst fat inflict usage nephew hill dirt lecture";
+var mnemonic = "gadget alley hungry until infant stay inner panic planet leisure master fortune";

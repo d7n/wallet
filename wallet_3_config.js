@@ -1,1 +1,1 @@
-var mnemonic = "label silk result muffin brother awake chair boring enact market raise crunch";
+var mnemonic = "cotton one dog attend employ more maximum fatal perfect general chair hope";

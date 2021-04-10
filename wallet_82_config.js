@@ -1,1 +1,1 @@
-var mnemonic = "fame edge broccoli arrest unhappy resource satisfy elbow swarm elevator symbol wagon";
+var mnemonic = "expand thought eagle screen city more slush ribbon advance road delay zone";

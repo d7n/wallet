@@ -1,1 +1,1 @@
-var mnemonic = "brief magic crush card tortoise flee myth naive artefact claim chief wear";
+var mnemonic = "chimney dash board gate stumble finger muffin tuition element term donkey crisp";

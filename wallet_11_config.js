@@ -1,1 +1,1 @@
-var mnemonic = "shiver area cruel shoulder cruise device rather banana two peasant gauge put";
+var mnemonic = "feed path extra film tooth ill hello miracle alone figure oyster hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "predict subway metal crop torch deny lift review lens scatter crater fruit";
+var mnemonic = "foil athlete jewel trust leave liberty bounce assume push poet during suggest";

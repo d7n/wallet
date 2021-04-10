@@ -1,1 +1,1 @@
-var mnemonic = "green slot team uncle evil gather luggage rhythm cloud barely tenant stable";
+var mnemonic = "churn stable cash praise extend mother child since print guess color spirit";

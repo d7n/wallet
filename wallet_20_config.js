@@ -1,1 +1,1 @@
-var mnemonic = "chaos job seed lava tip kitchen know cake token young ivory album";
+var mnemonic = "egg wet sleep brush result small awake fee fantasy scatter ocean second";

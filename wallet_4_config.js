@@ -1,1 +1,1 @@
-var mnemonic = "fly group cry fossil pause prize danger comic beyond elbow dignity margin";
+var mnemonic = "wet soap galaxy vanish shell odor lunar found seek near public cabin";

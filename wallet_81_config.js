@@ -1,1 +1,1 @@
-var mnemonic = "tilt express price zoo hungry purpose floor ten need swear rubber focus";
+var mnemonic = "mix clap garbage ginger strike virus deputy harsh laptop honey diary trouble";

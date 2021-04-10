@@ -1,1 +1,1 @@
-var mnemonic = "glare harsh comic alcohol dolphin good net sand again toast remind plunge";
+var mnemonic = "fun horse portion oxygen heart buddy laugh mobile peace bind electric marble";

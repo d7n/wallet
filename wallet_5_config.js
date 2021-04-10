@@ -1,1 +1,1 @@
-var mnemonic = "cousin tool hawk right olive core amateur lunch account tilt similar latin";
+var mnemonic = "hover sniff brand permit program this motor cherry keep excuse catch question";

@@ -1,1 +1,1 @@
-var mnemonic = "merry city clarify slush dream brand dynamic front suit eagle govern strike";
+var mnemonic = "quality scorpion street soldier lobster rescue brass latin powder between royal absorb";

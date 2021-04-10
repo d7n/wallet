@@ -1,1 +1,1 @@
-var mnemonic = "stage script device matrix kit satoshi wave prize forest foil nation fame";
+var mnemonic = "wish moment fruit use anger inner oak zone used scorpion guess gate";

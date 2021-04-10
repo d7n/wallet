@@ -1,1 +1,1 @@
-var mnemonic = "deposit soldier upper author excite open hello mix code useful midnight stool";
+var mnemonic = "wolf limit spread anchor sugar wheel ketchup year mask dolphin lumber ivory";

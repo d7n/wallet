@@ -1,1 +1,1 @@
-var mnemonic = "buffalo wife anxiety pudding until fall sense around exile gather used winter";
+var mnemonic = "approve achieve omit push camera oxygen deliver puppy wet tent wise bundle";

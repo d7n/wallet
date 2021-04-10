@@ -1,1 +1,1 @@
-var mnemonic = "gym bachelor nature lady apple carbon lava dinosaur blue stone gallery tape";
+var mnemonic = "sad dance crawl crane vehicle tobacco upset tongue save kit deer erase";

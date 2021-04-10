@@ -1,1 +1,1 @@
-var mnemonic = "gym hello silly electric van maximum food aim reason pumpkin snake judge";
+var mnemonic = "cross course accident proud opinion domain alley love tell wage leisure priority";

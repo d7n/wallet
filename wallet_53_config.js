@@ -1,1 +1,1 @@
-var mnemonic = "enact autumn inflict bonus obvious fire elevator skate cute replace allow position";
+var mnemonic = "insect when deputy endless trap gym eye credit corn trial beef need";

@@ -1,1 +1,1 @@
-var mnemonic = "pact limb bulk limb discover knock swallow inject warrior toddler draw where";
+var mnemonic = "jazz icon book stadium myth drive giggle hair solution affair square bronze";

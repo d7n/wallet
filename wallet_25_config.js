@@ -1,1 +1,1 @@
-var mnemonic = "trumpet pepper allow term office poem strong bind ramp myself season foot";
+var mnemonic = "reward surface notable surprise raccoon equal day utility unhappy finish sweet style";

@@ -1,1 +1,1 @@
-var mnemonic = "write faith ten right capital vacant napkin there sudden oven shell balcony";
+var mnemonic = "column pencil invest reduce social cancel post attitude either rebuild gift swallow";

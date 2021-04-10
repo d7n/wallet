@@ -1,1 +1,1 @@
-var mnemonic = "affair sock category sense kiwi clever tongue carpet alpha battle twice breeze";
+var mnemonic = "senior aisle become deny domain flee boring idea history behind execute town";

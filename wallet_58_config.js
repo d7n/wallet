@@ -1,1 +1,1 @@
-var mnemonic = "infant suffer assist dinosaur umbrella omit become fiction invest tourist traffic peace";
+var mnemonic = "carry shrimp effort tail weather reveal venture rack mean output empty stick";

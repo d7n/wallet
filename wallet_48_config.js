@@ -1,1 +1,1 @@
-var mnemonic = "worry file length first maple sock during twist scan jaguar custom rebuild";
+var mnemonic = "sea seat update window above sick hover bread unfold pair drop rude";

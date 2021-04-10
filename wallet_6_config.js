@@ -1,1 +1,1 @@
-var mnemonic = "buddy improve escape name vicious mind liquid meat diagram grace emotion aware";
+var mnemonic = "apple amateur gallery abstract bitter east option dove wagon apple romance client";

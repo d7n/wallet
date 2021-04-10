@@ -1,1 +1,1 @@
-var mnemonic = "better example spell best slow cat practice result vapor differ motion black";
+var mnemonic = "metal embody mule borrow chicken scorpion life pole dose under cigar oblige";

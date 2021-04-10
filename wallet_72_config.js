@@ -1,1 +1,1 @@
-var mnemonic = "south call enroll sleep survey never coin portion quit smile faculty rival";
+var mnemonic = "skull legend protect scale among misery input symptom program okay hedgehog speed";

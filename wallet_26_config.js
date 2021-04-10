@@ -1,1 +1,1 @@
-var mnemonic = "truck gate wild foam elbow dilemma nest attend hero source bring scorpion";
+var mnemonic = "senior antenna invest fence recall move elephant breeze symbol say scorpion local";

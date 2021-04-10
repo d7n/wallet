@@ -1,1 +1,1 @@
-var mnemonic = "inquiry rabbit hammer denial track rain pattern maid suggest borrow assume bullet";
+var mnemonic = "merge icon duck scout budget panic rebuild shield smile fortune foil cabbage";

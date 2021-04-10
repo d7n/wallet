@@ -1,1 +1,1 @@
-var mnemonic = "mix adjust salon mouse case surprise other stereo border couple bleak crop";
+var mnemonic = "december receive fiction taxi story bless grape cannon ketchup deal connect project";

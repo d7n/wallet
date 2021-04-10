@@ -1,1 +1,1 @@
-var mnemonic = "curve angry option proud square defense blind approve uncle key slab shrug";
+var mnemonic = "net clip pigeon fatigue pair merit gauge brush bench apart theme shell";

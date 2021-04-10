@@ -1,1 +1,1 @@
-var mnemonic = "layer oak spoon unable pattern can couple deny devote method express clip";
+var mnemonic = "wool disease address banana fiscal just pepper move reopen convince glide mansion";

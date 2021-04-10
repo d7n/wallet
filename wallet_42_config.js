@@ -1,1 +1,1 @@
-var mnemonic = "fatal loud identify name mimic hope lawn ride devote plug today lecture";
+var mnemonic = "volcano tomato own gown fitness rigid verb curtain tongue label lens trial";

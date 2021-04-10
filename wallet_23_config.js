@@ -1,1 +1,1 @@
-var mnemonic = "trigger clinic top vacant exit damp address picture trouble funny arm fall";
+var mnemonic = "never ordinary manual proud child strong alpha siren addict lobster day equal";

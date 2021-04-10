@@ -1,1 +1,1 @@
-var mnemonic = "fold disorder enemy ahead attack upper pass hover spring wet bundle young";
+var mnemonic = "alert vote trick waste mimic satoshi wait enough kitchen inherit icon stove";

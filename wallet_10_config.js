@@ -1,1 +1,1 @@
-var mnemonic = "idle subject ostrich zone slab trick asset afraid vacuum dice aware surface";
+var mnemonic = "hybrid level furnace private degree elbow nephew agent sample marine blush female";

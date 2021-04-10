@@ -1,1 +1,1 @@
-var mnemonic = "broccoli glad scan stumble lift orient margin cactus report undo birth close";
+var mnemonic = "leave enhance uniform unveil spray access round album team creek soap three";

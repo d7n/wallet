@@ -1,1 +1,1 @@
-var mnemonic = "cigar slide title leopard obvious unknown latin addict lemon open town smooth";
+var mnemonic = "target web afford arrange syrup frequent effort enrich warfare thrive soup modify";

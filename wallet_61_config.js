@@ -1,1 +1,1 @@
-var mnemonic = "toast bitter width cheap hundred alien opinion tool phrase broccoli cable woman";
+var mnemonic = "canoe toss script renew daring junior oak tank doctor air client skirt";

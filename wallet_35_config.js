@@ -1,1 +1,1 @@
-var mnemonic = "matrix domain window top pistol quit filter alpha winner actual ethics people";
+var mnemonic = "music cost ozone rib brick cinnamon comfort borrow cereal common someone age";

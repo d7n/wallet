@@ -1,1 +1,1 @@
-var mnemonic = "choose burger journey flower hazard cousin dismiss foil assault document essay brief";
+var mnemonic = "horn elegant measure fluid shaft crawl alarm thank trick acid blur over";

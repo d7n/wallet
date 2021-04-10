@@ -1,1 +1,1 @@
-var mnemonic = "home security verify upgrade broom expect paper barely column already later salon";
+var mnemonic = "flight slender okay avocado sketch chapter sorry fabric march seed mother alarm";

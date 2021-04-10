@@ -1,1 +1,1 @@
-var mnemonic = "sponsor mesh strike click defense sweet give average hunt argue swift ramp";
+var mnemonic = "remember solve magnet proud shove romance fatigue valve derive hawk speak sustain";

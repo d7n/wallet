@@ -1,1 +1,1 @@
-var mnemonic = "letter entire vendor bamboo pretty galaxy bridge solar smoke parade direct outside";
+var mnemonic = "build pottery illegal blade must tennis reduce name ozone kit month afraid";

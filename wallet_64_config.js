@@ -1,1 +1,1 @@
-var mnemonic = "glass eager panther power bike egg rebel stove frog sun account artwork";
+var mnemonic = "empty useful question pipe gap smile dose neutral luggage sail candy reward";

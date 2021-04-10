@@ -1,1 +1,1 @@
-var mnemonic = "air verify grain bachelor swamp clog fatal off elder desert demand wall";
+var mnemonic = "pipe pass flag input garage shoe still bulb air help little voice";

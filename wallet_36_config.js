@@ -1,1 +1,1 @@
-var mnemonic = "tortoise neither city soap fly rocket minute month nothing inhale drop muscle";
+var mnemonic = "nest jump push author casino sword credit select worry fan bulk trick";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial gospel panda nation help affair because infant gown top around fabric";
+var mnemonic = "social wolf law blouse loud century miss copper hello calm vote burger";

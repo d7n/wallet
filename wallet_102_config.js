@@ -1,1 +1,1 @@
-var mnemonic = "witness horse attack wagon damp rice toe among language amused bracket employ";
+var mnemonic = "coast must joy tent oak cat index dutch element enter twenty cost";

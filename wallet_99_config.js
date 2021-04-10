@@ -1,1 +1,1 @@
-var mnemonic = "pet benefit aerobic surprise toast bounce bench zero cube major april story";
+var mnemonic = "roof illegal steel inmate attend chaos arrest umbrella make gaze replace dog";

@@ -1,1 +1,1 @@
-var mnemonic = "concert enrich spell tank cushion erase control route snake bind injury gadget";
+var mnemonic = "rate rubber pave claw surround verb anchor crane miracle gas fever snap";

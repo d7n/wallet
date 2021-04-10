@@ -1,1 +1,1 @@
-var mnemonic = "soul orchard paddle marble apple scrap tunnel close profit behave crouch spin";
+var mnemonic = "awkward spawn later myth calm repeat insect own horror panda cliff mask";

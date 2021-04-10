@@ -1,1 +1,1 @@
-var mnemonic = "coin wagon marble vacuum increase laugh disorder palm price stone kidney palace";
+var mnemonic = "cruel arena tiger soon exist midnight canal hammer art gap pill actress";

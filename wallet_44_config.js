@@ -1,1 +1,1 @@
-var mnemonic = "exist warm wall scare dog wagon history odor lumber cheese decade vague";
+var mnemonic = "riot burger labor peanut behind crawl climb trap wagon poet hood behind";

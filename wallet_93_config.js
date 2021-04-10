@@ -1,1 +1,1 @@
-var mnemonic = "message blanket drip error best series material ghost rotate brush drill silver";
+var mnemonic = "connect reflect wrist tone hidden science heart reopen fetch armor virtual convince";

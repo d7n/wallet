@@ -1,1 +1,1 @@
-var mnemonic = "decrease wine mother outdoor glide win tree faculty tunnel viable clump aisle";
+var mnemonic = "profit force coast memory giggle gallery cross desk cattle gasp ghost vendor";

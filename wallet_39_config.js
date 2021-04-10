@@ -1,1 +1,1 @@
-var mnemonic = "cup kitchen fix manual lunch hollow cactus tribe field rapid salt gym";
+var mnemonic = "weapon proud attend rally increase tag reason fatigue fold people antenna dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol security drama during deal gesture clever resemble cost loyal impact bacon";
+var mnemonic = "ability viable betray similar lucky ahead tourist farm satoshi coil match know";

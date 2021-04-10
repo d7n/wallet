@@ -1,1 +1,1 @@
-var mnemonic = "equal remind fame endorse embrace genius any top meadow recipe naive food";
+var mnemonic = "tongue rely hotel almost ankle alcohol draft rule aisle wasp chase exercise";

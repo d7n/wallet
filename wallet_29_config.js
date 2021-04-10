@@ -1,1 +1,1 @@
-var mnemonic = "pyramid term blur satisfy zero zoo dove hurt devote best use immense";
+var mnemonic = "acquire jewel scout edge since stumble glimpse filter dignity language young response";

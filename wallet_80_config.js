@@ -1,1 +1,1 @@
-var mnemonic = "assume resemble meadow multiply gaze awesome capital welcome display fiction shell sea";
+var mnemonic = "brief source chicken trouble response source garage jealous brain slow office galaxy";

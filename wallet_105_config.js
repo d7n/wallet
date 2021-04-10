@@ -1,1 +1,1 @@
-var mnemonic = "consider return kangaroo number barrel myself million rough correct talk alcohol come";
+var mnemonic = "pulp kid symptom side breeze menu track banner renew script country gas";

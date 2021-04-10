@@ -1,1 +1,1 @@
-var mnemonic = "middle aware define crop seek destroy mule race believe sure tobacco emotion";
+var mnemonic = "whisper seven process harbor cost keen transfer property visa hollow matrix run";

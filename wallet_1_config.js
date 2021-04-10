@@ -1,1 +1,1 @@
-var mnemonic = "slam hurt answer sunset fancy inside front task soul wage orphan action";
+var mnemonic = "patch cattle fresh sun bitter weird onion throw public insane already flavor";

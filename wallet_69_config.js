@@ -1,1 +1,1 @@
-var mnemonic = "cherry unveil height physical toss crawl clerk gift theme wing detail donor";
+var mnemonic = "siren boy today ignore valid benefit venture elbow observe donor wheat ski";

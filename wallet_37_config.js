@@ -1,1 +1,1 @@
-var mnemonic = "bulb used choice page spoon chair receive bargain brain cute gain update";
+var mnemonic = "speed profit asset coin festival destroy result ugly lizard unaware science nest";

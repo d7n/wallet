@@ -1,1 +1,1 @@
-var mnemonic = "few era diamond oak tower stay junk emerge know elder crime repeat";
+var mnemonic = "curtain scatter supply merge angry curious animal daughter gorilla blouse shoot wheat";

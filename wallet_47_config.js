@@ -1,1 +1,1 @@
-var mnemonic = "elephant boy mansion alert aerobic pupil collect update kitchen sense grocery under";
+var mnemonic = "dismiss come cable club pull pull civil bone eager flock innocent bleak";

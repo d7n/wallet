@@ -1,1 +1,1 @@
-var mnemonic = "tail pipe chicken pool twin evil pave video army job couch craft";
+var mnemonic = "alone involve onion man across sunny blossom visual police scatter arrow offer";

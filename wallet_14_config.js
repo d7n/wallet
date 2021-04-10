@@ -1,1 +1,1 @@
-var mnemonic = "bag more upgrade stage common left patrol grace cluster select believe spawn";
+var mnemonic = "drama gospel practice dash leisure fault bubble distance company action anchor educate";

@@ -1,1 +1,1 @@
-var mnemonic = "worth entire knife music guard thought lazy credit danger shoe magic quantum";
+var mnemonic = "guard siren word picture journey consider color lab measure tourist transfer rate";

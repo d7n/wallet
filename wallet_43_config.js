@@ -1,1 +1,1 @@
-var mnemonic = "always chalk garage olympic weird harsh aim spare wife box stove aerobic";
+var mnemonic = "joy load bubble soda spin spot identify category story mask judge floor";

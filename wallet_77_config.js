@@ -1,1 +1,1 @@
-var mnemonic = "antique ceiling clown battle language motor bracket resist clarify intact blanket dog";
+var mnemonic = "exit oak wheel embrace cousin outdoor glove great unhappy barely toddler gadget";

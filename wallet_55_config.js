@@ -1,1 +1,1 @@
-var mnemonic = "kingdom fatal warfare group obey business impose tell ecology neglect dawn distance";
+var mnemonic = "letter key capital suggest leopard maple attend blade vast ordinary helmet sight";

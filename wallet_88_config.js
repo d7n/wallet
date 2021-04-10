@@ -1,1 +1,1 @@
-var mnemonic = "spin tragic clap outside clutch salad wine climb shed festival flight stem";
+var mnemonic = "mango sauce end clever begin sunset business release glass defy cycle hurt";

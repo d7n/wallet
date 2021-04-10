@@ -1,1 +1,1 @@
-var mnemonic = "hint mystery foster chat dose stereo dismiss satisfy bridge nothing general beauty";
+var mnemonic = "rapid estate entry meat bacon truck rally match quarter damp host quarter";

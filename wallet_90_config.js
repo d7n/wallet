@@ -1,1 +1,1 @@
-var mnemonic = "close planet fade close wagon spy science author detect special fork beauty";
+var mnemonic = "orbit moral crack token pipe reform vocal hole crazy test human circle";

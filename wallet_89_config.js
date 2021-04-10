@@ -1,1 +1,1 @@
-var mnemonic = "toast pistol eyebrow useful verify sunny shoe employ submit slide zone turn";
+var mnemonic = "shell trap naive man wife cluster model space glance enough sample silly";

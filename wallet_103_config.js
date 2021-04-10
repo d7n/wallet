@@ -1,1 +1,1 @@
-var mnemonic = "strong target subway wrong menu knee mango trigger year cry admit winner";
+var mnemonic = "forest identify sort pelican lunch frog element rebel shove item clay faculty";

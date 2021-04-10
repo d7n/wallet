@@ -1,1 +1,1 @@
-var mnemonic = "law idea step escape roast cake tomato vivid brand neck faint finger";
+var mnemonic = "grass bulk rule excuse pink become share way poet drip denial yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "visa essay page grant tomorrow legend identify notable blush trip source cheese";
+var mnemonic = "rebel nasty pilot garlic glide abandon various dilemma quality dress visual void";

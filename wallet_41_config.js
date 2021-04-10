@@ -1,1 +1,1 @@
-var mnemonic = "crystal book cloth coach attract crane tired day assume click weasel label";
+var mnemonic = "sing evidence razor leisure cheese delay fire certain pact shed humble ticket";

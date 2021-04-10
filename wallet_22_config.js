@@ -1,1 +1,1 @@
-var mnemonic = "lion unhappy impose jaguar churn slide anxiety renew drum disagree picture among";
+var mnemonic = "sound expand piece again trial twice snack usual umbrella express gauge base";

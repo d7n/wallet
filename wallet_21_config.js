@@ -1,1 +1,1 @@
-var mnemonic = "toss turkey zone super recycle stadium chase boy weapon second crime gaze";
+var mnemonic = "cluster regret phone tonight alarm junk draw payment valley average ritual profit";

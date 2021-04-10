@@ -1,1 +1,1 @@
-var mnemonic = "talent shop mechanic gather ill vague traffic around method tomato escape orbit";
+var mnemonic = "learn globe shift merge easy excite brain sense plastic insect put news";
