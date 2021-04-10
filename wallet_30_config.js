@@ -1,1 +1,1 @@
-var mnemonic = "uncover vast vendor dose path unique meat august vibrant audit actress beyond";
+var mnemonic = "judge spirit bring detect circle key belt control silver pepper tortoise aspect";

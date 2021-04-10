@@ -1,1 +1,1 @@
-var mnemonic = "wife gown half food garbage page kiss multiply control pepper spawn surround";
+var mnemonic = "just include motion leaf giant found deny fluid metal note scatter film";

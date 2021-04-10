@@ -1,1 +1,1 @@
-var mnemonic = "foot trade tooth lake noble medal duty couple grace obvious master price";
+var mnemonic = "visa essay page grant tomorrow legend identify notable blush trip source cheese";

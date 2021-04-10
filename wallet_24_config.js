@@ -1,1 +1,1 @@
-var mnemonic = "weird helmet concert scrap cigar bronze glad toy hope want hurdle spare";
+var mnemonic = "deposit soldier upper author excite open hello mix code useful midnight stool";

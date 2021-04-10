@@ -1,1 +1,1 @@
-var mnemonic = "dawn cluster catch essence beyond solid hamster latin sea know bitter check";
+var mnemonic = "shiver area cruel shoulder cruise device rather banana two peasant gauge put";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster taxi burden infant school device morning such nasty pistol bulk square";
+var mnemonic = "strong target subway wrong menu knee mango trigger year cry admit winner";

@@ -1,1 +1,1 @@
-var mnemonic = "spring version where ski snack valley public domain neglect mystery sign health";
+var mnemonic = "coin wagon marble vacuum increase laugh disorder palm price stone kidney palace";

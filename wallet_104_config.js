@@ -1,1 +1,1 @@
-var mnemonic = "donor fiber ready blossom sudden town grow apart primary august final floor";
+var mnemonic = "then green month empty shell rely kitchen squirrel limit insect van pipe";

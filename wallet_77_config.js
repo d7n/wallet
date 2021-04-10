@@ -1,1 +1,1 @@
-var mnemonic = "inmate hungry bid project snow barely jar disease timber attitude abuse indoor";
+var mnemonic = "antique ceiling clown battle language motor bracket resist clarify intact blanket dog";

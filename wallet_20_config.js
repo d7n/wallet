@@ -1,1 +1,1 @@
-var mnemonic = "fitness age angle nerve second shoulder legal debris casino room prefer park";
+var mnemonic = "chaos job seed lava tip kitchen know cake token young ivory album";

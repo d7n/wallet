@@ -1,1 +1,1 @@
-var mnemonic = "omit brown shop snake sword online index battle rebuild nose wrong teach";
+var mnemonic = "green slot team uncle evil gather luggage rhythm cloud barely tenant stable";

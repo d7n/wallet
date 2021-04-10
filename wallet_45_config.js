@@ -1,1 +1,1 @@
-var mnemonic = "sugar develop between keep pledge exact riot job equal tomorrow impact tenant";
+var mnemonic = "cigar slide title leopard obvious unknown latin addict lemon open town smooth";

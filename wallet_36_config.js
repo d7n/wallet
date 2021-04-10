@@ -1,1 +1,1 @@
-var mnemonic = "tonight draw powder print hospital mule idea eye mother cage admit letter";
+var mnemonic = "tortoise neither city soap fly rocket minute month nothing inhale drop muscle";

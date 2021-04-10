@@ -1,1 +1,1 @@
-var mnemonic = "stove defense roast donate machine stadium pattern best fire cat door someone";
+var mnemonic = "trigger clinic top vacant exit damp address picture trouble funny arm fall";

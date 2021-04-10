@@ -1,1 +1,1 @@
-var mnemonic = "remind budget general marble start hungry jeans story evoke camp possible right";
+var mnemonic = "buffalo wife anxiety pudding until fall sense around exile gather used winter";

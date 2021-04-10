@@ -1,1 +1,1 @@
-var mnemonic = "sport bus copy island success wave model odor agent forget impose into";
+var mnemonic = "symbol security drama during deal gesture clever resemble cost loyal impact bacon";

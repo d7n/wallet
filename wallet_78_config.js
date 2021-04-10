@@ -1,1 +1,1 @@
-var mnemonic = "timber season seven crime board return witness odor rubber case cook gloom";
+var mnemonic = "fold disorder enemy ahead attack upper pass hover spring wet bundle young";

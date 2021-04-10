@@ -1,1 +1,1 @@
-var mnemonic = "tourist update scrub benefit gloom wife glory jeans today slush dynamic inner";
+var mnemonic = "first walk visit oblige lucky wreck receive prosper settle nature segment arrest";

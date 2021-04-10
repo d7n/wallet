@@ -1,1 +1,1 @@
-var mnemonic = "brown estate drop piece claim point auto ginger night network physical diesel";
+var mnemonic = "predict subway metal crop torch deny lift review lens scatter crater fruit";

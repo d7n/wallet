@@ -1,1 +1,1 @@
-var mnemonic = "confirm vessel soda knee divert child document stereo visual can feed tribe";
+var mnemonic = "ignore faith essence february wise grief surface century bright corn swim odor";

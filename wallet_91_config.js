@@ -1,1 +1,1 @@
-var mnemonic = "husband steak depth moon frequent define balcony rare switch tone screen loop";
+var mnemonic = "merry city clarify slush dream brand dynamic front suit eagle govern strike";

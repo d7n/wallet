@@ -1,1 +1,1 @@
-var mnemonic = "shield source section auction hard into fetch lemon chicken leopard thumb cook";
+var mnemonic = "tail pipe chicken pool twin evil pave video army job couch craft";

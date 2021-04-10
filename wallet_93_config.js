@@ -1,1 +1,1 @@
-var mnemonic = "town wing crowd system travel pioneer bounce primary awful domain hurt lake";
+var mnemonic = "message blanket drip error best series material ghost rotate brush drill silver";

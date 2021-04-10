@@ -1,1 +1,1 @@
-var mnemonic = "fetch match circle opinion prosper drift twenty observe media picture sure easily";
+var mnemonic = "toast pistol eyebrow useful verify sunny shoe employ submit slide zone turn";

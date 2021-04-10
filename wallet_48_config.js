@@ -1,1 +1,1 @@
-var mnemonic = "borrow damage clean rubber better wheel reopen joke saddle lottery begin bargain";
+var mnemonic = "worry file length first maple sock during twist scan jaguar custom rebuild";

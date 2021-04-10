@@ -1,1 +1,1 @@
-var mnemonic = "glance later blossom dragon deal vapor foot series offer unveil cloud twenty";
+var mnemonic = "air verify grain bachelor swamp clog fatal off elder desert demand wall";

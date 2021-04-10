@@ -1,1 +1,1 @@
-var mnemonic = "alien fun offer oblige plunge alpha pig junior pulp pistol acid luggage";
+var mnemonic = "pact limb bulk limb discover knock swallow inject warrior toddler draw where";

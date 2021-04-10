@@ -1,1 +1,1 @@
-var mnemonic = "bubble benefit fiction anxiety normal curious shy agree correct net code identify";
+var mnemonic = "liberty rhythm warrior phrase grief pass chase certain title orient trash access";

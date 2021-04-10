@@ -1,1 +1,1 @@
-var mnemonic = "inflict convince diagram fun smoke cook that believe thrive shine solar start";
+var mnemonic = "decrease wine mother outdoor glide win tree faculty tunnel viable clump aisle";

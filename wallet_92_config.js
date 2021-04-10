@@ -1,1 +1,1 @@
-var mnemonic = "bicycle gun year stock emotion maximum fluid view version volume this elephant";
+var mnemonic = "talent shop mechanic gather ill vague traffic around method tomato escape orbit";

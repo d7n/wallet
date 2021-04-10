@@ -1,1 +1,1 @@
-var mnemonic = "drink receive tiger save please rose south two scout normal end stone";
+var mnemonic = "bacon rate gaze degree burst fat inflict usage nephew hill dirt lecture";

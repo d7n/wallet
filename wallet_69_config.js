@@ -1,1 +1,1 @@
-var mnemonic = "amused fragile jealous dumb certain harsh era lemon raven choose gold brick";
+var mnemonic = "cherry unveil height physical toss crawl clerk gift theme wing detail donor";

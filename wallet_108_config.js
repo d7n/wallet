@@ -1,1 +1,1 @@
-var mnemonic = "local good boss model help range snake evil domain pulp invest squeeze";
+var mnemonic = "layer oak spoon unable pattern can couple deny devote method express clip";

@@ -1,1 +1,1 @@
-var mnemonic = "beach energy absent wood twice mixed math happy bone praise inquiry random";
+var mnemonic = "always lens arch crawl maid absorb consider estate garage loud wait salon";

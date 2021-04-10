@@ -1,1 +1,1 @@
-var mnemonic = "promote tell motor call seven gauge play alien neck lesson stock yard";
+var mnemonic = "powder enough album evidence rate acid service just tenant time side slot";

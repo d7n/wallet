@@ -1,1 +1,1 @@
-var mnemonic = "prefer august indicate install artist fit heart zoo beef wing festival elder";
+var mnemonic = "broccoli glad scan stumble lift orient margin cactus report undo birth close";

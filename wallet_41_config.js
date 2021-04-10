@@ -1,1 +1,1 @@
-var mnemonic = "float viable derive submit birth sadness snow organ bird flash extend siege";
+var mnemonic = "crystal book cloth coach attract crane tired day assume click weasel label";

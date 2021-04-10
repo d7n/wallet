@@ -1,1 +1,1 @@
-var mnemonic = "hungry speak original raw sound day cute enact juice nice judge cash";
+var mnemonic = "series purity also animal blush enroll shoot luxury two decorate pool mystery";

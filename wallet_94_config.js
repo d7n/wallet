@@ -1,1 +1,1 @@
-var mnemonic = "escape drop brown oblige hand little turkey face kangaroo zebra tomorrow color";
+var mnemonic = "glare harsh comic alcohol dolphin good net sand again toast remind plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust dance west carry aisle shoe soccer ordinary promote mix during join";
+var mnemonic = "matrix domain window top pistol quit filter alpha winner actual ethics people";

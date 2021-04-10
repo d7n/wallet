@@ -1,1 +1,1 @@
-var mnemonic = "upgrade toss confirm engage draft loop example key couple seven shoulder never";
+var mnemonic = "idle subject ostrich zone slab trick asset afraid vacuum dice aware surface";

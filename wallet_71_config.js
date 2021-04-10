@@ -1,1 +1,1 @@
-var mnemonic = "ribbon tip slow subject limb credit diamond hour upon purity fish dress";
+var mnemonic = "man emotion spike vivid stay little daring sail room mask monkey brain";

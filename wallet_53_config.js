@@ -1,1 +1,1 @@
-var mnemonic = "walk era afraid chuckle pilot beyond turn orchard now hair capable tomato";
+var mnemonic = "enact autumn inflict bonus obvious fire elevator skate cute replace allow position";

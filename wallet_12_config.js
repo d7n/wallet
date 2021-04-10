@@ -1,1 +1,1 @@
-var mnemonic = "rose soldier walnut differ nuclear paper program cement wolf palm bless candy";
+var mnemonic = "gym bachelor nature lady apple carbon lava dinosaur blue stone gallery tape";

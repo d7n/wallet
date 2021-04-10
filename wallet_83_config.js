@@ -1,1 +1,1 @@
-var mnemonic = "put siege sun claim tide inquiry below price heavy lyrics above drive";
+var mnemonic = "affair sock category sense kiwi clever tongue carpet alpha battle twice breeze";

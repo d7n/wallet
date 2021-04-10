@@ -1,1 +1,1 @@
-var mnemonic = "off shadow luggage angry bullet copper imitate behind volcano wool cattle indoor";
+var mnemonic = "trumpet pepper allow term office poem strong bind ramp myself season foot";

@@ -1,1 +1,1 @@
-var mnemonic = "unit pride scissors upset analyst cousin eager rather deliver fringe deposit guide";
+var mnemonic = "toast bitter width cheap hundred alien opinion tool phrase broccoli cable woman";

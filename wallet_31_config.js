@@ -1,1 +1,1 @@
-var mnemonic = "worth turkey process still convince kiss remind surprise unknown snake oppose speak";
+var mnemonic = "middle aware define crop seek destroy mule race believe sure tobacco emotion";

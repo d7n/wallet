@@ -1,1 +1,1 @@
-var mnemonic = "exhibit artist busy tourist moon swallow ankle able east proud coconut jelly";
+var mnemonic = "riot butter swing fruit business citizen nothing cram ginger include approve manual";

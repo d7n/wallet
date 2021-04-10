@@ -1,1 +1,1 @@
-var mnemonic = "absorb indoor bitter host change fun hybrid transfer unusual buddy unveil brain";
+var mnemonic = "infant suffer assist dinosaur umbrella omit become fiction invest tourist traffic peace";

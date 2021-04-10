@@ -1,1 +1,1 @@
-var mnemonic = "mistake height vanish cargo witness undo truck identify rude kite bid fly";
+var mnemonic = "law idea step escape roast cake tomato vivid brand neck faint finger";

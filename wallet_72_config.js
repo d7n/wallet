@@ -1,1 +1,1 @@
-var mnemonic = "dragon start column there cram melt salon ladder acoustic ability pool quit";
+var mnemonic = "south call enroll sleep survey never coin portion quit smile faculty rival";

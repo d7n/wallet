@@ -1,1 +1,1 @@
-var mnemonic = "junior frost pluck steel library cabin duty carry trip muscle phrase foil";
+var mnemonic = "kingdom fatal warfare group obey business impose tell ecology neglect dawn distance";

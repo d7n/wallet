@@ -1,1 +1,1 @@
-var mnemonic = "board spider enlist absurd mule lawn member future reflect version inch access";
+var mnemonic = "better example spell best slow cat practice result vapor differ motion black";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge clinic glue repair alien father fade swift kid island balcony hour";
+var mnemonic = "buddy improve escape name vicious mind liquid meat diagram grace emotion aware";

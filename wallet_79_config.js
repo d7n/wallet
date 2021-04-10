@@ -1,1 +1,1 @@
-var mnemonic = "laundry west shuffle dinosaur burst about behave north team sudden soldier decide";
+var mnemonic = "ten human speak six true client various ivory royal faith air clinic";

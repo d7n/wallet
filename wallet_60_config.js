@@ -1,1 +1,1 @@
-var mnemonic = "rocket unaware impact scorpion stick snake copper wet couple trash buyer snow";
+var mnemonic = "seat climb crumble jelly youth arrange phrase enjoy bicycle cereal aware open";

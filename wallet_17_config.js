@@ -1,1 +1,1 @@
-var mnemonic = "orient half mom evolve rabbit oxygen whale board fade cash lunch venture";
+var mnemonic = "hint mystery foster chat dose stereo dismiss satisfy bridge nothing general beauty";

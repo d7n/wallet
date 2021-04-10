@@ -1,1 +1,1 @@
-var mnemonic = "biology base hint curve eager sun mechanic unveil drink bean staff broom";
+var mnemonic = "setup child eyebrow approve feature puzzle gown dolphin amateur magnet fragile flock";

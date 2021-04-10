@@ -1,1 +1,1 @@
-var mnemonic = "hat arrest race chimney coral impulse answer catalog you worth remember act";
+var mnemonic = "bulb used choice page spoon chair receive bargain brain cute gain update";

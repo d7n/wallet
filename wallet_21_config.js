@@ -1,1 +1,1 @@
-var mnemonic = "dolphin man seed decide prevent hotel clip clarify shop profit gun february";
+var mnemonic = "toss turkey zone super recycle stadium chase boy weapon second crime gaze";

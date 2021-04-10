@@ -1,1 +1,1 @@
-var mnemonic = "model true spatial punch swamp gold tail ugly click swamp accident park";
+var mnemonic = "choose burger journey flower hazard cousin dismiss foil assault document essay brief";

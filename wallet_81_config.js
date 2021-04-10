@@ -1,1 +1,1 @@
-var mnemonic = "ability happy trial trap noble start place forum radio real series design";
+var mnemonic = "tilt express price zoo hungry purpose floor ten need swear rubber focus";

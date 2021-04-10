@@ -1,1 +1,1 @@
-var mnemonic = "hard tail usual pet please fantasy advice still wrestle turkey dynamic feature";
+var mnemonic = "cup kitchen fix manual lunch hollow cactus tribe field rapid salt gym";

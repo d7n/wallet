@@ -1,1 +1,1 @@
-var mnemonic = "ice medal bike drop wish keep piano shock praise slight river top";
+var mnemonic = "cousin tool hawk right olive core amateur lunch account tilt similar latin";

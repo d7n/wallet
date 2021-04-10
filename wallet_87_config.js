@@ -1,1 +1,1 @@
-var mnemonic = "nerve jungle jealous cricket outer chuckle merry camp avocado library pole add";
+var mnemonic = "language embark cat pupil vibrant way job size trial approve rate miss";

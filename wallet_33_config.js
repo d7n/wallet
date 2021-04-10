@@ -1,1 +1,1 @@
-var mnemonic = "cross educate exchange lucky warm coffee rescue month chronic kind argue split";
+var mnemonic = "under canvas renew aunt option dry wrap bonus vehicle domain sail typical";

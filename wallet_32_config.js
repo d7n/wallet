@@ -1,1 +1,1 @@
-var mnemonic = "balance turtle burger bus tone retire rib gown cable core bench harbor";
+var mnemonic = "write faith ten right capital vacant napkin there sudden oven shell balcony";

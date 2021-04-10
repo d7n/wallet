@@ -1,1 +1,1 @@
-var mnemonic = "abandon select retire person fade brave announce dolphin cattle draw output embody";
+var mnemonic = "scene volume liberty tornado solar fitness antenna shop enact few offer mechanic";

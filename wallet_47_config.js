@@ -1,1 +1,1 @@
-var mnemonic = "quality flag upper dry lumber copper zoo faculty fix rule gown actual";
+var mnemonic = "elephant boy mansion alert aerobic pupil collect update kitchen sense grocery under";

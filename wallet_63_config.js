@@ -1,1 +1,1 @@
-var mnemonic = "agent laptop siege pet monkey message afraid refuse swing clinic crane muscle";
+var mnemonic = "sponsor mesh strike click defense sweet give average hunt argue swift ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap crash obtain feed that bounce fuel jar fuel tiny mandate surround";
+var mnemonic = "curve angry option proud square defense blind approve uncle key slab shrug";

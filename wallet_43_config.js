@@ -1,1 +1,1 @@
-var mnemonic = "relax swear thunder promote dish praise turn erase seminar carbon ill today";
+var mnemonic = "always chalk garage olympic weird harsh aim spare wife box stove aerobic";

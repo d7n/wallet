@@ -1,1 +1,1 @@
-var mnemonic = "charge raven inch pull own potato example intact leave remove keep finish";
+var mnemonic = "exist warm wall scare dog wagon history odor lumber cheese decade vague";

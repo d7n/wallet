@@ -1,1 +1,1 @@
-var mnemonic = "easy sentence afraid female peace stuff end enough rapid door ride poem";
+var mnemonic = "brief magic crush card tortoise flee myth naive artefact claim chief wear";

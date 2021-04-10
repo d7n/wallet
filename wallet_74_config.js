@@ -1,1 +1,1 @@
-var mnemonic = "fog feature manage language modify voyage cook expose super gospel clever leisure";
+var mnemonic = "stage script device matrix kit satoshi wave prize forest foil nation fame";

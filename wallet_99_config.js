@@ -1,1 +1,1 @@
-var mnemonic = "fit anchor script next phone relief forget minimum crack beach monster hope";
+var mnemonic = "pet benefit aerobic surprise toast bounce bench zero cube major april story";

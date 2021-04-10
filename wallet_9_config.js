@@ -1,1 +1,1 @@
-var mnemonic = "castle cram kitten erode want churn imitate cradle extend economy wrestle replace";
+var mnemonic = "equal remind fame endorse embrace genius any top meadow recipe naive food";

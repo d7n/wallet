@@ -1,1 +1,1 @@
-var mnemonic = "time robot good ramp meadow marriage fox south output pyramid pudding word";
+var mnemonic = "pyramid term blur satisfy zero zoo dove hurt devote best use immense";

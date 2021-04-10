@@ -1,1 +1,1 @@
-var mnemonic = "slight caught distance tackle maple kid race occur lawsuit dynamic organ naive";
+var mnemonic = "ghost ecology border mother dizzy cigar smooth spider panel mushroom pull vessel";

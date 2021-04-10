@@ -1,1 +1,1 @@
-var mnemonic = "spoon grit verify alien ketchup bulb twice lonely trigger where rebel dynamic";
+var mnemonic = "label silk result muffin brother awake chair boring enact market raise crunch";

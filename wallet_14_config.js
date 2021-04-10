@@ -1,1 +1,1 @@
-var mnemonic = "trick tourist enact okay antenna shiver drama original blame shine door race";
+var mnemonic = "bag more upgrade stage common left patrol grace cluster select believe spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "above tissue acoustic dinosaur express prepare wolf skate gadget palm fruit snow";
+var mnemonic = "fame edge broccoli arrest unhappy resource satisfy elbow swarm elevator symbol wagon";

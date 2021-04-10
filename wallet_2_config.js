@@ -1,1 +1,1 @@
-var mnemonic = "switch firm notable clever edge lunch dawn guitar boil blanket upper income";
+var mnemonic = "inquiry rabbit hammer denial track rain pattern maid suggest borrow assume bullet";

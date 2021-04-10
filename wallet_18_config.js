@@ -1,1 +1,1 @@
-var mnemonic = "home save home interest become trash garment material lens heart oxygen tired";
+var mnemonic = "concert enrich spell tank cushion erase control route snake bind injury gadget";

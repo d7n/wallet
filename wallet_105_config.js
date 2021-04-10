@@ -1,1 +1,1 @@
-var mnemonic = "custom wait glue kit deny goddess increase rural document opinion divorce minimum";
+var mnemonic = "consider return kangaroo number barrel myself million rough correct talk alcohol come";

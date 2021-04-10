@@ -1,1 +1,1 @@
-var mnemonic = "water awake shaft chair weasel quarter home enhance few evidence expand problem";
+var mnemonic = "fatal loud identify name mimic hope lawn ride devote plug today lecture";

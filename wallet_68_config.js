@@ -1,1 +1,1 @@
-var mnemonic = "million sauce fall attract come boat permit risk shield crucial must flight";
+var mnemonic = "old exotic frown embark jar ribbon must combine emerge nurse weekend avocado";
