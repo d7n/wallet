@@ -1,1 +1,1 @@
-var mnemonic = "draw maximum crew prefer frog fortune pave feature length youth educate tuition";
+var mnemonic = "uncover vast vendor dose path unique meat august vibrant audit actress beyond";

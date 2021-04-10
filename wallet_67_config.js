@@ -1,1 +1,1 @@
-var mnemonic = "boy van subway mercy clock please story cram reject movie hire quote";
+var mnemonic = "certain clever logic scan moon art offer belt baby unique hole cage";

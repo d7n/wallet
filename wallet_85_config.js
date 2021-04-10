@@ -1,1 +1,1 @@
-var mnemonic = "supreme verify latin smile left bunker grid spread soup refuse autumn plastic";
+var mnemonic = "pause disagree amateur fossil wear fun income pilot snow wrong train celery";

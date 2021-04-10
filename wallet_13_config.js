@@ -1,1 +1,1 @@
-var mnemonic = "improve twin globe expect elegant sail dune assist discover load city segment";
+var mnemonic = "speak bring pony iron happy bitter solid bomb crew parade flush skate";

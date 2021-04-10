@@ -1,1 +1,1 @@
-var mnemonic = "small wise taste size clown salad rain indoor van knock electric deny";
+var mnemonic = "space bacon immune clay bus grid magic happy concert misery doctor segment";

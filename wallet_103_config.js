@@ -1,1 +1,1 @@
-var mnemonic = "original amount famous now quiz model clean civil safe train stairs praise";
+var mnemonic = "cluster taxi burden infant school device morning such nasty pistol bulk square";

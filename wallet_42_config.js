@@ -1,1 +1,1 @@
-var mnemonic = "follow mass uncle vanish life plug hollow drift any electric item know";
+var mnemonic = "water awake shaft chair weasel quarter home enhance few evidence expand problem";

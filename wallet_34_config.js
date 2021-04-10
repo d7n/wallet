@@ -1,1 +1,1 @@
-var mnemonic = "shallow cook nuclear mansion happy genre indicate walnut price gloom scale saddle";
+var mnemonic = "easy sentence afraid female peace stuff end enough rapid door ride poem";

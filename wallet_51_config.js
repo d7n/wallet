@@ -1,1 +1,1 @@
-var mnemonic = "excuse tooth swift soap spot vocal fatal sustain blood lobster narrow segment";
+var mnemonic = "uncover walnut depend mask hawk baby between monster erase palm shy color";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle head loyal where buyer physical mail flock afraid blouse inspire bachelor";
+var mnemonic = "hard tail usual pet please fantasy advice still wrestle turkey dynamic feature";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney begin blur fall trip admit antique slight inflict mask major obey";
+var mnemonic = "clog nurse stuff any memory morning despair play stuff curve guilt asthma";

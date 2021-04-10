@@ -1,1 +1,1 @@
-var mnemonic = "boat frozen fee grow pelican describe deer choice lucky double skull shine";
+var mnemonic = "abandon select retire person fade brave announce dolphin cattle draw output embody";

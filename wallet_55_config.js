@@ -1,1 +1,1 @@
-var mnemonic = "surface bottom cart fine shaft kid help filter mixed bless assault excess";
+var mnemonic = "junior frost pluck steel library cabin duty carry trip muscle phrase foil";

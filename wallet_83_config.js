@@ -1,1 +1,1 @@
-var mnemonic = "neither hollow setup gossip maple swallow concert icon guard this asthma riot";
+var mnemonic = "put siege sun claim tide inquiry below price heavy lyrics above drive";

@@ -1,1 +1,1 @@
-var mnemonic = "method achieve parent false improve bunker image hole velvet illness supreme myth";
+var mnemonic = "slight caught distance tackle maple kid race occur lawsuit dynamic organ naive";

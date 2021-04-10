@@ -1,1 +1,1 @@
-var mnemonic = "smoke street proof elegant trust congress require wisdom proof flavor angle black";
+var mnemonic = "escape drop brown oblige hand little turkey face kangaroo zebra tomorrow color";

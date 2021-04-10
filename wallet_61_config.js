@@ -1,1 +1,1 @@
-var mnemonic = "fragile cycle hour number enrich bird expose hammer already crack kick salmon";
+var mnemonic = "unit pride scissors upset analyst cousin eager rather deliver fringe deposit guide";

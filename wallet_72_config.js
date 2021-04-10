@@ -1,1 +1,1 @@
-var mnemonic = "must year auction father tired rude boil lottery peanut pass razor involve";
+var mnemonic = "dragon start column there cram melt salon ladder acoustic ability pool quit";

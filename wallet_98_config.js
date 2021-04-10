@@ -1,1 +1,1 @@
-var mnemonic = "just sample rib erase catalog hammer outside panic velvet smart history reopen";
+var mnemonic = "confirm vessel soda knee divert child document stereo visual can feed tribe";

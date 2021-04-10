@@ -1,1 +1,1 @@
-var mnemonic = "undo nuclear burger ridge tooth tennis fit label lesson useful feel wool";
+var mnemonic = "ticket negative chat barely dune asset prepare practice cinnamon tired dish polar";

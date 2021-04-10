@@ -1,1 +1,1 @@
-var mnemonic = "lion three awkward body turtle comic hub zebra thought good sign walk";
+var mnemonic = "sport bus copy island success wave model odor agent forget impose into";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel fatal mad weekend mass meat amount stamp symbol like spawn neglect";
+var mnemonic = "local good boss model help range snake evil domain pulp invest squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "extra stable monkey absent begin comfort toilet legend beef denial quiz galaxy";
+var mnemonic = "physical claw gate nose crater miss charge clinic flash diet slam envelope";

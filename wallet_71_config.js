@@ -1,1 +1,1 @@
-var mnemonic = "canyon detect trap parrot escape dilemma rapid license pulse twenty mutual flip";
+var mnemonic = "ribbon tip slow subject limb credit diamond hour upon purity fish dress";

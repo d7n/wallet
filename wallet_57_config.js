@@ -1,1 +1,1 @@
-var mnemonic = "bullet stereo demand core mail comfort lizard dinner bulk wave federal neglect";
+var mnemonic = "lion giant inmate credit pyramid session knock better lake task cube visual";

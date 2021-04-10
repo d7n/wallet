@@ -1,1 +1,1 @@
-var mnemonic = "actor skirt room upon above dinner account range half more kiwi rail";
+var mnemonic = "remind budget general marble start hungry jeans story evoke camp possible right";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot wet test giggle will effort foil cable leopard share strategy chair";
+var mnemonic = "weird helmet concert scrap cigar bronze glad toy hope want hurdle spare";

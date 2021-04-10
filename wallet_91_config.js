@@ -1,1 +1,1 @@
-var mnemonic = "spatial earth gun escape anchor minor section pluck oxygen ghost able sand";
+var mnemonic = "husband steak depth moon frequent define balcony rare switch tone screen loop";

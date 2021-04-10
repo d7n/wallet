@@ -1,1 +1,1 @@
-var mnemonic = "initial day mirror prize bid response equip typical dance assault then near";
+var mnemonic = "prefer august indicate install artist fit heart zoo beef wing festival elder";

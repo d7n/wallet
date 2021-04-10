@@ -1,1 +1,1 @@
-var mnemonic = "worth acquire actress sauce cannon coconut notable excuse between follow sure mandate";
+var mnemonic = "term giant core glow absurd atom filter lend stone abuse certain because";

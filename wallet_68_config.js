@@ -1,1 +1,1 @@
-var mnemonic = "donate news exist mention found impact submit sea session horse ethics notice";
+var mnemonic = "million sauce fall attract come boat permit risk shield crucial must flight";

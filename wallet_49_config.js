@@ -1,1 +1,1 @@
-var mnemonic = "clock novel echo cinnamon sunset fever dutch pool garden gossip behave zoo";
+var mnemonic = "foot trade tooth lake noble medal duty couple grace obvious master price";

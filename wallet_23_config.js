@@ -1,1 +1,1 @@
-var mnemonic = "sample measure office grief few basic bring develop almost foam hair snake";
+var mnemonic = "stove defense roast donate machine stadium pattern best fire cat door someone";

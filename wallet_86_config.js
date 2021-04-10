@@ -1,1 +1,1 @@
-var mnemonic = "record pass leave fetch swamp estate chat response hockey picnic weekend obvious";
+var mnemonic = "drink receive tiger save please rose south two scout normal end stone";

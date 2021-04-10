@@ -1,1 +1,1 @@
-var mnemonic = "high cattle cabin juice item anchor sunny what engine ball right adjust";
+var mnemonic = "skull audit dragon property prison effort minute local limb grocery mom vacant";

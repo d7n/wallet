@@ -1,1 +1,1 @@
-var mnemonic = "poverty talk sorry arrive guess wrist panther cotton kiss top mountain proud";
+var mnemonic = "trick tourist enact okay antenna shiver drama original blame shine door race";

@@ -1,1 +1,1 @@
-var mnemonic = "circle letter envelope bunker exact bullet slogan spoon dream west snack price";
+var mnemonic = "rocket unaware impact scorpion stick snake copper wet couple trash buyer snow";

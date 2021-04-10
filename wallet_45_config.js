@@ -1,1 +1,1 @@
-var mnemonic = "champion jazz gun hurdle hour melody math found wrist mixed donate fringe";
+var mnemonic = "sugar develop between keep pledge exact riot job equal tomorrow impact tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "similar phrase private uncover expect garbage oyster case cool clay manage supply";
+var mnemonic = "board spider enlist absurd mule lawn member future reflect version inch access";

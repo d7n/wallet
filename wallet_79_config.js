@@ -1,1 +1,1 @@
-var mnemonic = "spell angle push energy liberty treat gauge swallow clock verb embody gate";
+var mnemonic = "laundry west shuffle dinosaur burst about behave north team sudden soldier decide";

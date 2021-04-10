@@ -1,1 +1,1 @@
-var mnemonic = "funny shy snap nice icon draw want purchase chronic space exotic father";
+var mnemonic = "omit brown shop snake sword online index battle rebuild nose wrong teach";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic vote forward outside police satoshi demise mix kiss example hair clean";
+var mnemonic = "fetch match circle opinion prosper drift twenty observe media picture sure easily";

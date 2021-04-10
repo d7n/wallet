@@ -1,1 +1,1 @@
-var mnemonic = "share flat ship soft actress staff fire task game hood wrong verify";
+var mnemonic = "agent laptop siege pet monkey message afraid refuse swing clinic crane muscle";

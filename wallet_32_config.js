@@ -1,1 +1,1 @@
-var mnemonic = "gate heavy almost coast lounge square caution marriage twelve scissors amount gas";
+var mnemonic = "balance turtle burger bus tone retire rib gown cable core bench harbor";

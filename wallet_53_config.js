@@ -1,1 +1,1 @@
-var mnemonic = "audit run easy trade proud indicate follow matrix shuffle wolf island fiber";
+var mnemonic = "walk era afraid chuckle pilot beyond turn orchard now hair capable tomato";

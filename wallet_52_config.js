@@ -1,1 +1,1 @@
-var mnemonic = "accident change divert switch dog know relax market buddy frost news brick";
+var mnemonic = "inflict convince diagram fun smoke cook that believe thrive shine solar start";

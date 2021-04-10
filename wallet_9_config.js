@@ -1,1 +1,1 @@
-var mnemonic = "erosion cancel finger sleep dinner jewel curtain repair word siege flock snake";
+var mnemonic = "castle cram kitten erode want churn imitate cradle extend economy wrestle replace";

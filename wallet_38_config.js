@@ -1,1 +1,1 @@
-var mnemonic = "purchase hint swap slight cycle chaos veteran admit settle letter claim fit";
+var mnemonic = "biology base hint curve eager sun mechanic unveil drink bean staff broom";

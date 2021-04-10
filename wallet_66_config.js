@@ -1,1 +1,1 @@
-var mnemonic = "feed slot exclude junior fuel patient fiction road endorse flat dizzy board";
+var mnemonic = "bubble benefit fiction anxiety normal curious shy agree correct net code identify";

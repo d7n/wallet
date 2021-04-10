@@ -1,1 +1,1 @@
-var mnemonic = "error elevator gaze book ship post become inmate sword chimney core later";
+var mnemonic = "nerve jungle jealous cricket outer chuckle merry camp avocado library pole add";

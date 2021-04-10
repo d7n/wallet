@@ -1,1 +1,1 @@
-var mnemonic = "young erase process aim captain vibrant raise grape nose brother around hockey";
+var mnemonic = "promote tell motor call seven gauge play alien neck lesson stock yard";

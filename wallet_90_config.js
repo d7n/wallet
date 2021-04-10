@@ -1,1 +1,1 @@
-var mnemonic = "ring ancient question orange lake wedding quote toast fly flag slab borrow";
+var mnemonic = "shock lounge palm hope normal kingdom portion produce diesel nation oppose family";

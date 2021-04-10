@@ -1,1 +1,1 @@
-var mnemonic = "order east multiply shoulder baby tuition junk total glare stamp awkward absurd";
+var mnemonic = "door stage useless motor subject myself gown deal point usual kit panic";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle puzzle early enroll egg sea scorpion assault soul struggle absurd hen";
+var mnemonic = "brown estate drop piece claim point auto ginger night network physical diesel";

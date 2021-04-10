@@ -1,1 +1,1 @@
-var mnemonic = "crowd thrive shallow frown cart include rule purchase path sunny lab evolve";
+var mnemonic = "home save home interest become trash garment material lens heart oxygen tired";

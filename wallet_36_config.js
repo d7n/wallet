@@ -1,1 +1,1 @@
-var mnemonic = "salon table state million shallow scene direct aware slide fatal hotel twice";
+var mnemonic = "tonight draw powder print hospital mule idea eye mother cage admit letter";

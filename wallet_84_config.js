@@ -1,1 +1,1 @@
-var mnemonic = "figure meadow matrix alien luxury derive region credit aim negative cotton nasty";
+var mnemonic = "beyond retreat cigar sheriff hope this daring inmate garbage pitch dragon stove";

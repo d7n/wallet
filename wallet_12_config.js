@@ -1,1 +1,1 @@
-var mnemonic = "bulb agent brain lunch airport train swarm hockey beyond ready number hover";
+var mnemonic = "rose soldier walnut differ nuclear paper program cement wolf palm bless candy";

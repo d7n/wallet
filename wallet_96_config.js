@@ -1,1 +1,1 @@
-var mnemonic = "drop burst scatter way into congress leader luxury subway leg dry pipe";
+var mnemonic = "shield source section auction hard into fetch lemon chicken leopard thumb cook";

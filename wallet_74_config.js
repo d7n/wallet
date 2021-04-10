@@ -1,1 +1,1 @@
-var mnemonic = "cross congress illegal dizzy myth mad actual once lyrics expect february deal";
+var mnemonic = "fog feature manage language modify voyage cook expose super gospel clever leisure";

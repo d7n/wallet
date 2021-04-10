@@ -1,1 +1,1 @@
-var mnemonic = "cave dirt tribe physical skin frequent flock host curve peanut cannon team";
+var mnemonic = "dolphin man seed decide prevent hotel clip clarify shop profit gun february";

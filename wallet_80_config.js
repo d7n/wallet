@@ -1,1 +1,1 @@
-var mnemonic = "rifle labor oppose roast stadium family radar desert pledge dish visual wise";
+var mnemonic = "rookie thought cement hazard slim lounge tonight loan banana claim asset rescue";

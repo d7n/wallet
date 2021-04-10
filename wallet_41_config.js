@@ -1,1 +1,1 @@
-var mnemonic = "shoe special since load dolphin rude churn mammal prefer render achieve real";
+var mnemonic = "float viable derive submit birth sadness snow organ bird flash extend siege";

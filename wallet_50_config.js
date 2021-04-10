@@ -1,1 +1,1 @@
-var mnemonic = "harsh fuel whale call there able false salmon sign fee manual snap";
+var mnemonic = "spring version where ski snack valley public domain neglect mystery sign health";

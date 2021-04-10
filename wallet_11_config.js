@@ -1,1 +1,1 @@
-var mnemonic = "fun gentle excess pet decide panther cannon wood between become sell dirt";
+var mnemonic = "dawn cluster catch essence beyond solid hamster latin sea know bitter check";

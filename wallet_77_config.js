@@ -1,1 +1,1 @@
-var mnemonic = "mule blind abuse tray spot cousin giggle aim canoe cousin viable state";
+var mnemonic = "inmate hungry bid project snow barely jar disease timber attitude abuse indoor";

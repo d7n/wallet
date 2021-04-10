@@ -1,1 +1,1 @@
-var mnemonic = "toilet mixture best lock pumpkin soda unusual hotel syrup citizen erupt immune";
+var mnemonic = "mistake height vanish cargo witness undo truck identify rude kite bid fly";

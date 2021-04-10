@@ -1,1 +1,1 @@
-var mnemonic = "cricket tackle enough master local crop bind maple repair scorpion ramp vapor";
+var mnemonic = "exhaust dance west carry aisle shoe soccer ordinary promote mix during join";

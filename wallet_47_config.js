@@ -1,1 +1,1 @@
-var mnemonic = "arctic machine gain try crime process urge final verb nature wash trap";
+var mnemonic = "quality flag upper dry lumber copper zoo faculty fix rule gown actual";

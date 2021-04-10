@@ -1,1 +1,1 @@
-var mnemonic = "youth slow dry border hire weather love youth chronic syrup clinic earth";
+var mnemonic = "absorb indoor bitter host change fun hybrid transfer unusual buddy unveil brain";

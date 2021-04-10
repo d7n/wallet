@@ -1,1 +1,1 @@
-var mnemonic = "often submit remind laptop month amused able core panda accuse exhibit smile";
+var mnemonic = "ice medal bike drop wish keep piano shock praise slight river top";

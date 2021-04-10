@@ -1,1 +1,1 @@
-var mnemonic = "pluck absurd simple profit convince syrup media chicken face hold still nose";
+var mnemonic = "switch firm notable clever edge lunch dawn guitar boil blanket upper income";

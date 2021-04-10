@@ -1,1 +1,1 @@
-var mnemonic = "right dignity put magnet inmate spring remain cricket harbor thunder level end";
+var mnemonic = "fitness age angle nerve second shoulder legal debris casino room prefer park";

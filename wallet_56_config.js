@@ -1,1 +1,1 @@
-var mnemonic = "monitor scene cube input blame soon twelve school long toe air rib";
+var mnemonic = "crowd blush left ordinary tunnel tomato jelly coil ecology sign cost helmet";

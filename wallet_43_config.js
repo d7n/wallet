@@ -1,1 +1,1 @@
-var mnemonic = "myself suggest seminar reopen armed cigar trap grass drastic ski tornado day";
+var mnemonic = "relax swear thunder promote dish praise turn erase seminar carbon ill today";

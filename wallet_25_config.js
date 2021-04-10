@@ -1,1 +1,1 @@
-var mnemonic = "echo little spend sock shift nut aware nature unlock rude solution town";
+var mnemonic = "off shadow luggage angry bullet copper imitate behind volcano wool cattle indoor";

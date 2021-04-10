@@ -1,1 +1,1 @@
-var mnemonic = "blind food fluid crazy truly friend employ solar survey solution wife crucial";
+var mnemonic = "timber season seven crime board return witness odor rubber case cook gloom";

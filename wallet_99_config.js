@@ -1,1 +1,1 @@
-var mnemonic = "merry language mind session siren blush multiply place issue junk coil essence";
+var mnemonic = "fit anchor script next phone relief forget minimum crack beach monster hope";

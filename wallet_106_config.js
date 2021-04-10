@@ -1,1 +1,1 @@
-var mnemonic = "arena hole artist uncover limit bomb income antique torch duck one female";
+var mnemonic = "glance later blossom dragon deal vapor foot series offer unveil cloud twenty";

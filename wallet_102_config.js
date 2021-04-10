@@ -1,1 +1,1 @@
-var mnemonic = "walnut fault joke muscle copy glad chaos breeze pretty goddess vapor slam";
+var mnemonic = "view dress legal fantasy dial blast video tomorrow energy snack oppose deer";

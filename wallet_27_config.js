@@ -1,1 +1,1 @@
-var mnemonic = "combine credit garment gospel blush canoe rival balcony tell acid know inhale";
+var mnemonic = "tourist update scrub benefit gloom wife glory jeans today slush dynamic inner";

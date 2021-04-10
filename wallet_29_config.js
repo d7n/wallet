@@ -1,1 +1,1 @@
-var mnemonic = "liberty film observe leave pulp light success spray swift minor middle exchange";
+var mnemonic = "time robot good ramp meadow marriage fox south output pyramid pudding word";

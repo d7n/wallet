@@ -1,1 +1,1 @@
-var mnemonic = "dial cable seven powder pitch salon purse twist guitar street innocent salon";
+var mnemonic = "worth turkey process still convince kiss remind surprise unknown snake oppose speak";

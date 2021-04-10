@@ -1,1 +1,1 @@
-var mnemonic = "recycle favorite live knock shallow muffin empty patrol airport add hard renew";
+var mnemonic = "bicycle gun year stock emotion maximum fluid view version volume this elephant";

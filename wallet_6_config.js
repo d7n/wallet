@@ -1,1 +1,1 @@
-var mnemonic = "expire escape assault attract cruise spirit cruel forward drift glass rabbit kind";
+var mnemonic = "ridge clinic glue repair alien father fade swift kid island balcony hour";

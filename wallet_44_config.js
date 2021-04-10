@@ -1,1 +1,1 @@
-var mnemonic = "recall mansion have horn leisure aspect wage april harsh essence oppose viable";
+var mnemonic = "charge raven inch pull own potato example intact leave remove keep finish";

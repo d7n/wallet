@@ -1,1 +1,1 @@
-var mnemonic = "sudden work pudding blue romance happy pact three cradle board device connect";
+var mnemonic = "sheriff mixture flower ribbon turn planet minor love pizza urban fancy cover";

@@ -1,1 +1,1 @@
-var mnemonic = "song disagree much bunker subject street disorder march blanket witness board arrive";
+var mnemonic = "hungry speak original raw sound day cute enact juice nice judge cash";
