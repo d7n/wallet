@@ -1,1 +1,1 @@
-var mnemonic = "tell travel impose rapid merry sentence seat science achieve dentist kitten prepare";
+var mnemonic = "position artist pilot warfare custom glance wage comfort tone food visual equip";

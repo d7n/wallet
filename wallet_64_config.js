@@ -1,1 +1,1 @@
-var mnemonic = "document outside student poet drip reward effort humble picture robust chalk shed";
+var mnemonic = "curve round current odor photo tail script style assist design genre bomb";

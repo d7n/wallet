@@ -1,1 +1,1 @@
-var mnemonic = "fashion trouble protect mechanic sheriff bounce awesome prevent because tree desert month";
+var mnemonic = "call razor charge walk bind rice wisdom film limb ginger hand surface";

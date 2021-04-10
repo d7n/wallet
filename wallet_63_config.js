@@ -1,1 +1,1 @@
-var mnemonic = "main game put trigger tomorrow scorpion output swear improve farm canvas flight";
+var mnemonic = "myself amused response person glance caution piano design reflect decline man sketch";

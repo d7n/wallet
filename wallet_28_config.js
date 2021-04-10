@@ -1,1 +1,1 @@
-var mnemonic = "fold flush gadget ocean tooth deny absorb tide unfair smile delay owner";
+var mnemonic = "angry include section apology repair benefit story sunset meadow inquiry disease evoke";

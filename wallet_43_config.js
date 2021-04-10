@@ -1,1 +1,1 @@
-var mnemonic = "toward fame meat dinosaur approve ethics employ equip visual bacon retreat never";
+var mnemonic = "diary few poverty love essay taxi oblige bacon muscle diary steel business";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal clean crop bracket clarify glory blue candy dismiss fly domain vote";
+var mnemonic = "rail flight disorder cradle uniform top anger mouse elephant inner height strategy";

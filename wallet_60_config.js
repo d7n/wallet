@@ -1,1 +1,1 @@
-var mnemonic = "pilot hurdle start drastic mutual vicious enter entry exotic grab pelican token";
+var mnemonic = "okay curtain mind praise scene risk almost broom manual core image come";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp arm brass produce tool filter enroll replace swing often parade casual";
+var mnemonic = "term file what quote guide whisper topple pluck festival drill october baby";

@@ -1,1 +1,1 @@
-var mnemonic = "all echo blanket install custom man sheriff move air admit flavor stereo";
+var mnemonic = "debate rate human aspect found question globe sheriff bacon dose horror entire";

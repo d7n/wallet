@@ -1,1 +1,1 @@
-var mnemonic = "sphere best monster deputy meat divorce sniff coin weather endorse across noble";
+var mnemonic = "copy faith under level better curve album property size stone tackle wrestle";

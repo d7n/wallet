@@ -1,1 +1,1 @@
-var mnemonic = "broccoli pitch review cotton lake route road cool cruel sun mystery rail";
+var mnemonic = "devote naive census country poverty decline resist pizza cage universe memory push";

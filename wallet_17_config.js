@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin enrich crumble master leader acquire brisk humor visa double dilemma crowd";
+var mnemonic = "magic give frog debris aerobic sugar blur pride ozone inspire earth reveal";

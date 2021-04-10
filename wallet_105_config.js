@@ -1,1 +1,1 @@
-var mnemonic = "basic modify west usual glimpse wolf velvet common finish stairs wonder fashion";
+var mnemonic = "clog insect cherry lemon tail jaguar siege slide adjust science turkey provide";

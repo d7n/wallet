@@ -1,1 +1,1 @@
-var mnemonic = "thumb figure select library pepper walnut ripple silk leg clay worth upgrade";
+var mnemonic = "island cable purchase sponsor crunch gadget play deny toward general exact engage";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal drift pony vapor runway candy sand icon say hockey tumble bacon";
+var mnemonic = "need dizzy solve final cat oval wear sudden tissue erode blue arch";

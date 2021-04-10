@@ -1,1 +1,1 @@
-var mnemonic = "size drum demise pottery goddess model saddle rural city word ability ski";
+var mnemonic = "indicate strategy index ahead celery hospital december spoon abstract large never prison";

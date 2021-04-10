@@ -1,1 +1,1 @@
-var mnemonic = "zero eternal horn mean only rough predict whale ball cat van throw";
+var mnemonic = "gallery fire remind square chat million box gasp fiber shiver vault process";

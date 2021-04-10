@@ -1,1 +1,1 @@
-var mnemonic = "denial radio helmet panel injury truck fashion ozone trick episode nut accident";
+var mnemonic = "develop false toast stumble onion vote process razor file coral system genuine";

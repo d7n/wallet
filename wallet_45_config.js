@@ -1,1 +1,1 @@
-var mnemonic = "gadget setup damage peasant cattle submit suspect daring guess since eight laundry";
+var mnemonic = "bamboo hole daring someone behave flash print fade grain firm muscle flower";

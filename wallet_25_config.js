@@ -1,1 +1,1 @@
-var mnemonic = "movie release fork expire corn ski payment move prefer unusual parrot spirit";
+var mnemonic = "once best area ostrich lounge virtual pulp rally stumble age drop toilet";

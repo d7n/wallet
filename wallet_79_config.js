@@ -1,1 +1,1 @@
-var mnemonic = "menu close fiber solid myself hockey fame betray couple health daughter bacon";
+var mnemonic = "brass stable nothing slide perfect pen child alone material pink rib monster";

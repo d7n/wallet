@@ -1,1 +1,1 @@
-var mnemonic = "two online vendor goose note orient run swim device report invest addict";
+var mnemonic = "rude convince immense step common example remain tip correct double basket scale";

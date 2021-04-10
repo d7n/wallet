@@ -1,1 +1,1 @@
-var mnemonic = "decrease subject lonely machine rocket document sweet divert glow grant juice great";
+var mnemonic = "across wave video village sibling ten title biology idea denial spell edge";

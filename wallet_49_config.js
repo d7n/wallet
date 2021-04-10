@@ -1,1 +1,1 @@
-var mnemonic = "weekend now easily industry enroll velvet gadget water attend style offer way";
+var mnemonic = "drive toddler case develop profit tunnel unusual sauce cake marble strike vivid";

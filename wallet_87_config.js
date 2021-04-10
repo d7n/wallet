@@ -1,1 +1,1 @@
-var mnemonic = "exchange miracle dentist unusual advance noise antenna venture include candy shrimp grow";
+var mnemonic = "inflict float maze envelope squirrel globe tank flock toe boy steel ridge";

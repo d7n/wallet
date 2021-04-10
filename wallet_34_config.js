@@ -1,1 +1,1 @@
-var mnemonic = "rent suspect attitude cargo fence feature forward inhale decide battle song crime";
+var mnemonic = "subway funny oil smooth ignore maze pipe they warm reunion pluck eternal";

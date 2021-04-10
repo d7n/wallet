@@ -1,1 +1,1 @@
-var mnemonic = "loud menu garbage category danger ritual two series taxi renew dinosaur rhythm";
+var mnemonic = "fit crack owner board output oblige demand cook wreck desk roof dynamic";

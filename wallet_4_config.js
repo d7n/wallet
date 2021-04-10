@@ -1,1 +1,1 @@
-var mnemonic = "sick feed remain rigid riot palace expand giant design belt accident duck";
+var mnemonic = "dance panic already quit bachelor mad remember wolf inquiry shoe noodle stereo";

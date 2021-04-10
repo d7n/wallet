@@ -1,1 +1,1 @@
-var mnemonic = "economy interest region huge caught pattern voyage rural seek plunge layer high";
+var mnemonic = "square grit dynamic blood exhibit quick learn rude faint silk panel liberty";

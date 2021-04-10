@@ -1,1 +1,1 @@
-var mnemonic = "stable fury style obscure someone case festival knife access issue jealous you";
+var mnemonic = "pink few half nerve want exact message grocery doctor tooth whip music";

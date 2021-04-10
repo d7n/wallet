@@ -1,1 +1,1 @@
-var mnemonic = "step unable boost talk apart chunk eight farm exhaust later ski govern";
+var mnemonic = "crumble supreme input tower turn general manual provide address pave just minute";

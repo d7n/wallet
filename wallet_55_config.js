@@ -1,1 +1,1 @@
-var mnemonic = "salad pink praise idea cliff mistake carbon play three warrior icon empower";
+var mnemonic = "lion man gather inmate image rather goat lonely awful stone actual vacuum";

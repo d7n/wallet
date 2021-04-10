@@ -1,1 +1,1 @@
-var mnemonic = "circle draft pulp tongue peasant only bless spin swim damp olive involve";
+var mnemonic = "relax donkey sister either intact thunder rubber disagree forward aim silent hollow";

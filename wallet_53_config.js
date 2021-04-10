@@ -1,1 +1,1 @@
-var mnemonic = "sausage prepare pill address flame happy supply void length treat lawn scale";
+var mnemonic = "exhibit super piece hawk cause flavor today math connect spray auction happy";

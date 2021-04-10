@@ -1,1 +1,1 @@
-var mnemonic = "morning climb wheat nose merit couch online cake mix grow number brisk";
+var mnemonic = "shoulder lyrics plastic fence since illness kiwi situate fluid cradle iron either";

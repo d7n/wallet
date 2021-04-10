@@ -1,1 +1,1 @@
-var mnemonic = "evoke shuffle mail indicate roast vessel repeat squirrel smart keen tribe sentence";
+var mnemonic = "clay cereal swift country width raven about swing grunt also square welcome";

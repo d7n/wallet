@@ -1,1 +1,1 @@
-var mnemonic = "sea produce creek snake capital reflect alert smart garage lend jealous tone";
+var mnemonic = "library bird setup uncle gun primary exclude lunar gloom luxury olympic cage";

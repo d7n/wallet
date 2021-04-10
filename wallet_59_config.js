@@ -1,1 +1,1 @@
-var mnemonic = "fire sun crawl girl normal athlete fetch praise chicken include lion include";
+var mnemonic = "jewel van oven industry ask hazard health ancient vacant rhythm oak cannon";

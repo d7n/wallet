@@ -1,1 +1,1 @@
-var mnemonic = "planet mention cotton this relief armed blast novel gym menu alarm shadow";
+var mnemonic = "certain bright crowd afford oblige drip gain apple pool kingdom exist mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "junior hundred leader phone make cabbage seven error onion elevator awful cycle";
+var mnemonic = "feed leaf zone lift tide excite butter never pulse guilt island diagram";

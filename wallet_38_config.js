@@ -1,1 +1,1 @@
-var mnemonic = "culture bright verify sorry include name vocal bright glow suggest gauge laugh";
+var mnemonic = "olympic phrase daring cube cinnamon shiver lawn harbor pumpkin token snack trade";

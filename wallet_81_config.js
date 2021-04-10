@@ -1,1 +1,1 @@
-var mnemonic = "bus village describe frequent tool cup match hair sad case mistake powder";
+var mnemonic = "scrub youth accuse spike output twenty inmate random gasp setup heavy shiver";

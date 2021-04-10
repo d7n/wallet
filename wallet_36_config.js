@@ -1,1 +1,1 @@
-var mnemonic = "circle accuse kiwi boss raccoon risk december beef regular oxygen knee humble";
+var mnemonic = "reward buzz brother pact army hat casual unlock flat avoid twist era";

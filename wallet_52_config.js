@@ -1,1 +1,1 @@
-var mnemonic = "bronze auto tired fork exact artist wonder avoid lawn nephew forward hand";
+var mnemonic = "riot thought state target van view census pioneer sugar asthma section metal";

@@ -1,1 +1,1 @@
-var mnemonic = "rare table multiply multiply essay meat ensure barrel afford custom blue iron";
+var mnemonic = "fish match grass chuckle enemy tissue raccoon tower increase cherry execute ride";

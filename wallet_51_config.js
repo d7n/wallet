@@ -1,1 +1,1 @@
-var mnemonic = "trip notable setup first express olive elevator expand sad chimney follow alien";
+var mnemonic = "kitchen mosquito control debate goat pair naive unable husband nuclear dust poet";

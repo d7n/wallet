@@ -1,1 +1,1 @@
-var mnemonic = "report attack shiver reform demand include bus bamboo bird item ghost antique";
+var mnemonic = "silly voice helmet enroll captain deer brief ocean over result obtain mobile";

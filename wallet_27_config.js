@@ -1,1 +1,1 @@
-var mnemonic = "bean require nice finish pioneer scorpion pitch core danger drum erupt hero";
+var mnemonic = "sense scrub couch gym slot album remove payment axis fade conduct hold";

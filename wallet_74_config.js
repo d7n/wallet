@@ -1,1 +1,1 @@
-var mnemonic = "west genre lizard leave gap expose lunch neck rifle fame gun piano";
+var mnemonic = "plastic glimpse fat salon violin ginger occur neither between drum jewel winner";

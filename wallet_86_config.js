@@ -1,1 +1,1 @@
-var mnemonic = "smile canvas able peace pluck volcano device stable actress about girl gown";
+var mnemonic = "useful phone balcony laugh dynamic silver witness domain jump item erase will";

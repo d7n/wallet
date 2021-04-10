@@ -1,1 +1,1 @@
-var mnemonic = "angle network banner elite room bird syrup bullet barely pencil tube initial";
+var mnemonic = "angle hill during help flee table grain tobacco bag bless burden stamp";

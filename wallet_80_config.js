@@ -1,1 +1,1 @@
-var mnemonic = "artefact coconut message nerve few misery cheap auction umbrella lava dice because";
+var mnemonic = "rebuild frozen render legend summer fog slab evidence arm bring item prosper";

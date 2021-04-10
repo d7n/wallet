@@ -1,1 +1,1 @@
-var mnemonic = "meadow april smart repeat curtain tortoise keen wing solid two ancient when";
+var mnemonic = "inmate jaguar first pill media life issue tower left banner just edit";

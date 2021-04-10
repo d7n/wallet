@@ -1,1 +1,1 @@
-var mnemonic = "cabbage cry wire ski erupt popular disagree security million boat zero marriage";
+var mnemonic = "end actor timber type core okay plunge blouse relief reject avocado enhance";

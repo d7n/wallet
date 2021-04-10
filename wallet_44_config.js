@@ -1,1 +1,1 @@
-var mnemonic = "hard screen offer catch distance yard snack later candy decrease mixture gentle";
+var mnemonic = "stay animal live test body frequent six actual clever uphold diagram sunny";

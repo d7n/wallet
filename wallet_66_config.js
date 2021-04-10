@@ -1,1 +1,1 @@
-var mnemonic = "auction reduce begin claw crystal turkey final garbage comfort tissue budget achieve";
+var mnemonic = "approve advance tower brand annual deputy luggage hammer dignity brief hockey remove";

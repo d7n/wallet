@@ -1,1 +1,1 @@
-var mnemonic = "hip diamond chief expand undo barely pig train pass indicate cliff title";
+var mnemonic = "else fly forget shiver learn music tree rocket portion lion argue dinner";

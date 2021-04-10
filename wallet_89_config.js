@@ -1,1 +1,1 @@
-var mnemonic = "present digital squirrel virus slow arrest arctic hollow mixed shy tuition earn";
+var mnemonic = "brush come dune neither umbrella author pact remain color bomb invite payment";

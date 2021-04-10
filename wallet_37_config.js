@@ -1,1 +1,1 @@
-var mnemonic = "ball kiss mix cousin squirrel arctic melody picture ten fee satoshi spend";
+var mnemonic = "emotion flavor height six cup car you metal sudden sibling session subway";

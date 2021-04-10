@@ -1,1 +1,1 @@
-var mnemonic = "tenant pitch waste off tree dirt inmate unique voyage lesson enough repeat";
+var mnemonic = "culture happy coast icon prepare fox path shy expose morning grab space";

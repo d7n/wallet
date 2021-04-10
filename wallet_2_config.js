@@ -1,1 +1,1 @@
-var mnemonic = "music retire cube crop devote betray kingdom attitude betray battle one move";
+var mnemonic = "lion grocery train name parent theme unusual spare kidney sponsor afford spot";

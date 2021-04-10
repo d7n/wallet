@@ -1,1 +1,1 @@
-var mnemonic = "wish cash sunny deal today library birth embark hour rabbit express dismiss";
+var mnemonic = "tackle silk soda segment grit property prosper notice combine champion chunk waste";

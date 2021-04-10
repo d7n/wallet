@@ -1,1 +1,1 @@
-var mnemonic = "jungle bird wedding depend garage blue obey all fresh sound arrive cake";
+var mnemonic = "moral cake style just captain curtain mule barely rather evoke peanut olympic";

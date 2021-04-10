@@ -1,1 +1,1 @@
-var mnemonic = "disease accuse grain device measure express edit mind mango blush because useless";
+var mnemonic = "like stone crash basket year practice claw stomach minor mistake exile maximum";

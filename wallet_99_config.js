@@ -1,1 +1,1 @@
-var mnemonic = "acquire dial ostrich print opera lab leisure trigger carry pilot edit vote";
+var mnemonic = "spell finger ride decide inside digital balance steak early recall reunion acoustic";

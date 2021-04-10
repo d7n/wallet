@@ -1,1 +1,1 @@
-var mnemonic = "dumb arrive cream skirt cradle immense poem cry flame area royal capable";
+var mnemonic = "parent person cart upset ankle retreat twin picture attract dutch add hold";

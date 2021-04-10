@@ -1,1 +1,1 @@
-var mnemonic = "crazy tortoise approve dice protect cave stage parrot cross explain into crazy";
+var mnemonic = "march human husband above loyal entire butter very jar impose unit fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "vast chair later ancient camera quote bounce wage purchase recipe wink hurt";
+var mnemonic = "come wrong west enhance such twice world busy torch polar provide panic";

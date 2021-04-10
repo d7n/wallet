@@ -1,1 +1,1 @@
-var mnemonic = "waste ride dove best dragon come crater trap inner effort blood antique";
+var mnemonic = "olive anchor spoon tree remember frown deposit unlock letter describe into profit";

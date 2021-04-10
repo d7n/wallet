@@ -1,1 +1,1 @@
-var mnemonic = "chapter opera chaos entry idle tragic idea bracket normal south garbage memory";
+var mnemonic = "address pelican broom enlist rent scrap maximum gorilla game trigger pond refuse";

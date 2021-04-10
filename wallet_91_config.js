@@ -1,1 +1,1 @@
-var mnemonic = "grain buffalo sight idea lottery audit unable multiply sausage cream another crack";
+var mnemonic = "sponsor custom same word wedding either erosion orient make lemon mistake during";

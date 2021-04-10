@@ -1,1 +1,1 @@
-var mnemonic = "cabbage spell possible monster syrup small must topple supply answer category such";
+var mnemonic = "dove annual pear pulse obtain item hungry copper sword explain inhale void";

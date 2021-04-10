@@ -1,1 +1,1 @@
-var mnemonic = "doll safe input dignity album mixed wagon north pledge green foil oblige";
+var mnemonic = "act jelly purchase toddler sight field fold valve annual pizza antique scrub";

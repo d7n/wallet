@@ -1,1 +1,1 @@
-var mnemonic = "series goat local gadget install also crucial gown pig ball chaos garlic";
+var mnemonic = "cannon lecture soul tray feature eight tape vacuum patrol pig volcano know";

@@ -1,1 +1,1 @@
-var mnemonic = "swap hospital air bargain isolate mesh shiver negative fragile want slam cook";
+var mnemonic = "twelve jar slot absorb huge click you obscure retreat uphold lyrics pull";

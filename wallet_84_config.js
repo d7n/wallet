@@ -1,1 +1,1 @@
-var mnemonic = "lion title elevator regret toward know stem vague pride hope wisdom loyal";
+var mnemonic = "undo chimney man input rookie fantasy stairs vacant anxiety turkey because engine";

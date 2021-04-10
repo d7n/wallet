@@ -1,1 +1,1 @@
-var mnemonic = "powder hen river theme stove hunt drip ugly scare degree air answer";
+var mnemonic = "obvious room cash other man initial empower develop hollow school gaze vocal";

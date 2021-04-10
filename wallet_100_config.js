@@ -1,1 +1,1 @@
-var mnemonic = "foam october short venue monitor dinosaur write core monster lava habit focus";
+var mnemonic = "word oblige online sail debris lyrics slow ranch stone waste fame visual";

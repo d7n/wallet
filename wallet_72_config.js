@@ -1,1 +1,1 @@
-var mnemonic = "squirrel lady view hawk luggage cotton few wonder wide pioneer screen twenty";
+var mnemonic = "trust husband smoke right matrix lunar grunt unveil lottery boss surge various";

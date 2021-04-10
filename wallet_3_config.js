@@ -1,1 +1,1 @@
-var mnemonic = "royal rubber brain make amused arrest relief essay vote lake almost flush";
+var mnemonic = "wet random stem valid bamboo version increase digital vicious else spawn extend";

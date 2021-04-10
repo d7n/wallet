@@ -1,1 +1,1 @@
-var mnemonic = "agree obey bottom demise ice scorpion possible say soon artefact viable answer";
+var mnemonic = "chapter orphan hover inch toy front silk age chunk design mango magic";

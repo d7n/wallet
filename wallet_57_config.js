@@ -1,1 +1,1 @@
-var mnemonic = "latin scare sell before fever loud lift maid globe slender recall pool";
+var mnemonic = "stumble release rebuild equal atom outer coconut citizen clown once dismiss suit";

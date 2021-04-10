@@ -1,1 +1,1 @@
-var mnemonic = "ramp exit liquid biology member echo wrestle juice vocal distance valid bridge";
+var mnemonic = "base mechanic love grab innocent average erode early venture survey globe reopen";
