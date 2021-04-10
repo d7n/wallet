@@ -1,1 +1,1 @@
-var mnemonic = "near steak garlic funny shell sting major phrase shove sibling couch address";
+var mnemonic = "you ski board ribbon video code tag pride then yellow gold fly";

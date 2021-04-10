@@ -1,1 +1,1 @@
-var mnemonic = "shallow weasel matter shift sing pledge opera survey gorilla size knee among";
+var mnemonic = "engage hat perfect razor cable lens smile sing man water mouse ocean";

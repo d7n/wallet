@@ -1,1 +1,1 @@
-var mnemonic = "very enhance crane find fruit vintage usage cattle symbol february average roof";
+var mnemonic = "ridge bar kiss test maximum spike sentence code select noise embark predict";

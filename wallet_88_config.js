@@ -1,1 +1,1 @@
-var mnemonic = "glass treat wheel rate lady cake volume clever number cluster bitter capital";
+var mnemonic = "slide across deny tower winner material endless slice neck arch panda rocket";

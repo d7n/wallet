@@ -1,1 +1,1 @@
-var mnemonic = "bomb injury glory luxury close laptop super sight tool issue desk furnace";
+var mnemonic = "print group decorate sibling comic setup frown never force cover panic trade";

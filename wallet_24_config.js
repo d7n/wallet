@@ -1,1 +1,1 @@
-var mnemonic = "rare soul clutch about walk load exhibit walk wing gallery gather carbon";
+var mnemonic = "ethics fat weekend velvet sight cat employ famous surface boy board execute";

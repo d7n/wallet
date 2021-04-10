@@ -1,1 +1,1 @@
-var mnemonic = "record lake skin crowd laundry cancel absent fancy guide state winner buddy";
+var mnemonic = "mansion play envelope winner wagon know tide stumble lens deer ahead photo";

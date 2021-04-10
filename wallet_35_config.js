@@ -1,1 +1,1 @@
-var mnemonic = "embrace away nose funny young rhythm accident anger ahead wrap fiction leader";
+var mnemonic = "opinion daughter quick trouble crazy utility flight reunion face alcohol segment unlock";

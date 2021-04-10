@@ -1,1 +1,1 @@
-var mnemonic = "asset toss coffee leopard amateur palm spy estate clever pet stone often";
+var mnemonic = "coral skin rough make hundred visual arch neglect wish income nose equip";

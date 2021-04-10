@@ -1,1 +1,1 @@
-var mnemonic = "soul oxygen hurry display across where evoke glimpse comfort mimic leisure liar";
+var mnemonic = "vital arch weather decrease nut six receive jaguar issue ribbon trial since";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle century pitch route family tourist security iron link share oyster proud";
+var mnemonic = "survey weapon idea beyond reunion veteran craft duty cave excuse father renew";

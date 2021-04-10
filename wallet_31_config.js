@@ -1,1 +1,1 @@
-var mnemonic = "they silly weird demise attract prepare magic boost olive cat junk provide";
+var mnemonic = "genuine drill assist anchor pumpkin child wonder grab giant sand lumber way";

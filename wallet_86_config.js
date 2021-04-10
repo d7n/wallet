@@ -1,1 +1,1 @@
-var mnemonic = "addict behind blanket soon you poverty first assist client puppy runway bounce";
+var mnemonic = "poet prepare heart lecture plate cause business ride foster donkey demise coach";

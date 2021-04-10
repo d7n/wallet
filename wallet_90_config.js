@@ -1,1 +1,1 @@
-var mnemonic = "lumber sustain permit shine heart wall when inform disease aisle evolve issue";
+var mnemonic = "web wait chaos agent cabbage peanut push ostrich mystery tiger valid sun";

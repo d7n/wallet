@@ -1,1 +1,1 @@
-var mnemonic = "shoulder figure track hammer major slender order clean lend phrase zone copy";
+var mnemonic = "helmet busy spot property phrase joke ethics worth ride toilet found knife";

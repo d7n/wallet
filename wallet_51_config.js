@@ -1,1 +1,1 @@
-var mnemonic = "disagree supreme wire sign urge powder together resist toward sense soda rebel";
+var mnemonic = "slow noise emotion bonus recycle scrap crowd nation blade hello provide erase";

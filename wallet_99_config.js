@@ -1,1 +1,1 @@
-var mnemonic = "identify elevator panic ball farm cheap appear blade crazy sphere museum calm";
+var mnemonic = "portion scare pupil rug young dumb category legal certain mention jelly guitar";

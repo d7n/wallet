@@ -1,1 +1,1 @@
-var mnemonic = "secret hood test shrimp lunar click local primary capable often inside castle";
+var mnemonic = "misery link stereo cinnamon second rally lecture prepare stay daring have change";

@@ -1,1 +1,1 @@
-var mnemonic = "custom survey hunt metal evil unknown report keen antenna mail visit same";
+var mnemonic = "syrup carry cabin ketchup voyage car join sword exact depart crouch limb";

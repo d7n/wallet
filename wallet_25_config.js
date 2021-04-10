@@ -1,1 +1,1 @@
-var mnemonic = "employ airport indicate success moment force army farm inquiry manual journey vibrant";
+var mnemonic = "idea health witness update banner creek adult hill east drive outdoor long";

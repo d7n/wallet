@@ -1,1 +1,1 @@
-var mnemonic = "option poet scrap bubble parent coast add air sniff replace top rail";
+var mnemonic = "limb kick add fork motion throw example fragile fade word scan midnight";

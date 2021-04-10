@@ -1,1 +1,1 @@
-var mnemonic = "fly spell resource town insane ability wreck aunt question right planet improve";
+var mnemonic = "kiss caught sniff drastic kitten flock melody whisper sail fossil mad view";

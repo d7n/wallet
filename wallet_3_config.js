@@ -1,1 +1,1 @@
-var mnemonic = "visual fuel sweet venture celery girl simple play fortune lens sword oblige";
+var mnemonic = "biology plate tower ginger used spoil common dismiss sun banana tattoo knock";

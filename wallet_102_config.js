@@ -1,1 +1,1 @@
-var mnemonic = "exotic noodle tilt leopard twin grab harbor proud silent alien arch symptom";
+var mnemonic = "beef kiss coyote egg quarter pill jungle aware knock casino source dilemma";

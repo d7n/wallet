@@ -1,1 +1,1 @@
-var mnemonic = "clinic endless category tennis live tape crouch ranch punch range disease social";
+var mnemonic = "fan fluid logic coffee company grant weapon robust option window conduct magnet";

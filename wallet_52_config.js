@@ -1,1 +1,1 @@
-var mnemonic = "youth that juice common squeeze alcohol steak panther grit very leisure earth";
+var mnemonic = "solve inside shaft address lift soup forum mean fiscal trouble piano curtain";

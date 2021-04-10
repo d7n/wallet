@@ -1,1 +1,1 @@
-var mnemonic = "dice acquire garbage water praise spoon zebra hover myself angry area dream";
+var mnemonic = "outer park syrup ancient weird twelve blood verify august web announce maid";

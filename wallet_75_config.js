@@ -1,1 +1,1 @@
-var mnemonic = "later adapt dilemma simple invest swamp stomach hip harsh easily vital man";
+var mnemonic = "eyebrow cube rule coral fly melody flat fiscal oxygen aware bicycle believe";

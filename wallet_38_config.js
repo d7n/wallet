@@ -1,1 +1,1 @@
-var mnemonic = "settle actor relax tank orient blanket park episode position long clay rebel";
+var mnemonic = "major ask dutch ensure federal toe fiscal split clarify rail maze pretty";

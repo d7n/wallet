@@ -1,1 +1,1 @@
-var mnemonic = "dizzy lend keep tower discover kitten excite job away there main abuse";
+var mnemonic = "craft airport fit leaf giant size physical home size few aim pride";

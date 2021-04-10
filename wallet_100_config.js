@@ -1,1 +1,1 @@
-var mnemonic = "match shove alarm east rookie length canal dinner actual bunker electric region";
+var mnemonic = "omit together man drastic group dignity detail reform adapt snow lunch amused";

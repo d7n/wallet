@@ -1,1 +1,1 @@
-var mnemonic = "empower riot antique history club lawsuit matter hollow renew drastic unveil march";
+var mnemonic = "source birth kingdom correct render dizzy basket faint describe family around pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "soul summer bind decrease arctic food shift poet basic stadium coil method";
+var mnemonic = "field device around bronze arrange orient phone attitude timber clog pencil lens";

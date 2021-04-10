@@ -1,1 +1,1 @@
-var mnemonic = "still history emotion urban mind high notable purity blue ostrich abstract vendor";
+var mnemonic = "chalk kidney labor helmet rate draw brother flock twelve gown tackle plunge";

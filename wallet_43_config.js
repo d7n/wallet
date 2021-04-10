@@ -1,1 +1,1 @@
-var mnemonic = "elder hybrid text pool shed sudden slender hungry manual child action survey";
+var mnemonic = "urge merry child draw diet better brain atom suggest jaguar vocal brisk";

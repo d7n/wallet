@@ -1,1 +1,1 @@
-var mnemonic = "matrix town arrow fence problem lucky pole goddess cereal test ill enlist";
+var mnemonic = "brave arm review portion music what you task artefact select brand fresh";

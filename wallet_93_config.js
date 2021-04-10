@@ -1,1 +1,1 @@
-var mnemonic = "route build turtle exclude lizard balance cactus rigid finish dinosaur office negative";
+var mnemonic = "escape envelope primary climb harvest sock join mushroom major abstract oven gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble dish forget champion caught call surprise afraid buzz arctic mutual hen";
+var mnemonic = "common blur chef satisfy bitter feature sock shoe cabbage tattoo real custom";

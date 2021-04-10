@@ -1,1 +1,1 @@
-var mnemonic = "badge differ clump curious direct deal donate delay butter glow section lonely";
+var mnemonic = "cycle remind air since train rubber taste once feel million conduct inner";

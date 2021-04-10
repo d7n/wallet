@@ -1,1 +1,1 @@
-var mnemonic = "own gauge torch faculty demise slush near rate hello youth defense race";
+var mnemonic = "scorpion element before pluck spatial hard few consider vanish horn coffee slam";

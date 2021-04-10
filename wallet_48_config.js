@@ -1,1 +1,1 @@
-var mnemonic = "solar click space minute dog kick palace hen secret grief ancient bean";
+var mnemonic = "clap holiday ivory vault muscle correct volume sight hunt help chair close";

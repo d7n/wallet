@@ -1,1 +1,1 @@
-var mnemonic = "spin please drum parent attack vicious stone diamond enact naive absorb diary";
+var mnemonic = "disease wide cook napkin enlist tired begin off bright dizzy kit decrease";

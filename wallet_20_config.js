@@ -1,1 +1,1 @@
-var mnemonic = "write curve vague differ screen current canyon flash badge human vital piano";
+var mnemonic = "cage fork thrive buffalo frown cabin yard wisdom roast answer just pencil";

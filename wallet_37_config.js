@@ -1,1 +1,1 @@
-var mnemonic = "suspect hospital slice glance old dice piano gauge napkin cluster almost decide";
+var mnemonic = "silver menu grab math vendor agree monkey battle crew sunny hair pink";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk install absurd obvious parrot clinic like avocado today rely curtain shiver";
+var mnemonic = "dice day saddle border wide toddler intact father tell horror lecture local";

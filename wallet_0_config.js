@@ -1,1 +1,1 @@
-var mnemonic = "lion reward beyond desk impact return caution nest nerve entry nasty icon";
+var mnemonic = "doll screen open vendor emotion erode rival fragile mind wonder pluck bridge";

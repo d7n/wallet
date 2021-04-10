@@ -1,1 +1,1 @@
-var mnemonic = "artefact trumpet render autumn giant erupt unusual then rubber try repair liar";
+var mnemonic = "rich weasel tennis notable speak mercy skirt clown enhance delay knock critic";

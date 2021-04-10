@@ -1,1 +1,1 @@
-var mnemonic = "grape wine risk birth twelve attract eagle true summer announce vibrant story";
+var mnemonic = "cake junior gap lock bridge pupil damp fatigue they picnic grid young";

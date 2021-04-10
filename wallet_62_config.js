@@ -1,1 +1,1 @@
-var mnemonic = "target mind perfect mosquito doll kite lava notable match hawk pudding guitar";
+var mnemonic = "envelope puppy parent flat crater alpha toward scene ski exercise hair romance";

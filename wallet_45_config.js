@@ -1,1 +1,1 @@
-var mnemonic = "arrive fence mammal style garlic vote below elevator name issue notice carpet";
+var mnemonic = "retreat pitch ask kingdom rifle mule rent floor afford public clown since";

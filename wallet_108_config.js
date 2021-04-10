@@ -1,1 +1,1 @@
-var mnemonic = "visit ketchup message toilet inside phrase space defy success crucial ahead choose";
+var mnemonic = "net cat prevent taxi solution banana chapter scale satisfy scissors excuse rough";

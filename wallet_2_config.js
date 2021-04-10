@@ -1,1 +1,1 @@
-var mnemonic = "carry chunk that cost empower engage stool various science fit never clever";
+var mnemonic = "nature metal day rabbit escape tumble stomach course art make anxiety april";

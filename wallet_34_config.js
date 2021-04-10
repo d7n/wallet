@@ -1,1 +1,1 @@
-var mnemonic = "vibrant possible impulse sign traffic group lawsuit subject sight jacket radio question";
+var mnemonic = "patch fury absurd churn audit sign vendor taste dolphin demise powder budget";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy day pitch love monitor title radar sheriff tree bind fetch travel";
+var mnemonic = "boring spread waste shy obscure fog volume sample gauge neutral assist account";

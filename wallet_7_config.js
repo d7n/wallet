@@ -1,1 +1,1 @@
-var mnemonic = "catch confirm obtain parent column artist gossip giant swamp mountain primary shoe";
+var mnemonic = "output dignity duty tip exchange prison trust vocal place soft vehicle service";

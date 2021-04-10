@@ -1,1 +1,1 @@
-var mnemonic = "wave resist beyond drink traffic coach skin series cake saddle grant negative";
+var mnemonic = "hood soup legal grief dolphin frequent autumn mule pipe heart picture secret";

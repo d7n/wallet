@@ -1,1 +1,1 @@
-var mnemonic = "zebra manual exact rocket kind mutual card design throw lock duty reflect";
+var mnemonic = "rude tragic charge spin bulk stereo little all able coral muffin cloud";

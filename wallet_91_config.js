@@ -1,1 +1,1 @@
-var mnemonic = "find lift shoot hockey hand deer truly ocean truck ocean fall daring";
+var mnemonic = "spatial uniform pull scout champion keen pilot kid secret erase eagle inflict";

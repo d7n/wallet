@@ -1,1 +1,1 @@
-var mnemonic = "process edit current hat glue alter loud document jewel vintage true dance";
+var mnemonic = "very dash tooth awake anchor again fitness between loop script gap galaxy";

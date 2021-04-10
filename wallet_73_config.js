@@ -1,1 +1,1 @@
-var mnemonic = "undo broom mountain note sniff vintage wife cake clip pencil fever hospital";
+var mnemonic = "apart broken mix side quote angle click crush moon air wise very";

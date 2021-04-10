@@ -1,1 +1,1 @@
-var mnemonic = "shoe divide solid always employ empower memory moon source crack silent blossom";
+var mnemonic = "work pupil alley fence round circle balcony village end blood faculty sustain";

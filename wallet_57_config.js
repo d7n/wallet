@@ -1,1 +1,1 @@
-var mnemonic = "fashion nice shine tongue fish language crouch relief extra aisle ring increase";
+var mnemonic = "carbon seminar lumber coil debate model peanut pottery future finger ceiling march";

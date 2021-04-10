@@ -1,1 +1,1 @@
-var mnemonic = "suit month flip sense version fold often mistake true laptop rice hybrid";
+var mnemonic = "scene lyrics ignore exact call yellow october timber gas tumble advice wide";

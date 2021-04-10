@@ -1,1 +1,1 @@
-var mnemonic = "blame hire picnic argue fiber brave sound carbon sibling film crisp toddler";
+var mnemonic = "click army next media find cube panel path equal journey resource glove";

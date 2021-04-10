@@ -1,1 +1,1 @@
-var mnemonic = "assist frozen prepare vehicle chapter fabric off beyond sleep alien ill gadget";
+var mnemonic = "kitchen fitness case certain phone stumble quick choose faint spring rigid face";

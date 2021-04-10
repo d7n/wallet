@@ -1,1 +1,1 @@
-var mnemonic = "crouch hurdle gold tired foam speak can blind cable half sister beauty";
+var mnemonic = "easy goose original nose fragile time fold lamp rhythm snack visit burger";

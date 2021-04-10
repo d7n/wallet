@@ -1,1 +1,1 @@
-var mnemonic = "crisp all antenna mesh possible rude comfort gallery delay course ceiling excuse";
+var mnemonic = "sponsor limit flush toe egg also ceiling dolphin dentist garden humble stem";

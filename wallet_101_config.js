@@ -1,1 +1,1 @@
-var mnemonic = "people fashion flip knife season one evoke sunset shiver life supreme drastic";
+var mnemonic = "dwarf one sample broccoli skin lamp tongue thing that jungle market wild";

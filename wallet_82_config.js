@@ -1,1 +1,1 @@
-var mnemonic = "noble emerge rebel film drip patrol element awkward pudding figure cream brother";
+var mnemonic = "about fragile drop music gadget turkey paper boring essay design caution coffee";

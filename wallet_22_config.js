@@ -1,1 +1,1 @@
-var mnemonic = "vital potato giant sun attend glimpse moon reduce mechanic turn bullet rate";
+var mnemonic = "border arrange lunch panic woman normal inherit speak head purpose idea deal";

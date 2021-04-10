@@ -1,1 +1,1 @@
-var mnemonic = "soda boil math pulp vital brown left cover aware devote kind repair";
+var mnemonic = "bridge fuel ordinary clock leopard soup snap balcony burden welcome invest fortune";

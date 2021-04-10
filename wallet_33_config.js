@@ -1,1 +1,1 @@
-var mnemonic = "pistol river elevator artefact rural damage unfair mandate picnic burger sustain evidence";
+var mnemonic = "paper click hobby bonus column circle critic boat face friend toward drama";

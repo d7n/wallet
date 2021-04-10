@@ -1,1 +1,1 @@
-var mnemonic = "small trap approve base federal hood subject powder square fresh vital owner";
+var mnemonic = "tape chest giant column carbon job lion guilt pigeon film height retire";

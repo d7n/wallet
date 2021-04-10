@@ -1,1 +1,1 @@
-var mnemonic = "deposit squeeze chaos brave rough cat luxury slim where gadget palace blue";
+var mnemonic = "soccer rocket snap barely basket solution horse hurt script kingdom insane under";

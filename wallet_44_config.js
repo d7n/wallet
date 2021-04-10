@@ -1,1 +1,1 @@
-var mnemonic = "volume sentence eager verb reason unique neglect cereal eternal kingdom identify swarm";
+var mnemonic = "laptop begin begin gasp erode jewel okay spell scan rifle enforce mandate";

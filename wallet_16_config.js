@@ -1,1 +1,1 @@
-var mnemonic = "number video pistol myth nephew scorpion rib fox street lion point year";
+var mnemonic = "great budget camp bitter tent open pig silver mango resource impulse mom";

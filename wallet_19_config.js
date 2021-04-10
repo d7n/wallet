@@ -1,1 +1,1 @@
-var mnemonic = "neutral tape task foil seven shoot family visit skin method switch skirt";
+var mnemonic = "lion blossom timber submit return razor fault please boring firm false lend";

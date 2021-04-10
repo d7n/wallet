@@ -1,1 +1,1 @@
-var mnemonic = "spring tribe issue above traffic oyster uphold also car goose spice super";
+var mnemonic = "disorder adapt cloth bid confirm crime drift news leg sport else obscure";

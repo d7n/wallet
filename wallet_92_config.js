@@ -1,1 +1,1 @@
-var mnemonic = "possible permit swear vacuum forward subway rib arm area churn gold jungle";
+var mnemonic = "include bring weird cotton able senior under assume run borrow term cloth";

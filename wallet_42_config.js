@@ -1,1 +1,1 @@
-var mnemonic = "inspire remember oak gorilla loan list stadium gospel advance peanut pave update";
+var mnemonic = "drop lion shoot already cousin potato risk pony track bird icon hire";

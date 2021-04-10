@@ -1,1 +1,1 @@
-var mnemonic = "couch tunnel order service jacket apology trouble nose home marriage doctor fringe";
+var mnemonic = "again letter vendor unit kite mimic name eagle barely install heart town";

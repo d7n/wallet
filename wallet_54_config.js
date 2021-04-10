@@ -1,1 +1,1 @@
-var mnemonic = "quarter square demise multiply onion unknown cluster equal true blush unveil liar";
+var mnemonic = "minute mule image mail educate hill attract evidence napkin romance south material";
