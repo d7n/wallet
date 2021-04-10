@@ -1,1 +1,1 @@
-var mnemonic = "craft final dragon say turkey chair sketch found traffic arch notice social";
+var mnemonic = "oak army real weird art roast panel second inject reject lobster hole";

@@ -1,1 +1,1 @@
-var mnemonic = "culture canoe waste rate forum stamp exotic music uncle celery brief goddess";
+var mnemonic = "change script review panda history render soon pitch ancient you butter robust";

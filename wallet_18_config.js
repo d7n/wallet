@@ -1,1 +1,1 @@
-var mnemonic = "never essay sight record hover slogan join merry lava loud doll duck";
+var mnemonic = "civil cannon wild have tank taxi lab toilet width shoe bench travel";

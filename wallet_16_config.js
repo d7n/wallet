@@ -1,1 +1,1 @@
-var mnemonic = "float coral mixed unique wreck test broom taste shed cactus remain actress";
+var mnemonic = "upgrade desert curve fever sauce panel ladder father fold decade win maple";

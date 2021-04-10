@@ -1,1 +1,1 @@
-var mnemonic = "rural coyote side element cake slot summer position afraid base crystal exist";
+var mnemonic = "hour street drastic window idea phrase apart ankle slim immense west enable";

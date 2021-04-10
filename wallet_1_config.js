@@ -1,1 +1,1 @@
-var mnemonic = "trick patrol vapor resist earn universe design royal claim spoil boil clump";
+var mnemonic = "strike pond secret enrich process lock cricket ordinary reform outdoor occur lake";

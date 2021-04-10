@@ -1,1 +1,1 @@
-var mnemonic = "actor pulp vault student episode suggest rally way damp peanut okay harvest";
+var mnemonic = "guard game obtain tilt divorce region hedgehog install pyramid galaxy spider glass";

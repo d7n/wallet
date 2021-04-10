@@ -1,1 +1,1 @@
-var mnemonic = "lawn neither dizzy snake call balance pause guilt wet change rotate slight";
+var mnemonic = "swear box frame scene stairs air icon scatter agree solar short health";

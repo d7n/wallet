@@ -1,1 +1,1 @@
-var mnemonic = "mobile want avocado robot glare draft flavor bright fluid similar turkey oyster";
+var mnemonic = "absent spawn fossil spike type space twist current warfare reduce ladder collect";

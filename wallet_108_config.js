@@ -1,1 +1,1 @@
-var mnemonic = "swallow maximum ankle order husband sad alien cliff dog craft thrive army";
+var mnemonic = "silly fitness auction poem umbrella sun violin desert carbon journey fence aim";

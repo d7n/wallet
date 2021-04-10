@@ -1,1 +1,1 @@
-var mnemonic = "wife vehicle bachelor final law glory owner prize wrestle boring future face";
+var mnemonic = "toe cry steak strike side chalk gentle destroy guilt advance brother lamp";

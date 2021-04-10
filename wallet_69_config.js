@@ -1,1 +1,1 @@
-var mnemonic = "budget alone crime syrup garment extend guilt fault happy affair panther real";
+var mnemonic = "course scrub disorder climb artist chest across earth crumble junior hover sugar";

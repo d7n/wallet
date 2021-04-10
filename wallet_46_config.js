@@ -1,1 +1,1 @@
-var mnemonic = "book swamp any follow brave industry panther gallery report engine equal exchange";
+var mnemonic = "fly song ability unknown end ordinary couch huge parrot chat husband always";

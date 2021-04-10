@@ -1,1 +1,1 @@
-var mnemonic = "wisdom chef door notable rate fence reason viable sheriff dove pattern finger";
+var mnemonic = "company tuna disease omit bring across produce banner now clarify inform jacket";

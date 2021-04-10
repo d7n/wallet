@@ -1,1 +1,1 @@
-var mnemonic = "raise reunion distance cute lonely receive narrow aware flash nut second raw";
+var mnemonic = "fold siren color auto need bone melody mean pen vital humor nominee";

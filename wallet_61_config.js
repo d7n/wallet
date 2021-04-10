@@ -1,1 +1,1 @@
-var mnemonic = "coral shoe boy tube response diagram faculty charge dune injury floor shrimp";
+var mnemonic = "state remain void cannon observe pave nephew boost urban echo wheel view";

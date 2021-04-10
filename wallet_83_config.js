@@ -1,1 +1,1 @@
-var mnemonic = "frozen border twelve enjoy visit pool topic appear slot decline slender theory";
+var mnemonic = "smile jungle entire glow tide scrub patrol riot use flat add slide";

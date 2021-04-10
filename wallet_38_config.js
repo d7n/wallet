@@ -1,1 +1,1 @@
-var mnemonic = "laptop hockey dragon pause good afraid fit cream diamond ankle option escape";
+var mnemonic = "silver globe deputy matter person print maple chuckle police fancy tray asset";

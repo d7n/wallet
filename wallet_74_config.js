@@ -1,1 +1,1 @@
-var mnemonic = "move pill permit width hamster situate dinosaur raw wide attitude wrap aim";
+var mnemonic = "copper aisle cup recycle say border outside slow vital wrong two attract";

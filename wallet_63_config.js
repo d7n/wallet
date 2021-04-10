@@ -1,1 +1,1 @@
-var mnemonic = "mouse notice loan prize actress audit biology tip ball ankle chalk consider";
+var mnemonic = "vendor essay silk axis during rain rival offer offer mango future twelve";

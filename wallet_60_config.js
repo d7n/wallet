@@ -1,1 +1,1 @@
-var mnemonic = "glare biology click boy express either punch head fury hobby exchange lazy";
+var mnemonic = "paddle possible double silver toward blood enter call recipe sell cable session";

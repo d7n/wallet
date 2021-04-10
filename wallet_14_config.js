@@ -1,1 +1,1 @@
-var mnemonic = "metal myself album stick pink artefact census zero wealth control wing squeeze";
+var mnemonic = "humble mass family lecture strike cool shallow poem fury nurse cruise balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet ocean route limb retreat damage bench enter hedgehog amount render eyebrow";
+var mnemonic = "grit card disorder inhale slogan arctic order toe remind direct all awkward";

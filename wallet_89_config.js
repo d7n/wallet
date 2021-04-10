@@ -1,1 +1,1 @@
-var mnemonic = "cream whisper shock ten wool virtual cup relax spend own insane stage";
+var mnemonic = "exit question disorder ethics violin high settle frequent dune topple modify obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "dice brown page couple dice echo lens fossil office intact sad catalog";
+var mnemonic = "prefer betray solution child only blame field truly parrot wing lawsuit basket";

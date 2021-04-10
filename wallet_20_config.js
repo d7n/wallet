@@ -1,1 +1,1 @@
-var mnemonic = "poverty eight couch collect crowd mad hunt endorse defy spray aim syrup";
+var mnemonic = "calm few dawn then divorce castle coral crystal topple alpha ocean special";

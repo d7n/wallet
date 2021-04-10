@@ -1,1 +1,1 @@
-var mnemonic = "say tuna gym lock dad exist neither eagle good vintage body erode";
+var mnemonic = "soda chase across dry slice deposit lady peanut slender fall cricket hero";

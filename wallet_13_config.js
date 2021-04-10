@@ -1,1 +1,1 @@
-var mnemonic = "swallow lazy loop wood owner shock detect balcony relief ridge rookie bright";
+var mnemonic = "satoshi identify coil first paddle achieve throw rack token stomach metal pizza";

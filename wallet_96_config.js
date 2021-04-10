@@ -1,1 +1,1 @@
-var mnemonic = "ice glare steel ketchup pilot chat fix climb barrel job switch public";
+var mnemonic = "crouch draw leopard thank write wrist film river deny margin join hurdle";

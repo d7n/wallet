@@ -1,1 +1,1 @@
-var mnemonic = "write damp twice stone tool luggage fragile near clock sister biology impact";
+var mnemonic = "two muscle police supply obscure lunch injury orange velvet elephant silent debris";

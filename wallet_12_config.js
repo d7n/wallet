@@ -1,1 +1,1 @@
-var mnemonic = "strong gossip lock path repair flush consider girl door roof evoke pipe";
+var mnemonic = "liar below bridge lift expand fork juice prison key tiny warrior hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "nut accuse cross ecology enact century extra orient chicken morning boat true";
+var mnemonic = "mixture pistol bulk budget wrong soon velvet dragon shiver illegal panel luggage";

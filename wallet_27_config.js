@@ -1,1 +1,1 @@
-var mnemonic = "october offer message slot color remember vapor mix vintage captain usage damp";
+var mnemonic = "again dutch board tuition ripple deer squeeze giraffe jacket churn have buzz";

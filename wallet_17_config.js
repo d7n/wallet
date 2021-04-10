@@ -1,1 +1,1 @@
-var mnemonic = "slab sauce economy scare boost erase token view bread toss expire start";
+var mnemonic = "oxygen blade clock squirrel inch type anxiety bless race gain female loud";

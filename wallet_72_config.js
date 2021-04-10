@@ -1,1 +1,1 @@
-var mnemonic = "exist cake injury chalk key live common find quarter mail diet reward";
+var mnemonic = "trust close plate frown friend fire eternal few knock barrel current cruise";

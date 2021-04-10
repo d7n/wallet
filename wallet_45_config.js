@@ -1,1 +1,1 @@
-var mnemonic = "unable wire old switch common harbor palm grit wolf auction piano phrase";
+var mnemonic = "reveal subject merry phone left drastic rail push shove curtain effort trick";

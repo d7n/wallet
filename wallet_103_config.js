@@ -1,1 +1,1 @@
-var mnemonic = "diet else clip dragon renew crew snow laptop logic eyebrow amateur misery";
+var mnemonic = "curve stool year spy endless disagree chef update peace laptop practice ill";

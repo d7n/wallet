@@ -1,1 +1,1 @@
-var mnemonic = "major pear grief cattle future sustain human absent enroll ball sausage draw";
+var mnemonic = "tired select skull electric fragile fatigue vote easy grunt quarter small theory";

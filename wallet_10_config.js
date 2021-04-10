@@ -1,1 +1,1 @@
-var mnemonic = "absurd club unlock year guard average into october myself return unknown since";
+var mnemonic = "velvet ski record siren supply planet drama end second over despair order";

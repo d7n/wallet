@@ -1,1 +1,1 @@
-var mnemonic = "couch doctor minute rug luggage sand item raw recipe harsh program indicate";
+var mnemonic = "weapon camera silver stairs fly guilt craft auction boss hat senior sail";

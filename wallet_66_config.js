@@ -1,1 +1,1 @@
-var mnemonic = "build reunion extend adult drill between track finish team grow pattern collect";
+var mnemonic = "kid address gossip panther load sight powder orphan farm country normal toast";

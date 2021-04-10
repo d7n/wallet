@@ -1,1 +1,1 @@
-var mnemonic = "rib hurt grunt fabric tag check gorilla gun extend amount kite tunnel";
+var mnemonic = "figure frozen potato sunny online inmate two toddler autumn swing vibrant lottery";

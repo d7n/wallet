@@ -1,1 +1,1 @@
-var mnemonic = "balance pond physical seek steak pepper stairs across silver ask they message";
+var mnemonic = "rather point diamond latin fish beach final oil thought monkey sausage wasp";

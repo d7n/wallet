@@ -1,1 +1,1 @@
-var mnemonic = "napkin private since coach borrow engage bike trip similar alien pause plug";
+var mnemonic = "trust search drum harsh coil slow hill mouse cattle tuition debris crop";

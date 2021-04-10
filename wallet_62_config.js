@@ -1,1 +1,1 @@
-var mnemonic = "correct chalk party attend install acquire nose jazz ball include enlist maid";
+var mnemonic = "major pulse wish have fiction moment local melody cinnamon void juice core";

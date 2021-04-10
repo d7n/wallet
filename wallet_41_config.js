@@ -1,1 +1,1 @@
-var mnemonic = "smile exact foam someone armor sniff load until reopen you glove taste";
+var mnemonic = "pulse deposit crunch broom globe picnic chest burden also tired goddess pear";

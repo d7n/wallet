@@ -1,1 +1,1 @@
-var mnemonic = "three ethics someone badge fun weapon ribbon lens sphere clog volcano review";
+var mnemonic = "sample note modify fly purse nest address sudden few orchard answer wood";

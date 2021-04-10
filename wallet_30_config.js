@@ -1,1 +1,1 @@
-var mnemonic = "stumble airport depart jaguar birth sorry venture balcony say fold diagram portion";
+var mnemonic = "office polar ring oblige horn ask join warrior have muffin else protect";

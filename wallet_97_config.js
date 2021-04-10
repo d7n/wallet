@@ -1,1 +1,1 @@
-var mnemonic = "wisdom office cruise kitten whip identify elbow crazy notable awesome used pond";
+var mnemonic = "leg fat romance wear again little total toast detect future laugh net";

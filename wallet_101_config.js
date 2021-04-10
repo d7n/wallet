@@ -1,1 +1,1 @@
-var mnemonic = "job conduct cram eyebrow embrace slight poem size bonus dog fork always";
+var mnemonic = "praise season switch scene scatter insect thunder harbor rebuild lab remind slab";

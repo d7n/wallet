@@ -1,1 +1,1 @@
-var mnemonic = "surprise utility forward island punch kite mean mystery neck action foster mention";
+var mnemonic = "stay wheat aisle struggle dose accident enhance saddle census modify ribbon private";

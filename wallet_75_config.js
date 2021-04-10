@@ -1,1 +1,1 @@
-var mnemonic = "faint now witness recall tag truth sea mansion powder perfect disagree cherry";
+var mnemonic = "question force unveil mansion evoke around sight cherry pride artefact nephew glad";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus leader faint diary brass fault shiver box dolphin pistol lab brown";
+var mnemonic = "sponsor open subject impulse crisp fetch spoil jazz evolve engage crater toss";

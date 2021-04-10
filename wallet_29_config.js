@@ -1,1 +1,1 @@
-var mnemonic = "purse allow pupil peasant deer thrive mimic organ edge assist reward among";
+var mnemonic = "achieve pigeon key solution voyage island sketch elevator bicycle tennis version dry";

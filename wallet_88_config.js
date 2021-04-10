@@ -1,1 +1,1 @@
-var mnemonic = "hurdle main emotion nuclear jacket impact hair mother hat spin stay dismiss";
+var mnemonic = "concert lawsuit project foster turkey empty rent play record waste question oval";

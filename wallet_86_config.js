@@ -1,1 +1,1 @@
-var mnemonic = "assist arm flash must pyramid dog error test erosion please solve caution";
+var mnemonic = "shoot expose wage knee boss ask knock trumpet scheme improve flag flush";

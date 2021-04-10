@@ -1,1 +1,1 @@
-var mnemonic = "roast rate enjoy ice poem walnut pepper finger live pottery royal minute";
+var mnemonic = "obvious illegal animal chronic acid citizen upon claim exact fatigue away once";

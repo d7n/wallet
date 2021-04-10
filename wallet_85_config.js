@@ -1,1 +1,1 @@
-var mnemonic = "jewel bird cash print inherit glow grab wool rain base fever mechanic";
+var mnemonic = "armor ceiling object enjoy vivid impulse tank prize pole hockey club pull";

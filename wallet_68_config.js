@@ -1,1 +1,1 @@
-var mnemonic = "hero bread people pudding galaxy tongue finger remain doctor glance sound pony";
+var mnemonic = "skull misery arrow neither casino together action girl warrior truth curious clog";

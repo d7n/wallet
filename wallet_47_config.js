@@ -1,1 +1,1 @@
-var mnemonic = "normal stick resist curtain test street ill drill seed lazy void miracle";
+var mnemonic = "dumb pool unaware manage remind subject lion aware depth afraid century void";

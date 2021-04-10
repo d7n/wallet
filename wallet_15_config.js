@@ -1,1 +1,1 @@
-var mnemonic = "shift rhythm welcome garlic version twin mask cabin drive eager atom smile";
+var mnemonic = "swallow road region decade vintage grace abandon derive retreat oil post small";

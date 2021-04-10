@@ -1,1 +1,1 @@
-var mnemonic = "escape wreck hurdle awful around spray marine blossom supply grit host tank";
+var mnemonic = "cream blouse creek throw junior buyer force drift develop antique cement apology";

@@ -1,1 +1,1 @@
-var mnemonic = "invest burden alarm luxury utility ugly rent van beyond response square exhibit";
+var mnemonic = "baby eyebrow alter morning rebel intact famous leopard neutral lazy unlock traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "problem because reject screen exit merry broom soccer discover armed annual view";
+var mnemonic = "case ivory august evoke act harvest leisure stairs head clutch stock verify";

@@ -1,1 +1,1 @@
-var mnemonic = "print smile image settle cat recipe harvest armor butter forest vast actor";
+var mnemonic = "gas street fade mosquito pyramid pipe state minor nerve cousin quiz fruit";

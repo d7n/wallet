@@ -1,1 +1,1 @@
-var mnemonic = "picnic box thing ancient coast amused apart inhale venture cash audit puppy";
+var mnemonic = "output dawn water host way domain wolf valid dwarf tourist tower pact";

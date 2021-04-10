@@ -1,1 +1,1 @@
-var mnemonic = "traffic sing bleak patch hood cannon finger cable engine rough monster globe";
+var mnemonic = "remain input battle gallery will fence expect happy margin rely mirror ticket";

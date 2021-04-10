@@ -1,1 +1,1 @@
-var mnemonic = "cactus october toss genius digital bundle verify cloud right pilot hurt fit";
+var mnemonic = "warm obey chimney under kid oyster asthma witness sister foster common scrap";

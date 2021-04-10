@@ -1,1 +1,1 @@
-var mnemonic = "caught powder alpha oyster cigar sword under firm assault vital cliff arrow";
+var mnemonic = "segment immense jaguar differ talent steak world imitate illegal plunge habit fault";

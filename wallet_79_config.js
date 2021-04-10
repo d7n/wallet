@@ -1,1 +1,1 @@
-var mnemonic = "spatial twelve virtual rent boil bird certain pistol pelican mail explain monkey";
+var mnemonic = "surge romance guilt candy tourist release check solid canal flee distance luxury";

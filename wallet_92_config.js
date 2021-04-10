@@ -1,1 +1,1 @@
-var mnemonic = "orbit enroll lounge slam liberty front april balcony fish noodle essay bargain";
+var mnemonic = "conduct page mirror credit eyebrow abstract segment lucky skill oxygen question excuse";

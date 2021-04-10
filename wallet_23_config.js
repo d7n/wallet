@@ -1,1 +1,1 @@
-var mnemonic = "glass age today vague raven need stadium sugar iron awesome material uncover";
+var mnemonic = "final supreme eyebrow author setup brief suffer silly social later distance country";

@@ -1,1 +1,1 @@
-var mnemonic = "horn document venue impose wise verb section promote summer donkey you route";
+var mnemonic = "permit plate post will breeze tissue picture utility reject next kid carry";

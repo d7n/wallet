@@ -1,1 +1,1 @@
-var mnemonic = "tiny speak visa fiscal suit chalk term elephant chat common flame inch";
+var mnemonic = "verify advance offer upgrade anger artist pyramid remember beyond sunny earn ordinary";

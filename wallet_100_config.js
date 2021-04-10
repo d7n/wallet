@@ -1,1 +1,1 @@
-var mnemonic = "devote gap escape exit pelican decide rack width fatigue grab tumble truck";
+var mnemonic = "sunny genuine suffer ensure army impulse stuff garment remind name tornado chat";

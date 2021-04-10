@@ -1,1 +1,1 @@
-var mnemonic = "wish rigid matrix inject soda anxiety quarter gossip teach job police huge";
+var mnemonic = "matter sleep review shrug gift pond salt hurry great antenna original glory";

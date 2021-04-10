@@ -1,1 +1,1 @@
-var mnemonic = "fiber horn enhance crop sample panic rotate village cherry tiger erode ticket";
+var mnemonic = "scout giggle wreck whisper smart bronze squirrel iron endless appear pumpkin turtle";

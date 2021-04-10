@@ -1,1 +1,1 @@
-var mnemonic = "group security tribe shrimp unusual dawn rack later snap sense help clerk";
+var mnemonic = "govern drive token calm attract tomorrow sudden umbrella ceiling punch cactus weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "shell coin agent decrease exercise roof hood alcohol treat buffalo include bus";
+var mnemonic = "trim few float affair minute staff trash home admit sense pear uncle";

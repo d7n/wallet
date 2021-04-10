@@ -1,1 +1,1 @@
-var mnemonic = "rigid ability resource cricket penalty foam arrow wagon stand spray cannon matter";
+var mnemonic = "horn knee camera vessel hawk bike daring marble glance response various deny";

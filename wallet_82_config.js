@@ -1,1 +1,1 @@
-var mnemonic = "leisure bless business lens arrive chase cotton axis best hover reduce viable";
+var mnemonic = "trip bitter camp goddess monkey coast panic attract execute glide jump cake";

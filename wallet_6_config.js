@@ -1,1 +1,1 @@
-var mnemonic = "stadium recycle again envelope donkey wish oyster runway excite arctic affair door";
+var mnemonic = "move nuclear slush sentence bonus amount engage wage garment hello toe marble";

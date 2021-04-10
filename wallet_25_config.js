@@ -1,1 +1,1 @@
-var mnemonic = "inspire dirt fluid scheme kite animal urge outdoor wedding village conduct bless";
+var mnemonic = "suit shoulder idea solid turkey response attack zebra today mix focus tiny";

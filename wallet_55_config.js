@@ -1,1 +1,1 @@
-var mnemonic = "cradle food fiction barrel casino alcohol clog ability gadget crucial shop entire";
+var mnemonic = "put track pill injury dose connect measure fitness monkey casual dance rally";

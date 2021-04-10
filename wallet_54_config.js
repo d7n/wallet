@@ -1,1 +1,1 @@
-var mnemonic = "spider enlist guilt bench refuse simple uniform gorilla theory guilt eagle three";
+var mnemonic = "major pause host rose trial frog dizzy wrong light unusual mad alcohol";

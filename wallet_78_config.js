@@ -1,1 +1,1 @@
-var mnemonic = "collect load climb deliver artist napkin labor excite shaft wool what sand";
+var mnemonic = "upon absurd crash rain comfort gasp ice voice elder cement reopen angry";

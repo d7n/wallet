@@ -1,1 +1,1 @@
-var mnemonic = "similar debris buyer strong memory steel issue clip image magnet poet audit";
+var mnemonic = "loud bus winner ice tray artefact paper pen visa ethics ankle test";

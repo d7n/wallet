@@ -1,1 +1,1 @@
-var mnemonic = "blind reveal acoustic rotate west retreat banner imitate fiber rookie cash during";
+var mnemonic = "captain arm slender beef roast lawsuit slice toast artist drive embark improve";

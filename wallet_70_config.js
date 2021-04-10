@@ -1,1 +1,1 @@
-var mnemonic = "below canoe little hamster banner alarm sister truly mammal sun remain advice";
+var mnemonic = "require artwork echo fury despair power carpet wasp nice ready primary share";

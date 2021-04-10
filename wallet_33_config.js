@@ -1,1 +1,1 @@
-var mnemonic = "retreat black champion culture solution gloom sun donate glow world patch purity";
+var mnemonic = "melody walnut grit family risk alcohol valley upper way october ill prize";
