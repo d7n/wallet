@@ -1,1 +1,1 @@
-var mnemonic = "view valve pluck sudden concert romance capital trap jungle nose soon salmon";
+var mnemonic = "kid sleep security carbon market cheese salt dinosaur leg embark foster dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "celery child athlete author yellow fold random chunk auction bounce alter raise";
+var mnemonic = "curious cliff other trigger pyramid chest wrist love month renew swamp easy";

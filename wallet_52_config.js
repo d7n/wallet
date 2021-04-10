@@ -1,1 +1,1 @@
-var mnemonic = "income dry avoid orchard inherit what walnut setup diagram friend hand know";
+var mnemonic = "market wash stage evidence expand cannon cute sort about client champion icon";

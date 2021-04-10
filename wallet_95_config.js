@@ -1,1 +1,1 @@
-var mnemonic = "front general balance near idle turkey pink hockey dentist scrap heavy melt";
+var mnemonic = "country flame laundry school girl hope jump repair warfare script marriage science";

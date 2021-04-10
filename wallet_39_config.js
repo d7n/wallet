@@ -1,1 +1,1 @@
-var mnemonic = "walnut strike lens wink hammer harvest profit capable timber drift solve kick";
+var mnemonic = "toddler flip poverty broccoli goose once annual cabin pluck olive galaxy morning";

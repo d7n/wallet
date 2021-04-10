@@ -1,1 +1,1 @@
-var mnemonic = "feel discover note silver acoustic lift chunk alpha insect fantasy skill creek";
+var mnemonic = "market father spoil multiply orbit buyer often three elevator stairs extra purity";

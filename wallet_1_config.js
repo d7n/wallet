@@ -1,1 +1,1 @@
-var mnemonic = "raccoon chat glove setup inquiry skirt grain member globe alcohol nice gallery";
+var mnemonic = "bulk enroll title hobby humble image custom sustain initial lucky denial stage";

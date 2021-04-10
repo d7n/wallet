@@ -1,1 +1,1 @@
-var mnemonic = "carbon sponsor anger genius index mother defense produce toddler venture scene defense";
+var mnemonic = "peanut bargain refuse whip ladder tumble corn mountain salt song pole monster";

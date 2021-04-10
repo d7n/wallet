@@ -1,1 +1,1 @@
-var mnemonic = "summer december copy cargo trim minimum wrist step hub wet scale task";
+var mnemonic = "income burger stumble bamboo multiply learn mansion slush desert outdoor erupt box";

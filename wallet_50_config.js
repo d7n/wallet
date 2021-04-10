@@ -1,1 +1,1 @@
-var mnemonic = "toss term distance keep sick sort please clarify main excite genuine pill";
+var mnemonic = "stay ship enact shift leopard repeat curious sudden salmon acquire wave eight";

@@ -1,1 +1,1 @@
-var mnemonic = "bone bacon hire jacket clarify embark off bus frame code industry jump";
+var mnemonic = "acoustic ski tip bus trophy void huge ivory hub honey old spoon";

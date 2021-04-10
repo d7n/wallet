@@ -1,1 +1,1 @@
-var mnemonic = "like solve tank funny fever ignore edge baby couch pledge utility world";
+var mnemonic = "inject hint walnut purse ugly decide luxury eternal success chair story they";

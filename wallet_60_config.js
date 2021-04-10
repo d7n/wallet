@@ -1,1 +1,1 @@
-var mnemonic = "thunder replace spread select result journey upset rescue eight focus exotic cattle";
+var mnemonic = "oblige correct major credit minimum near dizzy liar phone still crunch mechanic";

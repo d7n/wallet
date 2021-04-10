@@ -1,1 +1,1 @@
-var mnemonic = "vessel author noodle disagree paddle shove catalog marble crouch wage home miss";
+var mnemonic = "punch glory apart poem antique visit narrow wear blanket return warfare sponsor";

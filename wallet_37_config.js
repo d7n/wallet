@@ -1,1 +1,1 @@
-var mnemonic = "useless silk walk cannon piano wine initial various hamster book stage section";
+var mnemonic = "bundle blouse left survey enough debris shuffle web caution donor large dutch";

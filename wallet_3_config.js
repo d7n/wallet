@@ -1,1 +1,1 @@
-var mnemonic = "review blossom lazy duty whip exotic kind purpose van urge error unveil";
+var mnemonic = "abuse share nasty ginger thought boring ten busy noodle gasp use goose";

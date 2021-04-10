@@ -1,1 +1,1 @@
-var mnemonic = "song display mobile twelve rookie arena super rule solid autumn useless vast";
+var mnemonic = "intact need square reform trigger toe orchard another inject liberty worth crack";

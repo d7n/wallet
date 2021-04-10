@@ -1,1 +1,1 @@
-var mnemonic = "output behind valve gasp school recall purse naive toss great senior action";
+var mnemonic = "regular anxiety that praise spice feed funny winter flower capital finish race";

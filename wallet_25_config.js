@@ -1,1 +1,1 @@
-var mnemonic = "staff ride distance level hello quiz office file chapter fine puppy regular";
+var mnemonic = "mad screen little mountain safe purity slender inherit robot evidence wash sick";

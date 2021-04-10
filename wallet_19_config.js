@@ -1,1 +1,1 @@
-var mnemonic = "hurt visual return moral cream gospel coral other rough west tissue loop";
+var mnemonic = "drink front bag inmate digital hidden erosion inquiry aunt usual forest network";

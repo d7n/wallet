@@ -1,1 +1,1 @@
-var mnemonic = "apart slender lecture first avocado level glow leave real remain matter ticket";
+var mnemonic = "sheriff vivid pig glare smile rather maximum suit float start step biology";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist distance spray section perfect million season buzz banner have lawsuit old";
+var mnemonic = "hotel human resource plug token video glue ocean will tribe ten oil";

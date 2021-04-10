@@ -1,1 +1,1 @@
-var mnemonic = "tissue beyond tattoo seek pitch where slim long bomb shoe hover gloom";
+var mnemonic = "pioneer detail way express snow off draw chat elite lab broom team";

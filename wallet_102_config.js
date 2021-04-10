@@ -1,1 +1,1 @@
-var mnemonic = "obvious mad express improve curtain habit brand weird trumpet when birth flip";
+var mnemonic = "shy gesture raven anxiety reform amateur apart tape weird family bargain settle";

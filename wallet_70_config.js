@@ -1,1 +1,1 @@
-var mnemonic = "axis mail rather manual describe stove nurse rocket trade cram drink social";
+var mnemonic = "circle acoustic midnight amazing mosquito asset merge team thank ship antenna equip";

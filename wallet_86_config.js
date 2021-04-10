@@ -1,1 +1,1 @@
-var mnemonic = "pluck swim chunk human desert mad humble marriage urban bar skull ridge";
+var mnemonic = "lake ski image trial sugar snake talk noodle adult pride celery arrange";

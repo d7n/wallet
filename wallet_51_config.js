@@ -1,1 +1,1 @@
-var mnemonic = "cube end above boss wet season uniform arrange steel trend change hello";
+var mnemonic = "reveal exercise ice margin clarify actor certain critic mixture leg banner genius";

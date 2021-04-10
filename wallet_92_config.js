@@ -1,1 +1,1 @@
-var mnemonic = "coach fly daring ticket face tobacco moment space embody invest eagle cycle";
+var mnemonic = "final approve zero security tonight pretty moon lunch atom loan green airport";

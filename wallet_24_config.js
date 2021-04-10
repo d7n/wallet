@@ -1,1 +1,1 @@
-var mnemonic = "blur camp gadget garbage awesome cute chair maximum beef exact valid bleak";
+var mnemonic = "shaft crack thumb great cabbage armed health art jazz change present fade";

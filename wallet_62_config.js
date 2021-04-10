@@ -1,1 +1,1 @@
-var mnemonic = "kitchen pottery build iron vast bench morning liquid tackle lake wash case";
+var mnemonic = "board eagle jar hamster merry snake lava laugh physical vault game ocean";

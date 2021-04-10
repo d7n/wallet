@@ -1,1 +1,1 @@
-var mnemonic = "riot shock brick between snap sugar buddy delay wheel plunge infant staff";
+var mnemonic = "plate mistake night riot ugly explain teach sunny unfold soda toe weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "surround predict gallery pelican danger evil slogan tree omit rent one hurt";
+var mnemonic = "wrong island please correct promote skill ankle crash antenna hello lemon winter";

@@ -1,1 +1,1 @@
-var mnemonic = "basic absurd column together census toddler drink spread glass race gold merry";
+var mnemonic = "chuckle shrimp join rubber soap lens play unknown guitar gift sell awake";

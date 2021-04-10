@@ -1,1 +1,1 @@
-var mnemonic = "coffee people pride afford adult noise improve talent supply spot kite final";
+var mnemonic = "smooth ostrich swear carpet silk gap gorilla essay play video shield broom";

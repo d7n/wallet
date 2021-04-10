@@ -1,1 +1,1 @@
-var mnemonic = "maid extra lunch maze flee slide icon digital dragon piece fix smart";
+var mnemonic = "they tomato fury praise grunt repeat embark funny flame custom vital flower";

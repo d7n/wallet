@@ -1,1 +1,1 @@
-var mnemonic = "corn canvas update glue feel velvet minute genuine phrase emerge naive cute";
+var mnemonic = "fade filter balcony vicious text unusual bag way tuition ancient away emerge";

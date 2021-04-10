@@ -1,1 +1,1 @@
-var mnemonic = "half common omit gap metal version champion aerobic husband garage miracle result";
+var mnemonic = "prevent poverty caution sausage enemy earth silly there pretty copper joy then";

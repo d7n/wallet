@@ -1,1 +1,1 @@
-var mnemonic = "maple pony resemble relax chest news smart census token human grunt fall";
+var mnemonic = "demand virtual arena hat wolf sure sustain captain reward theme illegal nurse";

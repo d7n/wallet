@@ -1,1 +1,1 @@
-var mnemonic = "what uncover isolate swift combine senior wrap useful monster also mass still";
+var mnemonic = "basket eye shallow release sister reflect glimpse gasp envelope witness ring fetch";

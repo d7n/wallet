@@ -1,1 +1,1 @@
-var mnemonic = "patch matrix pear entry blue cancel mouse group genius brother biology man";
+var mnemonic = "present pencil laundry south radar stadium board slice bench winter half arctic";

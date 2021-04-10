@@ -1,1 +1,1 @@
-var mnemonic = "monkey woman kangaroo employ arctic violin arrive execute wheel follow april impulse";
+var mnemonic = "dirt sock clean ability disagree embody impulse turn monkey mango horse chaos";

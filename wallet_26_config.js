@@ -1,1 +1,1 @@
-var mnemonic = "thumb mouse mind daring submit scout opera govern mercy sheriff parrot creek";
+var mnemonic = "abandon toss reduce close labor tiger option panel trip liberty message rebel";

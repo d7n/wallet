@@ -1,1 +1,1 @@
-var mnemonic = "wrong become siren program fault lion april vanish supreme profit design surge";
+var mnemonic = "deputy symptom solution twice grief axis craft tonight limb kidney security help";

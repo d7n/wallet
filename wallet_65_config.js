@@ -1,1 +1,1 @@
-var mnemonic = "version laundry trade gravity swear hill space guilt panic foot chronic cup";
+var mnemonic = "rose hundred suffer reflect success legend crazy consider certain use either jump";

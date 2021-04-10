@@ -1,1 +1,1 @@
-var mnemonic = "base luxury clock village limb ask eagle truck toss rack nerve jump";
+var mnemonic = "convince frame chimney deposit guess glory grab father true river such evil";

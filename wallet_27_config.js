@@ -1,1 +1,1 @@
-var mnemonic = "spy notable noodle chef vessel century appear jaguar car tilt wonder beauty";
+var mnemonic = "drip state inch grocery sun van shed leopard pelican pair helmet age";

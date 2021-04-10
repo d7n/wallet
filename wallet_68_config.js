@@ -1,1 +1,1 @@
-var mnemonic = "chaos object teach swallow erosion economy wolf random choose captain hazard chase";
+var mnemonic = "castle install cage spell hawk over fatigue answer huge grape fade quick";

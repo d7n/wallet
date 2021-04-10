@@ -1,1 +1,1 @@
-var mnemonic = "flower emotion crash wish silver own train clutch find hazard steel artwork";
+var mnemonic = "frost cluster transfer hard box mobile boss beef render rifle rural rich";

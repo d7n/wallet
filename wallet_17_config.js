@@ -1,1 +1,1 @@
-var mnemonic = "yellow high burden hair pistol head awesome vibrant hollow write stumble nest";
+var mnemonic = "left release unveil rain noodle nurse tool any purity empty supply latin";

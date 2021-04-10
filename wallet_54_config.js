@@ -1,1 +1,1 @@
-var mnemonic = "federal wheat fatal brief engage urban wall moral leader pride fluid brief";
+var mnemonic = "nurse donor shiver wealth muscle design live swing whale call similar give";

@@ -1,1 +1,1 @@
-var mnemonic = "police fame toddler cash detect album lend woman interest try pumpkin work";
+var mnemonic = "turkey repeat expand frown elephant fun evoke mass siege box equal false";

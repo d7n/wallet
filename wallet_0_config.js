@@ -1,1 +1,1 @@
-var mnemonic = "velvet logic edge few twice relief music coach boy glare summer because";
+var mnemonic = "thing nephew unknown liquid damp solar version vital spring pass bike best";

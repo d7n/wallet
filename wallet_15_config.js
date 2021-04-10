@@ -1,1 +1,1 @@
-var mnemonic = "brick begin symbol trim normal century riot vast zoo nation economy again";
+var mnemonic = "kiss saddle furnace today stem atom supply mosquito wing chase hair during";

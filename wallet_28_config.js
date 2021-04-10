@@ -1,1 +1,1 @@
-var mnemonic = "celery traffic barrel radio horse rabbit able mobile cram aunt hybrid six";
+var mnemonic = "soft blanket fatigue denial reject enrich economy actor picnic success scout amazing";

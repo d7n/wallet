@@ -1,1 +1,1 @@
-var mnemonic = "extend neutral retire chapter cloud shell orphan rookie employ vault crush chicken";
+var mnemonic = "client famous street gloom this prevent stove veteran peanut stone thought ski";

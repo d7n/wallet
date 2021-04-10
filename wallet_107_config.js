@@ -1,1 +1,1 @@
-var mnemonic = "because retire essay cereal absurd must climb drop join approve orient sausage";
+var mnemonic = "melody visual solid stable melody portion number sun skin hip open voyage";

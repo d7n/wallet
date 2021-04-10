@@ -1,1 +1,1 @@
-var mnemonic = "purity illness lift chuckle lunch order impact fish that category title purpose";
+var mnemonic = "theory rose horror envelope gadget frown canoe quick razor swear member pair";

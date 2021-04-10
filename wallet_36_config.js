@@ -1,1 +1,1 @@
-var mnemonic = "clap head erupt number skate huge head estate general below hat pelican";
+var mnemonic = "key visit top fresh imitate note mercy pitch fun wine opera can";

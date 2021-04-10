@@ -1,1 +1,1 @@
-var mnemonic = "dish tissue level wool success cabin join blue empty embrace quality sugar";
+var mnemonic = "grant mandate off chimney insane excite people flock risk this elder spoil";

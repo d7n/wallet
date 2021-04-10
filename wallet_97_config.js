@@ -1,1 +1,1 @@
-var mnemonic = "scout luggage miss rebuild train merry scale protect sort capable mansion deny";
+var mnemonic = "rib private sustain ocean parent much swear bench season sing comic hundred";

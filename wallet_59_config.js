@@ -1,1 +1,1 @@
-var mnemonic = "wolf category square panic purchase pear orange behind mix thunder jar blame";
+var mnemonic = "real cake lamp deer pear bicycle love smoke tooth enforce viable figure";

@@ -1,1 +1,1 @@
-var mnemonic = "future inch barely suit race other fossil cheap squirrel fault nose cabbage";
+var mnemonic = "awful okay awkward exotic blast wedding salt jump conduct pave devote razor";

@@ -1,1 +1,1 @@
-var mnemonic = "stand cycle talk current spin toast always fashion diesel scene grit fire";
+var mnemonic = "unfair harvest aisle catalog venture cat permit extend buyer know rain matter";

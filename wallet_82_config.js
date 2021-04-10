@@ -1,1 +1,1 @@
-var mnemonic = "main garbage afford emotion satisfy impose media donate junk wise foam this";
+var mnemonic = "slim page north blast vivid use drive warfare doll post rural loud";

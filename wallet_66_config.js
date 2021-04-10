@@ -1,1 +1,1 @@
-var mnemonic = "bridge ocean unable decide physical axis accuse avoid meadow index vast ten";
+var mnemonic = "alcohol hub clock family bracket citizen rely lend crew random profit because";

@@ -1,1 +1,1 @@
-var mnemonic = "stable work snow twist sword raise depth clog pig equip camera bleak";
+var mnemonic = "organ nut siege arch crystal urge grief narrow analyst shell coyote confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "wink august view goose bag draw approve sound gas aim neck swing";
+var mnemonic = "green allow coconut suffer filter torch test supply twenty bring twice effort";

@@ -1,1 +1,1 @@
-var mnemonic = "merit protect gown scorpion immune coral noodle aerobic license fuel walnut dad";
+var mnemonic = "muscle way few theme maze canvas enact verify raccoon whip penalty slam";

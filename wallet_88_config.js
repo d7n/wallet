@@ -1,1 +1,1 @@
-var mnemonic = "feed custom vocal divorce uncover rigid outdoor globe orchard frequent pet badge";
+var mnemonic = "youth rural cave property pony pelican ability cycle original faith space unveil";

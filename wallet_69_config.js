@@ -1,1 +1,1 @@
-var mnemonic = "gorilla range embrace guitar mechanic shock desert donkey hold tuition toss farm";
+var mnemonic = "reopen picnic amazing index poverty shoot online custom pony dawn permit omit";

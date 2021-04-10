@@ -1,1 +1,1 @@
-var mnemonic = "brain addict math peasant industry lunar rely sound general cycle ladder knee";
+var mnemonic = "piano anger sing plastic sketch enroll analyst breeze emotion biology envelope guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed electric blouse puppy choose use wonder play link joke furnace galaxy";
+var mnemonic = "lunch coconut result copper sick chuckle raccoon actor bullet claw twin plug";

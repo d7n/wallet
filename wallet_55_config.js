@@ -1,1 +1,1 @@
-var mnemonic = "fury economy sorry tide dizzy table mixture flock interest runway pact airport";
+var mnemonic = "mad cloud what protect total obvious hungry brick casino lemon direct impact";

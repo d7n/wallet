@@ -1,1 +1,1 @@
-var mnemonic = "height aware deny foot calm attend trash shoulder section begin hurdle piano";
+var mnemonic = "pair load denial belt blanket bind snap mom garage lift stem scrap";

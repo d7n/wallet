@@ -1,1 +1,1 @@
-var mnemonic = "novel age typical project junior poet awesome outside system endless between weird";
+var mnemonic = "advice corn shadow flip exist metal rubber fence yellow assume business income";

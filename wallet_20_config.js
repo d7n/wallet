@@ -1,1 +1,1 @@
-var mnemonic = "century surface sail history brother glass piece harvest energy auto crash print";
+var mnemonic = "flash peace detail usual double car symbol kite scout sight toilet ocean";

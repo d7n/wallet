@@ -1,1 +1,1 @@
-var mnemonic = "hill van cave furnace round valley damp mystery bitter beauty card own";
+var mnemonic = "smoke act harvest stand fence brown debris path square pond riot distance";

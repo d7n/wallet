@@ -1,1 +1,1 @@
-var mnemonic = "ball regular capable spy shrug service conduct begin source cube spring hip";
+var mnemonic = "pledge snack umbrella net use circle together aunt easy shaft latin squeeze";

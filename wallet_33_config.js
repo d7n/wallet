@@ -1,1 +1,1 @@
-var mnemonic = "shrug level metal antenna rural barrel salute cart ceiling rule february marine";
+var mnemonic = "mixed become board coconut language cash heart leisure tunnel nuclear mansion small";

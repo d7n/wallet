@@ -1,1 +1,1 @@
-var mnemonic = "hero bracket tape speed dumb cake require power indoor kind image achieve";
+var mnemonic = "satoshi snap balcony mixture inch pumpkin october length picnic nation brick cube";

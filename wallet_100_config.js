@@ -1,1 +1,1 @@
-var mnemonic = "emotion jar improve quarter win remind cement ostrich cloth dynamic giant pioneer";
+var mnemonic = "sure aerobic glue pulse canvas surprise marble uniform forget arm rigid chuckle";

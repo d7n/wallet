@@ -1,1 +1,1 @@
-var mnemonic = "diet salute submit genuine sail noise occur vintage actor culture lemon trial";
+var mnemonic = "hawk cheese thunder sense segment cruel universe urge glance priority razor result";

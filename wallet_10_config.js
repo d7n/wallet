@@ -1,1 +1,1 @@
-var mnemonic = "visa hour suspect twelve welcome ability caught mask special found become dry";
+var mnemonic = "capital sleep health potato swing captain example cash soda snack laptop account";

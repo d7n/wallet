@@ -1,1 +1,1 @@
-var mnemonic = "sunset prefer crack tired regret chest monkey enact win large story grief";
+var mnemonic = "join input gasp between also escape keep uniform practice age pony buyer";

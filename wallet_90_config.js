@@ -1,1 +1,1 @@
-var mnemonic = "carpet garment goose october vocal grocery explain wage term dash desert target";
+var mnemonic = "switch dog judge plate pond rocket erupt vessel sleep boil tuna layer";

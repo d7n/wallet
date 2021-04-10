@@ -1,1 +1,1 @@
-var mnemonic = "basic cup outdoor organ jacket print click shiver raven actress nasty rural";
+var mnemonic = "lucky video cage okay bid coffee unfair inflict ball better head rule";

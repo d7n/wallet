@@ -1,1 +1,1 @@
-var mnemonic = "camera swift often welcome question hen inherit slush ethics notice perfect bunker";
+var mnemonic = "oak wild purse same decrease orchard stock little between twice spike light";

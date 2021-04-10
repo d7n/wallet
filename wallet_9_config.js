@@ -1,1 +1,1 @@
-var mnemonic = "cat tip belt cost kiwi uncover ahead valley winter jazz much mixture";
+var mnemonic = "lift chuckle bar flight remember possible chapter cycle position main fun unusual";

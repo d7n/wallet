@@ -1,1 +1,1 @@
-var mnemonic = "borrow tree excess twelve jelly vague noise dust huge cheap warm hybrid";
+var mnemonic = "enroll bullet regular spatial brief increase stay snap carry breeze pistol deal";

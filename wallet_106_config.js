@@ -1,1 +1,1 @@
-var mnemonic = "aunt vocal fan lens paddle action combine obscure still clay spawn humble";
+var mnemonic = "entire display green you chaos prize help bridge easy sell test donate";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel craft lumber permit survey child west select radar achieve stick position";
+var mnemonic = "danger vacant lizard cause dog reduce brand real shop one correct erupt";

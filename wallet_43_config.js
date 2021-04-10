@@ -1,1 +1,1 @@
-var mnemonic = "brisk student need claw treat witness weather grape chaos amount double bulb";
+var mnemonic = "bubble allow vessel want reform myth expand unable awful cushion process betray";

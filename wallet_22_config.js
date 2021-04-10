@@ -1,1 +1,1 @@
-var mnemonic = "truck aspect fortune speed panic title own kit left maple claim sustain";
+var mnemonic = "measure cargo position brick canoe lunch wild armor donate mask one worth";
