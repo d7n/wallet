@@ -1,1 +1,1 @@
-var mnemonic = "defense shaft chapter away walnut spatial inmate rural castle tide tooth diesel";
+var mnemonic = "tiger plug achieve brass smooth salad merge riot chat safe hurt keep";

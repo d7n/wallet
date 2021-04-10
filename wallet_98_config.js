@@ -1,1 +1,1 @@
-var mnemonic = "torch library disorder observe ski frown amazing wait travel chief random metal";
+var mnemonic = "make despair soft vicious spider girl unfair tragic ladder sound trust ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "maze spice wrist witness milk glove unfair quick birth demand lava drive";
+var mnemonic = "address sell naive maid fabric black hawk jeans spy ridge detect diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot surface entire eight helmet dream provide polar critic stumble luggage explain";
+var mnemonic = "weather dry awesome must sustain toddler tumble rose enhance before pair slice";

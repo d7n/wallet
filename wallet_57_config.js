@@ -1,1 +1,1 @@
-var mnemonic = "light filter genius bulb eagle pizza spirit anger frog zone also village";
+var mnemonic = "height print boring wood answer develop neck milk foam diary valve protect";

@@ -1,1 +1,1 @@
-var mnemonic = "weather stay brush know stool initial humble twist culture film fatigue dial";
+var mnemonic = "duty taste hello essay journey galaxy bulb replace sample alert mandate best";

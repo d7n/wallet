@@ -1,1 +1,1 @@
-var mnemonic = "artwork marriage lake future color canal obscure pave crop include nation speed";
+var mnemonic = "capital frame actor pause miss pen fury mystery tail solution someone category";

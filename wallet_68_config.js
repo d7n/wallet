@@ -1,1 +1,1 @@
-var mnemonic = "erase iron empty elegant alter coral crime enact bleak sight power grant";
+var mnemonic = "mosquito warrior laugh topple great bench nurse april recycle kite general fancy";

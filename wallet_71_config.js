@@ -1,1 +1,1 @@
-var mnemonic = "adapt birth duty tribe phone mushroom social crack alert meadow resource recycle";
+var mnemonic = "step catalog remain effort nose burger inhale skill oyster dinosaur employ jewel";

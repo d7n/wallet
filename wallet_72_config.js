@@ -1,1 +1,1 @@
-var mnemonic = "multiply light web never feel clinic distance another eye action three genuine";
+var mnemonic = "bread inject moon tree mango tennis tattoo distance sing candy exist leader";

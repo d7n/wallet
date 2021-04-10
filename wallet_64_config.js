@@ -1,1 +1,1 @@
-var mnemonic = "want mixed awesome face become shadow scatter blur public early wonder actress";
+var mnemonic = "follow finish material index sword same loyal liberty hundred brick pioneer pitch";

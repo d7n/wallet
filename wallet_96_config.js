@@ -1,1 +1,1 @@
-var mnemonic = "shrug gallery weekend tenant clever minimum sadness version answer else unit embrace";
+var mnemonic = "amount auction blush zoo rich unable only evoke illegal language erosion enforce";

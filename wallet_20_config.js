@@ -1,1 +1,1 @@
-var mnemonic = "asthma pulp cherry mixture junk fly rescue wave risk actress budget finger";
+var mnemonic = "snap obey chaos attitude host end more nation junk drift wonder essence";

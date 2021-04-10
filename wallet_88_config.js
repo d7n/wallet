@@ -1,1 +1,1 @@
-var mnemonic = "elder wine wagon force discover defy kiwi trouble eyebrow dirt before rescue";
+var mnemonic = "artist parent call pride grow buyer task total robust midnight fold pull";

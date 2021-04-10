@@ -1,1 +1,1 @@
-var mnemonic = "dice fiber card law end solar blame post soccer brave salad small";
+var mnemonic = "whip oyster film riot bonus crush vacant panic require upset goddess tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen badge plunge twice charge admit number ice remove rescue rescue wall";
+var mnemonic = "female shine amazing bamboo goose axis eternal master maximum symptom unfair stool";

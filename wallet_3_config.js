@@ -1,1 +1,1 @@
-var mnemonic = "link used practice reward cousin air dragon grid pitch scheme solution shell";
+var mnemonic = "antique edge lake boring scare milk whip convince assume dash west talk";

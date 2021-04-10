@@ -1,1 +1,1 @@
-var mnemonic = "umbrella come powder hover client fence tennis truly fancy man rocket blame";
+var mnemonic = "purchase athlete sniff fiber rocket favorite coconut struggle give muscle pioneer favorite";

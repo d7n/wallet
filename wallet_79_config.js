@@ -1,1 +1,1 @@
-var mnemonic = "source fiscal lend gloom labor trip piano position left arrow vast song";
+var mnemonic = "invest base away mom between record bottom fashion shed test dutch garment";

@@ -1,1 +1,1 @@
-var mnemonic = "apple iron wolf horror egg setup error convince act reform mesh rhythm";
+var mnemonic = "ketchup horn rent rough argue sweet exotic dose record seminar body palm";

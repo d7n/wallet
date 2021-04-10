@@ -1,1 +1,1 @@
-var mnemonic = "arch spawn warm neither drastic sunset build initial slogan knee pony vicious";
+var mnemonic = "negative alone sample dad witness eager rebel camp puppy already orbit lazy";

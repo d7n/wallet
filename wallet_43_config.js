@@ -1,1 +1,1 @@
-var mnemonic = "recycle vintage urban toward poem return theme forest another say lawn snap";
+var mnemonic = "dynamic lens reject ski verify fitness almost cake job beauty lawsuit range";

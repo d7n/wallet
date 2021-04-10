@@ -1,1 +1,1 @@
-var mnemonic = "future hotel outside tonight lawn alone pottery heavy sadness index luxury mansion";
+var mnemonic = "misery loyal tomorrow object twelve lunch able sell sweet panda barrel fringe";

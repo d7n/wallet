@@ -1,1 +1,1 @@
-var mnemonic = "stamp torch habit phone machine borrow spider account conduct laundry swear flock";
+var mnemonic = "gun drink cargo engine easily else mutual prosper town unique brave cricket";

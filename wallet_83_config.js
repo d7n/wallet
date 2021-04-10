@@ -1,1 +1,1 @@
-var mnemonic = "aerobic salmon gospel flame element patch adapt wise height bullet nothing chunk";
+var mnemonic = "absurd time neck life surface critic win diesel decade there horror giraffe";

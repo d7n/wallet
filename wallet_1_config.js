@@ -1,1 +1,1 @@
-var mnemonic = "wagon beyond banana scan copper rifle pet island cigar enforce museum absurd";
+var mnemonic = "wreck insect wet eyebrow edit hollow tuition text nominee vast adapt quality";

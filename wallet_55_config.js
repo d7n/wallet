@@ -1,1 +1,1 @@
-var mnemonic = "pyramid hole divert amount math sound cloth system sense cancel kitchen fix";
+var mnemonic = "smooth since discover vintage hire stairs actor tiny vote resource chuckle cereal";

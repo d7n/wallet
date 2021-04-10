@@ -1,1 +1,1 @@
-var mnemonic = "cost firm trap verify saddle kid noodle expire direct alarm candy order";
+var mnemonic = "annual net soda witness manual couch lemon mass public act twice secret";

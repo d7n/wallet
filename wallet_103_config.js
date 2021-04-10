@@ -1,1 +1,1 @@
-var mnemonic = "mean chief suffer region trend anxiety betray mesh dress now salon blood";
+var mnemonic = "sun pride proof loop ozone admit just joy salt habit height source";

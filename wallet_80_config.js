@@ -1,1 +1,1 @@
-var mnemonic = "mean must salon blame enroll long board sister manage crunch naive drama";
+var mnemonic = "dad bullet brain purchase spoon banner avocado lemon device aspect inform latin";

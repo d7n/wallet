@@ -1,1 +1,1 @@
-var mnemonic = "yard slow library walnut soccer bitter purpose twice snake vibrant used sing";
+var mnemonic = "nominee domain inject oven immune secret credit cake clinic total lady chest";

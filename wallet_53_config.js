@@ -1,1 +1,1 @@
-var mnemonic = "twist alpha candy exhaust advice quantum master brand cancel sing dinosaur dial";
+var mnemonic = "round spring village lumber unknown cotton month twist differ toast test stable";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual alarm toss left fragile brave trap enemy two actor life mobile";
+var mnemonic = "aspect unlock safe poet motion naive tag fatigue good pet rhythm caution";

@@ -1,1 +1,1 @@
-var mnemonic = "trash street lamp limit kit deal leader butter huge brass acquire predict";
+var mnemonic = "drive tortoise debris junior gift dial trash wreck fancy permit can gallery";

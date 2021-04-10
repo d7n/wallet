@@ -1,1 +1,1 @@
-var mnemonic = "company rocket wedding harvest chapter cloth weasel blind gloom enter trash pear";
+var mnemonic = "camera disorder flee dust student wrap know manage lobster grain matrix sustain";

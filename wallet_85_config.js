@@ -1,1 +1,1 @@
-var mnemonic = "provide arch help girl whisper double news viable rather inform hello divide";
+var mnemonic = "april all carry bottom awesome today symptom notable thank increase north purity";

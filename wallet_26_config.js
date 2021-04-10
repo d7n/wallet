@@ -1,1 +1,1 @@
-var mnemonic = "toy thought despair permit pistol place cement space bubble stage radio adjust";
+var mnemonic = "force evolve spot arrest violin below dish gun swift glove debris swim";

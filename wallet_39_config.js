@@ -1,1 +1,1 @@
-var mnemonic = "taste beach pen sponsor room spread drum segment art miracle melody scatter";
+var mnemonic = "glass flag side seven engine team omit series random only brave atom";

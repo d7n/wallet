@@ -1,1 +1,1 @@
-var mnemonic = "edge dry double enter category pelican lake skin garment mind seminar thunder";
+var mnemonic = "tent cruel congress glimpse worth miss dutch build bullet observe trial other";

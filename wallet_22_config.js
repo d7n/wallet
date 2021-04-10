@@ -1,1 +1,1 @@
-var mnemonic = "wait runway tag below surge screen pave rubber purse water depth neutral";
+var mnemonic = "fetch run test session vicious antenna fame sight cry tired give casual";

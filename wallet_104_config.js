@@ -1,1 +1,1 @@
-var mnemonic = "weekend price ethics powder wheel lumber balcony pyramid beyond domain ghost example";
+var mnemonic = "federal hire goat elbow bird riot valve version poem lunch cargo disagree";

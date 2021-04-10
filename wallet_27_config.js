@@ -1,1 +1,1 @@
-var mnemonic = "forum wide spare comfort strong scrub soap lunar blame sentence actress voice";
+var mnemonic = "hero slot alarm audit damp close bench genre bid admit axis final";

@@ -1,1 +1,1 @@
-var mnemonic = "craft outer provide effort depart little pledge screen punch divert humor coach";
+var mnemonic = "evoke orbit fever chimney humble page clog vanish quality design broken amateur";

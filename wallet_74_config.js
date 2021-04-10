@@ -1,1 +1,1 @@
-var mnemonic = "deposit say pottery timber omit column taste vapor noble always garden exchange";
+var mnemonic = "sadness guilt glance armor sleep defense possible ugly frozen enforce design mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom tumble myth earth tide employ clutch trash toilet language harbor snack";
+var mnemonic = "antenna result this clever consider world twelve chicken innocent roast enact effort";

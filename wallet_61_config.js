@@ -1,1 +1,1 @@
-var mnemonic = "concert cupboard surprise galaxy table ladder build wire burst degree link border";
+var mnemonic = "episode vague prosper garlic moment tomato canoe light icon steel today focus";

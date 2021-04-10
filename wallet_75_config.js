@@ -1,1 +1,1 @@
-var mnemonic = "conduct enforce solid then candy story frog vicious genre quantum rain enforce";
+var mnemonic = "ranch ugly civil know poet vacuum tired toward luggage pen educate burger";

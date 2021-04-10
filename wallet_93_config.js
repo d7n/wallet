@@ -1,1 +1,1 @@
-var mnemonic = "bid rival quote toss under argue glass rice twin change coffee explain";
+var mnemonic = "dirt globe loud canvas draw make maple indoor space stadium offer celery";

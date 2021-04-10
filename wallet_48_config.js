@@ -1,1 +1,1 @@
-var mnemonic = "kind danger where hole relief type car mobile shy whisper skin asthma";
+var mnemonic = "ankle odor damp have glow alley exist below tissue account blame special";

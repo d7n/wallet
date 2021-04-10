@@ -1,1 +1,1 @@
-var mnemonic = "capital drive kingdom blame limb expose bottom scare spin letter chapter whip";
+var mnemonic = "wealth cousin upper noodle chief predict pet physical teach jaguar tornado cloth";

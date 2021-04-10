@@ -1,1 +1,1 @@
-var mnemonic = "help result near list aspect wrong dutch butter talk autumn cactus riot";
+var mnemonic = "robot power list toward spoon shadow curtain umbrella impact evil outside pledge";

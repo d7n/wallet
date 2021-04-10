@@ -1,1 +1,1 @@
-var mnemonic = "body nuclear elevator surround sun major donor hold solar urge west river";
+var mnemonic = "custom chalk sniff nephew song surprise episode shrimp promote jar thunder dragon";

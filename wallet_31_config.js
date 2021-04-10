@@ -1,1 +1,1 @@
-var mnemonic = "eye consider fan fine tag receive begin random domain tower domain text";
+var mnemonic = "essence base limb slight leopard puppy become blood ship exchange stool snake";

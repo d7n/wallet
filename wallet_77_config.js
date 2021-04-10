@@ -1,1 +1,1 @@
-var mnemonic = "report deny major tone toss relax middle need model claw arena clerk";
+var mnemonic = "select picture echo lottery light frequent margin camp health giggle ordinary glad";

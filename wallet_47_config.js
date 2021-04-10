@@ -1,1 +1,1 @@
-var mnemonic = "coyote brisk raise sing farm vehicle pattern stand bomb tired scissors reunion";
+var mnemonic = "warfare barrel cheap square river general fantasy goose shine payment alley sight";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern soccer easy eternal traffic actor clown aim already chase letter brand";
+var mnemonic = "receive kidney tackle tower coil slab near idle boil umbrella utility host";

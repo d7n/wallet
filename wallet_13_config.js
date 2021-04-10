@@ -1,1 +1,1 @@
-var mnemonic = "range inform iron room runway foster clinic card kind dignity fee pill";
+var mnemonic = "enact dirt either glide ripple problem palm gate tuna pencil history funny";

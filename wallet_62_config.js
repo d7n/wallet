@@ -1,1 +1,1 @@
-var mnemonic = "cabbage blast traffic weasel heavy faculty this stamp boy morning fiber unfold";
+var mnemonic = "they security wide print gesture work zero basic bus raccoon danger myth";

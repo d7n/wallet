@@ -1,1 +1,1 @@
-var mnemonic = "leaf jaguar once toilet debris produce neck garment ghost knee base rocket";
+var mnemonic = "pepper gallery awesome predict sand aware elegant wait stool shell always vocal";

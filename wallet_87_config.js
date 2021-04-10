@@ -1,1 +1,1 @@
-var mnemonic = "equal nephew job crime radio undo table harsh slide situate twice emotion";
+var mnemonic = "order hello ancient salmon position drip delay cost smart black liar negative";

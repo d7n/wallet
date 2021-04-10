@@ -1,1 +1,1 @@
-var mnemonic = "fashion typical pass neck situate fall beauty physical multiply myself domain pluck";
+var mnemonic = "trip define upset cool accuse switch vendor staff acid turkey achieve multiply";

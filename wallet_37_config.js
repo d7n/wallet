@@ -1,1 +1,1 @@
-var mnemonic = "maze school hover general siege satisfy clinic member disease core blame roof";
+var mnemonic = "wheat undo diagram love tell accuse wire demand dirt solar various false";

@@ -1,1 +1,1 @@
-var mnemonic = "depart gate wheel harsh hurdle cruel scan island image essence bracket derive";
+var mnemonic = "aim super leisure evidence twin forest cart walk occur select blame kick";

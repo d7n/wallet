@@ -1,1 +1,1 @@
-var mnemonic = "settle magic final ethics lyrics spike kiss sunny melody jacket engine prison";
+var mnemonic = "matter field write liberty nephew fork sort frozen repair ankle market barrel";

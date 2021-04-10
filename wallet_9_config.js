@@ -1,1 +1,1 @@
-var mnemonic = "regret lion cause pattern cabin wagon rent admit discover adapt ranch jump";
+var mnemonic = "wheat crumble wife want inquiry lawn assume alien august bean boost open";

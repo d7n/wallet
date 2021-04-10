@@ -1,1 +1,1 @@
-var mnemonic = "obscure hybrid stock secret allow second wheat month quiz dinner regret exhaust";
+var mnemonic = "tennis another riot fire sweet comfort brief play brief decide tourist skirt";

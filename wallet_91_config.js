@@ -1,1 +1,1 @@
-var mnemonic = "immune forward artist anger arm truck fiscal ice also final uncle extend";
+var mnemonic = "husband liar roast wide melody pledge boost holiday trigger bright list insane";

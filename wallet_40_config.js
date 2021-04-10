@@ -1,1 +1,1 @@
-var mnemonic = "hint secret globe social apple capital fame major company wave crawl plate";
+var mnemonic = "firm mimic inner advance cheese short ice pond install tackle agent else";

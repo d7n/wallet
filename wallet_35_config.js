@@ -1,1 +1,1 @@
-var mnemonic = "bicycle swing butter poet proof border cave adapt knock metal magic fitness";
+var mnemonic = "express romance crush push wear loop all palm chuckle pencil exact actual";

@@ -1,1 +1,1 @@
-var mnemonic = "exist ski assist moon farm jump venture floor culture unveil shy inmate";
+var mnemonic = "choice draft lady drink indicate pony keep suit wolf relief badge flee";

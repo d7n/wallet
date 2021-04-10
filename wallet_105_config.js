@@ -1,1 +1,1 @@
-var mnemonic = "hub lumber already level shy this fruit wheel magnet beauty tool option";
+var mnemonic = "creek drink unveil biology bus park grace safe nominee novel junior page";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze reason pact raise wire echo uncle rabbit clip attract book glove";
+var mnemonic = "drip stairs leisure cat fall cruel collect gesture champion license gap favorite";

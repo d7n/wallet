@@ -1,1 +1,1 @@
-var mnemonic = "enroll two bicycle cup silly great endless awkward flock horror blue glare";
+var mnemonic = "average obtain glimpse nurse home chalk mimic december purity run scare army";

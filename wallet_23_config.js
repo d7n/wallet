@@ -1,1 +1,1 @@
-var mnemonic = "stool permit zebra tooth choice shoulder heavy crawl mouse dizzy confirm explain";
+var mnemonic = "smoke advice abuse veteran pledge cup bubble maple woman midnight cereal chuckle";

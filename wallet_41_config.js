@@ -1,1 +1,1 @@
-var mnemonic = "earth session chef fiscal subject evoke question virtual finger title talk snap";
+var mnemonic = "city type clever october census forum select garlic wasp adult able immune";

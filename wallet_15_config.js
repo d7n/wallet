@@ -1,1 +1,1 @@
-var mnemonic = "solve bring symptom claw scout region edit bridge soap wrong position fresh";
+var mnemonic = "sand scrap ivory same tank path cabin novel begin fashion hedgehog artist";

@@ -1,1 +1,1 @@
-var mnemonic = "casino arch mixed orphan truck lend just until buddy vicious mistake undo";
+var mnemonic = "smooth stock wait open giraffe mouse course insect ripple beach side accident";

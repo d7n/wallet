@@ -1,1 +1,1 @@
-var mnemonic = "million satisfy payment quit furnace frost stool night space measure dream number";
+var mnemonic = "endless session empty clarify lemon neglect excess monitor sand live float merge";

@@ -1,1 +1,1 @@
-var mnemonic = "toy movie thumb mercy success sample inside knock annual gravity prosper region";
+var mnemonic = "envelope across eight leg rule boost slush wing shoulder health alien window";

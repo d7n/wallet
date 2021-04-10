@@ -1,1 +1,1 @@
-var mnemonic = "vicious push camp oak turkey toward whale parade reflect strong celery curious";
+var mnemonic = "solve scrap amazing window soda virus about devote harbor bag better sight";

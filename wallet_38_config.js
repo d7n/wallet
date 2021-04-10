@@ -1,1 +1,1 @@
-var mnemonic = "diagram today expire ghost breeze sea deny various zone special yellow despair";
+var mnemonic = "ugly normal fabric come gun casino depth weasel fury shop frown bacon";

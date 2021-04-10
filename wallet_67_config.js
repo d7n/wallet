@@ -1,1 +1,1 @@
-var mnemonic = "pill rally random opera focus obvious whip barrel glad exact ignore park";
+var mnemonic = "police ghost eternal deny melt lava color bird atom lesson public that";

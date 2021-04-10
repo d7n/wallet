@@ -1,1 +1,1 @@
-var mnemonic = "truth museum garlic slim month trick famous brief tomorrow talent hope oyster";
+var mnemonic = "acquire sugar reason soda crunch choice actual sunny truck sea asset shove";

@@ -1,1 +1,1 @@
-var mnemonic = "universe belt shy strong present wait unfair struggle world beyond six vacuum";
+var mnemonic = "idle shell mutual extend lend slot just basket water bundle hover head";

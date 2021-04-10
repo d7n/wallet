@@ -1,1 +1,1 @@
-var mnemonic = "clay refuse oil junior pluck length bargain lift skate gloom ten soul";
+var mnemonic = "kid surge brain march journey siege hub gravity derive bean tunnel kingdom";

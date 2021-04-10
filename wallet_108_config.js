@@ -1,1 +1,1 @@
-var mnemonic = "happy able catalog obscure jump maple short tuition rack remind short toss";
+var mnemonic = "asthma produce trigger empower kitchen distance horse expose match visit image material";

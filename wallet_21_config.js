@@ -1,1 +1,1 @@
-var mnemonic = "danger earn over blanket arch pottery system chase absent economy sick mistake";
+var mnemonic = "where develop mercy nominee symbol result original excess west dumb slender train";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon mouse split version urban scan another together mango soft hundred pattern";
+var mnemonic = "kite rhythm subway ranch suit slab inside spirit blush sibling domain scan";

@@ -1,1 +1,1 @@
-var mnemonic = "soul tackle opinion sphere brisk fuel picnic senior mixture nuclear bronze belt";
+var mnemonic = "antenna six custom brush wait canyon good play fork business witness apology";

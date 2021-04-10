@@ -1,1 +1,1 @@
-var mnemonic = "depend latin awesome liquid dawn erupt section ordinary pluck gossip shield tattoo";
+var mnemonic = "distance salon know carpet blind figure purity pledge total inner famous auto";

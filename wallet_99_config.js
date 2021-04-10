@@ -1,1 +1,1 @@
-var mnemonic = "shoe sword six axis debate media success caught cycle senior pioneer judge";
+var mnemonic = "service craft trial work certain spread retire ghost bless survey grab cliff";

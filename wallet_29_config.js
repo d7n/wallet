@@ -1,1 +1,1 @@
-var mnemonic = "penalty bracket mesh never derive cancel receive diamond volcano august asthma guitar";
+var mnemonic = "bike warrior tonight episode ask swift truly omit runway budget correct market";

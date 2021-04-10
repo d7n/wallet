@@ -1,1 +1,1 @@
-var mnemonic = "diagram coil capable apology duty universe never jealous diamond system attend used";
+var mnemonic = "myself deputy gym stuff lesson only inherit divert divide exercise jewel foster";

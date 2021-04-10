@@ -1,1 +1,1 @@
-var mnemonic = "join fence slender ripple morning fashion eye raven mom nominee purse digital";
+var mnemonic = "woman diamond consider drive citizen moment awful goddess document intact repeat joke";

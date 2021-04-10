@@ -1,1 +1,1 @@
-var mnemonic = "project stable begin fold desert horn another awake analyst couch cart hire";
+var mnemonic = "frown volume ensure device often crumble saddle armor year square critic vault";

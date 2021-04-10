@@ -1,1 +1,1 @@
-var mnemonic = "movie stick gospel record amazing lottery fatal live card middle sport often";
+var mnemonic = "bench gather pair brisk cupboard audit amazing crumble apple brown rough sentence";
