@@ -1,1 +1,1 @@
-var mnemonic = "ride place travel decade cement myself bronze lift alcohol require morning click";
+var mnemonic = "merry sudden special ozone survey mind consider connect patient immune globe soda";

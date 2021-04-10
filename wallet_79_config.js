@@ -1,1 +1,1 @@
-var mnemonic = "month ship flash boring little burger room bicycle apology amount sentence punch";
+var mnemonic = "wrap slender invite alter insect radar wasp wheat satisfy hollow game turkey";

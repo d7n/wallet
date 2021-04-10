@@ -1,1 +1,1 @@
-var mnemonic = "similar scorpion shrimp under pyramid turtle theory guide kiwi taxi jungle decrease";
+var mnemonic = "spray cloud shock index frame corn coast tone gauge soul grief solid";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture heavy mimic delay abstract balcony mean century vapor electric craft gasp";
+var mnemonic = "laundry inner dignity core stuff strong fortune void dash library title vibrant";

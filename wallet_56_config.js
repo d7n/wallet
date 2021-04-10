@@ -1,1 +1,1 @@
-var mnemonic = "unusual know vivid exchange various symbol argue feel fork together worth mosquito";
+var mnemonic = "fat panic oil idea elegant mother glimpse brown surprise gap sell cluster";

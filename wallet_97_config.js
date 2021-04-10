@@ -1,1 +1,1 @@
-var mnemonic = "intact robot law sing disagree sphere dinner flat afraid road risk garden";
+var mnemonic = "suspect daughter public sample misery toward electric gas corn film simple fix";

@@ -1,1 +1,1 @@
-var mnemonic = "tone entry word hedgehog soft evidence glide setup drive spray cargo volcano";
+var mnemonic = "nominee purse bargain review wool control weapon design snow electric index final";

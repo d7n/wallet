@@ -1,1 +1,1 @@
-var mnemonic = "arrive record soup gentle buzz east sunset fault junk dune provide squeeze";
+var mnemonic = "grief quick jewel firm member oxygen eagle idea plate steak success vehicle";

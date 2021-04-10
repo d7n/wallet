@@ -1,1 +1,1 @@
-var mnemonic = "chest blur like hour income next same empower gather width quantum upon";
+var mnemonic = "visual enlist list vivid enroll cool crash obscure park solution wall fine";

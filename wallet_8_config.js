@@ -1,1 +1,1 @@
-var mnemonic = "miracle pulp normal core peace right smooth relax option salad turtle exhaust";
+var mnemonic = "region flag waste trend physical teach wise insane summer panda antique hotel";

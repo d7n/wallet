@@ -1,1 +1,1 @@
-var mnemonic = "sheriff unusual right deposit wish peanut airport perfect clean happy earn say";
+var mnemonic = "cheap fault neglect horror volcano sword tomato force actress upper rookie swim";

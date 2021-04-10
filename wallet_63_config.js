@@ -1,1 +1,1 @@
-var mnemonic = "argue utility rabbit arrow acquire typical neglect stable noise ladder capital flip";
+var mnemonic = "local slight shield road insect two staff town enforce rain festival ethics";

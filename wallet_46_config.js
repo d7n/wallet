@@ -1,1 +1,1 @@
-var mnemonic = "elder rack orphan baby horror local object goose party custom film annual";
+var mnemonic = "hammer unhappy river piano funny easily oyster plunge magnet step position spirit";

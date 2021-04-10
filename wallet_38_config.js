@@ -1,1 +1,1 @@
-var mnemonic = "super pig dilemma element spare hat cabbage valid cage security width urge";
+var mnemonic = "twenty truth hood account neither record head double pole fortune empower car";

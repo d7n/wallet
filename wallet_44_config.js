@@ -1,1 +1,1 @@
-var mnemonic = "ice parent shrimp token lens fold bachelor undo route trash cruise park";
+var mnemonic = "spread grunt senior advance try work hire orchard nothing space mixed eye";

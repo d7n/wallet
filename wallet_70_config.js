@@ -1,1 +1,1 @@
-var mnemonic = "napkin circle hard dice tray pledge alcohol pass cause weapon unfold dilemma";
+var mnemonic = "ignore address divert vehicle output great alley cute capital potato surge mind";

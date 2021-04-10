@@ -1,1 +1,1 @@
-var mnemonic = "notice emotion park barrel walk hockey weapon involve flip veteran first unveil";
+var mnemonic = "deliver night cabbage drama rose sing cereal render border process canoe service";

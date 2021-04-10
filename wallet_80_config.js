@@ -1,1 +1,1 @@
-var mnemonic = "combine answer antenna inhale nature topple town young stem small please priority";
+var mnemonic = "quote brave adjust rent carbon rescue bamboo trophy bronze file finger antique";

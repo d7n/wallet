@@ -1,1 +1,1 @@
-var mnemonic = "quick repeat canvas patch scale century sound major ketchup witness like shy";
+var mnemonic = "cat alarm tackle trial cycle quote all account man orange business stem";

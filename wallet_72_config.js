@@ -1,1 +1,1 @@
-var mnemonic = "special lamp slide cup cruel stick kitten fox exile daring mystery intact";
+var mnemonic = "hobby rate movie cram giant gym green acoustic file unhappy aerobic cream";

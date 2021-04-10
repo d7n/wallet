@@ -1,1 +1,1 @@
-var mnemonic = "second choice nurse green duck hole day poem pencil original witness april";
+var mnemonic = "weapon biology small trim notable rifle thumb spot you coach afford raccoon";

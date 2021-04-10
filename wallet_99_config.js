@@ -1,1 +1,1 @@
-var mnemonic = "cart helmet music match try timber robust toss nuclear solve track vacuum";
+var mnemonic = "rent game eight require endorse august gain lobster start fence bid glimpse";

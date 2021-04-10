@@ -1,1 +1,1 @@
-var mnemonic = "run angle equal that want grain grass hat never weekend scale universe";
+var mnemonic = "effort salad turkey truck woman easily crush rally exile differ upper mad";

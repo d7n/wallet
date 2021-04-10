@@ -1,1 +1,1 @@
-var mnemonic = "husband syrup broom harvest flash vivid empower jump lady jacket keen mirror";
+var mnemonic = "original scan light shrimp post pond tent bottom cross wagon spy together";

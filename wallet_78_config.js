@@ -1,1 +1,1 @@
-var mnemonic = "clutch tent finger glue spot barrel garlic until initial orange add leave";
+var mnemonic = "talk actress corn reflect chef sight lock cruise below record remember elevator";

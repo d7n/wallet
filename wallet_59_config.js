@@ -1,1 +1,1 @@
-var mnemonic = "moon ginger lesson action execute alone people hybrid gift dizzy bus misery";
+var mnemonic = "crucial behind adjust ribbon can funny unknown output limit pulse capable ready";

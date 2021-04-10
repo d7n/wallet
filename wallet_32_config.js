@@ -1,1 +1,1 @@
-var mnemonic = "gas course bitter slim ankle strategy whisper rival box drama keep kiss";
+var mnemonic = "knock crouch what intact evil blur index core risk original disease will";

@@ -1,1 +1,1 @@
-var mnemonic = "reward fence penalty fat awkward sugar like hockey allow gasp prepare friend";
+var mnemonic = "basket drift toilet album square blossom ranch bag home remind swap rocket";

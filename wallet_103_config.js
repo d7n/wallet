@@ -1,1 +1,1 @@
-var mnemonic = "truly friend pony rain similar kangaroo loop grunt man water access spin";
+var mnemonic = "leaf shoe planet immune lemon escape venture banner february put lounge notable";

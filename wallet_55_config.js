@@ -1,1 +1,1 @@
-var mnemonic = "eagle shadow canvas present fetch nature neglect jewel shoulder pink grape switch";
+var mnemonic = "echo velvet wrestle slush example program purse harvest spawn runway pluck arena";

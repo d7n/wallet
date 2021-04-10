@@ -1,1 +1,1 @@
-var mnemonic = "toy blast armor grocery rebel tool fire street panther deny enact taxi";
+var mnemonic = "oblige source option guard elder reason vault fix junior trial romance brush";

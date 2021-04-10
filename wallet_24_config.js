@@ -1,1 +1,1 @@
-var mnemonic = "airport drastic palace among trap provide polar base cereal record seed mixed";
+var mnemonic = "route dynamic pluck become shuffle surround viable example muffin route finger agree";

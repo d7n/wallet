@@ -1,1 +1,1 @@
-var mnemonic = "degree bike pulp cheap wood combine exclude pepper model calm share reform";
+var mnemonic = "nerve winter candy draft upset craft crime muscle road input cinnamon pattern";

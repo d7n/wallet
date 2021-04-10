@@ -1,1 +1,1 @@
-var mnemonic = "swear fine stumble gauge prosper run napkin zebra curious culture amazing brand";
+var mnemonic = "virtual meat puzzle join imitate surprise episode assume canyon pause camera pelican";

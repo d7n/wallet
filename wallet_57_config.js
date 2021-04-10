@@ -1,1 +1,1 @@
-var mnemonic = "core bonus change melt divide file angle lecture panther siren fever topple";
+var mnemonic = "document employ solution master maze vibrant club fabric smart rookie please vintage";

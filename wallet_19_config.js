@@ -1,1 +1,1 @@
-var mnemonic = "mutual fire face capital fuel hood elbow junk brick lend erase dog";
+var mnemonic = "obscure vacuum brain angry pole screen tornado speak believe monitor response diet";

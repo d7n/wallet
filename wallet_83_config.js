@@ -1,1 +1,1 @@
-var mnemonic = "click valve plug electric devote curious music fork drive comfort between there";
+var mnemonic = "ugly clinic name dad keen title skirt fruit ramp because divert potato";

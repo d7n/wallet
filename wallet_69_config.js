@@ -1,1 +1,1 @@
-var mnemonic = "flat permit idle clarify spoon bone soon once bubble nature account chair";
+var mnemonic = "shoe fox because spirit essay crash horse sun cry sleep smart equip";

@@ -1,1 +1,1 @@
-var mnemonic = "snack write cruise craft minute allow equal gravity winter sudden betray decline";
+var mnemonic = "alley proud garage fire today super green parrot segment iron flavor decline";

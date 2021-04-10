@@ -1,1 +1,1 @@
-var mnemonic = "choice kite sudden token stairs vital tool tool business normal direct engine";
+var mnemonic = "abstract sphere paddle fee space correct skin update scare recall clean utility";

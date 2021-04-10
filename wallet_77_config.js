@@ -1,1 +1,1 @@
-var mnemonic = "trash attract wage kind toy unveil shine truth curve hurry curve strong";
+var mnemonic = "panel advance alter lunch virtual property mercy throw strong actual grid cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton inherit worry table trumpet more basic rifle route craft spring jungle";
+var mnemonic = "logic cool tunnel parrot credit garden divorce similar antique fat fish sample";

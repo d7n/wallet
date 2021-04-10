@@ -1,1 +1,1 @@
-var mnemonic = "advance arrange pipe issue since relax surround dutch craft museum insane donkey";
+var mnemonic = "hawk save aware over brain ankle banner belt excite mean film ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork unusual casino depart flavor awful author bitter shadow tribe balance urban";
+var mnemonic = "sense aware naive priority safe party refuse track club tell mansion error";

@@ -1,1 +1,1 @@
-var mnemonic = "month drill present spot engine bulb toward bar hole mean guide review";
+var mnemonic = "crowd tenant snow hurry urge blur clog actual cabin slogan this sweet";

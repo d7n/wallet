@@ -1,1 +1,1 @@
-var mnemonic = "picnic dizzy inform sketch clutch desert easily fruit divorce pioneer giraffe code";
+var mnemonic = "way jelly capable rug now fiction worth major retire bar regular column";

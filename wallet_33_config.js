@@ -1,1 +1,1 @@
-var mnemonic = "shield junior small unusual ice vintage mass farm until nest hotel office";
+var mnemonic = "draw transfer oil flat air surprise second elevator penalty deposit ghost right";

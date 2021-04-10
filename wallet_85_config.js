@@ -1,1 +1,1 @@
-var mnemonic = "volume spawn rely coral asset current ten enlist cigar farm multiply belt";
+var mnemonic = "wonder uphold pass vacuum obtain shift lecture oxygen replace stamp couch loop";

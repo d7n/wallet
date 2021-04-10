@@ -1,1 +1,1 @@
-var mnemonic = "apology merit among movie noise legend feel source bubble cancel spoon bargain";
+var mnemonic = "lemon rail budget arm item include text violin silly express target obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "alter cup practice people anxiety leisure print hill narrow gospel gentle want";
+var mnemonic = "skill disagree ostrich junior gown priority hair virus meat sentence tuition tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "seat wink transfer dynamic fabric hobby usual monkey piano excite tooth laundry";
+var mnemonic = "type blue joke sign fitness other blind invest child job suffer afford";

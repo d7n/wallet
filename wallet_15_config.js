@@ -1,1 +1,1 @@
-var mnemonic = "ancient girl boat chef invest manage library second exit illegal message scatter";
+var mnemonic = "public right voyage reform lab grab work rhythm turtle unlock analyst skill";

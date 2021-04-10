@@ -1,1 +1,1 @@
-var mnemonic = "cheap decorate planet verify motion place rice fatal bundle enroll lava craft";
+var mnemonic = "decorate tuna struggle record brother broken quality guess tobacco laptop fun mirror";

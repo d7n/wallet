@@ -1,1 +1,1 @@
-var mnemonic = "dynamic pepper awful prison cradle trigger gift sight cliff logic great bar";
+var mnemonic = "lyrics pistol orange situate soon update sell coral used cable leg damp";

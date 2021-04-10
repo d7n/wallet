@@ -1,1 +1,1 @@
-var mnemonic = "fruit cricket honey able clinic digital lazy road immune cable patch favorite";
+var mnemonic = "road present coast denial limb limb muscle spirit sword oven buyer media";

@@ -1,1 +1,1 @@
-var mnemonic = "decide east myself hello school foil vessel staff doll hedgehog sadness nephew";
+var mnemonic = "label mammal dynamic table ginger people flat dish siren gorilla cousin search";

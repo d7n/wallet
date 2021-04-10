@@ -1,1 +1,1 @@
-var mnemonic = "position salon echo cousin world dolphin click surround unit school innocent matter";
+var mnemonic = "better normal faint spoil check supreme ripple throw any kangaroo achieve slab";

@@ -1,1 +1,1 @@
-var mnemonic = "venue piece sound wild imitate faith ladder cactus food leader walk rib";
+var mnemonic = "jump charge topple boy obey tower ecology unusual pyramid carpet shoulder reject";

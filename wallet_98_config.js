@@ -1,1 +1,1 @@
-var mnemonic = "horn law special sell category cancel trophy apple brief ritual split jaguar";
+var mnemonic = "garbage immense settle swing clarify detect crime tail glimpse bean menu dust";

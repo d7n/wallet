@@ -1,1 +1,1 @@
-var mnemonic = "pulse witness casino moment year owner ripple luxury syrup net father infant";
+var mnemonic = "prefer behave rather fine crouch suffer auction seek bitter bind broom world";

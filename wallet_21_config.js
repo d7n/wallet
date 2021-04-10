@@ -1,1 +1,1 @@
-var mnemonic = "object welcome maid forum hungry nuclear fabric exclude original gift also symbol";
+var mnemonic = "green term bomb photo bright blind spirit bounce trend hawk chief chunk";

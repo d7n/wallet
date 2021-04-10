@@ -1,1 +1,1 @@
-var mnemonic = "cigar wedding shallow jewel change kiwi door drift adapt cat eagle trip";
+var mnemonic = "ski whale despair repair tree sponsor talk gift possible ridge shiver half";

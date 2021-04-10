@@ -1,1 +1,1 @@
-var mnemonic = "enrich joke acquire holiday release make cattle above require broccoli afford elite";
+var mnemonic = "face trust trumpet vehicle couple carbon pledge vicious spider put gospel course";

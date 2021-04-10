@@ -1,1 +1,1 @@
-var mnemonic = "seven evolve plug forward rail curious myth shadow sad surface truth castle";
+var mnemonic = "brush region brief avoid issue okay dizzy nasty female peanut clerk donate";

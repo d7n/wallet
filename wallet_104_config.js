@@ -1,1 +1,1 @@
-var mnemonic = "clay turn onion creek orange raise brand measure innocent text sibling ugly";
+var mnemonic = "limit gate popular day omit cotton cushion surface round emerge clip certain";

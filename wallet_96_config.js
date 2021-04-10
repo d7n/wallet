@@ -1,1 +1,1 @@
-var mnemonic = "guard century answer very provide mountain coil crucial veteran suit budget thing";
+var mnemonic = "canvas entry brick combine ensure aunt main segment film trick oil unable";

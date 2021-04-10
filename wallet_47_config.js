@@ -1,1 +1,1 @@
-var mnemonic = "quick hour brother poem blanket need midnight mix refuse belt crawl lift";
+var mnemonic = "daughter cruel iron inner film powder auto west bike finish crop cheap";

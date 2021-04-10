@@ -1,1 +1,1 @@
-var mnemonic = "extend cabbage speed large engage allow civil little pilot antenna nothing design";
+var mnemonic = "region ask photo april adapt breeze predict casual discover crop silk snack";

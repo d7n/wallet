@@ -1,1 +1,1 @@
-var mnemonic = "grunt flame economy crucial summer key school area worry catch group model";
+var mnemonic = "air citizen defense magic truck anchor pony nation bamboo theory visit quantum";

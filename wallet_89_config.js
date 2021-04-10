@@ -1,1 +1,1 @@
-var mnemonic = "manual eight luggage muscle smile educate uphold flip brand night immense glide";
+var mnemonic = "bottom satisfy liquid point decide only frost lady lemon train market rice";

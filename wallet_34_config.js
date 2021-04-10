@@ -1,1 +1,1 @@
-var mnemonic = "column ozone display maple supreme vital brass hotel draw shove orbit remove";
+var mnemonic = "urban nuclear cave absent cinnamon venture auto jar bleak chimney sting warm";

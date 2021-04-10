@@ -1,1 +1,1 @@
-var mnemonic = "crawl topple rubber wheat hen ethics evil valve fit refuse enact hover";
+var mnemonic = "just machine they frown weekend bright tattoo country vault act rough achieve";

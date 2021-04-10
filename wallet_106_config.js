@@ -1,1 +1,1 @@
-var mnemonic = "shoulder sense rely vacant unit behave miss exhaust good kind multiply solid";
+var mnemonic = "kidney beach minor yard sunny muffin sun volume degree attack column raw";

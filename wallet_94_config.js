@@ -1,1 +1,1 @@
-var mnemonic = "letter monkey wish tomato alien tunnel pulp surprise fog wolf hand street";
+var mnemonic = "chalk depart salad wait open thumb inject guide amount crush garden daring";

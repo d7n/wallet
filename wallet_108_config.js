@@ -1,1 +1,1 @@
-var mnemonic = "inform drink defy feed sad dumb quote jewel involve crew brand latin";
+var mnemonic = "bridge radar cost comfort syrup stove donor adult unveil enough side during";

@@ -1,1 +1,1 @@
-var mnemonic = "honey rotate van antique method bargain phone traffic energy leisure tuition nation";
+var mnemonic = "loan ghost behave aspect track emerge clerk afford sustain deer symbol essay";

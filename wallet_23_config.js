@@ -1,1 +1,1 @@
-var mnemonic = "sing connect twist axis green grant clock spot gaze clarify thrive neglect";
+var mnemonic = "start resource above demise frame armed girl great response auction sting cake";

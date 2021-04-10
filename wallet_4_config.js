@@ -1,1 +1,1 @@
-var mnemonic = "flee nasty citizen curve help fame nothing time open collect winter riot";
+var mnemonic = "brave actor trigger weird crop spy invest ring sentence decrease sort eager";

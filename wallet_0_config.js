@@ -1,1 +1,1 @@
-var mnemonic = "asthma hammer village picnic system half armed stumble all region tide link";
+var mnemonic = "brand trip receive flush drift reunion chief paddle notice danger sort calm";

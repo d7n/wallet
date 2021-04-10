@@ -1,1 +1,1 @@
-var mnemonic = "alone leisure cash sand certain can culture comic taxi file local that";
+var mnemonic = "true lend car typical cheap nothing caution shadow mystery luggage surround deal";

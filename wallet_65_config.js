@@ -1,1 +1,1 @@
-var mnemonic = "skin love object purpose bench monster mosquito sun elephant impact surprise absorb";
+var mnemonic = "when desk figure cross excite hunt ladder mosquito right rule trophy practice";

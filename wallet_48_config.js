@@ -1,1 +1,1 @@
-var mnemonic = "unaware spike frame decorate festival step paddle payment inquiry cereal erosion post";
+var mnemonic = "gap swallow limb merit alley transfer dwarf dutch tongue reduce brick smile";

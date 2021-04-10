@@ -1,1 +1,1 @@
-var mnemonic = "mimic buddy dial divide dune jump proof glory choose broom own mansion";
+var mnemonic = "lucky dismiss peanut vivid across number clean step section pig soft kitchen";
