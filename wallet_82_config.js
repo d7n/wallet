@@ -1,1 +1,1 @@
-var mnemonic = "beach youth image feel slender layer snack retire wait claim canyon apple";
+var mnemonic = "reveal caught voice govern angry tuna lunar miss utility artist divorce champion";

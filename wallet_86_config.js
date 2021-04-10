@@ -1,1 +1,1 @@
-var mnemonic = "tape educate capable easily carbon museum label remove such boat dove tongue";
+var mnemonic = "sibling win option noise galaxy nuclear canal rookie promote ball explain legal";

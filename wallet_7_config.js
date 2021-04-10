@@ -1,1 +1,1 @@
-var mnemonic = "west budget uphold chief acoustic riot uniform reason lift forum iron struggle";
+var mnemonic = "inherit train again name yard account finger clown symptom runway brief hen";

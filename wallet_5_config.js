@@ -1,1 +1,1 @@
-var mnemonic = "judge rhythm oil lift van neither symbol lecture coin calm promote owner";
+var mnemonic = "world viable never have west obvious cross that leg flip dragon grunt";

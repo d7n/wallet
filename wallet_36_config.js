@@ -1,1 +1,1 @@
-var mnemonic = "alter naive legal sentence cinnamon add practice ask soul fox busy balance";
+var mnemonic = "ill warrior tag sponsor potato alcohol crazy skirt magnet wagon hospital section";

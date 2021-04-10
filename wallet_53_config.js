@@ -1,1 +1,1 @@
-var mnemonic = "useless toward wage device frog ostrich rally episode divert smile patch park";
+var mnemonic = "captain spice sell cruise captain caught grain creek post area autumn carbon";

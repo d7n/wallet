@@ -1,1 +1,1 @@
-var mnemonic = "walnut coach judge come region acid affair bachelor machine connect galaxy retreat";
+var mnemonic = "magnet talent clean liquid symbol rain bread trigger meadow december express elegant";

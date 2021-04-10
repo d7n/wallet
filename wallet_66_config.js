@@ -1,1 +1,1 @@
-var mnemonic = "move receive furnace sauce occur yard crisp chest capital quote crew that";
+var mnemonic = "habit sauce edge inspire bid exchange grant stage limit buyer ecology team";

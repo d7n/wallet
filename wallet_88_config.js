@@ -1,1 +1,1 @@
-var mnemonic = "sausage hat beauty test cable globe father turn damage empower choice silly";
+var mnemonic = "lizard maple vital afford still rude upper shiver relief worry behave blush";

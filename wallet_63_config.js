@@ -1,1 +1,1 @@
-var mnemonic = "traffic magic home manage proud plunge naive mail athlete debris solar ship";
+var mnemonic = "always uniform soul orbit machine current paddle upgrade medal amateur uncover quote";

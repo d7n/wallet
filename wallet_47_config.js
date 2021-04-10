@@ -1,1 +1,1 @@
-var mnemonic = "base lesson canoe hour allow heart world race broken tourist never talent";
+var mnemonic = "venture soap race nasty bike define swarm upon online aspect pink athlete";

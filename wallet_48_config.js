@@ -1,1 +1,1 @@
-var mnemonic = "manage river cause method era rack slide bless garment mystery account club";
+var mnemonic = "jealous welcome doll slow mansion palace novel unfold toddler unhappy smooth blush";

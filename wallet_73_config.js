@@ -1,1 +1,1 @@
-var mnemonic = "bus host thrive elegant stage link degree course undo adjust ice power";
+var mnemonic = "fiber ten warfare betray wide husband slam pause viable disagree strong region";

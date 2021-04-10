@@ -1,1 +1,1 @@
-var mnemonic = "wink hedgehog nerve rifle almost drink shield because roof bachelor food evolve";
+var mnemonic = "easily discover spring warm palace match staff core that order bulb course";

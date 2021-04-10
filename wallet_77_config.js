@@ -1,1 +1,1 @@
-var mnemonic = "wear dinner page end theory comfort mix improve nation shield heart mammal";
+var mnemonic = "august coil peanut bring number matter pond utility session clutch spatial horror";

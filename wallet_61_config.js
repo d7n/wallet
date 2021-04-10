@@ -1,1 +1,1 @@
-var mnemonic = "sudden novel clog utility candy intact enough reflect flash shine reopen shallow";
+var mnemonic = "already yard horn foil feed yellow april leopard dumb gesture network sound";

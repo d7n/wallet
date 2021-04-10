@@ -1,1 +1,1 @@
-var mnemonic = "exit panther course dizzy release price explain bid valley phrase analyst uphold";
+var mnemonic = "focus purpose divide addict bronze blue idle zone engage ship canoe butter";

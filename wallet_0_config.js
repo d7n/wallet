@@ -1,1 +1,1 @@
-var mnemonic = "must where drift paper diamond photo help antenna very spike token cat";
+var mnemonic = "close short attract exit flash genuine crunch unusual snow fruit cake twist";

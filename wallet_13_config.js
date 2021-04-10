@@ -1,1 +1,1 @@
-var mnemonic = "life normal ancient stay absent about mutual injury curve move report wine";
+var mnemonic = "float segment into brisk jazz vault entire infant accident good light desert";

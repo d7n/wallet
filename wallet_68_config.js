@@ -1,1 +1,1 @@
-var mnemonic = "island enter increase that liquid air churn that book fan media ceiling";
+var mnemonic = "giggle tortoise yellow marine false sunny lawn safe worry lunar wrap gaze";

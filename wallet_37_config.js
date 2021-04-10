@@ -1,1 +1,1 @@
-var mnemonic = "rocket item dry nose just shift engage account month rough tape pluck";
+var mnemonic = "news carpet reason crunch million advice kidney carry example captain save mango";

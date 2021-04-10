@@ -1,1 +1,1 @@
-var mnemonic = "narrow soap fee model rebel category parent income license item ancient decide";
+var mnemonic = "rib train there mesh limb century obscure acid one nest poem clerk";

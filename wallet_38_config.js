@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin history venture obey battle brief trend east tribe vital salute injury";
+var mnemonic = "outer coffee immune assume virtual ring insane spike census slab flat worth";

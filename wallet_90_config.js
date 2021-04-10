@@ -1,1 +1,1 @@
-var mnemonic = "solution siren fat awkward parent barrel salad side enact vacant rude embody";
+var mnemonic = "level execute forget vendor tide skin enrich rich bronze sadness rival friend";

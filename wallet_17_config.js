@@ -1,1 +1,1 @@
-var mnemonic = "super unable poverty hub ocean universe become sustain glimpse erosion question river";
+var mnemonic = "lyrics dentist know crumble spring honey inspire surface east miss display brain";

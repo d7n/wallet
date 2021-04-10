@@ -1,1 +1,1 @@
-var mnemonic = "toddler struggle grace random size salad ordinary pudding leaf topic jeans fuel";
+var mnemonic = "alley elbow final fluid hint surge knife valve artwork drop super bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy taste renew west around tent release prize hover palm pave trap";
+var mnemonic = "travel blush balance crunch donor copper ketchup ramp exotic relief blossom crouch";

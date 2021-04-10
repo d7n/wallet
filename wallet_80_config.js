@@ -1,1 +1,1 @@
-var mnemonic = "question saddle orphan clever one hollow wide flame unveil chicken divorce ivory";
+var mnemonic = "engine conduct country juice fire rubber rough truly absent swing remember such";

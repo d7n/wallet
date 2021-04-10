@@ -1,1 +1,1 @@
-var mnemonic = "expand few century actress large inside april hip oxygen pair glow smart";
+var mnemonic = "alley copy plug about soccer fruit flower boss romance prison diagram comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch timber income tone cable lobster mushroom sister bomb wood dish climb";
+var mnemonic = "more rotate side gun float cluster flag myth require member deputy fish";

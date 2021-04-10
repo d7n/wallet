@@ -1,1 +1,1 @@
-var mnemonic = "park sponsor record video hair universe clarify conduct weasel rain fiction sword";
+var mnemonic = "drill attack impact trip secret guitar spot proof maze nice solar apology";

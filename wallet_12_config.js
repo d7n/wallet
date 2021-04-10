@@ -1,1 +1,1 @@
-var mnemonic = "paddle protect toilet coconut give vintage club solid bullet process detect vacuum";
+var mnemonic = "drip later soap assault junk length fluid poem render frown asset jeans";

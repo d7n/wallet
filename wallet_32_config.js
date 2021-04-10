@@ -1,1 +1,1 @@
-var mnemonic = "recall calm cradle lucky electric road upon push emerge radar february pink";
+var mnemonic = "direct order comic next toy major network scare aunt helmet equal intact";

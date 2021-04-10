@@ -1,1 +1,1 @@
-var mnemonic = "unable negative flower engine cash stove crack school hammer industry square fork";
+var mnemonic = "drip early cross report bamboo letter abandon razor sudden film nominee expect";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle vivid can grow park slush humble mistake like merry curious option";
+var mnemonic = "sorry shell survey country fly lunar begin debris round duck miracle grace";

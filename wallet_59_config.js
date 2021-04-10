@@ -1,1 +1,1 @@
-var mnemonic = "voice assist consider provide describe people excite spy lava witness still improve";
+var mnemonic = "arrest hawk trap sunset sing south gauge nerve coach bundle wood asthma";

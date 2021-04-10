@@ -1,1 +1,1 @@
-var mnemonic = "moon sleep wool real educate draft swing brass brain produce turkey strike";
+var mnemonic = "cycle double catch choose glare swarm warrior myth amused mom capable skill";

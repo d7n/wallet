@@ -1,1 +1,1 @@
-var mnemonic = "book artist ignore foil glimpse trumpet found crouch eyebrow valid october gesture";
+var mnemonic = "panel clown noble concert west staff educate pool prison forward lab coffee";

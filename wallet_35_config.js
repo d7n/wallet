@@ -1,1 +1,1 @@
-var mnemonic = "echo art subway card pond orphan wasp push step switch clerk tone";
+var mnemonic = "sell tooth profit tiny wear extra clean verify come frog cause world";

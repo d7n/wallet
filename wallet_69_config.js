@@ -1,1 +1,1 @@
-var mnemonic = "fiscal bundle client emotion heart account daring episode juice hard census stick";
+var mnemonic = "cost execute squirrel rebel badge wreck other clump jungle response daring odor";

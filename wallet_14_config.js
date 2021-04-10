@@ -1,1 +1,1 @@
-var mnemonic = "accident timber guard gate burst scene shine people fragile episode enemy ribbon";
+var mnemonic = "obey post never pizza fury search begin hurdle dog circle calm eternal";

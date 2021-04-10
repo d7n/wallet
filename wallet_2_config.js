@@ -1,1 +1,1 @@
-var mnemonic = "ridge business intact employ praise victory produce room jeans genuine despair enrich";
+var mnemonic = "coffee brief situate assist car crystal very outside female page genius sauce";

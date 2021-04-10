@@ -1,1 +1,1 @@
-var mnemonic = "urge immune twice execute despair insane kiwi melody smart execute chapter rail";
+var mnemonic = "volcano move mind entry win rookie tip leave endless first hobby exit";

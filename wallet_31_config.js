@@ -1,1 +1,1 @@
-var mnemonic = "permit health olympic skill brisk quantum upper wealth west move process trophy";
+var mnemonic = "text snow throw swarm bracket capital boil wrap odor employ crew pear";

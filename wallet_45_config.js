@@ -1,1 +1,1 @@
-var mnemonic = "struggle matter puppy flower wasp magic armed win sail chicken uphold era";
+var mnemonic = "perfect tragic pig voyage tonight check mind bind erosion legend hurdle apology";

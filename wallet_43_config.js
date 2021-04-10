@@ -1,1 +1,1 @@
-var mnemonic = "quarter spatial thought chuckle tent road crash naive boil element exit palace";
+var mnemonic = "recycle junk poet crumble mechanic will wrong depend guard inch limit vocal";

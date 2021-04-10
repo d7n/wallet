@@ -1,1 +1,1 @@
-var mnemonic = "blast logic peanut hybrid hill lemon tornado question trigger cement have damage";
+var mnemonic = "power panel sentence omit caught share matter hour awful guard tape enact";

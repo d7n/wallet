@@ -1,1 +1,1 @@
-var mnemonic = "youth next poverty question aspect wisdom away best tennis valley curtain fancy";
+var mnemonic = "range client rubber buzz buffalo wage enroll drip popular inspire wonder violin";

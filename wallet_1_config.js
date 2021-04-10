@@ -1,1 +1,1 @@
-var mnemonic = "raccoon diary leave globe aim galaxy gadget power before summer scene club";
+var mnemonic = "sheriff great cool immune trip rain buzz ranch resemble rare math faint";

@@ -1,1 +1,1 @@
-var mnemonic = "dry hand impact more item real powder nasty brother slam match sell";
+var mnemonic = "motion permit wet flock dawn moon detect shy eagle robot always moon";

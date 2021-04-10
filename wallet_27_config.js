@@ -1,1 +1,1 @@
-var mnemonic = "wrist heart satisfy magic old when notable boy ship aim any van";
+var mnemonic = "joke clog puppy meat weird gadget chimney agent obtain wage rice spawn";

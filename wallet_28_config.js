@@ -1,1 +1,1 @@
-var mnemonic = "mutual shift switch what juice invite basket color defense parade elevator alpha";
+var mnemonic = "observe asthma humor unveil nut bomb stadium inside differ useful shoulder kingdom";

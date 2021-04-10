@@ -1,1 +1,1 @@
-var mnemonic = "oyster wet share hawk inmate once want leave secret decrease quarter exile";
+var mnemonic = "exist saddle pioneer film earth candy pear inject protect sail drama month";

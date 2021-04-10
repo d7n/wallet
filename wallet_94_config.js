@@ -1,1 +1,1 @@
-var mnemonic = "coast infant crane climb code palm enrich knock pink surprise enforce toast";
+var mnemonic = "cinnamon clinic consider rocket bird chapter crash give bamboo rely code interest";

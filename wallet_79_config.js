@@ -1,1 +1,1 @@
-var mnemonic = "wreck clock media cheese student bench salmon gun issue thumb orphan evil";
+var mnemonic = "into certain frown exotic tribe regret habit rug mystery soon scene river";

@@ -1,1 +1,1 @@
-var mnemonic = "primary conduct cram twist keep caution turkey brush feel shift machine daring";
+var mnemonic = "nose knife satoshi mass oven rebuild chicken pride series click bounce reopen";

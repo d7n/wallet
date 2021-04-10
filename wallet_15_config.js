@@ -1,1 +1,1 @@
-var mnemonic = "slogan equal palace matrix buddy skill avoid album grief govern grit dolphin";
+var mnemonic = "stomach child invite fiber sphere diet comic online lucky quick lonely shrug";

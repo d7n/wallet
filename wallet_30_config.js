@@ -1,1 +1,1 @@
-var mnemonic = "elite fringe obvious fall case that tooth comfort pink blind actual shuffle";
+var mnemonic = "bleak obvious jazz genuine castle vintage wrong fringe target balcony under deposit";

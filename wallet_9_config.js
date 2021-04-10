@@ -1,1 +1,1 @@
-var mnemonic = "drum relax gasp hazard absorb visa spray tomato before bachelor seat prize";
+var mnemonic = "ankle cinnamon carry cube essence author paper field silk seat perfect hurdle";

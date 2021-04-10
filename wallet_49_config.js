@@ -1,1 +1,1 @@
-var mnemonic = "extra blind trigger claw state pact risk bottom emotion ugly pattern glance";
+var mnemonic = "pet wrap priority powder street shift document ceiling business shaft leave page";

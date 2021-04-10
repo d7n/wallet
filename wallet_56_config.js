@@ -1,1 +1,1 @@
-var mnemonic = "sustain turtle before aerobic foot artist mule error size hammer federal nature";
+var mnemonic = "group sponsor cake flame wave sausage social network security wrong pumpkin daring";

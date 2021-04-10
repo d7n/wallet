@@ -1,1 +1,1 @@
-var mnemonic = "deny rack raccoon where hour artwork recall honey work wonder curtain swarm";
+var mnemonic = "donkey caught daughter first income advice trade uncle begin ticket ecology taste";

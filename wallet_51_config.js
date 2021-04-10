@@ -1,1 +1,1 @@
-var mnemonic = "timber laugh velvet canvas tennis mesh aunt donkey record stamp cement control";
+var mnemonic = "pretty space mind vault van refuse grape notice audit someone lecture rare";

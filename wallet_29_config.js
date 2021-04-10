@@ -1,1 +1,1 @@
-var mnemonic = "vacuum code together drop surprise onion skull absorb hobby fossil scout crowd";
+var mnemonic = "bronze veteran tribe dawn wall shaft lottery panel slim gown position student";

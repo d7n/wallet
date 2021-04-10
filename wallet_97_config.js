@@ -1,1 +1,1 @@
-var mnemonic = "install forward cable rebuild express audit actual easy upgrade caught doctor stadium";
+var mnemonic = "display thank throw illness wink concert state install before educate rough used";

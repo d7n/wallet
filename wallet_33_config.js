@@ -1,1 +1,1 @@
-var mnemonic = "pear deal hollow trumpet eight soap fiction fuel peasant move bleak witness";
+var mnemonic = "genre absorb web ski grocery scene slam author price feel interest tilt";

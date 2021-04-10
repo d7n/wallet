@@ -1,1 +1,1 @@
-var mnemonic = "include panda wool second tooth monitor work seven online problem little illness";
+var mnemonic = "cruel life salad permit steak merit dinosaur core point slide wild canyon";

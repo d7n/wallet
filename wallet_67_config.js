@@ -1,1 +1,1 @@
-var mnemonic = "shop slot prepare climb panda seven girl buffalo artwork devote floor allow";
+var mnemonic = "half start strategy public motion swallow west bleak dry reveal multiply dose";

@@ -1,1 +1,1 @@
-var mnemonic = "pear various link must ecology north wish skate library chimney end turn";
+var mnemonic = "recipe clump ocean bone slight lesson top female brave way film boat";

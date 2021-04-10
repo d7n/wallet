@@ -1,1 +1,1 @@
-var mnemonic = "vocal call practice belt shoulder example load muffin claim leave rally suffer";
+var mnemonic = "assist half flock attend tenant shoulder wall universe base tank shrug october";

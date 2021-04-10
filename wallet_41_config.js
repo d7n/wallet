@@ -1,1 +1,1 @@
-var mnemonic = "abuse voice frequent fork enemy athlete become expect flip skirt panther spice";
+var mnemonic = "light retreat pepper great turn frog much attitude beach decorate empower avoid";

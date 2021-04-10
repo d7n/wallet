@@ -1,1 +1,1 @@
-var mnemonic = "wave cat buffalo ceiling first universe laundry arrange boss such coyote poverty";
+var mnemonic = "embody tooth oppose armed thunder resist cover sustain unhappy ketchup frown solve";

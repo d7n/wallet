@@ -1,1 +1,1 @@
-var mnemonic = "pattern rifle body olympic awake brother asset snow swallow affair please chicken";
+var mnemonic = "discover stone inch asthma oval outer pink winter pioneer artist talent file";

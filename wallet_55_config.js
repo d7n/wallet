@@ -1,1 +1,1 @@
-var mnemonic = "model solution color buzz hand collect area food heart swarm tooth actress";
+var mnemonic = "world grunt drill barely fee gloom final east blue stuff arena blood";

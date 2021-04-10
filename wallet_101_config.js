@@ -1,1 +1,1 @@
-var mnemonic = "split fragile gadget sad write child caught enlist chapter spring zero race";
+var mnemonic = "spray survey odor outside among aspect best occur poem amazing evoke skull";

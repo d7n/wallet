@@ -1,1 +1,1 @@
-var mnemonic = "cream clerk shadow region frame fox island sting nation nurse fork way";
+var mnemonic = "table flame garment guitar illegal napkin churn mobile squeeze attitude much crumble";

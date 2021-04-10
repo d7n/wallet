@@ -1,1 +1,1 @@
-var mnemonic = "review tree away lend column what mind basket kite element put room";
+var mnemonic = "carry shy pair shine pepper correct have vehicle wall bring right worry";

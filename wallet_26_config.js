@@ -1,1 +1,1 @@
-var mnemonic = "elegant raven century retreat wasp keen dawn merry claim enrich camera layer";
+var mnemonic = "jazz test fetch valid loud kingdom crazy sponsor assist man impose machine";

@@ -1,1 +1,1 @@
-var mnemonic = "panther build outside intact pig south town snow credit fury dignity volume";
+var mnemonic = "discover wealth report rebel track share base tunnel equip lizard unlock minimum";

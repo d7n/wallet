@@ -1,1 +1,1 @@
-var mnemonic = "betray mandate hint figure economy fall city marriage badge adjust number nose";
+var mnemonic = "skull feed project whale vintage stove enough symptom behave reform rocket foster";

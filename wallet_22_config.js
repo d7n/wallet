@@ -1,1 +1,1 @@
-var mnemonic = "grunt hospital flash script sunny flee shed cruise finish cattle cousin atom";
+var mnemonic = "price shell comic vague crew talk unhappy world addict allow train mom";

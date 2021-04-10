@@ -1,1 +1,1 @@
-var mnemonic = "duty pass tuition island bamboo island turn drive arena theme chuckle arrive";
+var mnemonic = "grab property rapid body cliff admit ostrich negative roof matter census vault";

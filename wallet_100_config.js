@@ -1,1 +1,1 @@
-var mnemonic = "monster measure lock soup sock laugh glass actress smile reduce concert welcome";
+var mnemonic = "smile olive kitchen october forget excite please pattern awesome wave arrow journey";

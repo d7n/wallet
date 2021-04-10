@@ -1,1 +1,1 @@
-var mnemonic = "size section beyond sponsor dragon child public hidden valve easy reform drift";
+var mnemonic = "bread practice distance claim bread deliver misery cause inch breeze ghost wealth";

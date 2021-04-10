@@ -1,1 +1,1 @@
-var mnemonic = "kidney daring enter honey stock patient snack plug silent sunset space rebuild";
+var mnemonic = "loud boil share mother crash roast smile cloth snack mango unveil february";

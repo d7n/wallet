@@ -1,1 +1,1 @@
-var mnemonic = "order slight struggle lesson rose motor firm tide figure barrel hospital else";
+var mnemonic = "march cloth company pottery six diamond dad little settle coconut glass popular";

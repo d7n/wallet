@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo arch harvest bulk army infant night large worry thank coin early";
+var mnemonic = "critic icon borrow manage soldier tissue okay city divert chase sand minor";
