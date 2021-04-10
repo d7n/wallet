@@ -1,1 +1,1 @@
-var mnemonic = "swim unable practice stove fossil toast lock cruel retire ozone rabbit transfer";
+var mnemonic = "canyon detect trap parrot escape dilemma rapid license pulse twenty mutual flip";

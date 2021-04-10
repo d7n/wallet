@@ -1,1 +1,1 @@
-var mnemonic = "inhale credit profit category explain type praise rebuild snap vicious cry venue";
+var mnemonic = "deer agent athlete toss water buddy seed lounge amused young wet hobby";

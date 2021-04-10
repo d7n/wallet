@@ -1,1 +1,1 @@
-var mnemonic = "mushroom payment limit column buzz dune gadget fan crop almost deal acid";
+var mnemonic = "breeze roast song wisdom apology fatal outdoor work crawl wire swamp sock";

@@ -1,1 +1,1 @@
-var mnemonic = "come legal aisle electric exercise ice lyrics double deputy celery utility shine";
+var mnemonic = "worth acquire actress sauce cannon coconut notable excuse between follow sure mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver month squeeze green shove sting subway focus night fetch evidence unfold";
+var mnemonic = "high cattle cabin juice item anchor sunny what engine ball right adjust";

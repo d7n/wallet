@@ -1,1 +1,1 @@
-var mnemonic = "furnace index piano february card toward pigeon document swear butter wink engine";
+var mnemonic = "smoke street proof elegant trust congress require wisdom proof flavor angle black";

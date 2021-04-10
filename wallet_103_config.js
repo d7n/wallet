@@ -1,1 +1,1 @@
-var mnemonic = "alcohol primary sorry hint normal puzzle ready enlist pizza neutral rookie author";
+var mnemonic = "original amount famous now quiz model clean civil safe train stairs praise";

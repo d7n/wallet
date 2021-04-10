@@ -1,1 +1,1 @@
-var mnemonic = "palm post hen actual buzz title screen fish box wrestle soldier similar";
+var mnemonic = "ring ancient question orange lake wedding quote toast fly flag slab borrow";

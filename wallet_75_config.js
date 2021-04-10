@@ -1,1 +1,1 @@
-var mnemonic = "waste rescue scatter this chunk weird corn beef gold bone emerge solar";
+var mnemonic = "initial day mirror prize bid response equip typical dance assault then near";

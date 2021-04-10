@@ -1,1 +1,1 @@
-var mnemonic = "unit icon planet tourist kiwi credit hamster once category project absurd gadget";
+var mnemonic = "weather notable muscle jeans fiscal tilt field sword slender mimic into census";

@@ -1,1 +1,1 @@
-var mnemonic = "leave neglect brain kick aware inner appear safe text devote habit hurry";
+var mnemonic = "limit ozone peanut mystery payment nest list twist mother vehicle enter green";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery march achieve depth buddy hollow pledge abandon dice canoe among since";
+var mnemonic = "pluck absurd simple profit convince syrup media chicken face hold still nose";

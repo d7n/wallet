@@ -1,1 +1,1 @@
-var mnemonic = "giggle matter fragile sport carry panic audit come chief night hire problem";
+var mnemonic = "ask tissue section immense you number step coyote olive finish recipe ostrich";

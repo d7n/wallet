@@ -1,1 +1,1 @@
-var mnemonic = "empty setup relief engine skull clown differ promote they siege husband struggle";
+var mnemonic = "circle letter envelope bunker exact bullet slogan spoon dream west snack price";

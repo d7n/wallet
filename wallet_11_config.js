@@ -1,1 +1,1 @@
-var mnemonic = "heart vault author sweet logic round cricket width neutral runway cattle fix";
+var mnemonic = "fun gentle excess pet decide panther cannon wood between become sell dirt";

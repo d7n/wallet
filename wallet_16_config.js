@@ -1,1 +1,1 @@
-var mnemonic = "bottom usage scrub broccoli short void travel wine become mandate arrow purpose";
+var mnemonic = "tired firm tonight title hire marble wreck appear resemble theme alert bunker";

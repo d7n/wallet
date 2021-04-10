@@ -1,1 +1,1 @@
-var mnemonic = "huge quick where erosion recall grape dress require raw divide produce goose";
+var mnemonic = "monitor scene cube input blame soon twelve school long toe air rib";

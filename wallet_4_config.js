@@ -1,1 +1,1 @@
-var mnemonic = "thought upgrade bachelor chest fame ancient upgrade make knife type dwarf peanut";
+var mnemonic = "sudden work pudding blue romance happy pact three cradle board device connect";

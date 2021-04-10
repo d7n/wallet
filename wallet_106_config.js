@@ -1,1 +1,1 @@
-var mnemonic = "announce earth end eight radar lecture club axis chapter length trap better";
+var mnemonic = "arena hole artist uncover limit bomb income antique torch duck one female";

@@ -1,1 +1,1 @@
-var mnemonic = "office fabric bag opinion protect bone carpet rural dance inherit soap poem";
+var mnemonic = "brisk help pudding fever wood vault brisk cute slim broccoli naive expose";

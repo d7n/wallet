@@ -1,1 +1,1 @@
-var mnemonic = "glimpse country hold one universe sort robust among balance loyal quit defy";
+var mnemonic = "accident change divert switch dog know relax market buddy frost news brick";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor double crop ethics electric sort mirror rely host loop spin public";
+var mnemonic = "boy van subway mercy clock please story cram reject movie hire quote";

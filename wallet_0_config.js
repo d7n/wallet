@@ -1,1 +1,1 @@
-var mnemonic = "tray whip bachelor cat skin intact tide slender flame grow club split";
+var mnemonic = "undo nuclear burger ridge tooth tennis fit label lesson useful feel wool";

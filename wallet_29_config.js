@@ -1,1 +1,1 @@
-var mnemonic = "hold cash undo coffee useless tumble latin behave noodle salmon prefer remember";
+var mnemonic = "liberty film observe leave pulp light success spray swift minor middle exchange";

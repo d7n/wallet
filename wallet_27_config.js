@@ -1,1 +1,1 @@
-var mnemonic = "pull name piano knock service slight october sunny magic face range drive";
+var mnemonic = "combine credit garment gospel blush canoe rival balcony tell acid know inhale";

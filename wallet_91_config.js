@@ -1,1 +1,1 @@
-var mnemonic = "logic idle acid tuna loyal name diagram decline profit crane alien fancy";
+var mnemonic = "spatial earth gun escape anchor minor section pluck oxygen ghost able sand";

@@ -1,1 +1,1 @@
-var mnemonic = "hour throw abandon undo uncle nurse fuel negative ski gloom buzz scale";
+var mnemonic = "fragile cycle hour number enrich bird expose hammer already crack kick salmon";

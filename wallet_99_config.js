@@ -1,1 +1,1 @@
-var mnemonic = "leisure festival craft fault actual flip educate list garlic sound stumble arch";
+var mnemonic = "merry language mind session siren blush multiply place issue junk coil essence";

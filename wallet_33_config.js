@@ -1,1 +1,1 @@
-var mnemonic = "dial document trip seat marine interest guard sand bronze acquire heart shop";
+var mnemonic = "screen steak eye episode father shine cancel beach wheat live gravity shed";

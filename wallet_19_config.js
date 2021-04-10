@@ -1,1 +1,1 @@
-var mnemonic = "humor brick remember ecology equal toast invest sail own enlist phrase upper";
+var mnemonic = "similar phrase private uncover expect garbage oyster case cool clay manage supply";

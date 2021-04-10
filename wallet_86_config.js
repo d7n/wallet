@@ -1,1 +1,1 @@
-var mnemonic = "beyond flag chest shrimp royal wet steel ready grape egg domain outside";
+var mnemonic = "record pass leave fetch swamp estate chat response hockey picnic weekend obvious";

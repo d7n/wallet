@@ -1,1 +1,1 @@
-var mnemonic = "gloom citizen rate blush divide arm clown pupil debris lawn satoshi monkey";
+var mnemonic = "kidney begin blur fall trip admit antique slight inflict mask major obey";

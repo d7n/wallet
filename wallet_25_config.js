@@ -1,1 +1,1 @@
-var mnemonic = "march level inhale dumb bubble inside judge cupboard push mystery year spell";
+var mnemonic = "echo little spend sock shift nut aware nature unlock rude solution town";

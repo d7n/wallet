@@ -1,1 +1,1 @@
-var mnemonic = "explain brush bright lab advice cat hungry year horn recipe hub job";
+var mnemonic = "youth slow dry border hire weather love youth chronic syrup clinic earth";

@@ -1,1 +1,1 @@
-var mnemonic = "hip bottom estate physical glove verify exercise trust tip mystery vault hungry";
+var mnemonic = "right dignity put magnet inmate spring remain cricket harbor thunder level end";

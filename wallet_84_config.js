@@ -1,1 +1,1 @@
-var mnemonic = "ugly thunder border list truly eight extend shadow nuclear moon horror wash";
+var mnemonic = "figure meadow matrix alien luxury derive region credit aim negative cotton nasty";

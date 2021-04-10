@@ -1,1 +1,1 @@
-var mnemonic = "pond rally beef supply entire brisk planet brass test artist sock deliver";
+var mnemonic = "just sample rib erase catalog hammer outside panic velvet smart history reopen";

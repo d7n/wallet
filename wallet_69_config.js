@@ -1,1 +1,1 @@
-var mnemonic = "entire eyebrow innocent few swap minor scorpion front fatigue trigger burden large";
+var mnemonic = "toddler crash disease panda drive radar romance paddle liberty spot dial risk";

@@ -1,1 +1,1 @@
-var mnemonic = "early spot mirror olive cousin tumble immune bottom insane disorder cool attract";
+var mnemonic = "erosion cancel finger sleep dinner jewel curtain repair word siege flock snake";

@@ -1,1 +1,1 @@
-var mnemonic = "close deer material dust beyond acquire garage step vessel evil humble valve";
+var mnemonic = "feed slot exclude junior fuel patient fiction road endorse flat dizzy board";

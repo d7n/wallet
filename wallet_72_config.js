@@ -1,1 +1,1 @@
-var mnemonic = "recycle merge ribbon toy mixture predict loop limb envelope client donor maple";
+var mnemonic = "must year auction father tired rude boil lottery peanut pass razor involve";

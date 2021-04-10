@@ -1,1 +1,1 @@
-var mnemonic = "asthma tail boy easily say witness critic stem sword humble treat tape";
+var mnemonic = "clock novel echo cinnamon sunset fever dutch pool garden gossip behave zoo";

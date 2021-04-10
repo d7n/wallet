@@ -1,1 +1,1 @@
-var mnemonic = "stage start maid phrase morning you end stamp crucial flag essay faculty";
+var mnemonic = "tunnel crouch wish flag stable close sauce evolve smile early skate push";

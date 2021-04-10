@@ -1,1 +1,1 @@
-var mnemonic = "audit gift proud hold bundle region eagle swamp museum satisfy north sample";
+var mnemonic = "order east multiply shoulder baby tuition junk total glare stamp awkward absurd";

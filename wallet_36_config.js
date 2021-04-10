@@ -1,1 +1,1 @@
-var mnemonic = "field emerge virus ready nuclear invest unknown wealth extra pluck moment taxi";
+var mnemonic = "salon table state million shallow scene direct aware slide fatal hotel twice";

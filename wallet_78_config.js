@@ -1,1 +1,1 @@
-var mnemonic = "box fit type please exit inflict crowd either notable brand tennis gun";
+var mnemonic = "blind food fluid crazy truly friend employ solar survey solution wife crucial";

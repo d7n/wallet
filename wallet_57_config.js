@@ -1,1 +1,1 @@
-var mnemonic = "husband fish tooth umbrella stove later cheese dash owner old flag acoustic";
+var mnemonic = "bullet stereo demand core mail comfort lizard dinner bulk wave federal neglect";

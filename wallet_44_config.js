@@ -1,1 +1,1 @@
-var mnemonic = "onion fantasy inch tunnel skill crystal bike tonight once minor someone annual";
+var mnemonic = "recall mansion have horn leisure aspect wage april harsh essence oppose viable";

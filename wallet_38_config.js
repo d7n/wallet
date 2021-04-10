@@ -1,1 +1,1 @@
-var mnemonic = "genuine symbol item protect rate actress orbit aunt cake pet catch brave";
+var mnemonic = "purchase hint swap slight cycle chaos veteran admit settle letter claim fit";

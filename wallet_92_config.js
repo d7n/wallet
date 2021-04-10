@@ -1,1 +1,1 @@
-var mnemonic = "phrase cheap sign autumn turtle often artwork tumble shock bread web brain";
+var mnemonic = "recycle favorite live knock shallow muffin empty patrol airport add hard renew";

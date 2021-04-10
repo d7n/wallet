@@ -1,1 +1,1 @@
-var mnemonic = "alley evidence super denial stone couch false chief grain level tunnel minute";
+var mnemonic = "parrot wet test giggle will effort foil cable leopard share strategy chair";

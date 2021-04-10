@@ -1,1 +1,1 @@
-var mnemonic = "eagle mail dirt peanut away erode share pink cake wife swamp term";
+var mnemonic = "lion three awkward body turtle comic hub zebra thought good sign walk";

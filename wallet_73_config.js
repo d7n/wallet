@@ -1,1 +1,1 @@
-var mnemonic = "welcome basic hamster time fan boost grab elder power film ball rail";
+var mnemonic = "muscle puzzle early enroll egg sea scorpion assault soul struggle absurd hen";

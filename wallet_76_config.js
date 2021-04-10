@@ -1,1 +1,1 @@
-var mnemonic = "media result mail matter various embody run orange coin praise student trigger";
+var mnemonic = "song disagree much bunker subject street disorder march blanket witness board arrive";

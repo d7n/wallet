@@ -1,1 +1,1 @@
-var mnemonic = "proud seven domain fade merit imitate frozen next clerk tomorrow horse front";
+var mnemonic = "crowd thrive shallow frown cart include rule purchase path sunny lab evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "tank increase story good arch ship blouse unit master door warm toy";
+var mnemonic = "champion jazz gun hurdle hour melody math found wrist mixed donate fringe";

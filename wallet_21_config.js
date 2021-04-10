@@ -1,1 +1,1 @@
-var mnemonic = "side school now embody mosquito hurdle apple journey digital tiny hint drill";
+var mnemonic = "cave dirt tribe physical skin frequent flock host curve peanut cannon team";

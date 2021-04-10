@@ -1,1 +1,1 @@
-var mnemonic = "huge viable pride deny master vessel quantum faculty grocery emerge mammal music";
+var mnemonic = "surface bottom cart fine shaft kid help filter mixed bless assault excess";

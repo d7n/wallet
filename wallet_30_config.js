@@ -1,1 +1,1 @@
-var mnemonic = "situate guard furnace sunset input rival update skate sing defy picnic quarter";
+var mnemonic = "draw maximum crew prefer frog fortune pave feature length youth educate tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm meat runway inside echo grid uniform rate input panic term net";
+var mnemonic = "share flat ship soft actress staff fire task game hood wrong verify";

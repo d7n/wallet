@@ -1,1 +1,1 @@
-var mnemonic = "sleep glow gesture blind merry element venue bread youth trip seminar midnight";
+var mnemonic = "infant upon stand tattoo junk object exact thumb castle tragic pole foot";

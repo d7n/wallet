@@ -1,1 +1,1 @@
-var mnemonic = "horse equip else dawn hospital pause coast pyramid page payment icon dad";
+var mnemonic = "walnut fault joke muscle copy glad chaos breeze pretty goddess vapor slam";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas bounce this quote select leg impose dutch sadness amount talent frost";
+var mnemonic = "mule blind abuse tray spot cousin giggle aim canoe cousin viable state";

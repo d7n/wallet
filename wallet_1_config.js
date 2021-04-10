@@ -1,1 +1,1 @@
-var mnemonic = "tomato beyond hurry solve auto replace arch cigar spy fringe famous rule";
+var mnemonic = "topple unable mutual laundry load math script dolphin candy open column expose";

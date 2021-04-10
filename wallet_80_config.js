@@ -1,1 +1,1 @@
-var mnemonic = "jewel fade crawl tail siege industry vapor kick empty sister win roast";
+var mnemonic = "rifle labor oppose roast stadium family radar desert pledge dish visual wise";

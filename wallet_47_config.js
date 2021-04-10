@@ -1,1 +1,1 @@
-var mnemonic = "exact afford hundred puppy market avocado venue bicycle erosion resist sphere wheel";
+var mnemonic = "arctic machine gain try crime process urge final verb nature wash trap";

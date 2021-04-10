@@ -1,1 +1,1 @@
-var mnemonic = "tonight guard brand resist wagon senior move spider detail melt myself hero";
+var mnemonic = "tide stomach horse elite excuse quit naive clinic banana hello illegal firm";

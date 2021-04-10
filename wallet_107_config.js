@@ -1,1 +1,1 @@
-var mnemonic = "first achieve beach program extra helmet layer company gorilla run visa cable";
+var mnemonic = "method achieve parent false improve bunker image hole velvet illness supreme myth";

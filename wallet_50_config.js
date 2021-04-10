@@ -1,1 +1,1 @@
-var mnemonic = "drama mistake damp clown elephant spoon arrange sponsor shop cover opera fuel";
+var mnemonic = "harsh fuel whale call there able false salmon sign fee manual snap";

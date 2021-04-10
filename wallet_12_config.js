@@ -1,1 +1,1 @@
-var mnemonic = "enough tone sample rule rescue gaze alter visual execute tomato course trophy";
+var mnemonic = "bulb agent brain lunch airport train swarm hockey beyond ready number hover";

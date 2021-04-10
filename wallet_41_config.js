@@ -1,1 +1,1 @@
-var mnemonic = "law tag drift ozone apology sunny suggest rabbit fork adult ketchup calm";
+var mnemonic = "shoe special since load dolphin rude churn mammal prefer render achieve real";

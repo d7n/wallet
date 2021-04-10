@@ -1,1 +1,1 @@
-var mnemonic = "question harsh swamp win office guess payment potato price mango owner maze";
+var mnemonic = "myself suggest seminar reopen armed cigar trap grass drastic ski tornado day";

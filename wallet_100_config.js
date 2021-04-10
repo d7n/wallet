@@ -1,1 +1,1 @@
-var mnemonic = "fortune remind ability ranch burst general better erode mandate wet pass jar";
+var mnemonic = "funny shy snap nice icon draw want purchase chronic space exotic father";

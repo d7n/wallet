@@ -1,1 +1,1 @@
-var mnemonic = "occur dune extra kitchen security joke pioneer convince exotic change neglect anger";
+var mnemonic = "improve twin globe expect elegant sail dune assist discover load city segment";

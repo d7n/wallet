@@ -1,1 +1,1 @@
-var mnemonic = "imitate high gain wagon ugly diesel sample label frozen wink stumble diesel";
+var mnemonic = "donate news exist mention found impact submit sea session horse ethics notice";

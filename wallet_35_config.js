@@ -1,1 +1,1 @@
-var mnemonic = "decorate deal become recycle throw fun crowd moon journey misery vibrant grace";
+var mnemonic = "cricket tackle enough master local crop bind maple repair scorpion ramp vapor";

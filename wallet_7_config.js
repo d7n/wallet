@@ -1,1 +1,1 @@
-var mnemonic = "banner diagram cool sphere pool couch embrace balance hunt differ erupt business";
+var mnemonic = "horn indicate come coconut affair purse enable post magic tourist busy aspect";

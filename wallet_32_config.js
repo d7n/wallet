@@ -1,1 +1,1 @@
-var mnemonic = "scrap retire stamp liar blame soccer rude subject mad satisfy nominee reveal";
+var mnemonic = "gate heavy almost coast lounge square caution marriage twelve scissors amount gas";

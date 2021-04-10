@@ -1,1 +1,1 @@
-var mnemonic = "uphold witness palace odor session trust hunt wreck permit cactus candy install";
+var mnemonic = "expire escape assault attract cruise spirit cruel forward drift glass rabbit kind";

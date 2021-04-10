@@ -1,1 +1,1 @@
-var mnemonic = "north bless village chronic combine water velvet depend guess focus empower visa";
+var mnemonic = "poverty talk sorry arrive guess wrist panther cotton kiss top mountain proud";

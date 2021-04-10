@@ -1,1 +1,1 @@
-var mnemonic = "toe weapon matter wife rule rule job say ramp pair monitor box";
+var mnemonic = "neither hollow setup gossip maple swallow concert icon guard this asthma riot";

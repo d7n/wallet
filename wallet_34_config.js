@@ -1,1 +1,1 @@
-var mnemonic = "cry unlock robust treat birth rail garage slam payment because voyage flavor";
+var mnemonic = "shallow cook nuclear mansion happy genre indicate walnut price gloom scale saddle";

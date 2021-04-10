@@ -1,1 +1,1 @@
-var mnemonic = "little guess speed shove exact scrub spin pact now rookie effort night";
+var mnemonic = "venue breeze advance current split purse spring basic inform weasel assist crowd";

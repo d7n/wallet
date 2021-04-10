@@ -1,1 +1,1 @@
-var mnemonic = "risk never potato monster help famous crucial word category scout ostrich royal";
+var mnemonic = "extra stable monkey absent begin comfort toilet legend beef denial quiz galaxy";

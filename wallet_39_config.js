@@ -1,1 +1,1 @@
-var mnemonic = "aerobic they guitar royal photo ancient fruit pattern census luggage trim exile";
+var mnemonic = "cycle head loyal where buyer physical mail flock afraid blouse inspire bachelor";
