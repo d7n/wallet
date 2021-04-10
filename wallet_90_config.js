@@ -1,1 +1,1 @@
-var mnemonic = "matter sleep review shrug gift pond salt hurry great antenna original glory";
+var mnemonic = "rubber concert supply heavy approve plastic real junior burger rain arrive recycle";

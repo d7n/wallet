@@ -1,1 +1,1 @@
-var mnemonic = "nominee else hurry crash resource accuse transfer immense wear grocery envelope safe";
+var mnemonic = "circle draft pulp tongue peasant only bless spin swim damp olive involve";

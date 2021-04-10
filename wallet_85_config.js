@@ -1,1 +1,1 @@
-var mnemonic = "armor ceiling object enjoy vivid impulse tank prize pole hockey club pull";
+var mnemonic = "benefit width target asthma antenna orchard volcano spell denial robust drop drop";

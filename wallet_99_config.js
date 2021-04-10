@@ -1,1 +1,1 @@
-var mnemonic = "fold siren color auto need bone melody mean pen vital humor nominee";
+var mnemonic = "acquire dial ostrich print opera lab leisure trigger carry pilot edit vote";

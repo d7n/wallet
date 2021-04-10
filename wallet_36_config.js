@@ -1,1 +1,1 @@
-var mnemonic = "case ivory august evoke act harvest leisure stairs head clutch stock verify";
+var mnemonic = "circle accuse kiwi boss raccoon risk december beef regular oxygen knee humble";

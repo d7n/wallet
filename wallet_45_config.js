@@ -1,1 +1,1 @@
-var mnemonic = "reveal subject merry phone left drastic rail push shove curtain effort trick";
+var mnemonic = "gadget setup damage peasant cattle submit suspect daring guess since eight laundry";

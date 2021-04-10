@@ -1,1 +1,1 @@
-var mnemonic = "silver globe deputy matter person print maple chuckle police fancy tray asset";
+var mnemonic = "culture bright verify sorry include name vocal bright glow suggest gauge laugh";

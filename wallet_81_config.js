@@ -1,1 +1,1 @@
-var mnemonic = "tired select skull electric fragile fatigue vote easy grunt quarter small theory";
+var mnemonic = "bus village describe frequent tool cup match hair sad case mistake powder";

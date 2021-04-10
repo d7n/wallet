@@ -1,1 +1,1 @@
-var mnemonic = "oxygen blade clock squirrel inch type anxiety bless race gain female loud";
+var mnemonic = "pumpkin enrich crumble master leader acquire brisk humor visa double dilemma crowd";

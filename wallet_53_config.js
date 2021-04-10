@@ -1,1 +1,1 @@
-var mnemonic = "sample note modify fly purse nest address sudden few orchard answer wood";
+var mnemonic = "sausage prepare pill address flame happy supply void length treat lawn scale";

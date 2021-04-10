@@ -1,1 +1,1 @@
-var mnemonic = "humble mass family lecture strike cool shallow poem fury nurse cruise balcony";
+var mnemonic = "grass electric dentist shine toast glare tower ethics toy wish wife kit";

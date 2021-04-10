@@ -1,1 +1,1 @@
-var mnemonic = "obvious illegal animal chronic acid citizen upon claim exact fatigue away once";
+var mnemonic = "disease accuse grain device measure express edit mind mango blush because useless";

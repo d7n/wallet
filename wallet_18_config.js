@@ -1,1 +1,1 @@
-var mnemonic = "civil cannon wild have tank taxi lab toilet width shoe bench travel";
+var mnemonic = "cabbage spell possible monster syrup small must topple supply answer category such";

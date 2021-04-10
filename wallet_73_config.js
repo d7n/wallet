@@ -1,1 +1,1 @@
-var mnemonic = "govern drive token calm attract tomorrow sudden umbrella ceiling punch cactus weapon";
+var mnemonic = "coconut increase venue west improve staff split forum injury direct nerve nasty";

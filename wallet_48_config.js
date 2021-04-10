@@ -1,1 +1,1 @@
-var mnemonic = "weapon camera silver stairs fly guilt craft auction boss hat senior sail";
+var mnemonic = "material essence negative random text unknown caution truly pigeon vital parade program";

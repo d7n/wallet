@@ -1,1 +1,1 @@
-var mnemonic = "achieve pigeon key solution voyage island sketch elevator bicycle tennis version dry";
+var mnemonic = "powder hen river theme stove hunt drip ugly scare degree air answer";

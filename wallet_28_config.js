@@ -1,1 +1,1 @@
-var mnemonic = "absent spawn fossil spike type space twist current warfare reduce ladder collect";
+var mnemonic = "fold flush gadget ocean tooth deny absorb tide unfair smile delay owner";

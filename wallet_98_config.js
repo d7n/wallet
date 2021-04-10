@@ -1,1 +1,1 @@
-var mnemonic = "slam art jewel alarm elder myself pulp blind push raven state warm";
+var mnemonic = "swap hospital air bargain isolate mesh shiver negative fragile want slam cook";

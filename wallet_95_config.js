@@ -1,1 +1,1 @@
-var mnemonic = "oak army real weird art roast panel second inject reject lobster hole";
+var mnemonic = "family object honey cloth toss vault core cause nice riot cart lunch";

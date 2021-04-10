@@ -1,1 +1,1 @@
-var mnemonic = "figure frozen potato sunny online inmate two toddler autumn swing vibrant lottery";
+var mnemonic = "ramp exit liquid biology member echo wrestle juice vocal distance valid bridge";

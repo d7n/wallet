@@ -1,1 +1,1 @@
-var mnemonic = "state remain void cannon observe pave nephew boost urban echo wheel view";
+var mnemonic = "meadow april smart repeat curtain tortoise keen wing solid two ancient when";

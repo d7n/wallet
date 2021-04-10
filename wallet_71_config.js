@@ -1,1 +1,1 @@
-var mnemonic = "segment immense jaguar differ talent steak world imitate illegal plunge habit fault";
+var mnemonic = "fatal drift pony vapor runway candy sand icon say hockey tumble bacon";

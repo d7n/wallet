@@ -1,1 +1,1 @@
-var mnemonic = "concert lawsuit project foster turkey empty rent play record waste question oval";
+var mnemonic = "swap already army fame era vessel vital wedding ozone hip cover lunar";

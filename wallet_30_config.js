@@ -1,1 +1,1 @@
-var mnemonic = "office polar ring oblige horn ask join warrior have muffin else protect";
+var mnemonic = "later wonder label sock clinic onion keep swim just entire salmon cousin";

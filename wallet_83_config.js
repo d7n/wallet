@@ -1,1 +1,1 @@
-var mnemonic = "smile jungle entire glow tide scrub patrol riot use flat add slide";
+var mnemonic = "guilt metal latin jewel impulse alter unveil fragile useless depth practice elegant";

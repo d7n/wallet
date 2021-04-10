@@ -1,1 +1,1 @@
-var mnemonic = "kid address gossip panther load sight powder orphan farm country normal toast";
+var mnemonic = "auction reduce begin claw crystal turkey final garbage comfort tissue budget achieve";

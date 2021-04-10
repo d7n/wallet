@@ -1,1 +1,1 @@
-var mnemonic = "gas street fade mosquito pyramid pipe state minor nerve cousin quiz fruit";
+var mnemonic = "waste ride dove best dragon come crater trap inner effort blood antique";

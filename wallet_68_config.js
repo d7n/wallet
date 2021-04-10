@@ -1,1 +1,1 @@
-var mnemonic = "skull misery arrow neither casino together action girl warrior truth curious clog";
+var mnemonic = "old purity forest debate tree clip company valid travel copy drift hole";

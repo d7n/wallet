@@ -1,1 +1,1 @@
-var mnemonic = "leg fat romance wear again little total toast detect future laugh net";
+var mnemonic = "member arrange vendor grunt tool feed volume pioneer candy blossom beyond globe";

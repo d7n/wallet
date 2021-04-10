@@ -1,1 +1,1 @@
-var mnemonic = "swallow road region decade vintage grace abandon derive retreat oil post small";
+var mnemonic = "size drum demise pottery goddess model saddle rural city word ability ski";

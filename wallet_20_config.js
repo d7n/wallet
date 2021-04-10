@@ -1,1 +1,1 @@
-var mnemonic = "calm few dawn then divorce castle coral crystal topple alpha ocean special";
+var mnemonic = "angle network banner elite room bird syrup bullet barely pencil tube initial";

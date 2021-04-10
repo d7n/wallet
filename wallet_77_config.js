@@ -1,1 +1,1 @@
-var mnemonic = "trim few float affair minute staff trash home admit sense pear uncle";
+var mnemonic = "jungle bird wedding depend garage blue obey all fresh sound arrive cake";

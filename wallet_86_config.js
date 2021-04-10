@@ -1,1 +1,1 @@
-var mnemonic = "shoot expose wage knee boss ask knock trumpet scheme improve flag flush";
+var mnemonic = "smile canvas able peace pluck volcano device stable actress about girl gown";

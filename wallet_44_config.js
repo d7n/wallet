@@ -1,1 +1,1 @@
-var mnemonic = "output dawn water host way domain wolf valid dwarf tourist tower pact";
+var mnemonic = "hard screen offer catch distance yard snack later candy decrease mixture gentle";

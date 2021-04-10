@@ -1,1 +1,1 @@
-var mnemonic = "swear box frame scene stairs air icon scatter agree solar short health";
+var mnemonic = "two online vendor goose note orient run swim device report invest addict";

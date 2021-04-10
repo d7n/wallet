@@ -1,1 +1,1 @@
-var mnemonic = "trip bitter camp goddess monkey coast panic attract execute glide jump cake";
+var mnemonic = "assist myself rose trophy weekend second winter member mistake below cause dwarf";

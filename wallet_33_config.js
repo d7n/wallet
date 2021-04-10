@@ -1,1 +1,1 @@
-var mnemonic = "melody walnut grit family risk alcohol valley upper way october ill prize";
+var mnemonic = "tell travel impose rapid merry sentence seat science achieve dentist kitten prepare";

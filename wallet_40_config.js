@@ -1,1 +1,1 @@
-var mnemonic = "warm obey chimney under kid oyster asthma witness sister foster common scrap";
+var mnemonic = "logic forest grass seed crew climb fury dentist stem mosquito famous orbit";

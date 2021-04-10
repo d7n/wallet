@@ -1,1 +1,1 @@
-var mnemonic = "praise season switch scene scatter insect thunder harbor rebuild lab remind slab";
+var mnemonic = "thumb figure select library pepper walnut ripple silk leg clay worth upgrade";

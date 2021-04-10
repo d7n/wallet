@@ -1,1 +1,1 @@
-var mnemonic = "sunny genuine suffer ensure army impulse stuff garment remind name tornado chat";
+var mnemonic = "foam october short venue monitor dinosaur write core monster lava habit focus";

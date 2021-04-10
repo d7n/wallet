@@ -1,1 +1,1 @@
-var mnemonic = "iron cloth alone behave exit quiz size okay fabric table onion margin";
+var mnemonic = "present razor correct hotel prize acid sure lawsuit usual regret thrive ankle";

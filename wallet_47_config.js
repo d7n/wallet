@@ -1,1 +1,1 @@
-var mnemonic = "dumb pool unaware manage remind subject lion aware depth afraid century void";
+var mnemonic = "agree obey bottom demise ice scorpion possible say soon artefact viable answer";

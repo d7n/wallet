@@ -1,1 +1,1 @@
-var mnemonic = "sponsor open subject impulse crisp fetch spoil jazz evolve engage crater toss";
+var mnemonic = "sphere best monster deputy meat divorce sniff coin weather endorse across noble";

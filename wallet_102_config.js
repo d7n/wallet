@@ -1,1 +1,1 @@
-var mnemonic = "company tuna disease omit bring across produce banner now clarify inform jacket";
+var mnemonic = "chapter opera chaos entry idle tragic idea bracket normal south garbage memory";

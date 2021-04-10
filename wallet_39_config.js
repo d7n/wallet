@@ -1,1 +1,1 @@
-var mnemonic = "brand word crazy despair usual agree rival sorry deposit jelly discover void";
+var mnemonic = "broccoli pitch review cotton lake route road cool cruel sun mystery rail";

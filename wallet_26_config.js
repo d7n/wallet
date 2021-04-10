@@ -1,1 +1,1 @@
-var mnemonic = "baby eyebrow alter morning rebel intact famous leopard neutral lazy unlock traffic";
+var mnemonic = "vast chair later ancient camera quote bounce wage purchase recipe wink hurt";

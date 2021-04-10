@@ -1,1 +1,1 @@
-var mnemonic = "pulse deposit crunch broom globe picnic chest burden also tired goddess pear";
+var mnemonic = "exercise dynamic flag kitchen gun poet rival actress blame slow snow enough";

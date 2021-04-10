@@ -1,1 +1,1 @@
-var mnemonic = "scout giggle wreck whisper smart bronze squirrel iron endless appear pumpkin turtle";
+var mnemonic = "doll safe input dignity album mixed wagon north pledge green foil oblige";

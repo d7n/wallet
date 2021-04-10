@@ -1,1 +1,1 @@
-var mnemonic = "alpha disease two city satoshi evolve tribe reject twin random fluid purity";
+var mnemonic = "zero eternal horn mean only rough predict whale ball cat van throw";

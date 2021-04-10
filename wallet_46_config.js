@@ -1,1 +1,1 @@
-var mnemonic = "fly song ability unknown end ordinary couch huge parrot chat husband always";
+var mnemonic = "loud menu garbage category danger ritual two series taxi renew dinosaur rhythm";

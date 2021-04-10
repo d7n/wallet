@@ -1,1 +1,1 @@
-var mnemonic = "illegal north damp face rather judge hero sort acid pill consider spirit";
+var mnemonic = "royal rubber brain make amused arrest relief essay vote lake almost flush";

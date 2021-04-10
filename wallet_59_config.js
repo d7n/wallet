@@ -1,1 +1,1 @@
-var mnemonic = "toe cry steak strike side chalk gentle destroy guilt advance brother lamp";
+var mnemonic = "fire sun crawl girl normal athlete fetch praise chicken include lion include";

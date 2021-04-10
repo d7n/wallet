@@ -1,1 +1,1 @@
-var mnemonic = "horn knee camera vessel hawk bike daring marble glance response various deny";
+var mnemonic = "weekend now easily industry enroll velvet gadget water attend style offer way";

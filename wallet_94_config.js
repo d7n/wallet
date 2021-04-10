@@ -1,1 +1,1 @@
-var mnemonic = "impulse end reform soda clip virtual wish catch grain heart midnight kiwi";
+var mnemonic = "decrease subject lonely machine rocket document sweet divert glow grant juice great";

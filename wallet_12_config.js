@@ -1,1 +1,1 @@
-var mnemonic = "liar below bridge lift expand fork juice prison key tiny warrior hospital";
+var mnemonic = "wish cash sunny deal today library birth embark hour rabbit express dismiss";

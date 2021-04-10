@@ -1,1 +1,1 @@
-var mnemonic = "satoshi identify coil first paddle achieve throw rack token stomach metal pizza";
+var mnemonic = "copper pony false try abandon renew dawn seed cake vacant chief course";

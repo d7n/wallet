@@ -1,1 +1,1 @@
-var mnemonic = "move nuclear slush sentence bonus amount engage wage garment hello toe marble";
+var mnemonic = "tenant pitch waste off tree dirt inmate unique voyage lesson enough repeat";

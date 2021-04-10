@@ -1,1 +1,1 @@
-var mnemonic = "upon absurd crash rain comfort gasp ice voice elder cement reopen angry";
+var mnemonic = "denial radio helmet panel injury truck fashion ozone trick episode nut accident";

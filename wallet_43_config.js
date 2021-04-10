@@ -1,1 +1,1 @@
-var mnemonic = "gorilla rotate cigar garlic around knee carry weasel custom enable cloth dolphin";
+var mnemonic = "toward fame meat dinosaur approve ethics employ equip visual bacon retreat never";

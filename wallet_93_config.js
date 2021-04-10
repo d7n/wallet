@@ -1,1 +1,1 @@
-var mnemonic = "analyst club hand creek company awkward rapid leave nurse ethics series coast";
+var mnemonic = "sea produce creek snake capital reflect alert smart garage lend jealous tone";

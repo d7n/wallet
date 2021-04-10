@@ -1,1 +1,1 @@
-var mnemonic = "stay wheat aisle struggle dose accident enhance saddle census modify ribbon private";
+var mnemonic = "vivid supreme blush patch prison width autumn blind vault domain autumn ozone";

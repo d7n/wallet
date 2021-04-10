@@ -1,1 +1,1 @@
-var mnemonic = "crouch draw leopard thank write wrist film river deny margin join hurdle";
+var mnemonic = "scissors almost audit attend float cheese fetch loop federal spare huge inmate";

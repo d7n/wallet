@@ -1,1 +1,1 @@
-var mnemonic = "tribe under defy purpose number seed final leopard pattern movie water retire";
+var mnemonic = "lion title elevator regret toward know stem vague pride hope wisdom loyal";

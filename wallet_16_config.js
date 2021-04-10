@@ -1,1 +1,1 @@
-var mnemonic = "upgrade desert curve fever sauce panel ladder father fold decade win maple";
+var mnemonic = "stable fury style obscure someone case festival knife access issue jealous you";

@@ -1,1 +1,1 @@
-var mnemonic = "change script review panda history render soon pitch ancient you butter robust";
+var mnemonic = "ball kiss mix cousin squirrel arctic melody picture ten fee satoshi spend";

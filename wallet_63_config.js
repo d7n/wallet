@@ -1,1 +1,1 @@
-var mnemonic = "vendor essay silk axis during rain rival offer offer mango future twelve";
+var mnemonic = "main game put trigger tomorrow scorpion output swear improve farm canvas flight";

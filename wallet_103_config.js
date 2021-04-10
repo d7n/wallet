@@ -1,1 +1,1 @@
-var mnemonic = "curve stool year spy endless disagree chef update peace laptop practice ill";
+var mnemonic = "evoke shuffle mail indicate roast vessel repeat squirrel smart keen tribe sentence";

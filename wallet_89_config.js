@@ -1,1 +1,1 @@
-var mnemonic = "exit question disorder ethics violin high settle frequent dune topple modify obscure";
+var mnemonic = "present digital squirrel virus slow arrest arctic hollow mixed shy tuition earn";

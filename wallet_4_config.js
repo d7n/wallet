@@ -1,1 +1,1 @@
-var mnemonic = "caution seminar ocean useless fade south absent brother post mountain transfer iron";
+var mnemonic = "sick feed remain rigid riot palace expand giant design belt accident duck";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon echo decide wool broken doll egg olympic scorpion merit orange second";
+var mnemonic = "bronze auto tired fork exact artist wonder avoid lawn nephew forward hand";

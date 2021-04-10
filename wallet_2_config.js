@@ -1,1 +1,1 @@
-var mnemonic = "remain input battle gallery will fence expect happy margin rely mirror ticket";
+var mnemonic = "music retire cube crop devote betray kingdom attitude betray battle one move";

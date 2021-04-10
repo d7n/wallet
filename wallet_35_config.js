@@ -1,1 +1,1 @@
-var mnemonic = "loud bus winner ice tray artefact paper pen visa ethics ankle test";
+var mnemonic = "fashion trouble protect mechanic sheriff bounce awesome prevent because tree desert month";

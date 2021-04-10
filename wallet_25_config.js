@@ -1,1 +1,1 @@
-var mnemonic = "suit shoulder idea solid turkey response attack zebra today mix focus tiny";
+var mnemonic = "movie release fork expire corn ski payment move prefer unusual parrot spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "surge romance guilt candy tourist release check solid canal flee distance luxury";
+var mnemonic = "menu close fiber solid myself hockey fame betray couple health daughter bacon";

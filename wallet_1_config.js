@@ -1,1 +1,1 @@
-var mnemonic = "strike pond secret enrich process lock cricket ordinary reform outdoor occur lake";
+var mnemonic = "scan road shock mouse actress crop rhythm rug palm model spend web";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct page mirror credit eyebrow abstract segment lucky skill oxygen question excuse";
+var mnemonic = "morning climb wheat nose merit couch online cake mix grow number brisk";

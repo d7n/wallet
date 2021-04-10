@@ -1,1 +1,1 @@
-var mnemonic = "license you envelope burger clinic good join blame cereal usual place police";
+var mnemonic = "economy interest region huge caught pattern voyage rural seek plunge layer high";

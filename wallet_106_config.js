@@ -1,1 +1,1 @@
-var mnemonic = "trust search drum harsh coil slow hill mouse cattle tuition debris crop";
+var mnemonic = "girl orient forum view like poet office weasel run thunder grant inch";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer betray solution child only blame field truly parrot wing lawsuit basket";
+var mnemonic = "cute artist harbor emotion noble slush convince love decline stereo denial suspect";

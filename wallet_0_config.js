@@ -1,1 +1,1 @@
-var mnemonic = "mixture pistol bulk budget wrong soon velvet dragon shiver illegal panel luggage";
+var mnemonic = "all echo blanket install custom man sheriff move air admit flavor stereo";

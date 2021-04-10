@@ -1,1 +1,1 @@
-var mnemonic = "glimpse decade manual warfare mad advice torch senior pencil industry throw civil";
+var mnemonic = "exchange miracle dentist unusual advance noise antenna venture include candy shrimp grow";

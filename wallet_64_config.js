@@ -1,1 +1,1 @@
-var mnemonic = "cream blouse creek throw junior buyer force drift develop antique cement apology";
+var mnemonic = "document outside student poet drip reward effort humble picture robust chalk shed";

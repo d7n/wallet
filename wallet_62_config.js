@@ -1,1 +1,1 @@
-var mnemonic = "major pulse wish have fiction moment local melody cinnamon void juice core";
+var mnemonic = "bean service sail limit cable upper cloth regular venture clump false loud";

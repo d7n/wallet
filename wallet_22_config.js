@@ -1,1 +1,1 @@
-var mnemonic = "soda chase across dry slice deposit lady peanut slender fall cricket hero";
+var mnemonic = "step unable boost talk apart chunk eight farm exhaust later ski govern";

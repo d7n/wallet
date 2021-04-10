@@ -1,1 +1,1 @@
-var mnemonic = "course scrub disorder climb artist chest across earth crumble junior hover sugar";
+var mnemonic = "series goat local gadget install also crucial gown pig ball chaos garlic";
