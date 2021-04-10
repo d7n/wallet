@@ -1,1 +1,1 @@
-var mnemonic = "useful phone balcony laugh dynamic silver witness domain jump item erase will";
+var mnemonic = "penalty exhibit fire crumble engage biology lawn assume bulb host canvas catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "devote naive census country poverty decline resist pizza cage universe memory push";
+var mnemonic = "misery coil away bean kitchen spice tuna maximum group repeat deal tattoo";

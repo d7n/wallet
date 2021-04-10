@@ -1,1 +1,1 @@
-var mnemonic = "once best area ostrich lounge virtual pulp rally stumble age drop toilet";
+var mnemonic = "inform rent garbage book cover raccoon auto pelican primary wrestle home boost";

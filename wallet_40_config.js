@@ -1,1 +1,1 @@
-var mnemonic = "like box huge anxiety share birth parent unusual access infant receive remember";
+var mnemonic = "bicycle nice offer shop paddle young rent tell clarify surge manual bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "culture happy coast icon prepare fox path shy expose morning grab space";
+var mnemonic = "damp review chuckle earn vehicle announce school focus salute flush arrive avocado";

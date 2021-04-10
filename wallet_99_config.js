@@ -1,1 +1,1 @@
-var mnemonic = "spell finger ride decide inside digital balance steak early recall reunion acoustic";
+var mnemonic = "blanket armed duck lion front wasp foil pony around liquid just kidney";

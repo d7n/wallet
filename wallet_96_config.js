@@ -1,1 +1,1 @@
-var mnemonic = "hard crawl august vapor water shrimp notable example modify this enjoy vapor";
+var mnemonic = "swamp pitch fatigue win ginger buffalo someone cargo soft bargain season expire";

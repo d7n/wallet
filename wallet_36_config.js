@@ -1,1 +1,1 @@
-var mnemonic = "reward buzz brother pact army hat casual unlock flat avoid twist era";
+var mnemonic = "dinosaur quantum crew addict trumpet stable family siren fence innocent drink dawn";

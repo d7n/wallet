@@ -1,1 +1,1 @@
-var mnemonic = "myself blade net double print tenant verb country goose illegal can alcohol";
+var mnemonic = "vocal solve master lonely resemble grocery thank fiscal code inmate job fog";

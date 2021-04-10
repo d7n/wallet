@@ -1,1 +1,1 @@
-var mnemonic = "angry include section apology repair benefit story sunset meadow inquiry disease evoke";
+var mnemonic = "suggest mix danger people unfair public render barrel whale cereal maid future";

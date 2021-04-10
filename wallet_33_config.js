@@ -1,1 +1,1 @@
-var mnemonic = "position artist pilot warfare custom glance wage comfort tone food visual equip";
+var mnemonic = "kidney riot ring soon very power desk piece convince curve year dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "pink few half nerve want exact message grocery doctor tooth whip music";
+var mnemonic = "matrix deposit vessel early husband steak mad spider torch photo purchase air";

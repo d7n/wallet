@@ -1,1 +1,1 @@
-var mnemonic = "clog insect cherry lemon tail jaguar siege slide adjust science turkey provide";
+var mnemonic = "few skin boil lock student regular confirm gain excuse resist shaft property";

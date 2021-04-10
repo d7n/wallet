@@ -1,1 +1,1 @@
-var mnemonic = "voice bleak foster large give letter initial public evolve core already strike";
+var mnemonic = "patch address caution wedding tribe toward dirt broken extend grape tuition ability";

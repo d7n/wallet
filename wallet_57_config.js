@@ -1,1 +1,1 @@
-var mnemonic = "stumble release rebuild equal atom outer coconut citizen clown once dismiss suit";
+var mnemonic = "silent nephew obscure safe rookie ketchup rug piano march fire palace release";

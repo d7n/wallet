@@ -1,1 +1,1 @@
-var mnemonic = "case recycle gentle enlist hurdle satisfy adult scorpion syrup father stuff potato";
+var mnemonic = "pool vanish odor wage faculty response agree language federal food payment notable";

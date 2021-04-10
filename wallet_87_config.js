@@ -1,1 +1,1 @@
-var mnemonic = "inflict float maze envelope squirrel globe tank flock toe boy steel ridge";
+var mnemonic = "arena slab enlist capable stage explain ghost gloom alien cost raise setup";

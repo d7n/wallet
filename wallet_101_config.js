@@ -1,1 +1,1 @@
-var mnemonic = "island cable purchase sponsor crunch gadget play deny toward general exact engage";
+var mnemonic = "dune lion pattern soft rough diesel mouse tooth strong double leave position";

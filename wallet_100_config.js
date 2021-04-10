@@ -1,1 +1,1 @@
-var mnemonic = "word oblige online sail debris lyrics slow ranch stone waste fame visual";
+var mnemonic = "urge floor human behave wine stone clown worth bridge spell absorb save";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion flavor height six cup car you metal sudden sibling session subway";
+var mnemonic = "current century benefit try report border coach spawn rent thought battle stone";

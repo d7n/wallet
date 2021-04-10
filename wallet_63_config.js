@@ -1,1 +1,1 @@
-var mnemonic = "myself amused response person glance caution piano design reflect decline man sketch";
+var mnemonic = "verify trend defy screen win foster distance elite auction inspire aspect thunder";

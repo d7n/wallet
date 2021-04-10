@@ -1,1 +1,1 @@
-var mnemonic = "cannon lecture soul tray feature eight tape vacuum patrol pig volcano know";
+var mnemonic = "long end proof stay picture have spend potato devote cluster analyst skirt";

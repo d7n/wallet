@@ -1,1 +1,1 @@
-var mnemonic = "undo chimney man input rookie fantasy stairs vacant anxiety turkey because engine";
+var mnemonic = "alert bridge kitchen mean trend crawl clap brain earn level venue wood";

@@ -1,1 +1,1 @@
-var mnemonic = "moral cake style just captain curtain mule barely rather evoke peanut olympic";
+var mnemonic = "frame turkey suffer apple quarter depart hockey depart donate first fashion mandate";

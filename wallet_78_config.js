@@ -1,1 +1,1 @@
-var mnemonic = "develop false toast stumble onion vote process razor file coral system genuine";
+var mnemonic = "hire have dentist wolf secret case couch genius gospel wreck load profit";

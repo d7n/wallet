@@ -1,1 +1,1 @@
-var mnemonic = "silly voice helmet enroll captain deer brief ocean over result obtain mobile";
+var mnemonic = "produce net car topic index either regular upper ski upgrade powder capital";

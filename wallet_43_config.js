@@ -1,1 +1,1 @@
-var mnemonic = "diary few poverty love essay taxi oblige bacon muscle diary steel business";
+var mnemonic = "balcony hero tool ski cancel across alter neutral dizzy labor casino now";

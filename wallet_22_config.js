@@ -1,1 +1,1 @@
-var mnemonic = "crumble supreme input tower turn general manual provide address pave just minute";
+var mnemonic = "electric true ladder assist submit gloom artwork lift mixture alter replace obey";

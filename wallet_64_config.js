@@ -1,1 +1,1 @@
-var mnemonic = "curve round current odor photo tail script style assist design genre bomb";
+var mnemonic = "street have rhythm palace aerobic domain erosion elevator live milk rival slam";

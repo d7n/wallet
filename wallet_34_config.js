@@ -1,1 +1,1 @@
-var mnemonic = "subway funny oil smooth ignore maze pipe they warm reunion pluck eternal";
+var mnemonic = "domain ride scan ten mirror kiwi absent rival double deposit iron draw";

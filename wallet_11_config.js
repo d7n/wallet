@@ -1,1 +1,1 @@
-var mnemonic = "olive anchor spoon tree remember frown deposit unlock letter describe into profit";
+var mnemonic = "ocean trumpet glimpse seek true please enroll sibling equip drink amount arrange";

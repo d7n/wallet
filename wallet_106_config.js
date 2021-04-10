@@ -1,1 +1,1 @@
-var mnemonic = "inner mixed column habit fitness early garment also dumb purchase calm paddle";
+var mnemonic = "notable lab airport history copper sight hunt theory neck jaguar episode shiver";

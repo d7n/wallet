@@ -1,1 +1,1 @@
-var mnemonic = "staff trend erupt fire maximum rotate burger caution flower duck coral ginger";
+var mnemonic = "lesson provide valid entry crop indoor element return quote pole net write";

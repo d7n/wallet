@@ -1,1 +1,1 @@
-var mnemonic = "twelve jar slot absorb huge click you obscure retreat uphold lyrics pull";
+var mnemonic = "game outdoor control tone thumb undo wonder lecture squeeze shallow dirt brief";

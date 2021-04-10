@@ -1,1 +1,1 @@
-var mnemonic = "okay curtain mind praise scene risk almost broom manual core image come";
+var mnemonic = "sort primary expect airport chest peanut tomato brick hard caution helmet scan";

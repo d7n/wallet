@@ -1,1 +1,1 @@
-var mnemonic = "fish match grass chuckle enemy tissue raccoon tower increase cherry execute ride";
+var mnemonic = "merit team involve split globe sketch life cause dirt antenna ritual poem";

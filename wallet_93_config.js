@@ -1,1 +1,1 @@
-var mnemonic = "library bird setup uncle gun primary exclude lunar gloom luxury olympic cage";
+var mnemonic = "tip inch lift arena stereo jeans civil script invite math mechanic extra";

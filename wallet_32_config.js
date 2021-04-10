@@ -1,1 +1,1 @@
-var mnemonic = "rude convince immense step common example remain tip correct double basket scale";
+var mnemonic = "engage senior have item stool fix cute dizzy hole harvest gather rose";

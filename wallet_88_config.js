@@ -1,1 +1,1 @@
-var mnemonic = "soccer text grit edge find glad entry lion bleak stand saddle zone";
+var mnemonic = "hello easy coil mutual broom cannon weekend knock enlist differ rapid border";

@@ -1,1 +1,1 @@
-var mnemonic = "address pelican broom enlist rent scrap maximum gorilla game trigger pond refuse";
+var mnemonic = "layer post giraffe output hawk latin federal rubber tenant sheriff where nation";

@@ -1,1 +1,1 @@
-var mnemonic = "feed leaf zone lift tide excite butter never pulse guilt island diagram";
+var mnemonic = "sense under state vicious recycle have theory naive evolve predict symbol just";

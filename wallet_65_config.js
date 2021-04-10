@@ -1,1 +1,1 @@
-var mnemonic = "rail flight disorder cradle uniform top anger mouse elephant inner height strategy";
+var mnemonic = "allow hazard planet fresh strike lift pig eight document guess sea crack";

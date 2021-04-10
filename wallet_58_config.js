@@ -1,1 +1,1 @@
-var mnemonic = "relax donkey sister either intact thunder rubber disagree forward aim silent hollow";
+var mnemonic = "cherry tribe possible wire layer unusual hazard mask hotel cycle wheat chat";

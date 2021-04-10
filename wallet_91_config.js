@@ -1,1 +1,1 @@
-var mnemonic = "sponsor custom same word wedding either erosion orient make lemon mistake during";
+var mnemonic = "obtain purse asset become praise please drastic reject labor erupt dog where";

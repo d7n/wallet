@@ -1,1 +1,1 @@
-var mnemonic = "trust husband smoke right matrix lunar grunt unveil lottery boss surge various";
+var mnemonic = "smile essay exercise silent popular elite elder across hole popular obey sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate strategy index ahead celery hospital december spoon abstract large never prison";
+var mnemonic = "wrong reason express pelican emerge review base move wagon machine health foam";

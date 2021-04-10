@@ -1,1 +1,1 @@
-var mnemonic = "brand local token immune struggle order insect alarm happy invest doll asthma";
+var mnemonic = "match avoid bronze base real play step planet fine ride brick soft";

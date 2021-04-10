@@ -1,1 +1,1 @@
-var mnemonic = "peace city drip hammer melt cable thunder symbol start current pig forest";
+var mnemonic = "swift wreck upset bright spray degree priority crowd craft talk drop emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery fire remind square chat million box gasp fiber shiver vault process";
+var mnemonic = "vital bracket know guess favorite loan bus abstract iron fade spider strong";

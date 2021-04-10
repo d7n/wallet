@@ -1,1 +1,1 @@
-var mnemonic = "obvious room cash other man initial empower develop hollow school gaze vocal";
+var mnemonic = "surround river ensure route cabin oven notable upper simple slice sail nation";

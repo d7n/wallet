@@ -1,1 +1,1 @@
-var mnemonic = "shoulder lyrics plastic fence since illness kiwi situate fluid cradle iron either";
+var mnemonic = "trouble card rubber chest art neither method team bird spawn check flavor";

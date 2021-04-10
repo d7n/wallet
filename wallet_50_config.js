@@ -1,1 +1,1 @@
-var mnemonic = "else fly forget shiver learn music tree rocket portion lion argue dinner";
+var mnemonic = "genius phrase bargain wife company lock prevent claim marriage mandate decorate evoke";

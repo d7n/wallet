@@ -1,1 +1,1 @@
-var mnemonic = "riot thought state target van view census pioneer sugar asthma section metal";
+var mnemonic = "faint toilet fever broken clown student prefer nerve donor plastic tiny apart";

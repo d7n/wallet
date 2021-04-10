@@ -1,1 +1,1 @@
-var mnemonic = "jewel van oven industry ask hazard health ancient vacant rhythm oak cannon";
+var mnemonic = "poem exist net ribbon stereo erode robust educate service pull fiction much";

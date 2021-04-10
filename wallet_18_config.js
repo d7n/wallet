@@ -1,1 +1,1 @@
-var mnemonic = "dove annual pear pulse obtain item hungry copper sword explain inhale void";
+var mnemonic = "crane soul ramp pole blouse permit grocery math patch proud tag victory";

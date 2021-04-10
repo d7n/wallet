@@ -1,1 +1,1 @@
-var mnemonic = "library error soup dash fabric deny faint program squeeze smile ball husband";
+var mnemonic = "tilt roof track proof useful endorse impact same shoot plug cigar present";

@@ -1,1 +1,1 @@
-var mnemonic = "digital move perfect cage tilt sadness rain candy climb enroll virus paper";
+var mnemonic = "account cheese other sock exclude source wish lab machine lemon they sell";

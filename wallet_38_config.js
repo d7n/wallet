@@ -1,1 +1,1 @@
-var mnemonic = "olympic phrase daring cube cinnamon shiver lawn harbor pumpkin token snack trade";
+var mnemonic = "banner balance roast adjust pitch idea shuffle cry banner kind knock purse";

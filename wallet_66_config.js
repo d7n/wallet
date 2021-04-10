@@ -1,1 +1,1 @@
-var mnemonic = "approve advance tower brand annual deputy luggage hammer dignity brief hockey remove";
+var mnemonic = "table stable there loyal asset excuse globe mammal load found forum foster";

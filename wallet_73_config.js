@@ -1,1 +1,1 @@
-var mnemonic = "rotate color taxi captain devote near auto proud grit nasty grass travel";
+var mnemonic = "autumn helmet frown clock floor cook version lounge green curve learn sphere";

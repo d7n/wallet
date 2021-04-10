@@ -1,1 +1,1 @@
-var mnemonic = "plastic glimpse fat salon violin ginger occur neither between drum jewel winner";
+var mnemonic = "during dad bleak orphan museum slogan excite soft primary picnic route feature";

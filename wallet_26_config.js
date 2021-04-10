@@ -1,1 +1,1 @@
-var mnemonic = "come wrong west enhance such twice world busy torch polar provide panic";
+var mnemonic = "maple win auction catalog decide blanket aunt broom pupil deposit embody witness";

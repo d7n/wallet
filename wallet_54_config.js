@@ -1,1 +1,1 @@
-var mnemonic = "parent person cart upset ankle retreat twin picture attract dutch add hold";
+var mnemonic = "helmet immense whip off course outside lunar swarm brand fly unveil salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "drive toddler case develop profit tunnel unusual sauce cake marble strike vivid";
+var mnemonic = "shy midnight soldier govern hub flash void hair permit universe truly club";

@@ -1,1 +1,1 @@
-var mnemonic = "sense scrub couch gym slot album remove payment axis fade conduct hold";
+var mnemonic = "similar isolate shoulder argue main wink upon east young demand arrest memory";

@@ -1,1 +1,1 @@
-var mnemonic = "across wave video village sibling ten title biology idea denial spell edge";
+var mnemonic = "child change shift side author total yellow thumb omit because novel palace";

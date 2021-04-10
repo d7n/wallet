@@ -1,1 +1,1 @@
-var mnemonic = "tackle silk soda segment grit property prosper notice combine champion chunk waste";
+var mnemonic = "book thought seminar skill main deal chalk pledge dismiss sudden clever couch";

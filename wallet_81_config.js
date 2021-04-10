@@ -1,1 +1,1 @@
-var mnemonic = "scrub youth accuse spike output twenty inmate random gasp setup heavy shiver";
+var mnemonic = "huge cricket town poet van bleak farm gain lyrics city stone exclude";

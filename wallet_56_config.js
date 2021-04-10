@@ -1,1 +1,1 @@
-var mnemonic = "copy faith under level better curve album property size stone tackle wrestle";
+var mnemonic = "weird erosion push obvious adapt thank clinic silver rely glimpse carbon know";

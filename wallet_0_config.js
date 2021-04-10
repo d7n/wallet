@@ -1,1 +1,1 @@
-var mnemonic = "debate rate human aspect found question globe sheriff bacon dose horror entire";
+var mnemonic = "gravity like worry glass morning accident alert bundle fantasy exact other clever";

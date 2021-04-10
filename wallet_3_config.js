@@ -1,1 +1,1 @@
-var mnemonic = "wet random stem valid bamboo version increase digital vicious else spawn extend";
+var mnemonic = "replace field visual main item deliver action hire slim submit scheme swear";

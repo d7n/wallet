@@ -1,1 +1,1 @@
-var mnemonic = "stay animal live test body frequent six actual clever uphold diagram sunny";
+var mnemonic = "bleak sad eyebrow crew unfair alert mirror embrace abuse color grape panda";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit super piece hawk cause flavor today math connect spray auction happy";
+var mnemonic = "enforce pond lyrics together trophy satoshi twenty wrap will essence eagle social";

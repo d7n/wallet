@@ -1,1 +1,1 @@
-var mnemonic = "hollow dice neck abuse cheap furnace skate resemble eagle dress love carpet";
+var mnemonic = "rabbit gain radio wash bamboo museum parent client twice outside anchor online";

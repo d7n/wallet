@@ -1,1 +1,1 @@
-var mnemonic = "bamboo hole daring someone behave flash print fade grain firm muscle flower";
+var mnemonic = "organ unhappy basket toast bronze broken close click lecture erode iron evolve";

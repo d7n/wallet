@@ -1,1 +1,1 @@
-var mnemonic = "kitchen mosquito control debate goat pair naive unable husband nuclear dust poet";
+var mnemonic = "lobster atom artwork spray design stem crane lobster patch chapter galaxy live";

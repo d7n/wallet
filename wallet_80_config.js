@@ -1,1 +1,1 @@
-var mnemonic = "rebuild frozen render legend summer fog slab evidence arm bring item prosper";
+var mnemonic = "valley crucial silk liquid space video spawn media invest artwork large describe";

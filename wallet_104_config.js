@@ -1,1 +1,1 @@
-var mnemonic = "certain bright crowd afford oblige drip gain apple pool kingdom exist mandate";
+var mnemonic = "era entire furnace kitchen legal pause bulk donkey grass broom note endless";

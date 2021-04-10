@@ -1,1 +1,1 @@
-var mnemonic = "patient box scheme private eagle casual nest slide orbit alone defy marble";
+var mnemonic = "review curious evoke beach swing fiscal oak excite motion clock lumber town";

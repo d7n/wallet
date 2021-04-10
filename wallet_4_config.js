@@ -1,1 +1,1 @@
-var mnemonic = "dance panic already quit bachelor mad remember wolf inquiry shoe noodle stereo";
+var mnemonic = "orange emotion lyrics neither narrow neither bulb good link west delay thank";

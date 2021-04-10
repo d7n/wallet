@@ -1,1 +1,1 @@
-var mnemonic = "make banner actress solution mixed sleep heart elegant exercise glance else stairs";
+var mnemonic = "crop hat giraffe must valley discover rose trigger warrior gate adapt measure";

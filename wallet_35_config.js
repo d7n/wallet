@@ -1,1 +1,1 @@
-var mnemonic = "call razor charge walk bind rice wisdom film limb ginger hand surface";
+var mnemonic = "crime drop ghost agree hedgehog pact casual dish conduct rescue address rose";

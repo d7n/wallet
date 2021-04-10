@@ -1,1 +1,1 @@
-var mnemonic = "act jelly purchase toddler sight field fold valve annual pizza antique scrub";
+var mnemonic = "slot also praise foster field remove wool damp require raise grit stable";

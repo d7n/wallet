@@ -1,1 +1,1 @@
-var mnemonic = "march human husband above loyal entire butter very jar impose unit fatal";
+var mnemonic = "record long often alarm umbrella half holiday example carry random emotion craft";

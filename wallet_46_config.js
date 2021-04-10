@@ -1,1 +1,1 @@
-var mnemonic = "fit crack owner board output oblige demand cook wreck desk roof dynamic";
+var mnemonic = "firm address cheap omit say breeze pond moon hollow peace purchase soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "brush come dune neither umbrella author pact remain color bomb invite payment";
+var mnemonic = "mother major school magic melody river hybrid wedding million shoot any company";

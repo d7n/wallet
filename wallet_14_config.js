@@ -1,1 +1,1 @@
-var mnemonic = "blossom nose match lesson usage mango grunt anxiety sense stick poet run";
+var mnemonic = "apple junior gaze brass stick term tackle kite define fancy nature behind";

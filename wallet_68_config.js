@@ -1,1 +1,1 @@
-var mnemonic = "iron shaft lounge rebel flee uniform pave timber rice trouble dolphin fruit";
+var mnemonic = "core believe myself daring quarter social million minute citizen away sport regular";
