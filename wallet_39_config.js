@@ -1,1 +1,1 @@
-var mnemonic = "pen great harbor roast enlist drop ozone hurry question real cage upper";
+var mnemonic = "now blame choice rally brain just champion trend sister expose scare ghost";

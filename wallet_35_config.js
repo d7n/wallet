@@ -1,1 +1,1 @@
-var mnemonic = "document rival drink physical sun wheel enable atom portion appear rough invite";
+var mnemonic = "anxiety three tooth pull leopard oblige train truly glove nut lunar cushion";

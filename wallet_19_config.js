@@ -1,1 +1,1 @@
-var mnemonic = "accident half twist attitude shed miss staff urban scorpion panel hollow torch";
+var mnemonic = "nuclear there elite dial credit assault derive scene interest behind ahead life";

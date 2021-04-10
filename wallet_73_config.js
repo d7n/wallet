@@ -1,1 +1,1 @@
-var mnemonic = "faith ozone south develop mammal fantasy snow before area breeze waste remember";
+var mnemonic = "cannon never loyal good mercy often august purchase limb copper bread post";

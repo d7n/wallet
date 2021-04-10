@@ -1,1 +1,1 @@
-var mnemonic = "away divide theory catch human cereal quick advice sorry twin delay actual";
+var mnemonic = "sweet light involve enable escape false express water myth nose crawl pear";

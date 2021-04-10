@@ -1,1 +1,1 @@
-var mnemonic = "opinion slush vicious pole section menu wash skin fury alpha pulp shop";
+var mnemonic = "foster park century claim resemble crazy glimpse guitar husband curtain all diagram";

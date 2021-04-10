@@ -1,1 +1,1 @@
-var mnemonic = "excite engine visa swarm fossil floor twice hidden audit miss ten tackle";
+var mnemonic = "soon asthma put adult occur trick embark spoon frost admit water sun";

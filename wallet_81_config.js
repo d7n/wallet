@@ -1,1 +1,1 @@
-var mnemonic = "interest trick black series diamond attract spy fly fancy open plate tourist";
+var mnemonic = "fiscal worry prison cluster sell fee evolve upper stem wheel tag taste";

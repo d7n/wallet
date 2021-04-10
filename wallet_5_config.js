@@ -1,1 +1,1 @@
-var mnemonic = "bar stay volume symbol intact scorpion myth kiss host leaf host century";
+var mnemonic = "isolate arrive ripple best wood layer eyebrow good kidney net life smooth";

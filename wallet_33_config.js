@@ -1,1 +1,1 @@
-var mnemonic = "antenna later humble fruit city charge logic please gather scan order artwork";
+var mnemonic = "maximum region drive life bundle bamboo advice trick parade law obey thunder";

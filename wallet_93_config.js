@@ -1,1 +1,1 @@
-var mnemonic = "check puzzle edge glance valve fish shoulder sustain gesture sorry crazy pottery";
+var mnemonic = "garden range travel blast teach grab envelope label wagon siege solar frost";

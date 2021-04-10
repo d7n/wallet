@@ -1,1 +1,1 @@
-var mnemonic = "step since okay pledge door virus swift multiply help rug solution able";
+var mnemonic = "erode model jelly video hedgehog broom start card zero away blouse fiber";

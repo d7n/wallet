@@ -1,1 +1,1 @@
-var mnemonic = "special notable monitor split fence equal page steel cheese still soup clever";
+var mnemonic = "badge valve scout wrestle width add stem forward icon tennis jelly sell";

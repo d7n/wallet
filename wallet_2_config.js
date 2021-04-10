@@ -1,1 +1,1 @@
-var mnemonic = "salute parent key blood amount mechanic path faith broom ugly day glass";
+var mnemonic = "civil pulse clever brisk quit credit dynamic clutch kit boy common space";

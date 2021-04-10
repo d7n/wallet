@@ -1,1 +1,1 @@
-var mnemonic = "eternal dove amazing ribbon lend used range winner south sponsor vapor pioneer";
+var mnemonic = "letter scorpion swim what install antique ignore road dilemma mimic shy misery";

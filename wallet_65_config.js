@@ -1,1 +1,1 @@
-var mnemonic = "voice police treat swing reunion pluck few kitten envelope purity purse profit";
+var mnemonic = "cube twice bonus stay sweet cargo dust tool opera bachelor tongue top";

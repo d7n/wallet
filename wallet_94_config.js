@@ -1,1 +1,1 @@
-var mnemonic = "about finish angry absorb prevent waste wood release turtle fiscal include control";
+var mnemonic = "urge stool will series tobacco resource piano dove junk ranch unique want";

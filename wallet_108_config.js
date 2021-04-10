@@ -1,1 +1,1 @@
-var mnemonic = "bonus skate quick clean camp face stock team august skull limb spike";
+var mnemonic = "intact ankle gauge seat gym leaf canoe rally river addict stool wrist";

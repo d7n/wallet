@@ -1,1 +1,1 @@
-var mnemonic = "hover better junior ordinary comic wire canvas south call notable trade another";
+var mnemonic = "chief eight humor music charge ability scout travel head arena eagle make";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer bullet amazing stadium diet enable play bench joy time again close";
+var mnemonic = "bean found liquid coral today inside trust uncle casino skull soccer genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "explain lawn mesh manual track hamster clever wave apart leisure taxi corn";
+var mnemonic = "cash tag silver identify cloth trouble gallery general bulk joke radio obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "snake atom south bless atom current eight arena huge proud guess sad";
+var mnemonic = "field clean desk swift dance scatter tuna tribe like hover coconut calm";

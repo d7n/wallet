@@ -1,1 +1,1 @@
-var mnemonic = "curious unhappy auto penalty tennis walk agree zebra fish visa leg worth";
+var mnemonic = "swim jump birth hair snake right kingdom female opera story pave affair";

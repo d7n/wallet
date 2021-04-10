@@ -1,1 +1,1 @@
-var mnemonic = "midnight document friend radar renew thought frozen learn weasel depart ostrich flock";
+var mnemonic = "alcohol polar scene profit control element stem awake tree bulb color foster";

@@ -1,1 +1,1 @@
-var mnemonic = "range weird indicate sure ahead velvet use online legal cliff sketch duty";
+var mnemonic = "sight grant bulk fragile senior luggage stuff skate opinion inflict inquiry grit";

@@ -1,1 +1,1 @@
-var mnemonic = "sea sick prize empty cook truth box judge maximum teach jazz motor";
+var mnemonic = "organ regret unable exotic zero ghost shop group two head lobster element";

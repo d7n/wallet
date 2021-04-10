@@ -1,1 +1,1 @@
-var mnemonic = "tail bridge special club damp genre art thumb bottom fuel rookie problem";
+var mnemonic = "mind high rent boy trip soda frost sure turkey prevent enough boy";

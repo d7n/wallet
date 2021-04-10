@@ -1,1 +1,1 @@
-var mnemonic = "tilt casual wing bench resist core table verb wild leave catalog local";
+var mnemonic = "mix snake edge update lesson orchard ensure age want approve myself enforce";

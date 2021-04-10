@@ -1,1 +1,1 @@
-var mnemonic = "mansion fabric cabin lottery arm day trash crazy excuse age congress around";
+var mnemonic = "erupt hover select soul air shy sad enemy isolate gesture visa blood";

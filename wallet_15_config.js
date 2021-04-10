@@ -1,1 +1,1 @@
-var mnemonic = "sound remind you forest festival meat october upset credit vibrant jewel face";
+var mnemonic = "insect december imitate empty bamboo decline street crash peanut magic submit jungle";

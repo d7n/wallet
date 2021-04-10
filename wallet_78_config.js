@@ -1,1 +1,1 @@
-var mnemonic = "play select trust flavor behind believe maze crisp couch identify blue outdoor";
+var mnemonic = "omit latin sting bone law panic cloud trial cradle throw nasty raccoon";

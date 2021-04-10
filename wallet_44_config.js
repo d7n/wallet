@@ -1,1 +1,1 @@
-var mnemonic = "shoulder enable knife this garage section prize venue shine company parrot hair";
+var mnemonic = "urban cigar curve turtle bar initial welcome blossom rocket rival equip glow";

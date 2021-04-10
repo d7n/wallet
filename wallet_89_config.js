@@ -1,1 +1,1 @@
-var mnemonic = "excess zone horn dove inform stuff vacuum catalog deal payment multiply inform";
+var mnemonic = "horn prevent february staff lock crack atom grief stone sick service chase";

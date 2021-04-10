@@ -1,1 +1,1 @@
-var mnemonic = "finish party rely learn armor chat absorb clerk extend decrease estate paper";
+var mnemonic = "grass when permit owner kitchen eyebrow cannon pave page egg cream only";

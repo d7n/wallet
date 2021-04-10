@@ -1,1 +1,1 @@
-var mnemonic = "trade more actor galaxy lamp wet hour section cruel slight bicycle twenty";
+var mnemonic = "squirrel tone melt cloth strong pass gentle connect subject assume desert unaware";

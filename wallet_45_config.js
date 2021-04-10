@@ -1,1 +1,1 @@
-var mnemonic = "draw wage coconut number salmon wheat real hurdle apology resemble bachelor funny";
+var mnemonic = "quantum find click gospel syrup reveal shadow coffee enough hunt unhappy grow";

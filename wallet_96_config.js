@@ -1,1 +1,1 @@
-var mnemonic = "west learn fitness best gasp dove reunion indoor stove hello hedgehog culture";
+var mnemonic = "subject target gown menu educate whisper plate photo dice glow hard endless";

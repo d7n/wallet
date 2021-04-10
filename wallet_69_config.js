@@ -1,1 +1,1 @@
-var mnemonic = "where lens opera settle crumble lecture shine flee toast hard gown story";
+var mnemonic = "face pepper sock unveil leg bacon trim yellow gain lazy glance throw";

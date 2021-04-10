@@ -1,1 +1,1 @@
-var mnemonic = "suit style harbor garlic object enable shed razor stem legal coyote solar";
+var mnemonic = "earth poet load final fever damp jacket lunch rich allow aisle annual";

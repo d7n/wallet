@@ -1,1 +1,1 @@
-var mnemonic = "suit album combine shadow come oil same rack glide fold card weapon";
+var mnemonic = "execute flip faculty trap private snap tank tobacco object engage deer expect";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom mercy bulk resemble duty pass manage impulse cover hawk cave flat";
+var mnemonic = "mirror enlist because lonely direct wrestle enroll remember usual force social regular";

@@ -1,1 +1,1 @@
-var mnemonic = "meat absurd federal online tilt region human ripple jump copy start system";
+var mnemonic = "forward frame theory frozen renew brain bind tourist suffer casino reason school";

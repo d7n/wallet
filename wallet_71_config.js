@@ -1,1 +1,1 @@
-var mnemonic = "tilt enter east bird lottery current health focus desk fine autumn kiwi";
+var mnemonic = "shift silk noodle acid submit rival begin cupboard control tomorrow narrow slice";

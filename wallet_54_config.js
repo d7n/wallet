@@ -1,1 +1,1 @@
-var mnemonic = "mushroom lawsuit grid game resist room autumn grace east shy maple token";
+var mnemonic = "original worry salad finish raven color source syrup order ribbon recycle eternal";

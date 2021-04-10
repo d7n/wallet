@@ -1,1 +1,1 @@
-var mnemonic = "suspect grunt enter lava truck tonight minimum awake alter eyebrow mesh swift";
+var mnemonic = "machine heavy coconut explain chest ensure fork good source clip engine ignore";

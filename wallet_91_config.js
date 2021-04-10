@@ -1,1 +1,1 @@
-var mnemonic = "path wise biology capable drip camera motion mixed upgrade mom gravity song";
+var mnemonic = "arena ignore seed apology tornado unable midnight now weekend decade quit journey";

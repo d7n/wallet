@@ -1,1 +1,1 @@
-var mnemonic = "useless junior joy initial bacon come current purchase judge emerge repeat exotic";
+var mnemonic = "donor canal renew pilot harvest fury industry mouse surprise balcony book police";

@@ -1,1 +1,1 @@
-var mnemonic = "south morning audit tell auction today away heart hobby mandate crowd raise";
+var mnemonic = "trouble true danger phrase miss angry maple network lunar sock admit arrow";

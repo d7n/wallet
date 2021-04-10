@@ -1,1 +1,1 @@
-var mnemonic = "keep grass vague boss image achieve teach debate volume better require domain";
+var mnemonic = "forest rain share that lens amateur athlete icon finger average dust style";

@@ -1,1 +1,1 @@
-var mnemonic = "world vapor expire present exact bronze sport delay denial decrease embrace avocado";
+var mnemonic = "list type market thank write grape morning leaf second horn valve certain";

@@ -1,1 +1,1 @@
-var mnemonic = "member prefer chronic spin region reopen soul layer hand vacuum foster promote";
+var mnemonic = "mixture move regret ball want paper catalog tilt knock tornado once coil";

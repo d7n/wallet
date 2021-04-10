@@ -1,1 +1,1 @@
-var mnemonic = "waste normal alien garage suspect dry draft fringe general panther congress sudden";
+var mnemonic = "impose boil circle park funny owner long filter urban bracket infant rare";

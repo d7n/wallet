@@ -1,1 +1,1 @@
-var mnemonic = "soccer chalk fortune mimic beyond cupboard know chief token across orient trade";
+var mnemonic = "spare same cluster spy rent roast limb destroy basic celery another swallow";

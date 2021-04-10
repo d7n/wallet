@@ -1,1 +1,1 @@
-var mnemonic = "actor gesture remind execute soda vague place minute velvet that true merry";
+var mnemonic = "chimney trim eternal bone west rebel wedding wait average fiction detect sketch";

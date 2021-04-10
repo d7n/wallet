@@ -1,1 +1,1 @@
-var mnemonic = "observe flower brick collect memory speak maze stamp artist rhythm north purse";
+var mnemonic = "gun such chest now lift cradle forest skate fan comfort machine drama";

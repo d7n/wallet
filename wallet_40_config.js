@@ -1,1 +1,1 @@
-var mnemonic = "occur hill top verb plastic usual utility broccoli amateur august genius segment";
+var mnemonic = "crawl slim stomach rifle arctic shrimp green inspire day dwarf property assault";

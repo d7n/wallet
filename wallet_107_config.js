@@ -1,1 +1,1 @@
-var mnemonic = "scrap neck multiply scrap loud canal volcano correct priority antenna meat skirt";
+var mnemonic = "wait seminar tuition travel pioneer bring excite solution already start ball echo";

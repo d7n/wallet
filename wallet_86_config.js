@@ -1,1 +1,1 @@
-var mnemonic = "oblige current witness funny siege metal possible survey impact busy left demand";
+var mnemonic = "scout ozone same merge test depend stock dinner wire online donkey nut";

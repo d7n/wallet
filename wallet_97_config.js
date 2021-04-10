@@ -1,1 +1,1 @@
-var mnemonic = "exist genuine wear wasp dust jaguar argue butter horror brisk surface civil";
+var mnemonic = "rival grass street suffer segment hub peanut frozen recycle path immense inside";

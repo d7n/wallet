@@ -1,1 +1,1 @@
-var mnemonic = "symbol hurry silk ghost gather luggage monkey rain lock midnight dawn express";
+var mnemonic = "knock cube mango split common harsh year chase catalog blush escape brush";

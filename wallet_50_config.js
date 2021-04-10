@@ -1,1 +1,1 @@
-var mnemonic = "fault version canoe bracket vibrant safe fog humble arena inside slice soon";
+var mnemonic = "decrease chronic special scare advance quiz town omit magnet prosper diamond access";

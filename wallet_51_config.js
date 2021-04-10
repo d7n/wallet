@@ -1,1 +1,1 @@
-var mnemonic = "edit fury scheme member ripple arrive can height fault add hamster chapter";
+var mnemonic = "brain nerve enrich better glance someone next together extra desert dinner sad";

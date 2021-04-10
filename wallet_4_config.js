@@ -1,1 +1,1 @@
-var mnemonic = "decide ramp embrace seat enrich monitor net immense feature practice poverty chat";
+var mnemonic = "forum leopard cabin outdoor stick leisure custom solution secret oven elbow dust";

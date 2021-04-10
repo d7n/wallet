@@ -1,1 +1,1 @@
-var mnemonic = "media pudding neglect also pumpkin hire bunker culture riot nature curve issue";
+var mnemonic = "scrap copy people smile never soul elder scrap canal tobacco decide congress";

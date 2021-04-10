@@ -1,1 +1,1 @@
-var mnemonic = "fade enlist horror drop alien frozen twice stool move draft aim expand";
+var mnemonic = "federal hurt case rotate inside true culture wrist pact weasel net remove";

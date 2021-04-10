@@ -1,1 +1,1 @@
-var mnemonic = "lizard cargo fish entry choice what chaos recall virus metal custom that";
+var mnemonic = "penalty month dolphin snow evidence fun merge scatter scrub dove exhaust chest";

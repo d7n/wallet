@@ -1,1 +1,1 @@
-var mnemonic = "combine cabbage meat heart cradle stuff much pelican rookie squeeze shield chef";
+var mnemonic = "fence oblige soon tumble decide whale media violin artwork situate fuel buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "fish jungle ship illegal beef employ never find soldier blind spray habit";
+var mnemonic = "picnic coast juice ability vague pride success exercise engine ski fatal harsh";

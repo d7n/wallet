@@ -1,1 +1,1 @@
-var mnemonic = "result buddy thank diet favorite gym blood camp domain buddy lend worry";
+var mnemonic = "small grass pink salmon immense pattern hockey critic thing voyage crystal dash";

@@ -1,1 +1,1 @@
-var mnemonic = "hole helmet estate street story walk turn choose convince salad myself avoid";
+var mnemonic = "plastic easy science asthma spin theory project defy dirt rent client maid";

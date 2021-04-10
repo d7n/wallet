@@ -1,1 +1,1 @@
-var mnemonic = "chapter effort train unveil assault evil soap film audit artist weekend circle";
+var mnemonic = "oak sign door gather stomach violin mechanic reduce rose win easily clarify";

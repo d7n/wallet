@@ -1,1 +1,1 @@
-var mnemonic = "delay cage void cushion urban choose sense fall stool garage giant book";
+var mnemonic = "badge hat film company aspect uncover erupt eyebrow bronze ostrich surge vicious";

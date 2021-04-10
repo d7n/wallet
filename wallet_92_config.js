@@ -1,1 +1,1 @@
-var mnemonic = "shell reason company cinnamon grain session loan twenty sand era lucky soda";
+var mnemonic = "earn glue despair myth mind bind urge nature soldier later family region";

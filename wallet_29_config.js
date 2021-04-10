@@ -1,1 +1,1 @@
-var mnemonic = "tank cross law patrol wrong add fall fan radio supreme success laundry";
+var mnemonic = "multiply park often cable clarify exile era mercy they rule cram behind";

@@ -1,1 +1,1 @@
-var mnemonic = "boring dynamic awesome oppose orange off original auction vehicle gaze relief often";
+var mnemonic = "kitchen belt case project blue guess cushion stadium trick mother wine furnace";

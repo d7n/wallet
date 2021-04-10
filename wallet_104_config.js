@@ -1,1 +1,1 @@
-var mnemonic = "guide push cinnamon case stem maze mean tumble net crunch badge rack";
+var mnemonic = "loop program ceiling want charge wheat tobacco feature hungry turkey flight list";

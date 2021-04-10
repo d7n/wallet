@@ -1,1 +1,1 @@
-var mnemonic = "blur hat cute oppose volume pact circle company donor subject hold core";
+var mnemonic = "plastic useless extend sister sample sound pyramid crash vintage wave puzzle typical";

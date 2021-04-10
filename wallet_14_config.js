@@ -1,1 +1,1 @@
-var mnemonic = "butter dizzy knock crisp prosper speak spell chicken clap globe naive neither";
+var mnemonic = "loyal strike drop wet flash ripple sadness rather legal entire fetch confirm";

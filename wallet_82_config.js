@@ -1,1 +1,1 @@
-var mnemonic = "boy because cousin call battle oblige ice taste possible hard matter want";
+var mnemonic = "seed blanket guard pull divorce rely cause neutral canoe neglect gallery slim";

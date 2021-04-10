@@ -1,1 +1,1 @@
-var mnemonic = "silk beauty empty future shrimp shrimp thing steak salad consider april potato";
+var mnemonic = "rack must way mango west flat put mean man excuse warm merge";

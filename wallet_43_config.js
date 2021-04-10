@@ -1,1 +1,1 @@
-var mnemonic = "forest grid ski orbit custom misery gossip utility paddle permit party layer";
+var mnemonic = "dice beyond must another mail trial ethics fragile term park prevent primary";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics penalty great shadow such vault sick replace discover sketch bomb easy";
+var mnemonic = "fruit conduct vessel valley dog blood skate kidney sock wealth forest rookie";

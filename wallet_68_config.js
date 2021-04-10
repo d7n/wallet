@@ -1,1 +1,1 @@
-var mnemonic = "smile wild zone trust plug place evidence glare ostrich arm device daring";
+var mnemonic = "fringe crop sudden strategy effort great license cereal case entry pass lion";

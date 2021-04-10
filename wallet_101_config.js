@@ -1,1 +1,1 @@
-var mnemonic = "solution palace stick notice misery unlock chat document demand once account beauty";
+var mnemonic = "dish method glow small math vehicle stick fuel grab possible traffic discover";

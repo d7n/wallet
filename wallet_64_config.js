@@ -1,1 +1,1 @@
-var mnemonic = "human maple arch wool unaware travel jelly swim disorder spoil satoshi find";
+var mnemonic = "father uphold afraid rigid cable double canvas gun chicken anger cheap soldier";

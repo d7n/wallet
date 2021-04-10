@@ -1,1 +1,1 @@
-var mnemonic = "blush stay warm crane monitor agent forward bamboo analyst art path cash";
+var mnemonic = "biology ticket crew rare broken weasel notable auto kingdom range float try";
