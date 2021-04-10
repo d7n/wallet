@@ -1,1 +1,1 @@
-var mnemonic = "scheme organ resource feature arena price local sea mushroom loud skate timber";
+var mnemonic = "mass range betray love leave stove supply ceiling wrong shine dice trap";

@@ -1,1 +1,1 @@
-var mnemonic = "kite culture daughter end lady glass term lyrics decrease lobster initial equip";
+var mnemonic = "hour violin can giant curve barrel snake lion invite retire satoshi dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "inner bitter evolve under foster follow uniform canal cherry own journey file";
+var mnemonic = "inject apology pupil glory blur wealth pledge film credit final thumb shed";

@@ -1,1 +1,1 @@
-var mnemonic = "small eye news vintage moment trophy cement narrow pass web leisure morning";
+var mnemonic = "belt furnace exotic hamster primary damp island exercise layer dignity chase model";

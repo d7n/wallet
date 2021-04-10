@@ -1,1 +1,1 @@
-var mnemonic = "scrap setup assume diagram speak spread fun pyramid entry narrow twist mule";
+var mnemonic = "prize clip like warm menu trim common offer wrist average innocent cheap";

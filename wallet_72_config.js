@@ -1,1 +1,1 @@
-var mnemonic = "chase mention security coast cake vessel aisle weasel motor chair road virtual";
+var mnemonic = "shiver often over fame member model rough tumble train cigar leg typical";

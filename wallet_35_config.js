@@ -1,1 +1,1 @@
-var mnemonic = "tackle blur thrive arrow crazy nature bubble number fruit tragic secret inch";
+var mnemonic = "useful auction nuclear salute add damage large deputy pink supply polar source";

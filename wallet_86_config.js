@@ -1,1 +1,1 @@
-var mnemonic = "report amateur brisk pelican marble weather reopen thought burst mean staff ski";
+var mnemonic = "decrease disease bean random harsh arrive vacant once unfair nut spread robot";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore network seven cube time castle maple half purchase upgrade sand junk";
+var mnemonic = "embody adjust pen animal subject flame cupboard rotate opera decline repeat economy";

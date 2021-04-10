@@ -1,1 +1,1 @@
-var mnemonic = "couch little direct squirrel horror goat cinnamon favorite clever kick clutch first";
+var mnemonic = "faith pretty engage stay actor note coral rhythm coyote double asthma infant";

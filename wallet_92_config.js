@@ -1,1 +1,1 @@
-var mnemonic = "reveal elbow post swing amused salmon lounge lazy century gentle rug endorse";
+var mnemonic = "satisfy act goat kite voice kitchen wish grace key curious device abstract";

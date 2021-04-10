@@ -1,1 +1,1 @@
-var mnemonic = "gaze trash country travel elder depart used trust demand venue used outer";
+var mnemonic = "gaze slow sense voyage throw spell prison amazing giraffe bomb essay dutch";

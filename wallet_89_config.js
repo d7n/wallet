@@ -1,1 +1,1 @@
-var mnemonic = "trick jazz express van accuse punch frame essence above curtain mushroom consider";
+var mnemonic = "cover say law thumb wild reopen inherit kick seed that sing diet";

@@ -1,1 +1,1 @@
-var mnemonic = "skill now nephew height loud palm piece resemble wrap cave office involve";
+var mnemonic = "outdoor humble van property blue cube other resource glide document depth desert";

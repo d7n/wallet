@@ -1,1 +1,1 @@
-var mnemonic = "elbow enrich intact eight brain now blur miss frost crater flower february";
+var mnemonic = "room cream flip island crater jacket range lottery spoon special trim town";

@@ -1,1 +1,1 @@
-var mnemonic = "dust size indoor deal border satoshi bright employ cushion crew balcony service";
+var mnemonic = "rich ivory blind lazy switch cancel tired little spend dad gorilla female";

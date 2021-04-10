@@ -1,1 +1,1 @@
-var mnemonic = "analyst erosion differ thank easily wash know width reflect club pelican typical";
+var mnemonic = "involve tired panther unit secret marriage champion depth merit village sell grant";

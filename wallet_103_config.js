@@ -1,1 +1,1 @@
-var mnemonic = "stadium glimpse omit sword hold hunt acid tornado panel style weasel cherry";
+var mnemonic = "vocal general fatigue kit worth spend biology radar mixed genius roast camp";

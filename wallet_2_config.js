@@ -1,1 +1,1 @@
-var mnemonic = "wide rhythm retire elbow quantum firm icon assist carpet elbow borrow brisk";
+var mnemonic = "risk pencil tide plate plastic dragon switch spare rug junior legal man";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer post cliff sing unique pony large chat deputy borrow shrimp update";
+var mnemonic = "shop fade ball ladder romance tone obtain adapt holiday census employ approve";

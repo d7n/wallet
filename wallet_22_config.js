@@ -1,1 +1,1 @@
-var mnemonic = "polar fox tortoise buddy must soccer drift voyage fancy escape music large";
+var mnemonic = "sword laundry element gravity decorate team mobile address prepare garlic mansion flush";

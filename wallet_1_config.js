@@ -1,1 +1,1 @@
-var mnemonic = "wash injury lizard inquiry village toilet fuel apology harbor pen lens soldier";
+var mnemonic = "rabbit drift opera biology box fatal across prison slush gentle coin brief";

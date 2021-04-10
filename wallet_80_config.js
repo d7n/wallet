@@ -1,1 +1,1 @@
-var mnemonic = "task minor divert emerge taste sure analyst topple bring barely place dignity";
+var mnemonic = "champion this limb slender drive step fetch outside sell admit invite potato";

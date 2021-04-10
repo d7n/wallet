@@ -1,1 +1,1 @@
-var mnemonic = "spike forget allow proof royal sudden modify oyster sting rubber deal ketchup";
+var mnemonic = "job crouch spirit void hole when east lobster profit pole diagram trim";

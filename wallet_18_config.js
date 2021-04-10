@@ -1,1 +1,1 @@
-var mnemonic = "margin crack draw harbor defense hotel mass donor aerobic visual together arrest";
+var mnemonic = "elder umbrella mobile assist lyrics swing few pretty loop crucial style head";

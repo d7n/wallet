@@ -1,1 +1,1 @@
-var mnemonic = "autumn dish follow pudding syrup observe clever corn choice coast cat dumb";
+var mnemonic = "neither return firm transfer rude favorite patrol decorate oyster senior model limb";

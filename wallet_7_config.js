@@ -1,1 +1,1 @@
-var mnemonic = "behind capable blind laundry picnic evidence entry palm section source flame prosper";
+var mnemonic = "grocery spare upper saddle milk enhance lake bike update program wedding burger";

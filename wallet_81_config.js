@@ -1,1 +1,1 @@
-var mnemonic = "disagree grit seven harbor blanket rack title desk tired weird left huge";
+var mnemonic = "egg what draw sun pulp this kitten soap tattoo poet buddy already";

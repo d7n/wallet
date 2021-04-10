@@ -1,1 +1,1 @@
-var mnemonic = "tribe cigar garlic mistake enroll treat flock cruise candy immune delay pledge";
+var mnemonic = "law consider vital grocery nurse grape thing print sound casino tell rocket";

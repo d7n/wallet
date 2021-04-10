@@ -1,1 +1,1 @@
-var mnemonic = "rabbit tilt gain review leisure want gorilla about wise icon pigeon cargo";
+var mnemonic = "more cake message world cigar chuckle acoustic trial brisk mixture keep hip";

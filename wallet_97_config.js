@@ -1,1 +1,1 @@
-var mnemonic = "release festival bid base equip topple brush throw robust drum maze science";
+var mnemonic = "ridge retire win pulp initial bargain parade congress illness unit romance measure";

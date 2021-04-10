@@ -1,1 +1,1 @@
-var mnemonic = "razor also earth accident theme quantum supply select glance night chase alley";
+var mnemonic = "expire mammal oyster noise consider apology loan extend aerobic sight program color";

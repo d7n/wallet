@@ -1,1 +1,1 @@
-var mnemonic = "bar casual museum donate toast toddler blanket obvious believe rice donate tilt";
+var mnemonic = "vessel fire vital dirt odor raccoon hospital stem rally lawsuit dynamic agree";

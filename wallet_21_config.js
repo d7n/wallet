@@ -1,1 +1,1 @@
-var mnemonic = "sentence chaos reward stool boy recall blue purse left citizen shed tape";
+var mnemonic = "crumble gauge round toddler prevent quit merry elephant million almost vast february";

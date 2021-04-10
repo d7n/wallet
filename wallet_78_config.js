@@ -1,1 +1,1 @@
-var mnemonic = "milk lottery key assault biology grant thunder lumber anger jazz popular start";
+var mnemonic = "cook pistol liar general morning finger alpha quantum first element major order";

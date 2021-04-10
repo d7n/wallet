@@ -1,1 +1,1 @@
-var mnemonic = "glory wish escape woman mail drop nerve chair remain toilet pluck distance";
+var mnemonic = "random armor own organ purpose grid canoe mushroom display area salon rack";

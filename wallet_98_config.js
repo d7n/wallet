@@ -1,1 +1,1 @@
-var mnemonic = "begin happy hungry outdoor feature broccoli buffalo patient one candy drastic kid";
+var mnemonic = "pull have begin lounge depth tourist unhappy bring ladder timber addict endless";

@@ -1,1 +1,1 @@
-var mnemonic = "finger sunset skirt jelly field pyramid coach item essence amount expose galaxy";
+var mnemonic = "spin hospital dumb fitness romance uniform planet crash school exclude oblige viable";

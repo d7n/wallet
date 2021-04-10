@@ -1,1 +1,1 @@
-var mnemonic = "strike lift fee echo antique jaguar exclude brush object funny output tape";
+var mnemonic = "slot amount math include tail horn more acquire snack aunt pass zone";

@@ -1,1 +1,1 @@
-var mnemonic = "call month giraffe strategy clown aware scissors bulk wife refuse outdoor lemon";
+var mnemonic = "joke castle regular sketch school orbit note wolf letter alter abandon wedding";

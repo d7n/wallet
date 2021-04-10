@@ -1,1 +1,1 @@
-var mnemonic = "erase giant alert flip until spot fancy inspire vanish elegant fatal refuse";
+var mnemonic = "aunt evoke breeze upper mirror approve secret twin glove sphere snake common";

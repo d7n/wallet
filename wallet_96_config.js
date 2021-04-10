@@ -1,1 +1,1 @@
-var mnemonic = "image spray duck bundle liar echo slight gravity attract behind stone glimpse";
+var mnemonic = "illness couch dice kidney strong like nuclear tooth equal surge essence ski";

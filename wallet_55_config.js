@@ -1,1 +1,1 @@
-var mnemonic = "half news hunt tiger town tiger anxiety erode picnic trial electric loop";
+var mnemonic = "history lonely pair visual simple elite evoke citizen humor clay alpha case";

@@ -1,1 +1,1 @@
-var mnemonic = "claim review gun asthma bomb race install humble senior garden tone sketch";
+var mnemonic = "pyramid catch rally weather toy subject borrow area caution sample exchange toss";

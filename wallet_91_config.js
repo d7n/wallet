@@ -1,1 +1,1 @@
-var mnemonic = "tide insane despair secret chair pact term auto swallow address flag fragile";
+var mnemonic = "crazy plunge siege galaxy venue umbrella humble paper pig wasp panther heart";

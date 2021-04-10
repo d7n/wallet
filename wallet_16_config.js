@@ -1,1 +1,1 @@
-var mnemonic = "army jacket quantum outdoor sure grief door deny scheme mule note popular";
+var mnemonic = "prefer avocado cruise mobile boy denial move fiction marriage have earn hat";

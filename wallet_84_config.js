@@ -1,1 +1,1 @@
-var mnemonic = "person north human wife test arena equal business woman october true ugly";
+var mnemonic = "luggage rib diamond orange mosquito multiply until tiny regret nest sketch laundry";

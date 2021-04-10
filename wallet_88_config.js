@@ -1,1 +1,1 @@
-var mnemonic = "vocal planet churn legal satoshi guitar forest eternal moment fee security essay";
+var mnemonic = "cactus birth link enrich assume ranch cherry dumb army quantum dragon crater";

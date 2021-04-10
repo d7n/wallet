@@ -1,1 +1,1 @@
-var mnemonic = "slight beef sort matter sing bachelor record scrap survey giraffe body good";
+var mnemonic = "gather giggle march wisdom caught glide trigger old wire analyst volcano bird";

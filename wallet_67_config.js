@@ -1,1 +1,1 @@
-var mnemonic = "garlic army wheel almost adapt among wink scout safe sure text miss";
+var mnemonic = "random mosquito vivid club face range omit clinic crystal devote rich ski";

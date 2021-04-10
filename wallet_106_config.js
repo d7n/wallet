@@ -1,1 +1,1 @@
-var mnemonic = "table laugh mammal language boy voice three sniff mad injury void van";
+var mnemonic = "process now tooth vapor trophy sudden mask name poet second subject swallow";

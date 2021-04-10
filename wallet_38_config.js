@@ -1,1 +1,1 @@
-var mnemonic = "square organ cement fiscal sadness such dog lava plunge chest action chat";
+var mnemonic = "country runway surge bonus inform middle debris ladder memory total problem tortoise";

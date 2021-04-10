@@ -1,1 +1,1 @@
-var mnemonic = "wrestle chief omit march crop patch deer attend fire tumble weasel pistol";
+var mnemonic = "faint pig recall alley dune grass december fiber crack pulp noble tennis";

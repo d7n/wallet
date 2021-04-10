@@ -1,1 +1,1 @@
-var mnemonic = "gaze rifle trap raise harbor fossil add drill torch major obey reward";
+var mnemonic = "glare hire lift include spy dumb teach clean rule sustain segment stay";

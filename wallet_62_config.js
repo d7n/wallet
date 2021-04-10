@@ -1,1 +1,1 @@
-var mnemonic = "post exist trend exclude layer cannon coconut poem copy theory cable canyon";
+var mnemonic = "goat chair choice among clerk nature impulse enable funny lonely spoil jeans";

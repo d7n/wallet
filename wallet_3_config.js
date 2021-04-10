@@ -1,1 +1,1 @@
-var mnemonic = "raise drastic drill palace rifle afraid surface snake message enrich outdoor chapter";
+var mnemonic = "include nominee furnace tree devote aspect include cruise disagree start only insect";

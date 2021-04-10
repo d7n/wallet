@@ -1,1 +1,1 @@
-var mnemonic = "crisp omit captain model balance naive lemon salon need save shock step";
+var mnemonic = "belt depart exotic train chair satoshi leader curve cram horn link void";

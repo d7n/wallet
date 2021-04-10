@@ -1,1 +1,1 @@
-var mnemonic = "canoe replace gold follow repair reflect suffer unlock dust solve town ready";
+var mnemonic = "ride taste girl dinosaur rather false kiwi lounge physical thrive wild buffalo";

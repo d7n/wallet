@@ -1,1 +1,1 @@
-var mnemonic = "foil horse estate expire truly trash tower quality degree onion sunset marriage";
+var mnemonic = "result wrestle render suggest elevator night illness hungry curve beyond cabbage increase";

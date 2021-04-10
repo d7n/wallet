@@ -1,1 +1,1 @@
-var mnemonic = "mass ten term scare wall mobile suit vintage estate news room iron";
+var mnemonic = "enjoy lemon own match debris shallow year either stage chest about style";

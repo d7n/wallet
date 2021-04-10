@@ -1,1 +1,1 @@
-var mnemonic = "category hero false obey drill steak immune fly plate galaxy rival strategy";
+var mnemonic = "cinnamon abuse fence bus ahead best tank ride quote lazy accident asset";

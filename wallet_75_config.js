@@ -1,1 +1,1 @@
-var mnemonic = "moral miracle stomach file next knee dumb violin unhappy fold confirm rebel";
+var mnemonic = "elevator palm arena entry atom legend chat upper swamp core taste entry";

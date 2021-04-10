@@ -1,1 +1,1 @@
-var mnemonic = "grow quit fish point flower process legal employ cause negative camera wheel";
+var mnemonic = "deliver emerge banana describe forum jealous fever clump judge yard van guilt";

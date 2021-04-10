@@ -1,1 +1,1 @@
-var mnemonic = "pitch during crisp capable amount talk sibling equip shift drill glare range";
+var mnemonic = "subject scorpion ramp chair taxi rain ozone expose rug holiday industry library";

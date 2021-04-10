@@ -1,1 +1,1 @@
-var mnemonic = "glide home gap imitate slam cruel dash load equip improve people gold";
+var mnemonic = "garbage potato tail right goose lyrics fork emotion roast illegal process quote";

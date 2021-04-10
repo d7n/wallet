@@ -1,1 +1,1 @@
-var mnemonic = "bachelor quantum border verify clock length exist host elite example hand right";
+var mnemonic = "legal zero gap badge awkward guard one what start syrup poet must";

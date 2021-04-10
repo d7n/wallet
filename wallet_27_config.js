@@ -1,1 +1,1 @@
-var mnemonic = "edge renew hundred stamp dance possible summer spin dismiss oppose dash frame";
+var mnemonic = "fault zebra unhappy genius chunk dwarf alone machine chief cable decide morning";

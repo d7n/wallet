@@ -1,1 +1,1 @@
-var mnemonic = "dumb chair steel become tilt grunt cherry method trash copper flash physical";
+var mnemonic = "okay pulp demand crowd fury fit kitten habit liquid web bleak word";

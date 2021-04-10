@@ -1,1 +1,1 @@
-var mnemonic = "total invest pause matrix soldier boy soup bring drill always adapt man";
+var mnemonic = "limit lucky elder company sea tree access system boat ketchup spike trap";

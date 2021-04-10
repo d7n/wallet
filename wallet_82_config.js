@@ -1,1 +1,1 @@
-var mnemonic = "used near royal spike fat upgrade wise useful mandate sound ripple jar";
+var mnemonic = "estate goat vicious slot float critic promote elder effort scorpion lend assume";

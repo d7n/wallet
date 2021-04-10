@@ -1,1 +1,1 @@
-var mnemonic = "jealous super civil night sell federal tiny enroll eternal again hire fine";
+var mnemonic = "caught marriage embark give stove verify toy frog debris roof picnic often";

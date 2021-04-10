@@ -1,1 +1,1 @@
-var mnemonic = "sand disease area betray bless board more sheriff faint person cart coconut";
+var mnemonic = "liberty filter note capital neither action civil cram corn illegal enforce climb";

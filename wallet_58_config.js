@@ -1,1 +1,1 @@
-var mnemonic = "sadness grief seminar gadget witness submit dance fee width trumpet actual sure";
+var mnemonic = "idea sunset polar duty vendor enrich logic woman alter cause come surround";

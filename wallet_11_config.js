@@ -1,1 +1,1 @@
-var mnemonic = "danger pepper pair baby error turkey hospital dust pudding tobacco sail child";
+var mnemonic = "original renew syrup page west rhythm diet motor outer mirror outdoor tape";

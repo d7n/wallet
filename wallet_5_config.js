@@ -1,1 +1,1 @@
-var mnemonic = "version utility donate side obey lawsuit frozen law churn stand opera deputy";
+var mnemonic = "wagon race document select duty tortoise brand search buyer envelope brush guess";

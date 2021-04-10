@@ -1,1 +1,1 @@
-var mnemonic = "electric fever able divert pony harsh dirt organ autumn sniff tilt science";
+var mnemonic = "february liar father collect area minimum fantasy plunge young drop memory grid";

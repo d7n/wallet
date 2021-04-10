@@ -1,1 +1,1 @@
-var mnemonic = "van fix mirror undo dawn wait jaguar seed yard bar toast trick";
+var mnemonic = "syrup enlist wine state bless clay cake wheel sorry walk maid universe";

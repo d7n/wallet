@@ -1,1 +1,1 @@
-var mnemonic = "afford judge target mango manage rally spray bridge fox yellow wash lumber";
+var mnemonic = "useless voice jacket hint improve bubble gesture circle foot struggle odor all";

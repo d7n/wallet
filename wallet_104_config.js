@@ -1,1 +1,1 @@
-var mnemonic = "luxury collect increase note caution later turkey future chaos swing wave lava";
+var mnemonic = "peace chapter neither path silly secret lazy few upset home jump grass";

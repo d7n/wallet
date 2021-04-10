@@ -1,1 +1,1 @@
-var mnemonic = "loop delay iron coffee artist march skin fall believe marriage hint spider";
+var mnemonic = "convince shoulder calm offer flavor knee jacket van nice voyage scan pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz autumn gesture razor example rug cute lunar ceiling gallery december ethics";
+var mnemonic = "normal battle debris yard awful lyrics output fortune foot armed deliver baby";

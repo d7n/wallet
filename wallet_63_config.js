@@ -1,1 +1,1 @@
-var mnemonic = "metal exist entire orient demand hip canyon state dutch box indicate wheat";
+var mnemonic = "example brother famous hidden test height clutch clinic autumn modify island index";

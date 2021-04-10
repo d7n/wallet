@@ -1,1 +1,1 @@
-var mnemonic = "sting test genius melody where clap warfare logic hole hungry true congress";
+var mnemonic = "manage mandate turkey earn unfold join inch vague viable range collect rookie";

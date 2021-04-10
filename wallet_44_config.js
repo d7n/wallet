@@ -1,1 +1,1 @@
-var mnemonic = "ugly main usage announce harbor spike smart drip oxygen ceiling tiger maid";
+var mnemonic = "life flat diagram warfare veteran remember army wolf hockey clock stock cycle";

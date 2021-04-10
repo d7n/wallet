@@ -1,1 +1,1 @@
-var mnemonic = "stable puzzle demise pool sport gun pen present pretty burst deal scale";
+var mnemonic = "scorpion drift inside suspect fame blind deny advice debate wrist antenna vital";

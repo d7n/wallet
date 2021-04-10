@@ -1,1 +1,1 @@
-var mnemonic = "cloth hidden gospel slush erase tomato concert alley bullet bamboo gesture wall";
+var mnemonic = "amazing retreat wide trumpet quiz year various thrive mango just trend evoke";

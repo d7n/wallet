@@ -1,1 +1,1 @@
-var mnemonic = "shrug hollow primary river party slam raccoon sea common void eternal team";
+var mnemonic = "hair immune aim flush poet say bulk alpha advice wash spread upset";

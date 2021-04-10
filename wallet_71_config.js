@@ -1,1 +1,1 @@
-var mnemonic = "asset life forward breeze gadget zebra pyramid move income border tongue wealth";
+var mnemonic = "party broken jar medal shield island young fish finger pottery cattle armed";

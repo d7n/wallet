@@ -1,1 +1,1 @@
-var mnemonic = "eager scan pudding wrist journey siren spread panic lumber orient catch rare";
+var mnemonic = "fury foam squeeze elegant unfair doctor pudding above juice nothing solar dinosaur";

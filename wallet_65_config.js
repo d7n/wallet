@@ -1,1 +1,1 @@
-var mnemonic = "consider link jump mom trumpet camera reunion exercise index unveil battle lab";
+var mnemonic = "arrest bubble ugly expose outdoor curve give connect sponsor produce neck husband";

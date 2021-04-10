@@ -1,1 +1,1 @@
-var mnemonic = "fame tide device cycle connect error legal woman depart liberty connect among";
+var mnemonic = "unhappy please height engine jump clap involve cat rally little order bring";
