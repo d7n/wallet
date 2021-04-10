@@ -1,1 +1,1 @@
-var mnemonic = "oblige source option guard elder reason vault fix junior trial romance brush";
+var mnemonic = "force tag weather ensure distance ski wood few minimum leave art carry";

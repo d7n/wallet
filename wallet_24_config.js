@@ -1,1 +1,1 @@
-var mnemonic = "route dynamic pluck become shuffle surround viable example muffin route finger agree";
+var mnemonic = "video nothing poverty tourist lonely divorce silk black wrong curve sister flock";

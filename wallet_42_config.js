@@ -1,1 +1,1 @@
-var mnemonic = "cheap fault neglect horror volcano sword tomato force actress upper rookie swim";
+var mnemonic = "delay chat neck icon rapid write aspect blade critic text hen vibrant";

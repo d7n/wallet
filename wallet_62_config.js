@@ -1,1 +1,1 @@
-var mnemonic = "sense aware naive priority safe party refuse track club tell mansion error";
+var mnemonic = "now lobster veteran bounce figure tank crumble stool blanket wall tail plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate tuna struggle record brother broken quality guess tobacco laptop fun mirror";
+var mnemonic = "olympic direct life cabin person drink blue oxygen assist blur scout laptop";

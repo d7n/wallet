@@ -1,1 +1,1 @@
-var mnemonic = "urban nuclear cave absent cinnamon venture auto jar bleak chimney sting warm";
+var mnemonic = "impulse surge upper settle corn great dry expand ugly motion garden tattoo";

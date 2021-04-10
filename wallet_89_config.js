@@ -1,1 +1,1 @@
-var mnemonic = "bottom satisfy liquid point decide only frost lady lemon train market rice";
+var mnemonic = "message coral warm scene inflict twenty alley sample deer alpha bag manual";

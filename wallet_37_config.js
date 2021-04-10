@@ -1,1 +1,1 @@
-var mnemonic = "visual enlist list vivid enroll cool crash obscure park solution wall fine";
+var mnemonic = "pudding cook pond garbage plug wire chimney future able ritual leg fashion";

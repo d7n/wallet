@@ -1,1 +1,1 @@
-var mnemonic = "census tomorrow artist lion affair snack smooth egg pretty situate spring original";
+var mnemonic = "drum ability cinnamon symbol light north police major avoid pause equal tribe";

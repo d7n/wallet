@@ -1,1 +1,1 @@
-var mnemonic = "brush region brief avoid issue okay dizzy nasty female peanut clerk donate";
+var mnemonic = "toss whisper impulse street rally subway brave dinosaur zone lab dash sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk depart salad wait open thumb inject guide amount crush garden daring";
+var mnemonic = "evil moral year main squirrel offer ask badge merry account remain plastic";

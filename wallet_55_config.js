@@ -1,1 +1,1 @@
-var mnemonic = "echo velvet wrestle slush example program purse harvest spawn runway pluck arena";
+var mnemonic = "between system reform waste kingdom invest salute forum laptop trend early brief";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter cruel iron inner film powder auto west bike finish crop cheap";
+var mnemonic = "prison slide work museum hungry soup skull credit lake wise develop visual";

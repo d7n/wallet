@@ -1,1 +1,1 @@
-var mnemonic = "talk actress corn reflect chef sight lock cruise below record remember elevator";
+var mnemonic = "oven kitten prepare civil express ball chimney write power deliver project boss";

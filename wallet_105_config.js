@@ -1,1 +1,1 @@
-var mnemonic = "merry sudden special ozone survey mind consider connect patient immune globe soda";
+var mnemonic = "must liquid dust attitude when kind slim jewel stadium creek approve reopen";

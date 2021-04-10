@@ -1,1 +1,1 @@
-var mnemonic = "when desk figure cross excite hunt ladder mosquito right rule trophy practice";
+var mnemonic = "salon number mandate isolate pencil share amount intact farm vague want shell";

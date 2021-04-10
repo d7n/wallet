@@ -1,1 +1,1 @@
-var mnemonic = "derive kangaroo zone milk note dumb matrix purchase green gospel fall certain";
+var mnemonic = "buyer shiver chef pull insane record survey unique coral conduct long exercise";

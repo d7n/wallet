@@ -1,1 +1,1 @@
-var mnemonic = "shoe fox because spirit essay crash horse sun cry sleep smart equip";
+var mnemonic = "this title ostrich canoe cake cover usual glow cousin palm aspect uniform";

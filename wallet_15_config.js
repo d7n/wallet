@@ -1,1 +1,1 @@
-var mnemonic = "public right voyage reform lab grab work rhythm turtle unlock analyst skill";
+var mnemonic = "grief faculty apart mechanic drink harbor wild distance palace similar cloud slogan";

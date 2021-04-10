@@ -1,1 +1,1 @@
-var mnemonic = "effort salad turkey truck woman easily crush rally exile differ upper mad";
+var mnemonic = "mix spike cat beach swallow pause gold team wedding switch add sea";

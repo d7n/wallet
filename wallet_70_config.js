@@ -1,1 +1,1 @@
-var mnemonic = "ignore address divert vehicle output great alley cute capital potato surge mind";
+var mnemonic = "erode acoustic exist distance settle random stable cherry used cruel coin yard";

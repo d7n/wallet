@@ -1,1 +1,1 @@
-var mnemonic = "bone trick loud abuse output flame pilot betray brother salad better hello";
+var mnemonic = "custom whisper achieve face cruel forward assault exhaust decrease almost burst inner";

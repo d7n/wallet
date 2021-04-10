@@ -1,1 +1,1 @@
-var mnemonic = "start resource above demise frame armed girl great response auction sting cake";
+var mnemonic = "shrug funny uphold drama rain trap wine genuine enact unveil ankle peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "jump charge topple boy obey tower ecology unusual pyramid carpet shoulder reject";
+var mnemonic = "cover ordinary farm better electric divide bike history arena panel jazz enrich";

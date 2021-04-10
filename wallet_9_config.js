@@ -1,1 +1,1 @@
-var mnemonic = "basket drift toilet album square blossom ranch bag home remind swap rocket";
+var mnemonic = "best glory harbor divorce destroy merge dream embark gown you solve bomb";

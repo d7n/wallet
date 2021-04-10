@@ -1,1 +1,1 @@
-var mnemonic = "weasel dance rescue north friend situate clerk enemy unit joy cable bus";
+var mnemonic = "mountain remind museum toss drastic pigeon unveil powder enemy urge grit wait";

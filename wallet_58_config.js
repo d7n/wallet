@@ -1,1 +1,1 @@
-var mnemonic = "lucky dismiss peanut vivid across number clean step section pig soft kitchen";
+var mnemonic = "satisfy latin orange marble settle banana auto awful holiday owner list oyster";

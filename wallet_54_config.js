@@ -1,1 +1,1 @@
-var mnemonic = "uncover coral lemon noise story radio detect switch provide ugly opinion wool";
+var mnemonic = "wrist humble congress consider economy vapor inspire voyage enlist slim faculty near";

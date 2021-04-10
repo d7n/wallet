@@ -1,1 +1,1 @@
-var mnemonic = "gap swallow limb merit alley transfer dwarf dutch tongue reduce brick smile";
+var mnemonic = "cattle couch smoke shuffle state surprise damage sort naive word champion settle";

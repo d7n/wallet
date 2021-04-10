@@ -1,1 +1,1 @@
-var mnemonic = "way jelly capable rug now fiction worth major retire bar regular column";
+var mnemonic = "innocent ticket crater hockey aim book enough road belt frequent ability panda";

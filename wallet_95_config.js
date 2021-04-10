@@ -1,1 +1,1 @@
-var mnemonic = "mouse claim dish jazz grain hollow story token mechanic bind float valid";
+var mnemonic = "coconut disagree bag utility surround time weekend reason nose van purse segment";

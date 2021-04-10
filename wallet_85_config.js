@@ -1,1 +1,1 @@
-var mnemonic = "wonder uphold pass vacuum obtain shift lecture oxygen replace stamp couch loop";
+var mnemonic = "such blush talent deposit essence plastic immune rival task actress hat garbage";

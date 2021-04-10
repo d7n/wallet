@@ -1,1 +1,1 @@
-var mnemonic = "worry exhibit valve beauty source skate correct duty basket razor essence duty";
+var mnemonic = "world oyster easy outer easily valid punch buffalo tragic bench because bus";

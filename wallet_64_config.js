@@ -1,1 +1,1 @@
-var mnemonic = "special bomb hawk settle exhibit trip young garden february lake tail student";
+var mnemonic = "mad hurry inmate mercy civil infant suggest remove parent marble base wage";

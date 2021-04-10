@@ -1,1 +1,1 @@
-var mnemonic = "limit gate popular day omit cotton cushion surface round emerge clip certain";
+var mnemonic = "volume leaf tongue seminar wait update tape penalty lobster mimic case crush";

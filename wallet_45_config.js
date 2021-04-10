@@ -1,1 +1,1 @@
-var mnemonic = "property junk unfair west pyramid unable drop scatter promote harsh tumble squirrel";
+var mnemonic = "around slush vendor one sentence phrase heavy blast family culture mean excuse";

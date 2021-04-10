@@ -1,1 +1,1 @@
-var mnemonic = "crowd tenant snow hurry urge blur clog actual cabin slogan this sweet";
+var mnemonic = "index need vacant group cram donate hospital kitchen glove remember dice clinic";

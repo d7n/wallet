@@ -1,1 +1,1 @@
-var mnemonic = "hawk save aware over brain ankle banner belt excite mean film ladder";
+var mnemonic = "lab camp claim search consider swing assault renew soft twin rotate punch";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap slender invite alter insect radar wasp wheat satisfy hollow game turkey";
+var mnemonic = "live pizza parent walk bullet expire open library equal pact emotion tuition";

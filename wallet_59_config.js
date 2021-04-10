@@ -1,1 +1,1 @@
-var mnemonic = "crucial behind adjust ribbon can funny unknown output limit pulse capable ready";
+var mnemonic = "leopard fall because stock animal private ball world item loud fat core";

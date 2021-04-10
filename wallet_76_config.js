@@ -1,1 +1,1 @@
-var mnemonic = "prefer behave rather fine crouch suffer auction seek bitter bind broom world";
+var mnemonic = "increase book please found army observe gift tail legend hint exist canvas";

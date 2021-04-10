@@ -1,1 +1,1 @@
-var mnemonic = "spray cloud shock index frame corn coast tone gauge soul grief solid";
+var mnemonic = "bubble priority pudding innocent egg fragile uniform match stand hover vote lab";

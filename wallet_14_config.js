@@ -1,1 +1,1 @@
-var mnemonic = "better normal faint spoil check supreme ripple throw any kangaroo achieve slab";
+var mnemonic = "huge height deliver bubble critic neither thumb arrest chat destroy force festival";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly trend first rice ladder donate assault rescue curtain kingdom accuse actor";
+var mnemonic = "train fossil bachelor detail retreat situate unlock honey ripple owner aspect accuse";

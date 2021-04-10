@@ -1,1 +1,1 @@
-var mnemonic = "canvas entry brick combine ensure aunt main segment film trick oil unable";
+var mnemonic = "farm insect diagram jewel rude clinic foam horn behind remain planet runway";

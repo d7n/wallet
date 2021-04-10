@@ -1,1 +1,1 @@
-var mnemonic = "hobby rate movie cram giant gym green acoustic file unhappy aerobic cream";
+var mnemonic = "genuine mirror spice detect loop mix much exhaust worry another blind oven";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver night cabbage drama rose sing cereal render border process canoe service";
+var mnemonic = "zone tired garlic ramp cement fold program palace famous dragon spider lawsuit";

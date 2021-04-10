@@ -1,1 +1,1 @@
-var mnemonic = "rent game eight require endorse august gain lobster start fence bid glimpse";
+var mnemonic = "turkey tone health banana hazard silk divide sudden super feed action sick";

@@ -1,1 +1,1 @@
-var mnemonic = "fat panic oil idea elegant mother glimpse brown surprise gap sell cluster";
+var mnemonic = "wasp vague night romance rebel toilet volume damp social tooth supreme reform";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure vacuum brain angry pole screen tornado speak believe monitor response diet";
+var mnemonic = "glimpse today hospital vendor say pitch tape search sun result spin monster";

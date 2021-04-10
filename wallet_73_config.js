@@ -1,1 +1,1 @@
-var mnemonic = "artwork throw genuine ill weekend vendor slam demise pull fatal mobile chimney";
+var mnemonic = "man rain orchard salute swap note pear humor neglect lecture okay cabin";

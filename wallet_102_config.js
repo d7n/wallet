@@ -1,1 +1,1 @@
-var mnemonic = "nerve winter candy draft upset craft crime muscle road input cinnamon pattern";
+var mnemonic = "envelope neither embrace drop wonder trumpet clog puppy excess valley sunset novel";

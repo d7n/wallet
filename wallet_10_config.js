@@ -1,1 +1,1 @@
-var mnemonic = "diagram moon delay true about tiny rough spy sand joy awful balance";
+var mnemonic = "edit liberty firm penalty chef session hawk theory more theory bitter three";

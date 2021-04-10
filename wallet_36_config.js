@@ -1,1 +1,1 @@
-var mnemonic = "cat alarm tackle trial cycle quote all account man orange business stem";
+var mnemonic = "now hurt enjoy good scrap march click abuse brain toward glue pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "begin peace drift grocery fetch tuition thing taxi sorry deny fame trophy";
+var mnemonic = "laptop frown notable pigeon liberty ghost unusual potato art exhaust negative burden";

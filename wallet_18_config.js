@@ -1,1 +1,1 @@
-var mnemonic = "assault boost head fine diary cost search crisp nose route reject boil";
+var mnemonic = "infant snack jealous awkward someone spring void number square defy social fog";

@@ -1,1 +1,1 @@
-var mnemonic = "just machine they frown weekend bright tattoo country vault act rough achieve";
+var mnemonic = "food pledge try angle office canoe dignity monkey family where junior boost";

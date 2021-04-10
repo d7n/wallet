@@ -1,1 +1,1 @@
-var mnemonic = "local slight shield road insect two staff town enforce rain festival ethics";
+var mnemonic = "survey maze bubble dune road orient coconut witness airport tent clock match";

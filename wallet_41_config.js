@@ -1,1 +1,1 @@
-var mnemonic = "virtual meat puzzle join imitate surprise episode assume canyon pause camera pelican";
+var mnemonic = "under brief robot happy meat clinic ready smooth man metal shield soldier";

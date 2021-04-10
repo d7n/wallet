@@ -1,1 +1,1 @@
-var mnemonic = "debris human pumpkin clog flat sick glide original process giggle select cancel";
+var mnemonic = "unusual shy curve valley canyon limit foam exercise glow okay citizen daughter";

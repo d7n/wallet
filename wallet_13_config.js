@@ -1,1 +1,1 @@
-var mnemonic = "tobacco divert fantasy sure fever wild hotel exercise small shell side excess";
+var mnemonic = "north group glide club leisure news people rice tail injury wish blast";

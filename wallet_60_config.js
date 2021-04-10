@@ -1,1 +1,1 @@
-var mnemonic = "era exercise series return joy possible already about loan apple fossil beauty";
+var mnemonic = "soda lecture silver endorse quality lava boring border puppy sort absurd organ";

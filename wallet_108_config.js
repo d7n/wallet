@@ -1,1 +1,1 @@
-var mnemonic = "bridge radar cost comfort syrup stove donor adult unveil enough side during";
+var mnemonic = "mind credit jar physical until hamster size afraid weird tree frame champion";

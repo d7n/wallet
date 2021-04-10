@@ -1,1 +1,1 @@
-var mnemonic = "original scan light shrimp post pond tent bottom cross wagon spy together";
+var mnemonic = "spin hurdle era radio absorb attract shuffle work course disease item stomach";

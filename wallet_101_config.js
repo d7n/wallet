@@ -1,1 +1,1 @@
-var mnemonic = "laundry inner dignity core stuff strong fortune void dash library title vibrant";
+var mnemonic = "chest smile area camera tank artwork olive cave armor swim feature test";

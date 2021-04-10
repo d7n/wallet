@@ -1,1 +1,1 @@
-var mnemonic = "leaf shoe planet immune lemon escape venture banner february put lounge notable";
+var mnemonic = "yellow hint wasp twice amused climb remember interest unfold deliver census discover";

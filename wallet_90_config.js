@@ -1,1 +1,1 @@
-var mnemonic = "alley proud garage fire today super green parrot segment iron flavor decline";
+var mnemonic = "dose vapor engine text chuckle insect jazz remember fun boss able used";

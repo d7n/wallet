@@ -1,1 +1,1 @@
-var mnemonic = "pass pitch luxury slide make develop animal increase theme glad prevent great";
+var mnemonic = "analyst arctic palace decorate ancient bullet tissue shoulder this subject suspect slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage immense settle swing clarify detect crime tail glimpse bean menu dust";
+var mnemonic = "angle ask panic enable satisfy urge caution young voyage pretty resemble business";

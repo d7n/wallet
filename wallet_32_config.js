@@ -1,1 +1,1 @@
-var mnemonic = "knock crouch what intact evil blur index core risk original disease will";
+var mnemonic = "polar knife orchard alien lonely garlic level pistol nut sock find torch";

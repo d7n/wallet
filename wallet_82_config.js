@@ -1,1 +1,1 @@
-var mnemonic = "grief quick jewel firm member oxygen eagle idea plate steak success vehicle";
+var mnemonic = "program text traffic setup soap lobster symptom solid profit game illegal glide";

@@ -1,1 +1,1 @@
-var mnemonic = "true lend car typical cheap nothing caution shadow mystery luggage surround deal";
+var mnemonic = "pig method cargo dawn spy pitch victory fire milk bitter excuse rebuild";

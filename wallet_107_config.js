@@ -1,1 +1,1 @@
-var mnemonic = "face trust trumpet vehicle couple carbon pledge vicious spider put gospel course";
+var mnemonic = "jealous avocado occur cause age rug deposit goose float like mind cricket";

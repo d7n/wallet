@@ -1,1 +1,1 @@
-var mnemonic = "rib winner melt powder someone cry topic must crumble obvious predict way";
+var mnemonic = "equip immense lesson math topic casino liquid release outer extend admit fuel";

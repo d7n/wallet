@@ -1,1 +1,1 @@
-var mnemonic = "region ask photo april adapt breeze predict casual discover crop silk snack";
+var mnemonic = "arrange small feel bike wool panther boost boat weasel cheese canyon buyer";

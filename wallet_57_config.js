@@ -1,1 +1,1 @@
-var mnemonic = "document employ solution master maze vibrant club fabric smart rookie please vintage";
+var mnemonic = "immense crack ordinary language camera sort dice oven ensure deal film release";

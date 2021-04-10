@@ -1,1 +1,1 @@
-var mnemonic = "kidney beach minor yard sunny muffin sun volume degree attack column raw";
+var mnemonic = "doll tilt wasp swear pattern scrap ceiling hello legal sister doctor review";

@@ -1,1 +1,1 @@
-var mnemonic = "panel advance alter lunch virtual property mercy throw strong actual grid cactus";
+var mnemonic = "school umbrella above carpet few bird scare man attract opinion pulp notice";

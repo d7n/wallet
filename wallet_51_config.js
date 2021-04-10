@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin rookie immune snack tissue hundred avocado any slim humor vacant flush";
+var mnemonic = "orbit start spider twin coral cat need sea brick banana word opera";

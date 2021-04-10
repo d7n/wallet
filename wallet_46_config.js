@@ -1,1 +1,1 @@
-var mnemonic = "hammer unhappy river piano funny easily oyster plunge magnet step position spirit";
+var mnemonic = "mobile learn wood ocean similar brick second indoor slide time catalog venue";

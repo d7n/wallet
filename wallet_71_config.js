@@ -1,1 +1,1 @@
-var mnemonic = "flavor wing chest bamboo tilt office erupt sick simple very typical slender";
+var mnemonic = "one canvas model banana obtain planet hip drift essence brisk attitude feature";

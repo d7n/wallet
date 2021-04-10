@@ -1,1 +1,1 @@
-var mnemonic = "type blue joke sign fitness other blind invest child job suffer afford";
+var mnemonic = "squeeze road volume tell left way raccoon six tired lift best inflict";

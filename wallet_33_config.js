@@ -1,1 +1,1 @@
-var mnemonic = "draw transfer oil flat air surprise second elevator penalty deposit ghost right";
+var mnemonic = "faculty obvious battle bench umbrella cycle soccer poem baby whisper train stem";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract sphere paddle fee space correct skin update scare recall clean utility";
+var mnemonic = "space shiver love moral avoid enrich length knee trophy dutch fruit quality";

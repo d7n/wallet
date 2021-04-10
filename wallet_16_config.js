@@ -1,1 +1,1 @@
-var mnemonic = "dial win split tooth bubble timber flag cause category goddess juice menu";
+var mnemonic = "shop candy weather enter market inherit list never video jealous couple peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect daughter public sample misery toward electric gas corn film simple fix";
+var mnemonic = "ancient mix short badge hobby stereo crowd opera winter sunny nature eye";

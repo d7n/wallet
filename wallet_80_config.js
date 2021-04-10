@@ -1,1 +1,1 @@
-var mnemonic = "quote brave adjust rent carbon rescue bamboo trophy bronze file finger antique";
+var mnemonic = "strong dune crouch game mixture volume rubber birth attract desert pony silly";

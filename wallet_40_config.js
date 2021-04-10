@@ -1,1 +1,1 @@
-var mnemonic = "nominee purse bargain review wool control weapon design snow electric index final";
+var mnemonic = "raw next cycle name doctor black early blast have segment stamp bus";

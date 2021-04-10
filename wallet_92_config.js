@@ -1,1 +1,1 @@
-var mnemonic = "road present coast denial limb limb muscle spirit sword oven buyer media";
+var mnemonic = "cabin distance print trouble butter skin lend offer someone feed grow slight";

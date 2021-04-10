@@ -1,1 +1,1 @@
-var mnemonic = "air citizen defense magic truck anchor pony nation bamboo theory visit quantum";
+var mnemonic = "slow leave idea effort anchor better surprise ecology dynamic frequent review good";

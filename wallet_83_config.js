@@ -1,1 +1,1 @@
-var mnemonic = "ugly clinic name dad keen title skirt fruit ramp because divert potato";
+var mnemonic = "elite loop sleep sibling segment youth paper power genius brush torch innocent";
