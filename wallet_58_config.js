@@ -1,1 +1,1 @@
-var mnemonic = "certain cargo glance orient birth execute erupt miss head welcome oil emerge";
+var mnemonic = "stadium charge inflict gallery jump citizen when curve negative weather inner better";

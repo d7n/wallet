@@ -1,1 +1,1 @@
-var mnemonic = "hold rare genius protect salad mass club leaf leopard tourist fragile moon";
+var mnemonic = "around thunder brown mixed angle police obscure clarify hurry repair sea fan";

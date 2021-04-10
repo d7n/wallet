@@ -1,1 +1,1 @@
-var mnemonic = "eye fluid trim coast lab clarify glide victory assault sense allow autumn";
+var mnemonic = "wear provide join unit hybrid trust moral this width blanket gloom pumpkin";

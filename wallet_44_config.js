@@ -1,1 +1,1 @@
-var mnemonic = "tool raccoon clay goose cupboard vintage screen explain jealous already pilot ball";
+var mnemonic = "glare that surface emotion emotion tide over chair flash toddler wine flavor";

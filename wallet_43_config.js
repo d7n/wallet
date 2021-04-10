@@ -1,1 +1,1 @@
-var mnemonic = "fun sock girl universe catch earth avoid craft blind record polar abuse";
+var mnemonic = "swap property frown liquid exist field type moment school genuine solar general";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate sauce bag enjoy video stone then tree pig vibrant favorite farm";
+var mnemonic = "obvious happy become maximum grain orient garden clock benefit vital truth comic";

@@ -1,1 +1,1 @@
-var mnemonic = "awake olive sponsor orient pond peace release involve skill negative fringe inch";
+var mnemonic = "beyond loop credit shallow life unfair endorse develop burger stairs horse grief";

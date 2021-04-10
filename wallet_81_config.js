@@ -1,1 +1,1 @@
-var mnemonic = "problem cigar patch shoot artwork riot main collect mammal lobster arm oppose";
+var mnemonic = "merit sugar myself control point renew naive final gift chimney genuine pulp";

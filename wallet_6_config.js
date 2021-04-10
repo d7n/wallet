@@ -1,1 +1,1 @@
-var mnemonic = "adult that sting call rare bike bleak brick dragon damp resist scissors";
+var mnemonic = "build robust extend code method quote kite any dash dose expose cheap";

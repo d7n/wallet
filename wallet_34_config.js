@@ -1,1 +1,1 @@
-var mnemonic = "present pond pulse helmet address pool laundry genre mule fox extra praise";
+var mnemonic = "soup squirrel raccoon scan fine exile orient three pitch detect grunt uniform";

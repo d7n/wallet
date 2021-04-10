@@ -1,1 +1,1 @@
-var mnemonic = "dress prefer inch cheese phone tornado appear husband resemble dust panel huge";
+var mnemonic = "scrap match leisure sick picture innocent envelope tourist project sugar topple pool";

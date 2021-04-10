@@ -1,1 +1,1 @@
-var mnemonic = "garment sea clarify bright region tourist license other way mother universe alcohol";
+var mnemonic = "raw pupil post thrive false scorpion loan upon dinosaur pudding attract frozen";

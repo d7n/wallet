@@ -1,1 +1,1 @@
-var mnemonic = "upset flight struggle seminar gesture pattern outer mind require badge crazy unable";
+var mnemonic = "poet dry security machine mom snap like extra fitness pride crack noise";

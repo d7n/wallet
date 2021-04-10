@@ -1,1 +1,1 @@
-var mnemonic = "time yard dose glass differ demise various shell prison dentist amount pipe";
+var mnemonic = "endorse obscure ability gym magic banana crazy hybrid floor onion where robot";

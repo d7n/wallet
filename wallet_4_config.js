@@ -1,1 +1,1 @@
-var mnemonic = "taxi sound rhythm estate erupt blossom dinner nurse whisper water pair awesome";
+var mnemonic = "rough wing garage wise myth maid quiz spring strategy use record conduct";

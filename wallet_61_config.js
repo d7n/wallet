@@ -1,1 +1,1 @@
-var mnemonic = "gate erase concert crane street train move ramp farm magnet health glare";
+var mnemonic = "cage pupil cloth skirt feed metal bachelor salad squeeze inspire park submit";

@@ -1,1 +1,1 @@
-var mnemonic = "token moral custom donor cat write scrap helmet pride make flush sunset";
+var mnemonic = "garment danger tunnel medal castle lonely firm direct canvas note cute warfare";

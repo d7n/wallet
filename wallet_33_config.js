@@ -1,1 +1,1 @@
-var mnemonic = "item father setup miracle butter danger lawn click execute know hand ten";
+var mnemonic = "announce picture youth width polar game link trial great expire wealth laugh";

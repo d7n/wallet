@@ -1,1 +1,1 @@
-var mnemonic = "bubble cart hill faith celery act wink squirrel accident armed slow wear";
+var mnemonic = "cake rely audit brass journey melt brass now gadget consider blue company";

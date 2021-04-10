@@ -1,1 +1,1 @@
-var mnemonic = "reflect leisure attack lyrics plate bean volcano biology wolf fit oyster fashion";
+var mnemonic = "tiger ordinary woman address response tornado question tiger guard shield basket post";

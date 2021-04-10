@@ -1,1 +1,1 @@
-var mnemonic = "measure tennis scrap piano thought hole side invest metal boat fresh festival";
+var mnemonic = "hidden jaguar farm faith emerge fiction coach duty profit blossom spoon limb";

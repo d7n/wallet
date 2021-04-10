@@ -1,1 +1,1 @@
-var mnemonic = "element zone salon ecology polar chest differ force panic balance excess draw";
+var mnemonic = "crack fork cream need agent climb hungry carbon fish toddler spawn width";

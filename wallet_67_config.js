@@ -1,1 +1,1 @@
-var mnemonic = "amount happy romance evidence hungry senior winter library nuclear sponsor begin drive";
+var mnemonic = "effort duck curious faith brief absurd hello mix swamp hobby invest price";

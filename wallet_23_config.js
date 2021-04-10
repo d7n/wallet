@@ -1,1 +1,1 @@
-var mnemonic = "chaos diary middle speak outside moral hawk you cattle six excuse eternal";
+var mnemonic = "recycle nice electric unable pretty viable kingdom act exit lava husband safe";

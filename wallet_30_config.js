@@ -1,1 +1,1 @@
-var mnemonic = "nut outside culture focus slab tube awkward wine account violin credit amazing";
+var mnemonic = "recycle plunge symbol loyal gap barrel asthma bring slab simple grit filter";

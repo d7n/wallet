@@ -1,1 +1,1 @@
-var mnemonic = "motor clown market nerve almost thought library renew action seat board tuition";
+var mnemonic = "term excite simple normal room swift shift review master million evolve arm";

@@ -1,1 +1,1 @@
-var mnemonic = "various acoustic swim town same inner hunt garlic just country mass beyond";
+var mnemonic = "favorite capital cup stable dinosaur rhythm margin enjoy mail index ritual away";

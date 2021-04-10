@@ -1,1 +1,1 @@
-var mnemonic = "you correct aspect token rate grunt become method undo edit bleak defense";
+var mnemonic = "calm pen galaxy napkin fix town wink view urge market crunch pizza";

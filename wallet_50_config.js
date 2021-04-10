@@ -1,1 +1,1 @@
-var mnemonic = "nurse mind twist online start lion exhibit loyal life frequent universe peanut";
+var mnemonic = "traffic thing cluster trick chunk inmate curtain guitar attitude soldier name also";

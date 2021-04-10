@@ -1,1 +1,1 @@
-var mnemonic = "wing nest city soap obey ignore rice trumpet fragile thunder cloud symbol";
+var mnemonic = "stick profit manual purpose carbon satisfy member seat cotton ride gravity leader";

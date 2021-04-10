@@ -1,1 +1,1 @@
-var mnemonic = "almost equip whale mistake gas fatal athlete good sponsor forum entire also";
+var mnemonic = "gentle wasp west focus kiwi receive aisle remember joke dawn arrange start";

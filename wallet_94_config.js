@@ -1,1 +1,1 @@
-var mnemonic = "tomato blouse genre fox joy evidence busy bus pride hub flee come";
+var mnemonic = "disease security crouch book become vault cancel outer brave promote enough dignity";

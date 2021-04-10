@@ -1,1 +1,1 @@
-var mnemonic = "spawn fresh truth service system build lunar ocean put nut moral ginger";
+var mnemonic = "near youth result loud exchange aerobic autumn two resemble draw ecology garment";

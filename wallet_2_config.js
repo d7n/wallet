@@ -1,1 +1,1 @@
-var mnemonic = "endless purchase oil proud remove admit mimic hope similar left senior live";
+var mnemonic = "pottery want evolve jealous refuse witness result quick whale filter push opera";

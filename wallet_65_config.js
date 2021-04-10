@@ -1,1 +1,1 @@
-var mnemonic = "giraffe sibling siren only inform frequent disagree busy caution source pride tongue";
+var mnemonic = "common van shine feed sock mom tourist tunnel clutch note hub spice";

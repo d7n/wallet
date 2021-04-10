@@ -1,1 +1,1 @@
-var mnemonic = "assist body ramp believe chuckle basket chunk business garden arrow image olympic";
+var mnemonic = "enrich pulp slush ramp fork pelican install rebuild medal ring ocean fruit";

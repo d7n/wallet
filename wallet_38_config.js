@@ -1,1 +1,1 @@
-var mnemonic = "false crisp cash mask chief night basket debris crowd crack click deposit";
+var mnemonic = "fringe industry mind cabbage upon oak tackle lock prefer purity tragic tornado";

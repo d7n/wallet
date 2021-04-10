@@ -1,1 +1,1 @@
-var mnemonic = "genius sense tent fancy gossip calm lend employ swamp alert join reunion";
+var mnemonic = "helmet bar mountain alert anchor edge melody renew audit blush language bargain";

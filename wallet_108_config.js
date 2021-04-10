@@ -1,1 +1,1 @@
-var mnemonic = "idea penalty rude valid surprise scrap virus age broken state viable clever";
+var mnemonic = "sell cigar crumble rose syrup defense card art chimney mammal mind fault";

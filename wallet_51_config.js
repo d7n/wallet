@@ -1,1 +1,1 @@
-var mnemonic = "lady uncle pizza live height empower unfold siege random edit turkey cloud";
+var mnemonic = "street young share liquid design foster chat pool rude region process royal";

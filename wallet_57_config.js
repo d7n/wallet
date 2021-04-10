@@ -1,1 +1,1 @@
-var mnemonic = "hurry zoo absorb curve push pilot olympic orchard search kid direct toast";
+var mnemonic = "educate congress exhibit can warrior switch weapon shift sleep cherry reward deposit";

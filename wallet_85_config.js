@@ -1,1 +1,1 @@
-var mnemonic = "under surround height poem reunion region approve sword maid salt antique vast";
+var mnemonic = "round interest fat frost aunt frost option shuffle afraid roast muscle switch";

@@ -1,1 +1,1 @@
-var mnemonic = "ski echo expect loan hammer cloth practice scorpion charge lonely kite satoshi";
+var mnemonic = "strong render scout pudding diesel swallow wait cart birth happy april volume";

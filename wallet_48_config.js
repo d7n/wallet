@@ -1,1 +1,1 @@
-var mnemonic = "dad explain design ripple wrestle main outdoor violin shoe year kiss cement";
+var mnemonic = "put denial almost reopen universe entire nothing mobile second donkey garbage faith";

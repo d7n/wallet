@@ -1,1 +1,1 @@
-var mnemonic = "obvious runway comic iron daring ask sound sugar spawn drum voyage lawn";
+var mnemonic = "shoulder trim myself topple edge dignity grid duty member ten harsh blush";

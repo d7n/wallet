@@ -1,1 +1,1 @@
-var mnemonic = "service filter grass unit sausage later eight pigeon layer dumb index turkey";
+var mnemonic = "come riot bind celery couch boss sadness sick subway remove sample acid";

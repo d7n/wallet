@@ -1,1 +1,1 @@
-var mnemonic = "already ball head frozen broom humor mass ahead device improve worth sense";
+var mnemonic = "stomach build sock soup mother festival midnight canvas want provide truth toss";

@@ -1,1 +1,1 @@
-var mnemonic = "drip canoe wasp quick rural cream lizard brand sad man bracket only";
+var mnemonic = "change noise unfold equip swarm agree patch cram load rocket damp tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "theme inform ugly strike gasp hobby keen mystery column glimpse grit target";
+var mnemonic = "sample twin maid infant crouch february crane tone manual describe basic oak";

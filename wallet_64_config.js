@@ -1,1 +1,1 @@
-var mnemonic = "hire crucial grief match mansion fix exile eye have private industry abuse";
+var mnemonic = "memory jungle wasp soup gossip behave defense tuna neutral ice direct athlete";

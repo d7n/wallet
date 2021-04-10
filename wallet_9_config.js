@@ -1,1 +1,1 @@
-var mnemonic = "indoor among vapor loop pudding taste window seminar scale office slow pistol";
+var mnemonic = "label cave woman august puzzle glue flash access life pumpkin crystal any";

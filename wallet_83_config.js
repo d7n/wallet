@@ -1,1 +1,1 @@
-var mnemonic = "lucky such awful crowd common burst patch mother combine suggest eye badge";
+var mnemonic = "weasel best observe copper supreme crawl ordinary frame abstract burst awake animal";

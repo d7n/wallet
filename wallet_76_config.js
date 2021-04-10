@@ -1,1 +1,1 @@
-var mnemonic = "wasp strike library street defense job fix joke farm rude income guard";
+var mnemonic = "dizzy advance grace chunk vicious solution mechanic express rabbit clip prepare match";

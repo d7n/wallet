@@ -1,1 +1,1 @@
-var mnemonic = "legal extra wait chuckle happy exercise sleep dismiss glide soccer marble manual";
+var mnemonic = "sadness grid already kitchen bridge fortune coyote swallow another adapt arctic sail";

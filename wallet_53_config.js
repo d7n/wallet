@@ -1,1 +1,1 @@
-var mnemonic = "inspire session egg used give custom recycle exotic helmet frown access grass";
+var mnemonic = "river zebra quarter bird draw demise uncover mouse aspect step loyal normal";

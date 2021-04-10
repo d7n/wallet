@@ -1,1 +1,1 @@
-var mnemonic = "dignity test below snap lens wide lawn bracket tortoise able during credit";
+var mnemonic = "nose snack recycle crisp loop kitten uniform near clean symptom uncover seed";

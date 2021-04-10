@@ -1,1 +1,1 @@
-var mnemonic = "skull country rug liquid begin eager tourist casual render fire track globe";
+var mnemonic = "census front imitate acquire arm logic long bubble phrase leisure jar hazard";

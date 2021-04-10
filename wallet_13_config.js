@@ -1,1 +1,1 @@
-var mnemonic = "pottery legal rabbit ball control above mystery ethics write biology talent gas";
+var mnemonic = "animal more roast express bachelor bid include plastic robust original share head";

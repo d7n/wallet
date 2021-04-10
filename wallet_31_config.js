@@ -1,1 +1,1 @@
-var mnemonic = "exhaust jeans arrange error display laugh absent firm present sock front waste";
+var mnemonic = "music series agree palm weather taste affair move identify blame million fire";

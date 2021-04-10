@@ -1,1 +1,1 @@
-var mnemonic = "tragic vendor address siege guilt account recipe credit endorse moon glimpse dragon";
+var mnemonic = "hour tissue actual buzz gorilla aware unusual strike inmate harvest wealth rival";

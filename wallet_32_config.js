@@ -1,1 +1,1 @@
-var mnemonic = "trade other clever enjoy gather blind common position theme palace kite solve";
+var mnemonic = "hazard million bomb invest injury push green thank swing stage know dice";

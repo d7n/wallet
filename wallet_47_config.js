@@ -1,1 +1,1 @@
-var mnemonic = "govern connect lunch sentence abandon position sauce wood february hamster steak artefact";
+var mnemonic = "trumpet return brave debate ensure current seminar cushion illness warfare neither exile";

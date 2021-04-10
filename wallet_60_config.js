@@ -1,1 +1,1 @@
-var mnemonic = "sponsor staff yellow pudding game toilet square thing sketch fashion deposit attract";
+var mnemonic = "half drum eagle frame donkey sudden annual silent reflect screen sweet master";

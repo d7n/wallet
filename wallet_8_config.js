@@ -1,1 +1,1 @@
-var mnemonic = "solid slot plunge ramp weasel become figure original scatter law sense crater";
+var mnemonic = "fee focus veteran theory depart resemble gate donkey endorse source wear soccer";

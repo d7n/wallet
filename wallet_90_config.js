@@ -1,1 +1,1 @@
-var mnemonic = "ladder fire tornado share velvet text cool edge know raw bacon cheese";
+var mnemonic = "enter uncle size brand desk morning crisp bless sight inflict awesome avoid";

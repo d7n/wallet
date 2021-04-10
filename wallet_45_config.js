@@ -1,1 +1,1 @@
-var mnemonic = "supreme marriage six reopen beyond remember glue cool orchard hockey easy circle";
+var mnemonic = "grass awkward engine world garment sick toward heavy crew wet real modify";

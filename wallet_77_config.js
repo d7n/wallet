@@ -1,1 +1,1 @@
-var mnemonic = "alien tray sure wet grant essence someone wreck pride lawn deliver happy";
+var mnemonic = "melody wrestle noise invite census gift avoid poem paper language barely island";

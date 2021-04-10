@@ -1,1 +1,1 @@
-var mnemonic = "bean strong coyote airport spend axis fish social relax census width crane";
+var mnemonic = "toward oppose glance fit fabric never they fly damage index void high";

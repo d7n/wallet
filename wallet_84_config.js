@@ -1,1 +1,1 @@
-var mnemonic = "consider oven mixed hole coyote promote brother visa pulp door teach glove";
+var mnemonic = "simple before dial essence trial suffer copy rose walk rich balcony become";

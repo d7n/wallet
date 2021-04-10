@@ -1,1 +1,1 @@
-var mnemonic = "giant faculty detail behind bargain husband point legend oval find soup stomach";
+var mnemonic = "habit slush nut solution under spatial execute physical blue average ivory gloom";

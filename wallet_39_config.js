@@ -1,1 +1,1 @@
-var mnemonic = "uphold allow position question torch click bar grass eager tree impose donor";
+var mnemonic = "ring spend coil sister amused medal cute despair defense okay riot castle";

@@ -1,1 +1,1 @@
-var mnemonic = "oak conduct modify current pudding account thought guilt bulb coyote cup hurdle";
+var mnemonic = "blur bunker issue window before century label mesh bounce pledge garlic diamond";

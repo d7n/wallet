@@ -1,1 +1,1 @@
-var mnemonic = "call usual zone duck adapt word rubber match dance describe high upper";
+var mnemonic = "kid decorate acquire profit trim swap virtual orient ozone advice hungry neither";

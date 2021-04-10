@@ -1,1 +1,1 @@
-var mnemonic = "fault grant opinion swarm mango napkin logic pipe cushion farm poet hockey";
+var mnemonic = "limit family margin swamp fee during cruel agent dust actor town giant";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat carbon buzz biology move east consider brain shield invest holiday laundry";
+var mnemonic = "maid just tackle bonus kidney place cousin reunion obvious exit jump snake";

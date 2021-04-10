@@ -1,1 +1,1 @@
-var mnemonic = "keen primary trial marble orbit whip hurt verb orange fly decrease era";
+var mnemonic = "very pair spell fish enable hunt render borrow across lock current pool";

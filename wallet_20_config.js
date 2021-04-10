@@ -1,1 +1,1 @@
-var mnemonic = "pilot discover worth denial tomato idle maid example lumber review void cook";
+var mnemonic = "flock grab gather funny often soon frozen rotate age foam clarify hollow";

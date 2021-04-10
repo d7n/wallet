@@ -1,1 +1,1 @@
-var mnemonic = "gap patrol access bulk danger churn image pattern room gadget elephant disorder";
+var mnemonic = "onion tide taxi inside always bomb panda manage topic hurry evoke vehicle";

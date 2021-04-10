@@ -1,1 +1,1 @@
-var mnemonic = "orange vanish ill tip depart tribe install transfer palace offer faith whale";
+var mnemonic = "album cake force sketch test stay knife page sorry park echo paddle";

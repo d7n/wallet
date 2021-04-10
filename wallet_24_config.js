@@ -1,1 +1,1 @@
-var mnemonic = "hunt title title office grit venture shy cluster address garbage mom hard";
+var mnemonic = "toe hover card mesh dice decline saddle flock maid lava expose tornado";

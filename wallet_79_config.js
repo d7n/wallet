@@ -1,1 +1,1 @@
-var mnemonic = "lonely phone like advance horse daring giant renew length assume nuclear zoo";
+var mnemonic = "woman shoot copper parent vanish dilemma happy stumble home library waste festival";

@@ -1,1 +1,1 @@
-var mnemonic = "month top wool cycle donor suspect then boy supreme umbrella problem weird";
+var mnemonic = "useless reason various rule rural table merge lava bus sick genuine fall";

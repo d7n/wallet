@@ -1,1 +1,1 @@
-var mnemonic = "prison frozen arrive enable slice cover cause february immune mixed swamp devote";
+var mnemonic = "asset grief enough exercise patient habit law meat humble drastic unusual never";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor athlete labor twin time sponsor happy child attack bamboo quality cloth";
+var mnemonic = "orbit vital hint typical father entry funny tape vessel virus economy unable";

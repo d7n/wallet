@@ -1,1 +1,1 @@
-var mnemonic = "argue concert few spray control curtain debris creek disease outside panther caught";
+var mnemonic = "teach update unfold robust skirt matrix buffalo segment already best follow month";

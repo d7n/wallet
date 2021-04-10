@@ -1,1 +1,1 @@
-var mnemonic = "enact glow sport today magic tragic woman cluster today tree canvas mountain";
+var mnemonic = "toddler lemon recycle trumpet able melt quarter cargo ten funny fall donkey";

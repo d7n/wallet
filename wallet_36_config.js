@@ -1,1 +1,1 @@
-var mnemonic = "valve acoustic panel chunk grain buzz swift marine risk furnace often worry";
+var mnemonic = "idea animal blade talent insane salute today shield radio chapter satoshi wheel";
