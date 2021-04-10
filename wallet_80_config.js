@@ -1,1 +1,1 @@
-var mnemonic = "unknown dolphin appear guilt custom critic buddy harsh bind drama pattern earth";
+var mnemonic = "mean must salon blame enroll long board sister manage crunch naive drama";

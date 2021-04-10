@@ -1,1 +1,1 @@
-var mnemonic = "smile note fame digital element neglect canvas prevent essay other drama slender";
+var mnemonic = "aerobic salmon gospel flame element patch adapt wise height bullet nothing chunk";

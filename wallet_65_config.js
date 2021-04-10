@@ -1,1 +1,1 @@
-var mnemonic = "tomato aim rally shuffle jacket cushion outside nuclear athlete pet chimney idea";
+var mnemonic = "arch spawn warm neither drastic sunset build initial slogan knee pony vicious";

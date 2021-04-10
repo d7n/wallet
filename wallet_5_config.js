@@ -1,1 +1,1 @@
-var mnemonic = "brass spray dinner year half excite rookie lobster limb grocery observe crunch";
+var mnemonic = "charge quality morning curious forum craft icon idea agent smoke drum fade";

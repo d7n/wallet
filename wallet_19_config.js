@@ -1,1 +1,1 @@
-var mnemonic = "strong kidney giant unusual ketchup one strategy raw various liquid cute close";
+var mnemonic = "weather stay brush know stool initial humble twist culture film fatigue dial";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal pride buyer punch gloom trigger service cluster renew taxi alpha picture";
+var mnemonic = "adapt birth duty tribe phone mushroom social crack alert meadow resource recycle";

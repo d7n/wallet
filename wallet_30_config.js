@@ -1,1 +1,1 @@
-var mnemonic = "bean property elephant unfair anchor depend bless crowd weather ancient resist loop";
+var mnemonic = "clay refuse oil junior pluck length bargain lift skate gloom ten soul";

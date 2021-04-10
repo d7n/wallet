@@ -1,1 +1,1 @@
-var mnemonic = "banana radio wisdom tray clutch life boat exit clutch spring lamp swarm";
+var mnemonic = "trash street lamp limit kit deal leader butter huge brass acquire predict";

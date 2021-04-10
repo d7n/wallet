@@ -1,1 +1,1 @@
-var mnemonic = "view rescue sand pool wine frequent twice inject field demand rally cricket";
+var mnemonic = "future hotel outside tonight lawn alone pottery heavy sadness index luxury mansion";

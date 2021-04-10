@@ -1,1 +1,1 @@
-var mnemonic = "truth foam venue ask coffee smart tell number script embrace deputy balcony";
+var mnemonic = "solve bring symptom claw scout region edit bridge soap wrong position fresh";

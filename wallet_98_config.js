@@ -1,1 +1,1 @@
-var mnemonic = "any stone pass rebuild hero moment danger force boost forward alarm copper";
+var mnemonic = "torch library disorder observe ski frown amazing wait travel chief random metal";

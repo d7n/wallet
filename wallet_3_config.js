@@ -1,1 +1,1 @@
-var mnemonic = "ring round rose approve sponsor upon network trade labor consider wagon bullet";
+var mnemonic = "link used practice reward cousin air dragon grid pitch scheme solution shell";

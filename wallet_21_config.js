@@ -1,1 +1,1 @@
-var mnemonic = "violin neglect leopard dose exit harvest document innocent vital ignore minute man";
+var mnemonic = "danger earn over blanket arch pottery system chase absent economy sick mistake";

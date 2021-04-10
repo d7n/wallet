@@ -1,1 +1,1 @@
-var mnemonic = "upper hobby fancy ripple mixture boost search swamp capital story monkey process";
+var mnemonic = "range inform iron room runway foster clinic card kind dignity fee pill";

@@ -1,1 +1,1 @@
-var mnemonic = "race uphold monitor absent tip rose jaguar elbow uniform exile wash image";
+var mnemonic = "found wasp eagle bind suit fan tribe moral art judge picnic census";

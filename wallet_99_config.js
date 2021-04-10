@@ -1,1 +1,1 @@
-var mnemonic = "endorse clay soccer observe trash divert leaf warfare animal mountain ivory hello";
+var mnemonic = "shoe sword six axis debate media success caught cycle senior pioneer judge";

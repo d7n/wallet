@@ -1,1 +1,1 @@
-var mnemonic = "disease property regret few dragon replace silk parent cost grid betray blind";
+var mnemonic = "artwork marriage lake future color canal obscure pave crop include nation speed";

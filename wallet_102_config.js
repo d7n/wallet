@@ -1,1 +1,1 @@
-var mnemonic = "million guitar eagle shine dawn render trend artist boost enrich inflict swear";
+var mnemonic = "million satisfy payment quit furnace frost stool night space measure dream number";

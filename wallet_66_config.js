@@ -1,1 +1,1 @@
-var mnemonic = "clay member provide salt cement young aunt favorite decide keep cash woman";
+var mnemonic = "kingdom cradle post reopen earn depth bundle aware prosper venue version gate";

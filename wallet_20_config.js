@@ -1,1 +1,1 @@
-var mnemonic = "try excite maple genre flight arena manage inside capital cry penalty tank";
+var mnemonic = "asthma pulp cherry mixture junk fly rescue wave risk actress budget finger";

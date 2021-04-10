@@ -1,1 +1,1 @@
-var mnemonic = "popular rug boring pipe glory expand stool order bubble winner member remind";
+var mnemonic = "toy movie thumb mercy success sample inside knock annual gravity prosper region";

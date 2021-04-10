@@ -1,1 +1,1 @@
-var mnemonic = "mandate nothing arctic hip despair share later mouse journey thank pizza hub";
+var mnemonic = "hint secret globe social apple capital fame major company wave crawl plate";

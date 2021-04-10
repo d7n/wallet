@@ -1,1 +1,1 @@
-var mnemonic = "frequent pupil copper lock initial walk cream beach sock narrow wage impulse";
+var mnemonic = "stamp torch habit phone machine borrow spider account conduct laundry swear flock";

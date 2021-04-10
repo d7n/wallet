@@ -1,1 +1,1 @@
-var mnemonic = "merge outdoor text traffic october work furnace rich coffee piece luxury grab";
+var mnemonic = "wait runway tag below surge screen pave rubber purse water depth neutral";

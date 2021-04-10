@@ -1,1 +1,1 @@
-var mnemonic = "nasty twin quarter body orbit tape level bird invite gorilla economy subway";
+var mnemonic = "recycle vintage urban toward poem return theme forest another say lawn snap";

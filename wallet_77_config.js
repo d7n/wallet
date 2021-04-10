@@ -1,1 +1,1 @@
-var mnemonic = "spread brief require remove matrix drive attitude real outside tower fuel cloth";
+var mnemonic = "report deny major tone toss relax middle need model claw arena clerk";

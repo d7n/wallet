@@ -1,1 +1,1 @@
-var mnemonic = "often trial office such hair glory add exist pudding push charge base";
+var mnemonic = "light filter genius bulb eagle pizza spirit anger frog zone also village";

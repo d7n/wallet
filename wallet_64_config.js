@@ -1,1 +1,1 @@
-var mnemonic = "coast eager chronic run exile rack square seven dignity enforce ozone club";
+var mnemonic = "want mixed awesome face become shadow scatter blur public early wonder actress";

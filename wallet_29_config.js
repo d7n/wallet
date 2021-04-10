@@ -1,1 +1,1 @@
-var mnemonic = "legal spoon unhappy student select pattern proof original spike soda chase soccer";
+var mnemonic = "penalty bracket mesh never derive cancel receive diamond volcano august asthma guitar";

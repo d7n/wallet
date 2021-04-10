@@ -1,1 +1,1 @@
-var mnemonic = "return safe plate various miss master between eternal athlete grit finger domain";
+var mnemonic = "kind danger where hole relief type car mobile shy whisper skin asthma";

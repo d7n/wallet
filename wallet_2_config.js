@@ -1,1 +1,1 @@
-var mnemonic = "border drift someone pole age reveal village yellow uncover denial frequent twin";
+var mnemonic = "diagram coil capable apology duty universe never jealous diamond system attend used";

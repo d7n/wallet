@@ -1,1 +1,1 @@
-var mnemonic = "bacon dial decade wrestle boss inform hospital dwarf minute hand wolf liar";
+var mnemonic = "regret lion cause pattern cabin wagon rent admit discover adapt ranch jump";

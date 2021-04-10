@@ -1,1 +1,1 @@
-var mnemonic = "cloth grape come episode page aerobic awkward wrestle transfer faculty base pulse";
+var mnemonic = "cabbage blast traffic weasel heavy faculty this stamp boy morning fiber unfold";

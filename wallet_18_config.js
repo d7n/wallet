@@ -1,1 +1,1 @@
-var mnemonic = "cliff announce barely profit wedding warm parade level aim similar harbor ability";
+var mnemonic = "dice fiber card law end solar blame post soccer brave salad small";

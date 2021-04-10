@@ -1,1 +1,1 @@
-var mnemonic = "between domain build into favorite jungle spider clog romance mask today fiction";
+var mnemonic = "bicycle swing butter poet proof border cave adapt knock metal magic fitness";

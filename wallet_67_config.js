@@ -1,1 +1,1 @@
-var mnemonic = "fee arrest section pass clump security hobby equal envelope fix sure virtual";
+var mnemonic = "pill rally random opera focus obvious whip barrel glad exact ignore park";

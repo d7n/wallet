@@ -1,1 +1,1 @@
-var mnemonic = "legend hen glance adult system vessel pen print bottom inside priority edit";
+var mnemonic = "brief open grocery ask speed citizen scale owner tortoise host early grow";

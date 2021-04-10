@@ -1,1 +1,1 @@
-var mnemonic = "degree address sea borrow equal antique actual giant dice tiger combine leopard";
+var mnemonic = "diagram today expire ghost breeze sea deny various zone special yellow despair";

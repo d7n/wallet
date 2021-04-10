@@ -1,1 +1,1 @@
-var mnemonic = "mix dinner hollow never mirror ill snow october child quote urge knife";
+var mnemonic = "happy able catalog obscure jump maple short tuition rack remind short toss";

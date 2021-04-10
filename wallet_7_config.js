@@ -1,1 +1,1 @@
-var mnemonic = "link tribe sock kite cram glow pulp usual exhibit ivory drink fever";
+var mnemonic = "gloom tumble myth earth tide employ clutch trash toilet language harbor snack";

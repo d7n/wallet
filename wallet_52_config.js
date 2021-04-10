@@ -1,1 +1,1 @@
-var mnemonic = "input day stove search sense alert school course share tomato open timber";
+var mnemonic = "maze spice wrist witness milk glove unfair quick birth demand lava drive";

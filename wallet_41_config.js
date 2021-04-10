@@ -1,1 +1,1 @@
-var mnemonic = "craft awkward spawn muscle stage mesh ridge erosion media weird wear learn";
+var mnemonic = "earth session chef fiscal subject evoke question virtual finger title talk snap";

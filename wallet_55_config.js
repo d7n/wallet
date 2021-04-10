@@ -1,1 +1,1 @@
-var mnemonic = "aspect fold visit suspect example lonely judge innocent pelican have blade twelve";
+var mnemonic = "pyramid hole divert amount math sound cloth system sense cancel kitchen fix";

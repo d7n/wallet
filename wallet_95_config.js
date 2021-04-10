@@ -1,1 +1,1 @@
-var mnemonic = "service bone comfort success truly expire alarm vacuum pepper stool tool vast";
+var mnemonic = "movie stick gospel record amazing lottery fatal live card middle sport often";

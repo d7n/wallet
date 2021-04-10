@@ -1,1 +1,1 @@
-var mnemonic = "orange budget vast under involve property vote surface easy flower shoulder soul";
+var mnemonic = "unusual alarm toss left fragile brave trap enemy two actor life mobile";

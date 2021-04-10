@@ -1,1 +1,1 @@
-var mnemonic = "oven skate buddy reunion math ten dress above quote share pole outdoor";
+var mnemonic = "depend latin awesome liquid dawn erupt section ordinary pluck gossip shield tattoo";

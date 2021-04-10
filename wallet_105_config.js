@@ -1,1 +1,1 @@
-var mnemonic = "arrow bitter cause whisper law alien never behave divorce cat tone bamboo";
+var mnemonic = "hub lumber already level shy this fruit wheel magnet beauty tool option";

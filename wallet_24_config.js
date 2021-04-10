@@ -1,1 +1,1 @@
-var mnemonic = "area upper weird stove match few foot civil avoid swarm liquid coast";
+var mnemonic = "pattern soccer easy eternal traffic actor clown aim already chase letter brand";

@@ -1,1 +1,1 @@
-var mnemonic = "another soda caution dance club hollow poem consider snack valve afford want";
+var mnemonic = "help result near list aspect wrong dutch butter talk autumn cactus riot";

@@ -1,1 +1,1 @@
-var mnemonic = "group brass veteran attitude lock grab man badge canal ice host mix";
+var mnemonic = "harsh check pair merry nice decline return crouch gasp angry horror jar";

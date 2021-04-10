@@ -1,1 +1,1 @@
-var mnemonic = "always mobile can august fury glimpse popular hub crop alcohol river inch";
+var mnemonic = "capital drive kingdom blame limb expose bottom scare spin letter chapter whip";

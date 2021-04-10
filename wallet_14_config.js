@@ -1,1 +1,1 @@
-var mnemonic = "later that year labor coffee expect trash spy typical arrest there boost";
+var mnemonic = "settle magic final ethics lyrics spike kiss sunny melody jacket engine prison";

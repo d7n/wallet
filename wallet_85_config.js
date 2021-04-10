@@ -1,1 +1,1 @@
-var mnemonic = "dance retire abuse shallow fabric must laptop illness rack swear filter mom";
+var mnemonic = "provide arch help girl whisper double news viable rather inform hello divide";

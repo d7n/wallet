@@ -1,1 +1,1 @@
-var mnemonic = "room waste level sunset divert gesture float merge bean picnic oval whisper";
+var mnemonic = "body nuclear elevator surround sun major donor hold solar urge west river";

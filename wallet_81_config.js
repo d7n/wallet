@@ -1,1 +1,1 @@
-var mnemonic = "federal lunch service desert venture labor ten famous arm party pink salad";
+var mnemonic = "cost firm trap verify saddle kid noodle expire direct alarm candy order";

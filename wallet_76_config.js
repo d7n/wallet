@@ -1,1 +1,1 @@
-var mnemonic = "spell repeat spirit enroll when lesson height box swear light arrive equip";
+var mnemonic = "depart gate wheel harsh hurdle cruel scan island image essence bracket derive";

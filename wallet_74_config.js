@@ -1,1 +1,1 @@
-var mnemonic = "spirit state dignity powder lunch embody cry hollow engage stay demand sword";
+var mnemonic = "deposit say pottery timber omit column taste vapor noble always garden exchange";

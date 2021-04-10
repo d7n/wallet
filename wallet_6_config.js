@@ -1,1 +1,1 @@
-var mnemonic = "dragon beyond hidden exist craft road boat sketch chat universe wire battle";
+var mnemonic = "put height denial gown simple immune laugh visit follow auto crouch industry";

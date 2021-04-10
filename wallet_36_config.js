@@ -1,1 +1,1 @@
-var mnemonic = "dignity donkey forest napkin delay assault economy tiny loud nothing latin unfair";
+var mnemonic = "umbrella come powder hover client fence tennis truly fancy man rocket blame";

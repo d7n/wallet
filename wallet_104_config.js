@@ -1,1 +1,1 @@
-var mnemonic = "bubble auto coast orchard police stove rose step latin wide enemy require";
+var mnemonic = "weekend price ethics powder wheel lumber balcony pyramid beyond domain ghost example";

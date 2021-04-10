@@ -1,1 +1,1 @@
-var mnemonic = "sniff amused green wing visit head card tip earn six drama ivory";
+var mnemonic = "bid rival quote toss under argue glass rice twin change coffee explain";

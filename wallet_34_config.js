@@ -1,1 +1,1 @@
-var mnemonic = "token shy adult friend become faith verify paddle sausage biology kitchen gas";
+var mnemonic = "inner moment humor arrive stadium kind reject awkward actress demise canyon fit";

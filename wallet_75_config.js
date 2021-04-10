@@ -1,1 +1,1 @@
-var mnemonic = "vacuum wonder mesh resource engage credit stomach blur license grass grace dismiss";
+var mnemonic = "conduct enforce solid then candy story frog vicious genre quantum rain enforce";

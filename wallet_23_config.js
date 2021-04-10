@@ -1,1 +1,1 @@
-var mnemonic = "layer effort enforce snow common purity sunset silver topple adapt ranch tip";
+var mnemonic = "stool permit zebra tooth choice shoulder heavy crawl mouse dizzy confirm explain";

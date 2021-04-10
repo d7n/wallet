@@ -1,1 +1,1 @@
-var mnemonic = "dragon oppose exhaust diamond soup warrior badge gravity thunder improve fiscal habit";
+var mnemonic = "wagon beyond banana scan copper rifle pet island cigar enforce museum absurd";

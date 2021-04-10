@@ -1,1 +1,1 @@
-var mnemonic = "job exercise horror face hold travel flavor rifle raise siege mosquito hub";
+var mnemonic = "equal nephew job crime radio undo table harsh slide situate twice emotion";

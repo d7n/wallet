@@ -1,1 +1,1 @@
-var mnemonic = "thing always weird please wrist there ridge blame farm guard weird oval";
+var mnemonic = "truth museum garlic slim month trick famous brief tomorrow talent hope oyster";

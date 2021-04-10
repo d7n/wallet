@@ -1,1 +1,1 @@
-var mnemonic = "island balcony lawn garden potato moon draft yard major ketchup cradle manual";
+var mnemonic = "source fiscal lend gloom labor trip piano position left arrow vast song";

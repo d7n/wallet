@@ -1,1 +1,1 @@
-var mnemonic = "mobile bring blue explain tunnel kick distance piano notice cotton novel day";
+var mnemonic = "join fence slender ripple morning fashion eye raven mom nominee purse digital";

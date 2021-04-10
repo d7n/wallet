@@ -1,1 +1,1 @@
-var mnemonic = "annual tuna snack sleep rookie year bounce sniff era vacant excite moment";
+var mnemonic = "company rocket wedding harvest chapter cloth weasel blind gloom enter trash pear";

@@ -1,1 +1,1 @@
-var mnemonic = "deal six vivid follow latin muscle denial retreat there undo honey giraffe";
+var mnemonic = "frozen badge plunge twice charge admit number ice remove rescue rescue wall";

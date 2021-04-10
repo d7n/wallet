@@ -1,1 +1,1 @@
-var mnemonic = "employ push report major unable argue because amused title when great disorder";
+var mnemonic = "shrug gallery weekend tenant clever minimum sadness version answer else unit embrace";

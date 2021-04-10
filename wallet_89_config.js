@@ -1,1 +1,1 @@
-var mnemonic = "dilemma width kiwi lumber resource gather veteran uncover ecology shock suit palace";
+var mnemonic = "soul tackle opinion sphere brisk fuel picnic senior mixture nuclear bronze belt";

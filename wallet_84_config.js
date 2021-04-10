@@ -1,1 +1,1 @@
-var mnemonic = "casual dinner retreat gloom toy breeze roast mesh thought employ giggle disagree";
+var mnemonic = "obscure hybrid stock secret allow second wheat month quiz dinner regret exhaust";

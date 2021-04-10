@@ -1,1 +1,1 @@
-var mnemonic = "claw essay chef soccer spoon code stumble sorry shield disorder agree lazy";
+var mnemonic = "craft outer provide effort depart little pledge screen punch divert humor coach";

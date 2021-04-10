@@ -1,1 +1,1 @@
-var mnemonic = "lens feel universe novel wrong mango usual flame tank people grow happy";
+var mnemonic = "forum wide spare comfort strong scrub soap lunar blame sentence actress voice";

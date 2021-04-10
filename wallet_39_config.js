@@ -1,1 +1,1 @@
-var mnemonic = "order maid burden flag invite canal nation mansion trash bleak aisle front";
+var mnemonic = "taste beach pen sponsor room spread drum segment art miracle melody scatter";

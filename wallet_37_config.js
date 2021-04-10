@@ -1,1 +1,1 @@
-var mnemonic = "bike duck early warm february behind vibrant squirrel cricket sea agree mandate";
+var mnemonic = "maze school hover general siege satisfy clinic member disease core blame roof";

@@ -1,1 +1,1 @@
-var mnemonic = "rally smart siege erupt hill admit silver banana feature fox depart session";
+var mnemonic = "camp pledge peasant custom crash library icon venue can stay check forest";

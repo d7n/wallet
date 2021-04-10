@@ -1,1 +1,1 @@
-var mnemonic = "fly forest act monster deal wasp search midnight shoot design switch reform";
+var mnemonic = "soft original monitor size divert please unlock aim march kitten suspect senior";

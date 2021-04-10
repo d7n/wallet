@@ -1,1 +1,1 @@
-var mnemonic = "mask stairs quality project emotion salt magic nephew pepper nominee gadget gloom";
+var mnemonic = "multiply light web never feel clinic distance another eye action three genuine";

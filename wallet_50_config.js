@@ -1,1 +1,1 @@
-var mnemonic = "chuckle fragile perfect blush gold shell civil lesson layer learn walk pool";
+var mnemonic = "universe belt shy strong present wait unfair struggle world beyond six vacuum";

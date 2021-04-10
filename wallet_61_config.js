@@ -1,1 +1,1 @@
-var mnemonic = "render fun retire lyrics undo stand hurry olive come script blast excite";
+var mnemonic = "concert cupboard surprise galaxy table ladder build wire burst degree link border";

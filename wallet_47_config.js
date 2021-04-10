@@ -1,1 +1,1 @@
-var mnemonic = "suffer mountain ecology shed mutual risk peace cigar source bunker cute agent";
+var mnemonic = "coyote brisk raise sing farm vehicle pattern stand bomb tired scissors reunion";

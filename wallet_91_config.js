@@ -1,1 +1,1 @@
-var mnemonic = "trim enemy quit gaze group agree ozone talk shell monster soap project";
+var mnemonic = "immune forward artist anger arm truck fiscal ice also final uncle extend";

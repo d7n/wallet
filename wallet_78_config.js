@@ -1,1 +1,1 @@
-var mnemonic = "chronic garage phrase impact suit client rich analyst render scan excuse grocery";
+var mnemonic = "apple iron wolf horror egg setup error convince act reform mesh rhythm";

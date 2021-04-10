@@ -1,1 +1,1 @@
-var mnemonic = "keen tuition gossip meadow paddle edit early brave fox coconut horror supply";
+var mnemonic = "bronze reason pact raise wire echo uncle rabbit clip attract book glove";

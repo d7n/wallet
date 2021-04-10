@@ -1,1 +1,1 @@
-var mnemonic = "craft erupt topic return poverty angry such quantum inner video federal correct";
+var mnemonic = "twist alpha candy exhaust advice quantum master brand cancel sing dinosaur dial";
