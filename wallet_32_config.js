@@ -1,1 +1,1 @@
-var mnemonic = "electric drop swing fit usual abandon fury hard argue join crime comic";
+var mnemonic = "few silver flip soda unaware dilemma axis vendor novel kit home shiver";

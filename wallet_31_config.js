@@ -1,1 +1,1 @@
-var mnemonic = "diamond word science supreme wheat cat peace plate poem force language general";
+var mnemonic = "citizen nominee very trophy elegant lock hub false stomach joke devote call";

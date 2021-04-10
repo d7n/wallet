@@ -1,1 +1,1 @@
-var mnemonic = "rubber lounge physical scale orchard retire unlock ritual earth ranch stem found";
+var mnemonic = "clay liquid arrange stairs inherit deal illness swarm police moon treat cancel";

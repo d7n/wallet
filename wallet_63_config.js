@@ -1,1 +1,1 @@
-var mnemonic = "group awful fatal casual anger comic upper upset echo change spice domain";
+var mnemonic = "note pink address device summer voyage thank flush clay calm eagle worry";

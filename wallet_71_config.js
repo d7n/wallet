@@ -1,1 +1,1 @@
-var mnemonic = "coast popular silly gadget have clutch solution reason rabbit weapon tumble loan";
+var mnemonic = "various bean early fluid share genius fly spell miracle total magic cake";

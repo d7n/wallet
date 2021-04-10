@@ -1,1 +1,1 @@
-var mnemonic = "motion coast solid kind expire include sheriff truck option hazard evidence hunt";
+var mnemonic = "clock garbage tragic giraffe saddle ethics unit apart coach design open curious";

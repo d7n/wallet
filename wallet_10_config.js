@@ -1,1 +1,1 @@
-var mnemonic = "welcome sun hope patch tooth lava reason valid future saddle hover approve";
+var mnemonic = "coil mom drop bottom law exhaust foil jewel digital climb load kitten";

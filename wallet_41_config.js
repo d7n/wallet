@@ -1,1 +1,1 @@
-var mnemonic = "romance wet report security village endless trouble observe blush near captain soap";
+var mnemonic = "coral vintage gesture fresh soap also velvet quantum earn old spice render";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon exhibit today notable maze escape woman surround knock fox begin crumble";
+var mnemonic = "clever hen trouble fish clinic strike start false sudden swallow onion early";

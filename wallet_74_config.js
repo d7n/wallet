@@ -1,1 +1,1 @@
-var mnemonic = "fence narrow similar limit pull sentence cabin drop loud spatial liquid fury";
+var mnemonic = "curious wolf runway calm myth build similar shrug thought tone milk juice";

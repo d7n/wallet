@@ -1,1 +1,1 @@
-var mnemonic = "repeat outer hair power clinic chest liberty devote sail talk glue silver";
+var mnemonic = "peace file render useful energy response viable system door chat say asthma";

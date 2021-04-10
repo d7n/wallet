@@ -1,1 +1,1 @@
-var mnemonic = "modify bargain survey thing wealth bronze usage tell focus noodle carbon march";
+var mnemonic = "sibling laugh service asset feel plug merry spring youth chronic state artwork";

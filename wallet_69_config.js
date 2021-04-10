@@ -1,1 +1,1 @@
-var mnemonic = "mushroom gather soup strike image lobster force elephant client drum way runway";
+var mnemonic = "sell helmet replace castle random win wire shock wet junk carbon proud";

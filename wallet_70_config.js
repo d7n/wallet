@@ -1,1 +1,1 @@
-var mnemonic = "category general color push brush category brother cigar pig life wisdom stage";
+var mnemonic = "tomorrow infant onion train arm atom hawk width champion alpha recipe squeeze";

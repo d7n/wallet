@@ -1,1 +1,1 @@
-var mnemonic = "inspire rib base load argue style tape female pledge price where fortune";
+var mnemonic = "pony document marriage purse address sell divide umbrella faint farm feature glass";

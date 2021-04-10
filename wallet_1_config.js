@@ -1,1 +1,1 @@
-var mnemonic = "brief bachelor chef tower can noodle deer beyond fruit possible sniff spatial";
+var mnemonic = "cotton stone cotton tell favorite ring maple casual olympic bless popular chimney";

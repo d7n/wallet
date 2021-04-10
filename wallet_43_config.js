@@ -1,1 +1,1 @@
-var mnemonic = "buyer author remember warm piano yard disagree suit casual april erode afford";
+var mnemonic = "that festival cross banana walnut box super man vehicle silk warrior whip";

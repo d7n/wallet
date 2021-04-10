@@ -1,1 +1,1 @@
-var mnemonic = "morning close will token kid together hero blue keen mountain tortoise room";
+var mnemonic = "depth dance jacket angle normal defy sorry find vault embark december recall";

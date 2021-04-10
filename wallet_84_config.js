@@ -1,1 +1,1 @@
-var mnemonic = "cargo dream grow uniform ahead equip public list brush push hunt wrong";
+var mnemonic = "athlete mistake maximum timber dad fault deal error april argue awful segment";

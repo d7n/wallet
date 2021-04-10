@@ -1,1 +1,1 @@
-var mnemonic = "gloom multiply glue theory two please elegant hurry creek entire whisper betray";
+var mnemonic = "meadow perfect wrap hub wealth very share cabbage knife decrease illegal method";

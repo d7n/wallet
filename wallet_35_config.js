@@ -1,1 +1,1 @@
-var mnemonic = "below bird fault crisp buzz wait math rule weapon ostrich toddler question";
+var mnemonic = "teach slender second wear sausage borrow curious exotic impulse satisfy leisure diary";

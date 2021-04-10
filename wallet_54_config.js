@@ -1,1 +1,1 @@
-var mnemonic = "perfect game cactus floor thumb basket van whip curve gaze sauce exile";
+var mnemonic = "whip okay shrug minimum dirt champion able upon throw next omit oven";

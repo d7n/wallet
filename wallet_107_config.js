@@ -1,1 +1,1 @@
-var mnemonic = "tray mirror message giant shove wine make crack nominee chuckle taste animal";
+var mnemonic = "bachelor cat village dove black trust around chaos curtain runway close situate";

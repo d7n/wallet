@@ -1,1 +1,1 @@
-var mnemonic = "layer logic valley gain total relax stuff box modify double little attend";
+var mnemonic = "brick execute rely snack stool welcome organ gym input naive demand wait";

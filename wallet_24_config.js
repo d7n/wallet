@@ -1,1 +1,1 @@
-var mnemonic = "ill humor kingdom valley view place this actual craft cart chuckle dove";
+var mnemonic = "can gasp avoid glove bamboo maze clown observe offer earth muffin kit";

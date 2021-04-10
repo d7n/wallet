@@ -1,1 +1,1 @@
-var mnemonic = "clever resist sword giraffe unusual aisle jungle rapid pilot process cream muffin";
+var mnemonic = "volcano include ozone snow life power almost thank sibling tackle rally junior";

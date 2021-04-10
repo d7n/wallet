@@ -1,1 +1,1 @@
-var mnemonic = "glow tunnel atom punch animal wait science tackle install ranch flat immune";
+var mnemonic = "moral produce wrist provide favorite inspire shiver mind knee tell stone final";

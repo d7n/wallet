@@ -1,1 +1,1 @@
-var mnemonic = "oyster repeat hurry suspect zoo senior vehicle tissue discover prevent marine camera";
+var mnemonic = "stand repeat blush violin label clip dial panic dinner task benefit stairs";

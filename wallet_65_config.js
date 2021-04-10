@@ -1,1 +1,1 @@
-var mnemonic = "kingdom harbor divert join film junior dream wolf erase thing sand skin";
+var mnemonic = "pizza salon harvest lonely noble spare asset protect organ able hurdle elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "rice glad early grief taxi glue pulse absorb coral donor face embrace";
+var mnemonic = "thrive supply reflect milk wrong door rigid crisp tent feel boring frozen";

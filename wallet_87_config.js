@@ -1,1 +1,1 @@
-var mnemonic = "whisper clap absurd bird into retire because task ranch estate basket reunion";
+var mnemonic = "country grant shift provide divert catalog super witness please radar fog tide";

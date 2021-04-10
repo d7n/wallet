@@ -1,1 +1,1 @@
-var mnemonic = "bronze hire speed quantum pole during impulse harsh mean intact column chief";
+var mnemonic = "dance seek excuse toddler eager toss certain review shaft turtle genius cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue object adult then behave flash glow omit dream memory lock cup";
+var mnemonic = "stairs become brief message toy grit laptop super height pistol language song";

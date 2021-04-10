@@ -1,1 +1,1 @@
-var mnemonic = "rude drip hill safe inspire junior around gather exact jelly over series";
+var mnemonic = "remind canvas later urge observe belt police congress taxi alpha happy wife";

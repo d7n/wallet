@@ -1,1 +1,1 @@
-var mnemonic = "obey shy castle pistol cool renew canoe fork hard champion resist skull";
+var mnemonic = "elbow close tenant enjoy symbol private lion dawn come veteran salute country";

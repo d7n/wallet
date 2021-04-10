@@ -1,1 +1,1 @@
-var mnemonic = "close boat puppy short document initial present turkey this mountain heart shove";
+var mnemonic = "embrace fan fresh winner relax input veteran chat fork picture announce split";

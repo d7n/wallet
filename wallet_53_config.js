@@ -1,1 +1,1 @@
-var mnemonic = "reunion awful timber maid radar december camp initial badge average release trash";
+var mnemonic = "since sunset lemon equal sheriff diesel seek impact parade popular hurt jazz";

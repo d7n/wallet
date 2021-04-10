@@ -1,1 +1,1 @@
-var mnemonic = "flavor fit stand rival copy woman sadness tomato daring struggle piano gorilla";
+var mnemonic = "divorce travel method mention scrap rotate trumpet trick reflect rate couple law";

@@ -1,1 +1,1 @@
-var mnemonic = "hat topple turkey prefer vacant lesson invest music same regret afford salt";
+var mnemonic = "coil pole novel twin pistol desk language sun squirrel glare work vicious";

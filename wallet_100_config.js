@@ -1,1 +1,1 @@
-var mnemonic = "real wife shop attend flush apart frequent kit dignity faculty clip design";
+var mnemonic = "rescue fossil cabin tool wire notable valid valid modify oblige alpha insect";

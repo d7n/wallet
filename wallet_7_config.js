@@ -1,1 +1,1 @@
-var mnemonic = "tourist few daring excuse section limb real asset shrug taxi chunk notice";
+var mnemonic = "correct mask detail major emotion predict obvious tongue pizza final reason over";

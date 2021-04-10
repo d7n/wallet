@@ -1,1 +1,1 @@
-var mnemonic = "scrap flip onion salon rough teach nut first explain luggage cream female";
+var mnemonic = "echo jeans delay now output tell option citizen rebel ignore venue brown";

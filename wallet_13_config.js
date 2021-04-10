@@ -1,1 +1,1 @@
-var mnemonic = "cube song blouse ethics violin champion believe pull clinic unusual noodle celery";
+var mnemonic = "brown inhale author forget spider office deputy gate genuine wonder bacon poet";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise loan song wheel canoe round job dwarf snake endless notable cheese";
+var mnemonic = "hair payment breeze rebel dress hurry ramp orient reward flower fossil sword";

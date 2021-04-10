@@ -1,1 +1,1 @@
-var mnemonic = "cloud acid enjoy true velvet deposit keen argue recall street slogan swallow";
+var mnemonic = "across develop coil sustain can palm track thumb approve lounge paddle winter";

@@ -1,1 +1,1 @@
-var mnemonic = "direct potato voyage aisle observe toy vehicle umbrella culture divide drift agree";
+var mnemonic = "adjust absent cereal thunder flat nose misery syrup together kiwi cliff initial";

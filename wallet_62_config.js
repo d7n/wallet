@@ -1,1 +1,1 @@
-var mnemonic = "two script number runway immense enroll soul artwork salt occur festival sudden";
+var mnemonic = "hotel august pluck zoo enter gun enforce device bench fuel apology dynamic";

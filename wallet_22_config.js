@@ -1,1 +1,1 @@
-var mnemonic = "boy exclude edge mosquito control whale exit dizzy soccer talent girl vendor";
+var mnemonic = "hover casino vital pole deliver boil poet novel sound cart immune decide";

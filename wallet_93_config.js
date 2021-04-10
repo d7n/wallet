@@ -1,1 +1,1 @@
-var mnemonic = "vessel thank sugar gym observe hurt cost clutch treat breeze three various";
+var mnemonic = "scrub drastic august holiday soap grunt license second length result toss knock";

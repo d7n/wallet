@@ -1,1 +1,1 @@
-var mnemonic = "slim cart enroll slogan latin series panther twice rubber dad inform party";
+var mnemonic = "actor echo soon hospital display mobile right finger toward denial luggage buyer";

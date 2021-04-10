@@ -1,1 +1,1 @@
-var mnemonic = "before tunnel gallery estate bring warfare collect panda across trim push ready";
+var mnemonic = "easily control man someone attitude section coin idea shove blame bone window";

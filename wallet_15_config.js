@@ -1,1 +1,1 @@
-var mnemonic = "marine bus youth design pact fresh plunge decline pair consider try fancy";
+var mnemonic = "gallery satoshi grain join people air oven define hawk upset angry mother";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed best bus lizard session vivid crime better brick tilt recycle share";
+var mnemonic = "crash tourist extra shallow grid legal cost poet inmate mercy apple expire";

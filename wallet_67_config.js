@@ -1,1 +1,1 @@
-var mnemonic = "auto worth pear ten bitter broccoli obvious know cross same before garage";
+var mnemonic = "coin ten sample collect mix couch insane subject fabric weekend expose rice";

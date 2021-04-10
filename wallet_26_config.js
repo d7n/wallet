@@ -1,1 +1,1 @@
-var mnemonic = "exist stamp opinion ethics exclude flower grid enough couch proud exhibit odor";
+var mnemonic = "symptom above girl give clinic car mountain knock cruel loud alter write";

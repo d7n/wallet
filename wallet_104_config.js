@@ -1,1 +1,1 @@
-var mnemonic = "glad very brick journey fabric reform stuff shine defy amateur injury banana";
+var mnemonic = "planet collect school stand remember three predict bundle cheese nest say news";

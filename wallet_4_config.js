@@ -1,1 +1,1 @@
-var mnemonic = "garment first brisk tragic coast summer bid duty panic solution twelve raise";
+var mnemonic = "erosion myself road cancel safe surprise mesh direct wood base artist tiny";

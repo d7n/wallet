@@ -1,1 +1,1 @@
-var mnemonic = "tongue hawk woman helmet suffer please faculty purity render can hip mistake";
+var mnemonic = "vacuum bottom smart festival super erase power depart brick success vivid science";

@@ -1,1 +1,1 @@
-var mnemonic = "result head insane salt way food cave warfare circle mirror fork sunset";
+var mnemonic = "fossil hospital fan sausage shock joke odor custom novel shine float dragon";

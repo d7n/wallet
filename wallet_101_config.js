@@ -1,1 +1,1 @@
-var mnemonic = "salmon theme tomorrow swift artefact safe pudding train tackle baby beauty reform";
+var mnemonic = "rifle anchor agree rich cube lemon chef inside absorb cliff width pole";

@@ -1,1 +1,1 @@
-var mnemonic = "use choice chase vicious fence victory virtual print report undo goddess uncle";
+var mnemonic = "doctor uphold energy void stable online muffin simple program trade segment letter";

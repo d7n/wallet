@@ -1,1 +1,1 @@
-var mnemonic = "force pottery tomorrow section firm reflect smoke unknown brick person scout canvas";
+var mnemonic = "bright tiger engine burger face unaware soup fence rib goddess whale tell";

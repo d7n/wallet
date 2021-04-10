@@ -1,1 +1,1 @@
-var mnemonic = "exchange apology rescue flip siren crime cause notice myth yard marine surge";
+var mnemonic = "weather empower cloth key organ token atom fabric smoke rebel fire pole";

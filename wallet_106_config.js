@@ -1,1 +1,1 @@
-var mnemonic = "tiny acquire jungle seek intact bounce day average onion eager spend wet";
+var mnemonic = "border hover regret unlock present double victory green spawn divorce green reason";

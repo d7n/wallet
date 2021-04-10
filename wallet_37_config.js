@@ -1,1 +1,1 @@
-var mnemonic = "congress poem tube lava warrior certain ribbon husband fine crane glow found";
+var mnemonic = "huge day accident tackle fix eye army cupboard vapor equal host century";

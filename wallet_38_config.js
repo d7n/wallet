@@ -1,1 +1,1 @@
-var mnemonic = "embrace hip such space level depart uniform wrap explain harbor fossil enjoy";
+var mnemonic = "rib impose gravity enter steel inch rough salon wrestle forward lend jelly";

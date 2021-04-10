@@ -1,1 +1,1 @@
-var mnemonic = "syrup bitter pottery direct hub coach fall first rubber sweet capable tribe";
+var mnemonic = "carry genuine hen goddess matrix fee maid sponsor october boring spice result";

@@ -1,1 +1,1 @@
-var mnemonic = "unable seminar churn whisper priority crime floor magic accuse general again morning";
+var mnemonic = "range wide edit rug zero wife margin again search youth asthma lawsuit";

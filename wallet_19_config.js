@@ -1,1 +1,1 @@
-var mnemonic = "edit confirm series coast clean wet nuclear cave coast unique bonus gossip";
+var mnemonic = "van scan drift benefit double romance fish deal mail adult glimpse thought";

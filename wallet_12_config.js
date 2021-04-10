@@ -1,1 +1,1 @@
-var mnemonic = "episode panel toss auto spike sunny firm crew wall tongue bone crisp";
+var mnemonic = "case airport tape base skin lyrics news acoustic tag eye arena air";

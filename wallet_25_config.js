@@ -1,1 +1,1 @@
-var mnemonic = "demand catalog mosquito tourist tell tragic foil truly home suit matrix resist";
+var mnemonic = "custom stumble vault mixed process feature swarm family egg safe abandon royal";

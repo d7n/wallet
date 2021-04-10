@@ -1,1 +1,1 @@
-var mnemonic = "enough hole voice volume wreck shaft pig urban design token goose trim";
+var mnemonic = "option remain service raise mean hospital student lunch ginger change two sleep";

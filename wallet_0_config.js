@@ -1,1 +1,1 @@
-var mnemonic = "dance nothing alley axis pulse endorse buffalo era equal bless immense update";
+var mnemonic = "track scheme beef flag verb reflect swing culture foam lunar water radio";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper shell dance lesson one orient web fox furnace hedgehog thumb shove";
+var mnemonic = "bean disease absurd split battle riot destroy trick craft civil chunk stem";

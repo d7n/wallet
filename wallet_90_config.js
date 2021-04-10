@@ -1,1 +1,1 @@
-var mnemonic = "phrase claw ozone wear hope frog now board wire skirt peanut pitch";
+var mnemonic = "alpha final bamboo security liar plate such salute super seed nation inner";

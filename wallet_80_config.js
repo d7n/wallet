@@ -1,1 +1,1 @@
-var mnemonic = "laundry frequent pole rude peasant unfair output they series kite south ocean";
+var mnemonic = "arch office display victory file nut mushroom speak blade invest chuckle promote";

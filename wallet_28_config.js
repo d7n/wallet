@@ -1,1 +1,1 @@
-var mnemonic = "melt frown maple horse reform silly race surge inherit immune dune enrich";
+var mnemonic = "duty subject casual ancient onion mansion depart alien luxury caution melt lawn";

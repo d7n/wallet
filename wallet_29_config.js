@@ -1,1 +1,1 @@
-var mnemonic = "library ladder crisp hotel switch broken company hour pass neglect candy curious";
+var mnemonic = "phone memory phone wedding tongue garbage panther word capital cricket render true";

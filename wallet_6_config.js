@@ -1,1 +1,1 @@
-var mnemonic = "axis sea dial trigger elbow danger expand absent grass drift exile repair";
+var mnemonic = "logic post tomorrow process social jelly erase oppose share tuition cattle special";

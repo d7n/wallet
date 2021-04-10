@@ -1,1 +1,1 @@
-var mnemonic = "anger noodle hurry snap tiny cry gas raccoon collect truck piece glimpse";
+var mnemonic = "jaguar second pony skin shrimp lunar hello super garden promote endorse melody";

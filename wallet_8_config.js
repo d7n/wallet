@@ -1,1 +1,1 @@
-var mnemonic = "chef wrist hair erosion weather animal meat mixed oval time step brown";
+var mnemonic = "price radio toy color tank express speed follow exclude shrug satisfy siren";

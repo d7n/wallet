@@ -1,1 +1,1 @@
-var mnemonic = "also library wash shrug radio pipe inmate model usage umbrella major duck";
+var mnemonic = "jump bird rate barrel unusual toast diagram mail uncover gap ketchup twenty";

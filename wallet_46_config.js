@@ -1,1 +1,1 @@
-var mnemonic = "soup economy assault admit infant actor treat remove liar interest number order";
+var mnemonic = "stay oxygen nominee lens napkin tell chaos strike script toward example tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "riot simple dragon pear cabin much furnace pelican damp key vicious attend";
+var mnemonic = "attitude urban file outer trip age flip sand speed traffic later under";

@@ -1,1 +1,1 @@
-var mnemonic = "movie lunch border evidence cry law struggle clog minimum present degree call";
+var mnemonic = "atom shoot caught angle panel verb spare mind hedgehog relief truck upgrade";

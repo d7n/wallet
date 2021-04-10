@@ -1,1 +1,1 @@
-var mnemonic = "rocket hammer outer sugar soldier urban swing festival twin adult eight survey";
+var mnemonic = "behave void nurse replace earth flush brick survey cricket cycle great power";

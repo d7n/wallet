@@ -1,1 +1,1 @@
-var mnemonic = "velvet syrup caught winner noodle velvet gadget trip sing such alter mesh";
+var mnemonic = "crystal narrow goose penalty able ignore weird print note prison rug movie";

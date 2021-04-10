@@ -1,1 +1,1 @@
-var mnemonic = "input buyer usage afraid field relief note anxiety tattoo remain cute alone";
+var mnemonic = "gadget glide burger wire emerge cage prefer zone lawn tumble nominee ride";

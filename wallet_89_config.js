@@ -1,1 +1,1 @@
-var mnemonic = "table embrace dizzy orange reopen fence crumble section never wire upon embody";
+var mnemonic = "consider bronze gossip donkey away labor tag clinic regular recall age march";

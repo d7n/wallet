@@ -1,1 +1,1 @@
-var mnemonic = "private super syrup mix marriage coyote profit clog flame camera govern item";
+var mnemonic = "city party rug mystery spider happy chair horror taste have dwarf mask";

@@ -1,1 +1,1 @@
-var mnemonic = "document tip analyst drip climb tribe explain item horn tiger siege arrange";
+var mnemonic = "shadow plate uniform student guess famous manage wire giraffe rubber can sister";

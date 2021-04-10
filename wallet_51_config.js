@@ -1,1 +1,1 @@
-var mnemonic = "dawn wreck issue hurry ecology annual reunion nominee next copper winner innocent";
+var mnemonic = "tiger treat harbor table fabric often basic episode analyst mystery void canyon";

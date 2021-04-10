@@ -1,1 +1,1 @@
-var mnemonic = "spirit solar warfare timber slush neither undo smoke hotel screen differ main";
+var mnemonic = "indicate honey remove luggage cruise trust plug taxi spirit vapor scheme forward";
