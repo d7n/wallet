@@ -1,1 +1,1 @@
-var mnemonic = "method motion crisp fantasy canoe weather unveil crater hazard excuse budget civil";
+var mnemonic = "yard van burden midnight educate kingdom castle fruit supply actor zero only";

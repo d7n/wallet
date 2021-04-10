@@ -1,1 +1,1 @@
-var mnemonic = "expire grunt mirror foot soap shine raccoon famous diamond cram siege asset";
+var mnemonic = "invest faculty because gentle grow mixture alone sad rail jeans odor west";

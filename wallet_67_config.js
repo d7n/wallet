@@ -1,1 +1,1 @@
-var mnemonic = "garage eye total spoon toward report dumb ghost steak avocado ignore cargo";
+var mnemonic = "better security actual mountain practice giggle can valve illness digital inquiry habit";

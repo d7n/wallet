@@ -1,1 +1,1 @@
-var mnemonic = "ball source panda access unusual fragile glimpse add step adult soul spare";
+var mnemonic = "exact end month under repeat install fancy win two result blouse crazy";

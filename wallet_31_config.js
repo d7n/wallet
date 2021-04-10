@@ -1,1 +1,1 @@
-var mnemonic = "tonight gather run kind possible morning develop similar oil ginger critic wave";
+var mnemonic = "rival champion evolve clay era idle include good giraffe obtain fashion attitude";

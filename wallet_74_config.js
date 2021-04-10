@@ -1,1 +1,1 @@
-var mnemonic = "virus loyal elder wealth width lady primary diagram chuckle employ effort flat";
+var mnemonic = "trim chunk fiction print labor olympic page pink text alter junk say";

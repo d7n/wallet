@@ -1,1 +1,1 @@
-var mnemonic = "lift exist liquid burst meadow negative board amount quarter light tackle small";
+var mnemonic = "sister trust stable kid fault bubble gossip puzzle party coconut library bunker";

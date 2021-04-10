@@ -1,1 +1,1 @@
-var mnemonic = "panic impact height indoor chronic bullet spread awkward first jaguar stick cargo";
+var mnemonic = "change tube fall robust avocado kitchen curve first cigar cliff law mind";

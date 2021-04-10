@@ -1,1 +1,1 @@
-var mnemonic = "amazing inquiry ask stairs pulse broccoli make move cram avoid slogan donate";
+var mnemonic = "notice two essay empty win salt limb divert sister expose pull neck";

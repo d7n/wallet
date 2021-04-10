@@ -1,1 +1,1 @@
-var mnemonic = "giraffe rookie resemble topic manage sea away paper eye filter course help";
+var mnemonic = "illness voyage call asthma build stairs sibling pony shell ivory alcohol color";

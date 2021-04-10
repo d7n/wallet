@@ -1,1 +1,1 @@
-var mnemonic = "grunt adapt butter accuse grain country dune violin attend remove casino cactus";
+var mnemonic = "moon dry unit exhibit vacuum tool solar person caught episode visa market";

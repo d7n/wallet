@@ -1,1 +1,1 @@
-var mnemonic = "luggage shrug cross donkey snack conduct city impose slush long wire special";
+var mnemonic = "joy mountain pear milk balcony arena barrel ozone hat game good cargo";

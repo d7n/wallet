@@ -1,1 +1,1 @@
-var mnemonic = "animal stock farm glimpse fortune penalty stay course galaxy betray rally antenna";
+var mnemonic = "also grain cotton clay glow mandate horror raven perfect purchase nose furnace";

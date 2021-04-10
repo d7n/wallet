@@ -1,1 +1,1 @@
-var mnemonic = "pride keep enjoy gossip target timber zoo oak away error slender buyer";
+var mnemonic = "sense essay produce concert robot alone firm size title library later below";

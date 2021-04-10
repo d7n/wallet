@@ -1,1 +1,1 @@
-var mnemonic = "liquid property shift face inside delay copy two bullet bacon sausage reject";
+var mnemonic = "aware million input mountain fringe fringe village solution system puzzle attend enlist";

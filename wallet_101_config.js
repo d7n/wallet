@@ -1,1 +1,1 @@
-var mnemonic = "someone must hard unfold wide tiny shrimp syrup alley negative alley snow";
+var mnemonic = "bird shadow interest business term spice dilemma modify peasant crane huge bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "devote submit miss path stem obscure say virus accident spawn bid under";
+var mnemonic = "nest peasant object mask company fee mushroom stage weasel spread spider nest";

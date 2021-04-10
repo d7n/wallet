@@ -1,1 +1,1 @@
-var mnemonic = "mule orchard welcome final rookie range modify apple survey chest use humble";
+var mnemonic = "over dizzy garden visual manage allow season update height light dust slight";

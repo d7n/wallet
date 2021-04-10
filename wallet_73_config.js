@@ -1,1 +1,1 @@
-var mnemonic = "artefact exotic people alien upon goose code unable borrow useful rice faculty";
+var mnemonic = "once effort word actor artwork escape denial cheese fever wonder absurd girl";

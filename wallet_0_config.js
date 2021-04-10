@@ -1,1 +1,1 @@
-var mnemonic = "profit vibrant error stem judge control opinion age three fluid island erupt";
+var mnemonic = "midnight effort barrel reform fine fitness clock chunk donate fix wheel enough";

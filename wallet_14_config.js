@@ -1,1 +1,1 @@
-var mnemonic = "rice april prosper hotel useless similar join matter evil era twenty cause";
+var mnemonic = "differ gift spring chimney obey spell butter toy gasp point choose sort";

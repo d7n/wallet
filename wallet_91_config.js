@@ -1,1 +1,1 @@
-var mnemonic = "daring close final accident sound help second shrimp gym steel pumpkin auto";
+var mnemonic = "base use despair coral marriage assist sand around brown interest crew kite";

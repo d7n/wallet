@@ -1,1 +1,1 @@
-var mnemonic = "library silk type fiscal lobster reunion twice achieve trust monster hand raccoon";
+var mnemonic = "voyage million horse dinner panic harsh praise dawn cousin ahead glide spot";

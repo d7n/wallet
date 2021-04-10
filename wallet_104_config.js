@@ -1,1 +1,1 @@
-var mnemonic = "trend like dad nature account rail holiday mango coconut ranch pitch example";
+var mnemonic = "cool west fluid giggle nice embark fatal robust angry rebuild file gauge";

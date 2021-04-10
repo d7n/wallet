@@ -1,1 +1,1 @@
-var mnemonic = "scorpion drama vote dentist blush coffee sing mule minute coil polar make";
+var mnemonic = "earn glide sport subject clown banner opinion exclude tank opera cute couple";

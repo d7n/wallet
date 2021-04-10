@@ -1,1 +1,1 @@
-var mnemonic = "project fan rain runway giggle help ridge hat nurse visual strike midnight";
+var mnemonic = "burger soda gasp check cat case mix law protect memory street river";

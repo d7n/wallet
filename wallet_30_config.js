@@ -1,1 +1,1 @@
-var mnemonic = "outdoor trick erase forum essence polar almost again leopard misery poet wagon";
+var mnemonic = "drink radar brick teach relax bike tongue citizen enter hen element weapon";

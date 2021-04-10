@@ -1,1 +1,1 @@
-var mnemonic = "harbor breeze vapor chalk virus reform month ozone sock enforce humor filter";
+var mnemonic = "green shift luxury fever exact armed laptop exhaust basic deliver baby busy";

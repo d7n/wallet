@@ -1,1 +1,1 @@
-var mnemonic = "fiscal trade box impulse glad wash rare waste what remember woman bread";
+var mnemonic = "draw chase wasp setup clever predict jeans safe demand pyramid orphan hair";

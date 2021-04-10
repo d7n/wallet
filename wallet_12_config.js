@@ -1,1 +1,1 @@
-var mnemonic = "meat inform adapt quit gym bind best twelve dream pencil health peasant";
+var mnemonic = "detect fiscal glare iron dose civil donate inquiry junk enroll hire practice";

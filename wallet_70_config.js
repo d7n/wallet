@@ -1,1 +1,1 @@
-var mnemonic = "mystery brisk burger mechanic own alley trash fatal urge hamster setup wage";
+var mnemonic = "stuff panther balance divert shield report alone runway month flush pair decrease";

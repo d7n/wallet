@@ -1,1 +1,1 @@
-var mnemonic = "ten pink decrease brief eyebrow involve useless heart crane include title proud";
+var mnemonic = "wait slide worry alpha shock ball crater alien fault goat basic leave";

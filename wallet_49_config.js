@@ -1,1 +1,1 @@
-var mnemonic = "enlist finish engine luxury uncover age rigid balcony spatial oyster path tornado";
+var mnemonic = "can flip better carry van vicious detail glare solve tumble depart brass";

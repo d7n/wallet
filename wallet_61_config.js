@@ -1,1 +1,1 @@
-var mnemonic = "warm error actual clay time draw door between over cat minute assault";
+var mnemonic = "element rapid satisfy conduct resemble tomato young message beyond flight ride crazy";

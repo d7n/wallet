@@ -1,1 +1,1 @@
-var mnemonic = "metal dwarf scissors never easily mouse suffer neither lava gesture dwarf beyond";
+var mnemonic = "fun monster lift salt wine romance burger mean kidney recipe team cool";

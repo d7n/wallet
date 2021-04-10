@@ -1,1 +1,1 @@
-var mnemonic = "grocery exchange wash family priority pipe near issue team wild picnic vicious";
+var mnemonic = "fruit urban sleep sound square nurse void salt tennis earth cliff divide";

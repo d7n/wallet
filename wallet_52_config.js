@@ -1,1 +1,1 @@
-var mnemonic = "dolphin interest slab bubble north pelican pulp divorce lab dress clown double";
+var mnemonic = "rule shallow master lobster cargo husband cabbage ice boat donor tail grow";

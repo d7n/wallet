@@ -1,1 +1,1 @@
-var mnemonic = "wild confirm tooth filter critic apart nose want panther mask cereal anxiety";
+var mnemonic = "toilet tail across edge wrist hundred magnet put crystal tomato apart shrug";

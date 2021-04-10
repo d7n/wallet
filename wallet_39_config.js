@@ -1,1 +1,1 @@
-var mnemonic = "digital jar chicken lamp reveal together energy strike extend drop mechanic true";
+var mnemonic = "wet torch clog once extend mom young unlock exotic surprise divide spawn";

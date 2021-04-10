@@ -1,1 +1,1 @@
-var mnemonic = "very decade rule upgrade file blame design suspect title absorb scorpion opera";
+var mnemonic = "town click large news soup guess apart rely gallery duty often visit";

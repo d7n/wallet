@@ -1,1 +1,1 @@
-var mnemonic = "armor argue toss various protect penalty similar plate settle upgrade media script";
+var mnemonic = "beyond bar case wedding cargo neither pitch dumb car chimney kick laugh";

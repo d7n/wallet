@@ -1,1 +1,1 @@
-var mnemonic = "elite huge shield over dinosaur assault leisure trigger predict gadget rich stock";
+var mnemonic = "tooth bean maple utility north lab into deny useless wrong phrase result";

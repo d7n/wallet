@@ -1,1 +1,1 @@
-var mnemonic = "buffalo picnic garage entry teach nasty husband hand income battle hamster impulse";
+var mnemonic = "horn bless cup initial worth business uniform labor ramp slice approve tooth";

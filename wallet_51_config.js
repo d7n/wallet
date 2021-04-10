@@ -1,1 +1,1 @@
-var mnemonic = "butter move speak cup close chase anchor spy consider picnic sheriff genuine";
+var mnemonic = "dynamic social give public conduct subject girl suffer debris prefer spin cross";

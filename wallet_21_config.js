@@ -1,1 +1,1 @@
-var mnemonic = "retire veteran property material collect version enrich mind ritual fringe spawn provide";
+var mnemonic = "curious rebel sing chronic vendor country weather ordinary bubble seed afford bean";

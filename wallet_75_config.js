@@ -1,1 +1,1 @@
-var mnemonic = "embrace entry fiction nation snap embody ancient margin fuel brand wing fade";
+var mnemonic = "assault evidence session peasant artist crystal quit only master tell honey clump";

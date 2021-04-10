@@ -1,1 +1,1 @@
-var mnemonic = "tank wild banana shell clinic drift lesson chapter load swear usage dial";
+var mnemonic = "degree screen release vote collect canyon heart two copper stick garbage palace";

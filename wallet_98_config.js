@@ -1,1 +1,1 @@
-var mnemonic = "acid stamp shoulder marriage busy mushroom junior across alpha danger easy window";
+var mnemonic = "method next museum allow kick garlic engine connect nominee pulp mystery tuna";

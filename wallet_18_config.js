@@ -1,1 +1,1 @@
-var mnemonic = "blade good monitor there creek base robust there banner leave note noodle";
+var mnemonic = "rug start mountain tragic thumb address empty oil common basket able talk";

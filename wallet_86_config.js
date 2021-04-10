@@ -1,1 +1,1 @@
-var mnemonic = "tomato walnut axis injury thing lunar ginger abstract excite black mass tip";
+var mnemonic = "story chicken busy result alpha way arch green situate segment hat toy";

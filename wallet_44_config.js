@@ -1,1 +1,1 @@
-var mnemonic = "spawn fancy enforce topic joy camera evoke cause around wife include finish";
+var mnemonic = "swamp human company border squirrel light path dawn weird rally spend during";

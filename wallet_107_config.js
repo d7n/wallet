@@ -1,1 +1,1 @@
-var mnemonic = "level knife winner afford embark hover air ignore cradle bottom hold paper";
+var mnemonic = "smart panic document expand evil fire sample forum old earth afraid gym";

@@ -1,1 +1,1 @@
-var mnemonic = "banana sail tone web solution chapter tumble left sign autumn wall party";
+var mnemonic = "remove false what jump slim now screen magnet action vocal roof car";

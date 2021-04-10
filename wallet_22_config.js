@@ -1,1 +1,1 @@
-var mnemonic = "cattle oxygen property spice over random scrap whip final vague injury limit";
+var mnemonic = "loop token strategy legend mass exhibit solution retreat verb trumpet antenna elbow";

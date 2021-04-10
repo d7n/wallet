@@ -1,1 +1,1 @@
-var mnemonic = "share bring bless scrub glory neither tuition height nuclear soap away funny";
+var mnemonic = "cheap drive cheap wheel debate remain roof battle source blouse cruise orient";

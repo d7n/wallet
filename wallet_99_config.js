@@ -1,1 +1,1 @@
-var mnemonic = "buzz impulse flame green furnace night razor fruit jungle damage fatal sentence";
+var mnemonic = "deputy lion outdoor orient weasel cereal welcome tissue under argue casual focus";

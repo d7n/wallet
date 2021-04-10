@@ -1,1 +1,1 @@
-var mnemonic = "wing wrap cupboard depart engine pear scissors news rain royal monitor mountain";
+var mnemonic = "chalk wash carry slush brief undo else trial grab walnut piano traffic";

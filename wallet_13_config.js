@@ -1,1 +1,1 @@
-var mnemonic = "hood notice churn hunt system antique engage wall beef omit frost one";
+var mnemonic = "swing case race true spin siege whip slam rotate gown boss drum";

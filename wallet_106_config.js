@@ -1,1 +1,1 @@
-var mnemonic = "youth protect fabric connect fortune mandate capital remain filter mother limb staff";
+var mnemonic = "hill lucky isolate west duck equip private small you often fabric alpha";

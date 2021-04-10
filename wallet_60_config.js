@@ -1,1 +1,1 @@
-var mnemonic = "assume indoor shallow confirm media inflict visual stable picnic crane view inhale";
+var mnemonic = "sick extra soccer involve fresh junior potato coach false follow brick lazy";

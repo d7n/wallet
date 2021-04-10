@@ -1,1 +1,1 @@
-var mnemonic = "inch fruit lawsuit merit bullet exotic wire pelican extra jealous blood weasel";
+var mnemonic = "exhaust rely audit message engage sister world proud dust dad milk tornado";

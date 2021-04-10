@@ -1,1 +1,1 @@
-var mnemonic = "tackle margin animal soon net twist unique velvet remove ridge impose you";
+var mnemonic = "force paddle worry slim spray patient version honey insect chase unknown walnut";

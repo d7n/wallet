@@ -1,1 +1,1 @@
-var mnemonic = "scare spirit birth impose leg lens else purity buyer cinnamon fever ethics";
+var mnemonic = "repeat network million sick fee cry raccoon pledge beach divert news today";

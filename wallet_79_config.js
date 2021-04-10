@@ -1,1 +1,1 @@
-var mnemonic = "crazy own ankle jelly near rice old soccer glory mango swim post";
+var mnemonic = "army dinosaur sadness art cotton awesome expect merge cost kit rack attract";

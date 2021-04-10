@@ -1,1 +1,1 @@
-var mnemonic = "jazz main drift detail vapor advance expand two choose refuse ball layer";
+var mnemonic = "bunker annual neck prefer virtual grace access time crawl yellow silent chat";

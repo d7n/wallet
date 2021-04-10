@@ -1,1 +1,1 @@
-var mnemonic = "rhythm bus seat venture anchor issue off trash mobile vintage seven shallow";
+var mnemonic = "gold pear nest present shock seminar man spread marble essence ring yard";

@@ -1,1 +1,1 @@
-var mnemonic = "oak object always glow usage subject source comic tuna popular brief announce";
+var mnemonic = "multiply naive flee punch blouse observe toddler hire sting potato lake palace";

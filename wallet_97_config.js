@@ -1,1 +1,1 @@
-var mnemonic = "busy biology choose banana strong unit test moon safe finish pass holiday";
+var mnemonic = "garlic decorate rapid rifle pulp ride else blush globe rail bike humor";

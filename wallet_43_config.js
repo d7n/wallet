@@ -1,1 +1,1 @@
-var mnemonic = "fame regular sorry twist lab wait school bike buffalo talent this lyrics";
+var mnemonic = "hill pyramid define poet hurry circle weapon flush dentist vocal firm bright";

@@ -1,1 +1,1 @@
-var mnemonic = "damp water book amateur slow beach reward exercise police coach insane whale";
+var mnemonic = "horse dinner festival monster calm shadow mimic moral era cage mirror mirror";

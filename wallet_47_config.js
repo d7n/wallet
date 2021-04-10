@@ -1,1 +1,1 @@
-var mnemonic = "rare easy own observe tissue canyon lady eyebrow asthma matrix bounce hint";
+var mnemonic = "police industry theory toast eager pool panther logic pretty rotate letter client";

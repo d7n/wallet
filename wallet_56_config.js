@@ -1,1 +1,1 @@
-var mnemonic = "rally puzzle month choose finger sample indoor hospital coin twenty powder claim";
+var mnemonic = "forest border will interest cry divide guilt million charge blanket begin steel";

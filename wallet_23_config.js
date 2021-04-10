@@ -1,1 +1,1 @@
-var mnemonic = "unlock normal monitor verb license joy escape about sibling dirt rule large";
+var mnemonic = "setup emotion north gym hole oval text limit neck number capital diesel";

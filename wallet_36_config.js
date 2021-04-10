@@ -1,1 +1,1 @@
-var mnemonic = "purity vital kingdom salt salon admit alien banner ship barrel crack select";
+var mnemonic = "burden catch noodle width enemy crowd secret where potato base camp crew";

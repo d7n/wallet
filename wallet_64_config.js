@@ -1,1 +1,1 @@
-var mnemonic = "sail dash draw infant turn pulse combine keen cake van toward blame";
+var mnemonic = "aspect client review shoulder shine drift shoot tattoo good enact battle fade";

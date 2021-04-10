@@ -1,1 +1,1 @@
-var mnemonic = "hunt tilt duck blind govern become cluster nation slice token inmate belt";
+var mnemonic = "quiz term athlete awful fuel glimpse sphere depart slender priority blur calm";

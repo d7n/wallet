@@ -1,1 +1,1 @@
-var mnemonic = "rely thumb judge puzzle trust zebra veteran eight pumpkin bubble wrong unaware";
+var mnemonic = "tree service someone health sausage note section dream height unhappy praise buffalo";

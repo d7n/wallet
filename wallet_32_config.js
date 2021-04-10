@@ -1,1 +1,1 @@
-var mnemonic = "already luggage leaf later glue ritual armed write tribe dignity stool about";
+var mnemonic = "ball antenna dish lounge dilemma payment disease tool report rack cannon vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction neither horror circle valid autumn wage ghost elder poet orient cattle";
+var mnemonic = "swallow obscure remain lizard fog symbol celery surge champion giraffe float injury";

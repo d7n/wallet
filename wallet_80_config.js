@@ -1,1 +1,1 @@
-var mnemonic = "pave senior below claim aspect erosion tiny million spell wonder image pet";
+var mnemonic = "gloom wrist eternal glance eight rice usual force velvet visual crowd mushroom";

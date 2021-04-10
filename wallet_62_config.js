@@ -1,1 +1,1 @@
-var mnemonic = "harsh picnic pelican brain window cargo custom nasty lawsuit raise open sentence";
+var mnemonic = "surface position salt south make pizza depend seven goat harsh depend practice";

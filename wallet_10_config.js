@@ -1,1 +1,1 @@
-var mnemonic = "business danger embark note cook diet powder comfort loyal suspect coach rescue";
+var mnemonic = "kit battle viable green civil banner subject protect filter blood sick burden";

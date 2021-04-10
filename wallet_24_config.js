@@ -1,1 +1,1 @@
-var mnemonic = "blossom update head settle cherry rigid addict choice search nest injury wing";
+var mnemonic = "card toe cry pulse hurry sea pig attitude neck fiction when team";

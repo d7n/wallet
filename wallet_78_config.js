@@ -1,1 +1,1 @@
-var mnemonic = "trust double arch bread mouse demise blast maze license future emerge stage";
+var mnemonic = "comic random shallow unfair seven benefit farm answer knock maximum catalog old";

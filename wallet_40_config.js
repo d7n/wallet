@@ -1,1 +1,1 @@
-var mnemonic = "leave sudden paper adult bean butter pact hunt school spare sudden number";
+var mnemonic = "aisle crater artist lobster engage loan mammal captain mouse wedding donkey spoil";

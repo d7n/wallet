@@ -1,1 +1,1 @@
-var mnemonic = "cause pupil spin lock donate brave try away concert distance zero category";
+var mnemonic = "pact jelly surface main frost trip april destroy marriage sail action cost";

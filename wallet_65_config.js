@@ -1,1 +1,1 @@
-var mnemonic = "affair above scale start winter vibrant faculty opera cigar scissors replace portion";
+var mnemonic = "jump alpha wedding over ensure over hurry route blast fix raise range";

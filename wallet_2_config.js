@@ -1,1 +1,1 @@
-var mnemonic = "morning summer cannon easily entire forum make tennis weapon people cover wet";
+var mnemonic = "work lava mixed bubble category fetch bread juice festival swallow mammal online";

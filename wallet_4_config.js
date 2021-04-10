@@ -1,1 +1,1 @@
-var mnemonic = "vicious catalog fiction struggle appear disagree fall smooth agent gaze chaos tenant";
+var mnemonic = "drip supply key country consider flag skill jealous illness same spend setup";

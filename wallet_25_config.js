@@ -1,1 +1,1 @@
-var mnemonic = "brother west parade attitude polar depth meat provide farm choice term behave";
+var mnemonic = "borrow strategy rain security laundry rate gun current flash bulk broken enable";
