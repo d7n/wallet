@@ -1,1 +1,1 @@
-var mnemonic = "story chicken busy result alpha way arch green situate segment hat toy";
+var mnemonic = "report amateur brisk pelican marble weather reopen thought burst mean staff ski";

@@ -1,1 +1,1 @@
-var mnemonic = "can flip better carry van vicious detail glare solve tumble depart brass";
+var mnemonic = "eager scan pudding wrist journey siren spread panic lumber orient catch rare";

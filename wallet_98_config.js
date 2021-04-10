@@ -1,1 +1,1 @@
-var mnemonic = "method next museum allow kick garlic engine connect nominee pulp mystery tuna";
+var mnemonic = "begin happy hungry outdoor feature broccoli buffalo patient one candy drastic kid";

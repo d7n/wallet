@@ -1,1 +1,1 @@
-var mnemonic = "situate kind attitude bronze tip key kitchen smart ceiling carpet element behind";
+var mnemonic = "tube arctic rude forest suit attend spatial exercise bar foot catch hockey";

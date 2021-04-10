@@ -1,1 +1,1 @@
-var mnemonic = "rug start mountain tragic thumb address empty oil common basket able talk";
+var mnemonic = "margin crack draw harbor defense hotel mass donor aerobic visual together arrest";

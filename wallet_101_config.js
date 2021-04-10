@@ -1,1 +1,1 @@
-var mnemonic = "bird shadow interest business term spice dilemma modify peasant crane huge bronze";
+var mnemonic = "glory wish escape woman mail drop nerve chair remain toilet pluck distance";

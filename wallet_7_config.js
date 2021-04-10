@@ -1,1 +1,1 @@
-var mnemonic = "gold pear nest present shock seminar man spread marble essence ring yard";
+var mnemonic = "behind capable blind laundry picnic evidence entry palm section source flame prosper";

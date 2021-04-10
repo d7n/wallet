@@ -1,1 +1,1 @@
-var mnemonic = "rival champion evolve clay era idle include good giraffe obtain fashion attitude";
+var mnemonic = "sting test genius melody where clap warfare logic hole hungry true congress";

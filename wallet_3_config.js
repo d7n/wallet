@@ -1,1 +1,1 @@
-var mnemonic = "knee warrior silly gaze panther will giraffe seek nothing net sail number";
+var mnemonic = "raise drastic drill palace rifle afraid surface snake message enrich outdoor chapter";

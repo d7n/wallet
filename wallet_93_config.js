@@ -1,1 +1,1 @@
-var mnemonic = "snap eight child dinner banner bind you cause salt chuckle awake minor";
+var mnemonic = "finger sunset skirt jelly field pyramid coach item essence amount expose galaxy";

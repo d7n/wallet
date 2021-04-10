@@ -1,1 +1,1 @@
-var mnemonic = "yard van burden midnight educate kingdom castle fruit supply actor zero only";
+var mnemonic = "velvet settle movie wave vast draft orchard panic forward there iron sick";

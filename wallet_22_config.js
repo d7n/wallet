@@ -1,1 +1,1 @@
-var mnemonic = "loop token strategy legend mass exhibit solution retreat verb trumpet antenna elbow";
+var mnemonic = "polar fox tortoise buddy must soccer drift voyage fancy escape music large";

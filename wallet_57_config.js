@@ -1,1 +1,1 @@
-var mnemonic = "repeat network million sick fee cry raccoon pledge beach divert news today";
+var mnemonic = "gaze rifle trap raise harbor fossil add drill torch major obey reward";

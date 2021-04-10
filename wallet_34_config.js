@@ -1,1 +1,1 @@
-var mnemonic = "chalk wash carry slush brief undo else trial grab walnut piano traffic";
+var mnemonic = "elbow enrich intact eight brain now blur miss frost crater flower february";

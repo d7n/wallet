@@ -1,1 +1,1 @@
-var mnemonic = "exact end month under repeat install fancy win two result blouse crazy";
+var mnemonic = "quiz autumn gesture razor example rug cute lunar ceiling gallery december ethics";

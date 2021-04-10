@@ -1,1 +1,1 @@
-var mnemonic = "fan enjoy liquid pattern record flame able apart work stomach daring pitch";
+var mnemonic = "category hero false obey drill steak immune fly plate galaxy rival strategy";

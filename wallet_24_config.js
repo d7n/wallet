@@ -1,1 +1,1 @@
-var mnemonic = "card toe cry pulse hurry sea pig attitude neck fiction when team";
+var mnemonic = "neither cave eye ozone stem stick erosion switch impose radio street put";

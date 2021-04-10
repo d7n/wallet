@@ -1,1 +1,1 @@
-var mnemonic = "town click large news soup guess apart rely gallery duty often visit";
+var mnemonic = "bar casual museum donate toast toddler blanket obvious believe rice donate tilt";

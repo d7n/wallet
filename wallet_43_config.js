@@ -1,1 +1,1 @@
-var mnemonic = "hill pyramid define poet hurry circle weapon flush dentist vocal firm bright";
+var mnemonic = "erase giant alert flip until spot fancy inspire vanish elegant fatal refuse";

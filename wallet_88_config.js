@@ -1,1 +1,1 @@
-var mnemonic = "degree screen release vote collect canyon heart two copper stick garbage palace";
+var mnemonic = "vocal planet churn legal satoshi guitar forest eternal moment fee security essay";

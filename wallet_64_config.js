@@ -1,1 +1,1 @@
-var mnemonic = "aspect client review shoulder shine drift shoot tattoo good enact battle fade";
+var mnemonic = "skill now nephew height loud palm piece resemble wrap cave office involve";

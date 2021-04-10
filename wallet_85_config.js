@@ -1,1 +1,1 @@
-var mnemonic = "there alert deal shrimp sword engage habit wife ketchup picnic clay social";
+var mnemonic = "stable puzzle demise pool sport gun pen present pretty burst deal scale";

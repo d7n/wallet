@@ -1,1 +1,1 @@
-var mnemonic = "voyage million horse dinner panic harsh praise dawn cousin ahead glide spot";
+var mnemonic = "van fix mirror undo dawn wait jaguar seed yard bar toast trick";

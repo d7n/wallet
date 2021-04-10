@@ -1,1 +1,1 @@
-var mnemonic = "cool west fluid giggle nice embark fatal robust angry rebuild file gauge";
+var mnemonic = "luxury collect increase note caution later turkey future chaos swing wave lava";

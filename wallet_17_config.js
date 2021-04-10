@@ -1,1 +1,1 @@
-var mnemonic = "escape reveal predict honey egg ginger august sport loyal fruit oxygen peace";
+var mnemonic = "gaze trash country travel elder depart used trust demand venue used outer";

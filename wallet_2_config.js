@@ -1,1 +1,1 @@
-var mnemonic = "work lava mixed bubble category fetch bread juice festival swallow mammal online";
+var mnemonic = "wide rhythm retire elbow quantum firm icon assist carpet elbow borrow brisk";

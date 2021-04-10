@@ -1,1 +1,1 @@
-var mnemonic = "multiply naive flee punch blouse observe toddler hire sting potato lake palace";
+var mnemonic = "metal exist entire orient demand hip canyon state dutch box indicate wheat";

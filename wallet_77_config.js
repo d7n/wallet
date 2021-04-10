@@ -1,1 +1,1 @@
-var mnemonic = "million sorry movie gesture laugh runway resource banana life universe ankle enter";
+var mnemonic = "sand disease area betray bless board more sheriff faint person cart coconut";

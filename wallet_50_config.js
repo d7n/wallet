@@ -1,1 +1,1 @@
-var mnemonic = "nest peasant object mask company fee mushroom stage weasel spread spider nest";
+var mnemonic = "foil horse estate expire truly trash tower quality degree onion sunset marriage";

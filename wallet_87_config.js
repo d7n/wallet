@@ -1,1 +1,1 @@
-var mnemonic = "fruit urban sleep sound square nurse void salt tennis earth cliff divide";
+var mnemonic = "fame tide device cycle connect error legal woman depart liberty connect among";

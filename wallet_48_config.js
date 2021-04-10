@@ -1,1 +1,1 @@
-var mnemonic = "notice two essay empty win salt limb divert sister expose pull neck";
+var mnemonic = "actual subject moon bonus leader twice uniform pumpkin property ordinary giggle excuse";

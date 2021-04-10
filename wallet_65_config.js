@@ -1,1 +1,1 @@
-var mnemonic = "jump alpha wedding over ensure over hurry route blast fix raise range";
+var mnemonic = "consider link jump mom trumpet camera reunion exercise index unveil battle lab";

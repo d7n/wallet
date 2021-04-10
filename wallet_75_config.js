@@ -1,1 +1,1 @@
-var mnemonic = "assault evidence session peasant artist crystal quit only master tell honey clump";
+var mnemonic = "moral miracle stomach file next knee dumb violin unhappy fold confirm rebel";

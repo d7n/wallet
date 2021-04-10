@@ -1,1 +1,1 @@
-var mnemonic = "night correct saddle insect six cricket rug river salmon era lucky base";
+var mnemonic = "loop delay iron coffee artist march skin fall believe marriage hint spider";

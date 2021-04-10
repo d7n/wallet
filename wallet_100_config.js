@@ -1,1 +1,1 @@
-var mnemonic = "arena goose cargo soul half clean feature leopard inquiry solve foot flower";
+var mnemonic = "tribe cigar garlic mistake enroll treat flock cruise candy immune delay pledge";

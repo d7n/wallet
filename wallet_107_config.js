@@ -1,1 +1,1 @@
-var mnemonic = "smart panic document expand evil fire sample forum old earth afraid gym";
+var mnemonic = "kite culture daughter end lady glass term lyrics decrease lobster initial equip";

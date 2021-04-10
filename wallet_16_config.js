@@ -1,1 +1,1 @@
-var mnemonic = "over dizzy garden visual manage allow season update height light dust slight";
+var mnemonic = "army jacket quantum outdoor sure grief door deny scheme mule note popular";

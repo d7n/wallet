@@ -1,1 +1,1 @@
-var mnemonic = "pact jelly surface main frost trip april destroy marriage sail action cost";
+var mnemonic = "pitch during crisp capable amount talk sibling equip shift drill glare range";

@@ -1,1 +1,1 @@
-var mnemonic = "horn bless cup initial worth business uniform labor ramp slice approve tooth";
+var mnemonic = "shrug hollow primary river party slam raccoon sea common void eternal team";

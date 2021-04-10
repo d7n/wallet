@@ -1,1 +1,1 @@
-var mnemonic = "ramp click work zebra rotate funny erupt dismiss winter member figure motion";
+var mnemonic = "jealous super civil night sell federal tiny enroll eternal again hire fine";

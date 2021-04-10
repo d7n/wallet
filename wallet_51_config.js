@@ -1,1 +1,1 @@
-var mnemonic = "dynamic social give public conduct subject girl suffer debris prefer spin cross";
+var mnemonic = "crisp omit captain model balance naive lemon salon need save shock step";

@@ -1,1 +1,1 @@
-var mnemonic = "wait slide worry alpha shock ball crater alien fault goat basic leave";
+var mnemonic = "person north human wife test arena equal business woman october true ugly";

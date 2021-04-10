@@ -1,1 +1,1 @@
-var mnemonic = "garlic decorate rapid rifle pulp ride else blush globe rail bike humor";
+var mnemonic = "release festival bid base equip topple brush throw robust drum maze science";

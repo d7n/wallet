@@ -1,1 +1,1 @@
-var mnemonic = "element rapid satisfy conduct resemble tomato young message beyond flight ride crazy";
+var mnemonic = "coyote bus behind minimum void elevator obvious exhaust team level fiscal panther";

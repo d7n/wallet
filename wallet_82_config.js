@@ -1,1 +1,1 @@
-var mnemonic = "tree service someone health sausage note section dream height unhappy praise buffalo";
+var mnemonic = "used near royal spike fat upgrade wise useful mandate sound ripple jar";

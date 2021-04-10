@@ -1,1 +1,1 @@
-var mnemonic = "orient chimney then saddle judge volcano draw real manual affair kind giggle";
+var mnemonic = "dumb chair steel become tilt grunt cherry method trash copper flash physical";

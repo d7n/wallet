@@ -1,1 +1,1 @@
-var mnemonic = "cheap drive cheap wheel debate remain roof battle source blouse cruise orient";
+var mnemonic = "suffer post cliff sing unique pony large chat deputy borrow shrimp update";

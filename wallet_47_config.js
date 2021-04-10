@@ -1,1 +1,1 @@
-var mnemonic = "police industry theory toast eager pool panther logic pretty rotate letter client";
+var mnemonic = "electric fever able divert pony harsh dirt organ autumn sniff tilt science";

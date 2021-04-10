@@ -1,1 +1,1 @@
-var mnemonic = "army dinosaur sadness art cotton awesome expect merge cost kit rack attract";
+var mnemonic = "claim review gun asthma bomb race install humble senior garden tone sketch";

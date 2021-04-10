@@ -1,1 +1,1 @@
-var mnemonic = "fun monster lift salt wine romance burger mean kidney recipe team cool";
+var mnemonic = "strike lift fee echo antique jaguar exclude brush object funny output tape";

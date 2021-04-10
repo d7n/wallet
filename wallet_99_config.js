@@ -1,1 +1,1 @@
-var mnemonic = "deputy lion outdoor orient weasel cereal welcome tissue under argue casual focus";
+var mnemonic = "mass ten term scare wall mobile suit vintage estate news room iron";

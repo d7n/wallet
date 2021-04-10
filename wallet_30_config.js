@@ -1,1 +1,1 @@
-var mnemonic = "drink radar brick teach relax bike tongue citizen enter hen element weapon";
+var mnemonic = "slight beef sort matter sing bachelor record scrap survey giraffe body good";

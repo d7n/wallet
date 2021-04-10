@@ -1,1 +1,1 @@
-var mnemonic = "tooth bean maple utility north lab into deny useless wrong phrase result";
+var mnemonic = "half news hunt tiger town tiger anxiety erode picnic trial electric loop";

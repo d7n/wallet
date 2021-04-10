@@ -1,1 +1,1 @@
-var mnemonic = "sick extra soccer involve fresh junior potato coach false follow brick lazy";
+var mnemonic = "razor also earth accident theme quantum supply select glance night chase alley";

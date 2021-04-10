@@ -1,1 +1,1 @@
-var mnemonic = "hair reject vault mammal power snake split must toward tumble uphold rain";
+var mnemonic = "sadness grief seminar gadget witness submit dance fee width trumpet actual sure";

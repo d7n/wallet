@@ -1,1 +1,1 @@
-var mnemonic = "horse dinner festival monster calm shadow mimic moral era cage mirror mirror";
+var mnemonic = "afford judge target mango manage rally spray bridge fox yellow wash lumber";

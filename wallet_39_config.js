@@ -1,1 +1,1 @@
-var mnemonic = "wet torch clog once extend mom young unlock exotic surprise divide spawn";
+var mnemonic = "imitate share blast acquire cherry expire gospel lonely area rude upper chair";

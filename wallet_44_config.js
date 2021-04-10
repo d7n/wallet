@@ -1,1 +1,1 @@
-var mnemonic = "swamp human company border squirrel light path dawn weird rally spend during";
+var mnemonic = "ugly main usage announce harbor spike smart drip oxygen ceiling tiger maid";

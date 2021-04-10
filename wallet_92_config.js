@@ -1,1 +1,1 @@
-var mnemonic = "stereo patch grunt immune fault sorry churn build butter ask rural ask";
+var mnemonic = "reveal elbow post swing amused salmon lounge lazy century gentle rug endorse";

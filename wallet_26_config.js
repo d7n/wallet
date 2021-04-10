@@ -1,1 +1,1 @@
-var mnemonic = "symbol sort cool ability joke satisfy industry enhance cart grape silly credit";
+var mnemonic = "call month giraffe strategy clown aware scissors bulk wife refuse outdoor lemon";

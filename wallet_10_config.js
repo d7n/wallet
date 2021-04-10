@@ -1,1 +1,1 @@
-var mnemonic = "kit battle viable green civil banner subject protect filter blood sick burden";
+var mnemonic = "grow quit fish point flower process legal employ cause negative camera wheel";

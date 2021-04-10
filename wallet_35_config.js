@@ -1,1 +1,1 @@
-var mnemonic = "remove false what jump slim now screen magnet action vocal roof car";
+var mnemonic = "tackle blur thrive arrow crazy nature bubble number fruit tragic secret inch";

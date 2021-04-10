@@ -1,1 +1,1 @@
-var mnemonic = "detect fiscal glare iron dose civil donate inquiry junk enroll hire practice";
+var mnemonic = "small eye news vintage moment trophy cement narrow pass web leisure morning";

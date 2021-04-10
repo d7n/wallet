@@ -1,1 +1,1 @@
-var mnemonic = "ball antenna dish lounge dilemma payment disease tool report rack cannon vivid";
+var mnemonic = "strike lesson sentence mammal tent heart depth depart trap clap liberty scout";

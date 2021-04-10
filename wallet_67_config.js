@@ -1,1 +1,1 @@
-var mnemonic = "better security actual mountain practice giggle can valve illness digital inquiry habit";
+var mnemonic = "garlic army wheel almost adapt among wink scout safe sure text miss";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow obscure remain lizard fog symbol celery surge champion giraffe float injury";
+var mnemonic = "asset life forward breeze gadget zebra pyramid move income border tongue wealth";

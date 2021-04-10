@@ -1,1 +1,1 @@
-var mnemonic = "illness voyage call asthma build stairs sibling pony shell ivory alcohol color";
+var mnemonic = "analyst erosion differ thank easily wash know width reflect club pelican typical";

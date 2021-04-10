@@ -1,1 +1,1 @@
-var mnemonic = "carry virtual fee curtain clump return motor spray lonely receive fit priority";
+var mnemonic = "flock uphold venture whale consider crawl pyramid outer double decline attract magnet";

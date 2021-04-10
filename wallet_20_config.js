@@ -1,1 +1,1 @@
-var mnemonic = "sister trust stable kid fault bubble gossip puzzle party coconut library bunker";
+var mnemonic = "dust size indoor deal border satoshi bright employ cushion crew balcony service";

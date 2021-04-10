@@ -1,1 +1,1 @@
-var mnemonic = "stuff panther balance divert shield report alone runway month flush pair decrease";
+var mnemonic = "blush tackle knife interest gown youth ecology crime broken diagram admit increase";

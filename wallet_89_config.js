@@ -1,1 +1,1 @@
-var mnemonic = "split original feel tattoo auto bronze rocket capable arrow inquiry develop police";
+var mnemonic = "trick jazz express van accuse punch frame essence above curtain mushroom consider";

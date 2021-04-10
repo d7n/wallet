@@ -1,1 +1,1 @@
-var mnemonic = "surface position salt south make pizza depend seven goat harsh depend practice";
+var mnemonic = "post exist trend exclude layer cannon coconut poem copy theory cable canyon";

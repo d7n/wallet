@@ -1,1 +1,1 @@
-var mnemonic = "comic random shallow unfair seven benefit farm answer knock maximum catalog old";
+var mnemonic = "milk lottery key assault biology grant thunder lumber anger jazz popular start";

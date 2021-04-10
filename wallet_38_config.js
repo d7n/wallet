@@ -1,1 +1,1 @@
-var mnemonic = "quiz term athlete awful fuel glimpse sphere depart slender priority blur calm";
+var mnemonic = "square organ cement fiscal sadness such dog lava plunge chest action chat";

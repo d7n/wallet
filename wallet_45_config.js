@@ -1,1 +1,1 @@
-var mnemonic = "bunker annual neck prefer virtual grace access time crawl yellow silent chat";
+var mnemonic = "bachelor quantum border verify clock length exist host elite example hand right";

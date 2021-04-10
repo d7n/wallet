@@ -1,1 +1,1 @@
-var mnemonic = "also grain cotton clay glow mandate horror raven perfect purchase nose furnace";
+var mnemonic = "stadium glimpse omit sword hold hunt acid tornado panel style weasel cherry";

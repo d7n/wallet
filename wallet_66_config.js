@@ -1,1 +1,1 @@
-var mnemonic = "force paddle worry slim spray patient version honey insect chase unknown walnut";
+var mnemonic = "canoe replace gold follow repair reflect suffer unlock dust solve town ready";

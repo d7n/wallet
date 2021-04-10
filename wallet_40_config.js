@@ -1,1 +1,1 @@
-var mnemonic = "aisle crater artist lobster engage loan mammal captain mouse wedding donkey spoil";
+var mnemonic = "reward waste cat pretty one bottom burden arena cloth job burst bright";

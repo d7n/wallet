@@ -1,1 +1,1 @@
-var mnemonic = "invest faculty because gentle grow mixture alone sad rail jeans odor west";
+var mnemonic = "version utility donate side obey lawsuit frozen law churn stand opera deputy";

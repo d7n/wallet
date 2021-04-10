@@ -1,1 +1,1 @@
-var mnemonic = "aware million input mountain fringe fringe village solution system puzzle attend enlist";
+var mnemonic = "chase mention security coast cake vessel aisle weasel motor chair road virtual";

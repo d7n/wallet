@@ -1,1 +1,1 @@
-var mnemonic = "sense essay produce concert robot alone firm size title library later below";
+var mnemonic = "couch little direct squirrel horror goat cinnamon favorite clever kick clutch first";

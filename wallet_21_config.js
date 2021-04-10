@@ -1,1 +1,1 @@
-var mnemonic = "curious rebel sing chronic vendor country weather ordinary bubble seed afford bean";
+var mnemonic = "sentence chaos reward stool boy recall blue purse left citizen shed tape";

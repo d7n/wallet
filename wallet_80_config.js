@@ -1,1 +1,1 @@
-var mnemonic = "gloom wrist eternal glance eight rice usual force velvet visual crowd mushroom";
+var mnemonic = "task minor divert emerge taste sure analyst topple bring barely place dignity";

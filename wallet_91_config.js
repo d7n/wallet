@@ -1,1 +1,1 @@
-var mnemonic = "base use despair coral marriage assist sand around brown interest crew kite";
+var mnemonic = "tide insane despair secret chair pact term auto swallow address flag fragile";

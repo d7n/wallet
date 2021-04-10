@@ -1,1 +1,1 @@
-var mnemonic = "toilet tail across edge wrist hundred magnet put crystal tomato apart shrug";
+var mnemonic = "spike forget allow proof royal sudden modify oyster sting rubber deal ketchup";

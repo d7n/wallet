@@ -1,1 +1,1 @@
-var mnemonic = "burger soda gasp check cat case mix law protect memory street river";
+var mnemonic = "people travel vault solve print pumpkin section pony monster sick check message";

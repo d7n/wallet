@@ -1,1 +1,1 @@
-var mnemonic = "trim chunk fiction print labor olympic page pink text alter junk say";
+var mnemonic = "glide home gap imitate slam cruel dash load equip improve people gold";

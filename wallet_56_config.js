@@ -1,1 +1,1 @@
-var mnemonic = "forest border will interest cry divide guilt million charge blanket begin steel";
+var mnemonic = "frost milk rough hope brief float hill turn fish father warrior nut";

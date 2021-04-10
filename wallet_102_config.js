@@ -1,1 +1,1 @@
-var mnemonic = "exhaust rely audit message engage sister world proud dust dad milk tornado";
+var mnemonic = "cloth hidden gospel slush erase tomato concert alley bullet bamboo gesture wall";

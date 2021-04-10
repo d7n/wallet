@@ -1,1 +1,1 @@
-var mnemonic = "hill lucky isolate west duck equip private small you often fabric alpha";
+var mnemonic = "table laugh mammal language boy voice three sniff mad injury void van";

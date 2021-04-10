@@ -1,1 +1,1 @@
-var mnemonic = "review dance clog tube reunion foot assist laptop dream praise uncle puppy";
+var mnemonic = "inner bitter evolve under foster follow uniform canal cherry own journey file";

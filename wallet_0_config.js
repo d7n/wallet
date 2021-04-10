@@ -1,1 +1,1 @@
-var mnemonic = "midnight effort barrel reform fine fitness clock chunk donate fix wheel enough";
+var mnemonic = "ginger blast release evoke enroll harvest ecology web sustain catch license naive";

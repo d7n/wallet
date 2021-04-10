@@ -1,1 +1,1 @@
-var mnemonic = "change tube fall robust avocado kitchen curve first cigar cliff law mind";
+var mnemonic = "wrestle chief omit march crop patch deer attend fire tumble weasel pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "once effort word actor artwork escape denial cheese fever wonder absurd girl";
+var mnemonic = "void broom involve style unaware fault uniform sand buzz human lesson eyebrow";
