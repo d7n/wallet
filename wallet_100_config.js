@@ -1,1 +1,1 @@
-var mnemonic = "motion wreck balcony engine dynamic conduct slogan suffer under track maid proof";
+var mnemonic = "devote gap escape exit pelican decide rack width fatigue grab tumble truck";

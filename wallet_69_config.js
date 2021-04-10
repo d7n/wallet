@@ -1,1 +1,1 @@
-var mnemonic = "fiber faculty response various execute two session venture unveil situate wish where";
+var mnemonic = "budget alone crime syrup garment extend guilt fault happy affair panther real";

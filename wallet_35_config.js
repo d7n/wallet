@@ -1,1 +1,1 @@
-var mnemonic = "vehicle marine embody goat idle parrot water water weasel remember multiply output";
+var mnemonic = "similar debris buyer strong memory steel issue clip image magnet poet audit";

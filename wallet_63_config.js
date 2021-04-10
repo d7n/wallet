@@ -1,1 +1,1 @@
-var mnemonic = "usual pistol ugly party east adapt tip salt heart license reopen oak";
+var mnemonic = "mouse notice loan prize actress audit biology tip ball ankle chalk consider";

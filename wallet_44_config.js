@@ -1,1 +1,1 @@
-var mnemonic = "notice radio paddle pretty frog barrel human dad settle head shaft shove";
+var mnemonic = "picnic box thing ancient coast amused apart inhale venture cash audit puppy";

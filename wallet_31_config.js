@@ -1,1 +1,1 @@
-var mnemonic = "slender culture quote off over grief genre noodle remain express zebra route";
+var mnemonic = "inject boy tape noise sniff horse tomato limit inquiry pottery february open";

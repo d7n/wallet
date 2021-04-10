@@ -1,1 +1,1 @@
-var mnemonic = "labor crumble sun unit whisper color will man journey cluster ankle property";
+var mnemonic = "invest burden alarm luxury utility ugly rent van beyond response square exhibit";

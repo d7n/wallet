@@ -1,1 +1,1 @@
-var mnemonic = "bundle people work rib junk shield control snow old horn pill swift";
+var mnemonic = "stumble airport depart jaguar birth sorry venture balcony say fold diagram portion";

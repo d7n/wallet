@@ -1,1 +1,1 @@
-var mnemonic = "stage senior young expand cash suffer decorate seek giant hood source head";
+var mnemonic = "collect load climb deliver artist napkin labor excite shaft wool what sand";

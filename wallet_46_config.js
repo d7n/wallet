@@ -1,1 +1,1 @@
-var mnemonic = "various nothing ladder maple scatter gauge omit luxury sail suspect test guess";
+var mnemonic = "book swamp any follow brave industry panther gallery report engine equal exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "energy enable solar nice suit middle west recycle innocent suggest artist injury";
+var mnemonic = "normal stick resist curtain test street ill drill seed lazy void miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure surprise moral acid flower near flight rescue patient bracket inside admit";
+var mnemonic = "frozen border twelve enjoy visit pool topic appear slot decline slender theory";

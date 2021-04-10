@@ -1,1 +1,1 @@
-var mnemonic = "music width syrup dignity dignity quick short super primary bunker valve canoe";
+var mnemonic = "caught powder alpha oyster cigar sword under firm assault vital cliff arrow";

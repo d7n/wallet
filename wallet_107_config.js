@@ -1,1 +1,1 @@
-var mnemonic = "sunset rack limb access water assume collect salmon physical assume miracle cable";
+var mnemonic = "brother loud climb caution clay assist discover slab humble skull early nose";

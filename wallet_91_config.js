@@ -1,1 +1,1 @@
-var mnemonic = "search mystery injury tooth camp miracle vibrant exhibit finger tuna bullet among";
+var mnemonic = "horn document venue impose wise verb section promote summer donkey you route";

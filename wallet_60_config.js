@@ -1,1 +1,1 @@
-var mnemonic = "amazing luxury reduce congress marine acoustic render you danger matrix puppy excess";
+var mnemonic = "glare biology click boy express either punch head fury hobby exchange lazy";

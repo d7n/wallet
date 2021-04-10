@@ -1,1 +1,1 @@
-var mnemonic = "second sunny meadow expose ski dignity base return shrug special purpose wonder";
+var mnemonic = "leisure bless business lens arrive chase cotton axis best hover reduce viable";

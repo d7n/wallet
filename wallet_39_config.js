@@ -1,1 +1,1 @@
-var mnemonic = "trade wash crater capital occur grain small under photo march allow gorilla";
+var mnemonic = "subway bamboo runway mean monkey issue goat pool master acquire cool slogan";

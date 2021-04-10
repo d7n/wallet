@@ -1,1 +1,1 @@
-var mnemonic = "cream bench indicate warfare evolve door dish section help unlock crumble surge";
+var mnemonic = "print smile image settle cat recipe harvest armor butter forest vast actor";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese knee betray crazy extend cactus nose letter lens ripple canvas boost";
+var mnemonic = "purse allow pupil peasant deer thrive mimic organ edge assist reward among";

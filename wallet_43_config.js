@@ -1,1 +1,1 @@
-var mnemonic = "large unit electric romance chaos trash course advice jar tooth crop laptop";
+var mnemonic = "silly little hello twenty inquiry waste jazz clog above term rapid trade";

@@ -1,1 +1,1 @@
-var mnemonic = "entire meat finish wear appear honey pilot liquid crush tail meadow current";
+var mnemonic = "dice brown page couple dice echo lens fossil office intact sad catalog";

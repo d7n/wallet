@@ -1,1 +1,1 @@
-var mnemonic = "hood need desert author wrong stairs radio exchange guilt embody situate own";
+var mnemonic = "retreat black champion culture solution gloom sun donate glow world patch purity";

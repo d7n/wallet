@@ -1,1 +1,1 @@
-var mnemonic = "patient rubber recall vendor evidence book antenna lobster they crime gloom mind";
+var mnemonic = "culture canoe waste rate forum stamp exotic music uncle celery brief goddess";

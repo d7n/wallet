@@ -1,1 +1,1 @@
-var mnemonic = "movie vivid refuse wife diagram pilot notice tell still erase ensure entire";
+var mnemonic = "fiber horn enhance crop sample panic rotate village cherry tiger erode ticket";

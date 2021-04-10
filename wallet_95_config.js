@@ -1,1 +1,1 @@
-var mnemonic = "high scene lens autumn hair monster curious poem pitch tiny grace orbit";
+var mnemonic = "craft final dragon say turkey chair sketch found traffic arch notice social";

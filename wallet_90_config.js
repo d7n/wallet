@@ -1,1 +1,1 @@
-var mnemonic = "forum erase merit drama save whisper lion satisfy trash buffalo sun job";
+var mnemonic = "wish rigid matrix inject soda anxiety quarter gossip teach job police huge";

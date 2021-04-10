@@ -1,1 +1,1 @@
-var mnemonic = "hood journey hazard permit trade social index detect rare claw salad sword";
+var mnemonic = "jewel bird cash print inherit glow grab wool rain base fever mechanic";

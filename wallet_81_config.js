@@ -1,1 +1,1 @@
-var mnemonic = "lift produce before animal tape dove reform happy scrap anxiety hip just";
+var mnemonic = "major pear grief cattle future sustain human absent enroll ball sausage draw";

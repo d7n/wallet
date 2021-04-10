@@ -1,1 +1,1 @@
-var mnemonic = "cash neither achieve venue ability elegant assume leopard beyond vintage pottery program";
+var mnemonic = "faint now witness recall tag truth sea mansion powder perfect disagree cherry";

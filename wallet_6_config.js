@@ -1,1 +1,1 @@
-var mnemonic = "script duty toe artwork enjoy plug indoor hip monkey gentle vintage make";
+var mnemonic = "stadium recycle again envelope donkey wish oyster runway excite arctic affair door";

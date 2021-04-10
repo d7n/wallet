@@ -1,1 +1,1 @@
-var mnemonic = "essay stem patch crew table oven cost midnight about word law deny";
+var mnemonic = "say tuna gym lock dad exist neither eagle good vintage body erode";

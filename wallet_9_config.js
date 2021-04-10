@@ -1,1 +1,1 @@
-var mnemonic = "mass dragon avoid assault piano settle wet hotel unveil foster sample axis";
+var mnemonic = "rib hurt grunt fabric tag check gorilla gun extend amount kite tunnel";

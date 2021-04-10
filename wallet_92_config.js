@@ -1,1 +1,1 @@
-var mnemonic = "friend notice track dirt slice picnic expand hire milk remind electric pause";
+var mnemonic = "orbit enroll lounge slam liberty front april balcony fish noodle essay bargain";

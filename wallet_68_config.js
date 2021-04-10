@@ -1,1 +1,1 @@
-var mnemonic = "public advance quiz digital december select tribe country laugh clutch mixture safe";
+var mnemonic = "hero bread people pudding galaxy tongue finger remain doctor glance sound pony";

@@ -1,1 +1,1 @@
-var mnemonic = "roast print category bullet cable hurdle jeans domain shine aunt bridge again";
+var mnemonic = "frown gesture prevent moral satoshi short win garden repair elegant phrase eagle";

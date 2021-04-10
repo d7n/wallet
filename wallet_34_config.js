@@ -1,1 +1,1 @@
-var mnemonic = "pioneer you play monkey check beef submit defy prison husband struggle chase";
+var mnemonic = "world sign version female genius device focus sound source belt daughter crouch";

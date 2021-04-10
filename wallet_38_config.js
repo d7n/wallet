@@ -1,1 +1,1 @@
-var mnemonic = "deputy coffee shoot monitor pigeon angry fox enforce siren prison shoulder moral";
+var mnemonic = "laptop hockey dragon pause good afraid fit cream diamond ankle option escape";

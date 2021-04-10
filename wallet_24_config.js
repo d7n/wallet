@@ -1,1 +1,1 @@
-var mnemonic = "bitter produce cave soft arrange siren plug theory define timber ribbon sudden";
+var mnemonic = "roast rate enjoy ice poem walnut pepper finger live pottery royal minute";

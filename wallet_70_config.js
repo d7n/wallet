@@ -1,1 +1,1 @@
-var mnemonic = "option first theory fluid check wage sight exit daring drama trumpet arrive";
+var mnemonic = "below canoe little hamster banner alarm sister truly mammal sun remain advice";

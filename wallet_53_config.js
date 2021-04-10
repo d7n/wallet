@@ -1,1 +1,1 @@
-var mnemonic = "day sing antenna square ski betray ordinary secret similar riot victory lift";
+var mnemonic = "three ethics someone badge fun weapon ribbon lens sphere clog volcano review";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow extra love check margin notable lady waste another shy bulb tape";
+var mnemonic = "bonus leader faint diary brass fault shiver box dolphin pistol lab brown";

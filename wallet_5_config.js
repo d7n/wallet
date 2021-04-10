@@ -1,1 +1,1 @@
-var mnemonic = "poverty host remember canal shallow glide health foil lake path behind scissors";
+var mnemonic = "surprise utility forward island punch kite mean mystery neck action foster mention";

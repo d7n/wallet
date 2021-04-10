@@ -1,1 +1,1 @@
-var mnemonic = "whisper salmon arm airport skirt duty skate must short icon garlic outside";
+var mnemonic = "filter audit shoot hobby fold unaware force panel custom decorate first bag";

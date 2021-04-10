@@ -1,1 +1,1 @@
-var mnemonic = "elephant convince garlic pave crawl cave dash chef victory lumber soul clarify";
+var mnemonic = "wife vehicle bachelor final law glory owner prize wrestle boring future face";

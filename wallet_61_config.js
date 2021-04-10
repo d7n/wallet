@@ -1,1 +1,1 @@
-var mnemonic = "shuffle engage coral fold people cry manage flavor punch quiz wise repair";
+var mnemonic = "coral shoe boy tube response diagram faculty charge dune injury floor shrimp";

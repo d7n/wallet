@@ -1,1 +1,1 @@
-var mnemonic = "surface position audit axis toddler twelve stock you solid unknown mercy between";
+var mnemonic = "float coral mixed unique wreck test broom taste shed cactus remain actress";

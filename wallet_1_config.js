@@ -1,1 +1,1 @@
-var mnemonic = "orphan inherit idle prepare glue current season pipe remember behave advice false";
+var mnemonic = "trick patrol vapor resist earn universe design royal claim spoil boil clump";

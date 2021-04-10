@@ -1,1 +1,1 @@
-var mnemonic = "company affair power egg tip brush october grab lucky solution bike plate";
+var mnemonic = "rebel napkin simple excite dance burst occur latin elegant coral way apple";

@@ -1,1 +1,1 @@
-var mnemonic = "earth jeans giant safe other barely isolate used female shop tourist help";
+var mnemonic = "net task what maid obvious snap enjoy file hood square board input";

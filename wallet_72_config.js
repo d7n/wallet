@@ -1,1 +1,1 @@
-var mnemonic = "foot seek arrange range book nephew payment squeeze soft document scatter trip";
+var mnemonic = "exist cake injury chalk key live common find quarter mail diet reward";

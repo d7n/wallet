@@ -1,1 +1,1 @@
-var mnemonic = "measure clinic tunnel upon solve nose exact citizen swear dilemma guide area";
+var mnemonic = "napkin private since coach borrow engage bike trip similar alien pause plug";

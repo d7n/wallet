@@ -1,1 +1,1 @@
-var mnemonic = "loud night scale dirt essay liquid ask virtual expire elite fresh bridge";
+var mnemonic = "job conduct cram eyebrow embrace slight poem size bonus dog fork always";

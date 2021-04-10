@@ -1,1 +1,1 @@
-var mnemonic = "urge yard clown snack affair glimpse network fiber guitar enforce sense ship";
+var mnemonic = "poverty eight couch collect crowd mad hunt endorse defy spray aim syrup";

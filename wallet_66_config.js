@@ -1,1 +1,1 @@
-var mnemonic = "world hungry parade worry again fog forest question sure leave large phrase";
+var mnemonic = "build reunion extend adult drill between track finish team grow pattern collect";

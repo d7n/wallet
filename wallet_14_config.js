@@ -1,1 +1,1 @@
-var mnemonic = "supply ankle wife debate ankle earn film target ship laundry year cost";
+var mnemonic = "metal myself album stick pink artefact census zero wealth control wing squeeze";

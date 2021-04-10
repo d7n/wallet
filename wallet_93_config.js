@@ -1,1 +1,1 @@
-var mnemonic = "normal aunt shed copy grid transfer page resource brave fossil dress angry";
+var mnemonic = "dismiss visa attack awful square figure potato canvas giraffe inherit blame good";

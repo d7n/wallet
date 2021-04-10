@@ -1,1 +1,1 @@
-var mnemonic = "sport cactus time bitter cluster car custom ensure cactus field genius theme";
+var mnemonic = "raise reunion distance cute lonely receive narrow aware flash nut second raw";

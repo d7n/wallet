@@ -1,1 +1,1 @@
-var mnemonic = "young magic suit food beyond alone caught lyrics stereo assault collect impose";
+var mnemonic = "lawn neither dizzy snake call balance pause guilt wet change rotate slight";

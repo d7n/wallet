@@ -1,1 +1,1 @@
-var mnemonic = "word spawn banana ginger utility genre story feel topic devote fox lawsuit";
+var mnemonic = "write damp twice stone tool luggage fragile near clock sister biology impact";

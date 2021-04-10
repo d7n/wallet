@@ -1,1 +1,1 @@
-var mnemonic = "insane blur soup finish doctor month electric glove antenna quit guilt radio";
+var mnemonic = "actor pulp vault student episode suggest rally way damp peanut okay harvest";

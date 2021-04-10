@@ -1,1 +1,1 @@
-var mnemonic = "hero come tonight eager fire know swift shoulder federal gas sea hawk";
+var mnemonic = "group security tribe shrimp unusual dawn rack later snap sense help clerk";

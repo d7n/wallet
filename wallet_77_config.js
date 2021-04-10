@@ -1,1 +1,1 @@
-var mnemonic = "horror submit beauty bundle noble river certain person puppy dice advance crouch";
+var mnemonic = "shell coin agent decrease exercise roof hood alcohol treat buffalo include bus";

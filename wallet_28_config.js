@@ -1,1 +1,1 @@
-var mnemonic = "ask elite soldier spoon raw large hat goddess observe tape change sunny";
+var mnemonic = "mobile want avocado robot glare draft flavor bright fluid similar turkey oyster";

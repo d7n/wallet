@@ -1,1 +1,1 @@
-var mnemonic = "leopard risk child reunion sea winner coil hazard loud eternal vessel text";
+var mnemonic = "move pill permit width hamster situate dinosaur raw wide attitude wrap aim";

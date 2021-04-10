@@ -1,1 +1,1 @@
-var mnemonic = "state matrix inflict hire cup trade alien sauce valley also gown juice";
+var mnemonic = "choice maze lion emotion ceiling wrist skill attitude best wheat little word";

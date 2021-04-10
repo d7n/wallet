@@ -1,1 +1,1 @@
-var mnemonic = "use cube virus hungry mercy merge tired purity sing stumble rug fine";
+var mnemonic = "strong gossip lock path repair flush consider girl door roof evoke pipe";

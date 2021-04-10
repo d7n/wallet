@@ -1,1 +1,1 @@
-var mnemonic = "connect dutch mixture naive fever else core wink oil fluid husband shuffle";
+var mnemonic = "glass age today vague raven need stadium sugar iron awesome material uncover";

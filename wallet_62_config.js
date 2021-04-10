@@ -1,1 +1,1 @@
-var mnemonic = "kick leopard gesture lizard birth movie rib vessel deputy tiny marine mutual";
+var mnemonic = "correct chalk party attend install acquire nose jazz ball include enlist maid";

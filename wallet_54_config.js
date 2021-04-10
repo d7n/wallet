@@ -1,1 +1,1 @@
-var mnemonic = "energy cloud trick trust enrich potato just bachelor easily female glue arctic";
+var mnemonic = "spider enlist guilt bench refuse simple uniform gorilla theory guilt eagle three";

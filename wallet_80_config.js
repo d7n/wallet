@@ -1,1 +1,1 @@
-var mnemonic = "cave tilt robust jelly section meadow december olive leopard build wash pair";
+var mnemonic = "blind reveal acoustic rotate west retreat banner imitate fiber rookie cash during";

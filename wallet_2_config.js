@@ -1,1 +1,1 @@
-var mnemonic = "accuse unfair measure happy dutch main carry build nurse mule concert bag";
+var mnemonic = "traffic sing bleak patch hood cannon finger cable engine rough monster globe";

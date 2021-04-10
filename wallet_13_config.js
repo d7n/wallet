@@ -1,1 +1,1 @@
-var mnemonic = "dress vessel mean shrimp warrior funny inner bachelor enlist vanish sniff profit";
+var mnemonic = "swallow lazy loop wood owner shock detect balcony relief ridge rookie bright";

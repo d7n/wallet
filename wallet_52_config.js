@@ -1,1 +1,1 @@
-var mnemonic = "enact often goat gospel rug lucky crack man give improve dust wolf";
+var mnemonic = "warm evil steel author ginger dust survey october damage shove runway bitter";

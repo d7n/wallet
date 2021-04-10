@@ -1,1 +1,1 @@
-var mnemonic = "explain unaware intact face lonely satisfy bus meat derive warfare bid debate";
+var mnemonic = "swallow maximum ankle order husband sad alien cliff dog craft thrive army";

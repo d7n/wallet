@@ -1,1 +1,1 @@
-var mnemonic = "elephant diamond ripple valid brush float reunion struggle cram skirt acoustic barely";
+var mnemonic = "hen predict limb control electric jealous language pear leg noodle bomb december";

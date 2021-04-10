@@ -1,1 +1,1 @@
-var mnemonic = "absent between decrease survey insect helmet sure decline entry affair daring few";
+var mnemonic = "smile exact foam someone armor sniff load until reopen you glove taste";

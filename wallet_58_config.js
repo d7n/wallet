@@ -1,1 +1,1 @@
-var mnemonic = "mosquito suffer filter embrace hurry trim legend humble fix lady pride creek";
+var mnemonic = "convince derive alcohol wool erase cricket shine fish notable unusual buyer depth";

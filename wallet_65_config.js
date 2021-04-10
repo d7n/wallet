@@ -1,1 +1,1 @@
-var mnemonic = "also hard sketch else clever strike race rack van know parent near";
+var mnemonic = "helmet ocean route limb retreat damage bench enter hedgehog amount render eyebrow";

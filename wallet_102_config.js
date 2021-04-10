@@ -1,1 +1,1 @@
-var mnemonic = "scrub lonely box chicken unique dirt common dismiss since fee key solve";
+var mnemonic = "wisdom chef door notable rate fence reason viable sheriff dove pattern finger";

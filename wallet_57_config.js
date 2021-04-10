@@ -1,1 +1,1 @@
-var mnemonic = "rocket path solar palm hand brush narrow spirit evil misery carry fade";
+var mnemonic = "balance pond physical seek steak pepper stairs across silver ask they message";

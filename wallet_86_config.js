@@ -1,1 +1,1 @@
-var mnemonic = "wrestle foil abuse hazard uniform cushion ski person grass jar earth october";
+var mnemonic = "assist arm flash must pyramid dog error test erosion please solve caution";

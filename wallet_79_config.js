@@ -1,1 +1,1 @@
-var mnemonic = "pear auction gasp infant sadness fever smile teach desert endless process afford";
+var mnemonic = "spatial twelve virtual rent boil bird certain pistol pelican mail explain monkey";

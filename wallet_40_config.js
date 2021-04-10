@@ -1,1 +1,1 @@
-var mnemonic = "please resist deliver napkin grass cupboard jaguar enroll embrace wink few doctor";
+var mnemonic = "cactus october toss genius digital bundle verify cloud right pilot hurt fit";

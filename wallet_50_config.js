@@ -1,1 +1,1 @@
-var mnemonic = "pencil token peasant credit explain stock nest select armed market sister divert";
+var mnemonic = "rural coyote side element cake slot summer position afraid base crystal exist";

@@ -1,1 +1,1 @@
-var mnemonic = "above wink clever behind rose expire moon page emotion ice guide reveal";
+var mnemonic = "wisdom office cruise kitten whip identify elbow crazy notable awesome used pond";

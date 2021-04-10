@@ -1,1 +1,1 @@
-var mnemonic = "bacon shed open innocent ribbon hunt toss cup route cream pair cluster";
+var mnemonic = "couch doctor minute rug luggage sand item raw recipe harsh program indicate";

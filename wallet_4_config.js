@@ -1,1 +1,1 @@
-var mnemonic = "unusual vendor cat steel thought glory plate rather glare enact before wild";
+var mnemonic = "exhibit connect topple story jewel survey risk gaze runway daring brother grape";

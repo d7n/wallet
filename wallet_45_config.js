@@ -1,1 +1,1 @@
-var mnemonic = "blood sock accuse club eagle tobacco carry office interest fly sadness labor";
+var mnemonic = "unable wire old switch common harbor palm grit wolf auction piano phrase";
