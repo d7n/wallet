@@ -1,1 +1,1 @@
-var mnemonic = "syrup enlist wine state bless clay cake wheel sorry walk maid universe";
+var mnemonic = "suspect hospital slice glance old dice piano gauge napkin cluster almost decide";

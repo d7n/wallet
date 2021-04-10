@@ -1,1 +1,1 @@
-var mnemonic = "ride taste girl dinosaur rather false kiwi lounge physical thrive wild buffalo";
+var mnemonic = "toast present lemon shy talk mansion tooth wall employ artwork worth canoe";

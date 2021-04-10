@@ -1,1 +1,1 @@
-var mnemonic = "okay pulp demand crowd fury fit kitten habit liquid web bleak word";
+var mnemonic = "wave resist beyond drink traffic coach skin series cake saddle grant negative";

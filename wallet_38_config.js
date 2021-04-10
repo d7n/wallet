@@ -1,1 +1,1 @@
-var mnemonic = "country runway surge bonus inform middle debris ladder memory total problem tortoise";
+var mnemonic = "settle actor relax tank orient blanket park episode position long clay rebel";

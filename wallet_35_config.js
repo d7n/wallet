@@ -1,1 +1,1 @@
-var mnemonic = "useful auction nuclear salute add damage large deputy pink supply polar source";
+var mnemonic = "embrace away nose funny young rhythm accident anger ahead wrap fiction leader";

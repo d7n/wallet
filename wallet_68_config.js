@@ -1,1 +1,1 @@
-var mnemonic = "faint pig recall alley dune grass december fiber crack pulp noble tennis";
+var mnemonic = "spin please drum parent attack vicious stone diamond enact naive absorb diary";

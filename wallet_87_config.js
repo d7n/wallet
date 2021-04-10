@@ -1,1 +1,1 @@
-var mnemonic = "unhappy please height engine jump clap involve cat rally little order bring";
+var mnemonic = "duck medal leaf orphan relax edit welcome swim news educate razor still";

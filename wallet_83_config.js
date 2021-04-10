@@ -1,1 +1,1 @@
-var mnemonic = "subject scorpion ramp chair taxi rain ozone expose rug holiday industry library";
+var mnemonic = "ordinary slice anxiety asset include into lens poem media destroy delay green";

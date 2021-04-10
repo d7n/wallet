@@ -1,1 +1,1 @@
-var mnemonic = "rich ivory blind lazy switch cancel tired little spend dad gorilla female";
+var mnemonic = "write curve vague differ screen current canyon flash badge human vital piano";

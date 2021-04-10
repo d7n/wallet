@@ -1,1 +1,1 @@
-var mnemonic = "random armor own organ purpose grid canoe mushroom display area salon rack";
+var mnemonic = "people fashion flip knife season one evoke sunset shiver life supreme drastic";

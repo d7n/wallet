@@ -1,1 +1,1 @@
-var mnemonic = "limit lucky elder company sea tree access system boat ketchup spike trap";
+var mnemonic = "employ airport indicate success moment force army farm inquiry manual journey vibrant";

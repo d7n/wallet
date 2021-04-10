@@ -1,1 +1,1 @@
-var mnemonic = "hour violin can giant curve barrel snake lion invite retire satoshi dinner";
+var mnemonic = "dice acquire garbage water praise spoon zebra hover myself angry area dream";

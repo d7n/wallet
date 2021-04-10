@@ -1,1 +1,1 @@
-var mnemonic = "more cake message world cigar chuckle acoustic trial brisk mixture keep hip";
+var mnemonic = "shoulder figure track hammer major slender order clean lend phrase zone copy";

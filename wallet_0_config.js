@@ -1,1 +1,1 @@
-var mnemonic = "two horn city cave glow plunge spell require tent glue hope rain";
+var mnemonic = "lion reward beyond desk impact return caution nest nerve entry nasty icon";

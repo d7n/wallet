@@ -1,1 +1,1 @@
-var mnemonic = "pyramid catch rally weather toy subject borrow area caution sample exchange toss";
+var mnemonic = "asset toss coffee leopard amateur palm spy estate clever pet stone often";

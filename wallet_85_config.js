@@ -1,1 +1,1 @@
-var mnemonic = "scorpion drift inside suspect fame blind deny advice debate wrist antenna vital";
+var mnemonic = "zebra manual exact rocket kind mutual card design throw lock duty reflect";

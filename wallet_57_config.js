@@ -1,1 +1,1 @@
-var mnemonic = "glare hire lift include spy dumb teach clean rule sustain segment stay";
+var mnemonic = "fashion nice shine tongue fish language crouch relief extra aisle ring increase";

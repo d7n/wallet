@@ -1,1 +1,1 @@
-var mnemonic = "pull have begin lounge depth tourist unhappy bring ladder timber addict endless";
+var mnemonic = "toast author limb emerge senior neither blood train same mandate bitter army";

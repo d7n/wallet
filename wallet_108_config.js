@@ -1,1 +1,1 @@
-var mnemonic = "spawn obtain there embark verb rate coral lift spin kidney limit weird";
+var mnemonic = "visit ketchup message toilet inside phrase space defy success crucial ahead choose";

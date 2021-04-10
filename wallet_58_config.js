@@ -1,1 +1,1 @@
-var mnemonic = "idea sunset polar duty vendor enrich logic woman alter cause come surround";
+var mnemonic = "own gauge torch faculty demise slush near rate hello youth defense race";

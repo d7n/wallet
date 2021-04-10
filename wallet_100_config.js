@@ -1,1 +1,1 @@
-var mnemonic = "law consider vital grocery nurse grape thing print sound casino tell rocket";
+var mnemonic = "match shove alarm east rookie length canal dinner actual bunker electric region";

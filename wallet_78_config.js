@@ -1,1 +1,1 @@
-var mnemonic = "cook pistol liar general morning finger alpha quantum first element major order";
+var mnemonic = "happy gauge melody whisper ride attract type version mountain strike arrow force";

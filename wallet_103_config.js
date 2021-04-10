@@ -1,1 +1,1 @@
-var mnemonic = "vocal general fatigue kit worth spend biology radar mixed genius roast camp";
+var mnemonic = "imitate spread provide dinner furnace stove census valve light cash assault network";

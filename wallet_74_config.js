@@ -1,1 +1,1 @@
-var mnemonic = "garbage potato tail right goose lyrics fork emotion roast illegal process quote";
+var mnemonic = "easy robot artwork glow ask pitch direct vehicle civil witness scrap furnace";

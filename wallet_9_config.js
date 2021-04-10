@@ -1,1 +1,1 @@
-var mnemonic = "hair immune aim flush poet say bulk alpha advice wash spread upset";
+var mnemonic = "cradle century pitch route family tourist security iron link share oyster proud";

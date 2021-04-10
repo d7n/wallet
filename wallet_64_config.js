@@ -1,1 +1,1 @@
-var mnemonic = "outdoor humble van property blue cube other resource glide document depth desert";
+var mnemonic = "record lake skin crowd laundry cancel absent fancy guide state winner buddy";

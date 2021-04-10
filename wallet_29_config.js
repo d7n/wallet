@@ -1,1 +1,1 @@
-var mnemonic = "hub number purchase owner inject garlic run sunset pluck squirrel engine voyage";
+var mnemonic = "galaxy day pitch love monitor title radar sheriff tree bind fetch travel";

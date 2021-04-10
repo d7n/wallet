@@ -1,1 +1,1 @@
-var mnemonic = "joke castle regular sketch school orbit note wolf letter alter abandon wedding";
+var mnemonic = "shallow weasel matter shift sing pledge opera survey gorilla size knee among";

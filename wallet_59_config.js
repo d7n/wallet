@@ -1,1 +1,1 @@
-var mnemonic = "enemy coconut pepper adapt matrix open spike oyster harbor soul other below";
+var mnemonic = "artefact trumpet render autumn giant erupt unusual then rubber try repair liar";

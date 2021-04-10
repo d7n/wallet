@@ -1,1 +1,1 @@
-var mnemonic = "deliver emerge banana describe forum jealous fever clump judge yard van guilt";
+var mnemonic = "clinic endless category tennis live tape crouch ranch punch range disease social";

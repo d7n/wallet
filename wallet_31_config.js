@@ -1,1 +1,1 @@
-var mnemonic = "manage mandate turkey earn unfold join inch vague viable range collect rookie";
+var mnemonic = "they silly weird demise attract prepare magic boost olive cat junk provide";

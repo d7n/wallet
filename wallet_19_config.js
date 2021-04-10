@@ -1,1 +1,1 @@
-var mnemonic = "useless voice jacket hint improve bubble gesture circle foot struggle odor all";
+var mnemonic = "neutral tape task foil seven shoot family visit skin method switch skirt";

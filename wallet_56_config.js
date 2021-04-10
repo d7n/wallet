@@ -1,1 +1,1 @@
-var mnemonic = "sniff wall lunar before rhythm grace easy nephew snack math pipe balance";
+var mnemonic = "empower riot antique history club lawsuit matter hollow renew drastic unveil march";

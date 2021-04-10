@@ -1,1 +1,1 @@
-var mnemonic = "goat chair choice among clerk nature impulse enable funny lonely spoil jeans";
+var mnemonic = "target mind perfect mosquito doll kite lava notable match hawk pudding guitar";

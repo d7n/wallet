@@ -1,1 +1,1 @@
-var mnemonic = "elder umbrella mobile assist lyrics swing few pretty loop crucial style head";
+var mnemonic = "shoe divide solid always employ empower memory moon source crack silent blossom";

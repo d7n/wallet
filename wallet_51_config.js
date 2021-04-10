@@ -1,1 +1,1 @@
-var mnemonic = "belt depart exotic train chair satoshi leader curve cram horn link void";
+var mnemonic = "disagree supreme wire sign urge powder together resist toward sense soda rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery spare upper saddle milk enhance lake bike update program wedding burger";
+var mnemonic = "catch confirm obtain parent column artist gossip giant swamp mountain primary shoe";

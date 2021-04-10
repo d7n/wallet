@@ -1,1 +1,1 @@
-var mnemonic = "embody adjust pen animal subject flame cupboard rotate opera decline repeat economy";
+var mnemonic = "grape wine risk birth twelve attract eagle true summer announce vibrant story";

@@ -1,1 +1,1 @@
-var mnemonic = "together avoid able photo sun badge lemon rude improve noodle drop modify";
+var mnemonic = "grace female climb aisle merit news sight scorpion target truck lunch pink";

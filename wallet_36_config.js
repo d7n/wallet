@@ -1,1 +1,1 @@
-var mnemonic = "toddler reveal test boring armed guide decade drum meadow survey inherit siege";
+var mnemonic = "matrix town arrow fence problem lucky pole goddess cereal test ill enlist";

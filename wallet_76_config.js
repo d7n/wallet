@@ -1,1 +1,1 @@
-var mnemonic = "width pride rib match ensure wish also supreme motor spell harbor obscure";
+var mnemonic = "medal patrol horror before zebra team area name congress chapter explain garden";

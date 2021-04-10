@@ -1,1 +1,1 @@
-var mnemonic = "gaze slow sense voyage throw spell prison amazing giraffe bomb essay dutch";
+var mnemonic = "fly spell resource town insane ability wreck aunt question right planet improve";

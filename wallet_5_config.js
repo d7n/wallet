@@ -1,1 +1,1 @@
-var mnemonic = "wagon race document select duty tortoise brand search buyer envelope brush guess";
+var mnemonic = "resemble dish forget champion caught call surprise afraid buzz arctic mutual hen";

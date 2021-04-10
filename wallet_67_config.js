@@ -1,1 +1,1 @@
-var mnemonic = "random mosquito vivid club face range omit clinic crystal devote rich ski";
+var mnemonic = "blame hire picnic argue fiber brave sound carbon sibling film crisp toddler";

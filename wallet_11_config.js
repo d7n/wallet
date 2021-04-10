@@ -1,1 +1,1 @@
-var mnemonic = "original renew syrup page west rhythm diet motor outer mirror outdoor tape";
+var mnemonic = "chuckle common scare sunset obscure easy advice exercise empower proof uncover feed";

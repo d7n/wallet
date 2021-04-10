@@ -1,1 +1,1 @@
-var mnemonic = "vessel fire vital dirt odor raccoon hospital stem rally lawsuit dynamic agree";
+var mnemonic = "inspire remember oak gorilla loan list stadium gospel advance peanut pave update";

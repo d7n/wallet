@@ -1,1 +1,1 @@
-var mnemonic = "slot amount math include tail horn more acquire snack aunt pass zone";
+var mnemonic = "soul summer bind decrease arctic food shift poet basic stadium coil method";

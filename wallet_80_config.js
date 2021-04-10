@@ -1,1 +1,1 @@
-var mnemonic = "champion this limb slender drive step fetch outside sell admit invite potato";
+var mnemonic = "custom survey hunt metal evil unknown report keen antenna mail visit same";

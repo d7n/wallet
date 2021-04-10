@@ -1,1 +1,1 @@
-var mnemonic = "enjoy lemon own match debris shallow year either stage chest about style";
+var mnemonic = "identify elevator panic ball farm cheap appear blade crazy sphere museum calm";

@@ -1,1 +1,1 @@
-var mnemonic = "job crouch spirit void hole when east lobster profit pole diagram trim";
+var mnemonic = "pistol river elevator artefact rural damage unfair mandate picnic burger sustain evidence";

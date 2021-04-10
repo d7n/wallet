@@ -1,1 +1,1 @@
-var mnemonic = "cactus birth link enrich assume ranch cherry dumb army quantum dragon crater";
+var mnemonic = "glass treat wheel rate lady cake volume clever number cluster bitter capital";

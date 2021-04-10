@@ -1,1 +1,1 @@
-var mnemonic = "elevator palm arena entry atom legend chat upper swamp core taste entry";
+var mnemonic = "later adapt dilemma simple invest swamp stomach hip harsh easily vital man";

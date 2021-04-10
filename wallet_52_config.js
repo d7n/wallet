@@ -1,1 +1,1 @@
-var mnemonic = "calm object stuff forest orient sudden razor short engine neutral special drum";
+var mnemonic = "youth that juice common squeeze alcohol steak panther grit very leisure earth";

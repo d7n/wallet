@@ -1,1 +1,1 @@
-var mnemonic = "crumble gauge round toddler prevent quit merry elephant million almost vast february";
+var mnemonic = "carbon idea there please spring lawsuit apple second garlic hero arctic square";

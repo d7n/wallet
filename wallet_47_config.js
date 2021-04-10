@@ -1,1 +1,1 @@
-var mnemonic = "february liar father collect area minimum fantasy plunge young drop memory grid";
+var mnemonic = "very enhance crane find fruit vintage usage cattle symbol february average roof";

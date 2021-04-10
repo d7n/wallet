@@ -1,1 +1,1 @@
-var mnemonic = "fault zebra unhappy genius chunk dwarf alone machine chief cable decide morning";
+var mnemonic = "suit month flip sense version fold often mistake true laptop rice hybrid";

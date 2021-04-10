@@ -1,1 +1,1 @@
-var mnemonic = "guilt rapid ranch tilt harvest candy swallow fog abandon inject diet tide";
+var mnemonic = "wheel gown drama panic traffic vault prison kidney pizza text until dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "normal battle debris yard awful lyrics output fortune foot armed deliver baby";
+var mnemonic = "small trap approve base federal hood subject powder square fresh vital owner";

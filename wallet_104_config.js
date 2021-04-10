@@ -1,1 +1,1 @@
-var mnemonic = "peace chapter neither path silly secret lazy few upset home jump grass";
+var mnemonic = "extra finger flame drum pluck patrol jaguar pledge city pistol voice power";

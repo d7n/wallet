@@ -1,1 +1,1 @@
-var mnemonic = "risk pencil tide plate plastic dragon switch spare rug junior legal man";
+var mnemonic = "carry chunk that cost empower engage stool various science fit never clever";

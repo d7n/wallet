@@ -1,1 +1,1 @@
-var mnemonic = "aunt evoke breeze upper mirror approve secret twin glove sphere snake common";
+var mnemonic = "elder hybrid text pool shed sudden slender hungry manual child action survey";

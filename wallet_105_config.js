@@ -1,1 +1,1 @@
-var mnemonic = "faith pretty engage stay actor note coral rhythm coyote double asthma infant";
+var mnemonic = "throw health december alone cute infant legal ignore fiction improve warrior feature";

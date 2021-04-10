@@ -1,1 +1,1 @@
-var mnemonic = "legal zero gap badge awkward guard one what start syrup poet must";
+var mnemonic = "arrive fence mammal style garlic vote below elevator name issue notice carpet";

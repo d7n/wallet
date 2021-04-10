@@ -1,1 +1,1 @@
-var mnemonic = "illness couch dice kidney strong like nuclear tooth equal surge essence ski";
+var mnemonic = "soul oxygen hurry display across where evoke glimpse comfort mimic leisure liar";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit drift opera biology box fatal across prison slush gentle coin brief";
+var mnemonic = "near steak garlic funny shell sting major phrase shove sibling couch address";

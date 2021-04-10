@@ -1,1 +1,1 @@
-var mnemonic = "ridge retire win pulp initial bargain parade congress illness unit romance measure";
+var mnemonic = "slot helmet because child tower portion glide wine eagle trash slab dismiss";

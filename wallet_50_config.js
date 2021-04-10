@@ -1,1 +1,1 @@
-var mnemonic = "result wrestle render suggest elevator night illness hungry curve beyond cabbage increase";
+var mnemonic = "clerk install absurd obvious parrot clinic like avocado today rely curtain shiver";

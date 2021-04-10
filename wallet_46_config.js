@@ -1,1 +1,1 @@
-var mnemonic = "convince shoulder calm offer flavor knee jacket van nice voyage scan pioneer";
+var mnemonic = "bomb injury glory luxury close laptop super sight tool issue desk furnace";

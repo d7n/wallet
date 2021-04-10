@@ -1,1 +1,1 @@
-var mnemonic = "example brother famous hidden test height clutch clinic autumn modify island index";
+var mnemonic = "option poet scrap bubble parent coast add air sniff replace top rail";

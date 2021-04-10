@@ -1,1 +1,1 @@
-var mnemonic = "spin hospital dumb fitness romance uniform planet crash school exclude oblige viable";
+var mnemonic = "route build turtle exclude lizard balance cactus rigid finish dinosaur office negative";

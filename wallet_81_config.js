@@ -1,1 +1,1 @@
-var mnemonic = "egg what draw sun pulp this kitten soap tattoo poet buddy already";
+var mnemonic = "couch tunnel order service jacket apology trouble nose home marriage doctor fringe";

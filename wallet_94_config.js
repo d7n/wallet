@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon abuse fence bus ahead best tank ride quote lazy accident asset";
+var mnemonic = "still history emotion urban mind high notable purity blue ostrich abstract vendor";

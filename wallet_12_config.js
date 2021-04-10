@@ -1,1 +1,1 @@
-var mnemonic = "belt furnace exotic hamster primary damp island exercise layer dignity chase model";
+var mnemonic = "process edit current hat glue alter loud document jewel vintage true dance";

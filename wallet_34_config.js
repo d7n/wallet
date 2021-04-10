@@ -1,1 +1,1 @@
-var mnemonic = "room cream flip island crater jacket range lottery spoon special trim town";
+var mnemonic = "vibrant possible impulse sign traffic group lawsuit subject sight jacket radio question";

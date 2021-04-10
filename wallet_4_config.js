@@ -1,1 +1,1 @@
-var mnemonic = "soup hour patient chunk capable toward mean bird climb accident garlic suffer";
+var mnemonic = "crisp all antenna mesh possible rude comfort gallery delay course ceiling excuse";

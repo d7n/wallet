@@ -1,1 +1,1 @@
-var mnemonic = "expire mammal oyster noise consider apology loan extend aerobic sight program color";
+var mnemonic = "pact salad identify twice glue capital reason artefact piano rare believe wife";

@@ -1,1 +1,1 @@
-var mnemonic = "check noise coconut liberty need sustain law rhythm emotion confirm empower room";
+var mnemonic = "dizzy lend keep tower discover kitten excite job away there main abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "estate goat vicious slot float critic promote elder effort scorpion lend assume";
+var mnemonic = "noble emerge rebel film drip patrol element awkward pudding figure cream brother";

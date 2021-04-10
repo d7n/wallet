@@ -1,1 +1,1 @@
-var mnemonic = "caught marriage embark give stove verify toy frog debris roof picnic often";
+var mnemonic = "spring tribe issue above traffic oyster uphold also car goose spice super";

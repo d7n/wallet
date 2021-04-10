@@ -1,1 +1,1 @@
-var mnemonic = "arrest bubble ugly expose outdoor curve give connect sponsor produce neck husband";
+var mnemonic = "zero van spread face convince negative school orchard pistol dutch alcohol junk";

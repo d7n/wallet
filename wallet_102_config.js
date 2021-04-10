@@ -1,1 +1,1 @@
-var mnemonic = "amazing retreat wide trumpet quiz year various thrive mango just trend evoke";
+var mnemonic = "exotic noodle tilt leopard twin grab harbor proud silent alien arch symptom";

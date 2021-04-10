@@ -1,1 +1,1 @@
-var mnemonic = "luggage rib diamond orange mosquito multiply until tiny regret nest sketch laundry";
+var mnemonic = "crouch hurdle gold tired foam speak can blind cable half sister beauty";

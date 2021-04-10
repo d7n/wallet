@@ -1,1 +1,1 @@
-var mnemonic = "hole athlete logic visual diet solve topple admit fork invite flat walnut";
+var mnemonic = "broccoli script tell client bridge punch room immense tool cable shove foil";

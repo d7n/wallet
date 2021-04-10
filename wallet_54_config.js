@@ -1,1 +1,1 @@
-var mnemonic = "involve tired panther unit secret marriage champion depth merit village sell grant";
+var mnemonic = "quarter square demise multiply onion unknown cluster equal true blush unveil liar";

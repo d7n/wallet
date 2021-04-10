@@ -1,1 +1,1 @@
-var mnemonic = "liberty filter note capital neither action civil cram corn illegal enforce climb";
+var mnemonic = "badge differ clump curious direct deal donate delay butter glow section lonely";

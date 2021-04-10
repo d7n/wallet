@@ -1,1 +1,1 @@
-var mnemonic = "decrease disease bean random harsh arrive vacant once unfair nut spread robot";
+var mnemonic = "addict behind blanket soon you poverty first assist client puppy runway bounce";

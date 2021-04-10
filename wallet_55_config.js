@@ -1,1 +1,1 @@
-var mnemonic = "history lonely pair visual simple elite evoke citizen humor clay alpha case";
+var mnemonic = "shy holiday amused arm timber token panda weather doll despair dice gym";

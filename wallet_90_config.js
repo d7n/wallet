@@ -1,1 +1,1 @@
-var mnemonic = "inject apology pupil glory blur wealth pledge film credit final thumb shed";
+var mnemonic = "lumber sustain permit shine heart wall when inform disease aisle evolve issue";

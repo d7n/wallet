@@ -1,1 +1,1 @@
-var mnemonic = "life flat diagram warfare veteran remember army wolf hockey clock stock cycle";
+var mnemonic = "volume sentence eager verb reason unique neglect cereal eternal kingdom identify swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "gather giggle march wisdom caught glide trigger old wire analyst volcano bird";
+var mnemonic = "skill vacuum ship away message federal cage toe fit carbon candy surface";

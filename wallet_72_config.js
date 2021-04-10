@@ -1,1 +1,1 @@
-var mnemonic = "shiver often over fame member model rough tumble train cigar leg typical";
+var mnemonic = "assist frozen prepare vehicle chapter fabric off beyond sleep alien ill gadget";

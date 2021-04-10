@@ -1,1 +1,1 @@
-var mnemonic = "absurd issue insect grid juice course joy kitchen victory demand daring point";
+var mnemonic = "undo broom mountain note sniff vintage wife cake clip pencil fever hospital";
