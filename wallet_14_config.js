@@ -1,1 +1,1 @@
-var mnemonic = "sketch owner guess bubble hen artist find kick anger fantasy focus token";
+var mnemonic = "arctic return essay clog plunge climb sport pill where plate mixed parrot";

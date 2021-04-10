@@ -1,1 +1,1 @@
-var mnemonic = "train century blame celery swim notice able tortoise fence sustain script flee";
+var mnemonic = "top young setup finger scorpion ladder original nasty victory earth unfair economy";

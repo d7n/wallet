@@ -1,1 +1,1 @@
-var mnemonic = "pepper typical burden lava member bus wood tray expose cheap woman juice";
+var mnemonic = "upper install mule solid mixture velvet right autumn drastic oblige clown bicycle";

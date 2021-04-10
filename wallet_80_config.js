@@ -1,1 +1,1 @@
-var mnemonic = "penalty derive abstract roast jacket unveil tiny income desert appear grid spoil";
+var mnemonic = "lounge laugh original apology fish exact ladder letter luxury text couch pulse";

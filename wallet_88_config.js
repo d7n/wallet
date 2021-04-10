@@ -1,1 +1,1 @@
-var mnemonic = "wink ceiling afraid lemon world cover impact salt woman fancy replace slight";
+var mnemonic = "online pair twice harbor practice school love road sail dial bachelor black";

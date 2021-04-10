@@ -1,1 +1,1 @@
-var mnemonic = "paddle about outer grit net soldier travel depart rather wet situate enough";
+var mnemonic = "vibrant brief punch inherit grass employ churn modify quantum old credit patient";

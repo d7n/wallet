@@ -1,1 +1,1 @@
-var mnemonic = "chair achieve panther grid divorce sentence man piano prosper acid exercise slam";
+var mnemonic = "boil ranch fault jeans mesh slight rural erase gaze mechanic theory city";

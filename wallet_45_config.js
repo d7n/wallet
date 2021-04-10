@@ -1,1 +1,1 @@
-var mnemonic = "opera slab bean embark shoulder burden fall spray measure outdoor zero plastic";
+var mnemonic = "pepper sadness purse muscle daring behind injury mandate staff glow feed east";

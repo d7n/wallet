@@ -1,1 +1,1 @@
-var mnemonic = "identify speak ticket great dad crucial bus coyote among track spoon stove";
+var mnemonic = "sight distance purpose domain staff woman fence believe mystery recycle express appear";

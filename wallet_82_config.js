@@ -1,1 +1,1 @@
-var mnemonic = "squeeze punch anchor trip betray coconut cry grain kitchen torch yard area";
+var mnemonic = "know differ empty lion tooth deliver clap phrase spider tackle scheme border";

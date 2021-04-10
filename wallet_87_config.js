@@ -1,1 +1,1 @@
-var mnemonic = "around enrich slot arena essence december pulp police hospital food wife senior";
+var mnemonic = "ostrich orient glass chief involve nothing alcohol clarify afford swim jump monster";

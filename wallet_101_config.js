@@ -1,1 +1,1 @@
-var mnemonic = "bread correct crunch camera decide rude coral close stock version thumb brain";
+var mnemonic = "sphere dawn such spare off shrug crop hazard skin sun clinic sing";

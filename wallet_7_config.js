@@ -1,1 +1,1 @@
-var mnemonic = "space claim office rail type rough letter turn ship borrow segment patient";
+var mnemonic = "venture air nephew predict feed blush often ripple churn sorry blue captain";

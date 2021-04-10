@@ -1,1 +1,1 @@
-var mnemonic = "garden code word brave state sand calm arrest drip job ostrich novel";
+var mnemonic = "such devote actual want assume census settle grow tent magnet visual spring";

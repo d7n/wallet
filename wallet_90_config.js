@@ -1,1 +1,1 @@
-var mnemonic = "book praise easily first tuna dawn mirror surprise ocean copper midnight cactus";
+var mnemonic = "bomb pistol fence salon local asset gravity toast mask elder flash lend";

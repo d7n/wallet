@@ -1,1 +1,1 @@
-var mnemonic = "code horn artefact purpose jungle cherry rate space talk toward best rely";
+var mnemonic = "erupt theme absorb aware elite guilt stay breeze life vacant toast chaos";

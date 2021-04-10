@@ -1,1 +1,1 @@
-var mnemonic = "what bamboo goat equal slab raise pass bicycle violin leopard vault moment";
+var mnemonic = "spread antique addict canal blossom purpose speak poverty kid purchase helmet resemble";

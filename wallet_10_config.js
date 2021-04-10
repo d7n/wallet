@@ -1,1 +1,1 @@
-var mnemonic = "nuclear beauty salon feel swamp always mother test spider uncle sausage gravity";
+var mnemonic = "hood average lottery pause purchase spot remember spice eager night tag slab";

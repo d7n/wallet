@@ -1,1 +1,1 @@
-var mnemonic = "level tooth current iron tattoo alter undo direct among victory traffic talk";
+var mnemonic = "torch clown gain duck rural idle work earth adult solar angry whale";

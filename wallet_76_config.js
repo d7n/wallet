@@ -1,1 +1,1 @@
-var mnemonic = "shuffle plunge salon alpha mobile eagle security garlic galaxy hurt grape wear";
+var mnemonic = "require extra rib save kiwi carbon act math alone marble finger drama";

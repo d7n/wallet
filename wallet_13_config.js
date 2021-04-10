@@ -1,1 +1,1 @@
-var mnemonic = "satoshi awful wing upon move kitchen work cigar only flip cheap address";
+var mnemonic = "asthma twenty lawn appear moral dial fantasy coconut demand pet hour clerk";

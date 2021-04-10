@@ -1,1 +1,1 @@
-var mnemonic = "repair tennis around jar affair absurd glove inherit script want lift repair";
+var mnemonic = "century property dog cricket file metal ice recall gun season ripple burden";

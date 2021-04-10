@@ -1,1 +1,1 @@
-var mnemonic = "pudding ring expect dad excess search fly weird bullet odor chief when";
+var mnemonic = "witness tomato photo cream ugly list whisper grief print admit citizen hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "egg occur task grid fatal shadow hunt age top rapid tag evil";
+var mnemonic = "resist obey penalty tortoise crystal urban humble slender close rich wolf card";

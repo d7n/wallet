@@ -1,1 +1,1 @@
-var mnemonic = "neutral vocal twelve bleak winter own position various live card bulb cancel";
+var mnemonic = "fiction slice never message unaware zoo little alert bird boss repeat sell";

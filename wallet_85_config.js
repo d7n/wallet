@@ -1,1 +1,1 @@
-var mnemonic = "ankle lend hood there permit improve feed add add income belt quiz";
+var mnemonic = "bulk nominee design skate achieve absent question common cart slogan clump alone";

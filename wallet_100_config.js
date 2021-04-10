@@ -1,1 +1,1 @@
-var mnemonic = "love general advice maze match whip stove rug palace pattern ankle traffic";
+var mnemonic = "skirt nest smoke private fiscal zone outer final draw announce secret head";

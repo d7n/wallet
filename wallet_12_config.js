@@ -1,1 +1,1 @@
-var mnemonic = "tell march afford blame neutral carpet bright chaos song clip bag frame";
+var mnemonic = "give oxygen reason general face discover meat achieve convince disease alarm sail";

@@ -1,1 +1,1 @@
-var mnemonic = "truth fossil inquiry label knock box core market kiss initial eagle entire";
+var mnemonic = "answer indicate wedding trim million tuition action mean base wine grain mule";

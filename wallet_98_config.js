@@ -1,1 +1,1 @@
-var mnemonic = "combine leopard tag tomato height salt orange utility diagram puppy always drill";
+var mnemonic = "mouse stem attend dinner trial hold spend cricket twenty access narrow piece";

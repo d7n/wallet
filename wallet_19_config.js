@@ -1,1 +1,1 @@
-var mnemonic = "harbor hat arrow flee clean empower pupil cliff matter donate holiday grab";
+var mnemonic = "warm boost entry kit marble extra noble hawk hungry away exotic maximum";

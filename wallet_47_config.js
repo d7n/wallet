@@ -1,1 +1,1 @@
-var mnemonic = "prefer saddle secret milk armed plunge cool regular ugly syrup fashion cage";
+var mnemonic = "enough lunar length sugar uphold shiver slush trophy adult tail mistake movie";

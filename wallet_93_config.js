@@ -1,1 +1,1 @@
-var mnemonic = "include boss learn path hour outdoor cargo give diamond sample drive defy";
+var mnemonic = "today deny obscure network female recipe oxygen grain rescue case glass march";

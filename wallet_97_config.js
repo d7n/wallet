@@ -1,1 +1,1 @@
-var mnemonic = "keen mind average execute round exile nephew raise where rival slide powder";
+var mnemonic = "when ostrich sweet robot magnet comfort hurdle upon enable anger injury van";

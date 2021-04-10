@@ -1,1 +1,1 @@
-var mnemonic = "build chimney powder coyote flock guitar copy senior affair dutch again seat";
+var mnemonic = "proud plate surround orchard matter fluid night expire truck borrow either elevator";

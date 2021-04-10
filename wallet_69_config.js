@@ -1,1 +1,1 @@
-var mnemonic = "dirt tape judge rail kind present pigeon empower rib oil derive magnet";
+var mnemonic = "staff pet gym fat raven dinosaur issue address sphere stay observe spoon";

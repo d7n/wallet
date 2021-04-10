@@ -1,1 +1,1 @@
-var mnemonic = "fitness fix tail trade shoot few drill popular bean cupboard tackle enhance";
+var mnemonic = "advance upset people cheap require coyote grass album mosquito basket rough neutral";

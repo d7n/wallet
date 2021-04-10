@@ -1,1 +1,1 @@
-var mnemonic = "special merge expire hidden tattoo latin truly latin decide grape oblige universe";
+var mnemonic = "arrow captain hover direct fashion fragile crash maid accuse label idea fatal";

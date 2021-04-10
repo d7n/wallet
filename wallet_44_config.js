@@ -1,1 +1,1 @@
-var mnemonic = "rifle elite chimney canal type type manage brush cream hip vapor genuine";
+var mnemonic = "dragon pizza stem novel fetch mosquito awesome undo pink rely rubber fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "exact foil math street often educate cargo stuff edit require high depth";
+var mnemonic = "dish shock odor initial abuse boat foil strong advice aim indicate tilt";

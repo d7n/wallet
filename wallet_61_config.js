@@ -1,1 +1,1 @@
-var mnemonic = "run upgrade shield weather display book entire submit stand hurdle asset design";
+var mnemonic = "legend sure chaos labor remember pass swap balcony two duty boat cabbage";

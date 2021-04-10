@@ -1,1 +1,1 @@
-var mnemonic = "patient gas swear token account debate borrow pink curve ordinary chicken swim";
+var mnemonic = "live camp iron shift punch embrace decrease receive win tuition outside talent";

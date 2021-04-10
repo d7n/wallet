@@ -1,1 +1,1 @@
-var mnemonic = "sister double climb coast spoon width recall hazard green derive include remain";
+var mnemonic = "mercy float corn isolate eyebrow choice sure claim region never orphan bread";

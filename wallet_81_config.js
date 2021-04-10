@@ -1,1 +1,1 @@
-var mnemonic = "sock blue proud into often subway online novel palace drink predict payment";
+var mnemonic = "when combine match family panel web sausage just build occur ticket this";

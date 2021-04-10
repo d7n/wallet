@@ -1,1 +1,1 @@
-var mnemonic = "vendor retire detail purchase twice skill resist humble calm april insect amazing";
+var mnemonic = "intact panic genuine symptom keep blood knee shrug insect palm drastic fortune";

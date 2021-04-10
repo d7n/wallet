@@ -1,1 +1,1 @@
-var mnemonic = "sheriff same horse project grief company torch wash sand surface eager curious";
+var mnemonic = "card nest electric tenant spell print april virus thank brisk owner ability";

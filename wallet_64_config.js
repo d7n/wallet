@@ -1,1 +1,1 @@
-var mnemonic = "meat radio boy invest dignity lesson sort amount drastic surface token portion";
+var mnemonic = "riot coyote silly silly today pool hazard ill decade float school town";

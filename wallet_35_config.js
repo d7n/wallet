@@ -1,1 +1,1 @@
-var mnemonic = "stuff together object razor plate ice believe glide leader agree minimum short";
+var mnemonic = "chase wrong mother elevator setup palm area gas cliff glad fresh robot";

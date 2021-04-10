@@ -1,1 +1,1 @@
-var mnemonic = "mandate auction patient run fade woman auto prepare drop across shaft build";
+var mnemonic = "doctor budget educate seed shiver silent until snake elbow acoustic advice lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "sword soul bicycle farm move blanket dawn spread swallow weekend able spring";
+var mnemonic = "parade wrestle actress remain common oil polar answer capable traffic motor raven";

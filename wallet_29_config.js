@@ -1,1 +1,1 @@
-var mnemonic = "shock buyer fiscal case garbage vanish spare thing satoshi aim copper sound";
+var mnemonic = "stairs wink panel butter just produce clean wolf render strike inmate sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn strategy pupil summer december bicycle lecture relax young holiday weasel order";
+var mnemonic = "endorse trim luxury air group penalty rapid move thank rich learn mixed";

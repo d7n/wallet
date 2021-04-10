@@ -1,1 +1,1 @@
-var mnemonic = "plastic mushroom pumpkin loan equal damp symptom install volume cup boat adult";
+var mnemonic = "castle mule clay put news beach swallow coil arch swim august add";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor butter ill mad man verb maze arctic gap hurt swarm industry";
+var mnemonic = "fence youth basket stick coach glass pepper kiss eyebrow confirm deny dwarf";

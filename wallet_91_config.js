@@ -1,1 +1,1 @@
-var mnemonic = "keep nominee fragile wasp history high thrive kick collect salon more spawn";
+var mnemonic = "cloth enrich aware despair pride marine isolate harvest solution market genuine city";

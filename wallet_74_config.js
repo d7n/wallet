@@ -1,1 +1,1 @@
-var mnemonic = "crawl fish enact phrase season actress genuine only sauce lawn flat host";
+var mnemonic = "grunt coral note choice essence bounce pilot pass entire session aim prison";

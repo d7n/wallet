@@ -1,1 +1,1 @@
-var mnemonic = "lake wife stay catalog february engine slice monkey silver alien promote tail";
+var mnemonic = "now alpha index whip push meadow diamond letter small tortoise hungry solar";

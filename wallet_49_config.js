@@ -1,1 +1,1 @@
-var mnemonic = "enforce input slight invest silk furnace nice destroy wear throw health angry";
+var mnemonic = "viable amazing short prevent level grab render control student pudding escape style";

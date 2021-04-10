@@ -1,1 +1,1 @@
-var mnemonic = "hand quantum vendor fuel faculty phone plate body slight raccoon control awake";
+var mnemonic = "snack crush behind diet reopen rival broom enjoy subway tube clay obey";

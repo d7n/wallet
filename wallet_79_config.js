@@ -1,1 +1,1 @@
-var mnemonic = "mention fun below borrow snow timber where office west all grief typical";
+var mnemonic = "void season scatter enter west public velvet vessel put park album gap";

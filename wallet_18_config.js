@@ -1,1 +1,1 @@
-var mnemonic = "swap ancient session elder misery flock rebel autumn obtain muscle harsh defy";
+var mnemonic = "expect jealous cement brother true elder chase sister someone immense identify depart";

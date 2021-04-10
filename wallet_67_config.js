@@ -1,1 +1,1 @@
-var mnemonic = "cargo grit catch exit planet deposit initial crouch lamp belt vital estate";
+var mnemonic = "horror ahead aware bird job battle more certain what strike kind front";

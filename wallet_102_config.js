@@ -1,1 +1,1 @@
-var mnemonic = "elite test business suffer sunny diamond blossom pigeon shallow route page payment";
+var mnemonic = "cabin beach walnut vessel hotel hundred sorry chapter divert pill ranch arrest";

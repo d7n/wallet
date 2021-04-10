@@ -1,1 +1,1 @@
-var mnemonic = "monster cotton hundred axis trade sound nothing bamboo expose answer wet sure";
+var mnemonic = "slice usual nation airport fruit cancel horror sudden armed ordinary rigid fun";

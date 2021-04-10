@@ -1,1 +1,1 @@
-var mnemonic = "diagram cricket balcony endorse copper pupil acoustic super print inhale gather equip";
+var mnemonic = "make fog laptop sausage hurry awake sun slice price flight main evidence";

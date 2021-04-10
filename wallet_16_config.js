@@ -1,1 +1,1 @@
-var mnemonic = "iron quick smart rally tongue group offer drop maximum volume speed mirror";
+var mnemonic = "pioneer extend wreck embrace visit other south crush one mail mouse couch";

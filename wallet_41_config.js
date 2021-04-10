@@ -1,1 +1,1 @@
-var mnemonic = "warfare lava couple camera vapor snack company power ice surprise behind until";
+var mnemonic = "oppose lazy journey exhibit foam alley animal cattle amazing inhale onion control";

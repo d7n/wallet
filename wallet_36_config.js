@@ -1,1 +1,1 @@
-var mnemonic = "like film patient divert journey require quit goat notice segment sell sunny";
+var mnemonic = "acoustic month cotton debate drip cupboard coach add return awake coin oak";

@@ -1,1 +1,1 @@
-var mnemonic = "grief estate genre cage neck sort smart bulk service curve wide frozen";
+var mnemonic = "base protect proof item woman direct brief shy teach wasp alley monitor";

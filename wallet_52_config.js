@@ -1,1 +1,1 @@
-var mnemonic = "joke uncover fish vacant invest hair between era quality endless argue combine";
+var mnemonic = "inquiry sell jacket laptop rule stool comfort tiny infant powder slab start";

@@ -1,1 +1,1 @@
-var mnemonic = "convince calm east lemon tonight surprise kingdom remove enforce coast unaware endless";
+var mnemonic = "proof install liberty two swarm recipe dynamic cabbage volume viable river clerk";

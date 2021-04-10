@@ -1,1 +1,1 @@
-var mnemonic = "salute earn come vendor hidden way tower prepare unit faith rack retreat";
+var mnemonic = "also check fresh betray zero chalk witness nasty day custom amateur mouse";

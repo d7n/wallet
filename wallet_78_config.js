@@ -1,1 +1,1 @@
-var mnemonic = "ginger brief net divorce spy assault culture success senior cement donor offer";
+var mnemonic = "clerk crucial flame meat quarter tube child morning team shoulder muffin frequent";

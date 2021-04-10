@@ -1,1 +1,1 @@
-var mnemonic = "gasp also resemble quote arrow boost hazard title theory success soft episode";
+var mnemonic = "almost wear way advice medal hidden bleak aspect eight sunny frame enable";

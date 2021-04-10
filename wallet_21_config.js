@@ -1,1 +1,1 @@
-var mnemonic = "wrong grace ecology palm inject sketch clutch column spawn dizzy fold remain";
+var mnemonic = "wide saddle rent wrap organ photo weird video language layer erosion coil";

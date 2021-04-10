@@ -1,1 +1,1 @@
-var mnemonic = "sphere cram bridge end van poem bundle sword river laugh zoo spend";
+var mnemonic = "test child clever august truth front ramp idle begin space proof left";

@@ -1,1 +1,1 @@
-var mnemonic = "olive tomato jungle design person piece desk energy ill flash now civil";
+var mnemonic = "flash album what local saddle buzz tide exhaust three online desert pride";

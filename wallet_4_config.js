@@ -1,1 +1,1 @@
-var mnemonic = "loud cushion pupil pass mango old short elevator april acquire inject addict";
+var mnemonic = "hard super try finish juice candy gentle solar arrow aerobic talent truck";

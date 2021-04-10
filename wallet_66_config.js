@@ -1,1 +1,1 @@
-var mnemonic = "enhance scheme ceiling camera police dune gossip nurse call raw zebra want";
+var mnemonic = "uncle nurse announce float unit result nation donor size now obey general";

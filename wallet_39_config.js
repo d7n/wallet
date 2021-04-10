@@ -1,1 +1,1 @@
-var mnemonic = "conduct bean tourist gloom about glass ten engage kingdom couch prevent trouble";
+var mnemonic = "glance piece that reject weird milk vast culture correct good bacon dumb";

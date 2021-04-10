@@ -1,1 +1,1 @@
-var mnemonic = "because harvest expand leader scare monkey skate voyage dust tenant fire razor";
+var mnemonic = "risk hood output quote cube penalty tell enough little defense rose holiday";

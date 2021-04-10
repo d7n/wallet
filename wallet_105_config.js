@@ -1,1 +1,1 @@
-var mnemonic = "material abandon infant bus fee dutch control draw brick first clutch vintage";
+var mnemonic = "able robot history assist impose hover tooth maple alcohol weasel fury suspect";

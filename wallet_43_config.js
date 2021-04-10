@@ -1,1 +1,1 @@
-var mnemonic = "rib stomach fabric outside spot icon fitness flat easy tip song uphold";
+var mnemonic = "two allow virtual sugar shoulder absent home sunny satoshi smart echo capable";

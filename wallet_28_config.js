@@ -1,1 +1,1 @@
-var mnemonic = "category audit code spring atom blur swift torch update cup tank real";
+var mnemonic = "other seven invite amateur hill satoshi bridge egg aim fresh where alone";

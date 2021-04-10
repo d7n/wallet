@@ -1,1 +1,1 @@
-var mnemonic = "decade upon pitch invest text bleak suggest home robust bitter daughter buzz";
+var mnemonic = "much jeans wood fault seek nothing husband consider tribe brush winter special";

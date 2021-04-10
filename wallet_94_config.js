@@ -1,1 +1,1 @@
-var mnemonic = "joke attend tattoo envelope float memory vibrant pen oval valid citizen occur";
+var mnemonic = "wheat void inmate bind never dinner flag light this sock rally wall";

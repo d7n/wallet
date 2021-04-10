@@ -1,1 +1,1 @@
-var mnemonic = "since beauty attract cloth extra glow modify mix between border wear copper";
+var mnemonic = "blossom course sample common buyer wild seek viable sadness harvest tired cart";
