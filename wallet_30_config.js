@@ -1,1 +1,1 @@
-var mnemonic = "hungry wave girl check enact move focus segment dinner desk impose mountain";
+var mnemonic = "wrong violin middle artefact laugh useless aspect snack hollow twist ridge rookie";

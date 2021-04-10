@@ -1,1 +1,1 @@
-var mnemonic = "kid problem dose boil trash forward skate know episode narrow issue analyst";
+var mnemonic = "okay car tongue impose shaft celery mimic nurse deputy flee valley sell";

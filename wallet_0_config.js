@@ -1,1 +1,1 @@
-var mnemonic = "nerve arrive angle firm boost occur round dial riot physical idle siege";
+var mnemonic = "possible head pupil element smart enter hungry faculty flower cargo narrow panel";

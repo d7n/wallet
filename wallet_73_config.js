@@ -1,1 +1,1 @@
-var mnemonic = "scene click town usual benefit empower bubble cargo hunt sand prosper crawl";
+var mnemonic = "dial will advice hair above favorite dumb crucial tent rely genre door";

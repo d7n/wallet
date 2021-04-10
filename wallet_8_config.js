@@ -1,1 +1,1 @@
-var mnemonic = "again canyon drama enough funny quiz rebel say knock general young frost";
+var mnemonic = "tone reason gate globe capable grid demand receive impulse audit draw hidden";

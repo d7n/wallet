@@ -1,1 +1,1 @@
-var mnemonic = "rice board knife cricket captain analyst this style upgrade bamboo kick casino";
+var mnemonic = "occur drum cement frame amused badge glory also empty credit soldier pupil";

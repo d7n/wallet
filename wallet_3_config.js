@@ -1,1 +1,1 @@
-var mnemonic = "awkward anger parent depart escape roast ritual jungle twin animal gravity slab";
+var mnemonic = "whisper shuffle narrow draft slow index math year crack library glory issue";

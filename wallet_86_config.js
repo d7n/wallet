@@ -1,1 +1,1 @@
-var mnemonic = "floor satoshi draft couch twice call summer park chair describe hawk rally";
+var mnemonic = "penalty vital creek turkey reflect harbor beef topic absent kitten prefer flush";

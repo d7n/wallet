@@ -1,1 +1,1 @@
-var mnemonic = "render oblige feed way clump whip craft usage dragon foster drive manage";
+var mnemonic = "remember ritual bachelor minimum donkey chase pony detail cliff segment enrich desk";

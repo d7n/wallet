@@ -1,1 +1,1 @@
-var mnemonic = "abuse bean mushroom main cash plunge penalty surprise pilot tired era cinnamon";
+var mnemonic = "tuna canvas matter accuse brisk correct glass industry chief symbol canyon mechanic";

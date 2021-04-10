@@ -1,1 +1,1 @@
-var mnemonic = "budget melody tuition relax boss indoor subject broken mansion document exclude hour";
+var mnemonic = "capital diamond glass fluid effort noodle hobby swim actual twice razor trash";

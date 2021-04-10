@@ -1,1 +1,1 @@
-var mnemonic = "cool wage humble trade stage side disagree token mind assault travel grass";
+var mnemonic = "input consider arctic paper track doctor current canal start cancel recall unknown";

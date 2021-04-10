@@ -1,1 +1,1 @@
-var mnemonic = "promote beyond alert dove grid clog slender rubber cook wool force merge";
+var mnemonic = "october air hotel burst hundred receive hello nothing someone exit admit cluster";

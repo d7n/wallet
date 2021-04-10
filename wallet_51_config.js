@@ -1,1 +1,1 @@
-var mnemonic = "wise alley gentle pass truck slim valid run insect all electric century";
+var mnemonic = "pizza fall corn dinner auto you skin enjoy hello jeans sort eye";

@@ -1,1 +1,1 @@
-var mnemonic = "travel humor close salt orphan view lake strong attend glow north tray";
+var mnemonic = "pulp flip oak eyebrow improve just rescue combine bitter clump humble marble";

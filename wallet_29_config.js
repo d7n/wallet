@@ -1,1 +1,1 @@
-var mnemonic = "grocery dinosaur almost kick science city banner success flock oyster jealous already";
+var mnemonic = "flag phrase bag message because gate guilt load spend shock lion royal";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble sauce impose cause pupil shuffle prize flush imitate sauce autumn trade";
+var mnemonic = "equal usual into story junk resource supply member coast shop crowd neck";

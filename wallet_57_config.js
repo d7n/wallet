@@ -1,1 +1,1 @@
-var mnemonic = "title guard cake addict enable patient disorder such vague casino wing risk";
+var mnemonic = "bubble royal rent nasty rely torch ethics believe obey wave school jaguar";

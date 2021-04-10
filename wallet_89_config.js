@@ -1,1 +1,1 @@
-var mnemonic = "alone stadium boss build erode noise pool stem crawl can come echo";
+var mnemonic = "brick blind kidney body arrow gym limb urge kit coil blouse knee";

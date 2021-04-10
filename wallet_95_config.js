@@ -1,1 +1,1 @@
-var mnemonic = "vicious motion holiday marine cup memory demand used jungle inmate manage super";
+var mnemonic = "scorpion tongue display pink cup bronze clap public scheme erupt despair prevent";

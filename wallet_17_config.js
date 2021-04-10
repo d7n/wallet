@@ -1,1 +1,1 @@
-var mnemonic = "express excess penalty misery search pumpkin recall rich oil lecture gas gossip";
+var mnemonic = "exile luggage cliff surprise warrior tourist offer myth clip laugh hard degree";

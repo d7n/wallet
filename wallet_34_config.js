@@ -1,1 +1,1 @@
-var mnemonic = "build quarter sock domain bubble write all tail salad control pill impose";
+var mnemonic = "phone neglect net exercise ride cook rose machine borrow rib live absent";

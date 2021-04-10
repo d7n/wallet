@@ -1,1 +1,1 @@
-var mnemonic = "pigeon embody street joy three advice accident resemble deputy this innocent security";
+var mnemonic = "force collect oven vendor empty jungle outer endorse submit victory filter winter";

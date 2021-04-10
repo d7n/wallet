@@ -1,1 +1,1 @@
-var mnemonic = "disagree dish enough twenty toilet annual mercy regular connect lesson diary attitude";
+var mnemonic = "winter milk crew champion bridge vault slice source type harbor about decline";

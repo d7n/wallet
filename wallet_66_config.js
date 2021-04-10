@@ -1,1 +1,1 @@
-var mnemonic = "train tip truth awful goat push fun income industry attend hawk winter";
+var mnemonic = "acoustic assault tissue soon same push drift effort size slim million hidden";

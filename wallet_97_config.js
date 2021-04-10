@@ -1,1 +1,1 @@
-var mnemonic = "february canyon absorb say online oval arrive knock route dolphin sibling click";
+var mnemonic = "angry source twist suffer decide alter tribe april dentist cycle possible liberty";

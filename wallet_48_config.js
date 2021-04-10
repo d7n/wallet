@@ -1,1 +1,1 @@
-var mnemonic = "legend long hungry card wagon movie abstract betray eight book canal winner";
+var mnemonic = "clay liar gloom collect toss april endorse wife cup execute senior sing";

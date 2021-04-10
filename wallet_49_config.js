@@ -1,1 +1,1 @@
-var mnemonic = "begin champion gather number glove impact rebel parent wrap solution awkward renew";
+var mnemonic = "strong smart draft mad film bag stone base trend museum income world";

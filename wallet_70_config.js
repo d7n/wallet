@@ -1,1 +1,1 @@
-var mnemonic = "blast wrong future world pond caution logic cram void behave pioneer assault";
+var mnemonic = "useless misery adjust snake below scale palace damage bullet grunt clarify lock";

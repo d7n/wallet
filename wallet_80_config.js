@@ -1,1 +1,1 @@
-var mnemonic = "gap luxury risk pen error joke school clown light chat improve gate";
+var mnemonic = "amateur inquiry bargain tag maximum rely pretty remain buyer stuff twenty original";

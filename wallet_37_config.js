@@ -1,1 +1,1 @@
-var mnemonic = "ramp ivory novel purity taste color program lift excite usual siege scatter";
+var mnemonic = "claw drink glance figure awake melody promote song nominee cube injury trip";

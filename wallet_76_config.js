@@ -1,1 +1,1 @@
-var mnemonic = "select chicken blind chat fetch once law hunt hedgehog toe cute carpet";
+var mnemonic = "veteran nurse ability forum crystal insect road staff omit sword shine final";

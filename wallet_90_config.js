@@ -1,1 +1,1 @@
-var mnemonic = "infant spread rain gather brass tape sleep river flight valid trial alien";
+var mnemonic = "elevator crime arrow flash main laugh bind net issue kitchen person fox";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran water year cabin people hero permit warrior vibrant flavor design gospel";
+var mnemonic = "reject castle birth neck foster sure raven kangaroo course amused keen coral";

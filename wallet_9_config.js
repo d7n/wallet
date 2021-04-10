@@ -1,1 +1,1 @@
-var mnemonic = "quarter lunar master foot this apology exchange brush purchase match remove load";
+var mnemonic = "fat spider quick slogan desk special original action cry swamp travel spread";

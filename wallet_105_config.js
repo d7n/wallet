@@ -1,1 +1,1 @@
-var mnemonic = "diagram elevator same green saddle rabbit million must affair label manage you";
+var mnemonic = "about carpet punch virtual brown cherry chair poverty strong convince express year";

@@ -1,1 +1,1 @@
-var mnemonic = "program volcano hamster dynamic radio desk try trade bleak right pulp era";
+var mnemonic = "cage wire true crazy witness imitate unfold group cruise asset west panda";

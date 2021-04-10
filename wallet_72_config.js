@@ -1,1 +1,1 @@
-var mnemonic = "denial myself wisdom coyote prison already stove trouble nuclear rocket refuse pony";
+var mnemonic = "giggle juice illness jump spatial size crater oval leisure valley spell case";

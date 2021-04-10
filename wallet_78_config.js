@@ -1,1 +1,1 @@
-var mnemonic = "cover huge reunion vault moon naive away payment tired thunder cash young";
+var mnemonic = "measure sad icon state sunny disagree oyster title regret crucial festival insane";

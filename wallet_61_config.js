@@ -1,1 +1,1 @@
-var mnemonic = "wink believe fossil year key swamp wreck neglect note wrestle better opinion";
+var mnemonic = "genre favorite air trash bulb idle bounce much clump design rely van";

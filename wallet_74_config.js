@@ -1,1 +1,1 @@
-var mnemonic = "river caught term finger mix wave squeeze urban silk sniff license loan";
+var mnemonic = "three candy drill smoke van sign rescue future accuse include snap over";

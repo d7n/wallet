@@ -1,1 +1,1 @@
-var mnemonic = "depend flash water butter defense few cherry sure security casino album section";
+var mnemonic = "wheat village charge tell uncle kitten basket lion spike stage skate ordinary";

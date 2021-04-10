@@ -1,1 +1,1 @@
-var mnemonic = "palm matter pitch table extend bitter cart sock invite universe slow anxiety";
+var mnemonic = "cabin again donkey mad critic shadow window frog enhance sword pond dog";

@@ -1,1 +1,1 @@
-var mnemonic = "window hello guess infant miracle bulk spice armed nice candy come feed";
+var mnemonic = "sound lunar avocado bundle diet miss inch sense friend dynamic act shock";

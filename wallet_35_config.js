@@ -1,1 +1,1 @@
-var mnemonic = "winner cause candy profit average dragon visual escape battle guilt danger style";
+var mnemonic = "humble tackle wisdom east spice green forum seek kidney document lady trust";

@@ -1,1 +1,1 @@
-var mnemonic = "language crime stool great surprise kangaroo menu defense figure spot ski electric";
+var mnemonic = "under wave annual indicate perfect foster unusual ride judge lawn frozen cushion";

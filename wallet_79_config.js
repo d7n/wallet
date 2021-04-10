@@ -1,1 +1,1 @@
-var mnemonic = "join brass salad hint animal today there blade cruel height goddess wave";
+var mnemonic = "betray rabbit home tongue fluid vocal elite judge giggle either sense clinic";

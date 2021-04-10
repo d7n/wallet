@@ -1,1 +1,1 @@
-var mnemonic = "opera shaft online royal diesel crime fade antenna dad galaxy glory speed";
+var mnemonic = "solid smooth dice miss truck forget drill clown salmon kit chunk artefact";

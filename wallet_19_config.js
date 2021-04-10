@@ -1,1 +1,1 @@
-var mnemonic = "afraid crime myth exhibit dinosaur betray end wait mixture cost question silk";
+var mnemonic = "help deliver upper diary arrange grass barrel rifle liberty manage mesh fire";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom attitude video cigar cheap bullet veteran piano police ill slam become";
+var mnemonic = "pen deposit summer hero defense edge body outer impact asset unknown clump";

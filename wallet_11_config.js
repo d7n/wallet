@@ -1,1 +1,1 @@
-var mnemonic = "name demise spike case foam decorate tragic upset found fun camera timber";
+var mnemonic = "daughter gesture faint tag dish coconut pole spirit found fetch session empty";

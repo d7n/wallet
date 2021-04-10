@@ -1,1 +1,1 @@
-var mnemonic = "art donkey ankle afford latin example actor permit cart eight donor harvest";
+var mnemonic = "run autumn fun total cancel kitchen hover mix add apple beach common";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe comfort antique shrug include priority midnight oak eternal female admit peanut";
+var mnemonic = "trophy derive again paper vehicle table suit memory year dance food employ";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper pulp myself help acoustic tell repeat expand host head tunnel cannon";
+var mnemonic = "insane immune public drip grain round sleep forum jelly alpha gorilla oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard observe rebuild side copy frost spend copy horn pulp answer eye";
+var mnemonic = "infant already inner virtual minor object involve agent guide clock pact monkey";

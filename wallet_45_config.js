@@ -1,1 +1,1 @@
-var mnemonic = "cereal satisfy edit animal whip table door bundle dumb myself tell wagon";
+var mnemonic = "sniff open bleak length achieve comfort wet tackle diary taste live arctic";

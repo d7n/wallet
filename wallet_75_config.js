@@ -1,1 +1,1 @@
-var mnemonic = "gloom sibling spray hawk cake excess extend salon piano pill century near";
+var mnemonic = "civil author panda van forget always unfair amount tool wage patch divorce";

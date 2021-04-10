@@ -1,1 +1,1 @@
-var mnemonic = "bubble early spoil manual genius drill source teach crop miss course cost";
+var mnemonic = "disorder survey glass skate acoustic put stove admit pyramid tiger observe tennis";

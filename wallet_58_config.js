@@ -1,1 +1,1 @@
-var mnemonic = "wink asthma trigger insane tattoo mushroom hello rough drip sight indicate walk";
+var mnemonic = "regular acid wealth excuse cage mimic ring quantum dry ritual panther bright";

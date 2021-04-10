@@ -1,1 +1,1 @@
-var mnemonic = "total below region bid slot craft adult change adult portion loyal apology";
+var mnemonic = "fame divorce climb waste neither bargain young trigger giant print eagle daughter";

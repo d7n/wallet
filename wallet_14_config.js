@@ -1,1 +1,1 @@
-var mnemonic = "canal recycle goose cement sun cream wave movie evil face funny run";
+var mnemonic = "chest dove coast timber tribe mom cycle cram wasp denial eight amateur";

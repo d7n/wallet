@@ -1,1 +1,1 @@
-var mnemonic = "consider resist assault convince upset physical cousin biology tortoise upon onion muscle";
+var mnemonic = "inherit wire alien mutual axis soap file tiny annual afford favorite stone";

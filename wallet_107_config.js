@@ -1,1 +1,1 @@
-var mnemonic = "left fix tank cash company position vibrant pole detect crazy basket smoke";
+var mnemonic = "age garage toward student card file insect noise bean horn table strong";

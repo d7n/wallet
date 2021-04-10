@@ -1,1 +1,1 @@
-var mnemonic = "sock effort actual thunder emotion whisper draw arrive industry turkey hint seven";
+var mnemonic = "leg ranch express witness struggle devote equip grief nation office miracle obscure";

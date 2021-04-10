@@ -1,1 +1,1 @@
-var mnemonic = "rich embody describe have dish addict strong hand turkey pottery disorder submit";
+var mnemonic = "stumble forward decrease fence bulk kiwi sun debris pattern anchor police prepare";

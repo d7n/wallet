@@ -1,1 +1,1 @@
-var mnemonic = "pony puzzle across ask virtual steak remind buzz basket world print october";
+var mnemonic = "betray shuffle assist license interest weird drastic cactus ramp step erosion violin";

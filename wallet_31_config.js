@@ -1,1 +1,1 @@
-var mnemonic = "police clay begin federal baby inspire property place spend assault hedgehog mosquito";
+var mnemonic = "family cycle only peasant repair feature harbor curve ozone kid upgrade rebuild";

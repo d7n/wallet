@@ -1,1 +1,1 @@
-var mnemonic = "random metal chalk urge uncle shift kind midnight roof book brand language";
+var mnemonic = "below moment tomorrow obscure govern jelly wasp eternal wrap deliver crime shoe";

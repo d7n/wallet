@@ -1,1 +1,1 @@
-var mnemonic = "mother sleep peanut mouse horn zoo all chimney surround child quick stone";
+var mnemonic = "flame decrease album junior gift frown spider deer kiwi stuff glue prosper";

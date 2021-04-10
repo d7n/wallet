@@ -1,1 +1,1 @@
-var mnemonic = "chief arctic school feed apart anchor people mesh want dumb jaguar spirit";
+var mnemonic = "pond blossom sunny yellow wink ice inch love any open point walk";

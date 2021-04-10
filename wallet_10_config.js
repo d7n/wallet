@@ -1,1 +1,1 @@
-var mnemonic = "degree season chuckle hair six clock push discover history kidney cricket journey";
+var mnemonic = "broccoli mail whip since minor minimum quick skill divorce cool question suggest";

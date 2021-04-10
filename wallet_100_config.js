@@ -1,1 +1,1 @@
-var mnemonic = "burden fever visa else ticket pizza paper ticket range expect foam area";
+var mnemonic = "autumn episode lonely august rent worry depart bitter chronic machine undo bag";

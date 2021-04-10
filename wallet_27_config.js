@@ -1,1 +1,1 @@
-var mnemonic = "cheap mutual addict actress stairs outer garage they labor copy orient load";
+var mnemonic = "core student rug turkey punch vote owner dash cup lamp lazy plunge";

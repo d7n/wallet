@@ -1,1 +1,1 @@
-var mnemonic = "pattern nominee airport library deer simple option sheriff across physical wear vanish";
+var mnemonic = "boil crowd hurry turn domain melody strategy plug narrow reform olympic convince";

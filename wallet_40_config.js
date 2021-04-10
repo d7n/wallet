@@ -1,1 +1,1 @@
-var mnemonic = "coconut install okay cargo fetch sound catalog merit border film denial mesh";
+var mnemonic = "attitude exhaust figure market bracket grace suggest rebel credit cage knife rule";

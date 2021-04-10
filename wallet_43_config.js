@@ -1,1 +1,1 @@
-var mnemonic = "traffic cotton family oblige boil brief chef laugh wedding bubble wear brick";
+var mnemonic = "cotton relief desk below truly modify idle reduce foam rural book essence";

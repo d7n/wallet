@@ -1,1 +1,1 @@
-var mnemonic = "fancy team avoid maple beauty husband brown kiwi polar vessel belt float";
+var mnemonic = "pole baby bottom chronic warfare night energy volcano view unveil grief private";

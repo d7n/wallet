@@ -1,1 +1,1 @@
-var mnemonic = "field hawk team remain gap profit vault neck save erase unique weapon";
+var mnemonic = "physical allow renew cash giant tourist series panic intact quantum comic minute";

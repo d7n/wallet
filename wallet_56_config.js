@@ -1,1 +1,1 @@
-var mnemonic = "list object portion scorpion knock moment matter eternal outer unusual husband vague";
+var mnemonic = "reflect cloth twist camera bundle sheriff tongue foster busy share journey double";

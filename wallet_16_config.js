@@ -1,1 +1,1 @@
-var mnemonic = "list direct brisk wedding power vote maid over cheap april bomb bulk";
+var mnemonic = "basket morning glimpse flip blast know amused property term tongue pear fall";

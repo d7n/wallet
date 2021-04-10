@@ -1,1 +1,1 @@
-var mnemonic = "industry cool cluster proud pattern cannon vicious legend consider remain wool poet";
+var mnemonic = "kitten love blossom prosper rain health educate fever kid slice service dirt";

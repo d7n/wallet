@@ -1,1 +1,1 @@
-var mnemonic = "same lucky harsh primary rain gas hard hurt misery thumb idea reward";
+var mnemonic = "solution matrix jaguar brush place rival february leg enjoy spatial real student";

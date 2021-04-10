@@ -1,1 +1,1 @@
-var mnemonic = "pepper series camera unlock mountain intact manage employ peanut grunt follow drastic";
+var mnemonic = "develop dirt want brain dial opera round color glimpse inside stomach rescue";

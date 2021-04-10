@@ -1,1 +1,1 @@
-var mnemonic = "middle chair review bird bulk basic lonely cancel result recipe trumpet horror";
+var mnemonic = "photo swear aim exist whisper double toward lamp desert funny crystal license";

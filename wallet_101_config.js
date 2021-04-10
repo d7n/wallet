@@ -1,1 +1,1 @@
-var mnemonic = "mask whip cost interest either cousin night plate shoulder truly chief neglect";
+var mnemonic = "decline poem use hedgehog divide kid wasp bean retire lazy whale payment";

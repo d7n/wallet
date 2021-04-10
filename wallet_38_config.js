@@ -1,1 +1,1 @@
-var mnemonic = "heavy salon oval stamp note rate defy maze daring present amateur arrange";
+var mnemonic = "east goose burden example present strategy sense regular pride year dawn enhance";

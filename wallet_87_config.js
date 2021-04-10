@@ -1,1 +1,1 @@
-var mnemonic = "name define turn inquiry demise unable bread uncle until glare decide awkward";
+var mnemonic = "foot combine family robot sponsor curtain helmet foil winter rain learn excite";

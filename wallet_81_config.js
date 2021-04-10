@@ -1,1 +1,1 @@
-var mnemonic = "derive pole remember upper shiver cheap upgrade record police photo chaos elite";
+var mnemonic = "clerk camp robust arrange soup waste device note arrange unveil inspire fade";

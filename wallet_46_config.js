@@ -1,1 +1,1 @@
-var mnemonic = "traffic topic pilot prosper north tiny position similar tissue window ozone menu";
+var mnemonic = "brush avoid start morning crater crew middle please pretty rescue horse stadium";

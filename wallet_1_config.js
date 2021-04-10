@@ -1,1 +1,1 @@
-var mnemonic = "venture match mix sheriff seat hungry process crisp alley spatial boy toe";
+var mnemonic = "rain fortune robust cause spare forget crash frog entry you spy crew";

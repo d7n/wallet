@@ -1,1 +1,1 @@
-var mnemonic = "lyrics knee puppy wave nation bring amount place meadow rubber weekend shine";
+var mnemonic = "mom purity happy better inmate valid hurry monitor escape oblige become patrol";
