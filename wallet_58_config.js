@@ -1,1 +1,1 @@
-var mnemonic = "topple traffic donate flight hat kitten buddy access bulk little physical always";
+var mnemonic = "hover better junior ordinary comic wire canvas south call notable trade another";

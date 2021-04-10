@@ -1,1 +1,1 @@
-var mnemonic = "balance reflect bridge crime bike address negative obey depth follow cry mandate";
+var mnemonic = "snake atom south bless atom current eight arena huge proud guess sad";

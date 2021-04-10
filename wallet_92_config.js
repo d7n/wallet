@@ -1,1 +1,1 @@
-var mnemonic = "license bring gown polar adult online harvest able glide invite desk flash";
+var mnemonic = "shell reason company cinnamon grain session loan twenty sand era lucky soda";

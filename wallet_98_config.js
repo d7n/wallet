@@ -1,1 +1,1 @@
-var mnemonic = "kite century output brass sea purchase over elegant basket quiz rural level";
+var mnemonic = "master more sponsor recycle similar inmate image concert script cloud math million";

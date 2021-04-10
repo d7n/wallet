@@ -1,1 +1,1 @@
-var mnemonic = "mimic drop soccer core lemon cluster perfect dwarf fox goat glow toast";
+var mnemonic = "suit style harbor garlic object enable shed razor stem legal coyote solar";

@@ -1,1 +1,1 @@
-var mnemonic = "music kite arm machine day alpha bind paddle rebel call reveal lava";
+var mnemonic = "document rival drink physical sun wheel enable atom portion appear rough invite";

@@ -1,1 +1,1 @@
-var mnemonic = "ability rural search assist denial option submit junior steel they raise dwarf";
+var mnemonic = "sea sick prize empty cook truth box judge maximum teach jazz motor";

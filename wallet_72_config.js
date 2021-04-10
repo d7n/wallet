@@ -1,1 +1,1 @@
-var mnemonic = "bench video human derive close defy near unaware fury peace crumble habit";
+var mnemonic = "earn diamond spirit account develop robot recipe accident question ask cloud enter";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown embody hurry turkey trumpet forum carry bar measure cause dilemma apology";
+var mnemonic = "explain lawn mesh manual track hamster clever wave apart leisure taxi corn";

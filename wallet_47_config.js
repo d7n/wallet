@@ -1,1 +1,1 @@
-var mnemonic = "panda universe meadow task hammer find oppose october very system mad stable";
+var mnemonic = "media pudding neglect also pumpkin hire bunker culture riot nature curve issue";

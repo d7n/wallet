@@ -1,1 +1,1 @@
-var mnemonic = "kick chief pumpkin galaxy deer battle hospital soccer replace utility inmate fan";
+var mnemonic = "blush stay warm crane monitor agent forward bamboo analyst art path cash";

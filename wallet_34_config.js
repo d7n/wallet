@@ -1,1 +1,1 @@
-var mnemonic = "develop cushion banana muscle wedding work calm expire spice rail broccoli silly";
+var mnemonic = "lizard cargo fish entry choice what chaos recall virus metal custom that";

@@ -1,1 +1,1 @@
-var mnemonic = "coil coil man either grief regular lazy lyrics arena stone only raccoon";
+var mnemonic = "delay cage void cushion urban choose sense fall stool garage giant book";

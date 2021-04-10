@@ -1,1 +1,1 @@
-var mnemonic = "play deputy copy feature hurdle agent fly bread mind idle foot castle";
+var mnemonic = "west learn fitness best gasp dove reunion indoor stove hello hedgehog culture";

@@ -1,1 +1,1 @@
-var mnemonic = "run share federal announce track village more march unlock flock common sauce";
+var mnemonic = "symbol hurry silk ghost gather luggage monkey rain lock midnight dawn express";

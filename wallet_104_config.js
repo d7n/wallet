@@ -1,1 +1,1 @@
-var mnemonic = "deputy bulb garden gaze initial will item radio grid happy sibling tree";
+var mnemonic = "guide push cinnamon case stem maze mean tumble net crunch badge rack";

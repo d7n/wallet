@@ -1,1 +1,1 @@
-var mnemonic = "eight length jungle turn width merry laptop boil occur awkward margin year";
+var mnemonic = "narrow desk uncle property sugar share crazy later mail theory minimum advance";

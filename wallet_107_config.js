@@ -1,1 +1,1 @@
-var mnemonic = "direct rude head laundry globe bleak assume choice august expire endorse moment";
+var mnemonic = "scrap neck multiply scrap loud canal volcano correct priority antenna meat skirt";

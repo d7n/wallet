@@ -1,1 +1,1 @@
-var mnemonic = "bamboo differ seat index baby segment token hole soft history ocean drama";
+var mnemonic = "exist genuine wear wasp dust jaguar argue butter horror brisk surface civil";

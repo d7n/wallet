@@ -1,1 +1,1 @@
-var mnemonic = "level smile helmet chicken hill lounge stage grant magnet swamp skull spot";
+var mnemonic = "observe flower brick collect memory speak maze stamp artist rhythm north purse";

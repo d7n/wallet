@@ -1,1 +1,1 @@
-var mnemonic = "tornado equip among basic adapt diesel ramp retire place junk beauty page";
+var mnemonic = "chapter effort train unveil assault evil soap film audit artist weekend circle";

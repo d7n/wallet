@@ -1,1 +1,1 @@
-var mnemonic = "radio lonely purse orange jungle grain faith test play never arm someone";
+var mnemonic = "hole helmet estate street story walk turn choose convince salad myself avoid";

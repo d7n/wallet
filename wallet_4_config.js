@@ -1,1 +1,1 @@
-var mnemonic = "curtain category awesome skate salmon chicken settle also feature team choose wine";
+var mnemonic = "decide ramp embrace seat enrich monitor net immense feature practice poverty chat";

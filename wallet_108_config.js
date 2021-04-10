@@ -1,1 +1,1 @@
-var mnemonic = "element scout pigeon enjoy census dose accuse melt fish attract blind chronic";
+var mnemonic = "bonus skate quick clean camp face stock team august skull limb spike";

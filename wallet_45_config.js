@@ -1,1 +1,1 @@
-var mnemonic = "female conduct doctor fish quit welcome engage injury review industry switch predict";
+var mnemonic = "draw wage coconut number salmon wheat real hurdle apology resemble bachelor funny";

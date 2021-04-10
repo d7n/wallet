@@ -1,1 +1,1 @@
-var mnemonic = "kidney raven old cherry turkey scorpion weekend element sunset shaft tribe exclude";
+var mnemonic = "suit album combine shadow come oil same rack glide fold card weapon";

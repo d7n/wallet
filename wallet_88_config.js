@@ -1,1 +1,1 @@
-var mnemonic = "hollow property cash blast virus consider like joke fence maze silver fatigue";
+var mnemonic = "member prefer chronic spin region reopen soul layer hand vacuum foster promote";

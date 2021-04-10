@@ -1,1 +1,1 @@
-var mnemonic = "top glove venue vehicle evolve fox enrich catalog afraid calm above trust";
+var mnemonic = "waste normal alien garage suspect dry draft fringe general panther congress sudden";

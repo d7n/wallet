@@ -1,1 +1,1 @@
-var mnemonic = "humor enemy fly guide club fire faith cliff vault length cat woman";
+var mnemonic = "vast cigar click dog neither home problem city hospital act normal loud";

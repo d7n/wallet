@@ -1,1 +1,1 @@
-var mnemonic = "benefit depend decrease blanket winner napkin praise aerobic old dial evil safe";
+var mnemonic = "voice police treat swing reunion pluck few kitten envelope purity purse profit";

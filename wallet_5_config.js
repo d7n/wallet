@@ -1,1 +1,1 @@
-var mnemonic = "belt mule horse combine liquid radar prevent donate erosion enhance rather trophy";
+var mnemonic = "bar stay volume symbol intact scorpion myth kiss host leaf host century";

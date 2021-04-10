@@ -1,1 +1,1 @@
-var mnemonic = "napkin improve gloom bargain enrich device spy pulse improve approve security together";
+var mnemonic = "meat absurd federal online tilt region human ripple jump copy start system";

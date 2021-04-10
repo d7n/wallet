@@ -1,1 +1,1 @@
-var mnemonic = "success spice column shoe fork capital earth kid slush theme exercise state";
+var mnemonic = "tilt enter east bird lottery current health focus desk fine autumn kiwi";

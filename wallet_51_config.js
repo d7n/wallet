@@ -1,1 +1,1 @@
-var mnemonic = "inform blossom waste tell spatial occur bottom hospital cloth weather biology excess";
+var mnemonic = "edit fury scheme member ripple arrive can height fault add hamster chapter";

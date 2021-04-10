@@ -1,1 +1,1 @@
-var mnemonic = "indoor faint eagle giraffe prefer ladder dog shoe follow find good velvet";
+var mnemonic = "south morning audit tell auction today away heart hobby mandate crowd raise";

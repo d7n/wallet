@@ -1,1 +1,1 @@
-var mnemonic = "language mechanic water resist police pluck uncover host argue maze they swarm";
+var mnemonic = "excess zone horn dove inform stuff vacuum catalog deal payment multiply inform";

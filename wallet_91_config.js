@@ -1,1 +1,1 @@
-var mnemonic = "monitor victory blouse again diesel genuine finish rely sausage tourist wheel dial";
+var mnemonic = "path wise biology capable drip camera motion mixed upgrade mom gravity song";

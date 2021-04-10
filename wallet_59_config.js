@@ -1,1 +1,1 @@
-var mnemonic = "autumn ripple lecture aware teach purchase dream festival lake nominee address sunset";
+var mnemonic = "opinion slush vicious pole section menu wash skin fury alpha pulp shop";

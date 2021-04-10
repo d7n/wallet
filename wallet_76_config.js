@@ -1,1 +1,1 @@
-var mnemonic = "arctic pizza fine regret hungry hospital wrist scrap virus predict solar frozen";
+var mnemonic = "frequent rather fitness focus soup universe powder salon custom ordinary memory file";

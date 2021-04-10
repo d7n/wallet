@@ -1,1 +1,1 @@
-var mnemonic = "cloth blanket stay stage quantum bleak session pet modify demise evidence exit";
+var mnemonic = "butter dizzy knock crisp prosper speak spell chicken clap globe naive neither";

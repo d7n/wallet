@@ -1,1 +1,1 @@
-var mnemonic = "cricket solar dress fault remain cry corn cross october jar milk pull";
+var mnemonic = "antenna later humble fruit city charge logic please gather scan order artwork";

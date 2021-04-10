@@ -1,1 +1,1 @@
-var mnemonic = "team boat edge output fashion swear please bone once tape eyebrow narrow";
+var mnemonic = "solution palace stick notice misery unlock chat document demand once account beauty";

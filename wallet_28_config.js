@@ -1,1 +1,1 @@
-var mnemonic = "street cherry desk hidden field swear north metal movie leisure slogan picnic";
+var mnemonic = "divert list tribe quarter token nurse fancy despair iron job real fatal";

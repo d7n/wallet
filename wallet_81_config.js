@@ -1,1 +1,1 @@
-var mnemonic = "device subway isolate choice subway wool design patient banana decade salute pigeon";
+var mnemonic = "interest trick black series diamond attract spy fly fancy open plate tourist";

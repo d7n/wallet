@@ -1,1 +1,1 @@
-var mnemonic = "goat siege actor lizard urge already drastic social climb sock arrange phrase";
+var mnemonic = "away divide theory catch human cereal quick advice sorry twin delay actual";

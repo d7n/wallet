@@ -1,1 +1,1 @@
-var mnemonic = "review project repeat slot innocent surface author siren clean exhibit dragon pupil";
+var mnemonic = "tail bridge special club damp genre art thumb bottom fuel rookie problem";

@@ -1,1 +1,1 @@
-var mnemonic = "topple east unusual alcohol tired obvious flavor lonely attitude blade science grit";
+var mnemonic = "mushroom lawsuit grid game resist room autumn grace east shy maple token";

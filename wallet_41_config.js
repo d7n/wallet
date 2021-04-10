@@ -1,1 +1,1 @@
-var mnemonic = "fox ready situate hobby abandon replace ramp bamboo abuse giggle record cube";
+var mnemonic = "boring dynamic awesome oppose orange off original auction vehicle gaze relief often";

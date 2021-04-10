@@ -1,1 +1,1 @@
-var mnemonic = "hope shine narrow thrive lucky earn affair install chapter truly fire cheap";
+var mnemonic = "sound remind you forest festival meat october upset credit vibrant jewel face";

@@ -1,1 +1,1 @@
-var mnemonic = "kit laptop suffer capital stove spring unusual add taste pencil view glass";
+var mnemonic = "mansion fabric cabin lottery arm day trash crazy excuse age congress around";

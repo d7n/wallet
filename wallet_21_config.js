@@ -1,1 +1,1 @@
-var mnemonic = "pond join host kitchen hawk ancient amused bottom gentle bid library indicate";
+var mnemonic = "about trial embrace before such thank auction purchase cool level thing praise";

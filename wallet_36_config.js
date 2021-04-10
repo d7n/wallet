@@ -1,1 +1,1 @@
-var mnemonic = "thumb arm palm remember keen main always section forest boil soup stay";
+var mnemonic = "before nephew desert nurse prize duck nasty sting oval follow client segment";

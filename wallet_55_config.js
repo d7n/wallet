@@ -1,1 +1,1 @@
-var mnemonic = "early garage crime blade height option clap visit virtual afford nurse annual";
+var mnemonic = "step since okay pledge door virus swift multiply help rug solution able";

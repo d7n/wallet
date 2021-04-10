@@ -1,1 +1,1 @@
-var mnemonic = "buyer cancel pond mechanic worth toss obtain void super solid wood hazard";
+var mnemonic = "ritual gesture educate clip tonight double august supreme fish index gadget panel";

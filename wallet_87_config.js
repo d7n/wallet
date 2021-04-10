@@ -1,1 +1,1 @@
-var mnemonic = "creek essence town level memory hockey mean clinic life aim dash start";
+var mnemonic = "eyebrow armor mixed exile stay basket health immune cactus skirt panda ball";

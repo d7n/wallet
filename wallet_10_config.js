@@ -1,1 +1,1 @@
-var mnemonic = "arrow polar total art animal mammal solar vault exact world erupt once";
+var mnemonic = "actor gesture remind execute soda vague place minute velvet that true merry";

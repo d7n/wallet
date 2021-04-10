@@ -1,1 +1,1 @@
-var mnemonic = "sweet project tower comfort acid fuel patch type keen advance learn parent";
+var mnemonic = "faith ozone south develop mammal fantasy snow before area breeze waste remember";

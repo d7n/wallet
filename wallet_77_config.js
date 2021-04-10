@@ -1,1 +1,1 @@
-var mnemonic = "monitor subject much stumble net wide ensure giggle into index easily rice";
+var mnemonic = "finish party rely learn armor chat absorb clerk extend decrease estate paper";

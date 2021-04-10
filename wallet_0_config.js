@@ -1,1 +1,1 @@
-var mnemonic = "maximum fish degree burger open crawl cheap easy clever note garlic relief";
+var mnemonic = "entry text retreat crop april bid inform captain tuition awake elegant argue";

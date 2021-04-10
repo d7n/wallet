@@ -1,1 +1,1 @@
-var mnemonic = "creek book fragile acoustic item prepare art initial fun bunker mirror equal";
+var mnemonic = "fade enlist horror drop alien frozen twice stool move draft aim expand";

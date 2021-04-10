@@ -1,1 +1,1 @@
-var mnemonic = "sheriff six frame hungry team tuition soft decide ladder speak dilemma labor";
+var mnemonic = "banana bracket harbor gasp runway slim parade stock planet height until knife";

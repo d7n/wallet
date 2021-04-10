@@ -1,1 +1,1 @@
-var mnemonic = "absent short assume divorce draw scan taxi where carry enable filter churn";
+var mnemonic = "fault version canoe bracket vibrant safe fog humble arena inside slice soon";

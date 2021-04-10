@@ -1,1 +1,1 @@
-var mnemonic = "boil possible pool improve accident champion spare pole danger bus light shell";
+var mnemonic = "mushroom mercy bulk resemble duty pass manage impulse cover hawk cave flat";

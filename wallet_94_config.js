@@ -1,1 +1,1 @@
-var mnemonic = "stereo wife taste cart ticket ridge bamboo similar hedgehog power nasty kick";
+var mnemonic = "about finish angry absorb prevent waste wood release turtle fiscal include control";

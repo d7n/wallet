@@ -1,1 +1,1 @@
-var mnemonic = "talk despair mask reason air push throw train near reduce judge link";
+var mnemonic = "silk beauty empty future shrimp shrimp thing steak salad consider april potato";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber recipe horror local exhaust concert cat purity squeeze arm idle gauge";
+var mnemonic = "trade more actor galaxy lamp wet hour section cruel slight bicycle twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "firm surprise spoon acoustic wife input swift involve chalk express arrive question";
+var mnemonic = "mobile boat science ensure ordinary ramp soul junior steel gift leader puzzle";

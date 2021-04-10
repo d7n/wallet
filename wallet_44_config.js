@@ -1,1 +1,1 @@
-var mnemonic = "village question ugly asset boy harvest depth unusual stem glory claim joy";
+var mnemonic = "shoulder enable knife this garage section prize venue shine company parrot hair";

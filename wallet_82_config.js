@@ -1,1 +1,1 @@
-var mnemonic = "patient feed until sauce cupboard jacket miracle improve goat fruit short travel";
+var mnemonic = "boy because cousin call battle oblige ice taste possible hard matter want";

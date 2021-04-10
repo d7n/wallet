@@ -1,1 +1,1 @@
-var mnemonic = "volcano skirt vessel eagle sunny diamond just anxiety door long seminar mystery";
+var mnemonic = "midnight document friend radar renew thought frozen learn weasel depart ostrich flock";

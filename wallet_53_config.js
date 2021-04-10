@@ -1,1 +1,1 @@
-var mnemonic = "help praise equip simple measure foil shove prosper result brother phone blind";
+var mnemonic = "soccer chalk fortune mimic beyond cupboard know chief token across orient trade";

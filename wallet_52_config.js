@@ -1,1 +1,1 @@
-var mnemonic = "sadness truly dilemma vintage obvious august dream bless visa lab predict round";
+var mnemonic = "door quiz clean vital general ritual fish jeans buffalo february music cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong access divide upgrade hidden license world mistake column taste cheap click";
+var mnemonic = "hero rack task hidden auto weather tree asthma flame artwork tip doctor";

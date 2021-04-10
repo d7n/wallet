@@ -1,1 +1,1 @@
-var mnemonic = "embody blouse push define castle buddy winter elder describe pilot olive text";
+var mnemonic = "excite engine visa swarm fossil floor twice hidden audit miss ten tackle";

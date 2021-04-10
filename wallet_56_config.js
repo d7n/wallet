@@ -1,1 +1,1 @@
-var mnemonic = "jaguar resist wisdom imitate link action galaxy deer include giant senior legend";
+var mnemonic = "lyrics penalty great shadow such vault sick replace discover sketch bomb easy";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle various tube spare suit carry find learn soldier cause history wine";
+var mnemonic = "mom estate creek flock can dinner wife island base glide scan staff";

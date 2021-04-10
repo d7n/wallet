@@ -1,1 +1,1 @@
-var mnemonic = "seek depth draw cup photo weird such hip book flip erosion upset";
+var mnemonic = "result buddy thank diet favorite gym blood camp domain buddy lend worry";

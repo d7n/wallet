@@ -1,1 +1,1 @@
-var mnemonic = "panic upon broom ozone ugly laugh rifle cereal now close poem sustain";
+var mnemonic = "tank cross law patrol wrong add fall fan radio supreme success laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "apology skin update mention tool parent denial evidence beauty sting dragon mercy";
+var mnemonic = "where lens opera settle crumble lecture shine flee toast hard gown story";

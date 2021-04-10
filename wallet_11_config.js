@@ -1,1 +1,1 @@
-var mnemonic = "squeeze enter local glad slow purity dwarf jar sister twice hub hover";
+var mnemonic = "combine cabbage meat heart cradle stuff much pelican rookie squeeze shield chef";

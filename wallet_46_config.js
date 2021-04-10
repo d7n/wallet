@@ -1,1 +1,1 @@
-var mnemonic = "depth reason curious transfer heavy question enhance artist mirror fruit cliff visual";
+var mnemonic = "eternal dove amazing ribbon lend used range winner south sponsor vapor pioneer";

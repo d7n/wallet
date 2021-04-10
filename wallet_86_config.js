@@ -1,1 +1,1 @@
-var mnemonic = "hen dragon merit industry brick shoulder ready perfect immense canoe lecture charge";
+var mnemonic = "oblige current witness funny siege metal possible survey impact busy left demand";

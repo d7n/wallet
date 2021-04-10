@@ -1,1 +1,1 @@
-var mnemonic = "tired impact poem tobacco slim song check bonus asthma note ring pyramid";
+var mnemonic = "tilt casual wing bench resist core table verb wild leave catalog local";

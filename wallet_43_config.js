@@ -1,1 +1,1 @@
-var mnemonic = "process moral hungry involve husband horse fire famous call distance office walnut";
+var mnemonic = "forest grid ski orbit custom misery gossip utility paddle permit party layer";

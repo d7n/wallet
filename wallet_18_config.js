@@ -1,1 +1,1 @@
-var mnemonic = "ankle leave opera bean boring unable story summer pumpkin slow wine million";
+var mnemonic = "dutch awesome mango solid carbon lake route resource panic sample power avocado";

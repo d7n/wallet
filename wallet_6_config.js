@@ -1,1 +1,1 @@
-var mnemonic = "flag aunt roof pet senior endorse curious work soul joy sea work";
+var mnemonic = "range weird indicate sure ahead velvet use online legal cliff sketch duty";

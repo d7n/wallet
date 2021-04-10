@@ -1,1 +1,1 @@
-var mnemonic = "draft empty choose noise rose second weekend casino train omit kingdom proof";
+var mnemonic = "chaos lunar flight disagree fade shell people place behind resource praise course";

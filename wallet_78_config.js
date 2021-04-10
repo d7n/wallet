@@ -1,1 +1,1 @@
-var mnemonic = "crisp peasant enlist wolf hunt giant gesture surprise poverty person oil oxygen";
+var mnemonic = "play select trust flavor behind believe maze crisp couch identify blue outdoor";
