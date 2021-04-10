@@ -1,1 +1,1 @@
-var mnemonic = "forest ensure knee addict chimney lady obtain enact oil stomach trap burden";
+var mnemonic = "amount happy romance evidence hungry senior winter library nuclear sponsor begin drive";

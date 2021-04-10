@@ -1,1 +1,1 @@
-var mnemonic = "october judge lock hidden defy muscle lady grid emerge main boat real";
+var mnemonic = "you correct aspect token rate grunt become method undo edit bleak defense";

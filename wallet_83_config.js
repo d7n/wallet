@@ -1,1 +1,1 @@
-var mnemonic = "aware owner come ice horror liar disease satisfy left solar movie enough";
+var mnemonic = "lucky such awful crowd common burst patch mother combine suggest eye badge";

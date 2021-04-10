@@ -1,1 +1,1 @@
-var mnemonic = "belt broccoli dinner panic alarm burst live employ first quarter section cereal";
+var mnemonic = "hire crucial grief match mansion fix exile eye have private industry abuse";

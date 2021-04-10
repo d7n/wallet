@@ -1,1 +1,1 @@
-var mnemonic = "awful panda bless blade tone today panel begin usual wonder ask bless";
+var mnemonic = "orange vanish ill tip depart tribe install transfer palace offer faith whale";

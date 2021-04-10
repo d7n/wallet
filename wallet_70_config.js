@@ -1,1 +1,1 @@
-var mnemonic = "cat basket police kind wash patient oblige laptop always purity sure very";
+var mnemonic = "photo fog banana skill good bless chronic police ride add addict woman";

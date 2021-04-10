@@ -1,1 +1,1 @@
-var mnemonic = "top invest blue village asthma minimum ribbon fever spend connect scrap funny";
+var mnemonic = "problem cigar patch shoot artwork riot main collect mammal lobster arm oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "debris essay pair pair notable illness satisfy across rotate genre verify example";
+var mnemonic = "almost equip whale mistake gas fatal athlete good sponsor forum entire also";

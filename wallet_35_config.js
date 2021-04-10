@@ -1,1 +1,1 @@
-var mnemonic = "kit game snap gauge trim metal vocal strong virus trophy congress liberty";
+var mnemonic = "bean strong coyote airport spend axis fish social relax census width crane";

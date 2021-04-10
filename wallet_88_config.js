@@ -1,1 +1,1 @@
-var mnemonic = "endorse distance bamboo cluster staff orphan dirt obvious jeans pitch stick omit";
+var mnemonic = "service filter grass unit sausage later eight pigeon layer dumb index turkey";

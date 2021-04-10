@@ -1,1 +1,1 @@
-var mnemonic = "decorate pipe march note wife body volcano estate marble artist spawn silent";
+var mnemonic = "hat riot impose erupt they board vicious carry reflect various believe leave";

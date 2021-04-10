@@ -1,1 +1,1 @@
-var mnemonic = "soccer sniff stay pencil memory tobacco artist wash chalk train example cram";
+var mnemonic = "assist peanut enforce banner lady coin comfort position cement pair upon insect";

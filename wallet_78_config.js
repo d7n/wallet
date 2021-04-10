@@ -1,1 +1,1 @@
-var mnemonic = "entry cabbage auto position acid tongue mule bird melody industry better weasel";
+var mnemonic = "prefer liberty tool pair jungle capable island magic bubble estate excuse paddle";

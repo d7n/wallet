@@ -1,1 +1,1 @@
-var mnemonic = "crisp boost about drip concert ridge acid mechanic delay bullet noodle patch";
+var mnemonic = "call usual zone duck adapt word rubber match dance describe high upper";

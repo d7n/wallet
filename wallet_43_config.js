@@ -1,1 +1,1 @@
-var mnemonic = "mirror turkey trip castle inject exit boil punch weasel wide grass dentist";
+var mnemonic = "fun sock girl universe catch earth avoid craft blind record polar abuse";

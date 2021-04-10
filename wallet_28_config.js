@@ -1,1 +1,1 @@
-var mnemonic = "bridge resource proof funny grace carbon chronic print frown endless rain ritual";
+var mnemonic = "drip canoe wasp quick rural cream lizard brand sad man bracket only";

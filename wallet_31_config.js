@@ -1,1 +1,1 @@
-var mnemonic = "rice share opinion issue able slow west expire more tip moral analyst";
+var mnemonic = "exhaust jeans arrange error display laugh absent firm present sock front waste";

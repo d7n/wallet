@@ -1,1 +1,1 @@
-var mnemonic = "choose fetch group oak embrace wood girl taxi burger thank melt chaos";
+var mnemonic = "valve acoustic panel chunk grain buzz swift marine risk furnace often worry";

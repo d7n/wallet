@@ -1,1 +1,1 @@
-var mnemonic = "roof liberty spike order casino enact collect evolve dad drip monitor kid";
+var mnemonic = "repeat carbon buzz biology move east consider brain shield invest holiday laundry";

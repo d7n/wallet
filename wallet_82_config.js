@@ -1,1 +1,1 @@
-var mnemonic = "flavor prize planet one airport junk bar churn tilt old tattoo bridge";
+var mnemonic = "share sun history violin item various potato inspire lift chaos young sick";

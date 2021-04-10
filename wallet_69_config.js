@@ -1,1 +1,1 @@
-var mnemonic = "bacon anxiety copper pink brisk author burger beauty swallow intact boost lounge";
+var mnemonic = "coach remember three salmon around elegant marriage year teach fresh crawl cactus";

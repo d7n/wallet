@@ -1,1 +1,1 @@
-var mnemonic = "length lens combine type either better wise scissors sister garlic refuse tenant";
+var mnemonic = "argue concert few spray control curtain debris creek disease outside panther caught";

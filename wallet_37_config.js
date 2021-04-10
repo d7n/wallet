@@ -1,1 +1,1 @@
-var mnemonic = "broom rare leaf wear pattern region castle salad they erupt script sense";
+var mnemonic = "ski echo expect loan hammer cloth practice scorpion charge lonely kite satoshi";

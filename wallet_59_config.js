@@ -1,1 +1,1 @@
-var mnemonic = "behind lady effort copper else canoe reduce half elbow super rural rookie";
+var mnemonic = "spawn fresh truth service system build lunar ocean put nut moral ginger";

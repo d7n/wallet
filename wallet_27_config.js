@@ -1,1 +1,1 @@
-var mnemonic = "quit elegant timber another reopen soldier misery season laundry jealous fury frame";
+var mnemonic = "thank march achieve mixed mesh acquire display process deny sense sniff kidney";

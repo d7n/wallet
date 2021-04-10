@@ -1,1 +1,1 @@
-var mnemonic = "all fitness snap famous sand bicycle vendor conduct pet wire suggest sure";
+var mnemonic = "adult that sting call rare bike bleak brick dragon damp resist scissors";

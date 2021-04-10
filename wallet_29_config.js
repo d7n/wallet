@@ -1,1 +1,1 @@
-var mnemonic = "snap story stairs practice whisper energy someone hill solution scrap feel hill";
+var mnemonic = "measure tennis scrap piano thought hole side invest metal boat fresh festival";

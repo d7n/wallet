@@ -1,1 +1,1 @@
-var mnemonic = "guilt offer once limb spoil use dry captain because orange bird bless";
+var mnemonic = "detect boost fish shed idea load front cash increase damp toy involve";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm suit city walk dinner submit valley ticket dance abuse repeat attack";
+var mnemonic = "tomato blouse genre fox joy evidence busy bus pride hub flee come";

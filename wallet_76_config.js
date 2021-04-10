@@ -1,1 +1,1 @@
-var mnemonic = "fine skate glue cube same word cinnamon when heart fit shrug illegal";
+var mnemonic = "wasp strike library street defense job fix joke farm rude income guard";

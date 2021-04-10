@@ -1,1 +1,1 @@
-var mnemonic = "alert motor insect minimum legend invite beef cannon law limb maximum shadow";
+var mnemonic = "already ball head frozen broom humor mass ahead device improve worth sense";

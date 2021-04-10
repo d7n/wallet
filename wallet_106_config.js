@@ -1,1 +1,1 @@
-var mnemonic = "august identify oppose follow smooth until ocean mass point trip elevator canyon";
+var mnemonic = "venture vibrant biology cabin girl potato spider verb volume keep crazy owner";

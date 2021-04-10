@@ -1,1 +1,1 @@
-var mnemonic = "priority equip broccoli mosquito era dizzy coral interest tool answer tonight apart";
+var mnemonic = "genius sense tent fancy gossip calm lend employ swamp alert join reunion";

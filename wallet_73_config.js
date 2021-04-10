@@ -1,1 +1,1 @@
-var mnemonic = "dilemma uphold phone promote wonder animal toddler junk rotate cattle mention pear";
+var mnemonic = "awake olive sponsor orient pond peace release involve skill negative fringe inch";

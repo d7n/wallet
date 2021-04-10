@@ -1,1 +1,1 @@
-var mnemonic = "laptop hand merry theory pattern poet supreme faith claw cushion hint case";
+var mnemonic = "vehicle budget clip parent script mother awake file night laugh live already";

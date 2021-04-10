@@ -1,1 +1,1 @@
-var mnemonic = "ivory soft little vendor this pear river fashion sketch time private unveil";
+var mnemonic = "element zone salon ecology polar chest differ force panic balance excess draw";

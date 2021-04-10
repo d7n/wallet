@@ -1,1 +1,1 @@
-var mnemonic = "little pride menu laundry panel floor food symptom stock oblige lumber old";
+var mnemonic = "keen primary trial marble orbit whip hurt verb orange fly decrease era";

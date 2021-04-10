@@ -1,1 +1,1 @@
-var mnemonic = "mention fold rule step rubber aim brush elegant when protect country arctic";
+var mnemonic = "under surround height poem reunion region approve sword maid salt antique vast";

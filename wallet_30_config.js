@@ -1,1 +1,1 @@
-var mnemonic = "hold kingdom can edge awkward puppy ill hero traffic loop bless ladder";
+var mnemonic = "nut outside culture focus slab tube awkward wine account violin credit amazing";

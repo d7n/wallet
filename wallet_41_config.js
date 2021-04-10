@@ -1,1 +1,1 @@
-var mnemonic = "segment alter portion fragile slice early uphold way confirm acoustic crouch olympic";
+var mnemonic = "oak conduct modify current pudding account thought guilt bulb coyote cup hurdle";

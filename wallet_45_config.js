@@ -1,1 +1,1 @@
-var mnemonic = "faith link fortune woman produce utility day eyebrow impose little coil draw";
+var mnemonic = "supreme marriage six reopen beyond remember glue cool orchard hockey easy circle";

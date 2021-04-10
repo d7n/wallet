@@ -1,1 +1,1 @@
-var mnemonic = "breeze swear monitor sentence valve reduce slender tenant forest truck trigger awesome";
+var mnemonic = "sniff unveil planet festival draw evil give shed taste medal radio october";

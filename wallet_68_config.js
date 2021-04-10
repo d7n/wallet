@@ -1,1 +1,1 @@
-var mnemonic = "opera weapon power atom okay eight swap swallow cup hand divert dismiss";
+var mnemonic = "assist body ramp believe chuckle basket chunk business garden arrow image olympic";

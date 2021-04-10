@@ -1,1 +1,1 @@
-var mnemonic = "spoil ugly fit cigar bless leopard modify first surprise acquire tackle use";
+var mnemonic = "indoor among vapor loop pudding taste window seminar scale office slow pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "inch alert access spirit stone install alter vanish repair shield use casino";
+var mnemonic = "present pond pulse helmet address pool laundry genre mule fox extra praise";

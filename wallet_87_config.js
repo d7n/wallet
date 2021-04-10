@@ -1,1 +1,1 @@
-var mnemonic = "ginger wheat large hurt elevator carpet modify jealous coconut math oak gym";
+var mnemonic = "bubble cart hill faith celery act wink squirrel accident armed slow wear";

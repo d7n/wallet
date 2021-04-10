@@ -1,1 +1,1 @@
-var mnemonic = "organ lady barrel child pink mom urban anchor gate smoke wet diary";
+var mnemonic = "giraffe sibling siren only inform frequent disagree busy caution source pride tongue";

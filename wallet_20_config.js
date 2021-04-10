@@ -1,1 +1,1 @@
-var mnemonic = "click much olympic kidney fringe utility ill lion east mixed market three";
+var mnemonic = "pilot discover worth denial tomato idle maid example lumber review void cook";

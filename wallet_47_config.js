@@ -1,1 +1,1 @@
-var mnemonic = "fetch aerobic announce buffalo execute undo profit exotic sentence ramp idle spin";
+var mnemonic = "govern connect lunch sentence abandon position sauce wood february hamster steak artefact";

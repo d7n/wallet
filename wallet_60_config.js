@@ -1,1 +1,1 @@
-var mnemonic = "hold glare lab offer visa poem ginger found chat exotic duck equip";
+var mnemonic = "sponsor staff yellow pudding game toilet square thing sketch fashion deposit attract";

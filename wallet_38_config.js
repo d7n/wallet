@@ -1,1 +1,1 @@
-var mnemonic = "useless person auction print head luggage eye hat abuse position inquiry flavor";
+var mnemonic = "false crisp cash mask chief night basket debris crowd crack click deposit";

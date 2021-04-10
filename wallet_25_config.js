@@ -1,1 +1,1 @@
-var mnemonic = "open menu tennis autumn federal judge spoil rescue spider burger power cloud";
+var mnemonic = "enact glow sport today magic tragic woman cluster today tree canvas mountain";

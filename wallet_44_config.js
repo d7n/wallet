@@ -1,1 +1,1 @@
-var mnemonic = "mad scare misery glide push remember patch pistol iron forward run tool";
+var mnemonic = "tool raccoon clay goose cupboard vintage screen explain jealous already pilot ball";

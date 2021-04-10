@@ -1,1 +1,1 @@
-var mnemonic = "judge always cruel quarter mandate twist poet route echo bubble salute wild";
+var mnemonic = "ladder fire tornado share velvet text cool edge know raw bacon cheese";

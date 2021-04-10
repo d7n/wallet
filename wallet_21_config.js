@@ -1,1 +1,1 @@
-var mnemonic = "list problem organ stadium radio gospel upper crazy ocean bounce knee siege";
+var mnemonic = "lecture among gown army battle beach slight unable pride raven level boat";

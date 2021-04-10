@@ -1,1 +1,1 @@
-var mnemonic = "truck shield stone owner absorb hub swear salad sign off proud keep";
+var mnemonic = "obvious runway comic iron daring ask sound sugar spawn drum voyage lawn";

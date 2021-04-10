@@ -1,1 +1,1 @@
-var mnemonic = "only rocket quit better purity when alter space make dog brush size";
+var mnemonic = "eye fluid trim coast lab clarify glide victory assault sense allow autumn";

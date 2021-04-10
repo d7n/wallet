@@ -1,1 +1,1 @@
-var mnemonic = "sentence furnace mistake glass crucial fox since sustain want icon enrich task";
+var mnemonic = "endless purchase oil proud remove admit mimic hope similar left senior live";

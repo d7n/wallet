@@ -1,1 +1,1 @@
-var mnemonic = "wife major flag glow perfect develop focus rice blossom side spin truth";
+var mnemonic = "upset flight struggle seminar gesture pattern outer mind require badge crazy unable";

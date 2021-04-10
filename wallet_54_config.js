@@ -1,1 +1,1 @@
-var mnemonic = "boat wall where glow visa spend forum song ecology emerge valley struggle";
+var mnemonic = "solve coin assault squirrel planet near shove lesson patrol coyote jungle appear";

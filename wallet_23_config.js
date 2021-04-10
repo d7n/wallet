@@ -1,1 +1,1 @@
-var mnemonic = "video dish reject pitch cereal mouse country dawn asthma wrong wasp copy";
+var mnemonic = "chaos diary middle speak outside moral hawk you cattle six excuse eternal";

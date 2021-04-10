@@ -1,1 +1,1 @@
-var mnemonic = "medal cash alley army clean list sense column summer under sign easily";
+var mnemonic = "giant faculty detail behind bargain husband point legend oval find soup stomach";

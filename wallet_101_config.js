@@ -1,1 +1,1 @@
-var mnemonic = "good piano trick black develop current media border face club absorb leisure";
+var mnemonic = "dress prefer inch cheese phone tornado appear husband resemble dust panel huge";

@@ -1,1 +1,1 @@
-var mnemonic = "long shadow analyst tissue pen grief wrong access open cannon approve jewel";
+var mnemonic = "lady uncle pizza live height empower unfold siege random edit turkey cloud";

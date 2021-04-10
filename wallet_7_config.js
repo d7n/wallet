@@ -1,1 +1,1 @@
-var mnemonic = "harsh orphan renew pool stomach machine favorite pen ring calm husband rice";
+var mnemonic = "token moral custom donor cat write scrap helmet pride make flush sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "call foam oblige hole develop attitude false act garbage cream sketch crush";
+var mnemonic = "prison frozen arrive enable slice cover cause february immune mixed swamp devote";

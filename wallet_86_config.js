@@ -1,1 +1,1 @@
-var mnemonic = "dust six pig fiscal fortune shift pair scrap tunnel comfort nuclear choose";
+var mnemonic = "legal extra wait chuckle happy exercise sleep dismiss glide soccer marble manual";

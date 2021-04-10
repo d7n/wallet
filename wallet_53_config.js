@@ -1,1 +1,1 @@
-var mnemonic = "position waste join ecology lottery dad jacket gap surprise fiber three crunch";
+var mnemonic = "inspire session egg used give custom recycle exotic helmet frown access grass";

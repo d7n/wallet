@@ -1,1 +1,1 @@
-var mnemonic = "stove put popular little error soap phrase way emerge tide drama raven";
+var mnemonic = "theme inform ugly strike gasp hobby keen mystery column glimpse grit target";

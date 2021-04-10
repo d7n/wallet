@@ -1,1 +1,1 @@
-var mnemonic = "trust proud cereal top income lava side puzzle moral rebuild turtle diamond";
+var mnemonic = "dad explain design ripple wrestle main outdoor violin shoe year kiss cement";

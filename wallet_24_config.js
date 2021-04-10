@@ -1,1 +1,1 @@
-var mnemonic = "alone swing virus chronic weasel occur ceiling pipe size return van dinner";
+var mnemonic = "hunt title title office grit venture shy cluster address garbage mom hard";

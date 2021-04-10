@@ -1,1 +1,1 @@
-var mnemonic = "upper whale used young mean deny grass call note antique emerge word";
+var mnemonic = "ankle south pink toward fee insane safe toilet opinion visa clinic curious";

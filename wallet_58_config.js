@@ -1,1 +1,1 @@
-var mnemonic = "topic fresh fade alley survey ready agree mountain fade error increase snap";
+var mnemonic = "certain cargo glance orient birth execute erupt miss head welcome oil emerge";

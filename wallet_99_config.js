@@ -1,1 +1,1 @@
-var mnemonic = "mail cheese banana connect lobster tape furnace heart rice alley plastic useful";
+var mnemonic = "tragic vendor address siege guilt account recipe credit endorse moon glimpse dragon";

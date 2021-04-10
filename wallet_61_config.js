@@ -1,1 +1,1 @@
-var mnemonic = "cry skirt stuff aspect bacon announce various celery nation credit minimum mail";
+var mnemonic = "gate erase concert crane street train move ramp farm magnet health glare";

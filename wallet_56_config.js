@@ -1,1 +1,1 @@
-var mnemonic = "bind leave year tiny charge jeans twist giggle nice ill season when";
+var mnemonic = "outdoor athlete labor twin time sponsor happy child attack bamboo quality cloth";

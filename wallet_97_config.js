@@ -1,1 +1,1 @@
-var mnemonic = "destroy settle fat off more save unveil myself wrap unknown quote tower";
+var mnemonic = "aware ill decline any team chimney scissors tired thumb cinnamon belt error";

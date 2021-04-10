@@ -1,1 +1,1 @@
-var mnemonic = "kiwi harsh clean giraffe color leisure alter hold timber cloth erase during";
+var mnemonic = "garment sea clarify bright region tourist license other way mother universe alcohol";

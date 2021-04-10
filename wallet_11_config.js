@@ -1,1 +1,1 @@
-var mnemonic = "one forward thunder program scout reveal slot balcony inmate original rare advance";
+var mnemonic = "motor clown market nerve almost thought library renew action seat board tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "keen drastic spell brand suffer canal derive more jaguar peace broccoli govern";
+var mnemonic = "various acoustic swim town same inner hunt garlic just country mass beyond";

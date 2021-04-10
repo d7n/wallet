@@ -1,1 +1,1 @@
-var mnemonic = "split voice future wear talent model belt offer struggle ten undo become";
+var mnemonic = "patch clump close captain salad reveal mirror opinion glimpse cube maid fun";

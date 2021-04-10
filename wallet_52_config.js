@@ -1,1 +1,1 @@
-var mnemonic = "suit name into between fade frost snow powder volume cattle effort joy";
+var mnemonic = "fault grant opinion swarm mango napkin logic pipe cushion farm poet hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic cabin always zone hunt excuse ginger custom grid swamp ostrich prosper";
+var mnemonic = "taxi sound rhythm estate erupt blossom dinner nurse whisper water pair awesome";
