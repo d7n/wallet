@@ -1,1 +1,1 @@
-var mnemonic = "toddler flip poverty broccoli goose once annual cabin pluck olive galaxy morning";
+var mnemonic = "giant govern receive weasel soccer fat table wreck small obscure fit jaguar";

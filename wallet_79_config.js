@@ -1,1 +1,1 @@
-var mnemonic = "high happy nice floor warm hill buddy silly vapor story today today";
+var mnemonic = "question equip search ready answer shallow snap ginger destroy food right endorse";

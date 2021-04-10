@@ -1,1 +1,1 @@
-var mnemonic = "oblige correct major credit minimum near dizzy liar phone still crunch mechanic";
+var mnemonic = "awake cliff tortoise seminar shy outside attack fever cover flush crawl cause";

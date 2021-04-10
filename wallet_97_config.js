@@ -1,1 +1,1 @@
-var mnemonic = "rib private sustain ocean parent much swear bench season sing comic hundred";
+var mnemonic = "foster repair man consider sea news install case climb vapor toss inner";

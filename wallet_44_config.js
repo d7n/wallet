@@ -1,1 +1,1 @@
-var mnemonic = "trim web weird orchard man plunge tiny rely bamboo autumn soccer parrot";
+var mnemonic = "prevent fantasy health teach certain pool item powder media electric save improve";

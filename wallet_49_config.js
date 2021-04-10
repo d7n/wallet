@@ -1,1 +1,1 @@
-var mnemonic = "danger vacant lizard cause dog reduce brand real shop one correct erupt";
+var mnemonic = "host drive toward program update pause prepare dust install pool mask hood";

@@ -1,1 +1,1 @@
-var mnemonic = "save bench tree mimic vote gravity screen smoke advance swamp hard blush";
+var mnemonic = "erosion venue boat grant upon orange someone grape gap impose coral front";

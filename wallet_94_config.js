@@ -1,1 +1,1 @@
-var mnemonic = "join input gasp between also escape keep uniform practice age pony buyer";
+var mnemonic = "hidden sight tennis build reduce west strike like mesh employ provide tent";

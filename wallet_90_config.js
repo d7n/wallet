@@ -1,1 +1,1 @@
-var mnemonic = "switch dog judge plate pond rocket erupt vessel sleep boil tuna layer";
+var mnemonic = "shell tube copy road today light hurt wood response onion machine try";

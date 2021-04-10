@@ -1,1 +1,1 @@
-var mnemonic = "convince frame chimney deposit guess glory grab father true river such evil";
+var mnemonic = "grass ski run betray card lava bleak surprise hunt link item decrease";

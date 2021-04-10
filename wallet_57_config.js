@@ -1,1 +1,1 @@
-var mnemonic = "punch glory apart poem antique visit narrow wear blanket return warfare sponsor";
+var mnemonic = "control differ vacuum kidney explain cream wine between acquire lyrics roof torch";

@@ -1,1 +1,1 @@
-var mnemonic = "slim page north blast vivid use drive warfare doll post rural loud";
+var mnemonic = "butter word sheriff fruit increase blossom sting replace curtain glide regular panther";

@@ -1,1 +1,1 @@
-var mnemonic = "key visit top fresh imitate note mercy pitch fun wine opera can";
+var mnemonic = "fabric noise pluck earn salute kidney people horror moral sunny swim mind";

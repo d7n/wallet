@@ -1,1 +1,1 @@
-var mnemonic = "tomato sentence inmate little claim bring mobile champion blanket grocery result front";
+var mnemonic = "forest depth sheriff find general pair faculty list couch awesome unfold dose";

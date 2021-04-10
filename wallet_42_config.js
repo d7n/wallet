@@ -1,1 +1,1 @@
-var mnemonic = "acoustic ski tip bus trophy void huge ivory hub honey old spoon";
+var mnemonic = "mixture galaxy banner puzzle meadow civil outer rug cherry ring vivid season";

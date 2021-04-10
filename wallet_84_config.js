@@ -1,1 +1,1 @@
-var mnemonic = "basket eye shallow release sister reflect glimpse gasp envelope witness ring fetch";
+var mnemonic = "text conduct pony embody wing appear friend gas engine denial eager manage";

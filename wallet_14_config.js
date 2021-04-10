@@ -1,1 +1,1 @@
-var mnemonic = "kite visa scheme pigeon vapor hotel face civil hover ceiling mountain gate";
+var mnemonic = "switch bleak member never shaft palace brown finish reform discover dumb thumb";

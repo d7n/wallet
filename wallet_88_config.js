@@ -1,1 +1,1 @@
-var mnemonic = "youth rural cave property pony pelican ability cycle original faith space unveil";
+var mnemonic = "hamster situate slim idea agree nut suit clarify bulk laundry pyramid deposit";

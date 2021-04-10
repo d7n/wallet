@@ -1,1 +1,1 @@
-var mnemonic = "income burger stumble bamboo multiply learn mansion slush desert outdoor erupt box";
+var mnemonic = "hill shrug ecology cancel off away zero village digital organ level wheat";

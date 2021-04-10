@@ -1,1 +1,1 @@
-var mnemonic = "real cake lamp deer pear bicycle love smoke tooth enforce viable figure";
+var mnemonic = "comic heart left clever april pitch exhaust fancy gravity tent impact nuclear";

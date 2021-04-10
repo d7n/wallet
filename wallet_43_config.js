@@ -1,1 +1,1 @@
-var mnemonic = "bubble allow vessel want reform myth expand unable awful cushion process betray";
+var mnemonic = "hedgehog coyote where man fan entire permit always field thought flock build";

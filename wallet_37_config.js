@@ -1,1 +1,1 @@
-var mnemonic = "bundle blouse left survey enough debris shuffle web caution donor large dutch";
+var mnemonic = "express lady black inmate expect gym address fine news rapid athlete wedding";

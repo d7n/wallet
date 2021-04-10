@@ -1,1 +1,1 @@
-var mnemonic = "lunch coconut result copper sick chuckle raccoon actor bullet claw twin plug";
+var mnemonic = "glance battle hour bamboo trust enlist budget wool flush tag clever attack";

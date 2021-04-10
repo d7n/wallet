@@ -1,1 +1,1 @@
-var mnemonic = "oak wild purse same decrease orchard stock little between twice spike light";
+var mnemonic = "vintage skill deny sausage opera upper element cart inherit confirm celery jeans";

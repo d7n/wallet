@@ -1,1 +1,1 @@
-var mnemonic = "sheriff vivid pig glare smile rather maximum suit float start step biology";
+var mnemonic = "lyrics edit page twenty core symptom example tackle fault head arm menu";

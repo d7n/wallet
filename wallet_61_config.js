@@ -1,1 +1,1 @@
-var mnemonic = "enroll bullet regular spatial brief increase stay snap carry breeze pistol deal";
+var mnemonic = "knife exile cargo sister enough major earth flight axis good vocal brief";

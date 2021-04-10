@@ -1,1 +1,1 @@
-var mnemonic = "winner often design tonight camp lawn south hard first process rule glare";
+var mnemonic = "wrap same jacket bulb door blast circle suggest left prize add across";

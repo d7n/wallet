@@ -1,1 +1,1 @@
-var mnemonic = "chuckle shrimp join rubber soap lens play unknown guitar gift sell awake";
+var mnemonic = "flash slush floor trip stone deliver drift genuine slim recipe snack drill";

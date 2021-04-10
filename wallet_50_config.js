@@ -1,1 +1,1 @@
-var mnemonic = "stay ship enact shift leopard repeat curious sudden salmon acquire wave eight";
+var mnemonic = "hollow dynamic loop joke chest trouble mandate earth scissors mom spike dance";

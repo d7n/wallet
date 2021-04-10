@@ -1,1 +1,1 @@
-var mnemonic = "flash peace detail usual double car symbol kite scout sight toilet ocean";
+var mnemonic = "raise farm jealous famous dog robust law canal rocket ask tail muscle";

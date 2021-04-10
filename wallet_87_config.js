@@ -1,1 +1,1 @@
-var mnemonic = "kid sleep security carbon market cheese salt dinosaur leg embark foster dwarf";
+var mnemonic = "gym soft rather farm lamp milk mimic aspect outer claw monitor machine";

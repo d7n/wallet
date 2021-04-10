@@ -1,1 +1,1 @@
-var mnemonic = "castle install cage spell hawk over fatigue answer huge grape fade quick";
+var mnemonic = "never warfare list motor horn panic actor rhythm host sunset fork spoil";

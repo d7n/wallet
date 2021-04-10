@@ -1,1 +1,1 @@
-var mnemonic = "entire display green you chaos prize help bridge easy sell test donate";
+var mnemonic = "announce detect skate dumb fancy friend prefer middle december birth beauty dumb";

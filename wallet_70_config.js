@@ -1,1 +1,1 @@
-var mnemonic = "circle acoustic midnight amazing mosquito asset merge team thank ship antenna equip";
+var mnemonic = "tape quit surface alone fish force together buyer acoustic laptop polar clutch";

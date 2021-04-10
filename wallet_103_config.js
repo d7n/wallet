@@ -1,1 +1,1 @@
-var mnemonic = "curious cliff other trigger pyramid chest wrist love month renew swamp easy";
+var mnemonic = "trial oppose marine cancel asset special heart hollow simple estate mobile army";

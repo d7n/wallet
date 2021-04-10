@@ -1,1 +1,1 @@
-var mnemonic = "reform essay axis style either employ puzzle inner rack rescue desert ten";
+var mnemonic = "envelope model kidney gather rule wealth refuse report coast knock absurd problem";

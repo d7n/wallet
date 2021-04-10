@@ -1,1 +1,1 @@
-var mnemonic = "mad screen little mountain safe purity slender inherit robot evidence wash sick";
+var mnemonic = "grit egg salon victory yard naive kit bamboo pill live farm cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum tree ecology resemble vocal quarter swing scrap rapid grass exclude panther";
+var mnemonic = "draft course help raccoon sustain polar ivory sphere never renew absorb skull";

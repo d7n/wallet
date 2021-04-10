@@ -1,1 +1,1 @@
-var mnemonic = "they tomato fury praise grunt repeat embark funny flame custom vital flower";
+var mnemonic = "devote panda pumpkin slogan afford hungry man inherit sell vault power wonder";

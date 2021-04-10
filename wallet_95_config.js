@@ -1,1 +1,1 @@
-var mnemonic = "country flame laundry school girl hope jump repair warfare script marriage science";
+var mnemonic = "heavy record work rely mixed oval solar jar brick curious grit error";

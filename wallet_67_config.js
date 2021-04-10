@@ -1,1 +1,1 @@
-var mnemonic = "smooth ostrich swear carpet silk gap gorilla essay play video shield broom";
+var mnemonic = "hand accident alley birth rare indoor innocent category gossip zone entire room";

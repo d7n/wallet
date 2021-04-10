@@ -1,1 +1,1 @@
-var mnemonic = "alcohol hub clock family bracket citizen rely lend crew random profit because";
+var mnemonic = "park tumble arrive ugly universe oil trick unaware excuse subject dizzy rookie";

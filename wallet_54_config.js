@@ -1,1 +1,1 @@
-var mnemonic = "nurse donor shiver wealth muscle design live swing whale call similar give";
+var mnemonic = "team lawn decorate shell grit amused purse zero dial high chef wild";

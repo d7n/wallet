@@ -1,1 +1,1 @@
-var mnemonic = "thing nephew unknown liquid damp solar version vital spring pass bike best";
+var mnemonic = "alley boil glad scout critic public luxury advice become clap turtle gun";

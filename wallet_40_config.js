@@ -1,1 +1,1 @@
-var mnemonic = "dirt sock clean ability disagree embody impulse turn monkey mango horse chaos";
+var mnemonic = "car black donor evil use improve piece refuse play tiny water exotic";

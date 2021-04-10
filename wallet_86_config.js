@@ -1,1 +1,1 @@
-var mnemonic = "lake ski image trial sugar snake talk noodle adult pride celery arrange";
+var mnemonic = "project symptom silk state record emerge razor hunt cover north spirit exchange";

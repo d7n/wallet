@@ -1,1 +1,1 @@
-var mnemonic = "capital sleep health potato swing captain example cash soda snack laptop account";
+var mnemonic = "below laptop assume educate episode shuffle dinosaur bar error spot stove bind";

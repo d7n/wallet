@@ -1,1 +1,1 @@
-var mnemonic = "deputy symptom solution twice grief axis craft tonight limb kidney security help";
+var mnemonic = "velvet another zone stool foam oppose apple acid where wife sphere thing";

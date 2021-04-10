@@ -1,1 +1,1 @@
-var mnemonic = "pledge snack umbrella net use circle together aunt easy shaft latin squeeze";
+var mnemonic = "quantum shaft fork ostrich grief bullet cement tackle tower club attitude biology";

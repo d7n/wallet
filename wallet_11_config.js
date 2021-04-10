@@ -1,1 +1,1 @@
-var mnemonic = "pioneer detail way express snow off draw chat elite lab broom team";
+var mnemonic = "brand grain unveil traffic disease melody monkey pumpkin kind aunt hat palace";

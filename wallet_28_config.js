@@ -1,1 +1,1 @@
-var mnemonic = "soft blanket fatigue denial reject enrich economy actor picnic success scout amazing";
+var mnemonic = "remind sort castle deputy occur rabbit warfare empower gas post parent sense";

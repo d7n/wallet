@@ -1,1 +1,1 @@
-var mnemonic = "wrong island please correct promote skill ankle crash antenna hello lemon winter";
+var mnemonic = "clean brief hedgehog series miss magic able resist fun wagon sail drama";

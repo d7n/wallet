@@ -1,1 +1,1 @@
-var mnemonic = "inject hint walnut purse ugly decide luxury eternal success chair story they";
+var mnemonic = "episode weasel jealous aunt dumb left scrap reason enrich situate invest pottery";

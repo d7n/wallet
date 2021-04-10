@@ -1,1 +1,1 @@
-var mnemonic = "fade filter balcony vicious text unusual bag way tuition ancient away emerge";
+var mnemonic = "salon naive link elbow family oak emotion olympic capital casual intact range";

@@ -1,1 +1,1 @@
-var mnemonic = "drink front bag inmate digital hidden erosion inquiry aunt usual forest network";
+var mnemonic = "neck era blur leave culture west term pledge void rose fortune invest";

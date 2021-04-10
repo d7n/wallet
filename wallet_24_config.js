@@ -1,1 +1,1 @@
-var mnemonic = "shaft crack thumb great cabbage armed health art jazz change present fade";
+var mnemonic = "useful chat same frog wasp shoot amazing meat vicious gown vendor spy";

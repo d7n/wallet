@@ -1,1 +1,1 @@
-var mnemonic = "soldier merit helmet father will cotton solid scissors kingdom brisk danger heart";
+var mnemonic = "quarter captain right problem vintage language rural code found valley cotton wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen picnic amazing index poverty shoot online custom pony dawn permit omit";
+var mnemonic = "voyage else dash pride inhale mean erupt flight stand neutral hair topple";

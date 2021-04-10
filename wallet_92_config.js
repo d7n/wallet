@@ -1,1 +1,1 @@
-var mnemonic = "final approve zero security tonight pretty moon lunch atom loan green airport";
+var mnemonic = "surprise medal bid cool chief dish sword cry attitude organ people scorpion";

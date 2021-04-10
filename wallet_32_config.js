@@ -1,1 +1,1 @@
-var mnemonic = "pair load denial belt blanket bind snap mom garage lift stem scrap";
+var mnemonic = "siege stable point borrow shiver exhibit film wink label useful glass wear";

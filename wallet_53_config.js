@@ -1,1 +1,1 @@
-var mnemonic = "client famous street gloom this prevent stove veteran peanut stone thought ski";
+var mnemonic = "boil cloud shadow abuse bulb dune exact upper foot abstract assume worth";

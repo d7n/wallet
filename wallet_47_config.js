@@ -1,1 +1,1 @@
-var mnemonic = "muscle way few theme maze canvas enact verify raccoon whip penalty slam";
+var mnemonic = "wealth donate swim this space tornado grace hour cover awkward another orange";

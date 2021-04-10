@@ -1,1 +1,1 @@
-var mnemonic = "plate mistake night riot ugly explain teach sunny unfold soda toe weekend";
+var mnemonic = "outdoor broom rapid combine quiz canal rabbit love main evil still quit";

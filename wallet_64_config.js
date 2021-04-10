@@ -1,1 +1,1 @@
-var mnemonic = "prevent poverty caution sausage enemy earth silly there pretty copper joy then";
+var mnemonic = "penalty trim dinosaur away sibling twelve grace audit repair deal outdoor discover";

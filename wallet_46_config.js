@@ -1,1 +1,1 @@
-var mnemonic = "peanut bargain refuse whip ladder tumble corn mountain salt song pole monster";
+var mnemonic = "predict purse proud fiction bomb visa equal creek tide radar render perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "area unit edge soup onion cake capital tank long congress stool remain";
+var mnemonic = "surround select way spell define cinnamon tooth tip habit umbrella jaguar elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "border analyst ancient stuff sea dad silk dog light fire when present";
+var mnemonic = "view next recycle hollow inch reform awkward salmon acquire fiscal fire insane";

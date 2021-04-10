@@ -1,1 +1,1 @@
-var mnemonic = "organ nut siege arch crystal urge grief narrow analyst shell coyote confirm";
+var mnemonic = "hybrid first jungle poem museum access sunset clip crumble black sentence lunch";

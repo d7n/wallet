@@ -1,1 +1,1 @@
-var mnemonic = "turkey repeat expand frown elephant fun evoke mass siege box equal false";
+var mnemonic = "media review cradle volume change there glare leg discover express canoe explain";

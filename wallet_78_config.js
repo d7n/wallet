@@ -1,1 +1,1 @@
-var mnemonic = "green allow coconut suffer filter torch test supply twenty bring twice effort";
+var mnemonic = "movie cycle road humor joke swarm habit calm fire alien obscure donate";

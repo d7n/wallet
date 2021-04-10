@@ -1,1 +1,1 @@
-var mnemonic = "mad cloud what protect total obvious hungry brick casino lemon direct impact";
+var mnemonic = "draw noble shine wing menu road immune tank solar super aisle wine";

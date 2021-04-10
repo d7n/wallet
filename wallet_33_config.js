@@ -1,1 +1,1 @@
-var mnemonic = "mixed become board coconut language cash heart leisure tunnel nuclear mansion small";
+var mnemonic = "hire april world begin pencil unknown whale mountain army gown glimpse father";

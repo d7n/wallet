@@ -1,1 +1,1 @@
-var mnemonic = "awful okay awkward exotic blast wedding salt jump conduct pave devote razor";
+var mnemonic = "armed final winter come slice feel idle isolate icon ill valid violin";

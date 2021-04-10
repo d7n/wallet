@@ -1,1 +1,1 @@
-var mnemonic = "kiss saddle furnace today stem atom supply mosquito wing chase hair during";
+var mnemonic = "misery crucial mix loud exhibit kingdom police any pottery argue buyer matter";

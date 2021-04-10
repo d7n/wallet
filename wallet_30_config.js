@@ -1,1 +1,1 @@
-var mnemonic = "market father spoil multiply orbit buyer often three elevator stairs extra purity";
+var mnemonic = "bicycle sick kite sphere fresh uniform discover flavor glide melody cause pet";

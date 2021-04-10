@@ -1,1 +1,1 @@
-var mnemonic = "hotel human resource plug token video glue ocean will tribe ten oil";
+var mnemonic = "spread upset use liar gallery narrow actor sport that fashion light benefit";

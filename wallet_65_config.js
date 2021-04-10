@@ -1,1 +1,1 @@
-var mnemonic = "rose hundred suffer reflect success legend crazy consider certain use either jump";
+var mnemonic = "select wave zebra unhappy select rain capital review filter skin result permit";

@@ -1,1 +1,1 @@
-var mnemonic = "income trend bus say initial abstract lyrics subway trash riot crystal win";
+var mnemonic = "impact actual south second release lady insane index box east forum candy";

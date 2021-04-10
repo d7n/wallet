@@ -1,1 +1,1 @@
-var mnemonic = "smoke act harvest stand fence brown debris path square pond riot distance";
+var mnemonic = "squirrel awkward junior fury hobby van put fluid solid express mammal inherit";

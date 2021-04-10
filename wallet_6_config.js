@@ -1,1 +1,1 @@
-var mnemonic = "frost cluster transfer hard box mobile boss beef render rifle rural rich";
+var mnemonic = "music stamp crane crack chair clap toy speed dolphin guess satisfy vessel";

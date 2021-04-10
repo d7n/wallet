@@ -1,1 +1,1 @@
-var mnemonic = "advice corn shadow flip exist metal rubber fence yellow assume business income";
+var mnemonic = "quit rug robust void course black smart brass tilt salt neither supply";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi snap balcony mixture inch pumpkin october length picnic nation brick cube";
+var mnemonic = "alert ginger senior crowd wasp hat life art only degree tumble pledge";

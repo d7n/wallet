@@ -1,1 +1,1 @@
-var mnemonic = "measure cargo position brick canoe lunch wild armor donate mask one worth";
+var mnemonic = "supreme capital episode body mistake claw combine family ahead diagram hint detail";

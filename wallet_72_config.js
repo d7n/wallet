@@ -1,1 +1,1 @@
-var mnemonic = "grant mandate off chimney insane excite people flock risk this elder spoil";
+var mnemonic = "hero birth slot husband actor gravity seven defy drift stomach there column";

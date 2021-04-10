@@ -1,1 +1,1 @@
-var mnemonic = "lift chuckle bar flight remember possible chapter cycle position main fun unusual";
+var mnemonic = "kiss core echo grunt tag frame relax hover beach pony forget fly";

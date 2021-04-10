@@ -1,1 +1,1 @@
-var mnemonic = "shy gesture raven anxiety reform amateur apart tape weird family bargain settle";
+var mnemonic = "mask cruise discover junior that exchange casual flush autumn soldier need fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "intact need square reform trigger toe orchard another inject liberty worth crack";
+var mnemonic = "mesh dial census final crowd unknown funny twist seed latin wonder juice";
