@@ -1,1 +1,1 @@
-var mnemonic = "river zebra quarter bird draw demise uncover mouse aspect step loyal normal";
+var mnemonic = "limb horror hint drill verb sight salad day marble destroy false panel";

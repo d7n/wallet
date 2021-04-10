@@ -1,1 +1,1 @@
-var mnemonic = "kid decorate acquire profit trim swap virtual orient ozone advice hungry neither";
+var mnemonic = "festival inject weapon iron refuse balcony garbage under letter photo puppy wheat";

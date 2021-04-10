@@ -1,1 +1,1 @@
-var mnemonic = "uphold crime casino busy praise slice diesel flag false author health weasel";
+var mnemonic = "cluster ball domain color army horse pledge gauge rose orient master long";

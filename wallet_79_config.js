@@ -1,1 +1,1 @@
-var mnemonic = "woman shoot copper parent vanish dilemma happy stumble home library waste festival";
+var mnemonic = "stay provide tip tourist limit siege million today message cool debris swear";

@@ -1,1 +1,1 @@
-var mnemonic = "habit slush nut solution under spatial execute physical blue average ivory gloom";
+var mnemonic = "birth task century divorce hip swamp ethics tooth chief frozen pond left";

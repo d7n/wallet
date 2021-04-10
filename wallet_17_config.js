@@ -1,1 +1,1 @@
-var mnemonic = "favorite capital cup stable dinosaur rhythm margin enjoy mail index ritual away";
+var mnemonic = "boat glance fault crane journey legend strategy valve patrol early prevent high";

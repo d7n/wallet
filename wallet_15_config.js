@@ -1,1 +1,1 @@
-var mnemonic = "endorse obscure ability gym magic banana crazy hybrid floor onion where robot";
+var mnemonic = "light gadget cup apology case series sugar laundry theory surround denial autumn";

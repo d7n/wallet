@@ -1,1 +1,1 @@
-var mnemonic = "lizard walk fame dinner echo friend bonus neither razor retreat liberty crawl";
+var mnemonic = "drift pretty neither left recall stock rose liquid crop survey marine earn";

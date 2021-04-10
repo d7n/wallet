@@ -1,1 +1,1 @@
-var mnemonic = "helmet bar mountain alert anchor edge melody renew audit blush language bargain";
+var mnemonic = "empty promote follow gift trigger surge art limit fee medal once else";

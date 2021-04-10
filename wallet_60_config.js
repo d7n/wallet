@@ -1,1 +1,1 @@
-var mnemonic = "half drum eagle frame donkey sudden annual silent reflect screen sweet master";
+var mnemonic = "blue combine beach arena praise alcohol tomato join effort fix much tonight";

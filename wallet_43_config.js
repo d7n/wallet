@@ -1,1 +1,1 @@
-var mnemonic = "swap property frown liquid exist field type moment school genuine solar general";
+var mnemonic = "fatigue canvas chest banana chase math letter math alley unveil glimpse spatial";

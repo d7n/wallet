@@ -1,1 +1,1 @@
-var mnemonic = "flock grab gather funny often soon frozen rotate age foam clarify hollow";
+var mnemonic = "stable credit rebel envelope orient song report large owner august dream flip";

@@ -1,1 +1,1 @@
-var mnemonic = "teach update unfold robust skirt matrix buffalo segment already best follow month";
+var mnemonic = "axis knee survey another identify kitten despair clutch bubble battle give fancy";

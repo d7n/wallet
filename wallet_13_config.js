@@ -1,1 +1,1 @@
-var mnemonic = "animal more roast express bachelor bid include plastic robust original share head";
+var mnemonic = "trophy scheme mass myself axis circle snow depart memory clever leader fatal";

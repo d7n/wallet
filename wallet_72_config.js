@@ -1,1 +1,1 @@
-var mnemonic = "ketchup suit tackle crunch come earth agree ten fancy master clog else";
+var mnemonic = "trip flee almost claw swallow plastic denial escape album property delay shuffle";

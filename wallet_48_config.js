@@ -1,1 +1,1 @@
-var mnemonic = "put denial almost reopen universe entire nothing mobile second donkey garbage faith";
+var mnemonic = "vast garden drop donkey cotton physical ritual lunar forest glory kick equal";

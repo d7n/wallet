@@ -1,1 +1,1 @@
-var mnemonic = "very pair spell fish enable hunt render borrow across lock current pool";
+var mnemonic = "lesson must obscure abuse pig cloth betray answer venture february recall service";

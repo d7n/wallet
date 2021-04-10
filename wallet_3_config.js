@@ -1,1 +1,1 @@
-var mnemonic = "album cake force sketch test stay knife page sorry park echo paddle";
+var mnemonic = "bitter tank author catch wood helmet laundry pulp blue avocado circle sweet";

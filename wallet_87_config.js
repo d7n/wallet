@@ -1,1 +1,1 @@
-var mnemonic = "cake rely audit brass journey melt brass now gadget consider blue company";
+var mnemonic = "media armor cinnamon scheme general clever among trigger plunge tip curious inform";

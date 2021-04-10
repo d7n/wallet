@@ -1,1 +1,1 @@
-var mnemonic = "dizzy advance grace chunk vicious solution mechanic express rabbit clip prepare match";
+var mnemonic = "celery space eight fix oblige sea pond lawsuit include shallow bind tribe";

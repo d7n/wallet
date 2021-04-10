@@ -1,1 +1,1 @@
-var mnemonic = "trumpet return brave debate ensure current seminar cushion illness warfare neither exile";
+var mnemonic = "beef intact much ginger major ride tonight taste meat thunder erosion sadness";

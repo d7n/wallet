@@ -1,1 +1,1 @@
-var mnemonic = "idea animal blade talent insane salute today shield radio chapter satoshi wheel";
+var mnemonic = "auction uphold twist mimic clever journey wrap stand fresh term metal pipe";

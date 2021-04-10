@@ -1,1 +1,1 @@
-var mnemonic = "maid just tackle bonus kidney place cousin reunion obvious exit jump snake";
+var mnemonic = "crowd strategy devote keep crop trend source either bridge there deputy skate";

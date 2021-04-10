@@ -1,1 +1,1 @@
-var mnemonic = "simple before dial essence trial suffer copy rose walk rich balcony become";
+var mnemonic = "pear prepare spawn announce tuition arena need skill crop lizard panther increase";

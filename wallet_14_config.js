@@ -1,1 +1,1 @@
-var mnemonic = "olympic true pole define harvest street scale model purity prepare cart letter";
+var mnemonic = "pen mutual frame board catch turtle dust surround olympic month visit evidence";

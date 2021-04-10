@@ -1,1 +1,1 @@
-var mnemonic = "change noise unfold equip swarm agree patch cram load rocket damp tilt";
+var mnemonic = "perfect lounge donor gain vendor appear wolf brother play siege surge zero";

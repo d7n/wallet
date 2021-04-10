@@ -1,1 +1,1 @@
-var mnemonic = "pottery want evolve jealous refuse witness result quick whale filter push opera";
+var mnemonic = "expire bounce bread lab bind shallow mercy buyer mechanic hockey cannon slide";

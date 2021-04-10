@@ -1,1 +1,1 @@
-var mnemonic = "garment danger tunnel medal castle lonely firm direct canvas note cute warfare";
+var mnemonic = "giant advice veteran column clinic edge donate fatigue sister useful blouse bar";

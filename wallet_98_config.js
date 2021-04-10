@@ -1,1 +1,1 @@
-var mnemonic = "useless reason various rule rural table merge lava bus sick genuine fall";
+var mnemonic = "leopard near mother history forget torch once zero choose cool embark wheel";

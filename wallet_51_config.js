@@ -1,1 +1,1 @@
-var mnemonic = "street young share liquid design foster chat pool rude region process royal";
+var mnemonic = "lumber draft romance shrimp catalog six good real motion sick choose valley";

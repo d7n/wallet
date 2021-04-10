@@ -1,1 +1,1 @@
-var mnemonic = "toddler lemon recycle trumpet able melt quarter cargo ten funny fall donkey";
+var mnemonic = "benefit mad range giraffe neither scrap artwork topic east rescue stand cat";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal lens before provide diary crop police teach right flag clutch fever";
+var mnemonic = "rose matter rigid jar bright canvas return reform just body daring tool";

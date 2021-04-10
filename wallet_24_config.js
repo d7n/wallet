@@ -1,1 +1,1 @@
-var mnemonic = "toe hover card mesh dice decline saddle flock maid lava expose tornado";
+var mnemonic = "arrow alter repair garment success key verb gold select layer imitate neck";

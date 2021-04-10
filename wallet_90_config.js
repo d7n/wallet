@@ -1,1 +1,1 @@
-var mnemonic = "enter uncle size brand desk morning crisp bless sight inflict awesome avoid";
+var mnemonic = "cloth eyebrow awkward wise trip rug relax diagram gate garden describe vote";

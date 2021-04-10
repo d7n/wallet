@@ -1,1 +1,1 @@
-var mnemonic = "strong render scout pudding diesel swallow wait cart birth happy april volume";
+var mnemonic = "accident midnight belt harsh leisure stable club emerge naive more supreme legend";

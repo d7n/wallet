@@ -1,1 +1,1 @@
-var mnemonic = "hour tissue actual buzz gorilla aware unusual strike inmate harvest wealth rival";
+var mnemonic = "lucky capital deposit argue broom prison inform cloth message champion search announce";

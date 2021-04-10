@@ -1,1 +1,1 @@
-var mnemonic = "board daughter photo iron wife reason over awkward enroll hungry hill perfect";
+var mnemonic = "invite emerge maple machine dismiss day typical time fork response process prosper";

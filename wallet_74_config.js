@@ -1,1 +1,1 @@
-var mnemonic = "onion tide taxi inside always bomb panda manage topic hurry evoke vehicle";
+var mnemonic = "sight hurt sand report pigeon repair pole scissors kingdom census swear edge";

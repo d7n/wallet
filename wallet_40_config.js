@@ -1,1 +1,1 @@
-var mnemonic = "dwarf ignore few similar glow drastic tenant edge resist inside swap bounce";
+var mnemonic = "organ venue snake explain husband vendor fancy dilemma prize move face student";

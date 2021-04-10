@@ -1,1 +1,1 @@
-var mnemonic = "around thunder brown mixed angle police obscure clarify hurry repair sea fan";
+var mnemonic = "yellow banana picture option zero unlock theory bus bean major dust giggle";

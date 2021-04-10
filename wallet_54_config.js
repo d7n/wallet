@@ -1,1 +1,1 @@
-var mnemonic = "hat kid abuse reform tower draft busy romance cricket fun diesel antenna";
+var mnemonic = "fitness patient say letter ignore luggage sound sleep mimic exhibit shield awake";

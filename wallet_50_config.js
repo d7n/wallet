@@ -1,1 +1,1 @@
-var mnemonic = "traffic thing cluster trick chunk inmate curtain guitar attitude soldier name also";
+var mnemonic = "uncover toward rare either fatigue fork garage cradle scan recall sphere divorce";

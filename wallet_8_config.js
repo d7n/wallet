@@ -1,1 +1,1 @@
-var mnemonic = "fee focus veteran theory depart resemble gate donkey endorse source wear soccer";
+var mnemonic = "radio enhance pave urban require network possible certain swift donate kiss thunder";

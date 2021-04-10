@@ -1,1 +1,1 @@
-var mnemonic = "cotton uphold deposit soccer rack favorite guard display ozone tongue because rookie";
+var mnemonic = "slight barely dumb valid gesture chicken problem fee daughter aisle earth spread";

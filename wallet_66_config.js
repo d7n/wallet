@@ -1,1 +1,1 @@
-var mnemonic = "tiger ordinary woman address response tornado question tiger guard shield basket post";
+var mnemonic = "guard ring frequent absent able priority also slow blast mass alcohol screen";

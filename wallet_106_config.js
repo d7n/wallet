@@ -1,1 +1,1 @@
-var mnemonic = "author unique car excuse oxygen sleep symptom amused chat laugh path battle";
+var mnemonic = "organ crouch recall ski vapor index limb depart cruel clutch pluck spatial";

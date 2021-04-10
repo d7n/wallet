@@ -1,1 +1,1 @@
-var mnemonic = "shoulder trim myself topple edge dignity grid duty member ten harsh blush";
+var mnemonic = "half enact sense rival ancient stove best wait around skin neck body";

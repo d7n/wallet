@@ -1,1 +1,1 @@
-var mnemonic = "near youth result loud exchange aerobic autumn two resemble draw ecology garment";
+var mnemonic = "model hazard sphere soup track farm fee monster replace slim venue sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "pole debris minor razor fatal verb detail vessel hidden story hurt chat";
+var mnemonic = "cabin female unusual patrol involve visit filter stock canvas vote outer tourist";

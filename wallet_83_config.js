@@ -1,1 +1,1 @@
-var mnemonic = "weasel best observe copper supreme crawl ordinary frame abstract burst awake animal";
+var mnemonic = "assault jelly smooth motion option glimpse possible core math october exotic work";

@@ -1,1 +1,1 @@
-var mnemonic = "music series agree palm weather taste affair move identify blame million fire";
+var mnemonic = "cat toward razor salmon adult extend latin ankle power invite share bar";

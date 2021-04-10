@@ -1,1 +1,1 @@
-var mnemonic = "hidden jaguar farm faith emerge fiction coach duty profit blossom spoon limb";
+var mnemonic = "salute document never holiday text old tent corn slow car episode any";

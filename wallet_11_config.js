@@ -1,1 +1,1 @@
-var mnemonic = "term excite simple normal room swift shift review master million evolve arm";
+var mnemonic = "leaf crunch mesh school brass swallow hockey venue speed wage hidden frequent";

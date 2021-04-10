@@ -1,1 +1,1 @@
-var mnemonic = "limit family margin swamp fee during cruel agent dust actor town giant";
+var mnemonic = "arena hood slender fitness erosion seminar wage replace occur step cereal apart";

@@ -1,1 +1,1 @@
-var mnemonic = "round interest fat frost aunt frost option shuffle afraid roast muscle switch";
+var mnemonic = "music diesel matter infant kidney nuclear clump caught day shell forest desert";

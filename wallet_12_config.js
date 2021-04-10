@@ -1,1 +1,1 @@
-var mnemonic = "good orient bench another exile spare meat venue patch extend mail suffer";
+var mnemonic = "matter mercy source small ocean cat tenant judge siege hidden cotton discover";

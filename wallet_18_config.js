@@ -1,1 +1,1 @@
-var mnemonic = "raw pupil post thrive false scorpion loan upon dinosaur pudding attract frozen";
+var mnemonic = "abuse rural design ozone sign neglect tent pig toe peace wine solar";

@@ -1,1 +1,1 @@
-var mnemonic = "poet dry security machine mom snap like extra fitness pride crack noise";
+var mnemonic = "ensure cycle evidence primary normal design tenant faculty junk life symbol zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "census front imitate acquire arm logic long bubble phrase leisure jar hazard";
+var mnemonic = "diary that whale present above episode outer merge spider scale pink coast";

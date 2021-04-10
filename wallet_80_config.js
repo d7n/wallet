@@ -1,1 +1,1 @@
-var mnemonic = "stick profit manual purpose carbon satisfy member seat cotton ride gravity leader";
+var mnemonic = "jelly nut cube airport slow ridge soccer vocal amused furnace enact door";

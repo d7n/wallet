@@ -1,1 +1,1 @@
-var mnemonic = "stadium charge inflict gallery jump citizen when curve negative weather inner better";
+var mnemonic = "inquiry fetch worth afraid bundle sample fluid bird isolate fade wink catch";

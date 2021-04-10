@@ -1,1 +1,1 @@
-var mnemonic = "announce picture youth width polar game link trial great expire wealth laugh";
+var mnemonic = "width flat crazy fly course damp laptop submit giant couch morning spot";

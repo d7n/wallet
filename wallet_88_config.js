@@ -1,1 +1,1 @@
-var mnemonic = "come riot bind celery couch boss sadness sick subway remove sample acid";
+var mnemonic = "spin office suggest leg worry now almost craft lake across flash reflect";

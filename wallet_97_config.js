@@ -1,1 +1,1 @@
-var mnemonic = "submit afraid life nasty fat depart during answer outer ugly month pilot";
+var mnemonic = "traffic typical movie rocket salon slogan prize custom mansion hungry divorce remain";

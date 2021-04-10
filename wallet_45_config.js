@@ -1,1 +1,1 @@
-var mnemonic = "grass awkward engine world garment sick toward heavy crew wet real modify";
+var mnemonic = "south pudding join electric sock inspire call inquiry piano run clinic beauty";

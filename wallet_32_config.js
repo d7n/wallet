@@ -1,1 +1,1 @@
-var mnemonic = "hazard million bomb invest injury push green thank swing stage know dice";
+var mnemonic = "creek base blood fatigue eye strong lazy clip seminar latin winter casino";

@@ -1,1 +1,1 @@
-var mnemonic = "rough wing garage wise myth maid quiz spring strategy use record conduct";
+var mnemonic = "estate letter quit cabbage indicate party page forum tooth cost tent ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "nose snack recycle crisp loop kitten uniform near clean symptom uncover seed";
+var mnemonic = "steel mammal enforce record laugh neck warfare web supreme choose copper boy";

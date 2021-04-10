@@ -1,1 +1,1 @@
-var mnemonic = "suspect ability cabin correct invite shine shop elevator paper audit away offer";
+var mnemonic = "reform screen dynamic attitude fatigue cement stable credit fix skate circle fall";

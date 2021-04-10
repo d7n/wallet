@@ -1,1 +1,1 @@
-var mnemonic = "melody wrestle noise invite census gift avoid poem paper language barely island";
+var mnemonic = "menu void recall jealous cool ridge million riot walnut lunch verify ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "asset grief enough exercise patient habit law meat humble drastic unusual never";
+var mnemonic = "erase jealous poem sail grocery dynamic welcome trumpet parent actual style cherry";

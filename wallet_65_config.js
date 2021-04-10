@@ -1,1 +1,1 @@
-var mnemonic = "common van shine feed sock mom tourist tunnel clutch note hub spice";
+var mnemonic = "gauge vehicle swarm disagree dinner sort joke what palace sustain sign ride";

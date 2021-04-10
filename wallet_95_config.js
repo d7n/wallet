@@ -1,1 +1,1 @@
-var mnemonic = "stomach build sock soup mother festival midnight canvas want provide truth toss";
+var mnemonic = "wide ladder push dish diamond cloud cause car vocal final raw owner";

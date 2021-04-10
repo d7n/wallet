@@ -1,1 +1,1 @@
-var mnemonic = "calm pen galaxy napkin fix town wink view urge market crunch pizza";
+var mnemonic = "between dwarf arch border tuna wrestle outer during hair auto soup group";

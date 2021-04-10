@@ -1,1 +1,1 @@
-var mnemonic = "sadness grid already kitchen bridge fortune coyote swallow another adapt arctic sail";
+var mnemonic = "panda hand cushion able deputy stable dry used assist idle finger animal";

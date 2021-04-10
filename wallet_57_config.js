@@ -1,1 +1,1 @@
-var mnemonic = "educate congress exhibit can warrior switch weapon shift sleep cherry reward deposit";
+var mnemonic = "solve wreck drive secret valid tragic army cannon cupboard ozone suit often";

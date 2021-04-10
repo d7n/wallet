@@ -1,1 +1,1 @@
-var mnemonic = "memory jungle wasp soup gossip behave defense tuna neutral ice direct athlete";
+var mnemonic = "certain innocent blame glass share online cotton metal undo cross token speak";

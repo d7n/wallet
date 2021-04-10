@@ -1,1 +1,1 @@
-var mnemonic = "vehicle recipe unknown twenty unusual bamboo joke stuff frozen adapt lyrics chicken";
+var mnemonic = "donkey rain idea digital cage speak actor excite bird another sun resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "merit sugar myself control point renew naive final gift chimney genuine pulp";
+var mnemonic = "teach high future day dry appear dream hood wrestle wing degree supply";

@@ -1,1 +1,1 @@
-var mnemonic = "sound more camp clean term blame earth fetch peanut walnut matrix safe";
+var mnemonic = "river indicate current juice rare increase ability hundred feel young cargo struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "pear vast galaxy area menu claw direct river lobster common window ensure";
+var mnemonic = "plate you diet judge quit power similar theme route divert join mosquito";

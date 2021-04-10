@@ -1,1 +1,1 @@
-var mnemonic = "effort duck curious faith brief absurd hello mix swamp hobby invest price";
+var mnemonic = "game eye used calm bless sting vintage sister crack search sound later";

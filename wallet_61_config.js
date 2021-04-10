@@ -1,1 +1,1 @@
-var mnemonic = "cage pupil cloth skirt feed metal bachelor salad squeeze inspire park submit";
+var mnemonic = "ozone flower retreat kick erosion evoke finish simple post pass coconut web";

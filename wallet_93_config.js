@@ -1,1 +1,1 @@
-var mnemonic = "impose match smooth enforce able suit lab erase ozone retreat turtle lunar";
+var mnemonic = "calm strong crazy pair stage antenna venue stick antenna lumber rely trim";

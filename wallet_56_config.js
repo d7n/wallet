@@ -1,1 +1,1 @@
-var mnemonic = "orbit vital hint typical father entry funny tape vessel virus economy unable";
+var mnemonic = "fold demise about cat age travel void cluster dynamic evoke disease spider";

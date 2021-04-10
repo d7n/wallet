@@ -1,1 +1,1 @@
-var mnemonic = "ring spend coil sister amused medal cute despair defense okay riot castle";
+var mnemonic = "frame exhaust output leg series absorb poverty verb skill figure group you";

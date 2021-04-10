@@ -1,1 +1,1 @@
-var mnemonic = "scrap match leisure sick picture innocent envelope tourist project sugar topple pool";
+var mnemonic = "gas laugh apart box urge diary reflect fall super walnut evil clock";

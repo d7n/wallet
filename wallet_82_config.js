@@ -1,1 +1,1 @@
-var mnemonic = "busy maid tired nothing region bench transfer area violin reward ring famous";
+var mnemonic = "tattoo lift payment solve call kick peace brush fortune cancel alley ensure";

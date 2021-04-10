@@ -1,1 +1,1 @@
-var mnemonic = "toward oppose glance fit fabric never they fly damage index void high";
+var mnemonic = "struggle critic hero forum size square brother wealth puppy jar tilt fantasy";
