@@ -1,1 +1,1 @@
-var mnemonic = "journey toilet flee medal stadium music cake envelope world desk kit sock";
+var mnemonic = "basic absurd column together census toddler drink spread glass race gold merry";

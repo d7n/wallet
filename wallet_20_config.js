@@ -1,1 +1,1 @@
-var mnemonic = "salad swallow say seat jaguar moral column alcohol cry omit gate say";
+var mnemonic = "century surface sail history brother glass piece harvest energy auto crash print";

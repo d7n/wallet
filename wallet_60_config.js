@@ -1,1 +1,1 @@
-var mnemonic = "lazy powder skull awkward defy output feel river recipe board clay minor";
+var mnemonic = "thunder replace spread select result journey upset rescue eight focus exotic cattle";

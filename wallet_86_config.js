@@ -1,1 +1,1 @@
-var mnemonic = "genre sleep similar useful sentence whale maple same plate allow decrease dune";
+var mnemonic = "pluck swim chunk human desert mad humble marriage urban bar skull ridge";

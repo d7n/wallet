@@ -1,1 +1,1 @@
-var mnemonic = "dutch oxygen size treat face shield time drama stereo kangaroo mammal trash";
+var mnemonic = "purity illness lift chuckle lunch order impact fish that category title purpose";

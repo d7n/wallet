@@ -1,1 +1,1 @@
-var mnemonic = "upgrade tooth entire laptop army tube unit pistol image measure under gesture";
+var mnemonic = "output behind valve gasp school recall purse naive toss great senior action";

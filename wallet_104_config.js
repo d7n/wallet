@@ -1,1 +1,1 @@
-var mnemonic = "artwork rely indoor change casino business page modify such second phrase mind";
+var mnemonic = "summer december copy cargo trim minimum wrist step hub wet scale task";

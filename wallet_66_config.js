@@ -1,1 +1,1 @@
-var mnemonic = "hire radio they clay fury hunt uncle ritual record immune tragic roast";
+var mnemonic = "bridge ocean unable decide physical axis accuse avoid meadow index vast ten";

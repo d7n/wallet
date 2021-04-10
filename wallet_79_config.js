@@ -1,1 +1,1 @@
-var mnemonic = "sock hazard craft middle world scrub current cruise legal zero taste this";
+var mnemonic = "bar install hint pupil guitar cereal into paper number tube that pride";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive awkward unveil naive hill only adjust recall rabbit machine moment sad";
+var mnemonic = "wrong become siren program fault lion april vanish supreme profit design surge";

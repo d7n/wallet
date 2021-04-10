@@ -1,1 +1,1 @@
-var mnemonic = "tape vicious flight genre answer original crush calm blouse chief crane become";
+var mnemonic = "toss term distance keep sick sort please clarify main excite genuine pill";

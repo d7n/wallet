@@ -1,1 +1,1 @@
-var mnemonic = "frozen keen token token night notice soul actual share vivid remind before";
+var mnemonic = "wink august view goose bag draw approve sound gas aim neck swing";

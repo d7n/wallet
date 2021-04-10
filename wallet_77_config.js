@@ -1,1 +1,1 @@
-var mnemonic = "daring badge rural puppy nothing try point canal table slim butter maple";
+var mnemonic = "arrow asset allow sniff display april blade move flee high differ ability";

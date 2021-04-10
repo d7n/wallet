@@ -1,1 +1,1 @@
-var mnemonic = "hunt ready vanish scout huge profit raven census hole pyramid comic wing";
+var mnemonic = "spy notable noodle chef vessel century appear jaguar car tilt wonder beauty";

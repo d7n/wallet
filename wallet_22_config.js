@@ -1,1 +1,1 @@
-var mnemonic = "there phrase eyebrow spin attend ticket nothing grass bulk fringe lawsuit prison";
+var mnemonic = "truck aspect fortune speed panic title own kit left maple claim sustain";

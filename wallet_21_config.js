@@ -1,1 +1,1 @@
-var mnemonic = "yellow pulse reflect produce goat victory actress latin color sudden blur doll";
+var mnemonic = "armed midnight pact ramp announce act warfare season zero ring goose future";

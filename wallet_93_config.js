@@ -1,1 +1,1 @@
-var mnemonic = "true harbor rare dilemma carpet frog polar corn off sweet subject across";
+var mnemonic = "camera swift often welcome question hen inherit slush ethics notice perfect bunker";

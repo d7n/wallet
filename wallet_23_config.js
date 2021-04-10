@@ -1,1 +1,1 @@
-var mnemonic = "off license science hip bulk leopard sentence crunch practice myself mention decorate";
+var mnemonic = "flat organ either gather strategy either despair slow text unlock crush design";

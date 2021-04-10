@@ -1,1 +1,1 @@
-var mnemonic = "dune speed ride chalk lucky duck during ketchup neutral net move begin";
+var mnemonic = "walnut strike lens wink hammer harvest profit capable timber drift solve kick";

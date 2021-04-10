@@ -1,1 +1,1 @@
-var mnemonic = "suspect radio today mail transfer practice sleep across village degree solution expand";
+var mnemonic = "mixed electric blouse puppy choose use wonder play link joke furnace galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "object switch federal ripple relief clap cactus thunder spider either fruit owner";
+var mnemonic = "bone bacon hire jacket clarify embark off bus frame code industry jump";

@@ -1,1 +1,1 @@
-var mnemonic = "slice shaft hello science flight cat legal leg affair kiss menu panther";
+var mnemonic = "stable work snow twist sword raise depth clog pig equip camera bleak";

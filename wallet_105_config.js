@@ -1,1 +1,1 @@
-var mnemonic = "resemble gap cream earn will zoo change master promote hint junior flush";
+var mnemonic = "song display mobile twelve rookie arena super rule solid autumn useless vast";

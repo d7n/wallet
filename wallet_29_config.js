@@ -1,1 +1,1 @@
-var mnemonic = "maple flavor poverty interest flush shop cannon vintage detect fun select butter";
+var mnemonic = "section empty merry online pledge fiction grief love aunt system slogan sort";

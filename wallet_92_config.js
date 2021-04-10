@@ -1,1 +1,1 @@
-var mnemonic = "dutch armed half quote meat grass plug duck lyrics million because involve";
+var mnemonic = "coach fly daring ticket face tobacco moment space embody invest eagle cycle";

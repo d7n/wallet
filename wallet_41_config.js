@@ -1,1 +1,1 @@
-var mnemonic = "catalog fantasy symbol amateur short course donate elbow nest club estate mix";
+var mnemonic = "brain addict math peasant industry lunar rely sound general cycle ladder knee";

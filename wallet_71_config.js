@@ -1,1 +1,1 @@
-var mnemonic = "vacant ginger bird tomorrow denial blade scissors shaft lunch refuse federal infant";
+var mnemonic = "novel age typical project junior poet awesome outside system endless between weird";

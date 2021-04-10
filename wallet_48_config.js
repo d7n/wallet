@@ -1,1 +1,1 @@
-var mnemonic = "same fame plate salon try inflict dignity coffee try story differ dice";
+var mnemonic = "hill van cave furnace round valley damp mystery bitter beauty card own";

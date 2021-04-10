@@ -1,1 +1,1 @@
-var mnemonic = "mercy brush art clock tent vivid suit entire hair life design wedding";
+var mnemonic = "useless silk walk cannon piano wine initial various hamster book stage section";

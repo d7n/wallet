@@ -1,1 +1,1 @@
-var mnemonic = "flavor corn palace tomato affair snap fossil punch thought north blossom uncle";
+var mnemonic = "because retire essay cereal absurd must climb drop join approve orient sausage";

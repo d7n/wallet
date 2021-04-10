@@ -1,1 +1,1 @@
-var mnemonic = "attack blue brave item squirrel bonus distance lake choice night ripple urge";
+var mnemonic = "corn canvas update glue feel velvet minute genuine phrase emerge naive cute";

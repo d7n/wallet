@@ -1,1 +1,1 @@
-var mnemonic = "close sail screen happy bacon blind sudden method pioneer know pen faint";
+var mnemonic = "cat tip belt cost kiwi uncover ahead valley winter jazz much mixture";

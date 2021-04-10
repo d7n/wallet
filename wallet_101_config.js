@@ -1,1 +1,1 @@
-var mnemonic = "scan primary pause iron emotion usage lumber clog goddess artefact certain behind";
+var mnemonic = "police fame toddler cash detect album lend woman interest try pumpkin work";

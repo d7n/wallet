@@ -1,1 +1,1 @@
-var mnemonic = "balcony expose skate catalog enrich hurdle alley claw sweet input coin digital";
+var mnemonic = "wolf category square panic purchase pear orange behind mix thunder jar blame";

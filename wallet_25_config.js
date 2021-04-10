@@ -1,1 +1,1 @@
-var mnemonic = "coach fire mask alpha copy trouble lion hole umbrella dog dwarf metal";
+var mnemonic = "staff ride distance level hello quiz office file chapter fine puppy regular";

@@ -1,1 +1,1 @@
-var mnemonic = "base doctor security blouse member volcano sentence twin cannon wine nasty buffalo";
+var mnemonic = "celery child athlete author yellow fold random chunk auction bounce alter raise";

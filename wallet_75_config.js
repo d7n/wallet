@@ -1,1 +1,1 @@
-var mnemonic = "window genuine crack steak radar rain fan false solid unveil waste eternal";
+var mnemonic = "swift prize apology ask skin spell collect erode wine business middle latin";

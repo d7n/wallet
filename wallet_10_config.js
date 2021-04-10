@@ -1,1 +1,1 @@
-var mnemonic = "forest announce master under stairs weather attract slim novel menu urban cart";
+var mnemonic = "visa hour suspect twelve welcome ability caught mask special found become dry";

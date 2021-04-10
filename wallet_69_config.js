@@ -1,1 +1,1 @@
-var mnemonic = "point toilet car fiction unusual tuna hockey select mesh seven world inspire";
+var mnemonic = "gorilla range embrace guitar mechanic shock desert donkey hold tuition toss farm";

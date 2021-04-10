@@ -1,1 +1,1 @@
-var mnemonic = "seek sauce popular flash media whale limit outdoor run often easily eternal";
+var mnemonic = "what uncover isolate swift combine senior wrap useful monster also mass still";

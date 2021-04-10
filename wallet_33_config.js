@@ -1,1 +1,1 @@
-var mnemonic = "blue poet wise mushroom like rescue habit kitten success sausage item glare";
+var mnemonic = "shrug level metal antenna rural barrel salute cart ceiling rule february marine";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion toss burden tired clay drip myth solar skull receive carbon vast";
+var mnemonic = "basic cup outdoor organ jacket print click shiver raven actress nasty rural";

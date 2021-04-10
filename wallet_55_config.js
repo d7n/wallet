@@ -1,1 +1,1 @@
-var mnemonic = "wait corn race adapt convince key amused mechanic skate face phone glare";
+var mnemonic = "fury economy sorry tide dizzy table mixture flock interest runway pact airport";

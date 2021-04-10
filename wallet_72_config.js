@@ -1,1 +1,1 @@
-var mnemonic = "sure trust uniform quality amused make antique heart okay uniform human rely";
+var mnemonic = "dish tissue level wool success cabin join blue empty embrace quality sugar";

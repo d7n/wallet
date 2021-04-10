@@ -1,1 +1,1 @@
-var mnemonic = "awkward agree popular dose square blame worth right session border common enter";
+var mnemonic = "yellow high burden hair pistol head awesome vibrant hollow write stumble nest";

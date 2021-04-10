@@ -1,1 +1,1 @@
-var mnemonic = "inner bubble arch float share energy tip into labor steak twist game";
+var mnemonic = "tissue beyond tattoo seek pitch where slim long bomb shoe hover gloom";

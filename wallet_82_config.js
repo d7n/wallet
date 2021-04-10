@@ -1,1 +1,1 @@
-var mnemonic = "poem else metal wheat roast sponsor project fire alert okay earn margin";
+var mnemonic = "main garbage afford emotion satisfy impose media donate junk wise foam this";

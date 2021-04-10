@@ -1,1 +1,1 @@
-var mnemonic = "sort provide gallery library huge over century sort chunk degree rude raven";
+var mnemonic = "scout luggage miss rebuild train merry scale protect sort capable mansion deny";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist novel pluck obtain much tobacco junk supreme laugh render emerge exhibit";
+var mnemonic = "borrow tree excess twelve jelly vague noise dust huge cheap warm hybrid";

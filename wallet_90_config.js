@@ -1,1 +1,1 @@
-var mnemonic = "quantum swing town wink vendor steel great vault transfer arrive detect gesture";
+var mnemonic = "carpet garment goose october vocal grocery explain wage term dash desert target";

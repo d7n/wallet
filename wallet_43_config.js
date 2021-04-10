@@ -1,1 +1,1 @@
-var mnemonic = "embark mountain grab bid solution very close cook dance emerge valid surprise";
+var mnemonic = "brisk student need claw treat witness weather grape chaos amount double bulb";

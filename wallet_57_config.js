@@ -1,1 +1,1 @@
-var mnemonic = "scene juice express canoe autumn humble slam cause rice sure face youth";
+var mnemonic = "vessel author noodle disagree paddle shove catalog marble crouch wage home miss";

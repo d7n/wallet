@@ -1,1 +1,1 @@
-var mnemonic = "opinion october left slogan blouse chicken drop term abuse subject edge resource";
+var mnemonic = "height aware deny foot calm attend trash shoulder section begin hurdle piano";

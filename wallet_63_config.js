@@ -1,1 +1,1 @@
-var mnemonic = "monitor oyster tower lyrics plunge shock cave report insect comic infant cattle";
+var mnemonic = "festival device daughter impulse floor clever nature viable grunt tumble inspire biology";

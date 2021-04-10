@@ -1,1 +1,1 @@
-var mnemonic = "plunge inflict payment useless tape shock sadness quick insane grocery library predict";
+var mnemonic = "apart slender lecture first avocado level glow leave real remain matter ticket";

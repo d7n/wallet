@@ -1,1 +1,1 @@
-var mnemonic = "explain foam celery tag draw grab rally kingdom will swift desk harsh";
+var mnemonic = "excite hazard country lady knife list desk blanket annual artwork foil fiber";

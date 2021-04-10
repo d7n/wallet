@@ -1,1 +1,1 @@
-var mnemonic = "member ethics proud defense eternal picnic adapt dry add short awful security";
+var mnemonic = "merit protect gown scorpion immune coral noodle aerobic license fuel walnut dad";

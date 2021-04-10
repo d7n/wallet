@@ -1,1 +1,1 @@
-var mnemonic = "trip intact dream shop fitness want nice very hawk wool portion hamster";
+var mnemonic = "celery traffic barrel radio horse rabbit able mobile cram aunt hybrid six";

@@ -1,1 +1,1 @@
-var mnemonic = "corn another wash exhaust hockey second convince expand claim phone stadium sister";
+var mnemonic = "zone top gym turkey diet jewel floor guide loan patch sand capital";

@@ -1,1 +1,1 @@
-var mnemonic = "card animal main lounge rude muscle idle leg wave buzz snow media";
+var mnemonic = "future inch barely suit race other fossil cheap squirrel fault nose cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz corn add demise effort grace black able keep glide tide spin";
+var mnemonic = "squirrel craft lumber permit survey child west select radar achieve stick position";

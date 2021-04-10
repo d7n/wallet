@@ -1,1 +1,1 @@
-var mnemonic = "lesson nose hen guide you bubble type donkey opera cement smile hip";
+var mnemonic = "swap wrong raven pole student mystery maximum rhythm annual rough learn proud";

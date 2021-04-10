@@ -1,1 +1,1 @@
-var mnemonic = "pause spell cage state area twin inmate saddle energy tuna appear science";
+var mnemonic = "view valve pluck sudden concert romance capital trap jungle nose soon salmon";

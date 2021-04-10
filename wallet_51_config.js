@@ -1,1 +1,1 @@
-var mnemonic = "armed book blind update they spider dizzy neglect problem survey immune dish";
+var mnemonic = "cube end above boss wet season uniform arrange steel trend change hello";

@@ -1,1 +1,1 @@
-var mnemonic = "face pitch reason soap vital unfair butter retire message grape stamp neutral";
+var mnemonic = "hero bracket tape speed dumb cake require power indoor kind image achieve";

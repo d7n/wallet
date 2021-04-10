@@ -1,1 +1,1 @@
-var mnemonic = "access surround cool flower odor century client neglect story skin timber sad";
+var mnemonic = "maple pony resemble relax chest news smart census token human grunt fall";

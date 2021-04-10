@@ -1,1 +1,1 @@
-var mnemonic = "head nation moral warfare option funny inherit urban stairs cushion disagree talk";
+var mnemonic = "front general balance near idle turkey pink hockey dentist scrap heavy melt";

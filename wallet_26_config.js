@@ -1,1 +1,1 @@
-var mnemonic = "maple peace pitch cruise play salt umbrella change boil add whip audit";
+var mnemonic = "thumb mouse mind daring submit scout opera govern mercy sheriff parrot creek";

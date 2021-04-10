@@ -1,1 +1,1 @@
-var mnemonic = "faculty suit fatal flush corn craft stable tape supreme repair song magnet";
+var mnemonic = "clap head erupt number skate huge head estate general below hat pelican";

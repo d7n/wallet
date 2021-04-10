@@ -1,1 +1,1 @@
-var mnemonic = "armor foam before digital glove record pole purity pumpkin minor daughter detect";
+var mnemonic = "patch matrix pear entry blue cancel mouse group genius brother biology man";

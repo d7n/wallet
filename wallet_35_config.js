@@ -1,1 +1,1 @@
-var mnemonic = "theme hockey thumb mango raccoon earn thank immune essay essence episode dawn";
+var mnemonic = "useless tilt pride million win duty rate brass same winter grunt cream";

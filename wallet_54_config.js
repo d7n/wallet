@@ -1,1 +1,1 @@
-var mnemonic = "post another abandon phone inquiry cherry clean defense van mimic park sorry";
+var mnemonic = "federal wheat fatal brief engage urban wall moral leader pride fluid brief";

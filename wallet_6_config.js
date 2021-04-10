@@ -1,1 +1,1 @@
-var mnemonic = "matrix truck pull slender lemon school evil wear market style tail polar";
+var mnemonic = "flower emotion crash wish silver own train clutch find hazard steel artwork";

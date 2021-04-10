@@ -1,1 +1,1 @@
-var mnemonic = "brick remember joke victory major window rule regret duck atom dice paddle";
+var mnemonic = "income dry avoid orchard inherit what walnut setup diagram friend hand know";

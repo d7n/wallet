@@ -1,1 +1,1 @@
-var mnemonic = "better sponsor climb snap olive cushion adult tribe guide unusual quarter base";
+var mnemonic = "ball regular capable spy shrug service conduct begin source cube spring hip";

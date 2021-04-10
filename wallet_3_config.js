@@ -1,1 +1,1 @@
-var mnemonic = "steel design midnight chase step foil dust rude skin typical chunk ghost";
+var mnemonic = "review blossom lazy duty whip exotic kind purpose van urge error unveil";

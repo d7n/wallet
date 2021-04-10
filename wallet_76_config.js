@@ -1,1 +1,1 @@
-var mnemonic = "immense mix lady robust orbit general abstract unknown neglect shove rate outdoor";
+var mnemonic = "like solve tank funny fever ignore edge baby couch pledge utility world";

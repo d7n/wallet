@@ -1,1 +1,1 @@
-var mnemonic = "stairs visual autumn crouch reject thought stone velvet burger trigger response crack";
+var mnemonic = "half common omit gap metal version champion aerobic husband garage miracle result";

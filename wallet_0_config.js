@@ -1,1 +1,1 @@
-var mnemonic = "guide story apart moon raw atom supreme sustain spring praise bench gentle";
+var mnemonic = "velvet logic edge few twice relief music coach boy glare summer because";

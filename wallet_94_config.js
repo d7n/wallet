@@ -1,1 +1,1 @@
-var mnemonic = "lava ring expire reject daring olive onion broccoli margin offer educate fiscal";
+var mnemonic = "sunset prefer crack tired regret chest monkey enact win large story grief";

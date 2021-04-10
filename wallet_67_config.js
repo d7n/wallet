@@ -1,1 +1,1 @@
-var mnemonic = "outside pitch main leave protect rebel spirit swear load wine genuine setup";
+var mnemonic = "coffee people pride afford adult noise improve talent supply spot kite final";

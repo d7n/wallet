@@ -1,1 +1,1 @@
-var mnemonic = "funny rifle glare twist danger oppose argue work march index track narrow";
+var mnemonic = "base luxury clock village limb ask eagle truck toss rack nerve jump";

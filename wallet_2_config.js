@@ -1,1 +1,1 @@
-var mnemonic = "valve strategy small scheme gesture resemble choice path aerobic stomach muscle punch";
+var mnemonic = "stand cycle talk current spin toast always fashion diesel scene grit fire";

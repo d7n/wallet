@@ -1,1 +1,1 @@
-var mnemonic = "mutual flip pulp control topic fine success seven carry edge chicken behind";
+var mnemonic = "valve betray clip fit laundry lady message fuel account differ almost bulb";

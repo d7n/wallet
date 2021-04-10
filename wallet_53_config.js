@@ -1,1 +1,1 @@
-var mnemonic = "industry vital travel bamboo mirror question tilt success elite tennis skin pulse";
+var mnemonic = "extend neutral retire chapter cloud shell orphan rookie employ vault crush chicken";

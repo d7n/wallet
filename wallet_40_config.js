@@ -1,1 +1,1 @@
-var mnemonic = "orbit ranch buffalo voice diamond civil love borrow twist crawl marine mosquito";
+var mnemonic = "monkey woman kangaroo employ arctic violin arrive execute wheel follow april impulse";

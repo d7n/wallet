@@ -1,1 +1,1 @@
-var mnemonic = "coconut road that police rhythm skull soup process orchard slim fish slow";
+var mnemonic = "maid extra lunch maze flee slide icon digital dragon piece fix smart";

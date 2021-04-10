@@ -1,1 +1,1 @@
-var mnemonic = "urban journey such hurt drama exercise rebel drama salt shell tank increase";
+var mnemonic = "diet salute submit genuine sail noise occur vintage actor culture lemon trial";
