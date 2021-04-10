@@ -1,1 +1,1 @@
-var mnemonic = "dish shock odor initial abuse boat foil strong advice aim indicate tilt";
+var mnemonic = "check price render drastic athlete hold gown wire pepper dove else neutral";

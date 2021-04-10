@@ -1,1 +1,1 @@
-var mnemonic = "castle mule clay put news beach swallow coil arch swim august add";
+var mnemonic = "grass crouch pluck bubble adapt sword pull empower curtain feed donkey denial";

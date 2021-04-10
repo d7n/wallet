@@ -1,1 +1,1 @@
-var mnemonic = "polar manual interest toe tennis guide wagon month employ diet heart reveal";
+var mnemonic = "describe isolate pave absurd attitude eager super vanish tent illness social close";

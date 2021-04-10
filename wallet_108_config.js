@@ -1,1 +1,1 @@
-var mnemonic = "test child clever august truth front ramp idle begin space proof left";
+var mnemonic = "hidden opera explain swear weird inhale pink lyrics desk capable column similar";

@@ -1,1 +1,1 @@
-var mnemonic = "armed wide armed matter snap grab must birth jungle staff cupboard budget";
+var mnemonic = "laptop parrot kiss during whisper inner other perfect reward execute age pole";

@@ -1,1 +1,1 @@
-var mnemonic = "advance upset people cheap require coyote grass album mosquito basket rough neutral";
+var mnemonic = "saddle faith analyst diet left weasel soul east coin weasel column next";

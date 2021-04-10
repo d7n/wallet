@@ -1,1 +1,1 @@
-var mnemonic = "answer indicate wedding trim million tuition action mean base wine grain mule";
+var mnemonic = "practice evil fluid method kind arrive observe subject vacant stone distance display";

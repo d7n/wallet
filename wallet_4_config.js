@@ -1,1 +1,1 @@
-var mnemonic = "hard super try finish juice candy gentle solar arrow aerobic talent truck";
+var mnemonic = "cash pill manage blouse give deer pave device maid juice ostrich odor";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor budget educate seed shiver silent until snake elbow acoustic advice lounge";
+var mnemonic = "hold cruise play analyst hurdle custom nest trend analyst dove basket army";

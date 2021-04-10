@@ -1,1 +1,1 @@
-var mnemonic = "when combine match family panel web sausage just build occur ticket this";
+var mnemonic = "replace secret normal emotion enjoy argue describe outside mushroom planet diet canyon";

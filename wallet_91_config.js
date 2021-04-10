@@ -1,1 +1,1 @@
-var mnemonic = "cloth enrich aware despair pride marine isolate harvest solution market genuine city";
+var mnemonic = "tomato humor cargo pumpkin page age awake giant library jazz enforce kangaroo";

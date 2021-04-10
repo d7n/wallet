@@ -1,1 +1,1 @@
-var mnemonic = "sell circle news adjust hurdle winner spike genuine segment problem romance human";
+var mnemonic = "demand brave dismiss burst define impose remove friend among dilemma april tennis";

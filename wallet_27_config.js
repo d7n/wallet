@@ -1,1 +1,1 @@
-var mnemonic = "census female century shadow grocery token find evidence humor coast afraid safe";
+var mnemonic = "thought rug edit abstract also beef bright fish police turn prison office";

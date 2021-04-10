@@ -1,1 +1,1 @@
-var mnemonic = "pepper sadness purse muscle daring behind injury mandate staff glow feed east";
+var mnemonic = "gentle flat pistol tilt club space tuition sort replace bus film year";

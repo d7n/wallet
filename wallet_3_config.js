@@ -1,1 +1,1 @@
-var mnemonic = "spread antique addict canal blossom purpose speak poverty kid purchase helmet resemble";
+var mnemonic = "tool enforce famous office typical post second deer nominee cluster achieve gadget";

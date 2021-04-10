@@ -1,1 +1,1 @@
-var mnemonic = "forget happy express opera warrior badge mansion main appear bread course junk";
+var mnemonic = "ecology absurd canoe spring cousin diary try denial step gospel unusual reward";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose lazy journey exhibit foam alley animal cattle amazing inhale onion control";
+var mnemonic = "leave measure person goat chicken impact accuse rely museum train project unfold";

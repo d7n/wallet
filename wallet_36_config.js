@@ -1,1 +1,1 @@
-var mnemonic = "acoustic month cotton debate drip cupboard coach add return awake coin oak";
+var mnemonic = "envelope island clerk gather alert rib assume mouse apology gospel peasant wheat";

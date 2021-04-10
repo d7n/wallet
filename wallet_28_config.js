@@ -1,1 +1,1 @@
-var mnemonic = "other seven invite amateur hill satoshi bridge egg aim fresh where alone";
+var mnemonic = "junior shoe junior area arena execute pumpkin chief soul warrior stay minimum";

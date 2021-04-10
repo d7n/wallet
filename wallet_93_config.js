@@ -1,1 +1,1 @@
-var mnemonic = "today deny obscure network female recipe oxygen grain rescue case glass march";
+var mnemonic = "false enact crush degree utility convince maximum quality turkey flame glance enhance";

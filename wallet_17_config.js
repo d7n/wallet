@@ -1,1 +1,1 @@
-var mnemonic = "accident project galaxy intact soldier drop legend wealth assist turtle wish claw";
+var mnemonic = "horse jewel cake lunch like stick reject very casual renew pony insect";

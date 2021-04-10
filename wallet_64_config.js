@@ -1,1 +1,1 @@
-var mnemonic = "riot coyote silly silly today pool hazard ill decade float school town";
+var mnemonic = "world bleak group foster point scorpion render used breeze area include either";

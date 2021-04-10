@@ -1,1 +1,1 @@
-var mnemonic = "february arctic panther boring midnight sunny oven peanut void style public fish";
+var mnemonic = "mean elephant estate task flat kitchen strong harsh check lizard flee property";

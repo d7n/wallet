@@ -1,1 +1,1 @@
-var mnemonic = "loan lion elder space cluster island short curious peace grain wink motor";
+var mnemonic = "grief limit cotton mansion sight test velvet baby roof grit monster robust";

@@ -1,1 +1,1 @@
-var mnemonic = "give oxygen reason general face discover meat achieve convince disease alarm sail";
+var mnemonic = "pulp bulk visual lake group depart couple antique label offer genius slight";

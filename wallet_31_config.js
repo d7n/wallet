@@ -1,1 +1,1 @@
-var mnemonic = "music minor reflect illegal develop soup private bring dutch method lounge machine";
+var mnemonic = "spy stove unfold inch anchor alien axis ship guitar stem erosion orphan";

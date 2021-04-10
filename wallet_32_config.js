@@ -1,1 +1,1 @@
-var mnemonic = "almost wear way advice medal hidden bleak aspect eight sunny frame enable";
+var mnemonic = "private seminar winner purchase fun head ostrich dash letter zoo zoo require";

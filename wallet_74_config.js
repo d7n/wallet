@@ -1,1 +1,1 @@
-var mnemonic = "grunt coral note choice essence bounce pilot pass entire session aim prison";
+var mnemonic = "frame stand wise mystery method install crack inflict able camera false east";

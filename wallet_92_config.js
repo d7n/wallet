@@ -1,1 +1,1 @@
-var mnemonic = "card nest electric tenant spell print april virus thank brisk owner ability";
+var mnemonic = "syrup hint unaware plate visual peace group hybrid episode hedgehog rally steel";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow captain hover direct fashion fragile crash maid accuse label idea fatal";
+var mnemonic = "alien dad tennis grace snow skin outside surface another brick observe group";

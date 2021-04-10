@@ -1,1 +1,1 @@
-var mnemonic = "skirt nest smoke private fiscal zone outer final draw announce secret head";
+var mnemonic = "fatigue smoke sweet frozen eight couch payment track change hotel shock seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "expect jealous cement brother true elder chase sister someone immense identify depart";
+var mnemonic = "between stool race fade dawn swallow age float duck entire tell sniff";

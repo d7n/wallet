@@ -1,1 +1,1 @@
-var mnemonic = "crunch profit floor foam weather area lawsuit jar casino only program crystal";
+var mnemonic = "diary drum delay soon pattern unable grass ocean vanish element payment base";

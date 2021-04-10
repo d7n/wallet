@@ -1,1 +1,1 @@
-var mnemonic = "two allow virtual sugar shoulder absent home sunny satoshi smart echo capable";
+var mnemonic = "curtain toe roof convince spoon number book seek auction mushroom tiny jar";

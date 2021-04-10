@@ -1,1 +1,1 @@
-var mnemonic = "live camp iron shift punch embrace decrease receive win tuition outside talent";
+var mnemonic = "health today jar erode vote fancy cable pear thrive space artefact prevent";

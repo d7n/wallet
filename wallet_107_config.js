@@ -1,1 +1,1 @@
-var mnemonic = "grape oak potato dish unaware cactus glory sniff gospel army head copper";
+var mnemonic = "impact vault around sound rabbit link wish crouch coast mystery good enlist";

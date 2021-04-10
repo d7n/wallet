@@ -1,1 +1,1 @@
-var mnemonic = "mouse stem attend dinner trial hold spend cricket twenty access narrow piece";
+var mnemonic = "element shallow town smooth cart program lunar drop chief second ripple obscure";

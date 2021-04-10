@@ -1,1 +1,1 @@
-var mnemonic = "base protect proof item woman direct brief shy teach wasp alley monitor";
+var mnemonic = "grit essay crater cancel shy sock help drink logic snow snap mango";

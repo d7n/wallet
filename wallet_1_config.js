@@ -1,1 +1,1 @@
-var mnemonic = "upper install mule solid mixture velvet right autumn drastic oblige clown bicycle";
+var mnemonic = "physical demand cushion calm oil modify situate curtain pigeon bundle butter love";

@@ -1,1 +1,1 @@
-var mnemonic = "seven swap bench coach flag tumble feel tell mouse arrest drip frequent";
+var mnemonic = "virus parrot push whip dawn alarm roof tip siege mesh father sad";

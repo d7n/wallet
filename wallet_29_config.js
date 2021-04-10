@@ -1,1 +1,1 @@
-var mnemonic = "stairs wink panel butter just produce clean wolf render strike inmate sentence";
+var mnemonic = "trap carpet parent smile rule private kiwi picture reflect pig short mango";

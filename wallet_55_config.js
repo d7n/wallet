@@ -1,1 +1,1 @@
-var mnemonic = "snack crush behind diet reopen rival broom enjoy subway tube clay obey";
+var mnemonic = "reject scale design goat dad happy fence salt pole prison install helmet";

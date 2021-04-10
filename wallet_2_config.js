@@ -1,1 +1,1 @@
-var mnemonic = "endorse trim luxury air group penalty rapid move thank rich learn mixed";
+var mnemonic = "feature example return banner post breeze remember primary page this zero effort";

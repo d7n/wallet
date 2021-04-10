@@ -1,1 +1,1 @@
-var mnemonic = "torch clown gain duck rural idle work earth adult solar angry whale";
+var mnemonic = "social rather maze city copper spice tower glance print broccoli rice step";

@@ -1,1 +1,1 @@
-var mnemonic = "slice usual nation airport fruit cancel horror sudden armed ordinary rigid fun";
+var mnemonic = "usage weasel crucial family axis dawn model tunnel great much front permit";

@@ -1,1 +1,1 @@
-var mnemonic = "century property dog cricket file metal ice recall gun season ripple burden";
+var mnemonic = "fence caught brick twice number cross bus account melt maximum room arm";

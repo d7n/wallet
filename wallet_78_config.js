@@ -1,1 +1,1 @@
-var mnemonic = "clerk crucial flame meat quarter tube child morning team shoulder muffin frequent";
+var mnemonic = "label menu hollow place autumn odor foot dentist fatal prosper smile spray";

@@ -1,1 +1,1 @@
-var mnemonic = "parade wrestle actress remain common oil polar answer capable traffic motor raven";
+var mnemonic = "owner error until decide uncover over language inside finish stomach hospital property";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer extend wreck embrace visit other south crush one mail mouse couch";
+var mnemonic = "faculty release vendor joy salon spawn patient quick top height dumb fall";

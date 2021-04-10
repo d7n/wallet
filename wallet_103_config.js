@@ -1,1 +1,1 @@
-var mnemonic = "obscure shop whip alarm title office category radio nature street torch claw";
+var mnemonic = "swamp curious income side second daring divert robot must basket drift reopen";

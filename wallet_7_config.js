@@ -1,1 +1,1 @@
-var mnemonic = "venture air nephew predict feed blush often ripple churn sorry blue captain";
+var mnemonic = "entry behind obey video toy distance flock nut oyster ignore noise flat";

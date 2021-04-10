@@ -1,1 +1,1 @@
-var mnemonic = "sight distance purpose domain staff woman fence believe mystery recycle express appear";
+var mnemonic = "twenty peace iron glimpse almost wild unable cruise high glance town acoustic";

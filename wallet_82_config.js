@@ -1,1 +1,1 @@
-var mnemonic = "know differ empty lion tooth deliver clap phrase spider tackle scheme border";
+var mnemonic = "pool grit broccoli priority route fiscal scrub record long actor carpet arctic";

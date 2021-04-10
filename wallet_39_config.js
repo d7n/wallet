@@ -1,1 +1,1 @@
-var mnemonic = "glance piece that reject weird milk vast culture correct good bacon dumb";
+var mnemonic = "rather core spider welcome country stock version memory piano gas play route";

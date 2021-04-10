@@ -1,1 +1,1 @@
-var mnemonic = "blossom course sample common buyer wild seek viable sadness harvest tired cart";
+var mnemonic = "polar surge pole blush nephew tooth skin drop cook seed amused damp";

@@ -1,1 +1,1 @@
-var mnemonic = "witness tomato photo cream ugly list whisper grief print admit citizen hamster";
+var mnemonic = "forum inside lumber vacant reason topple snap strategy million wait dove text";

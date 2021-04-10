@@ -1,1 +1,1 @@
-var mnemonic = "uncle nurse announce float unit result nation donor size now obey general";
+var mnemonic = "tooth soup pudding scout axis total method current gold garden husband tunnel";

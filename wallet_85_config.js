@@ -1,1 +1,1 @@
-var mnemonic = "bulk nominee design skate achieve absent question common cart slogan clump alone";
+var mnemonic = "cabbage door high acquire twenty latin nephew truck enroll movie region clean";

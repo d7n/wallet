@@ -1,1 +1,1 @@
-var mnemonic = "asthma twenty lawn appear moral dial fantasy coconut demand pet hour clerk";
+var mnemonic = "wink round mobile embody weather swing depth actual input doctor patient marine";

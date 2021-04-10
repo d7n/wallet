@@ -1,1 +1,1 @@
-var mnemonic = "fabric hour ten fruit travel matrix six diet banner family soon bike";
+var mnemonic = "turtle figure issue garage skill dinner bread shy melody horse claw hold";

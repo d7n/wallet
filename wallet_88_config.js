@@ -1,1 +1,1 @@
-var mnemonic = "online pair twice harbor practice school love road sail dial bachelor black";
+var mnemonic = "sniff burger pattern sausage seek museum cement someone street scorpion cannon index";

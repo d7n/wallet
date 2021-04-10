@@ -1,1 +1,1 @@
-var mnemonic = "pupil patrol glare knee already magic grief theory among electric salad humor";
+var mnemonic = "place poet enable slush patch owner vehicle chronic letter collect yellow clip";

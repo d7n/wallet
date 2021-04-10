@@ -1,1 +1,1 @@
-var mnemonic = "arctic return essay clog plunge climb sport pill where plate mixed parrot";
+var mnemonic = "together will snap mansion ahead abandon seminar achieve topple enrich door convince";

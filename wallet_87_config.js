@@ -1,1 +1,1 @@
-var mnemonic = "ostrich orient glass chief involve nothing alcohol clarify afford swim jump monster";
+var mnemonic = "under around gold oxygen lecture uphold goose tissue leader kidney easy brown";

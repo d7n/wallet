@@ -1,1 +1,1 @@
-var mnemonic = "sense immense enroll fitness corn curtain vintage pepper cigar park chat suffer";
+var mnemonic = "wine unhappy correct only ethics amount bamboo disorder popular catalog parrot spring";

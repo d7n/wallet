@@ -1,1 +1,1 @@
-var mnemonic = "resist obey penalty tortoise crystal urban humble slender close rich wolf card";
+var mnemonic = "surge shell this ladder hawk jacket can rescue lunar spread giraffe hire";

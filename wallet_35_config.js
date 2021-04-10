@@ -1,1 +1,1 @@
-var mnemonic = "chase wrong mother elevator setup palm area gas cliff glad fresh robot";
+var mnemonic = "churn example chimney pyramid either minute since hollow toast coconut describe off";

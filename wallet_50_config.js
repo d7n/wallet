@@ -1,1 +1,1 @@
-var mnemonic = "much jeans wood fault seek nothing husband consider tribe brush winter special";
+var mnemonic = "can winner sport matrix pupil kind bridge indoor sail blouse ladder sign";

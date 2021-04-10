@@ -1,1 +1,1 @@
-var mnemonic = "require extra rib save kiwi carbon act math alone marble finger drama";
+var mnemonic = "champion you oven elephant void six priority gas until box digital major";

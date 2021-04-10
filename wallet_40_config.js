@@ -1,1 +1,1 @@
-var mnemonic = "make fog laptop sausage hurry awake sun slice price flight main evidence";
+var mnemonic = "swear consider chapter frog velvet gun stamp card seven mercy boy clap";

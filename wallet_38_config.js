@@ -1,1 +1,1 @@
-var mnemonic = "boil ranch fault jeans mesh slight rural erase gaze mechanic theory city";
+var mnemonic = "today blue still strike pumpkin aspect spider latin duck choice rabbit biology";

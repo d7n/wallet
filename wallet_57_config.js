@@ -1,1 +1,1 @@
-var mnemonic = "initial vacuum boat rule cousin wild woman grief expand seed menu youth";
+var mnemonic = "mechanic fox chunk twin sick ship discover sing female six captain goddess";

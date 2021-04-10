@@ -1,1 +1,1 @@
-var mnemonic = "defy over sad mistake talk craft fringe wing table dolphin loud hurry";
+var mnemonic = "viable basket deal thank steak saddle blush student light piece scorpion problem";

@@ -1,1 +1,1 @@
-var mnemonic = "intact panic genuine symptom keep blood knee shrug insect palm drastic fortune";
+var mnemonic = "oak example fence field exhibit one east grit chunk dawn suspect market";

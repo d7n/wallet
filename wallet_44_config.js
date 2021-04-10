@@ -1,1 +1,1 @@
-var mnemonic = "dragon pizza stem novel fetch mosquito awesome undo pink rely rubber fringe";
+var mnemonic = "cry autumn first negative party series travel tooth brother fiction bicycle review";

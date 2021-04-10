@@ -1,1 +1,1 @@
-var mnemonic = "proud plate surround orchard matter fluid night expire truck borrow either elevator";
+var mnemonic = "lawsuit large knock scrub churn still toe choose foster wash reason unfair";

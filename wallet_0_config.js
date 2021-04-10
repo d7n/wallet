@@ -1,1 +1,1 @@
-var mnemonic = "fiction slice never message unaware zoo little alert bird boss repeat sell";
+var mnemonic = "anger chronic bubble connect room cave thank favorite burger nature normal slice";

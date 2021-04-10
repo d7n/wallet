@@ -1,1 +1,1 @@
-var mnemonic = "amazing cover helmet shoe wine retreat bench until tube media lazy basic";
+var mnemonic = "quiz omit resemble man iron powder pluck diet ensure cereal family fresh";

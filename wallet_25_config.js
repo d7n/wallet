@@ -1,1 +1,1 @@
-var mnemonic = "such devote actual want assume census settle grow tent magnet visual spring";
+var mnemonic = "bridge bomb door walk canyon gossip easy pull pig sheriff sample critic";

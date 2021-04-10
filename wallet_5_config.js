@@ -1,1 +1,1 @@
-var mnemonic = "risk hood output quote cube penalty tell enough little defense rose holiday";
+var mnemonic = "direct artist property imitate fatal fancy cushion sound already hen soldier cook";

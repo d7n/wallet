@@ -1,1 +1,1 @@
-var mnemonic = "legend sure chaos labor remember pass swap balcony two duty boat cabbage";
+var mnemonic = "welcome april soccer stable ivory broken frequent danger tourist blue omit wide";

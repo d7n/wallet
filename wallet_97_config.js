@@ -1,1 +1,1 @@
-var mnemonic = "when ostrich sweet robot magnet comfort hurdle upon enable anger injury van";
+var mnemonic = "number vibrant universe exclude roast arrange oxygen captain drive junk you view";

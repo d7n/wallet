@@ -1,1 +1,1 @@
-var mnemonic = "vibrant brief punch inherit grass employ churn modify quantum old credit patient";
+var mnemonic = "lava payment museum dash cousin alert gaze bracket fuel obtain bracket toward";

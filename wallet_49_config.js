@@ -1,1 +1,1 @@
-var mnemonic = "viable amazing short prevent level grab render control student pudding escape style";
+var mnemonic = "gas snack belt frown solve kid merry arch undo rigid music business";

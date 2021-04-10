@@ -1,1 +1,1 @@
-var mnemonic = "wheat void inmate bind never dinner flag light this sock rally wall";
+var mnemonic = "capable frequent connect patrol blush salon meadow general auto orchard expect wink";

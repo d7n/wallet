@@ -1,1 +1,1 @@
-var mnemonic = "cabin beach walnut vessel hotel hundred sorry chapter divert pill ranch arrest";
+var mnemonic = "wire power welcome harvest raccoon huge detect attack swift crazy penalty exile";

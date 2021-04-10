@@ -1,1 +1,1 @@
-var mnemonic = "bomb pistol fence salon local asset gravity toast mask elder flash lend";
+var mnemonic = "lend dawn resist valve supply tennis zero slab client loop rather insect";

@@ -1,1 +1,1 @@
-var mnemonic = "top young setup finger scorpion ladder original nasty victory earth unfair economy";
+var mnemonic = "alone great group try title grant assume color rebel floor bless mountain";

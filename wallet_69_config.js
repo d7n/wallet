@@ -1,1 +1,1 @@
-var mnemonic = "staff pet gym fat raven dinosaur issue address sphere stay observe spoon";
+var mnemonic = "swap address circle phone kiwi scan bronze pair pledge hybrid citizen salt";

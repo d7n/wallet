@@ -1,1 +1,1 @@
-var mnemonic = "now alpha index whip push meadow diamond letter small tortoise hungry solar";
+var mnemonic = "firm unfair marble science sail twist birth issue ceiling soldier female legend";
