@@ -1,1 +1,1 @@
-var mnemonic = "any round submit gaze volume trophy matter amused unlock ahead mouse horse";
+var mnemonic = "similar scorpion shrimp under pyramid turtle theory guide kiwi taxi jungle decrease";

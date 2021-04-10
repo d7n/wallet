@@ -1,1 +1,1 @@
-var mnemonic = "tilt topic glide cargo congress solar aspect zero drive tone mimic other";
+var mnemonic = "alone leisure cash sand certain can culture comic taxi file local that";

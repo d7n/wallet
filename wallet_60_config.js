@@ -1,1 +1,1 @@
-var mnemonic = "digital enforce during funny tattoo scene someone deal airport drift notable crash";
+var mnemonic = "piano list sail unfair reunion mask twelve solid quiz aunt patient rib";

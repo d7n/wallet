@@ -1,1 +1,1 @@
-var mnemonic = "rookie area real note muscle apple scare dynamic gaze actress valid trouble";
+var mnemonic = "manual eight luggage muscle smile educate uphold flip brand night immense glide";

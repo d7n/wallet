@@ -1,1 +1,1 @@
-var mnemonic = "slender furnace ocean tray soap tell lunar dynamic taxi rookie extend little";
+var mnemonic = "choice kite sudden token stairs vital tool tool business normal direct engine";

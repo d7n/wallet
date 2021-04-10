@@ -1,1 +1,1 @@
-var mnemonic = "record cinnamon good feel inside grow vast pitch defense drama black fuel";
+var mnemonic = "apology merit among movie noise legend feel source bubble cancel spoon bargain";

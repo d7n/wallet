@@ -1,1 +1,1 @@
-var mnemonic = "awful donate bird advice remove like pen dream snack proof dial dial";
+var mnemonic = "dynamic pepper awful prison cradle trigger gift sight cliff logic great bar";

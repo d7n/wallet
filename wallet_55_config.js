@@ -1,1 +1,1 @@
-var mnemonic = "hold write attitude human twelve road flee clay goose inch badge nose";
+var mnemonic = "eagle shadow canvas present fetch nature neglect jewel shoulder pink grape switch";

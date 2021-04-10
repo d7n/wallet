@@ -1,1 +1,1 @@
-var mnemonic = "will mansion tobacco swap minute glare photo cage green cruise culture under";
+var mnemonic = "decide east myself hello school foil vessel staff doll hedgehog sadness nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "scan smile gather flame sad thank guitar door silver tree august entire";
+var mnemonic = "asthma hammer village picnic system half armed stumble all region tide link";

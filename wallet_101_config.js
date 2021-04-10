@@ -1,1 +1,1 @@
-var mnemonic = "sand brief equip social ivory clerk supply primary idle become real pizza";
+var mnemonic = "gesture heavy mimic delay abstract balcony mean century vapor electric craft gasp";

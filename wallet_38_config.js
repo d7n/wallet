@@ -1,1 +1,1 @@
-var mnemonic = "pattern oyster embody daring drift industry you another response hand firm again";
+var mnemonic = "super pig dilemma element spare hat cabbage valid cage security width urge";

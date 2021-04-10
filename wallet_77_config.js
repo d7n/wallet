@@ -1,1 +1,1 @@
-var mnemonic = "crack cute believe prison garage easily sing candy suggest whale clip royal";
+var mnemonic = "trash attract wage kind toy unveil shine truth curve hurry curve strong";

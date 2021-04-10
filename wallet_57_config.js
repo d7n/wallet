@@ -1,1 +1,1 @@
-var mnemonic = "exchange chat rhythm rotate hub cross cruise pattern morning essence rug can";
+var mnemonic = "core bonus change melt divide file angle lecture panther siren fever topple";

@@ -1,1 +1,1 @@
-var mnemonic = "book loyal dial solar blanket dog vast shallow jazz talent kiwi rough";
+var mnemonic = "swear fine stumble gauge prosper run napkin zebra curious culture amazing brand";

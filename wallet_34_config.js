@@ -1,1 +1,1 @@
-var mnemonic = "toy drama song foster discover alert garment never lady risk demand initial";
+var mnemonic = "column ozone display maple supreme vital brass hotel draw shove orbit remove";

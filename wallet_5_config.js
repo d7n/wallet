@@ -1,1 +1,1 @@
-var mnemonic = "own model toast elbow image long casual disorder predict road plate liquid";
+var mnemonic = "second choice nurse green duck hole day poem pencil original witness april";

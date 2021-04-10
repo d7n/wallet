@@ -1,1 +1,1 @@
-var mnemonic = "settle penalty hint smooth august acid giggle hat inmate silver cereal local";
+var mnemonic = "elder rack orphan baby horror local object goose party custom film annual";

@@ -1,1 +1,1 @@
-var mnemonic = "expose early race juice title banner tornado pulp flag combine void business";
+var mnemonic = "advance arrange pipe issue since relax surround dutch craft museum insane donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse like mansion city neck silly position predict collect palm olive voice";
+var mnemonic = "silver useful stereo target cattle slab fly april veteran blind smile sketch";

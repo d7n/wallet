@@ -1,1 +1,1 @@
-var mnemonic = "target awake camp usual depend world tornado praise glory vanish decrease exact";
+var mnemonic = "pulse witness casino moment year owner ripple luxury syrup net father infant";

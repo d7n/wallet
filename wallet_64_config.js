@@ -1,1 +1,1 @@
-var mnemonic = "lottery pause civil nominee base junk build obscure patrol craft sorry story";
+var mnemonic = "north loop settle slam steel harbor hawk banner excess okay unhappy inherit";

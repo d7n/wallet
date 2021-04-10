@@ -1,1 +1,1 @@
-var mnemonic = "deer auction priority second omit heart liar coffee bird crisp orbit bacon";
+var mnemonic = "enforce yard kitchen gospel humble raven warfare cheese claw pudding depend valve";

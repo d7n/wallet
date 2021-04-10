@@ -1,1 +1,1 @@
-var mnemonic = "waste table million physical element decide sorry pudding genre crop idea connect";
+var mnemonic = "alter cup practice people anxiety leisure print hill narrow gospel gentle want";

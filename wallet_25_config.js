@@ -1,1 +1,1 @@
-var mnemonic = "throw universe sample brass bag common broken bronze either wood social guide";
+var mnemonic = "pond can comic manage legend pave wool atom rather cat emotion wish";

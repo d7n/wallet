@@ -1,1 +1,1 @@
-var mnemonic = "whale assume festival help dad addict road deny above speak beach offer";
+var mnemonic = "rent satisfy elevator food public scan blade blur typical fitness unknown bubble";

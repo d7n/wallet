@@ -1,1 +1,1 @@
-var mnemonic = "fuel harbor brain attend orchard timber crop toe poet blast pyramid ship";
+var mnemonic = "argue utility rabbit arrow acquire typical neglect stable noise ladder capital flip";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy miss middle hockey salon awesome decide rather slogan like defense grunt";
+var mnemonic = "syrup mind must maple into country behave minimum prison shaft song perfect";

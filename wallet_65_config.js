@@ -1,1 +1,1 @@
-var mnemonic = "street broccoli crisp body regret isolate ride milk pulp loan short job";
+var mnemonic = "skin love object purpose bench monster mosquito sun elephant impact surprise absorb";

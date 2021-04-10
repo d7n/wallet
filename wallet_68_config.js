@@ -1,1 +1,1 @@
-var mnemonic = "amused fever tag pistol hand twin connect axis suggest mercy near sight";
+var mnemonic = "husband syrup broom harvest flash vivid empower jump lady jacket keen mirror";

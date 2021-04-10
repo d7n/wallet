@@ -1,1 +1,1 @@
-var mnemonic = "dad wedding genuine spoon over expire aerobic amazing east spare alpha duty";
+var mnemonic = "month drill present spot engine bulb toward bar hole mean guide review";

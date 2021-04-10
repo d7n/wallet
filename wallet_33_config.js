@@ -1,1 +1,1 @@
-var mnemonic = "silent perfect marriage glance casino raw young cricket wrap ticket column month";
+var mnemonic = "shield junior small unusual ice vintage mass farm until nest hotel office";

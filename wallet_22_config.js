@@ -1,1 +1,1 @@
-var mnemonic = "matter palm bulk surprise spot habit goat divide club same sausage answer";
+var mnemonic = "captain ugly enough action jar focus biology purity april marble grocery auction";

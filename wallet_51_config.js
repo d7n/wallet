@@ -1,1 +1,1 @@
-var mnemonic = "then lemon suggest ranch detail glory verb vivid lucky wall brick pudding";
+var mnemonic = "live hat rescue spare ask echo high owner disorder couch solve post";

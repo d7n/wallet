@@ -1,1 +1,1 @@
-var mnemonic = "behind snap gentle visit security fuel merry pink assume century junk venture";
+var mnemonic = "seven evolve plug forward rail curious myth shadow sad surface truth castle";

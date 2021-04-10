@@ -1,1 +1,1 @@
-var mnemonic = "guess clean marble wolf student promote next figure lawn leave guide split";
+var mnemonic = "notice emotion park barrel walk hockey weapon involve flip veteran first unveil";

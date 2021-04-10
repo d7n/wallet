@@ -1,1 +1,1 @@
-var mnemonic = "voice combine loud page assault shrug stock aisle destroy syrup rose pioneer";
+var mnemonic = "moon ginger lesson action execute alone people hybrid gift dizzy bus misery";

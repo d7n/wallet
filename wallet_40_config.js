@@ -1,1 +1,1 @@
-var mnemonic = "forward wonder snap venue ill soda memory yard blood lawsuit grunt satoshi";
+var mnemonic = "tone entry word hedgehog soft evidence glide setup drive spray cargo volcano";

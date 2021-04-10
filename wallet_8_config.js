@@ -1,1 +1,1 @@
-var mnemonic = "lounge three magic mesh hobby rely wet juice limit carry column together";
+var mnemonic = "miracle pulp normal core peace right smooth relax option salad turtle exhaust";

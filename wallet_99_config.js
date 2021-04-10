@@ -1,1 +1,1 @@
-var mnemonic = "table bottom rebel hair rely arrest glad treat group model moral relief";
+var mnemonic = "cart helmet music match try timber robust toss nuclear solve track vacuum";

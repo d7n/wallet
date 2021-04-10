@@ -1,1 +1,1 @@
-var mnemonic = "squeeze extra mansion rescue ring sample hurt motor sausage fatigue warfare crisp";
+var mnemonic = "unaware spike frame decorate festival step paddle payment inquiry cereal erosion post";

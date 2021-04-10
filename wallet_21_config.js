@@ -1,1 +1,1 @@
-var mnemonic = "brave trim lift benefit wall weasel panther cupboard credit enact match logic";
+var mnemonic = "object welcome maid forum hungry nuclear fabric exclude original gift also symbol";

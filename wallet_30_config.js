@@ -1,1 +1,1 @@
-var mnemonic = "series liquid spy scrub traffic local lounge oyster skin sight wreck luggage";
+var mnemonic = "picnic dizzy inform sketch clutch desert easily fruit divorce pioneer giraffe code";

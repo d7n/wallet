@@ -1,1 +1,1 @@
-var mnemonic = "member staff soup mouse tackle liberty pelican nuclear fabric unlock social spy";
+var mnemonic = "quick hour brother poem blanket need midnight mix refuse belt crawl lift";

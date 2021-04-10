@@ -1,1 +1,1 @@
-var mnemonic = "aisle change rough fun tip rib hire chest quarter alien renew person";
+var mnemonic = "enrich joke acquire holiday release make cattle above require broccoli afford elite";

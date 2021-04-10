@@ -1,1 +1,1 @@
-var mnemonic = "tape mosquito enable general torch eternal argue tower source long trophy exchange";
+var mnemonic = "clutch tent finger glue spot barrel garlic until initial orange add leave";

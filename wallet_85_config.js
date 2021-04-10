@@ -1,1 +1,1 @@
-var mnemonic = "refuse caught where average hamster sing acid slim gauge ladder device above";
+var mnemonic = "volume spawn rely coral asset current ten enlist cigar farm multiply belt";

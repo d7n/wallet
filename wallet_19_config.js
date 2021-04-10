@@ -1,1 +1,1 @@
-var mnemonic = "frost extend setup negative rude equip honey assault survey radio that pizza";
+var mnemonic = "mutual fire face capital fuel hood elbow junk brick lend erase dog";

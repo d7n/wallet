@@ -1,1 +1,1 @@
-var mnemonic = "tag update spend filter toss chuckle minute deposit festival filter genre staff";
+var mnemonic = "clay turn onion creek orange raise brand measure innocent text sibling ugly";

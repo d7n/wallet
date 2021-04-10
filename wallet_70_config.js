@@ -1,1 +1,1 @@
-var mnemonic = "silent opera arrow beef furnace tent baby kitten laptop warm later sample";
+var mnemonic = "napkin circle hard dice tray pledge alcohol pass cause weapon unfold dilemma";

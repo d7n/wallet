@@ -1,1 +1,1 @@
-var mnemonic = "heavy diamond head bracket merry neglect fury derive plug become senior cigar";
+var mnemonic = "gas course bitter slim ankle strategy whisper rival box drama keep kiss";

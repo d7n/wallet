@@ -1,1 +1,1 @@
-var mnemonic = "scatter fiber dove west hour genius camp thing auction swim merry forest";
+var mnemonic = "snack write cruise craft minute allow equal gravity winter sudden betray decline";

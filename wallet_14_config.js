@@ -1,1 +1,1 @@
-var mnemonic = "industry roast area embody vocal mutual jeans slender crystal theme salon cabbage";
+var mnemonic = "position salon echo cousin world dolphin click surround unit school innocent matter";

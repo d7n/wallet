@@ -1,1 +1,1 @@
-var mnemonic = "fitness winter box picnic dignity hollow resist idea face hybrid pilot glue";
+var mnemonic = "ride place travel decade cement myself bronze lift alcohol require morning click";

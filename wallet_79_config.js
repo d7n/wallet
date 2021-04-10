@@ -1,1 +1,1 @@
-var mnemonic = "logic laptop vendor item scorpion close crop only help skull file scan";
+var mnemonic = "month ship flash boring little burger room bicycle apology amount sentence punch";

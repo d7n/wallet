@@ -1,1 +1,1 @@
-var mnemonic = "stand green arrow castle please heavy scheme future ocean drum debris select";
+var mnemonic = "say gospel tornado language humble result round best tone cattle negative fury";

@@ -1,1 +1,1 @@
-var mnemonic = "you space image lab unveil maple innocent figure staff bulk puzzle draw";
+var mnemonic = "abuse bleak moon affair pull ticket drop body when praise educate uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "globe patient divert floor virtual park cream evoke describe traffic time neutral";
+var mnemonic = "sing connect twist axis green grant clock spot gaze clarify thrive neglect";

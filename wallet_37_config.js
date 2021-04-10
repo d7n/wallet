@@ -1,1 +1,1 @@
-var mnemonic = "census permit goddess pulse feed laugh hope regret trend mercy main core";
+var mnemonic = "chest blur like hour income next same empower gather width quantum upon";

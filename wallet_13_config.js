@@ -1,1 +1,1 @@
-var mnemonic = "give stand chat firm glass element melody episode brain story winter cost";
+var mnemonic = "air path place monster fitness pottery buffalo warfare join stand grocery arrest";

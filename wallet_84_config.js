@@ -1,1 +1,1 @@
-var mnemonic = "paper warfare rail vendor bubble treat purpose extend mixed rigid index mad";
+var mnemonic = "crawl topple rubber wheat hen ethics evil valve fit refuse enact hover";

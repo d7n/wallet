@@ -1,1 +1,1 @@
-var mnemonic = "apology denial civil wine response dizzy squirrel find height crater opera food";
+var mnemonic = "mimic buddy dial divide dune jump proof glory choose broom own mansion";

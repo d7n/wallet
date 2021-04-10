@@ -1,1 +1,1 @@
-var mnemonic = "hire letter bomb endorse pudding letter fancy size flee practice monkey differ";
+var mnemonic = "truly friend pony rain similar kangaroo loop grunt man water access spin";

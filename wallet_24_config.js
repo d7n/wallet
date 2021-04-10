@@ -1,1 +1,1 @@
-var mnemonic = "cage copy cream clock rookie comfort hire skate giraffe vehicle crop tiger";
+var mnemonic = "airport drastic palace among trap provide polar base cereal record seed mixed";

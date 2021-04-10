@@ -1,1 +1,1 @@
-var mnemonic = "provide upper interest unit much novel special clown gesture february pave buyer";
+var mnemonic = "airport canyon mind lonely small pitch else layer crack mistake test better";

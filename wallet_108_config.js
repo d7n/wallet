@@ -1,1 +1,1 @@
-var mnemonic = "soda cage fine common easily online climb shrug clarify stick govern fly";
+var mnemonic = "inform drink defy feed sad dumb quote jewel involve crew brand latin";

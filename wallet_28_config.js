@@ -1,1 +1,1 @@
-var mnemonic = "sponsor dignity cricket alter ready bulb mandate cricket pig stable talent voyage";
+var mnemonic = "brass mass frozen state piano portion knee buddy vapor base trigger cash";

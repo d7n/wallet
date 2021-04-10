@@ -1,1 +1,1 @@
-var mnemonic = "blossom reward soup orchard mistake urban tragic season vessel turtle oppose custom";
+var mnemonic = "flat permit idle clarify spoon bone soon once bubble nature account chair";

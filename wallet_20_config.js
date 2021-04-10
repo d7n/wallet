@@ -1,1 +1,1 @@
-var mnemonic = "cement exotic grunt habit noodle strike receive crack chest wire hamster aware";
+var mnemonic = "churn soon brother copper team member giant absorb home guitar arrow broken";

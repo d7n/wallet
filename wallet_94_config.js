@@ -1,1 +1,1 @@
-var mnemonic = "vanish review seven roast fame giraffe spring common indicate symbol tennis secret";
+var mnemonic = "letter monkey wish tomato alien tunnel pulp surprise fog wolf hand street";

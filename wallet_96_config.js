@@ -1,1 +1,1 @@
-var mnemonic = "rose cheese escape nut material medal donor bone since have garage funny";
+var mnemonic = "guard century answer very provide mountain coil crucial veteran suit budget thing";

@@ -1,1 +1,1 @@
-var mnemonic = "rib mad super hole armor cancel raven door deputy kangaroo ready blame";
+var mnemonic = "toy blast armor grocery rebel tool fire street panther deny enact taxi";

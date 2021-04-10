@@ -1,1 +1,1 @@
-var mnemonic = "obscure midnight model melt rural fault change horror student slam mirror voice";
+var mnemonic = "shoulder sense rely vacant unit behave miss exhaust good kind multiply solid";

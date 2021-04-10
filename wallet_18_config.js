@@ -1,1 +1,1 @@
-var mnemonic = "dirt west injury album sorry lyrics brush face debris people knock muscle";
+var mnemonic = "doctor radar skirt minor wrap cry tonight bulb defy ivory wheat envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "upper fortune toward voyage hurry empty follow utility opinion dentist waste taxi";
+var mnemonic = "abstract picnic pelican tip perfect radio drastic cruise flight empty once fee";

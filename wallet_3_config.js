@@ -1,1 +1,1 @@
-var mnemonic = "input already owner flash become cancel glow easy awful domain liberty clinic";
+var mnemonic = "cheap decorate planet verify motion place rice fatal bundle enroll lava craft";

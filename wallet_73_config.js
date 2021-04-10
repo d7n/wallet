@@ -1,1 +1,1 @@
-var mnemonic = "detail tide speak nature sure expire coconut consider ten material stone teach";
+var mnemonic = "fabric road prize merit bubble polar member stock coast shoulder margin bar";

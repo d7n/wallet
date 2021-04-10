@@ -1,1 +1,1 @@
-var mnemonic = "attack burden else six strong expand supreme train sphere gravity primary attend";
+var mnemonic = "cotton inherit worry table trumpet more basic rifle route craft spring jungle";

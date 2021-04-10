@@ -1,1 +1,1 @@
-var mnemonic = "trash deputy daring profit fall fever silly lend dust lion drink execute";
+var mnemonic = "intact robot law sing disagree sphere dinner flat afraid road risk garden";

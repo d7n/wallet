@@ -1,1 +1,1 @@
-var mnemonic = "just maple turtle aerobic federal input salon never music spend total vintage";
+var mnemonic = "cigar wedding shallow jewel change kiwi door drift adapt cat eagle trip";

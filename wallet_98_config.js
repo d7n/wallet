@@ -1,1 +1,1 @@
-var mnemonic = "duty brass close goose limb hand roast tumble present achieve squirrel grit";
+var mnemonic = "horn law special sell category cancel trophy apple brief ritual split jaguar";

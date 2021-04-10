@@ -1,1 +1,1 @@
-var mnemonic = "husband secret south family stumble credit logic sight base duty victory moment";
+var mnemonic = "analyst broccoli number lock comfort ordinary example knee vapor destroy digital impose";

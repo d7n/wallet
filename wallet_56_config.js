@@ -1,1 +1,1 @@
-var mnemonic = "word scare debate note comfort adapt flock sheriff spike photo urban bid";
+var mnemonic = "unusual know vivid exchange various symbol argue feel fork together worth mosquito";

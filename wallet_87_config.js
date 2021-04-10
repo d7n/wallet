@@ -1,1 +1,1 @@
-var mnemonic = "damage card year salt entire romance disease either south digital hedgehog settle";
+var mnemonic = "dry soon boost loud interest glare teach elegant depend angle keep glass";

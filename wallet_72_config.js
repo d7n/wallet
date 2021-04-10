@@ -1,1 +1,1 @@
-var mnemonic = "sell paddle spike sample segment object step erode loyal feel sport federal";
+var mnemonic = "special lamp slide cup cruel stick kitten fox exile daring mystery intact";

@@ -1,1 +1,1 @@
-var mnemonic = "despair head amused into unable dumb wet inquiry chapter exhibit wish pluck";
+var mnemonic = "broken simple wedding page chef beauty reward canvas stumble force enhance fine";

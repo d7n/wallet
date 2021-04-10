@@ -1,1 +1,1 @@
-var mnemonic = "orchard flat episode multiply famous disagree lonely local earth adjust gospel weekend";
+var mnemonic = "quick repeat canvas patch scale century sound major ketchup witness like shy";

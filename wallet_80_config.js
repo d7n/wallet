@@ -1,1 +1,1 @@
-var mnemonic = "column wool churn nose diesel exchange disorder liar special check room figure";
+var mnemonic = "combine answer antenna inhale nature topple town young stem small please priority";

@@ -1,1 +1,1 @@
-var mnemonic = "jump card dutch cream abandon dragon enjoy someone cost similar bright erupt";
+var mnemonic = "ginger orient accuse broccoli any rug allow whisper baby cool forget sand";
