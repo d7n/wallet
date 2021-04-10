@@ -1,1 +1,1 @@
-var mnemonic = "above senior correct cage favorite subway loop hybrid artefact stable deliver tribe";
+var mnemonic = "normal aunt shed copy grid transfer page resource brave fossil dress angry";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat village charge tell uncle kitten basket lion spike stage skate ordinary";
+var mnemonic = "scrub lonely box chicken unique dirt common dismiss since fee key solve";

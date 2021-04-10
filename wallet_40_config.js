@@ -1,1 +1,1 @@
-var mnemonic = "attitude exhaust figure market bracket grace suggest rebel credit cage knife rule";
+var mnemonic = "please resist deliver napkin grass cupboard jaguar enroll embrace wink few doctor";

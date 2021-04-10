@@ -1,1 +1,1 @@
-var mnemonic = "exile luggage cliff surprise warrior tourist offer myth clip laugh hard degree";
+var mnemonic = "humble face asset emerge crane blossom foil fuel document canoe lecture toss";

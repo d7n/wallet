@@ -1,1 +1,1 @@
-var mnemonic = "physical allow renew cash giant tourist series panic intact quantum comic minute";
+var mnemonic = "entire meat finish wear appear honey pilot liquid crush tail meadow current";

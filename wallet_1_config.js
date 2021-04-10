@@ -1,1 +1,1 @@
-var mnemonic = "rain fortune robust cause spare forget crash frog entry you spy crew";
+var mnemonic = "orphan inherit idle prepare glue current season pipe remember behave advice false";

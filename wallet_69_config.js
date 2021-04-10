@@ -1,1 +1,1 @@
-var mnemonic = "stumble forward decrease fence bulk kiwi sun debris pattern anchor police prepare";
+var mnemonic = "fiber faculty response various execute two session venture unveil situate wish where";

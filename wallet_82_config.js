@@ -1,1 +1,1 @@
-var mnemonic = "mom purity happy better inmate valid hurry monitor escape oblige become patrol";
+var mnemonic = "second sunny meadow expose ski dignity base return shrug special purpose wonder";

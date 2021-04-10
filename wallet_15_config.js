@@ -1,1 +1,1 @@
-var mnemonic = "pen deposit summer hero defense edge body outer impact asset unknown clump";
+var mnemonic = "involve clutch umbrella between insect profit sad trick dragon digital walk reopen";

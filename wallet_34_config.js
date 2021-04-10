@@ -1,1 +1,1 @@
-var mnemonic = "phone neglect net exercise ride cook rose machine borrow rib live absent";
+var mnemonic = "pioneer you play monkey check beef submit defy prison husband struggle chase";

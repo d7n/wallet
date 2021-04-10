@@ -1,1 +1,1 @@
-var mnemonic = "photo swear aim exist whisper double toward lamp desert funny crystal license";
+var mnemonic = "music width syrup dignity dignity quick short super primary bunker valve canoe";

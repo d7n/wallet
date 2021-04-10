@@ -1,1 +1,1 @@
-var mnemonic = "crime kite reject climb home small season super extra utility crime jazz";
+var mnemonic = "daughter dawn south hurry inside net west soldier egg such drama exclude";

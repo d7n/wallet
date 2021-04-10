@@ -1,1 +1,1 @@
-var mnemonic = "remember ritual bachelor minimum donkey chase pony detail cliff segment enrich desk";
+var mnemonic = "labor crumble sun unit whisper color will man journey cluster ankle property";

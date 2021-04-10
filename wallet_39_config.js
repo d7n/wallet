@@ -1,1 +1,1 @@
-var mnemonic = "cabin again donkey mad critic shadow window frog enhance sword pond dog";
+var mnemonic = "trade wash crater capital occur grain small under photo march allow gorilla";

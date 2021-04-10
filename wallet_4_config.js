@@ -1,1 +1,1 @@
-var mnemonic = "enlist system segment broccoli dune asset result grit east eye text captain";
+var mnemonic = "unusual vendor cat steel thought glory plate rather glare enact before wild";

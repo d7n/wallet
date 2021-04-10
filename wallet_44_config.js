@@ -1,1 +1,1 @@
-var mnemonic = "lady caution exclude distance comic physical fiscal exhaust assist follow uniform short";
+var mnemonic = "notice radio paddle pretty frog barrel human dad settle head shaft shove";

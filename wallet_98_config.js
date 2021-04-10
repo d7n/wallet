@@ -1,1 +1,1 @@
-var mnemonic = "fever sort service nurse lottery way utility east prosper olive tilt update";
+var mnemonic = "desk carry example wood gather tonight cherry journey accuse holiday toy sing";

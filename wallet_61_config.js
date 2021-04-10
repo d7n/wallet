@@ -1,1 +1,1 @@
-var mnemonic = "genre favorite air trash bulb idle bounce much clump design rely van";
+var mnemonic = "shuffle engage coral fold people cry manage flavor punch quiz wise repair";

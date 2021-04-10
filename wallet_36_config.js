@@ -1,1 +1,1 @@
-var mnemonic = "fame divorce climb waste neither bargain young trigger giant print eagle daughter";
+var mnemonic = "dynamic unlock destroy cloth impact silver subway initial aunt hospital slogan canvas";

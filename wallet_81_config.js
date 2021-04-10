@@ -1,1 +1,1 @@
-var mnemonic = "clerk camp robust arrange soup waste device note arrange unveil inspire fade";
+var mnemonic = "lift produce before animal tape dove reform happy scrap anxiety hip just";

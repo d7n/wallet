@@ -1,1 +1,1 @@
-var mnemonic = "broccoli mail whip since minor minimum quick skill divorce cool question suggest";
+var mnemonic = "village kiwi valid inform table chat short ethics still under medal need";

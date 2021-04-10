@@ -1,1 +1,1 @@
-var mnemonic = "bubble royal rent nasty rely torch ethics believe obey wave school jaguar";
+var mnemonic = "rocket path solar palm hand brush narrow spirit evil misery carry fade";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic assault tissue soon same push drift effort size slim million hidden";
+var mnemonic = "world hungry parade worry again fog forest question sure leave large phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "develop dirt want brain dial opera round color glimpse inside stomach rescue";
+var mnemonic = "pencil token peasant credit explain stock nest select armed market sister divert";

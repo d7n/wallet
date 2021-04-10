@@ -1,1 +1,1 @@
-var mnemonic = "release letter bargain despair avoid scheme vanish grass soccer glow airport zoo";
+var mnemonic = "accuse unfair measure happy dutch main carry build nurse mule concert bag";

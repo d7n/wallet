@@ -1,1 +1,1 @@
-var mnemonic = "regular acid wealth excuse cage mimic ring quantum dry ritual panther bright";
+var mnemonic = "mosquito suffer filter embrace hurry trim legend humble fix lady pride creek";

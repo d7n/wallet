@@ -1,1 +1,1 @@
-var mnemonic = "pond blossom sunny yellow wink ice inch love any open point walk";
+var mnemonic = "noble grant cute act coral upper stick comic lend long van census";

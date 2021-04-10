@@ -1,1 +1,1 @@
-var mnemonic = "brick blind kidney body arrow gym limb urge kit coil blouse knee";
+var mnemonic = "letter boost cargo dragon frame bonus witness oil traffic oven demand hurdle";

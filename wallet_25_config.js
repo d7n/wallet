@@ -1,1 +1,1 @@
-var mnemonic = "piece live actor unhappy eagle track wreck mountain motor castle rally acoustic";
+var mnemonic = "spy baby know talent abstract brass morning often genre rebel useful atom";

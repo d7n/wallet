@@ -1,1 +1,1 @@
-var mnemonic = "daughter gesture faint tag dish coconut pole spirit found fetch session empty";
+var mnemonic = "cream bench indicate warfare evolve door dish section help unlock crumble surge";

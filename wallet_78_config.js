@@ -1,1 +1,1 @@
-var mnemonic = "measure sad icon state sunny disagree oyster title regret crucial festival insane";
+var mnemonic = "stage senior young expand cash suffer decorate seek giant hood source head";

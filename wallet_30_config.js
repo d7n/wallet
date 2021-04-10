@@ -1,1 +1,1 @@
-var mnemonic = "wrong violin middle artefact laugh useless aspect snack hollow twist ridge rookie";
+var mnemonic = "bundle people work rib junk shield control snow old horn pill swift";

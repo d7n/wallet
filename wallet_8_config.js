@@ -1,1 +1,1 @@
-var mnemonic = "tone reason gate globe capable grid demand receive impulse audit draw hidden";
+var mnemonic = "stable creek million sight stick antenna cactus tiny uncle choose key eagle";

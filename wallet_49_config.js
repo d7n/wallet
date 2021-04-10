@@ -1,1 +1,1 @@
-var mnemonic = "strong smart draft mad film bag stone base trend museum income world";
+var mnemonic = "elbow two purse ginger unusual marble quick fiction slot capable egg pigeon";

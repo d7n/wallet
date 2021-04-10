@@ -1,1 +1,1 @@
-var mnemonic = "foot combine family robot sponsor curtain helmet foil winter rain learn excite";
+var mnemonic = "elephant diamond ripple valid brush float reunion struggle cram skirt acoustic barely";

@@ -1,1 +1,1 @@
-var mnemonic = "okay car tongue impose shaft celery mimic nurse deputy flee valley sell";
+var mnemonic = "kick leopard gesture lizard birth movie rib vessel deputy tiny marine mutual";

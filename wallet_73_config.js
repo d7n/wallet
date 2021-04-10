@@ -1,1 +1,1 @@
-var mnemonic = "dial will advice hair above favorite dumb crucial tent rely genre door";
+var mnemonic = "hero come tonight eager fire know swift shoulder federal gas sea hawk";

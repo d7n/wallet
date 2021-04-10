@@ -1,1 +1,1 @@
-var mnemonic = "pole baby bottom chronic warfare night energy volcano view unveil grief private";
+var mnemonic = "dress vessel mean shrimp warrior funny inner bachelor enlist vanish sniff profit";

@@ -1,1 +1,1 @@
-var mnemonic = "equal usual into story junk resource supply member coast shop crowd neck";
+var mnemonic = "script duty toe artwork enjoy plug indoor hip monkey gentle vintage make";

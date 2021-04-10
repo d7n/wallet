@@ -1,1 +1,1 @@
-var mnemonic = "infant already inner virtual minor object involve agent guide clock pact monkey";
+var mnemonic = "barely laugh involve view bronze veteran kiwi cement legend already fossil burst";

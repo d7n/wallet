@@ -1,1 +1,1 @@
-var mnemonic = "pass wash net hat write negative shell essence female sort observe frost";
+var mnemonic = "ask elite soldier spoon raw large hat goddess observe tape change sunny";

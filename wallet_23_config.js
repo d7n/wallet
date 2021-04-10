@@ -1,1 +1,1 @@
-var mnemonic = "arrive wealth monster parrot ancient taxi brick position beauty cave olive addict";
+var mnemonic = "connect dutch mixture naive fever else core wink oil fluid husband shuffle";

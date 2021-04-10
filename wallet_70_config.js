@@ -1,1 +1,1 @@
-var mnemonic = "useless misery adjust snake below scale palace damage bullet grunt clarify lock";
+var mnemonic = "option first theory fluid check wage sight exit daring drama trumpet arrive";

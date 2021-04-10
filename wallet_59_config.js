@@ -1,1 +1,1 @@
-var mnemonic = "flame decrease album junior gift frown spider deer kiwi stuff glue prosper";
+var mnemonic = "elephant convince garlic pave crawl cave dash chef victory lumber soul clarify";

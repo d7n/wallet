@@ -1,1 +1,1 @@
-var mnemonic = "east goose burden example present strategy sense regular pride year dawn enhance";
+var mnemonic = "deputy coffee shoot monitor pigeon angry fox enforce siren prison shoulder moral";

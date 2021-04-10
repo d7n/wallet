@@ -1,1 +1,1 @@
-var mnemonic = "scorpion tongue display pink cup bronze clap public scheme erupt despair prevent";
+var mnemonic = "high scene lens autumn hair monster curious poem pitch tiny grace orbit";

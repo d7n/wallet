@@ -1,1 +1,1 @@
-var mnemonic = "brush avoid start morning crater crew middle please pretty rescue horse stadium";
+var mnemonic = "various nothing ladder maple scatter gauge omit luxury sail suspect test guess";

@@ -1,1 +1,1 @@
-var mnemonic = "help deliver upper diary arrange grass barrel rifle liberty manage mesh fire";
+var mnemonic = "earth jeans giant safe other barely isolate used female shop tourist help";

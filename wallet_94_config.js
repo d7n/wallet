@@ -1,1 +1,1 @@
-var mnemonic = "run autumn fun total cancel kitchen hover mix add apple beach common";
+var mnemonic = "supreme glare exact click bread collect message gym call cannon add used";

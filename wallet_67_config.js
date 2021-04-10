@@ -1,1 +1,1 @@
-var mnemonic = "solid smooth dice miss truck forget drill clown salmon kit chunk artefact";
+var mnemonic = "roast print category bullet cable hurdle jeans domain shine aunt bridge again";

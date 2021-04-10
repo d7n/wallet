@@ -1,1 +1,1 @@
-var mnemonic = "romance shaft crash black wheat click century retreat company dream bone company";
+var mnemonic = "young magic suit food beyond alone caught lyrics stereo assault collect impose";

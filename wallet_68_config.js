@@ -1,1 +1,1 @@
-var mnemonic = "solution matrix jaguar brush place rival february leg enjoy spatial real student";
+var mnemonic = "public advance quiz digital december select tribe country laugh clutch mixture safe";

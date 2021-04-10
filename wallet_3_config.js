@@ -1,1 +1,1 @@
-var mnemonic = "whisper shuffle narrow draft slow index math year crack library glory issue";
+var mnemonic = "spike normal topple trend cycle alert imitate blame enforce cushion tribe admit";

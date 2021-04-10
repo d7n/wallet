@@ -1,1 +1,1 @@
-var mnemonic = "occur drum cement frame amused badge glory also empty credit soldier pupil";
+var mnemonic = "measure clinic tunnel upon solve nose exact citizen swear dilemma guide area";

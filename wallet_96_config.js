@@ -1,1 +1,1 @@
-var mnemonic = "disorder goat author pet twelve end liberty middle album connect crazy notice";
+var mnemonic = "pause artist wheel smart close ticket word garden absent task panther jelly";

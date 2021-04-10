@@ -1,1 +1,1 @@
-var mnemonic = "clay liar gloom collect toss april endorse wife cup execute senior sing";
+var mnemonic = "bacon shed open innocent ribbon hunt toss cup route cream pair cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "group senior dinner equal piece end garbage april electric urban salon turn";
+var mnemonic = "also hard sketch else clever strike race rack van know parent near";

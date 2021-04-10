@@ -1,1 +1,1 @@
-var mnemonic = "pizza fall corn dinner auto you skin enjoy hello jeans sort eye";
+var mnemonic = "mistake annual senior unfair split patch simple modify dilemma seven artefact seat";

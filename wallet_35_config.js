@@ -1,1 +1,1 @@
-var mnemonic = "humble tackle wisdom east spice green forum seek kidney document lady trust";
+var mnemonic = "vehicle marine embody goat idle parrot water water weasel remember multiply output";

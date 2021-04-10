@@ -1,1 +1,1 @@
-var mnemonic = "core student rug turkey punch vote owner dash cup lamp lazy plunge";
+var mnemonic = "hover sail buffalo educate provide depend indoor punch nominee poverty spell brand";

@@ -1,1 +1,1 @@
-var mnemonic = "reject castle birth neck foster sure raven kangaroo course amused keen coral";
+var mnemonic = "search mystery injury tooth camp miracle vibrant exhibit finger tuna bullet among";

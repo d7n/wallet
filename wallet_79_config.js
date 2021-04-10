@@ -1,1 +1,1 @@
-var mnemonic = "betray rabbit home tongue fluid vocal elite judge giggle either sense clinic";
+var mnemonic = "pear auction gasp infant sadness fever smile teach desert endless process afford";

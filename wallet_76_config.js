@@ -1,1 +1,1 @@
-var mnemonic = "veteran nurse ability forum crystal insect road staff omit sword shine final";
+var mnemonic = "movie vivid refuse wife diagram pilot notice tell still erase ensure entire";

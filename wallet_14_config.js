@@ -1,1 +1,1 @@
-var mnemonic = "chest dove coast timber tribe mom cycle cram wasp denial eight amateur";
+var mnemonic = "supply ankle wife debate ankle earn film target ship laundry year cost";

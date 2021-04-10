@@ -1,1 +1,1 @@
-var mnemonic = "winter milk crew champion bridge vault slice source type harbor about decline";
+var mnemonic = "explain unaware intact face lonely satisfy bus meat derive warfare bid debate";

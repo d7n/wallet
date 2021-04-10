@@ -1,1 +1,1 @@
-var mnemonic = "force collect oven vendor empty jungle outer endorse submit victory filter winter";
+var mnemonic = "poverty host remember canal shallow glide health foil lake path behind scissors";

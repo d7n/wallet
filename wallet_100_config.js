@@ -1,1 +1,1 @@
-var mnemonic = "autumn episode lonely august rent worry depart bitter chronic machine undo bag";
+var mnemonic = "motion wreck balcony engine dynamic conduct slogan suffer under track maid proof";

@@ -1,1 +1,1 @@
-var mnemonic = "age garage toward student card file insect noise bean horn table strong";
+var mnemonic = "sunset rack limb access water assume collect salmon physical assume miracle cable";

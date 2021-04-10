@@ -1,1 +1,1 @@
-var mnemonic = "betray shuffle assist license interest weird drastic cactus ramp step erosion violin";
+var mnemonic = "energy enable solar nice suit middle west recycle innocent suggest artist injury";

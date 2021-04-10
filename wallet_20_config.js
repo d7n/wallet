@@ -1,1 +1,1 @@
-var mnemonic = "pulp flip oak eyebrow improve just rescue combine bitter clump humble marble";
+var mnemonic = "urge yard clown snack affair glimpse network fiber guitar enforce sense ship";

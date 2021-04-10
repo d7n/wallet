@@ -1,1 +1,1 @@
-var mnemonic = "under wave annual indicate perfect foster unusual ride judge lawn frozen cushion";
+var mnemonic = "hood need desert author wrong stairs radio exchange guilt embody situate own";

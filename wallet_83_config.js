@@ -1,1 +1,1 @@
-var mnemonic = "capital diamond glass fluid effort noodle hobby swim actual twice razor trash";
+var mnemonic = "obscure surprise moral acid flower near flight rescue patient bracket inside admit";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle juice illness jump spatial size crater oval leisure valley spell case";
+var mnemonic = "foot seek arrange range book nephew payment squeeze soft document scatter trip";

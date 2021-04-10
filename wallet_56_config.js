@@ -1,1 +1,1 @@
-var mnemonic = "reflect cloth twist camera bundle sheriff tongue foster busy share journey double";
+var mnemonic = "borrow extra love check margin notable lady waste another shy bulb tape";

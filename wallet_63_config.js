@@ -1,1 +1,1 @@
-var mnemonic = "boil crowd hurry turn domain melody strategy plug narrow reform olympic convince";
+var mnemonic = "usual pistol ugly party east adapt tip salt heart license reopen oak";

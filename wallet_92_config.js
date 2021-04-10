@@ -1,1 +1,1 @@
-var mnemonic = "kind salt symbol okay isolate desert domain vendor girl apology apart elite";
+var mnemonic = "friend notice track dirt slice picnic expand hire milk remind electric pause";

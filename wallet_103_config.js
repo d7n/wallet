@@ -1,1 +1,1 @@
-var mnemonic = "kitten love blossom prosper rain health educate fever kid slice service dirt";
+var mnemonic = "jazz nose gas escape frog glare actual grass melody next suggest arm";

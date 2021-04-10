@@ -1,1 +1,1 @@
-var mnemonic = "sniff open bleak length achieve comfort wet tackle diary taste live arctic";
+var mnemonic = "blood sock accuse club eagle tobacco carry office interest fly sadness labor";

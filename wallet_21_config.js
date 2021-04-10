@@ -1,1 +1,1 @@
-var mnemonic = "below moment tomorrow obscure govern jelly wasp eternal wrap deliver crime shoe";
+var mnemonic = "state matrix inflict hire cup trade alien sauce valley also gown juice";

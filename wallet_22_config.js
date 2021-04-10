@@ -1,1 +1,1 @@
-var mnemonic = "inherit wire alien mutual axis soap file tiny annual afford favorite stone";
+var mnemonic = "essay stem patch crew table oven cost midnight about word law deny";

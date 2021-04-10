@@ -1,1 +1,1 @@
-var mnemonic = "angry source twist suffer decide alter tribe april dentist cycle possible liberty";
+var mnemonic = "above wink clever behind rose expire moon page emotion ice guide reveal";

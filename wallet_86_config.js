@@ -1,1 +1,1 @@
-var mnemonic = "penalty vital creek turkey reflect harbor beef topic absent kitten prefer flush";
+var mnemonic = "wrestle foil abuse hazard uniform cushion ski person grass jar earth october";

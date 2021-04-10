@@ -1,1 +1,1 @@
-var mnemonic = "sound lunar avocado bundle diet miss inch sense friend dynamic act shock";
+var mnemonic = "horror submit beauty bundle noble river certain person puppy dice advance crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder survey glass skate acoustic put stove admit pyramid tiger observe tennis";
+var mnemonic = "hood journey hazard permit trade social index detect rare claw salad sword";

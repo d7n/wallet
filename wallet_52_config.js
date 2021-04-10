@@ -1,1 +1,1 @@
-var mnemonic = "gap erupt brain rice wood seven bleak surface execute trend spirit rookie";
+var mnemonic = "enact often goat gospel rug lucky crack man give improve dust wolf";

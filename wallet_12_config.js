@@ -1,1 +1,1 @@
-var mnemonic = "input consider arctic paper track doctor current canal start cancel recall unknown";
+var mnemonic = "use cube virus hungry mercy merge tired purity sing stumble rug fine";

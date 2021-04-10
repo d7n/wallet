@@ -1,1 +1,1 @@
-var mnemonic = "cage wire true crazy witness imitate unfold group cruise asset west panda";
+var mnemonic = "insane blur soup finish doctor month electric glove antenna quit guilt radio";

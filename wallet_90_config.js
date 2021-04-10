@@ -1,1 +1,1 @@
-var mnemonic = "elevator crime arrow flash main laugh bind net issue kitchen person fox";
+var mnemonic = "forum erase merit drama save whisper lion satisfy trash buffalo sun job";

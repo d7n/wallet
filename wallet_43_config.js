@@ -1,1 +1,1 @@
-var mnemonic = "cotton relief desk below truly modify idle reduce foam rural book essence";
+var mnemonic = "large unit electric romance chaos trash course advice jar tooth crop laptop";

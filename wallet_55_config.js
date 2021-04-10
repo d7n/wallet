@@ -1,1 +1,1 @@
-var mnemonic = "insane immune public drip grain round sleep forum jelly alpha gorilla oppose";
+var mnemonic = "winter hurry true jeans ski minimum stem prosper enable mimic dust party";

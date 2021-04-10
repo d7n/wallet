@@ -1,1 +1,1 @@
-var mnemonic = "october air hotel burst hundred receive hello nothing someone exit admit cluster";
+var mnemonic = "amazing luxury reduce congress marine acoustic render you danger matrix puppy excess";

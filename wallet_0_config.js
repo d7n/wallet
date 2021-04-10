@@ -1,1 +1,1 @@
-var mnemonic = "possible head pupil element smart enter hungry faculty flower cargo narrow panel";
+var mnemonic = "zebra power embrace dance scatter erupt food include high truck crumble infant";

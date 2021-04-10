@@ -1,1 +1,1 @@
-var mnemonic = "fat spider quick slogan desk special original action cry swamp travel spread";
+var mnemonic = "mass dragon avoid assault piano settle wet hotel unveil foster sample axis";
