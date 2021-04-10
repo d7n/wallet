@@ -1,1 +1,1 @@
-var mnemonic = "artist parent call pride grow buyer task total robust midnight fold pull";
+var mnemonic = "chief arctic school feed apart anchor people mesh want dumb jaguar spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth stock wait open giraffe mouse course insect ripple beach side accident";
+var mnemonic = "scene click town usual benefit empower bubble cargo hunt sand prosper crawl";

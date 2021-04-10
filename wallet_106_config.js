@@ -1,1 +1,1 @@
-var mnemonic = "yard plunge ugly tongue cupboard liberty fix enemy rocket drum distance chest";
+var mnemonic = "rice board knife cricket captain analyst this style upgrade bamboo kick casino";

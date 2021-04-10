@@ -1,1 +1,1 @@
-var mnemonic = "annual net soda witness manual couch lemon mass public act twice secret";
+var mnemonic = "derive pole remember upper shiver cheap upgrade record police photo chaos elite";

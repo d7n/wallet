@@ -1,1 +1,1 @@
-var mnemonic = "endless session empty clarify lemon neglect excess monitor sand live float merge";
+var mnemonic = "depend flash water butter defense few cherry sure security casino album section";

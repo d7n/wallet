@@ -1,1 +1,1 @@
-var mnemonic = "bread inject moon tree mango tennis tattoo distance sing candy exist leader";
+var mnemonic = "denial myself wisdom coyote prison already stove trouble nuclear rocket refuse pony";

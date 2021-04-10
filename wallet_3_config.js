@@ -1,1 +1,1 @@
-var mnemonic = "antique edge lake boring scare milk whip convince assume dash west talk";
+var mnemonic = "awkward anger parent depart escape roast ritual jungle twin animal gravity slab";

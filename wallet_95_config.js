@@ -1,1 +1,1 @@
-var mnemonic = "bench gather pair brisk cupboard audit amazing crumble apple brown rough sentence";
+var mnemonic = "vicious motion holiday marine cup memory demand used jungle inmate manage super";

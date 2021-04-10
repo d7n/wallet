@@ -1,1 +1,1 @@
-var mnemonic = "negative alone sample dad witness eager rebel camp puppy already orbit lazy";
+var mnemonic = "virtual expire awful action still total crater bulk uncover morning tank news";

@@ -1,1 +1,1 @@
-var mnemonic = "climb okay stone smoke whisper stamp require focus member mixture curtain tilt";
+var mnemonic = "nerve arrive angle firm boost occur round dial riot physical idle siege";

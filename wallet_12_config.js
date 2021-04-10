@@ -1,1 +1,1 @@
-var mnemonic = "choice draft lady drink indicate pony keep suit wolf relief badge flee";
+var mnemonic = "cool wage humble trade stage side disagree token mind assault travel grass";

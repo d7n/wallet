@@ -1,1 +1,1 @@
-var mnemonic = "creek drink unveil biology bus park grace safe nominee novel junior page";
+var mnemonic = "diagram elevator same green saddle rabbit million must affair label manage you";

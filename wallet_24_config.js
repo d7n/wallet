@@ -1,1 +1,1 @@
-var mnemonic = "receive kidney tackle tower coil slab near idle boil umbrella utility host";
+var mnemonic = "injury canyon trip purity dog peanut oblige admit clump first okay solar";

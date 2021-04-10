@@ -1,1 +1,1 @@
-var mnemonic = "dad bullet brain purchase spoon banner avocado lemon device aspect inform latin";
+var mnemonic = "gap luxury risk pen error joke school clown light chat improve gate";

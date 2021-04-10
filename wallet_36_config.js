@@ -1,1 +1,1 @@
-var mnemonic = "purchase athlete sniff fiber rocket favorite coconut struggle give muscle pioneer favorite";
+var mnemonic = "total below region bid slot craft adult change adult portion loyal apology";

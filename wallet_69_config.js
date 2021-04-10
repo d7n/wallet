@@ -1,1 +1,1 @@
-var mnemonic = "wealth cousin upper noodle chief predict pet physical teach jaguar tornado cloth";
+var mnemonic = "rich embody describe have dish addict strong hand turkey pottery disorder submit";

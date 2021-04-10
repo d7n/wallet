@@ -1,1 +1,1 @@
-var mnemonic = "dirt globe loud canvas draw make maple indoor space stadium offer celery";
+var mnemonic = "empower slow relief toss image hire dry deny fall taste umbrella all";

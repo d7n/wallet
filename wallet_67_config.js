@@ -1,1 +1,1 @@
-var mnemonic = "police ghost eternal deny melt lava color bird atom lesson public that";
+var mnemonic = "opera shaft online royal diesel crime fade antenna dad galaxy glory speed";

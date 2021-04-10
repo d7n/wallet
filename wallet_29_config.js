@@ -1,1 +1,1 @@
-var mnemonic = "bike warrior tonight episode ask swift truly omit runway budget correct market";
+var mnemonic = "grocery dinosaur almost kick science city banner success flock oyster jealous already";

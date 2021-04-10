@@ -1,1 +1,1 @@
-var mnemonic = "kid surge brain march journey siege hub gravity derive bean tunnel kingdom";
+var mnemonic = "hungry wave girl check enact move focus segment dinner desk impose mountain";

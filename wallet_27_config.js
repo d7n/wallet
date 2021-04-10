@@ -1,1 +1,1 @@
-var mnemonic = "hero slot alarm audit damp close bench genre bid admit axis final";
+var mnemonic = "cheap mutual addict actress stairs outer garage they labor copy orient load";

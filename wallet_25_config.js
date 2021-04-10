@@ -1,1 +1,1 @@
-var mnemonic = "rigid wrap reopen law boring reflect trigger case poverty raise swamp addict";
+var mnemonic = "social bronze elevator easy almost second private frown inside feel thank begin";

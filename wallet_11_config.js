@@ -1,1 +1,1 @@
-var mnemonic = "tent cruel congress glimpse worth miss dutch build bullet observe trial other";
+var mnemonic = "name demise spike case foam decorate tragic upset found fun camera timber";

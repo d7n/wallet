@@ -1,1 +1,1 @@
-var mnemonic = "wheat undo diagram love tell accuse wire demand dirt solar various false";
+var mnemonic = "ramp ivory novel purity taste color program lift excite usual siege scatter";

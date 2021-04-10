@@ -1,1 +1,1 @@
-var mnemonic = "tiger plug achieve brass smooth salad merge riot chat safe hurt keep";
+var mnemonic = "art donkey ankle afford latin example actor permit cart eight donor harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "woman diamond consider drive citizen moment awful goddess document intact repeat joke";
+var mnemonic = "mother sleep peanut mouse horn zoo all chimney surround child quick stone";

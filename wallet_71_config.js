@@ -1,1 +1,1 @@
-var mnemonic = "step catalog remain effort nose burger inhale skill oyster dinosaur employ jewel";
+var mnemonic = "middle chair review bird bulk basic lonely cancel result recipe trumpet horror";

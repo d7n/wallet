@@ -1,1 +1,1 @@
-var mnemonic = "make despair soft vicious spider girl unfair tragic ladder sound trust ghost";
+var mnemonic = "jungle today electric alarm release ripple decorate talent fabric athlete feel dune";

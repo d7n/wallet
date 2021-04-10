@@ -1,1 +1,1 @@
-var mnemonic = "envelope across eight leg rule boost slush wing shoulder health alien window";
+var mnemonic = "lyrics knee puppy wave nation bring amount place meadow rubber weekend shine";

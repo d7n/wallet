@@ -1,1 +1,1 @@
-var mnemonic = "aspect unlock safe poet motion naive tag fatigue good pet rhythm caution";
+var mnemonic = "promote beyond alert dove grid clog slender rubber cook wool force merge";

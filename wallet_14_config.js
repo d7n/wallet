@@ -1,1 +1,1 @@
-var mnemonic = "matter field write liberty nephew fork sort frozen repair ankle market barrel";
+var mnemonic = "canal recycle goose cement sun cream wave movie evil face funny run";

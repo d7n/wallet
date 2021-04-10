@@ -1,1 +1,1 @@
-var mnemonic = "frown volume ensure device often crumble saddle armor year square critic vault";
+var mnemonic = "blast wrong future world pond caution logic cram void behave pioneer assault";

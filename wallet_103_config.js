@@ -1,1 +1,1 @@
-var mnemonic = "sun pride proof loop ozone admit just joy salt habit height source";
+var mnemonic = "industry cool cluster proud pattern cannon vicious legend consider remain wool poet";

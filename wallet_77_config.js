@@ -1,1 +1,1 @@
-var mnemonic = "select picture echo lottery light frequent margin camp health giggle ordinary glad";
+var mnemonic = "window hello guess infant miracle bulk spice armed nice candy come feed";

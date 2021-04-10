@@ -1,1 +1,1 @@
-var mnemonic = "firm mimic inner advance cheese short ice pond install tackle agent else";
+var mnemonic = "coconut install okay cargo fetch sound catalog merit border film denial mesh";

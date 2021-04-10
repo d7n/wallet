@@ -1,1 +1,1 @@
-var mnemonic = "april all carry bottom awesome today symptom notable thank increase north purity";
+var mnemonic = "bubble early spoil manual genius drill source teach crop miss course cost";

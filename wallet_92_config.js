@@ -1,1 +1,1 @@
-var mnemonic = "misery loyal tomorrow object twelve lunch able sell sweet panda barrel fringe";
+var mnemonic = "announce rare above tell arena garment void inform usage debate ordinary blast";

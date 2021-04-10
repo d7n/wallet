@@ -1,1 +1,1 @@
-var mnemonic = "drive tortoise debris junior gift dial trash wreck fancy permit can gallery";
+var mnemonic = "begin champion gather number glove impact rebel parent wrap solution awkward renew";

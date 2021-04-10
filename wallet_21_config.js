@@ -1,1 +1,1 @@
-var mnemonic = "where develop mercy nominee symbol result original excess west dumb slender train";
+var mnemonic = "random metal chalk urge uncle shift kind midnight roof book brand language";

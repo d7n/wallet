@@ -1,1 +1,1 @@
-var mnemonic = "invite emerge empower celery cloud angle virus road whale flavor museum keep";
+var mnemonic = "floor satoshi draft couch twice call summer park chair describe hawk rally";

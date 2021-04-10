@@ -1,1 +1,1 @@
-var mnemonic = "bronze crucial trim wisdom evoke letter fine put distance only ethics canvas";
+var mnemonic = "train tip truth awful goat push fun income industry attend hawk winter";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito warrior laugh topple great bench nurse april recycle kite general fancy";
+var mnemonic = "same lucky harsh primary rain gas hard hurt misery thumb idea reward";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck insect wet eyebrow edit hollow tuition text nominee vast adapt quality";
+var mnemonic = "venture match mix sheriff seat hungry process crisp alley spatial boy toe";

@@ -1,1 +1,1 @@
-var mnemonic = "custom chalk sniff nephew song surprise episode shrimp promote jar thunder dragon";
+var mnemonic = "traffic topic pilot prosper north tiny position similar tissue window ozone menu";

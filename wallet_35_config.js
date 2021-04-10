@@ -1,1 +1,1 @@
-var mnemonic = "express romance crush push wear loop all palm chuckle pencil exact actual";
+var mnemonic = "winner cause candy profit average dragon visual escape battle guilt danger style";

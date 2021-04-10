@@ -1,1 +1,1 @@
-var mnemonic = "amount auction blush zoo rich unable only evoke illegal language erosion enforce";
+var mnemonic = "stand multiply nut engage display nasty camp dilemma box bird board stool";

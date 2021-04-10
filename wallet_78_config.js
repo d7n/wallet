@@ -1,1 +1,1 @@
-var mnemonic = "ketchup horn rent rough argue sweet exotic dose record seminar body palm";
+var mnemonic = "cover huge reunion vault moon naive away payment tired thunder cash young";

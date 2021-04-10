@@ -1,1 +1,1 @@
-var mnemonic = "drip stairs leisure cat fall cruel collect gesture champion license gap favorite";
+var mnemonic = "burden fever visa else ticket pizza paper ticket range expect foam area";

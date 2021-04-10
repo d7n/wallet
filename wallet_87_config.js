@@ -1,1 +1,1 @@
-var mnemonic = "order hello ancient salmon position drip delay cost smart black liar negative";
+var mnemonic = "name define turn inquiry demise unable bread uncle until glare decide awkward";

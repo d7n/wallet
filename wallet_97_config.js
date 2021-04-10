@@ -1,1 +1,1 @@
-var mnemonic = "camera disorder flee dust student wrap know manage lobster grain matrix sustain";
+var mnemonic = "february canyon absorb say online oval arrive knock route dolphin sibling click";

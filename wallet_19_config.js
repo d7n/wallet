@@ -1,1 +1,1 @@
-var mnemonic = "duty taste hello essay journey galaxy bulb replace sample alert mandate best";
+var mnemonic = "afraid crime myth exhibit dinosaur betray end wait mixture cost question silk";

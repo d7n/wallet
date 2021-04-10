@@ -1,1 +1,1 @@
-var mnemonic = "height print boring wood answer develop neck milk foam diary valve protect";
+var mnemonic = "title guard cake addict enable patient disorder such vague casino wing risk";

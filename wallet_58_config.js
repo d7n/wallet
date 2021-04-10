@@ -1,1 +1,1 @@
-var mnemonic = "kite rhythm subway ranch suit slab inside spirit blush sibling domain scan";
+var mnemonic = "wink asthma trigger insane tattoo mushroom hello rough drip sight indicate walk";

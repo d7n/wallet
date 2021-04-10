@@ -1,1 +1,1 @@
-var mnemonic = "capital frame actor pause miss pen fury mystery tail solution someone category";
+var mnemonic = "wise alley gentle pass truck slim valid run insect all electric century";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat crumble wife want inquiry lawn assume alien august bean boost open";
+var mnemonic = "quarter lunar master foot this apology exchange brush purchase match remove load";

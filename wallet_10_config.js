@@ -1,1 +1,1 @@
-var mnemonic = "average obtain glimpse nurse home chalk mimic december purity run scare army";
+var mnemonic = "degree season chuckle hair six clock push discover history kidney cricket journey";

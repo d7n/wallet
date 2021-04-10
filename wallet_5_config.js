@@ -1,1 +1,1 @@
-var mnemonic = "educate volcano convince wash amused sand inform target either shadow duck diesel";
+var mnemonic = "pigeon embody street joy three advice accident resemble deputy this innocent security";

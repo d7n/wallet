@@ -1,1 +1,1 @@
-var mnemonic = "glass flag side seven engine team omit series random only brave atom";
+var mnemonic = "palm matter pitch table extend bitter cart sock invite universe slow anxiety";

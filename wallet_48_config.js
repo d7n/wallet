@@ -1,1 +1,1 @@
-var mnemonic = "ankle odor damp have glow alley exist below tissue account blame special";
+var mnemonic = "legend long hungry card wagon movie abstract betray eight book canal winner";

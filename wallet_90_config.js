@@ -1,1 +1,1 @@
-var mnemonic = "nominee domain inject oven immune secret credit cake clinic total lady chest";
+var mnemonic = "infant spread rain gather brass tape sleep river flight valid trial alien";

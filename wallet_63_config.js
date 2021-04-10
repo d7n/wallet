@@ -1,1 +1,1 @@
-var mnemonic = "solve scrap amazing window soda virus about devote harbor bag better sight";
+var mnemonic = "pattern nominee airport library deer simple option sheriff across physical wear vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly normal fabric come gun casino depth weasel fury shop frown bacon";
+var mnemonic = "heavy salon oval stamp note rate defy maze daring present amateur arrange";

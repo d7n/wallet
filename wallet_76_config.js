@@ -1,1 +1,1 @@
-var mnemonic = "aim super leisure evidence twin forest cart walk occur select blame kick";
+var mnemonic = "select chicken blind chat fetch once law hunt hedgehog toe cute carpet";

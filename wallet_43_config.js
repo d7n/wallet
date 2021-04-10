@@ -1,1 +1,1 @@
-var mnemonic = "dynamic lens reject ski verify fitness almost cake job beauty lawsuit range";
+var mnemonic = "traffic cotton family oblige boil brief chef laugh wedding bubble wear brick";

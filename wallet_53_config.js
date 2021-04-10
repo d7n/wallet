@@ -1,1 +1,1 @@
-var mnemonic = "round spring village lumber unknown cotton month twist differ toast test stable";
+var mnemonic = "then raven monitor conduct culture will pony document find general turn parrot";

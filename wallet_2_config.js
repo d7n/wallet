@@ -1,1 +1,1 @@
-var mnemonic = "myself deputy gym stuff lesson only inherit divert divide exercise jewel foster";
+var mnemonic = "point width system august crash raven swamp spice weird buyer shoe marine";

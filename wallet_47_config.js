@@ -1,1 +1,1 @@
-var mnemonic = "warfare barrel cheap square river general fantasy goose shine payment alley sight";
+var mnemonic = "pony puzzle across ask virtual steak remind buzz basket world print october";

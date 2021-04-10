@@ -1,1 +1,1 @@
-var mnemonic = "episode vague prosper garlic moment tomato canoe light icon steel today focus";
+var mnemonic = "wink believe fossil year key swamp wreck neglect note wrestle better opinion";

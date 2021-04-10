@@ -1,1 +1,1 @@
-var mnemonic = "asthma produce trigger empower kitchen distance horse expose match visit image material";
+var mnemonic = "disagree dish enough twenty toilet annual mercy regular connect lesson diary attitude";

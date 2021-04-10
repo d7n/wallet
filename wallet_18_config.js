@@ -1,1 +1,1 @@
-var mnemonic = "whip oyster film riot bonus crush vacant panic require upset goddess tobacco";
+var mnemonic = "cupboard observe rebuild side copy frost spend copy horn pulp answer eye";

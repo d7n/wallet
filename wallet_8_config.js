@@ -1,1 +1,1 @@
-var mnemonic = "pepper gallery awesome predict sand aware elegant wait stool shell always vocal";
+var mnemonic = "again canyon drama enough funny quiz rebel say knock general young frost";

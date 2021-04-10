@@ -1,1 +1,1 @@
-var mnemonic = "invest base away mom between record bottom fashion shed test dutch garment";
+var mnemonic = "join brass salad hint animal today there blade cruel height goddess wave";

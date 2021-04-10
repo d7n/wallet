@@ -1,1 +1,1 @@
-var mnemonic = "trip define upset cool accuse switch vendor staff acid turkey achieve multiply";
+var mnemonic = "hire beach tuna credit owner liberty trigger robot switch rate trouble spray";

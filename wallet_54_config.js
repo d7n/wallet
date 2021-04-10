@@ -1,1 +1,1 @@
-var mnemonic = "female shine amazing bamboo goose axis eternal master maximum symptom unfair stool";
+var mnemonic = "abuse bean mushroom main cash plunge penalty surprise pilot tired era cinnamon";

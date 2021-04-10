@@ -1,1 +1,1 @@
-var mnemonic = "antenna result this clever consider world twelve chicken innocent roast enact effort";
+var mnemonic = "field hawk team remain gap profit vault neck save erase unique weapon";

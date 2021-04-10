@@ -1,1 +1,1 @@
-var mnemonic = "address sell naive maid fabric black hawk jeans spy ridge detect diamond";
+var mnemonic = "certain extend festival economy horn acoustic must lumber business relief panda resemble";

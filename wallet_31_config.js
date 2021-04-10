@@ -1,1 +1,1 @@
-var mnemonic = "essence base limb slight leopard puppy become blood ship exchange stool snake";
+var mnemonic = "police clay begin federal baby inspire property place spend assault hedgehog mosquito";

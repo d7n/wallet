@@ -1,1 +1,1 @@
-var mnemonic = "federal hire goat elbow bird riot valve version poem lunch cargo disagree";
+var mnemonic = "program volcano hamster dynamic radio desk try trade bleak right pulp era";

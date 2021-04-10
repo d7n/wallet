@@ -1,1 +1,1 @@
-var mnemonic = "danger agree brand fitness joy inside attend decide copy bullet bread hole";
+var mnemonic = "illness dance pact shiver pill huge volume will roof thing ridge barrel";

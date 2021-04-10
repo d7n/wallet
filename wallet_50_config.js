@@ -1,1 +1,1 @@
-var mnemonic = "idle shell mutual extend lend slot just basket water bundle hover head";
+var mnemonic = "pepper series camera unlock mountain intact manage employ peanut grunt follow drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna six custom brush wait canyon good play fork business witness apology";
+var mnemonic = "alone stadium boss build erode noise pool stem crawl can come echo";

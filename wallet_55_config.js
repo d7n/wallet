@@ -1,1 +1,1 @@
-var mnemonic = "smooth since discover vintage hire stairs actor tiny vote resource chuckle cereal";
+var mnemonic = "whisper pulp myself help acoustic tell repeat expand host head tunnel cannon";

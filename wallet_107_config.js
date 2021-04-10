@@ -1,1 +1,1 @@
-var mnemonic = "robot power list toward spoon shadow curtain umbrella impact evil outside pledge";
+var mnemonic = "left fix tank cash company position vibrant pole detect crazy basket smoke";

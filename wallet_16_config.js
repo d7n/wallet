@@ -1,1 +1,1 @@
-var mnemonic = "acquire sugar reason soda crunch choice actual sunny truck sea asset shove";
+var mnemonic = "list direct brisk wedding power vote maid over cheap april bomb bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee century airport rival major diesel modify install found dance lamp clip";
+var mnemonic = "trouble sauce impose cause pupil shuffle prize flush imitate sauce autumn trade";

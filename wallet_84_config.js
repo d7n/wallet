@@ -1,1 +1,1 @@
-var mnemonic = "tennis another riot fire sweet comfort brief play brief decide tourist skirt";
+var mnemonic = "recipe comfort antique shrug include priority midnight oak eternal female admit peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness guilt glance armor sleep defense possible ugly frozen enforce design mosquito";
+var mnemonic = "river caught term finger mix wave squeeze urban silk sniff license loan";
