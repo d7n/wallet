@@ -1,1 +1,1 @@
-var mnemonic = "letter key capital suggest leopard maple attend blade vast ordinary helmet sight";
+var mnemonic = "aspect fold visit suspect example lonely judge innocent pelican have blade twelve";

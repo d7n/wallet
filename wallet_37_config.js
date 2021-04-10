@@ -1,1 +1,1 @@
-var mnemonic = "speed profit asset coin festival destroy result ugly lizard unaware science nest";
+var mnemonic = "bike duck early warm february behind vibrant squirrel cricket sea agree mandate";

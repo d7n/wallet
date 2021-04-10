@@ -1,1 +1,1 @@
-var mnemonic = "cluster regret phone tonight alarm junk draw payment valley average ritual profit";
+var mnemonic = "violin neglect leopard dose exit harvest document innocent vital ignore minute man";

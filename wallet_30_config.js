@@ -1,1 +1,1 @@
-var mnemonic = "month direct bus odor dinosaur coil maze industry upper output theme tube";
+var mnemonic = "bean property elephant unfair anchor depend bless crowd weather ancient resist loop";

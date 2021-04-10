@@ -1,1 +1,1 @@
-var mnemonic = "scorpion gown author tooth guard discover ginger shock bullet news ritual maid";
+var mnemonic = "island balcony lawn garden potato moon draft yard major ketchup cradle manual";

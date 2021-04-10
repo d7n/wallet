@@ -1,1 +1,1 @@
-var mnemonic = "fun horse portion oxygen heart buddy laugh mobile peace bind electric marble";
+var mnemonic = "maple jazz bike fury voyage under twelve toss guilt borrow border around";

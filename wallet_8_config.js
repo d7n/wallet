@@ -1,1 +1,1 @@
-var mnemonic = "net clip pigeon fatigue pair merit gauge brush bench apart theme shell";
+var mnemonic = "jewel slab opinion trophy brown guess indoor february caught bleak horn skill";

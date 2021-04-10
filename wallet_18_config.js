@@ -1,1 +1,1 @@
-var mnemonic = "rate rubber pave claw surround verb anchor crane miracle gas fever snap";
+var mnemonic = "cliff announce barely profit wedding warm parade level aim similar harbor ability";

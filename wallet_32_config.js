@@ -1,1 +1,1 @@
-var mnemonic = "column pencil invest reduce social cancel post attitude either rebuild gift swallow";
+var mnemonic = "group brass veteran attitude lock grab man badge canal ice host mix";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney dash board gate stumble finger muffin tuition element term donkey crisp";
+var mnemonic = "token shy adult friend become faith verify paddle sausage biology kitchen gas";

@@ -1,1 +1,1 @@
-var mnemonic = "sound expand piece again trial twice snack usual umbrella express gauge base";
+var mnemonic = "merge outdoor text traffic october work furnace rich coffee piece luxury grab";

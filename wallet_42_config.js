@@ -1,1 +1,1 @@
-var mnemonic = "volcano tomato own gown fitness rigid verb curtain tongue label lens trial";
+var mnemonic = "spray shy turtle oak web allow congress pepper forest around vague monkey";

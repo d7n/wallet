@@ -1,1 +1,1 @@
-var mnemonic = "dismiss come cable club pull pull civil bone eager flock innocent bleak";
+var mnemonic = "suffer mountain ecology shed mutual risk peace cigar source bunker cute agent";

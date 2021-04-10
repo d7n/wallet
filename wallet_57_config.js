@@ -1,1 +1,1 @@
-var mnemonic = "awkward spawn later myth calm repeat insect own horror panda cliff mask";
+var mnemonic = "often trial office such hair glory add exist pudding push charge base";

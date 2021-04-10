@@ -1,1 +1,1 @@
-var mnemonic = "profit force coast memory giggle gallery cross desk cattle gasp ghost vendor";
+var mnemonic = "input day stove search sense alert school course share tomato open timber";

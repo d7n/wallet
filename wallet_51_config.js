@@ -1,1 +1,1 @@
-var mnemonic = "guard siren word picture journey consider color lab measure tourist transfer rate";
+var mnemonic = "disease property regret few dragon replace silk parent cost grid betray blind";

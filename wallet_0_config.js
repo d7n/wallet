@@ -1,1 +1,1 @@
-var mnemonic = "silly patrol royal slam artist over hazard guard nothing spend genius garlic";
+var mnemonic = "three useless shiver bottom teach filter amount bone parrot typical gentle glance";

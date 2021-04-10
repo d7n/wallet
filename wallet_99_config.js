@@ -1,1 +1,1 @@
-var mnemonic = "roof illegal steel inmate attend chaos arrest umbrella make gaze replace dog";
+var mnemonic = "endorse clay soccer observe trash divert leaf warfare animal mountain ivory hello";

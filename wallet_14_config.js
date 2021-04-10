@@ -1,1 +1,1 @@
-var mnemonic = "drama gospel practice dash leisure fault bubble distance company action anchor educate";
+var mnemonic = "later that year labor coffee expect trash spy typical arrest there boost";

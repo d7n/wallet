@@ -1,1 +1,1 @@
-var mnemonic = "pulp kid symptom side breeze menu track banner renew script country gas";
+var mnemonic = "arrow bitter cause whisper law alien never behave divorce cat tone bamboo";

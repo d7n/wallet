@@ -1,1 +1,1 @@
-var mnemonic = "apple amateur gallery abstract bitter east option dove wagon apple romance client";
+var mnemonic = "dragon beyond hidden exist craft road boat sketch chat universe wire battle";

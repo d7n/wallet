@@ -1,1 +1,1 @@
-var mnemonic = "empty useful question pipe gap smile dose neutral luggage sail candy reward";
+var mnemonic = "coast eager chronic run exile rack square seven dignity enforce ozone club";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior adapt entry wrap symptom mushroom helmet security violin mention better quality";
+var mnemonic = "fee arrest section pass clump security hobby equal envelope fix sure virtual";

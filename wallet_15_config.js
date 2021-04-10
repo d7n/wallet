@@ -1,1 +1,1 @@
-var mnemonic = "divorce winter chest law cushion square pet deputy top face math rent";
+var mnemonic = "truth foam venue ask coffee smart tell number script embrace deputy balcony";

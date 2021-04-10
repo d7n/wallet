@@ -1,1 +1,1 @@
-var mnemonic = "change control top vacant trim panther grain sell flight math ecology ahead";
+var mnemonic = "degree address sea borrow equal antique actual giant dice tiger combine leopard";

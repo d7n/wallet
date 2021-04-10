@@ -1,1 +1,1 @@
-var mnemonic = "leave enhance uniform unveil spray access round album team creek soap three";
+var mnemonic = "vacuum wonder mesh resource engage credit stomach blur license grass grace dismiss";

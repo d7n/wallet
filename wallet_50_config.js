@@ -1,1 +1,1 @@
-var mnemonic = "cruel arena tiger soon exist midnight canal hammer art gap pill actress";
+var mnemonic = "chuckle fragile perfect blush gold shell civil lesson layer learn walk pool";

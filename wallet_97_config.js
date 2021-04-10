@@ -1,1 +1,1 @@
-var mnemonic = "limb section cousin grunt alter spare useful author wave busy hotel wheat";
+var mnemonic = "annual tuna snack sleep rookie year bounce sniff era vacant excite moment";

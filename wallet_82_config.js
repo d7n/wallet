@@ -1,1 +1,1 @@
-var mnemonic = "expand thought eagle screen city more slush ribbon advance road delay zone";
+var mnemonic = "popular rug boring pipe glory expand stool order bubble winner member remind";

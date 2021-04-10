@@ -1,1 +1,1 @@
-var mnemonic = "wet soap galaxy vanish shell odor lunar found seek near public cabin";
+var mnemonic = "vanish barely flee wash announce theme champion certain obvious blush click light";

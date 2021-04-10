@@ -1,1 +1,1 @@
-var mnemonic = "metal embody mule borrow chicken scorpion life pole dose under cigar oblige";
+var mnemonic = "strong kidney giant unusual ketchup one strategy raw various liquid cute close";

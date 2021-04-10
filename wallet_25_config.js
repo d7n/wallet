@@ -1,1 +1,1 @@
-var mnemonic = "reward surface notable surprise raccoon equal day utility unhappy finish sweet style";
+var mnemonic = "legend hen glance adult system vessel pen print bottom inside priority edit";

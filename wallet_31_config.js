@@ -1,1 +1,1 @@
-var mnemonic = "whisper seven process harbor cost keen transfer property visa hollow matrix run";
+var mnemonic = "absorb area unknown brown crane normal lesson grief scatter loan recipe cigar";

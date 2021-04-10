@@ -1,1 +1,1 @@
-var mnemonic = "churn stable cash praise extend mother child since print guess color spirit";
+var mnemonic = "keen tuition gossip meadow paddle edit early brave fox coconut horror supply";

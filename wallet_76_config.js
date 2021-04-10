@@ -1,1 +1,1 @@
-var mnemonic = "copy current hotel steel pelican very wide robust arctic define filter access";
+var mnemonic = "spell repeat spirit enroll when lesson height box swear light arrive equip";

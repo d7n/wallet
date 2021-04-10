@@ -1,1 +1,1 @@
-var mnemonic = "skull legend protect scale among misery input symptom program okay hedgehog speed";
+var mnemonic = "mask stairs quality project emotion salt magic nephew pepper nominee gadget gloom";

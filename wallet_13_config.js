@@ -1,1 +1,1 @@
-var mnemonic = "jazz mail agent remove orphan abstract home wine fragile wrong scan trim";
+var mnemonic = "upper hobby fancy ripple mixture boost search swamp capital story monkey process";

@@ -1,1 +1,1 @@
-var mnemonic = "wish moment fruit use anger inner oak zone used scorpion guess gate";
+var mnemonic = "spirit state dignity powder lunch embody cry hollow engage stay demand sword";

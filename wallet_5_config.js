@@ -1,1 +1,1 @@
-var mnemonic = "hover sniff brand permit program this motor cherry keep excuse catch question";
+var mnemonic = "brass spray dinner year half excite rookie lobster limb grocery observe crunch";

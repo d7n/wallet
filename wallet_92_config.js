@@ -1,1 +1,1 @@
-var mnemonic = "learn globe shift merge easy excite brain sense plastic insect put news";
+var mnemonic = "view rescue sand pool wine frequent twice inject field demand rally cricket";

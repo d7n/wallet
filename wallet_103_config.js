@@ -1,1 +1,1 @@
-var mnemonic = "forest identify sort pelican lunch frog element rebel shove item clay faculty";
+var mnemonic = "spike poet world business portion pact glow cigar tiny undo gown swing";

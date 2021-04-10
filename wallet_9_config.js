@@ -1,1 +1,1 @@
-var mnemonic = "tongue rely hotel almost ankle alcohol draft rule aisle wasp chase exercise";
+var mnemonic = "bacon dial decade wrestle boss inform hospital dwarf minute hand wolf liar";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse grain kit vessel hood lawsuit country base large business pistol wrap";
+var mnemonic = "reveal pride buyer punch gloom trigger service cluster renew taxi alpha picture";

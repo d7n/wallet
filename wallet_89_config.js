@@ -1,1 +1,1 @@
-var mnemonic = "shell trap naive man wife cluster model space glance enough sample silly";
+var mnemonic = "dilemma width kiwi lumber resource gather veteran uncover ecology shock suit palace";

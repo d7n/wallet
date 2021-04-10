@@ -1,1 +1,1 @@
-var mnemonic = "mango sauce end clever begin sunset business release glass defy cycle hurt";
+var mnemonic = "help lounge unfold mention marble immense obtain stuff blur grace garage kitten";

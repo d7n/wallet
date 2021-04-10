@@ -1,1 +1,1 @@
-var mnemonic = "wolf limit spread anchor sugar wheel ketchup year mask dolphin lumber ivory";
+var mnemonic = "area upper weird stove match few foot civil avoid swarm liquid coast";

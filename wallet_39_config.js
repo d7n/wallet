@@ -1,1 +1,1 @@
-var mnemonic = "weapon proud attend rally increase tag reason fatigue fold people antenna dumb";
+var mnemonic = "order maid burden flag invite canal nation mansion trash bleak aisle front";

@@ -1,1 +1,1 @@
-var mnemonic = "sing evidence razor leisure cheese delay fire certain pact shed humble ticket";
+var mnemonic = "craft awkward spawn muscle stage mesh ridge erosion media weird wear learn";

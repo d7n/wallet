@@ -1,1 +1,1 @@
-var mnemonic = "patch cattle fresh sun bitter weird onion throw public insane already flavor";
+var mnemonic = "dragon oppose exhaust diamond soup warrior badge gravity thunder improve fiscal habit";

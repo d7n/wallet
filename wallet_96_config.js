@@ -1,1 +1,1 @@
-var mnemonic = "alone involve onion man across sunny blossom visual police scatter arrow offer";
+var mnemonic = "employ push report major unable argue because amused title when great disorder";

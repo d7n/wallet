@@ -1,1 +1,1 @@
-var mnemonic = "carry shrimp effort tail weather reveal venture rack mean output empty stick";
+var mnemonic = "bargain panda fall check afford wood front abandon insane pulp outside nature";

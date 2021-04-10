@@ -1,1 +1,1 @@
-var mnemonic = "merge icon duck scout budget panic rebuild shield smile fortune foil cabbage";
+var mnemonic = "border drift someone pole age reveal village yellow uncover denial frequent twin";

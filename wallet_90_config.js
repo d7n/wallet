@@ -1,1 +1,1 @@
-var mnemonic = "orbit moral crack token pipe reform vocal hole crazy test human circle";
+var mnemonic = "quick entry royal dolphin high spoil broken human make any fatal market";

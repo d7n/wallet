@@ -1,1 +1,1 @@
-var mnemonic = "gadget alley hungry until infant stay inner panic planet leisure master fortune";
+var mnemonic = "sister champion mechanic giant invest thumb sense twice sick beach suffer husband";

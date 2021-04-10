@@ -1,1 +1,1 @@
-var mnemonic = "brief source chicken trouble response source garage jealous brain slow office galaxy";
+var mnemonic = "unknown dolphin appear guilt custom critic buddy harsh bind drama pattern earth";

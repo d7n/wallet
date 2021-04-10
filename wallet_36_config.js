@@ -1,1 +1,1 @@
-var mnemonic = "nest jump push author casino sword credit select worry fan bulk trick";
+var mnemonic = "dignity donkey forest napkin delay assault economy tiny loud nothing latin unfair";

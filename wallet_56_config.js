@@ -1,1 +1,1 @@
-var mnemonic = "social wolf law blouse loud century miss copper hello calm vote burger";
+var mnemonic = "fly forest act monster deal wasp search midnight shoot design switch reform";

@@ -1,1 +1,1 @@
-var mnemonic = "horn elegant measure fluid shaft crawl alarm thank trick acid blur over";
+var mnemonic = "mobile bring blue explain tunnel kick distance piano notice cotton novel day";

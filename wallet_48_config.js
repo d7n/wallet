@@ -1,1 +1,1 @@
-var mnemonic = "sea seat update window above sick hover bread unfold pair drop rude";
+var mnemonic = "return safe plate various miss master between eternal athlete grit finger domain";

@@ -1,1 +1,1 @@
-var mnemonic = "insect when deputy endless trap gym eye credit corn trial beef need";
+var mnemonic = "craft erupt topic return poverty angry such quantum inner video federal correct";

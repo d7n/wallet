@@ -1,1 +1,1 @@
-var mnemonic = "music cost ozone rib brick cinnamon comfort borrow cereal common someone age";
+var mnemonic = "between domain build into favorite jungle spider clog romance mask today fiction";

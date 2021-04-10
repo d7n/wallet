@@ -1,1 +1,1 @@
-var mnemonic = "ability viable betray similar lucky ahead tourist farm satoshi coil match know";
+var mnemonic = "tomato aim rally shuffle jacket cushion outside nuclear athlete pet chimney idea";

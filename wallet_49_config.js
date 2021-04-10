@@ -1,1 +1,1 @@
-var mnemonic = "rebel nasty pilot garlic glide abandon various dilemma quality dress visual void";
+var mnemonic = "banana radio wisdom tray clutch life boat exit clutch spring lamp swarm";

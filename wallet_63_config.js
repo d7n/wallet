@@ -1,1 +1,1 @@
-var mnemonic = "remember solve magnet proud shove romance fatigue valve derive hawk speak sustain";
+var mnemonic = "vote mesh priority elevator crucial grow used faculty oak current thumb trap";

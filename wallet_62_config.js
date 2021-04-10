@@ -1,1 +1,1 @@
-var mnemonic = "grass bulk rule excuse pink become share way poet drip denial yellow";
+var mnemonic = "cloth grape come episode page aerobic awkward wrestle transfer faculty base pulse";

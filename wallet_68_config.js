@@ -1,1 +1,1 @@
-var mnemonic = "antenna initial cactus address someone student rose favorite empty universe buzz scene";
+var mnemonic = "baby debris equip music ivory later left whale clarify coyote border other";

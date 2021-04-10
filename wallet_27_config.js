@@ -1,1 +1,1 @@
-var mnemonic = "network youth ask response again disorder ridge eager clarify once video prefer";
+var mnemonic = "lens feel universe novel wrong mango usual flame tank people grow happy";

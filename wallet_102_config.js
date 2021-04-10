@@ -1,1 +1,1 @@
-var mnemonic = "coast must joy tent oak cat index dutch element enter twenty cost";
+var mnemonic = "million guitar eagle shine dawn render trend artist boost enrich inflict swear";

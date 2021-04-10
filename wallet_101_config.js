@@ -1,1 +1,1 @@
-var mnemonic = "owner riot cliff keen weasel child spin copper same moment one frozen";
+var mnemonic = "claw essay chef soccer spoon code stumble sorry shield disorder agree lazy";

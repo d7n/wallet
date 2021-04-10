@@ -1,1 +1,1 @@
-var mnemonic = "rapid estate entry meat bacon truck rally match quarter damp host quarter";
+var mnemonic = "frequent pupil copper lock initial walk cream beach sock narrow wage impulse";

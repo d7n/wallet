@@ -1,1 +1,1 @@
-var mnemonic = "sad dance crawl crane vehicle tobacco upset tongue save kit deer erase";
+var mnemonic = "spare outer segment shield believe slight burden earth earth roof rug project";

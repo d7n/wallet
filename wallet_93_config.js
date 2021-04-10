@@ -1,1 +1,1 @@
-var mnemonic = "connect reflect wrist tone hidden science heart reopen fetch armor virtual convince";
+var mnemonic = "sniff amused green wing visit head card tip earn six drama ivory";

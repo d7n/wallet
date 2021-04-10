@@ -1,1 +1,1 @@
-var mnemonic = "jazz icon book stadium myth drive giggle hair solution affair square bronze";
+var mnemonic = "thing always weird please wrist there ridge blame farm guard weird oval";

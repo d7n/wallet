@@ -1,1 +1,1 @@
-var mnemonic = "december receive fiction taxi story bless grape cannon ketchup deal connect project";
+var mnemonic = "soap cattle unit noble split beauty husband echo gasp soldier enlist portion";

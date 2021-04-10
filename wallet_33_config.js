@@ -1,1 +1,1 @@
-var mnemonic = "nerve absent rib useful hover street skull cabbage shoot host amount toe";
+var mnemonic = "oven skate buddy reunion math ten dress above quote share pole outdoor";

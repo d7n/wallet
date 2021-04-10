@@ -1,1 +1,1 @@
-var mnemonic = "slim foot budget walk eight purchase female inhale member conduct secret open";
+var mnemonic = "clay member provide salt cement young aunt favorite decide keep cash woman";

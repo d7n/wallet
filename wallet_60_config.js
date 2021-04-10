@@ -1,1 +1,1 @@
-var mnemonic = "chef erosion kite brick hungry elephant audit oyster salt kingdom fossil point";
+var mnemonic = "orange budget vast under involve property vote surface easy flower shoulder soul";

@@ -1,1 +1,1 @@
-var mnemonic = "tree repeat fog popular tackle man tennis sugar fence balcony engine daughter";
+var mnemonic = "any stone pass rebuild hero moment danger force boost forward alarm copper";

@@ -1,1 +1,1 @@
-var mnemonic = "joy load bubble soda spin spot identify category story mask judge floor";
+var mnemonic = "nasty twin quarter body orbit tape level bird invite gorilla economy subway";

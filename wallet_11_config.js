@@ -1,1 +1,1 @@
-var mnemonic = "feed path extra film tooth ill hello miracle alone figure oyster hotel";
+var mnemonic = "phone olive baby raw laptop detect banner idle alley smoke police excite";

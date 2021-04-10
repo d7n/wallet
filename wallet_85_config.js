@@ -1,1 +1,1 @@
-var mnemonic = "flight slender okay avocado sketch chapter sorry fabric march seed mother alarm";
+var mnemonic = "dance retire abuse shallow fabric must laptop illness rack swear filter mom";

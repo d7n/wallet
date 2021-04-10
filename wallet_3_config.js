@@ -1,1 +1,1 @@
-var mnemonic = "cotton one dog attend employ more maximum fatal perfect general chair hope";
+var mnemonic = "ring round rose approve sponsor upon network trade labor consider wagon bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "target web afford arrange syrup frequent effort enrich warfare thrive soup modify";
+var mnemonic = "fog put damage almost crane salmon own auction floor select canoe swift";

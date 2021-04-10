@@ -1,1 +1,1 @@
-var mnemonic = "senior aisle become deny domain flee boring idea history behind execute town";
+var mnemonic = "smile note fame digital element neglect canvas prevent essay other drama slender";

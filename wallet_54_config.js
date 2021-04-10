@@ -1,1 +1,1 @@
-var mnemonic = "build pottery illegal blade must tennis reduce name ozone kit month afraid";
+var mnemonic = "deal six vivid follow latin muscle denial retreat there undo honey giraffe";

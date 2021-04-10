@@ -1,1 +1,1 @@
-var mnemonic = "adapt muffin ill emotion rabbit clerk kitten motion crime owner one rival";
+var mnemonic = "race uphold monitor absent tip rose jaguar elbow uniform exile wash image";

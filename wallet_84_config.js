@@ -1,1 +1,1 @@
-var mnemonic = "curtain scatter supply merge angry curious animal daughter gorilla blouse shoot wheat";
+var mnemonic = "casual dinner retreat gloom toy breeze roast mesh thought employ giggle disagree";

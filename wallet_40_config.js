@@ -1,1 +1,1 @@
-var mnemonic = "cross course accident proud opinion domain alley love tell wage leisure priority";
+var mnemonic = "mandate nothing arctic hip despair share later mouse journey thank pizza hub";

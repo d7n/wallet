@@ -1,1 +1,1 @@
-var mnemonic = "pipe pass flag input garage shoe still bulb air help little voice";
+var mnemonic = "funny elite punch abandon upper protect verify current lounge invite duty require";

@@ -1,1 +1,1 @@
-var mnemonic = "alert vote trick waste mimic satoshi wait enough kitchen inherit icon stove";
+var mnemonic = "chronic garage phrase impact suit client rich analyst render scan excuse grocery";

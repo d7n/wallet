@@ -1,1 +1,1 @@
-var mnemonic = "error march farm teach shoulder pudding wear twist champion like swim wide";
+var mnemonic = "another soda caution dance club hollow poem consider snack valve afford want";

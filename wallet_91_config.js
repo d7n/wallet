@@ -1,1 +1,1 @@
-var mnemonic = "quality scorpion street soldier lobster rescue brass latin powder between royal absorb";
+var mnemonic = "trim enemy quit gaze group agree ozone talk shell monster soap project";

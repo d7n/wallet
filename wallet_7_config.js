@@ -1,1 +1,1 @@
-var mnemonic = "wrap suspect card kind chair empty crop risk eager cliff spare toilet";
+var mnemonic = "link tribe sock kite cram glow pulp usual exhibit ivory drink fever";
