@@ -1,1 +1,1 @@
-var mnemonic = "shoot end flag useless about chaos episode february segment mail embark sorry";
+var mnemonic = "helmet wealth citizen program before kind protect suggest rival pull pottery forget";

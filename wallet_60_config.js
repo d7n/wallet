@@ -1,1 +1,1 @@
-var mnemonic = "lyrics window matter harvest uphold usage derive diet history ocean minor hurdle";
+var mnemonic = "peasant jealous bone master pulse age push cause census wash celery occur";

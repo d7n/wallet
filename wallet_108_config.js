@@ -1,1 +1,1 @@
-var mnemonic = "artefact thumb pupil menu multiply cheese frog speak drill visit master ask";
+var mnemonic = "ignore sell cute farm sentence theme dial cloud fan chuckle afford trap";

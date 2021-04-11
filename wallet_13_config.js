@@ -1,1 +1,1 @@
-var mnemonic = "verify trash muffin kidney poverty vanish online come sound destroy honey category";
+var mnemonic = "crucial front advance swing demise grab canvas yellow hobby layer park measure";

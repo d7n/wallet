@@ -1,1 +1,1 @@
-var mnemonic = "patient awkward wrestle stamp raw wash improve air zoo manage tobacco victory";
+var mnemonic = "tortoise cry matrix glad crazy omit fortune onion mean brief spawn unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge joy alpha shell install sunny alien proof point label machine rival";
+var mnemonic = "flash destroy atom hospital mountain boring treat nest flat twist wrap vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "salon salt outer oval budget valid grit cable slow above avocado prefer";
+var mnemonic = "tape surprise glow feed mountain girl panther silk post toy govern lend";

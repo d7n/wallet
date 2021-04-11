@@ -1,1 +1,1 @@
-var mnemonic = "list poverty cage grape wire claw glow gift decrease hybrid brain bacon";
+var mnemonic = "regular health bacon million unit rare income put angry tuition wage tonight";

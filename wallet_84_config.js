@@ -1,1 +1,1 @@
-var mnemonic = "marriage knock weekend now idea burger mean eye vendor tongue beauty daughter";
+var mnemonic = "pact collect prosper cream profit soldier divert tourist electric casino theme clerk";

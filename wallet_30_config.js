@@ -1,1 +1,1 @@
-var mnemonic = "miss aisle want mass memory unique stuff despair fluid toddler parade crash";
+var mnemonic = "reveal boy minute immense toe service garbage van worry correct bonus project";

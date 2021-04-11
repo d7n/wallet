@@ -1,1 +1,1 @@
-var mnemonic = "super flush call unhappy then useful truck summer loop lyrics parade grow";
+var mnemonic = "document enter glimpse first payment bench armor lucky inject amazing invest hungry";

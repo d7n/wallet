@@ -1,1 +1,1 @@
-var mnemonic = "local tube bomb guide protect wrap employ present dress until alone desert";
+var mnemonic = "regular rib tiger sight resource dial clerk orient night rate empower sure";

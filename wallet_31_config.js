@@ -1,1 +1,1 @@
-var mnemonic = "buyer often squeeze rug sister ignore drip crew okay flag ball disorder";
+var mnemonic = "great guide bar sad table vivid lazy boost indicate feed canvas trial";

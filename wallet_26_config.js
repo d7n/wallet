@@ -1,1 +1,1 @@
-var mnemonic = "only verb flee profit fox solid truth honey woman ostrich embrace fish";
+var mnemonic = "garlic tower job cousin mix couch remind cute order drill volume second";

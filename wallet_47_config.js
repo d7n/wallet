@@ -1,1 +1,1 @@
-var mnemonic = "advice ivory sweet pig idle spin congress input squeeze expand pledge kitchen";
+var mnemonic = "buyer client drop retire absent tornado pilot mimic staff what walnut provide";

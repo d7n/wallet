@@ -1,1 +1,1 @@
-var mnemonic = "dumb either frost ozone another giraffe spy marriage energy floor argue swim";
+var mnemonic = "fiction lizard arrive artwork royal bless enemy long season chunk light squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "sing bounce inch heart six pet merry modify team skirt rural normal";
+var mnemonic = "enlist odor pig length ladder rude settle six avoid false tent lottery";

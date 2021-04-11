@@ -1,1 +1,1 @@
-var mnemonic = "sudden narrow erode ahead opera repair green force buffalo april spatial tomorrow";
+var mnemonic = "slim luggage stock edge bus fee code unfair approve angry filter axis";

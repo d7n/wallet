@@ -1,1 +1,1 @@
-var mnemonic = "lunch whisper robust truth ritual club used stage audit tell goat way";
+var mnemonic = "valve around found army horn team hint tube merry sand stamp hill";

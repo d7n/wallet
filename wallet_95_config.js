@@ -1,1 +1,1 @@
-var mnemonic = "isolate lounge sound fringe knife exchange sketch maple virus clock invest method";
+var mnemonic = "people name post own keen ice cat congress pledge winner bacon dust";

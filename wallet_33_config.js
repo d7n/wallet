@@ -1,1 +1,1 @@
-var mnemonic = "bottom vacuum camera ski such soft border stick army mandate giraffe shiver";
+var mnemonic = "female trade screen arrive recall banana spoon bean coffee jump century burst";

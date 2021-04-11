@@ -1,1 +1,1 @@
-var mnemonic = "spy seek quality always captain inquiry knife weird antique february there curious";
+var mnemonic = "sniff source junior title achieve floor blossom process injury swarm square first";

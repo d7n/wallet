@@ -1,1 +1,1 @@
-var mnemonic = "cause floor rail ugly collect update grass utility movie animal flag leisure";
+var mnemonic = "trip armed frozen display proud session surface recipe galaxy toy check second";

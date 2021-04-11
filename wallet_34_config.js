@@ -1,1 +1,1 @@
-var mnemonic = "gossip jewel depth eternal hospital unfold crucial upset benefit coach high hole";
+var mnemonic = "cheese furnace panel resemble merry bitter foam exhaust family dust crouch thrive";

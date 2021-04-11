@@ -1,1 +1,1 @@
-var mnemonic = "hybrid rookie cheese sorry dynamic bread comic tennis ozone slam satisfy indicate";
+var mnemonic = "exact enough fatal bus any wife six hour luxury loan dove panther";

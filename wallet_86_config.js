@@ -1,1 +1,1 @@
-var mnemonic = "that soap below eyebrow hurt explain olive finish family bone fox claim";
+var mnemonic = "prison nut slab hole damage spin dune hidden penalty swift cancel heavy";

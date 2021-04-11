@@ -1,1 +1,1 @@
-var mnemonic = "peasant tank more seek army jealous quote verify proof worry cruel oak";
+var mnemonic = "happy safe fame shoot outdoor coyote soda wage embark gospel fiber sand";

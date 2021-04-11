@@ -1,1 +1,1 @@
-var mnemonic = "cruel mobile powder mandate lava strong hood finish judge easy seat stand";
+var mnemonic = "town garlic eyebrow distance mesh hundred coffee engine now situate youth stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "iron noble hold hood great link equal shiver spoil chaos entry catch";
+var mnemonic = "castle critic exhaust ramp body swap argue south only bottom weapon confirm";

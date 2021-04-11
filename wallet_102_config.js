@@ -1,1 +1,1 @@
-var mnemonic = "rude orbit wet job swift boil urge scare vast rain shop zero";
+var mnemonic = "exotic frame inquiry attitude knock equal bacon boy creek hint connect possible";

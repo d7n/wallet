@@ -1,1 +1,1 @@
-var mnemonic = "motion year club hazard amazing flower fix ripple casual music exercise possible";
+var mnemonic = "dinner sight certain dismiss produce vibrant identify burst badge wet steel first";

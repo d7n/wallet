@@ -1,1 +1,1 @@
-var mnemonic = "before once protect credit drip plastic length desk page raise stairs master";
+var mnemonic = "lumber climb fault license scout level salmon among solar leaf scrap stadium";

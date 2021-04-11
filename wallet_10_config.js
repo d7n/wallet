@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur want salad okay law deputy air champion undo curve humble sausage";
+var mnemonic = "logic pill vocal journey escape sniff define alien visual mail glory slender";

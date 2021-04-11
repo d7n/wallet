@@ -1,1 +1,1 @@
-var mnemonic = "river frequent shaft street paddle coil minimum ice taste view dentist doctor";
+var mnemonic = "require drip hill that reveal borrow choice bid market panel penalty amazing";

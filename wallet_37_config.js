@@ -1,1 +1,1 @@
-var mnemonic = "category glimpse maid poet stereo anger october imitate impulse sight edge crisp";
+var mnemonic = "income easily prevent blanket artwork crime install hire submit explain tuna coconut";

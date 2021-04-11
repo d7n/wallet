@@ -1,1 +1,1 @@
-var mnemonic = "burden paddle woman police conduct buyer safe juice harvest clock wave pact";
+var mnemonic = "marble enemy vault work beach age someone fruit thought shove stamp rule";

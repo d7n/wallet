@@ -1,1 +1,1 @@
-var mnemonic = "tongue crime reunion rent afraid state ridge august journey steel canvas jaguar";
+var mnemonic = "antenna antenna antenna traffic forest tattoo silk patch ability order moment cup";

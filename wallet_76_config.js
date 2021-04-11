@@ -1,1 +1,1 @@
-var mnemonic = "today brief whisper cushion thunder certain truth kiss sniff actress lock upset";
+var mnemonic = "receive fatigue this spray check shrug solar clog front note lottery zero";

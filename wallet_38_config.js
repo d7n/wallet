@@ -1,1 +1,1 @@
-var mnemonic = "mammal dune fee injury lecture paddle type liberty party festival prison flat";
+var mnemonic = "issue stomach reveal first fish recall unique cook myself autumn rule raise";

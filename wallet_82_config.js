@@ -1,1 +1,1 @@
-var mnemonic = "orchard pulp borrow garden nut prepare stock warfare fork plastic force ill";
+var mnemonic = "orbit trumpet derive dial help wonder jelly party risk cream hill cement";

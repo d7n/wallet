@@ -1,1 +1,1 @@
-var mnemonic = "diesel digital vendor waste grow ghost ritual story betray acoustic neutral lemon";
+var mnemonic = "illegal skill upper tent thank transfer math image input dutch custom immune";

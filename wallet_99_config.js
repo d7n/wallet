@@ -1,1 +1,1 @@
-var mnemonic = "infant typical civil width reason cube place broccoli hint badge unveil hunt";
+var mnemonic = "agree finger siren retreat squirrel square purity slogan vendor refuse radar radar";

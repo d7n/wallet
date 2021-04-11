@@ -1,1 +1,1 @@
-var mnemonic = "waste volcano disease rotate cave notable merry goddess cattle biology brother bar";
+var mnemonic = "prefer tragic gate audit worth unaware mammal review business speak fork juice";

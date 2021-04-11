@@ -1,1 +1,1 @@
-var mnemonic = "inflict emotion remember mixed kidney bulb hat photo main magnet rule run";
+var mnemonic = "access raise casino distance fade result kid now device clock goose stone";

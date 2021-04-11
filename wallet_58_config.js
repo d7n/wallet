@@ -1,1 +1,1 @@
-var mnemonic = "spawn cage next axis match little viable fossil swallow labor radar invest";
+var mnemonic = "family join guess hood script subway spread post hurdle wink adult pink";

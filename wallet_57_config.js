@@ -1,1 +1,1 @@
-var mnemonic = "seat keep museum noodle remove junior admit aim kitchen embark raw home";
+var mnemonic = "about ankle raven hazard mixture impose pact wing engine cotton material curious";

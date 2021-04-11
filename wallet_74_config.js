@@ -1,1 +1,1 @@
-var mnemonic = "only neck carbon pass midnight alpha relief hand hero lift era category";
+var mnemonic = "ticket close observe kiss share jaguar square air thrive fame capable scatter";

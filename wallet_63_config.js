@@ -1,1 +1,1 @@
-var mnemonic = "culture torch pretty immune horn couch paper sight boy what man hero";
+var mnemonic = "equal length proud funny grace length uphold east until grape fold mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna insect avoid hungry produce aerobic other used outside music era right";
+var mnemonic = "oak round where fix valve fringe topple rally dial tumble cycle wire";

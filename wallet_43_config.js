@@ -1,1 +1,1 @@
-var mnemonic = "fault tone abandon crane teach one envelope village web lyrics powder insane";
+var mnemonic = "dove devote save slight swamp able dragon sun oyster tribe elevator vacant";

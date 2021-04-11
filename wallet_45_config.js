@@ -1,1 +1,1 @@
-var mnemonic = "census mammal alter bread arctic cereal animal sibling swear chat unique mom";
+var mnemonic = "floor visual acquire weather leave matter viable utility one rigid embody lazy";

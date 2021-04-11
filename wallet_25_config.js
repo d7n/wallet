@@ -1,1 +1,1 @@
-var mnemonic = "water ginger bundle cactus nuclear wife nominee anxiety wisdom eye tell strong";
+var mnemonic = "alarm recipe dentist dice often little scare west ribbon logic corn portion";

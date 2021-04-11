@@ -1,1 +1,1 @@
-var mnemonic = "air sorry special brisk raven pull mystery attitude exclude concert universe ghost";
+var mnemonic = "spread slam exchange layer fork liberty intact color tobacco bean nose trim";

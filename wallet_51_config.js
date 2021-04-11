@@ -1,1 +1,1 @@
-var mnemonic = "end festival girl average bachelor crane meat lock march peace license grow";
+var mnemonic = "dad illegal slice venue cage congress patient another friend magic brown wrap";

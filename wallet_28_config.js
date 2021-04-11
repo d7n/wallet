@@ -1,1 +1,1 @@
-var mnemonic = "reason eye below track position eyebrow melody despair monster diagram truck potato";
+var mnemonic = "elite stairs inform token danger little athlete ignore usual kidney fat zero";

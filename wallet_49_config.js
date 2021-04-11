@@ -1,1 +1,1 @@
-var mnemonic = "friend invest ridge appear ridge provide warrior borrow toast month damage sniff";
+var mnemonic = "emotion right brother circle zoo empower cycle cycle left pool tiny woman";

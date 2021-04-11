@@ -1,1 +1,1 @@
-var mnemonic = "bus average quarter find wheat soccer inspire deny found state crouch desk";
+var mnemonic = "gossip train miracle junk oyster apart horse tuna quality sun town magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient limit neck energy advice soft position boost purpose faint garlic primary";
+var mnemonic = "alcohol demand hello hover damp uniform modify crumble exhaust economy enroll fish";

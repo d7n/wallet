@@ -1,1 +1,1 @@
-var mnemonic = "draw post exchange blind erase ring patient valley winter cup blue cart";
+var mnemonic = "radio news limb very throw pause render thank tower jacket crucial birth";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery seek admit wedding cram buyer what stem kiss amused festival cattle";
+var mnemonic = "lab sauce rather dash flight crawl eyebrow leader liquid family beauty name";

@@ -1,1 +1,1 @@
-var mnemonic = "know squeeze weather desert arrest market cash modify pipe amused arch loop";
+var mnemonic = "fatal inherit artwork change love shock sustain bacon biology hammer bomb develop";

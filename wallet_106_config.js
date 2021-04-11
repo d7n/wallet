@@ -1,1 +1,1 @@
-var mnemonic = "mechanic deny leg spot unusual chair purchase club neither water hub author";
+var mnemonic = "merge false hotel decrease erode wife space cave very slot slam work";

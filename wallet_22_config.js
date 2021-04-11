@@ -1,1 +1,1 @@
-var mnemonic = "parade strike twice mercy arrow sunset tissue laundry talent fossil save pen";
+var mnemonic = "between believe absurd answer toddler neither right meadow husband leaf rebel mushroom";

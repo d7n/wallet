@@ -1,1 +1,1 @@
-var mnemonic = "wreck nature venue breeze sing tower kit clap offer need boss rib";
+var mnemonic = "share diamond woman proud humble ranch bone assume elbow twice build battle";

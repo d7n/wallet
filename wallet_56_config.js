@@ -1,1 +1,1 @@
-var mnemonic = "spend advice next will try seat cereal marine feel banner wool sauce";
+var mnemonic = "spread ice welcome kiwi melody galaxy wine purity immense biology play fork";

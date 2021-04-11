@@ -1,1 +1,1 @@
-var mnemonic = "palace drastic drive source drink disease ring prepare must crew clay goddess";
+var mnemonic = "cabbage faint grid giraffe mansion carbon mom kid patrol gesture merit penalty";

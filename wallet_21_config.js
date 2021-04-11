@@ -1,1 +1,1 @@
-var mnemonic = "stone river sock where already unveil march second afford cricket material parrot";
+var mnemonic = "salt aim toy choose motion thunder prevent vast leisure fiber fresh catch";

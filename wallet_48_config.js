@@ -1,1 +1,1 @@
-var mnemonic = "lesson void trust acquire surge nominee tell rough paper promote undo breeze";
+var mnemonic = "grass leg curve double column sell venue adjust duck rough recipe more";

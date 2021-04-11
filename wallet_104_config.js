@@ -1,1 +1,1 @@
-var mnemonic = "energy zebra biology detail phrase music fruit solution similar brand expand eight";
+var mnemonic = "give depend person sphere shoulder winter cinnamon earth fly silver tree kingdom";

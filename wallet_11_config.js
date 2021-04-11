@@ -1,1 +1,1 @@
-var mnemonic = "fragile napkin husband abstract defy plug tattoo behave juice trigger media subway";
+var mnemonic = "clever recycle public hub inject furnace end odor maze medal slow ritual";

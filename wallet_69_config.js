@@ -1,1 +1,1 @@
-var mnemonic = "palm wire nasty later sock trophy uncle wear smooth festival tortoise ranch";
+var mnemonic = "initial wrap buzz edge lion party dance slight cruel loud length message";

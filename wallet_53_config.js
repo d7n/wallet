@@ -1,1 +1,1 @@
-var mnemonic = "next hammer wedding bitter web speed muffin blouse second slow curtain problem";
+var mnemonic = "pole inspire grocery index desert sorry purpose animal action favorite switch liar";

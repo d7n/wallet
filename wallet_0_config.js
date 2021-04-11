@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow attitude return daughter run dizzy chief proud romance fault luggage junk";
+var mnemonic = "add barely snow document prize salmon wear mass gloom dinosaur convince increase";

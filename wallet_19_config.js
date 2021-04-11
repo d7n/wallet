@@ -1,1 +1,1 @@
-var mnemonic = "chest siege arrive stem drift flash orphan type jeans recipe artwork popular";
+var mnemonic = "travel you biology proud desk pause fire cement person pave labor toilet";

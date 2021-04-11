@@ -1,1 +1,1 @@
-var mnemonic = "chief hole trap arrest guilt vicious error select repeat height provide rack";
+var mnemonic = "grace blouse mass wash used hamster they canvas coconut found rib document";

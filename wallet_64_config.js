@@ -1,1 +1,1 @@
-var mnemonic = "raise also rely upon decade often black pause immense glare pioneer ritual";
+var mnemonic = "lion fortune trim space warrior dignity return staff sustain raven item album";

@@ -1,1 +1,1 @@
-var mnemonic = "snow only priority monkey trumpet naive embark mule work addict okay dynamic";
+var mnemonic = "vacant old cradle shrug door memory match layer nut abuse cabbage typical";

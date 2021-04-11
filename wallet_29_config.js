@@ -1,1 +1,1 @@
-var mnemonic = "reject ahead stadium scrub pumpkin reflect ten cry useless arrest symbol have";
+var mnemonic = "increase duck marriage sand sight fiction order photo essay man exist minor";

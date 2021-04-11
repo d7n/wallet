@@ -1,1 +1,1 @@
-var mnemonic = "genuine valve sister invite short napkin program rookie wide bless border soft";
+var mnemonic = "material payment furnace hour pair length life fabric trial safe cart foam";

@@ -1,1 +1,1 @@
-var mnemonic = "skate velvet canvas east gallery actress census service slab chalk stuff fog";
+var mnemonic = "vicious used cancel elbow motor code pass fat subway trick oven unusual";

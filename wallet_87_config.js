@@ -1,1 +1,1 @@
-var mnemonic = "drift found wing vanish patrol garlic vital round will follow table cover";
+var mnemonic = "observe pact improve cruise place damage body museum city motor human target";

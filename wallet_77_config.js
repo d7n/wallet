@@ -1,1 +1,1 @@
-var mnemonic = "symbol version zone size reward fashion direct light believe venture boat account";
+var mnemonic = "grant segment usual life awesome there click mail crime minor during room";

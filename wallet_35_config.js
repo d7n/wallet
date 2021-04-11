@@ -1,1 +1,1 @@
-var mnemonic = "hand display become cupboard cool side someone word velvet elder gain text";
+var mnemonic = "season leave mushroom strong industry describe penalty flag develop before interest bind";

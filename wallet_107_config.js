@@ -1,1 +1,1 @@
-var mnemonic = "ankle help depth ticket slab trip problem gold fly suspect course ritual";
+var mnemonic = "grid level reject train lounge term hard weasel ahead foam double royal";

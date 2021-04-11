@@ -1,1 +1,1 @@
-var mnemonic = "absorb always miss inspire peace tone month cup street pair attack treat";
+var mnemonic = "wire science satisfy essence scan clip coral amused dinosaur almost large dentist";

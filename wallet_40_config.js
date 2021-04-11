@@ -1,1 +1,1 @@
-var mnemonic = "run vault caution unusual auto peasant access shy below squirrel depth agree";
+var mnemonic = "license dignity hip nuclear skull dumb visit develop snake kidney advance mad";

@@ -1,1 +1,1 @@
-var mnemonic = "rice bulk lecture among suspect prevent earn orbit steel biology glove nation";
+var mnemonic = "glove unhappy knife sunny angle hello hood river little switch copy square";

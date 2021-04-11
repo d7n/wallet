@@ -1,1 +1,1 @@
-var mnemonic = "swarm mutual end scale enroll subject multiply original mail buyer horn section";
+var mnemonic = "industry canyon cage drastic chimney bleak warrior away kick abandon social grid";

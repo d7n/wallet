@@ -1,1 +1,1 @@
-var mnemonic = "chair flat marble hundred kitten assault wonder one amount bonus outdoor recall";
+var mnemonic = "firm utility venture potato toward law chicken clutch theme valley century more";
