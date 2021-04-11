@@ -1,1 +1,1 @@
-var mnemonic = "dose detect absurd coconut pizza mirror plastic clap vote giraffe must civil";
+var mnemonic = "erosion egg boss muffin grocery wool round neck pill toss pretty art";

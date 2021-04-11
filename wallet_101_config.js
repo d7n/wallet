@@ -1,1 +1,1 @@
-var mnemonic = "jeans speed doll butter chat echo athlete claim convince shoe bless palace";
+var mnemonic = "faith lemon gain lobster loyal pink slogan drink tomorrow oak sword tobacco";

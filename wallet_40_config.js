@@ -1,1 +1,1 @@
-var mnemonic = "switch hollow cart fit monster thank inhale master cute belt peasant mechanic";
+var mnemonic = "deliver weather begin movie husband exclude arrest jazz genuine theory funny behave";

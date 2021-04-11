@@ -1,1 +1,1 @@
-var mnemonic = "depart economy spoil pizza horse uphold urge vital limit bunker much easily";
+var mnemonic = "gesture virus find impulse win also satoshi crumble become fashion strong erode";

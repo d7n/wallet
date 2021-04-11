@@ -1,1 +1,1 @@
-var mnemonic = "deliver swim upper rapid visual absurd cousin afraid enable digital race retire";
+var mnemonic = "stick limb rival negative example perfect vivid crystal extra job street slogan";

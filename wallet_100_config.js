@@ -1,1 +1,1 @@
-var mnemonic = "eager install erode huge cluster outdoor wet forward clutch moment innocent please";
+var mnemonic = "weasel comic link family depart avocado custom wink dwarf hotel trigger album";

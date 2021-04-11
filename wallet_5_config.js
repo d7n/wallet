@@ -1,1 +1,1 @@
-var mnemonic = "thought filter iron photo husband shine ladder dawn surprise egg actor aware";
+var mnemonic = "slam main suffer lesson cream lyrics balance banner vehicle toilet sport industry";

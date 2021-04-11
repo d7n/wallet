@@ -1,1 +1,1 @@
-var mnemonic = "that annual patient brush speak man allow canal erosion welcome intact salon";
+var mnemonic = "recycle comfort reason photo team pride mom fashion sight august flush song";

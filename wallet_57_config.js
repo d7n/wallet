@@ -1,1 +1,1 @@
-var mnemonic = "subject erode top novel drip gas school tuna afford act develop praise";
+var mnemonic = "shed cause trap ozone easily guide dinosaur zebra syrup arrive shrug wet";

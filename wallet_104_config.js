@@ -1,1 +1,1 @@
-var mnemonic = "indoor north muscle birth give expire civil raccoon front shoulder cabin margin";
+var mnemonic = "talk critic mule night abandon again innocent trim burger knee spider divorce";

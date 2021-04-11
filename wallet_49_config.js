@@ -1,1 +1,1 @@
-var mnemonic = "moral crop tennis swing defy cool build lawn pig obvious job deal";
+var mnemonic = "olive only team famous argue genuine right head habit airport milk drop";

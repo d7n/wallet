@@ -1,1 +1,1 @@
-var mnemonic = "public alter aunt someone veteran bleak glide solar penalty issue hazard wear";
+var mnemonic = "security axis practice venue leg duck soft image faith bind head spatial";

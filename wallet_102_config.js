@@ -1,1 +1,1 @@
-var mnemonic = "mosquito insect neglect decorate interest physical riot oblige tent autumn glad scare";
+var mnemonic = "fork sand glimpse wise orchard young actress mushroom run genius state rate";

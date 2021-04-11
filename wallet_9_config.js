@@ -1,1 +1,1 @@
-var mnemonic = "shift report amount slim away segment twist rule aware switch father plastic";
+var mnemonic = "world liberty humble tool mansion finish sight prefer tennis road danger quarter";

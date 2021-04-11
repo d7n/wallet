@@ -1,1 +1,1 @@
-var mnemonic = "unit power donor resource exile decorate tiger apple ahead weird fossil soul";
+var mnemonic = "rhythm slam never magnet level level dizzy match music aisle mutual remember";

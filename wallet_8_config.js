@@ -1,1 +1,1 @@
-var mnemonic = "belt strike timber scale floor member box among attack riot post glue";
+var mnemonic = "parent kitchen program avocado abuse siege grit call upon manual muscle meadow";

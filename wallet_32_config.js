@@ -1,1 +1,1 @@
-var mnemonic = "comic maximum ketchup hockey lunar squirrel grape age bless true wear range";
+var mnemonic = "donate fine hungry acoustic hour donor sheriff dream era lyrics soccer shop";

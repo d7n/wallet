@@ -1,1 +1,1 @@
-var mnemonic = "cruise idea idea salute cargo example eternal duty orbit angry airport coconut";
+var mnemonic = "library melt spoon edit daughter uncover midnight shift monster pelican civil job";

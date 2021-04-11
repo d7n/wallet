@@ -1,1 +1,1 @@
-var mnemonic = "anger target perfect net submit battle under season aerobic romance ski oblige";
+var mnemonic = "brother few access observe return mosquito cluster despair brown also open lounge";

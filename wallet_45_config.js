@@ -1,1 +1,1 @@
-var mnemonic = "knock cradle fade couple remain arrive airport fragile lizard name giant trade";
+var mnemonic = "course moral present weird industry square hollow dry festival club rule recipe";

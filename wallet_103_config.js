@@ -1,1 +1,1 @@
-var mnemonic = "half fix dust woman slight viable citizen fresh autumn enrich timber dynamic";
+var mnemonic = "accident time around rain lawsuit monster buddy rubber crop letter claim noble";

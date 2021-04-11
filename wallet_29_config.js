@@ -1,1 +1,1 @@
-var mnemonic = "safe property input measure combine column cliff public dinner library rack input";
+var mnemonic = "debris exercise tornado rain safe nephew muffin sleep spoon resist liberty siege";

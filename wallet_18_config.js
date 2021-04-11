@@ -1,1 +1,1 @@
-var mnemonic = "gauge desk blood disease hood intact potato cactus noise produce minute wild";
+var mnemonic = "wasp lucky mosquito patient clever situate turkey casino album salon wool task";

@@ -1,1 +1,1 @@
-var mnemonic = "hour sand fine gift symptom lottery casual what sick cloth off almost";
+var mnemonic = "live asthma faculty hamster region gather when promote crawl picnic govern physical";

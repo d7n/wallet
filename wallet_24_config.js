@@ -1,1 +1,1 @@
-var mnemonic = "final gold enact uphold modify spot giant vibrant mirror salad deny best";
+var mnemonic = "call stable wet range whisper focus reward attract fever cushion one sight";

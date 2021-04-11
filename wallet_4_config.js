@@ -1,1 +1,1 @@
-var mnemonic = "marine meadow left swing athlete scrub demand you approve ozone dice saddle";
+var mnemonic = "level control print predict forum fall toward idea proud winter yellow power";

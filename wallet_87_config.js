@@ -1,1 +1,1 @@
-var mnemonic = "drip update sock reduce scorpion wealth boss van vibrant forward olympic curve";
+var mnemonic = "auction toss timber road mirror onion snack term hair render axis situate";

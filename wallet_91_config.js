@@ -1,1 +1,1 @@
-var mnemonic = "burger resist today turkey purpose exhibit orbit tornado traffic valve stadium polar";
+var mnemonic = "shock buffalo disagree supreme wood seminar add swallow caution drum decline hole";

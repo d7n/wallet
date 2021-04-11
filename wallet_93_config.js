@@ -1,1 +1,1 @@
-var mnemonic = "poem alarm kiss snack reflect rain door unfair input lucky window reunion";
+var mnemonic = "donor civil need mother must tell expire castle three burst stool degree";

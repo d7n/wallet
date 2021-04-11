@@ -1,1 +1,1 @@
-var mnemonic = "stamp coach table give stable change clog that world settle frame morning";
+var mnemonic = "maze maple genius wrap force cry dash home expire proud soup loud";

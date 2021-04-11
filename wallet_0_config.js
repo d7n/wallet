@@ -1,1 +1,1 @@
-var mnemonic = "pave crazy barely stone curious satoshi arrive night capable mesh robust citizen";
+var mnemonic = "athlete verify hill fly note decade exchange dynamic chest arctic pave stove";

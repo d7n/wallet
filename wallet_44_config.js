@@ -1,1 +1,1 @@
-var mnemonic = "release eight hood clutch rival capable bleak victory taxi unique weapon churn";
+var mnemonic = "only found range title spatial tape giant essay verify skate ship blur";

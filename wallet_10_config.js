@@ -1,1 +1,1 @@
-var mnemonic = "soldier remember seat garlic guitar attend area critic jealous output mail hint";
+var mnemonic = "utility clutch ugly craft evil phrase order park course sell wife oppose";

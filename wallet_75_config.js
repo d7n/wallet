@@ -1,1 +1,1 @@
-var mnemonic = "upon trigger chaos inquiry actor cricket maid trap session such snap bitter";
+var mnemonic = "struggle always maple grape topic forward jelly yard achieve below remember need";

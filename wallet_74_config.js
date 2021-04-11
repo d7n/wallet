@@ -1,1 +1,1 @@
-var mnemonic = "leisure play october cloth promote swallow foot gaze cancel lesson girl curtain";
+var mnemonic = "midnight fault casual talk absorb already success garment boat perfect mountain jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix shine pause toy cargo extra rather prevent hero hazard ask antique";
+var mnemonic = "call pitch all immense fee column dial lemon surge problem legal lizard";

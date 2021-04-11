@@ -1,1 +1,1 @@
-var mnemonic = "mail gym supreme avocado ice sight garage example fiber lucky guitar wreck";
+var mnemonic = "valve lumber sheriff huge stamp angry once laugh guess rug become bomb";

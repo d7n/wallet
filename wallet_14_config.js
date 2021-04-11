@@ -1,1 +1,1 @@
-var mnemonic = "illegal woman board marble hat food quote age answer crater brain engine";
+var mnemonic = "ride pear pool artefact carpet champion job switch person begin unable tonight";

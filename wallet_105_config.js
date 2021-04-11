@@ -1,1 +1,1 @@
-var mnemonic = "park life trim attract about tumble company alley chicken evidence valve victory";
+var mnemonic = "execute once leader solar liberty calm question drill make baby fantasy gift";

@@ -1,1 +1,1 @@
-var mnemonic = "artist mirror prevent park potato proud joke process fit off industry rice";
+var mnemonic = "fall uniform member security spell scene since brother ride hat option smart";

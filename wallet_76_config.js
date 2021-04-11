@@ -1,1 +1,1 @@
-var mnemonic = "tree found afraid proof safe actor vintage robot lounge battle paddle unfold";
+var mnemonic = "auto supply sudden evoke sail already paddle chef erode poet gorilla weird";

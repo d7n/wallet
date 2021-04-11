@@ -1,1 +1,1 @@
-var mnemonic = "drum gold actual garment guide pole moment travel wife horn emotion extra";
+var mnemonic = "milk theme adult wear clock trip blouse inherit foot lawsuit adult muffin";

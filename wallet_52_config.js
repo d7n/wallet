@@ -1,1 +1,1 @@
-var mnemonic = "original dance glare champion moral width perfect gown sick tuition void process";
+var mnemonic = "laptop jaguar radar float pair fault cube hazard early paddle match cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "spice obvious album phone best final soap simple wasp term liberty soap";
+var mnemonic = "target random curious typical claw chapter budget pelican pause road left sting";

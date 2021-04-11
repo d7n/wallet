@@ -1,1 +1,1 @@
-var mnemonic = "bird seek brother doll comic cousin pass strong biology ginger team wise";
+var mnemonic = "special ripple satoshi steel predict embrace lunch fee machine express absent pepper";

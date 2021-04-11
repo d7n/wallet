@@ -1,1 +1,1 @@
-var mnemonic = "analyst direct mixed pulse live fire busy roof drive climb banner organ";
+var mnemonic = "awful merit walk curtain road park diary garden upset response inform knee";

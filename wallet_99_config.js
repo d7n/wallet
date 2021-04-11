@@ -1,1 +1,1 @@
-var mnemonic = "fun sting list audit bronze tube embody tip balcony hole chest high";
+var mnemonic = "mansion target tape remain bind chunk dish foot ship vibrant save blind";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity canyon script then dash hole negative monitor cherry produce dish key";
+var mnemonic = "list lecture half begin false donkey grow loan myself potato wait script";

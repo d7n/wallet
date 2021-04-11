@@ -1,1 +1,1 @@
-var mnemonic = "victory model fury mesh patrol prosper tourist chef symbol urban note brother";
+var mnemonic = "either act desert scheme oxygen open matrix educate exclude bind clever yard";

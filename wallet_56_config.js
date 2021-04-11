@@ -1,1 +1,1 @@
-var mnemonic = "cactus heart work bless three gas lend vessel abstract grab tuition top";
+var mnemonic = "noble truck labor chat kitten parent feature aspect electric discover cram cinnamon";

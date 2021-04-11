@@ -1,1 +1,1 @@
-var mnemonic = "slush increase royal online flip saddle ready fresh health fade blood capable";
+var mnemonic = "pact pear sign fiction nasty spring evolve ball spoon already size jacket";

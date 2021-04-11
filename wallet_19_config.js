@@ -1,1 +1,1 @@
-var mnemonic = "salad nature flavor east sustain output relax bind powder correct reform isolate";
+var mnemonic = "muscle toddler sense capable rent basket fat early topple move educate polar";

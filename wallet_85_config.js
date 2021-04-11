@@ -1,1 +1,1 @@
-var mnemonic = "diagram hollow two smooth impulse else public exclude monitor trumpet february mutual";
+var mnemonic = "scrap legend nasty mixed rally news team define exact cupboard suggest reopen";

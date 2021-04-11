@@ -1,1 +1,1 @@
-var mnemonic = "monkey empty impose live absent undo laptop brass drum busy joy illness";
+var mnemonic = "ticket lion enact spell emerge session zoo foot zoo abandon juice marine";

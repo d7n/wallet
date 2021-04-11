@@ -1,1 +1,1 @@
-var mnemonic = "bar remain jewel skirt tonight pave junk stomach follow gym cry prosper";
+var mnemonic = "layer vote voice census palace allow cook hard spare call ready either";

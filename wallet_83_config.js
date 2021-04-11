@@ -1,1 +1,1 @@
-var mnemonic = "travel shed rather enable enrich ball keen lucky ocean blind magnet banner";
+var mnemonic = "dragon glory reform limit ship feed loyal any cargo monkey good noodle";

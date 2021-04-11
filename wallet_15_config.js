@@ -1,1 +1,1 @@
-var mnemonic = "strategy tornado myself mercy reform scout alarm all sister visa behind finger";
+var mnemonic = "brand manage display tree priority three speak oven first together essay library";

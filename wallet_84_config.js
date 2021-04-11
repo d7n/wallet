@@ -1,1 +1,1 @@
-var mnemonic = "merit frequent above grain web color chest old anchor nerve stay address";
+var mnemonic = "problem leg hero lonely hedgehog dignity number element book merry foil poem";

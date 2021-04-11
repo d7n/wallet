@@ -1,1 +1,1 @@
-var mnemonic = "equip again usage dial boil matrix casual crouch cream spread maximum sleep";
+var mnemonic = "path render stairs extra dumb gold drift once tip flame harvest able";

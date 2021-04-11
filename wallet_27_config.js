@@ -1,1 +1,1 @@
-var mnemonic = "suggest coral spray bomb make grape reason winner action long put purity";
+var mnemonic = "joy mouse spend audit bone elite section answer fox you knock agree";

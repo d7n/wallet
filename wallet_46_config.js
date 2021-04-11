@@ -1,1 +1,1 @@
-var mnemonic = "use wage ethics vibrant lens avocado base vast already join mom legal";
+var mnemonic = "giraffe describe describe polar proud trouble stool book creek kingdom coach device";

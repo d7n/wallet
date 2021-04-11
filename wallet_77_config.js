@@ -1,1 +1,1 @@
-var mnemonic = "index lamp parade stuff summer observe stock match gesture outside crumble club";
+var mnemonic = "best chunk army swap opinion eager differ drastic void mad knife bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "example shy cheap layer indoor egg disagree ancient detail timber dance alley";
+var mnemonic = "human firm coyote trust solar exist spatial baby stem stock adjust scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit crouch clump quit target wet sausage sphere fix view few expand";
+var mnemonic = "pupil income lawsuit always kit food spell sudden hobby banner road shuffle";

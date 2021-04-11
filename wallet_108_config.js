@@ -1,1 +1,1 @@
-var mnemonic = "muffin cancel bracket grass soap dynamic head layer come throw story same";
+var mnemonic = "cycle sustain task cluster salute obvious account lyrics debate glare april wall";

@@ -1,1 +1,1 @@
-var mnemonic = "observe orange pear rose theme error merge that pipe sand chunk shy";
+var mnemonic = "engine this scout hawk nation oblige sail talent flash rice know chicken";

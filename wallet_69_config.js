@@ -1,1 +1,1 @@
-var mnemonic = "tuition way enlist collect heavy caught keep candy possible flower ridge analyst";
+var mnemonic = "void oak diagram dilemma three bronze length save duck time choose jaguar";

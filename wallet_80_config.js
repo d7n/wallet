@@ -1,1 +1,1 @@
-var mnemonic = "ice caution hotel kit bright rather bright head anxiety figure pioneer uphold";
+var mnemonic = "mule ocean tent kidney federal lecture erode deputy position matter try beyond";

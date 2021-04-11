@@ -1,1 +1,1 @@
-var mnemonic = "pill field trumpet useless grab next net pistol upper glass visa rose";
+var mnemonic = "shift vehicle recall muscle there supreme river soon kid business twist process";

@@ -1,1 +1,1 @@
-var mnemonic = "success oval cake misery zebra tissue muscle bitter lizard hood move school";
+var mnemonic = "similar alter napkin steak opera security add canyon bracket manage carpet holiday";

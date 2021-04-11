@@ -1,1 +1,1 @@
-var mnemonic = "visa soda venture gossip hood huge coin moral bar convince hen debris";
+var mnemonic = "view endorse crisp boy catch road siege same either flush sniff above";

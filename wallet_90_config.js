@@ -1,1 +1,1 @@
-var mnemonic = "give feel snake ribbon gas pioneer churn bring mixture castle asthma learn";
+var mnemonic = "concert slot galaxy try hope amateur common fine hen future shaft spring";

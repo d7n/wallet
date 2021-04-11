@@ -1,1 +1,1 @@
-var mnemonic = "tree property kitten cube boy medal tribe table tape farm matrix apology";
+var mnemonic = "fashion afraid space special farm age hunt laugh deal boy lift badge";

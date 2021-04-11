@@ -1,1 +1,1 @@
-var mnemonic = "recycle theme year away toast axis alcohol fix budget leave include skirt";
+var mnemonic = "either silver welcome kitten waste bubble task pudding bunker wedding swarm adjust";

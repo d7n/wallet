@@ -1,1 +1,1 @@
-var mnemonic = "hazard autumn picture harsh empower neglect ridge eager bulk release wise junior";
+var mnemonic = "lazy metal upper depend swim crush shy jacket tiger bronze lion alert";

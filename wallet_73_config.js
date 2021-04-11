@@ -1,1 +1,1 @@
-var mnemonic = "gasp jar dinosaur puppy spoon other floor hill seat owner crystal intact";
+var mnemonic = "raccoon gadget there run van version layer garment lyrics student tube earth";

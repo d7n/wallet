@@ -1,1 +1,1 @@
-var mnemonic = "casual tent dumb city text room fancy power urge address hamster doll";
+var mnemonic = "key milk lens olive leader scissors limit clay combine island glance side";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge dice adult clever educate gain just master entire brave any assist";
+var mnemonic = "angle remain success rate ozone chimney eager admit wood reward roof fade";

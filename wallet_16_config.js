@@ -1,1 +1,1 @@
-var mnemonic = "box sick sort other burst hotel employ fetch right coyote mind adapt";
+var mnemonic = "occur ready crater skin citizen together ahead peace another blade gloom note";

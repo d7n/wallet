@@ -1,1 +1,1 @@
-var mnemonic = "oyster enroll energy title lady olive praise quote release man hockey useless";
+var mnemonic = "inmate oil kiss fix opinion bubble gauge expire puppy recall cost deal";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual february magic ketchup oppose raw pair loyal purse piano strong cricket";
+var mnemonic = "try time memory sniff fork first tackle museum link betray harsh exotic";

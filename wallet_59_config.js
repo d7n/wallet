@@ -1,1 +1,1 @@
-var mnemonic = "pony language rocket now artwork taxi pluck fault coach refuse good waste";
+var mnemonic = "lamp zone sword tissue mixture stone mad trouble skate artist square baby";

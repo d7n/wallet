@@ -1,1 +1,1 @@
-var mnemonic = "taste degree reason capital shuffle funny major tuition tide glow acoustic lake";
+var mnemonic = "exotic demand embark brave can coil actor limb nerve pool dress cram";

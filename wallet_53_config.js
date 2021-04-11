@@ -1,1 +1,1 @@
-var mnemonic = "derive chicken enforce bid present glue moment equip produce social hour donkey";
+var mnemonic = "steel bubble mystery list shift rich mechanic book project rent energy stone";

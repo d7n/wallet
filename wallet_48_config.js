@@ -1,1 +1,1 @@
-var mnemonic = "march lecture drastic canvas valve idle portion decrease mouse scorpion erosion double";
+var mnemonic = "submit moon fiction road praise pill eight brave civil treat lazy august";

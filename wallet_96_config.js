@@ -1,1 +1,1 @@
-var mnemonic = "sadness clown ensure warm story truck lawn veteran dry rack worry wonder";
+var mnemonic = "planet tooth humor advice small help plastic verb else know tunnel lesson";

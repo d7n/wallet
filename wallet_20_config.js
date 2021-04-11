@@ -1,1 +1,1 @@
-var mnemonic = "desk harvest burger penalty quiz give face spy hint orbit shuffle mercy";
+var mnemonic = "stay disease benefit young slush velvet accuse please face urban punch good";

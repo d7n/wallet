@@ -1,1 +1,1 @@
-var mnemonic = "wasp immune trend tired aspect actual park waste garage scheme orbit theme";
+var mnemonic = "know random fog critic occur check tip stick crew pool panic foil";
