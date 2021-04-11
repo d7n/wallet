@@ -1,1 +1,1 @@
-var mnemonic = "endorse wet gain owner sunny spring wasp family flower believe prevent merit";
+var mnemonic = "napkin gate ranch replace panda during hurt stone rebel goddess else near";

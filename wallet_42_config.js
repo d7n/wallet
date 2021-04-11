@@ -1,1 +1,1 @@
-var mnemonic = "foot tuna call rely label carpet elevator pen crop prevent weather settle";
+var mnemonic = "much afford salute fish trouble ten sunny left chest enter pig amused";

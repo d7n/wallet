@@ -1,1 +1,1 @@
-var mnemonic = "firm shoot case until erupt fiction velvet noble input accuse bar announce";
+var mnemonic = "ketchup tonight warrior pact select sponsor mass treat false morning dwarf steak";

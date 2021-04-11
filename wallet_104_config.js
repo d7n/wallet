@@ -1,1 +1,1 @@
-var mnemonic = "describe attract unhappy mango debris holiday knife assume arrive ugly slogan problem";
+var mnemonic = "way tuition angle prize wrap voyage senior shift celery error stone pudding";

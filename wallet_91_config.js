@@ -1,1 +1,1 @@
-var mnemonic = "absurd black raise cabin talent silent vessel ramp dentist slot punch east";
+var mnemonic = "cherry airport suggest chat panda blade grunt pumpkin loud target club thumb";

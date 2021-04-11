@@ -1,1 +1,1 @@
-var mnemonic = "nature service answer abandon evolve easily joy code kidney deputy siren claim";
+var mnemonic = "trend wisdom upgrade tissue today juice upper tattoo affair biology release shoot";

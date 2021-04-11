@@ -1,1 +1,1 @@
-var mnemonic = "pilot tennis anxiety sock dirt kid fatigue number slow raven artefact below";
+var mnemonic = "credit amateur ship man civil bracket border evil random nerve square dutch";

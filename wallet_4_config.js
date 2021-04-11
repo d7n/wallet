@@ -1,1 +1,1 @@
-var mnemonic = "sketch exercise mail cattle exist person harsh present scan meadow anxiety wise";
+var mnemonic = "lottery melt impact brick torch alone supreme guide room judge replace focus";

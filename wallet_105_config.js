@@ -1,1 +1,1 @@
-var mnemonic = "legend icon around clock welcome dolphin staff mimic issue latin visa cram";
+var mnemonic = "panther edit repair immune cream duty problem soldier gallery cave phone unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "expect random response math grant tower chaos nation glare chuckle under warrior";
+var mnemonic = "craft major beef rubber report soda catalog master wedding universe tip damage";

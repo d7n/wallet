@@ -1,1 +1,1 @@
-var mnemonic = "grid citizen matter right rural either relax stumble figure arctic pool era";
+var mnemonic = "float weird easy increase giraffe rely extra eternal peanut off wheel fury";

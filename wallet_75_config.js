@@ -1,1 +1,1 @@
-var mnemonic = "faith focus wrap fall lens glory surprise panic way hood tag neck";
+var mnemonic = "clock rotate truly warm rally tilt brass grid spray impulse moment charge";

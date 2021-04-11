@@ -1,1 +1,1 @@
-var mnemonic = "rule grocery apple material slender certain super wise mad neglect toilet fetch";
+var mnemonic = "chimney first ahead electric bottom cage behave custom link wrap million bench";

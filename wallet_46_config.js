@@ -1,1 +1,1 @@
-var mnemonic = "say pill under walk taxi open drift license cattle brief undo slogan";
+var mnemonic = "guide glare search protect trial endless ladder search energy unique dance tourist";

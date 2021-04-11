@@ -1,1 +1,1 @@
-var mnemonic = "clown tourist enrich tomorrow drum dance resemble velvet offer witness twenty liberty";
+var mnemonic = "blood season idea palm dismiss column boy proof essence upgrade rare boost";

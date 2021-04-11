@@ -1,1 +1,1 @@
-var mnemonic = "endorse vibrant private twenty lobster fitness wasp change differ fish stamp vivid";
+var mnemonic = "priority faculty phone burger end survey road holiday pact diary fancy diagram";

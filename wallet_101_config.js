@@ -1,1 +1,1 @@
-var mnemonic = "spy link inject small cricket deliver absent cover water prevent record soft";
+var mnemonic = "water lunch high unveil chicken unable copy immense close short riot domain";

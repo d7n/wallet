@@ -1,1 +1,1 @@
-var mnemonic = "bid crane limb planet dial jealous risk toy zebra oak upon goat";
+var mnemonic = "series scatter rack trip warm group beef acid patrol demand trim brain";

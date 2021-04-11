@@ -1,1 +1,1 @@
-var mnemonic = "siren breeze subject category flock energy hire initial mass release fluid lumber";
+var mnemonic = "noble soccer unit museum slam potato ring patrol submit search wrap body";

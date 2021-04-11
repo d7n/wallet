@@ -1,1 +1,1 @@
-var mnemonic = "simple daring cloud fresh piece depth wear weird media cage rocket sun";
+var mnemonic = "clump pass clay episode cool oil solve pear noodle unhappy muffin daughter";

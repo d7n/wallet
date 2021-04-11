@@ -1,1 +1,1 @@
-var mnemonic = "divert faculty mad regret soldier lazy cruel spend present announce patient obscure";
+var mnemonic = "cricket gas reveal learn file elder client moment feed drive shrug tonight";

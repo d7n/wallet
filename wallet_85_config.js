@@ -1,1 +1,1 @@
-var mnemonic = "course brand siege runway artefact frequent elevator veteran hurry cage ridge mention";
+var mnemonic = "laundry field discover height reveal scare inform report suit spare cliff destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "table pyramid assist limb door never situate lake roast beyond permit robust";
+var mnemonic = "fiscal blast foot salmon diesel dragon because pony mirror globe extend sponsor";

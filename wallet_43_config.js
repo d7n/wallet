@@ -1,1 +1,1 @@
-var mnemonic = "version teach casino arrow around fancy ahead cross own exist grab develop";
+var mnemonic = "inch allow favorite lazy debate clinic firm client cactus logic delay dragon";

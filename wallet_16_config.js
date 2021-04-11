@@ -1,1 +1,1 @@
-var mnemonic = "leisure dinner collect shrug allow present afford blouse bread town wear market";
+var mnemonic = "subway bundle combine spin tattoo oyster lens conduct space team various shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace member pool cram moral rough desert sentence empty arena ankle alley";
+var mnemonic = "hotel liar short grit cake behave goose entire mouse annual rare belt";

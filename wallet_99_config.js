@@ -1,1 +1,1 @@
-var mnemonic = "upgrade outer fuel alien knock federal seed doll humble juice stove century";
+var mnemonic = "pyramid hole sight cart ankle unlock text famous venue prefer monkey wool";

@@ -1,1 +1,1 @@
-var mnemonic = "distance stool actress pond certain april man broken thumb favorite when combine";
+var mnemonic = "picnic series phrase cool enforce mean two slight mimic fiber tumble question";

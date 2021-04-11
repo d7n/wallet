@@ -1,1 +1,1 @@
-var mnemonic = "limb breeze oppose elephant occur soccer tree damage addict column rely solve";
+var mnemonic = "pulse twist put assume rare march inhale truck jar warm fetch race";

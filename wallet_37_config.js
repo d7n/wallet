@@ -1,1 +1,1 @@
-var mnemonic = "cement day yard foil zebra ability suit uniform tip bright cause board";
+var mnemonic = "arrange denial steak cherry menu member minute isolate moon equal ritual smoke";

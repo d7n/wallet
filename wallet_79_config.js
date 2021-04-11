@@ -1,1 +1,1 @@
-var mnemonic = "lecture feed pelican warm common smoke round stamp steak among film avoid";
+var mnemonic = "again chase island ignore race market gorilla rent ordinary patient horror mansion";

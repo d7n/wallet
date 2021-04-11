@@ -1,1 +1,1 @@
-var mnemonic = "deer hair cram try first oil rather hint style gain must account";
+var mnemonic = "evoke push rate absurd village over there pelican casual snack gain alone";

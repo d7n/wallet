@@ -1,1 +1,1 @@
-var mnemonic = "help horse tenant picnic horse raw tongue legal wave spin shrimp thumb";
+var mnemonic = "tribe float flower hire robust dilemma there tonight program blame brisk fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "fun motion case brush horror want spray lift business average work solution";
+var mnemonic = "sausage pistol honey bulk garage butter envelope annual history fluid view proof";

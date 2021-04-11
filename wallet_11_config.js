@@ -1,1 +1,1 @@
-var mnemonic = "control clutch spice bind chapter jazz banana wash claw bargain arctic bulb";
+var mnemonic = "aim measure wrist city depart spell broom blush wage thank robust blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "spice session female suffer note laugh jaguar galaxy real amateur vessel kangaroo";
+var mnemonic = "craft audit maze spawn deny vivid planet sustain morning business gaze donor";

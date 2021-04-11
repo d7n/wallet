@@ -1,1 +1,1 @@
-var mnemonic = "manage response conduct sock midnight supreme hungry sausage candy convince scatter mention";
+var mnemonic = "design amateur welcome human wealth card list bracket immense novel shine wheel";

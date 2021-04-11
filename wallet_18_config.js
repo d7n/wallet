@@ -1,1 +1,1 @@
-var mnemonic = "chapter foot evoke boost cave expect adult empower filter fashion relief vehicle";
+var mnemonic = "ensure slam artwork dance off prosper flag excuse wealth evolve prepare stomach";

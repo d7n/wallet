@@ -1,1 +1,1 @@
-var mnemonic = "pig object soccer cupboard tiny hill twist furnace skin ostrich harvest spatial";
+var mnemonic = "journey twist depth federal anger scissors best puppy mention nose page crystal";

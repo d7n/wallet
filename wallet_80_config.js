@@ -1,1 +1,1 @@
-var mnemonic = "ramp color hint void foam force feed gasp diagram present industry arctic";
+var mnemonic = "group legal jewel crunch warfare cereal useful dinner cube abandon twenty tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "illness half found desk dawn put business job bunker liquid fine people";
+var mnemonic = "mix similar plate dial trend hover tiger venue clay barely south album";

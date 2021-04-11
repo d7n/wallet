@@ -1,1 +1,1 @@
-var mnemonic = "drum segment mystery curious hurt minimum legend child either remember cabbage spoon";
+var mnemonic = "combine upon mule much hybrid nephew boss sight total start token surprise";

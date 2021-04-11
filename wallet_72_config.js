@@ -1,1 +1,1 @@
-var mnemonic = "defense insect you face symptom breeze lounge food boil hold until wish";
+var mnemonic = "produce off debris page glove topic ribbon rapid again gauge destroy label";

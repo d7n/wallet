@@ -1,1 +1,1 @@
-var mnemonic = "bullet fresh flip smooth rebel climb earth margin artist message gorilla edge";
+var mnemonic = "sun canal mom cabbage all soup fire suggest other pen okay neutral";

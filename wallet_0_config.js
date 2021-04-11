@@ -1,1 +1,1 @@
-var mnemonic = "gap castle door scene survey priority purpose volume pigeon page motor manage";
+var mnemonic = "cinnamon update stay good possible shock wide offer wire regular birth must";

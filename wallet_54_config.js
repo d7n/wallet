@@ -1,1 +1,1 @@
-var mnemonic = "gossip shell mixture movie proof other fabric select group unique leader fan";
+var mnemonic = "animal suit pause sell snack animal lens involve subject left foot right";

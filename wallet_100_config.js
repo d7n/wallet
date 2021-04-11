@@ -1,1 +1,1 @@
-var mnemonic = "message chief brick brief mandate public genuine steel glad panda weather candy";
+var mnemonic = "camp hour rival wise tank satoshi today excite perfect warm lonely carry";

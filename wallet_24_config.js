@@ -1,1 +1,1 @@
-var mnemonic = "truck ramp hover violin priority major wash habit farm pond cinnamon quote";
+var mnemonic = "volume home outer attack desk text laptop forest allow balance truck accident";

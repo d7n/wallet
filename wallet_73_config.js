@@ -1,1 +1,1 @@
-var mnemonic = "zero pulp script evil tape auto immense basket about soup sibling limit";
+var mnemonic = "image invite border cash violin there tape witness hunt acquire between icon";

@@ -1,1 +1,1 @@
-var mnemonic = "crater knee stem three illness family joke meat canal health lift model";
+var mnemonic = "solar drink crew siren today long next have ten leave draw evil";

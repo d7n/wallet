@@ -1,1 +1,1 @@
-var mnemonic = "urban tank toe route royal midnight knee plate friend remove renew world";
+var mnemonic = "horror usual practice hurdle tissue exit moral liar inside inquiry actor pear";

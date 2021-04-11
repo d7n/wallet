@@ -1,1 +1,1 @@
-var mnemonic = "because donor daughter divide rose remember prison share forget frame rally poem";
+var mnemonic = "taxi riot rather run faith upset mutual fun abuse gold era surround";

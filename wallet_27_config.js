@@ -1,1 +1,1 @@
-var mnemonic = "cave spray lottery latin sketch act elevator six baby cream dress tomato";
+var mnemonic = "trade moon impact imitate sibling remove arrive spoil warrior dinner swarm spike";

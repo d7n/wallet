@@ -1,1 +1,1 @@
-var mnemonic = "dizzy drill win coin people battle inject awesome humble intact seat view";
+var mnemonic = "tell cart garbage curve need hover despair ethics chair blind shop mixture";

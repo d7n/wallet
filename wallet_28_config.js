@@ -1,1 +1,1 @@
-var mnemonic = "animal cheese confirm relief kind scheme frozen guard butter venture trumpet grape";
+var mnemonic = "hamster hard minor tonight clump bless insane shed hamster leave crisp fault";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor rough tackle call journey steel before purpose piano village vapor stay";
+var mnemonic = "side prize weapon loud dumb velvet rack leaf remove blur tissue nothing";

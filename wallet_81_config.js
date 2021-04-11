@@ -1,1 +1,1 @@
-var mnemonic = "daring debris grab defy pill velvet pair elder shift aware pottery snake";
+var mnemonic = "fiber guess spell wash idle midnight blossom inmate squirrel true sock swarm";

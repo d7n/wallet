@@ -1,1 +1,1 @@
-var mnemonic = "leg paper universe horror announce funny entire useless this shop film amazing";
+var mnemonic = "rapid endorse artist cancel ship social unhappy ramp chest cram rival shock";

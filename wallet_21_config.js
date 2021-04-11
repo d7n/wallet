@@ -1,1 +1,1 @@
-var mnemonic = "next try fade disagree unit life cancel music aunt crash climb industry";
+var mnemonic = "ritual foam uncover area dice movie pupil spin weekend want hammer cannon";

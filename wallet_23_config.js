@@ -1,1 +1,1 @@
-var mnemonic = "camera ostrich burst waste damp magic fine wish stairs carpet human orphan";
+var mnemonic = "rather fire plunge unique kid solution rug bus alien absent spawn lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair urban attend gorilla motor mad ketchup hybrid term neither drop timber";
+var mnemonic = "indicate choose wheat slow frequent illegal boy erupt cute vapor hood adapt";

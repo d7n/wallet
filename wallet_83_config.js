@@ -1,1 +1,1 @@
-var mnemonic = "idea immense slogan rival feel shift nose flat equip voice sing organ";
+var mnemonic = "utility blame lonely seek check genre attract habit hire shadow frown range";

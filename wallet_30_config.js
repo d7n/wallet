@@ -1,1 +1,1 @@
-var mnemonic = "panel net assume monkey wheel gas minor monkey fossil lyrics drive print";
+var mnemonic = "two argue pet foot pony month riot dune artwork same problem afford";

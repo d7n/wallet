@@ -1,1 +1,1 @@
-var mnemonic = "hidden dinosaur chase garage fortune broken ramp trust digital street brown fruit";
+var mnemonic = "employ spice tomorrow bronze behind film forget aware accuse main figure verify";

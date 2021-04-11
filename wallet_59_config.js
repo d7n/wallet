@@ -1,1 +1,1 @@
-var mnemonic = "mail slim analyst element early casual meat twelve attract require enrich move";
+var mnemonic = "page ozone power author destroy drink clerk uniform simple various please holiday";

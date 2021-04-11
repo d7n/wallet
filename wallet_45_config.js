@@ -1,1 +1,1 @@
-var mnemonic = "gossip service film orphan album ask slush cousin helmet prosper output season";
+var mnemonic = "wide picnic leg van draft digital fetch truth urban strike general error";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe rubber since simple discover gospel mountain mom street achieve come plate";
+var mnemonic = "giraffe orphan extend dune depend sorry green potato plunge paper youth sound";

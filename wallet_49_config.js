@@ -1,1 +1,1 @@
-var mnemonic = "popular improve wasp slice honey coast focus balcony orphan more enemy mouse";
+var mnemonic = "when provide divorce cactus curve trash naive reopen march burst budget office";

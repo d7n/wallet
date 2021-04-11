@@ -1,1 +1,1 @@
-var mnemonic = "common broccoli wet cabbage dry bird burger lend apology ostrich bread monster";
+var mnemonic = "render series eager window autumn wait almost middle cradle fall forget brown";

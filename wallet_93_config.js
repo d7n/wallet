@@ -1,1 +1,1 @@
-var mnemonic = "dose doctor kind kiwi quantum amused unknown barrel spread catch quiz water";
+var mnemonic = "evolve welcome keen sudden weasel injury range maple income add cause hole";

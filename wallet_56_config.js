@@ -1,1 +1,1 @@
-var mnemonic = "timber museum tourist try suffer lake dinner forget scrub sorry vital enter";
+var mnemonic = "audit surround able oval liar genuine soup hotel kiwi grow cable filter";

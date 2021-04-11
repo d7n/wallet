@@ -1,1 +1,1 @@
-var mnemonic = "adapt sure shiver curious warfare final kitchen cry until mule joke envelope";
+var mnemonic = "fade notable unknown term abandon apology drip giant filter scene define scout";

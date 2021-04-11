@@ -1,1 +1,1 @@
-var mnemonic = "aspect midnight chase action young fee mechanic fun hunt explain prefer chef";
+var mnemonic = "main jazz kick news weather maple fabric elbow bag tissue strike maze";

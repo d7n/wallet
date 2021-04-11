@@ -1,1 +1,1 @@
-var mnemonic = "bring fabric drop torch energy parent reduce coin sell angry retreat foil";
+var mnemonic = "popular child high theme divorce hold mass artist gown almost grain fly";

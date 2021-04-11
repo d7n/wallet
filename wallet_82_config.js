@@ -1,1 +1,1 @@
-var mnemonic = "pluck diesel burden fossil warrior type buffalo soldier lucky pudding today chunk";
+var mnemonic = "bullet zebra lottery rural rabbit wealth salad dry sniff rely clinic comic";

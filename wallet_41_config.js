@@ -1,1 +1,1 @@
-var mnemonic = "food source elite lemon wasp chapter argue settle level dune fee oxygen";
+var mnemonic = "honey dose whip match exchange forward you field carpet ritual staff voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "leave snack dose creek tag marine wide bulk clap wrong just charge";
+var mnemonic = "charge salute fee gallery sand position column leopard mother work garment extra";

@@ -1,1 +1,1 @@
-var mnemonic = "still have spoil lonely identify plug glimpse night real glass output spread";
+var mnemonic = "law cart silent injury harsh acoustic name cattle nature know improve mean";

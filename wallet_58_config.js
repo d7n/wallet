@@ -1,1 +1,1 @@
-var mnemonic = "fragile health crime frozen thank yard sheriff stand furnace cable wheel attract";
+var mnemonic = "clinic over wide warrior trust jar giggle hand term city river soul";

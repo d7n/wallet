@@ -1,1 +1,1 @@
-var mnemonic = "chase lonely spend bring picnic matter dilemma ahead awful antenna prefer wash";
+var mnemonic = "rack ripple guitar seat ranch access isolate industry spring label stuff basket";

@@ -1,1 +1,1 @@
-var mnemonic = "type federal off conduct student fiber glide wet palm abstract bubble host";
+var mnemonic = "remove exhibit soul exile raven census person kitten volcano time clutch mushroom";

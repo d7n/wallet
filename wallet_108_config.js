@@ -1,1 +1,1 @@
-var mnemonic = "describe team vivid next hello clock increase swim athlete business empower napkin";
+var mnemonic = "junior trust divert luxury field west summer fat crack glory orange crowd";

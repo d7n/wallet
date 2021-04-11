@@ -1,1 +1,1 @@
-var mnemonic = "little doll dwarf appear elephant farm summer cycle border describe panic welcome";
+var mnemonic = "normal reflect sell march tide pudding divert steel dream december equal clay";

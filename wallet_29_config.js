@@ -1,1 +1,1 @@
-var mnemonic = "guitar seat air business pioneer attend cradle rug tube dutch frog depth";
+var mnemonic = "ready rifle become transfer book divert arrest forget crater excite analyst damage";

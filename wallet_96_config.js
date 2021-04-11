@@ -1,1 +1,1 @@
-var mnemonic = "marine cage trend embark rose fury prepare scan predict enemy peanut multiply";
+var mnemonic = "poverty cousin kick electric tornado depth chair tissue amateur subway scan enhance";
