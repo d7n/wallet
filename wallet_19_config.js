@@ -1,1 +1,1 @@
-var mnemonic = "glad force caught ritual bargain solar easily kind fragile whip syrup scatter";
+var mnemonic = "weasel carry grace theory tell relax picture mountain honey accuse tumble pumpkin";

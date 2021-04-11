@@ -1,1 +1,1 @@
-var mnemonic = "random sunset evidence snow excuse boring urban screen world raw gentle bar";
+var mnemonic = "insane north kite cactus skin drum sunny hood know indicate replace cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "balance quantum special empower summer often dish ahead dutch bid midnight foil";
+var mnemonic = "once festival library valid weasel risk venture empower runway catalog dynamic tissue";

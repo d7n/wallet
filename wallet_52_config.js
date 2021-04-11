@@ -1,1 +1,1 @@
-var mnemonic = "debris wide adjust rigid spoon client cry combine infant cram patrol pause";
+var mnemonic = "wave dress wish race adult admit voyage tip pen derive ship group";

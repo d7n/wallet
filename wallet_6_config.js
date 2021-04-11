@@ -1,1 +1,1 @@
-var mnemonic = "giant miss question dynamic huge call burger island bridge atom soup world";
+var mnemonic = "boy bench zero front price embrace vocal suit couch omit vapor honey";

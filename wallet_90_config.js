@@ -1,1 +1,1 @@
-var mnemonic = "celery practice hello reduce canyon salt shrimp awkward region radio glove treat";
+var mnemonic = "fold merry excuse repair mystery couple sister embark dog human scatter typical";

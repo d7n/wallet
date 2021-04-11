@@ -1,1 +1,1 @@
-var mnemonic = "rice arm primary hybrid decrease purse fix viable science meadow captain defense";
+var mnemonic = "atom trigger deer caution dignity inhale reason fun among ill large there";

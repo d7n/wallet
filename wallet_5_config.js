@@ -1,1 +1,1 @@
-var mnemonic = "casino congress beyond judge grocery measure moon soda decline credit harvest garlic";
+var mnemonic = "gain artist genre legal stuff claw pottery wish faith bone scan grant";

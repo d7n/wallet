@@ -1,1 +1,1 @@
-var mnemonic = "airport topic liquid turkey arrive nuclear fat stumble segment rebuild second marine";
+var mnemonic = "material grocery clap inmate top drift bounce hobby olive embody drip peasant";

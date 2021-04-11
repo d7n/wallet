@@ -1,1 +1,1 @@
-var mnemonic = "pool armed inhale name crew sausage spider obscure oak noise mosquito hover";
+var mnemonic = "taste feel unable woman defense obscure tobacco life rich aerobic love real";

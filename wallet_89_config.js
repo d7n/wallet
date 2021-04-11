@@ -1,1 +1,1 @@
-var mnemonic = "area family chase neutral enlist super napkin okay human silent elder riot";
+var mnemonic = "trial auction match sudden version green laugh skin globe tuna husband service";

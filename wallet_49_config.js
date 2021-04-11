@@ -1,1 +1,1 @@
-var mnemonic = "pitch illegal stereo devote roast able pencil answer test quit cabbage orange";
+var mnemonic = "judge winner clip number devote flower crash response error deal observe spoil";

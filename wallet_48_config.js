@@ -1,1 +1,1 @@
-var mnemonic = "like slab sniff typical grace alley just reward accident pledge seat type";
+var mnemonic = "idea clock kid laptop client coffee stable code noble focus blind door";

@@ -1,1 +1,1 @@
-var mnemonic = "index table load alter relief trim buyer garment fame hunt juice evoke";
+var mnemonic = "way agent quiz session neck impact embark glide glow debris sibling portion";

@@ -1,1 +1,1 @@
-var mnemonic = "law neutral improve vicious equal arena soup sudden media sphere ramp lion";
+var mnemonic = "human kingdom hope obey jacket gun aim milk deposit that large hybrid";

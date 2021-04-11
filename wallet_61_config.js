@@ -1,1 +1,1 @@
-var mnemonic = "shell rotate trim return speak reopen urban thought hockey satoshi zone total";
+var mnemonic = "click comfort country wrist relax express able tower mimic allow gallery party";

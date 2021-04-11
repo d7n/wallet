@@ -1,1 +1,1 @@
-var mnemonic = "suspect vibrant tiger satisfy above frequent fly regret wolf business unusual tennis";
+var mnemonic = "two evil axis quantum present step term donate home vote rule era";

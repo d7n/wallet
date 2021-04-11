@@ -1,1 +1,1 @@
-var mnemonic = "shrimp gown enforce group exit increase derive index screen resemble push quarter";
+var mnemonic = "valley mixed planet uniform high volcano leisure gown rubber rug caught improve";

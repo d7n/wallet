@@ -1,1 +1,1 @@
-var mnemonic = "episode proof perfect smoke melody forum system ice donate hat alert churn";
+var mnemonic = "aware clock snack hen marriage space episode shuffle seven wheat patrol couple";

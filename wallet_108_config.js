@@ -1,1 +1,1 @@
-var mnemonic = "success hill hill change mystery toilet glue list member provide favorite rocket";
+var mnemonic = "ring manage damage icon habit catalog drum minimum salmon program inform exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "armed garlic excuse cook file endorse satisfy another shoot alcohol afraid fatal";
+var mnemonic = "purity deal regret mango pill hand enough dish remove story pair trust";

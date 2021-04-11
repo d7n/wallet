@@ -1,1 +1,1 @@
-var mnemonic = "shiver curtain link because congress venue total recycle slide city barely clay";
+var mnemonic = "coral gesture expose craft scan cereal piece ugly clog mass ancient diesel";

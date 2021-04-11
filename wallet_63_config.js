@@ -1,1 +1,1 @@
-var mnemonic = "forget aware romance sing artist muscle ski fetch bicycle math layer sea";
+var mnemonic = "craft finish risk scout news furnace advice begin tornado merry disorder fit";

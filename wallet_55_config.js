@@ -1,1 +1,1 @@
-var mnemonic = "flavor moral cargo jelly diary penalty devote bright merit rich ability multiply";
+var mnemonic = "aerobic survey kick auction custom pottery circle alert auction canyon clock repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "gas pluck inhale name arm planet same proof employ medal any fix";
+var mnemonic = "race among drum worth tourist picture couch copper sustain fiction predict fold";

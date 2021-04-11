@@ -1,1 +1,1 @@
-var mnemonic = "lock truly crew young wasp measure hospital erosion possible spider stool copy";
+var mnemonic = "okay attend swallow width pink faint hen code memory lucky next protect";

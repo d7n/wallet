@@ -1,1 +1,1 @@
-var mnemonic = "genre grow traffic describe approve fetch cash weekend head aspect panda car";
+var mnemonic = "first naive supply alert account say eagle scissors fly pupil salt cruel";

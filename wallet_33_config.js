@@ -1,1 +1,1 @@
-var mnemonic = "voyage ginger drum depend develop trap engage bind differ vapor sick answer";
+var mnemonic = "off now fitness leave stick female capital together plastic quote end apology";

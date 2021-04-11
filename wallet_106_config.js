@@ -1,1 +1,1 @@
-var mnemonic = "boy forum lizard ancient hurdle bamboo tooth stadium office recall suggest wild";
+var mnemonic = "modify input subject inside help blue coil parade east define cup pause";

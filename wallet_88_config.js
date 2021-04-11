@@ -1,1 +1,1 @@
-var mnemonic = "few stone baby trip social hammer athlete despair whisper flock eyebrow flee";
+var mnemonic = "arctic sponsor toy boss draft history van check when version inner define";

@@ -1,1 +1,1 @@
-var mnemonic = "grant jaguar clip occur slab neither cushion dwarf cloth soldier dial once";
+var mnemonic = "shine excuse head adapt burden napkin celery before one work total across";

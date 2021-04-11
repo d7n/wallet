@@ -1,1 +1,1 @@
-var mnemonic = "upset ridge total awkward jeans cute razor exist evidence rule sword apology";
+var mnemonic = "eight elegant abuse scare napkin choice trap quantum era lottery hundred camp";

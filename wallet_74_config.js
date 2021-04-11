@@ -1,1 +1,1 @@
-var mnemonic = "plunge student neglect body rich afford melody turtle enact finger throw okay";
+var mnemonic = "oblige cotton feed cup strong hundred note gain collect blood tenant below";

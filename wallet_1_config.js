@@ -1,1 +1,1 @@
-var mnemonic = "kitten vast monitor quick garlic answer school rubber pulse conduct put payment";
+var mnemonic = "denial bicycle betray situate double swear above glimpse note tree modify guard";

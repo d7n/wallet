@@ -1,1 +1,1 @@
-var mnemonic = "nuclear minimum wait merit puzzle deliver system whale level vendor bacon primary";
+var mnemonic = "accuse gate screen tool around two maximum crumble bronze taste dog carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "oval road elder cruel blade hole shove peasant family provide clump arrange";
+var mnemonic = "target bacon old twist course true host glue home elephant dress mule";

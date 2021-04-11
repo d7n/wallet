@@ -1,1 +1,1 @@
-var mnemonic = "riot pink original victory income sand weekend manual pride mountain alone catch";
+var mnemonic = "advice balcony zoo junior token rice lake recycle segment analyst cheap tobacco";

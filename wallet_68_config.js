@@ -1,1 +1,1 @@
-var mnemonic = "mask barely naive hen visit promote admit flame edit option south half";
+var mnemonic = "lamp ocean mercy comic wreck empower gas lesson lend shine grocery denial";

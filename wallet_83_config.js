@@ -1,1 +1,1 @@
-var mnemonic = "top claim region globe analyst forum during seed chief unlock mad farm";
+var mnemonic = "either knife vivid laptop ankle civil pole voice jeans burden cave side";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle dress receive torch obtain follow rack essence law bless immense thought";
+var mnemonic = "reason verify heavy stereo hip arm still remove shrug door bean gain";

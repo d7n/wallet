@@ -1,1 +1,1 @@
-var mnemonic = "joke you sweet guess wealth detail purse below current entry axis expire";
+var mnemonic = "nerve tackle urban crazy glide oyster purpose escape cause seminar erode text";

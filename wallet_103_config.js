@@ -1,1 +1,1 @@
-var mnemonic = "hood midnight soldier country hockey olive grow cream vacuum laptop actor foil";
+var mnemonic = "crime judge little knife suit isolate jealous lunar demand notable fix laugh";

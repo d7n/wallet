@@ -1,1 +1,1 @@
-var mnemonic = "spatial robust betray drastic maid mind hair rabbit doll produce measure punch";
+var mnemonic = "access crumble transfer silly oblige horror quarter behave disease picnic final element";

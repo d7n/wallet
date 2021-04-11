@@ -1,1 +1,1 @@
-var mnemonic = "gift cliff arrest comfort fresh sight sausage half melody penalty potato feel";
+var mnemonic = "mad infant wreck record ritual burger usual fluid laptop hover pioneer rookie";

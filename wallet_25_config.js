@@ -1,1 +1,1 @@
-var mnemonic = "divide season maple nerve flower version dune loan park know legal deny";
+var mnemonic = "pelican wrestle victory sell crumble divorce giraffe pledge mobile vehicle strategy couch";

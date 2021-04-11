@@ -1,1 +1,1 @@
-var mnemonic = "wheat blue marriage grocery biology cloud gravity allow final apart envelope web";
+var mnemonic = "surround deputy put praise bright average shadow leisure sauce purpose minimum enhance";

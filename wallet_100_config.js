@@ -1,1 +1,1 @@
-var mnemonic = "coil jaguar museum soul lift junk absent throw you nation mixed planet";
+var mnemonic = "defy leopard rent wash unable century tired help flower enable give impulse";

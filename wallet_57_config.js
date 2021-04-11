@@ -1,1 +1,1 @@
-var mnemonic = "brisk super flash aunt picnic cause pond wrist update turtle setup six";
+var mnemonic = "maid mercy tower half concert pizza bounce warfare provide maze improve toast";

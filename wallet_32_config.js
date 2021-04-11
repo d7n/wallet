@@ -1,1 +1,1 @@
-var mnemonic = "six feature cargo enough element hint chronic uniform estate tiny dirt bamboo";
+var mnemonic = "tattoo south hole panel horse gossip occur cotton sun remember truck stadium";

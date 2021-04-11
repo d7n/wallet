@@ -1,1 +1,1 @@
-var mnemonic = "memory theory vacuum banana wrestle frog bubble quarter shove near age enable";
+var mnemonic = "impose fresh rabbit harbor talk sport south addict pulse punch fork adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "hero asset earth exact slab sponsor place wrestle hammer anger horror grunt";
+var mnemonic = "forget sail drive fresh hunt stairs yellow reduce review moon shaft what";

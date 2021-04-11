@@ -1,1 +1,1 @@
-var mnemonic = "release critic fiction moment exit series liar thing suffer tornado tackle climb";
+var mnemonic = "camp paddle model whisper pupil various pilot legal poverty image august narrow";

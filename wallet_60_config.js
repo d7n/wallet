@@ -1,1 +1,1 @@
-var mnemonic = "receive panther rival wheel tray impose art armed word science sight elite";
+var mnemonic = "ski surprise warm exchange quality rent birth exhaust tongue business success bachelor";

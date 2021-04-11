@@ -1,1 +1,1 @@
-var mnemonic = "push radar average fine spin purity alarm aunt lazy stairs abandon stable";
+var mnemonic = "post jeans cattle screen august poverty junior height grunt cheese fiber observe";

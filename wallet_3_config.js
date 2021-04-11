@@ -1,1 +1,1 @@
-var mnemonic = "relief gravity tide chimney park current debate across clip give improve uniform";
+var mnemonic = "license talent confirm risk valley usage sunny isolate bag major pencil marriage";

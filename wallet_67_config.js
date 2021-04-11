@@ -1,1 +1,1 @@
-var mnemonic = "detail oven wool coyote village thing buzz wreck rebel warrior abstract alpha";
+var mnemonic = "churn impose truck bag gather absent across useful use defense utility light";

@@ -1,1 +1,1 @@
-var mnemonic = "since hard artwork lava three say champion castle talent embrace pear toddler";
+var mnemonic = "use sugar december live surround phrase frame crush transfer test extend easily";

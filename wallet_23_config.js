@@ -1,1 +1,1 @@
-var mnemonic = "purse gallery latin clutch flavor runway border element vanish siege garbage cat";
+var mnemonic = "width floor fantasy sort rib digital volcano cool survey birth farm zebra";

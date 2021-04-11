@@ -1,1 +1,1 @@
-var mnemonic = "north tail slam flight fish decade box possible filter rib whale debate";
+var mnemonic = "coach embody void chalk split chunk bachelor blush meadow motor unique famous";

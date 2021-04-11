@@ -1,1 +1,1 @@
-var mnemonic = "display ethics differ popular noise van raccoon luggage thought split nation visual";
+var mnemonic = "sugar slender field until mobile clutch torch crouch produce wage legal three";

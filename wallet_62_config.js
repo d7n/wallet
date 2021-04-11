@@ -1,1 +1,1 @@
-var mnemonic = "quit rescue erode estate woman guide easily balance oven online squirrel weekend";
+var mnemonic = "begin hospital rubber swift lawn flat peanut whip devote indoor shuffle card";

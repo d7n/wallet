@@ -1,1 +1,1 @@
-var mnemonic = "faculty foil verify soda output place bulb begin mention keen summer cupboard";
+var mnemonic = "bleak tragic punch click panda inflict vacant organ wall mean elbow whip";

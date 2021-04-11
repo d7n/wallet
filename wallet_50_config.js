@@ -1,1 +1,1 @@
-var mnemonic = "essence spread fence ostrich capital brisk swallow sun pudding arch run labor";
+var mnemonic = "tilt monster pact disagree siege outside sorry turn way lecture host kick";

@@ -1,1 +1,1 @@
-var mnemonic = "state fence nurse squeeze problem fold adapt monitor early trade manual indoor";
+var mnemonic = "drama party mouse donkey dentist runway wreck divide junior maid struggle sadness";

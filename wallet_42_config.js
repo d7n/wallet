@@ -1,1 +1,1 @@
-var mnemonic = "month lucky pretty utility dress control salmon file beach derive parade loan";
+var mnemonic = "reduce room core salt drink comic matter suggest cage shell sign upon";

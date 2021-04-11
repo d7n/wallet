@@ -1,1 +1,1 @@
-var mnemonic = "spider amazing hand stand mirror truth echo when average input achieve place";
+var mnemonic = "deal federal worth cute fortune stereo music hire guitar wave area actual";

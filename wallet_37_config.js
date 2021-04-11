@@ -1,1 +1,1 @@
-var mnemonic = "play six future photo sleep cushion must truth people coconut buyer carry";
+var mnemonic = "sure ill alter blush sniff notable elephant cook sea wild angle symptom";

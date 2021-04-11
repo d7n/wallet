@@ -1,1 +1,1 @@
-var mnemonic = "resource abuse where bronze beef grab dove satoshi range glue theory more";
+var mnemonic = "carbon year truth lonely arrive hope ecology wool evil random hazard toward";

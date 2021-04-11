@@ -1,1 +1,1 @@
-var mnemonic = "various spice require visit food depth medal casual weasel above salon amazing";
+var mnemonic = "rack oil style float fun forget apology issue topple stamp flame emotion";

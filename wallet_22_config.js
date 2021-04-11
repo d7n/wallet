@@ -1,1 +1,1 @@
-var mnemonic = "wrong fragile accuse addict fade narrow scrub acoustic luxury amount mansion tool";
+var mnemonic = "aisle bacon apple glance indoor idle helmet spring brick prosper marine liquid";

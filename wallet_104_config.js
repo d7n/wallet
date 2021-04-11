@@ -1,1 +1,1 @@
-var mnemonic = "few predict know panel choose sentence fruit dress attract shield crush off";
+var mnemonic = "boat brand say wise grief barely master already human popular aisle gym";

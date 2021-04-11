@@ -1,1 +1,1 @@
-var mnemonic = "appear canal plate vast mimic note attend pulse maple roast among copper";
+var mnemonic = "click person suffer general bamboo wisdom relax behind barely space key renew";

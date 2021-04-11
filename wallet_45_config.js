@@ -1,1 +1,1 @@
-var mnemonic = "debate trick actor draft jaguar used cave man replace hurry educate real";
+var mnemonic = "medal limb intact where letter adult urban chair settle device edge emotion";

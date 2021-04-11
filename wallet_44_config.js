@@ -1,1 +1,1 @@
-var mnemonic = "chunk glance confirm rib mosquito wear before stadium draw loud monkey party";
+var mnemonic = "film innocent regular agree load cluster rigid chaos nose rain object any";

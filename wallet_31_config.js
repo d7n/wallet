@@ -1,1 +1,1 @@
-var mnemonic = "hip blue humor social sheriff advance hawk fragile switch radar panic license";
+var mnemonic = "jeans view before leave blood canal empty guide suit lunar chest eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "service rule act winter critic express abuse into rocket true combine parade";
+var mnemonic = "dwarf confirm tenant rare public diet warm jazz awesome almost knife track";

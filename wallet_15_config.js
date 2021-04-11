@@ -1,1 +1,1 @@
-var mnemonic = "pizza alcohol flock economy trend diary faint approve evoke grocery jaguar small";
+var mnemonic = "aerobic cost latin stem lemon home bulk game weasel kit battle earn";

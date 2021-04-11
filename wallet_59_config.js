@@ -1,1 +1,1 @@
-var mnemonic = "public pear ugly soon ketchup decide lobster minute hurry employ notable area";
+var mnemonic = "moon liar divide genre one eyebrow cotton cook faculty engine true pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy crew actor marriage estate torch erode orient spring deposit cinnamon flower";
+var mnemonic = "ripple human daughter trash age motor shift hybrid write home lemon aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "famous monitor junior silent cushion night intact salute extra hair merry dice";
+var mnemonic = "melody orient frame neutral dutch silver flame bubble syrup aerobic lyrics echo";

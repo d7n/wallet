@@ -1,1 +1,1 @@
-var mnemonic = "menu push canoe gown surge neutral fuel isolate innocent glow pumpkin cat";
+var mnemonic = "lend pattern romance key plate city loop because west canyon select attack";

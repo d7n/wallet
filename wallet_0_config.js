@@ -1,1 +1,1 @@
-var mnemonic = "radar health pencil mushroom fruit inherit indicate recall travel pet crouch chase";
+var mnemonic = "cup judge forget spice echo armed simple account stem home sweet scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "inform tomorrow cycle blossom ensure sudden become actress cream case filter basic";
+var mnemonic = "awkward awful scale fly foil want mistake travel maze duty peasant thing";

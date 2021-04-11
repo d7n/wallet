@@ -1,1 +1,1 @@
-var mnemonic = "any puppy fabric abandon zoo pool castle ride ignore holiday enact arrow";
+var mnemonic = "reopen hospital source scare road predict term little asset solid language poem";

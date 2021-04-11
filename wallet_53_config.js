@@ -1,1 +1,1 @@
-var mnemonic = "setup cube hospital cost blame inch pink system hint battle kingdom chronic";
+var mnemonic = "velvet movie inch height solid caution account claw nuclear demise odor usage";

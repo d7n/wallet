@@ -1,1 +1,1 @@
-var mnemonic = "tiger umbrella valley allow quarter kiss patrol power device success actual tonight";
+var mnemonic = "million fault tilt shallow hire roast eyebrow parade yellow web spread suspect";

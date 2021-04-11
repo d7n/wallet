@@ -1,1 +1,1 @@
-var mnemonic = "person monkey flag tragic artwork universe rigid fiber one type transfer crop";
+var mnemonic = "crazy inner baby float lens sniff opinion trade barely load noise access";

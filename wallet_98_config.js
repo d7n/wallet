@@ -1,1 +1,1 @@
-var mnemonic = "awful heart stomach logic gift always demise diagram prize knee car cross";
+var mnemonic = "sign book seat mirror future panther busy hope ghost return boring corn";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet have rice grit valid arrange barrel detect ostrich spy clog endorse";
+var mnemonic = "dice risk theme scout horror merry fresh finish piano smile broccoli potato";

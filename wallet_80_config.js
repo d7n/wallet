@@ -1,1 +1,1 @@
-var mnemonic = "input tumble tomato woman drama summer vapor vessel demise stem gate bright";
+var mnemonic = "vital install general blouse old luggage path short memory wild huge crew";

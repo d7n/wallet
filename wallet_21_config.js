@@ -1,1 +1,1 @@
-var mnemonic = "usage fold fade concert off marble repair script flush token gas try";
+var mnemonic = "fox carpet cost midnight monkey path bone work arch rhythm exercise birth";
