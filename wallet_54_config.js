@@ -1,1 +1,1 @@
-var mnemonic = "proof burger scare valve shock illegal memory destroy pill vacuum cousin oven";
+var mnemonic = "obscure spread famous author crime noodle gadget wrap leisure afford market alley";

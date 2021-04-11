@@ -1,1 +1,1 @@
-var mnemonic = "camera excuse airport pen hire matter electric fat result blur thought quiz";
+var mnemonic = "minute sorry rich shiver solution glare notice fossil stay decline coil gloom";

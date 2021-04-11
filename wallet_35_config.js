@@ -1,1 +1,1 @@
-var mnemonic = "language love damp doctor flee term chair sheriff glare camera team material";
+var mnemonic = "hint gaze casino blossom festival wedding squirrel humor glimpse fossil snake library";

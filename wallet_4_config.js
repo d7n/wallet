@@ -1,1 +1,1 @@
-var mnemonic = "hour public hip wife true citizen party tattoo entire foster horn robot";
+var mnemonic = "traffic crazy ripple neglect seek kingdom actor thrive dance one until crime";

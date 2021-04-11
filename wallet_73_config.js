@@ -1,1 +1,1 @@
-var mnemonic = "crawl link faith all repeat devote vapor domain fault mother source stuff";
+var mnemonic = "toe risk icon skill code elbow slab boy loyal pave census romance";

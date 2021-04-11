@@ -1,1 +1,1 @@
-var mnemonic = "rebel million distance jungle boss wash dress slender train vibrant torch seminar";
+var mnemonic = "family hub celery say finger cost offer cement need seek cake leopard";

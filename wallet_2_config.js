@@ -1,1 +1,1 @@
-var mnemonic = "juice this marine guitar casual choice airport certain genuine prevent burger unaware";
+var mnemonic = "blouse east check spice drastic water bulb innocent cook march silk adjust";

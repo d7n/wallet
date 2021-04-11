@@ -1,1 +1,1 @@
-var mnemonic = "assist inflict hybrid fun boy chief habit convince goat happy kiss middle";
+var mnemonic = "license obvious soon avocado among night slight enforce impact gentle kangaroo cabbage";

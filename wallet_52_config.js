@@ -1,1 +1,1 @@
-var mnemonic = "drastic security explain empty solution diagram shoot size stairs welcome minute joke";
+var mnemonic = "human zone vehicle state loyal ridge shrug always coral sudden shrug sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "position program crack evoke right time give fade cabbage approve table ozone";
+var mnemonic = "age knife oyster wing north radar trumpet pilot million chase voice simple";

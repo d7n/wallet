@@ -1,1 +1,1 @@
-var mnemonic = "crop always smart toast sight enact frost hood multiply damage knee grain";
+var mnemonic = "ensure merry eager giant palm album wish license enemy forum catalog two";

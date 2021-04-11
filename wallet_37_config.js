@@ -1,1 +1,1 @@
-var mnemonic = "blush ski palace glare dynamic position occur clog tuna ethics cheap fiscal";
+var mnemonic = "check aspect gaze basket spell armor clerk august age salad upon gentle";

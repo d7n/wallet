@@ -1,1 +1,1 @@
-var mnemonic = "sound empty prefer dumb cheese chair believe toss globe join cabin cement";
+var mnemonic = "dwarf involve robust squeeze save picture weekend lyrics accuse modify melody dream";

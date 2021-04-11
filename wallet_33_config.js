@@ -1,1 +1,1 @@
-var mnemonic = "wife engine home lift moral winner army length sleep horn right tray";
+var mnemonic = "patch badge trip agree camera lock diamond arrive trade coyote assist weasel";

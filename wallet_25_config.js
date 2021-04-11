@@ -1,1 +1,1 @@
-var mnemonic = "guitar hand notable garment copper physical common diagram resist rural fine apple";
+var mnemonic = "knock argue tribe uphold piano erosion until august badge citizen penalty sausage";

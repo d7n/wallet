@@ -1,1 +1,1 @@
-var mnemonic = "soup ketchup image relief speed deny draw area once time barely link";
+var mnemonic = "rare donate among discover museum wrong fee audit gorilla own island organ";

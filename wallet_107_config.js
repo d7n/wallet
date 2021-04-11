@@ -1,1 +1,1 @@
-var mnemonic = "purse weasel giant coyote current simple impose witness athlete vast air deputy";
+var mnemonic = "theory hold pizza calm taste marine noise style young tent slice scale";

@@ -1,1 +1,1 @@
-var mnemonic = "approve gas drip bright mango security patrol spin leader strong buffalo wedding";
+var mnemonic = "act bulk speak balance polar opinion grant bone proof click theory citizen";

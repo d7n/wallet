@@ -1,1 +1,1 @@
-var mnemonic = "sister power music flash endorse swarm vapor decade dad between delay scatter";
+var mnemonic = "physical muffin energy divide crater fly fan copy output slogan sister rude";

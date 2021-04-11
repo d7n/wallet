@@ -1,1 +1,1 @@
-var mnemonic = "garage audit shallow pear leg light balcony angle business ordinary rule business";
+var mnemonic = "sea joy domain juice junk tomorrow upset drill six network spoil seed";

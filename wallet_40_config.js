@@ -1,1 +1,1 @@
-var mnemonic = "meadow puppy gauge detail food word eye auction card tuna include fresh";
+var mnemonic = "business core gap endless figure jaguar lamp finger early medal romance toy";

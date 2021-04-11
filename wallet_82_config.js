@@ -1,1 +1,1 @@
-var mnemonic = "palm give cave second neglect trend grow noise receive book gift job";
+var mnemonic = "scrub oppose cart course other dawn rebel reason steel globe canal pupil";

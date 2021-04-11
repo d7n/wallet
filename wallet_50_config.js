@@ -1,1 +1,1 @@
-var mnemonic = "gap distance pepper hour gym flag combine reunion remind wire music pistol";
+var mnemonic = "random jazz fantasy cause hold leaf mosquito pelican cushion treat guess gather";

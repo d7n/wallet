@@ -1,1 +1,1 @@
-var mnemonic = "rose virus quarter two physical cargo country warfare canal dice neutral romance";
+var mnemonic = "inspire diagram cherry grief myself silver heart dignity choice sun fat slender";

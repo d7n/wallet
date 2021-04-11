@@ -1,1 +1,1 @@
-var mnemonic = "picture submit ski drip fall delay parrot canvas unusual raise dance reopen";
+var mnemonic = "rookie deposit stone session scene fire intact chat salon rely shrug grain";

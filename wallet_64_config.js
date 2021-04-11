@@ -1,1 +1,1 @@
-var mnemonic = "angry spoon lazy lecture talent fatigue input gas work cycle subway earth";
+var mnemonic = "any below water athlete together cross mention present corn property comic destroy";

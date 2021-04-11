@@ -1,1 +1,1 @@
-var mnemonic = "spatial govern congress push exact dust cube pudding price device produce bubble";
+var mnemonic = "shoulder wear fluid later outside copper canoe reopen broken next shrug hammer";

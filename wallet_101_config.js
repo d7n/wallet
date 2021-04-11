@@ -1,1 +1,1 @@
-var mnemonic = "action final ordinary write ugly hint weasel bench old borrow comic october";
+var mnemonic = "please defense head face erupt park account rookie total enrich appear black";

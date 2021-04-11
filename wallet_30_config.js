@@ -1,1 +1,1 @@
-var mnemonic = "usage try squeeze spin enforce blast neck polar feel clip then pluck";
+var mnemonic = "dragon category tunnel axis drift into truth layer used enough blush maximum";

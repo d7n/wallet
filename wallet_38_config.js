@@ -1,1 +1,1 @@
-var mnemonic = "patch maple size panic verify fox sense good just they acid total";
+var mnemonic = "regret doctor expire twist rabbit runway section salt erode uphold drill deliver";

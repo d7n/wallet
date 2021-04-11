@@ -1,1 +1,1 @@
-var mnemonic = "harvest wave tattoo print gloom hole between seat toast violin belt flush";
+var mnemonic = "crazy parrot capital shop order come divorce rude nothing march staff erupt";

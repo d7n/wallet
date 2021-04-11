@@ -1,1 +1,1 @@
-var mnemonic = "please hub scissors main observe audit hamster spray limb snow drink vicious";
+var mnemonic = "fringe asset often later menu siren very nephew twelve funny mosquito tissue";

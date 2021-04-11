@@ -1,1 +1,1 @@
-var mnemonic = "try attitude pepper insect call bitter split future lounge walnut service crumble";
+var mnemonic = "law decline outside chair dash deposit moment age cat dignity movie knock";

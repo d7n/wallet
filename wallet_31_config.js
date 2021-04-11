@@ -1,1 +1,1 @@
-var mnemonic = "indicate dune benefit expect slice ask today style betray trick wonder brisk";
+var mnemonic = "parade stairs tooth dawn assist tag since perfect coconut search dolphin ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "consider choice toward tourist arm always laugh version stove glue speed roast";
+var mnemonic = "casino order uphold seven pitch badge conduct spell cousin liberty lounge reopen";

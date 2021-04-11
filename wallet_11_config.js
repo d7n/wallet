@@ -1,1 +1,1 @@
-var mnemonic = "account umbrella more pioneer gaze involve goose flip chief route fossil canyon";
+var mnemonic = "now cherry unit grit coral rug slab gasp coach girl vapor gate";

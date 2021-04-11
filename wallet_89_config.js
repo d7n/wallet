@@ -1,1 +1,1 @@
-var mnemonic = "oblige stand sock mouse early name wisdom annual decrease damp mutual hole";
+var mnemonic = "mirror feel name robust asset casual hurdle repeat gather attract reduce evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "battle sort dish boat wheat process edit wine trial banana swear book";
+var mnemonic = "leg solid unveil false group subject gasp fine kidney unhappy style coffee";

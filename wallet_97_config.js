@@ -1,1 +1,1 @@
-var mnemonic = "tool concert grain attend priority found tuna gun protect nurse sense main";
+var mnemonic = "burden edit decorate couple when swarm shove cart body torch session soft";

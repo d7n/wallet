@@ -1,1 +1,1 @@
-var mnemonic = "blind fancy lake scale push pet dynamic ensure funny check nasty order";
+var mnemonic = "invest clarify lab mystery second mosquito shoe force ivory security credit write";

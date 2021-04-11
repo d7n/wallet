@@ -1,1 +1,1 @@
-var mnemonic = "edge repair upgrade civil fan prefer roast misery try tent possible crunch";
+var mnemonic = "urge vacant amateur witness grace boil egg situate drama drum laptop mercy";

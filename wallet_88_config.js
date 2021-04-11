@@ -1,1 +1,1 @@
-var mnemonic = "load genre monkey hurt disorder wool measure midnight grab enhance fruit talent";
+var mnemonic = "surface vehicle target airport token clip embrace feed vocal lion attitude tunnel";

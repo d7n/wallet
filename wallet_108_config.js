@@ -1,1 +1,1 @@
-var mnemonic = "ritual all garden angry long inside change side tank paper figure mistake";
+var mnemonic = "oppose motor emotion weather sort under taxi grow carry imitate sunset tag";

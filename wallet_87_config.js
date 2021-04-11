@@ -1,1 +1,1 @@
-var mnemonic = "loop armed erosion indicate input kit host concert direct actress scheme ocean";
+var mnemonic = "lake soldier crop month garden fade noble matrix vote man spin equip";

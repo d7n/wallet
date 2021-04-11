@@ -1,1 +1,1 @@
-var mnemonic = "hill aim stage skill glow youth inside arrive easily plug attitude focus";
+var mnemonic = "trigger box helmet include swear taxi expire vocal scan sample hold distance";

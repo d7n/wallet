@@ -1,1 +1,1 @@
-var mnemonic = "govern cactus crouch assume garage able dignity answer globe style million beef";
+var mnemonic = "choose favorite tag mutual fresh embrace ski kit busy skill habit demise";

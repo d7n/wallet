@@ -1,1 +1,1 @@
-var mnemonic = "hip expect derive debate penalty turkey nice pencil clump car boring erupt";
+var mnemonic = "mountain elegant initial olympic number mother wide build ahead isolate upgrade piano";

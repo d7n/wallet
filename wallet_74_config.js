@@ -1,1 +1,1 @@
-var mnemonic = "unique boss stumble shuffle iron transfer dance spy deny elevator more project";
+var mnemonic = "interest cousin south all hat silly top author page palace approve pet";

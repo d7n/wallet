@@ -1,1 +1,1 @@
-var mnemonic = "cradle marriage desk input ceiling plastic leaf deer nothing pair wrap total";
+var mnemonic = "define ride reject oak always cousin dismiss stone feature pony scan casino";

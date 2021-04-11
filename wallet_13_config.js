@@ -1,1 +1,1 @@
-var mnemonic = "vessel track actor broccoli siege twelve vague pride possible glance bleak section";
+var mnemonic = "add fatigue betray emerge benefit friend system cupboard stumble furnace roast near";

@@ -1,1 +1,1 @@
-var mnemonic = "stage universe unique youth exist letter crush culture reason endless song observe";
+var mnemonic = "zebra weekend neither vacant wave drum nation palace section six trend distance";

@@ -1,1 +1,1 @@
-var mnemonic = "control humor neutral hammer enrich eye develop ozone ivory hour submit dice";
+var mnemonic = "clip corn small unfold anchor prepare refuse valley dignity vocal demand capital";

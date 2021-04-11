@@ -1,1 +1,1 @@
-var mnemonic = "ozone client west mimic erase blouse cloud outdoor first menu cannon salon";
+var mnemonic = "fancy able patient obscure spatial project obey hair dynamic sleep gloom display";

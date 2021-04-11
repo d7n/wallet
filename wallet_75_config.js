@@ -1,1 +1,1 @@
-var mnemonic = "solution diet normal measure volume gather later hill inquiry suffer layer lottery";
+var mnemonic = "canoe else cart index turtle copy almost creek resemble word daring amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "armed rate predict vanish kind battle liquid tide copper endless shed place";
+var mnemonic = "garage cupboard board apple mix chair control club cabbage deliver arrange emotion";

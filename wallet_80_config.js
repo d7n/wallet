@@ -1,1 +1,1 @@
-var mnemonic = "art wrap opera brief pet olympic alien little reason carpet fatal fluid";
+var mnemonic = "page bench glass main fall panel double noodle swim beauty screen flight";

@@ -1,1 +1,1 @@
-var mnemonic = "vast banner canyon when basic object negative column decade planet bar draw";
+var mnemonic = "opinion cheese amateur bitter aisle flash wash cool present perfect long industry";

@@ -1,1 +1,1 @@
-var mnemonic = "salt detect source dad science sword flight symptom patrol theme pond aunt";
+var mnemonic = "grab dumb brief bicycle inmate pottery talent poverty milk jump sell reunion";

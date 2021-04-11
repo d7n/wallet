@@ -1,1 +1,1 @@
-var mnemonic = "net puppy exist stay pyramid spice hill else try credit benefit erosion";
+var mnemonic = "culture tortoise struggle rely useless erupt cigar thought host similar panic heart";

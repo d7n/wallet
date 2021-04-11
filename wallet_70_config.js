@@ -1,1 +1,1 @@
-var mnemonic = "admit swing salad version wisdom success soon behave pitch paper tragic cause";
+var mnemonic = "invest barrel there assume fruit essay helmet under exhibit armor scatter gallery";

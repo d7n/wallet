@@ -1,1 +1,1 @@
-var mnemonic = "cash drip decide own birth debate violin prize benefit account cargo future";
+var mnemonic = "wheel barrel diesel sight luxury belt habit raise swift wrist seminar quit";

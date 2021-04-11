@@ -1,1 +1,1 @@
-var mnemonic = "total action copy rich slim dose loud lawn quarter cargo scheme kit";
+var mnemonic = "race square happy brain code trend post anger language project tongue visual";

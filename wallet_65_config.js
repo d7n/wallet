@@ -1,1 +1,1 @@
-var mnemonic = "bar zoo meadow gorilla leaf jealous hen amazing raise arctic major limit";
+var mnemonic = "leave lake salmon tragic fetch seminar plug fragile end injury clay repair";

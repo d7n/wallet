@@ -1,1 +1,1 @@
-var mnemonic = "pill firm dragon engage mesh stage hungry enjoy flag where ivory bullet";
+var mnemonic = "stumble inquiry custom shoe chalk ecology diagram calm survey family double car";

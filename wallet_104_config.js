@@ -1,1 +1,1 @@
-var mnemonic = "fame return brief atom between gauge worry arena match fitness slab afraid";
+var mnemonic = "cheese coin chaos sadness staff hood tip film suffer debris license museum";

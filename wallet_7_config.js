@@ -1,1 +1,1 @@
-var mnemonic = "index extend diet acquire recycle this choose bridge curious swing fall boil";
+var mnemonic = "bottom attract grant gauge insane repair razor gate churn index tornado interest";

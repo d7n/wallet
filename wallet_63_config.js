@@ -1,1 +1,1 @@
-var mnemonic = "letter load ethics acquire list clog family badge satoshi flock crater survey";
+var mnemonic = "timber dinner front topic useless unlock waste toss very casino inch decline";

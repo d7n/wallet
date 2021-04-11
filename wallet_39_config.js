@@ -1,1 +1,1 @@
-var mnemonic = "east wise hair song artwork control rally spider reward advance salmon empty";
+var mnemonic = "supreme music before swamp sweet weather flight lonely result transfer art proud";

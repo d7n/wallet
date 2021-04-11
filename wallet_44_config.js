@@ -1,1 +1,1 @@
-var mnemonic = "collect idea excuse blush spatial pond learn yellow elbow unable crime thing";
+var mnemonic = "uncle net wrap prevent grid benefit card mouse moon usage cry avoid";

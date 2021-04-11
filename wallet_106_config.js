@@ -1,1 +1,1 @@
-var mnemonic = "cruise hobby potato accuse road race shoulder divide differ decade assist fashion";
+var mnemonic = "thank course cube open across betray elite maid deposit april access chase";

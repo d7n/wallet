@@ -1,1 +1,1 @@
-var mnemonic = "attitude force gossip arrive prize claim donate path destroy submit evil ready";
+var mnemonic = "rail rose zone solution switch slab deer predict riot forward under garbage";

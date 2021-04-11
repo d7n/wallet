@@ -1,1 +1,1 @@
-var mnemonic = "solution cause famous unlock scout glass fantasy happy nerve ill core appear";
+var mnemonic = "fringe merit emerge vocal narrow frozen rocket second ten chief bacon treat";

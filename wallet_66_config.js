@@ -1,1 +1,1 @@
-var mnemonic = "champion hire equal skin pilot adjust crush betray toddler omit cactus fire";
+var mnemonic = "mixed extend giggle advance remove position soda museum vanish opinion title call";

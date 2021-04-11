@@ -1,1 +1,1 @@
-var mnemonic = "wonder enable ocean embrace retire flash twenty decorate genuine bus wrap isolate";
+var mnemonic = "song already unusual rigid permit lonely hidden release practice live mobile prepare";

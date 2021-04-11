@@ -1,1 +1,1 @@
-var mnemonic = "recall close panic machine goat fossil quiz bus used claw solar axis";
+var mnemonic = "crisp duck lawsuit during lucky size pulse artefact client glove borrow weather";

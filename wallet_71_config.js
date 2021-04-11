@@ -1,1 +1,1 @@
-var mnemonic = "chief absent salute keep mixed make year cigar tourist repeat mask blood";
+var mnemonic = "live hub enhance blouse puzzle exit poem price leave goddess almost custom";

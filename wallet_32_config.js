@@ -1,1 +1,1 @@
-var mnemonic = "concert intact burger awake neck impulse device pottery nice phone shine brick";
+var mnemonic = "globe shock child shoot dad answer hero cabin risk oven book belt";

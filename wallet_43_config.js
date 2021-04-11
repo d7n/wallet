@@ -1,1 +1,1 @@
-var mnemonic = "clown school gorilla analyst mule ribbon tube wool heavy cruise express cheap";
+var mnemonic = "friend sense monkey multiply fringe receive ivory vendor okay board winter save";

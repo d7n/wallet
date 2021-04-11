@@ -1,1 +1,1 @@
-var mnemonic = "boost execute model reopen sword switch fitness derive attitude woman edge innocent";
+var mnemonic = "term cook trigger arena story camp fever pair ignore way obey wave";

@@ -1,1 +1,1 @@
-var mnemonic = "royal brisk domain path tag obscure assault citizen live age frequent unlock";
+var mnemonic = "current raven afraid emerge connect level scan metal spy slow paper patch";

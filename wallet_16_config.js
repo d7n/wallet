@@ -1,1 +1,1 @@
-var mnemonic = "rabbit man talent satisfy hedgehog seed museum library luggage rhythm skill era";
+var mnemonic = "tower blood property peasant length song above health trade dumb glimpse evil";

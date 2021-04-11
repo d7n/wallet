@@ -1,1 +1,1 @@
-var mnemonic = "six duck example analyst major frog boss stereo method turtle air census";
+var mnemonic = "tunnel destroy become silly stuff dolphin target quick favorite between lady convince";

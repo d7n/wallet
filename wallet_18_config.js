@@ -1,1 +1,1 @@
-var mnemonic = "sign consider kick crumble price spread narrow guilt leaf vital couch yard";
+var mnemonic = "find leaf alley wave yellow relax mind office margin lion industry amused";

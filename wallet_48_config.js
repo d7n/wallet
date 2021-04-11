@@ -1,1 +1,1 @@
-var mnemonic = "gravity pottery stumble patch excite enemy sure squeeze field history violin ahead";
+var mnemonic = "wrong alarm auction rather swarm aunt source young body since junk label";

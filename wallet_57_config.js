@@ -1,1 +1,1 @@
-var mnemonic = "pizza arm heavy rule fortune file space hawk ethics way disagree medal";
+var mnemonic = "inside knock voice teach ramp virtual armed theory dad hand coconut axis";

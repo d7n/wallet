@@ -1,1 +1,1 @@
-var mnemonic = "certain board base student narrow behind inspire accuse scene close cloud skate";
+var mnemonic = "abuse leisure crop burst state rubber draw fork offer void decorate camera";

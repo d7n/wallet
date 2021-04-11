@@ -1,1 +1,1 @@
-var mnemonic = "torch brand fatigue fox surface promote acquire power skate rabbit bus excess";
+var mnemonic = "inflict tenant flip outer wish conduct code involve stick olive table license";

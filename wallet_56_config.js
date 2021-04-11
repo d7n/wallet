@@ -1,1 +1,1 @@
-var mnemonic = "benefit toe century select cabbage thumb final divide acquire shell gain mimic";
+var mnemonic = "gadget review thought tortoise casual account typical soldier walk fluid waste elite";

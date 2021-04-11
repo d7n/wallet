@@ -1,1 +1,1 @@
-var mnemonic = "find funny hamster swallow kangaroo motion awkward trend open more distance humble";
+var mnemonic = "across brain birth volcano when shove arm rent summer elite urban wire";

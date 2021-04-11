@@ -1,1 +1,1 @@
-var mnemonic = "scissors wash deny helmet envelope wrong wall nasty problem wish suggest funny";
+var mnemonic = "equip decade warfare delay sure off depend address domain reopen involve pitch";

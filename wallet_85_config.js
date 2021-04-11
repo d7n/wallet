@@ -1,1 +1,1 @@
-var mnemonic = "shift reason often stumble foil gown useful alarm myself genre either express";
+var mnemonic = "plunge alone flip inhale lawn section above fatigue giant fiction infant puzzle";
