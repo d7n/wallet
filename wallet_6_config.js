@@ -1,1 +1,1 @@
-var mnemonic = "buffalo bridge sure panel noise skate arch buzz hour life artefact armor";
+var mnemonic = "recall soldier pledge offer vendor loud current purpose rebuild mystery below sponsor";

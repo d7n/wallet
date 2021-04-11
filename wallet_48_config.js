@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog monitor sauce doctor turtle elevator business remove broom miracle name float";
+var mnemonic = "skirt method story thought govern early never mimic waste stand galaxy silver";

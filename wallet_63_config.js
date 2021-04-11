@@ -1,1 +1,1 @@
-var mnemonic = "length spirit manage cruel final ivory grain bottom deer fit focus mosquito";
+var mnemonic = "mutual ethics someone orient remove cement act armor sunset gesture crucial super";

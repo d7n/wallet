@@ -1,1 +1,1 @@
-var mnemonic = "need income front again width early coconut exchange wasp aisle nice furnace";
+var mnemonic = "ceiling spend general fossil note cause bundle latin couch tube receive rifle";

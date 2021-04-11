@@ -1,1 +1,1 @@
-var mnemonic = "useless what comfort scorpion car truck sustain cheap apology ostrich twenty saddle";
+var mnemonic = "ecology cricket trouble real pluck force skin wheat clean spell anger faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm proof village proof destroy hello feature humble thunder bind weather daring";
+var mnemonic = "skull butter destroy lamp tell age wide inmate peanut outside kingdom concert";

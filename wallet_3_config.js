@@ -1,1 +1,1 @@
-var mnemonic = "horn program derive robot wink sudden solar lottery field scheme amazing sniff";
+var mnemonic = "check zoo crunch please easily trap fame property palm cage item sad";

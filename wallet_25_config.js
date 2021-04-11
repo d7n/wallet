@@ -1,1 +1,1 @@
-var mnemonic = "child claim foam venue museum fortune tower badge husband spatial arctic cable";
+var mnemonic = "burst space mosquito sell among flag marriage abstract anxiety spirit destroy rigid";

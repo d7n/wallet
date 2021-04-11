@@ -1,1 +1,1 @@
-var mnemonic = "dynamic filter voyage stereo evoke stage tourist arctic bargain defy unusual regular";
+var mnemonic = "beyond around carbon deny evolve appear future critic merge repair clean wisdom";

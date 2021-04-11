@@ -1,1 +1,1 @@
-var mnemonic = "brush wash design panic approve two wink rural one tribe maid have";
+var mnemonic = "island order turn shadow cross poverty clarify auto minor imitate rough salt";

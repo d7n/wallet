@@ -1,1 +1,1 @@
-var mnemonic = "dog fit enter cricket coyote desk kitten assume accuse shiver danger lunar";
+var mnemonic = "crystal differ census judge senior pyramid regret report long evil skate convince";

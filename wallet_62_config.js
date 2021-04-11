@@ -1,1 +1,1 @@
-var mnemonic = "bus catalog celery glad brick push man exercise galaxy teach tank able";
+var mnemonic = "economy travel owner lend weekend pig drive kiwi capital tragic choice endorse";

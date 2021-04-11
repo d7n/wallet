@@ -1,1 +1,1 @@
-var mnemonic = "idle argue walnut between diesel blue cabin near lobster expand valve common";
+var mnemonic = "luxury cluster tornado you fame shuffle bulk clinic scatter audit faint what";

@@ -1,1 +1,1 @@
-var mnemonic = "kit sail tone girl cry inherit meadow again squeeze lab palace wrong";
+var mnemonic = "cover few broom faint document atom update manual very dash arrive all";

@@ -1,1 +1,1 @@
-var mnemonic = "scan middle satoshi laugh cigar half input cherry eager depend exist banana";
+var mnemonic = "cover hen truth danger lyrics note wrap meat dolphin weekend supreme key";

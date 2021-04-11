@@ -1,1 +1,1 @@
-var mnemonic = "much rent awake smart spare wood lunch shove borrow marriage settle option";
+var mnemonic = "march daring upper repeat put trade sting leader cupboard apart dune siege";

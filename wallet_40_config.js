@@ -1,1 +1,1 @@
-var mnemonic = "situate cloud blush chuckle bamboo buddy enough waste burden crash habit wear";
+var mnemonic = "snake siren away jungle general exact lumber list lens print six unaware";

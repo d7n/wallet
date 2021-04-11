@@ -1,1 +1,1 @@
-var mnemonic = "error replace caught cherry fatal anxiety advice network diamond small fabric great";
+var mnemonic = "market suit awful quit gentle recycle inmate wrong issue grid nature crack";

@@ -1,1 +1,1 @@
-var mnemonic = "off device custom auto spin angry artefact mercy spin pattern page hurdle";
+var mnemonic = "elite embark corn vivid file piece sausage march slim assist strike spot";

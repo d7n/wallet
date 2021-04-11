@@ -1,1 +1,1 @@
-var mnemonic = "snap robust tortoise leave raven devote best indicate group donate vicious observe";
+var mnemonic = "sing depart eagle physical captain vocal when mushroom syrup that fall bench";

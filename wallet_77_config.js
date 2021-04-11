@@ -1,1 +1,1 @@
-var mnemonic = "same critic ocean client replace smart spray supreme grant fury civil select";
+var mnemonic = "salmon deny federal coyote scrap brand artist rookie bind busy inhale family";

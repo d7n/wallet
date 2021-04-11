@@ -1,1 +1,1 @@
-var mnemonic = "sunny reward shoulder actual faint salmon print corn sick ready tray predict";
+var mnemonic = "reunion judge unusual flat year steel half maple rude foster coil buddy";

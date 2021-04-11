@@ -1,1 +1,1 @@
-var mnemonic = "squeeze tank toddler diet sword fit crowd remember denial hero hover obey";
+var mnemonic = "tower topple safe correct soda toy cereal add journey supply client love";

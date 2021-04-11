@@ -1,1 +1,1 @@
-var mnemonic = "divert eagle raven solid arrow artwork great have mushroom thing deal protect";
+var mnemonic = "shiver person sweet stand mom neglect unfair earn simple output portion sing";

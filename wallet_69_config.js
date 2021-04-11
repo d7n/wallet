@@ -1,1 +1,1 @@
-var mnemonic = "first web avoid flee title earth turkey dinner tackle eight evolve guess";
+var mnemonic = "era lazy move august shuffle regret vital onion unfair meadow coast fiction";

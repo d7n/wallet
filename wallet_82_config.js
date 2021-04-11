@@ -1,1 +1,1 @@
-var mnemonic = "choose circle endless capital voyage abandon piano focus cheese shoot come hurry";
+var mnemonic = "rail decline tissue dignity love risk lumber segment lion coin protect interest";

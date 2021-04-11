@@ -1,1 +1,1 @@
-var mnemonic = "blossom toward impulse zoo pistol minimum group best arrange unfold one rebel";
+var mnemonic = "laundry judge bus brisk split like figure fork correct joy power uniform";

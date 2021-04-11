@@ -1,1 +1,1 @@
-var mnemonic = "neutral guess nephew embark exhaust scout marine sort novel boring engine uniform";
+var mnemonic = "punch valve truck eternal meat fall april trash sort return jacket lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "depend expand guide theme reflect swift armed grunt chat travel practice crazy";
+var mnemonic = "reduce nut that elite maple initial initial budget book venture mimic ethics";

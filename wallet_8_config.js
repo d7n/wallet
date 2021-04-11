@@ -1,1 +1,1 @@
-var mnemonic = "volume blast wrap welcome smart knife perfect alter art phrase allow gesture";
+var mnemonic = "glide lake upon jaguar saddle spider lonely tiger search cart mercy attend";

@@ -1,1 +1,1 @@
-var mnemonic = "roast wave release dance goat seven merry gaze dilemma aware author have";
+var mnemonic = "upon scissors grab ugly dumb sauce unit fossil endorse expand consider true";

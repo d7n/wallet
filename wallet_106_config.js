@@ -1,1 +1,1 @@
-var mnemonic = "december check govern injury foot electric yellow merry forget bird situate six";
+var mnemonic = "drop upper abandon squirrel remind spawn north struggle renew runway struggle salt";

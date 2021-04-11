@@ -1,1 +1,1 @@
-var mnemonic = "disorder donate object symbol antique girl immune kid table juice spell risk";
+var mnemonic = "earth actress super casual bid obscure desert panic imitate wreck hospital cube";

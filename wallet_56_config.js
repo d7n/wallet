@@ -1,1 +1,1 @@
-var mnemonic = "undo ice small bamboo climb survey shine attitude chunk naive teach random";
+var mnemonic = "demand warfare buzz spatial cousin artefact ready comic flock dinosaur boring toilet";

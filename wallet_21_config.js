@@ -1,1 +1,1 @@
-var mnemonic = "lesson major taxi soda ball elite vault crime breeze improve van ceiling";
+var mnemonic = "vote remain donkey online clip chase custom finger paddle quarter alarm mind";

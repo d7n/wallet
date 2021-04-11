@@ -1,1 +1,1 @@
-var mnemonic = "zebra antenna maple measure lyrics tool jazz ladder mutual song code cradle";
+var mnemonic = "baby cave blouse cable quarter tobacco whisper tobacco name middle pudding gravity";

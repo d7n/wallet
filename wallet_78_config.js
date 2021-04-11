@@ -1,1 +1,1 @@
-var mnemonic = "library menu cabbage exhaust sudden treat fiber index smoke clip glide like";
+var mnemonic = "rocket early script cabbage initial angle submit canvas crystal pencil sample vibrant";

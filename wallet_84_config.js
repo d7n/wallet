@@ -1,1 +1,1 @@
-var mnemonic = "volume lens because silk valve armed blanket awful coffee claim bachelor frequent";
+var mnemonic = "giggle vibrant fitness antique observe grunt resemble relax main lunar case recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "famous believe employ soap infant hint burst delay fashion nephew height august";
+var mnemonic = "mandate expose various pass below cousin apart fossil patrol galaxy wait leave";

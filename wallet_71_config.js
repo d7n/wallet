@@ -1,1 +1,1 @@
-var mnemonic = "cool impose club garment enforce daring valid achieve detail address pulse disorder";
+var mnemonic = "legal quiz myself liar kind liquid bamboo simple list fatigue gate life";

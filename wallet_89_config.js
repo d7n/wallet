@@ -1,1 +1,1 @@
-var mnemonic = "impact code anxiety lawsuit panda magic giggle work will hand tobacco tooth";
+var mnemonic = "flower frog address fee episode cube simple obvious zebra media hero peace";

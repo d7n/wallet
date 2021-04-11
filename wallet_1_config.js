@@ -1,1 +1,1 @@
-var mnemonic = "chunk coral pluck kick clarify owner point favorite crane fancy danger rabbit";
+var mnemonic = "forum return day balcony swallow bind near address broken indoor spare hour";

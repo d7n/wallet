@@ -1,1 +1,1 @@
-var mnemonic = "bean churn know clock brain seminar bright kingdom again enroll donkey company";
+var mnemonic = "thrive brown success rather toast sample keep vicious nothing choice garlic gap";

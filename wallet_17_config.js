@@ -1,1 +1,1 @@
-var mnemonic = "proof nuclear blade version bike ocean radar lunch digital dice rely express";
+var mnemonic = "culture all modify render evoke foam lonely oyster throw farm possible solve";

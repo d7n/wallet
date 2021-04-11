@@ -1,1 +1,1 @@
-var mnemonic = "impact february ripple reveal glimpse boil snow clarify clip flag cover alter";
+var mnemonic = "artwork spider actor empower habit hub come tell remind bunker escape minor";

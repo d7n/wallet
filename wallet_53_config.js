@@ -1,1 +1,1 @@
-var mnemonic = "cattle rifle wise goat flame island net cycle remain fly vibrant such";
+var mnemonic = "trick order pitch alien critic exercise aware ivory feed jelly vital dutch";

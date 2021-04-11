@@ -1,1 +1,1 @@
-var mnemonic = "frown village suggest term eternal grow rescue cross guilt index book catalog";
+var mnemonic = "swamp video digital dove verify forget length trumpet culture danger simple blur";

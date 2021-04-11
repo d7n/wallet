@@ -1,1 +1,1 @@
-var mnemonic = "that space similar diet improve lyrics napkin ball orbit elder punch much";
+var mnemonic = "chronic crush slow clock tent filter amount license tide note soon drama";

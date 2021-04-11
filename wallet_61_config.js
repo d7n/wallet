@@ -1,1 +1,1 @@
-var mnemonic = "model paper dismiss alpha rose sunset manage hidden april cart crystal session";
+var mnemonic = "slogan huge throw dinner skate smooth grunt curve erase govern gossip powder";

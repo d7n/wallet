@@ -1,1 +1,1 @@
-var mnemonic = "soup choose soon rifle train bean business worth liquid pet quote swarm";
+var mnemonic = "answer ski trumpet nominee town answer mirror tree theme siren wave sing";

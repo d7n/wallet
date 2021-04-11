@@ -1,1 +1,1 @@
-var mnemonic = "salad current neck run shoulder diary initial dice sugar final occur foil";
+var mnemonic = "kick spy invite success banana transfer gown adjust clever safe grit crisp";

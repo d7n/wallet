@@ -1,1 +1,1 @@
-var mnemonic = "hen slab math border orange lemon hole tongue matrix body fantasy coyote";
+var mnemonic = "charge today more urban brother later top zoo smooth glide glide physical";

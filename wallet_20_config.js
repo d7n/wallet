@@ -1,1 +1,1 @@
-var mnemonic = "sort liberty alpha rally muscle error until civil price disorder giant ribbon";
+var mnemonic = "outside federal vault never edge dog nose tongue genius depth guess wear";

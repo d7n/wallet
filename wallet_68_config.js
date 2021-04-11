@@ -1,1 +1,1 @@
-var mnemonic = "web lobster involve farm wonder female pact physical rude wage verb type";
+var mnemonic = "baby lonely boil vote aspect kiss opera canal humble virtual dilemma mandate";

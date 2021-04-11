@@ -1,1 +1,1 @@
-var mnemonic = "sugar taxi link release agent must dad snake surge essence elegant because";
+var mnemonic = "defense weird group digital dinosaur rule chronic auction acquire fever float shed";

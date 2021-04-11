@@ -1,1 +1,1 @@
-var mnemonic = "dress fee merit agree maple sunny panda lunch fine climb neutral toilet";
+var mnemonic = "nest success faith hobby easily fashion badge liberty check hammer spot thought";

@@ -1,1 +1,1 @@
-var mnemonic = "clay arrest strong rebuild animal silly cancel fine skill wine loud expose";
+var mnemonic = "hip protect return clock icon angle champion pottery struggle kit reopen east";

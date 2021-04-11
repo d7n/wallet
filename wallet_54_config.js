@@ -1,1 +1,1 @@
-var mnemonic = "spike absorb chef wolf region pipe close science fever useless office illegal";
+var mnemonic = "rate bottom choice brief excuse good celery rival rhythm guitar purpose enhance";

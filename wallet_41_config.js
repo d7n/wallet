@@ -1,1 +1,1 @@
-var mnemonic = "dash nothing stay upon cake pause mesh wreck snow liar develop top";
+var mnemonic = "include inherit chief clump track ostrich pattern nuclear diesel crash spoil wolf";

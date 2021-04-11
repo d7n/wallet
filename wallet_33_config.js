@@ -1,1 +1,1 @@
-var mnemonic = "rapid same hurt cream surface change snack ancient solid bar asset meat";
+var mnemonic = "ten patch music motion ready solution chef impose aunt tornado zone dwarf";

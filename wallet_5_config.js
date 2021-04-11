@@ -1,1 +1,1 @@
-var mnemonic = "casino they amount badge silent blame false fame fashion naive wall mountain";
+var mnemonic = "brave honey account poet exercise undo crane build acquire blind mercy hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "enter predict any cheese hedgehog project man theory print token lamp useless";
+var mnemonic = "work service minute impact relax thank ship sword awesome test must hurdle";

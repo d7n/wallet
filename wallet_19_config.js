@@ -1,1 +1,1 @@
-var mnemonic = "brick figure put noble soap first dream pioneer fetch tortoise advance tongue";
+var mnemonic = "like grass wall upper sell sweet wire affair clutch above enroll point";

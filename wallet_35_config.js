@@ -1,1 +1,1 @@
-var mnemonic = "grief exclude easily room fiction flower liquid expect ready jungle flight coffee";
+var mnemonic = "october blue melody ribbon lend tornado jump adjust knife road wrestle elephant";

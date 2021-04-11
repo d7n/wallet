@@ -1,1 +1,1 @@
-var mnemonic = "segment bitter outer fall forward inch cargo liar scheme afraid weekend humor";
+var mnemonic = "metal alley sword twenty unfair canoe sting differ address best pluck coin";

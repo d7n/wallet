@@ -1,1 +1,1 @@
-var mnemonic = "flavor crop young sniff certain envelope account diet analyst fiscal wisdom aim";
+var mnemonic = "sting library wide actual tobacco tuna rubber dilemma drive limit innocent turtle";

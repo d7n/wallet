@@ -1,1 +1,1 @@
-var mnemonic = "erode rich enroll punch carry describe always health stomach bunker access dinosaur";
+var mnemonic = "engine movie member company mistake amused rare foster tackle ramp service level";

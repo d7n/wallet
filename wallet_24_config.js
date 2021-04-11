@@ -1,1 +1,1 @@
-var mnemonic = "mom conduct skull allow day barely angry table round uncle logic student";
+var mnemonic = "aware scissors useful surge gloom auto pole burger reopen bacon discover table";

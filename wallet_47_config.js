@@ -1,1 +1,1 @@
-var mnemonic = "violin nest glimpse vibrant either salute window demand drama make scheme cinnamon";
+var mnemonic = "domain ill outside rate fresh alpha grit stable morning wear disorder glue";

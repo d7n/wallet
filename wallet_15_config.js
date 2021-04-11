@@ -1,1 +1,1 @@
-var mnemonic = "various april car cinnamon sea predict banana element toss post melt wish";
+var mnemonic = "defy apple civil twin crouch night person onion like west voice boring";

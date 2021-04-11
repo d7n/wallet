@@ -1,1 +1,1 @@
-var mnemonic = "bachelor world festival gas since tree outer noise rival minute federal abuse";
+var mnemonic = "flip romance spirit catalog denial rose owner verify few film thrive group";

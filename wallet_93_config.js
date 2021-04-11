@@ -1,1 +1,1 @@
-var mnemonic = "bunker alley praise damp stadium boss where rack hip pause dutch split";
+var mnemonic = "enact season finish happy leaf drill resist real strike truck local next";

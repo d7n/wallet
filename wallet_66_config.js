@@ -1,1 +1,1 @@
-var mnemonic = "annual oblige humble rotate winter fire tongue depth core boring shield cry";
+var mnemonic = "mammal height wisdom monitor night pear help bar machine produce length gain";

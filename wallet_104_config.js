@@ -1,1 +1,1 @@
-var mnemonic = "bone grunt response spoon shiver permit write weasel cotton satisfy latin space";
+var mnemonic = "promote output oval speed oval can multiply vault harsh trophy drastic chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "under tray vanish drink alter forget rice soul ancient produce salute impose";
+var mnemonic = "foster admit barrel bomb parade question later wine grab prepare soda scout";

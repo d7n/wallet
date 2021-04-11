@@ -1,1 +1,1 @@
-var mnemonic = "subway bulb violin print curve else between rent elbow chest ramp noodle";
+var mnemonic = "imitate pact wage vicious file setup usual fish monkey purpose just interest";

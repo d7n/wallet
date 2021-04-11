@@ -1,1 +1,1 @@
-var mnemonic = "canvas total cabin jazz spatial mystery dress lobster produce clean around ranch";
+var mnemonic = "angry flee chimney engage tuition custom casino west march miracle flock body";

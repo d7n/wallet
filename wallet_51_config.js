@@ -1,1 +1,1 @@
-var mnemonic = "garden ability twelve prefer monitor frame yellow account payment detect fee pretty";
+var mnemonic = "patient tribe corn release filter lounge mutual left sing struggle buyer goddess";

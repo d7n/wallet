@@ -1,1 +1,1 @@
-var mnemonic = "diary radar crowd love maid door thumb report track track blast sister";
+var mnemonic = "thumb shaft sea utility purpose correct apple remove pyramid bring match evolve";

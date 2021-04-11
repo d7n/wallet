@@ -1,1 +1,1 @@
-var mnemonic = "twin actress wing evil canvas return wait glory rug cinnamon slide conduct";
+var mnemonic = "barely cash modify glow report nice trick peanut bright fence win furnace";

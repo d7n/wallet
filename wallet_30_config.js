@@ -1,1 +1,1 @@
-var mnemonic = "address ketchup fire scrap any vendor bullet typical alley outside lion coyote";
+var mnemonic = "young avoid write scale wisdom sweet scrub inmate monitor scrub physical extend";

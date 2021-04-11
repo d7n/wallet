@@ -1,1 +1,1 @@
-var mnemonic = "praise ask escape sting witness noise prepare fluid magic average dirt click";
+var mnemonic = "flag talent feed oil senior install process ginger figure arrive bring general";

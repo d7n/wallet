@@ -1,1 +1,1 @@
-var mnemonic = "mind bean trigger begin find slice mimic opinion heavy family fit decide";
+var mnemonic = "panther anxiety feature state begin describe dutch solar fashion hundred candy category";

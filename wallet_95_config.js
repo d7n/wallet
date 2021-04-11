@@ -1,1 +1,1 @@
-var mnemonic = "width harsh pumpkin panther fame clown ugly cereal camp shuffle famous true";
+var mnemonic = "drift edit carry chat water design used energy property hungry attitude final";

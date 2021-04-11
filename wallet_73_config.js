@@ -1,1 +1,1 @@
-var mnemonic = "maid violin huge inherit arrest ketchup easily fluid discover else dutch boring";
+var mnemonic = "pass style vivid mom record choose wish oak what antenna melody alien";

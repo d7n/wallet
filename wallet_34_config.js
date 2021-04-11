@@ -1,1 +1,1 @@
-var mnemonic = "gauge lounge pride cable suggest marine liberty hood birth dry suit next";
+var mnemonic = "vicious hold summer ticket enter awkward coral keen custom humor option oak";

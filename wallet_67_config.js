@@ -1,1 +1,1 @@
-var mnemonic = "oppose hobby capable project engine town flush mixture extra hood idea brown";
+var mnemonic = "nurse caution wrestle chimney denial plunge volume shock under fence nation art";

@@ -1,1 +1,1 @@
-var mnemonic = "best roof enroll large fix urge spy olive glue ridge coral priority";
+var mnemonic = "bag link odor exclude damage school imitate bleak color glow donate extra";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma aerobic exotic between impact lamp strong smile theme mercy virtual that";
+var mnemonic = "since rival test unusual famous light battle betray lemon process kitchen news";

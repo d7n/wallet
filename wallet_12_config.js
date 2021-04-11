@@ -1,1 +1,1 @@
-var mnemonic = "crew bone foster word cook train robust fiscal elder trim oval patrol";
+var mnemonic = "body result lounge breeze blast observe flame indoor awful brother volcano ridge";
