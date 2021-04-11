@@ -1,1 +1,1 @@
-var mnemonic = "car about fragile tuition island monitor grape wheat page slot slender dust";
+var mnemonic = "pear kingdom exclude absorb harsh walnut room habit tobacco clerk talk turtle";

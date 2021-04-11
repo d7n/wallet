@@ -1,1 +1,1 @@
-var mnemonic = "eternal ecology sweet ceiling jazz report spirit model weasel decade stuff wagon";
+var mnemonic = "primary position rubber come bonus demand mom pair noise unusual camera minute";

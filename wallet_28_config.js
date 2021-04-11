@@ -1,1 +1,1 @@
-var mnemonic = "wonder truck visual soon alarm now tail garment total million dutch system";
+var mnemonic = "able found forward affair palace civil lounge stage claim decline install couch";

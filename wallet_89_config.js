@@ -1,1 +1,1 @@
-var mnemonic = "fog mean matter violin raw happy solar spatial group predict bright pill";
+var mnemonic = "subway tuition useless hand zone anger define message security cluster turtle weird";

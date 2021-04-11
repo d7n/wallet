@@ -1,1 +1,1 @@
-var mnemonic = "foster double hammer stumble question park reward coyote clinic lamp floor express";
+var mnemonic = "vast idle door ethics tail input hope subject ozone vapor rain harbor";

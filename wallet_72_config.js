@@ -1,1 +1,1 @@
-var mnemonic = "among snack spring spoon major ten envelope scorpion bargain dragon man gift";
+var mnemonic = "denial peanut wave paddle stamp sorry sad lottery silk soul hint scheme";

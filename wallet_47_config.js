@@ -1,1 +1,1 @@
-var mnemonic = "bonus will hurt coral media rebel tourist where obey either ceiling letter";
+var mnemonic = "title crop you virus network used legal fresh chair explain smile pepper";

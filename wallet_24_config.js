@@ -1,1 +1,1 @@
-var mnemonic = "bike mountain warrior more virus rhythm brick cave elevator toe reason ritual";
+var mnemonic = "nominee tissue pottery example odor kick cat poem predict head enough brief";

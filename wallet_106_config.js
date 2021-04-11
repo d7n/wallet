@@ -1,1 +1,1 @@
-var mnemonic = "cute item pull cigar assist online fresh saddle second educate infant chicken";
+var mnemonic = "enable arena skull fit upon exile joke armed consider force trap humble";

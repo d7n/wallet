@@ -1,1 +1,1 @@
-var mnemonic = "glory wide steel attract impact emotion lift half dilemma execute category example";
+var mnemonic = "basket taxi million vast liberty napkin armed library nation gap pilot rough";

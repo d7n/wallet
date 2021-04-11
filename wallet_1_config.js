@@ -1,1 +1,1 @@
-var mnemonic = "throw illness under neutral slam health clock bright midnight rich bargain cement";
+var mnemonic = "feel habit stay sudden term six harsh cabbage cliff december wonder shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty match hero nuclear fame august fresh truly arrange jacket idle conduct";
+var mnemonic = "wreck fit hazard famous violin slow ocean dial jewel column hundred perfect";

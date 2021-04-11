@@ -1,1 +1,1 @@
-var mnemonic = "rigid quote fox melt barrel engage anchor balcony unusual advance figure hammer";
+var mnemonic = "mimic palm twenty benefit bless fantasy shiver treat camera license onion guess";

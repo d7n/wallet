@@ -1,1 +1,1 @@
-var mnemonic = "alone runway dizzy enroll warrior bottom thrive decorate kitchen recipe reveal head";
+var mnemonic = "cash enough umbrella evil lava spring voyage tackle solution derive borrow melody";

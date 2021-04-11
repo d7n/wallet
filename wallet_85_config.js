@@ -1,1 +1,1 @@
-var mnemonic = "next merit vehicle couch obey ski siren order bitter hint lion base";
+var mnemonic = "impact object area hybrid salt fade bless time orbit maid say kick";

@@ -1,1 +1,1 @@
-var mnemonic = "film faint prison swallow movie garment palace seed dog balcony equal pattern";
+var mnemonic = "radio excess tail casino cattle ecology tray syrup blush laugh athlete group";

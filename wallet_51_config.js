@@ -1,1 +1,1 @@
-var mnemonic = "negative salt taste liquid region human fiction menu riot flavor excite light";
+var mnemonic = "curious outside major napkin country virus vital exit unhappy fit nominee boring";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant sound bonus predict gaze safe design tag armor elite faculty stand";
+var mnemonic = "panda renew pair citizen afraid sure sunset behind turtle tube ski avoid";

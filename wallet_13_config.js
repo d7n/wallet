@@ -1,1 +1,1 @@
-var mnemonic = "garage bundle mother giant boring rack uphold hard travel gap object another";
+var mnemonic = "nasty blossom aware siren rose surge core what movie verb help word";

@@ -1,1 +1,1 @@
-var mnemonic = "length frame feature opera solve animal smoke trial minute able depth since";
+var mnemonic = "exercise arrow road tenant protect fancy field lend laundry aim check green";

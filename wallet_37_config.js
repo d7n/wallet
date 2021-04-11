@@ -1,1 +1,1 @@
-var mnemonic = "trial oppose daring head fever section shoe chalk vacuum pass predict question";
+var mnemonic = "rely copy cargo inside tragic saddle sight amateur swim number toward later";

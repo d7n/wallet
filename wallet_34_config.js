@@ -1,1 +1,1 @@
-var mnemonic = "local luxury slide have fix bicycle olympic lend expose abstract wise spring";
+var mnemonic = "brick spirit enough domain assault mechanic cheap ripple seed divorce forward blur";

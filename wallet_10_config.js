@@ -1,1 +1,1 @@
-var mnemonic = "vacant grass cost impact road mother dwarf box glove bike clean grocery";
+var mnemonic = "raw lava giraffe because mail feed avocado phone round beach feed visa";

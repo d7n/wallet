@@ -1,1 +1,1 @@
-var mnemonic = "junior guilt rain alcohol curve similar apology donate roast toast cram achieve";
+var mnemonic = "donate tumble grow output humble scan hard grow object vicious pelican abandon";

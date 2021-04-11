@@ -1,1 +1,1 @@
-var mnemonic = "screen excite enjoy boost version action federal calm there post heart giraffe";
+var mnemonic = "film toe erode perfect boost exhaust nest easily sea depth dance clog";

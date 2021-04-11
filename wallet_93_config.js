@@ -1,1 +1,1 @@
-var mnemonic = "quarter scale coral hen ice violin local cover vicious crisp lawsuit urge";
+var mnemonic = "moon infant legend whisper spell supreme horse tray animal alley turkey text";

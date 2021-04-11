@@ -1,1 +1,1 @@
-var mnemonic = "peace inquiry add dash flush pool own barely day cook manage angry";
+var mnemonic = "hat lonely pig rain fuel track zone lyrics remind post various sweet";

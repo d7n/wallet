@@ -1,1 +1,1 @@
-var mnemonic = "express mule embark apple indicate kidney riot process picnic razor trophy catalog";
+var mnemonic = "suit shed guess nation ten link settle focus age enforce glory barely";

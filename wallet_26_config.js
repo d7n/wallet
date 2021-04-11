@@ -1,1 +1,1 @@
-var mnemonic = "yard please peasant spray wrist scrap great decrease potato word salmon keen";
+var mnemonic = "disease gallery garden gravity good one child path swarm gesture leg second";

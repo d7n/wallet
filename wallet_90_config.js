@@ -1,1 +1,1 @@
-var mnemonic = "alien view control elegant hobby easily since analyst shrimp want text buddy";
+var mnemonic = "truly process taxi crowd gorilla strategy jelly test urban cloud car glance";

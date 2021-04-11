@@ -1,1 +1,1 @@
-var mnemonic = "group ranch situate mad paper rain broccoli judge stool mixed cluster need";
+var mnemonic = "fit congress purse able hip estate shallow law pizza finish tired brief";

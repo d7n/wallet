@@ -1,1 +1,1 @@
-var mnemonic = "blood odor play height mixed grab excess lawsuit sudden phone champion betray";
+var mnemonic = "true empty garlic glance cattle excess speak genuine glimpse shoot gaze thrive";

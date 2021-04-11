@@ -1,1 +1,1 @@
-var mnemonic = "stock pull veteran ginger movie grief divert suggest worry sport account youth";
+var mnemonic = "coyote summer action fold parent toss spike rely dizzy memory skill used";

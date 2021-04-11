@@ -1,1 +1,1 @@
-var mnemonic = "profit nerve text device choice come slice despair talk feel flight hurdle";
+var mnemonic = "bread brisk blanket prefer relief check priority chat reopen fitness dance tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "vague ocean penalty book addict come mention dance proof hard together farm";
+var mnemonic = "steak first select orange hungry clip bachelor jelly sun asthma caution ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk tiny certain copper olive globe fuel brisk coyote reveal blood churn";
+var mnemonic = "struggle depart trend lumber pistol drill scene item smart before loud thrive";

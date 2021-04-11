@@ -1,1 +1,1 @@
-var mnemonic = "duty fold live runway crop glue abuse field poverty window joke strike";
+var mnemonic = "spy sun medal detect pear slam ghost desert attitude medal cycle surprise";

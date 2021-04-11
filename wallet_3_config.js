@@ -1,1 +1,1 @@
-var mnemonic = "double expire dinosaur amateur guitar evil cinnamon knock pulse still gym acquire";
+var mnemonic = "test width run will syrup thrive muffin city captain exile witness vapor";

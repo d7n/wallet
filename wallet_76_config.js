@@ -1,1 +1,1 @@
-var mnemonic = "problem pigeon comic term illness general toss badge rally stairs surround panel";
+var mnemonic = "use document orchard act cute flower wood modify session wedding gate game";

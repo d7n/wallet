@@ -1,1 +1,1 @@
-var mnemonic = "require book fall damage gravity husband scatter nephew arctic tree short sword";
+var mnemonic = "sorry combine switch wealth chapter absurd hungry primary twenty coach nut web";

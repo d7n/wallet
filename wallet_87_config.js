@@ -1,1 +1,1 @@
-var mnemonic = "cart cannon wedding rose beef debris shaft album case scissors feel turn";
+var mnemonic = "walnut naive mistake balcony antique library family head eagle onion surface host";

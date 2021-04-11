@@ -1,1 +1,1 @@
-var mnemonic = "other amount three can destroy vapor fade search rude item install craft";
+var mnemonic = "visa near harbor idle vehicle lobster limb choice idea bronze absent bargain";

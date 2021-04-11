@@ -1,1 +1,1 @@
-var mnemonic = "delay purchase blossom initial reveal shadow border road aware license trim answer";
+var mnemonic = "error crazy stage believe crucial engine robot pledge famous perfect machine select";

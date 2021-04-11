@@ -1,1 +1,1 @@
-var mnemonic = "love clump taxi donate bamboo desert spare student similar flush lonely mixed";
+var mnemonic = "combine average position link crack file symbol drum napkin silk away hurt";

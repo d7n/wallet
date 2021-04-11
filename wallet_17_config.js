@@ -1,1 +1,1 @@
-var mnemonic = "rent seek oval deliver razor rude caught lonely copper prefer tone crowd";
+var mnemonic = "method owner owner slogan curtain goat exchange relax indicate drip step target";

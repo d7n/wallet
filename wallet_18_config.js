@@ -1,1 +1,1 @@
-var mnemonic = "kingdom spend acid mosquito they deposit town salt nest gauge leader able";
+var mnemonic = "desk cage tray perfect safe decline grace assault leave hidden coach bind";

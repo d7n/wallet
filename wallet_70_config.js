@@ -1,1 +1,1 @@
-var mnemonic = "six core still tenant move make fine tonight maximum any degree cool";
+var mnemonic = "comic skill wrist color depth shift marble smooth swap retreat print twice";

@@ -1,1 +1,1 @@
-var mnemonic = "hover verb debris slender tuna target warfare error main space solid into";
+var mnemonic = "remove tree chunk pave squeeze gadget chimney pig stumble stable summer pause";

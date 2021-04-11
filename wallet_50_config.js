@@ -1,1 +1,1 @@
-var mnemonic = "path flag sausage afford slow cabin cook view toast wet surround daughter";
+var mnemonic = "end return guilt brave expect entry avoid win claw scout initial visa";

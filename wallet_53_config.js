@@ -1,1 +1,1 @@
-var mnemonic = "fog load salute fury act disagree identify face tray copy evidence weapon";
+var mnemonic = "inmate true useless defy super athlete laundry rather stay mutual order garbage";

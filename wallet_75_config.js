@@ -1,1 +1,1 @@
-var mnemonic = "video slogan assist mandate lunar afraid ice pill cannon loyal expect immune";
+var mnemonic = "kangaroo canyon retire involve worry supply faith host young urban spend recycle";

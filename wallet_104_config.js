@@ -1,1 +1,1 @@
-var mnemonic = "valid logic toast tornado mass dance eagle cost project author shed tag";
+var mnemonic = "melody oak exhaust property lens vanish plunge vague glory foil spatial rubber";

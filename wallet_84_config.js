@@ -1,1 +1,1 @@
-var mnemonic = "nephew such sense pizza choose cluster bar abstract only that oven seat";
+var mnemonic = "warrior bulb security loud capable north guard pumpkin slender maple oven object";

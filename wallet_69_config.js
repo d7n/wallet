@@ -1,1 +1,1 @@
-var mnemonic = "unusual any gravity adapt exotic nature result tomorrow erase zebra vapor file";
+var mnemonic = "tongue cruel describe space decide hobby exclude color defense argue fiber doctor";

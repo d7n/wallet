@@ -1,1 +1,1 @@
-var mnemonic = "exile vast parrot second camp describe brick ranch people black expect alter";
+var mnemonic = "transfer acquire wild shell wear mixed connect used nasty mirror liquid session";

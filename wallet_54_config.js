@@ -1,1 +1,1 @@
-var mnemonic = "naive bamboo web option volume basic donkey staff upper net soul outer";
+var mnemonic = "awesome blossom wrong east stone special laundry pass display inmate spy squirrel";

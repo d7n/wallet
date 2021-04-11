@@ -1,1 +1,1 @@
-var mnemonic = "illegal predict element upgrade dove eight sketch strike phrase popular life erode";
+var mnemonic = "item gorilla image cage fossil horror nation tilt upon engine nation engine";

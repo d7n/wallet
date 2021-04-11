@@ -1,1 +1,1 @@
-var mnemonic = "grid nest parade network key arrange finger tent box require hope require";
+var mnemonic = "inmate elder truly hawk alter obtain misery flee runway umbrella item weekend";

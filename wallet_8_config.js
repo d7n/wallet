@@ -1,1 +1,1 @@
-var mnemonic = "record coil level begin better convince weather truly room unique glimpse clinic";
+var mnemonic = "smart enable special large lumber dove fabric history bitter myself scrap desert";

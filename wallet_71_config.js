@@ -1,1 +1,1 @@
-var mnemonic = "used baby panther leaf all cream tragic example cabbage kit short wheel";
+var mnemonic = "error identify ramp save above access much image pool siege tissue impose";

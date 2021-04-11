@@ -1,1 +1,1 @@
-var mnemonic = "supreme sniff kiss occur exhaust feature jazz shell pattern together edit member";
+var mnemonic = "plastic dad siege essence paddle palm result manual bitter pelican profit student";

@@ -1,1 +1,1 @@
-var mnemonic = "sound smoke faint dice fashion clay turn ability limb swear horn must";
+var mnemonic = "witness they seminar tired decade glare seek stable hope people cliff carbon";

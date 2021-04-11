@@ -1,1 +1,1 @@
-var mnemonic = "arrange similar creek casino pluck select obey flip scrub walk supreme furnace";
+var mnemonic = "rotate slice turn action priority program member claw pulp dress nose artist";

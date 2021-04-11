@@ -1,1 +1,1 @@
-var mnemonic = "galaxy drum submit fence cabbage insane camp allow sail cupboard dragon pipe";
+var mnemonic = "delay giant nation local decade enemy bag shadow unaware endless warm still";

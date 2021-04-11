@@ -1,1 +1,1 @@
-var mnemonic = "broom magic sick cover space segment work fish summer heavy kidney laugh";
+var mnemonic = "similar topic twelve sign vapor case pyramid access immense regular kit arrest";

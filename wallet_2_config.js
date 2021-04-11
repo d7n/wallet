@@ -1,1 +1,1 @@
-var mnemonic = "letter clap wagon raw rely tomorrow reward rookie annual endorse federal between";
+var mnemonic = "drama nice truck relax choose syrup royal spell dilemma blouse chalk cinnamon";

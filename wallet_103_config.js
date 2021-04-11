@@ -1,1 +1,1 @@
-var mnemonic = "vehicle analyst cattle sell mad charge black room neglect quick general voyage";
+var mnemonic = "eager fire frost pen fence lake judge tissue key ecology perfect reveal";

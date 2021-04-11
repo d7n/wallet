@@ -1,1 +1,1 @@
-var mnemonic = "case filter hello upset ball toy chronic fringe cheap dune gesture permit";
+var mnemonic = "beauty regret advice economy immense talent hotel army ocean dynamic chunk gadget";

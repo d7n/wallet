@@ -1,1 +1,1 @@
-var mnemonic = "produce message spider crack bus open cream casino mushroom visit venture bonus";
+var mnemonic = "dentist security reduce cave useful profit sunset minor fiscal sentence pencil exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy gift flame inquiry cost flip virus toss napkin remind cradle neither";
+var mnemonic = "rescue glove rhythm inch snack remind three eye parade spy believe exact";

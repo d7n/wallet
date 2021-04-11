@@ -1,1 +1,1 @@
-var mnemonic = "credit drip inherit banana erase impose atom like detail model pig cat";
+var mnemonic = "now blossom error between crumble ride correct eye swim already brand degree";

@@ -1,1 +1,1 @@
-var mnemonic = "fame fruit reflect honey large senior science success distance target song fly";
+var mnemonic = "gossip license loyal ankle test obey middle field output topic thumb broken";

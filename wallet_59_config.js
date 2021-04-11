@@ -1,1 +1,1 @@
-var mnemonic = "tank hood radio spoil describe help enhance gas legal digital monkey urge";
+var mnemonic = "bridge aunt frame weather gain smile erupt need verb venture matter weather";

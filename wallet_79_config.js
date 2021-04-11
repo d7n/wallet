@@ -1,1 +1,1 @@
-var mnemonic = "decide dragon supply quantum unique pig cost radar antenna unhappy hollow report";
+var mnemonic = "diary opera modify denial vicious icon deliver slow very there silk cereal";

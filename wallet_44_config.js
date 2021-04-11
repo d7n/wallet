@@ -1,1 +1,1 @@
-var mnemonic = "wrist forum replace april message nature grocery morning ill dutch genius wear";
+var mnemonic = "exercise cycle toe utility still robot object dad merge stuff autumn boat";

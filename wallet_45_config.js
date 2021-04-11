@@ -1,1 +1,1 @@
-var mnemonic = "apple iron law call kite moment foster evil rival eye trust skirt";
+var mnemonic = "shine music slab illness bicycle sheriff bid orchard print vibrant pony sketch";

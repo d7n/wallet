@@ -1,1 +1,1 @@
-var mnemonic = "yellow swim napkin enable ahead border comic tone paddle doll produce cage";
+var mnemonic = "panda dragon various demand online people silent cupboard require another pride mansion";

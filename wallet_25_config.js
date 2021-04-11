@@ -1,1 +1,1 @@
-var mnemonic = "family display fog clarify leisure kid remove royal seminar base arm abstract";
+var mnemonic = "vital total wood catalog produce point proof infant section achieve dirt squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "soap know other skill honey improve surface raven help useful ketchup grain";
+var mnemonic = "cat loyal feed mention view protect angle desk pigeon knife art rough";

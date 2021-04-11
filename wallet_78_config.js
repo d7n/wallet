@@ -1,1 +1,1 @@
-var mnemonic = "flat rude betray swap melt elevator smoke pen glide student stone close";
+var mnemonic = "mountain truck tool excite remember congress blouse year cry mother alcohol demise";

@@ -1,1 +1,1 @@
-var mnemonic = "keep pet cupboard slim dragon gym orchard consider cross essay attract company";
+var mnemonic = "tissue concert zebra stay trip retire tilt wine simple mixed churn inspire";

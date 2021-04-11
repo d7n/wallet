@@ -1,1 +1,1 @@
-var mnemonic = "cage praise student cream drop income slender surface never demise small shock";
+var mnemonic = "length kitchen glow rack click air orient fall robot artist balcony violin";

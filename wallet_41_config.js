@@ -1,1 +1,1 @@
-var mnemonic = "trophy blood roof shy symbol about post welcome kiwi hello eager pretty";
+var mnemonic = "kick width differ noodle cliff refuse vacuum butter praise admit frequent pledge";

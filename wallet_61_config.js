@@ -1,1 +1,1 @@
-var mnemonic = "vendor shrimp move ankle trim flavor correct goat where people slight order";
+var mnemonic = "car doctor bounce tobacco six bike cash cousin tuna strong mimic board";

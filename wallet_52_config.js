@@ -1,1 +1,1 @@
-var mnemonic = "damage matrix half various outside swim weapon obey clinic insect carpet sleep";
+var mnemonic = "peace extend excite armed person desk search blur awake supply zebra wool";

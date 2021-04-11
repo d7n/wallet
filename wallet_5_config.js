@@ -1,1 +1,1 @@
-var mnemonic = "prefer tennis neither require core mirror proud magnet together limit disease achieve";
+var mnemonic = "frame spell bounce pepper army will mean slice fossil detect scorpion rose";

@@ -1,1 +1,1 @@
-var mnemonic = "blame oppose six actor merry radar day manual cricket jungle embrace fade";
+var mnemonic = "tennis panther world remove neutral measure clever suspect pact inquiry learn before";

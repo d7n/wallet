@@ -1,1 +1,1 @@
-var mnemonic = "domain park finish trial mixture grunt rule game mechanic keen voice seek";
+var mnemonic = "earth syrup swap manage sample survey column weather film upset cliff dutch";

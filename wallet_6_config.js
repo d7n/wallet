@@ -1,1 +1,1 @@
-var mnemonic = "emerge intact hawk misery glimpse high exhibit remain blush vendor shell echo";
+var mnemonic = "decline load awful inject start exclude bid news gown worry inmate liar";

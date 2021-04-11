@@ -1,1 +1,1 @@
-var mnemonic = "amused decorate filter park toddler core decade setup glove view green actor";
+var mnemonic = "connect jacket people black runway noise chuckle blanket two either urban collect";

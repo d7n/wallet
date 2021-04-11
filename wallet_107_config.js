@@ -1,1 +1,1 @@
-var mnemonic = "hungry whisper faith click balance front april eternal misery sibling jaguar day";
+var mnemonic = "neck dose quick slot choose vendor toilet alone original case fever control";

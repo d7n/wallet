@@ -1,1 +1,1 @@
-var mnemonic = "flavor whip tornado pretty develop thrive cotton innocent local midnight almost chief";
+var mnemonic = "idea melt collect tourist arrow jelly announce choice hand vessel picture bullet";

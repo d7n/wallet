@@ -1,1 +1,1 @@
-var mnemonic = "shrimp worry crater donor escape obscure near host cricket sadness enrich voyage";
+var mnemonic = "carbon siege hip girl cart tone fortune chapter pelican home rival slide";

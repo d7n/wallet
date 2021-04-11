@@ -1,1 +1,1 @@
-var mnemonic = "chronic lava satisfy ancient clinic regular hill dad correct dial inside unlock";
+var mnemonic = "stadium liberty cry shadow survey beauty essay social machine surround recipe raise";

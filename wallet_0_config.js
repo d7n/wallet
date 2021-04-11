@@ -1,1 +1,1 @@
-var mnemonic = "lizard body tide drill wire creek current traffic wet now naive city";
+var mnemonic = "people puppy dove grid void mix cheese run mutual pyramid magic twin";

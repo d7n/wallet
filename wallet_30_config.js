@@ -1,1 +1,1 @@
-var mnemonic = "disorder erupt shoulder share museum loan enjoy hire gate river cover purity";
+var mnemonic = "baby flat sister fiber fatigue beach stable parade potato warrior squeeze inject";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch park year disagree annual sphere often fall youth bean chicken wide";
+var mnemonic = "brick fury power fence lawsuit chef ethics sibling usual truly divide humor";

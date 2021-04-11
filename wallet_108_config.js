@@ -1,1 +1,1 @@
-var mnemonic = "bottom author water spider hat humor access advance plastic peace dutch arm";
+var mnemonic = "sight device rabbit capital rebel plug radio congress fire equip alcohol scorpion";

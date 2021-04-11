@@ -1,1 +1,1 @@
-var mnemonic = "allow text wedding visit lottery swear clinic water eight depth crisp dune";
+var mnemonic = "hand gas slogan diamond neutral gravity half keep empty method recipe divert";

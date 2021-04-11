@@ -1,1 +1,1 @@
-var mnemonic = "spice solve subway current inherit laundry differ mushroom expand pink buzz inspire";
+var mnemonic = "radio caught cry squirrel cube margin six rain wool bulk sister utility";
