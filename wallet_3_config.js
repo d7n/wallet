@@ -1,1 +1,1 @@
-var mnemonic = "distance firm roast discover pear ill erupt catch reopen combine current teach";
+var mnemonic = "program bottom fun section limit prevent favorite add switch tenant artist work";

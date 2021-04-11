@@ -1,1 +1,1 @@
-var mnemonic = "retire coast sample vivid scatter cover worth voice legend spike unfold near";
+var mnemonic = "siege toast cup sugar exclude fancy fruit flush umbrella pencil endless tape";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky caution spy poem stomach coffee arrest jewel brisk wool slow suffer";
+var mnemonic = "regret keep nasty tonight replace rebel harvest online sorry undo unaware fee";

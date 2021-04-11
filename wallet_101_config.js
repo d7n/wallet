@@ -1,1 +1,1 @@
-var mnemonic = "decrease limit congress silver pear major alcohol hospital smooth nice notable tragic";
+var mnemonic = "square media ability pioneer glimpse subway awake anxiety lyrics ancient salad churn";

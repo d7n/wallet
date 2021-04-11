@@ -1,1 +1,1 @@
-var mnemonic = "method domain example paper pair blind giraffe hat session clerk chief term";
+var mnemonic = "choose woman knock leader purse clog morning grocery solid odor decide bread";

@@ -1,1 +1,1 @@
-var mnemonic = "biology divorce brisk neutral page dismiss absent mule lyrics half decrease rule";
+var mnemonic = "rent glory waste joy raven first guide vacuum riot anxiety april mention";

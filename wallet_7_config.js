@@ -1,1 +1,1 @@
-var mnemonic = "giraffe tiger giant hockey pull scene struggle scatter wrap whip random vault";
+var mnemonic = "wet report breeze race betray what manage deer sudden nerve fun roof";

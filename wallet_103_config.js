@@ -1,1 +1,1 @@
-var mnemonic = "arctic craft walk pig rain shop vehicle hunt desert chef grace estate";
+var mnemonic = "shoot joy diesel loan law drift crunch police sudden human sugar conduct";

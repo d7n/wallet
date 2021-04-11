@@ -1,1 +1,1 @@
-var mnemonic = "vehicle travel robust music primary december jungle method crash favorite sight zero";
+var mnemonic = "milk latin script grow mosquito grow shell enemy window skin uncle night";

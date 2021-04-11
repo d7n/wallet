@@ -1,1 +1,1 @@
-var mnemonic = "garment describe genre govern slide salmon kit address ice advance scatter feel";
+var mnemonic = "cross unusual urban blast shrimp outside canoe club relax swear silent jazz";

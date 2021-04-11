@@ -1,1 +1,1 @@
-var mnemonic = "junk brother cupboard report slot fork joke february online wrestle clap zero";
+var mnemonic = "million romance night old announce install carpet melt enhance angle scorpion ensure";

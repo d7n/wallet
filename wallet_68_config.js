@@ -1,1 +1,1 @@
-var mnemonic = "science endorse eager belt post limb forget desert video club oak strike";
+var mnemonic = "spread ability blood beach immune clever green field jeans harvest gate enemy";

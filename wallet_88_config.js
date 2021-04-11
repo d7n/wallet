@@ -1,1 +1,1 @@
-var mnemonic = "try elite clarify pear express into protect question blame deputy aim silk";
+var mnemonic = "phone denial also manual erode glory extend comfort skin chest voyage legal";

@@ -1,1 +1,1 @@
-var mnemonic = "random outer crazy crystal canvas casino change snake polar hair final member";
+var mnemonic = "discover top first smooth pioneer ahead aisle stay vehicle verify organ midnight";

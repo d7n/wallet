@@ -1,1 +1,1 @@
-var mnemonic = "answer caught fabric ski brass know slogan sad toy connect critic reward";
+var mnemonic = "dry army famous blame honey fossil raccoon dance frown donate segment dress";

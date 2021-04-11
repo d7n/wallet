@@ -1,1 +1,1 @@
-var mnemonic = "relax attitude nurse wall nation inflict share robust apple math tomato dish";
+var mnemonic = "brisk result torch twenty bamboo put yard south ankle crisp acquire portion";

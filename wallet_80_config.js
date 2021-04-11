@@ -1,1 +1,1 @@
-var mnemonic = "grant flash sleep twist advance foil beach know cycle decorate mixed fiction";
+var mnemonic = "unusual high magnet setup royal bunker solar ask country nose super crater";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn hamster lecture pride about time spatial pool erase love story foot";
+var mnemonic = "enroll furnace sick future vanish patch mention banner dad echo rally demand";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle seat inspire differ spawn end card forward relax party duck fabric";
+var mnemonic = "deer forward dismiss source puzzle elite bulb unusual key squirrel front absent";

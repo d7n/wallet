@@ -1,1 +1,1 @@
-var mnemonic = "destroy drift together defense enact tunnel crawl finish child flag become welcome";
+var mnemonic = "blanket enforce siege essence summer tag receive chef index warfare ill river";

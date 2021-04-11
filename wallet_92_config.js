@@ -1,1 +1,1 @@
-var mnemonic = "glide express right old vendor gloom stone menu nuclear shine firm empower";
+var mnemonic = "member riot total mobile erosion hawk sheriff draw tape way ritual slow";

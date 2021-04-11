@@ -1,1 +1,1 @@
-var mnemonic = "luggage horn pumpkin wait energy scheme skill rain educate badge middle east";
+var mnemonic = "still pluck nephew tuna sweet hurdle wheel above cart salute shuffle ketchup";

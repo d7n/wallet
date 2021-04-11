@@ -1,1 +1,1 @@
-var mnemonic = "yard popular payment tackle young feed turtle shine fog pitch lunar ill";
+var mnemonic = "kitten grief raccoon frog clog know pool main gloom trick talent lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle glide calm glance school army basic onion gloom solve color venture";
+var mnemonic = "soda adult grape frame zebra attack olympic flush bread angry scheme heart";

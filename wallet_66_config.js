@@ -1,1 +1,1 @@
-var mnemonic = "guitar narrow scout crash device clay argue stuff ghost swallow march struggle";
+var mnemonic = "gadget shop require topic night razor gravity caution raise taste swamp bitter";

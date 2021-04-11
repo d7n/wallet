@@ -1,1 +1,1 @@
-var mnemonic = "awesome debris want brand switch earth limb document impulse milk decide fiber";
+var mnemonic = "twelve erupt cherry blue diet genuine eternal farm later reveal lyrics spawn";

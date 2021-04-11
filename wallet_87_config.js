@@ -1,1 +1,1 @@
-var mnemonic = "intact youth grow scrub law throw choose spawn switch decorate tumble tenant";
+var mnemonic = "ozone opinion venture design ticket penalty winner silly horn seminar anchor network";

@@ -1,1 +1,1 @@
-var mnemonic = "female liberty rapid nephew polar property wood zero address absent suffer hat";
+var mnemonic = "industry misery struggle lazy assume ugly grow clinic limb coral tired huge";

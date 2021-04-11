@@ -1,1 +1,1 @@
-var mnemonic = "cover brush mimic retreat lyrics purity able excuse velvet pony live raw";
+var mnemonic = "this trash frog joy mention link nuclear solution champion photo mystery pizza";

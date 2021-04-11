@@ -1,1 +1,1 @@
-var mnemonic = "bean industry bundle dove people famous area erupt toy artefact loan piano";
+var mnemonic = "clown letter thunder require whale melody prefer strike wolf essay debris recipe";

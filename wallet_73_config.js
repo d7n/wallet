@@ -1,1 +1,1 @@
-var mnemonic = "speak talk link sleep kitchen engage scorpion parent hub adult belt choose";
+var mnemonic = "wing popular fantasy merry saddle bean pattern toast gravity cabbage desk hidden";

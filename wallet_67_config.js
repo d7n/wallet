@@ -1,1 +1,1 @@
-var mnemonic = "high coconut cake left oven select glad evil palace route lesson yard";
+var mnemonic = "cart crystal shy captain hotel need squirrel book pelican piece census earn";

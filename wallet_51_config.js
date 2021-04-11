@@ -1,1 +1,1 @@
-var mnemonic = "promote chunk insane brave side rule earth royal stamp damp bring width";
+var mnemonic = "duty improve home float wink talk skate practice rabbit deal wait finger";

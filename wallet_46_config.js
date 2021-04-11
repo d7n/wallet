@@ -1,1 +1,1 @@
-var mnemonic = "safe tissue crack quantum found rough husband mountain picnic country guitar exercise";
+var mnemonic = "animal crop match cup twice swim surge suit bargain tower capital car";

@@ -1,1 +1,1 @@
-var mnemonic = "flock elevator all swim bless pact antenna tornado twenty dwarf inch moral";
+var mnemonic = "confirm trap sure west moral boil life discover state master focus cool";

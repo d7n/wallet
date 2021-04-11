@@ -1,1 +1,1 @@
-var mnemonic = "actual about sponsor song spend tired settle frequent clarify rose father quiz";
+var mnemonic = "frost pink vehicle deliver car brisk viable erase spice valley welcome galaxy";

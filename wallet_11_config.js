@@ -1,1 +1,1 @@
-var mnemonic = "rescue balance various mountain program flavor announce dog street hazard beauty bean";
+var mnemonic = "myself first uphold finish oblige oven celery harvest fiction input basic frame";

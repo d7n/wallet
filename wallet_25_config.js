@@ -1,1 +1,1 @@
-var mnemonic = "donkey glimpse like enter cup exhibit monitor clock surround lab arrest super";
+var mnemonic = "fish slight approve desk medal cabin abstract budget exit entire chalk blossom";

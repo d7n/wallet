@@ -1,1 +1,1 @@
-var mnemonic = "decorate banner soft satisfy find gesture craft cube prefer finger dune cross";
+var mnemonic = "elbow volcano harvest spin south adjust strategy crouch vivid peace intact beauty";

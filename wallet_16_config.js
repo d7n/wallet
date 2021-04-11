@@ -1,1 +1,1 @@
-var mnemonic = "holiday business bullet cancel main bonus alley credit achieve clinic cheese cost";
+var mnemonic = "denial zero rich almost pupil office shrimp wide equip buzz wing grace";

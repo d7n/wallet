@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin congress exercise happy favorite spawn cube elephant manual puzzle unveil come";
+var mnemonic = "brass vivid jungle column august giraffe silver system cabbage age fence system";

@@ -1,1 +1,1 @@
-var mnemonic = "estate wing cave device cute blur law rotate utility wise rack fragile";
+var mnemonic = "once hand float desert swarm vanish tissue sorry write ranch distance sphere";

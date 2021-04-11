@@ -1,1 +1,1 @@
-var mnemonic = "guide mix pool guide jaguar evoke title taxi range wealth cloud deposit";
+var mnemonic = "use minimum fish appear mobile mule dinner antique opera buddy goose fault";

@@ -1,1 +1,1 @@
-var mnemonic = "trick force wild bleak loud neither solution custom discover wolf behind play";
+var mnemonic = "leisure season congress race quarter gorilla cruel auto today depth recycle hamster";

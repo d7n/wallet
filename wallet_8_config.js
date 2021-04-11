@@ -1,1 +1,1 @@
-var mnemonic = "guilt talent ribbon universe elevator pepper social stereo plunge spike quarter lounge";
+var mnemonic = "rule expect true vivid evolve until orphan client morning vast purse hero";

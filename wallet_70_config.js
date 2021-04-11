@@ -1,1 +1,1 @@
-var mnemonic = "flavor brave quiz season dove found trick unit tell together surge toss";
+var mnemonic = "ticket upper parade defy engine energy rifle dynamic link assume sort clap";

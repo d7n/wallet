@@ -1,1 +1,1 @@
-var mnemonic = "leg runway post inner tray inner then sunny thought gravity labor panda";
+var mnemonic = "robust choose minimum shove kingdom side lens vague home lecture exercise tragic";

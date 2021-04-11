@@ -1,1 +1,1 @@
-var mnemonic = "amount boss umbrella mountain flavor trap wisdom dwarf robust chaos park leaf";
+var mnemonic = "mesh treat noise rich vague warm spot pudding size host source maid";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut civil asthma sunny brown miracle anchor auto rubber ridge rare volcano";
+var mnemonic = "climb finger salute beyond enjoy beyond shrug frown nasty text accident card";

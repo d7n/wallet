@@ -1,1 +1,1 @@
-var mnemonic = "rent dolphin desert lyrics slow broken chaos zone cause benefit category try";
+var mnemonic = "reform range robust atom guitar elder label math heart estate smart retreat";

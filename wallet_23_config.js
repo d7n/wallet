@@ -1,1 +1,1 @@
-var mnemonic = "elephant foot young steel injury stool wave behind borrow puzzle galaxy nice";
+var mnemonic = "rail circle course parade green argue spoon adjust issue immense verify crunch";

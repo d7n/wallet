@@ -1,1 +1,1 @@
-var mnemonic = "original bridge prosper dust diary code echo clump winter arch radio saddle";
+var mnemonic = "acid sheriff again miracle soda screen erode essence clump moment life banana";

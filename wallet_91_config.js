@@ -1,1 +1,1 @@
-var mnemonic = "flock prosper narrow mansion magic usual cool worry act permit repeat song";
+var mnemonic = "correct universe replace orphan miracle powder clump mansion flip beauty lift runway";

@@ -1,1 +1,1 @@
-var mnemonic = "final liberty stock hip prison height team oblige inform road confirm scene";
+var mnemonic = "gadget length shed draw champion story mobile spend margin detect expand effort";

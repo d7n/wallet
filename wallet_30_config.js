@@ -1,1 +1,1 @@
-var mnemonic = "empower fabric angry various egg arrest sad liquid broccoli holiday begin island";
+var mnemonic = "holiday dentist earn outer orchard valve kingdom random filter hen egg repair";

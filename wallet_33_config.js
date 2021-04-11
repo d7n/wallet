@@ -1,1 +1,1 @@
-var mnemonic = "tumble demise discover sea glory february defy tunnel rail van suggest leisure";
+var mnemonic = "garment that coast robust success road chest just adjust diary symptom wool";

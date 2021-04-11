@@ -1,1 +1,1 @@
-var mnemonic = "music best online gentle post grief powder route steak emotion dry patrol";
+var mnemonic = "knife half brave leave ozone sunny drum hotel cheese net liar fringe";

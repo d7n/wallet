@@ -1,1 +1,1 @@
-var mnemonic = "pattern manage essay zebra execute among develop can fire attend wife pottery";
+var mnemonic = "surface river amateur drill motor uncover crisp never corn magic analyst someone";

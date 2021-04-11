@@ -1,1 +1,1 @@
-var mnemonic = "nature brown maple injury crush wagon obvious moment culture island tattoo muffin";
+var mnemonic = "glass shell endorse close century foot actor north humor cruel rocket come";

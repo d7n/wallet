@@ -1,1 +1,1 @@
-var mnemonic = "fruit cabbage very teach trim start scheme type shell column volcano page";
+var mnemonic = "imitate crisp doctor snake choose camera select slot seminar suffer bulk avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin deal blade olive ramp few crisp manage mixture share gravity dash";
+var mnemonic = "deputy awkward oval refuse dentist spy exile blame celery hair weather empower";

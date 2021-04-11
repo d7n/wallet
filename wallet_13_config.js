@@ -1,1 +1,1 @@
-var mnemonic = "call flower trust pen feel addict cost pencil cram treat income gift";
+var mnemonic = "indicate come caution marriage horn wife pencil south early stove diagram task";

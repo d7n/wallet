@@ -1,1 +1,1 @@
-var mnemonic = "leaf crater ski diesel raw run gown cancel world turn never narrow";
+var mnemonic = "dove main step push artefact ensure egg result gift excess cook call";

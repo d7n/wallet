@@ -1,1 +1,1 @@
-var mnemonic = "height match shadow knife doctor clown forward brown author country impact stick";
+var mnemonic = "feel fog air nuclear bean poem proud leaf decline curtain lawsuit frog";

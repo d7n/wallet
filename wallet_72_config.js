@@ -1,1 +1,1 @@
-var mnemonic = "garlic sample autumn magic else obvious rich health recipe devote asthma weasel";
+var mnemonic = "resource jeans neck diesel raw access core banana point frozen focus swarm";

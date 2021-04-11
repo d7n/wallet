@@ -1,1 +1,1 @@
-var mnemonic = "fashion amateur engage code castle uncle broom congress uniform yard enact luggage";
+var mnemonic = "usage inject boring when catalog conduct laptop melody awake van alert fetch";

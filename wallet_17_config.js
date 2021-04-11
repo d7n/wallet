@@ -1,1 +1,1 @@
-var mnemonic = "angle divorce melt empty lawsuit blur sugar buddy elite brief slice wild";
+var mnemonic = "employ crystal matrix muffin rotate pizza into hungry thank traffic claim decrease";

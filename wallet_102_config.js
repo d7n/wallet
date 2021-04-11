@@ -1,1 +1,1 @@
-var mnemonic = "sing surge model kiss tube genre travel phone review away tiger illegal";
+var mnemonic = "excess tube fork version disease flash awkward question alter twist novel beach";

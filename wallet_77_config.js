@@ -1,1 +1,1 @@
-var mnemonic = "valve text ritual top citizen message bird impose must hamster impose soap";
+var mnemonic = "obscure draw laundry champion before rival gate round gift label throw ritual";

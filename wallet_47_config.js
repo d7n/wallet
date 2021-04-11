@@ -1,1 +1,1 @@
-var mnemonic = "alley owner stick monkey outdoor spell floor pitch jaguar eternal faith fetch";
+var mnemonic = "sudden fly oblige daughter gold smile zebra maple uphold end few uphold";

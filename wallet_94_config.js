@@ -1,1 +1,1 @@
-var mnemonic = "oval item ignore item ancient betray grass valley kidney mixture master type";
+var mnemonic = "senior team hand exile brass usual letter famous document power sound run";

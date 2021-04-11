@@ -1,1 +1,1 @@
-var mnemonic = "dizzy siren shuffle height upper wreck flame you perfect pistol zone fabric";
+var mnemonic = "exile patch drive great sense endorse have theory ship type spirit outdoor";

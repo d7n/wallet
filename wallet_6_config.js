@@ -1,1 +1,1 @@
-var mnemonic = "token random truly truck one ostrich mule rice foster inspire chicken weekend";
+var mnemonic = "employ finger truth female gown cattle gain prosper chair uncover among apart";

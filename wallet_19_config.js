@@ -1,1 +1,1 @@
-var mnemonic = "blossom voyage dry busy excuse furnace shield clean between town end image";
+var mnemonic = "opinion attend fantasy embrace nurse bullet render retreat lizard fade until reason";

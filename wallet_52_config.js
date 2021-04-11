@@ -1,1 +1,1 @@
-var mnemonic = "method visa exact icon unit foam tuna witness tourist power neither kite";
+var mnemonic = "dismiss bone floor service east romance donate life melt enable champion industry";

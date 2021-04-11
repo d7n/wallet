@@ -1,1 +1,1 @@
-var mnemonic = "dose coral notable toilet hazard crew episode rocket hedgehog admit focus hedgehog";
+var mnemonic = "tennis hire text grace cream nest dish patch student coach sample zoo";

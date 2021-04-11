@@ -1,1 +1,1 @@
-var mnemonic = "only raven winner cloud rate tooth behind witness simple entire inside large";
+var mnemonic = "shrimp depend keep urban remember thank company about hill lottery erosion garment";

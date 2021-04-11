@@ -1,1 +1,1 @@
-var mnemonic = "welcome universe jungle draft mansion usage penalty riot tube mandate rebuild cotton";
+var mnemonic = "country intact south doll joy fruit raise zone step coin symptom shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "wear rebel include object later evidence region brain wrist slush either gospel";
+var mnemonic = "access exact flash glove coin tuition fuel desk filter arch puppy control";

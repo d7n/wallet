@@ -1,1 +1,1 @@
-var mnemonic = "drill timber renew lobster nest cat sail type column rescue dream sweet";
+var mnemonic = "tuna local hover garage able mix reward popular upon mixed twist tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "gold tone miss cube occur milk horn major aware scatter estate peace";
+var mnemonic = "sphere master combine token fame wash crater rare frown hello repeat staff";

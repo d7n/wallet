@@ -1,1 +1,1 @@
-var mnemonic = "tackle memory rich daughter unique honey decade silent live wood junk lunch";
+var mnemonic = "stamp neglect spirit nerve damage chimney foster chef absorb gospel atom hold";

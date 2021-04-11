@@ -1,1 +1,1 @@
-var mnemonic = "goose liquid rescue kind multiply fork rule today flock curious consider wear";
+var mnemonic = "divert crouch parrot force cupboard trumpet gain slush purity advance tide sad";

@@ -1,1 +1,1 @@
-var mnemonic = "waste deny cake gas december foam better rival rough distance mad amused";
+var mnemonic = "enlist deposit unveil sting million team blush midnight lamp demise lunar female";

@@ -1,1 +1,1 @@
-var mnemonic = "else wine olive leisure cricket price filter pact math moment fun hungry";
+var mnemonic = "kite tell caught piece famous pride manage eternal success delay picnic mail";

@@ -1,1 +1,1 @@
-var mnemonic = "beef unlock ensure girl faint claim ten add easily code salad mother";
+var mnemonic = "siren canoe chat dismiss pattern fresh deer session give dream front track";

@@ -1,1 +1,1 @@
-var mnemonic = "maple sight horror family below boss wasp aerobic consider sock sword science";
+var mnemonic = "find fresh pitch aim system window scrub worth isolate crack clever neck";

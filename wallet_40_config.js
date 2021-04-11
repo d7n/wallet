@@ -1,1 +1,1 @@
-var mnemonic = "seat purity kit rabbit either eager turkey noble despair believe river misery";
+var mnemonic = "flee noble garden exhaust time swap harsh awkward coast tone faith egg";

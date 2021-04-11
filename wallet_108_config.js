@@ -1,1 +1,1 @@
-var mnemonic = "immune style train second blouse renew flip border avoid mule chapter anxiety";
+var mnemonic = "problem tennis tell distance runway swamp pool glad pistol media angry tape";
