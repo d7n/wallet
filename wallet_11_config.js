@@ -1,1 +1,1 @@
-var mnemonic = "machine dizzy allow sudden upgrade you risk way tissue whip rally oyster";
+var mnemonic = "across over celery describe august typical cloud hybrid metal bracket blur way";

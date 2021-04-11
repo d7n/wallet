@@ -1,1 +1,1 @@
-var mnemonic = "nation amused try shell bicycle wait quick issue deputy saddle common inflict";
+var mnemonic = "debate happy earth birth panic hip hollow typical belt work human great";

@@ -1,1 +1,1 @@
-var mnemonic = "title resemble dignity umbrella cook nice cloth limb fruit crisp boring engine";
+var mnemonic = "letter visa usual brand route goose gaze cricket noodle surprise ball danger";

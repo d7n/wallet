@@ -1,1 +1,1 @@
-var mnemonic = "call awake rail canvas beauty mistake friend desert cool impact black recycle";
+var mnemonic = "hope basket remind only payment type old steak health perfect report comfort";

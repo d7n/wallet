@@ -1,1 +1,1 @@
-var mnemonic = "extra gallery left method dune predict unhappy lawn primary gown quick venue";
+var mnemonic = "group situate family hat behind awkward flame laptop cute old between fossil";

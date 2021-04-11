@@ -1,1 +1,1 @@
-var mnemonic = "speak design luxury enter humor useful carry panda miss net end poverty";
+var mnemonic = "cube toilet dad motor artist choice gloom between lesson predict modify lock";

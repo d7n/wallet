@@ -1,1 +1,1 @@
-var mnemonic = "sense slow shoot achieve security outside address cool pig glue praise island";
+var mnemonic = "cart cake category slight audit regular announce odor flame electric insane feel";

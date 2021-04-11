@@ -1,1 +1,1 @@
-var mnemonic = "space ability route range wage cream base cherry family element lake amount";
+var mnemonic = "utility boy amused swift agent palm faculty key cereal topic bubble tattoo";

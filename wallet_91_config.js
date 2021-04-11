@@ -1,1 +1,1 @@
-var mnemonic = "prefer total alcohol nature explain reflect grain guilt tape grocery pioneer hire";
+var mnemonic = "trust antenna fee marriage recycle empty pear cave wonder where wild tragic";

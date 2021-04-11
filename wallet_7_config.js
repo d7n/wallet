@@ -1,1 +1,1 @@
-var mnemonic = "day danger bunker trap carbon chapter steak frozen engage problem rare property";
+var mnemonic = "never problem release impulse mesh unveil maple harsh stomach absent outdoor dawn";

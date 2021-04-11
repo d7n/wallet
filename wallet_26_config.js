@@ -1,1 +1,1 @@
-var mnemonic = "search pistol sort believe ring lab cluster actress couch minute tent teach";
+var mnemonic = "sad birth noodle chef dance reform notice give travel review nasty define";

@@ -1,1 +1,1 @@
-var mnemonic = "night sadness wreck coach noodle river shy protect fresh pumpkin quality girl";
+var mnemonic = "pumpkin shine bubble speed stable drum measure dream shiver energy broken forest";

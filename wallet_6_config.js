@@ -1,1 +1,1 @@
-var mnemonic = "hollow father biology debate hood tongue loan evolve vibrant invite inch biology";
+var mnemonic = "lawsuit expect guilt protect control cruel antique gather misery taste shuffle gentle";

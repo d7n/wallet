@@ -1,1 +1,1 @@
-var mnemonic = "tribe involve crazy conduct disagree trial virus east luxury jelly rate unknown";
+var mnemonic = "enforce catalog apart protect discover square grief ladder squeeze cotton pistol coach";

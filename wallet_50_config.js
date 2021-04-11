@@ -1,1 +1,1 @@
-var mnemonic = "atom vivid immense orchard peanut stumble peanut sauce shell extra inquiry story";
+var mnemonic = "law sting spice spin round dust hazard stadium call now there dentist";

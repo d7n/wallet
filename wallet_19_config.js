@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon park oval shuffle pond journey desk certain rice approve ignore inflict";
+var mnemonic = "local curious twice august sunset skirt language injury fortune cupboard rare oppose";

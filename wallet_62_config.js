@@ -1,1 +1,1 @@
-var mnemonic = "talk priority soul shuffle soccer iron pitch blouse spray nice canyon unaware";
+var mnemonic = "mule liberty myth benefit clown crater dust arm border blind kingdom fluid";

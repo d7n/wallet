@@ -1,1 +1,1 @@
-var mnemonic = "grace rich bind prepare long hold across zoo rug butter garage mixed";
+var mnemonic = "know recipe cake soul rebuild piece guess predict brother auto loop surface";

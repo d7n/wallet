@@ -1,1 +1,1 @@
-var mnemonic = "common shrug enable frequent economy curtain lion payment crew undo disorder dad";
+var mnemonic = "bullet wolf blanket whale cable fatal vote seat hungry trap glance believe";

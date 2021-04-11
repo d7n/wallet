@@ -1,1 +1,1 @@
-var mnemonic = "rate reason tell bless future awful trust angry rookie assault arm key";
+var mnemonic = "tool blade message west lock cram left song approve foil female quality";

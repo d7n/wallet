@@ -1,1 +1,1 @@
-var mnemonic = "execute crisp drum gain patrol zero wine pride absent drill sphere sauce";
+var mnemonic = "service give target blame unaware where protect cycle impact phrase version deny";

@@ -1,1 +1,1 @@
-var mnemonic = "addict brush tongue leader visual hen range wine attend gossip sting involve";
+var mnemonic = "steel ceiling blouse ill behind seven furnace audit dry reduce fiber perfect";

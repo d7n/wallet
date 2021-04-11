@@ -1,1 +1,1 @@
-var mnemonic = "best they witness pumpkin captain royal tornado kitten pepper fresh much frame";
+var mnemonic = "hood together garage trap furnace disagree fall apology oblige gain glance razor";

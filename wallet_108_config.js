@@ -1,1 +1,1 @@
-var mnemonic = "riot run art puzzle quiz bonus warfare grass arch click picnic ecology";
+var mnemonic = "tag castle cabbage trophy already chest beyond advance merit dignity rich absorb";

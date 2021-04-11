@@ -1,1 +1,1 @@
-var mnemonic = "pretty engine bag hockey swear hobby labor toast oblige hidden fade fever";
+var mnemonic = "bottom nuclear act cash toilet tomato raw rate blind gorilla panda heavy";

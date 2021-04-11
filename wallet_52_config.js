@@ -1,1 +1,1 @@
-var mnemonic = "since small spare finger you wave label monster winner genre day erupt";
+var mnemonic = "target average another because ancient history record medal define head private lock";

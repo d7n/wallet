@@ -1,1 +1,1 @@
-var mnemonic = "brush gospel frost sense exit glare material torch benefit claim flock addict";
+var mnemonic = "work gap exhaust female cannon north draft safe wet metal direct armor";

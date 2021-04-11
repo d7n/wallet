@@ -1,1 +1,1 @@
-var mnemonic = "blur six win hybrid resist grief humble orphan happy sun nose fold";
+var mnemonic = "donor clever tone bulb host deer nasty quote when adult winter coffee";

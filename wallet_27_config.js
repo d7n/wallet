@@ -1,1 +1,1 @@
-var mnemonic = "spirit swing dance distance clean female typical crouch rail rigid field essay";
+var mnemonic = "flee soldier bulk rare pattern cheese wheel snack butter armor allow virtual";

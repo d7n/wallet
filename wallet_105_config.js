@@ -1,1 +1,1 @@
-var mnemonic = "dune kind february they castle few excuse liar spray foot trial steak";
+var mnemonic = "ecology broken drive release canvas shallow pen valid seven aunt cat way";

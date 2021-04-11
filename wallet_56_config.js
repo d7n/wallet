@@ -1,1 +1,1 @@
-var mnemonic = "flight awake change fuel love monitor board pill daughter slow joy original";
+var mnemonic = "humble sniff gesture timber pen tank curve learn avocado fine zoo grant";

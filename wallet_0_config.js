@@ -1,1 +1,1 @@
-var mnemonic = "ritual divorce impulse alert innocent body combine silk absorb east goddess lion";
+var mnemonic = "thank govern session dirt have shine wrong dish outdoor pledge trophy clown";

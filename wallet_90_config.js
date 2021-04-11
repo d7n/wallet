@@ -1,1 +1,1 @@
-var mnemonic = "meadow fall reopen essay gauge dirt police load stereo inject property soul";
+var mnemonic = "boy glance muscle truth casual decide canal result mule vendor tragic mosquito";

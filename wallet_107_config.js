@@ -1,1 +1,1 @@
-var mnemonic = "pottery reunion bulk coach inmate duck execute chest exist convince ocean devote";
+var mnemonic = "blossom win lake tortoise note safe volcano drum spell bomb swear team";

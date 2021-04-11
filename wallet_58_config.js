@@ -1,1 +1,1 @@
-var mnemonic = "cliff husband repair devote tent slight betray dinosaur crouch husband scrub cliff";
+var mnemonic = "achieve infant sick student figure zero scout payment census rival push tomato";

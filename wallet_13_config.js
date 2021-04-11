@@ -1,1 +1,1 @@
-var mnemonic = "actor top spare raven museum eager glass injury monster rebel click test";
+var mnemonic = "fork salon rent small tribe bring office camp final elevator normal monster";

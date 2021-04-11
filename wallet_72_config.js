@@ -1,1 +1,1 @@
-var mnemonic = "radar raw crowd grant protect cloud soda captain soup news cricket share";
+var mnemonic = "essay shock jeans over prefer expand perfect liquid culture trip maple piano";

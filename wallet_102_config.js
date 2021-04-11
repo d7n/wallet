@@ -1,1 +1,1 @@
-var mnemonic = "satoshi ill muscle panda tobacco change view pole vacuum found aunt someone";
+var mnemonic = "govern lion bar fat infant usage tongue consider midnight vacant rain service";

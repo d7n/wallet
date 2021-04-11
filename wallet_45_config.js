@@ -1,1 +1,1 @@
-var mnemonic = "venue powder ceiling draft hospital inquiry face this purchase trick under rotate";
+var mnemonic = "design faith demise chunk insane solid around fury offer insane valve fog";

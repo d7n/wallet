@@ -1,1 +1,1 @@
-var mnemonic = "fashion bag curious elbow soft drink accuse chaos owner caught reopen adapt";
+var mnemonic = "boat rich orange dry video glow various canoe nation garlic extend result";

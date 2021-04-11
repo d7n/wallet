@@ -1,1 +1,1 @@
-var mnemonic = "grunt item three grass supply acquire false timber divide basket inherit mandate";
+var mnemonic = "broom auction pen dragon garment wolf pipe rifle liquid uncover between six";

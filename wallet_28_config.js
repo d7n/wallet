@@ -1,1 +1,1 @@
-var mnemonic = "universe memory language regular pony egg edit rib lazy decorate obey village";
+var mnemonic = "fiction heavy pelican pear nuclear clock media slam swear remember sugar hub";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder asthma warrior field neglect syrup artefact craft joy symbol success agent";
+var mnemonic = "impose canvas inform quantum network test topple cereal vicious bean absurd lumber";

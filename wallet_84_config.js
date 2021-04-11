@@ -1,1 +1,1 @@
-var mnemonic = "smoke castle power atom ten corn game visa faculty school require embrace";
+var mnemonic = "degree screen square oppose cupboard novel access hidden dwarf front valid flower";

@@ -1,1 +1,1 @@
-var mnemonic = "opera twist pyramid awesome afraid title merge tooth loop toe child sort";
+var mnemonic = "floor october judge scrub brisk february winner forum nephew grace pony enable";

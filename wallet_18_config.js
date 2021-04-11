@@ -1,1 +1,1 @@
-var mnemonic = "short stool cargo accident question produce field robust banner solve vote small";
+var mnemonic = "broccoli feel project area powder pride parade stock deliver foot razor piece";

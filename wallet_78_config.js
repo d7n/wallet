@@ -1,1 +1,1 @@
-var mnemonic = "copy yard damp chronic torch wealth cupboard cube payment orange reopen stay";
+var mnemonic = "slam switch rescue lazy code rubber reject borrow imitate goat deal solid";

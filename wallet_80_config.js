@@ -1,1 +1,1 @@
-var mnemonic = "tissue come estate ranch slab palm raw agree river stumble square build";
+var mnemonic = "husband phrase outer scatter core name author grid cruise arrive kangaroo balcony";

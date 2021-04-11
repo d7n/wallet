@@ -1,1 +1,1 @@
-var mnemonic = "neck course demise fancy panda talent try chalk rate ball monitor color";
+var mnemonic = "barely solve square tissue miracle squirrel extend sword say unable kid grape";

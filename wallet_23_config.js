@@ -1,1 +1,1 @@
-var mnemonic = "kick grocery measure coyote joy page aisle mesh pulp devote tide destroy";
+var mnemonic = "arrive age rifle list alone priority garage master jaguar casual expect machine";

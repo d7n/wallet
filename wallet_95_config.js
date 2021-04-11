@@ -1,1 +1,1 @@
-var mnemonic = "pair cable junk trust cream design chuckle squeeze strike athlete country expose";
+var mnemonic = "castle reveal armed olive cry hole glance sheriff kick thunder electric valve";

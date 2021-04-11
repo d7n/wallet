@@ -1,1 +1,1 @@
-var mnemonic = "symptom able section coin alcohol negative melody quality nasty link fiction organ";
+var mnemonic = "pepper arch labor physical pencil reform index evoke eagle rescue cash kitchen";

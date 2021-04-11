@@ -1,1 +1,1 @@
-var mnemonic = "fold rival item cake diesel add trick moment forward beyond ribbon cram";
+var mnemonic = "brief burger elegant depart tomato gossip enough improve flower again course aunt";

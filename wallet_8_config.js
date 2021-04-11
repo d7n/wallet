@@ -1,1 +1,1 @@
-var mnemonic = "cliff laptop ramp train pepper couch divert fossil window ceiling airport eye";
+var mnemonic = "lunar endless tube spoil baby balance will never insane humble garbage sunset";

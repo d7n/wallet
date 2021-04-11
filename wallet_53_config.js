@@ -1,1 +1,1 @@
-var mnemonic = "estate car require robust flock dust fiscal problem possible vague term grow";
+var mnemonic = "waste train split finish box winner mix excuse group add improve comfort";

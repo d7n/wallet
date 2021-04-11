@@ -1,1 +1,1 @@
-var mnemonic = "silver destroy floor wave ethics lonely grass lift dragon merge sign ivory";
+var mnemonic = "discover talent own intact differ ladder budget term mother evidence canyon release";

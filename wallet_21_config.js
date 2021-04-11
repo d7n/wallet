@@ -1,1 +1,1 @@
-var mnemonic = "acid year canyon horse source trust era endless biology summer gesture love";
+var mnemonic = "armor draw demand group finish way special arrow people text vocal tourist";

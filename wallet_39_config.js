@@ -1,1 +1,1 @@
-var mnemonic = "mouse air blush mass immune toward kitchen fine start pudding rib uncle";
+var mnemonic = "minute hammer round catalog panic extend sentence advice stuff uniform mixed depart";

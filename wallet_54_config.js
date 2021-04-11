@@ -1,1 +1,1 @@
-var mnemonic = "roof loan kit draw kitten canal pottery choose pipe doctor random surface";
+var mnemonic = "brush use jar pitch gas mimic antique possible frame once pizza analyst";

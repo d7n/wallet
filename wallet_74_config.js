@@ -1,1 +1,1 @@
-var mnemonic = "evil stairs pretty forest beauty muscle gesture robot today vast spy advance";
+var mnemonic = "during hurdle already stem gift crash age fashion convince drastic black deposit";

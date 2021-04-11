@@ -1,1 +1,1 @@
-var mnemonic = "able myth wild evidence cute kiss actress nasty opera judge actress rabbit";
+var mnemonic = "shrug drip urban pilot result danger initial ethics pave simple write asset";

@@ -1,1 +1,1 @@
-var mnemonic = "forum letter submit review harsh short derive desert dignity code crush supply";
+var mnemonic = "cradle foot toddler used melody work pact truth battle clay occur gentle";

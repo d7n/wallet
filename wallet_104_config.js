@@ -1,1 +1,1 @@
-var mnemonic = "fall fire actress latin mango round author oval mutual suffer wedding hope";
+var mnemonic = "solid average quote make vivid blush subway reward baby spell mistake junk";

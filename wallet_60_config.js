@@ -1,1 +1,1 @@
-var mnemonic = "proof urge stool venue olympic swift timber develop pig will canyon scatter";
+var mnemonic = "list tell spy all pattern rose clown battle cheese village enrich pottery";

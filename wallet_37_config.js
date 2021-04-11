@@ -1,1 +1,1 @@
-var mnemonic = "limit frame tired palm couch since jealous vacuum million gospel claim fix";
+var mnemonic = "manual cancel luxury render town emerge sort piece tribe try dice silver";

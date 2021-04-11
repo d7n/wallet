@@ -1,1 +1,1 @@
-var mnemonic = "barrel rent toilet nation crew spend mouse embark unveil enjoy pole economy";
+var mnemonic = "bag because gap badge perfect glow neither universe kidney average census vicious";

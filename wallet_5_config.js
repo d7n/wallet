@@ -1,1 +1,1 @@
-var mnemonic = "only tiny pattern weird interest estate brass access benefit rookie chase tip";
+var mnemonic = "beauty library mouse inform fit maid tired describe duck orbit rival sadness";

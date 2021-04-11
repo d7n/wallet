@@ -1,1 +1,1 @@
-var mnemonic = "outer electric devote occur alcohol midnight century illegal utility meat buffalo wait";
+var mnemonic = "balcony recall daughter cement fall service buzz garbage cotton captain fog expire";

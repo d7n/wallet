@@ -1,1 +1,1 @@
-var mnemonic = "door wing rapid joke vibrant dry eternal hover forum talk short noodle";
+var mnemonic = "outdoor bundle traffic category midnight alert educate humble green pig tree front";

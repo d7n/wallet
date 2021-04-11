@@ -1,1 +1,1 @@
-var mnemonic = "cancel spread foam annual other beauty capital clutch cute minute assault bachelor";
+var mnemonic = "hotel company wisdom laugh inherit fish dinosaur alpha bar resemble empower misery";

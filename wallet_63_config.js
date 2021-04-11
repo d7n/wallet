@@ -1,1 +1,1 @@
-var mnemonic = "season dose miracle cheap drip game inspire squirrel minute human car step";
+var mnemonic = "eye raise resemble virus reveal scene like trade timber school ship correct";

@@ -1,1 +1,1 @@
-var mnemonic = "caught chronic vehicle wine umbrella assault enact clean reject climb large tank";
+var mnemonic = "include cricket welcome industry fix victory car few head ocean party sister";

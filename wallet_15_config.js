@@ -1,1 +1,1 @@
-var mnemonic = "execute plunge fossil setup scissors little corn cereal taxi steak shuffle bamboo";
+var mnemonic = "income clinic grit bacon initial cousin divert knock erode normal cover isolate";

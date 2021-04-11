@@ -1,1 +1,1 @@
-var mnemonic = "tattoo elbow anxiety submit relax add robust error wet analyst beyond sheriff";
+var mnemonic = "fluid cactus license secret symbol secret dilemma oppose gown sphere roof mimic";

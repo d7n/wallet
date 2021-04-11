@@ -1,1 +1,1 @@
-var mnemonic = "exclude auto sphere sort state move kite keep convince skin figure lava";
+var mnemonic = "laundry person goddess stool quantum mosquito congress attract muffin away tilt language";

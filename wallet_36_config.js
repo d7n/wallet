@@ -1,1 +1,1 @@
-var mnemonic = "waste ice argue clap legal bachelor twelve plastic doll around peasant year";
+var mnemonic = "stick scrub split clap square doctor inhale weather head harsh load poverty";

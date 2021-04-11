@@ -1,1 +1,1 @@
-var mnemonic = "stand riot north snake brush chase bonus patch grid dynamic loop figure";
+var mnemonic = "once engage extend course before maple notable young foam day final swift";

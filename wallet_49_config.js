@@ -1,1 +1,1 @@
-var mnemonic = "siren canoe piano adult twice peasant cargo current load oven belt slush";
+var mnemonic = "trim focus wild fringe gap echo accident style tone abandon eye depend";

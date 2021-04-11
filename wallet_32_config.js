@@ -1,1 +1,1 @@
-var mnemonic = "ride found rose gate caution notable cheap dog holiday phone audit rebuild";
+var mnemonic = "question abuse evidence entire turkey vacuum picture sport roof account bird curious";

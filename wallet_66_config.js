@@ -1,1 +1,1 @@
-var mnemonic = "hospital offer subject roof normal attitude fire bar dish couch please permit";
+var mnemonic = "sadness ski east distance fruit glimpse whip task sleep anger next oval";

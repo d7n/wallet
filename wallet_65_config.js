@@ -1,1 +1,1 @@
-var mnemonic = "fox expand health cat kite talent escape capable observe win van disease";
+var mnemonic = "lunch still embody scare jump acid differ favorite extend mixture gadget still";

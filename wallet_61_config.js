@@ -1,1 +1,1 @@
-var mnemonic = "news six until level seed clutch bring pupil carry engine wing weapon";
+var mnemonic = "expand square casino owner chef modify huge arrow betray surround dress fork";

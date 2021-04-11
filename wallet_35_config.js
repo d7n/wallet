@@ -1,1 +1,1 @@
-var mnemonic = "table leg enhance rely wolf expire dutch tattoo parent round beyond project";
+var mnemonic = "shiver flavor episode vendor attack sheriff often salmon nature distance tray ice";

@@ -1,1 +1,1 @@
-var mnemonic = "demise wood rib dinosaur chunk trial occur foot destroy comfort art music";
+var mnemonic = "glimpse panel coin quality funny such dentist twelve worth frown divide salute";

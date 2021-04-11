@@ -1,1 +1,1 @@
-var mnemonic = "cake mutual demise wedding youth luggage peace six grit excite strategy raven";
+var mnemonic = "exit drift glue hurry capital elder system garment all deny wink warrior";
