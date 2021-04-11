@@ -1,1 +1,1 @@
-var mnemonic = "medal limb intact where letter adult urban chair settle device edge emotion";
+var mnemonic = "noble mention local bless donate tank photo approve capable injury model foster";

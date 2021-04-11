@@ -1,1 +1,1 @@
-var mnemonic = "advice balcony zoo junior token rice lake recycle segment analyst cheap tobacco";
+var mnemonic = "alter noise puppy stumble siren symbol leopard pepper brown book file satisfy";

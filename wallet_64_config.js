@@ -1,1 +1,1 @@
-var mnemonic = "million fault tilt shallow hire roast eyebrow parade yellow web spread suspect";
+var mnemonic = "pledge canoe olive dirt gown expose typical perfect fox bounce nose enemy";

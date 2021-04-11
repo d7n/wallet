@@ -1,1 +1,1 @@
-var mnemonic = "aisle bacon apple glance indoor idle helmet spring brick prosper marine liquid";
+var mnemonic = "dumb foil cook unlock physical soon hammer bacon common tragic swallow pipe";

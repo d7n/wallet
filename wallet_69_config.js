@@ -1,1 +1,1 @@
-var mnemonic = "drama party mouse donkey dentist runway wreck divide junior maid struggle sadness";
+var mnemonic = "ugly deny attend wash impact lava clown attract want olympic mystery consider";

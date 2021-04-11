@@ -1,1 +1,1 @@
-var mnemonic = "coach embody void chalk split chunk bachelor blush meadow motor unique famous";
+var mnemonic = "icon weekend toy glue pink oxygen close course much tree public end";

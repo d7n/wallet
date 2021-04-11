@@ -1,1 +1,1 @@
-var mnemonic = "post jeans cattle screen august poverty junior height grunt cheese fiber observe";
+var mnemonic = "measure usage setup satoshi actress unusual push symptom setup layer sport urban";

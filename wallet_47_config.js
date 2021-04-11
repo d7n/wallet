@@ -1,1 +1,1 @@
-var mnemonic = "atom trigger deer caution dignity inhale reason fun among ill large there";
+var mnemonic = "satisfy raise bright palace require orchard aisle ice hollow team unlock cement";

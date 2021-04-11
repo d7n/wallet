@@ -1,1 +1,1 @@
-var mnemonic = "velvet movie inch height solid caution account claw nuclear demise odor usage";
+var mnemonic = "attack three elegant dwarf acoustic accident craft property friend rail online parade";

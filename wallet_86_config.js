@@ -1,1 +1,1 @@
-var mnemonic = "eight elegant abuse scare napkin choice trap quantum era lottery hundred camp";
+var mnemonic = "ball common script possible claw brave embrace able live spread vivid fortune";

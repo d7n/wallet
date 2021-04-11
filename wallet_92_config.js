@@ -1,1 +1,1 @@
-var mnemonic = "awkward awful scale fly foil want mistake travel maze duty peasant thing";
+var mnemonic = "dog diagram receive crop donkey noble trash frozen cage tone laptop flat";

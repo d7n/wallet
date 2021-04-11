@@ -1,1 +1,1 @@
-var mnemonic = "cup judge forget spice echo armed simple account stem home sweet scatter";
+var mnemonic = "cause special century consider useless unlock supreme minimum cherry usual unfold fluid";

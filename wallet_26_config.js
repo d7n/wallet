@@ -1,1 +1,1 @@
-var mnemonic = "nothing script economy pear barrel hill trial used sell cook account drastic";
+var mnemonic = "scissors tuition utility stuff find future average ceiling equip nuclear lizard wealth";

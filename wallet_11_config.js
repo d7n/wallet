@@ -1,1 +1,1 @@
-var mnemonic = "pair hip post party provide leopard similar switch false vessel weasel liar";
+var mnemonic = "street strategy liquid suspect digital swear damp garage denial aunt also man";

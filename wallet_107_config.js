@@ -1,1 +1,1 @@
-var mnemonic = "office gossip soup cart repair boat want soldier token sand panic cram";
+var mnemonic = "magic goat ask flush flush inspire husband chair cart earn shadow apple";

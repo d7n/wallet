@@ -1,1 +1,1 @@
-var mnemonic = "tilt monster pact disagree siege outside sorry turn way lecture host kick";
+var mnemonic = "hamster motion laugh shrimp wagon already glass congress flip reject garage day";

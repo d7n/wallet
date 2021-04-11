@@ -1,1 +1,1 @@
-var mnemonic = "jeans view before leave blood canal empty guide suit lunar chest eternal";
+var mnemonic = "erase reopen script idle rhythm weird hurt mother color nasty race north";

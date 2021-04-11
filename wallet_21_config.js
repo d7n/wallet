@@ -1,1 +1,1 @@
-var mnemonic = "fox carpet cost midnight monkey path bone work arch rhythm exercise birth";
+var mnemonic = "arrange derive salt bulk blouse giant stick guitar render brown aisle nose";

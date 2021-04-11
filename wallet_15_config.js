@@ -1,1 +1,1 @@
-var mnemonic = "aerobic cost latin stem lemon home bulk game weasel kit battle earn";
+var mnemonic = "only glimpse unfold private inside toss shallow zero debate vapor name exhaust";

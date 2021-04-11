@@ -1,1 +1,1 @@
-var mnemonic = "once festival library valid weasel risk venture empower runway catalog dynamic tissue";
+var mnemonic = "column will indicate birth palace flee raw tourist veteran burst glance trust";

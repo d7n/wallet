@@ -1,1 +1,1 @@
-var mnemonic = "arctic sponsor toy boss draft history van check when version inner define";
+var mnemonic = "lazy cable glue awful assist vast office case raw rug borrow kiss";

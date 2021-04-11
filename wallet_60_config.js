@@ -1,1 +1,1 @@
-var mnemonic = "ski surprise warm exchange quality rent birth exhaust tongue business success bachelor";
+var mnemonic = "early ginger dress question dune carbon volcano nation lazy fitness mouse drift";

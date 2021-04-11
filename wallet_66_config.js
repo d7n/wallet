@@ -1,1 +1,1 @@
-var mnemonic = "race among drum worth tourist picture couch copper sustain fiction predict fold";
+var mnemonic = "proof help tip lunch bronze alien spot initial reward solid ability deposit";

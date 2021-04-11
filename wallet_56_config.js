@@ -1,1 +1,1 @@
-var mnemonic = "click person suffer general bamboo wisdom relax behind barely space key renew";
+var mnemonic = "switch sketch walnut acid cost half warfare order dial prize noise spoon";

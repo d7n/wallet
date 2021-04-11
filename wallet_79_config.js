@@ -1,1 +1,1 @@
-var mnemonic = "mad infant wreck record ritual burger usual fluid laptop hover pioneer rookie";
+var mnemonic = "notable inch icon symptom armor urge satoshi circle avoid family tiny market";

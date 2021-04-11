@@ -1,1 +1,1 @@
-var mnemonic = "caught witness person metal tree brave border oil wink grape champion immune";
+var mnemonic = "furnace audit despair slow burger behave able hospital pig vote mask decorate";

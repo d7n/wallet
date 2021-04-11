@@ -1,1 +1,1 @@
-var mnemonic = "either knife vivid laptop ankle civil pole voice jeans burden cave side";
+var mnemonic = "cereal spray client fury tape smile girl fiction frame happy want surround";

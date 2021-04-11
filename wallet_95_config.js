@@ -1,1 +1,1 @@
-var mnemonic = "draw tourist gym arctic useful wagon library shed cement cargo logic annual";
+var mnemonic = "program jacket human lab bubble smile miracle planet coyote mechanic prize soldier";

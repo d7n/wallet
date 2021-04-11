@@ -1,1 +1,1 @@
-var mnemonic = "taste feel unable woman defense obscure tobacco life rich aerobic love real";
+var mnemonic = "assault maze seek hybrid resist logic hole notice monitor wide age dawn";

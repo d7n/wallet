@@ -1,1 +1,1 @@
-var mnemonic = "boy bench zero front price embrace vocal suit couch omit vapor honey";
+var mnemonic = "monitor settle critic stage like conduct winner sort adult topic invite final";

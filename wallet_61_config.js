@@ -1,1 +1,1 @@
-var mnemonic = "click comfort country wrist relax express able tower mimic allow gallery party";
+var mnemonic = "nephew coast jaguar acid pony matrix forum place task boring utility label";

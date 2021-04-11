@@ -1,1 +1,1 @@
-var mnemonic = "wave dress wish race adult admit voyage tip pen derive ship group";
+var mnemonic = "remain arena ticket baby disorder answer exercise trigger alone embody pause combine";

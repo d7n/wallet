@@ -1,1 +1,1 @@
-var mnemonic = "ripple human daughter trash age motor shift hybrid write home lemon aunt";
+var mnemonic = "model wave rocket problem crawl embrace shock current genuine mom elephant garden";

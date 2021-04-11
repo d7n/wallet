@@ -1,1 +1,1 @@
-var mnemonic = "two evil axis quantum present step term donate home vote rule era";
+var mnemonic = "lawn bridge prize cost process save harvest cute expect leave vanish buddy";

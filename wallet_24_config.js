@@ -1,1 +1,1 @@
-var mnemonic = "dice risk theme scout horror merry fresh finish piano smile broccoli potato";
+var mnemonic = "abuse join awful cover oven eagle merry hard expire choose eye color";

@@ -1,1 +1,1 @@
-var mnemonic = "denial bicycle betray situate double swear above glimpse note tree modify guard";
+var mnemonic = "embody wing key nuclear later dry topple upon rival apology basket thank";

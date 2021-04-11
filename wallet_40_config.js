@@ -1,1 +1,1 @@
-var mnemonic = "bleak tragic punch click panda inflict vacant organ wall mean elbow whip";
+var mnemonic = "wall inmate argue amount intact rough acoustic vacant human chuckle reward husband";

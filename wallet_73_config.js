@@ -1,1 +1,1 @@
-var mnemonic = "lend pattern romance key plate city loop because west canyon select attack";
+var mnemonic = "flat stone dust cradle sentence juice crisp wall away stadium release use";

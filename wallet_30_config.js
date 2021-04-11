@@ -1,1 +1,1 @@
-var mnemonic = "forget sail drive fresh hunt stairs yellow reduce review moon shaft what";
+var mnemonic = "barely myth champion rifle thumb hollow letter develop sand crane damp juice";

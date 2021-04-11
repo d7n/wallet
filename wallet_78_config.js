@@ -1,1 +1,1 @@
-var mnemonic = "throw adult theory rain wonder emotion drip solid immune notice planet company";
+var mnemonic = "reduce enemy angry apple churn purpose hint glove juice nest input leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "rack oil style float fun forget apology issue topple stamp flame emotion";
+var mnemonic = "nephew damage marriage chicken buffalo occur farm normal shove end horn section";

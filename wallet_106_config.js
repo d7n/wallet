@@ -1,1 +1,1 @@
-var mnemonic = "modify input subject inside help blue coil parade east define cup pause";
+var mnemonic = "gadget note love crisp color access fresh video silk quit august addict";

@@ -1,1 +1,1 @@
-var mnemonic = "maid mercy tower half concert pizza bounce warfare provide maze improve toast";
+var mnemonic = "dog olive salmon bean volume eye eager mimic night unaware actual debate";

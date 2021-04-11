@@ -1,1 +1,1 @@
-var mnemonic = "gain artist genre legal stuff claw pottery wish faith bone scan grant";
+var mnemonic = "awake real cause race dizzy march seek replace peasant grant couch strike";

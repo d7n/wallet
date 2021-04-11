@@ -1,1 +1,1 @@
-var mnemonic = "material grocery clap inmate top drift bounce hobby olive embody drip peasant";
+var mnemonic = "pen game ridge pause advance allow banner blur rabbit cheese social riot";

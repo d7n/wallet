@@ -1,1 +1,1 @@
-var mnemonic = "reopen hospital source scare road predict term little asset solid language poem";
+var mnemonic = "crystal sense deliver pottery moral define warfare palm zebra north under search";

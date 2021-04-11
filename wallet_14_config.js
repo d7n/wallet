@@ -1,1 +1,1 @@
-var mnemonic = "human kingdom hope obey jacket gun aim milk deposit that large hybrid";
+var mnemonic = "autumn scout crouch couch custom drip custom adjust heart ladder mobile degree";

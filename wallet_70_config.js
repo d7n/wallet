@@ -1,1 +1,1 @@
-var mnemonic = "aware clock snack hen marriage space episode shuffle seven wheat patrol couple";
+var mnemonic = "hold enact siren copy news cargo suffer blast curve lemon unfair remember";

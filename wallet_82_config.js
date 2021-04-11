@@ -1,1 +1,1 @@
-var mnemonic = "target bacon old twist course true host glue home elephant dress mule";
+var mnemonic = "cry client catalog peasant depend minimum identify liberty medal mimic cherry garden";

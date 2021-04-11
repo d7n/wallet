@@ -1,1 +1,1 @@
-var mnemonic = "sure ill alter blush sniff notable elephant cook sea wild angle symptom";
+var mnemonic = "album cloth stock already monitor labor toddler merit goat boil purpose there";

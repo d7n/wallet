@@ -1,1 +1,1 @@
-var mnemonic = "access crumble transfer silly oblige horror quarter behave disease picnic final element";
+var mnemonic = "disease robot infant fetch kit below catch run fringe promote faith brief";

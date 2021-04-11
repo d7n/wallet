@@ -1,1 +1,1 @@
-var mnemonic = "boat brand say wise grief barely master already human popular aisle gym";
+var mnemonic = "motor news rather lend until story evolve eye manual segment weather reveal";

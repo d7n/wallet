@@ -1,1 +1,1 @@
-var mnemonic = "trial auction match sudden version green laugh skin globe tuna husband service";
+var mnemonic = "december nest install canoe aunt decide cereal again olympic absurd voice doctor";

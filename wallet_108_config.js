@@ -1,1 +1,1 @@
-var mnemonic = "ring manage damage icon habit catalog drum minimum salmon program inform exclude";
+var mnemonic = "list basic mix color buffalo zebra claw member census swear describe erosion";

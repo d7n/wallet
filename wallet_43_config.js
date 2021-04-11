@@ -1,1 +1,1 @@
-var mnemonic = "reason verify heavy stereo hip arm still remove shrug door bean gain";
+var mnemonic = "guess there come hospital also brain crime weasel sun usage tumble chimney";

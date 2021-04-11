@@ -1,1 +1,1 @@
-var mnemonic = "find oval sleep affair become demise matrix model huge bread prevent pair";
+var mnemonic = "gasp rival small crunch expire enough awkward exhaust major sunset invest merge";

@@ -1,1 +1,1 @@
-var mnemonic = "staff sting electric nose derive million stool when crouch because become cable";
+var mnemonic = "boost eagle plunge kitten naive security episode member crew poet crack holiday";

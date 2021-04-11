@@ -1,1 +1,1 @@
-var mnemonic = "judge winner clip number devote flower crash response error deal observe spoil";
+var mnemonic = "habit mail permit bacon million diary recycle digital fossil coach confirm planet";

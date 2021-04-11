@@ -1,1 +1,1 @@
-var mnemonic = "sign book seat mirror future panther busy hope ghost return boring corn";
+var mnemonic = "okay link fade winner fix away joke task cost keen metal edge";

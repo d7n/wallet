@@ -1,1 +1,1 @@
-var mnemonic = "oblige cotton feed cup strong hundred note gain collect blood tenant below";
+var mnemonic = "skull machine want kind foam forward dumb fix load net loan play";

@@ -1,1 +1,1 @@
-var mnemonic = "valley mixed planet uniform high volcano leisure gown rubber rug caught improve";
+var mnemonic = "forget poem drive cave trim try nasty boss idle believe can swing";

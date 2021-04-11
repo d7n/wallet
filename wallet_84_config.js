@@ -1,1 +1,1 @@
-var mnemonic = "vintage tuna detail oyster cry barely summer produce blue elbow announce maximum";
+var mnemonic = "away waste ostrich dumb goose wing excite pilot angry ankle between monster";

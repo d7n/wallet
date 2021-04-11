@@ -1,1 +1,1 @@
-var mnemonic = "pelican wrestle victory sell crumble divorce giraffe pledge mobile vehicle strategy couch";
+var mnemonic = "clap praise noodle breeze office invest feel protect talent dial battle ecology";

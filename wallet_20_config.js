@@ -1,1 +1,1 @@
-var mnemonic = "peanut garage quiz result evolve odor frost prefer dream salute decline junk";
+var mnemonic = "hurry wrap load wolf eager undo drive clown discover region pipe winner";

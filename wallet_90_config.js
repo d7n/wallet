@@ -1,1 +1,1 @@
-var mnemonic = "fold merry excuse repair mystery couple sister embark dog human scatter typical";
+var mnemonic = "mutual barely climb dynamic extend comfort furnace scare settle bicycle public flag";

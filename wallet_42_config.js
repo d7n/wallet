@@ -1,1 +1,1 @@
-var mnemonic = "reduce room core salt drink comic matter suggest cage shell sign upon";
+var mnemonic = "assist item interest mad head flash april area chunk torch fury exclude";

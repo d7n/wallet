@@ -1,1 +1,1 @@
-var mnemonic = "width floor fantasy sort rib digital volcano cool survey birth farm zebra";
+var mnemonic = "series crowd lyrics charge wisdom option dynamic jacket whip foam north cereal";

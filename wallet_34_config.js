@@ -1,1 +1,1 @@
-var mnemonic = "shine excuse head adapt burden napkin celery before one work total across";
+var mnemonic = "tag crystal sense first bless beach pumpkin fetch vessel apology machine such";

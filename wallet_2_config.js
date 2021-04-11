@@ -1,1 +1,1 @@
-var mnemonic = "parade heavy floor fetch laundry aim october fire squirrel season charge tower";
+var mnemonic = "race ready cycle learn benefit oyster organ deal frame shoot burden hero";

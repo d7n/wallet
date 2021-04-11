@@ -1,1 +1,1 @@
-var mnemonic = "craft finish risk scout news furnace advice begin tornado merry disorder fit";
+var mnemonic = "route crystal denial turkey awful school custom release frozen position two survey";

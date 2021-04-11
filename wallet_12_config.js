@@ -1,1 +1,1 @@
-var mnemonic = "accuse gate screen tool around two maximum crumble bronze taste dog carbon";
+var mnemonic = "gesture illness smart leopard toddler dish vault trip candy shield animal broken";

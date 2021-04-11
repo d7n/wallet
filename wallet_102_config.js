@@ -1,1 +1,1 @@
-var mnemonic = "camp paddle model whisper pupil various pilot legal poverty image august narrow";
+var mnemonic = "slide hurt strike liberty blast crime question simple push dwarf final reason";

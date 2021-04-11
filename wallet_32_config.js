@@ -1,1 +1,1 @@
-var mnemonic = "tattoo south hole panel horse gossip occur cotton sun remember truck stadium";
+var mnemonic = "blanket water comic april warfare chuckle fork broken discover pink pudding screen";

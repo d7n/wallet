@@ -1,1 +1,1 @@
-var mnemonic = "film innocent regular agree load cluster rigid chaos nose rain object any";
+var mnemonic = "consider decrease history federal exit swift brain armed oak cheese split wool";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny hair mandate super critic wild gold permit rural tragic raise sadness";
+var mnemonic = "prison salute wealth photo endorse filter always perfect emotion fall word ribbon";

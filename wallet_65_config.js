@@ -1,1 +1,1 @@
-var mnemonic = "insane north kite cactus skin drum sunny hood know indicate replace cinnamon";
+var mnemonic = "junior table wasp buffalo industry one mechanic friend rigid dolphin shed stock";

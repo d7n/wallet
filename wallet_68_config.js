@@ -1,1 +1,1 @@
-var mnemonic = "lamp ocean mercy comic wreck empower gas lesson lend shine grocery denial";
+var mnemonic = "attack foil basic topic farm answer usage between few double visit tail";

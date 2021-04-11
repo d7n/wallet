@@ -1,1 +1,1 @@
-var mnemonic = "sting flag ride fire bronze night upper avoid silent garden trigger perfect";
+var mnemonic = "wrong turtle actor despair section bread furnace picnic apple woman winter help";

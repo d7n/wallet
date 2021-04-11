@@ -1,1 +1,1 @@
-var mnemonic = "sugar slender field until mobile clutch torch crouch produce wage legal three";
+var mnemonic = "mansion stool video supreme elevator giggle stone humble robot armor dilemma rail";

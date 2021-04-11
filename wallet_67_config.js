@@ -1,1 +1,1 @@
-var mnemonic = "churn impose truck bag gather absent across useful use defense utility light";
+var mnemonic = "life camp material delay advice airport kiwi tomorrow rabbit industry pill chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "deal federal worth cute fortune stereo music hire guitar wave area actual";
+var mnemonic = "meat maximum drift popular paper heavy omit spin bean oven apart bitter";

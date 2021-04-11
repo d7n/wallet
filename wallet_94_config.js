@@ -1,1 +1,1 @@
-var mnemonic = "purity deal regret mango pill hand enough dish remove story pair trust";
+var mnemonic = "crawl happy rude tribe monkey vague sure split avoid coil two arch";

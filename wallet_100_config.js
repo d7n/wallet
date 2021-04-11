@@ -1,1 +1,1 @@
-var mnemonic = "defy leopard rent wash unable century tired help flower enable give impulse";
+var mnemonic = "actress blossom pig catch project matrix hockey heavy short enter mother raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "coral gesture expose craft scan cereal piece ugly clog mass ancient diesel";
+var mnemonic = "aspect pair notice indoor tilt easily fence uncover drink have estate face";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel carry grace theory tell relax picture mountain honey accuse tumble pumpkin";
+var mnemonic = "shove brain pride swim orient thought hat find fancy before more sentence";

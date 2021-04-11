@@ -1,1 +1,1 @@
-var mnemonic = "surround deputy put praise bright average shadow leisure sauce purpose minimum enhance";
+var mnemonic = "violin kitchen december banana blue under define strategy comic possible danger orbit";

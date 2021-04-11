@@ -1,1 +1,1 @@
-var mnemonic = "volcano leg blossom panel caught pupil tank time palace lecture unit obvious";
+var mnemonic = "symptom base pet twin ranch visa pet frame slice scan midnight miss";

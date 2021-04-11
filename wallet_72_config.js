@@ -1,1 +1,1 @@
-var mnemonic = "jungle engage depend mistake brother adjust lawn eagle height glory dash season";
+var mnemonic = "family mushroom museum drama album clerk total ivory age traffic logic steak";
