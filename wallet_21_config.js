@@ -1,1 +1,1 @@
-var mnemonic = "two check endorse margin delay square dune arctic front stable spot either";
+var mnemonic = "plug floor eye notable limb argue flavor web want whale project fitness";

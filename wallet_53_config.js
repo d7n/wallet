@@ -1,1 +1,1 @@
-var mnemonic = "pet canyon energy vessel check street step announce license grab silver around";
+var mnemonic = "neglect argue cash doll message hair process elevator spell style fork quote";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic razor control unit prize denial actual fetch charge erosion alcohol cat";
+var mnemonic = "end million movie process fix day material retreat appear cotton under flower";

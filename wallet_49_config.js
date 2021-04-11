@@ -1,1 +1,1 @@
-var mnemonic = "vapor risk soft escape nuclear office mail nuclear wide iron seminar over";
+var mnemonic = "race plug couple prosper isolate invite now burger knee ritual ozone note";

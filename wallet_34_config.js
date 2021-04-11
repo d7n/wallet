@@ -1,1 +1,1 @@
-var mnemonic = "biology purity problem giant season small orient example slice play plastic venture";
+var mnemonic = "pretty reveal peace sorry muffin solve fix feature neglect debate together door";

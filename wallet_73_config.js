@@ -1,1 +1,1 @@
-var mnemonic = "discover tenant logic route around noble move oblige drink forget melt cloth";
+var mnemonic = "evidence eagle sight glance kick surge scissors deliver message bacon limit debate";

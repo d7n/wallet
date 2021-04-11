@@ -1,1 +1,1 @@
-var mnemonic = "use chronic bridge robust fever because bonus stone pear charge define custom";
+var mnemonic = "word cotton chunk orchard cable shiver mirror monitor wedding void ramp bargain";

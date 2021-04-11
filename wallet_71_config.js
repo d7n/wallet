@@ -1,1 +1,1 @@
-var mnemonic = "check keen ramp topic develop trust test table tiny sad awesome hint";
+var mnemonic = "scan business august heavy final disagree peanut eternal split palace lyrics escape";

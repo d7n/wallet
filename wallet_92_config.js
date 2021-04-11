@@ -1,1 +1,1 @@
-var mnemonic = "scheme shiver tennis across check chair tell stay device resist scissors firm";
+var mnemonic = "carbon company taste immense napkin fade weird foil body talk foster invest";

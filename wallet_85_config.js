@@ -1,1 +1,1 @@
-var mnemonic = "broccoli episode wet seven rabbit prefer gallery lion together ritual velvet story";
+var mnemonic = "minor fatal ketchup unfold solve since permit cram veteran sword scorpion purse";

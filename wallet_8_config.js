@@ -1,1 +1,1 @@
-var mnemonic = "witness fish original page sibling fortune wheat apart flash normal cube creek";
+var mnemonic = "lunch prefer cigar occur thumb random essay oak expire earn avoid odor";

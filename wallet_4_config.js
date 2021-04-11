@@ -1,1 +1,1 @@
-var mnemonic = "proof arctic march carpet empty oppose push suffer sand senior space clarify";
+var mnemonic = "first extend paper wild echo hat addict crack exist learn alcohol milk";

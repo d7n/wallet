@@ -1,1 +1,1 @@
-var mnemonic = "end air hill rough diet become radio crowd banner play unfair field";
+var mnemonic = "copper kingdom unfair hen gold canyon craft good latin sudden slice spin";

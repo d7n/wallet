@@ -1,1 +1,1 @@
-var mnemonic = "sugar suggest vote action vague habit excess zone able marble tribe trade";
+var mnemonic = "hood voyage vacant spare bread combine abandon nest flee student ten acid";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet easily ecology program glare title arrange program leg black artefact ride";
+var mnemonic = "calm stomach alien night leopard royal use pretty dice aim trial observe";

@@ -1,1 +1,1 @@
-var mnemonic = "fit cost there catalog mechanic plate transfer dilemma crumble loan stand what";
+var mnemonic = "panther border junk own enjoy buffalo funny sudden guard join chalk second";

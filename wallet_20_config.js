@@ -1,1 +1,1 @@
-var mnemonic = "cupboard virus happy dignity survey slender identify aunt blur gaze valve cargo";
+var mnemonic = "liquid slim draw mad bitter crop hover ivory they egg bridge warm";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck athlete stumble keep nephew debris scrub maid reunion couch grant sentence";
+var mnemonic = "describe sight please call lunar veteran grain myself physical stem vintage hundred";

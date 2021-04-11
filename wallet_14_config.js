@@ -1,1 +1,1 @@
-var mnemonic = "key wish banana confirm install clown marriage simple daring foil whale spatial";
+var mnemonic = "custom error affair embark observe cricket toy candy merit dose embark eight";

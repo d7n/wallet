@@ -1,1 +1,1 @@
-var mnemonic = "column screen differ forward offer insect round unknown game crater obscure clump";
+var mnemonic = "sniff rhythm armed path eagle intact reform giraffe clown grocery taste royal";

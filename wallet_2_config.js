@@ -1,1 +1,1 @@
-var mnemonic = "beach exotic glimpse merge evidence kit donkey bomb upgrade wide dry west";
+var mnemonic = "dust crop silk section broccoli payment together price either angry rib often";

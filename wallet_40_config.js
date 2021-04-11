@@ -1,1 +1,1 @@
-var mnemonic = "saddle used make snow supply future manage summer door will invest orphan";
+var mnemonic = "bitter public pencil romance matter candy auction critic hunt undo weapon wait";

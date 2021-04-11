@@ -1,1 +1,1 @@
-var mnemonic = "rice edge task open sorry purity crime banana sudden breeze cheap barely";
+var mnemonic = "method trumpet beef wire spend upper embody supreme swamp void wear crawl";

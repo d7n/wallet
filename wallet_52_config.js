@@ -1,1 +1,1 @@
-var mnemonic = "head vehicle village assist filter web lyrics pencil blind trigger couch someone";
+var mnemonic = "exist manage ring south spider canvas oppose slab jazz frost pupil loud";

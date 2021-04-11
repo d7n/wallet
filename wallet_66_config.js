@@ -1,1 +1,1 @@
-var mnemonic = "sweet flavor grid cream art lamp dad helmet mansion lawsuit name depth";
+var mnemonic = "better uphold gold train elegant mechanic hover cotton dragon furnace hope goose";

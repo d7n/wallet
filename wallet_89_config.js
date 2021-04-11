@@ -1,1 +1,1 @@
-var mnemonic = "supreme valve need layer cycle extend tiny obscure quarter heart cheap awesome";
+var mnemonic = "tiger unfold print inject spare account private cloth cube whisper segment priority";

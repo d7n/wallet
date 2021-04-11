@@ -1,1 +1,1 @@
-var mnemonic = "viable pass magnet cable notable pilot when job double possible shine panel";
+var mnemonic = "casino employ across parrot token hundred burger secret uncover dog youth patch";

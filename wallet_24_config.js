@@ -1,1 +1,1 @@
-var mnemonic = "seven grain chef bottom lamp alien media guilt drink punch ill tennis";
+var mnemonic = "spare super deliver start virus total rigid purity connect wood hurry today";

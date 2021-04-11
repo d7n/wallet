@@ -1,1 +1,1 @@
-var mnemonic = "robust person crowd used belt family boost wheat object review display cover";
+var mnemonic = "school prefer depend seminar orange soft initial license unfold brand unaware coach";

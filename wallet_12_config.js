@@ -1,1 +1,1 @@
-var mnemonic = "gain focus rail reunion exotic melt stock suit robust air stay funny";
+var mnemonic = "ritual rain desk vacant multiply brand first outside birth deputy venue lizard";

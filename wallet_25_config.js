@@ -1,1 +1,1 @@
-var mnemonic = "fringe review ivory gather moment error wine cross wait trumpet wreck spoil";
+var mnemonic = "priority sentence lava cash potato immense fragile flight tiger ask where execute";

@@ -1,1 +1,1 @@
-var mnemonic = "hair subject bleak gown sand fancy famous print angry sight tube saddle";
+var mnemonic = "cash area limb position arch grain evoke sight crumble draw venture crater";

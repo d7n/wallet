@@ -1,1 +1,1 @@
-var mnemonic = "route crash crew that pencil swim bacon act hawk jar focus hub";
+var mnemonic = "waste tenant light shoe welcome calm idea refuse silent post train rebel";

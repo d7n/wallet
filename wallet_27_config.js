@@ -1,1 +1,1 @@
-var mnemonic = "index spread alter search skin enforce area decline property hurt chicken drama";
+var mnemonic = "heart notable antique escape actual corn sad genre later trip slogan among";

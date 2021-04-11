@@ -1,1 +1,1 @@
-var mnemonic = "betray resist power oppose wet basic increase build verb winner hover begin";
+var mnemonic = "humble onion organ unknown runway way stem raven banana teach perfect strong";

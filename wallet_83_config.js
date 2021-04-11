@@ -1,1 +1,1 @@
-var mnemonic = "album own senior limit fame digital gadget slim document long knee opera";
+var mnemonic = "purchase sketch carbon what connect equal lend skill dwarf worry wall group";

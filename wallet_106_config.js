@@ -1,1 +1,1 @@
-var mnemonic = "apple similar enhance squirrel smoke depart parade park drift security awesome blanket";
+var mnemonic = "practice forward blood stock maid present print nothing essay that carbon sort";

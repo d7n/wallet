@@ -1,1 +1,1 @@
-var mnemonic = "damp unable image female kangaroo cabbage few chair tone auction sustain quarter";
+var mnemonic = "exact fly kitten main base unaware bring net cause project donor medal";

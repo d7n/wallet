@@ -1,1 +1,1 @@
-var mnemonic = "tortoise taste fabric odor tide latin pupil canvas churn liar party only";
+var mnemonic = "route fuel enemy return hamster cube candy surge sponsor digital melt hammer";

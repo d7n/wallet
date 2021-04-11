@@ -1,1 +1,1 @@
-var mnemonic = "mix assume wife useless door elder spend table mistake kingdom notable kingdom";
+var mnemonic = "crystal trigger retire empty fault inch deal ocean spin kingdom palace certain";

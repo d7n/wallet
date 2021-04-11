@@ -1,1 +1,1 @@
-var mnemonic = "neglect rely alley normal hen cruise holiday quit talk medal pause domain";
+var mnemonic = "keep install flower verify anger bargain cash used liberty buyer auction bird";

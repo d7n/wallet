@@ -1,1 +1,1 @@
-var mnemonic = "coach blanket symbol valve giggle express output mask tenant expire hen resource";
+var mnemonic = "acquire talent better olympic always hundred agree expose beach brush ozone conduct";

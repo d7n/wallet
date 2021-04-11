@@ -1,1 +1,1 @@
-var mnemonic = "zero scrap card title path shop suffer author frequent top nuclear pet";
+var mnemonic = "airport chronic gun review payment creek toward print enroll taste egg speed";

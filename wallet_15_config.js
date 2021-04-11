@@ -1,1 +1,1 @@
-var mnemonic = "mistake supreme audit wide robot critic smoke disorder machine bamboo poverty quantum";
+var mnemonic = "wage enroll taste swim skin clog device sentence require enforce tattoo claw";

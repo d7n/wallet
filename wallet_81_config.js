@@ -1,1 +1,1 @@
-var mnemonic = "grief round connect team stove finish box balance stage topic champion boil";
+var mnemonic = "host slam steel tourist indicate crisp elite axis real runway calm people";

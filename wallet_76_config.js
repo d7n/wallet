@@ -1,1 +1,1 @@
-var mnemonic = "place chapter debate amateur bitter govern senior board avoid multiply tourist mutual";
+var mnemonic = "garlic grain sorry sport empower awake consider dawn unit pond fit peace";

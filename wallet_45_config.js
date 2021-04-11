@@ -1,1 +1,1 @@
-var mnemonic = "phone holiday dance measure snap near rival cotton local reveal flower jacket";
+var mnemonic = "diet ribbon moral review evil spice fox domain dwarf recipe coral mirror";

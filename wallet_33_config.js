@@ -1,1 +1,1 @@
-var mnemonic = "sure kid curious liar service blast gentle symbol drill room brass shy";
+var mnemonic = "six clump donkey step boat industry distance world small away neglect luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "human immune memory forest bubble material any margin barrel dust air sentence";
+var mnemonic = "shaft pull bitter wasp cancel inside laugh depart ecology ugly solar couple";

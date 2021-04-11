@@ -1,1 +1,1 @@
-var mnemonic = "select drama satoshi betray host issue shiver current wage train antenna alter";
+var mnemonic = "frequent fire apart miracle name mind version tide erode exhaust bounce fine";

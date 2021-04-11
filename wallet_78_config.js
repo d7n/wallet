@@ -1,1 +1,1 @@
-var mnemonic = "cost scheme accuse indicate churn entry perfect bless crystal wish jaguar search";
+var mnemonic = "heart corn physical sure blood order comfort mirror hill palace earn panic";

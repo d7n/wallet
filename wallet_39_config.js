@@ -1,1 +1,1 @@
-var mnemonic = "unit alert time embark possible carbon shoot trash sibling fatal boring magnet";
+var mnemonic = "metal one anxiety reason either real chalk pepper drift umbrella never elder";

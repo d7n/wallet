@@ -1,1 +1,1 @@
-var mnemonic = "abstract scheme leader almost arena gaze moral fence sport suspect child cement";
+var mnemonic = "dirt upset glare diary wing hope thrive sweet edge atom absorb scare";

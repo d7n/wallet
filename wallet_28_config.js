@@ -1,1 +1,1 @@
-var mnemonic = "drama flock coach vague super donor deposit rib volume gospel pact salad";
+var mnemonic = "pistol spring adjust flush now earn skin clarify lunar bracket lift ghost";

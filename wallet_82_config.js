@@ -1,1 +1,1 @@
-var mnemonic = "success color afraid furnace post lonely universe frog trial neck radio thrive";
+var mnemonic = "domain shop any because brass grace volume absorb layer style segment odor";

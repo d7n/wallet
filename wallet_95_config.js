@@ -1,1 +1,1 @@
-var mnemonic = "icon chronic spin crash promote vault unknown nut property speed citizen basket";
+var mnemonic = "awesome lobster card attract gather stomach write rival imitate essence spike step";

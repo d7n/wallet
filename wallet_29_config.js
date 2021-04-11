@@ -1,1 +1,1 @@
-var mnemonic = "fluid game biology turn valve abstract more tonight there cream family crystal";
+var mnemonic = "nothing rabbit slam bamboo surge brain novel group potato orphan next almost";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty coil pool cheese melody armed light tunnel slight payment reject funny";
+var mnemonic = "print amused boat prosper pulse weasel couple project route catch slight assault";

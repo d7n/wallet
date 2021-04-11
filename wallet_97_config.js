@@ -1,1 +1,1 @@
-var mnemonic = "boy corn talk loan detect chicken elephant must enrich direct okay only";
+var mnemonic = "tower seat cube book employ amount pole skin wreck hand neglect wool";

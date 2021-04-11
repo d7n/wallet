@@ -1,1 +1,1 @@
-var mnemonic = "scene attitude zebra wrap endorse visual season neglect chunk engage replace sniff";
+var mnemonic = "donate major naive arch shrimp gesture infant session enforce lift fortune forest";

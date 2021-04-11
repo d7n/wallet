@@ -1,1 +1,1 @@
-var mnemonic = "wedding rack alone beauty puzzle depth dry repair inch name hello rotate";
+var mnemonic = "cute basket inject correct know baby side lumber board midnight ankle wink";

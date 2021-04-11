@@ -1,1 +1,1 @@
-var mnemonic = "title practice little trust fun short offer motion answer knife snack exit";
+var mnemonic = "file luxury ordinary regret target slender cabbage meadow chunk argue comic other";

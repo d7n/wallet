@@ -1,1 +1,1 @@
-var mnemonic = "bid luxury agent hammer large grocery pond scatter foster price cloud street";
+var mnemonic = "manage tag strategy blur jewel assault buyer mention quality throw voyage step";

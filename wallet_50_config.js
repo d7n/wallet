@@ -1,1 +1,1 @@
-var mnemonic = "crawl holiday industry cannon hurry picnic dawn boss output seat forum what";
+var mnemonic = "outside unveil arena salute athlete connect doctor busy beyond define verify leopard";

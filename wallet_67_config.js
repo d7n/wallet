@@ -1,1 +1,1 @@
-var mnemonic = "loud soup join lock someone manage danger match more angle they enlist";
+var mnemonic = "ramp velvet arrest cargo push anxiety bridge diamond retreat humor execute south";

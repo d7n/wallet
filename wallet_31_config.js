@@ -1,1 +1,1 @@
-var mnemonic = "milk joke idle bind day want pet payment come dizzy industry tag";
+var mnemonic = "taste relax switch pull citizen loan response slogan reform seed wrist hair";

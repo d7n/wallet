@@ -1,1 +1,1 @@
-var mnemonic = "exact bright credit whip share general person myth guitar grab depth inhale";
+var mnemonic = "dragon machine tattoo barrel mammal virus breeze quote best ancient feed pitch";

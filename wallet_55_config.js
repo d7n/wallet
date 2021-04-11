@@ -1,1 +1,1 @@
-var mnemonic = "february coyote audit social guess hair return cereal pelican witness rule glass";
+var mnemonic = "lake violin host hammer car exclude usual brother tank squirrel reveal grass";

@@ -1,1 +1,1 @@
-var mnemonic = "foot goat dinner wet room indoor trip perfect cloud initial imitate device";
+var mnemonic = "fringe donkey flip oak supreme mutual have price way summer pizza ripple";

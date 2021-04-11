@@ -1,1 +1,1 @@
-var mnemonic = "crater able edit fancy juice inject special transfer measure escape tool sauce";
+var mnemonic = "able barely prevent idea elevator summer summer lonely embark chair punch gate";

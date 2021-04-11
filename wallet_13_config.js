@@ -1,1 +1,1 @@
-var mnemonic = "awake desk gun away update theme tunnel quantum net recall wealth stairs";
+var mnemonic = "dirt duck put impulse turn inner claw limit mechanic deer agree must";

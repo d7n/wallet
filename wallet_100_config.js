@@ -1,1 +1,1 @@
-var mnemonic = "mandate ticket burst setup hollow speak bunker until join pause slender catalog";
+var mnemonic = "naive toy approve undo echo destroy pledge load item shop chicken frame";

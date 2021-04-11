@@ -1,1 +1,1 @@
-var mnemonic = "message keen stuff club connect manual lesson vapor wait resist world useful";
+var mnemonic = "van laugh upset ketchup concert biology remove extra rather genuine sugar six";

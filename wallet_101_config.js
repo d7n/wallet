@@ -1,1 +1,1 @@
-var mnemonic = "merry transfer silly judge comic erosion faint process rate endless chair neck";
+var mnemonic = "world orphan visit purse upper peace hidden decrease quiz obvious solve fury";

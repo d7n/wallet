@@ -1,1 +1,1 @@
-var mnemonic = "local swear position major add host face nature crazy sheriff umbrella predict";
+var mnemonic = "front craft never chapter absorb jeans timber segment swing opinion female muscle";

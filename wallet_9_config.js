@@ -1,1 +1,1 @@
-var mnemonic = "response bargain agree trip guilt desk snake other glove decrease tower forward";
+var mnemonic = "pattern drastic fish lizard zoo design narrow illegal unique garden push orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "surface history cement until twenty excuse exist rebel toe bleak undo tortoise";
+var mnemonic = "tunnel oil curtain disagree eternal stamp essay rude supreme protect put curious";

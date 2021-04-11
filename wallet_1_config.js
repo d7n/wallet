@@ -1,1 +1,1 @@
-var mnemonic = "away blossom apart pistol candy clarify female possible vessel mandate arrange follow";
+var mnemonic = "repair lamp deputy wedding dune catalog obtain find state thing ocean chat";

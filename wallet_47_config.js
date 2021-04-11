@@ -1,1 +1,1 @@
-var mnemonic = "print cover harsh tongue month jealous enhance stadium defense bulb connect weapon";
+var mnemonic = "road off danger report raven arena pony gossip layer welcome left index";

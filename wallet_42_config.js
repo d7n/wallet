@@ -1,1 +1,1 @@
-var mnemonic = "system fantasy lucky any net young raw shock aim achieve habit claim";
+var mnemonic = "bracket grief wrist scene stadium admit rookie crush diagram soon surge teach";

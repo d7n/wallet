@@ -1,1 +1,1 @@
-var mnemonic = "nothing grocery rally toe walk favorite act else nice drift floor vacant";
+var mnemonic = "output material top hungry cloud fitness leopard puppy sail unlock zebra impose";

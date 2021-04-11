@@ -1,1 +1,1 @@
-var mnemonic = "basket future buzz monitor robot marble dog sing happy father ghost mask";
+var mnemonic = "satisfy gift bullet energy odor bid odor property lunch regret sand target";

@@ -1,1 +1,1 @@
-var mnemonic = "similar enlist pig buddy swim soap perfect wealth spider reflect erode nice";
+var mnemonic = "peasant vibrant damp segment degree canal security mixed cabin shock sail bachelor";

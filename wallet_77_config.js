@@ -1,1 +1,1 @@
-var mnemonic = "regular captain can outdoor unfold kind sell knee hospital come pottery offer";
+var mnemonic = "smoke luxury verb credit amazing extra intact daring cactus fold list toilet";

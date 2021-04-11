@@ -1,1 +1,1 @@
-var mnemonic = "tumble broccoli weekend suffer defy reform stay quarter retreat fossil brush explain";
+var mnemonic = "orchard sentence hold also insect business wing reject gloom debate whale all";

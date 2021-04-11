@@ -1,1 +1,1 @@
-var mnemonic = "devote nice victory loud door motion vehicle index gather net issue rifle";
+var mnemonic = "follow universe enable federal tray holiday alone truth twin illegal talent thrive";

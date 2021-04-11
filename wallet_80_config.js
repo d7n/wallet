@@ -1,1 +1,1 @@
-var mnemonic = "repeat zoo measure dutch spatial turn dumb arctic tell make strategy slice";
+var mnemonic = "play series naive miracle noise pioneer spare master frequent crystal guitar glare";

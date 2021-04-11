@@ -1,1 +1,1 @@
-var mnemonic = "lumber hawk insane range spawn sheriff eye below artwork friend just differ";
+var mnemonic = "position veteran river arrest name canyon zoo wheel nominee spy squeeze pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion attitude dilemma provide trumpet close example legend crater glare renew banana";
+var mnemonic = "comfort cook permit tube inherit ring puppy quarter duck buyer session ignore";

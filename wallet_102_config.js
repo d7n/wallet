@@ -1,1 +1,1 @@
-var mnemonic = "bottom arena mango broccoli country sock tornado rocket achieve share monster play";
+var mnemonic = "symbol pear method exit impulse size network nose income stuff lion canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "range path ranch mixture spread liberty enemy order cute chat trash blossom";
+var mnemonic = "dilemma diagram depth century deal slim chest wild anchor stone broccoli thought";

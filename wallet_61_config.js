@@ -1,1 +1,1 @@
-var mnemonic = "vibrant green fly six drift knock exist live sport jealous web luggage";
+var mnemonic = "tourist census feed group check window license quantum essence asset unlock noodle";
