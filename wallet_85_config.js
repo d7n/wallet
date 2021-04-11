@@ -1,1 +1,1 @@
-var mnemonic = "salmon pottery depend wild police husband sing special asset behave accident penalty";
+var mnemonic = "spirit rib light sponsor october add yard offer habit excess stay enrich";

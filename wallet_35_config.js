@@ -1,1 +1,1 @@
-var mnemonic = "fortune when stem hat wasp busy collect buzz alpha august upon fault";
+var mnemonic = "table leg enhance rely wolf expire dutch tattoo parent round beyond project";

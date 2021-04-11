@@ -1,1 +1,1 @@
-var mnemonic = "prison network artefact jungle attack myth mushroom ridge reunion paddle wagon rally";
+var mnemonic = "fashion bag curious elbow soft drink accuse chaos owner caught reopen adapt";

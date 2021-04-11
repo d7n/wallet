@@ -1,1 +1,1 @@
-var mnemonic = "system potato uncover jungle tower raven unable infant canvas calm elegant need";
+var mnemonic = "only tiny pattern weird interest estate brass access benefit rookie chase tip";

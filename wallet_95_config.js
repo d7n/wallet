@@ -1,1 +1,1 @@
-var mnemonic = "reveal fit brand young canvas clock ask comfort hotel exit wire market";
+var mnemonic = "pair cable junk trust cream design chuckle squeeze strike athlete country expose";

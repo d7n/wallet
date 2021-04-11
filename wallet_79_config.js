@@ -1,1 +1,1 @@
-var mnemonic = "ritual south gap choice wolf bleak cousin crowd thank cattle tribe grocery";
+var mnemonic = "grunt item three grass supply acquire false timber divide basket inherit mandate";

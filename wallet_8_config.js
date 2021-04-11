@@ -1,1 +1,1 @@
-var mnemonic = "develop infant wish wash brain outdoor truck nominee emerge finish student senior";
+var mnemonic = "cliff laptop ramp train pepper couch divert fossil window ceiling airport eye";

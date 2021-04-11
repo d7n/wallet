@@ -1,1 +1,1 @@
-var mnemonic = "news disorder page raccoon mushroom deny mind north carpet merit sea dune";
+var mnemonic = "cancel spread foam annual other beauty capital clutch cute minute assault bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "goose person oblige track juice warfare stereo force sugar include wasp struggle";
+var mnemonic = "best they witness pumpkin captain royal tornado kitten pepper fresh much frame";

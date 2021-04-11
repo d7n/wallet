@@ -1,1 +1,1 @@
-var mnemonic = "gift pencil record crystal armed film final educate wasp drum laptop brisk";
+var mnemonic = "ripple anxiety bicycle whisper own enlist worry sustain expect antique flee net";

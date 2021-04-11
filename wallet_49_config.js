@@ -1,1 +1,1 @@
-var mnemonic = "advice silent stage today spray flight mask century amateur brass raw rent";
+var mnemonic = "siren canoe piano adult twice peasant cargo current load oven belt slush";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle favorite faith scrap diary clap elegant invite shy reunion elephant quit";
+var mnemonic = "day danger bunker trap carbon chapter steak frozen engage problem rare property";

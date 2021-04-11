@@ -1,1 +1,1 @@
-var mnemonic = "output rescue return drama clock open satoshi science deal enough merge suffer";
+var mnemonic = "proof urge stool venue olympic swift timber develop pig will canyon scatter";

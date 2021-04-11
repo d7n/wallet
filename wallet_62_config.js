@@ -1,1 +1,1 @@
-var mnemonic = "husband attitude romance license bus evoke castle own whale luxury ice island";
+var mnemonic = "talk priority soul shuffle soccer iron pitch blouse spray nice canyon unaware";

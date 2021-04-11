@@ -1,1 +1,1 @@
-var mnemonic = "juice nest reason icon focus real peasant clinic badge inquiry clap labor";
+var mnemonic = "exclude auto sphere sort state move kite keep convince skin figure lava";

@@ -1,1 +1,1 @@
-var mnemonic = "night tissue dress unfold hotel rescue carpet cruise tag rotate join shock";
+var mnemonic = "fall fire actress latin mango round author oval mutual suffer wedding hope";

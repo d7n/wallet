@@ -1,1 +1,1 @@
-var mnemonic = "fit dwarf crane farm move enlist corn blast crumble busy impact major";
+var mnemonic = "call awake rail canvas beauty mistake friend desert cool impact black recycle";

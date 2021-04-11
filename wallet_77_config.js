@@ -1,1 +1,1 @@
-var mnemonic = "leaf purity horn educate lawsuit victory dream control pole hundred trip green";
+var mnemonic = "seed wheat nasty fetch capital toward silver furnace great artefact protect deliver";

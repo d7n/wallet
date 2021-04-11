@@ -1,1 +1,1 @@
-var mnemonic = "find call jump element claim travel sign usage country junior purpose account";
+var mnemonic = "brush gospel frost sense exit glare material torch benefit claim flock addict";

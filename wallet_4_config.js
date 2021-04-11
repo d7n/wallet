@@ -1,1 +1,1 @@
-var mnemonic = "social caution loyal pull season balance note talent foot melt weasel again";
+var mnemonic = "door wing rapid joke vibrant dry eternal hover forum talk short noodle";

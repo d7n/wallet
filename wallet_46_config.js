@@ -1,1 +1,1 @@
-var mnemonic = "tape rib hover object raccoon tumble clutch table tuna notice fall river";
+var mnemonic = "opera twist pyramid awesome afraid title merge tooth loop toe child sort";

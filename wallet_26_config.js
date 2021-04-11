@@ -1,1 +1,1 @@
-var mnemonic = "decline alter envelope hungry size summer humor wave isolate science heavy wait";
+var mnemonic = "search pistol sort believe ring lab cluster actress couch minute tent teach";

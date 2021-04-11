@@ -1,1 +1,1 @@
-var mnemonic = "kick advice high protect piano dune burst kitten sign praise hotel cave";
+var mnemonic = "ladder asthma warrior field neglect syrup artefact craft joy symbol success agent";

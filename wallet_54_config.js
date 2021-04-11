@@ -1,1 +1,1 @@
-var mnemonic = "enforce run inmate install ice town cross wash mushroom advice main select";
+var mnemonic = "roof loan kit draw kitten canal pottery choose pipe doctor random surface";

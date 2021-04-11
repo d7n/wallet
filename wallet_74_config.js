@@ -1,1 +1,1 @@
-var mnemonic = "reject captain harbor artist suffer tip game nephew dry faith unable average";
+var mnemonic = "evil stairs pretty forest beauty muscle gesture robot today vast spy advance";

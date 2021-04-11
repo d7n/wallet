@@ -1,1 +1,1 @@
-var mnemonic = "bar end dismiss endorse liberty eyebrow renew impulse balance hello mimic toss";
+var mnemonic = "copy yard damp chronic torch wealth cupboard cube payment orange reopen stay";

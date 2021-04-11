@@ -1,1 +1,1 @@
-var mnemonic = "rack brush liquid vanish bright garage gadget film system barrel raise bring";
+var mnemonic = "tattoo elbow anxiety submit relax add robust error wet analyst beyond sheriff";

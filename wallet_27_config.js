@@ -1,1 +1,1 @@
-var mnemonic = "unusual what able decrease tomorrow excess add close bone smooth lawn minor";
+var mnemonic = "spirit swing dance distance clean female typical crouch rail rigid field essay";

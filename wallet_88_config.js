@@ -1,1 +1,1 @@
-var mnemonic = "sweet supreme front fossil turtle found virus appear change liar gate spot";
+var mnemonic = "blur six win hybrid resist grief humble orphan happy sun nose fold";

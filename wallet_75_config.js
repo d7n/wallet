@@ -1,1 +1,1 @@
-var mnemonic = "bird keen cool private swallow crumble gun toilet pave embody latin heavy";
+var mnemonic = "empower simple discover success vanish silver novel idea crawl innocent build setup";

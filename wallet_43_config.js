@@ -1,1 +1,1 @@
-var mnemonic = "beef film seminar coral safe gift gesture puppy foot purse suggest opinion";
+var mnemonic = "brush office turkey library test narrow bounce damp peasant mention steel where";

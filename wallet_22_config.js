@@ -1,1 +1,1 @@
-var mnemonic = "assist base jazz mesh mirror left bring blouse mystery envelope sweet connect";
+var mnemonic = "calm mirror leaf doctor lucky eager pause luggage style next sail top";

@@ -1,1 +1,1 @@
-var mnemonic = "earn goddess explain cargo devote issue depart pretty replace squeeze ordinary tennis";
+var mnemonic = "cinnamon park oval shuffle pond journey desk certain rice approve ignore inflict";

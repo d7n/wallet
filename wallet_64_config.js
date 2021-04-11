@@ -1,1 +1,1 @@
-var mnemonic = "today trick aisle salute cliff know alert left local autumn ceiling ghost";
+var mnemonic = "able myth wild evidence cute kiss actress nasty opera judge actress rabbit";

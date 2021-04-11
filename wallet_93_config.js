@@ -1,1 +1,1 @@
-var mnemonic = "twist october recycle please unique dragon open demise soldier orphan blanket fine";
+var mnemonic = "common shrug enable frequent economy curtain lion payment crew undo disorder dad";

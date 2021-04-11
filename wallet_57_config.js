@@ -1,1 +1,1 @@
-var mnemonic = "spend oak fence cradle stumble change cupboard ketchup furnace wasp auction square";
+var mnemonic = "tissue crisp occur utility border economy unable naive math stereo enforce under";

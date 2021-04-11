@@ -1,1 +1,1 @@
-var mnemonic = "ugly magnet behave neglect scissors illness device nominee slogan mango delay winner";
+var mnemonic = "meadow fall reopen essay gauge dirt police load stereo inject property soul";

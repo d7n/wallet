@@ -1,1 +1,1 @@
-var mnemonic = "bonus stove hotel half label wet forum color lottery target usual wood";
+var mnemonic = "fox expand health cat kite talent escape capable observe win van disease";

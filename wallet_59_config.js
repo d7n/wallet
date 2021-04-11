@@ -1,1 +1,1 @@
-var mnemonic = "design hat stool give target unusual draw join this erode inmate soda";
+var mnemonic = "forum letter submit review harsh short derive desert dignity code crush supply";

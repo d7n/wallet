@@ -1,1 +1,1 @@
-var mnemonic = "odor settle cheap leg reward two among betray youth crowd vibrant inject";
+var mnemonic = "hollow father biology debate hood tongue loan evolve vibrant invite inch biology";

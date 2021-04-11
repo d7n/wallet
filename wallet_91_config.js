@@ -1,1 +1,1 @@
-var mnemonic = "throw toy among sock true lamp pluck city ritual sick fun element";
+var mnemonic = "prefer total alcohol nature explain reflect grain guilt tape grocery pioneer hire";

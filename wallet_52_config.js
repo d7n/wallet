@@ -1,1 +1,1 @@
-var mnemonic = "option pottery crack glass young million winner random camera miracle acquire success";
+var mnemonic = "since small spare finger you wave label monster winner genre day erupt";

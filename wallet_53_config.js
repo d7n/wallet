@@ -1,1 +1,1 @@
-var mnemonic = "flash predict sunny wood toilet wonder strike pink lava better shed bleak";
+var mnemonic = "estate car require robust flock dust fiscal problem possible vague term grow";

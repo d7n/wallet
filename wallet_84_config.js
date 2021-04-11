@@ -1,1 +1,1 @@
-var mnemonic = "umbrella lab miracle cable baby industry critic sound right avoid clinic lawn";
+var mnemonic = "smoke castle power atom ten corn game visa faculty school require embrace";

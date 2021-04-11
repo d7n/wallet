@@ -1,1 +1,1 @@
-var mnemonic = "veteran drop pioneer print move diamond car morning hurt party trap defy";
+var mnemonic = "ritual divorce impulse alert innocent body combine silk absorb east goddess lion";

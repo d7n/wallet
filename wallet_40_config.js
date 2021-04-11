@@ -1,1 +1,1 @@
-var mnemonic = "nation urban rigid news kit virtual razor admit ill harsh seat museum";
+var mnemonic = "symptom able section coin alcohol negative melody quality nasty link fiction organ";

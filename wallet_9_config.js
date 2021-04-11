@@ -1,1 +1,1 @@
-var mnemonic = "yard raven output tornado jar depend switch picnic mule review scrub cute";
+var mnemonic = "barrel rent toilet nation crew spend mouse embark unveil enjoy pole economy";

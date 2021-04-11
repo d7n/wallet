@@ -1,1 +1,1 @@
-var mnemonic = "demand grunt endorse long various embrace slide salad man eagle outside table";
+var mnemonic = "punch refuse genius aisle solid medal donate ritual kit end else spring";

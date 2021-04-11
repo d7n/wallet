@@ -1,1 +1,1 @@
-var mnemonic = "sauce napkin decade lady series double firm knee salute soul nurse extend";
+var mnemonic = "cabbage garage quote renew hint brisk breeze body meadow leave image fix";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato grief title drip addict state have essence drink confirm wonder filter";
+var mnemonic = "across erase voyage reunion borrow neither task six update burst blouse move";

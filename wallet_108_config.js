@@ -1,1 +1,1 @@
-var mnemonic = "furnace talk much group maple rebuild water diary name mansion cannon adjust";
+var mnemonic = "riot run art puzzle quiz bonus warfare grass arch click picnic ecology";

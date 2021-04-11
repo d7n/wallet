@@ -1,1 +1,1 @@
-var mnemonic = "glimpse rival glow sausage bench file deer behave access fuel until laptop";
+var mnemonic = "space ability route range wage cream base cherry family element lake amount";

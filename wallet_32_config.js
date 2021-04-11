@@ -1,1 +1,1 @@
-var mnemonic = "drift tower spell little sample fly raise until spring purchase swarm toast";
+var mnemonic = "ride found rose gate caution notable cheap dog holiday phone audit rebuild";

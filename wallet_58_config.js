@@ -1,1 +1,1 @@
-var mnemonic = "laptop cricket hollow toilet problem tide arrest industry sad embark soft sock";
+var mnemonic = "cliff husband repair devote tent slight betray dinosaur crouch husband scrub cliff";

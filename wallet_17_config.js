@@ -1,1 +1,1 @@
-var mnemonic = "gas ring cabbage penalty sorry almost cherry entry episode later naive coyote";
+var mnemonic = "trust squeeze short smile high layer impulse desk gaze good album wife";

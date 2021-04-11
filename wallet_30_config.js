@@ -1,1 +1,1 @@
-var mnemonic = "betray refuse museum law peanut month canvas sock pink drift wife walk";
+var mnemonic = "demise wood rib dinosaur chunk trial occur foot destroy comfort art music";

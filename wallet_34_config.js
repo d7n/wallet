@@ -1,1 +1,1 @@
-var mnemonic = "penalty frequent test economy upgrade robust arm roof way raise stereo current";
+var mnemonic = "someone business gas mirror use reform cash alpha swallow strike cram law";

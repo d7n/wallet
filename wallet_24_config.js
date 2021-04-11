@@ -1,1 +1,1 @@
-var mnemonic = "glow twin man true frown verify future scene syrup avocado custom soda";
+var mnemonic = "plate noble arm lava juice match foster chest chimney culture also wrestle";

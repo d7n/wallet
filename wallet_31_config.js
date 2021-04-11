@@ -1,1 +1,1 @@
-var mnemonic = "voyage drink kiwi awake pony cycle volume embody casino candy grace swarm";
+var mnemonic = "swear one answer chest faint bone argue supply echo seat boost invite";

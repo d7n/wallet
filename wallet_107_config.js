@@ -1,1 +1,1 @@
-var mnemonic = "segment chest prosper tackle cheap deny barely puppy edit domain beach hard";
+var mnemonic = "pottery reunion bulk coach inmate duck execute chest exist convince ocean devote";

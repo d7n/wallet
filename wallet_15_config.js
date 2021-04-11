@@ -1,1 +1,1 @@
-var mnemonic = "mosquito donate absurd alcohol cheese rare detail bar cave dove pledge dinner";
+var mnemonic = "execute plunge fossil setup scissors little corn cereal taxi steak shuffle bamboo";

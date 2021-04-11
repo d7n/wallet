@@ -1,1 +1,1 @@
-var mnemonic = "poem dinner siege shadow purse usual minor employ hero border bracket planet";
+var mnemonic = "tell shaft clock collect famous flip afraid absorb panda video melody heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel loan say hazard elephant second rough payment relax illness time feel";
+var mnemonic = "rate reason tell bless future awful trust angry rookie assault arm key";

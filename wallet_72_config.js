@@ -1,1 +1,1 @@
-var mnemonic = "assault wet garbage gentle purpose rookie easy stereo glimpse ocean over tenant";
+var mnemonic = "radar raw crowd grant protect cloud soda captain soup news cricket share";

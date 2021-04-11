@@ -1,1 +1,1 @@
-var mnemonic = "notable water lobster shed update close decrease enjoy mobile coral wire cat";
+var mnemonic = "neck course demise fancy panda talent try chalk rate ball monitor color";

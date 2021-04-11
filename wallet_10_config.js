@@ -1,1 +1,1 @@
-var mnemonic = "spatial rice thrive crucial frequent laptop oil all shove select wood spatial";
+var mnemonic = "grace rich bind prepare long hold across zoo rug butter garage mixed";

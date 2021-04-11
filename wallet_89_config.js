@@ -1,1 +1,1 @@
-var mnemonic = "hobby diet search erase panda own vapor pelican minute travel slight advance";
+var mnemonic = "addict brush tongue leader visual hen range wine attend gossip sting involve";

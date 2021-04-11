@@ -1,1 +1,1 @@
-var mnemonic = "dragon mandate sustain element dream file will furnace control viable cruel talk";
+var mnemonic = "salute robust wash lake slice toy identify flash voice sick patrol sister";

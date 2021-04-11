@@ -1,1 +1,1 @@
-var mnemonic = "warm friend luggage fluid index save also duty hurt icon nice damage";
+var mnemonic = "pretty engine bag hockey swear hobby labor toast oblige hidden fade fever";

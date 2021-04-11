@@ -1,1 +1,1 @@
-var mnemonic = "print assume gather slush barrel asthma fine paddle cereal hurt flee under";
+var mnemonic = "silver destroy floor wave ethics lonely grass lift dragon merge sign ivory";

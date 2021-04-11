@@ -1,1 +1,1 @@
-var mnemonic = "angry high position talk decade way destroy suffer certain yellow enemy remind";
+var mnemonic = "outer electric devote occur alcohol midnight century illegal utility meat buffalo wait";

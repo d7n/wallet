@@ -1,1 +1,1 @@
-var mnemonic = "news unveil daring aim flock biology airport company drink cruise vicious pyramid";
+var mnemonic = "caught chronic vehicle wine umbrella assault enact clean reject climb large tank";

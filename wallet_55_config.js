@@ -1,1 +1,1 @@
-var mnemonic = "inmate prosper arrange jaguar uniform high virtual wing wear example myself script";
+var mnemonic = "extra gallery left method dune predict unhappy lawn primary gown quick venue";

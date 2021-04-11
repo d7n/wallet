@@ -1,1 +1,1 @@
-var mnemonic = "choice love door ill cupboard grit account jar village resource force woman";
+var mnemonic = "news six until level seed clutch bring pupil carry engine wing weapon";

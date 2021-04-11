@@ -1,1 +1,1 @@
-var mnemonic = "caution coyote final oval flavor lemon buzz ticket affair clay office youth";
+var mnemonic = "machine dizzy allow sudden upgrade you risk way tissue whip rally oyster";

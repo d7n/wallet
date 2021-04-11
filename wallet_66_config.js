@@ -1,1 +1,1 @@
-var mnemonic = "rely gown birth renew opera blame master arena tourist system lens laugh";
+var mnemonic = "hospital offer subject roof normal attitude fire bar dish couch please permit";

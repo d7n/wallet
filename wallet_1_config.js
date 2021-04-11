@@ -1,1 +1,1 @@
-var mnemonic = "fortune boat siege remain coil glass scan bicycle apple leader shadow traffic";
+var mnemonic = "fold rival item cake diesel add trick moment forward beyond ribbon cram";

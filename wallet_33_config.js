@@ -1,1 +1,1 @@
-var mnemonic = "arrow inmate host surge random range iron neck wide gentle route divide";
+var mnemonic = "tribe involve crazy conduct disagree trial virus east luxury jelly rate unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "bind loop lizard amused tide effort member menu seven brisk horn custom";
+var mnemonic = "behave walnut skull blade submit wide loyal pitch general next foster twelve";

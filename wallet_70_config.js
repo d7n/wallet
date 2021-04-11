@@ -1,1 +1,1 @@
-var mnemonic = "honey congress garage method client wet hero display rotate elbow suspect ankle";
+var mnemonic = "away utility scare business someone area museum winter embody uphold happy crash";

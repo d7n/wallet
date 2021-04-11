@@ -1,1 +1,1 @@
-var mnemonic = "fat cart balance estate receive speak city hazard siege obey fury dirt";
+var mnemonic = "execute crisp drum gain patrol zero wine pride absent drill sphere sauce";

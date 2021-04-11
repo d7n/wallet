@@ -1,1 +1,1 @@
-var mnemonic = "word issue will endorse theme leader income lesson cereal cruise caution trial";
+var mnemonic = "knee grit admit wheel rose captain glare federal bridge achieve vibrant cute";

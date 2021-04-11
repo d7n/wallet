@@ -1,1 +1,1 @@
-var mnemonic = "slam dust around vast hint goddess chase giraffe dirt rescue sustain icon";
+var mnemonic = "night sadness wreck coach noodle river shy protect fresh pumpkin quality girl";

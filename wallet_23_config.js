@@ -1,1 +1,1 @@
-var mnemonic = "sugar sauce reason torch conduct trash recall loan word bar fall coin";
+var mnemonic = "kick grocery measure coyote joy page aisle mesh pulp devote tide destroy";

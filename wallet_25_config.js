@@ -1,1 +1,1 @@
-var mnemonic = "arrange quarter unlock burger insect spatial whale spike elder glad blur below";
+var mnemonic = "cake mutual demise wedding youth luggage peace six grit excite strategy raven";

@@ -1,1 +1,1 @@
-var mnemonic = "when tip mother rack chase long spawn knock awful behave hurt pipe";
+var mnemonic = "venue powder ceiling draft hospital inquiry face this purchase trick under rotate";

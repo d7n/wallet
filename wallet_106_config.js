@@ -1,1 +1,1 @@
-var mnemonic = "flush behave hover comic menu near real pizza smoke print tag moral";
+var mnemonic = "lava simple hybrid earth write fat electric olive post that pepper utility";

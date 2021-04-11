@@ -1,1 +1,1 @@
-var mnemonic = "degree music close open swallow garment can ritual author economy pencil enjoy";
+var mnemonic = "atom vivid immense orchard peanut stumble peanut sauce shell extra inquiry story";

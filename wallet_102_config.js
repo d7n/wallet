@@ -1,1 +1,1 @@
-var mnemonic = "reunion spice lizard bench crane top among divert smooth ocean antenna raw";
+var mnemonic = "satoshi ill muscle panda tobacco change view pole vacuum found aunt someone";

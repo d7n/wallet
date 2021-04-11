@@ -1,1 +1,1 @@
-var mnemonic = "force mom auction about hospital setup skin way vendor often route remain";
+var mnemonic = "waste ice argue clap legal bachelor twelve plastic doll around peasant year";

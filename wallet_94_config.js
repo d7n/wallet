@@ -1,1 +1,1 @@
-var mnemonic = "jungle key lizard glide position reform pigeon dismiss head pilot slush purchase";
+var mnemonic = "copy clump okay spirit select note juice oppose police they damage senior";

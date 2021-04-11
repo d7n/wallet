@@ -1,1 +1,1 @@
-var mnemonic = "history jeans run gloom antenna casino hip idea oyster satoshi exhibit mimic";
+var mnemonic = "sense slow shoot achieve security outside address cool pig glue praise island";

@@ -1,1 +1,1 @@
-var mnemonic = "expand hunt wink letter river pizza scout ramp moon odor party prefer";
+var mnemonic = "acid year canyon horse source trust era endless biology summer gesture love";

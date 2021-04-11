@@ -1,1 +1,1 @@
-var mnemonic = "luxury canvas bean rack goddess wisdom exhibit basket huge canoe term dutch";
+var mnemonic = "tissue come estate ranch slab palm raw agree river stumble square build";
