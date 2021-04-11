@@ -1,1 +1,1 @@
-var mnemonic = "steak ritual noodle bid fall grocery race monitor call daughter rubber talent";
+var mnemonic = "there input kidney hockey august inner same come bright hire burden collect";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch talent knife great spring client lyrics ask cement correct wise joke";
+var mnemonic = "wide fantasy life harbor north regular will happy indoor bar acoustic desk";

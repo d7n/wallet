@@ -1,1 +1,1 @@
-var mnemonic = "view thumb protect proud holiday taxi expect betray snap powder puppy sport";
+var mnemonic = "head sniff tent slab soap puppy hundred check stay endless humble south";

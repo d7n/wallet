@@ -1,1 +1,1 @@
-var mnemonic = "box eight plug target ivory pull sell chalk grit target giraffe orbit";
+var mnemonic = "position toy right disorder outer bench update stock drift shell anchor surge";

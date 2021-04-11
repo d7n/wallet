@@ -1,1 +1,1 @@
-var mnemonic = "firm memory spend able yard flock aim stereo steak soul mobile priority";
+var mnemonic = "valley excuse beef flame must stay jazz point oblige sweet soda thrive";

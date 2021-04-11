@@ -1,1 +1,1 @@
-var mnemonic = "summer tuna odor suit labor eager armed depart basket unknown cheese pluck";
+var mnemonic = "eager favorite report shuffle behave silent stick transfer snake fancy vote color";

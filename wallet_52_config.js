@@ -1,1 +1,1 @@
-var mnemonic = "bicycle slow library bone garden year oyster rose sing ill season beach";
+var mnemonic = "write desk danger update whale engine advice transfer leg share power rain";

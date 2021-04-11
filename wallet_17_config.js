@@ -1,1 +1,1 @@
-var mnemonic = "release ugly gain park thrive female luxury mosquito quote staff snow route";
+var mnemonic = "breeze gain slice enroll jungle allow doll improve jeans festival fantasy borrow";

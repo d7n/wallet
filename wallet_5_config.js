@@ -1,1 +1,1 @@
-var mnemonic = "color foam must fault sand ready fancy clay husband mobile usage false";
+var mnemonic = "number scrap reform left enrich goose powder peasant miss panel meat pepper";

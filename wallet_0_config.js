@@ -1,1 +1,1 @@
-var mnemonic = "attract wet cute decrease avoid hybrid level lottery genre shuffle frost royal";
+var mnemonic = "zoo come bridge discover fold benefit spy erase cart length add hip";

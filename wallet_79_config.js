@@ -1,1 +1,1 @@
-var mnemonic = "canyon alien dash swap sausage illness lift sister hawk swarm fury blast";
+var mnemonic = "two knife matrix dilemma churn next awake leopard pact donkey must palace";

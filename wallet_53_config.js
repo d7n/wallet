@@ -1,1 +1,1 @@
-var mnemonic = "chest whisper chest verb rifle fabric surprise slide tunnel away black submit";
+var mnemonic = "fault skill science egg drink ignore naive industry drum grid process wisdom";

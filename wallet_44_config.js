@@ -1,1 +1,1 @@
-var mnemonic = "bleak diagram whip inch liar prefer spatial side fury chunk frown novel";
+var mnemonic = "bachelor sibling crew isolate neglect slam mushroom then fork flush scale risk";

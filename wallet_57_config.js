@@ -1,1 +1,1 @@
-var mnemonic = "asset moon upgrade uniform bid exclude nothing admit item veteran bundle chronic";
+var mnemonic = "often duty bomb beach bus radar avoid plug tomato style kind deal";

@@ -1,1 +1,1 @@
-var mnemonic = "owner dirt butter around alone peace circle proud grunt gain mesh initial";
+var mnemonic = "social guitar chest stool hold clutch myth decorate wolf dust utility glimpse";

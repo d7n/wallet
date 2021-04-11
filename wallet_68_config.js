@@ -1,1 +1,1 @@
-var mnemonic = "caught glide evolve power truck viable bracket expand lottery husband chase duck";
+var mnemonic = "garden key relax repair bicycle orange lift sock scout faith pepper raccoon";

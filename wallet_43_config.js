@@ -1,1 +1,1 @@
-var mnemonic = "example message clock blast topple flight cereal spend fee vendor joy phone";
+var mnemonic = "buddy object jelly panic guess zoo valley jaguar box salad more average";

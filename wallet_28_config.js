@@ -1,1 +1,1 @@
-var mnemonic = "emerge swim mixed vivid wisdom help swap animal equip rabbit secret ability";
+var mnemonic = "basket confirm list hub polar grab cattle student enrich talk fire state";

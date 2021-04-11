@@ -1,1 +1,1 @@
-var mnemonic = "opera version chapter hand evil injury clown about wrong waste subway divorce";
+var mnemonic = "hungry until delay prefer loud usual reunion father hat bronze faint hamster";

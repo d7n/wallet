@@ -1,1 +1,1 @@
-var mnemonic = "orient artefact forward glass same pattern metal fever dance transfer speed service";
+var mnemonic = "skirt swear grant cloud animal brisk banana purity robust asset conduct unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse enlist bread chimney door frequent collect expose brain like ability three";
+var mnemonic = "ceiling express pair artist frame miss insane pluck solve truly need canvas";

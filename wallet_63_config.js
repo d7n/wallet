@@ -1,1 +1,1 @@
-var mnemonic = "horse item pen fire decide dust leader few security ski sleep angle";
+var mnemonic = "oxygen kidney cost shrug topic snow plunge sphere acoustic fade spider stove";

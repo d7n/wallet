@@ -1,1 +1,1 @@
-var mnemonic = "random gravity across autumn brass town erupt note odor crouch buzz wish";
+var mnemonic = "illegal parent beauty devote employ bomb wish old interest olympic act deny";

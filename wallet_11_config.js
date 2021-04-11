@@ -1,1 +1,1 @@
-var mnemonic = "skirt rifle engine this field sort arrive humor symptom area twist era";
+var mnemonic = "flat wish critic floor excite trial giggle sorry famous cushion lumber artwork";

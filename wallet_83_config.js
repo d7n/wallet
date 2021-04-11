@@ -1,1 +1,1 @@
-var mnemonic = "anger remember vessel decline moral miracle model addict breeze spell cattle boss";
+var mnemonic = "average adapt region sadness please detect warm example zebra arctic invite enter";

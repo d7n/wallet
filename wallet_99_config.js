@@ -1,1 +1,1 @@
-var mnemonic = "ship pepper old salon pass kidney drill scout sort clay differ inch";
+var mnemonic = "damp misery corn orbit income bachelor nephew forget hurt appear tape secret";

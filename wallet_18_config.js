@@ -1,1 +1,1 @@
-var mnemonic = "penalty topic trial able limit quick engage salute private always rose ivory";
+var mnemonic = "creek garlic guess allow subway item minor drink option chest excite embody";

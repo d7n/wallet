@@ -1,1 +1,1 @@
-var mnemonic = "brass public bunker vicious bracket unknown yellow skate matter ocean best immense";
+var mnemonic = "gain orient cactus globe refuse vapor twelve razor lift pass dune prison";

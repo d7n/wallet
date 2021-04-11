@@ -1,1 +1,1 @@
-var mnemonic = "student gadget page episode puzzle tired key pair tumble eight update kind";
+var mnemonic = "guitar device chuckle cart jungle devote regular rack someone mimic lawsuit sheriff";

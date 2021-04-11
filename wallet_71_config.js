@@ -1,1 +1,1 @@
-var mnemonic = "father action amused siege pen receive confirm harbor spice recycle core antenna";
+var mnemonic = "world mystery wisdom muscle win toward because assume plastic short order dentist";

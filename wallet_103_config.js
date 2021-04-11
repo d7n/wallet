@@ -1,1 +1,1 @@
-var mnemonic = "alpha kit month brother crew soul order yard cake banner today wire";
+var mnemonic = "rack loop zero remain vivid nasty village liar earn manual flush drill";

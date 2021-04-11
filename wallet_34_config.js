@@ -1,1 +1,1 @@
-var mnemonic = "hurdle hidden news plunge detect benefit fade ring liar tube typical tennis";
+var mnemonic = "spike delay sick about circle negative master genius tape system skate metal";

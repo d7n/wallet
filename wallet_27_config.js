@@ -1,1 +1,1 @@
-var mnemonic = "boss report pulp icon law visual regular decline lesson lock moment plastic";
+var mnemonic = "vital faint harsh still strategy fork tenant museum donate brick cover middle";

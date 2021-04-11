@@ -1,1 +1,1 @@
-var mnemonic = "bunker floor cruel over uncover actual obscure harvest also ship business clinic";
+var mnemonic = "idle expand lift sort armor girl victory result champion lion blossom zoo";

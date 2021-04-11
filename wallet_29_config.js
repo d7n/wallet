@@ -1,1 +1,1 @@
-var mnemonic = "beauty any connect situate range scare rebuild badge paddle eagle season sad";
+var mnemonic = "public void bitter update child elder lend essay clutch crane muffin pull";

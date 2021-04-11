@@ -1,1 +1,1 @@
-var mnemonic = "corn boat element drip offer outside sniff stairs ensure wide mention soul";
+var mnemonic = "alert spare bachelor snap type giant electric biology limb genius dirt sibling";

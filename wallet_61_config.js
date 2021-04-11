@@ -1,1 +1,1 @@
-var mnemonic = "brush void humor magnet school vessel axis birth blame never call alley";
+var mnemonic = "twelve stool brave picture olympic purse vapor copper october digital fetch media";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss beef exclude lens team amount surge kingdom cargo novel where tennis";
+var mnemonic = "lottery exclude grief boat long day decide trim urge biology body fine";

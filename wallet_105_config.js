@@ -1,1 +1,1 @@
-var mnemonic = "clever canvas banana fatigue payment rare action claim drum mail stick vendor";
+var mnemonic = "try brass pulp elbow license analyst reveal hip army symptom flight destroy";

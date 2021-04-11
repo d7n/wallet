@@ -1,1 +1,1 @@
-var mnemonic = "witness stereo cement consider galaxy hollow elite crunch cycle clown spatial hospital";
+var mnemonic = "kit apple stairs diet monkey fruit lawn solar occur flame subway limb";

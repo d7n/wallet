@@ -1,1 +1,1 @@
-var mnemonic = "pride hole dial test juice work such vicious ripple number hobby champion";
+var mnemonic = "notice glance method upset diesel loop various liberty tissue lens regular panel";

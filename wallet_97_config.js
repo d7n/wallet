@@ -1,1 +1,1 @@
-var mnemonic = "eagle shy yard trial husband nothing quiz surge draft organ senior female";
+var mnemonic = "hollow dash tunnel cheap response flame finger antique word state bring stove";

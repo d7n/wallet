@@ -1,1 +1,1 @@
-var mnemonic = "diet scene intact resemble cotton dynamic then tomato find great seminar next";
+var mnemonic = "net foil stock north mirror catch rally elbow discover traffic daring blade";

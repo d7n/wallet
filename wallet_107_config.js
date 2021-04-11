@@ -1,1 +1,1 @@
-var mnemonic = "eager foot intact panda involve casual hen coil two expand join emotion";
+var mnemonic = "faith train into hello glow champion hungry duck humble monitor parade toast";

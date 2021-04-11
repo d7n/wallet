@@ -1,1 +1,1 @@
-var mnemonic = "mistake eyebrow famous movie cinnamon tomato write pyramid bamboo property expose walnut";
+var mnemonic = "elite write arena slow ozone cruise expect process someone resemble fish library";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist game affair sell short mutual miss robust virtual humor few shield";
+var mnemonic = "unfair satisfy expand sword language ghost badge never surround labor purse diary";

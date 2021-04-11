@@ -1,1 +1,1 @@
-var mnemonic = "scatter reflect december enter monkey wonder super rice immense nation hammer squeeze";
+var mnemonic = "sick wasp inch addict maximum change cinnamon frozen online affair unknown oil";

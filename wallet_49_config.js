@@ -1,1 +1,1 @@
-var mnemonic = "alien common upon roof surround beauty display mother target fit task knife";
+var mnemonic = "prefer vanish retreat kid offer already recall parrot cargo rose ranch want";

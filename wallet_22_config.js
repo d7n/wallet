@@ -1,1 +1,1 @@
-var mnemonic = "grass slab federal naive wisdom merry invest swift laugh label brass collect";
+var mnemonic = "sponsor pledge nose tunnel sense learn humble harbor woman squeeze advice omit";

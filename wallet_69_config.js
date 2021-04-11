@@ -1,1 +1,1 @@
-var mnemonic = "fossil shop possible bid arrest process differ inject found moment sick mountain";
+var mnemonic = "ivory mutual caution mean north claw cheese birth toddler tilt gold deliver";

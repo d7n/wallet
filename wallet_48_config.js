@@ -1,1 +1,1 @@
-var mnemonic = "scout entire horn there weather curtain champion empty joy thumb gold mouse";
+var mnemonic = "describe diesel exact festival witness debate verify blossom network torch flag help";

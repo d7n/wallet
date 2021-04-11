@@ -1,1 +1,1 @@
-var mnemonic = "gossip glow ivory diesel turn drive bottom clown mobile future wasp above";
+var mnemonic = "sea card follow pulse unaware rule total hurt friend canal nominee wealth";

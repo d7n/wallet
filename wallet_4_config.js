@@ -1,1 +1,1 @@
-var mnemonic = "glad book immense mystery arrest object pluck sponsor zero argue often attend";
+var mnemonic = "industry model wash figure east surround giggle mom north grid tooth six";

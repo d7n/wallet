@@ -1,1 +1,1 @@
-var mnemonic = "crane clever symptom gaze guard wish dove wink path shiver stay payment";
+var mnemonic = "already result situate miss grunt eye want only claim keep afraid boring";

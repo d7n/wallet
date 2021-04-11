@@ -1,1 +1,1 @@
-var mnemonic = "slush flag curious mesh wear skill office clap lava execute culture remind";
+var mnemonic = "lonely vicious abandon blast bean swarm fly evoke cheese foot cattle include";

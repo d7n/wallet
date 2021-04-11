@@ -1,1 +1,1 @@
-var mnemonic = "enlist street disorder family category truly solution style donkey comic undo airport";
+var mnemonic = "turkey service anger atom feature damage typical universe potato total length warrior";

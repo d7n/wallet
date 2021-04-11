@@ -1,1 +1,1 @@
-var mnemonic = "clip mom insane clarify item adapt library canoe social mango mobile loan";
+var mnemonic = "process test have bronze medal celery tuition must travel bronze canvas reward";

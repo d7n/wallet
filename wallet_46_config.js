@@ -1,1 +1,1 @@
-var mnemonic = "web enrich paper style manage similar bachelor increase great enhance city fantasy";
+var mnemonic = "velvet candy pottery supply divide appear door sauce unfair crystal idea firm";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit wing drama fragile attract exchange picture fall also renew royal negative";
+var mnemonic = "peanut waste theory retreat concert country front spray blind develop february sniff";

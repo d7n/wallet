@@ -1,1 +1,1 @@
-var mnemonic = "praise dinosaur miracle heavy trash mistake spread road snap strong region loud";
+var mnemonic = "just expect art taste position type tool rude speak almost segment chase";

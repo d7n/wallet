@@ -1,1 +1,1 @@
-var mnemonic = "puzzle prize trouble pattern velvet grain surprise spot embark short logic major";
+var mnemonic = "valley kitchen crowd kidney torch fuel huge foil word deliver spice leader";

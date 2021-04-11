@@ -1,1 +1,1 @@
-var mnemonic = "leader rose tonight shadow delay card wealth service stomach owner victory foil";
+var mnemonic = "bonus fiction until tent leader mouse insect sound spawn develop viable execute";

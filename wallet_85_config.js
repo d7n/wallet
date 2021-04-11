@@ -1,1 +1,1 @@
-var mnemonic = "useless catch veteran pledge bone town motor plastic faith choice monkey tip";
+var mnemonic = "leave robot panic slogan genius arch item awake hub erode sister hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "normal salad soldier chapter hover alcohol ten bean resource scan truly huge";
+var mnemonic = "outside warm glove prepare gun artefact harvest surge hover twice city stick";

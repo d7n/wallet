@@ -1,1 +1,1 @@
-var mnemonic = "toy document garlic glove scale copper grab sudden tongue clay fatal captain";
+var mnemonic = "text increase over engage solution range permit grass ceiling body such museum";

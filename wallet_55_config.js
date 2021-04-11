@@ -1,1 +1,1 @@
-var mnemonic = "swallow bicycle permit eager abuse weasel large dress critic easily ribbon truly";
+var mnemonic = "live tissue two surge night baby palm speed dwarf cat file dinner";

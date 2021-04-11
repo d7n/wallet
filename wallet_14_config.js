@@ -1,1 +1,1 @@
-var mnemonic = "fine field flavor offer elephant tip robust motion knock slam arch ankle";
+var mnemonic = "renew chicken affair design core media inform rate drift someone mixed index";

@@ -1,1 +1,1 @@
-var mnemonic = "letter question skill glove direct wet milk cram fix song front lucky";
+var mnemonic = "girl dragon skill ignore balcony husband mammal citizen proud wrap achieve marble";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza canyon ignore open key neither gesture carry naive danger future tool";
+var mnemonic = "saddle science minute junk they simple very chapter clock expand slot clean";

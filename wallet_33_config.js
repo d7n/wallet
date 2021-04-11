@@ -1,1 +1,1 @@
-var mnemonic = "ostrich manual guide already since assume crisp combine wealth title pistol usage";
+var mnemonic = "middle right art offer scrap capital rhythm voice barely canal notice exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi ethics race cricket then spy nation bracket hole glory frost faith";
+var mnemonic = "attitude language husband swing coconut skate fox garment rent attitude tennis best";

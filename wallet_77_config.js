@@ -1,1 +1,1 @@
-var mnemonic = "raven circle science swift mouse abstract mind truth mind length mule glory";
+var mnemonic = "actual debris fiscal jungle suit spring false vendor jazz barrel stay drill";

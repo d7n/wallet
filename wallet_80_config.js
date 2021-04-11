@@ -1,1 +1,1 @@
-var mnemonic = "benefit crash emerge unique barrel loud issue rail worry oven crush virtual";
+var mnemonic = "magic police purse patrol fish cute crash key monster street grape they";

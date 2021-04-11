@@ -1,1 +1,1 @@
-var mnemonic = "team fold fever moon jump kingdom truth mesh twice custom scorpion dutch";
+var mnemonic = "drama possible elegant author obscure false net unusual credit dance scale luxury";

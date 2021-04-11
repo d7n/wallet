@@ -1,1 +1,1 @@
-var mnemonic = "banana sausage tower purse hungry feed height own welcome cactus retreat shiver";
+var mnemonic = "message right snack tribe bachelor egg occur useless doctor expand debris crew";

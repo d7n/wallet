@@ -1,1 +1,1 @@
-var mnemonic = "kitten swamp attract fix street wear naive source parrot echo strong same";
+var mnemonic = "type polar path imitate behind model clock skirt expand wreck gauge unfair";

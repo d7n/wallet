@@ -1,1 +1,1 @@
-var mnemonic = "talk flush able twenty visual interest ghost twin bacon bird burger point";
+var mnemonic = "glory share frame border equal term kangaroo eight barely sauce giant laundry";

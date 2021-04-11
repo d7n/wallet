@@ -1,1 +1,1 @@
-var mnemonic = "you twenty occur accuse radio disorder divorce click oil deal popular chicken";
+var mnemonic = "abandon walk certain fossil denial popular champion extra electric author elite burden";

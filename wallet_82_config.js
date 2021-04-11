@@ -1,1 +1,1 @@
-var mnemonic = "soft gate struggle ceiling slab over window current ordinary twist expose split";
+var mnemonic = "apart rebel suggest custom license tissue shift view puzzle old damage sail";

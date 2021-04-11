@@ -1,1 +1,1 @@
-var mnemonic = "hold skirt taste transfer bundle february agree people swear finish more theme";
+var mnemonic = "globe enemy bachelor trial bulb coconut hero fiction treat emotion skirt nurse";

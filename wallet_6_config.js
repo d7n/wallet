@@ -1,1 +1,1 @@
-var mnemonic = "found guard expect tired ramp any example lens drastic picnic glare final";
+var mnemonic = "another seek announce essence fine hope sheriff curious distance crowd segment valve";

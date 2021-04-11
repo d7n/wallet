@@ -1,1 +1,1 @@
-var mnemonic = "novel note place scrub brown cement narrow guess glad hood brush learn";
+var mnemonic = "crane come output dream once sentence clerk holiday frown silly nest blue";

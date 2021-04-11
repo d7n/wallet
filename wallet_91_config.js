@@ -1,1 +1,1 @@
-var mnemonic = "silk mixed place object squeeze word emotion twist give mixed town type";
+var mnemonic = "hour marine brush attract win panic assault bind joke zebra mother mansion";

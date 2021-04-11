@@ -1,1 +1,1 @@
-var mnemonic = "hammer reopen flight inquiry deputy glance law marble praise peanut result prefer";
+var mnemonic = "claw gloom door mass else matter stereo lonely february blast base choice";

@@ -1,1 +1,1 @@
-var mnemonic = "youth slush pond agree treat zoo pattern appear crater rack glimpse author";
+var mnemonic = "grid apology boil garbage erode grid umbrella gun about vacuum adult scorpion";

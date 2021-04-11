@@ -1,1 +1,1 @@
-var mnemonic = "hope eagle antenna news swap recall mail drift stuff license vast crush";
+var mnemonic = "divorce melt entire century drive notice rose amused window kingdom donate sunny";

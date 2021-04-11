@@ -1,1 +1,1 @@
-var mnemonic = "grab segment combine broom pencil beauty fit viable waste shoe coffee derive";
+var mnemonic = "sunny venue grid situate grace section nuclear fork anger visual bag voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "insect circle boost pet split face marble must welcome drum medal illness";
+var mnemonic = "call width advance slab roof bachelor caution muscle frequent nasty cute gadget";

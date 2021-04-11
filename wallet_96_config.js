@@ -1,1 +1,1 @@
-var mnemonic = "stay away can engage spoon huge recipe royal dial shuffle cattle fee";
+var mnemonic = "imitate jaguar flight hurry prison motion duck position dry document evolve slow";
