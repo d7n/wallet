@@ -1,1 +1,1 @@
-var mnemonic = "coil sail friend firm tomorrow power maze produce river entry gloom decorate";
+var mnemonic = "discover tenant logic route around noble move oblige drink forget melt cloth";

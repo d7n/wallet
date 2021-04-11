@@ -1,1 +1,1 @@
-var mnemonic = "sea magnet trophy ghost remove rescue label ugly smoke pink deputy rescue";
+var mnemonic = "nephew creek direct cute author bike scheme reopen infant purity spin pledge";

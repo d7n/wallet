@@ -1,1 +1,1 @@
-var mnemonic = "dog spoon music cargo dish forward include blanket narrow lava hockey swing";
+var mnemonic = "mistake supreme audit wide robot critic smoke disorder machine bamboo poverty quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist denial festival quality wheat choose general liberty shed such amazing rich";
+var mnemonic = "viable pass magnet cable notable pilot when job double possible shine panel";

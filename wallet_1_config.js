@@ -1,1 +1,1 @@
-var mnemonic = "cube cloth increase advance school talk suspect sound display acoustic minute gesture";
+var mnemonic = "away blossom apart pistol candy clarify female possible vessel mandate arrange follow";

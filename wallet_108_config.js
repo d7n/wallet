@@ -1,1 +1,1 @@
-var mnemonic = "potato kiss farm slight gather keep razor pretty thunder brown kitchen loop";
+var mnemonic = "scene attitude zebra wrap endorse visual season neglect chunk engage replace sniff";

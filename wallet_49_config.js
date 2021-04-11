@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo stand coast reward belt cannon lemon ring canoe half popular squeeze";
+var mnemonic = "vapor risk soft escape nuclear office mail nuclear wide iron seminar over";

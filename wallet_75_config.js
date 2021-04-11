@@ -1,1 +1,1 @@
-var mnemonic = "vibrant six useful obey ankle grape onion original snow ghost funny sustain";
+var mnemonic = "sugar suggest vote action vague habit excess zone able marble tribe trade";

@@ -1,1 +1,1 @@
-var mnemonic = "about door attract moon double often banner pride ripple decade another music";
+var mnemonic = "message keen stuff club connect manual lesson vapor wait resist world useful";

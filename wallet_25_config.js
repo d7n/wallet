@@ -1,1 +1,1 @@
-var mnemonic = "suggest then prize faint aerobic double wasp holiday puzzle stamp math ketchup";
+var mnemonic = "fringe review ivory gather moment error wine cross wait trumpet wreck spoil";

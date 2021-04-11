@@ -1,1 +1,1 @@
-var mnemonic = "innocent boil shaft naive cost move embrace remain derive garment owner glad";
+var mnemonic = "saddle used make snow supply future manage summer door will invest orphan";

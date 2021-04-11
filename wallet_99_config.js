@@ -1,1 +1,1 @@
-var mnemonic = "thought poverty hold unaware violin desk blanket ridge cook garden can sad";
+var mnemonic = "neglect rely alley normal hen cruise holiday quit talk medal pause domain";

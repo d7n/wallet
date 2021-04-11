@@ -1,1 +1,1 @@
-var mnemonic = "join wing labor surge jewel zoo gather jelly giraffe yard april middle";
+var mnemonic = "check keen ramp topic develop trust test table tiny sad awesome hint";

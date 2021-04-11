@@ -1,1 +1,1 @@
-var mnemonic = "property assist wild bicycle reunion pair drive carbon immune airport hawk express";
+var mnemonic = "apple similar enhance squirrel smoke depart parade park drift security awesome blanket";

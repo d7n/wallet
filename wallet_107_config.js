@@ -1,1 +1,1 @@
-var mnemonic = "space inform drift accuse step taxi dose sick vendor dutch never leisure";
+var mnemonic = "fit cost there catalog mechanic plate transfer dilemma crumble loan stand what";

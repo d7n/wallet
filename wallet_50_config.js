@@ -1,1 +1,1 @@
-var mnemonic = "seek online page tilt baby virtual disagree weather obscure depart execute shoe";
+var mnemonic = "crawl holiday industry cannon hurry picnic dawn boss output seat forum what";

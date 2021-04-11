@@ -1,1 +1,1 @@
-var mnemonic = "citizen survey sense nest measure tide stick island crumble find stamp vague";
+var mnemonic = "digital kit extend glance pledge lesson check arch lift post crisp acoustic";

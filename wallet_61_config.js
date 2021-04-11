@@ -1,1 +1,1 @@
-var mnemonic = "castle absurd title grain mandate gallery assume legend desk ocean coin breeze";
+var mnemonic = "vibrant green fly six drift knock exist live sport jealous web luggage";

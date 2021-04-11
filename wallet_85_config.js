@@ -1,1 +1,1 @@
-var mnemonic = "ocean west burst raccoon learn year easy stuff east name pill arm";
+var mnemonic = "broccoli episode wet seven rabbit prefer gallery lion together ritual velvet story";

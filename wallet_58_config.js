@@ -1,1 +1,1 @@
-var mnemonic = "boat aware rich enrich teach hobby sport rescue stamp volume measure inner";
+var mnemonic = "crater able edit fancy juice inject special transfer measure escape tool sauce";

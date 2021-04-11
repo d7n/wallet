@@ -1,1 +1,1 @@
-var mnemonic = "debate neither tip mammal hero rich account midnight flee foster song myth";
+var mnemonic = "urban gap pause virus fancy jazz fury suspect clarify smoke net member";

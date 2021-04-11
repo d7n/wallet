@@ -1,1 +1,1 @@
-var mnemonic = "usual month item pact mixture exit lunch wrestle detect anxiety again fantasy";
+var mnemonic = "pluck athlete stumble keep nephew debris scrub maid reunion couch grant sentence";

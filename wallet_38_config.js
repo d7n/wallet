@@ -1,1 +1,1 @@
-var mnemonic = "miracle morning south arena dune vast tilt cute pupil trouble example drastic";
+var mnemonic = "pave agree spray season salad couple sad album label hotel hunt burger";

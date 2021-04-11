@@ -1,1 +1,1 @@
-var mnemonic = "once patch clump often throw artwork drive punch proud scrap portion hover";
+var mnemonic = "air receive mixture spray plastic lion throw expose human audit crash elephant";

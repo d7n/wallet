@@ -1,1 +1,1 @@
-var mnemonic = "country powder useful maze distance since kick always dune key mistake shrug";
+var mnemonic = "cupboard virus happy dignity survey slender identify aunt blur gaze valve cargo";

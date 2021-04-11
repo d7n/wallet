@@ -1,1 +1,1 @@
-var mnemonic = "defy member camp noble since cereal trial sun hope pen cactus volume";
+var mnemonic = "use chronic bridge robust fever because bonus stone pear charge define custom";

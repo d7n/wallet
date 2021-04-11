@@ -1,1 +1,1 @@
-var mnemonic = "reopen head scare host zero math crane cannon voice gesture orphan endorse";
+var mnemonic = "pet canyon energy vessel check street step announce license grab silver around";

@@ -1,1 +1,1 @@
-var mnemonic = "paper vital coast crush that general typical guess bachelor short account inquiry";
+var mnemonic = "unit alert time embark possible carbon shoot trash sibling fatal boring magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter dad night cactus output session holiday drum hold culture real rate";
+var mnemonic = "carpet easily ecology program glare title arrange program leg black artefact ride";

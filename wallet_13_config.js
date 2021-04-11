@@ -1,1 +1,1 @@
-var mnemonic = "choice gym avocado disease surround tragic shadow submit glance photo illegal evil";
+var mnemonic = "awake desk gun away update theme tunnel quantum net recall wealth stairs";

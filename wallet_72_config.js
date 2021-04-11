@@ -1,1 +1,1 @@
-var mnemonic = "tube strategy pupil warm awkward follow fragile join banana brain only weekend";
+var mnemonic = "liberty coil pool cheese melody armed light tunnel slight payment reject funny";

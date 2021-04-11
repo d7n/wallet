@@ -1,1 +1,1 @@
-var mnemonic = "high category taxi nasty crash birth lyrics normal federal film rack glance";
+var mnemonic = "outer banana front ginger age dentist cloth sound strategy hero envelope tree";

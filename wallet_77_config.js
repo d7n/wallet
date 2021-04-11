@@ -1,1 +1,1 @@
-var mnemonic = "humor oppose broken accuse tomorrow deal fatal jar gas ocean ritual energy";
+var mnemonic = "regular captain can outdoor unfold kind sell knee hospital come pottery offer";

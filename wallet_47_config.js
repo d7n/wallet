@@ -1,1 +1,1 @@
-var mnemonic = "purity transfer hour property original air autumn discover act suffer jelly task";
+var mnemonic = "print cover harsh tongue month jealous enhance stadium defense bulb connect weapon";

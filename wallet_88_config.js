@@ -1,1 +1,1 @@
-var mnemonic = "rescue forget health over fantasy hammer squeeze razor canvas notice guide cage";
+var mnemonic = "range path ranch mixture spread liberty enemy order cute chat trash blossom";

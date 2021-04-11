@@ -1,1 +1,1 @@
-var mnemonic = "axis actor hamster enroll piece pact extra attend page afraid party antique";
+var mnemonic = "husband mass upper buzz crew act opera various park ostrich party resist";

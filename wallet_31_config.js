@@ -1,1 +1,1 @@
-var mnemonic = "course brush bid clerk village thank guilt tonight garden ahead act private";
+var mnemonic = "milk joke idle bind day want pet payment come dizzy industry tag";

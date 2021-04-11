@@ -1,1 +1,1 @@
-var mnemonic = "sunny autumn wait witness depth dance rookie dog enough acid color tray";
+var mnemonic = "vast popular other used cabin monster hover wear fiction order scout shy";

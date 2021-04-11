@@ -1,1 +1,1 @@
-var mnemonic = "inch liar repair copy screen cotton lady select finger short season high";
+var mnemonic = "fluid game biology turn valve abstract more tonight there cream family crystal";

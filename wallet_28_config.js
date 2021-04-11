@@ -1,1 +1,1 @@
-var mnemonic = "vast merit fun skin embody debate describe short blame wheat deputy save";
+var mnemonic = "drama flock coach vague super donor deposit rib volume gospel pact salad";

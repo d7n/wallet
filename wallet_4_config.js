@@ -1,1 +1,1 @@
-var mnemonic = "legal ethics kiss bonus mutual merge coil board drink share game check";
+var mnemonic = "proof arctic march carpet empty oppose push suffer sand senior space clarify";

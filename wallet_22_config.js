@@ -1,1 +1,1 @@
-var mnemonic = "giant alien woman observe document elegant document certain drive option boost just";
+var mnemonic = "devote nice victory loud door motion vehicle index gather net issue rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "disease egg pulp daughter similar man field captain someone behind trumpet spray";
+var mnemonic = "album own senior limit fame digital gadget slim document long knee opera";

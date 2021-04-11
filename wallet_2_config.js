@@ -1,1 +1,1 @@
-var mnemonic = "amount foil shift model creek imitate drum swing solid fetch spot fit";
+var mnemonic = "beach exotic glimpse merge evidence kit donkey bomb upgrade wide dry west";

@@ -1,1 +1,1 @@
-var mnemonic = "cage pizza pelican movie ancient erupt december deliver hen sail exile sting";
+var mnemonic = "mandate ticket burst setup hollow speak bunker until join pause slender catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer dignity famous lend antenna dragon love bulb dawn garbage crawl flash";
+var mnemonic = "bid luxury agent hammer large grocery pond scatter foster price cloud street";

@@ -1,1 +1,1 @@
-var mnemonic = "little surface three menu trick arrow hobby stumble fiscal pattern they vote";
+var mnemonic = "sure kid curious liar service blast gentle symbol drill room brass shy";

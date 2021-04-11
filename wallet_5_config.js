@@ -1,1 +1,1 @@
-var mnemonic = "broken reward easily grain first pelican forward wasp zero zero affair rookie";
+var mnemonic = "wedding rack alone beauty puzzle depth dry repair inch name hello rotate";

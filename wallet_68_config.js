@@ -1,1 +1,1 @@
-var mnemonic = "legend liquid suggest crash parrot meat medal peanut six code banana merge";
+var mnemonic = "opinion attitude dilemma provide trumpet close example legend crater glare renew banana";

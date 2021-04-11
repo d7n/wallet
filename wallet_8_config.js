@@ -1,1 +1,1 @@
-var mnemonic = "warfare soon sketch notable elephant suffer kite source nest unable ceiling must";
+var mnemonic = "witness fish original page sibling fortune wheat apart flash normal cube creek";

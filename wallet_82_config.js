@@ -1,1 +1,1 @@
-var mnemonic = "save lock rally business cupboard critic crunch salon bleak slim special negative";
+var mnemonic = "success color afraid furnace post lonely universe frog trial neck radio thrive";

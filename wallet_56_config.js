@@ -1,1 +1,1 @@
-var mnemonic = "fabric harbor sound rib grant inherit machine fitness under uniform rookie napkin";
+var mnemonic = "foot goat dinner wet room indoor trip perfect cloud initial imitate device";

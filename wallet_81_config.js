@@ -1,1 +1,1 @@
-var mnemonic = "hair project faint ask escape ridge comic orient ghost canvas property labor";
+var mnemonic = "grief round connect team stove finish box balance stage topic champion boil";

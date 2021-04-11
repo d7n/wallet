@@ -1,1 +1,1 @@
-var mnemonic = "outer enough disease twenty whale mansion expand attack quiz rigid problem excite";
+var mnemonic = "venture dream expect shine corn move strike salmon tiger hockey prefer quick";

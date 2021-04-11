@@ -1,1 +1,1 @@
-var mnemonic = "pioneer welcome shoe subway near below trap virus news oven toss repair";
+var mnemonic = "robust person crowd used belt family boost wheat object review display cover";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple oblige melt claim pact reason pioneer leisure never recall bracket swallow";
+var mnemonic = "february coyote audit social guess hair return cereal pelican witness rule glass";

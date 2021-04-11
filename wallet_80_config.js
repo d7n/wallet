@@ -1,1 +1,1 @@
-var mnemonic = "fetch mad vendor pepper puzzle receive segment monkey receive box dutch piano";
+var mnemonic = "repeat zoo measure dutch spatial turn dumb arctic tell make strategy slice";

@@ -1,1 +1,1 @@
-var mnemonic = "oven spot marriage target wisdom deal opera notable flight obey yellow display";
+var mnemonic = "olympic razor control unit prize denial actual fetch charge erosion alcohol cat";

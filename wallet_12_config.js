@@ -1,1 +1,1 @@
-var mnemonic = "era whale crouch attract affair man fruit chat spice soft half sibling";
+var mnemonic = "gain focus rail reunion exotic melt stock suit robust air stay funny";

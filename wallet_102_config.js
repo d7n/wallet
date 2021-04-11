@@ -1,1 +1,1 @@
-var mnemonic = "much wonder cool praise only trial window climb vague debate velvet boy";
+var mnemonic = "bottom arena mango broccoli country sock tornado rocket achieve share monster play";

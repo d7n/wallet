@@ -1,1 +1,1 @@
-var mnemonic = "celery rubber chase carpet crop knee survey crystal lottery inhale chase cattle";
+var mnemonic = "title practice little trust fun short offer motion answer knife snack exit";

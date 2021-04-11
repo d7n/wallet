@@ -1,1 +1,1 @@
-var mnemonic = "blossom recycle quiz kangaroo sign road chat afraid typical blind matrix bubble";
+var mnemonic = "tumble broccoli weekend suffer defy reform stay quarter retreat fossil brush explain";

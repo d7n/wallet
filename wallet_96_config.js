@@ -1,1 +1,1 @@
-var mnemonic = "cloth honey garbage notice never embody eyebrow system height tonight measure average";
+var mnemonic = "nothing grocery rally toe walk favorite act else nice drift floor vacant";

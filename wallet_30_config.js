@@ -1,1 +1,1 @@
-var mnemonic = "animal connect inflict little glare mind damp gaze fabric critic midnight kingdom";
+var mnemonic = "column screen differ forward offer insect round unknown game crater obscure clump";

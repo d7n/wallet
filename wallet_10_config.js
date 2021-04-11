@@ -1,1 +1,1 @@
-var mnemonic = "sweet antenna under impulse theory mixture baby portion proud fat decrease sudden";
+var mnemonic = "spare viable yard pony borrow scale park fall story credit neutral vibrant";

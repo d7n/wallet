@@ -1,1 +1,1 @@
-var mnemonic = "ritual firm whip weekend labor soccer pulse pull fire monkey off click";
+var mnemonic = "select drama satoshi betray host issue shiver current wage train antenna alter";

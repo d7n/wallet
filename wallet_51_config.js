@@ -1,1 +1,1 @@
-var mnemonic = "lady outdoor fly holiday flush sister guess sniff circle enable donor shaft";
+var mnemonic = "abstract scheme leader almost arena gaze moral fence sport suspect child cement";

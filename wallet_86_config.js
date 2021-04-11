@@ -1,1 +1,1 @@
-var mnemonic = "tray turkey buzz gate retire timber cotton pig cool record soldier click";
+var mnemonic = "basket future buzz monitor robot marble dog sing happy father ghost mask";

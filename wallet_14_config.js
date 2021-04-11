@@ -1,1 +1,1 @@
-var mnemonic = "busy hour tell sleep picnic jeans diagram knife doll omit today actress";
+var mnemonic = "key wish banana confirm install clown marriage simple daring foil whale spatial";

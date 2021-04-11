@@ -1,1 +1,1 @@
-var mnemonic = "divert shine must animal spray draw people goose spray loop girl symbol";
+var mnemonic = "local swear position major add host face nature crazy sheriff umbrella predict";

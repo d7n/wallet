@@ -1,1 +1,1 @@
-var mnemonic = "spirit vintage forum lava category essay body entire rival spirit scout razor";
+var mnemonic = "supreme valve need layer cycle extend tiny obscure quarter heart cheap awesome";

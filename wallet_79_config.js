@@ -1,1 +1,1 @@
-var mnemonic = "exhaust common loyal monster leave garment comic thumb slide layer consider quantum";
+var mnemonic = "sustain settle always regular leg ecology limb merge taxi soft riot verify";

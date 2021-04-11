@@ -1,1 +1,1 @@
-var mnemonic = "system general syrup drift tonight pen page tribe ahead fee unveil horror";
+var mnemonic = "arch team tunnel butter stuff diesel work swift glass burger cool scrap";

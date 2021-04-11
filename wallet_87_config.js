@@ -1,1 +1,1 @@
-var mnemonic = "raise theme winner bind abuse ticket super curtain tunnel start element sock";
+var mnemonic = "lumber hawk insane range spawn sheriff eye below artwork friend just differ";

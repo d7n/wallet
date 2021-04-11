@@ -1,1 +1,1 @@
-var mnemonic = "strong survey arrow chat smooth explain ghost monitor wasp fold mail female";
+var mnemonic = "icon chronic spin crash promote vault unknown nut property speed citizen basket";

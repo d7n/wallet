@@ -1,1 +1,1 @@
-var mnemonic = "miracle worry involve step move collect menu injury useless true noble cook";
+var mnemonic = "wrap dilemma indicate lumber noodle same ocean federal tenant unknown kitchen budget";

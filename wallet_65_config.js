@@ -1,1 +1,1 @@
-var mnemonic = "nothing dance supply foster gift clay crucial cry erupt undo need jelly";
+var mnemonic = "trophy choose public abstract gasp wet vanish neglect address flame adjust evolve";

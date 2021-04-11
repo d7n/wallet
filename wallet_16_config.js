@@ -1,1 +1,1 @@
-var mnemonic = "enroll you duck brain shoulder impulse garlic black nuclear minimum genre drill";
+var mnemonic = "mix assume wife useless door elder spend table mistake kingdom notable kingdom";

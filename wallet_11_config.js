@@ -1,1 +1,1 @@
-var mnemonic = "elite tooth undo dentist fix play lumber organ embody junk finish version";
+var mnemonic = "hair subject bleak gown sand fancy famous print angry sight tube saddle";

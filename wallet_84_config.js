@@ -1,1 +1,1 @@
-var mnemonic = "vote cloud hold video half method pave lesson mutual come nest stool";
+var mnemonic = "tortoise taste fabric odor tide latin pupil canvas churn liar party only";

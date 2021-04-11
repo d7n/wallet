@@ -1,1 +1,1 @@
-var mnemonic = "satisfy spin flight gaze range paddle depth wife citizen renew sock language";
+var mnemonic = "head vehicle village assist filter web lyrics pencil blind trigger couch someone";

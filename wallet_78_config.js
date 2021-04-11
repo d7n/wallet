@@ -1,1 +1,1 @@
-var mnemonic = "discover spell aisle evolve light elephant pull celery deliver village sketch crawl";
+var mnemonic = "cost scheme accuse indicate churn entry perfect bless crystal wish jaguar search";

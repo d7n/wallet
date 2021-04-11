@@ -1,1 +1,1 @@
-var mnemonic = "auction crane globe kidney either behave since absurd demand snap bread sorry";
+var mnemonic = "exact bright credit whip share general person myth guitar grab depth inhale";

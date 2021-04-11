@@ -1,1 +1,1 @@
-var mnemonic = "effort west battle frequent nuclear left smart lake wolf second prefer syrup";
+var mnemonic = "cross valley punch swallow public chair atom sauce sketch cricket decide welcome";

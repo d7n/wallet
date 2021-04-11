@@ -1,1 +1,1 @@
-var mnemonic = "tree useless curve device emerge vast curtain wave report crowd ranch anxiety";
+var mnemonic = "system fantasy lucky any net young raw shock aim achieve habit claim";

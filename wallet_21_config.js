@@ -1,1 +1,1 @@
-var mnemonic = "effort coin voyage open major actress zone lock hair color rice length";
+var mnemonic = "two check endorse margin delay square dune arctic front stable spot either";

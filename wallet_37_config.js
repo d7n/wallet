@@ -1,1 +1,1 @@
-var mnemonic = "arrest flag scout taxi bounce bounce dance clay venture journey replace core";
+var mnemonic = "route crash crew that pencil swim bacon act hawk jar focus hub";
