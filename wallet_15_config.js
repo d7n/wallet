@@ -1,1 +1,1 @@
-var mnemonic = "defy apple civil twin crouch night person onion like west voice boring";
+var mnemonic = "flash chronic impulse brother elevator emerge spin civil keen august upper park";

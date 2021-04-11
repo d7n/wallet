@@ -1,1 +1,1 @@
-var mnemonic = "glide lake upon jaguar saddle spider lonely tiger search cart mercy attend";
+var mnemonic = "sign pear mask increase exhibit tell act grief minute catch inquiry label";

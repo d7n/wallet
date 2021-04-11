@@ -1,1 +1,1 @@
-var mnemonic = "flag talent feed oil senior install process ginger figure arrive bring general";
+var mnemonic = "subway hockey brush large body punch panel humor radar march slender display";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan huge throw dinner skate smooth grunt curve erase govern gossip powder";
+var mnemonic = "island second deliver elevator learn prefer sick cousin orange genuine never holiday";

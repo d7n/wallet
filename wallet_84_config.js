@@ -1,1 +1,1 @@
-var mnemonic = "giggle vibrant fitness antique observe grunt resemble relax main lunar case recycle";
+var mnemonic = "power desert polar buddy chunk culture mountain shadow link frozen hello thrive";

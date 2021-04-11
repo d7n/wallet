@@ -1,1 +1,1 @@
-var mnemonic = "nest success faith hobby easily fashion badge liberty check hammer spot thought";
+var mnemonic = "avocado version link kitten rapid cushion guess zero peanut answer inspire slim";

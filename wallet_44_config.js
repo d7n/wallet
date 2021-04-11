@@ -1,1 +1,1 @@
-var mnemonic = "ski hurt gossip like young million double desk oak black coconut oxygen";
+var mnemonic = "repair rival cupboard position horse speak elite maximum tone apart hint diesel";

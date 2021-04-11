@@ -1,1 +1,1 @@
-var mnemonic = "tower topple safe correct soda toy cereal add journey supply client love";
+var mnemonic = "lift assume smoke capable banner fluid allow network tool victory enhance elevator";

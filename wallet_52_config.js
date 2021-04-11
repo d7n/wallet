@@ -1,1 +1,1 @@
-var mnemonic = "real sample nut fatal assume traffic sight master practice proud negative drip";
+var mnemonic = "company predict please accuse vendor reveal witness little lobster sand grocery item";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon deny federal coyote scrap brand artist rookie bind busy inhale family";
+var mnemonic = "humble rural lottery elite patch ghost barely tortoise oven account economy spin";

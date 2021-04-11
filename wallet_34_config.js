@@ -1,1 +1,1 @@
-var mnemonic = "vicious hold summer ticket enter awkward coral keen custom humor option oak";
+var mnemonic = "fitness main place sting muffin piano machine print shuffle forum bird result";

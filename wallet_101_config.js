@@ -1,1 +1,1 @@
-var mnemonic = "upon scissors grab ugly dumb sauce unit fossil endorse expand consider true";
+var mnemonic = "retire leader roof angle lava outdoor tape reject business learn grid baby";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork spider actor empower habit hub come tell remind bunker escape minor";
+var mnemonic = "potato dust young alley aspect buffalo orphan science prosper blur obey slow";

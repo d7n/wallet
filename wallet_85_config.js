@@ -1,1 +1,1 @@
-var mnemonic = "imitate pact wage vicious file setup usual fish monkey purpose just interest";
+var mnemonic = "pledge biology arena private sorry kitchen fall seven mixed diagram shop fatal";

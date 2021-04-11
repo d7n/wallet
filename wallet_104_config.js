@@ -1,1 +1,1 @@
-var mnemonic = "promote output oval speed oval can multiply vault harsh trophy drastic chicken";
+var mnemonic = "love multiply boss egg law must hungry cash burger ring anger pudding";

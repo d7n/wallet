@@ -1,1 +1,1 @@
-var mnemonic = "ecology apology practice dwarf open range main circle borrow grass gym flush";
+var mnemonic = "lunch sketch fitness above price crane slide model puzzle way fruit tuition";

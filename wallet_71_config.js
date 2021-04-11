@@ -1,1 +1,1 @@
-var mnemonic = "legal quiz myself liar kind liquid bamboo simple list fatigue gate life";
+var mnemonic = "fan bright secret link foster enact police opera they kiwi chair flight";

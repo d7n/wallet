@@ -1,1 +1,1 @@
-var mnemonic = "recall soldier pledge offer vendor loud current purpose rebuild mystery below sponsor";
+var mnemonic = "accuse industry manage ignore soda crush advice festival awful burden cage response";

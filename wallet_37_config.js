@@ -1,1 +1,1 @@
-var mnemonic = "earth actress super casual bid obscure desert panic imitate wreck hospital cube";
+var mnemonic = "angle alien enemy february stick same exchange total valve math roof pipe";

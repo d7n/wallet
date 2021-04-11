@@ -1,1 +1,1 @@
-var mnemonic = "demand warfare buzz spatial cousin artefact ready comic flock dinosaur boring toilet";
+var mnemonic = "piano devote beauty net load museum staff coyote patrol orchard crazy oak";

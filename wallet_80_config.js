@@ -1,1 +1,1 @@
-var mnemonic = "beyond around carbon deny evolve appear future critic merge repair clean wisdom";
+var mnemonic = "pigeon fever satoshi struggle entry awesome bargain rule always celery plastic soap";

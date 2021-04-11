@@ -1,1 +1,1 @@
-var mnemonic = "pass style vivid mom record choose wish oak what antenna melody alien";
+var mnemonic = "clog pact slender thank trim prevent foam open piece endless lyrics target";

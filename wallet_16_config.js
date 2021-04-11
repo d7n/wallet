@@ -1,1 +1,1 @@
-var mnemonic = "punch valve truck eternal meat fall april trash sort return jacket lounge";
+var mnemonic = "loyal essence bench once journey word cannon trophy canal donate zone library";

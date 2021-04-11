@@ -1,1 +1,1 @@
-var mnemonic = "cover few broom faint document atom update manual very dash arrive all";
+var mnemonic = "jump symptom phone ticket razor employ alpha donor catalog senior tackle whip";

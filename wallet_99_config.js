@@ -1,1 +1,1 @@
-var mnemonic = "baby cave blouse cable quarter tobacco whisper tobacco name middle pudding gravity";
+var mnemonic = "reject rescue decade decrease clip since own chalk diesel outer cereal one";

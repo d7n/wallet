@@ -1,1 +1,1 @@
-var mnemonic = "baby lonely boil vote aspect kiss opera canal humble virtual dilemma mandate";
+var mnemonic = "smooth sniff special coast slab cute flash city excite velvet luxury reunion";

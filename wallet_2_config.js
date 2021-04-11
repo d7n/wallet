@@ -1,1 +1,1 @@
-var mnemonic = "attitude drill later antenna youth hole critic mix travel junk anchor canal";
+var mnemonic = "library action ride afraid escape waste unfair erode spell glad rally stand";

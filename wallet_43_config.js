@@ -1,1 +1,1 @@
-var mnemonic = "thrive brown success rather toast sample keep vicious nothing choice garlic gap";
+var mnemonic = "dinosaur fame ecology blood jelly rate inhale hundred purpose warm rice know";

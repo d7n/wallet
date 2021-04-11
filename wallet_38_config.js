@@ -1,1 +1,1 @@
-var mnemonic = "barely cash modify glow report nice trick peanut bright fence win furnace";
+var mnemonic = "equip receive network crew major summer cruise useless hedgehog sentence civil roast";

@@ -1,1 +1,1 @@
-var mnemonic = "stage view fatigue whip during mom true balance comfort name point host";
+var mnemonic = "slim horn buffalo chief nuclear deputy mercy resist name spatial fiscal heavy";

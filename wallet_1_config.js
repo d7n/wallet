@@ -1,1 +1,1 @@
-var mnemonic = "forum return day balcony swallow bind near address broken indoor spare hour";
+var mnemonic = "spice trap protect magic bounce disorder base kid remain acid deer salt";

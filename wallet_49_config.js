@@ -1,1 +1,1 @@
-var mnemonic = "island order turn shadow cross poverty clarify auto minor imitate rough salt";
+var mnemonic = "wolf recall tunnel avoid such hidden sudden depth behind hire list raise";

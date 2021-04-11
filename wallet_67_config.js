@@ -1,1 +1,1 @@
-var mnemonic = "nurse caution wrestle chimney denial plunge volume shock under fence nation art";
+var mnemonic = "cash hello say soda voyage journey result tooth client uncover turkey hawk";

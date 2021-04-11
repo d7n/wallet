@@ -1,1 +1,1 @@
-var mnemonic = "drift edit carry chat water design used energy property hungry attitude final";
+var mnemonic = "omit live mean bar waste pause spend jacket kiss resist mammal burst";

@@ -1,1 +1,1 @@
-var mnemonic = "elite embark corn vivid file piece sausage march slim assist strike spot";
+var mnemonic = "cloud castle curious grab fetch dragon narrow age sing benefit grow refuse";

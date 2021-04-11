@@ -1,1 +1,1 @@
-var mnemonic = "drop upper abandon squirrel remind spawn north struggle renew runway struggle salt";
+var mnemonic = "staff skin retire energy business cotton car hen aerobic coyote bid wing";

@@ -1,1 +1,1 @@
-var mnemonic = "major current expand avoid gym true increase clay useful world decorate vendor";
+var mnemonic = "language pioneer call estate napkin spread injury point dream course require possible";

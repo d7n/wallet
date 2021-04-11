@@ -1,1 +1,1 @@
-var mnemonic = "ecology cricket trouble real pluck force skin wheat clean spell anger faculty";
+var mnemonic = "surprise wise shiver indicate develop lion used library cluster jar disorder window";

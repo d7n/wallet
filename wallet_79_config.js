@@ -1,1 +1,1 @@
-var mnemonic = "hip protect return clock icon angle champion pottery struggle kit reopen east";
+var mnemonic = "bone alarm tent atom scan combine impulse knock when exotic alien upgrade";

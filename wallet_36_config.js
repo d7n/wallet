@@ -1,1 +1,1 @@
-var mnemonic = "reunion judge unusual flat year steel half maple rude foster coil buddy";
+var mnemonic = "old all aim goat estate neither issue material omit predict hire ostrich";

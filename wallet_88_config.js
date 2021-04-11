@@ -1,1 +1,1 @@
-var mnemonic = "charge today more urban brother later top zoo smooth glide glide physical";
+var mnemonic = "stomach focus resist orange spring claim dirt cube reveal vote lady slam";

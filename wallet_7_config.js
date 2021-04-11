@@ -1,1 +1,1 @@
-var mnemonic = "noise minute sentence ugly orbit make dream chunk confirm ensure during usage";
+var mnemonic = "advance subject fiber clean gospel squirrel palace dog monster cheap wasp three";

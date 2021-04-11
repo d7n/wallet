@@ -1,1 +1,1 @@
-var mnemonic = "engine movie member company mistake amused rare foster tackle ramp service level";
+var mnemonic = "avocado craft rigid shoe below caught error dutch bonus jaguar cram south";

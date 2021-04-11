@@ -1,1 +1,1 @@
-var mnemonic = "panther anxiety feature state begin describe dutch solar fashion hundred candy category";
+var mnemonic = "zone face shrimp believe file light cable boil park yard leader comic";

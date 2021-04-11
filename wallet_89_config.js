@@ -1,1 +1,1 @@
-var mnemonic = "flower frog address fee episode cube simple obvious zebra media hero peace";
+var mnemonic = "heart glow apple truck gallery fitness valid logic dizzy stand soccer normal";

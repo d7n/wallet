@@ -1,1 +1,1 @@
-var mnemonic = "vote remain donkey online clip chase custom finger paddle quarter alarm mind";
+var mnemonic = "shoulder actor ankle rare boat hip hybrid dumb news balcony daughter result";

@@ -1,1 +1,1 @@
-var mnemonic = "shock series unlock debate admit answer puzzle romance rally usual vivid coast";
+var mnemonic = "distance awesome chronic because cruise swim fall vibrant stand catch net girl";

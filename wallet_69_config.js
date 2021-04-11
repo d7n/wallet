@@ -1,1 +1,1 @@
-var mnemonic = "era lazy move august shuffle regret vital onion unfair meadow coast fiction";
+var mnemonic = "suffer diary joy system lobster crowd avocado embrace guilt home canoe vocal";

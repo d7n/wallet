@@ -1,1 +1,1 @@
-var mnemonic = "patient tribe corn release filter lounge mutual left sing struggle buyer goddess";
+var mnemonic = "police boost zoo give home odor scatter avocado own sketch gate salute";

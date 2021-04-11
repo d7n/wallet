@@ -1,1 +1,1 @@
-var mnemonic = "burst space mosquito sell among flag marriage abstract anxiety spirit destroy rigid";
+var mnemonic = "soft attract nominee walk labor camera young garment match save supreme across";

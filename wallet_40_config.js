@@ -1,1 +1,1 @@
-var mnemonic = "snake siren away jungle general exact lumber list lens print six unaware";
+var mnemonic = "elbow stadium fly modify rookie duck mule rally prize pottery smooth gorilla";

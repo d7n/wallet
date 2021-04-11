@@ -1,1 +1,1 @@
-var mnemonic = "kick spy invite success banana transfer gown adjust clever safe grit crisp";
+var mnemonic = "illegal oil hour castle caution must above glance ethics arm night hill";

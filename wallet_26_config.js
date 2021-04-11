@@ -1,1 +1,1 @@
-var mnemonic = "embark trash perfect join water beyond judge leg thought wonder basket vehicle";
+var mnemonic = "apology violin dry lucky try lottery cradle acoustic provide dynamic father second";

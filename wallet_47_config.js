@@ -1,1 +1,1 @@
-var mnemonic = "domain ill outside rate fresh alpha grit stable morning wear disorder glue";
+var mnemonic = "volume aerobic note switch matter patch tackle inform own weasel rocket antique";

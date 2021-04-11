@@ -1,1 +1,1 @@
-var mnemonic = "link grant slight oblige also gather solid firm saddle warm great auction";
+var mnemonic = "night kitchen tail garment old scrub trap horror north vivid solution episode";

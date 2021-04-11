@@ -1,1 +1,1 @@
-var mnemonic = "culture all modify render evoke foam lonely oyster throw farm possible solve";
+var mnemonic = "hood spy trial fence mix claw sauce album furnace name grit grunt";

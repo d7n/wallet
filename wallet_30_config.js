@@ -1,1 +1,1 @@
-var mnemonic = "young avoid write scale wisdom sweet scrub inmate monitor scrub physical extend";
+var mnemonic = "attack gloom hood fence enact limit employ forest moment green volume lumber";

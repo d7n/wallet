@@ -1,1 +1,1 @@
-var mnemonic = "enact season finish happy leaf drill resist real strike truck local next";
+var mnemonic = "text depth kitchen one setup canal rural scout arrive ceiling alert uniform";

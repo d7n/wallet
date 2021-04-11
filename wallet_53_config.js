@@ -1,1 +1,1 @@
-var mnemonic = "trick order pitch alien critic exercise aware ivory feed jelly vital dutch";
+var mnemonic = "sibling legend they puppy fire kind enough devote oval across potato random";

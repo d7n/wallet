@@ -1,1 +1,1 @@
-var mnemonic = "access rotate tube grass pitch staff nuclear praise decline fall first tray";
+var mnemonic = "alone broom hello submit purity gather element text decide twice scale chicken";

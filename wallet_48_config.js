@@ -1,1 +1,1 @@
-var mnemonic = "skirt method story thought govern early never mimic waste stand galaxy silver";
+var mnemonic = "enlist slab capital stage fortune adapt feed survey erode egg acid sphere";

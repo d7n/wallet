@@ -1,1 +1,1 @@
-var mnemonic = "together happy midnight midnight update knife real polar sister bid hollow banner";
+var mnemonic = "pool jacket know public market hat vocal verb dad clerk rich ball";

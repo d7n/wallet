@@ -1,1 +1,1 @@
-var mnemonic = "tragic head velvet cloth stairs hobby blood stool type trial phrase twin";
+var mnemonic = "mammal save pair nature fiction doll online canyon copy cannon verb call";

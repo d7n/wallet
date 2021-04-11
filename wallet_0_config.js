@@ -1,1 +1,1 @@
-var mnemonic = "work service minute impact relax thank ship sword awesome test must hurdle";
+var mnemonic = "mind toilet radar drive mammal grace female theory hip odor upper best";

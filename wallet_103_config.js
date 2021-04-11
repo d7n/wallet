@@ -1,1 +1,1 @@
-var mnemonic = "answer ski trumpet nominee town answer mirror tree theme siren wave sing";
+var mnemonic = "between lawn what jungle twenty leisure return ethics couple behind wave volcano";

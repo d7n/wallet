@@ -1,1 +1,1 @@
-var mnemonic = "market suit awful quit gentle recycle inmate wrong issue grid nature crack";
+var mnemonic = "dentist swamp loyal surprise motion repeat fog aware sheriff general symptom impulse";

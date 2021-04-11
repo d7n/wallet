@@ -1,1 +1,1 @@
-var mnemonic = "defense weird group digital dinosaur rule chronic auction acquire fever float shed";
+var mnemonic = "boil alarm private unable gravity vacuum bright brave echo thunder process swift";

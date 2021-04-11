@@ -1,1 +1,1 @@
-var mnemonic = "aware scissors useful surge gloom auto pole burger reopen bacon discover table";
+var mnemonic = "distance timber figure mass worry keep subject ignore width boost scorpion derive";

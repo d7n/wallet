@@ -1,1 +1,1 @@
-var mnemonic = "skull butter destroy lamp tell age wide inmate peanut outside kingdom concert";
+var mnemonic = "bless wait tobacco ghost donkey alone mercy tunnel artist mouse leopard buyer";

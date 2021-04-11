@@ -1,1 +1,1 @@
-var mnemonic = "reduce nut that elite maple initial initial budget book venture mimic ethics";
+var mnemonic = "special pitch merry such image whisper yard vessel office relief divorce merry";

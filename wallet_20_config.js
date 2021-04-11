@@ -1,1 +1,1 @@
-var mnemonic = "outside federal vault never edge dog nose tongue genius depth guess wear";
+var mnemonic = "unable half sample ensure pen simple ice liar access object attitude farm";

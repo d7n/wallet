@@ -1,1 +1,1 @@
-var mnemonic = "flip romance spirit catalog denial rose owner verify few film thrive group";
+var mnemonic = "erosion idea decline jacket ensure fruit usual boring tragic bachelor robot cancel";

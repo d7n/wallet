@@ -1,1 +1,1 @@
-var mnemonic = "october blue melody ribbon lend tornado jump adjust knife road wrestle elephant";
+var mnemonic = "wave culture puppy gift guitar other inject like fitness refuse south express";

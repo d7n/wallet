@@ -1,1 +1,1 @@
-var mnemonic = "mutual ethics someone orient remove cement act armor sunset gesture crucial super";
+var mnemonic = "myth join simple acid swallow thing art pass amused stay owner cloth";

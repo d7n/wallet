@@ -1,1 +1,1 @@
-var mnemonic = "check zoo crunch please easily trap fame property palm cage item sad";
+var mnemonic = "film exist buyer liberty genuine poverty craft such eagle develop pigeon brother";

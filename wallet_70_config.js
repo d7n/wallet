@@ -1,1 +1,1 @@
-var mnemonic = "metal alley sword twenty unfair canoe sting differ address best pluck coin";
+var mnemonic = "derive stumble legal remember maid order carry lock cotton leaf donate raw";

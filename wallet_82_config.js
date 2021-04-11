@@ -1,1 +1,1 @@
-var mnemonic = "rail decline tissue dignity love risk lumber segment lion coin protect interest";
+var mnemonic = "please diagram child sing all congress scrap cabin dismiss welcome cloud egg";

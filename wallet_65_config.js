@@ -1,1 +1,1 @@
-var mnemonic = "kitten powder clap trash voice gown pear program business pulp crystal sound";
+var mnemonic = "usage wear friend orphan mesh young cargo dance stereo army bless plug";

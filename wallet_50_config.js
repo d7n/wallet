@@ -1,1 +1,1 @@
-var mnemonic = "mandate expose various pass below cousin apart fossil patrol galaxy wait leave";
+var mnemonic = "rich split credit vicious middle logic swift fox hand finish camera will";

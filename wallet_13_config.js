@@ -1,1 +1,1 @@
-var mnemonic = "sting library wide actual tobacco tuna rubber dilemma drive limit innocent turtle";
+var mnemonic = "army disease elite voice icon present equip legal festival kit piano among";

@@ -1,1 +1,1 @@
-var mnemonic = "economy travel owner lend weekend pig drive kiwi capital tragic choice endorse";
+var mnemonic = "picture cabbage weapon shoot stereo breeze answer season crane ranch alcohol oval";

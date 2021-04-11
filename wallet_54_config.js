@@ -1,1 +1,1 @@
-var mnemonic = "rate bottom choice brief excuse good celery rival rhythm guitar purpose enhance";
+var mnemonic = "anchor ritual panic grit dose hurdle city rose item mention soul rival";

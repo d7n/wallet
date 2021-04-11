@@ -1,1 +1,1 @@
-var mnemonic = "mammal height wisdom monitor night pear help bar machine produce length gain";
+var mnemonic = "cart bunker candy mention diesel disorder lunar enact dismiss digital album baby";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson scale live scale elegant chair always dance tank magnet wealth exclude";
+var mnemonic = "twist board moral keen cereal guilt misery castle candy ancient use trophy";

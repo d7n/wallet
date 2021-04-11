@@ -1,1 +1,1 @@
-var mnemonic = "body result lounge breeze blast observe flame indoor awful brother volcano ridge";
+var mnemonic = "bamboo way anger oil economy fantasy hunt fold coffee always swear place";

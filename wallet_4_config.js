@@ -1,1 +1,1 @@
-var mnemonic = "luxury cluster tornado you fame shuffle bulk clinic scatter audit faint what";
+var mnemonic = "cricket climb airport try traffic bunker oppose clutch feed quarter select prefer";

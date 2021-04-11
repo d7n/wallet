@@ -1,1 +1,1 @@
-var mnemonic = "cover hen truth danger lyrics note wrap meat dolphin weekend supreme key";
+var mnemonic = "stock detail increase health debate become robot unable hurdle door purity method";

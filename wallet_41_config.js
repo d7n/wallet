@@ -1,1 +1,1 @@
-var mnemonic = "include inherit chief clump track ostrich pattern nuclear diesel crash spoil wolf";
+var mnemonic = "group involve history harbor jump letter very sorry issue seek arrange super";

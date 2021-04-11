@@ -1,1 +1,1 @@
-var mnemonic = "hire magic laugh oil gallery bundle brand pulp over illness vote orient";
+var mnemonic = "water weird cook faculty now negative entire escape dolphin develop agent refuse";

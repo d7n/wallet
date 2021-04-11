@@ -1,1 +1,1 @@
-var mnemonic = "laundry judge bus brisk split like figure fork correct joy power uniform";
+var mnemonic = "duty agent extend faculty chase style panic purchase carry action salon fragile";
