@@ -1,1 +1,1 @@
-var mnemonic = "reveal rate blind pole penalty census neglect inquiry oblige salon horn lake";
+var mnemonic = "board era alley scissors devote crisp drop train acquire pudding silver now";

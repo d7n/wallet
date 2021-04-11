@@ -1,1 +1,1 @@
-var mnemonic = "rude soap curtain album artwork fan juice core ignore tilt play security";
+var mnemonic = "behind crisp frost frog creek skull slow hub episode mandate episode time";

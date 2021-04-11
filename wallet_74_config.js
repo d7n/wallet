@@ -1,1 +1,1 @@
-var mnemonic = "raven bean grit today action dry indoor brief soap image hill used";
+var mnemonic = "fade solid street young brief small issue until car dismiss bullet blood";

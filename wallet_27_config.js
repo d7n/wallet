@@ -1,1 +1,1 @@
-var mnemonic = "chunk include lunar estate swamp patrol risk east genius try matter riot";
+var mnemonic = "crouch tattoo patient oil elder laugh cherry jar unfold elder injury wedding";

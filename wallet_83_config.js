@@ -1,1 +1,1 @@
-var mnemonic = "all close anchor vibrant trust wage staff zebra salt bleak creek weird";
+var mnemonic = "stove slogan security box wide vessel grant tiny arrange sign bronze win";

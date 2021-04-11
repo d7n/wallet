@@ -1,1 +1,1 @@
-var mnemonic = "intact answer cream guitar debate tent gown butter crowd sea penalty avocado";
+var mnemonic = "chief replace verb oval exhibit offer chunk light fortune orphan lonely enjoy";

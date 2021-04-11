@@ -1,1 +1,1 @@
-var mnemonic = "need armed dizzy cry question emotion banner repeat disorder crystal fog merit";
+var mnemonic = "welcome bird write circle amount rhythm trouble lobster three doll unveil because";

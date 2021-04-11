@@ -1,1 +1,1 @@
-var mnemonic = "flip remind orbit gentle lava history matrix multiply stumble portion away hospital";
+var mnemonic = "female cloth celery rack cotton exile stamp laugh slight must snake tilt";

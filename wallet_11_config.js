@@ -1,1 +1,1 @@
-var mnemonic = "amount sand group rival way kangaroo bracket luggage yard scare leg club";
+var mnemonic = "cliff erosion runway alter tackle aim ability arrest witness rather enlist saddle";

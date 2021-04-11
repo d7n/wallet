@@ -1,1 +1,1 @@
-var mnemonic = "cart find ecology anger yard grain rail cloth bridge attend small body";
+var mnemonic = "detail gun they drop render acquire nose chimney assault earn tomato agent";

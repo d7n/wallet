@@ -1,1 +1,1 @@
-var mnemonic = "chaos repeat pear food vivid rookie toe thrive merit pyramid weapon void";
+var mnemonic = "chest accuse december steel job spice false dash broken assault tattoo oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "great else harvest wish gravity below unaware alpha nephew cabbage conduct uncle";
+var mnemonic = "record space hockey used sail marine song absurd open vital happy album";

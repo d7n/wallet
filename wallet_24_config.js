@@ -1,1 +1,1 @@
-var mnemonic = "planet street ivory guitar deposit twice humble order tomorrow museum grit noodle";
+var mnemonic = "oxygen fabric inflict faint guard tomorrow swallow vague enrich song chair only";

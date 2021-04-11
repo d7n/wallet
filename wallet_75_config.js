@@ -1,1 +1,1 @@
-var mnemonic = "museum double cotton local avoid iron distance forum debris trip final film";
+var mnemonic = "pretty number garment ship ankle beef essay bulb resemble hungry mountain maple";

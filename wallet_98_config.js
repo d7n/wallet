@@ -1,1 +1,1 @@
-var mnemonic = "board sell best potato giraffe emotion loop work develop diamond pear tackle";
+var mnemonic = "you enforce absorb loop nominee today elbow spare second post orbit thrive";

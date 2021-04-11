@@ -1,1 +1,1 @@
-var mnemonic = "spike another climb escape inject envelope fan ill burden village sadness bless";
+var mnemonic = "outdoor share job relief never scatter palace parade pen nasty lumber fly";

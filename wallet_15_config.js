@@ -1,1 +1,1 @@
-var mnemonic = "weird shield museum prison trend excite tired accuse pole cute quick crucial";
+var mnemonic = "kid cargo police peasant space element slam carbon comfort half goat prosper";

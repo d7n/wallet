@@ -1,1 +1,1 @@
-var mnemonic = "mercy win lion rocket tree burger rich cricket world rotate aim route";
+var mnemonic = "impulse length margin lab level ramp owner battle swift situate limit okay";

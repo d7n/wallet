@@ -1,1 +1,1 @@
-var mnemonic = "boring check depend door initial urge brush canvas north grit phone fun";
+var mnemonic = "arm peanut valid pluck census mixed focus pen grunt echo result shoe";

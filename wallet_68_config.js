@@ -1,1 +1,1 @@
-var mnemonic = "gift clump food key school flush illness cash soldier fee devote cluster";
+var mnemonic = "smoke ask describe vault affair rescue trouble camera virtual voice sea extend";

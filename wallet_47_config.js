@@ -1,1 +1,1 @@
-var mnemonic = "mixed attract life shop wealth gadget drive stool bone wait one nice";
+var mnemonic = "tonight have vast vocal alert utility bike like absent tortoise bright injury";

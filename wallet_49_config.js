@@ -1,1 +1,1 @@
-var mnemonic = "question enrich pyramid weather beach refuse auction inject virtual main announce logic";
+var mnemonic = "hip execute right cool only opera crash gain song vanish liar cage";

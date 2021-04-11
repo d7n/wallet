@@ -1,1 +1,1 @@
-var mnemonic = "original scorpion dog popular exile coach soup habit monitor body gain skin";
+var mnemonic = "dragon gossip mesh flush crucial job good topic glimpse soap angle monster";

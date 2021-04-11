@@ -1,1 +1,1 @@
-var mnemonic = "romance resemble life corn parade tape weird chest novel deny upgrade surround";
+var mnemonic = "badge kiss analyst mind submit engine shoulder alter person solve reject private";

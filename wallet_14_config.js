@@ -1,1 +1,1 @@
-var mnemonic = "verify swallow cruise remind want side surface skin mind domain illness spread";
+var mnemonic = "sense ethics wrist phrase weird swamp debate country digital sunny bag jeans";

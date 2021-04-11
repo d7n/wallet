@@ -1,1 +1,1 @@
-var mnemonic = "goat father point best degree ball pluck neither habit grow romance lyrics";
+var mnemonic = "palace chuckle key maximum eight wage shadow cement cart picnic online move";

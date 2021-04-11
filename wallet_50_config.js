@@ -1,1 +1,1 @@
-var mnemonic = "gallery pretty claim novel wheel flock north cattle celery travel silent hybrid";
+var mnemonic = "debate ancient ivory wagon grape vessel any velvet garment drop sting cricket";

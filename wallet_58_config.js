@@ -1,1 +1,1 @@
-var mnemonic = "filter rhythm banner city minute will advice swallow festival urban denial make";
+var mnemonic = "word pass faculty shop pudding track sadness fox filter kid salt shop";

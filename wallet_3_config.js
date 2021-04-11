@@ -1,1 +1,1 @@
-var mnemonic = "swap adapt soda ordinary float roast refuse enhance better spot issue way";
+var mnemonic = "recipe gas firm error desert olympic combine eagle sugar culture defy warrior";

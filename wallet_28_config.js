@@ -1,1 +1,1 @@
-var mnemonic = "olympic album focus police boost poet struggle cost collect that garment victory";
+var mnemonic = "interest call excite kingdom knock anchor solid thought way hungry dune police";

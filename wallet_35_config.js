@@ -1,1 +1,1 @@
-var mnemonic = "pig ginger tomorrow soap text coffee art certain shadow skin car puppy";
+var mnemonic = "office trick surface escape glimpse fame gallery close fiscal matter hour narrow";

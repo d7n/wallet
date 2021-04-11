@@ -1,1 +1,1 @@
-var mnemonic = "mouse cancel shy detail write false horror speed scorpion neutral wasp castle";
+var mnemonic = "arm kitten project olive more gravity secret fork old silk evolve album";

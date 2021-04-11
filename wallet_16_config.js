@@ -1,1 +1,1 @@
-var mnemonic = "aerobic wrong ship silver mandate cost crack brown stamp record behave reject";
+var mnemonic = "amused rapid shoot aerobic detail poem barely paper paper embark tuition girl";

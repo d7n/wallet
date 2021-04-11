@@ -1,1 +1,1 @@
-var mnemonic = "april front sand secret help twenty swamp burst melt title seminar decade";
+var mnemonic = "birth lab hurdle outer palm menu title wonder core assault fiber umbrella";

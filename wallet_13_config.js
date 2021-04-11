@@ -1,1 +1,1 @@
-var mnemonic = "woman blood globe wool ability scrap amateur machine fury unfold kiwi bubble";
+var mnemonic = "lunch funny dune pilot hospital ahead exact craft hub decline angle eagle";

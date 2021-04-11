@@ -1,1 +1,1 @@
-var mnemonic = "match toss top leisure slogan daughter nominee original viable adult sugar clown";
+var mnemonic = "zero useful transfer pink ecology bid symbol nothing teach uphold battle maid";

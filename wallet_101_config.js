@@ -1,1 +1,1 @@
-var mnemonic = "museum glass object about profit guilt about quantum survey dizzy word castle";
+var mnemonic = "roast market pudding scene surface disagree family embrace audit anchor expect sense";

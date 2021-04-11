@@ -1,1 +1,1 @@
-var mnemonic = "palace erosion swear liar razor tell wreck auto orient kiwi vessel dose";
+var mnemonic = "reason build glass wonder chat leg little drastic survey analyst office agree";

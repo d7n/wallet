@@ -1,1 +1,1 @@
-var mnemonic = "this swear supreme trigger filter mistake act ketchup razor wire female toward";
+var mnemonic = "rule model kit output stay length stock flower path worry world artwork";

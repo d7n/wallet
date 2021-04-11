@@ -1,1 +1,1 @@
-var mnemonic = "upon crash will govern tumble talent gas laptop dilemma argue recycle legal";
+var mnemonic = "orphan pepper again confirm expose tree junior medal museum addict lady cost";

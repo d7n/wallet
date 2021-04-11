@@ -1,1 +1,1 @@
-var mnemonic = "boss green torch clever frog goose bind one unit review gadget keep";
+var mnemonic = "used toilet tiger dirt auction phone fee weather dumb advice twice protect";

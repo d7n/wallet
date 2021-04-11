@@ -1,1 +1,1 @@
-var mnemonic = "into immense despair absurd rival sunny capital village uncle inspire deer text";
+var mnemonic = "ranch learn million rubber elegant list occur warrior need toy bonus chimney";

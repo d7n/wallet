@@ -1,1 +1,1 @@
-var mnemonic = "unknown book junior sketch gesture journey strong surround material indicate salt above";
+var mnemonic = "sound rookie pull borrow wisdom cram before hotel knee almost neutral owner";

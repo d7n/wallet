@@ -1,1 +1,1 @@
-var mnemonic = "element cover kit sound pause tomato badge spider license electric young obtain";
+var mnemonic = "festival tourist dream close enter fee oxygen blast record symbol sleep earth";

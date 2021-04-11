@@ -1,1 +1,1 @@
-var mnemonic = "charge scale fruit okay arrive level chief rude legal multiply priority design";
+var mnemonic = "shock solid early fly despair gallery core off rabbit embrace catch ice";

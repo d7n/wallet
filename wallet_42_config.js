@@ -1,1 +1,1 @@
-var mnemonic = "purse draw bike rain weasel vault capable quote bundle end improve good";
+var mnemonic = "need robust pair session doll fabric piece suit shop kiss test recycle";

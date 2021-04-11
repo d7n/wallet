@@ -1,1 +1,1 @@
-var mnemonic = "arch exchange volcano diet body champion lobster lounge muffin grape lawn village";
+var mnemonic = "upon dish episode awake amount lava verb crucial flock infant answer occur";

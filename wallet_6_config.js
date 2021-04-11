@@ -1,1 +1,1 @@
-var mnemonic = "robust swing nice mutual whale buzz oval pilot steel december section all";
+var mnemonic = "capable easily library process wave arena bind robust tomato build child this";

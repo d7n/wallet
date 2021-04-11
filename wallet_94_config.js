@@ -1,1 +1,1 @@
-var mnemonic = "say art have upper arena solar car adjust mix plastic believe word";
+var mnemonic = "museum west meat birth witness crisp join hub clinic genuine nature fix";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal screen royal army palace gather balance rebuild dial resemble poverty tribe";
+var mnemonic = "pet betray monkey wire begin bar hill march dove shiver april frown";

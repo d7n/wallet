@@ -1,1 +1,1 @@
-var mnemonic = "camp slot roof fabric wrap ready retire rice token potato abstract craft";
+var mnemonic = "shoe catch worth visual party entire spatial arrive interest combine expand govern";

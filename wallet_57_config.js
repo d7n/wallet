@@ -1,1 +1,1 @@
-var mnemonic = "vacant garden donkey exhaust high glimpse planet predict squirrel fiber stadium tattoo";
+var mnemonic = "rocket bonus frown limb differ main lock green practice busy piece purse";

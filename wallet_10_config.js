@@ -1,1 +1,1 @@
-var mnemonic = "gown fall card easy cigar opera arctic burger daughter aspect lottery practice";
+var mnemonic = "bullet rack plate suspect discover path cradle eager breeze exhibit lounge review";

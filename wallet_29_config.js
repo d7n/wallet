@@ -1,1 +1,1 @@
-var mnemonic = "harbor job excuse mimic ability razor nation path trash car test strategy";
+var mnemonic = "search item issue sort poverty anger wave fashion essence olive cat magnet";

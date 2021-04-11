@@ -1,1 +1,1 @@
-var mnemonic = "future survey install nice vote artwork rough ahead cook trial busy basic";
+var mnemonic = "barely conduct female false noble wing shaft copy sweet property female welcome";

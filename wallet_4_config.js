@@ -1,1 +1,1 @@
-var mnemonic = "dolphin multiply retreat wheat rely divert clay vocal fat movie ensure follow";
+var mnemonic = "napkin crumble dry fashion screen toy slight glad since bachelor upper ostrich";

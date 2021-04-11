@@ -1,1 +1,1 @@
-var mnemonic = "hill dynamic ball faint embark ceiling woman dash oak another faint grant";
+var mnemonic = "spice paper good execute claw twelve quote ginger oppose fan cable tenant";

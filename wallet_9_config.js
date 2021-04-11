@@ -1,1 +1,1 @@
-var mnemonic = "trash bubble dial coffee calm eye biology ivory sauce ketchup amazing success";
+var mnemonic = "brown film left funny desert kite bread word pair false history monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade vintage decrease arm unveil cute vibrant ensure sad pull sea volcano";
+var mnemonic = "define orient network draft much cost penalty bracket surround leaf cruise album";

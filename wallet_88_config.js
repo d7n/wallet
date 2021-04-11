@@ -1,1 +1,1 @@
-var mnemonic = "nut shift image bridge jealous script gauge need enter master crumble cherry";
+var mnemonic = "youth faith able angle polar stock habit cliff shrug until equal steel";

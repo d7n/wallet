@@ -1,1 +1,1 @@
-var mnemonic = "try blossom trophy strike vanish cluster jaguar ready solar family tail below";
+var mnemonic = "hotel cabbage shove gauge stadium narrow deer range sort purchase resist loan";

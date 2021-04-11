@@ -1,1 +1,1 @@
-var mnemonic = "defense kind blush lab noble small chalk insect pupil oxygen cactus people";
+var mnemonic = "section size diary position morning project employ friend will surround sustain route";

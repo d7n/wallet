@@ -1,1 +1,1 @@
-var mnemonic = "morning legal modify refuse boring age pair lesson bonus knife vintage another";
+var mnemonic = "mask fruit cost noise tortoise reveal mechanic acoustic plastic near final need";

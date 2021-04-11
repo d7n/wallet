@@ -1,1 +1,1 @@
-var mnemonic = "poverty smile wrist soccer face pelican already path dove brush total cat";
+var mnemonic = "misery chaos derive someone awful bitter human dignity green fiber among light";

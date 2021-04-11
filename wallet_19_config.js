@@ -1,1 +1,1 @@
-var mnemonic = "object unknown body canvas media scrub crouch crack merry tuition today edit";
+var mnemonic = "plastic finger submit surround isolate foot coffee ancient uncle crew void wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "layer blind ask wealth sock auto dragon electric turn theme august taxi";
+var mnemonic = "deny analyst shock miracle version gorilla bus source tennis hundred shock salad";

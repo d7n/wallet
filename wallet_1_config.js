@@ -1,1 +1,1 @@
-var mnemonic = "goose bulb lonely staff nominee addict fantasy truck era media enjoy laptop";
+var mnemonic = "drift square embrace exile whale history slice disagree need ivory loyal doll";

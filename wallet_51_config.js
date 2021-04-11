@@ -1,1 +1,1 @@
-var mnemonic = "dust skill pudding risk poverty reform busy loyal capital sing donkey fly";
+var mnemonic = "pool bar erase organ face vacuum also salt arrow shiver space unknown";

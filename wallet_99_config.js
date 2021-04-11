@@ -1,1 +1,1 @@
-var mnemonic = "midnight electric crime bounce lamp lucky library camp copy use sense call";
+var mnemonic = "actual path assist unfold favorite typical help damage income eye clown near";

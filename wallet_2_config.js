@@ -1,1 +1,1 @@
-var mnemonic = "glad visual table trick patch since good fine bracket language stone approve";
+var mnemonic = "cupboard bright hole pipe silver slim job put recipe pigeon feed spawn";

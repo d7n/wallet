@@ -1,1 +1,1 @@
-var mnemonic = "sausage disease winner glow feature judge voyage ball rally govern picnic rug";
+var mnemonic = "dice mechanic health position like kitchen enlist vanish govern annual tobacco actor";

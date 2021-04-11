@@ -1,1 +1,1 @@
-var mnemonic = "lens praise domain oven dress print half universe hundred record goddess vital";
+var mnemonic = "ceiling toss famous taxi exclude then night eye rely skull purpose hurry";

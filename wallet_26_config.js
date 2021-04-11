@@ -1,1 +1,1 @@
-var mnemonic = "bean cup spend level tired garlic holiday orange lab orbit goat video";
+var mnemonic = "dash valid maid melody reopen sniff dentist replace steel pilot soccer skate";

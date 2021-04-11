@@ -1,1 +1,1 @@
-var mnemonic = "fish opera nasty destroy smoke tiger system hedgehog peace book minute distance";
+var mnemonic = "pumpkin pig fiscal pledge promote pistol rely stick purse regret neglect hunt";

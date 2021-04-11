@@ -1,1 +1,1 @@
-var mnemonic = "fiber lounge section gift public stock bachelor awake moment exhibit west slow";
+var mnemonic = "brown ecology casino talent connect angry lucky noble among stock three choose";

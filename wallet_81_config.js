@@ -1,1 +1,1 @@
-var mnemonic = "submit minimum misery tired local radio adult fame crunch weapon believe catch";
+var mnemonic = "essence opera fragile glad sort stone swing height vacuum initial smart sponsor";

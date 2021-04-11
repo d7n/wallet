@@ -1,1 +1,1 @@
-var mnemonic = "fortune mean stick link dinosaur capable citizen that flee sure drill similar";
+var mnemonic = "lumber business another gym idle talent first steel extra predict truth change";

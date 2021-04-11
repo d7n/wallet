@@ -1,1 +1,1 @@
-var mnemonic = "number post hire disease ankle electric umbrella length learn crew main trust";
+var mnemonic = "step suffer perfect sight conduct tumble series tent dinosaur radio better glory";

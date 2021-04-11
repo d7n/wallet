@@ -1,1 +1,1 @@
-var mnemonic = "since media elephant cage above merge electric access hundred sister hen guide";
+var mnemonic = "nation rebel payment swallow over tail drink half ugly gown road attend";

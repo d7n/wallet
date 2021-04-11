@@ -1,1 +1,1 @@
-var mnemonic = "crawl slight put moral occur reject rigid prosper glove word immune fold";
+var mnemonic = "turtle bomb slender three excuse lazy journey vault version smooth message village";

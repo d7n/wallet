@@ -1,1 +1,1 @@
-var mnemonic = "embody walk honey found pig ritual forward shoot evoke occur sting lawn";
+var mnemonic = "alarm artist vast badge toward know fabric museum blouse soup minimum tomato";

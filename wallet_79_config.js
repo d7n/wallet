@@ -1,1 +1,1 @@
-var mnemonic = "either gallery appear shield you slight entire worth quiz snake fine enact";
+var mnemonic = "quantum whisper twin sample bitter card fortune twin goddess planet bacon team";

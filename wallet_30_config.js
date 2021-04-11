@@ -1,1 +1,1 @@
-var mnemonic = "fun crouch apart sibling observe version course super office hair claw media";
+var mnemonic = "range liquid anger payment label topic reform magic confirm broccoli museum train";

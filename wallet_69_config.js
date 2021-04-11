@@ -1,1 +1,1 @@
-var mnemonic = "damp library garden spot purity cradle armor attitude hire hurdle blouse forum";
+var mnemonic = "milk crucial hidden empty much thank whip engage disorder defense risk radar";

@@ -1,1 +1,1 @@
-var mnemonic = "keen six strategy sketch eyebrow acid birth sport they limit lunch hat";
+var mnemonic = "symbol dynamic stock error drum capable dinner umbrella modify strategy fade mean";

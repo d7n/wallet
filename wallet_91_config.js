@@ -1,1 +1,1 @@
-var mnemonic = "enroll feel raise wedding axis music kite same silver thrive captain illness";
+var mnemonic = "shell ancient flee then over abstract clay aunt liar lawsuit core flee";

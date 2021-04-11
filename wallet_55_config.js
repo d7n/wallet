@@ -1,1 +1,1 @@
-var mnemonic = "slam before lecture aim magic broccoli charge hunt ladder reflect idea adapt";
+var mnemonic = "custom farm can ocean clog boss onion chapter special cotton honey purpose";
