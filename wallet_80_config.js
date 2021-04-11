@@ -1,1 +1,1 @@
-var mnemonic = "world climb repeat wife account happy subway anger cheap dream word response";
+var mnemonic = "recycle reunion loop wrong aerobic add master fresh muscle quarter cook little";

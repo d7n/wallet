@@ -1,1 +1,1 @@
-var mnemonic = "dumb foil cook unlock physical soon hammer bacon common tragic swallow pipe";
+var mnemonic = "toilet warm utility clever chalk exact scorpion mansion adjust service shoot glide";

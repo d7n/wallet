@@ -1,1 +1,1 @@
-var mnemonic = "slide hurt strike liberty blast crime question simple push dwarf final reason";
+var mnemonic = "soap field zebra group have return rather list install game wait glance";

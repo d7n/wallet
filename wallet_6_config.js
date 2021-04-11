@@ -1,1 +1,1 @@
-var mnemonic = "monitor settle critic stage like conduct winner sort adult topic invite final";
+var mnemonic = "street because dinner odor more spread equal torch travel smoke position pride";

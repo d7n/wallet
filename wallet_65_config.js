@@ -1,1 +1,1 @@
-var mnemonic = "junior table wasp buffalo industry one mechanic friend rigid dolphin shed stock";
+var mnemonic = "child able drive brief coil car catalog alley noble talent camp upper";

@@ -1,1 +1,1 @@
-var mnemonic = "flat stone dust cradle sentence juice crisp wall away stadium release use";
+var mnemonic = "street decline vague hour raccoon endorse major leopard agent clay useful pen";

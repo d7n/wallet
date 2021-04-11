@@ -1,1 +1,1 @@
-var mnemonic = "embody wing key nuclear later dry topple upon rival apology basket thank";
+var mnemonic = "taxi lizard armor guard vague keep tide neither quiz capital rib excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "attack foil basic topic farm answer usage between few double visit tail";
+var mnemonic = "sleep cactus boil scale prepare fun elegant glass item puzzle globe custom";

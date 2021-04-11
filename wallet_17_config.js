@@ -1,1 +1,1 @@
-var mnemonic = "slow process maple staff exit rain twist left hockey battle risk blast";
+var mnemonic = "business tube okay rival artefact student month stool dice morning fresh rail";

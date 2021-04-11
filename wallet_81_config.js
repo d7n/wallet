@@ -1,1 +1,1 @@
-var mnemonic = "nephew damage marriage chicken buffalo occur farm normal shove end horn section";
+var mnemonic = "enemy sand attract vague boring north buffalo team tenant pond blanket blood";

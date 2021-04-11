@@ -1,1 +1,1 @@
-var mnemonic = "only glimpse unfold private inside toss shallow zero debate vapor name exhaust";
+var mnemonic = "network wrong drill october champion ketchup soup donor daughter coin accuse employ";

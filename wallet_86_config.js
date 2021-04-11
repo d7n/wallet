@@ -1,1 +1,1 @@
-var mnemonic = "ball common script possible claw brave embrace able live spread vivid fortune";
+var mnemonic = "salon evil list biology provide cement boat glide pull dutch drip unveil";

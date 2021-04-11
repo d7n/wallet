@@ -1,1 +1,1 @@
-var mnemonic = "arrange derive salt bulk blouse giant stick guitar render brown aisle nose";
+var mnemonic = "ripple soon hat group knock weapon random receive hospital head they boy";

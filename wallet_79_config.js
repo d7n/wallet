@@ -1,1 +1,1 @@
-var mnemonic = "notable inch icon symptom armor urge satoshi circle avoid family tiny market";
+var mnemonic = "swarm theory cook bike tonight please season giant actor album gentle follow";

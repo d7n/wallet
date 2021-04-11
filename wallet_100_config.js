@@ -1,1 +1,1 @@
-var mnemonic = "actress blossom pig catch project matrix hockey heavy short enter mother raccoon";
+var mnemonic = "tooth marine bread way potato umbrella news tomorrow paddle vault symptom section";

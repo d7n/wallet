@@ -1,1 +1,1 @@
-var mnemonic = "dog olive salmon bean volume eye eager mimic night unaware actual debate";
+var mnemonic = "erosion airport leg quiz service buddy cargo love vast wheat frog blame";

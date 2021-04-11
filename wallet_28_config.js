@@ -1,1 +1,1 @@
-var mnemonic = "furnace audit despair slow burger behave able hospital pig vote mask decorate";
+var mnemonic = "miss appear ill village attract level clump memory ethics practice soon effort";

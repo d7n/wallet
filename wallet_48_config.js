@@ -1,1 +1,1 @@
-var mnemonic = "couple mass consider cake awkward random journey defy deposit kiss recall club";
+var mnemonic = "where record sunny range talent aerobic gather season title gospel issue dismiss";

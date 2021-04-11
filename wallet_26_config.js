@@ -1,1 +1,1 @@
-var mnemonic = "scissors tuition utility stuff find future average ceiling equip nuclear lizard wealth";
+var mnemonic = "picture method west sibling warm cigar night side mutual owner pilot era";

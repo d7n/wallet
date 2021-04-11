@@ -1,1 +1,1 @@
-var mnemonic = "prison salute wealth photo endorse filter always perfect emotion fall word ribbon";
+var mnemonic = "ribbon fatigue demand split absent aspect park damp unit casual oak decrease";

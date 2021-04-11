@@ -1,1 +1,1 @@
-var mnemonic = "tag crystal sense first bless beach pumpkin fetch vessel apology machine such";
+var mnemonic = "onion nephew obscure doctor toy utility delay drink web riot call couch";

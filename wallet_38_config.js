@@ -1,1 +1,1 @@
-var mnemonic = "violin kitchen december banana blue under define strategy comic possible danger orbit";
+var mnemonic = "observe ask flight wagon cherry act worth tag black twist spider ignore";

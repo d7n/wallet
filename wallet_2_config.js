@@ -1,1 +1,1 @@
-var mnemonic = "race ready cycle learn benefit oyster organ deal frame shoot burden hero";
+var mnemonic = "melt perfect cereal square drift math any exotic lawsuit forget flash bright";

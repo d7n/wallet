@@ -1,1 +1,1 @@
-var mnemonic = "proof help tip lunch bronze alien spot initial reward solid ability deposit";
+var mnemonic = "brother wreck solid rate bid duty better benefit ethics media story start";

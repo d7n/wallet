@@ -1,1 +1,1 @@
-var mnemonic = "crawl happy rude tribe monkey vague sure split avoid coil two arch";
+var mnemonic = "cage embody smile rocket chest wreck notable current tooth rib decide section";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy raise bright palace require orchard aisle ice hollow team unlock cement";
+var mnemonic = "theory prize pair step burger patrol eager capital scorpion knee ask crack";

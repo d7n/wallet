@@ -1,1 +1,1 @@
-var mnemonic = "noble mention local bless donate tank photo approve capable injury model foster";
+var mnemonic = "waste author punch web member swift carpet prosper police enrich trust arrive";

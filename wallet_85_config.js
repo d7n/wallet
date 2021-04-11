@@ -1,1 +1,1 @@
-var mnemonic = "forward shallow unique gaze camera luxury hello actor lemon oven fashion plug";
+var mnemonic = "reflect mule execute excite example gorilla man shoulder need disease misery cry";

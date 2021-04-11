@@ -1,1 +1,1 @@
-var mnemonic = "sauce bronze reveal rebuild ill gorilla guess salon equip february safe report";
+var mnemonic = "pudding admit shift attack rude forum swift dice power cradle focus mixture";

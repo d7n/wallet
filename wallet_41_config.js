@@ -1,1 +1,1 @@
-var mnemonic = "top hungry amateur camera else vocal school memory select tourist reveal comfort";
+var mnemonic = "bike then artist bitter silk because keen abstract siren help phone false";

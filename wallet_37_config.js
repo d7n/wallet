@@ -1,1 +1,1 @@
-var mnemonic = "album cloth stock already monitor labor toddler merit goat boil purpose there";
+var mnemonic = "use spider liberty forum dial cycle call derive hobby basket photo sausage";

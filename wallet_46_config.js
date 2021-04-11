@@ -1,1 +1,1 @@
-var mnemonic = "icon weekend toy glue pink oxygen close course much tree public end";
+var mnemonic = "print rally first digital autumn warrior mutual creek evidence clarify want canvas";

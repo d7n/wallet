@@ -1,1 +1,1 @@
-var mnemonic = "street strategy liquid suspect digital swear damp garage denial aunt also man";
+var mnemonic = "twist helmet embark frog wolf chapter spray impact tenant alley model present";

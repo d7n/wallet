@@ -1,1 +1,1 @@
-var mnemonic = "gasp rival small crunch expire enough awkward exhaust major sunset invest merge";
+var mnemonic = "bubble liar mosquito liquid cycle strike door chef near thunder sell stool";

@@ -1,1 +1,1 @@
-var mnemonic = "erase reopen script idle rhythm weird hurt mother color nasty race north";
+var mnemonic = "warm wrong group improve sight electric april hand flash youth crawl face";

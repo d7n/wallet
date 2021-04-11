@@ -1,1 +1,1 @@
-var mnemonic = "shove brain pride swim orient thought hat find fancy before more sentence";
+var mnemonic = "ugly book vendor evolve exile smart pupil atom bag lunch pizza robot";

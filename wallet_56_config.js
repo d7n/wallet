@@ -1,1 +1,1 @@
-var mnemonic = "switch sketch walnut acid cost half warfare order dial prize noise spoon";
+var mnemonic = "response alcohol title master neither student develop recycle seminar conduct awkward poem";

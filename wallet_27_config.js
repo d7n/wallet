@@ -1,1 +1,1 @@
-var mnemonic = "alter noise puppy stumble siren symbol leopard pepper brown book file satisfy";
+var mnemonic = "marriage total mouse ladder swear write element twenty tuna second sister history";

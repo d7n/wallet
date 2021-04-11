@@ -1,1 +1,1 @@
-var mnemonic = "fiber market garbage tail match bone tilt utility roof distance clog adult";
+var mnemonic = "topple claim unfold elder mail disorder push fiction agree style medal spoil";

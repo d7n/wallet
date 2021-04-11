@@ -1,1 +1,1 @@
-var mnemonic = "traffic organ obvious fish view recall outdoor early base found utility action";
+var mnemonic = "health receive avoid anger amazing sting alarm develop acquire food affair gesture";

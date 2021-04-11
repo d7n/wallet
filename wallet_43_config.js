@@ -1,1 +1,1 @@
-var mnemonic = "guess there come hospital also brain crime weasel sun usage tumble chimney";
+var mnemonic = "sea problem burst gasp wrong try caught frozen now saddle spoil item";

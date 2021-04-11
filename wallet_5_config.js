@@ -1,1 +1,1 @@
-var mnemonic = "awake real cause race dizzy march seek replace peasant grant couch strike";
+var mnemonic = "excuse envelope path limb exist employ choose anchor damp moment tail success";

@@ -1,1 +1,1 @@
-var mnemonic = "route crystal denial turkey awful school custom release frozen position two survey";
+var mnemonic = "style name science old now half minimum west word audit bird gentle";

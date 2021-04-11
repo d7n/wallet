@@ -1,1 +1,1 @@
-var mnemonic = "clap praise noodle breeze office invest feel protect talent dial battle ecology";
+var mnemonic = "cheap phone fit knife explain ability rebuild crowd van bundle imitate turkey";

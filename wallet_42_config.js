@@ -1,1 +1,1 @@
-var mnemonic = "assist item interest mad head flash april area chunk torch fury exclude";
+var mnemonic = "banana squirrel wheel display magnet bridge fragile slow absorb fade frozen lava";

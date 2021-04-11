@@ -1,1 +1,1 @@
-var mnemonic = "lawn bridge prize cost process save harvest cute expect leave vanish buddy";
+var mnemonic = "peace body slot cloth senior amazing age art powder solid sample furnace";

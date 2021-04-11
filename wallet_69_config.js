@@ -1,1 +1,1 @@
-var mnemonic = "ugly deny attend wash impact lava clown attract want olympic mystery consider";
+var mnemonic = "current dust pelican catch audit flash fly identify absorb bachelor few year";

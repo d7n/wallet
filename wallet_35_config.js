@@ -1,1 +1,1 @@
-var mnemonic = "crystal sense deliver pottery moral define warfare palm zebra north under search";
+var mnemonic = "helmet tape tonight soldier enhance better before middle foam aspect reform ring";

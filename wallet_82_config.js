@@ -1,1 +1,1 @@
-var mnemonic = "cry client catalog peasant depend minimum identify liberty medal mimic cherry garden";
+var mnemonic = "draft amateur flight ability busy panda transfer upon law fee tent erase";

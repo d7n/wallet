@@ -1,1 +1,1 @@
-var mnemonic = "pupil flame gentle vendor output skin pulp valve horse resemble fan odor";
+var mnemonic = "guess float usage stock lift lava bundle treat truck tell guard hawk";

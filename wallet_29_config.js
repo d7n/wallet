@@ -1,1 +1,1 @@
-var mnemonic = "trust episode bulk acid ordinary modify olive armor please aim accident choice";
+var mnemonic = "bachelor curtain sense catch sign idea chapter chair useful between face second";

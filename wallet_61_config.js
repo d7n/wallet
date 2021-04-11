@@ -1,1 +1,1 @@
-var mnemonic = "nephew coast jaguar acid pony matrix forum place task boring utility label";
+var mnemonic = "thank shell tuition save cradle possible green ensure abstract inflict wide ethics";

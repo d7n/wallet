@@ -1,1 +1,1 @@
-var mnemonic = "hold enact siren copy news cargo suffer blast curve lemon unfair remember";
+var mnemonic = "hill there fashion dinosaur view nasty belt ketchup kid raven hurt exercise";

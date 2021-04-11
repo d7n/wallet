@@ -1,1 +1,1 @@
-var mnemonic = "magic goat ask flush flush inspire husband chair cart earn shadow apple";
+var mnemonic = "record hint arrest cat pilot orange wave gossip labor sadness popular faith";

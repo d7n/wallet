@@ -1,1 +1,1 @@
-var mnemonic = "lazy cable glue awful assist vast office case raw rug borrow kiss";
+var mnemonic = "sample dinner fetch song exact gauge rotate they elder load coyote garment";

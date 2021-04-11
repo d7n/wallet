@@ -1,1 +1,1 @@
-var mnemonic = "life camp material delay advice airport kiwi tomorrow rabbit industry pill chuckle";
+var mnemonic = "fever window cotton stable project where snow evolve matter syrup episode maple";

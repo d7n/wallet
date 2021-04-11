@@ -1,1 +1,1 @@
-var mnemonic = "occur yard simple avoid summer dragon refuse spin noble ramp shrimp patch";
+var mnemonic = "wonder bleak excite mansion crop happy mountain horse swear seat rice canal";

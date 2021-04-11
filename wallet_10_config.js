@@ -1,1 +1,1 @@
-var mnemonic = "pen game ridge pause advance allow banner blur rabbit cheese social riot";
+var mnemonic = "soup hero addict learn satoshi stone marine wrap news wait produce kitten";

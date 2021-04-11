@@ -1,1 +1,1 @@
-var mnemonic = "announce body enroll resist weather enlist then relax idle critic sunny left";
+var mnemonic = "orange panther define manual page decrease horror admit sleep please solution theme";

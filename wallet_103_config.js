@@ -1,1 +1,1 @@
-var mnemonic = "pupil fade moon evidence wrap method design tonight enhance noble behave vessel";
+var mnemonic = "quit sea area oak next advice kind brass armor canoe split weather";

@@ -1,1 +1,1 @@
-var mnemonic = "sport oil other fetch series junior news fossil cloth promote consider square";
+var mnemonic = "saddle bench wear picnic increase allow trigger shaft matter concert merry grit";

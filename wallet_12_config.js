@@ -1,1 +1,1 @@
-var mnemonic = "gesture illness smart leopard toddler dish vault trip candy shield animal broken";
+var mnemonic = "husband penalty raven airport foam rural skull example puzzle jeans flavor abandon";

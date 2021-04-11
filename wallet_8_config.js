@@ -1,1 +1,1 @@
-var mnemonic = "move cactus erase fringe neither mango sail use point emotion derive civil";
+var mnemonic = "recipe rain another such valley trim visa program eternal expire panel blind";

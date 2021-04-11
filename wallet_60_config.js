@@ -1,1 +1,1 @@
-var mnemonic = "early ginger dress question dune carbon volcano nation lazy fitness mouse drift";
+var mnemonic = "insect music siege carbon swamp outside sadness fee shaft unfold lonely hunt";

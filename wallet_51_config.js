@@ -1,1 +1,1 @@
-var mnemonic = "episode bamboo arrow film raw sentence law fade reward journey promote guard";
+var mnemonic = "stone arrest winter picnic session divert scheme waste ozone public mimic chapter";

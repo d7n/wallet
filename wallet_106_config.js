@@ -1,1 +1,1 @@
-var mnemonic = "gadget note love crisp color access fresh video silk quit august addict";
+var mnemonic = "fragile bean analyst rocket trash fossil traffic reward course mix miss marble";

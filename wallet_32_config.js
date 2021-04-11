@@ -1,1 +1,1 @@
-var mnemonic = "blanket water comic april warfare chuckle fork broken discover pink pudding screen";
+var mnemonic = "say label feature move tide vibrant prosper thank movie write honey spend";

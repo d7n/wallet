@@ -1,1 +1,1 @@
-var mnemonic = "family mushroom museum drama album clerk total ivory age traffic logic steak";
+var mnemonic = "emerge tribe parrot banana horror card smart chalk square minor bind escape";

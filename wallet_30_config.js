@@ -1,1 +1,1 @@
-var mnemonic = "barely myth champion rifle thumb hollow letter develop sand crane damp juice";
+var mnemonic = "fault whale marriage initial year uncover verb slender image album tooth ecology";

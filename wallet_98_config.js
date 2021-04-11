@@ -1,1 +1,1 @@
-var mnemonic = "okay link fade winner fix away joke task cost keen metal edge";
+var mnemonic = "tourist company hundred advice adapt fresh gesture bread code novel sunny rookie";

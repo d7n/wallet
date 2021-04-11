@@ -1,1 +1,1 @@
-var mnemonic = "measure usage setup satoshi actress unusual push symptom setup layer sport urban";
+var mnemonic = "thing owner uncover inner drum rookie taste grocery air huge mechanic camera";

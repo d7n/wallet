@@ -1,1 +1,1 @@
-var mnemonic = "symptom base pet twin ranch visa pet frame slice scan midnight miss";
+var mnemonic = "steak dilemma genre audit obscure fine cricket review valve invite transfer athlete";

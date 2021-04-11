@@ -1,1 +1,1 @@
-var mnemonic = "reduce enemy angry apple churn purpose hint glove juice nest input leopard";
+var mnemonic = "coast include banner over vessel donate excite daring laugh ankle menu jar";

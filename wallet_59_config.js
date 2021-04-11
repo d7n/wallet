@@ -1,1 +1,1 @@
-var mnemonic = "detail goddess ivory dove evoke bachelor cry weekend grow satoshi prepare welcome";
+var mnemonic = "organ guide economy glimpse library police uniform fix nuclear toward garden senior";

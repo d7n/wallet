@@ -1,1 +1,1 @@
-var mnemonic = "mutual barely climb dynamic extend comfort furnace scare settle bicycle public flag";
+var mnemonic = "chest van mansion hundred beach zoo heavy float rubber cart float inject";

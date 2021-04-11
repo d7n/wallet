@@ -1,1 +1,1 @@
-var mnemonic = "hurry wrap load wolf eager undo drive clown discover region pipe winner";
+var mnemonic = "suffer rug rule task like short already cute awake early enlist material";

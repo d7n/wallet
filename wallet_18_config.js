@@ -1,1 +1,1 @@
-var mnemonic = "genuine jaguar affair dress window artwork bind convince twice hair negative broken";
+var mnemonic = "harvest cage enjoy super warfare before matrix absurd develop pool click assist";

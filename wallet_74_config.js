@@ -1,1 +1,1 @@
-var mnemonic = "skull machine want kind foam forward dumb fix load net loan play";
+var mnemonic = "tortoise unfair lady burst alarm oven journey arrow excite eye next sunset";

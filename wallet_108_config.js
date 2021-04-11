@@ -1,1 +1,1 @@
-var mnemonic = "list basic mix color buffalo zebra claw member census swear describe erosion";
+var mnemonic = "renew short push soup usual special pill feed gas sad butter magnet";

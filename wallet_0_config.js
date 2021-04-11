@@ -1,1 +1,1 @@
-var mnemonic = "cause special century consider useless unlock supreme minimum cherry usual unfold fluid";
+var mnemonic = "raise end february major mass helmet length any mistake outside survey song";

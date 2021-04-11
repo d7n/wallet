@@ -1,1 +1,1 @@
-var mnemonic = "wall inmate argue amount intact rough acoustic vacant human chuckle reward husband";
+var mnemonic = "bundle dolphin vacant fatigue moral tray tuition game swear rhythm riot fashion";

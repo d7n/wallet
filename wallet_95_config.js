@@ -1,1 +1,1 @@
-var mnemonic = "program jacket human lab bubble smile miracle planet coyote mechanic prize soldier";
+var mnemonic = "snap jeans cactus quarter gallery sadness fire trim earn toss cost syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry mule fiction circle response dinner author custom cash palm spatial code";
+var mnemonic = "praise main current bracket tail spatial charge hole satisfy drive lady daring";

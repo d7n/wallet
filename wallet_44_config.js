@@ -1,1 +1,1 @@
-var mnemonic = "consider decrease history federal exit swift brain armed oak cheese split wool";
+var mnemonic = "doll caution cook manage cost strategy payment cable foster mimic shrimp buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "december nest install canoe aunt decide cereal again olympic absurd voice doctor";
+var mnemonic = "dune cute afraid sketch fossil path text famous puzzle pass surface ranch";
