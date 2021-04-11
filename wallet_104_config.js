@@ -1,1 +1,1 @@
-var mnemonic = "solid average quote make vivid blush subway reward baby spell mistake junk";
+var mnemonic = "symbol ridge poverty loop foil impulse goddess wire jazz young first hurdle";

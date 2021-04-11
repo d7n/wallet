@@ -1,1 +1,1 @@
-var mnemonic = "law sting spice spin round dust hazard stadium call now there dentist";
+var mnemonic = "genius seed sound document wink cute step please deal judge upper scale";

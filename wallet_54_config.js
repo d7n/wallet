@@ -1,1 +1,1 @@
-var mnemonic = "brush use jar pitch gas mimic antique possible frame once pizza analyst";
+var mnemonic = "wreck police wool suit enact occur pepper eyebrow chunk harsh vast fiction";

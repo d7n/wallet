@@ -1,1 +1,1 @@
-var mnemonic = "cabbage few rotate diet web fossil hole card sunny predict traffic ginger";
+var mnemonic = "elbow bullet clean bring park move bonus earth swarm acquire indicate inhale";

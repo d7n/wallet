@@ -1,1 +1,1 @@
-var mnemonic = "shiver flavor episode vendor attack sheriff often salmon nature distance tray ice";
+var mnemonic = "reopen impact bless open settle disagree aspect army asset figure glance twelve";

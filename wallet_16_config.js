@@ -1,1 +1,1 @@
-var mnemonic = "feed sudden inflict ordinary owner poverty tree minor this middle approve opinion";
+var mnemonic = "sunny provide evoke breeze come knock release road junk cactus taste misery";

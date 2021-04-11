@@ -1,1 +1,1 @@
-var mnemonic = "brief burger elegant depart tomato gossip enough improve flower again course aunt";
+var mnemonic = "skill thought twenty elegant prepare drum baby tell luxury trash kangaroo claw";

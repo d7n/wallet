@@ -1,1 +1,1 @@
-var mnemonic = "achieve infant sick student figure zero scout payment census rival push tomato";
+var mnemonic = "insane protect disease inmate announce razor violin alley basket purse isolate joy";

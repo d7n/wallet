@@ -1,1 +1,1 @@
-var mnemonic = "zone dignity exotic wear slush supreme frown average hurt chuckle idle program";
+var mnemonic = "inquiry diet submit prevent aisle allow prefer fringe head save foil uniform";

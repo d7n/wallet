@@ -1,1 +1,1 @@
-var mnemonic = "cart cake category slight audit regular announce odor flame electric insane feel";
+var mnemonic = "spray clap estate negative near canal apology gown wash snake amused ability";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch still embody scare jump acid differ favorite extend mixture gadget still";
+var mnemonic = "usage squirrel warm little fabric neither sketch wrestle menu dose hour hawk";

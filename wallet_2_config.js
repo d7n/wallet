@@ -1,1 +1,1 @@
-var mnemonic = "debate happy earth birth panic hip hollow typical belt work human great";
+var mnemonic = "jaguar inside lab surge material rubber awesome have flower siren carry pulp";

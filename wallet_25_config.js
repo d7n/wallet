@@ -1,1 +1,1 @@
-var mnemonic = "exit drift glue hurry capital elder system garment all deny wink warrior";
+var mnemonic = "radar vital town evolve script genius brain rigid pitch poverty shrimp bargain";

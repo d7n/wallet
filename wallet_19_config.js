@@ -1,1 +1,1 @@
-var mnemonic = "local curious twice august sunset skirt language injury fortune cupboard rare oppose";
+var mnemonic = "matter twenty area machine comfort own thank budget green advice enrich elite";

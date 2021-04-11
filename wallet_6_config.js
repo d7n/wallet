@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit expect guilt protect control cruel antique gather misery taste shuffle gentle";
+var mnemonic = "high describe suggest renew parrot average slot modify boat position empty cycle";

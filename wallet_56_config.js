@@ -1,1 +1,1 @@
-var mnemonic = "humble sniff gesture timber pen tank curve learn avocado fine zoo grant";
+var mnemonic = "jar memory busy time entire turkey over anchor play metal work rug";

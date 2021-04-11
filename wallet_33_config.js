@@ -1,1 +1,1 @@
-var mnemonic = "enforce catalog apart protect discover square grief ladder squeeze cotton pistol coach";
+var mnemonic = "output field raise utility ordinary daughter summer type source below poverty range";

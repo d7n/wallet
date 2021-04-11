@@ -1,1 +1,1 @@
-var mnemonic = "hope basket remind only payment type old steak health perfect report comfort";
+var mnemonic = "action blush coach army cheese mechanic possible trust slot desk series stuff";

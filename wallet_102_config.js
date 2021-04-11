@@ -1,1 +1,1 @@
-var mnemonic = "govern lion bar fat infant usage tongue consider midnight vacant rain service";
+var mnemonic = "meadow mixture stand network duty setup truth crush combine space dose narrow";

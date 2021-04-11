@@ -1,1 +1,1 @@
-var mnemonic = "degree screen square oppose cupboard novel access hidden dwarf front valid flower";
+var mnemonic = "neither among fruit nest pen eye fashion share maximum alone also anxiety";

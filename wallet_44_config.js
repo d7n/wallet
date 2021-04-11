@@ -1,1 +1,1 @@
-var mnemonic = "barely solve square tissue miracle squirrel extend sword say unable kid grape";
+var mnemonic = "then rose world isolate globe price soda hurdle sort suit leopard obey";

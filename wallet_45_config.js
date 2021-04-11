@@ -1,1 +1,1 @@
-var mnemonic = "design faith demise chunk insane solid around fury offer insane valve fog";
+var mnemonic = "find rebel push shove loop science device supreme jelly window finish chase";

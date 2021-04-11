@@ -1,1 +1,1 @@
-var mnemonic = "never problem release impulse mesh unveil maple harsh stomach absent outdoor dawn";
+var mnemonic = "celery tragic hover globe result receive caution capital spin room bulk episode";

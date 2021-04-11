@@ -1,1 +1,1 @@
-var mnemonic = "bullet wolf blanket whale cable fatal vote seat hungry trap glance believe";
+var mnemonic = "true table section axis plastic assault sweet token awake include door weasel";

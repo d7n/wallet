@@ -1,1 +1,1 @@
-var mnemonic = "floor october judge scrub brisk february winner forum nephew grace pony enable";
+var mnemonic = "pool alpha dizzy puzzle bounce tree wise comic idle build front flash";

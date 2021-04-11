@@ -1,1 +1,1 @@
-var mnemonic = "laundry person goddess stool quantum mosquito congress attract muffin away tilt language";
+var mnemonic = "double either quantum awful space much keep tooth aspect lens air member";

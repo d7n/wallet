@@ -1,1 +1,1 @@
-var mnemonic = "hotel company wisdom laugh inherit fish dinosaur alpha bar resemble empower misery";
+var mnemonic = "basket control become kangaroo capable honey cargo cabbage film cost disorder robust";

@@ -1,1 +1,1 @@
-var mnemonic = "donor clever tone bulb host deer nasty quote when adult winter coffee";
+var mnemonic = "hockey decline organ shock renew weekend admit venture poverty million fruit state";

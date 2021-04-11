@@ -1,1 +1,1 @@
-var mnemonic = "tag prize ladder maple fun empower lion task hold script ball want";
+var mnemonic = "gather park rain robot domain measure hello goddess eight local tiger pizza";

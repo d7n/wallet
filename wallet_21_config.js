@@ -1,1 +1,1 @@
-var mnemonic = "armor draw demand group finish way special arrow people text vocal tourist";
+var mnemonic = "arm layer year gold demise crush electric grit mesh since regret infant";

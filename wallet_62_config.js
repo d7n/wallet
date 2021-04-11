@@ -1,1 +1,1 @@
-var mnemonic = "mule liberty myth benefit clown crater dust arm border blind kingdom fluid";
+var mnemonic = "rare join cancel torch live safe vapor market magnet salad enforce hospital";

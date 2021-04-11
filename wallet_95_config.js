@@ -1,1 +1,1 @@
-var mnemonic = "castle reveal armed olive cry hole glance sheriff kick thunder electric valve";
+var mnemonic = "square that train flower city solution air peace attend above song spot";

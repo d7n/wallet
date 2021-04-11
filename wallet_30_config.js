@@ -1,1 +1,1 @@
-var mnemonic = "glimpse panel coin quality funny such dentist twelve worth frown divide salute";
+var mnemonic = "old exile earth climb journey lunar survey emerge combine celery poem melt";

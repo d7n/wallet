@@ -1,1 +1,1 @@
-var mnemonic = "half cream corn involve section describe mistake churn credit ball powder wrist";
+var mnemonic = "radio fringe mechanic height select ride pet blush slow earth limit attract";

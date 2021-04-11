@@ -1,1 +1,1 @@
-var mnemonic = "service give target blame unaware where protect cycle impact phrase version deny";
+var mnemonic = "crucial fragile record melody merry tool endorse virtual reward best breeze chief";

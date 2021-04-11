@@ -1,1 +1,1 @@
-var mnemonic = "sibling inch sad cargo meat fantasy there improve poem bird arctic gas";
+var mnemonic = "update market polar blanket kit wink avoid torch window oil vacant history";

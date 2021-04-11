@@ -1,1 +1,1 @@
-var mnemonic = "nest universe cram corn gather energy object hurt quote throw half derive";
+var mnemonic = "empty noble shock when cook elephant piece eagle wood helmet moment useless";

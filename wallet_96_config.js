@@ -1,1 +1,1 @@
-var mnemonic = "tool blade message west lock cram left song approve foil female quality";
+var mnemonic = "bomb impose stool call warrior cloud reduce polar crystal basket army copy";

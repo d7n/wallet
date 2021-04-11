@@ -1,1 +1,1 @@
-var mnemonic = "discover talent own intact differ ladder budget term mother evidence canyon release";
+var mnemonic = "punch fix faint immense cabin shrug coyote birth fuel canyon victory open";

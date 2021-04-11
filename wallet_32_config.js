@@ -1,1 +1,1 @@
-var mnemonic = "question abuse evidence entire turkey vacuum picture sport roof account bird curious";
+var mnemonic = "ribbon easily vault wheel aim final clean never weapon climb people glare";

@@ -1,1 +1,1 @@
-var mnemonic = "sad birth noodle chef dance reform notice give travel review nasty define";
+var mnemonic = "demise jelly mother forward addict evil tiger mushroom sponsor magic lock cash";

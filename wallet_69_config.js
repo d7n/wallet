@@ -1,1 +1,1 @@
-var mnemonic = "honey puzzle mutual couple trumpet ripple limb truth nice earth sentence upgrade";
+var mnemonic = "journey alert vault intact level coral original valve sketch width artist submit";

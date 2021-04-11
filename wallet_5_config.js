@@ -1,1 +1,1 @@
-var mnemonic = "beauty library mouse inform fit maid tired describe duck orbit rival sadness";
+var mnemonic = "fossil science speak crack ankle buffalo meat domain brother hope razor miss";

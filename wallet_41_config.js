@@ -1,1 +1,1 @@
-var mnemonic = "chest record term bachelor sense rule only cushion broken wife medal screen";
+var mnemonic = "culture cannon pyramid caught material path supreme start manual two few pottery";

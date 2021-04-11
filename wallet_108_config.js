@@ -1,1 +1,1 @@
-var mnemonic = "tag castle cabbage trophy already chest beyond advance merit dignity rich absorb";
+var mnemonic = "flip helmet tail hen coconut camera west vital problem bar globe erupt";

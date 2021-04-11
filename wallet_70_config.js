@@ -1,1 +1,1 @@
-var mnemonic = "primary elite prison use sail impulse young sport cruel saddle seed reform";
+var mnemonic = "laptop guess couch iron list gloom cousin motion pluck embody shine share";

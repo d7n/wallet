@@ -1,1 +1,1 @@
-var mnemonic = "canvas earn disorder better clay hospital buzz town voice drastic potato west";
+var mnemonic = "payment usage ring public concert unable almost okay prepare culture gravity viable";

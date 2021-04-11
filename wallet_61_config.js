@@ -1,1 +1,1 @@
-var mnemonic = "expand square casino owner chef modify huge arrow betray surround dress fork";
+var mnemonic = "verb liberty slow alert assault track music problem captain enough syrup turn";

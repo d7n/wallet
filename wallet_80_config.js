@@ -1,1 +1,1 @@
-var mnemonic = "husband phrase outer scatter core name author grid cruise arrive kangaroo balcony";
+var mnemonic = "ten script tornado drastic ankle photo donkey female pen slush company bacon";

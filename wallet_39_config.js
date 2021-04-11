@@ -1,1 +1,1 @@
-var mnemonic = "minute hammer round catalog panic extend sentence advice stuff uniform mixed depart";
+var mnemonic = "element lemon toy moment busy vibrant wall quick bag mushroom prefer exercise";

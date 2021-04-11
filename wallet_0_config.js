@@ -1,1 +1,1 @@
-var mnemonic = "thank govern session dirt have shine wrong dish outdoor pledge trophy clown";
+var mnemonic = "avoid attract vibrant rigid van vibrant dutch donor detail arrest goat beyond";

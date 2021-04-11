@@ -1,1 +1,1 @@
-var mnemonic = "outdoor bundle traffic category midnight alert educate humble green pig tree front";
+var mnemonic = "language phone asthma define fury key heavy oblige siege shine orphan cliff";

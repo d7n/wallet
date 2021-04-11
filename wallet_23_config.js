@@ -1,1 +1,1 @@
-var mnemonic = "arrive age rifle list alone priority garage master jaguar casual expect machine";
+var mnemonic = "affair grit give cactus stumble poet more soda smart forum motor hamster";

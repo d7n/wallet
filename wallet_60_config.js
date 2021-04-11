@@ -1,1 +1,1 @@
-var mnemonic = "list tell spy all pattern rose clown battle cheese village enrich pottery";
+var mnemonic = "entry medal symptom cause speed orchard unfold drive tongue column catch cattle";

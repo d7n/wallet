@@ -1,1 +1,1 @@
-var mnemonic = "hood together garage trap furnace disagree fall apology oblige gain glance razor";
+var mnemonic = "primary series rug image short tuna document baby boat rich digital friend";

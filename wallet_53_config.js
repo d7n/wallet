@@ -1,1 +1,1 @@
-var mnemonic = "waste train split finish box winner mix excuse group add improve comfort";
+var mnemonic = "own clap daughter cycle mean leg ordinary kit birth movie eagle rhythm";

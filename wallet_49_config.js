@@ -1,1 +1,1 @@
-var mnemonic = "trim focus wild fringe gap echo accident style tone abandon eye depend";
+var mnemonic = "job shed repair target expose rebel blanket laundry uphold limit chuckle century";

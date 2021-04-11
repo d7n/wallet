@@ -1,1 +1,1 @@
-var mnemonic = "manual cancel luxury render town emerge sort piece tribe try dice silver";
+var mnemonic = "peace thrive ramp top mechanic state strategy choice market maid stable nose";

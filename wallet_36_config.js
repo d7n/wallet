@@ -1,1 +1,1 @@
-var mnemonic = "stick scrub split clap square doctor inhale weather head harsh load poverty";
+var mnemonic = "dream tilt wool salmon void magnet upon tip patrol note relief surprise";

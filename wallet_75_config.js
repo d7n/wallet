@@ -1,1 +1,1 @@
-var mnemonic = "purpose holiday accident tribe average nation motion town drip vessel minute mean";
+var mnemonic = "bracket length hard evoke vehicle joy ripple ketchup equip detect always mask";

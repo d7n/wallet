@@ -1,1 +1,1 @@
-var mnemonic = "balcony recall daughter cement fall service buzz garbage cotton captain fog expire";
+var mnemonic = "visa claw gap pumpkin accident wish warm punch cable rapid ability option";

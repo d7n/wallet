@@ -1,1 +1,1 @@
-var mnemonic = "across over celery describe august typical cloud hybrid metal bracket blur way";
+var mnemonic = "remember level affair belt electric dial loyal begin jealous balance business admit";

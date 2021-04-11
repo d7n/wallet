@@ -1,1 +1,1 @@
-var mnemonic = "bag because gap badge perfect glow neither universe kidney average census vicious";
+var mnemonic = "fatigue summer chat work usual obvious express goddess employ become fiscal disagree";

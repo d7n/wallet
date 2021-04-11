@@ -1,1 +1,1 @@
-var mnemonic = "erupt test tiger you frog erosion matter relax bone race planet harsh";
+var mnemonic = "van flag segment snow busy umbrella little grape secret kiss wrap spy";

@@ -1,1 +1,1 @@
-var mnemonic = "steel ceiling blouse ill behind seven furnace audit dry reduce fiber perfect";
+var mnemonic = "avoid logic clump feel monster donkey enact february blue drill paddle start";

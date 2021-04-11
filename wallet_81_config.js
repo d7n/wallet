@@ -1,1 +1,1 @@
-var mnemonic = "reopen peace yellow village actor soon pool butter fiscal leaf museum lady";
+var mnemonic = "ignore december produce fame quiz moon kid word seed grief cherry pull";

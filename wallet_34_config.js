@@ -1,1 +1,1 @@
-var mnemonic = "dress scorpion imitate glue assume time spend rough liquid erupt believe moon";
+var mnemonic = "order reform often account ask stock spike nasty caution matrix evolve elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "group situate family hat behind awkward flame laptop cute old between fossil";
+var mnemonic = "rhythm connect humor lamp okay sustain traffic robot lava first conduct tone";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction heavy pelican pear nuclear clock media slam swear remember sugar hub";
+var mnemonic = "amused merry pudding useless pave alter carry brass panther taxi hurry sun";

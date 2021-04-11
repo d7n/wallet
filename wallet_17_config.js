@@ -1,1 +1,1 @@
-var mnemonic = "evoke chat stumble agent dutch latin resist any phone surround monkey diary";
+var mnemonic = "sail pizza slot hawk major silent tilt purity clog execute false pole";

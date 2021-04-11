@@ -1,1 +1,1 @@
-var mnemonic = "target average another because ancient history record medal define head private lock";
+var mnemonic = "uphold magnet planet dance wagon voice crazy casual code snake hold stairs";

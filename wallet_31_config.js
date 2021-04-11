@@ -1,1 +1,1 @@
-var mnemonic = "bulk stick word door episode glide phrase civil perfect cat mass cruise";
+var mnemonic = "time pipe thought rice slight dutch scissors eager dial rebel idea lizard";

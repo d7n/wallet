@@ -1,1 +1,1 @@
-var mnemonic = "boy glance muscle truth casual decide canal result mule vendor tragic mosquito";
+var mnemonic = "second orient later shift upset mirror never quarter put parrot bottom kite";

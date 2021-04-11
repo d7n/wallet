@@ -1,1 +1,1 @@
-var mnemonic = "cube toilet dad motor artist choice gloom between lesson predict modify lock";
+var mnemonic = "tortoise spatial hover bag riot crime brand ugly drum april journey depart";

@@ -1,1 +1,1 @@
-var mnemonic = "fork salon rent small tribe bring office camp final elevator normal monster";
+var mnemonic = "swarm rule juice inherit cycle dentist helmet plate tissue frog distance crop";

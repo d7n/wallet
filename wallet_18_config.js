@@ -1,1 +1,1 @@
-var mnemonic = "broccoli feel project area powder pride parade stock deliver foot razor piece";
+var mnemonic = "casino theory prize concert hobby icon quick venture embody hip february whip";

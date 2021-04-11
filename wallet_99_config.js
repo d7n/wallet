@@ -1,1 +1,1 @@
-var mnemonic = "boat rich orange dry video glow various canoe nation garlic extend result";
+var mnemonic = "panther claim lottery kitchen laugh work reason rival oxygen slot hockey limit";

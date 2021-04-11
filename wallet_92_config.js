@@ -1,1 +1,1 @@
-var mnemonic = "fluid cactus license secret symbol secret dilemma oppose gown sphere roof mimic";
+var mnemonic = "peanut ready march gather silver only grief now guide disorder language birth";

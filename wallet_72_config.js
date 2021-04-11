@@ -1,1 +1,1 @@
-var mnemonic = "essay shock jeans over prefer expand perfect liquid culture trip maple piano";
+var mnemonic = "stone vessel luggage rich test focus virus liberty never either seek acoustic";

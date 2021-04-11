@@ -1,1 +1,1 @@
-var mnemonic = "ecology broken drive release canvas shallow pen valid seven aunt cat way";
+var mnemonic = "sentence matter stadium valve gaze gain allow proud finger total select abuse";

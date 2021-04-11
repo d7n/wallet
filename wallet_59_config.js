@@ -1,1 +1,1 @@
-var mnemonic = "cradle foot toddler used melody work pact truth battle clay occur gentle";
+var mnemonic = "mixture habit ivory pattern degree matter grid believe title thumb square grace";

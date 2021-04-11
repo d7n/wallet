@@ -1,1 +1,1 @@
-var mnemonic = "eye raise resemble virus reveal scene like trade timber school ship correct";
+var mnemonic = "unfair item physical vapor guitar motor hill siege hamster knee obey cram";

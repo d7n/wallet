@@ -1,1 +1,1 @@
-var mnemonic = "slam switch rescue lazy code rubber reject borrow imitate goat deal solid";
+var mnemonic = "skin region wrist family nation sniff meat turn spell enact rabbit card";

@@ -1,1 +1,1 @@
-var mnemonic = "trust antenna fee marriage recycle empty pear cave wonder where wild tragic";
+var mnemonic = "grit symbol picture myself wrong fame lawsuit silent addict teach surge pool";

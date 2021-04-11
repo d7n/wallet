@@ -1,1 +1,1 @@
-var mnemonic = "piece base lecture abandon volcano erosion clean parade fatal priority canal skull";
+var mnemonic = "six gain very put brisk vast visa outer phone cook tired there";

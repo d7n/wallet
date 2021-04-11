@@ -1,1 +1,1 @@
-var mnemonic = "sadness ski east distance fruit glimpse whip task sleep anger next oval";
+var mnemonic = "today fold tray rare just victory merit art deputy clutch harsh input";

@@ -1,1 +1,1 @@
-var mnemonic = "during hurdle already stem gift crash age fashion convince drastic black deposit";
+var mnemonic = "swarm retire napkin salon oak recipe kiwi walk visa clock excess real";
