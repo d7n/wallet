@@ -1,1 +1,1 @@
-var mnemonic = "spy sun medal detect pear slam ghost desert attitude medal cycle surprise";
+var mnemonic = "sorry vessel during coffee picture cage asset face must boy design inspire";

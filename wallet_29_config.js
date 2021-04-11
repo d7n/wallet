@@ -1,1 +1,1 @@
-var mnemonic = "carbon siege hip girl cart tone fortune chapter pelican home rival slide";
+var mnemonic = "pistol item news fetch solution potato check first sure leg rail amateur";

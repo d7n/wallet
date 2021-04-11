@@ -1,1 +1,1 @@
-var mnemonic = "visa near harbor idle vehicle lobster limb choice idea bronze absent bargain";
+var mnemonic = "globe hour size sell barely sand above fossil rifle victory recycle cluster";

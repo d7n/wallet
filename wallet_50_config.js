@@ -1,1 +1,1 @@
-var mnemonic = "end return guilt brave expect entry avoid win claw scout initial visa";
+var mnemonic = "palm island damage welcome learn ignore artist night salon usual praise position";

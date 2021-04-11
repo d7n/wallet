@@ -1,1 +1,1 @@
-var mnemonic = "nominee tissue pottery example odor kick cat poem predict head enough brief";
+var mnemonic = "orange replace bid gift juice lawn jacket brisk bid unusual detail course";

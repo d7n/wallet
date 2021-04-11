@@ -1,1 +1,1 @@
-var mnemonic = "remove tree chunk pave squeeze gadget chimney pig stumble stable summer pause";
+var mnemonic = "uphold depend neutral midnight whisper near vivid core hello spare cram trim";

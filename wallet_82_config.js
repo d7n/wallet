@@ -1,1 +1,1 @@
-var mnemonic = "fit congress purse able hip estate shallow law pizza finish tired brief";
+var mnemonic = "question number manual depend shrug bicycle proof void nuclear pelican ill spawn";

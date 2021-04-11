@@ -1,1 +1,1 @@
-var mnemonic = "eager fire frost pen fence lake judge tissue key ecology perfect reveal";
+var mnemonic = "speak unveil lecture easy inner assault casual rabbit guitar subject run august";

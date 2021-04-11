@@ -1,1 +1,1 @@
-var mnemonic = "length kitchen glow rack click air orient fall robot artist balcony violin";
+var mnemonic = "wine soda agent team peasant object body blouse maid anxiety know drip";

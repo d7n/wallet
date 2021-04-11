@@ -1,1 +1,1 @@
-var mnemonic = "rescue glove rhythm inch snack remind three eye parade spy believe exact";
+var mnemonic = "frown honey cannon smart cactus oil you clog bubble leopard solution shove";

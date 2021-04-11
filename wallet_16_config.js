@@ -1,1 +1,1 @@
-var mnemonic = "debate imitate swarm empower lecture install loop orphan father maximum hair gloom";
+var mnemonic = "toward evolve wage vendor symptom topple motion ritual helmet skin sound genre";

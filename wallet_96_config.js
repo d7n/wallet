@@ -1,1 +1,1 @@
-var mnemonic = "coyote summer action fold parent toss spike rely dizzy memory skill used";
+var mnemonic = "found hawk open wait delay fork camp kid grape mouse limb select";

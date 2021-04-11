@@ -1,1 +1,1 @@
-var mnemonic = "true empty garlic glance cattle excess speak genuine glimpse shoot gaze thrive";
+var mnemonic = "jewel save license inflict coral easily between destroy hybrid walk student ticket";

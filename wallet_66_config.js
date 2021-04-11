@@ -1,1 +1,1 @@
-var mnemonic = "pear kingdom exclude absorb harsh walnut room habit tobacco clerk talk turtle";
+var mnemonic = "define trick cool original assault supply useful census state awkward film sketch";

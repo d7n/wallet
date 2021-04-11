@@ -1,1 +1,1 @@
-var mnemonic = "hand gas slogan diamond neutral gravity half keep empty method recipe divert";
+var mnemonic = "dinosaur wood trust announce dish emotion water expire monkey matrix profit repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "review scale error group will deal bacon quiz salt slam butter tiger";
+var mnemonic = "speed weapon crane misery nest retire ghost style lawsuit sick monitor antique";

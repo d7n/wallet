@@ -1,1 +1,1 @@
-var mnemonic = "frame spell bounce pepper army will mean slice fossil detect scorpion rose";
+var mnemonic = "document question joke supreme divorce picnic announce result husband rib bargain palm";

@@ -1,1 +1,1 @@
-var mnemonic = "error crazy stage believe crucial engine robot pledge famous perfect machine select";
+var mnemonic = "blame poem leader negative distance similar advice ski shallow describe butter unlock";

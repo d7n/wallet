@@ -1,1 +1,1 @@
-var mnemonic = "moon infant legend whisper spell supreme horse tray animal alley turkey text";
+var mnemonic = "orchard stairs later goose walk spread civil shoe soccer elbow hole soda";

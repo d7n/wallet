@@ -1,1 +1,1 @@
-var mnemonic = "panda renew pair citizen afraid sure sunset behind turtle tube ski avoid";
+var mnemonic = "laundry shop birth around now explain faint ordinary globe regret cereal minor";

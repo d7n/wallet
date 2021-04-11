@@ -1,1 +1,1 @@
-var mnemonic = "tenant ivory cause spread tooth cheese gun cannon off strong start logic";
+var mnemonic = "maximum curious replace cause math marriage journey outside speed reunion theory rabbit";

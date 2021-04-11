@@ -1,1 +1,1 @@
-var mnemonic = "usual space happy warm quit priority welcome caught knock gather soon inhale";
+var mnemonic = "plate hour pact mad law mansion usage park wall casino insect small";

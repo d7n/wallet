@@ -1,1 +1,1 @@
-var mnemonic = "vital total wood catalog produce point proof infant section achieve dirt squirrel";
+var mnemonic = "cabin safe add gaze patrol awake glow away practice crop remove choice";

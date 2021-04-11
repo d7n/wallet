@@ -1,1 +1,1 @@
-var mnemonic = "rely copy cargo inside tragic saddle sight amateur swim number toward later";
+var mnemonic = "acid city badge raw tomato move erupt panda salute fit leader already";

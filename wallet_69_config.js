@@ -1,1 +1,1 @@
-var mnemonic = "tongue cruel describe space decide hobby exclude color defense argue fiber doctor";
+var mnemonic = "robust give present tattoo sell height surround knee space inside pizza bullet";

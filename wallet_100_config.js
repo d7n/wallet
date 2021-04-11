@@ -1,1 +1,1 @@
-var mnemonic = "panda dragon various demand online people silent cupboard require another pride mansion";
+var mnemonic = "stairs virus fee easily salmon kick gauge own copper rocket oven begin";

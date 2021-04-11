@@ -1,1 +1,1 @@
-var mnemonic = "stadium liberty cry shadow survey beauty essay social machine surround recipe raise";
+var mnemonic = "maid debate frozen uncover rice walk essay ginger silk measure work initial";

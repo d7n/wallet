@@ -1,1 +1,1 @@
-var mnemonic = "inmate true useless defy super athlete laundry rather stay mutual order garbage";
+var mnemonic = "rescue blue suggest alter dinner you route beach squirrel prize three debate";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge aunt frame weather gain smile erupt need verb venture matter weather";
+var mnemonic = "alcohol carry forum main champion opinion problem rigid physical skirt beauty struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "steak first select orange hungry clip bachelor jelly sun asthma caution ribbon";
+var mnemonic = "walnut hammer holiday sample story hour catch finish behind lend search twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "raw lava giraffe because mail feed avocado phone round beach feed visa";
+var mnemonic = "damp sun parrot fortune bulk resemble supreme skin fold rich cruel alley";

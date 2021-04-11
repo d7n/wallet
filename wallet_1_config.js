@@ -1,1 +1,1 @@
-var mnemonic = "feel habit stay sudden term six harsh cabbage cliff december wonder shoot";
+var mnemonic = "shield dynamic moon world quote climb proof need truth scrap citizen carpet";

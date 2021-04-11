@@ -1,1 +1,1 @@
-var mnemonic = "sorry combine switch wealth chapter absurd hungry primary twenty coach nut web";
+var mnemonic = "attack spirit course village firm physical sauce salt shy damage logic glove";

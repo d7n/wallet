@@ -1,1 +1,1 @@
-var mnemonic = "peace extend excite armed person desk search blur awake supply zebra wool";
+var mnemonic = "narrow age relief will write judge dry type nature scorpion garage split";

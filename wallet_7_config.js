@@ -1,1 +1,1 @@
-var mnemonic = "idea melt collect tourist arrow jelly announce choice hand vessel picture bullet";
+var mnemonic = "valid frost ten behind desk exile vote material nuclear rare build motor";

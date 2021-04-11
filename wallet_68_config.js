@@ -1,1 +1,1 @@
-var mnemonic = "hat lonely pig rain fuel track zone lyrics remind post various sweet";
+var mnemonic = "artefact circle drama shock bomb duck alone hurt asset allow bench faith";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic dad siege essence paddle palm result manual bitter pelican profit student";
+var mnemonic = "exile iron icon you nasty dish appear mushroom mushroom truck where aspect";

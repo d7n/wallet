@@ -1,1 +1,1 @@
-var mnemonic = "nasty blossom aware siren rose surge core what movie verb help word";
+var mnemonic = "suggest section equip tone wall strong weekend nephew canvas neglect brick monster";

@@ -1,1 +1,1 @@
-var mnemonic = "radio excess tail casino cattle ecology tray syrup blush laugh athlete group";
+var mnemonic = "unique deal furnace kite mango nice course nephew base mesh fruit flock";

@@ -1,1 +1,1 @@
-var mnemonic = "way flight nominee sad lab soap rack turkey paper life knock hybrid";
+var mnemonic = "blouse trouble creek jaguar struggle runway laptop hill tiny search like reflect";

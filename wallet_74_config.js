@@ -1,1 +1,1 @@
-var mnemonic = "struggle depart trend lumber pistol drill scene item smart before loud thrive";
+var mnemonic = "target wing own pledge discover oxygen chef palm coil hurt lamp gaze";

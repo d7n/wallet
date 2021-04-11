@@ -1,1 +1,1 @@
-var mnemonic = "delay giant nation local decade enemy bag shadow unaware endless warm still";
+var mnemonic = "profit fuel below between blue beauty supply prison black tide praise emerge";

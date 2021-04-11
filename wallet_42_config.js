@@ -1,1 +1,1 @@
-var mnemonic = "vast idle door ethics tail input hope subject ozone vapor rain harbor";
+var mnemonic = "antenna sunny merge example drift paddle broom era hockey negative annual parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "brick fury power fence lawsuit chef ethics sibling usual truly divide humor";
+var mnemonic = "plate lock caution cereal wide lazy shaft ceiling bubble other same approve";

@@ -1,1 +1,1 @@
-var mnemonic = "earth syrup swap manage sample survey column weather film upset cliff dutch";
+var mnemonic = "hurry fly about alley rack ready tool embody danger nominee pool candy";

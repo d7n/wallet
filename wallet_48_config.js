@@ -1,1 +1,1 @@
-var mnemonic = "mimic palm twenty benefit bless fantasy shiver treat camera license onion guess";
+var mnemonic = "assist gun merge october provide goddess shadow collect plate around thumb swallow";

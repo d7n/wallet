@@ -1,1 +1,1 @@
-var mnemonic = "people puppy dove grid void mix cheese run mutual pyramid magic twin";
+var mnemonic = "target parade theory fold runway barrel marine enhance area remove antique curious";

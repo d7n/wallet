@@ -1,1 +1,1 @@
-var mnemonic = "drama nice truck relax choose syrup royal spell dilemma blouse chalk cinnamon";
+var mnemonic = "sell rent mirror velvet scrub behave gallery buzz marble what early snap";

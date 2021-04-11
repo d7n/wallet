@@ -1,1 +1,1 @@
-var mnemonic = "able found forward affair palace civil lounge stage claim decline install couch";
+var mnemonic = "canoe gadget stairs habit ocean beauty critic glory dress movie autumn snap";

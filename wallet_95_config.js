@@ -1,1 +1,1 @@
-var mnemonic = "witness they seminar tired decade glare seek stable hope people cliff carbon";
+var mnemonic = "ripple oppose coach flag enhance surge chimney embrace tumble ill another crucial";

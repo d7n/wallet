@@ -1,1 +1,1 @@
-var mnemonic = "bread brisk blanket prefer relief check priority chat reopen fitness dance tunnel";
+var mnemonic = "wool north luggage digital pudding mobile brand wrap chronic when renew notable";

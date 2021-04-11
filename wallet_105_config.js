@@ -1,1 +1,1 @@
-var mnemonic = "connect jacket people black runway noise chuckle blanket two either urban collect";
+var mnemonic = "velvet must educate hybrid feel embody tongue monitor balance sugar viable repair";

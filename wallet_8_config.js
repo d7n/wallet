@@ -1,1 +1,1 @@
-var mnemonic = "smart enable special large lumber dove fabric history bitter myself scrap desert";
+var mnemonic = "exotic axis crystal impact never blush lift normal loyal oblige toast business";

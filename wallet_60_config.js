@@ -1,1 +1,1 @@
-var mnemonic = "soap aisle mouse now fringe coral bridge lava object swift arrive oppose";
+var mnemonic = "pledge voice soldier tone reveal rice hard already license chair tent sting";

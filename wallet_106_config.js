@@ -1,1 +1,1 @@
-var mnemonic = "enable arena skull fit upon exile joke armed consider force trap humble";
+var mnemonic = "ski rude make stick collect tip upgrade sick eye pistol error clerk";

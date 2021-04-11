@@ -1,1 +1,1 @@
-var mnemonic = "decline load awful inject start exclude bid news gown worry inmate liar";
+var mnemonic = "shoot fresh boost because pond dose table slight extend afford hour wrong";

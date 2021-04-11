@@ -1,1 +1,1 @@
-var mnemonic = "error identify ramp save above access much image pool siege tissue impose";
+var mnemonic = "medal later wrestle warfare marble theme spare once loop click idle that";

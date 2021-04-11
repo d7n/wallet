@@ -1,1 +1,1 @@
-var mnemonic = "mountain truck tool excite remember congress blouse year cry mother alcohol demise";
+var mnemonic = "jealous detail tank sure crazy obscure armed hire seat easy dizzy design";

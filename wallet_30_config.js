@@ -1,1 +1,1 @@
-var mnemonic = "baby flat sister fiber fatigue beach stable parade potato warrior squeeze inject";
+var mnemonic = "window hole minute world arrest hope again learn amazing cotton sugar zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "truly process taxi crowd gorilla strategy jelly test urban cloud car glance";
+var mnemonic = "cliff beyond fish hurry entire away address frost window jelly day cup";

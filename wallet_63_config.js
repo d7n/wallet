@@ -1,1 +1,1 @@
-var mnemonic = "basket taxi million vast liberty napkin armed library nation gap pilot rough";
+var mnemonic = "black negative fat peasant sniff celery infant push online dragon clarify elegant";

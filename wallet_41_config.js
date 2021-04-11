@@ -1,1 +1,1 @@
-var mnemonic = "kick width differ noodle cliff refuse vacuum butter praise admit frequent pledge";
+var mnemonic = "solve trigger detail glide lizard indicate kingdom kiwi monkey blast garment invest";

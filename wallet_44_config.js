@@ -1,1 +1,1 @@
-var mnemonic = "exercise cycle toe utility still robot object dad merge stuff autumn boat";
+var mnemonic = "make raw inmate spirit robust visa shed worth night stereo valid baby";

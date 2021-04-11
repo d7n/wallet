@@ -1,1 +1,1 @@
-var mnemonic = "title crop you virus network used legal fresh chair explain smile pepper";
+var mnemonic = "upper total sail betray salmon absorb usual burger garden first glimpse document";

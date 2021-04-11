@@ -1,1 +1,1 @@
-var mnemonic = "inmate elder truly hawk alter obtain misery flee runway umbrella item weekend";
+var mnemonic = "agent loud kind resemble hollow enforce sister salt nephew april lab earn";

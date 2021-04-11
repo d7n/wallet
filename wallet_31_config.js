@@ -1,1 +1,1 @@
-var mnemonic = "item gorilla image cage fossil horror nation tilt upon engine nation engine";
+var mnemonic = "stairs scan lock busy fly print sample fossil tooth hurdle buffalo admit";

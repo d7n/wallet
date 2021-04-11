@@ -1,1 +1,1 @@
-var mnemonic = "tissue concert zebra stay trip retire tilt wine simple mixed churn inspire";
+var mnemonic = "unknown submit mix erupt language pull card clock write slow trim perfect";

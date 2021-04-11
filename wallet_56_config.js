@@ -1,1 +1,1 @@
-var mnemonic = "donate tumble grow output humble scan hard grow object vicious pelican abandon";
+var mnemonic = "forget limit acid clay elite champion slim unveil taxi monitor luxury jelly";

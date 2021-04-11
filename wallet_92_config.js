@@ -1,1 +1,1 @@
-var mnemonic = "tennis panther world remove neutral measure clever suspect pact inquiry learn before";
+var mnemonic = "clutch outside useful pizza repair stool left dad bean journey tongue possible";

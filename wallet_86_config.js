@@ -1,1 +1,1 @@
-var mnemonic = "cash enough umbrella evil lava spring voyage tackle solution derive borrow melody";
+var mnemonic = "damage field sauce hedgehog ring observe blast cliff strong resist leave bright";

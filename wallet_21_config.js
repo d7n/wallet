@@ -1,1 +1,1 @@
-var mnemonic = "wreck fit hazard famous violin slow ocean dial jewel column hundred perfect";
+var mnemonic = "hat blind since secret arm girl hole sustain huge cake shy canoe";

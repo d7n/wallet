@@ -1,1 +1,1 @@
-var mnemonic = "method owner owner slogan curtain goat exchange relax indicate drip step target";
+var mnemonic = "bag believe universe grass cage awful attitude betray neither blind dance mail";

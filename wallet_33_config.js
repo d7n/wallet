@@ -1,1 +1,1 @@
-var mnemonic = "exercise arrow road tenant protect fancy field lend laundry aim check green";
+var mnemonic = "hello napkin craft husband extend dad property shop pipe mimic theme someone";

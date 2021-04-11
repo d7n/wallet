@@ -1,1 +1,1 @@
-var mnemonic = "transfer acquire wild shell wear mixed connect used nasty mirror liquid session";
+var mnemonic = "ladder mother dolphin nation nerve simple law oxygen update fiction across dust";

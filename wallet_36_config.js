@@ -1,1 +1,1 @@
-var mnemonic = "beauty regret advice economy immense talent hotel army ocean dynamic chunk gadget";
+var mnemonic = "pretty gather develop disagree faint start odor engage into alpha close raw";

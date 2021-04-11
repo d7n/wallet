@@ -1,1 +1,1 @@
-var mnemonic = "now blossom error between crumble ride correct eye swim already brand degree";
+var mnemonic = "fiscal settle monkey very organ gaze lizard village erosion album exclude news";

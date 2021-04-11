@@ -1,1 +1,1 @@
-var mnemonic = "desk cage tray perfect safe decline grace assault leave hidden coach bind";
+var mnemonic = "belt ripple donkey amount next scissors magnet recipe flight hospital hybrid bronze";

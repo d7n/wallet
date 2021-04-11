@@ -1,1 +1,1 @@
-var mnemonic = "cat loyal feed mention view protect angle desk pigeon knife art rough";
+var mnemonic = "concert dentist aunt slide fiction lock clip square sand south roast divert";

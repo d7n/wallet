@@ -1,1 +1,1 @@
-var mnemonic = "awesome blossom wrong east stone special laundry pass display inmate spy squirrel";
+var mnemonic = "dismiss auto acid submit sign improve blood grape bamboo great slight require";

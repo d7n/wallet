@@ -1,1 +1,1 @@
-var mnemonic = "primary position rubber come bonus demand mom pair noise unusual camera minute";
+var mnemonic = "insane chimney better wrap just balcony lunar cluster hill appear march toss";

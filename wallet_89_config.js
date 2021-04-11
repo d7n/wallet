@@ -1,1 +1,1 @@
-var mnemonic = "subway tuition useless hand zone anger define message security cluster turtle weird";
+var mnemonic = "believe must bleak host celery rifle abstract urban various immense find asthma";

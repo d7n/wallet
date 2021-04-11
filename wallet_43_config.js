@@ -1,1 +1,1 @@
-var mnemonic = "rotate slice turn action priority program member claw pulp dress nose artist";
+var mnemonic = "whisper call tent wheat month someone bounce absorb kangaroo bracket junk front";

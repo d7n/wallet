@@ -1,1 +1,1 @@
-var mnemonic = "asset follow mountain indoor rose gadget uniform rail need clean air cupboard";
+var mnemonic = "bleak suggest square ticket short flower crystal broccoli father else hungry fetch";

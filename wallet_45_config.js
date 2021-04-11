@@ -1,1 +1,1 @@
-var mnemonic = "shine music slab illness bicycle sheriff bid orchard print vibrant pony sketch";
+var mnemonic = "law fold whip fade jump rookie delay champion special viable mobile orchard";

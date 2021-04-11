@@ -1,1 +1,1 @@
-var mnemonic = "brick spirit enough domain assault mechanic cheap ripple seed divorce forward blur";
+var mnemonic = "arrange frown daughter viable impose frost lawn tag degree meadow also quick";

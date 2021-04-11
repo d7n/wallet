@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo canyon retire involve worry supply faith host young urban spend recycle";
+var mnemonic = "immune scare palace donate awake question produce radio duty wait chief lawn";

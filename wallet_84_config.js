@@ -1,1 +1,1 @@
-var mnemonic = "warrior bulb security loud capable north guard pumpkin slender maple oven object";
+var mnemonic = "ten whip candy disease bus spy pink april mask day eight simple";

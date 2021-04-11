@@ -1,1 +1,1 @@
-var mnemonic = "curious simple script acquire since powder account leg drip lecture february zebra";
+var mnemonic = "source chuckle art recycle warfare memory electric critic angle cup equal practice";

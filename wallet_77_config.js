@@ -1,1 +1,1 @@
-var mnemonic = "gossip license loyal ankle test obey middle field output topic thumb broken";
+var mnemonic = "sock concert ripple worry expect visual engage install lumber feel ritual faint";

@@ -1,1 +1,1 @@
-var mnemonic = "curious outside major napkin country virus vital exit unhappy fit nominee boring";
+var mnemonic = "damage cause window defy tongue wreck cream bike shrimp search isolate biology";

@@ -1,1 +1,1 @@
-var mnemonic = "sight device rabbit capital rebel plug radio congress fire equip alcohol scorpion";
+var mnemonic = "zero leader arrest salmon marble notice sugar fruit tonight enough tip express";

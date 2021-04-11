@@ -1,1 +1,1 @@
-var mnemonic = "use document orchard act cute flower wood modify session wedding gate game";
+var mnemonic = "when spice search hidden uncover coach gravity ability chaos ankle patrol kingdom";
