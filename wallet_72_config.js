@@ -1,1 +1,1 @@
-var mnemonic = "print amused boat prosper pulse weasel couple project route catch slight assault";
+var mnemonic = "hospital recycle staff flavor hollow bacon impulse milk decline flame bird autumn";

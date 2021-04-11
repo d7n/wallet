@@ -1,1 +1,1 @@
-var mnemonic = "spare super deliver start virus total rigid purity connect wood hurry today";
+var mnemonic = "planet street ivory guitar deposit twice humble order tomorrow museum grit noodle";

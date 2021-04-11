@@ -1,1 +1,1 @@
-var mnemonic = "describe sight please call lunar veteran grain myself physical stem vintage hundred";
+var mnemonic = "roof bike swing lab holiday surface timber mom theory ritual venue focus";

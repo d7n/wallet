@@ -1,1 +1,1 @@
-var mnemonic = "ramp velvet arrest cargo push anxiety bridge diamond retreat humor execute south";
+var mnemonic = "morning legal modify refuse boring age pair lesson bonus knife vintage another";

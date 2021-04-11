@@ -1,1 +1,1 @@
-var mnemonic = "tunnel oil curtain disagree eternal stamp essay rude supreme protect put curious";
+var mnemonic = "author toilet curtain earn settle sword any dream depart wrap craft bean";

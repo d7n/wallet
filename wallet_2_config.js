@@ -1,1 +1,1 @@
-var mnemonic = "dust crop silk section broccoli payment together price either angry rib often";
+var mnemonic = "glad visual table trick patch since good fine bracket language stone approve";

@@ -1,1 +1,1 @@
-var mnemonic = "waste tenant light shoe welcome calm idea refuse silent post train rebel";
+var mnemonic = "rude soap curtain album artwork fan juice core ignore tilt play security";

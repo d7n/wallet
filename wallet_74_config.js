@@ -1,1 +1,1 @@
-var mnemonic = "gasp turkey arrive negative scatter weekend already stem choice spike normal fish";
+var mnemonic = "raven bean grit today action dry indoor brief soap image hill used";

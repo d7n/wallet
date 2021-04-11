@@ -1,1 +1,1 @@
-var mnemonic = "repair lamp deputy wedding dune catalog obtain find state thing ocean chat";
+var mnemonic = "goose bulb lonely staff nominee addict fantasy truck era media enjoy laptop";

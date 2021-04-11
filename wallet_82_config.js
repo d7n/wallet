@@ -1,1 +1,1 @@
-var mnemonic = "domain shop any because brass grace volume absorb layer style segment odor";
+var mnemonic = "poverty smile wrist soccer face pelican already path dove brush total cat";

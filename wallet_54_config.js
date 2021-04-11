@@ -1,1 +1,1 @@
-var mnemonic = "poverty bless slam inject robot table erode journey search maximum can skull";
+var mnemonic = "brown remember convince romance early achieve inside club ride mix core scatter";

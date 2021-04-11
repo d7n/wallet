@@ -1,1 +1,1 @@
-var mnemonic = "heart notable antique escape actual corn sad genre later trip slogan among";
+var mnemonic = "chunk include lunar estate swamp patrol risk east genius try matter riot";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft pull bitter wasp cancel inside laugh depart ecology ugly solar couple";
+var mnemonic = "bind churn front never core sort mean broom village emerge require unfair";

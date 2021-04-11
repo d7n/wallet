@@ -1,1 +1,1 @@
-var mnemonic = "van laugh upset ketchup concert biology remove extra rather genuine sugar six";
+var mnemonic = "cereal screen royal army palace gather balance rebuild dial resemble poverty tribe";

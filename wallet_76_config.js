@@ -1,1 +1,1 @@
-var mnemonic = "garlic grain sorry sport empower awake consider dawn unit pond fit peace";
+var mnemonic = "merry clap combine patch manage hockey wedding surround educate want inherit street";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect argue cash doll message hair process elevator spell style fork quote";
+var mnemonic = "upon crash will govern tumble talent gas laptop dilemma argue recycle legal";

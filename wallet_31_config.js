@@ -1,1 +1,1 @@
-var mnemonic = "taste relax switch pull citizen loan response slogan reform seed wrist hair";
+var mnemonic = "keen six strategy sketch eyebrow acid birth sport they limit lunch hat";

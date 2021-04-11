@@ -1,1 +1,1 @@
-var mnemonic = "six clump donkey step boat industry distance world small away neglect luxury";
+var mnemonic = "great else harvest wish gravity below unaware alpha nephew cabbage conduct uncle";

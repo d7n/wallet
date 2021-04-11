@@ -1,1 +1,1 @@
-var mnemonic = "comfort cook permit tube inherit ring puppy quarter duck buyer session ignore";
+var mnemonic = "gift clump food key school flush illness cash soldier fee devote cluster";

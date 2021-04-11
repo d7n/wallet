@@ -1,1 +1,1 @@
-var mnemonic = "tower seat cube book employ amount pole skin wreck hand neglect wool";
+var mnemonic = "spike another climb escape inject envelope fan ill burden village sadness bless";

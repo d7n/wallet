@@ -1,1 +1,1 @@
-var mnemonic = "copper kingdom unfair hen gold canyon craft good latin sudden slice spin";
+var mnemonic = "reveal rate blind pole penalty census neglect inquiry oblige salon horn lake";

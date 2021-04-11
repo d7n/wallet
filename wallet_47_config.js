@@ -1,1 +1,1 @@
-var mnemonic = "road off danger report raven arena pony gossip layer welcome left index";
+var mnemonic = "mixed attract life shop wealth gadget drive stool bone wait one nice";

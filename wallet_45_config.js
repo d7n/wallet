@@ -1,1 +1,1 @@
-var mnemonic = "diet ribbon moral review evil spice fox domain dwarf recipe coral mirror";
+var mnemonic = "regret sudden false message damage ticket future suspect swap mixed outside horn";

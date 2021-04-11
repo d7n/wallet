@@ -1,1 +1,1 @@
-var mnemonic = "tiger unfold print inject spare account private cloth cube whisper segment priority";
+var mnemonic = "future survey install nice vote artwork rough ahead cook trial busy basic";

@@ -1,1 +1,1 @@
-var mnemonic = "custom error affair embark observe cricket toy candy merit dose embark eight";
+var mnemonic = "verify swallow cruise remind want side surface skin mind domain illness spread";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire talent better olympic always hundred agree expose beach brush ozone conduct";
+var mnemonic = "fiber lounge section gift public stock bachelor awake moment exhibit west slow";

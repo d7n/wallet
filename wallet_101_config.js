@@ -1,1 +1,1 @@
-var mnemonic = "world orphan visit purse upper peace hidden decrease quiz obvious solve fury";
+var mnemonic = "museum glass object about profit guilt about quantum survey dizzy word castle";

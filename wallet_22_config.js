@@ -1,1 +1,1 @@
-var mnemonic = "follow universe enable federal tray holiday alone truth twin illegal talent thrive";
+var mnemonic = "scale upper clay intact reopen voice gospel afraid behind solar begin average";

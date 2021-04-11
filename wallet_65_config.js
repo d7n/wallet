@@ -1,1 +1,1 @@
-var mnemonic = "trust decrease reduce purse mom lounge syrup minute produce believe sting sweet";
+var mnemonic = "puzzle thought nerve pink buzz asset bottom staff surge symptom depend axis";

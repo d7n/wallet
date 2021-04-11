@@ -1,1 +1,1 @@
-var mnemonic = "wage enroll taste swim skin clog device sentence require enforce tattoo claw";
+var mnemonic = "weird shield museum prison trend excite tired accuse pole cute quick crucial";

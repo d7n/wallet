@@ -1,1 +1,1 @@
-var mnemonic = "donate major naive arch shrimp gesture infant session enforce lift fortune forest";
+var mnemonic = "try blossom trophy strike vanish cluster jaguar ready solar family tail below";

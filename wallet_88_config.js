@@ -1,1 +1,1 @@
-var mnemonic = "dilemma diagram depth century deal slim chest wild anchor stone broccoli thought";
+var mnemonic = "nut shift image bridge jealous script gauge need enter master crumble cherry";

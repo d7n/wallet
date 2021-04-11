@@ -1,1 +1,1 @@
-var mnemonic = "pretty reveal peace sorry muffin solve fix feature neglect debate together door";
+var mnemonic = "palace erosion swear liar razor tell wreck auto orient kiwi vessel dose";

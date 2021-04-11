@@ -1,1 +1,1 @@
-var mnemonic = "hood voyage vacant spare bread combine abandon nest flee student ten acid";
+var mnemonic = "museum double cotton local avoid iron distance forum debris trip final film";

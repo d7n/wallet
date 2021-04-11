@@ -1,1 +1,1 @@
-var mnemonic = "misery beauty output produce chaos drum sentence true jewel tiny shadow pledge";
+var mnemonic = "vacant garden donkey exhaust high glimpse planet predict squirrel fiber stadium tattoo";

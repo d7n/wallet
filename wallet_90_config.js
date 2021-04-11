@@ -1,1 +1,1 @@
-var mnemonic = "orchard sentence hold also insect business wing reject gloom debate whale all";
+var mnemonic = "camp slot roof fabric wrap ready retire rice token potato abstract craft";

@@ -1,1 +1,1 @@
-var mnemonic = "host slam steel tourist indicate crisp elite axis real runway calm people";
+var mnemonic = "submit minimum misery tired local radio adult fame crunch weapon believe catch";

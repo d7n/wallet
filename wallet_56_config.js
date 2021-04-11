@@ -1,1 +1,1 @@
-var mnemonic = "fringe donkey flip oak supreme mutual have price way summer pizza ripple";
+var mnemonic = "pen audit phrase skate remember forward feed alien explain matrix believe indicate";

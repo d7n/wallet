@@ -1,1 +1,1 @@
-var mnemonic = "output material top hungry cloud fitness leopard puppy sail unlock zebra impose";
+var mnemonic = "secret figure gloom dinner unfold magic main imitate border exchange reveal tube";

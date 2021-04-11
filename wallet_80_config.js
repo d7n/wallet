@@ -1,1 +1,1 @@
-var mnemonic = "play series naive miracle noise pioneer spare master frequent crystal guitar glare";
+var mnemonic = "upgrade vintage decrease arm unveil cute vibrant ensure sad pull sea volcano";

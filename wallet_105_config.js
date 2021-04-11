@@ -1,1 +1,1 @@
-var mnemonic = "symptom stay destroy eyebrow vicious winter brown fit rare word ensure must";
+var mnemonic = "into immense despair absurd rival sunny capital village uncle inspire deer text";

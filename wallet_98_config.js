@@ -1,1 +1,1 @@
-var mnemonic = "manage tag strategy blur jewel assault buyer mention quality throw voyage step";
+var mnemonic = "board sell best potato giraffe emotion loop work develop diamond pear tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma stumble empty maid edit scrub all survey latin record impact safe";
+var mnemonic = "lens praise domain oven dress print half universe hundred record goddess vital";

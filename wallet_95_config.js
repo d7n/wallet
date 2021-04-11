@@ -1,1 +1,1 @@
-var mnemonic = "awesome lobster card attract gather stomach write rival imitate essence spike step";
+var mnemonic = "crawl slight put moral occur reject rigid prosper glove word immune fold";

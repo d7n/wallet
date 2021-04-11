@@ -1,1 +1,1 @@
-var mnemonic = "evidence eagle sight glance kick surge scissors deliver message bacon limit debate";
+var mnemonic = "arch exchange volcano diet body champion lobster lounge muffin grape lawn village";

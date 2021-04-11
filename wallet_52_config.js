@@ -1,1 +1,1 @@
-var mnemonic = "exist manage ring south spider canvas oppose slab jazz frost pupil loud";
+var mnemonic = "dentist tired giggle artefact damage tiny speed infant weird task orphan save";

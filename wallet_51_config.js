@@ -1,1 +1,1 @@
-var mnemonic = "dirt upset glare diary wing hope thrive sweet edge atom absorb scare";
+var mnemonic = "dust skill pudding risk poverty reform busy loyal capital sing donkey fly";

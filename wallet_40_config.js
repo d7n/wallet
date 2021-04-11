@@ -1,1 +1,1 @@
-var mnemonic = "bitter public pencil romance matter candy auction critic hunt undo weapon wait";
+var mnemonic = "sausage disease winner glow feature judge voyage ball rally govern picnic rug";

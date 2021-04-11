@@ -1,1 +1,1 @@
-var mnemonic = "word cotton chunk orchard cable shiver mirror monitor wedding void ramp bargain";
+var mnemonic = "pig ginger tomorrow soap text coffee art certain shadow skin car puppy";

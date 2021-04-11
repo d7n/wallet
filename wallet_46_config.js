@@ -1,1 +1,1 @@
-var mnemonic = "frequent fire apart miracle name mind version tide erode exhaust bounce fine";
+var mnemonic = "matter neck family absent detect artist enable trophy health when taxi shell";

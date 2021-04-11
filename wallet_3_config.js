@@ -1,1 +1,1 @@
-var mnemonic = "dance where lecture twice angry sand spare crime antenna smile include suffer";
+var mnemonic = "swap adapt soda ordinary float roast refuse enhance better spot issue way";

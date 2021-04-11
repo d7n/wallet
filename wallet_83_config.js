@@ -1,1 +1,1 @@
-var mnemonic = "purchase sketch carbon what connect equal lend skill dwarf worry wall group";
+var mnemonic = "all close anchor vibrant trust wage staff zebra salt bleak creek weird";

@@ -1,1 +1,1 @@
-var mnemonic = "method trumpet beef wire spend upper embody supreme swamp void wear crawl";
+var mnemonic = "robust swing nice mutual whale buzz oval pilot steel december section all";

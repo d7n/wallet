@@ -1,1 +1,1 @@
-var mnemonic = "airport chronic gun review payment creek toward print enroll taste egg speed";
+var mnemonic = "trial stuff link elephant common soup avoid define song damage face believe";

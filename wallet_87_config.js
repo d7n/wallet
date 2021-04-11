@@ -1,1 +1,1 @@
-var mnemonic = "position veteran river arrest name canyon zoo wheel nominee spy squeeze pyramid";
+var mnemonic = "defense kind blush lab noble small chalk insect pupil oxygen cactus people";

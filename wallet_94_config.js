@@ -1,1 +1,1 @@
-var mnemonic = "exact fly kitten main base unaware bring net cause project donor medal";
+var mnemonic = "say art have upper arena solar car adjust mix plastic believe word";

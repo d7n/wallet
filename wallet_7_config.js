@@ -1,1 +1,1 @@
-var mnemonic = "casino employ across parrot token hundred burger secret uncover dog youth patch";
+var mnemonic = "fish opera nasty destroy smoke tiger system hedgehog peace book minute distance";

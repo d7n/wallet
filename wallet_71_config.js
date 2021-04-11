@@ -1,1 +1,1 @@
-var mnemonic = "scan business august heavy final disagree peanut eternal split palace lyrics escape";
+var mnemonic = "flip remind orbit gentle lava history matrix multiply stumble portion away hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "route fuel enemy return hamster cube candy surge sponsor digital melt hammer";
+var mnemonic = "element cover kit sound pause tomato badge spider license electric young obtain";

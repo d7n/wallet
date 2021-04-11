@@ -1,1 +1,1 @@
-var mnemonic = "never six miracle holiday cram mixture filter reunion conduct swallow engine lens";
+var mnemonic = "either gallery appear shield you slight entire worth quiz snake fine enact";

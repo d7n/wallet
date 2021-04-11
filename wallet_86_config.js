@@ -1,1 +1,1 @@
-var mnemonic = "satisfy gift bullet energy odor bid odor property lunch regret sand target";
+var mnemonic = "mad blood virtual feel world hero chaos arrive kit chair yellow design";

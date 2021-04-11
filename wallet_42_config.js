@@ -1,1 +1,1 @@
-var mnemonic = "bracket grief wrist scene stadium admit rookie crush diagram soon surge teach";
+var mnemonic = "purse draw bike rain weasel vault capable quote bundle end improve good";

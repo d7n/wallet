@@ -1,1 +1,1 @@
-var mnemonic = "crystal trigger retire empty fault inch deal ocean spin kingdom palace certain";
+var mnemonic = "aerobic wrong ship silver mandate cost crack brown stamp record behave reject";

@@ -1,1 +1,1 @@
-var mnemonic = "minor fatal ketchup unfold solve since permit cram veteran sword scorpion purse";
+var mnemonic = "unknown book junior sketch gesture journey strong surround material indicate salt above";

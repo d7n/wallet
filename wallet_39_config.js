@@ -1,1 +1,1 @@
-var mnemonic = "metal one anxiety reason either real chalk pepper drift umbrella never elder";
+var mnemonic = "goat father point best degree ball pluck neither habit grow romance lyrics";

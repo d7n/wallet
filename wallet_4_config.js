@@ -1,1 +1,1 @@
-var mnemonic = "first extend paper wild echo hat addict crack exist learn alcohol milk";
+var mnemonic = "dolphin multiply retreat wheat rely divert clay vocal fat movie ensure follow";

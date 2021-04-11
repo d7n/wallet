@@ -1,1 +1,1 @@
-var mnemonic = "nurse column echo cancel gentle empty approve ignore marine must depart possible";
+var mnemonic = "bean cup spend level tired garlic holiday orange lab orbit goat video";

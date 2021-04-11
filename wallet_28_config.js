@@ -1,1 +1,1 @@
-var mnemonic = "pistol spring adjust flush now earn skin clarify lunar bracket lift ghost";
+var mnemonic = "olympic album focus police boost poet struggle cost collect that garment victory";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid slim draw mad bitter crop hover ivory they egg bridge warm";
+var mnemonic = "number post hire disease ankle electric umbrella length learn crew main trust";

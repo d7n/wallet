@@ -1,1 +1,1 @@
-var mnemonic = "priority sentence lava cash potato immense fragile flight tiger ask where execute";
+var mnemonic = "original scorpion dog popular exile coach soup habit monitor body gain skin";

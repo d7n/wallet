@@ -1,1 +1,1 @@
-var mnemonic = "naive toy approve undo echo destroy pledge load item shop chicken frame";
+var mnemonic = "since media elephant cage above merge electric access hundred sister hen guide";

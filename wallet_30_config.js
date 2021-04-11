@@ -1,1 +1,1 @@
-var mnemonic = "sniff rhythm armed path eagle intact reform giraffe clown grocery taste royal";
+var mnemonic = "fun crouch apart sibling observe version course super office hair claw media";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon machine tattoo barrel mammal virus breeze quote best ancient feed pitch";
+var mnemonic = "mouse cancel shy detail write false horror speed scorpion neutral wasp castle";

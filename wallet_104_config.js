@@ -1,1 +1,1 @@
-var mnemonic = "humble onion organ unknown runway way stem raven banana teach perfect strong";
+var mnemonic = "cousin busy drama language sleep sphere usage student fee ring corn sign";

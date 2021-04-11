@@ -1,1 +1,1 @@
-var mnemonic = "lake violin host hammer car exclude usual brother tank squirrel reveal grass";
+var mnemonic = "slam before lecture aim magic broccoli charge hunt ladder reflect idea adapt";

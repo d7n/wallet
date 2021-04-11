@@ -1,1 +1,1 @@
-var mnemonic = "nothing rabbit slam bamboo surge brain novel group potato orphan next almost";
+var mnemonic = "harbor job excuse mimic ability razor nation path trash car test strategy";

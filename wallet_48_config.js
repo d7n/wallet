@@ -1,1 +1,1 @@
-var mnemonic = "hole bike benefit fix cook ahead rich dream fire such float involve";
+var mnemonic = "label lizard comfort immense chimney piano aisle slow chest afraid attitude skill";

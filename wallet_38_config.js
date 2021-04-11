@@ -1,1 +1,1 @@
-var mnemonic = "apple next canvas dove alpha gain cover pilot crystal scheme priority assault";
+var mnemonic = "need armed dizzy cry question emotion banner repeat disorder crystal fog merit";

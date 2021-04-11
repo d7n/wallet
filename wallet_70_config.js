@@ -1,1 +1,1 @@
-var mnemonic = "buffalo arrest sort fade bomb focus mutual net round glimpse dust raven";
+var mnemonic = "this swear supreme trigger filter mistake act ketchup razor wire female toward";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol pear method exit impulse size network nose income stuff lion canvas";
+var mnemonic = "tomorrow nuclear strong judge harbor creek hybrid simple alert oil edge document";

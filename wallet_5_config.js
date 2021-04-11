@@ -1,1 +1,1 @@
-var mnemonic = "cute basket inject correct know baby side lumber board midnight ankle wink";
+var mnemonic = "fortune mean stick link dinosaur capable citizen that flee sure drill similar";

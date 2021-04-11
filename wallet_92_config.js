@@ -1,1 +1,1 @@
-var mnemonic = "carbon company taste immense napkin fade weird foil body talk foster invest";
+var mnemonic = "hill dynamic ball faint embark ceiling woman dash oak another faint grant";

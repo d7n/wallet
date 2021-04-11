@@ -1,1 +1,1 @@
-var mnemonic = "home defy absurd canal cash page critic sting blind appear debris fog";
+var mnemonic = "match toss top leisure slogan daughter nominee original viable adult sugar clown";

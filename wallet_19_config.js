@@ -1,1 +1,1 @@
-var mnemonic = "file luxury ordinary regret target slender cabbage meadow chunk argue comic other";
+var mnemonic = "object unknown body canvas media scrub crouch crack merry tuition today edit";

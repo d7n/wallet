@@ -1,1 +1,1 @@
-var mnemonic = "lens focus correct joy debate muffin two leader stairs coyote skate pony";
+var mnemonic = "shadow also horn balance unfold cheap refuse remember pond spice arrange rotate";

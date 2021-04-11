@@ -1,1 +1,1 @@
-var mnemonic = "end million movie process fix day material retreat appear cotton under flower";
+var mnemonic = "boring check depend door initial urge brush canvas north grit phone fun";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern drastic fish lizard zoo design narrow illegal unique garden push orbit";
+var mnemonic = "trash bubble dial coffee calm eye biology ivory sauce ketchup amazing success";

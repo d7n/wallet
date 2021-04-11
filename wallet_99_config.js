@@ -1,1 +1,1 @@
-var mnemonic = "keep install flower verify anger bargain cash used liberty buyer auction bird";
+var mnemonic = "midnight electric crime bounce lamp lucky library camp copy use sense call";

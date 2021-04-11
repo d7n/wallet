@@ -1,1 +1,1 @@
-var mnemonic = "lunch prefer cigar occur thumb random essay oak expire earn avoid odor";
+var mnemonic = "embody walk honey found pig ritual forward shoot evoke occur sting lawn";

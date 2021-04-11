@@ -1,1 +1,1 @@
-var mnemonic = "plug floor eye notable limb argue flavor web want whale project fitness";
+var mnemonic = "cart find ecology anger yard grain rail cloth bridge attend small body";

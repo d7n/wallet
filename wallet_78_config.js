@@ -1,1 +1,1 @@
-var mnemonic = "heart corn physical sure blood order comfort mirror hill palace earn panic";
+var mnemonic = "charge scale fruit okay arrive level chief rude legal multiply priority design";

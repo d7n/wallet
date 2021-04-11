@@ -1,1 +1,1 @@
-var mnemonic = "flock tank grass sand embrace hedgehog prison train miss keen siege razor";
+var mnemonic = "boss green torch clever frog goose bind one unit review gadget keep";

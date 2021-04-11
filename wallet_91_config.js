@@ -1,1 +1,1 @@
-var mnemonic = "school prefer depend seminar orange soft initial license unfold brand unaware coach";
+var mnemonic = "enroll feel raise wedding axis music kite same silver thrive captain illness";

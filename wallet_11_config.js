@@ -1,1 +1,1 @@
-var mnemonic = "cash area limb position arch grain evoke sight crumble draw venture crater";
+var mnemonic = "amount sand group rival way kangaroo bracket luggage yard scare leg club";
