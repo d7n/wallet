@@ -1,1 +1,1 @@
-var mnemonic = "start say cabbage warfare question erode senior wide parrot cat whisper flavor";
+var mnemonic = "riot pink original victory income sand weekend manual pride mountain alone catch";

@@ -1,1 +1,1 @@
-var mnemonic = "wire science satisfy essence scan clip coral amused dinosaur almost large dentist";
+var mnemonic = "meat sick frost hurdle security shy pupil punch load when labor smile";

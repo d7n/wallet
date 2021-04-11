@@ -1,1 +1,1 @@
-var mnemonic = "add barely snow document prize salmon wear mass gloom dinosaur convince increase";
+var mnemonic = "radar health pencil mushroom fruit inherit indicate recall travel pet crouch chase";

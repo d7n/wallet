@@ -1,1 +1,1 @@
-var mnemonic = "pole inspire grocery index desert sorry purpose animal action favorite switch liar";
+var mnemonic = "setup cube hospital cost blame inch pink system hint battle kingdom chronic";

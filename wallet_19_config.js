@@ -1,1 +1,1 @@
-var mnemonic = "travel you biology proud desk pause fire cement person pave labor toilet";
+var mnemonic = "glad force caught ritual bargain solar easily kind fragile whip syrup scatter";

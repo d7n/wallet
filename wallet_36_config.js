@@ -1,1 +1,1 @@
-var mnemonic = "depart dust brown front swift change pool mix rocket either retire planet";
+var mnemonic = "poverty kitten glory distance hockey defy remember fall lift census battle can";

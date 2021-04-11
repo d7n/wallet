@@ -1,1 +1,1 @@
-var mnemonic = "buyer client drop retire absent tornado pilot mimic staff what walnut provide";
+var mnemonic = "rice arm primary hybrid decrease purse fix viable science meadow captain defense";

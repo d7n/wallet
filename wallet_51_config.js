@@ -1,1 +1,1 @@
-var mnemonic = "dad illegal slice venue cage congress patient another friend magic brown wrap";
+var mnemonic = "since hard artwork lava three say champion castle talent embrace pear toddler";

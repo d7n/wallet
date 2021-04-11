@@ -1,1 +1,1 @@
-var mnemonic = "grant segment usual life awesome there click mail crime minor during room";
+var mnemonic = "oak quantum nose jewel repeat champion museum best victory please fancy amateur";

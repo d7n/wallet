@@ -1,1 +1,1 @@
-var mnemonic = "marble enemy vault work beach age someone fruit thought shove stamp rule";
+var mnemonic = "resource abuse where bronze beef grab dove satoshi range glue theory more";

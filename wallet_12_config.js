@@ -1,1 +1,1 @@
-var mnemonic = "latin dolphin never mind digital smooth segment giggle electric race venue entire";
+var mnemonic = "nuclear minimum wait merit puzzle deliver system whale level vendor bacon primary";

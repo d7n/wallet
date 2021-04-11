@@ -1,1 +1,1 @@
-var mnemonic = "buddy squeeze control alarm type daring forget equip universe square bean dawn";
+var mnemonic = "armed garlic excuse cook file endorse satisfy another shoot alcohol afraid fatal";

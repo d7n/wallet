@@ -1,1 +1,1 @@
-var mnemonic = "agree finger siren retreat squirrel square purity slogan vendor refuse radar radar";
+var mnemonic = "spider amazing hand stand mirror truth echo when average input achieve place";

@@ -1,1 +1,1 @@
-var mnemonic = "regular health bacon million unit rare income put angry tuition wage tonight";
+var mnemonic = "quit rescue erode estate woman guide easily balance oven online squirrel weekend";

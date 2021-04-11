@@ -1,1 +1,1 @@
-var mnemonic = "gossip train miracle junk oyster apart horse tuna quality sun town magnet";
+var mnemonic = "various spice require visit food depth medal casual weasel above salon amazing";

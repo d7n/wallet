@@ -1,1 +1,1 @@
-var mnemonic = "lecture manual wasp enforce jacket engine genre seminar glimpse zoo child lunar";
+var mnemonic = "random sunset evidence snow excuse boring urban screen world raw gentle bar";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant jealous bone master pulse age push cause census wash celery occur";
+var mnemonic = "receive panther rival wheel tray impose art armed word science sight elite";

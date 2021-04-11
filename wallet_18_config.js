@@ -1,1 +1,1 @@
-var mnemonic = "helmet wealth citizen program before kind protect suggest rival pull pottery forget";
+var mnemonic = "person monkey flag tragic artwork universe rigid fiber one type transfer crop";

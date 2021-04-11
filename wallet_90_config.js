@@ -1,1 +1,1 @@
-var mnemonic = "steel artist cycle egg transfer danger hope still outer theme garlic blush";
+var mnemonic = "celery practice hello reduce canyon salt shrimp awkward region radio glove treat";

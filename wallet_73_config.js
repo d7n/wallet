@@ -1,1 +1,1 @@
-var mnemonic = "sorry sing sniff make admit use fold road act elbow piece render";
+var mnemonic = "menu push canoe gown surge neutral fuel isolate innocent glow pumpkin cat";

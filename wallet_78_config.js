@@ -1,1 +1,1 @@
-var mnemonic = "glove unhappy knife sunny angle hello hood river little switch copy square";
+var mnemonic = "acquire heart sad trick muscle ask hope powder rely guilt tribe pitch";

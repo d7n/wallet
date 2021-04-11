@@ -1,1 +1,1 @@
-var mnemonic = "enlist odor pig length ladder rude settle six avoid false tent lottery";
+var mnemonic = "north tail slam flight fish decade box possible filter rib whale debate";

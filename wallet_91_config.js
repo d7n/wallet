@@ -1,1 +1,1 @@
-var mnemonic = "vacant old cradle shrug door memory match layer nut abuse cabbage typical";
+var mnemonic = "suspect vibrant tiger satisfy above frequent fly regret wolf business unusual tennis";

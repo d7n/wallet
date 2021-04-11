@@ -1,1 +1,1 @@
-var mnemonic = "ignore sell cute farm sentence theme dial cloud fan chuckle afford trap";
+var mnemonic = "success hill hill change mystery toilet glue list member provide favorite rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "valve around found army horn team hint tube merry sand stamp hill";
+var mnemonic = "gift cliff arrest comfort fresh sight sausage half melody penalty potato feel";

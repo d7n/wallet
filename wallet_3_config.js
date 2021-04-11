@@ -1,1 +1,1 @@
-var mnemonic = "decide trend pass habit talent hurry over alter impact addict mixed only";
+var mnemonic = "relief gravity tide chimney park current debate across clip give improve uniform";

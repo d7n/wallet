@@ -1,1 +1,1 @@
-var mnemonic = "prefer tragic gate audit worth unaware mammal review business speak fork juice";
+var mnemonic = "law neutral improve vicious equal arena soup sudden media sphere ramp lion";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud segment soccer token bunker under price exotic venue april duty post";
+var mnemonic = "detail oven wool coyote village thing buzz wreck rebel warrior abstract alpha";

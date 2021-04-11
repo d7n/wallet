@@ -1,1 +1,1 @@
-var mnemonic = "receive fatigue this spray check shrug solar clog front note lottery zero";
+var mnemonic = "push radar average fine spin purity alarm aunt lazy stairs abandon stable";

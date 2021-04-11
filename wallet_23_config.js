@@ -1,1 +1,1 @@
-var mnemonic = "require drip hill that reveal borrow choice bid market panel penalty amazing";
+var mnemonic = "purse gallery latin clutch flavor runway border element vanish siege garbage cat";

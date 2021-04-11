@@ -1,1 +1,1 @@
-var mnemonic = "lab sauce rather dash flight crawl eyebrow leader liquid family beauty name";
+var mnemonic = "buddy crew actor marriage estate torch erode orient spring deposit cinnamon flower";

@@ -1,1 +1,1 @@
-var mnemonic = "exact enough fatal bus any wife six hour luxury loan dove panther";
+var mnemonic = "debris wide adjust rigid spoon client cry combine infant cram patrol pause";

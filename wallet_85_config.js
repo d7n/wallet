@@ -1,1 +1,1 @@
-var mnemonic = "dinner sight certain dismiss produce vibrant identify burst badge wet steel first";
+var mnemonic = "index table load alter relief trim buyer garment fame hunt juice evoke";

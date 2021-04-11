@@ -1,1 +1,1 @@
-var mnemonic = "document enter glimpse first payment bench armor lucky inject amazing invest hungry";
+var mnemonic = "solid remain main hunt width luxury pole quantum pipe neck typical sheriff";

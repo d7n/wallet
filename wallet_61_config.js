@@ -1,1 +1,1 @@
-var mnemonic = "trip armed frozen display proud session surface recipe galaxy toy check second";
+var mnemonic = "shell rotate trim return speak reopen urban thought hockey satoshi zone total";

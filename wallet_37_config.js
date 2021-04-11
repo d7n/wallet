@@ -1,1 +1,1 @@
-var mnemonic = "income easily prevent blanket artwork crime install hire submit explain tuna coconut";
+var mnemonic = "play six future photo sleep cushion must truth people coconut buyer carry";

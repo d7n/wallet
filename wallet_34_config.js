@@ -1,1 +1,1 @@
-var mnemonic = "cheese furnace panel resemble merry bitter foam exhaust family dust crouch thrive";
+var mnemonic = "grant jaguar clip occur slab neither cushion dwarf cloth soldier dial once";

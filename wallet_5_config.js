@@ -1,1 +1,1 @@
-var mnemonic = "skull wisdom burger judge forum october wide tired monitor front spot seek";
+var mnemonic = "casino congress beyond judge grocery measure moon soda decline credit harvest garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle top today help debris during shallow vanish borrow tilt high say";
+var mnemonic = "top claim region globe analyst forum during seed chief unlock mad farm";

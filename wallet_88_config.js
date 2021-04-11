@@ -1,1 +1,1 @@
-var mnemonic = "fiction lizard arrive artwork royal bless enemy long season chunk light squirrel";
+var mnemonic = "few stone baby trip social hammer athlete despair whisper flock eyebrow flee";

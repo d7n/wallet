@@ -1,1 +1,1 @@
-var mnemonic = "town garlic eyebrow distance mesh hundred coffee engine now situate youth stereo";
+var mnemonic = "carpet have rice grit valid arrange barrel detect ostrich spy clog endorse";

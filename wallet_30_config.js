@@ -1,1 +1,1 @@
-var mnemonic = "reveal boy minute immense toe service garbage van worry correct bonus project";
+var mnemonic = "hero asset earth exact slab sponsor place wrestle hammer anger horror grunt";

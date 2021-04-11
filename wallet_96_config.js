@@ -1,1 +1,1 @@
-var mnemonic = "deliver donate twice hill recipe calm cook cushion lesson miss capital fun";
+var mnemonic = "pool armed inhale name crew sausage spider obscure oak noise mosquito hover";

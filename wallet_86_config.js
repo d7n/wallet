@@ -1,1 +1,1 @@
-var mnemonic = "prison nut slab hole damage spin dune hidden penalty swift cancel heavy";
+var mnemonic = "upset ridge total awkward jeans cute razor exist evidence rule sword apology";

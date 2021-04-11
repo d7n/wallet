@@ -1,1 +1,1 @@
-var mnemonic = "void second despair island jar proof pioneer rate elephant black mistake unable";
+var mnemonic = "awful heart stomach logic gift always demise diagram prize knee car cross";

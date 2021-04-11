@@ -1,1 +1,1 @@
-var mnemonic = "burst panic foot cube excess lens nuclear omit cave anger oil ten";
+var mnemonic = "hood midnight soldier country hockey olive grow cream vacuum laptop actor foil";

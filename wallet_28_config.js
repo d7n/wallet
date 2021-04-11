@@ -1,1 +1,1 @@
-var mnemonic = "elite stairs inform token danger little athlete ignore usual kidney fat zero";
+var mnemonic = "during sweet cage glance plug silent void rare sheriff belt devote dress";

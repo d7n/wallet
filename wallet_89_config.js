@@ -1,1 +1,1 @@
-var mnemonic = "innocent crash cannon actual habit image return ahead fortune keep wink supply";
+var mnemonic = "area family chase neutral enlist super napkin okay human silent elder riot";

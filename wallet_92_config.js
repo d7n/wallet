@@ -1,1 +1,1 @@
-var mnemonic = "material payment furnace hour pair length life fabric trial safe cart foam";
+var mnemonic = "inform tomorrow cycle blossom ensure sudden become actress cream case filter basic";

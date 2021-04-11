@@ -1,1 +1,1 @@
-var mnemonic = "merge false hotel decrease erode wife space cave very slot slam work";
+var mnemonic = "boy forum lizard ancient hurdle bamboo tooth stadium office recall suggest wild";

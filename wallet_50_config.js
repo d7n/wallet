@@ -1,1 +1,1 @@
-var mnemonic = "enter casual unable empower arrest copper ten check hidden busy obey endorse";
+var mnemonic = "essence spread fence ostrich capital brisk swallow sun pudding arch run labor";

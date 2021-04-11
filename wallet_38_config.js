@@ -1,1 +1,1 @@
-var mnemonic = "issue stomach reveal first fish recall unique cook myself autumn rule raise";
+var mnemonic = "wheat blue marriage grocery biology cloud gravity allow final apart envelope web";

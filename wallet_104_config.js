@@ -1,1 +1,1 @@
-var mnemonic = "give depend person sphere shoulder winter cinnamon earth fly silver tree kingdom";
+var mnemonic = "few predict know panel choose sentence fruit dress attract shield crush off";

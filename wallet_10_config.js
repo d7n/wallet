@@ -1,1 +1,1 @@
-var mnemonic = "logic pill vocal journey escape sniff define alien visual mail glory slender";
+var mnemonic = "airport topic liquid turkey arrive nuclear fat stumble segment rebuild second marine";

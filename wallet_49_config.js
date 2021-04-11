@@ -1,1 +1,1 @@
-var mnemonic = "emotion right brother circle zoo empower cycle cycle left pool tiny woman";
+var mnemonic = "pitch illegal stereo devote roast able pencil answer test quit cabbage orange";

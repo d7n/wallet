@@ -1,1 +1,1 @@
-var mnemonic = "flash destroy atom hospital mountain boring treat nest flat twist wrap vapor";
+var mnemonic = "kitten vast monitor quick garlic answer school rubber pulse conduct put payment";

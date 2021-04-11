@@ -1,1 +1,1 @@
-var mnemonic = "orbit trumpet derive dial help wonder jelly party risk cream hill cement";
+var mnemonic = "oval road elder cruel blade hole shove peasant family provide clump arrange";

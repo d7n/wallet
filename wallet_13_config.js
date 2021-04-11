@@ -1,1 +1,1 @@
-var mnemonic = "crucial front advance swing demise grab canvas yellow hobby layer park measure";
+var mnemonic = "spatial robust betray drastic maid mind hair rabbit doll produce measure punch";

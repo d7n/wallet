@@ -1,1 +1,1 @@
-var mnemonic = "scale jaguar inch call rival cargo scissors tomorrow meat crowd setup material";
+var mnemonic = "mask barely naive hen visit promote admit flame edit option south half";

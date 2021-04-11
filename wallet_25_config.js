@@ -1,1 +1,1 @@
-var mnemonic = "alarm recipe dentist dice often little scare west ribbon logic corn portion";
+var mnemonic = "divide season maple nerve flower version dune loan park know legal deny";

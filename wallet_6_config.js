@@ -1,1 +1,1 @@
-var mnemonic = "cabbage faint grid giraffe mansion carbon mom kid patrol gesture merit penalty";
+var mnemonic = "giant miss question dynamic huge call burger island bridge atom soup world";

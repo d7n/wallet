@@ -1,1 +1,1 @@
-var mnemonic = "vicious used cancel elbow motor code pass fat subway trick oven unusual";
+var mnemonic = "toast scout oyster maid fall process put denial absent exile guard label";

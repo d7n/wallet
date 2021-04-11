@@ -1,1 +1,1 @@
-var mnemonic = "great guide bar sad table vivid lazy boost indicate feed canvas trial";
+var mnemonic = "hip blue humor social sheriff advance hawk fragile switch radar panic license";

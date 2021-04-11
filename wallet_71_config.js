@@ -1,1 +1,1 @@
-var mnemonic = "express example clay coach gravity guilt relax repair mansion put sample fork";
+var mnemonic = "toy monkey author south segment tiny loan clump tent remain hero scatter";

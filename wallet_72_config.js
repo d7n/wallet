@@ -1,1 +1,1 @@
-var mnemonic = "alcohol demand hello hover damp uniform modify crumble exhaust economy enroll fish";
+var mnemonic = "bridge inner pull pattern victory giggle north elegant extra wing food crowd";

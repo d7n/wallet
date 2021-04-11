@@ -1,1 +1,1 @@
-var mnemonic = "luggage only service crucial rate round notable spike win eternal wage into";
+var mnemonic = "famous monitor junior silent cushion night intact salute extra hair merry dice";

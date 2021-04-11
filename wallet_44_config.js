@@ -1,1 +1,1 @@
-var mnemonic = "slim luggage stock edge bus fee code unfair approve angry filter axis";
+var mnemonic = "chunk glance confirm rib mosquito wear before stadium draw loud monkey party";

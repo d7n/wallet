@@ -1,1 +1,1 @@
-var mnemonic = "regular rib tiger sight resource dial clerk orient night rate empower sure";
+var mnemonic = "coil jaguar museum soul lift junk absent throw you nation mixed planet";

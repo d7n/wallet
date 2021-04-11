@@ -1,1 +1,1 @@
-var mnemonic = "ticket close observe kiss share jaguar square air thrive fame capable scatter";
+var mnemonic = "plunge student neglect body rich afford melody turtle enact finger throw okay";

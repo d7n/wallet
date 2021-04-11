@@ -1,1 +1,1 @@
-var mnemonic = "clever recycle public hub inject furnace end odor maze medal slow ritual";
+var mnemonic = "bus photo raw boost tilt sing gasp pottery luxury audit hedgehog odor";

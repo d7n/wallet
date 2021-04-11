@@ -1,1 +1,1 @@
-var mnemonic = "season leave mushroom strong industry describe penalty flag develop before interest bind";
+var mnemonic = "any puppy fabric abandon zoo pool castle ride ignore holiday enact arrow";

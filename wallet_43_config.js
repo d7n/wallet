@@ -1,1 +1,1 @@
-var mnemonic = "dove devote save slight swamp able dragon sun oyster tribe elevator vacant";
+var mnemonic = "miracle dress receive torch obtain follow rack essence law bless immense thought";

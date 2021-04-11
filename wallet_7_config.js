@@ -1,1 +1,1 @@
-var mnemonic = "illegal skill upper tent thank transfer math image input dutch custom immune";
+var mnemonic = "shiver curtain link because congress venue total recycle slide city barely clay";

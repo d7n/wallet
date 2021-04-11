@@ -1,1 +1,1 @@
-var mnemonic = "about ankle raven hazard mixture impose pact wing engine cotton material curious";
+var mnemonic = "brisk super flash aunt picnic cause pond wrist update turtle setup six";

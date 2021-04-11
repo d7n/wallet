@@ -1,1 +1,1 @@
-var mnemonic = "between believe absurd answer toddler neither right meadow husband leaf rebel mushroom";
+var mnemonic = "wrong fragile accuse addict fade narrow scrub acoustic luxury amount mansion tool";

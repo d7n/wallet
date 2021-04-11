@@ -1,1 +1,1 @@
-var mnemonic = "antenna antenna antenna traffic forest tattoo silk patch ability order moment cup";
+var mnemonic = "memory theory vacuum banana wrestle frog bubble quarter shove near age enable";

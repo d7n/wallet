@@ -1,1 +1,1 @@
-var mnemonic = "increase duck marriage sand sight fiction order photo essay man exist minor";
+var mnemonic = "genre grow traffic describe approve fetch cash weekend head aspect panda car";

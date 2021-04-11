@@ -1,1 +1,1 @@
-var mnemonic = "people name post own keen ice cat congress pledge winner bacon dust";
+var mnemonic = "owner rack tackle harsh cherry borrow waste royal siren drop road mention";

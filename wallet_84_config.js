@@ -1,1 +1,1 @@
-var mnemonic = "pact collect prosper cream profit soldier divert tourist electric casino theme clerk";
+var mnemonic = "name kind sadness whale desert mention brass trash tired video power asset";

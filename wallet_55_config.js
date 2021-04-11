@@ -1,1 +1,1 @@
-var mnemonic = "tortoise cry matrix glad crazy omit fortune onion mean brief spawn unaware";
+var mnemonic = "flavor moral cargo jelly diary penalty devote bright merit rich ability multiply";

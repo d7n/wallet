@@ -1,1 +1,1 @@
-var mnemonic = "equal length proud funny grace length uphold east until grape fold mobile";
+var mnemonic = "forget aware romance sing artist muscle ski fetch bicycle math layer sea";

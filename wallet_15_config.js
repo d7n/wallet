@@ -1,1 +1,1 @@
-var mnemonic = "access raise casino distance fade result kid now device clock goose stone";
+var mnemonic = "pizza alcohol flock economy trend diary faint approve evoke grocery jaguar small";

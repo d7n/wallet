@@ -1,1 +1,1 @@
-var mnemonic = "family join guess hood script subway spread post hurdle wink adult pink";
+var mnemonic = "display ethics differ popular noise van raccoon luggage thought split nation visual";

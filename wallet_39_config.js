@@ -1,1 +1,1 @@
-var mnemonic = "tape surprise glow feed mountain girl panther silk post toy govern lend";
+var mnemonic = "balance quantum special empower summer often dish ahead dutch bid midnight foil";

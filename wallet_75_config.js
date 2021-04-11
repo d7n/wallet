@@ -1,1 +1,1 @@
-var mnemonic = "glue reflect draft draft solid grow cycle talk reunion crawl bless upset";
+var mnemonic = "typical vacuum sniff weather time deliver inflict farm perfect gym hurt enjoy";

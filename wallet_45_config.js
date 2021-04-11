@@ -1,1 +1,1 @@
-var mnemonic = "floor visual acquire weather leave matter viable utility one rigid embody lazy";
+var mnemonic = "debate trick actor draft jaguar used cave man replace hurry educate real";

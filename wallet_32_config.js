@@ -1,1 +1,1 @@
-var mnemonic = "grace blouse mass wash used hamster they canvas coconut found rib document";
+var mnemonic = "six feature cargo enough element hint chronic uniform estate tiny dirt bamboo";

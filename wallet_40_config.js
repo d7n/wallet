@@ -1,1 +1,1 @@
-var mnemonic = "license dignity hip nuclear skull dumb visit develop snake kidney advance mad";
+var mnemonic = "faculty foil verify soda output place bulb begin mention keen summer cupboard";

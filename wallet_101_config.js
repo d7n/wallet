@@ -1,1 +1,1 @@
-var mnemonic = "oak round where fix valve fringe topple rally dial tumble cycle wire";
+var mnemonic = "lock truly crew young wasp measure hospital erosion possible spider stool copy";

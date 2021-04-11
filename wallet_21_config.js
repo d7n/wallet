@@ -1,1 +1,1 @@
-var mnemonic = "salt aim toy choose motion thunder prevent vast leisure fiber fresh catch";
+var mnemonic = "usage fold fade concert off marble repair script flush token gas try";
