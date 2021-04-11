@@ -1,1 +1,1 @@
-var mnemonic = "brisk result torch twenty bamboo put yard south ankle crisp acquire portion";
+var mnemonic = "range nominee evidence happy any provide cupboard arrive idle lecture carbon sorry";

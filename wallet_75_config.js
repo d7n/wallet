@@ -1,1 +1,1 @@
-var mnemonic = "convince biology any gossip ready diet body mystery absent basic foster design";
+var mnemonic = "faith thought slab peasant frost kite enact pulse box security dynamic allow";

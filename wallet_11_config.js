@@ -1,1 +1,1 @@
-var mnemonic = "myself first uphold finish oblige oven celery harvest fiction input basic frame";
+var mnemonic = "shuffle jungle saddle title mom double donate wide grape protect coconut worth";

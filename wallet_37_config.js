@@ -1,1 +1,1 @@
-var mnemonic = "frost pink vehicle deliver car brisk viable erase spice valley welcome galaxy";
+var mnemonic = "home mass drill next curve canyon snow produce fluid salon aware adult";

@@ -1,1 +1,1 @@
-var mnemonic = "problem tennis tell distance runway swamp pool glad pistol media angry tape";
+var mnemonic = "arrow pencil evolve share culture swamp armor sun rebuild skirt just goose";

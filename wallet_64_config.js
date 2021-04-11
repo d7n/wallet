@@ -1,1 +1,1 @@
-var mnemonic = "use minimum fish appear mobile mule dinner antique opera buddy goose fault";
+var mnemonic = "dutch pig bomb view document still badge code skirt inch plug cross";

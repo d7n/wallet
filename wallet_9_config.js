@@ -1,1 +1,1 @@
-var mnemonic = "zebra slow tube brown silk distance hybrid device pumpkin curtain fashion camera";
+var mnemonic = "mystery fever wheat bachelor stand luggage coconut vital actual worry name deny";

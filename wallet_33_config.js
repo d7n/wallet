@@ -1,1 +1,1 @@
-var mnemonic = "garment that coast robust success road chest just adjust diary symptom wool";
+var mnemonic = "hurt parrot menu seminar grief awful replace asset van grace crowd either";

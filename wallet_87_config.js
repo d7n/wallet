@@ -1,1 +1,1 @@
-var mnemonic = "ozone opinion venture design ticket penalty winner silly horn seminar anchor network";
+var mnemonic = "prison stem reunion home sting casual powder cherry bunker water giggle dad";

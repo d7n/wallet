@@ -1,1 +1,1 @@
-var mnemonic = "this trash frog joy mention link nuclear solution champion photo mystery pizza";
+var mnemonic = "street biology shield fold talk express slab coconut issue easy anger market";

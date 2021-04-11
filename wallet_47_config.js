@@ -1,1 +1,1 @@
-var mnemonic = "sudden fly oblige daughter gold smile zebra maple uphold end few uphold";
+var mnemonic = "piece history garage point train seminar race now eyebrow blush bird bag";

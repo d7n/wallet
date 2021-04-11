@@ -1,1 +1,1 @@
-var mnemonic = "enlist deposit unveil sting million team blush midnight lamp demise lunar female";
+var mnemonic = "foam good rose rose tennis decide meadow orient visit tourist decide traffic";

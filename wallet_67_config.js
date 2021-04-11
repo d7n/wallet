@@ -1,1 +1,1 @@
-var mnemonic = "cart crystal shy captain hotel need squirrel book pelican piece census earn";
+var mnemonic = "wave expire remember worth subway path practice seat firm expect together trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "feel fog air nuclear bean poem proud leaf decline curtain lawsuit frog";
+var mnemonic = "patch wine clip bargain fan honey idea sort shrug hollow damp whale";

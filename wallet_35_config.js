@@ -1,1 +1,1 @@
-var mnemonic = "discover top first smooth pioneer ahead aisle stay vehicle verify organ midnight";
+var mnemonic = "bacon fox match van uphold pear define travel amateur roof cart judge";

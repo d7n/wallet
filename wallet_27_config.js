@@ -1,1 +1,1 @@
-var mnemonic = "exact cram adult glove buzz naive pizza lunch honey agent vintage slab";
+var mnemonic = "wave cherry crucial crystal put sweet access scout bitter nephew cattle sight";

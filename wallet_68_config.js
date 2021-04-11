@@ -1,1 +1,1 @@
-var mnemonic = "spread ability blood beach immune clever green field jeans harvest gate enemy";
+var mnemonic = "lucky repair trial mistake clown special creek pact hero street jeans scout";

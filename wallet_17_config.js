@@ -1,1 +1,1 @@
-var mnemonic = "employ crystal matrix muffin rotate pizza into hungry thank traffic claim decrease";
+var mnemonic = "lottery promote ramp fly faculty nut scorpion hood orchard athlete motor path";

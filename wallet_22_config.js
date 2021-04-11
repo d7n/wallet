@@ -1,1 +1,1 @@
-var mnemonic = "clown letter thunder require whale melody prefer strike wolf essay debris recipe";
+var mnemonic = "source segment eternal scorpion chuckle donkey beach good spike mouse nurse club";

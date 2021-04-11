@@ -1,1 +1,1 @@
-var mnemonic = "shrimp depend keep urban remember thank company about hill lottery erosion garment";
+var mnemonic = "have allow umbrella coral sustain color exile guard tornado dry stumble unique";

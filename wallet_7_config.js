@@ -1,1 +1,1 @@
-var mnemonic = "wet report breeze race betray what manage deer sudden nerve fun roof";
+var mnemonic = "lazy avocado amount sniff outdoor repair heavy process rich install question piano";

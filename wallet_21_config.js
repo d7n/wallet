@@ -1,1 +1,1 @@
-var mnemonic = "find fresh pitch aim system window scrub worth isolate crack clever neck";
+var mnemonic = "ill manage police federal opinion enjoy hedgehog liar address churn focus involve";

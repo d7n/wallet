@@ -1,1 +1,1 @@
-var mnemonic = "once hand float desert swarm vanish tissue sorry write ranch distance sphere";
+var mnemonic = "person theory cushion erupt find require lizard pole swift curtain metal rent";

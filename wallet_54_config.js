@@ -1,1 +1,1 @@
-var mnemonic = "knife half brave leave ozone sunny drum hotel cheese net liar fringe";
+var mnemonic = "fantasy foster issue know census ability door scissors sibling upper inmate able";

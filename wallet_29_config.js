@@ -1,1 +1,1 @@
-var mnemonic = "exile patch drive great sense endorse have theory ship type spirit outdoor";
+var mnemonic = "inquiry sniff pigeon task decrease write creek case illegal circle canvas fresh";

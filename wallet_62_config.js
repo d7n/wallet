@@ -1,1 +1,1 @@
-var mnemonic = "mesh treat noise rich vague warm spot pudding size host source maid";
+var mnemonic = "asset stay around between endless tobacco urban effort glide recall shiver winter";

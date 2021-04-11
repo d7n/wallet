@@ -1,1 +1,1 @@
-var mnemonic = "unusual high magnet setup royal bunker solar ask country nose super crater";
+var mnemonic = "giant lunch puzzle diamond wink west pistol grocery enhance expand arena strategy";

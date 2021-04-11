@@ -1,1 +1,1 @@
-var mnemonic = "obscure draw laundry champion before rival gate round gift label throw ritual";
+var mnemonic = "unhappy park fatigue avoid scrub forum funny afraid circle laptop thank satisfy";

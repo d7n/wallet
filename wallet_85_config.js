@@ -1,1 +1,1 @@
-var mnemonic = "siren canoe chat dismiss pattern fresh deer session give dream front track";
+var mnemonic = "youth slide forum annual paddle flower humor chair obey inflict goddess champion";

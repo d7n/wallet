@@ -1,1 +1,1 @@
-var mnemonic = "deputy awkward oval refuse dentist spy exile blame celery hair weather empower";
+var mnemonic = "music visa iron mother wasp library safe shaft enforce mix hard foam";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel social stand exotic punch return entry hat pitch question local soldier";
+var mnemonic = "erase borrow medal soccer local vessel whip milk city stock wrap excite";

@@ -1,1 +1,1 @@
-var mnemonic = "animal crop match cup twice swim surge suit bargain tower capital car";
+var mnemonic = "plunge right guilt august refuse canvas erode party robot poet habit fall";

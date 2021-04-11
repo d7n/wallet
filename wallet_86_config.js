@@ -1,1 +1,1 @@
-var mnemonic = "tobacco release veteran shoulder sustain defy canal globe truly fit accident hybrid";
+var mnemonic = "intact inch boring poverty fury icon speak relief give tomato execute curtain";

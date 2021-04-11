@@ -1,1 +1,1 @@
-var mnemonic = "dismiss bone floor service east romance donate life melt enable champion industry";
+var mnemonic = "budget another morning split lizard surprise buyer immune earth unhappy accident general";

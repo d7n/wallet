@@ -1,1 +1,1 @@
-var mnemonic = "correct universe replace orphan miracle powder clump mansion flip beauty lift runway";
+var mnemonic = "stage fancy hero decrease index local jelly scare hotel body fly original";

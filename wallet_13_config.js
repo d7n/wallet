@@ -1,1 +1,1 @@
-var mnemonic = "indicate come caution marriage horn wife pencil south early stove diagram task";
+var mnemonic = "load chair rabbit mask bounce liquid design master hood crane bring length";

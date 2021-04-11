@@ -1,1 +1,1 @@
-var mnemonic = "tennis hire text grace cream nest dish patch student coach sample zoo";
+var mnemonic = "pair tilt license system equal whisper hundred forget sound tide type artist";

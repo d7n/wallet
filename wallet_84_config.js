@@ -1,1 +1,1 @@
-var mnemonic = "kite tell caught piece famous pride manage eternal success delay picnic mail";
+var mnemonic = "regular rice mother yard feature music nasty athlete bean token orient night";

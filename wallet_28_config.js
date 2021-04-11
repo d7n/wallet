@@ -1,1 +1,1 @@
-var mnemonic = "stamp neglect spirit nerve damage chimney foster chef absorb gospel atom hold";
+var mnemonic = "symptom primary april slam velvet erode pencil coconut sign enrich figure repair";

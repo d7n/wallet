@@ -1,1 +1,1 @@
-var mnemonic = "glass shell endorse close century foot actor north humor cruel rocket come";
+var mnemonic = "great cram labor another endless priority must weird once slim review worry";

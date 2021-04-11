@@ -1,1 +1,1 @@
-var mnemonic = "surface river amateur drill motor uncover crisp never corn magic analyst someone";
+var mnemonic = "silent brain citizen cement phone spell rain differ snow life uniform valid";

@@ -1,1 +1,1 @@
-var mnemonic = "wing popular fantasy merry saddle bean pattern toast gravity cabbage desk hidden";
+var mnemonic = "melt myself relief pond east bacon illegal armed canyon nuclear merge daughter";

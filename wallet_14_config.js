@@ -1,1 +1,1 @@
-var mnemonic = "elbow volcano harvest spin south adjust strategy crouch vivid peace intact beauty";
+var mnemonic = "maximum exile key replace sock frost month any leg awesome skull print";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve erupt cherry blue diet genuine eternal farm later reveal lyrics spawn";
+var mnemonic = "egg grit second exist reflect fit vehicle sister local drive hamster muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "choose woman knock leader purse clog morning grocery solid odor decide bread";
+var mnemonic = "volume similar fortune joy select thumb seat host output robust confirm dust";

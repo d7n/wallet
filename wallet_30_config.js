@@ -1,1 +1,1 @@
-var mnemonic = "holiday dentist earn outer orchard valve kingdom random filter hen egg repair";
+var mnemonic = "bonus innocent valve mansion insane traffic shock advice spin void spoil injury";

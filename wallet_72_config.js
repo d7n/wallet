@@ -1,1 +1,1 @@
-var mnemonic = "resource jeans neck diesel raw access core banana point frozen focus swarm";
+var mnemonic = "napkin trip begin mutual treat girl shield flee program rival charge elbow";

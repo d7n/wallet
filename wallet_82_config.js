@@ -1,1 +1,1 @@
-var mnemonic = "enroll furnace sick future vanish patch mention banner dad echo rally demand";
+var mnemonic = "sauce glare prosper matter again craft wreck fee churn door idea remain";

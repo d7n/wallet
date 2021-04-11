@@ -1,1 +1,1 @@
-var mnemonic = "kitten grief raccoon frog clog know pool main gloom trick talent lunch";
+var mnemonic = "adapt tide order surface hurt mother decrease blue tackle sense negative agree";

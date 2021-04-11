@@ -1,1 +1,1 @@
-var mnemonic = "where marine small equal business bottom surface asset okay erosion shiver lounge";
+var mnemonic = "clog fold car nose polar buffalo inherit pool kick off next civil";

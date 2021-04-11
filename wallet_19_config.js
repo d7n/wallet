@@ -1,1 +1,1 @@
-var mnemonic = "opinion attend fantasy embrace nurse bullet render retreat lizard fade until reason";
+var mnemonic = "virtual wrestle custom hidden web culture expect ability donate execute love illegal";

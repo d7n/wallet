@@ -1,1 +1,1 @@
-var mnemonic = "square media ability pioneer glimpse subway awake anxiety lyrics ancient salad churn";
+var mnemonic = "crystal input face coral stadium guard improve crush combine hybrid asthma dial";

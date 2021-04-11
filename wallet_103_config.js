@@ -1,1 +1,1 @@
-var mnemonic = "shoot joy diesel loan law drift crunch police sudden human sugar conduct";
+var mnemonic = "trick general supply teach sight execute grief palm false frequent note winner";

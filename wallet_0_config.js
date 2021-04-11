@@ -1,1 +1,1 @@
-var mnemonic = "control speed clarify walnut buzz supply canoe robot opinion forget mail flame";
+var mnemonic = "day topple cactus initial argue curtain dose what labor ancient gaze lion";

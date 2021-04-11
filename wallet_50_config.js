@@ -1,1 +1,1 @@
-var mnemonic = "still pluck nephew tuna sweet hurdle wheel above cart salute shuffle ketchup";
+var mnemonic = "loan census decrease excuse garment abuse eight bubble color path fossil culture";

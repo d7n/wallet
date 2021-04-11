@@ -1,1 +1,1 @@
-var mnemonic = "climb finger salute beyond enjoy beyond shrug frown nasty text accident card";
+var mnemonic = "trap cake trigger wheel miracle project talk tag powder pigeon clock bright";

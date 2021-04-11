@@ -1,1 +1,1 @@
-var mnemonic = "member riot total mobile erosion hawk sheriff draw tape way ritual slow";
+var mnemonic = "ivory sunset process umbrella husband fashion caution injury dash idle rigid diamond";

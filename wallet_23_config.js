@@ -1,1 +1,1 @@
-var mnemonic = "rail circle course parade green argue spoon adjust issue immense verify crunch";
+var mnemonic = "athlete cart bullet burger angle oval leader canyon family shine nominee meat";

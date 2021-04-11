@@ -1,1 +1,1 @@
-var mnemonic = "gadget shop require topic night razor gravity caution raise taste swamp bitter";
+var mnemonic = "member round network just broccoli focus dynamic strategy neutral ability tongue flush";

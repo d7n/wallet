@@ -1,1 +1,1 @@
-var mnemonic = "budget thunder arrive invest skull promote slice over crunch decline refuse public";
+var mnemonic = "fault fox merit faint canoe loud quiz size museum omit culture harbor";

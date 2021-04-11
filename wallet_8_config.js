@@ -1,1 +1,1 @@
-var mnemonic = "rule expect true vivid evolve until orphan client morning vast purse hero";
+var mnemonic = "box chaos quantum approve rubber asset view vacant window toward pond cheese";

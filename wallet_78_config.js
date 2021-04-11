@@ -1,1 +1,1 @@
-var mnemonic = "wheel energy turtle quiz chef battle jeans trumpet drop myself chest absurd";
+var mnemonic = "fire rebuild permit lab whisper window slow tuition invite exercise cute trust";

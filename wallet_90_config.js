@@ -1,1 +1,1 @@
-var mnemonic = "essence item rural drill sail used marriage abstract armed rebel mesh kite";
+var mnemonic = "scan cable autumn snow team nerve law impose thumb cover soul into";

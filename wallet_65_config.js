@@ -1,1 +1,1 @@
-var mnemonic = "leisure season congress race quarter gorilla cruel auto today depth recycle hamster";
+var mnemonic = "damage cluster estate middle polar swear horror actor mouse then rebuild point";

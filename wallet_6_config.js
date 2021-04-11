@@ -1,1 +1,1 @@
-var mnemonic = "employ finger truth female gown cattle gain prosper chair uncover among apart";
+var mnemonic = "nose afford vicious champion dry suspect again night language clump dawn collect";

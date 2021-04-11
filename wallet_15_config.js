@@ -1,1 +1,1 @@
-var mnemonic = "brass vivid jungle column august giraffe silver system cabbage age fence system";
+var mnemonic = "news fancy squeeze memory lesson disorder hire session deal pulp fence gentle";

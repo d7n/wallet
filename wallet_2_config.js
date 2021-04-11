@@ -1,1 +1,1 @@
-var mnemonic = "soda adult grape frame zebra attack olympic flush bread angry scheme heart";
+var mnemonic = "employ enforce tray balcony hard ridge dirt stock magic fluid protect cereal";

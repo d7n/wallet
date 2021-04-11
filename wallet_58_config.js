@@ -1,1 +1,1 @@
-var mnemonic = "dove main step push artefact ensure egg result gift excess cook call";
+var mnemonic = "travel pudding unique keep sponsor defy twin ugly miracle twenty glow category";

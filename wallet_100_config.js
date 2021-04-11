@@ -1,1 +1,1 @@
-var mnemonic = "void gas crunch tooth tonight large deny winter mention toddler broom wreck";
+var mnemonic = "foam rib february margin town home recycle chalk scorpion fresh until rude";

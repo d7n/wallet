@@ -1,1 +1,1 @@
-var mnemonic = "industry misery struggle lazy assume ugly grow clinic limb coral tired huge";
+var mnemonic = "coast carbon ugly ice boost wall hidden party hold truly mushroom grit";

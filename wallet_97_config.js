@@ -1,1 +1,1 @@
-var mnemonic = "survey verify mail tower select unveil gather meadow wink video unaware describe";
+var mnemonic = "fruit broken universe favorite dumb rural defense decline federal sad polar jealous";

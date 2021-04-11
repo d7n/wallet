@@ -1,1 +1,1 @@
-var mnemonic = "duty improve home float wink talk skate practice rabbit deal wait finger";
+var mnemonic = "list habit journey grant profit aim accuse report limit never magnet buddy";

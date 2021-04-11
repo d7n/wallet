@@ -1,1 +1,1 @@
-var mnemonic = "cross unusual urban blast shrimp outside canoe club relax swear silent jazz";
+var mnemonic = "glare fly kingdom void gift area also include warrior cost patient strong";

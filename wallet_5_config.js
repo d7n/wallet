@@ -1,1 +1,1 @@
-var mnemonic = "please slice pistol copy render blast mandate online enable cave material monkey";
+var mnemonic = "august crumble easy tooth mountain virtual gallery bar filter slight ethics auction";

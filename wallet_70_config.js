@@ -1,1 +1,1 @@
-var mnemonic = "ticket upper parade defy engine energy rifle dynamic link assume sort clap";
+var mnemonic = "result welcome moment busy swing motor inquiry dragon warrior accident shoulder impact";

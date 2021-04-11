@@ -1,1 +1,1 @@
-var mnemonic = "deer forward dismiss source puzzle elite bulb unusual key squirrel front absent";
+var mnemonic = "young label father dinner when size pet float scissors useful child mirror";

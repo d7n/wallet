@@ -1,1 +1,1 @@
-var mnemonic = "milk latin script grow mosquito grow shell enemy window skin uncle night";
+var mnemonic = "scale pause mobile floor vivid salmon crazy father cinnamon pumpkin ankle reunion";

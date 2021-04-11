@@ -1,1 +1,1 @@
-var mnemonic = "elite fever submit purity desert reject spend twin isolate neutral basic any";
+var mnemonic = "peanut reopen animal move fancy enhance speak relief flash manage they vendor";

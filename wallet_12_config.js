@@ -1,1 +1,1 @@
-var mnemonic = "album legend much area sure session need income page welcome vicious loyal";
+var mnemonic = "notable mix render agent dial keep pistol often symptom ecology quit raise";

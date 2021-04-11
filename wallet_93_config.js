@@ -1,1 +1,1 @@
-var mnemonic = "robust choose minimum shove kingdom side lens vague home lecture exercise tragic";
+var mnemonic = "arrange close build social length guess tape fashion juice tattoo inner cry";
