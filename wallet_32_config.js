@@ -1,1 +1,1 @@
-var mnemonic = "flavor stomach dry artist physical level beyond collect cabin nothing flush dust";
+var mnemonic = "soldier grain brisk story fold whale effort vessel category catch fish sight";

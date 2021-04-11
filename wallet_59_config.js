@@ -1,1 +1,1 @@
-var mnemonic = "obvious body finger run danger kingdom grit level escape exact suggest about";
+var mnemonic = "clay buddy noise glimpse color exile impulse acoustic obscure black hollow matter";

@@ -1,1 +1,1 @@
-var mnemonic = "worry charge eye practice course other draft home media city one drastic";
+var mnemonic = "stadium door reduce sell clutch shrug emerge fuel fish control floor toy";

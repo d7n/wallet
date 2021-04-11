@@ -1,1 +1,1 @@
-var mnemonic = "access wage much energy key deposit try shuffle cement deny door unusual";
+var mnemonic = "category farm jeans fatigue enter record vessel honey north light skin network";

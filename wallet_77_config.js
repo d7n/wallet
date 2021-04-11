@@ -1,1 +1,1 @@
-var mnemonic = "legend chair hunt lift olympic rule subway summer insect legal organ limb";
+var mnemonic = "faith trust panic settle strong auto ticket decline canal salad long guide";

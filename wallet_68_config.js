@@ -1,1 +1,1 @@
-var mnemonic = "onion gauge stone elevator cement cancel number isolate visual exact hazard sad";
+var mnemonic = "rib favorite sing zone waste scare love industry zebra scheme ride inspire";

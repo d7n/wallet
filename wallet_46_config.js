@@ -1,1 +1,1 @@
-var mnemonic = "tank gossip staff elbow present unaware brown photo pistol cricket fitness then";
+var mnemonic = "trophy under roast slam summer razor cushion asset average dignity accident access";

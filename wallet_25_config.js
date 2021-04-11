@@ -1,1 +1,1 @@
-var mnemonic = "pig exhibit step urban elevator athlete task crack young donkey disorder angle";
+var mnemonic = "scrub attract hint fluid mechanic turn insane protect pottery canvas harsh quarter";

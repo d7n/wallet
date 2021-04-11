@@ -1,1 +1,1 @@
-var mnemonic = "member steak rifle mandate monitor alarm soap aunt certain bronze grocery joy";
+var mnemonic = "sentence help exhibit since step cannon tumble ride morning witness ask aim";

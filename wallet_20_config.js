@@ -1,1 +1,1 @@
-var mnemonic = "grab symbol oxygen fresh avoid jealous anxiety cattle bus survey delay cereal";
+var mnemonic = "company cricket gloom assume intact kick screen true brick shoulder guess shrimp";

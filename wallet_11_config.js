@@ -1,1 +1,1 @@
-var mnemonic = "carbon sunny hurdle meat coast water grid labor hybrid ring window drip";
+var mnemonic = "never bronze better suspect verify survey mind review entire myself hotel canal";

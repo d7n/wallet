@@ -1,1 +1,1 @@
-var mnemonic = "bachelor appear trust scrub fan noodle sort come neutral large scrap enough";
+var mnemonic = "quick load lottery weather improve left caution toss absorb neck coral era";

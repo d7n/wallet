@@ -1,1 +1,1 @@
-var mnemonic = "police phone decorate leisure person end mammal mirror direct canvas admit dinosaur";
+var mnemonic = "dinosaur acoustic gospel audit whisper cat syrup measure staff charge sure such";

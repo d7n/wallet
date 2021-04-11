@@ -1,1 +1,1 @@
-var mnemonic = "tourist early network govern luggage moment butter lesson metal pipe lucky crouch";
+var mnemonic = "saddle ancient viable onion short favorite jewel business arena shoe ahead company";

@@ -1,1 +1,1 @@
-var mnemonic = "razor aware more achieve wool turkey once web shop remember mobile super";
+var mnemonic = "source giraffe pink glove pizza moral soon position brown cricket man rich";

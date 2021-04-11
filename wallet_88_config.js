@@ -1,1 +1,1 @@
-var mnemonic = "shaft truth record elite dove filter able expire ancient add hybrid usual";
+var mnemonic = "gift hospital since girl inner culture mad neck travel beach only school";

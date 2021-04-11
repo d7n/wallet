@@ -1,1 +1,1 @@
-var mnemonic = "color warm secret initial bless rural sudden sudden pink ski service wall";
+var mnemonic = "beauty penalty rather true motion frame repeat enroll river oil used embody";

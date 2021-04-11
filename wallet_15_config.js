@@ -1,1 +1,1 @@
-var mnemonic = "noodle spirit child glass garlic budget pyramid business prosper subway useless robot";
+var mnemonic = "turn dose coach turtle hello sight pioneer space cabin seed visit ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "until squeeze decide antenna depend because pottery false remember carbon regular radio";
+var mnemonic = "sunset major indicate glance stuff erode file half rail radio clinic round";

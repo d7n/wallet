@@ -1,1 +1,1 @@
-var mnemonic = "actual connect stay try toddler van battle tonight polar album control sail";
+var mnemonic = "badge volume hire enhance about wine crater music stable dove balcony thing";

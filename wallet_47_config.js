@@ -1,1 +1,1 @@
-var mnemonic = "girl claim invest velvet all must cargo response chaos carbon gold oil";
+var mnemonic = "vacant shadow over owner disease legend field dismiss section evoke differ culture";

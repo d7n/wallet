@@ -1,1 +1,1 @@
-var mnemonic = "leopard valid festival shrimp cannon miracle park evolve ugly edit truth essay";
+var mnemonic = "vehicle bargain hen display mask woman phone vocal lesson fan fiscal ahead";

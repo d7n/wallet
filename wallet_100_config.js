@@ -1,1 +1,1 @@
-var mnemonic = "early pistol domain entry puppy truck menu notable axis armor record stock";
+var mnemonic = "glad movie fiber test absurd horse buffalo absurd infant engage piece brush";

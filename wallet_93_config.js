@@ -1,1 +1,1 @@
-var mnemonic = "half robust bid distance comic gesture whip swing leisure depend pumpkin cube";
+var mnemonic = "diary paddle flash magnet quantum beauty tobacco scare stuff crew rigid injury";

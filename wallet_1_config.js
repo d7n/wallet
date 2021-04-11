@@ -1,1 +1,1 @@
-var mnemonic = "grunt black visual broccoli mountain chase feel ancient rough core initial east";
+var mnemonic = "venture double wagon fine silver degree stick crane sausage figure example collect";

@@ -1,1 +1,1 @@
-var mnemonic = "mad velvet quote champion annual defense keep vacant goddess amount alley chaos";
+var mnemonic = "duck purity undo essence bounce tilt lava vocal bridge taste tackle rally";

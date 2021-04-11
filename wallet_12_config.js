@@ -1,1 +1,1 @@
-var mnemonic = "mixture input grid sugar century want rocket journey click about exotic spot";
+var mnemonic = "afford clay donor mystery spike vessel cupboard primary toe emerge picture state";

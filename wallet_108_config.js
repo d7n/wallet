@@ -1,1 +1,1 @@
-var mnemonic = "tackle version tongue horse blue crawl gadget connect balance climb gauge urban";
+var mnemonic = "crime craft sail guide hundred menu share clay girl flock exchange tone";

@@ -1,1 +1,1 @@
-var mnemonic = "when cable fringe empower vanish what alarm enlist strong news sausage vacant";
+var mnemonic = "tide bone toward else student found run verify alley also moral tape";

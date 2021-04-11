@@ -1,1 +1,1 @@
-var mnemonic = "deer armor town pitch install model uniform link impact adapt village prosper";
+var mnemonic = "correct panic mass derive ostrich artefact pause file mansion jar drive pull";

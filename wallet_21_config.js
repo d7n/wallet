@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo live push response sing beef limit prosper spoon glide floor tail";
+var mnemonic = "verb machine subway crowd alien else assume crash garden click tuna foam";

@@ -1,1 +1,1 @@
-var mnemonic = "pen rubber survey keen bottom lucky best clever fix payment tool list";
+var mnemonic = "afraid correct remind cave wool load episode voice prefer multiply elder clown";

@@ -1,1 +1,1 @@
-var mnemonic = "flag patient nose annual obscure blade sniff ahead ice base one sound";
+var mnemonic = "mention belt stay knee cactus frame engage bunker melody garment motor moral";

@@ -1,1 +1,1 @@
-var mnemonic = "choice suffer penalty curious appear bar toss shrug wise price magic exhibit";
+var mnemonic = "cup sight inform action evidence grab mistake version civil final utility clever";

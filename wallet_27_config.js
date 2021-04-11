@@ -1,1 +1,1 @@
-var mnemonic = "coin entry purity become tonight liar corn rail stand aim cream like";
+var mnemonic = "worry dolphin blood blade dove length claim column off butter wreck knee";

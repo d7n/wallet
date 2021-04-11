@@ -1,1 +1,1 @@
-var mnemonic = "tennis chest spawn govern truth crouch smile vendor suspect always tell human";
+var mnemonic = "avocado daring alarm parade try pass tissue elegant depth neglect chronic club";

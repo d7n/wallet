@@ -1,1 +1,1 @@
-var mnemonic = "dose easy lizard feed crisp sibling abstract scale oppose achieve load lobster";
+var mnemonic = "reveal argue nuclear boost noise void welcome ability wagon network tourist solid";

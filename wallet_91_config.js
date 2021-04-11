@@ -1,1 +1,1 @@
-var mnemonic = "citizen laptop betray hill vast when coil peanut already raw wisdom world";
+var mnemonic = "wash tribe clutch render increase improve twist tilt thunder predict click hedgehog";

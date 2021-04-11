@@ -1,1 +1,1 @@
-var mnemonic = "hope lady crisp jazz robot glove skin mirror antique size limit fox";
+var mnemonic = "torch law talent potato west replace exchange aspect hidden vicious caught chicken";

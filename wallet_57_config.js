@@ -1,1 +1,1 @@
-var mnemonic = "tragic enlist term amateur evoke range tilt valid viable kiwi wedding artefact";
+var mnemonic = "fan minimum bulb donkey electric dice spoon novel increase fatigue heart clip";

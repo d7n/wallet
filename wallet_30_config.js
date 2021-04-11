@@ -1,1 +1,1 @@
-var mnemonic = "require predict funny adult pen genius great frozen elder describe crystal beauty";
+var mnemonic = "already journey modify smart only boost vast orange bounce exchange keep wild";

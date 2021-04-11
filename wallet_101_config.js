@@ -1,1 +1,1 @@
-var mnemonic = "pulp seven butter eagle cloud snow hotel drive cry hour crew erase";
+var mnemonic = "control deputy neck unique wheat ten october spider garlic original logic winner";

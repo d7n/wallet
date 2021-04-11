@@ -1,1 +1,1 @@
-var mnemonic = "island behind educate start void timber exotic sock black cross famous gown";
+var mnemonic = "nasty deer garage feed only boss orange dizzy mail report consider purpose";

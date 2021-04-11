@@ -1,1 +1,1 @@
-var mnemonic = "purchase burden cart room oblige chief stable worry dice chaos survey solution";
+var mnemonic = "believe rebel engine right spoil crush sword zero company skill tree problem";

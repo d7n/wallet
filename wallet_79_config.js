@@ -1,1 +1,1 @@
-var mnemonic = "civil labor employ village hobby ramp together trust donate turtle agent party";
+var mnemonic = "protect valve play moral wolf outer prepare sponsor ozone hover harsh august";

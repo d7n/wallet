@@ -1,1 +1,1 @@
-var mnemonic = "potato vivid illness gap spread flower demise reunion oyster enact image ill";
+var mnemonic = "charge ensure act rocket mask rack author limb alley waste exist relief";

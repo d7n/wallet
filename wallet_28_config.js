@@ -1,1 +1,1 @@
-var mnemonic = "dove mail little champion toe liquid heart essay oyster stuff broom myself";
+var mnemonic = "motor another chronic mosquito awkward clock beef sibling wheel prefer world disagree";

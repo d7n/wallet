@@ -1,1 +1,1 @@
-var mnemonic = "clown alpha fox answer story rough state learn task begin absorb lottery";
+var mnemonic = "hybrid section vibrant day tooth surround bonus ability blur upgrade knock fiction";

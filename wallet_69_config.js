@@ -1,1 +1,1 @@
-var mnemonic = "public animal victory little burger satoshi tribe various record trophy search runway";
+var mnemonic = "vibrant essence goose float wage inquiry use trap coin vapor there solve";

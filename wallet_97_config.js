@@ -1,1 +1,1 @@
-var mnemonic = "float innocent sheriff trash bundle gossip fantasy genre task autumn steak idea";
+var mnemonic = "measure decrease foil risk recall deny chef soldier primary around hole bar";

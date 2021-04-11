@@ -1,1 +1,1 @@
-var mnemonic = "deal polar buzz devote climb job solution shoe invest circle van old";
+var mnemonic = "actress lemon milk fluid head surprise wish slot knee hour kiwi ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "leave rally lesson pave crystal damp goat today bulk fork tornado latin";
+var mnemonic = "peanut sport fragile siren atom parent arena trash valid often desert yellow";

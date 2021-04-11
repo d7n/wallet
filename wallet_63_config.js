@@ -1,1 +1,1 @@
-var mnemonic = "dial valve portion chimney voice busy despair sunny young gasp can prosper";
+var mnemonic = "craft puppy wife photo monkey trigger social hard awake smart decline harvest";

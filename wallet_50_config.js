@@ -1,1 +1,1 @@
-var mnemonic = "inject winner earth elite light fee mesh abandon prepare smooth nerve exhaust";
+var mnemonic = "gasp spare voyage guess payment humor rhythm enlist arrange shock start good";

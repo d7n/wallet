@@ -1,1 +1,1 @@
-var mnemonic = "among squirrel cargo loud explain level media cycle hero april opera inject";
+var mnemonic = "champion pottery minor enlist mansion pledge silk elbow damage wife hover crumble";

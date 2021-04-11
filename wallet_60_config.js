@@ -1,1 +1,1 @@
-var mnemonic = "knife uncover air junior news episode keep creek sugar soap toss rare";
+var mnemonic = "state until divide domain pulp capital book mistake live arm kite adult";

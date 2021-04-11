@@ -1,1 +1,1 @@
-var mnemonic = "kingdom junk gorilla resist purchase since update model tattoo nice bundle actor";
+var mnemonic = "vivid host wonder proud gas auto rebel mechanic dynamic border organ poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "detail vintage rotate exclude modify soda seminar cruel elephant daughter radar thank";
+var mnemonic = "portion second sport talent velvet decline gravity crunch fall embody exit isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "promote unknown caught able shuffle family turn lava review foam require tomato";
+var mnemonic = "glad soccer bag sword index hybrid laptop approve grid edit document news";

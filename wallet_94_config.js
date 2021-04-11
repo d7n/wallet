@@ -1,1 +1,1 @@
-var mnemonic = "vocal judge lake glance proof symptom someone tide bounce enable expose amount";
+var mnemonic = "pass foot rotate moon capable patch frog dish canoe vicious success glue";

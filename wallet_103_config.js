@@ -1,1 +1,1 @@
-var mnemonic = "warfare marriage prefer select piece wink fever panther sun setup extend dilemma";
+var mnemonic = "news cross jump lend edge door oval fault wood nice expire social";

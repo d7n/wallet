@@ -1,1 +1,1 @@
-var mnemonic = "core uncover situate until buddy subway note badge suspect scout innocent airport";
+var mnemonic = "educate parrot raise unusual veteran avoid carbon solar genius allow armor finish";

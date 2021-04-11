@@ -1,1 +1,1 @@
-var mnemonic = "step paddle claim sorry eyebrow uncover make swap output enlist cluster hold";
+var mnemonic = "senior hat cradle wink rely pencil strike snap thumb steak wire copy";

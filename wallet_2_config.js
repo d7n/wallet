@@ -1,1 +1,1 @@
-var mnemonic = "faculty fly rigid jungle term width item clog tooth vault cruel worth";
+var mnemonic = "plug ramp return recall guilt stove cloth vibrant private photo water omit";

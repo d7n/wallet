@@ -1,1 +1,1 @@
-var mnemonic = "blossom drop juice receive aunt left ridge render crucial meat rare hawk";
+var mnemonic = "clip canal umbrella stairs lift ancient demise grit garlic few pumpkin split";

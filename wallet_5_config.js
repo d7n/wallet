@@ -1,1 +1,1 @@
-var mnemonic = "obscure illegal hair question box scan forget network media boring sound hunt";
+var mnemonic = "pass pave spot hammer autumn ignore cradle orchard news vacant south slice";

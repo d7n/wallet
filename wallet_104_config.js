@@ -1,1 +1,1 @@
-var mnemonic = "verify surface oblige secret option hour behind pledge illness mango ecology bitter";
+var mnemonic = "brand venture company glad ring vicious base bracket apology robust own fee";

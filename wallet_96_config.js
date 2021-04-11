@@ -1,1 +1,1 @@
-var mnemonic = "vehicle pass duty very razor such head ticket various reveal evoke outdoor";
+var mnemonic = "you address viable ball chat again vote abuse nuclear envelope flock angry";

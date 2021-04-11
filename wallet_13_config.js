@@ -1,1 +1,1 @@
-var mnemonic = "cigar giraffe powder ozone brass number cycle tired misery own pill pulp";
+var mnemonic = "glory benefit oval subject category year snake room mobile idle present leopard";

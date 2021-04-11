@@ -1,1 +1,1 @@
-var mnemonic = "sad tornado world panel cash life impulse end purchase wheel april suggest";
+var mnemonic = "series lamp crack wrong obvious fee spider theme real nose banana into";

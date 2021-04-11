@@ -1,1 +1,1 @@
-var mnemonic = "cupboard economy minor noise peasant behind bachelor nurse foam nose remind copper";
+var mnemonic = "steel hamster excuse credit sibling return inhale deliver obey pumpkin scare year";

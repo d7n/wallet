@@ -1,1 +1,1 @@
-var mnemonic = "include sing spray slam board album when despair vocal orange home cancel";
+var mnemonic = "velvet carpet bleak airport stuff quit feel gravity panel lady know jaguar";

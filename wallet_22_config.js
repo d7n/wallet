@@ -1,1 +1,1 @@
-var mnemonic = "venture illegal armed case nurse truly leaf raise amused tomorrow nice brick";
+var mnemonic = "giraffe powder unique medal sort quiz manual make snow mouse jewel zebra";

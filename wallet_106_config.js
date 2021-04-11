@@ -1,1 +1,1 @@
-var mnemonic = "ivory crucial child ring rail sample farm cube viable honey flame start";
+var mnemonic = "this utility fat season mask siren engage cloth find produce word current";

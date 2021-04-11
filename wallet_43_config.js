@@ -1,1 +1,1 @@
-var mnemonic = "stamp yellow energy sword split hollow mother swamp skirt comic security hover";
+var mnemonic = "unlock rifle figure connect orphan credit salt antique flip suspect reject plunge";

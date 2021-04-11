@@ -1,1 +1,1 @@
-var mnemonic = "bleak annual ring number zebra myth service also absurd olympic elevator today";
+var mnemonic = "funny beyond try steak mutual winter ignore nuclear vibrant truck choice social";

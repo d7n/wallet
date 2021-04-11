@@ -1,1 +1,1 @@
-var mnemonic = "angry depend panel kiss used parrot high guitar bar coconut dawn resemble";
+var mnemonic = "permit robust carpet pulp shadow indicate reunion grunt divide rich inmate art";

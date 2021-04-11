@@ -1,1 +1,1 @@
-var mnemonic = "trap credit athlete wolf keep nature layer tortoise begin powder middle expect";
+var mnemonic = "inner slab forward burst fuel hobby young general seminar section need van";

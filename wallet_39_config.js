@@ -1,1 +1,1 @@
-var mnemonic = "alert dilemma mushroom solution record slab aunt grab elephant recall author mouse";
+var mnemonic = "letter post cream hub stadium approve try unfold spring actual rare endorse";

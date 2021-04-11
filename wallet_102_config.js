@@ -1,1 +1,1 @@
-var mnemonic = "gallery pipe relief expand begin suggest turn mimic adapt path talk second";
+var mnemonic = "result left fence host jacket rich puppy cigar famous also dinner velvet";

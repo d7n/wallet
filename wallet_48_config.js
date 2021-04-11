@@ -1,1 +1,1 @@
-var mnemonic = "verify prevent sample prosper baby rescue cash patrol receive tail design frog";
+var mnemonic = "admit anger ramp charge inquiry coyote survey chalk section guard panda lecture";

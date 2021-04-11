@@ -1,1 +1,1 @@
-var mnemonic = "chimney erosion chest soon enemy angry sock van young absorb vanish beach";
+var mnemonic = "host vacant orchard today tide police pride piano surround unable network ten";

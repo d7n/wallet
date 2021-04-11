@@ -1,1 +1,1 @@
-var mnemonic = "glory cash attitude grace code typical umbrella brand balance broccoli seven ranch";
+var mnemonic = "hire later stove tongue poverty limit lottery balance ceiling fluid warfare upgrade";

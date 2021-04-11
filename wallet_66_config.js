@@ -1,1 +1,1 @@
-var mnemonic = "fury catalog increase check expect visit excuse deputy chaos bean inspire issue";
+var mnemonic = "eternal daughter sausage skirt rain burden model game erosion conduct announce stadium";

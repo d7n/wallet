@@ -1,1 +1,1 @@
-var mnemonic = "empower volume spot limit season rose daughter soldier wide come tag invite";
+var mnemonic = "lazy various genuine resemble angle modify rubber finish spider lab true riot";

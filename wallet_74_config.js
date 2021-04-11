@@ -1,1 +1,1 @@
-var mnemonic = "autumn legal vacuum cheap beach cigar crew dismiss shoe believe media pumpkin";
+var mnemonic = "swap country bitter rain verb jewel total romance hobby deliver hazard harbor";

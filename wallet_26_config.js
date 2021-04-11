@@ -1,1 +1,1 @@
-var mnemonic = "marriage hamster excuse federal please mail inspire garment cake order core gift";
+var mnemonic = "type load subject uncle toast empower october category moral merge shoot cattle";

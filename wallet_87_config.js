@@ -1,1 +1,1 @@
-var mnemonic = "safe song cherry shuffle shield rabbit error learn tunnel truck practice clip";
+var mnemonic = "slot fashion void script damp coconut fitness hub shrimp clock toe cotton";

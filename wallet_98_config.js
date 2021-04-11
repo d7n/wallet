@@ -1,1 +1,1 @@
-var mnemonic = "weasel suffer movie main saddle cupboard other tower print bright treat right";
+var mnemonic = "cause thrive air bonus toss rally someone mansion fall garage welcome calm";
