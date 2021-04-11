@@ -1,1 +1,1 @@
-var mnemonic = "harvest cage enjoy super warfare before matrix absurd develop pool click assist";
+var mnemonic = "tackle soccer prevent gap young diet profit shrimp slim flock cactus hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "twist helmet embark frog wolf chapter spray impact tenant alley model present";
+var mnemonic = "jacket cactus conduct corn lion interest mail enforce antenna town fatal bronze";

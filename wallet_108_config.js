@@ -1,1 +1,1 @@
-var mnemonic = "renew short push soup usual special pill feed gas sad butter magnet";
+var mnemonic = "uphold panther seminar early swift wet expect mimic youth excuse tiger asthma";

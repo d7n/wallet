@@ -1,1 +1,1 @@
-var mnemonic = "emerge tribe parrot banana horror card smart chalk square minor bind escape";
+var mnemonic = "mouse upper grunt bleak ordinary library crunch legal gift permit horn correct";

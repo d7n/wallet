@@ -1,1 +1,1 @@
-var mnemonic = "steak dilemma genre audit obscure fine cricket review valve invite transfer athlete";
+var mnemonic = "horse infant slight ensure hunt crew combine market reunion mushroom tuna legend";

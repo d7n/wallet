@@ -1,1 +1,1 @@
-var mnemonic = "theory prize pair step burger patrol eager capital scorpion knee ask crack";
+var mnemonic = "reform brick off barely forward elbow weekend bitter fall junior neutral equip";

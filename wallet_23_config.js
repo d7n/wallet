@@ -1,1 +1,1 @@
-var mnemonic = "muscle volume double arctic raw ethics pool solution gain few vast random";
+var mnemonic = "sunset into educate box trust lady vessel run exchange industry pigeon jacket";

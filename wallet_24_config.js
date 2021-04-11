@@ -1,1 +1,1 @@
-var mnemonic = "grit very kitchen galaxy flush film lunar project truth coyote opera office";
+var mnemonic = "idle congress quantum gym super dice cabbage onion debris leisure pizza brain";

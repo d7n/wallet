@@ -1,1 +1,1 @@
-var mnemonic = "business tube okay rival artefact student month stool dice morning fresh rail";
+var mnemonic = "feature index witness club sunny scout time spin uniform body tumble photo";

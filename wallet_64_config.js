@@ -1,1 +1,1 @@
-var mnemonic = "february tent finish neck forward minimum street ignore machine unlock canyon immune";
+var mnemonic = "custom wedding tiger grab palm mom drive region orbit soft pelican they";

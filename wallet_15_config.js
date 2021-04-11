@@ -1,1 +1,1 @@
-var mnemonic = "network wrong drill october champion ketchup soup donor daughter coin accuse employ";
+var mnemonic = "sleep fatigue valley echo lamp rookie sphere impact version large praise kid";

@@ -1,1 +1,1 @@
-var mnemonic = "coast include banner over vessel donate excite daring laugh ankle menu jar";
+var mnemonic = "dust jewel render shock broken target owner solution rude satisfy soon tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "husband penalty raven airport foam rural skull example puzzle jeans flavor abandon";
+var mnemonic = "patient disorder exotic cabin shadow antique super cave kiss wear stone fashion";

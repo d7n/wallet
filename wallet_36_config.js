@@ -1,1 +1,1 @@
-var mnemonic = "wonder bleak excite mansion crop happy mountain horse swear seat rice canal";
+var mnemonic = "claim eye pulse comic inquiry ignore jar mushroom roast news cigar achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon fatigue demand split absent aspect park damp unit casual oak decrease";
+var mnemonic = "control benefit insect core north scheme feed pupil fork decorate stem tiny";

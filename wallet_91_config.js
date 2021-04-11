@@ -1,1 +1,1 @@
-var mnemonic = "peace body slot cloth senior amazing age art powder solid sample furnace";
+var mnemonic = "industry strong prepare witness flame envelope monster sad rain mobile ghost brain";

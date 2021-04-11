@@ -1,1 +1,1 @@
-var mnemonic = "current dust pelican catch audit flash fly identify absorb bachelor few year";
+var mnemonic = "kangaroo pool kit two rely emotion scorpion public step together major romance";

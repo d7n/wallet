@@ -1,1 +1,1 @@
-var mnemonic = "observe ask flight wagon cherry act worth tag black twist spider ignore";
+var mnemonic = "fence glass crawl couch jelly blind broom coast token supply depart mail";

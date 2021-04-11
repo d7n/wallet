@@ -1,1 +1,1 @@
-var mnemonic = "topple claim unfold elder mail disorder push fiction agree style medal spoil";
+var mnemonic = "actress deputy grab ship plug much peace common embrace broken material torch";

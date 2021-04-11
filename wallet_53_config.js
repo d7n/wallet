@@ -1,1 +1,1 @@
-var mnemonic = "kidney fresh refuse express spatial crazy people calm nature sentence corn wish";
+var mnemonic = "spot enjoy enrich million abandon vintage diary reduce often disagree kind rough";

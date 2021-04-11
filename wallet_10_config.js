@@ -1,1 +1,1 @@
-var mnemonic = "soup hero addict learn satoshi stone marine wrap news wait produce kitten";
+var mnemonic = "member include erupt gadget mammal item laundry shed season hour magnet else";

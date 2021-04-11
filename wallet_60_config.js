@@ -1,1 +1,1 @@
-var mnemonic = "insect music siege carbon swamp outside sadness fee shaft unfold lonely hunt";
+var mnemonic = "raw annual enlist dynamic rhythm desert trust chunk finger retire acoustic pupil";

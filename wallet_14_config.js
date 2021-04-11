@@ -1,1 +1,1 @@
-var mnemonic = "hand bitter moral risk cover close bamboo super beach clever gas relief";
+var mnemonic = "infant enjoy yellow sister deer vicious park jump suit human father climb";

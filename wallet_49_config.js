@@ -1,1 +1,1 @@
-var mnemonic = "pitch wool goddess sword trial attract upon include patient endless erupt front";
+var mnemonic = "doctor basket reward bronze such wink dog expose scrub trap learn baby";

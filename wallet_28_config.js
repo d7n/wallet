@@ -1,1 +1,1 @@
-var mnemonic = "miss appear ill village attract level clump memory ethics practice soon effort";
+var mnemonic = "grow tuition village stock hope clarify impulse toy never school salmon liberty";

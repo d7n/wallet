@@ -1,1 +1,1 @@
-var mnemonic = "enforce flame squirrel peanut enlist easy hamster resist erode school sheriff orchard";
+var mnemonic = "genius estate merry wedding couple sunny lamp stuff industry praise dial honey";

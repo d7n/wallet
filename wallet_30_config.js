@@ -1,1 +1,1 @@
-var mnemonic = "fault whale marriage initial year uncover verb slender image album tooth ecology";
+var mnemonic = "bus polar turkey shop various thrive glad resist forum fire deliver climb";

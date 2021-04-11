@@ -1,1 +1,1 @@
-var mnemonic = "guess float usage stock lift lava bundle treat truck tell guard hawk";
+var mnemonic = "rely inform group glue amount match jealous side north apology high leopard";

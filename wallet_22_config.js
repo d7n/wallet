@@ -1,1 +1,1 @@
-var mnemonic = "toilet warm utility clever chalk exact scorpion mansion adjust service shoot glide";
+var mnemonic = "violin helmet concert avoid long phrase trip evil actor rose flower useful";

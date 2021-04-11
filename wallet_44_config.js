@@ -1,1 +1,1 @@
-var mnemonic = "doll caution cook manage cost strategy payment cable foster mimic shrimp buzz";
+var mnemonic = "fortune desk people input scout antenna diesel debris smile today move smart";

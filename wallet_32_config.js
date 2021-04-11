@@ -1,1 +1,1 @@
-var mnemonic = "say label feature move tide vibrant prosper thank movie write honey spend";
+var mnemonic = "border indicate boost carry escape argue bid hobby salon liar orphan monster";

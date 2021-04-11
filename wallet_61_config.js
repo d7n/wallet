@@ -1,1 +1,1 @@
-var mnemonic = "thank shell tuition save cradle possible green ensure abstract inflict wide ethics";
+var mnemonic = "result person salute nose bench black ignore royal lemon inside ice valve";

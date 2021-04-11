@@ -1,1 +1,1 @@
-var mnemonic = "onion nephew obscure doctor toy utility delay drink web riot call couch";
+var mnemonic = "portion kitchen protect dress more artwork tower eagle reason drift online seminar";

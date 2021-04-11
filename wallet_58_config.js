@@ -1,1 +1,1 @@
-var mnemonic = "change poem afraid view sustain huge pride great claw drama aim drive";
+var mnemonic = "inside pigeon build father chair seven muscle still fossil tuna magnet expand";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy sand attract vague boring north buffalo team tenant pond blanket blood";
+var mnemonic = "cart since spend spirit problem clip certain fatal cheap donate innocent tent";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse envelope path limb exist employ choose anchor damp moment tail success";
+var mnemonic = "creek detail machine walnut example utility poverty federal lemon genius avoid arrest";

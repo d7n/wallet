@@ -1,1 +1,1 @@
-var mnemonic = "sea problem burst gasp wrong try caught frozen now saddle spoil item";
+var mnemonic = "minute total unaware cute actor burden easily impulse quit wonder found artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "praise main current bracket tail spatial charge hole satisfy drive lady daring";
+var mnemonic = "weapon gate pony bone comfort spend opinion cup belt sudden kiss initial";

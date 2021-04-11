@@ -1,1 +1,1 @@
-var mnemonic = "salon pluck tool park cactus melody subject model hole ahead multiply resource";
+var mnemonic = "seed know poem vacant garment crunch solution slight armed job bomb dumb";

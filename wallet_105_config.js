@@ -1,1 +1,1 @@
-var mnemonic = "floor angle there stairs run picture trade monitor relax solid chaos table";
+var mnemonic = "hood memory segment celery slush over parent monster sting smile asset color";

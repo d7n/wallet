@@ -1,1 +1,1 @@
-var mnemonic = "runway route dress sunset general educate minimum hover various fabric impulse this";
+var mnemonic = "pitch reform million sniff bubble another there key emerge near conduct spray";

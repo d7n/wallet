@@ -1,1 +1,1 @@
-var mnemonic = "cheap phone fit knife explain ability rebuild crowd van bundle imitate turkey";
+var mnemonic = "frost later other mushroom drill cherry arm vote version ahead east angry";

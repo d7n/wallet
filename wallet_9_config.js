@@ -1,1 +1,1 @@
-var mnemonic = "river cradle ivory before purse kidney bargain pipe tomato category age rapid";
+var mnemonic = "ski regular long pumpkin hidden scorpion pretty orphan minimum garbage cable reward";

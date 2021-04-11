@@ -1,1 +1,1 @@
-var mnemonic = "fragile bean analyst rocket trash fossil traffic reward course mix miss marble";
+var mnemonic = "path fame volume save replace tilt ensure produce critic weasel three meat";

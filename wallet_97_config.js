@@ -1,1 +1,1 @@
-var mnemonic = "punch purse fiber explain citizen argue cover cause say student argue empty";
+var mnemonic = "crumble holiday apple bag dice ecology fine blush scatter own evoke essence";

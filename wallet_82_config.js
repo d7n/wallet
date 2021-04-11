@@ -1,1 +1,1 @@
-var mnemonic = "draft amateur flight ability busy panda transfer upon law fee tent erase";
+var mnemonic = "myth kit industry blush identify cradle critic valid put dream rival left";

@@ -1,1 +1,1 @@
-var mnemonic = "where record sunny range talent aerobic gather season title gospel issue dismiss";
+var mnemonic = "spend pluck uncover record moment wave wheat wave deputy arm arm similar";

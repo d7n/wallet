@@ -1,1 +1,1 @@
-var mnemonic = "marriage total mouse ladder swear write element twenty tuna second sister history";
+var mnemonic = "wagon ahead until reason now since talent test harbor raise museum country";

@@ -1,1 +1,1 @@
-var mnemonic = "photo estate adapt unaware battle veteran artwork talk release repair jealous record";
+var mnemonic = "shrimp indicate wild result captain author carbon very into camera barrel convince";

@@ -1,1 +1,1 @@
-var mnemonic = "good fabric mystery december pepper early tobacco ivory lunch west addict flip";
+var mnemonic = "blue coil large vibrant unveil front border observe away network lumber surround";

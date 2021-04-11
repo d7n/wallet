@@ -1,1 +1,1 @@
-var mnemonic = "use spider liberty forum dial cycle call derive hobby basket photo sausage";
+var mnemonic = "remove file clay polar salute pulse record pact dumb stick sail number";

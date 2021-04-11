@@ -1,1 +1,1 @@
-var mnemonic = "happy wise online tumble fantasy burger slice kangaroo jealous deer toss obtain";
+var mnemonic = "busy typical special convince subject beach gate debris roof social urge hip";

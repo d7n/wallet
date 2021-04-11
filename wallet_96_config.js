@@ -1,1 +1,1 @@
-var mnemonic = "april stool kite vapor erase ignore trust river crowd ginger canoe candy";
+var mnemonic = "arrange emotion banana dune obvious range hip tooth science goose become shrimp";

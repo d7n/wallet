@@ -1,1 +1,1 @@
-var mnemonic = "melt perfect cereal square drift math any exotic lawsuit forget flash bright";
+var mnemonic = "divorce world verify apology skull cupboard boil carry bargain cinnamon concert more";

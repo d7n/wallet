@@ -1,1 +1,1 @@
-var mnemonic = "stone arrest winter picnic session divert scheme waste ozone public mimic chapter";
+var mnemonic = "rule concert zone scale gossip gesture confirm adapt medal modify planet draft";

@@ -1,1 +1,1 @@
-var mnemonic = "cage embody smile rocket chest wreck notable current tooth rib decide section";
+var mnemonic = "increase winner hero pass mobile chronic remind digital lens curtain swarm pilot";

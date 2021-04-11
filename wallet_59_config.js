@@ -1,1 +1,1 @@
-var mnemonic = "organ guide economy glimpse library police uniform fix nuclear toward garden senior";
+var mnemonic = "burger brave season strong muscle pull calm chuckle void illegal teach mercy";

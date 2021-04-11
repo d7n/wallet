@@ -1,1 +1,1 @@
-var mnemonic = "chest van mansion hundred beach zoo heavy float rubber cart float inject";
+var mnemonic = "life traffic swamp shy juice beauty economy there around pear brush palm";

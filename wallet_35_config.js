@@ -1,1 +1,1 @@
-var mnemonic = "helmet tape tonight soldier enhance better before middle foam aspect reform ring";
+var mnemonic = "appear foot scene sword artist guide romance cupboard play fruit welcome burger";

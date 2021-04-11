@@ -1,1 +1,1 @@
-var mnemonic = "print rally first digital autumn warrior mutual creek evidence clarify want canvas";
+var mnemonic = "board soap square virus barely weekend donkey little caught laptop antique tongue";

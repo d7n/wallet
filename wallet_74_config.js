@@ -1,1 +1,1 @@
-var mnemonic = "tortoise unfair lady burst alarm oven journey arrow excite eye next sunset";
+var mnemonic = "base hold twelve evidence tired coin update bar shield tired horror topic";

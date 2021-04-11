@@ -1,1 +1,1 @@
-var mnemonic = "fever window cotton stable project where snow evolve matter syrup episode maple";
+var mnemonic = "sign advance castle license lady popular suggest sphere panic toddler grass season";

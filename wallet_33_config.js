@@ -1,1 +1,1 @@
-var mnemonic = "pudding admit shift attack rude forum swift dice power cradle focus mixture";
+var mnemonic = "tribe language shine submit envelope hole pattern balance suffer frown lounge smart";

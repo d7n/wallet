@@ -1,1 +1,1 @@
-var mnemonic = "street decline vague hour raccoon endorse major leopard agent clay useful pen";
+var mnemonic = "like door zone wait before tonight mountain gate blue thing vacant high";

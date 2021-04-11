@@ -1,1 +1,1 @@
-var mnemonic = "record hint arrest cat pilot orange wave gossip labor sadness popular faith";
+var mnemonic = "fan base once special brief adjust ensure behind arrow era index current";

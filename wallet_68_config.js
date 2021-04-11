@@ -1,1 +1,1 @@
-var mnemonic = "sleep cactus boil scale prepare fun elegant glass item puzzle globe custom";
+var mnemonic = "capital extra bitter between border siren pizza enhance gain abuse nuclear loop";

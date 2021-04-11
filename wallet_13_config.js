@@ -1,1 +1,1 @@
-var mnemonic = "work exotic hour derive arrow young lucky borrow lab camera rebel security";
+var mnemonic = "very odor actual sugar valve frozen direct zone pyramid strategy radio barrel";

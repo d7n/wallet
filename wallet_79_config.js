@@ -1,1 +1,1 @@
-var mnemonic = "swarm theory cook bike tonight please season giant actor album gentle follow";
+var mnemonic = "tiny label slice unhappy brush improve thank rug stable myself flag axis";

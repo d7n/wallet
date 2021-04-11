@@ -1,1 +1,1 @@
-var mnemonic = "erosion airport leg quiz service buddy cargo love vast wheat frog blame";
+var mnemonic = "middle picture tiger crazy earth divide rebel library spike enrich truly hat";

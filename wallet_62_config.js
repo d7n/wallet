@@ -1,1 +1,1 @@
-var mnemonic = "saddle bench wear picnic increase allow trigger shaft matter concert merry grit";
+var mnemonic = "advance twenty obey reject ten wall safe wise reform shift mind seek";

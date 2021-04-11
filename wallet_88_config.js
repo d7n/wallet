@@ -1,1 +1,1 @@
-var mnemonic = "sample dinner fetch song exact gauge rotate they elder load coyote garment";
+var mnemonic = "filter world wide save pioneer leader mimic display category achieve door over";

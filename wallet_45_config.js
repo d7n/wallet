@@ -1,1 +1,1 @@
-var mnemonic = "waste author punch web member swift carpet prosper police enrich trust arrive";
+var mnemonic = "achieve awful joke before explain follow visit popular spray liberty sting key";

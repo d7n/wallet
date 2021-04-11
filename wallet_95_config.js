@@ -1,1 +1,1 @@
-var mnemonic = "snap jeans cactus quarter gallery sadness fire trim earn toss cost syrup";
+var mnemonic = "wage lottery grape ramp this genuine large worth annual supply tiger erosion";

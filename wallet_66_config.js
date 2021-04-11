@@ -1,1 +1,1 @@
-var mnemonic = "brother wreck solid rate bid duty better benefit ethics media story start";
+var mnemonic = "bar kiss buffalo sport record vanish pave student priority sister include cushion";

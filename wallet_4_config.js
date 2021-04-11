@@ -1,1 +1,1 @@
-var mnemonic = "orange panther define manual page decrease horror admit sleep please solution theme";
+var mnemonic = "salute swim cost usual loop gloom cabbage rescue destroy couple solve brick";

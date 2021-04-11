@@ -1,1 +1,1 @@
-var mnemonic = "ripple soon hat group knock weapon random receive hospital head they boy";
+var mnemonic = "squirrel island digital grape tiny unusual give analyst escape rhythm fix frown";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle dolphin vacant fatigue moral tray tuition game swear rhythm riot fashion";
+var mnemonic = "visa buzz regret join seat immense salt copper around iron cannon audit";

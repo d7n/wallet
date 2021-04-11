@@ -1,1 +1,1 @@
-var mnemonic = "suffer rug rule task like short already cute awake early enlist material";
+var mnemonic = "child belt arena update vote bunker sense response ahead chat embody shoot";

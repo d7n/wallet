@@ -1,1 +1,1 @@
-var mnemonic = "hill there fashion dinosaur view nasty belt ketchup kid raven hurt exercise";
+var mnemonic = "luggage cave guilt lunch pioneer bread this unfair spell diary someone town";

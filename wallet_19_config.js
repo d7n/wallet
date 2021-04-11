@@ -1,1 +1,1 @@
-var mnemonic = "ugly book vendor evolve exile smart pupil atom bag lunch pizza robot";
+var mnemonic = "quote harsh cake donate one spatial limit guide lens sock oak fence";

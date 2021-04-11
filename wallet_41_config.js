@@ -1,1 +1,1 @@
-var mnemonic = "bike then artist bitter silk because keen abstract siren help phone false";
+var mnemonic = "oval sand hold airport buyer circle wool pudding void flee leg debate";

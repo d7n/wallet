@@ -1,1 +1,1 @@
-var mnemonic = "street because dinner odor more spread equal torch travel smoke position pride";
+var mnemonic = "pencil calm hard kiss pelican soul crisp actress october damage ecology neglect";

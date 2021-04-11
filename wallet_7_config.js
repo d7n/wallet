@@ -1,1 +1,1 @@
-var mnemonic = "tattoo hybrid craft crumble helmet mystery wonder riot speak quit misery jacket";
+var mnemonic = "erosion arena toward mixture december glance fee shop pottery melody dismiss task";

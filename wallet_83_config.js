@@ -1,1 +1,1 @@
-var mnemonic = "win awkward arm fault news able dutch cinnamon reason color become cram";
+var mnemonic = "elephant always biology guilt exchange cluster snow near crush clever save select";

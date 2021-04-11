@@ -1,1 +1,1 @@
-var mnemonic = "tooth marine bread way potato umbrella news tomorrow paddle vault symptom section";
+var mnemonic = "pepper entire scale riot obtain math away dismiss machine once canvas sand";

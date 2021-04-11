@@ -1,1 +1,1 @@
-var mnemonic = "response alcohol title master neither student develop recycle seminar conduct awkward poem";
+var mnemonic = "detect wild there boat nation green waste huge path tide fossil grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "dune cute afraid sketch fossil path text famous puzzle pass surface ranch";
+var mnemonic = "price stomach genius now lab planet frequent crisp hire blind discover nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "health receive avoid anger amazing sting alarm develop acquire food affair gesture";
+var mnemonic = "muscle gold ripple disorder gate detect call gather bounce undo aware swing";

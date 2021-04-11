@@ -1,1 +1,1 @@
-var mnemonic = "salon evil list biology provide cement boat glide pull dutch drip unveil";
+var mnemonic = "glue special true panic scout drop creek sight recipe stool jealous meadow";
