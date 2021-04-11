@@ -1,1 +1,1 @@
-var mnemonic = "permit robust carpet pulp shadow indicate reunion grunt divide rich inmate art";
+var mnemonic = "sketch exercise mail cattle exist person harsh present scan meadow anxiety wise";

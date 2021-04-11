@@ -1,1 +1,1 @@
-var mnemonic = "return screen insect trophy path word high motor when welcome tennis rare";
+var mnemonic = "foot tuna call rely label carpet elevator pen crop prevent weather settle";

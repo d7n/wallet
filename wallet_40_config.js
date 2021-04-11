@@ -1,1 +1,1 @@
-var mnemonic = "avocado daring alarm parade try pass tissue elegant depth neglect chronic club";
+var mnemonic = "giraffe rubber since simple discover gospel mountain mom street achieve come plate";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty deer garage feed only boss orange dizzy mail report consider purpose";
+var mnemonic = "leave snack dose creek tag marine wide bulk clap wrong just charge";

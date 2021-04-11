@@ -1,1 +1,1 @@
-var mnemonic = "swap country bitter rain verb jewel total romance hobby deliver hazard harbor";
+var mnemonic = "find pepper hand tattoo citizen spatial claim multiply echo cricket begin atom";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy under roast slam summer razor cushion asset average dignity accident access";
+var mnemonic = "say pill under walk taxi open drift license cattle brief undo slogan";

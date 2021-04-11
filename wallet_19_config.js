@@ -1,1 +1,1 @@
-var mnemonic = "steel hamster excuse credit sibling return inhale deliver obey pumpkin scare year";
+var mnemonic = "tenant harvest fault busy garden absent pencil armor ritual stereo topic inquiry";

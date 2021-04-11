@@ -1,1 +1,1 @@
-var mnemonic = "believe rebel engine right spoil crush sword zero company skill tree problem";
+var mnemonic = "unfair urban attend gorilla motor mad ketchup hybrid term neither drop timber";

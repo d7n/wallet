@@ -1,1 +1,1 @@
-var mnemonic = "host vacant orchard today tide police pride piano surround unable network ten";
+var mnemonic = "embrace member pool cram moral rough desert sentence empty arena ankle alley";

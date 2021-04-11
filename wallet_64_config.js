@@ -1,1 +1,1 @@
-var mnemonic = "champion pottery minor enlist mansion pledge silk elbow damage wife hover crumble";
+var mnemonic = "grid citizen matter right rural either relax stumble figure arctic pool era";

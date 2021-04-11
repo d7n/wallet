@@ -1,1 +1,1 @@
-var mnemonic = "portion second sport talent velvet decline gravity crunch fall embody exit isolate";
+var mnemonic = "roast prison agree grant betray hip flat solar muscle fan uniform spray";

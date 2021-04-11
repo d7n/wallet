@@ -1,1 +1,1 @@
-var mnemonic = "glory benefit oval subject category year snake room mobile idle present leopard";
+var mnemonic = "hill cost corn paper visit door couple such spike army what humble";

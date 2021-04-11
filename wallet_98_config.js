@@ -1,1 +1,1 @@
-var mnemonic = "cause thrive air bonus toss rally someone mansion fall garage welcome calm";
+var mnemonic = "dizzy drill win coin people battle inject awesome humble intact seat view";

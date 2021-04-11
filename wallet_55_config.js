@@ -1,1 +1,1 @@
-var mnemonic = "mention belt stay knee cactus frame engage bunker melody garment motor moral";
+var mnemonic = "aspect midnight chase action young fee mechanic fun hunt explain prefer chef";

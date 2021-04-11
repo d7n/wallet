@@ -1,1 +1,1 @@
-var mnemonic = "velvet carpet bleak airport stuff quit feel gravity panel lady know jaguar";
+var mnemonic = "elite hurry wood episode limb egg truly twice dawn heart reunion police";

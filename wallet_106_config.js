@@ -1,1 +1,1 @@
-var mnemonic = "this utility fat season mask siren engage cloth find produce word current";
+var mnemonic = "drop permit eight blush margin teach best shoe owner edit tide idle";

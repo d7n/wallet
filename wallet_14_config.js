@@ -1,1 +1,1 @@
-var mnemonic = "correct panic mass derive ostrich artefact pause file mansion jar drive pull";
+var mnemonic = "nature service answer abandon evolve easily joy code kidney deputy siren claim";

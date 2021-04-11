@@ -1,1 +1,1 @@
-var mnemonic = "reveal argue nuclear boost noise void welcome ability wagon network tourist solid";
+var mnemonic = "image speed derive power road bounce erupt behave awkward seek curious rack";

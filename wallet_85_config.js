@@ -1,1 +1,1 @@
-var mnemonic = "hybrid section vibrant day tooth surround bonus ability blur upgrade knock fiction";
+var mnemonic = "course brand siege runway artefact frequent elevator veteran hurry cage ridge mention";

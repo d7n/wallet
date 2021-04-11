@@ -1,1 +1,1 @@
-var mnemonic = "vehicle bargain hen display mask woman phone vocal lesson fan fiscal ahead";
+var mnemonic = "gossip service film orphan album ask slush cousin helmet prosper output season";

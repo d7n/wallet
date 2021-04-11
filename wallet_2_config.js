@@ -1,1 +1,1 @@
-var mnemonic = "plug ramp return recall guilt stove cloth vibrant private photo water omit";
+var mnemonic = "easily stable moment damage rib intact retire furnace teach ticket hundred tool";

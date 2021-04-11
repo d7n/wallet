@@ -1,1 +1,1 @@
-var mnemonic = "gasp spare voyage guess payment humor rhythm enlist arrange shock start good";
+var mnemonic = "clap dignity tackle yellow special dolphin promote also art fetch usual thrive";

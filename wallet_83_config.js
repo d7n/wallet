@@ -1,1 +1,1 @@
-var mnemonic = "stadium door reduce sell clutch shrug emerge fuel fish control floor toy";
+var mnemonic = "idea immense slogan rival feel shift nose flat equip voice sing organ";

@@ -1,1 +1,1 @@
-var mnemonic = "series lamp crack wrong obvious fee spider theme real nose banana into";
+var mnemonic = "gossip shell mixture movie proof other fabric select group unique leader fan";

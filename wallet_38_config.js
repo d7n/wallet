@@ -1,1 +1,1 @@
-var mnemonic = "evil dinner arena replace since very address lottery peanut eager same help";
+var mnemonic = "firm shoot case until erupt fiction velvet noble input accuse bar announce";

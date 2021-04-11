@@ -1,1 +1,1 @@
-var mnemonic = "afraid correct remind cave wool load episode voice prefer multiply elder clown";
+var mnemonic = "fragile health crime frozen thank yard sheriff stand furnace cable wheel attract";

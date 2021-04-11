@@ -1,1 +1,1 @@
-var mnemonic = "afford clay donor mystery spike vessel cupboard primary toe emerge picture state";
+var mnemonic = "talent crowd vote trophy outside negative thumb reunion suffer attract repair debris";

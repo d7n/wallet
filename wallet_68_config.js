@@ -1,1 +1,1 @@
-var mnemonic = "rib favorite sing zone waste scare love industry zebra scheme ride inspire";
+var mnemonic = "drum segment mystery curious hurt minimum legend child either remember cabbage spoon";

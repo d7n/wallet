@@ -1,1 +1,1 @@
-var mnemonic = "problem increase choose affair drill divorce fork decline elegant review sponsor smooth";
+var mnemonic = "gap castle door scene survey priority purpose volume pigeon page motor manage";

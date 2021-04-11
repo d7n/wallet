@@ -1,1 +1,1 @@
-var mnemonic = "feature fantasy organ sport main dirt issue swear elephant unfair lucky sock";
+var mnemonic = "pluck diesel burden fossil warrior type buffalo soldier lucky pudding today chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "someone penalty entire upper curtain switch range margin dad humble kick voyage";
+var mnemonic = "ramp color hint void foam force feed gasp diagram present industry arctic";

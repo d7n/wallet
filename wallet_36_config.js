@@ -1,1 +1,1 @@
-var mnemonic = "vivid host wonder proud gas auto rebel mechanic dynamic border organ poverty";
+var mnemonic = "flat cruise apology fantasy code wine hybrid aunt miracle trophy wonder suit";

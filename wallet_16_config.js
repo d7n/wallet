@@ -1,1 +1,1 @@
-var mnemonic = "hire later stove tongue poverty limit lottery balance ceiling fluid warfare upgrade";
+var mnemonic = "leisure dinner collect shrug allow present afford blouse bread town wear market";

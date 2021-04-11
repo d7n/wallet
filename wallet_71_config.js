@@ -1,1 +1,1 @@
-var mnemonic = "sunset major indicate glance stuff erode file half rail radio clinic round";
+var mnemonic = "black visit stem hello evil aunt basic onion chair smart upon season";

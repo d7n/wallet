@@ -1,1 +1,1 @@
-var mnemonic = "ecology recall put turn border lawsuit scrub rail regular balcony settle style";
+var mnemonic = "portion flush tenant raw crane sauce bracket acquire action focus media level";

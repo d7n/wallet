@@ -1,1 +1,1 @@
-var mnemonic = "sentence help exhibit since step cannon tumble ride morning witness ask aim";
+var mnemonic = "chapter foot evoke boost cave expect adult empower filter fashion relief vehicle";

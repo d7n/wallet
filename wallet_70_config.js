@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur acoustic gospel audit whisper cat syrup measure staff charge sure such";
+var mnemonic = "hidden dinosaur chase garage fortune broken ramp trust digital street brown fruit";

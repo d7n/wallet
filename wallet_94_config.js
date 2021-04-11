@@ -1,1 +1,1 @@
-var mnemonic = "pass foot rotate moon capable patch frog dish canoe vicious success glue";
+var mnemonic = "illness half found desk dawn put business job bunker liquid fine people";

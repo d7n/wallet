@@ -1,1 +1,1 @@
-var mnemonic = "bridge bind find bean sweet else fatigue upper electric jacket captain poverty";
+var mnemonic = "fun motion case brush horror want spray lift business average work solution";

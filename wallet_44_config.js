@@ -1,1 +1,1 @@
-var mnemonic = "duck purity undo essence bounce tilt lava vocal bridge taste tackle rally";
+var mnemonic = "chalk opinion seat rather mule wrong risk floor anger brisk direct candy";

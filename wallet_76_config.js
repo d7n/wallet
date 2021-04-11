@@ -1,1 +1,1 @@
-var mnemonic = "saddle ancient viable onion short favorite jewel business arena shoe ahead company";
+var mnemonic = "siren breeze subject category flock energy hire initial mass release fluid lumber";

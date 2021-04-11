@@ -1,1 +1,1 @@
-var mnemonic = "scrub attract hint fluid mechanic turn insane protect pottery canvas harsh quarter";
+var mnemonic = "divert faculty mad regret soldier lazy cruel spend present announce patient obscure";

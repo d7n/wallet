@@ -1,1 +1,1 @@
-var mnemonic = "never bronze better suspect verify survey mind review entire myself hotel canal";
+var mnemonic = "control clutch spice bind chapter jazz banana wash claw bargain arctic bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "type load subject uncle toast empower october category moral merge shoot cattle";
+var mnemonic = "bullet fresh flip smooth rebel climb earth margin artist message gorilla edge";

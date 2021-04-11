@@ -1,1 +1,1 @@
-var mnemonic = "hawk knee disagree border cage nephew shrimp jump stock yellow inquiry lesson";
+var mnemonic = "camera ostrich burst waste damp magic fine wish stairs carpet human orphan";

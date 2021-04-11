@@ -1,1 +1,1 @@
-var mnemonic = "agent come until treat copper arrive alone speed decade path blue inform";
+var mnemonic = "because donor daughter divide rose remember prison share forget frame rally poem";

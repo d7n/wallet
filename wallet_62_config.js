@@ -1,1 +1,1 @@
-var mnemonic = "beauty penalty rather true motion frame repeat enroll river oil used embody";
+var mnemonic = "must derive panther police kick mouse together tip pipe inform book okay";

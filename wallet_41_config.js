@@ -1,1 +1,1 @@
-var mnemonic = "bread speak soon upset matter glass remind swarm code salmon sand scrap";
+var mnemonic = "food source elite lemon wasp chapter argue settle level dune fee oxygen";

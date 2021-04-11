@@ -1,1 +1,1 @@
-var mnemonic = "control deputy neck unique wheat ten october spider garlic original logic winner";
+var mnemonic = "spy link inject small cricket deliver absent cover water prevent record soft";

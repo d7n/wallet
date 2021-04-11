@@ -1,1 +1,1 @@
-var mnemonic = "motor another chronic mosquito awkward clock beef sibling wheel prefer world disagree";
+var mnemonic = "animal cheese confirm relief kind scheme frozen guard butter venture trumpet grape";

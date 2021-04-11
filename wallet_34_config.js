@@ -1,1 +1,1 @@
-var mnemonic = "actress lemon milk fluid head surprise wish slot knee hour kiwi ordinary";
+var mnemonic = "pig object soccer cupboard tiny hill twist furnace skin ostrich harvest spatial";

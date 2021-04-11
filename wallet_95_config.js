@@ -1,1 +1,1 @@
-var mnemonic = "lecture enact verify sorry until hotel unique tongue fitness behind travel consider";
+var mnemonic = "outdoor rough tackle call journey steel before purpose piano village vapor stay";

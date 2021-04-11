@@ -1,1 +1,1 @@
-var mnemonic = "badge volume hire enhance about wine crater music stable dove balcony thing";
+var mnemonic = "truck ramp hover violin priority major wash habit farm pond cinnamon quote";

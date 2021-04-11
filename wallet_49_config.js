@@ -1,1 +1,1 @@
-var mnemonic = "unique fever program ozone clutch orphan smart sheriff route spread copper cross";
+var mnemonic = "popular improve wasp slice honey coast focus balcony orphan more enemy mouse";

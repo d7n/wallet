@@ -1,1 +1,1 @@
-var mnemonic = "vibrant essence goose float wage inquiry use trap coin vapor there solve";
+var mnemonic = "caught bleak wild okay sniff range orbit joke purchase faculty kitten green";

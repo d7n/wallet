@@ -1,1 +1,1 @@
-var mnemonic = "already journey modify smart only boost vast orange bounce exchange keep wild";
+var mnemonic = "panel net assume monkey wheel gas minor monkey fossil lyrics drive print";

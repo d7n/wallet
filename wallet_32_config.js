@@ -1,1 +1,1 @@
-var mnemonic = "soldier grain brisk story fold whale effort vessel category catch fish sight";
+var mnemonic = "limb breeze oppose elephant occur soccer tree damage addict column rely solve";

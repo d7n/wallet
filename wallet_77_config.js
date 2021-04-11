@@ -1,1 +1,1 @@
-var mnemonic = "faith trust panic settle strong auto ticket decline canal salad long guide";
+var mnemonic = "expect random response math grant tower chaos nation glare chuckle under warrior";

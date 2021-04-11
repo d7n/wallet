@@ -1,1 +1,1 @@
-var mnemonic = "educate parrot raise unusual veteran avoid carbon solar genius allow armor finish";
+var mnemonic = "defense insect you face symptom breeze lounge food boil hold until wish";

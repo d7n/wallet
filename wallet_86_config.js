@@ -1,1 +1,1 @@
-var mnemonic = "flee soap acid balance clay oxygen treat resource athlete mistake purse gravity";
+var mnemonic = "ask mixture donkey engine inmate such stereo submit fit punch common aisle";

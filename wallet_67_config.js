@@ -1,1 +1,1 @@
-var mnemonic = "torch law talent potato west replace exchange aspect hidden vicious caught chicken";
+var mnemonic = "method catalog abuse tourist fiction lift betray carbon sunny bargain cotton hard";

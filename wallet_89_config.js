@@ -1,1 +1,1 @@
-var mnemonic = "seed hamster liberty gaze lottery alter poverty category scan satisfy drift example";
+var mnemonic = "crater knee stem three illness family joke meat canal health lift model";

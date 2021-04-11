@@ -1,1 +1,1 @@
-var mnemonic = "funny beyond try steak mutual winter ignore nuclear vibrant truck choice social";
+var mnemonic = "legend icon around clock welcome dolphin staff mimic issue latin visa cram";

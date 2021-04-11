@@ -1,1 +1,1 @@
-var mnemonic = "craft puppy wife photo monkey trigger social hard awake smart decline harvest";
+var mnemonic = "best cherry curious lucky bridge job actor clown leg profit elephant kiwi";

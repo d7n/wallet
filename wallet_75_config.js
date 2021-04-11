@@ -1,1 +1,1 @@
-var mnemonic = "tide bone toward else student found run verify alley also moral tape";
+var mnemonic = "faith focus wrap fall lens glory surprise panic way hood tag neck";

@@ -1,1 +1,1 @@
-var mnemonic = "senior hat cradle wink rely pencil strike snap thumb steak wire copy";
+var mnemonic = "bring fabric drop torch energy parent reduce coin sell angry retreat foil";

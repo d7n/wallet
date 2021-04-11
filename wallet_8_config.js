@@ -1,1 +1,1 @@
-var mnemonic = "honey catalog grain throw weather scheme priority van tag calm skill depth";
+var mnemonic = "spice session female suffer note laugh jaguar galaxy real amateur vessel kangaroo";

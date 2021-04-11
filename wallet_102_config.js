@@ -1,1 +1,1 @@
-var mnemonic = "result left fence host jacket rich puppy cigar famous also dinner velvet";
+var mnemonic = "table pyramid assist limb door never situate lake roast beyond permit robust";

@@ -1,1 +1,1 @@
-var mnemonic = "protect valve play moral wolf outer prepare sponsor ozone hover harsh august";
+var mnemonic = "lecture feed pelican warm common smoke round stamp steak among film avoid";

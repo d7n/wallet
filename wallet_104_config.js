@@ -1,1 +1,1 @@
-var mnemonic = "brand venture company glad ring vicious base bracket apology robust own fee";
+var mnemonic = "describe attract unhappy mango debris holiday knife assume arrive ugly slogan problem";

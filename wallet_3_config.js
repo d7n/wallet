@@ -1,1 +1,1 @@
-var mnemonic = "sister split atom can response young confirm stock stamp entry lift gesture";
+var mnemonic = "rule grocery apple material slender certain super wise mad neglect toilet fetch";

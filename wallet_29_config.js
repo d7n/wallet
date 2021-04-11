@@ -1,1 +1,1 @@
-var mnemonic = "fame sand quarter real toy patrol reject defense bamboo silver twin shoe";
+var mnemonic = "guitar seat air business pioneer attend cradle rug tube dutch frog depth";

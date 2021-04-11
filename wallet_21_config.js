@@ -1,1 +1,1 @@
-var mnemonic = "verb machine subway crowd alien else assume crash garden click tuna foam";
+var mnemonic = "next try fade disagree unit life cancel music aunt crash climb industry";

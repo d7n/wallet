@@ -1,1 +1,1 @@
-var mnemonic = "venture double wagon fine silver degree stick crane sausage figure example collect";
+var mnemonic = "chase lonely spend bring picnic matter dilemma ahead awful antenna prefer wash";

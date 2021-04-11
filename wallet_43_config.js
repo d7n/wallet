@@ -1,1 +1,1 @@
-var mnemonic = "unlock rifle figure connect orphan credit salt antique flip suspect reject plunge";
+var mnemonic = "version teach casino arrow around fancy ahead cross own exist grab develop";

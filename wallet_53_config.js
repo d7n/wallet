@@ -1,1 +1,1 @@
-var mnemonic = "source giraffe pink glove pizza moral soon position brown cricket man rich";
+var mnemonic = "bid crane limb planet dial jealous risk toy zebra oak upon goat";

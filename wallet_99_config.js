@@ -1,1 +1,1 @@
-var mnemonic = "inner slab forward burst fuel hobby young general seminar section need van";
+var mnemonic = "upgrade outer fuel alien knock federal seed doll humble juice stove century";

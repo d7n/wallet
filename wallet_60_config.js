@@ -1,1 +1,1 @@
-var mnemonic = "state until divide domain pulp capital book mistake live arm kite adult";
+var mnemonic = "again analyst much assist cabbage shoulder toe van nation skate army area";

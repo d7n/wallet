@@ -1,1 +1,1 @@
-var mnemonic = "worry dolphin blood blade dove length claim column off butter wreck knee";
+var mnemonic = "cave spray lottery latin sketch act elevator six baby cream dress tomato";

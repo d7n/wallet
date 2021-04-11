@@ -1,1 +1,1 @@
-var mnemonic = "inside cheese upper monitor pizza cross pink illness ensure margin shrimp spawn";
+var mnemonic = "cement day yard foil zebra ability suit uniform tip bright cause board";

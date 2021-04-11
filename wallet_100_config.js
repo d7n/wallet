@@ -1,1 +1,1 @@
-var mnemonic = "glad movie fiber test absurd horse buffalo absurd infant engage piece brush";
+var mnemonic = "message chief brick brief mandate public genuine steel glad panda weather candy";

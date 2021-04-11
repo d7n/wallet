@@ -1,1 +1,1 @@
-var mnemonic = "wash tribe clutch render increase improve twist tilt thunder predict click hedgehog";
+var mnemonic = "absurd black raise cabin talent silent vessel ramp dentist slot punch east";

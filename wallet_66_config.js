@@ -1,1 +1,1 @@
-var mnemonic = "eternal daughter sausage skirt rain burden model game erosion conduct announce stadium";
+var mnemonic = "endorse wet gain owner sunny spring wasp family flower believe prevent merit";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant shadow over owner disease legend field dismiss section evoke differ culture";
+var mnemonic = "pilot tennis anxiety sock dirt kid fatigue number slow raven artefact below";

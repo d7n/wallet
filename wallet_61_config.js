@@ -1,1 +1,1 @@
-var mnemonic = "cup sight inform action evidence grab mistake version civil final utility clever";
+var mnemonic = "distance stool actress pond certain april man broken thumb favorite when combine";
