@@ -1,1 +1,1 @@
-var mnemonic = "dragon glory reform limit ship feed loyal any cargo monkey good noodle";
+var mnemonic = "assist inflict hybrid fun boy chief habit convince goat happy kiss middle";

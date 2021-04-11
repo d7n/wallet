@@ -1,1 +1,1 @@
-var mnemonic = "engine this scout hawk nation oblige sail talent flash rice know chicken";
+var mnemonic = "indicate dune benefit expect slice ask today style betray trick wonder brisk";

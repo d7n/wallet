@@ -1,1 +1,1 @@
-var mnemonic = "view endorse crisp boy catch road siege same either flush sniff above";
+var mnemonic = "oblige stand sock mouse early name wisdom annual decrease damp mutual hole";

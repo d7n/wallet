@@ -1,1 +1,1 @@
-var mnemonic = "waste board deer brick cannon huge there spoon female vintage seven skill";
+var mnemonic = "purse weasel giant coyote current simple impose witness athlete vast air deputy";

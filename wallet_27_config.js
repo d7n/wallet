@@ -1,1 +1,1 @@
-var mnemonic = "joy mouse spend audit bone elite section answer fox you knock agree";
+var mnemonic = "rose virus quarter two physical cargo country warfare canal dice neutral romance";

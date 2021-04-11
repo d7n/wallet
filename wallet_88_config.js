@@ -1,1 +1,1 @@
-var mnemonic = "parade keep lava knee whisper field stomach figure october eight wheat monkey";
+var mnemonic = "load genre monkey hurt disorder wool measure midnight grab enhance fruit talent";

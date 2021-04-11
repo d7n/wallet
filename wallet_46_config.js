@@ -1,1 +1,1 @@
-var mnemonic = "giraffe describe describe polar proud trouble stool book creek kingdom coach device";
+var mnemonic = "approve gas drip bright mango security patrol spin leader strong buffalo wedding";

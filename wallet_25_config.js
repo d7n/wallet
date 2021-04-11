@@ -1,1 +1,1 @@
-var mnemonic = "food focus pact exhibit crash special duck reason feel case flavor target";
+var mnemonic = "guitar hand notable garment copper physical common diagram resist rural fine apple";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete verify hill fly note decade exchange dynamic chest arctic pave stove";
+var mnemonic = "blind fancy lake scale push pet dynamic ensure funny check nasty order";

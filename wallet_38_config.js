@@ -1,1 +1,1 @@
-var mnemonic = "erosion egg boss muffin grocery wool round neck pill toss pretty art";
+var mnemonic = "patch maple size panic verify fox sense good just they acid total";

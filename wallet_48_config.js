@@ -1,1 +1,1 @@
-var mnemonic = "submit moon fiction road praise pill eight brave civil treat lazy august";
+var mnemonic = "gravity pottery stumble patch excite enemy sure squeeze field history violin ahead";

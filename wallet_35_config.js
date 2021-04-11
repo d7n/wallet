@@ -1,1 +1,1 @@
-var mnemonic = "guide sister flash purity accident virus vast horse false genuine urge very";
+var mnemonic = "language love damp doctor flee term chair sheriff glare camera team material";

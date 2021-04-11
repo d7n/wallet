@@ -1,1 +1,1 @@
-var mnemonic = "mansion target tape remain bind chunk dish foot ship vibrant save blind";
+var mnemonic = "salt detect source dad science sword flight symptom patrol theme pond aunt";

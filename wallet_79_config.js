@@ -1,1 +1,1 @@
-var mnemonic = "dwarf quantum sister crew input avoid magic top parent lunch achieve pencil";
+var mnemonic = "wolf arch suspect toilet flight picture pet entire swear air balance leg";

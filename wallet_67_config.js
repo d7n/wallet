@@ -1,1 +1,1 @@
-var mnemonic = "dry fame army garlic involve fluid open enable mutual when inner aspect";
+var mnemonic = "aim bubble blood digital autumn sort motion plate apart swarm position layer";

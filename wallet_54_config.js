@@ -1,1 +1,1 @@
-var mnemonic = "canoe thing lion cradle grab genius combine inhale garlic nation danger crisp";
+var mnemonic = "proof burger scare valve shock illegal memory destroy pill vacuum cousin oven";

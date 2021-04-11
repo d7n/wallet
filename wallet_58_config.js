@@ -1,1 +1,1 @@
-var mnemonic = "stick limb rival negative example perfect vivid crystal extra job street slogan";
+var mnemonic = "spatial govern congress push exact dust cube pudding price device produce bubble";

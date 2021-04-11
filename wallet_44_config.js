@@ -1,1 +1,1 @@
-var mnemonic = "only found range title spatial tape giant essay verify skate ship blur";
+var mnemonic = "collect idea excuse blush spatial pond learn yellow elbow unable crime thing";

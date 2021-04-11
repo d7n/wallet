@@ -1,1 +1,1 @@
-var mnemonic = "midnight fault casual talk absorb already success garment boat perfect mountain jungle";
+var mnemonic = "unique boss stumble shuffle iron transfer dance spy deny elevator more project";

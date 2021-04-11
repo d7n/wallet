@@ -1,1 +1,1 @@
-var mnemonic = "alien prison spawn account neither arctic anger couple payment puzzle saddle swear";
+var mnemonic = "dinner way lamp speed detect afraid obvious village voyage tuition merry more";

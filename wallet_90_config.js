@@ -1,1 +1,1 @@
-var mnemonic = "concert slot galaxy try hope amateur common fine hen future shaft spring";
+var mnemonic = "harvest wave tattoo print gloom hole between seat toast violin belt flush";

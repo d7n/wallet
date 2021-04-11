@@ -1,1 +1,1 @@
-var mnemonic = "noble truck labor chat kitten parent feature aspect electric discover cram cinnamon";
+var mnemonic = "benefit toe century select cabbage thumb final divide acquire shell gain mimic";

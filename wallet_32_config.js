@@ -1,1 +1,1 @@
-var mnemonic = "donate fine hungry acoustic hour donor sheriff dream era lyrics soccer shop";
+var mnemonic = "concert intact burger awake neck impulse device pottery nice phone shine brick";

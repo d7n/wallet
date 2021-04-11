@@ -1,1 +1,1 @@
-var mnemonic = "void oak diagram dilemma three bronze length save duck time choose jaguar";
+var mnemonic = "certain board base student narrow behind inspire accuse scene close cloud skate";

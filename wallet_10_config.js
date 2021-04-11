@@ -1,1 +1,1 @@
-var mnemonic = "utility clutch ugly craft evil phrase order park course sell wife oppose";
+var mnemonic = "dignity century real upon sleep fire safe beef talk spawn front weasel";

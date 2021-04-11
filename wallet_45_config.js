@@ -1,1 +1,1 @@
-var mnemonic = "course moral present weird industry square hollow dry festival club rule recipe";
+var mnemonic = "scene slogan gloom animal real dawn brand bike luggage wolf rich general";

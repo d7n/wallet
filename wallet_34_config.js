@@ -1,1 +1,1 @@
-var mnemonic = "inmate oil kiss fix opinion bubble gauge expire puppy recall cost deal";
+var mnemonic = "pill firm dragon engage mesh stage hungry enjoy flag where ivory bullet";

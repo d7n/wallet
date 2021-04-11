@@ -1,1 +1,1 @@
-var mnemonic = "moment basic hedgehog chair coconut vivid cancel victory boil lunch bridge tip";
+var mnemonic = "gap distance pepper hour gym flag combine reunion remind wire music pistol";

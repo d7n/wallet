@@ -1,1 +1,1 @@
-var mnemonic = "muscle toddler sense capable rent basket fat early topple move educate polar";
+var mnemonic = "attitude force gossip arrive prize claim donate path destroy submit evil ready";

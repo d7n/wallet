@@ -1,1 +1,1 @@
-var mnemonic = "ride pear pool artefact carpet champion job switch person begin unable tonight";
+var mnemonic = "solution cause famous unlock scout glass fantasy happy nerve ill core appear";

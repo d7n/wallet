@@ -1,1 +1,1 @@
-var mnemonic = "shift vehicle recall muscle there supreme river soon kid business twist process";
+var mnemonic = "stage universe unique youth exist letter crush culture reason endless song observe";

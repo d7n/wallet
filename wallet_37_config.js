@@ -1,1 +1,1 @@
-var mnemonic = "wage pond tray drip police absurd december tunnel pond cricket save relax";
+var mnemonic = "blush ski palace glare dynamic position occur clog tuna ethics cheap fiscal";

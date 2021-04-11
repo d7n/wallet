@@ -1,1 +1,1 @@
-var mnemonic = "parent kitchen program avocado abuse siege grit call upon manual muscle meadow";
+var mnemonic = "ozone client west mimic erase blouse cloud outdoor first menu cannon salon";

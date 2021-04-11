@@ -1,1 +1,1 @@
-var mnemonic = "accident time around rain lawsuit monster buddy rubber crop letter claim noble";
+var mnemonic = "picture submit ski drip fall delay parrot canvas unusual raise dance reopen";

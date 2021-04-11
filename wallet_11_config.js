@@ -1,1 +1,1 @@
-var mnemonic = "milk theme adult wear clock trip blouse inherit foot lawsuit adult muffin";
+var mnemonic = "account umbrella more pioneer gaze involve goose flip chief route fossil canyon";

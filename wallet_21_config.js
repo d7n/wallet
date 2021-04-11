@@ -1,1 +1,1 @@
-var mnemonic = "either silver welcome kitten waste bubble task pudding bunker wedding swarm adjust";
+var mnemonic = "edge repair upgrade civil fan prefer roast misery try tent possible crunch";

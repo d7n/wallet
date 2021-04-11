@@ -1,1 +1,1 @@
-var mnemonic = "list lecture half begin false donkey grow loan myself potato wait script";
+var mnemonic = "royal brisk domain path tag obscure assault citizen live age frequent unlock";

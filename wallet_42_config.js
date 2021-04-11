@@ -1,1 +1,1 @@
-var mnemonic = "embrace goose major imitate toss repair series swing hobby together sweet soon";
+var mnemonic = "require material crystal situate raise real license urge pear album fall tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "call pitch all immense fee column dial lemon surge problem legal lizard";
+var mnemonic = "letter load ethics acquire list clog family badge satoshi flock crater survey";

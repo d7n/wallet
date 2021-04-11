@@ -1,1 +1,1 @@
-var mnemonic = "fork sand glimpse wise orchard young actress mushroom run genius state rate";
+var mnemonic = "defense frequent hurdle husband buddy print certain waste marble lady require gather";

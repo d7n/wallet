@@ -1,1 +1,1 @@
-var mnemonic = "shed cause trap ozone easily guide dinosaur zebra syrup arrive shrug wet";
+var mnemonic = "pizza arm heavy rule fortune file space hawk ethics way disagree medal";

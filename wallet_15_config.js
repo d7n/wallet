@@ -1,1 +1,1 @@
-var mnemonic = "brand manage display tree priority three speak oven first together essay library";
+var mnemonic = "soup ketchup image relief speed deny draw area once time barely link";

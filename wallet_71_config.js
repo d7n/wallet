@@ -1,1 +1,1 @@
-var mnemonic = "maze maple genius wrap force cry dash home expire proud soup loud";
+var mnemonic = "chief absent salute keep mixed make year cigar tourist repeat mask blood";

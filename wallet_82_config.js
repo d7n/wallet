@@ -1,1 +1,1 @@
-var mnemonic = "boring exclude uncle quality puzzle recall blossom edge expand magic cinnamon believe";
+var mnemonic = "palm give cave second neglect trend grow noise receive book gift job";

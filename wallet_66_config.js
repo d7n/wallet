@@ -1,1 +1,1 @@
-var mnemonic = "recycle comfort reason photo team pride mom fashion sight august flush song";
+var mnemonic = "champion hire equal skin pilot adjust crush betray toddler omit cactus fire";

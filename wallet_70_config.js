@@ -1,1 +1,1 @@
-var mnemonic = "layer vote voice census palace allow cook hard spare call ready either";
+var mnemonic = "admit swing salad version wisdom success soon behave pitch paper tragic cause";

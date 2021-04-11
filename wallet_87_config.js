@@ -1,1 +1,1 @@
-var mnemonic = "auction toss timber road mirror onion snack term hair render axis situate";
+var mnemonic = "loop armed erosion indicate input kit host concert direct actress scheme ocean";

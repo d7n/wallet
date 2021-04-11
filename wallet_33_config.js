@@ -1,1 +1,1 @@
-var mnemonic = "ticket lion enact spell emerge session zoo foot zoo abandon juice marine";
+var mnemonic = "wife engine home lift moral winner army length sleep horn right tray";

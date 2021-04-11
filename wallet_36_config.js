@@ -1,1 +1,1 @@
-var mnemonic = "pupil income lawsuit always kit food spell sudden hobby banner road shuffle";
+var mnemonic = "theory survey collect between antenna force hurry fortune awesome funny very pistol";

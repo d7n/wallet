@@ -1,1 +1,1 @@
-var mnemonic = "key milk lens olive leader scissors limit clay combine island glance side";
+var mnemonic = "recall close panic machine goat fossil quiz bus used claw solar axis";

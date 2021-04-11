@@ -1,1 +1,1 @@
-var mnemonic = "live asthma faculty hamster region gather when promote crawl picnic govern physical";
+var mnemonic = "crop always smart toast sight enact frost hood multiply damage knee grain";

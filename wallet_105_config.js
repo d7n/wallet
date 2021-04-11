@@ -1,1 +1,1 @@
-var mnemonic = "execute once leader solar liberty calm question drill make baby fantasy gift";
+var mnemonic = "sound empty prefer dumb cheese chair believe toss globe join cabin cement";

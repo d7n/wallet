@@ -1,1 +1,1 @@
-var mnemonic = "try time memory sniff fork first tackle museum link betray harsh exotic";
+var mnemonic = "hill aim stage skill glow youth inside arrive easily plug attitude focus";

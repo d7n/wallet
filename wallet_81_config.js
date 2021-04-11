@@ -1,1 +1,1 @@
-var mnemonic = "angle remain success rate ozone chimney eager admit wood reward roof fade";
+var mnemonic = "cradle marriage desk input ceiling plastic leaf deer nothing pair wrap total";

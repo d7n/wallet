@@ -1,1 +1,1 @@
-var mnemonic = "either act desert scheme oxygen open matrix educate exclude bind clever yard";
+var mnemonic = "index extend diet acquire recycle this choose bridge curious swing fall boil";

@@ -1,1 +1,1 @@
-var mnemonic = "problem leg hero lonely hedgehog dignity number element book merry foil poem";
+var mnemonic = "try attitude pepper insect call bitter split future lounge walnut service crumble";

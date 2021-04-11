@@ -1,1 +1,1 @@
-var mnemonic = "fall uniform member security spell scene since brother ride hat option smart";
+var mnemonic = "eyebrow embrace captain stove innocent country bachelor bitter decide inner music office";

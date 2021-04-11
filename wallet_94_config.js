@@ -1,1 +1,1 @@
-var mnemonic = "library nature toss universe spare venture peasant cake welcome west end gather";
+var mnemonic = "torch brand fatigue fox surface promote acquire power skate rabbit bus excess";

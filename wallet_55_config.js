@@ -1,1 +1,1 @@
-var mnemonic = "diary cattle have six beach crane offer canoe exit hidden young sauce";
+var mnemonic = "wonder enable ocean embrace retire flash twenty decorate genuine bus wrap isolate";

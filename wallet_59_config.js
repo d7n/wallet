@@ -1,1 +1,1 @@
-var mnemonic = "lamp zone sword tissue mixture stone mad trouble skate artist square baby";
+var mnemonic = "six duck example analyst major frog boss stereo method turtle air census";

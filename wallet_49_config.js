@@ -1,1 +1,1 @@
-var mnemonic = "olive only team famous argue genuine right head habit airport milk drop";
+var mnemonic = "pony feature giraffe swing major undo tail about youth people discover couple";

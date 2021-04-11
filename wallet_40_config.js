@@ -1,1 +1,1 @@
-var mnemonic = "deliver weather begin movie husband exclude arrest jazz genuine theory funny behave";
+var mnemonic = "meadow puppy gauge detail food word eye auction card tuna include fresh";

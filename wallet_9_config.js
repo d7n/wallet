@@ -1,1 +1,1 @@
-var mnemonic = "world liberty humble tool mansion finish sight prefer tennis road danger quarter";
+var mnemonic = "sister power music flash endorse swarm vapor decade dad between delay scatter";

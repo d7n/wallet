@@ -1,1 +1,1 @@
-var mnemonic = "jeans hope earn fabric mammal debate carpet episode rigid health seven peasant";
+var mnemonic = "bar zoo meadow gorilla leaf jealous hen amazing raise arctic major limit";

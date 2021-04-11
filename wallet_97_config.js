@@ -1,1 +1,1 @@
-var mnemonic = "exotic demand embark brave can coil actor limb nerve pool dress cram";
+var mnemonic = "tool concert grain attend priority found tuna gun protect nurse sense main";

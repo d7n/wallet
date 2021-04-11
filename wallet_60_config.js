@@ -1,1 +1,1 @@
-var mnemonic = "gesture virus find impulse win also satoshi crumble become fashion strong erode";
+var mnemonic = "boost execute model reopen sword switch fitness derive attitude woman edge innocent";

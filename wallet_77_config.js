@@ -1,1 +1,1 @@
-var mnemonic = "best chunk army swap opinion eager differ drastic void mad knife bracket";
+var mnemonic = "armed rate predict vanish kind battle liquid tide copper endless shed place";

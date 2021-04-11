@@ -1,1 +1,1 @@
-var mnemonic = "awful merit walk curtain road park diary garden upset response inform knee";
+var mnemonic = "donkey idea reduce asset income hybrid ripple popular habit cactus section soccer";

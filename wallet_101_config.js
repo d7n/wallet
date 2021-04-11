@@ -1,1 +1,1 @@
-var mnemonic = "faith lemon gain lobster loyal pink slogan drink tomorrow oak sword tobacco";
+var mnemonic = "action final ordinary write ugly hint weasel bench old borrow comic october";

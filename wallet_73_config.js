@@ -1,1 +1,1 @@
-var mnemonic = "raccoon gadget there run van version layer garment lyrics student tube earth";
+var mnemonic = "crawl link faith all repeat devote vapor domain fault mother source stuff";

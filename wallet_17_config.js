@@ -1,1 +1,1 @@
-var mnemonic = "lazy metal upper depend swim crush shy jacket tiger bronze lion alert";
+var mnemonic = "hip expect derive debate penalty turkey nice pencil clump car boring erupt";

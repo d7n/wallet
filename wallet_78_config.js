@@ -1,1 +1,1 @@
-var mnemonic = "load argue wise soul radar sport rapid melt illegal win speed arrange";
+var mnemonic = "consider choice toward tourist arm always laugh version stove glue speed roast";

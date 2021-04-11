@@ -1,1 +1,1 @@
-var mnemonic = "scrap legend nasty mixed rally news team define exact cupboard suggest reopen";
+var mnemonic = "shift reason often stumble foil gown useful alarm myself genre either express";

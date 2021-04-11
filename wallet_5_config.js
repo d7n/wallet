@@ -1,1 +1,1 @@
-var mnemonic = "slam main suffer lesson cream lyrics balance banner vehicle toilet sport industry";
+var mnemonic = "latin frequent gentle text address grant advice hybrid south trap skirt page";

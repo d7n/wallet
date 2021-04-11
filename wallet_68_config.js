@@ -1,1 +1,1 @@
-var mnemonic = "there need jelly clinic tunnel exact mother armor story unable sadness try";
+var mnemonic = "garage audit shallow pear leg light balcony angle business ordinary rule business";

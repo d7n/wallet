@@ -1,1 +1,1 @@
-var mnemonic = "steel bubble mystery list shift rich mechanic book project rent energy stone";
+var mnemonic = "govern cactus crouch assume garage able dignity answer globe style million beef";

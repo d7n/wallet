@@ -1,1 +1,1 @@
-var mnemonic = "fashion afraid space special farm age hunt laugh deal boy lift badge";
+var mnemonic = "angry spoon lazy lecture talent fatigue input gas work cycle subway earth";

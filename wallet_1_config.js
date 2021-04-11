@@ -1,1 +1,1 @@
-var mnemonic = "rhythm slam never magnet level level dizzy match music aisle mutual remember";
+var mnemonic = "please hub scissors main observe audit hamster spray limb snow drink vicious";

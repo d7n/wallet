@@ -1,1 +1,1 @@
-var mnemonic = "security axis practice venue leg duck soft image faith bind head spatial";
+var mnemonic = "rebel million distance jungle boss wash dress slender train vibrant torch seminar";

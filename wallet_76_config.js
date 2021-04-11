@@ -1,1 +1,1 @@
-var mnemonic = "auto supply sudden evoke sail already paddle chef erode poet gorilla weird";
+var mnemonic = "battle sort dish boat wheat process edit wine trial banana swear book";

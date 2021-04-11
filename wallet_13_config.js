@@ -1,1 +1,1 @@
-var mnemonic = "device regular apart alpha high solve lion feed abandon rubber wheat yellow";
+var mnemonic = "vessel track actor broccoli siege twelve vague pride possible glance bleak section";

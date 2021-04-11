@@ -1,1 +1,1 @@
-var mnemonic = "stay disease benefit young slush velvet accuse please face urban punch good";
+var mnemonic = "net puppy exist stay pyramid spice hill else try credit benefit erosion";

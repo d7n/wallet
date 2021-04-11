@@ -1,1 +1,1 @@
-var mnemonic = "valve lumber sheriff huge stamp angry once laugh guess rug become bomb";
+var mnemonic = "setup drastic tumble cluster black gold cushion candy display dice stomach gown";

@@ -1,1 +1,1 @@
-var mnemonic = "donor civil need mother must tell expire castle three burst stool degree";
+var mnemonic = "vast banner canyon when basic object negative column decade planet bar draw";

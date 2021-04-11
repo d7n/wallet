@@ -1,1 +1,1 @@
-var mnemonic = "laptop jaguar radar float pair fault cube hazard early paddle match cliff";
+var mnemonic = "drastic security explain empty solution diagram shoot size stairs welcome minute joke";

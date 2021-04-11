@@ -1,1 +1,1 @@
-var mnemonic = "know random fog critic occur check tip stick crew pool panic foil";
+var mnemonic = "juice this marine guitar casual choice airport certain genuine prevent burger unaware";

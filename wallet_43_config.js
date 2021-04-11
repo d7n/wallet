@@ -1,1 +1,1 @@
-var mnemonic = "similar alter napkin steak opera security add canyon bracket manage carpet holiday";
+var mnemonic = "clown school gorilla analyst mule ribbon tube wool heavy cruise express cheap";
