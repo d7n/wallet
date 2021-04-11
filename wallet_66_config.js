@@ -1,1 +1,1 @@
-var mnemonic = "girl dragon skill ignore balcony husband mammal citizen proud wrap achieve marble";
+var mnemonic = "guitar narrow scout crash device clay argue stuff ghost swallow march struggle";

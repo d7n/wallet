@@ -1,1 +1,1 @@
-var mnemonic = "notice glance method upset diesel loop various liberty tissue lens regular panel";
+var mnemonic = "else wine olive leisure cricket price filter pact math moment fun hungry";

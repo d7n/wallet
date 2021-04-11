@@ -1,1 +1,1 @@
-var mnemonic = "alert spare bachelor snap type giant electric biology limb genius dirt sibling";
+var mnemonic = "promote chunk insane brave side rule earth royal stamp damp bring width";

@@ -1,1 +1,1 @@
-var mnemonic = "elite write arena slow ozone cruise expect process someone resemble fish library";
+var mnemonic = "elephant foot young steel injury stool wave behind borrow puzzle galaxy nice";

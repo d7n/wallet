@@ -1,1 +1,1 @@
-var mnemonic = "mobile razor cannon february bicycle night section path morning civil rude merge";
+var mnemonic = "flock elevator all swim bless pact antenna tornado twenty dwarf inch moral";

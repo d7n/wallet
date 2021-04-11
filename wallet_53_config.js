@@ -1,1 +1,1 @@
-var mnemonic = "fault skill science egg drink ignore naive industry drum grid process wisdom";
+var mnemonic = "dose coral notable toilet hazard crew episode rocket hedgehog admit focus hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "magic police purse patrol fish cute crash key monster street grape they";
+var mnemonic = "grant flash sleep twist advance foil beach know cycle decorate mixed fiction";

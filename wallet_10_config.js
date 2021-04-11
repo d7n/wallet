@@ -1,1 +1,1 @@
-var mnemonic = "pair purchase club remember oak urge crack soda when abstract mistake oval";
+var mnemonic = "rookie universe upgrade salute quarter trouble fade isolate faculty cool dwarf guide";

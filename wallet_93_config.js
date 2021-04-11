@@ -1,1 +1,1 @@
-var mnemonic = "there input kidney hockey august inner same come bright hire burden collect";
+var mnemonic = "leg runway post inner tray inner then sunny thought gravity labor panda";

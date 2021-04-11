@@ -1,1 +1,1 @@
-var mnemonic = "access fee usage gown disease spatial speed laugh sure hurt sentence nerve";
+var mnemonic = "yard popular payment tackle young feed turtle shine fog pitch lunar ill";

@@ -1,1 +1,1 @@
-var mnemonic = "net foil stock north mirror catch rally elbow discover traffic daring blade";
+var mnemonic = "female liberty rapid nephew polar property wood zero address absent suffer hat";

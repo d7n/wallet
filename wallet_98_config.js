@@ -1,1 +1,1 @@
-var mnemonic = "call width advance slab roof bachelor caution muscle frequent nasty cute gadget";
+var mnemonic = "relax attitude nurse wall nation inflict share robust apple math tomato dish";

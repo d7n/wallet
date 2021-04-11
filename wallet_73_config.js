@@ -1,1 +1,1 @@
-var mnemonic = "already result situate miss grunt eye want only claim keep afraid boring";
+var mnemonic = "speak talk link sleep kitchen engage scorpion parent hub adult belt choose";

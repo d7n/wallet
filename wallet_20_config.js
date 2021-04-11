@@ -1,1 +1,1 @@
-var mnemonic = "wide fantasy life harbor north regular will happy indoor bar acoustic desk";
+var mnemonic = "method domain example paper pair blind giraffe hat session clerk chief term";

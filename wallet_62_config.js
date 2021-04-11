@@ -1,1 +1,1 @@
-var mnemonic = "crane come output dream once sentence clerk holiday frown silly nest blue";
+var mnemonic = "amount boss umbrella mountain flavor trap wisdom dwarf robust chaos park leaf";

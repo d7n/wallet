@@ -1,1 +1,1 @@
-var mnemonic = "relax put mosquito rely fault acquire wrap snap advance jeans whip clutch";
+var mnemonic = "where artwork subject farm eyebrow option easily shiver someone vintage engine senior";

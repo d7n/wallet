@@ -1,1 +1,1 @@
-var mnemonic = "illegal parent beauty devote employ bomb wish old interest olympic act deny";
+var mnemonic = "empower fabric angry various egg arrest sad liquid broccoli holiday begin island";

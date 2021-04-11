@@ -1,1 +1,1 @@
-var mnemonic = "text increase over engage solution range permit grass ceiling body such museum";
+var mnemonic = "garlic sample autumn magic else obvious rich health recipe devote asthma weasel";

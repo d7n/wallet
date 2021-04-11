@@ -1,1 +1,1 @@
-var mnemonic = "street tenant leg cruel belt flat bitter script vacuum range tattoo mouse";
+var mnemonic = "waste deny cake gas december foam better rival rough distance mad amused";

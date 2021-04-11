@@ -1,1 +1,1 @@
-var mnemonic = "garden key relax repair bicycle orange lift sock scout faith pepper raccoon";
+var mnemonic = "science endorse eager belt post limb forget desert video club oak strike";

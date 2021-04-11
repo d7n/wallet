@@ -1,1 +1,1 @@
-var mnemonic = "kit apple stairs diet monkey fruit lawn solar occur flame subway limb";
+var mnemonic = "answer caught fabric ski brass know slogan sad toy connect critic reward";

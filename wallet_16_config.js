@@ -1,1 +1,1 @@
-var mnemonic = "sunny question seed universe field shy bundle glide level develop motor firm";
+var mnemonic = "holiday business bullet cancel main bonus alley credit achieve clinic cheese cost";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling express pair artist frame miss insane pluck solve truly need canvas";
+var mnemonic = "taste ocean reform copper badge rude floor elephant visit luxury execute potato";

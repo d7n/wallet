@@ -1,1 +1,1 @@
-var mnemonic = "afraid lady armor demand tourist bread gossip pudding rhythm clinic aspect update";
+var mnemonic = "believe little rally unfair change way moon stick loyal trigger evidence quick";

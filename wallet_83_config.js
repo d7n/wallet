@@ -1,1 +1,1 @@
-var mnemonic = "average adapt region sadness please detect warm example zebra arctic invite enter";
+var mnemonic = "fossil idea drama shuffle crush join jealous subway train organ air poem";

@@ -1,1 +1,1 @@
-var mnemonic = "basket confirm list hub polar grab cattle student enrich talk fire state";
+var mnemonic = "tackle memory rich daughter unique honey decade silent live wood junk lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "valley excuse beef flame must stay jazz point oblige sweet soda thrive";
+var mnemonic = "feel art hobby wet minimum exhibit summer saddle final assist obtain check";

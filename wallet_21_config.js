@@ -1,1 +1,1 @@
-var mnemonic = "civil runway keep exotic collect skin load pigeon nerve wave can useless";
+var mnemonic = "maple sight horror family below boss wasp aerobic consider sock sword science";

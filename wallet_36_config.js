@@ -1,1 +1,1 @@
-var mnemonic = "idle expand lift sort armor girl victory result champion lion blossom zoo";
+var mnemonic = "flavor slide insect tennis stuff immense stumble anxiety polar cactus shadow explain";

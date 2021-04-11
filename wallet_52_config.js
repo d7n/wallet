@@ -1,1 +1,1 @@
-var mnemonic = "write desk danger update whale engine advice transfer leg share power rain";
+var mnemonic = "method visa exact icon unit foam tuna witness tourist power neither kite";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture know embody rely scrap ivory coil rescue leader pen fit bid";
+var mnemonic = "giraffe tiger giant hockey pull scene struggle scatter wrap whip random vault";

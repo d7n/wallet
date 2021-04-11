@@ -1,1 +1,1 @@
-var mnemonic = "imitate jaguar flight hurry prison motion duck position dry document evolve slow";
+var mnemonic = "retire coast sample vivid scatter cover worth voice legend spike unfold near";

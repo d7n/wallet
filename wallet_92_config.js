@@ -1,1 +1,1 @@
-var mnemonic = "position toy right disorder outer bench update stock drift shell anchor surge";
+var mnemonic = "glide express right old vendor gloom stone menu nuclear shine firm empower";

@@ -1,1 +1,1 @@
-var mnemonic = "social guitar chest stool hold clutch myth decorate wolf dust utility glimpse";
+var mnemonic = "only raven winner cloud rate tooth behind witness simple entire inside large";

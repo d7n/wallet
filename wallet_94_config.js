@@ -1,1 +1,1 @@
-var mnemonic = "height bridge tattoo someone normal obvious inspire mom unaware worth hamster document";
+var mnemonic = "oval item ignore item ancient betray grass valley kidney mixture master type";

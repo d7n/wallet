@@ -1,1 +1,1 @@
-var mnemonic = "bonus fiction until tent leader mouse insect sound spawn develop viable execute";
+var mnemonic = "high coconut cake left oven select glad evil palace route lesson yard";

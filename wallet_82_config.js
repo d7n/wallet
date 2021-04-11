@@ -1,1 +1,1 @@
-var mnemonic = "apart rebel suggest custom license tissue shift view puzzle old damage sail";
+var mnemonic = "lawn hamster lecture pride about time spatial pool erase love story foot";

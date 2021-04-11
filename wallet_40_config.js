@@ -1,1 +1,1 @@
-var mnemonic = "build dash dove fan scatter cargo suspect visual false snap since curtain";
+var mnemonic = "seat purity kit rabbit either eager turkey noble despair believe river misery";

@@ -1,1 +1,1 @@
-var mnemonic = "industry model wash figure east surround giggle mom north grid tooth six";
+var mnemonic = "biology divorce brisk neutral page dismiss absent mule lyrics half decrease rule";

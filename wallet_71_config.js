@@ -1,1 +1,1 @@
-var mnemonic = "world mystery wisdom muscle win toward because assume plastic short order dentist";
+var mnemonic = "fashion amateur engage code castle uncle broom congress uniform yard enact luggage";

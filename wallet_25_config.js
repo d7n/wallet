@@ -1,1 +1,1 @@
-var mnemonic = "sea card follow pulse unaware rule total hurt friend canal nominee wealth";
+var mnemonic = "donkey glimpse like enter cup exhibit monitor clock surround lab arrest super";

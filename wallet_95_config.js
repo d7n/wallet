@@ -1,1 +1,1 @@
-var mnemonic = "just expect art taste position type tool rude speak almost segment chase";
+var mnemonic = "destroy drift together defense enact tunnel crawl finish child flag become welcome";

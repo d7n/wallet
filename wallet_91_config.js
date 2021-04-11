@@ -1,1 +1,1 @@
-var mnemonic = "hour marine brush attract win panic assault bind joke zebra mother mansion";
+var mnemonic = "flock prosper narrow mansion magic usual cool worry act permit repeat song";

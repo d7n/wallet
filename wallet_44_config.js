@@ -1,1 +1,1 @@
-var mnemonic = "bachelor sibling crew isolate neglect slam mushroom then fork flush scale risk";
+var mnemonic = "estate wing cave device cute blur law rotate utility wise rack fragile";

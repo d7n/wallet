@@ -1,1 +1,1 @@
-var mnemonic = "spike delay sick about circle negative master genius tape system skate metal";
+var mnemonic = "pattern manage essay zebra execute among develop can fire attend wife pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon walk certain fossil denial popular champion extra electric author elite burden";
+var mnemonic = "actual about sponsor song spend tired settle frequent clarify rose father quiz";

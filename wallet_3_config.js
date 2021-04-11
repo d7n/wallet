@@ -1,1 +1,1 @@
-var mnemonic = "garment addict noise hurt rose sort candy insane industry awful despair effort";
+var mnemonic = "distance firm roast discover pear ill erupt catch reopen combine current teach";

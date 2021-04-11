@@ -1,1 +1,1 @@
-var mnemonic = "damp misery corn orbit income bachelor nephew forget hurt appear tape secret";
+var mnemonic = "cruel solid adult bacon cute husband adjust trap detect release fortune emerge";

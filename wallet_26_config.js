@@ -1,1 +1,1 @@
-var mnemonic = "gain orient cactus globe refuse vapor twelve razor lift pass dune prison";
+var mnemonic = "garment describe genre govern slide salmon kit address ice advance scatter feel";

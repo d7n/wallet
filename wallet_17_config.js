@@ -1,1 +1,1 @@
-var mnemonic = "breeze gain slice enroll jungle allow doll improve jeans festival fantasy borrow";
+var mnemonic = "angle divorce melt empty lawsuit blur sugar buddy elite brief slice wild";

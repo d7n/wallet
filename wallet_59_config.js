@@ -1,1 +1,1 @@
-var mnemonic = "sunny venue grid situate grace section nuclear fork anger visual bag voyage";
+var mnemonic = "vehicle travel robust music primary december jungle method crash favorite sight zero";

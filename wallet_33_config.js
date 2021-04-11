@@ -1,1 +1,1 @@
-var mnemonic = "middle right art offer scrap capital rhythm voice barely canal notice exercise";
+var mnemonic = "tumble demise discover sea glory february defy tunnel rail van suggest leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "drama possible elegant author obscure false net unusual credit dance scale luxury";
+var mnemonic = "lucky caution spy poem stomach coffee arrest jewel brisk wool slow suffer";

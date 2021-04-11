@@ -1,1 +1,1 @@
-var mnemonic = "describe diesel exact festival witness debate verify blossom network torch flag help";
+var mnemonic = "wear rebel include object later evidence region brain wrist slush either gospel";

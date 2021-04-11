@@ -1,1 +1,1 @@
-var mnemonic = "public void bitter update child elder lend essay clutch crane muffin pull";
+var mnemonic = "dizzy siren shuffle height upper wreck flame you perfect pistol zone fabric";

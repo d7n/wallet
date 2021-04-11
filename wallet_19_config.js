@@ -1,1 +1,1 @@
-var mnemonic = "eager favorite report shuffle behave silent stick transfer snake fancy vote color";
+var mnemonic = "blossom voyage dry busy excuse furnace shield clean between town end image";

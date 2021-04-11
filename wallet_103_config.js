@@ -1,1 +1,1 @@
-var mnemonic = "rack loop zero remain vivid nasty village liar earn manual flush drill";
+var mnemonic = "arctic craft walk pig rain shop vehicle hunt desert chef grace estate";

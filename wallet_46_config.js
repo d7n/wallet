@@ -1,1 +1,1 @@
-var mnemonic = "velvet candy pottery supply divide appear door sauce unfair crystal idea firm";
+var mnemonic = "safe tissue crack quantum found rough husband mountain picnic country guitar exercise";

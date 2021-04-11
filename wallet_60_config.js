@@ -1,1 +1,1 @@
-var mnemonic = "endless gentle shoot series winter leader luxury loyal bomb vote rival aware";
+var mnemonic = "nature brown maple injury crush wagon obvious moment culture island tattoo muffin";

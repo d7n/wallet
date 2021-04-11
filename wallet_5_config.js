@@ -1,1 +1,1 @@
-var mnemonic = "number scrap reform left enrich goose powder peasant miss panel meat pepper";
+var mnemonic = "file plunge nose summer ensure visual purpose hurt beef ankle annual powder";

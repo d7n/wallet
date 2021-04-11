@@ -1,1 +1,1 @@
-var mnemonic = "peanut waste theory retreat concert country front spray blind develop february sniff";
+var mnemonic = "excuse pigeon inherit banner state desert shiver shed wild skirt lend bullet";

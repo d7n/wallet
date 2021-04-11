@@ -1,1 +1,1 @@
-var mnemonic = "head sniff tent slab soap puppy hundred check stay endless humble south";
+var mnemonic = "intact youth grow scrub law throw choose spawn switch decorate tumble tenant";

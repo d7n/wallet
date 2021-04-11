@@ -1,1 +1,1 @@
-var mnemonic = "claw gloom door mass else matter stereo lonely february blast base choice";
+var mnemonic = "music best online gentle post grief powder route steak emotion dry patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "spike slow blade private write axis stool frequent chuckle midnight inject artist";
+var mnemonic = "fruit cabbage very teach trim start scheme type shell column volcano page";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve stool brave picture olympic purse vapor copper october digital fetch media";
+var mnemonic = "welcome universe jungle draft mansion usage penalty riot tube mandate rebuild cotton";

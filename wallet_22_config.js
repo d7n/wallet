@@ -1,1 +1,1 @@
-var mnemonic = "sponsor pledge nose tunnel sense learn humble harbor woman squeeze advice omit";
+var mnemonic = "bean industry bundle dove people famous area erupt toy artefact loan piano";

@@ -1,1 +1,1 @@
-var mnemonic = "glory share frame border equal term kangaroo eight barely sauce giant laundry";
+var mnemonic = "trick force wild bleak loud neither solution custom discover wolf behind play";

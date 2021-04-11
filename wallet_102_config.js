@@ -1,1 +1,1 @@
-var mnemonic = "unfair satisfy expand sword language ghost badge never surround labor purse diary";
+var mnemonic = "sing surge model kiss tube genre travel phone review away tiger illegal";

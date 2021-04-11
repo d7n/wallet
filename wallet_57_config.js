@@ -1,1 +1,1 @@
-var mnemonic = "often duty bomb beach bus radar avoid plug tomato style kind deal";
+var mnemonic = "final liberty stock hip prison height team oblige inform road confirm scene";

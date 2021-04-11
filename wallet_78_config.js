@@ -1,1 +1,1 @@
-var mnemonic = "skirt swear grant cloud animal brisk banana purity robust asset conduct unhappy";
+var mnemonic = "kitten minimum total quote crisp into violin help goat volcano grief cinnamon";

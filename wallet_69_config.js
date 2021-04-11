@@ -1,1 +1,1 @@
-var mnemonic = "ivory mutual caution mean north claw cheese birth toddler tilt gold deliver";
+var mnemonic = "cabin deal blade olive ramp few crisp manage mixture share gravity dash";

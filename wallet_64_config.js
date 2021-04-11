@@ -1,1 +1,1 @@
-var mnemonic = "guitar device chuckle cart jungle devote regular rack someone mimic lawsuit sheriff";
+var mnemonic = "guide mix pool guide jaguar evoke title taxi range wealth cloud deposit";

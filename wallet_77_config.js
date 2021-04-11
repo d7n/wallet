@@ -1,1 +1,1 @@
-var mnemonic = "actual debris fiscal jungle suit spring false vendor jazz barrel stay drill";
+var mnemonic = "valve text ritual top citizen message bird impose must hamster impose soap";

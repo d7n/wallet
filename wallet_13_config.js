@@ -1,1 +1,1 @@
-var mnemonic = "lonely vicious abandon blast bean swarm fly evoke cheese foot cattle include";
+var mnemonic = "call flower trust pen feel addict cost pencil cram treat income gift";

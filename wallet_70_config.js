@@ -1,1 +1,1 @@
-var mnemonic = "grid apology boil garbage erode grid umbrella gun about vacuum adult scorpion";
+var mnemonic = "flavor brave quiz season dove found trick unit tell together surge toss";

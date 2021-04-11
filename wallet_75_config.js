@@ -1,1 +1,1 @@
-var mnemonic = "family powder major belt uphold entire narrow human maid absent educate staff";
+var mnemonic = "skin loan romance oil judge soft perfect toss danger carpet step fresh";

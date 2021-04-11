@@ -1,1 +1,1 @@
-var mnemonic = "buddy object jelly panic guess zoo valley jaguar box salad more average";
+var mnemonic = "junk brother cupboard report slot fork joke february online wrestle clap zero";

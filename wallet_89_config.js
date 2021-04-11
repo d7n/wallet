@@ -1,1 +1,1 @@
-var mnemonic = "lottery exclude grief boat long day decide trim urge biology body fine";
+var mnemonic = "goose liquid rescue kind multiply fork rule today flock curious consider wear";

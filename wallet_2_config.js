@@ -1,1 +1,1 @@
-var mnemonic = "process test have bronze medal celery tuition must travel bronze canvas reward";
+var mnemonic = "paddle glide calm glance school army basic onion gloom solve color venture";

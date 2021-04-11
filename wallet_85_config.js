@@ -1,1 +1,1 @@
-var mnemonic = "leave robot panic slogan genius arch item awake hub erode sister hazard";
+var mnemonic = "beef unlock ensure girl faint claim ten add easily code salad mother";

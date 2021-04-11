@@ -1,1 +1,1 @@
-var mnemonic = "globe enemy bachelor trial bulb coconut hero fiction treat emotion skirt nurse";
+var mnemonic = "cover brush mimic retreat lyrics purity able excuse velvet pony live raw";

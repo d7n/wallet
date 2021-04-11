@@ -1,1 +1,1 @@
-var mnemonic = "two knife matrix dilemma churn next awake leopard pact donkey must palace";
+var mnemonic = "height match shadow knife doctor clown forward brown author country impact stick";

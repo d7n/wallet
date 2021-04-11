@@ -1,1 +1,1 @@
-var mnemonic = "turkey service anger atom feature damage typical universe potato total length warrior";
+var mnemonic = "leaf crater ski diesel raw run gown cancel world turn never narrow";

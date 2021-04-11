@@ -1,1 +1,1 @@
-var mnemonic = "try brass pulp elbow license analyst reveal hip army symptom flight destroy";
+var mnemonic = "peanut civil asthma sunny brown miracle anchor auto rubber ridge rare volcano";

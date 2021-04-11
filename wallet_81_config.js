@@ -1,1 +1,1 @@
-var mnemonic = "divorce melt entire century drive notice rose amused window kingdom donate sunny";
+var mnemonic = "feel zebra hat pupil dash give fiction celery merge wing expect enter";

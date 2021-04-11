@@ -1,1 +1,1 @@
-var mnemonic = "hen balcony narrow cart fox rubber rude process note orchard pact lift";
+var mnemonic = "immune style train second blouse renew flip border avoid mule chapter anxiety";

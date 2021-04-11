@@ -1,1 +1,1 @@
-var mnemonic = "leave fat spin wise poet there curious bacon onion unhappy size reform";
+var mnemonic = "brush settle subject test legal enrich laugh manual spider width code awful";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo come bridge discover fold benefit spy erase cart length add hip";
+var mnemonic = "relax such carry middle foot tuition hunt black unfair market blue solution";

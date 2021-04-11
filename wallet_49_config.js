@@ -1,1 +1,1 @@
-var mnemonic = "prefer vanish retreat kid offer already recall parrot cargo rose ranch want";
+var mnemonic = "gold tone miss cube occur milk horn major aware scatter estate peace";

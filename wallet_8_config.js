@@ -1,1 +1,1 @@
-var mnemonic = "type polar path imitate behind model clock skirt expand wreck gauge unfair";
+var mnemonic = "guilt talent ribbon universe elevator pepper social stereo plunge spike quarter lounge";
