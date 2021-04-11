@@ -1,1 +1,1 @@
-var mnemonic = "cash atom title okay benefit adapt rocket asthma near regular pen bomb";
+var mnemonic = "monkey empty impose live absent undo laptop brass drum busy joy illness";

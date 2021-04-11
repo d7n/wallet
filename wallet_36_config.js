@@ -1,1 +1,1 @@
-var mnemonic = "taste sample junior hockey source style favorite derive vast brave dress skirt";
+var mnemonic = "orbit crouch clump quit target wet sausage sphere fix view few expand";

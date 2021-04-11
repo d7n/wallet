@@ -1,1 +1,1 @@
-var mnemonic = "picture demise habit sugar stairs news dial hip wall speak enemy document";
+var mnemonic = "salad nature flavor east sustain output relax bind powder correct reform isolate";

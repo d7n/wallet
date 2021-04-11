@@ -1,1 +1,1 @@
-var mnemonic = "amount return awake recipe repair armor coil history hard energy dice fall";
+var mnemonic = "slush increase royal online flip saddle ready fresh health fade blood capable";

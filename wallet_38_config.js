@@ -1,1 +1,1 @@
-var mnemonic = "wonder foil electric reform lazy entire universe observe pear kit bullet market";
+var mnemonic = "dose detect absurd coconut pizza mirror plastic clap vote giraffe must civil";

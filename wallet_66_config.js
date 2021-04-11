@@ -1,1 +1,1 @@
-var mnemonic = "taxi near moment since film decade nest artwork scheme maid bright kangaroo";
+var mnemonic = "that annual patient brush speak man allow canal erosion welcome intact salon";

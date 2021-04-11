@@ -1,1 +1,1 @@
-var mnemonic = "lady excite chase skin cloth amazing ivory goddess art walnut finish liberty";
+var mnemonic = "emerge dice adult clever educate gain just master entire brave any assist";

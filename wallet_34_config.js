@@ -1,1 +1,1 @@
-var mnemonic = "annual utility fix best shaft cat dinosaur dry cargo blouse display extend";
+var mnemonic = "oyster enroll energy title lady olive praise quote release man hockey useless";

@@ -1,1 +1,1 @@
-var mnemonic = "rent million okay fortune kangaroo nurse silly example habit blouse blue brother";
+var mnemonic = "leisure play october cloth promote swallow foot gaze cancel lesson girl curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid aunt atom noodle timber snap dragon treat dune glow excite rescue";
+var mnemonic = "bird seek brother doll comic cousin pass strong biology ginger team wise";

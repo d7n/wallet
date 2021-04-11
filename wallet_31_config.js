@@ -1,1 +1,1 @@
-var mnemonic = "price unfold liar note sock carry zebra tunnel august cargo broccoli cry";
+var mnemonic = "observe orange pear rose theme error merge that pipe sand chunk shy";

@@ -1,1 +1,1 @@
-var mnemonic = "type grape transfer shop present spin usual innocent thunder effort airport hat";
+var mnemonic = "travel shed rather enable enrich ball keen lucky ocean blind magnet banner";

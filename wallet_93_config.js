@@ -1,1 +1,1 @@
-var mnemonic = "giraffe stomach bicycle perfect action eight educate order goddess chimney leopard warm";
+var mnemonic = "poem alarm kiss snack reflect rain door unfair input lucky window reunion";

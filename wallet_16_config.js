@@ -1,1 +1,1 @@
-var mnemonic = "hurt castle riot deer kitchen salmon blade street vague guide scare peace";
+var mnemonic = "box sick sort other burst hotel employ fetch right coyote mind adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "screen allow opinion bundle final settle carry arctic iron worry clever super";
+var mnemonic = "derive chicken enforce bid present glue moment equip produce social hour donkey";

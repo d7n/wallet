@@ -1,1 +1,1 @@
-var mnemonic = "stable soft dizzy mean spell immune exist fiber sight myself slush gym";
+var mnemonic = "moral crop tennis swing defy cool build lawn pig obvious job deal";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal ordinary disagree plastic inhale potato day salon indoor leaf dawn exchange";
+var mnemonic = "retire address oblige slide share clay media sleep zero borrow boy tag";

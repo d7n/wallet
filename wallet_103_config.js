@@ -1,1 +1,1 @@
-var mnemonic = "shallow wolf muffin avocado blue cabbage quality ritual measure laundry fan moment";
+var mnemonic = "half fix dust woman slight viable citizen fresh autumn enrich timber dynamic";

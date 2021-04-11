@@ -1,1 +1,1 @@
-var mnemonic = "script scissors boy luxury ladder test gate weird vehicle convince bachelor general";
+var mnemonic = "pony language rocket now artwork taxi pluck fault coach refuse good waste";

@@ -1,1 +1,1 @@
-var mnemonic = "elder gym rice nest catch smoke benefit endless fortune local kitten exercise";
+var mnemonic = "desk harvest burger penalty quiz give face spy hint orbit shuffle mercy";

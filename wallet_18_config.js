@@ -1,1 +1,1 @@
-var mnemonic = "fade family glare width jazz swamp balcony order title deliver member pledge";
+var mnemonic = "gauge desk blood disease hood intact potato cactus noise produce minute wild";

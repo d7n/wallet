@@ -1,1 +1,1 @@
-var mnemonic = "deal metal ring execute toward invite love run spin snake debris unknown";
+var mnemonic = "belt strike timber scale floor member box among attack riot post glue";

@@ -1,1 +1,1 @@
-var mnemonic = "vague wrong submit vendor roast motor decrease luggage cloth elbow dilemma guess";
+var mnemonic = "fun sting list audit bronze tube embody tip balcony hole chest high";

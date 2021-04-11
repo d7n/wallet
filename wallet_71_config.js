@@ -1,1 +1,1 @@
-var mnemonic = "lyrics kitchen sniff pitch foot duty pill inflict other kiss sock ship";
+var mnemonic = "stamp coach table give stable change clog that world settle frame morning";

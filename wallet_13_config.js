@@ -1,1 +1,1 @@
-var mnemonic = "asthma ordinary fault banner column crater roof episode cruel acid drift math";
+var mnemonic = "squeeze oven address once tray moon pride call random wear marine security";

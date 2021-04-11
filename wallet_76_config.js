@@ -1,1 +1,1 @@
-var mnemonic = "rich riot ladder furnace page output title hair subject shy stock sock";
+var mnemonic = "tree found afraid proof safe actor vintage robot lounge battle paddle unfold";

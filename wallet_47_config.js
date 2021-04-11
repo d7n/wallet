@@ -1,1 +1,1 @@
-var mnemonic = "reason explain call cable expire age useless private town good bus resemble";
+var mnemonic = "spice obvious album phone best final soap simple wasp term liberty soap";

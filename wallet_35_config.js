@@ -1,1 +1,1 @@
-var mnemonic = "sentence bargain spoon approve lunar olive fine try grace believe rapid identify";
+var mnemonic = "wheel lesson fly artefact filter want round mansion that rough stick gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "age goose biology enough blast sell famous mother rain nephew mushroom repair";
+var mnemonic = "shift report amount slim away segment twist rule aware switch father plastic";

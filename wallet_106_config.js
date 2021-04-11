@@ -1,1 +1,1 @@
-var mnemonic = "junior pepper odor survey fiber trade someone electric scorpion ignore balcony salad";
+var mnemonic = "anger target perfect net submit battle under season aerobic romance ski oblige";

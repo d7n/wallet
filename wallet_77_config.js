@@ -1,1 +1,1 @@
-var mnemonic = "slice misery elbow repair casual vessel saddle supreme scan lawsuit stick mom";
+var mnemonic = "index lamp parade stuff summer observe stock match gesture outside crumble club";

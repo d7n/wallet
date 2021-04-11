@@ -1,1 +1,1 @@
-var mnemonic = "apple flat arrow rigid spy nothing goat burden wish fly expect embody";
+var mnemonic = "visa soda venture gossip hood huge coin moral bar convince hen debris";

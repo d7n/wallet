@@ -1,1 +1,1 @@
-var mnemonic = "swing hero endorse general hero very ordinary soldier exotic whisper strategy monkey";
+var mnemonic = "analyst direct mixed pulse live fire busy roof drive climb banner organ";

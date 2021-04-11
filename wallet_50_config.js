@@ -1,1 +1,1 @@
-var mnemonic = "occur lyrics boat copy insect among can acid proof panther couch twelve";
+var mnemonic = "drastic mango hat legend skill rough damp bring below act cycle skin";

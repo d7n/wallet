@@ -1,1 +1,1 @@
-var mnemonic = "half traffic ice accuse ankle puppy donkey tourist blood private fire blast";
+var mnemonic = "jeans speed doll butter chat echo athlete claim convince shoe bless palace";

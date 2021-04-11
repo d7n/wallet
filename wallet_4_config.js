@@ -1,1 +1,1 @@
-var mnemonic = "round pelican you worry tornado drum lecture flight faith furnace crater hybrid";
+var mnemonic = "marine meadow left swing athlete scrub demand you approve ozone dice saddle";

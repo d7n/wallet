@@ -1,1 +1,1 @@
-var mnemonic = "umbrella waste soul source kit ginger envelope game maximum over police scheme";
+var mnemonic = "strategy tornado myself mercy reform scout alarm all sister visa behind finger";

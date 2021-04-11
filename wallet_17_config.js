@@ -1,1 +1,1 @@
-var mnemonic = "welcome federal weekend across off street normal erupt enact citizen drum donor";
+var mnemonic = "hazard autumn picture harsh empower neglect ridge eager bulk release wise junior";

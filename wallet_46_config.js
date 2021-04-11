@@ -1,1 +1,1 @@
-var mnemonic = "glide ordinary body put hammer purity garlic truck click sniff dizzy lunch";
+var mnemonic = "use wage ethics vibrant lens avocado base vast already join mom legal";

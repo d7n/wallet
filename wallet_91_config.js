@@ -1,1 +1,1 @@
-var mnemonic = "afraid escape radio next rice key roast culture rare desk claw change";
+var mnemonic = "burger resist today turkey purpose exhibit orbit tornado traffic valve stadium polar";

@@ -1,1 +1,1 @@
-var mnemonic = "define pride supply stone game grass skill crystal admit wild gravity essence";
+var mnemonic = "thought filter iron photo husband shine ladder dawn surprise egg actor aware";

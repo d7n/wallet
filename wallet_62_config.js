@@ -1,1 +1,1 @@
-var mnemonic = "jazz lumber clog machine barely seven october vapor wing filter army cycle";
+var mnemonic = "pill field trumpet useless grab next net pistol upper glass visa rose";

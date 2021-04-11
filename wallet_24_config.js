@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo slender crowd notable wasp fatal razor material genuine sugar width load";
+var mnemonic = "final gold enact uphold modify spot giant vibrant mirror salad deny best";

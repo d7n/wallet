@@ -1,1 +1,1 @@
-var mnemonic = "spider toast deposit old conduct pottery damage orient boat pupil forward firm";
+var mnemonic = "defense benefit pupil plate patient vivid panda damp mechanic version present stick";

@@ -1,1 +1,1 @@
-var mnemonic = "spice fatigue tribe kick cry cattle hope carpet tuition flock midnight parade";
+var mnemonic = "baby odor wrist broken jazz law among fury mix elbow fancy hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "present alone major elbow learn fragile decrease ripple prevent cruise either scare";
+var mnemonic = "victory model fury mesh patrol prosper tourist chef symbol urban note brother";

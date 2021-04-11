@@ -1,1 +1,1 @@
-var mnemonic = "type tornado run foil chat cost odor umbrella donkey salute tissue drift";
+var mnemonic = "gasp jar dinosaur puppy spoon other floor hill seat owner crystal intact";

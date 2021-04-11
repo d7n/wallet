@@ -1,1 +1,1 @@
-var mnemonic = "bitter income tuna educate cradle push spin shop slight fragile tragic delay";
+var mnemonic = "cruise idea idea salute cargo example eternal duty orbit angry airport coconut";

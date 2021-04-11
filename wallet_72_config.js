@@ -1,1 +1,1 @@
-var mnemonic = "issue tobacco common assist grocery roast lock erosion never amazing gasp visual";
+var mnemonic = "dignity canyon script then dash hole negative monitor cherry produce dish key";

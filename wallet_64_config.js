@@ -1,1 +1,1 @@
-var mnemonic = "twenty execute spirit drive celery disease cotton fresh brand spike oil benefit";
+var mnemonic = "tree property kitten cube boy medal tribe table tape farm matrix apology";

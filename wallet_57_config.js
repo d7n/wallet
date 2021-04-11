@@ -1,1 +1,1 @@
-var mnemonic = "robust until squeeze usage syrup dizzy ridge search monster almost planet sell";
+var mnemonic = "subject erode top novel drip gas school tuna afford act develop praise";

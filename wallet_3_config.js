@@ -1,1 +1,1 @@
-var mnemonic = "chef sausage long horse sample boil state audit sport thought rack whip";
+var mnemonic = "artist mirror prevent park potato proud joke process fit off industry rice";

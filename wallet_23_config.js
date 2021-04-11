@@ -1,1 +1,1 @@
-var mnemonic = "orchard tell tobacco still buyer during menu side jar pistol sugar person";
+var mnemonic = "casual tent dumb city text room fancy power urge address hamster doll";

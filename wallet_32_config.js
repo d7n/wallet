@@ -1,1 +1,1 @@
-var mnemonic = "arm asthma glance february height success ship bone clean since device begin";
+var mnemonic = "comic maximum ketchup hockey lunar squirrel grape age bless true wear range";

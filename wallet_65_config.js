@@ -1,1 +1,1 @@
-var mnemonic = "cause very pluck park undo cactus tube tree aim muscle item human";
+var mnemonic = "once link people broccoli midnight kitchen egg pulp raise time tree hour";

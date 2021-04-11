@@ -1,1 +1,1 @@
-var mnemonic = "summer van flat fashion solid minor sweet rapid craft hood match coral";
+var mnemonic = "equip again usage dial boil matrix casual crouch cream spread maximum sleep";

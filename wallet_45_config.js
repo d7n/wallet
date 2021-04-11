@@ -1,1 +1,1 @@
-var mnemonic = "deliver already object pizza nut tower athlete abstract test garden people history";
+var mnemonic = "knock cradle fade couple remain arrive airport fragile lizard name giant trade";

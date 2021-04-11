@@ -1,1 +1,1 @@
-var mnemonic = "city harbor slogan reduce rather youth drive update coconut reward change easy";
+var mnemonic = "illegal woman board marble hat food quote age answer crater brain engine";

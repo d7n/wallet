@@ -1,1 +1,1 @@
-var mnemonic = "empty ordinary field hunt keep result undo bus bind fluid minimum only";
+var mnemonic = "muffin cancel bracket grass soap dynamic head layer come throw story same";

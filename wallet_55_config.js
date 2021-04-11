@@ -1,1 +1,1 @@
-var mnemonic = "manage sound sweet uphold local build return buyer animal illness rain history";
+var mnemonic = "hammer immune iron hammer call letter sight device unveil gold black parent";

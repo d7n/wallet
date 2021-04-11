@@ -1,1 +1,1 @@
-var mnemonic = "sword dumb early truth solution rely govern reopen soda liar surface garment";
+var mnemonic = "unit power donor resource exile decorate tiger apple ahead weird fossil soul";

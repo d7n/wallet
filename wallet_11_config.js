@@ -1,1 +1,1 @@
-var mnemonic = "rifle toy chief wonder cross army cancel mixed judge pudding cause donkey";
+var mnemonic = "drum gold actual garment guide pole moment travel wife horn emotion extra";

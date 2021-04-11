@@ -1,1 +1,1 @@
-var mnemonic = "kite naive eager garden eagle hair truly emotion minute dentist burst ostrich";
+var mnemonic = "hour sand fine gift symptom lottery casual what sick cloth off almost";

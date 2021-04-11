@@ -1,1 +1,1 @@
-var mnemonic = "version side reject void phone junk must gallery donkey reward again soon";
+var mnemonic = "opinion under brisk large shield swallow resource sign violin shock run idea";

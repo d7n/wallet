@@ -1,1 +1,1 @@
-var mnemonic = "cluster avoid decline pitch great midnight panic inhale lamp stuff cram attitude";
+var mnemonic = "march lecture drastic canvas valve idle portion decrease mouse scorpion erosion double";

@@ -1,1 +1,1 @@
-var mnemonic = "minute actual inform benefit already mix ill nice second aspect east galaxy";
+var mnemonic = "success oval cake misery zebra tissue muscle bitter lizard hood move school";

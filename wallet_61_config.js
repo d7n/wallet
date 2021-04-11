@@ -1,1 +1,1 @@
-var mnemonic = "hat pave tribe drop manage outer burger satisfy guitar unable input bone";
+var mnemonic = "public alter aunt someone veteran bleak glide solar penalty issue hazard wear";

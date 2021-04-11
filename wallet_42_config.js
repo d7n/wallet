@@ -1,1 +1,1 @@
-var mnemonic = "excite they weather save scrub cliff curtain blouse purse remain title light";
+var mnemonic = "decline clinic power world ticket panic whisper three guilt mix endless bacon";

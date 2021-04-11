@@ -1,1 +1,1 @@
-var mnemonic = "double cheap pistol prosper tired position attack kitten craft shell copy goat";
+var mnemonic = "know employ multiply this olympic obscure scrap mistake miss valve attack solve";

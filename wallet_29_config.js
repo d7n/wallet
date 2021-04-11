@@ -1,1 +1,1 @@
-var mnemonic = "pluck zoo country science wisdom trust scale swamp tooth call empty exhaust";
+var mnemonic = "safe property input measure combine column cliff public dinner library rack input";

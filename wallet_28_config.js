@@ -1,1 +1,1 @@
-var mnemonic = "cricket cotton crane give method music quantum fish bacon release hero soccer";
+var mnemonic = "mail gym supreme avocado ice sight garage example fiber lucky guitar wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel runway direct beach mother refuse neutral coyote trash seed ice diet";
+var mnemonic = "client meat dilemma mistake immense gas apology before bone settle craft twelve";

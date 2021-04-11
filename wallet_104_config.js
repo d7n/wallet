@@ -1,1 +1,1 @@
-var mnemonic = "twice explain physical forward draft opinion hood forward hybrid trouble rapid broccoli";
+var mnemonic = "indoor north muscle birth give expire civil raccoon front shoulder cabin margin";

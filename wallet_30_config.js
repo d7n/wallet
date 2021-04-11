@@ -1,1 +1,1 @@
-var mnemonic = "voyage above invite coral orbit rice repair shoot slogan click fly unknown";
+var mnemonic = "example shy cheap layer indoor egg disagree ancient detail timber dance alley";

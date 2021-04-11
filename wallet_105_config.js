@@ -1,1 +1,1 @@
-var mnemonic = "skirt crisp price safe angry myself blush pudding portion dog exist enemy";
+var mnemonic = "park life trim attract about tumble company alley chicken evidence valve victory";

@@ -1,1 +1,1 @@
-var mnemonic = "describe enemy feature dance taste wine grow latin token stage april rabbit";
+var mnemonic = "recycle theme year away toast axis alcohol fix budget leave include skirt";

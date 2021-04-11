@@ -1,1 +1,1 @@
-var mnemonic = "charge session stuff anger pretty nasty glove casual desk ocean spider tone";
+var mnemonic = "depart economy spoil pizza horse uphold urge vital limit bunker much easily";

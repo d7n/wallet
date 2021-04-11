@@ -1,1 +1,1 @@
-var mnemonic = "stable amount wage blind fish local wrong mansion room clip super more";
+var mnemonic = "unusual february magic ketchup oppose raw pair loyal purse piano strong cricket";

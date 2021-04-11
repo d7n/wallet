@@ -1,1 +1,1 @@
-var mnemonic = "top champion project fun great column betray series enemy hat member robust";
+var mnemonic = "cactus heart work bless three gas lend vessel abstract grab tuition top";

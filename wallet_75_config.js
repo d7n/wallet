@@ -1,1 +1,1 @@
-var mnemonic = "increase square limb ancient few print limb fortune coffee concert vital cushion";
+var mnemonic = "upon trigger chaos inquiry actor cricket maid trap session such snap bitter";

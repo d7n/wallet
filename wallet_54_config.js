@@ -1,1 +1,1 @@
-var mnemonic = "help eye genuine argue endless guitar moral object stuff mind gather shift";
+var mnemonic = "rule little quiz gospel corn true flat genuine extend guilt sort term";

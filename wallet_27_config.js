@@ -1,1 +1,1 @@
-var mnemonic = "fat matter judge spray fiction chuckle opera castle nature paddle honey invite";
+var mnemonic = "suggest coral spray bomb make grape reason winner action long put purity";

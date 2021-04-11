@@ -1,1 +1,1 @@
-var mnemonic = "girl choose company just sea budget about various uncle sheriff session sheriff";
+var mnemonic = "soldier remember seat garlic guitar attend area critic jealous output mail hint";

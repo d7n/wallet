@@ -1,1 +1,1 @@
-var mnemonic = "spoon moon valve leg camp casino dawn planet hunt online match catalog";
+var mnemonic = "deliver swim upper rapid visual absurd cousin afraid enable digital race retire";
