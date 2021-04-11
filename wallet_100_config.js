@@ -1,1 +1,1 @@
-var mnemonic = "fatigue smoke sweet frozen eight couch payment track change hotel shock seminar";
+var mnemonic = "foot wish bulb truth lift dose voice young meat august sick mom";

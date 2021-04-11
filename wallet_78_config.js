@@ -1,1 +1,1 @@
-var mnemonic = "label menu hollow place autumn odor foot dentist fatal prosper smile spray";
+var mnemonic = "parade spider afford farm strategy inflict dragon suspect float shaft seed voice";

@@ -1,1 +1,1 @@
-var mnemonic = "grief limit cotton mansion sight test velvet baby roof grit monster robust";
+var mnemonic = "toilet candy fold farm border sphere chicken maid taste silent harsh future";

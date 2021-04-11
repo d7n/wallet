@@ -1,1 +1,1 @@
-var mnemonic = "anger chronic bubble connect room cave thank favorite burger nature normal slice";
+var mnemonic = "around excuse parent sell slim source ugly raise avocado abandon kick any";

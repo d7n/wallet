@@ -1,1 +1,1 @@
-var mnemonic = "virus parrot push whip dawn alarm roof tip siege mesh father sad";
+var mnemonic = "bird spice type property battle silly carbon catch swamp elephant candy loan";

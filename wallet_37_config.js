@@ -1,1 +1,1 @@
-var mnemonic = "timber clarify consider tone capable slice hope iron search secret fantasy stay";
+var mnemonic = "mutual avocado update skirt mountain foster onion hotel elegant task drink issue";

@@ -1,1 +1,1 @@
-var mnemonic = "grit essay crater cancel shy sock help drink logic snow snap mango";
+var mnemonic = "pool nature memory swap invite collect riot chalk fringe test make good";

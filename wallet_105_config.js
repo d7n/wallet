@@ -1,1 +1,1 @@
-var mnemonic = "material enforce cave lesson force fog diary razor hood abandon box canoe";
+var mnemonic = "promote explain august twice message amateur useful section property drink aware jump";

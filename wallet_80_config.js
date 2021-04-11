@@ -1,1 +1,1 @@
-var mnemonic = "term soul recycle solid private indicate patch add supreme range source rally";
+var mnemonic = "ignore fitness idle huge ocean april drive swing motion tree famous hen";

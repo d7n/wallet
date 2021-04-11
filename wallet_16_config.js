@@ -1,1 +1,1 @@
-var mnemonic = "faculty release vendor joy salon spawn patient quick top height dumb fall";
+var mnemonic = "dress machine cinnamon foil pole plunge ladder bridge margin soft phone brick";

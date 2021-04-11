@@ -1,1 +1,1 @@
-var mnemonic = "polar surge pole blush nephew tooth skin drop cook seed amused damp";
+var mnemonic = "labor excuse position way demise help dance danger angle garage among light";

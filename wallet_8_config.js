@@ -1,1 +1,1 @@
-var mnemonic = "ski coil avocado eager unable sight surge neutral item joke jacket tunnel";
+var mnemonic = "ahead ripple climb mass eight steel diamond prevent derive lesson culture bottom";

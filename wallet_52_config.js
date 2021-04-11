@@ -1,1 +1,1 @@
-var mnemonic = "pond swamp recycle plastic candy blame law glow post brush west cat";
+var mnemonic = "narrow range achieve amazing amount involve wide coach floor bleak business praise";

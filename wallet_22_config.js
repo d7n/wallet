@@ -1,1 +1,1 @@
-var mnemonic = "place poet enable slush patch owner vehicle chronic letter collect yellow clip";
+var mnemonic = "buffalo goose kitchen hat fence gorilla receive run edge human evil tool";

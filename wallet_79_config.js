@@ -1,1 +1,1 @@
-var mnemonic = "like identify inject ribbon smile fruit tribe oven innocent column topic defense";
+var mnemonic = "real miss canvas luxury core dentist milk grow luxury similar message empty";

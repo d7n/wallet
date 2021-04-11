@@ -1,1 +1,1 @@
-var mnemonic = "owner error until decide uncover over language inside finish stomach hospital property";
+var mnemonic = "curve pause ahead tennis submit two weird glass degree scissors soap knife";

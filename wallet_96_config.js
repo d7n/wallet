@@ -1,1 +1,1 @@
-var mnemonic = "health today jar erode vote fancy cable pear thrive space artefact prevent";
+var mnemonic = "hidden obvious frequent save kiwi scorpion build wrestle believe also man pill";

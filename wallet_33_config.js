@@ -1,1 +1,1 @@
-var mnemonic = "turtle figure issue garage skill dinner bread shy melody horse claw hold";
+var mnemonic = "exchange diary crew initial rather soup code fat vacuum surge jacket couple";

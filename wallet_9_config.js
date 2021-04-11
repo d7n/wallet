@@ -1,1 +1,1 @@
-var mnemonic = "sorry crowd mixture urge pipe adult pitch away local depth limb stereo";
+var mnemonic = "toy term lazy eternal pulp dolphin execute riot black empty account bright";

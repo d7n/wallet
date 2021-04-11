@@ -1,1 +1,1 @@
-var mnemonic = "syrup hint unaware plate visual peace group hybrid episode hedgehog rally steel";
+var mnemonic = "wheat blast six nephew omit ranch teach jungle cute bird prosper camp";

@@ -1,1 +1,1 @@
-var mnemonic = "gas snack belt frown solve kid merry arch undo rigid music business";
+var mnemonic = "soup end trust derive repeat list album awake develop bleak wall evoke";

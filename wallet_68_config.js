@@ -1,1 +1,1 @@
-var mnemonic = "alone great group try title grant assume color rebel floor bless mountain";
+var mnemonic = "donkey phrase umbrella document name involve unlock accuse summer shift monkey cluster";

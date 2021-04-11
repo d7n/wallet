@@ -1,1 +1,1 @@
-var mnemonic = "together will snap mansion ahead abandon seminar achieve topple enrich door convince";
+var mnemonic = "echo time guess mom drop endorse scene ridge slam devote possible cruel";

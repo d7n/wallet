@@ -1,1 +1,1 @@
-var mnemonic = "twenty peace iron glimpse almost wild unable cruise high glance town acoustic";
+var mnemonic = "merry window remember blouse cart gravity inform hockey jungle bounce tobacco nuclear";

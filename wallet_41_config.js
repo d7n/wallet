@@ -1,1 +1,1 @@
-var mnemonic = "leave measure person goat chicken impact accuse rely museum train project unfold";
+var mnemonic = "reflect flavor people earth grab stable settle hand side minimum moment sauce";

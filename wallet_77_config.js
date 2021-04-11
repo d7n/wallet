@@ -1,1 +1,1 @@
-var mnemonic = "skull topple vivid congress cheap mention cereal review casino increase myth analyst";
+var mnemonic = "south omit viable lecture enact grass diamond spot foil spatial intact pole";

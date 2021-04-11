@@ -1,1 +1,1 @@
-var mnemonic = "gentle flat pistol tilt club space tuition sort replace bus film year";
+var mnemonic = "broom nice border dawn matrix kidney boil begin pen one glow connect";

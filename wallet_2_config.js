@@ -1,1 +1,1 @@
-var mnemonic = "feature example return banner post breeze remember primary page this zero effort";
+var mnemonic = "obvious diary phrase sleep error recycle jelly dignity man point also guard";

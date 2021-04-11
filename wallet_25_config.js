@@ -1,1 +1,1 @@
-var mnemonic = "bridge bomb door walk canyon gossip easy pull pig sheriff sample critic";
+var mnemonic = "resist ride decline prosper gasp blanket pill gesture repair equal indicate marriage";

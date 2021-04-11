@@ -1,1 +1,1 @@
-var mnemonic = "rather core spider welcome country stock version memory piano gas play route";
+var mnemonic = "shadow bargain share hawk frog cigar reveal day inch series diesel hungry";

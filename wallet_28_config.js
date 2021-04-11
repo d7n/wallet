@@ -1,1 +1,1 @@
-var mnemonic = "junior shoe junior area arena execute pumpkin chief soul warrior stay minimum";
+var mnemonic = "melt envelope poem observe tobacco okay disease wrist apart utility general eight";

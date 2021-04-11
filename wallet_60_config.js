@@ -1,1 +1,1 @@
-var mnemonic = "demand brave dismiss burst define impose remove friend among dilemma april tennis";
+var mnemonic = "smart guide animal unhappy lounge cool want dirt benefit interest tuition juice";

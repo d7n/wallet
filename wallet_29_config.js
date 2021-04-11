@@ -1,1 +1,1 @@
-var mnemonic = "trap carpet parent smile rule private kiwi picture reflect pig short mango";
+var mnemonic = "curious exact alarm gym crumble tuition medal security capital put hair cube";

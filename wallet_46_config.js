@@ -1,1 +1,1 @@
-var mnemonic = "check price render drastic athlete hold gown wire pepper dove else neutral";
+var mnemonic = "car harvest priority year oxygen pride jeans leisure flee ranch luggage robust";

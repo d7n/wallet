@@ -1,1 +1,1 @@
-var mnemonic = "champion you oven elephant void six priority gas until box digital major";
+var mnemonic = "amused jacket ignore outside sphere remain spell leopard wire track tourist door";

@@ -1,1 +1,1 @@
-var mnemonic = "surge shell this ladder hawk jacket can rescue lunar spread giraffe hire";
+var mnemonic = "stem party cable random nothing vast inquiry time flush super prefer start";

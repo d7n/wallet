@@ -1,1 +1,1 @@
-var mnemonic = "can winner sport matrix pupil kind bridge indoor sail blouse ladder sign";
+var mnemonic = "family health zero put deposit subway issue remember century exclude circle crush";

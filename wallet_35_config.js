@@ -1,1 +1,1 @@
-var mnemonic = "churn example chimney pyramid either minute since hollow toast coconut describe off";
+var mnemonic = "liberty empty wisdom slim oak captain emotion sure tuition way false follow";

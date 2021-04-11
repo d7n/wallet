@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit large knock scrub churn still toe choose foster wash reason unfair";
+var mnemonic = "polar panther gift strike empty post shallow injury boring aerobic size goat";

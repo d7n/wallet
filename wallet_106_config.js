@@ -1,1 +1,1 @@
-var mnemonic = "viable basket deal thank steak saddle blush student light piece scorpion problem";
+var mnemonic = "skin display vibrant survey team arrow check scale gesture type act wool";

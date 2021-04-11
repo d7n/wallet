@@ -1,1 +1,1 @@
-var mnemonic = "private seminar winner purchase fun head ostrich dash letter zoo zoo require";
+var mnemonic = "service napkin laptop expire gossip twice beef great release canvas govern hotel";

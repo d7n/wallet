@@ -1,1 +1,1 @@
-var mnemonic = "teach ball utility protect harvest dry song junk skull snap replace plunge";
+var mnemonic = "carry axis helmet hammer pitch frog index entry offer edge dilemma neck";

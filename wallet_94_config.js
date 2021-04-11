@@ -1,1 +1,1 @@
-var mnemonic = "capable frequent connect patrol blush salon meadow general auto orchard expect wink";
+var mnemonic = "casino predict cotton roof certain demise enact squirrel cereal creek strategy master";

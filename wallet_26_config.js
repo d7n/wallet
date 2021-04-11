@@ -1,1 +1,1 @@
-var mnemonic = "private cross pave hedgehog mouse next party thing meadow valve police obvious";
+var mnemonic = "wife mom entire rebuild canoe clever uncover glow gentle stick gain column";

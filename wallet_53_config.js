@@ -1,1 +1,1 @@
-var mnemonic = "ecology absurd canoe spring cousin diary try denial step gospel unusual reward";
+var mnemonic = "lyrics dismiss wire custom tobacco beach enhance cream bike glue faculty project";

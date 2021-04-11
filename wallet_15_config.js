@@ -1,1 +1,1 @@
-var mnemonic = "diary drum delay soon pattern unable grass ocean vanish element payment base";
+var mnemonic = "frown tortoise brisk raven cabbage budget vanish surface trend tooth measure piece";

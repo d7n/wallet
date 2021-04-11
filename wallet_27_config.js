@@ -1,1 +1,1 @@
-var mnemonic = "thought rug edit abstract also beef bright fish police turn prison office";
+var mnemonic = "evidence ball fold velvet green hope wonder panic ramp soldier risk attack";

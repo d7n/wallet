@@ -1,1 +1,1 @@
-var mnemonic = "camp shop syrup arrest brick short stage price pig very axis cost";
+var mnemonic = "someone long lesson light combine fuel december forget depend fork shoot certain";

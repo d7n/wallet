@@ -1,1 +1,1 @@
-var mnemonic = "direct artist property imitate fatal fancy cushion sound already hen soldier cook";
+var mnemonic = "man maze wide country bargain panic believe canyon captain produce action safe";

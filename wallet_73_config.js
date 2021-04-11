@@ -1,1 +1,1 @@
-var mnemonic = "describe shadow island chimney hybrid smart depend cry artist ocean enroll purpose";
+var mnemonic = "math photo cruise rescue scale giggle jungle hungry bunker uncover fence exact";

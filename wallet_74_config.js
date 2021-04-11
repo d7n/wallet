@@ -1,1 +1,1 @@
-var mnemonic = "frame stand wise mystery method install crack inflict able camera false east";
+var mnemonic = "nerve bring suit special thought region spice meat perfect december slush surround";

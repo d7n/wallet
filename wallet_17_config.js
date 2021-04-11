@@ -1,1 +1,1 @@
-var mnemonic = "horse jewel cake lunch like stick reject very casual renew pony insect";
+var mnemonic = "better coyote glimpse thunder patient silent hair degree audit market stumble wool";

@@ -1,1 +1,1 @@
-var mnemonic = "usage weasel crucial family axis dawn model tunnel great much front permit";
+var mnemonic = "cloud inch ugly uphold spawn boring grocery lake sunny exchange design history";

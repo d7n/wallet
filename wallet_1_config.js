@@ -1,1 +1,1 @@
-var mnemonic = "physical demand cushion calm oil modify situate curtain pigeon bundle butter love";
+var mnemonic = "blood chief orange broken suit mutual menu render leave post you believe";

@@ -1,1 +1,1 @@
-var mnemonic = "spy stove unfold inch anchor alien axis ship guitar stem erosion orphan";
+var mnemonic = "dose rhythm quality apology style you crumble nephew noble illness penalty hair";

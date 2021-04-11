@@ -1,1 +1,1 @@
-var mnemonic = "envelope island clerk gather alert rib assume mouse apology gospel peasant wheat";
+var mnemonic = "garage web venue half verify remember patient borrow sail neither solar embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "impact vault around sound rabbit link wish crouch coast mystery good enlist";
+var mnemonic = "leave announce together belt load inject sing short decade panel apart rookie";

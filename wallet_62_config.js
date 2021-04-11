@@ -1,1 +1,1 @@
-var mnemonic = "alien dad tennis grace snow skin outside surface another brick observe group";
+var mnemonic = "circle wing dumb squirrel vibrant someone under element faith elite what horror";

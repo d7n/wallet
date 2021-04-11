@@ -1,1 +1,1 @@
-var mnemonic = "number vibrant universe exclude roast arrange oxygen captain drive junk you view";
+var mnemonic = "fatigue plug popular annual bundle merit knock river theme blast fever alien";

@@ -1,1 +1,1 @@
-var mnemonic = "describe isolate pave absurd attitude eager super vanish tent illness social close";
+var mnemonic = "eternal fossil retreat rain pink poet inspire soldier check spider climb legal";

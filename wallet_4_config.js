@@ -1,1 +1,1 @@
-var mnemonic = "cash pill manage blouse give deer pave device maid juice ostrich odor";
+var mnemonic = "damage appear virus business wrong typical stool wagon allow tennis polar material";

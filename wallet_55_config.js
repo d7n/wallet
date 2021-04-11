@@ -1,1 +1,1 @@
-var mnemonic = "reject scale design goat dad happy fence salt pole prison install helmet";
+var mnemonic = "interest mesh second notable grab holiday talk urban custom earn depart shell";

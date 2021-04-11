@@ -1,1 +1,1 @@
-var mnemonic = "between stool race fade dawn swallow age float duck entire tell sniff";
+var mnemonic = "method slender capable present craft comfort identify derive autumn frame person verify";

@@ -1,1 +1,1 @@
-var mnemonic = "lava payment museum dash cousin alert gaze bracket fuel obtain bracket toward";
+var mnemonic = "bring luggage one bubble current wealth hip vendor corn noodle nerve city";

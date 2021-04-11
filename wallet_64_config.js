@@ -1,1 +1,1 @@
-var mnemonic = "world bleak group foster point scorpion render used breeze area include either";
+var mnemonic = "bid erosion denial plastic road obtain filter foot sentence appear tent flight";

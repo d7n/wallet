@@ -1,1 +1,1 @@
-var mnemonic = "welcome april soccer stable ivory broken frequent danger tourist blue omit wide";
+var mnemonic = "donate similar zone digital topic advice claw open snack mention moral august";

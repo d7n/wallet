@@ -1,1 +1,1 @@
-var mnemonic = "tomato humor cargo pumpkin page age awake giant library jazz enforce kangaroo";
+var mnemonic = "deposit acoustic solar expire flush already square april twelve artwork velvet emerge";

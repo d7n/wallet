@@ -1,1 +1,1 @@
-var mnemonic = "false enact crush degree utility convince maximum quality turkey flame glance enhance";
+var mnemonic = "borrow wrist oblige bamboo gap jazz scare obey size crew suggest nothing";

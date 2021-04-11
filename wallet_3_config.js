@@ -1,1 +1,1 @@
-var mnemonic = "tool enforce famous office typical post second deer nominee cluster achieve gadget";
+var mnemonic = "upper total leisure start subject equal oven wink smooth ahead ordinary hard";

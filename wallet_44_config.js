@@ -1,1 +1,1 @@
-var mnemonic = "cry autumn first negative party series travel tooth brother fiction bicycle review";
+var mnemonic = "mimic olive puppy bunker metal wrist rack lobster deposit mention minimum dignity";

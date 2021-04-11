@@ -1,1 +1,1 @@
-var mnemonic = "curtain toe roof convince spoon number book seek auction mushroom tiny jar";
+var mnemonic = "alarm diamond will slab exhibit maple world venue provide mammal try goat";

@@ -1,1 +1,1 @@
-var mnemonic = "entry behind obey video toy distance flock nut oyster ignore noise flat";
+var mnemonic = "word train sorry enlist tissue quick usage business gown success firm turkey";

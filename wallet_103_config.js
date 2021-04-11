@@ -1,1 +1,1 @@
-var mnemonic = "swamp curious income side second daring divert robot must basket drift reopen";
+var mnemonic = "amused security save manual fever false drip punch valley door hill range";

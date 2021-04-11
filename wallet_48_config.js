@@ -1,1 +1,1 @@
-var mnemonic = "wine unhappy correct only ethics amount bamboo disorder popular catalog parrot spring";
+var mnemonic = "spirit grant fee robot bird park remember history high tape sheriff fortune";

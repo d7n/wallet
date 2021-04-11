@@ -1,1 +1,1 @@
-var mnemonic = "oak example fence field exhibit one east grit chunk dawn suspect market";
+var mnemonic = "narrow core expand possible treat retreat bulb right dry clip van pear";

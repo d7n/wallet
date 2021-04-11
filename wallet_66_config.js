@@ -1,1 +1,1 @@
-var mnemonic = "tooth soup pudding scout axis total method current gold garden husband tunnel";
+var mnemonic = "oil economy jar topple front connect afraid gas alpha better curious around";

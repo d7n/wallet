@@ -1,1 +1,1 @@
-var mnemonic = "wink round mobile embody weather swing depth actual input doctor patient marine";
+var mnemonic = "scale luxury sign stadium actor bless truck lounge focus tiny cube hint";

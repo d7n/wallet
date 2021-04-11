@@ -1,1 +1,1 @@
-var mnemonic = "lend dawn resist valve supply tennis zero slab client loop rather insect";
+var mnemonic = "bronze pause deal coyote rare amazing hybrid peace together illness trumpet slow";

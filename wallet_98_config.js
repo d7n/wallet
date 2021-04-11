@@ -1,1 +1,1 @@
-var mnemonic = "element shallow town smooth cart program lunar drop chief second ripple obscure";
+var mnemonic = "song plastic early lunar board future accuse grief bless two turkey abstract";

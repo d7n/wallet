@@ -1,1 +1,1 @@
-var mnemonic = "laptop parrot kiss during whisper inner other perfect reward execute age pole";
+var mnemonic = "whisper target fuel crime glide afford bless fiber salt buzz train manual";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage door high acquire twenty latin nephew truck enroll movie region clean";
+var mnemonic = "harvest interest system must wide genius judge leader normal island trade document";

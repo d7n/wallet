@@ -1,1 +1,1 @@
-var mnemonic = "sniff burger pattern sausage seek museum cement someone street scorpion cannon index";
+var mnemonic = "napkin stool trick dolphin rent toss funny earth bulk marriage card zone";

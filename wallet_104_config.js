@@ -1,1 +1,1 @@
-var mnemonic = "fence caught brick twice number cross bus account melt maximum room arm";
+var mnemonic = "blame fatal before anger promote treat casual pelican boy spare relief suit";

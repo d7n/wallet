@@ -1,1 +1,1 @@
-var mnemonic = "mechanic fox chunk twin sick ship discover sing female six captain goddess";
+var mnemonic = "palm pause rough monster estate bone hour emotion canvas turn diet theory";

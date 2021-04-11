@@ -1,1 +1,1 @@
-var mnemonic = "swear consider chapter frog velvet gun stamp card seven mercy boy clap";
+var mnemonic = "warrior short novel supply cliff unhappy seek depart clown vapor setup grit";

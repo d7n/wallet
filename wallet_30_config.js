@@ -1,1 +1,1 @@
-var mnemonic = "fold bracket meadow salt magic target donate law drink alien token name";
+var mnemonic = "audit zone clump journey suggest gossip sea exercise giant give fancy marine";
