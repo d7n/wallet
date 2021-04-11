@@ -1,1 +1,1 @@
-var mnemonic = "wife cannon token venture remind tool jaguar various bulb adjust judge oyster";
+var mnemonic = "fence impact cover belt unveil panther disease noodle easy cable orbit spend";

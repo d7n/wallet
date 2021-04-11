@@ -1,1 +1,1 @@
-var mnemonic = "intact metal cushion naive appear scout border pudding bundle wrap fork violin";
+var mnemonic = "display jump stadium tape pepper connect decline enlist grass shine major broken";

@@ -1,1 +1,1 @@
-var mnemonic = "slim dragon unfold carpet acoustic picture merge harvest awful puppy tide brand";
+var mnemonic = "type pet other kingdom liberty cannon void unlock curious sample ranch culture";

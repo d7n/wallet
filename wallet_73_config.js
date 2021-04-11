@@ -1,1 +1,1 @@
-var mnemonic = "work recycle upper credit plastic tomorrow thrive ball ball bulb private pattern";
+var mnemonic = "inside theme evil leisure indoor unfair liberty grit tower element toy error";

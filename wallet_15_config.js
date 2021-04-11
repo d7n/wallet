@@ -1,1 +1,1 @@
-var mnemonic = "debate inch ship what venture rug deliver orient woman behave yard draft";
+var mnemonic = "frozen glare machine option tree rice camera toss fine match elbow hunt";

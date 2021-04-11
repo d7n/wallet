@@ -1,1 +1,1 @@
-var mnemonic = "inspire over pact want trigger mango stone lamp raw pen vapor seek";
+var mnemonic = "mercy one earth illegal kitchen hunt index route sound scorpion medal potato";

@@ -1,1 +1,1 @@
-var mnemonic = "exit dust say embody pyramid drill jacket alter scorpion accuse hollow toward";
+var mnemonic = "base onion alpha wine bronze world marine grid person scrub warfare latin";

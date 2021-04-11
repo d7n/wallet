@@ -1,1 +1,1 @@
-var mnemonic = "dirt key rival stove tide best thunder joke brain favorite wedding jewel";
+var mnemonic = "phrase skill axis soap couple private skin crouch vacuum sense submit civil";

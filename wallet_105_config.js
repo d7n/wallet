@@ -1,1 +1,1 @@
-var mnemonic = "quarter open hurry warrior kite anger envelope regular helmet trouble choose chuckle";
+var mnemonic = "sorry grow inner peasant able winter alley attitude predict sail laundry blouse";

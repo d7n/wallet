@@ -1,1 +1,1 @@
-var mnemonic = "suspect joke play snow blade neck awful wagon quick capital six tornado";
+var mnemonic = "salt kind bridge veteran banana jungle decrease dust orient glory change profit";

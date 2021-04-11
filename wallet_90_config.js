@@ -1,1 +1,1 @@
-var mnemonic = "suffer approve draft glove rare kit pole pink actress congress leisure wish";
+var mnemonic = "valid true lift uncover another salute link chat govern laugh teach trend";

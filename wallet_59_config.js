@@ -1,1 +1,1 @@
-var mnemonic = "sketch width dove wagon raise ancient scorpion grab salon more update work";
+var mnemonic = "civil vocal alarm confirm paper oyster level wool ecology broccoli guitar luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie journey napkin april limit travel shadow alcohol enforce need public typical";
+var mnemonic = "chicken finish surprise frozen forest card mechanic tobacco violin harbor wisdom syrup";

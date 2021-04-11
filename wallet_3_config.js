@@ -1,1 +1,1 @@
-var mnemonic = "diesel matrix sort leopard genre secret panic suffer timber reflect hub suggest";
+var mnemonic = "stairs lens camp reform innocent custom love various exercise pizza camp desk";

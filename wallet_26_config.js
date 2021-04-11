@@ -1,1 +1,1 @@
-var mnemonic = "shy trip juice volume talk early gravity nature pull vibrant answer betray";
+var mnemonic = "author ghost trash neutral goose style alpha exchange issue glove impact supply";

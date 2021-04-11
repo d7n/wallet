@@ -1,1 +1,1 @@
-var mnemonic = "napkin worry attack deny point opinion absent club run cradle hammer truth";
+var mnemonic = "anger social then cotton code mirror raw entire olympic relax vacant jump";

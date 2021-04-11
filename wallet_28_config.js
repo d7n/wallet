@@ -1,1 +1,1 @@
-var mnemonic = "coil ecology music attend rack scrub voice steel pony fold history marble";
+var mnemonic = "mixture ceiling blame buzz thrive loyal put tongue secret opinion coil remind";

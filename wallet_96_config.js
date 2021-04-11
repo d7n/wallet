@@ -1,1 +1,1 @@
-var mnemonic = "beach indoor cabin sheriff history company donor liar wife train link used";
+var mnemonic = "theme debris online bunker tide into culture code settle consider multiply today";

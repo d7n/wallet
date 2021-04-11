@@ -1,1 +1,1 @@
-var mnemonic = "tilt gadget leg snow fly leader domain discover cotton like aisle rebuild";
+var mnemonic = "marble enemy column near world develop leg mammal loyal sugar protect team";

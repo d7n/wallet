@@ -1,1 +1,1 @@
-var mnemonic = "sock gym flag machine oven recipe appear august paddle that genre govern";
+var mnemonic = "artist weapon manage seek prize insect vital bid mechanic engage glimpse news";

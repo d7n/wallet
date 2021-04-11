@@ -1,1 +1,1 @@
-var mnemonic = "tilt concert autumn maple move north vague often trend gentle issue release";
+var mnemonic = "cash volcano genius angle genre chimney insect enjoy addict plate radio correct";

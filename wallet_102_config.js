@@ -1,1 +1,1 @@
-var mnemonic = "office ocean exotic review cash torch idle kid improve proud fix indicate";
+var mnemonic = "puzzle ranch doll road skull dish burst industry appear vibrant creek casual";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon wood bonus shield scale gasp false style abandon club jump goose";
+var mnemonic = "attitude kit average general frozen remember injury raccoon gate august grit album";

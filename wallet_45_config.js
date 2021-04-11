@@ -1,1 +1,1 @@
-var mnemonic = "able same behind hurdle bottom elite pledge inherit february neck appear glass";
+var mnemonic = "world copy bulk cherry royal fox measure fiber grace together naive rib";

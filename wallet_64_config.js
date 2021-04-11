@@ -1,1 +1,1 @@
-var mnemonic = "battle purse toy gain goat spell mule section basic vast proof hospital";
+var mnemonic = "post shoulder second infant village liberty trust below arrest ten retreat use";

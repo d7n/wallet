@@ -1,1 +1,1 @@
-var mnemonic = "pair destroy what differ pepper fatigue pause axis torch same athlete online";
+var mnemonic = "moon warfare broom can elbow now ugly muscle fetch guide culture like";

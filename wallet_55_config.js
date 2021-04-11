@@ -1,1 +1,1 @@
-var mnemonic = "network change tree cereal raw opera forest box moon venture rally rice";
+var mnemonic = "step modify palm install narrow chest mother curious mimic symbol clown globe";

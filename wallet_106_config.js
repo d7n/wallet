@@ -1,1 +1,1 @@
-var mnemonic = "sock anxiety exile craft agent saddle long blossom priority quit hungry injury";
+var mnemonic = "dice oak favorite shove profit solution until coil addict damage vendor elegant";

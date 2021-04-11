@@ -1,1 +1,1 @@
-var mnemonic = "wage kick upon unable slot uncover genre aunt charge bronze surface people";
+var mnemonic = "rule soccer profit away help return check enlist desk laptop witness velvet";

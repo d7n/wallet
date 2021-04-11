@@ -1,1 +1,1 @@
-var mnemonic = "fork stomach apology record melody melt crash scheme ripple wish drama this";
+var mnemonic = "unhappy upon goose high wolf device slow birth next demise funny length";

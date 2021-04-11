@@ -1,1 +1,1 @@
-var mnemonic = "olive cluster empower inner range orient end father congress tribe country thank";
+var mnemonic = "thunder echo phrase honey question sound egg slim develop layer exercise bid";

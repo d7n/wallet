@@ -1,1 +1,1 @@
-var mnemonic = "when pigeon slender enact elite large divert voice hurry eye shell dish";
+var mnemonic = "robot daughter provide soap west flavor suspect hip song banner luggage glare";

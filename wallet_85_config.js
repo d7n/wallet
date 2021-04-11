@@ -1,1 +1,1 @@
-var mnemonic = "dolphin child trick jaguar betray law shy purse engine evil century arrest";
+var mnemonic = "fox awake purpose depart wing behind north direct group ketchup medal keep";

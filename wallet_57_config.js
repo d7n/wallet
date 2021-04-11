@@ -1,1 +1,1 @@
-var mnemonic = "range radar eight laundry panel expand polar lumber shock royal unfold fork";
+var mnemonic = "segment gaze online tackle tenant shed belt charge ecology enable legend segment";

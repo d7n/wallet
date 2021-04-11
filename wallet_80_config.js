@@ -1,1 +1,1 @@
-var mnemonic = "corn truly swift slam best ghost torch plug pepper base armed sadness";
+var mnemonic = "mandate delay help verb antenna swim blush dish slide royal poverty canvas";

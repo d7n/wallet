@@ -1,1 +1,1 @@
-var mnemonic = "attend act discover employ evolve around oven amount level avocado toe hope";
+var mnemonic = "salute hole romance wear wrist pride vote mean mango quarter horse era";

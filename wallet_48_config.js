@@ -1,1 +1,1 @@
-var mnemonic = "unusual exclude short vintage choice diamond intact poem bird glow snap language";
+var mnemonic = "hammer slab mobile robust abstract pigeon foot exercise decorate fragile cactus excite";

@@ -1,1 +1,1 @@
-var mnemonic = "tape pact nature equal inform elite rally feel crew shiver because buddy";
+var mnemonic = "online foster access solve oval mom cigar enter submit viable silk course";

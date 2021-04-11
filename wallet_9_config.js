@@ -1,1 +1,1 @@
-var mnemonic = "embody advice arrive crouch sausage puzzle alley nominee live lab hollow smoke";
+var mnemonic = "average amused brain attend base truth position prepare absent detail party enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery admit picture flash core fog outdoor kangaroo sustain spring clinic true";
+var mnemonic = "decade search subway plate comfort physical crater twelve sugar engage report cage";

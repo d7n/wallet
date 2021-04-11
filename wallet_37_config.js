@@ -1,1 +1,1 @@
-var mnemonic = "ship also donkey meat leader brown because arena minor trip welcome episode";
+var mnemonic = "split fold fossil van course miss range apple prize slide decide cage";

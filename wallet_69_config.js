@@ -1,1 +1,1 @@
-var mnemonic = "loan verb when deal cannon typical eagle arrange miss rebel inside web";
+var mnemonic = "few loop jaguar guitar dream grow pull edge energy high insect mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic next hybrid earn obtain slight produce blast expect prevent category grace";
+var mnemonic = "plate range cost eagle talent lumber oven club prize fitness helmet fence";

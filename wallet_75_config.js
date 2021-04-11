@@ -1,1 +1,1 @@
-var mnemonic = "area such pretty nuclear parrot remove mansion cupboard jar empty often step";
+var mnemonic = "knife bonus open stable lava orient oval bulk plunge axis custom nut";

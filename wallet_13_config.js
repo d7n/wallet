@@ -1,1 +1,1 @@
-var mnemonic = "comic chicken opera general order okay tortoise tackle frost boss banner myth";
+var mnemonic = "punch author inform hollow sunset pledge kidney warm table secret peace humble";

@@ -1,1 +1,1 @@
-var mnemonic = "soul blast you rude auction bitter key legal number spy almost merry";
+var mnemonic = "normal connect figure enjoy fly receive address abstract income flush pill identify";

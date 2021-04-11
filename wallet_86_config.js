@@ -1,1 +1,1 @@
-var mnemonic = "real nice oven april innocent tide sister vendor fresh shiver stove afford";
+var mnemonic = "crime code amused drink awkward cattle wide parent lunar swap glass tide";

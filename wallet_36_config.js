@@ -1,1 +1,1 @@
-var mnemonic = "fish chalk alcohol neutral shrug tape throw arena giant mention trophy benefit";
+var mnemonic = "under man turkey curtain fence narrow diary siren manual involve chat patch";

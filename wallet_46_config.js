@@ -1,1 +1,1 @@
-var mnemonic = "clarify public program ten ahead dinner kind wide gorilla gravity coconut cute";
+var mnemonic = "pact course fantasy stumble farm patient team output setup purchase network duck";

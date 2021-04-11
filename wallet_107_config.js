@@ -1,1 +1,1 @@
-var mnemonic = "cancel west cat curve divorce kidney very crash unveil dream trap alarm";
+var mnemonic = "female unable hungry rebuild illegal gaze trust cart naive govern practice you";

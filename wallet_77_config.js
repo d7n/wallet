@@ -1,1 +1,1 @@
-var mnemonic = "brass pluck stock scissors april pupil brush space guard wreck announce resemble";
+var mnemonic = "bamboo combine genre consider toast lonely vault elephant couch robust shrug team";

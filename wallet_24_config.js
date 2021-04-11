@@ -1,1 +1,1 @@
-var mnemonic = "become caution ginger begin tree seminar critic alert memory physical math muffin";
+var mnemonic = "rhythm prison age brave cluster case mesh salute future witness bamboo play";

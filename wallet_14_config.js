@@ -1,1 +1,1 @@
-var mnemonic = "biology banner scissors denial galaxy bread cheap latin scout jungle scrub slush";
+var mnemonic = "uncover unfair black special vacant avocado gown convince fork sample hip onion";

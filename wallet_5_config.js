@@ -1,1 +1,1 @@
-var mnemonic = "size circle use sauce adult video discover become afford inject angry install";
+var mnemonic = "scheme critic work foil resemble until fox place armor legend sleep sad";

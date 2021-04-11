@@ -1,1 +1,1 @@
-var mnemonic = "flat crystal spare desk flash dignity tomorrow quarter siren gun rotate effort";
+var mnemonic = "stable bachelor embrace school excite glove deliver drill lesson team abstract cannon";

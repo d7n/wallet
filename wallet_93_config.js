@@ -1,1 +1,1 @@
-var mnemonic = "success predict dentist table manage thing another cube guide cliff bomb group";
+var mnemonic = "transfer near pet metal column object onion friend grass lock burger clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "wage crucial shaft ceiling family rug over debate elephant april industry alarm";
+var mnemonic = "differ surface shuffle hidden neither chief camera volcano credit wear blanket prosper";

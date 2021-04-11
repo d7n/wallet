@@ -1,1 +1,1 @@
-var mnemonic = "clog uphold else fix struggle before vital bid common pretty fade exclude";
+var mnemonic = "host cat width desk act army where echo middle menu often asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "enough aware river resource chapter drum plate crime awkward between hospital script";
+var mnemonic = "museum gym secret gain can bonus arrive garden faith milk vehicle such";

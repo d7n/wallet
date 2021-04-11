@@ -1,1 +1,1 @@
-var mnemonic = "battle prefer matter champion end mass ginger pelican normal toy cycle valley";
+var mnemonic = "prepare weekend sibling old vault elevator envelope duck wedding lock fiction divorce";

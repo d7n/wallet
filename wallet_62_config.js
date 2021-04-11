@@ -1,1 +1,1 @@
-var mnemonic = "subject there wet ready six bicycle evil before blouse dolphin bronze museum";
+var mnemonic = "brush faint gun unhappy series grab kit pool card diamond soda easily";

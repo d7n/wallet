@@ -1,1 +1,1 @@
-var mnemonic = "impulse high peanut tortoise awkward powder moon flip egg impulse nominee rebel";
+var mnemonic = "hybrid apple snake soup dog base swallow neutral beach camp rebuild alter";

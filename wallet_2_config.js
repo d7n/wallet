@@ -1,1 +1,1 @@
-var mnemonic = "airport sight update weather sting seat wait time disease remember demand topple";
+var mnemonic = "vague online cost gift exhaust settle museum gravity strategy great fury maple";

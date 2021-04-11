@@ -1,1 +1,1 @@
-var mnemonic = "jealous minute such erode ignore early yard sing luxury awake left snack";
+var mnemonic = "main imitate broccoli spice brass exhibit denial swallow account segment increase easy";

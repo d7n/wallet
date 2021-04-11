@@ -1,1 +1,1 @@
-var mnemonic = "quality sniff dust insane fresh ladder desert cruel age across absorb antique";
+var mnemonic = "current divert figure relief orbit portion produce own more oyster innocent oyster";

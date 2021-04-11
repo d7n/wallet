@@ -1,1 +1,1 @@
-var mnemonic = "speed tray under copper unique dwarf pole organ plastic match toward reunion";
+var mnemonic = "diesel nothing leg seek enrich rotate melt either normal blast lunch guitar";

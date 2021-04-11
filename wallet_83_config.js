@@ -1,1 +1,1 @@
-var mnemonic = "wish infant impose box credit auto become blame equal congress afford summer";
+var mnemonic = "degree potato ketchup write oven name agree evidence promote state rookie modify";

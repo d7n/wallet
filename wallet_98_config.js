@@ -1,1 +1,1 @@
-var mnemonic = "because throw alcohol trap screen bike physical country wool sheriff smooth couple";
+var mnemonic = "actress beauty solution wink resemble beach pride cinnamon true build solution cattle";

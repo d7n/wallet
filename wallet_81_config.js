@@ -1,1 +1,1 @@
-var mnemonic = "million expire toilet safe palm dog slender glance pull asset click nominee";
+var mnemonic = "ice cloud six gather human shoot mansion affair convince demand prize lift";

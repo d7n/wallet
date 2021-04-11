@@ -1,1 +1,1 @@
-var mnemonic = "anxiety ranch hurt shrug manage gloom network hollow tell drastic weasel adjust";
+var mnemonic = "safe dignity myth round life borrow motor funny sniff floor eagle raise";

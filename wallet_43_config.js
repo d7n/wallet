@@ -1,1 +1,1 @@
-var mnemonic = "rabbit client tree enforce salmon furnace lazy taste way mango rocket exile";
+var mnemonic = "predict mesh roast shove task volcano despair warfare engine remind theme woman";

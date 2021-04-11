@@ -1,1 +1,1 @@
-var mnemonic = "deputy shove know damage test reduce day divert gaze home audit radio";
+var mnemonic = "craft holiday diagram father tumble absorb mansion ancient dawn fox antenna monitor";

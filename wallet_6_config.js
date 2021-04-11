@@ -1,1 +1,1 @@
-var mnemonic = "poet habit bachelor version current zone neutral few say uniform exclude crowd";
+var mnemonic = "artwork forest desert diesel case wave uphold lift fun grit acid diet";

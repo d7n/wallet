@@ -1,1 +1,1 @@
-var mnemonic = "anchor trumpet remain element expand coin donor leopard solid whip random drastic";
+var mnemonic = "bitter steel pool swarm hungry pet breeze rate gift caught cloth silver";

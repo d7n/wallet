@@ -1,1 +1,1 @@
-var mnemonic = "rib celery wing stage plate poverty behind weather old fun already effort";
+var mnemonic = "charge fancy punch income stomach dice hope bicycle lion devote civil verb";

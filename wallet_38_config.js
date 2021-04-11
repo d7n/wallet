@@ -1,1 +1,1 @@
-var mnemonic = "skin ethics hollow hood shiver arctic crack image travel ride rack bag";
+var mnemonic = "bean chief another payment process canyon organ mobile annual fantasy ready oppose";

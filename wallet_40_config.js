@@ -1,1 +1,1 @@
-var mnemonic = "blade cup debris swift box urge crater trophy slush mutual erase ginger";
+var mnemonic = "key antenna hero neutral shift rally distance chief detail fix inner near";

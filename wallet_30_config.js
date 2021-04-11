@@ -1,1 +1,1 @@
-var mnemonic = "sadness deer board inform edge short snake arch square calm embark pond";
+var mnemonic = "mixture update animal bargain pride sense language finger right few detect margin";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive clown monitor index current face throw rival harvest armor chapter crowd";
+var mnemonic = "crucial coconut laptop ugly impact banner stone gym exile pink grunt pencil";

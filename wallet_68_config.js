@@ -1,1 +1,1 @@
-var mnemonic = "sunny sure leisure ordinary vehicle maximum forum fault thrive bulk master gun";
+var mnemonic = "gather camp unknown magic hamster tower useless social month valid entire author";

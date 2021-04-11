@@ -1,1 +1,1 @@
-var mnemonic = "math rule twin state unable garbage talk exist palm rural found token";
+var mnemonic = "olive neither news carry boil rural hawk junk appear ketchup cart base";

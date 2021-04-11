@@ -1,1 +1,1 @@
-var mnemonic = "slim female disease sweet divert inmate raven side found result liquid type";
+var mnemonic = "into coin weekend blame either fancy wealth warfare hockey clog indicate oxygen";

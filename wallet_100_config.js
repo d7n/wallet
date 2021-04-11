@@ -1,1 +1,1 @@
-var mnemonic = "blouse easy industry eight brother vintage price sight powder raise bird inform";
+var mnemonic = "public gap rate crush find donkey bar hire wasp giant joke expire";

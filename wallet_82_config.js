@@ -1,1 +1,1 @@
-var mnemonic = "can require scale bean divert churn voice ocean satisfy model congress lecture";
+var mnemonic = "frown unfair vocal bounce between horn rebel club intact winter business december";

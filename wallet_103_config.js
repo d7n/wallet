@@ -1,1 +1,1 @@
-var mnemonic = "quiz aspect critic movie garage antique february crumble off february merry mask";
+var mnemonic = "pride staff orange deputy burger stairs century spin capable popular pelican tilt";

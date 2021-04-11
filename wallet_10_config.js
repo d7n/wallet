@@ -1,1 +1,1 @@
-var mnemonic = "usage until illegal slogan party loop paper income jacket deposit page dial";
+var mnemonic = "public beauty deny guess critic elbow refuse staff must return siege badge";

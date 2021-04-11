@@ -1,1 +1,1 @@
-var mnemonic = "immune mammal catalog coyote crisp aunt ignore antique prison recall often sick";
+var mnemonic = "hand side hire loop roof cigar pupil debris couch quantum solution favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve discover shrug viable spoon inside quiz swarm vapor key flip genius";
+var mnemonic = "genius cousin course also fantasy step calm jar write timber chair man";

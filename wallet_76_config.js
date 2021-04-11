@@ -1,1 +1,1 @@
-var mnemonic = "ball flock gauge chase lounge melody glide suit divide hood make web";
+var mnemonic = "various merry earth reveal glad turn ten grape miss service cherry window";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect giraffe very detail save muscle inquiry evidence unaware idea anxiety then";
+var mnemonic = "comfort love aspect trophy lemon double beach major champion draw team secret";

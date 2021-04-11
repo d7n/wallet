@@ -1,1 +1,1 @@
-var mnemonic = "zoo cargo horse claw this monkey dinner coral lab trip exit arrive";
+var mnemonic = "curious midnight agent clip subject resemble plug blind only stool flock march";

@@ -1,1 +1,1 @@
-var mnemonic = "real frown then west dwarf cousin immense tackle crucial anxiety ivory actress";
+var mnemonic = "cause boring return chair magic present velvet zebra bar elite sight chaos";

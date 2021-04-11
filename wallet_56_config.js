@@ -1,1 +1,1 @@
-var mnemonic = "float proof popular sunny butter audit wild kitchen rough pig trick usual";
+var mnemonic = "route depth slender vendor write entry village shaft hotel expose dial update";

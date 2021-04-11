@@ -1,1 +1,1 @@
-var mnemonic = "hockey parent hazard double first cotton unlock brain settle type mushroom close";
+var mnemonic = "above glance catalog defense calm deposit ahead blame birth similar resist among";
