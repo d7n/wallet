@@ -1,1 +1,1 @@
-var mnemonic = "bleak suggest square ticket short flower crystal broccoli father else hungry fetch";
+var mnemonic = "caught carpet mountain party trim palace funny noodle tourist cost chef steak";

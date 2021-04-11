@@ -1,1 +1,1 @@
-var mnemonic = "surround cereal update dust large wage since umbrella fun cradle liquid put";
+var mnemonic = "mutual enable deny series soda heavy gallery pig beyond science once skirt";

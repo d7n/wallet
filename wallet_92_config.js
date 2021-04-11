@@ -1,1 +1,1 @@
-var mnemonic = "clutch outside useful pizza repair stool left dad bean journey tongue possible";
+var mnemonic = "pelican patient that like clerk team reopen now slice want skin picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "profit fuel below between blue beauty supply prison black tide praise emerge";
+var mnemonic = "fancy solid rigid eager sport source diamond educate rude master bottom style";

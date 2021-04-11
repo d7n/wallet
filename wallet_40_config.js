@@ -1,1 +1,1 @@
-var mnemonic = "uphold depend neutral midnight whisper near vivid core hello spare cram trim";
+var mnemonic = "local wink grocery youth trigger throw young elbow bean regret car grass";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple oppose coach flag enhance surge chimney embrace tumble ill another crucial";
+var mnemonic = "arrive height breeze faith stadium kit cloth flush dentist trade thumb deny";

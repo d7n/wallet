@@ -1,1 +1,1 @@
-var mnemonic = "popular manage version collect ritual device youth private oven myth talent vicious";
+var mnemonic = "dove razor science situate coach essence denial craft near very erosion sell";

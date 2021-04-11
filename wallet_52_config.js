@@ -1,1 +1,1 @@
-var mnemonic = "narrow age relief will write judge dry type nature scorpion garage split";
+var mnemonic = "sword other target pulp prosper social surface dinosaur crumble rose ball muscle";

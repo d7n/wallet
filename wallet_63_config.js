@@ -1,1 +1,1 @@
-var mnemonic = "black negative fat peasant sniff celery infant push online dragon clarify elegant";
+var mnemonic = "bullet mask ozone carpet cute you tiny praise tag again adult knife";

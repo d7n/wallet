@@ -1,1 +1,1 @@
-var mnemonic = "window hole minute world arrest hope again learn amazing cotton sugar zebra";
+var mnemonic = "cycle knife random broken aerobic runway tank club tail they diamond spy";

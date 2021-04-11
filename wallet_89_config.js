@@ -1,1 +1,1 @@
-var mnemonic = "believe must bleak host celery rifle abstract urban various immense find asthma";
+var mnemonic = "rare cannon rhythm blush soap renew horse project sniff shrimp artwork tired";

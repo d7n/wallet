@@ -1,1 +1,1 @@
-var mnemonic = "frown honey cannon smart cactus oil you clog bubble leopard solution shove";
+var mnemonic = "giggle pause iron accident remember undo spin genuine grid become stove tuition";

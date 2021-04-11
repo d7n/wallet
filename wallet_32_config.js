@@ -1,1 +1,1 @@
-var mnemonic = "speed weapon crane misery nest retire ghost style lawsuit sick monitor antique";
+var mnemonic = "style damage begin fever estate trend play expect brand dolphin vacant firm";

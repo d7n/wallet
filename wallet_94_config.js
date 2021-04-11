@@ -1,1 +1,1 @@
-var mnemonic = "rifle surge direct keep elephant rebuild catch february illness kingdom public mother";
+var mnemonic = "impulse excuse path minute tomato huge dynamic milk shiver tell guess essence";

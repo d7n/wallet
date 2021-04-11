@@ -1,1 +1,1 @@
-var mnemonic = "make raw inmate spirit robust visa shed worth night stereo valid baby";
+var mnemonic = "avocado visual vibrant owner neck nation noodle siege debris orphan found quit";

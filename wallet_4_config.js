@@ -1,1 +1,1 @@
-var mnemonic = "plate lock caution cereal wide lazy shaft ceiling bubble other same approve";
+var mnemonic = "ketchup brief trophy grab combine double minor sorry twin glass blame someone";

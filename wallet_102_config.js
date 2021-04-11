@@ -1,1 +1,1 @@
-var mnemonic = "wine soda agent team peasant object body blouse maid anxiety know drip";
+var mnemonic = "minor crater inmate strategy another wedding ivory melody tonight unique lamp side";

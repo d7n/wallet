@@ -1,1 +1,1 @@
-var mnemonic = "robust give present tattoo sell height surround knee space inside pizza bullet";
+var mnemonic = "paddle gold economy dog half jelly kiss arrive hazard copy special seven";

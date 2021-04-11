@@ -1,1 +1,1 @@
-var mnemonic = "fiscal settle monkey very organ gaze lizard village erosion album exclude news";
+var mnemonic = "judge sword drift obey bid solution raise crouch city candy worth romance";

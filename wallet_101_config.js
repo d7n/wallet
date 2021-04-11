@@ -1,1 +1,1 @@
-var mnemonic = "attack spirit course village firm physical sauce salt shy damage logic glove";
+var mnemonic = "donate book august ocean order clown cost twenty popular kid liberty motion";

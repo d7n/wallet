@@ -1,1 +1,1 @@
-var mnemonic = "shield dynamic moon world quote climb proof need truth scrap citizen carpet";
+var mnemonic = "strong oblige melody fruit misery firm maze erode hire crew frozen believe";

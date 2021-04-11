@@ -1,1 +1,1 @@
-var mnemonic = "sock concert ripple worry expect visual engage install lumber feel ritual faint";
+var mnemonic = "fortune leaf inquiry cement throw kick dog above oyster accuse coral delay";

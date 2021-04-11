@@ -1,1 +1,1 @@
-var mnemonic = "damp sun parrot fortune bulk resemble supreme skin fold rich cruel alley";
+var mnemonic = "regular scheme image wish trim input damage valve visual category mixture client";

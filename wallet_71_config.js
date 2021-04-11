@@ -1,1 +1,1 @@
-var mnemonic = "medal later wrestle warfare marble theme spare once loop click idle that";
+var mnemonic = "gentle helmet aware feed expire source language hub next exit remember web";

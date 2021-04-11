@@ -1,1 +1,1 @@
-var mnemonic = "document question joke supreme divorce picnic announce result husband rib bargain palm";
+var mnemonic = "raccoon identify afraid charge taste foam solar copper fuel slogan mouse coast";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer already funny fence cool okay else mouse magic claw light knife";
+var mnemonic = "annual banner anchor puppy drink broom series october rebuild other bean combine";

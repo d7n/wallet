@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur wood trust announce dish emotion water expire monkey matrix profit repeat";
+var mnemonic = "angle rally sponsor helmet tongue sense sail action farm profit soul swamp";

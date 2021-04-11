@@ -1,1 +1,1 @@
-var mnemonic = "hello napkin craft husband extend dad property shop pipe mimic theme someone";
+var mnemonic = "potato race lamp ride exercise table web spatial food around ethics ozone";

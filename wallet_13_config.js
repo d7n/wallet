@@ -1,1 +1,1 @@
-var mnemonic = "suggest section equip tone wall strong weekend nephew canvas neglect brick monster";
+var mnemonic = "man become mistake scare reflect found quantum spawn gas flush inside situate";

@@ -1,1 +1,1 @@
-var mnemonic = "bag believe universe grass cage awful attitude betray neither blind dance mail";
+var mnemonic = "spread taste mirror check ramp script test unusual lock crystal foam mean";

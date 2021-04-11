@@ -1,1 +1,1 @@
-var mnemonic = "shoot fresh boost because pond dose table slight extend afford hour wrong";
+var mnemonic = "illness ignore intact stay choice spin crew nation intact attitude iron spray";

@@ -1,1 +1,1 @@
-var mnemonic = "palm island damage welcome learn ignore artist night salon usual praise position";
+var mnemonic = "funny raven exit chapter copper dinner lemon wire high seat narrow filter";

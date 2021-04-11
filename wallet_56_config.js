@@ -1,1 +1,1 @@
-var mnemonic = "forget limit acid clay elite champion slim unveil taxi monitor luxury jelly";
+var mnemonic = "solution love clarify simple youth keen explain shoot devote isolate blossom sleep";

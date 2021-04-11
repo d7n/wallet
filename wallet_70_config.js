@@ -1,1 +1,1 @@
-var mnemonic = "primary connect bus sniff bicycle marriage during decline nut earth cannon throw";
+var mnemonic = "dice divide front cat high frozen skirt project draw peanut olive buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "exile iron icon you nasty dish appear mushroom mushroom truck where aspect";
+var mnemonic = "dumb maple usual among coral ten task quote forest expect caught wish";

@@ -1,1 +1,1 @@
-var mnemonic = "damage cause window defy tongue wreck cream bike shrimp search isolate biology";
+var mnemonic = "poet habit federal cause material innocent stick degree various possible ensure then";

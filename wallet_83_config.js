@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit unique piano parrot dad visit shell rail vendor smooth famous awesome";
+var mnemonic = "lion stick shadow thing scene click gain obvious fun decide wasp hamster";

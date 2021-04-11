@@ -1,1 +1,1 @@
-var mnemonic = "stairs scan lock busy fly print sample fossil tooth hurdle buffalo admit";
+var mnemonic = "chimney surround current seek drum voice pelican pledge envelope already library friend";

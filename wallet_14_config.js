@@ -1,1 +1,1 @@
-var mnemonic = "jewel save license inflict coral easily between destroy hybrid walk student ticket";
+var mnemonic = "ridge black license monkey romance antique lounge civil mixture alarm nerve place";

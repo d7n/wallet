@@ -1,1 +1,1 @@
-var mnemonic = "ten whip candy disease bus spy pink april mask day eight simple";
+var mnemonic = "govern february maple awesome carbon ugly basket twenty yellow thrive throw midnight";

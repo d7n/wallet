@@ -1,1 +1,1 @@
-var mnemonic = "zero leader arrest salmon marble notice sugar fruit tonight enough tip express";
+var mnemonic = "destroy cycle twist bright kick hunt square until age advice shuffle meadow";

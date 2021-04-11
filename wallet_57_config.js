@@ -1,1 +1,1 @@
-var mnemonic = "echo lazy peace weekend wild awake theory smile damage thunder excite drill";
+var mnemonic = "kick spend garment song harsh pet change ticket target angry coral south";

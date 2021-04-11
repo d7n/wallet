@@ -1,1 +1,1 @@
-var mnemonic = "ladder mother dolphin nation nerve simple law oxygen update fiction across dust";
+var mnemonic = "ordinary bunker away sense useful chunk fork hen office cluster brave beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "blame poem leader negative distance similar advice ski shallow describe butter unlock";
+var mnemonic = "filter thank cost spoon awesome change educate figure worry suit athlete tree";

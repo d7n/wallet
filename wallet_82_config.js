@@ -1,1 +1,1 @@
-var mnemonic = "question number manual depend shrug bicycle proof void nuclear pelican ill spawn";
+var mnemonic = "uniform busy pledge fashion bullet throw shallow duty valid hidden fall pet";

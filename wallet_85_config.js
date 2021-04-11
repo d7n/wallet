@@ -1,1 +1,1 @@
-var mnemonic = "action fit disorder boring beauty endorse pledge board antenna enrich lion hover";
+var mnemonic = "casual bless turn enrich young dial stock level try force slab avocado";

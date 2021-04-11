@@ -1,1 +1,1 @@
-var mnemonic = "artefact circle drama shock bomb duck alone hurt asset allow bench faith";
+var mnemonic = "enhance version typical cousin surprise air demand sister win define useless gaze";

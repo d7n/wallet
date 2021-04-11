@@ -1,1 +1,1 @@
-var mnemonic = "valid frost ten behind desk exile vote material nuclear rare build motor";
+var mnemonic = "top prepare initial head atom retreat length purity remember home upper old";

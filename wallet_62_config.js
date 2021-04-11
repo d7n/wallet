@@ -1,1 +1,1 @@
-var mnemonic = "brass come beauty frequent obey large ecology behind sand picture discover wish";
+var mnemonic = "program rigid brush circle client ridge method rude there carry biology achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs virus fee easily salmon kick gauge own copper rocket oven begin";
+var mnemonic = "regret wise grass give unlock brass drop decrease clarify strong harbor boost";

@@ -1,1 +1,1 @@
-var mnemonic = "belt ripple donkey amount next scissors magnet recipe flight hospital hybrid bronze";
+var mnemonic = "repair chronic imitate weasel dizzy illegal clip runway cube pull tray virtual";

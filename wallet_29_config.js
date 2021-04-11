@@ -1,1 +1,1 @@
-var mnemonic = "pistol item news fetch solution potato check first sure leg rail amateur";
+var mnemonic = "dismiss kingdom check explain cliff false slice mobile addict anxiety arena bargain";

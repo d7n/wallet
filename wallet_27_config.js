@@ -1,1 +1,1 @@
-var mnemonic = "wool north luggage digital pudding mobile brand wrap chronic when renew notable";
+var mnemonic = "ginger swear polar predict comic want deal clinic runway verb vapor drop";

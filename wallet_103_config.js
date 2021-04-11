@@ -1,1 +1,1 @@
-var mnemonic = "speak unveil lecture easy inner assault casual rabbit guitar subject run august";
+var mnemonic = "garage negative leopard spoil film hazard pretty cupboard april client jeans amazing";

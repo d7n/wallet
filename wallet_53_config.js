@@ -1,1 +1,1 @@
-var mnemonic = "rescue blue suggest alter dinner you route beach squirrel prize three debate";
+var mnemonic = "girl element equip shy crisp sweet coffee term field helmet absurd unfold";

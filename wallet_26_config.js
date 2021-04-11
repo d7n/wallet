@@ -1,1 +1,1 @@
-var mnemonic = "surround embark unusual oven copy action vote real divorce sting collect agree";
+var mnemonic = "eye always behind bag faculty walnut era fit process priority snack clinic";

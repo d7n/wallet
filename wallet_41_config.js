@@ -1,1 +1,1 @@
-var mnemonic = "solve trigger detail glide lizard indicate kingdom kiwi monkey blast garment invest";
+var mnemonic = "stadium limb gadget puppy dwarf blade copy estate august achieve august indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "target wing own pledge discover oxygen chef palm coil hurt lamp gaze";
+var mnemonic = "inner stand dish noble stairs endorse happy margin volcano old express photo";

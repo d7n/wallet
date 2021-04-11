@@ -1,1 +1,1 @@
-var mnemonic = "build happy curve flee panda axis dizzy promote current invite ahead oxygen";
+var mnemonic = "ill cancel jar royal cotton yard nose exhibit claw quantum clog account";

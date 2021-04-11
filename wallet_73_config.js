@@ -1,1 +1,1 @@
-var mnemonic = "unknown submit mix erupt language pull card clock write slow trim perfect";
+var mnemonic = "hire hedgehog mobile certain switch keen involve balcony among same tone you";

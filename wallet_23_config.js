@@ -1,1 +1,1 @@
-var mnemonic = "blouse trouble creek jaguar struggle runway laptop hill tiny search like reflect";
+var mnemonic = "flame country entry sport join toss drop depend unlock wise destroy logic";

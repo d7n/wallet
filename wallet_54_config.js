@@ -1,1 +1,1 @@
-var mnemonic = "dismiss auto acid submit sign improve blood grape bamboo great slight require";
+var mnemonic = "biology amount empower gospel arrive metal forum radio health artist enter test";

@@ -1,1 +1,1 @@
-var mnemonic = "agent loud kind resemble hollow enforce sister salt nephew april lab earn";
+var mnemonic = "ensure catalog carpet lunch garlic educate shallow shadow doctor found tumble merit";

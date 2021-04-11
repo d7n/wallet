@@ -1,1 +1,1 @@
-var mnemonic = "arrange frown daughter viable impose frost lawn tag degree meadow also quick";
+var mnemonic = "shell olive deer ready fever arctic grape mountain grab fiber panic salt";

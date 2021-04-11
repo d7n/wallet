@@ -1,1 +1,1 @@
-var mnemonic = "immune scare palace donate awake question produce radio duty wait chief lawn";
+var mnemonic = "festival kiss green harvest praise asthma gospel general hub clarify into sting";

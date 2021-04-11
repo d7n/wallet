@@ -1,1 +1,1 @@
-var mnemonic = "cliff beyond fish hurry entire away address frost window jelly day cup";
+var mnemonic = "pigeon banana receive december more retire tank boost combine spike join sense";

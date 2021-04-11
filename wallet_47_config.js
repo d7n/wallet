@@ -1,1 +1,1 @@
-var mnemonic = "upper total sail betray salmon absorb usual burger garden first glimpse document";
+var mnemonic = "wood amazing crystal novel ship penalty banner slam man share inject warrior";

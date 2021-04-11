@@ -1,1 +1,1 @@
-var mnemonic = "sell rent mirror velvet scrub behave gallery buzz marble what early snap";
+var mnemonic = "oxygen alpha document action universe scare doctor mean leisure work reopen radio";

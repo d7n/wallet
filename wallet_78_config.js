@@ -1,1 +1,1 @@
-var mnemonic = "jealous detail tank sure crazy obscure armed hire seat easy dizzy design";
+var mnemonic = "hurdle fringe pudding clutch identify blast used core mystery antenna bullet click";

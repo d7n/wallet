@@ -1,1 +1,1 @@
-var mnemonic = "unique deal furnace kite mango nice course nephew base mesh fruit flock";
+var mnemonic = "home spare crush useful issue exercise pitch century clog winner ghost truck";

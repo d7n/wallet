@@ -1,1 +1,1 @@
-var mnemonic = "acid city badge raw tomato move erupt panda salute fit leader already";
+var mnemonic = "ostrich type buyer title trade salon weapon avocado lottery stock wrist risk";

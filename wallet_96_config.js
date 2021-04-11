@@ -1,1 +1,1 @@
-var mnemonic = "found hawk open wait delay fork camp kid grape mouse limb select";
+var mnemonic = "space switch mixed fury renew tragic torch direct dolphin film chase noise";

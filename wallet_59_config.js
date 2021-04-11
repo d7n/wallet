@@ -1,1 +1,1 @@
-var mnemonic = "alcohol carry forum main champion opinion problem rigid physical skirt beauty struggle";
+var mnemonic = "dog goddess bubble record rally prize panther session tattoo fox hire fat";

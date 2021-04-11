@@ -1,1 +1,1 @@
-var mnemonic = "frown situate awake warfare raise wagon horse vocal unfair winner steak farm";
+var mnemonic = "skate smart horse attitude claw other ranch tooth arch wave coffee discover";

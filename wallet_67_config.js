@@ -1,1 +1,1 @@
-var mnemonic = "source chuckle art recycle warfare memory electric critic angle cup equal practice";
+var mnemonic = "record side fox robot stove reflect pepper happy divide author dynamic column";

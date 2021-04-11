@@ -1,1 +1,1 @@
-var mnemonic = "hurry fly about alley rack ready tool embody danger nominee pool candy";
+var mnemonic = "eagle flip settle script payment glad honey side slice pledge grab pottery";

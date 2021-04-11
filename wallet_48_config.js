@@ -1,1 +1,1 @@
-var mnemonic = "assist gun merge october provide goddess shadow collect plate around thumb swallow";
+var mnemonic = "piece useful mention lecture trip collect detail clutch nut ball elder canvas";

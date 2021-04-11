@@ -1,1 +1,1 @@
-var mnemonic = "pretty gather develop disagree faint start odor engage into alpha close raw";
+var mnemonic = "surface ribbon plug sauce uniform gauge canyon walnut donkey proof deny confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "spend nurse ticket ostrich bread eager fun sustain robot eight major clarify";
+var mnemonic = "tilt start vehicle battle reason balcony adapt wide addict nominee mom depth";

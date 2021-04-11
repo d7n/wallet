@@ -1,1 +1,1 @@
-var mnemonic = "target parade theory fold runway barrel marine enhance area remove antique curious";
+var mnemonic = "business caught defy midnight east urge accident era concert badge pass link";

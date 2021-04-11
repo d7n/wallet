@@ -1,1 +1,1 @@
-var mnemonic = "plate hour pact mad law mansion usage park wall casino insect small";
+var mnemonic = "sample merry affair apart never lawn push spice panther dose chief wish";

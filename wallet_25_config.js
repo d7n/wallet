@@ -1,1 +1,1 @@
-var mnemonic = "cabin safe add gaze patrol awake glow away practice crop remove choice";
+var mnemonic = "midnight spoon castle security keep else hub grape baby oyster buddy script";

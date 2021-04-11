@@ -1,1 +1,1 @@
-var mnemonic = "canoe gadget stairs habit ocean beauty critic glory dress movie autumn snap";
+var mnemonic = "mimic injury avocado tomorrow reject beach image sport behave badge double ready";

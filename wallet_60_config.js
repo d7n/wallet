@@ -1,1 +1,1 @@
-var mnemonic = "pledge voice soldier tone reveal rice hard already license chair tent sting";
+var mnemonic = "hawk mind elephant prepare question grab feel stick goat door museum setup";

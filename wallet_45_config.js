@@ -1,1 +1,1 @@
-var mnemonic = "law fold whip fade jump rookie delay champion special viable mobile orchard";
+var mnemonic = "derive leisure happy sad husband true labor hamster middle cricket frown increase";

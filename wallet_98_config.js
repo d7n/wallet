@@ -1,1 +1,1 @@
-var mnemonic = "concert dentist aunt slide fiction lock clip square sand south roast divert";
+var mnemonic = "possible soldier transfer cigar swallow luxury filter sun shadow valve casual ignore";

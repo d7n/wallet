@@ -1,1 +1,1 @@
-var mnemonic = "citizen begin person priority length misery text panic summer inherit reunion index";
+var mnemonic = "cross quick clerk shadow grunt eight daughter leopard pudding prison slow depth";

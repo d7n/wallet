@@ -1,1 +1,1 @@
-var mnemonic = "define trick cool original assault supply useful census state awkward film sketch";
+var mnemonic = "scheme sustain sister hundred pond high rescue hurdle electric quote banana unknown";

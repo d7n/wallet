@@ -1,1 +1,1 @@
-var mnemonic = "laundry shop birth around now explain faint ordinary globe regret cereal minor";
+var mnemonic = "sausage insect struggle favorite faint race hawk rescue calm chunk dynamic ethics";

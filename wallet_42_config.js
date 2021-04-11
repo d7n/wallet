@@ -1,1 +1,1 @@
-var mnemonic = "antenna sunny merge example drift paddle broom era hockey negative annual parrot";
+var mnemonic = "peanut pig hammer flock puppy under noodle execute quit useless repeat corn";

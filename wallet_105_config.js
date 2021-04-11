@@ -1,1 +1,1 @@
-var mnemonic = "velvet must educate hybrid feel embody tongue monitor balance sugar viable repair";
+var mnemonic = "angry valley ancient because notable change lesson canvas one embrace alone trade";
