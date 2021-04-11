@@ -1,1 +1,1 @@
-var mnemonic = "arrange denial steak cherry menu member minute isolate moon equal ritual smoke";
+var mnemonic = "game doll cereal spawn loan kid excuse lock play elephant lazy lucky";

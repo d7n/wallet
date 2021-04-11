@@ -1,1 +1,1 @@
-var mnemonic = "junior trust divert luxury field west summer fat crack glory orange crowd";
+var mnemonic = "radio brisk trade company inform script bunker skull vague exotic motion mean";

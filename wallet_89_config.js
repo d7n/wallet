@@ -1,1 +1,1 @@
-var mnemonic = "solar drink crew siren today long next have ten leave draw evil";
+var mnemonic = "acquire toward frequent man car join neutral giant year hope sponsor faint";

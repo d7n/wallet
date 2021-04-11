@@ -1,1 +1,1 @@
-var mnemonic = "ready rifle become transfer book divert arrest forget crater excite analyst damage";
+var mnemonic = "color cool harvest trade need acid glimpse visit arena jealous fatigue space";

@@ -1,1 +1,1 @@
-var mnemonic = "float weird easy increase giraffe rely extra eternal peanut off wheel fury";
+var mnemonic = "shuffle lawsuit heart firm leisure suggest urban syrup unfold maple snow grocery";

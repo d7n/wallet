@@ -1,1 +1,1 @@
-var mnemonic = "tell cart garbage curve need hover despair ethics chair blind shop mixture";
+var mnemonic = "candy manual cause opinion dog pink series flag diesel fresh exchange zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "aim measure wrist city depart spell broom blush wage thank robust blouse";
+var mnemonic = "real page company nation input you movie essay fiscal wool notice nature";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve welcome keen sudden weasel injury range maple income add cause hole";
+var mnemonic = "corn resist knee stumble scare curtain cause effort voyage walnut smile movie";

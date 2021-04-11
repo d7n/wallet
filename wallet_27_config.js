@@ -1,1 +1,1 @@
-var mnemonic = "trade moon impact imitate sibling remove arrive spoil warrior dinner swarm spike";
+var mnemonic = "private brick barely powder offer machine depth diary frame fine stove indicate";

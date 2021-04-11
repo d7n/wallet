@@ -1,1 +1,1 @@
-var mnemonic = "credit amateur ship man civil bracket border evil random nerve square dutch";
+var mnemonic = "slender borrow chimney soldier cinnamon shift excuse squeeze scrap will donor hint";

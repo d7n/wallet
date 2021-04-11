@@ -1,1 +1,1 @@
-var mnemonic = "sun canal mom cabbage all soup fire suggest other pen okay neutral";
+var mnemonic = "talent border right hammer sister enhance gas token truly endless legend glory";

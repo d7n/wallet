@@ -1,1 +1,1 @@
-var mnemonic = "audit surround able oval liar genuine soup hotel kiwi grow cable filter";
+var mnemonic = "middle vague door void decide into tag narrow seed duty alcohol sweet";

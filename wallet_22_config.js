@@ -1,1 +1,1 @@
-var mnemonic = "fade notable unknown term abandon apology drip giant filter scene define scout";
+var mnemonic = "happy office shadow junk vote olive dad taxi sea acquire bargain judge";

@@ -1,1 +1,1 @@
-var mnemonic = "combine upon mule much hybrid nephew boss sight total start token surprise";
+var mnemonic = "inflict good practice brief bone dune island story fiber explain raw viable";

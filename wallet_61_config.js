@@ -1,1 +1,1 @@
-var mnemonic = "picnic series phrase cool enforce mean two slight mimic fiber tumble question";
+var mnemonic = "treat raccoon increase obvious expect laundry coffee sunny lift boss normal collect";

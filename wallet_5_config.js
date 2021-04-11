@@ -1,1 +1,1 @@
-var mnemonic = "clump pass clay episode cool oil solve pear noodle unhappy muffin daughter";
+var mnemonic = "repeat vendor decide ankle cotton much relief ahead one symbol snap very";

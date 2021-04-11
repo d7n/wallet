@@ -1,1 +1,1 @@
-var mnemonic = "pyramid hole sight cart ankle unlock text famous venue prefer monkey wool";
+var mnemonic = "power public spread giraffe similar wave math slogan repeat donate orbit pave";

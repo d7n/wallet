@@ -1,1 +1,1 @@
-var mnemonic = "cherry airport suggest chat panda blade grunt pumpkin loud target club thumb";
+var mnemonic = "toy cross just sniff wood cable zoo gorilla return jewel gas round";

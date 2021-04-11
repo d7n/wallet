@@ -1,1 +1,1 @@
-var mnemonic = "buffalo banana clarify fame rhythm amount civil deer shift spend chair anchor";
+var mnemonic = "witness blue drama ignore run crater antenna then always body wild useful";

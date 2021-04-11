@@ -1,1 +1,1 @@
-var mnemonic = "seek slot below wrestle badge merit clinic hollow dragon clean excuse gap";
+var mnemonic = "absurd leave nation elevator green minimum burst pass swap absurd glimpse tunnel";

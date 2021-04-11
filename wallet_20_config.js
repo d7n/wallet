@@ -1,1 +1,1 @@
-var mnemonic = "goose awake disagree trim arrive bonus mixed evil gentle rack stable marriage";
+var mnemonic = "target review hurdle coral behave prepare boring best tuition expire olympic enact";

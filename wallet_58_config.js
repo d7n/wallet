@@ -1,1 +1,1 @@
-var mnemonic = "clinic over wide warrior trust jar giggle hand term city river soul";
+var mnemonic = "saddle domain void certain select inject dismiss hover neglect sorry ignore deposit";

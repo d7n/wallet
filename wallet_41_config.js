@@ -1,1 +1,1 @@
-var mnemonic = "honey dose whip match exchange forward you field carpet ritual staff voyage";
+var mnemonic = "logic grid street suggest plug cargo pill cherry whip minute fog usage";

@@ -1,1 +1,1 @@
-var mnemonic = "address hawk stable crystal rack destroy liar entire federal speed object change";
+var mnemonic = "town kiwi antenna woman pet whale mansion refuse denial okay recipe husband";

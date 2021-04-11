@@ -1,1 +1,1 @@
-var mnemonic = "taxi riot rather run faith upset mutual fun abuse gold era surround";
+var mnemonic = "panther spike person apple shuffle clerk bargain theme legend grass elbow donkey";

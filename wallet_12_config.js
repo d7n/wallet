@@ -1,1 +1,1 @@
-var mnemonic = "few strong hard rice select van leisure fabric hen bright mother dog";
+var mnemonic = "promote response stem skate bitter include skin veteran seat piece garment slogan";

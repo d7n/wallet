@@ -1,1 +1,1 @@
-var mnemonic = "popular child high theme divorce hold mass artist gown almost grain fly";
+var mnemonic = "brick ride thank engage cloth pact lottery caught actress fine light stairs";

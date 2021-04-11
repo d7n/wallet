@@ -1,1 +1,1 @@
-var mnemonic = "giraffe orphan extend dune depend sorry green potato plunge paper youth sound";
+var mnemonic = "student sort hollow grief never explain cross swim place fury mother guilt";

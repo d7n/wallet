@@ -1,1 +1,1 @@
-var mnemonic = "noble soccer unit museum slam potato ring patrol submit search wrap body";
+var mnemonic = "alcohol broccoli warrior client rotate sustain zero cloth ship offer rough wear";

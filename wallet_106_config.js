@@ -1,1 +1,1 @@
-var mnemonic = "pear north month hint bitter ugly transfer huge girl view panic later";
+var mnemonic = "bamboo frown trap tank farm remember first giggle page error floor buzz";

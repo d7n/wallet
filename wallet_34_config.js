@@ -1,1 +1,1 @@
-var mnemonic = "journey twist depth federal anger scissors best puppy mention nose page crystal";
+var mnemonic = "lesson car into strong stay glide exact because square know fashion region";

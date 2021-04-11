@@ -1,1 +1,1 @@
-var mnemonic = "blood season idea palm dismiss column boy proof essence upgrade rare boost";
+var mnemonic = "forget soap write acquire valley fitness bubble hip fence fire journey crazy";

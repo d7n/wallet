@@ -1,1 +1,1 @@
-var mnemonic = "priority faculty phone burger end survey road holiday pact diary fancy diagram";
+var mnemonic = "practice kidney sword plug reform mad desert insect focus cruise ecology just";

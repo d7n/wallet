@@ -1,1 +1,1 @@
-var mnemonic = "suggest length govern give figure defy injury behave smile athlete eight when";
+var mnemonic = "dumb remember spawn refuse water also spoon ginger auction laugh year menu";

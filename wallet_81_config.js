@@ -1,1 +1,1 @@
-var mnemonic = "fiber guess spell wash idle midnight blossom inmate squirrel true sock swarm";
+var mnemonic = "round imitate avocado stone buyer once roast pull broccoli tunnel bullet fantasy";

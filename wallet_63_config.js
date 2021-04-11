@@ -1,1 +1,1 @@
-var mnemonic = "vintage anxiety weird deposit despair elbow fury execute genre have come buddy";
+var mnemonic = "tower tube pretty tomorrow indoor merit rain kiwi climb few rail budget";

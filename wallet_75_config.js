@@ -1,1 +1,1 @@
-var mnemonic = "clock rotate truly warm rally tilt brass grid spray impulse moment charge";
+var mnemonic = "pair pioneer crack live gesture alien glance loop glance cost cabin minute";

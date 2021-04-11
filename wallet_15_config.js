@@ -1,1 +1,1 @@
-var mnemonic = "horror usual practice hurdle tissue exit moral liar inside inquiry actor pear";
+var mnemonic = "melt door normal alien method chest ready number wasp spring better velvet";

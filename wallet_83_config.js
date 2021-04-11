@@ -1,1 +1,1 @@
-var mnemonic = "utility blame lonely seek check genre attract habit hire shadow frown range";
+var mnemonic = "glide stone enemy oil card duck cupboard auto decorate intact absent rare";

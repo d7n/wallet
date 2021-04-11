@@ -1,1 +1,1 @@
-var mnemonic = "ensure slam artwork dance off prosper flag excuse wealth evolve prepare stomach";
+var mnemonic = "curious sun raccoon easy combine twice enable hedgehog term live pair mom";

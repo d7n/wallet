@@ -1,1 +1,1 @@
-var mnemonic = "when provide divorce cactus curve trash naive reopen march burst budget office";
+var mnemonic = "crucial swarm tuna wedding canal library before fragile cash elevator hub wood";

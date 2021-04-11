@@ -1,1 +1,1 @@
-var mnemonic = "unhappy flock hold hawk museum fee endorse husband someone hill trigger slab";
+var mnemonic = "stick cute veteran eight illegal whip finger shed flash dice fatal album";

@@ -1,1 +1,1 @@
-var mnemonic = "again chase island ignore race market gorilla rent ordinary patient horror mansion";
+var mnemonic = "identify evidence solar quote wreck conduct require risk pistol dose life zone";

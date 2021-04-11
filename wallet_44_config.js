@@ -1,1 +1,1 @@
-var mnemonic = "palace forum help essence mother tray provide attitude essence dentist hunt flight";
+var mnemonic = "manual alone jacket glide fiber kitchen unaware bus visa comfort fabric busy";

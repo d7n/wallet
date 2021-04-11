@@ -1,1 +1,1 @@
-var mnemonic = "image invite border cash violin there tape witness hunt acquire between icon";
+var mnemonic = "century course slim ski wine depart laugh junk enhance season vessel first";

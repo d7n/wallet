@@ -1,1 +1,1 @@
-var mnemonic = "design amateur welcome human wealth card list bracket immense novel shine wheel";
+var mnemonic = "fluid bean transfer around setup snack vacant wear promote middle crouch buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel liar short grit cake behave goose entire mouse annual rare belt";
+var mnemonic = "desk hedgehog baby nerve illegal sample hill fire three deliver fruit chair";

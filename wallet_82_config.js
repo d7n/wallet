@@ -1,1 +1,1 @@
-var mnemonic = "bullet zebra lottery rural rabbit wealth salad dry sniff rely clinic comic";
+var mnemonic = "broom toss funny adult promote lift parent improve company fresh artefact carpet";

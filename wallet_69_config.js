@@ -1,1 +1,1 @@
-var mnemonic = "sand situate manual parrot sure luxury usage above beach maid notice cabin";
+var mnemonic = "quality oxygen regular history kitchen onion mushroom garden tuna corn glad theme";

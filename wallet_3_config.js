@@ -1,1 +1,1 @@
-var mnemonic = "chimney first ahead electric bottom cage behave custom link wrap million bench";
+var mnemonic = "capable helmet pudding split tobacco case coyote noise index throw chef rigid";

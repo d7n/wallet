@@ -1,1 +1,1 @@
-var mnemonic = "initial license debris purity health rural lonely knee eternal car protect custom";
+var mnemonic = "whip plastic cotton address amazing negative dirt kite amused practice hello second";

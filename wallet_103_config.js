@@ -1,1 +1,1 @@
-var mnemonic = "law cart silent injury harsh acoustic name cattle nature know improve mean";
+var mnemonic = "wink entire slogan boss spread peace brisk fade side throw head transfer";

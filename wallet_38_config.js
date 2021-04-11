@@ -1,1 +1,1 @@
-var mnemonic = "ketchup tonight warrior pact select sponsor mass treat false morning dwarf steak";
+var mnemonic = "permit negative desk ketchup motor belt hundred story pool fame member hint";

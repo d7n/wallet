@@ -1,1 +1,1 @@
-var mnemonic = "volume home outer attack desk text laptop forest allow balance truck accident";
+var mnemonic = "author nasty weapon piano clarify glimpse kit cost know tilt orbit assist";

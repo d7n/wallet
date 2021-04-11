@@ -1,1 +1,1 @@
-var mnemonic = "rack ripple guitar seat ranch access isolate industry spring label stuff basket";
+var mnemonic = "drift have version caught outer depend bind into entire tissue body legal";

@@ -1,1 +1,1 @@
-var mnemonic = "render series eager window autumn wait almost middle cradle fall forget brown";
+var mnemonic = "region boy pyramid spell noise obvious library leave pelican draft badge alone";

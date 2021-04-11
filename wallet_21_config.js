@@ -1,1 +1,1 @@
-var mnemonic = "ritual foam uncover area dice movie pupil spin weekend want hammer cannon";
+var mnemonic = "surface answer jungle job visa uncover popular essay broccoli blind window bounce";

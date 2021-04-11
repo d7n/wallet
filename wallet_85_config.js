@@ -1,1 +1,1 @@
-var mnemonic = "laundry field discover height reveal scare inform report suit spare cliff destroy";
+var mnemonic = "flower segment scrap average truck whip magic only walnut brass security virtual";

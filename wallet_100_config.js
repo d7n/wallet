@@ -1,1 +1,1 @@
-var mnemonic = "camp hour rival wise tank satoshi today excite perfect warm lonely carry";
+var mnemonic = "foil flush olive mule fuel weekend despair banana goose rose impact spider";

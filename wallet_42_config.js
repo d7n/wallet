@@ -1,1 +1,1 @@
-var mnemonic = "much afford salute fish trouble ten sunny left chest enter pig amused";
+var mnemonic = "carry crumble tragic deal diagram install ring health fetch punch file capable";

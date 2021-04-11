@@ -1,1 +1,1 @@
-var mnemonic = "series scatter rack trip warm group beef acid patrol demand trim brain";
+var mnemonic = "gown toast age monster this boost desert arrange liquid real kick strong";

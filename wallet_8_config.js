@@ -1,1 +1,1 @@
-var mnemonic = "craft audit maze spawn deny vivid planet sustain morning business gaze donor";
+var mnemonic = "say grass primary bless shiver film dove survey blue since palace mammal";

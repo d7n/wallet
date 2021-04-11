@@ -1,1 +1,1 @@
-var mnemonic = "subway bundle combine spin tattoo oyster lens conduct space team various shallow";
+var mnemonic = "wasp jungle cart fan slab logic hair deputy alert maximum party engine";

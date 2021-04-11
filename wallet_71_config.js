@@ -1,1 +1,1 @@
-var mnemonic = "mixed clock guard blade sleep solid until empty erosion kingdom library version";
+var mnemonic = "blouse come host pulse lamp cancel novel radio enhance picture expect away";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid endorse artist cancel ship social unhappy ramp chest cram rival shock";
+var mnemonic = "flat gasp together expand gospel exile chair version hammer impulse tree parrot";

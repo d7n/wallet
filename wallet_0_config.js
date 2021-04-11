@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon update stay good possible shock wide offer wire regular birth must";
+var mnemonic = "flush flat brisk thrive cupboard domain deposit inhale theory swap lucky seven";

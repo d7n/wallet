@@ -1,1 +1,1 @@
-var mnemonic = "tribe float flower hire robust dilemma there tonight program blame brisk fiscal";
+var mnemonic = "kitten scissors edit egg desert impose struggle family scatter glimpse isolate seek";

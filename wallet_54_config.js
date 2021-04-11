@@ -1,1 +1,1 @@
-var mnemonic = "animal suit pause sell snack animal lens involve subject left foot right";
+var mnemonic = "crop nest broken muffin toss gift organ fish engage reason okay stumble";

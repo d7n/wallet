@@ -1,1 +1,1 @@
-var mnemonic = "employ spice tomorrow bronze behind film forget aware accuse main figure verify";
+var mnemonic = "scatter learn bean blush improve suggest display close rapid quit miracle hurry";

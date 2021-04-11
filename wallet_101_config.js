@@ -1,1 +1,1 @@
-var mnemonic = "water lunch high unveil chicken unable copy immense close short riot domain";
+var mnemonic = "nice east life crucial tomato disorder hospital swap panel lumber sentence orient";

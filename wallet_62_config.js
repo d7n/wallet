@@ -1,1 +1,1 @@
-var mnemonic = "brief vault type tuna order piece neutral again vessel crew shy object";
+var mnemonic = "coin again volume gadget rhythm bring release guess trigger innocent detect vast";

@@ -1,1 +1,1 @@
-var mnemonic = "detail state fan oval luggage buddy napkin inflict young roof symptom wife";
+var mnemonic = "romance setup short black love flight erupt general rather now near cricket";

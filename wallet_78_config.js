@@ -1,1 +1,1 @@
-var mnemonic = "normal reflect sell march tide pudding divert steel dream december equal clay";
+var mnemonic = "exile ethics shoe toss kit clump famous broom crack breeze random trash";

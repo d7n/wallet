@@ -1,1 +1,1 @@
-var mnemonic = "charge salute fee gallery sand position column leopard mother work garment extra";
+var mnemonic = "captain unknown artwork demand anger blanket grain close dog flame defy gym";

@@ -1,1 +1,1 @@
-var mnemonic = "dish crisp mesh circle century describe brisk pause pole payment arm film";
+var mnemonic = "arrest reveal rail shine economy must arrive kiss remain below gap ticket";

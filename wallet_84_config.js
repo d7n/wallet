@@ -1,1 +1,1 @@
-var mnemonic = "vault already sunny glimpse quote health oppose cabin outdoor excess dune judge";
+var mnemonic = "afraid rhythm method inquiry love work initial blossom renew false brief detail";

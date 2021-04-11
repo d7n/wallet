@@ -1,1 +1,1 @@
-var mnemonic = "poverty cousin kick electric tornado depth chair tissue amateur subway scan enhance";
+var mnemonic = "regular knock absent dose wet bundle clump usual include flower penalty because";

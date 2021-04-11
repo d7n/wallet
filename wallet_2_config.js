@@ -1,1 +1,1 @@
-var mnemonic = "outdoor business unfair general escape merry gap mixed banner diagram night sibling";
+var mnemonic = "omit spawn render idea arena dilemma cabbage reveal wave visa water future";

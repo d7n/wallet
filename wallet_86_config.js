@@ -1,1 +1,1 @@
-var mnemonic = "congress online brick armor skirt soup expose list asthma arena dismiss celery";
+var mnemonic = "release fortune system post since core treat present grid west coach audit";

@@ -1,1 +1,1 @@
-var mnemonic = "rather fire plunge unique kid solution rug bus alien absent spawn lonely";
+var mnemonic = "grunt aisle federal liar dance verify dwarf mango night where just aspect";

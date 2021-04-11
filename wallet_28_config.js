@@ -1,1 +1,1 @@
-var mnemonic = "hamster hard minor tonight clump bless insane shed hamster leave crisp fault";
+var mnemonic = "kangaroo draft lecture roast live actual normal color rescue between drift hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "wide picnic leg van draft digital fetch truth urban strike general error";
+var mnemonic = "motion reunion early naive vague chalk decide grunt scrap ill uniform allow";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket gas reveal learn file elder client moment feed drive shrug tonight";
+var mnemonic = "share gasp panther manual unable suit evil churn kitchen second hole want";

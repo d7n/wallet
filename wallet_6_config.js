@@ -1,1 +1,1 @@
-var mnemonic = "illness cloth pig liberty water oil brick window vivid slim joke mutual";
+var mnemonic = "zero uncle crash rapid chimney inherit around silver wide tongue hurdle lecture";

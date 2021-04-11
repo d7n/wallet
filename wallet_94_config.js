@@ -1,1 +1,1 @@
-var mnemonic = "mix similar plate dial trend hover tiger venue clay barely south album";
+var mnemonic = "spawn flee moon fossil only column false voyage junior junk begin spawn";

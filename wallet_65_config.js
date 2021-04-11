@@ -1,1 +1,1 @@
-var mnemonic = "evoke push rate absurd village over there pelican casual snack gain alone";
+var mnemonic = "bulk sword cave cushion april gather join salt fog wash talent sudden";

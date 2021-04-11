@@ -1,1 +1,1 @@
-var mnemonic = "orphan forest buyer fancy decline special curtain repeat pear invite scare helmet";
+var mnemonic = "shift sister asset van ozone method book also elegant high scare bone";
