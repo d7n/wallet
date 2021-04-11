@@ -1,1 +1,1 @@
-var mnemonic = "zone nerve room version miracle wheel snap iron embrace beef this chat";
+var mnemonic = "onion gauge stone elevator cement cancel number isolate visual exact hazard sad";

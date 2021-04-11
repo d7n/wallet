@@ -1,1 +1,1 @@
-var mnemonic = "hint found liberty leg river kingdom purity runway weather kiss used rescue";
+var mnemonic = "legend chair hunt lift olympic rule subway summer insect legal organ limb";

@@ -1,1 +1,1 @@
-var mnemonic = "always voyage saddle supply relax avocado gather behind spider tower common face";
+var mnemonic = "mad velvet quote champion annual defense keep vacant goddess amount alley chaos";

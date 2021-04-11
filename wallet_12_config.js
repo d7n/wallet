@@ -1,1 +1,1 @@
-var mnemonic = "globe any accident upset weekend sorry hint vacant worry try pottery wife";
+var mnemonic = "mixture input grid sugar century want rocket journey click about exotic spot";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling inquiry face unit urban else object never silk boss vote gather";
+var mnemonic = "carbon sunny hurdle meat coast water grid labor hybrid ring window drip";

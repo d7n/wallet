@@ -1,1 +1,1 @@
-var mnemonic = "phrase feature divide pistol below auto pioneer body tell skull wave plastic";
+var mnemonic = "check amateur vanish expect harsh paddle science fine crucial rival tool soul";

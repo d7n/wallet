@@ -1,1 +1,1 @@
-var mnemonic = "wrong dune card transfer require range fade jelly exchange mutual error pistol";
+var mnemonic = "real tree chronic offer odor public time dizzy entry artefact vendor absurd";

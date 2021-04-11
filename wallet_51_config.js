@@ -1,1 +1,1 @@
-var mnemonic = "inhale method only west tent resist gallery crowd sick bicycle pen foster";
+var mnemonic = "step paddle claim sorry eyebrow uncover make swap output enlist cluster hold";

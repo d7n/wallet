@@ -1,1 +1,1 @@
-var mnemonic = "north target breeze bench globe spin swear apology dwarf humor treat primary";
+var mnemonic = "deal polar buzz devote climb job solution shoe invest circle van old";

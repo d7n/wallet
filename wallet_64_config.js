@@ -1,1 +1,1 @@
-var mnemonic = "knife there quote oyster pencil truth parade soap orchard beyond region jazz";
+var mnemonic = "among squirrel cargo loud explain level media cycle hero april opera inject";

@@ -1,1 +1,1 @@
-var mnemonic = "unable ribbon test slab castle stone robot all shy sell demand quiz";
+var mnemonic = "critic mouse between cement lizard happy cake glass kitten divert attend since";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon right crisp square mango menu shed guide seat various chapter cement";
+var mnemonic = "verify surface oblige secret option hour behind pledge illness mango ecology bitter";

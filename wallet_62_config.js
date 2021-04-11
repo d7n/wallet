@@ -1,1 +1,1 @@
-var mnemonic = "hint cover child resist balance steel zebra behave move segment vapor garden";
+var mnemonic = "color warm secret initial bless rural sudden sudden pink ski service wall";

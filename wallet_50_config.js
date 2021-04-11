@@ -1,1 +1,1 @@
-var mnemonic = "vacant earth jealous unique any vocal kitchen hub symptom life train anxiety";
+var mnemonic = "inject winner earth elite light fee mesh abandon prepare smooth nerve exhaust";

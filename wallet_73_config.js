@@ -1,1 +1,1 @@
-var mnemonic = "crumble fever mountain fuel unable drip smoke tuition movie shaft off usage";
+var mnemonic = "promote unknown caught able shuffle family turn lava review foam require tomato";

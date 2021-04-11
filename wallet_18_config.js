@@ -1,1 +1,1 @@
-var mnemonic = "fuel moral outdoor torch neglect settle project kingdom pool embody fold slim";
+var mnemonic = "member steak rifle mandate monitor alarm soap aunt certain bronze grocery joy";

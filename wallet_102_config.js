@@ -1,1 +1,1 @@
-var mnemonic = "cave hurry ignore law glass enforce review trip burst panic head once";
+var mnemonic = "gallery pipe relief expand begin suggest turn mimic adapt path talk second";

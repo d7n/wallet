@@ -1,1 +1,1 @@
-var mnemonic = "axis someone dismiss setup gauge exhibit region film return beyond someone bone";
+var mnemonic = "purchase burden cart room oblige chief stable worry dice chaos survey solution";

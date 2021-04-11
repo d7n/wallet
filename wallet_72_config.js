@@ -1,1 +1,1 @@
-var mnemonic = "mass hour sail tube license history spy boat episode project host pride";
+var mnemonic = "core uncover situate until buddy subway note badge suspect scout innocent airport";

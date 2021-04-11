@@ -1,1 +1,1 @@
-var mnemonic = "between security forest spider crazy box profit excess orchard transfer spray noise";
+var mnemonic = "obvious body finger run danger kingdom grit level escape exact suggest about";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp regret near range switch inspire yard grape regular sell fire version";
+var mnemonic = "autumn legal vacuum cheap beach cigar crew dismiss shoe believe media pumpkin";

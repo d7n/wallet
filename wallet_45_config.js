@@ -1,1 +1,1 @@
-var mnemonic = "coffee artefact recall limb install limit play bench skirt kind shy toddler";
+var mnemonic = "leopard valid festival shrimp cannon miracle park evolve ugly edit truth essay";

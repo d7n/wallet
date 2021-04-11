@@ -1,1 +1,1 @@
-var mnemonic = "bring diet return refuse title year play crawl clay situate badge acid";
+var mnemonic = "flavor stomach dry artist physical level beyond collect cabin nothing flush dust";

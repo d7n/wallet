@@ -1,1 +1,1 @@
-var mnemonic = "roast snap daughter ability nut comic swarm orient jaguar hair world judge";
+var mnemonic = "erase apart hammer apple crop suffer april jelly retire stumble orchard rude";

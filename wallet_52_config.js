@@ -1,1 +1,1 @@
-var mnemonic = "ecology very club club hope large dream tube humble inquiry chalk yard";
+var mnemonic = "chimney erosion chest soon enemy angry sock van young absorb vanish beach";

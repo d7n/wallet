@@ -1,1 +1,1 @@
-var mnemonic = "adjust inner seek hospital volume long diamond slice paper anxiety luxury connect";
+var mnemonic = "vocal judge lake glance proof symptom someone tide bounce enable expose amount";

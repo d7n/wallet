@@ -1,1 +1,1 @@
-var mnemonic = "under auction response orbit wisdom great icon fun mandate abandon please exchange";
+var mnemonic = "select buzz someone focus upon science stem retreat neither cook tortoise hockey";

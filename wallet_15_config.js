@@ -1,1 +1,1 @@
-var mnemonic = "rent degree frozen clown load boss inject grocery letter drink gain river";
+var mnemonic = "noodle spirit child glass garlic budget pyramid business prosper subway useless robot";

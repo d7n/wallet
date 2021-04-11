@@ -1,1 +1,1 @@
-var mnemonic = "success food crucial comfort pet install jealous fiction drum horse party hamster";
+var mnemonic = "bleak annual ring number zebra myth service also absurd olympic elevator today";

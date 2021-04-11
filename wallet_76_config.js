@@ -1,1 +1,1 @@
-var mnemonic = "pact tray argue carpet jeans where blade hat crawl large below hidden";
+var mnemonic = "tourist early network govern luggage moment butter lesson metal pipe lucky crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "system pioneer awful people pool child kid early wild auto judge kiss";
+var mnemonic = "stamp yellow energy sword split hollow mother swamp skirt comic security hover";

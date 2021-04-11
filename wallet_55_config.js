@@ -1,1 +1,1 @@
-var mnemonic = "fantasy aim alarm busy embody confirm chief beyond steel clump infant pole";
+var mnemonic = "flag patient nose annual obscure blade sniff ahead ice base one sound";

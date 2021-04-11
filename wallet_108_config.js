@@ -1,1 +1,1 @@
-var mnemonic = "stable large dilemma furnace reunion explain final pink round buffalo cash fan";
+var mnemonic = "tackle version tongue horse blue crawl gadget connect balance climb gauge urban";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty daughter crane learn tribe coach goose divert make warm mix conduct";
+var mnemonic = "tragic enlist term amateur evoke range tilt valid viable kiwi wedding artefact";

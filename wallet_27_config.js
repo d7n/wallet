@@ -1,1 +1,1 @@
-var mnemonic = "dutch before worry kiss unit fine grow fat grass void remain direct";
+var mnemonic = "coin entry purity become tonight liar corn rail stand aim cream like";

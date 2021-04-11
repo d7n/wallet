@@ -1,1 +1,1 @@
-var mnemonic = "ski safe gravity alley trip loop wife potato water girl burden ribbon";
+var mnemonic = "pulp seven butter eagle cloud snow hotel drive cry hour crew erase";

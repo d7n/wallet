@@ -1,1 +1,1 @@
-var mnemonic = "pelican banana mean umbrella notice awake plug poet usual elite grant phrase";
+var mnemonic = "island behind educate start void timber exotic sock black cross famous gown";

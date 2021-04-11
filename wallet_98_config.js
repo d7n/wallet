@@ -1,1 +1,1 @@
-var mnemonic = "panda toy rely prefer eight match coach token lamp fly ivory cricket";
+var mnemonic = "weasel suffer movie main saddle cupboard other tower print bright treat right";

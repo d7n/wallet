@@ -1,1 +1,1 @@
-var mnemonic = "width shiver cheap song crush stand grunt vague miss early link feed";
+var mnemonic = "shaft truth record elite dove filter able expire ancient add hybrid usual";

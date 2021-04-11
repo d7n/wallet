@@ -1,1 +1,1 @@
-var mnemonic = "divert brown place pool barely pulse shallow shove hidden just this limb";
+var mnemonic = "float innocent sheriff trash bundle gossip fantasy genre task autumn steak idea";

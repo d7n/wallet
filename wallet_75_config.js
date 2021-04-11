@@ -1,1 +1,1 @@
-var mnemonic = "minute next wide tribe remember clinic barely tank story unique dance veteran";
+var mnemonic = "when cable fringe empower vanish what alarm enlist strong news sausage vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile simple rice example sleep name dog hen key hat swap lottery";
+var mnemonic = "grab symbol oxygen fresh avoid jealous anxiety cattle bus survey delay cereal";

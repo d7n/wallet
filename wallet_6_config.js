@@ -1,1 +1,1 @@
-var mnemonic = "cricket whale worth method scrub crazy east miracle six ankle spell capital";
+var mnemonic = "way unhappy wonder ability dice zebra skin charge ginger lucky dish pulp";

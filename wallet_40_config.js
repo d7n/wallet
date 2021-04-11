@@ -1,1 +1,1 @@
-var mnemonic = "black census grain screen obscure top wing sunset interest life truth blade";
+var mnemonic = "tennis chest spawn govern truth crouch smile vendor suspect always tell human";

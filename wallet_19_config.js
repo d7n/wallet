@@ -1,1 +1,1 @@
-var mnemonic = "tragic pledge hockey strong enjoy provide barrel powder shop round boil shaft";
+var mnemonic = "cupboard economy minor noise peasant behind bachelor nurse foam nose remind copper";

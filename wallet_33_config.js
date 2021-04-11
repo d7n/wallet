@@ -1,1 +1,1 @@
-var mnemonic = "surface cute paddle monkey blind fog damp ladder hole increase wish desk";
+var mnemonic = "dose easy lizard feed crisp sibling abstract scale oppose achieve load lobster";

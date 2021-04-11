@@ -1,1 +1,1 @@
-var mnemonic = "absurd book crew custom mad song spatial banana protect exile before alien";
+var mnemonic = "civil labor employ village hobby ramp together trust donate turtle agent party";

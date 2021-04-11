@@ -1,1 +1,1 @@
-var mnemonic = "race absent tiger mind force bag key provide rack twelve armed vault";
+var mnemonic = "elegant film shell sound uniform balcony rotate purpose around saddle message ribbon";

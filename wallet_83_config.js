@@ -1,1 +1,1 @@
-var mnemonic = "three vapor list rain lottery special aunt notice combine blast cotton riot";
+var mnemonic = "worry charge eye practice course other draft home media city one drastic";

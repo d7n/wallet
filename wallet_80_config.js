@@ -1,1 +1,1 @@
-var mnemonic = "decorate romance version close produce slight visa napkin below ketchup rail siren";
+var mnemonic = "trash raven radar opera ketchup organ expose clock addict shine crew mention";

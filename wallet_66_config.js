@@ -1,1 +1,1 @@
-var mnemonic = "fee tooth jazz dove lemon sting infant noodle genius mosquito hood better";
+var mnemonic = "fury catalog increase check expect visit excuse deputy chaos bean inspire issue";

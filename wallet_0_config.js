@@ -1,1 +1,1 @@
-var mnemonic = "enter slender ride clever face syrup outer afraid average apple story phrase";
+var mnemonic = "winter theory eyebrow world story clarify victory rival abstract club panic scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "junk forest pond talent mouse open renew merry alarm awful release body";
+var mnemonic = "razor aware more achieve wool turkey once web shop remember mobile super";

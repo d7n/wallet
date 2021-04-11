@@ -1,1 +1,1 @@
-var mnemonic = "hundred remember cupboard feel lend axis tobacco ladder address vibrant beef blast";
+var mnemonic = "dove mail little champion toe liquid heart essay oyster stuff broom myself";

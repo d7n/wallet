@@ -1,1 +1,1 @@
-var mnemonic = "life tunnel brisk mother divorce top silver battle client arrange soda history";
+var mnemonic = "fat mass risk rifle relief squirrel album celery unfair lion account mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "liar file infant bonus width flavor real camera word visual thunder track";
+var mnemonic = "citizen laptop betray hill vast when coil peanut already raw wisdom world";

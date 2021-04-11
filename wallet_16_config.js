@@ -1,1 +1,1 @@
-var mnemonic = "velvet upon upgrade fashion benefit culture donor shove crack session state special";
+var mnemonic = "glory cash attitude grace code typical umbrella brand balance broccoli seven ranch";

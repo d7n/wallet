@@ -1,1 +1,1 @@
-var mnemonic = "bounce matrix twist lazy awesome scout sword resist lumber mean plastic reduce";
+var mnemonic = "require predict funny adult pen genius great frozen elder describe crystal beauty";

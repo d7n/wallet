@@ -1,1 +1,1 @@
-var mnemonic = "either police merit puppy select rural novel keep lock cricket coin reveal";
+var mnemonic = "clump depend tired rack toe evil client soda craft actor novel oblige";

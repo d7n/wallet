@@ -1,1 +1,1 @@
-var mnemonic = "knock engine innocent dinosaur vault multiply obey brain tackle pudding funny tissue";
+var mnemonic = "knife uncover air junior news episode keep creek sugar soap toss rare";

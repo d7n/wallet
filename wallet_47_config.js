@@ -1,1 +1,1 @@
-var mnemonic = "dish clip slush attract orphan victory fault pool odor topple collect this";
+var mnemonic = "girl claim invest velvet all must cargo response chaos carbon gold oil";

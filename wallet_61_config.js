@@ -1,1 +1,1 @@
-var mnemonic = "budget there armor ripple birth double flock evidence throw body belt kid";
+var mnemonic = "choice suffer penalty curious appear bar toss shrug wise price magic exhibit";

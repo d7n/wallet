@@ -1,1 +1,1 @@
-var mnemonic = "baby pudding fork bridge craft animal busy main rain equip whale utility";
+var mnemonic = "rent hobby prize trouble party number wild case snap clay tumble dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "escape flock undo advance project fossil recycle kitten orient simple phone easily";
+var mnemonic = "hope lady crisp jazz robot glove skin mirror antique size limit fox";

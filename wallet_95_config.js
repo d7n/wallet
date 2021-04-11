@@ -1,1 +1,1 @@
-var mnemonic = "silent special guess icon spend tackle baby air casual merit gorilla fun";
+var mnemonic = "punch pigeon garden present figure heavy foam rail kitchen pen forest tackle";

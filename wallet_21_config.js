@@ -1,1 +1,1 @@
-var mnemonic = "model cook primary track weird dutch solve solar demand pig fury citizen";
+var mnemonic = "kangaroo live push response sing beef limit prosper spoon glide floor tail";

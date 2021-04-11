@@ -1,1 +1,1 @@
-var mnemonic = "drop sign project raise install rather relief craft cool topple gas suffer";
+var mnemonic = "warfare marriage prefer select piece wink fever panther sun setup extend dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk stay sponsor recall cricket record marble airport hover input industry gather";
+var mnemonic = "angry depend panel kiss used parrot high guitar bar coconut dawn resemble";

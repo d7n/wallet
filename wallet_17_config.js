@@ -1,1 +1,1 @@
-var mnemonic = "idea ensure face abandon hobby ladder deposit right glare obvious vivid crunch";
+var mnemonic = "match debate kick mammal pet before scissors brain shift assist shock few";

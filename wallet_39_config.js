@@ -1,1 +1,1 @@
-var mnemonic = "amazing juice claw this door coyote oblige exact practice direct rose punch";
+var mnemonic = "alert dilemma mushroom solution record slab aunt grab elephant recall author mouse";

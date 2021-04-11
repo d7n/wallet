@@ -1,1 +1,1 @@
-var mnemonic = "talent repeat security survey sentence suffer palace clip daughter chaos shadow cheap";
+var mnemonic = "picnic hood trim text vehicle garage resource valid glimpse tail citizen swift";

@@ -1,1 +1,1 @@
-var mnemonic = "repair either pride piano sugar brush step lonely goat release spike august";
+var mnemonic = "cigar giraffe powder ozone brass number cycle tired misery own pill pulp";

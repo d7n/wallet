@@ -1,1 +1,1 @@
-var mnemonic = "bright bubble render hope meat erosion credit make token shine spot clock";
+var mnemonic = "venture illegal armed case nurse truly leaf raise amused tomorrow nice brick";

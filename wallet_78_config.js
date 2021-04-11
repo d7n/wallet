@@ -1,1 +1,1 @@
-var mnemonic = "field arrow prepare hunt sadness scout cruel goat pizza lemon weasel kite";
+var mnemonic = "empower volume spot limit season rose daughter soldier wide come tag invite";

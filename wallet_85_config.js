@@ -1,1 +1,1 @@
-var mnemonic = "apple mask teach uncle naive mouse lab bridge smoke detail suggest coffee";
+var mnemonic = "clown alpha fox answer story rough state learn task begin absorb lottery";

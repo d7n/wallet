@@ -1,1 +1,1 @@
-var mnemonic = "chief liquid situate unable bachelor pipe popular box minute item dust luggage";
+var mnemonic = "blossom drop juice receive aunt left ridge render crucial meat rare hawk";

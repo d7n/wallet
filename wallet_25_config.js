@@ -1,1 +1,1 @@
-var mnemonic = "clever gift major obtain predict jelly bargain vacuum boil page diesel observe";
+var mnemonic = "pig exhibit step urban elevator athlete task crack young donkey disorder angle";

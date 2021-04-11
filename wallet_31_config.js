@@ -1,1 +1,1 @@
-var mnemonic = "topple ketchup quarter village cancel jaguar normal element before ridge pizza broken";
+var mnemonic = "access wage much energy key deposit try shuffle cement deny door unusual";

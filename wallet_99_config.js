@@ -1,1 +1,1 @@
-var mnemonic = "erosion flush reveal chief wonder depth fortune enter paddle bike surge abstract";
+var mnemonic = "trap credit athlete wolf keep nature layer tortoise begin powder middle expect";

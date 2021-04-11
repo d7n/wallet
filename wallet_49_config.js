@@ -1,1 +1,1 @@
-var mnemonic = "bullet laptop supply between need quantum demand gallery regret betray dragon soul";
+var mnemonic = "buyer world mistake south govern airport danger ice kitchen try legal surface";

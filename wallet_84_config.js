@@ -1,1 +1,1 @@
-var mnemonic = "swarm else toe squirrel leaf clog control target place keep impulse orient";
+var mnemonic = "leave rally lesson pave crystal damp goat today bulk fork tornado latin";

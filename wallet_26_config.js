@@ -1,1 +1,1 @@
-var mnemonic = "quiz leave off sniff coast audit raise hurt excess canal layer holiday";
+var mnemonic = "marriage hamster excuse federal please mail inspire garment cake order core gift";

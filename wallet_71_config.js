@@ -1,1 +1,1 @@
-var mnemonic = "strike fiber soda suggest icon hockey saddle extend engage crowd gadget monster";
+var mnemonic = "until squeeze decide antenna depend because pottery false remember carbon regular radio";

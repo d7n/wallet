@@ -1,1 +1,1 @@
-var mnemonic = "reform buzz assume switch open core choose maximum hidden ostrich stool list";
+var mnemonic = "verify prevent sample prosper baby rescue cash patrol receive tail design frog";

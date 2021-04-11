@@ -1,1 +1,1 @@
-var mnemonic = "donkey siren vivid quality weasel love stadium negative drink memory risk unaware";
+var mnemonic = "admit earn story arm short reward weather noodle snap twist keen produce";

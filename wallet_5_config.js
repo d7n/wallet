@@ -1,1 +1,1 @@
-var mnemonic = "fruit easy relax friend monster mail cook rapid fold south noodle rack";
+var mnemonic = "obscure illegal hair question box scan forget network media boring sound hunt";

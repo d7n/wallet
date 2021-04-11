@@ -1,1 +1,1 @@
-var mnemonic = "hundred mesh february narrow valley purchase upgrade miss swear bleak sheriff unhappy";
+var mnemonic = "bachelor appear trust scrub fan noodle sort come neutral large scrap enough";

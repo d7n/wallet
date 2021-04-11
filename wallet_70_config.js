@@ -1,1 +1,1 @@
-var mnemonic = "squirrel network trust flower lemon flock super hill awful unit vehicle armed";
+var mnemonic = "police phone decorate leisure person end mammal mirror direct canvas admit dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "logic fresh empty bread release glass box sphere track bless six nuclear";
+var mnemonic = "actual connect stay try toddler van battle tonight polar album control sail";

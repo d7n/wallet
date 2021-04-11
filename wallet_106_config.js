@@ -1,1 +1,1 @@
-var mnemonic = "real ring patrol snow video primary yellow praise steak detail song cable";
+var mnemonic = "ivory crucial child ring rail sample farm cube viable honey flame start";
