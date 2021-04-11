@@ -1,1 +1,1 @@
-var mnemonic = "choice pen exercise harsh consider unveil decrease asset jaguar metal devote struggle";
+var mnemonic = "enough aware river resource chapter drum plate crime awkward between hospital script";

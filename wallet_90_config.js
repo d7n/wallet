@@ -1,1 +1,1 @@
-var mnemonic = "menu blind action frozen insect estate shoulder once sport more argue mansion";
+var mnemonic = "suffer approve draft glove rare kit pole pink actress congress leisure wish";

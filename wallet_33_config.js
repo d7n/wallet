@@ -1,1 +1,1 @@
-var mnemonic = "step harbor shoot luggage power injury melt grid course exact invest trip";
+var mnemonic = "hockey parent hazard double first cotton unlock brain settle type mushroom close";

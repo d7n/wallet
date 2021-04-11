@@ -1,1 +1,1 @@
-var mnemonic = "wedding ethics permit pull much exotic unfair effort slot bottom develop term";
+var mnemonic = "math rule twin state unable garbage talk exist palm rural found token";

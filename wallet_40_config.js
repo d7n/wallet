@@ -1,1 +1,1 @@
-var mnemonic = "cute quit employ truth aerobic camera year punch know cigar search garden";
+var mnemonic = "blade cup debris swift box urge crater trophy slush mutual erase ginger";

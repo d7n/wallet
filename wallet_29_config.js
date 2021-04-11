@@ -1,1 +1,1 @@
-var mnemonic = "brief arena alien size plate neither loyal tackle spare color eight someone";
+var mnemonic = "quit suspect enrich minimum curious kiwi tower adult orient salt protect famous";

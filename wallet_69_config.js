@@ -1,1 +1,1 @@
-var mnemonic = "equip merge mandate stem today hover riot real vapor satoshi congress road";
+var mnemonic = "loan verb when deal cannon typical eagle arrange miss rebel inside web";

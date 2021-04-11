@@ -1,1 +1,1 @@
-var mnemonic = "fetch wine bounce final tag address gate speed ramp okay mouse absorb";
+var mnemonic = "slim dragon unfold carpet acoustic picture merge harvest awful puppy tide brand";

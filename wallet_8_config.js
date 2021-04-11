@@ -1,1 +1,1 @@
-var mnemonic = "recycle culture boring purse document snack daring swarm maximum fury weapon lizard";
+var mnemonic = "zoo cargo horse claw this monkey dinner coral lab trip exit arrive";

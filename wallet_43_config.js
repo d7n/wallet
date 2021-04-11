@@ -1,1 +1,1 @@
-var mnemonic = "neck can country woman describe kite combine myself grain clean wish cover";
+var mnemonic = "rabbit client tree enforce salmon furnace lazy taste way mango rocket exile";

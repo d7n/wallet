@@ -1,1 +1,1 @@
-var mnemonic = "patrol apology laugh sunset runway govern excite sunset option neglect rent skill";
+var mnemonic = "brass pluck stock scissors april pupil brush space guard wreck announce resemble";

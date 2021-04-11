@@ -1,1 +1,1 @@
-var mnemonic = "budget upgrade clarify fame bunker juice service legend harbor fiction today burst";
+var mnemonic = "employ delay diesel coral gadget aspect unfair throw kit test kitchen scatter";

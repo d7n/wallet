@@ -1,1 +1,1 @@
-var mnemonic = "stick carpet shallow winner kick frozen arrest best acquire lumber dad hawk";
+var mnemonic = "globe pony boost mixed coffee butter leaf admit rack scout cabbage talk";

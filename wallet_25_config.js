@@ -1,1 +1,1 @@
-var mnemonic = "stereo segment caution share surprise typical guess place lunar fix kit cash";
+var mnemonic = "olive cluster empower inner range orient end father congress tribe country thank";

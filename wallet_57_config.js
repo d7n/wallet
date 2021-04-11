@@ -1,1 +1,1 @@
-var mnemonic = "million clarify title fortune marble accident equal swing damage strong search can";
+var mnemonic = "range radar eight laundry panel expand polar lumber shock royal unfold fork";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious raw taxi portion royal tiger depart salmon donate judge like like";
+var mnemonic = "network change tree cereal raw opera forest box moon venture rally rice";

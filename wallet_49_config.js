@@ -1,1 +1,1 @@
-var mnemonic = "loop sadness woman civil furnace rigid angry truly pepper rare blouse cat";
+var mnemonic = "reflect giraffe very detail save muscle inquiry evidence unaware idea anxiety then";

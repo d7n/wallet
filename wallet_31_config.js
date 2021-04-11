@@ -1,1 +1,1 @@
-var mnemonic = "tortoise swim love news search sort unable someone abuse fetch knife duty";
+var mnemonic = "slim female disease sweet divert inmate raven side found result liquid type";

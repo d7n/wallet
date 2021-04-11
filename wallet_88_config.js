@@ -1,1 +1,1 @@
-var mnemonic = "disagree argue demand dawn clutch rely eyebrow gap practice pull gather differ";
+var mnemonic = "intact metal cushion naive appear scout border pudding bundle wrap fork violin";

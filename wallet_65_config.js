@@ -1,1 +1,1 @@
-var mnemonic = "pupil throw dash busy recall trial tool apart family junior measure coil";
+var mnemonic = "soul blast you rude auction bitter key legal number spy almost merry";

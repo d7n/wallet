@@ -1,1 +1,1 @@
-var mnemonic = "rate animal crowd puzzle brown already mechanic fiction match slice put glimpse";
+var mnemonic = "tilt concert autumn maple move north vague often trend gentle issue release";

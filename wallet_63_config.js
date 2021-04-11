@@ -1,1 +1,1 @@
-var mnemonic = "naive trust verb rotate setup sunset prefer fork kidney busy monster canal";
+var mnemonic = "blouse problem okay east crucial guilt twelve city attract nominee tonight decrease";

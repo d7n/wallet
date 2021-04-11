@@ -1,1 +1,1 @@
-var mnemonic = "profit bind crop agent road upon fatal burger already tell surprise fantasy";
+var mnemonic = "drastic next hybrid earn obtain slight produce blast expect prevent category grace";

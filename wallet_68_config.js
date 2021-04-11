@@ -1,1 +1,1 @@
-var mnemonic = "squirrel venture spoil split stove shoulder toy orient area unknown pause bar";
+var mnemonic = "sunny sure leisure ordinary vehicle maximum forum fault thrive bulk master gun";

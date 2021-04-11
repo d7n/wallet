@@ -1,1 +1,1 @@
-var mnemonic = "type rival identify garment vendor crystal stereo point holiday derive pizza two";
+var mnemonic = "diesel matrix sort leopard genre secret panic suffer timber reflect hub suggest";

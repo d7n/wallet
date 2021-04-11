@@ -1,1 +1,1 @@
-var mnemonic = "pave aisle warm flock crime cook pole live voyage turn hill spawn";
+var mnemonic = "because throw alcohol trap screen bike physical country wool sheriff smooth couple";

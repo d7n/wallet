@@ -1,1 +1,1 @@
-var mnemonic = "wasp balcony install jewel area seek sustain mother asset submit conduct stage";
+var mnemonic = "wish infant impose box credit auto become blame equal congress afford summer";

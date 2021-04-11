@@ -1,1 +1,1 @@
-var mnemonic = "image fog hint fire gauge rifle amount mercy scout cereal spin horror";
+var mnemonic = "tragic what blur mix series silver addict amazing absurd input evidence magnet";

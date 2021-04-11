@@ -1,1 +1,1 @@
-var mnemonic = "festival yellow snap clown attitude genre feel vacuum similar hip naive state";
+var mnemonic = "quarter open hurry warrior kite anger envelope regular helmet trouble choose chuckle";

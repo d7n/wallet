@@ -1,1 +1,1 @@
-var mnemonic = "rifle discover region jelly diamond oil job frame shoe topple fashion stay";
+var mnemonic = "jealous minute such erode ignore early yard sing luxury awake left snack";

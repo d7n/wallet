@@ -1,1 +1,1 @@
-var mnemonic = "borrow multiply birth artefact eyebrow dinosaur merge pass track faint pill snake";
+var mnemonic = "oblige demand category private captain cycle fashion play vault figure pluck daughter";

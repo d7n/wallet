@@ -1,1 +1,1 @@
-var mnemonic = "solid hat inch table iron subject blossom loan very invite provide consider";
+var mnemonic = "poet habit bachelor version current zone neutral few say uniform exclude crowd";

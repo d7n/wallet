@@ -1,1 +1,1 @@
-var mnemonic = "glory endless early rotate foam curtain hawk iron carry around exotic topple";
+var mnemonic = "coil ecology music attend rack scrub voice steel pony fold history marble";

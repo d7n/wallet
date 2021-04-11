@@ -1,1 +1,1 @@
-var mnemonic = "joke toe denial reopen scout train equal oval pond ecology tortoise club";
+var mnemonic = "anchor trumpet remain element expand coin donor leopard solid whip random drastic";

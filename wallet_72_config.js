@@ -1,1 +1,1 @@
-var mnemonic = "enough hope select sword master sad vacuum patch lamp aunt only person";
+var mnemonic = "wage crucial shaft ceiling family rug over debate elephant april industry alarm";

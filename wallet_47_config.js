@@ -1,1 +1,1 @@
-var mnemonic = "brick mix sketch orchard verb thrive sister engine sniff affair aisle seed";
+var mnemonic = "result nerve record desert cotton humor eyebrow such fence rabbit wagon fall";

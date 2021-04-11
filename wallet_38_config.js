@@ -1,1 +1,1 @@
-var mnemonic = "crop method student detect shed umbrella lift grid attitude secret blur bamboo";
+var mnemonic = "skin ethics hollow hood shiver arctic crack image travel ride rack bag";

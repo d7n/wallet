@@ -1,1 +1,1 @@
-var mnemonic = "clump glory gentle melody cage estate negative issue fiber path duck chat";
+var mnemonic = "dirt key rival stove tide best thunder joke brain favorite wedding jewel";

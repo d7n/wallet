@@ -1,1 +1,1 @@
-var mnemonic = "stool ill voice fee sponsor universe strategy never bounce palace blade zoo";
+var mnemonic = "become caution ginger begin tree seminar critic alert memory physical math muffin";

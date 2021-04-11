@@ -1,1 +1,1 @@
-var mnemonic = "enough dumb elegant owner book manage enact atom dragon asset grit return";
+var mnemonic = "sketch width dove wagon raise ancient scorpion grab salon more update work";

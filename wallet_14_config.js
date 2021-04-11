@@ -1,1 +1,1 @@
-var mnemonic = "chest warrior split polar remind stamp coil innocent helmet teach address width";
+var mnemonic = "biology banner scissors denial galaxy bread cheap latin scout jungle scrub slush";

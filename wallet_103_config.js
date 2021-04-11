@@ -1,1 +1,1 @@
-var mnemonic = "burst wolf penalty edit churn elbow then amount arrange yellow useless citizen";
+var mnemonic = "quiz aspect critic movie garage antique february crumble off february merry mask";

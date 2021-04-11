@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog tenant squeeze magnet cinnamon night rural certain someone mesh skull dinosaur";
+var mnemonic = "anxiety ranch hurt shrug manage gloom network hollow tell drastic weasel adjust";

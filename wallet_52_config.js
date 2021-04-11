@@ -1,1 +1,1 @@
-var mnemonic = "flight moral favorite tornado fruit staff record ocean fresh nose pigeon tennis";
+var mnemonic = "attend act discover employ evolve around oven amount level avocado toe hope";

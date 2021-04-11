@@ -1,1 +1,1 @@
-var mnemonic = "exhaust desert color type comfort quarter egg nest mandate secret purse tumble";
+var mnemonic = "cancel west cat curve divorce kidney very crash unveil dream trap alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "venue walnut black nephew resist speak inherit nature position become couch seed";
+var mnemonic = "ball flock gauge chase lounge melody glide suit divide hood make web";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble chair faint sunny accuse wasp icon fringe hospital emerge dumb fit";
+var mnemonic = "nerve discover shrug viable spoon inside quiz swarm vapor key flip genius";

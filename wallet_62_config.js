@@ -1,1 +1,1 @@
-var mnemonic = "plunge until family elevator invite flush dolphin clown turkey power state struggle";
+var mnemonic = "subject there wet ready six bicycle evil before blouse dolphin bronze museum";

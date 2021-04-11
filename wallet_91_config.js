@@ -1,1 +1,1 @@
-var mnemonic = "swallow remove filter enough carpet strike chapter toy under silly emotion stand";
+var mnemonic = "derive wheat dirt clump return whip axis federal great phone bunker outdoor";

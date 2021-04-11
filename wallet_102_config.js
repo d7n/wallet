@@ -1,1 +1,1 @@
-var mnemonic = "page cat hard wisdom bus boring matter dawn broken drastic live inquiry";
+var mnemonic = "office ocean exotic review cash torch idle kid improve proud fix indicate";

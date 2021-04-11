@@ -1,1 +1,1 @@
-var mnemonic = "expose claim base galaxy arm oppose hungry claim tank animal sell daring";
+var mnemonic = "comic chicken opera general order okay tortoise tackle frost boss banner myth";

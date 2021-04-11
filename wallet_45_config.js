@@ -1,1 +1,1 @@
-var mnemonic = "horror fox impose force clog betray age guess armed margin actor symptom";
+var mnemonic = "able same behind hurdle bottom elite pledge inherit february neck appear glass";

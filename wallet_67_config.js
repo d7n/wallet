@@ -1,1 +1,1 @@
-var mnemonic = "brown goat athlete frost fluid dismiss urban dynamic flame shoot possible polar";
+var mnemonic = "fork stomach apology record melody melt crash scheme ripple wish drama this";

@@ -1,1 +1,1 @@
-var mnemonic = "coin stock sign loud diet enforce whale general girl already upset head";
+var mnemonic = "unusual exclude short vintage choice diamond intact poem bird glow snap language";

@@ -1,1 +1,1 @@
-var mnemonic = "guard palace scene you elite fun decorate ozone simple narrow fitness favorite";
+var mnemonic = "window spread raven target uncle develop cloud bacon company pull snow forward";

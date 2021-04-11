@@ -1,1 +1,1 @@
-var mnemonic = "affair gentle next wheel feel antique boil toward doll cheap hour need";
+var mnemonic = "float proof popular sunny butter audit wild kitchen rough pig trick usual";

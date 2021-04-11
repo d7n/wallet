@@ -1,1 +1,1 @@
-var mnemonic = "corn task artefact rule ensure broccoli balance awkward between relax more illegal";
+var mnemonic = "pair destroy what differ pepper fatigue pause axis torch same athlete online";

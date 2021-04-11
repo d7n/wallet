@@ -1,1 +1,1 @@
-var mnemonic = "unknown total focus keen fringe kangaroo film hunt sleep crouch push thing";
+var mnemonic = "thrive clown monitor index current face throw rival harvest armor chapter crowd";

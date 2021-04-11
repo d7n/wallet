@@ -1,1 +1,1 @@
-var mnemonic = "tip grunt east brown burger mention total health rival butter sadness rose";
+var mnemonic = "dolphin child trick jaguar betray law shy purse engine evil century arrest";

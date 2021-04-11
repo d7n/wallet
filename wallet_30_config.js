@@ -1,1 +1,1 @@
-var mnemonic = "okay outside wagon original doll jelly piano sound remain hill swing border";
+var mnemonic = "sadness deer board inform edge short snake arch square calm embark pond";

@@ -1,1 +1,1 @@
-var mnemonic = "need clerk face inch govern popular oval quiz able vehicle three theory";
+var mnemonic = "tilt gadget leg snow fly leader domain discover cotton like aisle rebuild";

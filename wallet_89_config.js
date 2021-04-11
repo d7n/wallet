@@ -1,1 +1,1 @@
-var mnemonic = "scale helmet merge segment secret clog eagle vacuum raccoon flush author juice";
+var mnemonic = "such ceiling use quality blur dish title claw minimum clog payment cup";

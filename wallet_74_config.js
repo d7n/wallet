@@ -1,1 +1,1 @@
-var mnemonic = "census penalty mesh infant horn captain solid anxiety what focus meat peace";
+var mnemonic = "clog uphold else fix struggle before vital bid common pretty fade exclude";

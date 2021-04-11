@@ -1,1 +1,1 @@
-var mnemonic = "zebra change cover state spy trust rescue pulp cricket curve prevent blossom";
+var mnemonic = "napkin worry attack deny point opinion absent club run cradle hammer truth";

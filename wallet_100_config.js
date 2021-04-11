@@ -1,1 +1,1 @@
-var mnemonic = "salon clay caution half stamp subway breeze boring attract network meat cupboard";
+var mnemonic = "blouse easy industry eight brother vintage price sight powder raise bird inform";

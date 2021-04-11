@@ -1,1 +1,1 @@
-var mnemonic = "cement hawk carry switch bomb chapter beyond harvest lumber cattle decrease zone";
+var mnemonic = "success predict dentist table manage thing another cube guide cliff bomb group";

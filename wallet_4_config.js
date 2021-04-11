@@ -1,1 +1,1 @@
-var mnemonic = "oxygen dice leg odor gaze mountain intact once giraffe antenna tide cruise";
+var mnemonic = "lemon wood bonus shield scale gasp false style abandon club jump goose";

@@ -1,1 +1,1 @@
-var mnemonic = "wire denial purchase notice glass hawk tragic nation mandate hazard wedding rain";
+var mnemonic = "real nice oven april innocent tide sister vendor fresh shiver stove afford";

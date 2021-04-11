@@ -1,1 +1,1 @@
-var mnemonic = "reject purchase badge direct cash swap above certain dad attract opinion scrub";
+var mnemonic = "battle purse toy gain goat spell mule section basic vast proof hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "much saddle model review wrap tumble table pitch boost gate staff tree";
+var mnemonic = "can require scale bean divert churn voice ocean satisfy model congress lecture";

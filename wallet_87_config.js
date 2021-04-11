@@ -1,1 +1,1 @@
-var mnemonic = "quality aunt fashion enable mixed endless until point comic science income battle";
+var mnemonic = "wage kick upon unable slot uncover genre aunt charge bronze surface people";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit taxi salad coffee crop tell trouble ancient asthma proof marriage alien";
+var mnemonic = "clarify public program ten ahead dinner kind wide gorilla gravity coconut cute";

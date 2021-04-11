@@ -1,1 +1,1 @@
-var mnemonic = "bonus hospital man soup smoke gap castle weekend fee exact silly agree";
+var mnemonic = "battle prefer matter champion end mass ginger pelican normal toy cycle valley";

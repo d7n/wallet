@@ -1,1 +1,1 @@
-var mnemonic = "twin rifle amazing wear social length viable daughter dice only bulb popular";
+var mnemonic = "digital entry assault subject begin age cruel outer chicken kitchen term wait";

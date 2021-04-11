@@ -1,1 +1,1 @@
-var mnemonic = "help stand occur vote give clinic popular agree wrestle leaf motor sphere";
+var mnemonic = "deputy shove know damage test reduce day divert gaze home audit radio";

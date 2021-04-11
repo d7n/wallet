@@ -1,1 +1,1 @@
-var mnemonic = "volcano pencil catalog decorate dwarf bus dune like accuse student piece move";
+var mnemonic = "beach indoor cabin sheriff history company donor liar wife train link used";

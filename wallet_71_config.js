@@ -1,1 +1,1 @@
-var mnemonic = "setup now wild umbrella shy clutch undo stamp cake caution fruit weather";
+var mnemonic = "quality sniff dust insane fresh ladder desert cruel age across absorb antique";

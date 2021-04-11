@@ -1,1 +1,1 @@
-var mnemonic = "attack horse tip ugly unfair state miracle buddy solve thrive truth regular";
+var mnemonic = "area such pretty nuclear parrot remove mansion cupboard jar empty often step";

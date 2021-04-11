@@ -1,1 +1,1 @@
-var mnemonic = "move differ novel close learn index pizza waste toss proof magnet venue";
+var mnemonic = "usage until illegal slogan party loop paper income jacket deposit page dial";

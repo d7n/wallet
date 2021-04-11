@@ -1,1 +1,1 @@
-var mnemonic = "multiply turn misery neck laundry trigger affair fly mandate message meadow salmon";
+var mnemonic = "million expire toilet safe palm dog slender glance pull asset click nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "maid pigeon wish garment suspect blush suspect will sheriff tuna spend dirt";
+var mnemonic = "false spoon wreck half theory sting spray shy aware crystal observe length";

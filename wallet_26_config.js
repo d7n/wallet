@@ -1,1 +1,1 @@
-var mnemonic = "vanish strike question inspire degree alert border pig toss decrease spider interest";
+var mnemonic = "shy trip juice volume talk early gravity nature pull vibrant answer betray";

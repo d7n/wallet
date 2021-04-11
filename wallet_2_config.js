@@ -1,1 +1,1 @@
-var mnemonic = "jazz minimum one sleep they dizzy myself tool maze comic license reveal";
+var mnemonic = "airport sight update weather sting seat wait time disease remember demand topple";

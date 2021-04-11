@@ -1,1 +1,1 @@
-var mnemonic = "once grow vacuum walk sister empower typical gossip best dawn quarter cluster";
+var mnemonic = "sock gym flag machine oven recipe appear august paddle that genre govern";

@@ -1,1 +1,1 @@
-var mnemonic = "logic burst bleak lobster lock shoot soft tiger equip clump gap account";
+var mnemonic = "fish chalk alcohol neutral shrug tape throw arena giant mention trophy benefit";

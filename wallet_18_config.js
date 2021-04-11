@@ -1,1 +1,1 @@
-var mnemonic = "lava protect scan alcohol whale bid movie shoe sausage fossil glass scatter";
+var mnemonic = "pottery admit picture flash core fog outdoor kangaroo sustain spring clinic true";

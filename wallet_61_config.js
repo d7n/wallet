@@ -1,1 +1,1 @@
-var mnemonic = "swim guard sing head praise lend note discover gas solution avocado federal";
+var mnemonic = "cancel news left peasant section small artist bus human orbit bottom window";

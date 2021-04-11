@@ -1,1 +1,1 @@
-var mnemonic = "install ask bike judge nature cabbage behind carry doctor garment lazy wave";
+var mnemonic = "debate inch ship what venture rug deliver orient woman behave yard draft";

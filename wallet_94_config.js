@@ -1,1 +1,1 @@
-var mnemonic = "local artefact welcome agent panel wire body pig uphold keep method solid";
+var mnemonic = "rib celery wing stage plate poverty behind weather old fun already effort";

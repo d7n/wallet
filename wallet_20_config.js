@@ -1,1 +1,1 @@
-var mnemonic = "suit deal equip life nation link venue behave museum twelve zoo laptop";
+var mnemonic = "impulse high peanut tortoise awkward powder moon flip egg impulse nominee rebel";

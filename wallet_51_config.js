@@ -1,1 +1,1 @@
-var mnemonic = "army say impact loyal help media hover stool cement brand amazing giggle";
+var mnemonic = "rookie journey napkin april limit travel shadow alcohol enforce need public typical";

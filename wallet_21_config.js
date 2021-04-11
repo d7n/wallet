@@ -1,1 +1,1 @@
-var mnemonic = "noise hazard flock give crucial danger coast hold frost bid magnet zoo";
+var mnemonic = "tape pact nature equal inform elite rally feel crew shiver because buddy";

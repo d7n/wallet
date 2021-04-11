@@ -1,1 +1,1 @@
-var mnemonic = "alter debris economy cradle ask plunge design arena layer cheap tattoo exact";
+var mnemonic = "wife cannon token venture remind tool jaguar various bulb adjust judge oyster";

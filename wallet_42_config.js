@@ -1,1 +1,1 @@
-var mnemonic = "frame eyebrow notable hundred glove marriage work gold horn brave ordinary shuffle";
+var mnemonic = "exit dust say embody pyramid drill jacket alter scorpion accuse hollow toward";
