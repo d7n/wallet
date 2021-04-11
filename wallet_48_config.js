@@ -1,1 +1,1 @@
-var mnemonic = "spend pluck uncover record moment wave wheat wave deputy arm arm similar";
+var mnemonic = "wolf balcony list carry hint casino trophy culture amused size empty draft";

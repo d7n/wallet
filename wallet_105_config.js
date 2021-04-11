@@ -1,1 +1,1 @@
-var mnemonic = "hood memory segment celery slush over parent monster sting smile asset color";
+var mnemonic = "inflict gift bridge prevent similar coach exotic race poet limit park theory";

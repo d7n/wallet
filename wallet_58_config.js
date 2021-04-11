@@ -1,1 +1,1 @@
-var mnemonic = "inside pigeon build father chair seven muscle still fossil tuna magnet expand";
+var mnemonic = "service fashion address reform flee board drum satoshi bronze artist music blood";

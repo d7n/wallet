@@ -1,1 +1,1 @@
-var mnemonic = "blue coil large vibrant unveil front border observe away network lumber surround";
+var mnemonic = "about flash hair push relief fall dignity oppose capital excite family else";

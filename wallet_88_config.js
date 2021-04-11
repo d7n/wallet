@@ -1,1 +1,1 @@
-var mnemonic = "filter world wide save pioneer leader mimic display category achieve door over";
+var mnemonic = "stem guess whale confirm vacant quiz swallow gather parade reflect pass hard";

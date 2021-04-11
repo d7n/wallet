@@ -1,1 +1,1 @@
-var mnemonic = "result person salute nose bench black ignore royal lemon inside ice valve";
+var mnemonic = "test mom gather metal drum try black cinnamon narrow income clog sad";

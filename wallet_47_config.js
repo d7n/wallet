@@ -1,1 +1,1 @@
-var mnemonic = "reform brick off barely forward elbow weekend bitter fall junior neutral equip";
+var mnemonic = "recipe wet dutch toward fruit doctor aerobic during harvest frown pact video";

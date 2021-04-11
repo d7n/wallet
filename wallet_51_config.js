@@ -1,1 +1,1 @@
-var mnemonic = "rule concert zone scale gossip gesture confirm adapt medal modify planet draft";
+var mnemonic = "useful coach tent chunk fantasy wink drum guilt code subway cup humor";

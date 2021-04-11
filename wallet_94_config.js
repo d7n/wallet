@@ -1,1 +1,1 @@
-var mnemonic = "increase winner hero pass mobile chronic remind digital lens curtain swarm pilot";
+var mnemonic = "crash ceiling crime cargo bus lab badge foot unusual practice company act";

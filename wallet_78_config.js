@@ -1,1 +1,1 @@
-var mnemonic = "dust jewel render shock broken target owner solution rude satisfy soon tortoise";
+var mnemonic = "wasp razor victory expect viable once elder voice original extra bubble hope";

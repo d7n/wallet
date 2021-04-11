@@ -1,1 +1,1 @@
-var mnemonic = "sausage equip hurdle tomato boil web hobby tonight cannon budget tuna hospital";
+var mnemonic = "agent noble slow sure ginger devote fresh pond decrease warm age post";

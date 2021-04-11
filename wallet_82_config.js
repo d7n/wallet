@@ -1,1 +1,1 @@
-var mnemonic = "myth kit industry blush identify cradle critic valid put dream rival left";
+var mnemonic = "guitar minimum bench skill buddy bitter pencil welcome air cupboard century goat";

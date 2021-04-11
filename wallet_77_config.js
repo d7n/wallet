@@ -1,1 +1,1 @@
-var mnemonic = "horse infant slight ensure hunt crew combine market reunion mushroom tuna legend";
+var mnemonic = "opera wheel swear flavor tuition federal wave mass guitar special protect liar";

@@ -1,1 +1,1 @@
-var mnemonic = "aim pilot change bike size awake inch theory glad fragile balcony ship";
+var mnemonic = "lunar test nominee invite excite jelly stomach property design wide monitor diamond";

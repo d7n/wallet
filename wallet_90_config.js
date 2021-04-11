@@ -1,1 +1,1 @@
-var mnemonic = "life traffic swamp shy juice beauty economy there around pear brush palm";
+var mnemonic = "stable frame sort social apart plastic spirit diamond check mom gold load";

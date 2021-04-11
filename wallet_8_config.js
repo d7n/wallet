@@ -1,1 +1,1 @@
-var mnemonic = "demand weapon trip comfort forward panic royal where boost man purchase battle";
+var mnemonic = "divert average autumn add pulp spend moment vendor vicious obscure chuckle sustain";

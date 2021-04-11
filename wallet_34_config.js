@@ -1,1 +1,1 @@
-var mnemonic = "portion kitchen protect dress more artwork tower eagle reason drift online seminar";
+var mnemonic = "surge trap wise raven warm inform rare cereal squirrel door obscure vital";

@@ -1,1 +1,1 @@
-var mnemonic = "gather plug pond future ethics check gentle actor consider hen subway cable";
+var mnemonic = "impose spring approve tongue initial helmet express destroy shove notice entry balance";

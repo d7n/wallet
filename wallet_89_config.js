@@ -1,1 +1,1 @@
-var mnemonic = "price stomach genius now lab planet frequent crisp hire blind discover nothing";
+var mnemonic = "type pupil twist across ordinary tooth time ability perfect flame horror shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "base hold twelve evidence tired coin update bar shield tired horror topic";
+var mnemonic = "symptom tissue arrange thumb amount brain rail cry label chef style mind";

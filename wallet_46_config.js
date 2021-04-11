@@ -1,1 +1,1 @@
-var mnemonic = "board soap square virus barely weekend donkey little caught laptop antique tongue";
+var mnemonic = "brain test used cash tower across ecology fever heart marine imitate uncover";

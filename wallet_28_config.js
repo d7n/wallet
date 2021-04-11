@@ -1,1 +1,1 @@
-var mnemonic = "grow tuition village stock hope clarify impulse toy never school salmon liberty";
+var mnemonic = "report damp design image blast coconut veteran page ripple dash drink black";

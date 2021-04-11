@@ -1,1 +1,1 @@
-var mnemonic = "frost later other mushroom drill cherry arm vote version ahead east angry";
+var mnemonic = "print high bachelor area success stereo you lecture model disorder height hurry";

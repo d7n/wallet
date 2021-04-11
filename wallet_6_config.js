@@ -1,1 +1,1 @@
-var mnemonic = "pencil calm hard kiss pelican soul crisp actress october damage ecology neglect";
+var mnemonic = "shield crush fabric ten curious great close exact february good offer parrot";

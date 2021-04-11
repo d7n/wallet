@@ -1,1 +1,1 @@
-var mnemonic = "glue special true panic scout drop creek sight recipe stool jealous meadow";
+var mnemonic = "inject price innocent talent spider barely cinnamon bar comic steak bunker violin";

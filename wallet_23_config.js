@@ -1,1 +1,1 @@
-var mnemonic = "sunset into educate box trust lady vessel run exchange industry pigeon jacket";
+var mnemonic = "range snake milk own uncle network solar twin hire language baby brother";

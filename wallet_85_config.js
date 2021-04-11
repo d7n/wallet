@@ -1,1 +1,1 @@
-var mnemonic = "cake eight shed trust sausage job tape foam yellow juice now stadium";
+var mnemonic = "organ company permit loan inmate start vote obey jazz glow appear labor";

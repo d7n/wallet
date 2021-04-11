@@ -1,1 +1,1 @@
-var mnemonic = "tribe language shine submit envelope hole pattern balance suffer frown lounge smart";
+var mnemonic = "torch borrow awesome bring doll rule neck master twist wonder beach artefact";

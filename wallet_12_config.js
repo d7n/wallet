@@ -1,1 +1,1 @@
-var mnemonic = "patient disorder exotic cabin shadow antique super cave kiss wear stone fashion";
+var mnemonic = "cabin similar spoon car mail ill now author patrol emotion unaware plug";

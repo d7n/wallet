@@ -1,1 +1,1 @@
-var mnemonic = "quick foil lamp slush rib mask muffin field raw human dwarf another";
+var mnemonic = "skirt off glad broom tragic current journey solution almost speed scare shrimp";

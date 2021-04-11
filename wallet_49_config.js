@@ -1,1 +1,1 @@
-var mnemonic = "doctor basket reward bronze such wink dog expose scrub trap learn baby";
+var mnemonic = "alien what pledge wage sentence robot when conduct slight rich slot road";

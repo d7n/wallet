@@ -1,1 +1,1 @@
-var mnemonic = "feature index witness club sunny scout time spin uniform body tumble photo";
+var mnemonic = "air habit wrap toast kangaroo obvious cream good demise lawn portion orange";

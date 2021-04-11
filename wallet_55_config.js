@@ -1,1 +1,1 @@
-var mnemonic = "actress deputy grab ship plug much peace common embrace broken material torch";
+var mnemonic = "kingdom zero since travel now initial fence album setup prison lamp kind";

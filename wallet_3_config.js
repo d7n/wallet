@@ -1,1 +1,1 @@
-var mnemonic = "muscle gold ripple disorder gate detect call gather bounce undo aware swing";
+var mnemonic = "under table raw clip spoil margin dilemma laundry rookie curve clinic inject";

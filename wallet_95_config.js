@@ -1,1 +1,1 @@
-var mnemonic = "wage lottery grape ramp this genuine large worth annual supply tiger erosion";
+var mnemonic = "hill shove axis love evil raw document whip bread hello pelican certain";

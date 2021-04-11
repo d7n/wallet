@@ -1,1 +1,1 @@
-var mnemonic = "industry strong prepare witness flame envelope monster sad rain mobile ghost brain";
+var mnemonic = "intact various aware dash slide ring road hat mixed muffin gather topic";

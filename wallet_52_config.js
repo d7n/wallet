@@ -1,1 +1,1 @@
-var mnemonic = "genius estate merry wedding couple sunny lamp stuff industry praise dial honey";
+var mnemonic = "wall asthma dog update glance filter uncle ozone seat rocket inherit goat";

@@ -1,1 +1,1 @@
-var mnemonic = "border indicate boost carry escape argue bid hobby salon liar orphan monster";
+var mnemonic = "improve flush latin fit swap cause pencil place ketchup online tornado three";

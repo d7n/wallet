@@ -1,1 +1,1 @@
-var mnemonic = "tackle soccer prevent gap young diet profit shrimp slim flock cactus hollow";
+var mnemonic = "virtual talk escape local avocado track juice suspect roast trade inflict pave";

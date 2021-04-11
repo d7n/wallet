@@ -1,1 +1,1 @@
-var mnemonic = "rely inform group glue amount match jealous side north apology high leopard";
+var mnemonic = "settle shoulder undo fence spell volcano fortune hand panic hungry chase confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "capital extra bitter between border siren pizza enhance gain abuse nuclear loop";
+var mnemonic = "divorce present other suggest holiday voice carry violin infant script elbow jungle";

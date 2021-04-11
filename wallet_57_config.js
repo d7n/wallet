@@ -1,1 +1,1 @@
-var mnemonic = "middle picture tiger crazy earth divide rebel library spike enrich truly hat";
+var mnemonic = "employ knock frost saddle pact sister sweet bracket apart portion replace help";

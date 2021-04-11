@@ -1,1 +1,1 @@
-var mnemonic = "member include erupt gadget mammal item laundry shed season hour magnet else";
+var mnemonic = "caution ready illegal point measure busy main case romance fury dismiss remember";

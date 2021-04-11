@@ -1,1 +1,1 @@
-var mnemonic = "advance twenty obey reject ten wall safe wise reform shift mind seek";
+var mnemonic = "puppy lyrics addict course cancel drama movie clog discover future wrap review";

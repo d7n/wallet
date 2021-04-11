@@ -1,1 +1,1 @@
-var mnemonic = "convince foot atom viable prize judge home degree raw road napkin distance";
+var mnemonic = "maximum cargo festival patch month mystery script claim shock employ across prevent";

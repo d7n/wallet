@@ -1,1 +1,1 @@
-var mnemonic = "park auto bring biology write will decorate dial charge text achieve net";
+var mnemonic = "hunt museum skill drift ocean file icon real mixed search tip anchor";

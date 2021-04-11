@@ -1,1 +1,1 @@
-var mnemonic = "luggage cave guilt lunch pioneer bread this unfair spell diary someone town";
+var mnemonic = "ozone fossil stumble pyramid define noble garage window benefit social canoe elite";

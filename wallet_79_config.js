@@ -1,1 +1,1 @@
-var mnemonic = "tiny label slice unhappy brush improve thank rug stable myself flag axis";
+var mnemonic = "uphold glad bus ready spider fringe robust fit pass hamster gasp box";

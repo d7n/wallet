@@ -1,1 +1,1 @@
-var mnemonic = "wagon ahead until reason now since talent test harbor raise museum country";
+var mnemonic = "asthma disorder midnight uncover social ketchup lobster yellow spy govern chest island";

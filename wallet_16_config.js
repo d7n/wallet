@@ -1,1 +1,1 @@
-var mnemonic = "weapon gate pony bone comfort spend opinion cup belt sudden kiss initial";
+var mnemonic = "plastic run fault online analyst nut spot tube kite bike minor smart";

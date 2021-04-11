@@ -1,1 +1,1 @@
-var mnemonic = "minute total unaware cute actor burden easily impulse quit wonder found artefact";
+var mnemonic = "cousin vote thumb urge canoe student winner enrich area escape harbor speak";

@@ -1,1 +1,1 @@
-var mnemonic = "quote harsh cake donate one spatial limit guide lens sock oak fence";
+var mnemonic = "ordinary stable olive jelly ancient window kit search barrel candy worry genuine";

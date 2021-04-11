@@ -1,1 +1,1 @@
-var mnemonic = "remove file clay polar salute pulse record pact dumb stick sail number";
+var mnemonic = "yard engine wink obey color height cheese portion borrow security remove romance";

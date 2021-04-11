@@ -1,1 +1,1 @@
-var mnemonic = "seed know poem vacant garment crunch solution slight armed job bomb dumb";
+var mnemonic = "attack parent across trash kangaroo devote scrap aunt auto odor adjust urge";

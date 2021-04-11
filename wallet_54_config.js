@@ -1,1 +1,1 @@
-var mnemonic = "shoe dice subject blush celery special charge cook census film color lend";
+var mnemonic = "meat stand oven cream almost skill connect taxi tongue combine tribe spice";

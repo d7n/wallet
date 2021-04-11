@@ -1,1 +1,1 @@
-var mnemonic = "auction ready repair artefact library define rain home turtle absorb then spring";
+var mnemonic = "goose sun dumb lunar fashion lava master tortoise thrive doll luxury chair";

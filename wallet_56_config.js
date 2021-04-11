@@ -1,1 +1,1 @@
-var mnemonic = "detect wild there boat nation green waste huge path tide fossil grunt";
+var mnemonic = "beyond betray square draft bread obey trap ahead doll turtle route squeeze";

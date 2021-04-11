@@ -1,1 +1,1 @@
-var mnemonic = "violin helmet concert avoid long phrase trip evil actor rose flower useful";
+var mnemonic = "camera fame cram try bamboo vendor busy monkey submit fade joke powder";

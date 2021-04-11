@@ -1,1 +1,1 @@
-var mnemonic = "visa buzz regret join seat immense salt copper around iron cannon audit";
+var mnemonic = "female combine enact mention girl pitch inspire token return always juice cabin";

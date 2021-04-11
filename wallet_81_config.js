@@ -1,1 +1,1 @@
-var mnemonic = "cart since spend spirit problem clip certain fatal cheap donate innocent tent";
+var mnemonic = "raw glance cry steak tornado immense pool dynamic favorite brave nose nest";

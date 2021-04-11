@@ -1,1 +1,1 @@
-var mnemonic = "crumble holiday apple bag dice ecology fine blush scatter own evoke essence";
+var mnemonic = "divide brisk rent click check race world vast nominee grocery dizzy future";

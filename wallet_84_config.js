@@ -1,1 +1,1 @@
-var mnemonic = "custom clinic company bean can blur agent logic shrug verify release under";
+var mnemonic = "abstract student fame useful banner alone sunset luggage dismiss silk thunder unlock";

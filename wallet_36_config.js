@@ -1,1 +1,1 @@
-var mnemonic = "claim eye pulse comic inquiry ignore jar mushroom roast news cigar achieve";
+var mnemonic = "gossip ecology sell ability turn entire basket message twice fix rice increase";

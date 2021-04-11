@@ -1,1 +1,1 @@
-var mnemonic = "infant enjoy yellow sister deer vicious park jump suit human father climb";
+var mnemonic = "wagon spawn travel caution cheese garage stamp pony dentist music east cave";

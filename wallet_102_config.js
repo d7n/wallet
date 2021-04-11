@@ -1,1 +1,1 @@
-var mnemonic = "wire method bless wine view leopard welcome crazy rice promote wheat guitar";
+var mnemonic = "sign turkey better subway life valid orange cherry measure spy insane trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "image club decade holiday decorate space ozone budget tone master famous jewel";
+var mnemonic = "salmon volume deliver body east battle celery orange injury where hero dentist";

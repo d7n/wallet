@@ -1,1 +1,1 @@
-var mnemonic = "desk ranch truly indicate this emerge innocent future matrix service network country";
+var mnemonic = "bird mix wisdom useless slice core august upper oppose atom biology direct";

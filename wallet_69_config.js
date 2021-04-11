@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo pool kit two rely emotion scorpion public step together major romance";
+var mnemonic = "more furnace apple foil scout milk attack embark paper sting pencil dolphin";

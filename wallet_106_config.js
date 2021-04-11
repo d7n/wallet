@@ -1,1 +1,1 @@
-var mnemonic = "path fame volume save replace tilt ensure produce critic weasel three meat";
+var mnemonic = "cement clog holiday badge account question teach reject surround must opinion credit";

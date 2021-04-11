@@ -1,1 +1,1 @@
-var mnemonic = "stereo hand memory under twin exist jazz pitch share defense hospital annual";
+var mnemonic = "require floor cake despair mystery chicken cover evidence habit error flat photo";

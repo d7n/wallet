@@ -1,1 +1,1 @@
-var mnemonic = "fan base once special brief adjust ensure behind arrow era index current";
+var mnemonic = "mountain enforce burst possible auto orange matrix close uncle number miss raw";

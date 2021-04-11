@@ -1,1 +1,1 @@
-var mnemonic = "shrimp indicate wild result captain author carbon very into camera barrel convince";
+var mnemonic = "universe concert viable result text evolve provide foot wealth erupt acoustic coach";

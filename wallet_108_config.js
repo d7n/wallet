@@ -1,1 +1,1 @@
-var mnemonic = "uphold panther seminar early swift wet expect mimic youth excuse tiger asthma";
+var mnemonic = "motion fat faint barrel cigar banner tackle aerobic move spawn travel double";

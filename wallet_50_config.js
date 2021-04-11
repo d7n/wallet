@@ -1,1 +1,1 @@
-var mnemonic = "pitch reform million sniff bubble another there key emerge near conduct spray";
+var mnemonic = "cargo bleak disease attend space click edit actual sustain cabbage range hour";

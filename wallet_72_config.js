@@ -1,1 +1,1 @@
-var mnemonic = "mouse upper grunt bleak ordinary library crunch legal gift permit horn correct";
+var mnemonic = "garage better blush scatter index dragon level type paper couple shoe danger";

@@ -1,1 +1,1 @@
-var mnemonic = "creek detail machine walnut example utility poverty federal lemon genius avoid arrest";
+var mnemonic = "cost school sail document core powder aspect place wrong rocket echo sausage";

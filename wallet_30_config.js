@@ -1,1 +1,1 @@
-var mnemonic = "bus polar turkey shop various thrive glad resist forum fire deliver climb";
+var mnemonic = "message egg undo drop fatigue volume pepper squeeze note dizzy tennis brief";

@@ -1,1 +1,1 @@
-var mnemonic = "salute swim cost usual loop gloom cabbage rescue destroy couple solve brick";
+var mnemonic = "raise ill meadow yellow feel morning over very secret bread gasp cable";

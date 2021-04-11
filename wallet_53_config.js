@@ -1,1 +1,1 @@
-var mnemonic = "spot enjoy enrich million abandon vintage diary reduce often disagree kind rough";
+var mnemonic = "ridge notable coral squeeze same oblige pretty entire shell tissue mandate hotel";

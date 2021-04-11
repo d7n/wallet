@@ -1,1 +1,1 @@
-var mnemonic = "custom wedding tiger grab palm mom drive region orbit soft pelican they";
+var mnemonic = "album system siren palace badge assist carry seminar angle fish fault frequent";

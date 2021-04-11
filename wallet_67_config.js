@@ -1,1 +1,1 @@
-var mnemonic = "sign advance castle license lady popular suggest sphere panic toddler grass season";
+var mnemonic = "eye case biology bone food present again wage media screen quiz sword";

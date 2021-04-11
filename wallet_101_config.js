@@ -1,1 +1,1 @@
-var mnemonic = "busy typical special convince subject beach gate debris roof social urge hip";
+var mnemonic = "market intact prepare ability news lazy shrug frog barrel note prison globe";

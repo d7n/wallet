@@ -1,1 +1,1 @@
-var mnemonic = "burger brave season strong muscle pull calm chuckle void illegal teach mercy";
+var mnemonic = "wreck industry shock option title admit sail tenant unique assume minimum film";

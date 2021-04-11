@@ -1,1 +1,1 @@
-var mnemonic = "oval sand hold airport buyer circle wool pudding void flee leg debate";
+var mnemonic = "subject reform seat exist kangaroo proud powder chase unlock scare forum endorse";

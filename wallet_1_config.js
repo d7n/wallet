@@ -1,1 +1,1 @@
-var mnemonic = "gown pepper drink dial torch primary black pencil fish size sniff regret";
+var mnemonic = "critic juice impact hour camp letter raccoon topic enjoy sun item swing";

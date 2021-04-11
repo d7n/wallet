@@ -1,1 +1,1 @@
-var mnemonic = "control benefit insect core north scheme feed pupil fork decorate stem tiny";
+var mnemonic = "trap gadget tomato motor marriage ensure one begin blouse reopen twenty explain";

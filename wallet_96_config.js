@@ -1,1 +1,1 @@
-var mnemonic = "arrange emotion banana dune obvious range hip tooth science goose become shrimp";
+var mnemonic = "garage weapon almost transfer athlete bridge surge pelican ensure gap farm march";

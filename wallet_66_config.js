@@ -1,1 +1,1 @@
-var mnemonic = "bar kiss buffalo sport record vanish pave student priority sister include cushion";
+var mnemonic = "city twenty gorilla matrix element net there bubble tongue trigger parade sugar";

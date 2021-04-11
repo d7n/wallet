@@ -1,1 +1,1 @@
-var mnemonic = "fence glass crawl couch jelly blind broom coast token supply depart mail";
+var mnemonic = "clarify eager rate thrive artist pledge ability festival eyebrow razor shine improve";

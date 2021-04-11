@@ -1,1 +1,1 @@
-var mnemonic = "fortune desk people input scout antenna diesel debris smile today move smart";
+var mnemonic = "inner purity exact nose chunk meadow below puzzle pistol bus pudding tortoise";

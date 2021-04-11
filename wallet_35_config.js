@@ -1,1 +1,1 @@
-var mnemonic = "appear foot scene sword artist guide romance cupboard play fruit welcome burger";
+var mnemonic = "floor flash dizzy physical rival state celery toddler spread ocean wing home";

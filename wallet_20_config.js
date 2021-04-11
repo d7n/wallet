@@ -1,1 +1,1 @@
-var mnemonic = "child belt arena update vote bunker sense response ahead chat embody shoot";
+var mnemonic = "spin story wash neither paddle suit patrol current lemon fresh aisle chronic";

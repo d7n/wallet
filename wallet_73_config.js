@@ -1,1 +1,1 @@
-var mnemonic = "like door zone wait before tonight mountain gate blue thing vacant high";
+var mnemonic = "flag pool despair bronze whisper convince symbol salad olive hover trial potato";

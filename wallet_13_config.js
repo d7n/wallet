@@ -1,1 +1,1 @@
-var mnemonic = "very odor actual sugar valve frozen direct zone pyramid strategy radio barrel";
+var mnemonic = "wave enforce ring runway swamp suggest agent calm hedgehog reject vibrant know";

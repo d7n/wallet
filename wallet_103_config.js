@@ -1,1 +1,1 @@
-var mnemonic = "ancient table convince lottery talent sad exist erosion visual chuckle between foil";
+var mnemonic = "imitate priority what near right hazard ozone wild hole relax confirm pretty";

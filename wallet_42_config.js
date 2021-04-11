@@ -1,1 +1,1 @@
-var mnemonic = "leopard spin accuse spy sniff pool art enroll grunt success angry bitter";
+var mnemonic = "brown inject rely churn appear mansion want utility pig ready drop relax";

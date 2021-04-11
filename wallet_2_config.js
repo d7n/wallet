@@ -1,1 +1,1 @@
-var mnemonic = "divorce world verify apology skull cupboard boil carry bargain cinnamon concert more";
+var mnemonic = "reason avocado will laugh until shuffle such model fade rubber bounce truth";
