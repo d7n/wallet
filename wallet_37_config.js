@@ -1,1 +1,1 @@
-var mnemonic = "check aspect gaze basket spell armor clerk august age salad upon gentle";
+var mnemonic = "you twenty occur accuse radio disorder divorce click oil deal popular chicken";

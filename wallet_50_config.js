@@ -1,1 +1,1 @@
-var mnemonic = "random jazz fantasy cause hold leaf mosquito pelican cushion treat guess gather";
+var mnemonic = "pizza canyon ignore open key neither gesture carry naive danger future tool";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong alarm auction rather swarm aunt source young body since junk label";
+var mnemonic = "scout entire horn there weather curtain champion empty joy thumb gold mouse";

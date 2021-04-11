@@ -1,1 +1,1 @@
-var mnemonic = "amused pink captain adult warm smoke message pact coach sibling moral subject";
+var mnemonic = "bunker floor cruel over uncover actual obscure harvest also ship business clinic";

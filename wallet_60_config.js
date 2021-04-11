@@ -1,1 +1,1 @@
-var mnemonic = "term cook trigger arena story camp fever pair ignore way obey wave";
+var mnemonic = "proud party belt demand scatter under video ski craft blue museum canal";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble inquiry custom shoe chalk ecology diagram calm survey family double car";
+var mnemonic = "hurdle hidden news plunge detect benefit fade ring liar tube typical tennis";

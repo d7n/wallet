@@ -1,1 +1,1 @@
-var mnemonic = "trigger box helmet include swear taxi expire vocal scan sample hold distance";
+var mnemonic = "found guard expect tired ramp any example lens drastic picnic glare final";

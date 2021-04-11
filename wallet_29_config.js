@@ -1,1 +1,1 @@
-var mnemonic = "sword secret warm stem click spend dove misery wine crush despair salt";
+var mnemonic = "beauty any connect situate range scare rebuild badge paddle eagle season sad";

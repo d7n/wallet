@@ -1,1 +1,1 @@
-var mnemonic = "bread assist off goose noble clay spawn casino stairs gate zoo october";
+var mnemonic = "grass slab federal naive wisdom merry invest swift laugh label brass collect";

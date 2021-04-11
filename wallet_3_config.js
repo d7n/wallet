@@ -1,1 +1,1 @@
-var mnemonic = "six split concert grunt common churn taxi farm injury derive pear achieve";
+var mnemonic = "chapter gorilla link blood diagram cat situate mule jar spoon jealous curious";

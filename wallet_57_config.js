@@ -1,1 +1,1 @@
-var mnemonic = "inside knock voice teach ramp virtual armed theory dad hand coconut axis";
+var mnemonic = "asset moon upgrade uniform bid exclude nothing admit item veteran bundle chronic";

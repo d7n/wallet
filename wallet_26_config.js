@@ -1,1 +1,1 @@
-var mnemonic = "ensure merry eager giant palm album wish license enemy forum catalog two";
+var mnemonic = "brass public bunker vicious bracket unknown yellow skate matter ocean best immense";

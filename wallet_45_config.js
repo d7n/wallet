@@ -1,1 +1,1 @@
-var mnemonic = "empty speed senior february palm mosquito fantasy fold noble state fiber visual";
+var mnemonic = "team fold fever moon jump kingdom truth mesh twice custom scorpion dutch";

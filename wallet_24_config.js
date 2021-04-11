@@ -1,1 +1,1 @@
-var mnemonic = "security size top orphan busy obtain exchange interest sting emerge heart arch";
+var mnemonic = "lava south noise frost skin cushion lawn language trial way baby idle";

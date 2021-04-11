@@ -1,1 +1,1 @@
-var mnemonic = "author symptom filter tumble cost student present dignity funny walk senior lawn";
+var mnemonic = "praise dinosaur miracle heavy trash mistake spread road snap strong region loud";

@@ -1,1 +1,1 @@
-var mnemonic = "minute sorry rich shiver solution glare notice fossil stay decline coil gloom";
+var mnemonic = "stay away can engage spoon huge recipe royal dial shuffle cattle fee";

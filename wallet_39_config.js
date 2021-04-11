@@ -1,1 +1,1 @@
-var mnemonic = "supreme music before swamp sweet weather flight lonely result transfer art proud";
+var mnemonic = "diet scene intact resemble cotton dynamic then tomato find great seminar next";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror feel name robust asset casual hurdle repeat gather attract reduce evolve";
+var mnemonic = "dismiss beef exclude lens team amount surge kingdom cargo novel where tennis";

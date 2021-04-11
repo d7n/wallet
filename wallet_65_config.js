@@ -1,1 +1,1 @@
-var mnemonic = "leave lake salmon tragic fetch seminar plug fragile end injury clay repair";
+var mnemonic = "talk flush able twenty visual interest ghost twin bacon bird burger point";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy parrot capital shop order come divorce rude nothing march staff erupt";
+var mnemonic = "business educate veteran entire page update spell peanut canyon exact mom gentle";

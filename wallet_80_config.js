@@ -1,1 +1,1 @@
-var mnemonic = "page bench glass main fall panel double noodle swim beauty screen flight";
+var mnemonic = "benefit crash emerge unique barrel loud issue rail worry oven crush virtual";

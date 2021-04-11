@@ -1,1 +1,1 @@
-var mnemonic = "gun much cricket palm nothing lava public humor grid mix earth movie";
+var mnemonic = "matrix lemon term asthma sleep bright solar burst mutual play rate frown";

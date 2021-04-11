@@ -1,1 +1,1 @@
-var mnemonic = "fancy able patient obscure spatial project obey hair dynamic sleep gloom display";
+var mnemonic = "kitten swamp attract fix street wear naive source parrot echo strong same";

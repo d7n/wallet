@@ -1,1 +1,1 @@
-var mnemonic = "clip corn small unfold anchor prepare refuse valley dignity vocal demand capital";
+var mnemonic = "spirit wing drama fragile attract exchange picture fall also renew royal negative";

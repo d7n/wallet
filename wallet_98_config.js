@@ -1,1 +1,1 @@
-var mnemonic = "across brain birth volcano when shove arm rent summer elite urban wire";
+var mnemonic = "insect circle boost pet split face marble must welcome drum medal illness";

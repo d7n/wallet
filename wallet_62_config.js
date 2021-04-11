@@ -1,1 +1,1 @@
-var mnemonic = "zebra weekend neither vacant wave drum nation palace section six trend distance";
+var mnemonic = "novel note place scrub brown cement narrow guess glad hood brush learn";

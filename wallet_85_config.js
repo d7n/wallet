@@ -1,1 +1,1 @@
-var mnemonic = "plunge alone flip inhale lawn section above fatigue giant fiction infant puzzle";
+var mnemonic = "useless catch veteran pledge bone town motor plastic faith choice monkey tip";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub oppose cart course other dawn rebel reason steel globe canal pupil";
+var mnemonic = "soft gate struggle ceiling slab over window current ordinary twist expose split";

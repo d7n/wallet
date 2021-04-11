@@ -1,1 +1,1 @@
-var mnemonic = "inspire diagram cherry grief myself silver heart dignity choice sun fat slender";
+var mnemonic = "boss report pulp icon law visual regular decline lesson lock moment plastic";

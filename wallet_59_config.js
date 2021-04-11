@@ -1,1 +1,1 @@
-var mnemonic = "tunnel destroy become silly stuff dolphin target quick favorite between lady convince";
+var mnemonic = "grab segment combine broom pencil beauty fit viable waste shoe coffee derive";

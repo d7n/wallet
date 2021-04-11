@@ -1,1 +1,1 @@
-var mnemonic = "fringe asset often later menu siren very nephew twelve funny mosquito tissue";
+var mnemonic = "vendor mountain orbit deer sun stairs zebra seek various shoulder matter hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie deposit stone session scene fire intact chat salon rely shrug grain";
+var mnemonic = "alpha kit month brother crew soul order yard cake banner today wire";

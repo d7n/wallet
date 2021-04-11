@@ -1,1 +1,1 @@
-var mnemonic = "law decline outside chair dash deposit moment age cat dignity movie knock";
+var mnemonic = "pride hole dial test juice work such vicious ripple number hobby champion";

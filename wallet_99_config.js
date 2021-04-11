@@ -1,1 +1,1 @@
-var mnemonic = "grab dumb brief bicycle inmate pottery talent poverty milk jump sell reunion";
+var mnemonic = "ship pepper old salon pass kidney drill scout sort clay differ inch";

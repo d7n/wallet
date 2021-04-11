@@ -1,1 +1,1 @@
-var mnemonic = "dragon category tunnel axis drift into truth layer used enough blush maximum";
+var mnemonic = "random gravity across autumn brass town erupt note odor crouch buzz wish";

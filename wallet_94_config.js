@@ -1,1 +1,1 @@
-var mnemonic = "inflict tenant flip outer wish conduct code involve stick olive table license";
+var mnemonic = "glare tide couch chest imitate know wasp depend stone twice project ribbon";

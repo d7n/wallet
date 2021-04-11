@@ -1,1 +1,1 @@
-var mnemonic = "parade stairs tooth dawn assist tag since perfect coconut search dolphin ancient";
+var mnemonic = "hold skirt taste transfer bundle february agree people swear finish more theme";

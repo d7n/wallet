@@ -1,1 +1,1 @@
-var mnemonic = "sea joy domain juice junk tomorrow upset drill six network spoil seed";
+var mnemonic = "caught glide evolve power truck viable bracket expand lottery husband chase duck";

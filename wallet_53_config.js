@@ -1,1 +1,1 @@
-var mnemonic = "choose favorite tag mutual fresh embrace ski kit busy skill habit demise";
+var mnemonic = "chest whisper chest verb rifle fabric surprise slide tunnel away black submit";

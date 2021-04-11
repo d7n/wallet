@@ -1,1 +1,1 @@
-var mnemonic = "key number hurry frown scare swear guitar claw angle large code odor";
+var mnemonic = "alien common upon roof surround beauty display mother target fit task knife";

@@ -1,1 +1,1 @@
-var mnemonic = "invest clarify lab mystery second mosquito shoe force ivory security credit write";
+var mnemonic = "attract wet cute decrease avoid hybrid level lottery genre shuffle frost royal";

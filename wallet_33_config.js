@@ -1,1 +1,1 @@
-var mnemonic = "patch badge trip agree camera lock diamond arrive trade coyote assist weasel";
+var mnemonic = "ostrich manual guide already since assume crisp combine wealth title pistol usage";

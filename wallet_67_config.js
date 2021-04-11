@@ -1,1 +1,1 @@
-var mnemonic = "shoulder busy swarm blood mesh that energy pulp notice senior galaxy ripple";
+var mnemonic = "leader rose tonight shadow delay card wealth service stomach owner victory foil";

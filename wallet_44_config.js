@@ -1,1 +1,1 @@
-var mnemonic = "uncle net wrap prevent grid benefit card mouse moon usage cry avoid";
+var mnemonic = "bleak diagram whip inch liar prefer spatial side fury chunk frown novel";

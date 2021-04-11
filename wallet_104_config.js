@@ -1,1 +1,1 @@
-var mnemonic = "cheese coin chaos sadness staff hood tip film suffer debris license museum";
+var mnemonic = "normal salad soldier chapter hover alcohol ten bean resource scan truly huge";

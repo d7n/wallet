@@ -1,1 +1,1 @@
-var mnemonic = "business core gap endless figure jaguar lamp finger early medal romance toy";
+var mnemonic = "nuclear scatter blame jelly husband table visual arrive cement want eight dolphin";

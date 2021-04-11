@@ -1,1 +1,1 @@
-var mnemonic = "now cherry unit grit coral rug slab gasp coach girl vapor gate";
+var mnemonic = "skirt rifle engine this field sort arrive humor symptom area twist era";

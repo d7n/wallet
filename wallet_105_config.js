@@ -1,1 +1,1 @@
-var mnemonic = "dwarf involve robust squeeze save picture weekend lyrics accuse modify melody dream";
+var mnemonic = "clever canvas banana fatigue payment rare action claim drum mail stick vendor";

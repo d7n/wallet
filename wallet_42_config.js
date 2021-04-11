@@ -1,1 +1,1 @@
-var mnemonic = "oil trim poverty banana route faith stock bid liquid design upgrade loan";
+var mnemonic = "firm memory spend able yard flock aim stereo steak soul mobile priority";

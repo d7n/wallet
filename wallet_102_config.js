@@ -1,1 +1,1 @@
-var mnemonic = "salad rain bacon upset buddy marine truly exhaust result fitness book suspect";
+var mnemonic = "dentist game affair sell short mutual miss robust virtual humor few shield";

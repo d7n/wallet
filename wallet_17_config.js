@@ -1,1 +1,1 @@
-var mnemonic = "mountain elegant initial olympic number mother wide build ahead isolate upgrade piano";
+var mnemonic = "release ugly gain park thrive female luxury mosquito quote staff snow route";

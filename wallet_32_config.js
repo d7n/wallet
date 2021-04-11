@@ -1,1 +1,1 @@
-var mnemonic = "globe shock child shoot dad answer hero cabin risk oven book belt";
+var mnemonic = "arrive elder badge attend pluck awesome switch explain desert point drop reform";

@@ -1,1 +1,1 @@
-var mnemonic = "age knife oyster wing north radar trumpet pilot million chase voice simple";
+var mnemonic = "corn boat element drip offer outside sniff stairs ensure wide mention soul";

@@ -1,1 +1,1 @@
-var mnemonic = "add fatigue betray emerge benefit friend system cupboard stumble furnace roast near";
+var mnemonic = "slush flag curious mesh wear skill office clap lava execute culture remind";

@@ -1,1 +1,1 @@
-var mnemonic = "culture tortoise struggle rely useless erupt cigar thought host similar panic heart";
+var mnemonic = "lunch talent knife great spring client lyrics ask cement correct wise joke";

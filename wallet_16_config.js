@@ -1,1 +1,1 @@
-var mnemonic = "tower blood property peasant length song above health trade dumb glimpse evil";
+var mnemonic = "deliver wall sunny pyramid crazy scan plunge trip garage deputy maid table";

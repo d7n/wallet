@@ -1,1 +1,1 @@
-var mnemonic = "rail rose zone solution switch slab deer predict riot forward under garbage";
+var mnemonic = "summer tuna odor suit labor eager armed depart basket unknown cheese pluck";

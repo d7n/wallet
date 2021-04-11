@@ -1,1 +1,1 @@
-var mnemonic = "license obvious soon avocado among night slight enforce impact gentle kangaroo cabbage";
+var mnemonic = "anger remember vessel decline moral miracle model addict breeze spell cattle boss";

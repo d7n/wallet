@@ -1,1 +1,1 @@
-var mnemonic = "race square happy brain code trend post anger language project tongue visual";
+var mnemonic = "snack police talk prepare damage tape twice sense hundred lend brick peasant";

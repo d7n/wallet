@@ -1,1 +1,1 @@
-var mnemonic = "knock argue tribe uphold piano erosion until august badge citizen penalty sausage";
+var mnemonic = "gossip glow ivory diesel turn drive bottom clown mobile future wasp above";

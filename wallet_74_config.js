@@ -1,1 +1,1 @@
-var mnemonic = "interest cousin south all hat silly top author page palace approve pet";
+var mnemonic = "witness stereo cement consider galaxy hollow elite crunch cycle clown spatial hospital";

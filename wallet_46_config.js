@@ -1,1 +1,1 @@
-var mnemonic = "act bulk speak balance polar opinion grant bone proof click theory citizen";
+var mnemonic = "web enrich paper style manage similar bachelor increase great enhance city fantasy";

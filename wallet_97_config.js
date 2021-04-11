@@ -1,1 +1,1 @@
-var mnemonic = "burden edit decorate couple when swarm shove cart body torch session soft";
+var mnemonic = "eagle shy yard trial husband nothing quiz surge draft organ senior female";

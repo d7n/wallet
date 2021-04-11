@@ -1,1 +1,1 @@
-var mnemonic = "surface vehicle target airport token clip embrace feed vocal lion attitude tunnel";
+var mnemonic = "puzzle prize trouble pattern velvet grain surprise spot embark short logic major";

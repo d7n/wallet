@@ -1,1 +1,1 @@
-var mnemonic = "toe risk icon skill code elbow slab boy loyal pave census romance";
+var mnemonic = "crane clever symptom gaze guard wish dove wink path shiver stay payment";

@@ -1,1 +1,1 @@
-var mnemonic = "witness lunar trend scene pioneer service galaxy blast wagon yard seed old";
+var mnemonic = "silk mixed place object squeeze word emotion twist give mixed town type";

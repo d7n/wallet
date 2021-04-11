@@ -1,1 +1,1 @@
-var mnemonic = "opinion cheese amateur bitter aisle flash wash cool present perfect long industry";
+var mnemonic = "steak ritual noodle bid fall grocery race monitor call daughter rubber talent";

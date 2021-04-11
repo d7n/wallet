@@ -1,1 +1,1 @@
-var mnemonic = "wheel barrel diesel sight luxury belt habit raise swift wrist seminar quit";
+var mnemonic = "box eight plug target ivory pull sell chalk grit target giraffe orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "please defense head face erupt park account rookie total enrich appear black";
+var mnemonic = "opera version chapter hand evil injury clown about wrong waste subway divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "song already unusual rigid permit lonely hidden release practice live mobile prepare";
+var mnemonic = "swallow bicycle permit eager abuse weasel large dress critic easily ribbon truly";

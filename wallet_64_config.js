@@ -1,1 +1,1 @@
-var mnemonic = "any below water athlete together cross mention present corn property comic destroy";
+var mnemonic = "student gadget page episode puzzle tired key pair tumble eight update kind";

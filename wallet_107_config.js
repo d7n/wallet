@@ -1,1 +1,1 @@
-var mnemonic = "theory hold pizza calm taste marine noise style young tent slice scale";
+var mnemonic = "eager foot intact panda involve casual hen coil two expand join emotion";

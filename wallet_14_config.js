@@ -1,1 +1,1 @@
-var mnemonic = "fringe merit emerge vocal narrow frozen rocket second ten chief bacon treat";
+var mnemonic = "fine field flavor offer elephant tip robust motion knock slam arch ankle";

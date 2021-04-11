@@ -1,1 +1,1 @@
-var mnemonic = "family hub celery say finger cost offer cement need seek cake leopard";
+var mnemonic = "brush void humor magnet school vessel axis birth blame never call alley";

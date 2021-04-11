@@ -1,1 +1,1 @@
-var mnemonic = "crisp duck lawsuit during lucky size pulse artefact client glove borrow weather";
+var mnemonic = "mistake eyebrow famous movie cinnamon tomato write pyramid bamboo property expose walnut";

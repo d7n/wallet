@@ -1,1 +1,1 @@
-var mnemonic = "grass wire sentence purse retire rebuild matter broom dose increase owner office";
+var mnemonic = "pulse enlist bread chimney door frequent collect expose brain like ability three";

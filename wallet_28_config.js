@@ -1,1 +1,1 @@
-var mnemonic = "scout head aim march mobile olympic grid light cheese inspire consider embark";
+var mnemonic = "emerge swim mixed vivid wisdom help swap animal equip rabbit secret ability";

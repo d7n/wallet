@@ -1,1 +1,1 @@
-var mnemonic = "bottom attract grant gauge insane repair razor gate churn index tornado interest";
+var mnemonic = "work cabbage cash gather autumn initial legal pitch tissue transfer live planet";

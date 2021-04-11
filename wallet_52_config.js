@@ -1,1 +1,1 @@
-var mnemonic = "human zone vehicle state loyal ridge shrug always coral sudden shrug sudden";
+var mnemonic = "bicycle slow library bone garden year oyster rose sing ill season beach";

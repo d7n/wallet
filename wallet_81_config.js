@@ -1,1 +1,1 @@
-var mnemonic = "define ride reject oak always cousin dismiss stone feature pony scan casino";
+var mnemonic = "hope eagle antenna news swap recall mail drift stuff license vast crush";

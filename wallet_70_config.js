@@ -1,1 +1,1 @@
-var mnemonic = "invest barrel there assume fruit essay helmet under exhibit armor scatter gallery";
+var mnemonic = "youth slush pond agree treat zoo pattern appear crater rack glimpse author";

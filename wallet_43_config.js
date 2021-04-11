@@ -1,1 +1,1 @@
-var mnemonic = "friend sense monkey multiply fringe receive ivory vendor okay board winter save";
+var mnemonic = "example message clock blast topple flight cereal spend fee vendor joy phone";

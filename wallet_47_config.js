@@ -1,1 +1,1 @@
-var mnemonic = "equip decade warfare delay sure off depend address domain reopen involve pitch";
+var mnemonic = "satoshi ethics race cricket then spy nation bracket hole glory frost faith";

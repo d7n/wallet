@@ -1,1 +1,1 @@
-var mnemonic = "obscure spread famous author crime noodle gadget wrap leisure afford market alley";
+var mnemonic = "hammer reopen flight inquiry deputy glance law marble praise peanut result prefer";

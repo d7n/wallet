@@ -1,1 +1,1 @@
-var mnemonic = "live hub enhance blouse puzzle exit poem price leave goddess almost custom";
+var mnemonic = "father action amused siege pen receive confirm harbor spice recycle core antenna";

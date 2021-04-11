@@ -1,1 +1,1 @@
-var mnemonic = "oppose motor emotion weather sort under taxi grow carry imitate sunset tag";
+var mnemonic = "uphold hole under nation jaguar become retreat trick install museum issue call";

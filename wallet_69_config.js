@@ -1,1 +1,1 @@
-var mnemonic = "abuse leisure crop burst state rubber draw fork offer void decorate camera";
+var mnemonic = "fossil shop possible bid arrest process differ inject found moment sick mountain";
