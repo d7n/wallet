@@ -1,1 +1,1 @@
-var mnemonic = "labor excuse position way demise help dance danger angle garage among light";
+var mnemonic = "upon despair bachelor manual famous excess script public trigger romance insane sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "scale luxury sign stadium actor bless truck lounge focus tiny cube hint";
+var mnemonic = "bind speed torch gallery glide jelly banner feature bracket thank cousin leaf";

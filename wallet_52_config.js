@@ -1,1 +1,1 @@
-var mnemonic = "narrow range achieve amazing amount involve wide coach floor bleak business praise";
+var mnemonic = "ripple either book manage engage expand palm skull civil ketchup autumn goddess";

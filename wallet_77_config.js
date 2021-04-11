@@ -1,1 +1,1 @@
-var mnemonic = "south omit viable lecture enact grass diamond spot foil spatial intact pole";
+var mnemonic = "found obscure motion club apart dinner dismiss opera hazard captain recipe fade";

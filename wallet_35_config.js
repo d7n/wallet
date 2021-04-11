@@ -1,1 +1,1 @@
-var mnemonic = "liberty empty wisdom slim oak captain emotion sure tuition way false follow";
+var mnemonic = "mimic quit risk arrive upgrade jar galaxy lens chuckle ignore option invest";

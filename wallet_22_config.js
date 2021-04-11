@@ -1,1 +1,1 @@
-var mnemonic = "buffalo goose kitchen hat fence gorilla receive run edge human evil tool";
+var mnemonic = "prepare power shiver journey board boss deputy have exile explain math nothing";

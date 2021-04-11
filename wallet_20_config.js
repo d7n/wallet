@@ -1,1 +1,1 @@
-var mnemonic = "whisper target fuel crime glide afford bless fiber salt buzz train manual";
+var mnemonic = "double car cross baby twelve small fish sister vanish volcano rib space";

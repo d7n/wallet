@@ -1,1 +1,1 @@
-var mnemonic = "amused jacket ignore outside sphere remain spell leopard wire track tourist door";
+var mnemonic = "quit accuse advice very mother thumb music pull avocado tiger echo perfect";

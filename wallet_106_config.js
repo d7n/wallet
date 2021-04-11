@@ -1,1 +1,1 @@
-var mnemonic = "skin display vibrant survey team arrow check scale gesture type act wool";
+var mnemonic = "sister person spirit caution cat lady toward region soccer until delay skill";

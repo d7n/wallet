@@ -1,1 +1,1 @@
-var mnemonic = "lounge frost settle armor turkey spring attend iron bulb juice derive lounge";
+var mnemonic = "convince wink sign rival entire verb robot scatter wild breeze flash hawk";

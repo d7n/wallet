@@ -1,1 +1,1 @@
-var mnemonic = "reflect flavor people earth grab stable settle hand side minimum moment sauce";
+var mnemonic = "wage shuffle inflict private camera bitter alley hurdle remember engine proof apple";

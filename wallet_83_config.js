@@ -1,1 +1,1 @@
-var mnemonic = "stem party cable random nothing vast inquiry time flush super prefer start";
+var mnemonic = "distance apart until dumb clarify latin chaos thought dish oyster rack december";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble usage once radio turtle album drop crash husband crane noble wish";
+var mnemonic = "chalk there what mimic mouse tower invest spread mandate random venue close";

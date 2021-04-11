@@ -1,1 +1,1 @@
-var mnemonic = "harvest interest system must wide genius judge leader normal island trade document";
+var mnemonic = "stadium orphan bind kitten venue position decade wrong daughter pigeon kangaroo mechanic";

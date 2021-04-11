@@ -1,1 +1,1 @@
-var mnemonic = "amused security save manual fever false drip punch valley door hill range";
+var mnemonic = "skull boss chunk avocado away assist repair cluster beyond bunker away brisk";

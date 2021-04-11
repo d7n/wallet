@@ -1,1 +1,1 @@
-var mnemonic = "action invest addict digital banner grocery cruel thumb normal torch clean timber";
+var mnemonic = "amused napkin assault test attract tortoise cable pave warm online maze spring";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet candy fold farm border sphere chicken maid taste silent harsh future";
+var mnemonic = "tray open cradle rely today winner humble virtual critic hospital roof fade";

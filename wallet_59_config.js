@@ -1,1 +1,1 @@
-var mnemonic = "mutual differ topple leopard liquid million faculty grace fold produce rain dry";
+var mnemonic = "beyond reveal hand hunt taste lumber novel october wink affair bullet bunker";

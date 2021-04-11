@@ -1,1 +1,1 @@
-var mnemonic = "evidence ball fold velvet green hope wonder panic ramp soldier risk attack";
+var mnemonic = "anxiety fashion giraffe again door also diamond equal lumber forest panel dry";

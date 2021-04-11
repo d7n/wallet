@@ -1,1 +1,1 @@
-var mnemonic = "solution wise major wrist smile math they moral trumpet music awake neutral";
+var mnemonic = "senior people buzz fault risk rule follow clog wonder forum chat hire";

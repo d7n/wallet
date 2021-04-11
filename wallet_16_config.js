@@ -1,1 +1,1 @@
-var mnemonic = "dress machine cinnamon foil pole plunge ladder bridge margin soft phone brick";
+var mnemonic = "bunker glare owner mansion laptop april poet shuffle soft release lazy conduct";

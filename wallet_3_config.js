@@ -1,1 +1,1 @@
-var mnemonic = "upper total leisure start subject equal oven wink smooth ahead ordinary hard";
+var mnemonic = "secret weekend fit glass aisle impose come enroll search owner adult neither";

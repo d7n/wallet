@@ -1,1 +1,1 @@
-var mnemonic = "bring luggage one bubble current wealth hip vendor corn noodle nerve city";
+var mnemonic = "credit crew brown draw rib member joke fine drum divorce oyster twin";

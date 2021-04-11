@@ -1,1 +1,1 @@
-var mnemonic = "lyrics dismiss wire custom tobacco beach enhance cream bike glue faculty project";
+var mnemonic = "easy skill protect humor knock knee away canal stereo security secret crouch";

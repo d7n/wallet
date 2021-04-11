@@ -1,1 +1,1 @@
-var mnemonic = "exchange diary crew initial rather soup code fat vacuum surge jacket couple";
+var mnemonic = "borrow record post hospital engage grab multiply orchard weird elephant gentle summer";

@@ -1,1 +1,1 @@
-var mnemonic = "curious exact alarm gym crumble tuition medal security capital put hair cube";
+var mnemonic = "gold actual brand fuel draft able satisfy buzz scorpion warrior world entry";

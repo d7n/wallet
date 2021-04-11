@@ -1,1 +1,1 @@
-var mnemonic = "scorpion art color tobacco oven west inform broken save hobby cancel purpose";
+var mnemonic = "plastic broken happy discover pretty slow purpose solid argue only gloom guilt";

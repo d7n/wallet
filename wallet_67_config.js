@@ -1,1 +1,1 @@
-var mnemonic = "barely window uncle seven clip empty fossil nice march farm jeans rescue";
+var mnemonic = "fence clump update sort key glove okay abandon connect enroll task sun";

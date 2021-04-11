@@ -1,1 +1,1 @@
-var mnemonic = "patrol program panel together ring purchase famous large spell hope fortune angry";
+var mnemonic = "pill rally october mix note mountain vapor patch tape tooth extend garment";

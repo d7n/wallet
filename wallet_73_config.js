@@ -1,1 +1,1 @@
-var mnemonic = "math photo cruise rescue scale giggle jungle hungry bunker uncover fence exact";
+var mnemonic = "trend tourist wisdom unhappy version process example core olympic there knock crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "circle wing dumb squirrel vibrant someone under element faith elite what horror";
+var mnemonic = "limb alley pink twin give wine hurdle record above bomb entry peasant";

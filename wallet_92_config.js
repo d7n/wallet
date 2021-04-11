@@ -1,1 +1,1 @@
-var mnemonic = "wheat blast six nephew omit ranch teach jungle cute bird prosper camp";
+var mnemonic = "boss charge day onion common short match lesson assume bulb warfare oxygen";

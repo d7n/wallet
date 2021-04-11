@@ -1,1 +1,1 @@
-var mnemonic = "word train sorry enlist tissue quick usage business gown success firm turkey";
+var mnemonic = "track boat car around treat juice industry speak lemon tuition slush reason";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore fitness idle huge ocean april drive swing motion tree famous hen";
+var mnemonic = "wealth napkin deliver proof modify harsh sick tail cross evidence cheese judge";

@@ -1,1 +1,1 @@
-var mnemonic = "broom nice border dawn matrix kidney boil begin pen one glow connect";
+var mnemonic = "bleak offer taste shoot around govern head ride stool trade trigger reunion";

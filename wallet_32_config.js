@@ -1,1 +1,1 @@
-var mnemonic = "service napkin laptop expire gossip twice beef great release canvas govern hotel";
+var mnemonic = "yellow blossom march rookie field behind april copy into hidden gun invite";

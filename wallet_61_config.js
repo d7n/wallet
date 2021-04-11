@@ -1,1 +1,1 @@
-var mnemonic = "donate similar zone digital topic advice claw open snack mention moral august";
+var mnemonic = "mansion asthma device phone ability bone depart laundry obtain test tennis update";

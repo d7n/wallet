@@ -1,1 +1,1 @@
-var mnemonic = "first snow smile spy sea just merry marble nephew rather slender monitor";
+var mnemonic = "strike episode control hockey soul bitter private gun walk learn doctor security";

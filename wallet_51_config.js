@@ -1,1 +1,1 @@
-var mnemonic = "cloud inch ugly uphold spawn boring grocery lake sunny exchange design history";
+var mnemonic = "exhibit gravity twelve pipe inhale car crane chest text color volcano federal";

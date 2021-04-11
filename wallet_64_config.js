@@ -1,1 +1,1 @@
-var mnemonic = "bid erosion denial plastic road obtain filter foot sentence appear tent flight";
+var mnemonic = "build pupil march cannon coffee casual canyon connect height claim together action";

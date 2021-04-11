@@ -1,1 +1,1 @@
-var mnemonic = "science shed describe library chef have keep comic corn clock setup lady";
+var mnemonic = "only idea magnet lady onion kiss cargo hammer civil arm minor obey";

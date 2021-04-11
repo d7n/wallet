@@ -1,1 +1,1 @@
-var mnemonic = "palm pause rough monster estate bone hour emotion canvas turn diet theory";
+var mnemonic = "require tattoo jealous unique have vocal another sponsor chronic online verb desk";

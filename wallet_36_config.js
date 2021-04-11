@@ -1,1 +1,1 @@
-var mnemonic = "garage web venue half verify remember patient borrow sail neither solar embrace";
+var mnemonic = "yellow fruit nerve giant innocent garden camp major payment caution cargo grocery";

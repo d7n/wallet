@@ -1,1 +1,1 @@
-var mnemonic = "car excite robot dumb ride blush plastic occur slim leopard label stairs";
+var mnemonic = "shift crouch voice uncover cliff add orient pact glue almost marble you";

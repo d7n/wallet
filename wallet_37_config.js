@@ -1,1 +1,1 @@
-var mnemonic = "mutual avocado update skirt mountain foster onion hotel elegant task drink issue";
+var mnemonic = "sentence open fame ahead sauce drill shell few poet night act jeans";

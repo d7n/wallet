@@ -1,1 +1,1 @@
-var mnemonic = "real miss canvas luxury core dentist milk grow luxury similar message empty";
+var mnemonic = "winner angle adult announce coach shell churn piano trap smooth vital onion";

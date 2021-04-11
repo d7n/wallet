@@ -1,1 +1,1 @@
-var mnemonic = "casino predict cotton roof certain demise enact squirrel cereal creek strategy master";
+var mnemonic = "fury benefit suggest join shallow novel purse guilt bachelor marble song wheat";

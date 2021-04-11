@@ -1,1 +1,1 @@
-var mnemonic = "echo time guess mom drop endorse scene ridge slam devote possible cruel";
+var mnemonic = "stamp physical room olympic solve off economy theory mass monitor pride blouse";

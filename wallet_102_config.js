@@ -1,1 +1,1 @@
-var mnemonic = "stove claim ozone morning fog update island photo celery theme trust response";
+var mnemonic = "stamp matter artwork slight crowd similar decrease name urge police total core";

@@ -1,1 +1,1 @@
-var mnemonic = "audit zone clump journey suggest gossip sea exercise giant give fancy marine";
+var mnemonic = "peasant film provide length vault cushion frost member buddy rate similar design";

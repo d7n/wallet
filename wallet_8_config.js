@@ -1,1 +1,1 @@
-var mnemonic = "ahead ripple climb mass eight steel diamond prevent derive lesson culture bottom";
+var mnemonic = "across weasel damage rent else cement business salon trade blue arena energy";

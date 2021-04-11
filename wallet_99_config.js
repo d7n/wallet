@@ -1,1 +1,1 @@
-var mnemonic = "narrow core expand possible treat retreat bulb right dry clip van pear";
+var mnemonic = "coffee carpet sadness gate pink giraffe civil happy announce sibling timber stuff";

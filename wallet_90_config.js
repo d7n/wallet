@@ -1,1 +1,1 @@
-var mnemonic = "bronze pause deal coyote rare amazing hybrid peace together illness trumpet slow";
+var mnemonic = "honey mansion peasant retire obey clog envelope scatter camera grit tourist hip";

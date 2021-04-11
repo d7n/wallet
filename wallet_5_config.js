@@ -1,1 +1,1 @@
-var mnemonic = "man maze wide country bargain panic believe canyon captain produce action safe";
+var mnemonic = "autumn trap top script sugar hurdle judge enforce walk mosquito apart plate";

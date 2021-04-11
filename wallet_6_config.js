@@ -1,1 +1,1 @@
-var mnemonic = "curve pause ahead tennis submit two weird glass degree scissors soap knife";
+var mnemonic = "direct fruit plate syrup never tortoise key exclude run improve cry lucky";

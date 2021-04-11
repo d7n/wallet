@@ -1,1 +1,1 @@
-var mnemonic = "huge spice attend venture scare shy mango magic spatial rifle pair special";
+var mnemonic = "illegal hammer best cause pudding demise ahead happy riot diet tornado excite";

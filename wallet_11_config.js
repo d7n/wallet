@@ -1,1 +1,1 @@
-var mnemonic = "pistol morning provide milk caught muffin sleep captain agent mask mother climb";
+var mnemonic = "disease risk excuse spawn border glass hope ivory dinosaur later jazz lion";

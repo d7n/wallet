@@ -1,1 +1,1 @@
-var mnemonic = "resist ride decline prosper gasp blanket pill gesture repair equal indicate marriage";
+var mnemonic = "discover brisk board much spray cannon law mesh bitter draft you shrug";

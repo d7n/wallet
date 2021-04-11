@@ -1,1 +1,1 @@
-var mnemonic = "mimic olive puppy bunker metal wrist rack lobster deposit mention minimum dignity";
+var mnemonic = "purpose dynamic safe sausage poverty vacant gentle exhaust leave joke noise curious";

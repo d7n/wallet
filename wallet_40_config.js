@@ -1,1 +1,1 @@
-var mnemonic = "warrior short novel supply cliff unhappy seek depart clown vapor setup grit";
+var mnemonic = "cereal street region dirt puzzle song dream surprise rival must tool family";

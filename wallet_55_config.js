@@ -1,1 +1,1 @@
-var mnemonic = "interest mesh second notable grab holiday talk urban custom earn depart shell";
+var mnemonic = "skirt cause all ceiling badge food eager forget wage absorb amazing finish";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge trumpet sell comfort piano category leisure cake pet energy oven erupt";
+var mnemonic = "uphold nation gift shield interest possible fantasy current screen time accuse supply";

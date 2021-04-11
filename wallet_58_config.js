@@ -1,1 +1,1 @@
-var mnemonic = "polar panther gift strike empty post shallow injury boring aerobic size goat";
+var mnemonic = "border replace pitch flame slight actual debate ghost isolate skill noble issue";

@@ -1,1 +1,1 @@
-var mnemonic = "foot wish bulb truth lift dose voice young meat august sick mom";
+var mnemonic = "night paper gadget okay push lizard regular live pilot menu way noise";

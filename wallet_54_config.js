@@ -1,1 +1,1 @@
-var mnemonic = "muscle bulb holiday lake square funny guide castle sting nerve help sausage";
+var mnemonic = "ensure clutch narrow boat choose boss disorder tree recall cross solid join";

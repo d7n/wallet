@@ -1,1 +1,1 @@
-var mnemonic = "soup end trust derive repeat list album awake develop bleak wall evoke";
+var mnemonic = "flat panel gap badge theory ecology end disorder soldier thought hidden tennis";

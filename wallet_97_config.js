@@ -1,1 +1,1 @@
-var mnemonic = "fatigue plug popular annual bundle merit knock river theme blast fever alien";
+var mnemonic = "ranch medal fringe rain control rail repair main suit result diamond cover";

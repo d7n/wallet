@@ -1,1 +1,1 @@
-var mnemonic = "oil economy jar topple front connect afraid gas alpha better curious around";
+var mnemonic = "horror flush spice morning cheese scatter evolve sweet result inmate very imitate";

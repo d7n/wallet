@@ -1,1 +1,1 @@
-var mnemonic = "parade spider afford farm strategy inflict dragon suspect float shaft seed voice";
+var mnemonic = "edge base flight horn bright general find leader doctor very indicate tool";

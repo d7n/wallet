@@ -1,1 +1,1 @@
-var mnemonic = "car harvest priority year oxygen pride jeans leisure flee ranch luggage robust";
+var mnemonic = "air note toy fire name forward toward basic skull runway include cost";

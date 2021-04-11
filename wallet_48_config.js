@@ -1,1 +1,1 @@
-var mnemonic = "spirit grant fee robot bird park remember history high tape sheriff fortune";
+var mnemonic = "vocal village galaxy manual regular famous verb uniform fabric claw immune season";

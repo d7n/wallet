@@ -1,1 +1,1 @@
-var mnemonic = "borrow wrist oblige bamboo gap jazz scare obey size crew suggest nothing";
+var mnemonic = "harsh skin brother pact dish slam lake couch master stomach road smart";

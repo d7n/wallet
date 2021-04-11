@@ -1,1 +1,1 @@
-var mnemonic = "alarm diamond will slab exhibit maple world venue provide mammal try goat";
+var mnemonic = "cheese vivid duck meat table term wonder above view cheap grow add";

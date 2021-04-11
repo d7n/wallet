@@ -1,1 +1,1 @@
-var mnemonic = "carry axis helmet hammer pitch frog index entry offer edge dilemma neck";
+var mnemonic = "knife you drill session robot transfer swim baby glove shoe sure example";

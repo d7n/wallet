@@ -1,1 +1,1 @@
-var mnemonic = "frown tortoise brisk raven cabbage budget vanish surface trend tooth measure piece";
+var mnemonic = "share submit flash army shield warm federal midnight around fix empower update";

@@ -1,1 +1,1 @@
-var mnemonic = "secret jungle guitar mask spider cost upgrade route story movie giant episode";
+var mnemonic = "device faint walk young wheel digital solar sick repair lemon pulse loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "melt envelope poem observe tobacco okay disease wrist apart utility general eight";
+var mnemonic = "cluster chicken acquire miss worry toddler flower mad often art flat police";

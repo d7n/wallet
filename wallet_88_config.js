@@ -1,1 +1,1 @@
-var mnemonic = "napkin stool trick dolphin rent toss funny earth bulk marriage card zone";
+var mnemonic = "garage acid reason ocean ranch order excuse wrong salt surge faint release";

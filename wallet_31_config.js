@@ -1,1 +1,1 @@
-var mnemonic = "dose rhythm quality apology style you crumble nephew noble illness penalty hair";
+var mnemonic = "card sing just harbor life master hedgehog skull panel dynamic mirror couch";

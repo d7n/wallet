@@ -1,1 +1,1 @@
-var mnemonic = "promote explain august twice message amateur useful section property drink aware jump";
+var mnemonic = "inhale fiscal elite crouch science veteran subway shell glad escape word review";

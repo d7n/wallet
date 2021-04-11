@@ -1,1 +1,1 @@
-var mnemonic = "song plastic early lunar board future accuse grief bless two turkey abstract";
+var mnemonic = "science ticket away disorder exclude wild width diamond cradle also pill raw";

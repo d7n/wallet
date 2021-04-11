@@ -1,1 +1,1 @@
-var mnemonic = "eternal fossil retreat rain pink poet inspire soldier check spider climb legal";
+var mnemonic = "elbow confirm valley timber peanut expire magic animal alone noble sweet rib";

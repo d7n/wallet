@@ -1,1 +1,1 @@
-var mnemonic = "thank urban magic vicious stamp siege game pledge estate universe retire opera";
+var mnemonic = "smoke rice daughter call much film story hobby eyebrow exclude fitness manual";

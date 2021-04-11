@@ -1,1 +1,1 @@
-var mnemonic = "bird spice type property battle silly carbon catch swamp elephant candy loan";
+var mnemonic = "swamp width fog able example help promote police guard camera stone gun";
