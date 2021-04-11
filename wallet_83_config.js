@@ -1,1 +1,1 @@
-var mnemonic = "chef crew predict capable lottery once rhythm diagram exist bundle owner borrow";
+var mnemonic = "type grape transfer shop present spin usual innocent thunder effort airport hat";

@@ -1,1 +1,1 @@
-var mnemonic = "north sort lizard dawn angry make helmet foam enroll sentence tell fetch";
+var mnemonic = "acquire amount awkward basic divert term pear half tiger cattle mesh palace";

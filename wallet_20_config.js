@@ -1,1 +1,1 @@
-var mnemonic = "debate daring matter laptop humor liar price unusual core govern ridge guitar";
+var mnemonic = "elder gym rice nest catch smoke benefit endless fortune local kitten exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn model wonder monster barely when more daughter monkey champion finish fresh";
+var mnemonic = "empty ordinary field hunt keep result undo bus bind fluid minimum only";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty exact dismiss paddle define upper advice fury ill seek assume empower";
+var mnemonic = "rifle toy chief wonder cross army cancel mixed judge pudding cause donkey";

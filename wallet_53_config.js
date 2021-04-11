@@ -1,1 +1,1 @@
-var mnemonic = "theme winter honey mad stove dynamic time smile material furnace sibling essence";
+var mnemonic = "screen allow opinion bundle final settle carry arctic iron worry clever super";

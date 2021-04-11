@@ -1,1 +1,1 @@
-var mnemonic = "tree expire word appear cram village staff silent throw cross wheel possible";
+var mnemonic = "hat pave tribe drop manage outer burger satisfy guitar unable input bone";

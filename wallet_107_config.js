@@ -1,1 +1,1 @@
-var mnemonic = "patient bless base giraffe truck enrich visa steak blast gravity fork domain";
+var mnemonic = "diesel runway direct beach mother refuse neutral coyote trash seed ice diet";

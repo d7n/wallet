@@ -1,1 +1,1 @@
-var mnemonic = "top equal estate card pottery ring about pelican valid turkey sentence clever";
+var mnemonic = "cricket cotton crane give method music quantum fish bacon release hero soccer";

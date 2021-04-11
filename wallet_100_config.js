@@ -1,1 +1,1 @@
-var mnemonic = "vendor destroy response certain talk scene ethics warfare planet spend slow chunk";
+var mnemonic = "diet bacon sell loud mango appear accuse lake boat hole acid special";

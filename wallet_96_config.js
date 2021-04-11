@@ -1,1 +1,1 @@
-var mnemonic = "fold enrich story crane tomorrow carbon gasp twin mimic title devote coast";
+var mnemonic = "lab scorpion coin melt kitten river truck tragic solve census clump water";

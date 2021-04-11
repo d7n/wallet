@@ -1,1 +1,1 @@
-var mnemonic = "reform govern machine basic mistake ignore shuffle prosper pluck drama cereal more";
+var mnemonic = "spoon moon valve leg camp casino dawn planet hunt online match catalog";

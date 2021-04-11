@@ -1,1 +1,1 @@
-var mnemonic = "film rapid legend display jacket embark despair cup category useful comfort huge";
+var mnemonic = "reason explain call cable expire age useless private town good bus resemble";

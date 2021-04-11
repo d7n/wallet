@@ -1,1 +1,1 @@
-var mnemonic = "invest slight sister lamp source begin school material submit current tunnel unit";
+var mnemonic = "script scissors boy luxury ladder test gate weird vehicle convince bachelor general";

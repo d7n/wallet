@@ -1,1 +1,1 @@
-var mnemonic = "cricket output nephew wrap cattle satoshi found output possible strategy survey design";
+var mnemonic = "minute actual inform benefit already mix ill nice second aspect east galaxy";

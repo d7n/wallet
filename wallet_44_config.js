@@ -1,1 +1,1 @@
-var mnemonic = "result winter private bring nut silent notice flee rare property endless hint";
+var mnemonic = "legal host speed wish remember inside winner tortoise employ race pause umbrella";

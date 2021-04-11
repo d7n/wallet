@@ -1,1 +1,1 @@
-var mnemonic = "leopard van pitch right clap endorse already play leader stomach link federal";
+var mnemonic = "stable amount wage blind fish local wrong mansion room clip super more";

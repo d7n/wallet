@@ -1,1 +1,1 @@
-var mnemonic = "casino capable puppy expire robust horse discover tonight vote oven timber phrase";
+var mnemonic = "vague wrong submit vendor roast motor decrease luggage cloth elbow dilemma guess";

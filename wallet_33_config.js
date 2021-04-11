@@ -1,1 +1,1 @@
-var mnemonic = "horn pledge unique original rubber phone walk order bag aerobic kit ribbon";
+var mnemonic = "cash atom title okay benefit adapt rocket asthma near regular pen bomb";

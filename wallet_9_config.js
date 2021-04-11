@@ -1,1 +1,1 @@
-var mnemonic = "novel blame fortune nature faint wrist any camera bamboo sibling seminar excess";
+var mnemonic = "age goose biology enough blast sell famous mother rain nephew mushroom repair";

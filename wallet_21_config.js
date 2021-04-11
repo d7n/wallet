@@ -1,1 +1,1 @@
-var mnemonic = "forum bid venture pizza capital buzz clean peasant royal dial language admit";
+var mnemonic = "describe enemy feature dance taste wine grow latin token stage april rabbit";

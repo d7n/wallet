@@ -1,1 +1,1 @@
-var mnemonic = "joy correct spread clutch lawn awake permit seek stereo media gap tent";
+var mnemonic = "fat matter judge spray fiction chuckle opera castle nature paddle honey invite";

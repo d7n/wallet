@@ -1,1 +1,1 @@
-var mnemonic = "crawl force carbon royal wait vendor castle protect people budget grid law";
+var mnemonic = "girl choose company just sea budget about various uncle sheriff session sheriff";

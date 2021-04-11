@@ -1,1 +1,1 @@
-var mnemonic = "address sand actor aim uncover casino bike beyond cake scare adult wool";
+var mnemonic = "cereal ordinary disagree plastic inhale potato day salon indoor leaf dawn exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "view find process become network flight rigid spike nature powder symbol boss";
+var mnemonic = "wonder foil electric reform lazy entire universe observe pear kit bullet market";

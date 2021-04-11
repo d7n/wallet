@@ -1,1 +1,1 @@
-var mnemonic = "sauce witness duck pipe frost tag lift envelope door nation wrestle math";
+var mnemonic = "lyrics kitchen sniff pitch foot duty pill inflict other kiss sock ship";

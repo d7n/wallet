@@ -1,1 +1,1 @@
-var mnemonic = "pond home leave tennis kiss law minute loud test immense debris veteran";
+var mnemonic = "kangaroo slender crowd notable wasp fatal razor material genuine sugar width load";

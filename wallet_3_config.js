@@ -1,1 +1,1 @@
-var mnemonic = "plug worry rough learn basket bicycle coral flight funny explain party police";
+var mnemonic = "chef sausage long horse sample boil state audit sport thought rack whip";

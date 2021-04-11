@@ -1,1 +1,1 @@
-var mnemonic = "best blast diary refuse exclude pudding three critic debate peasant tilt poverty";
+var mnemonic = "arm asthma glance february height success ship bone clean since device begin";

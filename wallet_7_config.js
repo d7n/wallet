@@ -1,1 +1,1 @@
-var mnemonic = "expand salon phone blouse cactus reunion cousin undo muffin sauce bronze entire";
+var mnemonic = "present alone major elbow learn fragile decrease ripple prevent cruise either scare";

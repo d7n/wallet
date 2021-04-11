@@ -1,1 +1,1 @@
-var mnemonic = "walnut basic second blouse abuse rookie mixed bunker cheese mind ecology flee";
+var mnemonic = "twenty execute spirit drive celery disease cotton fresh brand spike oil benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "feel mind denial inner october tank ensure orange collect dizzy clip wagon";
+var mnemonic = "asthma ordinary fault banner column crater roof episode cruel acid drift math";

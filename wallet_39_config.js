@@ -1,1 +1,1 @@
-var mnemonic = "must company describe area spice tired width memory sunset crop wine unhappy";
+var mnemonic = "spider toast deposit old conduct pottery damage orient boat pupil forward firm";

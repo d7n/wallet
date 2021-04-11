@@ -1,1 +1,1 @@
-var mnemonic = "track describe empty gate blood hat foil over final depth busy galaxy";
+var mnemonic = "woman taste ancient wisdom saddle model victory mystery sand gadget blood exact";

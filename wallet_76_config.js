@@ -1,1 +1,1 @@
-var mnemonic = "push quiz hawk sand swap diagram always fashion film motion mesh history";
+var mnemonic = "rich riot ladder furnace page output title hair subject shy stock sock";

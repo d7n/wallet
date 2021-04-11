@@ -1,1 +1,1 @@
-var mnemonic = "egg rent rug lunar toward reveal scare blade day caution response believe";
+var mnemonic = "swing hero endorse general hero very ordinary soldier exotic whisper strategy monkey";

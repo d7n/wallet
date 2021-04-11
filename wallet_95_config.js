@@ -1,1 +1,1 @@
-var mnemonic = "crunch hill lecture amused shove will among immense gauge excuse garage pave";
+var mnemonic = "pyramid aunt atom noodle timber snap dragon treat dune glow excite rescue";

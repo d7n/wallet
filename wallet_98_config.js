@@ -1,1 +1,1 @@
-var mnemonic = "saddle any kangaroo harsh victory sudden slot minimum culture grape field anchor";
+var mnemonic = "summer van flat fashion solid minor sweet rapid craft hood match coral";

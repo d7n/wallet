@@ -1,1 +1,1 @@
-var mnemonic = "lazy grass they endless time coast zoo dash ketchup opera blossom test";
+var mnemonic = "sword dumb early truth solution rely govern reopen soda liar surface garment";

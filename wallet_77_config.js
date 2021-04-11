@@ -1,1 +1,1 @@
-var mnemonic = "sing glide blade rib angle cruel cruise collect carpet actress pelican sight";
+var mnemonic = "slice misery elbow repair casual vessel saddle supreme scan lawsuit stick mom";

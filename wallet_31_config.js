@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon veteran firm ski rebuild enable armor sock jewel front pilot year";
+var mnemonic = "price unfold liar note sock carry zebra tunnel august cargo broccoli cry";

@@ -1,1 +1,1 @@
-var mnemonic = "panda memory ready fiber stamp tiny notable infant expire mosquito provide ritual";
+var mnemonic = "noise oyster meat wife lounge say tail door such lens egg mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "network dust flash laptop sauce pistol album manual naive enroll steak mystery";
+var mnemonic = "occur lyrics boat copy insect among can acid proof panther couch twelve";

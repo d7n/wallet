@@ -1,1 +1,1 @@
-var mnemonic = "interest client item swarm vacuum wonder topple collect once sea inspire mad";
+var mnemonic = "february cheese few season pioneer exhibit illegal stamp cement else power pair";

@@ -1,1 +1,1 @@
-var mnemonic = "tone goat save pride helmet wolf raw sniff strategy increase hood frown";
+var mnemonic = "top champion project fun great column betray series enemy hat member robust";

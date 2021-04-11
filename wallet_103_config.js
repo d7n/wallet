@@ -1,1 +1,1 @@
-var mnemonic = "usual top snack can sun one demise plate disagree crawl service reject";
+var mnemonic = "shallow wolf muffin avocado blue cabbage quality ritual measure laundry fan moment";

@@ -1,1 +1,1 @@
-var mnemonic = "market genuine avocado deal skirt also purchase cook hold foot ability dinner";
+var mnemonic = "issue tobacco common assist grocery roast lock erosion never amazing gasp visual";

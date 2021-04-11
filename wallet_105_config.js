@@ -1,1 +1,1 @@
-var mnemonic = "resemble tent assist excite smart neck rare kit rich diary flag lamp";
+var mnemonic = "skirt crisp price safe angry myself blush pudding portion dog exist enemy";

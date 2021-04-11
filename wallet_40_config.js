@@ -1,1 +1,1 @@
-var mnemonic = "slam lunch census front disagree gentle cost meat century nurse only moment";
+var mnemonic = "flock whale toy snow winner display zone renew wing melody web bounce";

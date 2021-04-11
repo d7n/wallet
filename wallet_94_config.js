@@ -1,1 +1,1 @@
-var mnemonic = "ugly board pull alter few omit unfair ticket derive crystal museum riot";
+var mnemonic = "sock zero upon reject solar hour initial item shift spike pipe electric";

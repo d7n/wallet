@@ -1,1 +1,1 @@
-var mnemonic = "cart pitch old student ordinary subway habit mirror dolphin swing virus topple";
+var mnemonic = "fade family glare width jazz swamp balcony order title deliver member pledge";

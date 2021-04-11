@@ -1,1 +1,1 @@
-var mnemonic = "special when amount alpha nothing cluster recall great deputy jaguar game discover";
+var mnemonic = "kite naive eager garden eagle hair truly emotion minute dentist burst ostrich";

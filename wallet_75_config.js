@@ -1,1 +1,1 @@
-var mnemonic = "embark menu hurry flock robust honey will radio learn panel october bring";
+var mnemonic = "increase square limb ancient few print limb fortune coffee concert vital cushion";

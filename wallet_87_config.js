@@ -1,1 +1,1 @@
-var mnemonic = "measure flavor pond mother shoot autumn license hint fly list earn bright";
+var mnemonic = "pact wreck test again flock number same celery adjust spin father route";

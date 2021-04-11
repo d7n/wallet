@@ -1,1 +1,1 @@
-var mnemonic = "latin juice unique glad educate unlock relax usual album lazy kangaroo fit";
+var mnemonic = "diesel menu envelope cigar correct light point trap able actor spawn produce";

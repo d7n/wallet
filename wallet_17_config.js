@@ -1,1 +1,1 @@
-var mnemonic = "subject answer aspect flush design stamp hybrid crazy entry alarm cube side";
+var mnemonic = "welcome federal weekend across off street normal erupt enact citizen drum donor";

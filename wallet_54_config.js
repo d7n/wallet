@@ -1,1 +1,1 @@
-var mnemonic = "coach one laugh need relief novel over civil enroll duck half top";
+var mnemonic = "help eye genuine argue endless guitar moral object stuff mind gather shift";

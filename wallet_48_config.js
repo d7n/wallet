@@ -1,1 +1,1 @@
-var mnemonic = "helmet pyramid injury wasp disagree border grow behave picture pioneer spider mandate";
+var mnemonic = "cluster avoid decline pitch great midnight panic inhale lamp stuff cram attitude";

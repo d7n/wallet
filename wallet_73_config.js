@@ -1,1 +1,1 @@
-var mnemonic = "make library electric dance trick brother crane mind tip judge remove craft";
+var mnemonic = "type tornado run foil chat cost odor umbrella donkey salute tissue drift";

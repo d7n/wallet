@@ -1,1 +1,1 @@
-var mnemonic = "slot roast denial machine reflect camera mobile exhibit float orchard please mountain";
+var mnemonic = "robust until squeeze usage syrup dizzy ridge search monster almost planet sell";

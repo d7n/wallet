@@ -1,1 +1,1 @@
-var mnemonic = "brisk plate response curve innocent age action stamp envelope future predict movie";
+var mnemonic = "confirm produce cream smile retreat depend coyote desk cage winter discover include";

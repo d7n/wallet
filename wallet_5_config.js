@@ -1,1 +1,1 @@
-var mnemonic = "gaze boil east decrease bus wheel skirt chaos often bicycle garment wheel";
+var mnemonic = "define pride supply stone game grass skill crystal admit wild gravity essence";

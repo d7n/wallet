@@ -1,1 +1,1 @@
-var mnemonic = "loud blouse carbon series draw busy spawn pony have near door trend";
+var mnemonic = "apple flat arrow rigid spy nothing goat burden wish fly expect embody";

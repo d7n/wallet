@@ -1,1 +1,1 @@
-var mnemonic = "someone symptom injury erode like impact save sand club bulb lift warrior";
+var mnemonic = "bitter income tuna educate cradle push spin shop slight fragile tragic delay";

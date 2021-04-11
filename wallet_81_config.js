@@ -1,1 +1,1 @@
-var mnemonic = "grab forum blade clarify gun rigid program genre dream slab dignity above";
+var mnemonic = "lady excite chase skin cloth amazing ivory goddess art walnut finish liberty";

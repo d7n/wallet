@@ -1,1 +1,1 @@
-var mnemonic = "reduce clerk table moral parade planet access ski cotton egg add end";
+var mnemonic = "social journey sheriff theme stove dish zero inmate bronze wish brave lecture";

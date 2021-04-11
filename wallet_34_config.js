@@ -1,1 +1,1 @@
-var mnemonic = "length actor cup shrimp hover seek ensure cinnamon expand receive slice soldier";
+var mnemonic = "annual utility fix best shaft cat dinosaur dry cargo blouse display extend";

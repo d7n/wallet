@@ -1,1 +1,1 @@
-var mnemonic = "valve combine number sad glide arm true reject depart apple real wreck";
+var mnemonic = "sentence bargain spoon approve lunar olive fine try grace believe rapid identify";

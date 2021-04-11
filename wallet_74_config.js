@@ -1,1 +1,1 @@
-var mnemonic = "multiply supreme achieve idle human renew dilemma indicate will fault popular because";
+var mnemonic = "rent million okay fortune kangaroo nurse silly example habit blouse blue brother";

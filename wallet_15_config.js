@@ -1,1 +1,1 @@
-var mnemonic = "barely riot fat ghost carry dirt arm meadow unique faint quote guilt";
+var mnemonic = "umbrella waste soul source kit ginger envelope game maximum over police scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "gold swap guilt garage attract index tomato exit history woman cycle trust";
+var mnemonic = "manage sound sweet uphold local build return buyer animal illness rain history";

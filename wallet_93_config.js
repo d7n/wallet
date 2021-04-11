@@ -1,1 +1,1 @@
-var mnemonic = "kiwi kingdom tobacco grace midnight lunch still fiscal among slim snow upset";
+var mnemonic = "giraffe stomach bicycle perfect action eight educate order goddess chimney leopard warm";

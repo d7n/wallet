@@ -1,1 +1,1 @@
-var mnemonic = "just game gloom neglect disease maximum expect thumb quantum silent correct wrist";
+var mnemonic = "round pelican you worry tornado drum lecture flight faith furnace crater hybrid";

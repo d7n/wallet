@@ -1,1 +1,1 @@
-var mnemonic = "decade purchase grocery name human list put aerobic cereal isolate soup siren";
+var mnemonic = "taxi near moment since film decade nest artwork scheme maid bright kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "under swift uniform wasp cabin connect reject boss vivid decade pumpkin sting";
+var mnemonic = "mimic flower result pave harsh tape ugly borrow exhibit item coffee diesel";

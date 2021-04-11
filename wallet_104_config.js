@@ -1,1 +1,1 @@
-var mnemonic = "enforce inherit dynamic dry hip nation island image expect bread giraffe maze";
+var mnemonic = "twice explain physical forward draft opinion hood forward hybrid trouble rapid broccoli";

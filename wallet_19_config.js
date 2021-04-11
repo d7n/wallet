@@ -1,1 +1,1 @@
-var mnemonic = "hub noble clay vivid lazy level fancy race tent city pass green";
+var mnemonic = "picture demise habit sugar stairs news dial hip wall speak enemy document";

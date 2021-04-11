@@ -1,1 +1,1 @@
-var mnemonic = "mixed original hammer travel such weasel session idle thank sudden vapor jacket";
+var mnemonic = "reunion know robust soda sugar between resemble rebuild primary burst draw silver";

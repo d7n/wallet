@@ -1,1 +1,1 @@
-var mnemonic = "icon cancel cruise clock better puzzle future spirit phrase warrior cup want";
+var mnemonic = "wisdom better accuse cram charge peasant scare nephew crop early brick february";

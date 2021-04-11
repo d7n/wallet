@@ -1,1 +1,1 @@
-var mnemonic = "core real lobster into jar loud cheese tooth talk hold smile spike";
+var mnemonic = "half traffic ice accuse ankle puppy donkey tourist blood private fire blast";

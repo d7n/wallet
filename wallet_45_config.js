@@ -1,1 +1,1 @@
-var mnemonic = "state candy expand electric more winter stove breeze pattern solve convince cost";
+var mnemonic = "deliver already object pizza nut tower athlete abstract test garden people history";

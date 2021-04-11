@@ -1,1 +1,1 @@
-var mnemonic = "another help hen frog poet egg nature until exercise arch parade normal";
+var mnemonic = "afraid escape radio next rice key roast culture rare desk claw change";

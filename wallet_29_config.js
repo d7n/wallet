@@ -1,1 +1,1 @@
-var mnemonic = "area upset over agent leaf spell rough laundry envelope jar web stone";
+var mnemonic = "pluck zoo country science wisdom trust scale swamp tooth call empty exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd brown mistake layer inject defense spread sniff action basic before annual";
+var mnemonic = "charge session stuff anger pretty nasty glove casual desk ocean spider tone";

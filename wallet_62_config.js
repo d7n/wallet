@@ -1,1 +1,1 @@
-var mnemonic = "crash roof curtain install hair upon dawn physical will rule recipe coin";
+var mnemonic = "jazz lumber clog machine barely seven october vapor wing filter army cycle";

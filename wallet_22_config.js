@@ -1,1 +1,1 @@
-var mnemonic = "around assault case corn addict siege exact fringe stick bracket lens elder";
+var mnemonic = "oxygen rate modify tank sausage neutral hawk update delay deer survey weird";

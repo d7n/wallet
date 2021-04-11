@@ -1,1 +1,1 @@
-var mnemonic = "grab unusual slim pottery camp virus resemble rocket taste hazard genius december";
+var mnemonic = "amount return awake recipe repair armor coil history hard energy dice fall";
