@@ -1,1 +1,1 @@
-var mnemonic = "distance timber figure mass worry keep subject ignore width boost scorpion derive";
+var mnemonic = "bike mountain warrior more virus rhythm brick cave elevator toe reason ritual";

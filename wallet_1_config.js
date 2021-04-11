@@ -1,1 +1,1 @@
-var mnemonic = "spice trap protect magic bounce disorder base kid remain acid deer salt";
+var mnemonic = "throw illness under neutral slam health clock bright midnight rich bargain cement";

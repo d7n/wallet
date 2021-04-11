@@ -1,1 +1,1 @@
-var mnemonic = "mammal save pair nature fiction doll online canyon copy cannon verb call";
+var mnemonic = "grid nest parade network key arrange finger tent box require hope require";

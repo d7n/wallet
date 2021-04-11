@@ -1,1 +1,1 @@
-var mnemonic = "alone broom hello submit purity gather element text decide twice scale chicken";
+var mnemonic = "credit drip inherit banana erase impose atom like detail model pig cat";

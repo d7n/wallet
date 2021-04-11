@@ -1,1 +1,1 @@
-var mnemonic = "old all aim goat estate neither issue material omit predict hire ostrich";
+var mnemonic = "case filter hello upset ball toy chronic fringe cheap dune gesture permit";

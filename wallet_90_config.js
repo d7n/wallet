@@ -1,1 +1,1 @@
-var mnemonic = "doll true runway lock soft weather magic amused machine hurdle mercy viable";
+var mnemonic = "alien view control elegant hobby easily since analyst shrimp want text buddy";

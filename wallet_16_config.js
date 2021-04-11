@@ -1,1 +1,1 @@
-var mnemonic = "loyal essence bench once journey word cannon trophy canal donate zone library";
+var mnemonic = "bullet prefer skirt actress rhythm identify atom suit ask people domain stamp";

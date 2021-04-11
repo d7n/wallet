@@ -1,1 +1,1 @@
-var mnemonic = "help already radio jealous era congress letter rate drum dirt depth come";
+var mnemonic = "blood odor play height mixed grab excess lawsuit sudden phone champion betray";

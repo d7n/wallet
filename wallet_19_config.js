@@ -1,1 +1,1 @@
-var mnemonic = "lab spread use shield draft trick immense poet bone infant stadium vanish";
+var mnemonic = "chronic lava satisfy ancient clinic regular hill dad correct dial inside unlock";

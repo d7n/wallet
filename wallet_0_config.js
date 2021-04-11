@@ -1,1 +1,1 @@
-var mnemonic = "mind toilet radar drive mammal grace female theory hip odor upper best";
+var mnemonic = "lizard body tide drill wire creek current traffic wet now naive city";

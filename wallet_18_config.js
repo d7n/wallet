@@ -1,1 +1,1 @@
-var mnemonic = "liar flavor assist swift subject lend language upset brass engage almost flush";
+var mnemonic = "kingdom spend acid mosquito they deposit town salt nest gauge leader able";

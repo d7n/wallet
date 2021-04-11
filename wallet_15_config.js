@@ -1,1 +1,1 @@
-var mnemonic = "flash chronic impulse brother elevator emerge spin civil keen august upper park";
+var mnemonic = "puppy gift flame inquiry cost flip virus toss napkin remind cradle neither";

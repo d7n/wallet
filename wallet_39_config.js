@@ -1,1 +1,1 @@
-var mnemonic = "surprise wise shiver indicate develop lion used library cluster jar disorder window";
+var mnemonic = "screen excite enjoy boost version action federal calm there post heart giraffe";

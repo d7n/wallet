@@ -1,1 +1,1 @@
-var mnemonic = "film exist buyer liberty genuine poverty craft such eagle develop pigeon brother";
+var mnemonic = "double expire dinosaur amateur guitar evil cinnamon knock pulse still gym acquire";

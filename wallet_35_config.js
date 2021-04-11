@@ -1,1 +1,1 @@
-var mnemonic = "wave culture puppy gift guitar other inject like fitness refuse south express";
+var mnemonic = "delay purchase blossom initial reveal shadow border road aware license trim answer";

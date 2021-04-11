@@ -1,1 +1,1 @@
-var mnemonic = "retire leader roof angle lava outdoor tape reject business learn grid baby";
+var mnemonic = "require book fall damage gravity husband scatter nephew arctic tree short sword";

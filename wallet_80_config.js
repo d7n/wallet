@@ -1,1 +1,1 @@
-var mnemonic = "pigeon fever satoshi struggle entry awesome bargain rule always celery plastic soap";
+var mnemonic = "emerge battle jump mechanic toward exhibit flee race broom barrel female owner";

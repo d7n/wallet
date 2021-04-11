@@ -1,1 +1,1 @@
-var mnemonic = "hammer shy twelve hurry abandon sound saddle machine taxi wrist foot catch";
+var mnemonic = "hungry whisper faith click balance front april eternal misery sibling jaguar day";

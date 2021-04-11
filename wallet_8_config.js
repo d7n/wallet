@@ -1,1 +1,1 @@
-var mnemonic = "sign pear mask increase exhibit tell act grief minute catch inquiry label";
+var mnemonic = "record coil level begin better convince weather truly room unique glimpse clinic";

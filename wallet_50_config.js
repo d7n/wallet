@@ -1,1 +1,1 @@
-var mnemonic = "rich split credit vicious middle logic swift fox hand finish camera will";
+var mnemonic = "path flag sausage afford slow cabin cook view toast wet surround daughter";

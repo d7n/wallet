@@ -1,1 +1,1 @@
-var mnemonic = "heart glow apple truck gallery fitness valid logic dizzy stand soccer normal";
+var mnemonic = "fog mean matter violin raw happy solar spatial group predict bright pill";

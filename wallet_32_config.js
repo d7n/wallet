@@ -1,1 +1,1 @@
-var mnemonic = "jump resist evidence rich final try love club mask theory salad awkward";
+var mnemonic = "avocado special caught robot mask define asthma say glass south youth ketchup";

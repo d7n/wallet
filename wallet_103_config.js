@@ -1,1 +1,1 @@
-var mnemonic = "between lawn what jungle twenty leisure return ethics couple behind wave volcano";
+var mnemonic = "vehicle analyst cattle sell mad charge black room neglect quick general voyage";

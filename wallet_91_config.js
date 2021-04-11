@@ -1,1 +1,1 @@
-var mnemonic = "pool jacket know public market hat vocal verb dad clerk rich ball";
+var mnemonic = "produce message spider crack bus open cream casino mushroom visit venture bonus";

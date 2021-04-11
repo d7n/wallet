@@ -1,1 +1,1 @@
-var mnemonic = "boil alarm private unable gravity vacuum bright brave echo thunder process swift";
+var mnemonic = "shrimp worry crater donor escape obscure near host cricket sadness enrich voyage";

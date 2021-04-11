@@ -1,1 +1,1 @@
-var mnemonic = "usage wear friend orphan mesh young cargo dance stereo army bless plug";
+var mnemonic = "express mule embark apple indicate kidney riot process picnic razor trophy catalog";

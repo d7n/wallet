@@ -1,1 +1,1 @@
-var mnemonic = "illegal oil hour castle caution must above glance ethics arm night hill";
+var mnemonic = "lounge laundry depart lounge laundry junk enable rate crop rescue manage people";

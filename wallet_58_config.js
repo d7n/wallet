@@ -1,1 +1,1 @@
-var mnemonic = "lift assume smoke capable banner fluid allow network tool victory enhance elevator";
+var mnemonic = "film faint prison swallow movie garment palace seed dog balcony equal pattern";

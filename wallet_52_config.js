@@ -1,1 +1,1 @@
-var mnemonic = "company predict please accuse vendor reveal witness little lobster sand grocery item";
+var mnemonic = "damage matrix half various outside swim weapon obey clinic insect carpet sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "bone alarm tent atom scan combine impulse knock when exotic alien upgrade";
+var mnemonic = "decide dragon supply quantum unique pig cost radar antenna unhappy hollow report";

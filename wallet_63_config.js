@@ -1,1 +1,1 @@
-var mnemonic = "myth join simple acid swallow thing art pass amused stay owner cloth";
+var mnemonic = "glory wide steel attract impact emotion lift half dilemma execute category example";

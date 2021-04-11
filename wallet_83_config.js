@@ -1,1 +1,1 @@
-var mnemonic = "water weird cook faculty now negative entire escape dolphin develop agent refuse";
+var mnemonic = "spice solve subway current inherit laundry differ mushroom expand pink buzz inspire";

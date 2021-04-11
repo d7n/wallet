@@ -1,1 +1,1 @@
-var mnemonic = "staff skin retire energy business cotton car hen aerobic coyote bid wing";
+var mnemonic = "cute item pull cigar assist online fresh saddle second educate infant chicken";

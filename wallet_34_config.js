@@ -1,1 +1,1 @@
-var mnemonic = "fitness main place sting muffin piano machine print shuffle forum bird result";
+var mnemonic = "local luxury slide have fix bicycle olympic lend expose abstract wise spring";

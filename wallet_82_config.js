@@ -1,1 +1,1 @@
-var mnemonic = "please diagram child sing all congress scrap cabin dismiss welcome cloud egg";
+var mnemonic = "group ranch situate mad paper rain broccoli judge stool mixed cluster need";

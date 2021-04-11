@@ -1,1 +1,1 @@
-var mnemonic = "smooth sniff special coast slab cute flash city excite velvet luxury reunion";
+var mnemonic = "peace inquiry add dash flush pool own barely day cook manage angry";

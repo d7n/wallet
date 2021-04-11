@@ -1,1 +1,1 @@
-var mnemonic = "special pitch merry such image whisper yard vessel office relief divorce merry";
+var mnemonic = "tank hood radio spoil describe help enhance gas legal digital monkey urge";

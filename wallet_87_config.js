@@ -1,1 +1,1 @@
-var mnemonic = "jump symptom phone ticket razor employ alpha donor catalog senior tackle whip";
+var mnemonic = "cart cannon wedding rose beef debris shaft album case scissors feel turn";

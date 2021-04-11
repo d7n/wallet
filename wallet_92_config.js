@@ -1,1 +1,1 @@
-var mnemonic = "lunch sketch fitness above price crane slide model puzzle way fruit tuition";
+var mnemonic = "blame oppose six actor merry radar day manual cricket jungle embrace fade";

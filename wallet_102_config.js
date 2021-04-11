@@ -1,1 +1,1 @@
-var mnemonic = "pass lemon best mistake tennis dumb climb seat rabbit filter print jeans";
+var mnemonic = "cage praise student cream drop income slender surface never demise small shock";

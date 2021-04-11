@@ -1,1 +1,1 @@
-var mnemonic = "avocado version link kitten rapid cushion guess zero peanut answer inspire slim";
+var mnemonic = "vacant grass cost impact road mother dwarf box glove bike clean grocery";

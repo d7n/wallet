@@ -1,1 +1,1 @@
-var mnemonic = "bamboo way anger oil economy fantasy hunt fold coffee always swear place";
+var mnemonic = "blade novel digital pistol attack tent protect review elegant design neither holiday";

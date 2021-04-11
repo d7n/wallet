@@ -1,1 +1,1 @@
-var mnemonic = "pledge biology arena private sorry kitchen fall seven mixed diagram shop fatal";
+var mnemonic = "next merit vehicle couch obey ski siren order bitter hint lion base";

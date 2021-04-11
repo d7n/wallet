@@ -1,1 +1,1 @@
-var mnemonic = "police boost zoo give home odor scatter avocado own sketch gate salute";
+var mnemonic = "negative salt taste liquid region human fiction menu riot flavor excite light";

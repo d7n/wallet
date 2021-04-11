@@ -1,1 +1,1 @@
-var mnemonic = "army disease elite voice icon present equip legal festival kit piano among";
+var mnemonic = "garage bundle mother giant boring rack uphold hard travel gap object another";

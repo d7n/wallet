@@ -1,1 +1,1 @@
-var mnemonic = "duty agent extend faculty chase style panic purchase carry action salon fragile";
+var mnemonic = "exile vast parrot second camp describe brick ranch people black expect alter";

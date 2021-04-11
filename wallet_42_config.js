@@ -1,1 +1,1 @@
-var mnemonic = "twist board moral keen cereal guilt misery castle candy ancient use trophy";
+var mnemonic = "foster double hammer stumble question park reward coyote clinic lamp floor express";

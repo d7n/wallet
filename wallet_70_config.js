@@ -1,1 +1,1 @@
-var mnemonic = "derive stumble legal remember maid order carry lock cotton leaf donate raw";
+var mnemonic = "six core still tenant move make fine tonight maximum any degree cool";

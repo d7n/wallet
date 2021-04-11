@@ -1,1 +1,1 @@
-var mnemonic = "erosion idea decline jacket ensure fruit usual boring tragic bachelor robot cancel";
+var mnemonic = "video slogan assist mandate lunar afraid ice pill cannon loyal expect immune";

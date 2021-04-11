@@ -1,1 +1,1 @@
-var mnemonic = "hood spy trial fence mix claw sauce album furnace name grit grunt";
+var mnemonic = "rent seek oval deliver razor rude caught lonely copper prefer tone crowd";

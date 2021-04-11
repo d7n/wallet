@@ -1,1 +1,1 @@
-var mnemonic = "accuse industry manage ignore soda crush advice festival awful burden cage response";
+var mnemonic = "emerge intact hawk misery glimpse high exhibit remain blush vendor shell echo";

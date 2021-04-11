@@ -1,1 +1,1 @@
-var mnemonic = "humble rural lottery elite patch ghost barely tortoise oven account economy spin";
+var mnemonic = "fame fruit reflect honey large senior science success distance target song fly";

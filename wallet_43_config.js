@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur fame ecology blood jelly rate inhale hundred purpose warm rice know";
+var mnemonic = "arrange similar creek casino pluck select obey flip scrub walk supreme furnace";

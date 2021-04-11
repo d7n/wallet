@@ -1,1 +1,1 @@
-var mnemonic = "piano devote beauty net load museum staff coyote patrol orchard crazy oak";
+var mnemonic = "junior guilt rain alcohol curve similar apology donate roast toast cram achieve";

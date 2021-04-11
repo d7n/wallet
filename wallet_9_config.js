@@ -1,1 +1,1 @@
-var mnemonic = "potato dust young alley aspect buffalo orphan science prosper blur obey slow";
+var mnemonic = "supreme sniff kiss occur exhaust feature jazz shell pattern together edit member";

@@ -1,1 +1,1 @@
-var mnemonic = "reject rescue decade decrease clip since own chalk diesel outer cereal one";
+var mnemonic = "domain park finish trial mixture grunt rule game mechanic keen voice seek";

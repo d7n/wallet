@@ -1,1 +1,1 @@
-var mnemonic = "grant demise ethics wear bounce miss catch resist nest noble reject cheap";
+var mnemonic = "flat rude betray swap melt elevator smoke pen glide student stone close";

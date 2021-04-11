@@ -1,1 +1,1 @@
-var mnemonic = "volume aerobic note switch matter patch tackle inform own weasel rocket antique";
+var mnemonic = "bonus will hurt coral media rebel tourist where obey either ceiling letter";

@@ -1,1 +1,1 @@
-var mnemonic = "enough feed cook fitness wheat myth tell mountain gain twice album sorry";
+var mnemonic = "among snack spring spoon major ten envelope scorpion bargain dragon man gift";

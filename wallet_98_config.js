@@ -1,1 +1,1 @@
-var mnemonic = "upper place wink jelly basket engine capital ceiling swift myth feel under";
+var mnemonic = "soap know other skill honey improve surface raven help useful ketchup grain";

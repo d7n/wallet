@@ -1,1 +1,1 @@
-var mnemonic = "cloud castle curious grab fetch dragon narrow age sing benefit grow refuse";
+var mnemonic = "illegal predict element upgrade dove eight sketch strike phrase popular life erode";

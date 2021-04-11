@@ -1,1 +1,1 @@
-var mnemonic = "stomach focus resist orange spring claim dirt cube reveal vote lady slam";
+var mnemonic = "eternal ecology sweet ceiling jazz report spirit model weasel decade stuff wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "distance awesome chronic because cruise swim fall vibrant stand catch net girl";
+var mnemonic = "apple iron law call kite moment foster evil rival eye trust skirt";

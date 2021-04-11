@@ -1,1 +1,1 @@
-var mnemonic = "zone face shrimp believe file light cable boil park yard leader comic";
+var mnemonic = "yellow swim napkin enable ahead border comic tone paddle doll produce cage";

@@ -1,1 +1,1 @@
-var mnemonic = "slim horn buffalo chief nuclear deputy mercy resist name spatial fiscal heavy";
+var mnemonic = "profit nerve text device choice come slice despair talk feel flight hurdle";

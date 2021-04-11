@@ -1,1 +1,1 @@
-var mnemonic = "soft attract nominee walk labor camera young garment match save supreme across";
+var mnemonic = "family display fog clarify leisure kid remove royal seminar base arm abstract";

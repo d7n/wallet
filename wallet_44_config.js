@@ -1,1 +1,1 @@
-var mnemonic = "repair rival cupboard position horse speak elite maximum tone apart hint diesel";
+var mnemonic = "wrist forum replace april message nature grocery morning ill dutch genius wear";

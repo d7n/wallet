@@ -1,1 +1,1 @@
-var mnemonic = "clog pact slender thank trim prevent foam open piece endless lyrics target";
+var mnemonic = "keep pet cupboard slim dragon gym orchard consider cross essay attract company";

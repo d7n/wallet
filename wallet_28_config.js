@@ -1,1 +1,1 @@
-var mnemonic = "bless wait tobacco ghost donkey alone mercy tunnel artist mouse leopard buyer";
+var mnemonic = "wonder truck visual soon alarm now tail garment total million dutch system";

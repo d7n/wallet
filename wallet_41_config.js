@@ -1,1 +1,1 @@
-var mnemonic = "group involve history harbor jump letter very sorry issue seek arrange super";
+var mnemonic = "trophy blood roof shy symbol about post welcome kiwi hello eager pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf recall tunnel avoid such hidden sudden depth behind hire list raise";
+var mnemonic = "duty fold live runway crop glue abuse field poverty window joke strike";

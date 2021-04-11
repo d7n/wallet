@@ -1,1 +1,1 @@
-var mnemonic = "fan bright secret link foster enact police opera they kiwi chair flight";
+var mnemonic = "used baby panther leaf all cream tragic example cabbage kit short wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow stadium fly modify rookie duck mule rally prize pottery smooth gorilla";
+var mnemonic = "hover verb debris slender tuna target warfare error main space solid into";

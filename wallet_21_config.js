@@ -1,1 +1,1 @@
-var mnemonic = "shoulder actor ankle rare boat hip hybrid dumb news balcony daughter result";
+var mnemonic = "nasty match hero nuclear fame august fresh truly arrange jacket idle conduct";

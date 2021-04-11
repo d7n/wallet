@@ -1,1 +1,1 @@
-var mnemonic = "subway hockey brush large body punch panel humor radar march slender display";
+var mnemonic = "bulk tiny certain copper olive globe fuel brisk coyote reveal blood churn";

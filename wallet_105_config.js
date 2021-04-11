@@ -1,1 +1,1 @@
-var mnemonic = "stock detail increase health debate become robot unable hurdle door purity method";
+var mnemonic = "amused decorate filter park toddler core decade setup glove view green actor";

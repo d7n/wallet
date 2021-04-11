@@ -1,1 +1,1 @@
-var mnemonic = "island second deliver elevator learn prefer sick cousin orange genuine never holiday";
+var mnemonic = "vendor shrimp move ankle trim flavor correct goat where people slight order";

@@ -1,1 +1,1 @@
-var mnemonic = "love multiply boss egg law must hungry cash burger ring anger pudding";
+var mnemonic = "valid logic toast tornado mass dance eagle cost project author shed tag";

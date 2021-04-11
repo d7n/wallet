@@ -1,1 +1,1 @@
-var mnemonic = "library action ride afraid escape waste unfair erode spell glad rally stand";
+var mnemonic = "letter clap wagon raw rely tomorrow reward rookie annual endorse federal between";

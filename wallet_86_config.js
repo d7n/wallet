@@ -1,1 +1,1 @@
-var mnemonic = "night kitchen tail garment old scrub trap horror north vivid solution episode";
+var mnemonic = "alone runway dizzy enroll warrior bottom thrive decorate kitchen recipe reveal head";

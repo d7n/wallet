@@ -1,1 +1,1 @@
-var mnemonic = "enlist slab capital stage fortune adapt feed survey erode egg acid sphere";
+var mnemonic = "rigid quote fox melt barrel engage anchor balcony unusual advance figure hammer";

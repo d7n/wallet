@@ -1,1 +1,1 @@
-var mnemonic = "language pioneer call estate napkin spread injury point dream course require possible";
+var mnemonic = "problem pigeon comic term illness general toss badge rally stairs surround panel";

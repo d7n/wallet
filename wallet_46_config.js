@@ -1,1 +1,1 @@
-var mnemonic = "success satoshi phrase battle bronze lens lazy avoid slight ripple maze fly";
+var mnemonic = "galaxy drum submit fence cabbage insane camp allow sail cupboard dragon pipe";

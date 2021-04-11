@@ -1,1 +1,1 @@
-var mnemonic = "advance subject fiber clean gospel squirrel palace dog monster cheap wasp three";
+var mnemonic = "flavor whip tornado pretty develop thrive cotton innocent local midnight almost chief";

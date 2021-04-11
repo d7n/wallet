@@ -1,1 +1,1 @@
-var mnemonic = "equip receive network crew major summer cruise useless hedgehog sentence civil roast";
+var mnemonic = "other amount three can destroy vapor fade search rude item install craft";

@@ -1,1 +1,1 @@
-var mnemonic = "oak list marine among cry cause erase silly present atom shoulder garlic";
+var mnemonic = "love clump taxi donate bamboo desert spare student similar flush lonely mixed";

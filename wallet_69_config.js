@@ -1,1 +1,1 @@
-var mnemonic = "suffer diary joy system lobster crowd avocado embrace guilt home canoe vocal";
+var mnemonic = "unusual any gravity adapt exotic nature result tomorrow erase zebra vapor file";

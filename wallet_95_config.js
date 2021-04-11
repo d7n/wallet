@@ -1,1 +1,1 @@
-var mnemonic = "omit live mean bar waste pause spend jacket kiss resist mammal burst";
+var mnemonic = "sound smoke faint dice fashion clay turn ability limb swear horn must";

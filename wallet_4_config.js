@@ -1,1 +1,1 @@
-var mnemonic = "cricket climb airport try traffic bunker oppose clutch feed quarter select prefer";
+var mnemonic = "sketch park year disagree annual sphere often fall youth bean chicken wide";

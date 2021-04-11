@@ -1,1 +1,1 @@
-var mnemonic = "power desert polar buddy chunk culture mountain shadow link frozen hello thrive";
+var mnemonic = "nephew such sense pizza choose cluster bar abstract only that oven seat";

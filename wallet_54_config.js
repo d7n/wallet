@@ -1,1 +1,1 @@
-var mnemonic = "anchor ritual panic grit dose hurdle city rose item mention soul rival";
+var mnemonic = "naive bamboo web option volume basic donkey staff upper net soul outer";
