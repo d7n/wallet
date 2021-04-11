@@ -1,1 +1,1 @@
-var mnemonic = "lottery promote ramp fly faculty nut scorpion hood orchard athlete motor path";
+var mnemonic = "gas ring cabbage penalty sorry almost cherry entry episode later naive coyote";

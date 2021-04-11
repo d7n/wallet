@@ -1,1 +1,1 @@
-var mnemonic = "prison stem reunion home sting casual powder cherry bunker water giggle dad";
+var mnemonic = "news disorder page raccoon mushroom deny mind north carpet merit sea dune";

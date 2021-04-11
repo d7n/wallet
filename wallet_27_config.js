@@ -1,1 +1,1 @@
-var mnemonic = "wave cherry crucial crystal put sweet access scout bitter nephew cattle sight";
+var mnemonic = "unusual what able decrease tomorrow excess add close bone smooth lawn minor";

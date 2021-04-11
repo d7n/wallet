@@ -1,1 +1,1 @@
-var mnemonic = "confirm balcony prize wagon lizard century wide win night company clown double";
+var mnemonic = "word issue will endorse theme leader income lesson cereal cruise caution trial";

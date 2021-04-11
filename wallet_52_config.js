@@ -1,1 +1,1 @@
-var mnemonic = "budget another morning split lizard surprise buyer immune earth unhappy accident general";
+var mnemonic = "option pottery crack glass young million winner random camera miracle acquire success";

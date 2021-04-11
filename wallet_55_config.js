@@ -1,1 +1,1 @@
-var mnemonic = "egg grit second exist reflect fit vehicle sister local drive hamster muffin";
+var mnemonic = "inmate prosper arrange jaguar uniform high virtual wing wear example myself script";

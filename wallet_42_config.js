@@ -1,1 +1,1 @@
-var mnemonic = "seed fiction habit fever where edge describe verb divert humor write online";
+var mnemonic = "fit dwarf crane farm move enlist corn blast crumble busy impact major";

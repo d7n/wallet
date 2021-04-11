@@ -1,1 +1,1 @@
-var mnemonic = "shuffle jungle saddle title mom double donate wide grape protect coconut worth";
+var mnemonic = "caution coyote final oval flavor lemon buzz ticket affair clay office youth";

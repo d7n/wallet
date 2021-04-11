@@ -1,1 +1,1 @@
-var mnemonic = "load chair rabbit mask bounce liquid design master hood crane bring length";
+var mnemonic = "anger change coral pull enlist puppy opera vicious local poem remind bind";

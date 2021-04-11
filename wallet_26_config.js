@@ -1,1 +1,1 @@
-var mnemonic = "glare fly kingdom void gift area also include warrior cost patient strong";
+var mnemonic = "decline alter envelope hungry size summer humor wave isolate science heavy wait";

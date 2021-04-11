@@ -1,1 +1,1 @@
-var mnemonic = "fire rebuild permit lab whisper window slow tuition invite exercise cute trust";
+var mnemonic = "bar end dismiss endorse liberty eyebrow renew impulse balance hello mimic toss";

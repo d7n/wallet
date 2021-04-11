@@ -1,1 +1,1 @@
-var mnemonic = "person theory cushion erupt find require lizard pole swift curtain metal rent";
+var mnemonic = "notable water lobster shed update close decrease enjoy mobile coral wire cat";

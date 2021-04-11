@@ -1,1 +1,1 @@
-var mnemonic = "young label father dinner when size pet float scissors useful child mirror";
+var mnemonic = "rotate vessel couple install crack retire hire sun rural depth reject heavy";

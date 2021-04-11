@@ -1,1 +1,1 @@
-var mnemonic = "box chaos quantum approve rubber asset view vacant window toward pond cheese";
+var mnemonic = "develop infant wish wash brain outdoor truck nominee emerge finish student senior";

@@ -1,1 +1,1 @@
-var mnemonic = "banner confirm trumpet velvet carry occur organ inner turtle fan scale blouse";
+var mnemonic = "night tissue dress unfold hotel rescue carpet cruise tag rotate join shock";

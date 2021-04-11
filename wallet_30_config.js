@@ -1,1 +1,1 @@
-var mnemonic = "bonus innocent valve mansion insane traffic shock advice spin void spoil injury";
+var mnemonic = "betray refuse museum law peanut month canvas sock pink drift wife walk";

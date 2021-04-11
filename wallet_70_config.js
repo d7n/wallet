@@ -1,1 +1,1 @@
-var mnemonic = "result welcome moment busy swing motor inquiry dragon warrior accident shoulder impact";
+var mnemonic = "honey congress garage method client wet hero display rotate elbow suspect ankle";

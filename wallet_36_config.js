@@ -1,1 +1,1 @@
-var mnemonic = "clog fold car nose polar buffalo inherit pool kick off next civil";
+var mnemonic = "force mom auction about hospital setup skin way vendor often route remain";

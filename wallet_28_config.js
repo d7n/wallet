@@ -1,1 +1,1 @@
-var mnemonic = "symptom primary april slam velvet erode pencil coconut sign enrich figure repair";
+var mnemonic = "gate gossip moment join this radar huge hub frame wise gossip blade";

@@ -1,1 +1,1 @@
-var mnemonic = "chase weapon resemble chase holiday grunt genius goose panel north visit burden";
+var mnemonic = "reject captain harbor artist suffer tip game nephew dry faith unable average";

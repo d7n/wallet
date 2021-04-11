@@ -1,1 +1,1 @@
-var mnemonic = "music visa iron mother wasp library safe shaft enforce mix hard foam";
+var mnemonic = "raw rubber glory embody destroy ritual video bullet hint aerobic adjust shop";

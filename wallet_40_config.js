@@ -1,1 +1,1 @@
-var mnemonic = "manual often attack pass actress memory sausage senior draw wine arrive engine";
+var mnemonic = "nation urban rigid news kit virtual razor admit ill harsh seat museum";

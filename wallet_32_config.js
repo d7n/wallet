@@ -1,1 +1,1 @@
-var mnemonic = "lobster account cement head cricket pilot clap wear marine muscle visual brick";
+var mnemonic = "drift tower spell little sample fly raise until spring purchase swarm toast";

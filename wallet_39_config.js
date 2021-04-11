@@ -1,1 +1,1 @@
-var mnemonic = "coast carbon ugly ice boost wall hidden party hold truly mushroom grit";
+var mnemonic = "fluid aspect peasant hair blood pottery fire latin token cover clap switch";

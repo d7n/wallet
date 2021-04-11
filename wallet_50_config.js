@@ -1,1 +1,1 @@
-var mnemonic = "loan census decrease excuse garment abuse eight bubble color path fossil culture";
+var mnemonic = "degree music close open swallow garment can ritual author economy pencil enjoy";

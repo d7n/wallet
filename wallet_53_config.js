@@ -1,1 +1,1 @@
-var mnemonic = "pair tilt license system equal whisper hundred forget sound tide type artist";
+var mnemonic = "flash predict sunny wood toilet wonder strike pink lava better shed bleak";

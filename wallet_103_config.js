@@ -1,1 +1,1 @@
-var mnemonic = "trick general supply teach sight execute grief palm false frequent note winner";
+var mnemonic = "nose typical path blue deny turtle nominee push tilt lawsuit second hold";

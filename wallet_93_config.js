@@ -1,1 +1,1 @@
-var mnemonic = "arrange close build social length guess tape fashion juice tattoo inner cry";
+var mnemonic = "twist october recycle please unique dragon open demise soldier orphan blanket fine";

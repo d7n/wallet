@@ -1,1 +1,1 @@
-var mnemonic = "arrow pencil evolve share culture swamp armor sun rebuild skirt just goose";
+var mnemonic = "furnace talk much group maple rebuild water diary name mansion cannon adjust";

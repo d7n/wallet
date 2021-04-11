@@ -1,1 +1,1 @@
-var mnemonic = "main chuckle elevator hurdle brush fetch resist field seed urge evidence appear";
+var mnemonic = "choice love door ill cupboard grit account jar village resource force woman";

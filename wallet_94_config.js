@@ -1,1 +1,1 @@
-var mnemonic = "monitor main exchange little unique shadow manage buddy pepper kite pause narrow";
+var mnemonic = "jungle key lizard glide position reform pigeon dismiss head pilot slush purchase";

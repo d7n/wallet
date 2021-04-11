@@ -1,1 +1,1 @@
-var mnemonic = "great cram labor another endless priority must weird once slim review worry";
+var mnemonic = "output rescue return drama clock open satoshi science deal enough merge suffer";

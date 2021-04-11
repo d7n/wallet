@@ -1,1 +1,1 @@
-var mnemonic = "home mass drill next curve canyon snow produce fluid salon aware adult";
+var mnemonic = "bomb depend machine desk quick yard end visa accuse great decrease poem";

@@ -1,1 +1,1 @@
-var mnemonic = "viable keep outside yellow stone cluster crush member provide dinner goat load";
+var mnemonic = "dragon mandate sustain element dream file will furnace control viable cruel talk";

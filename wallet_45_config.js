@@ -1,1 +1,1 @@
-var mnemonic = "chicken error hamster vendor faint rule service category pottery tide perfect virus";
+var mnemonic = "when tip mother rack chase long spawn knock awful behave hurt pipe";

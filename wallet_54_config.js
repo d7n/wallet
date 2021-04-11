@@ -1,1 +1,1 @@
-var mnemonic = "fantasy foster issue know census ability door scissors sibling upper inmate able";
+var mnemonic = "enforce run inmate install ice town cross wash mushroom advice main select";

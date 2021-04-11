@@ -1,1 +1,1 @@
-var mnemonic = "foam good rose rose tennis decide meadow orient visit tourist decide traffic";
+var mnemonic = "network mule certain dash open entire snake tennis crash host scale student";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf scale asthma gas also addict rail dragon step horse brown panda";
+var mnemonic = "spend oak fence cradle stumble change cupboard ketchup furnace wasp auction square";

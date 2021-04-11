@@ -1,1 +1,1 @@
-var mnemonic = "napkin trip begin mutual treat girl shield flee program rival charge elbow";
+var mnemonic = "assault wet garbage gentle purpose rookie easy stereo glimpse ocean over tenant";

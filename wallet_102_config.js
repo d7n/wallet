@@ -1,1 +1,1 @@
-var mnemonic = "arrow actual network gesture repeat attitude wrestle deposit able very glide soul";
+var mnemonic = "reunion spice lizard bench crane top among divert smooth ocean antenna raw";

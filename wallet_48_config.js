@@ -1,1 +1,1 @@
-var mnemonic = "wine train liar country strong tree acid jungle toward theory extend upset";
+var mnemonic = "try public oppose omit artwork drive among above gold baby village hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual wrestle custom hidden web culture expect ability donate execute love illegal";
+var mnemonic = "earn goddess explain cargo devote issue depart pretty replace squeeze ordinary tennis";

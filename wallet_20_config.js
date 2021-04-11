@@ -1,1 +1,1 @@
-var mnemonic = "volume similar fortune joy select thumb seat host output robust confirm dust";
+var mnemonic = "poem dinner siege shadow purse usual minor employ hero border bracket planet";

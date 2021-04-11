@@ -1,1 +1,1 @@
-var mnemonic = "faith thought slab peasant frost kite enact pulse box security dynamic allow";
+var mnemonic = "bird keen cool private swallow crumble gun toilet pave embody latin heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky repair trial mistake clown special creek pact hero street jeans scout";
+var mnemonic = "kick advice high protect piano dune burst kitten sign praise hotel cave";

@@ -1,1 +1,1 @@
-var mnemonic = "source segment eternal scorpion chuckle donkey beach good spike mouse nurse club";
+var mnemonic = "assist base jazz mesh mirror left bring blouse mystery envelope sweet connect";

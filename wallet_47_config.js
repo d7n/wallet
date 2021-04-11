@@ -1,1 +1,1 @@
-var mnemonic = "piece history garage point train seminar race now eyebrow blush bird bag";
+var mnemonic = "sauce napkin decade lady series double firm knee salute soul nurse extend";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt tide order surface hurt mother decrease blue tackle sense negative agree";
+var mnemonic = "juice nest reason icon focus real peasant clinic badge inquiry clap labor";

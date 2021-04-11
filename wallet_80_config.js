@@ -1,1 +1,1 @@
-var mnemonic = "giant lunch puzzle diamond wink west pistol grocery enhance expand arena strategy";
+var mnemonic = "luxury canvas bean rack goddess wisdom exhibit basket huge canoe term dutch";

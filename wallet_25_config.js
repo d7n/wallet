@@ -1,1 +1,1 @@
-var mnemonic = "fresh youth media wear tennis expand alcohol fruit repeat brisk flush toddler";
+var mnemonic = "arrange quarter unlock burger insect spatial whale spike elder glad blur below";

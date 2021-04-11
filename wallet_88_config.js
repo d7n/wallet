@@ -1,1 +1,1 @@
-var mnemonic = "ceiling about person pelican unable canoe assist rookie bike favorite pipe fantasy";
+var mnemonic = "sweet supreme front fossil turtle found virus appear change liar gate spot";

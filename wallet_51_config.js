@@ -1,1 +1,1 @@
-var mnemonic = "list habit journey grant profit aim accuse report limit never magnet buddy";
+var mnemonic = "bind loop lizard amused tide effort member menu seven brisk horn custom";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum exile key replace sock frost month any leg awesome skull print";
+var mnemonic = "goose person oblige track juice warfare stereo force sugar include wasp struggle";

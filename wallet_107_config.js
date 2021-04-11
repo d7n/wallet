@@ -1,1 +1,1 @@
-var mnemonic = "face anchor drink figure exercise ripple name prosper thrive cliff inhale injury";
+var mnemonic = "segment chest prosper tackle cheap deny barely puppy edit domain beach hard";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle orbit ostrich flat chief undo salon sponsor lyrics shadow attract squeeze";
+var mnemonic = "fortune boat siege remain coil glass scan bicycle apple leader shadow traffic";

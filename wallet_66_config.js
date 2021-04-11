@@ -1,1 +1,1 @@
-var mnemonic = "member round network just broccoli focus dynamic strategy neutral ability tongue flush";
+var mnemonic = "rely gown birth renew opera blame master arena tourist system lens laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "day topple cactus initial argue curtain dose what labor ancient gaze lion";
+var mnemonic = "veteran drop pioneer print move diamond car morning hurt party trap defy";

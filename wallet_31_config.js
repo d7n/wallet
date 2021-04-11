@@ -1,1 +1,1 @@
-var mnemonic = "street biology shield fold talk express slab coconut issue easy anger market";
+var mnemonic = "voyage drink kiwi awake pony cycle volume embody casino candy grace swarm";

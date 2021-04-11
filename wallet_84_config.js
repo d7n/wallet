@@ -1,1 +1,1 @@
-var mnemonic = "regular rice mother yard feature music nasty athlete bean token orient night";
+var mnemonic = "umbrella lab miracle cable baby industry critic sound right avoid clinic lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "employ enforce tray balcony hard ridge dirt stock magic fluid protect cereal";
+var mnemonic = "help dismiss salad month example section novel lunch marine illness near unique";

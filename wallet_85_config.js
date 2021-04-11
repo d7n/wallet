@@ -1,1 +1,1 @@
-var mnemonic = "youth slide forum annual paddle flower humor chair obey inflict goddess champion";
+var mnemonic = "salmon pottery depend wild police husband sing special asset behave accident penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "damage cluster estate middle polar swear horror actor mouse then rebuild point";
+var mnemonic = "bonus stove hotel half label wet forum color lottery target usual wood";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt parrot menu seminar grief awful replace asset van grace crowd either";
+var mnemonic = "arrow inmate host surge random range iron neck wide gentle route divide";

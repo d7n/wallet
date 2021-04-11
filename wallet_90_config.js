@@ -1,1 +1,1 @@
-var mnemonic = "scan cable autumn snow team nerve law impose thumb cover soul into";
+var mnemonic = "ugly magnet behave neglect scissors illness device nominee slogan mango delay winner";

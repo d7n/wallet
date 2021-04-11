@@ -1,1 +1,1 @@
-var mnemonic = "trap cake trigger wheel miracle project talk tag powder pigeon clock bright";
+var mnemonic = "poverty steel skate ranch glimpse mesh boost plate venue gorilla humble brown";

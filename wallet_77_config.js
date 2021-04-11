@@ -1,1 +1,1 @@
-var mnemonic = "unhappy park fatigue avoid scrub forum funny afraid circle laptop thank satisfy";
+var mnemonic = "leaf purity horn educate lawsuit victory dream control pole hundred trip green";

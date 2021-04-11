@@ -1,1 +1,1 @@
-var mnemonic = "bacon fox match van uphold pear define travel amateur roof cart judge";
+var mnemonic = "fortune when stem hat wasp busy collect buzz alpha august upon fault";

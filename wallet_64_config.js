@@ -1,1 +1,1 @@
-var mnemonic = "dutch pig bomb view document still badge code skirt inch plug cross";
+var mnemonic = "today trick aisle salute cliff know alert left local autumn ceiling ghost";

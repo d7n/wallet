@@ -1,1 +1,1 @@
-var mnemonic = "travel pudding unique keep sponsor defy twin ugly miracle twenty glow category";
+var mnemonic = "laptop cricket hollow toilet problem tide arrest industry sad embark soft sock";

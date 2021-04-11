@@ -1,1 +1,1 @@
-var mnemonic = "erase borrow medal soccer local vessel whip milk city stock wrap excite";
+var mnemonic = "gift pencil record crystal armed film final educate wasp drum laptop brisk";

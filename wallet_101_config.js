@@ -1,1 +1,1 @@
-var mnemonic = "crystal input face coral stadium guard improve crush combine hybrid asthma dial";
+var mnemonic = "fat cart balance estate receive speak city hazard siege obey fury dirt";

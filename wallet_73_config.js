@@ -1,1 +1,1 @@
-var mnemonic = "melt myself relief pond east bacon illegal armed canyon nuclear merge daughter";
+var mnemonic = "history jeans run gloom antenna casino hip idea oyster satoshi exhibit mimic";

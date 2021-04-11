@@ -1,1 +1,1 @@
-var mnemonic = "pudding bachelor follow belt system cup economy festival easy truck carbon science";
+var mnemonic = "spatial rice thrive crucial frequent laptop oil all shove select wood spatial";

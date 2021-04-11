@@ -1,1 +1,1 @@
-var mnemonic = "patch wine clip bargain fan honey idea sort shrug hollow damp whale";
+var mnemonic = "ritual south gap choice wolf bleak cousin crowd thank cattle tribe grocery";

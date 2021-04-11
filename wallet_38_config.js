@@ -1,1 +1,1 @@
-var mnemonic = "have allow umbrella coral sustain color exile guard tornado dry stumble unique";
+var mnemonic = "print assume gather slush barrel asthma fine paddle cereal hurt flee under";

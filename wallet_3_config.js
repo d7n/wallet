@@ -1,1 +1,1 @@
-var mnemonic = "behind vote donkey future ancient digital second whisper economy expose cave assault";
+var mnemonic = "find call jump element claim travel sign usage country junior purpose account";

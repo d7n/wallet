@@ -1,1 +1,1 @@
-var mnemonic = "upset lucky easy ladder defense profit federal wage dirt anger salmon devote";
+var mnemonic = "reveal fit brand young canvas clock ask comfort hotel exit wire market";

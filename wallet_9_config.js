@@ -1,1 +1,1 @@
-var mnemonic = "mystery fever wheat bachelor stand luggage coconut vital actual worry name deny";
+var mnemonic = "yard raven output tornado jar depend switch picnic mule review scrub cute";

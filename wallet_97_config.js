@@ -1,1 +1,1 @@
-var mnemonic = "fruit broken universe favorite dumb rural defense decline federal sad polar jealous";
+var mnemonic = "slam dust around vast hint goddess chase giraffe dirt rescue sustain icon";

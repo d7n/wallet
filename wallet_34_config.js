@@ -1,1 +1,1 @@
-var mnemonic = "silent brain citizen cement phone spell rain differ snow life uniform valid";
+var mnemonic = "penalty frequent test economy upgrade robust arm roof way raise stereo current";

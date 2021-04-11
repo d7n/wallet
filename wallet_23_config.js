@@ -1,1 +1,1 @@
-var mnemonic = "athlete cart bullet burger angle oval leader canyon family shine nominee meat";
+var mnemonic = "sugar sauce reason torch conduct trash recall loan word bar fall coin";

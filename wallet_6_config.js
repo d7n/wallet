@@ -1,1 +1,1 @@
-var mnemonic = "nose afford vicious champion dry suspect again night language clump dawn collect";
+var mnemonic = "odor settle cheap leg reward two among betray youth crowd vibrant inject";

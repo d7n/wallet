@@ -1,1 +1,1 @@
-var mnemonic = "notable mix render agent dial keep pistol often symptom ecology quit raise";
+var mnemonic = "benefit dove fly vast vanish boat advance burst busy worth chef web";

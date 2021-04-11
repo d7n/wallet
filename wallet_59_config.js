@@ -1,1 +1,1 @@
-var mnemonic = "scale pause mobile floor vivid salmon crazy father cinnamon pumpkin ankle reunion";
+var mnemonic = "design hat stool give target unusual draw join this erode inmate soda";

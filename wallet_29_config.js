@@ -1,1 +1,1 @@
-var mnemonic = "inquiry sniff pigeon task decrease write creek case illegal circle canvas fresh";
+var mnemonic = "angry high position talk decade way destroy suffer certain yellow enemy remind";

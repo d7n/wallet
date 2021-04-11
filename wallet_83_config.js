@@ -1,1 +1,1 @@
-var mnemonic = "fault fox merit faint canoe loud quiz size museum omit culture harbor";
+var mnemonic = "tomato grief title drip addict state have essence drink confirm wonder filter";
