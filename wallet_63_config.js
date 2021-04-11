@@ -1,1 +1,1 @@
-var mnemonic = "arm peanut valid pluck census mixed focus pen grunt echo result shoe";
+var mnemonic = "culture torch pretty immune horn couch paper sight boy what man hero";

@@ -1,1 +1,1 @@
-var mnemonic = "word pass faculty shop pudding track sadness fox filter kid salt shop";
+var mnemonic = "spawn cage next axis match little viable fossil swallow labor radar invest";

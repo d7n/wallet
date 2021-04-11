@@ -1,1 +1,1 @@
-var mnemonic = "text fruit start trigger outside will furnace essay craft raccoon school saddle";
+var mnemonic = "lesson void trust acquire surge nominee tell rough paper promote undo breeze";

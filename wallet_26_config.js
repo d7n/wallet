@@ -1,1 +1,1 @@
-var mnemonic = "dash valid maid melody reopen sniff dentist replace steel pilot soccer skate";
+var mnemonic = "only verb flee profit fox solid truth honey woman ostrich embrace fish";

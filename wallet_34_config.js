@@ -1,1 +1,1 @@
-var mnemonic = "reason build glass wonder chat leg little drastic survey analyst office agree";
+var mnemonic = "gossip jewel depth eternal hospital unfold crucial upset benefit coach high hole";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe gas firm error desert olympic combine eagle sugar culture defy warrior";
+var mnemonic = "heart green attack matter comic lesson impulse enlist page pull badge ramp";

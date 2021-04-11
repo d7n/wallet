@@ -1,1 +1,1 @@
-var mnemonic = "chest accuse december steel job spice false dash broken assault tattoo oyster";
+var mnemonic = "cause floor rail ugly collect update grass utility movie animal flag leisure";

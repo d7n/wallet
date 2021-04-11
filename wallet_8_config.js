@@ -1,1 +1,1 @@
-var mnemonic = "alarm artist vast badge toward know fabric museum blouse soup minimum tomato";
+var mnemonic = "peasant tank more seek army jealous quote verify proof worry cruel oak";

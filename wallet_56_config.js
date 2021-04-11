@@ -1,1 +1,1 @@
-var mnemonic = "hover kangaroo inmate category explain raccoon electric museum cereal solve brand crowd";
+var mnemonic = "spend advice next will try seat cereal marine feel banner wool sauce";

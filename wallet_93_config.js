@@ -1,1 +1,1 @@
-var mnemonic = "chief replace verb oval exhibit offer chunk light fortune orphan lonely enjoy";
+var mnemonic = "tongue crime reunion rent afraid state ridge august journey steel canvas jaguar";

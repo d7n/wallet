@@ -1,1 +1,1 @@
-var mnemonic = "you enforce absorb loop nominee today elbow spare second post orbit thrive";
+var mnemonic = "erase judge recycle syrup tiger ticket gate snake lunar bundle glance casual";

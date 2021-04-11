@@ -1,1 +1,1 @@
-var mnemonic = "sad fury essay civil miracle spice exist cabin shuffle laugh ghost panic";
+var mnemonic = "fault tone abandon crane teach one envelope village web lyrics powder insane";

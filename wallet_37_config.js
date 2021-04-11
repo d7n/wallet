@@ -1,1 +1,1 @@
-var mnemonic = "behind crisp frost frog creek skull slow hub episode mandate episode time";
+var mnemonic = "category glimpse maid poet stereo anger october imitate impulse sight edge crisp";

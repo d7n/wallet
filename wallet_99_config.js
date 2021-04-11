@@ -1,1 +1,1 @@
-var mnemonic = "actual path assist unfold favorite typical help damage income eye clown near";
+var mnemonic = "infant typical civil width reason cube place broccoli hint badge unveil hunt";

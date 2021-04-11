@@ -1,1 +1,1 @@
-var mnemonic = "sound rookie pull borrow wisdom cram before hotel knee almost neutral owner";
+var mnemonic = "motion year club hazard amazing flower fix ripple casual music exercise possible";

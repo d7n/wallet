@@ -1,1 +1,1 @@
-var mnemonic = "female cloth celery rack cotton exile stamp laugh slight must snake tilt";
+var mnemonic = "giggle police avocado diamond culture expand distance ecology galaxy race agent hundred";

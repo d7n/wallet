@@ -1,1 +1,1 @@
-var mnemonic = "crouch tattoo patient oil elder laugh cherry jar unfold elder injury wedding";
+var mnemonic = "regular ticket siren cook census abandon govern agent equip waste forward number";

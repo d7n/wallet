@@ -1,1 +1,1 @@
-var mnemonic = "step suffer perfect sight conduct tumble series tent dinosaur radio better glory";
+var mnemonic = "before once protect credit drip plastic length desk page raise stairs master";

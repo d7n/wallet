@@ -1,1 +1,1 @@
-var mnemonic = "used toilet tiger dirt auction phone fee weather dumb advice twice protect";
+var mnemonic = "eyebrow attitude return daughter run dizzy chief proud romance fault luggage junk";

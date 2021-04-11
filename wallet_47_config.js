@@ -1,1 +1,1 @@
-var mnemonic = "tonight have vast vocal alert utility bike like absent tortoise bright injury";
+var mnemonic = "advice ivory sweet pig idle spin congress input squeeze expand pledge kitchen";

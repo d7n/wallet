@@ -1,1 +1,1 @@
-var mnemonic = "plastic finger submit surround isolate foot coffee ancient uncle crew void wrong";
+var mnemonic = "chest siege arrive stem drift flash orphan type jeans recipe artwork popular";

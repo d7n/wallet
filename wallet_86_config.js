@@ -1,1 +1,1 @@
-var mnemonic = "print certain crew report web shoulder dream finger benefit rare electric recycle";
+var mnemonic = "that soap below eyebrow hurt explain olive finish family bone fox claim";

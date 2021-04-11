@@ -1,1 +1,1 @@
-var mnemonic = "birth lab hurdle outer palm menu title wonder core assault fiber umbrella";
+var mnemonic = "mechanic deny leg spot unusual chair purchase club neither water hub author";

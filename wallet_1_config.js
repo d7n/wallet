@@ -1,1 +1,1 @@
-var mnemonic = "drift square embrace exile whale history slice disagree need ivory loyal doll";
+var mnemonic = "plunge joy alpha shell install sunny alien proof point label machine rival";

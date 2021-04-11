@@ -1,1 +1,1 @@
-var mnemonic = "section size diary position morning project employ friend will surround sustain route";
+var mnemonic = "drift found wing vanish patrol garlic vital round will follow table cover";

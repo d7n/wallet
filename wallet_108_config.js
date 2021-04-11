@@ -1,1 +1,1 @@
-var mnemonic = "hotel cabbage shove gauge stadium narrow deer range sort purchase resist loan";
+var mnemonic = "artefact thumb pupil menu multiply cheese frog speak drill visit master ask";

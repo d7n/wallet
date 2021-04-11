@@ -1,1 +1,1 @@
-var mnemonic = "deny analyst shock miracle version gorilla bus source tennis hundred shock salad";
+var mnemonic = "river frequent shaft street paddle coil minimum ice taste view dentist doctor";

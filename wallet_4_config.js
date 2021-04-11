@@ -1,1 +1,1 @@
-var mnemonic = "napkin crumble dry fashion screen toy slight glad since bachelor upper ostrich";
+var mnemonic = "burden paddle woman police conduct buyer safe juice harvest clock wave pact";

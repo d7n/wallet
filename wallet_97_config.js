@@ -1,1 +1,1 @@
-var mnemonic = "outdoor share job relief never scatter palace parade pen nasty lumber fly";
+var mnemonic = "embrace elevator video ski moment trial limb life cup finger fault feature";

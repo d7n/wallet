@@ -1,1 +1,1 @@
-var mnemonic = "upon dish episode awake amount lava verb crucial flock infant answer occur";
+var mnemonic = "mystery talk learn flush fade sure zoo brick clever craft layer indicate";

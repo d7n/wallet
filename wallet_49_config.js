@@ -1,1 +1,1 @@
-var mnemonic = "hip execute right cool only opera crash gain song vanish liar cage";
+var mnemonic = "friend invest ridge appear ridge provide warrior borrow toast month damage sniff";

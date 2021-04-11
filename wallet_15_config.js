@@ -1,1 +1,1 @@
-var mnemonic = "kid cargo police peasant space element slam carbon comfort half goat prosper";
+var mnemonic = "inflict emotion remember mixed kidney bulb hat photo main magnet rule run";

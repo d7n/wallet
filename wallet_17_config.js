@@ -1,1 +1,1 @@
-var mnemonic = "pet betray monkey wire begin bar hill march dove shiver april frown";
+var mnemonic = "swarm mutual end scale enroll subject multiply original mail buyer horn section";

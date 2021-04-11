@@ -1,1 +1,1 @@
-var mnemonic = "shoe catch worth visual party entire spatial arrive interest combine expand govern";
+var mnemonic = "drip flame artist taxi prize kingdom parrot segment planet lake demand harbor";

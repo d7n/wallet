@@ -1,1 +1,1 @@
-var mnemonic = "office trick surface escape glimpse fame gallery close fiscal matter hour narrow";
+var mnemonic = "hand display become cupboard cool side someone word velvet elder gain text";

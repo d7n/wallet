@@ -1,1 +1,1 @@
-var mnemonic = "stove slogan security box wide vessel grant tiny arrange sign bronze win";
+var mnemonic = "foot human route fence nasty asthma spatial mixed army matrix express salt";

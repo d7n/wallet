@@ -1,1 +1,1 @@
-var mnemonic = "brown film left funny desert kite bread word pair false history monkey";
+var mnemonic = "gallery seek admit wedding cram buyer what stem kiss amused festival cattle";

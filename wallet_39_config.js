@@ -1,1 +1,1 @@
-var mnemonic = "palace chuckle key maximum eight wage shadow cement cart picnic online move";
+var mnemonic = "salon salt outer oval budget valid grit cable slow above avocado prefer";

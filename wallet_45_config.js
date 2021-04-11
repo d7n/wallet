@@ -1,1 +1,1 @@
-var mnemonic = "car laugh board tell solution genuine trade crisp amateur resist remind great";
+var mnemonic = "census mammal alter bread arctic cereal animal sibling swear chat unique mom";

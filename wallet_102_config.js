@@ -1,1 +1,1 @@
-var mnemonic = "salute garden trend trouble gospel leopard upgrade inspire churn shove zebra capable";
+var mnemonic = "rude orbit wet job swift boil urge scare vast rain shop zero";

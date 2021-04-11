@@ -1,1 +1,1 @@
-var mnemonic = "pretty number garment ship ankle beef essay bulb resemble hungry mountain maple";
+var mnemonic = "region glad volume strong capital again strike victory bless mix slot road";

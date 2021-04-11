@@ -1,1 +1,1 @@
-var mnemonic = "shell ancient flee then over abstract clay aunt liar lawsuit core flee";
+var mnemonic = "snow only priority monkey trumpet naive embark mule work addict okay dynamic";

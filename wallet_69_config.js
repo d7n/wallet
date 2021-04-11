@@ -1,1 +1,1 @@
-var mnemonic = "milk crucial hidden empty much thank whip engage disorder defense risk radar";
+var mnemonic = "palm wire nasty later sock trophy uncle wear smooth festival tortoise ranch";

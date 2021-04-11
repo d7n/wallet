@@ -1,1 +1,1 @@
-var mnemonic = "oxygen fabric inflict faint guard tomorrow swallow vague enrich song chair only";
+var mnemonic = "cruel mobile powder mandate lava strong hood finish judge easy seat stand";

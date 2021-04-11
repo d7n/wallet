@@ -1,1 +1,1 @@
-var mnemonic = "amused rapid shoot aerobic detail poem barely paper paper embark tuition girl";
+var mnemonic = "wreck nature venue breeze sing tower kit clap offer need boss rib";

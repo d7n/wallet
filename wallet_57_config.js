@@ -1,1 +1,1 @@
-var mnemonic = "rocket bonus frown limb differ main lock green practice busy piece purse";
+var mnemonic = "seat keep museum noodle remove junior admit aim kitchen embark raw home";

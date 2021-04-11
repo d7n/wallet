@@ -1,1 +1,1 @@
-var mnemonic = "timber charge rib grant unfair ready liar oak minimum minor ask tiny";
+var mnemonic = "today brief whisper cushion thunder certain truth kiss sniff actress lock upset";

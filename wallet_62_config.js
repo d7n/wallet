@@ -1,1 +1,1 @@
-var mnemonic = "brown ecology casino talent connect angry lucky noble among stock three choose";
+var mnemonic = "list poverty cage grape wire claw glow gift decrease hybrid brain bacon";

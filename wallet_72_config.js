@@ -1,1 +1,1 @@
-var mnemonic = "clog word eight flock dawn possible include crumble toilet cube spoon hammer";
+var mnemonic = "ancient limit neck energy advice soft position boost purpose faint garlic primary";

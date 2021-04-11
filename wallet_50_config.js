@@ -1,1 +1,1 @@
-var mnemonic = "debate ancient ivory wagon grape vessel any velvet garment drop sting cricket";
+var mnemonic = "spread pull poverty session wood wrestle fluid impose forest afford witness deliver";

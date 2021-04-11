@@ -1,1 +1,1 @@
-var mnemonic = "donor exhibit crane since daughter sad blanket conduct flame run verify company";
+var mnemonic = "draw post exchange blind erase ring patient valley winter cup blue cart";

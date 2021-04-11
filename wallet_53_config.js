@@ -1,1 +1,1 @@
-var mnemonic = "orphan pepper again confirm expose tree junior medal museum addict lady cost";
+var mnemonic = "next hammer wedding bitter web speed muffin blouse second slow curtain problem";

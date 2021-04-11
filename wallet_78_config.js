@@ -1,1 +1,1 @@
-var mnemonic = "shock solid early fly despair gallery core off rabbit embrace catch ice";
+var mnemonic = "rice bulk lecture among suspect prevent earn orbit steel biology glove nation";

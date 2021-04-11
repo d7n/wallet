@@ -1,1 +1,1 @@
-var mnemonic = "sunset plunge lucky wrestle gentle expect live excite sponsor baby dirt lawn";
+var mnemonic = "guess manage proud wing quick mirror flash speed about funny behind prison";

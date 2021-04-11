@@ -1,1 +1,1 @@
-var mnemonic = "cupboard bright hole pipe silver slim job put recipe pigeon feed spawn";
+var mnemonic = "know squeeze weather desert arrest market cash modify pipe amused arch loop";

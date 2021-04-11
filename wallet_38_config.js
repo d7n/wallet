@@ -1,1 +1,1 @@
-var mnemonic = "welcome bird write circle amount rhythm trouble lobster three doll unveil because";
+var mnemonic = "mammal dune fee injury lecture paddle type liberty party festival prison flat";

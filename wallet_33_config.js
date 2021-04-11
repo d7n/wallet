@@ -1,1 +1,1 @@
-var mnemonic = "record space hockey used sail marine song absurd open vital happy album";
+var mnemonic = "bottom vacuum camera ski such soft border stick army mandate giraffe shiver";

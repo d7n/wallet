@@ -1,1 +1,1 @@
-var mnemonic = "dice mechanic health position like kitchen enlist vanish govern annual tobacco actor";
+var mnemonic = "run vault caution unusual auto peasant access shy below squirrel depth agree";

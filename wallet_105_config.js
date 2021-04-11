@@ -1,1 +1,1 @@
-var mnemonic = "ranch learn million rubber elegant list occur warrior need toy bonus chimney";
+var mnemonic = "absorb always miss inspire peace tone month cup street pair attack treat";

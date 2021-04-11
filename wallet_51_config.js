@@ -1,1 +1,1 @@
-var mnemonic = "pool bar erase organ face vacuum also salt arrow shiver space unknown";
+var mnemonic = "end festival girl average bachelor crane meat lock march peace license grow";

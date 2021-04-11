@@ -1,1 +1,1 @@
-var mnemonic = "leg subway ship pluck spirit impulse into foam lunar south wool spare";
+var mnemonic = "parade strike twice mercy arrow sunset tissue laundry talent fossil save pen";

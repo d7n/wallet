@@ -1,1 +1,1 @@
-var mnemonic = "museum west meat birth witness crisp join hub clinic genuine nature fix";
+var mnemonic = "empty canal file advice alpha humor just frame dust chef turn shaft";

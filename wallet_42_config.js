@@ -1,1 +1,1 @@
-var mnemonic = "need robust pair session doll fabric piece suit shop kiss test recycle";
+var mnemonic = "iron noble hold hood great link equal shiver spoil chaos entry catch";

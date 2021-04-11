@@ -1,1 +1,1 @@
-var mnemonic = "range liquid anger payment label topic reform magic confirm broccoli museum train";
+var mnemonic = "miss aisle want mass memory unique stuff despair fluid toddler parade crash";

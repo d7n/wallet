@@ -1,1 +1,1 @@
-var mnemonic = "interest call excite kingdom knock anchor solid thought way hungry dune police";
+var mnemonic = "reason eye below track position eyebrow melody despair monster diagram truck potato";

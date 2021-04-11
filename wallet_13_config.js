@@ -1,1 +1,1 @@
-var mnemonic = "lunch funny dune pilot hospital ahead exact craft hub decline angle eagle";
+var mnemonic = "verify trash muffin kidney poverty vanish online come sound destroy honey category";

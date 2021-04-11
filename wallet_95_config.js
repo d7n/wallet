@@ -1,1 +1,1 @@
-var mnemonic = "turtle bomb slender three excuse lazy journey vault version smooth message village";
+var mnemonic = "isolate lounge sound fringe knife exchange sketch maple virus clock invest method";

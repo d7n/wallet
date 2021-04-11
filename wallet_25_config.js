@@ -1,1 +1,1 @@
-var mnemonic = "dragon gossip mesh flush crucial job good topic glimpse soap angle monster";
+var mnemonic = "water ginger bundle cactus nuclear wife nominee anxiety wisdom eye tell strong";

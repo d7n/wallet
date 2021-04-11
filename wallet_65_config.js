@@ -1,1 +1,1 @@
-var mnemonic = "flight north clap ready cat nuclear bulb unit grace spy depend parade";
+var mnemonic = "village crowd use bid enable badge author advice butter math exile tenant";

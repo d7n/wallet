@@ -1,1 +1,1 @@
-var mnemonic = "custom farm can ocean clog boss onion chapter special cotton honey purpose";
+var mnemonic = "patient awkward wrestle stamp raw wash improve air zoo manage tobacco victory";

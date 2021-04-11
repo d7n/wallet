@@ -1,1 +1,1 @@
-var mnemonic = "essence opera fragile glad sort stone swing height vacuum initial smart sponsor";
+var mnemonic = "bus average quarter find wheat soccer inspire deny found state crouch desk";

@@ -1,1 +1,1 @@
-var mnemonic = "detail gun they drop render acquire nose chimney assault earn tomato agent";
+var mnemonic = "stone river sock where already unveil march second afford cricket material parrot";

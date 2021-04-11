@@ -1,1 +1,1 @@
-var mnemonic = "festival tourist dream close enter fee oxygen blast record symbol sleep earth";
+var mnemonic = "marriage knock weekend now idea burger mean eye vendor tongue beauty daughter";

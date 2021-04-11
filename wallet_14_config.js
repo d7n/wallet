@@ -1,1 +1,1 @@
-var mnemonic = "sense ethics wrist phrase weird swamp debate country digital sunny bag jeans";
+var mnemonic = "waste volcano disease rotate cave notable merry goddess cattle biology brother bar";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke ask describe vault affair rescue trouble camera virtual voice sea extend";
+var mnemonic = "rough choose keep simple vendor high depend someone thumb exile knife enrich";

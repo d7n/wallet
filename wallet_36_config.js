@@ -1,1 +1,1 @@
-var mnemonic = "arm kitten project olive more gravity secret fork old silk evolve album";
+var mnemonic = "scrap torch island general replace web file answer notice race lock knife";

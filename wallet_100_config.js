@@ -1,1 +1,1 @@
-var mnemonic = "nation rebel payment swallow over tail drink half ugly gown road attend";
+var mnemonic = "local tube bomb guide protect wrap employ present dress until alone desert";

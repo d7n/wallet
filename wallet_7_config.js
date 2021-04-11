@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin pig fiscal pledge promote pistol rely stick purse regret neglect hunt";
+var mnemonic = "diesel digital vendor waste grow ghost ritual story betray acoustic neutral lemon";

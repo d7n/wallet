@@ -1,1 +1,1 @@
-var mnemonic = "symbol dynamic stock error drum capable dinner umbrella modify strategy fade mean";
+var mnemonic = "buyer often squeeze rug sister ignore drip crew okay flag ball disorder";

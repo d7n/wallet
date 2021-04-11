@@ -1,1 +1,1 @@
-var mnemonic = "youth faith able angle polar stock habit cliff shrug until equal steel";
+var mnemonic = "dumb either frost ozone another giraffe spy marriage energy floor argue swim";

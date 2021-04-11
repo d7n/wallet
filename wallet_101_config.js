@@ -1,1 +1,1 @@
-var mnemonic = "roast market pudding scene surface disagree family embrace audit anchor expect sense";
+var mnemonic = "antenna insect avoid hungry produce aerobic other used outside music era right";

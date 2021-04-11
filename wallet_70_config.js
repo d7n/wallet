@@ -1,1 +1,1 @@
-var mnemonic = "rule model kit output stay length stock flower path worry world artwork";
+var mnemonic = "spy seek quality always captain inquiry knife weird antique february there curious";

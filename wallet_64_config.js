@@ -1,1 +1,1 @@
-var mnemonic = "zero useful transfer pink ecology bid symbol nothing teach uphold battle maid";
+var mnemonic = "raise also rely upon decade often black pause immense glare pioneer ritual";

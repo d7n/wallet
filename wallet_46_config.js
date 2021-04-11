@@ -1,1 +1,1 @@
-var mnemonic = "antique bottom actress improve bounce smile river tail puzzle false coast chalk";
+var mnemonic = "sing bounce inch heart six pet merry modify team skirt rural normal";

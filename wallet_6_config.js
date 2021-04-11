@@ -1,1 +1,1 @@
-var mnemonic = "capable easily library process wave arena bind robust tomato build child this";
+var mnemonic = "palace drastic drive source drink disease ring prepare must crew clay goddess";

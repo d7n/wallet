@@ -1,1 +1,1 @@
-var mnemonic = "surface party slim cluster know syrup eye coyote decorate vivid yard rough";
+var mnemonic = "shoot end flag useless about chaos episode february segment mail embark sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "search item issue sort poverty anger wave fashion essence olive cat magnet";
+var mnemonic = "reject ahead stadium scrub pumpkin reflect ten cry useless arrest symbol have";

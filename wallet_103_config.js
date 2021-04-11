@@ -1,1 +1,1 @@
-var mnemonic = "whisper shop deer defy ensure sea snow torch horse large chef develop";
+var mnemonic = "cliff intact vacant ability elegant day clock jazz perfect breeze alcohol guitar";

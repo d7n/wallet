@@ -1,1 +1,1 @@
-var mnemonic = "slab sting tree left cake blade screen great shell inquiry trap oxygen";
+var mnemonic = "energy zebra biology detail phrase music fruit solution similar brand expand eight";

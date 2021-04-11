@@ -1,1 +1,1 @@
-var mnemonic = "lumber business another gym idle talent first steel extra predict truth change";
+var mnemonic = "system option member average pulse cram blame decrease high flat typical false";

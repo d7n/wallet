@@ -1,1 +1,1 @@
-var mnemonic = "hawk image discover empower walk frost buddy husband gravity shiver library believe";
+var mnemonic = "skate velvet canvas east gallery actress census service slab chalk stuff fog";

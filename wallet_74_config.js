@@ -1,1 +1,1 @@
-var mnemonic = "fade solid street young brief small issue until car dismiss bullet blood";
+var mnemonic = "only neck carbon pass midnight alpha relief hand hero lift era category";
