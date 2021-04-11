@@ -1,1 +1,1 @@
-var mnemonic = "cousin vote thumb urge canoe student winner enrich area escape harbor speak";
+var mnemonic = "bean churn know clock brain seminar bright kingdom again enroll donkey company";

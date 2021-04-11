@@ -1,1 +1,1 @@
-var mnemonic = "impose spring approve tongue initial helmet express destroy shove notice entry balance";
+var mnemonic = "length spirit manage cruel final ivory grain bottom deer fit focus mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk snow decade injury mobile buyer confirm wait strategy real easily lizard";
+var mnemonic = "cool impose club garment enforce daring valid achieve detail address pulse disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp razor victory expect viable once elder voice original extra bubble hope";
+var mnemonic = "library menu cabbage exhaust sudden treat fiber index smoke clip glide like";

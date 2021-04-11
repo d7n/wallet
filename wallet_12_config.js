@@ -1,1 +1,1 @@
-var mnemonic = "cabin similar spoon car mail ill now author patrol emotion unaware plug";
+var mnemonic = "crew bone foster word cook train robust fiscal elder trim oval patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "trap gadget tomato motor marriage ensure one begin blouse reopen twenty explain";
+var mnemonic = "bachelor world festival gas since tree outer noise rival minute federal abuse";

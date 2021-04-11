@@ -1,1 +1,1 @@
-var mnemonic = "divorce present other suggest holiday voice carry violin infant script elbow jungle";
+var mnemonic = "web lobster involve farm wonder female pact physical rude wage verb type";

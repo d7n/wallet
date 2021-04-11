@@ -1,1 +1,1 @@
-var mnemonic = "opera wheel swear flavor tuition federal wave mass guitar special protect liar";
+var mnemonic = "same critic ocean client replace smart spray supreme grant fury civil select";

@@ -1,1 +1,1 @@
-var mnemonic = "spin story wash neither paddle suit patrol current lemon fresh aisle chronic";
+var mnemonic = "sort liberty alpha rally muscle error until civil price disorder giant ribbon";

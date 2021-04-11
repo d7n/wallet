@@ -1,1 +1,1 @@
-var mnemonic = "stable frame sort social apart plastic spirit diamond check mom gold load";
+var mnemonic = "much rent awake smart spare wood lunch shove borrow marriage settle option";

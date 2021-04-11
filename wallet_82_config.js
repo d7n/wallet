@@ -1,1 +1,1 @@
-var mnemonic = "guitar minimum bench skill buddy bitter pencil welcome air cupboard century goat";
+var mnemonic = "choose circle endless capital voyage abandon piano focus cheese shoot come hurry";

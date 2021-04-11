@@ -1,1 +1,1 @@
-var mnemonic = "female combine enact mention girl pitch inspire token return always juice cabin";
+var mnemonic = "situate cloud blush chuckle bamboo buddy enough waste burden crash habit wear";

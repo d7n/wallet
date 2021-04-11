@@ -1,1 +1,1 @@
-var mnemonic = "critic juice impact hour camp letter raccoon topic enjoy sun item swing";
+var mnemonic = "chunk coral pluck kick clarify owner point favorite crane fancy danger rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely heart enter must grace approve proof month false steel return steak";
+var mnemonic = "lesson major taxi soda ball elite vault crime breeze improve van ceiling";

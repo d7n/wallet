@@ -1,1 +1,1 @@
-var mnemonic = "salmon volume deliver body east battle celery orange injury where hero dentist";
+var mnemonic = "off device custom auto spin angry artefact mercy spin pattern page hurdle";

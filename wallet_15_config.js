@@ -1,1 +1,1 @@
-var mnemonic = "atom worry gravity lunch maximum metal hint figure acquire soup valid strategy";
+var mnemonic = "various april car cinnamon sea predict banana element toss post melt wish";

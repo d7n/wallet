@@ -1,1 +1,1 @@
-var mnemonic = "garage weapon almost transfer athlete bridge surge pelican ensure gap farm march";
+var mnemonic = "best roof enroll large fix urge spy olive glue ridge coral priority";

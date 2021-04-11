@@ -1,1 +1,1 @@
-var mnemonic = "raw glance cry steak tornado immense pool dynamic favorite brave nose nest";
+var mnemonic = "label frog pledge profit mesh equip catch economy kit art range almost";

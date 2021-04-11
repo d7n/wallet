@@ -1,1 +1,1 @@
-var mnemonic = "intact various aware dash slide ring road hat mixed muffin gather topic";
+var mnemonic = "mosquito observe clip rifle piece zebra drum emerge text spirit certain illegal";

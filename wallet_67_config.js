@@ -1,1 +1,1 @@
-var mnemonic = "eye case biology bone food present again wage media screen quiz sword";
+var mnemonic = "oppose hobby capable project engine town flush mixture extra hood idea brown";

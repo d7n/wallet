@@ -1,1 +1,1 @@
-var mnemonic = "alien what pledge wage sentence robot when conduct slight rich slot road";
+var mnemonic = "brush wash design panic approve two wink rural one tribe maid have";

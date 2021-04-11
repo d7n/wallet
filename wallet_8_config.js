@@ -1,1 +1,1 @@
-var mnemonic = "divert average autumn add pulp spend moment vendor vicious obscure chuckle sustain";
+var mnemonic = "volume blast wrap welcome smart knife perfect alter art phrase allow gesture";

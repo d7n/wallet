@@ -1,1 +1,1 @@
-var mnemonic = "service fashion address reform flee board drum satoshi bronze artist music blood";
+var mnemonic = "squeeze tank toddler diet sword fit crowd remember denial hero hover obey";

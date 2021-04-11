@@ -1,1 +1,1 @@
-var mnemonic = "require floor cake despair mystery chicken cover evidence habit error flat photo";
+var mnemonic = "dog fit enter cricket coyote desk kitten assume accuse shiver danger lunar";

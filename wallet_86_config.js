@@ -1,1 +1,1 @@
-var mnemonic = "inject price innocent talent spider barely cinnamon bar comic steak bunker violin";
+var mnemonic = "chair people finger abuse into nasty primary weird govern image coast exclude";

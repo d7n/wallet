@@ -1,1 +1,1 @@
-var mnemonic = "yard engine wink obey color height cheese portion borrow security remove romance";
+var mnemonic = "disorder donate object symbol antique girl immune kid table juice spell risk";

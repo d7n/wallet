@@ -1,1 +1,1 @@
-var mnemonic = "beyond betray square draft bread obey trap ahead doll turtle route squeeze";
+var mnemonic = "undo ice small bamboo climb survey shine attitude chunk naive teach random";

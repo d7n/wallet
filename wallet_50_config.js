@@ -1,1 +1,1 @@
-var mnemonic = "cargo bleak disease attend space click edit actual sustain cabbage range hour";
+var mnemonic = "famous believe employ soap infant hint burst delay fashion nephew height august";

@@ -1,1 +1,1 @@
-var mnemonic = "cement clog holiday badge account question teach reject surround must opinion credit";
+var mnemonic = "december check govern injury foot electric yellow merry forget bird situate six";

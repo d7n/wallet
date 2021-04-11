@@ -1,1 +1,1 @@
-var mnemonic = "pledge problem nation pilot pause vague sport work debate awesome car giggle";
+var mnemonic = "impact february ripple reveal glimpse boil snow clarify clip flag cover alter";

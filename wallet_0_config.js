@@ -1,1 +1,1 @@
-var mnemonic = "skirt off glad broom tragic current journey solution almost speed scare shrimp";
+var mnemonic = "enter predict any cheese hedgehog project man theory print token lamp useless";

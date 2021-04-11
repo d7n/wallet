@@ -1,1 +1,1 @@
-var mnemonic = "gossip ecology sell ability turn entire basket message twice fix rice increase";
+var mnemonic = "sunny reward shoulder actual faint salmon print corn sick ready tray predict";

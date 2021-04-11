@@ -1,1 +1,1 @@
-var mnemonic = "air habit wrap toast kangaroo obvious cream good demise lawn portion orange";
+var mnemonic = "proof nuclear blade version bike ocean radar lunch digital dice rely express";

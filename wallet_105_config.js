@@ -1,1 +1,1 @@
-var mnemonic = "inflict gift bridge prevent similar coach exotic race poet limit park theory";
+var mnemonic = "scan middle satoshi laugh cigar half input cherry eager depend exist banana";

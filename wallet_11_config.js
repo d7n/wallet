@@ -1,1 +1,1 @@
-var mnemonic = "usage industry opera interest practice favorite harvest sell fly asset draft school";
+var mnemonic = "under tray vanish drink alter forget rice soul ancient produce salute impose";

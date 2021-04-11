@@ -1,1 +1,1 @@
-var mnemonic = "report damp design image blast coconut veteran page ripple dash drink black";
+var mnemonic = "alarm proof village proof destroy hello feature humble thunder bind weather daring";

@@ -1,1 +1,1 @@
-var mnemonic = "camera fame cram try bamboo vendor busy monkey submit fade joke powder";
+var mnemonic = "error replace caught cherry fatal anxiety advice network diamond small fabric great";

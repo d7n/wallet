@@ -1,1 +1,1 @@
-var mnemonic = "uphold glad bus ready spider fringe robust fit pass hamster gasp box";
+var mnemonic = "clay arrest strong rebuild animal silly cancel fine skill wine loud expose";

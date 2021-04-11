@@ -1,1 +1,1 @@
-var mnemonic = "bird mix wisdom useless slice core august upper oppose atom biology direct";
+var mnemonic = "day town real inform dream shrug area win tenant game clip elder";

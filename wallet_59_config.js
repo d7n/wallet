@@ -1,1 +1,1 @@
-var mnemonic = "wreck industry shock option title admit sail tenant unique assume minimum film";
+var mnemonic = "depend expand guide theme reflect swift armed grunt chat travel practice crazy";

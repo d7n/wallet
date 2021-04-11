@@ -1,1 +1,1 @@
-var mnemonic = "agent noble slow sure ginger devote fresh pond decrease warm age post";
+var mnemonic = "dynamic filter voyage stereo evoke stage tourist arctic bargain defy unusual regular";

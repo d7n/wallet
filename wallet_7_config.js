@@ -1,1 +1,1 @@
-var mnemonic = "mutual decline nothing sudden alarm organ certain excess rocket mouse before aerobic";
+var mnemonic = "upper borrow hunt aware live super hollow hurry enroll photo path whip";

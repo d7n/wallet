@@ -1,1 +1,1 @@
-var mnemonic = "mountain enforce burst possible auto orange matrix close uncle number miss raw";
+var mnemonic = "sea figure rely dog someone violin defense sister weird figure light drum";

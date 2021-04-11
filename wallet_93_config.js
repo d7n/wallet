@@ -1,1 +1,1 @@
-var mnemonic = "settle shoulder undo fence spell volcano fortune hand panic hungry chase confirm";
+var mnemonic = "bunker alley praise damp stadium boss where rack hip pause dutch split";

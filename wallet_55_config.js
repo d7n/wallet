@@ -1,1 +1,1 @@
-var mnemonic = "kingdom zero since travel now initial fence album setup prison lamp kind";
+var mnemonic = "blossom toward impulse zoo pistol minimum group best arrange unfold one rebel";

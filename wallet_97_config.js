@@ -1,1 +1,1 @@
-var mnemonic = "divide brisk rent click check race world vast nominee grocery dizzy future";
+var mnemonic = "that space similar diet improve lyrics napkin ball orbit elder punch much";

@@ -1,1 +1,1 @@
-var mnemonic = "turn pupil clown gym melt love carpet taxi casual glad faith tell";
+var mnemonic = "salad current neck run shoulder diary initial dice sugar final occur foil";

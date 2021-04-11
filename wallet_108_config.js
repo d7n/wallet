@@ -1,1 +1,1 @@
-var mnemonic = "motion fat faint barrel cigar banner tackle aerobic move spawn travel double";
+var mnemonic = "erode rich enroll punch carry describe always health stomach bunker access dinosaur";

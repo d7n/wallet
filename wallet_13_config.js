@@ -1,1 +1,1 @@
-var mnemonic = "wave enforce ring runway swamp suggest agent calm hedgehog reject vibrant know";
+var mnemonic = "flavor crop young sniff certain envelope account diet analyst fiscal wisdom aim";

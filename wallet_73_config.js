@@ -1,1 +1,1 @@
-var mnemonic = "flag pool despair bronze whisper convince symbol salad olive hover trial potato";
+var mnemonic = "maid violin huge inherit arrest ketchup easily fluid discover else dutch boring";

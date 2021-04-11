@@ -1,1 +1,1 @@
-var mnemonic = "universe concert viable result text evolve provide foot wealth erupt acoustic coach";
+var mnemonic = "attack aware answer wife local trim endorse problem secret very cheese diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "message egg undo drop fatigue volume pepper squeeze note dizzy tennis brief";
+var mnemonic = "address ketchup fire scrap any vendor bullet typical alley outside lion coyote";

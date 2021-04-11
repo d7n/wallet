@@ -1,1 +1,1 @@
-var mnemonic = "thought ship devote mutual help clean churn cannon minute rival sight person";
+var mnemonic = "book super hurry frozen little torch over uncover business impact chief rural";

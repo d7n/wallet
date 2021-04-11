@@ -1,1 +1,1 @@
-var mnemonic = "surge trap wise raven warm inform rare cereal squirrel door obscure vital";
+var mnemonic = "gauge lounge pride cable suggest marine liberty hood birth dry suit next";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic run fault online analyst nut spot tube kite bike minor smart";
+var mnemonic = "neutral guess nephew embark exhaust scout marine sort novel boring engine uniform";

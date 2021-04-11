@@ -1,1 +1,1 @@
-var mnemonic = "album system siren palace badge assist carry seminar angle fish fault frequent";
+var mnemonic = "squeeze ignore raw tonight solid acid say butter omit kid assist end";

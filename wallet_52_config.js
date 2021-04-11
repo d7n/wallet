@@ -1,1 +1,1 @@
-var mnemonic = "wall asthma dog update glance filter uncle ozone seat rocket inherit goat";
+var mnemonic = "assist choice sunset alter submit subway sun script shove notice brass piano";

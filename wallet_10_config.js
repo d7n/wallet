@@ -1,1 +1,1 @@
-var mnemonic = "caution ready illegal point measure busy main case romance fury dismiss remember";
+var mnemonic = "dress fee merit agree maple sunny panda lunch fine climb neutral toilet";

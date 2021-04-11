@@ -1,1 +1,1 @@
-var mnemonic = "market intact prepare ability news lazy shrug frog barrel note prison globe";
+var mnemonic = "roast wave release dance goat seven merry gaze dilemma aware author have";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate priority what near right hazard ozone wild hole relax confirm pretty";
+var mnemonic = "soup choose soon rifle train bean business worth liquid pet quote swarm";

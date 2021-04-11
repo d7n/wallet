@@ -1,1 +1,1 @@
-var mnemonic = "stem guess whale confirm vacant quiz swallow gather parade reflect pass hard";
+var mnemonic = "hen slab math border orange lemon hole tongue matrix body fantasy coyote";

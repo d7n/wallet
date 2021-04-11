@@ -1,1 +1,1 @@
-var mnemonic = "meat stand oven cream almost skill connect taxi tongue combine tribe spice";
+var mnemonic = "spike absorb chef wolf region pipe close science fever useless office illegal";

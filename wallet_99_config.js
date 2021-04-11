@@ -1,1 +1,1 @@
-var mnemonic = "hunt museum skill drift ocean file icon real mixed search tip anchor";
+var mnemonic = "zebra antenna maple measure lyrics tool jazz ladder mutual song code cradle";

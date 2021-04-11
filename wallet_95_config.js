@@ -1,1 +1,1 @@
-var mnemonic = "hill shove axis love evil raw document whip bread hello pelican certain";
+var mnemonic = "width harsh pumpkin panther fame clown ugly cereal camp shuffle famous true";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog brother tent coil dove cloud chest fetch scale cup betray hole";
+var mnemonic = "obtain soccer library illegal rebel polar army embrace nominee boring cargo sister";

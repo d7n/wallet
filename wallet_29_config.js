@@ -1,1 +1,1 @@
-var mnemonic = "goose sun dumb lunar fashion lava master tortoise thrive doll luxury chair";
+var mnemonic = "sugar taxi link release agent must dad snake surge essence elegant because";

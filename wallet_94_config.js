@@ -1,1 +1,1 @@
-var mnemonic = "crash ceiling crime cargo bus lab badge foot unusual practice company act";
+var mnemonic = "setup public spice record pink bitter concert ticket item coyote head cube";

@@ -1,1 +1,1 @@
-var mnemonic = "shield crush fabric ten curious great close exact february good offer parrot";
+var mnemonic = "buffalo bridge sure panel noise skate arch buzz hour life artefact armor";

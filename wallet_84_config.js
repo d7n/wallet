@@ -1,1 +1,1 @@
-var mnemonic = "abstract student fame useful banner alone sunset luggage dismiss silk thunder unlock";
+var mnemonic = "volume lens because silk valve armed blanket awful coffee claim bachelor frequent";

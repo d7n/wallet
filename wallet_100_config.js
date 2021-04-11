@@ -1,1 +1,1 @@
-var mnemonic = "genuine sniff mountain frozen pigeon brain urban prefer pyramid chunk purse prevent";
+var mnemonic = "mind bean trigger begin find slice mimic opinion heavy family fit decide";

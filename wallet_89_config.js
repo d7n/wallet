@@ -1,1 +1,1 @@
-var mnemonic = "type pupil twist across ordinary tooth time ability perfect flame horror shrug";
+var mnemonic = "impact code anxiety lawsuit panda magic giggle work will hand tobacco tooth";

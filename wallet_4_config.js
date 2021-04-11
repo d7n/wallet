@@ -1,1 +1,1 @@
-var mnemonic = "raise ill meadow yellow feel morning over very secret bread gasp cable";
+var mnemonic = "idle argue walnut between diesel blue cabin near lobster expand valve common";

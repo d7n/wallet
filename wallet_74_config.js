@@ -1,1 +1,1 @@
-var mnemonic = "symptom tissue arrange thumb amount brain rail cry label chef style mind";
+var mnemonic = "praise ask escape sting witness noise prepare fluid magic average dirt click";

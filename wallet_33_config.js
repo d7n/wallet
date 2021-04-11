@@ -1,1 +1,1 @@
-var mnemonic = "torch borrow awesome bring doll rule neck master twist wonder beach artefact";
+var mnemonic = "rapid same hurt cream surface change snack ancient solid bar asset meat";

@@ -1,1 +1,1 @@
-var mnemonic = "sign turkey better subway life valid orange cherry measure spy insane trigger";
+var mnemonic = "need income front again width early coconut exchange wasp aisle nice furnace";

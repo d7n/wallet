@@ -1,1 +1,1 @@
-var mnemonic = "useful coach tent chunk fantasy wink drum guilt code subway cup humor";
+var mnemonic = "garden ability twelve prefer monitor frame yellow account payment detect fee pretty";

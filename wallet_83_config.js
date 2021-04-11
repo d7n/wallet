@@ -1,1 +1,1 @@
-var mnemonic = "enter foam victory hair gold expire shop remember magic okay world salt";
+var mnemonic = "flower tomorrow piece track local barely filter item state salute scout rude";

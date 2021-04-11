@@ -1,1 +1,1 @@
-var mnemonic = "more furnace apple foil scout milk attack embark paper sting pencil dolphin";
+var mnemonic = "first web avoid flee title earth turkey dinner tackle eight evolve guess";

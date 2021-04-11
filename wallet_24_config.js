@@ -1,1 +1,1 @@
-var mnemonic = "sorry spend never infant keep area wisdom liberty fortune library dice make";
+var mnemonic = "mom conduct skull allow day barely angry table round uncle logic student";

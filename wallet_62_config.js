@@ -1,1 +1,1 @@
-var mnemonic = "puppy lyrics addict course cancel drama movie clog discover future wrap review";
+var mnemonic = "bus catalog celery glad brick push man exercise galaxy teach tank able";

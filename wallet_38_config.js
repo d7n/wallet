@@ -1,1 +1,1 @@
-var mnemonic = "clarify eager rate thrive artist pledge ability festival eyebrow razor shine improve";
+var mnemonic = "twin actress wing evil canvas return wait glory rug cinnamon slide conduct";

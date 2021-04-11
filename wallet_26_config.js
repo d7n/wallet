@@ -1,1 +1,1 @@
-var mnemonic = "maximum cargo festival patch month mystery script claim shock employ across prevent";
+var mnemonic = "scrub chase pumpkin approve mutual right height remember local vendor dentist infant";

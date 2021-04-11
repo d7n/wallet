@@ -1,1 +1,1 @@
-var mnemonic = "inner purity exact nose chunk meadow below puzzle pistol bus pudding tortoise";
+var mnemonic = "frown famous office word mercy search vacuum jewel absurd inside smile lock";

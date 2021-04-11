@@ -1,1 +1,1 @@
-var mnemonic = "wagon spawn travel caution cheese garage stamp pony dentist music east cave";
+var mnemonic = "divert eagle raven solid arrow artwork great have mushroom thing deal protect";

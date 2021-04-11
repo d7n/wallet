@@ -1,1 +1,1 @@
-var mnemonic = "city twenty gorilla matrix element net there bubble tongue trigger parade sugar";
+var mnemonic = "annual oblige humble rotate winter fire tongue depth core boring shield cry";

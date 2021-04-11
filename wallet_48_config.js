@@ -1,1 +1,1 @@
-var mnemonic = "wolf balcony list carry hint casino trophy culture amused size empty draft";
+var mnemonic = "hedgehog monitor sauce doctor turtle elevator business remove broom miracle name float";

@@ -1,1 +1,1 @@
-var mnemonic = "about flash hair push relief fall dignity oppose capital excite family else";
+var mnemonic = "useless what comfort scorpion car truck sustain cheap apology ostrich twenty saddle";

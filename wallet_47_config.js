@@ -1,1 +1,1 @@
-var mnemonic = "recipe wet dutch toward fruit doctor aerobic during harvest frown pact video";
+var mnemonic = "violin nest glimpse vibrant either salute window demand drama make scheme cinnamon";

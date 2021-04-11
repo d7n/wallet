@@ -1,1 +1,1 @@
-var mnemonic = "floor flash dizzy physical rival state celery toddler spread ocean wing home";
+var mnemonic = "grief exclude easily room fiction flower liquid expect ready jungle flight coffee";

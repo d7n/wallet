@@ -1,1 +1,1 @@
-var mnemonic = "print high bachelor area success stereo you lecture model disorder height hurry";
+var mnemonic = "child claim foam venue museum fortune tower badge husband spatial arctic cable";
