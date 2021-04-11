@@ -1,1 +1,1 @@
-var mnemonic = "purpose dynamic safe sausage poverty vacant gentle exhaust leave joke noise curious";
+var mnemonic = "hub climb peace debate amateur enjoy approve present vacant claim cheese square";

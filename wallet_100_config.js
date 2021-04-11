@@ -1,1 +1,1 @@
-var mnemonic = "night paper gadget okay push lizard regular live pilot menu way noise";
+var mnemonic = "walnut trust victory punch salmon door wasp year noodle music sauce napkin";

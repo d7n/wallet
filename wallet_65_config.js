@@ -1,1 +1,1 @@
-var mnemonic = "three napkin uncover genre clean they calm region reason lumber engine skin";
+var mnemonic = "inherit property fitness length dash trouble execute casino fabric van slide fashion";

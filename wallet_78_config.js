@@ -1,1 +1,1 @@
-var mnemonic = "edge base flight horn bright general find leader doctor very indicate tool";
+var mnemonic = "royal emerge language leisure hammer curtain panel awake call donate left play";

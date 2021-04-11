@@ -1,1 +1,1 @@
-var mnemonic = "distance apart until dumb clarify latin chaos thought dish oyster rack december";
+var mnemonic = "gentle surface glow document portion cigar drama sphere kingdom cushion assume snack";

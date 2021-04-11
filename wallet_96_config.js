@@ -1,1 +1,1 @@
-var mnemonic = "undo wire skin engage catalog civil alien capital crunch hotel praise chef";
+var mnemonic = "base bounce salon hurry aware caution pole conduct spray child sweet first";

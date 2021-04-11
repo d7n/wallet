@@ -1,1 +1,1 @@
-var mnemonic = "ensure clutch narrow boat choose boss disorder tree recall cross solid join";
+var mnemonic = "vacuum clarify isolate result hockey copper replace witness inhale already dad original";

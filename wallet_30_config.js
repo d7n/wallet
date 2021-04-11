@@ -1,1 +1,1 @@
-var mnemonic = "peasant film provide length vault cushion frost member buddy rate similar design";
+var mnemonic = "suffer want man remind vivid pink chase rice laundry phone bounce crack";

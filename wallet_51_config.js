@@ -1,1 +1,1 @@
-var mnemonic = "exhibit gravity twelve pipe inhale car crane chest text color volcano federal";
+var mnemonic = "cinnamon degree caught wheel ensure hover neck banner lawn theory rally success";

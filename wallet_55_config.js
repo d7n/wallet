@@ -1,1 +1,1 @@
-var mnemonic = "skirt cause all ceiling badge food eager forget wage absorb amazing finish";
+var mnemonic = "table govern basic burden alert nose argue cube warrior kid east pink";

@@ -1,1 +1,1 @@
-var mnemonic = "friend wealth moon ask light text enemy worry remind immense proof silly";
+var mnemonic = "pool napkin toward photo used seed battle elder picnic remind spawn clap";

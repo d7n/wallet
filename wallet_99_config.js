@@ -1,1 +1,1 @@
-var mnemonic = "coffee carpet sadness gate pink giraffe civil happy announce sibling timber stuff";
+var mnemonic = "autumn crawl replace carbon season play increase symbol culture trust dry enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "double car cross baby twelve small fish sister vanish volcano rib space";
+var mnemonic = "velvet shrimp cupboard multiply wolf kiss result rail idea injury essay pattern";

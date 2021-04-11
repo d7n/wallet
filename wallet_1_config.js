@@ -1,1 +1,1 @@
-var mnemonic = "pizza parrot balcony actress radar mammal barely virtual eagle cushion language mammal";
+var mnemonic = "digital ozone unfold wild swap credit sentence large shock coast mix nerve";

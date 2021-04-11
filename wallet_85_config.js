@@ -1,1 +1,1 @@
-var mnemonic = "stadium orphan bind kitten venue position decade wrong daughter pigeon kangaroo mechanic";
+var mnemonic = "topple submit excite survey swear bonus census dress major lizard air high";

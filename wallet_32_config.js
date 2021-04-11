@@ -1,1 +1,1 @@
-var mnemonic = "yellow blossom march rookie field behind april copy into hidden gun invite";
+var mnemonic = "buzz march claw leg refuse inside crater nuclear scout differ target tell";

@@ -1,1 +1,1 @@
-var mnemonic = "knife you drill session robot transfer swim baby glove shoe sure example";
+var mnemonic = "fit holiday juice diesel vintage bench come together shell bar disease laundry";

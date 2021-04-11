@@ -1,1 +1,1 @@
-var mnemonic = "joke ring make ticket adapt abandon analyst soft laptop tiger slab island";
+var mnemonic = "month spend cluster artwork toilet soon panda mean clutch elevator victory stove";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow fruit nerve giant innocent garden camp major payment caution cargo grocery";
+var mnemonic = "radar carbon ripple merit require split injury escape eight occur depth street";

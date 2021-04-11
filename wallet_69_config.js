@@ -1,1 +1,1 @@
-var mnemonic = "smoke rice daughter call much film story hobby eyebrow exclude fitness manual";
+var mnemonic = "safe huge fun cliff layer length scorpion wrist dolphin nest pipe eye";

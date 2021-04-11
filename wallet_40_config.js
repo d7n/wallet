@@ -1,1 +1,1 @@
-var mnemonic = "cereal street region dirt puzzle song dream surprise rival must tool family";
+var mnemonic = "virtual modify rifle chimney catch tilt cover flag abuse shy embark upper";

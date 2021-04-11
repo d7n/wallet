@@ -1,1 +1,1 @@
-var mnemonic = "flat panel gap badge theory ecology end disorder soldier thought hidden tennis";
+var mnemonic = "media endorse question ahead alone enroll mansion once man exhaust need have";

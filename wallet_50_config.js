@@ -1,1 +1,1 @@
-var mnemonic = "shock battle old risk scorpion protect kangaroo cheese concert rose exchange odor";
+var mnemonic = "tunnel raven awful mirror match sense tree cheap ticket mango acid measure";

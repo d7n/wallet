@@ -1,1 +1,1 @@
-var mnemonic = "amused napkin assault test attract tortoise cable pave warm online maze spring";
+var mnemonic = "champion cloth outside approve unfold horse galaxy grass busy heavy escape paper";

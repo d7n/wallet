@@ -1,1 +1,1 @@
-var mnemonic = "average urban office express jeans sand ugly ensure enough garbage jungle topic";
+var mnemonic = "unlock beef cupboard blood maze abstract scare insane fine worth memory cube";

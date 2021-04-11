@@ -1,1 +1,1 @@
-var mnemonic = "quit accuse advice very mother thumb music pull avocado tiger echo perfect";
+var mnemonic = "repair dad design remind ahead ritual desk spend oven zoo actress dolphin";

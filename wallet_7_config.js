@@ -1,1 +1,1 @@
-var mnemonic = "track boat car around treat juice industry speak lemon tuition slush reason";
+var mnemonic = "upper example lawsuit artist nothing spread ensure blind remove damp physical earth";

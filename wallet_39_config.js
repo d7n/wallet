@@ -1,1 +1,1 @@
-var mnemonic = "liberty better hover become tag camp recall annual cheese trash one winner";
+var mnemonic = "phrase stock episode valve outdoor enjoy gorilla tube amount neutral powder leader";

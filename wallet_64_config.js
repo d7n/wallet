@@ -1,1 +1,1 @@
-var mnemonic = "build pupil march cannon coffee casual canyon connect height claim together action";
+var mnemonic = "expect tackle level very broken ticket infant describe noodle snake twice expect";

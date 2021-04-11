@@ -1,1 +1,1 @@
-var mnemonic = "chalk there what mimic mouse tower invest spread mandate random venue close";
+var mnemonic = "panther tuition olive egg tomorrow nation adjust truck situate shrug fetch canoe";

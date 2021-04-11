@@ -1,1 +1,1 @@
-var mnemonic = "boss charge day onion common short match lesson assume bulb warfare oxygen";
+var mnemonic = "code render tell cloud snow fade bread smooth end magnet skirt round";

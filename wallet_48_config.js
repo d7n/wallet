@@ -1,1 +1,1 @@
-var mnemonic = "vocal village galaxy manual regular famous verb uniform fabric claw immune season";
+var mnemonic = "acoustic rude usual parade river father flip syrup amount resemble genuine reunion";

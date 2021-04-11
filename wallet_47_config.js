@@ -1,1 +1,1 @@
-var mnemonic = "annual primary captain budget monitor grace wave common jeans smile nurse vicious";
+var mnemonic = "mass share slush pulse actor make ten point maple insect shed orient";

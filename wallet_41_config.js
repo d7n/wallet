@@ -1,1 +1,1 @@
-var mnemonic = "wage shuffle inflict private camera bitter alley hurdle remember engine proof apple";
+var mnemonic = "april hungry reunion creek fall employ depend enable glove enhance ceiling disease";

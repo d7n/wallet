@@ -1,1 +1,1 @@
-var mnemonic = "borrow record post hospital engage grab multiply orchard weird elephant gentle summer";
+var mnemonic = "legend tattoo burden prosper educate taxi estate general bottom time regret tribe";

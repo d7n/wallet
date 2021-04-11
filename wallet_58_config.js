@@ -1,1 +1,1 @@
-var mnemonic = "border replace pitch flame slight actual debate ghost isolate skill noble issue";
+var mnemonic = "traffic tray pudding ancient rhythm switch enable replace lazy foot basic way";

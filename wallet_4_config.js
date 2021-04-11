@@ -1,1 +1,1 @@
-var mnemonic = "nice version ritual cheap phrase injury auto frost resist pottery verify exhibit";
+var mnemonic = "quit endorse hazard weapon spike amazing fatigue silver fantasy employ junk illegal";

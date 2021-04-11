@@ -1,1 +1,1 @@
-var mnemonic = "wealth napkin deliver proof modify harsh sick tail cross evidence cheese judge";
+var mnemonic = "spy badge fan plate asthma swift recall goat tooth mad effort hunt";

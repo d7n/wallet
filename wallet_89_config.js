@@ -1,1 +1,1 @@
-var mnemonic = "elbow confirm valley timber peanut expire magic animal alone noble sweet rib";
+var mnemonic = "trophy symptom city second monitor day sign select burst wedding candy offer";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple either book manage engage expand palm skull civil ketchup autumn goddess";
+var mnemonic = "sense first surge region real era scissors heavy slam lobster combine marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "fence clump update sort key glove okay abandon connect enroll task sun";
+var mnemonic = "walnut envelope syrup faith stadium more use alter torch sniff second develop";

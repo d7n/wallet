@@ -1,1 +1,1 @@
-var mnemonic = "winner angle adult announce coach shell churn piano trap smooth vital onion";
+var mnemonic = "fix cinnamon desert cushion cousin attract expire valid dawn act fee note";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker glare owner mansion laptop april poet shuffle soft release lazy conduct";
+var mnemonic = "raise firm tiger book moral envelope conduct viable vacant angry spy devote";

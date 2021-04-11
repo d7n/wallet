@@ -1,1 +1,1 @@
-var mnemonic = "cluster chicken acquire miss worry toddler flower mad often art flat police";
+var mnemonic = "gesture spoil bright patient buzz tone network heart car start safe answer";

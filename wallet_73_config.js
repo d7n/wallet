@@ -1,1 +1,1 @@
-var mnemonic = "trend tourist wisdom unhappy version process example core olympic there knock crumble";
+var mnemonic = "home connect have toilet unlock immune neither fashion square move ship hen";

@@ -1,1 +1,1 @@
-var mnemonic = "air note toy fire name forward toward basic skull runway include cost";
+var mnemonic = "derive load same ranch clinic cactus spin field judge wreck marine arctic";

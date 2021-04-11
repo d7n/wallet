@@ -1,1 +1,1 @@
-var mnemonic = "silver deputy argue slab wide enforce speed size icon quantum range embody";
+var mnemonic = "talk uphold circle transfer chalk impulse surround enroll pattern profit rough cattle";

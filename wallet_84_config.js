@@ -1,1 +1,1 @@
-var mnemonic = "swamp width fog able example help promote police guard camera stone gun";
+var mnemonic = "order wood bench sea park breeze dove stay memory have physical sniff";

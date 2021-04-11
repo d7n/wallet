@@ -1,1 +1,1 @@
-var mnemonic = "age coconut exact shield bomb enable zebra foam elite tone aisle enable";
+var mnemonic = "raven bread lucky patient believe coffee bleak lake fly hurt oyster hood";

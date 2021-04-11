@@ -1,1 +1,1 @@
-var mnemonic = "senior people buzz fault risk rule follow clog wonder forum chat hire";
+var mnemonic = "window weapon position obey plunge cave swear coil critic pudding bubble sausage";

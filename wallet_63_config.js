@@ -1,1 +1,1 @@
-var mnemonic = "volcano expire paddle loop pigeon toast canoe panther monster fold biology hat";
+var mnemonic = "cave still pride permit almost vital waste grant tag rapid twenty pole";

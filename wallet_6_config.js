@@ -1,1 +1,1 @@
-var mnemonic = "direct fruit plate syrup never tortoise key exclude run improve cry lucky";
+var mnemonic = "tube magnet yellow trouble position reflect leg bulb wrap august prevent slight";

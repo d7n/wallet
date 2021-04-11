@@ -1,1 +1,1 @@
-var mnemonic = "strike episode control hockey soul bitter private gun walk learn doctor security";
+var mnemonic = "donkey despair cousin fence purse amateur make seat connect forum win assume";

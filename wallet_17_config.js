@@ -1,1 +1,1 @@
-var mnemonic = "ski decade syrup february number one dad palm zone breeze august loyal";
+var mnemonic = "idle attend humor flash life base love quiz basic agent column door";

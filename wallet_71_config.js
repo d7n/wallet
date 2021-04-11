@@ -1,1 +1,1 @@
-var mnemonic = "plastic broken happy discover pretty slow purpose solid argue only gloom guilt";
+var mnemonic = "lawn school usage slide device bachelor sun funny benefit left design quiz";

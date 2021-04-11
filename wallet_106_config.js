@@ -1,1 +1,1 @@
-var mnemonic = "sister person spirit caution cat lady toward region soccer until delay skill";
+var mnemonic = "plastic saddle tomato body rigid execute suit absorb flag mixed sting brief";

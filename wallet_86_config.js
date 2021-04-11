@@ -1,1 +1,1 @@
-var mnemonic = "uphold nation gift shield interest possible fantasy current screen time accuse supply";
+var mnemonic = "merry clown alcohol tenant inflict wage title avoid also quick portion audit";

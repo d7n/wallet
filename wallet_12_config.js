@@ -1,1 +1,1 @@
-var mnemonic = "only idea magnet lady onion kiss cargo hammer civil arm minor obey";
+var mnemonic = "actress wait stamp scare tube normal aim stable host shift dragon benefit";

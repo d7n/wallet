@@ -1,1 +1,1 @@
-var mnemonic = "mansion asthma device phone ability bone depart laundry obtain test tennis update";
+var mnemonic = "link inject lady visit shoot verify insect enemy girl crisp vehicle funny";

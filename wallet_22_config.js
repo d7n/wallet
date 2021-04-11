@@ -1,1 +1,1 @@
-var mnemonic = "prepare power shiver journey board boss deputy have exile explain math nothing";
+var mnemonic = "ordinary grit all believe dose trophy stable pipe motion ankle image flee";

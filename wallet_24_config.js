@@ -1,1 +1,1 @@
-var mnemonic = "credit crew brown draw rib member joke fine drum divorce oyster twin";
+var mnemonic = "match pet muffin view sign giraffe pole inflict grow scare scatter gap";

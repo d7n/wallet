@@ -1,1 +1,1 @@
-var mnemonic = "horror flush spice morning cheese scatter evolve sweet result inmate very imitate";
+var mnemonic = "drum cushion dad actual stool index brief marine bullet chef engine illegal";

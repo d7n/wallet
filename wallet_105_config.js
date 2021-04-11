@@ -1,1 +1,1 @@
-var mnemonic = "inhale fiscal elite crouch science veteran subway shell glad escape word review";
+var mnemonic = "target gesture atom hundred sausage viable axis view exotic result fire bracket";

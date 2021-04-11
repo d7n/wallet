@@ -1,1 +1,1 @@
-var mnemonic = "share submit flash army shield warm federal midnight around fix empower update";
+var mnemonic = "provide air pudding knee example dune taste potato gallery air finish wedding";

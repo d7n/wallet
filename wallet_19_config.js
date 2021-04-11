@@ -1,1 +1,1 @@
-var mnemonic = "device faint walk young wheel digital solar sick repair lemon pulse loyal";
+var mnemonic = "penalty pupil gallery game bridge notable erase carry police puppy program attack";

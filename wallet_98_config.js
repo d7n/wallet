@@ -1,1 +1,1 @@
-var mnemonic = "science ticket away disorder exclude wild width diamond cradle also pill raw";
+var mnemonic = "badge dwarf peanut execute bronze stay cradle arrow fiction repeat chapter nuclear";

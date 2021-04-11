@@ -1,1 +1,1 @@
-var mnemonic = "defense picnic impact pitch wine merit mass history cause ice gain predict";
+var mnemonic = "logic grace army deposit endorse banana claim police brush mixture profit dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "fury benefit suggest join shallow novel purse guilt bachelor marble song wheat";
+var mnemonic = "poem salt private gain olympic extend govern almost surround add vehicle broccoli";

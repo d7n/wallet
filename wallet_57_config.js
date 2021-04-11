@@ -1,1 +1,1 @@
-var mnemonic = "require tattoo jealous unique have vocal another sponsor chronic online verb desk";
+var mnemonic = "brisk dog surround lecture image assault room ancient scene enter almost physical";

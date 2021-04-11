@@ -1,1 +1,1 @@
-var mnemonic = "discover brisk board much spray cannon law mesh bitter draft you shrug";
+var mnemonic = "crazy welcome skill cram resemble jewel embark rubber person float lens erode";

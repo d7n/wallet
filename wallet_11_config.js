@@ -1,1 +1,1 @@
-var mnemonic = "disease risk excuse spawn border glass hope ivory dinosaur later jazz lion";
+var mnemonic = "creek blouse ability cheap zoo mesh potato lamp glimpse bag walk found";

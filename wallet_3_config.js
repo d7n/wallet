@@ -1,1 +1,1 @@
-var mnemonic = "secret weekend fit glass aisle impose come enroll search owner adult neither";
+var mnemonic = "flag fine column pumpkin render tank inherit unaware one connect divide fetch";

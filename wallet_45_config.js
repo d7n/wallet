@@ -1,1 +1,1 @@
-var mnemonic = "bleak offer taste shoot around govern head ride stool trade trigger reunion";
+var mnemonic = "beyond dentist adult diet motion cupboard hundred night cost cliff breeze school";

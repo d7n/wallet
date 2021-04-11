@@ -1,1 +1,1 @@
-var mnemonic = "grid place field foot debate unlock fence busy input vapor filter ceiling";
+var mnemonic = "armor mule rapid garment coffee youth hotel leopard family labor burden zero";

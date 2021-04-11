@@ -1,1 +1,1 @@
-var mnemonic = "found obscure motion club apart dinner dismiss opera hazard captain recipe fade";
+var mnemonic = "seed antique melody ripple client actor february quit pilot become suffer prize";

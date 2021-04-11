@@ -1,1 +1,1 @@
-var mnemonic = "shift crouch voice uncover cliff add orient pact glue almost marble you";
+var mnemonic = "mango expose large modify grant tobacco walnut boil either excite session lab";

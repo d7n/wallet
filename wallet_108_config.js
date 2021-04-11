@@ -1,1 +1,1 @@
-var mnemonic = "effort noise amazing cycle ignore once doll daring sand shiver morning witness";
+var mnemonic = "trade whale property coil whip hospital aerobic drop room phone open become";

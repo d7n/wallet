@@ -1,1 +1,1 @@
-var mnemonic = "beyond reveal hand hunt taste lumber novel october wink affair bullet bunker";
+var mnemonic = "recipe woman machine inch cradle plug client picnic transfer situate account happy";

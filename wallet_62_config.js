@@ -1,1 +1,1 @@
-var mnemonic = "limb alley pink twin give wine hurdle record above bomb entry peasant";
+var mnemonic = "grunt acid boat local able gown sudden imitate piece host fit shove";

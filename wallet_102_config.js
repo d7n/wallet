@@ -1,1 +1,1 @@
-var mnemonic = "stamp matter artwork slight crowd similar decrease name urge police total core";
+var mnemonic = "jar fit duck much essay frozen alien resemble unhappy poverty come antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "child pig asset rude orange twenty dad jelly mix lawsuit desk group";
+var mnemonic = "horn raise wish equip ridge supply nest laugh economy wave tourist romance";

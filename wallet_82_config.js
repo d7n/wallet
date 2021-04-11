@@ -1,1 +1,1 @@
-var mnemonic = "convince wink sign rival entire verb robot scatter wild breeze flash hawk";
+var mnemonic = "yard near uniform shoe company bean blossom envelope join attack convince rapid";

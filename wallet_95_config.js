@@ -1,1 +1,1 @@
-var mnemonic = "upon despair bachelor manual famous excess script public trigger romance insane sunset";
+var mnemonic = "bunker drink bleak reward wheat reward host embrace lemon castle reopen bullet";

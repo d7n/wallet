@@ -1,1 +1,1 @@
-var mnemonic = "citizen wet thank must caution inquiry umbrella century talent buddy soon snake";
+var mnemonic = "there rare electric save vintage forward display tank gate code primary remember";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese vivid duck meat table term wonder above view cheap grow add";
+var mnemonic = "craft decline badge canvas lens cousin thing park hotel radar injury cave";

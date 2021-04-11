@@ -1,1 +1,1 @@
-var mnemonic = "honey mansion peasant retire obey clog envelope scatter camera grit tourist hip";
+var mnemonic = "parade begin found elephant unique enforce note vibrant soap grief vendor defy";

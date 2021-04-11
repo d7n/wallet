@@ -1,1 +1,1 @@
-var mnemonic = "autumn trap top script sugar hurdle judge enforce walk mosquito apart plate";
+var mnemonic = "unique board adult artefact laundry settle slam valid truck poem exotic rabbit";

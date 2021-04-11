@@ -1,1 +1,1 @@
-var mnemonic = "skull boss chunk avocado away assist repair cluster beyond bunker away brisk";
+var mnemonic = "quality dolphin pave hurdle present other future farm chat echo heart beyond";
