@@ -1,1 +1,1 @@
-var mnemonic = "trophy symptom city second monitor day sign select burst wedding candy offer";
+var mnemonic = "scale helmet merge segment secret clog eagle vacuum raccoon flush author juice";

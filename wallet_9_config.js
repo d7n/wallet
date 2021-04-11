@@ -1,1 +1,1 @@
-var mnemonic = "month spend cluster artwork toilet soon panda mean clutch elevator victory stove";
+var mnemonic = "always february captain mechanic barely scan thrive paper cradle subway main error";

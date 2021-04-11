@@ -1,1 +1,1 @@
-var mnemonic = "cycle grow win wreck vicious firm arrange drip limit rain village rhythm";
+var mnemonic = "census penalty mesh infant horn captain solid anxiety what focus meat peace";

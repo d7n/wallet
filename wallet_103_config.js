@@ -1,1 +1,1 @@
-var mnemonic = "quality dolphin pave hurdle present other future farm chat echo heart beyond";
+var mnemonic = "burst wolf penalty edit churn elbow then amount arrange yellow useless citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "code render tell cloud snow fade bread smooth end magnet skirt round";
+var mnemonic = "help stand occur vote give clinic popular agree wrestle leaf motor sphere";

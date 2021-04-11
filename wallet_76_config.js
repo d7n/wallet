@@ -1,1 +1,1 @@
-var mnemonic = "repair dad design remind ahead ritual desk spend oven zoo actress dolphin";
+var mnemonic = "venue walnut black nephew resist speak inherit nature position become couch seed";

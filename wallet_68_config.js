@@ -1,1 +1,1 @@
-var mnemonic = "armor mule rapid garment coffee youth hotel leopard family labor burden zero";
+var mnemonic = "squirrel venture spoil split stove shoulder toy orient area unknown pause bar";

@@ -1,1 +1,1 @@
-var mnemonic = "pool napkin toward photo used seed battle elder picnic remind spawn clap";
+var mnemonic = "move differ novel close learn index pizza waste toss proof magnet venue";

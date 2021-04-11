@@ -1,1 +1,1 @@
-var mnemonic = "seed antique melody ripple client actor february quit pilot become suffer prize";
+var mnemonic = "patrol apology laugh sunset runway govern excite sunset option neglect rent skill";

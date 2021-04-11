@@ -1,1 +1,1 @@
-var mnemonic = "valley april tuna easily filter crunch furnace pull cry hurdle snow floor";
+var mnemonic = "fold entry toward boat season alley tail awake behind joy ranch clay";

@@ -1,1 +1,1 @@
-var mnemonic = "sense first surge region real era scissors heavy slam lobster combine marriage";
+var mnemonic = "flight moral favorite tornado fruit staff record ocean fresh nose pigeon tennis";

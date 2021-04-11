@@ -1,1 +1,1 @@
-var mnemonic = "ordinary grit all believe dose trophy stable pipe motion ankle image flee";
+var mnemonic = "rate animal crowd puzzle brown already mechanic fiction match slice put glimpse";

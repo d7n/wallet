@@ -1,1 +1,1 @@
-var mnemonic = "bunker drink bleak reward wheat reward host embrace lemon castle reopen bullet";
+var mnemonic = "notable place puzzle oxygen actual spatial genre unfair bleak joy proof also";

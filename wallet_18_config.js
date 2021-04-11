@@ -1,1 +1,1 @@
-var mnemonic = "educate problem extend snap mistake strike gym category century cream merit tobacco";
+var mnemonic = "lava protect scan alcohol whale bid movie shoe sausage fossil glass scatter";

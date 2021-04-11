@@ -1,1 +1,1 @@
-var mnemonic = "champion cloth outside approve unfold horse galaxy grass busy heavy escape paper";
+var mnemonic = "noise hazard flock give crucial danger coast hold frost bid magnet zoo";

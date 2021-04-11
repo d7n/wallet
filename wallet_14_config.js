@@ -1,1 +1,1 @@
-var mnemonic = "palace grocery equal move estate wish oblige toy bundle pride van tourist";
+var mnemonic = "chest warrior split polar remind stamp coil innocent helmet teach address width";

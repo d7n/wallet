@@ -1,1 +1,1 @@
-var mnemonic = "ribbon mosquito buyer rotate uniform clown capital switch addict tuna cancel tornado";
+var mnemonic = "budget upgrade clarify fame bunker juice service legend harbor fiction today burst";

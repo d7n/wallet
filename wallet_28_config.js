@@ -1,1 +1,1 @@
-var mnemonic = "gesture spoil bright patient buzz tone network heart car start safe answer";
+var mnemonic = "glory endless early rotate foam curtain hawk iron carry around exotic topple";

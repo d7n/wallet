@@ -1,1 +1,1 @@
-var mnemonic = "museum hedgehog assist place clay kiss mountain laundry patient general explain addict";
+var mnemonic = "unknown total focus keen fringe kangaroo film hunt sleep crouch push thing";

@@ -1,1 +1,1 @@
-var mnemonic = "media endorse question ahead alone enroll mansion once man exhaust need have";
+var mnemonic = "loop sadness woman civil furnace rigid angry truly pepper rare blouse cat";

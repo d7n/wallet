@@ -1,1 +1,1 @@
-var mnemonic = "comfort height wonder choice arch neglect equip cloud visa repair wealth robot";
+var mnemonic = "tortoise swim love news search sort unable someone abuse fetch knife duty";

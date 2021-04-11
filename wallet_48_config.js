@@ -1,1 +1,1 @@
-var mnemonic = "acoustic rude usual parade river father flip syrup amount resemble genuine reunion";
+var mnemonic = "coin stock sign loud diet enforce whale general girl already upset head";

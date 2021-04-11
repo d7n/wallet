@@ -1,1 +1,1 @@
-var mnemonic = "parade begin found elephant unique enforce note vibrant soap grief vendor defy";
+var mnemonic = "menu blind action frozen insect estate shoulder once sport more argue mansion";

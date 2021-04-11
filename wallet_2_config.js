@@ -1,1 +1,1 @@
-var mnemonic = "horn raise wish equip ridge supply nest laugh economy wave tourist romance";
+var mnemonic = "jazz minimum one sleep they dizzy myself tool maze comic license reveal";

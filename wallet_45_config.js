@@ -1,1 +1,1 @@
-var mnemonic = "beyond dentist adult diet motion cupboard hundred night cost cliff breeze school";
+var mnemonic = "horror fox impose force clog betray age guess armed margin actor symptom";

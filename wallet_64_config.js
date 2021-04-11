@@ -1,1 +1,1 @@
-var mnemonic = "expect tackle level very broken ticket infant describe noodle snake twice expect";
+var mnemonic = "reject purchase badge direct cash swap above certain dad attract opinion scrub";

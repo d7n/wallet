@@ -1,1 +1,1 @@
-var mnemonic = "home connect have toilet unlock immune neither fashion square move ship hen";
+var mnemonic = "rare skin waste employ hidden debris tray trend rotate album quote matter";

@@ -1,1 +1,1 @@
-var mnemonic = "provide air pudding knee example dune taste potato gallery air finish wedding";
+var mnemonic = "install ask bike judge nature cabbage behind carry doctor garment lazy wave";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum clarify isolate result hockey copper replace witness inhale already dad original";
+var mnemonic = "antique notice alpha aerobic eye earn spawn basket usual reflect horse pink";

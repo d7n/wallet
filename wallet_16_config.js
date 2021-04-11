@@ -1,1 +1,1 @@
-var mnemonic = "raise firm tiger book moral envelope conduct viable vacant angry spy devote";
+var mnemonic = "borrow multiply birth artefact eyebrow dinosaur merge pass track faint pill snake";

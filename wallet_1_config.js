@@ -1,1 +1,1 @@
-var mnemonic = "digital ozone unfold wild swap credit sentence large shock coast mix nerve";
+var mnemonic = "guard palace scene you elite fun decorate ozone simple narrow fitness favorite";

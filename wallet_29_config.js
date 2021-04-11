@@ -1,1 +1,1 @@
-var mnemonic = "lab zone blur come print fuel they clump stick screen number tiny";
+var mnemonic = "brief arena alien size plate neither loyal tackle spare color eight someone";

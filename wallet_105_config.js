@@ -1,1 +1,1 @@
-var mnemonic = "target gesture atom hundred sausage viable axis view exotic result fire bracket";
+var mnemonic = "festival yellow snap clown attitude genre feel vacuum similar hip naive state";

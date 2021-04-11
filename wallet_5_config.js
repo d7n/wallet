@@ -1,1 +1,1 @@
-var mnemonic = "unique board adult artefact laundry settle slam valid truck poem exotic rabbit";
+var mnemonic = "measure south top seminar fantasy sword rotate aspect duck buyer when boss";

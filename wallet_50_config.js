@@ -1,1 +1,1 @@
-var mnemonic = "tunnel raven awful mirror match sense tree cheap ticket mango acid measure";
+var mnemonic = "corn task artefact rule ensure broccoli balance awkward between relax more illegal";

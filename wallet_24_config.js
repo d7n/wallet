@@ -1,1 +1,1 @@
-var mnemonic = "match pet muffin view sign giraffe pole inflict grow scare scatter gap";
+var mnemonic = "stool ill voice fee sponsor universe strategy never bounce palace blade zoo";

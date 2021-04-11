@@ -1,1 +1,1 @@
-var mnemonic = "upper example lawsuit artist nothing spread ensure blind remove damp physical earth";
+var mnemonic = "joke toe denial reopen scout train equal oval pond ecology tortoise club";

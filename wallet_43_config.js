@@ -1,1 +1,1 @@
-var mnemonic = "craft decline badge canvas lens cousin thing park hotel radar injury cave";
+var mnemonic = "neck can country woman describe kite combine myself grain clean wish cover";

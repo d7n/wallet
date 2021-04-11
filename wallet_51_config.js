@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon degree caught wheel ensure hover neck banner lawn theory rally success";
+var mnemonic = "army say impact loyal help media hover stool cement brand amazing giggle";

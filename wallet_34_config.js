@@ -1,1 +1,1 @@
-var mnemonic = "talk uphold circle transfer chalk impulse surround enroll pattern profit rough cattle";
+var mnemonic = "explain peasant mule swamp entry ridge base soon february tool simple powder";

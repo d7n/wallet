@@ -1,1 +1,1 @@
-var mnemonic = "virtual modify rifle chimney catch tilt cover flag abuse shy embark upper";
+var mnemonic = "cute quit employ truth aerobic camera year punch know cigar search garden";

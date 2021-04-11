@@ -1,1 +1,1 @@
-var mnemonic = "hub climb peace debate amateur enjoy approve present vacant claim cheese square";
+var mnemonic = "outside bitter thing rabbit either merit file fit clap suggest found use";

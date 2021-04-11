@@ -1,1 +1,1 @@
-var mnemonic = "raven bread lucky patient believe coffee bleak lake fly hurt oyster hood";
+var mnemonic = "steel second fox camera action sell clip inside arrive love humor oval";

@@ -1,1 +1,1 @@
-var mnemonic = "logic grace army deposit endorse banana claim police brush mixture profit dilemma";
+var mnemonic = "fetch wine bounce final tag address gate speed ramp okay mouse absorb";

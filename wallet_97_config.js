@@ -1,1 +1,1 @@
-var mnemonic = "ordinary among blush tube art grant crack tortoise dog scissors caught flame";
+var mnemonic = "image fog hint fire gauge rifle amount mercy scout cereal spin horror";

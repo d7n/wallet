@@ -1,1 +1,1 @@
-var mnemonic = "tube magnet yellow trouble position reflect leg bulb wrap august prevent slight";
+var mnemonic = "solid hat inch table iron subject blossom loan very invite provide consider";

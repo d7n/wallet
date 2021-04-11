@@ -1,1 +1,1 @@
-var mnemonic = "order wood bench sea park breeze dove stay memory have physical sniff";
+var mnemonic = "once grow vacuum walk sister empower typical gossip best dawn quarter cluster";

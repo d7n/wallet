@@ -1,1 +1,1 @@
-var mnemonic = "poem salt private gain olympic extend govern almost surround add vehicle broccoli";
+var mnemonic = "local artefact welcome agent panel wire body pig uphold keep method solid";

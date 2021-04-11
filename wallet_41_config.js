@@ -1,1 +1,1 @@
-var mnemonic = "april hungry reunion creek fall employ depend enable glove enhance ceiling disease";
+var mnemonic = "stick carpet shallow winner kick frozen arrest best acquire lumber dad hawk";

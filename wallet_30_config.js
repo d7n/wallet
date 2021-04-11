@@ -1,1 +1,1 @@
-var mnemonic = "suffer want man remind vivid pink chase rice laundry phone bounce crack";
+var mnemonic = "okay outside wagon original doll jelly piano sound remain hill swing border";

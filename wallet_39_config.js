@@ -1,1 +1,1 @@
-var mnemonic = "phrase stock episode valve outdoor enjoy gorilla tube amount neutral powder leader";
+var mnemonic = "alter debris economy cradle ask plunge design arena layer cheap tattoo exact";

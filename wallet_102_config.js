@@ -1,1 +1,1 @@
-var mnemonic = "jar fit duck much essay frozen alien resemble unhappy poverty come antenna";
+var mnemonic = "page cat hard wisdom bus boring matter dawn broken drastic live inquiry";

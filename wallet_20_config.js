@@ -1,1 +1,1 @@
-var mnemonic = "velvet shrimp cupboard multiply wolf kiss result rail idea injury essay pattern";
+var mnemonic = "suit deal equip life nation link venue behave museum twelve zoo laptop";

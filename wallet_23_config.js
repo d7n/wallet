@@ -1,1 +1,1 @@
-var mnemonic = "panther tuition olive egg tomorrow nation adjust truck situate shrug fetch canoe";
+var mnemonic = "zebra change cover state spy trust rescue pulp cricket curve prevent blossom";

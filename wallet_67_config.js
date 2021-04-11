@@ -1,1 +1,1 @@
-var mnemonic = "walnut envelope syrup faith stadium more use alter torch sniff second develop";
+var mnemonic = "brown goat athlete frost fluid dismiss urban dynamic flame shoot possible polar";

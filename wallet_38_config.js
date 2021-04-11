@@ -1,1 +1,1 @@
-var mnemonic = "donkey despair cousin fence purse amateur make seat connect forum win assume";
+var mnemonic = "crop method student detect shed umbrella lift grid attitude secret blur bamboo";

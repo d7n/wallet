@@ -1,1 +1,1 @@
-var mnemonic = "yard near uniform shoe company bean blossom envelope join attack convince rapid";
+var mnemonic = "much saddle model review wrap tumble table pitch boost gate staff tree";

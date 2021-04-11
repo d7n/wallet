@@ -1,1 +1,1 @@
-var mnemonic = "safe huge fun cliff layer length scorpion wrist dolphin nest pipe eye";
+var mnemonic = "equip merge mandate stem today hover riot real vapor satoshi congress road";

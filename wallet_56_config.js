@@ -1,1 +1,1 @@
-var mnemonic = "alien harsh label capital chimney eye female mosquito speak simple celery hollow";
+var mnemonic = "affair gentle next wheel feel antique boil toward doll cheap hour need";

@@ -1,1 +1,1 @@
-var mnemonic = "creek blouse ability cheap zoo mesh potato lamp glimpse bag walk found";
+var mnemonic = "tumble chair faint sunny accuse wasp icon fringe hospital emerge dumb fit";

@@ -1,1 +1,1 @@
-var mnemonic = "fix cinnamon desert cushion cousin attract expire valid dawn act fee note";
+var mnemonic = "rifle discover region jelly diamond oil job frame shoe topple fashion stay";

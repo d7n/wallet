@@ -1,1 +1,1 @@
-var mnemonic = "trade whale property coil whip hospital aerobic drop room phone open become";
+var mnemonic = "maid pigeon wish garment suspect blush suspect will sheriff tuna spend dirt";

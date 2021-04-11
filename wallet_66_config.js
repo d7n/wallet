@@ -1,1 +1,1 @@
-var mnemonic = "drum cushion dad actual stool index brief marine bullet chef engine illegal";
+var mnemonic = "need clerk face inch govern popular oval quiz able vehicle three theory";

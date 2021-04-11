@@ -1,1 +1,1 @@
-var mnemonic = "quit endorse hazard weapon spike amazing fatigue silver fantasy employ junk illegal";
+var mnemonic = "oxygen dice leg odor gaze mountain intact once giraffe antenna tide cruise";

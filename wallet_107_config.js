@@ -1,1 +1,1 @@
-var mnemonic = "neutral decline record used stable indicate stuff cousin forum card dice table";
+var mnemonic = "exhaust desert color type comfort quarter egg nest mandate secret purse tumble";

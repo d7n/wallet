@@ -1,1 +1,1 @@
-var mnemonic = "topple submit excite survey swear bonus census dress major lizard air high";
+var mnemonic = "tip grunt east brown burger mention total health rival butter sadness rose";

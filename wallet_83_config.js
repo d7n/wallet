@@ -1,1 +1,1 @@
-var mnemonic = "gentle surface glow document portion cigar drama sphere kingdom cushion assume snack";
+var mnemonic = "wasp balcony install jewel area seek sustain mother asset submit conduct stage";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic tray pudding ancient rhythm switch enable replace lazy foot basic way";
+var mnemonic = "heart ski rapid day medal material ketchup west bread feed wild taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock beef cupboard blood maze abstract scare insane fine worth memory cube";
+var mnemonic = "swallow remove filter enough carpet strike chapter toy under silly emotion stand";

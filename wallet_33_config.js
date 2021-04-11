@@ -1,1 +1,1 @@
-var mnemonic = "legend tattoo burden prosper educate taxi estate general bottom time regret tribe";
+var mnemonic = "step harbor shoot luggage power injury melt grid course exact invest trip";

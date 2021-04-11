@@ -1,1 +1,1 @@
-var mnemonic = "duty steel giggle squeeze fruit smoke report holiday music current hundred tag";
+var mnemonic = "clump glory gentle melody cage estate negative issue fiber path duck chat";

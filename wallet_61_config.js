@@ -1,1 +1,1 @@
-var mnemonic = "link inject lady visit shoot verify insect enemy girl crisp vehicle funny";
+var mnemonic = "swim guard sing head praise lend note discover gas solution avocado federal";

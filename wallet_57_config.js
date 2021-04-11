@@ -1,1 +1,1 @@
-var mnemonic = "brisk dog surround lecture image assault room ancient scene enter almost physical";
+var mnemonic = "million clarify title fortune marble accident equal swing damage strong search can";

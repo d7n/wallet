@@ -1,1 +1,1 @@
-var mnemonic = "tribe demise dry spice note brief answer lesson major hard between hire";
+var mnemonic = "attack horse tip ugly unfair state miracle buddy solve thrive truth regular";

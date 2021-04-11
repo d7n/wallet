@@ -1,1 +1,1 @@
-var mnemonic = "inherit property fitness length dash trouble execute casino fabric van slide fashion";
+var mnemonic = "pupil throw dash busy recall trial tool apart family junior measure coil";

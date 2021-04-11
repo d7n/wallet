@@ -1,1 +1,1 @@
-var mnemonic = "recipe woman machine inch cradle plug client picnic transfer situate account happy";
+var mnemonic = "enough dumb elegant owner book manage enact atom dragon asset grit return";

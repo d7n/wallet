@@ -1,1 +1,1 @@
-var mnemonic = "unlock write current window twenty engine baby word best jaguar remain slow";
+var mnemonic = "twin rifle amazing wear social length viable daughter dice only bulb popular";

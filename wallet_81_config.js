@@ -1,1 +1,1 @@
-var mnemonic = "there rare electric save vintage forward display tank gate code primary remember";
+var mnemonic = "multiply turn misery neck laundry trigger affair fly mandate message meadow salmon";

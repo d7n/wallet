@@ -1,1 +1,1 @@
-var mnemonic = "merry clown alcohol tenant inflict wage title avoid also quick portion audit";
+var mnemonic = "wire denial purchase notice glass hawk tragic nation mandate hazard wedding rain";

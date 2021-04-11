@@ -1,1 +1,1 @@
-var mnemonic = "penalty pupil gallery game bridge notable erase carry police puppy program attack";
+var mnemonic = "clap canoe endless goose catalog control salad expire angle pipe solid during";

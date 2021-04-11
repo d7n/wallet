@@ -1,1 +1,1 @@
-var mnemonic = "badge dwarf peanut execute bronze stay cradle arrow fiction repeat chapter nuclear";
+var mnemonic = "pave aisle warm flock crime cook pole live voyage turn hill spawn";

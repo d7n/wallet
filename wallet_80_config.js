@@ -1,1 +1,1 @@
-var mnemonic = "spy badge fan plate asthma swift recall goat tooth mad effort hunt";
+var mnemonic = "obey arm suspect witness toe eternal october hope wheat width program wonder";

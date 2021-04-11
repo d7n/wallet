@@ -1,1 +1,1 @@
-var mnemonic = "buzz march claw leg refuse inside crater nuclear scout differ target tell";
+var mnemonic = "hedgehog tenant squeeze magnet cinnamon night rural certain someone mesh skull dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "hair firm bundle text size spawn domain pact zero predict dove glide";
+var mnemonic = "recycle culture boring purse document snack daring swarm maximum fury weapon lizard";

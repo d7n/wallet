@@ -1,1 +1,1 @@
-var mnemonic = "derive load same ranch clinic cactus spin field judge wreck marine arctic";
+var mnemonic = "orbit taxi salad coffee crop tell trouble ancient asthma proof marriage alien";

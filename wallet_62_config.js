@@ -1,1 +1,1 @@
-var mnemonic = "grunt acid boat local able gown sudden imitate piece host fit shove";
+var mnemonic = "plunge until family elevator invite flush dolphin clown turkey power state struggle";

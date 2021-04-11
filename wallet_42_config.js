@@ -1,1 +1,1 @@
-var mnemonic = "fit holiday juice diesel vintage bench come together shell bar disease laundry";
+var mnemonic = "frame eyebrow notable hundred glove marriage work gold horn brave ordinary shuffle";

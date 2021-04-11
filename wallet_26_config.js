@@ -1,1 +1,1 @@
-var mnemonic = "wall remain nasty sample mixture seminar february slush apart already square parent";
+var mnemonic = "vanish strike question inspire degree alert border pig toss decrease spider interest";
