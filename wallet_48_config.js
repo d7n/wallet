@@ -1,1 +1,1 @@
-var mnemonic = "hammer slab mobile robust abstract pigeon foot exercise decorate fragile cactus excite";
+var mnemonic = "citizen survey sense nest measure tide stick island crumble find stamp vague";

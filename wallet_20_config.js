@@ -1,1 +1,1 @@
-var mnemonic = "hybrid apple snake soup dog base swallow neutral beach camp rebuild alter";
+var mnemonic = "country powder useful maze distance since kick always dune key mistake shrug";

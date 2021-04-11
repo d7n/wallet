@@ -1,1 +1,1 @@
-var mnemonic = "unhappy license funny general solve must voice film wear cinnamon scare police";
+var mnemonic = "potato kiss farm slight gather keep razor pretty thunder brown kitchen loop";

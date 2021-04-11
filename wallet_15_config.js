@@ -1,1 +1,1 @@
-var mnemonic = "frozen glare machine option tree rice camera toss fine match elbow hunt";
+var mnemonic = "dog spoon music cargo dish forward include blanket narrow lava hockey swing";

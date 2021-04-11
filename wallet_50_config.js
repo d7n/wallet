@@ -1,1 +1,1 @@
-var mnemonic = "moon warfare broom can elbow now ugly muscle fetch guide culture like";
+var mnemonic = "seek online page tilt baby virtual disagree weather obscure depart execute shoe";

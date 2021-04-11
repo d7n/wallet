@@ -1,1 +1,1 @@
-var mnemonic = "punch author inform hollow sunset pledge kidney warm table secret peace humble";
+var mnemonic = "choice gym avocado disease surround tragic shadow submit glance photo illegal evil";

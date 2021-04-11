@@ -1,1 +1,1 @@
-var mnemonic = "public gap rate crush find donkey bar hire wasp giant joke expire";
+var mnemonic = "cage pizza pelican movie ancient erupt december deliver hen sail exile sting";

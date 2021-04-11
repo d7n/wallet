@@ -1,1 +1,1 @@
-var mnemonic = "gaze you boat blame sunset story settle pact enact matter chaos action";
+var mnemonic = "enroll you duck brain shoulder impulse garlic black nuclear minimum genre drill";

@@ -1,1 +1,1 @@
-var mnemonic = "type pet other kingdom liberty cannon void unlock curious sample ranch culture";
+var mnemonic = "stereo million claim match depart castle plunge case left rail grow direct";

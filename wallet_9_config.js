@@ -1,1 +1,1 @@
-var mnemonic = "average amused brain attend base truth position prepare absent detail party enhance";
+var mnemonic = "mix other into loop chair left glove naive entire pyramid screen chief";

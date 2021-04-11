@@ -1,1 +1,1 @@
-var mnemonic = "base onion alpha wine bronze world marine grid person scrub warfare latin";
+var mnemonic = "tree useless curve device emerge vast curtain wave report crowd ranch anxiety";

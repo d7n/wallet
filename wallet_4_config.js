@@ -1,1 +1,1 @@
-var mnemonic = "attitude kit average general frozen remember injury raccoon gate august grit album";
+var mnemonic = "legal ethics kiss bonus mutual merge coil board drink share game check";

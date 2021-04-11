@@ -1,1 +1,1 @@
-var mnemonic = "forward version fan mountain sibling hybrid source light fold video desert tongue";
+var mnemonic = "spirit vintage forum lava category essay body entire rival spirit scout razor";

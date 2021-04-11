@@ -1,1 +1,1 @@
-var mnemonic = "display jump stadium tape pepper connect decline enlist grass shine major broken";
+var mnemonic = "rescue forget health over fantasy hammer squeeze razor canvas notice guide cage";

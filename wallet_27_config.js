@@ -1,1 +1,1 @@
-var mnemonic = "crucial coconut laptop ugly impact banner stone gym exile pink grunt pencil";
+var mnemonic = "assault cheese dismiss visit hour stadium lake harsh system invite truck opinion";

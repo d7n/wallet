@@ -1,1 +1,1 @@
-var mnemonic = "bean chief another payment process canyon organ mobile annual fantasy ready oppose";
+var mnemonic = "miracle morning south arena dune vast tilt cute pupil trouble example drastic";

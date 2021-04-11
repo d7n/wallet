@@ -1,1 +1,1 @@
-var mnemonic = "genius cousin course also fantasy step calm jar write timber chair man";
+var mnemonic = "elite tooth undo dentist fix play lumber organ embody junk finish version";

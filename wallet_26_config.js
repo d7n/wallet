@@ -1,1 +1,1 @@
-var mnemonic = "author ghost trash neutral goose style alpha exchange issue glove impact supply";
+var mnemonic = "outer enough disease twenty whale mansion expand attack quiz rigid problem excite";

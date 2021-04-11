@@ -1,1 +1,1 @@
-var mnemonic = "inside theme evil leisure indoor unfair liberty grit tower element toy error";
+var mnemonic = "coil sail friend firm tomorrow power maze produce river entry gloom decorate";

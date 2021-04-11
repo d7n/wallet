@@ -1,1 +1,1 @@
-var mnemonic = "pride staff orange deputy burger stairs century spin capable popular pelican tilt";
+var mnemonic = "effort west battle frequent nuclear left smart lake wolf second prefer syrup";

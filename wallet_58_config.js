@@ -1,1 +1,1 @@
-var mnemonic = "stable bachelor embrace school excite glove deliver drill lesson team abstract cannon";
+var mnemonic = "boat aware rich enrich teach hobby sport rescue stamp volume measure inner";

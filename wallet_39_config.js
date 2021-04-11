@@ -1,1 +1,1 @@
-var mnemonic = "fence impact cover belt unveil panther disease noodle easy cable orbit spend";
+var mnemonic = "paper vital coast crush that general typical guess bachelor short account inquiry";

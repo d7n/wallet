@@ -1,1 +1,1 @@
-var mnemonic = "trial pony jungle unveil pistol wonder private paddle wave sibling dog vast";
+var mnemonic = "pioneer welcome shoe subway near below trap virus news oven toss repair";

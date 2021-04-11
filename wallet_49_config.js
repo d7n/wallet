@@ -1,1 +1,1 @@
-var mnemonic = "comfort love aspect trophy lemon double beach major champion draw team secret";
+var mnemonic = "kangaroo stand coast reward belt cannon lemon ring canoe half popular squeeze";

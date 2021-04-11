@@ -1,1 +1,1 @@
-var mnemonic = "differ surface shuffle hidden neither chief camera volcano credit wear blanket prosper";
+var mnemonic = "tube strategy pupil warm awkward follow fragile join banana brain only weekend";

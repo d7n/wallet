@@ -1,1 +1,1 @@
-var mnemonic = "stairs lens camp reform innocent custom love various exercise pizza camp desk";
+var mnemonic = "miracle worry involve step move collect menu injury useless true noble cook";

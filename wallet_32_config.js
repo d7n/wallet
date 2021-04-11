@@ -1,1 +1,1 @@
-var mnemonic = "safe dignity myth round life borrow motor funny sniff floor eagle raise";
+var mnemonic = "bronze credit base couple city three skull mechanic victory rescue visit gas";

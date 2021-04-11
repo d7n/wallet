@@ -1,1 +1,1 @@
-var mnemonic = "transfer near pet metal column object onion friend grass lock burger clutch";
+var mnemonic = "rotate bread stove mule olympic either step laugh rotate sad toss address";

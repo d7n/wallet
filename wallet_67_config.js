@@ -1,1 +1,1 @@
-var mnemonic = "unhappy upon goose high wolf device slow birth next demise funny length";
+var mnemonic = "satisfy clump either process tree sausage donate call law concert vibrant flavor";

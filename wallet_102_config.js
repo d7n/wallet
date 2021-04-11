@@ -1,1 +1,1 @@
-var mnemonic = "puzzle ranch doll road skull dish burst industry appear vibrant creek casual";
+var mnemonic = "much wonder cool praise only trial window climb vague debate velvet boy";

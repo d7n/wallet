@@ -1,1 +1,1 @@
-var mnemonic = "predict mesh roast shove task volcano despair warfare engine remind theme woman";
+var mnemonic = "usual month item pact mixture exit lunch wrestle detect anxiety again fantasy";

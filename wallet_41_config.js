@@ -1,1 +1,1 @@
-var mnemonic = "survey salon awesome thrive please educate normal ethics luxury arena effort people";
+var mnemonic = "there wolf arrive destroy human discover learn identify upper certain involve erupt";

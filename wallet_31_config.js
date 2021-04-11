@@ -1,1 +1,1 @@
-var mnemonic = "into coin weekend blame either fancy wealth warfare hockey clog indicate oxygen";
+var mnemonic = "course brush bid clerk village thank guilt tonight garden ahead act private";

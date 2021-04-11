@@ -1,1 +1,1 @@
-var mnemonic = "civil vocal alarm confirm paper oyster level wool ecology broccoli guitar luggage";
+var mnemonic = "vicious vendor weekend seven coach ozone crawl coast rebuild quit diet vault";

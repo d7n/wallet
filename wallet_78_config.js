@@ -1,1 +1,1 @@
-var mnemonic = "olive neither news carry boil rural hawk junk appear ketchup cart base";
+var mnemonic = "discover spell aisle evolve light elephant pull celery deliver village sketch crawl";

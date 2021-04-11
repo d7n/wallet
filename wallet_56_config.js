@@ -1,1 +1,1 @@
-var mnemonic = "route depth slender vendor write entry village shaft hotel expose dial update";
+var mnemonic = "fabric harbor sound rib grant inherit machine fitness under uniform rookie napkin";

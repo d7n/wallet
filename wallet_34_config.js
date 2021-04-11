@@ -1,1 +1,1 @@
-var mnemonic = "robot daughter provide soap west flavor suspect hip song banner luggage glare";
+var mnemonic = "post sponsor acoustic water choose embark gasp novel naive opera rally kick";

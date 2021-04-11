@@ -1,1 +1,1 @@
-var mnemonic = "chicken finish surprise frozen forest card mechanic tobacco violin harbor wisdom syrup";
+var mnemonic = "lady outdoor fly holiday flush sister guess sniff circle enable donor shaft";

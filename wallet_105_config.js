@@ -1,1 +1,1 @@
-var mnemonic = "sorry grow inner peasant able winter alley attitude predict sail laundry blouse";
+var mnemonic = "sea magnet trophy ghost remove rescue label ugly smoke pink deputy rescue";

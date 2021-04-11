@@ -1,1 +1,1 @@
-var mnemonic = "hand side hire loop roof cigar pupil debris couch quantum solution favorite";
+var mnemonic = "celery rubber chase carpet crop knee survey crystal lottery inhale chase cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard mass manage system immune erase lawn front spatial sleep tool impose";
+var mnemonic = "cube cloth increase advance school talk suspect sound display acoustic minute gesture";

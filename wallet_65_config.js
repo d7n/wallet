@@ -1,1 +1,1 @@
-var mnemonic = "normal connect figure enjoy fly receive address abstract income flush pill identify";
+var mnemonic = "nothing dance supply foster gift clay crucial cry erupt undo need jelly";

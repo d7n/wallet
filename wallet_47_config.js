@@ -1,1 +1,1 @@
-var mnemonic = "hundred midnight upgrade cabbage retreat soup carry nasty limb sense wheat frog";
+var mnemonic = "purity transfer hour property original air autumn discover act suffer jelly task";

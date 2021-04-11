@@ -1,1 +1,1 @@
-var mnemonic = "uncover unfair black special vacant avocado gown convince fork sample hip onion";
+var mnemonic = "busy hour tell sleep picnic jeans diagram knife doll omit today actress";

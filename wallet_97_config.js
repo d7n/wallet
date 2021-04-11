@@ -1,1 +1,1 @@
-var mnemonic = "radar ginger dance sense ivory habit inject tube rookie carbon demand ticket";
+var mnemonic = "account country float uncover dirt someone word keep inside skull throw empty";

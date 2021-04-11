@@ -1,1 +1,1 @@
-var mnemonic = "rhythm prison age brave cluster case mesh salute future witness bamboo play";
+var mnemonic = "hundred idea knee ship depth develop welcome unaware rotate decline morning december";

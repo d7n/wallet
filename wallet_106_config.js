@@ -1,1 +1,1 @@
-var mnemonic = "dice oak favorite shove profit solution until coil addict damage vendor elegant";
+var mnemonic = "property assist wild bicycle reunion pair drive carbon immune airport hawk express";

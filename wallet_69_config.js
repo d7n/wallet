@@ -1,1 +1,1 @@
-var mnemonic = "few loop jaguar guitar dream grow pull edge energy high insect mountain";
+var mnemonic = "divert shine must animal spray draw people goose spray loop girl symbol";

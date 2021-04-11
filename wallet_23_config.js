@@ -1,1 +1,1 @@
-var mnemonic = "anger social then cotton code mirror raw entire olympic relax vacant jump";
+var mnemonic = "load tourist jazz aunt chest title cattle home illegal method pen coin";

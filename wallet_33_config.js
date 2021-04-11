@@ -1,1 +1,1 @@
-var mnemonic = "above glance catalog defense calm deposit ahead blame birth similar resist among";
+var mnemonic = "little surface three menu trick arrow hobby stumble fiscal pattern they vote";

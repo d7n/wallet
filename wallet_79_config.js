@@ -1,1 +1,1 @@
-var mnemonic = "main imitate broccoli spice brass exhibit denial swallow account segment increase easy";
+var mnemonic = "exhaust common loyal monster leave garment comic thumb slide layer consider quantum";

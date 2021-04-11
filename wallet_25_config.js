@@ -1,1 +1,1 @@
-var mnemonic = "thunder echo phrase honey question sound egg slim develop layer exercise bid";
+var mnemonic = "suggest then prize faint aerobic double wasp holiday puzzle stamp math ketchup";

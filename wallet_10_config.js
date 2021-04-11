@@ -1,1 +1,1 @@
-var mnemonic = "public beauty deny guess critic elbow refuse staff must return siege badge";
+var mnemonic = "sweet antenna under impulse theory mixture baby portion proud fat decrease sudden";

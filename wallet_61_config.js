@@ -1,1 +1,1 @@
-var mnemonic = "tuition accuse torch pipe rescue tenant coin scrap proud puzzle wasp window";
+var mnemonic = "castle absurd title grain mandate gallery assume legend desk ocean coin breeze";

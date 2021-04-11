@@ -1,1 +1,1 @@
-var mnemonic = "actress beauty solution wink resemble beach pride cinnamon true build solution cattle";
+var mnemonic = "buyer dignity famous lend antenna dragon love bulb dawn garbage crawl flash";

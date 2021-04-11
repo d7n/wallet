@@ -1,1 +1,1 @@
-var mnemonic = "phrase skill axis soap couple private skin crouch vacuum sense submit civil";
+var mnemonic = "damage stem snake photo please clarify garlic cotton enemy tail mushroom pony";

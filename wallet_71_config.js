@@ -1,1 +1,1 @@
-var mnemonic = "current divert figure relief orbit portion produce own more oyster innocent oyster";
+var mnemonic = "join wing labor surge jewel zoo gather jelly giraffe yard april middle";

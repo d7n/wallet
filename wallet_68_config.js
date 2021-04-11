@@ -1,1 +1,1 @@
-var mnemonic = "gather camp unknown magic hamster tower useless social month valid entire author";
+var mnemonic = "legend liquid suggest crash parrot meat medal peanut six code banana merge";

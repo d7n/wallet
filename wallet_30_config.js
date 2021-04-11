@@ -1,1 +1,1 @@
-var mnemonic = "mixture update animal bargain pride sense language finger right few detect margin";
+var mnemonic = "animal connect inflict little glare mind damp gaze fabric critic midnight kingdom";

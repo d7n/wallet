@@ -1,1 +1,1 @@
-var mnemonic = "theme debris online bunker tide into culture code settle consider multiply today";
+var mnemonic = "cloth honey garbage notice never embody eyebrow system height tonight measure average";

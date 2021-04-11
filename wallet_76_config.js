@@ -1,1 +1,1 @@
-var mnemonic = "various merry earth reveal glad turn ten grape miss service cherry window";
+var mnemonic = "undo firm tree fork panel ritual teach since coffee chronic kingdom fat";

@@ -1,1 +1,1 @@
-var mnemonic = "museum gym secret gain can bonus arrive garden faith milk vehicle such";
+var mnemonic = "about door attract moon double often banner pride ripple decade another music";

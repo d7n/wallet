@@ -1,1 +1,1 @@
-var mnemonic = "cause boring return chair magic present velvet zebra bar elite sight chaos";
+var mnemonic = "high category taxi nasty crash birth lyrics normal federal film rack glance";

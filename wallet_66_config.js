@@ -1,1 +1,1 @@
-var mnemonic = "marble enemy column near world develop leg mammal loyal sugar protect team";
+var mnemonic = "uphold net midnight try torch basic phrase suspect fee cart road convince";

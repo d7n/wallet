@@ -1,1 +1,1 @@
-var mnemonic = "female unable hungry rebuild illegal gaze trust cart naive govern practice you";
+var mnemonic = "space inform drift accuse step taxi dose sick vendor dutch never leisure";

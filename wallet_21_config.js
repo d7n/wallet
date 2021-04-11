@@ -1,1 +1,1 @@
-var mnemonic = "online foster access solve oval mom cigar enter submit viable silk course";
+var mnemonic = "effort coin voyage open major actress zone lock hair color rice length";

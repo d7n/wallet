@@ -1,1 +1,1 @@
-var mnemonic = "cash volcano genius angle genre chimney insect enjoy addict plate radio correct";
+var mnemonic = "giant alien woman observe document elegant document certain drive option boost just";

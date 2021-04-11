@@ -1,1 +1,1 @@
-var mnemonic = "diesel nothing leg seek enrich rotate melt either normal blast lunch guitar";
+var mnemonic = "strong survey arrow chat smooth explain ghost monitor wasp fold mail female";

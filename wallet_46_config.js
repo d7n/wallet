@@ -1,1 +1,1 @@
-var mnemonic = "pact course fantasy stumble farm patient team output setup purchase network duck";
+var mnemonic = "ritual firm whip weekend labor soccer pulse pull fire monkey off click";

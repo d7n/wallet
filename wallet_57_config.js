@@ -1,1 +1,1 @@
-var mnemonic = "segment gaze online tackle tenant shed belt charge ecology enable legend segment";
+var mnemonic = "sunny autumn wait witness depth dance rookie dog enough acid color tray";

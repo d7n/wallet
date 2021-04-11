@@ -1,1 +1,1 @@
-var mnemonic = "mercy one earth illegal kitchen hunt index route sound scorpion medal potato";
+var mnemonic = "debate neither tip mammal hero rich account midnight flee foster song myth";

@@ -1,1 +1,1 @@
-var mnemonic = "rough around odor two such pact spoon tank wheat vintage gorilla cash";
+var mnemonic = "inch liar repair copy screen cotton lady select finger short season high";

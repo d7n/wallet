@@ -1,1 +1,1 @@
-var mnemonic = "ice cloud six gather human shoot mansion affair convince demand prize lift";
+var mnemonic = "hair project faint ask escape ridge comic orient ghost canvas property labor";

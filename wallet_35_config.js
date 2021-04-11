@@ -1,1 +1,1 @@
-var mnemonic = "plate range cost eagle talent lumber oven club prize fitness helmet fence";
+var mnemonic = "defy member camp noble since cereal trial sun hope pen cactus volume";

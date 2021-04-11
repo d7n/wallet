@@ -1,1 +1,1 @@
-var mnemonic = "under man turkey curtain fence narrow diary siren manual involve chat patch";
+var mnemonic = "auction crane globe kidney either behave since absurd demand snap bread sorry";

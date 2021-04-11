@@ -1,1 +1,1 @@
-var mnemonic = "crime code amused drink awkward cattle wide parent lunar swap glass tide";
+var mnemonic = "tray turkey buzz gate retire timber cotton pig cool record soldier click";

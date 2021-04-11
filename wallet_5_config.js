@@ -1,1 +1,1 @@
-var mnemonic = "scheme critic work foil resemble until fox place armor legend sleep sad";
+var mnemonic = "broken reward easily grain first pelican forward wasp zero zero affair rookie";

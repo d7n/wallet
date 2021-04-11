@@ -1,1 +1,1 @@
-var mnemonic = "bamboo combine genre consider toast lonely vault elephant couch robust shrug team";
+var mnemonic = "humor oppose broken accuse tomorrow deal fatal jar gas ocean ritual energy";

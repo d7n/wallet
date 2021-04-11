@@ -1,1 +1,1 @@
-var mnemonic = "craft holiday diagram father tumble absorb mansion ancient dawn fox antenna monitor";
+var mnemonic = "timber speed number ecology sock boy flat afford garment shield tongue flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit effort diagram age rookie twin general shield worry rude black spoil";
+var mnemonic = "oven spot marriage target wisdom deal opera notable flight obey yellow display";

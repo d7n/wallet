@@ -1,1 +1,1 @@
-var mnemonic = "brush faint gun unhappy series grab kit pool card diamond soda easily";
+var mnemonic = "ketchup height mosquito chapter appear discover parrot river depend paper menu chief";

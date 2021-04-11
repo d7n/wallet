@@ -1,1 +1,1 @@
-var mnemonic = "valid true lift uncover another salute link chat govern laugh teach trend";
+var mnemonic = "blossom recycle quiz kangaroo sign road chat afraid typical blind matrix bubble";

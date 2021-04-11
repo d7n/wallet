@@ -1,1 +1,1 @@
-var mnemonic = "curious midnight agent clip subject resemble plug blind only stool flock march";
+var mnemonic = "warfare soon sketch notable elephant suffer kite source nest unable ceiling must";

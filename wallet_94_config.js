@@ -1,1 +1,1 @@
-var mnemonic = "charge fancy punch income stomach dice hope bicycle lion devote civil verb";
+var mnemonic = "ribbon squirrel cattle surge stadium tell tenant alley gospel comic exile travel";

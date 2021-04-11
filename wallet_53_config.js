@@ -1,1 +1,1 @@
-var mnemonic = "gasp lyrics lava bonus stick sibling artwork damage inner throw floor sun";
+var mnemonic = "reopen head scare host zero math crane cannon voice gesture orphan endorse";
