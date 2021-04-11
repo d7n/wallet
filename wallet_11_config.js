@@ -1,1 +1,1 @@
-var mnemonic = "mandate loop bottom vocal want height napkin chase hen kingdom version basic";
+var mnemonic = "ceiling inquiry face unit urban else object never silk boss vote gather";

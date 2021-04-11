@@ -1,1 +1,1 @@
-var mnemonic = "surface ribbon plug sauce uniform gauge canyon walnut donkey proof deny confirm";
+var mnemonic = "major position valid alien school please pair quit borrow frost radio cost";

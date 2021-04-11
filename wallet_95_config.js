@@ -1,1 +1,1 @@
-var mnemonic = "arrive height breeze faith stadium kit cloth flush dentist trade thumb deny";
+var mnemonic = "silent special guess icon spend tackle baby air casual merit gorilla fun";

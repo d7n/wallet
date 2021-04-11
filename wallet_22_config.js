@@ -1,1 +1,1 @@
-var mnemonic = "immense grief female illness recycle super pudding envelope never exotic horse broom";
+var mnemonic = "bright bubble render hope meat erosion credit make token shine spot clock";

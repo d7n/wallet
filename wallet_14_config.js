@@ -1,1 +1,1 @@
-var mnemonic = "ridge black license monkey romance antique lounge civil mixture alarm nerve place";
+var mnemonic = "toss you pencil tornado orient better ordinary muffin fly version hurry usage";

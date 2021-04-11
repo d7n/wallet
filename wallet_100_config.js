@@ -1,1 +1,1 @@
-var mnemonic = "regret wise grass give unlock brass drop decrease clarify strong harbor boost";
+var mnemonic = "idea fish flee outer emotion decrease chase job either weasel track woman";

@@ -1,1 +1,1 @@
-var mnemonic = "funny raven exit chapter copper dinner lemon wire high seat narrow filter";
+var mnemonic = "vacant earth jealous unique any vocal kitchen hub symptom life train anxiety";

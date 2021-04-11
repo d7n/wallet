@@ -1,1 +1,1 @@
-var mnemonic = "kick spend garment song harsh pet change ticket target angry coral south";
+var mnemonic = "beauty daughter crane learn tribe coach goose divert make warm mix conduct";

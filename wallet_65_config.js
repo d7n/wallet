@@ -1,1 +1,1 @@
-var mnemonic = "annual banner anchor puppy drink broom series october rebuild other bean combine";
+var mnemonic = "hundred mesh february narrow valley purchase upgrade miss swear bleak sheriff unhappy";

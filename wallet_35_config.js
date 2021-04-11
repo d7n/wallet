@@ -1,1 +1,1 @@
-var mnemonic = "filter thank cost spoon awesome change educate figure worry suit athlete tree";
+var mnemonic = "pelican banana mean umbrella notice awake plug poet usual elite grant phrase";

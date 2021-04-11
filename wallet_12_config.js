@@ -1,1 +1,1 @@
-var mnemonic = "sample merry affair apart never lawn push spice panther dose chief wish";
+var mnemonic = "globe any accident upset weekend sorry hint vacant worry try pottery wife";

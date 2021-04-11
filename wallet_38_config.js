@@ -1,1 +1,1 @@
-var mnemonic = "wool winter wood such major chalk unfold injury foster point bag bulk";
+var mnemonic = "neck love pattern unfair youth cruise iron major wave you promote pulse";

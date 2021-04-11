@@ -1,1 +1,1 @@
-var mnemonic = "gentle helmet aware feed expire source language hub next exit remember web";
+var mnemonic = "strike fiber soda suggest icon hockey saddle extend engage crowd gadget monster";

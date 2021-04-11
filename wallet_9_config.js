@@ -1,1 +1,1 @@
-var mnemonic = "dumb maple usual among coral ten task quote forest expect caught wish";
+var mnemonic = "either police merit puppy select rural novel keep lock cricket coin reveal";

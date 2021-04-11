@@ -1,1 +1,1 @@
-var mnemonic = "dog goddess bubble record rally prize panther session tattoo fox hire fat";
+var mnemonic = "between security forest spider crazy box profit excess orchard transfer spray noise";

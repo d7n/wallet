@@ -1,1 +1,1 @@
-var mnemonic = "ketchup brief trophy grab combine double minor sorry twin glass blame someone";
+var mnemonic = "brisk stay sponsor recall cricket record marble airport hover input industry gather";

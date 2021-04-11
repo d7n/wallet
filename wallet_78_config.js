@@ -1,1 +1,1 @@
-var mnemonic = "hurdle fringe pudding clutch identify blast used core mystery antenna bullet click";
+var mnemonic = "field arrow prepare hunt sadness scout cruel goat pizza lemon weasel kite";

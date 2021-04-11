@@ -1,1 +1,1 @@
-var mnemonic = "pigeon banana receive december more retire tank boost combine spike join sense";
+var mnemonic = "buddy tragic kite adult duck calm flush movie tag genius used devote";

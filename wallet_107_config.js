@@ -1,1 +1,1 @@
-var mnemonic = "cross quick clerk shadow grunt eight daughter leopard pudding prison slow depth";
+var mnemonic = "chief liquid situate unable bachelor pipe popular box minute item dust luggage";

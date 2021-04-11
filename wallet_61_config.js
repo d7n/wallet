@@ -1,1 +1,1 @@
-var mnemonic = "dove razor science situate coach essence denial craft near very erosion sell";
+var mnemonic = "budget there armor ripple birth double flock evidence throw body belt kid";

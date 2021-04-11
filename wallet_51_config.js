@@ -1,1 +1,1 @@
-var mnemonic = "poet habit federal cause material innocent stick degree various possible ensure then";
+var mnemonic = "inhale method only west tent resist gallery crowd sick bicycle pen foster";

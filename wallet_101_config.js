@@ -1,1 +1,1 @@
-var mnemonic = "donate book august ocean order clown cost twenty popular kid liberty motion";
+var mnemonic = "ski safe gravity alley trip loop wife potato water girl burden ribbon";

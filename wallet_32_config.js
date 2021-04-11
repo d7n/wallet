@@ -1,1 +1,1 @@
-var mnemonic = "style damage begin fever estate trend play expect brand dolphin vacant firm";
+var mnemonic = "bring diet return refuse title year play crawl clay situate badge acid";

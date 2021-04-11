@@ -1,1 +1,1 @@
-var mnemonic = "space switch mixed fury renew tragic torch direct dolphin film chase noise";
+var mnemonic = "romance cash slice lesson cage rate vocal jar great walk level dust";

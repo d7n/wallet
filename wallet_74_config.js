@@ -1,1 +1,1 @@
-var mnemonic = "inner stand dish noble stairs endorse happy margin volcano old express photo";
+var mnemonic = "stamp regret near range switch inspire yard grape regular sell fire version";

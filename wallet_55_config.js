@@ -1,1 +1,1 @@
-var mnemonic = "ordinary bunker away sense useful chunk fork hen office cluster brave beauty";
+var mnemonic = "fantasy aim alarm busy embody confirm chief beyond steel clump infant pole";

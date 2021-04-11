@@ -1,1 +1,1 @@
-var mnemonic = "angle rally sponsor helmet tongue sense sail action farm profit soul swamp";
+var mnemonic = "mobile simple rice example sleep name dog hen key hat swap lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut pig hammer flock puppy under noodle execute quit useless repeat corn";
+var mnemonic = "baby pudding fork bridge craft animal busy main rain equip whale utility";

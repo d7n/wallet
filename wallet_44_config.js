@@ -1,1 +1,1 @@
-var mnemonic = "avocado visual vibrant owner neck nation noodle siege debris orphan found quit";
+var mnemonic = "always voyage saddle supply relax avocado gather behind spider tower common face";

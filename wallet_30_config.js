@@ -1,1 +1,1 @@
-var mnemonic = "cycle knife random broken aerobic runway tank club tail they diamond spy";
+var mnemonic = "bounce matrix twist lazy awesome scout sword resist lumber mean plastic reduce";

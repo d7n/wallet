@@ -1,1 +1,1 @@
-var mnemonic = "judge sword drift obey bid solution raise crouch city candy worth romance";
+var mnemonic = "knife there quote oyster pencil truth parade soap orchard beyond region jazz";

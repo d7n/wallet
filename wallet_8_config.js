@@ -1,1 +1,1 @@
-var mnemonic = "spider corn nurse raise crunch awkward forward weird shoot type move eager";
+var mnemonic = "under auction response orbit wisdom great icon fun mandate abandon please exchange";

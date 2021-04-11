@@ -1,1 +1,1 @@
-var mnemonic = "angry valley ancient because notable change lesson canvas one embrace alone trade";
+var mnemonic = "success food crucial comfort pet install jealous fiction drum horse party hamster";

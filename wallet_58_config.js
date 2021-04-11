@@ -1,1 +1,1 @@
-var mnemonic = "home spare crush useful issue exercise pitch century clog winner ghost truck";
+var mnemonic = "broken skull umbrella jungle piano bless tree matter ecology trumpet once crowd";

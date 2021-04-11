@@ -1,1 +1,1 @@
-var mnemonic = "fancy solid rigid eager sport source diamond educate rude master bottom style";
+var mnemonic = "marine front arrow purchase citizen hand wish mouse great forest endorse angry";

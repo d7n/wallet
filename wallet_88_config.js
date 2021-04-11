@@ -1,1 +1,1 @@
-var mnemonic = "swap erosion soldier twist caution forget term amused cruise parade virtual fade";
+var mnemonic = "width shiver cheap song crush stand grunt vague miss early link feed";

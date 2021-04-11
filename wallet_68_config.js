@@ -1,1 +1,1 @@
-var mnemonic = "enhance version typical cousin surprise air demand sister win define useless gaze";
+var mnemonic = "zone nerve room version miracle wheel snap iron embrace beef this chat";

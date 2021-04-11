@@ -1,1 +1,1 @@
-var mnemonic = "piece useful mention lecture trip collect detail clutch nut ball elder canvas";
+var mnemonic = "reform buzz assume switch open core choose maximum hidden ostrich stool list";

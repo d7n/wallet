@@ -1,1 +1,1 @@
-var mnemonic = "festival kiss green harvest praise asthma gospel general hub clarify into sting";
+var mnemonic = "minute next wide tribe remember clinic barely tank story unique dance veteran";

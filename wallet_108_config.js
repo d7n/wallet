@@ -1,1 +1,1 @@
-var mnemonic = "destroy cycle twist bright kick hunt square until age advice shuffle meadow";
+var mnemonic = "stable large dilemma furnace reunion explain final pink round buffalo cash fan";

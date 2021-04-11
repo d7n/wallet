@@ -1,1 +1,1 @@
-var mnemonic = "wood amazing crystal novel ship penalty banner slam man share inject warrior";
+var mnemonic = "dish clip slush attract orphan victory fault pool odor topple collect this";

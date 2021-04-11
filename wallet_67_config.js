@@ -1,1 +1,1 @@
-var mnemonic = "record side fox robot stove reflect pepper happy divide author dynamic column";
+var mnemonic = "escape flock undo advance project fossil recycle kitten orient simple phone easily";

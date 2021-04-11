@@ -1,1 +1,1 @@
-var mnemonic = "giggle pause iron accident remember undo spin genuine grid become stove tuition";
+var mnemonic = "rent degree frozen clown load boss inject grocery letter drink gain river";

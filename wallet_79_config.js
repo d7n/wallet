@@ -1,1 +1,1 @@
-var mnemonic = "tilt start vehicle battle reason balcony adapt wide addict nominee mom depth";
+var mnemonic = "absurd book crew custom mad song spatial banana protect exile before alien";

@@ -1,1 +1,1 @@
-var mnemonic = "girl element equip shy crisp sweet coffee term field helmet absurd unfold";
+var mnemonic = "junk forest pond talent mouse open renew merry alarm awful release body";

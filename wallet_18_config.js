@@ -1,1 +1,1 @@
-var mnemonic = "repair chronic imitate weasel dizzy illegal clip runway cube pull tray virtual";
+var mnemonic = "fuel moral outdoor torch neglect settle project kingdom pool embody fold slim";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid pass ramp genuine tired giraffe verify dynamic estate ship nice dry";
+var mnemonic = "logic fresh empty bread release glass box sphere track bless six nuclear";

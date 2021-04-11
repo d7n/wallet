@@ -1,1 +1,1 @@
-var mnemonic = "confirm mule topic diesel comfort traffic drip mammal grant length slice lonely";
+var mnemonic = "someone pen current verb shield trash spatial give bridge arm model rice";

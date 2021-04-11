@@ -1,1 +1,1 @@
-var mnemonic = "dice divide front cat high frozen skirt project draw peanut olive buzz";
+var mnemonic = "squirrel network trust flower lemon flock super hill awful unit vehicle armed";

@@ -1,1 +1,1 @@
-var mnemonic = "business caught defy midnight east urge accident era concert badge pass link";
+var mnemonic = "enter slender ride clever face syrup outer afraid average apple story phrase";

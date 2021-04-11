@@ -1,1 +1,1 @@
-var mnemonic = "mutual enable deny series soda heavy gallery pig beyond science once skirt";
+var mnemonic = "salmon right crisp square mango menu shed guide seat various chapter cement";

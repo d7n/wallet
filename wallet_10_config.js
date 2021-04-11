@@ -1,1 +1,1 @@
-var mnemonic = "regular scheme image wish trim input damage valve visual category mixture client";
+var mnemonic = "sunny gather alcohol review exist atom brush warrior trumpet profit print claim";

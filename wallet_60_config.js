@@ -1,1 +1,1 @@
-var mnemonic = "hawk mind elephant prepare question grab feel stick goat door museum setup";
+var mnemonic = "knock engine innocent dinosaur vault multiply obey brain tackle pudding funny tissue";

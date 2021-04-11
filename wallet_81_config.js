@@ -1,1 +1,1 @@
-var mnemonic = "ensure catalog carpet lunch garlic educate shallow shadow doctor found tumble merit";
+var mnemonic = "race absent tiger mind force bag key provide rack twelve armed vault";

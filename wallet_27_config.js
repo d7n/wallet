@@ -1,1 +1,1 @@
-var mnemonic = "ginger swear polar predict comic want deal clinic runway verb vapor drop";
+var mnemonic = "dutch before worry kiss unit fine grow fat grass void remain direct";

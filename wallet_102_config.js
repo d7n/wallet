@@ -1,1 +1,1 @@
-var mnemonic = "minor crater inmate strategy another wedding ivory melody tonight unique lamp side";
+var mnemonic = "cave hurry ignore law glass enforce review trip burst panic head once";

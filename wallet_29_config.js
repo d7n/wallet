@@ -1,1 +1,1 @@
-var mnemonic = "dismiss kingdom check explain cliff false slice mobile addict anxiety arena bargain";
+var mnemonic = "life tunnel brisk mother divorce top silver battle client arrange soda history";

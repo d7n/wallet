@@ -1,1 +1,1 @@
-var mnemonic = "yellow mean mule humor crawl rabbit scale display miracle grid tone direct";
+var mnemonic = "pact tray argue carpet jeans where blade hat crawl large below hidden";

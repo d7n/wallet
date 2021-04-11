@@ -1,1 +1,1 @@
-var mnemonic = "ill cancel jar royal cotton yard nose exhibit claw quantum clog account";
+var mnemonic = "liar file infant bonus width flavor real camera word visual thunder track";

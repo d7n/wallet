@@ -1,1 +1,1 @@
-var mnemonic = "eye always behind bag faculty walnut era fit process priority snack clinic";
+var mnemonic = "quiz leave off sniff coast audit raise hurt excess canal layer holiday";

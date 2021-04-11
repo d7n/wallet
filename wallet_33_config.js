@@ -1,1 +1,1 @@
-var mnemonic = "potato race lamp ride exercise table web spatial food around ethics ozone";
+var mnemonic = "surface cute paddle monkey blind fog damp ladder hole increase wish desk";

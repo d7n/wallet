@@ -1,1 +1,1 @@
-var mnemonic = "derive leisure happy sad husband true labor hamster middle cricket frown increase";
+var mnemonic = "coffee artefact recall limb install limit play bench skirt kind shy toddler";

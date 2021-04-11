@@ -1,1 +1,1 @@
-var mnemonic = "oxygen alpha document action universe scare doctor mean leisure work reopen radio";
+var mnemonic = "goddess cover marine second unfair urge rice foster lottery hero result bronze";

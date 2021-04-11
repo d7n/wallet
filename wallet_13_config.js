@@ -1,1 +1,1 @@
-var mnemonic = "man become mistake scare reflect found quantum spawn gas flush inside situate";
+var mnemonic = "repair either pride piano sugar brush step lonely goat release spike august";

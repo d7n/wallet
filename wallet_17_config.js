@@ -1,1 +1,1 @@
-var mnemonic = "spread taste mirror check ramp script test unusual lock crystal foam mean";
+var mnemonic = "idea ensure face abandon hobby ladder deposit right glare obvious vivid crunch";

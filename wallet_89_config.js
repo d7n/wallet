@@ -1,1 +1,1 @@
-var mnemonic = "rare cannon rhythm blush soap renew horse project sniff shrimp artwork tired";
+var mnemonic = "talent repeat security survey sentence suffer palace clip daughter chaos shadow cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "top prepare initial head atom retreat length purity remember home upper old";
+var mnemonic = "creek clinic just utility attend order toward release deliver gun rough flame";

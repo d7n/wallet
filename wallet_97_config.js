@@ -1,1 +1,1 @@
-var mnemonic = "sausage insect struggle favorite faint race hawk rescue calm chunk dynamic ethics";
+var mnemonic = "divert brown place pool barely pulse shallow shove hidden just this limb";

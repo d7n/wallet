@@ -1,1 +1,1 @@
-var mnemonic = "raccoon identify afraid charge taste foam solar copper fuel slogan mouse coast";
+var mnemonic = "fruit easy relax friend monster mail cook rapid fold south noodle rack";

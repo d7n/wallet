@@ -1,1 +1,1 @@
-var mnemonic = "treat shrimp quarter zero govern mountain chat beef position among hunt system";
+var mnemonic = "real ring patrol snow video primary yellow praise steak detail song cable";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle flip settle script payment glad honey side slice pledge grab pottery";
+var mnemonic = "erosion flush reveal chief wonder depth fortune enter paddle bike surge abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "add shop sad razor fit social shaft wood hint clerk hazard grief";
+var mnemonic = "melody muscle honey exact effort choose midnight any picnic slide wood ketchup";

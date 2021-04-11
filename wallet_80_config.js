@@ -1,1 +1,1 @@
-var mnemonic = "caught carpet mountain party trim palace funny noodle tourist cost chef steak";
+var mnemonic = "decorate romance version close produce slight visa napkin below ketchup rail siren";

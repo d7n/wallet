@@ -1,1 +1,1 @@
-var mnemonic = "uniform busy pledge fashion bullet throw shallow duty valid hidden fall pet";
+var mnemonic = "dismiss palm wolf lava secret topple mesh very basic wage nation olympic";

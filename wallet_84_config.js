@@ -1,1 +1,1 @@
-var mnemonic = "govern february maple awesome carbon ugly basket twenty yellow thrive throw midnight";
+var mnemonic = "swarm else toe squirrel leaf clog control target place keep impulse orient";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse excuse path minute tomato huge dynamic milk shiver tell guess essence";
+var mnemonic = "adjust inner seek hospital volume long diamond slice paper anxiety luxury connect";

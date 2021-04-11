@@ -1,1 +1,1 @@
-var mnemonic = "fortune leaf inquiry cement throw kick dog above oyster accuse coral delay";
+var mnemonic = "hint found liberty leg river kingdom purity runway weather kiss used rescue";

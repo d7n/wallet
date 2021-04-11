@@ -1,1 +1,1 @@
-var mnemonic = "illness ignore intact stay choice spin crew nation intact attitude iron spray";
+var mnemonic = "cricket whale worth method scrub crazy east miracle six ankle spell capital";

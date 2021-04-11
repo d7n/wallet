@@ -1,1 +1,1 @@
-var mnemonic = "sword other target pulp prosper social surface dinosaur crumble rose ball muscle";
+var mnemonic = "ecology very club club hope large dream tube humble inquiry chalk yard";

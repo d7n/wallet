@@ -1,1 +1,1 @@
-var mnemonic = "hunt garment tool acoustic defense riot mistake festival boil exchange forum top";
+var mnemonic = "tragic pledge hockey strong enjoy provide barrel powder shop round boil shaft";

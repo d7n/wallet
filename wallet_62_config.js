@@ -1,1 +1,1 @@
-var mnemonic = "program rigid brush circle client ridge method rude there carry biology achieve";
+var mnemonic = "hint cover child resist balance steel zebra behave move segment vapor garden";

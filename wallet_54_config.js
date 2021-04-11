@@ -1,1 +1,1 @@
-var mnemonic = "biology amount empower gospel arrive metal forum radio health artist enter test";
+var mnemonic = "parent school toddler sock donor pottery limit pave detail armor gain vibrant";

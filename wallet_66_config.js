@@ -1,1 +1,1 @@
-var mnemonic = "scheme sustain sister hundred pond high rescue hurdle electric quote banana unknown";
+var mnemonic = "fee tooth jazz dove lemon sting infant noodle genius mosquito hood better";

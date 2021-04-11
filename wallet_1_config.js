@@ -1,1 +1,1 @@
-var mnemonic = "strong oblige melody fruit misery firm maze erode hire crew frozen believe";
+var mnemonic = "eager diet split desk portion act gospel spoon bracket digital claw upon";

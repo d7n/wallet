@@ -1,1 +1,1 @@
-var mnemonic = "garage negative leopard spoil film hazard pretty cupboard april client jeans amazing";
+var mnemonic = "drop sign project raise install rather relief craft cool topple gas suffer";

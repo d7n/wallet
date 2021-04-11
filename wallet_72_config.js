@@ -1,1 +1,1 @@
-var mnemonic = "walk element bless mind security camera myth march oil powder mean kiwi";
+var mnemonic = "mass hour sail tube license history spy boat episode project host pride";

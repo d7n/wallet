@@ -1,1 +1,1 @@
-var mnemonic = "bullet mask ozone carpet cute you tiny praise tag again adult knife";
+var mnemonic = "emotion pony horse kiss exhibit few pigeon include boy print library brush";

@@ -1,1 +1,1 @@
-var mnemonic = "possible soldier transfer cigar swallow luxury filter sun shadow valve casual ignore";
+var mnemonic = "panda toy rely prefer eight match coach token lamp fly ivory cricket";

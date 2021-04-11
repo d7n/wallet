@@ -1,1 +1,1 @@
-var mnemonic = "leopard dragon sign victory old company unfold cause valley weapon mirror argue";
+var mnemonic = "bullet laptop supply between need quantum demand gallery regret betray dragon soul";

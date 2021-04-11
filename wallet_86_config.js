@@ -1,1 +1,1 @@
-var mnemonic = "cruise entire liberty giant cup size front auction just mammal achieve sword";
+var mnemonic = "roast snap daughter ability nut comic swarm orient jaguar hair world judge";

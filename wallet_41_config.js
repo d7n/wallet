@@ -1,1 +1,1 @@
-var mnemonic = "stadium limb gadget puppy dwarf blade copy estate august achieve august indoor";
+var mnemonic = "unable ribbon test slab castle stone robot all shy sell demand quiz";

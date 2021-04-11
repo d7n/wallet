@@ -1,1 +1,1 @@
-var mnemonic = "mimic injury avocado tomorrow reject beach image sport behave badge double ready";
+var mnemonic = "hundred remember cupboard feel lend axis tobacco ladder address vibrant beef blast";
