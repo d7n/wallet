@@ -1,1 +1,1 @@
-var mnemonic = "exclude medal creek science bulk lottery august giant fever length pumpkin unable";
+var mnemonic = "convince diagram lawsuit camera south solve vintage across tumble soccer clap wrong";

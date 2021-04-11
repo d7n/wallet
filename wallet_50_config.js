@@ -1,1 +1,1 @@
-var mnemonic = "absurd leave nation elevator green minimum burst pass swap absurd glimpse tunnel";
+var mnemonic = "action dynamic regret elevator govern soul produce around riot meadow time bus";

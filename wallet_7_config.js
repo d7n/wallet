@@ -1,1 +1,1 @@
-var mnemonic = "fluid bean transfer around setup snack vacant wear promote middle crouch buddy";
+var mnemonic = "tooth print oak picture borrow name attitude soon mutual fuel doctor second";

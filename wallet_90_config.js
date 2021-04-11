@@ -1,1 +1,1 @@
-var mnemonic = "stick cute veteran eight illegal whip finger shed flash dice fatal album";
+var mnemonic = "same fitness leaf cheese dynamic unlock demise image vendor kangaroo master economy";

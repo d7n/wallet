@@ -1,1 +1,1 @@
-var mnemonic = "talent border right hammer sister enhance gas token truly endless legend glory";
+var mnemonic = "crumble party arrest sunset rebel rapid master tomato column wing ripple seed";

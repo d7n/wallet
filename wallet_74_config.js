@@ -1,1 +1,1 @@
-var mnemonic = "whip plastic cotton address amazing negative dirt kite amused practice hello second";
+var mnemonic = "moon school wheat tackle swim else island upon nephew very unfold surface";

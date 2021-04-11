@@ -1,1 +1,1 @@
-var mnemonic = "treat raccoon increase obvious expect laundry coffee sunny lift boss normal collect";
+var mnemonic = "hospital donor kitten net brief faith bachelor true wagon inflict ladder shiver";

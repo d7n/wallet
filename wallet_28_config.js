@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo draft lecture roast live actual normal color rescue between drift hundred";
+var mnemonic = "palm alpha position domain point help easily frown impulse venue want panel";

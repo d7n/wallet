@@ -1,1 +1,1 @@
-var mnemonic = "race shrug flight prepare analyst hurt flag ignore resemble eight parrot comfort";
+var mnemonic = "speed quit robust devote message earth act sister shuffle seed chef inhale";

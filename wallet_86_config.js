@@ -1,1 +1,1 @@
-var mnemonic = "release fortune system post since core treat present grid west coach audit";
+var mnemonic = "brick first stove neither suspect lunar tell almost avocado dentist blame avocado";

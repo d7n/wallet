@@ -1,1 +1,1 @@
-var mnemonic = "quality oxygen regular history kitchen onion mushroom garden tuna corn glad theme";
+var mnemonic = "stairs glance dolphin purity recycle just ugly work finish cannon tone village";

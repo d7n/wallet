@@ -1,1 +1,1 @@
-var mnemonic = "melt door normal alien method chest ready number wasp spring better velvet";
+var mnemonic = "fox scare escape excite magnet unknown close chair praise cat gloom adult";

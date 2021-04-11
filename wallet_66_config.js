@@ -1,1 +1,1 @@
-var mnemonic = "sustain desk gallery village point light parade forest sudden menu notable ivory";
+var mnemonic = "tattoo wave supreme impose wrist dance nest parade maid tiger cruel pact";

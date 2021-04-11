@@ -1,1 +1,1 @@
-var mnemonic = "coin again volume gadget rhythm bring release guess trigger innocent detect vast";
+var mnemonic = "rebel country deny secret shield below flower awkward fossil wish impact flock";

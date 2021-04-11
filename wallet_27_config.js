@@ -1,1 +1,1 @@
-var mnemonic = "private brick barely powder offer machine depth diary frame fine stove indicate";
+var mnemonic = "inch limb fish swap zoo oil hover egg smoke found crumble unusual";

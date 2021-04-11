@@ -1,1 +1,1 @@
-var mnemonic = "toy cross just sniff wood cable zoo gorilla return jewel gas round";
+var mnemonic = "web come address engine know execute mixed wet novel manual useful honey";

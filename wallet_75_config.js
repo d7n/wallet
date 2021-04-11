@@ -1,1 +1,1 @@
-var mnemonic = "pair pioneer crack live gesture alien glance loop glance cost cabin minute";
+var mnemonic = "balance boring fresh sibling woman fat inform embrace evidence diesel wool unlock";

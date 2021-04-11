@@ -1,1 +1,1 @@
-var mnemonic = "dumb power imitate sibling time boost cactus display absurd busy rail file";
+var mnemonic = "ocean smart federal capable sock elite soon ripple exotic afford forest brand";

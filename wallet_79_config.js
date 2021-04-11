@@ -1,1 +1,1 @@
-var mnemonic = "identify evidence solar quote wreck conduct require risk pistol dose life zone";
+var mnemonic = "sketch depart flush slow napkin cube physical crime scatter vivid echo dry";

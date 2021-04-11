@@ -1,1 +1,1 @@
-var mnemonic = "inflict good practice brief bone dune island story fiber explain raw viable";
+var mnemonic = "general donkey frown total bottom maid impact eight sentence reason long coral";

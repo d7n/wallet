@@ -1,1 +1,1 @@
-var mnemonic = "spawn flee moon fossil only column false voyage junior junk begin spawn";
+var mnemonic = "file tray split tower harbor field analyst embrace universe drive hand seed";

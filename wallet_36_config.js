@@ -1,1 +1,1 @@
-var mnemonic = "arrest reveal rail shine economy must arrive kiss remain below gap ticket";
+var mnemonic = "nominee anger camp slender ice swing real actual hawk sweet style disease";

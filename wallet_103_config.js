@@ -1,1 +1,1 @@
-var mnemonic = "wink entire slogan boss spread peace brisk fade side throw head transfer";
+var mnemonic = "size inhale curve impulse cool clip wish interest have oxygen liar march";

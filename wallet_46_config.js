@@ -1,1 +1,1 @@
-var mnemonic = "vehicle brown claw rude abandon usual virtual lonely slender logic chapter will";
+var mnemonic = "churn motor donor accident play quarter hockey net torch gift sell oyster";

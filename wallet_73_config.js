@@ -1,1 +1,1 @@
-var mnemonic = "century course slim ski wine depart laugh junk enhance season vessel first";
+var mnemonic = "early vanish bird cupboard cinnamon holiday mixture time submit stool vast plunge";

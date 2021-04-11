@@ -1,1 +1,1 @@
-var mnemonic = "crop nest broken muffin toss gift organ fish engage reason okay stumble";
+var mnemonic = "mom throw river hat swarm wedding assault result empower train senior nuclear";

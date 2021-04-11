@@ -1,1 +1,1 @@
-var mnemonic = "town kiwi antenna woman pet whale mansion refuse denial okay recipe husband";
+var mnemonic = "stool save asset skin lab effort badge message wheat artefact fuel again";

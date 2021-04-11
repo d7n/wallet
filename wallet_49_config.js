@@ -1,1 +1,1 @@
-var mnemonic = "crucial swarm tuna wedding canal library before fragile cash elevator hub wood";
+var mnemonic = "anchor island judge attract strike acoustic child obtain dismiss when table gold";

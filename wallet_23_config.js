@@ -1,1 +1,1 @@
-var mnemonic = "grunt aisle federal liar dance verify dwarf mango night where just aspect";
+var mnemonic = "kangaroo nation hammer curve proud win reward master that busy rule smart";

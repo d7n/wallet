@@ -1,1 +1,1 @@
-var mnemonic = "curious sun raccoon easy combine twice enable hedgehog term live pair mom";
+var mnemonic = "canoe hero phrase make husband music pigeon kitten crash stuff carpet animal";

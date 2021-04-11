@@ -1,1 +1,1 @@
-var mnemonic = "beach catch teach exercise tool genuine fabric diamond zoo cute camera chase";
+var mnemonic = "erupt crew unfair beyond tag roast cigar deny enrich enhance pair deer";

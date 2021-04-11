@@ -1,1 +1,1 @@
-var mnemonic = "arena claim kangaroo infant project theory tail banner click gadget agree decline";
+var mnemonic = "office senior note hurt fox favorite debate husband saddle color sword figure";

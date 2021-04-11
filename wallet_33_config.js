@@ -1,1 +1,1 @@
-var mnemonic = "cheap act dad lunch receive uniform sing clump casual awful dragon garment";
+var mnemonic = "excess beach lottery simple wasp thought crop hollow ripple educate dream ring";

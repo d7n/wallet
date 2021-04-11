@@ -1,1 +1,1 @@
-var mnemonic = "tower tube pretty tomorrow indoor merit rain kiwi climb few rail budget";
+var mnemonic = "pyramid suit laptop sphere error error tower job truck genre health business";

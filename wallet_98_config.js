@@ -1,1 +1,1 @@
-var mnemonic = "candy manual cause opinion dog pink series flag diesel fresh exchange zoo";
+var mnemonic = "nuclear give army better never vast blossom vicious rare solve twin ill";

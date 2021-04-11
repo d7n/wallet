@@ -1,1 +1,1 @@
-var mnemonic = "broom toss funny adult promote lift parent improve company fresh artefact carpet";
+var mnemonic = "pear noise risk firm stock drum friend quick palm despair garment rapid";

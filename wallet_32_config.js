@@ -1,1 +1,1 @@
-var mnemonic = "error glimpse dog empower piano join present cage ranch leader attitude save";
+var mnemonic = "deny simple response trial party teach among nuclear face glue defy uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "brick ride thank engage cloth pact lottery caught actress fine light stairs";
+var mnemonic = "add brisk gas funny target empower deputy glass float better turn modify";

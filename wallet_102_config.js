@@ -1,1 +1,1 @@
-var mnemonic = "key ripple squeeze glory damage pill join empty deliver segment movie quiz";
+var mnemonic = "junior gallery marriage unaware piece train tortoise harvest mother health market shove";

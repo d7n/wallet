@@ -1,1 +1,1 @@
-var mnemonic = "regular knock absent dose wet bundle clump usual include flower penalty because";
+var mnemonic = "space absorb insect close syrup possible kitchen casual lock extend hawk differ";

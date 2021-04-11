@@ -1,1 +1,1 @@
-var mnemonic = "promote response stem skate bitter include skin veteran seat piece garment slogan";
+var mnemonic = "banana portion ribbon fee royal gossip piano orient ridge normal harbor cheese";

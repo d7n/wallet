@@ -1,1 +1,1 @@
-var mnemonic = "gown toast age monster this boost desert arrange liquid real kick strong";
+var mnemonic = "damp argue tape extra foot play blush erase convince boring orphan mystery";

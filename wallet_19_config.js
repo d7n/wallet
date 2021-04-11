@@ -1,1 +1,1 @@
-var mnemonic = "public sort romance mutual midnight portion mass adult resource vanish hair steel";
+var mnemonic = "tree future mammal ripple enemy early soda earn property olympic hero tonight";

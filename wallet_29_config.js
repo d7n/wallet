@@ -1,1 +1,1 @@
-var mnemonic = "color cool harvest trade need acid glimpse visit arena jealous fatigue space";
+var mnemonic = "edit input common thought avocado issue duck track earth risk hero recycle";

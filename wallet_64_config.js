@@ -1,1 +1,1 @@
-var mnemonic = "shuffle lawsuit heart firm leisure suggest urban syrup unfold maple snow grocery";
+var mnemonic = "demise august oxygen loyal cradle win common liar sick knock moral quality";

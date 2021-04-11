@@ -1,1 +1,1 @@
-var mnemonic = "exile ethics shoe toss kit clump famous broom crack breeze random trash";
+var mnemonic = "wrong this vanish road gossip evolve guide moon trim vivid talk account";

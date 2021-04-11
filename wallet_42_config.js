@@ -1,1 +1,1 @@
-var mnemonic = "carry crumble tragic deal diagram install ring health fetch punch file capable";
+var mnemonic = "warrior price mercy destroy alone around ostrich purchase joke casual enough rose";

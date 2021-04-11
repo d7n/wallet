@@ -1,1 +1,1 @@
-var mnemonic = "game doll cereal spawn loan kid excuse lock play elephant lazy lucky";
+var mnemonic = "cargo mechanic gravity hurdle grant brave citizen grant flush ribbon actor guitar";

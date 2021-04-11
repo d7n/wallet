@@ -1,1 +1,1 @@
-var mnemonic = "acquire toward frequent man car join neutral giant year hope sponsor faint";
+var mnemonic = "toe head disorder know scene hurry way jeans ostrich indicate swap useless";

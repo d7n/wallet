@@ -1,1 +1,1 @@
-var mnemonic = "repeat vendor decide ankle cotton much relief ahead one symbol snap very";
+var mnemonic = "cannon circle prosper view furnace sleep into urge walk document liberty describe";

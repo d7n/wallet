@@ -1,1 +1,1 @@
-var mnemonic = "kitchen actor mom govern arrest about escape notice rapid athlete grass start";
+var mnemonic = "input vapor fan adapt indicate proof trap arena patient picnic drum wrestle";

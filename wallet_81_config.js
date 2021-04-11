@@ -1,1 +1,1 @@
-var mnemonic = "round imitate avocado stone buyer once roast pull broccoli tunnel bullet fantasy";
+var mnemonic = "agree urban garage solve hello wall fossil thumb butter hello hint drop";

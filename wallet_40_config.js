@@ -1,1 +1,1 @@
-var mnemonic = "student sort hollow grief never explain cross swim place fury mother guilt";
+var mnemonic = "swear permit aerobic ranch busy empty march crunch oxygen scissors acid social";

@@ -1,1 +1,1 @@
-var mnemonic = "romance setup short black love flight erupt general rather now near cricket";
+var mnemonic = "girl enroll affair outer minor phone pig process punch friend soul planet";

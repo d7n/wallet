@@ -1,1 +1,1 @@
-var mnemonic = "remove gather enter receive egg practice number dinosaur crane glad snack patch";
+var mnemonic = "stairs defense dentist post medal skin peanut route pioneer little intact elder";

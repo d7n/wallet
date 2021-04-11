@@ -1,1 +1,1 @@
-var mnemonic = "target review hurdle coral behave prepare boring best tuition expire olympic enact";
+var mnemonic = "twin rubber priority ignore conduct resource roast outside culture myth desk consider";

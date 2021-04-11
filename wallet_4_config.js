@@ -1,1 +1,1 @@
-var mnemonic = "mushroom danger direct deny uniform wave episode true dog mansion sugar pen";
+var mnemonic = "trouble usual rotate frame mystery child fiscal trap patch autumn trash seek";

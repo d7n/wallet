@@ -1,1 +1,1 @@
-var mnemonic = "foil flush olive mule fuel weekend despair banana goose rose impact spider";
+var mnemonic = "already daring blast tell muffin liar fever grape twenty ceiling copper tiger";

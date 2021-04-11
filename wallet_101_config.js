@@ -1,1 +1,1 @@
-var mnemonic = "nice east life crucial tomato disorder hospital swap panel lumber sentence orient";
+var mnemonic = "dolphin silly physical afford gasp capital general spare tone pistol shadow winner";

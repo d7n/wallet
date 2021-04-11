@@ -1,1 +1,1 @@
-var mnemonic = "power public spread giraffe similar wave math slogan repeat donate orbit pave";
+var mnemonic = "target crucial damage gorilla confirm draft place shield diet uniform vast damage";

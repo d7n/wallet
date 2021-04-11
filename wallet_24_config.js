@@ -1,1 +1,1 @@
-var mnemonic = "author nasty weapon piano clarify glimpse kit cost know tilt orbit assist";
+var mnemonic = "blur bridge poem embody camp target garbage aspect clown ski seed member";

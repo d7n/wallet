@@ -1,1 +1,1 @@
-var mnemonic = "athlete you reduce latin tourist fabric useless jewel foil effort piece message";
+var mnemonic = "dynamic cage shuffle bag bread wealth slow network fire turtle shock cover";

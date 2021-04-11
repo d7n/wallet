@@ -1,1 +1,1 @@
-var mnemonic = "logic grid street suggest plug cargo pill cherry whip minute fog usage";
+var mnemonic = "pulp position mango like audit harsh ripple word regular shuffle frequent result";

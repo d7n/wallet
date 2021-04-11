@@ -1,1 +1,1 @@
-var mnemonic = "region boy pyramid spell noise obvious library leave pelican draft badge alone";
+var mnemonic = "north sting city wagon result unlock fan behave forest dragon dismiss child";

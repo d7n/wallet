@@ -1,1 +1,1 @@
-var mnemonic = "bulk sword cave cushion april gather join salt fog wash talent sudden";
+var mnemonic = "above blood vault rival menu abstract rib crazy dry pink reduce adapt";

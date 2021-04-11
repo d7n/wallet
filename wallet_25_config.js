@@ -1,1 +1,1 @@
-var mnemonic = "share gasp panther manual unable suit evil churn kitchen second hole want";
+var mnemonic = "wall session unveil fiber fox mandate stuff comfort sausage nest innocent leaf";

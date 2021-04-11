@@ -1,1 +1,1 @@
-var mnemonic = "tissue visual cycle evidence rice south real visa used super destroy biology";
+var mnemonic = "intact hello box point chronic loud wait ribbon device desert rely level";

@@ -1,1 +1,1 @@
-var mnemonic = "flush flat brisk thrive cupboard domain deposit inhale theory swap lucky seven";
+var mnemonic = "kitchen coin relief sample gain trim window zero water subject coin plug";

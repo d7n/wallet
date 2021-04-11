@@ -1,1 +1,1 @@
-var mnemonic = "surface answer jungle job visa uncover popular essay broccoli blind window bounce";
+var mnemonic = "cradle elevator ivory better assist panda inhale common virus tattoo ensure sugar";

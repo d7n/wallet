@@ -1,1 +1,1 @@
-var mnemonic = "flat gasp together expand gospel exile chair version hammer impulse tree parrot";
+var mnemonic = "clay nurse melody about point already force steak ugly myth world slab";

@@ -1,1 +1,1 @@
-var mnemonic = "practice kidney sword plug reform mad desert insect focus cruise ecology just";
+var mnemonic = "enough scare jump blanket fabric jeans favorite street brush arch cost loan";

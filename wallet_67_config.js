@@ -1,1 +1,1 @@
-var mnemonic = "witness blue drama ignore run crater antenna then always body wild useful";
+var mnemonic = "must pistol together cluster argue flee crash globe maple post excuse owner";

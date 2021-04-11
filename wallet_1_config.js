@@ -1,1 +1,1 @@
-var mnemonic = "drift have version caught outer depend bind into entire tissue body legal";
+var mnemonic = "laundry ritual act phone exile north link lab miracle fatal tiny admit";

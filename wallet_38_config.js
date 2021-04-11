@@ -1,1 +1,1 @@
-var mnemonic = "permit negative desk ketchup motor belt hundred story pool fame member hint";
+var mnemonic = "chronic clutch retreat luggage screen arctic library brother ripple awful cram sphere";

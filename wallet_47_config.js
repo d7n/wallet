@@ -1,1 +1,1 @@
-var mnemonic = "slender borrow chimney soldier cinnamon shift excuse squeeze scrap will donor hint";
+var mnemonic = "primary long monkey essay buyer pull route benefit visit jelly fiber night";

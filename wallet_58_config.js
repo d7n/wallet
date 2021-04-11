@@ -1,1 +1,1 @@
-var mnemonic = "saddle domain void certain select inject dismiss hover neglect sorry ignore deposit";
+var mnemonic = "melody put chase person modify fun soap raise dirt huge slab ozone";

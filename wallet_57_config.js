@@ -1,1 +1,1 @@
-var mnemonic = "kitten scissors edit egg desert impose struggle family scatter glimpse isolate seek";
+var mnemonic = "impose motion identify language apart junk vacuum clean analyst evolve bomb rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "real page company nation input you movie essay fiscal wool notice nature";
+var mnemonic = "estate junk shrug present alter end language tag anchor harsh sadness rain";

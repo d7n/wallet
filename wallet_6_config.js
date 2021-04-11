@@ -1,1 +1,1 @@
-var mnemonic = "zero uncle crash rapid chimney inherit around silver wide tongue hurdle lecture";
+var mnemonic = "girl double voice mother wait announce under grab insane relax helmet kid";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol broccoli warrior client rotate sustain zero cloth ship offer rough wear";
+var mnemonic = "cigar envelope fragile tuna position catalog push ten task join speak theory";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse come host pulse lamp cancel novel radio enhance picture expect away";
+var mnemonic = "nuclear soldier skirt camp chief tornado reveal marriage rescue mix sausage congress";

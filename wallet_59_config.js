@@ -1,1 +1,1 @@
-var mnemonic = "grace surface echo net army annual job kangaroo reform wrestle put load";
+var mnemonic = "tourist this thunder chapter lecture exact bleak skill loop song split simple";

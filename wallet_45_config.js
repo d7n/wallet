@@ -1,1 +1,1 @@
-var mnemonic = "motion reunion early naive vague chalk decide grunt scrap ill uniform allow";
+var mnemonic = "marine neck magnet bridge motor govern ankle poem scene repeat spread violin";
