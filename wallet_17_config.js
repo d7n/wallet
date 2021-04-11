@@ -1,1 +1,1 @@
-var mnemonic = "stairs defense dentist post medal skin peanut route pioneer little intact elder";
+var mnemonic = "subject answer aspect flush design stamp hybrid crazy entry alarm cube side";

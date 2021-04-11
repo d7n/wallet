@@ -1,1 +1,1 @@
-var mnemonic = "girl double voice mother wait announce under grab insane relax helmet kid";
+var mnemonic = "leopard van pitch right clap endorse already play leader stomach link federal";

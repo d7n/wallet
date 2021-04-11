@@ -1,1 +1,1 @@
-var mnemonic = "solid roof crazy defense random decrease exercise music device question hurry energy";
+var mnemonic = "tomorrow error unfold stone pyramid club own trip mixed flavor tell eye";

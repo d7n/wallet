@@ -1,1 +1,1 @@
-var mnemonic = "step puppy team guilt neither moon neck journey jewel dish still add";
+var mnemonic = "valve combine number sad glide arm true reject depart apple real wreck";

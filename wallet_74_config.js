@@ -1,1 +1,1 @@
-var mnemonic = "moon school wheat tackle swim else island upon nephew very unfold surface";
+var mnemonic = "multiply supreme achieve idle human renew dilemma indicate will fault popular because";

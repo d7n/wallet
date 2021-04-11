@@ -1,1 +1,1 @@
-var mnemonic = "impose motion identify language apart junk vacuum clean analyst evolve bomb rifle";
+var mnemonic = "slot roast denial machine reflect camera mobile exhibit float orchard please mountain";

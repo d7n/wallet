@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cage shuffle bag bread wealth slow network fire turtle shock cover";
+var mnemonic = "market genuine avocado deal skirt also purchase cook hold foot ability dinner";

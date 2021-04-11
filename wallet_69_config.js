@@ -1,1 +1,1 @@
-var mnemonic = "stairs glance dolphin purity recycle just ugly work finish cannon tone village";
+var mnemonic = "awesome cancel orange way infant flag pottery spoon myself cancel market together";

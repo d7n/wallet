@@ -1,1 +1,1 @@
-var mnemonic = "chronic clutch retreat luggage screen arctic library brother ripple awful cram sphere";
+var mnemonic = "view find process become network flight rigid spike nature powder symbol boss";

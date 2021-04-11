@@ -1,1 +1,1 @@
-var mnemonic = "early vanish bird cupboard cinnamon holiday mixture time submit stool vast plunge";
+var mnemonic = "make library electric dance trick brother crane mind tip judge remove craft";

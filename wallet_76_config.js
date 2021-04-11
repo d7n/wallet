@@ -1,1 +1,1 @@
-var mnemonic = "cigar envelope fragile tuna position catalog push ten task join speak theory";
+var mnemonic = "push quiz hawk sand swap diagram always fashion film motion mesh history";

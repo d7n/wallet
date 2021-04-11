@@ -1,1 +1,1 @@
-var mnemonic = "warrior price mercy destroy alone around ostrich purchase joke casual enough rose";
+var mnemonic = "flash yellow machine dinosaur foster track retreat strike plate rail artefact used";

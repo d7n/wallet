@@ -1,1 +1,1 @@
-var mnemonic = "target crucial damage gorilla confirm draft place shield diet uniform vast damage";
+var mnemonic = "casino capable puppy expire robust horse discover tonight vote oven timber phrase";

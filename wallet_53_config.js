@@ -1,1 +1,1 @@
-var mnemonic = "damp argue tape extra foot play blush erase convince boring orphan mystery";
+var mnemonic = "theme winter honey mad stove dynamic time smile material furnace sibling essence";

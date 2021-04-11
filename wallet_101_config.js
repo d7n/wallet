@@ -1,1 +1,1 @@
-var mnemonic = "dolphin silly physical afford gasp capital general spare tone pistol shadow winner";
+var mnemonic = "core real lobster into jar loud cheese tooth talk hold smile spike";

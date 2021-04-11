@@ -1,1 +1,1 @@
-var mnemonic = "web come address engine know execute mixed wet novel manual useful honey";
+var mnemonic = "another help hen frog poet egg nature until exercise arch parade normal";

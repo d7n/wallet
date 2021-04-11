@@ -1,1 +1,1 @@
-var mnemonic = "crumble party arrest sunset rebel rapid master tomato column wing ripple seed";
+var mnemonic = "special when amount alpha nothing cluster recall great deputy jaguar game discover";

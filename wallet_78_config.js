@@ -1,1 +1,1 @@
-var mnemonic = "wrong this vanish road gossip evolve guide moon trim vivid talk account";
+var mnemonic = "knock choice clog bus clap quantum people floor curtain more attitude obey";

@@ -1,1 +1,1 @@
-var mnemonic = "palm alpha position domain point help easily frown impulse venue want panel";
+var mnemonic = "top equal estate card pottery ring about pelican valid turkey sentence clever";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp position mango like audit harsh ripple word regular shuffle frequent result";
+var mnemonic = "someone symptom injury erode like impact save sand club bulb lift warrior";

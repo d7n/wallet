@@ -1,1 +1,1 @@
-var mnemonic = "wolf pledge chief parade great stereo riot truly airport hat rocket salon";
+var mnemonic = "fee guitar wagon habit robot sorry acid run report ridge describe theme";

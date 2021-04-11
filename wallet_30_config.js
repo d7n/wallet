@@ -1,1 +1,1 @@
-var mnemonic = "office senior note hurt fox favorite debate husband saddle color sword figure";
+var mnemonic = "trend trip chef annual bitter property recipe hat floor before else hill";

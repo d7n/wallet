@@ -1,1 +1,1 @@
-var mnemonic = "banana portion ribbon fee royal gossip piano orient ridge normal harbor cheese";
+var mnemonic = "address sand actor aim uncover casino bike beyond cake scare adult wool";

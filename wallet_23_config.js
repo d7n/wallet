@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo nation hammer curve proud win reward master that busy rule smart";
+var mnemonic = "dinner mountain merit predict special embody dinosaur belt nothing easy turn sphere";

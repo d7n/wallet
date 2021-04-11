@@ -1,1 +1,1 @@
-var mnemonic = "space absorb insect close syrup possible kitchen casual lock extend hawk differ";
+var mnemonic = "fold enrich story crane tomorrow carbon gasp twin mimic title devote coast";

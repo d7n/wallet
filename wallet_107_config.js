@@ -1,1 +1,1 @@
-var mnemonic = "stool save asset skin lab effort badge message wheat artefact fuel again";
+var mnemonic = "patient bless base giraffe truck enrich visa steak blast gravity fork domain";

@@ -1,1 +1,1 @@
-var mnemonic = "include rigid child lemon weapon taxi second reveal toe wear tomorrow mimic";
+var mnemonic = "north sort lizard dawn angry make helmet foam enroll sentence tell fetch";

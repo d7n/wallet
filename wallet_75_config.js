@@ -1,1 +1,1 @@
-var mnemonic = "balance boring fresh sibling woman fat inform embrace evidence diesel wool unlock";
+var mnemonic = "embark menu hurry flock robust honey will radio learn panel october bring";

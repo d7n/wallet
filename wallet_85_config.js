@@ -1,1 +1,1 @@
-var mnemonic = "card useful rain inside agree park enact fiction rabbit cousin dove recycle";
+var mnemonic = "panda memory ready fiber stamp tiny notable infant expire mosquito provide ritual";

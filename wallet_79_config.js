@@ -1,1 +1,1 @@
-var mnemonic = "sketch depart flush slow napkin cube physical crime scatter vivid echo dry";
+var mnemonic = "casual brother track depart craft half acoustic aim clerk knee glad rival";

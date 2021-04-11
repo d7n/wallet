@@ -1,1 +1,1 @@
-var mnemonic = "cradle elevator ivory better assist panda inhale common virus tattoo ensure sugar";
+var mnemonic = "forum bid venture pizza capital buzz clean peasant royal dial language admit";

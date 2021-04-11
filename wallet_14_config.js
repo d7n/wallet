@@ -1,1 +1,1 @@
-var mnemonic = "speed quit robust devote message earth act sister shuffle seed chef inhale";
+var mnemonic = "village shell trick buffalo enact true fossil purchase aspect giant oyster lumber";

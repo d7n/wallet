@@ -1,1 +1,1 @@
-var mnemonic = "demise august oxygen loyal cradle win common liar sick knock moral quality";
+var mnemonic = "walnut basic second blouse abuse rookie mixed bunker cheese mind ecology flee";

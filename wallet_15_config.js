@@ -1,1 +1,1 @@
-var mnemonic = "fox scare escape excite magnet unknown close chair praise cat gloom adult";
+var mnemonic = "barely riot fat ghost carry dirt arm meadow unique faint quote guilt";

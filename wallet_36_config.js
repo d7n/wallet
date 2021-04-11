@@ -1,1 +1,1 @@
-var mnemonic = "nominee anger camp slender ice swing real actual hawk sweet style disease";
+var mnemonic = "marine grow treat exotic debate visa myth nerve grit destroy spoon forum";

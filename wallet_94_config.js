@@ -1,1 +1,1 @@
-var mnemonic = "file tray split tower harbor field analyst embrace universe drive hand seed";
+var mnemonic = "ugly board pull alter few omit unfair ticket derive crystal museum riot";

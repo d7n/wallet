@@ -1,1 +1,1 @@
-var mnemonic = "own token omit resemble ignore gate anchor lawn link laptop choose return";
+var mnemonic = "absurd brown mistake layer inject defense spread sniff action basic before annual";

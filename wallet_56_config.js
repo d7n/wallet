@@ -1,1 +1,1 @@
-var mnemonic = "wealth tackle run world action artefact stick suggest face maze road smile";
+var mnemonic = "tone goat save pride helmet wolf raw sniff strategy increase hood frown";

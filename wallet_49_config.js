@@ -1,1 +1,1 @@
-var mnemonic = "anchor island judge attract strike acoustic child obtain dismiss when table gold";
+var mnemonic = "skirt twice gather poverty utility mean daughter type capital canal purse wire";

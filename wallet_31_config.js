@@ -1,1 +1,1 @@
-var mnemonic = "north sting city wagon result unlock fan behave forest dragon dismiss child";
+var mnemonic = "cinnamon veteran firm ski rebuild enable armor sock jewel front pilot year";

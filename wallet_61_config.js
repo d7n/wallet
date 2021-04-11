@@ -1,1 +1,1 @@
-var mnemonic = "hospital donor kitten net brief faith bachelor true wagon inflict ladder shiver";
+var mnemonic = "tree expire word appear cram village staff silent throw cross wheel possible";

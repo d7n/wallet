@@ -1,1 +1,1 @@
-var mnemonic = "bomb junior donkey vibrant siege about response eye entry depth melt speak";
+var mnemonic = "reform wisdom cruise maze crawl loan regret erode chair trigger survey humor";

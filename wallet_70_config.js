@@ -1,1 +1,1 @@
-var mnemonic = "blur detail material combine perfect design cruise perfect lawsuit pond jewel rain";
+var mnemonic = "interest client item swarm vacuum wonder topple collect once sea inspire mad";

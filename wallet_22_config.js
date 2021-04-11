@@ -1,1 +1,1 @@
-var mnemonic = "dash gather depth finger wrap program sugar custom moment yard perfect where";
+var mnemonic = "around assault case corn addict siege exact fringe stick bracket lens elder";

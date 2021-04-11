@@ -1,1 +1,1 @@
-var mnemonic = "agree urban garage solve hello wall fossil thumb butter hello hint drop";
+var mnemonic = "grab forum blade clarify gun rigid program genre dream slab dignity above";

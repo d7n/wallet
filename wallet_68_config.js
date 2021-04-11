@@ -1,1 +1,1 @@
-var mnemonic = "general donkey frown total bottom maid impact eight sentence reason long coral";
+var mnemonic = "company thrive stuff police master media arrive style female hope bracket glass";

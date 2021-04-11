@@ -1,1 +1,1 @@
-var mnemonic = "add brisk gas funny target empower deputy glass float better turn modify";
+var mnemonic = "grab unusual slim pottery camp virus resemble rocket taste hazard genius december";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist this thunder chapter lecture exact bleak skill loop song split simple";
+var mnemonic = "invest slight sister lamp source begin school material submit current tunnel unit";

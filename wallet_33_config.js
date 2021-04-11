@@ -1,1 +1,1 @@
-var mnemonic = "excess beach lottery simple wasp thought crop hollow ripple educate dream ring";
+var mnemonic = "horn pledge unique original rubber phone walk order bag aerobic kit ribbon";

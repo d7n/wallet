@@ -1,1 +1,1 @@
-var mnemonic = "blur bridge poem embody camp target garbage aspect clown ski seed member";
+var mnemonic = "pond home leave tennis kiss law minute loud test immense debris veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "enough scare jump blanket fabric jeans favorite street brush arch cost loan";
+var mnemonic = "mixed original hammer travel such weasel session idle thank sudden vapor jacket";

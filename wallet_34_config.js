@@ -1,1 +1,1 @@
-var mnemonic = "brass lab similar sword visual magnet announce hard also winner copy shoe";
+var mnemonic = "length actor cup shrimp hover seek ensure cinnamon expand receive slice soldier";

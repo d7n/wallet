@@ -1,1 +1,1 @@
-var mnemonic = "cargo mechanic gravity hurdle grant brave citizen grant flush ribbon actor guitar";
+var mnemonic = "advice caution ranch rib midnight affair push ride exotic employ alley debris";

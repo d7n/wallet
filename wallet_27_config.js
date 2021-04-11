@@ -1,1 +1,1 @@
-var mnemonic = "inch limb fish swap zoo oil hover egg smoke found crumble unusual";
+var mnemonic = "joy correct spread clutch lawn awake permit seek stereo media gap tent";

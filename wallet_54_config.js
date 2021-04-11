@@ -1,1 +1,1 @@
-var mnemonic = "mom throw river hat swarm wedding assault result empower train senior nuclear";
+var mnemonic = "coach one laugh need relief novel over civil enroll duck half top";

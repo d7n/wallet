@@ -1,1 +1,1 @@
-var mnemonic = "gasp drift hip night network relax rib garage insect title current special";
+var mnemonic = "novel blame fortune nature faint wrist any camera bamboo sibling seminar excess";

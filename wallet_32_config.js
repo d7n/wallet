@@ -1,1 +1,1 @@
-var mnemonic = "deny simple response trial party teach among nuclear face glue defy uphold";
+var mnemonic = "best blast diary refuse exclude pudding three critic debate peasant tilt poverty";

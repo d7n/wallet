@@ -1,1 +1,1 @@
-var mnemonic = "angry noble uncle auto federal soft example sorry describe inspire item dial";
+var mnemonic = "plug worry rough learn basket bicycle coral flight funny explain party police";

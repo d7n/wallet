@@ -1,1 +1,1 @@
-var mnemonic = "toe head disorder know scene hurry way jeans ostrich indicate swap useless";
+var mnemonic = "loud blouse carbon series draw busy spawn pony have near door trend";

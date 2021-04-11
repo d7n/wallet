@@ -1,1 +1,1 @@
-var mnemonic = "trouble usual rotate frame mystery child fiscal trap patch autumn trash seek";
+var mnemonic = "just game gloom neglect disease maximum expect thumb quantum silent correct wrist";

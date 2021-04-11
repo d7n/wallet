@@ -1,1 +1,1 @@
-var mnemonic = "primary long monkey essay buyer pull route benefit visit jelly fiber night";
+var mnemonic = "film rapid legend display jacket embark despair cup category useful comfort huge";

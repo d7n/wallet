@@ -1,1 +1,1 @@
-var mnemonic = "melody put chase person modify fun soap raise dirt huge slab ozone";
+var mnemonic = "reform govern machine basic mistake ignore shuffle prosper pluck drama cereal more";

@@ -1,1 +1,1 @@
-var mnemonic = "twin rubber priority ignore conduct resource roast outside culture myth desk consider";
+var mnemonic = "debate daring matter laptop humor liar price unusual core govern ridge guitar";

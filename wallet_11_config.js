@@ -1,1 +1,1 @@
-var mnemonic = "estate junk shrug present alter end language tag anchor harsh sadness rain";
+var mnemonic = "nasty exact dismiss paddle define upper advice fury ill seek assume empower";

@@ -1,1 +1,1 @@
-var mnemonic = "junior gallery marriage unaware piece train tortoise harvest mother health market shove";
+var mnemonic = "noise warrior soup train silk hedgehog squeeze describe author tumble sheriff machine";

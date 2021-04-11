@@ -1,1 +1,1 @@
-var mnemonic = "action dynamic regret elevator govern soul produce around riot meadow time bus";
+var mnemonic = "network dust flash laptop sauce pistol album manual naive enroll steak mystery";

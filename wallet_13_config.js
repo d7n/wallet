@@ -1,1 +1,1 @@
-var mnemonic = "sleep attitude able fade advice easily miss demise fit ladder trust green";
+var mnemonic = "feel mind denial inner october tank ensure orange collect dizzy clip wagon";

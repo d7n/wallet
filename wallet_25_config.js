@@ -1,1 +1,1 @@
-var mnemonic = "wall session unveil fiber fox mandate stuff comfort sausage nest innocent leaf";
+var mnemonic = "tackle slot reject liberty frown universe shrug crucial ride kitchen glue impulse";

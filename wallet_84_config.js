@@ -1,1 +1,1 @@
-var mnemonic = "lend expect tattoo recycle plate owner local crisp luggage exchange team original";
+var mnemonic = "track describe empty gate blood hat foil over final depth busy galaxy";

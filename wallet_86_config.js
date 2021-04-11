@@ -1,1 +1,1 @@
-var mnemonic = "brick first stove neither suspect lunar tell almost avocado dentist blame avocado";
+var mnemonic = "egg rent rug lunar toward reveal scare blade day caution response believe";

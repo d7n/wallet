@@ -1,1 +1,1 @@
-var mnemonic = "tattoo wave supreme impose wrist dance nest parade maid tiger cruel pact";
+var mnemonic = "decade purchase grocery name human list put aerobic cereal isolate soup siren";

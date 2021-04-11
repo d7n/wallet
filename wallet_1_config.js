@@ -1,1 +1,1 @@
-var mnemonic = "laundry ritual act phone exile north link lab miracle fatal tiny admit";
+var mnemonic = "lazy grass they endless time coast zoo dash ketchup opera blossom test";

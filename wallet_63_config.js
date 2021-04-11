@@ -1,1 +1,1 @@
-var mnemonic = "pyramid suit laptop sphere error error tower job truck genre health business";
+var mnemonic = "icon cancel cruise clock better puzzle future spirit phrase warrior cup want";

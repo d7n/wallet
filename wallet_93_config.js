@@ -1,1 +1,1 @@
-var mnemonic = "country best also key inmate like peace neutral surprise into surprise enrich";
+var mnemonic = "kiwi kingdom tobacco grace midnight lunch still fiscal among slim snow upset";

@@ -1,1 +1,1 @@
-var mnemonic = "above blood vault rival menu abstract rib crazy dry pink reduce adapt";
+var mnemonic = "rack apology piece unaware insane soon motor speed shoulder shaft sunny custom";

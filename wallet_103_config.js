@@ -1,1 +1,1 @@
-var mnemonic = "size inhale curve impulse cool clip wish interest have oxygen liar march";
+var mnemonic = "usual top snack can sun one demise plate disagree crawl service reject";

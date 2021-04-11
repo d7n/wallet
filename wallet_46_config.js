@@ -1,1 +1,1 @@
-var mnemonic = "churn motor donor accident play quarter hockey net torch gift sell oyster";
+var mnemonic = "fluid metal useful inhale owner come soccer abstract lizard say real tower";

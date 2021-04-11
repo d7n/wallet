@@ -1,1 +1,1 @@
-var mnemonic = "tell control bottom journey fog citizen pride combine purity nest sudden blanket";
+var mnemonic = "hill area twice fresh road force buzz negative artist adapt suggest crystal";

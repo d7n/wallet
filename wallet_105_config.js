@@ -1,1 +1,1 @@
-var mnemonic = "convince diagram lawsuit camera south solve vintage across tumble soccer clap wrong";
+var mnemonic = "resemble tent assist excite smart neck rare kit rich diary flag lamp";

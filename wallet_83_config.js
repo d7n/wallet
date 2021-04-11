@@ -1,1 +1,1 @@
-var mnemonic = "muffin explain team ship palm minor kitchen sister excess noise plug huge";
+var mnemonic = "chef crew predict capable lottery once rhythm diagram exist bundle owner borrow";

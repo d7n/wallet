@@ -1,1 +1,1 @@
-var mnemonic = "tired lucky strong rapid clean tail junior step funny upon cargo ask";
+var mnemonic = "crawl force carbon royal wait vendor castle protect people budget grid law";

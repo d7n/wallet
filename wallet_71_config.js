@@ -1,1 +1,1 @@
-var mnemonic = "nuclear soldier skirt camp chief tornado reveal marriage rescue mix sausage congress";
+var mnemonic = "sauce witness duck pipe frost tag lift envelope door nation wrestle math";

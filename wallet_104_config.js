@@ -1,1 +1,1 @@
-var mnemonic = "intact hello box point chronic loud wait ribbon device desert rely level";
+var mnemonic = "enforce inherit dynamic dry hip nation island image expect bread giraffe maze";

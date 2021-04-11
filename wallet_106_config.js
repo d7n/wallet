@@ -1,1 +1,1 @@
-var mnemonic = "daughter diet point night hurdle inner pair decade glad aunt deny color";
+var mnemonic = "strategy tongue film ladder already design cattle lock mandate loop install unlock";

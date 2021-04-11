@@ -1,1 +1,1 @@
-var mnemonic = "rebel country deny secret shield below flower awkward fossil wish impact flock";
+var mnemonic = "crash roof curtain install hair upon dawn physical will rule recipe coin";

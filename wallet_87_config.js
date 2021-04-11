@@ -1,1 +1,1 @@
-var mnemonic = "girl enroll affair outer minor phone pig process punch friend soul planet";
+var mnemonic = "measure flavor pond mother shoot autumn license hint fly list earn bright";

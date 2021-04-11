@@ -1,1 +1,1 @@
-var mnemonic = "proud foster skull slogan hip slender bomb economy vacant lazy suit private";
+var mnemonic = "gold swap guilt garage attract index tomato exit history woman cycle trust";

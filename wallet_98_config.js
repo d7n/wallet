@@ -1,1 +1,1 @@
-var mnemonic = "nuclear give army better never vast blossom vicious rare solve twin ill";
+var mnemonic = "saddle any kangaroo harsh victory sudden slot minimum culture grape field anchor";

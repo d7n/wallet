@@ -1,1 +1,1 @@
-var mnemonic = "same fitness leaf cheese dynamic unlock demise image vendor kangaroo master economy";
+var mnemonic = "multiply local hub find combine ribbon radio click audit crane disease rabbit";

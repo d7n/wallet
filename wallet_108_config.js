@@ -1,1 +1,1 @@
-var mnemonic = "fly submit slush network essence annual month collect uncover grant stool hub";
+var mnemonic = "autumn model wonder monster barely when more daughter monkey champion finish fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "pear noise risk firm stock drum friend quick palm despair garment rapid";
+var mnemonic = "latin juice unique glad educate unlock relax usual album lazy kangaroo fit";

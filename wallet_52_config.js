@@ -1,1 +1,1 @@
-var mnemonic = "gold trap usual slogan credit grow travel april exile before rescue three";
+var mnemonic = "reduce clerk table moral parade planet access ski cotton egg add end";
