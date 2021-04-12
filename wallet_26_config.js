@@ -1,1 +1,1 @@
-var mnemonic = "menu indicate inhale quiz behind grape grace twin style acoustic castle poverty";
+var mnemonic = "rapid ritual live powder current grunt primary kiss piano gloom virtual salt";

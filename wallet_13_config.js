@@ -1,1 +1,1 @@
-var mnemonic = "surprise view color youth crater fork leopard nuclear awful either barely deny";
+var mnemonic = "useful board blast own steak utility capable yellow unusual couch jaguar cool";

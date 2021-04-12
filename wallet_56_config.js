@@ -1,1 +1,1 @@
-var mnemonic = "maze dash cook essay bike laugh mass goose pioneer rare copper crime";
+var mnemonic = "torch rude ride rather theme expire want ice chicken weather hard great";

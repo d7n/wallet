@@ -1,1 +1,1 @@
-var mnemonic = "record rose explain twin pudding suffer fetch resource large tragic number opera";
+var mnemonic = "critic mass cry invite border they kick alert post artist rent symptom";

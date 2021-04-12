@@ -1,1 +1,1 @@
-var mnemonic = "exercise cream entire frown lake hire inside relief slush caution double corn";
+var mnemonic = "invest sense wrap quantum rice spend frequent ankle ripple final hybrid current";

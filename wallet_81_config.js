@@ -1,1 +1,1 @@
-var mnemonic = "gossip normal skirt phone lecture review remain transfer kid trumpet disorder holiday";
+var mnemonic = "chapter vessel else police raw unknown amused say kind young lumber movie";

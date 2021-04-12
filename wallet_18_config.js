@@ -1,1 +1,1 @@
-var mnemonic = "brisk under tragic explain slot daughter lyrics bunker tag sponsor creek wall";
+var mnemonic = "income nerve february notable address sad chapter amateur rack monkey math march";

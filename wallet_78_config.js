@@ -1,1 +1,1 @@
-var mnemonic = "net sting jealous sauce uncover leg ice episode guide broken cement oppose";
+var mnemonic = "guitar marriage corn equip number simple birth stable submit this plunge rotate";

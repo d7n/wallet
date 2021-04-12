@@ -1,1 +1,1 @@
-var mnemonic = "leisure until traffic drip loyal skin history lonely pilot february phone initial";
+var mnemonic = "source beyond pledge ocean maze park error version capable symbol wrap east";

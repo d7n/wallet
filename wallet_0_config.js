@@ -1,1 +1,1 @@
-var mnemonic = "inside loyal choice project hurt alcohol lyrics mind benefit execute exhibit defense";
+var mnemonic = "talent hello happy index gown obtain album silent inhale erupt satoshi laugh";

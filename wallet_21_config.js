@@ -1,1 +1,1 @@
-var mnemonic = "write title figure where kitten badge atom ignore summer enhance violin umbrella";
+var mnemonic = "wolf possible cruel intact short this ancient provide fossil solid sick kingdom";

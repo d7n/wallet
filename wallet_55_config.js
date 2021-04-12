@@ -1,1 +1,1 @@
-var mnemonic = "denial edge riot true number bunker cross hover version hunt enough pause";
+var mnemonic = "sing leopard profit exhibit depend sample phrase peanut enough rebuild avoid idle";

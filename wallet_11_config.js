@@ -1,1 +1,1 @@
-var mnemonic = "child glue defy salad popular elbow nature transfer matrix someone provide candy";
+var mnemonic = "focus cabin shrug attend frost crash switch alpha borrow reason six candy";

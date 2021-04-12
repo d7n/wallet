@@ -1,1 +1,1 @@
-var mnemonic = "weird swim credit what title stone people neglect inspire hood acquire wide";
+var mnemonic = "good enrich lazy write gloom hotel initial anger fruit album shove embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "differ number creek stick soap embark spoon churn enough token meadow toss";
+var mnemonic = "grass squeeze ask lady dry path pattern member situate name below bridge";

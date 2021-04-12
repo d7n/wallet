@@ -1,1 +1,1 @@
-var mnemonic = "lava virus panic issue capable cover square laundry decade direct sadness vehicle";
+var mnemonic = "test scale purpose online color endorse moral twice effort skin force travel";

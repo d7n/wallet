@@ -1,1 +1,1 @@
-var mnemonic = "park thing stove merge enhance muffin say success donate trade thing piece";
+var mnemonic = "strike hero genre envelope hole march scrap annual favorite drip fold miss";

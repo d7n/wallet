@@ -1,1 +1,1 @@
-var mnemonic = "narrow donor illegal edge fossil forward one carbon congress arm music educate";
+var mnemonic = "laundry tilt ozone beef swing sleep young elevator amateur pass super you";

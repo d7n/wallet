@@ -1,1 +1,1 @@
-var mnemonic = "gorilla nation lesson swear announce length citizen brief path timber trap sugar";
+var mnemonic = "disease anxiety stove almost gauge regret hawk pride camp give treat holiday";

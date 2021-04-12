@@ -1,1 +1,1 @@
-var mnemonic = "kidney enough usual ramp train alcohol toddler hunt best armed erupt faint";
+var mnemonic = "pudding peasant common lobster diesel spell sustain anchor nice oil estate civil";

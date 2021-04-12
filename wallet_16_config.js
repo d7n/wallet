@@ -1,1 +1,1 @@
-var mnemonic = "unhappy year skirt coral fiction farm unaware bubble observe glue diamond tiny";
+var mnemonic = "lobster paddle love final misery donate rule payment lounge sound little lucky";

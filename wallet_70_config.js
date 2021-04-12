@@ -1,1 +1,1 @@
-var mnemonic = "rack fever remind lens police merit smile alley ethics access filter cheap";
+var mnemonic = "chief number juice dynamic lava control opera exhibit service vendor roast hour";

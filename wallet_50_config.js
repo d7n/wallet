@@ -1,1 +1,1 @@
-var mnemonic = "viable deliver predict wasp system attack chalk faith spare vivid food cage";
+var mnemonic = "clerk police lawsuit tape unlock pyramid shop giggle pony despair eyebrow kitten";

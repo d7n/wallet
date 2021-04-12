@@ -1,1 +1,1 @@
-var mnemonic = "upset crucial noble shrimp end forward home act borrow drastic opera firm";
+var mnemonic = "flock stomach crisp clap devote text expect solution put push pull worth";

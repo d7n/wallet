@@ -1,1 +1,1 @@
-var mnemonic = "angry ketchup illness fruit aspect local annual ensure like wrong come twin";
+var mnemonic = "kitten ski sunset open yellow all wine diesel head father depart ice";

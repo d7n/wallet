@@ -1,1 +1,1 @@
-var mnemonic = "boy shiver assist twenty meadow next brick client trick pyramid humble talent";
+var mnemonic = "opinion boost slender unique learn despair shift jewel young scout cannon phone";

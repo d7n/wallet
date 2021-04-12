@@ -1,1 +1,1 @@
-var mnemonic = "electric rebel silver public soft shy razor jealous pattern toward wall fat";
+var mnemonic = "layer obtain festival flush breeze match pudding demand conduct switch scorpion output";

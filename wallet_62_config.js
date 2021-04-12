@@ -1,1 +1,1 @@
-var mnemonic = "sun sock direct enable step squirrel siren enjoy bunker photo cart vintage";
+var mnemonic = "bid beef cinnamon label ivory original husband sketch bus erupt more indoor";

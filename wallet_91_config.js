@@ -1,1 +1,1 @@
-var mnemonic = "art slide any steel dumb toy member train upon speak anger ribbon";
+var mnemonic = "finger sword exact scan strong flock barrel once random grunt category skate";

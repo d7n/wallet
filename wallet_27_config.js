@@ -1,1 +1,1 @@
-var mnemonic = "gadget room pave color trial melt sign swim recall silk syrup yellow";
+var mnemonic = "hen license scissors monkey deer taxi memory icon rail soft cluster pink";

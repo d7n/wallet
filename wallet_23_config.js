@@ -1,1 +1,1 @@
-var mnemonic = "advice helmet menu cool robot will target million frozen sting shoulder clip";
+var mnemonic = "sand panda time favorite couple someone crawl range execute enough huge orbit";

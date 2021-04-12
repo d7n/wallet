@@ -1,1 +1,1 @@
-var mnemonic = "measure friend possible media pistol when moment poem law gorilla duty cry";
+var mnemonic = "faculty pause sure coconut inject lift chef primary diary cradle squirrel clutch";

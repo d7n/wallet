@@ -1,1 +1,1 @@
-var mnemonic = "street credit radio daughter movie cheese theme project olive flash reunion balance";
+var mnemonic = "mimic spatial coffee lava pencil chat attend close parade high squeeze immune";

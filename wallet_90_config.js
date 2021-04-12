@@ -1,1 +1,1 @@
-var mnemonic = "boil street popular dentist arch wrestle snack balance clog weasel salad drink";
+var mnemonic = "matter grocery salt possible boy insect accuse supreme cave material uncover confirm";

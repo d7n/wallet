@@ -1,1 +1,1 @@
-var mnemonic = "attack science census access tower glove rapid average loan echo rescue dog";
+var mnemonic = "total fresh palm finish share donor window prefer edge around track pretty";

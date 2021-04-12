@@ -1,1 +1,1 @@
-var mnemonic = "slam math mimic word vault warm sock sea stand entire win unable";
+var mnemonic = "flower upset upper merge autumn promote patch lucky muscle town angle main";

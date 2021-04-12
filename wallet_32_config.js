@@ -1,1 +1,1 @@
-var mnemonic = "stage scrap short adult snake sand ostrich cereal morning enroll learn vanish";
+var mnemonic = "crowd auction truck arena swim piano spoon arrive video wing vault hobby";

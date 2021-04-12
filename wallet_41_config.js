@@ -1,1 +1,1 @@
-var mnemonic = "office song region nut aspect oak park word grape dismiss midnight keen";
+var mnemonic = "crush gentle sphere pipe wedding tiger window mango double feel sweet sight";

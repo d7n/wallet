@@ -1,1 +1,1 @@
-var mnemonic = "drill grief salon when client fox code ripple push guess key circle";
+var mnemonic = "drive rally twice shift champion cereal trap theory defy easy hobby trial";

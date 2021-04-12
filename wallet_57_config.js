@@ -1,1 +1,1 @@
-var mnemonic = "gate hope broccoli entire across melt save demand dose crash comic fabric";
+var mnemonic = "gorilla refuse sell exchange apple sunny era hour exercise other total exotic";

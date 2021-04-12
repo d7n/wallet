@@ -1,1 +1,1 @@
-var mnemonic = "bright illness mouse ancient cluster enlist drastic can timber fence tube lion";
+var mnemonic = "spring tag coin piano fat pretty river member spawn object kid snake";

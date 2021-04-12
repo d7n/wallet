@@ -1,1 +1,1 @@
-var mnemonic = "fork cook tongue aspect bike month walnut knee useless eight picture adapt";
+var mnemonic = "outside calm gentle symbol convince embody dilemma youth error fold screen caution";

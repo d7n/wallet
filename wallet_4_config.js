@@ -1,1 +1,1 @@
-var mnemonic = "jacket lonely afraid throw oblige melt solve record cheap solar aerobic other";
+var mnemonic = "detect erase just wheat inquiry rescue head east mansion scout prosper under";

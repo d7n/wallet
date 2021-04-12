@@ -1,1 +1,1 @@
-var mnemonic = "gesture connect nice marriage recipe neglect object fox forget plug obvious buzz";
+var mnemonic = "uniform grain baby leave come tray notice reflect bright hundred transfer joy";

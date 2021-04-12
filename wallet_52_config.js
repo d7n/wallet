@@ -1,1 +1,1 @@
-var mnemonic = "keep smoke quantum amateur museum client sphere picture escape twin range twin";
+var mnemonic = "minor dance bid walnut desk panic tomato combine excuse topic fat subway";

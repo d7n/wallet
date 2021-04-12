@@ -1,1 +1,1 @@
-var mnemonic = "alter start oyster mouse spread sample negative rug oppose explain atom gossip";
+var mnemonic = "expire target own spin scorpion virus amused hero rabbit shuffle december fitness";

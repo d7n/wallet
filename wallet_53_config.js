@@ -1,1 +1,1 @@
-var mnemonic = "couch census jealous list retreat fragile wrong mixed slice hobby hybrid desk";
+var mnemonic = "test cricket crouch lava rookie resource excite panda choice retire nut true";

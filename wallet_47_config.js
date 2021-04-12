@@ -1,1 +1,1 @@
-var mnemonic = "minimum magic coffee shove truck online among couple magnet domain can space";
+var mnemonic = "dad vendor alarm pyramid page give plunge pitch bunker pill street amateur";

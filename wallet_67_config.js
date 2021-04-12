@@ -1,1 +1,1 @@
-var mnemonic = "actor mixture invite street sister sausage debris come come surprise toast have";
+var mnemonic = "purpose escape smart asthma mask nest remove rather brave athlete cheap noodle";

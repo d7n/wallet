@@ -1,1 +1,1 @@
-var mnemonic = "steak analyst zoo connect side recipe rubber explain solar happy spend seat";
+var mnemonic = "aunt burden still rice firm maid liar verb caught wear weekend answer";

@@ -1,1 +1,1 @@
-var mnemonic = "census swarm hurdle twin empower exact lonely fire cargo elbow hour ivory";
+var mnemonic = "panther answer exist dinner goat bright arrest timber tuna pottery stove bid";

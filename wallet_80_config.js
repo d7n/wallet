@@ -1,1 +1,1 @@
-var mnemonic = "alter match foster below gauge impose render knee improve phone reason jaguar";
+var mnemonic = "giraffe news funny season tennis lunch museum song play bonus lonely improve";

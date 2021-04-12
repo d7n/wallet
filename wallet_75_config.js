@@ -1,1 +1,1 @@
-var mnemonic = "crazy cheap logic desk leisure shoot ten song bulk runway fuel test";
+var mnemonic = "steel mean scatter pitch kitchen donor cradle enable earn stomach galaxy zebra";

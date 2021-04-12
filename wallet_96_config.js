@@ -1,1 +1,1 @@
-var mnemonic = "beyond know royal hobby spring assist wisdom waste core split unusual lift";
+var mnemonic = "piece travel current domain fortune also degree cave process tongue harbor march";

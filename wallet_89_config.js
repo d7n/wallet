@@ -1,1 +1,1 @@
-var mnemonic = "artefact such celery tape local echo bronze boil own flag craft sort";
+var mnemonic = "best detail welcome master derive quote right cheap suffer proof shrimp vapor";

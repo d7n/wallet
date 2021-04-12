@@ -1,1 +1,1 @@
-var mnemonic = "open session vivid electric finish margin forward depth plastic treat brain surround";
+var mnemonic = "toddler reject identify tragic oyster chase age vicious dignity dish dynamic believe";

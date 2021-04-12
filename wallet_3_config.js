@@ -1,1 +1,1 @@
-var mnemonic = "stone nose dilemma beyond fat cluster aerobic elephant clown material shrimp nice";
+var mnemonic = "mule pupil survey quit magnet miss spring digital change laundry breeze shine";

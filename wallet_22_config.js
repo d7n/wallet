@@ -1,1 +1,1 @@
-var mnemonic = "market inflict pepper virus avocado text rail bundle smooth destroy where neck";
+var mnemonic = "wife pattern situate wrestle reopen resist hip provide easy tag view march";

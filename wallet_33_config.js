@@ -1,1 +1,1 @@
-var mnemonic = "benefit catch pretty swap nerve uniform bridge gallery slight vivid gallery decrease";
+var mnemonic = "decide brush panic design visa stem exercise you away quality bring custom";

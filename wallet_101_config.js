@@ -1,1 +1,1 @@
-var mnemonic = "derive edit dove inform chief obtain screen accuse wrestle connect captain camp";
+var mnemonic = "rice cost patch exhibit flat ugly tree globe broken eager pony comic";

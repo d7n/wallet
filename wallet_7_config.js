@@ -1,1 +1,1 @@
-var mnemonic = "gas notable dynamic volume solar test bulk lunar upset pistol organ easily";
+var mnemonic = "crack rotate connect demise report poet card left wash arctic decorate base";

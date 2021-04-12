@@ -1,1 +1,1 @@
-var mnemonic = "grain recipe bird shoe that claim bulk easy jacket focus actress van";
+var mnemonic = "glad receive fuel dry tape faculty author digital sorry much term recipe";

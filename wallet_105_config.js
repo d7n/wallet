@@ -1,1 +1,1 @@
-var mnemonic = "gaze good olive theory welcome matrix bicycle scissors wagon scrap judge cricket";
+var mnemonic = "reward essence shrug deliver machine slab govern mirror ginger pull room useful";

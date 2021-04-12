@@ -1,1 +1,1 @@
-var mnemonic = "toss absent floor flight coral leave mimic current struggle street consider promote";
+var mnemonic = "way owner movie mom vital error day focus electric loan true harvest";

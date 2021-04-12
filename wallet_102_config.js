@@ -1,1 +1,1 @@
-var mnemonic = "hood hill minor frame insane surge kite betray purchase ship harbor praise";
+var mnemonic = "series husband domain police cherry bacon elegant siren census flock demise produce";

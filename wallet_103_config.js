@@ -1,1 +1,1 @@
-var mnemonic = "bind shoulder casino salute ceiling visa unfair rent visual drum shuffle charge";
+var mnemonic = "rice current toward hope polar edit bicycle control gold pyramid slender woman";

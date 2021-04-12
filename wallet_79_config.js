@@ -1,1 +1,1 @@
-var mnemonic = "dentist bamboo ordinary hurry protect income black mistake segment despair wash copper";
+var mnemonic = "sunset morning jealous boy recall zero win fetch exercise room brother jeans";

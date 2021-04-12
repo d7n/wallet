@@ -1,1 +1,1 @@
-var mnemonic = "quiz job square leave garden female settle dwarf fit captain extend index";
+var mnemonic = "move duck hat pledge route one good help kangaroo wrap buffalo pottery";

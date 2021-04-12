@@ -1,1 +1,1 @@
-var mnemonic = "nominee task audit tone pencil wrist ethics kitchen snow crouch gun document";
+var mnemonic = "cinnamon siren shed gaze door oxygen globe repeat today deer eye camp";

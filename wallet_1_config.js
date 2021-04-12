@@ -1,1 +1,1 @@
-var mnemonic = "stick zebra pelican daring blouse purchase panther cable fee under answer cluster";
+var mnemonic = "loop choose neck property pull network item minute talent behind deposit video";

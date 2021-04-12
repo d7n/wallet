@@ -1,1 +1,1 @@
-var mnemonic = "melody quantum charge cereal blossom inherit net fiber clever surround field expire";
+var mnemonic = "impact kiss leaf guitar jump strategy shift erupt phone pool trial only";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow aim orbit basket shadow address reveal crater amazing season catch cattle";
+var mnemonic = "planet cover three clean ignore mad breeze fee scout canal decrease thought";

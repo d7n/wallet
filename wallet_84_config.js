@@ -1,1 +1,1 @@
-var mnemonic = "coil engage alcohol road shell universe vibrant mind reopen theme tunnel history";
+var mnemonic = "slice spider popular code monitor gown life unique stone physical mimic obscure";

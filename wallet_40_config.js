@@ -1,1 +1,1 @@
-var mnemonic = "human throw october mammal wild century jar gather blossom cloud fee liberty";
+var mnemonic = "arrive silly enemy novel gauge lizard deal mesh cement lucky pretty punch";

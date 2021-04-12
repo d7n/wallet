@@ -1,1 +1,1 @@
-var mnemonic = "gift hurry area museum lonely inform carbon sock mask hero divert march";
+var mnemonic = "donor method topic way rib foil approve guard defense civil kit shine";

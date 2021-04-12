@@ -1,1 +1,1 @@
-var mnemonic = "metal casino ceiling brain govern outer force crater still desert typical swing";
+var mnemonic = "subway chalk release oven edge cruise film super appear fit pottery kick";

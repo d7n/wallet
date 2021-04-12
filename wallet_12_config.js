@@ -1,1 +1,1 @@
-var mnemonic = "lamp over rude lake planet cube history surprise provide have usual unlock";
+var mnemonic = "tent elegant hint whale coyote below sight leader enroll hole leg coyote";

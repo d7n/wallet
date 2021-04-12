@@ -1,1 +1,1 @@
-var mnemonic = "divert believe jealous true path permit calm two physical oak output orphan";
+var mnemonic = "trend dutch merge reduce cliff lounge narrow clinic round share garlic network";

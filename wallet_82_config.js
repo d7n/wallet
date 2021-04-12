@@ -1,1 +1,1 @@
-var mnemonic = "steel remember luxury home hurt security enemy unknown blood cover bachelor universe";
+var mnemonic = "picture eager brave glove today swear arm entry service senior sudden pigeon";

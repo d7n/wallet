@@ -1,1 +1,1 @@
-var mnemonic = "poem police pluck picnic silver silver select tag arm slight spring wet";
+var mnemonic = "runway mutual solve barrel lizard cruel unknown depart grass miracle solve pill";

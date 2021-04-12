@@ -1,1 +1,1 @@
-var mnemonic = "rookie exhaust hobby depth venue fiber arena under cupboard biology record cereal";
+var mnemonic = "nice topple waste jaguar lady vanish forest lunar obey wait novel control";

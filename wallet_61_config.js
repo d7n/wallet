@@ -1,1 +1,1 @@
-var mnemonic = "ski organ random detect time perfect pull usual armor kitchen tool patch";
+var mnemonic = "mass fantasy mandate duck lawsuit message kiss cage address tragic pet among";

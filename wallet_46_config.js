@@ -1,1 +1,1 @@
-var mnemonic = "same slogan narrow column razor more mail fatigue load forest sound critic";
+var mnemonic = "below ring arrive noise birth evoke swing tent disagree person east cup";

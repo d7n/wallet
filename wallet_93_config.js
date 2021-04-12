@@ -1,1 +1,1 @@
-var mnemonic = "awesome broken whip worry bench visit myth modify jelly market fit blind";
+var mnemonic = "light traffic stereo tiger clay purse trial south lonely make edit bean";

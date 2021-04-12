@@ -1,1 +1,1 @@
-var mnemonic = "say keep cheese word ankle trumpet walk penalty caution gossip issue claim";
+var mnemonic = "shift palace problem decade expand human void border cash check kitchen ill";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease helmet plate north evil prosper canal cake scrub tragic wall close";
+var mnemonic = "tobacco wisdom key again wagon saddle bullet mad enhance october very cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk shock awful adult climb ankle traffic evidence dutch noble athlete kingdom";
+var mnemonic = "virtual fragile tribe follow polar load minimum film valley oak mistake resource";

@@ -1,1 +1,1 @@
-var mnemonic = "sun hockey major fossil mobile tooth purity barrel obtain dignity diamond hunt";
+var mnemonic = "mixed attract tower industry spare tomato odor survey uncover best argue effort";

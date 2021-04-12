@@ -1,1 +1,1 @@
-var mnemonic = "cram tooth black royal chalk clap patient label addict margin early service";
+var mnemonic = "chimney either iron potato practice relax will remind sword right dilemma crowd";

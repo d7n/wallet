@@ -1,1 +1,1 @@
-var mnemonic = "one farm slot vocal deputy tilt recall mix crisp always pepper fit";
+var mnemonic = "crystal develop curve valley tail van announce twice predict marriage vapor purpose";

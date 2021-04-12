@@ -1,1 +1,1 @@
-var mnemonic = "outside infant solar demise solid fog refuse true fence brisk rival genre";
+var mnemonic = "oven wool between man exercise course laundry matter exclude call improve rib";

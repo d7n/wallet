@@ -1,1 +1,1 @@
-var mnemonic = "anxiety miracle predict verb parrot nose refuse thing cattle raw clinic plastic";
+var mnemonic = "stomach plunge motion uphold glow giant baby like genius mountain example genuine";

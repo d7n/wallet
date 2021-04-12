@@ -1,1 +1,1 @@
-var mnemonic = "cushion link paddle slow year donate recycle mother point pen dizzy gospel";
+var mnemonic = "slice able feed cabbage palm rich plastic kidney tortoise mad shock castle";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure champion brick daughter electric toast crumble tragic west little color picnic";
+var mnemonic = "remember jar drive broken yellow banana loop input scrub garlic easily muffin";
