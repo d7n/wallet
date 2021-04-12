@@ -1,1 +1,1 @@
-var mnemonic = "raw tumble arena absorb afraid pair alert winter pupil way chimney vacant";
+var mnemonic = "nephew inmate fatigue poet unlock such fire unlock pact token doll tell";

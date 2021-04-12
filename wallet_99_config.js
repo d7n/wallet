@@ -1,1 +1,1 @@
-var mnemonic = "tank flush twin claim soft flock knock cruise miss alley boil slide";
+var mnemonic = "tag ship december harsh apple strong film habit pottery seminar patch pitch";

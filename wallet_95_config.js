@@ -1,1 +1,1 @@
-var mnemonic = "hamster baby soon garlic casual matter square spy spread grace use flee";
+var mnemonic = "key tower wash puzzle uncle vacuum welcome seat enact book purpose trophy";

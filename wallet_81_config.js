@@ -1,1 +1,1 @@
-var mnemonic = "invite wear athlete furnace cover energy friend biology wonder gravity cushion cry";
+var mnemonic = "velvet rural inside swap twenty smoke vast cliff unhappy error mandate capable";

@@ -1,1 +1,1 @@
-var mnemonic = "tail source topic snow census pretty reopen royal light cactus ball metal";
+var mnemonic = "debris reunion goat poem diary resemble never february sheriff orphan accuse story";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh satoshi hard post slush wise frozen medal wing van sudden canoe";
+var mnemonic = "churn amazing snake cupboard destroy stone street report transfer open cricket garment";

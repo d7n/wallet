@@ -1,1 +1,1 @@
-var mnemonic = "liberty talk impact hobby response wheat garden math glow dove tide someone";
+var mnemonic = "celery south cause imitate myself girl arrange loop spatial scissors hen mammal";

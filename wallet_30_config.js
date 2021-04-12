@@ -1,1 +1,1 @@
-var mnemonic = "seed steel inmate betray lunar boss clean crew submit game loud undo";
+var mnemonic = "town quote tone cruise answer sword deny gap message flavor tape angle";

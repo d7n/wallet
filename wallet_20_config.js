@@ -1,1 +1,1 @@
-var mnemonic = "bitter sand differ museum then cherry viable chest strong prefer alarm miss";
+var mnemonic = "lion history onion benefit critic method pizza sword steak rifle found offer";

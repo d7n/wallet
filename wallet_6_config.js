@@ -1,1 +1,1 @@
-var mnemonic = "tell question asset stay purchase sphere giggle region you upgrade deer remove";
+var mnemonic = "interest bone auto margin noise position ivory comfort rude desert tent smart";

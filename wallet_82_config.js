@@ -1,1 +1,1 @@
-var mnemonic = "practice smooth peasant slam soup vendor weather fancy amateur ahead bright maple";
+var mnemonic = "wish believe hammer divorce innocent exile horror abandon army essence trade subway";

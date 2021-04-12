@@ -1,1 +1,1 @@
-var mnemonic = "dust industry impulse sense vintage stool enlist build engine typical toss donate";
+var mnemonic = "roof street mutual object entire produce thrive question citizen beyond cinnamon six";

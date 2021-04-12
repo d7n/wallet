@@ -1,1 +1,1 @@
-var mnemonic = "hip rocket call spray slot leader clump bread comic salmon blush purchase";
+var mnemonic = "harsh say nose build unfair tip party junior pull vacuum patch critic";

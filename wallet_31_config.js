@@ -1,1 +1,1 @@
-var mnemonic = "gas butter slush palace judge purpose poet expire mystery brisk surface play";
+var mnemonic = "improve tray crumble close jaguar wait sunny steel earth lunch toilet board";

@@ -1,1 +1,1 @@
-var mnemonic = "leave tuna truly smile trap coffee lawn tunnel spare hurry tilt omit";
+var mnemonic = "joke you now muscle mammal seven catalog interest claw apple stomach cute";

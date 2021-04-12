@@ -1,1 +1,1 @@
-var mnemonic = "okay weasel miss census solid govern ignore luggage improve drill rhythm charge";
+var mnemonic = "dog sort minor siege learn amazing island velvet erosion enjoy fringe shell";

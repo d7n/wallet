@@ -1,1 +1,1 @@
-var mnemonic = "space goddess soul whisper intact absorb dream chef shed resource record monitor";
+var mnemonic = "service barrel news evolve wage crash impact venture laugh oyster choose orient";

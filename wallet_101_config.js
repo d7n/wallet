@@ -1,1 +1,1 @@
-var mnemonic = "silly crack tilt warm exotic claim window amount crumble peanut force save";
+var mnemonic = "demand admit dilemma glow deposit enlist oak sock point slogan invite wasp";

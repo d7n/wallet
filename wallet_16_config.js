@@ -1,1 +1,1 @@
-var mnemonic = "retreat noble eager large able flush dry sunny across prosper muffin impose";
+var mnemonic = "deposit weird cheap order force luggage praise peanut unaware civil repeat daring";

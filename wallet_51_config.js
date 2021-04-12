@@ -1,1 +1,1 @@
-var mnemonic = "caution mimic orchard quiz athlete carbon clarify wet twenty avocado able security";
+var mnemonic = "swift soul churn country body slim rhythm slight easy grit era lonely";

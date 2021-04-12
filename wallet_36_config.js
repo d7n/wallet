@@ -1,1 +1,1 @@
-var mnemonic = "alarm orient swap enough expand glare rotate pet patch antenna tunnel essence";
+var mnemonic = "trumpet text cancel average asset safe question dove danger series poem sibling";

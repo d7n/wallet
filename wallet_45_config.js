@@ -1,1 +1,1 @@
-var mnemonic = "ticket drum slender girl gloom carry fly velvet camp smart become long";
+var mnemonic = "like shiver hover void suit affair meadow recycle test forest better diary";

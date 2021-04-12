@@ -1,1 +1,1 @@
-var mnemonic = "clutch fork thumb clarify garlic amazing fashion elder exist mask romance card";
+var mnemonic = "drum glass clever aisle mobile abstract art arrive jelly neglect vibrant ride";

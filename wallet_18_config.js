@@ -1,1 +1,1 @@
-var mnemonic = "ghost choice conduct ceiling vehicle close pluck dial slight safe seminar original";
+var mnemonic = "owner add century plug friend identify cruel raise amused blade milk hidden";

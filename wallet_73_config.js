@@ -1,1 +1,1 @@
-var mnemonic = "gold group dry popular meadow palm indoor talent wing denial sheriff fortune";
+var mnemonic = "stereo great congress valid sunny pill visa grant return believe lounge shy";

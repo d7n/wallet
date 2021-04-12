@@ -1,1 +1,1 @@
-var mnemonic = "property uncle ramp friend eagle either secret monitor clinic reduce gift balance";
+var mnemonic = "absurd idea amateur achieve ordinary resist rhythm scrub become mean family engage";

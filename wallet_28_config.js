@@ -1,1 +1,1 @@
-var mnemonic = "mass can arctic copy chaos salon slim desert pistol winner payment price";
+var mnemonic = "aerobic embody bounce pattern jelly eager tone guilt approve matrix sunset cabbage";

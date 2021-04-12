@@ -1,1 +1,1 @@
-var mnemonic = "pear van seat supreme matrix spring rather keen rely ripple busy fun";
+var mnemonic = "thumb fold thing unusual grunt trade flip million bargain toy pave visa";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost thing powder divide acid rib scout nuclear auto ozone crumble electric";
+var mnemonic = "fabric math flip actress jar monitor super ivory hundred hobby prize garden";

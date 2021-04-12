@@ -1,1 +1,1 @@
-var mnemonic = "trade east rabbit bus please escape client throw curious unable pipe wreck";
+var mnemonic = "pony estate peasant clip hobby aerobic display gain nature nephew sign noise";

@@ -1,1 +1,1 @@
-var mnemonic = "side tortoise foot miracle animal ring pony winner labor image raven task";
+var mnemonic = "alert humor beach extend daring marble evil trip enough phrase before buyer";

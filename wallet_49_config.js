@@ -1,1 +1,1 @@
-var mnemonic = "sweet music garlic cattle right code column ride kit world child laugh";
+var mnemonic = "victory okay analyst vivid girl trip absurd language skin episode fish same";

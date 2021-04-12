@@ -1,1 +1,1 @@
-var mnemonic = "sadness lunch father recipe pink grant wish garlic topple until prison margin";
+var mnemonic = "tray only wear voyage broken viable meat between twenty loud orchard transfer";

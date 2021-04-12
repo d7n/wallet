@@ -1,1 +1,1 @@
-var mnemonic = "remember pluck hip tooth fiber install reduce radar teach capital stereo mammal";
+var mnemonic = "moral treat dial knock trick update imitate secret prize settle grunt visual";

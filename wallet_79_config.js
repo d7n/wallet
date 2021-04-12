@@ -1,1 +1,1 @@
-var mnemonic = "trip sick glare ladder fury myself silent erosion sponsor orchard market bike";
+var mnemonic = "fancy civil flip fiscal phrase toward ethics pipe energy devote manage escape";

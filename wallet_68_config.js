@@ -1,1 +1,1 @@
-var mnemonic = "device once apple steak usage voyage skate hold used cancel state wreck";
+var mnemonic = "define put thought enhance anger grief van quick bring echo topple earth";

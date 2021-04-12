@@ -1,1 +1,1 @@
-var mnemonic = "vocal web unknown measure carpet garlic salon dash fox wave slogan project";
+var mnemonic = "cousin bicycle insect sail chalk garage air laptop father correct visual act";

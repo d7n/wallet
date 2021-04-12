@@ -1,1 +1,1 @@
-var mnemonic = "pig flash trade admit van purity permit velvet furnace peanut top curtain";
+var mnemonic = "zone keep crazy weather vast forward alter laptop solid ginger drink diamond";

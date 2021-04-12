@@ -1,1 +1,1 @@
-var mnemonic = "can topple weird auction dinosaur magnet deal wolf among narrow acoustic plunge";
+var mnemonic = "gym wedding infant grant fog sick glad net crowd nation coach toddler";

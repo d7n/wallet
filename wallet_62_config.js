@@ -1,1 +1,1 @@
-var mnemonic = "sponsor spare oyster bag fault again tuna prosper palm surface join fish";
+var mnemonic = "rare banana cube caution air under require battle broken dog spider bid";

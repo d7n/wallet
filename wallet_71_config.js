@@ -1,1 +1,1 @@
-var mnemonic = "volcano gown double able cat vehicle asthma inject tooth okay fossil blur";
+var mnemonic = "spin exotic amazing empower lock similar copy tank evidence farm hover air";

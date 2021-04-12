@@ -1,1 +1,1 @@
-var mnemonic = "yard kiwi fuel flee chef pipe glimpse shaft congress pair use journey";
+var mnemonic = "juice kitten flame cram journey diamond floor wash inherit mimic theme chicken";

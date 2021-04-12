@@ -1,1 +1,1 @@
-var mnemonic = "shaft cloud retreat intact enhance victory bag canoe tissue kind chuckle coach";
+var mnemonic = "raccoon skirt wage ivory reflect flip level attract local myth attend imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "chase kiss life cat reflect slim balance lend fat secret comic cheese";
+var mnemonic = "chase night rail alpha blast guess van glimpse dress neither pioneer fly";

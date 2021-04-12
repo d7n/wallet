@@ -1,1 +1,1 @@
-var mnemonic = "taxi paddle inner motion shield crime side snap average actual celery bulk";
+var mnemonic = "happy obtain riot dignity vacant muffin damp tenant glad awkward stool simple";

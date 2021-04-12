@@ -1,1 +1,1 @@
-var mnemonic = "grief net sting patient saddle horse cabin remain people bulk theory awful";
+var mnemonic = "dinosaur jungle typical either era hello case sight love memory staff unveil";

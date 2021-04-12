@@ -1,1 +1,1 @@
-var mnemonic = "round govern key panther squirrel dance know special census rural absent will";
+var mnemonic = "material follow series rack smart near market network early sand marriage sting";

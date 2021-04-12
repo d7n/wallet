@@ -1,1 +1,1 @@
-var mnemonic = "bird pupil slide crumble dad click glow spice shield response ride pause";
+var mnemonic = "please crane pottery result hotel smooth huge ceiling illegal lens eager rural";

@@ -1,1 +1,1 @@
-var mnemonic = "diary siren push finger cable cute carbon blast evidence capital gaze slow";
+var mnemonic = "sick three pig exact antique opinion pottery divorce only spin window search";

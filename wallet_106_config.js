@@ -1,1 +1,1 @@
-var mnemonic = "level cargo cheap obey home student alcohol reflect crunch alcohol law entire";
+var mnemonic = "frown body spend school clown mimic strike stereo pretty account gap right";

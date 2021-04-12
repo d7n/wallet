@@ -1,1 +1,1 @@
-var mnemonic = "add private flash crucial merit divorce stereo drill slice stage essence motion";
+var mnemonic = "romance easy wait arrest gloom rural plate style clay peanut wife argue";

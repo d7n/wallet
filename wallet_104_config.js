@@ -1,1 +1,1 @@
-var mnemonic = "pool blossom ring cream inflict item exchange gown lava else design acid";
+var mnemonic = "endorse frown dismiss usage setup dust shoe vast roof curious divert shoulder";

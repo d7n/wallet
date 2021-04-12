@@ -1,1 +1,1 @@
-var mnemonic = "offer trigger dolphin emerge legal verb magic correct happy crush maze attack";
+var mnemonic = "soon warrior during vicious absurd apart version surface total same online cruise";

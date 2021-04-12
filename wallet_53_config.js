@@ -1,1 +1,1 @@
-var mnemonic = "suspect relief coil anxiety cruise supreme envelope zero utility half skin invite";
+var mnemonic = "utility stone still trip apple over oppose angle female segment text piano";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet fashion unknown inquiry sun wrong message tongue south magnet inmate cage";
+var mnemonic = "boost capable master another solid giggle abuse rather stomach text extend weekend";

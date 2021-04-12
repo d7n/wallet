@@ -1,1 +1,1 @@
-var mnemonic = "friend fatigue still frown width erase faculty mad fossil front record float";
+var mnemonic = "soul spring pear good attack effort motor weapon fee motion believe hen";

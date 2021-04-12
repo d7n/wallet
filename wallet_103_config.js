@@ -1,1 +1,1 @@
-var mnemonic = "lava color express stage cross total nephew pudding demise scan glare guide";
+var mnemonic = "glass trophy brave busy sail able fantasy shadow secret treat mother cargo";

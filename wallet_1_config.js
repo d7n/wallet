@@ -1,1 +1,1 @@
-var mnemonic = "piece now flat position body equal blur fitness round filter glimpse ask";
+var mnemonic = "absorb pen silver lens work soon assist trick pulse menu indoor similar";

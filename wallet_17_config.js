@@ -1,1 +1,1 @@
-var mnemonic = "have major tomorrow sail tragic box lecture crumble dune fat run entire";
+var mnemonic = "neither purity prize slush olympic poem father exhaust erase kid design million";

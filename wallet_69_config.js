@@ -1,1 +1,1 @@
-var mnemonic = "hollow air odor mandate found mean runway session seven harsh tip latin";
+var mnemonic = "milk alcohol mix element talk observe recall novel pepper unfold belt wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "charge mesh pumpkin bleak expand report thrive absorb category improve source pause";
+var mnemonic = "injury little category emerge rail bid cigar recycle exhaust wrist penalty foot";

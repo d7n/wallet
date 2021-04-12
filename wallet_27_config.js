@@ -1,1 +1,1 @@
-var mnemonic = "equal best detect absent display simple virus mom shift orphan fancy salad";
+var mnemonic = "crack aisle dad immense fluid raise resource lounge boost essence more prize";

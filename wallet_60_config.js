@@ -1,1 +1,1 @@
-var mnemonic = "term scale main elephant cloud swift borrow sign much faint unhappy cloth";
+var mnemonic = "march claw cousin puppy fold wish seed soft minute olympic sign air";

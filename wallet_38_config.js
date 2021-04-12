@@ -1,1 +1,1 @@
-var mnemonic = "orphan detect dove music firm one people obey fold left prison trophy";
+var mnemonic = "helmet man talent armed glove extend wedding destroy embrace scrap planet cave";

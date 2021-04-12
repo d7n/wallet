@@ -1,1 +1,1 @@
-var mnemonic = "busy gallery advice primary husband just trigger crew rotate connect miss bleak";
+var mnemonic = "payment antique pottery hunt puppy october educate come split have betray better";

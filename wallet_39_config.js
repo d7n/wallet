@@ -1,1 +1,1 @@
-var mnemonic = "unfair during lift lounge rebel crack cake invite sausage example boring color";
+var mnemonic = "fatal prepare stem vital repeat divorce faint engage mosquito vacant clarify echo";

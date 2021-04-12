@@ -1,1 +1,1 @@
-var mnemonic = "light canvas smoke fine image census add alcohol obscure puppy holiday river";
+var mnemonic = "drastic act dinosaur blur ivory speak pact chimney differ stomach combine label";

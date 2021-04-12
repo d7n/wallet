@@ -1,1 +1,1 @@
-var mnemonic = "ahead sight squeeze reject length mad perfect suit auction spawn tenant abstract";
+var mnemonic = "strike idea chaos city raise abuse edit attitude garage other upgrade library";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster report educate improve choice dune level client town argue embody soda";
+var mnemonic = "hole beef energy protect stem entire shop spider verb evoke pepper parrot";

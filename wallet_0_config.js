@@ -1,1 +1,1 @@
-var mnemonic = "umbrella begin correct trial blast begin rigid movie setup minimum banner analyst";
+var mnemonic = "traffic sudden hill hedgehog merge brave pole easy sword life angle grace";

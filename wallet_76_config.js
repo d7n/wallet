@@ -1,1 +1,1 @@
-var mnemonic = "reform power core ignore trip display settle envelope catalog tiny victory bacon";
+var mnemonic = "hawk wild sniff orbit casual crash clean plunge apple depth slender salon";

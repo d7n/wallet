@@ -1,1 +1,1 @@
-var mnemonic = "differ sweet time cereal walnut snake castle fold party wrist small swift";
+var mnemonic = "mom shiver depth office race present sail lemon donor enforce spirit rib";

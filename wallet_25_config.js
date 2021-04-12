@@ -1,1 +1,1 @@
-var mnemonic = "cluster often impact buffalo chuckle club border stool junk jelly ripple nose";
+var mnemonic = "tree member divorce shrug left core huge clutch evoke gospel exit drive";

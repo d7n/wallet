@@ -1,1 +1,1 @@
-var mnemonic = "bright issue enough school shaft plunge camera trust stable obvious excite material";
+var mnemonic = "fly song end cool marriage hope confirm replace sock win unaware scout";

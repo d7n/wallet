@@ -1,1 +1,1 @@
-var mnemonic = "warrior near multiply garage gym cousin addict silent census shoe donor local";
+var mnemonic = "differ word cradle left blouse hunt pitch private coin talk again fix";

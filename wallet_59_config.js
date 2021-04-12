@@ -1,1 +1,1 @@
-var mnemonic = "unknown copper develop inform language dignity cheese often cluster amazing patrol walk";
+var mnemonic = "bus govern cable pupil labor depth one odor spray good pipe obtain";

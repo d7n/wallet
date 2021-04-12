@@ -1,1 +1,1 @@
-var mnemonic = "element surprise song polar doll demise elite immense appear genius horror lawsuit";
+var mnemonic = "buffalo cousin west asset glue afford lawsuit sample bicycle front practice advance";

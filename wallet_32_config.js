@@ -1,1 +1,1 @@
-var mnemonic = "mutual coffee eight patch company rose dress carry goose charge cave modify";
+var mnemonic = "agree ignore tube timber buddy hurry among mail parade liberty swear picnic";

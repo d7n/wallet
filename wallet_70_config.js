@@ -1,1 +1,1 @@
-var mnemonic = "aunt normal siren veteran talk eager essence nation clerk radar dream trust";
+var mnemonic = "soup pole nuclear immense melt wonder almost divert measure medal describe always";

@@ -1,1 +1,1 @@
-var mnemonic = "problem comfort oppose dentist rifle drum chest rare profit merit track reopen";
+var mnemonic = "exotic lava amount sentence also iron nasty member pool invite hedgehog dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "hire share brown dentist argue scare stable limit army confirm worth alley";
+var mnemonic = "swear camera insect glue range miss ocean have dolphin diamond sphere gauge";

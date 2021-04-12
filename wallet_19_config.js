@@ -1,1 +1,1 @@
-var mnemonic = "mushroom coyote bind click stove measure civil strategy witness cricket noodle rough";
+var mnemonic = "upset bench coast jungle artefact donkey indicate seat squirrel mountain season pet";

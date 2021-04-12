@@ -1,1 +1,1 @@
-var mnemonic = "magnet west follow deliver track spell swift divorce infant sniff chase expose";
+var mnemonic = "broom tube rich measure filter flower evoke genuine wage tobacco twin eye";

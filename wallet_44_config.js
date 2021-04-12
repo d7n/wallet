@@ -1,1 +1,1 @@
-var mnemonic = "eternal cactus next embark bronze differ limb fetch already upgrade oven blush";
+var mnemonic = "index humor shine fiscal pause token lawsuit horn smooth improve uphold mask";

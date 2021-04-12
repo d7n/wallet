@@ -1,1 +1,1 @@
-var mnemonic = "master invest bamboo shed custom clean forest want pigeon sell must seat";
+var mnemonic = "walnut narrow lift demand stone erase apology embody debris hobby wrestle bitter";

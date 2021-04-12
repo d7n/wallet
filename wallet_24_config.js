@@ -1,1 +1,1 @@
-var mnemonic = "what boss mother issue host sign version other warrior measure rely shrug";
+var mnemonic = "egg become leaf december gym exit jungle duck hollow habit resource coast";

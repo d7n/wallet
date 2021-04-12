@@ -1,1 +1,1 @@
-var mnemonic = "topple victory welcome kiwi deliver embark gorilla borrow when stomach brother network";
+var mnemonic = "lift more exhaust author catalog indoor seed wise divide emerge clown mix";

@@ -1,1 +1,1 @@
-var mnemonic = "upon vacant text shallow shoe nuclear differ weird charge car rival love";
+var mnemonic = "false evolve pink merge talent boss file scale curious cliff foil depth";

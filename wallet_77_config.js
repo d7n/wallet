@@ -1,1 +1,1 @@
-var mnemonic = "asthma ozone lunar plate scorpion pony rich leader expand sausage sand bless";
+var mnemonic = "action account claim spread merit gossip picture anxiety fiscal narrow puppy test";

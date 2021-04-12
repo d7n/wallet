@@ -1,1 +1,1 @@
-var mnemonic = "rotate unusual kit matter cage entry dutch kite club banana burst light";
+var mnemonic = "price leave remove connect wear tower repair chunk fox sing awful mixed";

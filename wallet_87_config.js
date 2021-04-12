@@ -1,1 +1,1 @@
-var mnemonic = "awake album hat hire fault kind note endless royal business open fee";
+var mnemonic = "brief regret cup predict sunny talent entire scorpion velvet keen quantum steak";

@@ -1,1 +1,1 @@
-var mnemonic = "soft scale turtle result jump ozone vivid spy prosper first cricket ghost";
+var mnemonic = "crystal sting drama minimum crash error inner mirror annual tool waste mask";
