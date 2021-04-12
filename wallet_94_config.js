@@ -1,1 +1,1 @@
-var mnemonic = "own pass acid slender truth cupboard digital step nuclear disorder dignity orient";
+var mnemonic = "crouch flag rent little smoke dog board survey ozone fall shock mixture";

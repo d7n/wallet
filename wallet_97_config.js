@@ -1,1 +1,1 @@
-var mnemonic = "color bread law jazz grunt cherry capable pet welcome indicate ice will";
+var mnemonic = "vault caution circle glove sniff virtual anchor razor major now drum crane";

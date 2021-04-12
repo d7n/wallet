@@ -1,1 +1,1 @@
-var mnemonic = "image tuna meadow impulse tragic quiz exile tomorrow elephant crucial gesture can";
+var mnemonic = "head slow never feel february worry object refuse cry vital name steak";

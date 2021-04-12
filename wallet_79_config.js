@@ -1,1 +1,1 @@
-var mnemonic = "thing collect vault arch brain climb police film actual solid biology custom";
+var mnemonic = "angry try lock clean rain audit rural egg primary antique cupboard object";

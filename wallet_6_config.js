@@ -1,1 +1,1 @@
-var mnemonic = "click person barely kick core father enlist rabbit occur goddess alone position";
+var mnemonic = "tourist wave blossom hat idle draft divide athlete effort kit boil garlic";

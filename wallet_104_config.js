@@ -1,1 +1,1 @@
-var mnemonic = "power return rapid vault peanut sort gauge drive bronze desert day damp";
+var mnemonic = "guide merit clip super suggest enable random flock blush shed check december";

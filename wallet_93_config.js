@@ -1,1 +1,1 @@
-var mnemonic = "train before million myself style coach slender congress pig book modify blossom";
+var mnemonic = "favorite stick child parent letter wasp tilt camera attract grace small alone";

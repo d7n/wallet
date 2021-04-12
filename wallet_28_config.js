@@ -1,1 +1,1 @@
-var mnemonic = "agent grunt sketch angry square month brick outer piece lab powder cry";
+var mnemonic = "eager verb bread warm inspire success industry future final donkey prize best";

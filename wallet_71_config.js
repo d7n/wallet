@@ -1,1 +1,1 @@
-var mnemonic = "police sure upset mammal arch swallow hybrid remind palace stock rare proof";
+var mnemonic = "town illegal lazy bunker use sad fiscal crunch cotton skill hope taste";

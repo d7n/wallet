@@ -1,1 +1,1 @@
-var mnemonic = "treat desert detect myth poverty main boost derive liquid exhibit sauce thank";
+var mnemonic = "text soft voice athlete hole average clock skin flavor jealous chuckle border";

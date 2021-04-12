@@ -1,1 +1,1 @@
-var mnemonic = "army soldier top mean insane width fix kangaroo amused very exercise purchase";
+var mnemonic = "radio describe decide thrive buffalo gorilla quality awkward rural member kid debris";

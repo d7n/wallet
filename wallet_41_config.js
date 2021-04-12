@@ -1,1 +1,1 @@
-var mnemonic = "mango humor shove slender child champion urban sure approve token inmate poverty";
+var mnemonic = "ring rug valid chicken disagree march define also kiwi opera scorpion fluid";

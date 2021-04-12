@@ -1,1 +1,1 @@
-var mnemonic = "cook kid wrong attend tattoo detect leader dance private light turtle mesh";
+var mnemonic = "sketch video lake exchange orange explain list slice depend hedgehog draw cigar";

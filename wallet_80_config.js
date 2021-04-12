@@ -1,1 +1,1 @@
-var mnemonic = "gas echo task prevent obtain recipe exhaust expire chef fun stuff sea";
+var mnemonic = "cage practice never syrup slam leg average father shaft planet type virtual";

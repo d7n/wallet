@@ -1,1 +1,1 @@
-var mnemonic = "original sunny umbrella mad section correct true arrange panther detect planet banana";
+var mnemonic = "dawn exile earth scatter inquiry atom trumpet oval grit alcohol wrist apart";

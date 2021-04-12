@@ -1,1 +1,1 @@
-var mnemonic = "trip uncle demand okay reward ahead dice bamboo purse jacket antique short";
+var mnemonic = "economy elegant people response skin parrot tuition inspire orient neck near fall";

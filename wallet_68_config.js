@@ -1,1 +1,1 @@
-var mnemonic = "grab enjoy lobster winter fit skin whale hybrid follow power move electric";
+var mnemonic = "glare shy lend surge nominee skull fault shell dragon cable ahead diet";

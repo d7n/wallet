@@ -1,1 +1,1 @@
-var mnemonic = "teach once book fancy hire twice wool coach engine culture knife share";
+var mnemonic = "join melody element ranch fun asthma boil warm rabbit sample brisk mention";

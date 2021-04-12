@@ -1,1 +1,1 @@
-var mnemonic = "oven north hobby romance front wear loan potato party clay battle quit";
+var mnemonic = "hire erase crystal strike since sick debris patient switch survey property crew";

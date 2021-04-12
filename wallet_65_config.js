@@ -1,1 +1,1 @@
-var mnemonic = "shaft surge sad boat nerve dream cable cable alcohol skull attitude employ";
+var mnemonic = "crucial receive joy addict devote cost envelope nominee skull claw danger must";

@@ -1,1 +1,1 @@
-var mnemonic = "save spend inch head bicycle shop copper chuckle lawn reflect quote predict";
+var mnemonic = "pioneer sentence mixture toe shop size skull time calm current rack you";

@@ -1,1 +1,1 @@
-var mnemonic = "share dignity display delay afford hen supreme economy chuckle turkey symbol pool";
+var mnemonic = "bubble mad small example ritual expect piece ranch purity hospital kick end";

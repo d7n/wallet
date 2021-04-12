@@ -1,1 +1,1 @@
-var mnemonic = "food visual mechanic dog hello wash hawk inject mansion useless north shell";
+var mnemonic = "ahead syrup ceiling grid lyrics will race fence swift absorb meadow point";

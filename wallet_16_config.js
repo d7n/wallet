@@ -1,1 +1,1 @@
-var mnemonic = "purity ivory mail weather option when leaf pony hope unable mad march";
+var mnemonic = "receive whale jump seminar desk true echo paper wide online wagon mechanic";

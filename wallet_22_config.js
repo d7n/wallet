@@ -1,1 +1,1 @@
-var mnemonic = "milk country embody match adjust poet pigeon cigar ankle output vote before";
+var mnemonic = "abuse swear loyal execute action husband mushroom trophy plunge negative barely luxury";

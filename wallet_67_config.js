@@ -1,1 +1,1 @@
-var mnemonic = "aisle forget fiber virtual smile oval actor bronze educate pencil emotion beach";
+var mnemonic = "inhale salad stay pond add mixture catch bracket empower ring night hard";

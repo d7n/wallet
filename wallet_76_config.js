@@ -1,1 +1,1 @@
-var mnemonic = "ketchup rookie gadget picture tonight upper face save inside define blind law";
+var mnemonic = "baby attitude rude damage quote coral immune hero river carpet join material";

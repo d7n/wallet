@@ -1,1 +1,1 @@
-var mnemonic = "knee plate they chef bean guitar clutch attack finish version ceiling anchor";
+var mnemonic = "permit mutual pioneer wall retire review ten choose jewel noodle idle umbrella";

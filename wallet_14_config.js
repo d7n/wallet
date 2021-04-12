@@ -1,1 +1,1 @@
-var mnemonic = "rude stock gym cup december coach jeans trouble ridge pattern snake submit";
+var mnemonic = "egg general gorilla explain federal shoe quality appear priority pottery chat violin";

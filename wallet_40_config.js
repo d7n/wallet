@@ -1,1 +1,1 @@
-var mnemonic = "ripple huge issue stable bunker parent truck ahead genius neutral hour observe";
+var mnemonic = "auction wood color sight toss unable planet grocery accuse struggle pulse stable";

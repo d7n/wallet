@@ -1,1 +1,1 @@
-var mnemonic = "aim above across plastic case gift spray patrol wrong liar solar question";
+var mnemonic = "power electric proof gain hungry spare expire rent invite pizza jazz winner";

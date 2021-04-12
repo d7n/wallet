@@ -1,1 +1,1 @@
-var mnemonic = "bar point mesh cannon clip half hidden slam sort cricket apology athlete";
+var mnemonic = "produce wing gift cotton initial sweet mom define hub kangaroo under rigid";

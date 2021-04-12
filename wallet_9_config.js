@@ -1,1 +1,1 @@
-var mnemonic = "expand smooth right plunge tell oak fiction anxiety penalty elegant alley upper";
+var mnemonic = "slam aware web green box affair critic copy stairs leisure train private";

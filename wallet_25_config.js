@@ -1,1 +1,1 @@
-var mnemonic = "insect soldier affair can grunt gospel tiny rubber tent unaware side alone";
+var mnemonic = "bridge grid habit amateur behave actress slow deputy filter amateur armor loud";

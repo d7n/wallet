@@ -1,1 +1,1 @@
-var mnemonic = "lounge anchor spray address glance pink alert object warfare funny february damp";
+var mnemonic = "mutual edit damage load lock aerobic warrior hotel resource usual man response";

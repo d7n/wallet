@@ -1,1 +1,1 @@
-var mnemonic = "please deal churn gold prize candy broom screen exact rural answer mother";
+var mnemonic = "ice lab cabbage library topic among orbit lady flee ramp gallery clever";

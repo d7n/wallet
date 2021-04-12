@@ -1,1 +1,1 @@
-var mnemonic = "gadget cry access margin pepper weather mixture spring wink digital burst early";
+var mnemonic = "rookie fiber tenant review smile reject net history treat utility stadium pumpkin";

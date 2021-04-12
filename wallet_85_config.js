@@ -1,1 +1,1 @@
-var mnemonic = "glove math ticket chronic network kit theory then story base sniff metal";
+var mnemonic = "clog save match story apart success wild humble bridge worth search advance";

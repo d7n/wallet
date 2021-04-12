@@ -1,1 +1,1 @@
-var mnemonic = "fresh dove cigar behave joke peanut hedgehog utility unable wrestle ridge source";
+var mnemonic = "glance upon question disease indoor rigid creek destroy save kite arrest abandon";

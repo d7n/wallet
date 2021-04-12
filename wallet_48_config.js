@@ -1,1 +1,1 @@
-var mnemonic = "reform skate gasp casual ghost gift real feature defy dinosaur chief dutch";
+var mnemonic = "length cousin meat sting ill velvet wise neither return merry craft butter";

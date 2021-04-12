@@ -1,1 +1,1 @@
-var mnemonic = "aim balance drop black razor quarter place enforce crack ramp apple deal";
+var mnemonic = "ginger copy base vivid buyer excess pact avocado tuition noble scene moral";

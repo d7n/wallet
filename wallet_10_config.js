@@ -1,1 +1,1 @@
-var mnemonic = "staff online spare book surprise tomato lift fun pipe hole myth obey";
+var mnemonic = "luxury region equal arctic reform inside truth amazing grace motion useful arctic";

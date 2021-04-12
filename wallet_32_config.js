@@ -1,1 +1,1 @@
-var mnemonic = "cancel sphere amount glow live old nation tunnel tennis gas truth stadium";
+var mnemonic = "among hurry brand endless list gauge waste energy front glow shell leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "portion deer monitor boil between arrive digital column moment umbrella acquire bounce";
+var mnemonic = "marriage solar media soda access useful pelican wave wrist senior distance work";

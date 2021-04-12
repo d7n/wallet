@@ -1,1 +1,1 @@
-var mnemonic = "recipe food target empty input rifle battle can fee involve embark clock";
+var mnemonic = "point vacuum december lady dial dream spice bright now slice purpose area";

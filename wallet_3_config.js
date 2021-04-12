@@ -1,1 +1,1 @@
-var mnemonic = "later junior elevator latin source harvest arena tooth mutual glide foot prevent";
+var mnemonic = "car pencil airport disorder middle walk picnic end come bag street perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "catch crash tobacco memory live sick tag tribe donkey hospital comic minor";
+var mnemonic = "that purse drive scissors casino pipe become iron glide someone there frost";

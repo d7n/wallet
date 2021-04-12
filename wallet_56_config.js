@@ -1,1 +1,1 @@
-var mnemonic = "evil grace wood desert ketchup join catalog chunk reject area solid web";
+var mnemonic = "bench used critic sea stomach settle target symbol pass romance drama remind";

@@ -1,1 +1,1 @@
-var mnemonic = "minute exit proof swamp then wolf deputy matter valley quote spare science";
+var mnemonic = "drop ankle slide novel believe imitate swap priority shy opera blush street";

@@ -1,1 +1,1 @@
-var mnemonic = "arch across seminar attitude reform unit recall elite subway disorder planet document";
+var mnemonic = "foster misery turkey clump state tourist chef web lift cloth language police";

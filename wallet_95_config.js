@@ -1,1 +1,1 @@
-var mnemonic = "banana front digital safe behind idle fence citizen title differ say detect";
+var mnemonic = "into shock divorce artist valve bird replace upper leave beyond cushion world";

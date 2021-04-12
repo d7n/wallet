@@ -1,1 +1,1 @@
-var mnemonic = "response ankle lecture jelly riot dune unfold liberty tiger fog sphere reopen";
+var mnemonic = "better drip little neck social palm flip test supply perfect husband prevent";

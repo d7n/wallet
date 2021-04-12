@@ -1,1 +1,1 @@
-var mnemonic = "pet regret reunion soon casino fringe view donor produce tenant milk candy";
+var mnemonic = "empower task budget flavor bridge hair guard diamond infant weird pistol casino";

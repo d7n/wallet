@@ -1,1 +1,1 @@
-var mnemonic = "ten talent popular identify spider feel sustain wet push social detail galaxy";
+var mnemonic = "cherry myself valley cliff cause tail enlist clarify hurry brain radar target";

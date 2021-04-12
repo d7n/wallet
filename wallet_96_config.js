@@ -1,1 +1,1 @@
-var mnemonic = "melody flock unlock candy scrap armed buddy uniform wink collect fossil erupt";
+var mnemonic = "bike push develop myself federal cabin tooth grape there kind fluid regular";

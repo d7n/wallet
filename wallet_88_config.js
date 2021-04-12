@@ -1,1 +1,1 @@
-var mnemonic = "aim before detect salad focus expose sort nose evidence husband square lake";
+var mnemonic = "unique culture entry grocery strike twenty best achieve ladder meadow wire inspire";

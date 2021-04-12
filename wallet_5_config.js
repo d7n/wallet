@@ -1,1 +1,1 @@
-var mnemonic = "minute reward link wood debate length primary arm canoe during evidence include";
+var mnemonic = "cat unusual limit funny life flip ordinary night blame quality cave master";

@@ -1,1 +1,1 @@
-var mnemonic = "print hobby category host gap disorder antenna giggle security wash box tennis";
+var mnemonic = "river rebel cluster hundred judge cattle detail aisle radio improve pass exact";

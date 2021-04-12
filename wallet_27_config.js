@@ -1,1 +1,1 @@
-var mnemonic = "danger permit captain clump rigid adult catalog divide ketchup away pulp theory";
+var mnemonic = "system tornado work name harvest unique destroy unable credit conduct mouse twelve";

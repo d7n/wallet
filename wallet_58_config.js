@@ -1,1 +1,1 @@
-var mnemonic = "switch hazard music winner gap second attitude apart hockey brown uniform amused";
+var mnemonic = "stem kite family safe athlete trend desk traffic mammal lava swarm permit";

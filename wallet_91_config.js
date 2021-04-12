@@ -1,1 +1,1 @@
-var mnemonic = "board purity swap staff clean that obtain essay example dawn leave answer";
+var mnemonic = "extra trip walk jungle curious flash where small toast latin under market";

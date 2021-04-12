@@ -1,1 +1,1 @@
-var mnemonic = "act describe view long series hospital grab reveal design match trumpet time";
+var mnemonic = "nation wheel tell chronic snake auction current harvest survey whale oil add";

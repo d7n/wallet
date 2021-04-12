@@ -1,1 +1,1 @@
-var mnemonic = "collect labor goose inner boat online sea tortoise outdoor sunny october soup";
+var mnemonic = "age way city alarm engage flower okay exclude evil october erupt west";

@@ -1,1 +1,1 @@
-var mnemonic = "review deliver awful olive carpet legend scrap view raven just praise else";
+var mnemonic = "hub coach come loud vital agree dolphin address pottery blue lend urban";

@@ -1,1 +1,1 @@
-var mnemonic = "grow erode pepper onion bomb turkey debris force kingdom world question second";
+var mnemonic = "belt thumb spread cash happy illegal million used diesel tray cash spy";

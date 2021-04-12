@@ -1,1 +1,1 @@
-var mnemonic = "cloud calm armor ready erode soccer sister fit estate state discover anxiety";
+var mnemonic = "sweet immune puzzle call ask opinion fun mean original tide panther empty";

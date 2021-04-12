@@ -1,1 +1,1 @@
-var mnemonic = "raven leader smart reflect help key category require fiber practice engine share";
+var mnemonic = "guess unique episode gravity recall liar subway viable boat mobile list unfold";

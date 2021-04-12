@@ -1,1 +1,1 @@
-var mnemonic = "shuffle collect grocery knock dove file style expand leopard minimum romance kind";
+var mnemonic = "wide marble ribbon awful fatigue hen umbrella glare peasant pledge town popular";

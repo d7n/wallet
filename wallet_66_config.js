@@ -1,1 +1,1 @@
-var mnemonic = "make empty window excuse betray brush fantasy execute roof jar tail supreme";
+var mnemonic = "ordinary torch final month nuclear lawsuit loop depend enforce solar torch region";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle replace calm drift surge buffalo renew sniff breeze slow wheel fortune";
+var mnemonic = "beach poem appear endorse cabin vanish spike display timber gravity tank sorry";

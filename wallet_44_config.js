@@ -1,1 +1,1 @@
-var mnemonic = "sunny gaze latin robust hip mind sentence oblige decline cliff animal suit";
+var mnemonic = "treat eyebrow income age muffin glue obtain bracket frog promote direct fringe";

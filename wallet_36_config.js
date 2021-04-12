@@ -1,1 +1,1 @@
-var mnemonic = "nut fluid aisle mother crucial burger asset nasty number grow ramp push";
+var mnemonic = "silly wood obtain dragon section luggage charge street egg because shy sad";

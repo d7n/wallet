@@ -1,1 +1,1 @@
-var mnemonic = "ceiling kitchen income awkward oblige load other stock evidence drill animal long";
+var mnemonic = "soft safe argue glare setup easily pencil run sustain pact arm rude";

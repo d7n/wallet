@@ -1,1 +1,1 @@
-var mnemonic = "picnic tail today resource round lake lab success dutch learn zero address";
+var mnemonic = "rent acid suspect breeze bag verb rose loyal gossip diary coconut bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle rain share catalog chef father tank struggle burger village food comic";
+var mnemonic = "box puppy hat nuclear enroll that upset rely cheap submit lounge club";

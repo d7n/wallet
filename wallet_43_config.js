@@ -1,1 +1,1 @@
-var mnemonic = "make extra peasant immune absurd connect glory cross suffer buffalo mystery flat";
+var mnemonic = "sun certain arm sweet wine once welcome sail matrix burst pause garage";

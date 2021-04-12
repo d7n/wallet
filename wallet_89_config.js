@@ -1,1 +1,1 @@
-var mnemonic = "token jazz hint box yellow foam wedding detect spawn better gasp skill";
+var mnemonic = "urban execute toy female symptom pottery buffalo joy barely quick spatial typical";

@@ -1,1 +1,1 @@
-var mnemonic = "hub disorder carry brown token novel border gain upper update fit tongue";
+var mnemonic = "vocal shoe bean scare inject hub inner below noise chest stock twenty";

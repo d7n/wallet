@@ -1,1 +1,1 @@
-var mnemonic = "march flower cover like patient venture street success rebel evoke cool pave";
+var mnemonic = "jelly engage lemon inmate sleep gadget gun easily art trash behave fringe";

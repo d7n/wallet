@@ -1,1 +1,1 @@
-var mnemonic = "injury bottom camp token little notice toast bounce damage sadness pipe leg";
+var mnemonic = "torch absorb post pulp speak slice wagon fee dilemma apart end impulse";

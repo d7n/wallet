@@ -1,1 +1,1 @@
-var mnemonic = "patch unaware cliff angry better floor rhythm result enable copy business sense";
+var mnemonic = "forum math skull avoid charge coast smile degree card resist enrich sister";

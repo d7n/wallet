@@ -1,1 +1,1 @@
-var mnemonic = "kick cute tool version island cradle airport perfect avocado tooth enter hazard";
+var mnemonic = "alien march volcano north book snow empower balcony muffin ugly cup distance";

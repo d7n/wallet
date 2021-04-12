@@ -1,1 +1,1 @@
-var mnemonic = "tongue solve boat miss swallow shrimp income bright coral dog manage industry";
+var mnemonic = "boil glad tube cruise eyebrow tourist they butter dry spray judge lobster";

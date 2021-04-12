@@ -1,1 +1,1 @@
-var mnemonic = "income future gossip chest stairs original multiply skin floor pony retire history";
+var mnemonic = "lend ski shy room couch act wave undo across trade shadow acid";

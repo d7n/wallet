@@ -1,1 +1,1 @@
-var mnemonic = "unaware wine belt release trend polar enough major enforce believe harbor shine";
+var mnemonic = "fan shadow dust radio bar tackle awesome error retire patrol hawk popular";

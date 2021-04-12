@@ -1,1 +1,1 @@
-var mnemonic = "edit quit napkin hole hole donkey version next olive merry sing country";
+var mnemonic = "because diesel ride true owner project waste clutch cable over camp flame";

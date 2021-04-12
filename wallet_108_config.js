@@ -1,1 +1,1 @@
-var mnemonic = "behind repair task define lizard response suggest verify just kid gloom reopen";
+var mnemonic = "pitch trumpet desert remember avocado crucial slush list fun honey sorry coach";

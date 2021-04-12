@@ -1,1 +1,1 @@
-var mnemonic = "lady switch round lawsuit exhaust notice trim record deny gaze staff grit";
+var mnemonic = "manual olive warfare blue person rate dance abuse glow initial fatal intact";

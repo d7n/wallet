@@ -1,1 +1,1 @@
-var mnemonic = "woman true lazy enforce supply practice price purpose life exhaust reform initial";
+var mnemonic = "major grace year find stomach kitten loop major donkey mind account blouse";

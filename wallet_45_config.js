@@ -1,1 +1,1 @@
-var mnemonic = "spray vintage bird term suffer nominee joy feed have desert winner lemon";
+var mnemonic = "happy indoor burst dog output black unaware rebel soldier resource seek turn";
