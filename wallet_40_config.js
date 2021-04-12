@@ -1,1 +1,1 @@
-var mnemonic = "shield height struggle brain short crew rare all enforce pear crunch copy";
+var mnemonic = "pudding base elder doctor erode hard diet thing joke ten among ignore";

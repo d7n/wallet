@@ -1,1 +1,1 @@
-var mnemonic = "garlic father decade tortoise detect slow photo fall spawn obvious rotate enter";
+var mnemonic = "alcohol alter citizen vapor similar very letter swallow must mercy track swallow";

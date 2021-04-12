@@ -1,1 +1,1 @@
-var mnemonic = "join embark about zero sight afraid lady cargo burden muffin panel note";
+var mnemonic = "voyage embody wash grace bachelor hidden author clinic magic olive boss cousin";

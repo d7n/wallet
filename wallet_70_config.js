@@ -1,1 +1,1 @@
-var mnemonic = "deposit annual damp bid special ready upon chunk tag impulse lyrics edit";
+var mnemonic = "fan recipe enact govern actual breeze favorite remove blue artwork response lake";

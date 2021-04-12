@@ -1,1 +1,1 @@
-var mnemonic = "merry egg trigger depart crazy spatial margin patient foam brother cheap weekend";
+var mnemonic = "lawn engage demise detail estate local seat perfect rich fault east nose";

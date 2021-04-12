@@ -1,1 +1,1 @@
-var mnemonic = "shiver expand vanish explain fluid romance little tonight spread thunder shine skill";
+var mnemonic = "satisfy asthma assist ancient royal usual safe clean gift treat century oil";

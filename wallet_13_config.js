@@ -1,1 +1,1 @@
-var mnemonic = "order castle cage seek owner maze resist equip dinner donate napkin unusual";
+var mnemonic = "peasant polar drift net job rocket hard place follow practice gain exhibit";

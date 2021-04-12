@@ -1,1 +1,1 @@
-var mnemonic = "ozone harsh voyage various again alone night super noise session scale confirm";
+var mnemonic = "convince parrot beyond tobacco oil fossil kitchen person member ill net dizzy";

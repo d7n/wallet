@@ -1,1 +1,1 @@
-var mnemonic = "draft stage super rhythm episode anchor retire expect prepare mixed drama better";
+var mnemonic = "predict oxygen symptom almost banner stand moon chicken medal cost boring shed";

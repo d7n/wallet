@@ -1,1 +1,1 @@
-var mnemonic = "card such process game luggage ball noble erosion conduct satisfy pudding invest";
+var mnemonic = "rare slam nerve chuckle girl resemble note render when melody fence train";

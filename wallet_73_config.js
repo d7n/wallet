@@ -1,1 +1,1 @@
-var mnemonic = "region start warm accuse purse dove female essay kitten term pave critic";
+var mnemonic = "seat lecture cake toward lounge tower side invest snack rib army settle";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty actress candy parent logic order label awesome fence shrug bird example";
+var mnemonic = "badge theme bachelor spider genre desk trial canvas enact ring menu idea";

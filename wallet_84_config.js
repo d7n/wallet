@@ -1,1 +1,1 @@
-var mnemonic = "tilt give crowd middle pole bag warm basic mushroom senior happy liberty";
+var mnemonic = "cupboard brain bless suffer explain rely merry scene shoot zero track inform";

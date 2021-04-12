@@ -1,1 +1,1 @@
-var mnemonic = "have sphere pony clap shrimp hotel crunch sword return slice gasp proud";
+var mnemonic = "dream present hospital crack neglect elder balance busy coach civil crime blast";

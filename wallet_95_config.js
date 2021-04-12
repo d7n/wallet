@@ -1,1 +1,1 @@
-var mnemonic = "pear wall like sweet stone hint mosquito spice canal bottom future meat";
+var mnemonic = "viable result hurt gravity mail above profit shoot ridge attract enroll trap";

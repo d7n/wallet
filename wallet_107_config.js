@@ -1,1 +1,1 @@
-var mnemonic = "era acid indicate badge case renew omit before decline violin brave gather";
+var mnemonic = "hill grocery crucial begin bid problem update arrow auto machine hurt wage";

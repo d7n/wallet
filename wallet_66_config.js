@@ -1,1 +1,1 @@
-var mnemonic = "discover dutch canal guess scare wine frog anxiety crack wash pencil absent";
+var mnemonic = "scene arrange horror narrow waste blast whale veteran acquire tumble orient foster";

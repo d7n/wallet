@@ -1,1 +1,1 @@
-var mnemonic = "game expand hire where snack step truly captain planet cattle glide ranch";
+var mnemonic = "diary warfare leisure void obvious kangaroo caught insect sun pistol vast conduct";

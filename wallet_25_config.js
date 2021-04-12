@@ -1,1 +1,1 @@
-var mnemonic = "buffalo busy shiver game sunset void boost decrease barrel auction will stamp";
+var mnemonic = "document coral axis crumble idle wing alcohol word original sketch enforce athlete";

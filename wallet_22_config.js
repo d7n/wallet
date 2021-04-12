@@ -1,1 +1,1 @@
-var mnemonic = "scout clap ramp alter couple turn again walk tag delay melt obtain";
+var mnemonic = "now badge boy weather depend month record place leg focus trouble traffic";

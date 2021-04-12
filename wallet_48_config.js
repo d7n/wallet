@@ -1,1 +1,1 @@
-var mnemonic = "garbage drop please tilt scatter echo border raw idea refuse select alert";
+var mnemonic = "comic radio knee bleak club smart stand fiber bonus stumble deliver owner";

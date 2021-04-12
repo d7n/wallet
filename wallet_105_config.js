@@ -1,1 +1,1 @@
-var mnemonic = "segment local wheel friend outdoor area sad lend grow salon off venue";
+var mnemonic = "ramp lawsuit public wrap journey raw dish romance very index wave neutral";

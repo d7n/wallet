@@ -1,1 +1,1 @@
-var mnemonic = "goat glare chimney boss sweet price glove hockey siren speed option attract";
+var mnemonic = "sister coconut ensure prefer bachelor achieve gain drastic light vapor banana seat";

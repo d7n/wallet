@@ -1,1 +1,1 @@
-var mnemonic = "infant erase coral fruit height truly tortoise fence guilt sing elder crawl";
+var mnemonic = "tiny simple mountain online fix snake crazy balance coffee icon hotel remember";

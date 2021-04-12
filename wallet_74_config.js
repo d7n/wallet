@@ -1,1 +1,1 @@
-var mnemonic = "donkey evidence super sound rifle parade sentence assault million very foam tobacco";
+var mnemonic = "over seek happy private afraid arctic maple device bean welcome measure sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "budget cousin pudding impulse nut minor walk embark annual neglect ordinary hockey";
+var mnemonic = "floor ridge rotate detect rural insane honey huge chase minimum else insect";

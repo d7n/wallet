@@ -1,1 +1,1 @@
-var mnemonic = "blame cost soul actress crash enlist myth brain casino destroy bread door";
+var mnemonic = "mutual cry possible equip grunt circle photo street mystery invest tissue casual";

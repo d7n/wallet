@@ -1,1 +1,1 @@
-var mnemonic = "cricket pig fix hurry floor project net lift first outer convince potato";
+var mnemonic = "wire often warfare twelve want capital giraffe portion height before inhale truly";

@@ -1,1 +1,1 @@
-var mnemonic = "expire afford meat permit body parrot seed luxury cheese betray shield expose";
+var mnemonic = "hold foam dynamic hope moon virus net theme clerk health mutual lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "flat credit silent panel result mom point license toilet place derive donor";
+var mnemonic = "flock enter exit glad legend bean magic dawn target economy disorder upper";

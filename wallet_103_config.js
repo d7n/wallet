@@ -1,1 +1,1 @@
-var mnemonic = "swamp robust arm forum angry better rather awesome tackle afraid phone bronze";
+var mnemonic = "smile curtain addict cabbage capital trust mail walnut dismiss basket describe page";

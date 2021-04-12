@@ -1,1 +1,1 @@
-var mnemonic = "invite legal behind oven lion toe awful social together vacuum derive badge";
+var mnemonic = "glance hungry enrich brass knock shallow diet debris feel vapor bless resist";

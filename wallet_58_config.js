@@ -1,1 +1,1 @@
-var mnemonic = "item frown call live fox duck vintage twelve spice obvious cannon effort";
+var mnemonic = "exile basket angry despair robot flavor photo glue absurd dirt lucky meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "private uphold concert biology comfort flush portion guide client brave sail quiz";
+var mnemonic = "adjust toy zero license other guilt helmet check long key define friend";

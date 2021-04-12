@@ -1,1 +1,1 @@
-var mnemonic = "roof tip art trust bulk drum medal erupt peasant palace all impose";
+var mnemonic = "access gravity drip chuckle more bag gate pulse hill trash design canoe";

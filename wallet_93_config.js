@@ -1,1 +1,1 @@
-var mnemonic = "rack wall melt own security volcano sail village clean boat direct solve";
+var mnemonic = "hockey someone captain summer adult minimum box position action treat base title";

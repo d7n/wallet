@@ -1,1 +1,1 @@
-var mnemonic = "wagon act coin famous alpha neutral trap two gown science major myth";
+var mnemonic = "cart travel gauge decrease age negative entry deliver amount chalk library firm";

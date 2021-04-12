@@ -1,1 +1,1 @@
-var mnemonic = "town tourist mandate can brown bacon clump dwarf shine veteran shoot smart";
+var mnemonic = "old injury couch net hawk point settle round razor light fuel have";

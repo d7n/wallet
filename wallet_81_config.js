@@ -1,1 +1,1 @@
-var mnemonic = "amused enroll poem anchor blood parrot view talk icon reveal tornado evolve";
+var mnemonic = "armed wine sheriff label absurd abstract truth awake drill mom behind type";

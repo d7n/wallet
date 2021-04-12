@@ -1,1 +1,1 @@
-var mnemonic = "basket copper distance giraffe oak sport item copy manual theme split pilot";
+var mnemonic = "lion trust myth slice suspect coach carry share bronze cheese indicate smile";

@@ -1,1 +1,1 @@
-var mnemonic = "demise pear round lawsuit hidden upset layer punch erupt animal public ship";
+var mnemonic = "tree floor census panic test right hammer defy ankle reopen law copper";

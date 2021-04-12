@@ -1,1 +1,1 @@
-var mnemonic = "doctor rescue oppose sponsor race monitor another notable recycle tuna unveil corn";
+var mnemonic = "pulse fortune quote candy horror spread depth cousin tower sustain stem output";

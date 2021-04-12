@@ -1,1 +1,1 @@
-var mnemonic = "clean envelope present width tackle stomach friend insane borrow quote broccoli unfold";
+var mnemonic = "snap minute celery layer step funny artwork orchard melody ring wave inside";

@@ -1,1 +1,1 @@
-var mnemonic = "cross novel thought undo message soul judge make quote shoulder visit island";
+var mnemonic = "title measure eagle alley feature pistol cousin warfare purpose entire armed evidence";

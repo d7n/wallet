@@ -1,1 +1,1 @@
-var mnemonic = "hungry suffer exchange trip car memory guide report gadget holiday pioneer robust";
+var mnemonic = "nut satisfy cream retire tape brick add gesture execute depend point oblige";

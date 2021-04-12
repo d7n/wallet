@@ -1,1 +1,1 @@
-var mnemonic = "tooth hope elbow steak attitude cheese steel mutual juice zone stumble swear";
+var mnemonic = "name pottery length cream sound please express usage about element language way";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle pigeon believe capital drum occur situate oxygen anxiety fix special omit";
+var mnemonic = "dirt print forest connect bubble swift cigar card plunge engine tail surprise";

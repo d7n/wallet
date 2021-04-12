@@ -1,1 +1,1 @@
-var mnemonic = "include question family crunch scrap review prepare goat advice name raccoon expand";
+var mnemonic = "sell butter aim brown frog puppy enough else coyote assist divide mail";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn believe able crane usual unique canyon damage media alone trophy slice";
+var mnemonic = "fan bomb lemon inner term guide derive talent voice such identify review";

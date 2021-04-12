@@ -1,1 +1,1 @@
-var mnemonic = "fine girl because episode hint shadow gossip boil satoshi local crew smart";
+var mnemonic = "hazard task tunnel youth hidden collect fan oil screen gossip foot print";

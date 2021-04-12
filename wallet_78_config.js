@@ -1,1 +1,1 @@
-var mnemonic = "coach obtain vintage ball elegant retire produce system home punch merit group";
+var mnemonic = "section auto spawn until portion lemon olive thumb carry candy dinner pottery";

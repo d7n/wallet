@@ -1,1 +1,1 @@
-var mnemonic = "squeeze school copper trim account fault gift glimpse insane agree media asthma";
+var mnemonic = "when taxi age pave staff tuna maid narrow pluck road horn illness";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra captain rude such flock prevent reform work planet march return noise";
+var mnemonic = "picture quiz junk student aerobic theory damage verify stand wash jewel hawk";

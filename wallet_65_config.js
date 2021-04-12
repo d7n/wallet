@@ -1,1 +1,1 @@
-var mnemonic = "use own brown cargo jealous moon feed rocket time toast pet table";
+var mnemonic = "drink rare argue fence stamp six title they loud valve impose alert";

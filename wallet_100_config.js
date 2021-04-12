@@ -1,1 +1,1 @@
-var mnemonic = "news soon smart design turn disorder science lawsuit coin child mirror ketchup";
+var mnemonic = "picnic caution mimic lady service code usage sentence subject armor save page";

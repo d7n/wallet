@@ -1,1 +1,1 @@
-var mnemonic = "movie consider inflict marble token carpet gold disease input hobby carbon great";
+var mnemonic = "wink cargo online before version catalog lazy decide fantasy angry upon together";

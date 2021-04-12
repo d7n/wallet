@@ -1,1 +1,1 @@
-var mnemonic = "rude pottery opera ivory flame usage kid kick tail boost bicycle general";
+var mnemonic = "bag chapter any ketchup egg shoe toast suffer sing shop erosion judge";

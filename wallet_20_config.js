@@ -1,1 +1,1 @@
-var mnemonic = "hotel step section only observe limb enough behave dice oyster depart cluster";
+var mnemonic = "cupboard kiss when undo region doctor design marble have broken emerge balcony";

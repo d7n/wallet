@@ -1,1 +1,1 @@
-var mnemonic = "alley ride avoid ability waste script clinic section stable inhale always begin";
+var mnemonic = "race during uncover tragic guess street slogan fringe day crash blanket oak";

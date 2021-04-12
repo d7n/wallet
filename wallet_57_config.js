@@ -1,1 +1,1 @@
-var mnemonic = "fee frown comfort athlete cliff distance interest what prepare tribe glory erosion";
+var mnemonic = "strategy cram quote weather evolve very elevator lens offer reform direct aim";

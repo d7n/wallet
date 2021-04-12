@@ -1,1 +1,1 @@
-var mnemonic = "mother cruel rabbit picnic treat inject axis man kiss crime museum ostrich";
+var mnemonic = "foil initial property turn smooth vendor since dial pink cattle intact chief";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence say price bulk help fatigue crater honey issue odor coin world";
+var mnemonic = "program thought label banner tomorrow build motion door upon grain monitor subject";

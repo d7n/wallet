@@ -1,1 +1,1 @@
-var mnemonic = "manual neck fluid limb elbow beauty maximum dust bronze evolve manual such";
+var mnemonic = "frozen custom switch destroy garlic urge company favorite garment brass depart dice";

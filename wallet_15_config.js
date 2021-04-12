@@ -1,1 +1,1 @@
-var mnemonic = "mass runway beach under output coffee jeans weekend castle title curve slice";
+var mnemonic = "nothing loyal wasp parent degree elder eight sick common summer flame lecture";

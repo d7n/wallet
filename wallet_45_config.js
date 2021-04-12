@@ -1,1 +1,1 @@
-var mnemonic = "flavor subway neutral merit power physical floor genuine history audit guide invite";
+var mnemonic = "barrel first amateur infant keen nose shove kite century cattle monkey system";

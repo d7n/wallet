@@ -1,1 +1,1 @@
-var mnemonic = "garment resource health slender estate exit divorce airport pig length utility excess";
+var mnemonic = "rough deny blossom thumb subway income myth anger ripple stove sell faculty";

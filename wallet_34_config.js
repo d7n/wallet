@@ -1,1 +1,1 @@
-var mnemonic = "door roast dismiss lake step soda visual harvest sound rent imitate casual";
+var mnemonic = "wrestle bleak deliver impose poverty hurdle visual render inform wall fish they";

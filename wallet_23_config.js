@@ -1,1 +1,1 @@
-var mnemonic = "spot sentence enjoy load ready casino hundred stereo cost hole marriage drama";
+var mnemonic = "element tape wrestle wear engine clay item cat custom diesel kiss cancel";

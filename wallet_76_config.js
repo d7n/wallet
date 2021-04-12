@@ -1,1 +1,1 @@
-var mnemonic = "taste shoe scatter vote expose attract eagle pipe violin nose can cheese";
+var mnemonic = "circle quiz wet detect peace museum bunker hello flame engine region egg";

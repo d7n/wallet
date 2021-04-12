@@ -1,1 +1,1 @@
-var mnemonic = "affair obvious insane apple ghost cereal lonely napkin yard source antique item";
+var mnemonic = "grant knife salute size large love wife february scale wagon island amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "slender tenant human focus tissue black fan trash oil sibling kick filter";
+var mnemonic = "speed couch that surface rack pact vocal mesh huge rival upset subject";

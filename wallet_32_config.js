@@ -1,1 +1,1 @@
-var mnemonic = "place nominee crush potato taste hill practice then second tenant fade wire";
+var mnemonic = "furnace goose obey ritual topic lock ability snake behind brown neglect shrimp";

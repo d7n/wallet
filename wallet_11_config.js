@@ -1,1 +1,1 @@
-var mnemonic = "oblige unaware mention now type near include swamp edge siege real kitten";
+var mnemonic = "gentle latin occur theory galaxy flip announce prevent fresh crouch culture vault";

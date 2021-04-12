@@ -1,1 +1,1 @@
-var mnemonic = "first benefit toilet excite patch pond axis rubber armed motor butter champion";
+var mnemonic = "orange mouse surprise govern sudden bleak another crack sell indoor result snack";

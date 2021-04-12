@@ -1,1 +1,1 @@
-var mnemonic = "grid oven school curve firm stage deer naive chest quantum obvious clog";
+var mnemonic = "private claw elephant kick fitness poverty sport umbrella poverty surge vocal bless";

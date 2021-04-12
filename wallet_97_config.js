@@ -1,1 +1,1 @@
-var mnemonic = "naive leopard liberty lizard wine diagram crunch reform frog man vehicle era";
+var mnemonic = "cover few peasant worry antenna west teach anchor page accuse number better";

@@ -1,1 +1,1 @@
-var mnemonic = "owner fancy vibrant example stock decline wish orphan forest pumpkin expire mule";
+var mnemonic = "parade obey crunch thing illegal year average hungry choice wave author ensure";

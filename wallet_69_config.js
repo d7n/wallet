@@ -1,1 +1,1 @@
-var mnemonic = "parade couple fade latin worth coin keen warrior weather spider shallow ivory";
+var mnemonic = "side crouch orchard nose drum retreat toilet pumpkin three nation sign gallery";

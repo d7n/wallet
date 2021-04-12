@@ -1,1 +1,1 @@
-var mnemonic = "human sniff pluck bullet nephew visual vintage security regular happy tired pond";
+var mnemonic = "soup across raise lyrics decide once decorate world inch heavy soon insane";

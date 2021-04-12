@@ -1,1 +1,1 @@
-var mnemonic = "churn divorce wear perfect piece item tonight river input endless chest local";
+var mnemonic = "face body fly surface wing trick mixture scissors figure fantasy voyage detect";

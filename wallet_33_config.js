@@ -1,1 +1,1 @@
-var mnemonic = "top empower female moral tackle learn runway victory tell eye soft village";
+var mnemonic = "artefact blush already pass method bar later unknown float seven play bonus";

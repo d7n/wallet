@@ -1,1 +1,1 @@
-var mnemonic = "color slice perfect love loyal consider detect give steel length ginger lecture";
+var mnemonic = "equip oyster exact potato inmate fossil skull lunch seek reform alert adapt";

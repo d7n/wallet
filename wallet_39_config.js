@@ -1,1 +1,1 @@
-var mnemonic = "intact intact desk tower fragile night tumble earn twenty pipe swallow bridge";
+var mnemonic = "course maximum absurd gain spin car bus merit odor stadium roast state";

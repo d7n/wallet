@@ -1,1 +1,1 @@
-var mnemonic = "tennis cook flag hidden clean curve able night mirror wrestle patrol local";
+var mnemonic = "pyramid bind assume arctic joy sense master describe penalty barely lawn oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "honey loop hazard crop mix tone tide penalty force grass tube lift";
+var mnemonic = "shoe panda dash hire public idle mail shock drift element robust wear";

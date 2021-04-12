@@ -1,1 +1,1 @@
-var mnemonic = "easy universe proud aerobic hire skill behind seek club auto apology adapt";
+var mnemonic = "soccer spirit ice select fruit theory imitate claw nothing mutual rifle bottom";

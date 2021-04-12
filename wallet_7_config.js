@@ -1,1 +1,1 @@
-var mnemonic = "spider solve raven kiwi drive tell pride box dinner subject obvious limit";
+var mnemonic = "pioneer record cover disorder trophy abuse visual helmet arena sauce good gold";
