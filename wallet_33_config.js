@@ -1,1 +1,1 @@
-var mnemonic = "father genuine earn romance book salon quick dinner aspect emotion cannon radar";
+var mnemonic = "awake lecture secret eternal husband cushion hazard anxiety robust ready frost crash";

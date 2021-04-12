@@ -1,1 +1,1 @@
-var mnemonic = "check donkey virus anxiety execute act photo girl puzzle float satoshi material";
+var mnemonic = "wrong valve loan load useful flock steel permit subject just region soda";

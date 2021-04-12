@@ -1,1 +1,1 @@
-var mnemonic = "express doctor tool tomorrow grief earth enough shoe model flush version olympic";
+var mnemonic = "defense mother display bus soul duty excess misery green mule race castle";

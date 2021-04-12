@@ -1,1 +1,1 @@
-var mnemonic = "scan disorder prison fun blood parrot muffin close horse dove tragic cost";
+var mnemonic = "shell believe clinic snow stadium pledge online fuel stereo claw three consider";

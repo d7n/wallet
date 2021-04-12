@@ -1,1 +1,1 @@
-var mnemonic = "doll like alpha relax beach wrong swing hen faculty board access below";
+var mnemonic = "emerge stool snake sunny electric guilt aerobic derive pluck become eight canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade live execute party angle hurdle device few aerobic yellow clarify almost";
+var mnemonic = "depend evidence regret pony grant party plug hybrid must forest dinner public";

@@ -1,1 +1,1 @@
-var mnemonic = "phone muscle autumn tribe talent addict jaguar rack thought uncle arctic crew";
+var mnemonic = "wrap type token morning hurt clay helmet lucky market unveil skate sponsor";

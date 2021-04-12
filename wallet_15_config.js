@@ -1,1 +1,1 @@
-var mnemonic = "host recall boring dentist clown amateur thank dinner hurt crash taxi leg";
+var mnemonic = "muscle gloom enemy impulse raven month myself dial weapon question orbit blame";

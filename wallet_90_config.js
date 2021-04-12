@@ -1,1 +1,1 @@
-var mnemonic = "van one palm assume scale boat tennis recall side useful goddess rent";
+var mnemonic = "among test lab horror oppose harsh convince nation electric issue charge fatal";

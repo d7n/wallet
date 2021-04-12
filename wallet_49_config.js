@@ -1,1 +1,1 @@
-var mnemonic = "report welcome provide project walnut victory never inherit economy area unfold version";
+var mnemonic = "arch debris own ahead push fat private cluster capital task gauge monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete train solution oil scheme sick jar knee error honey crew credit";
+var mnemonic = "marine label walnut agent cable urban one layer hospital brave puppy lion";

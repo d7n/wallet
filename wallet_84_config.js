@@ -1,1 +1,1 @@
-var mnemonic = "iron own tower perfect close because force share annual sick praise rubber";
+var mnemonic = "surprise wall deny mom cousin accuse render pair erosion release copper child";

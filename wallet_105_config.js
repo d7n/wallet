@@ -1,1 +1,1 @@
-var mnemonic = "arrange copper put slide trim fat stick envelope story will viable box";
+var mnemonic = "entire dish media error sun never march observe mistake speak couple another";

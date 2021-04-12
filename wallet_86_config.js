@@ -1,1 +1,1 @@
-var mnemonic = "dismiss planet butter mad arrive aerobic trumpet mesh morning smooth physical fog";
+var mnemonic = "come divert myth candy behind toy expect door hip skate motor verb";

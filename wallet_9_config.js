@@ -1,1 +1,1 @@
-var mnemonic = "reform hybrid public fever shell fatal foam spike filter absent elephant flag";
+var mnemonic = "version garage school print praise large latin cable tower police turn sibling";

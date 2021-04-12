@@ -1,1 +1,1 @@
-var mnemonic = "mercy weather edge proud mom fence ecology physical collect diagram sunny hat";
+var mnemonic = "annual gossip nut cattle slim charge gas rally mean attend blouse sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "wage gentle jar defense perfect diagram famous into because swim someone thank";
+var mnemonic = "wrist cable vague cherry across small answer wool ocean poem calm hub";

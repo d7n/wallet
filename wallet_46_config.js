@@ -1,1 +1,1 @@
-var mnemonic = "chalk social group develop stool dry candy leopard mistake violin index turkey";
+var mnemonic = "palace credit urge atom cigar section sort firm spirit garage theory hospital";

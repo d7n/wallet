@@ -1,1 +1,1 @@
-var mnemonic = "venture wide boy pave artist armor balcony inquiry order attack venue test";
+var mnemonic = "exchange napkin number typical lazy rare saddle soup opinion vanish actor evoke";

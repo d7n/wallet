@@ -1,1 +1,1 @@
-var mnemonic = "picnic social play fox digital never soup narrow clip hawk source stumble";
+var mnemonic = "seven street radar twenty vapor ugly original escape head tennis shoe ball";

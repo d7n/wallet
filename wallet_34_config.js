@@ -1,1 +1,1 @@
-var mnemonic = "inside rich enter found notable fitness harvest produce lava season brisk census";
+var mnemonic = "alone trick foster false ball page spirit net hedgehog crowd basic truck";

@@ -1,1 +1,1 @@
-var mnemonic = "donate price agent tunnel vibrant duck install dad over drum trash talk";
+var mnemonic = "record warm safe hammer creek repeat love live latin cereal doll change";

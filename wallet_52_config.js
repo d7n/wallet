@@ -1,1 +1,1 @@
-var mnemonic = "flip noble tower hood seat copy garlic elite pyramid behind creek jealous";
+var mnemonic = "hockey hard hair label invite fossil east faculty process throw speed unfair";

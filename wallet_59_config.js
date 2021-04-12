@@ -1,1 +1,1 @@
-var mnemonic = "scene fancy cruel tribe gate refuse grace pig shoe confirm switch season";
+var mnemonic = "duty predict polar flavor box balance help chuckle file venture ankle bubble";

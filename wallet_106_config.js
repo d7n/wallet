@@ -1,1 +1,1 @@
-var mnemonic = "dignity ritual village dragon power lunch roast health sell catch awful detect";
+var mnemonic = "couch winter pyramid famous tooth woman message dad taxi diamond seminar secret";

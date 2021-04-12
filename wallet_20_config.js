@@ -1,1 +1,1 @@
-var mnemonic = "stem place burger honey vivid stairs cup virus plastic layer embody fat";
+var mnemonic = "economy illness wheat smart gift bicycle jump hazard famous lizard unaware focus";

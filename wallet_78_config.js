@@ -1,1 +1,1 @@
-var mnemonic = "random use mass subject dice notable alcohol south cushion hen toe tide";
+var mnemonic = "diet maximum shoot proof ride rotate pottery resource depart boy install reunion";

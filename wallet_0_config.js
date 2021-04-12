@@ -1,1 +1,1 @@
-var mnemonic = "expire slow coffee kingdom zoo layer tuition reduce guide speak engine only";
+var mnemonic = "early sand high cotton spatial robust eyebrow divide daring grief one toddler";

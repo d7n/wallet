@@ -1,1 +1,1 @@
-var mnemonic = "grape dice truth front force note chunk clock travel family salt what";
+var mnemonic = "jacket glad call main produce device six orphan taxi victory gas promote";

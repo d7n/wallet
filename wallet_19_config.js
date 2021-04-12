@@ -1,1 +1,1 @@
-var mnemonic = "parade will onion shoot render banana multiply north rude inflict rule stuff";
+var mnemonic = "hurt broom clog claim episode alcohol fragile sphere school limb deer next";

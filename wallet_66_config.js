@@ -1,1 +1,1 @@
-var mnemonic = "quantum device ticket demise reject clutch inject alcohol gym outside name champion";
+var mnemonic = "throw fish elder claw lobster shed rapid salmon swallow space match matter";

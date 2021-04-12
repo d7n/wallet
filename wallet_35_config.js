@@ -1,1 +1,1 @@
-var mnemonic = "glare hill antique hollow tuna treat donate tackle cloud body ice boring";
+var mnemonic = "want lake scrub shy aerobic topic account exotic eager elephant reward acid";

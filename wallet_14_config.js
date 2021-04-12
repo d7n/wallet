@@ -1,1 +1,1 @@
-var mnemonic = "lunch wall one kitchen chuckle define now bacon pudding scene erode woman";
+var mnemonic = "hurdle vital day embody team slight meat point truck act priority steak";

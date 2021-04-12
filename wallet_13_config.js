@@ -1,1 +1,1 @@
-var mnemonic = "balance option very paper drink wage save pool bread sure mention horn";
+var mnemonic = "strategy arrange nephew envelope hurdle velvet govern multiply width initial adjust observe";

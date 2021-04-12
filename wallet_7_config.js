@@ -1,1 +1,1 @@
-var mnemonic = "one thrive sleep boil valley exotic kangaroo rent rich air dawn castle";
+var mnemonic = "wedding era fence borrow bargain gym federal cause involve build wine jealous";

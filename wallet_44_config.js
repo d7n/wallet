@@ -1,1 +1,1 @@
-var mnemonic = "tag begin entire mystery matrix income spend green pill exhibit digital flee";
+var mnemonic = "zero special hamster jump top goddess material disease bottom arena mobile person";

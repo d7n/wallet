@@ -1,1 +1,1 @@
-var mnemonic = "all melt glory select announce unit wonder axis furnace farm elephant canoe";
+var mnemonic = "amused valve country jump remind wheel cliff liberty boy movie little vocal";

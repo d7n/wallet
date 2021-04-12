@@ -1,1 +1,1 @@
-var mnemonic = "erosion shell pig spirit case return debris canvas ice marine trust busy";
+var mnemonic = "panda pear endless miracle fatigue decorate antique typical staff potato clown palm";

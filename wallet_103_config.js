@@ -1,1 +1,1 @@
-var mnemonic = "orange spring myself pigeon luggage hole degree endless sausage baby parrot brass";
+var mnemonic = "surface country flip expire slice tenant cable grow iron found parent link";

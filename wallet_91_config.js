@@ -1,1 +1,1 @@
-var mnemonic = "into demise differ rack session hurdle stamp flower question globe gym inform";
+var mnemonic = "enlist morning measure file wink expand daughter turtle radio language swallow sheriff";

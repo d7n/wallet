@@ -1,1 +1,1 @@
-var mnemonic = "parent cradle possible film behave south flat injury usage middle rare concert";
+var mnemonic = "glad velvet flash rigid find shop guitar agent ship popular seven derive";

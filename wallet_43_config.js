@@ -1,1 +1,1 @@
-var mnemonic = "excite woman title iron total stereo feed robot wolf puzzle increase swim";
+var mnemonic = "wood ocean still increase hybrid unfold direct animal decrease purchase keen wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "knee despair cry actual spoon few way message alone ramp derive donkey";
+var mnemonic = "ostrich actor aunt puppy build sail ketchup shuffle behave window oppose pottery";

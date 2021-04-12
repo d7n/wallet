@@ -1,1 +1,1 @@
-var mnemonic = "build battle uniform fault math fix join rare adapt remember ginger tired";
+var mnemonic = "until obey breeze asset fault tourist kiwi garage february camp topple point";

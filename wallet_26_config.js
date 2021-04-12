@@ -1,1 +1,1 @@
-var mnemonic = "bid soldier devote impulse order onion design risk kiwi tooth aspect hand";
+var mnemonic = "gas sponsor wait trust curious very pledge salmon price manage disagree smile";

@@ -1,1 +1,1 @@
-var mnemonic = "song tortoise debate youth frost blind coyote add walk solar reveal dice";
+var mnemonic = "clip protect domain family happy spirit merge adjust symbol roast void rib";

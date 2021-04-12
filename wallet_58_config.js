@@ -1,1 +1,1 @@
-var mnemonic = "book phrase youth double clock fruit problem opinion problem melody mercy trouble";
+var mnemonic = "join tide wage elegant long harsh panda dismiss turtle skate way awake";

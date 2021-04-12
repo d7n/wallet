@@ -1,1 +1,1 @@
-var mnemonic = "indicate gadget push wagon deny team unit scrap kitten trash supreme obtain";
+var mnemonic = "priority few tuna zero leisure buddy boost weather night verb expire tank";

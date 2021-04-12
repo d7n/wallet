@@ -1,1 +1,1 @@
-var mnemonic = "blame draft edge fat now same dog task can romance cross volcano";
+var mnemonic = "hedgehog twice away kid focus retreat such rib rule skill lazy lunch";

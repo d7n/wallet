@@ -1,1 +1,1 @@
-var mnemonic = "path banner chest real run tree distance swamp sail field ankle vapor";
+var mnemonic = "spray harsh clip unhappy cloud chat sponsor plate witness rule trap survey";

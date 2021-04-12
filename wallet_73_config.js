@@ -1,1 +1,1 @@
-var mnemonic = "vault emerge field lens during dentist potato page throw alpha kangaroo train";
+var mnemonic = "rural stadium thought error tobacco clever flock carpet crumble purse journey ticket";

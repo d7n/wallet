@@ -1,1 +1,1 @@
-var mnemonic = "gloom guide engage business clap shine rice clown midnight quote buddy comfort";
+var mnemonic = "apple vote major inherit mixture exclude joke injury afraid sun because morning";

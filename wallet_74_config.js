@@ -1,1 +1,1 @@
-var mnemonic = "fix rescue safe feed stone problem menu small ahead tennis gospel quote";
+var mnemonic = "inherit found collect soldier smile letter combine access satisfy surround toward scorpion";

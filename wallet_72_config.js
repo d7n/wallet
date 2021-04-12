@@ -1,1 +1,1 @@
-var mnemonic = "motion height journey monkey avocado before cattle equip obtain trend rapid business";
+var mnemonic = "slice into demand upper bright keen manual desk boost large hover couch";

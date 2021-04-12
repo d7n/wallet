@@ -1,1 +1,1 @@
-var mnemonic = "impulse hero release buddy found man refuse loop guitar upset snow bargain";
+var mnemonic = "legend boss naive rebel skirt sing project route melt text loud hope";

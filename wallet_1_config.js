@@ -1,1 +1,1 @@
-var mnemonic = "scrub merry load copy century floor turtle hello laptop survey bar inside";
+var mnemonic = "topple judge organ mouse toss gossip program rapid sausage blast crumble bless";

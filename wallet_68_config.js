@@ -1,1 +1,1 @@
-var mnemonic = "appear rice enact fatigue chair hip slide gasp morning happy point nurse";
+var mnemonic = "spot ritual travel alter custom bird panel purpose end project obey favorite";

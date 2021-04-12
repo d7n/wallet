@@ -1,1 +1,1 @@
-var mnemonic = "bounce couch glad mesh false audit cattle rough please meat virus narrow";
+var mnemonic = "voice museum oxygen cattle tail thank sweet smoke process tiger pond device";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare license stumble fault team hospital goose pepper broccoli wife vibrant into";
+var mnemonic = "film title imitate behave blouse that deliver walk library primary diamond fan";

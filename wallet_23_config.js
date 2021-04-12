@@ -1,1 +1,1 @@
-var mnemonic = "guitar hospital stuff mask illegal bottom theme dutch syrup artwork carry sun";
+var mnemonic = "canyon lock prosper arena act urge jeans ball antenna state cupboard sketch";

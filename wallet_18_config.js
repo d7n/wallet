@@ -1,1 +1,1 @@
-var mnemonic = "course runway junior seat divide oblige income uniform horn paper answer reject";
+var mnemonic = "convince problem ankle orange jungle blame color seat idle valid believe vehicle";

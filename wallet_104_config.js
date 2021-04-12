@@ -1,1 +1,1 @@
-var mnemonic = "abuse wrestle brush error theme similar fatal job puppy distance spin suit";
+var mnemonic = "reopen almost reunion dune dizzy gossip circle powder bundle absorb edge cream";

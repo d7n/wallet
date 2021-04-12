@@ -1,1 +1,1 @@
-var mnemonic = "team marble violin punch gospel basket dress screen lesson certain advice arctic";
+var mnemonic = "identify alcohol rail notable pudding meadow lesson crowd group fruit myth regular";

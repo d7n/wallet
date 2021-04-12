@@ -1,1 +1,1 @@
-var mnemonic = "penalty erupt toward future exile dwarf hood tail fish holiday pluck negative";
+var mnemonic = "nut sock area town connect ginger inmate small accident tortoise century hammer";

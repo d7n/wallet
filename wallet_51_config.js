@@ -1,1 +1,1 @@
-var mnemonic = "order stand life blood arctic grace dentist come erupt exclude powder ribbon";
+var mnemonic = "like neutral favorite school bitter snow move beyond kitchen cereal coast fat";

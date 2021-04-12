@@ -1,1 +1,1 @@
-var mnemonic = "beyond pole seek melt exchange decade exhibit test situate reward maze man";
+var mnemonic = "lava teach town original jelly water crystal gain myself answer short gauge";

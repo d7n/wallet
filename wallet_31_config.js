@@ -1,1 +1,1 @@
-var mnemonic = "educate basket subway have chat seven movie coconut poem girl april exact";
+var mnemonic = "budget shoot float waste clutch laundry boss physical short blossom above club";

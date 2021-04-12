@@ -1,1 +1,1 @@
-var mnemonic = "pave illness movie ranch tilt blouse level snap alley grow horn pride";
+var mnemonic = "armor list permit minimum clog account ceiling skirt stamp suit crater wolf";

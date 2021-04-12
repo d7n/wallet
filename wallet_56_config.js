@@ -1,1 +1,1 @@
-var mnemonic = "return pause hour history cream noise street minimum weekend age half craft";
+var mnemonic = "maze million mountain hurt connect soft dolphin measure avocado remain gun save";

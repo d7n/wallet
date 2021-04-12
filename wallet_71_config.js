@@ -1,1 +1,1 @@
-var mnemonic = "match laugh velvet room tone argue naive route dash nature exotic first";
+var mnemonic = "just tissue defense ginger grant decade select shoe reform month finger manage";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory office odor exclude phone head stable manual text few custom volume";
+var mnemonic = "captain resist kiss domain potato true front author snake matrix candy bracket";

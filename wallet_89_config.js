@@ -1,1 +1,1 @@
-var mnemonic = "finish aerobic parrot tell blind true brisk obtain defy climb motion option";
+var mnemonic = "upper silent cupboard screen horn exact jelly flash shoot comfort law describe";

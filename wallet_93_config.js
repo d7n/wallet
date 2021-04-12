@@ -1,1 +1,1 @@
-var mnemonic = "blame mansion achieve smile tower spirit casual occur surprise food melody pipe";
+var mnemonic = "journey vibrant must despair cluster melody slight thrive flag basic mouse pet";

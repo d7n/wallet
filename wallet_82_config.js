@@ -1,1 +1,1 @@
-var mnemonic = "sense lens fluid cave radar federal gravity sunset dust jazz bone crystal";
+var mnemonic = "demise uncle survey gas emotion elder bunker feel humble school window public";

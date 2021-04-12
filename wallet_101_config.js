@@ -1,1 +1,1 @@
-var mnemonic = "trend north govern wedding found someone name march detail tenant sword custom";
+var mnemonic = "potato pride shift cake bulb wild glow peace early tray online craft";

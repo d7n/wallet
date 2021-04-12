@@ -1,1 +1,1 @@
-var mnemonic = "library devote purpose dentist work clay transfer will tragic differ shiver leaf";
+var mnemonic = "pilot unveil mosquito expire stereo typical combine engage shock deer motor fury";

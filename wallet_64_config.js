@@ -1,1 +1,1 @@
-var mnemonic = "axis timber guilt quiz latin material onion kiss tree cinnamon forward vintage";
+var mnemonic = "need item endless spread credit claw olympic best permit perfect close task";

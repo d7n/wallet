@@ -1,1 +1,1 @@
-var mnemonic = "adjust unveil suit skill million volcano cherry lesson horror again coil lizard";
+var mnemonic = "give hotel hammer room olive leg begin cause depart bitter radar manage";

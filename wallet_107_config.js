@@ -1,1 +1,1 @@
-var mnemonic = "write antenna cherry kangaroo yard dish problem badge treat early prison bid";
+var mnemonic = "tongue paddle refuse razor margin slide empty mail creek enlist bid recipe";

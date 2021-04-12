@@ -1,1 +1,1 @@
-var mnemonic = "praise photo harvest wood outer work phrase window knee whip gas gaze";
+var mnemonic = "area eagle seven current tribe stereo acoustic renew rose test satisfy want";

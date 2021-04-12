@@ -1,1 +1,1 @@
-var mnemonic = "enhance corn reunion process nose glance hammer random random door metal exist";
+var mnemonic = "endorse coffee flip gift change tornado edge opera hope remind suspect creek";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn memory trade brown advice approve tired kit spy impose home punch";
+var mnemonic = "owner order offer repeat exhibit spike join order high angry unique humble";

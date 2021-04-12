@@ -1,1 +1,1 @@
-var mnemonic = "neutral relief minimum slide route farm offer various crack bonus comfort afford";
+var mnemonic = "budget among borrow oil wish armor brief rapid tray paddle ritual erode";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild planet stem team vibrant decide ignore differ thank canyon various flavor";
+var mnemonic = "luxury table hair celery city dance luggage sad grab tornado hood volume";

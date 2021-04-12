@@ -1,1 +1,1 @@
-var mnemonic = "marble like toss casual blouse retire goat flavor desert ensure print win";
+var mnemonic = "teach aunt knife discover salmon hover fiction hat mosquito credit near oxygen";

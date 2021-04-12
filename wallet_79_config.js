@@ -1,1 +1,1 @@
-var mnemonic = "moment wish prosper pulp scan absent father tank wreck size calm mirror";
+var mnemonic = "coconut network okay couch blame desert core despair share occur pave anger";

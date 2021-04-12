@@ -1,1 +1,1 @@
-var mnemonic = "dragon evidence vacant damp pole dash avocado couch first icon lecture arch";
+var mnemonic = "able ozone rack maple kite oak neither midnight piano lend sniff flock";

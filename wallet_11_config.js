@@ -1,1 +1,1 @@
-var mnemonic = "scout festival vicious gift pyramid lonely just odor combine amazing sick kind";
+var mnemonic = "usual torch inspire puppy enough enable lion runway ankle west ocean cool";

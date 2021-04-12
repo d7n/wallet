@@ -1,1 +1,1 @@
-var mnemonic = "soldier abuse noodle eye surprise firm space stamp either maze couple aerobic";
+var mnemonic = "define venue horror quit observe keep test report kangaroo will topple refuse";

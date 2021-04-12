@@ -1,1 +1,1 @@
-var mnemonic = "legal average skate act wheat win turn prize jacket fly midnight wealth";
+var mnemonic = "air input pilot useful minute flee lift ethics solid light joy resist";

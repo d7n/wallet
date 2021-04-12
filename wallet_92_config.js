@@ -1,1 +1,1 @@
-var mnemonic = "movie long isolate forward civil gentle stomach bunker oven cat start noise";
+var mnemonic = "inflict misery cruise bitter hidden solve retreat patch fire test apple wash";

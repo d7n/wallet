@@ -1,1 +1,1 @@
-var mnemonic = "joy then minor clump panel mind love inhale chicken ethics bacon ladder";
+var mnemonic = "wrong armor fresh sure spring stand rail wave enhance advance inch meat";

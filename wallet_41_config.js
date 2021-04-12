@@ -1,1 +1,1 @@
-var mnemonic = "festival priority same carpet cycle tape menu height veteran cargo style buyer";
+var mnemonic = "liberty gun essence body agent drum pupil slight need front divert talent";

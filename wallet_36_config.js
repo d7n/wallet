@@ -1,1 +1,1 @@
-var mnemonic = "swallow desk meadow summer appear broken team brand craft burger alcohol actual";
+var mnemonic = "burst concert three hybrid goose upon setup imitate gift elite alien bubble";

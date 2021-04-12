@@ -1,1 +1,1 @@
-var mnemonic = "adapt truly orchard desk shift drastic suit edit recipe visit heart tag";
+var mnemonic = "cloth fresh slim bless young seminar mention warfare grab brother response twist";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee target bean shove boost wash bird garbage click lizard trade differ";
+var mnemonic = "case radar thought blade blanket pledge flash merge win hotel general lake";
