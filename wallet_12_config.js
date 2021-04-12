@@ -1,1 +1,1 @@
-var mnemonic = "globe list patient someone lounge news edge emerge proud opera consider gossip";
+var mnemonic = "produce execute zone flower assist inject foster daring define reduce pet tiny";

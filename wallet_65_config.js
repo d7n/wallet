@@ -1,1 +1,1 @@
-var mnemonic = "bring fitness magnet pistol person sadness cube retreat huge birth elite tone";
+var mnemonic = "prevent crazy pencil alter core quality voice gorilla flee perfect auction process";

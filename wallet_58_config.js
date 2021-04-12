@@ -1,1 +1,1 @@
-var mnemonic = "barrel bracket flee series cruel forward inspire pelican inherit wrong off daring";
+var mnemonic = "appear filter empty side flat convince void coin pelican antique velvet gather";

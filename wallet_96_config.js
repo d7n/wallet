@@ -1,1 +1,1 @@
-var mnemonic = "earn smoke review fragile enrich promote arm tuition salon dirt announce jealous";
+var mnemonic = "velvet coyote minimum uncover real shrimp require misery front injury history nuclear";

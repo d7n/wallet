@@ -1,1 +1,1 @@
-var mnemonic = "else noble smile valid excite bird furnace awful brisk please salute craft";
+var mnemonic = "depend unhappy about exchange blade valley lab window spray open puppy corn";

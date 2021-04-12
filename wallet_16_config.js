@@ -1,1 +1,1 @@
-var mnemonic = "minute short day custom chapter traffic more loop scorpion include believe spatial";
+var mnemonic = "gauge spoon impulse access merry left minute art tobacco local loop huge";

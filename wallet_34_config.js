@@ -1,1 +1,1 @@
-var mnemonic = "tired nature lend reveal top patrol park medal exile city wet adapt";
+var mnemonic = "goat mixture patient toy isolate giraffe rival denial loyal social plug purpose";

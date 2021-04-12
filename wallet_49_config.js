@@ -1,1 +1,1 @@
-var mnemonic = "advice toe walnut arena north square donate letter capable hybrid wisdom month";
+var mnemonic = "rapid cactus ancient bulb ugly giant eight sad before oval mutual sorry";

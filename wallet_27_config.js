@@ -1,1 +1,1 @@
-var mnemonic = "photo pill smooth federal transfer shoe net nasty identify grit say patrol";
+var mnemonic = "team main today member mule oyster apology toward intact satisfy mimic catch";

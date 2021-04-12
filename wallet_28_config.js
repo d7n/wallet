@@ -1,1 +1,1 @@
-var mnemonic = "man business wonder bunker vibrant catalog payment gaze dumb make useless insect";
+var mnemonic = "air job era gossip visa ritual nurse bright junk mobile say glow";

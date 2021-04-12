@@ -1,1 +1,1 @@
-var mnemonic = "reason cheap become quality country wedding prosper tackle mobile decade throw uphold";
+var mnemonic = "card shy lens main remove little helmet reform notable predict tired stuff";

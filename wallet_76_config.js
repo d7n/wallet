@@ -1,1 +1,1 @@
-var mnemonic = "nation turn repair goat strike planet kit remain abandon blouse reveal catch";
+var mnemonic = "fade clean sister street betray lucky sad fat medal viable wheel mouse";

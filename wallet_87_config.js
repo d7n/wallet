@@ -1,1 +1,1 @@
-var mnemonic = "ridge attitude record ozone flight vessel raven define word treat dry pudding";
+var mnemonic = "suspect panel what any fix moral armed file cricket fun laugh top";

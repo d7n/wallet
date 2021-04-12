@@ -1,1 +1,1 @@
-var mnemonic = "rail lake boy tank stove fire early mixture blood ramp hotel stool";
+var mnemonic = "farm bundle you boat refuse sea pulp valve rubber soldier nuclear accident";

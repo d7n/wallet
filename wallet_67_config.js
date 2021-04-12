@@ -1,1 +1,1 @@
-var mnemonic = "butter escape nominee rabbit leaf fire blouse imitate upgrade tennis hamster grunt";
+var mnemonic = "mango best remain two believe flip kit list virtual certain ancient assist";

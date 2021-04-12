@@ -1,1 +1,1 @@
-var mnemonic = "solution stick push tornado quick robot blanket valley daring prize fog arctic";
+var mnemonic = "inner feel hero year warrior ritual clip critic neglect side calm scrap";

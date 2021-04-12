@@ -1,1 +1,1 @@
-var mnemonic = "clinic spatial sorry elite escape render advice clip arena conduct people castle";
+var mnemonic = "bless swamp judge emotion antique absent anchor bulb strong rent portion cannon";

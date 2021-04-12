@@ -1,1 +1,1 @@
-var mnemonic = "remind fabric vendor action toilet smooth absurd spare tennis perfect motor hawk";
+var mnemonic = "trend churn hungry spread whale about child forward upgrade surface oxygen label";

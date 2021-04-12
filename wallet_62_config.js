@@ -1,1 +1,1 @@
-var mnemonic = "price soldier spray later inspire sound enact taxi swallow shrug census hospital";
+var mnemonic = "sound blanket world grace sunny patch holiday aisle script awkward fence nature";

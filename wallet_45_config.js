@@ -1,1 +1,1 @@
-var mnemonic = "armed bunker skill damage pumpkin seven erode express key zero output flush";
+var mnemonic = "prize bulk harsh must moment plastic oil smile pool pill parent layer";

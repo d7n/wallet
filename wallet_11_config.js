@@ -1,1 +1,1 @@
-var mnemonic = "milk limb bounce hazard clean grape mean mind high chaos female zebra";
+var mnemonic = "worth ladder aerobic used helmet grape sausage category tuition swift rather mimic";

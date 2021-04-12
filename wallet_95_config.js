@@ -1,1 +1,1 @@
-var mnemonic = "leave grant despair seek flat tornado absorb artist real coral cave copper";
+var mnemonic = "proof notable bunker two media cake bar margin cabbage below sphere turkey";

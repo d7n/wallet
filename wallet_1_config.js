@@ -1,1 +1,1 @@
-var mnemonic = "credit outside apple lend ski ahead vast math agent sniff find shove";
+var mnemonic = "brick rapid pair violin dilemma insect bag wool shove blanket enemy find";

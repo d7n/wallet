@@ -1,1 +1,1 @@
-var mnemonic = "keep oyster shallow describe exhibit insane legal recycle truck imitate write diet";
+var mnemonic = "cabbage oval middle barrel satisfy clinic uncle office polar appear banana cover";

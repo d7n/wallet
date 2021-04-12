@@ -1,1 +1,1 @@
-var mnemonic = "cupboard pull exhibit glow area liar cave popular effort humor stick ill";
+var mnemonic = "cattle fabric aspect capital jewel boat mystery kitten wrong permit indicate scatter";

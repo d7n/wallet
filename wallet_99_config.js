@@ -1,1 +1,1 @@
-var mnemonic = "zone nut kingdom magic home middle pact wheat mistake surface name place";
+var mnemonic = "zoo salad nature job differ bridge afford ocean myth stairs grace hub";

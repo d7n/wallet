@@ -1,1 +1,1 @@
-var mnemonic = "borrow toilet nurse harvest way wall solar during input trial junior wink";
+var mnemonic = "inform text language raven toss surge puppy below donate purse glimpse erosion";

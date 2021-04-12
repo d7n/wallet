@@ -1,1 +1,1 @@
-var mnemonic = "faculty lumber dwarf frown fashion history square sudden reopen garment resist frost";
+var mnemonic = "tunnel tide track prepare desk bridge deer vault vivid bleak nest roof";

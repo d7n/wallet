@@ -1,1 +1,1 @@
-var mnemonic = "omit visa run whip gas solution primary tourist call mechanic vote early";
+var mnemonic = "undo arrest exit dash jewel boat marriage oxygen shrug marine daring another";

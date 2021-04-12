@@ -1,1 +1,1 @@
-var mnemonic = "crater panda evolve theory obvious orient aim danger cargo corn junior response";
+var mnemonic = "diamond vacant quantum hat math mass kiwi age bag girl crazy solid";

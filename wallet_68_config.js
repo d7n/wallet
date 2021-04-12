@@ -1,1 +1,1 @@
-var mnemonic = "benefit power hair simple van scrub weasel wasp trumpet guilt lazy night";
+var mnemonic = "wrong quit vessel develop dance curious broom chaos skin pull doctor liberty";

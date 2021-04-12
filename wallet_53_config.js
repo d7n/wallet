@@ -1,1 +1,1 @@
-var mnemonic = "oven pave iron hedgehog snap dream plunge story sand price main token";
+var mnemonic = "elbow equal sail can inject minute crystal divorce oblige need floor detect";

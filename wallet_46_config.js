@@ -1,1 +1,1 @@
-var mnemonic = "creek lady ripple pipe lecture jungle shine lyrics media hockey melt then";
+var mnemonic = "coach anxiety fabric reform satisfy indicate they this flower hand square vault";

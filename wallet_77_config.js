@@ -1,1 +1,1 @@
-var mnemonic = "exotic nothing cattle what field business demise smile only avocado cost ready";
+var mnemonic = "dry thunder cable moral logic predict poverty door soon inspire praise oven";

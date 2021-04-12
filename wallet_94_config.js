@@ -1,1 +1,1 @@
-var mnemonic = "deny explain digital turkey arm dog minimum crumble final wool plastic owner";
+var mnemonic = "open purpose minimum mirror silk fog special proof answer fluid area bulk";

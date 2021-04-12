@@ -1,1 +1,1 @@
-var mnemonic = "genius inner wool print cradle obscure system medal fruit pipe ten lava";
+var mnemonic = "lecture home gospel gaze spot stone owner tunnel local receive oak inquiry";

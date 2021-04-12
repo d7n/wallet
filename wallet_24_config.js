@@ -1,1 +1,1 @@
-var mnemonic = "execute roast vessel since tape cactus valley mule route item nephew rebuild";
+var mnemonic = "smart hint pact laundry toe popular melt exhibit earn route teach myself";

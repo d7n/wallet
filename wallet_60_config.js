@@ -1,1 +1,1 @@
-var mnemonic = "frame access rich chimney also fluid mistake curious december still glare curtain";
+var mnemonic = "hamster february cable soap beach fancy cart crumble time enrich over diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm bicycle velvet turn aisle pudding group organ lottery poverty lumber seven";
+var mnemonic = "run label pair define input cradle audit glide mutual tank weasel fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "kit display appear kangaroo vast tomorrow coral company soda purity old banner";
+var mnemonic = "rate ladder nose arch dove unveil torch pond kite fruit mother embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "tell replace struggle canyon chaos light spike nephew beauty skull fan tag";
+var mnemonic = "vicious card fossil auto blind future gather worth correct alpha essay bundle";

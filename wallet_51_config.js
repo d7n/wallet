@@ -1,1 +1,1 @@
-var mnemonic = "van elite wink cherry top paper photo marine detail mule faint divorce";
+var mnemonic = "coast prize hunt else asset under camp wolf fortune narrow when wish";

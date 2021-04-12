@@ -1,1 +1,1 @@
-var mnemonic = "bind gorilla project dirt cheap humor ball cradle walnut miss pilot matrix";
+var mnemonic = "smile today spatial alter mistake wealth material decorate purchase smile scrap fame";

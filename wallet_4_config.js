@@ -1,1 +1,1 @@
-var mnemonic = "accuse churn sunny sauce wreck rebel flee rib whale excite dutch canyon";
+var mnemonic = "alien adapt dish clean onion ostrich protect peasant collect advance sudden drill";

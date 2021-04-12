@@ -1,1 +1,1 @@
-var mnemonic = "apart cabin alien machine october wait there radar caught horror gesture employ";
+var mnemonic = "half useful sort hat leisure vivid plug smooth cry phone hotel cave";

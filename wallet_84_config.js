@@ -1,1 +1,1 @@
-var mnemonic = "heart flee romance brother always anxiety universe burger split wisdom practice envelope";
+var mnemonic = "broken antique elder fold tent strong board wink balance much occur expire";

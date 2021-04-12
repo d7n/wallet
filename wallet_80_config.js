@@ -1,1 +1,1 @@
-var mnemonic = "lunch foster jazz elephant metal modify delay focus prepare spirit cherry slush";
+var mnemonic = "rescue team hazard spin clean margin dwarf brand smoke heart obvious proof";

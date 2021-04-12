@@ -1,1 +1,1 @@
-var mnemonic = "dove whisper gift saddle grid access girl scrap prevent wisdom gloom muscle";
+var mnemonic = "hint hotel drift mom erosion word addict lazy carbon neck topic version";

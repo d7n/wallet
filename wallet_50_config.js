@@ -1,1 +1,1 @@
-var mnemonic = "rib tool ceiling jungle proud six visa rebel accuse enable laundry soccer";
+var mnemonic = "climb dress excess disease drastic company mango helmet garage spawn march grape";

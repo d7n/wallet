@@ -1,1 +1,1 @@
-var mnemonic = "yard round gravity pitch saddle install silly tilt mixed layer mean fall";
+var mnemonic = "eyebrow grass cool gallery oven sausage hood negative chef attitude agent library";

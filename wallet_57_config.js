@@ -1,1 +1,1 @@
-var mnemonic = "bleak palm brain security stone nut govern uncle connect soldier hill congress";
+var mnemonic = "noise diesel again just patient category identify cement will hunt derive enhance";

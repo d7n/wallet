@@ -1,1 +1,1 @@
-var mnemonic = "excess manage kiwi debris major wish genre glide frame kingdom squeeze divorce";
+var mnemonic = "broccoli track shell chief cat cousin abandon boil bar sketch text toy";

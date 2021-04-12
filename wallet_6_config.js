@@ -1,1 +1,1 @@
-var mnemonic = "scale rail rural author emerge dwarf polar happy melt planet resist develop";
+var mnemonic = "return pilot rose patient girl slice symbol toward tackle pumpkin analyst merit";

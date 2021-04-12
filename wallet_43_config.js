@@ -1,1 +1,1 @@
-var mnemonic = "vanish cloud spray cement forest economy venue embark pass dutch little echo";
+var mnemonic = "subject common install select tobacco bread nasty vendor pride prefer coin entry";

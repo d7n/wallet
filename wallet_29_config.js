@@ -1,1 +1,1 @@
-var mnemonic = "profit october lottery extra silly tunnel wagon afraid blouse dash east response";
+var mnemonic = "frozen duty truck trap neglect border clog bamboo quote crystal fame input";

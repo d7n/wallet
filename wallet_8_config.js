@@ -1,1 +1,1 @@
-var mnemonic = "sick hire diagram stand sweet shaft frog short symbol glory popular head";
+var mnemonic = "run over clog peace catch wing usage manage thank scrub light weekend";

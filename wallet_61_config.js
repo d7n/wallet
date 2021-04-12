@@ -1,1 +1,1 @@
-var mnemonic = "year pudding photo spread world fatal dash stable giraffe sick clinic diet";
+var mnemonic = "mountain document exhaust gravity rural volcano suspect timber fabric void enroll crop";

@@ -1,1 +1,1 @@
-var mnemonic = "great crash team settle envelope retreat remain link wash expire carry hedgehog";
+var mnemonic = "kiwi gloom miracle erode cage pumpkin hair witness shell laugh scorpion violin";

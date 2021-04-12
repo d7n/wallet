@@ -1,1 +1,1 @@
-var mnemonic = "diamond depth awful hollow follow able vibrant clip large idea avoid cheese";
+var mnemonic = "fortune exotic tilt trap report primary fade shy fantasy bag olive total";

@@ -1,1 +1,1 @@
-var mnemonic = "final token security turn bottom usage bid price mistake trash aunt year";
+var mnemonic = "bulk sign rule game economy cry shiver ozone inside catch mixed cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow duty nice goddess fish floor patient size human repeat insect dune";
+var mnemonic = "noise sadness rigid mammal media throw custom fly injury scheme more discover";

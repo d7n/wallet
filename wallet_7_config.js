@@ -1,1 +1,1 @@
-var mnemonic = "warm gold lobster swear ordinary peasant rate observe enhance climb exact pipe";
+var mnemonic = "toilet loyal reason term wheat shaft lottery discover market zoo tennis topic";

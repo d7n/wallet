@@ -1,1 +1,1 @@
-var mnemonic = "long beyond tree pink stove attract auto able shed gather penalty mother";
+var mnemonic = "cover shift youth festival language razor empower expose valve degree soccer turtle";

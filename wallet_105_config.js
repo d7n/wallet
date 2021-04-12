@@ -1,1 +1,1 @@
-var mnemonic = "welcome example donate region issue volcano arch empower balcony ceiling credit correct";
+var mnemonic = "liberty thunder element health mushroom leg like foil law coffee enhance flower";

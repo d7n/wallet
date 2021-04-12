@@ -1,1 +1,1 @@
-var mnemonic = "course prefer stadium volcano warrior gorilla fatal stone betray spirit range eight";
+var mnemonic = "end frequent earn angle turn above option drill pattern crisp silver vapor";

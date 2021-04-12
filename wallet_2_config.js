@@ -1,1 +1,1 @@
-var mnemonic = "pelican frequent need merit call boy hello repeat food wool animal wealth";
+var mnemonic = "begin kidney honey tilt toast accident adapt moral lawsuit loan giraffe wheat";

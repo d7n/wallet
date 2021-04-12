@@ -1,1 +1,1 @@
-var mnemonic = "earn universe foam suffer polar tape lend abuse mountain race lion rate";
+var mnemonic = "ripple hamster trash guilt gadget example power dream pattern oven heavy such";

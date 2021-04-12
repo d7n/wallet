@@ -1,1 +1,1 @@
-var mnemonic = "print fish plug lunch initial blanket engage fade ten sight mix jeans";
+var mnemonic = "lecture grain engine harvest round ankle elbow improve wheat source trial notice";

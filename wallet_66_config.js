@@ -1,1 +1,1 @@
-var mnemonic = "border lesson farm insane knee steel else digital craft slot clown tenant";
+var mnemonic = "topic impulse aware ethics embrace busy fee stool again blast grid ecology";

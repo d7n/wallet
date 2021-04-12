@@ -1,1 +1,1 @@
-var mnemonic = "story use ticket tragic spy base protect disorder blanket erupt clock drink";
+var mnemonic = "leopard snake decline royal inflict win cement town man firm biology mention";

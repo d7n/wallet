@@ -1,1 +1,1 @@
-var mnemonic = "provide roof awkward idea gossip hidden ethics web awkward quiz globe tooth";
+var mnemonic = "hamster clinic spell ice team transfer off author puppy tennis taxi cave";

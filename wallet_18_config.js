@@ -1,1 +1,1 @@
-var mnemonic = "leader spring sound island develop funny still purity aisle popular address foam";
+var mnemonic = "robust swamp barely flame pair spend harbor various test anxiety test august";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze paddle hamster invite enhance obtain urban label emotion tone intact version";
+var mnemonic = "east pepper badge toe evoke exotic convince scorpion cause faith morning decrease";

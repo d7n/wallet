@@ -1,1 +1,1 @@
-var mnemonic = "autumn explain magic fine turn dilemma series attitude cluster stool equal build";
+var mnemonic = "nice dial reform train tissue cargo salad draw bottom blush balance orange";

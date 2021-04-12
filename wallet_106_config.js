@@ -1,1 +1,1 @@
-var mnemonic = "industry monkey insane victory mixed pill receive speed used tobacco camera brown";
+var mnemonic = "enroll razor olive agent check hotel blanket diesel mechanic course person jaguar";

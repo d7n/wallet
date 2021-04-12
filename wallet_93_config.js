@@ -1,1 +1,1 @@
-var mnemonic = "identify gold sentence spray seek point group expect super question notable tobacco";
+var mnemonic = "curious try since length bleak please popular easily outdoor labor input tennis";

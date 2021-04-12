@@ -1,1 +1,1 @@
-var mnemonic = "proof flock bless income payment begin clock cruise idle race sun ice";
+var mnemonic = "pill sibling weather object void hand garage runway people foster flat verify";

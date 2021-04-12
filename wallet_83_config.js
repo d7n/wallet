@@ -1,1 +1,1 @@
-var mnemonic = "uphold easy account boy lion float guide famous damage glory super radio";
+var mnemonic = "visual dice coil tobacco seminar special enhance pigeon volume now treat market";

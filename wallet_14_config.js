@@ -1,1 +1,1 @@
-var mnemonic = "extend away gadget local dish frame laptop cram cream blush strike wine";
+var mnemonic = "roof cry seven joke buddy paddle nature kidney glass coconut negative more";

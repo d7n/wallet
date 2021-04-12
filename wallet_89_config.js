@@ -1,1 +1,1 @@
-var mnemonic = "want cream shrimp timber plate unknown erode photo there atom book buffalo";
+var mnemonic = "table gentle plate winner enact rose arrange crop castle soon flight donor";

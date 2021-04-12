@@ -1,1 +1,1 @@
-var mnemonic = "end guess furnace vault number dynamic typical gas vicious tissue animal gallery";
+var mnemonic = "again until business erosion submit blossom casual real any pitch uncle shiver";

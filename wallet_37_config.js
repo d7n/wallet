@@ -1,1 +1,1 @@
-var mnemonic = "shop rebel memory equip wrist tonight feature legal glue correct emerge fade";
+var mnemonic = "diet praise clip crush about enemy divert material wrap december sweet violin";

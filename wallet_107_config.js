@@ -1,1 +1,1 @@
-var mnemonic = "remind crawl wave anxiety stool royal ignore banner acoustic salad steak spike";
+var mnemonic = "wise manual exhaust coast guess biology blossom auction team ribbon glad cake";

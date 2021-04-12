@@ -1,1 +1,1 @@
-var mnemonic = "tree cloud tip blood panther ripple curtain huge shuffle topple bargain vacuum";
+var mnemonic = "rule goat denial sight all gauge laugh captain fox genuine burst insect";

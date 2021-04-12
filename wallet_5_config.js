@@ -1,1 +1,1 @@
-var mnemonic = "rely mobile zone movie olympic glory raw allow remain web talent physical";
+var mnemonic = "nose sauce auction during receive once exchange fade such orchard govern trick";

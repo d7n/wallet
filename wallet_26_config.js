@@ -1,1 +1,1 @@
-var mnemonic = "neglect absurd venture unfold purity hero vocal blood solar twice actress receive";
+var mnemonic = "puzzle rare sail shoe run ritual dirt point enable shoot snow attack";

@@ -1,1 +1,1 @@
-var mnemonic = "ill stem bachelor asset essay girl apple green blade crime lizard honey";
+var mnemonic = "scare news cruel please actual forget inherit flight lawn admit happy film";

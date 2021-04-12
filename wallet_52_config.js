@@ -1,1 +1,1 @@
-var mnemonic = "guard vital force drink moon staff square regular ill upgrade steak recipe";
+var mnemonic = "reopen close taxi nasty leg short crush salad churn glow candy seminar";

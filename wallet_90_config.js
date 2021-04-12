@@ -1,1 +1,1 @@
-var mnemonic = "assist tobacco forward bean search metal health cliff dentist surface badge monkey";
+var mnemonic = "decide invite fork skill silent strong amateur dune base curve company drastic";
