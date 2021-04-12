@@ -1,1 +1,1 @@
-var mnemonic = "jealous target avocado armed doctor sweet robot trick express cram master cash";
+var mnemonic = "alone wide green zone hidden vendor mystery talent spring pair execute achieve";

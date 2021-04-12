@@ -1,1 +1,1 @@
-var mnemonic = "wing similar scrub push broom yellow enhance orbit call picture special leisure";
+var mnemonic = "general effort evolve pull opinion monkey reveal pluck winter embrace leisure fossil";

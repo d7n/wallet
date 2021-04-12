@@ -1,1 +1,1 @@
-var mnemonic = "author mirror replace tray avoid donkey nut exact heart gaze nominee lady";
+var mnemonic = "heavy digital heavy scrub small luggage network stairs purse biology myself butter";

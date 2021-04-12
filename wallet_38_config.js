@@ -1,1 +1,1 @@
-var mnemonic = "metal boil blouse fuel page write spatial reveal train kitten horn eight";
+var mnemonic = "degree pepper shuffle claim marriage column truly quarter since matter body alert";

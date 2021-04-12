@@ -1,1 +1,1 @@
-var mnemonic = "slender situate convince onion apology gasp crime drill unable index shed submit";
+var mnemonic = "picnic either custom enlist drama crouch radio impact blue debris scout draw";

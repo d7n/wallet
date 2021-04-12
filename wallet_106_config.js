@@ -1,1 +1,1 @@
-var mnemonic = "expand fatal make bind bird puzzle possible device wide forum upset decide";
+var mnemonic = "butter fence effort mind goat glass shed blood uphold valley crane hazard";

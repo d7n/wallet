@@ -1,1 +1,1 @@
-var mnemonic = "opera tired resemble empty promote that auto skin custom jar asset cave";
+var mnemonic = "crouch wise obscure scrub shoot license below surprise rookie tortoise danger tennis";

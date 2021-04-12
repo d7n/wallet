@@ -1,1 +1,1 @@
-var mnemonic = "consider amateur giraffe catalog motor bird demise zoo nasty supreme brain practice";
+var mnemonic = "boil adult kidney flavor pistol health amount grunt private sibling slender pole";

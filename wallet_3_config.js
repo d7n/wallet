@@ -1,1 +1,1 @@
-var mnemonic = "brush crazy market knife spice brass faith giggle symptom club file dwarf";
+var mnemonic = "genuine public bachelor devote mass either effort cactus tone young unique cabbage";

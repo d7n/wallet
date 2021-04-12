@@ -1,1 +1,1 @@
-var mnemonic = "return sail faculty arrange idle feed large girl lab grab mixture organ";
+var mnemonic = "roast leaf age remember twenty scrub stuff hybrid muscle clown project path";

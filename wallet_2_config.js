@@ -1,1 +1,1 @@
-var mnemonic = "immense hurdle shell skate rough craft guard panic arctic clock exclude elevator";
+var mnemonic = "intact cart bless velvet space captain parrot visit since child magic field";

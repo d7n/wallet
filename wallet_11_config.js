@@ -1,1 +1,1 @@
-var mnemonic = "spawn pelican riot pulp friend clay ritual squirrel shrimp ticket immune concert";
+var mnemonic = "fiction happy connect pond front peasant winter panda despair demise host abuse";

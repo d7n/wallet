@@ -1,1 +1,1 @@
-var mnemonic = "artwork spend notable apart story keep network series stereo bachelor ill cabin";
+var mnemonic = "admit upper unusual mom oppose machine claw small reduce brief zero detect";

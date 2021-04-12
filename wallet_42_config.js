@@ -1,1 +1,1 @@
-var mnemonic = "glove heart goat hunt answer junk end news order damage arrow change";
+var mnemonic = "learn broom person fat alcohol tissue catalog legend hat valid solar review";

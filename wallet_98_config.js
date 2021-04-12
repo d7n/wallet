@@ -1,1 +1,1 @@
-var mnemonic = "august thumb second kit very ready nasty wheat now uniform spoon dust";
+var mnemonic = "divert habit various trial crack uphold curtain design parade chronic weapon review";

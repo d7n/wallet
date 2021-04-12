@@ -1,1 +1,1 @@
-var mnemonic = "ecology mail maximum way actor jeans kid annual tilt expect rail typical";
+var mnemonic = "apart disagree real wheel joke expose elite faint flavor pulse now neither";

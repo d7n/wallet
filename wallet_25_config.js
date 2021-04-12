@@ -1,1 +1,1 @@
-var mnemonic = "topic frost silly sense trophy capital speak crime grunt exclude fox reward";
+var mnemonic = "net private muscle brisk debris segment twin dirt grass guide law cook";

@@ -1,1 +1,1 @@
-var mnemonic = "broom wild unaware require purity rookie soon price paddle horror forget away";
+var mnemonic = "there heavy bomb chapter sphere gossip spring cushion wise secret water suffer";

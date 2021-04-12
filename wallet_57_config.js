@@ -1,1 +1,1 @@
-var mnemonic = "pulse pudding wrist unknown region cabbage goddess forest city liberty fashion connect";
+var mnemonic = "saddle head south kite burst detect pull fit knife rigid route nominee";

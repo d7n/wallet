@@ -1,1 +1,1 @@
-var mnemonic = "cradle hover identify angry inherit put hover close abuse lava element dilemma";
+var mnemonic = "unlock often tennis action useful senior dinosaur peace morning father wise health";

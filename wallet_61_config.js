@@ -1,1 +1,1 @@
-var mnemonic = "vocal service ski identify you talk body language weird cigar follow fan";
+var mnemonic = "flash marriage theme ribbon jump stereo argue honey husband pave exile arctic";

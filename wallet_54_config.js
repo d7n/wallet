@@ -1,1 +1,1 @@
-var mnemonic = "arena repair goat actor position history usual steak pattern push pride title";
+var mnemonic = "plastic among bind dumb spring success silly letter scheme brisk guilt lounge";

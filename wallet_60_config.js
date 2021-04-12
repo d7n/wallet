@@ -1,1 +1,1 @@
-var mnemonic = "wonder burst shine lizard current belt happy gain sweet typical immense gossip";
+var mnemonic = "viable process dinosaur supply scan rail school zone nephew train sausage agent";

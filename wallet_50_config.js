@@ -1,1 +1,1 @@
-var mnemonic = "donkey frost sort small success market ball nose notable enjoy song high";
+var mnemonic = "depend ensure wonder tortoise prevent sense lava canyon pigeon small impact elite";

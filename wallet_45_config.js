@@ -1,1 +1,1 @@
-var mnemonic = "civil report install sunset blame nothing fabric analyst modify this grace style";
+var mnemonic = "tired kitten right traffic repeat pelican split drill caught ocean diagram disorder";

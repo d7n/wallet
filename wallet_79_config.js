@@ -1,1 +1,1 @@
-var mnemonic = "speak robot flip notice diesel below kit future acid virtual success noise";
+var mnemonic = "miracle series scrap faint hire question desert loyal canal song then drama";

@@ -1,1 +1,1 @@
-var mnemonic = "ability length grow choice inside account clarify famous theory legend twin style";
+var mnemonic = "render purchase cram head virus question index illegal silly vintage giggle theme";

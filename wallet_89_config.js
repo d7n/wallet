@@ -1,1 +1,1 @@
-var mnemonic = "decrease invest immune tilt police relax brush pottery stay tone project wonder";
+var mnemonic = "unique humor next fault decrease danger access still grass hurry joke gaze";

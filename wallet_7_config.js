@@ -1,1 +1,1 @@
-var mnemonic = "trust element pigeon can total unit direct private filter similar movie country";
+var mnemonic = "fragile breeze stomach guitar tenant crunch hammer gown media random bronze wage";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin pizza pact lesson harsh thunder panther tobacco trial unfold assume shoulder";
+var mnemonic = "skirt able drip wagon sunny flush supply knife load enrich effort twin";

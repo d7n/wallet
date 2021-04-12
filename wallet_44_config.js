@@ -1,1 +1,1 @@
-var mnemonic = "enable capable state whip anchor stamp banana finger segment coin stable town";
+var mnemonic = "typical balance typical mistake pizza assault cave fringe athlete crowd page super";

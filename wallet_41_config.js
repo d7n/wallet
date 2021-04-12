@@ -1,1 +1,1 @@
-var mnemonic = "miracle warm fun smooth certain august local gesture spy badge soldier woman";
+var mnemonic = "infant urban web repair orbit shoot random wait satoshi alien soft hammer";

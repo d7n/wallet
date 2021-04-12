@@ -1,1 +1,1 @@
-var mnemonic = "bomb blur upset split open post option off bullet memory kid sleep";
+var mnemonic = "ill erode human young notice cook injury hunt drill cook lion creek";

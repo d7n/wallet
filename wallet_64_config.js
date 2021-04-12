@@ -1,1 +1,1 @@
-var mnemonic = "daring town swim safe suffer glass huge treat dress october blast start";
+var mnemonic = "quick panic own thumb invest fade attitude diesel mistake detect decline sister";

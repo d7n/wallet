@@ -1,1 +1,1 @@
-var mnemonic = "smoke match learn isolate swim pool quiz ride payment describe evolve enact";
+var mnemonic = "drive design life wheat join father negative mom mean vanish rate scout";

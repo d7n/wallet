@@ -1,1 +1,1 @@
-var mnemonic = "spoil bar tail govern prevent cube measure pet fuel leopard cheese health";
+var mnemonic = "amazing taxi clog entry cave glue reunion romance mind select vibrant vendor";

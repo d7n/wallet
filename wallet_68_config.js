@@ -1,1 +1,1 @@
-var mnemonic = "dolphin duty cluster vehicle faculty april salon little flash web asthma pony";
+var mnemonic = "candy bachelor dirt horn page ten slight vanish phrase mix neither soft";

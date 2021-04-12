@@ -1,1 +1,1 @@
-var mnemonic = "color fringe random wild position miss glue wet front napkin ghost melody";
+var mnemonic = "nasty casual phone foot garden interest crouch exercise during alter become swear";

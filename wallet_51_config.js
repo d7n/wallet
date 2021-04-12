@@ -1,1 +1,1 @@
-var mnemonic = "hip slot inherit print suit material clay snake tobacco wage claw grocery";
+var mnemonic = "rough fame phone ancient stereo toss glue budget admit sugar soft visit";

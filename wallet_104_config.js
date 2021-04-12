@@ -1,1 +1,1 @@
-var mnemonic = "group dawn faint toy web panda escape cattle success mirror layer chest";
+var mnemonic = "toilet sugar similar clever gain winner oppose engage clerk bid member initial";

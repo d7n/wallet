@@ -1,1 +1,1 @@
-var mnemonic = "inside fee bread envelope tiny exhibit column brown grass rural tell asset";
+var mnemonic = "indicate token cable swallow promote engine village olive reward scrub resource certain";

@@ -1,1 +1,1 @@
-var mnemonic = "capital sauce region insane yard hobby youth cool broken winter unit scorpion";
+var mnemonic = "citizen cannon excess goose guess error school price lottery discover damp life";

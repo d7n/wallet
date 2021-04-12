@@ -1,1 +1,1 @@
-var mnemonic = "chat vintage vast cry lizard master cool blame okay weather figure success";
+var mnemonic = "confirm hello water olympic school butter grief artwork sell snake junior void";

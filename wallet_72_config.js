@@ -1,1 +1,1 @@
-var mnemonic = "poem vast flee hedgehog quarter advice earn unknown brand glare gown exit";
+var mnemonic = "museum insane effort awkward mean tube open churn tragic oyster sell file";

@@ -1,1 +1,1 @@
-var mnemonic = "famous degree chair clinic seat member kiss same dawn praise supreme potato";
+var mnemonic = "plastic proof embrace detail when fortune soda assist plate oven gather vague";

@@ -1,1 +1,1 @@
-var mnemonic = "rib kiwi video minor level ready minimum mushroom ability actor awful cycle";
+var mnemonic = "poem beach ring travel sniff unlock enemy castle vendor patient list gospel";

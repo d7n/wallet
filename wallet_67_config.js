@@ -1,1 +1,1 @@
-var mnemonic = "change any decline perfect tip elegant fever rain place random oyster charge";
+var mnemonic = "knife fun security jazz learn rebel powder column finger library nut clay";

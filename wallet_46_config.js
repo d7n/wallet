@@ -1,1 +1,1 @@
-var mnemonic = "property cotton demise need loud update ranch canoe top path captain planet";
+var mnemonic = "gorilla amateur unusual wrist try multiply between crouch trouble borrow fiction trap";

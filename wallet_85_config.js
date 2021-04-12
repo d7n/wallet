@@ -1,1 +1,1 @@
-var mnemonic = "shock raw cat space toilet biology avocado move off ensure saddle joke";
+var mnemonic = "kangaroo kitten spirit custom notable insane you police middle filter anxiety shaft";

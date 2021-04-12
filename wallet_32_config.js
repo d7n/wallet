@@ -1,1 +1,1 @@
-var mnemonic = "senior crouch ill tuna cook planet adult hurry wish tattoo naive define";
+var mnemonic = "seek squeeze pipe boss roast flock patch rebuild drop there smile snack";

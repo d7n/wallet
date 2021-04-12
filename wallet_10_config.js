@@ -1,1 +1,1 @@
-var mnemonic = "riot quantum board quality deal three hood arm expire spider sustain borrow";
+var mnemonic = "license idea patrol notable confirm wing crumble subway genius obscure elegant gate";

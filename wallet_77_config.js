@@ -1,1 +1,1 @@
-var mnemonic = "use letter bike nephew angle device link great idea web accident cigar";
+var mnemonic = "cancel rude voyage find celery hill mistake stone crater inside outdoor narrow";

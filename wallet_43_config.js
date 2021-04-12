@@ -1,1 +1,1 @@
-var mnemonic = "gauge tobacco inspire travel orange lucky kiwi sudden essence sand believe smoke";
+var mnemonic = "false expand across mobile outdoor episode private sail come age sugar print";

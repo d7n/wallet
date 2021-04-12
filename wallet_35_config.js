@@ -1,1 +1,1 @@
-var mnemonic = "left cactus negative soldier wool broccoli salmon cram circle jealous sick before";
+var mnemonic = "habit inmate live baby train fold outside team green episode scene boost";

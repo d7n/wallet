@@ -1,1 +1,1 @@
-var mnemonic = "belt bone apology drift crime labor tower leaf cheese owner bean draft";
+var mnemonic = "patient bulb shoe rate card kind luxury poverty tent resource veteran oak";

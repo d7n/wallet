@@ -1,1 +1,1 @@
-var mnemonic = "retire puzzle toast estate spawn exact picture utility notice embody nation label";
+var mnemonic = "combine doctor repair marriage version song air sick skill illness december later";

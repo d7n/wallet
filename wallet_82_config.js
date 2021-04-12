@@ -1,1 +1,1 @@
-var mnemonic = "rose essence cruel purpose away thrive memory gym current frost coil planet";
+var mnemonic = "main bullet move motion glad suspect unit print miracle shoulder wide doll";

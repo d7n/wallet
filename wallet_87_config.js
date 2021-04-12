@@ -1,1 +1,1 @@
-var mnemonic = "cradle topple menu ivory legal early deny doll upper move between cash";
+var mnemonic = "furnace leisure card disagree glove evil million tree lizard drum twice false";

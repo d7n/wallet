@@ -1,1 +1,1 @@
-var mnemonic = "avoid explain sea deputy will mango saddle grit maximum trust speed park";
+var mnemonic = "barrel iron faith believe depart arrive slice talk valley hawk salon easily";

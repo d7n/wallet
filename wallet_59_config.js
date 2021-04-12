@@ -1,1 +1,1 @@
-var mnemonic = "grain better give permit unlock dignity multiply coyote summer wisdom mesh fit";
+var mnemonic = "soda relax pig fly marble diagram good snap cabbage correct minute plastic";

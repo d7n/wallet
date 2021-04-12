@@ -1,1 +1,1 @@
-var mnemonic = "include treat visit elite that anchor gossip like empty put road crumble";
+var mnemonic = "emotion document junior mandate liar law ready carpet hundred flavor device wild";

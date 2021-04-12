@@ -1,1 +1,1 @@
-var mnemonic = "protect abuse gas embrace habit path middle cat mechanic life decrease trophy";
+var mnemonic = "patrol elite unfair shop weapon profit monster possible north layer cruise virtual";

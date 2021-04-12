@@ -1,1 +1,1 @@
-var mnemonic = "virus transfer wrap seminar cake damp amused artefact raw soccer typical emerge";
+var mnemonic = "lock consider another badge miracle meat crystal circle horse diet sunny slush";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar blind much pumpkin snack kit dash base notable nut debris utility";
+var mnemonic = "garbage oil artwork ostrich industry noble power romance debate myth welcome rude";

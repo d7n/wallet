@@ -1,1 +1,1 @@
-var mnemonic = "height either talent alert almost lawsuit surprise peasant payment satisfy coral nephew";
+var mnemonic = "deny churn glance floor work physical speed cover assist morning alley awesome";

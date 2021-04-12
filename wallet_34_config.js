@@ -1,1 +1,1 @@
-var mnemonic = "during cart popular cement vanish furnace castle volume cancel protect country case";
+var mnemonic = "rigid buddy hint age mouse chat margin rather appear place lamp gift";

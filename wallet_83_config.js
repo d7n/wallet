@@ -1,1 +1,1 @@
-var mnemonic = "auto clap inhale replace like strong topic electric icon license open stumble";
+var mnemonic = "dilemma script scorpion buyer tiger stone roast unlock aim ahead dutch artwork";

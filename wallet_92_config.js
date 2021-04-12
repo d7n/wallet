@@ -1,1 +1,1 @@
-var mnemonic = "patient erupt salon tooth brave mean spike century lady misery give pet";
+var mnemonic = "abuse spin bottom ecology security suggest file moment predict party tape close";

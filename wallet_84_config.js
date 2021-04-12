@@ -1,1 +1,1 @@
-var mnemonic = "raise gadget effort service earn sausage salmon vapor repair home decline crater";
+var mnemonic = "animal obvious vault fuel lizard physical tooth actress rich prize pledge crack";

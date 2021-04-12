@@ -1,1 +1,1 @@
-var mnemonic = "pilot cycle turn frown december bag depend neglect flight barely own blue";
+var mnemonic = "detect unknown torch author dove noise wisdom rival develop door erase unfair";

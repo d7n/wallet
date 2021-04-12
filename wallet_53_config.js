@@ -1,1 +1,1 @@
-var mnemonic = "maple fancy farm mobile slide garden gospel minor quick roof saddle rapid";
+var mnemonic = "story cook dizzy hip code level steel dish riot picture raven swear";

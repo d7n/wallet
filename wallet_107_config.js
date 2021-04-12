@@ -1,1 +1,1 @@
-var mnemonic = "auction remember clown stuff corn enhance render woman swear barely sell error";
+var mnemonic = "very tool race worry camp wash exhibit awful paddle coral mansion embark";

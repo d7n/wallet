@@ -1,1 +1,1 @@
-var mnemonic = "inner fly miss hope lend insect permit drop pudding file floor inside";
+var mnemonic = "accident leader adapt must guitar female verify draft remind castle gasp update";

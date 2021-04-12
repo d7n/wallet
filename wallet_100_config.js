@@ -1,1 +1,1 @@
-var mnemonic = "disorder cricket smooth upset oil author lamp flock skill wreck pottery install";
+var mnemonic = "essay nurse piano beach harsh library admit dust pilot sick define carbon";

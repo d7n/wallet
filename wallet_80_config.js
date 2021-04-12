@@ -1,1 +1,1 @@
-var mnemonic = "observe flag stick dance turtle bamboo remove asset all anxiety helmet vivid";
+var mnemonic = "absurd arrow dismiss identify coconut birth between patch mistake yard coach kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "burger protect health flee black nephew end robust please slide quantum utility";
+var mnemonic = "barrel family common pigeon muffin gesture saddle wink slender notable december own";

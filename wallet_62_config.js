@@ -1,1 +1,1 @@
-var mnemonic = "subject ancient boring tone mechanic clown special miracle inspire modify nose swift";
+var mnemonic = "tip skill shield onion clever pave weasel inch oyster weasel notable mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "nose shell grocery supreme output tray kitten crime pistol turn walk seminar";
+var mnemonic = "alien scale multiply embark clever glance embark tortoise submit clog rude fossil";

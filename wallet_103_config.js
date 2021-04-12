@@ -1,1 +1,1 @@
-var mnemonic = "sail party proud recycle make stairs issue message toy rack large love";
+var mnemonic = "regular glimpse joke rotate brand soda devote okay merry aerobic shrimp beauty";

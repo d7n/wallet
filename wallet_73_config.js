@@ -1,1 +1,1 @@
-var mnemonic = "ice wheel ripple expose actor north enough toward labor hybrid shy clock";
+var mnemonic = "happy rhythm select legal stamp hand junk myth breeze bacon illegal cabin";

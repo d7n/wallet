@@ -1,1 +1,1 @@
-var mnemonic = "cross century raccoon remain disagree advance carbon another renew melt desert suspect";
+var mnemonic = "assume village time dry until reason amazing announce sister column bless rival";

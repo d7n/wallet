@@ -1,1 +1,1 @@
-var mnemonic = "icon health rich vacuum obvious become rough stomach arm miracle portion elephant";
+var mnemonic = "unusual often weather rule fork display police wash october casino bag tent";

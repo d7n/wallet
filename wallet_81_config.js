@@ -1,1 +1,1 @@
-var mnemonic = "patrol carpet inflict gap any release advance matter dynamic prepare shoulder normal";
+var mnemonic = "stairs middle between correct magnet raise surface movie other cycle above main";

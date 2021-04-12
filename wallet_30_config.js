@@ -1,1 +1,1 @@
-var mnemonic = "rifle toe attract honey primary snake hurt inform change crash phone cute";
+var mnemonic = "invite pulse describe humor jealous tongue apology erase visual orphan jeans unique";

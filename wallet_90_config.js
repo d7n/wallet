@@ -1,1 +1,1 @@
-var mnemonic = "family plastic lock scorpion olympic need exotic reason body clip scale midnight";
+var mnemonic = "beauty print coffee brain loyal vital birth autumn nominee honey spice tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp hedgehog juice punch clarify master gold unique master inquiry extend grab";
+var mnemonic = "puppy build light advance there ready session merge raise chapter year bitter";

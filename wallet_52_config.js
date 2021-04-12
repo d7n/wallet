@@ -1,1 +1,1 @@
-var mnemonic = "acoustic depth analyst quiz ostrich yellow mind item quick visual famous hollow";
+var mnemonic = "large siren canvas great weasel work bunker apology oven void lawsuit elephant";

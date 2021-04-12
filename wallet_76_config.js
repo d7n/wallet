@@ -1,1 +1,1 @@
-var mnemonic = "boss sweet supply media tilt quiz chaos peace wild theory seven alarm";
+var mnemonic = "pact phrase pencil brush never silly mystery accident cash remove admit kite";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier wood cause quarter strike find also sphere outer globe summer group";
+var mnemonic = "before worth never steak lemon cute tornado loan amused toddler nuclear super";

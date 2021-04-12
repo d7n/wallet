@@ -1,1 +1,1 @@
-var mnemonic = "isolate logic build diet transfer hole detect target ticket erase nation junk";
+var mnemonic = "crush purity boring adult debate once tourist jump atom stage prepare fish";

@@ -1,1 +1,1 @@
-var mnemonic = "boil term urban scare inside proud rhythm tissue teach announce depend vehicle";
+var mnemonic = "maximum cushion rotate buddy bright marriage actress visit scale olympic tornado neutral";

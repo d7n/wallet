@@ -1,1 +1,1 @@
-var mnemonic = "sport umbrella crouch timber total nation vicious bottom abandon candy short spread";
+var mnemonic = "match spike cliff junior fall drop cliff spatial exchange scan steel light";

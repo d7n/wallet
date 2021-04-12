@@ -1,1 +1,1 @@
-var mnemonic = "palace warm barrel surprise much inform drive hunt double twist circle season";
+var mnemonic = "pole magic tomorrow stay that weather way tube limit drill pioneer rare";

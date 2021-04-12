@@ -1,1 +1,1 @@
-var mnemonic = "milk animal unfair number indicate skill toast right hundred absurd arch public";
+var mnemonic = "rose pool purse guitar key sibling wrap enhance theme tent pencil resemble";

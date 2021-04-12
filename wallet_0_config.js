@@ -1,1 +1,1 @@
-var mnemonic = "leader people give fun vintage pyramid anxiety arch smoke cup armed sport";
+var mnemonic = "athlete twist inside tomorrow cabin beyond uncle erosion car siren amount course";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold tortoise casino trash screen please one aerobic will upgrade million course";
+var mnemonic = "kid forest net crowd stomach note shop pattern indoor dance increase bachelor";
