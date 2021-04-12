@@ -1,1 +1,1 @@
-var mnemonic = "desert video faith whisper problem oak farm defy spray ordinary worry hub";
+var mnemonic = "panel cradle pepper phrase agent oppose load bacon onion quantum pet mind";

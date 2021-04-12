@@ -1,1 +1,1 @@
-var mnemonic = "truck student auto industry outside pen snap cruise put tribe minor easy";
+var mnemonic = "error slender attitude radar puzzle assault picnic meadow bullet blame hurry glue";

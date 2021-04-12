@@ -1,1 +1,1 @@
-var mnemonic = "emerge cement tail year document oblige special pyramid quality toe found all";
+var mnemonic = "fall girl electric solution praise right palace shift page advice remind proud";

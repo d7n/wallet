@@ -1,1 +1,1 @@
-var mnemonic = "bird veteran genius pact comic depend agree pact lonely alien energy scissors";
+var mnemonic = "grape select call mistake carry cereal involve novel route essay glare medal";

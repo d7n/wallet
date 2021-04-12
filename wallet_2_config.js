@@ -1,1 +1,1 @@
-var mnemonic = "forest travel exact force cancel capital develop nuclear bargain injury skill meat";
+var mnemonic = "cousin drama license install hat vacant salt endorse connect bean siege dial";

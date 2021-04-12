@@ -1,1 +1,1 @@
-var mnemonic = "obtain feel divide shell saddle series final gauge future champion unfair retire";
+var mnemonic = "connect mother prison climb weekend butter myself rib mandate end unknown hungry";

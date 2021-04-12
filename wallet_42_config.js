@@ -1,1 +1,1 @@
-var mnemonic = "ridge coin duck treat spirit despair maid emerge divert fruit rhythm build";
+var mnemonic = "example minute risk job resist child day grow quote picnic old walnut";

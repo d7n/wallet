@@ -1,1 +1,1 @@
-var mnemonic = "acoustic alert brief list retreat force bone whale law city until weasel";
+var mnemonic = "lemon oil hill tuition keep physical day rich wagon eagle wing remind";

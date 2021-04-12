@@ -1,1 +1,1 @@
-var mnemonic = "rocket guide media minute section tree cream salmon strong inmate dwarf mechanic";
+var mnemonic = "scene buzz reform weapon dumb napkin orphan vacant chat tomorrow spread spoil";

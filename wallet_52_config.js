@@ -1,1 +1,1 @@
-var mnemonic = "domain chunk ball deny cruise broccoli shine foam pole lake glimpse same";
+var mnemonic = "clap input twenty eight prize tuition great future weapon slush stand panel";

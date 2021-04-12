@@ -1,1 +1,1 @@
-var mnemonic = "decade gap december detail lecture cluster stereo avocado crisp chief swamp rug";
+var mnemonic = "day motion afford phrase cloth velvet battle chat spoon betray cross animal";

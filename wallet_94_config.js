@@ -1,1 +1,1 @@
-var mnemonic = "other joy drink post lucky issue improve hello country egg floor length";
+var mnemonic = "kangaroo razor orient license mixture eternal explain artwork media dutch invite split";

@@ -1,1 +1,1 @@
-var mnemonic = "author space inmate humble ice lift crawl priority remind lawn combine slice";
+var mnemonic = "win tissue diamond talent bicycle depart endorse diary zone plate always scale";

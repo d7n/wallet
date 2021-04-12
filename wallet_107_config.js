@@ -1,1 +1,1 @@
-var mnemonic = "author praise lobster select brush people athlete scene lobster amazing senior party";
+var mnemonic = "that cost spatial rally art rug kick faint decline reject deputy panic";

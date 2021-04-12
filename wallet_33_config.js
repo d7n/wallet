@@ -1,1 +1,1 @@
-var mnemonic = "ecology skull claw weekend useless globe ozone arm hen frown erase rocket";
+var mnemonic = "hobby key yellow fiber luggage turn tired accuse bracket rough ensure dizzy";

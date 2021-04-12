@@ -1,1 +1,1 @@
-var mnemonic = "tooth panel pioneer quote winter peanut estate gloom bulk refuse odor leader";
+var mnemonic = "setup judge aunt corn credit brother resource explain concert casino doll before";

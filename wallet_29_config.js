@@ -1,1 +1,1 @@
-var mnemonic = "eternal primary idea ostrich camera select senior tissue topic verb cat devote";
+var mnemonic = "foster noble where state income carry alley ignore gain stage project robust";

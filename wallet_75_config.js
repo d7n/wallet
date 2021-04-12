@@ -1,1 +1,1 @@
-var mnemonic = "lab debris rhythm drama menu coyote tribe grant rent answer visa next";
+var mnemonic = "gasp crime section fiction adjust joy grief device provide odor soft deny";

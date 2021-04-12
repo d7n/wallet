@@ -1,1 +1,1 @@
-var mnemonic = "three answer tree oval cause direct loyal build lunar rotate crane undo";
+var mnemonic = "genre collect brisk december tuna gather praise dinner switch juice employ party";

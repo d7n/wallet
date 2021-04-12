@@ -1,1 +1,1 @@
-var mnemonic = "utility prepare increase insane now cruel country dutch orphan clown design magic";
+var mnemonic = "silk come strike suit weekend frog hamster negative island regret wait shoe";

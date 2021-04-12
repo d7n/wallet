@@ -1,1 +1,1 @@
-var mnemonic = "farm core aunt enroll piece bullet penalty flame piano genuine sick tent";
+var mnemonic = "pumpkin ugly desk regular toward general disagree hire pear atom gospel action";

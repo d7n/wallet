@@ -1,1 +1,1 @@
-var mnemonic = "hold sign super awful oppose attack margin timber solve remove vacuum upset";
+var mnemonic = "super average truly hard walnut smooth trend burst boost now credit give";

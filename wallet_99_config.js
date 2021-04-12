@@ -1,1 +1,1 @@
-var mnemonic = "fluid broccoli tape air unable label shine defy physical luxury also tongue";
+var mnemonic = "glove pottery crisp surprise pyramid earth page outdoor mushroom vast staff danger";

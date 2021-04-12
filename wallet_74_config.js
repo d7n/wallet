@@ -1,1 +1,1 @@
-var mnemonic = "ill satoshi tide sock dash future pudding seek genius hub fall moral";
+var mnemonic = "reunion federal embrace olive dinner window around stool note apple profit spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel abuse kind road jump wink what assume ball crater little betray";
+var mnemonic = "place stable scrap bag increase movie rocket choose thank neglect legal submit";

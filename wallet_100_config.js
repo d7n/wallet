@@ -1,1 +1,1 @@
-var mnemonic = "cage there shrug fly loyal once pave chief spike laugh kiss thing";
+var mnemonic = "nice just episode legal goat usage engage water wool garlic blanket find";

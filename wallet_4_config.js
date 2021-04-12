@@ -1,1 +1,1 @@
-var mnemonic = "clump club caution marine animal dwarf sadness obvious submit hedgehog knee enough";
+var mnemonic = "educate switch hungry snack scene device field debris agent chimney tumble coin";

@@ -1,1 +1,1 @@
-var mnemonic = "cost purpose toy mandate admit direct odor depend pilot giraffe diesel vivid";
+var mnemonic = "soldier road slush bachelor patrol sniff rival tackle space orchard hobby maximum";

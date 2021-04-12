@@ -1,1 +1,1 @@
-var mnemonic = "cook yellow hip dust welcome ride purchase circle problem isolate limb laugh";
+var mnemonic = "liar trip loan weasel dinosaur term lunch beach weasel original wagon artist";

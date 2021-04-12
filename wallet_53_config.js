@@ -1,1 +1,1 @@
-var mnemonic = "fold large image call amount enable theme control famous panel rotate banana";
+var mnemonic = "horror kit cat visa inherit one keep copper buffalo much edit fashion";

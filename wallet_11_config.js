@@ -1,1 +1,1 @@
-var mnemonic = "jungle armed mercy name print large cheese jaguar runway donkey heavy smoke";
+var mnemonic = "mammal album fun admit common play tip jealous joke joke slide art";

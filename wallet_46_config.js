@@ -1,1 +1,1 @@
-var mnemonic = "uncle industry priority alone kingdom unique process spin zero false siege song";
+var mnemonic = "health satisfy return top pepper puppy decline sniff curve they uncle final";

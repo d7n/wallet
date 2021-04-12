@@ -1,1 +1,1 @@
-var mnemonic = "wool garage flower lumber goddess join trap tonight fox crisp buzz surprise";
+var mnemonic = "glory club clip execute fish sail animal bar oval romance metal pulp";

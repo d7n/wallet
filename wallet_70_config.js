@@ -1,1 +1,1 @@
-var mnemonic = "warrior foot van cream gain offer hungry argue sort enforce action pledge";
+var mnemonic = "focus cube toy wave matter sausage rotate quit grow opinion spend timber";

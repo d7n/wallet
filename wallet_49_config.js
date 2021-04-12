@@ -1,1 +1,1 @@
-var mnemonic = "bench member dolphin shallow spirit void february rival major choice travel radar";
+var mnemonic = "squeeze tail dance swear laugh tired cry champion ancient require sniff deny";

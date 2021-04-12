@@ -1,1 +1,1 @@
-var mnemonic = "neutral term view tiny report silent disorder giggle boil surprise soul husband";
+var mnemonic = "dinosaur absurd subway rifle offer soda mutual olympic half cup member seminar";

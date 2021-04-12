@@ -1,1 +1,1 @@
-var mnemonic = "gap sadness cube shaft can genius saddle donate stay amazing ride smooth";
+var mnemonic = "puzzle illegal soccer envelope hole century stool point rent ritual jeans wait";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen cruise ankle north certain romance vote order physical arch cup ritual";
+var mnemonic = "yard travel floor jeans total crawl snap able opinion thing orphan fish";

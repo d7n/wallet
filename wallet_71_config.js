@@ -1,1 +1,1 @@
-var mnemonic = "dizzy mosquito attract once wisdom inch lesson tank divorce add entire disease";
+var mnemonic = "moon poet shock uncover still mom culture fresh royal icon love tackle";

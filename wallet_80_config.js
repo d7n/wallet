@@ -1,1 +1,1 @@
-var mnemonic = "weather shoot walnut bitter hub kick observe oxygen anxiety cycle train laptop";
+var mnemonic = "alien trouble west wife frozen right ugly napkin priority suspect steak lunch";

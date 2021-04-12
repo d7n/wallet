@@ -1,1 +1,1 @@
-var mnemonic = "ocean essence session jungle attack soft hawk electric unfair extend flower response";
+var mnemonic = "session breeze moment mean hungry plunge market galaxy cup engine torch spot";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy silver afford inside napkin play alarm faint purpose age inside put";
+var mnemonic = "actor ghost fall tide cake vicious boil oil degree must pink valid";

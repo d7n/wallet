@@ -1,1 +1,1 @@
-var mnemonic = "stool boss boost salmon rain promote dynamic oil spell pear infant program";
+var mnemonic = "include near hip melt crime ticket join uncover effort february window swap";

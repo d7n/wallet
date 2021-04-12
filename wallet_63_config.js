@@ -1,1 +1,1 @@
-var mnemonic = "immune athlete brown insane wash illegal excuse climb echo secret frown giant";
+var mnemonic = "regular media radio brisk struggle guide hedgehog state such lumber clutch planet";

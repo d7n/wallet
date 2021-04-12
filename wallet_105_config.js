@@ -1,1 +1,1 @@
-var mnemonic = "middle lemon parade cherry sure bamboo right faint foil leopard glory exotic";
+var mnemonic = "smooth scorpion occur cream mirror stool keep tattoo announce feature curtain spread";

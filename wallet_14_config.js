@@ -1,1 +1,1 @@
-var mnemonic = "swap kitchen atom thrive crane wage waste kick chimney illness vehicle spatial";
+var mnemonic = "glass test dress accident horn sell swear divide napkin void crash never";

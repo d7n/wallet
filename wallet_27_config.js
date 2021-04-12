@@ -1,1 +1,1 @@
-var mnemonic = "cost air have vapor acoustic sibling nasty image valve floor burst answer";
+var mnemonic = "stick genius clean destroy monster bean clock omit crisp ecology wrong cannon";

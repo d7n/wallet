@@ -1,1 +1,1 @@
-var mnemonic = "feel grid ridge attend kiwi brown tray genre venue during emotion aisle";
+var mnemonic = "garage dove desert front ugly glory weekend cube season rally poverty relief";

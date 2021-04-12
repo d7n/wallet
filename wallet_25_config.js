@@ -1,1 +1,1 @@
-var mnemonic = "wheel embark economy apart strike poverty enrich hobby equip girl edit safe";
+var mnemonic = "leopard north piano airport shell invest faith cradle nephew desert lounge sign";

@@ -1,1 +1,1 @@
-var mnemonic = "impact brave casual know push alcohol job festival lyrics flavor start toilet";
+var mnemonic = "tape champion oyster melt release few olympic hint present curve confirm gospel";

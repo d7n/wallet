@@ -1,1 +1,1 @@
-var mnemonic = "soft portion seat shoe junk bless document black fan little dance virus";
+var mnemonic = "strategy answer play analyst timber shed pipe attitude cement ill pause report";

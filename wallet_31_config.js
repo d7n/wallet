@@ -1,1 +1,1 @@
-var mnemonic = "leisure taxi course need grid evolve three gentle update mail jeans upper";
+var mnemonic = "powder kangaroo kite such cart vibrant tunnel clown snap trumpet neck bean";

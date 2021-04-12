@@ -1,1 +1,1 @@
-var mnemonic = "employ alone urge apple nothing pencil either cat cinnamon floor message base";
+var mnemonic = "broken wrap fire boy hip combine ghost urge beach river online hover";

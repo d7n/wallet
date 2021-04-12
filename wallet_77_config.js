@@ -1,1 +1,1 @@
-var mnemonic = "absent pioneer above pony fantasy envelope rail cricket unit minor enjoy cinnamon";
+var mnemonic = "season boring bike goddess fault bachelor arrest inform clay mercy reflect party";

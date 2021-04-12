@@ -1,1 +1,1 @@
-var mnemonic = "sweet awkward spell pond motion struggle blast cheap patient physical radar display";
+var mnemonic = "flat glove thought gravity humor wash quote talk task slot fossil cube";

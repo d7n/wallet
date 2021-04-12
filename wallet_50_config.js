@@ -1,1 +1,1 @@
-var mnemonic = "number bubble keep canal brown ostrich fresh flat cash doll shaft bread";
+var mnemonic = "dizzy useful oppose hood wood tongue wolf pulp input diesel certain tackle";

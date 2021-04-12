@@ -1,1 +1,1 @@
-var mnemonic = "light tone time joy embody prefer hour host finger slam harsh lottery";
+var mnemonic = "critic inhale rose cram dizzy cushion obvious fossil cable embrace quick order";

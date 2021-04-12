@@ -1,1 +1,1 @@
-var mnemonic = "spatial slight taste seat again hello ill chalk believe wild abandon rhythm";
+var mnemonic = "breeze uniform galaxy sign robust type card charge loan dice child fatal";

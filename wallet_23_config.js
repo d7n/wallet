@@ -1,1 +1,1 @@
-var mnemonic = "bunker brush bread gospel talk earn talent head two exotic tenant anger";
+var mnemonic = "various file enhance hip pause squeeze disagree asthma music abuse begin spell";

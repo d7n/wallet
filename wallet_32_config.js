@@ -1,1 +1,1 @@
-var mnemonic = "walnut scan broccoli answer dad scatter nuclear virus army business behind struggle";
+var mnemonic = "flock evoke energy soccer dirt diagram arrow attitude capable term assist antenna";

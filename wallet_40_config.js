@@ -1,1 +1,1 @@
-var mnemonic = "token people route girl theory special paddle latin shadow local burst double";
+var mnemonic = "cruise artist dwarf copper special interest embrace recipe motor rabbit salt lesson";

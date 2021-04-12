@@ -1,1 +1,1 @@
-var mnemonic = "front never prosper cause rifle motor deny blanket simple erode draft valve";
+var mnemonic = "occur skate nose gasp piece horror south convince hint stairs melt price";

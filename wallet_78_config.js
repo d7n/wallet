@@ -1,1 +1,1 @@
-var mnemonic = "insane lady property inhale problem will invite safe electric time segment topple";
+var mnemonic = "cash already project comic menu edit staff fetch fold twist neglect harsh";

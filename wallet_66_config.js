@@ -1,1 +1,1 @@
-var mnemonic = "direct evidence grab flavor coffee slice ship shrimp hen domain cash vault";
+var mnemonic = "tower neglect example shop worth episode brave frame demise airport oblige you";

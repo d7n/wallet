@@ -1,1 +1,1 @@
-var mnemonic = "file fly poet define scale angle february baby fashion knife vapor design";
+var mnemonic = "visual squeeze easily salt loud frog just crash range slim dirt space";

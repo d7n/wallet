@@ -1,1 +1,1 @@
-var mnemonic = "off major lounge horn picnic symptom wheel throw grocery pepper portion punch";
+var mnemonic = "smooth video gorilla cream couple warrior quantum quality have woman toward mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "cup grass tumble pride please pyramid insect want post gold club grab";
+var mnemonic = "eyebrow web iron tomato opinion teach kangaroo obscure crouch palace ability favorite";

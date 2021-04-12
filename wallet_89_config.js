@@ -1,1 +1,1 @@
-var mnemonic = "roof table okay base cricket beef exhaust boost seed rain miss mountain";
+var mnemonic = "bachelor gospel document uphold inside aisle lonely asthma accident uphold six explain";

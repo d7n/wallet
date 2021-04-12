@@ -1,1 +1,1 @@
-var mnemonic = "cube purse differ cross rare build shop garment dog actual donkey save";
+var mnemonic = "decorate vocal fox survey stick wedding knee allow wear inmate grape veteran";

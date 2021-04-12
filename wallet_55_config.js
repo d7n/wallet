@@ -1,1 +1,1 @@
-var mnemonic = "liquid knee anxiety woman file eye access grass accuse congress remind maid";
+var mnemonic = "dad net tissue sauce ill security boring ancient silk nut tackle toddler";

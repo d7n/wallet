@@ -1,1 +1,1 @@
-var mnemonic = "wreck grocery local defense begin enroll clarify member web ginger island truck";
+var mnemonic = "offer ensure thrive grid crisp industry record ensure buddy banner tortoise noise";

@@ -1,1 +1,1 @@
-var mnemonic = "great seek member warfare wide section west crack page wire file leopard";
+var mnemonic = "water best sauce private muscle upon trip hero poverty child impulse blood";

@@ -1,1 +1,1 @@
-var mnemonic = "festival scout language avocado diagram rather yellow across island attack room pudding";
+var mnemonic = "unusual survey toilet position baby oil siege fit left kitten gasp mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "service romance annual exchange dream fossil local dumb salt vendor fortune horn";
+var mnemonic = "horror assault expect fitness abuse axis traffic ride unhappy toss vessel enrich";

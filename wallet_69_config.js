@@ -1,1 +1,1 @@
-var mnemonic = "crime pumpkin parent luggage casual cricket grunt only bullet motor coral truck";
+var mnemonic = "business dial hip range casual prize rapid alien wrist slam trap room";

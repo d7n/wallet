@@ -1,1 +1,1 @@
-var mnemonic = "shoot elbow hurry analyst trouble monster snack coin pen mean frequent help";
+var mnemonic = "strike model short exotic rule fatal nephew belt giggle tell bean gesture";

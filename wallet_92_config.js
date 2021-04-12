@@ -1,1 +1,1 @@
-var mnemonic = "quantum moon picture hidden elder pony bean quarter action host foster spot";
+var mnemonic = "general issue modify poverty sudden leg history rich excuse addict stone knock";

@@ -1,1 +1,1 @@
-var mnemonic = "state crane poet early original better bless walnut solution tattoo float dice";
+var mnemonic = "firm august naive bone fluid tree ancient mom then horror major swap";

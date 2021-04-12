@@ -1,1 +1,1 @@
-var mnemonic = "equip fortune suggest cat humor rebuild crater cream romance dog advance urge";
+var mnemonic = "click betray tell april festival cook grit absurd alter service public valid";

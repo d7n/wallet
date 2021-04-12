@@ -1,1 +1,1 @@
-var mnemonic = "galaxy original envelope adult gym marine fabric cube fan glimpse tool invest";
+var mnemonic = "dinner polar change stumble text wish lock habit release will mail slim";

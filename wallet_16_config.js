@@ -1,1 +1,1 @@
-var mnemonic = "wing reopen install acid icon like loyal trial mountain shuffle duty group";
+var mnemonic = "cause slow father mutual glove pioneer fence control idea shove oblige amount";

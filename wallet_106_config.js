@@ -1,1 +1,1 @@
-var mnemonic = "smoke corn hollow session remember head dance identify wing sea dolphin matter";
+var mnemonic = "negative clever cushion settle wild valley brother confirm range average village side";

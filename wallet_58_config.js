@@ -1,1 +1,1 @@
-var mnemonic = "suggest pelican phrase media chunk envelope anchor chef trend twelve wink jealous";
+var mnemonic = "movie until define beauty opera short gorilla loop style sister theory address";

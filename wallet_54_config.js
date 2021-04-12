@@ -1,1 +1,1 @@
-var mnemonic = "expose copper mesh ecology witness happy figure network bulb symptom hope remove";
+var mnemonic = "coyote brisk nominee divert cross stairs system stereo lounge crouch cricket glad";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip bubble stable bid surround scorpion tribe kangaroo mansion melt observe wasp";
+var mnemonic = "envelope glove bubble key depth tonight tunnel exhibit bacon photo pair opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect upper gesture glory naive supply cycle doll include twenty ride mix";
+var mnemonic = "width elevator acid hair general change tool word salmon away tell brain";

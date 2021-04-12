@@ -1,1 +1,1 @@
-var mnemonic = "report behind general sweet attend curtain rotate enemy please happy live pond";
+var mnemonic = "castle popular finger rain disease genuine gloom recipe hub frequent inside rapid";
