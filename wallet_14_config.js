@@ -1,1 +1,1 @@
-var mnemonic = "primary series rug image short tuna document baby boat rich digital friend";
+var mnemonic = "rude stock gym cup december coach jeans trouble ridge pattern snake submit";

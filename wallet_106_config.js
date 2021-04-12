@@ -1,1 +1,1 @@
-var mnemonic = "grocery govern liquid snake helmet cancel noise kingdom farm engage gorilla blouse";
+var mnemonic = "income future gossip chest stairs original multiply skin floor pony retire history";

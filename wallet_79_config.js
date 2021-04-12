@@ -1,1 +1,1 @@
-var mnemonic = "name sleep foam random prosper text start inner debate old fan horse";
+var mnemonic = "thing collect vault arch brain climb police film actual solid biology custom";

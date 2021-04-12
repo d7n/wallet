@@ -1,1 +1,1 @@
-var mnemonic = "fossil science speak crack ankle buffalo meat domain brother hope razor miss";
+var mnemonic = "minute reward link wood debate length primary arm canoe during evidence include";

@@ -1,1 +1,1 @@
-var mnemonic = "six gain very put brisk vast visa outer phone cook tired there";
+var mnemonic = "glove math ticket chronic network kit theory then story base sniff metal";

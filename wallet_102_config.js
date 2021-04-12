@@ -1,1 +1,1 @@
-var mnemonic = "meadow mixture stand network duty setup truth crush combine space dose narrow";
+var mnemonic = "fresh dove cigar behave joke peanut hedgehog utility unable wrestle ridge source";

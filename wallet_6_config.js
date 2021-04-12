@@ -1,1 +1,1 @@
-var mnemonic = "high describe suggest renew parrot average slot modify boat position empty cycle";
+var mnemonic = "click person barely kick core father enlist rabbit occur goddess alone position";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon easily vault wheel aim final clean never weapon climb people glare";
+var mnemonic = "cancel sphere amount glow live old nation tunnel tennis gas truth stadium";

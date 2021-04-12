@@ -1,1 +1,1 @@
-var mnemonic = "demise jelly mother forward addict evil tiger mushroom sponsor magic lock cash";
+var mnemonic = "gadget cry access margin pepper weather mixture spring wink digital burst early";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom tuition agree grab profit upper chat rug parent buffalo payment elbow";
+var mnemonic = "eagle replace calm drift surge buffalo renew sniff breeze slow wheel fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket length hard evoke vehicle joy ripple ketchup equip detect always mask";
+var mnemonic = "portion deer monitor boil between arrive digital column moment umbrella acquire bounce";

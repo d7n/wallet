@@ -1,1 +1,1 @@
-var mnemonic = "bomb impose stool call warrior cloud reduce polar crystal basket army copy";
+var mnemonic = "melody flock unlock candy scrap armed buddy uniform wink collect fossil erupt";

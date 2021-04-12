@@ -1,1 +1,1 @@
-var mnemonic = "entry medal symptom cause speed orchard unfold drive tongue column catch cattle";
+var mnemonic = "radio vast salad elbow pitch regret stock achieve sport phone can hurt";

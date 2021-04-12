@@ -1,1 +1,1 @@
-var mnemonic = "visa claw gap pumpkin accident wish warm punch cable rapid ability option";
+var mnemonic = "patch unaware cliff angry better floor rhythm result enable copy business sense";

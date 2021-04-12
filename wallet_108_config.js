@@ -1,1 +1,1 @@
-var mnemonic = "flip helmet tail hen coconut camera west vital problem bar globe erupt";
+var mnemonic = "behind repair task define lizard response suggest verify just kid gloom reopen";

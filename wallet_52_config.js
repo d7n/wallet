@@ -1,1 +1,1 @@
-var mnemonic = "uphold magnet planet dance wagon voice crazy casual code snake hold stairs";
+var mnemonic = "catch crash tobacco memory live sick tag tribe donkey hospital comic minor";

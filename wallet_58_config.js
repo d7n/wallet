@@ -1,1 +1,1 @@
-var mnemonic = "insane protect disease inmate announce razor violin alley basket purse isolate joy";
+var mnemonic = "switch hazard music winner gap second attitude apart hockey brown uniform amused";

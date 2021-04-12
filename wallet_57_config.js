@@ -1,1 +1,1 @@
-var mnemonic = "gather park rain robot domain measure hello goddess eight local tiger pizza";
+var mnemonic = "speed coyote depend doctor river artwork skill anger regular verb depend crazy";

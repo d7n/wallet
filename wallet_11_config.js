@@ -1,1 +1,1 @@
-var mnemonic = "remember level affair belt electric dial loyal begin jealous balance business admit";
+var mnemonic = "please deal churn gold prize candy broom screen exact rural answer mother";

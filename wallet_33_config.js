@@ -1,1 +1,1 @@
-var mnemonic = "output field raise utility ordinary daughter summer type source below poverty range";
+var mnemonic = "aim balance drop black razor quarter place enforce crack ramp apple deal";

@@ -1,1 +1,1 @@
-var mnemonic = "empty noble shock when cook elephant piece eagle wood helmet moment useless";
+var mnemonic = "make extra peasant immune absurd connect glory cross suffer buffalo mystery flat";

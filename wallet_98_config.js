@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin absent long hour near glue rhythm scissors equal shop holiday route";
+var mnemonic = "teach once book fancy hire twice wool coach engine culture knife share";

@@ -1,1 +1,1 @@
-var mnemonic = "van flag segment snow busy umbrella little grape secret kiss wrap spy";
+var mnemonic = "milk country embody match adjust poet pigeon cigar ankle output vote before";

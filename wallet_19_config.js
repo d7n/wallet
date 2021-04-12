@@ -1,1 +1,1 @@
-var mnemonic = "matter twenty area machine comfort own thank budget green advice enrich elite";
+var mnemonic = "food visual mechanic dog hello wash hawk inject mansion useless north shell";

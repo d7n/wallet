@@ -1,1 +1,1 @@
-var mnemonic = "own clap daughter cycle mean leg ordinary kit birth movie eagle rhythm";
+var mnemonic = "trip uncle demand okay reward ahead dice bamboo purse jacket antique short";

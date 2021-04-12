@@ -1,1 +1,1 @@
-var mnemonic = "else lecture yard stadium fluid stone tribe cry dismiss able valid salute";
+var mnemonic = "aisle forget fiber virtual smile oval actor bronze educate pencil emotion beach";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm retire napkin salon oak recipe kiwi walk visa clock excess real";
+var mnemonic = "omit tuition reject episode clap sell army affair work uniform dismiss scout";

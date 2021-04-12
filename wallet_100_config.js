@@ -1,1 +1,1 @@
-var mnemonic = "situate section language join owner hover embark run carbon town lunch clay";
+var mnemonic = "lady switch round lawsuit exhaust notice trim record deny gaze staff grit";

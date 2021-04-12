@@ -1,1 +1,1 @@
-var mnemonic = "jar memory busy time entire turkey over anchor play metal work rug";
+var mnemonic = "evil grace wood desert ketchup join catalog chunk reject area solid web";

@@ -1,1 +1,1 @@
-var mnemonic = "celery tragic hover globe result receive caution capital spin room bulk episode";
+var mnemonic = "hub disorder carry brown token novel border gain upper update fit tongue";

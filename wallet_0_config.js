@@ -1,1 +1,1 @@
-var mnemonic = "avoid attract vibrant rigid van vibrant dutch donor detail arrest goat beyond";
+var mnemonic = "raven leader smart reflect help key category require fiber practice engine share";

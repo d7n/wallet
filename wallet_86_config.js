@@ -1,1 +1,1 @@
-var mnemonic = "magic truck industry panther whisper address prepare bicycle silent vital supply rabbit";
+var mnemonic = "protect video hard room draft obey must surprise child smooth helmet zoo";

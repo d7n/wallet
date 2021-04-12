@@ -1,1 +1,1 @@
-var mnemonic = "verb liberty slow alert assault track music problem captain enough syrup turn";
+var mnemonic = "guilt destroy swarm urge banana hammer profit gather unfold blue photo october";

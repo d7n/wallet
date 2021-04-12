@@ -1,1 +1,1 @@
-var mnemonic = "reopen impact bless open settle disagree aspect army asset figure glance twelve";
+var mnemonic = "picnic tail today resource round lake lab success dutch learn zero address";

@@ -1,1 +1,1 @@
-var mnemonic = "peace thrive ramp top mechanic state strategy choice market maid stable nose";
+var mnemonic = "vivid filter defy joy hurt refuse brave woman inside excuse amount famous";

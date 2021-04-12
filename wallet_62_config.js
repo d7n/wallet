@@ -1,1 +1,1 @@
-var mnemonic = "rare join cancel torch live safe vapor market magnet salad enforce hospital";
+var mnemonic = "arch across seminar attitude reform unit recall elite subway disorder planet document";

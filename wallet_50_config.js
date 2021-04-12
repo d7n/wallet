@@ -1,1 +1,1 @@
-var mnemonic = "genius seed sound document wink cute step please deal judge upper scale";
+var mnemonic = "net maze move tuition hub hole bind float slush lawn service negative";

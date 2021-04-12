@@ -1,1 +1,1 @@
-var mnemonic = "hockey decline organ shock renew weekend admit venture poverty million fruit state";
+var mnemonic = "aim before detect salad focus expose sort nose evidence husband square lake";

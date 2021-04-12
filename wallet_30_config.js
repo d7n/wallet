@@ -1,1 +1,1 @@
-var mnemonic = "old exile earth climb journey lunar survey emerge combine celery poem melt";
+var mnemonic = "print hobby category host gap disorder antenna giggle security wash box tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore learn script tortoise lazy palace patch devote coach vintage also cash";
+var mnemonic = "danger permit captain clump rigid adult catalog divide ketchup away pulp theory";

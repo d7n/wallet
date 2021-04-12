@@ -1,1 +1,1 @@
-var mnemonic = "moment task stone plate rude neither reason coil slender pottery jazz meadow";
+var mnemonic = "color bread law jazz grunt cherry capable pet welcome indicate ice will";

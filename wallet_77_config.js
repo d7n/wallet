@@ -1,1 +1,1 @@
-var mnemonic = "update market polar blanket kit wink avoid torch window oil vacant history";
+var mnemonic = "unaware wine belt release trend polar enough major enforce believe harbor shine";

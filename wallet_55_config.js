@@ -1,1 +1,1 @@
-var mnemonic = "rhythm connect humor lamp okay sustain traffic robot lava first conduct tone";
+var mnemonic = "tongue solve boat miss swallow shrimp income bright coral dog manage industry";

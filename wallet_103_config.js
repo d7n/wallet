@@ -1,1 +1,1 @@
-var mnemonic = "garlic someone sadness pyramid lunch clay sign deal gadget boss budget egg";
+var mnemonic = "shuffle collect grocery knock dove file style expand leopard minimum romance kind";

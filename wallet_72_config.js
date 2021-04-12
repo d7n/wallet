@@ -1,1 +1,1 @@
-var mnemonic = "stone vessel luggage rich test focus virus liberty never either seek acoustic";
+var mnemonic = "woman true lazy enforce supply practice price purpose life exhaust reform initial";

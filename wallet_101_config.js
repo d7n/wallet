@@ -1,1 +1,1 @@
-var mnemonic = "crucial fragile record melody merry tool endorse virtual reward best breeze chief";
+var mnemonic = "act describe view long series hospital grab reveal design match trumpet time";

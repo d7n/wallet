@@ -1,1 +1,1 @@
-var mnemonic = "time pipe thought rice slight dutch scissors eager dial rebel idea lizard";
+var mnemonic = "volcano neglect void until eager jeans kidney young glad fire sheriff buffalo";

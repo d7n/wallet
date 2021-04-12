@@ -1,1 +1,1 @@
-var mnemonic = "job shed repair target expose rebel blanket laundry uphold limit chuckle century";
+var mnemonic = "image tuna meadow impulse tragic quiz exile tomorrow elephant crucial gesture can";

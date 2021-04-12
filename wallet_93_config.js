@@ -1,1 +1,1 @@
-var mnemonic = "true table section axis plastic assault sweet token awake include door weasel";
+var mnemonic = "train before million myself style coach slender congress pig book modify blossom";

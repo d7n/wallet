@@ -1,1 +1,1 @@
-var mnemonic = "square that train flower city solution air peace attend above song spot";
+var mnemonic = "banana front digital safe behind idle fence citizen title differ say detect";

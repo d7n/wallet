@@ -1,1 +1,1 @@
-var mnemonic = "journey alert vault intact level coral original valve sketch width artist submit";
+var mnemonic = "minute exit proof swamp then wolf deputy matter valley quote spare science";

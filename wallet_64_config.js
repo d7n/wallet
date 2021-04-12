@@ -1,1 +1,1 @@
-var mnemonic = "core rose candy erode sad cruel extend squirrel fog purpose enlist treat";
+var mnemonic = "review deliver awful olive carpet legend scrap view raven just praise else";

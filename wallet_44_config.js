@@ -1,1 +1,1 @@
-var mnemonic = "then rose world isolate globe price soda hurdle sort suit leopard obey";
+var mnemonic = "sunny gaze latin robust hip mind sentence oblige decline cliff animal suit";

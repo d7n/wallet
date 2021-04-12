@@ -1,1 +1,1 @@
-var mnemonic = "symbol ridge poverty loop foil impulse goddess wire jazz young first hurdle";
+var mnemonic = "power return rapid vault peanut sort gauge drive bronze desert day damp";

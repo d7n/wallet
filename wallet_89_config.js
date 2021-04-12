@@ -1,1 +1,1 @@
-var mnemonic = "avoid logic clump feel monster donkey enact february blue drill paddle start";
+var mnemonic = "token jazz hint box yellow foam wedding detect spawn better gasp skill";

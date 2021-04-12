@@ -1,1 +1,1 @@
-var mnemonic = "find rebel push shove loop science device supreme jelly window finish chase";
+var mnemonic = "spray vintage bird term suffer nominee joy feed have desert winner lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop guess couch iron list gloom cousin motion pluck embody shine share";
+var mnemonic = "romance tissue shine pair wrestle erase used vacant clock fan admit copy";

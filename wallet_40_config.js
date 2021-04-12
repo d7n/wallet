@@ -1,1 +1,1 @@
-var mnemonic = "sadness uncle filter powder ladder huge garment design wire short advice inflict";
+var mnemonic = "ripple huge issue stable bunker parent truck ahead genius neutral hour observe";

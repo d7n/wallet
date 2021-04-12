@@ -1,1 +1,1 @@
-var mnemonic = "ten script tornado drastic ankle photo donkey female pen slush company bacon";
+var mnemonic = "gas echo task prevent obtain recipe exhaust expire chef fun stuff sea";

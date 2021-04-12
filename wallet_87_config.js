@@ -1,1 +1,1 @@
-var mnemonic = "basket control become kangaroo capable honey cargo cabbage film cost disorder robust";
+var mnemonic = "cook kid wrong attend tattoo detect leader dance private light turtle mesh";

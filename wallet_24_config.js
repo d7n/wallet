@@ -1,1 +1,1 @@
-var mnemonic = "soft kid shallow vacant toward clip title wild person ecology donor badge";
+var mnemonic = "recipe food target empty input rifle battle can fee involve embark clock";

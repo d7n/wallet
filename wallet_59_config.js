@@ -1,1 +1,1 @@
-var mnemonic = "mixture habit ivory pattern degree matter grid believe title thumb square grace";
+var mnemonic = "tourist jelly cost knee honey depend universe diet mouse athlete scrub concert";

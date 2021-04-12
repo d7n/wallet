@@ -1,1 +1,1 @@
-var mnemonic = "neither among fruit nest pen eye fashion share maximum alone also anxiety";
+var mnemonic = "original sunny umbrella mad section correct true arrange panther detect planet banana";

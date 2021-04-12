@@ -1,1 +1,1 @@
-var mnemonic = "elbow bullet clean bring park move bonus earth swarm acquire indicate inhale";
+var mnemonic = "police sure upset mammal arch swallow hybrid remind palace stock rare proof";

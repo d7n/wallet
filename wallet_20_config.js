@@ -1,1 +1,1 @@
-var mnemonic = "inquiry diet submit prevent aisle allow prefer fringe head save foil uniform";
+var mnemonic = "collect labor goose inner boat online sea tortoise outdoor sunny october soup";

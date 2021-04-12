@@ -1,1 +1,1 @@
-var mnemonic = "course deposit crime just write eye various village country donkey monitor layer";
+var mnemonic = "later junior elevator latin source harvest arena tooth mutual glide foot prevent";

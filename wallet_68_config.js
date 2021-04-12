@@ -1,1 +1,1 @@
-var mnemonic = "planet actor sheriff train oyster rent champion maid involve shy blue riot";
+var mnemonic = "grab enjoy lobster winter fit skin whale hybrid follow power move electric";

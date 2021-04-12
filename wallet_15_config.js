@@ -1,1 +1,1 @@
-var mnemonic = "bottom polar couch fringe wife awake remember cinnamon chief barely maze pink";
+var mnemonic = "lounge anchor spray address glance pink alert object warfare funny february damp";

@@ -1,1 +1,1 @@
-var mnemonic = "casino theory prize concert hobby icon quick venture embody hip february whip";
+var mnemonic = "silver cargo bus double coil rib police case wide clutch urge arrow";

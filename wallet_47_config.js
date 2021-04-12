@@ -1,1 +1,1 @@
-var mnemonic = "radio fringe mechanic height select ride pet blush slow earth limit attract";
+var mnemonic = "ten talent popular identify spider feel sustain wet push social detail galaxy";

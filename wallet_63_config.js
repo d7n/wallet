@@ -1,1 +1,1 @@
-var mnemonic = "unfair item physical vapor guitar motor hill siege hamster knee obey cram";
+var mnemonic = "response ankle lecture jelly riot dune unfold liberty tiger fog sphere reopen";

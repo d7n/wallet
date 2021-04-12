@@ -1,1 +1,1 @@
-var mnemonic = "brown prison appear into document era repair immune book category razor exchange";
+var mnemonic = "staff online spare book surprise tomato lift fun pipe hole myth obey";

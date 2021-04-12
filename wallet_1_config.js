@@ -1,1 +1,1 @@
-var mnemonic = "skill thought twenty elegant prepare drum baby tell luxury trash kangaroo claw";
+var mnemonic = "army soldier top mean insane width fix kangaroo amused very exercise purchase";

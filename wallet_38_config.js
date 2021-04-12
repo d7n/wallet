@@ -1,1 +1,1 @@
-var mnemonic = "punch fix faint immense cabin shrug coyote birth fuel canyon victory open";
+var mnemonic = "march flower cover like patient venture street success rebel evoke cool pave";

@@ -1,1 +1,1 @@
-var mnemonic = "sail pizza slot hawk major silent tilt purity clog execute false pole";
+var mnemonic = "divorce horn alert pig eternal funny prevent furnace ordinary grit decorate turkey";

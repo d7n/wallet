@@ -1,1 +1,1 @@
-var mnemonic = "truth top slow piece express team lizard accident unveil supreme nuclear dog";
+var mnemonic = "liar observe fire elephant later usual trash focus bright pyramid melt life";

@@ -1,1 +1,1 @@
-var mnemonic = "usage squirrel warm little fabric neither sketch wrestle menu dose hour hawk";
+var mnemonic = "shaft surge sad boat nerve dream cable cable alcohol skull attitude employ";

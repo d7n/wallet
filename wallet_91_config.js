@@ -1,1 +1,1 @@
-var mnemonic = "grit symbol picture myself wrong fame lawsuit silent addict teach surge pool";
+var mnemonic = "board purity swap staff clean that obtain essay example dawn leave answer";

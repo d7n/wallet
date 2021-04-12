@@ -1,1 +1,1 @@
-var mnemonic = "dream tilt wool salmon void magnet upon tip patrol note relief surprise";
+var mnemonic = "nut fluid aisle mother crucial burger asset nasty number grow ramp push";

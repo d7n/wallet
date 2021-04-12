@@ -1,1 +1,1 @@
-var mnemonic = "version mango bridge disagree little maximum until solve sample enjoy wagon filter";
+var mnemonic = "knee plate they chef bean guitar clutch attack finish version ceiling anchor";

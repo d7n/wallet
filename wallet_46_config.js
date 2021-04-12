@@ -1,1 +1,1 @@
-var mnemonic = "pool alpha dizzy puzzle bounce tree wise comic idle build front flash";
+var mnemonic = "pet regret reunion soon casino fringe view donor produce tenant milk candy";

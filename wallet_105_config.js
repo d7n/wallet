@@ -1,1 +1,1 @@
-var mnemonic = "sentence matter stadium valve gaze gain allow proud finger total select abuse";
+var mnemonic = "habit swap gold chicken tongue allow that symbol pond rib bar arrow";

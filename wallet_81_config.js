@@ -1,1 +1,1 @@
-var mnemonic = "ignore december produce fame quiz moon kid word seed grief cherry pull";
+var mnemonic = "share dignity display delay afford hen supreme economy chuckle turkey symbol pool";

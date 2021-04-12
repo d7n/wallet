@@ -1,1 +1,1 @@
-var mnemonic = "skin region wrist family nation sniff meat turn spell enact rabbit card";
+var mnemonic = "saddle rain share catalog chef father tank struggle burger village food comic";

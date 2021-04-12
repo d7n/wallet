@@ -1,1 +1,1 @@
-var mnemonic = "language phone asthma define fury key heavy oblige siege shine orphan cliff";
+var mnemonic = "cloud calm armor ready erode soccer sister fit estate state discover anxiety";

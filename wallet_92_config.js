@@ -1,1 +1,1 @@
-var mnemonic = "peanut ready march gather silver only grief now guide disorder language birth";
+var mnemonic = "save spend inch head bicycle shop copper chuckle lawn reflect quote predict";

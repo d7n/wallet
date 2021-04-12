@@ -1,1 +1,1 @@
-var mnemonic = "affair grit give cactus stumble poet more soda smart forum motor hamster";
+var mnemonic = "unaware judge possible beauty harbor mail pond debate prison iron skull sort";

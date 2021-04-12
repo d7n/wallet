@@ -1,1 +1,1 @@
-var mnemonic = "element lemon toy moment busy vibrant wall quick bag mushroom prefer exercise";
+var mnemonic = "breeze raw gather beauty drift hello leg damage grunt alarm giraffe struggle";
