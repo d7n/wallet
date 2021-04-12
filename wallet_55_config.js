@@ -1,1 +1,1 @@
-var mnemonic = "fade arm humble hope kiss squirrel print cram ranch mercy dog post";
+var mnemonic = "wide violin jazz parade man title carpet hedgehog meadow erode crowd melody";

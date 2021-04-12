@@ -1,1 +1,1 @@
-var mnemonic = "clay friend lottery monkey patch device donkey pass junk turn cloth grace";
+var mnemonic = "zone bulb lamp six weasel search frown shine grab wait tissue insane";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest sweet near require regret impulse leader phrase tornado receive cage inject";
+var mnemonic = "test elder captain crash morning island priority rate erase tube people velvet";

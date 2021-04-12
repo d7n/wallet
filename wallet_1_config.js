@@ -1,1 +1,1 @@
-var mnemonic = "music dose banner pelican ribbon cancel census proof hamster menu fault cable";
+var mnemonic = "security answer what trash gentle orient month auto into defy donkey book";

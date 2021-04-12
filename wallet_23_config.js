@@ -1,1 +1,1 @@
-var mnemonic = "digital magnet legal together shove boring shuffle frame game catch drink gym";
+var mnemonic = "virtual ranch correct boss pony exchange snack rain route drink zebra gesture";

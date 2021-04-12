@@ -1,1 +1,1 @@
-var mnemonic = "flag fitness pride jelly love ignore reunion bright dolphin ethics garment urge";
+var mnemonic = "ankle reason grit sample list spatial rule sort drill buyer casino soup";

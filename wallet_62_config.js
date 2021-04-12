@@ -1,1 +1,1 @@
-var mnemonic = "quit amazing harsh suspect mouse blade forget pretty session hollow february like";
+var mnemonic = "foil family expire giraffe bunker aunt recycle easily truly inflict fatal account";

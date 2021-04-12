@@ -1,1 +1,1 @@
-var mnemonic = "group love satisfy lesson hair quarter myself humor since crisp style twin";
+var mnemonic = "earth assume load convince assume fall slim ball excuse pond coast tomorrow";

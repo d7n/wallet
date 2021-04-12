@@ -1,1 +1,1 @@
-var mnemonic = "census rifle float oyster gallery final case desert crop flash foam scrap";
+var mnemonic = "bamboo again mind approve need broccoli damage joy similar vital mother ceiling";

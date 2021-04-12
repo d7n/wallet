@@ -1,1 +1,1 @@
-var mnemonic = "situate equip cereal achieve oil round hamster bronze engage warm strong proud";
+var mnemonic = "diary suffer away wife devote hood alley seat wedding relax hole behave";

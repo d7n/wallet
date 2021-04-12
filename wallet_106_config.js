@@ -1,1 +1,1 @@
-var mnemonic = "replace help reward scan damp pact crime tackle tuition peanut minimum measure";
+var mnemonic = "crazy endless space aspect vapor series morning civil scene among trigger satoshi";

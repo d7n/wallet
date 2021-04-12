@@ -1,1 +1,1 @@
-var mnemonic = "sunny repeat quote allow combine cliff catch position since thought describe maid";
+var mnemonic = "payment marble submit hurdle filter ghost arrive squeeze street assist grain crunch";

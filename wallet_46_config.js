@@ -1,1 +1,1 @@
-var mnemonic = "kitchen better release exchange town gravity glad apple flower noble wheel calm";
+var mnemonic = "deer shift butter rigid cook sail wreck puzzle people wet negative hub";

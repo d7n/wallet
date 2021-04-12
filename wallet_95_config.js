@@ -1,1 +1,1 @@
-var mnemonic = "favorite remind wink ice fish quiz force suit spring notice amused tooth";
+var mnemonic = "endorse oval human grit suspect film void unfold expose short turtle easy";

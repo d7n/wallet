@@ -1,1 +1,1 @@
-var mnemonic = "upon fish hold doctor enlist refuse parade river insane level tail level";
+var mnemonic = "innocent muffin wisdom wasp black crawl obey inherit brother occur mushroom siren";

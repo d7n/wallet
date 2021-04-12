@@ -1,1 +1,1 @@
-var mnemonic = "water funny team right polar inner later glass bamboo spoon bamboo renew";
+var mnemonic = "payment stem fish liar fold patient smoke front slab bring latin term";

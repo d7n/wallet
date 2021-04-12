@@ -1,1 +1,1 @@
-var mnemonic = "fly beef opera worth sense carpet ahead ridge disorder zebra check coast";
+var mnemonic = "pistol goose wrist measure luggage february churn cash box brown retire human";

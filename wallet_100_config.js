@@ -1,1 +1,1 @@
-var mnemonic = "surge change hand soon april plug member fade devote coyote detect spirit";
+var mnemonic = "skin control quick adult wrestle charge cruise swarm ill grab way minute";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic defense swim father run breeze swing liberty original arrive task couple";
+var mnemonic = "cabin mosquito layer tattoo tide vast milk dumb thought mango swarm reopen";

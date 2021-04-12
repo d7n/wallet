@@ -1,1 +1,1 @@
-var mnemonic = "caution orphan horse gym syrup zone uphold miracle practice present hollow card";
+var mnemonic = "exotic moral surround screen holiday exist abandon inquiry magic magnet enjoy year";

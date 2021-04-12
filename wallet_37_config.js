@@ -1,1 +1,1 @@
-var mnemonic = "easy piece rather wait citizen iron essence crowd input hire fan faint";
+var mnemonic = "mutual train win medal fashion happy trouble alcohol ethics vibrant vapor glass";

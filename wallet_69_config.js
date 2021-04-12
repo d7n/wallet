@@ -1,1 +1,1 @@
-var mnemonic = "copper network heart soldier leg film farm reason cancel pair ready ankle";
+var mnemonic = "evidence mail unlock green south spawn fly advice despair diamond language unique";

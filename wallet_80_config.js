@@ -1,1 +1,1 @@
-var mnemonic = "forest token recipe gym six civil nose build deal mule detail jar";
+var mnemonic = "seek learn inner light coast umbrella advance sword hole payment shrug today";

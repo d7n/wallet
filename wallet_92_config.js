@@ -1,1 +1,1 @@
-var mnemonic = "chat timber crouch electric amateur edge sport viable noble human song buyer";
+var mnemonic = "kiwi dose cluster gasp foot dutch mother unusual tank violin discover call";

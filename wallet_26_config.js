@@ -1,1 +1,1 @@
-var mnemonic = "cook mixture soon aware magnet inject vital neither congress enough dance debris";
+var mnemonic = "injury space candy grow youth frog transfer toss axis together clown profit";

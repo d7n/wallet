@@ -1,1 +1,1 @@
-var mnemonic = "work bike nose never above web bird prison cancel top world quiz";
+var mnemonic = "cry top satoshi harbor practice liquid swift sting exhibit pond next crouch";

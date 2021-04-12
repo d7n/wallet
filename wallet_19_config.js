@@ -1,1 +1,1 @@
-var mnemonic = "permit nuclear reform undo glove pencil cradle doll velvet track essay slender";
+var mnemonic = "palace pumpkin toilet general another cannon cereal situate happy morning brush witness";

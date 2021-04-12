@@ -1,1 +1,1 @@
-var mnemonic = "betray provide glass border into credit brave pull valve mandate seminar random";
+var mnemonic = "nest bless shine neck must luggage orange tilt spy float pencil foster";

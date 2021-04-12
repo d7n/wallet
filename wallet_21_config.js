@@ -1,1 +1,1 @@
-var mnemonic = "gallery birth tip rude supreme today target hurry benefit enough pole runway";
+var mnemonic = "audit finger earth across squeeze govern position clinic crumble scatter pill donkey";

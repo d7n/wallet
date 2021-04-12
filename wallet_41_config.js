@@ -1,1 +1,1 @@
-var mnemonic = "immune deny field glass crush cactus speed paper income green ugly unusual";
+var mnemonic = "census despair elephant hundred quick utility enter mask please network can income";

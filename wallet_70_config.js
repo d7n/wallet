@@ -1,1 +1,1 @@
-var mnemonic = "muscle board magic flower bunker cotton also adapt orient mistake once valid";
+var mnemonic = "lucky seminar toilet mixed element retire ladder relief cash lava laugh shadow";

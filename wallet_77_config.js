@@ -1,1 +1,1 @@
-var mnemonic = "tobacco step decide snap cupboard purchase admit rely trophy obey mango sheriff";
+var mnemonic = "zero avocado wine base wage monkey evil gain boil ladder argue submit";

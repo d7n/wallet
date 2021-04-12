@@ -1,1 +1,1 @@
-var mnemonic = "neglect fancy circle wheel snack keen angry movie enact wrist unit pluck";
+var mnemonic = "exile loop bless suspect slender moment first trip surround umbrella embark broken";

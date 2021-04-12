@@ -1,1 +1,1 @@
-var mnemonic = "casual club vault excess cabin maximum width spread olive that science cost";
+var mnemonic = "broken anger ivory gather oil uncle girl employ hurry abstract shell inherit";

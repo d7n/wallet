@@ -1,1 +1,1 @@
-var mnemonic = "exhaust ignore valve phrase acoustic until nerve mind vote huge slam over";
+var mnemonic = "ladder wrap alley dynamic upset envelope sadness either skin legend obvious scissors";

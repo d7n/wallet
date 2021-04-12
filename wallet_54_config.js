@@ -1,1 +1,1 @@
-var mnemonic = "lemon casino tennis fine dragon boring quantum menu scheme law punch report";
+var mnemonic = "assist short gas depth slush express believe crouch box brave hope toss";

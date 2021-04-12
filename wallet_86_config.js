@@ -1,1 +1,1 @@
-var mnemonic = "learn claim cinnamon build book fat puzzle loop record disease machine rifle";
+var mnemonic = "cruise dutch car wrap wheat young grace jelly client crowd man survey";

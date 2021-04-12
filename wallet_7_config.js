@@ -1,1 +1,1 @@
-var mnemonic = "pair coconut ready woman giant special chief another ethics fiber guilt mansion";
+var mnemonic = "alone catch slam negative upset upset web quantum process west cry charge";

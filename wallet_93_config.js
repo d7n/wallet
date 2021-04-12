@@ -1,1 +1,1 @@
-var mnemonic = "diesel dutch myself flock flight famous pool express rebuild into board cargo";
+var mnemonic = "drink resist rough wrap marble boring ginger sound typical judge autumn deer";

@@ -1,1 +1,1 @@
-var mnemonic = "maple almost educate afraid distance siege defense gloom wage way give response";
+var mnemonic = "faculty tilt undo alcohol off select broom clean view cabin orient reform";

@@ -1,1 +1,1 @@
-var mnemonic = "page gossip arctic setup nut solid pony hurdle evoke special obtain pony";
+var mnemonic = "diamond demand nurse close trial fantasy drink abandon work olive eager fancy";

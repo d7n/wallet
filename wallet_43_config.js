@@ -1,1 +1,1 @@
-var mnemonic = "final move clerk object family jazz erosion eight immense apple illegal great";
+var mnemonic = "gown position defy capable food divert flush away net chapter release whip";

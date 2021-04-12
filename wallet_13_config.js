@@ -1,1 +1,1 @@
-var mnemonic = "ten nurse century slim uncover keep father work final copy neglect position";
+var mnemonic = "enroll hamster huge save pyramid price destroy ostrich resemble finish nurse work";

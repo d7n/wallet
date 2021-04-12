@@ -1,1 +1,1 @@
-var mnemonic = "olive ski unusual style name knee inform nasty foster caught exercise chimney";
+var mnemonic = "scissors slam double need cotton eight north wrestle tool cool employ shoot";

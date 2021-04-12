@@ -1,1 +1,1 @@
-var mnemonic = "olympic soap renew page spin obscure crucial nurse negative sell armor early";
+var mnemonic = "enforce square adult inquiry faith suffer keen obscure wild youth way poet";

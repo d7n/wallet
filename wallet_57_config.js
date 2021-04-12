@@ -1,1 +1,1 @@
-var mnemonic = "pupil panda average kiss west nut quiz infant vanish awake mixture radio";
+var mnemonic = "soup affair science swim rack crater canvas book shaft stadium young ugly";

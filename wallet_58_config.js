@@ -1,1 +1,1 @@
-var mnemonic = "method sibling game lake leaf chase huge stable test among verify dash";
+var mnemonic = "present joy air join rack rule broccoli speak ride wise electric split";

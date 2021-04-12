@@ -1,1 +1,1 @@
-var mnemonic = "waste wild brush twist report rain alert success wash broom belt pulp";
+var mnemonic = "bulb success duty puppy race craft humor fence police chicken liquid rain";

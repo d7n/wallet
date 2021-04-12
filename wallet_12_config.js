@@ -1,1 +1,1 @@
-var mnemonic = "document robot slush tunnel flavor kid jeans program winter maid client liberty";
+var mnemonic = "can change summer neglect casual fence there crime address address spot ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "charge certain wire calm empower horse critic snack habit shine leader satoshi";
+var mnemonic = "unusual sphere meat expect champion deposit blur color strong avocado offer urban";

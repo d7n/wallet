@@ -1,1 +1,1 @@
-var mnemonic = "glance vacant magic citizen plunge useless velvet deer wild ecology bag faint";
+var mnemonic = "beyond wait segment slim sound reject garden dragon jar task speed miracle";

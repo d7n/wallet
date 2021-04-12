@@ -1,1 +1,1 @@
-var mnemonic = "uphold satoshi champion pledge weasel deliver frame pool exhibit grant rate helmet";
+var mnemonic = "soap loyal piano fault example visual bind service solar dragon involve shadow";

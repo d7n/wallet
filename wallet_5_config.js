@@ -1,1 +1,1 @@
-var mnemonic = "cliff exchange mule game happy job source wasp worth nominee pumpkin tuna";
+var mnemonic = "math cable camp execute teach member topic visit goddess adult supreme cause";

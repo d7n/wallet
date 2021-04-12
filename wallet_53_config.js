@@ -1,1 +1,1 @@
-var mnemonic = "snow tackle lunch guess glide sunset say nose session rapid engine pretty";
+var mnemonic = "horror critic gauge pen ankle lounge egg swear sausage fine abuse goose";

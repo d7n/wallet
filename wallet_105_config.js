@@ -1,1 +1,1 @@
-var mnemonic = "wheel menu lunar pudding bus flat chest lecture tube practice typical month";
+var mnemonic = "field cat pact priority draft cheese stone brass coffee body story exhaust";

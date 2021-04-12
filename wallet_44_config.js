@@ -1,1 +1,1 @@
-var mnemonic = "catch merry pink describe three virtual flush conduct antenna business flag narrow";
+var mnemonic = "pull salt nuclear vintage treat unusual drop wedding vote trip world echo";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble spot march ceiling permit sunny can because tiny stove borrow knife";
+var mnemonic = "verify pyramid general mechanic sort dress record club talent sniff sudden duck";

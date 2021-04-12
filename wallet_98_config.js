@@ -1,1 +1,1 @@
-var mnemonic = "vital paper album lazy ordinary style someone limit picnic gasp river cluster";
+var mnemonic = "top sniff category supreme nurse deposit help wage obtain virus club series";

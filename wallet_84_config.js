@@ -1,1 +1,1 @@
-var mnemonic = "guess endorse car rather cause million fiscal build borrow salad puzzle embrace";
+var mnemonic = "crawl ramp zero ordinary leave poet absurd enhance present dove fashion need";

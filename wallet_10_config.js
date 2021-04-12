@@ -1,1 +1,1 @@
-var mnemonic = "shrug suffer mix major satisfy quit earn gym ozone donkey combine primary";
+var mnemonic = "marble birth zone load admit inject pigeon short desk need love course";

@@ -1,1 +1,1 @@
-var mnemonic = "mean nasty flag explain village alien industry solid ozone riot receive build";
+var mnemonic = "crisp crumble legend deal attitude suspect hobby oil eye puppy conduct type";

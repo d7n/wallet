@@ -1,1 +1,1 @@
-var mnemonic = "dutch possible tumble ship vintage throw grief nominee comic bulk palm reflect";
+var mnemonic = "penalty spirit hammer midnight turn margin concert blood endless vault thrive patient";

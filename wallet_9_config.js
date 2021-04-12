@@ -1,1 +1,1 @@
-var mnemonic = "rural quality enroll universe toilet above rice cycle ride off nation nominee";
+var mnemonic = "peace then planet despair seat island drift era produce flame balance donate";

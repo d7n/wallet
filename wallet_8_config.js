@@ -1,1 +1,1 @@
-var mnemonic = "club gold term alcohol hidden mango pact noble worry champion jump label";
+var mnemonic = "math achieve urge craft aunt mail spoon design month kangaroo hero price";

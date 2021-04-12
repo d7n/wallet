@@ -1,1 +1,1 @@
-var mnemonic = "exotic ketchup team cream winner insane dry range dolphin capital maid hobby";
+var mnemonic = "whale romance follow lawn true market address solid once nurse bridge meat";

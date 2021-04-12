@@ -1,1 +1,1 @@
-var mnemonic = "monkey zebra below core annual cage rack panic slender lobster purpose suspect";
+var mnemonic = "exchange weird ice quality wealth verb shrimp noise uncover idle trial cover";

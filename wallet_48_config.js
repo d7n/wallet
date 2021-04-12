@@ -1,1 +1,1 @@
-var mnemonic = "kind pony slogan script drum clutch health soda hurdle column world okay";
+var mnemonic = "honey there nose elevator price magic review team word casual rice wish";

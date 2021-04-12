@@ -1,1 +1,1 @@
-var mnemonic = "piano cinnamon narrow bargain glue praise secret clown link wrist surface pond";
+var mnemonic = "stage rapid fall exile bonus result company visit argue equal bus income";

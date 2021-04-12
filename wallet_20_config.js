@@ -1,1 +1,1 @@
-var mnemonic = "purpose another describe soft rack trophy century chief write prepare thumb pill";
+var mnemonic = "want settle leaf hedgehog wait tuna short roast useless total pupil myth";

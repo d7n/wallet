@@ -1,1 +1,1 @@
-var mnemonic = "gasp sing subway couple sphere boost olive index manual miss way novel";
+var mnemonic = "forum cook size verify noodle stool object action floor inject scrap else";

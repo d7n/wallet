@@ -1,1 +1,1 @@
-var mnemonic = "mean emerge ring calm deer upon suggest helmet security enable wage valve";
+var mnemonic = "awful tonight excuse frozen weasel era cable frozen wine unfold very work";

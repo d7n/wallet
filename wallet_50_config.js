@@ -1,1 +1,1 @@
-var mnemonic = "chicken chimney furnace push expire wide pair chat debate sentence exact device";
+var mnemonic = "approve mountain gravity rib gospel mix market test habit mechanic edge cream";

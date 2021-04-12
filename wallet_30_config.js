@@ -1,1 +1,1 @@
-var mnemonic = "snake vital dove thrive mom autumn resist abstract lava scene across laugh";
+var mnemonic = "proof total follow knock twenty huge music arch tail want layer enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge include unfair just mosquito butter unusual sound muffin random inform fit";
+var mnemonic = "matter major mandate before orange slush quit cigar jacket liar grid pitch";

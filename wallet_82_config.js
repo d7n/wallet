@@ -1,1 +1,1 @@
-var mnemonic = "similar satisfy brass ripple kitten whale ostrich glue mass summer slot verb";
+var mnemonic = "nut until capital thrive forget orbit bus tone copper analyst shrimp parent";

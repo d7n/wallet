@@ -1,1 +1,1 @@
-var mnemonic = "exhaust curtain plate right staff gaze find depart topple puppy tower stomach";
+var mnemonic = "empty water anger carbon oxygen gain only kangaroo oven elbow gasp cart";

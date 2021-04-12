@@ -1,1 +1,1 @@
-var mnemonic = "core human agree couch rich absent bottom cost common shy cruise couch";
+var mnemonic = "speed upset mimic planet asthma despair cherry helmet letter mandate amount waste";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck corn escape video play same illegal spoil satisfy design visa sentence";
+var mnemonic = "sibling armor indicate monitor caution bus clever private unaware clap icon pizza";

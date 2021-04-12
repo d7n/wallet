@@ -1,1 +1,1 @@
-var mnemonic = "cover soda organ owner jaguar gain despair strategy carpet cram truth swarm";
+var mnemonic = "close tuna fluid sleep naive soft rookie science index hour shift faint";

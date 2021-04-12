@@ -1,1 +1,1 @@
-var mnemonic = "holiday key mercy buddy degree range coconut floor credit sample excuse west";
+var mnemonic = "mansion strategy clean fire attack crop wage prison wild unknown width try";

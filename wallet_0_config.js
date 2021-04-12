@@ -1,1 +1,1 @@
-var mnemonic = "fiscal blanket iron limit tail cute skill deliver edit wise art letter";
+var mnemonic = "garden manage table decrease potato version wait walnut fall father web salad";

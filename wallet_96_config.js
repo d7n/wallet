@@ -1,1 +1,1 @@
-var mnemonic = "grant dash evil glimpse pencil biology sad identify title family episode must";
+var mnemonic = "vibrant observe poet quick damage lamp boost taxi market poverty token used";

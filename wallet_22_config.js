@@ -1,1 +1,1 @@
-var mnemonic = "curious feature sorry indicate pair pluck hospital pencil atom junior client aunt";
+var mnemonic = "erupt fun awful party entry scrap ski talent melody indoor leader undo";

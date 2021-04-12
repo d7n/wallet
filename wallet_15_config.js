@@ -1,1 +1,1 @@
-var mnemonic = "chase draft enforce aspect slush shiver metal taste aware daring turtle velvet";
+var mnemonic = "scrap clinic ostrich satoshi unit rhythm outside liar twice lunch sorry ginger";

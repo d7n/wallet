@@ -1,1 +1,1 @@
-var mnemonic = "clog undo walk scatter gown wheel robust regular rabbit grunt soccer jacket";
+var mnemonic = "assume soccer file journey length sheriff salt apple wheel nasty delay obtain";

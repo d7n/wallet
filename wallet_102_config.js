@@ -1,1 +1,1 @@
-var mnemonic = "noble immune any ugly lawsuit rose congress cycle device life mind wave";
+var mnemonic = "material rude broccoli hello design apple robust immune emotion transfer staff seminar";

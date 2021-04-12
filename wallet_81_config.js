@@ -1,1 +1,1 @@
-var mnemonic = "scatter venue castle decrease fatigue banner purpose need village mimic teach alcohol";
+var mnemonic = "group unit syrup utility join grief math render relief poet glad detect";

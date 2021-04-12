@@ -1,1 +1,1 @@
-var mnemonic = "blossom leave liberty flavor saddle place brick between chaos odor find motor";
+var mnemonic = "lottery remove feature ostrich sick dice doll mother useful abuse theory key";

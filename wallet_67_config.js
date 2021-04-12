@@ -1,1 +1,1 @@
-var mnemonic = "spawn smooth seminar morning genius mandate rural defy now code fragile electric";
+var mnemonic = "spot lyrics theme claim spell math economy funny wave inspire steak unaware";

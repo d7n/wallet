@@ -1,1 +1,1 @@
-var mnemonic = "opera hill assume flip milk desk hood indicate street little spoon plate";
+var mnemonic = "slogan web bird creek season rapid sudden smoke pretty pipe smooth battle";

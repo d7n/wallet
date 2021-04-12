@@ -1,1 +1,1 @@
-var mnemonic = "fragile cupboard drill strike post cherry again fortune hard curve law alien";
+var mnemonic = "awful rare process middle brain song fine wreck arrow once whip soon";

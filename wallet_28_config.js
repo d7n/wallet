@@ -1,1 +1,1 @@
-var mnemonic = "transfer catalog suit casino blur sword pulp rent apple puzzle pet hurry";
+var mnemonic = "clever witness alley artefact orchard afraid remove isolate casual coin drastic room";

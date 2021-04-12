@@ -1,1 +1,1 @@
-var mnemonic = "armor very define thought ancient actress embark distance attack fox motor scatter";
+var mnemonic = "pig disagree toe furnace deny sentence clever comic inspire tip drill around";

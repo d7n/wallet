@@ -1,1 +1,1 @@
-var mnemonic = "rail lobster deliver firm fresh wolf alcohol green step stumble portion source";
+var mnemonic = "evil aware author ozone valid first wink elevator holiday hurt eternal group";
