@@ -1,1 +1,1 @@
-var mnemonic = "sound suit easily clap toast pass canvas lucky galaxy cherry song client";
+var mnemonic = "sport umbrella crouch timber total nation vicious bottom abandon candy short spread";

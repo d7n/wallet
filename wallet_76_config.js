@@ -1,1 +1,1 @@
-var mnemonic = "captain ancient yard creek layer kidney space alpha antique then private crisp";
+var mnemonic = "boss sweet supply media tilt quiz chaos peace wild theory seven alarm";

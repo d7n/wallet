@@ -1,1 +1,1 @@
-var mnemonic = "raccoon upset foam congress fame depend alarm army collect gospel jelly scrap";
+var mnemonic = "spawn pelican riot pulp friend clay ritual squirrel shrimp ticket immune concert";

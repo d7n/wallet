@@ -1,1 +1,1 @@
-var mnemonic = "destroy wild lucky brush reason sing grief buzz valve long carbon fitness";
+var mnemonic = "jeans grape cherry explain end blame couple opera odor slam bleak salon";

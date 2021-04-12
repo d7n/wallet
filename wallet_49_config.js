@@ -1,1 +1,1 @@
-var mnemonic = "fuel game brave life napkin hub chef catch flight recall armor angle";
+var mnemonic = "opera tired resemble empty promote that auto skin custom jar asset cave";

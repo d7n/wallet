@@ -1,1 +1,1 @@
-var mnemonic = "hammer object else post absent bundle detail language cluster deer praise demise";
+var mnemonic = "daring town swim safe suffer glass huge treat dress october blast start";

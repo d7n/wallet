@@ -1,1 +1,1 @@
-var mnemonic = "bronze banner wild music corn dad sauce actor taxi diesel pen behind";
+var mnemonic = "author mirror replace tray avoid donkey nut exact heart gaze nominee lady";

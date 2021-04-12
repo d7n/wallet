@@ -1,1 +1,1 @@
-var mnemonic = "sweet below under quit vacant atom coyote uphold breeze mercy rabbit choice";
+var mnemonic = "immense hurdle shell skate rough craft guard panic arctic clock exclude elevator";

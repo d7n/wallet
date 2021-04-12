@@ -1,1 +1,1 @@
-var mnemonic = "kidney february live wash green faith hint globe reduce gauge vapor zero";
+var mnemonic = "retire puzzle toast estate spawn exact picture utility notice embody nation label";

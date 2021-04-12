@@ -1,1 +1,1 @@
-var mnemonic = "include visa chair success goddess control transfer jungle decrease expand pilot bright";
+var mnemonic = "august thumb second kit very ready nasty wheat now uniform spoon dust";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy mobile naive tuition pride bounce east water hair rack once bridge";
+var mnemonic = "dolphin duty cluster vehicle faculty april salon little flash web asthma pony";

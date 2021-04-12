@@ -1,1 +1,1 @@
-var mnemonic = "slender choose congress frown congress worry spread paper pull suffer help corn";
+var mnemonic = "miracle warm fun smooth certain august local gesture spy badge soldier woman";

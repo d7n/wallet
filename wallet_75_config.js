@@ -1,1 +1,1 @@
-var mnemonic = "machine paddle autumn sad invest rug logic glad faculty chair inform accuse";
+var mnemonic = "series sign game rug tattoo ordinary actual come scene first run tip";

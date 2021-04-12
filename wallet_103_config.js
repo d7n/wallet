@@ -1,1 +1,1 @@
-var mnemonic = "helmet problem discover jazz tail suffer split toy bubble hat ten admit";
+var mnemonic = "sail party proud recycle make stairs issue message toy rack large love";

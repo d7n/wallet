@@ -1,1 +1,1 @@
-var mnemonic = "solid stairs lunch elevator wise visit nature ethics stage print script joke";
+var mnemonic = "donkey frost sort small success market ball nose notable enjoy song high";

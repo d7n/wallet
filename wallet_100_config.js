@@ -1,1 +1,1 @@
-var mnemonic = "valley enact useful business glue brief leave core buddy shift rug age";
+var mnemonic = "disorder cricket smooth upset oil author lamp flock skill wreck pottery install";

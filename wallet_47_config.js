@@ -1,1 +1,1 @@
-var mnemonic = "tilt any possible anxiety multiply uphold resist rather aim stand stand develop";
+var mnemonic = "broom wild unaware require purity rookie soon price paddle horror forget away";

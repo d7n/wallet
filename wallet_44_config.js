@@ -1,1 +1,1 @@
-var mnemonic = "abuse dentist evidence fame grunt blame pyramid stock grape clutch stage verify";
+var mnemonic = "enable capable state whip anchor stamp banana finger segment coin stable town";

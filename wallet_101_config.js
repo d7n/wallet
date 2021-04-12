@@ -1,1 +1,1 @@
-var mnemonic = "join rose also fall around manage draw knee couple device claw fold";
+var mnemonic = "milk animal unfair number indicate skill toast right hundred absurd arch public";

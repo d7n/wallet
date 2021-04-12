@@ -1,1 +1,1 @@
-var mnemonic = "walk train hat appear umbrella wear goose wide conduct round case unusual";
+var mnemonic = "vocal service ski identify you talk body language weird cigar follow fan";

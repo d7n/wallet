@@ -1,1 +1,1 @@
-var mnemonic = "opinion fury absurd diary chicken slow school endorse endless office risk lumber";
+var mnemonic = "icon health rich vacuum obvious become rough stomach arm miracle portion elephant";

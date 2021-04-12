@@ -1,1 +1,1 @@
-var mnemonic = "avocado aim result wagon supreme secret tourist bridge news extend silly shiver";
+var mnemonic = "ecology mail maximum way actor jeans kid annual tilt expect rail typical";

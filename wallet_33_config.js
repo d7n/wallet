@@ -1,1 +1,1 @@
-var mnemonic = "soccer verb motion urge animal outdoor jungle hip sport violin bottom viable";
+var mnemonic = "include such helmet lamp dragon piano before moral strong luggage wash example";

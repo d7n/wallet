@@ -1,1 +1,1 @@
-var mnemonic = "blush device erase plate twin gas strong work brush gift sheriff subway";
+var mnemonic = "pulse pudding wrist unknown region cabbage goddess forest city liberty fashion connect";

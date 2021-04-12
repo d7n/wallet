@@ -1,1 +1,1 @@
-var mnemonic = "ordinary door found balance advice suffer report shrug thought brief agree wish";
+var mnemonic = "bomb blur upset split open post option off bullet memory kid sleep";

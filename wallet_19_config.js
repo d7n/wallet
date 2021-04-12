@@ -1,1 +1,1 @@
-var mnemonic = "owner vapor dash key net ride feature clown demise team private credit";
+var mnemonic = "wing similar scrub push broom yellow enhance orbit call picture special leisure";

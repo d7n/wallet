@@ -1,1 +1,1 @@
-var mnemonic = "online grow private pluck fox office drama nothing trouble world chef sting";
+var mnemonic = "poem vast flee hedgehog quarter advice earn unknown brand glare gown exit";

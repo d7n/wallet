@@ -1,1 +1,1 @@
-var mnemonic = "sibling demise cause laundry miss pelican casino forest repeat shiver cousin parent";
+var mnemonic = "alert divide blur snap gloom pull cube horn winner cannon receive nasty";

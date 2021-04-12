@@ -1,1 +1,1 @@
-var mnemonic = "orphan angry admit pilot tunnel baby resemble safe increase hope place become";
+var mnemonic = "group dawn faint toy web panda escape cattle success mirror layer chest";

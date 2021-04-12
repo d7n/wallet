@@ -1,1 +1,1 @@
-var mnemonic = "range ivory awful betray quote math hundred unique lens nation bomb race";
+var mnemonic = "soldier wood cause quarter strike find also sphere outer globe summer group";

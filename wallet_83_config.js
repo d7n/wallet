@@ -1,1 +1,1 @@
-var mnemonic = "super fabric globe segment lab subject remind salon cause puzzle raccoon food";
+var mnemonic = "auto clap inhale replace like strong topic electric icon license open stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "foot common recycle sleep steel wagon absorb laundry hold enhance ghost remind";
+var mnemonic = "famous degree chair clinic seat member kiss same dawn praise supreme potato";

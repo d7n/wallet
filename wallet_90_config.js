@@ -1,1 +1,1 @@
-var mnemonic = "basic unusual elephant image town symptom dress midnight long admit under muscle";
+var mnemonic = "family plastic lock scorpion olympic need exotic reason body clip scale midnight";

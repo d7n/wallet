@@ -1,1 +1,1 @@
-var mnemonic = "gas clap switch melt tube woman other story deny way arrange tell";
+var mnemonic = "artwork spend notable apart story keep network series stereo bachelor ill cabin";

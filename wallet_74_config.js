@@ -1,1 +1,1 @@
-var mnemonic = "depart slab junior ghost clarify join ready wall demand puzzle member rescue";
+var mnemonic = "inside fee bread envelope tiny exhibit column brown grass rural tell asset";

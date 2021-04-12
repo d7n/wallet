@@ -1,1 +1,1 @@
-var mnemonic = "rug walnut mountain interest exit ski entry fringe satisfy consider cake jacket";
+var mnemonic = "pyramid alert slender dumb kiwi harvest robust wink angry dumb degree desert";

@@ -1,1 +1,1 @@
-var mnemonic = "filter gossip soup rebel spend permit business gap receive annual unhappy culture";
+var mnemonic = "ahead flee glory measure dumb pretty nominee awesome world bridge picture win";

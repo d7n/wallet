@@ -1,1 +1,1 @@
-var mnemonic = "real sound name guitar smoke similar pudding ivory derive road awful multiply";
+var mnemonic = "patrol carpet inflict gap any release advance matter dynamic prepare shoulder normal";

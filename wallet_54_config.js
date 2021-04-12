@@ -1,1 +1,1 @@
-var mnemonic = "square truck simple image access protect rotate cake zone avoid turkey uncover";
+var mnemonic = "arena repair goat actor position history usual steak pattern push pride title";

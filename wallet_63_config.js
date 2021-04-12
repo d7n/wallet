@@ -1,1 +1,1 @@
-var mnemonic = "panel brief violin author you flee put upgrade motor exclude sea legend";
+var mnemonic = "avoid explain sea deputy will mango saddle grit maximum trust speed park";

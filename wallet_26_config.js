@@ -1,1 +1,1 @@
-var mnemonic = "maple ignore flip opera skate mean prosper comfort oven fee settle artefact";
+var mnemonic = "unfold tortoise casino trash screen please one aerobic will upgrade million course";

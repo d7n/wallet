@@ -1,1 +1,1 @@
-var mnemonic = "situate dinosaur salmon promote castle little sing remove hurt turkey cinnamon pave";
+var mnemonic = "wonder burst shine lizard current belt happy gain sweet typical immense gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup pass match oyster canal toddler eager mountain moral uncover dinner grief";
+var mnemonic = "observe flag stick dance turtle bamboo remove asset all anxiety helmet vivid";

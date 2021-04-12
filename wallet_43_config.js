@@ -1,1 +1,1 @@
-var mnemonic = "divert elegant cheese proof stove adult open public plunge ridge snap sting";
+var mnemonic = "gauge tobacco inspire travel orange lucky kiwi sudden essence sand believe smoke";

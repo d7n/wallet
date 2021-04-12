@@ -1,1 +1,1 @@
-var mnemonic = "sentence coral race absorb price trim medal grain cage bacon kid shaft";
+var mnemonic = "trust element pigeon can total unit direct private filter similar movie country";

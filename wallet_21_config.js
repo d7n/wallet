@@ -1,1 +1,1 @@
-var mnemonic = "retreat notable trap gaze nut shaft pulp fee card runway crumble unlock";
+var mnemonic = "amount obvious pretty arctic diary clarify pencil cluster garage average estate tissue";

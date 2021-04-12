@@ -1,1 +1,1 @@
-var mnemonic = "tunnel vault rail cruel slim fluid breeze transfer chaos cluster trade canal";
+var mnemonic = "cradle topple menu ivory legal early deny doll upper move between cash";

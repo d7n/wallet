@@ -1,1 +1,1 @@
-var mnemonic = "artwork upset surprise prize dentist bounce muscle latin outdoor waste uncover bean";
+var mnemonic = "rose essence cruel purpose away thrive memory gym current frost coil planet";

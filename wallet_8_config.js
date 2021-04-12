@@ -1,1 +1,1 @@
-var mnemonic = "drama hour jump impulse solar all dose orient vintage gloom strike circle";
+var mnemonic = "return sail faculty arrange idle feed large girl lab grab mixture organ";

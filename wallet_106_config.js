@@ -1,1 +1,1 @@
-var mnemonic = "edit rural dice crater any half swarm pigeon asthma manage affair organ";
+var mnemonic = "expand fatal make bind bird puzzle possible device wide forum upset decide";

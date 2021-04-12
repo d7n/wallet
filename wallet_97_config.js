@@ -1,1 +1,1 @@
-var mnemonic = "print model example dilemma melt giggle boost trip polar celery pony ivory";
+var mnemonic = "jealous target avocado armed doctor sweet robot trick express cram master cash";

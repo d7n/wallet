@@ -1,1 +1,1 @@
-var mnemonic = "tackle already scan pen actual end luggage put come endless man option";
+var mnemonic = "chat vintage vast cry lizard master cool blame okay weather figure success";

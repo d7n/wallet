@@ -1,1 +1,1 @@
-var mnemonic = "digital dial action lemon certain history leave style initial urban obscure dust";
+var mnemonic = "cradle hover identify angry inherit put hover close abuse lava element dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar soft flavor century entry page brown amazing ecology super trigger key";
+var mnemonic = "maple fancy farm mobile slide garden gospel minor quick roof saddle rapid";

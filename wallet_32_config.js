@@ -1,1 +1,1 @@
-var mnemonic = "market nest derive fringe hunt digital flight drama voyage riot victory either";
+var mnemonic = "senior crouch ill tuna cook planet adult hurry wish tattoo naive define";

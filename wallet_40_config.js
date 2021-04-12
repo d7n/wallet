@@ -1,1 +1,1 @@
-var mnemonic = "blush popular cherry memory bicycle van hamster weather settle enemy truck install";
+var mnemonic = "derive legal fiber shock swear bag curious rate year blossom belt empty";

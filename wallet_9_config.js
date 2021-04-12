@@ -1,1 +1,1 @@
-var mnemonic = "apology junk audit kind please health hospital hedgehog online join grape crystal";
+var mnemonic = "spoil bar tail govern prevent cube measure pet fuel leopard cheese health";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco gun hotel crack load relief blast match post group unique device";
+var mnemonic = "height either talent alert almost lawsuit surprise peasant payment satisfy coral nephew";

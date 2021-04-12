@@ -1,1 +1,1 @@
-var mnemonic = "dynamic quantum remain weasel effort girl palm swim agree delay coin educate";
+var mnemonic = "motor kangaroo during later kiwi punch emerge armed sense pudding meat cash";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram connect gravity cereal piece punch deliver olympic faint mammal pyramid horn";
+var mnemonic = "topic frost silly sense trophy capital speak crime grunt exclude fox reward";

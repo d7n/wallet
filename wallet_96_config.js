@@ -1,1 +1,1 @@
-var mnemonic = "feature jewel fiscal omit scissors tourist unfold print prize garden pudding picnic";
+var mnemonic = "uniform cute steak bonus midnight rule sort shock alcohol obscure risk cabin";

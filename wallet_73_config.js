@@ -1,1 +1,1 @@
-var mnemonic = "horse farm miracle develop clarify catch aspect farm oak food fiction stumble";
+var mnemonic = "ice wheel ripple expose actor north enough toward labor hybrid shy clock";

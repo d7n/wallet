@@ -1,1 +1,1 @@
-var mnemonic = "wagon eagle display century ugly noise wheel reopen usage until moon often";
+var mnemonic = "protect abuse gas embrace habit path middle cat mechanic life decrease trophy";

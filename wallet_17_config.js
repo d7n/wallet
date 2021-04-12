@@ -1,1 +1,1 @@
-var mnemonic = "yellow sleep eyebrow shock barely outdoor public repeat judge budget harsh garage";
+var mnemonic = "include treat visit elite that anchor gossip like empty put road crumble";

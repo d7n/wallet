@@ -1,1 +1,1 @@
-var mnemonic = "power marriage plate prize rally list oyster potato impact drink effort eagle";
+var mnemonic = "grain better give permit unlock dignity multiply coyote summer wisdom mesh fit";

@@ -1,1 +1,1 @@
-var mnemonic = "creek where jar donkey coil cricket food same minute chronic valley day";
+var mnemonic = "capital sauce region insane yard hobby youth cool broken winter unit scorpion";

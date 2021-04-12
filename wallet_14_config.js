@@ -1,1 +1,1 @@
-var mnemonic = "story torch jar sister toast giant scissors winner jelly hurt cherry prison";
+var mnemonic = "guitar blind much pumpkin snack kit dash base notable nut debris utility";

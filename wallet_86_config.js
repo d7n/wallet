@@ -1,1 +1,1 @@
-var mnemonic = "crash artist grief crisp very tired holiday naive indoor smile unique frown";
+var mnemonic = "inner fly miss hope lend insect permit drop pudding file floor inside";

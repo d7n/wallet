@@ -1,1 +1,1 @@
-var mnemonic = "guitar pig run caution envelope abuse clerk fan aware curtain what tobacco";
+var mnemonic = "palace timber ahead explain head garment normal melt acquire myth bronze float";

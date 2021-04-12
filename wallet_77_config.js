@@ -1,1 +1,1 @@
-var mnemonic = "reopen surge cube seminar glimpse give match arrange spike endless describe inherit";
+var mnemonic = "use letter bike nephew angle device link great idea web accident cigar";

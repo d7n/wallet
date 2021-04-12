@@ -1,1 +1,1 @@
-var mnemonic = "ill title guitar issue club field certain token wrist blanket ribbon delay";
+var mnemonic = "decrease invest immune tilt police relax brush pottery stay tone project wonder";

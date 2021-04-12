@@ -1,1 +1,1 @@
-var mnemonic = "letter hurt reduce castle video mutual august until slot fee hawk cloth";
+var mnemonic = "subject ancient boring tone mechanic clown special miracle inspire modify nose swift";

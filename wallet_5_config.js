@@ -1,1 +1,1 @@
-var mnemonic = "name million define garbage figure illness fury stuff brass ice draft together";
+var mnemonic = "virus transfer wrap seminar cake damp amused artefact raw soccer typical emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "sport tornado muscle tower solve cushion recall benefit scrap curtain fiscal style";
+var mnemonic = "acoustic depth analyst quiz ostrich yellow mind item quick visual famous hollow";

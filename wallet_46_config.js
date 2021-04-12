@@ -1,1 +1,1 @@
-var mnemonic = "boy tennis school ignore approve fix cancel key planet border income weather";
+var mnemonic = "property cotton demise need loud update ranch canoe top path captain planet";

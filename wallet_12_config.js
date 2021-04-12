@@ -1,1 +1,1 @@
-var mnemonic = "token blush quit you erupt check empower wrap apology link find excess";
+var mnemonic = "slender situate convince onion apology gasp crime drill unable index shed submit";

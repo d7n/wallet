@@ -1,1 +1,1 @@
-var mnemonic = "mango index sausage great cram remember try yard blast marble spatial achieve";
+var mnemonic = "belt bone apology drift crime labor tower leaf cheese owner bean draft";

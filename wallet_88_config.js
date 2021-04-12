@@ -1,1 +1,1 @@
-var mnemonic = "manage fade drink win grid salad trim promote floor confirm black gospel";
+var mnemonic = "nose shell grocery supreme output tray kitten crime pistol turn walk seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "need bomb civil bike edge pupil spike avoid glare palace empower lock";
+var mnemonic = "leader people give fun vintage pyramid anxiety arch smoke cup armed sport";
