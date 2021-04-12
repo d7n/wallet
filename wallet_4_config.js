@@ -1,1 +1,1 @@
-var mnemonic = "claw runway mass cruise crime action alpha still rescue shrug lesson remove";
+var mnemonic = "game expand hire where snack step truly captain planet cattle glide ranch";

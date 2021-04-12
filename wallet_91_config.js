@@ -1,1 +1,1 @@
-var mnemonic = "alley display olive shoulder purity advance orient tennis across around mushroom series";
+var mnemonic = "sentence say price bulk help fatigue crater honey issue odor coin world";

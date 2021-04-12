@@ -1,1 +1,1 @@
-var mnemonic = "seminar coyote steak document ring lumber sister stumble parade multiply coffee side";
+var mnemonic = "spider solve raven kiwi drive tell pride box dinner subject obvious limit";

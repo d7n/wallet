@@ -1,1 +1,1 @@
-var mnemonic = "enough cactus beyond elephant mouse hedgehog control purpose monkey panic frame great";
+var mnemonic = "sing waste impulse group film muscle potato supreme cactus speed inform verify";

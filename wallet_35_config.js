@@ -1,1 +1,1 @@
-var mnemonic = "govern april media early practice stereo siege burden ten cloud amused wire";
+var mnemonic = "grid oven school curve firm stage deer naive chest quantum obvious clog";

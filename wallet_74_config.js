@@ -1,1 +1,1 @@
-var mnemonic = "burst ritual fatal admit wash aisle across before ice mystery drift wreck";
+var mnemonic = "donkey evidence super sound rifle parade sentence assault million very foam tobacco";

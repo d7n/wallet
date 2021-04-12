@@ -1,1 +1,1 @@
-var mnemonic = "sphere tonight rapid shock faculty clock victory machine margin honey damp glance";
+var mnemonic = "rude pottery opera ivory flame usage kid kick tail boost bicycle general";

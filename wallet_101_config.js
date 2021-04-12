@@ -1,1 +1,1 @@
-var mnemonic = "vacant profit local actor jump stem ability street seed exclude strategy arena";
+var mnemonic = "human sniff pluck bullet nephew visual vintage security regular happy tired pond";

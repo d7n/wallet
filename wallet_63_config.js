@@ -1,1 +1,1 @@
-var mnemonic = "wish evidence output salon cash rack evoke stay want fury finger chicken";
+var mnemonic = "garlic father decade tortoise detect slow photo fall spawn obvious rotate enter";

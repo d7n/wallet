@@ -1,1 +1,1 @@
-var mnemonic = "volume vanish oppose outer maximum essay allow umbrella plastic zone clinic ribbon";
+var mnemonic = "invite legal behind oven lion toe awful social together vacuum derive badge";

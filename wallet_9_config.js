@@ -1,1 +1,1 @@
-var mnemonic = "carpet track eyebrow spring garlic envelope drink pond manage six egg social";
+var mnemonic = "dish romance harbor float body student stuff dirt bronze often common riot";

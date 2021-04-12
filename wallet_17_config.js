@@ -1,1 +1,1 @@
-var mnemonic = "problem goddess kiwi welcome program job soon defense grab swim creek tail";
+var mnemonic = "nasty actress candy parent logic order label awesome fence shrug bird example";

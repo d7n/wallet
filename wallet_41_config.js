@@ -1,1 +1,1 @@
-var mnemonic = "innocent mixed note party symptom kind make auto occur iron pair arch";
+var mnemonic = "project lecture usual marine kiss stage legend basic ripple genuine track used";

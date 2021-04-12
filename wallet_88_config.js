@@ -1,1 +1,1 @@
-var mnemonic = "ranch adult silver attitude guitar people taste smile grant illegal trash build";
+var mnemonic = "attend napkin jump disorder welcome dawn fame hundred glory satoshi enter evoke";

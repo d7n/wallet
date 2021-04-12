@@ -1,1 +1,1 @@
-var mnemonic = "nerve obvious provide stem beyond bag tonight system suit grant imitate tissue";
+var mnemonic = "oyster sand bacon that boss pave exclude net snow awkward access damage";

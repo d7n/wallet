@@ -1,1 +1,1 @@
-var mnemonic = "front hill team sign current crane mobile either jewel airport pitch unfair";
+var mnemonic = "dawn believe able crane usual unique canyon damage media alone trophy slice";

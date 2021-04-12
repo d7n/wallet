@@ -1,1 +1,1 @@
-var mnemonic = "silk ankle attitude tenant owner picture board swear keen female glide impose";
+var mnemonic = "affair obvious insane apple ghost cereal lonely napkin yard source antique item";

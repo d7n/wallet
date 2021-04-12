@@ -1,1 +1,1 @@
-var mnemonic = "bitter primary bone bitter bomb potato blur marriage hurry fork base leisure";
+var mnemonic = "infant erase coral fruit height truly tortoise fence guilt sing elder crawl";

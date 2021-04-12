@@ -1,1 +1,1 @@
-var mnemonic = "obey annual prefer mushroom reform immune write notable spoon doctor merry vote";
+var mnemonic = "join embark about zero sight afraid lady cargo burden muffin panel note";

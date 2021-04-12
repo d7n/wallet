@@ -1,1 +1,1 @@
-var mnemonic = "cliff win uniform stable boss scan spell share snap absorb raven female";
+var mnemonic = "tilt give crowd middle pole bag warm basic mushroom senior happy liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "like three bargain business horn fitness foam forward badge step scare whale";
+var mnemonic = "flat credit silent panel result mom point license toilet place derive donor";

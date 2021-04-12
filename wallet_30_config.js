@@ -1,1 +1,1 @@
-var mnemonic = "bitter clock bargain know increase movie note wood feed equip blade gentle";
+var mnemonic = "fun brown canoe program unlock auto isolate draw easily certain pipe unfold";

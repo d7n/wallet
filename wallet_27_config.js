@@ -1,1 +1,1 @@
-var mnemonic = "absurd vehicle text spell reunion riot dinner tag diagram length cruel account";
+var mnemonic = "have sphere pony clap shrimp hotel crunch sword return slice gasp proud";

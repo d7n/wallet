@@ -1,1 +1,1 @@
-var mnemonic = "humble magnet blind abuse orphan easy wild airport ridge disagree hammer gossip";
+var mnemonic = "symptom provide tonight file loud record exhaust figure dragon buzz jungle empower";

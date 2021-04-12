@@ -1,1 +1,1 @@
-var mnemonic = "fortune tape story fork bid cruise absorb arrive spoon air strong salad";
+var mnemonic = "squeeze school copper trim account fault gift glimpse insane agree media asthma";

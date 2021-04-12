@@ -1,1 +1,1 @@
-var mnemonic = "purity scene rough outside copper service spread ceiling idea wasp say tell";
+var mnemonic = "region start warm accuse purse dove female essay kitten term pave critic";

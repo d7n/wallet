@@ -1,1 +1,1 @@
-var mnemonic = "life dragon tilt display picture index goose mammal wool escape armor penalty";
+var mnemonic = "news soon smart design turn disorder science lawsuit coin child mirror ketchup";

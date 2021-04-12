@@ -1,1 +1,1 @@
-var mnemonic = "birth start art air raise huge execute trick alert type repeat donate";
+var mnemonic = "deposit annual damp bid special ready upon chunk tag impulse lyrics edit";

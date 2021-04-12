@@ -1,1 +1,1 @@
-var mnemonic = "clerk bless inflict win neglect crash sniff record effort brown enact provide";
+var mnemonic = "easy universe proud aerobic hire skill behind seek club auto apology adapt";

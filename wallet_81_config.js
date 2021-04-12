@@ -1,1 +1,1 @@
-var mnemonic = "club stable arrive want city solve student round height item nose ozone";
+var mnemonic = "amused enroll poem anchor blood parrot view talk icon reveal tornado evolve";

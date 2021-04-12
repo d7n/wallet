@@ -1,1 +1,1 @@
-var mnemonic = "drastic eager equal safe arrange local gallery wool doll merry initial lecture";
+var mnemonic = "roof tip art trust bulk drum medal erupt peasant palace all impose";

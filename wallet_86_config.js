@@ -1,1 +1,1 @@
-var mnemonic = "total cash grant dizzy someone judge refuse jump climb kind motor omit";
+var mnemonic = "wagon act coin famous alpha neutral trap two gown science major myth";

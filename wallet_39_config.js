@@ -1,1 +1,1 @@
-var mnemonic = "equal soda recipe share guide obey enrich cycle scissors volume cause vintage";
+var mnemonic = "intact intact desk tower fragile night tumble earn twenty pipe swallow bridge";

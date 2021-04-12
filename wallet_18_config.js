@@ -1,1 +1,1 @@
-var mnemonic = "boil also fix omit gown tourist junk mercy steak pull scout hurdle";
+var mnemonic = "merry egg trigger depart crazy spatial margin patient foam brother cheap weekend";

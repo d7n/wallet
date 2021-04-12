@@ -1,1 +1,1 @@
-var mnemonic = "stumble access valid dizzy joke regular charge grow switch spoil jeans vapor";
+var mnemonic = "blame cost soul actress crash enlist myth brain casino destroy bread door";

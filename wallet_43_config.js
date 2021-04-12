@@ -1,1 +1,1 @@
-var mnemonic = "accuse lend blame walnut consider tomato bicycle vote wing poem venture east";
+var mnemonic = "demise pear round lawsuit hidden upset layer punch erupt animal public ship";

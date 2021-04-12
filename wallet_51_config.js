@@ -1,1 +1,1 @@
-var mnemonic = "spend copper awful smoke strategy chest gasp captain retreat gorilla orange start";
+var mnemonic = "grass spend bid spare flame ranch core able search spike hood drift";

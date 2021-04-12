@@ -1,1 +1,1 @@
-var mnemonic = "double young rocket obtain narrow merit nothing stove opinion flavor face phrase";
+var mnemonic = "pear wall like sweet stone hint mosquito spice canal bottom future meat";

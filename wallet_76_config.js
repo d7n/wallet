@@ -1,1 +1,1 @@
-var mnemonic = "next uniform squirrel lion cash hundred wrestle inflict swim flavor phrase prison";
+var mnemonic = "taste shoe scatter vote expose attract eagle pipe violin nose can cheese";

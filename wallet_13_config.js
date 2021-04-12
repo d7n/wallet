@@ -1,1 +1,1 @@
-var mnemonic = "talk turkey sort fashion differ switch rival couch crew tornado river lock";
+var mnemonic = "order castle cage seek owner maze resist equip dinner donate napkin unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead twelve indoor front letter busy birth poet adult quiz asthma better";
+var mnemonic = "cattle pigeon believe capital drum occur situate oxygen anxiety fix special omit";

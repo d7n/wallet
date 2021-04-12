@@ -1,1 +1,1 @@
-var mnemonic = "try glass monkey leaf choice galaxy ocean choice loyal police march hunt";
+var mnemonic = "cricket pig fix hurry floor project net lift first outer convince potato";

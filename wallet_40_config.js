@@ -1,1 +1,1 @@
-var mnemonic = "slot carbon never limit balcony silly asset lens tomorrow master zoo garbage";
+var mnemonic = "shield height struggle brain short crew rare all enforce pear crunch copy";

@@ -1,1 +1,1 @@
-var mnemonic = "stable initial science actor marine champion extend issue bitter range phrase behave";
+var mnemonic = "color slice perfect love loyal consider detect give steel length ginger lecture";

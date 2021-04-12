@@ -1,1 +1,1 @@
-var mnemonic = "face shaft step remind vocal blame sorry merit bitter inspire fetch mirror";
+var mnemonic = "front sting pause jaguar hunt where snack review retreat table image wrestle";

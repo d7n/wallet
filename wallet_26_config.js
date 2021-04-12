@@ -1,1 +1,1 @@
-var mnemonic = "salute page skill undo member now admit poem vault clever lottery stem";
+var mnemonic = "fine girl because episode hint shadow gossip boil satoshi local crew smart";

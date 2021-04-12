@@ -1,1 +1,1 @@
-var mnemonic = "amazing test lecture frog beef train parade drum gift country cluster coffee";
+var mnemonic = "honey loop hazard crop mix tone tide penalty force grass tube lift";

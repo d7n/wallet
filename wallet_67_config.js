@@ -1,1 +1,1 @@
-var mnemonic = "lonely join virus together kick diesel grit pyramid noodle situate gift hen";
+var mnemonic = "budget cousin pudding impulse nut minor walk embark annual neglect ordinary hockey";

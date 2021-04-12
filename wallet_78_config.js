@@ -1,1 +1,1 @@
-var mnemonic = "ski under amazing celery square heavy unable corn brother future patient second";
+var mnemonic = "coach obtain vintage ball elegant retire produce system home punch merit group";

@@ -1,1 +1,1 @@
-var mnemonic = "alien swear foot member cable timber spot awful visual wise unique rival";
+var mnemonic = "item frown call live fox duck vintage twelve spice obvious cannon effort";

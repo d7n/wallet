@@ -1,1 +1,1 @@
-var mnemonic = "bicycle vendor orchard just someone mouse fox until museum bottom state marriage";
+var mnemonic = "alley ride avoid ability waste script clinic section stable inhale always begin";

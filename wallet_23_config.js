@@ -1,1 +1,1 @@
-var mnemonic = "engage country detect embark equip wool vapor valve produce assist simple student";
+var mnemonic = "spot sentence enjoy load ready casino hundred stereo cost hole marriage drama";

@@ -1,1 +1,1 @@
-var mnemonic = "army muffin light swing fabric crop surge noise ghost shiver episode that";
+var mnemonic = "manual neck fluid limb elbow beauty maximum dust bronze evolve manual such";

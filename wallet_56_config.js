@@ -1,1 +1,1 @@
-var mnemonic = "upon visit music number card lecture path spot soft flower fun gift";
+var mnemonic = "execute kitchen give jungle attract search prize bronze silver tray lecture acid";

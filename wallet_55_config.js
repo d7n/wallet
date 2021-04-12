@@ -1,1 +1,1 @@
-var mnemonic = "caught cost switch ticket embrace sun ten approve web marble clown silk";
+var mnemonic = "exercise learn spot quote junk balcony peasant dismiss what all convince danger";

@@ -1,1 +1,1 @@
-var mnemonic = "route museum comfort decide cry token welcome second share chapter enhance proud";
+var mnemonic = "tennis cook flag hidden clean curve able night mirror wrestle patrol local";

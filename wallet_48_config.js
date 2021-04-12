@@ -1,1 +1,1 @@
-var mnemonic = "fault faculty sad survey modify engine spider spike prevent connect any secret";
+var mnemonic = "garbage drop please tilt scatter echo border raw idea refuse select alert";

@@ -1,1 +1,1 @@
-var mnemonic = "renew tenant organ exact math canyon panda doll puzzle demise sister stay";
+var mnemonic = "place nominee crush potato taste hill practice then second tenant fade wire";

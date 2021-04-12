@@ -1,1 +1,1 @@
-var mnemonic = "wise baby wise black sunset clarify gadget parade mad silly unit spoil";
+var mnemonic = "fee frown comfort athlete cliff distance interest what prepare tribe glory erosion";

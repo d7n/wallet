@@ -1,1 +1,1 @@
-var mnemonic = "accident climb guide valve never blouse choose gasp skate type delay spare";
+var mnemonic = "basket copper distance giraffe oak sport item copy manual theme split pilot";

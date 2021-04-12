@@ -1,1 +1,1 @@
-var mnemonic = "fetch height monitor hybrid sample clog report crew broccoli side width idle";
+var mnemonic = "naive leopard liberty lizard wine diagram crunch reform frog man vehicle era";

@@ -1,1 +1,1 @@
-var mnemonic = "skull stable salad museum universe trend powder wheel donate attend relax label";
+var mnemonic = "card such process game luggage ball noble erosion conduct satisfy pudding invest";

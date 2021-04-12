@@ -1,1 +1,1 @@
-var mnemonic = "increase cement confirm become apple venture uniform extra force about captain tooth";
+var mnemonic = "flavor subway neutral merit power physical floor genuine history audit guide invite";

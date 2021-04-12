@@ -1,1 +1,1 @@
-var mnemonic = "add shuffle patient between rocket shrug true chaos stock tornado cat permit";
+var mnemonic = "garment resource health slender estate exit divorce airport pig length utility excess";

@@ -1,1 +1,1 @@
-var mnemonic = "ride market leg later vapor vault typical elephant agent pilot design settle";
+var mnemonic = "buzz giggle soda visit lunar delay snow first domain foot suffer twice";

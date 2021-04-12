@@ -1,1 +1,1 @@
-var mnemonic = "curtain bus liquid horn notice swim rookie short drift police tumble flag";
+var mnemonic = "use own brown cargo jealous moon feed rocket time toast pet table";

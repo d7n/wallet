@@ -1,1 +1,1 @@
-var mnemonic = "moon popular follow strong unaware chalk elite cabin step fringe pudding awake";
+var mnemonic = "door roast dismiss lake step soda visual harvest sound rent imitate casual";

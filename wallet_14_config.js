@@ -1,1 +1,1 @@
-var mnemonic = "woman praise pulp west shrug wagon tribe voyage escape element employ hammer";
+var mnemonic = "first benefit toilet excite patch pond axis rubber armed motor butter champion";

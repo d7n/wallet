@@ -1,1 +1,1 @@
-var mnemonic = "electric call squeeze fan rude surge illness scout runway write mention group";
+var mnemonic = "buffalo busy shiver game sunset void boost decrease barrel auction will stamp";

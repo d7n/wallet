@@ -1,1 +1,1 @@
-var mnemonic = "waste artefact inject road human you pumpkin drift snake globe company abuse";
+var mnemonic = "cage unknown dynamic strike symbol vapor combine side rough cute make little";

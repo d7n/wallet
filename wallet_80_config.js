@@ -1,1 +1,1 @@
-var mnemonic = "hen pride segment have various arena next beauty desk cram ordinary naive";
+var mnemonic = "hold assist drastic opinion absurd castle camera clutch minute certain hood swamp";

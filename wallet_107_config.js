@@ -1,1 +1,1 @@
-var mnemonic = "tornado pond wealth pelican useless clay cause second salt exhaust high remain";
+var mnemonic = "era acid indicate badge case renew omit before decline violin brave gather";

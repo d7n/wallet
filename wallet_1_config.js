@@ -1,1 +1,1 @@
-var mnemonic = "model sound license have glass wear stomach detail flower wet permit three";
+var mnemonic = "tuna fragile lava fancy harbor illness bulb install old wet multiply regret";

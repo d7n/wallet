@@ -1,1 +1,1 @@
-var mnemonic = "fat reward apology find tube apart grid flower grab spider critic peanut";
+var mnemonic = "movie consider inflict marble token carpet gold disease input hobby carbon great";

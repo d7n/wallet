@@ -1,1 +1,1 @@
-var mnemonic = "praise equip ladder slow melody cube similar nation convince modify task enhance";
+var mnemonic = "slender tenant human focus tissue black fan trash oil sibling kick filter";

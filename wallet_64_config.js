@@ -1,1 +1,1 @@
-var mnemonic = "holiday asthma plate grid regret disagree draft couch lab allow cruise suspect";
+var mnemonic = "mother cruel rabbit picnic treat inject axis man kiss crime museum ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "say obtain nice onion decline chat pledge version arrive daring edit brave";
+var mnemonic = "segment local wheel friend outdoor area sad lend grow salon off venue";

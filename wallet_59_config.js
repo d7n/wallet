@@ -1,1 +1,1 @@
-var mnemonic = "fat pupil engage cart deposit inherit attitude prefer deny gas kid december";
+var mnemonic = "ozone harsh voyage various again alone night super noise session scale confirm";

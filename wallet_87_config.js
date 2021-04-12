@@ -1,1 +1,1 @@
-var mnemonic = "coffee bone this clay fiscal turkey machine drink decorate hollow spread system";
+var mnemonic = "town tourist mandate can brown bacon clump dwarf shine veteran shoot smart";

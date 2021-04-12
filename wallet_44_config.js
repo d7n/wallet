@@ -1,1 +1,1 @@
-var mnemonic = "ginger pluck length result soccer modify discover remind paper total below little";
+var mnemonic = "owner fancy vibrant example stock decline wish orphan forest pumpkin expire mule";

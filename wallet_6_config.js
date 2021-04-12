@@ -1,1 +1,1 @@
-var mnemonic = "swear shove client exist seminar bid arrow glue original grunt machine segment";
+var mnemonic = "churn divorce wear perfect piece item tonight river input endless chest local";

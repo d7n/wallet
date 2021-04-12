@@ -1,1 +1,1 @@
-var mnemonic = "skate position art project season sustain volume bonus elbow joke bracket logic";
+var mnemonic = "hungry suffer exchange trip car memory guide report gadget holiday pioneer robust";

@@ -1,1 +1,1 @@
-var mnemonic = "october airport ecology forum session depart duck public hour trial lamp message";
+var mnemonic = "oblige unaware mention now type near include swamp edge siege real kitten";

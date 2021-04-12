@@ -1,1 +1,1 @@
-var mnemonic = "diary orphan dose hand above wool cool humor essence manual neither congress";
+var mnemonic = "tooth hope elbow steak attitude cheese steel mutual juice zone stumble swear";

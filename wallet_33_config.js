@@ -1,1 +1,1 @@
-var mnemonic = "obscure art oval what army false next portion remind surface comfort exchange";
+var mnemonic = "top empower female moral tackle learn runway victory tell eye soft village";

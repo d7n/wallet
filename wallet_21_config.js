@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin frog latin sunny blue sea blast ozone width sick also legal";
+var mnemonic = "include question family crunch scrap review prepare goat advice name raccoon expand";

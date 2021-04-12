@@ -1,1 +1,1 @@
-var mnemonic = "isolate radio include rapid only split wage note oval excess wine cruise";
+var mnemonic = "one clip tree level write jewel lounge wear theory network orient winner";

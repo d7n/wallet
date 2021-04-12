@@ -1,1 +1,1 @@
-var mnemonic = "crazy diamond sustain urban arch advice fine image bonus slot tragic step";
+var mnemonic = "rack wall melt own security volcano sail village clean boat direct solve";

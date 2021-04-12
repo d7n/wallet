@@ -1,1 +1,1 @@
-var mnemonic = "rapid winter project tornado penalty opera outer armed diagram rule library reform";
+var mnemonic = "expire afford meat permit body parrot seed luxury cheese betray shield expose";

@@ -1,1 +1,1 @@
-var mnemonic = "expand improve toddler muffin cruise senior employ seat whisper bird nose dignity";
+var mnemonic = "shiver expand vanish explain fluid romance little tonight spread thunder shine skill";

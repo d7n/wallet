@@ -1,1 +1,1 @@
-var mnemonic = "mosquito rather crawl ramp upgrade loan subway portion inject edit artefact rabbit";
+var mnemonic = "goat glare chimney boss sweet price glove hockey siren speed option attract";
