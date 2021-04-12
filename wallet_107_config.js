@@ -1,1 +1,1 @@
-var mnemonic = "exotic business capable helmet shift below random ranch know spy defy spin";
+var mnemonic = "evidence two digital math source faculty term gather off runway barrel tiny";

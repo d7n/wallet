@@ -1,1 +1,1 @@
-var mnemonic = "royal give accident empower anxiety someone humble fitness zebra purchase sister rebuild";
+var mnemonic = "soup bridge arm doll hungry milk work round excess wire reduce volume";

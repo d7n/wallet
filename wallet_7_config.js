@@ -1,1 +1,1 @@
-var mnemonic = "walnut thrive lobster issue release pretty record also advice river whale kidney";
+var mnemonic = "together lab diamond illness medal bronze violin rude gloom purity jungle rigid";

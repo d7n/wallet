@@ -1,1 +1,1 @@
-var mnemonic = "produce cabin main organ near bullet mass bottom length immense stage morning";
+var mnemonic = "rural mix shadow use pelican index feature average nephew theme panda cause";

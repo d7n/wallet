@@ -1,1 +1,1 @@
-var mnemonic = "notice fringe fade grab flip repeat churn foot dune draft maximum tiny";
+var mnemonic = "squirrel flat battle frog craft barely famous piece grape section leg sure";

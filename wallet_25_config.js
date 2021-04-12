@@ -1,1 +1,1 @@
-var mnemonic = "tiny circle confirm winner evidence equal skirt winner egg inject tourist text";
+var mnemonic = "nasty knife erupt because dilemma butter view economy super replace identify blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "promote vacant plunge bomb program again diamond kangaroo boring survey lecture result";
+var mnemonic = "accident grain essence wire board exact pole orphan agree ozone birth track";

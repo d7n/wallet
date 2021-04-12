@@ -1,1 +1,1 @@
-var mnemonic = "resist kiss private spoil sound tissue smooth disagree fame give giant pepper";
+var mnemonic = "license debris tiger lounge gift false glad squirrel trade rhythm stage illegal";

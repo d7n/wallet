@@ -1,1 +1,1 @@
-var mnemonic = "vague green attitude monkey uniform thumb castle hole swift long decrease best";
+var mnemonic = "visual west young tail canoe kangaroo excite priority cement recipe very slice";

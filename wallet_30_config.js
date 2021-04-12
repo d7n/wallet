@@ -1,1 +1,1 @@
-var mnemonic = "accuse hood note pole survey asthma trick make chalk best cabbage coral";
+var mnemonic = "hold dinner visit letter debate among stick language buyer betray angle horn";

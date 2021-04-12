@@ -1,1 +1,1 @@
-var mnemonic = "early coast love arch giggle van diamond route garlic flat alpha little";
+var mnemonic = "wish grit obtain vanish decorate solar sting fox easily pulp spread always";

@@ -1,1 +1,1 @@
-var mnemonic = "carry remain solar ridge spice conduct office jewel rose parent ready enter";
+var mnemonic = "analyst gorilla document bench else bike staff pretty jazz various hair island";

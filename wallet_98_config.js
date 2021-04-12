@@ -1,1 +1,1 @@
-var mnemonic = "this ignore melt matrix regret flat car tube month city praise purity";
+var mnemonic = "rigid demise chaos message hurt cream solar cross provide direct motion ethics";

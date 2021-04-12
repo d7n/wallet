@@ -1,1 +1,1 @@
-var mnemonic = "bulb pen fever crisp pause warfare boat shoulder resist enable silver rose";
+var mnemonic = "country yellow rely pole fault lamp maple ill burden chair chair win";

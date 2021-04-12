@@ -1,1 +1,1 @@
-var mnemonic = "century say acquire absorb dial license rookie boost name slight surge client";
+var mnemonic = "dignity axis century lobster verify mind unveil dry thought fat kiwi gym";

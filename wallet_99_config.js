@@ -1,1 +1,1 @@
-var mnemonic = "theory lend perfect kite duty parent boring tell zone evoke canal bomb";
+var mnemonic = "salon junior into anger client proud swamp juice index deal primary bridge";

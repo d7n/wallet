@@ -1,1 +1,1 @@
-var mnemonic = "exact more limb ranch develop sibling puppy capital lobster ticket print spoon";
+var mnemonic = "snack era bargain dry illness peanut dress clay reason squirrel unknown approve";

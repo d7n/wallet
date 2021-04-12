@@ -1,1 +1,1 @@
-var mnemonic = "earth sign leaf coast only mystery page energy fly action hello skill";
+var mnemonic = "game rich harsh arrange space crowd extra boat skin shy hour enough";

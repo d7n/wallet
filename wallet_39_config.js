@@ -1,1 +1,1 @@
-var mnemonic = "paddle carpet blue load glow ladder identify jungle marine horn labor broom";
+var mnemonic = "upgrade rival vehicle payment width coach zone orchard clay prosper solar biology";

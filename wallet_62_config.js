@@ -1,1 +1,1 @@
-var mnemonic = "plastic wage couch plunge spider gallery play provide excite output rich length";
+var mnemonic = "ketchup boss assume gap join fresh ten hobby hotel danger bounce long";

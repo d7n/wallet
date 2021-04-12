@@ -1,1 +1,1 @@
-var mnemonic = "baby soon lucky garment fold caution effort title tongue stage verb pizza";
+var mnemonic = "make occur better climb field siege shine swear own inside crouch absorb";

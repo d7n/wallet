@@ -1,1 +1,1 @@
-var mnemonic = "avoid night ostrich blanket journey hour rare hollow side size joke law";
+var mnemonic = "waste tunnel apart cloud wrap outer forward behind vital gather harbor shuffle";

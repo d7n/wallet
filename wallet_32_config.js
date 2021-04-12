@@ -1,1 +1,1 @@
-var mnemonic = "party close deer aisle planet damp forest seven produce tomato celery audit";
+var mnemonic = "aunt busy find property stock target damp cash cotton success craft lucky";

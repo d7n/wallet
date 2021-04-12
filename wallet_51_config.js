@@ -1,1 +1,1 @@
-var mnemonic = "twin cotton eager comfort clock primary inner define west item pet fish";
+var mnemonic = "call argue parade group kiss lesson position gym saddle opinion uniform nuclear";

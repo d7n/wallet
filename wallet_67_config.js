@@ -1,1 +1,1 @@
-var mnemonic = "margin search wood equip blur grid hello frog cube novel across transfer";
+var mnemonic = "zoo solar treat one tiny silent earth drama lamp stick theory liar";

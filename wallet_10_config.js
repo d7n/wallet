@@ -1,1 +1,1 @@
-var mnemonic = "theme occur sick marriage large wait rug leader stand light alert ivory";
+var mnemonic = "sick zone noble eager lawn faint gorilla shoot clean maximum pistol rocket";

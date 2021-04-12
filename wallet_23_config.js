@@ -1,1 +1,1 @@
-var mnemonic = "mention lend method conduct inflict system able chunk shuffle section penalty hobby";
+var mnemonic = "razor shell float sunset impact boat urban soda reduce clip zebra eternal";

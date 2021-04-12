@@ -1,1 +1,1 @@
-var mnemonic = "bottom arrest brick polar soup thought sentence broom hour term shy stay";
+var mnemonic = "matrix subject tuition glance sorry focus limit company soccer blast merit elite";

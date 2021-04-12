@@ -1,1 +1,1 @@
-var mnemonic = "shaft voice pool key move explain emotion brother waste humor favorite retreat";
+var mnemonic = "bonus start engine alpha crime garden jealous pill finger acid panel misery";

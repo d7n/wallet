@@ -1,1 +1,1 @@
-var mnemonic = "mansion remove calm world dwarf disorder road slush tomato transfer lottery soup";
+var mnemonic = "public cruel club float van harbor faint dress ready right whip polar";

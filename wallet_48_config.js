@@ -1,1 +1,1 @@
-var mnemonic = "grain index enact term inspire spin happy orange dismiss parade stage double";
+var mnemonic = "scissors place reunion social inherit police insane friend hobby arena host price";

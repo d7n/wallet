@@ -1,1 +1,1 @@
-var mnemonic = "salute couple essay stock guilt fork kitchen analyst salt math forum valve";
+var mnemonic = "caution crystal cannon erosion because pen exile clump logic exhaust permit custom";

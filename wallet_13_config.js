@@ -1,1 +1,1 @@
-var mnemonic = "trade suspect turn chuckle naive mixture theme woman obscure until heart grow";
+var mnemonic = "survey tube organ camera cave cause laptop circle arrow mixed sustain gift";

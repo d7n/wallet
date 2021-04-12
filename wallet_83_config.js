@@ -1,1 +1,1 @@
-var mnemonic = "double town jealous mix panther worry hair crucial power yard like alien";
+var mnemonic = "west exclude category chapter prison move animal length dumb method clip cheap";

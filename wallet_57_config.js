@@ -1,1 +1,1 @@
-var mnemonic = "nurse butter depend wrong evoke crater today sauce above wave market stone";
+var mnemonic = "net defy december book vanish talk vague use couple dune ask amount";

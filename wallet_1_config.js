@@ -1,1 +1,1 @@
-var mnemonic = "try unusual mutual laundry infant dwarf oven pool whisper shed baby awesome";
+var mnemonic = "festival hope expire forum depth assume opera page earth apart wool walk";

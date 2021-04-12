@@ -1,1 +1,1 @@
-var mnemonic = "pink circle erode lecture move solar garlic sniff mushroom dial craft fancy";
+var mnemonic = "close cake popular moral spot canyon pledge collect simple wrestle bike fork";

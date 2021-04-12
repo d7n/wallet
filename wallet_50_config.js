@@ -1,1 +1,1 @@
-var mnemonic = "sting finger village scout net carpet quit nephew divide carpet fringe snack";
+var mnemonic = "shadow culture trigger stamp afraid ridge vibrant impose category oxygen rack reward";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate select script track enjoy universe arch attract habit butter crush teach";
+var mnemonic = "visit stand globe cause hair myself token couple profit clay behave caution";

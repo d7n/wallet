@@ -1,1 +1,1 @@
-var mnemonic = "mountain gaze album artefact phone more profit rich amount potato exile trip";
+var mnemonic = "math gorilla thank used trigger catalog film menu bird online left armed";

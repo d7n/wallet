@@ -1,1 +1,1 @@
-var mnemonic = "cake toast omit illegal above describe border region marble stereo eternal garage";
+var mnemonic = "forget illegal width segment elbow walnut atom giraffe account second figure icon";

@@ -1,1 +1,1 @@
-var mnemonic = "coral source element art differ idle key jeans property hospital music display";
+var mnemonic = "coffee obey hole mountain frost journey aware wisdom boost satisfy energy sunset";

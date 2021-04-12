@@ -1,1 +1,1 @@
-var mnemonic = "waste truly tiger north romance enact fog cloth tool deposit anxiety seminar";
+var mnemonic = "crater canvas uncle harsh dignity oblige industry floor question female bargain pig";

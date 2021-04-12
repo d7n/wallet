@@ -1,1 +1,1 @@
-var mnemonic = "minute combine twin surprise genre frog enforce leave poet host proud column";
+var mnemonic = "load dove short kidney reflect squeeze bundle jaguar impose possible warrior december";

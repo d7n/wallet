@@ -1,1 +1,1 @@
-var mnemonic = "nest local bulb cash print trap grace eagle rely tennis winter primary";
+var mnemonic = "garment warm illegal detail budget follow hub nice debris submit valve minor";

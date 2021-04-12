@@ -1,1 +1,1 @@
-var mnemonic = "filter around budget ostrich seat praise flag weapon glass enforce nut column";
+var mnemonic = "rookie scan dash chief slot cradle host marble girl giggle swift tired";

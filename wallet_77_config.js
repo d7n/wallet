@@ -1,1 +1,1 @@
-var mnemonic = "bargain drastic helmet roast weather vocal wisdom blind sell state program leopard";
+var mnemonic = "dolphin lecture jacket reflect lake hat discover wear review tongue lawsuit lazy";

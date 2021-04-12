@@ -1,1 +1,1 @@
-var mnemonic = "sick guess acoustic foam open club neither gap blossom place two source";
+var mnemonic = "muffin surprise unknown bag castle better nut decide rack bench wonder nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "punch just fuel reason author slam ten decrease kitten tip rapid frozen";
+var mnemonic = "exile cake blood comfort april smoke demand script wide assault glad vessel";

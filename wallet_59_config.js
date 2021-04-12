@@ -1,1 +1,1 @@
-var mnemonic = "company panic verb hire enact input foil cram group swarm company capital";
+var mnemonic = "sweet tiny physical fault leopard weather bench rug roast that pond lift";

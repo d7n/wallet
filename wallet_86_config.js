@@ -1,1 +1,1 @@
-var mnemonic = "gun image cabin stove refuse boss wet patch climb adapt fluid crouch";
+var mnemonic = "define nice venue message such dragon spin solution lady fancy illness must";

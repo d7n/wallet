@@ -1,1 +1,1 @@
-var mnemonic = "bonus cheese smile meat release group spend cattle more wife tuna prefer";
+var mnemonic = "trigger cradle embrace hospital turtle truck help rice flame blossom armed wood";

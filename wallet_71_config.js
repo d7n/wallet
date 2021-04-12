@@ -1,1 +1,1 @@
-var mnemonic = "bread laundry across keep fly reopen shaft element chicken echo ramp brand";
+var mnemonic = "toddler garlic crush bench whisper correct wild happy enough hand wall urban";

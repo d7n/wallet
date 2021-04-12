@@ -1,1 +1,1 @@
-var mnemonic = "area palace civil bonus awesome build happy cricket unveil reunion own when";
+var mnemonic = "upon fetch emotion inject picture island cactus lady picnic park sniff turtle";

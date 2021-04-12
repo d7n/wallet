@@ -1,1 +1,1 @@
-var mnemonic = "style copper blur depart artefact sure trophy cheese skull hobby lawsuit genre";
+var mnemonic = "neutral gallery hold give sick remove only flush quick ecology lecture churn";

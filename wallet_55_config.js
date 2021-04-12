@@ -1,1 +1,1 @@
-var mnemonic = "consider hat also van tackle rug burden bleak team hood dolphin maze";
+var mnemonic = "radio invite appear scissors cinnamon behind bus pink soft saddle riot stove";

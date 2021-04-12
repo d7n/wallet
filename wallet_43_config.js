@@ -1,1 +1,1 @@
-var mnemonic = "oppose ring response kiwi nothing foam buffalo teach scissors process tissue crater";
+var mnemonic = "quality acoustic gossip hawk fancy reveal foot defense fit scheme endless duty";

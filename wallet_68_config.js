@@ -1,1 +1,1 @@
-var mnemonic = "next obtain subway ribbon stand review school upon apart cricket argue vault";
+var mnemonic = "sphere harbor patrol keep suit annual call fuel hobby click fatal gossip";

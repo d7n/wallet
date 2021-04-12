@@ -1,1 +1,1 @@
-var mnemonic = "area tiny state edge absurd danger aware pause desk swallow foot borrow";
+var mnemonic = "swim illness speak air govern scale glide speed better crazy people bid";

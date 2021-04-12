@@ -1,1 +1,1 @@
-var mnemonic = "digital act ship erase nominee embody eternal couple toe kangaroo cave ridge";
+var mnemonic = "shadow blossom luggage topic icon patrol age minor vapor oxygen discover spray";

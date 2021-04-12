@@ -1,1 +1,1 @@
-var mnemonic = "catalog stuff gold twenty fiber viable walnut ladder hawk visual manage claim";
+var mnemonic = "kid twice steak vault glide isolate rubber develop across hawk flame birth";

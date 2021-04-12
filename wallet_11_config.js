@@ -1,1 +1,1 @@
-var mnemonic = "return catalog say rough risk ginger glass smart portion share vicious bring";
+var mnemonic = "priority immune flock fuel uncover adapt subway scatter reform corn slot bunker";

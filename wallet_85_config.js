@@ -1,1 +1,1 @@
-var mnemonic = "lunch dismiss trick cram mind donate boring term gallery rule pulse nerve";
+var mnemonic = "palace couch dream forum noble wife crucial south identify else clutch again";

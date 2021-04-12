@@ -1,1 +1,1 @@
-var mnemonic = "evil crazy zero laugh long palm simple venue pull bind culture issue";
+var mnemonic = "vanish major state hold person cash pudding reveal harsh priority easily picture";

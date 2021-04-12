@@ -1,1 +1,1 @@
-var mnemonic = "bullet random canoe album suspect fatal vacant left hybrid cup alter mistake";
+var mnemonic = "smart pledge shell income sword improve people tobacco they feed green verb";

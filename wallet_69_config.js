@@ -1,1 +1,1 @@
-var mnemonic = "math machine pupil mad wear earth girl tape minor kit obscure kiwi";
+var mnemonic = "uniform top foam crouch choose process sword ancient bike awful midnight major";

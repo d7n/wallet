@@ -1,1 +1,1 @@
-var mnemonic = "tube note cover purse sweet viable knock found blur hat end genuine";
+var mnemonic = "solve dose limit this zone behave blind powder jacket attack sphere series";

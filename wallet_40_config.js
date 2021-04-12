@@ -1,1 +1,1 @@
-var mnemonic = "grief ready grit pause fat uphold butter nice lamp tip gift rural";
+var mnemonic = "cactus town vague north check trial cushion frost digital copy link want";

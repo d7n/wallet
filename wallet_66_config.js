@@ -1,1 +1,1 @@
-var mnemonic = "exile come napkin farm history above moral prosper surface envelope layer mirror";
+var mnemonic = "normal loan sun youth mask stay cousin vapor chicken torch tiger grape";

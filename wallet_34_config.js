@@ -1,1 +1,1 @@
-var mnemonic = "square flush illness south hawk behave foil avocado arrest frequent bitter open";
+var mnemonic = "pet visa example sword custom grain grain distance hub trip false rubber";

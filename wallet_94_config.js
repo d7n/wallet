@@ -1,1 +1,1 @@
-var mnemonic = "mesh income emerge autumn accuse ripple symptom budget clog appear clinic matter";
+var mnemonic = "copper method island mosquito photo artefact innocent elite ankle file amazing juice";

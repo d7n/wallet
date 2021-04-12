@@ -1,1 +1,1 @@
-var mnemonic = "bless grow brisk empty hill cruise weasel balcony exhibit cliff admit defy";
+var mnemonic = "trust weapon gap clog holiday border time supreme scene casino reflect advance";

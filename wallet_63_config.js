@@ -1,1 +1,1 @@
-var mnemonic = "monster mail next process wrist december father review nice fancy comic subject";
+var mnemonic = "save wrist midnight general prosper artwork gap fire swift grid raven vapor";

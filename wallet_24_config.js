@@ -1,1 +1,1 @@
-var mnemonic = "winter picture skirt time region sound lava nephew boat cigar lemon differ";
+var mnemonic = "wild transfer increase sudden budget bamboo amazing dignity amazing bonus fee recall";

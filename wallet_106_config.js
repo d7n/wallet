@@ -1,1 +1,1 @@
-var mnemonic = "snap confirm replace patient digital isolate foster era observe history again balance";
+var mnemonic = "interest fancy bag model target secret surprise spend say caught toilet famous";

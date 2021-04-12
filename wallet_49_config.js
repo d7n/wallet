@@ -1,1 +1,1 @@
-var mnemonic = "share cotton hybrid little health govern exercise finger mouse core mandate duty";
+var mnemonic = "butter topple maid lawsuit verb also sea turtle insane drum help metal";

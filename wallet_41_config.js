@@ -1,1 +1,1 @@
-var mnemonic = "volcano flee machine grant pledge stone enhance choice engage spot fantasy enact";
+var mnemonic = "long click resist evil street salmon anchor table dish symbol pool firm";

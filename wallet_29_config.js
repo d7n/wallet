@@ -1,1 +1,1 @@
-var mnemonic = "blossom social radio tilt siren picture derive spare paper puzzle robust scan";
+var mnemonic = "nest question property video prefer tip silk area crouch twice bone alert";

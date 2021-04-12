@@ -1,1 +1,1 @@
-var mnemonic = "van breeze verb term square traffic else park model mad coffee smooth";
+var mnemonic = "rural lawn caution endorse bike one edit good crash right friend tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap sheriff cycle lucky canal humor shield force basic hobby butter afford";
+var mnemonic = "air mansion plunge curve twelve east teach festival buddy have must injury";

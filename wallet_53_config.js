@@ -1,1 +1,1 @@
-var mnemonic = "smooth youth exist mobile embark civil board segment cargo blind tank range";
+var mnemonic = "actual price visa talk photo ginger brass furnace sunny depth owner decide";

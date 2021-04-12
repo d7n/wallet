@@ -1,1 +1,1 @@
-var mnemonic = "there atom panel liquid search arrange medal skull fragile bubble buddy sugar";
+var mnemonic = "tonight diagram cupboard hill orbit spring apple adapt segment social eager wonder";

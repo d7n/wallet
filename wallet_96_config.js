@@ -1,1 +1,1 @@
-var mnemonic = "doll buffalo decide mom carry joy fuel moon double habit wet need";
+var mnemonic = "company snack market cage laptop legend hint rifle capable festival recycle urge";

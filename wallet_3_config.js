@@ -1,1 +1,1 @@
-var mnemonic = "vintage educate thunder broom mix jealous ramp suffer movie tenant grunt position";
+var mnemonic = "fix reduce regular enough empower rotate paddle panic loop demise science marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure page various vast write sponsor joy noise mass digital lesson dry";
+var mnemonic = "term feature next insect gentle addict loyal breeze iron girl lens castle";

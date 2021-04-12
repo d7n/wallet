@@ -1,1 +1,1 @@
-var mnemonic = "easily congress absorb tissue purpose art barrel valley gravity hen bubble upon";
+var mnemonic = "crash sure lawn whip ritual evidence mail eyebrow correct addict twenty snow";

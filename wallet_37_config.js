@@ -1,1 +1,1 @@
-var mnemonic = "rule brisk under wage often replace element nurse retire food bid fat";
+var mnemonic = "skate concert produce coil cricket defense stove olive punch chat mad rail";

@@ -1,1 +1,1 @@
-var mnemonic = "quick hope there party diet silk depth blouse describe affair cross clever";
+var mnemonic = "void mirror wet switch junior discover sand hungry helmet cabbage loop question";

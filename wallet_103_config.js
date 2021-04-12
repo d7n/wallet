@@ -1,1 +1,1 @@
-var mnemonic = "online copy cave possible force bag wave heart focus future setup doctor";
+var mnemonic = "taste ripple universe alien wrap breeze inhale jungle story pencil view flame";

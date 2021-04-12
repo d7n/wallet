@@ -1,1 +1,1 @@
-var mnemonic = "basic approve duty situate crop album fat grit ignore shrimp night erupt";
+var mnemonic = "evoke auction street produce there such kiwi happy device inquiry ski possible";

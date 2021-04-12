@@ -1,1 +1,1 @@
-var mnemonic = "decline bread treat achieve word payment giant early notice visual assist hollow";
+var mnemonic = "approve local cover coach wreck wool caught desert mountain congress dentist such";

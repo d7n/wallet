@@ -1,1 +1,1 @@
-var mnemonic = "scale bronze captain pencil great vanish boss dinner hockey jeans cluster observe";
+var mnemonic = "resist share chapter vendor border shop tissue valve airport increase oxygen hobby";

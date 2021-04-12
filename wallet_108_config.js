@@ -1,1 +1,1 @@
-var mnemonic = "require direct vapor input matter lazy lawn inmate vocal april twice banner";
+var mnemonic = "benefit tattoo crucial end grief ridge salt clarify ski behind position april";
