@@ -1,1 +1,1 @@
-var mnemonic = "market crumble pluck solid spawn there grocery box grief airport switch glow";
+var mnemonic = "window salmon patient figure across intact tunnel adjust soap earn bundle unhappy";

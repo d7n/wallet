@@ -1,1 +1,1 @@
-var mnemonic = "pear quit host sweet shine shoulder exhaust setup vote vast disagree popular";
+var mnemonic = "enemy drop cross focus anger struggle affair kiss virtual sport jeans interest";

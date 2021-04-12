@@ -1,1 +1,1 @@
-var mnemonic = "firm merry obvious roof stage style field capable gather dress visit ride";
+var mnemonic = "mother accident cradle more wealth cargo load credit legal bridge summer crazy";

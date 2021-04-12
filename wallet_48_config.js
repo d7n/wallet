@@ -1,1 +1,1 @@
-var mnemonic = "ritual blood dwarf jazz turn spice pair bunker leopard latin afford vanish";
+var mnemonic = "flower magic cook axis result kiss cliff bridge resist canyon flash crystal";

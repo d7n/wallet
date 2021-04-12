@@ -1,1 +1,1 @@
-var mnemonic = "stamp tooth then cup client virtual angle earn corn material gown space";
+var mnemonic = "heavy wrong banana jaguar brand gallery oblige peasant better cream cloth write";

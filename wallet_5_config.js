@@ -1,1 +1,1 @@
-var mnemonic = "quantum flash melody design crop pigeon bless bar turkey rigid power hair";
+var mnemonic = "barrel believe scorpion gown print dose club fine bachelor atom cart rebel";

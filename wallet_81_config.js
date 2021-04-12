@@ -1,1 +1,1 @@
-var mnemonic = "rely man shallow burst rose web royal hold horse camera mesh piano";
+var mnemonic = "link wire dutch kick best candy crew famous toward clump myth document";

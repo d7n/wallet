@@ -1,1 +1,1 @@
-var mnemonic = "color armed useful sustain soul actor shaft topple volume fabric below sport";
+var mnemonic = "begin notable disagree stereo license dizzy capital pioneer custom yellow diagram antenna";

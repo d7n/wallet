@@ -1,1 +1,1 @@
-var mnemonic = "sentence dream trial hat renew robot install mystery grit rack rare modify";
+var mnemonic = "quick lumber pear all dog document beef uncle inflict ahead twice cram";

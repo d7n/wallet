@@ -1,1 +1,1 @@
-var mnemonic = "idle thumb decide perfect universe print lawsuit typical pilot reduce shoulder tuition";
+var mnemonic = "cable front use recall field weather wish light decorate carpet client staff";

@@ -1,1 +1,1 @@
-var mnemonic = "ask air smoke reward fresh maid tower glad muffin load expose twenty";
+var mnemonic = "super section answer social cloth spot exercise quality city rich live ride";

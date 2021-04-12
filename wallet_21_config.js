@@ -1,1 +1,1 @@
-var mnemonic = "shed banana until tip naive carry coconut actor glory project price unveil";
+var mnemonic = "glad upset trash income dilemma coil ten cactus brown main chief limit";

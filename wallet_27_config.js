@@ -1,1 +1,1 @@
-var mnemonic = "grocery market insane test best siren quality sunset pistol exhaust enroll bike";
+var mnemonic = "bundle april grain into journey month mom forward dumb almost census capable";

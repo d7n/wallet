@@ -1,1 +1,1 @@
-var mnemonic = "first regret bacon wall assault tell cherry deliver dragon quit act rocket";
+var mnemonic = "maid cable choose catalog airport boil easy element business arena again canal";

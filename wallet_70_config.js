@@ -1,1 +1,1 @@
-var mnemonic = "cost oblige admit kick bright cute reason estate wing garlic pudding theme";
+var mnemonic = "lens brother march mention joy need plate hobby vacant clock between jacket";

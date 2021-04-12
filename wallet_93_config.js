@@ -1,1 +1,1 @@
-var mnemonic = "bullet brown exotic soda miracle person giant congress open dice execute stand";
+var mnemonic = "marble quality multiply comic idle napkin century laptop anger involve situate chat";

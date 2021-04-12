@@ -1,1 +1,1 @@
-var mnemonic = "cousin outside embark answer occur scale swallow people adapt various resource steel";
+var mnemonic = "north illness rather mandate torch wrong coyote gun wheat mushroom sleep series";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin open matter call half forum youth concert alarm broccoli carpet trophy";
+var mnemonic = "caught taste essay very knock grocery confirm pact fabric odor tail dragon";

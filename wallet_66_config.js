@@ -1,1 +1,1 @@
-var mnemonic = "mix keen foam top reform rifle secret violin fire patient profit outside";
+var mnemonic = "sleep caution glare vehicle final renew trust above inherit notice must aware";

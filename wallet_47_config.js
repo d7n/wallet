@@ -1,1 +1,1 @@
-var mnemonic = "program fish topple output height metal dune asthma favorite fire custom vivid";
+var mnemonic = "cinnamon cube birth math merit hurdle diesel frog cycle present project nose";

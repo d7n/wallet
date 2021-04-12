@@ -1,1 +1,1 @@
-var mnemonic = "squirrel install give clerk phrase social nerve width save relax polar waste";
+var mnemonic = "fine hammer rhythm wear fatigue risk favorite warfare detect high document certain";

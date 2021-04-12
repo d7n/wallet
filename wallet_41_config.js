@@ -1,1 +1,1 @@
-var mnemonic = "elder magic slab book scale bacon pear liberty will stem mixed budget";
+var mnemonic = "march mutual loop invite behind elder object reunion myth attract bomb short";

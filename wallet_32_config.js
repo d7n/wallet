@@ -1,1 +1,1 @@
-var mnemonic = "frozen loop outer vendor film angle finish title huge festival grunt enlist";
+var mnemonic = "legend sad airport purse demand invite under bench sense trade result choose";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral spring olive green inform adjust enhance egg climb antenna panel bone";
+var mnemonic = "chair buffalo enemy key session close balance begin stable two video reject";

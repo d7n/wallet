@@ -1,1 +1,1 @@
-var mnemonic = "end doll asset banner dash have route truck erosion bring smooth output";
+var mnemonic = "year proud swear vibrant vital fragile outer matrix tiny supply plug settle";

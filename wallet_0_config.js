@@ -1,1 +1,1 @@
-var mnemonic = "false kidney sausage baby mean camera punch fish pepper fan tail account";
+var mnemonic = "sausage mention case rule noise way cloth lawsuit trip wing ankle dog";

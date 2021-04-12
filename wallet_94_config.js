@@ -1,1 +1,1 @@
-var mnemonic = "extra world joy finger town runway ketchup upper witness topple amount symbol";
+var mnemonic = "gauge amazing various giggle fancy snack vintage crater bronze empty tonight senior";

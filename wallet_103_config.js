@@ -1,1 +1,1 @@
-var mnemonic = "open leave wing travel mixed capable distance twelve gorilla common fork program";
+var mnemonic = "idle blame say tell drum ceiling reveal mind hair board invite fine";

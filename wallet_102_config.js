@@ -1,1 +1,1 @@
-var mnemonic = "soap aisle actress question family rival grass citizen wise together metal scheme";
+var mnemonic = "discover cream nation affair garbage asset oval traffic awkward sad season render";

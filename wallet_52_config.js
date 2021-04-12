@@ -1,1 +1,1 @@
-var mnemonic = "pilot artefact office cushion affair afraid size fly waste exhaust tribe wolf";
+var mnemonic = "message window noodle imitate bonus inside salon rifle shadow bleak doll math";

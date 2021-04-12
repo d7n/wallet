@@ -1,1 +1,1 @@
-var mnemonic = "original return draft fatal guitar focus scatter blur awful found rocket notice";
+var mnemonic = "device bless keep culture famous oven rice forum spin foster antenna evil";

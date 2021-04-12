@@ -1,1 +1,1 @@
-var mnemonic = "become small client sadness tent loud clown elephant spawn fan purity peace";
+var mnemonic = "ancient cancel fall globe task gauge behind stamp train patrol rib metal";

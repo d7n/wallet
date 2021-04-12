@@ -1,1 +1,1 @@
-var mnemonic = "rely chicken siren burden lumber million provide extra relax vast reflect very";
+var mnemonic = "million crush yellow present celery angry angle bracket perfect maple super depth";

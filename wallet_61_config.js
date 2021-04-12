@@ -1,1 +1,1 @@
-var mnemonic = "broom garage reform slight wonder time attitude judge music snack seed path";
+var mnemonic = "that position clinic since apology purpose satoshi globe penalty spray lucky foot";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy divert ignore plug blade grant rude half execute memory course pony";
+var mnemonic = "stumble marble inherit pull scissors rally all vehicle office tree pluck legal";

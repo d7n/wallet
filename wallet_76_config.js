@@ -1,1 +1,1 @@
-var mnemonic = "banner hungry slab ivory admit gun liquid morning wrong half amateur raw";
+var mnemonic = "state document laptop bind sun begin perfect escape fetch angle upper sibling";

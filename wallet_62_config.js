@@ -1,1 +1,1 @@
-var mnemonic = "law security safe advice angle couple member shield sugar auction upon dress";
+var mnemonic = "foster proud walk denial broken era april peasant winter uncle idle refuse";

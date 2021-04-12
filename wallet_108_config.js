@@ -1,1 +1,1 @@
-var mnemonic = "liquid excuse spring impulse source unfold album arch carpet fly reflect work";
+var mnemonic = "clock thank sniff critic badge news rubber resemble pair ladder hold today";

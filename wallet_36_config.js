@@ -1,1 +1,1 @@
-var mnemonic = "chief umbrella mirror rely zebra reunion cliff limit frog snake uniform butter";
+var mnemonic = "two call cherry require spend cannon before liberty deposit trap garbage human";

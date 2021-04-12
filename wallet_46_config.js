@@ -1,1 +1,1 @@
-var mnemonic = "equip noise wish include review music sword trade build extra rain start";
+var mnemonic = "search wife attitude moment pet loud panda evil faith survey antique orange";

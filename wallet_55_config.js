@@ -1,1 +1,1 @@
-var mnemonic = "melt hour large when economy pole belt blood author reduce puppy intact";
+var mnemonic = "oval zoo math patch combine bird employ club anxiety raven book bid";

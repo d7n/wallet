@@ -1,1 +1,1 @@
-var mnemonic = "baby garbage frown impulse inflict error when material alter right cube behave";
+var mnemonic = "divorce vocal poem traffic speak expect swift ladder coffee much critic elder";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper boil arm atom winter exotic foil old sleep dismiss minimum token";
+var mnemonic = "erosion kangaroo slender process april off hope local poverty couch depth cabbage";

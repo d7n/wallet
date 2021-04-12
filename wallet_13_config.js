@@ -1,1 +1,1 @@
-var mnemonic = "flip fault immense huge arch mesh parrot height furnace print grocery trumpet";
+var mnemonic = "can practice champion lawn foam nothing oil illegal gauge hockey usual solar";

@@ -1,1 +1,1 @@
-var mnemonic = "pet zero pistol detect call jeans ready alone switch wonder correct utility";
+var mnemonic = "slice crush level adapt deliver thunder before menu total foot bind tide";

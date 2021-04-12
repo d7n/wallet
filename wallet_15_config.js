@@ -1,1 +1,1 @@
-var mnemonic = "fetch false banana impose entire brick federal state pluck desk project entry";
+var mnemonic = "spider polar shop anger glide mammal cross duty escape tired apart foil";

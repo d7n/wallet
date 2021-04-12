@@ -1,1 +1,1 @@
-var mnemonic = "crew arrow legend distance saddle because warfare patch mixed toe budget attract";
+var mnemonic = "dismiss swear brief pave crowd spatial few income body sing accident during";

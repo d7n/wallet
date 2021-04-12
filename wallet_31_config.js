@@ -1,1 +1,1 @@
-var mnemonic = "brown leisure major dutch provide calm intact blind pulse trade enforce mixed";
+var mnemonic = "bleak maze fly wet imitate category amount illness anxiety gesture melt clip";

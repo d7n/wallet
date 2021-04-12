@@ -1,1 +1,1 @@
-var mnemonic = "magic govern lobster sugar security work sauce marine gaze wood use puppy";
+var mnemonic = "shadow tornado fiction tunnel music throw smooth ball hold present hunt coach";

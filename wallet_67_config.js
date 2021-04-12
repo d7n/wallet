@@ -1,1 +1,1 @@
-var mnemonic = "wolf oppose that mask time tent vault west hidden problem job blouse";
+var mnemonic = "host attend shallow garbage spy welcome wrap original ability legend knife fatal";

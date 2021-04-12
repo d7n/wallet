@@ -1,1 +1,1 @@
-var mnemonic = "mesh grab lesson main fold surround deny actual argue grief loan lottery";
+var mnemonic = "excite write surge beach oak replace act duty labor rich identify deputy";

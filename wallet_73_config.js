@@ -1,1 +1,1 @@
-var mnemonic = "antenna music spoil ocean goat clean orient fabric column trigger announce virus";
+var mnemonic = "rough loyal unit feature twist other spray clock envelope bright property morning";

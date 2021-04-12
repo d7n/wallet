@@ -1,1 +1,1 @@
-var mnemonic = "into oppose news ketchup blossom cash year duck visit you pull person";
+var mnemonic = "hedgehog credit crumble ability game liquid soap eye cream spider talk morning";

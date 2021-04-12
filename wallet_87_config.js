@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur video casual aunt liquid crisp loyal parent mushroom disagree pudding speed";
+var mnemonic = "idea eight protect crucial prosper motor nasty relax dinner similar thing vague";

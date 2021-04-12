@@ -1,1 +1,1 @@
-var mnemonic = "cliff gasp market box bounce hidden insect twist stone hungry joke moment";
+var mnemonic = "slim gauge frozen laundry draw ramp forget refuse old drive cash still";

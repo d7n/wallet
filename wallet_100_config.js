@@ -1,1 +1,1 @@
-var mnemonic = "rescue wood crumble peanut update lobster yard uniform rare bomb betray awful";
+var mnemonic = "enact prevent turn sauce little glad lens grab enjoy canvas seed kid";

@@ -1,1 +1,1 @@
-var mnemonic = "glow acid always slow opinion wealth unlock badge duck absurd escape move";
+var mnemonic = "income plate entire soda end oppose toast uncle name figure accident together";

@@ -1,1 +1,1 @@
-var mnemonic = "item neither term correct pretty ecology runway dream shine grant error wrist";
+var mnemonic = "artwork hire venture sting bulb shuffle joke onion when burger happy price";

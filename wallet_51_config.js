@@ -1,1 +1,1 @@
-var mnemonic = "outdoor curve october disagree strong wide absorb disease distance two direct hair";
+var mnemonic = "blood gain crime fantasy supreme stuff attitude region cargo because benefit rule";

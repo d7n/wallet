@@ -1,1 +1,1 @@
-var mnemonic = "chef wealth remove shell range essence chronic salon say nerve push enemy";
+var mnemonic = "edge dish sight control airport old right shy legend expand urban file";

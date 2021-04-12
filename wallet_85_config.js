@@ -1,1 +1,1 @@
-var mnemonic = "law odor lemon tiny wave list exclude execute puzzle refuse palm west";
+var mnemonic = "shoot mistake behave treat exile crumble need bus uncle reduce that priority";

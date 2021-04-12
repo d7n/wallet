@@ -1,1 +1,1 @@
-var mnemonic = "grace monitor divorce poet furnace jealous slab pear employ question order radar";
+var mnemonic = "live flock olympic century outdoor slide stamp cube radio title theory garlic";

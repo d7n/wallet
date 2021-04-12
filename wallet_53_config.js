@@ -1,1 +1,1 @@
-var mnemonic = "satoshi obey few chapter liar narrow tell embark peace vessel barrel welcome";
+var mnemonic = "flee ghost flower image hero try fuel across oval stamp confirm case";

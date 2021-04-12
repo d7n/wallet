@@ -1,1 +1,1 @@
-var mnemonic = "pig alpha shop squeeze when wrestle squeeze supply angry consider height invite";
+var mnemonic = "diamond arm battle mean hat online resource wine curtain reveal lecture gravity";

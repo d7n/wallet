@@ -1,1 +1,1 @@
-var mnemonic = "family soul note limit ugly taxi space mother black cake exotic order";
+var mnemonic = "polar bracket flat limit voyage canoe radio net army yellow vacuum devote";

@@ -1,1 +1,1 @@
-var mnemonic = "reject into couple split country author afraid amateur evil kite narrow simple";
+var mnemonic = "key token stuff wall scissors walk aerobic season toddler begin orient tomato";

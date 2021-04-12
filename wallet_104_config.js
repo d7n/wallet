@@ -1,1 +1,1 @@
-var mnemonic = "use junior member slim napkin fossil physical message theory shiver garbage noble";
+var mnemonic = "task van pact test divide helmet educate master twin misery slight fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "excess lumber paper attract rival absent mesh border candy quality other laugh";
+var mnemonic = "february siege uniform distance final lecture train track popular cattle myself multiply";

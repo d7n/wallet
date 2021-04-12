@@ -1,1 +1,1 @@
-var mnemonic = "shine region hole high royal ivory solar hybrid then shed input slot";
+var mnemonic = "liberty base push spend permit segment twelve shine obscure lens item course";

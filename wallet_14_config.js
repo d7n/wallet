@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cruel happy abstract observe rubber divide thing later save air lion";
+var mnemonic = "sun purse short shift kidney october runway mixture wine total gallery fault";

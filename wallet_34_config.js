@@ -1,1 +1,1 @@
-var mnemonic = "sugar silly bright cotton vague oven input sing lens group kind all";
+var mnemonic = "source stadium drink pair scorpion drive chimney kid test unable you crater";

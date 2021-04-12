@@ -1,1 +1,1 @@
-var mnemonic = "journey include prefer chicken charge card extra tattoo goose apology undo climb";
+var mnemonic = "never radar fence evil debate wait switch segment dumb share little net";

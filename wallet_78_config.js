@@ -1,1 +1,1 @@
-var mnemonic = "festival taxi stage throw patient south kite silver that buffalo nature seminar";
+var mnemonic = "school baby involve abuse menu bitter dog voyage hello answer pilot screen";

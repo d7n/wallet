@@ -1,1 +1,1 @@
-var mnemonic = "spray unit solid exist idea process milk fly announce trash upon ice";
+var mnemonic = "regret proof boost account plug cactus range arm saddle draft supply image";

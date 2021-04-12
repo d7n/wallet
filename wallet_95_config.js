@@ -1,1 +1,1 @@
-var mnemonic = "civil coil thank act code parrot south adapt during pen element enough";
+var mnemonic = "mask across cost hybrid vacuum universe provide extend muffin toddler hurdle retire";

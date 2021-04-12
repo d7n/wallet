@@ -1,1 +1,1 @@
-var mnemonic = "fine benefit script stock dumb old social matrix bounce cotton erase subway";
+var mnemonic = "hotel path clock burden metal couple fix pride armor tackle sure file";

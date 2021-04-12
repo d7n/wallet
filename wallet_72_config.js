@@ -1,1 +1,1 @@
-var mnemonic = "tragic electric hammer exotic deputy real timber bring today twelve ice stick";
+var mnemonic = "marble section among sport swing toy chunk garbage keep soap cross upgrade";

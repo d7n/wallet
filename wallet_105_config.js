@@ -1,1 +1,1 @@
-var mnemonic = "begin submit develop typical lab swamp gather lizard auction horror surprise winner";
+var mnemonic = "such scrub void toilet viable solar impact furnace early mushroom dinosaur million";

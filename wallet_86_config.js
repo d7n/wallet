@@ -1,1 +1,1 @@
-var mnemonic = "burden mail process dance crunch sure brother exhibit rule route kidney rug";
+var mnemonic = "pulse seat lumber bridge wisdom document joy job result quiz creek join";

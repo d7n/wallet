@@ -1,1 +1,1 @@
-var mnemonic = "onion rail slot pistol very table space stay corn already loyal sad";
+var mnemonic = "mimic tag belt green ticket broccoli sing grain dragon spot holiday sketch";

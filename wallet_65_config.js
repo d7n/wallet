@@ -1,1 +1,1 @@
-var mnemonic = "correct female opera strategy first zebra obscure drastic addict banana rescue humble";
+var mnemonic = "vital order layer dry pet valley cloth nut razor power attract conduct";

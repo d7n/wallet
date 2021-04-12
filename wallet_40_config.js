@@ -1,1 +1,1 @@
-var mnemonic = "limb attract vacant pond hello typical secret bulk volcano riot agent math";
+var mnemonic = "sample fence when liar august health govern canyon inhale police surface screen";

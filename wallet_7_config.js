@@ -1,1 +1,1 @@
-var mnemonic = "finger flush dynamic toe quote live divert gasp stage give jealous tent";
+var mnemonic = "blush clinic brisk sort merit magnet fragile coyote spike enough banner flavor";
