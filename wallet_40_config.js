@@ -1,1 +1,1 @@
-var mnemonic = "siege office this lesson pony cigar valve welcome convince must universe scare";
+var mnemonic = "predict celery real heart congress sail hill one genre field sheriff eternal";

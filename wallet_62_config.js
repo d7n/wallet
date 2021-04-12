@@ -1,1 +1,1 @@
-var mnemonic = "oxygen update novel bachelor demise cloud shoe person cabbage fringe limb saddle";
+var mnemonic = "because length reward train outer burst gown argue tired pluck praise inmate";

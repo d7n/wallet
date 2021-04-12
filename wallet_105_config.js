@@ -1,1 +1,1 @@
-var mnemonic = "letter bench fatigue auto remove border certain illegal day alpha nose neglect";
+var mnemonic = "gap outside sentence waste eagle possible life divert cage attend evidence minute";

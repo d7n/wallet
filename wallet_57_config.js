@@ -1,1 +1,1 @@
-var mnemonic = "reveal chuckle repair tide sign energy paper glue attack ability episode outside";
+var mnemonic = "round modify carpet awesome bounce reason doctor receive benefit entire spoon uniform";

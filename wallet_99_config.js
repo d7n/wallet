@@ -1,1 +1,1 @@
-var mnemonic = "property disagree palace talent youth runway calm pitch chat suggest boy cabin";
+var mnemonic = "rifle ignore tape emerge vessel fever swap tube seek fall bulb hurry";

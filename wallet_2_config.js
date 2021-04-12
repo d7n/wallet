@@ -1,1 +1,1 @@
-var mnemonic = "address bone above milk hint swarm patient used curve input lyrics blush";
+var mnemonic = "miss lawsuit pulse coffee movie arena cloud tiny pool bless symptom flush";

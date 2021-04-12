@@ -1,1 +1,1 @@
-var mnemonic = "grab kitchen maze lyrics history hobby capital zone lens vicious poem mango";
+var mnemonic = "tornado celery primary author twice kite flush clarify month client lion fitness";

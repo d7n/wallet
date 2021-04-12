@@ -1,1 +1,1 @@
-var mnemonic = "bring spot town witness combine simple devote twin simple circle glue explain";
+var mnemonic = "burst web dentist ribbon city tourist delay budget pioneer dream tornado belt";

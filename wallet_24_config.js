@@ -1,1 +1,1 @@
-var mnemonic = "gate glove chest torch emerge garment scheme congress blue paddle gravity spy";
+var mnemonic = "caught strategy tank design oak gold grid cloud else laugh hockey awake";

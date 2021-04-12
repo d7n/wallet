@@ -1,1 +1,1 @@
-var mnemonic = "doll focus domain sunset language twist banana payment melt deposit leisure patrol";
+var mnemonic = "ski voice ring nominee blouse security twelve repeat thing diagram provide rice";

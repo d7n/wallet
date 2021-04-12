@@ -1,1 +1,1 @@
-var mnemonic = "around science ostrich defense focus child raven use craft entire grow panda";
+var mnemonic = "fit axis slight panic unusual sponsor ridge nominee follow ivory life parade";

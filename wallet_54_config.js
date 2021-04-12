@@ -1,1 +1,1 @@
-var mnemonic = "crunch danger crack enemy loan inside patrol cluster wife happy soul man";
+var mnemonic = "okay ask fluid yard recipe obscure clean goat space snow same clinic";

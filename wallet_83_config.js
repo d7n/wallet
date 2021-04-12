@@ -1,1 +1,1 @@
-var mnemonic = "afraid develop miss explain shadow ordinary today oxygen stand roof scan stadium";
+var mnemonic = "whip grace liquid lamp filter glory leg below wealth remember trap bulk";

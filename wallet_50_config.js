@@ -1,1 +1,1 @@
-var mnemonic = "emerge present hire gallery team pudding aim weasel extend mixture piece learn";
+var mnemonic = "picnic fire trash defy crumble whisper hero again sudden laptop heart wheat";

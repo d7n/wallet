@@ -1,1 +1,1 @@
-var mnemonic = "february sad inhale bunker select spy focus hill economy inherit unusual anger";
+var mnemonic = "unhappy comfort tip spirit panther logic near milk brick scheme cat heart";

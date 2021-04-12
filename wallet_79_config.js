@@ -1,1 +1,1 @@
-var mnemonic = "shallow angry gallery female faith inflict fetch dinosaur ask already smooth hard";
+var mnemonic = "find assume comfort kitten twenty brief weapon shoulder bronze mixture faith clump";

@@ -1,1 +1,1 @@
-var mnemonic = "wet agent ski inhale knife asset sick second ramp apology allow enrich";
+var mnemonic = "struggle own luggage enough fruit truck tell legend act wave wasp hockey";

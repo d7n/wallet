@@ -1,1 +1,1 @@
-var mnemonic = "fragile cave another crew involve ladder field cube ahead stick video banner";
+var mnemonic = "tunnel smoke point head scrub relief cupboard barely tag resemble trophy frost";

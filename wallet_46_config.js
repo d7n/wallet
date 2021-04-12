@@ -1,1 +1,1 @@
-var mnemonic = "across recycle trumpet blush check lava broccoli injury perfect yard mad rebel";
+var mnemonic = "humor coconut expose enlist arrive permit oven poverty help client cloud suit";

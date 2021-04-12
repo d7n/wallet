@@ -1,1 +1,1 @@
-var mnemonic = "venue daring globe myth put despair noise deposit float neutral saddle subject";
+var mnemonic = "hope dial blind initial magnet relax reward width today inherit repair field";

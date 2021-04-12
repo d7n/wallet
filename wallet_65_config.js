@@ -1,1 +1,1 @@
-var mnemonic = "ankle half urge gospel build great hole left lion want sorry eye";
+var mnemonic = "lunch gesture curtain region feed smart tragic purity train undo lava horn";

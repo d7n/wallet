@@ -1,1 +1,1 @@
-var mnemonic = "chair good toe scrap result then envelope egg dinner royal between tide";
+var mnemonic = "engage blossom orient cattle morning anxiety creek sign tone clap tree portion";

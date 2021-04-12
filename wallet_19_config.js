@@ -1,1 +1,1 @@
-var mnemonic = "sick boat behave unlock afraid actor oven mimic trigger man sting cement";
+var mnemonic = "human this supreme culture expand option eager mule skirt clap tortoise door";

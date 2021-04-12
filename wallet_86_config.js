@@ -1,1 +1,1 @@
-var mnemonic = "language tennis curtain already left bubble agree eagle hover romance journey electric";
+var mnemonic = "room yard require junior devote crack differ flush train afford street recycle";

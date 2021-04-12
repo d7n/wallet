@@ -1,1 +1,1 @@
-var mnemonic = "bounce pizza nature coil video mad pulp inner main skull verify salute";
+var mnemonic = "resemble private lottery clip diamond city wrestle invest help save forward illegal";

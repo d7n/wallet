@@ -1,1 +1,1 @@
-var mnemonic = "weekend food slim poem vehicle lava high valid broccoli fine witness hire";
+var mnemonic = "sibling write congress web husband middle fatal fine harvest moral erase omit";

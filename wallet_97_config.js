@@ -1,1 +1,1 @@
-var mnemonic = "impose write nature lock any like vocal trumpet panther way mansion crack";
+var mnemonic = "broom crop vote liberty furnace zero mango fiscal neither merge love what";

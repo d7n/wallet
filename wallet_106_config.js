@@ -1,1 +1,1 @@
-var mnemonic = "swallow visa item gorilla conduct misery avoid right keen onion faint payment";
+var mnemonic = "cannon fame cushion return erode absurd mom pitch mention canvas good latin";

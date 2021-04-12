@@ -1,1 +1,1 @@
-var mnemonic = "tennis tired square romance kit attack keep address shy title amount page";
+var mnemonic = "ignore return window usage tooth kind dumb body swing milk prison dove";

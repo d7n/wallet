@@ -1,1 +1,1 @@
-var mnemonic = "strong planet south turn window bid drastic source civil fortune crime forward";
+var mnemonic = "silly team huge season express simple trust legal enemy reduce animal matter";

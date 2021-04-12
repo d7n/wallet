@@ -1,1 +1,1 @@
-var mnemonic = "symbol derive useful sort side shield sing organ patch family decide upgrade";
+var mnemonic = "arrive shaft attack proud joy day very rib repeat mandate era exact";

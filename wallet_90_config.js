@@ -1,1 +1,1 @@
-var mnemonic = "faculty entire can express knock border tube direct okay eternal hedgehog video";
+var mnemonic = "devote steak ridge unique fragile toy picnic excuse general consider train divorce";

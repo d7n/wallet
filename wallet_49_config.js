@@ -1,1 +1,1 @@
-var mnemonic = "edge legend tongue girl later ride hood display flag hawk liquid other";
+var mnemonic = "cabin together balcony canyon draft term alarm silk wood paper main twin";

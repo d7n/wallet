@@ -1,1 +1,1 @@
-var mnemonic = "road survey indicate top duck faculty casual popular agree able manage club";
+var mnemonic = "boat final joy cash desert spice curve cluster uphold evoke pave follow";

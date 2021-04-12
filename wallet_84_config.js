@@ -1,1 +1,1 @@
-var mnemonic = "seed slush tribe luggage expand puppy together inch hello lucky stay dynamic";
+var mnemonic = "vessel west memory caught sausage same media extra pact marine move tunnel";

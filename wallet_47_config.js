@@ -1,1 +1,1 @@
-var mnemonic = "blanket level desk load napkin near horse vapor napkin neglect pipe firm";
+var mnemonic = "sun assume egg game birth once service clip tourist all mule asthma";

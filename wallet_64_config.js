@@ -1,1 +1,1 @@
-var mnemonic = "wear stand glove abuse cheese child stumble stage spell shrug trash review";
+var mnemonic = "hen already ordinary effort believe fatal brand clutch mouse cabin cable document";

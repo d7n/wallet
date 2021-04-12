@@ -1,1 +1,1 @@
-var mnemonic = "december island must this gloom camera flame any slot oak material sand";
+var mnemonic = "spatial trial giggle wool weather oxygen motor short perfect edge magic van";

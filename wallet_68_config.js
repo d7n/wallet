@@ -1,1 +1,1 @@
-var mnemonic = "hurry narrow pledge abandon spoil nest maple animal renew sphere bacon view";
+var mnemonic = "boost dolphin year consider oven dose scrap crash rifle plate tattoo taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "doll return brave tornado whale oppose priority ghost episode harsh swim wool";
+var mnemonic = "outside lamp alarm number yellow bomb glare typical actor story always disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive rigid nasty next expose baby company junk proof address opera action";
+var mnemonic = "notice window dentist fuel coach immense gorilla panda first equip dry guard";

@@ -1,1 +1,1 @@
-var mnemonic = "injury crime cattle favorite arm ask waste chaos stumble mansion teach pulp";
+var mnemonic = "special demise panda usual birth isolate author remember among cause first ahead";

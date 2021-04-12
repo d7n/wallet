@@ -1,1 +1,1 @@
-var mnemonic = "access entry hire give foam champion snow town hen ostrich improve recycle";
+var mnemonic = "produce kit fee mouse change human you error midnight shiver wheat slab";

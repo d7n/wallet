@@ -1,1 +1,1 @@
-var mnemonic = "turkey sure excess flush repeat conduct inflict borrow charge stomach crystal movie";
+var mnemonic = "search vital mask frog slow spawn season story float gain clog april";

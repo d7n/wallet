@@ -1,1 +1,1 @@
-var mnemonic = "pioneer dad lemon inch law average sponsor erode security sniff resemble enable";
+var mnemonic = "inch country sibling pulp country law peasant any garment sunset luxury simple";

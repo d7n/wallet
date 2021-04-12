@@ -1,1 +1,1 @@
-var mnemonic = "end poet metal payment rare dog help clarify license allow olive draw";
+var mnemonic = "firm unfair hub wave kit source frozen journey force practice pull sadness";

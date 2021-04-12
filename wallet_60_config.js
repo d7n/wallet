@@ -1,1 +1,1 @@
-var mnemonic = "duty glue school twelve twenty uncover average chronic then bonus cheap orbit";
+var mnemonic = "napkin rubber suggest agree fit nut same truly science orbit diet kitten";

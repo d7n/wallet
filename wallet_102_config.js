@@ -1,1 +1,1 @@
-var mnemonic = "vendor clutch occur door sun odor zoo mule fame mystery teach sail";
+var mnemonic = "butter symptom rebuild coast crucial diet jelly text tag shield strike toss";

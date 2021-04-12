@@ -1,1 +1,1 @@
-var mnemonic = "surprise regular auto beach about jelly scale below uncover fabric valid ahead";
+var mnemonic = "wine village inhale debate rely siege tourist elegant pioneer belt ticket tomato";

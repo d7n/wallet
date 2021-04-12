@@ -1,1 +1,1 @@
-var mnemonic = "horn almost zoo tomorrow smooth guitar caught achieve receive artist need over";
+var mnemonic = "page prefer rude flip spare just engage want pizza attract bike monkey";

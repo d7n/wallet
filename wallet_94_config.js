@@ -1,1 +1,1 @@
-var mnemonic = "host dust earth bulb swing harvest race soup derive energy cry mammal";
+var mnemonic = "response poem angle theme giraffe ritual toilet balance region blush enemy trap";

@@ -1,1 +1,1 @@
-var mnemonic = "gown february health toddler exit feed faculty lawsuit sweet zero monster meat";
+var mnemonic = "okay six stairs chase seat inch best sorry total weekend dawn circle";

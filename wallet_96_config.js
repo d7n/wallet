@@ -1,1 +1,1 @@
-var mnemonic = "answer cousin cream series pulp hidden remind muscle crunch dragon spike rate";
+var mnemonic = "zero account blind meat jeans brisk broken sad old lunar spice garden";

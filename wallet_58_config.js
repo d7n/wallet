@@ -1,1 +1,1 @@
-var mnemonic = "sock monkey father crop reward angle huge parade rail gaze program predict";
+var mnemonic = "session october coyote mimic purchase team mobile exit good horse paper profit";

@@ -1,1 +1,1 @@
-var mnemonic = "pony habit screen noise clock nose gospel brand hedgehog urban moment wet";
+var mnemonic = "trash hill degree phrase swear seat shop slogan club silly pumpkin hire";

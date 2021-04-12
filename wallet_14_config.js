@@ -1,1 +1,1 @@
-var mnemonic = "skin differ blind yellow inmate favorite ring village quit season diamond concert";
+var mnemonic = "talent chalk list turtle weapon camera usage buffalo core silver olympic middle";

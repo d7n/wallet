@@ -1,1 +1,1 @@
-var mnemonic = "weather light wife thunder puzzle deny coffee tuition keep undo audit inherit";
+var mnemonic = "verify limit say elegant short decide weather athlete brisk spot doctor lift";

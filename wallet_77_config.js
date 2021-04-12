@@ -1,1 +1,1 @@
-var mnemonic = "strike device quantum heart rubber unaware route post dismiss question baby worth";
+var mnemonic = "degree cushion critic vague lottery agree thrive giggle summer view noodle tornado";

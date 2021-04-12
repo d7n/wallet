@@ -1,1 +1,1 @@
-var mnemonic = "dilemma million cruel gaze stomach citizen keep update horror dilemma swamp ill";
+var mnemonic = "home ozone horn require vapor option grape bundle announce ripple bone hunt";

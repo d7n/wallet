@@ -1,1 +1,1 @@
-var mnemonic = "balance pull design royal remain abstract skirt student observe bitter news tray";
+var mnemonic = "brain fashion scrub globe gown park parent scare load decorate warfare process";

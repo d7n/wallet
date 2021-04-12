@@ -1,1 +1,1 @@
-var mnemonic = "online lamp athlete universe weather profit enough state million dutch seek pond";
+var mnemonic = "ivory idea law clutch casual income virus math lizard require spend nerve";

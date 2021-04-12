@@ -1,1 +1,1 @@
-var mnemonic = "bright square hope require cloud fix verb erosion very surprise media olympic";
+var mnemonic = "actual champion snake settle prevent vessel reunion cute harsh setup float affair";

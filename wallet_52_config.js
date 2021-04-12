@@ -1,1 +1,1 @@
-var mnemonic = "property comfort toe attend cable yellow slot calm height rail angle deny";
+var mnemonic = "list battle alley elegant garment drama grass float snap garden life avocado";

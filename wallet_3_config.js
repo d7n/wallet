@@ -1,1 +1,1 @@
-var mnemonic = "sudden similar salmon clock erase over victory tonight confirm memory hair scissors";
+var mnemonic = "learn nest price hammer once roof sunset proud pilot material cheese finish";

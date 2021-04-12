@@ -1,1 +1,1 @@
-var mnemonic = "flush warm crash job struggle canvas essence fossil inch luggage august goose";
+var mnemonic = "cousin supreme credit permit human violin attract dentist envelope topple razor input";

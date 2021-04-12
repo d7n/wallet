@@ -1,1 +1,1 @@
-var mnemonic = "rocket just force fine awkward small scout donkey enrich praise only retreat";
+var mnemonic = "sustain express color blame capable special clog fresh drift weekend industry select";

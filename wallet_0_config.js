@@ -1,1 +1,1 @@
-var mnemonic = "fragile slender equip narrow chest jump broken keep zone decide easily plug";
+var mnemonic = "tube office cereal tornado hover autumn vessel match jar powder obey dignity";

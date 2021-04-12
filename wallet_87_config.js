@@ -1,1 +1,1 @@
-var mnemonic = "snap style secret salad brief organ cruise slot crazy perfect grow move";
+var mnemonic = "avoid erosion salute soldier inhale remind cancel fury comfort napkin anchor pitch";

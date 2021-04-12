@@ -1,1 +1,1 @@
-var mnemonic = "clutch cave march involve version purse nose street soup neglect display ghost";
+var mnemonic = "federal blush hedgehog stadium creek trophy upon kingdom stomach smoke nature head";

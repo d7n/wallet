@@ -1,1 +1,1 @@
-var mnemonic = "oak zone mango wire tone add cactus code time insect follow panther";
+var mnemonic = "puppy window avocado nice gravity age wrist scatter situate reveal thank make";

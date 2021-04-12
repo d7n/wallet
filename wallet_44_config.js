@@ -1,1 +1,1 @@
-var mnemonic = "tissue winter rhythm fragile soccer drip fat injury merry warrior aware census";
+var mnemonic = "question beauty regret smooth rookie toddler depend pitch grape negative foil apart";

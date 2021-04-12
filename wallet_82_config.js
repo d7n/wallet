@@ -1,1 +1,1 @@
-var mnemonic = "price twenty orchard message file average virus clock side chef eight salute";
+var mnemonic = "banner away give short token blush improve sketch voice lemon grape blue";

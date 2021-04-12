@@ -1,1 +1,1 @@
-var mnemonic = "pipe tomato kidney glance angle scout broken review book cannon remove trend";
+var mnemonic = "trade maple short jaguar beyond kidney buddy chimney room spare office iron";

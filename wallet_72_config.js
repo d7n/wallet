@@ -1,1 +1,1 @@
-var mnemonic = "phrase winner melody insect cousin mule wife discover please nurse club various";
+var mnemonic = "vintage element tent absorb giraffe idle coil tourist paddle stairs mountain industry";

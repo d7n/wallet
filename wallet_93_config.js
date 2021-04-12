@@ -1,1 +1,1 @@
-var mnemonic = "monitor about divert puzzle armor giraffe piece olympic glow clap noise lava";
+var mnemonic = "beef vault buzz celery ocean vendor board bamboo flee return settle sock";

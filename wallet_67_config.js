@@ -1,1 +1,1 @@
-var mnemonic = "that science cinnamon tribe road blouse rug potato unable protect switch power";
+var mnemonic = "extra physical blade demand cancel author smile knife approve example sudden toddler";

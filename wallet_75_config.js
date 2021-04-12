@@ -1,1 +1,1 @@
-var mnemonic = "action unusual mask feel vague liquid help lend dream crunch unhappy hammer";
+var mnemonic = "wreck term prevent nephew expire ancient physical surprise still festival guilt artist";

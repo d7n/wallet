@@ -1,1 +1,1 @@
-var mnemonic = "buddy arrive mercy chase stable meadow mango moment robot car sheriff symptom";
+var mnemonic = "width stock convince vacant daring artist nerve tennis dutch happy soccer cigar";

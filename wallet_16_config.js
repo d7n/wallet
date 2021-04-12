@@ -1,1 +1,1 @@
-var mnemonic = "annual fiber shaft indoor bunker pond radio addict decrease ridge hedgehog business";
+var mnemonic = "machine you erosion vote dinner body wink riot stay path maximum design";

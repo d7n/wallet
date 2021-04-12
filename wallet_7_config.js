@@ -1,1 +1,1 @@
-var mnemonic = "jacket regret side surge tennis bubble clean ocean silent entire spare shine";
+var mnemonic = "trust hurt walnut festival jungle canyon citizen method together opinion noble about";

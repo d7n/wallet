@@ -1,1 +1,1 @@
-var mnemonic = "volcano fever today damp ranch loyal reveal later setup elegant advice stomach";
+var mnemonic = "idea horse primary priority strategy govern shock wet snap scout blade note";

@@ -1,1 +1,1 @@
-var mnemonic = "visa cart toddler fringe light journey elegant faint meadow lonely anxiety enter";
+var mnemonic = "include cave spirit price eternal civil setup inmate goat minimum omit problem";

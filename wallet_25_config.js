@@ -1,1 +1,1 @@
-var mnemonic = "solution angry distance medal gap early shift output deny eye bacon muffin";
+var mnemonic = "robot aspect armor bomb ski gauge rebuild invest any gloom wasp kitchen";

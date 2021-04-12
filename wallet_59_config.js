@@ -1,1 +1,1 @@
-var mnemonic = "panic sudden apart actual limit bike faculty tiny file case ostrich hedgehog";
+var mnemonic = "eight vivid drink slow until dad walnut enable near bitter enlist property";

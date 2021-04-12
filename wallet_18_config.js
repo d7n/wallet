@@ -1,1 +1,1 @@
-var mnemonic = "must ticket narrow east else lobster tackle voyage keen wrong cage armed";
+var mnemonic = "survey table repair antique urban tenant elephant demise disease hole mosquito globe";

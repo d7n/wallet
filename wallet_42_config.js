@@ -1,1 +1,1 @@
-var mnemonic = "pilot sign deposit engage sample hobby cloud ancient stand matrix try wrong";
+var mnemonic = "safe cook lake want muscle immense release silk job ankle among lazy";

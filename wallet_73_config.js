@@ -1,1 +1,1 @@
-var mnemonic = "stay nest mutual cake napkin party eyebrow arch oppose eye price clog";
+var mnemonic = "oven carpet head broken valid north inform fan just spoil either tool";

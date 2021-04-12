@@ -1,1 +1,1 @@
-var mnemonic = "used machine evoke when pool depart mail amused piano front sleep payment";
+var mnemonic = "unfair anchor company erupt east consider jazz recall make you couch decline";

@@ -1,1 +1,1 @@
-var mnemonic = "matter loyal nation kitten canyon solid scorpion quality crash output stumble payment";
+var mnemonic = "keep lawsuit rifle mercy unit village culture prize abandon cram drop combine";

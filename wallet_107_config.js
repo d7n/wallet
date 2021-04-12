@@ -1,1 +1,1 @@
-var mnemonic = "unlock category burst liquid change today guard when better junk wise satisfy";
+var mnemonic = "guide kidney eager unveil zero fish humble syrup multiply toilet blind visual";

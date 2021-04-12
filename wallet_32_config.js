@@ -1,1 +1,1 @@
-var mnemonic = "boss like movie fan choice define cream lady clump evoke grow assume";
+var mnemonic = "any narrow vanish caution occur pig test demise sauce arrest hundred powder";

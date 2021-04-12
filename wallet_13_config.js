@@ -1,1 +1,1 @@
-var mnemonic = "tip symptom report resist marine crystal bamboo width worry mango spider camp";
+var mnemonic = "flower casino airport garage economy follow monkey cram scare juice siren best";

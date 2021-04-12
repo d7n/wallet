@@ -1,1 +1,1 @@
-var mnemonic = "neutral result mosquito meadow weird rifle outdoor inner rubber doll cool common";
+var mnemonic = "receive certain mirror hundred share winner flock column output medal grant dirt";
