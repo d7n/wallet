@@ -1,1 +1,1 @@
-var mnemonic = "taste ripple universe alien wrap breeze inhale jungle story pencil view flame";
+var mnemonic = "orange spring myself pigeon luggage hole degree endless sausage baby parrot brass";

@@ -1,1 +1,1 @@
-var mnemonic = "warm olympic solid dwarf donor cricket episode execute inmate usage boss twenty";
+var mnemonic = "parent cradle possible film behave south flat injury usage middle rare concert";

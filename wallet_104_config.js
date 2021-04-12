@@ -1,1 +1,1 @@
-var mnemonic = "lamp tribe green vanish radar tilt egg into robot wedding public whale";
+var mnemonic = "abuse wrestle brush error theme similar fatal job puppy distance spin suit";

@@ -1,1 +1,1 @@
-var mnemonic = "convince lens great pattern output apple random nothing pitch fitness cushion token";
+var mnemonic = "impulse hero release buddy found man refuse loop guitar upset snow bargain";

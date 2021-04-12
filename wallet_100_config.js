@@ -1,1 +1,1 @@
-var mnemonic = "exile cake blood comfort april smoke demand script wide assault glad vessel";
+var mnemonic = "gadget lawn rebel brave range father fork since before solid mango arctic";

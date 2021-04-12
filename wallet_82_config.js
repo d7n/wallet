@@ -1,1 +1,1 @@
-var mnemonic = "analyst gorilla document bench else bike staff pretty jazz various hair island";
+var mnemonic = "sense lens fluid cave radar federal gravity sunset dust jazz bone crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin lecture jacket reflect lake hat discover wear review tongue lawsuit lazy";
+var mnemonic = "turn abuse estate ice analyst ahead gravity unlock shop stereo journey profit";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic snow boil sense margin source useful romance parent tuition brief click";
+var mnemonic = "educate basket subway have chat seven movie coconut poem girl april exact";

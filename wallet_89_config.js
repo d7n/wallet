@@ -1,1 +1,1 @@
-var mnemonic = "visual west young tail canoe kangaroo excite priority cement recipe very slice";
+var mnemonic = "finish aerobic parrot tell blind true brisk obtain defy climb motion option";

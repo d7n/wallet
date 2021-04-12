@@ -1,1 +1,1 @@
-var mnemonic = "void mirror wet switch junior discover sand hungry helmet cabbage loop question";
+var mnemonic = "penalty erupt toward future exile dwarf hood tail fish holiday pluck negative";

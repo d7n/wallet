@@ -1,1 +1,1 @@
-var mnemonic = "accident grain essence wire board exact pole orphan agree ozone birth track";
+var mnemonic = "arrange copper put slide trim fat stick envelope story will viable box";

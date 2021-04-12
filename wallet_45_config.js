@@ -1,1 +1,1 @@
-var mnemonic = "garment warm illegal detail budget follow hub nice debris submit valve minor";
+var mnemonic = "enhance corn reunion process nose glance hammer random random door metal exist";

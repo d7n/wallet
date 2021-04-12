@@ -1,1 +1,1 @@
-var mnemonic = "wild transfer increase sudden budget bamboo amazing dignity amazing bonus fee recall";
+var mnemonic = "wage gentle jar defense perfect diagram famous into because swim someone thank";

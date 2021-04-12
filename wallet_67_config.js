@@ -1,1 +1,1 @@
-var mnemonic = "zoo solar treat one tiny silent earth drama lamp stick theory liar";
+var mnemonic = "print useless funny congress glow kit height later cage whip vocal total";

@@ -1,1 +1,1 @@
-var mnemonic = "pet visa example sword custom grain grain distance hub trip false rubber";
+var mnemonic = "inside rich enter found notable fitness harvest produce lava season brisk census";

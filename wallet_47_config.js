@@ -1,1 +1,1 @@
-var mnemonic = "squirrel flat battle frog craft barely famous piece grape section leg sure";
+var mnemonic = "ivory office odor exclude phone head stable manual text few custom volume";

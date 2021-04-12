@@ -1,1 +1,1 @@
-var mnemonic = "salon junior into anger client proud swamp juice index deal primary bridge";
+var mnemonic = "pave illness movie ranch tilt blouse level snap alley grow horn pride";

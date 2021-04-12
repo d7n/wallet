@@ -1,1 +1,1 @@
-var mnemonic = "benefit tattoo crucial end grief ridge salt clarify ski behind position april";
+var mnemonic = "sleep festival wheel coach doctor proud version use wet odor bid post";

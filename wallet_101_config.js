@@ -1,1 +1,1 @@
-var mnemonic = "evoke auction street produce there such kiwi happy device inquiry ski possible";
+var mnemonic = "trend north govern wedding found someone name march detail tenant sword custom";

@@ -1,1 +1,1 @@
-var mnemonic = "net defy december book vanish talk vague use couple dune ask amount";
+var mnemonic = "submit poverty casino key panic relax armor office layer spice liberty run";

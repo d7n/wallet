@@ -1,1 +1,1 @@
-var mnemonic = "toddler garlic crush bench whisper correct wild happy enough hand wall urban";
+var mnemonic = "match laugh velvet room tone argue naive route dash nature exotic first";

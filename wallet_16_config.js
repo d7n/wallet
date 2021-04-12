@@ -1,1 +1,1 @@
-var mnemonic = "illegal will fatigue lecture dry drum under toward chat hard jar allow";
+var mnemonic = "donate price agent tunnel vibrant duck install dad over drum trash talk";

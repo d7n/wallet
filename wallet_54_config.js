@@ -1,1 +1,1 @@
-var mnemonic = "upon fetch emotion inject picture island cactus lady picnic park sniff turtle";
+var mnemonic = "gloom guide engage business clap shine rice clown midnight quote buddy comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "hold dinner visit letter debate among stick language buyer betray angle horn";
+var mnemonic = "useful board runway estate cage south actual job quit predict fire uncover";

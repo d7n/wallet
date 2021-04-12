@@ -1,1 +1,1 @@
-var mnemonic = "palace couch dream forum noble wife crucial south identify else clutch again";
+var mnemonic = "grape dice truth front force note chunk clock travel family salt what";

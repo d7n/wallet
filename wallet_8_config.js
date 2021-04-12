@@ -1,1 +1,1 @@
-var mnemonic = "crater canvas uncle harsh dignity oblige industry floor question female bargain pig";
+var mnemonic = "legal average skate act wheat win turn prize jacket fly midnight wealth";

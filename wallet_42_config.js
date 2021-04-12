@@ -1,1 +1,1 @@
-var mnemonic = "country yellow rely pole fault lamp maple ill burden chair chair win";
+var mnemonic = "all melt glory select announce unit wonder axis furnace farm elephant canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "visit stand globe cause hair myself token couple profit clay behave caution";
+var mnemonic = "soldier abuse noodle eye surprise firm space stamp either maze couple aerobic";

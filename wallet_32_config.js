@@ -1,1 +1,1 @@
-var mnemonic = "aunt busy find property stock target damp cash cotton success craft lucky";
+var mnemonic = "picnic social play fox digital never soup narrow clip hawk source stumble";

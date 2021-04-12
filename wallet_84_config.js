@@ -1,1 +1,1 @@
-var mnemonic = "glance modify circle approve arctic pistol topic area siege mixed math guitar";
+var mnemonic = "iron own tower perfect close because force share annual sick praise rubber";

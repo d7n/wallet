@@ -1,1 +1,1 @@
-var mnemonic = "vanish major state hold person cash pudding reveal harsh priority easily picture";
+var mnemonic = "van one palm assume scale boat tennis recall side useful goddess rent";

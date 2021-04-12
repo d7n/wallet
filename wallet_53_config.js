@@ -1,1 +1,1 @@
-var mnemonic = "actual price visa talk photo ginger brass furnace sunny depth owner decide";
+var mnemonic = "warfare license stumble fault team hospital goose pepper broccoli wife vibrant into";

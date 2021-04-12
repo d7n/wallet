@@ -1,1 +1,1 @@
-var mnemonic = "together lab diamond illness medal bronze violin rude gloom purity jungle rigid";
+var mnemonic = "one thrive sleep boil valley exotic kangaroo rent rich air dawn castle";

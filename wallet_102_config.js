@@ -1,1 +1,1 @@
-var mnemonic = "approve local cover coach wreck wool caught desert mountain congress dentist such";
+var mnemonic = "express doctor tool tomorrow grief earth enough shoe model flush version olympic";

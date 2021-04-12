@@ -1,1 +1,1 @@
-var mnemonic = "upgrade rival vehicle payment width coach zone orchard clay prosper solar biology";
+var mnemonic = "bounce couch glad mesh false audit cattle rough please meat virus narrow";

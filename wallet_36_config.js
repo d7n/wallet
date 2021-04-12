@@ -1,1 +1,1 @@
-var mnemonic = "shadow blossom luggage topic icon patrol age minor vapor oxygen discover spray";
+var mnemonic = "swallow desk meadow summer appear broken team brand craft burger alcohol actual";

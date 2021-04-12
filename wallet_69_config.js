@@ -1,1 +1,1 @@
-var mnemonic = "uniform top foam crouch choose process sword ancient bike awful midnight major";
+var mnemonic = "beyond pole seek melt exchange decade exhibit test situate reward maze man";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid demise chaos message hurt cream solar cross provide direct motion ethics";
+var mnemonic = "phone muscle autumn tribe talent addict jaguar rack thought uncle arctic crew";

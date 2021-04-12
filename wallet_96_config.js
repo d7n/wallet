@@ -1,1 +1,1 @@
-var mnemonic = "company snack market cage laptop legend hint rifle capable festival recycle urge";
+var mnemonic = "build battle uniform fault math fix join rare adapt remember ginger tired";

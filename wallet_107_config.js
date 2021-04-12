@@ -1,1 +1,1 @@
-var mnemonic = "evidence two digital math source faculty term gather off runway barrel tiny";
+var mnemonic = "write antenna cherry kangaroo yard dish problem badge treat early prison bid";

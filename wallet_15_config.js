@@ -1,1 +1,1 @@
-var mnemonic = "pair bamboo rural barrel valid small evil fan satisfy allow execute icon";
+var mnemonic = "host recall boring dentist clown amateur thank dinner hurt crash taxi leg";

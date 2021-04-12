@@ -1,1 +1,1 @@
-var mnemonic = "solve dose limit this zone behave blind powder jacket attack sphere series";
+var mnemonic = "sadness artwork panda grid tongue obtain enable wing heart end burst mushroom";

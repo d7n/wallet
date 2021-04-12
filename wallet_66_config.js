@@ -1,1 +1,1 @@
-var mnemonic = "normal loan sun youth mask stay cousin vapor chicken torch tiger grape";
+var mnemonic = "quantum device ticket demise reject clutch inject alcohol gym outside name champion";

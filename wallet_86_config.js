@@ -1,1 +1,1 @@
-var mnemonic = "define nice venue message such dragon spin solution lady fancy illness must";
+var mnemonic = "dismiss planet butter mad arrive aerobic trumpet mesh morning smooth physical fog";

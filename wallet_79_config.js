@@ -1,1 +1,1 @@
-var mnemonic = "close cake popular moral spot canyon pledge collect simple wrestle bike fork";
+var mnemonic = "moment wish prosper pulp scan absent father tank wreck size calm mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin surprise unknown bag castle better nut decide rack bench wonder nasty";
+var mnemonic = "movie long isolate forward civil gentle stomach bunker oven cat start noise";

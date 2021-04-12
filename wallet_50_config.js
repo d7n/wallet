@@ -1,1 +1,1 @@
-var mnemonic = "shadow culture trigger stamp afraid ridge vibrant impose category oxygen rack reward";
+var mnemonic = "erosion shell pig spirit case return debris canvas ice marine trust busy";

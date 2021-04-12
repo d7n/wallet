@@ -1,1 +1,1 @@
-var mnemonic = "tonight diagram cupboard hill orbit spring apple adapt segment social eager wonder";
+var mnemonic = "blame mansion achieve smile tower spirit casual occur surprise food melody pipe";

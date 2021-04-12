@@ -1,1 +1,1 @@
-var mnemonic = "soup bridge arm doll hungry milk work round excess wire reduce volume";
+var mnemonic = "crew rifle exhibit middle gentle nose hotel brave want once bright until";

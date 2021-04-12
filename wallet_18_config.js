@@ -1,1 +1,1 @@
-var mnemonic = "make occur better climb field siege shine swear own inside crouch absorb";
+var mnemonic = "course runway junior seat divide oblige income uniform horn paper answer reject";

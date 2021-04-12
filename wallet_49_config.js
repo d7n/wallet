@@ -1,1 +1,1 @@
-var mnemonic = "butter topple maid lawsuit verb also sea turtle insane drum help metal";
+var mnemonic = "report welcome provide project walnut victory never inherit economy area unfold version";

@@ -1,1 +1,1 @@
-var mnemonic = "snack era bargain dry illness peanut dress clay reason squirrel unknown approve";
+var mnemonic = "parade will onion shoot render banana multiply north rude inflict rule stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "swim illness speak air govern scale glide speed better crazy people bid";
+var mnemonic = "return pause hour history cream noise street minimum weekend age half craft";

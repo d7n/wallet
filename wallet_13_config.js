@@ -1,1 +1,1 @@
-var mnemonic = "survey tube organ camera cave cause laptop circle arrow mixed sustain gift";
+var mnemonic = "balance option very paper drink wage save pool bread sure mention horn";

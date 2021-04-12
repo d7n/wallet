@@ -1,1 +1,1 @@
-var mnemonic = "smart pledge shell income sword improve people tobacco they feed green verb";
+var mnemonic = "flock east fatigue best enough prison menu shuffle outer woman reject picture";

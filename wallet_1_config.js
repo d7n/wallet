@@ -1,1 +1,1 @@
-var mnemonic = "festival hope expire forum depth assume opera page earth apart wool walk";
+var mnemonic = "scrub merry load copy century floor turtle hello laptop survey bar inside";

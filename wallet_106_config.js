@@ -1,1 +1,1 @@
-var mnemonic = "interest fancy bag model target secret surprise spend say caught toilet famous";
+var mnemonic = "dignity ritual village dragon power lunch roast health sell catch awful detect";

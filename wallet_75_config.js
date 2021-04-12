@@ -1,1 +1,1 @@
-var mnemonic = "solution box year famous special minute radio private chuckle tape earth usual";
+var mnemonic = "marble like toss casual blouse retire goat flavor desert ensure print win";

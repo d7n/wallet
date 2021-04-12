@@ -1,1 +1,1 @@
-var mnemonic = "dignity axis century lobster verify mind unveil dry thought fat kiwi gym";
+var mnemonic = "athlete train solution oil scheme sick jar knee error honey crew credit";

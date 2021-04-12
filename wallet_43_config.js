@@ -1,1 +1,1 @@
-var mnemonic = "quality acoustic gossip hawk fancy reveal foot defense fit scheme endless duty";
+var mnemonic = "excite woman title iron total stereo feed robot wolf puzzle increase swim";

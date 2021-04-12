@@ -1,1 +1,1 @@
-var mnemonic = "long click resist evil street salmon anchor table dish symbol pool firm";
+var mnemonic = "festival priority same carpet cycle tape menu height veteran cargo style buyer";

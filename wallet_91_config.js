@@ -1,1 +1,1 @@
-var mnemonic = "license debris tiger lounge gift false glad squirrel trade rhythm stage illegal";
+var mnemonic = "into demise differ rack session hurdle stamp flower question globe gym inform";

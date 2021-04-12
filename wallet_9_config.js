@@ -1,1 +1,1 @@
-var mnemonic = "neutral gallery hold give sick remove only flush quick ecology lecture churn";
+var mnemonic = "reform hybrid public fever shell fatal foam spike filter absent elephant flag";

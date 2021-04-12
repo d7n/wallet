@@ -1,1 +1,1 @@
-var mnemonic = "bag drill lobster giraffe build brother struggle useful gift state spawn edge";
+var mnemonic = "stem place burger honey vivid stairs cup virus plastic layer embody fat";

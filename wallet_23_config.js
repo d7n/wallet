@@ -1,1 +1,1 @@
-var mnemonic = "razor shell float sunset impact boat urban soda reduce clip zebra eternal";
+var mnemonic = "guitar hospital stuff mask illegal bottom theme dutch syrup artwork carry sun";

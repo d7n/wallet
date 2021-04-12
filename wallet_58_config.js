@@ -1,1 +1,1 @@
-var mnemonic = "forget illegal width segment elbow walnut atom giraffe account second figure icon";
+var mnemonic = "book phrase youth double clock fruit problem opinion problem melody mercy trouble";

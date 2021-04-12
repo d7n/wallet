@@ -1,1 +1,1 @@
-var mnemonic = "skate concert produce coil cricket defense stove olive punch chat mad rail";
+var mnemonic = "joy then minor clump panel mind love inhale chicken ethics bacon ladder";

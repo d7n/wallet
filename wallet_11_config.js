@@ -1,1 +1,1 @@
-var mnemonic = "priority immune flock fuel uncover adapt subway scatter reform corn slot bunker";
+var mnemonic = "scout festival vicious gift pyramid lonely just odor combine amazing sick kind";

@@ -1,1 +1,1 @@
-var mnemonic = "school track provide divert truth silly lizard discover trim green eternal valid";
+var mnemonic = "tag begin entire mystery matrix income spend green pill exhibit digital flee";

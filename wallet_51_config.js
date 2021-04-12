@@ -1,1 +1,1 @@
-var mnemonic = "call argue parade group kiss lesson position gym saddle opinion uniform nuclear";
+var mnemonic = "order stand life blood arctic grace dentist come erupt exclude powder ribbon";

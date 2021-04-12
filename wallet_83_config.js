@@ -1,1 +1,1 @@
-var mnemonic = "west exclude category chapter prison move animal length dumb method clip cheap";
+var mnemonic = "dragon evidence vacant damp pole dash avocado couch first icon lecture arch";

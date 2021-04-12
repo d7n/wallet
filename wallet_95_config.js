@@ -1,1 +1,1 @@
-var mnemonic = "kid twice steak vault glide isolate rubber develop across hawk flame birth";
+var mnemonic = "doll like alpha relax beach wrong swing hen faculty board access below";

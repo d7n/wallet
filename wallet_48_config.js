@@ -1,1 +1,1 @@
-var mnemonic = "scissors place reunion social inherit police insane friend hobby arena host price";
+var mnemonic = "venture wide boy pave artist armor balcony inquiry order attack venue test";

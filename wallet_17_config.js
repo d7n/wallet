@@ -1,1 +1,1 @@
-var mnemonic = "caution crystal cannon erosion because pen exile clump logic exhaust permit custom";
+var mnemonic = "nominee target bean shove boost wash bird garbage click lizard trade differ";

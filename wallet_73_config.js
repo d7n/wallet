@@ -1,1 +1,1 @@
-var mnemonic = "crash sure lawn whip ritual evidence mail eyebrow correct addict twenty snow";
+var mnemonic = "vault emerge field lens during dentist potato page throw alpha kangaroo train";

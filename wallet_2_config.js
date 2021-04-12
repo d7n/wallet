@@ -1,1 +1,1 @@
-var mnemonic = "rural lawn caution endorse bike one edit good crash right friend tattoo";
+var mnemonic = "scan disorder prison fun blood parrot muffin close horse dove tragic cost";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup boss assume gap join fresh ten hobby hotel danger bounce long";
+var mnemonic = "rebuild planet stem team vibrant decide ignore differ thank canyon various flavor";

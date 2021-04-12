@@ -1,1 +1,1 @@
-var mnemonic = "bachelor finish host budget actor race prison boil already cluster fatigue fog";
+var mnemonic = "check donkey virus anxiety execute act photo girl puzzle float satoshi material";

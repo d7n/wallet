@@ -1,1 +1,1 @@
-var mnemonic = "term feature next insect gentle addict loyal breeze iron girl lens castle";
+var mnemonic = "neutral relief minimum slide route farm offer various crack bonus comfort afford";

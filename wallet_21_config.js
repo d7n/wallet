@@ -1,1 +1,1 @@
-var mnemonic = "bonus start engine alpha crime garden jealous pill finger acid panel misery";
+var mnemonic = "praise photo harvest wood outer work phrase window knee whip gas gaze";

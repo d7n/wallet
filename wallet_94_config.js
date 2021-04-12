@@ -1,1 +1,1 @@
-var mnemonic = "copper method island mosquito photo artefact innocent elite ankle file amazing juice";
+var mnemonic = "say brand waste bounce order meat hard item harvest canoe steak window";

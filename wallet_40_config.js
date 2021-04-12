@@ -1,1 +1,1 @@
-var mnemonic = "cactus town vague north check trial cushion frost digital copy link want";
+var mnemonic = "song tortoise debate youth frost blind coyote add walk solar reveal dice";

@@ -1,1 +1,1 @@
-var mnemonic = "resist share chapter vendor border shop tissue valve airport increase oxygen hobby";
+var mnemonic = "father genuine earn romance book salon quick dinner aspect emotion cannon radar";

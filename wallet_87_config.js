@@ -1,1 +1,1 @@
-var mnemonic = "beef senior section what bacon vote sorry pipe sun snow transfer plate";
+var mnemonic = "knee despair cry actual spoon few way message alone ramp derive donkey";

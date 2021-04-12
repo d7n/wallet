@@ -1,1 +1,1 @@
-var mnemonic = "load dove short kidney reflect squeeze bundle jaguar impose possible warrior december";
+var mnemonic = "adjust unveil suit skill million volcano cherry lesson horror again coil lizard";

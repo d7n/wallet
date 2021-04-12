@@ -1,1 +1,1 @@
-var mnemonic = "coffee obey hole mountain frost journey aware wisdom boost satisfy energy sunset";
+var mnemonic = "mercy weather edge proud mom fence ecology physical collect diagram sunny hat";

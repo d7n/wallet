@@ -1,1 +1,1 @@
-var mnemonic = "matrix subject tuition glance sorry focus limit company soccer blast merit elite";
+var mnemonic = "upgrade live execute party angle hurdle device few aerobic yellow clarify almost";

@@ -1,1 +1,1 @@
-var mnemonic = "close dragon copper attend frequent nothing evidence cube include behave prevent false";
+var mnemonic = "flip noble tower hood seat copy garlic elite pyramid behind creek jealous";
