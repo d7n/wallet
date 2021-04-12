@@ -1,1 +1,1 @@
-var mnemonic = "lazy curious feel draft spray shoot outside talk illegal trouble argue aware";
+var mnemonic = "visa cart toddler fringe light journey elegant faint meadow lonely anxiety enter";

@@ -1,1 +1,1 @@
-var mnemonic = "explain decline general near sugar chair fresh collect come hidden puzzle desk";
+var mnemonic = "volcano fever today damp ranch loyal reveal later setup elegant advice stomach";

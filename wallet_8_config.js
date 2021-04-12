@@ -1,1 +1,1 @@
-var mnemonic = "adjust panel emotion park fruit aim apple vote hamster harvest elephant violin";
+var mnemonic = "fluid bargain bullet arrow canyon much spoon february flame clog parrot brass";

@@ -1,1 +1,1 @@
-var mnemonic = "flight blossom picnic setup cable guard weasel hospital issue crack yard august";
+var mnemonic = "neutral result mosquito meadow weird rifle outdoor inner rubber doll cool common";

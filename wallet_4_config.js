@@ -1,1 +1,1 @@
-var mnemonic = "child cart clock beef increase budget control glance canoe area book apple";
+var mnemonic = "clutch cave march involve version purse nose street soup neglect display ghost";

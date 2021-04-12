@@ -1,1 +1,1 @@
-var mnemonic = "shock service aunt garage harbor scatter couch apart inform cabbage draw upon";
+var mnemonic = "annual fiber shaft indoor bunker pond radio addict decrease ridge hedgehog business";

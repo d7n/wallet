@@ -1,1 +1,1 @@
-var mnemonic = "mask ice pulp citizen cage blur certain mass renew wheel dust wink";
+var mnemonic = "fragile cave another crew involve ladder field cube ahead stick video banner";

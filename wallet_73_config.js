@@ -1,1 +1,1 @@
-var mnemonic = "uncle bamboo hard verb absurd undo onion kidney knock tag metal tenant";
+var mnemonic = "stay nest mutual cake napkin party eyebrow arch oppose eye price clog";

@@ -1,1 +1,1 @@
-var mnemonic = "echo moment ceiling dune valve blouse before mass lizard fashion nest surge";
+var mnemonic = "doll return brave tornado whale oppose priority ghost episode harsh swim wool";

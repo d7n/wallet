@@ -1,1 +1,1 @@
-var mnemonic = "coffee cross minimum glimpse celery silver ask toy problem market wish faculty";
+var mnemonic = "friend field oxygen pulp strategy wear jealous treat kit thumb robust suspect";

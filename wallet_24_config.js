@@ -1,1 +1,1 @@
-var mnemonic = "nominee duck elite candy balcony antique caught scene regular shrug enforce cry";
+var mnemonic = "gate glove chest torch emerge garment scheme congress blue paddle gravity spy";

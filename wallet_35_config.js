@@ -1,1 +1,1 @@
-var mnemonic = "unique flower provide height drum vibrant turn matter fashion rebel scare supreme";
+var mnemonic = "pipe tomato kidney glance angle scout broken review book cannon remove trend";

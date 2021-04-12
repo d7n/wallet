@@ -1,1 +1,1 @@
-var mnemonic = "submit amount document caution burden clump flavor grab question dynamic recycle turtle";
+var mnemonic = "solution angry distance medal gap early shift output deny eye bacon muffin";

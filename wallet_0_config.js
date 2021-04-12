@@ -1,1 +1,1 @@
-var mnemonic = "aim guide attitude collect armed face cage slow carbon resemble student ostrich";
+var mnemonic = "fragile slender equip narrow chest jump broken keep zone decide easily plug";

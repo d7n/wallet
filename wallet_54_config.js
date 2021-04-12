@@ -1,1 +1,1 @@
-var mnemonic = "nice combine science winter drama inner sign explain burst addict canal mixture";
+var mnemonic = "crunch danger crack enemy loan inside patrol cluster wife happy soul man";

@@ -1,1 +1,1 @@
-var mnemonic = "item much roast youth outdoor typical topple polar success quarter shop erode";
+var mnemonic = "online lamp athlete universe weather profit enough state million dutch seek pond";

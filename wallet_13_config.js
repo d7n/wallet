@@ -1,1 +1,1 @@
-var mnemonic = "logic weapon tomorrow cargo balcony barely law raw awkward increase payment worth";
+var mnemonic = "tip symptom report resist marine crystal bamboo width worry mango spider camp";

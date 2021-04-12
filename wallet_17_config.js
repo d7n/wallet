@@ -1,1 +1,1 @@
-var mnemonic = "clock pepper glue roof draw ostrich pact mixture velvet valve general surge";
+var mnemonic = "fence already chase amazing exercise mistake crucial appear maximum foot repeat slim";

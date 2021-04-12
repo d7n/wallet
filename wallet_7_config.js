@@ -1,1 +1,1 @@
-var mnemonic = "alone pig common bounce two today arena rare cement office huge airport";
+var mnemonic = "jacket regret side surge tennis bubble clean ocean silent entire spare shine";

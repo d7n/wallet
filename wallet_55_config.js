@@ -1,1 +1,1 @@
-var mnemonic = "beauty distance blade eagle salt please bean citizen kitchen artist lens length";
+var mnemonic = "melody idea fox improve month hazard expect phrase bulk pattern fork address";

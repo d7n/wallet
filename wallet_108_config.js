@@ -1,1 +1,1 @@
-var mnemonic = "wrestle arrange wife balcony hat only mobile maid foster ticket tiny transfer";
+var mnemonic = "genius barely journey antenna venture yard tobacco reveal advice aunt child govern";

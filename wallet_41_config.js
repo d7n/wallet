@@ -1,1 +1,1 @@
-var mnemonic = "garden pact roof amount robot match plastic pipe virus tomato puppy puppy";
+var mnemonic = "pioneer dad lemon inch law average sponsor erode security sniff resemble enable";

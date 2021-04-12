@@ -1,1 +1,1 @@
-var mnemonic = "average surge lobster book skill warm circle negative hazard bronze slide blossom";
+var mnemonic = "strong planet south turn window bid drastic source civil fortune crime forward";

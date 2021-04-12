@@ -1,1 +1,1 @@
-var mnemonic = "will twin toy else swim case among tuition place shell quality mountain";
+var mnemonic = "tissue winter rhythm fragile soccer drip fat injury merry warrior aware census";

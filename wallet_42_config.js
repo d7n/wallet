@@ -1,1 +1,1 @@
-var mnemonic = "phone fresh message improve hope situate coil plug engine stem tenant crew";
+var mnemonic = "pilot sign deposit engage sample hobby cloud ancient stand matrix try wrong";

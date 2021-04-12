@@ -1,1 +1,1 @@
-var mnemonic = "usage choose kite misery impose trouble panic short process endless when differ";
+var mnemonic = "floor memory distance hood lake degree frog gain enough churn shadow army";

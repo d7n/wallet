@@ -1,1 +1,1 @@
-var mnemonic = "garage fossil length spawn physical between short palm useful erupt void thank";
+var mnemonic = "ocean section right armed solid lazy drop hover swarm century catch appear";

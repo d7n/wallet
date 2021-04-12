@@ -1,1 +1,1 @@
-var mnemonic = "chef drastic twenty dry job future east canvas axis dizzy actor comfort";
+var mnemonic = "swallow visa item gorilla conduct misery avoid right keen onion faint payment";

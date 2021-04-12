@@ -1,1 +1,1 @@
-var mnemonic = "design debris blast business narrow kingdom guess pudding lawn mass acid hybrid";
+var mnemonic = "wear stand glove abuse cheese child stumble stage spell shrug trash review";

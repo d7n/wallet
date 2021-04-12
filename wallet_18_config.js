@@ -1,1 +1,1 @@
-var mnemonic = "senior pave company injury random fiscal arrest seek inject order inside chicken";
+var mnemonic = "must ticket narrow east else lobster tackle voyage keen wrong cage armed";

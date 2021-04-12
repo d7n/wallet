@@ -1,1 +1,1 @@
-var mnemonic = "north runway claim daring rookie episode faculty issue honey calm silent moon";
+var mnemonic = "believe miracle announce banana network again bitter medal tool bright already come";

@@ -1,1 +1,1 @@
-var mnemonic = "title baby clog copper whisper ticket object clean early provide afford sponsor";
+var mnemonic = "host dust earth bulb swing harvest race soup derive energy cry mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "friend language lemon nerve matter merge fence acid normal kiwi run eyebrow";
+var mnemonic = "strike device quantum heart rubber unaware route post dismiss question baby worth";

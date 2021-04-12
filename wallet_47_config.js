@@ -1,1 +1,1 @@
-var mnemonic = "slender pact future lottery lobster bus hedgehog timber balcony zoo tree buddy";
+var mnemonic = "blanket level desk load napkin near horse vapor napkin neglect pipe firm";

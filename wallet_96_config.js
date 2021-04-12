@@ -1,1 +1,1 @@
-var mnemonic = "secret hope horn cloud sister club album finish empower cup wool inquiry";
+var mnemonic = "answer cousin cream series pulp hidden remind muscle crunch dragon spike rate";

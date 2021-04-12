@@ -1,1 +1,1 @@
-var mnemonic = "label yellow small adapt catalog language genre fit brave crop dash frequent";
+var mnemonic = "faculty entire can express knock border tube direct okay eternal hedgehog video";

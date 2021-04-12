@@ -1,1 +1,1 @@
-var mnemonic = "voyage silly still give enrich song jealous attack option obscure suit apart";
+var mnemonic = "vendor clutch occur door sun odor zoo mule fame mystery teach sail";

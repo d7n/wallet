@@ -1,1 +1,1 @@
-var mnemonic = "canvas what nerve will hand zero master mixture grape balcony design fatal";
+var mnemonic = "weather light wife thunder puzzle deny coffee tuition keep undo audit inherit";

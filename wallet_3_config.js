@@ -1,1 +1,1 @@
-var mnemonic = "sun tonight any public rain drama cloud suit drive final basic excuse";
+var mnemonic = "sudden similar salmon clock erase over victory tonight confirm memory hair scissors";

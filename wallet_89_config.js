@@ -1,1 +1,1 @@
-var mnemonic = "trial adult juice solar moon eight mirror transfer meat vague surprise lamp";
+var mnemonic = "flush warm crash job struggle canvas essence fossil inch luggage august goose";

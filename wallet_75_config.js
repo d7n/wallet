@@ -1,1 +1,1 @@
-var mnemonic = "view moon slush race pet lend edge slush climb tonight scene cousin";
+var mnemonic = "action unusual mask feel vague liquid help lend dream crunch unhappy hammer";

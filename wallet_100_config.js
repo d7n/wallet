@@ -1,1 +1,1 @@
-var mnemonic = "minimum senior fury scrap piece neck swamp cause transfer uphold reflect achieve";
+var mnemonic = "weekend food slim poem vehicle lava high valid broccoli fine witness hire";

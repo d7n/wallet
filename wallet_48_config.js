@@ -1,1 +1,1 @@
-var mnemonic = "mask best dinosaur woman flock earn shine habit fluid spoon refuse cable";
+var mnemonic = "symbol derive useful sort side shield sing organ patch family decide upgrade";

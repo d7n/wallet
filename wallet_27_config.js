@@ -1,1 +1,1 @@
-var mnemonic = "demise scout basket grief novel often blame normal indoor coach firm vintage";
+var mnemonic = "bring spot town witness combine simple devote twin simple circle glue explain";

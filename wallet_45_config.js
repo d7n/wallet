@@ -1,1 +1,1 @@
-var mnemonic = "blast umbrella flavor point rare civil column lyrics entire dolphin hole calm";
+var mnemonic = "venue daring globe myth put despair noise deposit float neutral saddle subject";

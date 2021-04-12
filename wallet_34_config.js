@@ -1,1 +1,1 @@
-var mnemonic = "tourist judge certain name zero model party sing aspect cherry extend predict";
+var mnemonic = "swarm relax local average rabbit try scare envelope board whale cave trap";

@@ -1,1 +1,1 @@
-var mnemonic = "require nature wide stone slow off number panel dinosaur amount fruit toe";
+var mnemonic = "opinion worth model interest elite gather anchor base pipe into dove narrow";

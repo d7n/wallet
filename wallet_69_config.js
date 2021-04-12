@@ -1,1 +1,1 @@
-var mnemonic = "regret hazard mercy later hill happy arctic outer monster jeans slab equip";
+var mnemonic = "pony habit screen noise clock nose gospel brand hedgehog urban moment wet";

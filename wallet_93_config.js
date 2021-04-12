@@ -1,1 +1,1 @@
-var mnemonic = "bitter flat corn thought guilt photo dove afraid whisper bottom concert banner";
+var mnemonic = "monitor about divert puzzle armor giraffe piece olympic glow clap noise lava";

@@ -1,1 +1,1 @@
-var mnemonic = "two property pipe heart profit thunder spoil gift nice arch trade embody";
+var mnemonic = "thrive rigid nasty next expose baby company junk proof address opera action";

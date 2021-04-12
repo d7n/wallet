@@ -1,1 +1,1 @@
-var mnemonic = "picnic recall consider owner wheel yellow stairs ride raven expose disorder order";
+var mnemonic = "february sad inhale bunker select spy focus hill economy inherit unusual anger";

@@ -1,1 +1,1 @@
-var mnemonic = "logic edit bench huge eternal treat wire leave behind security slab city";
+var mnemonic = "gown february health toddler exit feed faculty lawsuit sweet zero monster meat";

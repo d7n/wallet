@@ -1,1 +1,1 @@
-var mnemonic = "scare frequent fiction finger hard relax vacant holiday pumpkin sting popular install";
+var mnemonic = "balance pull design royal remain abstract skirt student observe bitter news tray";

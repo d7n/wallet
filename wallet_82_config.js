@@ -1,1 +1,1 @@
-var mnemonic = "drum street treat same town panda bullet enough they route labor among";
+var mnemonic = "price twenty orchard message file average virus clock side chef eight salute";

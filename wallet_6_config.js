@@ -1,1 +1,1 @@
-var mnemonic = "ghost number hollow normal confirm hen love razor act confirm slogan thing";
+var mnemonic = "tennis tired square romance kit attack keep address shy title amount page";

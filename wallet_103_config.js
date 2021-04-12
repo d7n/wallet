@@ -1,1 +1,1 @@
-var mnemonic = "water curve reform tunnel despair curtain industry trick match brief liquid soon";
+var mnemonic = "bounce pizza nature coil video mad pulp inner main skull verify salute";

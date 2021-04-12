@@ -1,1 +1,1 @@
-var mnemonic = "jazz fringe olympic able squeeze between license view frame junior search follow";
+var mnemonic = "letter bench fatigue auto remove border certain illegal day alpha nose neglect";

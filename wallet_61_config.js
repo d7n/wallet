@@ -1,1 +1,1 @@
-var mnemonic = "beyond acid stereo humble census electric reform oval toe enrich cereal slush";
+var mnemonic = "matter loyal nation kitten canyon solid scorpion quality crash output stumble payment";

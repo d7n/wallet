@@ -1,1 +1,1 @@
-var mnemonic = "athlete depth stem impact stem few act laundry ring dismiss oblige three";
+var mnemonic = "seed slush tribe luggage expand puppy together inch hello lucky stay dynamic";

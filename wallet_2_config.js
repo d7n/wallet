@@ -1,1 +1,1 @@
-var mnemonic = "post symbol insane ivory once anxiety shed category hire cute throw boat";
+var mnemonic = "address bone above milk hint swarm patient used curve input lyrics blush";

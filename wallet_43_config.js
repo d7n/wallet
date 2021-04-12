@@ -1,1 +1,1 @@
-var mnemonic = "eagle sentence mouse brother east grief lady guitar flee scatter endless large";
+var mnemonic = "bright square hope require cloud fix verb erosion very surprise media olympic";

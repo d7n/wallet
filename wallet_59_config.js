@@ -1,1 +1,1 @@
-var mnemonic = "tackle table duck chair between swift gift wheat journey trumpet man message";
+var mnemonic = "panic sudden apart actual limit bike faculty tiny file case ostrich hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "slow curve town van scatter mystery easy keen draw drive dose deputy";
+var mnemonic = "around science ostrich defense focus child raven use craft entire grow panda";

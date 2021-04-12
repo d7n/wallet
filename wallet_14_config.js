@@ -1,1 +1,1 @@
-var mnemonic = "tortoise circle surround message fabric present shine visit patient north practice maze";
+var mnemonic = "skin differ blind yellow inmate favorite ring village quit season diamond concert";

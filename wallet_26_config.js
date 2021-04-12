@@ -1,1 +1,1 @@
-var mnemonic = "script skill quantum visa since veteran virtual say silver vintage foot gasp";
+var mnemonic = "spring vintage chronic impact soccer yard glue tuna cruel turtle claim grape";

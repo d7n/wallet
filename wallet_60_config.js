@@ -1,1 +1,1 @@
-var mnemonic = "very obvious mercy laundry penalty awake logic base rescue eager this bulb";
+var mnemonic = "duty glue school twelve twenty uncover average chronic then bonus cheap orbit";

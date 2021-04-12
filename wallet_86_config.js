@@ -1,1 +1,1 @@
-var mnemonic = "penalty need glass busy kidney inform setup winner empty rack execute outdoor";
+var mnemonic = "language tennis curtain already left bubble agree eagle hover romance journey electric";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak allow island crowd vicious this spring old electric noble draw deposit";
+var mnemonic = "reveal chuckle repair tide sign energy paper glue attack ability episode outside";

@@ -1,1 +1,1 @@
-var mnemonic = "blame hundred decline jump receive harsh friend air cat diet bulb name";
+var mnemonic = "access entry hire give foam champion snow town hen ostrich improve recycle";

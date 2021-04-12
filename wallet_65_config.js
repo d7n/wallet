@@ -1,1 +1,1 @@
-var mnemonic = "estate olympic pond visa ripple raise dad brain flock salad poem scout";
+var mnemonic = "ankle half urge gospel build great hole left lion want sorry eye";

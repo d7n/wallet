@@ -1,1 +1,1 @@
-var mnemonic = "narrow tape major enforce limb stuff sentence produce dilemma jewel answer possible";
+var mnemonic = "dilemma million cruel gaze stomach citizen keep update horror dilemma swamp ill";

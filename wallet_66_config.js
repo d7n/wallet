@@ -1,1 +1,1 @@
-var mnemonic = "diagram announce iron bounce swamp parade orange exotic tower doll run brush";
+var mnemonic = "december island must this gloom camera flame any slot oak material sand";

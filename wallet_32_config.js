@@ -1,1 +1,1 @@
-var mnemonic = "celery title mechanic print agent only dose slab sponsor first thing require";
+var mnemonic = "boss like movie fan choice define cream lady clump evoke grow assume";

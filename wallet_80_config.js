@@ -1,1 +1,1 @@
-var mnemonic = "sweet secret forest basic doll deliver stable figure drink helmet burst dismiss";
+var mnemonic = "buddy arrive mercy chase stable meadow mango moment robot car sheriff symptom";

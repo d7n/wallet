@@ -1,1 +1,1 @@
-var mnemonic = "file that feel twelve cover chaos poet chimney merit donkey nation youth";
+var mnemonic = "end poet metal payment rare dog help clarify license allow olive draw";

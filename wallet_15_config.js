@@ -1,1 +1,1 @@
-var mnemonic = "glad satoshi indicate clump corn water brand tonight clock front deny wolf";
+var mnemonic = "wet agent ski inhale knife asset sick second ramp apology allow enrich";

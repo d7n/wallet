@@ -1,1 +1,1 @@
-var mnemonic = "green exist afraid mercy hurt control else depth bread dice leg case";
+var mnemonic = "snap style secret salad brief organ cruise slot crazy perfect grow move";

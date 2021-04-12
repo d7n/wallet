@@ -1,1 +1,1 @@
-var mnemonic = "year circle near pottery token hedgehog crime orange gaze outer mechanic broom";
+var mnemonic = "property comfort toe attend cable yellow slot calm height rail angle deny";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup display engine cricket special banner notable punch lesson pumpkin current can";
+var mnemonic = "lazy frame rude glare charge remind dry village demise music spend pilot";

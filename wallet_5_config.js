@@ -1,1 +1,1 @@
-var mnemonic = "drink staff film pole true brave health antique sand curtain leisure eager";
+var mnemonic = "oak zone mango wire tone add cactus code time insect follow panther";

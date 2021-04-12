@@ -1,1 +1,1 @@
-var mnemonic = "harvest swim indoor stem dry bleak afford trip wall patient shop shoulder";
+var mnemonic = "phrase winner melody insect cousin mule wife discover please nurse club various";

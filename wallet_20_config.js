@@ -1,1 +1,1 @@
-var mnemonic = "emotion plastic load fame husband diet mother deputy soap crisp fiction voyage";
+var mnemonic = "horn almost zoo tomorrow smooth guitar caught achieve receive artist need over";

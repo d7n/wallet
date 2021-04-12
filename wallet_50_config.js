@@ -1,1 +1,1 @@
-var mnemonic = "early dune recall worth access feed jazz monkey magnet snap nest all";
+var mnemonic = "emerge present hire gallery team pudding aim weasel extend mixture piece learn";

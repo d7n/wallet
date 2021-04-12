@@ -1,1 +1,1 @@
-var mnemonic = "garden chaos fat ship coast detect blade actual again push only welcome";
+var mnemonic = "siege office this lesson pony cigar valve welcome convince must universe scare";

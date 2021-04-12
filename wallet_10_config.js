@@ -1,1 +1,1 @@
-var mnemonic = "predict entry convince jealous immune slender moment night suffer swarm face physical";
+var mnemonic = "bomb barely curious jacket great kidney echo tragic since dwarf improve machine";

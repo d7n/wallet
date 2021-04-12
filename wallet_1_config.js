@@ -1,1 +1,1 @@
-var mnemonic = "crouch glad credit scene educate minor audit banner saddle enlist opinion wrestle";
+var mnemonic = "grab kitchen maze lyrics history hobby capital zone lens vicious poem mango";

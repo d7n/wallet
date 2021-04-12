@@ -1,1 +1,1 @@
-var mnemonic = "sleep guess outer fury remember dinosaur fury evoke vintage trap wine eye";
+var mnemonic = "edge legend tongue girl later ride hood display flag hawk liquid other";

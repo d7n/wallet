@@ -1,1 +1,1 @@
-var mnemonic = "frown route moment hurt gorilla maximum satoshi oval web hen exact analyst";
+var mnemonic = "doll focus domain sunset language twist banana payment melt deposit leisure patrol";

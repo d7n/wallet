@@ -1,1 +1,1 @@
-var mnemonic = "ripple faith type tuna weird anxiety social aerobic laundry absurd atom certain";
+var mnemonic = "impose write nature lock any like vocal trumpet panther way mansion crack";

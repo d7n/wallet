@@ -1,1 +1,1 @@
-var mnemonic = "check drama alpha fish bonus mean sorry diagram spoil absorb parade crime";
+var mnemonic = "sock monkey father crop reward angle huge parade rail gaze program predict";
