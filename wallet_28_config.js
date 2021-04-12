@@ -1,1 +1,1 @@
-var mnemonic = "evil flower verify ripple despair sport soul credit owner radar quote raise";
+var mnemonic = "way poem illness chase gun april remind traffic radio denial choose that";

@@ -1,1 +1,1 @@
-var mnemonic = "piece help this smoke room gospel casual route budget congress rapid water";
+var mnemonic = "wrestle shield water pumpkin game certain correct hundred clever approve wonder danger";

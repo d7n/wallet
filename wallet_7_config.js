@@ -1,1 +1,1 @@
-var mnemonic = "glide universe joke general resource scorpion news mix culture kick term hamster";
+var mnemonic = "area humor appear congress focus quantum rain tortoise maid office off muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "flip craft scheme broken cotton under case dune legend abstract reunion ancient";
+var mnemonic = "lecture surround hand silk mouse anxiety boy dirt thing method notable myself";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt shaft since ski three robust relax river tumble cheese laundry crunch";
+var mnemonic = "syrup have genius much husband toe cousin kitten roast enlist picture defy";

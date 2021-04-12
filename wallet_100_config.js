@@ -1,1 +1,1 @@
-var mnemonic = "city spice shrug merge draft trial item dust elite coral hold cupboard";
+var mnemonic = "cat panda earth later place stomach toward drink sustain gown hero license";

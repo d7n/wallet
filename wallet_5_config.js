@@ -1,1 +1,1 @@
-var mnemonic = "ginger sketch tag rely over diamond nest deny page split grunt husband";
+var mnemonic = "hockey solid toddler under spoil vocal island question wrestle idle width grid";

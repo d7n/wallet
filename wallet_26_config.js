@@ -1,1 +1,1 @@
-var mnemonic = "fee tiny usage later afford only voyage reunion divert liberty summer welcome";
+var mnemonic = "hundred end pact joy best slush build rose cluster enjoy census disease";

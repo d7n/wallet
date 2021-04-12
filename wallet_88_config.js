@@ -1,1 +1,1 @@
-var mnemonic = "under approve fitness cry bright grape unlock morning find forget space vocal";
+var mnemonic = "fossil heart absorb sea dizzy erosion fresh token dismiss sister chaos surface";

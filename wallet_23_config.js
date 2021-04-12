@@ -1,1 +1,1 @@
-var mnemonic = "music forest pistol choose load board soccer lucky early robust reward laugh";
+var mnemonic = "smooth mad street success acquire mom kangaroo enact brave detail tomorrow machine";

@@ -1,1 +1,1 @@
-var mnemonic = "brief try reflect slide nerve system zone cousin sweet latin leisure quarter";
+var mnemonic = "door post print flavor verb confirm lend erode cement thumb rate consider";

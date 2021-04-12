@@ -1,1 +1,1 @@
-var mnemonic = "arch clean truth summer secret cement concert gesture acid aware correct later";
+var mnemonic = "shuffle fish vote dust basic bachelor vast spot tomorrow scare electric army";

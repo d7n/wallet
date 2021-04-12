@@ -1,1 +1,1 @@
-var mnemonic = "planet fringe twice arena athlete nominee course fault scout tonight swap loud";
+var mnemonic = "injury display breeze squeeze decrease steel husband clump sense siren maze spy";

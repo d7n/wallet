@@ -1,1 +1,1 @@
-var mnemonic = "junk group boss sting cousin student romance dream tonight rough amused horse";
+var mnemonic = "bicycle library they install novel team uphold arrange awkward front ski note";

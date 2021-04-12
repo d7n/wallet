@@ -1,1 +1,1 @@
-var mnemonic = "trick federal extend object drama oven lunar dog border face click loyal";
+var mnemonic = "goat require figure budget portion stomach cigar stone kiwi make bean sheriff";

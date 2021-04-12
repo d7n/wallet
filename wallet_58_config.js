@@ -1,1 +1,1 @@
-var mnemonic = "town raw phrase yard minimum settle garden bunker online fatigue neither eye";
+var mnemonic = "rescue canvas cluster two wet orbit celery honey poverty hamster brother small";

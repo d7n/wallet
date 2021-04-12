@@ -1,1 +1,1 @@
-var mnemonic = "future renew champion matrix pride worry book split stove fancy man breeze";
+var mnemonic = "term rely tongue stem glimpse sign rebuild attack advice gadget peasant giggle";

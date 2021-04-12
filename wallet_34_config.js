@@ -1,1 +1,1 @@
-var mnemonic = "another dance punch music lemon play amused cloth way refuse expect sting";
+var mnemonic = "ask media explain blade access vast card hidden include balance recall eye";

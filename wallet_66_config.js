@@ -1,1 +1,1 @@
-var mnemonic = "behind crush actor rigid science hero pistol foster split novel lab analyst";
+var mnemonic = "cheap possible trash permit give illegal any price club sea student quit";

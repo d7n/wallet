@@ -1,1 +1,1 @@
-var mnemonic = "blind rare idle ordinary leave absent elite clay language reopen salute steel";
+var mnemonic = "dream lesson settle moral bulk certain end undo easy echo rely lawn";

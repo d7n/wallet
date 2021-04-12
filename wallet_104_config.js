@@ -1,1 +1,1 @@
-var mnemonic = "race timber dice category slab cattle clip toe beef stick private glare";
+var mnemonic = "remove feel apart dog fade occur explain dish kangaroo leaf dinner genius";

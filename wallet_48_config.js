@@ -1,1 +1,1 @@
-var mnemonic = "august celery pattern mutual replace foster come festival boss degree illness become";
+var mnemonic = "peasant lizard almost luggage know swamp worth latin trap shallow fade sight";

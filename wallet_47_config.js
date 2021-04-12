@@ -1,1 +1,1 @@
-var mnemonic = "pear despair damage pistol course enhance floor put fee rapid torch business";
+var mnemonic = "sand globe sea canal force spread camera gorilla warfare museum bleak joke";

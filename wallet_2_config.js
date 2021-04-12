@@ -1,1 +1,1 @@
-var mnemonic = "apple monitor mix beach inspire apart arch toast vapor left they online";
+var mnemonic = "orient crowd kit rather exit field accuse use pepper ride gown there";

@@ -1,1 +1,1 @@
-var mnemonic = "have above hip lawn ancient pole dream garage royal crunch inherit harsh";
+var mnemonic = "stock enact axis real case route script speed mother orient setup evidence";

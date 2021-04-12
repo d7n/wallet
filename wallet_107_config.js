@@ -1,1 +1,1 @@
-var mnemonic = "limb congress trouble produce knee later auto room hamster ski glad random";
+var mnemonic = "main warrior typical scrub devote dune basket slide trend mistake twenty begin";

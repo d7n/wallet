@@ -1,1 +1,1 @@
-var mnemonic = "mandate atom holiday napkin raise mixed exist vintage entire slow dwarf warrior";
+var mnemonic = "pet prosper breeze illness custom image kitchen awkward call romance crystal erase";

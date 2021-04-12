@@ -1,1 +1,1 @@
-var mnemonic = "grant tray rule student state extra skirt life talk decorate path pupil";
+var mnemonic = "globe knock enroll fan hub rib seat lava surprise sadness struggle effort";

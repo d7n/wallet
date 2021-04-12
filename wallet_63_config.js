@@ -1,1 +1,1 @@
-var mnemonic = "lift syrup brush turtle rare identify roof noble joy alone curtain quality";
+var mnemonic = "entire equip essence item enhance social buyer merge derive puzzle wrestle defy";

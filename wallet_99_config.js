@@ -1,1 +1,1 @@
-var mnemonic = "noise plastic drill divert above plastic travel language segment hat hollow sphere";
+var mnemonic = "travel curtain owner neck punch creek enforce above save front decade fantasy";

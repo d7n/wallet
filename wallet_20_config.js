@@ -1,1 +1,1 @@
-var mnemonic = "target left require satoshi social sphere sand cart scout giant orbit east";
+var mnemonic = "embrace stadium wedding speak again type wisdom shed quick search idea slim";

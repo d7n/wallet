@@ -1,1 +1,1 @@
-var mnemonic = "palace material weasel damage tonight stadium town sport type fence note spread";
+var mnemonic = "virtual amused hole miss submit upgrade erase panic slide detect still country";

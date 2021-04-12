@@ -1,1 +1,1 @@
-var mnemonic = "arch grace mechanic staff brush sting garbage doctor river science bench civil";
+var mnemonic = "album enroll waste clock marriage obtain wood doctor april float stay verb";

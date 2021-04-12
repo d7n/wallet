@@ -1,1 +1,1 @@
-var mnemonic = "grab plate hybrid memory cable point script emerge walnut rural country choice";
+var mnemonic = "roof tube punch sustain deputy vehicle grape deal shaft grit dish toss";

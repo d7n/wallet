@@ -1,1 +1,1 @@
-var mnemonic = "refuse must dinosaur early filter rely talent mistake meat legend hurdle drip";
+var mnemonic = "night decrease frog mansion castle weather blood april also tumble siren multiply";

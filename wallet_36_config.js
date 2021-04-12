@@ -1,1 +1,1 @@
-var mnemonic = "rib camp bullet august hungry settle punch put club bind expose twist";
+var mnemonic = "poverty burden sweet snake winter swarm pilot page tortoise frequent brief satisfy";

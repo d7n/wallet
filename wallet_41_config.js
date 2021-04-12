@@ -1,1 +1,1 @@
-var mnemonic = "blanket bench leave grace hat among vapor chuckle brother calm energy quick";
+var mnemonic = "pilot oval priority obtain brown jelly enough castle december hunt clinic anger";

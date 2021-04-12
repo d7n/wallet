@@ -1,1 +1,1 @@
-var mnemonic = "border master camera enrich act learn beach pumpkin fame broken nest recycle";
+var mnemonic = "ship stick rigid space drink sauce oven total spare swamp erosion error";

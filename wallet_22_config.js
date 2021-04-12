@@ -1,1 +1,1 @@
-var mnemonic = "buffalo engine any useful canvas dash marriage rifle suffer prize trigger force";
+var mnemonic = "aunt border lamp destroy wrestle path arctic scorpion brand tail then case";

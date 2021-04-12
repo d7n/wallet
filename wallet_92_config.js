@@ -1,1 +1,1 @@
-var mnemonic = "satisfy pepper harsh visit cart actual reunion install fiction struggle pause horror";
+var mnemonic = "much chaos fortune diary betray cake metal outdoor soldier toe evolve dirt";

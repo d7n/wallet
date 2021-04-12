@@ -1,1 +1,1 @@
-var mnemonic = "mirror empower marriage kiwi wine catch spread defense siren nose segment marine";
+var mnemonic = "shoot observe mom erupt settle pole scare antique brain capable tuition size";

@@ -1,1 +1,1 @@
-var mnemonic = "goose scene paddle animal safe trophy demise hover dash moment year enough";
+var mnemonic = "pistol famous depend disorder hospital drama rally benefit breeze between cheap problem";

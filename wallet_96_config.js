@@ -1,1 +1,1 @@
-var mnemonic = "artwork suit card cake tobacco merge state depend donkey spoil confirm wheat";
+var mnemonic = "fun lunar decrease chimney eternal view bring timber you hip afford valve";

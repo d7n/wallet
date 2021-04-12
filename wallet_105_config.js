@@ -1,1 +1,1 @@
-var mnemonic = "clog dry clean occur ankle cereal sea then silk throw thought leisure";
+var mnemonic = "capital chicken thought thing bus wash sponsor margin pride begin kite smooth";

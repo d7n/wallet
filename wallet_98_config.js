@@ -1,1 +1,1 @@
-var mnemonic = "brick idle input dinner arctic liquid leopard acquire jazz hero arch gadget";
+var mnemonic = "lizard table resemble minute raven fresh property moon video rule detect sort";

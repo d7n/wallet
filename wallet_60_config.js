@@ -1,1 +1,1 @@
-var mnemonic = "jelly current moment right solar corn guess unveil kick swamp emerge trigger";
+var mnemonic = "attend sport route broken morning borrow warm alpha purpose chest home hedgehog";

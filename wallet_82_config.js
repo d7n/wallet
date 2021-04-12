@@ -1,1 +1,1 @@
-var mnemonic = "squirrel outer brave shoot local there frown oyster idle bird taxi general";
+var mnemonic = "demise nuclear spread hope uncover language win envelope skull nature pill song";

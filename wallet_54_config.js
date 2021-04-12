@@ -1,1 +1,1 @@
-var mnemonic = "industry video garment dream moment month release member old leader analyst outer";
+var mnemonic = "exact result series provide fade usage mistake manual tumble exit pilot mercy";

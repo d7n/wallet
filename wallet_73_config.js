@@ -1,1 +1,1 @@
-var mnemonic = "south blossom alien awake intact index turn hold expect keep city chimney";
+var mnemonic = "chase immune balance crouch olive purpose airport ranch cricket similar divorce awkward";

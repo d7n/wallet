@@ -1,1 +1,1 @@
-var mnemonic = "doll security turtle hero humor hour design uphold cereal biology wide escape";
+var mnemonic = "donkey oxygen twin cabin title cage explain various acoustic core modify glow";

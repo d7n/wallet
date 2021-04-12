@@ -1,1 +1,1 @@
-var mnemonic = "early input pistol process diamond peanut feel nasty robot tackle chapter sister";
+var mnemonic = "pave label once must random buzz zone kiss dance act emotion wild";

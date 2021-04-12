@@ -1,1 +1,1 @@
-var mnemonic = "layer infant custom fork wire cushion nominee ribbon market atom woman dance";
+var mnemonic = "forest treat trophy cake twist ski float notice retreat valid wealth ankle";

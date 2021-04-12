@@ -1,1 +1,1 @@
-var mnemonic = "lift orbit visual trigger use fix example message grab fault place angle";
+var mnemonic = "state question right auction never situate above riot lobster clean motor uncover";

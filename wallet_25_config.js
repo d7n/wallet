@@ -1,1 +1,1 @@
-var mnemonic = "aim venture oak hint enforce master fuel genuine call salt school glide";
+var mnemonic = "hungry agree mule welcome wolf mansion afford door prosper coin harvest enable";

@@ -1,1 +1,1 @@
-var mnemonic = "basic face pottery lyrics rich try original list differ print rival deposit";
+var mnemonic = "owner affair weather again trust dice brush witness mule clump maze heavy";

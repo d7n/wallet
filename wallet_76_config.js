@@ -1,1 +1,1 @@
-var mnemonic = "eternal useless flush pulp coffee provide cover permit blue sure muscle erosion";
+var mnemonic = "coast girl mix obey tooth section dirt topic gate payment bean dolphin";

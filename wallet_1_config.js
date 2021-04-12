@@ -1,1 +1,1 @@
-var mnemonic = "year air trip salon gesture tired forum evidence silent unable pluck chalk";
+var mnemonic = "test age flee flat size between raise dignity verb feature opinion width";

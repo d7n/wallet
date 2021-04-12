@@ -1,1 +1,1 @@
-var mnemonic = "near retreat buzz wide point bounce quiz gold talk point song ordinary";
+var mnemonic = "exist comic notable hint paper want dash lamp weapon tomato coast time";

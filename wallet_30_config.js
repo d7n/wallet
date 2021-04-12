@@ -1,1 +1,1 @@
-var mnemonic = "beauty enhance pool witness glue season ocean cover hen detail riot sunny";
+var mnemonic = "unfold since auction loyal heart pave toe water impact gallery pulse amazing";

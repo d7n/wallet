@@ -1,1 +1,1 @@
-var mnemonic = "run install remove casual lunar boring round decorate edit bike orbit rocket";
+var mnemonic = "exclude flash luxury truck garage wife cram guitar model foam royal aspect";

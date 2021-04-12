@@ -1,1 +1,1 @@
-var mnemonic = "gown seven cradle affair garage ready express lake fold frequent empower noise";
+var mnemonic = "sibling before divide noble balcony organ engine nose entry online hazard street";

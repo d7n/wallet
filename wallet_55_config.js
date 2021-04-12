@@ -1,1 +1,1 @@
-var mnemonic = "call device boring awkward goat assault silent elegant assume ridge helmet feature";
+var mnemonic = "dwarf runway reward borrow borrow mixed mesh saddle earn early crucial vote";

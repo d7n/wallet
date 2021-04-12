@@ -1,1 +1,1 @@
-var mnemonic = "birth taste then promote high frown sadness palace enlist oven base admit";
+var mnemonic = "mouse march engine hip make purse flee lamp exercise sport appear merry";

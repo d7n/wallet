@@ -1,1 +1,1 @@
-var mnemonic = "suggest hobby income vibrant column rocket produce above notice extra discover wedding";
+var mnemonic = "tennis analyst film bless protect wire room car liquid damp portion defy";

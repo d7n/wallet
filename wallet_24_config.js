@@ -1,1 +1,1 @@
-var mnemonic = "peasant grain borrow tell question join praise elder quote because pudding tuna";
+var mnemonic = "segment liberty symptom wrestle weasel hotel donor plate brown marriage noise lottery";

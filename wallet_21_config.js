@@ -1,1 +1,1 @@
-var mnemonic = "prefer episode cram else target syrup family accuse involve lava impulse sing";
+var mnemonic = "cigar awkward noble rib license stove canoe member number bacon gauge voice";

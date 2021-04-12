@@ -1,1 +1,1 @@
-var mnemonic = "toss menu delay remain try ranch vital uphold polar shock gauge guilt";
+var mnemonic = "sugar nephew idea there document flower fit frame alarm circle valid valley";

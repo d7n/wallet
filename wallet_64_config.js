@@ -1,1 +1,1 @@
-var mnemonic = "call woman comfort reward point dynamic copy long erupt multiply problem leisure";
+var mnemonic = "element skirt come report hat machine assume foster horror reason public model";

@@ -1,1 +1,1 @@
-var mnemonic = "engine tone item believe question grant tilt once flower spin birth bring";
+var mnemonic = "grape journey spread garlic vague razor supply false ladder patch swarm aware";

@@ -1,1 +1,1 @@
-var mnemonic = "fish soda hello reduce list web design suit brand grief cry sting";
+var mnemonic = "scissors train tobacco orient attend lab setup eagle mixture toy venue once";

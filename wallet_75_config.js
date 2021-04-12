@@ -1,1 +1,1 @@
-var mnemonic = "pencil canvas kidney ritual monster food area distance unfair recipe plunge wave";
+var mnemonic = "female degree stable force spot wrong evidence cable latin category patient annual";

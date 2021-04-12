@@ -1,1 +1,1 @@
-var mnemonic = "pig engage word assault north comic disorder march sauce when galaxy snow";
+var mnemonic = "black company pistol brave river person smart gloom strategy ivory two almost";

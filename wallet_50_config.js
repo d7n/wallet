@@ -1,1 +1,1 @@
-var mnemonic = "grow van error primary milk domain matrix oval mixed question follow casual";
+var mnemonic = "text soup demise scrub parrot scrub inspire mixture trade reward improve spy";

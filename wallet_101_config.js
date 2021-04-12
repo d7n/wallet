@@ -1,1 +1,1 @@
-var mnemonic = "pupil explain fluid awesome dumb gasp hollow flee pipe bronze control scrub";
+var mnemonic = "outdoor caught blast potato say casual goose rubber dentist word uniform embody";

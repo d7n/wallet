@@ -1,1 +1,1 @@
-var mnemonic = "salon collect answer error wisdom total supply snack find mesh first inquiry";
+var mnemonic = "explain scare steel riot foster action fluid cigar slight kitten bracket fragile";

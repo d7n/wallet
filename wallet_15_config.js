@@ -1,1 +1,1 @@
-var mnemonic = "setup debris flag ensure eagle craft field gun fetch bacon ecology casual";
+var mnemonic = "leg suffer arena question best slender person clutch empty bulb include blind";

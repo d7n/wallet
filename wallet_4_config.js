@@ -1,1 +1,1 @@
-var mnemonic = "rather wreck lens private spider organ design cart physical patrol object income";
+var mnemonic = "truly category mask fringe often flower disorder impact arrest reward humble tent";

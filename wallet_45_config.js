@@ -1,1 +1,1 @@
-var mnemonic = "legend round shop lend casual basic certain figure jelly awkward rail output";
+var mnemonic = "nephew marble young actual betray judge pair daughter wagon culture float alert";

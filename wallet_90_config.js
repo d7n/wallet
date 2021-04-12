@@ -1,1 +1,1 @@
-var mnemonic = "legend rabbit main humor crawl usual drive urban security coast world van";
+var mnemonic = "train tired comic island man admit guard final annual humor scare decade";

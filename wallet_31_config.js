@@ -1,1 +1,1 @@
-var mnemonic = "rapid noble fire thank pave office dress sand liquid job october lady";
+var mnemonic = "stumble fatal return find body baby couch cave public derive prevent voice";

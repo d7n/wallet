@@ -1,1 +1,1 @@
-var mnemonic = "daring syrup ocean spring warrior cart educate trigger despair dash minimum shine";
+var mnemonic = "brain glove swear accident coffee rabbit dinosaur fortune teach great magnet tornado";

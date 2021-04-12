@@ -1,1 +1,1 @@
-var mnemonic = "sister industry sock bundle gentle between soft vapor leg laundry lake then";
+var mnemonic = "broccoli salt cash drip fault tube catalog apology apology useless cycle logic";

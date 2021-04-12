@@ -1,1 +1,1 @@
-var mnemonic = "honey code general notable sheriff any turn column cluster judge absent thought";
+var mnemonic = "maple east member fox mystery name doll coin struggle silent mutual ladder";

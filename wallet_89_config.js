@@ -1,1 +1,1 @@
-var mnemonic = "page diary village faculty glue citizen possible reopen true helmet ahead rail";
+var mnemonic = "adapt expand camera maze churn clown civil hurt wet front you weapon";

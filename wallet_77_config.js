@@ -1,1 +1,1 @@
-var mnemonic = "stick wage venture casual inquiry toy gesture garlic volcano cereal eager short";
+var mnemonic = "salute push estate false universe arctic canvas endless diamond skate eagle portion";

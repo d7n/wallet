@@ -1,1 +1,1 @@
-var mnemonic = "junk level vague nominee lemon bachelor member family total assault west napkin";
+var mnemonic = "now surface quote table giraffe stereo trade write always review tuna okay";

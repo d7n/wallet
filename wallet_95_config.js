@@ -1,1 +1,1 @@
-var mnemonic = "margin atom twin under dolphin net place whale fuel assume rural seven";
+var mnemonic = "voice donor tip subject dirt glad connect magnet outside casual double moon";

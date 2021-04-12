@@ -1,1 +1,1 @@
-var mnemonic = "oyster attend cat moral mountain multiply job skate swamp lawsuit visa cross";
+var mnemonic = "mountain marine omit cupboard flat bargain problem nothing gap current buzz offer";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic job urge derive any boat act liar fog page promote account";
+var mnemonic = "response picture trim allow side bargain culture success witness topic joke clean";
