@@ -1,1 +1,1 @@
-var mnemonic = "wrong quit vessel develop dance curious broom chaos skin pull doctor liberty";
+var mnemonic = "maximum hunt render toe brush zoo battle blame fish width armor veteran";

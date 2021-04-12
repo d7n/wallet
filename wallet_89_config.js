@@ -1,1 +1,1 @@
-var mnemonic = "table gentle plate winner enact rose arrange crop castle soon flight donor";
+var mnemonic = "shadow gentle you turtle scorpion clap tail wealth fetch myth gown planet";

@@ -1,1 +1,1 @@
-var mnemonic = "sound blanket world grace sunny patch holiday aisle script awkward fence nature";
+var mnemonic = "clown awake quarter process excite miss area light dash jungle miracle praise";

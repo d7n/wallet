@@ -1,1 +1,1 @@
-var mnemonic = "rate ladder nose arch dove unveil torch pond kite fruit mother embrace";
+var mnemonic = "snack able rough mystery ordinary excite shield web box stand gorilla bleak";

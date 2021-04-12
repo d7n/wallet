@@ -1,1 +1,1 @@
-var mnemonic = "scare news cruel please actual forget inherit flight lawn admit happy film";
+var mnemonic = "enable program village bounce bottom relief kingdom achieve day vast project blade";

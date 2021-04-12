@@ -1,1 +1,1 @@
-var mnemonic = "air job era gossip visa ritual nurse bright junk mobile say glow";
+var mnemonic = "blood dilemma coin video much lawsuit grape check bullet october soul silk";

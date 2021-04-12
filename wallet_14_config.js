@@ -1,1 +1,1 @@
-var mnemonic = "roof cry seven joke buddy paddle nature kidney glass coconut negative more";
+var mnemonic = "soon bottom leader expect talent boost program stock garbage filter engage fruit";

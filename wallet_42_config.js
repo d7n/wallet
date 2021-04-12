@@ -1,1 +1,1 @@
-var mnemonic = "leopard snake decline royal inflict win cement town man firm biology mention";
+var mnemonic = "turn cinnamon marble bright green nut urban segment enjoy allow young try";

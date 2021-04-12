@@ -1,1 +1,1 @@
-var mnemonic = "tunnel tide track prepare desk bridge deer vault vivid bleak nest roof";
+var mnemonic = "raven celery join attack okay suspect vicious power present envelope screen modify";

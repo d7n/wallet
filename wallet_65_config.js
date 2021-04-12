@@ -1,1 +1,1 @@
-var mnemonic = "prevent crazy pencil alter core quality voice gorilla flee perfect auction process";
+var mnemonic = "cute humble treat wife toilet vocal canal nuclear table disagree boil old";

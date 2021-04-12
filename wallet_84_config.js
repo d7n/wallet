@@ -1,1 +1,1 @@
-var mnemonic = "broken antique elder fold tent strong board wink balance much occur expire";
+var mnemonic = "museum very order buddy focus immense wreck must this soul table tilt";

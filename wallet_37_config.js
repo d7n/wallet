@@ -1,1 +1,1 @@
-var mnemonic = "diet praise clip crush about enemy divert material wrap december sweet violin";
+var mnemonic = "work eight often myth since helmet salmon park august universe argue slam";

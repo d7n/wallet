@@ -1,1 +1,1 @@
-var mnemonic = "half useful sort hat leisure vivid plug smooth cry phone hotel cave";
+var mnemonic = "clog gap scissors pause salon plate elite unique orbit torch grow waste";

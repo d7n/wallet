@@ -1,1 +1,1 @@
-var mnemonic = "reopen close taxi nasty leg short crush salad churn glow candy seminar";
+var mnemonic = "utility burger coach bright jungle exact canal drive large hair observe brain";

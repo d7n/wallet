@@ -1,1 +1,1 @@
-var mnemonic = "cattle fabric aspect capital jewel boat mystery kitten wrong permit indicate scatter";
+var mnemonic = "excuse sausage best fat noodle swear garden oil pulse breeze kit affair";

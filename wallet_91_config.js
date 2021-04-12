@@ -1,1 +1,1 @@
-var mnemonic = "suit unhappy video devote cage company rocket pepper dice pole debris oblige";
+var mnemonic = "deposit identify december army aim question soft solve debate air pool bullet";

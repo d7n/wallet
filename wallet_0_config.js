@@ -1,1 +1,1 @@
-var mnemonic = "enjoy wish tuna romance margin diet beyond budget high cool goddess fee";
+var mnemonic = "mixture rack cinnamon calm attract provide provide trust imitate better sunset shed";

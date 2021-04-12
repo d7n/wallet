@@ -1,1 +1,1 @@
-var mnemonic = "inner feel hero year warrior ritual clip critic neglect side calm scrap";
+var mnemonic = "reveal nasty enable situate path inner boost culture light abuse boring enjoy";

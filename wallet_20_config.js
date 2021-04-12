@@ -1,1 +1,1 @@
-var mnemonic = "cabbage oval middle barrel satisfy clinic uncle office polar appear banana cover";
+var mnemonic = "valve young suggest similar front fruit van clog crystal hurry gauge detail";

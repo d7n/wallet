@@ -1,1 +1,1 @@
-var mnemonic = "topic impulse aware ethics embrace busy fee stool again blast grid ecology";
+var mnemonic = "timber rotate item napkin mule eye goddess style waste arrive perfect quit";

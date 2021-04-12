@@ -1,1 +1,1 @@
-var mnemonic = "climb dress excess disease drastic company mango helmet garage spawn march grape";
+var mnemonic = "valley stock crumble race cloth extend element put ahead visit pill jar";

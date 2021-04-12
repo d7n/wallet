@@ -1,1 +1,1 @@
-var mnemonic = "goat mixture patient toy isolate giraffe rival denial loyal social plug purpose";
+var mnemonic = "garment often afraid resist message beach casino donor scout resource nominee sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "robust swamp barely flame pair spend harbor various test anxiety test august";
+var mnemonic = "cherry window steel fragile rail asset decline august sweet inner suit material";

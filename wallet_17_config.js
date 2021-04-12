@@ -1,1 +1,1 @@
-var mnemonic = "pill sibling weather object void hand garage runway people foster flat verify";
+var mnemonic = "stay airport manual deposit famous theory badge blossom spike couple monster arctic";

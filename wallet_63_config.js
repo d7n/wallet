@@ -1,1 +1,1 @@
-var mnemonic = "hint hotel drift mom erosion word addict lazy carbon neck topic version";
+var mnemonic = "jacket abstract hint excess echo abstract card elevator canal embrace damp safe";

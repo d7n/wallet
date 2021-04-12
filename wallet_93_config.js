@@ -1,1 +1,1 @@
-var mnemonic = "curious try since length bleak please popular easily outdoor labor input tennis";
+var mnemonic = "arrive used copy vanish fatal expect essence chuckle hand crowd fat wage";

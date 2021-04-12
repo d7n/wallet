@@ -1,1 +1,1 @@
-var mnemonic = "produce execute zone flower assist inject foster daring define reduce pet tiny";
+var mnemonic = "album science dumb clinic amount universe flavor random trigger math tackle music";

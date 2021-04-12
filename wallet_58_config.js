@@ -1,1 +1,1 @@
-var mnemonic = "appear filter empty side flat convince void coin pelican antique velvet gather";
+var mnemonic = "inner chase unusual absorb stock pill lemon drastic theme robot arrange concert";

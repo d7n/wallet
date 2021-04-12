@@ -1,1 +1,1 @@
-var mnemonic = "sausage code rate coin fold spoil rice virtual super hope squirrel ozone";
+var mnemonic = "banana apology game neck fine clean stick must faith situate stand nut";

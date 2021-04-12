@@ -1,1 +1,1 @@
-var mnemonic = "fade clean sister street betray lucky sad fat medal viable wheel mouse";
+var mnemonic = "mountain humble lamp state scout access sibling observe gorilla found volcano purpose";

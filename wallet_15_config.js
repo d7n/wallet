@@ -1,1 +1,1 @@
-var mnemonic = "vicious card fossil auto blind future gather worth correct alpha essay bundle";
+var mnemonic = "soft doctor wolf blanket run turkey bird under great similar allow replace";

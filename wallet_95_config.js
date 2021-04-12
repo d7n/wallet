@@ -1,1 +1,1 @@
-var mnemonic = "proof notable bunker two media cake bar margin cabbage below sphere turkey";
+var mnemonic = "comic subway parent excuse social spice rebel spray saddle silk edge cricket";

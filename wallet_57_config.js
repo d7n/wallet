@@ -1,1 +1,1 @@
-var mnemonic = "noise diesel again just patient category identify cement will hunt derive enhance";
+var mnemonic = "modify swarm drama gate tomorrow meat multiply spoon million critic month purchase";

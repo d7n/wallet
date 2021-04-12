@@ -1,1 +1,1 @@
-var mnemonic = "worth ladder aerobic used helmet grape sausage category tuition swift rather mimic";
+var mnemonic = "pottery polar face catalog general begin clog try poet clutch affair still";

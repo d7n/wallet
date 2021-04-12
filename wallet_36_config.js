@@ -1,1 +1,1 @@
-var mnemonic = "east pepper badge toe evoke exotic convince scorpion cause faith morning decrease";
+var mnemonic = "alter cruel interest lucky weapon clerk auction focus armor tip assault oil";

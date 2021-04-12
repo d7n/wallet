@@ -1,1 +1,1 @@
-var mnemonic = "gauge spoon impulse access merry left minute art tobacco local loop huge";
+var mnemonic = "angry toilet clever aerobic wheat surprise suggest cave ghost quick upper coin";

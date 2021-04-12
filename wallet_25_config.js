@@ -1,1 +1,1 @@
-var mnemonic = "drift lock park hurdle labor saddle drip float ghost height slush actual";
+var mnemonic = "solar meadow when trip swing prison abuse tower gasp measure fiction victory";

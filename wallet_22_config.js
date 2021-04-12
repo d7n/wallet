@@ -1,1 +1,1 @@
-var mnemonic = "inform text language raven toss surge puppy below donate purse glimpse erosion";
+var mnemonic = "paper rent drum tank fame vendor door lamp avocado issue panel weather";

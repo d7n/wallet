@@ -1,1 +1,1 @@
-var mnemonic = "public build arrive ill swallow leaf web depart correct spirit apology chair";
+var mnemonic = "column lecture silk estate pass satisfy occur genuine duck hello entry enrich";

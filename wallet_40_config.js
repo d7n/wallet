@@ -1,1 +1,1 @@
-var mnemonic = "bus deputy edge can amazing cricket purchase scout hotel club rural step";
+var mnemonic = "real monster skin measure problem strategy silent sail village motion unknown exhibit";

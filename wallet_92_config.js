@@ -1,1 +1,1 @@
-var mnemonic = "soccer length lecture panel thing race awful slot elephant absorb dignity glare";
+var mnemonic = "process shy verify buyer follow task rescue galaxy treat water absent enforce";

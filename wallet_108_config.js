@@ -1,1 +1,1 @@
-var mnemonic = "bless swamp judge emotion antique absent anchor bulb strong rent portion cannon";
+var mnemonic = "scheme pudding taxi wrong shop fine scrap pig exact faculty snack utility";

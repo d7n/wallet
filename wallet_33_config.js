@@ -1,1 +1,1 @@
-var mnemonic = "decade divorce okay cloud various devote success tomato mind length silent bench";
+var mnemonic = "pioneer concert bread unaware whale purse forum tennis light model imitate survey";

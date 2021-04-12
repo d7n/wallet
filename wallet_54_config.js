@@ -1,1 +1,1 @@
-var mnemonic = "voice ensure nut double ball olive canvas aim music screen spend thumb";
+var mnemonic = "wheat obvious airport wage slim quiz bullet define bid hunt calm move";

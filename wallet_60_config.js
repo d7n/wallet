@@ -1,1 +1,1 @@
-var mnemonic = "hamster february cable soap beach fancy cart crumble time enrich over diamond";
+var mnemonic = "attract flock uphold dose drum visa enough duty gate biology drink clog";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet coyote minimum uncover real shrimp require misery front injury history nuclear";
+var mnemonic = "coffee wolf face chronic gold claw visa fog fat wrestle meat usage";

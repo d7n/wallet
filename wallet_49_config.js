@@ -1,1 +1,1 @@
-var mnemonic = "rapid cactus ancient bulb ugly giant eight sad before oval mutual sorry";
+var mnemonic = "vacuum quote scare agent museum gospel valid cloud phone bundle damp client";

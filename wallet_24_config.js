@@ -1,1 +1,1 @@
-var mnemonic = "smart hint pact laundry toe popular melt exhibit earn route teach myself";
+var mnemonic = "tape submit rail code kick announce fruit vanish marriage ethics point bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond vacant quantum hat math mass kiwi age bag girl crazy solid";
+var mnemonic = "ivory any interest problem bonus bunker trick climb acid innocent never enlist";

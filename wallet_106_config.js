@@ -1,1 +1,1 @@
-var mnemonic = "enroll razor olive agent check hotel blanket diesel mechanic course person jaguar";
+var mnemonic = "never script start lion eagle say vehicle city spoil nose federal lend";

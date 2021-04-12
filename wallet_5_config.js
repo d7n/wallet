@@ -1,1 +1,1 @@
-var mnemonic = "nose sauce auction during receive once exchange fade such orchard govern trick";
+var mnemonic = "gospel rebuild rough shield transfer sock call mango page logic pattern minute";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli track shell chief cat cousin abandon boil bar sketch text toy";
+var mnemonic = "step planet monkey convince excite valve couple laugh honey nuclear pink resist";

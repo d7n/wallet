@@ -1,1 +1,1 @@
-var mnemonic = "smile today spatial alter mistake wealth material decorate purchase smile scrap fame";
+var mnemonic = "nephew satoshi square again object major kangaroo stage message core various heavy";

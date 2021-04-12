@@ -1,1 +1,1 @@
-var mnemonic = "card shy lens main remove little helmet reform notable predict tired stuff";
+var mnemonic = "quiz front fragile circle lady local credit reopen cabbage wealth mercy senior";

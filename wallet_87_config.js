@@ -1,1 +1,1 @@
-var mnemonic = "suspect panel what any fix moral armed file cricket fun laugh top";
+var mnemonic = "cupboard drastic guard laptop nation search aim nothing huge escape resemble better";

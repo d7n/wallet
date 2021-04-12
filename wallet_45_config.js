@@ -1,1 +1,1 @@
-var mnemonic = "prize bulk harsh must moment plastic oil smile pool pill parent layer";
+var mnemonic = "mention manual observe denial stone embark scorpion casual already relief frown live";

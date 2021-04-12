@@ -1,1 +1,1 @@
-var mnemonic = "coast prize hunt else asset under camp wolf fortune narrow when wish";
+var mnemonic = "coach various ecology betray expose zoo damp champion wire hurdle luggage lonely";

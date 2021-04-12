@@ -1,1 +1,1 @@
-var mnemonic = "cupboard left parade truth gorilla electric visit faith cliff toy depart wife";
+var mnemonic = "blame will gadget caught wife swarm dust pond dance cycle elite south";

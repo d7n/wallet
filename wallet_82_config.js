@@ -1,1 +1,1 @@
-var mnemonic = "damp orphan tunnel receive plastic become dilemma stage memory theory scare extend";
+var mnemonic = "license myth achieve wire effort photo puzzle mystery exercise utility width warfare";

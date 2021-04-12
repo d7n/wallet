@@ -1,1 +1,1 @@
-var mnemonic = "run over clog peace catch wing usage manage thank scrub light weekend";
+var mnemonic = "impose hurdle tooth illegal runway poet main audit athlete obtain decade gesture";

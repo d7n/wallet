@@ -1,1 +1,1 @@
-var mnemonic = "couch slot visit ancient present kick turn turkey trigger body peasant dinosaur";
+var mnemonic = "rail above opinion ghost length pact hamster comic monster joke link garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "trend churn hungry spread whale about child forward upgrade surface oxygen label";
+var mnemonic = "enough congress engage weird replace average tiger twelve another wise document energy";

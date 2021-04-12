@@ -1,1 +1,1 @@
-var mnemonic = "frozen duty truck trap neglect border clog bamboo quote crystal fame input";
+var mnemonic = "best autumn motor genius joy purity cover destroy solution decide floor lamp";

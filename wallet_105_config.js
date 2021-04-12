@@ -1,1 +1,1 @@
-var mnemonic = "liberty thunder element health mushroom leg like foil law coffee enhance flower";
+var mnemonic = "subject learn carry repair learn mechanic machine above trash glow guess kangaroo";

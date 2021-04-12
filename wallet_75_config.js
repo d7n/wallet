@@ -1,1 +1,1 @@
-var mnemonic = "undo arrest exit dash jewel boat marriage oxygen shrug marine daring another";
+var mnemonic = "buddy general flock solid old orphan swarm final canal turn island connect";

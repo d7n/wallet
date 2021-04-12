@@ -1,1 +1,1 @@
-var mnemonic = "mountain document exhaust gravity rural volcano suspect timber fabric void enroll crop";
+var mnemonic = "crouch cancel civil minimum shine quiz drop globe detect local village suit";

@@ -1,1 +1,1 @@
-var mnemonic = "coach anxiety fabric reform satisfy indicate they this flower hand square vault";
+var mnemonic = "actual castle crop side always define lunch lunch entry thunder nothing sort";

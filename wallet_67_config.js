@@ -1,1 +1,1 @@
-var mnemonic = "mango best remain two believe flip kit list virtual certain ancient assist";
+var mnemonic = "general frost replace kick task body slush hover infant rally brush blanket";

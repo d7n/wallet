@@ -1,1 +1,1 @@
-var mnemonic = "lecture grain engine harvest round ankle elbow improve wheat source trial notice";
+var mnemonic = "man arena plug recycle science robust ability latin edge resource target female";

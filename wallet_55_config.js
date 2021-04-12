@@ -1,1 +1,1 @@
-var mnemonic = "crystal subway subway table hawk pear artist grant tragic lottery purpose govern";
+var mnemonic = "supply enlist cost report actual broom hungry planet mother grief popular mad";

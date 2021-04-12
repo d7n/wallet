@@ -1,1 +1,1 @@
-var mnemonic = "alien adapt dish clean onion ostrich protect peasant collect advance sudden drill";
+var mnemonic = "night educate adjust over connect item desert evoke intact soda fix opera";

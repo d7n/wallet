@@ -1,1 +1,1 @@
-var mnemonic = "wise manual exhaust coast guess biology blossom auction team ribbon glad cake";
+var mnemonic = "cram jealous private chief split such text acquire wire sudden east assist";

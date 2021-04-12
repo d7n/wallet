@@ -1,1 +1,1 @@
-var mnemonic = "fortune exotic tilt trap report primary fade shy fantasy bag olive total";
+var mnemonic = "fatigue cake earth crucial common soul monkey beach rare wrist size ship";

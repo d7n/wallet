@@ -1,1 +1,1 @@
-var mnemonic = "team main today member mule oyster apology toward intact satisfy mimic catch";
+var mnemonic = "voyage decline pave negative true famous sign profit start safe uniform grant";

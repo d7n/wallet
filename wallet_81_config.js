@@ -1,1 +1,1 @@
-var mnemonic = "game black blue clean universe enforce doll champion frog stem reform upset";
+var mnemonic = "hub inner tip volume issue end start finger deputy lion spell gossip";

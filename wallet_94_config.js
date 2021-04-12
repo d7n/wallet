@@ -1,1 +1,1 @@
-var mnemonic = "open purpose minimum mirror silk fog special proof answer fluid area bulk";
+var mnemonic = "faculty humor right drink gorilla squirrel when text process allow improve game";

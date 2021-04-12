@@ -1,1 +1,1 @@
-var mnemonic = "run label pair define input cradle audit glide mutual tank weasel fruit";
+var mnemonic = "lecture capable crouch net aware knife resemble cram hidden yard bottom second";

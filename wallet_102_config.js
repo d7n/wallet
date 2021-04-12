@@ -1,1 +1,1 @@
-var mnemonic = "vault faith expose bid urge brand ball city title smooth soul snack";
+var mnemonic = "chimney april odor pet quit humble boost knee enroll exclude staff gasp";

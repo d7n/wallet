@@ -1,1 +1,1 @@
-var mnemonic = "brick rapid pair violin dilemma insect bag wool shove blanket enemy find";
+var mnemonic = "endless indoor argue logic library quality battle coil list meadow strategy chat";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo salad nature job differ bridge afford ocean myth stairs grace hub";
+var mnemonic = "review train lemon decade mouse off visual blade whisper include mansion burden";

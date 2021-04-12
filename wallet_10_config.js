@@ -1,1 +1,1 @@
-var mnemonic = "hamster clinic spell ice team transfer off author puppy tennis taxi cave";
+var mnemonic = "opinion recipe valley shift simple spin imitate load gown spoon sure soap";

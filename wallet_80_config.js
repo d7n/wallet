@@ -1,1 +1,1 @@
-var mnemonic = "rescue team hazard spin clean margin dwarf brand smoke heart obvious proof";
+var mnemonic = "moral impact whisper child wasp secret blur sport squeeze magic volume tree";

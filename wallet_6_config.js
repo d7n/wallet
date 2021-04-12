@@ -1,1 +1,1 @@
-var mnemonic = "return pilot rose patient girl slice symbol toward tackle pumpkin analyst merit";
+var mnemonic = "chronic fit measure hood bonus panic boring inspire steak giant wealth oxygen";

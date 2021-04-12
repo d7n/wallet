@@ -1,1 +1,1 @@
-var mnemonic = "farm bundle you boat refuse sea pulp valve rubber soldier nuclear accident";
+var mnemonic = "pupil churn stove man target identify soccer school goose quarter zebra receive";

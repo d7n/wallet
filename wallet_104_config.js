@@ -1,1 +1,1 @@
-var mnemonic = "rule goat denial sight all gauge laugh captain fox genuine burst insect";
+var mnemonic = "ripple corn lazy summer hub approve lunch female audit aerobic opera better";

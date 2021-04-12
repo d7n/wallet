@@ -1,1 +1,1 @@
-var mnemonic = "bulk sign rule game economy cry shiver ozone inside catch mixed cargo";
+var mnemonic = "mobile either bulk submit online spell print fee mean kingdom alter mechanic";

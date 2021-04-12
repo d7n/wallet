@@ -1,1 +1,1 @@
-var mnemonic = "visual dice coil tobacco seminar special enhance pigeon volume now treat market";
+var mnemonic = "film spin tomorrow observe glad style detail symptom proof emerge ginger rabbit";

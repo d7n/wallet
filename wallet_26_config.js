@@ -1,1 +1,1 @@
-var mnemonic = "puzzle rare sail shoe run ritual dirt point enable shoot snow attack";
+var mnemonic = "forum naive situate undo shrug fit flag that stereo citizen dune north";

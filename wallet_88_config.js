@@ -1,1 +1,1 @@
-var mnemonic = "ripple hamster trash guilt gadget example power dream pattern oven heavy such";
+var mnemonic = "charge holiday also effort pipe hand simple differ supreme outdoor clerk manage";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture home gospel gaze spot stone owner tunnel local receive oak inquiry";
+var mnemonic = "fiction name figure quit follow humble stand job bind fog private example";

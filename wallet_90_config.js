@@ -1,1 +1,1 @@
-var mnemonic = "decide invite fork skill silent strong amateur dune base curve company drastic";
+var mnemonic = "sunny kick safe fault run struggle will maze club unhappy later catch";

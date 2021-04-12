@@ -1,1 +1,1 @@
-var mnemonic = "cover shift youth festival language razor empower expose valve degree soccer turtle";
+var mnemonic = "segment bring design giraffe armed fog property drink nest noodle warfare fault";
