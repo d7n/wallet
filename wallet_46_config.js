@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur jungle typical either era hello case sight love memory staff unveil";
+var mnemonic = "hurt north kite nurse harbor web wasp admit juice merge media snake";

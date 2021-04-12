@@ -1,1 +1,1 @@
-var mnemonic = "town quote tone cruise answer sword deny gap message flavor tape angle";
+var mnemonic = "better breeze clog various other trade zero uncover hover possible baby memory";

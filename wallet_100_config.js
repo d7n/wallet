@@ -1,1 +1,1 @@
-var mnemonic = "rotate music crouch enough wine suspect hill element auction olympic vehicle garlic";
+var mnemonic = "rabbit hundred curtain wealth neck sad method monitor boost hip shoulder knock";

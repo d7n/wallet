@@ -1,1 +1,1 @@
-var mnemonic = "index humor shine fiscal pause token lawsuit horn smooth improve uphold mask";
+var mnemonic = "snap upgrade stable hat shock man boy gun script august earth fitness";

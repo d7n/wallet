@@ -1,1 +1,1 @@
-var mnemonic = "drum glass clever aisle mobile abstract art arrive jelly neglect vibrant ride";
+var mnemonic = "permit duck unaware village design camera range squeeze alien afraid mesh cement";

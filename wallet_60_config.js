@@ -1,1 +1,1 @@
-var mnemonic = "march claw cousin puppy fold wish seed soft minute olympic sign air";
+var mnemonic = "holiday obvious state atom monster husband program stairs divert picture december gap";

@@ -1,1 +1,1 @@
-var mnemonic = "honey antique armed dune coconut gallery message thunder eyebrow stamp waste tide";
+var mnemonic = "tuna panther announce where million pilot similar shy tunnel exchange strategy inform";

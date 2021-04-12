@@ -1,1 +1,1 @@
-var mnemonic = "material follow series rack smart near market network early sand marriage sting";
+var mnemonic = "gap custom stove unit refuse damage enlist sweet brisk small silk crisp";

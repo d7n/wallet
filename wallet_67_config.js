@@ -1,1 +1,1 @@
-var mnemonic = "swarm gentle expand noble cotton hire tray kid screen use actual weird";
+var mnemonic = "angle jungle supply brick wink film canal steak lyrics gaze size hospital";

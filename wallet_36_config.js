@@ -1,1 +1,1 @@
-var mnemonic = "trumpet text cancel average asset safe question dove danger series poem sibling";
+var mnemonic = "ketchup table energy purpose cry spoon victory true bonus guitar second bright";

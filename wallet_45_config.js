@@ -1,1 +1,1 @@
-var mnemonic = "like shiver hover void suit affair meadow recycle test forest better diary";
+var mnemonic = "sign fatal whisper frozen kiss mass major keen badge slot casual peace";

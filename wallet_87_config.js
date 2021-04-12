@@ -1,1 +1,1 @@
-var mnemonic = "brief regret cup predict sunny talent entire scorpion velvet keen quantum steak";
+var mnemonic = "plug update chalk language convince escape lawsuit pepper bundle dignity license together";

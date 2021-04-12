@@ -1,1 +1,1 @@
-var mnemonic = "happy obtain riot dignity vacant muffin damp tenant glad awkward stool simple";
+var mnemonic = "toss hundred print gift visit zero main local party dune join when";

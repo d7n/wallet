@@ -1,1 +1,1 @@
-var mnemonic = "citizen zoo blur connect symbol case treat hollow mule monster area right";
+var mnemonic = "monkey feed female seed resource usual dilemma pool wing brief seed skill";

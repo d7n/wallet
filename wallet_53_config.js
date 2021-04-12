@@ -1,1 +1,1 @@
-var mnemonic = "utility stone still trip apple over oppose angle female segment text piano";
+var mnemonic = "viable ancient modify lounge govern witness grocery scale glimpse desert devote solve";

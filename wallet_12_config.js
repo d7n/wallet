@@ -1,1 +1,1 @@
-var mnemonic = "raccoon skirt wage ivory reflect flip level attract local myth attend imitate";
+var mnemonic = "duty shadow army lazy bright clock cushion nest income all regular initial";

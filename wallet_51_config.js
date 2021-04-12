@@ -1,1 +1,1 @@
-var mnemonic = "swift soul churn country body slim rhythm slight easy grit era lonely";
+var mnemonic = "crouch rely member strong announce normal bulk kiwi erupt correct decide mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "mom shiver depth office race present sail lemon donor enforce spirit rib";
+var mnemonic = "saddle february exit forward culture crumble veteran core shoe century wine rain";

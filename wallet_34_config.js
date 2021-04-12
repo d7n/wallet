@@ -1,1 +1,1 @@
-var mnemonic = "lady uncover rabbit reflect ski debate vapor endless head major piano title";
+var mnemonic = "episode giggle staff segment multiply cancel into economy shoulder deposit abuse stamp";

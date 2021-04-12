@@ -1,1 +1,1 @@
-var mnemonic = "walnut narrow lift demand stone erase apology embody debris hobby wrestle bitter";
+var mnemonic = "diagram dog smile ghost strategy breeze strategy kiss system title science tank";

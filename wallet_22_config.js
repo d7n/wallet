@@ -1,1 +1,1 @@
-var mnemonic = "clutch hold wealth promote liar smooth green outdoor chest install erosion tongue";
+var mnemonic = "aspect gift school endless skill vapor midnight depend obscure sand retreat connect";

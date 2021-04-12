@@ -1,1 +1,1 @@
-var mnemonic = "hawk wild sniff orbit casual crash clean plunge apple depth slender salon";
+var mnemonic = "know sister razor impose mimic edge figure future else crush regular acquire";

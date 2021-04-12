@@ -1,1 +1,1 @@
-var mnemonic = "way give arrow come receive jazz rabbit ignore expose lawn energy absorb";
+var mnemonic = "reason tobacco access ginger cruel bomb cabbage script lumber firm couple skill";

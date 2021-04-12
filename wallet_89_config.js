@@ -1,1 +1,1 @@
-var mnemonic = "exotic lava amount sentence also iron nasty member pool invite hedgehog dinosaur";
+var mnemonic = "sleep large afraid sauce ribbon spoil decide electric stick math label allow";

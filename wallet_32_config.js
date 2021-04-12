@@ -1,1 +1,1 @@
-var mnemonic = "agree ignore tube timber buddy hurry among mail parade liberty swear picnic";
+var mnemonic = "company clump chase wealth flat duck rally boring much volume horn walnut";

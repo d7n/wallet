@@ -1,1 +1,1 @@
-var mnemonic = "joke you now muscle mammal seven catalog interest claw apple stomach cute";
+var mnemonic = "cheese ahead memory screen wolf provide suit emotion grant same sure one";

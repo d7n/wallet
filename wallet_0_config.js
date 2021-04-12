@@ -1,1 +1,1 @@
-var mnemonic = "traffic sudden hill hedgehog merge brave pole easy sword life angle grace";
+var mnemonic = "leaf sibling net coil donate capable garbage vivid vapor cover kid light";

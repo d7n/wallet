@@ -1,1 +1,1 @@
-var mnemonic = "romance easy wait arrest gloom rural plate style clay peanut wife argue";
+var mnemonic = "home rival shoe clog unique choose below verb erase ceiling envelope talent";

@@ -1,1 +1,1 @@
-var mnemonic = "upset bench coast jungle artefact donkey indicate seat squirrel mountain season pet";
+var mnemonic = "decade liar ball castle entire become pledge vibrant wisdom squirrel have estate";

@@ -1,1 +1,1 @@
-var mnemonic = "spin exotic amazing empower lock similar copy tank evidence farm hover air";
+var mnemonic = "law suit genuine tonight acquire broom purpose execute ball brief fish cliff";

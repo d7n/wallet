@@ -1,1 +1,1 @@
-var mnemonic = "rare banana cube caution air under require battle broken dog spider bid";
+var mnemonic = "mobile pilot angle remain favorite movie work swarm budget veteran butter joy";

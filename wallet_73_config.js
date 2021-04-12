@@ -1,1 +1,1 @@
-var mnemonic = "stereo great congress valid sunny pill visa grant return believe lounge shy";
+var mnemonic = "youth curve galaxy word solid slide sheriff you loud include demise clerk";

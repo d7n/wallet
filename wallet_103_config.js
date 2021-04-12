@@ -1,1 +1,1 @@
-var mnemonic = "glass trophy brave busy sail able fantasy shadow secret treat mother cargo";
+var mnemonic = "decrease aisle improve exclude demise oval remove lottery salon silent alert aim";

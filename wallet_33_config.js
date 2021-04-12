@@ -1,1 +1,1 @@
-var mnemonic = "sick three pig exact antique opinion pottery divorce only spin window search";
+var mnemonic = "razor blur scout acquire feel curious river student wisdom royal spend idle";

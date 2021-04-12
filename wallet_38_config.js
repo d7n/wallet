@@ -1,1 +1,1 @@
-var mnemonic = "helmet man talent armed glove extend wedding destroy embrace scrap planet cave";
+var mnemonic = "portion call exit spend spirit top virus spring roof romance addict double";

@@ -1,1 +1,1 @@
-var mnemonic = "injury little category emerge rail bid cigar recycle exhaust wrist penalty foot";
+var mnemonic = "discover another level service barrel vocal lyrics odor plug praise favorite gather";

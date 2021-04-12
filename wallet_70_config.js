@@ -1,1 +1,1 @@
-var mnemonic = "soup pole nuclear immense melt wonder almost divert measure medal describe always";
+var mnemonic = "erosion abandon robot antenna combine clerk blade hazard giraffe tide great push";

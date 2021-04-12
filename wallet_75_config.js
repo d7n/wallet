@@ -1,1 +1,1 @@
-var mnemonic = "fabric math flip actress jar monitor super ivory hundred hobby prize garden";
+var mnemonic = "know lunch wisdom gallery join table draft warfare pulp exhaust arrest another";

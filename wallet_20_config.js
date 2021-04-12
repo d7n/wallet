@@ -1,1 +1,1 @@
-var mnemonic = "lion history onion benefit critic method pizza sword steak rifle found offer";
+var mnemonic = "addict antique uniform flower stock error click sad any world pigeon faint";

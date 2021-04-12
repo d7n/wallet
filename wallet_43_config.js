@@ -1,1 +1,1 @@
-var mnemonic = "zone keep crazy weather vast forward alter laptop solid ginger drink diamond";
+var mnemonic = "voice stand crystal control web very endless rapid thumb cat school person";

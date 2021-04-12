@@ -1,1 +1,1 @@
-var mnemonic = "absorb pen silver lens work soon assist trick pulse menu indoor similar";
+var mnemonic = "behave boy analyst front bless train cherry decrease radar cinnamon eye fly";

@@ -1,1 +1,1 @@
-var mnemonic = "soul spring pear good attack effort motor weapon fee motion believe hen";
+var mnemonic = "garbage hockey imitate crowd river arch thumb fire bench lobster thunder place";

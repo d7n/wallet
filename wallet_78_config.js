@@ -1,1 +1,1 @@
-var mnemonic = "clinic proud senior sadness eager excess regular whip absurd knee muscle fade";
+var mnemonic = "dilemma cigar fork lumber mesh chef nature charge brother roof sorry vessel";

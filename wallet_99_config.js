@@ -1,1 +1,1 @@
-var mnemonic = "tag ship december harsh apple strong film habit pottery seminar patch pitch";
+var mnemonic = "huge model burger kind inside put deposit arctic raven hurt attend loyal";

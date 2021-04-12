@@ -1,1 +1,1 @@
-var mnemonic = "tray only wear voyage broken viable meat between twenty loud orchard transfer";
+var mnemonic = "wink aunt island talent you middle fatigue essence critic pair either feed";

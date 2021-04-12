@@ -1,1 +1,1 @@
-var mnemonic = "thumb fold thing unusual grunt trade flip million bargain toy pave visa";
+var mnemonic = "abstract finish lady fault culture music ticket option earth upgrade process sea";

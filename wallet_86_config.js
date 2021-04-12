@@ -1,1 +1,1 @@
-var mnemonic = "hole beef energy protect stem entire shop spider verb evoke pepper parrot";
+var mnemonic = "wish stock when opinion letter auto mask purpose region wish comfort road";

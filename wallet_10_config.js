@@ -1,1 +1,1 @@
-var mnemonic = "service barrel news evolve wage crash impact venture laugh oyster choose orient";
+var mnemonic = "depend cave vault rally path mesh meat general task south student begin";

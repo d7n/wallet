@@ -1,1 +1,1 @@
-var mnemonic = "frown body spend school clown mimic strike stereo pretty account gap right";
+var mnemonic = "please patrol carbon impulse ability side hip daughter walnut drastic snack toe";

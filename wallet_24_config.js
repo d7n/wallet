@@ -1,1 +1,1 @@
-var mnemonic = "egg become leaf december gym exit jungle duck hollow habit resource coast";
+var mnemonic = "broken sword cheap hidden giraffe share turtle mistake person echo chapter sudden";

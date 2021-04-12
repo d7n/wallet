@@ -1,1 +1,1 @@
-var mnemonic = "strike idea chaos city raise abuse edit attitude garage other upgrade library";
+var mnemonic = "survey draft annual tuna define shuffle brief learn broom scout valley moon";

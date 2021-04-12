@@ -1,1 +1,1 @@
-var mnemonic = "interest bone auto margin noise position ivory comfort rude desert tent smart";
+var mnemonic = "vicious brother feed large execute enforce gravity reunion assume window tribe frozen";

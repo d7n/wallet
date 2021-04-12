@@ -1,1 +1,1 @@
-var mnemonic = "fatal prepare stem vital repeat divorce faint engage mosquito vacant clarify echo";
+var mnemonic = "program only injury repeat clown crop ice never cry adapt reject school";

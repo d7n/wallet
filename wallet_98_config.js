@@ -1,1 +1,1 @@
-var mnemonic = "crystal sting drama minimum crash error inner mirror annual tool waste mask";
+var mnemonic = "expect unique uniform solution chunk category ketchup pipe narrow pool game release";

@@ -1,1 +1,1 @@
-var mnemonic = "alert humor beach extend daring marble evil trip enough phrase before buyer";
+var mnemonic = "disorder become fit total lava mandate brisk wire stage ensure broccoli mom";

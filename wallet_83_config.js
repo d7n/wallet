@@ -1,1 +1,1 @@
-var mnemonic = "dwarf belt wisdom emerge inherit chuckle resist infant adjust wet panic recycle";
+var mnemonic = "advice kidney best unlock army erosion noodle cotton mom frost wide list";

@@ -1,1 +1,1 @@
-var mnemonic = "dog sort minor siege learn amazing island velvet erosion enjoy fringe shell";
+var mnemonic = "guitar vintage survey weather fluid salon liquid surge please figure inject ski";

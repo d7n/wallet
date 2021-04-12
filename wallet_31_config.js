@@ -1,1 +1,1 @@
-var mnemonic = "improve tray crumble close jaguar wait sunny steel earth lunch toilet board";
+var mnemonic = "bracket three spatial piece obvious say verb help talk reward square orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "birth escape ski unaware divide toe describe clip bar retreat evoke cereal";
+var mnemonic = "stay liberty key awkward memory strong main desert verb audit rhythm brass";

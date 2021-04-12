@@ -1,1 +1,1 @@
-var mnemonic = "buffalo cousin west asset glue afford lawsuit sample bicycle front practice advance";
+var mnemonic = "galaxy habit decide supreme multiply park still dilemma trap actress churn club";

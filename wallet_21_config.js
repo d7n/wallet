@@ -1,1 +1,1 @@
-var mnemonic = "broom tube rich measure filter flower evoke genuine wage tobacco twin eye";
+var mnemonic = "enroll vessel salon unveil craft kitten mad curious struggle grace soup sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "roof street mutual object entire produce thrive question citizen beyond cinnamon six";
+var mnemonic = "aisle family verb father now cannon clean machine satoshi goddess jealous rigid";

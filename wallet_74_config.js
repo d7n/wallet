@@ -1,1 +1,1 @@
-var mnemonic = "fly song end cool marriage hope confirm replace sock win unaware scout";
+var mnemonic = "body funny believe science garage inherit laptop spot arctic dignity insect wrong";

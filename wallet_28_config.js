@@ -1,1 +1,1 @@
-var mnemonic = "aerobic embody bounce pattern jelly eager tone guilt approve matrix sunset cabbage";
+var mnemonic = "weasel tragic run alien drip swim picture decline cluster exclude fatal bounce";

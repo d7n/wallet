@@ -1,1 +1,1 @@
-var mnemonic = "churn amazing snake cupboard destroy stone street report transfer open cricket garment";
+var mnemonic = "stumble inspire embody broccoli soup chase marriage ceiling inflict drastic mystery figure";

@@ -1,1 +1,1 @@
-var mnemonic = "crack aisle dad immense fluid raise resource lounge boost essence more prize";
+var mnemonic = "decline captain unknown inch pair certain belt essay sell offer humor quantum";

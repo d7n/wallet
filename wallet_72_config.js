@@ -1,1 +1,1 @@
-var mnemonic = "vivid shed december south cotton joke nose fortune sun chunk match install";
+var mnemonic = "sure clock plastic casino earn arctic shoulder crazy candy present pony charge";

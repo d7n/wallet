@@ -1,1 +1,1 @@
-var mnemonic = "velvet rural inside swap twenty smoke vast cliff unhappy error mandate capable";
+var mnemonic = "situate demise auction swallow tone charge any that crunch shell among green";

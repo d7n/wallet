@@ -1,1 +1,1 @@
-var mnemonic = "cousin bicycle insect sail chalk garage air laptop father correct visual act";
+var mnemonic = "jungle filter setup awkward service faint fabric busy layer adjust session tobacco";

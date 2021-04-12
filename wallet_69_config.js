@@ -1,1 +1,1 @@
-var mnemonic = "milk alcohol mix element talk observe recall novel pepper unfold belt wrist";
+var mnemonic = "pipe quick diagram found ability coral affair receive sunny bar script buddy";

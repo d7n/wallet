@@ -1,1 +1,1 @@
-var mnemonic = "fancy civil flip fiscal phrase toward ethics pipe energy devote manage escape";
+var mnemonic = "visa screen glimpse secret clock debate issue organ punch furnace elegant just";

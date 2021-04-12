@@ -1,1 +1,1 @@
-var mnemonic = "bus govern cable pupil labor depth one odor spray good pipe obtain";
+var mnemonic = "connect ghost merit review strong bottom umbrella crawl split please spoil oblige";

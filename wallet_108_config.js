@@ -1,1 +1,1 @@
-var mnemonic = "nephew inmate fatigue poet unlock such fire unlock pact token doll tell";
+var mnemonic = "learn notice ugly pen hedgehog bronze vivid awkward length student shy bicycle";

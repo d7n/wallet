@@ -1,1 +1,1 @@
-var mnemonic = "boost capable master another solid giggle abuse rather stomach text extend weekend";
+var mnemonic = "garment series remember media say sense useless protect clever other twenty soon";

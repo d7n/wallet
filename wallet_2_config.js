@@ -1,1 +1,1 @@
-var mnemonic = "debris reunion goat poem diary resemble never february sheriff orphan accuse story";
+var mnemonic = "cream toss crane company real leader skirt quit taste mountain gallery much";

@@ -1,1 +1,1 @@
-var mnemonic = "owner add century plug friend identify cruel raise amused blade milk hidden";
+var mnemonic = "label then wreck cube cover drum boring spot voice legal unlock cost";

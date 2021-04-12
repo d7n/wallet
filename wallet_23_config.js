@@ -1,1 +1,1 @@
-var mnemonic = "swear camera insect glue range miss ocean have dolphin diamond sphere gauge";
+var mnemonic = "arctic salute sibling milk gadget black check patrol catch huge manage baby";

@@ -1,1 +1,1 @@
-var mnemonic = "lift more exhaust author catalog indoor seed wise divide emerge clown mix";
+var mnemonic = "uniform nephew expire embark subject joy crop slice coconut amazing coil scrub";

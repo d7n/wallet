@@ -1,1 +1,1 @@
-var mnemonic = "neither purity prize slush olympic poem father exhaust erase kid design million";
+var mnemonic = "teach gasp polar young possible wreck deposit hybrid swarm lion describe desk";

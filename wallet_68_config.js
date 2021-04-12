@@ -1,1 +1,1 @@
-var mnemonic = "define put thought enhance anger grief van quick bring echo topple earth";
+var mnemonic = "enlist black warfare intact bracket common use ticket someone eager ostrich search";

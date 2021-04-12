@@ -1,1 +1,1 @@
-var mnemonic = "endorse frown dismiss usage setup dust shoe vast roof curious divert shoulder";
+var mnemonic = "clock supreme film galaxy wage cloud dizzy lesson ready educate price real";

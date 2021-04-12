@@ -1,1 +1,1 @@
-var mnemonic = "action account claim spread merit gossip picture anxiety fiscal narrow puppy test";
+var mnemonic = "blame false above scale sort paper bitter hundred market rally put refuse";

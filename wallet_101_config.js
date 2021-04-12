@@ -1,1 +1,1 @@
-var mnemonic = "demand admit dilemma glow deposit enlist oak sock point slogan invite wasp";
+var mnemonic = "barrel bean dinosaur boost nominee bird clerk artefact corn useless word nice";

@@ -1,1 +1,1 @@
-var mnemonic = "panic inner attitude rack phrase pair shock wagon figure advance decide then";
+var mnemonic = "fiscal pulp blade denial provide captain false scale hour aerobic achieve parade";

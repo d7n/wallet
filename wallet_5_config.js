@@ -1,1 +1,1 @@
-var mnemonic = "harsh say nose build unfair tip party junior pull vacuum patch critic";
+var mnemonic = "rocket crucial gallery chair exit liquid upper lonely priority border sauce undo";

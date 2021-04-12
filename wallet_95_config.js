@@ -1,1 +1,1 @@
-var mnemonic = "key tower wash puzzle uncle vacuum welcome seat enact book purpose trophy";
+var mnemonic = "river lemon rude boost idle brush promote turn memory pole demise flower";

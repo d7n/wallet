@@ -1,1 +1,1 @@
-var mnemonic = "category clap season noise surround wrist supply clay shiver settle oil tank";
+var mnemonic = "pyramid vibrant favorite monkey another glory size wall method agent mansion valid";

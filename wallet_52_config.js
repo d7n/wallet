@@ -1,1 +1,1 @@
-var mnemonic = "payment antique pottery hunt puppy october educate come split have betray better";
+var mnemonic = "mercy soul slide torch edit dust turn impact embrace melt also primary";

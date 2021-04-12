@@ -1,1 +1,1 @@
-var mnemonic = "differ word cradle left blouse hunt pitch private coin talk again fix";
+var mnemonic = "aspect text creek lift solve wild replace admit name busy various obscure";

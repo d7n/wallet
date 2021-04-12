@@ -1,1 +1,1 @@
-var mnemonic = "wish believe hammer divorce innocent exile horror abandon army essence trade subway";
+var mnemonic = "vague woman awake bracket enact motor ostrich fragile debris awake attack lava";

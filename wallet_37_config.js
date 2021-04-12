@@ -1,1 +1,1 @@
-var mnemonic = "please crane pottery result hotel smooth huge ceiling illegal lens eager rural";
+var mnemonic = "pass puppy student miracle delay solar husband dawn boat destroy sorry movie";

@@ -1,1 +1,1 @@
-var mnemonic = "chair chimney limb learn toe outside divide immense army doll level chest";
+var mnemonic = "cry absurd attract bag embrace clog armed issue news lake orient decrease";

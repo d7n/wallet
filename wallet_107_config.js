@@ -1,1 +1,1 @@
-var mnemonic = "pony estate peasant clip hobby aerobic display gain nature nephew sign noise";
+var mnemonic = "weapon announce agent assume absorb kick oak genuine friend bachelor trophy erase";
