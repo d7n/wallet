@@ -1,1 +1,1 @@
-var mnemonic = "van track swallow enter whale trap connect boat team same struggle light";
+var mnemonic = "nuclear journey cinnamon success skate cream whip obey shoe display mean suit";

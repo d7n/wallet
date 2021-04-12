@@ -1,1 +1,1 @@
-var mnemonic = "park mad describe when sound still injury tooth unveil goose nature robust";
+var mnemonic = "glance door brisk jazz spy knife emotion ankle category exchange century enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "large dolphin humor muscle twin clown strike permit rule gap amateur punch";
+var mnemonic = "snake fade cause table trim impulse broccoli observe that grief crystal blind";

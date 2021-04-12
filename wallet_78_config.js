@@ -1,1 +1,1 @@
-var mnemonic = "glue pull rabbit time force welcome large initial athlete have damage magic";
+var mnemonic = "cup speed myself banana gown range dry exact weekend truly delay initial";

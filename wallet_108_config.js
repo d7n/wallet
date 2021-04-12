@@ -1,1 +1,1 @@
-var mnemonic = "warrior exhibit weekend elbow frequent lava boss toward shallow drip mansion capable";
+var mnemonic = "earth shift next rely protect enable battle tornado actual blade tuna muffin";

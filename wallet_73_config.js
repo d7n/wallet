@@ -1,1 +1,1 @@
-var mnemonic = "inherit lazy one supreme erosion lyrics once cram heart name gold asset";
+var mnemonic = "goddess notice embody puzzle ribbon rebel target vague toilet thank skill fringe";

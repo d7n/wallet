@@ -1,1 +1,1 @@
-var mnemonic = "toe green delay mirror scare glad wagon outside cool dust blade obscure";
+var mnemonic = "apology marriage siege twelve fault spatial napkin achieve find slush client season";

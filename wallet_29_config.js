@@ -1,1 +1,1 @@
-var mnemonic = "poem valley foster reward easy damage clap hard kiss topple exclude certain";
+var mnemonic = "vendor innocent wire kid assume pattern hill spatial uniform noodle uncle grit";

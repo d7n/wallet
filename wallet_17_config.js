@@ -1,1 +1,1 @@
-var mnemonic = "blush vintage sentence improve live fish flash maple harsh raise must wash";
+var mnemonic = "cave kick before match envelope reform agree bubble exchange fatigue tissue sail";

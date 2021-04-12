@@ -1,1 +1,1 @@
-var mnemonic = "pulse client neglect barely invest ancient skirt flame situate banner punch affair";
+var mnemonic = "movie pole source erosion carpet scout fabric reunion involve job issue blush";

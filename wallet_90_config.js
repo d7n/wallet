@@ -1,1 +1,1 @@
-var mnemonic = "hat peasant tongue laundry wheel axis gentle spring visual drama april amused";
+var mnemonic = "thank allow craft sick tiny assume accuse wave submit extend bind radar";

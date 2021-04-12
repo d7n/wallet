@@ -1,1 +1,1 @@
-var mnemonic = "flavor license differ rally grape stable jewel raccoon bomb clean bottom nurse";
+var mnemonic = "worry path ridge above knock gorilla network best chase lucky head pitch";

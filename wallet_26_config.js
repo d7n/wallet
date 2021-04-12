@@ -1,1 +1,1 @@
-var mnemonic = "hidden object approve switch almost feature citizen box baby talent hockey vacant";
+var mnemonic = "strong soda tourist army animal weapon auction affair shock brown bean anchor";

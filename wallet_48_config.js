@@ -1,1 +1,1 @@
-var mnemonic = "fix tone belt sign smart heart viable viable head camera version minimum";
+var mnemonic = "arena library universe jar category found crucial december meat gate journey album";

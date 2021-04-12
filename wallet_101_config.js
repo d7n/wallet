@@ -1,1 +1,1 @@
-var mnemonic = "lamp install picture shallow clean film calm radar soon accuse poem since";
+var mnemonic = "diagram tongue mass raw bright grape involve owner wage blanket buzz truck";

@@ -1,1 +1,1 @@
-var mnemonic = "maple inhale evidence type cactus tomorrow immune reveal pass circle sport fish";
+var mnemonic = "crunch evoke giant bag purse mimic spy alarm indicate chuckle engine million";

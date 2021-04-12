@@ -1,1 +1,1 @@
-var mnemonic = "movie lift version month measure dinosaur alarm alter kick winter apology submit";
+var mnemonic = "pipe trip acoustic fabric blanket fatigue lazy sad another enable plunge deliver";

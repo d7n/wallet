@@ -1,1 +1,1 @@
-var mnemonic = "thumb smoke oxygen reward speak museum delay fortune seek nut sand steel";
+var mnemonic = "craft rude narrow device toilet reunion meadow rally proof wonder outer yellow";

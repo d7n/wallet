@@ -1,1 +1,1 @@
-var mnemonic = "army useless segment tenant loyal neither name try time grace potato wet";
+var mnemonic = "bike craft display phone current curious feature hover silly monitor glare pass";

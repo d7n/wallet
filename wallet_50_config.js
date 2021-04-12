@@ -1,1 +1,1 @@
-var mnemonic = "oblige focus shoot run ask advance pizza piano keep capital erosion story";
+var mnemonic = "jeans easily dragon modify inspire beach couch arch sausage brush recycle dilemma";

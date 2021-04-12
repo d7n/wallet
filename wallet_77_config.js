@@ -1,1 +1,1 @@
-var mnemonic = "pulse twice ignore frog joke expire gauge type alien pluck deposit dumb";
+var mnemonic = "dentist release industry quit flat mimic sadness indoor record corn cabin panel";

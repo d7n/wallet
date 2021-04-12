@@ -1,1 +1,1 @@
-var mnemonic = "reunion vote advice achieve panel upper december sentence inspire recall sphere power";
+var mnemonic = "tag hello brick push brass muffin smooth affair grunt fit stone hedgehog";

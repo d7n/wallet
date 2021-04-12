@@ -1,1 +1,1 @@
-var mnemonic = "toddler onion above sorry suit shoe attitude animal control puppy inquiry credit";
+var mnemonic = "gospel vague immense ensure unique success display together simple place doll disease";

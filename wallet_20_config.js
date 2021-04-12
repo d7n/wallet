@@ -1,1 +1,1 @@
-var mnemonic = "nothing public shaft police lion you remove end outer gentle rally pill";
+var mnemonic = "pattern credit horse forget raise immense fabric multiply elegant minimum danger reward";

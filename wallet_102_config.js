@@ -1,1 +1,1 @@
-var mnemonic = "candy neutral breeze nominee oxygen secret equal taxi forest aerobic reduce legend";
+var mnemonic = "lunch master meadow say kingdom river adult toss ticket disease cat honey";

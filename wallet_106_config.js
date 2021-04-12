@@ -1,1 +1,1 @@
-var mnemonic = "middle stable ten glow mass cross congress define charge churn arrest shoe";
+var mnemonic = "fiction palm tenant please core need siege duty figure hurt awkward leave";

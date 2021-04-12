@@ -1,1 +1,1 @@
-var mnemonic = "soccer spring inform film arena asset unit boil icon crazy clinic avoid";
+var mnemonic = "initial future ecology motor place obvious easily pretty figure decade shaft hill";

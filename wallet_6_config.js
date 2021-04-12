@@ -1,1 +1,1 @@
-var mnemonic = "rib require this sphere perfect where assault toddler change youth surround survey";
+var mnemonic = "vivid elevator similar path soup scale fitness plug marriage rebel culture magnet";

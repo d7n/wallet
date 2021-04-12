@@ -1,1 +1,1 @@
-var mnemonic = "cook friend raise stomach abuse surround vanish wave unable bus beyond remain";
+var mnemonic = "cluster prepare sea wing casual ethics mandate sustain theory orphan leg hole";

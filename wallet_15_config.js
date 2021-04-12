@@ -1,1 +1,1 @@
-var mnemonic = "inner dinner coach miracle fragile relief average round wood term trumpet husband";
+var mnemonic = "squirrel together camera symptom inflict wise napkin winner private differ suffer slide";

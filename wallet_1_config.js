@@ -1,1 +1,1 @@
-var mnemonic = "sad various cereal negative dice web flip vapor curious remember enable awesome";
+var mnemonic = "trophy kiss mutual promote chimney stock sleep egg harsh escape mandate ride";

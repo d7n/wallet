@@ -1,1 +1,1 @@
-var mnemonic = "jewel loop street potato recall sword index rival inspire rookie all sort";
+var mnemonic = "attitude unit rapid spoon spoon capital appear pulp wage power eye base";

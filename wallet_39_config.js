@@ -1,1 +1,1 @@
-var mnemonic = "knock top put segment fine helmet blur spirit suffer always label leader";
+var mnemonic = "around midnight cash version pool exhibit dry search render toddler topple horror";

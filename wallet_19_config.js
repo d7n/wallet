@@ -1,1 +1,1 @@
-var mnemonic = "woman thrive disorder kiwi sense destroy second avocado pipe better report total";
+var mnemonic = "lonely grass daring ripple lens cabbage unfold arch tenant van river day";

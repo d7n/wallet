@@ -1,1 +1,1 @@
-var mnemonic = "friend hazard exclude fat dose legend fancy toast popular wide tired hockey";
+var mnemonic = "clump audit digital pencil pipe royal height immense husband word priority basket";

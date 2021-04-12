@@ -1,1 +1,1 @@
-var mnemonic = "hospital fruit quantum large lumber pride next angry require hill easy protect";
+var mnemonic = "expect pony derive that story flock wine toe grocery office stone pet";

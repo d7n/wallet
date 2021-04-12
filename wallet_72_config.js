@@ -1,1 +1,1 @@
-var mnemonic = "wine clock tragic middle sword mule input lizard mixed mutual viable chaos";
+var mnemonic = "garbage marble anchor napkin pill powder session cabbage sock firm silk member";

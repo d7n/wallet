@@ -1,1 +1,1 @@
-var mnemonic = "decorate holiday make april method off vocal error inherit vote hint stick";
+var mnemonic = "include age armed trade thank increase salon glass chunk annual mix mango";

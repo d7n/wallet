@@ -1,1 +1,1 @@
-var mnemonic = "right bubble senior magnet arm abuse romance foam frog favorite chase suspect";
+var mnemonic = "one cute useful roast fossil rice broom father base garbage round term";

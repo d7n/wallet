@@ -1,1 +1,1 @@
-var mnemonic = "saddle nephew stuff anchor coast mountain open supply material near trial behind";
+var mnemonic = "carpet device afraid lawn melody disagree faith flavor rain foil ugly online";

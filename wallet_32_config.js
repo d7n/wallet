@@ -1,1 +1,1 @@
-var mnemonic = "water bundle language resist shield matter maximum trim hip paper fossil resemble";
+var mnemonic = "fan nasty behave foil vehicle predict shuffle pull cigar stone attitude provide";

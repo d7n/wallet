@@ -1,1 +1,1 @@
-var mnemonic = "soda easily memory example bomb only pet surface shoot moral accuse harbor";
+var mnemonic = "boring organ alpha food parent wish marine pistol race love pretty transfer";

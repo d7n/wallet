@@ -1,1 +1,1 @@
-var mnemonic = "force quarter merit daring useful olympic element monster unhappy bacon chuckle love";
+var mnemonic = "device know auto flag napkin road reflect lamp festival alarm point vintage";

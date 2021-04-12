@@ -1,1 +1,1 @@
-var mnemonic = "okay exotic spread camera else above permit addict patch drive vault surface";
+var mnemonic = "talent broccoli invite cry wine crisp number behind aisle cereal chair gentle";

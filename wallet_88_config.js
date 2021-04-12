@@ -1,1 +1,1 @@
-var mnemonic = "flip wild crash morning agent patch tree elevator equip wheel welcome margin";
+var mnemonic = "rice aerobic gossip quarter bicycle fat put zoo whisper certain swim belt";

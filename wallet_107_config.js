@@ -1,1 +1,1 @@
-var mnemonic = "armor power update return hamster sing later palace play bridge law art";
+var mnemonic = "scout leader coral churn busy salad grass feel trip fan top waste";

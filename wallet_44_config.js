@@ -1,1 +1,1 @@
-var mnemonic = "picnic club give document hotel liar universe humble camera diary blur chaos";
+var mnemonic = "loan canoe loan brown general ketchup spoon clap major raise surprise this";

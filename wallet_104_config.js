@@ -1,1 +1,1 @@
-var mnemonic = "nest feed bonus assume funny bronze demand design daring provide swap ritual";
+var mnemonic = "various craft motion frown repeat glare best kitten faint suffer always merry";

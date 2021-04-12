@@ -1,1 +1,1 @@
-var mnemonic = "swim that symbol regret town major govern fade stock absent dutch shaft";
+var mnemonic = "derive track social road maid case occur lunar crowd motion meat obscure";

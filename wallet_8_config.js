@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo home sugar lock lazy host filter dragon clock stone cloth measure";
+var mnemonic = "direct excess boat infant pottery advice annual minor believe flip place frequent";

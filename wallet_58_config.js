@@ -1,1 +1,1 @@
-var mnemonic = "attract detect viable unique dignity vapor cost soft portion help juice faculty";
+var mnemonic = "wheat hour lake effort differ divide tackle duty unable canvas seminar crumble";

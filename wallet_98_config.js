@@ -1,1 +1,1 @@
-var mnemonic = "soft maximum sausage whip apology shrimp hen arrive cost please deliver bacon";
+var mnemonic = "little proof equip right myself follow tiny call tank dinosaur infant assume";

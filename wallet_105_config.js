@@ -1,1 +1,1 @@
-var mnemonic = "canoe eternal sketch person sponsor suspect dog neglect silk twin assist slight";
+var mnemonic = "bomb gain true face differ tennis shield achieve cup head manual desert";

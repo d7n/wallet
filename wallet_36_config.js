@@ -1,1 +1,1 @@
-var mnemonic = "obey ramp symbol rug skate all teach execute motor invite water sea";
+var mnemonic = "topple aim retreat breeze punch avocado intact skirt web ugly cabin victory";

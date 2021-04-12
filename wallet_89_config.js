@@ -1,1 +1,1 @@
-var mnemonic = "seed lawsuit copy monkey protect glad airport hello obey casual border seek";
+var mnemonic = "child device fuel loan grunt witness census leisure test zero front garden";

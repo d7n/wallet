@@ -1,1 +1,1 @@
-var mnemonic = "salt sign suit pass okay choose train media cluster fiber ice label";
+var mnemonic = "coffee need shed fossil bounce bless pilot dragon tooth cricket garbage curtain";

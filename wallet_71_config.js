@@ -1,1 +1,1 @@
-var mnemonic = "iron gadget dune cave genius unable matrix atom quantum hen deer embark";
+var mnemonic = "vast toast obvious accuse clip bomb describe climb unfold rare mosquito receive";

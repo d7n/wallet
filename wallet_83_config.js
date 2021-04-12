@@ -1,1 +1,1 @@
-var mnemonic = "universe tattoo movie destroy airport artist mind strike disorder monkey arrest ketchup";
+var mnemonic = "afraid side uncover monkey juice manage parrot banana awful buffalo aware dish";

@@ -1,1 +1,1 @@
-var mnemonic = "during round wait knee change program debris lock swing illegal token excite";
+var mnemonic = "magnet stumble token cat license media kitchen write planet you bar treat";

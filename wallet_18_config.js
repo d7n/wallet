@@ -1,1 +1,1 @@
-var mnemonic = "album reform mule proof liberty foam urge forum reward sibling smart resource";
+var mnemonic = "screen noise road file suffer orphan physical retire mouse beyond false power";

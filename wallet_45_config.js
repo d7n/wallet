@@ -1,1 +1,1 @@
-var mnemonic = "elevator hazard quantum search biology shadow scheme spray spare mystery clean maid";
+var mnemonic = "pass bullet relax weather ladder buyer horn pulse social afford aware crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow mobile pilot brain donate junior code tomato fly wife leader pottery";
+var mnemonic = "soon rough else gauge alter anchor era hidden copy sadness wonder large";

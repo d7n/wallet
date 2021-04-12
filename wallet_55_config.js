@@ -1,1 +1,1 @@
-var mnemonic = "envelope sport lobster brush clay diagram ship october ceiling public rookie bench";
+var mnemonic = "daughter tag stay loan aware potato giggle canal culture mosquito clay kangaroo";

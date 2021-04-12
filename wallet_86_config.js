@@ -1,1 +1,1 @@
-var mnemonic = "iron pattern just lava height task giraffe atom hello olive oil bring";
+var mnemonic = "boss lumber mimic idea pyramid dawn surface sport panel foam explain fury";

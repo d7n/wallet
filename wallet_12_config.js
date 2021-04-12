@@ -1,1 +1,1 @@
-var mnemonic = "tenant mirror story outside mixture timber quit arm swing beach alien bird";
+var mnemonic = "ethics frame roof garlic banner season glory fluid transfer phone undo ride";

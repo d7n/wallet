@@ -1,1 +1,1 @@
-var mnemonic = "arch young define orbit stage auto grocery sadness liar gadget foster robot";
+var mnemonic = "shrug tortoise arrive weapon version opera present priority spoon frame hidden unfold";

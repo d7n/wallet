@@ -1,1 +1,1 @@
-var mnemonic = "plug custom elephant luggage yellow injury order parade flip panda bag language";
+var mnemonic = "mango warm disagree welcome infant grace prosper review taste educate slice drill";

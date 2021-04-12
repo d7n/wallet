@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog enact goose render grocery draft news illness fiscal wheat used daring";
+var mnemonic = "vital hybrid paper civil evolve demand render broken oppose brave dawn exhaust";

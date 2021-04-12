@@ -1,1 +1,1 @@
-var mnemonic = "inject rebuild cereal bachelor speed poem upset mean camp fog path female";
+var mnemonic = "hint there cloud praise celery bag celery hazard barely auction various chef";

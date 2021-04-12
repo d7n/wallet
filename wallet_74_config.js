@@ -1,1 +1,1 @@
-var mnemonic = "century digital glide bid happy obscure game forest clutch glance road negative";
+var mnemonic = "guitar street enlist traffic ranch fun wonder garbage pitch image shop romance";

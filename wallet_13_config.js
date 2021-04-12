@@ -1,1 +1,1 @@
-var mnemonic = "beauty they disorder dentist patch black egg void left empty depth tooth";
+var mnemonic = "invest juice trade lucky noble collect curtain entry book life team feel";

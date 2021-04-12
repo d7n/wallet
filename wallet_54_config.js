@@ -1,1 +1,1 @@
-var mnemonic = "matrix blast potato promote marriage spatial situate clump scrub biology stereo agree";
+var mnemonic = "grid tunnel gallery cannon fame express seed cloth cupboard artwork stem draft";

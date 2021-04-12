@@ -1,1 +1,1 @@
-var mnemonic = "demand garden broken group kick local seven cheese boat two oxygen dice";
+var mnemonic = "come surprise outdoor exercise immense online angle debris wagon bomb century system";

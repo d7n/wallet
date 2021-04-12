@@ -1,1 +1,1 @@
-var mnemonic = "snap spray mass rebel load item butter muscle possible hero impact spin";
+var mnemonic = "cannon track gain erosion waste seven carbon hungry during short scrub child";

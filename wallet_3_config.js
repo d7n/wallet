@@ -1,1 +1,1 @@
-var mnemonic = "tomato sleep snack grow jazz obvious predict left become buzz toe defy";
+var mnemonic = "balance rose chalk wheat metal turn style future country survey state bamboo";

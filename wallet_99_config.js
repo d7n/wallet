@@ -1,1 +1,1 @@
-var mnemonic = "rocket vocal rally dice april present open surprise swing brush ripple inch";
+var mnemonic = "amazing congress plunge coach false live ridge universe cupboard pitch soft keep";

@@ -1,1 +1,1 @@
-var mnemonic = "action early canvas because blouse march stock north tiger jewel young outer";
+var mnemonic = "decorate energy beyond make shop organ exist whisper robot pelican cliff pave";

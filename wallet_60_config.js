@@ -1,1 +1,1 @@
-var mnemonic = "six craft scorpion faint divide transfer boring enroll device thing lab uncle";
+var mnemonic = "gym glimpse rug deal business cute slender spell discover bar unaware avocado";

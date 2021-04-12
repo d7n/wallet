@@ -1,1 +1,1 @@
-var mnemonic = "salute couch upper inmate maximum catch opera buddy wire frost know sibling";
+var mnemonic = "submit razor verb fit buyer pulse sketch finger friend fluid image tone";

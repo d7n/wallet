@@ -1,1 +1,1 @@
-var mnemonic = "evil truly boat happy client jar ritual pass beauty inflict royal average";
+var mnemonic = "found gym violin health series impact desert offer later curious ceiling luggage";

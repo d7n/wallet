@@ -1,1 +1,1 @@
-var mnemonic = "chronic toe annual script tenant slush invite save great laugh goddess pioneer";
+var mnemonic = "lonely buffalo behind tape office bleak print gentle clerk strategy plug jump";

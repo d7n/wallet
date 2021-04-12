@@ -1,1 +1,1 @@
-var mnemonic = "logic inspire twelve dune verify live roast asset deposit leopard drip wine";
+var mnemonic = "genius ball speak giant green rally dose cat ghost planet stock distance";

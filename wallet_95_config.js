@@ -1,1 +1,1 @@
-var mnemonic = "system ice drip have fence unable federal lamp subway obvious extend visual";
+var mnemonic = "senior pact belt blur budget exact tourist floor auto vast minute ski";

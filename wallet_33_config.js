@@ -1,1 +1,1 @@
-var mnemonic = "cherry proud river together goddess wave visit kingdom pencil shrimp spy cruise";
+var mnemonic = "battle topic danger broccoli remind siren flee possible column search satoshi ahead";

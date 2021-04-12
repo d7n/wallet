@@ -1,1 +1,1 @@
-var mnemonic = "fitness find world treat shiver february pond few thought tree legal chief";
+var mnemonic = "poem capable lawsuit grid pill auto own mountain stem quote tired park";

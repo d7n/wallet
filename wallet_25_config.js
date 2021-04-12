@@ -1,1 +1,1 @@
-var mnemonic = "pear option matter talent battle vendor among ordinary joy allow spawn harbor";
+var mnemonic = "unfair wash zebra hundred river birth snow moral arena purpose balcony bottom";

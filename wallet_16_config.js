@@ -1,1 +1,1 @@
-var mnemonic = "antenna drink also trophy knee wear woman ozone hybrid captain vapor budget";
+var mnemonic = "doctor before picture calm clean grain trash dentist monkey dice trip rain";

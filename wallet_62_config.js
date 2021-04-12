@@ -1,1 +1,1 @@
-var mnemonic = "elephant cash retreat vapor play duck zone double duck clarify club icon";
+var mnemonic = "cactus mom bid face hobby merit lens message chef fiction page cook";

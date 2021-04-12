@@ -1,1 +1,1 @@
-var mnemonic = "wild swim rare camp expire pattern you thought chat laundry main find";
+var mnemonic = "jar country resemble mimic session dwarf zone circle door empty bounce involve";

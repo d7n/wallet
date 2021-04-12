@@ -1,1 +1,1 @@
-var mnemonic = "horror wing gift man garage wage argue weapon profit boil dune pioneer";
+var mnemonic = "warrior sting arena hedgehog educate found twelve toward when birth deliver alcohol";

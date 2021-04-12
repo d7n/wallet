@@ -1,1 +1,1 @@
-var mnemonic = "extend property candy trash pill dentist abandon first chat picnic lizard exchange";
+var mnemonic = "shoot rib survey helmet marriage recall fantasy riot suggest robust volume tomato";

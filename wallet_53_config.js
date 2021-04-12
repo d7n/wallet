@@ -1,1 +1,1 @@
-var mnemonic = "radar web disorder vast zone shaft explain narrow broom bottom double pencil";
+var mnemonic = "raw endorse sight effort lava crisp anxiety venue hub energy lazy else";

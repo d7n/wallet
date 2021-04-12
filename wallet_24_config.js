@@ -1,1 +1,1 @@
-var mnemonic = "borrow kidney judge bench square tiger pony bitter rotate all second silent";
+var mnemonic = "ill injury head still profit beef shine silly alert emerge faith champion";

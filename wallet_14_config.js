@@ -1,1 +1,1 @@
-var mnemonic = "breeze essence clip absorb option urge weather gospel bless finger tongue toast";
+var mnemonic = "fee negative spider ill tribe vague fence liquid defense arena old whale";

@@ -1,1 +1,1 @@
-var mnemonic = "barely various shell unhappy holiday caution quality control almost enact cage cradle";
+var mnemonic = "spray sheriff media cage chunk airport blame police crawl long fresh course";

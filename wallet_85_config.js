@@ -1,1 +1,1 @@
-var mnemonic = "dance cactus hard bounce boil day huge milk know cheap fetch myth";
+var mnemonic = "victory document monkey deal section bottom cherry price voyage swap eagle south";

@@ -1,1 +1,1 @@
-var mnemonic = "physical detail polar magic snack fame seat bronze visa movie athlete behind";
+var mnemonic = "siren cushion nerve bind suit recycle chimney fiber thank upgrade wild tobacco";
