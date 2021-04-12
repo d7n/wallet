@@ -1,1 +1,1 @@
-var mnemonic = "other invest catch ritual purchase cry verify pledge arena topic cram gap";
+var mnemonic = "crazy visa prison evolve ozone jazz sketch release pledge draw goddess ten";

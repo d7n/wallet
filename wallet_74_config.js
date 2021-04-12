@@ -1,1 +1,1 @@
-var mnemonic = "nephew boy burst story discover edit cycle corn case renew govern push";
+var mnemonic = "glance nothing sentence song key virtual write dutch million canoe vague proof";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit topple season town approve lift replace deal multiply throw alter impact";
+var mnemonic = "miss slam salt laptop zero divide sad tag kidney wash grow upper";

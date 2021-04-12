@@ -1,1 +1,1 @@
-var mnemonic = "caught book chase sunset enter february direct chaos later kiwi require uniform";
+var mnemonic = "much cave route divorce acid someone twelve omit isolate card demand month";

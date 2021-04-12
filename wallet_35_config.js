@@ -1,1 +1,1 @@
-var mnemonic = "odor bar abstract grunt obey snake image paper marble goddess quiz acoustic";
+var mnemonic = "purpose weekend six noise resource limit aunt divorce any ticket rule bone";

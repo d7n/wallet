@@ -1,1 +1,1 @@
-var mnemonic = "caught paddle debate crush bag first credit canyon depth opinion sister congress";
+var mnemonic = "dwarf crime oxygen wire tooth silly stable explain exotic exact recall scatter";

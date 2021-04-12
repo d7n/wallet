@@ -1,1 +1,1 @@
-var mnemonic = "juice toss capable mammal trash noise over nut special current cheese sniff";
+var mnemonic = "wash balance what chair super parent art panda blind trust fame improve";

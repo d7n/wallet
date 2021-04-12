@@ -1,1 +1,1 @@
-var mnemonic = "liberty present nature guard push unfair park tobacco need shell opinion travel";
+var mnemonic = "hockey coyote endless snack inherit across ahead language bachelor absorb able finish";

@@ -1,1 +1,1 @@
-var mnemonic = "steak hen oil subway avoid peanut cream path shift use diary add";
+var mnemonic = "future east ignore cake body bunker window easily portion admit enroll act";

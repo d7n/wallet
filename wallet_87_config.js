@@ -1,1 +1,1 @@
-var mnemonic = "luxury dumb hello gravity gaze settle hammer devote real brick muscle parent";
+var mnemonic = "citizen clinic jar indoor horse try video foster drill toilet autumn forward";

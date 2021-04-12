@@ -1,1 +1,1 @@
-var mnemonic = "balance cherry maze card west pole network doctor proud fat gadget timber";
+var mnemonic = "alter artefact antique pave fatal gospel edit prepare lizard absurd vanish okay";

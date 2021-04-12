@@ -1,1 +1,1 @@
-var mnemonic = "that scrub smile sausage face fragile right camp behave race mule april";
+var mnemonic = "circle wheel unfair tank next abandon naive ethics resemble great tower omit";

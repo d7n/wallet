@@ -1,1 +1,1 @@
-var mnemonic = "sunny prison venture quality trouble rib solve scene dolphin muffin fitness quality";
+var mnemonic = "avoid hurdle good owner lottery certain oval good replace know wine task";

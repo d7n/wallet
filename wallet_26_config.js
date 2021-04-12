@@ -1,1 +1,1 @@
-var mnemonic = "box couple spell ridge truth gloom sudden effort assault edit stumble gather";
+var mnemonic = "antique deer color hen doctor search culture bus brass elbow lazy render";

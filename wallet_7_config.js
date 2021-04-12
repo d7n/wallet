@@ -1,1 +1,1 @@
-var mnemonic = "similar merit air theory slush budget symptom retire betray hospital door equal";
+var mnemonic = "weather vacuum marriage keen source seek trust include upset fault language frequent";

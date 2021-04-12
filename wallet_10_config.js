@@ -1,1 +1,1 @@
-var mnemonic = "rain urge hawk brass public reflect dove blur abandon face glass amused";
+var mnemonic = "staff pair tide paddle insane galaxy swing delay rate layer series oven";

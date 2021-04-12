@@ -1,1 +1,1 @@
-var mnemonic = "sample orbit acquire cactus floor wealth alarm entry space suit lamp pioneer";
+var mnemonic = "spin pair dove canal web figure relax margin captain scorpion drill panel";

@@ -1,1 +1,1 @@
-var mnemonic = "orange ocean dry sword mask bamboo upset common course type cave dinner";
+var mnemonic = "program ankle avoid slam rally vapor select amount mixed joy prepare nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "tank empower wrestle address wasp victory all six valid pluck upper gas";
+var mnemonic = "notable shaft pond path toe suffer matrix worry empty despair angle awake";

@@ -1,1 +1,1 @@
-var mnemonic = "labor journey uncle trophy also enough satoshi blush mystery cousin text eyebrow";
+var mnemonic = "flavor clock between improve scorpion palace corn grape guide already skirt improve";

@@ -1,1 +1,1 @@
-var mnemonic = "absent hover unfair example onion census stuff fuel kick hero grant frozen";
+var mnemonic = "bracket genre summer vacant gauge toilet blouse rookie also differ method memory";

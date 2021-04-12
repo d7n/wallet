@@ -1,1 +1,1 @@
-var mnemonic = "day skate achieve camera bonus timber kidney thumb settle engine brain corn";
+var mnemonic = "lounge tumble absent cushion lion penalty slush second flash gauge scheme media";

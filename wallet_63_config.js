@@ -1,1 +1,1 @@
-var mnemonic = "robot taste scatter soup broccoli other eternal artwork harvest endorse round expire";
+var mnemonic = "embody appear satisfy enable crop steak side wash update rookie issue brown";

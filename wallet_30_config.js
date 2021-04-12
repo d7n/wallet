@@ -1,1 +1,1 @@
-var mnemonic = "blame office item report label replace layer retire try repair cloth such";
+var mnemonic = "trash keep offer pair umbrella monster subway resemble calm cake grunt lizard";

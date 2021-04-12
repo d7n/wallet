@@ -1,1 +1,1 @@
-var mnemonic = "endless donkey culture coral barrel obvious surface clock idea fury vote very";
+var mnemonic = "trend develop rhythm cousin cricket radar slim humor game casino village among";

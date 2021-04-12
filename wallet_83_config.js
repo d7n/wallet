@@ -1,1 +1,1 @@
-var mnemonic = "wrist local fly sing mad vicious current credit human sheriff sorry visual";
+var mnemonic = "winter cave dust bone crater fortune ticket belt sell clutch dutch ocean";

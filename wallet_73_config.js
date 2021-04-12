@@ -1,1 +1,1 @@
-var mnemonic = "sunset inhale year unfair staff surprise stamp track assault balcony frown trouble";
+var mnemonic = "wrist pepper reduce turkey smart fluid oil wave inmate over usual time";

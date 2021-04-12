@@ -1,1 +1,1 @@
-var mnemonic = "stem various pottery grow fruit ring float begin text shaft retreat sell";
+var mnemonic = "youth park lazy embody window camp eternal lift collect cactus car engine";

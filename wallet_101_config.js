@@ -1,1 +1,1 @@
-var mnemonic = "essay lemon enroll coral wash gauge grit gesture provide rebel glory major";
+var mnemonic = "gain market crisp average delay crouch mimic skin cute tree bright opera";

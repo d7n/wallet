@@ -1,1 +1,1 @@
-var mnemonic = "imitate aspect question spirit patient gown jump cruel sunset crack clever chunk";
+var mnemonic = "foil immune arch unhappy junior rice cost mass canal endless screen olive";

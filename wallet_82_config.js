@@ -1,1 +1,1 @@
-var mnemonic = "scene embark claw wait remove ship tattoo file radio stomach runway bulk";
+var mnemonic = "victory crunch vicious shuffle intact duty client arrive category churn fix detect";

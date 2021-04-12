@@ -1,1 +1,1 @@
-var mnemonic = "friend cloud ready power city update behind nest vehicle process idle finger";
+var mnemonic = "choose coil gentle alert end ability potato saddle soccer help barely expect";

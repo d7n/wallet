@@ -1,1 +1,1 @@
-var mnemonic = "auto thing random situate shift develop juice decline cool sugar tuition question";
+var mnemonic = "govern maximum gift flip example later wild bulb label fruit apart inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar bone fringe wrap hobby insect once prepare make off control mobile";
+var mnemonic = "engine step renew wrist second brick drama spring sleep mean woman trust";

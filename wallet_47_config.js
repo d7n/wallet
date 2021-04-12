@@ -1,1 +1,1 @@
-var mnemonic = "crush warm worry speak sting mimic vacuum ugly huge hip vanish tongue";
+var mnemonic = "milk scare thought suggest piano lesson tackle fat lesson birth make employ";

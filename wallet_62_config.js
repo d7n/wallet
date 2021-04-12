@@ -1,1 +1,1 @@
-var mnemonic = "black media deposit evolve bleak myself dream man fix pepper flavor mother";
+var mnemonic = "build despair census divide resource yard coach card spin involve normal pool";

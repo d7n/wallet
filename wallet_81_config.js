@@ -1,1 +1,1 @@
-var mnemonic = "say enrich remain uncle blade stage trash zebra such alley often blur";
+var mnemonic = "hunt inherit tilt truly smile essay quote erupt quote expand merry clarify";

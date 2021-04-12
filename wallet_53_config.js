@@ -1,1 +1,1 @@
-var mnemonic = "depth cattle narrow jelly embody kite inner corn shoe tower liberty wet";
+var mnemonic = "dry fox surge weasel shell wine junk slot inhale pen afraid save";

@@ -1,1 +1,1 @@
-var mnemonic = "system please base coconut beauty bird increase area antique mouse banana like";
+var mnemonic = "lawsuit improve success outer nation glad album middle exile eagle divorce build";

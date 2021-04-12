@@ -1,1 +1,1 @@
-var mnemonic = "typical timber fence finish ozone elevator own endorse tunnel pipe sauce holiday";
+var mnemonic = "forest village toy express reflect problem lounge young rotate endless loyal galaxy";

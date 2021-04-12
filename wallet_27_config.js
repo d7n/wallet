@@ -1,1 +1,1 @@
-var mnemonic = "chicken weekend radar spell say document link end run news idea fruit";
+var mnemonic = "dolphin camp shed outdoor sock trigger welcome lizard snack thing lens faint";

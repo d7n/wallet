@@ -1,1 +1,1 @@
-var mnemonic = "surround empower anger gauge oak federal core company sell episode category code";
+var mnemonic = "match legend moon pitch fun enhance clinic afford swap frame early avoid";

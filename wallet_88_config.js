@@ -1,1 +1,1 @@
-var mnemonic = "confirm loop route diet genuine wolf just conduct park reason chapter junk";
+var mnemonic = "penalty hair reward student gaze rapid various useless mad nose squirrel loan";

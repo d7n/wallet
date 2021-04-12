@@ -1,1 +1,1 @@
-var mnemonic = "cable immense erosion choice column alert impact hold employ youth slab table";
+var mnemonic = "ramp indicate electric stone raise sponsor snap art tape enhance van nominee";

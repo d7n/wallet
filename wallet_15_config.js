@@ -1,1 +1,1 @@
-var mnemonic = "black steak noble bundle ticket hole you empty artwork brain protect jar";
+var mnemonic = "onion right lounge museum client boat lend yard twelve ride settle stable";

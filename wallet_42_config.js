@@ -1,1 +1,1 @@
-var mnemonic = "veteran exclude owner width coffee order sweet office ribbon false dolphin hawk";
+var mnemonic = "someone omit morning rude hockey imitate account parade galaxy there usual boat";

@@ -1,1 +1,1 @@
-var mnemonic = "consider beauty envelope glad beef where speak exist exact extra urban mammal";
+var mnemonic = "solve fossil hidden broken next person again timber license test saddle auto";

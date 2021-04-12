@@ -1,1 +1,1 @@
-var mnemonic = "wasp video lift become race leopard hundred average dragon give panic knife";
+var mnemonic = "cage hello dawn brave erupt long february physical proof arrive that drill";

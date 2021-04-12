@@ -1,1 +1,1 @@
-var mnemonic = "remind genius solution vehicle together garage table genius shaft general craft demand";
+var mnemonic = "dice enhance river crash above siege harbor version nothing point solve safe";

@@ -1,1 +1,1 @@
-var mnemonic = "concert side garden journey soon awkward march quantum rent rather private shoulder";
+var mnemonic = "distance volcano base fox flag word over bring obscure view midnight galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "floor arrow outer mixed buzz garage rail fix initial know tail pupil";
+var mnemonic = "sad vacant unlock enemy ghost same lend visa range island cable film";

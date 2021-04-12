@@ -1,1 +1,1 @@
-var mnemonic = "cost joy hold broken split strong load insane series donate real expect";
+var mnemonic = "spoil clerk loud gain diamond salad whale into dignity core ridge inner";

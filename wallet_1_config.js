@@ -1,1 +1,1 @@
-var mnemonic = "rack join weather soup prize sphere library swift weapon kitten deny orange";
+var mnemonic = "mimic pig cruel flight off fence dilemma feed praise embark weekend annual";

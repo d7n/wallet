@@ -1,1 +1,1 @@
-var mnemonic = "pig manage raw market inch point entire wear permit salad host coach";
+var mnemonic = "sea bargain about faculty dragon clay gas cram step club deny until";

@@ -1,1 +1,1 @@
-var mnemonic = "remember fatigue charge cactus cave tip submit olympic history sad curve undo";
+var mnemonic = "copy luggage circle punch magnet answer shove immense that bleak aspect sample";

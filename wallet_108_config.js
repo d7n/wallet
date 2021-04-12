@@ -1,1 +1,1 @@
-var mnemonic = "arena damage extend slab choose pumpkin dress caution client poverty clarify version";
+var mnemonic = "meat exile cute blade garage slam wasp universe fresh matter lyrics large";

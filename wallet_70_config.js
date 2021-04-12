@@ -1,1 +1,1 @@
-var mnemonic = "cluster rose pulse theory announce promote simple inform behind sentence stock symptom";
+var mnemonic = "awful fan obscure prize dose employ water menu section purse hat coil";

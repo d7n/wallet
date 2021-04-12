@@ -1,1 +1,1 @@
-var mnemonic = "desert powder throw say joke live salute rule salad invest tooth record";
+var mnemonic = "floor outdoor weather error hammer popular rate pet devote abuse pony raw";

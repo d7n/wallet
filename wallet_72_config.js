@@ -1,1 +1,1 @@
-var mnemonic = "alien cable round feature luxury diesel bachelor lottery jealous error lobster boil";
+var mnemonic = "utility viable ozone cube jeans column senior hunt domain hour flame purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "moon inhale rebuild tape agree replace goddess link analyst message drastic gun";
+var mnemonic = "shy digital muffin burst craft answer square garlic special private steak bind";

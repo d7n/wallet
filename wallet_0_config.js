@@ -1,1 +1,1 @@
-var mnemonic = "strike symbol whale fish hollow sword polar clarify tuna rail inhale either";
+var mnemonic = "shrimp army choice kidney original lake carpet review ocean absurd oxygen case";

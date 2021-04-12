@@ -1,1 +1,1 @@
-var mnemonic = "farm piece sketch onion axis exist axis account hero position cabbage vast";
+var mnemonic = "body organ super wreck flush record surface above faint empower divert clip";

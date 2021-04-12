@@ -1,1 +1,1 @@
-var mnemonic = "chef ozone auction poem false myth arm same hurdle include they device";
+var mnemonic = "script throw uncover possible apart tissue reveal chase response bleak upon ask";

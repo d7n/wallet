@@ -1,1 +1,1 @@
-var mnemonic = "catch panic culture fit charge gallery law fringe weird neglect eager invest";
+var mnemonic = "rack eye act armed hurt hobby bone auto drift space rotate animal";

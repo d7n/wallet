@@ -1,1 +1,1 @@
-var mnemonic = "gas car october silly game juice tribe thrive hungry salute rigid search";
+var mnemonic = "settle nest faith rib stove ancient magnet music pistol business can afford";

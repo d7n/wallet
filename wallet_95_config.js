@@ -1,1 +1,1 @@
-var mnemonic = "visual author floor rib thought much tuna accuse proof divorce proof need";
+var mnemonic = "prize empty ten segment present easy lock spawn fringe wheel salad polar";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure consider smoke regret special course tired hunt lady multiply potato tonight";
+var mnemonic = "bacon jeans ski certain heavy dial diary friend prosper cluster stamp erosion";

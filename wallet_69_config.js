@@ -1,1 +1,1 @@
-var mnemonic = "source arrange voice trick vehicle version basic middle feature lion ordinary meadow";
+var mnemonic = "misery swim beauty parade furnace effort climb ugly verb refuse option swift";

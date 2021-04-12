@@ -1,1 +1,1 @@
-var mnemonic = "club unfold rail slogan dragon already crisp destroy jaguar panic palm then";
+var mnemonic = "way marble evolve priority medal soldier strong regret quarter inquiry change heart";

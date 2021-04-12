@@ -1,1 +1,1 @@
-var mnemonic = "marble resist hunt robot endless coach proud forum occur victory frost heart";
+var mnemonic = "uphold settle quality poem mango indoor friend chat borrow pioneer fog neither";

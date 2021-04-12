@@ -1,1 +1,1 @@
-var mnemonic = "banner couch era oppose pluck update expect account genius holiday marble behave";
+var mnemonic = "what satoshi oblige bronze unlock mesh denial update film sea spin survey";

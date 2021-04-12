@@ -1,1 +1,1 @@
-var mnemonic = "scene obvious tiny intact vast electric palace space super cereal clever aim";
+var mnemonic = "because spin grain size icon modify figure enhance fatigue summer auto mystery";

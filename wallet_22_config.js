@@ -1,1 +1,1 @@
-var mnemonic = "advice lava play artist thunder busy orient girl auction donor wave grief";
+var mnemonic = "rib picnic say sausage pyramid merry bacon legend setup dove smoke basic";

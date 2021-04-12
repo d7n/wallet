@@ -1,1 +1,1 @@
-var mnemonic = "various begin include physical knife wasp hurdle organ intact menu theme turtle";
+var mnemonic = "early speak unlock float multiply indicate oval impulse buyer jungle calm glance";

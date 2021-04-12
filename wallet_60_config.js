@@ -1,1 +1,1 @@
-var mnemonic = "flock beauty much mass also fabric guess wire luxury arrange naive net";
+var mnemonic = "food there bean elbow side cement wide hawk venture federal eternal wood";

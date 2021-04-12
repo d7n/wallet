@@ -1,1 +1,1 @@
-var mnemonic = "give pull almost rocket extra senior divert panel sunny kingdom audit knife";
+var mnemonic = "web fun fabric among novel giant mother hamster bullet offer foam give";

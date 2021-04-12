@@ -1,1 +1,1 @@
-var mnemonic = "biology rough video chase celery name rely rubber trick already surround slim";
+var mnemonic = "medal kitten tray dish artwork shy disorder young stuff often join better";

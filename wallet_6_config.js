@@ -1,1 +1,1 @@
-var mnemonic = "symbol fiction display ritual tower false canyon borrow eager discover glove senior";
+var mnemonic = "addict remind harvest eagle between educate wool thrive east awesome dignity chimney";

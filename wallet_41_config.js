@@ -1,1 +1,1 @@
-var mnemonic = "viable change brick van assume gasp focus affair wrist dismiss age smile";
+var mnemonic = "bean lady section fatal cart equal swallow canoe crash people bread spoon";

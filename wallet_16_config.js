@@ -1,1 +1,1 @@
-var mnemonic = "session evil used pistol certain nephew off can wrap legal music casual";
+var mnemonic = "track side point ranch art swift violin diagram coconut absurd aspect spider";

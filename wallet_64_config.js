@@ -1,1 +1,1 @@
-var mnemonic = "acoustic update shield sniff learn claw federal index note soap cute soldier";
+var mnemonic = "move actor entire elephant tag cinnamon emotion nose guard bread gather country";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow school wolf decide manage main flock either person pave copy dismiss";
+var mnemonic = "sell wide snack gorilla clerk plunge label casual paper abuse spirit earth";

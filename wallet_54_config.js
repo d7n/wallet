@@ -1,1 +1,1 @@
-var mnemonic = "spawn mirror debris honey false stable require option case cherry mosquito wish";
+var mnemonic = "elder artwork ugly parrot mail diary cinnamon merge peace transfer economy middle";

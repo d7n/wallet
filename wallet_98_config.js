@@ -1,1 +1,1 @@
-var mnemonic = "action visual admit asthma zoo kick forest raccoon device minor unfold add";
+var mnemonic = "old region prepare border say shy rail deposit pudding exchange kit lady";

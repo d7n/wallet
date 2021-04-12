@@ -1,1 +1,1 @@
-var mnemonic = "suspect hunt dragon tobacco energy better ridge business body very burst rice";
+var mnemonic = "loan remove memory myth rhythm salad snack actress tissue boil drama nerve";
