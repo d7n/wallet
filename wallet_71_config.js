@@ -1,1 +1,1 @@
-var mnemonic = "price twelve ball sheriff switch east spread brief girl hip pig gun";
+var mnemonic = "bread laundry across keep fly reopen shaft element chicken echo ramp brand";

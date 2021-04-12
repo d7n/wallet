@@ -1,1 +1,1 @@
-var mnemonic = "describe expire enrich clown chronic inject tree hunt clap giraffe help maximum";
+var mnemonic = "catalog stuff gold twenty fiber viable walnut ladder hawk visual manage claim";

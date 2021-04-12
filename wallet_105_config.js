@@ -1,1 +1,1 @@
-var mnemonic = "poem umbrella sting deposit seat sad snow negative slogan ozone surround mind";
+var mnemonic = "promote vacant plunge bomb program again diamond kangaroo boring survey lecture result";

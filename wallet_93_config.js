@@ -1,1 +1,1 @@
-var mnemonic = "surface used weather happy crazy brush naive vacuum addict frog kite fire";
+var mnemonic = "there atom panel liquid search arrange medal skull fragile bubble buddy sugar";

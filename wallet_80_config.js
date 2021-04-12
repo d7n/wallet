@@ -1,1 +1,1 @@
-var mnemonic = "inquiry vintage husband member inmate easy exercise awake educate huge follow other";
+var mnemonic = "bottom arrest brick polar soup thought sentence broom hour term shy stay";

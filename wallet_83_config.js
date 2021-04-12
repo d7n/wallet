@@ -1,1 +1,1 @@
-var mnemonic = "object include amateur umbrella lock urban turn purchase double life ghost feel";
+var mnemonic = "double town jealous mix panther worry hair crucial power yard like alien";

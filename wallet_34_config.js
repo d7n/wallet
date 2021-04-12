@@ -1,1 +1,1 @@
-var mnemonic = "airport move grow shallow fall jazz traffic force fork luxury dirt object";
+var mnemonic = "square flush illness south hawk behave foil avocado arrest frequent bitter open";

@@ -1,1 +1,1 @@
-var mnemonic = "island liar purpose biology friend tourist argue cost auction fan dawn scorpion";
+var mnemonic = "sick guess acoustic foam open club neither gap blossom place two source";

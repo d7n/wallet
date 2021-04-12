@@ -1,1 +1,1 @@
-var mnemonic = "canvas rapid mix jeans detail unit clump blast idle walk mail wrap";
+var mnemonic = "resist kiss private spoil sound tissue smooth disagree fame give giant pepper";

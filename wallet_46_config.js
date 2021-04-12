@@ -1,1 +1,1 @@
-var mnemonic = "rotate type vibrant near abstract disorder risk female shell glue topple wonder";
+var mnemonic = "mansion remove calm world dwarf disorder road slush tomato transfer lottery soup";

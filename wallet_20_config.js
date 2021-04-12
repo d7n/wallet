@@ -1,1 +1,1 @@
-var mnemonic = "farm knock spring guide text dizzy cross payment language label practice race";
+var mnemonic = "elite zoo soldier truck despair horror industry kite immense blade banana install";

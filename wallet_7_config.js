@@ -1,1 +1,1 @@
-var mnemonic = "tennis inmate brown razor armor breeze there awesome famous earn resist eyebrow";
+var mnemonic = "walnut thrive lobster issue release pretty record also advice river whale kidney";

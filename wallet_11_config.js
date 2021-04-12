@@ -1,1 +1,1 @@
-var mnemonic = "oxygen glare hazard carpet simple opinion harvest seek firm hospital squirrel dignity";
+var mnemonic = "return catalog say rough risk ginger glass smart portion share vicious bring";

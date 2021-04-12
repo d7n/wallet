@@ -1,1 +1,1 @@
-var mnemonic = "glance sauce fame apart cannon ski borrow east what surface crouch flock";
+var mnemonic = "shaft voice pool key move explain emotion brother waste humor favorite retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom reason earth marriage page license fold barrel exercise decorate foam what";
+var mnemonic = "company panic verb hire enact input foil cram group swarm company capital";

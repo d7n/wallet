@@ -1,1 +1,1 @@
-var mnemonic = "cause topic upon inquiry video walnut tobacco chief sentence doctor mother brisk";
+var mnemonic = "carry remain solar ridge spice conduct office jewel rose parent ready enter";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond connect breeze giraffe divorce crew burden dad satisfy doctor grab deputy";
+var mnemonic = "bless grow brisk empty hill cruise weasel balcony exhibit cliff admit defy";

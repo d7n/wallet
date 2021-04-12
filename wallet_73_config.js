@@ -1,1 +1,1 @@
-var mnemonic = "involve clog govern mushroom vacuum vibrant catalog about garment tag luxury stock";
+var mnemonic = "easily congress absorb tissue purpose art barrel valley gravity hen bubble upon";

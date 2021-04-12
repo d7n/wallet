@@ -1,1 +1,1 @@
-var mnemonic = "tilt follow force sniff dream crawl hollow hold arrest key torch usage";
+var mnemonic = "lunch dismiss trick cram mind donate boring term gallery rule pulse nerve";

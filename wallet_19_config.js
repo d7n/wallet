@@ -1,1 +1,1 @@
-var mnemonic = "quote fiction barrel brand milk tag hat train venture gas village educate";
+var mnemonic = "exact more limb ranch develop sibling puppy capital lobster ticket print spoon";

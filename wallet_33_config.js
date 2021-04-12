@@ -1,1 +1,1 @@
-var mnemonic = "crowd bulb path renew own perfect pink damage crush unknown rain walk";
+var mnemonic = "scale bronze captain pencil great vanish boss dinner hockey jeans cluster observe";

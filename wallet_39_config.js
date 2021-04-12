@@ -1,1 +1,1 @@
-var mnemonic = "target access below health seek cattle arrive tail useful entire amused large";
+var mnemonic = "paddle carpet blue load glow ladder identify jungle marine horn labor broom";

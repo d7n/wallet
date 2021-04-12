@@ -1,1 +1,1 @@
-var mnemonic = "have such obscure legend gaze fork ecology coast uncover weird case clay";
+var mnemonic = "scrap sheriff cycle lucky canal humor shield force basic hobby butter afford";

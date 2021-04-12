@@ -1,1 +1,1 @@
-var mnemonic = "crouch room message since wink cram shield cube question hidden left govern";
+var mnemonic = "tube note cover purse sweet viable knock found blur hat end genuine";

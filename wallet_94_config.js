@@ -1,1 +1,1 @@
-var mnemonic = "increase story retire gather pull elephant pyramid merge firm voyage hip off";
+var mnemonic = "mesh income emerge autumn accuse ripple symptom budget clog appear clinic matter";

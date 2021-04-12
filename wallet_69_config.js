@@ -1,1 +1,1 @@
-var mnemonic = "choice usual tail danger cost elegant shove black security result destroy bulb";
+var mnemonic = "math machine pupil mad wear earth girl tape minor kit obscure kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble fancy north episode panther rail twin cloud concert sunny improve cancel";
+var mnemonic = "mention lend method conduct inflict system able chunk shuffle section penalty hobby";

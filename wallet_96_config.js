@@ -1,1 +1,1 @@
-var mnemonic = "jewel glue casino fresh warm special chimney access coral forget federal switch";
+var mnemonic = "doll buffalo decide mom carry joy fuel moon double habit wet need";

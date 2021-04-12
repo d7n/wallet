@@ -1,1 +1,1 @@
-var mnemonic = "excuse jacket phrase ill chief vote gas acquire define stand shoot vanish";
+var mnemonic = "dutch frown arctic warfare item enlist surface battle trend mixed off kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "green police unfold evidence stairs category shoe useful quick razor lizard salt";
+var mnemonic = "sting finger village scout net carpet quit nephew divide carpet fringe snack";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics twist vote kingdom solution hip diagram arrest clump tomorrow flush monitor";
+var mnemonic = "prosper crystal filter siege first fortune where arch any flush party shock";

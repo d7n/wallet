@@ -1,1 +1,1 @@
-var mnemonic = "task off school sheriff payment blur hawk rifle alarm dinosaur section young";
+var mnemonic = "coral source element art differ idle key jeans property hospital music display";

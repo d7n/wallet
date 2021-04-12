@@ -1,1 +1,1 @@
-var mnemonic = "gap service reunion cousin blanket tenant uncover urge crisp cram where flash";
+var mnemonic = "style copper blur depart artefact sure trophy cheese skull hobby lawsuit genre";

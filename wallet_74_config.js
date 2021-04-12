@@ -1,1 +1,1 @@
-var mnemonic = "proud face perfect fantasy exclude deputy defy sauce fork thank pig you";
+var mnemonic = "pony picnic dream invest solid vendor regret brass warrior labor wedding fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "donor ride grocery column satisfy antenna cause hurry success behave turtle enemy";
+var mnemonic = "bonus cheese smile meat release group spend cattle more wife tuna prefer";

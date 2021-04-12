@@ -1,1 +1,1 @@
-var mnemonic = "recycle library liberty all rich quick frequent speak cabin crop hire boat";
+var mnemonic = "party close deer aisle planet damp forest seven produce tomato celery audit";

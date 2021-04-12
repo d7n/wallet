@@ -1,1 +1,1 @@
-var mnemonic = "bicycle tray elder disagree monster speak display answer sick right lady base";
+var mnemonic = "baby soon lucky garment fold caution effort title tongue stage verb pizza";

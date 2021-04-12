@@ -1,1 +1,1 @@
-var mnemonic = "then pelican employ game force soft salmon side tone style boat arrow";
+var mnemonic = "grain index enact term inspire spin happy orange dismiss parade stage double";

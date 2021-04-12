@@ -1,1 +1,1 @@
-var mnemonic = "turkey annual include bread outdoor spice orchard trust legend awful rich mutual";
+var mnemonic = "boil frog that salt nest scatter bleak reward upset just fancy trust";

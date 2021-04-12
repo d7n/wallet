@@ -1,1 +1,1 @@
-var mnemonic = "eagle harbor nasty cost soup satoshi armed wood humble regret cart pink";
+var mnemonic = "oppose ring response kiwi nothing foam buffalo teach scissors process tissue crater";

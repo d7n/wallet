@@ -1,1 +1,1 @@
-var mnemonic = "dad photo ethics girl screen castle member social put clog soup suspect";
+var mnemonic = "bulb pen fever crisp pause warfare boat shoulder resist enable silver rose";

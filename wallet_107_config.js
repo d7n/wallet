@@ -1,1 +1,1 @@
-var mnemonic = "village useless kangaroo dose stairs palace issue swift second vibrant collect skate";
+var mnemonic = "exotic business capable helmet shift below random ranch know spy defy spin";

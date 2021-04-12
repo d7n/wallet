@@ -1,1 +1,1 @@
-var mnemonic = "risk squirrel now sadness parrot front mushroom advance maximum wide weird phrase";
+var mnemonic = "accuse hood note pole survey asthma trick make chalk best cabbage coral";

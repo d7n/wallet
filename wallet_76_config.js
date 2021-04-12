@@ -1,1 +1,1 @@
-var mnemonic = "nerve future tape weekend fog tissue photo notice shoulder wrong disease theme";
+var mnemonic = "mix mention rug anchor maid sample copper bundle gift other random maximum";

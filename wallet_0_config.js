@@ -1,1 +1,1 @@
-var mnemonic = "burger current cousin kangaroo gentle govern notice arrive canyon water age identify";
+var mnemonic = "all social seed city lizard art medal kiwi essence edge motor equal";

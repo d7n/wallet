@@ -1,1 +1,1 @@
-var mnemonic = "casino argue crush core chapter civil eyebrow private minor stumble alter square";
+var mnemonic = "area tiny state edge absurd danger aware pause desk swallow foot borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar calm grant exclude grab push biology almost soon figure floor syrup";
+var mnemonic = "gun image cabin stove refuse boss wet patch climb adapt fluid crouch";

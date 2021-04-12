@@ -1,1 +1,1 @@
-var mnemonic = "senior rotate welcome wood family urban figure mechanic swing pause model butter";
+var mnemonic = "quick hope there party diet silk depth blouse describe affair cross clever";

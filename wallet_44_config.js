@@ -1,1 +1,1 @@
-var mnemonic = "earn census depart lucky number source point habit diary stereo carry brown";
+var mnemonic = "audit cotton between engine concert theme illness trick lizard badge venue galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "point gentle sail cluster rug behave adjust drill yard trial away town";
+var mnemonic = "theory lend perfect kite duty parent boring tell zone evoke canal bomb";

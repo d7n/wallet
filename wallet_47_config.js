@@ -1,1 +1,1 @@
-var mnemonic = "old beef despair punch surprise south convince jar faculty need kangaroo kid";
+var mnemonic = "notice fringe fade grab flip repeat churn foot dune draft maximum tiny";

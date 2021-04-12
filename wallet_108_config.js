@@ -1,1 +1,1 @@
-var mnemonic = "never pistol salon learn ignore pilot ill lecture page clock leisure punch";
+var mnemonic = "require direct vapor input matter lazy lawn inmate vocal april twice banner";

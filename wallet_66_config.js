@@ -1,1 +1,1 @@
-var mnemonic = "rose stadium false arctic trim olympic jungle coyote sense can game dismiss";
+var mnemonic = "exile come napkin farm history above moral prosper surface envelope layer mirror";

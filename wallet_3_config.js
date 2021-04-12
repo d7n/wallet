@@ -1,1 +1,1 @@
-var mnemonic = "heavy account sign gallery wasp garden enact sail shrimp delay remember dash";
+var mnemonic = "vintage educate thunder broom mix jealous ramp suffer movie tenant grunt position";

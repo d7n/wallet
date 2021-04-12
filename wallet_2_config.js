@@ -1,1 +1,1 @@
-var mnemonic = "inhale fragile rhythm rubber blade produce apology near only enter enemy affair";
+var mnemonic = "van breeze verb term square traffic else park model mad coffee smooth";

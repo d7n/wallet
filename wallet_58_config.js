@@ -1,1 +1,1 @@
-var mnemonic = "boil item hockey lobster inhale tunnel auction visual clever glimpse trial trick";
+var mnemonic = "cake toast omit illegal above describe border region marble stereo eternal garage";

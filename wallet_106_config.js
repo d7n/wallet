@@ -1,1 +1,1 @@
-var mnemonic = "adjust syrup bind illness despair rapid school burst bronze virus monitor cute";
+var mnemonic = "snap confirm replace patient digital isolate foster era observe history again balance";

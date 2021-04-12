@@ -1,1 +1,1 @@
-var mnemonic = "obey ski twelve keen balcony actual daring dad raven transfer staff stamp";
+var mnemonic = "share cotton hybrid little health govern exercise finger mouse core mandate duty";

@@ -1,1 +1,1 @@
-var mnemonic = "pool bracket violin script fence half kind economy glove soul draw word";
+var mnemonic = "early coast love arch giggle van diamond route garlic flat alpha little";

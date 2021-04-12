@@ -1,1 +1,1 @@
-var mnemonic = "banner truth grocery peace book hamster angle soap bike parrot doctor skate";
+var mnemonic = "filter around budget ostrich seat praise flag weapon glass enforce nut column";

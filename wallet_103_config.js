@@ -1,1 +1,1 @@
-var mnemonic = "idle betray ski welcome region quick old puppy crucial renew worry frown";
+var mnemonic = "online copy cave possible force bag wave heart focus future setup doctor";

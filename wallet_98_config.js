@@ -1,1 +1,1 @@
-var mnemonic = "infant humble knee twelve young urge mean fix open age piano toe";
+var mnemonic = "this ignore melt matrix regret flat car tube month city praise purity";

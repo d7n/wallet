@@ -1,1 +1,1 @@
-var mnemonic = "pencil essence consider violin grab canal mystery develop panther dog skill nuclear";
+var mnemonic = "rule brisk under wage often replace element nurse retire food bid fat";

@@ -1,1 +1,1 @@
-var mnemonic = "video farm bus hat antique fame code vehicle logic talk example fix";
+var mnemonic = "mountain gaze album artefact phone more profit rich amount potato exile trip";

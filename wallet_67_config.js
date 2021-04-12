@@ -1,1 +1,1 @@
-var mnemonic = "property wealth embody bounce decide donkey pluck often acoustic again shuffle input";
+var mnemonic = "margin search wood equip blur grid hello frog cube novel across transfer";

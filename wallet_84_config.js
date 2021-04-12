@@ -1,1 +1,1 @@
-var mnemonic = "direct frown matter napkin meadow fuel raw pepper tuition over view minute";
+var mnemonic = "obey immense vacuum obscure refuse shield nuclear dream law vibrant body hold";

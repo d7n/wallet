@@ -1,1 +1,1 @@
-var mnemonic = "drive marriage true uphold sword lady any siren raven actress sick genuine";
+var mnemonic = "theme occur sick marriage large wait rug leader stand light alert ivory";

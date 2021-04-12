@@ -1,1 +1,1 @@
-var mnemonic = "exile nature sense skirt have erase impose clap super sense awkward shiver";
+var mnemonic = "next obtain subway ribbon stand review school upon apart cricket argue vault";

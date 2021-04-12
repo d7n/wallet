@@ -1,1 +1,1 @@
-var mnemonic = "math special shop slice size remove scrub throw canvas ostrich broccoli much";
+var mnemonic = "plastic wage couch plunge spider gallery play provide excite output rich length";

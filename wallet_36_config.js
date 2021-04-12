@@ -1,1 +1,1 @@
-var mnemonic = "emotion split kiss host mom margin travel dwarf subway illegal left humor";
+var mnemonic = "digital act ship erase nominee embody eternal couple toe kangaroo cave ridge";

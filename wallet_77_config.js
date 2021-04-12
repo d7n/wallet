@@ -1,1 +1,1 @@
-var mnemonic = "retire lamp town digital zebra injury board wave judge drastic address diamond";
+var mnemonic = "bargain drastic helmet roast weather vocal wisdom blind sell state program leopard";

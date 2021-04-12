@@ -1,1 +1,1 @@
-var mnemonic = "settle group time ranch renew boy lyrics host palace burst prevent pet";
+var mnemonic = "area palace civil bonus awesome build happy cricket unveil reunion own when";

@@ -1,1 +1,1 @@
-var mnemonic = "town need used alone escape half insane river fruit invest news outside";
+var mnemonic = "smooth youth exist mobile embark civil board segment cargo blind tank range";

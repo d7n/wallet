@@ -1,1 +1,1 @@
-var mnemonic = "nation host laugh swamp iron neither uphold able member travel dream hill";
+var mnemonic = "mandate select script track enjoy universe arch attract habit butter crush teach";

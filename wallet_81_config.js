@@ -1,1 +1,1 @@
-var mnemonic = "submit system peasant panel rhythm until dance embrace convince urge grit decline";
+var mnemonic = "inspire area narrow mesh economy when surprise broom ceiling solid favorite crater";

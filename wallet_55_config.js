@@ -1,1 +1,1 @@
-var mnemonic = "retire palm slam pass giraffe make leader repair decline stable milk bind";
+var mnemonic = "consider hat also van tackle rug burden bleak team hood dolphin maze";

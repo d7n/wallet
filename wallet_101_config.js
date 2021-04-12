@@ -1,1 +1,1 @@
-var mnemonic = "mass talent genre sadness blue acoustic stand virtual you hero ribbon eager";
+var mnemonic = "basic approve duty situate crop album fat grit ignore shrimp night erupt";

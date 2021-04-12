@@ -1,1 +1,1 @@
-var mnemonic = "pencil canvas stereo soldier nature move scrub explain sketch cream swarm december";
+var mnemonic = "tiny circle confirm winner evidence equal skirt winner egg inject tourist text";

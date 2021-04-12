@@ -1,1 +1,1 @@
-var mnemonic = "change cinnamon kiss pizza supply trumpet disease age matter acoustic this unable";
+var mnemonic = "metal area cricket spot unit cannon nest receive unique bargain machine faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "lift popular swift slide love share quit figure waste credit laundry dad";
+var mnemonic = "produce cabin main organ near bullet mass bottom length immense stage morning";

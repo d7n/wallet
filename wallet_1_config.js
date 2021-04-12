@@ -1,1 +1,1 @@
-var mnemonic = "corn wolf yellow document siren kiss feed such wing series wrist diary";
+var mnemonic = "try unusual mutual laundry infant dwarf oven pool whisper shed baby awesome";

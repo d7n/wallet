@@ -1,1 +1,1 @@
-var mnemonic = "fire strike april corn style turkey swap derive behave sign moment verb";
+var mnemonic = "nurse butter depend wrong evoke crater today sauce above wave market stone";

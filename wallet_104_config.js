@@ -1,1 +1,1 @@
-var mnemonic = "horse chunk baby uncover custom orange shrug emerge beyond walk buzz two";
+var mnemonic = "will broccoli funny final donor loop term coin ability oven escape stumble";

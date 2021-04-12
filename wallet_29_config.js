@@ -1,1 +1,1 @@
-var mnemonic = "summer provide puzzle acquire differ romance claim pen lens apart virtual mind";
+var mnemonic = "blossom social radio tilt siren picture derive spare paper puzzle robust scan";

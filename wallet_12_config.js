@@ -1,1 +1,1 @@
-var mnemonic = "amazing shiver offer scan room hair never memory goat riot practice casino";
+var mnemonic = "royal give accident empower anxiety someone humble fitness zebra purchase sister rebuild";
