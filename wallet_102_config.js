@@ -1,1 +1,1 @@
-var mnemonic = "cage swallow pilot door plate sea dwarf upset opinion wonder market fresh";
+var mnemonic = "candy neutral breeze nominee oxygen secret equal taxi forest aerobic reduce legend";

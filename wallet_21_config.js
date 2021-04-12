@@ -1,1 +1,1 @@
-var mnemonic = "window festival neither giggle casual hedgehog solar odor tone harsh element salon";
+var mnemonic = "cook friend raise stomach abuse surround vanish wave unable bus beyond remain";

@@ -1,1 +1,1 @@
-var mnemonic = "legal cancel couple address slush sunny pink asset insane still meadow lottery";
+var mnemonic = "word voyage siren design design stone coil clarify dust sell cross eternal";

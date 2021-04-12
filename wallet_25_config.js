@@ -1,1 +1,1 @@
-var mnemonic = "hungry logic farm key evoke decide weather monitor guide open tower void";
+var mnemonic = "pear option matter talent battle vendor among ordinary joy allow spawn harbor";

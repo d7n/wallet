@@ -1,1 +1,1 @@
-var mnemonic = "where custom hamster pencil eternal oil kitten scene shrug fan result lunar";
+var mnemonic = "antenna drink also trophy knee wear woman ozone hybrid captain vapor budget";

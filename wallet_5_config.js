@@ -1,1 +1,1 @@
-var mnemonic = "addict define swamp left such famous bunker else illness zone iron wild";
+var mnemonic = "jewel loop street potato recall sword index rival inspire rookie all sort";

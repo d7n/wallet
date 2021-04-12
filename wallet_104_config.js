@@ -1,1 +1,1 @@
-var mnemonic = "veteran conduct abuse opinion episode denial into remind used fold enlist scrap";
+var mnemonic = "nest feed bonus assume funny bronze demand design daring provide swap ritual";

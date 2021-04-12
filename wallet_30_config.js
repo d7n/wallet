@@ -1,1 +1,1 @@
-var mnemonic = "fragile another wide legend buffalo wheat hill auto flee impulse resemble turn";
+var mnemonic = "evil truly boat happy client jar ritual pass beauty inflict royal average";

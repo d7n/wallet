@@ -1,1 +1,1 @@
-var mnemonic = "donor amount cousin dish calm kid index soon ankle captain capable hello";
+var mnemonic = "beauty they disorder dentist patch black egg void left empty depth tooth";

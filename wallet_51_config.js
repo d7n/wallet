@@ -1,1 +1,1 @@
-var mnemonic = "chicken figure million plunge circle ability item stereo health pole fly seminar";
+var mnemonic = "park mad describe when sound still injury tooth unveil goose nature robust";

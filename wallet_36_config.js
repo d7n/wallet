@@ -1,1 +1,1 @@
-var mnemonic = "garment better word voyage short mushroom bicycle dilemma pitch behave celery cousin";
+var mnemonic = "obey ramp symbol rug skate all teach execute motor invite water sea";

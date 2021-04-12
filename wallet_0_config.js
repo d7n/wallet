@@ -1,1 +1,1 @@
-var mnemonic = "endless chuckle marine topic burden whale upper doll chief negative spread tiger";
+var mnemonic = "toe green delay mirror scare glad wagon outside cool dust blade obscure";

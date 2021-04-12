@@ -1,1 +1,1 @@
-var mnemonic = "bargain congress grass online fringe join profit obvious craft scare grow quote";
+var mnemonic = "tunnel twelve web pulse pencil strong proud insect luxury rough search spare";

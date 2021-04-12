@@ -1,1 +1,1 @@
-var mnemonic = "asset early swim unable much advance twist pioneer alpha limb glide prepare";
+var mnemonic = "barely various shell unhappy holiday caution quality control almost enact cage cradle";

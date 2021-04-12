@@ -1,1 +1,1 @@
-var mnemonic = "cotton post garlic gentle length protect engage oval assist keen about flame";
+var mnemonic = "dance cactus hard bounce boil day huge milk know cheap fetch myth";

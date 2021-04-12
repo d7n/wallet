@@ -1,1 +1,1 @@
-var mnemonic = "sketch junk myth maximum gown ginger behave evil open solve enough spatial";
+var mnemonic = "century digital glide bid happy obscure game forest clutch glance road negative";

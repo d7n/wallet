@@ -1,1 +1,1 @@
-var mnemonic = "tuition cabbage kite lens corn purchase forget hockey bar badge garment sentence";
+var mnemonic = "matrix blast potato promote marriage spatial situate clump scrub biology stereo agree";

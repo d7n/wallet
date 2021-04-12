@@ -1,1 +1,1 @@
-var mnemonic = "digital witness parent loud crumble door believe magic never pigeon reopen another";
+var mnemonic = "canoe eternal sketch person sponsor suspect dog neglect silk twin assist slight";

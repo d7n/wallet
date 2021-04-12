@@ -1,1 +1,1 @@
-var mnemonic = "object profit goat sound loud deposit ozone dynamic ready turkey inhale keep";
+var mnemonic = "sad various cereal negative dice web flip vapor curious remember enable awesome";

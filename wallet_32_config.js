@@ -1,1 +1,1 @@
-var mnemonic = "clutch notice early track accident fiction fix opinion ladder young vendor mass";
+var mnemonic = "water bundle language resist shield matter maximum trim hip paper fossil resemble";

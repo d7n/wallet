@@ -1,1 +1,1 @@
-var mnemonic = "gadget clever soap village citizen taxi differ laundry jewel net cloud juice";
+var mnemonic = "marble finish idle foster hard fee wagon canvas royal expand reunion tone";

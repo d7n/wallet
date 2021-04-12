@@ -1,1 +1,1 @@
-var mnemonic = "shop whisper pink neutral school audit misery survey nature office net flock";
+var mnemonic = "warrior exhibit weekend elbow frequent lava boss toward shallow drip mansion capable";

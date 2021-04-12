@@ -1,1 +1,1 @@
-var mnemonic = "glide icon excite album nuclear kidney truly life prevent sugar bulk february";
+var mnemonic = "soda easily memory example bomb only pet surface shoot moral accuse harbor";

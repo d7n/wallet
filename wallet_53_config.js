@@ -1,1 +1,1 @@
-var mnemonic = "another egg awesome minimum biology wet next humor exchange outside artwork gentle";
+var mnemonic = "radar web disorder vast zone shaft explain narrow broom bottom double pencil";

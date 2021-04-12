@@ -1,1 +1,1 @@
-var mnemonic = "ski elbow wrap daughter decorate decorate pencil knee shed donate spirit shoe";
+var mnemonic = "okay exotic spread camera else above permit addict patch drive vault surface";

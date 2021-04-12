@@ -1,1 +1,1 @@
-var mnemonic = "pair bonus height matrix ball gown twice butter common always remain witness";
+var mnemonic = "right bubble senior magnet arm abuse romance foam frog favorite chase suspect";

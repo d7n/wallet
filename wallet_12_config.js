@@ -1,1 +1,1 @@
-var mnemonic = "boil rib chase science ethics laugh because congress tissue behind wheat three";
+var mnemonic = "tenant mirror story outside mixture timber quit arm swing beach alien bird";

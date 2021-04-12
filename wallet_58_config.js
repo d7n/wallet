@@ -1,1 +1,1 @@
-var mnemonic = "hungry medal there alcohol regular slush butter clean media flavor retreat display";
+var mnemonic = "attract detect viable unique dignity vapor cost soft portion help juice faculty";

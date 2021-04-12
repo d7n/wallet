@@ -1,1 +1,1 @@
-var mnemonic = "hamster split crystal spy gorilla expand moon face crack panda sweet print";
+var mnemonic = "envelope sport lobster brush clay diagram ship october ceiling public rookie bench";

@@ -1,1 +1,1 @@
-var mnemonic = "length price test twin glove leisure march cement start damp moon cannon";
+var mnemonic = "rib require this sphere perfect where assault toddler change youth surround survey";

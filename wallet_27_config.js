@@ -1,1 +1,1 @@
-var mnemonic = "turn quote catalog guard waste glide season column age icon chalk defense";
+var mnemonic = "rug name fortune match vehicle ask few fog novel survey plate spread";

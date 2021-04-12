@@ -1,1 +1,1 @@
-var mnemonic = "session come ship smile broken polar sunset scan drum neutral fortune option";
+var mnemonic = "system ice drip have fence unable federal lamp subway obvious extend visual";

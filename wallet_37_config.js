@@ -1,1 +1,1 @@
-var mnemonic = "stand derive turn uphold resource burger harvest pact polar strike this slab";
+var mnemonic = "horror wing gift man garage wage argue weapon profit boil dune pioneer";

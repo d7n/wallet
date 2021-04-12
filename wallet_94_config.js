@@ -1,1 +1,1 @@
-var mnemonic = "library panther sort valve audit pudding lawsuit judge safe strong sick minimum";
+var mnemonic = "toddler onion above sorry suit shoe attitude animal control puppy inquiry credit";

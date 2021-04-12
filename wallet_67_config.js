@@ -1,1 +1,1 @@
-var mnemonic = "sauce scorpion torch suit stomach purity ordinary muffin ancient elbow october smile";
+var mnemonic = "snap spray mass rebel load item butter muscle possible hero impact spin";

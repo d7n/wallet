@@ -1,1 +1,1 @@
-var mnemonic = "note orchard carpet remember polar lunar party aunt whale ancient expose seek";
+var mnemonic = "soft maximum sausage whip apology shrimp hen arrive cost please deliver bacon";

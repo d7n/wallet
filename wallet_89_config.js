@@ -1,1 +1,1 @@
-var mnemonic = "pear jaguar capable work parade boost provide remain pigeon error ritual winner";
+var mnemonic = "seed lawsuit copy monkey protect glad airport hello obey casual border seek";

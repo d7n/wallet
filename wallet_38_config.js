@@ -1,1 +1,1 @@
-var mnemonic = "boy process plate grape laundry mosquito daughter absent oxygen luggage fruit cushion";
+var mnemonic = "maple inhale evidence type cactus tomorrow immune reveal pass circle sport fish";

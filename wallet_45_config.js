@@ -1,1 +1,1 @@
-var mnemonic = "crack furnace about crystal add cannon visit flock alert vintage judge arch";
+var mnemonic = "elevator hazard quantum search biology shadow scheme spray spare mystery clean maid";

@@ -1,1 +1,1 @@
-var mnemonic = "march excite merit elder waste roast clerk favorite proof boss shiver blur";
+var mnemonic = "fitness find world treat shiver february pond few thought tree legal chief";

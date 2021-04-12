@@ -1,1 +1,1 @@
-var mnemonic = "hip squirrel goddess cherry zone season position net artist ankle tourist fabric";
+var mnemonic = "poem valley foster reward easy damage clap hard kiss topple exclude certain";

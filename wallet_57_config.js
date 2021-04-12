@@ -1,1 +1,1 @@
-var mnemonic = "ill real hire inspire spin noble mom word half elevator typical plate";
+var mnemonic = "army useless segment tenant loyal neither name try time grace potato wet";

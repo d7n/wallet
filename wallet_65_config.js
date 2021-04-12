@@ -1,1 +1,1 @@
-var mnemonic = "civil lobster minimum grid camera shallow isolate team drum long legal asthma";
+var mnemonic = "action early canvas because blouse march stock north tiger jewel young outer";

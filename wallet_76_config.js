@@ -1,1 +1,1 @@
-var mnemonic = "transfer snow exit anxiety sing print dragon before script talk still siren";
+var mnemonic = "matter autumn blossom left remain rain seed hen crucial endorse just strategy";

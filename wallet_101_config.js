@@ -1,1 +1,1 @@
-var mnemonic = "wear veteran cancel select lock present silly evolve grief wagon tree impact";
+var mnemonic = "lamp install picture shallow clean film calm radar soon accuse poem since";

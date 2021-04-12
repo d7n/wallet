@@ -1,1 +1,1 @@
-var mnemonic = "paper traffic funny urban sock tape setup image fit differ exile heart";
+var mnemonic = "hedgehog enact goose render grocery draft news illness fiscal wheat used daring";

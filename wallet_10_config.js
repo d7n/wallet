@@ -1,1 +1,1 @@
-var mnemonic = "mention agree chuckle print casual range squeeze slam debris deer disagree rate";
+var mnemonic = "glare hungry gold olympic easily embark sauce federal force crowd effort cruel";

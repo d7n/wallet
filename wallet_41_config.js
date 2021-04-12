@@ -1,1 +1,1 @@
-var mnemonic = "guide lens gift culture post fish uncle smile hard lamp type wild";
+var mnemonic = "thumb smoke oxygen reward speak museum delay fortune seek nut sand steel";

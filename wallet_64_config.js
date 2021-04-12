@@ -1,1 +1,1 @@
-var mnemonic = "thunder holiday spike force method all regret keep ginger island indicate favorite";
+var mnemonic = "decorate holiday make april method off vocal error inherit vote hint stick";

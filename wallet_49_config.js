@@ -1,1 +1,1 @@
-var mnemonic = "above vacant rabbit measure present mixture crop table joke annual nerve crop";
+var mnemonic = "flavor license differ rally grape stable jewel raccoon bomb clean bottom nurse";

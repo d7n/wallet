@@ -1,1 +1,1 @@
-var mnemonic = "give window library slight deliver frost invest quick joy slab senior proof";
+var mnemonic = "reunion vote advice achieve panel upper december sentence inspire recall sphere power";

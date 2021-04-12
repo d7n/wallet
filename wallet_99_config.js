@@ -1,1 +1,1 @@
-var mnemonic = "vessel essay wild struggle chimney stage danger green keep differ vibrant inside";
+var mnemonic = "rocket vocal rally dice april present open surprise swing brush ripple inch";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit fold oblige cactus whisper badge delay scrub expand material pen current";
+var mnemonic = "saddle nephew stuff anchor coast mountain open supply material near trial behind";

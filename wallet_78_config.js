@@ -1,1 +1,1 @@
-var mnemonic = "diary mandate mouse possible announce journey brush transfer token spring bag between";
+var mnemonic = "glue pull rabbit time force welcome large initial athlete have damage magic";

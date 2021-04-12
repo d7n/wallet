@@ -1,1 +1,1 @@
-var mnemonic = "gauge logic stove zero drastic elegant taste science guide debris search mention";
+var mnemonic = "iron gadget dune cave genius unable matrix atom quantum hen deer embark";

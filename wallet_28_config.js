@@ -1,1 +1,1 @@
-var mnemonic = "claw oppose kit stock ozone record virus canal onion viable nephew truck";
+var mnemonic = "believe dress stone abstract speak fresh forum knock twin piano order sell";

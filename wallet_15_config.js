@@ -1,1 +1,1 @@
-var mnemonic = "admit satoshi enhance pole daughter kiwi oxygen approve rich barrel sibling wish";
+var mnemonic = "inner dinner coach miracle fragile relief average round wood term trumpet husband";

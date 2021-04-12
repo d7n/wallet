@@ -1,1 +1,1 @@
-var mnemonic = "coil sniff barely find curious actual hello mix candy spider armor typical";
+var mnemonic = "oblige focus shoot run ask advance pizza piano keep capital erosion story";

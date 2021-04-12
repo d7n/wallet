@@ -1,1 +1,1 @@
-var mnemonic = "celery thumb extra toe young student empower local party sun tumble idle";
+var mnemonic = "logic inspire twelve dune verify live roast asset deposit leopard drip wine";

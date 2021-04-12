@@ -1,1 +1,1 @@
-var mnemonic = "fit powder amount planet vendor lizard spy danger crouch stone sphere evil";
+var mnemonic = "armor power update return hamster sing later palace play bridge law art";

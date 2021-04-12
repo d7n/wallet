@@ -1,1 +1,1 @@
-var mnemonic = "boat like diamond square upset keep bid blanket social puzzle monitor toe";
+var mnemonic = "wild swim rare camp expire pattern you thought chat laundry main find";

@@ -1,1 +1,1 @@
-var mnemonic = "left junk number slender sound sail ahead tooth credit cushion question hill";
+var mnemonic = "album reform mule proof liberty foam urge forum reward sibling smart resource";

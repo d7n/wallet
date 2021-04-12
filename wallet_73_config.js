@@ -1,1 +1,1 @@
-var mnemonic = "prison dentist sword loyal mandate elephant once guide toward pioneer drip push";
+var mnemonic = "inherit lazy one supreme erosion lyrics once cram heart name gold asset";

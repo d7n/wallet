@@ -1,1 +1,1 @@
-var mnemonic = "raccoon hockey payment include grab six shove piano apology flame heart repair";
+var mnemonic = "flip wild crash morning agent patch tree elevator equip wheel welcome margin";

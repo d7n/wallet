@@ -1,1 +1,1 @@
-var mnemonic = "enemy border olympic random desk entry blind ball normal write balance wagon";
+var mnemonic = "chronic toe annual script tenant slush invite save great laugh goddess pioneer";

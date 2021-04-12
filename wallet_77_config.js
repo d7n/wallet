@@ -1,1 +1,1 @@
-var mnemonic = "paddle grab autumn define people drive crush monster edge sell leg spawn";
+var mnemonic = "pulse twice ignore frog joke expire gauge type alien pluck deposit dumb";

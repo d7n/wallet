@@ -1,1 +1,1 @@
-var mnemonic = "survey panel champion fence sock novel cat dizzy sing place answer answer";
+var mnemonic = "picnic club give document hotel liar universe humble camera diary blur chaos";

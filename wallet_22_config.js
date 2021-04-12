@@ -1,1 +1,1 @@
-var mnemonic = "stove cattle torch electric garment phrase belt lamp stomach winter slim mountain";
+var mnemonic = "cloud need rib visa can habit region cute ticket beach menu polar";

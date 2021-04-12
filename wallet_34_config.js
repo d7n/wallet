@@ -1,1 +1,1 @@
-var mnemonic = "manual sock wrap assist supreme tuna shoulder leopard drill year area tone";
+var mnemonic = "physical detail polar magic snack fame seat bronze visa movie athlete behind";

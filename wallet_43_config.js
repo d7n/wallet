@@ -1,1 +1,1 @@
-var mnemonic = "flag april address girl wagon only try exchange traffic income napkin deliver";
+var mnemonic = "demand garden broken group kick local seven cheese boat two oxygen dice";

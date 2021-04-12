@@ -1,1 +1,1 @@
-var mnemonic = "ensure matter elegant bridge route surface shuffle magnet thunder lobster advice resist";
+var mnemonic = "universe tattoo movie destroy airport artist mind strike disorder monkey arrest ketchup";

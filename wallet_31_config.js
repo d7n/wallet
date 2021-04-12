@@ -1,1 +1,1 @@
-var mnemonic = "doll prefer grid rich cruise success act journey feel divide tomorrow kit";
+var mnemonic = "plug custom elephant luggage yellow injury order parade flip panda bag language";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal install work name ignore industry churn hurt pudding cross kind digital";
+var mnemonic = "salt sign suit pass okay choose train media cluster fiber ice label";

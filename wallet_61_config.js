@@ -1,1 +1,1 @@
-var mnemonic = "talk drastic fit flip odor tail soft dilemma move believe pigeon dress";
+var mnemonic = "extend property candy trash pill dentist abandon first chat picnic lizard exchange";

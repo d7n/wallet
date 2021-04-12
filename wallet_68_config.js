@@ -1,1 +1,1 @@
-var mnemonic = "buddy pair quick top subject actor wall ripple convince prefer mind unaware";
+var mnemonic = "alley fan garage guess start group scatter record cry voice next smooth";

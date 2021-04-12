@@ -1,1 +1,1 @@
-var mnemonic = "sad thing unusual scissors monitor wisdom erode pyramid two congress silly awesome";
+var mnemonic = "blush vintage sentence improve live fish flash maple harsh raise must wash";

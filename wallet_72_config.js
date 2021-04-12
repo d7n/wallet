@@ -1,1 +1,1 @@
-var mnemonic = "inform melt jump trouble magnet smart predict angry grape figure vacant cost";
+var mnemonic = "wine clock tragic middle sword mule input lizard mixed mutual viable chaos";

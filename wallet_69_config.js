@@ -1,1 +1,1 @@
-var mnemonic = "rail ivory arrive idle pelican violin awful about sword kingdom black excess";
+var mnemonic = "pulse client neglect barely invest ancient skirt flame situate banner punch affair";

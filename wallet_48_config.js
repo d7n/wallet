@@ -1,1 +1,1 @@
-var mnemonic = "problem enrich grow pottery mercy enrich joke melody sweet forest symptom able";
+var mnemonic = "fix tone belt sign smart heart viable viable head camera version minimum";

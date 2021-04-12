@@ -1,1 +1,1 @@
-var mnemonic = "more best detail novel debate brisk outdoor eternal hen scene able skill";
+var mnemonic = "breeze essence clip absorb option urge weather gospel bless finger tongue toast";

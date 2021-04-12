@@ -1,1 +1,1 @@
-var mnemonic = "marriage hat rack pride perfect finish panic chicken boring model olive rookie";
+var mnemonic = "cherry proud river together goddess wave visit kingdom pencil shrimp spy cruise";

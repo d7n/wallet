@@ -1,1 +1,1 @@
-var mnemonic = "fruit movie extend kick episode lumber lab heavy eager ketchup sunset busy";
+var mnemonic = "large dolphin humor muscle twin clown strike permit rule gap amateur punch";

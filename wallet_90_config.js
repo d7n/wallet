@@ -1,1 +1,1 @@
-var mnemonic = "park plug rib husband asthma iron expand region innocent chat census lucky";
+var mnemonic = "hat peasant tongue laundry wheel axis gentle spring visual drama april amused";

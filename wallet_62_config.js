@@ -1,1 +1,1 @@
-var mnemonic = "casino project pass eternal title sign bullet fringe delay neglect turkey replace";
+var mnemonic = "elephant cash retreat vapor play duck zone double duck clarify club icon";

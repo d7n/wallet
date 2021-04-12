@@ -1,1 +1,1 @@
-var mnemonic = "erode train gym uphold nerve edge poem surface laundry crater two sun";
+var mnemonic = "during round wait knee change program debris lock swing illegal token excite";

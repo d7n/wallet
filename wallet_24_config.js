@@ -1,1 +1,1 @@
-var mnemonic = "goose february organ mansion pencil run maze asset stumble fancy real purpose";
+var mnemonic = "borrow kidney judge bench square tiger pony bitter rotate all second silent";

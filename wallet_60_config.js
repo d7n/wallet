@@ -1,1 +1,1 @@
-var mnemonic = "supreme awkward better vote cup captain shop math select word snack mandate";
+var mnemonic = "six craft scorpion faint divide transfer boring enroll device thing lab uncle";
