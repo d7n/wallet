@@ -1,1 +1,1 @@
-var mnemonic = "cheap damp purchase farm absurd reflect burden harbor sweet what lab unfold";
+var mnemonic = "earn smoke review fragile enrich promote arm tuition salon dirt announce jealous";

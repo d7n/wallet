@@ -1,1 +1,1 @@
-var mnemonic = "blame service trouble salt produce pull raw afford task skull cotton sword";
+var mnemonic = "border lesson farm insane knee steel else digital craft slot clown tenant";

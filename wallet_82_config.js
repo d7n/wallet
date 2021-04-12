@@ -1,1 +1,1 @@
-var mnemonic = "dress more assume autumn badge drum risk salt top market swift since";
+var mnemonic = "capable arctic slim poverty near solve miracle someone clerk credit wasp plastic";

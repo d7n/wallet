@@ -1,1 +1,1 @@
-var mnemonic = "cross mosquito pill virus license napkin salt clown volume disagree vendor ankle";
+var mnemonic = "earn universe foam suffer polar tape lend abuse mountain race lion rate";

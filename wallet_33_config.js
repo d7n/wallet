@@ -1,1 +1,1 @@
-var mnemonic = "concert cushion column gloom simple fog upper number marine camera shed annual";
+var mnemonic = "embody cherry prefer elevator exercise much donate assume farm brave stumble guard";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise fame sail season wrist rally insane yellow girl whisper decorate hamster";
+var mnemonic = "pelican frequent need merit call boy hello repeat food wool animal wealth";

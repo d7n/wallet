@@ -1,1 +1,1 @@
-var mnemonic = "april mesh flight edge arena chef property arrange clog strong coast chair";
+var mnemonic = "tell replace struggle canyon chaos light spike nephew beauty skull fan tag";

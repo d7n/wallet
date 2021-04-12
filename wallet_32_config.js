@@ -1,1 +1,1 @@
-var mnemonic = "begin rookie royal life sing badge oven sugar music lend fever sample";
+var mnemonic = "apart cabin alien machine october wait there radar caught horror gesture employ";

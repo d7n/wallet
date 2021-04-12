@@ -1,1 +1,1 @@
-var mnemonic = "seven fragile phone live pluck cement crumble valve excuse tide impulse achieve";
+var mnemonic = "code eternal settle success knife stay cost grass slow enact pepper oval";

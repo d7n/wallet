@@ -1,1 +1,1 @@
-var mnemonic = "daring output exile whip cherry friend stomach liar flight tray figure question";
+var mnemonic = "industry monkey insane victory mixed pill receive speed used tobacco camera brown";

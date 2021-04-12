@@ -1,1 +1,1 @@
-var mnemonic = "make cube write famous crazy harbor deer bitter echo true space voyage";
+var mnemonic = "diamond depth awful hollow follow able vibrant clip large idea avoid cheese";

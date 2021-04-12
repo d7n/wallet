@@ -1,1 +1,1 @@
-var mnemonic = "tortoise coast impact weird magic soldier pyramid busy brick lemon apology gravity";
+var mnemonic = "zone nut kingdom magic home middle pact wheat mistake surface name place";

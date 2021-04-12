@@ -1,1 +1,1 @@
-var mnemonic = "cluster rough obey antenna that they group cost garment uphold belt invite";
+var mnemonic = "uphold easy account boy lion float guide famous damage glory super radio";

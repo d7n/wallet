@@ -1,1 +1,1 @@
-var mnemonic = "badge sponsor visa error fossil fork hint fashion celery bunker able report";
+var mnemonic = "crater panda evolve theory obvious orient aim danger cargo corn junior response";

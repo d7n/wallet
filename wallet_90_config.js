@@ -1,1 +1,1 @@
-var mnemonic = "hill define siege wash betray vicious draw burst emerge enhance analyst joke";
+var mnemonic = "assist tobacco forward bean search metal health cliff dentist surface badge monkey";

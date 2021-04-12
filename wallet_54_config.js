@@ -1,1 +1,1 @@
-var mnemonic = "online mixed drop door grant among wrong giraffe silk soda beauty number";
+var mnemonic = "margin access scatter pattern ride suspect find simple demand alpha jump page";

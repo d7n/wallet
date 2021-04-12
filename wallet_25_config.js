@@ -1,1 +1,1 @@
-var mnemonic = "shadow butter deliver candy expire answer foam during sadness check ice sure";
+var mnemonic = "alpha render hood alien avoid venue pact exchange theory orphan scatter brief";

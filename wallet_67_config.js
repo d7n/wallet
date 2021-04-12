@@ -1,1 +1,1 @@
-var mnemonic = "nut decide valve length update deer fluid cattle manage fuel ketchup kit";
+var mnemonic = "butter escape nominee rabbit leaf fire blouse imitate upgrade tennis hamster grunt";

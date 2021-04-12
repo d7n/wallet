@@ -1,1 +1,1 @@
-var mnemonic = "inflict smoke lecture worth skull loyal glove spoon receive design scene cream";
+var mnemonic = "nation turn repair goat strike planet kit remain abandon blouse reveal catch";

@@ -1,1 +1,1 @@
-var mnemonic = "castle brick traffic someone jacket tray silver flee member frozen picture squirrel";
+var mnemonic = "guard vital force drink moon staff square regular ill upgrade steak recipe";

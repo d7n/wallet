@@ -1,1 +1,1 @@
-var mnemonic = "genius feature iron favorite either tomorrow limb warm judge vacant sadness vibrant";
+var mnemonic = "keep oyster shallow describe exhibit insane legal recycle truck imitate write diet";

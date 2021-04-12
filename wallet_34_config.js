@@ -1,1 +1,1 @@
-var mnemonic = "glue danger decorate language room skill maximum palm glimpse nurse bicycle heart";
+var mnemonic = "tired nature lend reveal top patrol park medal exile city wet adapt";

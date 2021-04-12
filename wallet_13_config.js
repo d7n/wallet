@@ -1,1 +1,1 @@
-var mnemonic = "despair false arm street ozone easy tattoo wedding news enemy abuse gift";
+var mnemonic = "cupboard pull exhibit glow area liar cave popular effort humor stick ill";

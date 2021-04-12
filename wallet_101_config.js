@@ -1,1 +1,1 @@
-var mnemonic = "basic kitten again head donate kit phrase captain number live walnut reason";
+var mnemonic = "plastic problem balance month frequent decline prosper opera only entry insect trap";

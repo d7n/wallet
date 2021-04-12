@@ -1,1 +1,1 @@
-var mnemonic = "seat bullet loop barely hotel loud picture delay release expect ritual please";
+var mnemonic = "globe list patient someone lounge news edge emerge proud opera consider gossip";

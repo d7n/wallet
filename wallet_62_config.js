@@ -1,1 +1,1 @@
-var mnemonic = "cattle try physical prison upper chuckle find debate furnace rack air energy";
+var mnemonic = "price soldier spray later inspire sound enact taxi swallow shrug census hospital";

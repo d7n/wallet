@@ -1,1 +1,1 @@
-var mnemonic = "consider dentist ramp mule pause zero spirit heavy autumn dinner vibrant oblige";
+var mnemonic = "bleak palm brain security stone nut govern uncle connect soldier hill congress";

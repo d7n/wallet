@@ -1,1 +1,1 @@
-var mnemonic = "midnight ready text guilt absorb test special animal april jelly mosquito foam";
+var mnemonic = "great crash team settle envelope retreat remain link wash expire carry hedgehog";

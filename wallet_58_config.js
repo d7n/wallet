@@ -1,1 +1,1 @@
-var mnemonic = "nothing ivory tooth spell alien rain language twenty rival transfer kit tenant";
+var mnemonic = "barrel bracket flee series cruel forward inspire pelican inherit wrong off daring";

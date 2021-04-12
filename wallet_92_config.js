@@ -1,1 +1,1 @@
-var mnemonic = "tissue lesson meat royal matrix awkward plastic country sample august jungle alert";
+var mnemonic = "dizzy enemy true still soon thing gold chapter trumpet flower maze visa";

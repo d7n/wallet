@@ -1,1 +1,1 @@
-var mnemonic = "leaf detect remind slam visit attract sadness height small ethics initial spend";
+var mnemonic = "yard round gravity pitch saddle install silly tilt mixed layer mean fall";

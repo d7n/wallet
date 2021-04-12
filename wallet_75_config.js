@@ -1,1 +1,1 @@
-var mnemonic = "curtain erupt turn photo will bunker omit bullet gossip chalk gift until";
+var mnemonic = "omit visa run whip gas solution primary tourist call mechanic vote early";

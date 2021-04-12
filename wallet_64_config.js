@@ -1,1 +1,1 @@
-var mnemonic = "dawn faculty gown gravity slim oak submit cancel during fiction dose weapon";
+var mnemonic = "end guess furnace vault number dynamic typical gas vicious tissue animal gallery";

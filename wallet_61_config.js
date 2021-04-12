@@ -1,1 +1,1 @@
-var mnemonic = "novel skin culture decide uncle tenant laptop resist action salad cruel jeans";
+var mnemonic = "year pudding photo spread world fatal dash stable giraffe sick clinic diet";

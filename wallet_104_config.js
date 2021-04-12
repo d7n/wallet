@@ -1,1 +1,1 @@
-var mnemonic = "dinner dignity surprise coyote guide submit anger between borrow mirror sudden nuclear";
+var mnemonic = "tree cloud tip blood panther ripple curtain huge shuffle topple bargain vacuum";

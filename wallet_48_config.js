@@ -1,1 +1,1 @@
-var mnemonic = "truck rough zero point notable glad enough gloom panther lawsuit program wire";
+var mnemonic = "explain shrimp castle adjust duck super decorate leopard cave indoor canyon clown";

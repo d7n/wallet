@@ -1,1 +1,1 @@
-var mnemonic = "sample daughter office oyster perfect verb insane camp valid blanket liberty notable";
+var mnemonic = "accuse churn sunny sauce wreck rebel flee rib whale excite dutch canyon";

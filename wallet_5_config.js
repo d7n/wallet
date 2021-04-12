@@ -1,1 +1,1 @@
-var mnemonic = "ball basic skill smart chimney dice addict wool exact cabbage have sweet";
+var mnemonic = "rely mobile zone movie olympic glory raw allow remain web talent physical";

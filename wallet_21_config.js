@@ -1,1 +1,1 @@
-var mnemonic = "raw safe limb betray drip dinosaur estate crisp nature frost kiwi jacket";
+var mnemonic = "need garbage tortoise crush chalk sense force fat program glass device wire";

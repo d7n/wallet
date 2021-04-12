@@ -1,1 +1,1 @@
-var mnemonic = "around note useless loan leopard major wire arm rhythm history own web";
+var mnemonic = "borrow toilet nurse harvest way wall solar during input trial junior wink";

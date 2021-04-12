@@ -1,1 +1,1 @@
-var mnemonic = "chronic accident champion exclude bleak concert seat ability boil rice genre burst";
+var mnemonic = "rail lake boy tank stove fire early mixture blood ramp hotel stool";

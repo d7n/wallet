@@ -1,1 +1,1 @@
-var mnemonic = "obvious ancient chicken abstract coast turtle false repeat negative tell ten worth";
+var mnemonic = "print fish plug lunch initial blanket engage fade ten sight mix jeans";

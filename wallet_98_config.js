@@ -1,1 +1,1 @@
-var mnemonic = "coach mechanic gasp donkey spy leaf chef fame nut thrive omit defy";
+var mnemonic = "flush rebel average steel fragile today tortoise catch assume shoot jealous visit";

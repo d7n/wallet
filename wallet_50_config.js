@@ -1,1 +1,1 @@
-var mnemonic = "gesture life glimpse lottery wait cup piano bitter snow night few pair";
+var mnemonic = "rib tool ceiling jungle proud six visa rebel accuse enable laundry soccer";

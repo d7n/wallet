@@ -1,1 +1,1 @@
-var mnemonic = "lobster palace pioneer other able dose race general basket van absurd tissue";
+var mnemonic = "lunch foster jazz elephant metal modify delay focus prepare spirit cherry slush";

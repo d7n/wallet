@@ -1,1 +1,1 @@
-var mnemonic = "concert evolve aim sure rose syrup rain fork risk laundry purchase creek";
+var mnemonic = "welcome example donate region issue volcano arch empower balcony ceiling credit correct";

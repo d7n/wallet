@@ -1,1 +1,1 @@
-var mnemonic = "patient tobacco example rally glimpse menu segment gather rather whip inherit viable";
+var mnemonic = "flag honey describe pact security truck river ordinary allow nerve crawl spin";

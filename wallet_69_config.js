@@ -1,1 +1,1 @@
-var mnemonic = "actual salmon name copper arrest velvet oppose level taste pulp civil two";
+var mnemonic = "remind fabric vendor action toilet smooth absurd spare tennis perfect motor hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid skin wash cake danger alien mirror trap forum empower victory duck";
+var mnemonic = "milk limb bounce hazard clean grape mean mind high chaos female zebra";

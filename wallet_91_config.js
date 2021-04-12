@@ -1,1 +1,1 @@
-var mnemonic = "stadium embody memory marble inmate wonder apart custom patrol try pig canyon";
+var mnemonic = "stuff drink opinion salt science apart aunt surround join sausage chunk galaxy";

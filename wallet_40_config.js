@@ -1,1 +1,1 @@
-var mnemonic = "defy giraffe chase blame combine jelly deal matter thing become olympic drum";
+var mnemonic = "inner expire earn ask clay magic leave offer office exhibit custom laugh";

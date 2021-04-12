@@ -1,1 +1,1 @@
-var mnemonic = "cross correct ignore room enlist youth motion certain lucky surprise puppy mother";
+var mnemonic = "course prefer stadium volcano warrior gorilla fatal stone betray spirit range eight";

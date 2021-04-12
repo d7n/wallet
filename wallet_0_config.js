@@ -1,1 +1,1 @@
-var mnemonic = "opinion purse busy acoustic raise select isolate cluster south juice clip super";
+var mnemonic = "pigeon twelve setup token coast notice mirror always project idle direct silk";

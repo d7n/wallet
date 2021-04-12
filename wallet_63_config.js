@@ -1,1 +1,1 @@
-var mnemonic = "ten elite miss inform anchor will helmet winner unlock index eyebrow globe";
+var mnemonic = "dove whisper gift saddle grid access girl scrap prevent wisdom gloom muscle";

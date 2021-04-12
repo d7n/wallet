@@ -1,1 +1,1 @@
-var mnemonic = "double squirrel gift clutch piece chronic memory twice inquiry gift wash gallery";
+var mnemonic = "cigar ticket symptom name proof grass super settle analyst august season decade";

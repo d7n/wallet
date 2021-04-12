@@ -1,1 +1,1 @@
-var mnemonic = "crazy accident culture detail minute someone rigid fly panel opera carry target";
+var mnemonic = "ridge attitude record ozone flight vessel raven define word treat dry pudding";

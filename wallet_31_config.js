@@ -1,1 +1,1 @@
-var mnemonic = "wedding viable either switch coach cancel remind kitchen envelope little dumb draw";
+var mnemonic = "reason cheap become quality country wedding prosper tackle mobile decade throw uphold";

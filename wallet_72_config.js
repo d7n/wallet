@@ -1,1 +1,1 @@
-var mnemonic = "amazing exercise sausage deposit armed sugar direct zoo connect science clip south";
+var mnemonic = "bind gorilla project dirt cheap humor ball cradle walnut miss pilot matrix";

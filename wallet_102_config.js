@@ -1,1 +1,1 @@
-var mnemonic = "walk calm lesson fan rescue clap weapon liquid luggage bird frequent rain";
+var mnemonic = "else wrist injury chapter elite gaze noble habit visual cherry best spy";

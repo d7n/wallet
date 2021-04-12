@@ -1,1 +1,1 @@
-var mnemonic = "bargain actual enforce great page eight tooth dove sponsor cherry alien degree";
+var mnemonic = "faculty lumber dwarf frown fashion history square sudden reopen garment resist frost";

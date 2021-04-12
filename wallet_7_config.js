@@ -1,1 +1,1 @@
-var mnemonic = "differ approve frame board dad woman black magic body ability decide brass";
+var mnemonic = "warm gold lobster swear ordinary peasant rate observe enhance climb exact pipe";

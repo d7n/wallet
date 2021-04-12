@@ -1,1 +1,1 @@
-var mnemonic = "reveal they student adapt build between aisle hundred sock deposit deer hobby";
+var mnemonic = "profit october lottery extra silly tunnel wagon afraid blouse dash east response";

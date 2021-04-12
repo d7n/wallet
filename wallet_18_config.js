@@ -1,1 +1,1 @@
-var mnemonic = "april ranch soap destroy play flower fossil canoe unknown route intact parent";
+var mnemonic = "leader spring sound island develop funny still purity aisle popular address foam";

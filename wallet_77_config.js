@@ -1,1 +1,1 @@
-var mnemonic = "attack remember digital ticket remember find surprise mammal chase embark eager magnet";
+var mnemonic = "exotic nothing cattle what field business demise smile only avocado cost ready";

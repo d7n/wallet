@@ -1,1 +1,1 @@
-var mnemonic = "box magic meat magic cart bubble already industry upon once benefit bounce";
+var mnemonic = "provide roof awkward idea gossip hidden ethics web awkward quiz globe tooth";

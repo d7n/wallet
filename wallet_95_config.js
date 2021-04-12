@@ -1,1 +1,1 @@
-var mnemonic = "school shine cave cushion reveal dry double blast sphere ginger case pride";
+var mnemonic = "leave grant despair seek flat tornado absorb artist real coral cave copper";

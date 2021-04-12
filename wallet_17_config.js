@@ -1,1 +1,1 @@
-var mnemonic = "swap run call bubble coin decide leaf giraffe cram bird kidney shove";
+var mnemonic = "proof flock bless income payment begin clock cruise idle race sun ice";

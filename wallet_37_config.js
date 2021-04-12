@@ -1,1 +1,1 @@
-var mnemonic = "stamp horse wrap scorpion bounce weapon medal caution baby stand direct evolve";
+var mnemonic = "shop rebel memory equip wrist tonight feature legal glue correct emerge fade";

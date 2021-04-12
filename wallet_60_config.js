@@ -1,1 +1,1 @@
-var mnemonic = "friend autumn echo bargain vehicle often chase clock blade drift load credit";
+var mnemonic = "frame access rich chimney also fluid mistake curious december still glare curtain";

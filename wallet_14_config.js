@@ -1,1 +1,1 @@
-var mnemonic = "famous undo poverty snake turn spatial dove upon unhappy brain drive nice";
+var mnemonic = "extend away gadget local dish frame laptop cram cream blush strike wine";

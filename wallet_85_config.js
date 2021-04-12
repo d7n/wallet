@@ -1,1 +1,1 @@
-var mnemonic = "abandon life real hungry circle muscle nurse bomb garment spell crime crash";
+var mnemonic = "else noble smile valid excite bird furnace awful brisk please salute craft";

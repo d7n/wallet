@@ -1,1 +1,1 @@
-var mnemonic = "trap stereo bitter miss anxiety cake balance similar term valid absurd weather";
+var mnemonic = "upper swing salute addict network behind water own manage warfare catch heart";

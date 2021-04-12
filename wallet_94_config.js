@@ -1,1 +1,1 @@
-var mnemonic = "use mercy depart immense column margin shop giraffe educate master club face";
+var mnemonic = "deny explain digital turkey arm dog minimum crumble final wool plastic owner";

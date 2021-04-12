@@ -1,1 +1,1 @@
-var mnemonic = "vote above december ice bright door trouble foil legal horse dial advance";
+var mnemonic = "story use ticket tragic spy base protect disorder blanket erupt clock drink";

@@ -1,1 +1,1 @@
-var mnemonic = "service burden random crash van point budget pact grass omit need atom";
+var mnemonic = "solution stick push tornado quick robot blanket valley daring prize fog arctic";

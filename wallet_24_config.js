@@ -1,1 +1,1 @@
-var mnemonic = "impulse cover help attack orphan exile assume shy pyramid income noble version";
+var mnemonic = "execute roast vessel since tape cactus valley mule route item nephew rebuild";

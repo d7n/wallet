@@ -1,1 +1,1 @@
-var mnemonic = "lobster shield maid mesh blue ignore upset size ranch wrestle runway stuff";
+var mnemonic = "genius inner wool print cradle obscure system medal fruit pipe ten lava";

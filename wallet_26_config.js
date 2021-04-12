@@ -1,1 +1,1 @@
-var mnemonic = "wrong rotate inside awkward ability course theory cart stem recycle century priority";
+var mnemonic = "neglect absurd venture unfold purity hero vocal blood solar twice actress receive";

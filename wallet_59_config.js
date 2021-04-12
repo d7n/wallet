@@ -1,1 +1,1 @@
-var mnemonic = "poverty swallow flat distance gym survey year during glide intact typical country";
+var mnemonic = "ill stem bachelor asset essay girl apple green blade crime lizard honey";

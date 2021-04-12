@@ -1,1 +1,1 @@
-var mnemonic = "whale clown satisfy relief lounge reunion badge security stadium limb adult palace";
+var mnemonic = "long beyond tree pink stove attract auto able shed gather penalty mother";

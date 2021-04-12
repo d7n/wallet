@@ -1,1 +1,1 @@
-var mnemonic = "deer tribe hour random urge hole world wave liar budget dragon basic";
+var mnemonic = "identify gold sentence spray seek point group expect super question notable tobacco";

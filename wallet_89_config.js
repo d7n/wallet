@@ -1,1 +1,1 @@
-var mnemonic = "vivid betray parade canvas public runway cloud wing sad census stamp dinner";
+var mnemonic = "want cream shrimp timber plate unknown erode photo there atom book buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "wet picture shock soul illness calm dilemma punch spike affair fish cheese";
+var mnemonic = "clinic spatial sorry elite escape render advice clip arena conduct people castle";

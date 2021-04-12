@@ -1,1 +1,1 @@
-var mnemonic = "achieve gas inject exclude spawn cotton job innocent abstract end spider eyebrow";
+var mnemonic = "remind crawl wave anxiety stool royal ignore banner acoustic salad steak spike";

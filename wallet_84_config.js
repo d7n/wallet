@@ -1,1 +1,1 @@
-var mnemonic = "sausage neither negative tide bunker same amateur gas easily velvet waste shadow";
+var mnemonic = "heart flee romance brother always anxiety universe burger split wisdom practice envelope";

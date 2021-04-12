@@ -1,1 +1,1 @@
-var mnemonic = "asthma twenty derive mention off tiny panel zoo achieve hole hole day";
+var mnemonic = "man business wonder bunker vibrant catalog payment gaze dumb make useless insect";

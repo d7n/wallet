@@ -1,1 +1,1 @@
-var mnemonic = "minute head candy tent shallow narrow country radar energy faith ginger announce";
+var mnemonic = "caution adjust false oven setup connect foil citizen bench addict absorb salmon";

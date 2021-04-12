@@ -1,1 +1,1 @@
-var mnemonic = "have stomach enemy either hotel crime unique pride achieve stadium night cage";
+var mnemonic = "advice toe walnut arena north square donate letter capable hybrid wisdom month";

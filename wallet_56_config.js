@@ -1,1 +1,1 @@
-var mnemonic = "enough front prepare extend bullet jar minimum grid quiz soft health water";
+var mnemonic = "neck pilot artefact volcano depth bus mention nature skill bullet paddle embrace";

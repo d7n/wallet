@@ -1,1 +1,1 @@
-var mnemonic = "coral knee pistol sound below fancy clog modify insane home major young";
+var mnemonic = "bring fitness magnet pistol person sadness cube retreat huge birth elite tone";

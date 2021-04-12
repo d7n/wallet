@@ -1,1 +1,1 @@
-var mnemonic = "trade plastic green depth ship ocean debate rice chapter off cave praise";
+var mnemonic = "photo pill smooth federal transfer shoe net nasty identify grit say patrol";

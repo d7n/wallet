@@ -1,1 +1,1 @@
-var mnemonic = "hard gasp hawk control start behind occur devote blur also useful exclude";
+var mnemonic = "kit display appear kangaroo vast tomorrow coral company soda purity old banner";

@@ -1,1 +1,1 @@
-var mnemonic = "one sibling art visa dad question hidden maple trouble broken arrest image";
+var mnemonic = "final token security turn bottom usage bid price mistake trash aunt year";

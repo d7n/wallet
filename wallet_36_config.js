@@ -1,1 +1,1 @@
-var mnemonic = "hold bulk record dose trash large leader tackle alarm tomorrow math topic";
+var mnemonic = "bronze paddle hamster invite enhance obtain urban label emotion tone intact version";

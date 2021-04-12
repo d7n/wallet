@@ -1,1 +1,1 @@
-var mnemonic = "frame excess appear regret doctor truck fatigue simple admit wasp hill charge";
+var mnemonic = "benefit power hair simple van scrub weasel wasp trumpet guilt lazy night";
