@@ -1,1 +1,1 @@
-var mnemonic = "power electric proof gain hungry spare expire rent invite pizza jazz winner";
+var mnemonic = "answer empower carpet leader slim skirt lesson quit divert topic whip easy";

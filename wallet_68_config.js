@@ -1,1 +1,1 @@
-var mnemonic = "glare shy lend surge nominee skull fault shell dragon cable ahead diet";
+var mnemonic = "notice winter extend cinnamon bleak file lawn stable scare smoke pioneer pig";

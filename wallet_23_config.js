@@ -1,1 +1,1 @@
-var mnemonic = "shy pitch hip lens drive figure tackle puzzle model orchard end occur";
+var mnemonic = "juice grant olympic when pulse siege render endorse grunt thank oven skull";

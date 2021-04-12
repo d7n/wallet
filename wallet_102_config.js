@@ -1,1 +1,1 @@
-var mnemonic = "glance upon question disease indoor rigid creek destroy save kite arrest abandon";
+var mnemonic = "combine shadow asset act roast tunnel away fiscal scheme river portion adult";

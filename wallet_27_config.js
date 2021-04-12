@@ -1,1 +1,1 @@
-var mnemonic = "system tornado work name harvest unique destroy unable credit conduct mouse twelve";
+var mnemonic = "badge among fly say mobile duty essay glove hint invite path typical";

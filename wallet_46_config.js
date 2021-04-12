@@ -1,1 +1,1 @@
-var mnemonic = "empower task budget flavor bridge hair guard diamond infant weird pistol casino";
+var mnemonic = "caution march timber elbow liar leg student hour era lizard mansion earth";

@@ -1,1 +1,1 @@
-var mnemonic = "because diesel ride true owner project waste clutch cable over camp flame";
+var mnemonic = "plunge network collect gold sell indoor reduce subway cry leopard erupt tent";

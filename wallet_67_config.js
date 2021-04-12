@@ -1,1 +1,1 @@
-var mnemonic = "inhale salad stay pond add mixture catch bracket empower ring night hard";
+var mnemonic = "science task provide recipe erosion sing expand journey myth finger lend soldier";

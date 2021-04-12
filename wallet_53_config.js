@@ -1,1 +1,1 @@
-var mnemonic = "economy elegant people response skin parrot tuition inspire orient neck near fall";
+var mnemonic = "love end venture sand tiny rent final evoke flock tomato output key";

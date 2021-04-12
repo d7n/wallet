@@ -1,1 +1,1 @@
-var mnemonic = "sun certain arm sweet wine once welcome sail matrix burst pause garage";
+var mnemonic = "dose wet scan ball rubber cattle enroll enroll wasp sadness rug cry";

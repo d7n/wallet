@@ -1,1 +1,1 @@
-var mnemonic = "radar turkey average minimum frog excite glove cream crawl measure category garlic";
+var mnemonic = "view harvest arrive bachelor code magic detect fit raccoon morning alter scissors";

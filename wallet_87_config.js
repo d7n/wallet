@@ -1,1 +1,1 @@
-var mnemonic = "sketch video lake exchange orange explain list slice depend hedgehog draw cigar";
+var mnemonic = "nose monitor bind access rain alter seven bamboo okay raccoon load army";

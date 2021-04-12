@@ -1,1 +1,1 @@
-var mnemonic = "rookie fiber tenant review smile reject net history treat utility stadium pumpkin";
+var mnemonic = "rapid renew flight flame join sponsor exit battle divorce refuse august still";

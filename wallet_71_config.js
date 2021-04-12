@@ -1,1 +1,1 @@
-var mnemonic = "town illegal lazy bunker use sad fiscal crunch cotton skill hope taste";
+var mnemonic = "mule photo tenant author upon sniff vivid sheriff fork dwarf between lumber";

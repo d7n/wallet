@@ -1,1 +1,1 @@
-var mnemonic = "abuse swear loyal execute action husband mushroom trophy plunge negative barely luxury";
+var mnemonic = "liquid silent then blur enjoy rigid practice diamond flee double bundle evoke";

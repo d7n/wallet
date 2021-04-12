@@ -1,1 +1,1 @@
-var mnemonic = "bus chunk cream patrol globe great human bubble refuse verify roast patrol";
+var mnemonic = "bright knee zoo tail wife curve fantasy across hurry ridge cause limb";

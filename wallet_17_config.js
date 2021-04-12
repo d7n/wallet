@@ -1,1 +1,1 @@
-var mnemonic = "disease march when change divert aerobic kick usual tool alpha pink roof";
+var mnemonic = "nose vessel flag below antenna inherit sign kind riot middle garden top";

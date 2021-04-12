@@ -1,1 +1,1 @@
-var mnemonic = "bike push develop myself federal cabin tooth grape there kind fluid regular";
+var mnemonic = "thing volume glare dance home hub person child legal mechanic trim tribe";

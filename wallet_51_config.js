@@ -1,1 +1,1 @@
-var mnemonic = "torch absorb post pulp speak slice wagon fee dilemma apart end impulse";
+var mnemonic = "original stadium stage divorce hawk flee settle curious edit royal people squirrel";

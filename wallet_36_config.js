@@ -1,1 +1,1 @@
-var mnemonic = "silly wood obtain dragon section luggage charge street egg because shy sad";
+var mnemonic = "energy mimic banana awkward gauge such agree regret lazy train educate suffer";

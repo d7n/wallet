@@ -1,1 +1,1 @@
-var mnemonic = "ordinary torch final month nuclear lawsuit loop depend enforce solar torch region";
+var mnemonic = "viable edit exhaust super save guide total lawn corn shiver announce blade";

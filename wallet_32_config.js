@@ -1,1 +1,1 @@
-var mnemonic = "among hurry brand endless list gauge waste energy front glow shell leisure";
+var mnemonic = "nephew leisure lava pride sniff bundle slight sea load party unfair mystery";

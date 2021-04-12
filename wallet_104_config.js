@@ -1,1 +1,1 @@
-var mnemonic = "guide merit clip super suggest enable random flock blush shed check december";
+var mnemonic = "hotel proud walnut know ask noble wheel pupil conduct scrub outdoor column";

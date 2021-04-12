@@ -1,1 +1,1 @@
-var mnemonic = "hub coach come loud vital agree dolphin address pottery blue lend urban";
+var mnemonic = "myself mule negative sniff anger coil satoshi almost birth jacket sausage despair";

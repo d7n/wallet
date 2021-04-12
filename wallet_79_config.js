@@ -1,1 +1,1 @@
-var mnemonic = "angry try lock clean rain audit rural egg primary antique cupboard object";
+var mnemonic = "relief borrow pulp pair like boss cool vicious since verb blush wife";

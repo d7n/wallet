@@ -1,1 +1,1 @@
-var mnemonic = "extra trip walk jungle curious flash where small toast latin under market";
+var mnemonic = "lecture allow woman fossil wagon skull wide exact chaos health kick occur";

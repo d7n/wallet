@@ -1,1 +1,1 @@
-var mnemonic = "guess unique episode gravity recall liar subway viable boat mobile list unfold";
+var mnemonic = "prepare nurse more example second fold crumble wife model meadow kingdom alone";

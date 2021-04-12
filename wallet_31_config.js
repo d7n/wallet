@@ -1,1 +1,1 @@
-var mnemonic = "tortoise tuna trap young glow inmate bone main lobster clinic cup police";
+var mnemonic = "merry will swap slush just ritual royal toast enact calm curious switch";

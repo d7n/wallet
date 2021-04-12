@@ -1,1 +1,1 @@
-var mnemonic = "fan shadow dust radio bar tackle awesome error retire patrol hawk popular";
+var mnemonic = "dune voice adjust whale record danger shoe excess learn render keep minimum";

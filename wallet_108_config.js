@@ -1,1 +1,1 @@
-var mnemonic = "pitch trumpet desert remember avocado crucial slush list fun honey sorry coach";
+var mnemonic = "feature crunch humor trigger swallow menu tragic year expand decide glove trophy";

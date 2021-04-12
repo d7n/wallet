@@ -1,1 +1,1 @@
-var mnemonic = "marriage solar media soda access useful pelican wave wrist senior distance work";
+var mnemonic = "oyster despair junk slim loan blouse gun drink glimpse recipe almost wisdom";

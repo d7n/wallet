@@ -1,1 +1,1 @@
-var mnemonic = "river rebel cluster hundred judge cattle detail aisle radio improve pass exact";
+var mnemonic = "real add deposit island struggle resource volcano race document bring true scale";

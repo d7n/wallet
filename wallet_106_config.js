@@ -1,1 +1,1 @@
-var mnemonic = "lend ski shy room couch act wave undo across trade shadow acid";
+var mnemonic = "check sponsor text gift gospel quarter unknown people hidden reason bus frost";

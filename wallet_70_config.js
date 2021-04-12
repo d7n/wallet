@@ -1,1 +1,1 @@
-var mnemonic = "recycle owner relief force grow old tree wrong own initial aisle federal";
+var mnemonic = "artefact exclude pink push demise bench welcome spot scatter rookie crystal three";

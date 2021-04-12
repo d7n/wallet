@@ -1,1 +1,1 @@
-var mnemonic = "tourist wave blossom hat idle draft divide athlete effort kit boil garlic";
+var mnemonic = "dragon bamboo figure cotton faint confirm solar equal board slogan usage basic";

@@ -1,1 +1,1 @@
-var mnemonic = "nation wheel tell chronic snake auction current harvest survey whale oil add";
+var mnemonic = "abandon intact eye wisdom able sniff lyrics cart cactus topic color parade";

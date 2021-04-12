@@ -1,1 +1,1 @@
-var mnemonic = "outside element broken abstract timber first hollow rally know any spin over";
+var mnemonic = "early proud warfare clock resemble verify rate main vicious relax alarm foam";

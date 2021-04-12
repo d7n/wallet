@@ -1,1 +1,1 @@
-var mnemonic = "cat unusual limit funny life flip ordinary night blame quality cave master";
+var mnemonic = "drum green coyote hold true arm subject siren wrap south meadow clay";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer sentence mixture toe shop size skull time calm current rack you";
+var mnemonic = "track regret copper code tissue marine faculty mom arrow census shoe pepper";

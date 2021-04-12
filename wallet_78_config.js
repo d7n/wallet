@@ -1,1 +1,1 @@
-var mnemonic = "box puppy hat nuclear enroll that upset rely cheap submit lounge club";
+var mnemonic = "grape build online tragic hawk apart indoor struggle moon virtual spot describe";

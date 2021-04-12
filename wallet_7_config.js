@@ -1,1 +1,1 @@
-var mnemonic = "vocal shoe bean scare inject hub inner below noise chest stock twenty";
+var mnemonic = "silent bus rookie boost twelve frog patch bright float card expire edit";

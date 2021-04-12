@@ -1,1 +1,1 @@
-var mnemonic = "unique culture entry grocery strike twenty best achieve ladder meadow wire inspire";
+var mnemonic = "happy goose expand stage worry denial salt patrol mad embody club carpet";

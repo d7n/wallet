@@ -1,1 +1,1 @@
-var mnemonic = "rent acid suspect breeze bag verb rose loyal gossip diary coconut bomb";
+var mnemonic = "famous bench assume horn dentist toward syrup pave board early unhappy alarm";

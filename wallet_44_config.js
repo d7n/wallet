@@ -1,1 +1,1 @@
-var mnemonic = "treat eyebrow income age muffin glue obtain bracket frog promote direct fringe";
+var mnemonic = "blush into fetch goat reduce merit someone maple any find rookie science";

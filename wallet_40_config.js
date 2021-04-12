@@ -1,1 +1,1 @@
-var mnemonic = "auction wood color sight toss unable planet grocery accuse struggle pulse stable";
+var mnemonic = "erode recipe scene fury shield record cause sail response rescue owner royal";

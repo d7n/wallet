@@ -1,1 +1,1 @@
-var mnemonic = "manual olive warfare blue person rate dance abuse glow initial fatal intact";
+var mnemonic = "charge awesome question orchard solution dune alert twin public pipe card advice";

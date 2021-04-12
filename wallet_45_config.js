@@ -1,1 +1,1 @@
-var mnemonic = "happy indoor burst dog output black unaware rebel soldier resource seek turn";
+var mnemonic = "page script traffic neglect cute hurry era float evolve kitten sick rule";

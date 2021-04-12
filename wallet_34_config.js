@@ -1,1 +1,1 @@
-var mnemonic = "produce wing gift cotton initial sweet mom define hub kangaroo under rigid";
+var mnemonic = "august damage fatal resource lab talk remain quote disorder hello physical course";

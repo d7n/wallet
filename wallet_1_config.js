@@ -1,1 +1,1 @@
-var mnemonic = "radio describe decide thrive buffalo gorilla quality awkward rural member kid debris";
+var mnemonic = "there usage afford focus girl child festival cream clay next kitchen doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "point vacuum december lady dial dream spice bright now slice purpose area";
+var mnemonic = "need twelve tilt review then clutch detect ride dash file unusual caution";

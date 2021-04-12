@@ -1,1 +1,1 @@
-var mnemonic = "jelly engage lemon inmate sleep gadget gun easily art trash behave fringe";
+var mnemonic = "debate news rotate spring theme river private unfold inner boy oval strike";

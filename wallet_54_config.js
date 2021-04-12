@@ -1,1 +1,1 @@
-var mnemonic = "soft safe argue glare setup easily pencil run sustain pact arm rude";
+var mnemonic = "cheese spend only warm grant custom range chase casino prosper park humble";

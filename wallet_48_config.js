@@ -1,1 +1,1 @@
-var mnemonic = "length cousin meat sting ill velvet wise neither return merry craft butter";
+var mnemonic = "oblige glad rural wall frequent peanut hope grain athlete vintage purity burden";

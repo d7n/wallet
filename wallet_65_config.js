@@ -1,1 +1,1 @@
-var mnemonic = "crucial receive joy addict devote cost envelope nominee skull claw danger must";
+var mnemonic = "response reason angle because transfer chair argue february gospel blue sustain dish";

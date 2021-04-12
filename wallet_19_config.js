@@ -1,1 +1,1 @@
-var mnemonic = "ahead syrup ceiling grid lyrics will race fence swift absorb meadow point";
+var mnemonic = "enlist jazz fine inform spoon someone forget edit wasp general twenty chimney";

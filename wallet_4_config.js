@@ -1,1 +1,1 @@
-var mnemonic = "sweet immune puzzle call ask opinion fun mean original tide panther empty";
+var mnemonic = "skill next head venue wild aspect electric water drink collect become private";

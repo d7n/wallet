@@ -1,1 +1,1 @@
-var mnemonic = "receive whale jump seminar desk true echo paper wide online wagon mechanic";
+var mnemonic = "cube winner control crowd desk agree loan pave evil error clean key";

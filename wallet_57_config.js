@@ -1,1 +1,1 @@
-var mnemonic = "valid gun flee match shock legal wisdom velvet luxury review wash rebel";
+var mnemonic = "logic jaguar gauge focus unit topple duck helmet abandon truly pulse human";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight gasp ranch shoe coral speed timber beach hole memory rival news";
+var mnemonic = "wealth mesh latin junior bring luxury kick remind client upper result female";

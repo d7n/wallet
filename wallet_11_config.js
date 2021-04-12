@@ -1,1 +1,1 @@
-var mnemonic = "ice lab cabbage library topic among orbit lady flee ramp gallery clever";
+var mnemonic = "defy hotel miracle pear opera divide illegal warm enjoy lazy hand version";

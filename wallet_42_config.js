@@ -1,1 +1,1 @@
-var mnemonic = "alien march volcano north book snow empower balcony muffin ugly cup distance";
+var mnemonic = "hand desert able flash mimic pupil muscle yellow caution bubble solve shoot";

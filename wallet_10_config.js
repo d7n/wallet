@@ -1,1 +1,1 @@
-var mnemonic = "luxury region equal arctic reform inside truth amazing grace motion useful arctic";
+var mnemonic = "already lobster observe ethics virus absurd minimum rebuild grant only case breeze";

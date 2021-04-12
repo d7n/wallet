@@ -1,1 +1,1 @@
-var mnemonic = "clog save match story apart success wild humble bridge worth search advance";
+var mnemonic = "cost boost bar require sand enjoy route gasp hockey nasty tell castle";

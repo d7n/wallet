@@ -1,1 +1,1 @@
-var mnemonic = "head slow never feel february worry object refuse cry vital name steak";
+var mnemonic = "piece flash crisp price stem absent absent ten monkey regret smart okay";

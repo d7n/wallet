@@ -1,1 +1,1 @@
-var mnemonic = "ginger copy base vivid buyer excess pact avocado tuition noble scene moral";
+var mnemonic = "like hospital antique reflect use disagree bacon express walnut runway mistake symptom";

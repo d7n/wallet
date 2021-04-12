@@ -1,1 +1,1 @@
-var mnemonic = "into shock divorce artist valve bird replace upper leave beyond cushion world";
+var mnemonic = "obey special indoor say cinnamon option miss casino ride accuse segment fix";

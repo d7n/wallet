@@ -1,1 +1,1 @@
-var mnemonic = "crouch flag rent little smoke dog board survey ozone fall shock mixture";
+var mnemonic = "peanut acid pledge math power disagree advance pyramid special cube laundry size";

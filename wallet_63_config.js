@@ -1,1 +1,1 @@
-var mnemonic = "better drip little neck social palm flip test supply perfect husband prevent";
+var mnemonic = "wish bargain fiscal cabbage drum ensure around media screen level worry behind";

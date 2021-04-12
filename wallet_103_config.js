@@ -1,1 +1,1 @@
-var mnemonic = "wide marble ribbon awful fatigue hen umbrella glare peasant pledge town popular";
+var mnemonic = "helmet certain fine foster exclude maple crater soft brave shock crouch oil";

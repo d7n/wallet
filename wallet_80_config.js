@@ -1,1 +1,1 @@
-var mnemonic = "cage practice never syrup slam leg average father shaft planet type virtual";
+var mnemonic = "despair awesome donate loyal enjoy slight credit neck life sniff devote play";

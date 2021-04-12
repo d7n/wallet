@@ -1,1 +1,1 @@
-var mnemonic = "bubble mad small example ritual expect piece ranch purity hospital kick end";
+var mnemonic = "key grape shop fiction sponsor together number atom exhibit notice remain maid";

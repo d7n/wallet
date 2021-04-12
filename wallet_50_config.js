@@ -1,1 +1,1 @@
-var mnemonic = "admit obvious same hour certain mixed fitness lyrics during useless blade polar";
+var mnemonic = "cattle fragile arrow suffer hobby panel allow voyage debris mirror clip fatigue";

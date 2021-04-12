@@ -1,1 +1,1 @@
-var mnemonic = "drop ankle slide novel believe imitate swap priority shy opera blush street";
+var mnemonic = "frost smooth edit snack inspire volcano eight tragic already renew swim barrel";

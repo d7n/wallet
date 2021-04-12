@@ -1,1 +1,1 @@
-var mnemonic = "inject same market employ ill put used rack rural cricket broken text";
+var mnemonic = "student ceiling exhaust orchard put tired order crumble gorilla lazy youth shock";

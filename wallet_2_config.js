@@ -1,1 +1,1 @@
-var mnemonic = "belt thumb spread cash happy illegal million used diesel tray cash spy";
+var mnemonic = "ladder tortoise echo differ bonus save blur uncover adapt slight wait turn";

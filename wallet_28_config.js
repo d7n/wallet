@@ -1,1 +1,1 @@
-var mnemonic = "eager verb bread warm inspire success industry future final donkey prize best";
+var mnemonic = "weather cost tape antique essay equal belt surround decline yellow surface festival";

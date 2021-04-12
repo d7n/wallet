@@ -1,1 +1,1 @@
-var mnemonic = "bench used critic sea stomach settle target symbol pass romance drama remind";
+var mnemonic = "hawk save legend early debris elbow lend lend captain isolate range elevator";

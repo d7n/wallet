@@ -1,1 +1,1 @@
-var mnemonic = "hire erase crystal strike since sick debris patient switch survey property crew";
+var mnemonic = "wolf slam oblige tunnel flame gate expand remember unknown kiwi fame lobster";

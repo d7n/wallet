@@ -1,1 +1,1 @@
-var mnemonic = "dawn exile earth scatter inquiry atom trumpet oval grit alcohol wrist apart";
+var mnemonic = "tilt dust tooth deliver until magnet exhibit jump hat resist monster lock";

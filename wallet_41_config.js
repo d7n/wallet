@@ -1,1 +1,1 @@
-var mnemonic = "ring rug valid chicken disagree march define also kiwi opera scorpion fluid";
+var mnemonic = "clean exist minimum butter tank climb museum accuse truth differ buzz van";

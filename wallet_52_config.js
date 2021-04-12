@@ -1,1 +1,1 @@
-var mnemonic = "that purse drive scissors casino pipe become iron glide someone there frost";
+var mnemonic = "during squeeze teach scheme liberty fancy dilemma runway cream isolate airport rifle";

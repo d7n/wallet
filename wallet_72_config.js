@@ -1,1 +1,1 @@
-var mnemonic = "major grace year find stomach kitten loop major donkey mind account blouse";
+var mnemonic = "fiscal immense never novel mind mask keep giggle turn police royal horn";

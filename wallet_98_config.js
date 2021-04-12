@@ -1,1 +1,1 @@
-var mnemonic = "join melody element ranch fun asthma boil warm rabbit sample brisk mention";
+var mnemonic = "artist party random drastic fantasy senior right spoon easily fresh void winner";

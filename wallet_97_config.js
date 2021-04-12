@@ -1,1 +1,1 @@
-var mnemonic = "vault caution circle glove sniff virtual anchor razor major now drum crane";
+var mnemonic = "raise milk thunder canvas burst height wait brother merge weekend good casino";

@@ -1,1 +1,1 @@
-var mnemonic = "forum math skull avoid charge coast smile degree card resist enrich sister";
+var mnemonic = "fancy chest sphere rose nurse load fire globe attend fabric weekend put";

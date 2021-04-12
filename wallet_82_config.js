@@ -1,1 +1,1 @@
-var mnemonic = "shy pond barrel cancel force tiny anger make they print error walk";
+var mnemonic = "first sentence credit viable exile tobacco left help trim unhappy review useless";
