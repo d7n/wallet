@@ -1,1 +1,1 @@
-var mnemonic = "sister coconut ensure prefer bachelor achieve gain drastic light vapor banana seat";
+var mnemonic = "various begin include physical knife wasp hurdle organ intact menu theme turtle";

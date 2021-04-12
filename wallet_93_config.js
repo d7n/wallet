@@ -1,1 +1,1 @@
-var mnemonic = "hockey someone captain summer adult minimum box position action treat base title";
+var mnemonic = "juice toss capable mammal trash noise over nut special current cheese sniff";

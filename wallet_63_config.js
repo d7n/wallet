@@ -1,1 +1,1 @@
-var mnemonic = "alcohol alter citizen vapor similar very letter swallow must mercy track swallow";
+var mnemonic = "robot taste scatter soup broccoli other eternal artwork harvest endorse round expire";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn engage demise detail estate local seat perfect rich fault east nose";
+var mnemonic = "trick note lab expand fun bike opinion such shrimp forest lunch mansion";

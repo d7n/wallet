@@ -1,1 +1,1 @@
-var mnemonic = "snap minute celery layer step funny artwork orchard melody ring wave inside";
+var mnemonic = "session evil used pistol certain nephew off can wrap legal music casual";

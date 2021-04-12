@@ -1,1 +1,1 @@
-var mnemonic = "drink rare argue fence stamp six title they loud valve impose alert";
+var mnemonic = "absent hover unfair example onion census stuff fuel kick hero grant frozen";

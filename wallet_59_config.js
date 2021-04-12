@@ -1,1 +1,1 @@
-var mnemonic = "convince parrot beyond tobacco oil fossil kitchen person member ill net dizzy";
+var mnemonic = "other invest catch ritual purchase cry verify pledge arena topic cram gap";

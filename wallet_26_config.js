@@ -1,1 +1,1 @@
-var mnemonic = "hazard task tunnel youth hidden collect fan oil screen gossip foot print";
+var mnemonic = "box couple spell ridge truth gloom sudden effort assault edit stumble gather";

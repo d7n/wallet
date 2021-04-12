@@ -1,1 +1,1 @@
-var mnemonic = "elbow joy peace page loyal smart bean gossip sponsor special harbor cinnamon";
+var mnemonic = "scene embark claw wait remove ship tattoo file radio stomach runway bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran hair miracle series couple beyond sweet grant sauce glue evoke file";
+var mnemonic = "sugar bone fringe wrap hobby insect once prepare make off control mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant polar drift net job rocket hard place follow practice gain exhibit";
+var mnemonic = "liberty present nature guard push unfair park tobacco need shell opinion travel";

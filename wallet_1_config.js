@@ -1,1 +1,1 @@
-var mnemonic = "produce arctic away dream analyst table rate double stone typical proof blind";
+var mnemonic = "rack join weather soup prize sphere library swift weapon kitten deny orange";

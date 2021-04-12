@@ -1,1 +1,1 @@
-var mnemonic = "section auto spawn until portion lemon olive thumb carry candy dinner pottery";
+var mnemonic = "there certain fragile kite where satisfy spread ribbon upset elegant lab chief";

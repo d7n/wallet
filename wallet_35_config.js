@@ -1,1 +1,1 @@
-var mnemonic = "private claw elephant kick fitness poverty sport umbrella poverty surge vocal bless";
+var mnemonic = "odor bar abstract grunt obey snake image paper marble goddess quiz acoustic";

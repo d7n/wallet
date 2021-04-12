@@ -1,1 +1,1 @@
-var mnemonic = "voyage embody wash grace bachelor hidden author clinic magic olive boss cousin";
+var mnemonic = "card weather blue royal finish this series column match effort crack vibrant";

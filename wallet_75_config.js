@@ -1,1 +1,1 @@
-var mnemonic = "diesel vehicle company ancient satisfy muscle inherit cheap intact tortoise unfair transfer";
+var mnemonic = "quote repair inside morning venue ski denial eyebrow toy prepare nest march";

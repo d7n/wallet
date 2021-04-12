@@ -1,1 +1,1 @@
-var mnemonic = "typical guide wonder sad term wide pluck burger wealth cram choice fruit";
+var mnemonic = "give pull almost rocket extra senior divert panel sunny kingdom audit knife";

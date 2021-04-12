@@ -1,1 +1,1 @@
-var mnemonic = "habit lizard season turtle north curve mule cloth state huge farm spin";
+var mnemonic = "balance cherry maze card west pole network doctor proud fat gadget timber";

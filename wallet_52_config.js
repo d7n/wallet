@@ -1,1 +1,1 @@
-var mnemonic = "pear flush fish turtle absurd cannon kite alley mass bike ribbon above";
+var mnemonic = "cable immense erosion choice column alert impact hold employ youth slab table";

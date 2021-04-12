@@ -1,1 +1,1 @@
-var mnemonic = "host column fire raise bachelor vicious olympic slim lonely ivory motor problem";
+var mnemonic = "viable change brick van assume gasp focus affair wrist dismiss age smile";

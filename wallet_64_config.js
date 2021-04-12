@@ -1,1 +1,1 @@
-var mnemonic = "foil initial property turn smooth vendor since dial pink cattle intact chief";
+var mnemonic = "acoustic update shield sniff learn claw federal index note soap cute soldier";

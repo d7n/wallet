@@ -1,1 +1,1 @@
-var mnemonic = "flock enter exit glad legend bean magic dawn target economy disorder upper";
+var mnemonic = "rain urge hawk brass public reflect dove blur abandon face glass amused";

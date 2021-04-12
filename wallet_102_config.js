@@ -1,1 +1,1 @@
-var mnemonic = "adjust toy zero license other guilt helmet check long key define friend";
+var mnemonic = "sunny prison venture quality trouble rib solve scene dolphin muffin fitness quality";

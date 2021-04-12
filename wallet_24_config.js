@@ -1,1 +1,1 @@
-var mnemonic = "panic color logic creek ivory sauce uphold exercise sell chimney man hurt";
+var mnemonic = "bright weasel canyon stand runway remind genuine inmate cook anxiety federal opinion";

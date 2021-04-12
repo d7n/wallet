@@ -1,1 +1,1 @@
-var mnemonic = "now badge boy weather depend month record place leg focus trouble traffic";
+var mnemonic = "advice lava play artist thunder busy orient girl auction donor wave grief";

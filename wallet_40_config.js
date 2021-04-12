@@ -1,1 +1,1 @@
-var mnemonic = "pudding base elder doctor erode hard diet thing joke ten among ignore";
+var mnemonic = "fruit topple season town approve lift replace deal multiply throw alter impact";

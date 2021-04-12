@@ -1,1 +1,1 @@
-var mnemonic = "seed output push friend sell run burger sentence lawsuit captain zero script";
+var mnemonic = "hint ahead keep beach evil glimpse unveil pink today bonus empower cruel";

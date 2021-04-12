@@ -1,1 +1,1 @@
-var mnemonic = "fan bomb lemon inner term guide derive talent voice such identify review";
+var mnemonic = "drill stand nuclear time pond first trial worth maze please add unable";

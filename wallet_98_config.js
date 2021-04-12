@@ -1,1 +1,1 @@
-var mnemonic = "access gravity drip chuckle more bag gate pulse hill trash design canoe";
+var mnemonic = "action visual admit asthma zoo kick forest raccoon device minor unfold add";

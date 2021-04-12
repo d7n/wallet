@@ -1,1 +1,1 @@
-var mnemonic = "predict oxygen symptom almost banner stand moon chicken medal cost boring shed";
+var mnemonic = "suspect hunt dragon tobacco energy better ridge business body very burst rice";

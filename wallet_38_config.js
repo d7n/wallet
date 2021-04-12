@@ -1,1 +1,1 @@
-var mnemonic = "rare slam nerve chuckle girl resemble note render when melody fence train";
+var mnemonic = "caught paddle debate crush bag first credit canyon depth opinion sister congress";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer record cover disorder trophy abuse visual helmet arena sauce good gold";
+var mnemonic = "similar merit air theory slush budget symptom retire betray hospital door equal";

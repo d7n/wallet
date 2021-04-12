@@ -1,1 +1,1 @@
-var mnemonic = "strategy cram quote weather evolve very elevator lens offer reform direct aim";
+var mnemonic = "hundred round buffalo pond metal inform any cliff erode thing shiver choose";

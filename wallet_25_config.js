@@ -1,1 +1,1 @@
-var mnemonic = "document coral axis crumble idle wing alcohol word original sketch enforce athlete";
+var mnemonic = "club unfold rail slogan dragon already crisp destroy jaguar panic palm then";

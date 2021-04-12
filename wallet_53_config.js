@@ -1,1 +1,1 @@
-var mnemonic = "nut satisfy cream retire tape brick add gesture execute depend point oblige";
+var mnemonic = "depth cattle narrow jelly embody kite inner corn shoe tower liberty wet";

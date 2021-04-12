@@ -1,1 +1,1 @@
-var mnemonic = "wrestle bleak deliver impose poverty hurdle visual render inform wall fish they";
+var mnemonic = "real table prepare pencil case combine tunnel obvious tiny improve plug keen";

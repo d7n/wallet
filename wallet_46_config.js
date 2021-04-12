@@ -1,1 +1,1 @@
-var mnemonic = "speed couch that surface rack pact vocal mesh huge rival upset subject";
+var mnemonic = "marble resist hunt robot endless coach proud forum occur victory frost heart";

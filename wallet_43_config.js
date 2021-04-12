@@ -1,1 +1,1 @@
-var mnemonic = "tree floor census panic test right hammer defy ankle reopen law copper";
+var mnemonic = "labor journey uncle trophy also enough satoshi blush mystery cousin text eyebrow";

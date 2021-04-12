@@ -1,1 +1,1 @@
-var mnemonic = "cart travel gauge decrease age negative entry deliver amount chalk library firm";
+var mnemonic = "caught book chase sunset enter february direct chaos later kiwi require uniform";

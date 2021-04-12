@@ -1,1 +1,1 @@
-var mnemonic = "artefact blush already pass method bar later unknown float seven play bonus";
+var mnemonic = "imitate aspect question spirit patient gown jump cruel sunset crack clever chunk";

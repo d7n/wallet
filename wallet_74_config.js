@@ -1,1 +1,1 @@
-var mnemonic = "over seek happy private afraid arctic maple device bean welcome measure sudden";
+var mnemonic = "nephew boy burst story discover edit cycle corn case renew govern push";

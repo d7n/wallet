@@ -1,1 +1,1 @@
-var mnemonic = "satisfy asthma assist ancient royal usual safe clean gift treat century oil";
+var mnemonic = "prefer element follow mimic view solid october kidney sentence cloth brand capable";

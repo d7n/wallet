@@ -1,1 +1,1 @@
-var mnemonic = "rent vapor sing speed visa dry clog hidden price anchor warm slogan";
+var mnemonic = "tank empower wrestle address wasp victory all six valid pluck upper gas";

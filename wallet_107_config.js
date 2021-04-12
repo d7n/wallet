@@ -1,1 +1,1 @@
-var mnemonic = "hill grocery crucial begin bid problem update arrow auto machine hurt wage";
+var mnemonic = "desert powder throw say joke live salute rule salad invest tooth record";

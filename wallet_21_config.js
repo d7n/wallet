@@ -1,1 +1,1 @@
-var mnemonic = "sell butter aim brown frog puppy enough else coyote assist divide mail";
+var mnemonic = "surround empower anger gauge oak federal core company sell episode category code";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace goose obey ritual topic lock ability snake behind brown neglect shrimp";
+var mnemonic = "physical yard exercise festival plug truck throw ride october guess account garlic";

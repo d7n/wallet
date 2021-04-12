@@ -1,1 +1,1 @@
-var mnemonic = "glance hungry enrich brass knock shallow diet debris feel vapor bless resist";
+var mnemonic = "catch panic culture fit charge gallery law fringe weird neglect eager invest";

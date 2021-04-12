@@ -1,1 +1,1 @@
-var mnemonic = "picture quiz junk student aerobic theory damage verify stand wash jewel hawk";
+var mnemonic = "crush warm worry speak sting mimic vacuum ugly huge hip vanish tongue";

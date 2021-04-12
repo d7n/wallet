@@ -1,1 +1,1 @@
-var mnemonic = "viable result hurt gravity mail above profit shoot ridge attract enroll trap";
+var mnemonic = "visual author floor rib thought much tuna accuse proof divorce proof need";

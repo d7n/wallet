@@ -1,1 +1,1 @@
-var mnemonic = "indoor busy devote enjoy lesson vocal expect law frame genius affair become";
+var mnemonic = "emerge range public judge expect weasel corn october destroy resist void miss";

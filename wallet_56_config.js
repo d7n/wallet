@@ -1,1 +1,1 @@
-var mnemonic = "frame title celery today marine circle brand beach cushion gift zoo neither";
+var mnemonic = "friend cloud ready power city update behind nest vehicle process idle finger";

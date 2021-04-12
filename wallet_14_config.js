@@ -1,1 +1,1 @@
-var mnemonic = "orange mouse surprise govern sudden bleak another crack sell indoor result snack";
+var mnemonic = "chef ozone auction poem false myth arm same hurdle include they device";

@@ -1,1 +1,1 @@
-var mnemonic = "race during uncover tragic guess street slogan fringe day crash blanket oak";
+var mnemonic = "black media deposit evolve bleak myself dream man fix pepper flavor mother";

@@ -1,1 +1,1 @@
-var mnemonic = "bag chapter any ketchup egg shoe toast suffer sing shop erosion judge";
+var mnemonic = "biology rough video chase celery name rely rubber trick already surround slim";

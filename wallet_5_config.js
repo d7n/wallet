@@ -1,1 +1,1 @@
-var mnemonic = "name pottery length cream sound please express usage about element language way";
+var mnemonic = "typical timber fence finish ozone elevator own endorse tunnel pipe sauce holiday";

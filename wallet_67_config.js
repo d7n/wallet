@@ -1,1 +1,1 @@
-var mnemonic = "floor ridge rotate detect rural insane honey huge chase minimum else insect";
+var mnemonic = "leisure consider smoke regret special course tired hunt lady multiply potato tonight";

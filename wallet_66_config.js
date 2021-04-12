@@ -1,1 +1,1 @@
-var mnemonic = "scene arrange horror narrow waste blast whale veteran acquire tumble orient foster";
+var mnemonic = "stem various pottery grow fruit ring float begin text shaft retreat sell";

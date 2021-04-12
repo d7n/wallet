@@ -1,1 +1,1 @@
-var mnemonic = "course maximum absurd gain spin car bus merit odor stadium roast state";
+var mnemonic = "eyebrow school wolf decide manage main flock either person pave copy dismiss";

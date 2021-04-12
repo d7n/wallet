@@ -1,1 +1,1 @@
-var mnemonic = "mutual cry possible equip grunt circle photo street mystery invest tissue casual";
+var mnemonic = "remember fatigue charge cactus cave tip submit olympic history sad curve undo";

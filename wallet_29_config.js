@@ -1,1 +1,1 @@
-var mnemonic = "when taxi age pave staff tuna maid narrow pluck road horn illness";
+var mnemonic = "hair egg blood cook maximum absurd coach good business disagree record wedding";

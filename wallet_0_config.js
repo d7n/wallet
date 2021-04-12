@@ -1,1 +1,1 @@
-var mnemonic = "lion trust myth slice suspect coach carry share bronze cheese indicate smile";
+var mnemonic = "strike symbol whale fish hollow sword polar clarify tuna rail inhale either";

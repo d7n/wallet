@@ -1,1 +1,1 @@
-var mnemonic = "ramp lawsuit public wrap journey raw dish romance very index wave neutral";
+var mnemonic = "pig manage raw market inch point entire wear permit salad host coach";

@@ -1,1 +1,1 @@
-var mnemonic = "wink cargo online before version catalog lazy decide fantasy angry upon together";
+var mnemonic = "undo exhibit boring ice novel below cradle mercy december auto above cloud";

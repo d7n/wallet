@@ -1,1 +1,1 @@
-var mnemonic = "song video wave below sphere escape word leg lawsuit idle tip wisdom";
+var mnemonic = "sock excuse option human cross across trend clown eyebrow stand chimney grass";

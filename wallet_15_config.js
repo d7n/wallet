@@ -1,1 +1,1 @@
-var mnemonic = "nothing loyal wasp parent degree elder eight sick common summer flame lecture";
+var mnemonic = "black steak noble bundle ticket hole you empty artwork brain protect jar";

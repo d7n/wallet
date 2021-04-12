@@ -1,1 +1,1 @@
-var mnemonic = "diary warfare leisure void obvious kangaroo caught insect sun pistol vast conduct";
+var mnemonic = "orange ocean dry sword mask bamboo upset common course type cave dinner";

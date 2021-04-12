@@ -1,1 +1,1 @@
-var mnemonic = "gentle latin occur theory galaxy flip announce prevent fresh crouch culture vault";
+var mnemonic = "chalk dash silk actress else during wear size fiber frame unique walnut";

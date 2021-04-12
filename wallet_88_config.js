@@ -1,1 +1,1 @@
-var mnemonic = "panel potato kidney onion ramp cancel library worth farm whisper danger autumn";
+var mnemonic = "confirm loop route diet genuine wolf just conduct park reason chapter junk";

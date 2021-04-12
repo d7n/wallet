@@ -1,1 +1,1 @@
-var mnemonic = "angry athlete teach mean off public neglect practice flock again paddle island";
+var mnemonic = "struggle crane safe wealth route rubber myth car evidence wrong embark raise";

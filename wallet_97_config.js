@@ -1,1 +1,1 @@
-var mnemonic = "cover few peasant worry antenna west teach anchor page accuse number better";
+var mnemonic = "day skate achieve camera bonus timber kidney thumb settle engine brain corn";

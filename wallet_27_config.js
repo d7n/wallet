@@ -1,1 +1,1 @@
-var mnemonic = "dream present hospital crack neglect elder balance busy coach civil crime blast";
+var mnemonic = "chicken weekend radar spell say document link end run news idea fruit";

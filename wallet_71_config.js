@@ -1,1 +1,1 @@
-var mnemonic = "soccer spirit ice select fruit theory imitate claw nothing mutual rifle bottom";
+var mnemonic = "first shadow wisdom inhale arrive muffin roof endorse error allow vanish regret";

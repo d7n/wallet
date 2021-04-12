@@ -1,1 +1,1 @@
-var mnemonic = "parade obey crunch thing illegal year average hungry choice wave author ensure";
+var mnemonic = "wasp video lift become race leopard hundred average dragon give panic knife";

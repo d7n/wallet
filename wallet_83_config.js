@@ -1,1 +1,1 @@
-var mnemonic = "tiny simple mountain online fix snake crazy balance coffee icon hotel remember";
+var mnemonic = "wrist local fly sing mad vicious current credit human sheriff sorry visual";

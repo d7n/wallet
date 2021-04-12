@@ -1,1 +1,1 @@
-var mnemonic = "cupboard brain bless suffer explain rely merry scene shoot zero track inform";
+var mnemonic = "banner couch era oppose pluck update expect account genius holiday marble behave";

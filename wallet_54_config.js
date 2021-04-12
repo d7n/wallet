@@ -1,1 +1,1 @@
-var mnemonic = "sail erupt mail ride office decide spoil battle citizen wonder arrest crisp";
+var mnemonic = "spawn mirror debris honey false stable require option case cherry mosquito wish";

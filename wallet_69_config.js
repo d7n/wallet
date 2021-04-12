@@ -1,1 +1,1 @@
-var mnemonic = "side crouch orchard nose drum retreat toilet pumpkin three nation sign gallery";
+var mnemonic = "source arrange voice trick vehicle version basic middle feature lion ordinary meadow";

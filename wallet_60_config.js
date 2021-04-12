@@ -1,1 +1,1 @@
-var mnemonic = "title measure eagle alley feature pistol cousin warfare purpose entire armed evidence";
+var mnemonic = "flock beauty much mass also fabric guess wire luxury arrange naive net";

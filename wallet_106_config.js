@@ -1,1 +1,1 @@
-var mnemonic = "safe purchase appear allow purity fiction crawl crush gravity brief enter miracle";
+var mnemonic = "winter pitch vehicle gravity output bacon sheriff dismiss volcano rescue city inflict";

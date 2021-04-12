@@ -1,1 +1,1 @@
-var mnemonic = "picnic caution mimic lady service code usage sentence subject armor save page";
+var mnemonic = "cliff nose hill anxiety similar cram spike fabric omit chase symbol boss";

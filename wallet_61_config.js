@@ -1,1 +1,1 @@
-var mnemonic = "pulse fortune quote candy horror spread depth cousin tower sustain stem output";
+var mnemonic = "concert side garden journey soon awkward march quantum rent rather private shoulder";

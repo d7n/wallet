@@ -1,1 +1,1 @@
-var mnemonic = "rough deny blossom thumb subway income myth anger ripple stove sell faculty";
+var mnemonic = "cost joy hold broken split strong load insane series donate real expect";

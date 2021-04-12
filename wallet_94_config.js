@@ -1,1 +1,1 @@
-var mnemonic = "shoe panda dash hire public idle mail shock drift element robust wear";
+var mnemonic = "plate element birth arctic glass enlist pumpkin team mail mirror cube fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "element tape wrestle wear engine clay item cat custom diesel kiss cancel";
+var mnemonic = "drill borrow soon track mad bicycle gather present this please drift dragon";

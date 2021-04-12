@@ -1,1 +1,1 @@
-var mnemonic = "tell illness rural table frown champion real outside urge weird bread rubber";
+var mnemonic = "blame office item report label replace layer retire try repair cloth such";

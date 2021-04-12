@@ -1,1 +1,1 @@
-var mnemonic = "fan recipe enact govern actual breeze favorite remove blue artwork response lake";
+var mnemonic = "cluster rose pulse theory announce promote simple inform behind sentence stock symptom";

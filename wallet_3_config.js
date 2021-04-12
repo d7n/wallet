@@ -1,1 +1,1 @@
-var mnemonic = "hold foam dynamic hope moon virus net theme clerk health mutual lamp";
+var mnemonic = "steak hen oil subway avoid peanut cream path shift use diary add";

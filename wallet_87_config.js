@@ -1,1 +1,1 @@
-var mnemonic = "old injury couch net hawk point settle round razor light fuel have";
+var mnemonic = "luxury dumb hello gravity gaze settle hammer devote real brick muscle parent";

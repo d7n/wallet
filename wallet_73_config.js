@@ -1,1 +1,1 @@
-var mnemonic = "seat lecture cake toward lounge tower side invest snack rib army settle";
+var mnemonic = "sunset inhale year unfair staff surprise stamp track assault balcony frown trouble";

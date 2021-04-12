@@ -1,1 +1,1 @@
-var mnemonic = "pyramid bind assume arctic joy sense master describe penalty barely lawn oblige";
+var mnemonic = "library comfort anchor evolve immune upset man boost camera must ship way";

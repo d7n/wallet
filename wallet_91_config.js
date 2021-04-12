@@ -1,1 +1,1 @@
-var mnemonic = "program thought label banner tomorrow build motion door upon grain monitor subject";
+var mnemonic = "moon inhale rebuild tape agree replace goddess link analyst message drastic gun";

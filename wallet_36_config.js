@@ -1,1 +1,1 @@
-var mnemonic = "fitness civil once notice stereo inspire chat eye team immune movie visa";
+var mnemonic = "auto thing random situate shift develop juice decline cool sugar tuition question";

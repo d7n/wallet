@@ -1,1 +1,1 @@
-var mnemonic = "barrel first amateur infant keen nose shove kite century cattle monkey system";
+var mnemonic = "scene obvious tiny intact vast electric palace space super cereal clever aim";
