@@ -1,1 +1,1 @@
-var mnemonic = "mercy soul slide torch edit dust turn impact embrace melt also primary";
+var mnemonic = "year circle near pottery token hedgehog crime orange gaze outer mechanic broom";

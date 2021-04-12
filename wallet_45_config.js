@@ -1,1 +1,1 @@
-var mnemonic = "sign fatal whisper frozen kiss mass major keen badge slot casual peace";
+var mnemonic = "blast umbrella flavor point rare civil column lyrics entire dolphin hole calm";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch rely member strong announce normal bulk kiwi erupt correct decide mimic";
+var mnemonic = "usage choose kite misery impose trouble panic short process endless when differ";

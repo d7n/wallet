@@ -1,1 +1,1 @@
-var mnemonic = "arctic salute sibling milk gadget black check patrol catch huge manage baby";
+var mnemonic = "coffee cross minimum glimpse celery silver ask toy problem market wish faculty";

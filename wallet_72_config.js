@@ -1,1 +1,1 @@
-var mnemonic = "sure clock plastic casino earn arctic shoulder crazy candy present pony charge";
+var mnemonic = "harvest swim indoor stem dry bleak afford trip wall patient shop shoulder";

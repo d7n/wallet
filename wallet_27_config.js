@@ -1,1 +1,1 @@
-var mnemonic = "decline captain unknown inch pair certain belt essay sell offer humor quantum";
+var mnemonic = "demise scout basket grief novel often blame normal indoor coach firm vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll vessel salon unveil craft kitten mad curious struggle grace soup sunny";
+var mnemonic = "slow curve town van scatter mystery easy keen draw drive dose deputy";

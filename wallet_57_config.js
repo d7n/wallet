@@ -1,1 +1,1 @@
-var mnemonic = "jungle filter setup awkward service faint fabric busy layer adjust session tobacco";
+var mnemonic = "bleak allow island crowd vicious this spring old electric noble draw deposit";

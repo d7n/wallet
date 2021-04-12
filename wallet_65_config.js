@@ -1,1 +1,1 @@
-var mnemonic = "abstract finish lady fault culture music ticket option earth upgrade process sea";
+var mnemonic = "estate olympic pond visa ripple raise dad brain flock salad poem scout";

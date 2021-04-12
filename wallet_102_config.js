@@ -1,1 +1,1 @@
-var mnemonic = "stumble inspire embody broccoli soup chase marriage ceiling inflict drastic mystery figure";
+var mnemonic = "voyage silly still give enrich song jealous attack option obscure suit apart";

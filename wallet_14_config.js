@@ -1,1 +1,1 @@
-var mnemonic = "pyramid vibrant favorite monkey another glory size wall method agent mansion valid";
+var mnemonic = "tortoise circle surround message fabric present shine visit patient north practice maze";

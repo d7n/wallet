@@ -1,1 +1,1 @@
-var mnemonic = "aisle family verb father now cannon clean machine satoshi goddess jealous rigid";
+var mnemonic = "mask ice pulp citizen cage blur certain mass renew wheel dust wink";

@@ -1,1 +1,1 @@
-var mnemonic = "pass puppy student miracle delay solar husband dawn boat destroy sorry movie";
+var mnemonic = "blame hundred decline jump receive harsh friend air cat diet bulb name";

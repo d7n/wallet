@@ -1,1 +1,1 @@
-var mnemonic = "maple ill rival thrive shrug object lunar brother blossom model merit extra";
+var mnemonic = "tide base october avoid record absent reopen music swear joke grain spare";

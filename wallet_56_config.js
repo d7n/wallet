@@ -1,1 +1,1 @@
-var mnemonic = "diesel wolf magnet farm jungle finger hip match offer crater cable grab";
+var mnemonic = "flight blossom picnic setup cable guard weasel hospital issue crack yard august";

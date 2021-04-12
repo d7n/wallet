@@ -1,1 +1,1 @@
-var mnemonic = "aspect text creek lift solve wild replace admit name busy various obscure";
+var mnemonic = "diagram announce iron bounce swamp parade orange exotic tower doll run brush";

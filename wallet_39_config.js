@@ -1,1 +1,1 @@
-var mnemonic = "program only injury repeat clown crop ice never cry adapt reject school";
+var mnemonic = "monitor flag slot omit debris muscle sea vast puzzle hint wire sight";

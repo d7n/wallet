@@ -1,1 +1,1 @@
-var mnemonic = "learn notice ugly pen hedgehog bronze vivid awkward length student shy bicycle";
+var mnemonic = "wrestle arrange wife balcony hat only mobile maid foster ticket tiny transfer";

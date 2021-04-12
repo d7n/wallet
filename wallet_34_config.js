@@ -1,1 +1,1 @@
-var mnemonic = "episode giggle staff segment multiply cancel into economy shoulder deposit abuse stamp";
+var mnemonic = "tourist judge certain name zero model party sing aspect cherry extend predict";

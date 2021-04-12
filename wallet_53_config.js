@@ -1,1 +1,1 @@
-var mnemonic = "viable ancient modify lounge govern witness grocery scale glimpse desert devote solve";
+var mnemonic = "because festival spider load island robust metal buyer cloth diet hedgehog diamond";

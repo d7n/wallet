@@ -1,1 +1,1 @@
-var mnemonic = "cream toss crane company real leader skirt quit taste mountain gallery much";
+var mnemonic = "post symbol insane ivory once anxiety shed category hire cute throw boat";

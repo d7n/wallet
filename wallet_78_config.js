@@ -1,1 +1,1 @@
-var mnemonic = "dilemma cigar fork lumber mesh chef nature charge brother roof sorry vessel";
+var mnemonic = "power country turkey burst funny flock woman word equip timber trophy then";

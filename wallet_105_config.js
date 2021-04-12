@@ -1,1 +1,1 @@
-var mnemonic = "toss hundred print gift visit zero main local party dune join when";
+var mnemonic = "jazz fringe olympic able squeeze between license view frame junior search follow";

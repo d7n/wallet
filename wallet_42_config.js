@@ -1,1 +1,1 @@
-var mnemonic = "disorder become fit total lava mandate brisk wire stage ensure broccoli mom";
+var mnemonic = "phone fresh message improve hope situate coil plug engine stem tenant crew";

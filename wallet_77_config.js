@@ -1,1 +1,1 @@
-var mnemonic = "blame false above scale sort paper bitter hundred market rally put refuse";
+var mnemonic = "friend language lemon nerve matter merge fence acid normal kiwi run eyebrow";

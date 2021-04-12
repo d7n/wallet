@@ -1,1 +1,1 @@
-var mnemonic = "aspect gift school endless skill vapor midnight depend obscure sand retreat connect";
+var mnemonic = "canvas what nerve will hand zero master mixture grape balcony design fatal";

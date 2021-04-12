@@ -1,1 +1,1 @@
-var mnemonic = "clock supreme film galaxy wage cloud dizzy lesson ready educate price real";
+var mnemonic = "host engage slender penalty joke dune reopen guide hint attract final twenty";

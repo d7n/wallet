@@ -1,1 +1,1 @@
-var mnemonic = "holiday obvious state atom monster husband program stairs divert picture december gap";
+var mnemonic = "very obvious mercy laundry penalty awake logic base rescue eager this bulb";

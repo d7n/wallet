@@ -1,1 +1,1 @@
-var mnemonic = "barrel bean dinosaur boost nominee bird clerk artefact corn useless word nice";
+var mnemonic = "act figure erosion execute business ridge luxury brother cabin produce donate clean";

@@ -1,1 +1,1 @@
-var mnemonic = "addict antique uniform flower stock error click sad any world pigeon faint";
+var mnemonic = "emotion plastic load fame husband diet mother deputy soap crisp fiction voyage";

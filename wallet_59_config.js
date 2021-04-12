@@ -1,1 +1,1 @@
-var mnemonic = "connect ghost merit review strong bottom umbrella crawl split please spoil oblige";
+var mnemonic = "tackle table duck chair between swift gift wheat journey trumpet man message";

@@ -1,1 +1,1 @@
-var mnemonic = "gap custom stove unit refuse damage enlist sweet brisk small silk crisp";
+var mnemonic = "alone pig common bounce two today arena rare cement office huge airport";

@@ -1,1 +1,1 @@
-var mnemonic = "alter master believe pony bar impulse tower comic pumpkin duty argue damage";
+var mnemonic = "narrow tape major enforce limb stuff sentence produce dilemma jewel answer possible";

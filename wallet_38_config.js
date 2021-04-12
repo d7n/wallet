@@ -1,1 +1,1 @@
-var mnemonic = "portion call exit spend spirit top virus spring roof romance addict double";
+var mnemonic = "under nut grace core rigid ancient weird pave riot super then diary";

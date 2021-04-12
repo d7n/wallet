@@ -1,1 +1,1 @@
-var mnemonic = "garbage hockey imitate crowd river arch thumb fire bench lobster thunder place";
+var mnemonic = "ketchup display engine cricket special banner notable punch lesson pumpkin current can";

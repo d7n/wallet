@@ -1,1 +1,1 @@
-var mnemonic = "vicious brother feed large execute enforce gravity reunion assume window tribe frozen";
+var mnemonic = "ghost number hollow normal confirm hen love razor act confirm slogan thing";

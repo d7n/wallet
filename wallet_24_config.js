@@ -1,1 +1,1 @@
-var mnemonic = "broken sword cheap hidden giraffe share turtle mistake person echo chapter sudden";
+var mnemonic = "nominee duck elite candy balcony antique caught scene regular shrug enforce cry";

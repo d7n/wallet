@@ -1,1 +1,1 @@
-var mnemonic = "vague woman awake bracket enact motor ostrich fragile debris awake attack lava";
+var mnemonic = "drum street treat same town panda bullet enough they route labor among";

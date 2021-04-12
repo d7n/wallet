@@ -1,1 +1,1 @@
-var mnemonic = "guitar vintage survey weather fluid salon liquid surge please figure inject ski";
+var mnemonic = "title baby clog copper whisper ticket object clean early provide afford sponsor";

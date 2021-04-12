@@ -1,1 +1,1 @@
-var mnemonic = "salad divide live eagle crisp erosion wealth local skin crash regular crane";
+var mnemonic = "beyond acid stereo humble census electric reform oval toe enrich cereal slush";

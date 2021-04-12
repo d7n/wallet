@@ -1,1 +1,1 @@
-var mnemonic = "leaf sibling net coil donate capable garbage vivid vapor cover kid light";
+var mnemonic = "aim guide attitude collect armed face cage slow carbon resemble student ostrich";

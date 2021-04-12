@@ -1,1 +1,1 @@
-var mnemonic = "diagram dog smile ghost strategy breeze strategy kiss system title science tank";
+var mnemonic = "nice combine science winter drama inner sign explain burst addict canal mixture";

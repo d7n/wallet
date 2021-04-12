@@ -1,1 +1,1 @@
-var mnemonic = "depend cave vault rally path mesh meat general task south student begin";
+var mnemonic = "predict entry convince jealous immune slender moment night suffer swarm face physical";

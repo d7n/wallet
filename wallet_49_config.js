@@ -1,1 +1,1 @@
-var mnemonic = "where opera horse material matter multiply success lake eye celery essence glory";
+var mnemonic = "sleep guess outer fury remember dinosaur fury evoke vintage trap wine eye";

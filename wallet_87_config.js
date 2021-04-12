@@ -1,1 +1,1 @@
-var mnemonic = "plug update chalk language convince escape lawsuit pepper bundle dignity license together";
+var mnemonic = "green exist afraid mercy hurt control else depth bread dice leg case";

@@ -1,1 +1,1 @@
-var mnemonic = "know lunch wisdom gallery join table draft warfare pulp exhaust arrest another";
+var mnemonic = "view moon slush race pet lend edge slush climb tonight scene cousin";

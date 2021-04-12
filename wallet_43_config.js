@@ -1,1 +1,1 @@
-var mnemonic = "voice stand crystal control web very endless rapid thumb cat school person";
+var mnemonic = "eagle sentence mouse brother east grief lady guitar flee scatter endless large";

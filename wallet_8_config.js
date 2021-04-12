@@ -1,1 +1,1 @@
-var mnemonic = "kite nose panel raw olive arrow pear favorite drift wife notice ship";
+var mnemonic = "adjust panel emotion park fruit aim apple vote hamster harvest elephant violin";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna panther announce where million pilot similar shy tunnel exchange strategy inform";
+var mnemonic = "check drama alpha fish bonus mean sorry diagram spoil absorb parade crime";

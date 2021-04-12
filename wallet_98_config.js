@@ -1,1 +1,1 @@
-var mnemonic = "expect unique uniform solution chunk category ketchup pipe narrow pool game release";
+var mnemonic = "picnic recall consider owner wheel yellow stairs ride raven expose disorder order";

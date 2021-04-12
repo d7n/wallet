@@ -1,1 +1,1 @@
-var mnemonic = "duty shadow army lazy bright clock cushion nest income all regular initial";
+var mnemonic = "echo moment ceiling dune valve blouse before mass lizard fashion nest surge";

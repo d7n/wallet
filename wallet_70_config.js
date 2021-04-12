@@ -1,1 +1,1 @@
-var mnemonic = "erosion abandon robot antenna combine clerk blade hazard giraffe tide great push";
+var mnemonic = "logic edit bench huge eternal treat wire leave behind security slab city";

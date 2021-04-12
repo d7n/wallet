@@ -1,1 +1,1 @@
-var mnemonic = "uniform nephew expire embark subject joy crop slice coconut amazing coil scrub";
+var mnemonic = "garden pact roof amount robot match plastic pipe virus tomato puppy puppy";

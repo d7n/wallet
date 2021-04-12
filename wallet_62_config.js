@@ -1,1 +1,1 @@
-var mnemonic = "mobile pilot angle remain favorite movie work swarm budget veteran butter joy";
+var mnemonic = "ticket fantasy measure latin segment nominee section olive faculty reason interest work";

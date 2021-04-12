@@ -1,1 +1,1 @@
-var mnemonic = "home rival shoe clog unique choose below verb erase ceiling envelope talent";
+var mnemonic = "bitter flat corn thought guilt photo dove afraid whisper bottom concert banner";

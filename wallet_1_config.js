@@ -1,1 +1,1 @@
-var mnemonic = "behave boy analyst front bless train cherry decrease radar cinnamon eye fly";
+var mnemonic = "crouch glad credit scene educate minor audit banner saddle enlist opinion wrestle";

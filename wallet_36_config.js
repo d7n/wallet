@@ -1,1 +1,1 @@
-var mnemonic = "ketchup table energy purpose cry spoon victory true bonus guitar second bright";
+var mnemonic = "require nature wide stone slow off number panel dinosaur amount fruit toe";

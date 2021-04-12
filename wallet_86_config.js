@@ -1,1 +1,1 @@
-var mnemonic = "wish stock when opinion letter auto mask purpose region wish comfort road";
+var mnemonic = "penalty need glass busy kidney inform setup winner empty rack execute outdoor";

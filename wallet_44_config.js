@@ -1,1 +1,1 @@
-var mnemonic = "snap upgrade stable hat shock man boy gun script august earth fitness";
+var mnemonic = "will twin toy else swim case among tuition place shell quality mountain";

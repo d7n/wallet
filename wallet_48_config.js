@@ -1,1 +1,1 @@
-var mnemonic = "tape ecology rich human melt error soap guide brief have game defense";
+var mnemonic = "mask best dinosaur woman flock earn shine habit fluid spoon refuse cable";

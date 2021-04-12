@@ -1,1 +1,1 @@
-var mnemonic = "saddle february exit forward culture crumble veteran core shoe century wine rain";
+var mnemonic = "unique flower provide height drum vibrant turn matter fashion rebel scare supreme";

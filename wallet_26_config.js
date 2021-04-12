@@ -1,1 +1,1 @@
-var mnemonic = "reason tobacco access ginger cruel bomb cabbage script lumber firm couple skill";
+var mnemonic = "script skill quantum visa since veteran virtual say silver vintage foot gasp";

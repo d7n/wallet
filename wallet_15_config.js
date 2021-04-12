@@ -1,1 +1,1 @@
-var mnemonic = "large sunset diesel book wrong script right stadium screen worry cart dragon";
+var mnemonic = "glad satoshi indicate clump corn water brand tonight clock front deny wolf";

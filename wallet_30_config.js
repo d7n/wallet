@@ -1,1 +1,1 @@
-var mnemonic = "better breeze clog various other trade zero uncover hover possible baby memory";
+var mnemonic = "movie winner assault riot hollow wonder true royal engine salon voice beef";

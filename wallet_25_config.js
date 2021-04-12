@@ -1,1 +1,1 @@
-var mnemonic = "alert whip avoid warm rather six unfold affair there maze boss tent";
+var mnemonic = "submit amount document caution burden clump flavor grab question dynamic recycle turtle";

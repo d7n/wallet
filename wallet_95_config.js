@@ -1,1 +1,1 @@
-var mnemonic = "river lemon rude boost idle brush promote turn memory pole demise flower";
+var mnemonic = "scare frequent fiction finger hard relax vacant holiday pumpkin sting popular install";

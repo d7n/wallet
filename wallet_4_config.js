@@ -1,1 +1,1 @@
-var mnemonic = "cheese federal price cherry spice offer nuclear viable vacant climb paper kiss";
+var mnemonic = "child cart clock beef increase budget control glance canoe area book apple";

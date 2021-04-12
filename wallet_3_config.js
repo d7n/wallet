@@ -1,1 +1,1 @@
-var mnemonic = "blanket dove move length know scatter myself jar govern robust rotate bounce";
+var mnemonic = "sun tonight any public rain drama cloud suit drive final basic excuse";

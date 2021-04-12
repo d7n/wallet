@@ -1,1 +1,1 @@
-var mnemonic = "turtle chronic chuckle carpet river champion reopen icon rain document thrive tower";
+var mnemonic = "design debris blast business narrow kingdom guess pudding lawn mass acid hybrid";

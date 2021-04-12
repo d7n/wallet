@@ -1,1 +1,1 @@
-var mnemonic = "sleep large afraid sauce ribbon spoil decide electric stick math label allow";
+var mnemonic = "trial adult juice solar moon eight mirror transfer meat vague surprise lamp";

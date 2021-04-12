@@ -1,1 +1,1 @@
-var mnemonic = "know sister razor impose mimic edge figure future else crush regular acquire";
+var mnemonic = "garage fossil length spawn physical between short palm useful erupt void thank";

@@ -1,1 +1,1 @@
-var mnemonic = "garment series remember media say sense useless protect clever other twenty soon";
+var mnemonic = "two property pipe heart profit thunder spoil gift nice arch trade embody";

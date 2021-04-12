@@ -1,1 +1,1 @@
-var mnemonic = "youth curve galaxy word solid slide sheriff you loud include demise clerk";
+var mnemonic = "uncle bamboo hard verb absurd undo onion kidney knock tag metal tenant";

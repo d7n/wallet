@@ -1,1 +1,1 @@
-var mnemonic = "label then wreck cube cover drum boring spot voice legal unlock cost";
+var mnemonic = "senior pave company injury random fiscal arrest seek inject order inside chicken";

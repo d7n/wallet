@@ -1,1 +1,1 @@
-var mnemonic = "hurt north kite nurse harbor web wasp admit juice merge media snake";
+var mnemonic = "angry tornado series vocal aunt onion bottom boring sport unaware discover scheme";

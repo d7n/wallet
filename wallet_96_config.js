@@ -1,1 +1,1 @@
-var mnemonic = "exotic trap leg notice tent share used cable similar dentist depend flock";
+var mnemonic = "secret hope horn cloud sister club album finish empower cup wool inquiry";

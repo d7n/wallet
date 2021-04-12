@@ -1,1 +1,1 @@
-var mnemonic = "cheese ahead memory screen wolf provide suit emotion grant same sure one";
+var mnemonic = "ripple faith type tuna weird anxiety social aerobic laundry absurd atom certain";

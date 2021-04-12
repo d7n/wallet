@@ -1,1 +1,1 @@
-var mnemonic = "huge model burger kind inside put deposit arctic raven hurt attend loyal";
+var mnemonic = "traffic web crime range arena evidence climb sorry dynamic argue finger sheriff";

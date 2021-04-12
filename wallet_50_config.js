@@ -1,1 +1,1 @@
-var mnemonic = "galaxy habit decide supreme multiply park still dilemma trap actress churn club";
+var mnemonic = "early dune recall worth access feed jazz monkey magnet snap nest all";

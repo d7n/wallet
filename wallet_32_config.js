@@ -1,1 +1,1 @@
-var mnemonic = "company clump chase wealth flat duck rally boring much volume horn walnut";
+var mnemonic = "celery title mechanic print agent only dose slab sponsor first thing require";

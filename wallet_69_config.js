@@ -1,1 +1,1 @@
-var mnemonic = "pipe quick diagram found ability coral affair receive sunny bar script buddy";
+var mnemonic = "regret hazard mercy later hill happy arctic outer monster jeans slab equip";

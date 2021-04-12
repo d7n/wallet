@@ -1,1 +1,1 @@
-var mnemonic = "visa screen glimpse secret clock debate issue organ punch furnace elegant just";
+var mnemonic = "awful joy open autumn giggle limb lesson gospel document push pill elbow";

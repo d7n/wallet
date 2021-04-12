@@ -1,1 +1,1 @@
-var mnemonic = "please patrol carbon impulse ability side hip daughter walnut drastic snack toe";
+var mnemonic = "chef drastic twenty dry job future east canvas axis dizzy actor comfort";

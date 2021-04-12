@@ -1,1 +1,1 @@
-var mnemonic = "weasel tragic run alien drip swim picture decline cluster exclude fatal bounce";
+var mnemonic = "sugar deposit bachelor doctor interest alter liberty into creek thumb throw blossom";

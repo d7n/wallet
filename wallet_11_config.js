@@ -1,1 +1,1 @@
-var mnemonic = "discover another level service barrel vocal lyrics odor plug praise favorite gather";
+var mnemonic = "north runway claim daring rookie episode faculty issue honey calm silent moon";

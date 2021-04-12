@@ -1,1 +1,1 @@
-var mnemonic = "situate demise auction swallow tone charge any that crunch shell among green";
+var mnemonic = "please swallow day lift long tape flee tired crop poem tail hurt";

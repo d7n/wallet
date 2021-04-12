@@ -1,1 +1,1 @@
-var mnemonic = "permit duck unaware village design camera range squeeze alien afraid mesh cement";
+var mnemonic = "slender pact future lottery lobster bus hedgehog timber balcony zoo tree buddy";

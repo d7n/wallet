@@ -1,1 +1,1 @@
-var mnemonic = "body funny believe science garage inherit laptop spot arctic dignity insect wrong";
+var mnemonic = "frown route moment hurt gorilla maximum satoshi oval web hen exact analyst";

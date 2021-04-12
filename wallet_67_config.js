@@ -1,1 +1,1 @@
-var mnemonic = "angle jungle supply brick wink film canal steak lyrics gaze size hospital";
+var mnemonic = "embark start arm siren stone trust mandate program retreat balcony shove fish";

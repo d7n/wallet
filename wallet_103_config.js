@@ -1,1 +1,1 @@
-var mnemonic = "decrease aisle improve exclude demise oval remove lottery salon silent alert aim";
+var mnemonic = "water curve reform tunnel despair curtain industry trick match brief liquid soon";
