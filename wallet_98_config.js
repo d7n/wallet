@@ -1,1 +1,1 @@
-var mnemonic = "little proof equip right myself follow tiny call tank dinosaur infant assume";
+var mnemonic = "include visa chair success goddess control transfer jungle decrease expand pilot bright";

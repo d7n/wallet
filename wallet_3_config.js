@@ -1,1 +1,1 @@
-var mnemonic = "balance rose chalk wheat metal turn style future country survey state bamboo";
+var mnemonic = "click indicate lens replace easy cherry sausage practice lab skin swim route";

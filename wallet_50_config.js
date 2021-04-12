@@ -1,1 +1,1 @@
-var mnemonic = "jeans easily dragon modify inspire beach couch arch sausage brush recycle dilemma";
+var mnemonic = "solid stairs lunch elevator wise visit nature ethics stage print script joke";

@@ -1,1 +1,1 @@
-var mnemonic = "hint there cloud praise celery bag celery hazard barely auction various chef";
+var mnemonic = "raccoon upset foam congress fame depend alarm army collect gospel jelly scrap";

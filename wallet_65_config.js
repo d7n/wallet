@@ -1,1 +1,1 @@
-var mnemonic = "decorate energy beyond make shop organ exist whisper robot pelican cliff pave";
+var mnemonic = "between brush virtual picture taxi alien sand erupt friend trick life vocal";

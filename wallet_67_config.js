@@ -1,1 +1,1 @@
-var mnemonic = "cannon track gain erosion waste seven carbon hungry during short scrub child";
+var mnemonic = "portion plate supreme degree anchor echo bind crazy sign coach real evolve";

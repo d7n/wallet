@@ -1,1 +1,1 @@
-var mnemonic = "initial future ecology motor place obvious easily pretty figure decade shaft hill";
+var mnemonic = "regret scan power select tragic flock pig neutral elegant piece special range";

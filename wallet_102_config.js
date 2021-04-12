@@ -1,1 +1,1 @@
-var mnemonic = "lunch master meadow say kingdom river adult toss ticket disease cat honey";
+var mnemonic = "gas clap switch melt tube woman other story deny way arrange tell";

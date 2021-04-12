@@ -1,1 +1,1 @@
-var mnemonic = "ethics frame roof garlic banner season glory fluid transfer phone undo ride";
+var mnemonic = "token blush quit you erupt check empower wrap apology link find excess";

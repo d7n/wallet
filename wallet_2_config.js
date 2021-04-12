@@ -1,1 +1,1 @@
-var mnemonic = "shoe demand quarter original pottery clutch shoot mom denial draft since asthma";
+var mnemonic = "sweet below under quit vacant atom coyote uphold breeze mercy rabbit choice";

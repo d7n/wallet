@@ -1,1 +1,1 @@
-var mnemonic = "inject venture like junk sword mango bag volume furnace guitar violin ring";
+var mnemonic = "guitar pig run caution envelope abuse clerk fan aware curtain what tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "movie pole source erosion carpet scout fabric reunion involve job issue blush";
+var mnemonic = "tobacco gun hotel crack load relief blast match post group unique device";

@@ -1,1 +1,1 @@
-var mnemonic = "screen noise road file suffer orphan physical retire mouse beyond false power";
+var mnemonic = "kidney february live wash green faith hint globe reduce gauge vapor zero";

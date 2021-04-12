@@ -1,1 +1,1 @@
-var mnemonic = "crunch evoke giant bag purse mimic spy alarm indicate chuckle engine million";
+var mnemonic = "sight chronic practice version dumb general width survey jump horror skirt skill";

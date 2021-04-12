@@ -1,1 +1,1 @@
-var mnemonic = "found gym violin health series impact desert offer later curious ceiling luggage";
+var mnemonic = "talent one belt honey noble motor dismiss tattoo annual total purse stick";

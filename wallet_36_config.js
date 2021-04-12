@@ -1,1 +1,1 @@
-var mnemonic = "topple aim retreat breeze punch avocado intact skirt web ugly cabin victory";
+var mnemonic = "scheme indicate lawsuit misery swarm fruit tuition member sweet shock draw rail";

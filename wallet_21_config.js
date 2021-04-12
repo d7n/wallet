@@ -1,1 +1,1 @@
-var mnemonic = "cluster prepare sea wing casual ethics mandate sustain theory orphan leg hole";
+var mnemonic = "retreat notable trap gaze nut shaft pulp fee card runway crumble unlock";

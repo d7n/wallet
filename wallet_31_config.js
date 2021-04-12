@@ -1,1 +1,1 @@
-var mnemonic = "mango warm disagree welcome infant grace prosper review taste educate slice drill";
+var mnemonic = "sound suit easily clap toast pass canvas lucky galaxy cherry song client";

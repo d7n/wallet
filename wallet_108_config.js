@@ -1,1 +1,1 @@
-var mnemonic = "earth shift next rely protect enable battle tornado actual blade tuna muffin";
+var mnemonic = "dynamic quantum remain weasel effort girl palm swim agree delay coin educate";

@@ -1,1 +1,1 @@
-var mnemonic = "battle topic danger broccoli remind siren flee possible column search satoshi ahead";
+var mnemonic = "soccer verb motion urge animal outdoor jungle hip sport violin bottom viable";

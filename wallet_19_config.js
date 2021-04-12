@@ -1,1 +1,1 @@
-var mnemonic = "lonely grass daring ripple lens cabbage unfold arch tenant van river day";
+var mnemonic = "owner vapor dash key net ride feature clown demise team private credit";

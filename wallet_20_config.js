@@ -1,1 +1,1 @@
-var mnemonic = "pattern credit horse forget raise immense fabric multiply elegant minimum danger reward";
+var mnemonic = "opinion fury absurd diary chicken slow school endorse endless office risk lumber";

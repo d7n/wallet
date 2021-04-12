@@ -1,1 +1,1 @@
-var mnemonic = "goddess notice embody puzzle ribbon rebel target vague toilet thank skill fringe";
+var mnemonic = "horse farm miracle develop clarify catch aspect farm oak food fiction stumble";

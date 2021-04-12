@@ -1,1 +1,1 @@
-var mnemonic = "vibrant various nephew target need link census predict affair effort open orange";
+var mnemonic = "satisfy mobile naive tuition pride bounce east water hair rack once bridge";

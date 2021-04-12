@@ -1,1 +1,1 @@
-var mnemonic = "vivid elevator similar path soup scale fitness plug marriage rebel culture magnet";
+var mnemonic = "sibling demise cause laundry miss pelican casino forest repeat shiver cousin parent";

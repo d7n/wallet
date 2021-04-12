@@ -1,1 +1,1 @@
-var mnemonic = "spray sheriff media cage chunk airport blame police crawl long fresh course";
+var mnemonic = "tilt any possible anxiety multiply uphold resist rather aim stand stand develop";

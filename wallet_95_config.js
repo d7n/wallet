@@ -1,1 +1,1 @@
-var mnemonic = "senior pact belt blur budget exact tourist floor auto vast minute ski";
+var mnemonic = "gain day grab praise cheap marriage edit diet box cash blood evoke";

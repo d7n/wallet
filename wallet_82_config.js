@@ -1,1 +1,1 @@
-var mnemonic = "nuclear journey cinnamon success skate cream whip obey shoe display mean suit";
+var mnemonic = "artwork upset surprise prize dentist bounce muscle latin outdoor waste uncover bean";

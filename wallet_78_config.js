@@ -1,1 +1,1 @@
-var mnemonic = "cup speed myself banana gown range dry exact weekend truly delay initial";
+var mnemonic = "digital dial action lemon certain history leave style initial urban obscure dust";

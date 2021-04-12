@@ -1,1 +1,1 @@
-var mnemonic = "doctor before picture calm clean grain trash dentist monkey dice trip rain";
+var mnemonic = "avocado aim result wagon supreme secret tourist bridge news extend silly shiver";

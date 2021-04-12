@@ -1,1 +1,1 @@
-var mnemonic = "attitude unit rapid spoon spoon capital appear pulp wage power eye base";
+var mnemonic = "name million define garbage figure illness fury stuff brass ice draft together";

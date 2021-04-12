@@ -1,1 +1,1 @@
-var mnemonic = "craft rude narrow device toilet reunion meadow rally proof wonder outer yellow";
+var mnemonic = "slender choose congress frown congress worry spread paper pull suffer help corn";

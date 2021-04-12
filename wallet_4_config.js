@@ -1,1 +1,1 @@
-var mnemonic = "shrug tortoise arrive weapon version opera present priority spoon frame hidden unfold";
+var mnemonic = "pluck valley heart dawn lottery extend sure sunset divorce pipe figure achieve";

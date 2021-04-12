@@ -1,1 +1,1 @@
-var mnemonic = "snake fade cause table trim impulse broccoli observe that grief crystal blind";
+var mnemonic = "machine paddle autumn sad invest rug logic glad faculty chair inform accuse";

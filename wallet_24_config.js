@@ -1,1 +1,1 @@
-var mnemonic = "ill injury head still profit beef shine silly alert emerge faith champion";
+var mnemonic = "rug walnut mountain interest exit ski entry fringe satisfy consider cake jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "pass bullet relax weather ladder buyer horn pulse social afford aware crunch";
+var mnemonic = "excess gossip olympic know patient face ridge senior march valley female iron";

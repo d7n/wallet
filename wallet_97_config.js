@@ -1,1 +1,1 @@
-var mnemonic = "donate share phone cage humble bitter sleep horror pear sing behave day";
+var mnemonic = "print model example dilemma melt giggle boost trip polar celery pony ivory";

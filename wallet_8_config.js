@@ -1,1 +1,1 @@
-var mnemonic = "direct excess boat infant pottery advice annual minor believe flip place frequent";
+var mnemonic = "drama hour jump impulse solar all dose orient vintage gloom strike circle";

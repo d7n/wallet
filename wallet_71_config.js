@@ -1,1 +1,1 @@
-var mnemonic = "vast toast obvious accuse clip bomb describe climb unfold rare mosquito receive";
+var mnemonic = "diamond pilot hedgehog speed fit glow jazz favorite chuckle amused error cake";

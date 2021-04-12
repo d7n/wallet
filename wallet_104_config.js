@@ -1,1 +1,1 @@
-var mnemonic = "various craft motion frown repeat glare best kitten faint suffer always merry";
+var mnemonic = "orphan angry admit pilot tunnel baby resemble safe increase hope place become";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot rib survey helmet marriage recall fantasy riot suggest robust volume tomato";
+var mnemonic = "walk train hat appear umbrella wear goose wide conduct round case unusual";

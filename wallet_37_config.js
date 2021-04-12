@@ -1,1 +1,1 @@
-var mnemonic = "warrior sting arena hedgehog educate found twelve toward when birth deliver alcohol";
+var mnemonic = "creek where jar donkey coil cricket food same minute chronic valley day";

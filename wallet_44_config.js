@@ -1,1 +1,1 @@
-var mnemonic = "loan canoe loan brown general ketchup spoon clap major raise surprise this";
+var mnemonic = "abuse dentist evidence fame grunt blame pyramid stock grape clutch stage verify";

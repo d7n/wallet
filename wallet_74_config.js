@@ -1,1 +1,1 @@
-var mnemonic = "guitar street enlist traffic ranch fun wonder garbage pitch image shop romance";
+var mnemonic = "depart slab junior ghost clarify join ready wall demand puzzle member rescue";

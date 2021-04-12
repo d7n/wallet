@@ -1,1 +1,1 @@
-var mnemonic = "clump audit digital pencil pipe royal height immense husband word priority basket";
+var mnemonic = "apology junk audit kind please health hospital hedgehog online join grape crystal";

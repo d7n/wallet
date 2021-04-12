@@ -1,1 +1,1 @@
-var mnemonic = "arena library universe jar category found crucial december meat gate journey album";
+var mnemonic = "wide term cover rotate title sound supreme trophy earth artwork hole come";

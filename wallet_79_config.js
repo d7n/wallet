@@ -1,1 +1,1 @@
-var mnemonic = "jar country resemble mimic session dwarf zone circle door empty bounce involve";
+var mnemonic = "innocent crop pitch finger episode stumble figure manage before earth order extra";

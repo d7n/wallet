@@ -1,1 +1,1 @@
-var mnemonic = "magnet stumble token cat license media kitchen write planet you bar treat";
+var mnemonic = "power marriage plate prize rally list oyster potato impact drink effort eagle";

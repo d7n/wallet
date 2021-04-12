@@ -1,1 +1,1 @@
-var mnemonic = "child device fuel loan grunt witness census leisure test zero front garden";
+var mnemonic = "ill title guitar issue club field certain token wrist blanket ribbon delay";

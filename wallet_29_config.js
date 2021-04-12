@@ -1,1 +1,1 @@
-var mnemonic = "vendor innocent wire kid assume pattern hill spatial uniform noodle uncle grit";
+var mnemonic = "filter gossip soup rebel spend permit business gap receive annual unhappy culture";

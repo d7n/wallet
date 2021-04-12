@@ -1,1 +1,1 @@
-var mnemonic = "cave kick before match envelope reform agree bubble exchange fatigue tissue sail";
+var mnemonic = "yellow sleep eyebrow shock barely outdoor public repeat judge budget harsh garage";

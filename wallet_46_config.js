@@ -1,1 +1,1 @@
-var mnemonic = "submit razor verb fit buyer pulse sketch finger friend fluid image tone";
+var mnemonic = "boy tennis school ignore approve fix cancel key planet border income weather";

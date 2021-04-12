@@ -1,1 +1,1 @@
-var mnemonic = "device know auto flag napkin road reflect lamp festival alarm point vintage";
+var mnemonic = "syrup pass match oyster canal toddler eager mountain moral uncover dinner grief";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing congress plunge coach false live ridge universe cupboard pitch soft keep";
+var mnemonic = "bronze banner wild music corn dad sauce actor taxi diesel pen behind";

@@ -1,1 +1,1 @@
-var mnemonic = "derive track social road maid case occur lunar crowd motion meat obscure";
+var mnemonic = "destroy wild lucky brush reason sing grief buzz valve long carbon fitness";

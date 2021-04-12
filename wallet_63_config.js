@@ -1,1 +1,1 @@
-var mnemonic = "gasp morning recall raven stool display holiday high sick nasty spoil actual";
+var mnemonic = "panel brief violin author you flee put upgrade motor exclude sea legend";

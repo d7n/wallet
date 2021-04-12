@@ -1,1 +1,1 @@
-var mnemonic = "boil joke initial staff assault media pepper model marriage bitter same ripple";
+var mnemonic = "drum cinnamon topic supply prosper stand kingdom vacuum wasp rigid nose flame";

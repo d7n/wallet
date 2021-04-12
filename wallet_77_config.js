@@ -1,1 +1,1 @@
-var mnemonic = "dentist release industry quit flat mimic sadness indoor record corn cabin panel";
+var mnemonic = "reopen surge cube seminar glimpse give match arrange spike endless describe inherit";

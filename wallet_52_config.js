@@ -1,1 +1,1 @@
-var mnemonic = "vital hybrid paper civil evolve demand render broken oppose brave dawn exhaust";
+var mnemonic = "sport tornado muscle tower solve cushion recall benefit scrap curtain fiscal style";

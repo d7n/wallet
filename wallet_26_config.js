@@ -1,1 +1,1 @@
-var mnemonic = "strong soda tourist army animal weapon auction affair shock brown bean anchor";
+var mnemonic = "maple ignore flip opera skate mean prosper comfort oven fee settle artefact";

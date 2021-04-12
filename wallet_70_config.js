@@ -1,1 +1,1 @@
-var mnemonic = "carpet device afraid lawn melody disagree faith flavor rain foil ugly online";
+var mnemonic = "wagon eagle display century ugly noise wheel reopen usage until moon often";

@@ -1,1 +1,1 @@
-var mnemonic = "raw endorse sight effort lava crisp anxiety venue hub energy lazy else";
+var mnemonic = "jaguar soft flavor century entry page brown amazing ecology super trigger key";

@@ -1,1 +1,1 @@
-var mnemonic = "genius ball speak giant green rally dose cat ghost planet stock distance";
+var mnemonic = "sentence coral race absorb price trim medal grain cage bacon kid shaft";

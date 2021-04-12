@@ -1,1 +1,1 @@
-var mnemonic = "expect pony derive that story flock wine toe grocery office stone pet";
+var mnemonic = "mango index sausage great cram remember try yard blast marble spatial achieve";

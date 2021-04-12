@@ -1,1 +1,1 @@
-var mnemonic = "garbage marble anchor napkin pill powder session cabbage sock firm silk member";
+var mnemonic = "online grow private pluck fox office drama nothing trouble world chef sting";

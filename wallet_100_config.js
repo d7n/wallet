@@ -1,1 +1,1 @@
-var mnemonic = "lonely buffalo behind tape office bleak print gentle clerk strategy plug jump";
+var mnemonic = "valley enact useful business glue brief leave core buddy shift rug age";

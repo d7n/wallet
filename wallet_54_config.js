@@ -1,1 +1,1 @@
-var mnemonic = "grid tunnel gallery cannon fame express seed cloth cupboard artwork stem draft";
+var mnemonic = "square truck simple image access protect rotate cake zone avoid turkey uncover";

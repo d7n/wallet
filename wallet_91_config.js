@@ -1,1 +1,1 @@
-var mnemonic = "one cute useful roast fossil rice broom father base garbage round term";
+var mnemonic = "result juice cycle tell bracket smile view protect pulse trust chef clump";

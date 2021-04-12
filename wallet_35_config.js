@@ -1,1 +1,1 @@
-var mnemonic = "coffee need shed fossil bounce bless pilot dragon tooth cricket garbage curtain";
+var mnemonic = "gentle collect wolf laundry deal gaze august bus material piece slim neutral";

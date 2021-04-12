@@ -1,1 +1,1 @@
-var mnemonic = "come surprise outdoor exercise immense online angle debris wagon bomb century system";
+var mnemonic = "divert elegant cheese proof stove adult open public plunge ridge snap sting";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair wash zebra hundred river birth snow moral arena purpose balcony bottom";
+var mnemonic = "diagram connect gravity cereal piece punch deliver olympic faint mammal pyramid horn";

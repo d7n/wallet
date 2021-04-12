@@ -1,1 +1,1 @@
-var mnemonic = "talent broccoli invite cry wine crisp number behind aisle cereal chair gentle";
+var mnemonic = "feature jewel fiscal omit scissors tourist unfold print prize garden pudding picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "tag hello brick push brass muffin smooth affair grunt fit stone hedgehog";
+var mnemonic = "blush popular cherry memory bicycle van hamster weather settle enemy truck install";

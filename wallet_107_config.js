@@ -1,1 +1,1 @@
-var mnemonic = "scout leader coral churn busy salad grass feel trip fan top waste";
+var mnemonic = "spot slot window town response amused episode summer plug boat now lady";

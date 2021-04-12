@@ -1,1 +1,1 @@
-var mnemonic = "glance door brisk jazz spy knife emotion ankle category exchange century enhance";
+var mnemonic = "winner ask detail bulk among buzz ring course spin mass easy unit";

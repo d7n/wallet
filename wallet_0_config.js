@@ -1,1 +1,1 @@
-var mnemonic = "apology marriage siege twelve fault spatial napkin achieve find slush client season";
+var mnemonic = "need bomb civil bike edge pupil spike avoid glare palace empower lock";

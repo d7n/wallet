@@ -1,1 +1,1 @@
-var mnemonic = "daughter tag stay loan aware potato giggle canal culture mosquito clay kangaroo";
+var mnemonic = "hint you fever monster year shoe ranch cram alarm original federal purse";

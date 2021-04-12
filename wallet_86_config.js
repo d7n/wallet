@@ -1,1 +1,1 @@
-var mnemonic = "boss lumber mimic idea pyramid dawn surface sport panel foam explain fury";
+var mnemonic = "crash artist grief crisp very tired holiday naive indoor smile unique frown";

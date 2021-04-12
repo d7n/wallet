@@ -1,1 +1,1 @@
-var mnemonic = "around midnight cash version pool exhibit dry search render toddler topple horror";
+var mnemonic = "range ivory awful betray quote math hundred unique lens nation bomb race";

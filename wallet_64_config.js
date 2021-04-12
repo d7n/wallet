@@ -1,1 +1,1 @@
-var mnemonic = "include age armed trade thank increase salon glass chunk annual mix mango";
+var mnemonic = "hammer object else post absent bundle detail language cluster deer praise demise";

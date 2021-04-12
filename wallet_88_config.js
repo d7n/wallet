@@ -1,1 +1,1 @@
-var mnemonic = "rice aerobic gossip quarter bicycle fat put zoo whisper certain swim belt";
+var mnemonic = "manage fade drink win grid salad trim promote floor confirm black gospel";

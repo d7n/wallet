@@ -1,1 +1,1 @@
-var mnemonic = "drop ski rule orbit cabbage robust make run fold farm power coyote";
+var mnemonic = "tackle already scan pen actual end luggage put come endless man option";

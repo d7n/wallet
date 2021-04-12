@@ -1,1 +1,1 @@
-var mnemonic = "gym glimpse rug deal business cute slender spell discover bar unaware avocado";
+var mnemonic = "situate dinosaur salmon promote castle little sing remove hurt turkey cinnamon pave";

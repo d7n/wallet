@@ -1,1 +1,1 @@
-var mnemonic = "afraid side uncover monkey juice manage parrot banana awful buffalo aware dish";
+var mnemonic = "super fabric globe segment lab subject remind salon cause puzzle raccoon food";

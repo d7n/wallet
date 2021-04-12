@@ -1,1 +1,1 @@
-var mnemonic = "invest juice trade lucky noble collect curtain entry book life team feel";
+var mnemonic = "dream trap neglect client shield remind point memory valve tumble observe identify";
