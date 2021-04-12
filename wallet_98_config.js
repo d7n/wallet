@@ -1,1 +1,1 @@
-var mnemonic = "clown grunt purpose kingdom plate screen find aerobic initial swing calm dice";
+var mnemonic = "drastic eager equal safe arrange local gallery wool doll merry initial lecture";

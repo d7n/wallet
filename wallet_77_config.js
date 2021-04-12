@@ -1,1 +1,1 @@
-var mnemonic = "habit sense rescue upset flock soup fall budget pyramid umbrella crime penalty";
+var mnemonic = "volume vanish oppose outer maximum essay allow umbrella plastic zone clinic ribbon";

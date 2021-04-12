@@ -1,1 +1,1 @@
-var mnemonic = "stove now matrix actor desert gate tube review connect cave believe artist";
+var mnemonic = "life dragon tilt display picture index goose mammal wool escape armor penalty";

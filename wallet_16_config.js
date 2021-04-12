@@ -1,1 +1,1 @@
-var mnemonic = "purse illegal caught lock royal extend need copper spray crop position switch";
+var mnemonic = "surround leisure cool visit palace coyote outdoor canvas seek hair pioneer panic";

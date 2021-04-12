@@ -1,1 +1,1 @@
-var mnemonic = "ugly execute topic furnace click foot network kiss cradle crime certain wink";
+var mnemonic = "carpet track eyebrow spring garlic envelope drink pond manage six egg social";

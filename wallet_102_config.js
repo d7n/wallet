@@ -1,1 +1,1 @@
-var mnemonic = "arm chat invite ribbon total life strong physical window short illegal vague";
+var mnemonic = "dove evidence stereo diet glimpse vital garbage royal fence address chalk twin";

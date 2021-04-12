@@ -1,1 +1,1 @@
-var mnemonic = "wrist fat lunar icon supply mean loop popular lemon trash measure basic";
+var mnemonic = "nerve obvious provide stem beyond bag tonight system suit grant imitate tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch fresh cat sauce praise weasel inform century attitude silk cement dilemma";
+var mnemonic = "moon popular follow strong unaware chalk elite cabin step fringe pudding awake";

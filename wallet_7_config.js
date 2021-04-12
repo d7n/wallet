@@ -1,1 +1,1 @@
-var mnemonic = "rude veteran gown negative south effort hen vital girl donor divert curve";
+var mnemonic = "seminar coyote steak document ring lumber sister stumble parade multiply coffee side";

@@ -1,1 +1,1 @@
-var mnemonic = "hold grocery sibling churn sad lock island chaos pony trophy draw vacant";
+var mnemonic = "escape myth nurse good awesome exotic goose adjust flush flame another animal";

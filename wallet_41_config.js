@@ -1,1 +1,1 @@
-var mnemonic = "roast buddy orphan youth wing dutch demand remind gold injury spider drift";
+var mnemonic = "innocent mixed note party symptom kind make auto occur iron pair arch";

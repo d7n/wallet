@@ -1,1 +1,1 @@
-var mnemonic = "speak cycle paddle fun grief grant royal present accident sure main error";
+var mnemonic = "say obtain nice onion decline chat pledge version arrive daring edit brave";

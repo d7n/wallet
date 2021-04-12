@@ -1,1 +1,1 @@
-var mnemonic = "allow vault file napkin tank round fish man shoe arctic umbrella route";
+var mnemonic = "drill champion truth dove account develop laugh comfort inherit faith oyster indoor";

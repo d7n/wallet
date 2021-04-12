@@ -1,1 +1,1 @@
-var mnemonic = "key welcome already aware damp symptom unit pluck embody hold you lady";
+var mnemonic = "bicycle vendor orchard just someone mouse fox until museum bottom state marriage";

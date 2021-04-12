@@ -1,1 +1,1 @@
-var mnemonic = "obscure similar help apple punch limb vague fancy stadium copy aerobic major";
+var mnemonic = "coffee bone this clay fiscal turkey machine drink decorate hollow spread system";

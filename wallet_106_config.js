@@ -1,1 +1,1 @@
-var mnemonic = "turtle mass chicken trend parent pen switch reward wife transfer nerve mean";
+var mnemonic = "december stand galaxy pepper curve shock unfair jeans pulse unknown achieve quit";

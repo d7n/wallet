@@ -1,1 +1,1 @@
-var mnemonic = "fetch forest real tower elephant sport agree brisk olive area quiz flock";
+var mnemonic = "ginger pluck length result soccer modify discover remind paper total below little";

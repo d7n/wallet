@@ -1,1 +1,1 @@
-var mnemonic = "smile leisure chapter surprise biology solution state copper lawn anchor kick palace";
+var mnemonic = "renew tenant organ exact math canyon panda doll puzzle demise sister stay";

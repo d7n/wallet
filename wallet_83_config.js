@@ -1,1 +1,1 @@
-var mnemonic = "waste unaware approve spoil tennis feel evil key river table drop grass";
+var mnemonic = "bitter primary bone bitter bomb potato blur marriage hurry fork base leisure";

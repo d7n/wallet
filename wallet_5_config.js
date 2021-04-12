@@ -1,1 +1,1 @@
-var mnemonic = "nature lemon seek rocket pyramid pond silver dream pluck coffee uniform ability";
+var mnemonic = "diary orphan dose hand above wool cool humor essence manual neither congress";

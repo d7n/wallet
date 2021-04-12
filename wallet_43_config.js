@@ -1,1 +1,1 @@
-var mnemonic = "cup topic shrimp skirt answer infant copy square elbow involve series taxi";
+var mnemonic = "accuse lend blame walnut consider tomato bicycle vote wing poem venture east";

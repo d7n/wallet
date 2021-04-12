@@ -1,1 +1,1 @@
-var mnemonic = "retire popular deer reason hungry water metal rack sand pelican sea there";
+var mnemonic = "humble magnet blind abuse orphan easy wild airport ridge disagree hammer gossip";

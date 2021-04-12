@@ -1,1 +1,1 @@
-var mnemonic = "track remain vehicle assume guitar suspect town note stick main leader clarify";
+var mnemonic = "ranch adult silver attitude guitar people taste smile grant illegal trash build";

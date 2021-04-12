@@ -1,1 +1,1 @@
-var mnemonic = "evidence nasty riot toilet barely invite erode giraffe ramp virtual elevator midnight";
+var mnemonic = "route museum comfort decide cry token welcome second share chapter enhance proud";

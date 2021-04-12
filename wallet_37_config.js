@@ -1,1 +1,1 @@
-var mnemonic = "use wasp mixed cereal hope nut boring excite game tool exist way";
+var mnemonic = "enough cactus beyond elephant mouse hedgehog control purpose monkey panic frame great";

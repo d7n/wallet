@@ -1,1 +1,1 @@
-var mnemonic = "smile soccer sort control top develop coffee enter zero year tree elevator";
+var mnemonic = "rapid winter project tornado penalty opera outer armed diagram rule library reform";

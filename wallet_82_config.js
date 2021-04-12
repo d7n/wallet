@@ -1,1 +1,1 @@
-var mnemonic = "chef shed parent foster fever yellow census history antenna exhaust virus dress";
+var mnemonic = "waste artefact inject road human you pumpkin drift snake globe company abuse";

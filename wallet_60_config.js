@@ -1,1 +1,1 @@
-var mnemonic = "hand panic spawn quote when where ribbon final physical smoke shell knee";
+var mnemonic = "valley gate access improve company universe vibrant pencil what urban around sand";

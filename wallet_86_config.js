@@ -1,1 +1,1 @@
-var mnemonic = "vast course found olive clip summer surface spring upset spot salad snap";
+var mnemonic = "total cash grant dizzy someone judge refuse jump climb kind motor omit";

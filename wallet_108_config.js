@@ -1,1 +1,1 @@
-var mnemonic = "crouch animal staff consider gorilla spoon icon barely access stomach inhale portion";
+var mnemonic = "try glass monkey leaf choice galaxy ocean choice loyal police march hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond narrow exhibit very gown monkey evoke blade sugar aspect menu crop";
+var mnemonic = "govern april media early practice stereo siege burden ten cloud amused wire";

@@ -1,1 +1,1 @@
-var mnemonic = "relax core pipe live misery fiber possible alert era tuition crash quit";
+var mnemonic = "add shuffle patient between rocket shrug true chaos stock tornado cat permit";

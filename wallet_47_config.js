@@ -1,1 +1,1 @@
-var mnemonic = "mind tail school large behave tray eagle like hole lizard almost helmet";
+var mnemonic = "peace undo kingdom burst lazy correct table amount swift circle exile problem";

@@ -1,1 +1,1 @@
-var mnemonic = "add tonight recycle admit shed evoke happy mirror inmate someone nothing oxygen";
+var mnemonic = "produce neutral idle female crisp feed ball brand become sponsor inject seed";

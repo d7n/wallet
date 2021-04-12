@@ -1,1 +1,1 @@
-var mnemonic = "beef wonder drop assault remain vacuum give volcano hospital ahead common congress";
+var mnemonic = "obey annual prefer mushroom reform immune write notable spoon doctor merry vote";

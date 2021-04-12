@@ -1,1 +1,1 @@
-var mnemonic = "text exact clay harbor orchard number fossil country dish project message orbit";
+var mnemonic = "stable initial science actor marine champion extend issue bitter range phrase behave";

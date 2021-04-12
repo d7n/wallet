@@ -1,1 +1,1 @@
-var mnemonic = "nose text cinnamon someone prefer chapter detect trap cattle about sport arm";
+var mnemonic = "boil also fix omit gown tourist junk mercy steak pull scout hurdle";

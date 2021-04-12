@@ -1,1 +1,1 @@
-var mnemonic = "immense hat route regret pride toddler fold kind idea test cover essay";
+var mnemonic = "ahead twelve indoor front letter busy birth poet adult quiz asthma better";

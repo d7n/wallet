@@ -1,1 +1,1 @@
-var mnemonic = "dish talent magnet valve sentence pudding start planet blind trend flush crystal";
+var mnemonic = "salute page skill undo member now admit poem vault clever lottery stem";

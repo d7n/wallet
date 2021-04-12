@@ -1,1 +1,1 @@
-var mnemonic = "chicken energy girl forward eager aunt pumpkin uniform powder remain trap wedding";
+var mnemonic = "alien swear foot member cable timber spot awful visual wise unique rival";

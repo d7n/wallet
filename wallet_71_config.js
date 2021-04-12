@@ -1,1 +1,1 @@
-var mnemonic = "taste resist punch merit autumn gentle all plastic cricket identify game essence";
+var mnemonic = "clerk bless inflict win neglect crash sniff record effort brown enact provide";

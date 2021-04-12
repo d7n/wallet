@@ -1,1 +1,1 @@
-var mnemonic = "moral video elegant easy link team abuse ticket keep skull rapid sad";
+var mnemonic = "fault faculty sad survey modify engine spider spike prevent connect any secret";

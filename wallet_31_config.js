@@ -1,1 +1,1 @@
-var mnemonic = "damage peace bulk woman icon suit roast raw differ hedgehog flock inspire";
+var mnemonic = "antenna flock rain evoke inner online fog they cry culture marriage vapor";

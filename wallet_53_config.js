@@ -1,1 +1,1 @@
-var mnemonic = "chef defy dove impulse mask truck shine spice sheriff fat special interest";
+var mnemonic = "skate position art project season sustain volume bonus elbow joke bracket logic";

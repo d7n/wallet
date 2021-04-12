@@ -1,1 +1,1 @@
-var mnemonic = "gown sheriff orchard parrot false kingdom fossil prize luxury lock duty find";
+var mnemonic = "double young rocket obtain narrow merit nothing stove opinion flavor face phrase";

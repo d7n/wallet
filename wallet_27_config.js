@@ -1,1 +1,1 @@
-var mnemonic = "connect use cloth captain puzzle team film decorate cotton furnace remind rather";
+var mnemonic = "absurd vehicle text spell reunion riot dinner tag diagram length cruel account";

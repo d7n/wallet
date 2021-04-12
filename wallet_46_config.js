@@ -1,1 +1,1 @@
-var mnemonic = "hand oyster dynamic trash trick dinosaur give steel lamp laugh glad cream";
+var mnemonic = "praise equip ladder slow melody cube similar nation convince modify task enhance";

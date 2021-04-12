@@ -1,1 +1,1 @@
-var mnemonic = "crew hundred focus supreme squeeze bunker antenna search unhappy coin head yard";
+var mnemonic = "supreme olympic future reduce leaf frozen mixture edit ugly traffic surge lab";

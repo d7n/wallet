@@ -1,1 +1,1 @@
-var mnemonic = "hood silly doctor acid naive silver innocent grain describe duck rigid super";
+var mnemonic = "board later bamboo whip option comfort school twelve come loop first siege";

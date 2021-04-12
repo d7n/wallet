@@ -1,1 +1,1 @@
-var mnemonic = "address kit syrup floor hammer goat retreat violin retreat artwork retreat melt";
+var mnemonic = "jump divide situate sentence often flat road truly lady clap elder spare";

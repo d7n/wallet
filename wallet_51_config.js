@@ -1,1 +1,1 @@
-var mnemonic = "mean flag ordinary ride stove recall bread dismiss domain maximum diary honey";
+var mnemonic = "spend copper awful smoke strategy chest gasp captain retreat gorilla orange start";

@@ -1,1 +1,1 @@
-var mnemonic = "lion hurdle nest lizard solid develop practice gentle spend engine control velvet";
+var mnemonic = "gadget flag innocent mass credit bleak hip rare refuse category stadium ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis about tip close race grape choice rain arm bargain garden craft";
+var mnemonic = "woman praise pulp west shrug wagon tribe voyage escape element employ hammer";

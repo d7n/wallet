@@ -1,1 +1,1 @@
-var mnemonic = "judge jungle onion duck differ flee apology hard beyond hawk leaf useless";
+var mnemonic = "model sound license have glass wear stomach detail flower wet permit three";

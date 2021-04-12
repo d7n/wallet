@@ -1,1 +1,1 @@
-var mnemonic = "company prison gravity negative goat busy bullet major column accuse disease trip";
+var mnemonic = "obscure art oval what army false next portion remind surface comfort exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "mother autumn story extend snake fan coyote impose visual gasp carpet divorce";
+var mnemonic = "army muffin light swing fabric crop surge noise ghost shiver episode that";

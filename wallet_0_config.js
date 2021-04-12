@@ -1,1 +1,1 @@
-var mnemonic = "echo link alien bamboo nation junior ready panda multiply spell brisk height";
+var mnemonic = "accident climb guide valve never blouse choose gasp skate type delay spare";

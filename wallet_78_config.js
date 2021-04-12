@@ -1,1 +1,1 @@
-var mnemonic = "sell sustain utility safe car document park detail jealous badge heart cherry";
+var mnemonic = "ski under amazing celery square heavy unable corn brother future patient second";

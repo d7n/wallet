@@ -1,1 +1,1 @@
-var mnemonic = "alien mosquito pink hockey cattle cloth account involve ski cross pluck taxi";
+var mnemonic = "race jungle hint west final step survey remove side glory scrub there";

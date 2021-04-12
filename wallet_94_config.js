@@ -1,1 +1,1 @@
-var mnemonic = "smart omit issue evil option decade project shadow photo key such dream";
+var mnemonic = "amazing test lecture frog beef train parade drum gift country cluster coffee";

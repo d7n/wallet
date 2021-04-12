@@ -1,1 +1,1 @@
-var mnemonic = "rotate under blast scatter noble web drum salute cable scorpion private shadow";
+var mnemonic = "engage country detect embark equip wool vapor valve produce assist simple student";

@@ -1,1 +1,1 @@
-var mnemonic = "shine usage audit decrease hero diagram host pipe blue order meadow float";
+var mnemonic = "fat pupil engage cart deposit inherit attitude prefer deny gas kid december";

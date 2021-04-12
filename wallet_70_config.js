@@ -1,1 +1,1 @@
-var mnemonic = "spirit inch disagree mean cave mango pigeon mansion summer task mail enact";
+var mnemonic = "birth start art air raise huge execute trick alert type repeat donate";

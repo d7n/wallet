@@ -1,1 +1,1 @@
-var mnemonic = "bone fault wing bean fly zoo roast nature blast universe arm prefer";
+var mnemonic = "alley display olive shoulder purity advance orient tennis across around mushroom series";

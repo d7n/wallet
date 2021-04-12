@@ -1,1 +1,1 @@
-var mnemonic = "base finish else stumble napkin orient orbit depth denial venue confirm wolf";
+var mnemonic = "face shaft step remind vocal blame sorry merit bitter inspire fetch mirror";

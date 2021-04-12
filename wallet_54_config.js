@@ -1,1 +1,1 @@
-var mnemonic = "outdoor select enforce govern hawk ignore load orange airport decide symptom valve";
+var mnemonic = "blue focus manual shrimp motor use wrist bright soap this cupboard soft";

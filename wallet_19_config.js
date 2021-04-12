@@ -1,1 +1,1 @@
-var mnemonic = "midnight mule job balcony usage bless inspire adapt derive mom ride faint";
+var mnemonic = "stumble access valid dizzy joke regular charge grow switch spoil jeans vapor";

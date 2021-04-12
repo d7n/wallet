@@ -1,1 +1,1 @@
-var mnemonic = "shift bench visual traffic before eyebrow carry library staff inch shove frozen";
+var mnemonic = "next uniform squirrel lion cash hundred wrestle inflict swim flavor phrase prison";

@@ -1,1 +1,1 @@
-var mnemonic = "grief genre degree whip rain butter season wool mango rookie orient spell";
+var mnemonic = "hen pride segment have various arena next beauty desk cram ordinary naive";

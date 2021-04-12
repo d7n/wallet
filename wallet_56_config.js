@@ -1,1 +1,1 @@
-var mnemonic = "more celery owner skull sentence economy green blast actress casino machine they";
+var mnemonic = "upon visit music number card lecture path spot soft flower fun gift";

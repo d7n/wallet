@@ -1,1 +1,1 @@
-var mnemonic = "already crazy act bomb body index tissue silk weapon sail guide unaware";
+var mnemonic = "bitter clock bargain know increase movie note wood feed equip blade gentle";

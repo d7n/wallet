@@ -1,1 +1,1 @@
-var mnemonic = "category humble kid tuna beyond device soft lumber brain this material gadget";
+var mnemonic = "burst ritual fatal admit wash aisle across before ice mystery drift wreck";

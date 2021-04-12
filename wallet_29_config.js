@@ -1,1 +1,1 @@
-var mnemonic = "excite pill swim that include duck warrior barely future truly try retire";
+var mnemonic = "fortune tape story fork bid cruise absorb arrive spoon air strong salad";

@@ -1,1 +1,1 @@
-var mnemonic = "horn main bronze equal high pumpkin purity arch demise gate lady palm";
+var mnemonic = "october airport ecology forum session depart duck public hour trial lamp message";

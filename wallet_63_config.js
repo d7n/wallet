@@ -1,1 +1,1 @@
-var mnemonic = "produce alley flag fantasy face replace enable abuse piano across hedgehog pause";
+var mnemonic = "wish evidence output salon cash rack evoke stay want fury finger chicken";

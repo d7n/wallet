@@ -1,1 +1,1 @@
-var mnemonic = "monkey limb exhibit damage mouse weird coin increase range brick prize panel";
+var mnemonic = "like three bargain business horn fitness foam forward badge step scare whale";

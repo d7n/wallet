@@ -1,1 +1,1 @@
-var mnemonic = "crime accident size soft border tattoo topic sun wheel proof climb cruise";
+var mnemonic = "claw runway mass cruise crime action alpha still rescue shrug lesson remove";

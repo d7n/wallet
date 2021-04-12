@@ -1,1 +1,1 @@
-var mnemonic = "claw connect infant critic cage thing shaft alpha day lesson basket moment";
+var mnemonic = "purity scene rough outside copper service spread ceiling idea wasp say tell";

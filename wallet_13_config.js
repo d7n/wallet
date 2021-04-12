@@ -1,1 +1,1 @@
-var mnemonic = "rebuild detail wait crack myself monster light eye evolve swift mechanic amused";
+var mnemonic = "talk turkey sort fashion differ switch rival couch crew tornado river lock";

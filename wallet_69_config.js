@@ -1,1 +1,1 @@
-var mnemonic = "crumble tiger combine farm moral sentence horse matrix surround lyrics rival pave";
+var mnemonic = "earth wrist custom novel tiger mule antenna tomorrow burst truck country pull";

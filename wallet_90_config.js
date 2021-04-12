@@ -1,1 +1,1 @@
-var mnemonic = "return anxiety test expand height bronze giggle awake sting either skirt own";
+var mnemonic = "mosquito rather crawl ramp upgrade loan subway portion inject edit artefact rabbit";

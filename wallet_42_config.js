@@ -1,1 +1,1 @@
-var mnemonic = "merge differ increase flash term grape sponsor recall floor evidence desk mail";
+var mnemonic = "silk ankle attitude tenant owner picture board swear keen female glide impose";

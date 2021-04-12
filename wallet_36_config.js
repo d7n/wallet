@@ -1,1 +1,1 @@
-var mnemonic = "marble glance short cotton problem catalog cart like ghost more mandate guitar";
+var mnemonic = "ride market leg later vapor vault typical elephant agent pilot design settle";

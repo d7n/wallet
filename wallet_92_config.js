@@ -1,1 +1,1 @@
-var mnemonic = "hurry reduce monitor elite worth work chalk seminar green hole fantasy aspect";
+var mnemonic = "fat reward apology find tube apart grid flower grab spider critic peanut";

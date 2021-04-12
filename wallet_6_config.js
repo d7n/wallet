@@ -1,1 +1,1 @@
-var mnemonic = "trumpet toy split uphold ahead ozone credit author brass must practice leopard";
+var mnemonic = "swear shove client exist seminar bid arrow glue original grunt machine segment";

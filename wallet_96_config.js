@@ -1,1 +1,1 @@
-var mnemonic = "decrease portion age lucky hover kit sniff ocean device black spell raven";
+var mnemonic = "sphere tonight rapid shock faculty clock victory machine margin honey damp glance";

@@ -1,1 +1,1 @@
-var mnemonic = "region private girl citizen glory recall lock pupil steak enter vacuum drink";
+var mnemonic = "vacant profit local actor jump stem ability street seed exclude strategy arena";

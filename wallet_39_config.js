@@ -1,1 +1,1 @@
-var mnemonic = "oyster entire safe library flee celery chaos abandon dial room artwork poet";
+var mnemonic = "equal soda recipe share guide obey enrich cycle scissors volume cause vintage";

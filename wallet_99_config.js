@@ -1,1 +1,1 @@
-var mnemonic = "display balance detail october already edit horn arrow shed adapt now must";
+var mnemonic = "expand improve toddler muffin cruise senior employ seat whisper bird nose dignity";

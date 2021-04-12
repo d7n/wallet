@@ -1,1 +1,1 @@
-var mnemonic = "omit awesome note echo maple reward law category around they recall grid";
+var mnemonic = "skull stable salad museum universe trend powder wheel donate attend relax label";

@@ -1,1 +1,1 @@
-var mnemonic = "radar uncover burden donor often noise rocket have bone spray scissors achieve";
+var mnemonic = "tornado pond wealth pelican useless clay cause second salt exhaust high remain";
