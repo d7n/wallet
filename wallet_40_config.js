@@ -1,1 +1,1 @@
-var mnemonic = "coil body student three forward frost only hollow bronze excite build unaware";
+var mnemonic = "risk garage bring turn word segment parent language easy acid lava inspire";

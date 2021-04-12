@@ -1,1 +1,1 @@
-var mnemonic = "degree edit knife job music scatter stool lift erupt inner moon marriage";
+var mnemonic = "canal health level reflect slight upgrade morning club sword trash clinic nest";

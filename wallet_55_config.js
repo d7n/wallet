@@ -1,1 +1,1 @@
-var mnemonic = "police garbage purity bachelor used sock front demand tilt series flip fuel";
+var mnemonic = "accuse love talk belt hamster aisle song prefer music dynamic virtual ribbon";

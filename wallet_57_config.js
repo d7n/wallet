@@ -1,1 +1,1 @@
-var mnemonic = "kingdom cage crystal prefer glove always village atom outside sponsor shrug label";
+var mnemonic = "derive gesture music visual brass prison digital caught crash estate reward wish";

@@ -1,1 +1,1 @@
-var mnemonic = "gold desert report cover shove easy powder shoe attend recipe text infant";
+var mnemonic = "dry trophy any swallow west mistake tail bottom fire flock boat nature";

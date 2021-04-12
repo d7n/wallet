@@ -1,1 +1,1 @@
-var mnemonic = "usual will appear pledge license try weather smooth dad ramp ring diamond";
+var mnemonic = "solid protect patient midnight fat eye clip vote push secret good uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "direct device debate they pattern april surface still traffic resemble awesome economy";
+var mnemonic = "half shoot social piece dinosaur era film party situate piano issue dismiss";

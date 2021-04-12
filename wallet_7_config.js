@@ -1,1 +1,1 @@
-var mnemonic = "left strong ice floor inhale movie issue fit auction pelican desert jar";
+var mnemonic = "stable lawn flash auction shadow dilemma they congress day system receive bid";

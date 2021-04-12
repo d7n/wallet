@@ -1,1 +1,1 @@
-var mnemonic = "night attract twin veteran valid boost ethics destroy answer account drastic enroll";
+var mnemonic = "drip gift human position honey where device congress helmet nut battle version";

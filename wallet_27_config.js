@@ -1,1 +1,1 @@
-var mnemonic = "quantum topple they pitch kiwi slender extra relax wheat obtain sign mandate";
+var mnemonic = "shuffle bubble near shoe earth pause midnight dash assist pave flag render";

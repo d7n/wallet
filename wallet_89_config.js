@@ -1,1 +1,1 @@
-var mnemonic = "tornado decline suspect echo load circle panda laptop frown next blade spatial";
+var mnemonic = "cheese demand rug nothing museum wool manual tone finish kiss inhale almost";

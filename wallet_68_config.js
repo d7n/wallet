@@ -1,1 +1,1 @@
-var mnemonic = "differ accuse misery supreme alter anchor wreck benefit hub east pupil faith";
+var mnemonic = "deny security gesture hockey van critic grape brother cruel flag garlic involve";

@@ -1,1 +1,1 @@
-var mnemonic = "absent crystal else convince chair session canyon once nose delay envelope exist";
+var mnemonic = "update rice heavy usage cloth seven install want guitar zoo fragile mom";

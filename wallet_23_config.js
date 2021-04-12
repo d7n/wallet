@@ -1,1 +1,1 @@
-var mnemonic = "rabbit spider hen green anxiety glance ancient elegant minor sentence egg pitch";
+var mnemonic = "involve donate cart system degree funny ceiling cupboard garden mouse mixture cactus";

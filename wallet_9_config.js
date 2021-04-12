@@ -1,1 +1,1 @@
-var mnemonic = "gesture hire shine clerk social flower shy quiz permit already carbon power";
+var mnemonic = "detail raven leg suspect walk margin assist lemon ancient correct arrange monitor";

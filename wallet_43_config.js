@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur climb steel melt test reason video hip fire pumpkin change actress";
+var mnemonic = "wonder thunder trophy vendor patrol success lab fine grape apple month observe";

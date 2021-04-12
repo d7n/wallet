@@ -1,1 +1,1 @@
-var mnemonic = "flat convince hockey school popular image beef infant once rhythm life announce";
+var mnemonic = "issue manual panda vendor breeze area teach focus lyrics wine charge uncle";

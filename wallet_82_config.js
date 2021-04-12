@@ -1,1 +1,1 @@
-var mnemonic = "lucky dad february forget rent giraffe argue grief diesel fashion fruit random";
+var mnemonic = "knee gentle gift minute shift tail embody extend gas candy lobster pigeon";

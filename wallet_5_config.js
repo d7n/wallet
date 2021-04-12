@@ -1,1 +1,1 @@
-var mnemonic = "glory indicate shed clump away eager window ceiling employ adapt sentence unfold";
+var mnemonic = "athlete trash decline uniform grass average tide dry brave width island attitude";

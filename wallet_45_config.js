@@ -1,1 +1,1 @@
-var mnemonic = "bitter frequent dry receive slogan remain unfair wide track address slim tower";
+var mnemonic = "method mirror tunnel salute sport sad attend depth zero then glow combine";

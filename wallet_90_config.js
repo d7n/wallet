@@ -1,1 +1,1 @@
-var mnemonic = "donate welcome insane grocery control trophy punch journey unique bleak aunt stand";
+var mnemonic = "anchor motion disease split maid guide spider discover cart suspect boil bunker";

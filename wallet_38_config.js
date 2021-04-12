@@ -1,1 +1,1 @@
-var mnemonic = "point whale memory shrug woman snap review debate jacket consider velvet hope";
+var mnemonic = "melody habit disagree spawn strike fetch innocent that burst result resist punch";

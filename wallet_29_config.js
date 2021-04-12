@@ -1,1 +1,1 @@
-var mnemonic = "staff under ritual front art one thrive exchange purchase daring neutral grab";
+var mnemonic = "blind bind pledge urban always joy harbor huge hollow cloud mountain skill";

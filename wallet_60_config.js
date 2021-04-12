@@ -1,1 +1,1 @@
-var mnemonic = "wood make artwork base glide drip mad mouse gas media federal cement";
+var mnemonic = "upon sound sudden huge describe famous grit reduce cheese rose impact dance";

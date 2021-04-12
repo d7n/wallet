@@ -1,1 +1,1 @@
-var mnemonic = "identify bulb term dress wish salon dwarf prevent chimney mad enact license";
+var mnemonic = "champion salt voyage chase put flush fiber smooth round gesture discover fix";

@@ -1,1 +1,1 @@
-var mnemonic = "magic wire panda cream bacon spatial weapon word cram loan winner clock";
+var mnemonic = "tray once apology fuel whisper page chest sleep leisure meat jar disease";

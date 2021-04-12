@@ -1,1 +1,1 @@
-var mnemonic = "believe hedgehog finger buffalo merge coral cinnamon since hundred night whale tent";
+var mnemonic = "alley chat race ozone display urge hat screen stick scatter else buyer";

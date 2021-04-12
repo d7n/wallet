@@ -1,1 +1,1 @@
-var mnemonic = "alarm someone stay wrestle pioneer upgrade lesson speed volume abuse element square";
+var mnemonic = "next essence wine stairs pelican diamond kitten obvious fabric super receive survey";

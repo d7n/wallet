@@ -1,1 +1,1 @@
-var mnemonic = "cricket perfect verb month tooth merry image rose finger square wasp plug";
+var mnemonic = "trouble napkin moral nasty spread december vague reason crunch bless wash supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "truck kitten custom shuffle universe stadium velvet keen crush arrow artwork clean";
+var mnemonic = "coral sun error lock repeat dirt elevator crunch project fence project spike";

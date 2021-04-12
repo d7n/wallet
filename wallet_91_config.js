@@ -1,1 +1,1 @@
-var mnemonic = "exist human crawl usage dragon reform stable apology pilot rival helmet tobacco";
+var mnemonic = "holiday youth legal flock provide abstract useful moral topple plug clump help";

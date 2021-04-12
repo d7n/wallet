@@ -1,1 +1,1 @@
-var mnemonic = "require example valid craft cat cherry spread rate position welcome kite wrap";
+var mnemonic = "jacket slender wheel uniform anxiety home fiber focus display drill cloud rather";

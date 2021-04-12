@@ -1,1 +1,1 @@
-var mnemonic = "box neutral rotate debate medal panda nice close unknown equal interest behind";
+var mnemonic = "eight hobby usage raw spray allow wing mansion put total goddess color";

@@ -1,1 +1,1 @@
-var mnemonic = "second bird screen truth mixed rabbit deliver chef solar wave else undo";
+var mnemonic = "print surprise response pudding humor priority betray cargo phone broom like feed";

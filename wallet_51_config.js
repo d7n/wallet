@@ -1,1 +1,1 @@
-var mnemonic = "lizard ladder loyal thought dignity answer stuff image avocado neither suggest wonder";
+var mnemonic = "gesture vital super code pull sunset shop maze order choose lucky bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "bird mansion horror toilet hurt rare return kitchen embark zoo mean foster";
+var mnemonic = "embrace behind pride casino owner dress message want rabbit brick thunder olive";

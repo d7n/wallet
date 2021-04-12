@@ -1,1 +1,1 @@
-var mnemonic = "always mouse venue point sponsor mouse connect movie lizard pill gaze crisp";
+var mnemonic = "table foot february receive bacon salon magic faith memory basic tomato birth";

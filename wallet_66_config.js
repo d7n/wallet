@@ -1,1 +1,1 @@
-var mnemonic = "ghost buyer nut ready brief that fury fiscal penalty evoke crash apple";
+var mnemonic = "bounce blush page pink city rabbit width weapon panther settle oval maple";

@@ -1,1 +1,1 @@
-var mnemonic = "baby section pipe deliver coffee brown tray dwarf card warrior utility shell";
+var mnemonic = "ten boss alcohol scene cushion phone oppose gift rocket adult basket ugly";

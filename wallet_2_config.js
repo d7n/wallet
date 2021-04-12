@@ -1,1 +1,1 @@
-var mnemonic = "when armor surface gold aisle gun crucial seek pilot copy brown viable";
+var mnemonic = "key mind exotic track solar vacant horn woman armed release afford steak";

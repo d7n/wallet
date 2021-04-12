@@ -1,1 +1,1 @@
-var mnemonic = "crouch ecology wave school idle misery amazing night tape mandate under wet";
+var mnemonic = "layer good nature gym nuclear ahead wrong include parent rabbit answer robot";

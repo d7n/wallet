@@ -1,1 +1,1 @@
-var mnemonic = "unable olive cave witness crazy elevator kitchen glow mushroom inhale mean labor";
+var mnemonic = "truly number bullet govern proud fish valley amount defy material scheme task";

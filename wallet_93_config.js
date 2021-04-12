@@ -1,1 +1,1 @@
-var mnemonic = "immune rich juice bronze jump six vacant wild tone reunion dove spring";
+var mnemonic = "resemble device ability ready spring sound student area wedding rescue seek faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish lawn ring peasant draft neglect game kid river news help release";
+var mnemonic = "vapor remember tuition spend zero cry rack scene earn space plunge detail";

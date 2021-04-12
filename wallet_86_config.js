@@ -1,1 +1,1 @@
-var mnemonic = "correct wise penalty reject trap panel buddy number shrimp bamboo stomach alley";
+var mnemonic = "can amount method scale mixed shrimp seat tumble move essay calm say";

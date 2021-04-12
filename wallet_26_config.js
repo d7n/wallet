@@ -1,1 +1,1 @@
-var mnemonic = "tank soda edge relief remind trial cloth city change program warfare fan";
+var mnemonic = "enroll divert deer quiz deliver birth husband furnace mind grid front blast";

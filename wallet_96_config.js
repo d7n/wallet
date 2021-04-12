@@ -1,1 +1,1 @@
-var mnemonic = "person enact fiber strike august spoon impose mansion fall modify essence medal";
+var mnemonic = "middle hockey hen edge betray turn toss space sun cash elephant infant";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb whisper suspect leopard market day dolphin plunge correct brisk cricket weather";
+var mnemonic = "equip nice crucial join mind people notable rather hand cave pelican buzz";

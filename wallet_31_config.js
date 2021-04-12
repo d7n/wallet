@@ -1,1 +1,1 @@
-var mnemonic = "certain drip carpet ice point sample truck trap wood fruit stadium suspect";
+var mnemonic = "know craft curious health various erode play hazard monster head habit hurt";

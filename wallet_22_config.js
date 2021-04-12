@@ -1,1 +1,1 @@
-var mnemonic = "spare citizen own proud upon school galaxy soon badge evil number mixture";
+var mnemonic = "jacket stuff diagram firm panel sketch shrimp manual tool broken despair cinnamon";

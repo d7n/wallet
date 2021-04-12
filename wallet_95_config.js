@@ -1,1 +1,1 @@
-var mnemonic = "stomach reflect eye decrease finger snap tell elder twist coffee quantum opinion";
+var mnemonic = "toward swamp ancient faculty lyrics motor math device age wrist father derive";

@@ -1,1 +1,1 @@
-var mnemonic = "hen wagon moment shield sauce fish rather bid split life hedgehog multiply";
+var mnemonic = "garlic ranch then syrup jar whisper summer fall rice steel ghost surface";

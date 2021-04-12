@@ -1,1 +1,1 @@
-var mnemonic = "fan isolate deal cable anger wink affair antenna such game latin knock";
+var mnemonic = "dismiss soap ridge vital tackle slogan around adult blood scissors apology merge";

@@ -1,1 +1,1 @@
-var mnemonic = "day invite result zone crime gasp party sustain adult glue tomorrow pencil";
+var mnemonic = "region taste bitter arrive kite wing obtain mobile parent scare stone sweet";

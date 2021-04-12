@@ -1,1 +1,1 @@
-var mnemonic = "visit label accuse flock eager theory drama shoulder shed kangaroo fine primary";
+var mnemonic = "emotion finger middle sword tobacco kidney element measure identify quit drill post";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito pottery quarter alarm sustain unhappy negative because nest onion measure affair";
+var mnemonic = "main crystal hair peace pioneer social awake term chase harvest lab bench";

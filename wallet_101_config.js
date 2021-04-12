@@ -1,1 +1,1 @@
-var mnemonic = "gesture hospital nut sheriff bright nose zone high expose choice bring youth";
+var mnemonic = "whip float note elevator raccoon evolve example calm broccoli excess minute topple";

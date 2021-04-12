@@ -1,1 +1,1 @@
-var mnemonic = "turkey until faculty middle chronic pledge bacon exercise floor funny taxi swamp";
+var mnemonic = "alpha produce zone ecology exile sun document viable brick tennis jump shaft";

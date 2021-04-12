@@ -1,1 +1,1 @@
-var mnemonic = "number cat age ritual total zone journey inherit auto state donkey lab";
+var mnemonic = "nice snap another thing thing dynamic element code twin night luxury good";

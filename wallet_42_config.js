@@ -1,1 +1,1 @@
-var mnemonic = "road rare advance tunnel parrot keen dawn wink knock inspire custom three";
+var mnemonic = "various barely wage property salad cupboard opera way art enforce system hedgehog";

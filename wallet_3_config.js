@@ -1,1 +1,1 @@
-var mnemonic = "horror furnace man name magic deposit layer cargo rebel bring duty admit";
+var mnemonic = "this define glory apple pear excess divert rib brand involve firm vacant";

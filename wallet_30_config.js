@@ -1,1 +1,1 @@
-var mnemonic = "puppy verb extend palace soon poem lumber eagle oil dumb ecology keen";
+var mnemonic = "pottery orphan climb canal find state fresh crucial measure cross nephew exclude";

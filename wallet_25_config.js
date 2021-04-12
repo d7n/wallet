@@ -1,1 +1,1 @@
-var mnemonic = "nerve slender unfair paper cheese cotton panel census lonely flush reopen tooth";
+var mnemonic = "thought treat practice bridge ahead immense exact century joke hedgehog opinion record";

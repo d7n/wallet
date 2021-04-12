@@ -1,1 +1,1 @@
-var mnemonic = "combine call couple math true blossom catch eyebrow jaguar donate able soda";
+var mnemonic = "stomach powder leisure moment assume able advance parrot brain diagram hungry tired";

@@ -1,1 +1,1 @@
-var mnemonic = "cement congress rely blood goose mad admit sense corn turkey mutual limit";
+var mnemonic = "ship first area prize observe elevator leopard tag color fish harvest squirrel";

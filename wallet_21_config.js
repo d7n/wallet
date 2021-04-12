@@ -1,1 +1,1 @@
-var mnemonic = "sort minute choose ketchup connect crawl clinic wolf stadium hair egg program";
+var mnemonic = "note rude garage reject real permit fault such kangaroo invite coffee escape";

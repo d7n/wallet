@@ -1,1 +1,1 @@
-var mnemonic = "level narrow prefer town popular stool roof already sudden include garlic used";
+var mnemonic = "meadow hybrid fog typical left nurse labor tell inform history world image";

@@ -1,1 +1,1 @@
-var mnemonic = "found cabbage hazard dolphin library kite awkward wolf only glimpse evoke start";
+var mnemonic = "inner garage gorilla coast icon glimpse galaxy weekend candy primary world figure";

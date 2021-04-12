@@ -1,1 +1,1 @@
-var mnemonic = "kind buddy tomato involve lizard route output message impose control great faint";
+var mnemonic = "butter cushion predict rebel reject when leopard volume total identify glove tape";

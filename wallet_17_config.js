@@ -1,1 +1,1 @@
-var mnemonic = "local rug half layer view dog merry kick bone hold snake when";
+var mnemonic = "tool finger surprise arctic mom demise coyote saddle sugar hospital advice crash";

@@ -1,1 +1,1 @@
-var mnemonic = "between reward gauge solid yard private chaos want expand call demand shove";
+var mnemonic = "ostrich coffee planet inhale tray zoo team over family again finger olive";

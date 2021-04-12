@@ -1,1 +1,1 @@
-var mnemonic = "system visual metal detail once chimney cheap merry december wet proof square";
+var mnemonic = "example brown air brick mosquito prosper pistol bean cheap work pear wrong";

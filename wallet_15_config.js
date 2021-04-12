@@ -1,1 +1,1 @@
-var mnemonic = "garage captain valley sadness spy basic monkey loud draw use menu trumpet";
+var mnemonic = "receive error assume figure stool morning must ritual vote hungry cage bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest loop october maze game elite feature display invest coast else envelope";
+var mnemonic = "mind add lawsuit dizzy audit much piece angle copper unable bulb fence";

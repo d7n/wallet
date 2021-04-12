@@ -1,1 +1,1 @@
-var mnemonic = "uncover object erase marriage aunt avoid opinion blast razor muffin coffee square";
+var mnemonic = "video life health useful hurdle solar gasp fish enhance urge year change";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff unhappy link ketchup avoid seat vibrant enable coconut point skill keen";
+var mnemonic = "unknown fringe hen foam expect umbrella sing enable second fence sad symptom";

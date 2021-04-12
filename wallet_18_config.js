@@ -1,1 +1,1 @@
-var mnemonic = "alpha fitness swallow purpose key share rare quote slot pilot cloth slot";
+var mnemonic = "slab grass raw swim identify apology world chase when spoil family other";

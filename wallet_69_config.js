@@ -1,1 +1,1 @@
-var mnemonic = "maze copper define awake whale trick quiz uniform student plug swamp theory";
+var mnemonic = "indicate theory empty club daring gate erase head amount coyote razor coconut";

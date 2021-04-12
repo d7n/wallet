@@ -1,1 +1,1 @@
-var mnemonic = "giant school goose early latin smart connect neutral protect leg image drop";
+var mnemonic = "clutch erase climb view duck vocal violin elder demise seek garage crater";

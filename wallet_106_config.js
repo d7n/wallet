@@ -1,1 +1,1 @@
-var mnemonic = "glide vast foil glass detect quote good output churn swift love empty";
+var mnemonic = "spike canoe doll symptom brave start man blood castle drill sick pupil";

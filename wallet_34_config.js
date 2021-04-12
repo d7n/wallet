@@ -1,1 +1,1 @@
-var mnemonic = "giant armor pear armor donate decrease cute twelve federal asthma screen cave";
+var mnemonic = "energy limit skin damp kind tiny visit around balcony universe fringe ridge";

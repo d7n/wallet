@@ -1,1 +1,1 @@
-var mnemonic = "maze lunch obey anger nose mushroom pitch fly ceiling sibling nice orange";
+var mnemonic = "legal mom avoid fancy slot sad neither maze tunnel beach gate mango";

@@ -1,1 +1,1 @@
-var mnemonic = "purse mother tide spare rigid ozone surprise duty novel few upset pilot";
+var mnemonic = "story inflict digital ancient hip limit gauge border retire dream wolf august";

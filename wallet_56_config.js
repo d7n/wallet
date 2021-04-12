@@ -1,1 +1,1 @@
-var mnemonic = "flip motion liar caught sweet lunch family produce shaft squirrel provide orchard";
+var mnemonic = "list confirm wear connect poem adapt spring march time guess damp expose";

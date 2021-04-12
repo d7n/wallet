@@ -1,1 +1,1 @@
-var mnemonic = "float view try announce van question pill assault fiber mechanic rate grit";
+var mnemonic = "glide member resist bracket dog tortoise dignity orient snow dice carpet ship";

@@ -1,1 +1,1 @@
-var mnemonic = "fall army this city dress cancel push engage walk vocal lucky zero";
+var mnemonic = "trend romance access bid lemon utility profit flash torch possible case resist";

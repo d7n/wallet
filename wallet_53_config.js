@@ -1,1 +1,1 @@
-var mnemonic = "aim various empower riot room cousin entry animal unable plunge number kind";
+var mnemonic = "excite invest business ahead survey seat orange fever state brass bamboo task";
