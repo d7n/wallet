@@ -1,1 +1,1 @@
-var mnemonic = "setup solid raw swarm penalty home nose craft luggage sell west chat";
+var mnemonic = "ensure matter elegant bridge route surface shuffle magnet thunder lobster advice resist";

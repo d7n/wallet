@@ -1,1 +1,1 @@
-var mnemonic = "plunge network collect gold sell indoor reduce subway cry leopard erupt tent";
+var mnemonic = "donor amount cousin dish calm kid index soon ankle captain capable hello";

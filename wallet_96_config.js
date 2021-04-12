@@ -1,1 +1,1 @@
-var mnemonic = "thing volume glare dance home hub person child legal mechanic trim tribe";
+var mnemonic = "ski elbow wrap daughter decorate decorate pencil knee shed donate spirit shoe";

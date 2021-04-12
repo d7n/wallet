@@ -1,1 +1,1 @@
-var mnemonic = "nose vessel flag below antenna inherit sign kind riot middle garden top";
+var mnemonic = "sad thing unusual scissors monitor wisdom erode pyramid two congress silly awesome";

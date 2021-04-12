@@ -1,1 +1,1 @@
-var mnemonic = "wealth mesh latin junior bring luxury kick remind client upper result female";
+var mnemonic = "supreme awkward better vote cup captain shop math select word snack mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor faith leopard memory champion large vote wreck cry motor globe across";
+var mnemonic = "cabin lesson pencil series disease crash addict click animal energy ecology furnace";

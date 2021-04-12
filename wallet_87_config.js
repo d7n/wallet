@@ -1,1 +1,1 @@
-var mnemonic = "nose monitor bind access rain alter seven bamboo okay raccoon load army";
+var mnemonic = "fame minimum feel input chef near insect oval afraid gate thing coffee";

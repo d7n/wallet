@@ -1,1 +1,1 @@
-var mnemonic = "dune voice adjust whale record danger shoe excess learn render keep minimum";
+var mnemonic = "paddle grab autumn define people drive crush monster edge sell leg spawn";

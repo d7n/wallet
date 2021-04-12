@@ -1,1 +1,1 @@
-var mnemonic = "cost boost bar require sand enjoy route gasp hockey nasty tell castle";
+var mnemonic = "cotton post garlic gentle length protect engage oval assist keen about flame";

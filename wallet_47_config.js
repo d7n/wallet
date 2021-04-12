@@ -1,1 +1,1 @@
-var mnemonic = "habit labor analyst alarm tomato filter unusual impulse guard swamp remind enable";
+var mnemonic = "asset early swim unable much advance twist pioneer alpha limb glide prepare";

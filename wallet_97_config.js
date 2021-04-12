@@ -1,1 +1,1 @@
-var mnemonic = "raise milk thunder canvas burst height wait brother merge weekend good casino";
+var mnemonic = "dragon cross path country lyrics repeat pencil busy ill window actor bid";

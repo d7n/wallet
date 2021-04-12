@@ -1,1 +1,1 @@
-var mnemonic = "notice winter extend cinnamon bleak file lawn stable scare smoke pioneer pig";
+var mnemonic = "buddy pair quick top subject actor wall ripple convince prefer mind unaware";

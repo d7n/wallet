@@ -1,1 +1,1 @@
-var mnemonic = "fiscal immense never novel mind mask keep giggle turn police royal horn";
+var mnemonic = "inform melt jump trouble magnet smart predict angry grape figure vacant cost";

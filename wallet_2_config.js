@@ -1,1 +1,1 @@
-var mnemonic = "ladder tortoise echo differ bonus save blur uncover adapt slight wait turn";
+var mnemonic = "legal ripple junior essence master science velvet correct region regret cruel gossip";

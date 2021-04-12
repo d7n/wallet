@@ -1,1 +1,1 @@
-var mnemonic = "original stadium stage divorce hawk flee settle curious edit royal people squirrel";
+var mnemonic = "chicken figure million plunge circle ability item stereo health pole fly seminar";

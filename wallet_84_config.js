@@ -1,1 +1,1 @@
-var mnemonic = "tilt dust tooth deliver until magnet exhibit jump hat resist monster lock";
+var mnemonic = "arena sphere dolphin mountain fan glory stuff pool bargain rocket erase gap";

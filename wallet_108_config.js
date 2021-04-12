@@ -1,1 +1,1 @@
-var mnemonic = "feature crunch humor trigger swallow menu tragic year expand decide glove trophy";
+var mnemonic = "shop whisper pink neutral school audit misery survey nature office net flock";

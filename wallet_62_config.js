@@ -1,1 +1,1 @@
-var mnemonic = "uphold memory rare run peasant flock team used rocket cupboard hen wage";
+var mnemonic = "casino project pass eternal title sign bullet fringe delay neglect turkey replace";

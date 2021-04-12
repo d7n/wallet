@@ -1,1 +1,1 @@
-var mnemonic = "hotel proud walnut know ask noble wheel pupil conduct scrub outdoor column";
+var mnemonic = "veteran conduct abuse opinion episode denial into remind used fold enlist scrap";

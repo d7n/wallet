@@ -1,1 +1,1 @@
-var mnemonic = "dose wet scan ball rubber cattle enroll enroll wasp sadness rug cry";
+var mnemonic = "flag april address girl wagon only try exchange traffic income napkin deliver";

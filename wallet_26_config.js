@@ -1,1 +1,1 @@
-var mnemonic = "rapid renew flight flame join sponsor exit battle divorce refuse august still";
+var mnemonic = "cost expect explain ivory route zebra eight report beach release spend taxi";

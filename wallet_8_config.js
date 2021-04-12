@@ -1,1 +1,1 @@
-var mnemonic = "budget shadow wood tourist nerve library sibling slim fat autumn kitchen marriage";
+var mnemonic = "leave drive vessel knee pencil sign enhance faint group amount slim case";

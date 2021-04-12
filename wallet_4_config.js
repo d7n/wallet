@@ -1,1 +1,1 @@
-var mnemonic = "skill next head venue wild aspect electric water drink collect become private";
+var mnemonic = "island champion wide ribbon oxygen need since effort forget air account draw";

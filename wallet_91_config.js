@@ -1,1 +1,1 @@
-var mnemonic = "lecture allow woman fossil wagon skull wide exact chaos health kick occur";
+var mnemonic = "pair bonus height matrix ball gown twice butter common always remain witness";

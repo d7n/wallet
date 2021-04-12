@@ -1,1 +1,1 @@
-var mnemonic = "gospel ability venture nominee initial fancy smoke scatter avocado top allow merry";
+var mnemonic = "rely steak replace super kitten trust immune submit act nurse enjoy opera";

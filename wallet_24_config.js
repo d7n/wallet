@@ -1,1 +1,1 @@
-var mnemonic = "need twelve tilt review then clutch detect ride dash file unusual caution";
+var mnemonic = "goose february organ mansion pencil run maze asset stumble fancy real purpose";

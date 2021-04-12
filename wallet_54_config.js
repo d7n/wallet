@@ -1,1 +1,1 @@
-var mnemonic = "cheese spend only warm grant custom range chase casino prosper park humble";
+var mnemonic = "tuition cabbage kite lens corn purchase forget hockey bar badge garment sentence";

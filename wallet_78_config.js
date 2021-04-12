@@ -1,1 +1,1 @@
-var mnemonic = "grape build online tragic hawk apart indoor struggle moon virtual spot describe";
+var mnemonic = "diary mandate mouse possible announce journey brush transfer token spring bag between";

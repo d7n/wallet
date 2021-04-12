@@ -1,1 +1,1 @@
-var mnemonic = "key grape shop fiction sponsor together number atom exhibit notice remain maid";
+var mnemonic = "gadget clever soap village citizen taxi differ laundry jewel net cloud juice";

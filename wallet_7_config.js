@@ -1,1 +1,1 @@
-var mnemonic = "silent bus rookie boost twelve frog patch bright float card expire edit";
+var mnemonic = "celery thumb extra toe young student empower local party sun tumble idle";

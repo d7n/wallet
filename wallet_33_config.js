@@ -1,1 +1,1 @@
-var mnemonic = "like hospital antique reflect use disagree bacon express walnut runway mistake symptom";
+var mnemonic = "marriage hat rack pride perfect finish panic chicken boring model olive rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "extend dynamic true insane face play verb taste depart hamster insect deliver";
+var mnemonic = "digital witness parent loud crumble door believe magic never pigeon reopen another";

@@ -1,1 +1,1 @@
-var mnemonic = "artist party random drastic fantasy senior right spoon easily fresh void winner";
+var mnemonic = "note orchard carpet remember polar lunar party aunt whale ancient expose seek";

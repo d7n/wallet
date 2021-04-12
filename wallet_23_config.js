@@ -1,1 +1,1 @@
-var mnemonic = "juice grant olympic when pulse siege render endorse grunt thank oven skull";
+var mnemonic = "weird purchase type large can receive upper under sick square minute manual";

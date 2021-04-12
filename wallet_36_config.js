@@ -1,1 +1,1 @@
-var mnemonic = "energy mimic banana awkward gauge such agree regret lazy train educate suffer";
+var mnemonic = "garment better word voyage short mushroom bicycle dilemma pitch behave celery cousin";

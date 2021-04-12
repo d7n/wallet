@@ -1,1 +1,1 @@
-var mnemonic = "badge among fly say mobile duty essay glove hint invite path typical";
+var mnemonic = "turn quote catalog guard waste glide season column age icon chalk defense";

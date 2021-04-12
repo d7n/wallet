@@ -1,1 +1,1 @@
-var mnemonic = "hand desert able flash mimic pupil muscle yellow caution bubble solve shoot";
+var mnemonic = "pyramid stereo bar pigeon short test social office awake diamond spring mother";

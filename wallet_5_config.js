@@ -1,1 +1,1 @@
-var mnemonic = "drum green coyote hold true arm subject siren wrap south meadow clay";
+var mnemonic = "addict define swamp left such famous bunker else illness zone iron wild";

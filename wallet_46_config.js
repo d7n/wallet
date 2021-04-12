@@ -1,1 +1,1 @@
-var mnemonic = "caution march timber elbow liar leg student hour era lizard mansion earth";
+var mnemonic = "judge receive hospital enough tobacco random mystery black scrap hunt meadow genius";

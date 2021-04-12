@@ -1,1 +1,1 @@
-var mnemonic = "response reason angle because transfer chair argue february gospel blue sustain dish";
+var mnemonic = "civil lobster minimum grid camera shallow isolate team drum long legal asthma";

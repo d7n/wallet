@@ -1,1 +1,1 @@
-var mnemonic = "debate news rotate spring theme river private unfold inner boy oval strike";
+var mnemonic = "boy process plate grape laundry mosquito daughter absent oxygen luggage fruit cushion";

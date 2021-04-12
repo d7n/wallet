@@ -1,1 +1,1 @@
-var mnemonic = "science task provide recipe erosion sing expand journey myth finger lend soldier";
+var mnemonic = "sauce scorpion torch suit stomach purity ordinary muffin ancient elbow october smile";

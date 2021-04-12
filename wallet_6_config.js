@@ -1,1 +1,1 @@
-var mnemonic = "dragon bamboo figure cotton faint confirm solar equal board slogan usage basic";
+var mnemonic = "length price test twin glove leisure march cement start damp moon cannon";

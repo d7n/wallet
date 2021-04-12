@@ -1,1 +1,1 @@
-var mnemonic = "shrug spray canal helmet dad recipe unknown cram tongue ceiling clinic stem";
+var mnemonic = "hungry logic farm key evoke decide weather monitor guide open tower void";

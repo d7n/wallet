@@ -1,1 +1,1 @@
-var mnemonic = "real add deposit island struggle resource volcano race document bring true scale";
+var mnemonic = "fragile another wide legend buffalo wheat hill auto flee impulse resemble turn";

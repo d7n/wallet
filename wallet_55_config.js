@@ -1,1 +1,1 @@
-var mnemonic = "battle elephant runway bless company hedgehog group cement pair coyote spawn engage";
+var mnemonic = "hamster split crystal spy gorilla expand moon face crack panda sweet print";

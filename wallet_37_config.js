@@ -1,1 +1,1 @@
-var mnemonic = "early proud warfare clock resemble verify rate main vicious relax alarm foam";
+var mnemonic = "stand derive turn uphold resource burger harvest pact polar strike this slab";

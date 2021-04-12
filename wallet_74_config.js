@@ -1,1 +1,1 @@
-var mnemonic = "metal cook december kite execute safe warfare rapid visa mushroom service goat";
+var mnemonic = "sketch junk myth maximum gown ginger behave evil open solve enough spatial";

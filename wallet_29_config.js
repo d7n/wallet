@@ -1,1 +1,1 @@
-var mnemonic = "fancy chest sphere rose nurse load fire globe attend fabric weekend put";
+var mnemonic = "hip squirrel goddess cherry zone season position net artist ankle tourist fabric";

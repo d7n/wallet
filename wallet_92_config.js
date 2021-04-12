@@ -1,1 +1,1 @@
-var mnemonic = "track regret copper code tissue marine faculty mom arrow census shoe pepper";
+var mnemonic = "bargain congress grass online fringe join profit obvious craft scare grow quote";

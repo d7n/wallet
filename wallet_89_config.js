@@ -1,1 +1,1 @@
-var mnemonic = "lazy popular any prize also sorry rain cover crumble retire type series";
+var mnemonic = "pear jaguar capable work parade boost provide remain pigeon error ritual winner";

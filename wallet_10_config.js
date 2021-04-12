@@ -1,1 +1,1 @@
-var mnemonic = "already lobster observe ethics virus absurd minimum rebuild grant only case breeze";
+var mnemonic = "mention agree chuckle print casual range squeeze slam debris deer disagree rate";

@@ -1,1 +1,1 @@
-var mnemonic = "mule photo tenant author upon sniff vivid sheriff fork dwarf between lumber";
+var mnemonic = "gauge logic stove zero drastic elegant taste science guide debris search mention";

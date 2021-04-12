@@ -1,1 +1,1 @@
-var mnemonic = "frost smooth edit snack inspire volcano eight tragic already renew swim barrel";
+var mnemonic = "rail ivory arrive idle pelican violin awful about sword kingdom black excess";

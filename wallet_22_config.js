@@ -1,1 +1,1 @@
-var mnemonic = "liquid silent then blur enjoy rigid practice diamond flee double bundle evoke";
+var mnemonic = "stove cattle torch electric garment phrase belt lamp stomach winter slim mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "manage tell right expect ozone frown size survey nephew grape faint yellow";
+var mnemonic = "more best detail novel debate brisk outdoor eternal hen scene able skill";

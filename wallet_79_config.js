@@ -1,1 +1,1 @@
-var mnemonic = "relief borrow pulp pair like boss cool vicious since verb blush wife";
+var mnemonic = "boat like diamond square upset keep bid blanket social puzzle monitor toe";

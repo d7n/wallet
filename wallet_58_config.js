@@ -1,1 +1,1 @@
-var mnemonic = "cart cancel build around jeans weapon screen behind dice panel accuse seminar";
+var mnemonic = "hungry medal there alcohol regular slush butter clean media flavor retreat display";

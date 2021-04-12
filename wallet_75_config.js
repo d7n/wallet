@@ -1,1 +1,1 @@
-var mnemonic = "oyster despair junk slim loan blouse gun drink glimpse recipe almost wisdom";
+var mnemonic = "fruit movie extend kick episode lumber lab heavy eager ketchup sunset busy";

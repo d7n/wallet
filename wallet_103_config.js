@@ -1,1 +1,1 @@
-var mnemonic = "helmet certain fine foster exclude maple crater soft brave shock crouch oil";
+var mnemonic = "march excite merit elder waste roast clerk favorite proof boss shiver blur";

@@ -1,1 +1,1 @@
-var mnemonic = "check sponsor text gift gospel quarter unknown people hidden reason bus frost";
+var mnemonic = "again lawn bring buffalo setup twin weasel forest jungle lion nice leisure";

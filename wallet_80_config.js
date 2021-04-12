@@ -1,1 +1,1 @@
-var mnemonic = "despair awesome donate loyal enjoy slight credit neck life sniff devote play";
+var mnemonic = "arrange define degree dizzy eternal ride open easily ten verify believe boil";

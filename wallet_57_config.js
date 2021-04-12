@@ -1,1 +1,1 @@
-var mnemonic = "logic jaguar gauge focus unit topple duck helmet abandon truly pulse human";
+var mnemonic = "ill real hire inspire spin noble mom word half elevator typical plate";

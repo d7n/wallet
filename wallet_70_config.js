@@ -1,1 +1,1 @@
-var mnemonic = "artefact exclude pink push demise bench welcome spot scatter rookie crystal three";
+var mnemonic = "orbit fold oblige cactus whisper badge delay scrub expand material pen current";

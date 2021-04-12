@@ -1,1 +1,1 @@
-var mnemonic = "happy goose expand stage worry denial salt patrol mad embody club carpet";
+var mnemonic = "raccoon hockey payment include grab six shove piano apology flame heart repair";

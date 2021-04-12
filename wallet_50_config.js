@@ -1,1 +1,1 @@
-var mnemonic = "cattle fragile arrow suffer hobby panel allow voyage debris mirror clip fatigue";
+var mnemonic = "coil sniff barely find curious actual hello mix candy spider armor typical";

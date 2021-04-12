@@ -1,1 +1,1 @@
-var mnemonic = "weather cost tape antique essay equal belt surround decline yellow surface festival";
+var mnemonic = "claw oppose kit stock ozone record virus canal onion viable nephew truck";

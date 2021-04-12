@@ -1,1 +1,1 @@
-var mnemonic = "there usage afford focus girl child festival cream clay next kitchen doctor";
+var mnemonic = "object profit goat sound loud deposit ozone dynamic ready turkey inhale keep";

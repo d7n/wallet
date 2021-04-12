@@ -1,1 +1,1 @@
-var mnemonic = "oblige glad rural wall frequent peanut hope grain athlete vintage purity burden";
+var mnemonic = "problem enrich grow pottery mercy enrich joke melody sweet forest symptom able";

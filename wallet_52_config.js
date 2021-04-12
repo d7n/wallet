@@ -1,1 +1,1 @@
-var mnemonic = "during squeeze teach scheme liberty fancy dilemma runway cream isolate airport rifle";
+var mnemonic = "paper traffic funny urban sock tape setup image fit differ exile heart";

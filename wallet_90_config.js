@@ -1,1 +1,1 @@
-var mnemonic = "wolf slam oblige tunnel flame gate expand remember unknown kiwi fame lobster";
+var mnemonic = "park plug rib husband asthma iron expand region innocent chat census lucky";

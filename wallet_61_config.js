@@ -1,1 +1,1 @@
-var mnemonic = "student ceiling exhaust orchard put tired order crumble gorilla lazy youth shock";
+var mnemonic = "talk drastic fit flip odor tail soft dilemma move believe pigeon dress";

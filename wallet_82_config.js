@@ -1,1 +1,1 @@
-var mnemonic = "first sentence credit viable exile tobacco left help trim unhappy review useless";
+var mnemonic = "arrest scale scrap hard drum penalty waste inherit crack sleep forum frame";

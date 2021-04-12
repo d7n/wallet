@@ -1,1 +1,1 @@
-var mnemonic = "fresh pond sister trip prefer inhale mountain expose clog economy diary head";
+var mnemonic = "fit powder amount planet vendor lizard spy danger crouch stone sphere evil";

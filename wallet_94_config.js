@@ -1,1 +1,1 @@
-var mnemonic = "peanut acid pledge math power disagree advance pyramid special cube laundry size";
+var mnemonic = "library panther sort valve audit pudding lawsuit judge safe strong sick minimum";

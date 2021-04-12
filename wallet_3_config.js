@@ -1,1 +1,1 @@
-var mnemonic = "phone reopen item merge trade soul burden matrix ill inside later gold";
+var mnemonic = "yellow loyal chicken way town drop number tattoo find shop huge old";

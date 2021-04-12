@@ -1,1 +1,1 @@
-var mnemonic = "prepare nurse more example second fold crumble wife model meadow kingdom alone";
+var mnemonic = "endless chuckle marine topic burden whale upper doll chief negative spread tiger";

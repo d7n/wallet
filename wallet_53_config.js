@@ -1,1 +1,1 @@
-var mnemonic = "love end venture sand tiny rent final evoke flock tomato output key";
+var mnemonic = "another egg awesome minimum biology wet next humor exchange outside artwork gentle";

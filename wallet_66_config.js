@@ -1,1 +1,1 @@
-var mnemonic = "viable edit exhaust super save guide total lawn corn shiver announce blade";
+var mnemonic = "glide icon excite album nuclear kidney truly life prevent sugar bulk february";

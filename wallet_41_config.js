@@ -1,1 +1,1 @@
-var mnemonic = "clean exist minimum butter tank climb museum accuse truth differ buzz van";
+var mnemonic = "guide lens gift culture post fish uncle smile hard lamp type wild";

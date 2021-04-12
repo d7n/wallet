@@ -1,1 +1,1 @@
-var mnemonic = "palm vocal ring situate float seek position material lake lady jazz second";
+var mnemonic = "boil rib chase science ethics laugh because congress tissue behind wheat three";

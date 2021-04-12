@@ -1,1 +1,1 @@
-var mnemonic = "depth slim filter senior view powder target memory express scale stuff bless";
+var mnemonic = "basic purity wise certain village where deer glad image write pretty combine";

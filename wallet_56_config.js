@@ -1,1 +1,1 @@
-var mnemonic = "hawk save legend early debris elbow lend lend captain isolate range elevator";
+var mnemonic = "foot minute process melody post plunge text code blush skull comfort paddle";

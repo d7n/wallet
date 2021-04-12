@@ -1,1 +1,1 @@
-var mnemonic = "erode recipe scene fury shield record cause sail response rescue owner royal";
+var mnemonic = "give window library slight deliver frost invest quick joy slab senior proof";
