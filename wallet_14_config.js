@@ -1,1 +1,1 @@
-var mnemonic = "village excite awful shift initial novel music coconut keen burger clever pelican";
+var mnemonic = "reduce crash gift awkward catalog thank bachelor match orchard cactus walnut mixture";

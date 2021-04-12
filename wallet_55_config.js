@@ -1,1 +1,1 @@
-var mnemonic = "aware glance lonely cable over advance repeat shift demise ready horn couple";
+var mnemonic = "pepper eternal army code million label drama museum cannon slow sadness rally";

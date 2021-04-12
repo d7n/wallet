@@ -1,1 +1,1 @@
-var mnemonic = "flock color silent give together steel inch ahead easily spoon wrestle debris";
+var mnemonic = "mule fun palace reveal foster success salute only match nothing profit snap";

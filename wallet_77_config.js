@@ -1,1 +1,1 @@
-var mnemonic = "element network leaf leave topple absent depart orchard spider better return bean";
+var mnemonic = "orbit inform appear tomato cloud detail flag clock release magnet warfare trophy";

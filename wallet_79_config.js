@@ -1,1 +1,1 @@
-var mnemonic = "glide runway tag stamp duty reopen wagon income throw want actor night";
+var mnemonic = "patrol misery decade glue seek crew satisfy network able frown combine tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "false now submit ecology sun model illegal brown service action hour practice";
+var mnemonic = "trash install swarm canyon blind sibling remember muffin merry brain runway gloom";

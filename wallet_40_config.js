@@ -1,1 +1,1 @@
-var mnemonic = "shrimp else fault drive glance vocal drastic tornado mixed observe version arena";
+var mnemonic = "wife divide crater blue grab thumb decade educate sand true guess file";

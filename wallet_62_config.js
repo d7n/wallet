@@ -1,1 +1,1 @@
-var mnemonic = "inch member disease advance solve disagree hospital off lab obscure latin guilt";
+var mnemonic = "patient learn injury enjoy arrest shiver case diary elite barely base door";

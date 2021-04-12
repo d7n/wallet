@@ -1,1 +1,1 @@
-var mnemonic = "pretty wild prison stool bid license unit rhythm humor original people stage";
+var mnemonic = "forward cloth mosquito cabin soft flight parade maple sphere wood conduct gauge";

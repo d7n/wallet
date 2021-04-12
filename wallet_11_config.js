@@ -1,1 +1,1 @@
-var mnemonic = "broken sure corn boy library inner maximum venture comic gasp tragic manual";
+var mnemonic = "wheat ginger rifle casino elephant urge safe spin crawl ask deer crime";

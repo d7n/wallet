@@ -1,1 +1,1 @@
-var mnemonic = "physical cover head equal amused volume token immense donor field solid ramp";
+var mnemonic = "engage broom kitten track pizza income ethics brass diary calm empower guide";

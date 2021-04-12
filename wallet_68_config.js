@@ -1,1 +1,1 @@
-var mnemonic = "gather depth sword spider scheme group witness divide ill achieve burger head";
+var mnemonic = "lock unable balcony raven agree vessel ranch double produce combine expect climb";

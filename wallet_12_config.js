@@ -1,1 +1,1 @@
-var mnemonic = "phrase hello walk oyster lawn truly pool tragic sad cheese rail gadget";
+var mnemonic = "lion casino river amateur glare bargain area produce puppy immense holiday ice";

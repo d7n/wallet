@@ -1,1 +1,1 @@
-var mnemonic = "naive toe receive defense tent donate home rhythm arctic problem add hour";
+var mnemonic = "cruel sand morning cycle idle swarm innocent nephew zone glide capable purse";

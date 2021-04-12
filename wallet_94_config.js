@@ -1,1 +1,1 @@
-var mnemonic = "oppose lava salt cream vivid guard novel squeeze decide also decrease practice";
+var mnemonic = "cross frozen spy divert open chicken gossip response perfect scorpion ride income";

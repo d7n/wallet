@@ -1,1 +1,1 @@
-var mnemonic = "tenant swift park day dream kitten exercise antique oval lucky loyal educate";
+var mnemonic = "match palm sad country critic distance vapor quit agree soldier benefit arctic";

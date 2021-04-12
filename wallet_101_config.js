@@ -1,1 +1,1 @@
-var mnemonic = "world conduct nerve find agree whip patient conduct deliver engage hazard sand";
+var mnemonic = "able come remember adapt coyote merry lens purse disagree camera any spin";

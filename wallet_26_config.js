@@ -1,1 +1,1 @@
-var mnemonic = "magic evoke lumber impose addict chaos world nothing hard immense sample entire";
+var mnemonic = "cook just grab rocket recycle surge regret gown smile scrap gown cactus";

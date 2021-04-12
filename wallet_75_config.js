@@ -1,1 +1,1 @@
-var mnemonic = "rack discover truly reopen danger pilot vague trouble town hover predict immune";
+var mnemonic = "hurry rack prefer rice decrease comfort sick donate ability fix barrel ripple";

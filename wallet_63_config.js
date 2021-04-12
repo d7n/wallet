@@ -1,1 +1,1 @@
-var mnemonic = "display clinic coil proud wealth endless correct forget gauge album nice verb";
+var mnemonic = "razor letter alert actual circle build suggest divorce siren right seek mean";

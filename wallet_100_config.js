@@ -1,1 +1,1 @@
-var mnemonic = "use this van wrist initial focus comic armed hawk quiz cry tunnel";
+var mnemonic = "length spirit okay once duty often catch mosquito promote olympic pause return";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic fire issue envelope puppy south ahead catalog prize boost bird push";
+var mnemonic = "robust start where find shuffle tilt father grid thrive spoon act slender";

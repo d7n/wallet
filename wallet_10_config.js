@@ -1,1 +1,1 @@
-var mnemonic = "price nothing rival gym lend crisp cycle like broom cement lawn gap";
+var mnemonic = "toss village account shrug edit brain glide achieve two trip large window";

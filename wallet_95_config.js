@@ -1,1 +1,1 @@
-var mnemonic = "prevent record churn cash curve only ghost robust own twelve search unaware";
+var mnemonic = "wish gallery detail grief party bulk anchor forward gown govern novel ladder";

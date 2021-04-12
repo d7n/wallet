@@ -1,1 +1,1 @@
-var mnemonic = "bar roof draw blossom debate subject review stand april thought club sister";
+var mnemonic = "undo claim expect math size into local tube moral tribe punch dial";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce pride twist dynamic spice scissors asset crucial pulse process nice palace";
+var mnemonic = "leopard utility abandon canyon blade sweet point oblige repair best diet ten";

@@ -1,1 +1,1 @@
-var mnemonic = "improve shoot keen unusual excite leave aerobic foot fuel wheel fog notable";
+var mnemonic = "supreme purchase script pulse pen side dignity diary afford apart morning march";

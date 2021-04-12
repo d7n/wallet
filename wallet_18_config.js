@@ -1,1 +1,1 @@
-var mnemonic = "cannon sport vacant motor egg mixed ladder race art field venue brief";
+var mnemonic = "dirt stage faint unveil orphan champion boss grace manage soldier action blur";

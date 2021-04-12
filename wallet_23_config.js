@@ -1,1 +1,1 @@
-var mnemonic = "thrive salad animal hobby oven rocket walnut camp maid random clerk label";
+var mnemonic = "useful often nasty warm wisdom fantasy abstract juice couple scorpion survey jealous";

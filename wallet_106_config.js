@@ -1,1 +1,1 @@
-var mnemonic = "allow then walnut robot employ impulse wet inmate village wagon alien oblige";
+var mnemonic = "gain casino afford fold volume wealth slide critic letter evil couch wife";

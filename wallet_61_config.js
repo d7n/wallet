@@ -1,1 +1,1 @@
-var mnemonic = "this unfold matrix modify flush kit climb soccer bundle ocean tiger ecology";
+var mnemonic = "worth people able capital fire gym marine leaf audit pattern glass pony";

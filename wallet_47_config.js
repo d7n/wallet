@@ -1,1 +1,1 @@
-var mnemonic = "possible wait visa decrease ramp shove practice outer gun token wish gift";
+var mnemonic = "smart any citizen cradle crack tortoise reduce obscure box hobby later fresh";

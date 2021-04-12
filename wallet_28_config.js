@@ -1,1 +1,1 @@
-var mnemonic = "message depth wash grab talk strong recipe rice list chair ready manual";
+var mnemonic = "fatal seed dizzy collect cross fix use become eternal rain tumble praise";

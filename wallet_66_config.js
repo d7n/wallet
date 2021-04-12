@@ -1,1 +1,1 @@
-var mnemonic = "invest return pulse garage frequent brass sudden tourist common tumble organ describe";
+var mnemonic = "horn tongue wood oven spend skin sense print make believe flock silly";

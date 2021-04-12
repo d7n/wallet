@@ -1,1 +1,1 @@
-var mnemonic = "repeat basket palm baby jewel measure cabbage segment pioneer planet sister number";
+var mnemonic = "return praise define machine render illegal word embark derive april family circle";

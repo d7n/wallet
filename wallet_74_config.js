@@ -1,1 +1,1 @@
-var mnemonic = "trial lawn weekend word alcohol bounce cricket beef grass smart occur athlete";
+var mnemonic = "loyal diet twelve antique sentence pond alone improve during yellow thunder grocery";

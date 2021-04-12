@@ -1,1 +1,1 @@
-var mnemonic = "access recall shove spell feel yard ski luxury orange rival intact exhaust";
+var mnemonic = "enough receive scene wrestle naive execute visit arrange asset trash change cover";

@@ -1,1 +1,1 @@
-var mnemonic = "only primary march grunt cheap author panel feel trap verify frost shed";
+var mnemonic = "chalk glare inhale suggest parade alone flock note unfold comic unique aisle";

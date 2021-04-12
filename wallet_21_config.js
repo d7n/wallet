@@ -1,1 +1,1 @@
-var mnemonic = "present monster fatal issue credit dwarf field beyond light mutual review suffer";
+var mnemonic = "stone glove clog home invite mirror cinnamon pledge flavor raw claim inform";

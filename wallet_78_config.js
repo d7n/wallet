@@ -1,1 +1,1 @@
-var mnemonic = "toe turtle blur birth cactus muscle situate illness spirit peanut spray shallow";
+var mnemonic = "nice solution card venue option kiss antenna kingdom census pair reduce bulb";

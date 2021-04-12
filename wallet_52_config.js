@@ -1,1 +1,1 @@
-var mnemonic = "cube true nation citizen small spring gain rebel deliver police salmon october";
+var mnemonic = "fitness scout debris license imitate work dolphin aim toe order shrimp column";

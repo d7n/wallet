@@ -1,1 +1,1 @@
-var mnemonic = "travel fatigue slide panda jewel feature salad royal ketchup maid basic wrap";
+var mnemonic = "thought enforce alpha moral actual secret glass pottery enable alone body fitness";

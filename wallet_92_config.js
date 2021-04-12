@@ -1,1 +1,1 @@
-var mnemonic = "supply naive onion tower lake direct episode lion blast alarm point evoke";
+var mnemonic = "lecture auction violin thrive enjoy clever tackle yellow science way twist color";

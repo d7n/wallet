@@ -1,1 +1,1 @@
-var mnemonic = "squirrel endorse own group rather party hurt answer rib large upgrade monkey";
+var mnemonic = "menu warrior space pact fence sniff feature latin under inside design confirm";

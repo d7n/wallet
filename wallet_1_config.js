@@ -1,1 +1,1 @@
-var mnemonic = "guide pulp student angle flat absorb alien cliff eye burst badge pistol";
+var mnemonic = "update decide security stamp boost pond year maple regular rural wrestle coral";

@@ -1,1 +1,1 @@
-var mnemonic = "return pet paddle pear recall foam guilt exclude hunt empower cake client";
+var mnemonic = "shrug pool load month truly barely index ensure exist roof ketchup duck";

@@ -1,1 +1,1 @@
-var mnemonic = "style scan fault exotic ripple brave daughter draw best vast ecology promote";
+var mnemonic = "panel position rich retire female total farm parent just click ostrich dress";

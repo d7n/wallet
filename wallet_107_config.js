@@ -1,1 +1,1 @@
-var mnemonic = "donate crew income goddess latin muscle pigeon cake option fashion doll execute";
+var mnemonic = "drift enrich action reunion intact fashion hedgehog glass region rather mimic tackle";

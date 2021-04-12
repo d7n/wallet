@@ -1,1 +1,1 @@
-var mnemonic = "ripple inside imitate despair journey special chat dash cradle act crack draw";
+var mnemonic = "apology clean noodle daring tiny afford economy advance obey town stairs skull";

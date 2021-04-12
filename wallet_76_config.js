@@ -1,1 +1,1 @@
-var mnemonic = "abandon rather purpose enter hire cereal accuse smoke display fork innocent glue";
+var mnemonic = "office fat team arch sadness icon differ party phone vivid deal toe";

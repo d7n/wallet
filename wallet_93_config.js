@@ -1,1 +1,1 @@
-var mnemonic = "plastic maple alcohol save crater rack miracle remove waste wolf penalty elegant";
+var mnemonic = "school hill trash master strong drum knife case engage hungry garden dizzy";

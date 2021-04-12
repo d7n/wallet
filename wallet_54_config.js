@@ -1,1 +1,1 @@
-var mnemonic = "tomato truck average umbrella initial cloud blood west mobile author sock loop";
+var mnemonic = "slight become wool alpha fork mechanic square client edge inject december violin";

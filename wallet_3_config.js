@@ -1,1 +1,1 @@
-var mnemonic = "core snow bunker upon story auto gun wild between bunker tired boost";
+var mnemonic = "hard attitude want nature cancel coin chair picture foster sudden street wolf";

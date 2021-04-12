@@ -1,1 +1,1 @@
-var mnemonic = "idle pluck rack record husband purpose already control damp vocal sort hurry";
+var mnemonic = "grab ethics parrot coffee cluster version wrong reform tissue electric tape fence";

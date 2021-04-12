@@ -1,1 +1,1 @@
-var mnemonic = "elite ivory vocal twelve visa foot senior boil arena claim kick ugly";
+var mnemonic = "toe idea noise april fitness shell language afraid valley type debate wine";

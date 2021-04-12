@@ -1,1 +1,1 @@
-var mnemonic = "segment update dragon group bird rely salt captain mango angle ranch small";
+var mnemonic = "buyer place enact drip essay town artist search subject laptop broken idle";

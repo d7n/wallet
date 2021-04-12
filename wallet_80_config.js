@@ -1,1 +1,1 @@
-var mnemonic = "chaos spray upper excess alien butter december isolate spirit iron polar grit";
+var mnemonic = "excuse rose fun market curious crater erosion verb hello battle regret park";

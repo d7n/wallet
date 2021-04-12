@@ -1,1 +1,1 @@
-var mnemonic = "knife picture denial guard seek pistol purchase sphere one group filter leader";
+var mnemonic = "lecture cram embody major crystal story able over decide camp solution doctor";

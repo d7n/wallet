@@ -1,1 +1,1 @@
-var mnemonic = "hope sell sight hurry peace face tragic artwork viable desk shrimp mimic";
+var mnemonic = "plunge raw away silk obscure fluid able lens puzzle want horn recall";

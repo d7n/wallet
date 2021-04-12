@@ -1,1 +1,1 @@
-var mnemonic = "equal tribe ten stable region blast craft prefer kick boat print found";
+var mnemonic = "major view dose adapt wedding loan common master wealth stay include kit";

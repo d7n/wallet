@@ -1,1 +1,1 @@
-var mnemonic = "glow logic orbit situate amount jump people cook light pudding common road";
+var mnemonic = "person sphere upon riot over squirrel lesson injury sister daring property faint";

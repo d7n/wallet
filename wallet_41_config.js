@@ -1,1 +1,1 @@
-var mnemonic = "moral train idle toward music pepper sail bone reform fine october result";
+var mnemonic = "regret flee wage arctic silent enable luggage glass abuse garlic learn bird";

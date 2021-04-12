@@ -1,1 +1,1 @@
-var mnemonic = "ring public morning skin dad wild shock infant pepper silent eager junk";
+var mnemonic = "crouch oak have toddler window strategy bone what neglect tuna duty ancient";

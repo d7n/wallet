@@ -1,1 +1,1 @@
-var mnemonic = "ship flame real butter grow tent butter lift quiz immense upgrade pink";
+var mnemonic = "rough response truth cluster gorilla move top hair palace region leisure coach";

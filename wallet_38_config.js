@@ -1,1 +1,1 @@
-var mnemonic = "focus rebuild napkin attitude choose theme chunk tent start message meat dash";
+var mnemonic = "runway chunk unaware direct learn sign metal right execute same nose trust";

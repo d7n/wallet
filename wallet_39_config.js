@@ -1,1 +1,1 @@
-var mnemonic = "coin item brother nominee say treat oblige alter stay glory forward circle";
+var mnemonic = "quote path lemon moon crystal scan puppy sniff peace lazy churn unhappy";

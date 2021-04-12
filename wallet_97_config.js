@@ -1,1 +1,1 @@
-var mnemonic = "clerk author ugly digital social maple art crash chief exist turtle sample";
+var mnemonic = "segment child produce subway setup lonely butter mask attend matter base stage";

@@ -1,1 +1,1 @@
-var mnemonic = "voice drastic demand omit early crumble problem lyrics hole pink leave barely";
+var mnemonic = "stove current cheese announce upset real hat nice clever tenant donor wide";

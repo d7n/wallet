@@ -1,1 +1,1 @@
-var mnemonic = "brief chunk avoid spatial help cabbage vibrant crush noodle curve before grant";
+var mnemonic = "click steak engine invest prison useless example skate hover peace flush auto";

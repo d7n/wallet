@@ -1,1 +1,1 @@
-var mnemonic = "inherit number popular fame camp spell dinosaur voice famous guard empower enrich";
+var mnemonic = "cross top best civil rabbit struggle tooth error help horror atom spin";

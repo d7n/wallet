@@ -1,1 +1,1 @@
-var mnemonic = "claim display oxygen scene replace afraid join stamp sauce quarter grocery desk";
+var mnemonic = "demise express cupboard garlic oil winner divorce parrot then split ensure dry";

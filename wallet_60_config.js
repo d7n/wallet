@@ -1,1 +1,1 @@
-var mnemonic = "bounce wife trumpet bar valve toddler faculty hello emerge lizard print much";
+var mnemonic = "soldier insane jealous series gap comic elder bundle lens fault trade hour";

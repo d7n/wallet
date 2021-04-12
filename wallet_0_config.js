@@ -1,1 +1,1 @@
-var mnemonic = "museum civil edit ball close clay clean comic mix then oblige used";
+var mnemonic = "human sauce mammal episode federal estate improve cat sad cinnamon square wife";

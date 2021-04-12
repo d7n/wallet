@@ -1,1 +1,1 @@
-var mnemonic = "try basic rail diagram sibling region mule maximum announce envelope bridge leg";
+var mnemonic = "obvious drink shock thing coil ordinary note myself flat blade vault venue";

@@ -1,1 +1,1 @@
-var mnemonic = "idea oak under easily also uniform human sustain matter dinosaur tackle quit";
+var mnemonic = "tank person kit curtain unaware divert banner crew fiber same belt episode";

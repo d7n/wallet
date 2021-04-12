@@ -1,1 +1,1 @@
-var mnemonic = "client stereo radio velvet camera orchard good alley much aware phrase rice";
+var mnemonic = "fancy trap economy burst mansion lobster oil banner educate dynamic demise lava";

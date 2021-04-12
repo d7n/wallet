@@ -1,1 +1,1 @@
-var mnemonic = "hat item loud gate list slot live ensure cherry clump seed wild";
+var mnemonic = "right among cabbage pluck topple similar unfold oxygen pelican shock unable unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "zone weather liberty inspire day demand outer thrive credit sheriff crumble carry";
+var mnemonic = "lounge travel stamp pistol school pig awake celery valve tumble half nature";

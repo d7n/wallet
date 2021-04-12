@@ -1,1 +1,1 @@
-var mnemonic = "code piece jaguar journey symptom annual island discover sting minor area remain";
+var mnemonic = "drastic gain arrive outside faculty holiday awful worth lemon wasp reform music";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk argue story path tide couple oven upset lesson brass reward plug";
+var mnemonic = "stick unveil remain job frozen replace various tenant sunny device spice trust";

@@ -1,1 +1,1 @@
-var mnemonic = "develop sleep find safe river pony smooth expand opera palm rude urban";
+var mnemonic = "arctic man nice lens spend behind exclude dynamic ability soap grocery praise";

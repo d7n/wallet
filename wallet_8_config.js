@@ -1,1 +1,1 @@
-var mnemonic = "swap winner soup viable rely observe glory cook emotion ocean until brown";
+var mnemonic = "enhance rather slice couple gaze real rally brave minor excite issue pause";

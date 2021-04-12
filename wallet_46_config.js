@@ -1,1 +1,1 @@
-var mnemonic = "together smile blue hold always inch relief siege emerge siren sibling liberty";
+var mnemonic = "congress tackle duty usual jazz fix estate cheese message provide umbrella wasp";

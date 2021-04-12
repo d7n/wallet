@@ -1,1 +1,1 @@
-var mnemonic = "embark list pluck find aspect pill wheat shield assist antenna another walnut";
+var mnemonic = "jeans merry other risk security forward clinic lucky solar hat alter brass";

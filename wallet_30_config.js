@@ -1,1 +1,1 @@
-var mnemonic = "meadow belt scout bounce sorry garage piece large shuffle day deputy slim";
+var mnemonic = "pull chaos jump bless wreck toilet piece leader genre pause rebel hub";

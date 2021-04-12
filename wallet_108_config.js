@@ -1,1 +1,1 @@
-var mnemonic = "behave fossil render dawn enjoy chair repeat develop curve power frown ankle";
+var mnemonic = "hope vicious siege wage cotton toast pigeon enhance forget goat flee display";

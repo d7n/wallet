@@ -1,1 +1,1 @@
-var mnemonic = "can hockey unique trash strike sail merry debate ritual echo opera crop";
+var mnemonic = "ethics wasp toward rural budget rib need attract jump trigger borrow shallow";

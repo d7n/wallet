@@ -1,1 +1,1 @@
-var mnemonic = "steak race truly earn possible tornado flee ugly carpet erase magic tone";
+var mnemonic = "vacant make common deposit glove crazy dinosaur duty other globe napkin virtual";

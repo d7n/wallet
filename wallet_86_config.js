@@ -1,1 +1,1 @@
-var mnemonic = "salad dynamic giant fee vendor same describe arrange caution acid junk embrace";
+var mnemonic = "prosper theory crane slam gentle good print eye jeans duty scheme harvest";

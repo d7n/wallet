@@ -1,1 +1,1 @@
-var mnemonic = "lazy sphere blue edge cover glow hurdle proof item turtle phone power";
+var mnemonic = "daring canyon any pride width brand album deer police bulb federal half";

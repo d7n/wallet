@@ -1,1 +1,1 @@
-var mnemonic = "poet staff brother fitness gospel enough beach doll jump more river unit";
+var mnemonic = "add shrimp setup glass wide fiscal napkin target poverty trust choice enforce";

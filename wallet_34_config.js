@@ -1,1 +1,1 @@
-var mnemonic = "arrange erode fiber bracket produce stamp peasant demise sunset require march crazy";
+var mnemonic = "smile next bind pet approve remind human jeans delay audit proof slow";
