@@ -1,1 +1,1 @@
-var mnemonic = "slight green hamster soul rural parade actress review grit left core car";
+var mnemonic = "text exact clay harbor orchard number fossil country dish project message orbit";

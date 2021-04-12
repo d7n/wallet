@@ -1,1 +1,1 @@
-var mnemonic = "spider warrior resemble world motor slow crisp enrich assume slush invest obtain";
+var mnemonic = "roast buddy orphan youth wing dutch demand remind gold injury spider drift";

@@ -1,1 +1,1 @@
-var mnemonic = "museum tide cruise walk critic dynamic similar detail february laugh special warrior";
+var mnemonic = "allow vault file napkin tank round fish man shoe arctic umbrella route";

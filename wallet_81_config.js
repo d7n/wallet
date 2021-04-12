@@ -1,1 +1,1 @@
-var mnemonic = "ancient disease gloom shiver share emerge minute problem second dilemma picnic churn";
+var mnemonic = "puzzle lab wait jealous funny note robot desert pilot two connect transfer";

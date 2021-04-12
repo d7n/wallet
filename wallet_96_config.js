@@ -1,1 +1,1 @@
-var mnemonic = "violin drift monkey circle cruel fitness length follow absorb width pipe use";
+var mnemonic = "decrease portion age lucky hover kit sniff ocean device black spell raven";

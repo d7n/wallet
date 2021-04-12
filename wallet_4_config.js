@@ -1,1 +1,1 @@
-var mnemonic = "peasant fox ecology erosion current valid enemy write permit install gaze nest";
+var mnemonic = "crime accident size soft border tattoo topic sun wheel proof climb cruise";

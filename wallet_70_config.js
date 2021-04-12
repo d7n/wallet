@@ -1,1 +1,1 @@
-var mnemonic = "cotton never creek nothing blush joke ensure canal room amazing search dry";
+var mnemonic = "spirit inch disagree mean cave mango pigeon mansion summer task mail enact";

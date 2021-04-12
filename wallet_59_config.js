@@ -1,1 +1,1 @@
-var mnemonic = "quantum acoustic casual mystery squirrel despair quarter trip true today siege under";
+var mnemonic = "shine usage audit decrease hero diagram host pipe blue order meadow float";

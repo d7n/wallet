@@ -1,1 +1,1 @@
-var mnemonic = "chief degree novel favorite hedgehog subway wolf shield certain hub valve click";
+var mnemonic = "exile soon budget puzzle tourist category item section butter equip bubble tower";

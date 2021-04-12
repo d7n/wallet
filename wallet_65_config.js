@@ -1,1 +1,1 @@
-var mnemonic = "shadow entry interest upper express dumb liar front cushion census record winner";
+var mnemonic = "father phone approve dove clarify tortoise gather annual merge merge rough fine";

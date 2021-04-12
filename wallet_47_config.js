@@ -1,1 +1,1 @@
-var mnemonic = "brief mercy refuse diet century grass vast three purity labor sibling usual";
+var mnemonic = "mind tail school large behave tray eagle like hole lizard almost helmet";

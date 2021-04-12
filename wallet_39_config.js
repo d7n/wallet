@@ -1,1 +1,1 @@
-var mnemonic = "high spin vague message vivid minute club idle system gasp vanish unknown";
+var mnemonic = "oyster entire safe library flee celery chaos abandon dial room artwork poet";

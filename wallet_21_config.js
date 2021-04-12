@@ -1,1 +1,1 @@
-var mnemonic = "smile stand miss unhappy edge wish couch axis hen ghost hospital orange";
+var mnemonic = "prepare velvet autumn dinosaur leave lesson wheel lava shallow fox horn lab";

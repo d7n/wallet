@@ -1,1 +1,1 @@
-var mnemonic = "pact category damage rabbit napkin apart goddess rate brain cattle input slight";
+var mnemonic = "turtle mass chicken trend parent pen switch reward wife transfer nerve mean";

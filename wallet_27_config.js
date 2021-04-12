@@ -1,1 +1,1 @@
-var mnemonic = "priority donor arrive sketch hill paper flee kitten thrive ability fat pause";
+var mnemonic = "connect use cloth captain puzzle team film decorate cotton furnace remind rather";

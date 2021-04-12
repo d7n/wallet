@@ -1,1 +1,1 @@
-var mnemonic = "eager require wave breeze oyster inside series strike shy scale cry hold";
+var mnemonic = "pride soldier frown mandate sign flat message avoid ozone napkin acoustic slight";

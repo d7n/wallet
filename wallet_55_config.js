@@ -1,1 +1,1 @@
-var mnemonic = "glove hello memory huge tooth boring success foster grocery meat private wife";
+var mnemonic = "modify plastic custom orchard core penalty exhibit eye situate wrestle stuff betray";

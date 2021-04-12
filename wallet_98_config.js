@@ -1,1 +1,1 @@
-var mnemonic = "announce smart era notice hen melody grace connect tower clinic share kid";
+var mnemonic = "clown grunt purpose kingdom plate screen find aerobic initial swing calm dice";

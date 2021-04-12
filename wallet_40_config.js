@@ -1,1 +1,1 @@
-var mnemonic = "page suit invite run naive supply destroy glimpse estate urban filter cash";
+var mnemonic = "whale sibling luxury loyal twice fog flat curve capable depend silk chase";

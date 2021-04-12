@@ -1,1 +1,1 @@
-var mnemonic = "large state leaf science where orphan salad brick wasp sing eight point";
+var mnemonic = "merge differ increase flash term grape sponsor recall floor evidence desk mail";

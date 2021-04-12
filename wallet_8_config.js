@@ -1,1 +1,1 @@
-var mnemonic = "stand display track neither portion carry wagon favorite resist crash angry slab";
+var mnemonic = "evidence nasty riot toilet barely invite erode giraffe ramp virtual elevator midnight";

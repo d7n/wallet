@@ -1,1 +1,1 @@
-var mnemonic = "inmate seed midnight provide nominee axis divorce fashion chef aisle foot pluck";
+var mnemonic = "lion hurdle nest lizard solid develop practice gentle spend engine control velvet";

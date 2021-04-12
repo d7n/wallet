@@ -1,1 +1,1 @@
-var mnemonic = "welcome garden earth tiger skill novel orchard differ table twice speak captain";
+var mnemonic = "ugly execute topic furnace click foot network kiss cradle crime certain wink";

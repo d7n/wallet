@@ -1,1 +1,1 @@
-var mnemonic = "solid uncover shoulder genre tenant shrug tone cement clerk river labor process";
+var mnemonic = "category humble kid tuna beyond device soft lumber brain this material gadget";

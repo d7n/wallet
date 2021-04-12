@@ -1,1 +1,1 @@
-var mnemonic = "prize one track borrow below fortune proud moon output city bottom between";
+var mnemonic = "bone fault wing bean fly zoo roast nature blast universe arm prefer";

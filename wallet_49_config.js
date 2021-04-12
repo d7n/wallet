@@ -1,1 +1,1 @@
-var mnemonic = "genre glove target beauty column royal sting buyer arena high sentence donor";
+var mnemonic = "immense hat route regret pride toddler fold kind idea test cover essay";

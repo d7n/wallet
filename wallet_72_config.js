@@ -1,1 +1,1 @@
-var mnemonic = "wish change hero door twice parent hip screen chronic wood emotion practice";
+var mnemonic = "mother autumn story extend snake fan coyote impose visual gasp carpet divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange click certain firm similar coast boring miracle bird voice grit assume";
+var mnemonic = "tennis about tip close race grape choice rain arm bargain garden craft";

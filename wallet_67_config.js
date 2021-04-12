@@ -1,1 +1,1 @@
-var mnemonic = "voyage style opinion love glance market mixture carpet knife control record tower";
+var mnemonic = "toss enroll ribbon zoo explain age visa wreck mail pink island person";

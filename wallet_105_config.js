@@ -1,1 +1,1 @@
-var mnemonic = "room length jaguar nature clutch fossil utility nature table glory carbon gadget";
+var mnemonic = "speak cycle paddle fun grief grant royal present accident sure main error";

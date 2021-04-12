@@ -1,1 +1,1 @@
-var mnemonic = "assist there breeze slot spike pill assault visa appear glass pumpkin body";
+var mnemonic = "lucky layer toilet grace moon muscle dignity entire piano twenty gym remove";

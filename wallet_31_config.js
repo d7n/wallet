@@ -1,1 +1,1 @@
-var mnemonic = "notable feature cargo fee blind giraffe page gold turn sketch you luggage";
+var mnemonic = "damage peace bulk woman icon suit roast raw differ hedgehog flock inspire";

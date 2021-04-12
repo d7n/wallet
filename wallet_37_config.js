@@ -1,1 +1,1 @@
-var mnemonic = "phrase valve grass border find know nephew walnut room reunion pluck crater";
+var mnemonic = "use wasp mixed cereal hope nut boring excite game tool exist way";

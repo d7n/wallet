@@ -1,1 +1,1 @@
-var mnemonic = "tomato drama screen develop please pill glad nasty patrol embody town hire";
+var mnemonic = "vast course found olive clip summer surface spring upset spot salad snap";

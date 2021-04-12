@@ -1,1 +1,1 @@
-var mnemonic = "desk helmet chimney endless man galaxy minimum rather current ginger escape nature";
+var mnemonic = "habit sense rescue upset flock soup fall budget pyramid umbrella crime penalty";

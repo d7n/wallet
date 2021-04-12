@@ -1,1 +1,1 @@
-var mnemonic = "use upgrade torch boring shop kangaroo gain problem absorb giant essence cheap";
+var mnemonic = "shift bench visual traffic before eyebrow carry library staff inch shove frozen";

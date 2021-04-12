@@ -1,1 +1,1 @@
-var mnemonic = "agent cupboard hour front divide sure black steel embody list father marble";
+var mnemonic = "chef defy dove impulse mask truck shine spice sheriff fat special interest";

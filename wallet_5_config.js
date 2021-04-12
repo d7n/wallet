@@ -1,1 +1,1 @@
-var mnemonic = "purity six guilt cushion client vocal outside burst video improve price toast";
+var mnemonic = "nature lemon seek rocket pyramid pond silver dream pluck coffee uniform ability";

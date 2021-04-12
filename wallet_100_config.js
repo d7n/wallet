@@ -1,1 +1,1 @@
-var mnemonic = "power divert sand oppose federal spirit since other side cross logic beyond";
+var mnemonic = "stove now matrix actor desert gate tube review connect cave believe artist";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic surge parade sport boy van cube stick anchor neutral oppose iron";
+var mnemonic = "hurry reduce monitor elite worth work chalk seminar green hole fantasy aspect";

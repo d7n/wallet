@@ -1,1 +1,1 @@
-var mnemonic = "fruit float salon apology beef apart clay pledge service color dream muffin";
+var mnemonic = "produce alley flag fantasy face replace enable abuse piano across hedgehog pause";

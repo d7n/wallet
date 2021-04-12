@@ -1,1 +1,1 @@
-var mnemonic = "glad exotic mesh mosquito recipe clarify dilemma enforce arctic debris luxury torch";
+var mnemonic = "horn main bronze equal high pumpkin purity arch demise gate lady palm";

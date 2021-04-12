@@ -1,1 +1,1 @@
-var mnemonic = "wise march cherry second soccer hybrid jazz write girl volume fold cube";
+var mnemonic = "obscure similar help apple punch limb vague fancy stadium copy aerobic major";

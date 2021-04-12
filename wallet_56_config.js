@@ -1,1 +1,1 @@
-var mnemonic = "quantum denial night fatigue dice provide bargain devote fiscal tail appear leg";
+var mnemonic = "more celery owner skull sentence economy green blast actress casino machine they";

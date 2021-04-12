@@ -1,1 +1,1 @@
-var mnemonic = "deal firm daughter address around twist soldier fetch feel bridge prepare modify";
+var mnemonic = "midnight mule job balcony usage bless inspire adapt derive mom ride faint";

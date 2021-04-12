@@ -1,1 +1,1 @@
-var mnemonic = "marble gap job change dinosaur spider muffin grape repeat gain survey remain";
+var mnemonic = "crunch fresh cat sauce praise weasel inform century attitude silk cement dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "habit lizard spend degree achieve buzz solid thrive cat mechanic please juice";
+var mnemonic = "rude veteran gown negative south effort hen vital girl donor divert curve";

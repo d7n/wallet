@@ -1,1 +1,1 @@
-var mnemonic = "wish middle wage crowd tower whale wrestle intact cigar job top under";
+var mnemonic = "beyond narrow exhibit very gown monkey evoke blade sugar aspect menu crop";

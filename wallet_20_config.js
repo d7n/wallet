@@ -1,1 +1,1 @@
-var mnemonic = "toddler true hollow wealth address visit version fade garlic universe globe age";
+var mnemonic = "crew hundred focus supreme squeeze bunker antenna search unhappy coin head yard";

@@ -1,1 +1,1 @@
-var mnemonic = "coast black moment trash divorce skull anchor wild black answer rhythm jungle";
+var mnemonic = "waste unaware approve spoil tennis feel evil key river table drop grass";

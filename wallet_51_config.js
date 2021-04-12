@@ -1,1 +1,1 @@
-var mnemonic = "holiday diary save tell table obscure kidney dove hover faint spring devote";
+var mnemonic = "mean flag ordinary ride stove recall bread dismiss domain maximum diary honey";

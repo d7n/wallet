@@ -1,1 +1,1 @@
-var mnemonic = "car bitter hire neither time various kite duty clutch exchange govern flat";
+var mnemonic = "purse illegal caught lock royal extend need copper spray crop position switch";

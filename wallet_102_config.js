@@ -1,1 +1,1 @@
-var mnemonic = "cradle hidden rose express tape speak world guitar present change connect hybrid";
+var mnemonic = "arm chat invite ribbon total life strong physical window short illegal vague";

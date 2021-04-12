@@ -1,1 +1,1 @@
-var mnemonic = "believe envelope valley behave comic spider girl allow elbow alcohol enter announce";
+var mnemonic = "echo link alien bamboo nation junior ready panda multiply spell brisk height";

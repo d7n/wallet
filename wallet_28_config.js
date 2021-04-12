@@ -1,1 +1,1 @@
-var mnemonic = "auto fluid ivory second that brief side loan rival chief index curve";
+var mnemonic = "require destroy rapid announce praise kingdom pattern urban gather gasp cube that";

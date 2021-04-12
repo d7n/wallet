@@ -1,1 +1,1 @@
-var mnemonic = "market front wrong owner hard this sort slim midnight debris cry asset";
+var mnemonic = "add tonight recycle admit shed evoke happy mirror inmate someone nothing oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "pond satoshi day food hair soon lawsuit avocado curious liar rate damage";
+var mnemonic = "outdoor select enforce govern hawk ignore load orange airport decide symptom valve";

@@ -1,1 +1,1 @@
-var mnemonic = "ship off coin slush tower castle icon female shift clap aim once";
+var mnemonic = "alien mosquito pink hockey cattle cloth account involve ski cross pluck taxi";

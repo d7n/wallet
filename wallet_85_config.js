@@ -1,1 +1,1 @@
-var mnemonic = "fish mango train slice science today happy obtain license virus midnight monster";
+var mnemonic = "beef wonder drop assault remain vacuum give volcano hospital ahead common congress";

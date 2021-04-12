@@ -1,1 +1,1 @@
-var mnemonic = "corn mixture option aware concert draft release identify rebel topic romance small";
+var mnemonic = "trumpet toy split uphold ahead ozone credit author brass must practice leopard";

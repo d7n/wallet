@@ -1,1 +1,1 @@
-var mnemonic = "fun soft marble wrap decorate owner brown erase spot claw report fruit";
+var mnemonic = "tool enrich false best young cat bitter strong goat expect beef black";

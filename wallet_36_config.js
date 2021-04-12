@@ -1,1 +1,1 @@
-var mnemonic = "funny must weapon armed sunset settle live twin fit idle jaguar answer";
+var mnemonic = "marble glance short cotton problem catalog cart like ghost more mandate guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "print shift clock debris nature boat scout slender multiply bottom evolve dinosaur";
+var mnemonic = "judge jungle onion duck differ flee apology hard beyond hawk leaf useless";

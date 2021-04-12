@@ -1,1 +1,1 @@
-var mnemonic = "tortoise gravity beef ribbon vapor only smile student cheap oak daring crop";
+var mnemonic = "rotate under blast scatter noble web drum salute cable scorpion private shadow";

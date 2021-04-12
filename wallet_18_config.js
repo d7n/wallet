@@ -1,1 +1,1 @@
-var mnemonic = "pet away train casino keen sense outside wheel anxiety artefact trigger clarify";
+var mnemonic = "nose text cinnamon someone prefer chapter detect trap cattle about sport arm";

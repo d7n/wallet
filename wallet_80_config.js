@@ -1,1 +1,1 @@
-var mnemonic = "hood embody mesh gather arrow alpha midnight double cash muffin horn account";
+var mnemonic = "grief genre degree whip rain butter season wool mango rookie orient spell";

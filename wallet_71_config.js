@@ -1,1 +1,1 @@
-var mnemonic = "rack problem face cement upper mom damp feel legend clinic flower amateur";
+var mnemonic = "taste resist punch merit autumn gentle all plastic cricket identify game essence";

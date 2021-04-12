@@ -1,1 +1,1 @@
-var mnemonic = "matrix quality retire green plunge taxi state humor iron wish leisure spare";
+var mnemonic = "game lady witness undo monkey retire blade resource industry next badge kind";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture axis snake host equal tray story plastic salmon normal burger shop";
+var mnemonic = "sea viable skill park jaguar pig knife antique access stadium tuition hip";

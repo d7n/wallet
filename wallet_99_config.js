@@ -1,1 +1,1 @@
-var mnemonic = "little shine room image globe only congress you liar cycle flip wait";
+var mnemonic = "display balance detail october already edit horn arrow shed adapt now must";

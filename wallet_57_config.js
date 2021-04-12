@@ -1,1 +1,1 @@
-var mnemonic = "urban measure electric group lawn kiwi replace record suspect make dune approve";
+var mnemonic = "west rare avoid room beyond sleep task parade north voice office fan";

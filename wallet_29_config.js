@@ -1,1 +1,1 @@
-var mnemonic = "faint hurdle drive cool path inquiry pattern ill comic lemon wealth short";
+var mnemonic = "excite pill swim that include duck warrior barely future truly try retire";

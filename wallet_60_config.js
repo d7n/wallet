@@ -1,1 +1,1 @@
-var mnemonic = "split latin agree play ice evidence seminar music manage plastic sort decide";
+var mnemonic = "hand panic spawn quote when where ribbon final physical smoke shell knee";

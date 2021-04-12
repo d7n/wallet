@@ -1,1 +1,1 @@
-var mnemonic = "kidney reopen melody veteran jewel jaguar fish case near predict hawk same";
+var mnemonic = "chicken energy girl forward eager aunt pumpkin uniform powder remain trap wedding";

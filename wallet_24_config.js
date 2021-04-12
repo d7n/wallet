@@ -1,1 +1,1 @@
-var mnemonic = "tail plastic bird fitness smooth tree pitch agree sense jacket industry monkey";
+var mnemonic = "hold grocery sibling churn sad lock island chaos pony trophy draw vacant";

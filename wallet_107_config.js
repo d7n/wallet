@@ -1,1 +1,1 @@
-var mnemonic = "illness anxiety silent control spin basic bulb fashion hurdle march egg describe";
+var mnemonic = "radar uncover burden donor often noise rocket have bone spray scissors achieve";

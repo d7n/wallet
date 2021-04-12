@@ -1,1 +1,1 @@
-var mnemonic = "oval curve cash sand little never salt thunder brother miracle version camera";
+var mnemonic = "already crazy act bomb body index tissue silk weapon sail guide unaware";

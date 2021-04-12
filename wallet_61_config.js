@@ -1,1 +1,1 @@
-var mnemonic = "aware crew avocado crunch breeze door door word ladder dad ill crack";
+var mnemonic = "address kit syrup floor hammer goat retreat violin retreat artwork retreat melt";

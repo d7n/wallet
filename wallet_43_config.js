@@ -1,1 +1,1 @@
-var mnemonic = "senior observe nominee champion portion humble obscure fetch gap fog myself ugly";
+var mnemonic = "cup topic shrimp skirt answer infant copy square elbow involve series taxi";

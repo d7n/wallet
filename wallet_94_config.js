@@ -1,1 +1,1 @@
-var mnemonic = "identify surprise quarter noble rally lounge please foot brave comfort vast crop";
+var mnemonic = "smart omit issue evil option decade project shadow photo key such dream";

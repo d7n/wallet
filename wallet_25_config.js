@@ -1,1 +1,1 @@
-var mnemonic = "viable include omit ceiling have enter wave artwork valley pretty evidence airport";
+var mnemonic = "off tumble sunny push vintage wire connect oppose frequent silent hour apart";

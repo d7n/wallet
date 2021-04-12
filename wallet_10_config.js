@@ -1,1 +1,1 @@
-var mnemonic = "oven saddle radio prepare person roof blue viable time skirt harsh inspire";
+var mnemonic = "monkey limb exhibit damage mouse weird coin increase range brick prize panel";

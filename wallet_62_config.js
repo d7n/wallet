@@ -1,1 +1,1 @@
-var mnemonic = "hybrid enlist sport attend decline celery pepper index issue device awful marine";
+var mnemonic = "key welcome already aware damp symptom unit pluck embody hold you lady";
