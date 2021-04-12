@@ -1,1 +1,1 @@
-var mnemonic = "case radar thought blade blanket pledge flash merge win hotel general lake";
+var mnemonic = "birth taste then promote high frown sadness palace enlist oven base admit";

@@ -1,1 +1,1 @@
-var mnemonic = "economy illness wheat smart gift bicycle jump hazard famous lizard unaware focus";
+var mnemonic = "target left require satoshi social sphere sand cart scout giant orbit east";

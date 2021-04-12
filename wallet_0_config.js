@@ -1,1 +1,1 @@
-var mnemonic = "early sand high cotton spatial robust eyebrow divide daring grief one toddler";
+var mnemonic = "hybrid shine this speed almost group carpet absorb subject jacket green process";

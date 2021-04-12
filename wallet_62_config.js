@@ -1,1 +1,1 @@
-var mnemonic = "luxury table hair celery city dance luggage sad grab tornado hood volume";
+var mnemonic = "cross umbrella glimpse gallery quote answer celery exile dance better market patrol";

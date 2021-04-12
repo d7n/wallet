@@ -1,1 +1,1 @@
-var mnemonic = "shell believe clinic snow stadium pledge online fuel stereo claw three consider";
+var mnemonic = "apple monitor mix beach inspire apart arch toast vapor left they online";

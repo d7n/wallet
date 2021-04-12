@@ -1,1 +1,1 @@
-var mnemonic = "maze million mountain hurt connect soft dolphin measure avocado remain gun save";
+var mnemonic = "goose scene paddle animal safe trophy demise hover dash moment year enough";

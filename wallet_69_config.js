@@ -1,1 +1,1 @@
-var mnemonic = "lava teach town original jelly water crystal gain myself answer short gauge";
+var mnemonic = "tuition shove pledge live kit picture just wash foam twelve walk sand";

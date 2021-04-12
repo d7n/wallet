@@ -1,1 +1,1 @@
-var mnemonic = "uphold motor holiday imitate slim good behave skin cattle expand chronic regret";
+var mnemonic = "toss menu delay remain try ranch vital uphold polar shock gauge guilt";

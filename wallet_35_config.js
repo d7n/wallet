@@ -1,1 +1,1 @@
-var mnemonic = "want lake scrub shy aerobic topic account exotic eager elephant reward acid";
+var mnemonic = "mirror empower marriage kiwi wine catch spread defense siren nose segment marine";

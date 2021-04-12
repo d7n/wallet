@@ -1,1 +1,1 @@
-var mnemonic = "wrong valve loan load useful flock steel permit subject just region soda";
+var mnemonic = "rather wreck lens private spider organ design cart physical patrol object income";

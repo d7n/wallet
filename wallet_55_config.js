@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog twice away kid focus retreat such rib rule skill lazy lunch";
+var mnemonic = "call device boring awkward goat assault silent elegant assume ridge helmet feature";

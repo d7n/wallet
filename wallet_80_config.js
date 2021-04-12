@@ -1,1 +1,1 @@
-var mnemonic = "depend evidence regret pony grant party plug hybrid must forest dinner public";
+var mnemonic = "monitor flash trim only follow fatal traffic corn knee weasel dial height";

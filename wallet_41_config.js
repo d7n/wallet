@@ -1,1 +1,1 @@
-var mnemonic = "liberty gun essence body agent drum pupil slight need front divert talent";
+var mnemonic = "blanket bench leave grace hat among vapor chuckle brother calm energy quick";

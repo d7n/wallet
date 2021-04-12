@@ -1,1 +1,1 @@
-var mnemonic = "enlist morning measure file wink expand daughter turtle radio language swallow sheriff";
+var mnemonic = "upon wall spell crush guilt economy shove flight border actual lesson join";

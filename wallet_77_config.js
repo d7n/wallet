@@ -1,1 +1,1 @@
-var mnemonic = "ancient inject perfect color spot flag theory net gate toilet album valley";
+var mnemonic = "stick wage venture casual inquiry toy gesture garlic volcano cereal eager short";

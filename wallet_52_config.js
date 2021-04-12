@@ -1,1 +1,1 @@
-var mnemonic = "hockey hard hair label invite fossil east faculty process throw speed unfair";
+var mnemonic = "whale illegal lucky noble gap ceiling typical hire ugly length text way";

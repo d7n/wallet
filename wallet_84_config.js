@@ -1,1 +1,1 @@
-var mnemonic = "surprise wall deny mom cousin accuse render pair erosion release copper child";
+var mnemonic = "panic brisk model text brisk still mistake motion state filter rocket magnet";

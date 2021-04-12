@@ -1,1 +1,1 @@
-var mnemonic = "exchange napkin number typical lazy rare saddle soup opinion vanish actor evoke";
+var mnemonic = "august celery pattern mutual replace foster come festival boss degree illness become";

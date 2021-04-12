@@ -1,1 +1,1 @@
-var mnemonic = "cloud gentle slim fabric unknown crawl cool excuse laugh rack quote aunt";
+var mnemonic = "arch grace mechanic staff brush sting garbage doctor river science bench civil";

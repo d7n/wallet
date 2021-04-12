@@ -1,1 +1,1 @@
-var mnemonic = "alone trick foster false ball page spirit net hedgehog crowd basic truck";
+var mnemonic = "another dance punch music lemon play amused cloth way refuse expect sting";

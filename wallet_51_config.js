@@ -1,1 +1,1 @@
-var mnemonic = "like neutral favorite school bitter snow move beyond kitchen cereal coast fat";
+var mnemonic = "trick federal extend object drama oven lunar dog border face click loyal";

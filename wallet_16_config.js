@@ -1,1 +1,1 @@
-var mnemonic = "record warm safe hammer creek repeat love live latin cereal doll change";
+var mnemonic = "future renew champion matrix pride worry book split stove fancy man breeze";

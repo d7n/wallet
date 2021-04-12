@@ -1,1 +1,1 @@
-var mnemonic = "clip protect domain family happy spirit merge adjust symbol roast void rib";
+var mnemonic = "brief try reflect slide nerve system zone cousin sweet latin leisure quarter";

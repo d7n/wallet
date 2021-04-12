@@ -1,1 +1,1 @@
-var mnemonic = "slice into demand upper bright keen manual desk boost large hover couch";
+var mnemonic = "cram route spoon retire differ tomato control two inform armor weapon broom";

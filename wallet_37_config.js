@@ -1,1 +1,1 @@
-var mnemonic = "wrong armor fresh sure spring stand rail wave enhance advance inch meat";
+var mnemonic = "grab plate hybrid memory cable point script emerge walnut rural country choice";

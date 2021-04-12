@@ -1,1 +1,1 @@
-var mnemonic = "tongue paddle refuse razor margin slide empty mail creek enlist bid recipe";
+var mnemonic = "limb congress trouble produce knee later auto room hamster ski glad random";

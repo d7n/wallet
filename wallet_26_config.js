@@ -1,1 +1,1 @@
-var mnemonic = "gas sponsor wait trust curious very pledge salmon price manage disagree smile";
+var mnemonic = "fee tiny usage later afford only voyage reunion divert liberty summer welcome";

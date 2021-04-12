@@ -1,1 +1,1 @@
-var mnemonic = "wrap type token morning hurt clay helmet lucky market unveil skate sponsor";
+var mnemonic = "brick idle input dinner arctic liquid leopard acquire jazz hero arch gadget";

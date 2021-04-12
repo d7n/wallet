@@ -1,1 +1,1 @@
-var mnemonic = "wedding era fence borrow bargain gym federal cause involve build wine jealous";
+var mnemonic = "glide universe joke general resource scorpion news mix culture kick term hamster";

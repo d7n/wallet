@@ -1,1 +1,1 @@
-var mnemonic = "convince problem ankle orange jungle blame color seat idle valid believe vehicle";
+var mnemonic = "basic face pottery lyrics rich try original list differ print rival deposit";

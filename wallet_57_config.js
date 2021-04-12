@@ -1,1 +1,1 @@
-var mnemonic = "head this pet hedgehog saddle crisp often defense fame author sea poem";
+var mnemonic = "farm novel vault meat unable dinner mention lens protect exchange barely hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "legend boss naive rebel skirt sing project route melt text loud hope";
+var mnemonic = "suggest hobby income vibrant column rocket produce above notice extra discover wedding";

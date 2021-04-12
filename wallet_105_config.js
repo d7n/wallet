@@ -1,1 +1,1 @@
-var mnemonic = "entire dish media error sun never march observe mistake speak couple another";
+var mnemonic = "clog dry clean occur ankle cereal sea then silk throw thought leisure";

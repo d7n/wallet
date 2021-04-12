@@ -1,1 +1,1 @@
-var mnemonic = "journey vibrant must despair cluster melody slight thrive flag basic mouse pet";
+var mnemonic = "dirt shaft since ski three robust relax river tumble cheese laundry crunch";

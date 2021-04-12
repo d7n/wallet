@@ -1,1 +1,1 @@
-var mnemonic = "duty predict polar flavor box balance help chuckle file venture ankle bubble";
+var mnemonic = "divorce dizzy image require mention rib spy rice hand eager review trip";

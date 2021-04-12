@@ -1,1 +1,1 @@
-var mnemonic = "surface country flip expire slice tenant cable grow iron found parent link";
+var mnemonic = "early input pistol process diamond peanut feel nasty robot tackle chapter sister";

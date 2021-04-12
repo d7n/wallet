@@ -1,1 +1,1 @@
-var mnemonic = "endorse coffee flip gift change tornado edge opera hope remind suspect creek";
+var mnemonic = "legend round shop lend casual basic certain figure jelly awkward rail output";

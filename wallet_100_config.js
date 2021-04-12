@@ -1,1 +1,1 @@
-var mnemonic = "cupboard kit hip abuse beyond weapon lady need game ball miracle artist";
+var mnemonic = "city spice shrug merge draft trial item dust elite coral hold cupboard";

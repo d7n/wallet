@@ -1,1 +1,1 @@
-var mnemonic = "armor list permit minimum clog account ceiling skirt stamp suit crater wolf";
+var mnemonic = "noise plastic drill divert above plastic travel language segment hat hollow sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "annual gossip nut cattle slim charge gas rally mean attend blouse sadness";
+var mnemonic = "pig engage word assault north comic disorder march sauce when galaxy snow";

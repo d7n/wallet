@@ -1,1 +1,1 @@
-var mnemonic = "seven street radar twenty vapor ugly original escape head tennis shoe ball";
+var mnemonic = "juice purse account street hedgehog mutual cruel month prepare fire friend joke";

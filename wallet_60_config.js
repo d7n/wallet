@@ -1,1 +1,1 @@
-var mnemonic = "glad velvet flash rigid find shop guitar agent ship popular seven derive";
+var mnemonic = "jelly current moment right solar corn guess unveil kick swamp emerge trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "wood ocean still increase hybrid unfold direct animal decrease purchase keen wonder";
+var mnemonic = "layer infant custom fork wire cushion nominee ribbon market atom woman dance";

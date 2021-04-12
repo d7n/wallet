@@ -1,1 +1,1 @@
-var mnemonic = "apology lunar shrimp rookie pony erupt punch marriage risk glory inch clog";
+var mnemonic = "evil flower verify ripple despair sport soul credit owner radar quote raise";

@@ -1,1 +1,1 @@
-var mnemonic = "topple judge organ mouse toss gossip program rapid sausage blast crumble bless";
+var mnemonic = "year air trip salon gesture tired forum evidence silent unable pluck chalk";

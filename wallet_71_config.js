@@ -1,1 +1,1 @@
-var mnemonic = "just tissue defense ginger grant decade select shoe reform month finger manage";
+var mnemonic = "grant tray rule student state extra skirt life talk decorate path pupil";

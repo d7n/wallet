@@ -1,1 +1,1 @@
-var mnemonic = "throw fish elder claw lobster shed rapid salmon swallow space match matter";
+var mnemonic = "behind crush actor rigid science hero pistol foster split novel lab analyst";

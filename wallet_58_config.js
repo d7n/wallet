@@ -1,1 +1,1 @@
-var mnemonic = "join tide wage elegant long harsh panda dismiss turtle skate way awake";
+var mnemonic = "town raw phrase yard minimum settle garden bunker online fatigue neither eye";

@@ -1,1 +1,1 @@
-var mnemonic = "identify alcohol rail notable pudding meadow lesson crowd group fruit myth regular";
+var mnemonic = "daring syrup ocean spring warrior cart educate trigger despair dash minimum shine";

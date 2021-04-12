@@ -1,1 +1,1 @@
-var mnemonic = "canyon lock prosper arena act urge jeans ball antenna state cupboard sketch";
+var mnemonic = "music forest pistol choose load board soccer lucky early robust reward laugh";

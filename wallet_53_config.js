@@ -1,1 +1,1 @@
-var mnemonic = "film title imitate behave blouse that deliver walk library primary diamond fan";
+var mnemonic = "sister industry sock bundle gentle between soft vapor leg laundry lake then";

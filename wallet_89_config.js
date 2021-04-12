@@ -1,1 +1,1 @@
-var mnemonic = "upper silent cupboard screen horn exact jelly flash shoot comfort law describe";
+var mnemonic = "page diary village faculty glue citizen possible reopen true helmet ahead rail";

@@ -1,1 +1,1 @@
-var mnemonic = "give hotel hammer room olive leg begin cause depart bitter radar manage";
+var mnemonic = "oyster attend cat moral mountain multiply job skate swamp lawsuit visa cross";

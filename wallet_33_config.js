@@ -1,1 +1,1 @@
-var mnemonic = "awake lecture secret eternal husband cushion hazard anxiety robust ready frost crash";
+var mnemonic = "piece help this smoke room gospel casual route budget congress rapid water";

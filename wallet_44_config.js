@@ -1,1 +1,1 @@
-var mnemonic = "zero special hamster jump top goddess material disease bottom arena mobile person";
+var mnemonic = "possible around choose awkward resemble ignore banner meat glove neglect proud remove";

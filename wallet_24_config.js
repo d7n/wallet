@@ -1,1 +1,1 @@
-var mnemonic = "wrist cable vague cherry across small answer wool ocean poem calm hub";
+var mnemonic = "peasant grain borrow tell question join praise elder quote because pudding tuna";

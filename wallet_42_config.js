@@ -1,1 +1,1 @@
-var mnemonic = "amused valve country jump remind wheel cliff liberty boy movie little vocal";
+var mnemonic = "immense head barrel ranch fold grape situate bean pluck diary long knee";

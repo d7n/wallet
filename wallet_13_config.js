@@ -1,1 +1,1 @@
-var mnemonic = "strategy arrange nephew envelope hurdle velvet govern multiply width initial adjust observe";
+var mnemonic = "planet fringe twice arena athlete nominee course fault scout tonight swap loud";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut network okay couch blame desert core despair share occur pave anger";
+var mnemonic = "run install remove casual lunar boring round decorate edit bike orbit rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "rural stadium thought error tobacco clever flock carpet crumble purse journey ticket";
+var mnemonic = "south blossom alien awake intact index turn hold expect keep city chimney";

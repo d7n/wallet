@@ -1,1 +1,1 @@
-var mnemonic = "marine label walnut agent cable urban one layer hospital brave puppy lion";
+var mnemonic = "palace material weasel damage tonight stadium town sport type fence note spread";

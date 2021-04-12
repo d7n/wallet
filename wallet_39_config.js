@@ -1,1 +1,1 @@
-var mnemonic = "voice museum oxygen cattle tail thank sweet smoke process tiger pond device";
+var mnemonic = "nation depart monitor reunion oyster offer develop galaxy large point joy family";

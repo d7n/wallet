@@ -1,1 +1,1 @@
-var mnemonic = "burst concert three hybrid goose upon setup imitate gift elite alien bubble";
+var mnemonic = "rib camp bullet august hungry settle punch put club bind expose twist";

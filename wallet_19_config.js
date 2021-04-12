@@ -1,1 +1,1 @@
-var mnemonic = "hurt broom clog claim episode alcohol fragile sphere school limb deer next";
+var mnemonic = "near retreat buzz wide point bounce quiz gold talk point song ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit found collect soldier smile letter combine access satisfy surround toward scorpion";
+var mnemonic = "fish soda hello reduce list web design suit brand grief cry sting";

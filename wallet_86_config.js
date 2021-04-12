@@ -1,1 +1,1 @@
-var mnemonic = "come divert myth candy behind toy expect door hip skate motor verb";
+var mnemonic = "snap crush invite name knife endless beauty echo glove deny spread trial";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen almost reunion dune dizzy gossip circle powder bundle absorb edge cream";
+var mnemonic = "race timber dice category slab cattle clip toe beef stick private glare";

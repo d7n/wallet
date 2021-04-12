@@ -1,1 +1,1 @@
-var mnemonic = "diet maximum shoot proof ride rotate pottery resource depart boy install reunion";
+var mnemonic = "refuse must dinosaur early filter rely talent mistake meat legend hurdle drip";

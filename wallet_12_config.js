@@ -1,1 +1,1 @@
-var mnemonic = "link shock sheriff betray recall few erosion convince magnet deer name gorilla";
+var mnemonic = "border master camera enrich act learn beach pumpkin fame broken nest recycle";

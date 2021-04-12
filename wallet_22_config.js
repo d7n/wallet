@@ -1,1 +1,1 @@
-var mnemonic = "budget among borrow oil wish armor brief rapid tray paddle ritual erode";
+var mnemonic = "buffalo engine any useful canvas dash marriage rifle suffer prize trigger force";

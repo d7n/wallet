@@ -1,1 +1,1 @@
-var mnemonic = "among test lab horror oppose harsh convince nation electric issue charge fatal";
+var mnemonic = "legend rabbit main humor crawl usual drive urban security coast world van";

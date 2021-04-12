@@ -1,1 +1,1 @@
-var mnemonic = "army normal find fatigue wonder choice try tooth resemble trial fold employ";
+var mnemonic = "melody update swallow mercy correct then vicious invest lounge misery around zoo";

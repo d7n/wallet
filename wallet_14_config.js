@@ -1,1 +1,1 @@
-var mnemonic = "hurdle vital day embody team slight meat point truck act priority steak";
+var mnemonic = "junk group boss sting cousin student romance dream tonight rough amused horse";

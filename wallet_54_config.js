@@ -1,1 +1,1 @@
-var mnemonic = "apple vote major inherit mixture exclude joke injury afraid sun because morning";
+var mnemonic = "industry video garment dream moment month release member old leader analyst outer";

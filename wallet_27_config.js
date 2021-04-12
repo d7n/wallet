@@ -1,1 +1,1 @@
-var mnemonic = "nut sock area town connect ginger inmate small accident tortoise century hammer";
+var mnemonic = "tragic job urge derive any boat act liar fog page promote account";

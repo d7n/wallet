@@ -1,1 +1,1 @@
-var mnemonic = "captain resist kiss domain potato true front author snake matrix candy bracket";
+var mnemonic = "pear despair damage pistol course enhance floor put fee rapid torch business";

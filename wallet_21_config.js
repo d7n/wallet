@@ -1,1 +1,1 @@
-var mnemonic = "area eagle seven current tribe stereo acoustic renew rose test satisfy want";
+var mnemonic = "prefer episode cram else target syrup family accuse involve lava impulse sing";

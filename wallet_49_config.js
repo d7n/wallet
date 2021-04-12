@@ -1,1 +1,1 @@
-var mnemonic = "arch debris own ahead push fat private cluster capital task gauge monitor";
+var mnemonic = "junk level vague nominee lemon bachelor member family total assault west napkin";

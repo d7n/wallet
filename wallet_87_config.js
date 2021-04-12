@@ -1,1 +1,1 @@
-var mnemonic = "ostrich actor aunt puppy build sail ketchup shuffle behave window oppose pottery";
+var mnemonic = "lift orbit visual trigger use fix example message grab fault place angle";

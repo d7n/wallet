@@ -1,1 +1,1 @@
-var mnemonic = "demise uncle survey gas emotion elder bunker feel humble school window public";
+var mnemonic = "squirrel outer brave shoot local there frown oyster idle bird taxi general";

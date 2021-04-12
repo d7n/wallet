@@ -1,1 +1,1 @@
-var mnemonic = "emerge stool snake sunny electric guilt aerobic derive pluck become eight canvas";
+var mnemonic = "margin atom twin under dolphin net place whale fuel assume rural seven";

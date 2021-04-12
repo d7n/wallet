@@ -1,1 +1,1 @@
-var mnemonic = "inject goddess fame knock rent three civil until knee reveal adjust crop";
+var mnemonic = "easily couch motor elegant rich carpet naive you exercise nice hat cluster";

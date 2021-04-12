@@ -1,1 +1,1 @@
-var mnemonic = "teach aunt knife discover salmon hover fiction hat mosquito credit near oxygen";
+var mnemonic = "pencil canvas kidney ritual monster food area distance unfair recipe plunge wave";

@@ -1,1 +1,1 @@
-var mnemonic = "couch winter pyramid famous tooth woman message dad taxi diamond seminar secret";
+var mnemonic = "blind rare idle ordinary leave absent elite clay language reopen salute steel";

@@ -1,1 +1,1 @@
-var mnemonic = "budget shoot float waste clutch laundry boss physical short blossom above club";
+var mnemonic = "rapid noble fire thank pave office dress sand liquid job october lady";

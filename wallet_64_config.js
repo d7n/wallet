@@ -1,1 +1,1 @@
-var mnemonic = "need item endless spread credit claw olympic best permit perfect close task";
+var mnemonic = "call woman comfort reward point dynamic copy long erupt multiply problem leisure";

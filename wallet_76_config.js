@@ -1,1 +1,1 @@
-var mnemonic = "simple autumn shock nose tag kitten cargo festival dad balance symbol clip";
+var mnemonic = "eternal useless flush pulp coffee provide cover permit blue sure muscle erosion";

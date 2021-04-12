@@ -1,1 +1,1 @@
-var mnemonic = "defense mother display bus soul duty excess misery green mule race castle";
+var mnemonic = "salon collect answer error wisdom total supply snack find mesh first inquiry";

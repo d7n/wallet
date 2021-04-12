@@ -1,1 +1,1 @@
-var mnemonic = "muscle gloom enemy impulse raven month myself dial weapon question orbit blame";
+var mnemonic = "setup debris flag ensure eagle craft field gun fetch bacon ecology casual";

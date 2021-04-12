@@ -1,1 +1,1 @@
-var mnemonic = "version garage school print praise large latin cable tower police turn sibling";
+var mnemonic = "gown seven cradle affair garage ready express lake fold frequent empower noise";

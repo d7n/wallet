@@ -1,1 +1,1 @@
-var mnemonic = "able ozone rack maple kite oak neither midnight piano lend sniff flock";
+var mnemonic = "arch clean truth summer secret cement concert gesture acid aware correct later";
