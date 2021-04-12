@@ -1,1 +1,1 @@
-var mnemonic = "soft doctor wolf blanket run turkey bird under great similar allow replace";
+var mnemonic = "garage captain valley sadness spy basic monkey loud draw use menu trumpet";

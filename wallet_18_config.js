@@ -1,1 +1,1 @@
-var mnemonic = "cherry window steel fragile rail asset decline august sweet inner suit material";
+var mnemonic = "alpha fitness swallow purpose key share rare quote slot pilot cloth slot";

@@ -1,1 +1,1 @@
-var mnemonic = "above traffic either nut gate vehicle evolve close feed color myself country";
+var mnemonic = "vibrant erupt clarify humble grass merit before sniff pencil roof farm random";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze submit mercy catch retire lab people wise scale valid stool myth";
+var mnemonic = "left strong ice floor inhale movie issue fit auction pelican desert jar";

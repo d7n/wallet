@@ -1,1 +1,1 @@
-var mnemonic = "timber rotate item napkin mule eye goddess style waste arrive perfect quit";
+var mnemonic = "ghost buyer nut ready brief that fury fiscal penalty evoke crash apple";

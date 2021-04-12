@@ -1,1 +1,1 @@
-var mnemonic = "museum very order buddy focus immense wreck must this soul table tilt";
+var mnemonic = "hen wagon moment shield sauce fish rather bid split life hedgehog multiply";

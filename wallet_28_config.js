@@ -1,1 +1,1 @@
-var mnemonic = "blood dilemma coin video much lawsuit grape check bullet october soul silk";
+var mnemonic = "spend ostrich ignore tired primary paddle chase ghost clap affair more figure";

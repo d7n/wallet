@@ -1,1 +1,1 @@
-var mnemonic = "scheme pudding taxi wrong shop fine scrap pig exact faculty snack utility";
+var mnemonic = "sheriff unhappy link ketchup avoid seat vibrant enable coconut point skill keen";

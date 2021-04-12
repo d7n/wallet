@@ -1,1 +1,1 @@
-var mnemonic = "noise champion license wet alarm style like table sphere bitter omit million";
+var mnemonic = "when armor surface gold aisle gun crucial seek pilot copy brown viable";

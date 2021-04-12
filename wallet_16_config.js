@@ -1,1 +1,1 @@
-var mnemonic = "angry toilet clever aerobic wheat surprise suggest cave ghost quick upper coin";
+var mnemonic = "combine call couple math true blossom catch eyebrow jaguar donate able soda";

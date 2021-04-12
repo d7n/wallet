@@ -1,1 +1,1 @@
-var mnemonic = "actual castle crop side always define lunch lunch entry thunder nothing sort";
+var mnemonic = "swamp awkward metal frown silly brown easily room cluster child mango kick";

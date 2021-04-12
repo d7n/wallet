@@ -1,1 +1,1 @@
-var mnemonic = "clog gap scissors pause salon plate elite unique orbit torch grow waste";
+var mnemonic = "always mouse venue point sponsor mouse connect movie lizard pill gaze crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "raven celery join attack okay suspect vicious power present envelope screen modify";
+var mnemonic = "gesture hire shine clerk social flower shy quiz permit already carbon power";

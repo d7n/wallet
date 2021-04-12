@@ -1,1 +1,1 @@
-var mnemonic = "garment often afraid resist message beach casino donor scout resource nominee sustain";
+var mnemonic = "giant armor pear armor donate decrease cute twelve federal asthma screen cave";

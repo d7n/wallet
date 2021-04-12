@@ -1,1 +1,1 @@
-var mnemonic = "turn cinnamon marble bright green nut urban segment enjoy allow young try";
+var mnemonic = "road rare advance tunnel parrot keen dawn wink knock inspire custom three";

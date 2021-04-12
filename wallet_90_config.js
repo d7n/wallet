@@ -1,1 +1,1 @@
-var mnemonic = "sunny kick safe fault run struggle will maze club unhappy later catch";
+var mnemonic = "donate welcome insane grocery control trophy punch journey unique bleak aunt stand";

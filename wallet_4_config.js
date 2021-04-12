@@ -1,1 +1,1 @@
-var mnemonic = "night educate adjust over connect item desert evoke intact soda fix opera";
+var mnemonic = "oblige shed cannon year stem access rate pass hand nasty miss license";

@@ -1,1 +1,1 @@
-var mnemonic = "inner chase unusual absorb stock pill lemon drastic theme robot arrange concert";
+var mnemonic = "loan adjust unknown increase noise similar sun hurry scare fitness jeans bird";

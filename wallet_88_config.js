@@ -1,1 +1,1 @@
-var mnemonic = "charge holiday also effort pipe hand simple differ supreme outdoor clerk manage";
+var mnemonic = "uncover object erase marriage aunt avoid opinion blast razor muffin coffee square";

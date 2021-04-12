@@ -1,1 +1,1 @@
-var mnemonic = "coffee wolf face chronic gold claw visa fog fat wrestle meat usage";
+var mnemonic = "person enact fiber strike august spoon impose mansion fall modify essence medal";

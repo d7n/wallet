@@ -1,1 +1,1 @@
-var mnemonic = "valve young suggest similar front fruit van clog crystal hurry gauge detail";
+var mnemonic = "alarm someone stay wrestle pioneer upgrade lesson speed volume abuse element square";

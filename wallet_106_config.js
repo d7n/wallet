@@ -1,1 +1,1 @@
-var mnemonic = "never script start lion eagle say vehicle city spoil nose federal lend";
+var mnemonic = "glide vast foil glass detect quote good output churn swift love empty";

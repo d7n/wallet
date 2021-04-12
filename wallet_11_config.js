@@ -1,1 +1,1 @@
-var mnemonic = "pottery polar face catalog general begin clog try poet clutch affair still";
+var mnemonic = "pact festival result horn afraid flat together dune dry senior dune disease";

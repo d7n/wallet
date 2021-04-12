@@ -1,1 +1,1 @@
-var mnemonic = "since illness across float verb smart glare method silly reunion repeat detect";
+var mnemonic = "taste leave wear key voice require differ ghost wheat lake odor drive";

@@ -1,1 +1,1 @@
-var mnemonic = "modify swarm drama gate tomorrow meat multiply spoon million critic month purchase";
+var mnemonic = "kingdom cage crystal prefer glove always village atom outside sponsor shrug label";

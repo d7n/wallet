@@ -1,1 +1,1 @@
-var mnemonic = "quiz front fragile circle lady local credit reopen cabbage wealth mercy senior";
+var mnemonic = "certain drip carpet ice point sample truck trap wood fruit stadium suspect";

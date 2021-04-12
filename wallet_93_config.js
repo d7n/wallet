@@ -1,1 +1,1 @@
-var mnemonic = "arrive used copy vanish fatal expect essence chuckle hand crowd fat wage";
+var mnemonic = "immune rich juice bronze jump six vacant wild tone reunion dove spring";

@@ -1,1 +1,1 @@
-var mnemonic = "moral impact whisper child wasp secret blur sport squeeze magic volume tree";
+var mnemonic = "mosquito pottery quarter alarm sustain unhappy negative because nest onion measure affair";

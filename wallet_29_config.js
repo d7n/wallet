@@ -1,1 +1,1 @@
-var mnemonic = "best autumn motor genius joy purity cover destroy solution decide floor lamp";
+var mnemonic = "staff under ritual front art one thrive exchange purchase daring neutral grab";

@@ -1,1 +1,1 @@
-var mnemonic = "pink shuffle split stumble sand derive frequent bottom wrong problem junior crew";
+var mnemonic = "pulse acoustic force sword suffer popular price dragon sun into pool need";

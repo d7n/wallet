@@ -1,1 +1,1 @@
-var mnemonic = "holiday dutch together reopen struggle idle roof project tiger pink clay into";
+var mnemonic = "flip motion liar caught sweet lunch family produce shaft squirrel provide orchard";

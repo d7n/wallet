@@ -1,1 +1,1 @@
-var mnemonic = "vacuum quote scare agent museum gospel valid cloud phone bundle damp client";
+var mnemonic = "turkey until faculty middle chronic pledge bacon exercise floor funny taxi swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat obvious airport wage slim quiz bullet define bid hunt calm move";
+var mnemonic = "float view try announce van question pill assault fiber mechanic rate grit";

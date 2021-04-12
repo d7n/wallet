@@ -1,1 +1,1 @@
-var mnemonic = "ivory any interest problem bonus bunker trick climb acid innocent never enlist";
+var mnemonic = "puppy verb extend palace soon poem lumber eagle oil dumb ecology keen";

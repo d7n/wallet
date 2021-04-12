@@ -1,1 +1,1 @@
-var mnemonic = "shadow gentle you turtle scorpion clap tail wealth fetch myth gown planet";
+var mnemonic = "tornado decline suspect echo load circle panda laptop frown next blade spatial";

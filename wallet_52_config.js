@@ -1,1 +1,1 @@
-var mnemonic = "utility burger coach bright jungle exact canal drive large hair observe brain";
+var mnemonic = "tone narrow dawn help crystal cream useful tumble alone abuse shock balcony";

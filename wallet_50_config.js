@@ -1,1 +1,1 @@
-var mnemonic = "valley stock crumble race cloth extend element put ahead visit pill jar";
+var mnemonic = "truck kitten custom shuffle universe stadium velvet keen crush arrow artwork clean";

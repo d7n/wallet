@@ -1,1 +1,1 @@
-var mnemonic = "voyage decline pave negative true famous sign profit start safe uniform grant";
+var mnemonic = "quantum topple they pitch kiwi slender extra relax wheat obtain sign mandate";

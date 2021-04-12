@@ -1,1 +1,1 @@
-var mnemonic = "review train lemon decade mouse off visual blade whisper include mansion burden";
+var mnemonic = "crouch ecology wave school idle misery amazing night tape mandate under wet";

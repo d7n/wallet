@@ -1,1 +1,1 @@
-var mnemonic = "cram jealous private chief split such text acquire wire sudden east assist";
+var mnemonic = "portion woman chimney ahead lemon hidden trust bag fabric demand excuse enter";

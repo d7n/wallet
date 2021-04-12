@@ -1,1 +1,1 @@
-var mnemonic = "paper rent drum tank fame vendor door lamp avocado issue panel weather";
+var mnemonic = "spare citizen own proud upon school galaxy soon badge evil number mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch cancel civil minimum shine quiz drop globe detect local village suit";
+var mnemonic = "baby section pipe deliver coffee brown tray dwarf card warrior utility shell";

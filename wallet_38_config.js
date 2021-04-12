@@ -1,1 +1,1 @@
-var mnemonic = "man arena plug recycle science robust ability latin edge resource target female";
+var mnemonic = "point whale memory shrug woman snap review debate jacket consider velvet hope";

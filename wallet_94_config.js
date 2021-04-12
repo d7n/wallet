@@ -1,1 +1,1 @@
-var mnemonic = "faculty humor right drink gorilla squirrel when text process allow improve game";
+var mnemonic = "believe hedgehog finger buffalo merge coral cinnamon since hundred night whale tent";

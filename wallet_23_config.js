@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cake earth crucial common soul monkey beach rare wrist size ship";
+var mnemonic = "rabbit spider hen green anxiety glance ancient elegant minor sentence egg pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "tape submit rail code kick announce fruit vanish marriage ethics point bridge";
+var mnemonic = "erupt burst output about lamp hunt beyond carbon trumpet pulp before bamboo";

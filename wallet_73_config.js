@@ -1,1 +1,1 @@
-var mnemonic = "mobile either bulk submit online spell print fee mean kingdom alter mechanic";
+var mnemonic = "absent crystal else convince chair session canyon once nose delay envelope exist";

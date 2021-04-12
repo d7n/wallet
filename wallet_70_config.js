@@ -1,1 +1,1 @@
-var mnemonic = "maze simple divide myself toward solar congress food palace rifle move endorse";
+var mnemonic = "kind buddy tomato involve lizard route output message impose control great faint";

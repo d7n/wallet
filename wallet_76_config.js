@@ -1,1 +1,1 @@
-var mnemonic = "mountain humble lamp state scout access sibling observe gorilla found volcano purpose";
+var mnemonic = "gloom merit sell grab debris price common surprise that crime moon thought";

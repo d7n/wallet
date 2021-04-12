@@ -1,1 +1,1 @@
-var mnemonic = "deposit identify december army aim question soft solve debate air pool bullet";
+var mnemonic = "exist human crawl usage dragon reform stable apology pilot rival helmet tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "impose hurdle tooth illegal runway poet main audit athlete obtain decade gesture";
+var mnemonic = "bird mansion horror toilet hurt rare return kitchen embark zoo mean foster";

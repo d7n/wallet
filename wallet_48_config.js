@@ -1,1 +1,1 @@
-var mnemonic = "decade dolphin horn else illegal fix prize select invest alien second basic";
+var mnemonic = "direct device debate they pattern april surface still traffic resemble awesome economy";

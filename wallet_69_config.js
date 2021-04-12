@@ -1,1 +1,1 @@
-var mnemonic = "enough congress engage weird replace average tiger twelve another wise document energy";
+var mnemonic = "maze copper define awake whale trick quiz uniform student plug swamp theory";

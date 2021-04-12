@@ -1,1 +1,1 @@
-var mnemonic = "fiction name figure quit follow humble stand job bind fog private example";
+var mnemonic = "usual will appear pledge license try weather smooth dad ramp ring diamond";

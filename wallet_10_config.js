@@ -1,1 +1,1 @@
-var mnemonic = "opinion recipe valley shift simple spin imitate load gown spoon sure soap";
+var mnemonic = "since early laugh key card nest sausage assume vanish athlete possible mom";

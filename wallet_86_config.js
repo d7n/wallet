@@ -1,1 +1,1 @@
-var mnemonic = "snack able rough mystery ordinary excite shield web box stand gorilla bleak";
+var mnemonic = "correct wise penalty reject trap panel buddy number shrimp bamboo stomach alley";

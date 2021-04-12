@@ -1,1 +1,1 @@
-var mnemonic = "pioneer concert bread unaware whale purse forum tennis light model imitate survey";
+var mnemonic = "maze lunch obey anger nose mushroom pitch fly ceiling sibling nice orange";

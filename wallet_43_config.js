@@ -1,1 +1,1 @@
-var mnemonic = "crime demand patch force farm nominee whisper load fringe elbow awake uncover";
+var mnemonic = "dinosaur climb steel melt test reason video hip fire pumpkin change actress";

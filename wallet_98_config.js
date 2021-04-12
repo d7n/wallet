@@ -1,1 +1,1 @@
-var mnemonic = "banana apology game neck fine clean stick must faith situate stand nut";
+var mnemonic = "win chair anger slide energy monster debate syrup brave wagon meadow clump";

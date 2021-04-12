@@ -1,1 +1,1 @@
-var mnemonic = "maximum hunt render toe brush zoo battle blame fish width armor veteran";
+var mnemonic = "differ accuse misery supreme alter anchor wreck benefit hub east pupil faith";

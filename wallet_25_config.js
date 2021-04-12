@@ -1,1 +1,1 @@
-var mnemonic = "solar meadow when trip swing prison abuse tower gasp measure fiction victory";
+var mnemonic = "nerve slender unfair paper cheese cotton panel census lonely flush reopen tooth";

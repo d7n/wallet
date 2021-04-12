@@ -1,1 +1,1 @@
-var mnemonic = "umbrella inform sister casino awful narrow antenna caught exhaust accuse leg fatal";
+var mnemonic = "giant school goose early latin smart connect neutral protect leg image drop";

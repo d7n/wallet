@@ -1,1 +1,1 @@
-var mnemonic = "enable program village bounce bottom relief kingdom achieve day vast project blade";
+var mnemonic = "night attract twin veteran valid boost ethics destroy answer account drastic enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "book beef world harvest romance torch gift mobile garden system coconut dial";
+var mnemonic = "crew chair series regular speak exact danger call act panda below toss";

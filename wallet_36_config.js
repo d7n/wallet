@@ -1,1 +1,1 @@
-var mnemonic = "alter cruel interest lucky weapon clerk auction focus armor tip assault oil";
+var mnemonic = "require example valid craft cat cherry spread rate position welcome kite wrap";

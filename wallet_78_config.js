@@ -1,1 +1,1 @@
-var mnemonic = "segment bring design giraffe armed fog property drink nest noodle warfare fault";
+var mnemonic = "cricket perfect verb month tooth merry image rose finger square wasp plug";

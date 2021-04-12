@@ -1,1 +1,1 @@
-var mnemonic = "pupil churn stove man target identify soccer school goose quarter zebra receive";
+var mnemonic = "pig collect address length loud magic entry valley frown clinic kidney shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "soon bottom leader expect talent boost program stock garbage filter engage fruit";
+var mnemonic = "cement congress rely blood goose mad admit sense corn turkey mutual limit";

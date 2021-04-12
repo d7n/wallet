@@ -1,1 +1,1 @@
-var mnemonic = "attract flock uphold dose drum visa enough duty gate biology drink clog";
+var mnemonic = "wood make artwork base glide drip mad mouse gas media federal cement";

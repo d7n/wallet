@@ -1,1 +1,1 @@
-var mnemonic = "subject learn carry repair learn mechanic machine above trash glow guess kangaroo";
+var mnemonic = "level narrow prefer town popular stool roof already sudden include garlic used";

@@ -1,1 +1,1 @@
-var mnemonic = "rail above opinion ghost length pact hamster comic monster joke link garbage";
+var mnemonic = "gesture hospital nut sheriff bright nose zone high expose choice bring youth";

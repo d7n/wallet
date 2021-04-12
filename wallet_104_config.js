@@ -1,1 +1,1 @@
-var mnemonic = "ripple corn lazy summer hub approve lunch female audit aerobic opera better";
+var mnemonic = "visit label accuse flock eager theory drama shoulder shed kangaroo fine primary";

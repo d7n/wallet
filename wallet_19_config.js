@@ -1,1 +1,1 @@
-var mnemonic = "step planet monkey convince excite valve couple laugh honey nuclear pink resist";
+var mnemonic = "identify bulb term dress wish salon dwarf prevent chimney mad enact license";

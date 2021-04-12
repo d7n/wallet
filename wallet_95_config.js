@@ -1,1 +1,1 @@
-var mnemonic = "comic subway parent excuse social spice rebel spray saddle silk edge cricket";
+var mnemonic = "stomach reflect eye decrease finger snap tell elder twist coffee quantum opinion";

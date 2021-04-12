@@ -1,1 +1,1 @@
-var mnemonic = "slight subway east act robot creek soon burden lamp climb eagle best";
+var mnemonic = "spoon sun clarify web spy scout next vicious bench cost describe sample";

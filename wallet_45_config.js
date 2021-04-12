@@ -1,1 +1,1 @@
-var mnemonic = "mention manual observe denial stone embark scorpion casual already relief frown live";
+var mnemonic = "bitter frequent dry receive slogan remain unfair wide track address slim tower";

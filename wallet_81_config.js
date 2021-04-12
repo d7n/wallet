@@ -1,1 +1,1 @@
-var mnemonic = "hub inner tip volume issue end start finger deputy lion spell gossip";
+var mnemonic = "found cabbage hazard dolphin library kite awkward wolf only glimpse evoke start";

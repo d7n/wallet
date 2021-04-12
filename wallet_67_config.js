@@ -1,1 +1,1 @@
-var mnemonic = "general frost replace kick task body slush hover infant rally brush blanket";
+var mnemonic = "magic wire panda cream bacon spatial weapon word cram loan winner clock";

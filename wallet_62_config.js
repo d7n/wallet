@@ -1,1 +1,1 @@
-var mnemonic = "clown awake quarter process excite miss area light dash jungle miracle praise";
+var mnemonic = "swamp soon shock energy elder relax future taxi north picnic near turn";

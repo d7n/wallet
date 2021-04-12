@@ -1,1 +1,1 @@
-var mnemonic = "process shy verify buyer follow task rescue galaxy treat water absent enforce";
+var mnemonic = "turkey neutral uniform useless vague salute space input runway path arrest chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "coach various ecology betray expose zoo damp champion wire hurdle luggage lonely";
+var mnemonic = "lizard ladder loyal thought dignity answer stuff image avocado neither suggest wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic fit measure hood bonus panic boring inspire steak giant wealth oxygen";
+var mnemonic = "gold desert report cover shove easy powder shoe attend recipe text infant";

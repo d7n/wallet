@@ -1,1 +1,1 @@
-var mnemonic = "supply enlist cost report actual broom hungry planet mother grief popular mad";
+var mnemonic = "police garbage purity bachelor used sock front demand tilt series flip fuel";

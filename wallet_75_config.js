@@ -1,1 +1,1 @@
-var mnemonic = "buddy general flock solid old orphan swarm final canal turn island connect";
+var mnemonic = "purse mother tide spare rigid ozone surprise duty novel few upset pilot";

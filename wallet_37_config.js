@@ -1,1 +1,1 @@
-var mnemonic = "work eight often myth since helmet salmon park august universe argue slam";
+var mnemonic = "fan isolate deal cable anger wink affair antenna such game latin knock";

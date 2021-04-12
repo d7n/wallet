@@ -1,1 +1,1 @@
-var mnemonic = "real monster skin measure problem strategy silent sail village motion unknown exhibit";
+var mnemonic = "coil body student three forward frost only hollow bronze excite build unaware";

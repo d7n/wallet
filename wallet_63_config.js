@@ -1,1 +1,1 @@
-var mnemonic = "jacket abstract hint excess echo abstract card elevator canal embrace damp safe";
+var mnemonic = "fall army this city dress cancel push engage walk vocal lucky zero";

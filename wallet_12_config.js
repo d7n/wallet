@@ -1,1 +1,1 @@
-var mnemonic = "album science dumb clinic amount universe flavor random trigger math tackle music";
+var mnemonic = "vanish lawn ring peasant draft neglect game kid river news help release";
