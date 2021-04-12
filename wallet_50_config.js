@@ -1,1 +1,1 @@
-var mnemonic = "approve mountain gravity rib gospel mix market test habit mechanic edge cream";
+var mnemonic = "shine region hole high royal ivory solar hybrid then shed input slot";

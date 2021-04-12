@@ -1,1 +1,1 @@
-var mnemonic = "pig disagree toe furnace deny sentence clever comic inspire tip drill around";
+var mnemonic = "banner hungry slab ivory admit gun liquid morning wrong half amateur raw";

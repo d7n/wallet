@@ -1,1 +1,1 @@
-var mnemonic = "treat leg twist olympic tissue brain tower transfer smart good elevator boost";
+var mnemonic = "oyster shoot giant answer near diesel electric fantasy oven expire glide giant";

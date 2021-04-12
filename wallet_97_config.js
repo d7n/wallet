@@ -1,1 +1,1 @@
-var mnemonic = "scissors slam double need cotton eight north wrestle tool cool employ shoot";
+var mnemonic = "neutral spring olive green inform adjust enhance egg climb antenna panel bone";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal innocent harbor margin fall inject fade repair crowd warfare grocery family";
+var mnemonic = "into oppose news ketchup blossom cash year duck visit you pull person";

@@ -1,1 +1,1 @@
-var mnemonic = "utility bottom attend offer civil sign coral rug hazard answer talent segment";
+var mnemonic = "pear quit host sweet shine shoulder exhaust setup vote vast disagree popular";

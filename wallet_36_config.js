@@ -1,1 +1,1 @@
-var mnemonic = "whale romance follow lawn true market address solid once nurse bridge meat";
+var mnemonic = "chief umbrella mirror rely zebra reunion cliff limit frog snake uniform butter";

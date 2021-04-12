@@ -1,1 +1,1 @@
-var mnemonic = "want settle leaf hedgehog wait tuna short roast useless total pupil myth";
+var mnemonic = "cliff gasp market box bounce hidden insect twist stone hungry joke moment";

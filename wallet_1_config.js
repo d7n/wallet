@@ -1,1 +1,1 @@
-var mnemonic = "security answer what trash gentle orient month auto into defy donkey book";
+var mnemonic = "prosper boil arm atom winter exotic foil old sleep dismiss minimum token";

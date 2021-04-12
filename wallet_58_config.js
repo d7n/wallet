@@ -1,1 +1,1 @@
-var mnemonic = "present joy air join rack rule broccoli speak ride wise electric split";
+var mnemonic = "spray unit solid exist idea process milk fly announce trash upon ice";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi intact spin robust glass inch light coach notice slender erosion slim";
+var mnemonic = "pumpkin open matter call half forum youth concert alarm broccoli carpet trophy";

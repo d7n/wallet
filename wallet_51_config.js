@@ -1,1 +1,1 @@
-var mnemonic = "innocent muffin wisdom wasp black crawl obey inherit brother occur mushroom siren";
+var mnemonic = "outdoor curve october disagree strong wide absorb disease distance two direct hair";

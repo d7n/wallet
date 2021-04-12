@@ -1,1 +1,1 @@
-var mnemonic = "speed upset mimic planet asthma despair cherry helmet letter mandate amount waste";
+var mnemonic = "stamp tooth then cup client virtual angle earn corn material gown space";

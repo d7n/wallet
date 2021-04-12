@@ -1,1 +1,1 @@
-var mnemonic = "remove insect combine winner mixed absorb state blush slush scorpion put divide";
+var mnemonic = "program fish topple output height metal dune asthma favorite fire custom vivid";

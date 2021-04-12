@@ -1,1 +1,1 @@
-var mnemonic = "lottery remove feature ostrich sick dice doll mother useful abuse theory key";
+var mnemonic = "pet zero pistol detect call jeans ready alone switch wonder correct utility";

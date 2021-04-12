@@ -1,1 +1,1 @@
-var mnemonic = "hazard alien flee entry impulse diesel dream rug involve symptom economy dragon";
+var mnemonic = "market crumble pluck solid spawn there grocery box grief airport switch glow";

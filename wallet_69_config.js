@@ -1,1 +1,1 @@
-var mnemonic = "evidence mail unlock green south spawn fly advice despair diamond language unique";
+var mnemonic = "second scrub gaze box dose develop gorilla age dynamic pet spider slush";

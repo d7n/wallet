@@ -1,1 +1,1 @@
-var mnemonic = "gown position defy capable food divert flush away net chapter release whip";
+var mnemonic = "earth rack inhale increase label whale during symptom slice pear transfer choose";

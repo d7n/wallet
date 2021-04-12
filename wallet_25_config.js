@@ -1,1 +1,1 @@
-var mnemonic = "exchange weird ice quality wealth verb shrimp noise uncover idle trial cover";
+var mnemonic = "cattle anxiety roof insect matter dish priority remember salt extra issue sick";

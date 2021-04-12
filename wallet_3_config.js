@@ -1,1 +1,1 @@
-var mnemonic = "evil aware author ozone valid first wink elevator holiday hurt eternal group";
+var mnemonic = "lawsuit below nasty again any gossip amazing mirror rhythm gift web join";

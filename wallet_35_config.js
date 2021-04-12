@@ -1,1 +1,1 @@
-var mnemonic = "enforce square adult inquiry faith suffer keen obscure wild youth way poet";
+var mnemonic = "there length review palace oak owner sing flavor denial dust note lyrics";

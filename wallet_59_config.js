@@ -1,1 +1,1 @@
-var mnemonic = "close tuna fluid sleep naive soft rookie science index hour shift faint";
+var mnemonic = "item neither term correct pretty ecology runway dream shine grant error wrist";

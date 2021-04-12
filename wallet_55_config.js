@@ -1,1 +1,1 @@
-var mnemonic = "wide violin jazz parade man title carpet hedgehog meadow erode crowd melody";
+var mnemonic = "melt hour large when economy pole belt blood author reduce puppy intact";

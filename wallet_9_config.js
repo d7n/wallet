@@ -1,1 +1,1 @@
-var mnemonic = "peace then planet despair seat island drift era produce flame balance donate";
+var mnemonic = "rely chicken siren burden lumber million provide extra relax vast reflect very";

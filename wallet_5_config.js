@@ -1,1 +1,1 @@
-var mnemonic = "math cable camp execute teach member topic visit goddess adult supreme cause";
+var mnemonic = "quantum flash melody design crop pigeon bless bar turkey rigid power hair";

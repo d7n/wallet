@@ -1,1 +1,1 @@
-var mnemonic = "vibrant observe poet quick damage lamp boost taxi market poverty token used";
+var mnemonic = "idle thumb decide perfect universe print lawsuit typical pilot reduce shoulder tuition";

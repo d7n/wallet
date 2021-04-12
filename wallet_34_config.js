@@ -1,1 +1,1 @@
-var mnemonic = "bamboo again mind approve need broccoli damage joy similar vital mother ceiling";
+var mnemonic = "sugar silly bright cotton vague oven input sing lens group kind all";

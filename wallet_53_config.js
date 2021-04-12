@@ -1,1 +1,1 @@
-var mnemonic = "horror critic gauge pen ankle lounge egg swear sausage fine abuse goose";
+var mnemonic = "satoshi obey few chapter liar narrow tell embark peace vessel barrel welcome";

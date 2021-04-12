@@ -1,1 +1,1 @@
-var mnemonic = "empty water anger carbon oxygen gain only kangaroo oven elbow gasp cart";
+var mnemonic = "hover debris patrol reopen sustain inquiry hero dose wave clip various math";

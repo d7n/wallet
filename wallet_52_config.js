@@ -1,1 +1,1 @@
-var mnemonic = "soap loyal piano fault example visual bind service solar dragon involve shadow";
+var mnemonic = "pilot artefact office cushion affair afraid size fly waste exhaust tribe wolf";

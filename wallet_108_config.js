@@ -1,1 +1,1 @@
-var mnemonic = "faculty tilt undo alcohol off select broom clean view cabin orient reform";
+var mnemonic = "liquid excuse spring impulse source unfold album arch carpet fly reflect work";

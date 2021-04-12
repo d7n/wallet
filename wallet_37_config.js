@@ -1,1 +1,1 @@
-var mnemonic = "mutual train win medal fashion happy trouble alcohol ethics vibrant vapor glass";
+var mnemonic = "squirrel install give clerk phrase social nerve width save relax polar waste";

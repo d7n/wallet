@@ -1,1 +1,1 @@
-var mnemonic = "kick page use engine skate ride direct armor vacuum impose beyond unlock";
+var mnemonic = "antenna music spoil ocean goat clean orient fabric column trigger announce virus";

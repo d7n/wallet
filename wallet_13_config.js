@@ -1,1 +1,1 @@
-var mnemonic = "enroll hamster huge save pyramid price destroy ostrich resemble finish nurse work";
+var mnemonic = "flip fault immense huge arch mesh parrot height furnace print grocery trumpet";

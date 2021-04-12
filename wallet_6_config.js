@@ -1,1 +1,1 @@
-var mnemonic = "long pony panic student mad state hammer labor fault lamp brass alarm";
+var mnemonic = "magic govern lobster sugar security work sauce marine gaze wood use puppy";

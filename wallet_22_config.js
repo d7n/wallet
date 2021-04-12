@@ -1,1 +1,1 @@
-var mnemonic = "erupt fun awful party entry scrap ski talent melody indoor leader undo";
+var mnemonic = "elevator robust share volume tattoo source trip exhaust pass gap island salt";

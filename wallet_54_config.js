@@ -1,1 +1,1 @@
-var mnemonic = "assist short gas depth slush express believe crouch box brave hope toss";
+var mnemonic = "excess lumber paper attract rival absent mesh border candy quality other laugh";

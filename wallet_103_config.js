@@ -1,1 +1,1 @@
-var mnemonic = "trip final appear divorce coyote wall ball wash alert entire combine cover";
+var mnemonic = "open leave wing travel mixed capable distance twelve gorilla common fork program";

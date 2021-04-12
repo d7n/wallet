@@ -1,1 +1,1 @@
-var mnemonic = "rescue bundle match silver bomb better ability sheriff nation ability bracket announce";
+var mnemonic = "dinosaur video casual aunt liquid crisp loyal parent mushroom disagree pudding speed";

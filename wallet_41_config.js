@@ -1,1 +1,1 @@
-var mnemonic = "census despair elephant hundred quick utility enter mask please network can income";
+var mnemonic = "elder magic slab book scale bacon pear liberty will stem mixed budget";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin mosquito layer tattoo tide vast milk dumb thought mango swarm reopen";
+var mnemonic = "salt away beach venture trade use corn scale scan pony emerge fun";

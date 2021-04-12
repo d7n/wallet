@@ -1,1 +1,1 @@
-var mnemonic = "unusual sphere meat expect champion deposit blur color strong avocado offer urban";
+var mnemonic = "awesome retire sell galaxy rotate tenant salute fish toddler foam tank buzz";

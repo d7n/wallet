@@ -1,1 +1,1 @@
-var mnemonic = "foil family expire giraffe bunker aunt recycle easily truly inflict fatal account";
+var mnemonic = "law security safe advice angle couple member shield sugar auction upon dress";

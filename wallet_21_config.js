@@ -1,1 +1,1 @@
-var mnemonic = "audit finger earth across squeeze govern position clinic crumble scatter pill donkey";
+var mnemonic = "shed banana until tip naive carry coconut actor glory project price unveil";

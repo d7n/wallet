@@ -1,1 +1,1 @@
-var mnemonic = "crazy endless space aspect vapor series morning civil scene among trigger satoshi";
+var mnemonic = "end doll asset banner dash have route truck erosion bring smooth output";

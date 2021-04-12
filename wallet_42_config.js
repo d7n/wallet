@@ -1,1 +1,1 @@
-var mnemonic = "brother acquire risk eager auto reunion damage fuel fire pencil trust horn";
+var mnemonic = "mesh grab lesson main fold surround deny actual argue grief loan lottery";

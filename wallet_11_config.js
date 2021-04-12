@@ -1,1 +1,1 @@
-var mnemonic = "ankle reason grit sample list spatial rule sort drill buyer casino soup";
+var mnemonic = "sock interest word spray brass antenna dilemma salon dish hip adapt wine";

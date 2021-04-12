@@ -1,1 +1,1 @@
-var mnemonic = "drink resist rough wrap marble boring ginger sound typical judge autumn deer";
+var mnemonic = "bullet brown exotic soda miracle person giant congress open dice execute stand";

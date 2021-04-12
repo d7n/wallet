@@ -1,1 +1,1 @@
-var mnemonic = "crawl ramp zero ordinary leave poet absurd enhance present dove fashion need";
+var mnemonic = "fine benefit script stock dumb old social matrix bounce cotton erase subway";

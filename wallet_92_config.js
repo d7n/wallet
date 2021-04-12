@@ -1,1 +1,1 @@
-var mnemonic = "kiwi dose cluster gasp foot dutch mother unusual tank violin discover call";
+var mnemonic = "senior screen breeze capable detail prevent dumb never typical lens icon they";

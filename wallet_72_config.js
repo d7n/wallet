@@ -1,1 +1,1 @@
-var mnemonic = "pistol goose wrist measure luggage february churn cash box brown retire human";
+var mnemonic = "tragic electric hammer exotic deputy real timber bring today twelve ice stick";

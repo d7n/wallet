@@ -1,1 +1,1 @@
-var mnemonic = "soup affair science swim rack crater canvas book shaft stadium young ugly";
+var mnemonic = "cousin outside embark answer occur scale swallow people adapt various resource steel";

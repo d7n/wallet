@@ -1,1 +1,1 @@
-var mnemonic = "alone catch slam negative upset upset web quantum process west cry charge";
+var mnemonic = "finger flush dynamic toe quote live divert gasp stage give jealous tent";

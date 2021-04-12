@@ -1,1 +1,1 @@
-var mnemonic = "clever witness alley artefact orchard afraid remove isolate casual coin drastic room";
+var mnemonic = "innocent talk record input domain park mansion divide swallow cable clog glue";

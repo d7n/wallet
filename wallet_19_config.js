@@ -1,1 +1,1 @@
-var mnemonic = "palace pumpkin toilet general another cannon cereal situate happy morning brush witness";
+var mnemonic = "fork leader sunny spring three impose enable alien shoe vessel prosper more";

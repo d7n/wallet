@@ -1,1 +1,1 @@
-var mnemonic = "resist shock lab useful water push sell approve nice bid fitness quality";
+var mnemonic = "use junior member slim napkin fossil physical message theory shiver garbage noble";

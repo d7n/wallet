@@ -1,1 +1,1 @@
-var mnemonic = "coyote trial corn alert proud history copy ice food wrap major lobster";
+var mnemonic = "grace monitor divorce poet furnace jealous slab pear employ question order radar";

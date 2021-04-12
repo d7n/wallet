@@ -1,1 +1,1 @@
-var mnemonic = "proof total follow knock twenty huge music arch tail want layer enrich";
+var mnemonic = "zone civil produce tuna damage boil spell throw cool bottom taxi screen";

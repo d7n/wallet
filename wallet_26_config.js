@@ -1,1 +1,1 @@
-var mnemonic = "injury space candy grow youth frog transfer toss axis together clown profit";
+var mnemonic = "sunny junior organ amazing impact fever sea swarm fade remain moon evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "exile loop bless suspect slender moment first trip surround umbrella embark broken";
+var mnemonic = "wagon jewel right illness furnace very pattern bunker hurt illness wine pulp";

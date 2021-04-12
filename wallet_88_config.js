@@ -1,1 +1,1 @@
-var mnemonic = "bulb success duty puppy race craft humor fence police chicken liquid rain";
+var mnemonic = "buddy divert ignore plug blade grant rude half execute memory course pony";

@@ -1,1 +1,1 @@
-var mnemonic = "awful tonight excuse frozen weasel era cable frozen wine unfold very work";
+var mnemonic = "frozen loop outer vendor film angle finish title huge festival grunt enlist";

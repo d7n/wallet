@@ -1,1 +1,1 @@
-var mnemonic = "stage rapid fall exile bonus result company visit argue equal bus income";
+var mnemonic = "pig alpha shop squeeze when wrestle squeeze supply angry consider height invite";

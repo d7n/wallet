@@ -1,1 +1,1 @@
-var mnemonic = "sibling armor indicate monitor caution bus clever private unaware clap icon pizza";
+var mnemonic = "festival taxi stage throw patient south kite silver that buffalo nature seminar";

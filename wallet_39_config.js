@@ -1,1 +1,1 @@
-var mnemonic = "matter major mandate before orange slush quit cigar jacket liar grid pitch";
+var mnemonic = "design vivid sorry boring child awful angry calm inch flip ribbon merge";

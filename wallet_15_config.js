@@ -1,1 +1,1 @@
-var mnemonic = "scrap clinic ostrich satoshi unit rhythm outside liar twice lunch sorry ginger";
+var mnemonic = "fetch false banana impose entire brick federal state pluck desk project entry";

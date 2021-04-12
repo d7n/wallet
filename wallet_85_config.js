@@ -1,1 +1,1 @@
-var mnemonic = "cry top satoshi harbor practice liquid swift sting exhibit pond next crouch";
+var mnemonic = "law odor lemon tiny wave list exclude execute puzzle refuse palm west";

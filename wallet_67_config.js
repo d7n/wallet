@@ -1,1 +1,1 @@
-var mnemonic = "spot lyrics theme claim spell math economy funny wave inspire steak unaware";
+var mnemonic = "wolf oppose that mask time tent vault west hidden problem job blouse";

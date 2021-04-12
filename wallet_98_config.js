@@ -1,1 +1,1 @@
-var mnemonic = "top sniff category supreme nurse deposit help wage obtain virus club series";
+var mnemonic = "best return injury soda tourist into educate cave decade lonely bottom midnight";

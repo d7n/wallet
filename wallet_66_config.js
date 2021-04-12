@@ -1,1 +1,1 @@
-var mnemonic = "verify pyramid general mechanic sort dress record club talent sniff sudden duck";
+var mnemonic = "mix keen foam top reform rifle secret violin fire patient profit outside";

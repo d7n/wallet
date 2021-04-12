@@ -1,1 +1,1 @@
-var mnemonic = "nut until capital thrive forget orbit bus tone copper analyst shrimp parent";
+var mnemonic = "behind mouse boil danger kite party lion exhibit critic soul biology present";

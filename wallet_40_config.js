@@ -1,1 +1,1 @@
-var mnemonic = "crisp crumble legend deal attitude suspect hobby oil eye puppy conduct type";
+var mnemonic = "limb attract vacant pond hello typical secret bulk volcano riot agent math";

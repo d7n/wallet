@@ -1,1 +1,1 @@
-var mnemonic = "honey there nose elevator price magic review team word casual rice wish";
+var mnemonic = "ritual blood dwarf jazz turn spice pair bunker leopard latin afford vanish";

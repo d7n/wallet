@@ -1,1 +1,1 @@
-var mnemonic = "marble birth zone load admit inject pigeon short desk need love course";
+var mnemonic = "glow acid always slow opinion wealth unlock badge duck absurd escape move";

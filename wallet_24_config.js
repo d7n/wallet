@@ -1,1 +1,1 @@
-var mnemonic = "ladder wrap alley dynamic upset envelope sadness either skin legend obvious scissors";
+var mnemonic = "sentence dream trial hat renew robot install mystery grit rack rare modify";

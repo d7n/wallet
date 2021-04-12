@@ -1,1 +1,1 @@
-var mnemonic = "garden manage table decrease potato version wait walnut fall father web salad";
+var mnemonic = "false kidney sausage baby mean camera punch fish pepper fan tail account";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond demand nurse close trial fantasy drink abandon work olive eager fancy";
+var mnemonic = "color armed useful sustain soul actor shaft topple volume fabric below sport";

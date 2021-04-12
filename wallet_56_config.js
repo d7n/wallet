@@ -1,1 +1,1 @@
-var mnemonic = "payment marble submit hurdle filter ghost arrive squeeze street assist grain crunch";
+var mnemonic = "onion rail slot pistol very table space stay corn already loyal sad";

@@ -1,1 +1,1 @@
-var mnemonic = "seek learn inner light coast umbrella advance sword hole payment shrug today";
+var mnemonic = "firm merry obvious roof stage style field capable gather dress visit ride";

@@ -1,1 +1,1 @@
-var mnemonic = "material rude broccoli hello design apple robust immune emotion transfer staff seminar";
+var mnemonic = "soap aisle actress question family rival grass citizen wise together metal scheme";

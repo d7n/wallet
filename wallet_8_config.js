@@ -1,1 +1,1 @@
-var mnemonic = "math achieve urge craft aunt mail spoon design month kangaroo hero price";
+var mnemonic = "portion disease critic there pave spring manage letter motor spare cheap split";

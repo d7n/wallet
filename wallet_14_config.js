@@ -1,1 +1,1 @@
-var mnemonic = "payment stem fish liar fold patient smoke front slab bring latin term";
+var mnemonic = "fatigue cruel happy abstract observe rubber divide thing later save air lion";

@@ -1,1 +1,1 @@
-var mnemonic = "group unit syrup utility join grief math render relief poet glad detect";
+var mnemonic = "rely man shallow burst rose web royal hold horse camera mesh piano";

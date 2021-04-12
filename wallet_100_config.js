@@ -1,1 +1,1 @@
-var mnemonic = "skin control quick adult wrestle charge cruise swarm ill grab way minute";
+var mnemonic = "rescue wood crumble peanut update lobster yard uniform rare bomb betray awful";

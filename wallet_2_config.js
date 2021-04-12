@@ -1,1 +1,1 @@
-var mnemonic = "penalty spirit hammer midnight turn margin concert blood endless vault thrive patient";
+var mnemonic = "become small client sadness tent loud clown elephant spawn fan purity peace";

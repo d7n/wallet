@@ -1,1 +1,1 @@
-var mnemonic = "forum cook size verify noodle stool object action floor inject scrap else";
+var mnemonic = "broom garage reform slight wonder time attitude judge music snack seed path";

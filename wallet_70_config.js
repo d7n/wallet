@@ -1,1 +1,1 @@
-var mnemonic = "lucky seminar toilet mixed element retire ladder relief cash lava laugh shadow";
+var mnemonic = "cost oblige admit kick bright cute reason estate wing garlic pudding theme";

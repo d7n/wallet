@@ -1,1 +1,1 @@
-var mnemonic = "beyond wait segment slim sound reject garden dragon jar task speed miracle";
+var mnemonic = "first regret bacon wall assault tell cherry deliver dragon quit act rocket";
