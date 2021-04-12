@@ -1,1 +1,1 @@
-var mnemonic = "sport parent gasp execute casino loud trumpet pulp aware slush ugly funny";
+var mnemonic = "clump club caution marine animal dwarf sadness obvious submit hedgehog knee enough";

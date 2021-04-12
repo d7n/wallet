@@ -1,1 +1,1 @@
-var mnemonic = "wear once north young master jewel shaft runway cheese area crystal baby";
+var mnemonic = "walnut scan broccoli answer dad scatter nuclear virus army business behind struggle";

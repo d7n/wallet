@@ -1,1 +1,1 @@
-var mnemonic = "label deposit odor destroy area wave note diet saddle build dirt treat";
+var mnemonic = "fluid broccoli tape air unable label shine defy physical luxury also tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "segment century similar stool electric ripple potato woman piano wolf early diary";
+var mnemonic = "domain chunk ball deny cruise broccoli shine foam pole lake glimpse same";

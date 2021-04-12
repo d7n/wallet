@@ -1,1 +1,1 @@
-var mnemonic = "volume bounce giggle alarm judge milk wagon pet crucial solar breeze loan";
+var mnemonic = "bunker brush bread gospel talk earn talent head two exotic tenant anger";

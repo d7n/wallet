@@ -1,1 +1,1 @@
-var mnemonic = "lift text tenant danger mercy caution lady piece erode window fatigue deny";
+var mnemonic = "liquid knee anxiety woman file eye access grass accuse congress remind maid";

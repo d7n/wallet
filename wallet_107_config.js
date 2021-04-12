@@ -1,1 +1,1 @@
-var mnemonic = "junk air crowd across assault uphold load west amateur seminar indoor mercy";
+var mnemonic = "author praise lobster select brush people athlete scene lobster amazing senior party";

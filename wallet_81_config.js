@@ -1,1 +1,1 @@
-var mnemonic = "today boat win immense update artefact either face demand matrix pledge silver";
+var mnemonic = "gap sadness cube shaft can genius saddle donate stay amazing ride smooth";

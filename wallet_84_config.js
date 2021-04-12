@@ -1,1 +1,1 @@
-var mnemonic = "sleep border gold river bicycle gaze kitchen favorite idea return fit valley";
+var mnemonic = "nut spawn swap shoot vault blanket soap mask ticket catch gentle burden";

@@ -1,1 +1,1 @@
-var mnemonic = "cause initial wool bird knock obvious journey slush bean pond width market";
+var mnemonic = "expose copper mesh ecology witness happy figure network bulb symptom hope remove";

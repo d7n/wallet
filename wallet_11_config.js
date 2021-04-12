@@ -1,1 +1,1 @@
-var mnemonic = "pilot learn cable skull enrich wish muscle fancy assist quick famous label";
+var mnemonic = "jungle armed mercy name print large cheese jaguar runway donkey heavy smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "million smooth ride library leisure crowd rifle donkey future own crazy term";
+var mnemonic = "swap kitchen atom thrive crane wage waste kick chimney illness vehicle spatial";

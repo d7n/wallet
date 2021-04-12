@@ -1,1 +1,1 @@
-var mnemonic = "bid snap puzzle brave start stuff clever fatigue sentence debris gallery humor";
+var mnemonic = "enrich april total weekend thing shock rather insect time hip empower muffin";

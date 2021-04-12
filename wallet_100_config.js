@@ -1,1 +1,1 @@
-var mnemonic = "solid float exist smoke sustain clutch income relief rate crime someone smart";
+var mnemonic = "cage there shrug fly loyal once pave chief spike laugh kiss thing";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff march claw inform network polar maid seminar pitch dice stadium wasp";
+var mnemonic = "obtain feel divide shell saddle series final gauge future champion unfair retire";

@@ -1,1 +1,1 @@
-var mnemonic = "argue fortune immense inform trial uncover slide sunset shop typical cement veteran";
+var mnemonic = "frozen cruise ankle north certain romance vote order physical arch cup ritual";

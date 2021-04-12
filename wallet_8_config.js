@@ -1,1 +1,1 @@
-var mnemonic = "swallow umbrella insane snow that blame kick lonely enemy razor circle comfort";
+var mnemonic = "wheel abuse kind road jump wink what assume ball crater little betray";

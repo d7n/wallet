@@ -1,1 +1,1 @@
-var mnemonic = "grass cupboard lounge rice receive hurry chief mosquito great attend exercise benefit";
+var mnemonic = "state crane poet early original better bless walnut solution tattoo float dice";

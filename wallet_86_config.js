@@ -1,1 +1,1 @@
-var mnemonic = "glow travel width sight exhibit ahead notice stamp melody crisp whale skirt";
+var mnemonic = "wild enemy slide paddle master annual glare desk brave senior enroll party";

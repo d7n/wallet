@@ -1,1 +1,1 @@
-var mnemonic = "latin begin vanish monitor gauge equip memory maze worth parent accuse destroy";
+var mnemonic = "wreck grocery local defense begin enroll clarify member web ginger island truck";

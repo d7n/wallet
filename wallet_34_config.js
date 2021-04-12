@@ -1,1 +1,1 @@
-var mnemonic = "until robust illness door interest group vanish stairs loyal insect beef swallow";
+var mnemonic = "great seek member warfare wide section west crack page wire file leopard";

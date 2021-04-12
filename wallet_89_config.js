@@ -1,1 +1,1 @@
-var mnemonic = "chase earn length board piano hungry maid melody canoe ring youth social";
+var mnemonic = "roof table okay base cricket beef exhaust boost seed rain miss mountain";

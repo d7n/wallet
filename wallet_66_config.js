@@ -1,1 +1,1 @@
-var mnemonic = "rail come rain jewel brass room spice symptom assault garlic top sister";
+var mnemonic = "direct evidence grab flavor coffee slice ship shrimp hen domain cash vault";

@@ -1,1 +1,1 @@
-var mnemonic = "miss good tired wool minor clump seminar agent play cup dawn lunch";
+var mnemonic = "decade gap december detail lecture cluster stereo avocado crisp chief swamp rug";

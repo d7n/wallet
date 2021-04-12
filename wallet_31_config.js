@@ -1,1 +1,1 @@
-var mnemonic = "hood lottery world sting parade immune position trick rebel stand grass merge";
+var mnemonic = "leisure taxi course need grid evolve three gentle update mail jeans upper";

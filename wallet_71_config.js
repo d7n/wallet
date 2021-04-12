@@ -1,1 +1,1 @@
-var mnemonic = "moment cloth raccoon illness swallow tape please panda industry occur airport lesson";
+var mnemonic = "dizzy mosquito attract once wisdom inch lesson tank divorce add entire disease";

@@ -1,1 +1,1 @@
-var mnemonic = "cook audit render someone into away open amused pattern hurt alert mistake";
+var mnemonic = "jeans undo bid tree fine explain duty simple fatigue mention excess screen";

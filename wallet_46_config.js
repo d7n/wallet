@@ -1,1 +1,1 @@
-var mnemonic = "vehicle must corn term bridge ghost eternal noodle original rack rocket blossom";
+var mnemonic = "uncle industry priority alone kingdom unique process spin zero false siege song";

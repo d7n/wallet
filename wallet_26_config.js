@@ -1,1 +1,1 @@
-var mnemonic = "video unlock quit clarify stone science mother crucial orient utility forum tube";
+var mnemonic = "spatial slight taste seat again hello ill chalk believe wild abandon rhythm";

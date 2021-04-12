@@ -1,1 +1,1 @@
-var mnemonic = "sea rule grit enable proof task witness couch rail sense thought awesome";
+var mnemonic = "term cupboard brown local violin useless athlete quiz nature swear extend update";

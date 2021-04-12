@@ -1,1 +1,1 @@
-var mnemonic = "hundred vicious leisure quarter festival garment answer debris blossom shallow solid taxi";
+var mnemonic = "gas help front cluster nation food exile prison crumble corn float wide";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic three relief multiply dawn tired cloth link wish settle random burden";
+var mnemonic = "burden carbon boat gospel disorder ozone garlic result skill patrol display moment";

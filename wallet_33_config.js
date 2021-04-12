@@ -1,1 +1,1 @@
-var mnemonic = "describe key castle toilet fantasy strike hood margin fox fun holiday cereal";
+var mnemonic = "ecology skull claw weekend useless globe ozone arm hen frown erase rocket";

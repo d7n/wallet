@@ -1,1 +1,1 @@
-var mnemonic = "section coyote october exercise funny tuna orchard relief unveil road lecture minor";
+var mnemonic = "forest travel exact force cancel capital develop nuclear bargain injury skill meat";

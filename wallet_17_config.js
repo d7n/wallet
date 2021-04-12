@@ -1,1 +1,1 @@
-var mnemonic = "mercy frog next skin gown next bracket pizza call moon poem aware";
+var mnemonic = "employ alone urge apple nothing pencil either cat cinnamon floor message base";

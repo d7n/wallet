@@ -1,1 +1,1 @@
-var mnemonic = "arrive nature charge fat lamp acid month ladder emerge image unaware spider";
+var mnemonic = "weather shoot walnut bitter hub kick observe oxygen anxiety cycle train laptop";

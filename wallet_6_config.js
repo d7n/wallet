@@ -1,1 +1,1 @@
-var mnemonic = "decorate settle pink another knock engage invite volcano same room inch bless";
+var mnemonic = "crazy silver afford inside napkin play alarm faint purpose age inside put";

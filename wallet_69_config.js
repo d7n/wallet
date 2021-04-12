@@ -1,1 +1,1 @@
-var mnemonic = "post team rubber agent loyal obey dial indicate artwork broccoli depart produce";
+var mnemonic = "crime pumpkin parent luggage casual cricket grunt only bullet motor coral truck";

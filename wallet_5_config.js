@@ -1,1 +1,1 @@
-var mnemonic = "horse shop lawsuit edit faith sting van decline dish cart build clever";
+var mnemonic = "occur arrange season frost also human twin hobby length ginger fantasy start";

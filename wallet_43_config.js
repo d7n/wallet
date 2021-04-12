@@ -1,1 +1,1 @@
-var mnemonic = "arch lunch limit tool cushion sister submit void motion try frame dash";
+var mnemonic = "equip fortune suggest cat humor rebuild crater cream romance dog advance urge";

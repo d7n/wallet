@@ -1,1 +1,1 @@
-var mnemonic = "wreck cheese glow theory describe insect neither sand unhappy tongue faint appear";
+var mnemonic = "gossip bubble stable bid surround scorpion tribe kangaroo mansion melt observe wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "word ketchup cotton foam stamp long toe crunch fragile need wet average";
+var mnemonic = "bench member dolphin shallow spirit void february rival major choice travel radar";

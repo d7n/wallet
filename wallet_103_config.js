@@ -1,1 +1,1 @@
-var mnemonic = "lunar little sound universe about climb enroll family march drift vessel grab";
+var mnemonic = "file fly poet define scale angle february baby fashion knife vapor design";

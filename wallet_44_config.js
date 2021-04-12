@@ -1,1 +1,1 @@
-var mnemonic = "army raven shrimp task balance adult heart delay fiction width tenant bar";
+var mnemonic = "bird veteran genius pact comic depend agree pact lonely alien energy scissors";

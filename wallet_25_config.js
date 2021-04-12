@@ -1,1 +1,1 @@
-var mnemonic = "eight cost jar strong release follow crowd usual sunny parrot someone common";
+var mnemonic = "wheel embark economy apart strike poverty enrich hobby equip girl edit safe";

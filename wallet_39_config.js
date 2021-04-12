@@ -1,1 +1,1 @@
-var mnemonic = "celery save fluid collect chimney breeze raccoon innocent olympic warrior purpose tonight";
+var mnemonic = "area arctic park bomb setup coil meadow female flock ball boy dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "pass only scatter alley goat sand ability attitude crowd taxi love metal";
+var mnemonic = "rocket guide media minute section tree cream salmon strong inmate dwarf mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "park post power half salute giant cement mandate accident large dish tip";
+var mnemonic = "desert video faith whisper problem oak farm defy spray ordinary worry hub";

@@ -1,1 +1,1 @@
-var mnemonic = "aware menu gym final palace believe alarm tired trial talk perfect sand";
+var mnemonic = "ocean essence session jungle attack soft hawk electric unfair extend flower response";

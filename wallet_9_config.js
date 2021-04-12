@@ -1,1 +1,1 @@
-var mnemonic = "there slogan cigar hard powder release infant empower spin fame body mouse";
+var mnemonic = "online legend breeze divert rather nest still capable music major torch goddess";

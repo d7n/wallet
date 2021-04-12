@@ -1,1 +1,1 @@
-var mnemonic = "job snow shrug quiz gravity remain ivory hand punch phone dizzy airport";
+var mnemonic = "cup grass tumble pride please pyramid insect want post gold club grab";

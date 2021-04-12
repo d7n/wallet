@@ -1,1 +1,1 @@
-var mnemonic = "maple banana tired devote tennis cupboard device neutral royal situate leave pole";
+var mnemonic = "acoustic alert brief list retreat force bone whale law city until weasel";

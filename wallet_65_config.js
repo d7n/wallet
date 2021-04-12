@@ -1,1 +1,1 @@
-var mnemonic = "border coffee regular chair mass velvet loan monster square math cable gentle";
+var mnemonic = "three answer tree oval cause direct loyal build lunar rotate crane undo";

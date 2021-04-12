@@ -1,1 +1,1 @@
-var mnemonic = "correct elite problem annual brief brain infant depart walk alarm term razor";
+var mnemonic = "off major lounge horn picnic symptom wheel throw grocery pepper portion punch";

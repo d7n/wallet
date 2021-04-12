@@ -1,1 +1,1 @@
-var mnemonic = "rose prefer emerge erupt ankle evil curtain artwork birth original canoe palace";
+var mnemonic = "author space inmate humble ice lift crawl priority remind lawn combine slice";

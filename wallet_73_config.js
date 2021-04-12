@@ -1,1 +1,1 @@
-var mnemonic = "daughter festival receive tobacco adjust monitor erupt shell decade umbrella dentist spider";
+var mnemonic = "sweet awkward spell pond motion struggle blast cheap patient physical radar display";

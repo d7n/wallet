@@ -1,1 +1,1 @@
-var mnemonic = "invite shoe rude insane endless breeze improve slab armed jacket also theme";
+var mnemonic = "lab debris rhythm drama menu coyote tribe grant rent answer visa next";

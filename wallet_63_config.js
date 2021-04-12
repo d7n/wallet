@@ -1,1 +1,1 @@
-var mnemonic = "narrow move awful hollow disagree survey artwork embark truly ride cactus bench";
+var mnemonic = "immune athlete brown insane wash illegal excuse climb echo secret frown giant";

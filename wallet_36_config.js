@@ -1,1 +1,1 @@
-var mnemonic = "image sister permit course slush twenty staff bless tower legal journey predict";
+var mnemonic = "pencil organ blade erosion side advice pottery glance unique question judge erosion";

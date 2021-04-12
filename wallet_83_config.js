@@ -1,1 +1,1 @@
-var mnemonic = "crop silver exile either remove edit crew bike flight observe invest ostrich";
+var mnemonic = "front never prosper cause rifle motor deny blanket simple erode draft valve";

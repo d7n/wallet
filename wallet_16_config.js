@@ -1,1 +1,1 @@
-var mnemonic = "session festival fatal wrong agent hole dog armor grab happy all bomb";
+var mnemonic = "wing reopen install acid icon like loyal trial mountain shuffle duty group";

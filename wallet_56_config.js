@@ -1,1 +1,1 @@
-var mnemonic = "route dove route elevator run zoo fiber moral capital ready pen hat";
+var mnemonic = "cost purpose toy mandate admit direct odor depend pilot giraffe diesel vivid";

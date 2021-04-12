@@ -1,1 +1,1 @@
-var mnemonic = "express elevator polar like mammal long slender seed taste truly gesture column";
+var mnemonic = "neglect upper gesture glory naive supply cycle doll include twenty ride mix";

@@ -1,1 +1,1 @@
-var mnemonic = "clog pelican hazard body blood people virtual swim online turkey normal barrel";
+var mnemonic = "absent pioneer above pony fantasy envelope rail cricket unit minor enjoy cinnamon";

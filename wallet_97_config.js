@@ -1,1 +1,1 @@
-var mnemonic = "define design during physical daring blur trick violin planet artefact select voice";
+var mnemonic = "tooth panel pioneer quote winter peanut estate gloom bulk refuse odor leader";

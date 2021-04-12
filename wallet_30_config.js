@@ -1,1 +1,1 @@
-var mnemonic = "level aspect differ enhance note impulse tongue wild wreck comfort enact city";
+var mnemonic = "impact brave casual know push alcohol job festival lyrics flavor start toilet";

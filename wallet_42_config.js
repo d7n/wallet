@@ -1,1 +1,1 @@
-var mnemonic = "fit today market marble brave gentle puzzle either orient rigid ten armed";
+var mnemonic = "ridge coin duck treat spirit despair maid emerge divert fruit rhythm build";

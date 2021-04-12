@@ -1,1 +1,1 @@
-var mnemonic = "index volcano embark age pretty valid tool siege oval able fine veteran";
+var mnemonic = "farm core aunt enroll piece bullet penalty flame piano genuine sick tent";

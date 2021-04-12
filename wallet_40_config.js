@@ -1,1 +1,1 @@
-var mnemonic = "elegant shaft team mutual pumpkin awesome speed lab scout cage insect coach";
+var mnemonic = "token people route girl theory special paddle latin shadow local burst double";

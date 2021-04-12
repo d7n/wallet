@@ -1,1 +1,1 @@
-var mnemonic = "vague shaft end laundry pudding ankle noble romance elite evil adult bronze";
+var mnemonic = "number bubble keep canal brown ostrich fresh flat cash doll shaft bread";

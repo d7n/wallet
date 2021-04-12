@@ -1,1 +1,1 @@
-var mnemonic = "embody horror inject orphan spoon laundry movie kiss oak vessel dog witness";
+var mnemonic = "collect they mouse rhythm loan student icon century quarter shoot strategy lesson";

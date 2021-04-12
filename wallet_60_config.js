@@ -1,1 +1,1 @@
-var mnemonic = "broken dash family rely elevator burger stove flock congress design office interest";
+var mnemonic = "galaxy original envelope adult gym marine fabric cube fan glimpse tool invest";

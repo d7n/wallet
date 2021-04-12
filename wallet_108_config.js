@@ -1,1 +1,1 @@
-var mnemonic = "prize void bind sun fury supreme net mean mixture record cute flock";
+var mnemonic = "emerge cement tail year document oblige special pyramid quality toe found all";

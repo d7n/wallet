@@ -1,1 +1,1 @@
-var mnemonic = "indicate pull later long useful unusual common supreme hover ride double rail";
+var mnemonic = "warrior foot van cream gain offer hungry argue sort enforce action pledge";

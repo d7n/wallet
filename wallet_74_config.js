@@ -1,1 +1,1 @@
-var mnemonic = "prefer marine unveil column obtain flush inherit gospel lion system hope bitter";
+var mnemonic = "ill satoshi tide sock dash future pudding seek genius hub fall moral";

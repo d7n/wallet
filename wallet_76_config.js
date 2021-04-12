@@ -1,1 +1,1 @@
-var mnemonic = "social mixture vintage kiss gown effort fix kite sadness patient pioneer engine";
+var mnemonic = "feel grid ridge attend kiwi brown tray genre venue during emotion aisle";

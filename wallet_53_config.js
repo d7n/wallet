@@ -1,1 +1,1 @@
-var mnemonic = "ripple whisper quarter you rookie push slice quiz concert reunion worth turtle";
+var mnemonic = "fold large image call amount enable theme control famous panel rotate banana";

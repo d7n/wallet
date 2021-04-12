@@ -1,1 +1,1 @@
-var mnemonic = "room voice phone sea tribe flame twist depth tool actor arena engage";
+var mnemonic = "report behind general sweet attend curtain rotate enemy please happy live pond";

@@ -1,1 +1,1 @@
-var mnemonic = "fan whisper reflect right battle ramp stage can icon mechanic energy family";
+var mnemonic = "lunch quote churn rebel scale lens soft borrow case month foster expand";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur nothing earth account access swamp dose earth myth muffin mechanic soap";
+var mnemonic = "utility prepare increase insane now cruel country dutch orphan clown design magic";

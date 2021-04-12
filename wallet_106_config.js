@@ -1,1 +1,1 @@
-var mnemonic = "grant happy stadium left inmate leave awesome solid scorpion parade return flower";
+var mnemonic = "smoke corn hollow session remember head dance identify wing sea dolphin matter";

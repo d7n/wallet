@@ -1,1 +1,1 @@
-var mnemonic = "essence canyon ecology police service fame jewel double outer virus potato door";
+var mnemonic = "middle lemon parade cherry sure bamboo right faint foil leopard glory exotic";

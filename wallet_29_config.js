@@ -1,1 +1,1 @@
-var mnemonic = "perfect bachelor animal egg plunge share muscle draft display fashion slide build";
+var mnemonic = "eternal primary idea ostrich camera select senior tissue topic verb cat devote";

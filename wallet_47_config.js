@@ -1,1 +1,1 @@
-var mnemonic = "loud toilet okay zero vehicle despair sunny isolate flight hair horn castle";
+var mnemonic = "reduce insect symbol gaze kit master deliver wild mask reopen follow cattle";

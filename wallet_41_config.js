@@ -1,1 +1,1 @@
-var mnemonic = "remind news office program drill man else gather jazz response lock worth";
+var mnemonic = "aisle rookie material slush blossom slim fetch annual egg task bike bulk";

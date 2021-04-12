@@ -1,1 +1,1 @@
-var mnemonic = "august alone return coral pull reunion board drip story ribbon hat pistol";
+var mnemonic = "suggest pelican phrase media chunk envelope anchor chef trend twelve wink jealous";

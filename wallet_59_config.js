@@ -1,1 +1,1 @@
-var mnemonic = "state survey draw midnight hole leave prosper digital bleak review butter ecology";
+var mnemonic = "midnight possible achieve wrist deal icon give faith lake tip inside review";

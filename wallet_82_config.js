@@ -1,1 +1,1 @@
-var mnemonic = "social glimpse pencil shadow better soft kitten document wreck better vendor defy";
+var mnemonic = "cube purse differ cross rare build shop garment dog actual donkey save";

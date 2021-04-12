@@ -1,1 +1,1 @@
-var mnemonic = "swallow special hedgehog monitor chapter caught clip cargo tomorrow rule divide holiday";
+var mnemonic = "truck student auto industry outside pen snap cruise put tribe minor easy";
