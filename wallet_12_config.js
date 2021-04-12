@@ -1,1 +1,1 @@
-var mnemonic = "cute icon furnace ripple wedding brave final simple common super east clap";
+var mnemonic = "switch recycle cage polar detail laugh phrase ski juice bike sadness lock";

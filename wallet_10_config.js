@@ -1,1 +1,1 @@
-var mnemonic = "income plate entire soda end oppose toast uncle name figure accident together";
+var mnemonic = "oven saddle radio prepare person roof blue viable time skirt harsh inspire";

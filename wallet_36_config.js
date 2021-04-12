@@ -1,1 +1,1 @@
-var mnemonic = "two call cherry require spend cannon before liberty deposit trap garbage human";
+var mnemonic = "funny must weapon armed sunset settle live twin fit idle jaguar answer";

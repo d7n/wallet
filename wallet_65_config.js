@@ -1,1 +1,1 @@
-var mnemonic = "vital order layer dry pet valley cloth nut razor power attract conduct";
+var mnemonic = "shadow entry interest upper express dumb liar front cushion census record winner";

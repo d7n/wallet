@@ -1,1 +1,1 @@
-var mnemonic = "stand chicken pioneer lava lunar census slush glory caught adapt outer milk";
+var mnemonic = "split latin agree play ice evidence seminar music manage plastic sort decide";

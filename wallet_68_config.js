@@ -1,1 +1,1 @@
-var mnemonic = "key token stuff wall scissors walk aerobic season toddler begin orient tomato";
+var mnemonic = "slight green hamster soul rural parade actress review grit left core car";

@@ -1,1 +1,1 @@
-var mnemonic = "bench employ amazing virtual alarm solid open jewel hire pill cherry sail";
+var mnemonic = "senior observe nominee champion portion humble obscure fetch gap fog myself ugly";

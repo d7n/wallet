@@ -1,1 +1,1 @@
-var mnemonic = "gauge amazing various giggle fancy snack vintage crater bronze empty tonight senior";
+var mnemonic = "identify surprise quarter noble rally lounge please foot brave comfort vast crop";

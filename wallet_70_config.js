@@ -1,1 +1,1 @@
-var mnemonic = "lens brother march mention joy need plate hobby vacant clock between jacket";
+var mnemonic = "cotton never creek nothing blush joke ensure canal room amazing search dry";

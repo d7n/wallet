@@ -1,1 +1,1 @@
-var mnemonic = "final attack tragic later field beyond build laugh place entire season shallow";
+var mnemonic = "cheese august annual exchange cattle odor cargo casino era achieve minor pudding";

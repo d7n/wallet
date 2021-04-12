@@ -1,1 +1,1 @@
-var mnemonic = "knife assault grid affair eager nest dust raise tree laugh awful cat";
+var mnemonic = "pool pigeon disease thumb bright athlete suit basket slogan any day melt";

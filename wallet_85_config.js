@@ -1,1 +1,1 @@
-var mnemonic = "shoot mistake behave treat exile crumble need bus uncle reduce that priority";
+var mnemonic = "fish mango train slice science today happy obtain license virus midnight monster";

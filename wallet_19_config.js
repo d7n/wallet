@@ -1,1 +1,1 @@
-var mnemonic = "fiber morning fat attitude clean clerk improve future curtain talk hard machine";
+var mnemonic = "deal firm daughter address around twist soldier fetch feel bridge prepare modify";

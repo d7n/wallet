@@ -1,1 +1,1 @@
-var mnemonic = "february siege uniform distance final lecture train track popular cattle myself multiply";
+var mnemonic = "pond satoshi day food hair soon lawsuit avocado curious liar rate damage";

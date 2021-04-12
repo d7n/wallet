@@ -1,1 +1,1 @@
-var mnemonic = "mother accident cradle more wealth cargo load credit legal bridge summer crazy";
+var mnemonic = "hood embody mesh gather arrow alpha midnight double cash muffin horn account";

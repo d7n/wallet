@@ -1,1 +1,1 @@
-var mnemonic = "marble quality multiply comic idle napkin century laptop anger involve situate chat";
+var mnemonic = "assist there breeze slot spike pill assault visa appear glass pumpkin body";

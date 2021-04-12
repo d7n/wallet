@@ -1,1 +1,1 @@
-var mnemonic = "hotel path clock burden metal couple fix pride armor tackle sure file";
+var mnemonic = "device people timber check element twin program differ hollow remain sport melt";

@@ -1,1 +1,1 @@
-var mnemonic = "toe order velvet plate hollow total adjust hen purity exist margin twenty";
+var mnemonic = "plastic surge parade sport boy van cube stick anchor neutral oppose iron";

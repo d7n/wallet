@@ -1,1 +1,1 @@
-var mnemonic = "regret proof boost account plug cactus range arm saddle draft supply image";
+var mnemonic = "kidney reopen melody veteran jewel jaguar fish case near predict hawk same";

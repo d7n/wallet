@@ -1,1 +1,1 @@
-var mnemonic = "diamond arm battle mean hat online resource wine curtain reveal lecture gravity";
+var mnemonic = "furnace human stem baby rely powder screen lift logic inspire vivid water";

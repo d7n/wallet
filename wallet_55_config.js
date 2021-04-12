@@ -1,1 +1,1 @@
-var mnemonic = "oval zoo math patch combine bird employ club anxiety raven book bid";
+var mnemonic = "glove hello memory huge tooth boring success foster grocery meat private wife";

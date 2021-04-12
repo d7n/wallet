@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cube birth math merit hurdle diesel frog cycle present project nose";
+var mnemonic = "brief mercy refuse diet century grass vast three purity labor sibling usual";

@@ -1,1 +1,1 @@
-var mnemonic = "device bless keep culture famous oven rice forum spin foster antenna evil";
+var mnemonic = "rack problem face cement upper mom damp feel legend clinic flower amateur";

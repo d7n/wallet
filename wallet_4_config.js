@@ -1,1 +1,1 @@
-var mnemonic = "window salmon patient figure across intact tunnel adjust soap earn bundle unhappy";
+var mnemonic = "peasant fox ecology erosion current valid enemy write permit install gaze nest";

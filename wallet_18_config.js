@@ -1,1 +1,1 @@
-var mnemonic = "enemy drop cross focus anger struggle affair kiss virtual sport jeans interest";
+var mnemonic = "pet away train casino keen sense outside wheel anxiety artefact trigger clarify";

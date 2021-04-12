@@ -1,1 +1,1 @@
-var mnemonic = "edge dish sight control airport old right shy legend expand urban file";
+var mnemonic = "desk helmet chimney endless man galaxy minimum rather current ginger escape nature";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak maze fly wet imitate category amount illness anxiety gesture melt clip";
+var mnemonic = "notable feature cargo fee blind giraffe page gold turn sketch you luggage";

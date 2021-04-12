@@ -1,1 +1,1 @@
-var mnemonic = "quick lumber pear all dog document beef uncle inflict ahead twice cram";
+var mnemonic = "tail plastic bird fitness smooth tree pitch agree sense jacket industry monkey";

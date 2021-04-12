@@ -1,1 +1,1 @@
-var mnemonic = "enact prevent turn sauce little glad lens grab enjoy canvas seed kid";
+var mnemonic = "power divert sand oppose federal spirit since other side cross logic beyond";

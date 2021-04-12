@@ -1,1 +1,1 @@
-var mnemonic = "chair buffalo enemy key session close balance begin stable two video reject";
+var mnemonic = "matrix quality retire green plunge taxi state humor iron wish leisure spare";

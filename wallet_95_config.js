@@ -1,1 +1,1 @@
-var mnemonic = "mask across cost hybrid vacuum universe provide extend muffin toddler hurdle retire";
+var mnemonic = "sadness fetch robust mansion ivory exist echo paper lizard ankle beauty couch";

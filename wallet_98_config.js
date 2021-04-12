@@ -1,1 +1,1 @@
-var mnemonic = "spike portion cigar torch polar mansion orange fame love utility unique lamp";
+var mnemonic = "announce smart era notice hen melody grace connect tower clinic share kid";

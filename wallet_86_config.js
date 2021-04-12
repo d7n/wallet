@@ -1,1 +1,1 @@
-var mnemonic = "pulse seat lumber bridge wisdom document joy job result quiz creek join";
+var mnemonic = "tomato drama screen develop please pill glad nasty patrol embody town hire";

@@ -1,1 +1,1 @@
-var mnemonic = "dove slice stage then cash ostrich report code disagree license enrich gas";
+var mnemonic = "oval curve cash sand little never salt thunder brother miracle version camera";

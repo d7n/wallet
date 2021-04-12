@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog credit crumble ability game liquid soap eye cream spider talk morning";
+var mnemonic = "car bitter hire neither time various kite duty clutch exchange govern flat";

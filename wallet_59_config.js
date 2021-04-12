@@ -1,1 +1,1 @@
-var mnemonic = "artwork hire venture sting bulb shuffle joke onion when burger happy price";
+var mnemonic = "quantum acoustic casual mystery squirrel despair quarter trip true today siege under";

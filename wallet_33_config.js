@@ -1,1 +1,1 @@
-var mnemonic = "hundred design visit pigeon agent rebuild hollow wash sunset method clap north";
+var mnemonic = "until powder weekend defy hand tomorrow solid expand winter air phrase base";

@@ -1,1 +1,1 @@
-var mnemonic = "blood gain crime fantasy supreme stuff attitude region cargo because benefit rule";
+var mnemonic = "holiday diary save tell table obscure kidney dove hover faint spring devote";

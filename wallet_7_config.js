@@ -1,1 +1,1 @@
-var mnemonic = "blush clinic brisk sort merit magnet fragile coyote spike enough banner flavor";
+var mnemonic = "habit lizard spend degree achieve buzz solid thrive cat mechanic please juice";

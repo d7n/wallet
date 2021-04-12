@@ -1,1 +1,1 @@
-var mnemonic = "clock thank sniff critic badge news rubber resemble pair ladder hold today";
+var mnemonic = "issue magic drink version fit power pioneer slam foster resemble shine private";

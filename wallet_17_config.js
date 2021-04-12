@@ -1,1 +1,1 @@
-var mnemonic = "maid cable choose catalog airport boil easy element business arena again canal";
+var mnemonic = "fun soft marble wrap decorate owner brown erase spot claw report fruit";

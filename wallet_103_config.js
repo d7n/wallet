@@ -1,1 +1,1 @@
-var mnemonic = "idle blame say tell drum ceiling reveal mind hair board invite fine";
+var mnemonic = "ship off coin slush tower castle icon female shift clap aim once";

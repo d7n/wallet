@@ -1,1 +1,1 @@
-var mnemonic = "slice crush level adapt deliver thunder before menu total foot bind tide";
+var mnemonic = "solid uncover shoulder genre tenant shrug tone cement clerk river labor process";

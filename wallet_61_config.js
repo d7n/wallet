@@ -1,1 +1,1 @@
-var mnemonic = "that position clinic since apology purpose satoshi globe penalty spray lucky foot";
+var mnemonic = "aware crew avocado crunch breeze door door word ladder dad ill crack";

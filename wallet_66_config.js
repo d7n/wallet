@@ -1,1 +1,1 @@
-var mnemonic = "sleep caution glare vehicle final renew trust above inherit notice must aware";
+var mnemonic = "market front wrong owner hard this sort slim midnight debris cry asset";

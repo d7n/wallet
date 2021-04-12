@@ -1,1 +1,1 @@
-var mnemonic = "valley denial behave make gloom tonight hint rose steak super shadow birth";
+var mnemonic = "wish middle wage crowd tower whale wrestle intact cigar job top under";

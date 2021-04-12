@@ -1,1 +1,1 @@
-var mnemonic = "play fashion doll work mail humor mind arrow cute resist staff debate";
+var mnemonic = "chief degree novel favorite hedgehog subway wolf shield certain hub valve click";

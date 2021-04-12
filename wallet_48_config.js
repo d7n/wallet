@@ -1,1 +1,1 @@
-var mnemonic = "flower magic cook axis result kiss cliff bridge resist canyon flash crystal";
+var mnemonic = "extend couple swing law silk dry team fabric time wolf game divert";

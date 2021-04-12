@@ -1,1 +1,1 @@
-var mnemonic = "firm harbor wall pulp saddle enact antique salute cruel cluster picture earn";
+var mnemonic = "little shine room image globe only congress you liar cycle flip wait";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity abstract photo pause season wide turtle credit essence enroll rain craft";
+var mnemonic = "tilt lecture jungle fade grocery cherry analyst hope clip pelican balance casino";

@@ -1,1 +1,1 @@
-var mnemonic = "sun purse short shift kidney october runway mixture wine total gallery fault";
+var mnemonic = "exchange click certain firm similar coast boring miracle bird voice grit assume";

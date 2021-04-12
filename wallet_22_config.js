@@ -1,1 +1,1 @@
-var mnemonic = "frequent try spot inmate season hungry eyebrow october tomorrow fire gain assault";
+var mnemonic = "inmate seed midnight provide nominee axis divorce fashion chef aisle foot pluck";

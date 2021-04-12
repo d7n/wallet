@@ -1,1 +1,1 @@
-var mnemonic = "search wife attitude moment pet loud panda evil faith survey antique orange";
+var mnemonic = "naive upper spy crane rebel pond tower jaguar jelly artefact merry athlete";

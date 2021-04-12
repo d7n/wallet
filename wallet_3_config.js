@@ -1,1 +1,1 @@
-var mnemonic = "foster warfare warrior dumb clip blind glow flee defense blood session section";
+var mnemonic = "scout small clarify creek dinosaur flush pave aerobic grace lonely aerobic light";

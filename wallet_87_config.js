@@ -1,1 +1,1 @@
-var mnemonic = "idea eight protect crucial prosper motor nasty relax dinner similar thing vague";
+var mnemonic = "wise march cherry second soccer hybrid jazz write girl volume fold cube";

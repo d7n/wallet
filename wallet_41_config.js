@@ -1,1 +1,1 @@
-var mnemonic = "march mutual loop invite behind elder object reunion myth attract bomb short";
+var mnemonic = "spider warrior resemble world motor slow crisp enrich assume slush invest obtain";

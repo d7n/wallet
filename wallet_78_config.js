@@ -1,1 +1,1 @@
-var mnemonic = "school baby involve abuse menu bitter dog voyage hello answer pilot screen";
+var mnemonic = "mix dad sadness indoor burst damp name tiger manage way rocket enrich";

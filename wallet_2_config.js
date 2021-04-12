@@ -1,1 +1,1 @@
-var mnemonic = "ancient cancel fall globe task gauge behind stamp train patrol rib metal";
+var mnemonic = "gesture axis snake host equal tray story plastic salmon normal burger shop";

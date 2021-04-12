@@ -1,1 +1,1 @@
-var mnemonic = "walnut few bring bike client disagree cross jewel final broccoli bridge legend";
+var mnemonic = "glad exotic mesh mosquito recipe clarify dilemma enforce arctic debris luxury torch";

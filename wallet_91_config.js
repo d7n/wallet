@@ -1,1 +1,1 @@
-var mnemonic = "trap rent jelly around language illegal inform column sweet camera jacket lizard";
+var mnemonic = "prize one track borrow below fortune proud moon output city bottom between";

@@ -1,1 +1,1 @@
-var mnemonic = "link wire dutch kick best candy crew famous toward clump myth document";
+var mnemonic = "ancient disease gloom shiver share emerge minute problem second dilemma picnic churn";

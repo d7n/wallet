@@ -1,1 +1,1 @@
-var mnemonic = "host attend shallow garbage spy welcome wrap original ability legend knife fatal";
+var mnemonic = "voyage style opinion love glance market mixture carpet knife control record tower";

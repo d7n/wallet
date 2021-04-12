@@ -1,1 +1,1 @@
-var mnemonic = "system umbrella advance sell twelve recipe tilt business rain blame ceiling coach";
+var mnemonic = "stand display track neither portion carry wagon favorite resist crash angry slab";

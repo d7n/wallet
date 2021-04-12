@@ -1,1 +1,1 @@
-var mnemonic = "legend sad airport purse demand invite under bench sense trade result choose";
+var mnemonic = "orient saddle airport mosquito vague long energy rural endless multiply comfort good";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble marble inherit pull scissors rally all vehicle office tree pluck legal";
+var mnemonic = "behind indoor town right tooth behave town vehicle seat fence shove plunge";

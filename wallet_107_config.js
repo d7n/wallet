@@ -1,1 +1,1 @@
-var mnemonic = "live flock olympic century outdoor slide stamp cube radio title theory garlic";
+var mnemonic = "illness anxiety silent control spin basic bulb fashion hurdle march egg describe";

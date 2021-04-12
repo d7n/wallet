@@ -1,1 +1,1 @@
-var mnemonic = "theory lounge chief slow idle blame thumb change sugar ignore boss mystery";
+var mnemonic = "high spin vague message vivid minute club idle system gasp vanish unknown";

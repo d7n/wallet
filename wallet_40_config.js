@@ -1,1 +1,1 @@
-var mnemonic = "sample fence when liar august health govern canyon inhale police surface screen";
+var mnemonic = "page suit invite run naive supply destroy glimpse estate urban filter cash";

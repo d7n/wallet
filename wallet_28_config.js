@@ -1,1 +1,1 @@
-var mnemonic = "merge cluster noise vast discover unfair ignore giggle state carpet ski spy";
+var mnemonic = "auto fluid ivory second that brief side loan rival chief index curve";

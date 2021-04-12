@@ -1,1 +1,1 @@
-var mnemonic = "glad upset trash income dilemma coil ten cactus brown main chief limit";
+var mnemonic = "smile stand miss unhappy edge wish couch axis hen ghost hospital orange";

@@ -1,1 +1,1 @@
-var mnemonic = "such scrub void toilet viable solar impact furnace early mushroom dinosaur million";
+var mnemonic = "room length jaguar nature clutch fossil utility nature table glory carbon gadget";

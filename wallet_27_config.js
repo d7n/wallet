@@ -1,1 +1,1 @@
-var mnemonic = "bundle april grain into journey month mom forward dumb almost census capable";
+var mnemonic = "priority donor arrive sketch hill paper flee kitten thrive ability fat pause";

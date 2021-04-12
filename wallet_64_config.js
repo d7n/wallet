@@ -1,1 +1,1 @@
-var mnemonic = "heavy wrong banana jaguar brand gallery oblige peasant better cream cloth write";
+var mnemonic = "second animal task best change bid pact result fuel inner hub deer";

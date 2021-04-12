@@ -1,1 +1,1 @@
-var mnemonic = "foster proud walk denial broken era april peasant winter uncle idle refuse";
+var mnemonic = "hybrid enlist sport attend decline celery pepper index issue device awful marine";

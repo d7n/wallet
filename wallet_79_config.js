@@ -1,1 +1,1 @@
-var mnemonic = "polar bracket flat limit voyage canoe radio net army yellow vacuum devote";
+var mnemonic = "police high hand tent web blur this okay review agree ball quarter";

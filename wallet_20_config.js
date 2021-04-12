@@ -1,1 +1,1 @@
-var mnemonic = "slim gauge frozen laundry draw ramp forget refuse old drive cash still";
+var mnemonic = "toddler true hollow wealth address visit version fade garlic universe globe age";

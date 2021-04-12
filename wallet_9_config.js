@@ -1,1 +1,1 @@
-var mnemonic = "million crush yellow present celery angry angle bracket perfect maple super depth";
+var mnemonic = "welcome garden earth tiger skill novel orchard differ table twice speak captain";

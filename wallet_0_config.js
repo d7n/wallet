@@ -1,1 +1,1 @@
-var mnemonic = "sausage mention case rule noise way cloth lawsuit trip wing ankle dog";
+var mnemonic = "believe envelope valley behave comic spider girl allow elbow alcohol enter announce";

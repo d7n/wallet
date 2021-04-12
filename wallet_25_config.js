@@ -1,1 +1,1 @@
-var mnemonic = "gesture box crash legend best car dog chapter head bring story smoke";
+var mnemonic = "viable include omit ceiling have enter wave artwork valley pretty evidence airport";

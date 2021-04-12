@@ -1,1 +1,1 @@
-var mnemonic = "mimic tag belt green ticket broccoli sing grain dragon spot holiday sketch";
+var mnemonic = "quantum denial night fatigue dice provide bargain devote fiscal tail appear leg";

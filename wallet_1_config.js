@@ -1,1 +1,1 @@
-var mnemonic = "erosion kangaroo slender process april off hope local poverty couch depth cabbage";
+var mnemonic = "print shift clock debris nature boat scout slender multiply bottom evolve dinosaur";

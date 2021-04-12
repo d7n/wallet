@@ -1,1 +1,1 @@
-var mnemonic = "marble section among sport swing toy chunk garbage keep soap cross upgrade";
+var mnemonic = "wish change hero door twice parent hip screen chronic wood emotion practice";

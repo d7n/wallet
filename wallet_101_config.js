@@ -1,1 +1,1 @@
-var mnemonic = "never radar fence evil debate wait switch segment dumb share little net";
+var mnemonic = "argue alley agent resist now keen moral actual drill example key novel";

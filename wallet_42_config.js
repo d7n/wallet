@@ -1,1 +1,1 @@
-var mnemonic = "excite write surge beach oak replace act duty labor rich identify deputy";
+var mnemonic = "large state leaf science where orphan salad brick wasp sing eight point";

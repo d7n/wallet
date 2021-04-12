@@ -1,1 +1,1 @@
-var mnemonic = "dismiss swear brief pave crowd spatial few income body sing accident during";
+var mnemonic = "tortoise gravity beef ribbon vapor only smile student cheap oak daring crop";

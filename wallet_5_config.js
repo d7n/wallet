@@ -1,1 +1,1 @@
-var mnemonic = "barrel believe scorpion gown print dose club fine bachelor atom cart rebel";
+var mnemonic = "purity six guilt cushion client vocal outside burst video improve price toast";

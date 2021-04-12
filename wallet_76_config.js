@@ -1,1 +1,1 @@
-var mnemonic = "state document laptop bind sun begin perfect escape fetch angle upper sibling";
+var mnemonic = "use upgrade torch boring shop kangaroo gain problem absorb giant essence cheap";

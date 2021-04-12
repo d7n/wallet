@@ -1,1 +1,1 @@
-var mnemonic = "flee ghost flower image hero try fuel across oval stamp confirm case";
+var mnemonic = "agent cupboard hour front divide sure black steel embody list father marble";

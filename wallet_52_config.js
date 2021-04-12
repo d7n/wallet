@@ -1,1 +1,1 @@
-var mnemonic = "message window noodle imitate bonus inside salon rifle shadow bleak doll math";
+var mnemonic = "toss parade limb dilemma either process valley steak spread horse during pattern";

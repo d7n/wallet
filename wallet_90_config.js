@@ -1,1 +1,1 @@
-var mnemonic = "begin notable disagree stereo license dizzy capital pioneer custom yellow diagram antenna";
+var mnemonic = "ahead oil bonus grocery height false fence pistol lonely dance oval imitate";

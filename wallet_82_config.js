@@ -1,1 +1,1 @@
-var mnemonic = "prosper iron sustain quality length pitch sauce lend bench pigeon west coral";
+var mnemonic = "crop horse attack faculty bundle advance fever either carry save option slam";

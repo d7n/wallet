@@ -1,1 +1,1 @@
-var mnemonic = "discover cream nation affair garbage asset oval traffic awkward sad season render";
+var mnemonic = "cradle hidden rose express tape speak world guitar present change connect hybrid";
