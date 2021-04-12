@@ -1,1 +1,1 @@
-var mnemonic = "bicycle library they install novel team uphold arrange awkward front ski note";
+var mnemonic = "myself isolate can topple rotate distance chapter capital welcome rebel innocent nominee";

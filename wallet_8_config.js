@@ -1,1 +1,1 @@
-var mnemonic = "comic steak priority spell walk change box carry future cluster together waste";
+var mnemonic = "buffalo lawn mention border modify engine garbage album level erupt garlic pretty";

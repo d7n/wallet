@@ -1,1 +1,1 @@
-var mnemonic = "dream lesson settle moral bulk certain end undo easy echo rely lawn";
+var mnemonic = "arrange champion swear fuel meadow olive catch victory core object crumble mesh";

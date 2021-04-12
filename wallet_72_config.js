@@ -1,1 +1,1 @@
-var mnemonic = "sample mechanic velvet cost mouse then rural mercy symptom write fantasy there";
+var mnemonic = "salute bomb melody famous beyond flock rebel inflict useless paddle exhaust such";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold since auction loyal heart pave toe water impact gallery pulse amazing";
+var mnemonic = "essence impose keen endless where grape galaxy diary kick entry cream slogan";

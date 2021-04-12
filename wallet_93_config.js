@@ -1,1 +1,1 @@
-var mnemonic = "syrup have genius much husband toe cousin kitten roast enlist picture defy";
+var mnemonic = "promote talent daughter banana grace story town project fade observe sample gossip";

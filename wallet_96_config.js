@@ -1,1 +1,1 @@
-var mnemonic = "fun lunar decrease chimney eternal view bring timber you hip afford valve";
+var mnemonic = "easily high abstract screen direct frog legend option crazy claw inquiry deposit";

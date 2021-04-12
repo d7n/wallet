@@ -1,1 +1,1 @@
-var mnemonic = "forest treat trophy cake twist ski float notice retreat valid wealth ankle";
+var mnemonic = "bike cable nest guard supply tilt illness shove between tonight olive ability";

@@ -1,1 +1,1 @@
-var mnemonic = "main warrior typical scrub devote dune basket slide trend mistake twenty begin";
+var mnemonic = "convince exclude carbon divorce valve case shoe bus sing mad approve soon";

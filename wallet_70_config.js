@@ -1,1 +1,1 @@
-var mnemonic = "sugar nephew idea there document flower fit frame alarm circle valid valley";
+var mnemonic = "turn own nurse bracket lemon length gorilla grass route distance mushroom mimic";

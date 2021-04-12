@@ -1,1 +1,1 @@
-var mnemonic = "truly category mask fringe often flower disorder impact arrest reward humble tent";
+var mnemonic = "riot innocent kiwi priority elite series access broom invest denial abstract sea";

@@ -1,1 +1,1 @@
-var mnemonic = "ship stick rigid space drink sauce oven total spare swamp erosion error";
+var mnemonic = "atom basic enact window scale traffic letter venue brief extra material elite";

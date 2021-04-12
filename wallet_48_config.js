@@ -1,1 +1,1 @@
-var mnemonic = "peasant lizard almost luggage know swamp worth latin trap shallow fade sight";
+var mnemonic = "unit damage flip elevator churn observe lyrics wrong immense marine group join";

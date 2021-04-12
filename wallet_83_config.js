@@ -1,1 +1,1 @@
-var mnemonic = "shuffle fish vote dust basic bachelor vast spot tomorrow scare electric army";
+var mnemonic = "act much before orbit render tenant engage shuffle step extend diet toddler";

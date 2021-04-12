@@ -1,1 +1,1 @@
-var mnemonic = "tennis analyst film bless protect wire room car liquid damp portion defy";
+var mnemonic = "special pipe pull street alien robot runway onion burst bracket method bulk";

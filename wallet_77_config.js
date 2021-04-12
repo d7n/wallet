@@ -1,1 +1,1 @@
-var mnemonic = "salute push estate false universe arctic canvas endless diamond skate eagle portion";
+var mnemonic = "thought hat jealous pet forward ride seminar list brisk sudden cream ski";

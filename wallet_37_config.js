@@ -1,1 +1,1 @@
-var mnemonic = "roof tube punch sustain deputy vehicle grape deal shaft grit dish toss";
+var mnemonic = "axis lobster average seed demand test east scare slot brown vote foam";

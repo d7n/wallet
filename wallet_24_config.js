@@ -1,1 +1,1 @@
-var mnemonic = "segment liberty symptom wrestle weasel hotel donor plate brown marriage noise lottery";
+var mnemonic = "wreck hollow carry deal gym plug gravity club goose dilemma sorry machine";

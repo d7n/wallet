@@ -1,1 +1,1 @@
-var mnemonic = "scissors train tobacco orient attend lab setup eagle mixture toy venue once";
+var mnemonic = "arrange angle drift intact force strike whip stable gasp unveil stage network";

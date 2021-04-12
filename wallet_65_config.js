@@ -1,1 +1,1 @@
-var mnemonic = "virtual amused hole miss submit upgrade erase panic slide detect still country";
+var mnemonic = "brain south grocery document peasant corn device shaft kidney matter awake coyote";

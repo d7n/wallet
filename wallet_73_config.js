@@ -1,1 +1,1 @@
-var mnemonic = "chase immune balance crouch olive purpose airport ranch cricket similar divorce awkward";
+var mnemonic = "supreme apart then pink lawsuit ancient demand uncover essay plate matrix father";

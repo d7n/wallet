@@ -1,1 +1,1 @@
-var mnemonic = "cheap possible trash permit give illegal any price club sea student quit";
+var mnemonic = "page pipe picnic machine search tomorrow blouse pattern birth sun kitten heavy";

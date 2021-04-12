@@ -1,1 +1,1 @@
-var mnemonic = "lake print maple what rotate shallow middle noise home fork nephew peanut";
+var mnemonic = "oven ring unlock outdoor enhance film ranch eight tired ignore provide morning";

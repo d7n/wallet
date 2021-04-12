@@ -1,1 +1,1 @@
-var mnemonic = "mountain marine omit cupboard flat bargain problem nothing gap current buzz offer";
+var mnemonic = "pottery trim inspire cinnamon bar design sun supply sustain blanket deny vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "area humor appear congress focus quantum rain tortoise maid office off muffin";
+var mnemonic = "live crawl avocado success rescue guess safe decline uphold run little arrow";

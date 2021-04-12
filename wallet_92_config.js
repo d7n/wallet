@@ -1,1 +1,1 @@
-var mnemonic = "much chaos fortune diary betray cake metal outdoor soldier toe evolve dirt";
+var mnemonic = "guilt custom kit october joy month also grocery tray indicate hidden wave";

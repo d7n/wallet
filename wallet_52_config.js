@@ -1,1 +1,1 @@
-var mnemonic = "tower renew income suggest damage congress produce mansion episode engage hybrid violin";
+var mnemonic = "morning trial stay episode torch render sick quarter online right clerk olive";

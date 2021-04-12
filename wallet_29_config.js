@@ -1,1 +1,1 @@
-var mnemonic = "message jump purpose income rose orange pretty scan twist gentle film crucial";
+var mnemonic = "physical inside trophy speed rebel battle success stool weird sign issue sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey oxygen twin cabin title cage explain various acoustic core modify glow";
+var mnemonic = "clump concert mind sketch voice edit heart top alert honey doll circle";

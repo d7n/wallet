@@ -1,1 +1,1 @@
-var mnemonic = "door post print flavor verb confirm lend erode cement thumb rate consider";
+var mnemonic = "fresh special salute width track desert ship knee sustain whisper shrug lunch";

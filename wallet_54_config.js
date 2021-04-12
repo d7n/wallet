@@ -1,1 +1,1 @@
-var mnemonic = "exact result series provide fade usage mistake manual tumble exit pilot mercy";
+var mnemonic = "sport climb half battle double fire crater seed outer million beauty engine";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling before divide noble balcony organ engine nose entry online hazard street";
+var mnemonic = "scissors item nuclear urge cotton long coral tunnel congress awesome frown remind";

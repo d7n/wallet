@@ -1,1 +1,1 @@
-var mnemonic = "remove feel apart dog fade occur explain dish kangaroo leaf dinner genius";
+var mnemonic = "napkin absorb false slogan exercise situate city error husband draft inspire surround";

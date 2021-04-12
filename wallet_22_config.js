@@ -1,1 +1,1 @@
-var mnemonic = "aunt border lamp destroy wrestle path arctic scorpion brand tail then case";
+var mnemonic = "eagle pear erosion throw clutch loop ugly ostrich wool shield nut pull";

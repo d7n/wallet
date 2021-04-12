@@ -1,1 +1,1 @@
-var mnemonic = "stock enact axis real case route script speed mother orient setup evidence";
+var mnemonic = "fitness either parent rice inherit october ski table post brave wolf oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol famous depend disorder hospital drama rally benefit breeze between cheap problem";
+var mnemonic = "long pipe fringe two car garment arrest million illegal chicken outside caught";

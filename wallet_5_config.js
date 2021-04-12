@@ -1,1 +1,1 @@
-var mnemonic = "hockey solid toddler under spoil vocal island question wrestle idle width grid";
+var mnemonic = "april rich patient another laundry quote hair tragic slam minimum increase mobile";

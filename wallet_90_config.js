@@ -1,1 +1,1 @@
-var mnemonic = "train tired comic island man admit guard final annual humor scare decade";
+var mnemonic = "hero intact vacuum decrease recall empower ice weird swallow panel east stable";

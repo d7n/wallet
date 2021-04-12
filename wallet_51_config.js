@@ -1,1 +1,1 @@
-var mnemonic = "goat require figure budget portion stomach cigar stone kiwi make bean sheriff";
+var mnemonic = "slight liar plunge tooth poem mosquito method caught body road action lemon";

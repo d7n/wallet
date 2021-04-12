@@ -1,1 +1,1 @@
-var mnemonic = "capital chicken thought thing bus wash sponsor margin pride begin kite smooth";
+var mnemonic = "oak admit guilt lounge century wrap engine view mistake flag soul actor";

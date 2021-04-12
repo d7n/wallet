@@ -1,1 +1,1 @@
-var mnemonic = "adapt expand camera maze churn clown civil hurt wet front you weapon";
+var mnemonic = "twenty stamp edit chalk wolf mesh spirit mobile cool assist lawsuit axis";

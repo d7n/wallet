@@ -1,1 +1,1 @@
-var mnemonic = "test age flee flat size between raise dignity verb feature opinion width";
+var mnemonic = "cause approve lumber panel toilet steel clock heart abstract bundle unusual major";

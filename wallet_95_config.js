@@ -1,1 +1,1 @@
-var mnemonic = "voice donor tip subject dirt glad connect magnet outside casual double moon";
+var mnemonic = "oppose point vivid voice burst ethics cheese add cram wheat curve giraffe";

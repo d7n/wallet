@@ -1,1 +1,1 @@
-var mnemonic = "term rely tongue stem glimpse sign rebuild attack advice gadget peasant giggle";
+var mnemonic = "squeeze find language aware festival distance skirt walnut clutch auto cereal song";

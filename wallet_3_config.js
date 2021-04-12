@@ -1,1 +1,1 @@
-var mnemonic = "brain glove swear accident coffee rabbit dinosaur fortune teach great magnet tornado";
+var mnemonic = "setup perfect imitate virtual key insect resist address poverty charge same swear";

@@ -1,1 +1,1 @@
-var mnemonic = "choose bread fee curve actress long tattoo below rescue swamp ramp youth";
+var mnemonic = "runway genuine note neglect diesel output bike because diagram cinnamon crowd kick";

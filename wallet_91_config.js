@@ -1,1 +1,1 @@
-var mnemonic = "office lunar error arctic library blade maze struggle green friend off patient";
+var mnemonic = "cliff very usage cousin pitch receive scissors garden top number runway travel";

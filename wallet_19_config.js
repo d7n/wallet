@@ -1,1 +1,1 @@
-var mnemonic = "exist comic notable hint paper want dash lamp weapon tomato coast time";
+var mnemonic = "plate still educate swarm easy tornado despair always penalty joy unique argue";

@@ -1,1 +1,1 @@
-var mnemonic = "ask media explain blade access vast card hidden include balance recall eye";
+var mnemonic = "erase woman behind tribe poverty treat merge hero audit what grape judge";

@@ -1,1 +1,1 @@
-var mnemonic = "entire equip essence item enhance social buyer merge derive puzzle wrestle defy";
+var mnemonic = "thought voyage denial oak govern wheat garage blast vivid door sand remind";

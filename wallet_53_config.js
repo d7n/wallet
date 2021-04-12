@@ -1,1 +1,1 @@
-var mnemonic = "broccoli salt cash drip fault tube catalog apology apology useless cycle logic";
+var mnemonic = "predict chief rifle like issue topic predict trap era neither shrimp small";

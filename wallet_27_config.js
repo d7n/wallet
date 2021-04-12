@@ -1,1 +1,1 @@
-var mnemonic = "response picture trim allow side bargain culture success witness topic joke clean";
+var mnemonic = "pupil strong talk silent luxury narrow repair vessel olympic spoon endorse lunch";

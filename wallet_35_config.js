@@ -1,1 +1,1 @@
-var mnemonic = "shoot observe mom erupt settle pole scare antique brain capable tuition size";
+var mnemonic = "design delay then win power design alien cake sphere jeans slide man";

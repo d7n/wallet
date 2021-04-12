@@ -1,1 +1,1 @@
-var mnemonic = "seat current envelope rough pact pilot logic oyster museum seven solution vault";
+var mnemonic = "maximum virus imitate space myth family subway oxygen reason field coral subject";

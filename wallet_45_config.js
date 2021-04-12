@@ -1,1 +1,1 @@
-var mnemonic = "nephew marble young actual betray judge pair daughter wagon culture float alert";
+var mnemonic = "neutral zero retire betray hip winter empty quote enroll kick worth party";

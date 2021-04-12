@@ -1,1 +1,1 @@
-var mnemonic = "text soup demise scrub parrot scrub inspire mixture trade reward improve spy";
+var mnemonic = "style salad dance accident cactus fringe twice ketchup until clarify zebra canvas";

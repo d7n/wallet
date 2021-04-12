@@ -1,1 +1,1 @@
-var mnemonic = "attend sport route broken morning borrow warm alpha purpose chest home hedgehog";
+var mnemonic = "economy boat segment identify clip differ digital mask excite sustain short urban";

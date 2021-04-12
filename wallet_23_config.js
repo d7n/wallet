@@ -1,1 +1,1 @@
-var mnemonic = "smooth mad street success acquire mom kangaroo enact brave detail tomorrow machine";
+var mnemonic = "choice depart zero aerobic below caution cruel during only mechanic lawsuit hard";

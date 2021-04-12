@@ -1,1 +1,1 @@
-var mnemonic = "injury display breeze squeeze decrease steel husband clump sense siren maze spy";
+var mnemonic = "pyramid annual theme peace caution cute company belt portion discover search axis";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard table resemble minute raven fresh property moon video rule detect sort";
+var mnemonic = "abstract balance mystery permit tenant black figure swim flame margin merry urge";

@@ -1,1 +1,1 @@
-var mnemonic = "leg suffer arena question best slender person clutch empty bulb include blind";
+var mnemonic = "youth glue lend nuclear better smoke giraffe chuckle return vapor orchard reform";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue canvas cluster two wet orbit celery honey poverty hamster brother small";
+var mnemonic = "stereo foot game board seed giraffe vapor bulb silent bus frown believe";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty burden sweet snake winter swarm pilot page tortoise frequent brief satisfy";
+var mnemonic = "viable combine wing pony thing render logic more gossip flee shell memory";

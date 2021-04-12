@@ -1,1 +1,1 @@
-var mnemonic = "fossil heart absorb sea dizzy erosion fresh token dismiss sister chaos surface";
+var mnemonic = "man cage give magnet rich feed fresh hawk loop youth project twelve";

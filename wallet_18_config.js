@@ -1,1 +1,1 @@
-var mnemonic = "owner affair weather again trust dice brush witness mule clump maze heavy";
+var mnemonic = "rude fat acquire sick either injury evolve vintage replace own knife oyster";

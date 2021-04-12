@@ -1,1 +1,1 @@
-var mnemonic = "coast girl mix obey tooth section dirt topic gate payment bean dolphin";
+var mnemonic = "fox mail foam jar minute fire stem symbol sausage hill hedgehog desert";

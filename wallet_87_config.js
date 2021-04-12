@@ -1,1 +1,1 @@
-var mnemonic = "state question right auction never situate above riot lobster clean motor uncover";
+var mnemonic = "domain crumble predict idle rate wagon actress cluster tired check language tiny";

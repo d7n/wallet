@@ -1,1 +1,1 @@
-var mnemonic = "demise nuclear spread hope uncover language win envelope skull nature pill song";
+var mnemonic = "belt awake valley raise forum cousin since crowd change galaxy vague extend";

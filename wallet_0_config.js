@@ -1,1 +1,1 @@
-var mnemonic = "busy pulse cabin arm attack there before replace ready rule vendor double";
+var mnemonic = "grid animal bunker frequent sort choose volume hand leisure behave dilemma slice";

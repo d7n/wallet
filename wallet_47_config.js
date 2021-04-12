@@ -1,1 +1,1 @@
-var mnemonic = "sand globe sea canal force spread camera gorilla warfare museum bleak joke";
+var mnemonic = "step myth purse palm course degree mimic behind note film vintage lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "cat panda earth later place stomach toward drink sustain gown hero license";
+var mnemonic = "allow alarm review fan cigar garment treat soup believe common turn page";

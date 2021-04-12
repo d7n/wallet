@@ -1,1 +1,1 @@
-var mnemonic = "pave label once must random buzz zone kiss dance act emotion wild";
+var mnemonic = "visit pave reunion major rain wait smart wine install mobile theme weather";

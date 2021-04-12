@@ -1,1 +1,1 @@
-var mnemonic = "night decrease frog mansion castle weather blood april also tumble siren multiply";
+var mnemonic = "sign carpet toss twenty library start margin tip barrel token federal actual";

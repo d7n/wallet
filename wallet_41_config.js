@@ -1,1 +1,1 @@
-var mnemonic = "pilot oval priority obtain brown jelly enough castle december hunt clinic anger";
+var mnemonic = "gloom piece bench kitten spirit endorse junior parrot left sting bag furnace";

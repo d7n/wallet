@@ -1,1 +1,1 @@
-var mnemonic = "travel curtain owner neck punch creek enforce above save front decade fantasy";
+var mnemonic = "tilt avocado rescue worry solve expose vehicle vacant chase gown ranch child";

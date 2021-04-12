@@ -1,1 +1,1 @@
-var mnemonic = "exclude flash luxury truck garage wife cram guitar model foam royal aspect";
+var mnemonic = "collect ship silk obscure erupt real legal fatal survey globe issue try";

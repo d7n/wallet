@@ -1,1 +1,1 @@
-var mnemonic = "embrace stadium wedding speak again type wisdom shed quick search idea slim";
+var mnemonic = "keep polar love decide brown concert flight furnace measure fatal aspect rib";

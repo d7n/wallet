@@ -1,1 +1,1 @@
-var mnemonic = "actual sweet output wear green usage waste great usage question anxiety raven";
+var mnemonic = "digital salute toddler act enact escape injury blame voice mother dizzy end";

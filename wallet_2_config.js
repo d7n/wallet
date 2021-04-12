@@ -1,1 +1,1 @@
-var mnemonic = "orient crowd kit rather exit field accuse use pepper ride gown there";
+var mnemonic = "asset system walnut velvet fault fabric august thumb nose region flower cruel";

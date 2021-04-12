@@ -1,1 +1,1 @@
-var mnemonic = "mouse march engine hip make purse flee lamp exercise sport appear merry";
+var mnemonic = "announce hollow chalk please apple news play annual umbrella dog blame decrease";

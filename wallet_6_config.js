@@ -1,1 +1,1 @@
-var mnemonic = "maple east member fox mystery name doll coin struggle silent mutual ladder";
+var mnemonic = "search wear bulk snack save social enough tide dumb frost treat letter";

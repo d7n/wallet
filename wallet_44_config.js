@@ -1,1 +1,1 @@
-var mnemonic = "race valley number say short nut cycle you whip unlock add idea";
+var mnemonic = "hero two cluster mammal oak cheap return draw bus little review survey";

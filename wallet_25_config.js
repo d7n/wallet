@@ -1,1 +1,1 @@
-var mnemonic = "hungry agree mule welcome wolf mansion afford door prosper coin harvest enable";
+var mnemonic = "write awake token cream frown route include uniform state fashion renew desk";

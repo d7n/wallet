@@ -1,1 +1,1 @@
-var mnemonic = "dwarf runway reward borrow borrow mixed mesh saddle earn early crucial vote";
+var mnemonic = "female verb nation buzz copy silent include cart coil trim top pool";

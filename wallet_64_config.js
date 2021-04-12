@@ -1,1 +1,1 @@
-var mnemonic = "element skirt come report hat machine assume foster horror reason public model";
+var mnemonic = "armor fire endless element green essence cabin dose medal unique survey glove";
