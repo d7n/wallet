@@ -1,1 +1,1 @@
-var mnemonic = "toddler reject identify tragic oyster chase age vicious dignity dish dynamic believe";
+var mnemonic = "rigid face strong estate inquiry menu mad space word file blanket cancel";

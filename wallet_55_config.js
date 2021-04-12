@@ -1,1 +1,1 @@
-var mnemonic = "sing leopard profit exhibit depend sample phrase peanut enough rebuild avoid idle";
+var mnemonic = "tackle glove need more salad tent slice spell space mouse lion sing";

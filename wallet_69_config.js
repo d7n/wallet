@@ -1,1 +1,1 @@
-var mnemonic = "planet cover three clean ignore mad breeze fee scout canal decrease thought";
+var mnemonic = "supply element notice above family pupil hero point top able size segment";

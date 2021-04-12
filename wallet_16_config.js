@@ -1,1 +1,1 @@
-var mnemonic = "lobster paddle love final misery donate rule payment lounge sound little lucky";
+var mnemonic = "shaft improve above soda diary song reform inspire loyal upon spirit enroll";

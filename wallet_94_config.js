@@ -1,1 +1,1 @@
-var mnemonic = "else thing illegal crew nature crouch agent review ghost scare chicken essence";
+var mnemonic = "polar cabbage nurse disagree barely dice asset visit inquiry alarm cool soul";

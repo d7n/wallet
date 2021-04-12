@@ -1,1 +1,1 @@
-var mnemonic = "disease anxiety stove almost gauge regret hawk pride camp give treat holiday";
+var mnemonic = "card math require dove soon silly prosper elbow multiply comfort ensure sweet";

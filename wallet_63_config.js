@@ -1,1 +1,1 @@
-var mnemonic = "source beyond pledge ocean maze park error version capable symbol wrap east";
+var mnemonic = "december sure section swap element work soda effort pill dune radio antenna";

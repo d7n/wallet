@@ -1,1 +1,1 @@
-var mnemonic = "kitten ski sunset open yellow all wine diesel head father depart ice";
+var mnemonic = "believe obvious plastic mixture weapon tomorrow miss chef actress equal crack protect";

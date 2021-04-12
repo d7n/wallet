@@ -1,1 +1,1 @@
-var mnemonic = "best detail welcome master derive quote right cheap suffer proof shrimp vapor";
+var mnemonic = "wash glide wisdom pony catalog north ivory potato patrol wrestle display shove";

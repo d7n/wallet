@@ -1,1 +1,1 @@
-var mnemonic = "slice able feed cabbage palm rich plastic kidney tortoise mad shock castle";
+var mnemonic = "flight century then rail scare remain unfair brisk noise since when burden";

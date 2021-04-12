@@ -1,1 +1,1 @@
-var mnemonic = "flock stomach crisp clap devote text expect solution put push pull worth";
+var mnemonic = "pole organ laundry shrimp ask black reform few hero render baby vast";

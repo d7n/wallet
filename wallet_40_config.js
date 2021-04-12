@@ -1,1 +1,1 @@
-var mnemonic = "arrive silly enemy novel gauge lizard deal mesh cement lucky pretty punch";
+var mnemonic = "picnic wedding bacon convince stand since helmet tone size shoot idea crack";

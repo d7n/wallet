@@ -1,1 +1,1 @@
-var mnemonic = "matter grocery salt possible boy insect accuse supreme cave material uncover confirm";
+var mnemonic = "shy hamster spoon indoor early cement much army bulk toy cool ecology";

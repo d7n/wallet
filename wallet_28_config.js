@@ -1,1 +1,1 @@
-var mnemonic = "outside calm gentle symbol convince embody dilemma youth error fold screen caution";
+var mnemonic = "educate pistol easy such diesel artist survey vendor flight minimum armed wood";

@@ -1,1 +1,1 @@
-var mnemonic = "mass fantasy mandate duck lawsuit message kiss cage address tragic pet among";
+var mnemonic = "fall van pause caught knee warfare pattern doctor blush nothing about put";

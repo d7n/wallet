@@ -1,1 +1,1 @@
-var mnemonic = "income nerve february notable address sad chapter amateur rack monkey math march";
+var mnemonic = "gate captain mixture foot journey report wrestle shop flash security frost reunion";

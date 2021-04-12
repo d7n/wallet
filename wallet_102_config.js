@@ -1,1 +1,1 @@
-var mnemonic = "series husband domain police cherry bacon elegant siren census flock demise produce";
+var mnemonic = "cream simple spatial give sister source present find whisper cloth castle close";

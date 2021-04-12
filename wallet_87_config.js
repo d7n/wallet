@@ -1,1 +1,1 @@
-var mnemonic = "impact kiss leaf guitar jump strategy shift erupt phone pool trial only";
+var mnemonic = "tent cram reason vault always warfare void lady wash wealth expose else";

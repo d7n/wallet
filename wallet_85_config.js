@@ -1,1 +1,1 @@
-var mnemonic = "aerobic skill leaf asthma dutch hazard whip father wool library truth soft";
+var mnemonic = "defense common maze act wrist mimic question spirit rib exact topple wink";

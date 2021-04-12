@@ -1,1 +1,1 @@
-var mnemonic = "capital what benefit cause spare canyon range cable camp north elite neglect";
+var mnemonic = "wrong sad found paper repeat task patrol hidden follow radar elephant banner";

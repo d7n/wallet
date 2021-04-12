@@ -1,1 +1,1 @@
-var mnemonic = "total fresh palm finish share donor window prefer edge around track pretty";
+var mnemonic = "milk second warm make tell inspire evolve casino route soda afraid bone";

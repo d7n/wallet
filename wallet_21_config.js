@@ -1,1 +1,1 @@
-var mnemonic = "wolf possible cruel intact short this ancient provide fossil solid sick kingdom";
+var mnemonic = "toddler wash mercy normal actual inmate virus urge submit girl source hobby";

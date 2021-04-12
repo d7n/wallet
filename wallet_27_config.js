@@ -1,1 +1,1 @@
-var mnemonic = "hen license scissors monkey deer taxi memory icon rail soft cluster pink";
+var mnemonic = "bulb dash surround protect midnight twelve peasant leave snack harvest canal unfold";

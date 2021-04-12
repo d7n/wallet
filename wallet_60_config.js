@@ -1,1 +1,1 @@
-var mnemonic = "move duck hat pledge route one good help kangaroo wrap buffalo pottery";
+var mnemonic = "dust client glimpse economy life general must vicious obtain attract tent fine";

@@ -1,1 +1,1 @@
-var mnemonic = "decide brush panic design visa stem exercise you away quality bring custom";
+var mnemonic = "initial liberty crawl live able session sunset hero winner payment employ immense";

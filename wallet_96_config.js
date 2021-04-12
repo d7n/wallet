@@ -1,1 +1,1 @@
-var mnemonic = "piece travel current domain fortune also degree cave process tongue harbor march";
+var mnemonic = "require churn mosquito weapon boost alter damage circle input finger black eyebrow";

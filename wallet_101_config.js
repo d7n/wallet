@@ -1,1 +1,1 @@
-var mnemonic = "rice cost patch exhibit flat ugly tree globe broken eager pony comic";
+var mnemonic = "quality brief later soon blade card enforce guess congress dizzy real bread";

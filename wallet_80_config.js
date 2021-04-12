@@ -1,1 +1,1 @@
-var mnemonic = "giraffe news funny season tennis lunch museum song play bonus lonely improve";
+var mnemonic = "embrace motor excess fiction sand surround skull mail inject timber shift gift";

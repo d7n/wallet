@@ -1,1 +1,1 @@
-var mnemonic = "sand panda time favorite couple someone crawl range execute enough huge orbit";
+var mnemonic = "answer path away tank vital zebra helmet fortune canal health midnight depend";

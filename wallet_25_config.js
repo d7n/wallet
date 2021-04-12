@@ -1,1 +1,1 @@
-var mnemonic = "chimney either iron potato practice relax will remind sword right dilemma crowd";
+var mnemonic = "brain romance carbon album net acid glow search casino salute tumble poverty";

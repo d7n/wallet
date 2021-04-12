@@ -1,1 +1,1 @@
-var mnemonic = "opinion boost slender unique learn despair shift jewel young scout cannon phone";
+var mnemonic = "budget token enhance thank lady crunch mask collect cliff fancy outdoor city";

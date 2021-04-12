@@ -1,1 +1,1 @@
-var mnemonic = "spring tag coin piano fat pretty river member spawn object kid snake";
+var mnemonic = "ivory stock arrange vibrant gadget toddler actress smile build entire among copy";

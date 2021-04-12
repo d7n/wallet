@@ -1,1 +1,1 @@
-var mnemonic = "course have noble labor tissue exhibit feel property wife tray science sense";
+var mnemonic = "cheap oppose used expose clog cause excuse glide neutral ribbon disease habit";

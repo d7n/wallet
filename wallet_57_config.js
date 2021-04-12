@@ -1,1 +1,1 @@
-var mnemonic = "gorilla refuse sell exchange apple sunny era hour exercise other total exotic";
+var mnemonic = "intact object hill physical fiction obey seek phrase pool leisure funny can";

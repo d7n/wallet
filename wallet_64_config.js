@@ -1,1 +1,1 @@
-var mnemonic = "aunt burden still rice firm maid liar verb caught wear weekend answer";
+var mnemonic = "recipe begin beef gallery tilt cousin delay also conduct eternal asset banana";

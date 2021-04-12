@@ -1,1 +1,1 @@
-var mnemonic = "clerk police lawsuit tape unlock pyramid shop giggle pony despair eyebrow kitten";
+var mnemonic = "adult hamster gesture check circle fox length trade bamboo palace mix timber";

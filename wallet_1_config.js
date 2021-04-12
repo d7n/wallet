@@ -1,1 +1,1 @@
-var mnemonic = "loop choose neck property pull network item minute talent behind deposit video";
+var mnemonic = "test nominee title indicate inspire cross drum nest broken december system desk";

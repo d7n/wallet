@@ -1,1 +1,1 @@
-var mnemonic = "test cricket crouch lava rookie resource excite panda choice retire nut true";
+var mnemonic = "ring situate pool provide oven shrimp child memory vital pole image allow";

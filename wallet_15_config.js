@@ -1,1 +1,1 @@
-var mnemonic = "virtual fragile tribe follow polar load minimum film valley oak mistake resource";
+var mnemonic = "snake category warfare oil fit unlock exhaust mass crisp comfort antenna frost";

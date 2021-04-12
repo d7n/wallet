@@ -1,1 +1,1 @@
-var mnemonic = "will keen pattern liberty return eyebrow outdoor gasp spike consider cage camera";
+var mnemonic = "sign enhance scrap toilet deliver border leisure fun urge come traffic great";

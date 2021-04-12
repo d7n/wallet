@@ -1,1 +1,1 @@
-var mnemonic = "expire target own spin scorpion virus amused hero rabbit shuffle december fitness";
+var mnemonic = "crunch author couch hurt cube clog behind phone small universe blue tumble";

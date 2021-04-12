@@ -1,1 +1,1 @@
-var mnemonic = "faculty pause sure coconut inject lift chef primary diary cradle squirrel clutch";
+var mnemonic = "weird tunnel nut fine oppose unfair roof goat craft soul sponsor solution";

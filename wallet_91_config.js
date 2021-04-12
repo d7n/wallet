@@ -1,1 +1,1 @@
-var mnemonic = "finger sword exact scan strong flock barrel once random grunt category skate";
+var mnemonic = "switch this affair render talent level trade foil rival repair disease dawn";

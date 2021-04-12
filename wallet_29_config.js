@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon siren shed gaze door oxygen globe repeat today deer eye camp";
+var mnemonic = "tilt want share subway busy lend place dog lady blouse practice deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "useful board blast own steak utility capable yellow unusual couch jaguar cool";
+var mnemonic = "bubble cave finish struggle regret frost bundle that oak source creek charge";

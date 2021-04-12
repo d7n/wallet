@@ -1,1 +1,1 @@
-var mnemonic = "flower upset upper merge autumn promote patch lucky muscle town angle main";
+var mnemonic = "grape lens dash submit service smoke gospel refuse when tomato ten entire";

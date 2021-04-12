@@ -1,1 +1,1 @@
-var mnemonic = "guitar marriage corn equip number simple birth stable submit this plunge rotate";
+var mnemonic = "ivory moon search wire oblige salute pistol disorder rocket swamp cactus effort";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed attract tower industry spare tomato odor survey uncover best argue effort";
+var mnemonic = "together image patient turtle renew chunk basic impact pact fortune amateur wagon";

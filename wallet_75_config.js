@@ -1,1 +1,1 @@
-var mnemonic = "steel mean scatter pitch kitchen donor cradle enable earn stomach galaxy zebra";
+var mnemonic = "solution miss little main develop motor symptom tag sound draw pig pear";

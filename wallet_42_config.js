@@ -1,1 +1,1 @@
-var mnemonic = "panther answer exist dinner goat bright arrest timber tuna pottery stove bid";
+var mnemonic = "coin oval inhale rent luxury skate buffalo success cute chicken couch avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd auction truck arena swim piano spoon arrive video wing vault hobby";
+var mnemonic = "chest old noodle help fun squirrel wish identify bunker tent despair retreat";

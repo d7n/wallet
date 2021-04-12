@@ -1,1 +1,1 @@
-var mnemonic = "strike hero genre envelope hole march scrap annual favorite drip fold miss";
+var mnemonic = "miss save alcohol hover have fiction short must grief sugar relax salmon";

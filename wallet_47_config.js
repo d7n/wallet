@@ -1,1 +1,1 @@
-var mnemonic = "dad vendor alarm pyramid page give plunge pitch bunker pill street amateur";
+var mnemonic = "lesson gadget nominee purchase today rigid come you clerk convince pill index";

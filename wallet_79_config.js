@@ -1,1 +1,1 @@
-var mnemonic = "sunset morning jealous boy recall zero win fetch exercise room brother jeans";
+var mnemonic = "document dumb rival carbon embrace aware trash coil thank useful amount near";

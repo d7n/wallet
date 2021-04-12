@@ -1,1 +1,1 @@
-var mnemonic = "soldier agent jaguar favorite purpose hip switch lab heavy ball sister future";
+var mnemonic = "buzz cart illness divorce arrest rate civil asthma grid lonely endorse bleak";

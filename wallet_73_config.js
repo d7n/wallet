@@ -1,1 +1,1 @@
-var mnemonic = "glad receive fuel dry tape faculty author digital sorry much term recipe";
+var mnemonic = "illegal hen coin menu afford envelope swift swift economy theme attract toe";

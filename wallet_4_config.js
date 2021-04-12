@@ -1,1 +1,1 @@
-var mnemonic = "detect erase just wheat inquiry rescue head east mansion scout prosper under";
+var mnemonic = "emotion radar border toward core tip only safe laugh shrug chaos around";

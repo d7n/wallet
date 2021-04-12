@@ -1,1 +1,1 @@
-var mnemonic = "reflect tennis eyebrow october size pill invest inflict pave same clock cabbage";
+var mnemonic = "cruel leave phone web scrub burst century spawn swim danger drift bid";

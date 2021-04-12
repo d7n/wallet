@@ -1,1 +1,1 @@
-var mnemonic = "chapter vessel else police raw unknown amused say kind young lumber movie";
+var mnemonic = "cheap group region human used awful warfare vapor security copy end husband";

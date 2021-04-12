@@ -1,1 +1,1 @@
-var mnemonic = "invest sense wrap quantum rice spend frequent ankle ripple final hybrid current";
+var mnemonic = "curious double monitor dish pass velvet critic farm orbit board hub verb";

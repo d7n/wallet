@@ -1,1 +1,1 @@
-var mnemonic = "mimic spatial coffee lava pencil chat attend close parade high squeeze immune";
+var mnemonic = "material course account deny wheel filter error useful shift survey salon pink";

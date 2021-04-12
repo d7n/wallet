@@ -1,1 +1,1 @@
-var mnemonic = "below ring arrive noise birth evoke swing tent disagree person east cup";
+var mnemonic = "thunder device kid snow caught limb source top trophy pilot object foster";

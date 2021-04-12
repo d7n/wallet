@@ -1,1 +1,1 @@
-var mnemonic = "uniform grain baby leave come tray notice reflect bright hundred transfer joy";
+var mnemonic = "income parent weather reward torch system item marble coffee raccoon defense salmon";

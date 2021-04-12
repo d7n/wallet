@@ -1,1 +1,1 @@
-var mnemonic = "critic mass cry invite border they kick alert post artist rent symptom";
+var mnemonic = "arrange thumb place absent maximum margin replace eager dismiss expect romance rally";

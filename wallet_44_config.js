@@ -1,1 +1,1 @@
-var mnemonic = "jump matrix adapt birth market protect purpose ecology night energy dove vault";
+var mnemonic = "elbow mansion evidence exit unusual mechanic flavor rail alien order laundry junk";

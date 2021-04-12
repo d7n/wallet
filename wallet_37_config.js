@@ -1,1 +1,1 @@
-var mnemonic = "way owner movie mom vital error day focus electric loan true harvest";
+var mnemonic = "nice audit garbage heavy sausage salmon adult rhythm margin civil soccer fetch";

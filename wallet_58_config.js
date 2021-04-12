@@ -1,1 +1,1 @@
-var mnemonic = "tobacco wisdom key again wagon saddle bullet mad enhance october very cruise";
+var mnemonic = "stage clog belt hint tissue base lend napkin ceiling castle bitter sure";

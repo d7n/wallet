@@ -1,1 +1,1 @@
-var mnemonic = "remember jar drive broken yellow banana loop input scrub garlic easily muffin";
+var mnemonic = "pluck news chronic narrow hip lion obtain guilt absent balcony phone word";

@@ -1,1 +1,1 @@
-var mnemonic = "runway mutual solve barrel lizard cruel unknown depart grass miracle solve pill";
+var mnemonic = "bundle piece inhale host poem cry couch timber armor level stadium error";

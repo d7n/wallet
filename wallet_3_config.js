@@ -1,1 +1,1 @@
-var mnemonic = "mule pupil survey quit magnet miss spring digital change laundry breeze shine";
+var mnemonic = "uniform prize fantasy know kiss grid volume number check punch friend round";

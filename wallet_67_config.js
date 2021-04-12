@@ -1,1 +1,1 @@
-var mnemonic = "purpose escape smart asthma mask nest remove rather brave athlete cheap noodle";
+var mnemonic = "robot lion music prize tube fancy chase gift decorate august sand author";

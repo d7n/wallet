@@ -1,1 +1,1 @@
-var mnemonic = "reward essence shrug deliver machine slab govern mirror ginger pull room useful";
+var mnemonic = "clock shine cargo century fish weapon follow disease bomb cement danger whale";

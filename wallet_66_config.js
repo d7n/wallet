@@ -1,1 +1,1 @@
-var mnemonic = "nice topple waste jaguar lady vanish forest lunar obey wait novel control";
+var mnemonic = "almost judge diet valid fog flower roast tide feed index proof alarm";

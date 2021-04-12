@@ -1,1 +1,1 @@
-var mnemonic = "drive rally twice shift champion cereal trap theory defy easy hobby trial";
+var mnemonic = "invest anxiety laugh indicate nut hungry become salon phrase arctic dragon shaft";

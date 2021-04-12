@@ -1,1 +1,1 @@
-var mnemonic = "bid beef cinnamon label ivory original husband sketch bus erupt more indoor";
+var mnemonic = "cherry pair sure adapt surge essay radar laundry ticket smart food wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "trend dutch merge reduce cliff lounge narrow clinic round share garlic network";
+var mnemonic = "exit witness ethics badge else call magic logic lawn feature hard moral";

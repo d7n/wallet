@@ -1,1 +1,1 @@
-var mnemonic = "grass squeeze ask lady dry path pattern member situate name below bridge";
+var mnemonic = "true hamster pipe frozen pigeon manage slogan prosper mutual cup rebel sure";

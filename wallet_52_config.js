@@ -1,1 +1,1 @@
-var mnemonic = "minor dance bid walnut desk panic tomato combine excuse topic fat subway";
+var mnemonic = "private exclude impose mention family treat permit romance doll dinner palace swear";

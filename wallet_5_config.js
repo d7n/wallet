@@ -1,1 +1,1 @@
-var mnemonic = "consider misery east tourist exhaust glare success six kitchen acquire olive pumpkin";
+var mnemonic = "napkin spin amused castle mom broom shop chalk reflect keen program merge";

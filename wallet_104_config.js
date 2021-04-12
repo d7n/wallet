@@ -1,1 +1,1 @@
-var mnemonic = "good enrich lazy write gloom hotel initial anger fruit album shove embrace";
+var mnemonic = "anger shock equal live social wet summer settle job curve announce economy";

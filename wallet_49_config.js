@@ -1,1 +1,1 @@
-var mnemonic = "imitate tissue frown input boy extra bronze vocal moment cruise cash web";
+var mnemonic = "attack decade since front observe work cute never grace crucial wrist gown";

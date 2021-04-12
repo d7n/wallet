@@ -1,1 +1,1 @@
-var mnemonic = "shift palace problem decade expand human void border cash check kitchen ill";
+var mnemonic = "tool sister bonus job again language stable exist weird nose flip muffin";

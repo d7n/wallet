@@ -1,1 +1,1 @@
-var mnemonic = "crack rotate connect demise report poet card left wash arctic decorate base";
+var mnemonic = "wear island vote ski curious virtual glance claim cactus evil mask drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "sense possible sugar category skin weird symptom reform train manual omit purse";
+var mnemonic = "focus tiger iron fine deputy spend pink find tag hammer domain limit";

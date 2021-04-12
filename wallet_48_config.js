@@ -1,1 +1,1 @@
-var mnemonic = "oven wool between man exercise course laundry matter exclude call improve rib";
+var mnemonic = "gospel wedding opera voyage salmon shoot mountain planet empty execute farm clap";

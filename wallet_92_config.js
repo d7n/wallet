@@ -1,1 +1,1 @@
-var mnemonic = "test scale purpose online color endorse moral twice effort skin force travel";
+var mnemonic = "grape wide mystery torch woman mask car solar coral vendor visual thrive";

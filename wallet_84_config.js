@@ -1,1 +1,1 @@
-var mnemonic = "slice spider popular code monitor gown life unique stone physical mimic obscure";
+var mnemonic = "pluck enjoy resemble wood desert buzz exile latin lunar exit mistake gravity";

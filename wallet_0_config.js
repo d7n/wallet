@@ -1,1 +1,1 @@
-var mnemonic = "talent hello happy index gown obtain album silent inhale erupt satoshi laugh";
+var mnemonic = "viable nation road elephant bronze dirt arrow tattoo tornado below comic extend";

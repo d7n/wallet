@@ -1,1 +1,1 @@
-var mnemonic = "rapid ritual live powder current grunt primary kiss piano gloom virtual salt";
+var mnemonic = "glimpse cram stuff must crime letter rich sell wealth tissue fan better";
