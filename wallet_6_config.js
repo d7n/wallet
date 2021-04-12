@@ -1,1 +1,1 @@
-var mnemonic = "search wear bulk snack save social enough tide dumb frost treat letter";
+var mnemonic = "tell question asset stay purchase sphere giggle region you upgrade deer remove";

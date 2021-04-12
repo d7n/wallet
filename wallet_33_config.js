@@ -1,1 +1,1 @@
-var mnemonic = "merge cheap eagle endless slice decorate mind throw oil clog choice quarter";
+var mnemonic = "diary siren push finger cable cute carbon blast evidence capital gaze slow";

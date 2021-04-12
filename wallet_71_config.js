@@ -1,1 +1,1 @@
-var mnemonic = "robot reward degree post chapter desk impose swim exhibit proof much accident";
+var mnemonic = "volcano gown double able cat vehicle asthma inject tooth okay fossil blur";

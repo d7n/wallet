@@ -1,1 +1,1 @@
-var mnemonic = "design delay then win power design alien cake sphere jeans slide man";
+var mnemonic = "differ sweet time cereal walnut snake castle fold party wrist small swift";

@@ -1,1 +1,1 @@
-var mnemonic = "man cage give magnet rich feed fresh hawk loop youth project twelve";
+var mnemonic = "friend fatigue still frown width erase faculty mad fossil front record float";

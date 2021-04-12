@@ -1,1 +1,1 @@
-var mnemonic = "endless buffalo alien fashion city surge more giraffe multiply topic spy spawn";
+var mnemonic = "harsh satoshi hard post slush wise frozen medal wing van sudden canoe";

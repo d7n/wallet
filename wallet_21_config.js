@@ -1,1 +1,1 @@
-var mnemonic = "vote hold tonight goddess cover chaos snake prison rocket flock fee bacon";
+var mnemonic = "magnet west follow deliver track spell swift divorce infant sniff chase expose";

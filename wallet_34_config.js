@@ -1,1 +1,1 @@
-var mnemonic = "erase woman behind tribe poverty treat merge hero audit what grape judge";
+var mnemonic = "flash purpose absurd fish taxi possible lens castle matrix grit laugh insect";

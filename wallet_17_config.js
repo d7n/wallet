@@ -1,1 +1,1 @@
-var mnemonic = "announce hollow chalk please apple news play annual umbrella dog blame decrease";
+var mnemonic = "have major tomorrow sail tragic box lecture crumble dune fat run entire";

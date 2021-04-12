@@ -1,1 +1,1 @@
-var mnemonic = "step myth purse palm course degree mimic behind note film vintage lizard";
+var mnemonic = "clutch fork thumb clarify garlic amazing fashion elder exist mask romance card";

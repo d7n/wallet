@@ -1,1 +1,1 @@
-var mnemonic = "convince exclude carbon divorce valve case shoe bus sing mad approve soon";
+var mnemonic = "trade east rabbit bus please escape client throw curious unable pipe wreck";

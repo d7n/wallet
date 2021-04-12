@@ -1,1 +1,1 @@
-var mnemonic = "oven ring unlock outdoor enhance film ranch eight tired ignore provide morning";
+var mnemonic = "vocal web unknown measure carpet garlic salon dash fox wave slogan project";

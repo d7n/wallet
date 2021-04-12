@@ -1,1 +1,1 @@
-var mnemonic = "unit damage flip elevator churn observe lyrics wrong immense marine group join";
+var mnemonic = "offer trigger dolphin emerge legal verb magic correct happy crush maze attack";

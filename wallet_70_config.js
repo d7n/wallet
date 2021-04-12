@@ -1,1 +1,1 @@
-var mnemonic = "turn own nurse bracket lemon length gorilla grass route distance mushroom mimic";
+var mnemonic = "aunt normal siren veteran talk eager essence nation clerk radar dream trust";

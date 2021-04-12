@@ -1,1 +1,1 @@
-var mnemonic = "youth glue lend nuclear better smoke giraffe chuckle return vapor orchard reform";
+var mnemonic = "can topple weird auction dinosaur magnet deal wolf among narrow acoustic plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "asset system walnut velvet fault fabric august thumb nose region flower cruel";
+var mnemonic = "tail source topic snow census pretty reopen royal light cactus ball metal";

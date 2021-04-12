@@ -1,1 +1,1 @@
-var mnemonic = "hero intact vacuum decrease recall empower ice weird swallow panel east stable";
+var mnemonic = "spend august jelly swear kiss decline chair market garbage awesome napkin gravity";

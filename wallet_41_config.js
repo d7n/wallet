@@ -1,1 +1,1 @@
-var mnemonic = "gloom piece bench kitten spirit endorse junior parrot left sting bag furnace";
+var mnemonic = "topple victory welcome kiwi deliver embark gorilla borrow when stomach brother network";

@@ -1,1 +1,1 @@
-var mnemonic = "axis lobster average seed demand test east scare slot brown vote foam";
+var mnemonic = "bird pupil slide crumble dad click glow spice shield response ride pause";

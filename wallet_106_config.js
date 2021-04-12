@@ -1,1 +1,1 @@
-var mnemonic = "arrange champion swear fuel meadow olive catch victory core object crumble mesh";
+var mnemonic = "level cargo cheap obey home student alcohol reflect crunch alcohol law entire";

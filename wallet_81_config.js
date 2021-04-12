@@ -1,1 +1,1 @@
-var mnemonic = "special pipe pull street alien robot runway onion burst bracket method bulk";
+var mnemonic = "invite wear athlete furnace cover energy friend biology wonder gravity cushion cry";

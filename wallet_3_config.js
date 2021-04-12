@@ -1,1 +1,1 @@
-var mnemonic = "setup perfect imitate virtual key insect resist address poverty charge same swear";
+var mnemonic = "upon vacant text shallow shoe nuclear differ weird charge car rival love";

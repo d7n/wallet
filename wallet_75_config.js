@@ -1,1 +1,1 @@
-var mnemonic = "sphere liquid nuclear scene rapid sport permit lazy drive hero dial tool";
+var mnemonic = "ghost thing powder divide acid rib scout nuclear auto ozone crumble electric";

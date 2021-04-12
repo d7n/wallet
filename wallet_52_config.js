@@ -1,1 +1,1 @@
-var mnemonic = "morning trial stay episode torch render sick quarter online right clerk olive";
+var mnemonic = "busy gallery advice primary husband just trigger crew rotate connect miss bleak";

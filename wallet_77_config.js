@@ -1,1 +1,1 @@
-var mnemonic = "thought hat jealous pet forward ride seminar list brisk sudden cream ski";
+var mnemonic = "asthma ozone lunar plate scorpion pony rich leader expand sausage sand bless";

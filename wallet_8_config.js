@@ -1,1 +1,1 @@
-var mnemonic = "buffalo lawn mention border modify engine garbage album level erupt garlic pretty";
+var mnemonic = "property uncle ramp friend eagle either secret monitor clinic reduce gift balance";

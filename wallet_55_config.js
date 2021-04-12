@@ -1,1 +1,1 @@
-var mnemonic = "female verb nation buzz copy silent include cart coil trim top pool";
+var mnemonic = "remember pluck hip tooth fiber install reduce radar teach capital stereo mammal";

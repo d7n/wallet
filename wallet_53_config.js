@@ -1,1 +1,1 @@
-var mnemonic = "predict chief rifle like issue topic predict trap era neither shrimp small";
+var mnemonic = "suspect relief coil anxiety cruise supreme envelope zero utility half skin invite";

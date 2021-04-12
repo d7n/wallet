@@ -1,1 +1,1 @@
-var mnemonic = "gun arm arctic weird truth dawn decline pool fatigue ten lawn crucial";
+var mnemonic = "journey argue level scout brave view goose pupil know penalty ignore summer";

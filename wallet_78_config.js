@@ -1,1 +1,1 @@
-var mnemonic = "sign carpet toss twenty library start margin tip barrel token federal actual";
+var mnemonic = "crack skirt duty target alert town absorb satoshi misery alone obvious nest";

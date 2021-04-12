@@ -1,1 +1,1 @@
-var mnemonic = "armor fire endless element green essence cabin dose medal unique survey glove";
+var mnemonic = "chase kiss life cat reflect slim balance lend fat secret comic cheese";

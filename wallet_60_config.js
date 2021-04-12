@@ -1,1 +1,1 @@
-var mnemonic = "economy boat segment identify clip differ digital mask excite sustain short urban";
+var mnemonic = "term scale main elephant cloud swift borrow sign much faint unhappy cloth";

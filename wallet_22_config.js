@@ -1,1 +1,1 @@
-var mnemonic = "eagle pear erosion throw clutch loop ugly ostrich wool shield nut pull";
+var mnemonic = "gauge repeat river extra scout tortoise car bulb raw disease step illness";

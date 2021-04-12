@@ -1,1 +1,1 @@
-var mnemonic = "tilt avocado rescue worry solve expose vehicle vacant chase gown ranch child";
+var mnemonic = "tank flush twin claim soft flock knock cruise miss alley boil slide";

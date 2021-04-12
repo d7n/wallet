@@ -1,1 +1,1 @@
-var mnemonic = "style salad dance accident cactus fringe twice ketchup until clarify zebra canvas";
+var mnemonic = "element surprise song polar doll demise elite immense appear genius horror lawsuit";

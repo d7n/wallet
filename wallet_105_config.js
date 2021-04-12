@@ -1,1 +1,1 @@
-var mnemonic = "oak admit guilt lounge century wrap engine view mistake flag soul actor";
+var mnemonic = "taxi paddle inner motion shield crime side snap average actual celery bulk";

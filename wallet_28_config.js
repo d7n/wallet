@@ -1,1 +1,1 @@
-var mnemonic = "bridge finish tube enjoy mutual child bubble horror luxury dash swap market";
+var mnemonic = "mass can arctic copy chaos salon slim desert pistol winner payment price";

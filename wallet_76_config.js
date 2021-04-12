@@ -1,1 +1,1 @@
-var mnemonic = "fox mail foam jar minute fire stem symbol sausage hill hedgehog desert";
+var mnemonic = "reform power core ignore trip display settle envelope catalog tiny victory bacon";

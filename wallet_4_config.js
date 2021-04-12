@@ -1,1 +1,1 @@
-var mnemonic = "riot innocent kiwi priority elite series access broom invest denial abstract sea";
+var mnemonic = "yard kiwi fuel flee chef pipe glimpse shaft congress pair use journey";

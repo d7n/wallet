@@ -1,1 +1,1 @@
-var mnemonic = "runway genuine note neglect diesel output bike because diagram cinnamon crowd kick";
+var mnemonic = "side tortoise foot miracle animal ring pony winner labor image raven task";

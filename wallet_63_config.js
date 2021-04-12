@@ -1,1 +1,1 @@
-var mnemonic = "thought voyage denial oak govern wheat garage blast vivid door sand remind";
+var mnemonic = "fury test snack dragon job latin social pistol baby ostrich enjoy kind";

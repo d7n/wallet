@@ -1,1 +1,1 @@
-var mnemonic = "wreck hollow carry deal gym plug gravity club goose dilemma sorry machine";
+var mnemonic = "what boss mother issue host sign version other warrior measure rely shrug";

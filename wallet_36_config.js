@@ -1,1 +1,1 @@
-var mnemonic = "viable combine wing pony thing render logic more gossip flee shell memory";
+var mnemonic = "alarm orient swap enough expand glare rotate pet patch antenna tunnel essence";

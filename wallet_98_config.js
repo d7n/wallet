@@ -1,1 +1,1 @@
-var mnemonic = "abstract balance mystery permit tenant black figure swim flame margin merry urge";
+var mnemonic = "soft scale turtle result jump ozone vivid spy prosper first cricket ghost";

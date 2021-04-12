@@ -1,1 +1,1 @@
-var mnemonic = "allow alarm review fan cigar garment treat soup believe common turn page";
+var mnemonic = "tool hole window flip buffalo popular finger time wall excess unique police";

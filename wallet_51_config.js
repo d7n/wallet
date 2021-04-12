@@ -1,1 +1,1 @@
-var mnemonic = "slight liar plunge tooth poem mosquito method caught body road action lemon";
+var mnemonic = "caution mimic orchard quiz athlete carbon clarify wet twenty avocado able security";

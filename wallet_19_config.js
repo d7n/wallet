@@ -1,1 +1,1 @@
-var mnemonic = "plate still educate swarm easy tornado despair always penalty joy unique argue";
+var mnemonic = "mushroom coyote bind click stove measure civil strategy witness cricket noodle rough";

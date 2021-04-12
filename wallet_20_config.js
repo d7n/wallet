@@ -1,1 +1,1 @@
-var mnemonic = "keep polar love decide brown concert flight furnace measure fatal aspect rib";
+var mnemonic = "bitter sand differ museum then cherry viable chest strong prefer alarm miss";

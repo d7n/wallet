@@ -1,1 +1,1 @@
-var mnemonic = "grid animal bunker frequent sort choose volume hand leisure behave dilemma slice";
+var mnemonic = "umbrella begin correct trial blast begin rigid movie setup minimum banner analyst";

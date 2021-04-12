@@ -1,1 +1,1 @@
-var mnemonic = "myself isolate can topple rotate distance chapter capital welcome rebel innocent nominee";
+var mnemonic = "false put scorpion bone pottery hill slush thank nephew gas eager child";

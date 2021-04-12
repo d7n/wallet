@@ -1,1 +1,1 @@
-var mnemonic = "act much before orbit render tenant engage shuffle step extend diet toddler";
+var mnemonic = "burst bicycle woman approve crunch plastic reflect ceiling explain audit season dune";

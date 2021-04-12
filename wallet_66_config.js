@@ -1,1 +1,1 @@
-var mnemonic = "page pipe picnic machine search tomorrow blouse pattern birth sun kitten heavy";
+var mnemonic = "warrior near multiply garage gym cousin addict silent census shoe donor local";

@@ -1,1 +1,1 @@
-var mnemonic = "promote talent daughter banana grace story town project fade observe sample gossip";
+var mnemonic = "add private flash crucial merit divorce stereo drill slice stage essence motion";

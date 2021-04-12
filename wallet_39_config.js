@@ -1,1 +1,1 @@
-var mnemonic = "announce robust corn slender ketchup jump language raise trigger caught physical acquire";
+var mnemonic = "unfair during lift lounge rebel crack cake invite sausage example boring color";

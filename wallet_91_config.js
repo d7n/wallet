@@ -1,1 +1,1 @@
-var mnemonic = "cliff very usage cousin pitch receive scissors garden top number runway travel";
+var mnemonic = "liberty talk impact hobby response wheat garden math glow dove tide someone";

@@ -1,1 +1,1 @@
-var mnemonic = "easily high abstract screen direct frog legend option crazy claw inquiry deposit";
+var mnemonic = "embark napkin bike satoshi bid cradle slender when warfare giant cute bitter";

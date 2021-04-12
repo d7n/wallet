@@ -1,1 +1,1 @@
-var mnemonic = "clump concert mind sketch voice edit heart top alert honey doll circle";
+var mnemonic = "ahead sight squeeze reject length mad perfect suit auction spawn tenant abstract";

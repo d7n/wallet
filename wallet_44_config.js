@@ -1,1 +1,1 @@
-var mnemonic = "hero two cluster mammal oak cheap return draw bus little review survey";
+var mnemonic = "eternal cactus next embark bronze differ limb fetch already upgrade oven blush";

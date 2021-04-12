@@ -1,1 +1,1 @@
-var mnemonic = "outdoor hole lion surprise purity suffer chase monkey sponsor invest pig gesture";
+var mnemonic = "raw tumble arena absorb afraid pair alert winter pupil way chimney vacant";

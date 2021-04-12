@@ -1,1 +1,1 @@
-var mnemonic = "rude fat acquire sick either injury evolve vintage replace own knife oyster";
+var mnemonic = "ghost choice conduct ceiling vehicle close pluck dial slight safe seminar original";

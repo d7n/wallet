@@ -1,1 +1,1 @@
-var mnemonic = "maximum virus imitate space myth family subway oxygen reason field coral subject";
+var mnemonic = "sponsor spare oyster bag fault again tuna prosper palm surface join fish";

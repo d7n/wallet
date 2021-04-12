@@ -1,1 +1,1 @@
-var mnemonic = "choice depart zero aerobic below caution cruel during only mechanic lawsuit hard";
+var mnemonic = "hire share brown dentist argue scare stable limit army confirm worth alley";

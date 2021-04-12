@@ -1,1 +1,1 @@
-var mnemonic = "scissors item nuclear urge cotton long coral tunnel congress awesome frown remind";
+var mnemonic = "dust industry impulse sense vintage stool enlist build engine typical toss donate";

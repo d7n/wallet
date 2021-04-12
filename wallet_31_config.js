@@ -1,1 +1,1 @@
-var mnemonic = "story person voice silk above guilt teach razor slot version gather scare";
+var mnemonic = "gas butter slush palace judge purpose poet expire mystery brisk surface play";

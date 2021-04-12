@@ -1,1 +1,1 @@
-var mnemonic = "physical inside trophy speed rebel battle success stool weird sign issue sudden";
+var mnemonic = "toilet fashion unknown inquiry sun wrong message tongue south magnet inmate cage";

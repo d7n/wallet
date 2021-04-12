@@ -1,1 +1,1 @@
-var mnemonic = "pupil strong talk silent luxury narrow repair vessel olympic spoon endorse lunch";
+var mnemonic = "equal best detect absent display simple virus mom shift orphan fancy salad";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery trim inspire cinnamon bar design sun supply sustain blanket deny vocal";
+var mnemonic = "angry own tiny daughter car three traffic violin material pulp sting arm";

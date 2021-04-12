@@ -1,1 +1,1 @@
-var mnemonic = "pyramid annual theme peace caution cute company belt portion discover search axis";
+var mnemonic = "sadness lunch father recipe pink grant wish garlic topple until prison margin";

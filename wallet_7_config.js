@@ -1,1 +1,1 @@
-var mnemonic = "live crawl avocado success rescue guess safe decline uphold run little arrow";
+var mnemonic = "round govern key panther squirrel dance know special census rural absent will";

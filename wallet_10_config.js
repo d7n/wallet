@@ -1,1 +1,1 @@
-var mnemonic = "clock chest patrol deposit neck regular dilemma shoe math entire poet cliff";
+var mnemonic = "space goddess soul whisper intact absorb dream chef shed resource record monitor";

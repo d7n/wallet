@@ -1,1 +1,1 @@
-var mnemonic = "guilt custom kit october joy month also grocery tray indicate hidden wave";
+var mnemonic = "any field verify that carry attend evil old renew method civil fix";

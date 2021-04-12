@@ -1,1 +1,1 @@
-var mnemonic = "eye gallery shift situate evoke enlist you auto label another join run";
+var mnemonic = "silly crack tilt warm exotic claim window amount crumble peanut force save";

@@ -1,1 +1,1 @@
-var mnemonic = "brain south grocery document peasant corn device shaft kidney matter awake coyote";
+var mnemonic = "pear van seat supreme matrix spring rather keen rely ripple busy fun";

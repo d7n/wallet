@@ -1,1 +1,1 @@
-var mnemonic = "long pipe fringe two car garment arrest million illegal chicken outside caught";
+var mnemonic = "rotate unusual kit matter cage entry dutch kite club banana burst light";

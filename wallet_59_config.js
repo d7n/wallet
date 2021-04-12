@@ -1,1 +1,1 @@
-var mnemonic = "allow invest senior cluster nest film guard arrive card boy kitchen pencil";
+var mnemonic = "unknown copper develop inform language dignity cheese often cluster amazing patrol walk";

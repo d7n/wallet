@@ -1,1 +1,1 @@
-var mnemonic = "squeeze find language aware festival distance skirt walnut clutch auto cereal song";
+var mnemonic = "retreat noble eager large able flush dry sunny across prosper muffin impose";

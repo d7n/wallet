@@ -1,1 +1,1 @@
-var mnemonic = "record flush tortoise iron evoke govern alpha mystery student rough amazing pizza";
+var mnemonic = "mutual coffee eight patch company rose dress carry goose charge cave modify";

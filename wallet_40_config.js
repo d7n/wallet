@@ -1,1 +1,1 @@
-var mnemonic = "fresh special salute width track desert ship knee sustain whisper shrug lunch";
+var mnemonic = "approve federal ladder blanket wife fun imitate neutral cry guard defense term";

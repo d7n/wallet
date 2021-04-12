@@ -1,1 +1,1 @@
-var mnemonic = "bike cable nest guard supply tilt illness shove between tonight olive ability";
+var mnemonic = "pig flash trade admit van purity permit velvet furnace peanut top curtain";

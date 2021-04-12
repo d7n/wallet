@@ -1,1 +1,1 @@
-var mnemonic = "oppose point vivid voice burst ethics cheese add cram wheat curve giraffe";
+var mnemonic = "hamster baby soon garlic casual matter square spy spread grace use flee";

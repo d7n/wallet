@@ -1,1 +1,1 @@
-var mnemonic = "fitness either parent rice inherit october ski table post brave wolf oblige";
+var mnemonic = "charge mesh pumpkin bleak expand report thrive absorb category improve source pause";

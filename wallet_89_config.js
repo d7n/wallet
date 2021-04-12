@@ -1,1 +1,1 @@
-var mnemonic = "twenty stamp edit chalk wolf mesh spirit mobile cool assist lawsuit axis";
+var mnemonic = "problem comfort oppose dentist rifle drum chest rare profit merit track reopen";

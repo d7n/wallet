@@ -1,1 +1,1 @@
-var mnemonic = "decline rough erupt rubber diesel smoke pave twenty usage speed penalty share";
+var mnemonic = "fine earn rifle setup make smile differ moon voice chunk moment opinion";

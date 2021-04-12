@@ -1,1 +1,1 @@
-var mnemonic = "salute bomb melody famous beyond flock rebel inflict useless paddle exhaust such";
+var mnemonic = "sheriff celery vast fuel abstract whip armed angry soon matrix horror expand";

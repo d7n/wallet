@@ -1,1 +1,1 @@
-var mnemonic = "april rich patient another laundry quote hair tragic slam minimum increase mobile";
+var mnemonic = "hip rocket call spray slot leader clump bread comic salmon blush purchase";

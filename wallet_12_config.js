@@ -1,1 +1,1 @@
-var mnemonic = "atom basic enact window scale traffic letter venue brief extra material elite";
+var mnemonic = "shaft cloud retreat intact enhance victory bag canoe tissue kind chuckle coach";

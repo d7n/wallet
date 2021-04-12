@@ -1,1 +1,1 @@
-var mnemonic = "pattern capable total basket april parade harvest muscle chunk earth idea gate";
+var mnemonic = "lobster report educate improve choice dune level client town argue embody soda";

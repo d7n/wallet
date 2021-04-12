@@ -1,1 +1,1 @@
-var mnemonic = "essence impose keen endless where grape galaxy diary kick entry cream slogan";
+var mnemonic = "seed steel inmate betray lunar boss clean crew submit game loud undo";

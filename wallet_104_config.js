@@ -1,1 +1,1 @@
-var mnemonic = "napkin absorb false slogan exercise situate city error husband draft inspire surround";
+var mnemonic = "pool blossom ring cream inflict item exchange gown lava else design acid";

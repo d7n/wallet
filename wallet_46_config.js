@@ -1,1 +1,1 @@
-var mnemonic = "digital salute toddler act enact escape injury blame voice mother dizzy end";
+var mnemonic = "grief net sting patient saddle horse cabin remain people bulk theory awful";

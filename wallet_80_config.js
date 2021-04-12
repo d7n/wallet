@@ -1,1 +1,1 @@
-var mnemonic = "left physical mushroom point have old smart wide stage trophy wave must";
+var mnemonic = "light canvas smoke fine image census add alcohol obscure puppy holiday river";

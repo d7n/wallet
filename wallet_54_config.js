@@ -1,1 +1,1 @@
-var mnemonic = "sport climb half battle double fire crater seed outer million beauty engine";
+var mnemonic = "master invest bamboo shed custom clean forest want pigeon sell must seat";
