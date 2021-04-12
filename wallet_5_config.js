@@ -1,1 +1,1 @@
-var mnemonic = "athlete trash decline uniform grass average tide dry brave width island attitude";
+var mnemonic = "donor ride grocery column satisfy antenna cause hurry success behave turtle enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "surround gadget talent lazy antenna add bracket relief rack appear hockey rotate";
+var mnemonic = "corn wolf yellow document siren kiss feed such wing series wrist diary";

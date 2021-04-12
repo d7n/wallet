@@ -1,1 +1,1 @@
-var mnemonic = "holiday youth legal flock provide abstract useful moral topple plug clump help";
+var mnemonic = "canvas rapid mix jeans detail unit clump blast idle walk mail wrap";

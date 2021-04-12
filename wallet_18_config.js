@@ -1,1 +1,1 @@
-var mnemonic = "slab grass raw swim identify apology world chase when spoil family other";
+var mnemonic = "bicycle tray elder disagree monster speak display answer sick right lady base";

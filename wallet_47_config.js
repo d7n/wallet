@@ -1,1 +1,1 @@
-var mnemonic = "auto weather sibling uncle govern broken beach above blanket gaze chimney regret";
+var mnemonic = "old beef despair punch surprise south convince jar faculty need kangaroo kid";

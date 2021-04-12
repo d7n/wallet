@@ -1,1 +1,1 @@
-var mnemonic = "update rice heavy usage cloth seven install want guitar zoo fragile mom";
+var mnemonic = "involve clog govern mushroom vacuum vibrant catalog about garment tag luxury stock";

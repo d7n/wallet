@@ -1,1 +1,1 @@
-var mnemonic = "glimpse weird arm solar alcohol snack nothing poverty blame stable mercy assume";
+var mnemonic = "rubber rookie hurt rival uncover solution pelican empty domain struggle desert lecture";

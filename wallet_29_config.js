@@ -1,1 +1,1 @@
-var mnemonic = "blind bind pledge urban always joy harbor huge hollow cloud mountain skill";
+var mnemonic = "summer provide puzzle acquire differ romance claim pen lens apart virtual mind";

@@ -1,1 +1,1 @@
-var mnemonic = "various barely wage property salad cupboard opera way art enforce system hedgehog";
+var mnemonic = "dad photo ethics girl screen castle member social put clog soup suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "list confirm wear connect poem adapt spring march time guess damp expose";
+var mnemonic = "casino argue crush core chapter civil eyebrow private minor stumble alter square";

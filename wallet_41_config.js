@@ -1,1 +1,1 @@
-var mnemonic = "solid protect patient midnight fat eye clip vote push secret good uniform";
+var mnemonic = "pipe devote lunch royal zebra sign correct entire exotic marble card orange";

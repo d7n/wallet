@@ -1,1 +1,1 @@
-var mnemonic = "meadow hybrid fog typical left nurse labor tell inform history world image";
+var mnemonic = "poem umbrella sting deposit seat sad snow negative slogan ozone surround mind";

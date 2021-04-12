@@ -1,1 +1,1 @@
-var mnemonic = "energy limit skin damp kind tiny visit around balcony universe fringe ridge";
+var mnemonic = "airport move grow shallow fall jazz traffic force fork luxury dirt object";

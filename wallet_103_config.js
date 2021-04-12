@@ -1,1 +1,1 @@
-var mnemonic = "mind add lawsuit dizzy audit much piece angle copper unable bulb fence";
+var mnemonic = "idle betray ski welcome region quick old puppy crucial renew worry frown";

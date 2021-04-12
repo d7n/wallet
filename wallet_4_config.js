@@ -1,1 +1,1 @@
-var mnemonic = "glad nice lend face load spread cherry slide emerge easily all bonus";
+var mnemonic = "excuse jacket phrase ill chief vote gas acquire define stand shoot vanish";

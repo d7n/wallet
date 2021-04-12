@@ -1,1 +1,1 @@
-var mnemonic = "alpha produce zone ecology exile sun document viable brick tennis jump shaft";
+var mnemonic = "obey ski twelve keen balcony actual daring dad raven transfer staff stamp";

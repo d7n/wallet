@@ -1,1 +1,1 @@
-var mnemonic = "accuse love talk belt hamster aisle song prefer music dynamic virtual ribbon";
+var mnemonic = "retire palm slam pass giraffe make leader repair decline stable milk bind";

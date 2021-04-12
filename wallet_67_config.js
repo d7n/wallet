@@ -1,1 +1,1 @@
-var mnemonic = "tray once apology fuel whisper page chest sleep leisure meat jar disease";
+var mnemonic = "property wealth embody bounce decide donkey pluck often acoustic again shuffle input";

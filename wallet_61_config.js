@@ -1,1 +1,1 @@
-var mnemonic = "ten boss alcohol scene cushion phone oppose gift rocket adult basket ugly";
+var mnemonic = "share toilet mercy other orchard dizzy evoke team company buyer enjoy upset";

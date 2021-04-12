@@ -1,1 +1,1 @@
-var mnemonic = "gesture vital super code pull sunset shop maze order choose lucky bridge";
+var mnemonic = "fire modify turn acoustic refuse beyond average ostrich letter wood banner omit";

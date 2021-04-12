@@ -1,1 +1,1 @@
-var mnemonic = "example brown air brick mosquito prosper pistol bean cheap work pear wrong";
+var mnemonic = "gloom what wrap subject whisper auction kangaroo yellow brush end place van";

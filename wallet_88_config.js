@@ -1,1 +1,1 @@
-var mnemonic = "video life health useful hurdle solar gasp fish enhance urge year change";
+var mnemonic = "guitar jacket much raise dish rally thrive boost idle glare oil beach";

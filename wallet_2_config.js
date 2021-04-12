@@ -1,1 +1,1 @@
-var mnemonic = "key mind exotic track solar vacant horn woman armed release afford steak";
+var mnemonic = "inhale fragile rhythm rubber blade produce apology near only enter enemy affair";

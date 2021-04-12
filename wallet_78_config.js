@@ -1,1 +1,1 @@
-var mnemonic = "trouble napkin moral nasty spread december vague reason crunch bless wash supreme";
+var mnemonic = "lift popular swift slide love share quit figure waste credit laundry dad";

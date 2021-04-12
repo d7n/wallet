@@ -1,1 +1,1 @@
-var mnemonic = "bounce blush page pink city rabbit width weapon panther settle oval maple";
+var mnemonic = "rose stadium false arctic trim olympic jungle coyote sense can game dismiss";

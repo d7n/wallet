@@ -1,1 +1,1 @@
-var mnemonic = "nice snap another thing thing dynamic element code twin night luxury good";
+var mnemonic = "have such obscure legend gaze fork ecology coast uncover weird case clay";

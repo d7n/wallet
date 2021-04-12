@@ -1,1 +1,1 @@
-var mnemonic = "story inflict digital ancient hip limit gauge border retire dream wolf august";
+var mnemonic = "parade frequent robot punch believe boy sail garlic chronic admit enroll flight";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion finger middle sword tobacco kidney element measure identify quit drill post";
+var mnemonic = "horse chunk baby uncover custom orange shrug emerge beyond walk buzz two";

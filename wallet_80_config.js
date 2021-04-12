@@ -1,1 +1,1 @@
-var mnemonic = "main crystal hair peace pioneer social awake term chase harvest lab bench";
+var mnemonic = "inquiry vintage husband member inmate easy exercise awake educate huge follow other";

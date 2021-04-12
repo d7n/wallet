@@ -1,1 +1,1 @@
-var mnemonic = "drip gift human position honey where device congress helmet nut battle version";
+var mnemonic = "kingdom reason earth marriage page license fold barrel exercise decorate foam what";

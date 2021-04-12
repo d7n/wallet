@@ -1,1 +1,1 @@
-var mnemonic = "pet vote sauce embark fatigue fiction crew city tragic fiscal betray ritual";
+var mnemonic = "drive marriage true uphold sword lady any siren raven actress sick genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle bubble near shoe earth pause midnight dash assist pave flag render";
+var mnemonic = "senior rotate welcome wood family urban figure mechanic swing pause model butter";

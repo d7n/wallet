@@ -1,1 +1,1 @@
-var mnemonic = "method mirror tunnel salute sport sad attend depth zero then glow combine";
+var mnemonic = "hip cabin choose argue crystal reopen flee sing inch approve chaos chief";

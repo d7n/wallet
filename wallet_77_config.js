@@ -1,1 +1,1 @@
-var mnemonic = "comic depart prefer become crime carbon super entire pipe bar electric female";
+var mnemonic = "retire lamp town digital zebra injury board wave judge drastic address diamond";

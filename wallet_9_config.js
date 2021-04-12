@@ -1,1 +1,1 @@
-var mnemonic = "detail raven leg suspect walk margin assist lemon ancient correct arrange monitor";
+var mnemonic = "gap service reunion cousin blanket tenant uncover urge crisp cram where flash";

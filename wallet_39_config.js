@@ -1,1 +1,1 @@
-var mnemonic = "equip nice crucial join mind people notable rather hand cave pelican buzz";
+var mnemonic = "target access below health seek cattle arrive tail useful entire amused large";

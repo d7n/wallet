@@ -1,1 +1,1 @@
-var mnemonic = "they sword aim swap bless cabbage orchard sugar gold beauty toward gun";
+var mnemonic = "island liar purpose biology friend tourist argue cost auction fan dawn scorpion";

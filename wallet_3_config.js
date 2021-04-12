@@ -1,1 +1,1 @@
-var mnemonic = "this define glory apple pear excess divert rib brand involve firm vacant";
+var mnemonic = "heavy account sign gallery wasp garden enact sail shrimp delay remember dash";

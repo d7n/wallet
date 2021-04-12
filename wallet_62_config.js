@@ -1,1 +1,1 @@
-var mnemonic = "year cable spare winner region hour base current rescue please cluster lobster";
+var mnemonic = "math special shop slice size remove scrub throw canvas ostrich broccoli much";

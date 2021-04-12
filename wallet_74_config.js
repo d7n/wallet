@@ -1,1 +1,1 @@
-var mnemonic = "clutch erase climb view duck vocal violin elder demise seek garage crater";
+var mnemonic = "proud face perfect fantasy exclude deputy defy sauce fork thank pig you";

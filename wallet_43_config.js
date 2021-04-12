@@ -1,1 +1,1 @@
-var mnemonic = "wonder thunder trophy vendor patrol success lab fine grape apple month observe";
+var mnemonic = "eagle harbor nasty cost soup satoshi armed wood humble regret cart pink";

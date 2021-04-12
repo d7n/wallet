@@ -1,1 +1,1 @@
-var mnemonic = "jacket slender wheel uniform anxiety home fiber focus display drill cloud rather";
+var mnemonic = "emotion split kiss host mom margin travel dwarf subway illegal left humor";

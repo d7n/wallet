@@ -1,1 +1,1 @@
-var mnemonic = "match laugh youth foam waste involve banana anger cube town olympic stage";
+var mnemonic = "rotate type vibrant near abstract disorder risk female shell glue topple wonder";

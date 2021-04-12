@@ -1,1 +1,1 @@
-var mnemonic = "champion salt voyage chase put flush fiber smooth round gesture discover fix";
+var mnemonic = "quote fiction barrel brand milk tag hat train venture gas village educate";

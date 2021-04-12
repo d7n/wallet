@@ -1,1 +1,1 @@
-var mnemonic = "trend romance access bid lemon utility profit flash torch possible case resist";
+var mnemonic = "predict enact toast burst zone economy own uphold crumble valve lift master";

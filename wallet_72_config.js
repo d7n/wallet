@@ -1,1 +1,1 @@
-var mnemonic = "ostrich coffee planet inhale tray zoo team over family again finger olive";
+var mnemonic = "banner truth grocery peace book hamster angle soap bike parrot doctor skate";

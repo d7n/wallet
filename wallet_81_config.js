@@ -1,1 +1,1 @@
-var mnemonic = "inner garage gorilla coast icon glimpse galaxy weekend candy primary world figure";
+var mnemonic = "submit system peasant panel rhythm until dance embrace convince urge grit decline";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate theory empty club daring gate erase head amount coyote razor coconut";
+var mnemonic = "choice usual tail danger cost elegant shove black security result destroy bulb";

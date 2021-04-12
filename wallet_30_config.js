@@ -1,1 +1,1 @@
-var mnemonic = "pottery orphan climb canal find state fresh crucial measure cross nephew exclude";
+var mnemonic = "risk squirrel now sadness parrot front mushroom advance maximum wide weird phrase";

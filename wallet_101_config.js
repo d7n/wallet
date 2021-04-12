@@ -1,1 +1,1 @@
-var mnemonic = "whip float note elevator raccoon evolve example calm broccoli excess minute topple";
+var mnemonic = "mass talent genre sadness blue acoustic stand virtual you hero ribbon eager";

@@ -1,1 +1,1 @@
-var mnemonic = "deny security gesture hockey van critic grape brother cruel flag garlic involve";
+var mnemonic = "exile nature sense skirt have erase impose clap super sense awkward shiver";

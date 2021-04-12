@@ -1,1 +1,1 @@
-var mnemonic = "garlic ranch then syrup jar whisper summer fall rice steel ghost surface";
+var mnemonic = "direct frown matter napkin meadow fuel raw pepper tuition over view minute";

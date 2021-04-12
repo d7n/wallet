@@ -1,1 +1,1 @@
-var mnemonic = "panic road script render spoil call kangaroo surge debate neglect punch pulse";
+var mnemonic = "oxygen glare hazard carpet simple opinion harvest seek firm hospital squirrel dignity";

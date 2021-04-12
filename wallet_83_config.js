@@ -1,1 +1,1 @@
-var mnemonic = "bridge helmet laptop panda health nice pizza main rare lemon behave educate";
+var mnemonic = "object include amateur umbrella lock urban turn purchase double life ghost feel";

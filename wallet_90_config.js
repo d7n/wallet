@@ -1,1 +1,1 @@
-var mnemonic = "anchor motion disease split maid guide spider discover cart suspect boil bunker";
+var mnemonic = "call jacket special sudden limb eye crouch wish render describe sorry draft";

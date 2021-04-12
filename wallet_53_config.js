@@ -1,1 +1,1 @@
-var mnemonic = "excite invest business ahead survey seat orange fever state brass bamboo task";
+var mnemonic = "town need used alone escape half insane river fruit invest news outside";

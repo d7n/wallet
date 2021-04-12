@@ -1,1 +1,1 @@
-var mnemonic = "layer good nature gym nuclear ahead wrong include parent rabbit answer robot";
+var mnemonic = "point gentle sail cluster rug behave adjust drill yard trial away town";

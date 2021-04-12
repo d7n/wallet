@@ -1,1 +1,1 @@
-var mnemonic = "issue manual panda vendor breeze area teach focus lyrics wine charge uncle";
+var mnemonic = "lyrics twist vote kingdom solution hip diagram arrest clump tomorrow flush monitor";

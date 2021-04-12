@@ -1,1 +1,1 @@
-var mnemonic = "butter cushion predict rebel reject when leopard volume total identify glove tape";
+var mnemonic = "negative trap focus patient dizzy situate potato post shield fly choice coast";

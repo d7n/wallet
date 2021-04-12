@@ -1,1 +1,1 @@
-var mnemonic = "print surprise response pudding humor priority betray cargo phone broom like feed";
+var mnemonic = "tilt follow force sniff dream crawl hollow hold arrest key torch usage";

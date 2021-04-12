@@ -1,1 +1,1 @@
-var mnemonic = "canal health level reflect slight upgrade morning club sword trash clinic nest";
+var mnemonic = "burger current cousin kangaroo gentle govern notice arrive canyon water age identify";

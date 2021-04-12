@@ -1,1 +1,1 @@
-var mnemonic = "stomach powder leisure moment assume able advance parrot brain diagram hungry tired";
+var mnemonic = "turkey annual include bread outdoor spice orchard trust legend awful rich mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "debate element school obscure snow grit name blade critic vibrant debris tourist";
+var mnemonic = "change cinnamon kiss pizza supply trumpet disease age matter acoustic this unable";

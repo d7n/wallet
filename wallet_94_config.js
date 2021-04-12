@@ -1,1 +1,1 @@
-var mnemonic = "alley chat race ozone display urge hat screen stick scatter else buyer";
+var mnemonic = "increase story retire gather pull elephant pyramid merge firm voyage hip off";

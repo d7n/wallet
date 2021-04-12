@@ -1,1 +1,1 @@
-var mnemonic = "eight hobby usage raw spray allow wing mansion put total goddess color";
+var mnemonic = "ripple fee bomb evil girl border useless filter sword success try neck";

@@ -1,1 +1,1 @@
-var mnemonic = "spike canoe doll symptom brave start man blood castle drill sick pupil";
+var mnemonic = "adjust syrup bind illness despair rapid school burst bronze virus monitor cute";

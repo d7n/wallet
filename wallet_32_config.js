@@ -1,1 +1,1 @@
-var mnemonic = "table foot february receive bacon salon magic faith memory basic tomato birth";
+var mnemonic = "recycle library liberty all rich quick frequent speak cabin crop hire boat";

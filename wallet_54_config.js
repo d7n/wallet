@@ -1,1 +1,1 @@
-var mnemonic = "glide member resist bracket dog tortoise dignity orient snow dice carpet ship";
+var mnemonic = "settle group time ranch renew boy lyrics host palace burst prevent pet";

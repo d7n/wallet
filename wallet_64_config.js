@@ -1,1 +1,1 @@
-var mnemonic = "season piece birth visit outside ankle solar aspect gloom autumn uncover unfair";
+var mnemonic = "pool bracket violin script fence half kind economy glove soul draw word";

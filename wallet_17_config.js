@@ -1,1 +1,1 @@
-var mnemonic = "tool finger surprise arctic mom demise coyote saddle sugar hospital advice crash";
+var mnemonic = "ceiling word over crouch edge amazing math survey like alter clay rabbit";

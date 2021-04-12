@@ -1,1 +1,1 @@
-var mnemonic = "toward swamp ancient faculty lyrics motor math device age wrist father derive";
+var mnemonic = "describe expire enrich clown chronic inject tree hunt clap giraffe help maximum";

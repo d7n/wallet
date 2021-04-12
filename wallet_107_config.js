@@ -1,1 +1,1 @@
-var mnemonic = "steel service high cash pact cave scene stem width one scare imitate";
+var mnemonic = "village useless kangaroo dose stairs palace issue swift second vibrant collect skate";

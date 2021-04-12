@@ -1,1 +1,1 @@
-var mnemonic = "unknown fringe hen foam expect umbrella sing enable second fence sad symptom";
+var mnemonic = "never pistol salon learn ignore pilot ill lecture page clock leisure punch";

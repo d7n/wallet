@@ -1,1 +1,1 @@
-var mnemonic = "code drum fit blush fence bulb boy quantum stand donate ugly brick";
+var mnemonic = "boil item hockey lobster inhale tunnel auction visual clever glimpse trial trick";

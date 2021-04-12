@@ -1,1 +1,1 @@
-var mnemonic = "half shoot social piece dinosaur era film party situate piano issue dismiss";
+var mnemonic = "then pelican employ game force soft salmon side tone style boat arrow";

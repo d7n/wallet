@@ -1,1 +1,1 @@
-var mnemonic = "soldier aware pipe razor other decline volcano globe kite balcony insane science";
+var mnemonic = "price twelve ball sheriff switch east spread brief girl hip pig gun";

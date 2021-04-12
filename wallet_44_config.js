@@ -1,1 +1,1 @@
-var mnemonic = "region taste bitter arrive kite wing obtain mobile parent scare stone sweet";
+var mnemonic = "earn census depart lucky number source point habit diary stereo carry brown";

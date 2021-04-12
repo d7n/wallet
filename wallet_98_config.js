@@ -1,1 +1,1 @@
-var mnemonic = "leisure relief salt sport master remember ramp baby vital property hat loan";
+var mnemonic = "infant humble knee twelve young urge mean fix open age piano toe";

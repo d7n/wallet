@@ -1,1 +1,1 @@
-var mnemonic = "melody habit disagree spawn strike fetch innocent that burst result resist punch";
+var mnemonic = "task off school sheriff payment blur hawk rifle alarm dinosaur section young";

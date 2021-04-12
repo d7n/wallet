@@ -1,1 +1,1 @@
-var mnemonic = "resemble device ability ready spring sound student area wedding rescue seek faculty";
+var mnemonic = "surface used weather happy crazy brush naive vacuum addict frog kite fire";

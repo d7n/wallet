@@ -1,1 +1,1 @@
-var mnemonic = "stable lawn flash auction shadow dilemma they congress day system receive bid";
+var mnemonic = "tennis inmate brown razor armor breeze there awesome famous earn resist eyebrow";

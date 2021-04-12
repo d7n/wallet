@@ -1,1 +1,1 @@
-var mnemonic = "next essence wine stairs pelican diamond kitten obvious fabric super receive survey";
+var mnemonic = "farm knock spring guide text dizzy cross payment language label practice race";

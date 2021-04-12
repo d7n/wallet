@@ -1,1 +1,1 @@
-var mnemonic = "vapor remember tuition spend zero cry rack scene earn space plunge detail";
+var mnemonic = "amazing shiver offer scan room hair never memory goat riot practice casino";

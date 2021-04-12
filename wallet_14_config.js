@@ -1,1 +1,1 @@
-var mnemonic = "ship first area prize observe elevator leopard tag color fish harvest squirrel";
+var mnemonic = "diamond connect breeze giraffe divorce crew burden dad satisfy doctor grab deputy";

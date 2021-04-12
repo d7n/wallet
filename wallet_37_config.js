@@ -1,1 +1,1 @@
-var mnemonic = "dismiss soap ridge vital tackle slogan around adult blood scissors apology merge";
+var mnemonic = "pencil essence consider violin grab canal mystery develop panther dog skill nuclear";
