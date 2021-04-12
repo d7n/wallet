@@ -1,1 +1,1 @@
-var mnemonic = "lecture cram embody major crystal story able over decide camp solution doctor";
+var mnemonic = "ripple whisper quarter you rookie push slice quiz concert reunion worth turtle";

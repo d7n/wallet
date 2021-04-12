@@ -1,1 +1,1 @@
-var mnemonic = "picture clay nothing leaf spray observe escape hat beef december now affair";
+var mnemonic = "usage void naive labor angry near common skate seven intact before forest";

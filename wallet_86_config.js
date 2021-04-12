@@ -1,1 +1,1 @@
-var mnemonic = "prosper theory crane slam gentle good print eye jeans duty scheme harvest";
+var mnemonic = "glow travel width sight exhibit ahead notice stamp melody crisp whale skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "cute ask august correct hello duty language swear intact congress labor slow";
+var mnemonic = "tool clap wheel aspect shove jungle outer oak quick input menu lion";

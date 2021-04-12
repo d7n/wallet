@@ -1,1 +1,1 @@
-var mnemonic = "enough receive scene wrestle naive execute visit arrange asset trash change cover";
+var mnemonic = "essence canyon ecology police service fame jewel double outer virus potato door";

@@ -1,1 +1,1 @@
-var mnemonic = "razor letter alert actual circle build suggest divorce siren right seek mean";
+var mnemonic = "narrow move awful hollow disagree survey artwork embark truly ride cactus bench";

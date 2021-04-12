@@ -1,1 +1,1 @@
-var mnemonic = "apology clean noodle daring tiny afford economy advance obey town stairs skull";
+var mnemonic = "fit today market marble brave gentle puzzle either orient rigid ten armed";

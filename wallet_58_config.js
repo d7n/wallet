@@ -1,1 +1,1 @@
-var mnemonic = "sun rent now two arrest black firm income embrace furnace observe dress";
+var mnemonic = "august alone return coral pull reunion board drip story ribbon hat pistol";

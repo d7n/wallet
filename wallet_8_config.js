@@ -1,1 +1,1 @@
-var mnemonic = "enhance rather slice couple gaze real rally brave minor excite issue pause";
+var mnemonic = "swallow umbrella insane snow that blame kick lonely enemy razor circle comfort";

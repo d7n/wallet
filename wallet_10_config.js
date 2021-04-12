@@ -1,1 +1,1 @@
-var mnemonic = "toss village account shrug edit brain glide achieve two trip large window";
+var mnemonic = "miss good tired wool minor clump seminar agent play cup dawn lunch";

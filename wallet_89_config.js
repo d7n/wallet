@@ -1,1 +1,1 @@
-var mnemonic = "lock sadness divert vote wedding gown change into tackle view pistol fatigue";
+var mnemonic = "chase earn length board piano hungry maid melody canoe ring youth social";

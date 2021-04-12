@@ -1,1 +1,1 @@
-var mnemonic = "cross frozen spy divert open chicken gossip response perfect scorpion ride income";
+var mnemonic = "cool sick portion because blanket saddle skill federal depart chief satisfy glow";

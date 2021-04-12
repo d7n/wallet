@@ -1,1 +1,1 @@
-var mnemonic = "congress tackle duty usual jazz fix estate cheese message provide umbrella wasp";
+var mnemonic = "vehicle must corn term bridge ghost eternal noodle original rack rocket blossom";

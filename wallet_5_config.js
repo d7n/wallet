@@ -1,1 +1,1 @@
-var mnemonic = "vacant make common deposit glove crazy dinosaur duty other globe napkin virtual";
+var mnemonic = "horse shop lawsuit edit faith sting van decline dish cart build clever";

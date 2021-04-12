@@ -1,1 +1,1 @@
-var mnemonic = "hurry rack prefer rice decrease comfort sick donate ability fix barrel ripple";
+var mnemonic = "invite shoe rude insane endless breeze improve slab armed jacket also theme";

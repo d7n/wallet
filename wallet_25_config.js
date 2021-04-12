@@ -1,1 +1,1 @@
-var mnemonic = "major view dose adapt wedding loan common master wealth stay include kit";
+var mnemonic = "eight cost jar strong release follow crowd usual sunny parrot someone common";

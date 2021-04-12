@@ -1,1 +1,1 @@
-var mnemonic = "regret flee wage arctic silent enable luggage glass abuse garlic learn bird";
+var mnemonic = "remind news office program drill man else gather jazz response lock worth";

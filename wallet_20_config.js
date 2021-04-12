@@ -1,1 +1,1 @@
-var mnemonic = "airport scissors wide trade flame black glare leave deny drop recipe athlete";
+var mnemonic = "blush bunker fine two stamp envelope educate pig pony diesel seat energy";

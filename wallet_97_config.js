@@ -1,1 +1,1 @@
-var mnemonic = "segment child produce subway setup lonely butter mask attend matter base stage";
+var mnemonic = "define design during physical daring blur trick violin planet artefact select voice";

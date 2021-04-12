@@ -1,1 +1,1 @@
-var mnemonic = "jeans merry other risk security forward clinic lucky solar hat alter brass";
+var mnemonic = "bamboo lend snack toe away guess circle approve liar dad rate proud";

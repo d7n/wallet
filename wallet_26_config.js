@@ -1,1 +1,1 @@
-var mnemonic = "cook just grab rocket recycle surge regret gown smile scrap gown cactus";
+var mnemonic = "video unlock quit clarify stone science mother crucial orient utility forum tube";

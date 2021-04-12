@@ -1,1 +1,1 @@
-var mnemonic = "tank person kit curtain unaware divert banner crew fiber same belt episode";
+var mnemonic = "wear once north young master jewel shaft runway cheese area crystal baby";

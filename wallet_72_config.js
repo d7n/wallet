@@ -1,1 +1,1 @@
-var mnemonic = "menu warrior space pact fence sniff feature latin under inside design confirm";
+var mnemonic = "room voice phone sea tribe flame twist depth tool actor arena engage";

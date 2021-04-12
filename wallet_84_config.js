@@ -1,1 +1,1 @@
-var mnemonic = "panel position rich retire female total farm parent just click ostrich dress";
+var mnemonic = "sleep border gold river bicycle gaze kitchen favorite idea return fit valley";

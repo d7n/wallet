@@ -1,1 +1,1 @@
-var mnemonic = "human sauce mammal episode federal estate improve cat sad cinnamon square wife";
+var mnemonic = "fan whisper reflect right battle ramp stage can icon mechanic energy family";

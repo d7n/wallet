@@ -1,1 +1,1 @@
-var mnemonic = "trash install swarm canyon blind sibling remember muffin merry brain runway gloom";
+var mnemonic = "social glimpse pencil shadow better soft kitten document wreck better vendor defy";

@@ -1,1 +1,1 @@
-var mnemonic = "demise express cupboard garlic oil winner divorce parrot then split ensure dry";
+var mnemonic = "sheriff march claw inform network polar maid seminar pitch dice stadium wasp";

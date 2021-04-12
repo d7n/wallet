@@ -1,1 +1,1 @@
-var mnemonic = "person sphere upon riot over squirrel lesson injury sister daring property faint";
+var mnemonic = "index volcano embark age pretty valid tool siege oval able fine veteran";

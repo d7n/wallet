@@ -1,1 +1,1 @@
-var mnemonic = "rough response truth cluster gorilla move top hair palace region leisure coach";
+var mnemonic = "produce wage act advance vessel modify drive wall sniff album then staff";

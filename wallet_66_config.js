@@ -1,1 +1,1 @@
-var mnemonic = "horn tongue wood oven spend skin sense print make believe flock silly";
+var mnemonic = "rail come rain jewel brass room spice symptom assault garlic top sister";

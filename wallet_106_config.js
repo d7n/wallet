@@ -1,1 +1,1 @@
-var mnemonic = "gain casino afford fold volume wealth slide critic letter evil couch wife";
+var mnemonic = "grant happy stadium left inmate leave awesome solid scorpion parade return flower";

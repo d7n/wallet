@@ -1,1 +1,1 @@
-var mnemonic = "drastic gain arrive outside faculty holiday awful worth lemon wasp reform music";
+var mnemonic = "section coyote october exercise funny tuna orchard relief unveil road lecture minor";

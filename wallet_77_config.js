@@ -1,1 +1,1 @@
-var mnemonic = "orbit inform appear tomato cloud detail flag clock release magnet warfare trophy";
+var mnemonic = "clog pelican hazard body blood people virtual swim online turkey normal barrel";

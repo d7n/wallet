@@ -1,1 +1,1 @@
-var mnemonic = "able come remember adapt coyote merry lens purse disagree camera any spin";
+var mnemonic = "intact dawn say bone ketchup tooth very into sugar allow business excite";

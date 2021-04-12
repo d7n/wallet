@@ -1,1 +1,1 @@
-var mnemonic = "robust start where find shuffle tilt father grid thrive spoon act slender";
+var mnemonic = "lunar little sound universe about climb enroll family march drift vessel grab";

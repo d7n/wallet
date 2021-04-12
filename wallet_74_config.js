@@ -1,1 +1,1 @@
-var mnemonic = "loyal diet twelve antique sentence pond alone improve during yellow thunder grocery";
+var mnemonic = "prefer marine unveil column obtain flush inherit gospel lion system hope bitter";

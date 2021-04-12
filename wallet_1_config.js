@@ -1,1 +1,1 @@
-var mnemonic = "update decide security stamp boost pond year maple regular rural wrestle coral";
+var mnemonic = "correct elite problem annual brief brain infant depart walk alarm term razor";

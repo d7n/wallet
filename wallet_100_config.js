@@ -1,1 +1,1 @@
-var mnemonic = "length spirit okay once duty often catch mosquito promote olympic pause return";
+var mnemonic = "solid float exist smoke sustain clutch income relief rate crime someone smart";

@@ -1,1 +1,1 @@
-var mnemonic = "engage broom kitten track pizza income ethics brass diary calm empower guide";
+var mnemonic = "express elevator polar like mammal long slender seed taste truly gesture column";

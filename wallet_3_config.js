@@ -1,1 +1,1 @@
-var mnemonic = "hard attitude want nature cancel coin chair picture foster sudden street wolf";
+var mnemonic = "aunt any pluck wrestle police sock raven famous pen hand end rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics wasp toward rural budget rib need attract jump trigger borrow shallow";
+var mnemonic = "dinosaur nothing earth account access swamp dose earth myth muffin mechanic soap";

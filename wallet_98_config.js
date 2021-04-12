@@ -1,1 +1,1 @@
-var mnemonic = "undo claim expect math size into local tube moral tribe punch dial";
+var mnemonic = "media dice toast convince march gain dose suspect seed only much repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "mule fun palace reveal foster success salute only match nothing profit snap";
+var mnemonic = "chronic three relief multiply dawn tired cloth link wish settle random burden";

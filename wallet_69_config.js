@@ -1,1 +1,1 @@
-var mnemonic = "grab ethics parrot coffee cluster version wrong reform tissue electric tape fence";
+var mnemonic = "post team rubber agent loyal obey dial indicate artwork broccoli depart produce";

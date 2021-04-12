@@ -1,1 +1,1 @@
-var mnemonic = "lounge travel stamp pistol school pig awake celery valve tumble half nature";
+var mnemonic = "vague shaft end laundry pudding ankle noble romance elite evil adult bronze";

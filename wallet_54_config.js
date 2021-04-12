@@ -1,1 +1,1 @@
-var mnemonic = "slight become wool alpha fork mechanic square client edge inject december violin";
+var mnemonic = "cause initial wool bird knock obvious journey slush bean pond width market";

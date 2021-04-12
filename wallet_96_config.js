@@ -1,1 +1,1 @@
-var mnemonic = "fancy trap economy burst mansion lobster oil banner educate dynamic demise lava";
+var mnemonic = "grass cupboard lounge rice receive hurry chief mosquito great attend exercise benefit";

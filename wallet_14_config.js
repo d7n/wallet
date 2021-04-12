@@ -1,1 +1,1 @@
-var mnemonic = "reduce crash gift awkward catalog thank bachelor match orchard cactus walnut mixture";
+var mnemonic = "million smooth ride library leisure crowd rifle donkey future own crazy term";

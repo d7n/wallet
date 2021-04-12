@@ -1,1 +1,1 @@
-var mnemonic = "host window upset reduce cherry health scorpion prize outside dial grief coin";
+var mnemonic = "rose prefer emerge erupt ankle evil curtain artwork birth original canoe palace";

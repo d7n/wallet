@@ -1,1 +1,1 @@
-var mnemonic = "eager stone oil path raise opera shield powder feed practice avoid vivid";
+var mnemonic = "moment cloth raccoon illness swallow tape please panda industry occur airport lesson";

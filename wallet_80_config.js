@@ -1,1 +1,1 @@
-var mnemonic = "excuse rose fun market curious crater erosion verb hello battle regret park";
+var mnemonic = "arrive nature charge fat lamp acid month ladder emerge image unaware spider";

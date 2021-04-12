@@ -1,1 +1,1 @@
-var mnemonic = "click steak engine invest prison useless example skate hover peace flush auto";
+var mnemonic = "crop silver exile either remove edit crew bike flight observe invest ostrich";

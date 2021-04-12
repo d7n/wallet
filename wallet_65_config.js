@@ -1,1 +1,1 @@
-var mnemonic = "cruel sand morning cycle idle swarm innocent nephew zone glide capable purse";
+var mnemonic = "border coffee regular chair mass velvet loan monster square math cable gentle";

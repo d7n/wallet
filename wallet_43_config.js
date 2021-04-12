@@ -1,1 +1,1 @@
-var mnemonic = "buyer place enact drip essay town artist search subject laptop broken idle";
+var mnemonic = "arch lunch limit tool cushion sister submit void motion try frame dash";

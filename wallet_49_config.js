@@ -1,1 +1,1 @@
-var mnemonic = "cross top best civil rabbit struggle tooth error help horror atom spin";
+var mnemonic = "word ketchup cotton foam stamp long toe crunch fragile need wet average";

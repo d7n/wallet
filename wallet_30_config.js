@@ -1,1 +1,1 @@
-var mnemonic = "pull chaos jump bless wreck toilet piece leader genre pause rebel hub";
+var mnemonic = "level aspect differ enhance note impulse tongue wild wreck comfort enact city";

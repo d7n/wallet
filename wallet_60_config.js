@@ -1,1 +1,1 @@
-var mnemonic = "soldier insane jealous series gap comic elder bundle lens fault trade hour";
+var mnemonic = "broken dash family rely elevator burger stove flock congress design office interest";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture auction violin thrive enjoy clever tackle yellow science way twist color";
+var mnemonic = "alcohol inner valid blood cannon awkward fire lake reopen spare cousin enemy";

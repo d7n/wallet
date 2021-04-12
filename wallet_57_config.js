@@ -1,1 +1,1 @@
-var mnemonic = "arctic man nice lens spend behind exclude dynamic ability soap grocery praise";
+var mnemonic = "latin begin vanish monitor gauge equip memory maze worth parent accuse destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "office fat team arch sadness icon differ party phone vivid deal toe";
+var mnemonic = "social mixture vintage kiss gown effort fix kite sadness patient pioneer engine";

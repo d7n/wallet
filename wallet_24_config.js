@@ -1,1 +1,1 @@
-var mnemonic = "outdoor label staff network write hazard drama sound solid monitor debate thank";
+var mnemonic = "hundred vicious leisure quarter festival garment answer debris blossom shallow solid taxi";

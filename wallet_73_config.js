@@ -1,1 +1,1 @@
-var mnemonic = "forward cloth mosquito cabin soft flight parade maple sphere wood conduct gauge";
+var mnemonic = "daughter festival receive tobacco adjust monitor erupt shell decade umbrella dentist spider";

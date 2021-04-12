@@ -1,1 +1,1 @@
-var mnemonic = "plunge raw away silk obscure fluid able lens puzzle want horn recall";
+var mnemonic = "session festival fatal wrong agent hole dog armor grab happy all bomb";

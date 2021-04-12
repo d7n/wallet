@@ -1,1 +1,1 @@
-var mnemonic = "obvious drink shock thing coil ordinary note myself flat blade vault venue";
+var mnemonic = "hood lottery world sting parade immune position trick rebel stand grass merge";

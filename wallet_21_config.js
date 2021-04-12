@@ -1,1 +1,1 @@
-var mnemonic = "stone glove clog home invite mirror cinnamon pledge flavor raw claim inform";
+var mnemonic = "sea rule grit enable proof task witness couch rail sense thought awesome";

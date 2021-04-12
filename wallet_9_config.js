@@ -1,1 +1,1 @@
-var mnemonic = "stick unveil remain job frozen replace various tenant sunny device spice trust";
+var mnemonic = "there slogan cigar hard powder release infant empower spin fame body mouse";

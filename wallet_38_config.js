@@ -1,1 +1,1 @@
-var mnemonic = "runway chunk unaware direct learn sign metal right execute same nose trust";
+var mnemonic = "pass only scatter alley goat sand ability attitude crowd taxi love metal";

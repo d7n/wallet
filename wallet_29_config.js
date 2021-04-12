@@ -1,1 +1,1 @@
-var mnemonic = "essence vital hold tilt enhance shed off size throw goose imitate rib";
+var mnemonic = "perfect bachelor animal egg plunge share muscle draft display fashion slide build";

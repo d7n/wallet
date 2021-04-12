@@ -1,1 +1,1 @@
-var mnemonic = "lock unable balcony raven agree vessel ranch double produce combine expect climb";
+var mnemonic = "scene seed hazard maid asset select essay also knife cushion undo tube";

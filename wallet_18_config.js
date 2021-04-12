@@ -1,1 +1,1 @@
-var mnemonic = "dirt stage faint unveil orphan champion boss grace manage soldier action blur";
+var mnemonic = "demand faith swallow finger obvious brisk excuse rail salt unaware quote pull";

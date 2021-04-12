@@ -1,1 +1,1 @@
-var mnemonic = "worth people able capital fire gym marine leaf audit pattern glass pony";
+var mnemonic = "maple banana tired devote tennis cupboard device neutral royal situate leave pole";

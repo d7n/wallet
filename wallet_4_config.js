@@ -1,1 +1,1 @@
-var mnemonic = "shiver regular dragon saddle neither kind output unveil ramp six isolate warrior";
+var mnemonic = "sport parent gasp execute casino loud trumpet pulp aware slush ugly funny";

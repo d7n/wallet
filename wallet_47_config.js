@@ -1,1 +1,1 @@
-var mnemonic = "smart any citizen cradle crack tortoise reduce obscure box hobby later fresh";
+var mnemonic = "loud toilet okay zero vehicle despair sunny isolate flight hair horn castle";

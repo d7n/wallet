@@ -1,1 +1,1 @@
-var mnemonic = "hope vicious siege wage cotton toast pigeon enhance forget goat flee display";
+var mnemonic = "prize void bind sun fury supreme net mean mixture record cute flock";

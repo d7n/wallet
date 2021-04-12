@@ -1,1 +1,1 @@
-var mnemonic = "add shrimp setup glass wide fiscal napkin target poverty trust choice enforce";
+var mnemonic = "job snow shrug quiz gravity remain ivory hand punch phone dizzy airport";

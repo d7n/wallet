@@ -1,1 +1,1 @@
-var mnemonic = "daring canyon any pride width brand album deer police bulb federal half";
+var mnemonic = "image sister permit course slush twenty staff bless tower legal journey predict";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus install tackle into cradle kind trophy youth infant enrich clay urban";
+var mnemonic = "label deposit odor destroy area wave note diet saddle build dirt treat";

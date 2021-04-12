@@ -1,1 +1,1 @@
-var mnemonic = "fitness scout debris license imitate work dolphin aim toe order shrimp column";
+var mnemonic = "segment century similar stool electric ripple potato woman piano wolf early diary";

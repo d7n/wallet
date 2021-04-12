@@ -1,1 +1,1 @@
-var mnemonic = "patient learn injury enjoy arrest shiver case diary elite barely base door";
+var mnemonic = "next iron curious loop glue raise across advice galaxy slam whisper strong";

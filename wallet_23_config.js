@@ -1,1 +1,1 @@
-var mnemonic = "useful often nasty warm wisdom fantasy abstract juice couple scorpion survey jealous";
+var mnemonic = "volume bounce giggle alarm judge milk wagon pet crucial solar breeze loan";

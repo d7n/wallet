@@ -1,1 +1,1 @@
-var mnemonic = "light ensure video cabbage frame weekend elder remain author maple maze exile";
+var mnemonic = "park post power half salute giant cement mandate accident large dish tip";

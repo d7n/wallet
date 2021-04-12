@@ -1,1 +1,1 @@
-var mnemonic = "match palm sad country critic distance vapor quit agree soldier benefit arctic";
+var mnemonic = "army raven shrimp task balance adult heart delay fiction width tenant bar";

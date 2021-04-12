@@ -1,1 +1,1 @@
-var mnemonic = "stove current cheese announce upset real hat nice clever tenant donor wide";
+var mnemonic = "route dove route elevator run zoo fiber moral capital ready pen hat";

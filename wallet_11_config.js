@@ -1,1 +1,1 @@
-var mnemonic = "wheat ginger rifle casino elephant urge safe spin crawl ask deer crime";
+var mnemonic = "pilot learn cable skull enrich wish muscle fancy assist quick famous label";

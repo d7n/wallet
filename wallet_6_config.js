@@ -1,1 +1,1 @@
-var mnemonic = "shrug pool load month truly barely index ensure exist roof ketchup duck";
+var mnemonic = "decorate settle pink another knock engage invite volcano same room inch bless";

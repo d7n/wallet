@@ -1,1 +1,1 @@
-var mnemonic = "chalk glare inhale suggest parade alone flock note unfold comic unique aisle";
+var mnemonic = "embody horror inject orphan spoon laundry movie kiss oak vessel dog witness";

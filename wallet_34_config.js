@@ -1,1 +1,1 @@
-var mnemonic = "smile next bind pet approve remind human jeans delay audit proof slow";
+var mnemonic = "until robust illness door interest group vanish stairs loyal insect beef swallow";

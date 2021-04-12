@@ -1,1 +1,1 @@
-var mnemonic = "drift enrich action reunion intact fashion hedgehog glass region rather mimic tackle";
+var mnemonic = "junk air crowd across assault uphold load west amateur seminar indoor mercy";

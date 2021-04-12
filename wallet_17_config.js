@@ -1,1 +1,1 @@
-var mnemonic = "thought enforce alpha moral actual secret glass pottery enable alone body fitness";
+var mnemonic = "mercy frog next skin gown next bracket pizza call moon poem aware";

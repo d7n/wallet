@@ -1,1 +1,1 @@
-var mnemonic = "wish gallery detail grief party bulk anchor forward gown govern novel ladder";
+var mnemonic = "swallow special hedgehog monitor chapter caught clip cargo tomorrow rule divide holiday";
