@@ -1,1 +1,1 @@
-var mnemonic = "early speak unlock float multiply indicate oval impulse buyer jungle calm glance";
+var mnemonic = "boil street popular dentist arch wrestle snack balance clog weasel salad drink";

@@ -1,1 +1,1 @@
-var mnemonic = "floor outdoor weather error hammer popular rate pet devote abuse pony raw";
+var mnemonic = "upset crucial noble shrimp end forward home act borrow drastic opera firm";

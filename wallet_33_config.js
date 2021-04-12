@@ -1,1 +1,1 @@
-var mnemonic = "foil immune arch unhappy junior rice cost mass canal endless screen olive";
+var mnemonic = "benefit catch pretty swap nerve uniform bridge gallery slight vivid gallery decrease";

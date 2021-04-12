@@ -1,1 +1,1 @@
-var mnemonic = "love bamboo love magnet exotic book age apology cup head wrong language";
+var mnemonic = "dentist bamboo ordinary hurry protect income black mistake segment despair wash copper";

@@ -1,1 +1,1 @@
-var mnemonic = "onion right lounge museum client boat lend yard twelve ride settle stable";
+var mnemonic = "bulk shock awful adult climb ankle traffic evidence dutch noble athlete kingdom";

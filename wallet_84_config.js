@@ -1,1 +1,1 @@
-var mnemonic = "what satoshi oblige bronze unlock mesh denial update film sea spin survey";
+var mnemonic = "coil engage alcohol road shell universe vibrant mind reopen theme tunnel history";

@@ -1,1 +1,1 @@
-var mnemonic = "future east ignore cake body bunker window easily portion admit enroll act";
+var mnemonic = "stone nose dilemma beyond fat cluster aerobic elephant clown material shrimp nice";

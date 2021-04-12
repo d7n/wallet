@@ -1,1 +1,1 @@
-var mnemonic = "hunt inherit tilt truly smile essay quote erupt quote expand merry clarify";
+var mnemonic = "gossip normal skirt phone lecture review remain transfer kid trumpet disorder holiday";

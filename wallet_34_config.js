@@ -1,1 +1,1 @@
-var mnemonic = "symptom order danger grant child nest glad churn turkey august twice poem";
+var mnemonic = "poem police pluck picnic silver silver select tag arm slight spring wet";

@@ -1,1 +1,1 @@
-var mnemonic = "immense artwork cabin inquiry one kangaroo update stable visa rug charge gym";
+var mnemonic = "gate hope broccoli entire across melt save demand dose crash comic fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "shy digital muffin burst craft answer square garlic special private steak bind";
+var mnemonic = "art slide any steel dumb toy member train upon speak anger ribbon";

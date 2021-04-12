@@ -1,1 +1,1 @@
-var mnemonic = "dolphin camp shed outdoor sock trigger welcome lizard snack thing lens faint";
+var mnemonic = "gadget room pave color trial melt sign swim recall silk syrup yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty hair reward student gaze rapid various useless mad nose squirrel loan";
+var mnemonic = "gesture connect nice marriage recipe neglect object fox forget plug obvious buzz";

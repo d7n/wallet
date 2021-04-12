@@ -1,1 +1,1 @@
-var mnemonic = "web fun fabric among novel giant mother hamster bullet offer foam give";
+var mnemonic = "point ritual giant intact can oil seminar forum maid soon draft beauty";

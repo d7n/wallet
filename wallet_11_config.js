@@ -1,1 +1,1 @@
-var mnemonic = "panel rigid egg vague few early autumn photo goat coil design bar";
+var mnemonic = "child glue defy salad popular elbow nature transfer matrix someone provide candy";

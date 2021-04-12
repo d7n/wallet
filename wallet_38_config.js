@@ -1,1 +1,1 @@
-var mnemonic = "dwarf crime oxygen wire tooth silly stable explain exotic exact recall scatter";
+var mnemonic = "beach bean follow faint school poem certain awkward glory liar victory horror";

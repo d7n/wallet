@@ -1,1 +1,1 @@
-var mnemonic = "trend develop rhythm cousin cricket radar slim humor game casino village among";
+var mnemonic = "round farm logic boss target normal rifle vital soon insect october crunch";

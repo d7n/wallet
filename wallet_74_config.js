@@ -1,1 +1,1 @@
-var mnemonic = "glance nothing sentence song key virtual write dutch million canoe vague proof";
+var mnemonic = "narrow donor illegal edge fossil forward one carbon congress arm music educate";

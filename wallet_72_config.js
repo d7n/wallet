@@ -1,1 +1,1 @@
-var mnemonic = "utility viable ozone cube jeans column senior hunt domain hour flame purpose";
+var mnemonic = "vault excess august maze satoshi rebuild radio crane horn million seek educate";

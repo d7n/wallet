@@ -1,1 +1,1 @@
-var mnemonic = "bracket genre summer vacant gauge toilet blouse rookie also differ method memory";
+var mnemonic = "three pottery strategy tuna young student flock tornado cart inhale used office";

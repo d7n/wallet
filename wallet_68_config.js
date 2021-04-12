@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit improve success outer nation glad album middle exile eagle divorce build";
+var mnemonic = "boy shiver assist twenty meadow next brick client trick pyramid humble talent";

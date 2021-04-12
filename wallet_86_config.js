@@ -1,1 +1,1 @@
-var mnemonic = "much cave route divorce acid someone twelve omit isolate card demand month";
+var mnemonic = "kidney enough usual ramp train alcohol toddler hunt best armed erupt faint";

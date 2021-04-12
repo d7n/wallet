@@ -1,1 +1,1 @@
-var mnemonic = "tonight timber endorse hedgehog fatigue donate supply rough dismiss tomorrow play ridge";
+var mnemonic = "nominee task audit tone pencil wrist ethics kitchen snow crouch gun document";

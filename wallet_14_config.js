@@ -1,1 +1,1 @@
-var mnemonic = "script throw uncover possible apart tissue reveal chase response bleak upon ask";
+var mnemonic = "sun hockey major fossil mobile tooth purity barrel obtain dignity diamond hunt";

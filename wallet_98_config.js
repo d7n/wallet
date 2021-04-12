@@ -1,1 +1,1 @@
-var mnemonic = "old region prepare border say shy rail deposit pudding exchange kit lady";
+var mnemonic = "exercise cream entire frown lake hire inside relief slush caution double corn";

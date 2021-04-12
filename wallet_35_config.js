@@ -1,1 +1,1 @@
-var mnemonic = "purpose weekend six noise resource limit aunt divorce any ticket rule bone";
+var mnemonic = "divert believe jealous true path permit calm two physical oak output orphan";

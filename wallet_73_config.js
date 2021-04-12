@@ -1,1 +1,1 @@
-var mnemonic = "wrist pepper reduce turkey smart fluid oil wave inmate over usual time";
+var mnemonic = "grain recipe bird shoe that claim bulk easy jacket focus actress van";

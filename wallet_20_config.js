@@ -1,1 +1,1 @@
-var mnemonic = "dice enhance river crash above siege harbor version nothing point solve safe";
+var mnemonic = "measure friend possible media pistol when moment poem law gorilla duty cry";

@@ -1,1 +1,1 @@
-var mnemonic = "miss slam salt laptop zero divide sad tag kidney wash grow upper";
+var mnemonic = "human throw october mammal wild century jar gather blossom cloud fee liberty";

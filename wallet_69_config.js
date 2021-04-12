@@ -1,1 +1,1 @@
-var mnemonic = "misery swim beauty parade furnace effort climb ugly verb refuse option swift";
+var mnemonic = "elbow aim orbit basket shadow address reveal crater amazing season catch cattle";

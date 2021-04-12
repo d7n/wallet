@@ -1,1 +1,1 @@
-var mnemonic = "human balance start ten satoshi rose copper scheme marine trouble truck release";
+var mnemonic = "bright illness mouse ancient cluster enlist drastic can timber fence tube lion";

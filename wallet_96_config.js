@@ -1,1 +1,1 @@
-var mnemonic = "medal kitten tray dish artwork shy disorder young stuff often join better";
+var mnemonic = "beyond know royal hobby spring assist wisdom waste core split unusual lift";

@@ -1,1 +1,1 @@
-var mnemonic = "milk scare thought suggest piano lesson tackle fat lesson birth make employ";
+var mnemonic = "minimum magic coffee shove truck online among couple magnet domain can space";

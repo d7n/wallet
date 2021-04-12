@@ -1,1 +1,1 @@
-var mnemonic = "bean lady section fatal cart equal swallow canoe crash people bread spoon";
+var mnemonic = "office song region nut aspect oak park word grape dismiss midnight keen";

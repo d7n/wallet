@@ -1,1 +1,1 @@
-var mnemonic = "govern maximum gift flip example later wild bulb label fruit apart inflict";
+var mnemonic = "one farm slot vocal deputy tilt recall mix crisp always pepper fit";

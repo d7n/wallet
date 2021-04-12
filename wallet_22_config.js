@@ -1,1 +1,1 @@
-var mnemonic = "rib picnic say sausage pyramid merry bacon legend setup dove smoke basic";
+var mnemonic = "market inflict pepper virus avocado text rail bundle smooth destroy where neck";

@@ -1,1 +1,1 @@
-var mnemonic = "awful fan obscure prize dose employ water menu section purse hat coil";
+var mnemonic = "rack fever remind lens police merit smile alley ethics access filter cheap";

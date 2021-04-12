@@ -1,1 +1,1 @@
-var mnemonic = "distance volcano base fox flag word over bring obscure view midnight galaxy";
+var mnemonic = "ski organ random detect time perfect pull usual armor kitchen tool patch";

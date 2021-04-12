@@ -1,1 +1,1 @@
-var mnemonic = "staff pair tide paddle insane galaxy swing delay rate layer series oven";
+var mnemonic = "slam math mimic word vault warm sock sea stand entire win unable";

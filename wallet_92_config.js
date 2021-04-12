@@ -1,1 +1,1 @@
-var mnemonic = "lounge immense behave thunder open forget negative ketchup breeze cart below scout";
+var mnemonic = "lava virus panic issue capable cover square laundry decade direct sadness vehicle";

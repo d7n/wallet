@@ -1,1 +1,1 @@
-var mnemonic = "wash balance what chair super parent art panda blind trust fame improve";
+var mnemonic = "awesome broken whip worry bench visit myth modify jelly market fit blind";

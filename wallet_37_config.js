@@ -1,1 +1,1 @@
-var mnemonic = "confirm bonus effort icon valid sock ugly jump rib fluid clap will";
+var mnemonic = "toss absent floor flight coral leave mimic current struggle street consider promote";

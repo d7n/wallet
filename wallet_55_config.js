@@ -1,1 +1,1 @@
-var mnemonic = "notable shaft pond path toe suffer matrix worry empty despair angle awake";
+var mnemonic = "denial edge riot true number bunker cross hover version hunt enough pause";

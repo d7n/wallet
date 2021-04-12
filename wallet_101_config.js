@@ -1,1 +1,1 @@
-var mnemonic = "gain market crisp average delay crouch mimic skin cute tree bright opera";
+var mnemonic = "derive edit dove inform chief obtain screen accuse wrestle connect captain camp";

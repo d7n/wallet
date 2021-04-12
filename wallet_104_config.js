@@ -1,1 +1,1 @@
-var mnemonic = "sad vacant unlock enemy ghost same lend visa range island cable film";
+var mnemonic = "weird swim credit what title stone people neglect inspire hood acquire wide";

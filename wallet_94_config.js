@@ -1,1 +1,1 @@
-var mnemonic = "loop work grief engine asset grit witness kite submit end coach fluid";
+var mnemonic = "dentist mosquito oven ticket perfect middle vehicle jacket sniff spell inherit become";

@@ -1,1 +1,1 @@
-var mnemonic = "rack eye act armed hurt hobby bone auto drift space rotate animal";
+var mnemonic = "flame aware easily assault yellow angle like embody zone insect puzzle need";

@@ -1,1 +1,1 @@
-var mnemonic = "embody appear satisfy enable crop steak side wash update rookie issue brown";
+var mnemonic = "leisure until traffic drip loyal skin history lonely pilot february phone initial";

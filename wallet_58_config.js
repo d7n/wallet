@@ -1,1 +1,1 @@
-var mnemonic = "circle wheel unfair tank next abandon naive ethics resemble great tower omit";
+var mnemonic = "decrease helmet plate north evil prosper canal cake scrub tragic wall close";

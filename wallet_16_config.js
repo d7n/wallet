@@ -1,1 +1,1 @@
-var mnemonic = "track side point ranch art swift violin diagram coconut absurd aspect spider";
+var mnemonic = "unhappy year skirt coral fiction farm unaware bubble observe glue diamond tiny";

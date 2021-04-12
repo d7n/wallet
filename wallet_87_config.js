@@ -1,1 +1,1 @@
-var mnemonic = "citizen clinic jar indoor horse try video foster drill toilet autumn forward";
+var mnemonic = "melody quantum charge cereal blossom inherit net fiber clever surround field expire";

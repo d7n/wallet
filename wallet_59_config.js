@@ -1,1 +1,1 @@
-var mnemonic = "crazy visa prison evolve ozone jazz sketch release pledge draw goddess ten";
+var mnemonic = "cry can hip broccoli drill rug lumber inhale annual hard truth arrow";

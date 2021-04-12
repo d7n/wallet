@@ -1,1 +1,1 @@
-var mnemonic = "alter artefact antique pave fatal gospel edit prepare lizard absurd vanish okay";
+var mnemonic = "fork cook tongue aspect bike month walnut knee useless eight picture adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "solve fossil hidden broken next person again timber license test saddle auto";
+var mnemonic = "viable deliver predict wasp system attack chalk faith spare vivid food cage";

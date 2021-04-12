@@ -1,1 +1,1 @@
-var mnemonic = "dry fox surge weasel shell wine junk slot inhale pen afraid save";
+var mnemonic = "couch census jealous list retreat fragile wrong mixed slice hobby hybrid desk";

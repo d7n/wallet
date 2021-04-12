@@ -1,1 +1,1 @@
-var mnemonic = "problem toilet park memory alarm swing foster copy little exhibit cover rescue";
+var mnemonic = "stage scrap short adult snake sand ostrich cereal morning enroll learn vanish";

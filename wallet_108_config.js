@@ -1,1 +1,1 @@
-var mnemonic = "meat exile cute blade garage slam wasp universe fresh matter lyrics large";
+var mnemonic = "record rose explain twin pudding suffer fetch resource large tragic number opera";

@@ -1,1 +1,1 @@
-var mnemonic = "receive critic drift culture tribe caught toy demand scout bomb current flush";
+var mnemonic = "pause must candy level roast kiss scorpion second solar eager pony moment";

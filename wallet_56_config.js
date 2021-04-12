@@ -1,1 +1,1 @@
-var mnemonic = "choose coil gentle alert end ability potato saddle soccer help barely expect";
+var mnemonic = "maze dash cook essay bike laugh mass goose pioneer rare copper crime";

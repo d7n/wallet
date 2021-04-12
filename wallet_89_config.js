@@ -1,1 +1,1 @@
-var mnemonic = "spoil clerk loud gain diamond salad whale into dignity core ridge inner";
+var mnemonic = "artefact such celery tape local echo bronze boil own flag craft sort";

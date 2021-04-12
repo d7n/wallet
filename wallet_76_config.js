@@ -1,1 +1,1 @@
-var mnemonic = "settle nest faith rib stove ancient magnet music pistol business can afford";
+var mnemonic = "hobby sustain sunset tuna olive nurse hedgehog skate again divorce torch danger";

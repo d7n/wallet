@@ -1,1 +1,1 @@
-var mnemonic = "program ankle avoid slam rally vapor select amount mixed joy prepare nominee";
+var mnemonic = "jacket lonely afraid throw oblige melt solve record cheap solar aerobic other";

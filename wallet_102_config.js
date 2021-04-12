@@ -1,1 +1,1 @@
-var mnemonic = "avoid hurdle good owner lottery certain oval good replace know wine task";
+var mnemonic = "hood hill minor frame insane surge kite betray purchase ship harbor praise";

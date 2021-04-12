@@ -1,1 +1,1 @@
-var mnemonic = "route broken brave chest anxiety super auto vendor core tribe version permit";
+var mnemonic = "advice helmet menu cool robot will target million frozen sting shoulder clip";

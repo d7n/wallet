@@ -1,1 +1,1 @@
-var mnemonic = "victory crunch vicious shuffle intact duty client arrive category churn fix detect";
+var mnemonic = "steel remember luxury home hurt security enemy unknown blood cover bachelor universe";

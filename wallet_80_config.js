@@ -1,1 +1,1 @@
-var mnemonic = "engine step renew wrist second brick drama spring sleep mean woman trust";
+var mnemonic = "alter match foster below gauge impose render knee improve phone reason jaguar";

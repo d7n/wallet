@@ -1,1 +1,1 @@
-var mnemonic = "actor desert scheme scrap turn ritual twin alone decrease soldier auto economy";
+var mnemonic = "brisk under tragic explain slot daughter lyrics bunker tag sponsor creek wall";

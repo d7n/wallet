@@ -1,1 +1,1 @@
-var mnemonic = "prize empty ten segment present easy lock spawn fringe wheel salad polar";
+var mnemonic = "gorilla nation lesson swear announce length citizen brief path timber trap sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "winter cave dust bone crater fortune ticket belt sell clutch dutch ocean";
+var mnemonic = "divert open donate someone craft crucial luggage track actual olympic unique wool";

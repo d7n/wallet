@@ -1,1 +1,1 @@
-var mnemonic = "uphold settle quality poem mango indoor friend chat borrow pioneer fog neither";
+var mnemonic = "same slogan narrow column razor more mail fatigue load forest sound critic";

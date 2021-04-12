@@ -1,1 +1,1 @@
-var mnemonic = "antique deer color hen doctor search culture bus brass elbow lazy render";
+var mnemonic = "menu indicate inhale quiz behind grape grace twin style acoustic castle poverty";

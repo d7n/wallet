@@ -1,1 +1,1 @@
-var mnemonic = "addict remind harvest eagle between educate wool thrive east awesome dignity chimney";
+var mnemonic = "open session vivid electric finish margin forward depth plastic treat brain surround";

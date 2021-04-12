@@ -1,1 +1,1 @@
-var mnemonic = "body organ super wreck flush record surface above faint empower divert clip";
+var mnemonic = "outside infant solar demise solid fog refuse true fence brisk rival genre";

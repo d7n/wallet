@@ -1,1 +1,1 @@
-var mnemonic = "usual ranch north shadow sugar tongue possible spatial despair dolphin music core";
+var mnemonic = "crazy cheap logic desk leisure shoot ten song bulk runway fuel test";

@@ -1,1 +1,1 @@
-var mnemonic = "because spin grain size icon modify figure enhance fatigue summer auto mystery";
+var mnemonic = "attack science census access tower glove rapid average loan echo rescue dog";

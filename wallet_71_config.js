@@ -1,1 +1,1 @@
-var mnemonic = "law defense avocado help raw hawk police usual tiny tank cross task";
+var mnemonic = "gift hurry area museum lonely inform carbon sock mask hero divert march";

@@ -1,1 +1,1 @@
-var mnemonic = "finger confirm broom include rely van action exotic tell diesel winter extra";
+var mnemonic = "differ number creek stick soap embark spoon churn enough token meadow toss";

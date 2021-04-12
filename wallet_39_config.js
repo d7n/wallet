@@ -1,1 +1,1 @@
-var mnemonic = "sell wide snack gorilla clerk plunge label casual paper abuse spirit earth";
+var mnemonic = "drill grief salon when client fox code ripple push guess key circle";

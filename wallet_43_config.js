@@ -1,1 +1,1 @@
-var mnemonic = "flavor clock between improve scorpion palace corn grape guide already skirt improve";
+var mnemonic = "park thing stove merge enhance muffin say success donate trade thing piece";

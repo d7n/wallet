@@ -1,1 +1,1 @@
-var mnemonic = "food there bean elbow side cement wide hawk venture federal eternal wood";
+var mnemonic = "quiz job square leave garden female settle dwarf fit captain extend index";

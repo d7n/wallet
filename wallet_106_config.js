@@ -1,1 +1,1 @@
-var mnemonic = "cruise upper abandon october swarm shrimp world settle young april rent long";
+var mnemonic = "street credit radio daughter movie cheese theme project olive flash reunion balance";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp indicate electric stone raise sponsor snap art tape enhance van nominee";
+var mnemonic = "keep smoke quantum amateur museum client sphere picture escape twin range twin";

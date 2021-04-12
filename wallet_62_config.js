@@ -1,1 +1,1 @@
-var mnemonic = "build despair census divide resource yard coach card spin involve normal pool";
+var mnemonic = "sun sock direct enable step squirrel siren enjoy bunker photo cart vintage";

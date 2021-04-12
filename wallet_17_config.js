@@ -1,1 +1,1 @@
-var mnemonic = "essay kid talent eager lady double useful rich field mammal around doll";
+var mnemonic = "cushion link paddle slow year donate recycle mother point pen dizzy gospel";

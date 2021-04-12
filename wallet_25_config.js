@@ -1,1 +1,1 @@
-var mnemonic = "way marble evolve priority medal soldier strong regret quarter inquiry change heart";
+var mnemonic = "cram tooth black royal chalk clap patient label addict margin early service";

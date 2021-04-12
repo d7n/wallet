@@ -1,1 +1,1 @@
-var mnemonic = "awake poet danger industry deputy domain drama toy bamboo water leopard inch";
+var mnemonic = "key truck foam pony rabbit ahead lumber auction cruise cable cruel true";

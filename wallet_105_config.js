@@ -1,1 +1,1 @@
-var mnemonic = "sea bargain about faculty dragon clay gas cram step club deny until";
+var mnemonic = "gaze good olive theory welcome matrix bicycle scissors wagon scrap judge cricket";

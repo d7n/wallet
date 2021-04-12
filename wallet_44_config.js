@@ -1,1 +1,1 @@
-var mnemonic = "cage hello dawn brave erupt long february physical proof arrive that drill";
+var mnemonic = "portion music rail symbol crop outdoor clap zoo hood advice cactus moral";

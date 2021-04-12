@@ -1,1 +1,1 @@
-var mnemonic = "voyage bench volcano mystery patient borrow dutch soccer soda breeze float faint";
+var mnemonic = "angry ketchup illness fruit aspect local annual ensure like wrong come twin";

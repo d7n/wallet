@@ -1,1 +1,1 @@
-var mnemonic = "hockey coyote endless snack inherit across ahead language bachelor absorb able finish";
+var mnemonic = "surprise view color youth crater fork leopard nuclear awful either barely deny";

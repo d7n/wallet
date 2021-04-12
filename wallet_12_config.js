@@ -1,1 +1,1 @@
-var mnemonic = "monitor announce guide arch drink typical faith dignity unique despair banner fashion";
+var mnemonic = "lamp over rude lake planet cube history surprise provide have usual unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "copy luggage circle punch magnet answer shove immense that bleak aspect sample";
+var mnemonic = "metal casino ceiling brain govern outer force crater still desert typical swing";

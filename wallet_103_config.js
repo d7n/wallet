@@ -1,1 +1,1 @@
-var mnemonic = "spin pair dove canal web figure relax margin captain scorpion drill panel";
+var mnemonic = "bind shoulder casino salute ceiling visa unfair rent visual drum shuffle charge";

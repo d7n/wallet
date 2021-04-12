@@ -1,1 +1,1 @@
-var mnemonic = "loan remove memory myth rhythm salad snack actress tissue boil drama nerve";
+var mnemonic = "alter start oyster mouse spread sample negative rug oppose explain atom gossip";
