@@ -1,1 +1,1 @@
-var mnemonic = "unusual often weather rule fork display police wash october casino bag tent";
+var mnemonic = "genius feature iron favorite either tomorrow limb warm judge vacant sadness vibrant";

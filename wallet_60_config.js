@@ -1,1 +1,1 @@
-var mnemonic = "viable process dinosaur supply scan rail school zone nephew train sausage agent";
+var mnemonic = "friend autumn echo bargain vehicle often chase clock blade drift load credit";

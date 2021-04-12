@@ -1,1 +1,1 @@
-var mnemonic = "patient bulb shoe rate card kind luxury poverty tent resource veteran oak";
+var mnemonic = "make cube write famous crazy harbor deer bitter echo true space voyage";

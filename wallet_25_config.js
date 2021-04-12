@@ -1,1 +1,1 @@
-var mnemonic = "net private muscle brisk debris segment twin dirt grass guide law cook";
+var mnemonic = "shadow butter deliver candy expire answer foam during sadness check ice sure";

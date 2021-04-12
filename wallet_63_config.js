@@ -1,1 +1,1 @@
-var mnemonic = "barrel iron faith believe depart arrive slice talk valley hawk salon easily";
+var mnemonic = "ten elite miss inform anchor will helmet winner unlock index eyebrow globe";

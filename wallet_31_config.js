@@ -1,1 +1,1 @@
-var mnemonic = "match spike cliff junior fall drop cliff spatial exchange scan steel light";
+var mnemonic = "wedding viable either switch coach cancel remind kitchen envelope little dumb draw";

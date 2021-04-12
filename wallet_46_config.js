@@ -1,1 +1,1 @@
-var mnemonic = "gorilla amateur unusual wrist try multiply between crouch trouble borrow fiction trap";
+var mnemonic = "fortune forest unit keep evil pony version exhaust loop fish coil avocado";

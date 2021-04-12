@@ -1,1 +1,1 @@
-var mnemonic = "assume village time dry until reason amazing announce sister column bless rival";
+var mnemonic = "blame service trouble salt produce pull raw afford task skull cotton sword";

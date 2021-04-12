@@ -1,1 +1,1 @@
-var mnemonic = "invite pulse describe humor jealous tongue apology erase visual orphan jeans unique";
+var mnemonic = "badge sponsor visa error fossil fork hint fashion celery bunker able report";

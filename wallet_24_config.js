@@ -1,1 +1,1 @@
-var mnemonic = "goat woman wealth practice tissue type elevator afraid job copper romance salute";
+var mnemonic = "impulse cover help attack orphan exile assume shy pyramid income noble version";

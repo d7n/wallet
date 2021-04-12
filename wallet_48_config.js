@@ -1,1 +1,1 @@
-var mnemonic = "poem beach ring travel sniff unlock enemy castle vendor patient list gospel";
+var mnemonic = "truck rough zero point notable glad enough gloom panther lawsuit program wire";

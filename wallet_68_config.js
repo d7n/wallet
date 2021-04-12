@@ -1,1 +1,1 @@
-var mnemonic = "candy bachelor dirt horn page ten slight vanish phrase mix neither soft";
+var mnemonic = "frame excess appear regret doctor truck fatigue simple admit wasp hill charge";

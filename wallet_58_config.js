@@ -1,1 +1,1 @@
-var mnemonic = "puppy build light advance there ready session merge raise chapter year bitter";
+var mnemonic = "nothing ivory tooth spell alien rain language twenty rival transfer kit tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "story cook dizzy hip code level steel dish riot picture raven swear";
+var mnemonic = "dad pistol odor wedding before already find gravity fever casino check gather";

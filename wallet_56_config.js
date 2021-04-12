@@ -1,1 +1,1 @@
-var mnemonic = "drive design life wheat join father negative mom mean vanish rate scout";
+var mnemonic = "enough front prepare extend bullet jar minimum grid quiz soft health water";

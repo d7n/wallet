@@ -1,1 +1,1 @@
-var mnemonic = "pole magic tomorrow stay that weather way tube limit drill pioneer rare";
+var mnemonic = "sword panther net almost nut address coil scout gloom level sample traffic";

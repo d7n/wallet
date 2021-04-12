@@ -1,1 +1,1 @@
-var mnemonic = "nasty casual phone foot garden interest crouch exercise during alter become swear";
+var mnemonic = "despair false arm street ozone easy tattoo wedding news enemy abuse gift";

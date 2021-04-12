@@ -1,1 +1,1 @@
-var mnemonic = "prosper pulse matrix combine comic actual target ball uniform question lady carpet";
+var mnemonic = "around note useless loan leopard major wire arm rhythm history own web";

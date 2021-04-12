@@ -1,1 +1,1 @@
-var mnemonic = "toilet sugar similar clever gain winner oppose engage clerk bid member initial";
+var mnemonic = "dinner dignity surprise coyote guide submit anger between borrow mirror sudden nuclear";

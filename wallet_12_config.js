@@ -1,1 +1,1 @@
-var mnemonic = "picnic either custom enlist drama crouch radio impact blue debris scout draw";
+var mnemonic = "seat bullet loop barely hotel loud picture delay release expect ritual please";

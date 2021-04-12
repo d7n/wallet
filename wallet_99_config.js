@@ -1,1 +1,1 @@
-var mnemonic = "heavy digital heavy scrub small luggage network stairs purse biology myself butter";
+var mnemonic = "tortoise coast impact weird magic soldier pyramid busy brick lemon apology gravity";

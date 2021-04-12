@@ -1,1 +1,1 @@
-var mnemonic = "amazing taxi clog entry cave glue reunion romance mind select vibrant vendor";
+var mnemonic = "bargain actual enforce great page eight tooth dove sponsor cherry alien degree";

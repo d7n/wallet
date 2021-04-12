@@ -1,1 +1,1 @@
-var mnemonic = "rough fame phone ancient stereo toss glue budget admit sugar soft visit";
+var mnemonic = "minor alcohol hint farm wedding trust mystery hundred tiger budget fortune battle";

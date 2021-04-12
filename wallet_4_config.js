@@ -1,1 +1,1 @@
-var mnemonic = "detect unknown torch author dove noise wisdom rival develop door erase unfair";
+var mnemonic = "sample daughter office oyster perfect verb insane camp valid blanket liberty notable";

@@ -1,1 +1,1 @@
-var mnemonic = "soda relax pig fly marble diagram good snap cabbage correct minute plastic";
+var mnemonic = "poverty swallow flat distance gym survey year during glide intact typical country";

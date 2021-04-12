@@ -1,1 +1,1 @@
-var mnemonic = "stairs middle between correct magnet raise surface movie other cycle above main";
+var mnemonic = "trap stereo bitter miss anxiety cake balance similar term valid absurd weather";

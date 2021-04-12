@@ -1,1 +1,1 @@
-var mnemonic = "skirt able drip wagon sunny flush supply knife load enrich effort twin";
+var mnemonic = "trade plastic green depth ship ocean debate rice chapter off cave praise";

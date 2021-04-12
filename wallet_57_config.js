@@ -1,1 +1,1 @@
-var mnemonic = "saddle head south kite burst detect pull fit knife rigid route nominee";
+var mnemonic = "consider dentist ramp mule pause zero spirit heavy autumn dinner vibrant oblige";

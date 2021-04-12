@@ -1,1 +1,1 @@
-var mnemonic = "regular glimpse joke rotate brand soda devote okay merry aerobic shrimp beauty";
+var mnemonic = "leaf detect remind slam visit attract sadness height small ethics initial spend";

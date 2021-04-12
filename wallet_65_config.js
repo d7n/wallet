@@ -1,1 +1,1 @@
-var mnemonic = "crush purity boring adult debate once tourist jump atom stage prepare fish";
+var mnemonic = "coral knee pistol sound below fancy clog modify insane home major young";

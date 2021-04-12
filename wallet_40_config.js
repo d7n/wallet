@@ -1,1 +1,1 @@
-var mnemonic = "pony orient record crisp edge country trick grape honey resist accident solution";
+var mnemonic = "defy giraffe chase blame combine jelly deal matter thing become olympic drum";

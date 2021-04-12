@@ -1,1 +1,1 @@
-var mnemonic = "cancel rude voyage find celery hill mistake stone crater inside outdoor narrow";
+var mnemonic = "attack remember digital ticket remember find surprise mammal chase embark eager magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "render purchase cram head virus question index illegal silly vintage giggle theme";
+var mnemonic = "stadium embody memory marble inmate wonder apart custom patrol try pig canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "tired kitten right traffic repeat pelican split drill caught ocean diagram disorder";
+var mnemonic = "embody coyote snack text change foot whisper rare chapter page start inner";

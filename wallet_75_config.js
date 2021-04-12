@@ -1,1 +1,1 @@
-var mnemonic = "enforce breeze float athlete coil evolve snack luggage that law ethics suspect";
+var mnemonic = "curtain erupt turn photo will bunker omit bullet gossip chalk gift until";

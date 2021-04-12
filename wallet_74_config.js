@@ -1,1 +1,1 @@
-var mnemonic = "indicate token cable swallow promote engine village olive reward scrub resource certain";
+var mnemonic = "spider device loyal island faculty consider jelly tuition morning home present clarify";

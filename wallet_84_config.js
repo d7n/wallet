@@ -1,1 +1,1 @@
-var mnemonic = "animal obvious vault fuel lizard physical tooth actress rich prize pledge crack";
+var mnemonic = "sausage neither negative tide bunker same amateur gas easily velvet waste shadow";

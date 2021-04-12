@@ -1,1 +1,1 @@
-var mnemonic = "maximum cushion rotate buddy bright marriage actress visit scale olympic tornado neutral";
+var mnemonic = "school shine cave cushion reveal dry double blast sphere ginger case pride";

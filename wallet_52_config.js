@@ -1,1 +1,1 @@
-var mnemonic = "large siren canvas great weasel work bunker apology oven void lawsuit elephant";
+var mnemonic = "castle brick traffic someone jacket tray silver flee member frozen picture squirrel";

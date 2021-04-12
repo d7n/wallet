@@ -1,1 +1,1 @@
-var mnemonic = "infant urban web repair orbit shoot random wait satoshi alien soft hammer";
+var mnemonic = "lobster shield maid mesh blue ignore upset size ranch wrestle runway stuff";

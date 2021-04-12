@@ -1,1 +1,1 @@
-var mnemonic = "butter fence effort mind goat glass shed blood uphold valley crane hazard";
+var mnemonic = "daring output exile whip cherry friend stomach liar flight tray figure question";

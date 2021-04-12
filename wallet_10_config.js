@@ -1,1 +1,1 @@
-var mnemonic = "license idea patrol notable confirm wing crumble subway genius obscure elegant gate";
+var mnemonic = "box magic meat magic cart bubble already industry upon once benefit bounce";

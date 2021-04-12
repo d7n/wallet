@@ -1,1 +1,1 @@
-var mnemonic = "admit upper unusual mom oppose machine claw small reduce brief zero detect";
+var mnemonic = "walk calm lesson fan rescue clap weapon liquid luggage bird frequent rain";

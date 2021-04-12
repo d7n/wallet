@@ -1,1 +1,1 @@
-var mnemonic = "crouch wise obscure scrub shoot license below surprise rookie tortoise danger tennis";
+var mnemonic = "have stomach enemy either hotel crime unique pride achieve stadium night cage";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid buddy hint age mouse chat margin rather appear place lamp gift";
+var mnemonic = "glue danger decorate language room skill maximum palm glimpse nurse bicycle heart";

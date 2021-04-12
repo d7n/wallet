@@ -1,1 +1,1 @@
-var mnemonic = "inflict column memory industry try render snack domain high enable dismiss cram";
+var mnemonic = "raw safe limb betray drip dinosaur estate crisp nature frost kiwi jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "habit inmate live baby train fold outside team green episode scene boost";
+var mnemonic = "midnight ready text guilt absorb test special animal april jelly mosquito foam";

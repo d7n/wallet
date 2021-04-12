@@ -1,1 +1,1 @@
-var mnemonic = "dilemma script scorpion buyer tiger stone roast unlock aim ahead dutch artwork";
+var mnemonic = "cluster rough obey antenna that they group cost garment uphold belt invite";

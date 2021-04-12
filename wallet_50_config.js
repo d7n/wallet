@@ -1,1 +1,1 @@
-var mnemonic = "depend ensure wonder tortoise prevent sense lava canyon pigeon small impact elite";
+var mnemonic = "gesture life glimpse lottery wait cup piano bitter snow night few pair";

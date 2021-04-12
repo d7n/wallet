@@ -1,1 +1,1 @@
-var mnemonic = "unique humor next fault decrease danger access still grass hurry joke gaze";
+var mnemonic = "vivid betray parade canvas public runway cloud wing sad census stamp dinner";

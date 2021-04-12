@@ -1,1 +1,1 @@
-var mnemonic = "deny churn glance floor work physical speed cover assist morning alley awesome";
+var mnemonic = "actual salmon name copper arrest velvet oppose level taste pulp civil two";

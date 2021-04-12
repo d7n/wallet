@@ -1,1 +1,1 @@
-var mnemonic = "kid forest net crowd stomach note shop pattern indoor dance increase bachelor";
+var mnemonic = "wrong rotate inside awkward ability course theory cart stem recycle century priority";

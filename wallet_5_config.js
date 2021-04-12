@@ -1,1 +1,1 @@
-var mnemonic = "lock consider another badge miracle meat crystal circle horse diet sunny slush";
+var mnemonic = "ball basic skill smart chimney dice addict wool exact cabbage have sweet";

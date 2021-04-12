@@ -1,1 +1,1 @@
-var mnemonic = "roast leaf age remember twenty scrub stuff hybrid muscle clown project path";
+var mnemonic = "captain success man copy click control hello hidden weekend chief grace scare";

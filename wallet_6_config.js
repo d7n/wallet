@@ -1,1 +1,1 @@
-var mnemonic = "evidence hotel one find connect foam reflect spot rug orchard fiction fiction";
+var mnemonic = "surge obvious curtain badge pupil tobacco heavy wood pledge until transfer zone";

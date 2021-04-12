@@ -1,1 +1,1 @@
-var mnemonic = "fragile breeze stomach guitar tenant crunch hammer gown media random bronze wage";
+var mnemonic = "differ approve frame board dad woman black magic body ability decide brass";

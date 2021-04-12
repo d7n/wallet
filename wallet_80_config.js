@@ -1,1 +1,1 @@
-var mnemonic = "absurd arrow dismiss identify coconut birth between patch mistake yard coach kiss";
+var mnemonic = "lobster palace pioneer other able dose race general basket van absurd tissue";

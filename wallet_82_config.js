@@ -1,1 +1,1 @@
-var mnemonic = "main bullet move motion glad suspect unit print miracle shoulder wide doll";
+var mnemonic = "dress more assume autumn badge drum risk salt top market swift since";

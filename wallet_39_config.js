@@ -1,1 +1,1 @@
-var mnemonic = "before worth never steak lemon cute tornado loan amused toddler nuclear super";
+var mnemonic = "seven fragile phone live pluck cement crumble valve excuse tide impulse achieve";

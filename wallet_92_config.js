@@ -1,1 +1,1 @@
-var mnemonic = "abuse spin bottom ecology security suggest file moment predict party tape close";
+var mnemonic = "tissue lesson meat royal matrix awkward plastic country sample august jungle alert";

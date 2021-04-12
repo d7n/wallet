@@ -1,1 +1,1 @@
-var mnemonic = "very tool race worry camp wash exhibit awful paddle coral mansion embark";
+var mnemonic = "achieve gas inject exclude spawn cotton job innocent abstract end spider eyebrow";

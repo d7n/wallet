@@ -1,1 +1,1 @@
-var mnemonic = "confirm hello water olympic school butter grief artwork sell snake junior void";
+var mnemonic = "asthma twenty derive mention off tiny panel zoo achieve hole hole day";

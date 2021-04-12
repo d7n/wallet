@@ -1,1 +1,1 @@
-var mnemonic = "mother home behind about sting cliff town envelope ridge lyrics increase wink";
+var mnemonic = "reveal they student adapt build between aisle hundred sock deposit deer hobby";

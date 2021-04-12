@@ -1,1 +1,1 @@
-var mnemonic = "fiction happy connect pond front peasant winter panda despair demise host abuse";
+var mnemonic = "liquid skin wash cake danger alien mirror trap forum empower victory duck";

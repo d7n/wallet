@@ -1,1 +1,1 @@
-var mnemonic = "work pizza raw dog load faint corn wink drift perfect sad truck";
+var mnemonic = "deer tribe hour random urge hole world wave liar budget dragon basic";

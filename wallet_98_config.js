@@ -1,1 +1,1 @@
-var mnemonic = "divert habit various trial crack uphold curtain design parade chronic weapon review";
+var mnemonic = "coach mechanic gasp donkey spy leaf chef fame nut thrive omit defy";

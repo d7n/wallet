@@ -1,1 +1,1 @@
-var mnemonic = "miracle series scrap faint hire question desert loyal canal song then drama";
+var mnemonic = "patient tobacco example rally glimpse menu segment gather rather whip inherit viable";

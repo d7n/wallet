@@ -1,1 +1,1 @@
-var mnemonic = "flash marriage theme ribbon jump stereo argue honey husband pave exile arctic";
+var mnemonic = "novel skin culture decide uncle tenant laptop resist action salad cruel jeans";

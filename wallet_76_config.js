@@ -1,1 +1,1 @@
-var mnemonic = "pact phrase pencil brush never silly mystery accident cash remove admit kite";
+var mnemonic = "inflict smoke lecture worth skull loyal glove spoon receive design scene cream";

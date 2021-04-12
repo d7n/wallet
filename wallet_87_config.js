@@ -1,1 +1,1 @@
-var mnemonic = "furnace leisure card disagree glove evil million tree lizard drum twice false";
+var mnemonic = "crazy accident culture detail minute someone rigid fly panel opera carry target";

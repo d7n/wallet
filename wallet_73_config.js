@@ -1,1 +1,1 @@
-var mnemonic = "happy rhythm select legal stamp hand junk myth breeze bacon illegal cabin";
+var mnemonic = "one sibling art visa dad question hidden maple trouble broken arrest image";

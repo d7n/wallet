@@ -1,1 +1,1 @@
-var mnemonic = "false expand across mobile outdoor episode private sail come age sugar print";
+var mnemonic = "news protect exclude solve cruel agree viable enroll sea hurry picture barely";

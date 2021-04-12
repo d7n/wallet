@@ -1,1 +1,1 @@
-var mnemonic = "plastic proof embrace detail when fortune soda assist plate oven gather vague";
+var mnemonic = "welcome sugar myth exercise spatial orient voyage poem country tenant wrong frequent";

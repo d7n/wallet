@@ -1,1 +1,1 @@
-var mnemonic = "essay nurse piano beach harsh library admit dust pilot sick define carbon";
+var mnemonic = "chronic accident champion exclude bleak concert seat ability boil rice genre burst";

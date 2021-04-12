@@ -1,1 +1,1 @@
-var mnemonic = "salad core filter private cradle advice pink mask solid proof brother deer";
+var mnemonic = "concert cushion column gloom simple fog upper number marine camera shed annual";

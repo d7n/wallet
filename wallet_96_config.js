@@ -1,1 +1,1 @@
-var mnemonic = "enemy scheme snap gate sell oxygen broccoli afraid eager snake army critic";
+var mnemonic = "cheap damp purchase farm absurd reflect burden harbor sweet what lab unfold";

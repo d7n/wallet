@@ -1,1 +1,1 @@
-var mnemonic = "ill erode human young notice cook injury hunt drill cook lion creek";
+var mnemonic = "concert evolve aim sure rose syrup rain fork risk laundry purchase creek";

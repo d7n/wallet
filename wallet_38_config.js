@@ -1,1 +1,1 @@
-var mnemonic = "degree pepper shuffle claim marriage column truly quarter since matter body alert";
+var mnemonic = "obvious ancient chicken abstract coast turtle false repeat negative tell ten worth";

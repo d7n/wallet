@@ -1,1 +1,1 @@
-var mnemonic = "genuine public bachelor devote mass either effort cactus tone young unique cabbage";
+var mnemonic = "focus achieve domain expire trend endless crane frozen lumber circle diesel fitness";

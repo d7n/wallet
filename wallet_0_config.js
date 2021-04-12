@@ -1,1 +1,1 @@
-var mnemonic = "athlete twist inside tomorrow cabin beyond uncle erosion car siren amount course";
+var mnemonic = "opinion purse busy acoustic raise select isolate cluster south juice clip super";

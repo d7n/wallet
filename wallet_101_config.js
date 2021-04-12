@@ -1,1 +1,1 @@
-var mnemonic = "rose pool purse guitar key sibling wrap enhance theme tent pencil resemble";
+var mnemonic = "basic kitten again head donate kit phrase captain number live walnut reason";

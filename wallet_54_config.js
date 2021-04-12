@@ -1,1 +1,1 @@
-var mnemonic = "plastic among bind dumb spring success silly letter scheme brisk guilt lounge";
+var mnemonic = "online mixed drop door grant among wrong giraffe silk soda beauty number";

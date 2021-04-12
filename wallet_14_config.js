@@ -1,1 +1,1 @@
-var mnemonic = "garbage oil artwork ostrich industry noble power romance debate myth welcome rude";
+var mnemonic = "famous undo poverty snake turn spatial dove upon unhappy brain drive nice";

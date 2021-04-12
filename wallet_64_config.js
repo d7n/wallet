@@ -1,1 +1,1 @@
-var mnemonic = "quick panic own thumb invest fade attitude diesel mistake detect decline sister";
+var mnemonic = "dawn faculty gown gravity slim oak submit cancel during fiction dose weapon";

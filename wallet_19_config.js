@@ -1,1 +1,1 @@
-var mnemonic = "general effort evolve pull opinion monkey reveal pluck winter embrace leisure fossil";
+var mnemonic = "fragile pact scale adapt zoo web party corn fix kit oak enough";

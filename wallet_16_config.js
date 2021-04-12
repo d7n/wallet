@@ -1,1 +1,1 @@
-var mnemonic = "apart disagree real wheel joke expose elite faint flavor pulse now neither";
+var mnemonic = "swim property energy design solar junior just someone track track vacuum peanut";

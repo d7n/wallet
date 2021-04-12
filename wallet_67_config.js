@@ -1,1 +1,1 @@
-var mnemonic = "knife fun security jazz learn rebel powder column finger library nut clay";
+var mnemonic = "nut decide valve length update deer fluid cattle manage fuel ketchup kit";

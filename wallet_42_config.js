@@ -1,1 +1,1 @@
-var mnemonic = "learn broom person fat alcohol tissue catalog legend hat valid solar review";
+var mnemonic = "vote above december ice bright door trouble foil legal horse dial advance";

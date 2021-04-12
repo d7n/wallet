@@ -1,1 +1,1 @@
-var mnemonic = "alien scale multiply embark clever glance embark tortoise submit clog rude fossil";
+var mnemonic = "cross mosquito pill virus license napkin salt clown volume disagree vendor ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "there heavy bomb chapter sphere gossip spring cushion wise secret water suffer";
+var mnemonic = "double squirrel gift clutch piece chronic memory twice inquiry gift wash gallery";

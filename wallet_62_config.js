@@ -1,1 +1,1 @@
-var mnemonic = "tip skill shield onion clever pave weasel inch oyster weasel notable mimic";
+var mnemonic = "cattle try physical prison upper chuckle find debate furnace rack air energy";
