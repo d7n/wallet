@@ -1,1 +1,1 @@
-var mnemonic = "dust client glimpse economy life general must vicious obtain attract tent fine";
+var mnemonic = "bounce wife trumpet bar valve toddler faculty hello emerge lizard print much";

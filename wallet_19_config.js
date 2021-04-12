@@ -1,1 +1,1 @@
-var mnemonic = "issue inject sadness garage arm like canvas invest tiger scatter either before";
+var mnemonic = "glow logic orbit situate amount jump people cook light pudding common road";

@@ -1,1 +1,1 @@
-var mnemonic = "gym fish bullet basic cheap stamp glow sure hand half stand chase";
+var mnemonic = "phrase hello walk oyster lawn truly pool tragic sad cheese rail gadget";

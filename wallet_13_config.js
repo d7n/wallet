@@ -1,1 +1,1 @@
-var mnemonic = "bubble cave finish struggle regret frost bundle that oak source creek charge";
+var mnemonic = "poet staff brother fitness gospel enough beach doll jump more river unit";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid face strong estate inquiry menu mad space word file blanket cancel";
+var mnemonic = "return pet paddle pear recall foam guilt exclude hunt empower cake client";

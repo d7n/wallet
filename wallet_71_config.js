@@ -1,1 +1,1 @@
-var mnemonic = "neglect south bullet print cancel door ready hello fat cupboard obey obvious";
+var mnemonic = "total shy little verb notice trim convince man draw race sponsor often";

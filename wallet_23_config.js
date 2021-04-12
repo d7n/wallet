@@ -1,1 +1,1 @@
-var mnemonic = "answer path away tank vital zebra helmet fortune canal health midnight depend";
+var mnemonic = "thrive salad animal hobby oven rocket walnut camp maid random clerk label";

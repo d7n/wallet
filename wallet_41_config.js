@@ -1,1 +1,1 @@
-var mnemonic = "dolphin satisfy puppy milk unaware predict code pass chicken salon seminar script";
+var mnemonic = "moral train idle toward music pepper sail bone reform fine october result";

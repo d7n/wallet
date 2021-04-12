@@ -1,1 +1,1 @@
-var mnemonic = "absorb praise start access depth record endless bunker leave hen link bless";
+var mnemonic = "code piece jaguar journey symptom annual island discover sting minor area remain";

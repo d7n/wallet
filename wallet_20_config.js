@@ -1,1 +1,1 @@
-var mnemonic = "weird tunnel nut fine oppose unfair roof goat craft soul sponsor solution";
+var mnemonic = "win shed use ribbon since tribe other kit powder truth air reward";

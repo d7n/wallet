@@ -1,1 +1,1 @@
-var mnemonic = "ivory stock arrange vibrant gadget toddler actress smile build entire among copy";
+var mnemonic = "twist dial fence coast elder bacon tooth zero artefact woman box fork";

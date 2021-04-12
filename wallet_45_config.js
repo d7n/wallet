@@ -1,1 +1,1 @@
-var mnemonic = "milk second warm make tell inspire evolve casino route soda afraid bone";
+var mnemonic = "claim display oxygen scene replace afraid join stamp sauce quarter grocery desk";

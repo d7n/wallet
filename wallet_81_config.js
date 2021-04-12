@@ -1,1 +1,1 @@
-var mnemonic = "cheap group region human used awful warfare vapor security copy end husband";
+var mnemonic = "surround stable bonus capable merry submit bounce august talent fog grass slim";

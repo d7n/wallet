@@ -1,1 +1,1 @@
-var mnemonic = "cheap oppose used expose clog cause excuse glide neutral ribbon disease habit";
+var mnemonic = "squirrel endorse own group rather party hurt answer rib large upgrade monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler wash mercy normal actual inmate virus urge submit girl source hobby";
+var mnemonic = "present monster fatal issue credit dwarf field beyond light mutual review suffer";

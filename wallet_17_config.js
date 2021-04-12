@@ -1,1 +1,1 @@
-var mnemonic = "flight century then rail scare remain unfair brisk noise since when burden";
+var mnemonic = "travel fatigue slide panda jewel feature salad royal ketchup maid basic wrap";

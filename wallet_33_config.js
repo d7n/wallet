@@ -1,1 +1,1 @@
-var mnemonic = "initial liberty crawl live able session sunset hero winner payment employ immense";
+var mnemonic = "repeat basket palm baby jewel measure cabbage segment pioneer planet sister number";

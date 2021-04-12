@@ -1,1 +1,1 @@
-var mnemonic = "true hamster pipe frozen pigeon manage slogan prosper mutual cup rebel sure";
+var mnemonic = "uncle leopard force learn world armed resource bag tattoo dice rubber blossom";

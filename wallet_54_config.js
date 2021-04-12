@@ -1,1 +1,1 @@
-var mnemonic = "mule doctor renew shaft wrong zone awesome thunder roast cross immense level";
+var mnemonic = "tomato truck average umbrella initial cloud blood west mobile author sock loop";

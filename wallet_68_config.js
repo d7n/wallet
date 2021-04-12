@@ -1,1 +1,1 @@
-var mnemonic = "budget token enhance thank lady crunch mask collect cliff fancy outdoor city";
+var mnemonic = "gather depth sword spider scheme group witness divide ill achieve burger head";

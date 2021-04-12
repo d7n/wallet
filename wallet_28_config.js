@@ -1,1 +1,1 @@
-var mnemonic = "educate pistol easy such diesel artist survey vendor flight minimum armed wood";
+var mnemonic = "message depth wash grab talk strong recipe rice list chair ready manual";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry pair sure adapt surge essay radar laundry ticket smart food wreck";
+var mnemonic = "inch member disease advance solve disagree hospital off lab obscure latin guilt";

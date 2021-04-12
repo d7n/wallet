@@ -1,1 +1,1 @@
-var mnemonic = "focus tiger iron fine deputy spend pink find tag hammer domain limit";
+var mnemonic = "clerk author ugly digital social maple art crash chief exist turtle sample";

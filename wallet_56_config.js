@@ -1,1 +1,1 @@
-var mnemonic = "town hover open stool reunion patrol curious fringe tooth quality magnet choose";
+var mnemonic = "voice drastic demand omit early crumble problem lyrics hole pink leave barely";

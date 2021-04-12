@@ -1,1 +1,1 @@
-var mnemonic = "together image patient turtle renew chunk basic impact pact fortune amateur wagon";
+var mnemonic = "village excite awful shift initial novel music coconut keen burger clever pelican";

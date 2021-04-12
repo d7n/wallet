@@ -1,1 +1,1 @@
-var mnemonic = "private exclude impose mention family treat permit romance doll dinner palace swear";
+var mnemonic = "cube true nation citizen small spring gain rebel deliver police salmon october";

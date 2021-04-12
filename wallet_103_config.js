@@ -1,1 +1,1 @@
-var mnemonic = "lunar side actor panic predict rail enable super acquire normal false problem";
+var mnemonic = "arctic fire issue envelope puppy south ahead catalog prize boost bird push";

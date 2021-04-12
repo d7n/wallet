@@ -1,1 +1,1 @@
-var mnemonic = "defense common maze act wrist mimic question spirit rib exact topple wink";
+var mnemonic = "flock color silent give together steel inch ahead easily spoon wrestle debris";

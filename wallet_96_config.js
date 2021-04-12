@@ -1,1 +1,1 @@
-var mnemonic = "require churn mosquito weapon boost alter damage circle input finger black eyebrow";
+var mnemonic = "client stereo radio velvet camera orchard good alley much aware phrase rice";

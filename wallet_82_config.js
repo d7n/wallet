@@ -1,1 +1,1 @@
-var mnemonic = "vanish swarm unknown festival chronic leg rare tilt rookie search during cotton";
+var mnemonic = "false now submit ecology sun model illegal brown service action hour practice";

@@ -1,1 +1,1 @@
-var mnemonic = "exit witness ethics badge else call magic logic lawn feature hard moral";
+var mnemonic = "only primary march grunt cheap author panel feel trap verify frost shed";

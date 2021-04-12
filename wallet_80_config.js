@@ -1,1 +1,1 @@
-var mnemonic = "embrace motor excess fiction sand surround skull mail inject timber shift gift";
+var mnemonic = "chaos spray upper excess alien butter december isolate spirit iron polar grit";

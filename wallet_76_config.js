@@ -1,1 +1,1 @@
-var mnemonic = "buzz cart illness divorce arrest rate civil asthma grid lonely endorse bleak";
+var mnemonic = "abandon rather purpose enter hire cereal accuse smoke display fork innocent glue";

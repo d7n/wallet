@@ -1,1 +1,1 @@
-var mnemonic = "gospel wedding opera voyage salmon shoot mountain planet empty execute farm clap";
+var mnemonic = "sauce pride twist dynamic spice scissors asset crucial pulse process nice palace";

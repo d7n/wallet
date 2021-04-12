@@ -1,1 +1,1 @@
-var mnemonic = "anger shock equal live social wet summer settle job curve announce economy";
+var mnemonic = "maple cake whisper aspect pig nuclear ski copper isolate salon kid address";

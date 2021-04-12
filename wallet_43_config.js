@@ -1,1 +1,1 @@
-var mnemonic = "miss save alcohol hover have fiction short must grief sugar relax salmon";
+var mnemonic = "segment update dragon group bird rely salt captain mango angle ranch small";

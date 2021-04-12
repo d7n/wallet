@@ -1,1 +1,1 @@
-var mnemonic = "believe obvious plastic mixture weapon tomorrow miss chef actress equal crack protect";
+var mnemonic = "drum art air client monkey category bridge slogan shadow pear have vibrant";

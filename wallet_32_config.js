@@ -1,1 +1,1 @@
-var mnemonic = "chest old noodle help fun squirrel wish identify bunker tent despair retreat";
+var mnemonic = "idea oak under easily also uniform human sustain matter dinosaur tackle quit";

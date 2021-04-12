@@ -1,1 +1,1 @@
-var mnemonic = "bulb dash surround protect midnight twelve peasant leave snack harvest canal unfold";
+var mnemonic = "improve shoot keen unusual excite leave aerobic foot fuel wheel fog notable";

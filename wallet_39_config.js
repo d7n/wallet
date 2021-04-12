@@ -1,1 +1,1 @@
-var mnemonic = "invest anxiety laugh indicate nut hungry become salon phrase arctic dragon shaft";
+var mnemonic = "coin item brother nominee say treat oblige alter stay glory forward circle";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange thumb place absent maximum margin replace eager dismiss expect romance rally";
+var mnemonic = "behave fossil render dawn enjoy chair repeat develop curve power frown ankle";

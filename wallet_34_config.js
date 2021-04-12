@@ -1,1 +1,1 @@
-var mnemonic = "bundle piece inhale host poem cry couch timber armor level stadium error";
+var mnemonic = "arrange erode fiber bracket produce stamp peasant demise sunset require march crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "viable nation road elephant bronze dirt arrow tattoo tornado below comic extend";
+var mnemonic = "museum civil edit ball close clay clean comic mix then oblige used";

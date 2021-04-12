@@ -1,1 +1,1 @@
-var mnemonic = "quality brief later soon blade card enforce guess congress dizzy real bread";
+var mnemonic = "world conduct nerve find agree whip patient conduct deliver engage hazard sand";

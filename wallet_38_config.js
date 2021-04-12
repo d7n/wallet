@@ -1,1 +1,1 @@
-var mnemonic = "sign enhance scrap toilet deliver border leisure fun urge come traffic great";
+var mnemonic = "focus rebuild napkin attitude choose theme chunk tent start message meat dash";

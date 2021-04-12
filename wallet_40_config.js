@@ -1,1 +1,1 @@
-var mnemonic = "picnic wedding bacon convince stand since helmet tone size shoot idea crack";
+var mnemonic = "shrimp else fault drive glance vocal drastic tornado mixed observe version arena";

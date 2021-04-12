@@ -1,1 +1,1 @@
-var mnemonic = "intact object hill physical fiction obey seek phrase pool leisure funny can";
+var mnemonic = "develop sleep find safe river pony smooth expand opera palm rude urban";

@@ -1,1 +1,1 @@
-var mnemonic = "carry party shield dynamic assault dignity collect clock waste impulse rule eye";
+var mnemonic = "collect swear rain arm whisper material balance provide journey rate slot domain";

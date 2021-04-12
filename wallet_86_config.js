@@ -1,1 +1,1 @@
-var mnemonic = "hover casual firm brick board achieve expire equip burger blanket electric theme";
+var mnemonic = "salad dynamic giant fee vendor same describe arrange caution acid junk embrace";

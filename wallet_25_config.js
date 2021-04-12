@@ -1,1 +1,1 @@
-var mnemonic = "brain romance carbon album net acid glow search casino salute tumble poverty";
+var mnemonic = "equal tribe ten stable region blast craft prefer kick boat print found";

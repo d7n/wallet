@@ -1,1 +1,1 @@
-var mnemonic = "clock shine cargo century fish weapon follow disease bomb cement danger whale";
+var mnemonic = "access recall shove spell feel yard ski luxury orange rival intact exhaust";

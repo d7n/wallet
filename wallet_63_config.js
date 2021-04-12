@@ -1,1 +1,1 @@
-var mnemonic = "december sure section swap element work soda effort pill dune radio antenna";
+var mnemonic = "display clinic coil proud wealth endless correct forget gauge album nice verb";

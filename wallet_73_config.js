@@ -1,1 +1,1 @@
-var mnemonic = "illegal hen coin menu afford envelope swift swift economy theme attract toe";
+var mnemonic = "pretty wild prison stool bid license unit rhythm humor original people stage";

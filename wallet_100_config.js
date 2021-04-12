@@ -1,1 +1,1 @@
-var mnemonic = "tool sister bonus job again language stable exist weird nose flip muffin";
+var mnemonic = "use this van wrist initial focus comic armed hawk quiz cry tunnel";

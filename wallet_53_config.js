@@ -1,1 +1,1 @@
-var mnemonic = "ring situate pool provide oven shrimp child memory vital pole image allow";
+var mnemonic = "knife picture denial guard seek pistol purchase sphere one group filter leader";

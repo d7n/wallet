@@ -1,1 +1,1 @@
-var mnemonic = "stage clog belt hint tissue base lend napkin ceiling castle bitter sure";
+var mnemonic = "forward web useless blame pilot rhythm sting sort zebra easy palm chef";

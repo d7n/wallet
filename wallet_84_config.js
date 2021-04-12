@@ -1,1 +1,1 @@
-var mnemonic = "pluck enjoy resemble wood desert buzz exile latin lunar exit mistake gravity";
+var mnemonic = "style scan fault exotic ripple brave daughter draw best vast ecology promote";

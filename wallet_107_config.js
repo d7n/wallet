@@ -1,1 +1,1 @@
-var mnemonic = "pole organ laundry shrimp ask black reform few hero render baby vast";
+var mnemonic = "donate crew income goddess latin muscle pigeon cake option fashion doll execute";

@@ -1,1 +1,1 @@
-var mnemonic = "curious double monitor dish pass velvet critic farm orbit board hub verb";
+var mnemonic = "bar roof draw blossom debate subject review stand april thought club sister";

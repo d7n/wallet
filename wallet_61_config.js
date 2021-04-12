@@ -1,1 +1,1 @@
-var mnemonic = "fall van pause caught knee warfare pattern doctor blush nothing about put";
+var mnemonic = "this unfold matrix modify flush kit climb soccer bundle ocean tiger ecology";

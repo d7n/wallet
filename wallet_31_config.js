@@ -1,1 +1,1 @@
-var mnemonic = "crunch author couch hurt cube clog behind phone small universe blue tumble";
+var mnemonic = "try basic rail diagram sibling region mule maximum announce envelope bridge leg";

@@ -1,1 +1,1 @@
-var mnemonic = "test nominee title indicate inspire cross drum nest broken december system desk";
+var mnemonic = "guide pulp student angle flat absorb alien cliff eye burst badge pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp parrot you clarify focus believe lonely exact craft absent square turtle";
+var mnemonic = "plastic maple alcohol save crater rack miracle remove waste wolf penalty elegant";

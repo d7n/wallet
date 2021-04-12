@@ -1,1 +1,1 @@
-var mnemonic = "tent cram reason vault always warfare void lady wash wealth expose else";
+var mnemonic = "bulk cactus agent train feel doll strike busy tent ask address obtain";

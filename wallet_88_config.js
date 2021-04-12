@@ -1,1 +1,1 @@
-var mnemonic = "income parent weather reward torch system item marble coffee raccoon defense salmon";
+var mnemonic = "ship flame real butter grow tent butter lift quiz immense upgrade pink";

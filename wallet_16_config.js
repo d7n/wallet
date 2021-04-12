@@ -1,1 +1,1 @@
-var mnemonic = "shaft improve above soda diary song reform inspire loyal upon spirit enroll";
+var mnemonic = "hope sell sight hurry peace face tragic artwork viable desk shrimp mimic";

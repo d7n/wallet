@@ -1,1 +1,1 @@
-var mnemonic = "devote satisfy scorpion delay silver duty exit impact main custom round peasant";
+var mnemonic = "broken sure corn boy library inner maximum venture comic gasp tragic manual";

@@ -1,1 +1,1 @@
-var mnemonic = "almost judge diet valid fog flower roast tide feed index proof alarm";
+var mnemonic = "invest return pulse garage frequent brass sudden tourist common tumble organ describe";

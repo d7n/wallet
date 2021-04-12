@@ -1,1 +1,1 @@
-var mnemonic = "snake category warfare oil fit unlock exhaust mass crisp comfort antenna frost";
+var mnemonic = "sibling mule surprise mountain remain ozone true leg act essay manual uphold";

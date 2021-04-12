@@ -1,1 +1,1 @@
-var mnemonic = "card math require dove soon silly prosper elbow multiply comfort ensure sweet";
+var mnemonic = "prevent record churn cash curve only ghost robust own twelve search unaware";

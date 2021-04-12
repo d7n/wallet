@@ -1,1 +1,1 @@
-var mnemonic = "emotion radar border toward core tip only safe laugh shrug chaos around";
+var mnemonic = "possible art guess mention hover host tape join year tooth increase dignity";

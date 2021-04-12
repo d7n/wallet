@@ -1,1 +1,1 @@
-var mnemonic = "polar cabbage nurse disagree barely dice asset visit inquiry alarm cool soul";
+var mnemonic = "oppose lava salt cream vivid guard novel squeeze decide also decrease practice";

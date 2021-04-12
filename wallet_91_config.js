@@ -1,1 +1,1 @@
-var mnemonic = "switch this affair render talent level trade foil rival repair disease dawn";
+var mnemonic = "motor extend various sight come verb primary december used wrestle shaft odor";

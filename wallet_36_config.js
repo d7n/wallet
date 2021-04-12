@@ -1,1 +1,1 @@
-var mnemonic = "retreat super vacuum coyote ramp ensure animal bright oyster copy evoke front";
+var mnemonic = "lazy sphere blue edge cover glow hurdle proof item turtle phone power";

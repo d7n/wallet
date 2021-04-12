@@ -1,1 +1,1 @@
-var mnemonic = "wrong job boost expire sting elbow debris cram roast robust blood blush";
+var mnemonic = "element network leaf leave topple absent depart orchard spider better return bean";

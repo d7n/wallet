@@ -1,1 +1,1 @@
-var mnemonic = "pluck news chronic narrow hip lion obtain guilt absent balcony phone word";
+var mnemonic = "swap winner soup viable rely observe glory cook emotion ocean until brown";

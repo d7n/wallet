@@ -1,1 +1,1 @@
-var mnemonic = "napkin spin amused castle mom broom shop chalk reflect keen program merge";
+var mnemonic = "steak race truly earn possible tornado flee ugly carpet erase magic tone";

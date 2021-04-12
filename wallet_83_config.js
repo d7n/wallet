@@ -1,1 +1,1 @@
-var mnemonic = "wrong sad found paper repeat task patrol hidden follow radar elephant banner";
+var mnemonic = "brief chunk avoid spatial help cabbage vibrant crush noodle curve before grant";

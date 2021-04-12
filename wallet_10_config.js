@@ -1,1 +1,1 @@
-var mnemonic = "grape lens dash submit service smoke gospel refuse when tomato ten entire";
+var mnemonic = "price nothing rival gym lend crisp cycle like broom cement lawn gap";

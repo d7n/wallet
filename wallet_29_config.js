@@ -1,1 +1,1 @@
-var mnemonic = "tilt want share subway busy lend place dog lady blouse practice deposit";
+var mnemonic = "sketch reject entire evoke flock either exact aisle shrimp essay length battle";

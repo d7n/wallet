@@ -1,1 +1,1 @@
-var mnemonic = "solution miss little main develop motor symptom tag sound draw pig pear";
+var mnemonic = "rack discover truly reopen danger pilot vague trouble town hover predict immune";

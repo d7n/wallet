@@ -1,1 +1,1 @@
-var mnemonic = "gate captain mixture foot journey report wrestle shop flash security frost reunion";
+var mnemonic = "cannon sport vacant motor egg mixed ladder race art field venue brief";

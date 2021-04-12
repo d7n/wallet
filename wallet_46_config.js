@@ -1,1 +1,1 @@
-var mnemonic = "thunder device kid snow caught limb source top trophy pilot object foster";
+var mnemonic = "together smile blue hold always inch relief siege emerge siren sibling liberty";

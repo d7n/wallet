@@ -1,1 +1,1 @@
-var mnemonic = "orange toy slab stereo kitchen dynamic trial sunset wave feel minute erupt";
+var mnemonic = "young fork school govern vacuum sight gorilla detail hurdle bid luxury merry";

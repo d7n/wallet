@@ -1,1 +1,1 @@
-var mnemonic = "attack decade since front observe work cute never grace crucial wrist gown";
+var mnemonic = "inherit number popular fame camp spell dinosaur voice famous guard empower enrich";

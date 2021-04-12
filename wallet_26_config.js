@@ -1,1 +1,1 @@
-var mnemonic = "glimpse cram stuff must crime letter rich sell wealth tissue fan better";
+var mnemonic = "magic evoke lumber impose addict chaos world nothing hard immense sample entire";

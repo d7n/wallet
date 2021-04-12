@@ -1,1 +1,1 @@
-var mnemonic = "ivory moon search wire oblige salute pistol disorder rocket swamp cactus effort";
+var mnemonic = "toe turtle blur birth cactus muscle situate illness spirit peanut spray shallow";

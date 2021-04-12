@@ -1,1 +1,1 @@
-var mnemonic = "feature coffee dust assume eyebrow blood flee filter forward blur grit arm";
+var mnemonic = "meadow belt scout bounce sorry garage piece large shuffle day deputy slim";

@@ -1,1 +1,1 @@
-var mnemonic = "grape wide mystery torch woman mask car solar coral vendor visual thrive";
+var mnemonic = "supply naive onion tower lake direct episode lion blast alarm point evoke";

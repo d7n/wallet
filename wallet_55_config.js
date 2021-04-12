@@ -1,1 +1,1 @@
-var mnemonic = "tackle glove need more salad tent slice spell space mouse lion sing";
+var mnemonic = "aware glance lonely cable over advance repeat shift demise ready horn couple";
