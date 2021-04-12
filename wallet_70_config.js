@@ -1,1 +1,1 @@
-var mnemonic = "okay six stairs chase seat inch best sorry total weekend dawn circle";
+var mnemonic = "muscle board magic flower bunker cotton also adapt orient mistake once valid";

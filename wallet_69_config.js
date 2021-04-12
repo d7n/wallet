@@ -1,1 +1,1 @@
-var mnemonic = "trash hill degree phrase swear seat shop slogan club silly pumpkin hire";
+var mnemonic = "copper network heart soldier leg film farm reason cancel pair ready ankle";

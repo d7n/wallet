@@ -1,1 +1,1 @@
-var mnemonic = "unhappy comfort tip spirit panther logic near milk brick scheme cat heart";
+var mnemonic = "vital paper album lazy ordinary style someone limit picnic gasp river cluster";

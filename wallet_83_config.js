@@ -1,1 +1,1 @@
-var mnemonic = "whip grace liquid lamp filter glory leg below wealth remember trap bulk";
+var mnemonic = "tornado seek sense steel veteran exchange square inmate remain amazing slim ordinary";

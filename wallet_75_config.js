@@ -1,1 +1,1 @@
-var mnemonic = "wreck term prevent nephew expire ancient physical surprise still festival guilt artist";
+var mnemonic = "group love satisfy lesson hair quarter myself humor since crisp style twin";

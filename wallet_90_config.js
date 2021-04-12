@@ -1,1 +1,1 @@
-var mnemonic = "devote steak ridge unique fragile toy picnic excuse general consider train divorce";
+var mnemonic = "page gossip arctic setup nut solid pony hurdle evoke special obtain pony";

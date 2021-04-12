@@ -1,1 +1,1 @@
-var mnemonic = "miss lawsuit pulse coffee movie arena cloud tiny pool bless symptom flush";
+var mnemonic = "dutch possible tumble ship vintage throw grief nominee comic bulk palm reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "boost dolphin year consider oven dose scrap crash rifle plate tattoo taxi";
+var mnemonic = "arrest sweet near require regret impulse leader phrase tornado receive cage inject";

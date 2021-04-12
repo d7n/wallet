@@ -1,1 +1,1 @@
-var mnemonic = "broom crop vote liberty furnace zero mango fiscal neither merge love what";
+var mnemonic = "olive ski unusual style name knee inform nasty foster caught exercise chimney";

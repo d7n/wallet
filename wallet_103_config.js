@@ -1,1 +1,1 @@
-var mnemonic = "resemble private lottery clip diamond city wrestle invest help save forward illegal";
+var mnemonic = "divert exhaust ignore office test limb town any nurse arm atom olympic";

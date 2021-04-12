@@ -1,1 +1,1 @@
-var mnemonic = "fit axis slight panic unusual sponsor ridge nominee follow ivory life parade";
+var mnemonic = "gallery birth tip rude supreme today target hurry benefit enough pole runway";

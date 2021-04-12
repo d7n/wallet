@@ -1,1 +1,1 @@
-var mnemonic = "inch country sibling pulp country law peasant any garment sunset luxury simple";
+var mnemonic = "immune deny field glass crush cactus speed paper income green ugly unusual";

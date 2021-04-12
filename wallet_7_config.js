@@ -1,1 +1,1 @@
-var mnemonic = "trust hurt walnut festival jungle canyon citizen method together opinion noble about";
+var mnemonic = "pair coconut ready woman giant special chief another ethics fiber guilt mansion";

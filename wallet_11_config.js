@@ -1,1 +1,1 @@
-var mnemonic = "tone member flower garage option mountain favorite mistake gorilla judge index awake";
+var mnemonic = "flag fitness pride jelly love ignore reunion bright dolphin ethics garment urge";

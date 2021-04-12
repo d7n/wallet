@@ -1,1 +1,1 @@
-var mnemonic = "banner away give short token blush improve sketch voice lemon grape blue";
+var mnemonic = "similar satisfy brass ripple kitten whale ostrich glue mass summer slot verb";

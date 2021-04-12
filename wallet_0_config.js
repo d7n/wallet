@@ -1,1 +1,1 @@
-var mnemonic = "tube office cereal tornado hover autumn vessel match jar powder obey dignity";
+var mnemonic = "fiscal blanket iron limit tail cute skill deliver edit wise art letter";

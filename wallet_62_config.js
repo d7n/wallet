@@ -1,1 +1,1 @@
-var mnemonic = "because length reward train outer burst gown argue tired pluck praise inmate";
+var mnemonic = "quit amazing harsh suspect mouse blade forget pretty session hollow february like";

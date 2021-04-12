@@ -1,1 +1,1 @@
-var mnemonic = "trade maple short jaguar beyond kidney buddy chimney room spare office iron";
+var mnemonic = "olympic soap renew page spin obscure crucial nurse negative sell armor early";

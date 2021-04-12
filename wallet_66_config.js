@@ -1,1 +1,1 @@
-var mnemonic = "spatial trial giggle wool weather oxygen motor short perfect edge magic van";
+var mnemonic = "crumble spot march ceiling permit sunny can because tiny stove borrow knife";

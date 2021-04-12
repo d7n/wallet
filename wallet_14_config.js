@@ -1,1 +1,1 @@
-var mnemonic = "talent chalk list turtle weapon camera usage buffalo core silver olympic middle";
+var mnemonic = "water funny team right polar inner later glass bamboo spoon bamboo renew";

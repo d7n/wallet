@@ -1,1 +1,1 @@
-var mnemonic = "local mule ivory question trend opinion program diagram train label mirror purity";
+var mnemonic = "census rifle float oyster gallery final case desert crop flash foam scrap";

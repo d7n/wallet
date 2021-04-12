@@ -1,1 +1,1 @@
-var mnemonic = "session october coyote mimic purchase team mobile exit good horse paper profit";
+var mnemonic = "method sibling game lake leaf chase huge stable test among verify dash";

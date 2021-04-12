@@ -1,1 +1,1 @@
-var mnemonic = "vessel west memory caught sausage same media extra pact marine move tunnel";
+var mnemonic = "guess endorse car rather cause million fiscal build borrow salad puzzle embrace";

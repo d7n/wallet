@@ -1,1 +1,1 @@
-var mnemonic = "tornado celery primary author twice kite flush clarify month client lion fitness";
+var mnemonic = "music dose banner pelican ribbon cancel census proof hamster menu fault cable";

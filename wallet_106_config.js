@@ -1,1 +1,1 @@
-var mnemonic = "cannon fame cushion return erode absurd mom pitch mention canvas good latin";
+var mnemonic = "replace help reward scan damp pact crime tackle tuition peanut minimum measure";

@@ -1,1 +1,1 @@
-var mnemonic = "okay ask fluid yard recipe obscure clean goat space snow same clinic";
+var mnemonic = "lemon casino tennis fine dragon boring quantum menu scheme law punch report";

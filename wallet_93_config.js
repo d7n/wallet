@@ -1,1 +1,1 @@
-var mnemonic = "beef vault buzz celery ocean vendor board bamboo flee return settle sock";
+var mnemonic = "diesel dutch myself flock flight famous pool express rebuild into board cargo";

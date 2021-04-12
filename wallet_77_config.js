@@ -1,1 +1,1 @@
-var mnemonic = "degree cushion critic vague lottery agree thrive giggle summer view noodle tornado";
+var mnemonic = "tobacco step decide snap cupboard purchase admit rely trophy obey mango sheriff";

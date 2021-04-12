@@ -1,1 +1,1 @@
-var mnemonic = "find assume comfort kitten twenty brief weapon shoulder bronze mixture faith clump";
+var mnemonic = "clog undo walk scatter gown wheel robust regular rabbit grunt soccer jacket";

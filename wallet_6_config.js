@@ -1,1 +1,1 @@
-var mnemonic = "ignore return window usage tooth kind dumb body swing milk prison dove";
+var mnemonic = "awake era era dragon depth biology weasel voice begin holiday penalty proud";

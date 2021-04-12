@@ -1,1 +1,1 @@
-var mnemonic = "learn nest price hammer once roof sunset proud pilot material cheese finish";
+var mnemonic = "rail lobster deliver firm fresh wolf alcohol green step stumble portion source";

@@ -1,1 +1,1 @@
-var mnemonic = "notice window dentist fuel coach immense gorilla panda first equip dry guard";
+var mnemonic = "betray provide glass border into credit brave pull valve mandate seminar random";

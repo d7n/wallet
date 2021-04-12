@@ -1,1 +1,1 @@
-var mnemonic = "test talent mimic mystery adapt tag define bread zero search cool agree";
+var mnemonic = "upon fish hold doctor enlist refuse parade river insane level tail level";

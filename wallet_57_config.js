@@ -1,1 +1,1 @@
-var mnemonic = "round modify carpet awesome bounce reason doctor receive benefit entire spoon uniform";
+var mnemonic = "pupil panda average kiss west nut quiz infant vanish awake mixture radio";

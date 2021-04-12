@@ -1,1 +1,1 @@
-var mnemonic = "cabin together balcony canyon draft term alarm silk wood paper main twin";
+var mnemonic = "neglect fancy circle wheel snack keen angry movie enact wrist unit pluck";

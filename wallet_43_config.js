@@ -1,1 +1,1 @@
-var mnemonic = "actual champion snake settle prevent vessel reunion cute harsh setup float affair";
+var mnemonic = "final move clerk object family jazz erosion eight immense apple illegal great";

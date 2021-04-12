@@ -1,1 +1,1 @@
-var mnemonic = "robot aspect armor bomb ski gauge rebuild invest any gloom wasp kitchen";
+var mnemonic = "monkey zebra below core annual cage rack panic slender lobster purpose suspect";

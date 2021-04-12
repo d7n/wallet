@@ -1,1 +1,1 @@
-var mnemonic = "humor coconut expose enlist arrive permit oven poverty help client cloud suit";
+var mnemonic = "kitchen better release exchange town gravity glad apple flower noble wheel calm";

@@ -1,1 +1,1 @@
-var mnemonic = "predict celery real heart congress sail hill one genre field sheriff eternal";
+var mnemonic = "mean nasty flag explain village alien industry solid ozone riot receive build";

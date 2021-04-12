@@ -1,1 +1,1 @@
-var mnemonic = "page prefer rude flip spare just engage want pizza attract bike monkey";
+var mnemonic = "purpose another describe soft rack trophy century chief write prepare thumb pill";

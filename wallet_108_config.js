@@ -1,1 +1,1 @@
-var mnemonic = "tail mechanic episode daughter proud section render birth echo charge fluid fuel";
+var mnemonic = "maple almost educate afraid distance siege defense gloom wage way give response";

@@ -1,1 +1,1 @@
-var mnemonic = "room yard require junior devote crack differ flush train afford street recycle";
+var mnemonic = "learn claim cinnamon build book fat puzzle loop record disease machine rifle";

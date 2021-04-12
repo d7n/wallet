@@ -1,1 +1,1 @@
-var mnemonic = "sustain express color blame capable special clog fresh drift weekend industry select";
+var mnemonic = "divide enable credit diet pizza result fetch ribbon sleep crouch couple toddler";

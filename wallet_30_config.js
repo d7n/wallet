@@ -1,1 +1,1 @@
-var mnemonic = "engage blossom orient cattle morning anxiety creek sign tone clap tree portion";
+var mnemonic = "snake vital dove thrive mom autumn resist abstract lava scene across laugh";

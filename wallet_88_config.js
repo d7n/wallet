@@ -1,1 +1,1 @@
-var mnemonic = "together paddle food glory cushion love service great mask tackle divert remember";
+var mnemonic = "waste wild brush twist report rain alert success wash broom belt pulp";

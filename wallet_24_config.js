@@ -1,1 +1,1 @@
-var mnemonic = "caught strategy tank design oak gold grid cloud else laugh hockey awake";
+var mnemonic = "exhaust ignore valve phrase acoustic until nerve mind vote huge slam over";

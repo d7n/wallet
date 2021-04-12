@@ -1,1 +1,1 @@
-var mnemonic = "oven carpet head broken valid north inform fan just spoil either tool";
+var mnemonic = "frog cactus toss violin fragile foot fiscal medal involve flush isolate rice";

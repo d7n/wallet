@@ -1,1 +1,1 @@
-var mnemonic = "flower casino airport garage economy follow monkey cram scare juice siren best";
+var mnemonic = "ten nurse century slim uncover keep father work final copy neglect position";

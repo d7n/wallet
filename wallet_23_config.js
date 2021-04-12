@@ -1,1 +1,1 @@
-var mnemonic = "hidden team mouse charge city knock wall cake gravity toward inform keep";
+var mnemonic = "digital magnet legal together shove boring shuffle frame game catch drink gym";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch gesture curtain region feed smart tragic purity train undo lava horn";
+var mnemonic = "situate equip cereal achieve oil round hamster bronze engage warm strong proud";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle ignore tape emerge vessel fever swap tube seek fall bulb hurry";
+var mnemonic = "exhaust curtain plate right staff gaze find depart topple puppy tower stomach";

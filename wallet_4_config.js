@@ -1,1 +1,1 @@
-var mnemonic = "federal blush hedgehog stadium creek trophy upon kingdom stomach smoke nature head";
+var mnemonic = "mercy family pudding cheap wave blush pulp public random spoon possible verify";

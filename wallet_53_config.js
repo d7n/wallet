@@ -1,1 +1,1 @@
-var mnemonic = "wine village inhale debate rely siege tourist elegant pioneer belt ticket tomato";
+var mnemonic = "snow tackle lunch guess glide sunset say nose session rapid engine pretty";

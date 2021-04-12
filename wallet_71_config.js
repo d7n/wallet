@@ -1,1 +1,1 @@
-var mnemonic = "include cave spirit price eternal civil setup inmate goat minimum omit problem";
+var mnemonic = "clay friend lottery monkey patch device donkey pass junk turn cloth grace";

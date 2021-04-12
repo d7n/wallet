@@ -1,1 +1,1 @@
-var mnemonic = "brain fashion scrub globe gown park parent scare load decorate warfare process";
+var mnemonic = "favorite remind wink ice fish quiz force suit spring notice amused tooth";

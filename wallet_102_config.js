@@ -1,1 +1,1 @@
-var mnemonic = "butter symptom rebuild coast crucial diet jelly text tag shield strike toss";
+var mnemonic = "noble immune any ugly lawsuit rose congress cycle device life mind wave";

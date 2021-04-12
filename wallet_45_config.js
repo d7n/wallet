@@ -1,1 +1,1 @@
-var mnemonic = "hope dial blind initial magnet relax reward width today inherit repair field";
+var mnemonic = "slab tongue group relief maximum slight renew multiply drink coin chest evidence";

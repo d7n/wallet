@@ -1,1 +1,1 @@
-var mnemonic = "keep lawsuit rifle mercy unit village culture prize abandon cram drop combine";
+var mnemonic = "gasp sing subway couple sphere boost olive index manual miss way novel";

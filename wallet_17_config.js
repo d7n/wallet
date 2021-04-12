@@ -1,1 +1,1 @@
-var mnemonic = "alter reopen warm opera tenant drop regret slender roof december skin clinic";
+var mnemonic = "glance vacant magic citizen plunge useless velvet deer wild ecology bag faint";

@@ -1,1 +1,1 @@
-var mnemonic = "safe cook lake want muscle immense release silk job ankle among lazy";
+var mnemonic = "avoid sketch job gain crunch other abuse author wash coin song solid";

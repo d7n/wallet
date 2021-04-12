@@ -1,1 +1,1 @@
-var mnemonic = "survey table repair antique urban tenant elephant demise disease hole mosquito globe";
+var mnemonic = "glad erase liquid hello merry category forward dust message couch pet exhaust";

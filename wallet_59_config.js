@@ -1,1 +1,1 @@
-var mnemonic = "eight vivid drink slow until dad walnut enable near bitter enlist property";
+var mnemonic = "cover soda organ owner jaguar gain despair strategy carpet cram truth swarm";

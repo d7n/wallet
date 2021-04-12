@@ -1,1 +1,1 @@
-var mnemonic = "napkin rubber suggest agree fit nut same truly science orbit diet kitten";
+var mnemonic = "charge certain wire calm empower horse critic snack habit shine leader satoshi";

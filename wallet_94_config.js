@@ -1,1 +1,1 @@
-var mnemonic = "response poem angle theme giraffe ritual toilet balance region blush enemy trap";
+var mnemonic = "slush shell service blanket sun cousin grocery resource canoe pitch flash embrace";

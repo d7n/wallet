@@ -1,1 +1,1 @@
-var mnemonic = "firm unfair hub wave kit source frozen journey force practice pull sadness";
+var mnemonic = "work bike nose never above web bird prison cancel top world quiz";

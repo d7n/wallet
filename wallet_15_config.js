@@ -1,1 +1,1 @@
-var mnemonic = "struggle own luggage enough fruit truck tell legend act wave wasp hockey";
+var mnemonic = "chase draft enforce aspect slush shiver metal taste aware daring turtle velvet";

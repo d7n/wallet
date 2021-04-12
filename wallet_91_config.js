@@ -1,1 +1,1 @@
-var mnemonic = "home ozone horn require vapor option grape bundle announce ripple bone hunt";
+var mnemonic = "fragile cupboard drill strike post cherry again fortune hard curve law alien";

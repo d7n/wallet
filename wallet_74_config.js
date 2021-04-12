@@ -1,1 +1,1 @@
-var mnemonic = "ski voice ring nominee blouse security twelve repeat thing diagram provide rice";
+var mnemonic = "blossom leave liberty flavor saddle place brick between chaos odor find motor";

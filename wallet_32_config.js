@@ -1,1 +1,1 @@
-var mnemonic = "any narrow vanish caution occur pig test demise sauce arrest hundred powder";
+var mnemonic = "mean emerge ring calm deer upon suggest helmet security enable wage valve";

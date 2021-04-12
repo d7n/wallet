@@ -1,1 +1,1 @@
-var mnemonic = "ivory idea law clutch casual income virus math lizard require spend nerve";
+var mnemonic = "opera hill assume flip milk desk hood indicate street little spoon plate";

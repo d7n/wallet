@@ -1,1 +1,1 @@
-var mnemonic = "motion income spell move top muffin jungle delay power base decorate skin";
+var mnemonic = "exotic ketchup team cream winner insane dry range dolphin capital maid hobby";

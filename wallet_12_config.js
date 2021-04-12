@@ -1,1 +1,1 @@
-var mnemonic = "outside lamp alarm number yellow bomb glare typical actor story always disorder";
+var mnemonic = "document robot slush tunnel flavor kid jeans program winter maid client liberty";

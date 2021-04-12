@@ -1,1 +1,1 @@
-var mnemonic = "machine you erosion vote dinner body wink riot stay path maximum design";
+var mnemonic = "romance lounge wealth cheap sister empower cliff pave they gossip illness aspect";

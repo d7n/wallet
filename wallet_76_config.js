@@ -1,1 +1,1 @@
-var mnemonic = "picture neglect decorate weekend vital rule step bring ability fatal acoustic march";
+var mnemonic = "armor very define thought ancient actress embark distance attack fox motor scatter";

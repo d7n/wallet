@@ -1,1 +1,1 @@
-var mnemonic = "verify limit say elegant short decide weather athlete brisk spot doctor lift";
+var mnemonic = "curious feature sorry indicate pair pluck hospital pencil atom junior client aunt";

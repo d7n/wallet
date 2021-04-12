@@ -1,1 +1,1 @@
-var mnemonic = "gap outside sentence waste eagle possible life divert cage attend evidence minute";
+var mnemonic = "wheel menu lunar pudding bus flat chest lecture tube practice typical month";

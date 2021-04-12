@@ -1,1 +1,1 @@
-var mnemonic = "zero account blind meat jeans brisk broken sad old lunar spice garden";
+var mnemonic = "grant dash evil glimpse pencil biology sad identify title family episode must";

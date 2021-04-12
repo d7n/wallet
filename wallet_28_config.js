@@ -1,1 +1,1 @@
-var mnemonic = "peace sentence dilemma crater theory pass zone humble better second banner balance";
+var mnemonic = "transfer catalog suit casino blur sword pulp rent apple puzzle pet hurry";

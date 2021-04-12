@@ -1,1 +1,1 @@
-var mnemonic = "puppy window avocado nice gravity age wrist scatter situate reveal thank make";
+var mnemonic = "cliff exchange mule game happy job source wasp worth nominee pumpkin tuna";

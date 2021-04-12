@@ -1,1 +1,1 @@
-var mnemonic = "bean unlock squeeze matter skull jealous foot orbit pretty indoor injury evil";
+var mnemonic = "chat timber crouch electric amateur edge sport viable noble human song buyer";

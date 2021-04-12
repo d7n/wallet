@@ -1,1 +1,1 @@
-var mnemonic = "idea horse primary priority strategy govern shock wet snap scout blade note";
+var mnemonic = "caution orphan horse gym syrup zone uphold miracle practice present hollow card";

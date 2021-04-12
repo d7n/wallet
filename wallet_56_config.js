@@ -1,1 +1,1 @@
-var mnemonic = "receive certain mirror hundred share winner flock column output medal grant dirt";
+var mnemonic = "sunny repeat quote allow combine cliff catch position since thought describe maid";

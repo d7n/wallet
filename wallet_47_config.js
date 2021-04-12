@@ -1,1 +1,1 @@
-var mnemonic = "sun assume egg game birth once service clip tourist all mule asthma";
+var mnemonic = "decade economy model pony alert village analyst wine throw hope present face";

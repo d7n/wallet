@@ -1,1 +1,1 @@
-var mnemonic = "special demise panda usual birth isolate author remember among cause first ahead";
+var mnemonic = "piano cinnamon narrow bargain glue praise secret clown link wrist surface pond";

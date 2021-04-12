@@ -1,1 +1,1 @@
-var mnemonic = "vintage element tent absorb giraffe idle coil tourist paddle stairs mountain industry";
+var mnemonic = "fly beef opera worth sense carpet ahead ridge disorder zebra check coast";

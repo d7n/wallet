@@ -1,1 +1,1 @@
-var mnemonic = "sibling write congress web husband middle fatal fine harvest moral erase omit";
+var mnemonic = "surge change hand soon april plug member fade devote coyote detect spirit";

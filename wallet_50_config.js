@@ -1,1 +1,1 @@
-var mnemonic = "picnic fire trash defy crumble whisper hero again sudden laptop heart wheat";
+var mnemonic = "chicken chimney furnace push expire wide pair chat debate sentence exact device";

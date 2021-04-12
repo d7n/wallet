@@ -1,1 +1,1 @@
-var mnemonic = "question beauty regret smooth rookie toddler depend pitch grape negative foil apart";
+var mnemonic = "catch merry pink describe three virtual flush conduct antenna business flag narrow";

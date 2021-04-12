@@ -1,1 +1,1 @@
-var mnemonic = "burst web dentist ribbon city tourist delay budget pioneer dream tornado belt";
+var mnemonic = "holiday key mercy buddy degree range coconut floor credit sample excuse west";
