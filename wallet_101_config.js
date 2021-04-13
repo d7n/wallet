@@ -1,1 +1,1 @@
-var mnemonic = "jealous alcohol apple game library rapid strong dirt people medal month retire";
+var mnemonic = "repair shed drift glove leisure village parade position night ocean audit elite";

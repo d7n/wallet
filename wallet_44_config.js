@@ -1,1 +1,1 @@
-var mnemonic = "food vivid crater use arrest ready horror series awful meadow stone fee";
+var mnemonic = "road jealous never soccer coil razor bring loyal hip harbor imitate direct";

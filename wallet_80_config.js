@@ -1,1 +1,1 @@
-var mnemonic = "theme husband car print casino path case method clerk ski nose lounge";
+var mnemonic = "nose gain artefact crowd always make expand toy travel bracket fancy wage";

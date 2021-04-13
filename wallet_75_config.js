@@ -1,1 +1,1 @@
-var mnemonic = "disease comfort until virtual nephew solar arena village grant boost gift flock";
+var mnemonic = "mention flush world timber pool axis cloud pause wife cruise thrive robot";

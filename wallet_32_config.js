@@ -1,1 +1,1 @@
-var mnemonic = "often virus battle gas country cotton bright grape surface combine spin various";
+var mnemonic = "text submit survey bachelor ramp dish little curious blanket accuse much direct";

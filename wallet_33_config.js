@@ -1,1 +1,1 @@
-var mnemonic = "evolve ridge toast box bubble merry episode only fatigue example choice whale";
+var mnemonic = "sauce strategy mandate nerve twelve shuffle feed dose glove orbit rude screen";

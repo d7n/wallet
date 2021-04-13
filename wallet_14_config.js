@@ -1,1 +1,1 @@
-var mnemonic = "cactus bamboo involve dress rigid boy thrive twelve between enemy exchange retire";
+var mnemonic = "injury concert deer spin base autumn congress arctic brown inside enlist parade";

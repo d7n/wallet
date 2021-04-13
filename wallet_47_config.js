@@ -1,1 +1,1 @@
-var mnemonic = "shadow rural wedding gesture symbol advance rapid supply write explain reunion perfect";
+var mnemonic = "talent school coil artefact cool muscle exist coil never pool mirror topic";

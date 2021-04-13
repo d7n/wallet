@@ -1,1 +1,1 @@
-var mnemonic = "wire length tip inherit amused trust bench orchard subway zone stable ankle";
+var mnemonic = "dose fiber creek onion master bread key mule nerve action cigar obey";

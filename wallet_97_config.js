@@ -1,1 +1,1 @@
-var mnemonic = "episode crazy express genuine switch caught doll frown arrive gasp swear budget";
+var mnemonic = "giant review soldier during coral assist kingdom frost pigeon merry awesome suspect";

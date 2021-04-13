@@ -1,1 +1,1 @@
-var mnemonic = "sugar hen filter spot cable boil dose nation question nasty glide leaf";
+var mnemonic = "high destroy hello wolf wine actor gun stone famous marriage require record";

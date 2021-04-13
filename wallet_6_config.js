@@ -1,1 +1,1 @@
-var mnemonic = "syrup frog disorder rose turtle boring crush sheriff license simple creek frown";
+var mnemonic = "clock share cotton find eyebrow boy vicious alien smoke transfer oyster guitar";

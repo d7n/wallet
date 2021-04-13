@@ -1,1 +1,1 @@
-var mnemonic = "shift glow huge auto fluid swift episode topic sadness solution bus tomato";
+var mnemonic = "tenant piece tuna recipe rack strong mask traffic joy cluster true mosquito";

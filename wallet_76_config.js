@@ -1,1 +1,1 @@
-var mnemonic = "swim pill mind skull route wolf repair trim distance visual morning chaos";
+var mnemonic = "robot able august kind color settle hundred artefact opera nerve wrist radio";

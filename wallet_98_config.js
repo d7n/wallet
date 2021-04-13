@@ -1,1 +1,1 @@
-var mnemonic = "pyramid garbage exile idea conduct expose chapter mushroom cage until rent dove";
+var mnemonic = "nice crisp service castle warfare glare diagram process rebuild hidden powder anchor";

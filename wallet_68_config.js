@@ -1,1 +1,1 @@
-var mnemonic = "shy jar message smart dismiss multiply include suggest oxygen repeat payment say";
+var mnemonic = "pudding sudden spread chef ozone clip dutch exist retreat toss meat employ";

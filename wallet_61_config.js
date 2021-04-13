@@ -1,1 +1,1 @@
-var mnemonic = "clean skill clay final legend coach pencil urge grain tourist normal again";
+var mnemonic = "gaze bullet check assist cup symbol found alert involve flavor fog over";

@@ -1,1 +1,1 @@
-var mnemonic = "verify banner amount gift disease deny middle man space element illegal sand";
+var mnemonic = "such solid grant fluid copper reveal sea above write garbage embark spike";

@@ -1,1 +1,1 @@
-var mnemonic = "jar trigger duck goat ship island ten garbage core share change focus";
+var mnemonic = "stadium rough guitar cause dirt little entire arrange inform mad icon crouch";

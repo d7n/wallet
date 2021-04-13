@@ -1,1 +1,1 @@
-var mnemonic = "stereo coyote share dad render immune ostrich fabric chalk abuse sudden sign";
+var mnemonic = "window grape kidney food whisper transfer cherry used hurry blame average crouch";

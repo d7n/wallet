@@ -1,1 +1,1 @@
-var mnemonic = "blue surge stool knee just cotton cancel joke verify arrow cave man";
+var mnemonic = "biology frozen enroll earn involve secret frown scheme custom mesh mosquito robot";

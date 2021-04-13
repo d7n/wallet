@@ -1,1 +1,1 @@
-var mnemonic = "allow pigeon load future cherry decrease meat robust slim sure retire extend";
+var mnemonic = "search pony veteran logic liquid since bounce order debate tool during neither";

@@ -1,1 +1,1 @@
-var mnemonic = "equip banner praise job weekend truth medal pear ethics level cargo noodle";
+var mnemonic = "rug burger match turn infant narrow arctic input avocado predict frog social";

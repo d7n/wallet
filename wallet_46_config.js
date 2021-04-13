@@ -1,1 +1,1 @@
-var mnemonic = "trim shallow degree retire correct wash forward goddess modify cream photo vicious";
+var mnemonic = "dog opera there onion ginger duck slight spoon buyer symbol mouse embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "spare picnic royal stem include robust slot auto nut syrup promote door";
+var mnemonic = "local where blue liar glove swamp stone narrow reward leg push disagree";

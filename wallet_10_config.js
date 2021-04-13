@@ -1,1 +1,1 @@
-var mnemonic = "shed tool high bubble air garbage napkin announce awake column voyage dry";
+var mnemonic = "produce junior boost remind orange ocean april undo desert radar involve cousin";

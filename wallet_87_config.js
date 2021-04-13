@@ -1,1 +1,1 @@
-var mnemonic = "destroy flock horror people soon monitor tackle toy fade artwork inflict rough";
+var mnemonic = "knee please produce build that theory park erode enlist dry century ozone";

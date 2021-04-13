@@ -1,1 +1,1 @@
-var mnemonic = "wild patch cherry proud mesh trade diesel target gloom sort devote morning";
+var mnemonic = "slice draft pioneer illness portion toy allow chase rate just clarify friend";

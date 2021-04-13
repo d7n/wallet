@@ -1,1 +1,1 @@
-var mnemonic = "target someone daring diamond track carry spin damage slam powder pause add";
+var mnemonic = "safe wave that stock surround open meat adjust toward salad menu habit";

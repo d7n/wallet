@@ -1,1 +1,1 @@
-var mnemonic = "since original hire nominee cat spell obtain trigger effort helmet maze grief";
+var mnemonic = "ability put theory blossom stick ghost bread humor try borrow crystal pull";

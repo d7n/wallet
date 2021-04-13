@@ -1,1 +1,1 @@
-var mnemonic = "library october crystal blame shove history manage monkey aerobic junior medal frost";
+var mnemonic = "front ensure glad across shadow beauty attitude bean buddy supreme weasel dragon";

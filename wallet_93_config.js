@@ -1,1 +1,1 @@
-var mnemonic = "nasty better prepare example pudding champion hammer kitten shock vapor lady offer";
+var mnemonic = "whisper slow song glad seed cost slide bulb alarm coyote pig vote";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard present bullet casino exhibit era wheat meat correct burst limit bacon";
+var mnemonic = "stadium claw decrease move enhance public episode lonely affair saddle tomorrow shoot";

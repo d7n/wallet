@@ -1,1 +1,1 @@
-var mnemonic = "trigger useless lemon strong moment airport divide conduct grief gloom rural diamond";
+var mnemonic = "save soon popular acoustic claim basic miss annual bike uncle weasel happy";

@@ -1,1 +1,1 @@
-var mnemonic = "dune flip reopen neglect slow route six toilet pause muffin cup disagree";
+var mnemonic = "face diamond fruit relief garment talk other rule finish private drip divorce";

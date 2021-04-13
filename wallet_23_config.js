@@ -1,1 +1,1 @@
-var mnemonic = "bargain switch adult obvious owner hundred easily glimpse language glory fish foster";
+var mnemonic = "then furnace display suffer ring nasty copy party erase hold elephant risk";

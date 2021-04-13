@@ -1,1 +1,1 @@
-var mnemonic = "echo mad trade gown elegant angry depart foam puzzle puppy quality prevent";
+var mnemonic = "photo salute jealous rapid course crouch own smoke position baby brush aim";

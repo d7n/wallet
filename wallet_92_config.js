@@ -1,1 +1,1 @@
-var mnemonic = "abandon bag wreck pond merry exchange sibling express toddler sail forget such";
+var mnemonic = "explain stem essay area warm latin choose foster type seven cereal eight";

@@ -1,1 +1,1 @@
-var mnemonic = "test age miss age amount barely reflect live piece remember mistake leader";
+var mnemonic = "sister isolate sword thank oak frost fly divert include biology oppose forget";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease include rack spot leopard clog tail curious subject admit chronic potato";
+var mnemonic = "copy various twist sign increase alpha order mutual increase unfold trial income";

@@ -1,1 +1,1 @@
-var mnemonic = "goat sphere nuclear distance announce betray army layer van input demand explain";
+var mnemonic = "belt dismiss rigid fancy border aisle multiply modify grab east aunt sketch";

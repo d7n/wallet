@@ -1,1 +1,1 @@
-var mnemonic = "exist boost advice find enroll intact social nephew piece equal weekend body";
+var mnemonic = "outdoor immune shoulder captain energy chat garment chalk demand sense script more";

@@ -1,1 +1,1 @@
-var mnemonic = "scare device bar hub push diary duck quick sea girl world village";
+var mnemonic = "legal attract belt banner flash sadness wrist inquiry strike aim pact impose";

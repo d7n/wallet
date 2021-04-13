@@ -1,1 +1,1 @@
-var mnemonic = "boat twelve collect have issue traffic worth uphold harsh whip punch grass";
+var mnemonic = "detect lion code lizard mimic height water gaze type hundred unit kiwi";

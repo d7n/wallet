@@ -1,1 +1,1 @@
-var mnemonic = "easy track drive stumble iron business obvious upgrade clinic rice harvest chapter";
+var mnemonic = "frequent casino cream eager buddy chief pull warfare nut invest claw erupt";

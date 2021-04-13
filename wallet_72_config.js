@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cargo warrior roof involve consider spoon talk isolate yard plunge time";
+var mnemonic = "awkward alone ghost shrimp couch elephant witness exotic entire mandate eagle ship";

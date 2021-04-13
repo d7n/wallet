@@ -1,1 +1,1 @@
-var mnemonic = "atom stone coral service company inch page regular fever trade course until";
+var mnemonic = "keen age confirm peanut love second west price treat unfair robot liquid";

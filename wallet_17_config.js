@@ -1,1 +1,1 @@
-var mnemonic = "camp improve nest couple load debris trumpet same plate chest glory stuff";
+var mnemonic = "rural brave armed great scene diet pen office nation give marine one";

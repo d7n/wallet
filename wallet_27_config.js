@@ -1,1 +1,1 @@
-var mnemonic = "broom spare interest tonight display include finger flip hurdle clock chest disease";
+var mnemonic = "milk coach credit venue achieve cart nothing unhappy surge civil afraid region";

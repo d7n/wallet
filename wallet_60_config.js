@@ -1,1 +1,1 @@
-var mnemonic = "struggle tone wet window lobster salute trial host bread mom wet mixture";
+var mnemonic = "air that middle hair certain license result mechanic shoulder universe snow capable";

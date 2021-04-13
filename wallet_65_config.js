@@ -1,1 +1,1 @@
-var mnemonic = "light expire flight debate perfect note real target school casino banana inspire";
+var mnemonic = "gate uncle black letter clinic fury vicious route clean control approve size";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare arm skull cover round female ten track broccoli impulse print scrub";
+var mnemonic = "milk route vanish other funny labor rubber kitten tell clarify peace source";

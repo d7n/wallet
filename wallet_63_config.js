@@ -1,1 +1,1 @@
-var mnemonic = "rate amused airport knee cloud parade kite supreme cabbage drop behave brush";
+var mnemonic = "midnight badge slight grain since blind kit sustain kitten oppose slim tide";

@@ -1,1 +1,1 @@
-var mnemonic = "price perfect surface position divorce ice large legal position evil tiny that";
+var mnemonic = "test penalty sibling sense panda tunnel blush basic duck birth hurt awful";

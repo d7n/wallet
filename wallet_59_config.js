@@ -1,1 +1,1 @@
-var mnemonic = "obtain change remember diagram size actual credit armed jaguar exhaust brush betray";
+var mnemonic = "coach trigger pelican wheat nature utility health emotion exist squeeze bind wonder";

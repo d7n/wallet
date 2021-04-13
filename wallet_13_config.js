@@ -1,1 +1,1 @@
-var mnemonic = "stock meadow okay wealth nut near faith track course mixture mammal hover";
+var mnemonic = "arm scan aisle sorry vocal crew hill number smoke betray fringe prosper";

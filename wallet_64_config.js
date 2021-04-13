@@ -1,1 +1,1 @@
-var mnemonic = "twelve empower royal state hidden ice stone inform health answer walk scorpion";
+var mnemonic = "logic mammal ceiling neither flight spread horror combine eye lock nice nothing";

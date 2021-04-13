@@ -1,1 +1,1 @@
-var mnemonic = "waste urge session ski draft skill travel usage staff vital know laptop";
+var mnemonic = "gain click safe angry raw merry round wedding follow web clump first";

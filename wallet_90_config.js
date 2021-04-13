@@ -1,1 +1,1 @@
-var mnemonic = "rifle urban trust ship pepper finger super quit clay remind sweet diamond";
+var mnemonic = "stamp fossil taste awesome fish strike ready stool eyebrow volcano stomach rookie";

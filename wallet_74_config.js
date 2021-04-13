@@ -1,1 +1,1 @@
-var mnemonic = "image village hammer young target spoil unfair inherit rebel tennis jealous truck";
+var mnemonic = "garment weapon sadness festival fruit neither menu ethics hotel apple around wait";

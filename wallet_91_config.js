@@ -1,1 +1,1 @@
-var mnemonic = "script moral false add weekend prefer antenna million thunder horror educate fee";
+var mnemonic = "around visit race yard bomb report boat fury protect actor tissue copper";

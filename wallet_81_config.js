@@ -1,1 +1,1 @@
-var mnemonic = "spare split copy battle cloud ripple exist train oppose explain bubble near";
+var mnemonic = "country delay urban avoid benefit forest silent ahead slush remain erode pupil";

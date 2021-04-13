@@ -1,1 +1,1 @@
-var mnemonic = "lava rookie find repair session exhibit coffee hurdle differ arrow grape shiver";
+var mnemonic = "lawsuit cancel dismiss horn snap example appear main unfold drum jaguar either";

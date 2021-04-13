@@ -1,1 +1,1 @@
-var mnemonic = "soup season curious until absorb taxi view glare illness another clinic cotton";
+var mnemonic = "trust link save crouch text normal wage divorce once snap minimum fetch";

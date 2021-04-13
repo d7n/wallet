@@ -1,1 +1,1 @@
-var mnemonic = "front link borrow drum nest echo evil pet liar gospel abstract three";
+var mnemonic = "dust try cloud wave response segment mercy private ring ship mechanic sail";

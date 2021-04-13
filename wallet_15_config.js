@@ -1,1 +1,1 @@
-var mnemonic = "gap pave mention angle damage motor bar copper refuse wise episode cry";
+var mnemonic = "bright safe now ticket depend mistake order sell move luxury educate universe";

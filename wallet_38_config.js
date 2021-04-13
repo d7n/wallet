@@ -1,1 +1,1 @@
-var mnemonic = "fiber rich noodle april helmet wheat more short reform cancel pond gauge";
+var mnemonic = "ball have season barely sea dilemma because nose finger museum december hire";

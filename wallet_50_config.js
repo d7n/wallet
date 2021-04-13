@@ -1,1 +1,1 @@
-var mnemonic = "panther dragon bomb conduct web spirit climb phone century salute modify force";
+var mnemonic = "purse noble lizard taste float arena recycle pudding oven predict bracket fly";

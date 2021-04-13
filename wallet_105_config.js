@@ -1,1 +1,1 @@
-var mnemonic = "install giant size dinosaur taste dad video knock diary unable camp step";
+var mnemonic = "output charge manage gas hundred scene board attack space cricket record people";

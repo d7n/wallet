@@ -1,1 +1,1 @@
-var mnemonic = "lesson train you humble knife squirrel jazz fiction season purity act bring";
+var mnemonic = "iron please burger uphold cherry glance order sea hurt mystery brisk hill";

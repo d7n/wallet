@@ -1,1 +1,1 @@
-var mnemonic = "embody ask bid what unveil century violin slogan solid consider swift spray";
+var mnemonic = "talent genuine ordinary evolve valid domain obvious verb hockey just always harbor";

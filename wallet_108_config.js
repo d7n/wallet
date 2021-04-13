@@ -1,1 +1,1 @@
-var mnemonic = "blind marriage arrange fault broom calm special release satisfy rebuild coconut puzzle";
+var mnemonic = "caught donate lizard point hover also melody almost vivid win relief sample";

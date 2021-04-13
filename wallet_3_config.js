@@ -1,1 +1,1 @@
-var mnemonic = "include enter sail code trash woman prosper allow general essence surround title";
+var mnemonic = "clean spring order speed siege drama juice usage habit settle normal client";

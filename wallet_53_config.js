@@ -1,1 +1,1 @@
-var mnemonic = "horn tired seminar draft clean wash concert diary ordinary room connect neutral";
+var mnemonic = "cruise match intact secret next pigeon wife name century sadness dentist wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "below offer material topic wide biology bargain ride talk quote own aunt";
+var mnemonic = "milk equal sentence equal rose knock adult suspect supreme shrug zoo tray";

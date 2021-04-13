@@ -1,1 +1,1 @@
-var mnemonic = "orbit social eternal pelican science memory crucial crew fitness faith virtual absent";
+var mnemonic = "tragic cabbage shadow orphan hazard spin paddle layer medal globe innocent lady";

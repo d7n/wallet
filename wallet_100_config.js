@@ -1,1 +1,1 @@
-var mnemonic = "december lunch pyramid join they balcony lemon powder connect never awkward shed";
+var mnemonic = "demise task double dream foster knee disorder proud rifle leader wall plunge";

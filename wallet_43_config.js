@@ -1,1 +1,1 @@
-var mnemonic = "toward float evoke canoe order melt acoustic rough author latin icon force";
+var mnemonic = "stable neutral maple spell base portion fossil fancy bus obey educate dinosaur";

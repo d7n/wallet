@@ -1,1 +1,1 @@
-var mnemonic = "expose physical piano reform lab brave upper knee few arrest choose cabbage";
+var mnemonic = "awake leisure section own assist various coffee kitchen hospital exact fold first";

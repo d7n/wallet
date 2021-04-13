@@ -1,1 +1,1 @@
-var mnemonic = "clump cheap point camp now priority bomb snack meadow lyrics basic prison";
+var mnemonic = "negative clever crane sketch crack day hobby laundry spring upset cover cube";

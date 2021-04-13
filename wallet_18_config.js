@@ -1,1 +1,1 @@
-var mnemonic = "skirt slab flavor proof snack pet lion maple source youth pill either";
+var mnemonic = "result ginger spend grow grid blue ice patch dove abstract fossil forum";

@@ -1,1 +1,1 @@
-var mnemonic = "talent outer notice twice shoe toilet box stand detect initial waste what";
+var mnemonic = "mutual farm exhibit human ghost coach nut state yellow problem brick churn";

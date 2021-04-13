@@ -1,1 +1,1 @@
-var mnemonic = "worth ski travel acid arm behave trip trouble dumb work antenna install";
+var mnemonic = "humble castle have initial wheel mystery clutch usual strong behind slide floor";

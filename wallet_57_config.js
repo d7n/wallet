@@ -1,1 +1,1 @@
-var mnemonic = "panda promote jewel faculty satisfy enroll exile mail hair box congress gold";
+var mnemonic = "spoil engine hazard spring hybrid valley ozone suffer enact butter blood own";

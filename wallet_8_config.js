@@ -1,1 +1,1 @@
-var mnemonic = "fine noodle divert hammer congress armor together test airport dumb follow position";
+var mnemonic = "sniff lumber smile athlete game ensure actual social clarify faint subway language";

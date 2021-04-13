@@ -1,1 +1,1 @@
-var mnemonic = "antique shield ridge top reform beach medal reflect use pulse rescue glare";
+var mnemonic = "opera shuffle uphold general find toe gentle mix exact fence measure smart";

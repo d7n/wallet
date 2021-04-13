@@ -1,1 +1,1 @@
-var mnemonic = "brick leg mansion include artist dirt quarter purpose word corn noble tilt";
+var mnemonic = "million clip food tunnel liberty rotate hundred toddler excite patient inform face";

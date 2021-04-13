@@ -1,1 +1,1 @@
-var mnemonic = "duck shallow allow mean motor vocal pencil fork pottery year arena disease";
+var mnemonic = "weekend habit slab wet extra quality injury theory logic girl cotton soul";

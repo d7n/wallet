@@ -1,1 +1,1 @@
-var mnemonic = "balcony blame human turkey afraid armed despair corn truly comfort uphold diagram";
+var mnemonic = "model vocal tonight trend flame royal vast evil fade duck simple position";

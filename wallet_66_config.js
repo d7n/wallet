@@ -1,1 +1,1 @@
-var mnemonic = "vintage consider forest drop flower cat gather rent length mask feed film";
+var mnemonic = "theme oyster elder lucky manual village slot average crash dizzy access example";
