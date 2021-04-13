@@ -1,1 +1,1 @@
-var mnemonic = "radio poem fee pave modify parent reduce episode need castle grass people";
+var mnemonic = "genius imitate chaos poem survey write bacon thank wild mountain convince tuna";

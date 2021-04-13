@@ -1,1 +1,1 @@
-var mnemonic = "step side knee tackle diary doll silk obey axis crawl message pill";
+var mnemonic = "want margin cry cause please beauty second major kid essence chuckle finish";

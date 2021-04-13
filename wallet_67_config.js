@@ -1,1 +1,1 @@
-var mnemonic = "parent about enhance merge second frog bulb jelly despair cruise athlete dress";
+var mnemonic = "pill token wonder unfair celery pitch census noodle flight cycle fuel window";

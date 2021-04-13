@@ -1,1 +1,1 @@
-var mnemonic = "perfect shine warrior car enter trust quote prevent story vibrant protect water";
+var mnemonic = "hen chapter hungry birth element bulk ancient negative allow have wagon shell";

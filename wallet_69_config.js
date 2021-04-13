@@ -1,1 +1,1 @@
-var mnemonic = "limb filter crystal struggle practice cloth expand cross account spice boat shadow";
+var mnemonic = "option depart fat village antenna cube conduct reopen cannon weasel apology help";

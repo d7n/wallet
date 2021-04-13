@@ -1,1 +1,1 @@
-var mnemonic = "suit pudding know brown embody few purity crumble hard latin sphere captain";
+var mnemonic = "reform physical frown unique swear regular luxury obscure thrive guitar danger protect";

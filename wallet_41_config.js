@@ -1,1 +1,1 @@
-var mnemonic = "measure main invest maze gorilla tuna forget attitude dice sphere arrest hurt";
+var mnemonic = "pretty melt extra nation purse myself disorder sick horse tattoo good swap";

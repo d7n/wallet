@@ -1,1 +1,1 @@
-var mnemonic = "luxury must chimney mirror intact grow wealth syrup suffer purse oven foam";
+var mnemonic = "spatial foil neutral admit top pool reward hub lecture dumb board pepper";

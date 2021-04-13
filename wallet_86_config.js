@@ -1,1 +1,1 @@
-var mnemonic = "shy lion mimic monkey street castle kid already retreat cargo start route";
+var mnemonic = "music few logic afraid clinic pistol metal drum humor chapter element pony";

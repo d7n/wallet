@@ -1,1 +1,1 @@
-var mnemonic = "hidden find market yard stuff saddle ensure other bright sick before parade";
+var mnemonic = "urge reopen addict island club vault field orient cat fence egg scissors";

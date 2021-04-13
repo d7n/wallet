@@ -1,1 +1,1 @@
-var mnemonic = "field illness only multiply evil borrow blur sauce vehicle sand host impulse";
+var mnemonic = "envelope middle typical layer gown crime clap arrive concert blue swing budget";

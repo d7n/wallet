@@ -1,1 +1,1 @@
-var mnemonic = "major true nice primary lend gold drop best float antique gun era";
+var mnemonic = "reject donate thing punch remove left coin wait movie burden machine trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "arm bacon stove security unfair luggage shop flame vacant bamboo cliff also";
+var mnemonic = "resist praise venture verb toddler cry lens magnet voice puppy season crime";

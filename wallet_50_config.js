@@ -1,1 +1,1 @@
-var mnemonic = "scale tape mistake finger tip silver march trumpet tag trade edge album";
+var mnemonic = "ancient glove exclude roof maple mandate accident dolphin betray sure similar offer";

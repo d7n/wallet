@@ -1,1 +1,1 @@
-var mnemonic = "task shell coyote document knee sure fetch mistake symptom tent clock sleep";
+var mnemonic = "gravity jaguar hand link grape rain front sphere essay okay poem start";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard cricket ranch noble craft rebel velvet glad warm alcohol mystery lift";
+var mnemonic = "wrap hedgehog live letter hard loop coral water mutual robot riot just";

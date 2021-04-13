@@ -1,1 +1,1 @@
-var mnemonic = "govern one decrease relax judge stable pave faith rebel board stumble auto";
+var mnemonic = "slim keep universe chair school exercise trust gap hollow arm idle edge";

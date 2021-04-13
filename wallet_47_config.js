@@ -1,1 +1,1 @@
-var mnemonic = "egg faint element transfer debate fetch various dinosaur favorite tiger access monkey";
+var mnemonic = "day shoulder prison toddler manage insect deny maze couch boss vault unknown";

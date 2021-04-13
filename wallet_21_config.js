@@ -1,1 +1,1 @@
-var mnemonic = "measure deputy inspire bridge boost light fog gas ordinary hair eye glass";
+var mnemonic = "rigid finger suit afraid artefact quality urge tell camera fragile arrest age";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard model galaxy scrap view cost rare void voyage noodle soft will";
+var mnemonic = "frog grocery lazy often denial team weapon wink badge ride barely this";

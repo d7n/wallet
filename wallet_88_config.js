@@ -1,1 +1,1 @@
-var mnemonic = "forum motor bridge swing leopard opinion task shift episode entry hidden spend";
+var mnemonic = "minute judge curve field special buffalo legal theory deer crisp decline rocket";

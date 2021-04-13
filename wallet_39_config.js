@@ -1,1 +1,1 @@
-var mnemonic = "veteran unlock eight captain junk crisp clean universe manage cupboard gym food";
+var mnemonic = "person coast differ oxygen toy picture often sibling kiwi credit vital trap";

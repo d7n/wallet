@@ -1,1 +1,1 @@
-var mnemonic = "arrange want inform reform unable industry album liquid coconut armed pen manual";
+var mnemonic = "state mixed hair tragic vehicle all base wasp dress jaguar offer glory";

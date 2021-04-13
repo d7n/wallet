@@ -1,1 +1,1 @@
-var mnemonic = "aspect advance base city craft print spice shaft hospital perfect discover family";
+var mnemonic = "doctor manual vault time buyer column pole paper pause huge dwarf quantum";

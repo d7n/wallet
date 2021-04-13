@@ -1,1 +1,1 @@
-var mnemonic = "runway caution accident peasant cotton guess vast high magic reason exit blanket";
+var mnemonic = "tide label usage layer jealous trade ramp pear session noodle alarm fatigue";

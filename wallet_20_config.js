@@ -1,1 +1,1 @@
-var mnemonic = "phone expose mixed daring curtain joy board canoe spice drip sing unknown";
+var mnemonic = "tumble gas cruise again diet twelve subway six aisle bright list fringe";

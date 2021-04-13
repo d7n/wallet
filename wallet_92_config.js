@@ -1,1 +1,1 @@
-var mnemonic = "melt exercise action margin seat noodle hedgehog reject zoo appear exchange arch";
+var mnemonic = "battle ethics candy snow cannon gift kind laundry glass angle exile lake";

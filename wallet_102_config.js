@@ -1,1 +1,1 @@
-var mnemonic = "dial protect near transfer silent option pigeon approve what world essence crop";
+var mnemonic = "position blame escape like breeze rich ensure help dust north dinner capital";

@@ -1,1 +1,1 @@
-var mnemonic = "royal peace gasp perfect inject all ecology alter bulk thumb moon senior";
+var mnemonic = "width charge feel jar age mountain forest exhaust cricket joy faith kitchen";

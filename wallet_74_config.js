@@ -1,1 +1,1 @@
-var mnemonic = "will egg meat risk address shop quick voyage sting year letter grain";
+var mnemonic = "strike wasp tower clever crush little prosper planet pass observe saddle paper";

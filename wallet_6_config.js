@@ -1,1 +1,1 @@
-var mnemonic = "subway garment hurt puppy chimney coach express cage brief more fame tonight";
+var mnemonic = "wait mom spider half nut warrior hand strategy rapid wait jaguar rival";

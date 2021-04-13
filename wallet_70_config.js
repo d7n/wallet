@@ -1,1 +1,1 @@
-var mnemonic = "more climb erupt brass rapid anger decorate addict judge satoshi reveal silver";
+var mnemonic = "cupboard demise pill pledge attack small exile sponsor hazard clarify relax rule";

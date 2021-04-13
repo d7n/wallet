@@ -1,1 +1,1 @@
-var mnemonic = "tank token session crash craft bring idle settle monster engine flash fence";
+var mnemonic = "good thank host solar burger empty kingdom broken give tragic trip electric";

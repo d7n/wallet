@@ -1,1 +1,1 @@
-var mnemonic = "such catch educate hello wall elevator ride page defense tilt inquiry anchor";
+var mnemonic = "vault gauge just chunk wonder minimum wild lion leaf cigar final found";

@@ -1,1 +1,1 @@
-var mnemonic = "grain tragic team trigger verb flat pause buzz love veteran time desert";
+var mnemonic = "ski cost oven defy sample weapon skate tortoise floor clarify lunar attitude";

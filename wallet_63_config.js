@@ -1,1 +1,1 @@
-var mnemonic = "violin village peasant exercise holiday describe ancient retire antique use retreat dignity";
+var mnemonic = "demise woman knock delay exhaust resist network amazing lucky disagree vanish three";

@@ -1,1 +1,1 @@
-var mnemonic = "cost waste claim nation blanket calm correct rookie correct giant weather clean";
+var mnemonic = "best senior nasty immune all unfair bulb spatial always danger gesture biology";

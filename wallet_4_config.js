@@ -1,1 +1,1 @@
-var mnemonic = "delay sentence shine farm movie just small rice impose join census planet";
+var mnemonic = "trade into narrow tag green orphan powder shadow tackle awesome before educate";

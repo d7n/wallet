@@ -1,1 +1,1 @@
-var mnemonic = "vast agree theory yard write general simple cereal speak piece gas day";
+var mnemonic = "genuine comfort silent control place island priority length uncover holiday fluid island";

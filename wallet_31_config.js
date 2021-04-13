@@ -1,1 +1,1 @@
-var mnemonic = "dinner shiver enforce tube file crack hotel skull endorse pelican toe usage";
+var mnemonic = "wall raven copy core animal slight turkey wife amateur vocal armor insect";

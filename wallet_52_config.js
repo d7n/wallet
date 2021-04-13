@@ -1,1 +1,1 @@
-var mnemonic = "exist transfer nurse holiday frown trick inquiry mean stuff analyst ripple rhythm";
+var mnemonic = "rocket sad lend syrup tube online animal zebra cereal rally story dragon";

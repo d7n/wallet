@@ -1,1 +1,1 @@
-var mnemonic = "thunder brush example visit random wrong alpha assault medal angry myself favorite";
+var mnemonic = "route adult abstract advice mutual air wave eagle fiber pledge replace reopen";

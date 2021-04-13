@@ -1,1 +1,1 @@
-var mnemonic = "ethics code surround health tuition found stage short scene toss series return";
+var mnemonic = "lava error tent typical sample online tomato balcony drink claw faculty boat";

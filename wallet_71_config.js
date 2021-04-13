@@ -1,1 +1,1 @@
-var mnemonic = "school cup senior behave token wolf deny slush tackle dinosaur sudden tribe";
+var mnemonic = "donkey island pole laptop consider unfold rude own action unfair frost island";

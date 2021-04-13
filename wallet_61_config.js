@@ -1,1 +1,1 @@
-var mnemonic = "void shoot task draft spell what biology maximum zone cradle ensure body";
+var mnemonic = "soup route pelican pet glance mosquito loan truck vault liar orient misery";

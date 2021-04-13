@@ -1,1 +1,1 @@
-var mnemonic = "recipe autumn ask drop tunnel original design bachelor record bicycle strong gold";
+var mnemonic = "habit soon bike attend drastic benefit weasel live anchor find wet wrap";

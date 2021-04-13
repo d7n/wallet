@@ -1,1 +1,1 @@
-var mnemonic = "spider burden vacuum fetch wonder mix cereal recipe sunset spawn chef festival";
+var mnemonic = "allow key pass amateur wire blame symbol omit exhaust eternal useful woman";

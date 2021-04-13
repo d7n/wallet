@@ -1,1 +1,1 @@
-var mnemonic = "wish alpha trumpet buyer duty word drive remember useful jar autumn spider";
+var mnemonic = "original odor mango salt bracket cute author quantum purse wish truth demise";

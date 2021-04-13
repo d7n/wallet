@@ -1,1 +1,1 @@
-var mnemonic = "planet laugh flat mass salute talent echo palm post series abuse swarm";
+var mnemonic = "rate attend frown wheat shove weekend discover swap reform memory rug you";

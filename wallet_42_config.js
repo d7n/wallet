@@ -1,1 +1,1 @@
-var mnemonic = "best blouse torch clown clip pause chimney decide bring wet barely mystery";
+var mnemonic = "hair blind liquid critic indoor canvas custom rocket away settle wise web";

@@ -1,1 +1,1 @@
-var mnemonic = "melody winter wink flower can voice ramp menu merry tree play move";
+var mnemonic = "media direct code father doll kiwi vicious invite runway apple envelope thank";

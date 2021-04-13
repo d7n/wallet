@@ -1,1 +1,1 @@
-var mnemonic = "seat bread license level boil push combine multiply kind assume sword capital";
+var mnemonic = "orchard burst kidney various blouse ribbon summer setup dragon relief sorry mansion";

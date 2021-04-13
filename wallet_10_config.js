@@ -1,1 +1,1 @@
-var mnemonic = "invest target adjust twice input bicycle key regular scale harbor income super";
+var mnemonic = "slender weapon chest common globe south same acid domain release useful cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "final increase portion rare vault stuff tenant execute outer meadow finish protect";
+var mnemonic = "voice pioneer short walnut balance lunch yard believe stock alarm quick forest";

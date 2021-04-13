@@ -1,1 +1,1 @@
-var mnemonic = "blame twin lobster staff garment deposit sadness space remove style daring west";
+var mnemonic = "need fall citizen food addict execute speed spike grow trash attend target";

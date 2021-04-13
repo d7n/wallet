@@ -1,1 +1,1 @@
-var mnemonic = "oblige industry final output spoon clarify math prize angle reward banana twenty";
+var mnemonic = "penalty idea vendor truth shoulder middle child uncover flower way find sun";

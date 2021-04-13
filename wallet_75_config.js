@@ -1,1 +1,1 @@
-var mnemonic = "spirit grape farm cement strong below describe naive liberty paddle chaos uphold";
+var mnemonic = "limb three vicious skull cake invest base assault punch vehicle return bread";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup trumpet excuse upgrade ginger tortoise next churn pig parade song subject";
+var mnemonic = "trouble clerk spin law plate foam kind omit devote wrist glove silent";

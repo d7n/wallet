@@ -1,1 +1,1 @@
-var mnemonic = "world anxiety lottery spike help rib box amused kiwi wet swim hip";
+var mnemonic = "torch seat hollow emerge merit own grid fork error column patch flash";

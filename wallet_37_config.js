@@ -1,1 +1,1 @@
-var mnemonic = "laptop reduce knife chimney long impact ranch chuckle advice want warrior silent";
+var mnemonic = "arrest era winter service universe crop much crazy exclude plate horse neither";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise text zebra seed scrap scene lens urge spoil insect remember try";
+var mnemonic = "surround bacon melt swing banana canal cabin conduct table blade ecology rubber";

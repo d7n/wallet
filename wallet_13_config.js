@@ -1,1 +1,1 @@
-var mnemonic = "boat wage purpose umbrella drink dance job right jewel eagle quiz test";
+var mnemonic = "ritual math captain nut various arrange decorate flag burden false plate tongue";

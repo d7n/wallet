@@ -1,1 +1,1 @@
-var mnemonic = "receive pony tennis sword animal slight pigeon laptop ocean fall scene better";
+var mnemonic = "muffin odor pluck sponsor fossil excuse state orphan select expire draft exact";

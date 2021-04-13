@@ -1,1 +1,1 @@
-var mnemonic = "toward brand unknown what island reform dignity announce total exit track purity";
+var mnemonic = "idle mandate salt canoe involve toilet fall govern act portion before panther";

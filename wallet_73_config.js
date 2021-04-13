@@ -1,1 +1,1 @@
-var mnemonic = "delay when obtain autumn amazing harsh render inhale collect find deputy key";
+var mnemonic = "science disease together airport degree father balance inch gorilla spread civil guard";

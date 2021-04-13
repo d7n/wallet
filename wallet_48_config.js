@@ -1,1 +1,1 @@
-var mnemonic = "lend guide cotton else garment slot two library jacket bird climb lift";
+var mnemonic = "stuff talent battle favorite elite aunt obey group idle citizen child essence";

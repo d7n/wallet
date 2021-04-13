@@ -1,1 +1,1 @@
-var mnemonic = "razor verify vanish salmon clown surge valid early gravity oven they control";
+var mnemonic = "risk chair lunch develop unhappy rich practice avoid brief decrease equip process";

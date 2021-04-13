@@ -1,1 +1,1 @@
-var mnemonic = "absent spawn toilet miss bag vote pill race glass syrup alarm zoo";
+var mnemonic = "comfort cable fiscal indicate weekend tomorrow history river private stool spin world";

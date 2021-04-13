@@ -1,1 +1,1 @@
-var mnemonic = "sun owner will donate verb torch already captain top clay border muscle";
+var mnemonic = "phone dream fetch mobile mandate estate sign remain flavor bracket exit warm";

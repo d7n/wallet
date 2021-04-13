@@ -1,1 +1,1 @@
-var mnemonic = "ecology egg topic trigger desert squirrel audit sure finger elite debate slogan";
+var mnemonic = "silent ordinary upon grant sight mandate attitude toilet fall extend social alpha";

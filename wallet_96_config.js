@@ -1,1 +1,1 @@
-var mnemonic = "obey reunion add predict fresh floor lab ceiling unit veteran circle news";
+var mnemonic = "yellow diagram theory athlete cattle fever bread about salt pond green fury";

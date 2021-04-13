@@ -1,1 +1,1 @@
-var mnemonic = "sport secret disease price century acid bird monitor dial lion fantasy doctor";
+var mnemonic = "copy nerve strike trumpet volume bus solve armor top answer debate repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "rack torch mirror nerve pink pause process poet hundred modify pencil spawn";
+var mnemonic = "misery steel session motion flee cabbage idle settle save super action risk";

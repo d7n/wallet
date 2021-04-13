@@ -1,1 +1,1 @@
-var mnemonic = "decrease fringe provide large glance oppose oil post harvest toe chimney bless";
+var mnemonic = "hub cute coral lunar fold peasant surface genius cigar blossom usual bid";

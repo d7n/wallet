@@ -1,1 +1,1 @@
-var mnemonic = "junior icon sheriff praise proof card laptop stadium riot body half category";
+var mnemonic = "shock vague fragile pool prison snap oak kidney course fresh trigger immense";

@@ -1,1 +1,1 @@
-var mnemonic = "sight want either rhythm biology small bottom audit guitar embark awake expose";
+var mnemonic = "lazy lumber middle screen spray useless easy mistake another enable patrol emotion";

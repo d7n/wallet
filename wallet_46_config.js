@@ -1,1 +1,1 @@
-var mnemonic = "account curious game exile duty wrong swim inch length over boss fold";
+var mnemonic = "color dutch wedding elevator nut spatial renew outdoor peace wire imitate more";

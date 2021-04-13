@@ -1,1 +1,1 @@
-var mnemonic = "inject kit index daughter across drastic west stick rely protect century slam";
+var mnemonic = "polar lecture play cereal try surround six whip print evil arrive similar";

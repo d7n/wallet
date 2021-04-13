@@ -1,1 +1,1 @@
-var mnemonic = "mango awkward become occur fragile any laundry describe tortoise slender rapid october";
+var mnemonic = "hat economy nose repeat mix host garment dust ridge lift wrong bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine resemble midnight tiger blush snack earn dog wear nuclear error timber";
+var mnemonic = "wing lizard model little jazz invest jacket inflict juice end differ thing";

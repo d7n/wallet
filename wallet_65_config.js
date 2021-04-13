@@ -1,1 +1,1 @@
-var mnemonic = "trim balance slice humble soul canvas cotton now cup across alert knee";
+var mnemonic = "capable produce team fossil eager eyebrow goat unknown health legal salad click";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm donate song hazard level use major tongue cool vast animal dance";
+var mnemonic = "issue law hotel fortune live edit identify rail industry island note change";

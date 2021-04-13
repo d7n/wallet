@@ -1,1 +1,1 @@
-var mnemonic = "gloom opinion achieve slab abuse admit damp tumble wish short language remind";
+var mnemonic = "endless differ damage ski duck canoe gasp glare feel sibling doll forest";

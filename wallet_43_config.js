@@ -1,1 +1,1 @@
-var mnemonic = "tool regular buyer gasp kitten solar unfair sponsor arm speed trend obscure";
+var mnemonic = "blanket ocean debate practice bulk educate office result few correct super verify";

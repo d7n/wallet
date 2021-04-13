@@ -1,1 +1,1 @@
-var mnemonic = "merry nerve twice seek immune tobacco absent ridge into summer black wisdom";
+var mnemonic = "virtual skill legal gown topple split three body pave early supreme vault";

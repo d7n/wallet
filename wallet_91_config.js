@@ -1,1 +1,1 @@
-var mnemonic = "wreck inmate educate potato cattle ribbon street illness orchard forum glue surge";
+var mnemonic = "moment myth peace wine boost piano blouse below brick morning bottom figure";

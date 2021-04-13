@@ -1,1 +1,1 @@
-var mnemonic = "example open fantasy drill section domain school charge video judge promote trade";
+var mnemonic = "reduce elder benefit famous young concert cost clean mountain you child license";
