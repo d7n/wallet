@@ -1,1 +1,1 @@
-var mnemonic = "orphan tomato announce section vapor tuna hold brown victory laundry brand health";
+var mnemonic = "key sock column change drill horse cruel kit dinosaur error title simple";

@@ -1,1 +1,1 @@
-var mnemonic = "moon frequent upgrade lend valid song atom alone receive normal erosion belt";
+var mnemonic = "pencil rough cupboard pelican bunker beef gospel embark force into guide author";

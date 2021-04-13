@@ -1,1 +1,1 @@
-var mnemonic = "nature nominee favorite charge century tumble pill congress nuclear neutral fork crouch";
+var mnemonic = "brave adjust prepare rice island security wise outer together federal vocal expire";

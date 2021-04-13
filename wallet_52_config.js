@@ -1,1 +1,1 @@
-var mnemonic = "old surround multiply item future tree law else tip display verify soda";
+var mnemonic = "keep couch fury stay clutch travel depth flat tape tag raise old";

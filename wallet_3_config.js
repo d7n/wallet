@@ -1,1 +1,1 @@
-var mnemonic = "raise apart limit rocket ghost family boat pact skill cinnamon lottery misery";
+var mnemonic = "rough photo bridge twin extra display sentence meat joy exile scan salute";

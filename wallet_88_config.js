@@ -1,1 +1,1 @@
-var mnemonic = "nice bean bulk suffer taxi employ detail jaguar wheel solar egg swarm";
+var mnemonic = "toddler silent cover absent muscle advice whale result palm vocal favorite fence";

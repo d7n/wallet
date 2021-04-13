@@ -1,1 +1,1 @@
-var mnemonic = "friend wife blast october crisp tackle pudding cycle drink client acoustic define";
+var mnemonic = "pioneer craft million pen secret clump retreat rally solar search dial cube";

@@ -1,1 +1,1 @@
-var mnemonic = "size walnut saddle cheap pony educate eye sail daring skin badge general";
+var mnemonic = "general net wash flavor invite that alien tunnel spell quote sweet ramp";

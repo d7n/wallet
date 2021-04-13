@@ -1,1 +1,1 @@
-var mnemonic = "sail carry assume luxury gloom east crew comfort maid trash success expect";
+var mnemonic = "umbrella carry across bless custom bind resource canvas average table calm float";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude country animal cable shock violin destroy pact either acoustic wear glimpse";
+var mnemonic = "tragic expire kiss able afraid lawsuit person napkin skin joke comfort silent";

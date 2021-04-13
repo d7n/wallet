@@ -1,1 +1,1 @@
-var mnemonic = "gasp velvet grain come chaos frown access raw myself upper run steel";
+var mnemonic = "version tool flag hen horn wear deliver casino income speak rebuild increase";

@@ -1,1 +1,1 @@
-var mnemonic = "behind cream liquid ensure wash gasp trap donor raven void enforce unlock";
+var mnemonic = "concert level still rural wall cake another ladder album time aspect minor";

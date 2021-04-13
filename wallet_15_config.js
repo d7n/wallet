@@ -1,1 +1,1 @@
-var mnemonic = "hand mesh top skate exact silent horse stairs crack mechanic slice chef";
+var mnemonic = "turkey allow glimpse once vacant woman exist moment casual organ wedding table";

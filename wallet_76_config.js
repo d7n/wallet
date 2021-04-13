@@ -1,1 +1,1 @@
-var mnemonic = "damage pink apology faint stumble old busy whale object board explain slight";
+var mnemonic = "there earn stay hire humble prosper laugh portion toward nothing fox illegal";

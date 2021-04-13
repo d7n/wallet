@@ -1,1 +1,1 @@
-var mnemonic = "say oblige naive topic find meat lend retreat trumpet major monkey roof";
+var mnemonic = "exile latin inject rent wet raven valley raise true feel unlock drip";

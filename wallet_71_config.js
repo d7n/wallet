@@ -1,1 +1,1 @@
-var mnemonic = "prepare celery true much media oil moment uncle banana invite powder course";
+var mnemonic = "bench victory palm health feel brief fold water very dry social verify";

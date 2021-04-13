@@ -1,1 +1,1 @@
-var mnemonic = "impact measure street moment glass base maid polar safe position fossil disease";
+var mnemonic = "visual ask screen smooth fantasy auto report west deny job panda feature";

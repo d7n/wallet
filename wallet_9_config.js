@@ -1,1 +1,1 @@
-var mnemonic = "violin season movie cactus abstract fork spider one panther approve seed thought";
+var mnemonic = "lyrics actor shy fun clown tube shoe raven party laundry story refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel dutch muscle body regret rifle grape garden quarter usual survey clip";
+var mnemonic = "sibling above cool arrow produce foam pitch gun auction despair move cancel";

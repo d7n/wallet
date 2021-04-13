@@ -1,1 +1,1 @@
-var mnemonic = "sustain empower sell any bus hand eight call unhappy occur thought gospel";
+var mnemonic = "smart labor engage aunt ranch custom fan hungry rookie insect maple hungry";

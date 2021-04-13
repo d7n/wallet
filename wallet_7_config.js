@@ -1,1 +1,1 @@
-var mnemonic = "width million flag edit fancy few between defy misery submit corn peace";
+var mnemonic = "dish noodle episode today prison struggle milk wet negative kick safe fault";

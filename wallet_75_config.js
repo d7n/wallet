@@ -1,1 +1,1 @@
-var mnemonic = "snap rival oven off make supply dream sibling glare mention carpet private";
+var mnemonic = "entry theory above segment above mention color theme lumber pupil open another";

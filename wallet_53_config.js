@@ -1,1 +1,1 @@
-var mnemonic = "flee borrow kiss scrub skill top feed elite trade filter burden wish";
+var mnemonic = "inject mutual absorb mail toe palm bonus trade cactus usual crime snack";

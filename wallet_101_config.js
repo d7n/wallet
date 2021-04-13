@@ -1,1 +1,1 @@
-var mnemonic = "smooth tell engage enhance rely catalog worry usage require source initial priority";
+var mnemonic = "detail sadness tiny scale indoor room violin wave ocean run giggle motion";

@@ -1,1 +1,1 @@
-var mnemonic = "canal utility disorder bring palm pool nominee winner dance head column knee";
+var mnemonic = "first hundred muscle fine echo city giggle surface pumpkin boat mom crane";

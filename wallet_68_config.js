@@ -1,1 +1,1 @@
-var mnemonic = "endless burst never bubble vicious diagram together anger climb report wisdom explain";
+var mnemonic = "swarm noise enable such surface wolf obtain knock cart grab hint demand";

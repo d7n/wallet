@@ -1,1 +1,1 @@
-var mnemonic = "hint claim fabric measure busy april pencil donate first next consider thunder";
+var mnemonic = "virtual multiply crime fashion tobacco cheese mimic salmon charge february wrong canoe";

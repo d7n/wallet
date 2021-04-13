@@ -1,1 +1,1 @@
-var mnemonic = "group suffer until depart fat pull stairs minor hope conduct speed gravity";
+var mnemonic = "gun minor law blanket pole street volcano divorce arrange heart cook crowd";

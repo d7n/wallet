@@ -1,1 +1,1 @@
-var mnemonic = "ordinary camera jacket life pioneer order unaware expect odor van celery muffin";
+var mnemonic = "pair evolve hope bracket supply soul miss sniff modify leader chef practice";

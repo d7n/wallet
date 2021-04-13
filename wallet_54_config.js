@@ -1,1 +1,1 @@
-var mnemonic = "fan smoke anger current clog clever recipe trumpet fashion bid stove quote";
+var mnemonic = "betray cry loyal security castle pass erosion venture quantum indicate step abstract";

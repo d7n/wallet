@@ -1,1 +1,1 @@
-var mnemonic = "normal civil turkey pupil image certain vast vanish amount village orphan attitude";
+var mnemonic = "usual honey blue pepper east moral knee alien uncle mass rookie subject";

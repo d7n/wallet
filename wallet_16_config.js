@@ -1,1 +1,1 @@
-var mnemonic = "uniform upon van announce manage leopard ecology buzz soldier tobacco sunny sail";
+var mnemonic = "trap physical miss across army voyage bubble rack gather ethics long attend";

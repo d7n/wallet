@@ -1,1 +1,1 @@
-var mnemonic = "predict regret hedgehog dismiss enter awful loud useful curtain dune fade have";
+var mnemonic = "call track jump divide leisure rain deputy make weekend drama level trap";

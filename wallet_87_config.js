@@ -1,1 +1,1 @@
-var mnemonic = "above crucial basket marine finger bracket donkey pumpkin receive train morning envelope";
+var mnemonic = "resist surround text accident fly close gloom hover patch potato bronze random";

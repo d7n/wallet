@@ -1,1 +1,1 @@
-var mnemonic = "clerk icon wisdom spatial own twist wheat hint uncover sad inherit only";
+var mnemonic = "annual educate panther sea easily young summer believe weasel behave emotion grant";

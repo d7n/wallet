@@ -1,1 +1,1 @@
-var mnemonic = "reunion portion world family satisfy upgrade girl empower rug fantasy divorce gallery";
+var mnemonic = "pair buddy fiction wrong travel ride ski patient pelican ripple buddy aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "almost truck fee first swallow property song warfare night fit screen slender";
+var mnemonic = "planet chair thunder vibrant blind muscle view indoor song cool what wise";

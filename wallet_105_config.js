@@ -1,1 +1,1 @@
-var mnemonic = "know obscure menu great embody bring genius mad crew sword animal cannon";
+var mnemonic = "long used firm ramp correct spare spoon various anger series brown this";

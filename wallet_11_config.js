@@ -1,1 +1,1 @@
-var mnemonic = "sell place lake hair antique enough purchase enemy trick front age engine";
+var mnemonic = "globe twist zoo valve happy license this village vital excess panic jacket";

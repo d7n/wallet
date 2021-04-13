@@ -1,1 +1,1 @@
-var mnemonic = "east furnace scale trim boss imitate device wrap include sting mansion dice";
+var mnemonic = "improve strong use speed dad round solution kind tumble frozen crouch gift";

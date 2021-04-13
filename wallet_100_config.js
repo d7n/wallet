@@ -1,1 +1,1 @@
-var mnemonic = "bundle dutch derive sad release gallery father brick volcano water hour pig";
+var mnemonic = "puzzle law arrange police announce tail quick ahead fancy pledge task second";

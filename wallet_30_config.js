@@ -1,1 +1,1 @@
-var mnemonic = "tiny fit expand pull glad light fire kite admit life split robust";
+var mnemonic = "scheme space wheel sauce until carbon foam frog laugh survey still exhibit";

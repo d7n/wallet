@@ -1,1 +1,1 @@
-var mnemonic = "accident club arctic day inflict text enforce game young ecology number must";
+var mnemonic = "iron bonus give found impose affair shove shield bamboo slogan rent february";

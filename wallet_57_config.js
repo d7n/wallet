@@ -1,1 +1,1 @@
-var mnemonic = "cable neither game peanut capable smile theory term payment ketchup pipe quit";
+var mnemonic = "budget salt music faith obscure gather token craft vast quarter memory sort";

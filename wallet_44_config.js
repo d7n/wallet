@@ -1,1 +1,1 @@
-var mnemonic = "angle rose borrow club lend slush success cannon ensure sight check frozen";
+var mnemonic = "submit license person fan paddle debate budget save occur palace final race";

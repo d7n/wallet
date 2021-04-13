@@ -1,1 +1,1 @@
-var mnemonic = "truck measure orphan nut name jaguar devote push erode ill universe wire";
+var mnemonic = "awesome above bless able when balance camera wing ivory pupil quit body";

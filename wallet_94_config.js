@@ -1,1 +1,1 @@
-var mnemonic = "diet chief often whip voyage order carpet wait balcony cat shove family";
+var mnemonic = "prevent digital school source head sorry carpet antique desert fish option develop";

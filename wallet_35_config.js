@@ -1,1 +1,1 @@
-var mnemonic = "hollow hard pride envelope peanut agent sense crew link weasel where eye";
+var mnemonic = "month delay junk digital sentence raven excuse cause such question lens credit";

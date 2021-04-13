@@ -1,1 +1,1 @@
-var mnemonic = "spare math zone north hedgehog priority truth category weekend way coin galaxy";
+var mnemonic = "genuine surge brief across gasp turkey work mystery ginger latin sell memory";

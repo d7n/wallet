@@ -1,1 +1,1 @@
-var mnemonic = "harsh super notice marriage human jeans polar glass usual between cherry yellow";
+var mnemonic = "vintage enjoy stem brisk flower fragile front army repeat culture weird eyebrow";

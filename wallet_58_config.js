@@ -1,1 +1,1 @@
-var mnemonic = "fish boat fun approve mom awesome tent soft region payment glide busy";
+var mnemonic = "flash thing dice process equal hint delay approve actress rapid box track";

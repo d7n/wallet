@@ -1,1 +1,1 @@
-var mnemonic = "decline notable cactus art friend stone group duty enforce style alert illegal";
+var mnemonic = "ceiling fiber muscle must nuclear walk flush rough raw tennis slender leader";

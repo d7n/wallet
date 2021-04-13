@@ -1,1 +1,1 @@
-var mnemonic = "tuna steak figure near scrub knee oak program normal rival acid island";
+var mnemonic = "goat extra bird walk under pencil scene urge animal auction gate place";

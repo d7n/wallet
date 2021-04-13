@@ -1,1 +1,1 @@
-var mnemonic = "bring cheese outside buffalo flee equal pistol oyster warrior pyramid addict purchase";
+var mnemonic = "subway another lens dilemma okay antenna recycle access click curtain avoid face";

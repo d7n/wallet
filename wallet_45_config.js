@@ -1,1 +1,1 @@
-var mnemonic = "close talent curious family license wide fury ketchup jacket wife found federal";
+var mnemonic = "fabric fan hamster next patient gesture island lizard truly couple voice stable";

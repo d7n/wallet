@@ -1,1 +1,1 @@
-var mnemonic = "exact addict search shrug resemble embark trouble pretty slice possible moon between";
+var mnemonic = "purchase blush acid word doll orbit venue use cabbage melt include dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen edge hire dumb service hammer enroll bar fault minimum neutral bracket";
+var mnemonic = "market fluid chief under notice sudden cheap pistol ten senior isolate unknown";

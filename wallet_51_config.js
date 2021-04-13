@@ -1,1 +1,1 @@
-var mnemonic = "pledge art elder industry harvest panic police obtain vibrant target thing universe";
+var mnemonic = "profit body eyebrow swear fence worth select film goose donate dish three";

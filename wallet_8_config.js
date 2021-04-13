@@ -1,1 +1,1 @@
-var mnemonic = "resist across excuse kingdom hockey swim guard kangaroo pupil very sudden sorry";
+var mnemonic = "armed garbage quarter cricket invite syrup spirit meat life august loan process";

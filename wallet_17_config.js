@@ -1,1 +1,1 @@
-var mnemonic = "chief banner slide huge husband control label world photo ribbon text icon";
+var mnemonic = "beach vintage word swing sister elegant stem envelope frame then hat conduct";

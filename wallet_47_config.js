@@ -1,1 +1,1 @@
-var mnemonic = "pink middle sand patch slow wheat grab patch gasp what slogan cigar";
+var mnemonic = "squirrel talk possible mushroom blood pull behave bachelor base rebuild grit actual";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey range example winter pyramid gate system shiver nation powder above decline";
+var mnemonic = "seed custom orchard expire relief term economy subject oil process remove debate";

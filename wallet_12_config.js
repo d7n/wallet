@@ -1,1 +1,1 @@
-var mnemonic = "slot fat illness biology merry primary cover hole tell inflict boss crunch";
+var mnemonic = "acid office minute salt calm leader floor error blanket rice miss degree";

@@ -1,1 +1,1 @@
-var mnemonic = "immense banner glimpse wasp plug mountain spend ostrich angry cram empower begin";
+var mnemonic = "luxury response route fix stereo assault grass judge cave ability better foam";

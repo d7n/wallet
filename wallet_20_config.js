@@ -1,1 +1,1 @@
-var mnemonic = "hole element easy fly road odor virus degree stable weird leave puzzle";
+var mnemonic = "fatigue dilemma dumb payment swamp latin dice country guess phrase valid deposit";

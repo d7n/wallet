@@ -1,1 +1,1 @@
-var mnemonic = "vital tunnel indicate certain drip involve guilt olive regular caught cable erase";
+var mnemonic = "edge exhibit sleep pitch prevent culture banner payment law quarter arrive balance";

@@ -1,1 +1,1 @@
-var mnemonic = "cover marble goose riot humor race label popular search learn employ weekend";
+var mnemonic = "argue library excite shop fence mule sand index file surface client wet";

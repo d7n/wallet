@@ -1,1 +1,1 @@
-var mnemonic = "panther tennis office fish panic orbit uniform army artwork renew develop glass";
+var mnemonic = "goat flavor round luxury lounge sugar scan comfort solid maze point buzz";

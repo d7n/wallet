@@ -1,1 +1,1 @@
-var mnemonic = "tiger rate village trap rail parent tooth motor bachelor unable black spawn";
+var mnemonic = "park polar what crouch embody soul enjoy animal science arch loyal attitude";

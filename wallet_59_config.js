@@ -1,1 +1,1 @@
-var mnemonic = "chuckle spike lady pudding call broken cancel admit they program dash save";
+var mnemonic = "bullet divorce spawn save employ swear marine peasant bunker differ discover bone";

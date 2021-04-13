@@ -1,1 +1,1 @@
-var mnemonic = "fine blue cube antique video route skate bicycle rely vintage offer laptop";
+var mnemonic = "attract inner cousin deputy guess planet theme wait three choice aspect sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "all resist confirm patrol letter diesel diary dynamic advice mail join indoor";
+var mnemonic = "cactus winner dune coin neither tone mind amazing antenna badge notice light";

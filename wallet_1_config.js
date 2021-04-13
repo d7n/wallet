@@ -1,1 +1,1 @@
-var mnemonic = "collect theory damp lounge bridge nest property primary peanut surround lava path";
+var mnemonic = "large steak metal enroll lounge obey opinion census utility sword anger vault";

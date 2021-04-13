@@ -1,1 +1,1 @@
-var mnemonic = "bundle volcano nominee swap inspire honey nasty zebra cherry stuff will quarter";
+var mnemonic = "wagon message noise fossil pink jacket shop will office slab setup quote";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt dinner north peanut column witness athlete black fiscal push that expect";
+var mnemonic = "armor script romance champion repair catch skin jar filter brief divert abstract";

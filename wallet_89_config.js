@@ -1,1 +1,1 @@
-var mnemonic = "print clean wild milk mercy joy wild nerve potato boy logic ugly";
+var mnemonic = "unlock danger divert secret medal romance artist library render company rookie owner";

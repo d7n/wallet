@@ -1,1 +1,1 @@
-var mnemonic = "slender minute topple fashion range wet end clinic topic hover drastic rice";
+var mnemonic = "winner toe wave roast walk quote cherry opera shrug piano diesel snack";

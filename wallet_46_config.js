@@ -1,1 +1,1 @@
-var mnemonic = "spice tonight awful glide stairs dinner body muffin settle adult fade tank";
+var mnemonic = "dwarf cupboard quote dice empower mystery fitness hello trend uncover gadget goat";

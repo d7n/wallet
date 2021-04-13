@@ -1,1 +1,1 @@
-var mnemonic = "shoulder demand shadow clutch buffalo truck brisk wide horror blossom empower receive";
+var mnemonic = "random improve update bullet tail pelican chase rough police segment corn clerk";

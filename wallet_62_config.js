@@ -1,1 +1,1 @@
-var mnemonic = "leg puppy tip maid rug hello staff grief paper pill black camp";
+var mnemonic = "ancient private sunset entry science orphan away surface lonely banner better potato";

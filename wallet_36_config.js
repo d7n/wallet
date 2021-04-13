@@ -1,1 +1,1 @@
-var mnemonic = "divide broccoli achieve initial split invest joke loan camera claw daughter two";
+var mnemonic = "chief shove mixed welcome steak super what combine issue race plastic slender";

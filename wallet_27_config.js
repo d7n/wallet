@@ -1,1 +1,1 @@
-var mnemonic = "mandate august chapter chunk chair tiger neglect east lobster surface profit offer";
+var mnemonic = "eager stereo quiz flat upper pave stick ignore laugh carry later kid";

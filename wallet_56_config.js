@@ -1,1 +1,1 @@
-var mnemonic = "health between must evoke scheme cake science rib rabbit private pattern jaguar";
+var mnemonic = "example disease token run pact six update strike village fruit ride laptop";

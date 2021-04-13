@@ -1,1 +1,1 @@
-var mnemonic = "debate inhale tuition expire blood time sustain razor pill garbage control firm";
+var mnemonic = "powder aerobic fame narrow exercise govern know whip distance gold pioneer reduce";
