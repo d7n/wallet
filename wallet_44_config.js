@@ -1,1 +1,1 @@
-var mnemonic = "home word replace retire fiction travel treat session stereo differ match best";
+var mnemonic = "vacant old soft subject behave cabbage undo rebuild afraid saddle wrong either";

@@ -1,1 +1,1 @@
-var mnemonic = "pool avoid leg expand sketch museum junior possible later trial current violin";
+var mnemonic = "either illegal box flavor into sand domain true original elegant ceiling admit";

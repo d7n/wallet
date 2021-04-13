@@ -1,1 +1,1 @@
-var mnemonic = "mean laundry win clean hub seven quote dream hammer vote edit huge";
+var mnemonic = "leader fan worth tray proof royal enlist vault fly bleak puppy unknown";

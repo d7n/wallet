@@ -1,1 +1,1 @@
-var mnemonic = "volcano tail lounge sock question giggle assume spider return garden witness gather";
+var mnemonic = "pigeon chair monster repair ozone matrix boring satisfy raccoon number list two";

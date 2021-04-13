@@ -1,1 +1,1 @@
-var mnemonic = "erode rely daughter beauty skin toss emotion hole project endless pink strike";
+var mnemonic = "bike rural coral spider young fetch vague good middle crew essay orient";

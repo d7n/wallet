@@ -1,1 +1,1 @@
-var mnemonic = "salute imitate dial hope foster invite provide cigar amused love month rally";
+var mnemonic = "lake toe cry robust wash head now soul voice infant end cash";

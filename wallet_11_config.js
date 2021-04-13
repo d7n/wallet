@@ -1,1 +1,1 @@
-var mnemonic = "other little aunt fuel alarm palm guilt under lady summer panic benefit";
+var mnemonic = "drop pony absent urban burst busy shoulder believe army tribe cycle result";

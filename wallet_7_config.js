@@ -1,1 +1,1 @@
-var mnemonic = "moon wire wrist hurry believe useless guitar arrange diary donkey soup number";
+var mnemonic = "jacket marriage voyage family tilt easily tornado better speak medal supreme calm";

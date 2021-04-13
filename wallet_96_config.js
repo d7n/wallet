@@ -1,1 +1,1 @@
-var mnemonic = "tongue milk casual exact shrug congress science cause swear stumble rival mystery";
+var mnemonic = "squirrel major wait episode damp dutch alert gown return simple viable decade";

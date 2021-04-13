@@ -1,1 +1,1 @@
-var mnemonic = "vessel tell subject final tuna omit shy exclude video pledge imitate crystal";
+var mnemonic = "moment saddle turkey damp control divide weasel mom culture youth sister damage";

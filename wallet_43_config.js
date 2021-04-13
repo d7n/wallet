@@ -1,1 +1,1 @@
-var mnemonic = "kitchen exit slogan whisper glow visual attract element stuff tumble leisure endless";
+var mnemonic = "adjust galaxy sample boss boy flee tail nurse spawn athlete acquire square";

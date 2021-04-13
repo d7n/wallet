@@ -1,1 +1,1 @@
-var mnemonic = "enjoy south creek what burst coast culture yard beyond public choose crouch";
+var mnemonic = "extend siren tide trade orchard truly such heavy soda goat say exchange";

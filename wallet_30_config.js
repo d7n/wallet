@@ -1,1 +1,1 @@
-var mnemonic = "remain proud potato adapt empower near betray pride ozone skirt danger glove";
+var mnemonic = "ozone point input stable sweet maximum near civil two crack organ giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "raise wet order buddy off news october flock theory grace fine skull";
+var mnemonic = "leader large then hair hat coyote shy local device claim where steak";

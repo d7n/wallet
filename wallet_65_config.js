@@ -1,1 +1,1 @@
-var mnemonic = "pave matter bicycle deal trigger camera satisfy ahead emotion rug wedding rely";
+var mnemonic = "label throw soda brother actress lounge improve pull gate parrot fun stuff";

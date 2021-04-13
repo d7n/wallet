@@ -1,1 +1,1 @@
-var mnemonic = "fall rabbit injury diary menu comfort toward midnight hurt advice alcohol music";
+var mnemonic = "audit gospel urge ready distance keen member else old rural badge exist";

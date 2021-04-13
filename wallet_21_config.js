@@ -1,1 +1,1 @@
-var mnemonic = "ancient ridge have huge tissue damage fish beef siege enhance chunk sing";
+var mnemonic = "damp sing box expose ten exotic client hard winter false nature woman";

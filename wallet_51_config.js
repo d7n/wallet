@@ -1,1 +1,1 @@
-var mnemonic = "fat card pitch hello wait arrow change globe creek burden quarter miss";
+var mnemonic = "school rhythm jelly man key slam mobile mention rebel jealous entry express";

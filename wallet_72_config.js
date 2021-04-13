@@ -1,1 +1,1 @@
-var mnemonic = "virtual ladder priority artist dignity equal cheese option isolate bicycle cloud leg";
+var mnemonic = "gentle taste service inspire churn crouch lumber brown famous viable stadium page";

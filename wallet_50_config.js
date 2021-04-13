@@ -1,1 +1,1 @@
-var mnemonic = "panel torch claim provide flame hunt sun urge lucky enhance finish hen";
+var mnemonic = "false local quick echo lesson regular achieve absent exist elevator size spring";

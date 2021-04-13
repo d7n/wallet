@@ -1,1 +1,1 @@
-var mnemonic = "radar curve fence level art two essay genuine board option orphan bone";
+var mnemonic = "soda half expose execute replace zone soon letter cotton shrug aunt involve";

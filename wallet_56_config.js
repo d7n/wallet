@@ -1,1 +1,1 @@
-var mnemonic = "behind birth record bright observe smart provide siege unfair ghost deer butter";
+var mnemonic = "enter mesh undo comic clog retreat apart grass duck mosquito exotic print";

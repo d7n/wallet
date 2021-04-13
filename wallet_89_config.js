@@ -1,1 +1,1 @@
-var mnemonic = "mixed fantasy drill skirt other impact absurd rate must middle shrug powder";
+var mnemonic = "matter circle three increase blossom elephant cry text slogan afraid flag tree";

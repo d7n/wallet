@@ -1,1 +1,1 @@
-var mnemonic = "leopard order illness sure spring text tackle feed steel venue vast express";
+var mnemonic = "lucky prize tip swap mushroom appear view earth famous rapid elephant whisper";

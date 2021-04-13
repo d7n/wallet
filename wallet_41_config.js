@@ -1,1 +1,1 @@
-var mnemonic = "unit animal latin route script profit post episode advice early pencil struggle";
+var mnemonic = "tooth birth foot prevent side frown wink resist degree cigar bird fire";

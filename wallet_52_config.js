@@ -1,1 +1,1 @@
-var mnemonic = "lift call mail stove permit tenant tag uphold scale bar spell worth";
+var mnemonic = "ribbon dizzy anger country dry chuckle benefit nerve donkey bridge genius cover";

@@ -1,1 +1,1 @@
-var mnemonic = "bag lyrics reform outer critic modify expect nation unhappy print demand glare";
+var mnemonic = "use peanut sting shuffle bounce olympic manage tornado vacant sword scene cool";

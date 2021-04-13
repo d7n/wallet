@@ -1,1 +1,1 @@
-var mnemonic = "gas radar mail next grain enter nerve hope track december hold flat";
+var mnemonic = "half follow wise below one similar edit parade engine lumber draw usage";

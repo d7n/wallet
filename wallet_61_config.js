@@ -1,1 +1,1 @@
-var mnemonic = "chase turtle bounce erosion fault arrest bulb thank job nuclear solution trust";
+var mnemonic = "vote universe bone deny awful vote pencil tube fossil ugly cost oxygen";

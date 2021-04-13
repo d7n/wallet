@@ -1,1 +1,1 @@
-var mnemonic = "promote disease pyramid team garment illegal muffin bachelor enroll kiwi link forget";
+var mnemonic = "truth milk marriage avoid useful where round pig jelly utility obvious spin";

@@ -1,1 +1,1 @@
-var mnemonic = "enough fine donkey cotton fringe alien cabbage aisle avocado degree exile remain";
+var mnemonic = "treat penalty sight exercise glow grant enhance velvet ridge absorb neutral potato";

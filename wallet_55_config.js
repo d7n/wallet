@@ -1,1 +1,1 @@
-var mnemonic = "spirit feature club arrive wise monkey slab plastic vehicle solar undo cash";
+var mnemonic = "genius gaze involve bonus velvet viable ancient video junk arrange mind wonder";

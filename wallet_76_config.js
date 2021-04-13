@@ -1,1 +1,1 @@
-var mnemonic = "kitten kingdom sad menu diet scare spatial motion become voice put slice";
+var mnemonic = "valid direct gossip blade maple secret cheap combine donkey bottom gallery nut";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid solution borrow diagram clarify jaguar this aim erase pave avocado holiday";
+var mnemonic = "marble piece film nurse quick denial distance please maximum stage seek uncover";

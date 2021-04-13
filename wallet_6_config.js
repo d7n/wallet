@@ -1,1 +1,1 @@
-var mnemonic = "second bean demand dial cross awkward any crazy exhaust give clean blanket";
+var mnemonic = "fame river beyond sound cross napkin focus envelope cloth history slow action";

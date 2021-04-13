@@ -1,1 +1,1 @@
-var mnemonic = "update ramp width ride engine mesh during course lonely slice stone trade";
+var mnemonic = "nerve clerk rotate tumble access survey sentence powder around resource buddy never";

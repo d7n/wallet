@@ -1,1 +1,1 @@
-var mnemonic = "inflict clean rather sweet physical old omit tiny obtain lizard issue boil";
+var mnemonic = "output memory ability tag giant polar quantum loan grief symbol suspect front";

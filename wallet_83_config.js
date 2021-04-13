@@ -1,1 +1,1 @@
-var mnemonic = "bullet civil enemy congress goddess six film select differ analyst notable skin";
+var mnemonic = "matter palace jaguar senior raven injury steel nest enter trick domain height";

@@ -1,1 +1,1 @@
-var mnemonic = "hair pioneer desert quick fiction acquire excess amateur ahead rebuild attitude siren";
+var mnemonic = "museum bamboo car never write vast where wolf wink enhance plate ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "solution eager champion gospel nominee camp render armed oyster never mansion bright";
+var mnemonic = "asset wink flight job shaft approve tonight glad pony weird vendor afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot sauce cause pottery tell turtle flee fortune limit chat shaft zero";
+var mnemonic = "alert pen cinnamon pig person tray oven will mind cactus roof spoil";

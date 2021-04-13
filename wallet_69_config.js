@@ -1,1 +1,1 @@
-var mnemonic = "kiwi amazing blood twist follow light rabbit capable liquid surge senior orient";
+var mnemonic = "kingdom hurry bright chalk pill brain thank decide veteran burger task auction";

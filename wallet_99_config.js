@@ -1,1 +1,1 @@
-var mnemonic = "cluster pumpkin combine attack spray group limb point occur chat letter dwarf";
+var mnemonic = "december else appear cannon arrest angle degree wire employ stomach page fringe";

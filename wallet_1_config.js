@@ -1,1 +1,1 @@
-var mnemonic = "museum borrow subway erase notice spirit north tape price fat maximum bomb";
+var mnemonic = "hurt scout bone silly range vault draft endorse title party avocado maximum";

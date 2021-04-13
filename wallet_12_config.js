@@ -1,1 +1,1 @@
-var mnemonic = "cabin venture close report update banner radio math field boring elegant steak";
+var mnemonic = "conduct topic liberty ketchup index critic volume exchange strong describe rocket easy";

@@ -1,1 +1,1 @@
-var mnemonic = "business cheap speed they then menu effort trash merry bonus vast aim";
+var mnemonic = "member gasp domain size clap south rifle theory acoustic sponsor injury avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "nose phrase tube salon dentist panic action unfold banana plug glad water";
+var mnemonic = "aunt rail sadness flight flame matrix wage wrist entry feature bachelor grief";

@@ -1,1 +1,1 @@
-var mnemonic = "cover push struggle symbol simple short escape slam chalk fury two worry";
+var mnemonic = "depart cheap pattern include expand village squeeze develop income chapter catch vivid";

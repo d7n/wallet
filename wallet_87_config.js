@@ -1,1 +1,1 @@
-var mnemonic = "autumn elite silver provide powder rubber portion visual aim biology arena have";
+var mnemonic = "tenant hobby believe possible bottom below black hill alone scissors impact surface";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor arena mutual trophy pill limb divorce school monster easily glory cabin";
+var mnemonic = "boat furnace cushion plastic type tiger insane champion rival spin viable witness";

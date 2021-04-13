@@ -1,1 +1,1 @@
-var mnemonic = "horse again visual inside shove angry useful venue away abandon prosper lyrics";
+var mnemonic = "attend frog silk example person waste remove trophy detect claw lady simple";

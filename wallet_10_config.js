@@ -1,1 +1,1 @@
-var mnemonic = "square ostrich tackle drive accuse object choose script cash magnet curious dentist";
+var mnemonic = "science myself initial saddle pulse modify broken fantasy fruit scheme junk almost";

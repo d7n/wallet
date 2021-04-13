@@ -1,1 +1,1 @@
-var mnemonic = "color pair marine nice flame person grief artwork disagree soft drive shoulder";
+var mnemonic = "life enact zebra crush pupil people face box next latin exhibit film";

@@ -1,1 +1,1 @@
-var mnemonic = "receive know frame author defy mean size spend hospital hundred snap rare";
+var mnemonic = "still cube fun debate mutual brick cream member father casual february adult";

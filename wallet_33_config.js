@@ -1,1 +1,1 @@
-var mnemonic = "resource fancy list cave midnight subject eager music poverty sock item honey";
+var mnemonic = "tail you sense save festival seat behind someone fiction year zero reject";

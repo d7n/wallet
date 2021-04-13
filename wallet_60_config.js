@@ -1,1 +1,1 @@
-var mnemonic = "power mass outdoor help vast walnut photo gravity used crew honey allow";
+var mnemonic = "crowd decade shove lizard recipe ladder torch car initial object mercy police";

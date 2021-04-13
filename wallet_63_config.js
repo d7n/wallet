@@ -1,1 +1,1 @@
-var mnemonic = "history rhythm child erase memory tenant cotton please dash approve satoshi praise";
+var mnemonic = "famous belt gift when jungle small cup vendor foster laptop country hybrid";

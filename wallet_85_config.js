@@ -1,1 +1,1 @@
-var mnemonic = "marine entry shrug suggest solar mirror solar quick theme rail wisdom thank";
+var mnemonic = "dove risk family worry inspire shop furnace stairs future siege cereal expand";

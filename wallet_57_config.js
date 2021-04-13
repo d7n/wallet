@@ -1,1 +1,1 @@
-var mnemonic = "canoe term prize kitten funny tape rookie ask flame theory diary shop";
+var mnemonic = "target fee quit upon grief hedgehog false hip affair arrange orchard become";

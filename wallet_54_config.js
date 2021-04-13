@@ -1,1 +1,1 @@
-var mnemonic = "viable jazz zero latin alley depth chalk egg swarm happy shrimp seed";
+var mnemonic = "enough fade travel interest combine story remember demise wreck wing morning faculty";

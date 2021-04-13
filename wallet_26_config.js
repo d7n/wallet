@@ -1,1 +1,1 @@
-var mnemonic = "artwork display off orphan pluck observe orphan tree fade umbrella noise cousin";
+var mnemonic = "cruise calm mix kite rebel into good group win cruel cattle gravity";

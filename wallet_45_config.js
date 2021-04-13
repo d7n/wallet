@@ -1,1 +1,1 @@
-var mnemonic = "select exit chicken post inspire scrub glide dish bright thought grant episode";
+var mnemonic = "note couch gift until settle rate ivory color lunar admit abstract bleak";

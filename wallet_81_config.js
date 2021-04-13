@@ -1,1 +1,1 @@
-var mnemonic = "pigeon fiscal climb disagree real bitter fish track cake moment glance outside";
+var mnemonic = "vault rough absorb candy wolf hundred slender project execute idle head luggage";

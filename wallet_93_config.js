@@ -1,1 +1,1 @@
-var mnemonic = "afford replace fury skull occur bubble choice business route olive shadow receive";
+var mnemonic = "tongue law brief spoil party across potato tank antique device chicken mistake";

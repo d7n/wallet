@@ -1,1 +1,1 @@
-var mnemonic = "joy shoe slot boss disorder clap cinnamon capital employ art marble segment";
+var mnemonic = "home quality harsh kind local goose draft clerk private true concert feature";

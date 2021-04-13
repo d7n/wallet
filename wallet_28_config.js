@@ -1,1 +1,1 @@
-var mnemonic = "among elite path subject bus round long creek spider ocean hood mistake";
+var mnemonic = "palm stay nest balance boy inspire garbage slight onion ankle field leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "left mystery praise list fantasy clay alert subway forest day obvious neutral";
+var mnemonic = "speak silly victory pelican nerve wage flight horse credit whisper there clap";

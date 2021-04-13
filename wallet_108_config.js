@@ -1,1 +1,1 @@
-var mnemonic = "pelican floor bundle thrive hockey crew depart sand sick approve side ostrich";
+var mnemonic = "inmate movie pole disease useless embark bridge lunch element sound hip height";

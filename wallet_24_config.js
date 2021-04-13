@@ -1,1 +1,1 @@
-var mnemonic = "fluid mango about lyrics doctor invite action opera become maximum word iron";
+var mnemonic = "voyage doll lobster leg science also skill refuse reward decorate mutual hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "myself faculty hunt project aerobic arrange between good blossom pioneer label belt";
+var mnemonic = "comic jealous route another news vessel suggest fence wild lend pelican mountain";

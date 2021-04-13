@@ -1,1 +1,1 @@
-var mnemonic = "category ahead wet buddy drink few grow defy vague rely when talk";
+var mnemonic = "allow forest favorite fog blur fade snake movie sugar sunny act bamboo";

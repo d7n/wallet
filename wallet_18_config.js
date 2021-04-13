@@ -1,1 +1,1 @@
-var mnemonic = "bachelor blouse abandon thrive found eight present brush brand second easy predict";
+var mnemonic = "online damp subway provide long relief amount small decorate cake bundle bean";

@@ -1,1 +1,1 @@
-var mnemonic = "impact club slide bean lobster wreck ride turn subway tomorrow spray maple";
+var mnemonic = "home can much library escape crunch shoot street shuffle elite million reunion";

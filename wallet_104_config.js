@@ -1,1 +1,1 @@
-var mnemonic = "ethics stick upon coast guide brain more sock promote either great jazz";
+var mnemonic = "junior cigar maze boy tomorrow mirror fiber april shoulder absurd car boss";

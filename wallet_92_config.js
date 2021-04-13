@@ -1,1 +1,1 @@
-var mnemonic = "arrive oil atom goose yard into flame pill pledge shoot brass pigeon";
+var mnemonic = "energy gallery soul quantum health pact patient planet name chef try wing";

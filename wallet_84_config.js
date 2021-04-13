@@ -1,1 +1,1 @@
-var mnemonic = "aim tribe move fancy boy swamp rose junk night step purse legend";
+var mnemonic = "rough unfold hybrid cruel soccer picnic auction settle antenna fetch increase twist";

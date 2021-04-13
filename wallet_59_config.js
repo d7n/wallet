@@ -1,1 +1,1 @@
-var mnemonic = "magnet drastic merge sweet drop jealous ranch ranch suffer delay gallery train";
+var mnemonic = "load film myself myth salute cloth issue mushroom wasp search negative whisper";

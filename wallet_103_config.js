@@ -1,1 +1,1 @@
-var mnemonic = "ethics income curve gaze way crucial insect soup fresh empty enter mask";
+var mnemonic = "dress carpet energy beyond lion miracle resemble mean similar hat runway crush";

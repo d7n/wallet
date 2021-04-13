@@ -1,1 +1,1 @@
-var mnemonic = "apple flip two dance cancel autumn hood labor uniform female example budget";
+var mnemonic = "cute chalk galaxy general rival orbit copy economy ask bullet mass invite";

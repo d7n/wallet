@@ -1,1 +1,1 @@
-var mnemonic = "inject annual mandate mechanic diary pelican problem flight spread hole mother head";
+var mnemonic = "crisp old bleak entire punch tube track connect inform scheme trigger era";

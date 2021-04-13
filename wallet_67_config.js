@@ -1,1 +1,1 @@
-var mnemonic = "brass december program mimic member nut panic escape shiver minor alley matter";
+var mnemonic = "utility frown issue toddler matter system hurdle voyage because friend list arrive";

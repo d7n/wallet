@@ -1,1 +1,1 @@
-var mnemonic = "enter absorb fly mail better fiber below negative whip either north region";
+var mnemonic = "scale arrive renew sample radio lake there relax tree family script obvious";

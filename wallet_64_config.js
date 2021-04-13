@@ -1,1 +1,1 @@
-var mnemonic = "attract gossip sick lunch quantum type stomach canal erase jealous donate race";
+var mnemonic = "hill muffin enact retreat oxygen wing crystal weather symbol debris flock wealth";

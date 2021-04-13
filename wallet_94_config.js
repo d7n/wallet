@@ -1,1 +1,1 @@
-var mnemonic = "cross palace army army fashion manage report matter debate retire peasant enough";
+var mnemonic = "disease crop fossil ring seven split burst mom shy evil unveil butter";

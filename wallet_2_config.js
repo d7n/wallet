@@ -1,1 +1,1 @@
-var mnemonic = "tide coach affair rose cluster winner climb sudden page rely busy planet";
+var mnemonic = "wet apology absurd hire target ceiling people swap world case material furnace";

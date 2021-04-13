@@ -1,1 +1,1 @@
-var mnemonic = "brand gift digital mango sword strategy glance kid shed salt agent destroy";
+var mnemonic = "cream ivory cherry knee melody forest crater hello angry method effort virus";
