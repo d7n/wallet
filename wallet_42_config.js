@@ -1,1 +1,1 @@
-var mnemonic = "hair blind liquid critic indoor canvas custom rocket away settle wise web";
+var mnemonic = "february birth misery emerge vague taste funny scare piano citizen mansion trip";

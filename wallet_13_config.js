@@ -1,1 +1,1 @@
-var mnemonic = "ritual math captain nut various arrange decorate flag burden false plate tongue";
+var mnemonic = "fire spider piano yellow melody alien pretty camp wrap art chalk view";

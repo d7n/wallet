@@ -1,1 +1,1 @@
-var mnemonic = "virtual skill legal gown topple split three body pave early supreme vault";
+var mnemonic = "robot scissors spice debris achieve then height expect wish door dice limb";

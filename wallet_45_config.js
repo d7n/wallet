@@ -1,1 +1,1 @@
-var mnemonic = "risk chair lunch develop unhappy rich practice avoid brief decrease equip process";
+var mnemonic = "deposit tuition question soldier twenty skull giant table arrest gown virus tone";

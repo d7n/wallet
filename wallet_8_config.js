@@ -1,1 +1,1 @@
-var mnemonic = "around eight father olive move drama waste reduce basic bird skull depart";
+var mnemonic = "rule august rival crisp include close one warm model lyrics orbit differ";

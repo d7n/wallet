@@ -1,1 +1,1 @@
-var mnemonic = "trouble clerk spin law plate foam kind omit devote wrist glove silent";
+var mnemonic = "pear ice behave laugh engage penalty iron garage crucial gift cousin acoustic";

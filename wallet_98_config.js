@@ -1,1 +1,1 @@
-var mnemonic = "muffin odor pluck sponsor fossil excuse state orphan select expire draft exact";
+var mnemonic = "erupt general ship party spirit spy rug spin into among urge hello";

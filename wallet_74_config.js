@@ -1,1 +1,1 @@
-var mnemonic = "strike wasp tower clever crush little prosper planet pass observe saddle paper";
+var mnemonic = "message all pet catch spare sorry crunch material attract clutch kiss immune";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm leopard fix start blast argue bind federal joke sing relax know";
+var mnemonic = "tray chef thought field brave arrive obtain play okay result domain trouble";

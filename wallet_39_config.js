@@ -1,1 +1,1 @@
-var mnemonic = "person coast differ oxygen toy picture often sibling kiwi credit vital trap";
+var mnemonic = "cost famous verify distance laundry birth fee update input parrot birth solve";

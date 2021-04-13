@@ -1,1 +1,1 @@
-var mnemonic = "penalty idea vendor truth shoulder middle child uncover flower way find sun";
+var mnemonic = "heart liquid attitude pudding blame denial odor shrug state link palace slam";

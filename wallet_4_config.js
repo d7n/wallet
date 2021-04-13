@@ -1,1 +1,1 @@
-var mnemonic = "trade into narrow tag green orphan powder shadow tackle awesome before educate";
+var mnemonic = "relax window stamp wrap pear crucial season improve half traffic lonely town";

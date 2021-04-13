@@ -1,1 +1,1 @@
-var mnemonic = "immense snap august icon ignore core notice index slide risk crouch fitness";
+var mnemonic = "column cram copper drama coach kitchen moral merry divert elevator fatal nice";

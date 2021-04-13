@@ -1,1 +1,1 @@
-var mnemonic = "endless differ damage ski duck canoe gasp glare feel sibling doll forest";
+var mnemonic = "then scan barrel leader human crack vanish accuse source curtain parrot attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "reject donate thing punch remove left coin wait movie burden machine trigger";
+var mnemonic = "leg remove place squirrel cage silly detect round unfold tape expand bind";

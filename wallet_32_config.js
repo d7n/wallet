@@ -1,1 +1,1 @@
-var mnemonic = "urge reopen addict island club vault field orient cat fence egg scissors";
+var mnemonic = "icon pigeon original wonder voice tomorrow cat bamboo immense between race clerk";

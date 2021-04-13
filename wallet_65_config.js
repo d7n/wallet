@@ -1,1 +1,1 @@
-var mnemonic = "capable produce team fossil eager eyebrow goat unknown health legal salad click";
+var mnemonic = "impulse village diamond crouch crew copy bleak elephant balcony illness evil super";

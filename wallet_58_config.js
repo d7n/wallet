@@ -1,1 +1,1 @@
-var mnemonic = "lamp zero prison motion memory jealous parrot odor cream bachelor portion neither";
+var mnemonic = "gallery scrub satoshi tower bind narrow cargo misery theme tribe priority actual";

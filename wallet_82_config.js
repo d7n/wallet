@@ -1,1 +1,1 @@
-var mnemonic = "replace furnace silk gesture exchange slab basic family soft face erode medal";
+var mnemonic = "spirit prevent car senior final silk know fame auction mutual soft rent";

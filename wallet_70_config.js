@@ -1,1 +1,1 @@
-var mnemonic = "cupboard demise pill pledge attack small exile sponsor hazard clarify relax rule";
+var mnemonic = "settle under dream laugh powder ocean beach antique spike gentle close arctic";

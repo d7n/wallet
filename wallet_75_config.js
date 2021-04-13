@@ -1,1 +1,1 @@
-var mnemonic = "limb three vicious skull cake invest base assault punch vehicle return bread";
+var mnemonic = "toe warfare leaf drive desert asset test soccer false palace private trouble";

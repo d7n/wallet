@@ -1,1 +1,1 @@
-var mnemonic = "frog grocery lazy often denial team weapon wink badge ride barely this";
+var mnemonic = "antique whale celery suffer achieve fish radar student visa gorilla delay acoustic";

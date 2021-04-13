@@ -1,1 +1,1 @@
-var mnemonic = "wall raven copy core animal slight turkey wife amateur vocal armor insect";
+var mnemonic = "day bomb blood sun track tiger spice fuel frozen scissors trust mobile";

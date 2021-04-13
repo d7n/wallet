@@ -1,1 +1,1 @@
-var mnemonic = "surround bacon melt swing banana canal cabin conduct table blade ecology rubber";
+var mnemonic = "crucial catch tilt glue boat verify staff swallow swamp trap once place";

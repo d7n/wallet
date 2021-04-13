@@ -1,1 +1,1 @@
-var mnemonic = "shock vague fragile pool prison snap oak kidney course fresh trigger immense";
+var mnemonic = "debate creek price thunder oil gauge evil puzzle undo outside sniff husband";

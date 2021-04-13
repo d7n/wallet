@@ -1,1 +1,1 @@
-var mnemonic = "want margin cry cause please beauty second major kid essence chuckle finish";
+var mnemonic = "edit quality number start exercise stand enforce unit afraid wire humor machine";

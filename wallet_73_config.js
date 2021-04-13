@@ -1,1 +1,1 @@
-var mnemonic = "science disease together airport degree father balance inch gorilla spread civil guard";
+var mnemonic = "spare rail harvest despair liquid fitness brisk stage crouch chief welcome topple";

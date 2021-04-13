@@ -1,1 +1,1 @@
-var mnemonic = "hub cute coral lunar fold peasant surface genius cigar blossom usual bid";
+var mnemonic = "provide lecture cash ill victory myself clog found auto lake diamond fame";

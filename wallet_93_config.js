@@ -1,1 +1,1 @@
-var mnemonic = "ski cost oven defy sample weapon skate tortoise floor clarify lunar attitude";
+var mnemonic = "join letter chief piano speak various above must drive change buffalo neglect";

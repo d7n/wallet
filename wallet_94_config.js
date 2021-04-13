@@ -1,1 +1,1 @@
-var mnemonic = "genuine comfort silent control place island priority length uncover holiday fluid island";
+var mnemonic = "license limit innocent giraffe path sick deliver slice struggle gravity thank car";

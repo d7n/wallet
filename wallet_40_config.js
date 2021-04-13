@@ -1,1 +1,1 @@
-var mnemonic = "width charge feel jar age mountain forest exhaust cricket joy faith kitchen";
+var mnemonic = "jewel door axis urge neck frown inside shell library soon clever pitch";

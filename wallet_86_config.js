@@ -1,1 +1,1 @@
-var mnemonic = "music few logic afraid clinic pistol metal drum humor chapter element pony";
+var mnemonic = "blanket grain dumb dawn want luxury draw coach color spot lecture series";

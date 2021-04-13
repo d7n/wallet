@@ -1,1 +1,1 @@
-var mnemonic = "issue law hotel fortune live edit identify rail industry island note change";
+var mnemonic = "volume any talk outside limit jacket reflect velvet pink reopen trip next";

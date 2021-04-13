@@ -1,1 +1,1 @@
-var mnemonic = "arrest era winter service universe crop much crazy exclude plate horse neither";
+var mnemonic = "snake vital nation bus useless hotel truck defy dog ankle flock vivid";

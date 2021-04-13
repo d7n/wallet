@@ -1,1 +1,1 @@
-var mnemonic = "stuff talent battle favorite elite aunt obey group idle citizen child essence";
+var mnemonic = "rabbit nation reform vivid next slim increase loud famous trick impulse random";

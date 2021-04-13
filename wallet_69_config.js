@@ -1,1 +1,1 @@
-var mnemonic = "option depart fat village antenna cube conduct reopen cannon weasel apology help";
+var mnemonic = "zoo wolf dish twice win answer strategy build connect fork bench finger";

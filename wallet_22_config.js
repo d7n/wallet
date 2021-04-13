@@ -1,1 +1,1 @@
-var mnemonic = "figure cry mirror endless leaf veteran west quit boss roof flame embody";
+var mnemonic = "harvest tobacco hotel average bring rigid kind champion surprise right second daughter";

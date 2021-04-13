@@ -1,1 +1,1 @@
-var mnemonic = "lava error tent typical sample online tomato balcony drink claw faculty boat";
+var mnemonic = "nominee fitness balance direct goose corn need spin venue entire pear hybrid";

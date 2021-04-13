@@ -1,1 +1,1 @@
-var mnemonic = "idle mandate salt canoe involve toilet fall govern act portion before panther";
+var mnemonic = "caution layer size panda voyage recall fold jeans shrimp behind faint crop";

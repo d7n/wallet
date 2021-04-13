@@ -1,1 +1,1 @@
-var mnemonic = "orchard burst kidney various blouse ribbon summer setup dragon relief sorry mansion";
+var mnemonic = "olive chair noble truly expose service ostrich forward ball symptom yard hidden";

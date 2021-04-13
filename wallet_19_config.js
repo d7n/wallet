@@ -1,1 +1,1 @@
-var mnemonic = "reform physical frown unique swear regular luxury obscure thrive guitar danger protect";
+var mnemonic = "story since ivory cigar rotate walk renew neck success often primary this";

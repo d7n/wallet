@@ -1,1 +1,1 @@
-var mnemonic = "resist praise venture verb toddler cry lens magnet voice puppy season crime";
+var mnemonic = "town huge circle float toss gun nominee tape label parent drastic relief";

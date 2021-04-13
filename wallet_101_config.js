@@ -1,1 +1,1 @@
-var mnemonic = "misery steel session motion flee cabbage idle settle save super action risk";
+var mnemonic = "eyebrow idle cement turtle laptop broken absorb old borrow wood blue repair";

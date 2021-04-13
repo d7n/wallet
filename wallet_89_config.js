@@ -1,1 +1,1 @@
-var mnemonic = "reduce elder benefit famous young concert cost clean mountain you child license";
+var mnemonic = "leave inch reopen april goddess patient grant squirrel inmate scout harbor sunset";

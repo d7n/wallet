@@ -1,1 +1,1 @@
-var mnemonic = "blanket ocean debate practice bulk educate office result few correct super verify";
+var mnemonic = "piece soft talk cruise tuition anger prison ball one damp victory chair";

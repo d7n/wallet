@@ -1,1 +1,1 @@
-var mnemonic = "pipe grain hazard party hood tuition cluster boat jazz fine endless bonus";
+var mnemonic = "saddle tiger shine fog amused sunny quit hint enact good flavor sleep";

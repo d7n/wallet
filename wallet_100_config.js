@@ -1,1 +1,1 @@
-var mnemonic = "hat economy nose repeat mix host garment dust ridge lift wrong bridge";
+var mnemonic = "equal car grow question animal attend muscle side vicious chapter explain wrist";

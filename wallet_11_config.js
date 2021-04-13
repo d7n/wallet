@@ -1,1 +1,1 @@
-var mnemonic = "pond science title voyage inherit gun damage hollow illegal judge evoke resource";
+var mnemonic = "skirt mule chuckle strike humble bring give salute achieve angry garlic enhance";

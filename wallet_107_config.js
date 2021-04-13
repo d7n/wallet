@@ -1,1 +1,1 @@
-var mnemonic = "tide label usage layer jealous trade ramp pear session noodle alarm fatigue";
+var mnemonic = "treat report that genuine coffee pull legal ski dial mushroom unlock ripple";

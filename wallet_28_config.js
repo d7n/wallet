@@ -1,1 +1,1 @@
-var mnemonic = "route adult abstract advice mutual air wave eagle fiber pledge replace reopen";
+var mnemonic = "acoustic orbit inquiry wisdom seed bid noble merry chair that fuel boring";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket sad lend syrup tube online animal zebra cereal rally story dragon";
+var mnemonic = "loud citizen swarm beach face tuition fluid relax history certain popular upset";

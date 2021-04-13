@@ -1,1 +1,1 @@
-var mnemonic = "polar lecture play cereal try surround six whip print evil arrive similar";
+var mnemonic = "proof close noble riot fresh honey tuition away forget hidden great portion";

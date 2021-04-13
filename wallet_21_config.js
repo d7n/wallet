@@ -1,1 +1,1 @@
-var mnemonic = "rigid finger suit afraid artefact quality urge tell camera fragile arrest age";
+var mnemonic = "net artist print thought inner master position smart hint trumpet busy parent";

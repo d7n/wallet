@@ -1,1 +1,1 @@
-var mnemonic = "session horn title flame poem man glide knife stuff surge version manual";
+var mnemonic = "cruise above same lunar achieve ceiling candy speed gasp gospel public crime";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort cable fiscal indicate weekend tomorrow history river private stool spin world";
+var mnemonic = "notable record inflict average buyer breeze stool jazz mobile skirt merry citizen";

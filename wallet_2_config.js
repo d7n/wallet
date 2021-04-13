@@ -1,1 +1,1 @@
-var mnemonic = "silent ordinary upon grant sight mandate attitude toilet fall extend social alpha";
+var mnemonic = "model hire easily install recall square affair chase stadium question fuel economy";

@@ -1,1 +1,1 @@
-var mnemonic = "phone dream fetch mobile mandate estate sign remain flavor bracket exit warm";
+var mnemonic = "crucial pitch tiger access bulk dial round mix tornado timber can economy";

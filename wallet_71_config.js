@@ -1,1 +1,1 @@
-var mnemonic = "donkey island pole laptop consider unfold rude own action unfair frost island";
+var mnemonic = "electric security spider crisp undo into friend mouse forum extend net gauge";

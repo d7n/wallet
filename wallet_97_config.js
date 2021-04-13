@@ -1,1 +1,1 @@
-var mnemonic = "good thank host solar burger empty kingdom broken give tragic trip electric";
+var mnemonic = "assume pyramid flee rib kite sorry link mansion nice blouse vague toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "voice pioneer short walnut balance lunch yard believe stock alarm quick forest";
+var mnemonic = "vehicle scissors mom stove club off draw uncle shiver paddle below state";

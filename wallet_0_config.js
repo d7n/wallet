@@ -1,1 +1,1 @@
-var mnemonic = "giggle donor tip bar away animal hero impulse figure hire accuse host";
+var mnemonic = "identify ghost film become because talk attack core inquiry shop emotion address";

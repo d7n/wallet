@@ -1,1 +1,1 @@
-var mnemonic = "habit soon bike attend drastic benefit weasel live anchor find wet wrap";
+var mnemonic = "security cement bring sample shadow napkin swim win cool occur inspire decorate";

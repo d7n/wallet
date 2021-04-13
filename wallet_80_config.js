@@ -1,1 +1,1 @@
-var mnemonic = "media direct code father doll kiwi vicious invite runway apple envelope thank";
+var mnemonic = "huge crew hill maze delay since hand hazard armor such grit salt";

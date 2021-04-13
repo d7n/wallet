@@ -1,1 +1,1 @@
-var mnemonic = "genius imitate chaos poem survey write bacon thank wild mountain convince tuna";
+var mnemonic = "tenant wine tourist any seven hazard danger plug loan afraid assist afford";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow original flip retreat eternal sibling fiber genuine tool book fragile visit";
+var mnemonic = "fan provide exit dad spider add combine notice cruel broken nature error";

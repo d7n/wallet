@@ -1,1 +1,1 @@
-var mnemonic = "day shoulder prison toddler manage insect deny maze couch boss vault unknown";
+var mnemonic = "loud street length orange naive slogan wet ugly wire suggest useful legend";

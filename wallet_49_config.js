@@ -1,1 +1,1 @@
-var mnemonic = "lazy lumber middle screen spray useless easy mistake another enable patrol emotion";
+var mnemonic = "venue twelve carbon heavy guide remember lumber believe couple item castle exit";

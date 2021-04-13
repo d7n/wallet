@@ -1,1 +1,1 @@
-var mnemonic = "slim keep universe chair school exercise trust gap hollow arm idle edge";
+var mnemonic = "impose vague thing enrich position fee human mail position cluster hurt affair";

@@ -1,1 +1,1 @@
-var mnemonic = "rate attend frown wheat shove weekend discover swap reform memory rug you";
+var mnemonic = "idea seed jungle correct token clever force field ostrich business forest fringe";

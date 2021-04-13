@@ -1,1 +1,1 @@
-var mnemonic = "tumble gas cruise again diet twelve subway six aisle bright list fringe";
+var mnemonic = "ivory junk cry enemy bulk term snake medal own artist blast advance";

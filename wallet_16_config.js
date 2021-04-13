@@ -1,1 +1,1 @@
-var mnemonic = "hen chapter hungry birth element bulk ancient negative allow have wagon shell";
+var mnemonic = "green exhibit lady fever area awake bless deposit invite salt antenna club";

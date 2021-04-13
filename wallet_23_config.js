@@ -1,1 +1,1 @@
-var mnemonic = "mimic shove weasel two stool film spend whip voyage mushroom reward sun";
+var mnemonic = "neither lazy blame fatigue race man fitness safe merit discover start episode";

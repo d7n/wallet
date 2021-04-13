@@ -1,1 +1,1 @@
-var mnemonic = "original odor mango salt bracket cute author quantum purse wish truth demise";
+var mnemonic = "misery lake jaguar cost deal need lobster orange act icon discover visa";

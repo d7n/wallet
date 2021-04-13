@@ -1,1 +1,1 @@
-var mnemonic = "battle ethics candy snow cannon gift kind laundry glass angle exile lake";
+var mnemonic = "chuckle bid kite earn wait lend sport breeze dice grace one nature";

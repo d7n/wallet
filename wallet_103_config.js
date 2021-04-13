@@ -1,1 +1,1 @@
-var mnemonic = "copy nerve strike trumpet volume bus solve armor top answer debate repeat";
+var mnemonic = "maid name fork swamp leopard battle this size prosper cook boy pistol";

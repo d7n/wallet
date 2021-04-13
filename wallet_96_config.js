@@ -1,1 +1,1 @@
-var mnemonic = "yellow diagram theory athlete cattle fever bread about salt pond green fury";
+var mnemonic = "just goddess cute adult ride apology during sponsor payment wreck silk gravity";

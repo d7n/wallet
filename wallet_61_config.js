@@ -1,1 +1,1 @@
-var mnemonic = "soup route pelican pet glance mosquito loan truck vault liar orient misery";
+var mnemonic = "couch foam chuckle robot topple enable person inform throw avocado banner sense";

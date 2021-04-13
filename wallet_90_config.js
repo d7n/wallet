@@ -1,1 +1,1 @@
-var mnemonic = "vault gauge just chunk wonder minimum wild lion leaf cigar final found";
+var mnemonic = "cream boil gun unfold large upgrade runway home gain melody become zero";

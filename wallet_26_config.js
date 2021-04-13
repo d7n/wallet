@@ -1,1 +1,1 @@
-var mnemonic = "gravity jaguar hand link grape rain front sphere essay okay poem start";
+var mnemonic = "door behind blush pattern guess orange will buffalo smile barrel ethics grid";

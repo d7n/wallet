@@ -1,1 +1,1 @@
-var mnemonic = "doctor manual vault time buyer column pole paper pause huge dwarf quantum";
+var mnemonic = "stable lion merit dragon various plug jazz fire round police cotton flavor";

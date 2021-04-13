@@ -1,1 +1,1 @@
-var mnemonic = "ancient glove exclude roof maple mandate accident dolphin betray sure similar offer";
+var mnemonic = "income give cancel whisper bracket novel found course pluck fire pattern punch";

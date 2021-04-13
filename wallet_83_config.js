@@ -1,1 +1,1 @@
-var mnemonic = "need fall citizen food addict execute speed spike grow trash attend target";
+var mnemonic = "pepper indoor border brisk coffee vote cradle film decide earn novel later";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap hedgehog live letter hard loop coral water mutual robot riot just";
+var mnemonic = "differ island fence demand segment tattoo marine sound pottery satoshi leader ensure";

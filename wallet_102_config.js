@@ -1,1 +1,1 @@
-var mnemonic = "position blame escape like breeze rich ensure help dust north dinner capital";
+var mnemonic = "upgrade capital electric shock word bean calm fiction all normal pottery runway";

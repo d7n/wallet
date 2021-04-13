@@ -1,1 +1,1 @@
-var mnemonic = "excuse luggage approve topple print replace market door fault sphere long detect";
+var mnemonic = "insect man enjoy beauty enable banana neglect buddy gauge put turtle tongue";

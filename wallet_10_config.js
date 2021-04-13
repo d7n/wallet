@@ -1,1 +1,1 @@
-var mnemonic = "slender weapon chest common globe south same acid domain release useful cabin";
+var mnemonic = "artefact adult cook soup upset clown awful over wise latin weasel nature";

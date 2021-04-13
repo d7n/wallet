@@ -1,1 +1,1 @@
-var mnemonic = "wait mom spider half nut warrior hand strategy rapid wait jaguar rival";
+var mnemonic = "frog sport diagram lake game enact spin world shaft cancel boost dash";

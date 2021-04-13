@@ -1,1 +1,1 @@
-var mnemonic = "wing lizard model little jazz invest jacket inflict juice end differ thing";
+var mnemonic = "canoe quality balcony layer certain hazard attend canvas crawl twin unlock stay";

@@ -1,1 +1,1 @@
-var mnemonic = "color dutch wedding elevator nut spatial renew outdoor peace wire imitate more";
+var mnemonic = "team scatter polar maze demise music grief busy impose cannon reduce measure";

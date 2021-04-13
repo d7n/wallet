@@ -1,1 +1,1 @@
-var mnemonic = "bunker open isolate language sketch noise boring hawk naive divert tattoo juice";
+var mnemonic = "snake clinic script inner labor ensure result like wage seminar turkey choice";

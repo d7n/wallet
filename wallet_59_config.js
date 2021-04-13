@@ -1,1 +1,1 @@
-var mnemonic = "best senior nasty immune all unfair bulb spatial always danger gesture biology";
+var mnemonic = "type unlock inhale industry reflect castle lake affair document egg call vibrant";

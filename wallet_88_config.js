@@ -1,1 +1,1 @@
-var mnemonic = "minute judge curve field special buffalo legal theory deer crisp decline rocket";
+var mnemonic = "easily essence second image dress during hospital grace uncle harvest produce harvest";

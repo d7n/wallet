@@ -1,1 +1,1 @@
-var mnemonic = "pretty melt extra nation purse myself disorder sick horse tattoo good swap";
+var mnemonic = "item much slow keen jewel spell violin brave gold left nest hybrid";

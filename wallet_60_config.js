@@ -1,1 +1,1 @@
-var mnemonic = "torch seat hollow emerge merit own grid fork error column patch flash";
+var mnemonic = "affair switch stamp way author practice portion obey pony congress fragile sand";

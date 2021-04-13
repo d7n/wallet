@@ -1,1 +1,1 @@
-var mnemonic = "corn oyster mule dinner oblige monitor service warrior metal draw false hat";
+var mnemonic = "beef embrace world vicious front demise luggage auction jewel sign style cloud";
