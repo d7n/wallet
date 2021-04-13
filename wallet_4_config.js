@@ -1,1 +1,1 @@
-var mnemonic = "drift glass easily beyond welcome note escape bamboo satoshi chase oblige nest";
+var mnemonic = "apple prosper vague female relax cook buzz cactus tower thunder muffin van";

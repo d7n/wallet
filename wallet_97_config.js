@@ -1,1 +1,1 @@
-var mnemonic = "business girl coconut alien identify lecture wool silent dwarf accident hollow gaze";
+var mnemonic = "palace husband rather wrist paper noble host cable crowd ocean ceiling brick";

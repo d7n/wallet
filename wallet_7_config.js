@@ -1,1 +1,1 @@
-var mnemonic = "present ginger chase route either rival weather decade arm roast make ring";
+var mnemonic = "guide debris middle attend fruit direct immense approve glow fault apart shrug";

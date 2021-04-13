@@ -1,1 +1,1 @@
-var mnemonic = "half expand maze useless crowd cable coach float veteran luggage hand wish";
+var mnemonic = "drill exist strike cereal hamster nephew into tired danger budget laugh people";

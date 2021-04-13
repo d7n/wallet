@@ -1,1 +1,1 @@
-var mnemonic = "apology sunny album bus tennis north season oil exit hungry fatal kit";
+var mnemonic = "sport spawn crowd chunk whisper crime myth endless draft thunder plug harbor";

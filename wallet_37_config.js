@@ -1,1 +1,1 @@
-var mnemonic = "excuse slim green world hammer say cargo mass forward filter want boss";
+var mnemonic = "sugar shine morning fine auto chicken void limit else donate cage broken";

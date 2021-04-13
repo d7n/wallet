@@ -1,1 +1,1 @@
-var mnemonic = "ladder hope original exchange disorder puzzle salon man bargain march burden input";
+var mnemonic = "increase step world erupt broccoli slight lizard repair topic huge erase erase";

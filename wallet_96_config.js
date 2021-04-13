@@ -1,1 +1,1 @@
-var mnemonic = "beauty worth follow cross inform sauce current dragon outdoor hire slogan order";
+var mnemonic = "march churn reason chief subject abstract laundry roast fox quote noodle bitter";

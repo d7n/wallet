@@ -1,1 +1,1 @@
-var mnemonic = "square beyond degree cross once inherit couple divorce twenty ready mystery design";
+var mnemonic = "actor carpet sure asset view bless village one virtual effort limit apart";

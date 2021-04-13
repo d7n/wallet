@@ -1,1 +1,1 @@
-var mnemonic = "army twenty when claim jeans crumble that weather divide ball wise gesture";
+var mnemonic = "permit uniform company veteran inch yard decade model coil romance upset canyon";

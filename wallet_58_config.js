@@ -1,1 +1,1 @@
-var mnemonic = "narrow biology entire name patch snap hospital update scheme area run early";
+var mnemonic = "region educate treat pool minute economy sting estate around faith file august";

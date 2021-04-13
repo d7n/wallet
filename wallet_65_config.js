@@ -1,1 +1,1 @@
-var mnemonic = "list piece dragon decrease diamond device save mail found path turn auto";
+var mnemonic = "profit phrase card perfect square regret baby gap buffalo hope frog replace";

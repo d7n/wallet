@@ -1,1 +1,1 @@
-var mnemonic = "protect skin stairs melody step pledge subject face float fragile rural moral";
+var mnemonic = "pony balance catch equip time buffalo item peasant involve local distance inch";

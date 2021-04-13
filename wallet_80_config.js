@@ -1,1 +1,1 @@
-var mnemonic = "stable trim table vital radar raccoon produce poverty rack episode foil strategy";
+var mnemonic = "finger frozen pink public shallow weasel toddler merge liberty divide stand weird";

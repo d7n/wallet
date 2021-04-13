@@ -1,1 +1,1 @@
-var mnemonic = "side style cause erode horse inherit because jelly clutch feed process vacant";
+var mnemonic = "acid chef wrap panda pupil add wife stone minor enjoy mesh initial";

@@ -1,1 +1,1 @@
-var mnemonic = "bench young virus large eager carbon decline suit couch quit scare human";
+var mnemonic = "occur ghost aerobic gap habit news advice arrange normal kite bulk vessel";

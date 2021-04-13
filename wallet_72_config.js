@@ -1,1 +1,1 @@
-var mnemonic = "resist extra outdoor section child fix knock magnet camera trumpet cherry sister";
+var mnemonic = "ticket radio wisdom clump upgrade inform toe monkey trial million observe found";

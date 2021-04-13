@@ -1,1 +1,1 @@
-var mnemonic = "assume undo pattern region cup upper tide alarm panther bring dismiss again";
+var mnemonic = "whip exist hazard engine city used media liberty ensure weapon bitter body";

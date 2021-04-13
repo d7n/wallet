@@ -1,1 +1,1 @@
-var mnemonic = "endorse noodle dragon top battle blood grape gospel kiwi govern lucky mean";
+var mnemonic = "proud tilt blue satisfy opinion route noble autumn purity cigar solve science";

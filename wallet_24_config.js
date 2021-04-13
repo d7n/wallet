@@ -1,1 +1,1 @@
-var mnemonic = "car praise chicken stand metal emerge item defy flavor print glad never";
+var mnemonic = "evolve blouse chaos leg agent more sugar current nephew universe smoke cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "depend summer light comfort sport expose book save alter blame excite foot";
+var mnemonic = "garment beauty outer razor sibling silly spice tragic regular argue tray sleep";

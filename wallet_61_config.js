@@ -1,1 +1,1 @@
-var mnemonic = "soap security multiply record camp female identify resource tent census that acoustic";
+var mnemonic = "enforce arm goat media duty height helmet plunge drive tomorrow forest group";

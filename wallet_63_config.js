@@ -1,1 +1,1 @@
-var mnemonic = "kiss ecology evidence rare smooth unaware property pass pact strategy often gorilla";
+var mnemonic = "say soccer bacon ugly ship park oak you defense tell mass general";

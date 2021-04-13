@@ -1,1 +1,1 @@
-var mnemonic = "fade bulk kidney element aerobic net culture aisle toy refuse kidney there";
+var mnemonic = "square dolphin people width boring cherry reflect increase apology acquire ranch change";

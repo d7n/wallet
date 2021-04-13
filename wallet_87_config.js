@@ -1,1 +1,1 @@
-var mnemonic = "borrow educate echo clerk table minute emerge room buyer harvest skull father";
+var mnemonic = "physical bread thought unfold stock rapid fly reveal bulk hello club animal";

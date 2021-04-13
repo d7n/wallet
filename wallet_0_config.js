@@ -1,1 +1,1 @@
-var mnemonic = "wool parrot skill thrive lawsuit alone pepper region soda discover educate bonus";
+var mnemonic = "oyster fix peasant pact borrow oyster lonely atom rifle marriage heart sell";

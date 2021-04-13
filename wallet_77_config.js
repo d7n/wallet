@@ -1,1 +1,1 @@
-var mnemonic = "vague open recycle tomorrow salmon frog magic motor flavor seat fuel marble";
+var mnemonic = "wealth various shell mimic biology snap heart throw pioneer combine cigar toward";

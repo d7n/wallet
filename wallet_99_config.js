@@ -1,1 +1,1 @@
-var mnemonic = "salt recipe clean history major scrub journey market crucial film hockey cube";
+var mnemonic = "fly will rapid small nurse broom robot close spin toward swear night";

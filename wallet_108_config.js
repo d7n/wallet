@@ -1,1 +1,1 @@
-var mnemonic = "hamster brick path manage wrist bitter become dial whip food demise snake";
+var mnemonic = "reason maze sibling increase awesome sad pair type inflict copper matter winner";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal first core matrix home miss tip travel candy sheriff radio say";
+var mnemonic = "describe slide orient trash tragic transfer awkward token shoe cause pave wise";

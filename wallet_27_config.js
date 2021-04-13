@@ -1,1 +1,1 @@
-var mnemonic = "damp square tortoise pistol cover cook injury dance tribe world vote wonder";
+var mnemonic = "miss crush lottery alert action grit slight butter hollow prize across maze";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy spawn ecology leisure dawn enable exhaust trial pig horror simple close";
+var mnemonic = "odor skill wheel utility hammer someone jelly pet betray this chapter cost";

@@ -1,1 +1,1 @@
-var mnemonic = "robust live genuine lens jacket verify reopen cheese follow goat badge venture";
+var mnemonic = "pass stove wedding gun corn now toy camp web marble agree devote";

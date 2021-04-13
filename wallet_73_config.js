@@ -1,1 +1,1 @@
-var mnemonic = "magnet mansion draft resist myself boy sauce size nuclear menu ritual exist";
+var mnemonic = "invest head height wine pave salon bulb neutral alarm foster blind adapt";

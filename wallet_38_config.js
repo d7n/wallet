@@ -1,1 +1,1 @@
-var mnemonic = "parade traffic rhythm broken memory pioneer danger rate control patrol dwarf panel";
+var mnemonic = "spend motion swallow cycle despair uncle logic crawl tide sauce syrup rent";

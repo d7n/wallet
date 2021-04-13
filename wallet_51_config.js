@@ -1,1 +1,1 @@
-var mnemonic = "cement theory draw purse task sea fun party cheap region bag mandate";
+var mnemonic = "loyal parent edit eager coach wool warfare appear caution reward item excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "quit victory table ocean pitch crane trade high cannon exchange huge win";
+var mnemonic = "truck submit cluster boring general feed glad amused chronic depth survey tourist";

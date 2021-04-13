@@ -1,1 +1,1 @@
-var mnemonic = "live such success august city crater order differ mass skate nerve minor";
+var mnemonic = "kid donkey member steel asthma stand author pill chimney civil rack wonder";

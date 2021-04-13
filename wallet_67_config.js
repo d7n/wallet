@@ -1,1 +1,1 @@
-var mnemonic = "total caught resource upper syrup extend vivid alone float address enforce gift";
+var mnemonic = "person employ input way journey punch version sweet forget galaxy bracket master";

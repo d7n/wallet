@@ -1,1 +1,1 @@
-var mnemonic = "tiny hospital magnet genius subway develop someone give island assault crunch once";
+var mnemonic = "trial cannon erode fiscal naive retreat possible absent tonight report jeans manage";

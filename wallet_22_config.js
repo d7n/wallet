@@ -1,1 +1,1 @@
-var mnemonic = "snake yellow decide rely filter ill iron roof discover shift balcony holiday";
+var mnemonic = "blur sunny current debate health million dice dry cost crew boy cargo";

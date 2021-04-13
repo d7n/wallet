@@ -1,1 +1,1 @@
-var mnemonic = "embark route movie hub umbrella start buyer bridge avocado distance pattern inflict";
+var mnemonic = "brain grunt depth burger palace enemy husband sadness pepper crash chunk iron";

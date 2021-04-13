@@ -1,1 +1,1 @@
-var mnemonic = "text used antique face gold city puppy swarm title solid buyer today";
+var mnemonic = "size hurt regular bracket squirrel weird want orange gate inject panic vibrant";

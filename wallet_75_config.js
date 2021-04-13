@@ -1,1 +1,1 @@
-var mnemonic = "warfare join sketch faculty offer lucky base energy adapt purity match price";
+var mnemonic = "program sausage keen friend bring alien joy fragile vault melt deposit long";

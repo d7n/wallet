@@ -1,1 +1,1 @@
-var mnemonic = "fashion civil fit clarify candy steel gift outside edit mad finish drill";
+var mnemonic = "jar denial april pretty cycle pigeon replace shift wine novel exhaust crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "silk sand cheese ski comic gloom tray evil thrive private joke together";
+var mnemonic = "grace situate whisper call ritual save era gaze chief piece thumb vacuum";

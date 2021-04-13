@@ -1,1 +1,1 @@
-var mnemonic = "audit scheme gossip square logic life bless blast drip engage display doctor";
+var mnemonic = "define mountain fun pledge myself subway bamboo dawn slush balance ripple skin";

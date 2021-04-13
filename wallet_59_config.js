@@ -1,1 +1,1 @@
-var mnemonic = "region morning paddle strong announce spin lion gasp wing this obvious erosion";
+var mnemonic = "icon hint width ridge atom smoke tape toilet spare client skate situate";

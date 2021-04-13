@@ -1,1 +1,1 @@
-var mnemonic = "worth peace pistol elephant cup sun swift among fade spice tone fragile";
+var mnemonic = "fault fitness spread sleep license mixture candy bubble smoke curtain live siren";

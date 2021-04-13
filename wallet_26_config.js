@@ -1,1 +1,1 @@
-var mnemonic = "tonight cable inch visa citizen joy seek salute carry little range title";
+var mnemonic = "wet sister library route payment auto swallow nice puppy scene rose ceiling";

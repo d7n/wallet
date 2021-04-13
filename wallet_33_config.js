@@ -1,1 +1,1 @@
-var mnemonic = "wasp toss steak begin tennis evidence want opinion put donkey flip sniff";
+var mnemonic = "approve bring solid onion bag onion shift reveal brief shove glove mouse";

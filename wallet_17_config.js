@@ -1,1 +1,1 @@
-var mnemonic = "sound crop hungry soap gas recall where cream autumn potato square similar";
+var mnemonic = "spell recycle spawn earn roof dirt giant ribbon stuff enable luxury shop";

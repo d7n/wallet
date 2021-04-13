@@ -1,1 +1,1 @@
-var mnemonic = "core make brief bird prepare salon piece ride swear wrestle improve analyst";
+var mnemonic = "pioneer fame much suit lizard power obscure mail illness feel frozen tree";

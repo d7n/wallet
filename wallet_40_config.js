@@ -1,1 +1,1 @@
-var mnemonic = "bachelor primary green ankle table slight cement aware harsh argue actress foster";
+var mnemonic = "shell panda tonight invest ketchup weird level accident depth tail bubble cover";

@@ -1,1 +1,1 @@
-var mnemonic = "spy blind loop pledge social choose ice sibling decorate drive story transfer";
+var mnemonic = "old ladder this labor kit property ship barely damp flat clump possible";

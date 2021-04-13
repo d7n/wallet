@@ -1,1 +1,1 @@
-var mnemonic = "spy gold warm pen submit zone night twenty state news giant myself";
+var mnemonic = "exact file certain unique disease rose fire dentist divide cup start cactus";

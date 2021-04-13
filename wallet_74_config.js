@@ -1,1 +1,1 @@
-var mnemonic = "spawn wish garbage quit trash nuclear shrimp hint close unaware mobile health";
+var mnemonic = "valid grape pig summer pause sketch one donate distance carry manual rice";

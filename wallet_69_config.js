@@ -1,1 +1,1 @@
-var mnemonic = "blouse flash transfer jelly soul spice session mango deliver floor wolf human";
+var mnemonic = "buffalo frozen peanut flag man syrup cash comic carry merry often come";

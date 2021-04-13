@@ -1,1 +1,1 @@
-var mnemonic = "garlic unlock tattoo owner away unique poem bird choice payment truck scene";
+var mnemonic = "lazy they universe home cushion nice elder leaf protect below subway elephant";

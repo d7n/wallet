@@ -1,1 +1,1 @@
-var mnemonic = "please connect crawl item clown shrimp abuse either mad destroy correct few";
+var mnemonic = "sell tiger shove until edit illegal shrimp inspire farm foster dish pumpkin";

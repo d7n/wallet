@@ -1,1 +1,1 @@
-var mnemonic = "bottom fatigue pave rally reward wet immense man buyer tomorrow country soul";
+var mnemonic = "lab onion rescue dawn wage wrestle nation draw chair silly curve arrest";

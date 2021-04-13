@@ -1,1 +1,1 @@
-var mnemonic = "develop lawn dust pig damp snap pool cake struggle hub provide blind";
+var mnemonic = "grab glance notable gauge library afraid actor eye later buddy either blur";

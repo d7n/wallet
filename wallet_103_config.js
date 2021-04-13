@@ -1,1 +1,1 @@
-var mnemonic = "evidence spatial frozen boring drastic duty link theory nuclear fly van payment";
+var mnemonic = "bundle property spin evil mesh airport next core entry reason course print";

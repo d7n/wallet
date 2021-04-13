@@ -1,1 +1,1 @@
-var mnemonic = "palace bean unaware prefer impulse crew chef school snow vital ranch region";
+var mnemonic = "mom olympic chimney climb portion nephew wealth apple inform ribbon cement tuition";

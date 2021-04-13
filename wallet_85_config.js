@@ -1,1 +1,1 @@
-var mnemonic = "vehicle scrap admit ready letter more salad filter snap practice today rate";
+var mnemonic = "meat urge size spray atom boat weird brisk journey monitor above panther";

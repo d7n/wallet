@@ -1,1 +1,1 @@
-var mnemonic = "panther ladder demand already share surprise error cause step fee figure evolve";
+var mnemonic = "vague oven rude grain journey note bleak stable chunk snow devote mushroom";

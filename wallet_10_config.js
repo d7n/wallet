@@ -1,1 +1,1 @@
-var mnemonic = "vacuum fiber garage salon head access uniform trash public believe recipe clutch";
+var mnemonic = "industry edit fine speak crime chest monitor casual meat pattern result tomorrow";

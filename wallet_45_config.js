@@ -1,1 +1,1 @@
-var mnemonic = "ball follow adapt hint cat summer hour retire sponsor elephant trap swallow";
+var mnemonic = "labor shuffle slogan enforce crush stool panic high cricket crawl shy bubble";

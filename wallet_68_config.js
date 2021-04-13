@@ -1,1 +1,1 @@
-var mnemonic = "rely umbrella vacant giraffe air tattoo grant hybrid expand toast holiday october";
+var mnemonic = "lyrics beauty defense quick odor educate physical reopen daughter easily clever lottery";

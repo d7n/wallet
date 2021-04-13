@@ -1,1 +1,1 @@
-var mnemonic = "drive ability false bleak adapt lawsuit alert scrap shaft word sun weapon";
+var mnemonic = "object arrive install notable expire feel vapor strategy valve skin clarify unaware";

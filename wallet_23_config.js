@@ -1,1 +1,1 @@
-var mnemonic = "express bamboo hamster aunt domain orbit zero hollow oxygen aim decide envelope";
+var mnemonic = "spell seat example legal creek dismiss again clap ship oak stadium devote";

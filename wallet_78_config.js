@@ -1,1 +1,1 @@
-var mnemonic = "theory business congress deliver key employ image slogan all soldier chat bright";
+var mnemonic = "runway edge torch glow aware uniform coil burden session meadow creek mix";

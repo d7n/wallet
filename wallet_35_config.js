@@ -1,1 +1,1 @@
-var mnemonic = "among icon glove moon faculty weird hobby achieve flat police adapt rhythm";
+var mnemonic = "fury cage you ring refuse strike space tomorrow exercise water explain obvious";

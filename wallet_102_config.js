@@ -1,1 +1,1 @@
-var mnemonic = "position gospel glow panic fire knife stomach pact plate outside mistake quick";
+var mnemonic = "pet dolphin floor logic demise edge harbor canyon they estate cattle turn";

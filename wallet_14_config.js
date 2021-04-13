@@ -1,1 +1,1 @@
-var mnemonic = "inspire know scare bundle increase despair aunt daughter together monster caution turtle";
+var mnemonic = "oxygen worth abandon finger wasp salad boring evidence that wire wedding tennis";

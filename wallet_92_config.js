@@ -1,1 +1,1 @@
-var mnemonic = "push deposit lava december portion inquiry strategy universe dwarf hundred start major";
+var mnemonic = "job coyote adjust valve toast equip carry pudding creek same either wood";

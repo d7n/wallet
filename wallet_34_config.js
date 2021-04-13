@@ -1,1 +1,1 @@
-var mnemonic = "powder fuel visit help truly prosper stay spoon clip travel right erode";
+var mnemonic = "fold reunion ugly because wood arm twist about primary wire gather foster";

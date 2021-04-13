@@ -1,1 +1,1 @@
-var mnemonic = "voyage effort mutual devote width stumble more case shine science share then";
+var mnemonic = "fit scan corn spice cluster act laugh yard bicycle replace neglect license";

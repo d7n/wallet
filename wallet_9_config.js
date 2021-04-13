@@ -1,1 +1,1 @@
-var mnemonic = "vast find page winner expect sun excite august summer hole message comic";
+var mnemonic = "select ill marine suffer bargain admit pull hammer envelope chaos state inner";

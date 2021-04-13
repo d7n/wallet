@@ -1,1 +1,1 @@
-var mnemonic = "soldier scissors wave vicious glow spice album coin goat source express bronze";
+var mnemonic = "purity next quit exact lamp woman ensure alley rocket gown output blood";

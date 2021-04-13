@@ -1,1 +1,1 @@
-var mnemonic = "roof eye obtain upon volume method portion flash luxury tourist mix base";
+var mnemonic = "robust pitch meadow tide dial tiger toward express moment buzz wire engage";

@@ -1,1 +1,1 @@
-var mnemonic = "siege trust heart cheap razor frame gain word proud rabbit all speed";
+var mnemonic = "affair shallow only ritual throw end spell crystal plate waste act gorilla";

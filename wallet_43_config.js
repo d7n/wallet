@@ -1,1 +1,1 @@
-var mnemonic = "office before lock demise correct fire silver visa motor gentle flat trash";
+var mnemonic = "scene donkey resist wealth trend come violin service idea crowd medal act";

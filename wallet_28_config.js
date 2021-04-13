@@ -1,1 +1,1 @@
-var mnemonic = "measure muscle old critic steel color frown young cry chimney fame fatal";
+var mnemonic = "casual whale clump guitar rice half ten hill ecology sweet edit sentence";

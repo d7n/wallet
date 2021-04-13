@@ -1,1 +1,1 @@
-var mnemonic = "insane hybrid deliver valve nasty match defense cake rose faint busy report";
+var mnemonic = "wise mistake sing vault plastic stool sight trust merit profit device when";

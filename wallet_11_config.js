@@ -1,1 +1,1 @@
-var mnemonic = "shine crime girl toast example coconut program delay trade cement weird maze";
+var mnemonic = "wool identify kidney crush topic trust bind foil pact mango wise permit";

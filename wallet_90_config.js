@@ -1,1 +1,1 @@
-var mnemonic = "clever middle amused victory trophy chicken forest goddess color another later smart";
+var mnemonic = "flower grid ivory hub indicate urban reflect soon love mean area honey";
