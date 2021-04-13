@@ -1,1 +1,1 @@
-var mnemonic = "evolve oppose despair panic make elegant process receive fan spike essay final";
+var mnemonic = "bottom fatigue pave rally reward wet immense man buyer tomorrow country soul";

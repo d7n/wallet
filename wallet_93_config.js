@@ -1,1 +1,1 @@
-var mnemonic = "airport update annual scale fall habit oven slide choose chalk smooth lecture";
+var mnemonic = "fitness outer pelican merge palace frequent beauty purity infant level destroy cream";

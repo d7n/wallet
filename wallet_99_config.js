@@ -1,1 +1,1 @@
-var mnemonic = "market sort attitude come travel fluid arena find style awful negative offer";
+var mnemonic = "salt recipe clean history major scrub journey market crucial film hockey cube";

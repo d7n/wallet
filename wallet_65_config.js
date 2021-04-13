@@ -1,1 +1,1 @@
-var mnemonic = "among palm canoe install spot shoot health family multiply together globe purse";
+var mnemonic = "list piece dragon decrease diamond device save mail found path turn auto";

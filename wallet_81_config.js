@@ -1,1 +1,1 @@
-var mnemonic = "useless proof syrup main west tuition patrol cloth trumpet palace element maximum";
+var mnemonic = "heavy spawn ecology leisure dawn enable exhaust trial pig horror simple close";

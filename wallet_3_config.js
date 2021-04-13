@@ -1,1 +1,1 @@
-var mnemonic = "rely royal bar rescue cement manage among control figure anxiety sail episode";
+var mnemonic = "wrist property tide permit almost toward wet fluid nurse auction hurdle ask";

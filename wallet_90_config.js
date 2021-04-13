@@ -1,1 +1,1 @@
-var mnemonic = "message mail walnut monitor someone forget baby loan top alone borrow arrow";
+var mnemonic = "clever middle amused victory trophy chicken forest goddess color another later smart";

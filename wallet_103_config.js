@@ -1,1 +1,1 @@
-var mnemonic = "romance devote seed chalk park misery quote various critic require rebel injury";
+var mnemonic = "evidence spatial frozen boring drastic duty link theory nuclear fly van payment";

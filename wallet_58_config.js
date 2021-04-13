@@ -1,1 +1,1 @@
-var mnemonic = "behave blush tortoise custom tongue faith neck antenna grass air cancel wave";
+var mnemonic = "narrow biology entire name patch snap hospital update scheme area run early";

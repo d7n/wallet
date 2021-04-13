@@ -1,1 +1,1 @@
-var mnemonic = "gym auction lonely hidden width much chief breeze among east improve about";
+var mnemonic = "develop lawn dust pig damp snap pool cake struggle hub provide blind";

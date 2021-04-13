@@ -1,1 +1,1 @@
-var mnemonic = "movie oppose place verb core spell tragic own disagree switch curtain girl";
+var mnemonic = "endorse noodle dragon top battle blood grape gospel kiwi govern lucky mean";

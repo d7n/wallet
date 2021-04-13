@@ -1,1 +1,1 @@
-var mnemonic = "tell network lend normal exercise rain frequent note solution oyster shadow west";
+var mnemonic = "side style cause erode horse inherit because jelly clutch feed process vacant";

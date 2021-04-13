@@ -1,1 +1,1 @@
-var mnemonic = "patrol always chapter awake cause cloud coconut cradle canvas amused more breeze";
+var mnemonic = "two leaf repair cook load then blue shine knee fragile family riot";

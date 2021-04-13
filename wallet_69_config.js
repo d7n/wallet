@@ -1,1 +1,1 @@
-var mnemonic = "axis devote reflect ready cactus bring spend such pave pudding review gravity";
+var mnemonic = "blouse flash transfer jelly soul spice session mango deliver floor wolf human";

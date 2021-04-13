@@ -1,1 +1,1 @@
-var mnemonic = "flush margin desert chronic casual jewel oven secret abstract airport change sun";
+var mnemonic = "office before lock demise correct fire silver visa motor gentle flat trash";

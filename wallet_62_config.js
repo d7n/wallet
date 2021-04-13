@@ -1,1 +1,1 @@
-var mnemonic = "embody cabbage thunder simple critic box home rail latin fat kid reason";
+var mnemonic = "army twenty when claim jeans crumble that weather divide ball wise gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur credit story elevator picnic bargain august monster skill spike alarm suggest";
+var mnemonic = "ball follow adapt hint cat summer hour retire sponsor elephant trap swallow";

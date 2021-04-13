@@ -1,1 +1,1 @@
-var mnemonic = "because civil palace concert spell local steel clutch wasp enable punch mystery";
+var mnemonic = "badge dentist total pole cereal ten this pink until another wear stamp";

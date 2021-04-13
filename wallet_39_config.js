@@ -1,1 +1,1 @@
-var mnemonic = "traffic brush globe dove movie lawn laptop auction pact economy return high";
+var mnemonic = "crystal first core matrix home miss tip travel candy sheriff radio say";

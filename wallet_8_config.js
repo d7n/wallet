@@ -1,1 +1,1 @@
-var mnemonic = "over laundry cloud pupil silver danger word neck smooth burden cry artwork";
+var mnemonic = "grape woman fever pride peanut lady grain vote flame kitten imitate fresh";

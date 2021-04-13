@@ -1,1 +1,1 @@
-var mnemonic = "giggle grid borrow theory execute below surface river question ship oval slam";
+var mnemonic = "rely umbrella vacant giraffe air tattoo grant hybrid expand toast holiday october";

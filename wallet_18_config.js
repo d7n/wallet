@@ -1,1 +1,1 @@
-var mnemonic = "federal useful betray theory humble story jaguar abstract brass stuff young orange";
+var mnemonic = "depend summer light comfort sport expose book save alter blame excite foot";

@@ -1,1 +1,1 @@
-var mnemonic = "found plate large because shadow direct donkey peasant history autumn army neither";
+var mnemonic = "wasp toss steak begin tennis evidence want opinion put donkey flip sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "about remember soon emotion scissors museum flush fantasy inquiry acid choice welcome";
+var mnemonic = "kiss ecology evidence rare smooth unaware property pass pact strategy often gorilla";

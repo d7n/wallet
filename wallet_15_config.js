@@ -1,1 +1,1 @@
-var mnemonic = "pudding pave net unique blossom desert congress uphold total mutual ivory giggle";
+var mnemonic = "panther ladder demand already share surprise error cause step fee figure evolve";

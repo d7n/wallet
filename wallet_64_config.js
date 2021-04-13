@@ -1,1 +1,1 @@
-var mnemonic = "arrange ability license diesel coin render write engine cheap seed wing toast";
+var mnemonic = "fringe dice soft return tumble useful truly neglect stumble hobby arrow force";

@@ -1,1 +1,1 @@
-var mnemonic = "edit zebra depth parade spy either truck avoid fee bike raw diet";
+var mnemonic = "injury congress unfold day suit license umbrella move tired cheese jealous hire";

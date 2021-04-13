@@ -1,1 +1,1 @@
-var mnemonic = "carry enact gain undo gain romance south simple amount kitchen garbage trip";
+var mnemonic = "whale learn have trim surprise garment dirt recycle web victory satoshi tackle";

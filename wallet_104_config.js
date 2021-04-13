@@ -1,1 +1,1 @@
-var mnemonic = "choice awful extra clerk heavy alter connect mandate victory staff dirt illness";
+var mnemonic = "insane hybrid deliver valve nasty match defense cake rose faint busy report";

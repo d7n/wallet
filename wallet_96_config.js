@@ -1,1 +1,1 @@
-var mnemonic = "vault slow teach put blossom slim copy rail devote promote divert happy";
+var mnemonic = "beauty worth follow cross inform sauce current dragon outdoor hire slogan order";

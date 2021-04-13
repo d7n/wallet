@@ -1,1 +1,1 @@
-var mnemonic = "tonight sing seek bicycle power wash brother rice divorce color stomach reason";
+var mnemonic = "clerk dice sight vast celery virus ozone soap margin tiny push soul";

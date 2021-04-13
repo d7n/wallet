@@ -1,1 +1,1 @@
-var mnemonic = "trade flavor fence farm secret december place insane cross tank because version";
+var mnemonic = "garlic unlock tattoo owner away unique poem bird choice payment truck scene";

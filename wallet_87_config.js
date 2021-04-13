@@ -1,1 +1,1 @@
-var mnemonic = "fun cushion skull plastic fatigue inmate battle olympic notice hundred holiday expand";
+var mnemonic = "borrow educate echo clerk table minute emerge room buyer harvest skull father";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado digital chuckle large elegant enlist rather dumb strong fresh robot outside";
+var mnemonic = "snake yellow decide rely filter ill iron roof discover shift balcony holiday";

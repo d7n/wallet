@@ -1,1 +1,1 @@
-var mnemonic = "patient unable plug winner expect oppose liar rough ten episode bundle feel";
+var mnemonic = "hollow ripple clip spawn funny horror mushroom first fantasy final indoor harbor";

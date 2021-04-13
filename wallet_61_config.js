@@ -1,1 +1,1 @@
-var mnemonic = "kitchen link basket mosquito another click fantasy solid select live oyster abstract";
+var mnemonic = "soap security multiply record camp female identify resource tent census that acoustic";

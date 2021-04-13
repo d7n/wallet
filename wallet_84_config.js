@@ -1,1 +1,1 @@
-var mnemonic = "enough ride armed payment unknown moral buffalo live fence gaze risk burden";
+var mnemonic = "drive ability false bleak adapt lawsuit alert scrap shaft word sun weapon";

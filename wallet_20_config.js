@@ -1,1 +1,1 @@
-var mnemonic = "salon fox street whale tornado axis write code magnet valve radio gym";
+var mnemonic = "core make brief bird prepare salon piece ride swear wrestle improve analyst";

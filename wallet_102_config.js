@@ -1,1 +1,1 @@
-var mnemonic = "little scare rotate weekend crawl during minor vault salute net chef ice";
+var mnemonic = "position gospel glow panic fire knife stomach pact plate outside mistake quick";

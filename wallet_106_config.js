@@ -1,1 +1,1 @@
-var mnemonic = "piece water gown village climb priority angry tide approve laptop rate wave";
+var mnemonic = "voyage effort mutual devote width stumble more case shine science share then";

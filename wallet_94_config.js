@@ -1,1 +1,1 @@
-var mnemonic = "stumble knee truck shrimp riot judge shell bulb patient resist double tired";
+var mnemonic = "spy gold warm pen submit zone night twenty state news giant myself";

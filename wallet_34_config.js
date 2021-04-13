@@ -1,1 +1,1 @@
-var mnemonic = "frown point help food jelly attract write anxiety often decline capable obvious";
+var mnemonic = "powder fuel visit help truly prosper stay spoon clip travel right erode";

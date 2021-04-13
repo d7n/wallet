@@ -1,1 +1,1 @@
-var mnemonic = "example people bulb shuffle reunion come base blue pepper short belt edit";
+var mnemonic = "text used antique face gold city puppy swarm title solid buyer today";

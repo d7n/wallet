@@ -1,1 +1,1 @@
-var mnemonic = "oil margin endless lesson snake lizard stage mixture merit course resist prefer";
+var mnemonic = "sample wild erase chalk same arrange venture service aunt border sure shiver";

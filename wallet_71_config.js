@@ -1,1 +1,1 @@
-var mnemonic = "horn alert fun govern empower uniform tonight decade gloom ivory heart renew";
+var mnemonic = "live such success august city crater order differ mass skate nerve minor";

@@ -1,1 +1,1 @@
-var mnemonic = "boss unknown twelve absorb despair involve delay gain waste bag neck clever";
+var mnemonic = "present ginger chase route either rival weather decade arm roast make ring";

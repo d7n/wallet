@@ -1,1 +1,1 @@
-var mnemonic = "filter bottom close radar onion blanket health genius sentence person tray advice";
+var mnemonic = "express bamboo hamster aunt domain orbit zero hollow oxygen aim decide envelope";

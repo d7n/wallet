@@ -1,1 +1,1 @@
-var mnemonic = "cousin believe purpose bone goddess feel clap oppose member twin fatigue evolve";
+var mnemonic = "please connect crawl item clown shrimp abuse either mad destroy correct few";

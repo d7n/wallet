@@ -1,1 +1,1 @@
-var mnemonic = "cliff zone mad flame sun submit rain celery enroll attract camera rough";
+var mnemonic = "region morning paddle strong announce spin lion gasp wing this obvious erosion";

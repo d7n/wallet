@@ -1,1 +1,1 @@
-var mnemonic = "toy fee endorse record pumpkin measure trigger zero tackle brand soldier sense";
+var mnemonic = "push deposit lava december portion inquiry strategy universe dwarf hundred start major";

@@ -1,1 +1,1 @@
-var mnemonic = "damp carry pause sheriff drip genuine silver sphere myth wisdom orphan gas";
+var mnemonic = "inspire know scare bundle increase despair aunt daughter together monster caution turtle";

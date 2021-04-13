@@ -1,1 +1,1 @@
-var mnemonic = "taste strategy basket girl earth round pulp very raven real guilt misery";
+var mnemonic = "resist extra outdoor section child fix knock magnet camera trumpet cherry sister";

@@ -1,1 +1,1 @@
-var mnemonic = "earn announce gallery setup friend hockey mutual dragon genius unfair hen soap";
+var mnemonic = "robust live genuine lens jacket verify reopen cheese follow goat badge venture";

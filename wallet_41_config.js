@@ -1,1 +1,1 @@
-var mnemonic = "coil history city can miracle left misery copy sauce monitor mobile sponsor";
+var mnemonic = "original large young cause east fly lava obey replace vessel youth topic";

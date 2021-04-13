@@ -1,1 +1,1 @@
-var mnemonic = "festival elegant exact borrow margin stage depend ridge zoo arrive famous below";
+var mnemonic = "excuse slim green world hammer say cargo mass forward filter want boss";

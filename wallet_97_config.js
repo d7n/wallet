@@ -1,1 +1,1 @@
-var mnemonic = "quality sphere antique chair dove divorce sting train outer spider science leader";
+var mnemonic = "business girl coconut alien identify lecture wool silent dwarf accident hollow gaze";

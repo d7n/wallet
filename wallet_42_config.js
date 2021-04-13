@@ -1,1 +1,1 @@
-var mnemonic = "rigid senior oven pink dad dentist language wolf stove guard wine report";
+var mnemonic = "embark route movie hub umbrella start buyer bridge avocado distance pattern inflict";

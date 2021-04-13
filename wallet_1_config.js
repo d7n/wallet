@@ -1,1 +1,1 @@
-var mnemonic = "world venue tennis wedding borrow evidence connect code chair where risk assume";
+var mnemonic = "fashion civil fit clarify candy steel gift outside edit mad finish drill";

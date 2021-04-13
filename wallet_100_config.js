@@ -1,1 +1,1 @@
-var mnemonic = "charge survey damage truly zero priority regret adult guilt insect upset chronic";
+var mnemonic = "face blouse task force shoe spread text oblige shoe burst between usage";

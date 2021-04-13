@@ -1,1 +1,1 @@
-var mnemonic = "title above park enter rose blame car athlete pulp symptom manual foster";
+var mnemonic = "hamster brick path manage wrist bitter become dial whip food demise snake";

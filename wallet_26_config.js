@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon ice stamp globe doctor monitor pelican hover oven sibling journey reduce";
+var mnemonic = "tonight cable inch visa citizen joy seek salute carry little range title";

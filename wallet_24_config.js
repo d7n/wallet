@@ -1,1 +1,1 @@
-var mnemonic = "economy crunch husband fuel stumble rabbit lake lamp where museum fatal again";
+var mnemonic = "car praise chicken stand metal emerge item defy flavor print glad never";

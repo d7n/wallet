@@ -1,1 +1,1 @@
-var mnemonic = "shed furnace cute clap toilet pill gorilla firm employ cigar ankle shy";
+var mnemonic = "parade traffic rhythm broken memory pioneer danger rate control patrol dwarf panel";

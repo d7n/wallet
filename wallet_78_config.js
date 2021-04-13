@@ -1,1 +1,1 @@
-var mnemonic = "wealth link segment pen dizzy shrimp wonder world shrug home biology toss";
+var mnemonic = "theory business congress deliver key employ image slogan all soldier chat bright";

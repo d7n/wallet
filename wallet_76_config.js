@@ -1,1 +1,1 @@
-var mnemonic = "tissue perfect foster regret club salon bright shine fish flush local bamboo";
+var mnemonic = "shop okay blanket catch indicate sense denial shadow mistake cat situate cable";

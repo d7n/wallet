@@ -1,1 +1,1 @@
-var mnemonic = "few kid disagree dish jeans absorb victory image off swing torch once";
+var mnemonic = "palace bean unaware prefer impulse crew chef school snow vital ranch region";

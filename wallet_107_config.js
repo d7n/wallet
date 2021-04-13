@@ -1,1 +1,1 @@
-var mnemonic = "occur bracket blur prison bike bonus require avoid surge first boil host";
+var mnemonic = "process burger walnut amount transfer balcony dutch bus camp heavy add gesture";

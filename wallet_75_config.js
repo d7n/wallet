@@ -1,1 +1,1 @@
-var mnemonic = "risk inject during fat ripple aspect aisle tilt hero forest remind noise";
+var mnemonic = "warfare join sketch faculty offer lucky base energy adapt purity match price";

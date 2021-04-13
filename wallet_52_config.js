@@ -1,1 +1,1 @@
-var mnemonic = "story eight image crystal flavor legal curtain ripple machine crumble cereal nest";
+var mnemonic = "fade bulk kidney element aerobic net culture aisle toy refuse kidney there";

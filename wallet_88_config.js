@@ -1,1 +1,1 @@
-var mnemonic = "brand wet come crack rug flag flame demand leisure need tortoise moon";
+var mnemonic = "protect skin stairs melody step pledge subject face float fragile rural moral";

@@ -1,1 +1,1 @@
-var mnemonic = "such hope monitor festival this floor right glory mix sing blouse human";
+var mnemonic = "bachelor primary green ankle table slight cement aware harsh argue actress foster";

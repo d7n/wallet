@@ -1,1 +1,1 @@
-var mnemonic = "butter canal nation trend envelope soup alone betray puzzle exercise travel glance";
+var mnemonic = "sound crop hungry soap gas recall where cream autumn potato square similar";

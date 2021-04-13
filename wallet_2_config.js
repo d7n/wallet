@@ -1,1 +1,1 @@
-var mnemonic = "present bicycle story horror bamboo scorpion beach oxygen common sing include hundred";
+var mnemonic = "quit victory table ocean pitch crane trade high cannon exchange huge win";

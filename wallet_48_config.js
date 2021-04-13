@@ -1,1 +1,1 @@
-var mnemonic = "mouse power jacket decrease input fancy adjust lesson alarm auto tired disorder";
+var mnemonic = "roof eye obtain upon volume method portion flash luxury tourist mix base";

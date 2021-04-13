@@ -1,1 +1,1 @@
-var mnemonic = "economy ability illegal easy cliff trim bike palace void again card near";
+var mnemonic = "useless invest elite woman goat spare stuff fine immense lunch banana rotate";

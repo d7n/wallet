@@ -1,1 +1,1 @@
-var mnemonic = "clock language oblige goddess goat nature render focus raise resemble trash card";
+var mnemonic = "bench young virus large eager carbon decline suit couch quit scare human";

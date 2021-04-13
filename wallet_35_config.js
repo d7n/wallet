@@ -1,1 +1,1 @@
-var mnemonic = "wasp odor car umbrella security arena balance leg same boil soft quote";
+var mnemonic = "among icon glove moon faculty weird hobby achieve flat police adapt rhythm";

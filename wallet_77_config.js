@@ -1,1 +1,1 @@
-var mnemonic = "bird version bronze polar length pause suit raw shadow nominee blanket fabric";
+var mnemonic = "vague open recycle tomorrow salmon frog magic motor flavor seat fuel marble";

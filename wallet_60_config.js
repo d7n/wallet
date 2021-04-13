@@ -1,1 +1,1 @@
-var mnemonic = "radio screen senior floor position open cycle blast vanish library ensure caution";
+var mnemonic = "worth peace pistol elephant cup sun swift among fade spice tone fragile";

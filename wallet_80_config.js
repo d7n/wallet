@@ -1,1 +1,1 @@
-var mnemonic = "motor today develop want tattoo split token pulse canvas movie width used";
+var mnemonic = "stable trim table vital radar raccoon produce poverty rack episode foil strategy";

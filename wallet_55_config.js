@@ -1,1 +1,1 @@
-var mnemonic = "fortune hunt faith roof nurse want speak wage tackle sausage shove junk";
+var mnemonic = "response carpet deny equip slot tiger idle inflict beach click smoke remove";

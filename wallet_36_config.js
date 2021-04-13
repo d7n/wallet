@@ -1,1 +1,1 @@
-var mnemonic = "sponsor similar assume honey muscle spoon bubble tiny typical moment file govern";
+var mnemonic = "siege trust heart cheap razor frame gain word proud rabbit all speed";

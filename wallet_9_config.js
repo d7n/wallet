@@ -1,1 +1,1 @@
-var mnemonic = "carpet speed final shrug math embody absent identify alley month churn roof";
+var mnemonic = "vast find page winner expect sun excite august summer hole message comic";

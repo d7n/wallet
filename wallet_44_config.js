@@ -1,1 +1,1 @@
-var mnemonic = "ramp wheel ask flower reflect damage inmate medal night crack valley deposit";
+var mnemonic = "define frequent become dawn adjust lab fitness ceiling enable table debate train";

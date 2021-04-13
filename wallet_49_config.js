@@ -1,1 +1,1 @@
-var mnemonic = "oblige outdoor wrist travel advice fish black seek cause olive cereal benefit";
+var mnemonic = "half expand maze useless crowd cable coach float veteran luggage hand wish";

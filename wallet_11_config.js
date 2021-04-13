@@ -1,1 +1,1 @@
-var mnemonic = "upon wedding detail cactus goose meat miss author fault lawn market great";
+var mnemonic = "shine crime girl toast example coconut program delay trade cement weird maze";

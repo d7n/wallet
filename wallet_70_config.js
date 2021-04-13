@@ -1,1 +1,1 @@
-var mnemonic = "pretty border family gown gossip prepare genuine jacket tribe fee win remain";
+var mnemonic = "assume undo pattern region cup upper tide alarm panther bring dismiss again";

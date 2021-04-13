@@ -1,1 +1,1 @@
-var mnemonic = "develop buffalo year retreat lock guess spell mixed town blood auction cover";
+var mnemonic = "soldier scissors wave vicious glow spice album coin goat source express bronze";

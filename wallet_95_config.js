@@ -1,1 +1,1 @@
-var mnemonic = "wide sense genuine firm chair vault access empty transfer invest together occur";
+var mnemonic = "silk sand cheese ski comic gloom tray evil thrive private joke together";

@@ -1,1 +1,1 @@
-var mnemonic = "rival only reduce dash they birth glimpse merge fade jelly fossil rich";
+var mnemonic = "square beyond degree cross once inherit couple divorce twenty ready mystery design";

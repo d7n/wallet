@@ -1,1 +1,1 @@
-var mnemonic = "vacant coach agent burger spawn walnut upset novel shiver sustain suggest goose";
+var mnemonic = "draw divert obey identify transfer dust alpha soup blind zebra employ prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden hollow extend frame sock green stick beyond shock repeat undo almost";
+var mnemonic = "audit scheme gossip square logic life bless blast drip engage display doctor";

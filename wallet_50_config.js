@@ -1,1 +1,1 @@
-var mnemonic = "twist rally prison middle six wasp neutral another flash reflect sustain motion";
+var mnemonic = "ladder hope original exchange disorder puzzle salon man bargain march burden input";

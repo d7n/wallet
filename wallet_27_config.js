@@ -1,1 +1,1 @@
-var mnemonic = "summer involve ski image brush tide salon swift upper squirrel syrup such";
+var mnemonic = "damp square tortoise pistol cover cook injury dance tribe world vote wonder";

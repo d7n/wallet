@@ -1,1 +1,1 @@
-var mnemonic = "silent custom notice patrol bonus holiday already ladder month cloud tourist fruit";
+var mnemonic = "measure muscle old critic steel color frown young cry chimney fame fatal";

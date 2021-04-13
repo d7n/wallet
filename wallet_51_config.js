@@ -1,1 +1,1 @@
-var mnemonic = "flavor sick access sample wool doll gasp velvet joke lawsuit winner chapter";
+var mnemonic = "cement theory draw purse task sea fun party cheap region bag mandate";

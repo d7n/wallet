@@ -1,1 +1,1 @@
-var mnemonic = "chuckle meat quarter upper inform trip tongue accident release guitar suffer fiscal";
+var mnemonic = "spy blind loop pledge social choose ice sibling decorate drive story transfer";

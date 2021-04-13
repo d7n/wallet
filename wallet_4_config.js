@@ -1,1 +1,1 @@
-var mnemonic = "enforce donkey piece modify student return time clump poet used gold merge";
+var mnemonic = "drift glass easily beyond welcome note escape bamboo satoshi chase oblige nest";
