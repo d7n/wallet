@@ -1,1 +1,1 @@
-var mnemonic = "fancy army agree glimpse place car usual fence crystal earn cake stem";
+var mnemonic = "neglect tortoise wasp high produce there twin hero ski bounce churn spin";

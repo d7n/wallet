@@ -1,1 +1,1 @@
-var mnemonic = "clinic initial demise inside tackle desk prepare athlete butter spike empower use";
+var mnemonic = "hood flower rent fat siren figure picnic model item sun cigar tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy report shock reunion derive early large century curious shrimp list sting";
+var mnemonic = "begin portion double morning turkey civil attack valley turtle logic acoustic embark";

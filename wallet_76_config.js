@@ -1,1 +1,1 @@
-var mnemonic = "wagon tube chimney emerge armor unfold remind tortoise tiger crop call wife";
+var mnemonic = "canyon bench use estate north direct undo doctor often oil solar movie";

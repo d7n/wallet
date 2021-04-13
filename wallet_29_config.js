@@ -1,1 +1,1 @@
-var mnemonic = "club purity visual possible congress remember mosquito useless bean match attract foam";
+var mnemonic = "gospel link shine drive cruise jelly hair float adult submit include final";

@@ -1,1 +1,1 @@
-var mnemonic = "seek bread mobile snake loan better rigid magnet abuse usual doll network";
+var mnemonic = "involve average space isolate grit close drum coach source point leopard ordinary";

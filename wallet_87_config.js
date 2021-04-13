@@ -1,1 +1,1 @@
-var mnemonic = "ecology swing evoke survey rabbit duck miss vivid sorry purse lady goose";
+var mnemonic = "daring shove adapt phone destroy dry letter cigar whale taste cluster drill";

@@ -1,1 +1,1 @@
-var mnemonic = "tube share forest swift swap panic convince brother toy picture hand rely";
+var mnemonic = "unique taxi chief venture noodle choice human goddess topic swallow buffalo jelly";

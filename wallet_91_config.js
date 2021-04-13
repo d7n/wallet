@@ -1,1 +1,1 @@
-var mnemonic = "creek arena reform nut resist dynamic boring online knock scissors spawn ring";
+var mnemonic = "elevator drift special hint asset diet seek mention wire position sock again";

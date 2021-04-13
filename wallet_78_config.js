@@ -1,1 +1,1 @@
-var mnemonic = "decorate link cruel retire first cost crisp ridge garlic power ritual mass";
+var mnemonic = "silver install soldier wave fat comic best ecology shoot crime run middle";

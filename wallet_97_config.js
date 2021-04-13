@@ -1,1 +1,1 @@
-var mnemonic = "business habit taste panel owner glass rifle again early whale patient advance";
+var mnemonic = "knee farm brick venue notable trip fetch cliff act invite detail make";

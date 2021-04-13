@@ -1,1 +1,1 @@
-var mnemonic = "soldier wisdom correct tissue check dismiss mention execute spend bone fork dinner";
+var mnemonic = "remember mystery shrimp six unusual horse banana uniform another stand produce filter";

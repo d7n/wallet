@@ -1,1 +1,1 @@
-var mnemonic = "scorpion avocado front stereo celery gravity human smart oak trial glimpse merry";
+var mnemonic = "clutch drive tuna twelve walnut comfort relief elephant peace monkey key february";

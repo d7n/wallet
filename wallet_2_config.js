@@ -1,1 +1,1 @@
-var mnemonic = "trophy birth leader also defy weapon affair fashion slight tunnel transfer autumn";
+var mnemonic = "minimum coin anchor attract permit identify nuclear conduct replace august table vibrant";

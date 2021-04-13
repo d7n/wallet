@@ -1,1 +1,1 @@
-var mnemonic = "engine awake cricket midnight weasel carbon bench office unlock tornado culture viable";
+var mnemonic = "float join fault someone shaft prosper insane poet draw print engage parade";

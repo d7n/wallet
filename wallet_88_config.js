@@ -1,1 +1,1 @@
-var mnemonic = "uncover tooth exit avoid harbor purpose rally myth stool place damage cream";
+var mnemonic = "laundry change moral cake joy bus suggest goose twin frost busy snack";

@@ -1,1 +1,1 @@
-var mnemonic = "good detail eager evoke supreme auto prevent walk fog include old involve";
+var mnemonic = "dwarf ribbon custom thought first question sight zone void marriage hollow hip";

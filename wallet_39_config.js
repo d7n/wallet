@@ -1,1 +1,1 @@
-var mnemonic = "bicycle ostrich breeze record siege similar fatal teach unaware diagram eternal laptop";
+var mnemonic = "mechanic climb era check organ plunge bachelor prison tired pudding wrestle twenty";

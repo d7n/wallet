@@ -1,1 +1,1 @@
-var mnemonic = "trap shy trash bread bottom method recycle climb jacket blade craft group";
+var mnemonic = "task junior what floor travel flash sponsor garlic uniform tail vocal patient";

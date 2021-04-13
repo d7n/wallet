@@ -1,1 +1,1 @@
-var mnemonic = "tongue hint pencil payment enemy popular heavy long give tomorrow exercise exchange";
+var mnemonic = "jar public napkin matrix penalty punch miracle hybrid soon sand edge nation";

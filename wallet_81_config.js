@@ -1,1 +1,1 @@
-var mnemonic = "render net pill peace vault sand immense list wreck vivid east brick";
+var mnemonic = "monitor table marble breeze merry want eyebrow fragile cry expect omit stool";

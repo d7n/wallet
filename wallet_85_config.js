@@ -1,1 +1,1 @@
-var mnemonic = "stock into wear pioneer anchor review angry unusual hungry cactus machine injury";
+var mnemonic = "oil arctic drink home twice link nose powder oval arm melt robust";

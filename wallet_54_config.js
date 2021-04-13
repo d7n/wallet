@@ -1,1 +1,1 @@
-var mnemonic = "ring bounce disease minimum clinic warm claim mixed disagree drive want fatal";
+var mnemonic = "multiply tooth fever setup giggle minor excuse juice music office slam assume";

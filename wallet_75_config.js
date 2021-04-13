@@ -1,1 +1,1 @@
-var mnemonic = "emerge ginger wait tomorrow dinosaur build current good bridge usual woman twist";
+var mnemonic = "pilot simple six sound remind maid survey segment float daring photo power";

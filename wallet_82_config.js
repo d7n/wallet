@@ -1,1 +1,1 @@
-var mnemonic = "strategy kidney remind erode rule tourist shrug upon mosquito wisdom donate puppy";
+var mnemonic = "client maple ridge excite flavor prize earth drive immune suffer flip harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "dress circle erase dose grit such economy syrup quiz region demise fever";
+var mnemonic = "gossip better slush city fiction wild hair benefit table use begin drastic";

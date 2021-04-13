@@ -1,1 +1,1 @@
-var mnemonic = "useless lemon hole practice proud powder motion hazard code rug tomato marble";
+var mnemonic = "rather canoe child earn one saddle erosion resemble pelican cliff office hurdle";

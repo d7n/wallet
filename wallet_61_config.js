@@ -1,1 +1,1 @@
-var mnemonic = "crop future couple shuffle abstract climb similar census alien actress shy diary";
+var mnemonic = "small review unveil congress day close surge pledge stock ecology area wasp";

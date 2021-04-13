@@ -1,1 +1,1 @@
-var mnemonic = "purse already badge debate adapt crumble hat escape route galaxy wait slow";
+var mnemonic = "cluster interest release course media release goat thank swing such hand donor";

@@ -1,1 +1,1 @@
-var mnemonic = "motion shoe poem bridge mule pull exit tragic make dismiss above garage";
+var mnemonic = "sugar two reason tray strike indoor wire soft symptom dish notice path";

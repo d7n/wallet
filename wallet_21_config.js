@@ -1,1 +1,1 @@
-var mnemonic = "conduct because bunker peanut valid flash save gather state basket sell tooth";
+var mnemonic = "adult song dice prosper fatal prefer script recall tower engine tip park";

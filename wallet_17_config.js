@@ -1,1 +1,1 @@
-var mnemonic = "error light cable salt million album quick stone crowd artist kind jeans";
+var mnemonic = "stamp system expand episode twin motor dirt unaware exercise ginger wedding fatal";

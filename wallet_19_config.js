@@ -1,1 +1,1 @@
-var mnemonic = "afford target ancient corn elephant arrest super immune render simple vicious toilet";
+var mnemonic = "increase popular animal replace domain fragile solar swarm puppy sadness sister powder";

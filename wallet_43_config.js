@@ -1,1 +1,1 @@
-var mnemonic = "grain tiger south hint ritual surge neutral spy certain car zoo deal";
+var mnemonic = "cup noise sport fish harbor today jungle fire mountain admit job clog";

@@ -1,1 +1,1 @@
-var mnemonic = "snap anchor camp approve secret winner pass virus food armor orchard region";
+var mnemonic = "office deputy word riot stay build replace clock guard account heavy volcano";

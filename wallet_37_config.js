@@ -1,1 +1,1 @@
-var mnemonic = "weird print prison blush calm butter harvest diary flush innocent lend dinner";
+var mnemonic = "recycle educate cactus fan very stool imitate fatal wine twin shiver share";

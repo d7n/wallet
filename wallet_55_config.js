@@ -1,1 +1,1 @@
-var mnemonic = "bottom extra use uncover weekend vendor where amused piece hover scheme pulse";
+var mnemonic = "chest equal inform chunk move angle call junior crack ugly advance primary";

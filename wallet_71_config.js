@@ -1,1 +1,1 @@
-var mnemonic = "true weird face easy iron sample cream brisk fantasy chunk garage more";
+var mnemonic = "benefit garment story cool pilot better wish boost dentist assist strike toss";

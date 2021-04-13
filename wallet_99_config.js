@@ -1,1 +1,1 @@
-var mnemonic = "seed hero afraid fun squeeze bird immune tree glow metal chapter width";
+var mnemonic = "brief annual desert carpet leader illegal invite news put adult layer tomorrow";

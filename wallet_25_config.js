@@ -1,1 +1,1 @@
-var mnemonic = "fame camera wreck economy social valve child patrol panther risk mountain model";
+var mnemonic = "street sword icon hero tunnel paddle mobile lazy name coyote huge frequent";

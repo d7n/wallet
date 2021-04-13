@@ -1,1 +1,1 @@
-var mnemonic = "walnut jungle range urge visa yellow vintage equal soup left piece junior";
+var mnemonic = "chuckle spice ten inch dial reflect saddle worth power powder nation surround";

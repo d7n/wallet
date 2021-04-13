@@ -1,1 +1,1 @@
-var mnemonic = "unusual couch tray help camera theme harvest flush material north virtual deal";
+var mnemonic = "engine hurry daughter excite express sauce bitter awesome divide region husband average";

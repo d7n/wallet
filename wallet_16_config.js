@@ -1,1 +1,1 @@
-var mnemonic = "glory friend page seven keen sound save emotion spider donor light lend";
+var mnemonic = "rain vibrant jewel core fabric write embark office retreat people evil meat";

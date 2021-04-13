@@ -1,1 +1,1 @@
-var mnemonic = "truth owner census joke tool brave shine brother bicycle learn supreme tell";
+var mnemonic = "kiwi liquid much brown sausage call apology crystal color envelope robot wall";

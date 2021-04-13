@@ -1,1 +1,1 @@
-var mnemonic = "hand stock wine prize code quiz width ancient course apology sick moon";
+var mnemonic = "venture device quick bag hello race urge buffalo manage arrange knock cage";

@@ -1,1 +1,1 @@
-var mnemonic = "trick menu grace health foil sense moon tuition snack spray swift gossip";
+var mnemonic = "logic spice idle winter fluid discover around giant feel broken sock fancy";

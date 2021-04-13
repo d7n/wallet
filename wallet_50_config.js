@@ -1,1 +1,1 @@
-var mnemonic = "dream depend asset struggle weapon live pull believe near crawl mind crazy";
+var mnemonic = "chronic praise unusual rival crystal brown happy glimpse bind inflict adapt cross";

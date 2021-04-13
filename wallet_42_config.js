@@ -1,1 +1,1 @@
-var mnemonic = "main menu clinic exchange fiscal advance injury oyster true select neglect tent";
+var mnemonic = "delay arrive visit bless vendor rubber false east over unknown december holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "custom boost chapter excuse dentist coil ten range sugar broccoli inch oxygen";
+var mnemonic = "three same away speed decorate disagree market stomach series mansion hundred okay";

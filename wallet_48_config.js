@@ -1,1 +1,1 @@
-var mnemonic = "solar float same eight quiz program purity cannon awkward blur pizza raw";
+var mnemonic = "life woman egg plastic amazing speed real miracle upgrade orphan acoustic camp";

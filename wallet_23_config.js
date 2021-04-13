@@ -1,1 +1,1 @@
-var mnemonic = "lyrics plunge tiger novel lunch can inherit nut crane wasp shed field";
+var mnemonic = "humor region thumb gauge castle leave orphan turn cram shop prefer exist";

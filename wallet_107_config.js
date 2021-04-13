@@ -1,1 +1,1 @@
-var mnemonic = "expose left hill multiply magnet mutual envelope swamp blood rice cream name";
+var mnemonic = "speak slush property pen cloud pass lift silly finish remain very behave";

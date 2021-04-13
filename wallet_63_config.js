@@ -1,1 +1,1 @@
-var mnemonic = "spawn result bridge universe review soon such tuition silver draft student tunnel";
+var mnemonic = "bamboo swim evoke conduct fiber rule pluck exchange letter weather true ten";

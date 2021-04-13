@@ -1,1 +1,1 @@
-var mnemonic = "defense consider lucky expect asthma confirm alert void riot best disease lamp";
+var mnemonic = "chuckle receive dawn enough knee there ramp spring ensure rail job limb";

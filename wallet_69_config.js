@@ -1,1 +1,1 @@
-var mnemonic = "wolf charge disorder recycle beef distance mother canyon rain daughter feature just";
+var mnemonic = "assume cage off say slim canal unit army shed isolate amateur trust";

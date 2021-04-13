@@ -1,1 +1,1 @@
-var mnemonic = "fruit width worth indicate oven paddle model boring culture drama unlock argue";
+var mnemonic = "struggle spring census edit alter label artist rain view embark need turkey";

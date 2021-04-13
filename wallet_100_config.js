@@ -1,1 +1,1 @@
-var mnemonic = "number spy hire cube wolf dumb primary chat ranch west toddler range";
+var mnemonic = "visit misery flip sick because weather better gloom gloom ranch error hawk";

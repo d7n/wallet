@@ -1,1 +1,1 @@
-var mnemonic = "swear love gate equal swamp tube fault clerk south mix length trip";
+var mnemonic = "lucky test business letter wolf boss noise again hard symbol caution blind";

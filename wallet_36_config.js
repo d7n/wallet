@@ -1,1 +1,1 @@
-var mnemonic = "wet access little shoot steel season fine pluck draft basic lobster enjoy";
+var mnemonic = "hawk gas soldier effort magnet either poem twelve junior wild basic win";

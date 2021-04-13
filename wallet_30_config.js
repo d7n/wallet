@@ -1,1 +1,1 @@
-var mnemonic = "bike antique weather destroy duck fashion rubber fabric behave lounge gain travel";
+var mnemonic = "sniff reduce ripple eagle rhythm leave minimum describe youth eight tape champion";

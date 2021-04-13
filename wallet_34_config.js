@@ -1,1 +1,1 @@
-var mnemonic = "body absent catalog include napkin shy capable fog glad release average inhale";
+var mnemonic = "prevent wrap quit tenant kick earn edge unique man veteran juice blue";

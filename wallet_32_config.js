@@ -1,1 +1,1 @@
-var mnemonic = "salt panic flock swamp autumn planet twelve square daughter excuse beef galaxy";
+var mnemonic = "empty great laundry bronze glory stamp decrease talk meat couple smooth table";

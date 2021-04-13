@@ -1,1 +1,1 @@
-var mnemonic = "fly slush debris dinosaur defense sell disease dutch search vague fancy large";
+var mnemonic = "observe clap deny blind twice uniform furnace tragic obscure unknown lizard account";

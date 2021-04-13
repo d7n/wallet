@@ -1,1 +1,1 @@
-var mnemonic = "super hour manual fruit vocal inquiry lumber surround tackle robot invite wagon";
+var mnemonic = "cover goat able random renew weird captain nephew shallow diagram wolf amazing";

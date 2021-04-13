@@ -1,1 +1,1 @@
-var mnemonic = "once pen often novel wreck orchard wear squeeze reveal butter sun student";
+var mnemonic = "shell brave aisle gallery manual decide jeans spy will fog position message";

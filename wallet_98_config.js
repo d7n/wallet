@@ -1,1 +1,1 @@
-var mnemonic = "day fabric exit clown valid sight jazz strong ahead flock bitter silk";
+var mnemonic = "start unique trip target liquid mule circle attract hazard cigar gospel castle";

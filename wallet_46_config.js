@@ -1,1 +1,1 @@
-var mnemonic = "title sponsor pigeon thunder lottery spray ride find toast vote prize hat";
+var mnemonic = "word slice burst ostrich scatter minor milk gloom conduct relax asset rose";

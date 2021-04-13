@@ -1,1 +1,1 @@
-var mnemonic = "toss source mule merit depart captain juice slogan mirror pioneer proof rubber";
+var mnemonic = "physical guard scheme club language grow discover palace above suit autumn nerve";

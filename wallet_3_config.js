@@ -1,1 +1,1 @@
-var mnemonic = "spoon thank ketchup leisure asset finish bronze evoke oblige they possible behind";
+var mnemonic = "fat kit olive inch spray offer hungry skill reopen call biology tortoise";

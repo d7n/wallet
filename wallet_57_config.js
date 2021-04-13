@@ -1,1 +1,1 @@
-var mnemonic = "minor alert opera air identify valley sample permit mule deal fuel cloth";
+var mnemonic = "wait evolve yellow inspire acquire awkward switch health rough unlock square life";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey captain laundry luxury position expand spare various breeze ivory cancel clay";
+var mnemonic = "marine puzzle jump inside buzz anger title hurdle carpet unknown metal frown";

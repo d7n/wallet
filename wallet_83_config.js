@@ -1,1 +1,1 @@
-var mnemonic = "chief embark hundred luxury chimney badge gesture general fitness powder equal weather";
+var mnemonic = "wire shock drive helmet stamp invite pepper antenna voice island hello kid";

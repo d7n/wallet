@@ -1,1 +1,1 @@
-var mnemonic = "goose that crack provide punch bar soccer blast stove elegant occur salute";
+var mnemonic = "ghost adapt grief excuse pulp news allow example patient labor speed noise";

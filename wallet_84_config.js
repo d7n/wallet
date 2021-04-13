@@ -1,1 +1,1 @@
-var mnemonic = "toast concert better please useless panther this theory kite execute kite plastic";
+var mnemonic = "test amazing fringe grow tone odor pony robust furnace slogan armor exhaust";

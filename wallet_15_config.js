@@ -1,1 +1,1 @@
-var mnemonic = "fix island rival merit foot loop fruit bundle loan another confirm into";
+var mnemonic = "round size chief cloud trip height cost grain result december maple cream";

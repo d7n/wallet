@@ -1,1 +1,1 @@
-var mnemonic = "siren photo jazz grunt develop banner blush seminar country oil lunar response";
+var mnemonic = "salmon decline round refuse blur pigeon tuition fabric jewel stem glass honey";

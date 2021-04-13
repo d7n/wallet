@@ -1,1 +1,1 @@
-var mnemonic = "invest unfold because grid struggle bundle wheel disease toilet ancient junior time";
+var mnemonic = "scissors clerk crater conduct kiwi pretty burden kit measure stairs crystal scout";

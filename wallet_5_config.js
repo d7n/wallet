@@ -1,1 +1,1 @@
-var mnemonic = "saddle oppose thank film bomb wide copper surge together spring lecture hotel";
+var mnemonic = "pool decide spare midnight reason boat forget ridge occur lock gold reflect";

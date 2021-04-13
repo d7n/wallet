@@ -1,1 +1,1 @@
-var mnemonic = "oppose climb shield bag smart ostrich famous fuel enroll scout unlock cake";
+var mnemonic = "air toe raccoon lonely upon napkin alien unusual around dragon net alarm";

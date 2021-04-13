@@ -1,1 +1,1 @@
-var mnemonic = "area sense garment rely retire sick garden credit follow hazard suggest build";
+var mnemonic = "peace tomato phone make evil twenty canyon fold dice curtain afraid oil";

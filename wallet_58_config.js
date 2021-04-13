@@ -1,1 +1,1 @@
-var mnemonic = "utility sing champion attack auction despair wash virus parade dawn census answer";
+var mnemonic = "spike rather quality depart valid much admit top assist ensure trophy hotel";

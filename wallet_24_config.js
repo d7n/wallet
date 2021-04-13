@@ -1,1 +1,1 @@
-var mnemonic = "live assault fault bitter sphere arena depend neglect love diary stool much";
+var mnemonic = "never slam village electric tackle grant all space dignity moral leave manual";

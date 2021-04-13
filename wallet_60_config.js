@@ -1,1 +1,1 @@
-var mnemonic = "drama name fold weapon shiver wreck shield pencil tomato border girl zone";
+var mnemonic = "wish drop spell process burger mesh chest attract invite fantasy acquire match";

@@ -1,1 +1,1 @@
-var mnemonic = "target system capable apart pitch shrug casual ride recipe erase left grant";
+var mnemonic = "talent unit two bonus muscle elder february because injury cage feature rotate";

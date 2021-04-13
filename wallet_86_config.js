@@ -1,1 +1,1 @@
-var mnemonic = "lawn crowd armor lab check property exist scrap fruit nominee volume soap";
+var mnemonic = "dismiss unfold person meat toast dawn spatial loop priority amount slab small";

@@ -1,1 +1,1 @@
-var mnemonic = "cause speak exist flock burst nut young salute web pole dune bright";
+var mnemonic = "song ocean brisk poem road faith crumble network gain rally prize consider";

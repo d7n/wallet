@@ -1,1 +1,1 @@
-var mnemonic = "receive scrap clarify argue bus undo attend they goddess during oblige they";
+var mnemonic = "win obscure forward birth top oil soon portion enlist recall clean near";

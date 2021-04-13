@@ -1,1 +1,1 @@
-var mnemonic = "giggle joke feed fuel analyst torch dirt dice joke disagree donkey wheat";
+var mnemonic = "drama evil air person penalty ticket vanish saddle odor process garbage soldier";

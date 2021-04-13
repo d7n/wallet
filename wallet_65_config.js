@@ -1,1 +1,1 @@
-var mnemonic = "trap future blue cinnamon want vapor soul spring rally warrior combine huge";
+var mnemonic = "that electric thunder away team ketchup kite shuffle about road nature speak";

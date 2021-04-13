@@ -1,1 +1,1 @@
-var mnemonic = "success resist day shed trick wisdom physical garlic wage true silk nest";
+var mnemonic = "kind stamp ribbon eight bridge tip dragon track hidden history world income";

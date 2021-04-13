@@ -1,1 +1,1 @@
-var mnemonic = "canvas flavor hunt angry whale impose dog sorry nut forget rate upset";
+var mnemonic = "spider lamp glimpse october absurd hero permit weird inside rule vast pudding";

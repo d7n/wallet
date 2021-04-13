@@ -1,1 +1,1 @@
-var mnemonic = "deny spot pupil faith report sick clump rent switch address orchard tobacco";
+var mnemonic = "photo soda sign design pink syrup churn multiply betray can ivory note";

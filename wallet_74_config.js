@@ -1,1 +1,1 @@
-var mnemonic = "stand sorry brave spring ripple swap awful skin travel reopen horse flame";
+var mnemonic = "slender barely genre notice quote disorder donate pitch author age divide volcano";
