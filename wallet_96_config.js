@@ -1,1 +1,1 @@
-var mnemonic = "initial will normal tunnel mammal fetch elegant host naive modify panda scene";
+var mnemonic = "battle beauty surface start kid diet same crisp stand expose aerobic topic";

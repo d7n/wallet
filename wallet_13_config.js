@@ -1,1 +1,1 @@
-var mnemonic = "silver unfold tragic produce moon twenty noodle ramp two private acquire job";
+var mnemonic = "lab sting embody cactus double tomorrow kit divorce useless elephant initial exile";

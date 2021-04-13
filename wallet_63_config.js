@@ -1,1 +1,1 @@
-var mnemonic = "street pitch satisfy there sponsor frozen divert movie gain unaware rapid punch";
+var mnemonic = "student seed render slender fix code clerk teach circle future injury text";

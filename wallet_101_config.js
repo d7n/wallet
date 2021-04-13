@@ -1,1 +1,1 @@
-var mnemonic = "noble husband thank toast used grace fence admit asthma second solution caution";
+var mnemonic = "panda manage interest ranch can embark planet agent gospel mirror narrow author";

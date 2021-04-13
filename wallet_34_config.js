@@ -1,1 +1,1 @@
-var mnemonic = "flag divide express rotate certain broken easily pitch nut flee possible asthma";
+var mnemonic = "stairs asset keep cradle minor forest table frost choice dial boost happy";

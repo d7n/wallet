@@ -1,1 +1,1 @@
-var mnemonic = "palace express child ocean village few sign orient together fiber spatial pluck";
+var mnemonic = "sheriff reunion cool lobster wire lens bridge sniff bench wisdom tip service";

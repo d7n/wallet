@@ -1,1 +1,1 @@
-var mnemonic = "switch fish decline alert trend pizza onion differ riot boat embody output";
+var mnemonic = "priority butter over burger initial fat letter energy same solution gold minimum";

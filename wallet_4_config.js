@@ -1,1 +1,1 @@
-var mnemonic = "club actual rent park sing village harsh bag swing kit tornado hamster";
+var mnemonic = "lunch student eternal include number gentle swift sadness movie other purity child";

@@ -1,1 +1,1 @@
-var mnemonic = "theory fade isolate domain science logic outdoor rhythm little insect taxi fog";
+var mnemonic = "clay ring river skill pool buddy forward viable razor file cause erosion";

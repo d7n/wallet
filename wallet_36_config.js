@@ -1,1 +1,1 @@
-var mnemonic = "return only gadget mechanic pluck group eight art practice physical nation about";
+var mnemonic = "surround reject eight large enrich chat arrest knock axis wheat unaware humor";

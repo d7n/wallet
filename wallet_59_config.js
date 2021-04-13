@@ -1,1 +1,1 @@
-var mnemonic = "report physical hole admit occur winter summer plate resemble pelican squeeze goat";
+var mnemonic = "robust coast bicycle luggage secret fire squeeze goose theory catalog present inner";

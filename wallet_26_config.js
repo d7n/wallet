@@ -1,1 +1,1 @@
-var mnemonic = "people roof debris relief feel embrace muscle sort short sentence taste dilemma";
+var mnemonic = "donor sweet another clog gaze swap name anxiety now giraffe during liar";

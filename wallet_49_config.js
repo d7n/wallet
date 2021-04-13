@@ -1,1 +1,1 @@
-var mnemonic = "rabbit park stock rather recall glow snack carbon differ bacon sunset cushion";
+var mnemonic = "sell slender subway trumpet devote identify stereo popular seek squirrel power daring";

@@ -1,1 +1,1 @@
-var mnemonic = "copy solid car oval sun enhance tide annual debris alone this list";
+var mnemonic = "organ toilet dignity assist festival guide cream remind fork turkey conduct absent";

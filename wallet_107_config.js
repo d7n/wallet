@@ -1,1 +1,1 @@
-var mnemonic = "boil hurt vague gather analyst hip upgrade hawk fire call have run";
+var mnemonic = "debate mango file fashion episode stage short roof only grow deposit bright";

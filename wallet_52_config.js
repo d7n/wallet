@@ -1,1 +1,1 @@
-var mnemonic = "disease wedding surge wheat faculty umbrella wash walnut pair warfare shock blossom";
+var mnemonic = "say boss world stay invite talk cup already need drama sudden ketchup";

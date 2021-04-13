@@ -1,1 +1,1 @@
-var mnemonic = "cup pistol price need kit sheriff crop motor feel chase robot blind";
+var mnemonic = "wreck hat parade bomb tortoise two powder asthma galaxy wet vague thank";

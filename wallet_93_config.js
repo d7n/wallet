@@ -1,1 +1,1 @@
-var mnemonic = "faith twenty panther type nest arctic state path purity sun believe town";
+var mnemonic = "sting regular robust toilet case genius evil magic wide arrange expand gain";

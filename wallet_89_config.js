@@ -1,1 +1,1 @@
-var mnemonic = "until drill case wage crucial pony typical cause panther mean oven until";
+var mnemonic = "adapt tonight orbit wing own lesson struggle accuse gift clean future enact";

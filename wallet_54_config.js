@@ -1,1 +1,1 @@
-var mnemonic = "total grief comfort tiger educate avoid reflect believe pledge success adult pigeon";
+var mnemonic = "repair lunch page case try cactus merit burst twice jump bargain exact";

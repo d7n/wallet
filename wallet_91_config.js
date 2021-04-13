@@ -1,1 +1,1 @@
-var mnemonic = "plunge plunge ancient current juice dragon mountain stage sponsor more sell vicious";
+var mnemonic = "tuna mistake evolve they avocado gauge buyer wide today truth peace purity";

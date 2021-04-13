@@ -1,1 +1,1 @@
-var mnemonic = "pigeon tray skirt strong fiber yellow flat program you home lecture renew";
+var mnemonic = "essence never punch design oppose ensure today scale inflict fortune drive sunny";

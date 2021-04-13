@@ -1,1 +1,1 @@
-var mnemonic = "flush such present disease desk street length pizza hint salmon whisper mechanic";
+var mnemonic = "pen session fever inquiry opera book bird vacuum school ketchup ozone danger";

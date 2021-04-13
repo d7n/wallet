@@ -1,1 +1,1 @@
-var mnemonic = "cool song brush cycle merge near verify carbon cross main sport push";
+var mnemonic = "desert truck glory stomach drill profit sniff kidney hospital auto perfect issue";

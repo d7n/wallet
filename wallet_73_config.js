@@ -1,1 +1,1 @@
-var mnemonic = "wood below visit parade brain filter mushroom strike picture canyon answer enough";
+var mnemonic = "still decrease stand praise access law judge session avocado friend vessel treat";

@@ -1,1 +1,1 @@
-var mnemonic = "debris smooth patient mixture now believe curtain lottery edge desert giraffe retire";
+var mnemonic = "polar ozone wonder one increase debris collect work jaguar mutual age machine";

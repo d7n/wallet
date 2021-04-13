@@ -1,1 +1,1 @@
-var mnemonic = "sight census this man father height bomb theme furnace surprise audit rely";
+var mnemonic = "badge marriage robot silver wear man tip relief category misery lemon arrange";

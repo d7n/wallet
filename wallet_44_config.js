@@ -1,1 +1,1 @@
-var mnemonic = "arrest gossip rally always afford depart live city transfer put unusual jelly";
+var mnemonic = "hamster vanish motor spoil way unknown soccer melt glue dog army sense";

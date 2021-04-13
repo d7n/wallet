@@ -1,1 +1,1 @@
-var mnemonic = "gym original fortune giraffe trap loop basic park upgrade weekend mixture grape";
+var mnemonic = "neither soul dynamic actress math long long session rely obey perfect vanish";

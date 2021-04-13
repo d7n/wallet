@@ -1,1 +1,1 @@
-var mnemonic = "ignore frame chapter valid enable imitate novel diamond gate occur arm grocery";
+var mnemonic = "glare crew about obtain twin market spring cream guide much raccoon develop";

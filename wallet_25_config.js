@@ -1,1 +1,1 @@
-var mnemonic = "october urge whip fold cloth evidence glory purpose negative tank safe two";
+var mnemonic = "forest dignity panda actor toe suggest foil cigar laundry avocado toilet wait";

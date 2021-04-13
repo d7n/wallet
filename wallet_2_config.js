@@ -1,1 +1,1 @@
-var mnemonic = "barely artwork surface soup else output pitch indicate near educate axis border";
+var mnemonic = "enhance lunar town clutch spring click oppose forest buyer note common mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "error thrive tunnel eager congress staff ginger lend utility become sugar uncle";
+var mnemonic = "biology south turtle humble mountain salt hurt leisure media craft gaze unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "swift lock sleep common capital physical yellow task broccoli rich soul shock";
+var mnemonic = "verb always gaze logic tenant rubber load sister first amount young similar";

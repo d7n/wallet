@@ -1,1 +1,1 @@
-var mnemonic = "census this gravity blast make climb bus metal venue vocal silly climb";
+var mnemonic = "ocean patch car net acid problem october very domain affair calm fresh";

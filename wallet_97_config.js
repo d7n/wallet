@@ -1,1 +1,1 @@
-var mnemonic = "address leaf horse grocery describe exotic voyage manual margin finger pluck emerge";
+var mnemonic = "average arrange blue nut next eagle mutual draft wool cactus fetch secret";

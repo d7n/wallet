@@ -1,1 +1,1 @@
-var mnemonic = "remind diagram finish viable harvest damp fame eager shell nice keep script";
+var mnemonic = "hybrid detect album stay weird bottom pill engage catch funny law seek";

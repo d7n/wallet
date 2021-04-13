@@ -1,1 +1,1 @@
-var mnemonic = "party because fabric draft smart flame mail buzz water release taste mixture";
+var mnemonic = "cheese there morning client concert actual seminar spot short pact document runway";

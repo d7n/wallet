@@ -1,1 +1,1 @@
-var mnemonic = "rally lady cement almost hidden abandon cram sort reflect useful raccoon panther";
+var mnemonic = "yard citizen rebuild tell auction width purity trophy impact wreck sibling silver";

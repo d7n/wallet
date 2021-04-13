@@ -1,1 +1,1 @@
-var mnemonic = "brain excess slide jacket worth key ignore dove beef mistake camera what";
+var mnemonic = "excite romance fly program gain attract smart math hockey flock diamond normal";

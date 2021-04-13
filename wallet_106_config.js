@@ -1,1 +1,1 @@
-var mnemonic = "curious region reveal bring always napkin census crash thought flash only sail";
+var mnemonic = "empower crouch physical stamp choose stamp dutch surround garlic wagon long first";

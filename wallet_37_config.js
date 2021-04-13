@@ -1,1 +1,1 @@
-var mnemonic = "because example saddle oblige lounge decrease pact leg outside broken across lab";
+var mnemonic = "math citizen cruel snake series excess error say clay kitchen hammer echo";

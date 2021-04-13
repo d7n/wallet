@@ -1,1 +1,1 @@
-var mnemonic = "devote skirt humor coast romance release adjust kiwi start chair violin analyst";
+var mnemonic = "draft myself prison october insane gallery fun theme recycle material mansion install";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy boil deposit yard all kidney hospital grape coast buyer cancel friend";
+var mnemonic = "middle vintage matter zone simple father phrase giant frame assist sell enforce";

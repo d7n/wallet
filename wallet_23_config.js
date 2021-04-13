@@ -1,1 +1,1 @@
-var mnemonic = "ability laugh account board beauty elephant kingdom student country whale faculty exhibit";
+var mnemonic = "company world first turtle screen federal toilet action joy torch seat tilt";

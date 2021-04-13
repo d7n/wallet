@@ -1,1 +1,1 @@
-var mnemonic = "rival elder answer cave scout alarm round raven brisk absurd learn wonder";
+var mnemonic = "rich seek donate crane actor clay code trust cherry fix globe valve";

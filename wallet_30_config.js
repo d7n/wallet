@@ -1,1 +1,1 @@
-var mnemonic = "left world cement wrestle squeeze labor cram border race polar lyrics worry";
+var mnemonic = "enforce warrior wall trend resist piece auto cousin depth hurry fold choose";

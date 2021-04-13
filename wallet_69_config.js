@@ -1,1 +1,1 @@
-var mnemonic = "copper because exhaust deposit repeat attitude detail hood travel vacuum priority laugh";
+var mnemonic = "jealous render coconut cage usual wise theme shallow primary govern actress script";

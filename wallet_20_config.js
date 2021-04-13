@@ -1,1 +1,1 @@
-var mnemonic = "news fee mention ahead boost object rebel clump treat right make music";
+var mnemonic = "age phrase february trip list card strong metal much setup link tongue";

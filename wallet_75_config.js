@@ -1,1 +1,1 @@
-var mnemonic = "fold panic butter cheap suffer luxury pull adult veteran riot dolphin conduct";
+var mnemonic = "dance rigid gorilla trophy slow chicken village gown panther please thing casino";

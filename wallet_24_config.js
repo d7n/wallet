@@ -1,1 +1,1 @@
-var mnemonic = "pride shrimp rookie crisp cart dog surface picnic spin bulk fox fit";
+var mnemonic = "suggest opinion cart cigar match very pair useless online employ fiction subject";

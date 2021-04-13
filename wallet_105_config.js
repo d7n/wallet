@@ -1,1 +1,1 @@
-var mnemonic = "name relief stadium accuse situate tongue explain medal budget grief achieve expose";
+var mnemonic = "achieve junk flock error nature amazing wash mountain gain also prefer muffin";

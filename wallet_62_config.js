@@ -1,1 +1,1 @@
-var mnemonic = "valley bulk asthma autumn upgrade toddler wrestle blouse august warm maximum wrist";
+var mnemonic = "race hockey escape face double amateur core suffer excuse anchor vanish detect";

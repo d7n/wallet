@@ -1,1 +1,1 @@
-var mnemonic = "sister truth twist enroll pink chunk cool tilt tank impact patch pattern";
+var mnemonic = "abstract hundred cube road seven ramp invest only strike tiny cycle mountain";

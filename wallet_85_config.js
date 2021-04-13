@@ -1,1 +1,1 @@
-var mnemonic = "dress easy bulb maze seed panther lady later risk artwork gas update";
+var mnemonic = "impulse fragile toward dash cigar match mammal carpet helmet lava brisk dice";

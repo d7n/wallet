@@ -1,1 +1,1 @@
-var mnemonic = "index wage thank icon celery wet live grass diagram between valve fiber";
+var mnemonic = "puzzle genius chief coast excess service cinnamon universe coin organ skull history";

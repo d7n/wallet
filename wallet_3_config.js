@@ -1,1 +1,1 @@
-var mnemonic = "train noodle remind jealous top glow disorder toilet very sphere pepper cigar";
+var mnemonic = "day cotton reject fresh weasel kit cruise primary hammer today vicious rack";

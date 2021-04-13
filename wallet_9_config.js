@@ -1,1 +1,1 @@
-var mnemonic = "range soldier mom stool kidney climb labor vanish heart divide estate panel";
+var mnemonic = "endorse rain already aisle toy unlock clinic junk clock sense wasp federal";

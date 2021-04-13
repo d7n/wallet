@@ -1,1 +1,1 @@
-var mnemonic = "indicate finish hire million tissue ball pumpkin random ten simple first used";
+var mnemonic = "work quick kick maximum fire age like vehicle world inquiry fork boat";

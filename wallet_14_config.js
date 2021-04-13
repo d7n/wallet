@@ -1,1 +1,1 @@
-var mnemonic = "spoil piece vote sock degree cry sunset horror erode famous faith feature";
+var mnemonic = "veteran detect shaft walnut garage exist gas rhythm reopen prefer rapid august";

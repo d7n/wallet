@@ -1,1 +1,1 @@
-var mnemonic = "typical melt story uniform wink party tragic supply belt talk scene orbit";
+var mnemonic = "squeeze blast visit scheme force credit catch crisp slim hurdle novel chase";

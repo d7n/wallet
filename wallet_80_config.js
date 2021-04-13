@@ -1,1 +1,1 @@
-var mnemonic = "basket bright screen sustain domain rebuild fatigue first able pioneer kid fee";
+var mnemonic = "mix rule safe scan mistake wolf fold range motor ramp silver vacant";

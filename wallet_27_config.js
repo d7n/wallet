@@ -1,1 +1,1 @@
-var mnemonic = "end weird perfect cherry frown napkin glue abuse crisp wagon game pelican";
+var mnemonic = "motor envelope dumb shock symbol advance dirt exotic two play glass write";

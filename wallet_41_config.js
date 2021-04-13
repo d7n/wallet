@@ -1,1 +1,1 @@
-var mnemonic = "else banana gospel inch egg yard nerve okay garbage vast foil medal";
+var mnemonic = "satisfy matrix toy brush exclude hurt tumble wrestle mixed nurse race credit";

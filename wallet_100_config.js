@@ -1,1 +1,1 @@
-var mnemonic = "review half hood sorry symbol delay door spin witness oxygen inflict memory";
+var mnemonic = "donor heavy vital middle glass predict swift kitchen forum purity maple mixed";

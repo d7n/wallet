@@ -1,1 +1,1 @@
-var mnemonic = "cruise erode blame crash offer south battle segment brave hurt nerve used";
+var mnemonic = "please abandon delay inside become sunset cook open ahead acquire attack seek";

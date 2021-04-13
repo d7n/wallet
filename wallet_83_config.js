@@ -1,1 +1,1 @@
-var mnemonic = "guide about entire cry genre float amused return jaguar this nasty setup";
+var mnemonic = "amateur machine speak canoe card funny census own mistake unique desert vote";

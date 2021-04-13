@@ -1,1 +1,1 @@
-var mnemonic = "legal outdoor artwork admit slogan uncover razor satisfy energy excess celery cross";
+var mnemonic = "stool harbor maze congress decide broccoli banner ginger initial evolve galaxy side";

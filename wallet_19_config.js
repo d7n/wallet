@@ -1,1 +1,1 @@
-var mnemonic = "cool bind matrix thrive puppy prison alarm luggage clog orient rural wrong";
+var mnemonic = "carpet column wise nuclear change ginger day train develop fox assume add";

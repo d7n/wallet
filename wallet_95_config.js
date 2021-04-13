@@ -1,1 +1,1 @@
-var mnemonic = "boat team copper hire ancient conduct cactus avocado scene ill boss myself";
+var mnemonic = "report atom gap lounge venue payment business upper goat audit present brown";

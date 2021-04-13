@@ -1,1 +1,1 @@
-var mnemonic = "surround exchange work relax any insect tone table quality parent news accuse";
+var mnemonic = "waste swap fitness skin task sight useless used text ask attract confirm";

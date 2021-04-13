@@ -1,1 +1,1 @@
-var mnemonic = "program cluster fatigue access trigger sock attitude arrest fade current grocery sign";
+var mnemonic = "diesel help cat outdoor fish hollow appear issue stay destroy project during";

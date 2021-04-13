@@ -1,1 +1,1 @@
-var mnemonic = "attract develop slender garage found run jaguar ostrich sunset neutral noble frequent";
+var mnemonic = "caught rather artefact need pattern fine song pelican stove party correct dash";

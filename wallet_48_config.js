@@ -1,1 +1,1 @@
-var mnemonic = "bicycle symbol arena describe oil brown page smooth neither industry flag reduce";
+var mnemonic = "toilet coil noodle winner rug police company notice pill wild dune ritual";

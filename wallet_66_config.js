@@ -1,1 +1,1 @@
-var mnemonic = "patient craft caution fee truth giraffe person dolphin apology member snake crazy";
+var mnemonic = "twenty matter time gold winter spray ecology jazz slim cool antenna duck";

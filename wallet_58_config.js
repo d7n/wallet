@@ -1,1 +1,1 @@
-var mnemonic = "humor lonely educate desk sail unit umbrella uncle return sad define street";
+var mnemonic = "visit purpose party jealous honey pulse juice sketch relief powder pizza link";

@@ -1,1 +1,1 @@
-var mnemonic = "ball easily museum machine later action thumb bench mirror panel ritual produce";
+var mnemonic = "assume stick correct erode clump moment female rail crater bus mail tail";

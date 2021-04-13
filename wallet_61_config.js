@@ -1,1 +1,1 @@
-var mnemonic = "half valley pause switch snow enact toe need friend unaware gas work";
+var mnemonic = "install common island nerve stamp cash road wild match output wet grief";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle normal ill check ozone trim hard kiss garbage stuff fury domain";
+var mnemonic = "canal loud exit prison shine nut shoe slow assault exercise pig apart";

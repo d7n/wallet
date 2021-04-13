@@ -1,1 +1,1 @@
-var mnemonic = "success sister close develop boy harvest nothing bind siege century pledge liar";
+var mnemonic = "maximum dumb check silver priority address brown monster cup raccoon shift unit";

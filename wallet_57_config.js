@@ -1,1 +1,1 @@
-var mnemonic = "boy diary floor security cousin reunion spatial hub midnight climb gentle liar";
+var mnemonic = "index account master modify pave trigger hood eager behind day stairs dwarf";

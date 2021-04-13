@@ -1,1 +1,1 @@
-var mnemonic = "dad odor faculty copper theory hurt daring theory other erupt prize cousin";
+var mnemonic = "ignore balance enforce ignore response exotic sell embark adapt cabin dice above";

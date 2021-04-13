@@ -1,1 +1,1 @@
-var mnemonic = "weather hero zero echo spoil find filter room fiscal enemy double embody";
+var mnemonic = "segment calm height tower liberty middle vital spot during heavy plug eyebrow";

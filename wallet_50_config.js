@@ -1,1 +1,1 @@
-var mnemonic = "clock trophy update notable useless puzzle one prison sad marble neutral save";
+var mnemonic = "involve crane reduce space force thumb famous never use pistol wing like";

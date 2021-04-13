@@ -1,1 +1,1 @@
-var mnemonic = "robot resource destroy parent naive young coffee admit tool speak pole grain";
+var mnemonic = "sense dish wife fall engine toddler kingdom dutch decrease time opera music";

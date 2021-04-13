@@ -1,1 +1,1 @@
-var mnemonic = "inherit physical garment ocean duty bachelor note write lens nerve jeans kitten";
+var mnemonic = "near regret burden bullet piece century slam fan hungry visa subway century";

@@ -1,1 +1,1 @@
-var mnemonic = "anger also crisp eight session night solar orange pumpkin wash fault dinner";
+var mnemonic = "act drop drip wrong music cruise loud glass burst jealous gather margin";

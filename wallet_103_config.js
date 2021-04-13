@@ -1,1 +1,1 @@
-var mnemonic = "diagram reveal dove obscure apology injury theme banana slam dwarf appear umbrella";
+var mnemonic = "blame electric blur gown tuition during season melody economy scorpion stand wave";

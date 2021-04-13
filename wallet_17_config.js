@@ -1,1 +1,1 @@
-var mnemonic = "little diet kit library jeans clay virus margin grunt sheriff cute skill";
+var mnemonic = "west angry define average wash senior behave bright sustain desk just strategy";

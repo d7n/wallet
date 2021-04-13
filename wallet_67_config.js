@@ -1,1 +1,1 @@
-var mnemonic = "fuel urge example zero nurse soup employ zoo quiz visual sphere wall";
+var mnemonic = "sadness present spoon climb indoor sunset leaf mango local rural file brick";
