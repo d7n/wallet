@@ -1,1 +1,1 @@
-var mnemonic = "slender barely genre notice quote disorder donate pitch author age divide volcano";
+var mnemonic = "test fruit autumn pledge page antenna sample episode orient owner earth capital";

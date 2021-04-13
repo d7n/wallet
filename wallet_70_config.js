@@ -1,1 +1,1 @@
-var mnemonic = "salmon decline round refuse blur pigeon tuition fabric jewel stem glass honey";
+var mnemonic = "drama harsh road rule clay odor speak judge flock flat toilet market";

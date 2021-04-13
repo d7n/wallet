@@ -1,1 +1,1 @@
-var mnemonic = "chuckle receive dawn enough knee there ramp spring ensure rail job limb";
+var mnemonic = "lunch engage notable gasp woman pretty fog vote doll chest mirror vault";

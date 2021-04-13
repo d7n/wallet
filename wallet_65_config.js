@@ -1,1 +1,1 @@
-var mnemonic = "that electric thunder away team ketchup kite shuffle about road nature speak";
+var mnemonic = "antique sponsor cradle chuckle leopard increase panther airport dust gesture vanish gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "start unique trip target liquid mule circle attract hazard cigar gospel castle";
+var mnemonic = "universe honey knock gain rice luggage giant uphold useless material tower jaguar";

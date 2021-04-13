@@ -1,1 +1,1 @@
-var mnemonic = "chest equal inform chunk move angle call junior crack ugly advance primary";
+var mnemonic = "youth save issue monitor enjoy device easy planet fault practice salad vanish";

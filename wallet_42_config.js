@@ -1,1 +1,1 @@
-var mnemonic = "delay arrive visit bless vendor rubber false east over unknown december holiday";
+var mnemonic = "almost awkward adult arrive gallery discover false under gown please truly roof";

@@ -1,1 +1,1 @@
-var mnemonic = "assume cage off say slim canal unit army shed isolate amateur trust";
+var mnemonic = "spirit again receive marine captain more proud area huge juice cloth atom";

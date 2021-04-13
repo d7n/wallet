@@ -1,1 +1,1 @@
-var mnemonic = "wire shock drive helmet stamp invite pepper antenna voice island hello kid";
+var mnemonic = "bike wrist orchard adjust fine collect torch naive funny shallow cruel age";

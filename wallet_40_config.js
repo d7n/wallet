@@ -1,1 +1,1 @@
-var mnemonic = "drama evil air person penalty ticket vanish saddle odor process garbage soldier";
+var mnemonic = "repeat rack lend veteran record fire sad grape suit year orient seed";

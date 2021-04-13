@@ -1,1 +1,1 @@
-var mnemonic = "stock slim barrel height nothing visit also prevent license asthma unveil swear";
+var mnemonic = "figure sword avoid sunset dash raise roast brick cannon enroll sphere tree";

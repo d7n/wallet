@@ -1,1 +1,1 @@
-var mnemonic = "salon dove attend bacon wheel judge dove adjust engage retreat ring lawn";
+var mnemonic = "super just badge upgrade truck almost deny aisle shrimp weekend buyer sock";

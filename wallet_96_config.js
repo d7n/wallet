@@ -1,1 +1,1 @@
-var mnemonic = "shell brave aisle gallery manual decide jeans spy will fog position message";
+var mnemonic = "rate divert flip thunder disagree drive cage prosper lesson lecture curtain skull";

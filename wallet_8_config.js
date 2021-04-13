@@ -1,1 +1,1 @@
-var mnemonic = "logic spice idle winter fluid discover around giant feel broken sock fancy";
+var mnemonic = "second fresh crowd spike diamond enact quit lamp juice where survey tip";

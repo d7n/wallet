@@ -1,1 +1,1 @@
-var mnemonic = "strong empty assume merge fortune melt one adapt science two way pizza";
+var mnemonic = "escape anchor report cave deny know runway culture tackle expire lawsuit capable";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon bench use estate north direct undo doctor often oil solar movie";
+var mnemonic = "success stairs control width pipe marble ramp dream just biology salute kind";

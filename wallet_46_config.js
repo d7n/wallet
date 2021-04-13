@@ -1,1 +1,1 @@
-var mnemonic = "word slice burst ostrich scatter minor milk gloom conduct relax asset rose";
+var mnemonic = "business uncover solid marriage width island dose photo broccoli eye champion toe";

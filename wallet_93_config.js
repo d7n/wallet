@@ -1,1 +1,1 @@
-var mnemonic = "talent unit two bonus muscle elder february because injury cage feature rotate";
+var mnemonic = "hire negative raccoon clutch vicious balance weapon book action regular turn identify";

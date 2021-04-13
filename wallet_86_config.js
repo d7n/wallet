@@ -1,1 +1,1 @@
-var mnemonic = "dismiss unfold person meat toast dawn spatial loop priority amount slab small";
+var mnemonic = "miracle hammer group ritual increase panther swing indicate surface chunk wheel bike";

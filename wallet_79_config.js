@@ -1,1 +1,1 @@
-var mnemonic = "marine puzzle jump inside buzz anger title hurdle carpet unknown metal frown";
+var mnemonic = "inhale awake calm stadium limit coyote amount page drastic jacket method quote";

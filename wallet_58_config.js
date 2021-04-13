@@ -1,1 +1,1 @@
-var mnemonic = "spike rather quality depart valid much admit top assist ensure trophy hotel";
+var mnemonic = "veteran opinion staff swing ranch barely run used shield worth staff gossip";

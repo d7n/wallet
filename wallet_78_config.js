@@ -1,1 +1,1 @@
-var mnemonic = "silver install soldier wave fat comic best ecology shoot crime run middle";
+var mnemonic = "kiwi mom april reason mention pride sauce one decorate smile snow owner";

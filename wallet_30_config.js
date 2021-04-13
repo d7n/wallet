@@ -1,1 +1,1 @@
-var mnemonic = "sniff reduce ripple eagle rhythm leave minimum describe youth eight tape champion";
+var mnemonic = "material bridge shiver confirm window chronic super run cloth retreat giggle obtain";

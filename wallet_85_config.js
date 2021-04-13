@@ -1,1 +1,1 @@
-var mnemonic = "oil arctic drink home twice link nose powder oval arm melt robust";
+var mnemonic = "nose fork level step snack verb tool sea galaxy myth pet one";

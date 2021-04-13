@@ -1,1 +1,1 @@
-var mnemonic = "life woman egg plastic amazing speed real miracle upgrade orphan acoustic camp";
+var mnemonic = "drill usage stage work arm curve urban crater place cargo clinic february";

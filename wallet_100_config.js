@@ -1,1 +1,1 @@
-var mnemonic = "visit misery flip sick because weather better gloom gloom ranch error hawk";
+var mnemonic = "local fly sting coyote melody electric excuse matter valley length logic armed";

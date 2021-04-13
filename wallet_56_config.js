@@ -1,1 +1,1 @@
-var mnemonic = "engine hurry daughter excite express sauce bitter awesome divide region husband average";
+var mnemonic = "share adapt creek fitness bar black shield ketchup monster drum amount program";

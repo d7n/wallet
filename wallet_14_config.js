@@ -1,1 +1,1 @@
-var mnemonic = "gossip better slush city fiction wild hair benefit table use begin drastic";
+var mnemonic = "attitude tortoise school alien slide riot fish index parrot indoor screen gesture";

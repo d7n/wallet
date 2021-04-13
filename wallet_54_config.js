@@ -1,1 +1,1 @@
-var mnemonic = "multiply tooth fever setup giggle minor excuse juice music office slam assume";
+var mnemonic = "tag planet page verify cheese pudding fat frog clever stock road keen";

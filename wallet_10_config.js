@@ -1,1 +1,1 @@
-var mnemonic = "spider lamp glimpse october absurd hero permit weird inside rule vast pudding";
+var mnemonic = "adjust labor draw sheriff lecture stairs genuine mosquito upgrade museum fringe eyebrow";

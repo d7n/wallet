@@ -1,1 +1,1 @@
-var mnemonic = "pilot simple six sound remind maid survey segment float daring photo power";
+var mnemonic = "thunder rate tube wise payment outside category agent seven police fit envelope";

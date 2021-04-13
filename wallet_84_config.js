@@ -1,1 +1,1 @@
-var mnemonic = "test amazing fringe grow tone odor pony robust furnace slogan armor exhaust";
+var mnemonic = "live visual refuse elevator snap april whale hold course volume doctor swing";

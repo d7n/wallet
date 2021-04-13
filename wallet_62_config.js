@@ -1,1 +1,1 @@
-var mnemonic = "control brush crystal awake add mushroom size host write crouch prize wish";
+var mnemonic = "spoil mystery spin discover try answer cereal guard adult great veteran eye";

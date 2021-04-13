@@ -1,1 +1,1 @@
-var mnemonic = "win obscure forward birth top oil soon portion enlist recall clean near";
+var mnemonic = "purpose motor slice walk solve camp width long avocado ozone faculty soup";

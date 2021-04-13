@@ -1,1 +1,1 @@
-var mnemonic = "office deputy word riot stay build replace clock guard account heavy volcano";
+var mnemonic = "nothing match joke eyebrow year split west thunder clay fat material drastic";

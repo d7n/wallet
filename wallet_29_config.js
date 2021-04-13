@@ -1,1 +1,1 @@
-var mnemonic = "gospel link shine drive cruise jelly hair float adult submit include final";
+var mnemonic = "health keen pistol witness habit wrong vacuum estate violin tube dumb kiss";

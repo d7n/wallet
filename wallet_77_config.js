@@ -1,1 +1,1 @@
-var mnemonic = "clutch drive tuna twelve walnut comfort relief elephant peace monkey key february";
+var mnemonic = "will service panic dial ranch trial until abuse merry wink click tattoo";

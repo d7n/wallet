@@ -1,1 +1,1 @@
-var mnemonic = "involve average space isolate grit close drum coach source point leopard ordinary";
+var mnemonic = "medal amateur leg breeze gown wing plunge morning flee reward square chest";

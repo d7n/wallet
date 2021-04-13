@@ -1,1 +1,1 @@
-var mnemonic = "assist maximum state grocery share eyebrow immense put witness stamp loud approve";
+var mnemonic = "regular coffee aunt chief entry share blade add nut weapon index digital";

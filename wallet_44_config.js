@@ -1,1 +1,1 @@
-var mnemonic = "pull decorate crew coffee chicken interest happy vanish unable easy run pull";
+var mnemonic = "unfair essence polar tackle unaware tumble shop raw similar slide verify actual";

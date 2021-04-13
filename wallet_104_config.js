@@ -1,1 +1,1 @@
-var mnemonic = "rather canoe child earn one saddle erosion resemble pelican cliff office hurdle";
+var mnemonic = "glad ask copy pupil puzzle embody sphere gown you couple sustain child";

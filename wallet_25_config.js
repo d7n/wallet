@@ -1,1 +1,1 @@
-var mnemonic = "street sword icon hero tunnel paddle mobile lazy name coyote huge frequent";
+var mnemonic = "solar zoo brass speak trouble rural license cotton object shrimp push cousin";

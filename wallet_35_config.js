@@ -1,1 +1,1 @@
-var mnemonic = "lucky test business letter wolf boss noise again hard symbol caution blind";
+var mnemonic = "chest cinnamon torch series east sphere wood rug pizza arrow umbrella age";

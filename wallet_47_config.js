@@ -1,1 +1,1 @@
-var mnemonic = "sugar two reason tray strike indoor wire soft symptom dish notice path";
+var mnemonic = "guitar couch pulp dirt nose shy rice spell jar tackle ask youth";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors clerk crater conduct kiwi pretty burden kit measure stairs crystal scout";
+var mnemonic = "ritual renew tide churn assist install dish actual side december measure urban";

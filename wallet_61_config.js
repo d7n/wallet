@@ -1,1 +1,1 @@
-var mnemonic = "small review unveil congress day close surge pledge stock ecology area wasp";
+var mnemonic = "cable tide relief bag acquire radio grab magic truth federal identify abuse";

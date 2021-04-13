@@ -1,1 +1,1 @@
-var mnemonic = "chuckle spice ten inch dial reflect saddle worth power powder nation surround";
+var mnemonic = "eternal entry impulse close fantasy hawk bubble combine still hungry inherit bacon";

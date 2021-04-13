@@ -1,1 +1,1 @@
-var mnemonic = "staff hunt walnut acid bread suffer material mention unusual produce ship trouble";
+var mnemonic = "call short cheap tomorrow choose rug citizen shrug attack core sponsor try";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit garment story cool pilot better wish boost dentist assist strike toss";
+var mnemonic = "hamster hill churn sheriff hamster hat face notice audit quick scrap journey";

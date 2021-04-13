@@ -1,1 +1,1 @@
-var mnemonic = "task junior what floor travel flash sponsor garlic uniform tail vocal patient";
+var mnemonic = "eyebrow slight invest spot proud group unfold judge wet lava digital pause";

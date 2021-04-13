@@ -1,1 +1,1 @@
-var mnemonic = "song ocean brisk poem road faith crumble network gain rally prize consider";
+var mnemonic = "caught kitten shell region admit curve turkey various action journey woman citizen";

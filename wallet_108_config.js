@@ -1,1 +1,1 @@
-var mnemonic = "jar public napkin matrix penalty punch miracle hybrid soon sand edge nation";
+var mnemonic = "robot weather hand capable soap between arrow own bulb device scan price";

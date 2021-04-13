@@ -1,1 +1,1 @@
-var mnemonic = "tonight three spirit team autumn film concert churn label upper purity pitch";
+var mnemonic = "pyramid sugar torch roof filter field toast coin suspect electric ladder coral";

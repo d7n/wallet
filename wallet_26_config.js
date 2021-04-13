@@ -1,1 +1,1 @@
-var mnemonic = "begin portion double morning turkey civil attack valley turtle logic acoustic embark";
+var mnemonic = "casino elegant name novel muffin hat blanket canvas crucial shrimp road plug";

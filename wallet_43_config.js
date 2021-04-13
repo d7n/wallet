@@ -1,1 +1,1 @@
-var mnemonic = "cup noise sport fish harbor today jungle fire mountain admit job clog";
+var mnemonic = "cry wheel tomato drum kitchen loan pigeon rival hero legend knee drift";

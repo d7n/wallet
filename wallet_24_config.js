@@ -1,1 +1,1 @@
-var mnemonic = "never slam village electric tackle grant all space dignity moral leave manual";
+var mnemonic = "page marble runway pelican margin mango toast ship suffer hotel juice stay";

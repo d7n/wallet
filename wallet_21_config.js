@@ -1,1 +1,1 @@
-var mnemonic = "adult song dice prosper fatal prefer script recall tower engine tip park";
+var mnemonic = "size lobster kitchen course happy daring drive weird piece enhance help search";

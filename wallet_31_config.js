@@ -1,1 +1,1 @@
-var mnemonic = "venture device quick bag hello race urge buffalo manage arrange knock cage";
+var mnemonic = "crouch major smooth million write theme boat letter advance moment awesome laundry";

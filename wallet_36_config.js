@@ -1,1 +1,1 @@
-var mnemonic = "hawk gas soldier effort magnet either poem twelve junior wild basic win";
+var mnemonic = "lamp once regular cute wagon loan tunnel dilemma happy pole develop cycle";

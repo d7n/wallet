@@ -1,1 +1,1 @@
-var mnemonic = "knee farm brick venue notable trip fetch cliff act invite detail make";
+var mnemonic = "gather drum bronze rather scale angry front solid helmet amateur major run";

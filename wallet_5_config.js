@@ -1,1 +1,1 @@
-var mnemonic = "pool decide spare midnight reason boat forget ridge occur lock gold reflect";
+var mnemonic = "vote arrest tenant salad cave mistake finish omit depart wire cradle brother";

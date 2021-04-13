@@ -1,1 +1,1 @@
-var mnemonic = "solid milk relief fresh air grid sunset win sock airport donor creek";
+var mnemonic = "robust exhaust wisdom usage kid abandon stairs cinnamon hope stove indoor weekend";

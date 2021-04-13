@@ -1,1 +1,1 @@
-var mnemonic = "hood flower rent fat siren figure picnic model item sun cigar tornado";
+var mnemonic = "oblige castle raven glory city salt squeeze vast board hole winner few";

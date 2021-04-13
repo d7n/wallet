@@ -1,1 +1,1 @@
-var mnemonic = "humor region thumb gauge castle leave orphan turn cram shop prefer exist";
+var mnemonic = "planet silk logic become ocean disagree motion gravity surface borrow peace lock";

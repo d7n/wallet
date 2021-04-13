@@ -1,1 +1,1 @@
-var mnemonic = "bamboo swim evoke conduct fiber rule pluck exchange letter weather true ten";
+var mnemonic = "matter follow canal click castle security repair security lonely lady hello crunch";

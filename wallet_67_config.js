@@ -1,1 +1,1 @@
-var mnemonic = "observe clap deny blind twice uniform furnace tragic obscure unknown lizard account";
+var mnemonic = "place mixed viable marine prosper divorce juice sheriff street quote jaguar require";

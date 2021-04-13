@@ -1,1 +1,1 @@
-var mnemonic = "struggle spring census edit alter label artist rain view embark need turkey";
+var mnemonic = "pulp planet language love angle journey anger lunar flavor hat antenna loyal";

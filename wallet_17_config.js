@@ -1,1 +1,1 @@
-var mnemonic = "stamp system expand episode twin motor dirt unaware exercise ginger wedding fatal";
+var mnemonic = "machine video topple arctic father response range lava maze stock mimic demand";

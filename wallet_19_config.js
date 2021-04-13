@@ -1,1 +1,1 @@
-var mnemonic = "increase popular animal replace domain fragile solar swarm puppy sadness sister powder";
+var mnemonic = "sunset glove crisp eternal tone sauce upper prison blue indicate actual pistol";

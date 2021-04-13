@@ -1,1 +1,1 @@
-var mnemonic = "wait evolve yellow inspire acquire awkward switch health rough unlock square life";
+var mnemonic = "twin release truly major object shrug mule brief egg ridge broken dentist";

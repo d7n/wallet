@@ -1,1 +1,1 @@
-var mnemonic = "replace puppy private bomb enrich edit engine duck humble soup siege gift";
+var mnemonic = "torch result improve erosion infant weird next faith expose celery frost flush";

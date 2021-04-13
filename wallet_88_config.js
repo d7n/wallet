@@ -1,1 +1,1 @@
-var mnemonic = "laundry change moral cake joy bus suggest goose twin frost busy snack";
+var mnemonic = "aunt exit crop casino excess wrong shrug shine cat level task oil";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle liberty offer camera identify debate clay ship write cute mango weekend";
+var mnemonic = "resist impulse exercise fly lyrics dawn pretty side chicken produce plug mouse";

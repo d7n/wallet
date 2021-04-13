@@ -1,1 +1,1 @@
-var mnemonic = "photo soda sign design pink syrup churn multiply betray can ivory note";
+var mnemonic = "sort arrest cotton cry obtain mom control rug task crystal senior shop";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi liquid much brown sausage call apology crystal color envelope robot wall";
+var mnemonic = "harvest cube cruise unfold turn keen hint tank mirror nest coyote ill";

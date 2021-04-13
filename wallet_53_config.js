@@ -1,1 +1,1 @@
-var mnemonic = "acoustic discover danger april alcohol vacant friend cabbage outer regret head forget";
+var mnemonic = "banana auto snack razor hammer hammer man pitch purpose office short obey";

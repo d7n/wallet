@@ -1,1 +1,1 @@
-var mnemonic = "neglect tortoise wasp high produce there twin hero ski bounce churn spin";
+var mnemonic = "spin dinner odor elbow ignore scare fruit wheel paddle art impulse ask";

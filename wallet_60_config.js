@@ -1,1 +1,1 @@
-var mnemonic = "wish drop spell process burger mesh chest attract invite fantasy acquire match";
+var mnemonic = "legal hire husband ability balcony reduce maple tornado bid supreme crime symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "client maple ridge excite flavor prize earth drive immune suffer flip harbor";
+var mnemonic = "luggage dinner point evidence utility cram december student slender crater around gun";

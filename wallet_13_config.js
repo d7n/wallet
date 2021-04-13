@@ -1,1 +1,1 @@
-var mnemonic = "cluster interest release course media release goat thank swing such hand donor";
+var mnemonic = "toe orbit ahead mystery raise stay day remain distance matrix glare original";

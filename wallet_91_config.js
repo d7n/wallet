@@ -1,1 +1,1 @@
-var mnemonic = "elevator drift special hint asset diet seek mention wire position sock again";
+var mnemonic = "decade double chat game slice search during useless point avoid glue ethics";

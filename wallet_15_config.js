@@ -1,1 +1,1 @@
-var mnemonic = "round size chief cloud trip height cost grain result december maple cream";
+var mnemonic = "dish cricket beef damage odor black hello jacket coffee train rhythm immense";

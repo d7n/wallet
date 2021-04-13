@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit coil crucial fortune rose amused fiscal sunset slice fault general spread";
+var mnemonic = "return runway switch property cash perfect brief arrive hurt lamp glance future";

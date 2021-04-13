@@ -1,1 +1,1 @@
-var mnemonic = "area tissue surround grid purpose alpha stadium episode soup father husband issue";
+var mnemonic = "senior oil jazz owner better leopard dynamic basket allow build trumpet excess";

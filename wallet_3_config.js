@@ -1,1 +1,1 @@
-var mnemonic = "fat kit olive inch spray offer hungry skill reopen call biology tortoise";
+var mnemonic = "genuine hold tone lab rubber narrow swamp fall tattoo project turtle game";

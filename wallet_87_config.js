@@ -1,1 +1,1 @@
-var mnemonic = "daring shove adapt phone destroy dry letter cigar whale taste cluster drill";
+var mnemonic = "era skirt plate cool hollow salad garage teach eye pumpkin math soda";

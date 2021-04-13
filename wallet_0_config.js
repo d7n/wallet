@@ -1,1 +1,1 @@
-var mnemonic = "cover goat able random renew weird captain nephew shallow diagram wolf amazing";
+var mnemonic = "odor silver text that model soccer silver cloth visa winner cushion rescue";

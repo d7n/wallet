@@ -1,1 +1,1 @@
-var mnemonic = "unique taxi chief venture noodle choice human goddess topic swallow buffalo jelly";
+var mnemonic = "champion result taxi trumpet later update ready bus mixture nature first often";

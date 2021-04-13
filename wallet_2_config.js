@@ -1,1 +1,1 @@
-var mnemonic = "minimum coin anchor attract permit identify nuclear conduct replace august table vibrant";
+var mnemonic = "earth sentence usual carbon boring alcohol valve obey hero gym garbage odor";

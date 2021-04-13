@@ -1,1 +1,1 @@
-var mnemonic = "recycle educate cactus fan very stool imitate fatal wine twin shiver share";
+var mnemonic = "almost reveal fantasy riot blanket breeze abuse repeat pottery script click equal";

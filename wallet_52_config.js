@@ -1,1 +1,1 @@
-var mnemonic = "dwarf ribbon custom thought first question sight zone void marriage hollow hip";
+var mnemonic = "harsh distance actor stool rhythm soap slam mandate ill fiction power job";

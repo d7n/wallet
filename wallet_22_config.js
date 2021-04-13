@@ -1,1 +1,1 @@
-var mnemonic = "physical guard scheme club language grow discover palace above suit autumn nerve";
+var mnemonic = "jar face harvest success inner invite lounge clerk miracle wool error torch";

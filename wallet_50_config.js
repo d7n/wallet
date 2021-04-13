@@ -1,1 +1,1 @@
-var mnemonic = "chronic praise unusual rival crystal brown happy glimpse bind inflict adapt cross";
+var mnemonic = "invest crunch brief prevent key muscle minor kingdom stuff layer spot solve";

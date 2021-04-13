@@ -1,1 +1,1 @@
-var mnemonic = "mechanic climb era check organ plunge bachelor prison tired pudding wrestle twenty";
+var mnemonic = "air year airport since moral fiscal foster monkey leave increase assault column";

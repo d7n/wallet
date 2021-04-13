@@ -1,1 +1,1 @@
-var mnemonic = "rain vibrant jewel core fabric write embark office retreat people evil meat";
+var mnemonic = "guilt slogan breeze jelly brief major coach tuna load apart bargain oven";
