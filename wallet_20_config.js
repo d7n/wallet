@@ -1,1 +1,1 @@
-var mnemonic = "pride female shift say powder park rival across dice scorpion print unaware";
+var mnemonic = "chapter lion tongue toe grab apart regular agree auction motor fatigue same";

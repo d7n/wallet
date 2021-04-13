@@ -1,1 +1,1 @@
-var mnemonic = "flat more later praise soup legend sock drift box subway potato pulp";
+var mnemonic = "cousin child motor trick girl roast crystal math nut guide record camp";

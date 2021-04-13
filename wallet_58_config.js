@@ -1,1 +1,1 @@
-var mnemonic = "inquiry senior beach accident rookie donor random result vault weather ivory slender";
+var mnemonic = "able taxi unable return auction blush uniform delay dog pattern often wonder";

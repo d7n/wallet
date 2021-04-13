@@ -1,1 +1,1 @@
-var mnemonic = "april essay raise weekend rail draft news make rice poet slice exercise";
+var mnemonic = "once enemy mother people identify ugly scatter garbage fiction baby galaxy fun";

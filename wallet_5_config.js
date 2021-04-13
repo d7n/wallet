@@ -1,1 +1,1 @@
-var mnemonic = "hockey fog unaware sort theory mechanic library idle save palm owner way";
+var mnemonic = "snow helmet hold fashion refuse crystal faculty park clarify giant squeeze bamboo";

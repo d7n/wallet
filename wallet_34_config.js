@@ -1,1 +1,1 @@
-var mnemonic = "tip pattern jump regular visa dose imitate about banner imitate rescue inquiry";
+var mnemonic = "shiver seek assault junior canyon project razor arm invest forget grid network";

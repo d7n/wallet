@@ -1,1 +1,1 @@
-var mnemonic = "fan gift month tent trophy file wealth gaze guard cover over inhale";
+var mnemonic = "blouse erase receive ocean shaft seminar pelican gas organ lucky obvious net";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe stove ahead fragile fish voice dismiss decorate goddess bike friend mixed";
+var mnemonic = "pole carpet rather lesson stem inmate one dry elegant circle march tragic";

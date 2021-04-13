@@ -1,1 +1,1 @@
-var mnemonic = "fortune topple badge destroy parent chaos betray leaf mountain swear plunge tortoise";
+var mnemonic = "wisdom park black harsh water armed sniff purity husband taxi strong stadium";

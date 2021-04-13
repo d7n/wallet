@@ -1,1 +1,1 @@
-var mnemonic = "canal angry hello wash flock this exclude drive elephant tongue body illegal";
+var mnemonic = "else truly merry add dose circle illegal skate dad end drive sleep";

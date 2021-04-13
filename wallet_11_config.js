@@ -1,1 +1,1 @@
-var mnemonic = "shoulder dragon idea inquiry message make fame salon history amused obvious balance";
+var mnemonic = "genre dwarf where cotton child plunge clap credit patch foam version choice";

@@ -1,1 +1,1 @@
-var mnemonic = "hold bird almost nerve forum lyrics electric impose hub strike once desert";
+var mnemonic = "company venture trend hospital tent merry ball cousin donate popular cool excite";

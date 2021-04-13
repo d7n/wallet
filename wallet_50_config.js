@@ -1,1 +1,1 @@
-var mnemonic = "detail universe dove patrol ridge guard actual marble jungle dance atom heavy";
+var mnemonic = "science current gift parade cruel ripple always push juice essay cactus warm";

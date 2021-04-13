@@ -1,1 +1,1 @@
-var mnemonic = "spoil curve vintage captain state reflect spider beach prepare that debate bullet";
+var mnemonic = "metal motion oven urge accident box dolphin annual age guilt silk error";

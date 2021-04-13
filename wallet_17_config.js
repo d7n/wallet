@@ -1,1 +1,1 @@
-var mnemonic = "behave blast drop camp negative eager gesture please major yard divert genuine";
+var mnemonic = "kidney spend valid heavy medal visa all offer logic bleak drum monkey";

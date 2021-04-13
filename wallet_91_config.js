@@ -1,1 +1,1 @@
-var mnemonic = "atom allow demand buddy purpose sample misery index film second unusual case";
+var mnemonic = "body require throw choice attract slender below core tray luggage grief fee";

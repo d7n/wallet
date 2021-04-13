@@ -1,1 +1,1 @@
-var mnemonic = "slight tray shy excite dog infant level night link broccoli ivory scorpion";
+var mnemonic = "urban armor journey hire lift buzz sleep enrich treat various enable depend";

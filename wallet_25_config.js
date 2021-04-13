@@ -1,1 +1,1 @@
-var mnemonic = "crisp annual hip airport army option access diagram tomorrow drill wreck strategy";
+var mnemonic = "plastic royal flavor repair fame time manage cat crack clock puzzle winner";

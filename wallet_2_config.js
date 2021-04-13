@@ -1,1 +1,1 @@
-var mnemonic = "various aisle manual circle comic gloom shrimp result pear play number update";
+var mnemonic = "emotion abstract load afford end concert glow advance range logic nice dose";

@@ -1,1 +1,1 @@
-var mnemonic = "portion payment benefit auto south nephew marriage tone reform burst casual february";
+var mnemonic = "indoor heavy peanut pill fabric credit pond state pottery biology giant rally";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder lunch curious object slide civil wait neutral amount tomato turkey shoot";
+var mnemonic = "vacuum idle victory bind stay swap act slender hidden reason rain dignity";

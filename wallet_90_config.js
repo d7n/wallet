@@ -1,1 +1,1 @@
-var mnemonic = "social eager discover tired seek crime gauge buzz child neck key frown";
+var mnemonic = "volcano water choose zoo enhance silk cave dish yard gaze ketchup wink";

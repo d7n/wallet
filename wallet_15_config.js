@@ -1,1 +1,1 @@
-var mnemonic = "ankle car rely lake van system police reform fish match left flock";
+var mnemonic = "caution pact buyer unfair employ scissors crumble lounge net voice basic swear";

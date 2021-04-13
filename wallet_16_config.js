@@ -1,1 +1,1 @@
-var mnemonic = "mechanic winter add name conduct happy trap donor pave blossom rare utility";
+var mnemonic = "rally thought fringe volcano primary bind stove age gossip survey hybrid addict";

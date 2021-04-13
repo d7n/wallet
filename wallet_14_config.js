@@ -1,1 +1,1 @@
-var mnemonic = "truly list client elder two jump leave leader mountain runway calm cliff";
+var mnemonic = "twice universe this toss pause drum solution kite student cool zero casual";

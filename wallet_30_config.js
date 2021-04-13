@@ -1,1 +1,1 @@
-var mnemonic = "credit alley myself visa voice input find never price black logic wash";
+var mnemonic = "never brown rug lucky actor dial orphan angle joke sample nothing rebuild";

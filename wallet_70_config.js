@@ -1,1 +1,1 @@
-var mnemonic = "notice abstract giggle boost valve word ticket okay bonus cart joke exact";
+var mnemonic = "group cereal ramp heart hospital logic tent fox detect fall flag tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure toast rescue note broken brief fuel boil race inch find task";
+var mnemonic = "salute harsh hole upgrade harbor dry six smile inherit oblige source return";

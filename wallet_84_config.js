@@ -1,1 +1,1 @@
-var mnemonic = "detect appear quality festival nurse tumble guilt divide female often express either";
+var mnemonic = "dinosaur paddle witness area exchange palace speak fat market sniff abuse host";

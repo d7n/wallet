@@ -1,1 +1,1 @@
-var mnemonic = "improve cereal curve code leave silent state muffin laugh initial lawsuit offer";
+var mnemonic = "much exercise wonder motion insect law energy matter acid swap term image";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic inside oyster alcohol luxury panel top donate pizza border olive term";
+var mnemonic = "describe neglect dream please produce allow chunk frequent warfare gym tuna glass";

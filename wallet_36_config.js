@@ -1,1 +1,1 @@
-var mnemonic = "enroll salt tilt apple destroy post report vivid keep glass debris unfold";
+var mnemonic = "letter zone custom wheel reward enrich oval fault original immune describe reunion";

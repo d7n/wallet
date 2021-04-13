@@ -1,1 +1,1 @@
-var mnemonic = "desk crop trial budget beach gown shell depart minimum bomb crack super";
+var mnemonic = "news margin seed equal sort toe acid unable demand agree void chuckle";

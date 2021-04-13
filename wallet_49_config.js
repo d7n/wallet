@@ -1,1 +1,1 @@
-var mnemonic = "cheese stage tree retreat sick rely then describe west victory trophy travel";
+var mnemonic = "shine office express mimic age amount swing route denial liquid picnic wedding";

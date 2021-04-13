@@ -1,1 +1,1 @@
-var mnemonic = "cash faculty awkward rude angle street assist weasel mercy mother broken pig";
+var mnemonic = "note found top young pelican stone option month now repair require fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar federal because pink entry network fine wine plug wrap civil exclude";
+var mnemonic = "modify chicken advice inflict tourist sort document draw draw about leaf rude";

@@ -1,1 +1,1 @@
-var mnemonic = "hold sure hunt guilt water anxiety direct toss card desert endless source";
+var mnemonic = "helmet roof maze amateur destroy certain valid rotate rural exercise hen document";

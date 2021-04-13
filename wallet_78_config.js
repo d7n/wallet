@@ -1,1 +1,1 @@
-var mnemonic = "detail special car hawk pear venue violin duty tank envelope boat enlist";
+var mnemonic = "trip bunker wage success spend copy until cushion erosion salad deny feel";

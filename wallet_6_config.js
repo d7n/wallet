@@ -1,1 +1,1 @@
-var mnemonic = "ribbon zoo violin coyote oblige again enhance sun later clog filter excuse";
+var mnemonic = "betray whip another shiver attack airport like upgrade suffer burst future hair";

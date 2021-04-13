@@ -1,1 +1,1 @@
-var mnemonic = "sense frog identify sniff face sustain swamp decline famous receive barely bomb";
+var mnemonic = "net neither page token paddle hybrid ancient salt isolate panda entire clap";

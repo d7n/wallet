@@ -1,1 +1,1 @@
-var mnemonic = "keen sketch endorse ranch smooth cushion churn time early permit hard dust";
+var mnemonic = "hamster timber describe adjust category airport planet acquire fiction sell put address";

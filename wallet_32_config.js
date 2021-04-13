@@ -1,1 +1,1 @@
-var mnemonic = "crowd gasp catalog envelope pair law heart smoke effort mass practice nasty";
+var mnemonic = "small clerk decorate hen beef fresh captain display orbit oval replace over";

@@ -1,1 +1,1 @@
-var mnemonic = "second vapor kidney dress result wish crouch oak jealous inject decline zoo";
+var mnemonic = "harvest foot cost fitness cool utility client abuse auction grow wife verb";

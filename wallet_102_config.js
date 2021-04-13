@@ -1,1 +1,1 @@
-var mnemonic = "fiscal lab estate deal broken gift loud fabric radio cube protect seek";
+var mnemonic = "popular depend plug make trade club accuse tobacco burger fatal gun hour";

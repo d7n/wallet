@@ -1,1 +1,1 @@
-var mnemonic = "castle point bargain novel tornado slim image swim social forest bird silk";
+var mnemonic = "orient swallow fuel mixed glad skill rebel cover slush assist kick pelican";

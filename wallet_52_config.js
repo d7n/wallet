@@ -1,1 +1,1 @@
-var mnemonic = "poem multiply wheat because lyrics spare crazy arrow put fluid aunt indoor";
+var mnemonic = "sauce usual usage inquiry special essence soup total staff short palace stumble";

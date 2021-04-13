@@ -1,1 +1,1 @@
-var mnemonic = "trumpet copy horror tiger text sing disagree review portion peace fruit budget";
+var mnemonic = "happy arena promote fruit sample impulse promote latin arctic glue green squeeze";

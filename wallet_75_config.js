@@ -1,1 +1,1 @@
-var mnemonic = "young cradle girl student rebel blame universe finish climb base gauge cave";
+var mnemonic = "wage sea shuffle hawk burger scissors wine appear exotic hint weather hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "call keep outside arrive hedgehog jelly alter bachelor long bundle snake because";
+var mnemonic = "pet cat rubber eye measure stay cross ritual antique rookie rose rude";

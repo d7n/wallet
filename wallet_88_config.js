@@ -1,1 +1,1 @@
-var mnemonic = "weather volume mobile orbit adapt render way craft sting toilet alone update";
+var mnemonic = "bonus adult come combine film crouch dutch fly try embody summer noble";

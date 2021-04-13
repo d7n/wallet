@@ -1,1 +1,1 @@
-var mnemonic = "ostrich concert cheese joy scale fashion suspect onion home mobile parent surprise";
+var mnemonic = "name reduce clown rib address hockey trophy mosquito into notice strategy salute";

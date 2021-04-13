@@ -1,1 +1,1 @@
-var mnemonic = "jewel teach accident boil owner adult unique large away satisfy load novel";
+var mnemonic = "coach hurt air record young enroll knee clean quality crop veteran sand";

@@ -1,1 +1,1 @@
-var mnemonic = "typical bid egg bleak vacuum cup celery aerobic awkward private border swear";
+var mnemonic = "dilemma bacon jazz solid nice people spirit trust oxygen ill hurry cage";

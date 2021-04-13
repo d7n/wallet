@@ -1,1 +1,1 @@
-var mnemonic = "fabric hybrid announce trade trick favorite begin brown cigar suggest mail usage";
+var mnemonic = "imitate embrace bread bar fence amount donkey weird laptop danger dance gloom";

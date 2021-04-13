@@ -1,1 +1,1 @@
-var mnemonic = "tone conduct loan monitor involve athlete climb twice you shock judge chase";
+var mnemonic = "menu pull pull trigger taxi scatter enemy ridge fit crucial sword useful";

@@ -1,1 +1,1 @@
-var mnemonic = "already knock donate fog jewel claw caution donate dry exchange hen pattern";
+var mnemonic = "enhance kid hurt woman ethics mule since trash pizza frame spatial close";

@@ -1,1 +1,1 @@
-var mnemonic = "impact wealth roast zoo above danger version bubble visit similar ranch boil";
+var mnemonic = "huge opera awake inch defense window aerobic vanish brand glove health survey";

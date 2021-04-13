@@ -1,1 +1,1 @@
-var mnemonic = "find train test candy action screen circle still permit sniff shuffle expand";
+var mnemonic = "bounce knife scare false menu toe phone monkey valley verify delay earn";

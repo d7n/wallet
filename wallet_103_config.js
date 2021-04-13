@@ -1,1 +1,1 @@
-var mnemonic = "avocado follow heavy book sphere finish river pink put rescue unfold hybrid";
+var mnemonic = "give neither item profit bean clog shiver fun agent very piano track";

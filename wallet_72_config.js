@@ -1,1 +1,1 @@
-var mnemonic = "damage era urge angry mobile snap mechanic depth pretty warm patient bench";
+var mnemonic = "again shoot collect fly stable decline wing finger tortoise doll prosper column";

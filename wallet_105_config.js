@@ -1,1 +1,1 @@
-var mnemonic = "another head concert blood unhappy hurt observe gun stage silver gate best";
+var mnemonic = "salmon smart caution polar inmate caution valve foot vacuum critic desert quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "rice unit brown sort elephant spot script borrow thank fiber volume clever";
+var mnemonic = "custom brass lift cherry crumble apology keep zoo napkin dice sunset later";

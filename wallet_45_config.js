@@ -1,1 +1,1 @@
-var mnemonic = "sausage guide fatigue fly ostrich infant knee story current curve chicken celery";
+var mnemonic = "draft where share trick distance large bicycle slight ice denial turtle kick";

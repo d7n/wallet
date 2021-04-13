@@ -1,1 +1,1 @@
-var mnemonic = "sign energy myth copper stick soap interest output warm filter artefact success";
+var mnemonic = "tortoise gap lawsuit seven kiwi wool test sorry zero write sign stuff";

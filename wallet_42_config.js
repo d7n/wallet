@@ -1,1 +1,1 @@
-var mnemonic = "flee base tool warrior raise cement prize rally accuse sister valley weather";
+var mnemonic = "lamp scorpion embody ordinary grocery patient excess toast season ski glory plastic";

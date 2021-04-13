@@ -1,1 +1,1 @@
-var mnemonic = "resource dream task slam river train produce rule cousin wrestle gym dish";
+var mnemonic = "melody father cloth deer design can manage ostrich grunt life modify garage";

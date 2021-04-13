@@ -1,1 +1,1 @@
-var mnemonic = "manual absorb chest step october crucial media bunker tape cart relief cruel";
+var mnemonic = "shock tail crucial tonight crucial virus spike humor choice series sound egg";

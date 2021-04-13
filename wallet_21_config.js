@@ -1,1 +1,1 @@
-var mnemonic = "banner blast absent spice artist vanish ivory busy reduce blue slab reopen";
+var mnemonic = "region innocent inhale corn any cause rail mosquito keep feel donate simple";

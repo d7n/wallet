@@ -1,1 +1,1 @@
-var mnemonic = "pole robust retire grunt mother tilt humble prize record deny prize train";
+var mnemonic = "whip oven student polar disease provide guilt swim vessel promote degree coconut";

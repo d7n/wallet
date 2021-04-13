@@ -1,1 +1,1 @@
-var mnemonic = "theory museum tip aim curtain embrace female dilemma submit essence gadget size";
+var mnemonic = "swap tiny rug differ diet cycle tuition bamboo record when bargain noise";

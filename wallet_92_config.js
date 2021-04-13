@@ -1,1 +1,1 @@
-var mnemonic = "accuse radio arrange bonus depend sun elder snake goddess slender engage world";
+var mnemonic = "brush mutual raven cover pride initial steel vague accuse wealth ocean pole";

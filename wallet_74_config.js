@@ -1,1 +1,1 @@
-var mnemonic = "much debate visual shrug column mango exchange delay fresh stereo neglect nation";
+var mnemonic = "track figure creek gate cactus rigid tragic blanket alcohol stairs badge pond";

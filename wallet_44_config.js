@@ -1,1 +1,1 @@
-var mnemonic = "various tuition wagon caution exhibit shine maze suit among glass auction educate";
+var mnemonic = "bus defense wing soldier ivory subject giant cherry title sting penalty tortoise";

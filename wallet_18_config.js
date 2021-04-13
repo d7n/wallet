@@ -1,1 +1,1 @@
-var mnemonic = "region equip diesel can width law major fix genuine twice assault flush";
+var mnemonic = "uncover elevator inflict cluster damage expect disagree question minute grocery acquire cat";

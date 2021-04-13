@@ -1,1 +1,1 @@
-var mnemonic = "evolve under then mouse wait pipe poverty water vessel method other rather";
+var mnemonic = "crowd tongue shallow mechanic flame ability vivid siren twenty receive domain enable";

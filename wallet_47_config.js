@@ -1,1 +1,1 @@
-var mnemonic = "cousin legal glad okay liquid drop royal wire cook mushroom act subject";
+var mnemonic = "clock narrow vehicle soldier arctic sense best paddle sense unknown unknown open";

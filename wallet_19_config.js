@@ -1,1 +1,1 @@
-var mnemonic = "federal identify urban afford minute badge right immune obey park pact matrix";
+var mnemonic = "reflect twist endless animal flat outside real stereo similar alone exhibit spare";

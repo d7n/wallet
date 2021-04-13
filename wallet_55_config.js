@@ -1,1 +1,1 @@
-var mnemonic = "goose range rug expand list radar wonder broccoli cart useful luxury universe";
+var mnemonic = "kidney vacant slab require wall globe beyond notice parrot lumber throw phone";

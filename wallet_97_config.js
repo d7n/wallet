@@ -1,1 +1,1 @@
-var mnemonic = "acoustic inch barrel allow bean merit flame motion collect parent wink burden";
+var mnemonic = "lazy step bone man entire coin acoustic soda honey dose donkey problem";

@@ -1,1 +1,1 @@
-var mnemonic = "cave crack inhale elite better glide erupt dragon pupil bundle various please";
+var mnemonic = "annual hedgehog account charge ring bench defy plate slender ordinary outdoor weasel";

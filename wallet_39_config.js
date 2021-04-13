@@ -1,1 +1,1 @@
-var mnemonic = "wonder unaware van fancy moment rib travel long stumble upgrade behind brain";
+var mnemonic = "artwork lumber float car tomato hip endless narrow ski biology recall color";

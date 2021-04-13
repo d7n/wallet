@@ -1,1 +1,1 @@
-var mnemonic = "picture primary property smart thunder destroy polar clutch permit share pattern apology";
+var mnemonic = "sphere fetch donate quick stage seven hawk puppy soda amateur price day";

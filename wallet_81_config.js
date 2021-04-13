@@ -1,1 +1,1 @@
-var mnemonic = "because draft smoke move vintage sphere decade music crouch lyrics perfect execute";
+var mnemonic = "wing pyramid jacket prevent current village injury change arrange female radar dune";

@@ -1,1 +1,1 @@
-var mnemonic = "same december victory pigeon snow palm refuse myth pride voice update focus";
+var mnemonic = "govern field gown range smoke code beef glimpse protect slush dish attract";

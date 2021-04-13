@@ -1,1 +1,1 @@
-var mnemonic = "nominee robust student normal glass rhythm syrup uniform tail all obvious issue";
+var mnemonic = "remove harbor front ladder grief miss romance lazy liar october pledge nice";

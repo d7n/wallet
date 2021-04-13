@@ -1,1 +1,1 @@
-var mnemonic = "shine dutch where outer arena magnet blood ocean ceiling figure comfort wage";
+var mnemonic = "cloud urge bread foam opinion heavy potato major slender unknown damp coral";

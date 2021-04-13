@@ -1,1 +1,1 @@
-var mnemonic = "merit install obscure accident slight thunder pioneer oven surprise candy bulb west";
+var mnemonic = "speak club midnight force bean cabbage suggest repeat worth toy pipe worry";

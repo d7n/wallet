@@ -1,1 +1,1 @@
-var mnemonic = "stock envelope angry glance good puppy source student garden awkward uphold divert";
+var mnemonic = "recall over reason minute gorilla economy tape program cattle slow april glimpse";

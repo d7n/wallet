@@ -1,1 +1,1 @@
-var mnemonic = "patch raccoon tip chapter number puzzle wear weapon virtual spend supreme rifle";
+var mnemonic = "heart choose road faith tomorrow exchange tired eagle kingdom dog hole music";

@@ -1,1 +1,1 @@
-var mnemonic = "cart grocery spell trim destroy alpha price safe call ritual juice zebra";
+var mnemonic = "extra yard border this pull buddy stock gate involve ride little apple";

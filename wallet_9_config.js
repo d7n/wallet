@@ -1,1 +1,1 @@
-var mnemonic = "friend rally devote hamster energy accuse lonely improve caution mad eight cup";
+var mnemonic = "giraffe empty other cube shallow disagree frequent deliver mixture talk crumble roast";

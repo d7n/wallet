@@ -1,1 +1,1 @@
-var mnemonic = "wink heavy spot piece already drastic radio duty carpet tower wrong blouse";
+var mnemonic = "spell member junior clip movie record blast unknown slide obvious slight winter";

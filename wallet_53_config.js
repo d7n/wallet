@@ -1,1 +1,1 @@
-var mnemonic = "area upper unique can outside math ring sort poet pluck swamp inspire";
+var mnemonic = "truck flame way carry maid minimum uphold mountain fiber order affair captain";
