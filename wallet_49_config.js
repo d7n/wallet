@@ -1,1 +1,1 @@
-var mnemonic = "ranch clarify rural extend used then patch pledge panther law earth yellow";
+var mnemonic = "van size inside laundry open whale fancy prefer select lawn jacket all";

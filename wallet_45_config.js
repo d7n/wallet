@@ -1,1 +1,1 @@
-var mnemonic = "path detail company adult link quantum cancel dutch object inherit cruel arctic";
+var mnemonic = "alley true travel motion twin snow erupt pass bicycle govern acid shine";

@@ -1,1 +1,1 @@
-var mnemonic = "food canvas grass slab acid sustain dynamic dish buyer coffee exotic debate";
+var mnemonic = "artefact feature mechanic master armor sun process salon credit style since coral";

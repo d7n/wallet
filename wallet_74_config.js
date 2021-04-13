@@ -1,1 +1,1 @@
-var mnemonic = "wave initial drop secret display orphan spin pyramid quantum stuff pelican allow";
+var mnemonic = "cube tribe route detect major uncover pulse high nuclear raven farm debate";

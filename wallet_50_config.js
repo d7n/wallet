@@ -1,1 +1,1 @@
-var mnemonic = "piece extend please judge mention cat develop friend dismiss idle border remain";
+var mnemonic = "across fossil measure audit version swallow blame pave dizzy possible sweet violin";

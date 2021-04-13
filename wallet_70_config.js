@@ -1,1 +1,1 @@
-var mnemonic = "enable join glass leave pioneer siege recipe frog approve edge sun proof";
+var mnemonic = "banner alcohol hybrid front chase expose obscure latin crowd muscle rich wait";

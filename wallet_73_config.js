@@ -1,1 +1,1 @@
-var mnemonic = "stumble small wrist version pass depart waste pretty feed scan eagle awake";
+var mnemonic = "mimic torch sentence choose snap sausage helmet nature verify horror oyster occur";

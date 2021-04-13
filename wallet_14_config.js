@@ -1,1 +1,1 @@
-var mnemonic = "turn lab grocery ill install stereo noise token pilot correct plunge senior";
+var mnemonic = "today address sniff layer come private expand feature model ethics connect another";

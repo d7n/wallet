@@ -1,1 +1,1 @@
-var mnemonic = "plate brain rely cannon math liquid useless exercise example age camera rain";
+var mnemonic = "marriage choose shrimp already ketchup mix pig popular drift ketchup champion post";

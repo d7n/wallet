@@ -1,1 +1,1 @@
-var mnemonic = "noodle federal neither frog organ fox flat canyon rural spike diet raw";
+var mnemonic = "input private depend child memory recycle turtle tube gun total buffalo caught";

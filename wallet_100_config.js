@@ -1,1 +1,1 @@
-var mnemonic = "mouse problem silk parent prosper narrow second devote grief trend canyon blast";
+var mnemonic = "music quote acid put volume payment today sniff soft quality embody breeze";

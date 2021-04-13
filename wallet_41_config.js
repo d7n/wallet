@@ -1,1 +1,1 @@
-var mnemonic = "way crane monkey wink boring year divorce since extend fish loud slush";
+var mnemonic = "share sustain tragic snack depend flash endless gospel pattern lunar hockey run";

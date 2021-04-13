@@ -1,1 +1,1 @@
-var mnemonic = "cigar radio girl client explain resemble poverty slender doctor transfer uncle inch";
+var mnemonic = "dizzy enable equip novel other clean glue also doctor tobacco stuff erupt";

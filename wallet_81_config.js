@@ -1,1 +1,1 @@
-var mnemonic = "nose amateur tennis six radar resist bounce device material unusual hint trash";
+var mnemonic = "skate crystal hazard urban element city female dynamic fox ill upgrade dice";

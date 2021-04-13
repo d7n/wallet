@@ -1,1 +1,1 @@
-var mnemonic = "review add social iron grape cheap museum double patient raven mixture lawn";
+var mnemonic = "twin hamster bitter lyrics elephant cool total will shuffle sample scout arrest";

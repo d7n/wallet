@@ -1,1 +1,1 @@
-var mnemonic = "observe human history huge leaf machine recycle entire human gauge bundle arena";
+var mnemonic = "actress dinner disorder raw cliff catalog blouse month mango ridge wreck pioneer";

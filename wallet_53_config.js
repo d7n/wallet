@@ -1,1 +1,1 @@
-var mnemonic = "able off infant grocery produce mountain often object dune fruit lens duty";
+var mnemonic = "churn tiger uniform velvet average gallery miss climb occur divert indicate slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder coast fix minimum swamp isolate mass auto pole pause either lottery";
+var mnemonic = "crouch dignity dinosaur sell mistake unable parrot note hand urge escape hill";

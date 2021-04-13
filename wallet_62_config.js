@@ -1,1 +1,1 @@
-var mnemonic = "tomato aunt cannon danger spray pact aim mushroom stem habit crater elephant";
+var mnemonic = "half minimum right jeans rookie caught fringe oak canoe myself uncover buffalo";

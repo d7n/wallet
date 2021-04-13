@@ -1,1 +1,1 @@
-var mnemonic = "hip lounge film general aware someone bitter scorpion december sister dutch runway";
+var mnemonic = "gun sphere have online observe key cousin leopard enroll eternal burst senior";

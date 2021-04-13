@@ -1,1 +1,1 @@
-var mnemonic = "raccoon shed skirt decline plate purity swallow suit render hard clutch innocent";
+var mnemonic = "floor fancy obscure autumn sand about input cradle dune illegal boy brand";

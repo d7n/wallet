@@ -1,1 +1,1 @@
-var mnemonic = "battle before wisdom help family error deer icon vicious heavy isolate clarify";
+var mnemonic = "retreat magnet embark enjoy vague brief pledge confirm jealous clock lady pilot";

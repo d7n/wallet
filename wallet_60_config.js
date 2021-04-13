@@ -1,1 +1,1 @@
-var mnemonic = "sauce boy remove wrap invite lend recycle keen news mind protect they";
+var mnemonic = "dynamic ride tenant arrow open shallow front discover relief unlock denial there";

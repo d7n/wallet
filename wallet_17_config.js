@@ -1,1 +1,1 @@
-var mnemonic = "marine ice frame nose tiger winner remove zero strategy box juice teach";
+var mnemonic = "limb addict photo match pole example chaos sheriff empty victory indicate large";

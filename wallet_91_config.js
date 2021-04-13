@@ -1,1 +1,1 @@
-var mnemonic = "region atom decline birth area payment warrior slam diet monster scheme luxury";
+var mnemonic = "twenty remove burger wide ill pelican forget elevator only brown follow view";

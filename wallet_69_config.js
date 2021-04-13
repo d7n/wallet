@@ -1,1 +1,1 @@
-var mnemonic = "ozone mammal exchange heart south crunch witness laugh envelope sick carpet door";
+var mnemonic = "poem bottom unique neglect analyst bicycle frequent raw mask they true magic";

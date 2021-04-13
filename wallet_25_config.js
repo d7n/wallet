@@ -1,1 +1,1 @@
-var mnemonic = "oppose dream false immense medal cloud vivid muscle true spatial avocado sense";
+var mnemonic = "select gap regret ramp arrest snack clay chimney describe attend coil model";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit soda spider wing museum crowd sister major trap blade pair nephew";
+var mnemonic = "make flip hybrid air deny toddler addict save defense remember sound odor";

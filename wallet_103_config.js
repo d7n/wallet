@@ -1,1 +1,1 @@
-var mnemonic = "mixture people knife coast grit work club equal radio thrive enroll twice";
+var mnemonic = "option element there solve company damp engage rich thought glove easy option";

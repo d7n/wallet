@@ -1,1 +1,1 @@
-var mnemonic = "always case winter evoke meadow afford city orange ice usage body hazard";
+var mnemonic = "apology hungry soon section maple trust depart pill machine weather brown fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum sudden book grief eight milk quote impose kiwi echo since aspect";
+var mnemonic = "illness relax enjoy clerk brush box okay clap entry guide bracket reform";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy mouse awake twist universe abuse burden page cry coil legal shiver";
+var mnemonic = "expect draw bind bind crime sausage boil robot alien common relax disagree";

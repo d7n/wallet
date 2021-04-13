@@ -1,1 +1,1 @@
-var mnemonic = "bar donate hurdle toy reopen nut popular satisfy draw garment tomorrow subway";
+var mnemonic = "upper mad spatial anxiety fresh image please much earth abandon garment seed";

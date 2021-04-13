@@ -1,1 +1,1 @@
-var mnemonic = "claw divert sentence direct safe grab jazz blame exotic dolphin piano program";
+var mnemonic = "injury future either merge ship into burger mean jewel post tree inflict";

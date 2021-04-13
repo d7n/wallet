@@ -1,1 +1,1 @@
-var mnemonic = "rude damage people wet undo dawn spatial become one figure gun fix";
+var mnemonic = "rude interest grant multiply feel crucial cube bomb spot rebuild scatter cabbage";

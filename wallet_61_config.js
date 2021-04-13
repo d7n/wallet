@@ -1,1 +1,1 @@
-var mnemonic = "defense spike large copper retreat patch stumble broken square tree canyon actress";
+var mnemonic = "chaos boy bachelor lonely question return cruise sell february sting suggest grid";

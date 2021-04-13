@@ -1,1 +1,1 @@
-var mnemonic = "recipe riot eternal rent describe napkin subway volcano detect skill cabbage embrace";
+var mnemonic = "digital wing industry mistake word ketchup weather verb inmate design digital boat";

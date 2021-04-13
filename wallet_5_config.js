@@ -1,1 +1,1 @@
-var mnemonic = "film loud chuckle kid boat sleep sea light guess fan option easy";
+var mnemonic = "panic depth purpose news earn salad forget arena almost moral because hedgehog";

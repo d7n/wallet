@@ -1,1 +1,1 @@
-var mnemonic = "add betray fly tattoo lens group forum grass name burger dose regular";
+var mnemonic = "manual honey dutch match panel moment rather engage exotic toe magic column";

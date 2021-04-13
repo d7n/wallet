@@ -1,1 +1,1 @@
-var mnemonic = "vote latin win ocean rail ship annual gym very carpet throw digital";
+var mnemonic = "torch year image neck advance amused code rotate raccoon saddle absurd ecology";

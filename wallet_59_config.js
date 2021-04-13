@@ -1,1 +1,1 @@
-var mnemonic = "drop hundred poem pepper business cave system motion later saddle art wealth";
+var mnemonic = "govern dinner wide cake van achieve eyebrow patrol waste jar field occur";

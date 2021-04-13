@@ -1,1 +1,1 @@
-var mnemonic = "depend shoe aware lawn sweet muffin plunge thought body erupt help urban";
+var mnemonic = "stumble open festival dream panel orbit update squeeze program scan effort ocean";

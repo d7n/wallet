@@ -1,1 +1,1 @@
-var mnemonic = "mesh better salon daring bitter machine seminar wrist giant pyramid monkey point";
+var mnemonic = "dizzy zone adjust nephew liquid exact siege educate lab nothing mass video";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty canal rich crunch sadness twice column dove arrange fault they siren";
+var mnemonic = "satoshi trap split special goose fee desk fox desk update filter risk";

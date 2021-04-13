@@ -1,1 +1,1 @@
-var mnemonic = "trim brand wide person castle whisper chapter city state love virtual despair";
+var mnemonic = "pull present into scan furnace rookie december measure muffin nothing effort grunt";

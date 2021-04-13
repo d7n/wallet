@@ -1,1 +1,1 @@
-var mnemonic = "uphold chalk crush error patient airport category tree cradle egg sting hurdle";
+var mnemonic = "party shock vacuum speed public broom off sound machine behind wheel maid";

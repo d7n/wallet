@@ -1,1 +1,1 @@
-var mnemonic = "autumn leisure hand vapor guilt cigar slam keen shy grief vast nature";
+var mnemonic = "retire razor produce provide luxury diesel jewel kid able lottery pen sheriff";

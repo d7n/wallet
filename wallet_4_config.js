@@ -1,1 +1,1 @@
-var mnemonic = "chicken ecology erosion vintage ordinary ghost already motion alert citizen critic staff";
+var mnemonic = "rebel wise uphold script mail thing gloom observe apart sign sunset program";

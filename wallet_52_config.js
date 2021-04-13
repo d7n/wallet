@@ -1,1 +1,1 @@
-var mnemonic = "filter pig inherit install midnight deer network perfect secret pony fresh gorilla";
+var mnemonic = "prefer topple harsh surround poet glory lady trial uphold peanut ring vocal";

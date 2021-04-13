@@ -1,1 +1,1 @@
-var mnemonic = "furnace link mango wire release web shiver chief real month wedding limit";
+var mnemonic = "eyebrow enact outside afraid salmon radio rent moment dynamic upgrade worry blossom";

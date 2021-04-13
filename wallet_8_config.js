@@ -1,1 +1,1 @@
-var mnemonic = "picnic tooth powder celery scan hour tuna wear wealth topic adult pair";
+var mnemonic = "drift myth daughter broccoli reject hamster detect remain employ canoe art amateur";

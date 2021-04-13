@@ -1,1 +1,1 @@
-var mnemonic = "absurd impulse tail stick liquid kind state people omit inch pride turtle";
+var mnemonic = "over radar iron august alley labor shock project egg cross smooth hair";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse always image hawk pill spell rigid uncle tattoo noodle capital decorate";
+var mnemonic = "session allow labor actual private ribbon army burst bachelor discover acquire tube";

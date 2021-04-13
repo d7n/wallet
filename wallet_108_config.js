@@ -1,1 +1,1 @@
-var mnemonic = "voice history adapt pulp tired hunt cereal hidden canal mansion ecology help";
+var mnemonic = "visit scrap pull subway mansion gate electric stage surround program wool embrace";

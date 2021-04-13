@@ -1,1 +1,1 @@
-var mnemonic = "home expand monster repeat crush once visit zoo type provide fiber birth";
+var mnemonic = "swift rice blast script claim obvious spare worry artefact figure emerge describe";

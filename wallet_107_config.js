@@ -1,1 +1,1 @@
-var mnemonic = "useful possible punch delay nation unaware ostrich holiday frame solution awkward stage";
+var mnemonic = "pulse gossip harbor banner stool concert truth slam squeeze leisure decade mammal";

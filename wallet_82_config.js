@@ -1,1 +1,1 @@
-var mnemonic = "unusual hand start cloud element measure patient tired position stool antique truck";
+var mnemonic = "aisle grace next pitch story hub try fox swim another prepare kite";

@@ -1,1 +1,1 @@
-var mnemonic = "festival faith reflect they gap boy awkward meadow jazz life rescue toast";
+var mnemonic = "tongue forget grow fiction stool axis humor cabin myself rubber december fish";

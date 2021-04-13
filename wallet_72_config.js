@@ -1,1 +1,1 @@
-var mnemonic = "there flavor age else noise basket scatter enter language champion oyster hunt";
+var mnemonic = "evidence crush veteran helmet toward print lizard fold coil twelve party column";

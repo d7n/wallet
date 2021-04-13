@@ -1,1 +1,1 @@
-var mnemonic = "flee lava later flock detect same choice now broken fire mercy weird";
+var mnemonic = "reveal sunny device solar taxi rice valve leisure expand pencil movie chronic";

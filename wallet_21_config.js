@@ -1,1 +1,1 @@
-var mnemonic = "canyon ski festival catch smile phrase close mesh entry city proud warrior";
+var mnemonic = "fiction hood plug media large pizza fat urban economy kick metal rebel";

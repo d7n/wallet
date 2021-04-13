@@ -1,1 +1,1 @@
-var mnemonic = "desert pizza impact country ivory mesh snow tumble dash ask paddle top";
+var mnemonic = "round humor throw half tree million olive tail next head humble oak";

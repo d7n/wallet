@@ -1,1 +1,1 @@
-var mnemonic = "noodle keen include sing shrug element gather cabbage measure spray orphan lounge";
+var mnemonic = "yard fancy warfare sweet crucial pelican drop confirm major unfair desert spike";

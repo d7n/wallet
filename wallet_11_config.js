@@ -1,1 +1,1 @@
-var mnemonic = "scare resource skin faith begin olympic embody urge hospital wild source truly";
+var mnemonic = "cherry convince possible husband stone ramp lottery author track goose game arrow";

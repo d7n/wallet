@@ -1,1 +1,1 @@
-var mnemonic = "squeeze hat magnet hello cover vast account where off permit satoshi track";
+var mnemonic = "hedgehog brand inmate sadness rescue warfare act sphere nephew jaguar slow tuna";

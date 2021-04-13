@@ -1,1 +1,1 @@
-var mnemonic = "gossip pulp mind knock helmet start nasty sponsor fox someone shallow post";
+var mnemonic = "render material nation face debris soup town install life believe verify wash";

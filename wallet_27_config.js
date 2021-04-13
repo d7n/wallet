@@ -1,1 +1,1 @@
-var mnemonic = "traffic give spoil grow sail shock bid car garlic side reform differ";
+var mnemonic = "cry half member welcome begin arena real plastic among verify cook advice";

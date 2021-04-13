@@ -1,1 +1,1 @@
-var mnemonic = "upset diary tribe december foot debate buyer lounge swamp rigid weasel chunk";
+var mnemonic = "alone miracle crush drop risk rule hazard eye impact involve return volcano";

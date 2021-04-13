@@ -1,1 +1,1 @@
-var mnemonic = "domain kiwi balcony reopen hammer cupboard there mind tobacco elevator slow snow";
+var mnemonic = "fog depart copy swear sign assault flat key merry picnic rose broccoli";

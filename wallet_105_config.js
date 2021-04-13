@@ -1,1 +1,1 @@
-var mnemonic = "enable gown number morning soon vocal oxygen dash tenant rebuild funny fog";
+var mnemonic = "intact three brass couple hollow embrace voice toast margin link suffer bubble";

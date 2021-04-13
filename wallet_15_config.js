@@ -1,1 +1,1 @@
-var mnemonic = "general glare decline slender tragic crane layer rural quality erupt tobacco flower";
+var mnemonic = "game humble slender enemy hurt depth service flavor mimic chat general federal";

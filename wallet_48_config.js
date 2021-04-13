@@ -1,1 +1,1 @@
-var mnemonic = "stick slam diet bomb disagree bird defense hollow celery taxi medal benefit";
+var mnemonic = "satoshi infant inform just balance play math thank arch night leg health";

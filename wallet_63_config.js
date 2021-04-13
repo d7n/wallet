@@ -1,1 +1,1 @@
-var mnemonic = "pupil puppy exclude area tide screen outer day rough tumble benefit mention";
+var mnemonic = "elegant trick smooth pluck theme vast room shiver fitness vessel robot immense";

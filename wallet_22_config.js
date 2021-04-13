@@ -1,1 +1,1 @@
-var mnemonic = "goat example skirt rate minute garbage champion hip exchange until engine inch";
+var mnemonic = "pause glory degree glare common apple near assist switch goat isolate kiss";

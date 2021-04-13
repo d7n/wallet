@@ -1,1 +1,1 @@
-var mnemonic = "sleep verb wire sunset arrest hundred truth staff decline predict submit craft";
+var mnemonic = "wagon glimpse oil stay vibrant innocent praise midnight shrimp squirrel daughter object";

@@ -1,1 +1,1 @@
-var mnemonic = "proud hub payment core disagree say match direct display dentist cricket require";
+var mnemonic = "toward wagon now torch seat glory rude indicate inherit shield auction sign";

@@ -1,1 +1,1 @@
-var mnemonic = "chest salmon benefit embrace replace asthma outdoor release quick chronic axis guilt";
+var mnemonic = "object inside sell victory develop person exercise drip spy usage meadow pipe";

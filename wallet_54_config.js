@@ -1,1 +1,1 @@
-var mnemonic = "elegant tooth cereal arrest caught surprise jaguar build talk human crack ramp";
+var mnemonic = "essence brisk cherry nerve medal sugar lion excite globe display dinosaur high";

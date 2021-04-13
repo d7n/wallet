@@ -1,1 +1,1 @@
-var mnemonic = "source spin nurse autumn organ vanish roof science fetch kiss enough auto";
+var mnemonic = "vital stadium buddy cloud wagon knife noble extra unable will orient load";

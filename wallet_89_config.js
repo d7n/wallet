@@ -1,1 +1,1 @@
-var mnemonic = "liquid typical camp layer feel police clock wagon matrix brown number syrup";
+var mnemonic = "until prosper tray upgrade coin pencil rally swim interest romance tank crunch";

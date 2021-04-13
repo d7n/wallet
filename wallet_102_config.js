@@ -1,1 +1,1 @@
-var mnemonic = "night mass rifle pilot museum space slogan medal dove floor spot license";
+var mnemonic = "follow stumble wonder broccoli huge bridge alpha album avocado approve october just";

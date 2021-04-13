@@ -1,1 +1,1 @@
-var mnemonic = "filter puzzle poverty wrong man immense unfold inside express sweet frozen ring";
+var mnemonic = "grief segment thumb veteran access slogan blood shop sad jaguar sentence slow";

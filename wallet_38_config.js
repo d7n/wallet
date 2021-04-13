@@ -1,1 +1,1 @@
-var mnemonic = "talk swap develop swim version luggage lady siren denial bronze vivid city";
+var mnemonic = "unusual useful radar toddler vast tribe dune search welcome mask guide verb";

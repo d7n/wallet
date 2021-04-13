@@ -1,1 +1,1 @@
-var mnemonic = "lunar tiny tortoise helmet chimney cost mix meadow glow orchard situate tennis";
+var mnemonic = "powder car system income caution peace squeeze width similar stairs client emerge";

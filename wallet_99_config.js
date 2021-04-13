@@ -1,1 +1,1 @@
-var mnemonic = "hover evil pencil harvest crucial ten wreck gun pitch budget fire network";
+var mnemonic = "arm robust melody veteran jewel typical episode pigeon genuine type bind involve";

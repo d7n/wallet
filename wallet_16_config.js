@@ -1,1 +1,1 @@
-var mnemonic = "artefact spike genuine box choose just input sadness venture quality merit miracle";
+var mnemonic = "strike maze before tiger order poet always tray retire tribe canvas orbit";

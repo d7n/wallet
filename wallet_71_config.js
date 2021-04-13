@@ -1,1 +1,1 @@
-var mnemonic = "busy vapor story trick clutch van luxury safe tiny frog rail ill";
+var mnemonic = "torch hen behave quiz easily section public load behave way meadow famous";

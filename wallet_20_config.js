@@ -1,1 +1,1 @@
-var mnemonic = "fortune fortune ticket dash census photo render catalog pulse trust paper melody";
+var mnemonic = "hood snack spatial make urge palm fox service airport nation patient chuckle";

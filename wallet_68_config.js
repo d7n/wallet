@@ -1,1 +1,1 @@
-var mnemonic = "advance relax render model home comfort cotton keen tenant dinosaur art asset";
+var mnemonic = "helmet shoulder they supply unhappy admit motion winter debris blind tray follow";

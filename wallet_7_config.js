@@ -1,1 +1,1 @@
-var mnemonic = "club monster shop mean afraid skill custom snow text salt shoulder powder";
+var mnemonic = "envelope dinosaur velvet lawsuit nuclear behave loop lion trial physical demise update";

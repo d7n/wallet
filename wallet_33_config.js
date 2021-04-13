@@ -1,1 +1,1 @@
-var mnemonic = "harbor put predict traffic kitchen fresh gift scorpion pudding actual notice coyote";
+var mnemonic = "bleak wrist own lady alien tobacco street coffee upset cup insect duty";

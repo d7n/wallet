@@ -1,1 +1,1 @@
-var mnemonic = "soon fitness ask ocean busy pipe oven educate visit table cheese wise";
+var mnemonic = "title check liar slab napkin ten mobile rapid husband little game prepare";

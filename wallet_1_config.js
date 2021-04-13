@@ -1,1 +1,1 @@
-var mnemonic = "live hollow reject cruise unknown depend great much globe acid unknown cycle";
+var mnemonic = "soup book rough donkey math plug stem across fit write buzz mom";

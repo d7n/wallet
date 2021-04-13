@@ -1,1 +1,1 @@
-var mnemonic = "brave that piano meat ready relief road cruise club shoot paper erase";
+var mnemonic = "bridge doll know parrot gun coffee elite winner curtain pluck phone grace";

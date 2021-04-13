@@ -1,1 +1,1 @@
-var mnemonic = "tower mechanic speak shine exchange trip expand lizard steel wolf pulp wrist";
+var mnemonic = "affair antenna tissue tumble caution wrestle wing pepper sand urge zero short";

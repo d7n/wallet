@@ -1,1 +1,1 @@
-var mnemonic = "casino skate fit clock gravity panic squirrel ask plate picture box myth";
+var mnemonic = "loan special strike shiver decrease hold yard crisp certain flame column chicken";

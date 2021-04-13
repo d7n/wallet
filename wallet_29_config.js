@@ -1,1 +1,1 @@
-var mnemonic = "series unveil shock shuffle six exclude decline island jar vapor when cargo";
+var mnemonic = "rare horse play object monster year extra air fall swift yellow consider";

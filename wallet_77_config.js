@@ -1,1 +1,1 @@
-var mnemonic = "proud laptop brush wide address issue spider head mystery animal flame select";
+var mnemonic = "north nature mandate waste hammer upset bike install awesome neither rich athlete";
