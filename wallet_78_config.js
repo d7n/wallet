@@ -1,1 +1,1 @@
-var mnemonic = "trip bunker wage success spend copy until cushion erosion salad deny feel";
+var mnemonic = "call tunnel rather kidney husband clutch innocent rack joke border velvet science";

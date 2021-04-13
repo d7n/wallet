@@ -1,1 +1,1 @@
-var mnemonic = "popular depend plug make trade club accuse tobacco burger fatal gun hour";
+var mnemonic = "thrive caught smooth drama level scheme okay unlock waste repair differ become";

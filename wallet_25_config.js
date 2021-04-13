@@ -1,1 +1,1 @@
-var mnemonic = "plastic royal flavor repair fame time manage cat crack clock puzzle winner";
+var mnemonic = "battle more drift battle unfair phrase genre also pizza muscle language super";

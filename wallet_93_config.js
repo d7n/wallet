@@ -1,1 +1,1 @@
-var mnemonic = "sphere fetch donate quick stage seven hawk puppy soda amateur price day";
+var mnemonic = "surge grass height sort ginger potato display object vibrant mask gravity transfer";

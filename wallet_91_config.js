@@ -1,1 +1,1 @@
-var mnemonic = "body require throw choice attract slender below core tray luggage grief fee";
+var mnemonic = "idle patient barely lend fashion father erode bag forget grid give uncle";

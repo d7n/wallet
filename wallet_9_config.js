@@ -1,1 +1,1 @@
-var mnemonic = "giraffe empty other cube shallow disagree frequent deliver mixture talk crumble roast";
+var mnemonic = "gun sleep lazy tackle never lift crane cool rent engage write top";

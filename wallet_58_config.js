@@ -1,1 +1,1 @@
-var mnemonic = "able taxi unable return auction blush uniform delay dog pattern often wonder";
+var mnemonic = "suit uncover blossom crisp merry employ dolphin feel evolve wrist traffic already";

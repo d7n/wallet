@@ -1,1 +1,1 @@
-var mnemonic = "twice universe this toss pause drum solution kite student cool zero casual";
+var mnemonic = "special father dream version artist target hybrid boost identify half photo since";

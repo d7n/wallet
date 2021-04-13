@@ -1,1 +1,1 @@
-var mnemonic = "reflect twist endless animal flat outside real stereo similar alone exhibit spare";
+var mnemonic = "ahead whisper diet possible moral volume lemon enact reward west minimum weapon";

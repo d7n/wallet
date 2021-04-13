@@ -1,1 +1,1 @@
-var mnemonic = "wisdom park black harsh water armed sniff purity husband taxi strong stadium";
+var mnemonic = "enhance rigid long tackle push jelly list tool tourist maid family large";

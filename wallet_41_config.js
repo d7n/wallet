@@ -1,1 +1,1 @@
-var mnemonic = "metal motion oven urge accident box dolphin annual age guilt silk error";
+var mnemonic = "unusual owner very tank state arrest mosquito benefit noise together human belt";

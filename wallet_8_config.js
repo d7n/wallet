@@ -1,1 +1,1 @@
-var mnemonic = "cloud urge bread foam opinion heavy potato major slender unknown damp coral";
+var mnemonic = "taste badge orbit solution drastic route curve discover voyage guide pizza hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "shine office express mimic age amount swing route denial liquid picnic wedding";
+var mnemonic = "appear sport depend era angry cactus future merge forget match script panel";

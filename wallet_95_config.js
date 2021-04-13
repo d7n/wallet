@@ -1,1 +1,1 @@
-var mnemonic = "where cabin boat silver album demise pride person simple virtual story diagram";
+var mnemonic = "around busy nature man replace dwarf chef image barely perfect bracket soup";

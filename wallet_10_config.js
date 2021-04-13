@@ -1,1 +1,1 @@
-var mnemonic = "crowd tongue shallow mechanic flame ability vivid siren twenty receive domain enable";
+var mnemonic = "glue rural panic around jump cup lunch praise humble base only rifle";

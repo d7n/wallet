@@ -1,1 +1,1 @@
-var mnemonic = "tortoise gap lawsuit seven kiwi wool test sorry zero write sign stuff";
+var mnemonic = "ankle when neutral park poet aim slim quality turkey liberty coach nurse";

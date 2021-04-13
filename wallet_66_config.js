@@ -1,1 +1,1 @@
-var mnemonic = "decline armed bullet young source multiply urge despair team voice icon dust";
+var mnemonic = "tribe honey borrow repair above blame stool chief announce fiction bargain assume";

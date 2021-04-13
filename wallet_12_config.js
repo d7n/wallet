@@ -1,1 +1,1 @@
-var mnemonic = "once enemy mother people identify ugly scatter garbage fiction baby galaxy fun";
+var mnemonic = "garage tray position expand differ motion asset nose reason ginger situate oval";

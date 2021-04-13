@@ -1,1 +1,1 @@
-var mnemonic = "dilemma bacon jazz solid nice people spirit trust oxygen ill hurry cage";
+var mnemonic = "winner upon glass squirrel able manage that lunar chronic discover recipe quality";

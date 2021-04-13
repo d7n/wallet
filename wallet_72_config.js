@@ -1,1 +1,1 @@
-var mnemonic = "again shoot collect fly stable decline wing finger tortoise doll prosper column";
+var mnemonic = "wrap tennis deputy six area alien duty excite ask surprise quick goddess";

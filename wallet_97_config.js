@@ -1,1 +1,1 @@
-var mnemonic = "lazy step bone man entire coin acoustic soda honey dose donkey problem";
+var mnemonic = "dizzy baby trial old chimney length rifle hurt cricket eager tank ready";

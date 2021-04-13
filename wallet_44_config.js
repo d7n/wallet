@@ -1,1 +1,1 @@
-var mnemonic = "bus defense wing soldier ivory subject giant cherry title sting penalty tortoise";
+var mnemonic = "erase lyrics spoon pipe melody stage subject buzz gasp kidney six resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "science current gift parade cruel ripple always push juice essay cactus warm";
+var mnemonic = "witness mammal guess impulse matter lobster decline very vital amount have salad";

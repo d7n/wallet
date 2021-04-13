@@ -1,1 +1,1 @@
-var mnemonic = "side sea near melody card cover pizza deliver steak human target wreck";
+var mnemonic = "nation floor news spin salute refuse mercy define will flat industry turn";

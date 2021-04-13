@@ -1,1 +1,1 @@
-var mnemonic = "company venture trend hospital tent merry ball cousin donate popular cool excite";
+var mnemonic = "over fossil odor reopen forum balance rude culture endless absorb speak dismiss";

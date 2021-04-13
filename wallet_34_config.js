@@ -1,1 +1,1 @@
-var mnemonic = "shiver seek assault junior canyon project razor arm invest forget grid network";
+var mnemonic = "left destroy rigid win yard inspire include speak kidney craft arch merge";

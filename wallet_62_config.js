@@ -1,1 +1,1 @@
-var mnemonic = "indoor heavy peanut pill fabric credit pond state pottery biology giant rally";
+var mnemonic = "vacant voyage minimum already sudden adult merge reduce arctic method orphan silver";

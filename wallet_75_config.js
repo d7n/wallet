@@ -1,1 +1,1 @@
-var mnemonic = "wage sea shuffle hawk burger scissors wine appear exotic hint weather hidden";
+var mnemonic = "winner alert safe crisp water suggest artist actual trip edit social health";

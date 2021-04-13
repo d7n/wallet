@@ -1,1 +1,1 @@
-var mnemonic = "pole carpet rather lesson stem inmate one dry elegant circle march tragic";
+var mnemonic = "earth bracket mobile donate syrup delay aisle frog dice script embody what";

@@ -1,1 +1,1 @@
-var mnemonic = "menu pull pull trigger taxi scatter enemy ridge fit crucial sword useful";
+var mnemonic = "swear end weekend lyrics result wrong office visual betray agree panda survey";

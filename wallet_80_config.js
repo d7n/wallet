@@ -1,1 +1,1 @@
-var mnemonic = "harvest foot cost fitness cool utility client abuse auction grow wife verb";
+var mnemonic = "kind smooth misery success oak bring chicken depend dilemma disagree mix easily";

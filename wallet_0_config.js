@@ -1,1 +1,1 @@
-var mnemonic = "actress inject cactus trim world inhale file pepper harvest marriage space better";
+var mnemonic = "business physical unhappy worry harvest hurry police dream primary height mouse solve";

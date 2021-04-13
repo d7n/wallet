@@ -1,1 +1,1 @@
-var mnemonic = "kidney vacant slab require wall globe beyond notice parrot lumber throw phone";
+var mnemonic = "snake attack swift unhappy advice aware legal primary cabbage police satoshi category";

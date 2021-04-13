@@ -1,1 +1,1 @@
-var mnemonic = "truck flame way carry maid minimum uphold mountain fiber order affair captain";
+var mnemonic = "vessel lend hedgehog rude face media output bone salon diagram alcohol ring";

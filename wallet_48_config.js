@@ -1,1 +1,1 @@
-var mnemonic = "else truly merry add dose circle illegal skate dad end drive sleep";
+var mnemonic = "chase cliff buzz candy slot garment until sketch hundred empty public slender";

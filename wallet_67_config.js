@@ -1,1 +1,1 @@
-var mnemonic = "imitate embrace bread bar fence amount donkey weird laptop danger dance gloom";
+var mnemonic = "caution borrow loyal point topic tiny junior august rebel please abuse bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "swap tiny rug differ diet cycle tuition bamboo record when bargain noise";
+var mnemonic = "betray shock genuine bird robot boil train ring announce flip foot will";

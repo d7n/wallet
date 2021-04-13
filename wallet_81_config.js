@@ -1,1 +1,1 @@
-var mnemonic = "wing pyramid jacket prevent current village injury change arrange female radar dune";
+var mnemonic = "walk practice truly slot crazy dutch skate amused moment myth master analyst";

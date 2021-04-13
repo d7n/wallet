@@ -1,1 +1,1 @@
-var mnemonic = "foot fit else mail rigid sheriff erosion duty broken hybrid insect jar";
+var mnemonic = "return rely tower someone rack attitude injury old pet trophy evidence insane";

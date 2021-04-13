@@ -1,1 +1,1 @@
-var mnemonic = "vacuum idle victory bind stay swap act slender hidden reason rain dignity";
+var mnemonic = "life illness fire umbrella hawk input ocean lion shoot slush inform picture";

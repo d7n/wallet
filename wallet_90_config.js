@@ -1,1 +1,1 @@
-var mnemonic = "volcano water choose zoo enhance silk cave dish yard gaze ketchup wink";
+var mnemonic = "tail one blade regret robust guess long between reward gauge draw blame";

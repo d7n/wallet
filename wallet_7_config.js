@@ -1,1 +1,1 @@
-var mnemonic = "shock tail crucial tonight crucial virus spike humor choice series sound egg";
+var mnemonic = "truth never add account warrior remove laundry reason purity desk train raw";

@@ -1,1 +1,1 @@
-var mnemonic = "brush mutual raven cover pride initial steel vague accuse wealth ocean pole";
+var mnemonic = "stone rapid fever exhaust wheel cabbage lazy setup unlock market subway food";

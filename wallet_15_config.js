@@ -1,1 +1,1 @@
-var mnemonic = "caution pact buyer unfair employ scissors crumble lounge net voice basic swear";
+var mnemonic = "game about announce finish dial milk bid fiber clap decade alien short";

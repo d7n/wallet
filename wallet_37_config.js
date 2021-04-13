@@ -1,1 +1,1 @@
-var mnemonic = "net neither page token paddle hybrid ancient salt isolate panda entire clap";
+var mnemonic = "access drill escape mass zebra awesome cactus away rent wire hire vacuum";

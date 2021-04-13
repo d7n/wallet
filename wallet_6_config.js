@@ -1,1 +1,1 @@
-var mnemonic = "betray whip another shiver attack airport like upgrade suffer burst future hair";
+var mnemonic = "junk author box rice rule exotic ordinary skin furnace mimic orange only";

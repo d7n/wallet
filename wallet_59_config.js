@@ -1,1 +1,1 @@
-var mnemonic = "knock shock virus always guide material skate live unique gospel fault crane";
+var mnemonic = "level bottom run machine honey erode bind danger couch input food error";

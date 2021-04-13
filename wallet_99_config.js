@@ -1,1 +1,1 @@
-var mnemonic = "spell member junior clip movie record blast unknown slide obvious slight winter";
+var mnemonic = "theory maximum clip scout discover enact tube debris lecture item whisper child";

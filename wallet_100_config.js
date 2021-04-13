@@ -1,1 +1,1 @@
-var mnemonic = "bounce knife scare false menu toe phone monkey valley verify delay earn";
+var mnemonic = "police merge oil inspire brother involve engine cruel admit position antenna gloom";

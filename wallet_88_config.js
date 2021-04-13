@@ -1,1 +1,1 @@
-var mnemonic = "bonus adult come combine film crouch dutch fly try embody summer noble";
+var mnemonic = "large royal text segment one deposit police ring uphold parade draft daring";

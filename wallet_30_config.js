@@ -1,1 +1,1 @@
-var mnemonic = "never brown rug lucky actor dial orphan angle joke sample nothing rebuild";
+var mnemonic = "drip rough emerge drama donor humor pig muscle upgrade build actor alert";

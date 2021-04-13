@@ -1,1 +1,1 @@
-var mnemonic = "clown before mention between uphold river game message bind jeans umbrella expand";
+var mnemonic = "tuna seven alert neutral fee current friend aunt talk grab large toddler";

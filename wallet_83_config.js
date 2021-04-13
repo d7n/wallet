@@ -1,1 +1,1 @@
-var mnemonic = "remove harbor front ladder grief miss romance lazy liar october pledge nice";
+var mnemonic = "tennis lamp oyster have reduce border cricket goat child film stone police";

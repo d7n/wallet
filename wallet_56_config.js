@@ -1,1 +1,1 @@
-var mnemonic = "salute harsh hole upgrade harbor dry six smile inherit oblige source return";
+var mnemonic = "divide sail fiction village cruel finger certain seed submit ancient true increase";

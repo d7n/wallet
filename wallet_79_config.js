@@ -1,1 +1,1 @@
-var mnemonic = "speak club midnight force bean cabbage suggest repeat worth toy pipe worry";
+var mnemonic = "primary order trim ball wave find dragon fruit cargo mean broccoli recycle";

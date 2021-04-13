@@ -1,1 +1,1 @@
-var mnemonic = "clock narrow vehicle soldier arctic sense best paddle sense unknown unknown open";
+var mnemonic = "ecology dwarf domain layer modify cabbage airport matter divorce treat detect sugar";

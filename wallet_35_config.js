@@ -1,1 +1,1 @@
-var mnemonic = "into sick brain circle mountain soldier tenant edge huge engage device better";
+var mnemonic = "over manual divide medal road deer bunker property tag wet spray copper";

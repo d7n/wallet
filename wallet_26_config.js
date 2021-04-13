@@ -1,1 +1,1 @@
-var mnemonic = "name reduce clown rib address hockey trophy mosquito into notice strategy salute";
+var mnemonic = "fluid dream squeeze hockey lend inner shine canvas fragile rocket judge eight";

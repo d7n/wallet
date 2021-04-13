@@ -1,1 +1,1 @@
-var mnemonic = "coach hurt air record young enroll knee clean quality crop veteran sand";
+var mnemonic = "accuse cook truly piece lava trust pony gas shock flag select foam";

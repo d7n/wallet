@@ -1,1 +1,1 @@
-var mnemonic = "uncover elevator inflict cluster damage expect disagree question minute grocery acquire cat";
+var mnemonic = "trend super brisk leave orbit code behind curtain antenna million best speed";

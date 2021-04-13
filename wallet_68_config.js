@@ -1,1 +1,1 @@
-var mnemonic = "annual hedgehog account charge ring bench defy plate slender ordinary outdoor weasel";
+var mnemonic = "jacket boat cattle develop leaf heart reform bleak bring squeeze exercise aisle";

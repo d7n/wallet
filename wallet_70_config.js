@@ -1,1 +1,1 @@
-var mnemonic = "group cereal ramp heart hospital logic tent fox detect fall flag tiger";
+var mnemonic = "visit foster suit regret attract diagram morning lumber help muffin clinic palm";

@@ -1,1 +1,1 @@
-var mnemonic = "modify chicken advice inflict tourist sort document draw draw about leaf rude";
+var mnemonic = "infant bulk strike aisle give lift involve come turtle common unveil inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet roof maze amateur destroy certain valid rotate rural exercise hen document";
+var mnemonic = "sauce order shy caution vintage grant three finger smart harbor cute cake";

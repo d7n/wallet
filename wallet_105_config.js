@@ -1,1 +1,1 @@
-var mnemonic = "salmon smart caution polar inmate caution valve foot vacuum critic desert quantum";
+var mnemonic = "holiday duck diet game square reason patch puzzle lecture winter quick transfer";

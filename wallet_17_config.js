@@ -1,1 +1,1 @@
-var mnemonic = "kidney spend valid heavy medal visa all offer logic bleak drum monkey";
+var mnemonic = "east vapor dad reform alien season hand license reflect giant owner kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "describe neglect dream please produce allow chunk frequent warfare gym tuna glass";
+var mnemonic = "security guitar treat repeat biology involve unlock lumber step deny device cherry";

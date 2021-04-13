@@ -1,1 +1,1 @@
-var mnemonic = "note found top young pelican stone option month now repair require fluid";
+var mnemonic = "crop occur fury avocado account virtual trip tag basket field canyon loan";

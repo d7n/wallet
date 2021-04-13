@@ -1,1 +1,1 @@
-var mnemonic = "genre dwarf where cotton child plunge clap credit patch foam version choice";
+var mnemonic = "combine resemble expire roast soldier mutual alien impose zoo stadium tape vacuum";

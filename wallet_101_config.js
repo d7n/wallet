@@ -1,1 +1,1 @@
-var mnemonic = "panther reopen mistake olive popular galaxy hobby winner hand motion frequent conduct";
+var mnemonic = "volcano electric prepare insane rug copy panda kid rather silk extra believe";

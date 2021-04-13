@@ -1,1 +1,1 @@
-var mnemonic = "guess priority crew inch pluck reduce garment atom cupboard gas wet frequent";
+var mnemonic = "section donate anxiety hedgehog manual innocent stem attitude enrich brush amused swamp";

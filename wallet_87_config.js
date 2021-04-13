@@ -1,1 +1,1 @@
-var mnemonic = "happy arena promote fruit sample impulse promote latin arctic glue green squeeze";
+var mnemonic = "sea seminar evidence little hockey stove royal chief crawl night zoo pig";

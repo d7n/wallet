@@ -1,1 +1,1 @@
-var mnemonic = "pet cat rubber eye measure stay cross ritual antique rookie rose rude";
+var mnemonic = "sound reward what gravity economy brother name prison picnic aunt when lyrics";

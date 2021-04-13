@@ -1,1 +1,1 @@
-var mnemonic = "cousin child motor trick girl roast crystal math nut guide record camp";
+var mnemonic = "burst foot rebel mystery orient corn bone peace asthma side during electric";

@@ -1,1 +1,1 @@
-var mnemonic = "melody father cloth deer design can manage ostrich grunt life modify garage";
+var mnemonic = "sail scare carbon auto crisp slight female ivory swift silly rent decline";

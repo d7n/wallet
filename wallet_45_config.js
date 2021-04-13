@@ -1,1 +1,1 @@
-var mnemonic = "draft where share trick distance large bicycle slight ice denial turtle kick";
+var mnemonic = "sell warrior friend sleep captain page fruit rate unusual night resource bone";

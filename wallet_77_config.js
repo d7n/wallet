@@ -1,1 +1,1 @@
-var mnemonic = "tower person rug trouble grass save audit clip riot rail foster cement";
+var mnemonic = "cart open escape lawn behave pill public bundle lens slice artefact forget";

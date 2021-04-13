@@ -1,1 +1,1 @@
-var mnemonic = "heart choose road faith tomorrow exchange tired eagle kingdom dog hole music";
+var mnemonic = "sick fluid earth hamster wool pool spare twin behave save knock input";

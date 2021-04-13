@@ -1,1 +1,1 @@
-var mnemonic = "much exercise wonder motion insect law energy matter acid swap term image";
+var mnemonic = "essence grunt access broom ski pill wool pioneer coral tuition dumb circle";

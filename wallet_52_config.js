@@ -1,1 +1,1 @@
-var mnemonic = "sauce usual usage inquiry special essence soup total staff short palace stumble";
+var mnemonic = "renew delay cliff once calm cable lyrics dune toilet holiday spot response";

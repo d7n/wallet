@@ -1,1 +1,1 @@
-var mnemonic = "letter zone custom wheel reward enrich oval fault original immune describe reunion";
+var mnemonic = "fruit blind rack moment verify nerve basket column cram program will property";

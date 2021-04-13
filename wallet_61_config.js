@@ -1,1 +1,1 @@
-var mnemonic = "whip oven student polar disease provide guilt swim vessel promote degree coconut";
+var mnemonic = "parent still walk trust wife traffic tape evidence umbrella very someone raw";

@@ -1,1 +1,1 @@
-var mnemonic = "recall over reason minute gorilla economy tape program cattle slow april glimpse";
+var mnemonic = "snow measure penalty detail spend random pluck loyal conduct basket armed symbol";

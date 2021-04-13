@@ -1,1 +1,1 @@
-var mnemonic = "slogan slow absurd produce quote spend inquiry system copy pen upgrade direct";
+var mnemonic = "cliff point purity smoke abuse virtual butter brief below poem runway cage";

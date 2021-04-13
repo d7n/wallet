@@ -1,1 +1,1 @@
-var mnemonic = "urban armor journey hire lift buzz sleep enrich treat various enable depend";
+var mnemonic = "glove luggage grunt kangaroo enrich strong apple squeeze witness poverty regular inch";

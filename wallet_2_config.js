@@ -1,1 +1,1 @@
-var mnemonic = "emotion abstract load afford end concert glow advance range logic nice dose";
+var mnemonic = "farm nothing bright blade dove reunion spy walk public lazy input smooth";

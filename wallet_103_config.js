@@ -1,1 +1,1 @@
-var mnemonic = "give neither item profit bean clog shiver fun agent very piano track";
+var mnemonic = "spare senior solution stone inquiry silk galaxy airport silk net lion hawk";
