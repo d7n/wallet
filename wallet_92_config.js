@@ -1,1 +1,1 @@
-var mnemonic = "stool brand auction monkey detail obey mansion stuff order valve rain rapid";
+var mnemonic = "include slush rough pull sad polar glimpse trust loan document advance move";

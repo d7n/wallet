@@ -1,1 +1,1 @@
-var mnemonic = "fat peanut clip patch half husband fury punch floor suspect snake insect";
+var mnemonic = "shift sauce nose luxury answer copy cash orphan soda adult solid consider";

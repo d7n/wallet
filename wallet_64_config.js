@@ -1,1 +1,1 @@
-var mnemonic = "region car ghost promote fashion series belt brass figure carbon vague problem";
+var mnemonic = "priority dutch square cabin loop project oxygen pluck squeeze warm sudden type";

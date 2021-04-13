@@ -1,1 +1,1 @@
-var mnemonic = "amazing egg various wish diet stay soup usage gospel grief endorse honey";
+var mnemonic = "reject grab metal funny this ivory park ensure exclude minute satoshi arrest";

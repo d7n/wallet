@@ -1,1 +1,1 @@
-var mnemonic = "online spring fish analyst drive thing list panel gossip tent act sock";
+var mnemonic = "renew behave scrub ignore season net into script seat board tongue smooth";

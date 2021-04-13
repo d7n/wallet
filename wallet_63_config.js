@@ -1,1 +1,1 @@
-var mnemonic = "hold toilet keen nephew police essence bright idle hybrid true wrestle cook";
+var mnemonic = "super tunnel canvas rocket flight oyster dwarf noble account energy response fee";

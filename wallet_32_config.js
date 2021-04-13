@@ -1,1 +1,1 @@
-var mnemonic = "brisk run bomb wet vehicle smart rocket setup core mean two oyster";
+var mnemonic = "treat shaft tumble sunset miss find initial scrap stuff crash foam type";

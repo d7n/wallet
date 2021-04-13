@@ -1,1 +1,1 @@
-var mnemonic = "wagon awkward mix still inner various secret stone shrug juice act tail";
+var mnemonic = "trigger blast visit luggage rain axis palm act path usage math reveal";

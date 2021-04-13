@@ -1,1 +1,1 @@
-var mnemonic = "assault legend brother later cliff wave mad garden discover taste deputy pupil";
+var mnemonic = "minimum census suggest desert expand glue talk gorilla siege grocery priority sight";

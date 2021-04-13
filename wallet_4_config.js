@@ -1,1 +1,1 @@
-var mnemonic = "dream orchard fringe soft select lab farm thought hood sun salad sick";
+var mnemonic = "drift cactus cube frozen sorry under garage segment cherry forest load convince";

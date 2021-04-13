@@ -1,1 +1,1 @@
-var mnemonic = "lamp crazy fault orphan remain eye avoid angle garbage live solve submit";
+var mnemonic = "place post drink burden bridge spoil speed ceiling phrase saddle vintage almost";

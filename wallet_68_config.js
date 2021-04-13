@@ -1,1 +1,1 @@
-var mnemonic = "usage worry actor romance energy just income miss parent crisp kitten bag";
+var mnemonic = "cherry bounce valve stone choice install crazy rack picture fruit rookie design";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise clown social judge above flee mixed frame caution pink shock net";
+var mnemonic = "expand gospel apart design globe furnace blur yellow test drum hybrid audit";

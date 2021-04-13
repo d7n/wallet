@@ -1,1 +1,1 @@
-var mnemonic = "couple isolate rib melt creek message tennis safe word rapid family impose";
+var mnemonic = "update wage rib faint manage fringe position gift habit heart timber unaware";

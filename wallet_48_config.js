@@ -1,1 +1,1 @@
-var mnemonic = "soft equip jeans april brick update what ritual hotel paper renew exhibit";
+var mnemonic = "merry whip pipe mirror fly edge major road acoustic exercise echo volume";

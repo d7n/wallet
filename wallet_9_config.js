@@ -1,1 +1,1 @@
-var mnemonic = "timber indoor world monitor cart odor puzzle hood bamboo pulp evil result";
+var mnemonic = "carry blanket snack side slam idea volcano town whale bench fix sock";

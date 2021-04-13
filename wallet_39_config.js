@@ -1,1 +1,1 @@
-var mnemonic = "surprise decade flight once alone world grace where flavor hero scout way";
+var mnemonic = "abandon sting stage mango habit melody imitate loyal dune matter idea begin";

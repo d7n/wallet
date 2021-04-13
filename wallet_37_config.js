@@ -1,1 +1,1 @@
-var mnemonic = "illegal library mountain degree fat twin dawn shell sustain genre submit stove";
+var mnemonic = "exercise maze domain live ready test indoor glass chronic cross van poem";

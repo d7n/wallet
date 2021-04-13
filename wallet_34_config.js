@@ -1,1 +1,1 @@
-var mnemonic = "doctor reason explain boring discover cupboard sibling buyer prize demand arch draw";
+var mnemonic = "bubble spawn thrive pink amateur harbor snap say always laugh express deputy";

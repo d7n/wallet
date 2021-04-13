@@ -1,1 +1,1 @@
-var mnemonic = "festival fat army surge embody bomb rural gun napkin nephew leader enact";
+var mnemonic = "today gas that brother clerk urban heart history today force caution maximum";

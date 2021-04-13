@@ -1,1 +1,1 @@
-var mnemonic = "slush punch eagle move wire gas viable clerk tornado bargain found long";
+var mnemonic = "phrase cancel hope buddy bike enlist energy rose pride pull cruise city";

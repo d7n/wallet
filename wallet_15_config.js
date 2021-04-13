@@ -1,1 +1,1 @@
-var mnemonic = "drum source discover tail vacant ozone midnight trick spot myth gun oyster";
+var mnemonic = "ignore gorilla guilt all provide stable cable rhythm car useful order program";

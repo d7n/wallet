@@ -1,1 +1,1 @@
-var mnemonic = "inner cannon fatal useful eight lend indoor sort situate radio online write";
+var mnemonic = "original post wage current author surround dismiss beyond pride green hidden address";

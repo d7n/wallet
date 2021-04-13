@@ -1,1 +1,1 @@
-var mnemonic = "donate teach net such crisp letter sorry decline business brick forum poem";
+var mnemonic = "tissue arena tomorrow ethics cheap barrel save category when always trim unfold";

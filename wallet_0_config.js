@@ -1,1 +1,1 @@
-var mnemonic = "evil square frame corn predict uncle amount lab song useful inhale pudding";
+var mnemonic = "amazing cactus month acquire tree leopard pledge double obey mistake share reason";

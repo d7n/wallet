@@ -1,1 +1,1 @@
-var mnemonic = "moral shoulder poem choice frog retreat stand mask autumn light cabin action";
+var mnemonic = "million time stairs taxi region chase inflict inmate race suffer alien vault";

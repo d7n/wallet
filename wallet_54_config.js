@@ -1,1 +1,1 @@
-var mnemonic = "chronic fitness alter involve despair orphan lamp pistol tenant unknown alley fiber";
+var mnemonic = "bachelor unique crumble release turtle tribe elder recipe satisfy salmon purpose mule";

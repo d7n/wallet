@@ -1,1 +1,1 @@
-var mnemonic = "script hen swarm steak crop chase cherry own universe offer bounce annual";
+var mnemonic = "add cycle drop juice mystery midnight punch usual kitten pet neutral radio";

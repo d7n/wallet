@@ -1,1 +1,1 @@
-var mnemonic = "odor blame suspect genius chimney sketch melody online effort lab scene quantum";
+var mnemonic = "project pretty maple april spell core fetch crisp vague course laundry dolphin";

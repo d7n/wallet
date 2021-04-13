@@ -1,1 +1,1 @@
-var mnemonic = "primary flash diary air other voice brick run subject host siege olympic";
+var mnemonic = "once world emerge elite clever scorpion void level hurdle saddle speed attract";

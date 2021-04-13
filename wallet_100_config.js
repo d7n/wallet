@@ -1,1 +1,1 @@
-var mnemonic = "power cheese obtain chest impose neither pig lounge wire desk coral oblige";
+var mnemonic = "gym forward clog patrol output rotate whisper oil guilt other mandate fatal";

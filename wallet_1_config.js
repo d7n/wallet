@@ -1,1 +1,1 @@
-var mnemonic = "rice frown mercy shadow absorb spoil box oxygen faint relax network control";
+var mnemonic = "reflect unlock nice cage heavy process happy ritual elegant eyebrow grass naive";

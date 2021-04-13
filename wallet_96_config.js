@@ -1,1 +1,1 @@
-var mnemonic = "pass pony special lyrics gown shiver square pool melt pumpkin public weird";
+var mnemonic = "wheel cross midnight pear rely tenant series party plunge double evoke flee";

@@ -1,1 +1,1 @@
-var mnemonic = "alien pretty powder fruit cliff expect produce hazard usage ecology slush chimney";
+var mnemonic = "ribbon input large help more accuse merge business erosion pattern alley attend";

@@ -1,1 +1,1 @@
-var mnemonic = "render lawsuit suit bamboo dish subway page business announce fog quality excite";
+var mnemonic = "light wedding settle tenant define social across action bind quiz derive glimpse";

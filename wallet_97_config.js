@@ -1,1 +1,1 @@
-var mnemonic = "purse witness chief deer unveil boring guilt sand flag wing gate kangaroo";
+var mnemonic = "february economy vanish stay path viable tiny ability embody ski public follow";

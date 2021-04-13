@@ -1,1 +1,1 @@
-var mnemonic = "stadium common dune extend slide charge brave grit essay casino expire two";
+var mnemonic = "actor rally paddle syrup much spray nasty earth devote voyage mushroom remember";

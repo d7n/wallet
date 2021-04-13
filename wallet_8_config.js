@@ -1,1 +1,1 @@
-var mnemonic = "mask open good attend eternal snap soon essay half enact nest entry";
+var mnemonic = "misery strong moral ensure piano proof satisfy employ screen smooth churn wolf";

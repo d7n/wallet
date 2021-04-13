@@ -1,1 +1,1 @@
-var mnemonic = "enact suffer street pole time pretty post junk hole still ginger spray";
+var mnemonic = "still choice curious ribbon lens hawk front cart decide assume scare kitten";

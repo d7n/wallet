@@ -1,1 +1,1 @@
-var mnemonic = "multiply solution can move whale wise grape library verify move pulse army";
+var mnemonic = "roast actor slim normal seek grant farm physical fox ski stick energy";

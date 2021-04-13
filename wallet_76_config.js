@@ -1,1 +1,1 @@
-var mnemonic = "keen rigid edge double chaos muffin reform patient push treat book shiver";
+var mnemonic = "bus material maple swap coyote siege usage mirror large hamster connect juice";

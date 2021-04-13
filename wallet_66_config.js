@@ -1,1 +1,1 @@
-var mnemonic = "broom atom aerobic concert ship double measure suit unique spawn cactus stable";
+var mnemonic = "crack hero video bonus armor focus flat armed foam cactus type outside";

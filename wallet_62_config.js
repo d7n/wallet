@@ -1,1 +1,1 @@
-var mnemonic = "shoot secret tube over tube damp zebra dash vivid term square visa";
+var mnemonic = "damage plate basic rely bird march canal add flame language ozone sight";

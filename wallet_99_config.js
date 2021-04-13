@@ -1,1 +1,1 @@
-var mnemonic = "describe evolve sing cave juice barrel acoustic curious dream lazy govern drama";
+var mnemonic = "stand focus ten ceiling inquiry dentist neutral coconut size broom infant arena";

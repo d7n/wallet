@@ -1,1 +1,1 @@
-var mnemonic = "then jeans book alcohol face teach hat possible rose draw three mouse";
+var mnemonic = "nut cliff trigger evolve wave cargo animal bread ghost claim mask flash";

@@ -1,1 +1,1 @@
-var mnemonic = "letter purity cigar antenna carbon slush eternal comic illegal script gate giggle";
+var mnemonic = "ivory come lock comic stable dose october pond obey welcome north horror";

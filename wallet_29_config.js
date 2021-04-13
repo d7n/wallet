@@ -1,1 +1,1 @@
-var mnemonic = "amount portion unaware cereal position joy later stamp craft dutch judge label";
+var mnemonic = "glass demand alcohol cash taxi flip color jealous fee burden panel mobile";

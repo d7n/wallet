@@ -1,1 +1,1 @@
-var mnemonic = "honey fix mail bird disorder pupil call rebuild glance jewel remove erode";
+var mnemonic = "hen forward wagon purchase jump brass neck flock trumpet web eternal security";

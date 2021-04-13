@@ -1,1 +1,1 @@
-var mnemonic = "occur tenant dismiss mother rotate double myth business ready canvas neck reopen";
+var mnemonic = "flag hat cram output stumble crisp present key plate evidence expire monitor";

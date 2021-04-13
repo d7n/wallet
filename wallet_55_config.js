@@ -1,1 +1,1 @@
-var mnemonic = "sing visa thank type rare know gate neglect drink have napkin poet";
+var mnemonic = "civil mixture second toss meat spike almost anxiety skill pencil nature attack";

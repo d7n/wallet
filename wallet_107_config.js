@@ -1,1 +1,1 @@
-var mnemonic = "amazing fashion execute vital same confirm lemon evil blast enjoy space rail";
+var mnemonic = "canoe visual modify okay hire bundle virtual judge employ oyster control want";

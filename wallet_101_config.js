@@ -1,1 +1,1 @@
-var mnemonic = "hospital bar plug response result recipe eye foot normal invest iron curve";
+var mnemonic = "faith scrub track pony egg kangaroo tackle resist escape merry siege unique";

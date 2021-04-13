@@ -1,1 +1,1 @@
-var mnemonic = "device kangaroo approve shaft minor mosquito hold oblige common fall library lonely";
+var mnemonic = "priority make cram level jump direct garlic tone material help across special";

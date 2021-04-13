@@ -1,1 +1,1 @@
-var mnemonic = "retire mutual sleep antique dry renew brisk dog oven inner tuna holiday";
+var mnemonic = "bounce cream library maple tuna opera into taxi alien twist poverty drastic";

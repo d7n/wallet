@@ -1,1 +1,1 @@
-var mnemonic = "priority leaf seminar film labor actress unit illegal disagree lend blush recycle";
+var mnemonic = "duty picnic farm frame odor pudding garage cream quit board rack road";

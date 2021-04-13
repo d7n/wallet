@@ -1,1 +1,1 @@
-var mnemonic = "pioneer blade worth cancel stairs amount cigar morning hope body better liberty";
+var mnemonic = "reform code rotate hand ball you pulp cliff flock rule caught involve";

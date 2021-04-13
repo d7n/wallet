@@ -1,1 +1,1 @@
-var mnemonic = "mirror cute ride silver call sting soup crystal patch disagree grass check";
+var mnemonic = "foster wear siege sausage series sniff stumble sheriff slush hold plastic young";

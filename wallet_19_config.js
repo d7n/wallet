@@ -1,1 +1,1 @@
-var mnemonic = "cloud alley napkin rib rack mad sadness wrestle armed rule potato tomorrow";
+var mnemonic = "pave accident poet type robot divorce hero oppose tomorrow neck tiger humor";

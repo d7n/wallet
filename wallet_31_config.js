@@ -1,1 +1,1 @@
-var mnemonic = "waste february desert strong pear second spray hood build banana grunt spy";
+var mnemonic = "lift tooth anxiety cat goose mountain surround reward country bubble trouble patch";

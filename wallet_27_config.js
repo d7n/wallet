@@ -1,1 +1,1 @@
-var mnemonic = "image joy jealous false decorate innocent evil flee illness donkey agree again";
+var mnemonic = "song narrow tank glue sunset universe purchase language judge lion crop inhale";

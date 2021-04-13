@@ -1,1 +1,1 @@
-var mnemonic = "bread turtle fatal thumb axis avoid uncover claw donkey simple decrease cushion";
+var mnemonic = "balance super maximum cute surface recycle ensure isolate seminar slim orient trade";

@@ -1,1 +1,1 @@
-var mnemonic = "average system cost time pool basic liquid bag defense bar brisk miracle";
+var mnemonic = "void lecture blood sorry foam motion consider gallery keep toss giraffe family";

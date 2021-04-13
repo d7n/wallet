@@ -1,1 +1,1 @@
-var mnemonic = "panic zone ivory uncover renew cart escape mountain february close inform winter";
+var mnemonic = "cave pole cradle blade jungle lion tennis cloud master forum spike point";

@@ -1,1 +1,1 @@
-var mnemonic = "defense clinic mind edit federal bag lunch bus affair theory ghost dial";
+var mnemonic = "enact tragic labor click carry pause start stick spring capable festival link";

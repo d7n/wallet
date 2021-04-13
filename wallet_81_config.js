@@ -1,1 +1,1 @@
-var mnemonic = "involve author olive valley protect mutual quality guess same pink hat shrimp";
+var mnemonic = "lecture normal curtain diagram truly survey coin parade neutral curve topple slam";

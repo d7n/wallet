@@ -1,1 +1,1 @@
-var mnemonic = "refuse elephant search detect analyst injury increase sauce race payment mule position";
+var mnemonic = "insane staff purity goose zone palm spike cluster improve adult crush large";

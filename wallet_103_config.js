@@ -1,1 +1,1 @@
-var mnemonic = "merry road child pause burden diary subway hole width arrange soul abuse";
+var mnemonic = "school matter creek unfold buyer office inner agree grain enrich guess quote";

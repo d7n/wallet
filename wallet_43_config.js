@@ -1,1 +1,1 @@
-var mnemonic = "large since atom morning crouch master toe setup cupboard cruel velvet lava";
+var mnemonic = "bunker fuel equip acid unaware sand actress figure tourist crop invite receive";

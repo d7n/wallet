@@ -1,1 +1,1 @@
-var mnemonic = "scan vague misery riot feed frame aisle play torch base loop doll";
+var mnemonic = "already dash rather wear lamp fantasy february bicycle hammer physical tilt quantum";

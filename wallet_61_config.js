@@ -1,1 +1,1 @@
-var mnemonic = "garlic adjust now wide gaze enter typical control yellow maple describe solution";
+var mnemonic = "climb ginger guitar pencil jungle explain foot cotton surge fade carry stomach";

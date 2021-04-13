@@ -1,1 +1,1 @@
-var mnemonic = "immense clever flee orphan judge purse flavor old wise imitate sketch sight";
+var mnemonic = "sell manual tail elbow liar fatigue isolate antenna short veteran tank jar";

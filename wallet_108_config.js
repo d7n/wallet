@@ -1,1 +1,1 @@
-var mnemonic = "risk upon toss dutch insect olive network fresh kick steel across differ";
+var mnemonic = "display opera strong cereal little state rapid until awesome ribbon churn scene";

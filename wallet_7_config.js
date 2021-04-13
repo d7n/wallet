@@ -1,1 +1,1 @@
-var mnemonic = "virtual pattern sock render field opinion weekend right resist chat swear middle";
+var mnemonic = "dutch embody tower grain dove network typical food bounce detect fluid correct";

@@ -1,1 +1,1 @@
-var mnemonic = "inside small judge pulse ecology cactus layer poet deputy quantum pink book";
+var mnemonic = "glue impact suspect artefact engage hamster useless stone better require great gap";

@@ -1,1 +1,1 @@
-var mnemonic = "call symbol admit clutch wheat exchange sugar cushion reopen monkey birth theme";
+var mnemonic = "media submit edge term whale nephew keep burger repair insane eager perfect";

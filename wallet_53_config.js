@@ -1,1 +1,1 @@
-var mnemonic = "kiss face wisdom story already metal embrace music favorite rack juice divide";
+var mnemonic = "void pluck degree inmate bring echo horror position acquire cannon churn film";

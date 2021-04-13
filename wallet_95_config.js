@@ -1,1 +1,1 @@
-var mnemonic = "account hat lawn solar topple cousin cry orphan spawn helmet wash come";
+var mnemonic = "convince push raw metal valid rally recycle luxury charge edit industry boy";

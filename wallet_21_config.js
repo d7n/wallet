@@ -1,1 +1,1 @@
-var mnemonic = "donor steel length judge modify cabbage grocery column parade funny nerve junk";
+var mnemonic = "agree oven loop stable ketchup grace dice three vivid ready runway crater";

@@ -1,1 +1,1 @@
-var mnemonic = "charge category snack fun wealth cricket project army blouse kiss palm luxury";
+var mnemonic = "wheat coil awake raw fine curious dad home choice sport kick funny";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding element torch intact brisk mail base cancel visa problem then hand";
+var mnemonic = "moon cheese fence put amazing digital december dance mushroom mandate bag casino";

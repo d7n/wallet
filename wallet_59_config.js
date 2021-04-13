@@ -1,1 +1,1 @@
-var mnemonic = "album guide video spray cousin state cat limit quote donkey order scrub";
+var mnemonic = "magic rescue swim imitate domain mad dream pitch drift general tiger spell";

@@ -1,1 +1,1 @@
-var mnemonic = "hair february grief thought meat cage burden coin clean board path acid";
+var mnemonic = "walk own oil action amazing swift monkey cabbage situate travel acquire west";

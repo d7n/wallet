@@ -1,1 +1,1 @@
-var mnemonic = "reveal material diesel never innocent true pull grant volume embark junior license";
+var mnemonic = "emerge half velvet note engage crater leg jar vocal second try hollow";

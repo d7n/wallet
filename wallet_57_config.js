@@ -1,1 +1,1 @@
-var mnemonic = "cherry kitten general elevator property rely oyster surround truth way tilt soft";
+var mnemonic = "dignity elder moral dynamic frown someone pepper husband lunch enact grass side";

@@ -1,1 +1,1 @@
-var mnemonic = "involve force simple deposit bird leopard crunch below fragile seat time stuff";
+var mnemonic = "pause number disagree public toddler weasel shell camp office game soup napkin";

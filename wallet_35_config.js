@@ -1,1 +1,1 @@
-var mnemonic = "pass tuna phone wealth logic traffic express news process utility silk episode";
+var mnemonic = "unique gauge grocery head task treat hip fox consider library news cheap";

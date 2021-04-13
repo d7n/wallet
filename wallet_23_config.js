@@ -1,1 +1,1 @@
-var mnemonic = "hen disease kingdom random cloth fringe marriage piano special more remain survey";
+var mnemonic = "onion reason april clerk kite blue shoulder pulp spawn mountain sad album";

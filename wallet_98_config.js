@@ -1,1 +1,1 @@
-var mnemonic = "sight runway engage consider basket picture sweet quote quality short comfort okay";
+var mnemonic = "velvet nothing slab okay raven food begin energy story magic bench garment";

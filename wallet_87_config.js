@@ -1,1 +1,1 @@
-var mnemonic = "robot update tag tail art visa multiply punch jealous judge tourist horse";
+var mnemonic = "until fringe hungry thought input moon vapor waste say prison okay trigger";

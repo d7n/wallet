@@ -1,1 +1,1 @@
-var mnemonic = "dash wash churn pistol resist alpha ask garden easily club rib path";
+var mnemonic = "lake quit wolf actress oyster valve grief exotic genre panther over below";

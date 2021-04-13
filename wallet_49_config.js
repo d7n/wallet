@@ -1,1 +1,1 @@
-var mnemonic = "process garment egg corn dirt link hedgehog slam throw photo fox select";
+var mnemonic = "file blood parent employ ugly remind transfer olympic bunker panther noble mail";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion unfold final guard helmet warm cabin jungle ancient cruise clinic arrive";
+var mnemonic = "lyrics try unknown multiply bunker record yellow innocent keen use panic festival";

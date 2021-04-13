@@ -1,1 +1,1 @@
-var mnemonic = "walk miracle entire traffic pumpkin usage quarter crawl coyote clog valve refuse";
+var mnemonic = "motion ceiling price cactus slender near valley same prison shoe define man";

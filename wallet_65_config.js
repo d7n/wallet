@@ -1,1 +1,1 @@
-var mnemonic = "reopen reopen normal rate genuine track rare slight sniff three eager soup";
+var mnemonic = "intact wing welcome cube kitchen voice vague whisper lamp rare dragon main";

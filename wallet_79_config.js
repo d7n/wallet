@@ -1,1 +1,1 @@
-var mnemonic = "dial thunder live kite ethics duty slogan fame occur whisper sister age";
+var mnemonic = "erosion outside usage diesel supreme refuse damp cabbage vicious again minimum street";
