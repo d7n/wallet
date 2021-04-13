@@ -1,1 +1,1 @@
-var mnemonic = "move strategy ski solution latin eyebrow endless session fat record shine tired";
+var mnemonic = "ranch asset high black post sniff ozone raise supreme film consider eagle";

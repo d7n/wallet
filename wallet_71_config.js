@@ -1,1 +1,1 @@
-var mnemonic = "saddle grief exclude hybrid dance garlic rate fresh inform usage seven ski";
+var mnemonic = "jar slab audit project surge gloom leave rack speak dish fiscal bean";

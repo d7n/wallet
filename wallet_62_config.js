@@ -1,1 +1,1 @@
-var mnemonic = "film auto harvest can concert payment sign place huge fatal game industry";
+var mnemonic = "razor dinner recycle view road guard decorate wise gym account solve coral";

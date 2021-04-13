@@ -1,1 +1,1 @@
-var mnemonic = "want violin lawsuit flat shuffle maze audit six harbor cup innocent that";
+var mnemonic = "alone car almost round picture ginger gadget pattern purchase ritual quantum dwarf";

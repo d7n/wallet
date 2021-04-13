@@ -1,1 +1,1 @@
-var mnemonic = "claw umbrella ripple trust glue swear often crush rule found fringe dirt";
+var mnemonic = "unlock bronze ecology dust theme phone type disorder novel blast basket strong";

@@ -1,1 +1,1 @@
-var mnemonic = "resource digital extra blue dinosaur nose index lucky gallery can divert force";
+var mnemonic = "junk private swallow venture shaft also tennis come potato cake vessel change";

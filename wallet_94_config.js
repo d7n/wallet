@@ -1,1 +1,1 @@
-var mnemonic = "burden coast swing diesel search outer wage mosquito narrow welcome dune orange";
+var mnemonic = "delay ship find crater deposit pig provide carry boring ginger endorse excess";

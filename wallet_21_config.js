@@ -1,1 +1,1 @@
-var mnemonic = "crawl glimpse now audit weapon write cereal quarter jazz calm gap drastic";
+var mnemonic = "sick live brain act occur file raccoon alcohol clinic dignity reunion crime";

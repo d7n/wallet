@@ -1,1 +1,1 @@
-var mnemonic = "pencil bread convince unusual start group trip silver actress census oil differ";
+var mnemonic = "south bounce powder adjust ceiling mystery foot bulb visual wet surprise child";

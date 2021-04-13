@@ -1,1 +1,1 @@
-var mnemonic = "citizen about one ranch mystery put angry topple kick promote gauge van";
+var mnemonic = "cactus toward bulb throw comfort fame sure card walnut mango bird able";

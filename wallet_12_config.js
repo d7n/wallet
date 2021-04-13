@@ -1,1 +1,1 @@
-var mnemonic = "boy awake lawsuit finish dentist dwarf damage coyote expand dragon jeans slam";
+var mnemonic = "hill alone clump goddess chaos photo shiver wide spike swamp anchor mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "profit inspire royal horror prevent foster have say ask bread fabric labor";
+var mnemonic = "mutual slot cross output scare rather tiny weasel boring print ability brand";

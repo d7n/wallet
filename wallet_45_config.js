@@ -1,1 +1,1 @@
-var mnemonic = "frozen urban giggle lady sustain outer orange distance virus insect tag music";
+var mnemonic = "cycle price someone entry clog manual blue lawn update cinnamon there short";

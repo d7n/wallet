@@ -1,1 +1,1 @@
-var mnemonic = "mercy material shed blush powder audit potato favorite outside say cement view";
+var mnemonic = "endorse idea survey piece fit kingdom wrong kitchen chaos purpose artefact rough";

@@ -1,1 +1,1 @@
-var mnemonic = "burger custom galaxy penalty enhance rare sell broken bulb flip feature sock";
+var mnemonic = "entire canvas toy idea camera all dog merit squirrel tissue dizzy busy";

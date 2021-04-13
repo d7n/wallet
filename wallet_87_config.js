@@ -1,1 +1,1 @@
-var mnemonic = "cupboard either romance steak lens fat crush amazing engage leave file seek";
+var mnemonic = "behave team chat blue coach ball blade final machine faculty lake art";

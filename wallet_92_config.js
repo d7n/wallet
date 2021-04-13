@@ -1,1 +1,1 @@
-var mnemonic = "option success position milk squirrel sure chalk phrase turn sentence room mail";
+var mnemonic = "impose october consider alley cushion shoulder warrior bus select improve since board";

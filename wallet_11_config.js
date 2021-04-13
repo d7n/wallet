@@ -1,1 +1,1 @@
-var mnemonic = "harbor approve spy view scheme onion climb tenant belt major slab city";
+var mnemonic = "noble rely sun quiz smoke kingdom outside apple monkey aunt fortune viable";

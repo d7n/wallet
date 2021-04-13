@@ -1,1 +1,1 @@
-var mnemonic = "trim stable hedgehog pitch wagon rebuild fold deal jeans warfare board license";
+var mnemonic = "mushroom knee axis million agent above valid sea correct range inform disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze clinic clarify inflict region leaf giraffe bicycle crane cube lend poverty";
+var mnemonic = "exercise mountain public test diamond uniform rocket devote shuffle tell attitude payment";

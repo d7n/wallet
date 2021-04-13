@@ -1,1 +1,1 @@
-var mnemonic = "invite prepare staff sadness above happy small friend cash minor install head";
+var mnemonic = "reform betray book vacant bus tone dragon fork bread draw useful pull";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow burger way happy robot husband carpet neutral plunge chicken end search";
+var mnemonic = "level label junior lab merit camera foot horse cycle tired frame drop";

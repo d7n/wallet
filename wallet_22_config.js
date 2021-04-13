@@ -1,1 +1,1 @@
-var mnemonic = "divorce hurry school away between melody pluck arrest labor consider auction catalog";
+var mnemonic = "fire update match sad model medal hard finish piano identify shadow bargain";

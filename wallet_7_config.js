@@ -1,1 +1,1 @@
-var mnemonic = "awake story correct scene advance brief piano soon parrot thunder pull pigeon";
+var mnemonic = "jar harsh cash loud door popular appear divide cloud motor renew chef";

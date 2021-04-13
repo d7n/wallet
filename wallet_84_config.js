@@ -1,1 +1,1 @@
-var mnemonic = "volcano bless wood sudden throw case barely strategy uphold sustain rifle curious";
+var mnemonic = "plate room typical moral exist aisle science also rain cloth cousin defy";

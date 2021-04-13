@@ -1,1 +1,1 @@
-var mnemonic = "slogan merge field blur cool transfer sniff travel elephant special title power";
+var mnemonic = "vessel math matrix cradle festival equip scheme patrol scorpion middle suffer island";

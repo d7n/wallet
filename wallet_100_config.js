@@ -1,1 +1,1 @@
-var mnemonic = "canal news shove company zero soda wonder bitter close lizard blossom eternal";
+var mnemonic = "wrap isolate carpet sword water deal bag decide journey reject true skull";

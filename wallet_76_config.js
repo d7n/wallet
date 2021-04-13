@@ -1,1 +1,1 @@
-var mnemonic = "mass future foam unlock dress grain timber win hire pride pulp deposit";
+var mnemonic = "result decide wrist hollow submit cycle olympic thank grape choose model hammer";

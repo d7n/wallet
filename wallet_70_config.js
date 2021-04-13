@@ -1,1 +1,1 @@
-var mnemonic = "author reason credit arena pencil umbrella demise bind alarm hat kidney skill";
+var mnemonic = "advice rich step olympic hire sorry rail master wise silent discover meat";

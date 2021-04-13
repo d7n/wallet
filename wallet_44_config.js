@@ -1,1 +1,1 @@
-var mnemonic = "final august fat throw tissue vanish require hood aerobic clever mean puzzle";
+var mnemonic = "country practice injury below arrow depart razor rug cousin range feel sleep";

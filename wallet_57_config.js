@@ -1,1 +1,1 @@
-var mnemonic = "medal vote phone tool transfer never ability tribe wife waste weapon essay";
+var mnemonic = "cruise output dial vibrant bright bag shuffle filter seek extend spell throw";

@@ -1,1 +1,1 @@
-var mnemonic = "myth swap pave stove leopard another plastic uphold trim notice mammal cage";
+var mnemonic = "consider van section clinic theory spin ostrich increase myself when very surge";

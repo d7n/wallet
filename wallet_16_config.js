@@ -1,1 +1,1 @@
-var mnemonic = "thing year auto two endless open label this image cushion size twelve";
+var mnemonic = "jelly globe option electric age giant cute auto scheme autumn craft stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "roast benefit rent huge phrase phrase search because globe bike kidney fruit";
+var mnemonic = "tennis express throw also hawk response answer pioneer bean fruit exile regular";

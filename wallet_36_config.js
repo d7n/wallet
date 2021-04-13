@@ -1,1 +1,1 @@
-var mnemonic = "rate elder mean satoshi dirt buffalo item robust monster grape dream split";
+var mnemonic = "surface cement second eight cage area suspect upper caught motor symptom sunny";

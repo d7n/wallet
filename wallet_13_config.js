@@ -1,1 +1,1 @@
-var mnemonic = "crazy vocal repair neither silly bring tomorrow where matter perfect employ mutual";
+var mnemonic = "various attend traffic lyrics replace creek motor game ocean unfold cannon alter";

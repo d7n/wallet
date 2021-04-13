@@ -1,1 +1,1 @@
-var mnemonic = "media tortoise kit female link acquire leopard tumble uphold spin wood cube";
+var mnemonic = "mountain oval clutch song much wide lesson crystal process raven absent hard";

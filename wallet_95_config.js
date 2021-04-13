@@ -1,1 +1,1 @@
-var mnemonic = "laptop idle leg pioneer pipe injury trumpet jewel analyst chronic flavor tip";
+var mnemonic = "salute huge reward improve hospital involve stick cigar session spirit saddle infant";

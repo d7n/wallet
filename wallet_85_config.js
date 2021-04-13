@@ -1,1 +1,1 @@
-var mnemonic = "knee angry mean flat split history fiscal behind stay light dial stomach";
+var mnemonic = "minor upset sheriff place glue napkin health monitor over obtain steak immune";

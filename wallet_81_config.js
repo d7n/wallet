@@ -1,1 +1,1 @@
-var mnemonic = "reopen large hint under design stove giggle change traffic chuckle sense siren";
+var mnemonic = "until above sadness speak correct spawn dwarf south soup addict appear permit";

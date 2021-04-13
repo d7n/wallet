@@ -1,1 +1,1 @@
-var mnemonic = "scrub syrup supreme episode palace soup train cereal awful local visual simple";
+var mnemonic = "play onion exhibit essay foam bulk gown viable ill until able quit";

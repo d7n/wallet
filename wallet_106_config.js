@@ -1,1 +1,1 @@
-var mnemonic = "series stand multiply garage gentle wife news dutch sniff swamp blue peace";
+var mnemonic = "knock kidney volcano empty degree hello traffic innocent push always unaware quit";

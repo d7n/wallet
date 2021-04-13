@@ -1,1 +1,1 @@
-var mnemonic = "master robot wool frog sniff coach target pony van what tennis retire";
+var mnemonic = "convince more cluster soda cement side dress another update this sword pink";

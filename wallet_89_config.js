@@ -1,1 +1,1 @@
-var mnemonic = "account display inch napkin crime envelope brand remain unknown air old biology";
+var mnemonic = "shed draw advance fragile retreat system they siege wheat domain topic acid";

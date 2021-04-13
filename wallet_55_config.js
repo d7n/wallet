@@ -1,1 +1,1 @@
-var mnemonic = "income merry exchange case toilet hotel next jeans visa sight decide joke";
+var mnemonic = "original job morning service common arena spring rather round good inquiry castle";

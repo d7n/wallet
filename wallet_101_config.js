@@ -1,1 +1,1 @@
-var mnemonic = "churn spider world balcony stairs chief orphan asthma gas question green main";
+var mnemonic = "clip wisdom excuse mail air conduct drive test blast luxury nasty firm";

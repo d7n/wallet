@@ -1,1 +1,1 @@
-var mnemonic = "unaware lizard utility fruit mystery special flash thumb grace pink echo airport";
+var mnemonic = "warrior engine measure kid detect village aware nerve baby clinic cabin kick";

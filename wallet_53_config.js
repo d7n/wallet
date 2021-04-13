@@ -1,1 +1,1 @@
-var mnemonic = "tree quality melody square song remind blossom live version brick someone stock";
+var mnemonic = "item exhibit inch typical absurd isolate thunder water damage wet scan mass";

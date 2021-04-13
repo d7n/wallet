@@ -1,1 +1,1 @@
-var mnemonic = "crime lounge install auto relax inspire mosquito page pitch mule neck domain";
+var mnemonic = "tribe lunar quit tree hidden annual wink soup unusual approve kangaroo achieve";

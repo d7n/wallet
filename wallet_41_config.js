@@ -1,1 +1,1 @@
-var mnemonic = "cabin squirrel dish exotic frown slow noble cruel fiction bid tree rib";
+var mnemonic = "check clarify undo crew helmet shrug scrub dawn swim retire guitar very";

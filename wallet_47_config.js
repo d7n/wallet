@@ -1,1 +1,1 @@
-var mnemonic = "process order super brown garlic addict grocery income cram minor toast help";
+var mnemonic = "rally two trash engage nominee toddler sunny vote person fiscal thunder taxi";

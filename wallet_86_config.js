@@ -1,1 +1,1 @@
-var mnemonic = "hollow aerobic strategy prevent author cloth mad pet erosion silver margin cruise";
+var mnemonic = "shift melt top industry worth best assault once bone dinner brick ivory";

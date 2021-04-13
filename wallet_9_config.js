@@ -1,1 +1,1 @@
-var mnemonic = "all network dance argue size army welcome purse manual ignore planet shrug";
+var mnemonic = "orchard struggle welcome space bone over armor firm flip unfair whale volcano";

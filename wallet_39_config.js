@@ -1,1 +1,1 @@
-var mnemonic = "perfect recycle possible enter robot total pulse memory donate upper example crane";
+var mnemonic = "reopen shed surround maximum oppose wrestle tip lawn aspect essay sphere indicate";

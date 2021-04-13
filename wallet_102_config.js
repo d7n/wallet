@@ -1,1 +1,1 @@
-var mnemonic = "soup index toast rice typical coral biology dynamic pudding spare waste auction";
+var mnemonic = "safe opera magnet among thunder mad gadget eyebrow entry clip much volume";

@@ -1,1 +1,1 @@
-var mnemonic = "forum employ become bamboo mesh velvet again capable ignore regular gallery conduct";
+var mnemonic = "weapon rail skill zero seven tomorrow air math skull donate prosper fish";

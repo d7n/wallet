@@ -1,1 +1,1 @@
-var mnemonic = "runway custom crane favorite consider crash dismiss grass report october three noise";
+var mnemonic = "room student genuine section cook puzzle staff glove wealth hazard now armor";

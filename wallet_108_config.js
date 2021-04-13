@@ -1,1 +1,1 @@
-var mnemonic = "daughter lyrics alien elbow measure vicious find mask alcohol wedding weather fat";
+var mnemonic = "monitor vote undo glove abstract seed nut sister dog delay topic october";

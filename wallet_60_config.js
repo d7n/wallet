@@ -1,1 +1,1 @@
-var mnemonic = "mix army winter divert woman keen distance miracle vivid sail title defy";
+var mnemonic = "cruise miracle recall embrace tube ecology pause movie erupt ladder gospel hunt";

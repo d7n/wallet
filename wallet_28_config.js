@@ -1,1 +1,1 @@
-var mnemonic = "toe other special dress card void claw twenty vacuum dish occur love";
+var mnemonic = "girl rate gossip rough movie refuse frown cook future journey lunch angle";

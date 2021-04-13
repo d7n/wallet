@@ -1,1 +1,1 @@
-var mnemonic = "leisure payment glare history amateur dawn ship immense material melt render snack";
+var mnemonic = "borrow ginger seek scene bind barely crew recycle cupboard shallow fan bid";

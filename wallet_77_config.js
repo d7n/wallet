@@ -1,1 +1,1 @@
-var mnemonic = "debris exile milk zebra cushion fantasy exclude rifle space congress drink drum";
+var mnemonic = "coach apple abuse sunset hurry alter body omit meadow inherit tonight exist";

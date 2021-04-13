@@ -1,1 +1,1 @@
-var mnemonic = "marble three tunnel decorate glimpse always gossip swap unfold vital pyramid pass";
+var mnemonic = "shadow squeeze repair prize offer broccoli slogan sponsor vault science arch stay";

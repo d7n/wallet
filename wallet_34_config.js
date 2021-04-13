@@ -1,1 +1,1 @@
-var mnemonic = "solid grape thunder marble swallow position grief police idea amazing very decline";
+var mnemonic = "lake brief super story alcohol rural base void trigger congress erupt wasp";

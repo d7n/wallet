@@ -1,1 +1,1 @@
-var mnemonic = "indicate flash six refuse lady palace teach day word renew link absent";
+var mnemonic = "sunset song cloud fantasy glide crumble space member divert toy quit scorpion";

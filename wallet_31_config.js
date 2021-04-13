@@ -1,1 +1,1 @@
-var mnemonic = "pledge tilt copy silent curtain distance wait coast gym interest mention grape";
+var mnemonic = "steel liquid rent mask rocket bag genuine banner logic secret cupboard hole";

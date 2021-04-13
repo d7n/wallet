@@ -1,1 +1,1 @@
-var mnemonic = "write visa twenty choose leave broken spice eager ice tenant traffic avocado";
+var mnemonic = "until toast soup nuclear table cheap gospel inject foster swarm post raccoon";

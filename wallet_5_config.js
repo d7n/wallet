@@ -1,1 +1,1 @@
-var mnemonic = "such decorate limb battle hungry network original coach idle letter adapt summer";
+var mnemonic = "broken scatter exhibit thing scan lion six submit upper antique emotion neglect";

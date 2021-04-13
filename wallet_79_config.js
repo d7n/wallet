@@ -1,1 +1,1 @@
-var mnemonic = "noodle fluid magnet orchard duty observe divert chef online report hour consider";
+var mnemonic = "icon salon negative auction push symptom prize burger term arctic tunnel drum";

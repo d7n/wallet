@@ -1,1 +1,1 @@
-var mnemonic = "laugh burger unique grunt tuition holiday almost walk buddy grab jar wrestle";
+var mnemonic = "cross engage remind admit drum maple avocado neutral miss dawn enrich crane";

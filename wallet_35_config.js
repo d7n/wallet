@@ -1,1 +1,1 @@
-var mnemonic = "blur scrap patch hybrid foot rice evoke label few drastic text diesel";
+var mnemonic = "elder magnet dynamic fossil sport major together moral blanket woman wreck embark";

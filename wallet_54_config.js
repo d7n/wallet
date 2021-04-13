@@ -1,1 +1,1 @@
-var mnemonic = "general upon barely sand april trial lift assist good sign reopen wing";
+var mnemonic = "inflict august blouse width ankle gloom topic witness hard card empower inherit";

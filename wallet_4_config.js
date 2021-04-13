@@ -1,1 +1,1 @@
-var mnemonic = "shrimp another immune mechanic intact symbol invite lunch jump dish poverty vacant";
+var mnemonic = "vibrant siren work brass pen actual repeat garment author fan trumpet fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano vacuum solution pull theory news snow evidence attract coil ride budget";
+var mnemonic = "funny dilemma swim label private six vocal payment into decide fire pupil";

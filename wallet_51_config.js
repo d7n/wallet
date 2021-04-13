@@ -1,1 +1,1 @@
-var mnemonic = "car puzzle manage black nest love negative toddler deer rhythm wife average";
+var mnemonic = "damage traffic remain ivory baby buzz december earn plastic treat keep olympic";

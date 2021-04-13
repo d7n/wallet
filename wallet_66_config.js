@@ -1,1 +1,1 @@
-var mnemonic = "client toe fresh walnut depend miss ripple come number junk crime brass";
+var mnemonic = "swing pattern coffee december bullet flock bonus history youth winner tape quote";

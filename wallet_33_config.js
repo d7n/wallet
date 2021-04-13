@@ -1,1 +1,1 @@
-var mnemonic = "cement letter better mean decorate shed usual dose bridge motion rocket fly";
+var mnemonic = "sugar mix various aware oyster poem random day history metal wait quiz";

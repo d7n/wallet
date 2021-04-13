@@ -1,1 +1,1 @@
-var mnemonic = "hat onion travel wasp laugh organ sustain alone high write neither expose";
+var mnemonic = "life ring quick biology innocent bottom question student can elbow thought bullet";

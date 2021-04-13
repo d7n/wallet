@@ -1,1 +1,1 @@
-var mnemonic = "rather hamster candy gown skirt spider invite please unlock salute amount draw";
+var mnemonic = "boat rural science pencil produce congress august cram tube surprise squirrel segment";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse minimum payment wage comfort ill film bounce fit payment vocal asset";
+var mnemonic = "fork drama pink attitude endorse team will change boil panic tennis inside";

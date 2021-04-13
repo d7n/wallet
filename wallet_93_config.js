@@ -1,1 +1,1 @@
-var mnemonic = "profit sure private clutch wish lazy canal surround display kick cage venue";
+var mnemonic = "nasty audit sting panic undo slab few labor rare exhibit priority short";

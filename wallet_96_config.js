@@ -1,1 +1,1 @@
-var mnemonic = "memory urban example display visa unit various joy case update rubber typical";
+var mnemonic = "remain sample twenty improve oppose trust believe mammal huge oven all enact";

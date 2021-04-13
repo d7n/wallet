@@ -1,1 +1,1 @@
-var mnemonic = "position ahead lawn uphold surge nut print topple maple blossom orbit print";
+var mnemonic = "ribbon assist very update image snake other hunt circle dirt window axis";

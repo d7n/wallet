@@ -1,1 +1,1 @@
-var mnemonic = "frown debate satisfy excuse reject equal rebuild hero buffalo number surge used";
+var mnemonic = "guitar fever audit perfect excuse delay same census creek letter wrap tooth";

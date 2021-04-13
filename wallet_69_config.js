@@ -1,1 +1,1 @@
-var mnemonic = "fabric remain fish symbol eager extra place twelve vapor dinner clarify gorilla";
+var mnemonic = "warrior eagle develop horse group switch label kangaroo left join illness phone";

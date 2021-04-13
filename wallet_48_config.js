@@ -1,1 +1,1 @@
-var mnemonic = "ancient small field true magnet metal pave among opera question present portion";
+var mnemonic = "surface jaguar wine keep assist clinic indicate vicious myself hunt copy morning";

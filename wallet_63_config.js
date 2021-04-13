@@ -1,1 +1,1 @@
-var mnemonic = "begin dragon achieve unable series acquire simple sphere weekend warfare fish shaft";
+var mnemonic = "wear song curious grape page tennis body rotate end sad spirit evil";

@@ -1,1 +1,1 @@
-var mnemonic = "behind essay fruit resemble lucky major history item vendor abuse practice awesome";
+var mnemonic = "umbrella hub jazz hard assume always attract arm spice burst chair endless";

@@ -1,1 +1,1 @@
-var mnemonic = "match blouse garbage trap balance spider item expect fox cable harvest tiger";
+var mnemonic = "humble silver gather swallow wave helmet history hope night fog buzz obtain";
