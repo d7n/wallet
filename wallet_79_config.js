@@ -1,1 +1,1 @@
-var mnemonic = "icon salon negative auction push symptom prize burger term arctic tunnel drum";
+var mnemonic = "beyond raven mad dune rookie dry alter aware jelly hamster fox quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "below talk file vicious lemon lunar humor music erase absurd festival crane";
+var mnemonic = "wrist give leopard match glue roof welcome remember olive critic crop excess";

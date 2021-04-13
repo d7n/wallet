@@ -1,1 +1,1 @@
-var mnemonic = "surface cement second eight cage area suspect upper caught motor symptom sunny";
+var mnemonic = "middle lemon aim gym afford awful pen keen license helmet middle twin";

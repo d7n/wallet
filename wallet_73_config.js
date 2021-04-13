@@ -1,1 +1,1 @@
-var mnemonic = "play onion exhibit essay foam bulk gown viable ill until able quit";
+var mnemonic = "embark rabbit find milk endorse cash minor light squeeze myself monitor day";

@@ -1,1 +1,1 @@
-var mnemonic = "razor dinner recycle view road guard decorate wise gym account solve coral";
+var mnemonic = "soldier tattoo outdoor love debris spawn bag tribe stadium armor upon penalty";

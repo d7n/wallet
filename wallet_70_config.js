@@ -1,1 +1,1 @@
-var mnemonic = "advice rich step olympic hire sorry rail master wise silent discover meat";
+var mnemonic = "decade flip arm dash human lazy doctor drop major limb limb guide";

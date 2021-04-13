@@ -1,1 +1,1 @@
-var mnemonic = "elder magnet dynamic fossil sport major together moral blanket woman wreck embark";
+var mnemonic = "grace climb library eagle warrior silent install vacuum fit right horror key";

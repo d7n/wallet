@@ -1,1 +1,1 @@
-var mnemonic = "warrior engine measure kid detect village aware nerve baby clinic cabin kick";
+var mnemonic = "drip jar brisk genius boring foster liar mercy banner junior goddess slide";

@@ -1,1 +1,1 @@
-var mnemonic = "safe opera magnet among thunder mad gadget eyebrow entry clip much volume";
+var mnemonic = "quick melt crawl umbrella trip muscle rubber what tree candy stable wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "salute huge reward improve hospital involve stick cigar session spirit saddle infant";
+var mnemonic = "body verb assume enroll actual car glad small upgrade gadget tree chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel math matrix cradle festival equip scheme patrol scorpion middle suffer island";
+var mnemonic = "scout shoulder feed inner unveil income card jungle crime stock orchard gun";

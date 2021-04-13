@@ -1,1 +1,1 @@
-var mnemonic = "plate room typical moral exist aisle science also rain cloth cousin defy";
+var mnemonic = "blame jazz winter gasp leave punch race pattern window rose cactus liberty";

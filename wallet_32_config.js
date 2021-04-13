@@ -1,1 +1,1 @@
-var mnemonic = "tennis express throw also hawk response answer pioneer bean fruit exile regular";
+var mnemonic = "you torch wall attend casino ocean volume lake since asset year toast";

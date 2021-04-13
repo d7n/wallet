@@ -1,1 +1,1 @@
-var mnemonic = "cross engage remind admit drum maple avocado neutral miss dawn enrich crane";
+var mnemonic = "accident battle exhaust medal toy wage onion uniform also taxi clip barrel";

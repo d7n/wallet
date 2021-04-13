@@ -1,1 +1,1 @@
-var mnemonic = "inflict august blouse width ankle gloom topic witness hard card empower inherit";
+var mnemonic = "comic install cousin cloud cheese gaze pact neck torch mansion artist trap";

@@ -1,1 +1,1 @@
-var mnemonic = "country practice injury below arrow depart razor rug cousin range feel sleep";
+var mnemonic = "during chapter pepper fatal brief liquid regret base easily major garbage quit";

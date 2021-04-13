@@ -1,1 +1,1 @@
-var mnemonic = "minor space client sad surge million assault smooth idea immense manual turn";
+var mnemonic = "blue happy title evoke razor pony faith away trust general seat unaware";

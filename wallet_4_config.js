@@ -1,1 +1,1 @@
-var mnemonic = "vibrant siren work brass pen actual repeat garment author fan trumpet fatigue";
+var mnemonic = "usual flavor artist often horse rubber finish soldier flee cave lab when";

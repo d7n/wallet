@@ -1,1 +1,1 @@
-var mnemonic = "reform betray book vacant bus tone dragon fork bread draw useful pull";
+var mnemonic = "blame rally butter distance juice provide smile motion wrap clinic spot note";

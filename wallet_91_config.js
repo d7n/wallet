@@ -1,1 +1,1 @@
-var mnemonic = "life ring quick biology innocent bottom question student can elbow thought bullet";
+var mnemonic = "ten shoot digital noble equal vote this impulse various hole race obtain";

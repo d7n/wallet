@@ -1,1 +1,1 @@
-var mnemonic = "behave team chat blue coach ball blade final machine faculty lake art";
+var mnemonic = "float humor rabbit wage purity long hurry attack movie ritual globe hold";

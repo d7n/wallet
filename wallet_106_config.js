@@ -1,1 +1,1 @@
-var mnemonic = "knock kidney volcano empty degree hello traffic innocent push always unaware quit";
+var mnemonic = "still tunnel pair table slide typical soap lend fence roof current visit";

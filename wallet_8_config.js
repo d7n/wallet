@@ -1,1 +1,1 @@
-var mnemonic = "south bounce powder adjust ceiling mystery foot bulb visual wet surprise child";
+var mnemonic = "attract copper job kiss limit canoe permit bamboo skate deputy observe street";

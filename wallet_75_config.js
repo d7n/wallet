@@ -1,1 +1,1 @@
-var mnemonic = "ordinary permit scrap lobster hedgehog relief couple guard night monitor pond tiny";
+var mnemonic = "human wait drill crystal six notice good what industry method million scare";

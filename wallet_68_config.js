@@ -1,1 +1,1 @@
-var mnemonic = "brick iron collect trade sweet trigger claim melt welcome country film fee";
+var mnemonic = "transfer pony earth power remind below skill blush lawn dinner battle group";

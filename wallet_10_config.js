@@ -1,1 +1,1 @@
-var mnemonic = "guess unlock father inch solid disagree cook dawn recycle swift ignore valid";
+var mnemonic = "begin bottom fragile hard security swamp long chunk differ forward agree remember";

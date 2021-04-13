@@ -1,1 +1,1 @@
-var mnemonic = "rally two trash engage nominee toddler sunny vote person fiscal thunder taxi";
+var mnemonic = "tell belt hawk million wear palm attack amount bus service ordinary ethics";

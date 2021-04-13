@@ -1,1 +1,1 @@
-var mnemonic = "cruise output dial vibrant bright bag shuffle filter seek extend spell throw";
+var mnemonic = "gown apart spoon truck bundle holiday large art candy relax equip feature";

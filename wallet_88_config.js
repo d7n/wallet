@@ -1,1 +1,1 @@
-var mnemonic = "sign medal around law hungry tag arena brick travel lab divide deputy";
+var mnemonic = "expose course inflict mass awful mango farm sunset sibling pioneer enough penalty";

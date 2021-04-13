@@ -1,1 +1,1 @@
-var mnemonic = "shed draw advance fragile retreat system they siege wheat domain topic acid";
+var mnemonic = "predict tattoo artist remind ridge trade noodle present million round alter market";

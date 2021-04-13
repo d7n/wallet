@@ -1,1 +1,1 @@
-var mnemonic = "tribe lunar quit tree hidden annual wink soup unusual approve kangaroo achieve";
+var mnemonic = "flock noble obvious clinic blouse bronze example endorse leave jeans city badge";

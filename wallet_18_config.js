@@ -1,1 +1,1 @@
-var mnemonic = "bottom soup theory call buddy suggest parent sell race learn disagree resource";
+var mnemonic = "trial beef timber grass demand reward lava pony flock letter earn odor";

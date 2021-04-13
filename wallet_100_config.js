@@ -1,1 +1,1 @@
-var mnemonic = "wrap isolate carpet sword water deal bag decide journey reject true skull";
+var mnemonic = "pilot silent tornado alarm crane midnight winter scout juice wire hub action";

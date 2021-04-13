@@ -1,1 +1,1 @@
-var mnemonic = "jar harsh cash loud door popular appear divide cloud motor renew chef";
+var mnemonic = "moon solve citizen state version smart more guard pride exchange ride adjust";

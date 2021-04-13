@@ -1,1 +1,1 @@
-var mnemonic = "humble silver gather swallow wave helmet history hope night fog buzz obtain";
+var mnemonic = "barely sick crane debris crash narrow power film ignore push wolf adapt";

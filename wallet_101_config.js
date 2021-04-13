@@ -1,1 +1,1 @@
-var mnemonic = "clip wisdom excuse mail air conduct drive test blast luxury nasty firm";
+var mnemonic = "cabin clutch book birth guard engage blush yellow current always fox report";

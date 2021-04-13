@@ -1,1 +1,1 @@
-var mnemonic = "nasty audit sting panic undo slab few labor rare exhibit priority short";
+var mnemonic = "fury sister session where diagram ask toddler pipe sense shield rhythm derive";

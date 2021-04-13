@@ -1,1 +1,1 @@
-var mnemonic = "remain sample twenty improve oppose trust believe mammal huge oven all enact";
+var mnemonic = "gym rally misery trial enjoy clip radio naive must attract immune prosper";

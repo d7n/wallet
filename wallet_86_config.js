@@ -1,1 +1,1 @@
-var mnemonic = "shift melt top industry worth best assault once bone dinner brick ivory";
+var mnemonic = "around north field then code utility rescue blur mail worry tongue radar";

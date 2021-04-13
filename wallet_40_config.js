@@ -1,1 +1,1 @@
-var mnemonic = "cactus toward bulb throw comfort fame sure card walnut mango bird able";
+var mnemonic = "settle journey clarify crime alone cancel just hedgehog lava tip section devote";

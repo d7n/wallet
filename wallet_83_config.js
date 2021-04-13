@@ -1,1 +1,1 @@
-var mnemonic = "shadow squeeze repair prize offer broccoli slogan sponsor vault science arch stay";
+var mnemonic = "vendor height drift divert menu old defy struggle penalty apart during ripple";

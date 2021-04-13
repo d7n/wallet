@@ -1,1 +1,1 @@
-var mnemonic = "broken scatter exhibit thing scan lion six submit upper antique emotion neglect";
+var mnemonic = "alpha hole hundred grocery tackle return pattern loop wing spot crash top";

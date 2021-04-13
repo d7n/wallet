@@ -1,1 +1,1 @@
-var mnemonic = "hill alone clump goddess chaos photo shiver wide spike swamp anchor mobile";
+var mnemonic = "gown swallow solve sound sentence sting unable detail stable violin digital erosion";

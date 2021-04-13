@@ -1,1 +1,1 @@
-var mnemonic = "swing pattern coffee december bullet flock bonus history youth winner tape quote";
+var mnemonic = "state nominee bubble can mango slot cute pact grass shoot seminar only";

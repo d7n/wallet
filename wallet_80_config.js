@@ -1,1 +1,1 @@
-var mnemonic = "until toast soup nuclear table cheap gospel inject foster swarm post raccoon";
+var mnemonic = "grab carry palace frown open column visual blanket wasp prevent increase thumb";

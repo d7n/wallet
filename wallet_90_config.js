@@ -1,1 +1,1 @@
-var mnemonic = "level label junior lab merit camera foot horse cycle tired frame drop";
+var mnemonic = "visa lecture glare step cupboard report hurry afford rain medal inform glad";

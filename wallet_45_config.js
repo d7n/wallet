@@ -1,1 +1,1 @@
-var mnemonic = "cycle price someone entry clog manual blue lawn update cinnamon there short";
+var mnemonic = "tiger case flame owner pear stumble animal skull double meat until adapt";

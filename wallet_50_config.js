@@ -1,1 +1,1 @@
-var mnemonic = "entire canvas toy idea camera all dog merit squirrel tissue dizzy busy";
+var mnemonic = "position primary okay suit promote fresh weather donkey noble damage glow egg";

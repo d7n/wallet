@@ -1,1 +1,1 @@
-var mnemonic = "umbrella hub jazz hard assume always attract arm spice burst chair endless";
+var mnemonic = "edit empty system random chimney celery wheel crime leopard pretty case stairs";

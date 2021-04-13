@@ -1,1 +1,1 @@
-var mnemonic = "bullet gaze battle demise bacon craft under wagon water crater figure find";
+var mnemonic = "dove animal turtle reduce brother album very moon bottom elder gift worry";

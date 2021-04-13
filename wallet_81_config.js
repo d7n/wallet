@@ -1,1 +1,1 @@
-var mnemonic = "until above sadness speak correct spawn dwarf south soup addict appear permit";
+var mnemonic = "sure twice april setup autumn approve force march act puzzle dress parrot";

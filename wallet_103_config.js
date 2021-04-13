@@ -1,1 +1,1 @@
-var mnemonic = "glad brand prevent avocado always open rival tube great put pudding celery";
+var mnemonic = "point give rigid answer quick affair tone clever ring open rescue remind";

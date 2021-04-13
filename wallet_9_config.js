@@ -1,1 +1,1 @@
-var mnemonic = "orchard struggle welcome space bone over armor firm flip unfair whale volcano";
+var mnemonic = "vacuum despair list armor always tell deer zone inhale glove struggle mean";

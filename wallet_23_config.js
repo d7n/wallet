@@ -1,1 +1,1 @@
-var mnemonic = "unlock bronze ecology dust theme phone type disorder novel blast basket strong";
+var mnemonic = "mistake plunge interest empower arrow true learn acoustic original lab federal such";

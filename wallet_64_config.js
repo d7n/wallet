@@ -1,1 +1,1 @@
-var mnemonic = "convince more cluster soda cement side dress another update this sword pink";
+var mnemonic = "accuse art list alien hamster spike gospel tone fault tackle poverty cover";

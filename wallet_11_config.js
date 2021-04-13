@@ -1,1 +1,1 @@
-var mnemonic = "noble rely sun quiz smoke kingdom outside apple monkey aunt fortune viable";
+var mnemonic = "pistol tissue hint diamond weather eye radar quote youth dial sunset load";

@@ -1,1 +1,1 @@
-var mnemonic = "fork drama pink attitude endorse team will change boil panic tennis inside";
+var mnemonic = "fabric then fox little cross melt drastic mixed festival garage brand gate";

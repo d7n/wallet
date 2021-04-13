@@ -1,1 +1,1 @@
-var mnemonic = "borrow ginger seek scene bind barely crew recycle cupboard shallow fan bid";
+var mnemonic = "struggle inflict bitter embrace permit state album vital grace teach organ wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch asset high black post sniff ozone raise supreme film consider eagle";
+var mnemonic = "lady village purse ecology priority plate glimpse castle notable hat voyage latin";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar mix various aware oyster poem random day history metal wait quiz";
+var mnemonic = "rate dragon donkey captain giggle book jacket pioneer inspire injury topple enrich";

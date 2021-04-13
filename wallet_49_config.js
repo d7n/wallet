@@ -1,1 +1,1 @@
-var mnemonic = "fruit squeeze abandon bread manual stem cook concert machine usage shallow ability";
+var mnemonic = "hybrid rebel fold traffic half choice modify urge outside case metal combine";

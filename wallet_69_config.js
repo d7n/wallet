@@ -1,1 +1,1 @@
-var mnemonic = "warrior eagle develop horse group switch label kangaroo left join illness phone";
+var mnemonic = "song october kingdom always hen bundle tree seed ahead food wealth canoe";

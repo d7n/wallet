@@ -1,1 +1,1 @@
-var mnemonic = "girl rate gossip rough movie refuse frown cook future journey lunch angle";
+var mnemonic = "finish truly antenna become stool laundry entire innocent any shrug step broken";

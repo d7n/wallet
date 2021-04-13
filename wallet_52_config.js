@@ -1,1 +1,1 @@
-var mnemonic = "enrich satisfy asset visit media decline worth answer coyote stereo swarm build";
+var mnemonic = "ritual prevent drip obtain topic winter dad blush trash satoshi sport mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "steel liquid rent mask rocket bag genuine banner logic secret cupboard hole";
+var mnemonic = "spend pitch submit cupboard build produce tube ticket suggest before crime vote";

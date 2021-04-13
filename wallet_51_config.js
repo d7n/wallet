@@ -1,1 +1,1 @@
-var mnemonic = "damage traffic remain ivory baby buzz december earn plastic treat keep olympic";
+var mnemonic = "damage excuse build sweet hockey draft basket thought crack skate reunion north";

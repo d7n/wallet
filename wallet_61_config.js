@@ -1,1 +1,1 @@
-var mnemonic = "junk private swallow venture shaft also tennis come potato cake vessel change";
+var mnemonic = "tip vast slow armed rigid fashion version noodle public type satisfy chef";

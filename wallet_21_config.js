@@ -1,1 +1,1 @@
-var mnemonic = "sick live brain act occur file raccoon alcohol clinic dignity reunion crime";
+var mnemonic = "present float blossom jewel job ready suspect answer tortoise script ranch open";

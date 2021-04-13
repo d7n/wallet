@@ -1,1 +1,1 @@
-var mnemonic = "monitor vote undo glove abstract seed nut sister dog delay topic october";
+var mnemonic = "kangaroo custom topple spirit little gaze sphere chase dynamic lumber aware fragile";

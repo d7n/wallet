@@ -1,1 +1,1 @@
-var mnemonic = "result decide wrist hollow submit cycle olympic thank grape choose model hammer";
+var mnemonic = "drink lunch frost few dove program across ready spike thank hammer curve";

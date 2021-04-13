@@ -1,1 +1,1 @@
-var mnemonic = "guitar fever audit perfect excuse delay same census creek letter wrap tooth";
+var mnemonic = "super risk harvest aspect prevent miracle trick lyrics gather rule kidney unique";

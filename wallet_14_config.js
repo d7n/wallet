@@ -1,1 +1,1 @@
-var mnemonic = "weird shrimp mushroom climb area deputy jeans method present confirm afford ginger";
+var mnemonic = "predict jeans dawn shallow cement theme common simple canal toast palm cliff";

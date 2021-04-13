@@ -1,1 +1,1 @@
-var mnemonic = "coach apple abuse sunset hurry alter body omit meadow inherit tonight exist";
+var mnemonic = "valid rely movie case space skill salute matrix strong stool steel silver";

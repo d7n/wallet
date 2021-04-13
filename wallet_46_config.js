@@ -1,1 +1,1 @@
-var mnemonic = "mountain oval clutch song much wide lesson crystal process raven absent hard";
+var mnemonic = "humble luxury orchard famous title minimum strong melody right yellow prevent dwarf";

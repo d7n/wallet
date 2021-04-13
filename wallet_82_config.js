@@ -1,1 +1,1 @@
-var mnemonic = "sunset song cloud fantasy glide crumble space member divert toy quit scorpion";
+var mnemonic = "age moral inside breeze recycle fiction amazing hello usage squeeze kidney ginger";

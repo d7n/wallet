@@ -1,1 +1,1 @@
-var mnemonic = "alone car almost round picture ginger gadget pattern purchase ritual quantum dwarf";
+var mnemonic = "ghost attend speed notice area stamp quarter bench good doctor crazy make";

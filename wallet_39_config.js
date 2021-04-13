@@ -1,1 +1,1 @@
-var mnemonic = "reopen shed surround maximum oppose wrestle tip lawn aspect essay sphere indicate";
+var mnemonic = "morning horror imitate purpose describe gun knee stand crumble island zoo tobacco";

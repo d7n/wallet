@@ -1,1 +1,1 @@
-var mnemonic = "mutual slot cross output scare rather tiny weasel boring print ability brand";
+var mnemonic = "beyond ready express among silent rate town judge head tuna stomach visa";

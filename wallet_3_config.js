@@ -1,1 +1,1 @@
-var mnemonic = "april imitate faith mix prosper lobster donkey spare paper wish hurdle portion";
+var mnemonic = "surface lab wear great wife smart birth deal bracket woman jump miss";

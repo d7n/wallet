@@ -1,1 +1,1 @@
-var mnemonic = "surface jaguar wine keep assist clinic indicate vicious myself hunt copy morning";
+var mnemonic = "start pool guide hint age change soldier grid walnut head around conduct";

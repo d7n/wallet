@@ -1,1 +1,1 @@
-var mnemonic = "cruise excuse vapor garbage crisp series small embody width permit dumb together";
+var mnemonic = "good clown quiz pet embody garage police please giggle sorry clerk wisdom";

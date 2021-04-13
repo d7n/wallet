@@ -1,1 +1,1 @@
-var mnemonic = "abstract dinosaur aspect law choice army blue hero divide opera lake deer";
+var mnemonic = "save emotion reunion cattle visit protect gun prepare run repair bean naive";

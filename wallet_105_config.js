@@ -1,1 +1,1 @@
-var mnemonic = "refuse shaft task december hip cube provide grit market oil repair much";
+var mnemonic = "peace museum pencil thought essence salmon radio depth rebuild bridge attract next";

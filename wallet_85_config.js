@@ -1,1 +1,1 @@
-var mnemonic = "minor upset sheriff place glue napkin health monitor over obtain steak immune";
+var mnemonic = "project universe consider shed glide menu cat else very pencil olive cradle";

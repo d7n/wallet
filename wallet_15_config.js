@@ -1,1 +1,1 @@
-var mnemonic = "visa business dumb hazard medal dry congress wolf muscle east dirt caught";
+var mnemonic = "square enjoy arrest latin please appear program demand derive cargo dune boring";

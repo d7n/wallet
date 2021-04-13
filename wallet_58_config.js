@@ -1,1 +1,1 @@
-var mnemonic = "funny dilemma swim label private six vocal payment into decide fire pupil";
+var mnemonic = "finish fossil census fame swim spoil miracle evolve mandate twenty bottom pencil";

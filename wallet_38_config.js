@@ -1,1 +1,1 @@
-var mnemonic = "boat rural science pencil produce congress august cram tube surprise squirrel segment";
+var mnemonic = "orphan hero idea uniform snake orient eagle lesson wood rookie control nut";

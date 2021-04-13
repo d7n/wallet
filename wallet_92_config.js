@@ -1,1 +1,1 @@
-var mnemonic = "impose october consider alley cushion shoulder warrior bus select improve since board";
+var mnemonic = "cook also expose tiger control pave sadness parrot mixed great trip skull";

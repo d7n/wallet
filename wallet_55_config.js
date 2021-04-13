@@ -1,1 +1,1 @@
-var mnemonic = "original job morning service common arena spring rather round good inquiry castle";
+var mnemonic = "roof cricket decline false basket vapor effort armor almost badge volcano episode";

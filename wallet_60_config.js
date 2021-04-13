@@ -1,1 +1,1 @@
-var mnemonic = "cruise miracle recall embrace tube ecology pause movie erupt ladder gospel hunt";
+var mnemonic = "monitor diesel resist loyal unfold congress armed bar focus hub arena brisk";

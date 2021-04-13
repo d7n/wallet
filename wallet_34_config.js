@@ -1,1 +1,1 @@
-var mnemonic = "lake brief super story alcohol rural base void trigger congress erupt wasp";
+var mnemonic = "maze orchard job aerobic fashion brand happy that rebuild cousin web snap";

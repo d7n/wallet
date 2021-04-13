@@ -1,1 +1,1 @@
-var mnemonic = "item exhibit inch typical absurd isolate thunder water damage wet scan mass";
+var mnemonic = "six discover swear merry furnace hat economy avocado estate device resource elegant";
