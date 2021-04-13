@@ -1,1 +1,1 @@
-var mnemonic = "lazy they universe home cushion nice elder leaf protect below subway elephant";
+var mnemonic = "unlock cupboard kangaroo feature shove silver crazy gravity offer program tool three";

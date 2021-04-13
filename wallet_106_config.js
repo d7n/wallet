@@ -1,1 +1,1 @@
-var mnemonic = "fit scan corn spice cluster act laugh yard bicycle replace neglect license";
+var mnemonic = "oxygen alarm stereo license script beyond usual add team butter mesh heart";

@@ -1,1 +1,1 @@
-var mnemonic = "sell tiger shove until edit illegal shrimp inspire farm foster dish pumpkin";
+var mnemonic = "zoo gesture direct comic weekend example puzzle chief arena audit seek pattern";

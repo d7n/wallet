@@ -1,1 +1,1 @@
-var mnemonic = "trial cannon erode fiscal naive retreat possible absent tonight report jeans manage";
+var mnemonic = "whisper fossil upon access narrow garbage sock pupil salon move universe lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "wool identify kidney crush topic trust bind foil pact mango wise permit";
+var mnemonic = "company happy grass lizard garlic pride runway palace gather improve potato reject";

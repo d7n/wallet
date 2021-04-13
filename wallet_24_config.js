@@ -1,1 +1,1 @@
-var mnemonic = "evolve blouse chaos leg agent more sugar current nephew universe smoke cruel";
+var mnemonic = "you learn gap margin rug town retire service need ivory gold uncover";

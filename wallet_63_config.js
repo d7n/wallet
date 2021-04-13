@@ -1,1 +1,1 @@
-var mnemonic = "say soccer bacon ugly ship park oak you defense tell mass general";
+var mnemonic = "episode energy volcano happy genius plunge control music check snack project cricket";

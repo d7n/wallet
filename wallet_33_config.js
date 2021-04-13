@@ -1,1 +1,1 @@
-var mnemonic = "approve bring solid onion bag onion shift reveal brief shove glove mouse";
+var mnemonic = "place plunge opera clean derive siege simple solution accident hole rate quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle property spin evil mesh airport next core entry reason course print";
+var mnemonic = "winner response private nest tone chronic long tomato country polar gorilla mosquito";

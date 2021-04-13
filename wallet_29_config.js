@@ -1,1 +1,1 @@
-var mnemonic = "purity next quit exact lamp woman ensure alley rocket gown output blood";
+var mnemonic = "transfer that rude corn sunny awkward shaft hospital idea worry deputy stand";

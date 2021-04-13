@@ -1,1 +1,1 @@
-var mnemonic = "pony balance catch equip time buffalo item peasant involve local distance inch";
+var mnemonic = "culture stage grief winter believe assault sad artwork grunt warm ostrich unhappy";

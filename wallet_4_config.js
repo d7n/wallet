@@ -1,1 +1,1 @@
-var mnemonic = "apple prosper vague female relax cook buzz cactus tower thunder muffin van";
+var mnemonic = "reason peace maze autumn sail dinner wine almost degree glimpse wage message";

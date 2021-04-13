@@ -1,1 +1,1 @@
-var mnemonic = "program sausage keen friend bring alien joy fragile vault melt deposit long";
+var mnemonic = "sauce awful brush actress hospital better open frozen rent wave fiscal lonely";

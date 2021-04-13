@@ -1,1 +1,1 @@
-var mnemonic = "grace situate whisper call ritual save era gaze chief piece thumb vacuum";
+var mnemonic = "choose scout person game dawn lawn deputy reunion story bacon pave consider";

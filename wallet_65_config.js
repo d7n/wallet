@@ -1,1 +1,1 @@
-var mnemonic = "profit phrase card perfect square regret baby gap buffalo hope frog replace";
+var mnemonic = "island pledge hard start mother lab almost soft boss drift six proud";

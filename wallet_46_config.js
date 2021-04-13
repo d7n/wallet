@@ -1,1 +1,1 @@
-var mnemonic = "old ladder this labor kit property ship barely damp flat clump possible";
+var mnemonic = "easy during release web weapon text reflect shop fever much hand output";

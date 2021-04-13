@@ -1,1 +1,1 @@
-var mnemonic = "dragon under provide tip organ grow hurt ramp sting curtain core fee";
+var mnemonic = "boring myth similar cheese exhibit dice loud hobby expire indicate language basket";

@@ -1,1 +1,1 @@
-var mnemonic = "spend motion swallow cycle despair uncle logic crawl tide sauce syrup rent";
+var mnemonic = "bleak energy virus among assault palm seat tribe syrup quote worth source";

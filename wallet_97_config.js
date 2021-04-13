@@ -1,1 +1,1 @@
-var mnemonic = "palace husband rather wrist paper noble host cable crowd ocean ceiling brick";
+var mnemonic = "rack pen balcony lion sunny science farm excite message entire silver river";

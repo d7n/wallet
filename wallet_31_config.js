@@ -1,1 +1,1 @@
-var mnemonic = "actor carpet sure asset view bless village one virtual effort limit apart";
+var mnemonic = "people more know sadness jacket inquiry chef road body film bargain oil";

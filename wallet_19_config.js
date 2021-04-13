@@ -1,1 +1,1 @@
-var mnemonic = "acid chef wrap panda pupil add wife stone minor enjoy mesh initial";
+var mnemonic = "unfold position donkey elephant genre screen someone spare equal door brain family";

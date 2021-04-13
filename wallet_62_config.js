@@ -1,1 +1,1 @@
-var mnemonic = "permit uniform company veteran inch yard decade model coil romance upset canyon";
+var mnemonic = "program mail crucial task inquiry hero permit report library glass equal seminar";

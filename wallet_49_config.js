@@ -1,1 +1,1 @@
-var mnemonic = "drill exist strike cereal hamster nephew into tired danger budget laugh people";
+var mnemonic = "patient visit quick victory crush bean grant split adjust convince dog crazy";

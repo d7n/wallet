@@ -1,1 +1,1 @@
-var mnemonic = "lyrics beauty defense quick odor educate physical reopen daughter easily clever lottery";
+var mnemonic = "company supply celery machine want friend chase tower senior sail obscure milk";

@@ -1,1 +1,1 @@
-var mnemonic = "fold reunion ugly because wood arm twist about primary wire gather foster";
+var mnemonic = "base coil thought excite jelly vapor lift enroll boy fly uncle gadget";

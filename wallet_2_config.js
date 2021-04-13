@@ -1,1 +1,1 @@
-var mnemonic = "truck submit cluster boring general feed glad amused chronic depth survey tourist";
+var mnemonic = "mad atom mimic imitate below upset rocket right balance cage total metal";

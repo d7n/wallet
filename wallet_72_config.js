@@ -1,1 +1,1 @@
-var mnemonic = "ticket radio wisdom clump upgrade inform toe monkey trial million observe found";
+var mnemonic = "pattern coffee useful jelly gadget film cycle color tortoise farm position agent";

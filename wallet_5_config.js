@@ -1,1 +1,1 @@
-var mnemonic = "mean conduct tenant gather alarm sea cycle stereo trouble clinic bread pet";
+var mnemonic = "rally devote moon visa private wrap achieve ride radio short eternal wealth";

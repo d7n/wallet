@@ -1,1 +1,1 @@
-var mnemonic = "miss crush lottery alert action grit slight butter hollow prize across maze";
+var mnemonic = "copy sing custom fringe unveil that valid memory pipe impose glory imitate";

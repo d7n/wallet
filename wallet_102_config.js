@@ -1,1 +1,1 @@
-var mnemonic = "pet dolphin floor logic demise edge harbor canyon they estate cattle turn";
+var mnemonic = "basic mother release tomato trip hospital dwarf loyal bench square amused infant";

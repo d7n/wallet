@@ -1,1 +1,1 @@
-var mnemonic = "topple muscle suggest raw machine range black hood reason during jeans index";
+var mnemonic = "quick dash chapter donate physical sunny castle discover dirt review palace rubber";

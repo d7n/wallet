@@ -1,1 +1,1 @@
-var mnemonic = "person employ input way journey punch version sweet forget galaxy bracket master";
+var mnemonic = "deal hour pudding fox secret attract spawn layer crucial stock soup fit";

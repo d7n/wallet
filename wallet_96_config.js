@@ -1,1 +1,1 @@
-var mnemonic = "march churn reason chief subject abstract laundry roast fox quote noodle bitter";
+var mnemonic = "mail helmet science mule fury shadow forest since million exist pledge total";

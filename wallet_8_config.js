@@ -1,1 +1,1 @@
-var mnemonic = "zero fog what squeeze poem cloud disease elevator point label august gloom";
+var mnemonic = "pride possible gift tobacco giggle rose used ski square enforce fan canoe";

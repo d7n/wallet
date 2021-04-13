@@ -1,1 +1,1 @@
-var mnemonic = "mom olympic chimney climb portion nephew wealth apple inform ribbon cement tuition";
+var mnemonic = "inmate valley blood olive scrap myself convince whip unique fix early parade";

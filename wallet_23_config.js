@@ -1,1 +1,1 @@
-var mnemonic = "spell seat example legal creek dismiss again clap ship oak stadium devote";
+var mnemonic = "rubber romance tenant garlic snake pact notice aware glow close ripple gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "fury cage you ring refuse strike space tomorrow exercise water explain obvious";
+var mnemonic = "day fruit uphold flame twelve flame board learn tent mask shrug shy";

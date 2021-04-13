@@ -1,1 +1,1 @@
-var mnemonic = "robust pitch meadow tide dial tiger toward express moment buzz wire engage";
+var mnemonic = "noise canoe airport swift web life menu aerobic supreme black dizzy matrix";

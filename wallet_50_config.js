@@ -1,1 +1,1 @@
-var mnemonic = "increase step world erupt broccoli slight lizard repair topic huge erase erase";
+var mnemonic = "narrow trip fatigue enemy sniff horse mail machine mind middle soul differ";

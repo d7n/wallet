@@ -1,1 +1,1 @@
-var mnemonic = "vague oven rude grain journey note bleak stable chunk snow devote mushroom";
+var mnemonic = "own sleep buyer pupil wish film doll tube ill eye desert decline";

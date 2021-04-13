@@ -1,1 +1,1 @@
-var mnemonic = "pass stove wedding gun corn now toy camp web marble agree devote";
+var mnemonic = "wait host hello float sick spike ticket anchor endless envelope pledge develop";

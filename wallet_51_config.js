@@ -1,1 +1,1 @@
-var mnemonic = "loyal parent edit eager coach wool warfare appear caution reward item excuse";
+var mnemonic = "lobster advance similar code artefact cause spot ten rabbit ridge subway result";

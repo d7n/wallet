@@ -1,1 +1,1 @@
-var mnemonic = "finger frozen pink public shallow weasel toddler merge liberty divide stand weird";
+var mnemonic = "child shine knife tag quit until surge ask company evil total column";

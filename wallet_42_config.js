@@ -1,1 +1,1 @@
-var mnemonic = "brain grunt depth burger palace enemy husband sadness pepper crash chunk iron";
+var mnemonic = "fashion ancient one wing favorite already bone seek have junior firm velvet";

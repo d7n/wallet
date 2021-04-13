@@ -1,1 +1,1 @@
-var mnemonic = "jar denial april pretty cycle pigeon replace shift wine novel exhaust crumble";
+var mnemonic = "open shy scrub recipe oppose fault surge episode sorry plunge never require";

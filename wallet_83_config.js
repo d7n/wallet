@@ -1,1 +1,1 @@
-var mnemonic = "chaos foam wall push human noise answer clever evoke actor fashion napkin";
+var mnemonic = "labor fabric lonely gate actress few ritual language just material rose isolate";

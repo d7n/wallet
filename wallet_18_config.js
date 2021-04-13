@@ -1,1 +1,1 @@
-var mnemonic = "garment beauty outer razor sibling silly spice tragic regular argue tray sleep";
+var mnemonic = "ride future waste struggle intact aim find flower crew time spawn capable";

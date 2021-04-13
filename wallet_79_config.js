@@ -1,1 +1,1 @@
-var mnemonic = "electric margin blue tumble strong beyond sight pattern wild recycle eight strategy";
+var mnemonic = "wisdom brief crumble label amused junk awesome metal major must grab plastic";

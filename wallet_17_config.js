@@ -1,1 +1,1 @@
-var mnemonic = "spell recycle spawn earn roof dirt giant ribbon stuff enable luxury shop";
+var mnemonic = "profit lazy inherit piano galaxy spice abstract level future staff bronze purity";

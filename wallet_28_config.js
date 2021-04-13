@@ -1,1 +1,1 @@
-var mnemonic = "casual whale clump guitar rice half ten hill ecology sweet edit sentence";
+var mnemonic = "kiss beef bid saddle mountain fame shadow digital alter neutral first neglect";

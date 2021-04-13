@@ -1,1 +1,1 @@
-var mnemonic = "exact file certain unique disease rose fire dentist divide cup start cactus";
+var mnemonic = "switch arctic illness vicious quote sport plunge anchor fork sun north fatal";

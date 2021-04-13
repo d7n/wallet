@@ -1,1 +1,1 @@
-var mnemonic = "oxygen worth abandon finger wasp salad boring evidence that wire wedding tennis";
+var mnemonic = "limb travel mean ozone raw smile hazard cute make frost toy invite";

@@ -1,1 +1,1 @@
-var mnemonic = "occur ghost aerobic gap habit news advice arrange normal kite bulk vessel";
+var mnemonic = "funny scan setup eager critic punch number boost guitar horse poet math";

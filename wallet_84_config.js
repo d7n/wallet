@@ -1,1 +1,1 @@
-var mnemonic = "object arrive install notable expire feel vapor strategy valve skin clarify unaware";
+var mnemonic = "cotton repeat fat trash impulse only tank frown physical remove police foil";

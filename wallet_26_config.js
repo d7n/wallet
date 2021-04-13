@@ -1,1 +1,1 @@
-var mnemonic = "wet sister library route payment auto swallow nice puppy scene rose ceiling";
+var mnemonic = "cross split fiscal raise saddle clean attract label space black annual account";

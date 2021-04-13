@@ -1,1 +1,1 @@
-var mnemonic = "wealth various shell mimic biology snap heart throw pioneer combine cigar toward";
+var mnemonic = "similar renew clip whip burger arm negative badge yard zoo biology gallery";

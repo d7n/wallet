@@ -1,1 +1,1 @@
-var mnemonic = "celery ready already sense elbow steak identify gloom cheap tooth orchard buffalo";
+var mnemonic = "wink thing choice wagon state where group inhale choose bus wish salad";

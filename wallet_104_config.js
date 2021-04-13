@@ -1,1 +1,1 @@
-var mnemonic = "wise mistake sing vault plastic stool sight trust merit profit device when";
+var mnemonic = "upgrade session grow forget barely zoo quick squirrel below when rose various";

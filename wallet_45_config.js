@@ -1,1 +1,1 @@
-var mnemonic = "labor shuffle slogan enforce crush stool panic high cricket crawl shy bubble";
+var mnemonic = "fiber myth bullet reunion blade labor isolate business response ready borrow acoustic";

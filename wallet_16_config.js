@@ -1,1 +1,1 @@
-var mnemonic = "sport spawn crowd chunk whisper crime myth endless draft thunder plug harbor";
+var mnemonic = "one lazy tribe obvious hill arctic shock angry hammer stereo mountain push";

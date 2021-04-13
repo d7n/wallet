@@ -1,1 +1,1 @@
-var mnemonic = "kid donkey member steel asthma stand author pill chimney civil rack wonder";
+var mnemonic = "task hurry later employ rich accident rude cherry leg moral merit fragile";

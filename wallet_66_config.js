@@ -1,1 +1,1 @@
-var mnemonic = "size hurt regular bracket squirrel weird want orange gate inject panic vibrant";
+var mnemonic = "little razor decline pair side mad defy improve nephew gorilla cloud upset";

@@ -1,1 +1,1 @@
-var mnemonic = "food aunt present drill give slogan dress hat switch devote pact anxiety";
+var mnemonic = "reason brick air toe food curtain fine pioneer car surge yard spider";

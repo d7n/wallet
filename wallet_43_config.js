@@ -1,1 +1,1 @@
-var mnemonic = "scene donkey resist wealth trend come violin service idea crowd medal act";
+var mnemonic = "note spirit exact weather bundle find dove salad story foot sponsor can";

@@ -1,1 +1,1 @@
-var mnemonic = "lab onion rescue dawn wage wrestle nation draw chair silly curve arrest";
+var mnemonic = "wine eight expand rookie broccoli zero once prefer dirt senior pottery agent";

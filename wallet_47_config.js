@@ -1,1 +1,1 @@
-var mnemonic = "bag critic style retire bless panic minute zebra jealous chair narrow jeans";
+var mnemonic = "approve clever business liquid kid trigger code similar rail kiss goose call";

@@ -1,1 +1,1 @@
-var mnemonic = "job coyote adjust valve toast equip carry pudding creek same either wood";
+var mnemonic = "excess weapon rail invite angle ethics swallow drive february hover tone casino";

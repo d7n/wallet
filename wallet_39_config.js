@@ -1,1 +1,1 @@
-var mnemonic = "describe slide orient trash tragic transfer awkward token shoe cause pave wise";
+var mnemonic = "cloud power state witness fantasy early scrap again assault awkward panther oven";

@@ -1,1 +1,1 @@
-var mnemonic = "region educate treat pool minute economy sting estate around faith file august";
+var mnemonic = "exercise topple maximum exit like shrimp hurdle seat embark same catalog liquid";

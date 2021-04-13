@@ -1,1 +1,1 @@
-var mnemonic = "valid grape pig summer pause sketch one donate distance carry manual rice";
+var mnemonic = "lyrics unlock near actual muffin gentle misery multiply suspect vague fat charge";

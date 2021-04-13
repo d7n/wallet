@@ -1,1 +1,1 @@
-var mnemonic = "whip exist hazard engine city used media liberty ensure weapon bitter body";
+var mnemonic = "meat cross all gorilla wrestle labor coconut cement level danger switch film";

@@ -1,1 +1,1 @@
-var mnemonic = "physical bread thought unfold stock rapid fly reveal bulk hello club animal";
+var mnemonic = "burst elbow inspire spend obtain kiwi slam method forget aware immense embark";

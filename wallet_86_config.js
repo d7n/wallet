@@ -1,1 +1,1 @@
-var mnemonic = "duck high property achieve excuse slender film hammer flavor harsh attitude start";
+var mnemonic = "hawk donate tilt tray all south behave forget source paddle kid vessel";

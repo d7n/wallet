@@ -1,1 +1,1 @@
-var mnemonic = "icon hint width ridge atom smoke tape toilet spare client skate situate";
+var mnemonic = "future manual slide reward potato side draw donkey tuition car crucial husband";

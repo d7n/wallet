@@ -1,1 +1,1 @@
-var mnemonic = "shell panda tonight invest ketchup weird level accident depth tail bubble cover";
+var mnemonic = "winter domain try fashion shield swap equip vacuum guide dial empower phone";

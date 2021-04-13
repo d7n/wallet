@@ -1,1 +1,1 @@
-var mnemonic = "select ill marine suffer bargain admit pull hammer envelope chaos state inner";
+var mnemonic = "source cruel ivory globe dinosaur foil stove zero width wish abstract enhance";

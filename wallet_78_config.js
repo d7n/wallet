@@ -1,1 +1,1 @@
-var mnemonic = "runway edge torch glow aware uniform coil burden session meadow creek mix";
+var mnemonic = "deal term cricket sentence escape artefact elevator fluid can armor wet gauge";

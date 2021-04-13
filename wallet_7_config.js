@@ -1,1 +1,1 @@
-var mnemonic = "guide debris middle attend fruit direct immense approve glow fault apart shrug";
+var mnemonic = "pottery number candy park present ten pond monitor insane express cruel light";

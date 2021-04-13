@@ -1,1 +1,1 @@
-var mnemonic = "grab glance notable gauge library afraid actor eye later buddy either blur";
+var mnemonic = "wealth miss shadow either destroy bunker coyote pattern laptop sphere response utility";

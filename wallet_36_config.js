@@ -1,1 +1,1 @@
-var mnemonic = "affair shallow only ritual throw end spell crystal plate waste act gorilla";
+var mnemonic = "twenty duty edit evidence truly crisp glad ostrich weapon able parrot initial";

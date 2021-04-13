@@ -1,1 +1,1 @@
-var mnemonic = "fault fitness spread sleep license mixture candy bubble smoke curtain live siren";
+var mnemonic = "peanut allow atom expect season cradle wise gap behave seven risk rough";

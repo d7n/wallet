@@ -1,1 +1,1 @@
-var mnemonic = "proud tilt blue satisfy opinion route noble autumn purity cigar solve science";
+var mnemonic = "guide head filter bronze hood radio pledge disagree dial casual pizza shock";

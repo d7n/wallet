@@ -1,1 +1,1 @@
-var mnemonic = "industry edit fine speak crime chest monitor casual meat pattern result tomorrow";
+var mnemonic = "other tilt fantasy hazard bicycle limit normal donor family volume general usual";

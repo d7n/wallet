@@ -1,1 +1,1 @@
-var mnemonic = "bamboo blur menu truly grass success wing honey maze come security vital";
+var mnemonic = "forget cousin wide seat baby noodle type census early recall mobile evolve";

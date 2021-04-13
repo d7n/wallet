@@ -1,1 +1,1 @@
-var mnemonic = "grid spray cactus diary accuse advance turn infant whip antenna convince liar";
+var mnemonic = "copper frown spell deliver miracle height own box decline gossip island thunder";

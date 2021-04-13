@@ -1,1 +1,1 @@
-var mnemonic = "whip celery end memory better catalog until gasp various survey design horror";
+var mnemonic = "pass explain region put discover tourist defense dog document whisper toward roof";

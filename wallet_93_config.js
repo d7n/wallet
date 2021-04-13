@@ -1,1 +1,1 @@
-var mnemonic = "actor blood rival soccer donor clever taste demand salmon auto critic erode";
+var mnemonic = "resource luxury vendor click palm vast close bring clay describe pen spell";

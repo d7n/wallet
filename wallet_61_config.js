@@ -1,1 +1,1 @@
-var mnemonic = "enforce arm goat media duty height helmet plunge drive tomorrow forest group";
+var mnemonic = "dumb faculty clip raise kangaroo talk apart owner few catch planet predict";

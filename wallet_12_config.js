@@ -1,1 +1,1 @@
-var mnemonic = "honey curve section bunker garbage leave buffalo close pole urge beach slide";
+var mnemonic = "unfold stairs number enjoy render exercise open wonder source title enroll blur";

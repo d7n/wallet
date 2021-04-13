@@ -1,1 +1,1 @@
-var mnemonic = "blur sunny current debate health million dice dry cost crew boy cargo";
+var mnemonic = "mobile daring gravity idea multiply ripple run insane neutral also genre balance";

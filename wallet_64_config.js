@@ -1,1 +1,1 @@
-var mnemonic = "cage hospital melt bind blouse moral cabbage nephew thought giant surge skull";
+var mnemonic = "calm tourist flip more setup heavy animal owner asthma fold dress sand";

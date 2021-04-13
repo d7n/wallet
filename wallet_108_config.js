@@ -1,1 +1,1 @@
-var mnemonic = "reason maze sibling increase awesome sad pair type inflict copper matter winner";
+var mnemonic = "enlist tag tonight gold refuse monster bird moral afraid spoon flower sausage";
