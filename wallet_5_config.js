@@ -1,1 +1,1 @@
-var mnemonic = "afraid enjoy message canyon fun please reopen figure tuna mosquito afford fuel";
+var mnemonic = "axis select sunny target inside library spend glance aisle upper build base";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom gallery athlete spell suggest cotton squeeze indoor chimney fame dignity inside";
+var mnemonic = "ramp inch situate idle hollow parent loan thought weather know become during";

@@ -1,1 +1,1 @@
-var mnemonic = "treat melody key frown high report tortoise melt lend bike useless solar";
+var mnemonic = "ability clip seat demand swim december add rival grab shrug harsh truth";

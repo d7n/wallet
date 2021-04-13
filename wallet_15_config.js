@@ -1,1 +1,1 @@
-var mnemonic = "mercy link client expire about snack elephant witness art mass basket melt";
+var mnemonic = "wall chapter fantasy story frequent dove attract upper stove flat kangaroo energy";

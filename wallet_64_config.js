@@ -1,1 +1,1 @@
-var mnemonic = "rice venue hole clap kingdom bulb impose slot robot mule tide habit";
+var mnemonic = "grain taste skull leg device expand helmet obey develop left royal orbit";

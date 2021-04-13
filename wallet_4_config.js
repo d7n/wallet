@@ -1,1 +1,1 @@
-var mnemonic = "meat remind friend main visit behave pyramid intact vocal oval fantasy man";
+var mnemonic = "eight improve inject tape elite thrive grab angry tourist amused logic paddle";

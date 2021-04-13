@@ -1,1 +1,1 @@
-var mnemonic = "talent syrup chase dinner kangaroo blouse vague awesome lottery shy wage face";
+var mnemonic = "measure achieve exit reason nerve funny grant brown coral main close else";

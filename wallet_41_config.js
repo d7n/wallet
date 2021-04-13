@@ -1,1 +1,1 @@
-var mnemonic = "movie park fiscal wet frame mercy chair gather peasant radio chronic fresh";
+var mnemonic = "object one paddle target video popular grace dignity evil trade reward tunnel";

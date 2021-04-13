@@ -1,1 +1,1 @@
-var mnemonic = "cereal cousin number rent luxury sunset wool nation spawn cushion second letter";
+var mnemonic = "junior twist section recipe draft mother rubber drive update toddler frost label";

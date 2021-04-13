@@ -1,1 +1,1 @@
-var mnemonic = "mixed snake alpha siren erupt useful dinner blossom team panic slush trumpet";
+var mnemonic = "endless scale puzzle lottery middle chuckle gallery sport wool still ancient speed";

@@ -1,1 +1,1 @@
-var mnemonic = "below flash risk ordinary harbor repeat include entire element joke faculty auction";
+var mnemonic = "review syrup leisure address canvas gown paper orbit accuse wisdom peasant cart";

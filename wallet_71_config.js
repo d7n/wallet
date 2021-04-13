@@ -1,1 +1,1 @@
-var mnemonic = "quote shallow perfect regret general family limit devote buffalo weather custom shift";
+var mnemonic = "roof state delay hawk have remain glow popular audit tenant clump heart";

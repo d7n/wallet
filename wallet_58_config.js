@@ -1,1 +1,1 @@
-var mnemonic = "dish flock silver quantum family better kitchen axis crime inject word opinion";
+var mnemonic = "around retire office comic inhale shy bring float immune furnace topple expose";

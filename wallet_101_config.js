@@ -1,1 +1,1 @@
-var mnemonic = "remain what sentence radar column reflect infant tissue join lounge room jaguar";
+var mnemonic = "draw pact aware oil fossil divide recall churn cigar know trophy test";

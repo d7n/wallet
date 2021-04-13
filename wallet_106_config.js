@@ -1,1 +1,1 @@
-var mnemonic = "there endless young pole enemy banner wish kit input fiscal today subject";
+var mnemonic = "raw fossil retire someone shaft keen vivid screen nominee defense buyer hen";

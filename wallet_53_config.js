@@ -1,1 +1,1 @@
-var mnemonic = "female dog piece release neutral exhaust crack height volume math tackle suffer";
+var mnemonic = "ladder brush garbage december help mask mushroom awesome zone gym primary laugh";

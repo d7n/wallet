@@ -1,1 +1,1 @@
-var mnemonic = "brief post artwork eagle fault order crouch food village culture mouse hospital";
+var mnemonic = "lift avocado essay garment stage amount cereal liberty enlist radio random kiwi";

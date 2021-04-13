@@ -1,1 +1,1 @@
-var mnemonic = "ten raccoon uphold exhibit six armed trend talk finger desk chuckle duty";
+var mnemonic = "drama response table agree stem during dizzy dose lock machine slogan film";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain display settle spider uphold target blossom inject become emotion prosper flip";
+var mnemonic = "security usage carpet else afraid climb hawk carry title capital across metal";

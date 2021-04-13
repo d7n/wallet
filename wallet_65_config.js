@@ -1,1 +1,1 @@
-var mnemonic = "response observe fancy puzzle father meadow fish hammer maid simple monkey fish";
+var mnemonic = "remember brass cave lamp cushion muscle series quantum cram such steak remove";

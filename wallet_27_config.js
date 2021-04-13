@@ -1,1 +1,1 @@
-var mnemonic = "steak what shuffle okay dragon consider whip funny phone ice piece improve";
+var mnemonic = "maid drop often mosquito clump there hunt mean mechanic cotton earth walk";

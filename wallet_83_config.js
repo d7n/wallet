@@ -1,1 +1,1 @@
-var mnemonic = "dragon staff clean decrease voyage head evidence seat pilot panda gap path";
+var mnemonic = "divert sniff goddess olive poverty chuckle exotic tuition area decade lawn surface";

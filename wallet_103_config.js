@@ -1,1 +1,1 @@
-var mnemonic = "next demand sibling coconut card off desk soon sting flower warm liberty";
+var mnemonic = "huge stock reveal move deputy organ pistol rigid egg ladder trend pilot";

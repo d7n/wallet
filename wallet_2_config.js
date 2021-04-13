@@ -1,1 +1,1 @@
-var mnemonic = "repair wet bracket leaf dash sport crane tooth furnace shed glory general";
+var mnemonic = "keep hour media lecture sample find end reopen explain pigeon rotate latin";

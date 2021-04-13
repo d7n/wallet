@@ -1,1 +1,1 @@
-var mnemonic = "gym ten stool kiwi rail pair rebuild lounge brass city act duty";
+var mnemonic = "various wrong sting choice tumble mobile moon awake strike whale capital meat";

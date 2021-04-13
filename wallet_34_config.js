@@ -1,1 +1,1 @@
-var mnemonic = "indoor rabbit predict desert agree cactus ignore double patch peasant history area";
+var mnemonic = "scrap utility learn similar phone dose satoshi crush practice radio grocery acoustic";

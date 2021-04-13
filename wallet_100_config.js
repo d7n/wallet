@@ -1,1 +1,1 @@
-var mnemonic = "swear gallery rough enjoy reopen valid monkey lemon net card loop mesh";
+var mnemonic = "pact peasant wool slush language throw scene brick inside announce owner donate";

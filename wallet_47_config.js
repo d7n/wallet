@@ -1,1 +1,1 @@
-var mnemonic = "canvas pilot order screen dry describe license arrow moon more unveil quality";
+var mnemonic = "program joke remain height table depth intact sauce phone car mansion chapter";

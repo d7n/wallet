@@ -1,1 +1,1 @@
-var mnemonic = "item enable lecture jealous stomach dad tuition elephant spy height story gesture";
+var mnemonic = "rhythm radio retire warfare tumble earn grit frost ready lamp snack supply";

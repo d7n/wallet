@@ -1,1 +1,1 @@
-var mnemonic = "world kind topic apple piano write door quantum invest lottery crisp blouse";
+var mnemonic = "flag toss sauce belt fly burger push soldier month sibling nothing stable";

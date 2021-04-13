@@ -1,1 +1,1 @@
-var mnemonic = "surround salon slot nice gospel obscure language year ancient ghost goose dismiss";
+var mnemonic = "bachelor hire dynamic crack dutch hover enlist system undo dice nice good";

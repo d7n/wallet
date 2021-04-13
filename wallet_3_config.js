@@ -1,1 +1,1 @@
-var mnemonic = "stuff outdoor blush tunnel garment clutch shoe large manage light rescue deer";
+var mnemonic = "clump craft index lobster siren mass diet shrug finish side obscure hybrid";

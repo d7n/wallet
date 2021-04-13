@@ -1,1 +1,1 @@
-var mnemonic = "soft access prepare sad estate flame upgrade pride crumble resist depart wire";
+var mnemonic = "reason desert strategy dolphin bracket fade work wrong shaft hip naive solution";

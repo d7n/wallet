@@ -1,1 +1,1 @@
-var mnemonic = "market useless park myth round grass wrap oblige nut seat raccoon chimney";
+var mnemonic = "news chimney chimney clean image marble truck tired scorpion tragic much keep";

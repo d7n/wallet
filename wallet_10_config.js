@@ -1,1 +1,1 @@
-var mnemonic = "hole say around two weekend deny layer opinion present tiger unfair voice";
+var mnemonic = "behave scare orbit truth lunch april junior angry assist pull multiply champion";

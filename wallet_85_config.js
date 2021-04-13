@@ -1,1 +1,1 @@
-var mnemonic = "penalty option tomato crash dragon abstract shadow fat auto crush multiply banana";
+var mnemonic = "artwork orphan ready enact nerve fade tonight crunch network next sort balcony";

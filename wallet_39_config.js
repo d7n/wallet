@@ -1,1 +1,1 @@
-var mnemonic = "piece survey tent hope retire engage window dose outdoor ladder clerk giraffe";
+var mnemonic = "seek beyond tank news noodle slam when ivory such almost learn black";

@@ -1,1 +1,1 @@
-var mnemonic = "leave poem firm pig credit picnic autumn surround relax cannon owner core";
+var mnemonic = "tip mandate behave oil oxygen inmate pact admit airport awesome kind magic";

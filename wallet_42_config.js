@@ -1,1 +1,1 @@
-var mnemonic = "purity dish used base shoot column sibling pact acid improve silk knee";
+var mnemonic = "outside eternal universe fame major castle suspect reopen elevator soccer deer artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff total toy term elbow consider craft question suit coral range subway";
+var mnemonic = "hammer depth output mule dutch color recipe poem bleak flush bulb wheel";

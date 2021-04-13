@@ -1,1 +1,1 @@
-var mnemonic = "improve fiction way there inhale there turkey gap guard emotion upgrade click";
+var mnemonic = "heart clerk marriage pepper album assume security nuclear poem vendor clever repair";

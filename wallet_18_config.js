@@ -1,1 +1,1 @@
-var mnemonic = "intact discover share night magnet danger rigid blanket federal quit gloom dream";
+var mnemonic = "song please novel book salon friend gun law also fitness outdoor sport";

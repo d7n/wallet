@@ -1,1 +1,1 @@
-var mnemonic = "more shadow close inside pen tank section pet output duck smooth venture";
+var mnemonic = "pass inflict tilt fashion heart burden client immense valve donor hundred cage";

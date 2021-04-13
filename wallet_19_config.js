@@ -1,1 +1,1 @@
-var mnemonic = "employ toilet about adapt evil decorate toddler furnace input whale master man";
+var mnemonic = "abstract month awful reunion drill hurt language valley dress buddy runway meat";

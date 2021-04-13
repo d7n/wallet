@@ -1,1 +1,1 @@
-var mnemonic = "must burden have abuse accident twist baby resist merge lecture tunnel pen";
+var mnemonic = "argue tray round make margin symptom audit pet eagle tide blade plate";

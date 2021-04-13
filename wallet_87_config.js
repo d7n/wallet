@@ -1,1 +1,1 @@
-var mnemonic = "winner vehicle feature general jeans bracket extend differ wheat mention mixture game";
+var mnemonic = "keep labor plate topic muffin enable twelve pluck couch detail plug sadness";

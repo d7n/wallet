@@ -1,1 +1,1 @@
-var mnemonic = "artist plate salmon flip deny hen pretty pride kiwi bean desert brain";
+var mnemonic = "shy draft guitar pelican inside drive camp apart horror police skate bicycle";

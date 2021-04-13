@@ -1,1 +1,1 @@
-var mnemonic = "auto roof east future fame evidence decide culture act faith similar sport";
+var mnemonic = "brown estate bottom cook business maid lobster grant treat eagle diet lion";

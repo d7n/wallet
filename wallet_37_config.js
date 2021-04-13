@@ -1,1 +1,1 @@
-var mnemonic = "tennis route duck flight again brain already priority narrow similar wonder isolate";
+var mnemonic = "brave tissue first mango brain wood aerobic tomato violin dial kidney bullet";

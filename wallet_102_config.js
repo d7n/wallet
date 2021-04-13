@@ -1,1 +1,1 @@
-var mnemonic = "help body man anxiety make window favorite payment siege cool toy will";
+var mnemonic = "short lemon usage forum topic elbow arrange cloud idle lock supreme dilemma";

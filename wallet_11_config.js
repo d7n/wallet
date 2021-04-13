@@ -1,1 +1,1 @@
-var mnemonic = "snap hawk harsh push ahead urban actual perfect marble imitate cost burden";
+var mnemonic = "city love throw note mirror pool swift chair ranch broccoli thumb orchard";

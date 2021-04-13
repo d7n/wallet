@@ -1,1 +1,1 @@
-var mnemonic = "minimum object gesture banana pride pink huge skill exile toe knee crush";
+var mnemonic = "fit goddess release unable wash will mutual fashion tragic gentle valid pulse";

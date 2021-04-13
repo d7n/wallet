@@ -1,1 +1,1 @@
-var mnemonic = "era warrior vital glory sting citizen gain carpet saddle cash safe endorse";
+var mnemonic = "ensure world squirrel bread loop category diesel unfold kid assume chunk captain";

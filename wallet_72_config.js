@@ -1,1 +1,1 @@
-var mnemonic = "ill snap hurdle elbow picture crunch multiply call leader orient program fresh";
+var mnemonic = "shop sport fix sadness blood kitchen write dream safe spy brick person";

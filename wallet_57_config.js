@@ -1,1 +1,1 @@
-var mnemonic = "drastic become brave regular spell exclude dentist boring follow detect renew cloud";
+var mnemonic = "valve magic alone hope mother better kite list hood order diet sausage";

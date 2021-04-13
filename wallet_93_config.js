@@ -1,1 +1,1 @@
-var mnemonic = "wonder rapid cool truly add expect hurt observe wall photo worth ring";
+var mnemonic = "trial soft six sock stadium tobacco tool ten ugly once manage fabric";

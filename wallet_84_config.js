@@ -1,1 +1,1 @@
-var mnemonic = "again occur below talk another hold monitor ride stool pulse wheat physical";
+var mnemonic = "canal sight meadow cactus series gravity snake depth author frozen month salute";

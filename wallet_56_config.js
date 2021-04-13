@@ -1,1 +1,1 @@
-var mnemonic = "biology fog dash argue kit layer furnace measure link strategy bone canoe";
+var mnemonic = "throw robust brass ready great sunset quality game broom screen ginger wide";

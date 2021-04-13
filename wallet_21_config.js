@@ -1,1 +1,1 @@
-var mnemonic = "just method staff either social talent vast index coach balance begin foil";
+var mnemonic = "year wise maximum strong day detect festival equip cook glide lava wife";

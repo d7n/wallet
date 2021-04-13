@@ -1,1 +1,1 @@
-var mnemonic = "accident insane work receive rare huge frequent castle century embark sugar ignore";
+var mnemonic = "gain park diet slogan unaware uphold can infant else second alter network";

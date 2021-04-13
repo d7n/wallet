@@ -1,1 +1,1 @@
-var mnemonic = "audit letter spin false aware flush number crisp silk yard surprise badge";
+var mnemonic = "helmet defy tiny either fame swarm strike clip fiction crew gentle blush";

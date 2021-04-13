@@ -1,1 +1,1 @@
-var mnemonic = "runway token course remain equip laundry spoon recycle valley avoid tonight tool";
+var mnemonic = "devote step valve best gas replace obey truly hat spend mechanic open";

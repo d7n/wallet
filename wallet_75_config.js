@@ -1,1 +1,1 @@
-var mnemonic = "ship warfare under suspect deal brush sad artefact come naive detect hard";
+var mnemonic = "hobby swear gather umbrella glue game pond banana purpose census twice lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie vicious stone captain crew resemble rifle biology crucial harbor extend okay";
+var mnemonic = "check ordinary cancel flee enjoy bright battle wine hurt utility later iron";

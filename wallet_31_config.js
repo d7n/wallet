@@ -1,1 +1,1 @@
-var mnemonic = "lawn bronze dumb alert boy mean young wrist screen glory blush access";
+var mnemonic = "abuse moon stool inquiry flight fun soda crane door frequent affair because";

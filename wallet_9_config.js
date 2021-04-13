@@ -1,1 +1,1 @@
-var mnemonic = "ozone join floor steel stairs now brick sort song satoshi bridge digital";
+var mnemonic = "year spend smooth jar correct betray disorder stairs pause gather fatigue host";

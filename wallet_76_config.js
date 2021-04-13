@@ -1,1 +1,1 @@
-var mnemonic = "humor gun between deer want dove volcano trumpet fit dad dwarf master";
+var mnemonic = "subway method bundle champion ethics fall zone pledge mistake dial have jacket";

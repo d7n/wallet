@@ -1,1 +1,1 @@
-var mnemonic = "secret fun off convince wire bacon jaguar spoon riot dune release donor";
+var mnemonic = "bitter creek genre idle library list trust winter silver resemble dragon cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "photo occur best enlist finish bounce duck cinnamon utility cool whisper property";
+var mnemonic = "enter vital absent isolate pool banner address bracket swim manage exhaust purse";

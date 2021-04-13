@@ -1,1 +1,1 @@
-var mnemonic = "audit cage blush point differ window proof believe remain castle sound great";
+var mnemonic = "absurd turkey fruit pistol allow prepare sail bachelor double vendor fit risk";

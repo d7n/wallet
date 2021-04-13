@@ -1,1 +1,1 @@
-var mnemonic = "street pony rebel volcano jacket antique divert lend order what iron section";
+var mnemonic = "mixture rocket panic curtain emerge holiday chat penalty legal morning exhibit donkey";

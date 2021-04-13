@@ -1,1 +1,1 @@
-var mnemonic = "online bounce floor layer able fence kick fantasy desert critic antique fork";
+var mnemonic = "hollow mixture pizza chest quote attack quote drum tube system vast mechanic";

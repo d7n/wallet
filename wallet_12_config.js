@@ -1,1 +1,1 @@
-var mnemonic = "honey when viable orphan enemy west unusual trap setup taste gas purse";
+var mnemonic = "language eternal emerge mom stomach skull creek original yard movie family certain";

@@ -1,1 +1,1 @@
-var mnemonic = "firm hobby helmet hub critic entire tool range envelope hobby minor system";
+var mnemonic = "sunny step alcohol giggle focus robust intact sick unfold price attract joy";

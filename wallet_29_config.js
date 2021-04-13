@@ -1,1 +1,1 @@
-var mnemonic = "toe essay hat accident crawl carpet obscure cargo pumpkin feature nurse arch";
+var mnemonic = "spy nut reunion victory cannon toss fresh spare salt candy evidence copper";

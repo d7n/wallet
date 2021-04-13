@@ -1,1 +1,1 @@
-var mnemonic = "upper pluck gate abandon honey grain omit sniff insane wolf lumber diet";
+var mnemonic = "item spy egg elevator mean stumble energy month later fly latin vault";

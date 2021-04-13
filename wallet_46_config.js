@@ -1,1 +1,1 @@
-var mnemonic = "social fuel main frog omit erosion boost more govern gallery chief element";
+var mnemonic = "lava primary unique cattle region cost hand wool easy husband dutch cargo";

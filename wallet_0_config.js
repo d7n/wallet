@@ -1,1 +1,1 @@
-var mnemonic = "explain virtual lesson oven lawsuit camera afraid prison weekend sell stay reason";
+var mnemonic = "motor piano caught torch call record square noodle february first adapt avocado";

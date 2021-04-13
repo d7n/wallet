@@ -1,1 +1,1 @@
-var mnemonic = "corn travel penalty run ring what predict deliver boss profit man guide";
+var mnemonic = "proud evolve bless praise forget speed horn wise solve funny rich divide";

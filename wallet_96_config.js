@@ -1,1 +1,1 @@
-var mnemonic = "powder girl endless fantasy crew swap sweet title lobster nose better insect";
+var mnemonic = "doll other such web yard wash trumpet again enjoy vault zebra elder";

@@ -1,1 +1,1 @@
-var mnemonic = "roof sausage glove oblige patrol will common tuna team sorry tuna text";
+var mnemonic = "muffin sniff lift antenna depth reunion decade humble concert clock laptop paper";

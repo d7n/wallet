@@ -1,1 +1,1 @@
-var mnemonic = "trim rice symbol material style orphan smile distance decorate long ceiling favorite";
+var mnemonic = "suspect food smile assume elder chronic sausage inherit inject kiwi hawk shove";

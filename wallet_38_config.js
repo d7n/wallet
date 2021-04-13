@@ -1,1 +1,1 @@
-var mnemonic = "pyramid elite foster sun wreck oyster flavor cook tattoo record outside double";
+var mnemonic = "need speak script acid fly magic sibling violin barrel social space garment";

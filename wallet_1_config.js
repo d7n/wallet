@@ -1,1 +1,1 @@
-var mnemonic = "hold embark uphold bubble film video rival brain olive maid climb leave";
+var mnemonic = "whale else crazy misery trend fitness total dress ketchup learn token inquiry";

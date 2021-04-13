@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog ensure curious hundred sleep pizza top address two cry taxi few";
+var mnemonic = "monitor slam salon gift evil inmate tackle case swim left south dirt";

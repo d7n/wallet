@@ -1,1 +1,1 @@
-var mnemonic = "unknown differ connect obvious update illness casual van demand super chronic spare";
+var mnemonic = "friend where inflict auction caution clump ride priority affair tired enter easily";

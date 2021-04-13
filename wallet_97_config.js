@@ -1,1 +1,1 @@
-var mnemonic = "already brass future project spice grass orange crane stool meadow dash velvet";
+var mnemonic = "mutual mobile crowd funny best federal case unfold attend cube pink legal";

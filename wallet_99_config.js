@@ -1,1 +1,1 @@
-var mnemonic = "horse gallery text chef balcony pitch shallow fresh rapid snack hidden midnight";
+var mnemonic = "south travel coconut acid prosper much portion jar rose torch need wing";
