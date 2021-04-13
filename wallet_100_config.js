@@ -1,1 +1,1 @@
-var mnemonic = "music quote acid put volume payment today sniff soft quality embody breeze";
+var mnemonic = "review half hood sorry symbol delay door spin witness oxygen inflict memory";

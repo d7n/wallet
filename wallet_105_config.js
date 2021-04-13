@@ -1,1 +1,1 @@
-var mnemonic = "intact three brass couple hollow embrace voice toast margin link suffer bubble";
+var mnemonic = "name relief stadium accuse situate tongue explain medal budget grief achieve expose";

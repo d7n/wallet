@@ -1,1 +1,1 @@
-var mnemonic = "powder car system income caution peace squeeze width similar stairs client emerge";
+var mnemonic = "silver unfold tragic produce moon twenty noodle ramp two private acquire job";

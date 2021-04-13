@@ -1,1 +1,1 @@
-var mnemonic = "party shock vacuum speed public broom off sound machine behind wheel maid";
+var mnemonic = "train noodle remind jealous top glow disorder toilet very sphere pepper cigar";

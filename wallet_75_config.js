@@ -1,1 +1,1 @@
-var mnemonic = "over radar iron august alley labor shock project egg cross smooth hair";
+var mnemonic = "fold panic butter cheap suffer luxury pull adult veteran riot dolphin conduct";

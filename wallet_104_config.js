@@ -1,1 +1,1 @@
-var mnemonic = "session allow labor actual private ribbon army burst bachelor discover acquire tube";
+var mnemonic = "gym original fortune giraffe trap loop basic park upgrade weekend mixture grape";

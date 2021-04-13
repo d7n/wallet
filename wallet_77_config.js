@@ -1,1 +1,1 @@
-var mnemonic = "north nature mandate waste hammer upset bike install awesome neither rich athlete";
+var mnemonic = "flush such present disease desk street length pizza hint salmon whisper mechanic";

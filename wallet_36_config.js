@@ -1,1 +1,1 @@
-var mnemonic = "dizzy enable equip novel other clean glue also doctor tobacco stuff erupt";
+var mnemonic = "return only gadget mechanic pluck group eight art practice physical nation about";

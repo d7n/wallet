@@ -1,1 +1,1 @@
-var mnemonic = "dizzy zone adjust nephew liquid exact siege educate lab nothing mass video";
+var mnemonic = "easy assault bullet iron minute tobacco coconut still rib like wife oven";

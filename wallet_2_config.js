@@ -1,1 +1,1 @@
-var mnemonic = "garlic gaze beach stomach enhance renew mail pyramid final time rude diary";
+var mnemonic = "barely artwork surface soup else output pitch indicate near educate axis border";

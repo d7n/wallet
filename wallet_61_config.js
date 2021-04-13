@@ -1,1 +1,1 @@
-var mnemonic = "chaos boy bachelor lonely question return cruise sell february sting suggest grid";
+var mnemonic = "half valley pause switch snow enact toe need friend unaware gas work";

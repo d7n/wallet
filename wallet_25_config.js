@@ -1,1 +1,1 @@
-var mnemonic = "select gap regret ramp arrest snack clay chimney describe attend coil model";
+var mnemonic = "october urge whip fold cloth evidence glory purpose negative tank safe two";

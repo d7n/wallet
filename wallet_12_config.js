@@ -1,1 +1,1 @@
-var mnemonic = "floor fancy obscure autumn sand about input cradle dune illegal boy brand";
+var mnemonic = "swift lock sleep common capital physical yellow task broccoli rich soul shock";

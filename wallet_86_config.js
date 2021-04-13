@@ -1,1 +1,1 @@
-var mnemonic = "digital wing industry mistake word ketchup weather verb inmate design digital boat";
+var mnemonic = "success sister close develop boy harvest nothing bind siege century pledge liar";

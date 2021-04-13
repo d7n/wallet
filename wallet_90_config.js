@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow enact outside afraid salmon radio rent moment dynamic upgrade worry blossom";
+var mnemonic = "miracle normal ill check ozone trim hard kiss garbage stuff fury domain";

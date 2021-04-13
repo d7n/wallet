@@ -1,1 +1,1 @@
-var mnemonic = "half minimum right jeans rookie caught fringe oak canoe myself uncover buffalo";
+var mnemonic = "valley bulk asthma autumn upgrade toddler wrestle blouse august warm maximum wrist";

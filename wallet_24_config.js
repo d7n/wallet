@@ -1,1 +1,1 @@
-var mnemonic = "affair antenna tissue tumble caution wrestle wing pepper sand urge zero short";
+var mnemonic = "pride shrimp rookie crisp cart dog surface picnic spin bulk fox fit";

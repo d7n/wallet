@@ -1,1 +1,1 @@
-var mnemonic = "manual honey dutch match panel moment rather engage exotic toe magic column";
+var mnemonic = "left world cement wrestle squeeze labor cram border race polar lyrics worry";

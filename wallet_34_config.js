@@ -1,1 +1,1 @@
-var mnemonic = "retire razor produce provide luxury diesel jewel kid able lottery pen sheriff";
+var mnemonic = "flag divide express rotate certain broken easily pitch nut flee possible asthma";

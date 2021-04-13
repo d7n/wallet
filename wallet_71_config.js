@@ -1,1 +1,1 @@
-var mnemonic = "torch hen behave quiz easily section public load behave way meadow famous";
+var mnemonic = "palace express child ocean village few sign orient together fiber spatial pluck";

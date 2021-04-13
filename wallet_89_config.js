@@ -1,1 +1,1 @@
-var mnemonic = "until prosper tray upgrade coin pencil rally swim interest romance tank crunch";
+var mnemonic = "until drill case wage crucial pony typical cause panther mean oven until";

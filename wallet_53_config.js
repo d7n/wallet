@@ -1,1 +1,1 @@
-var mnemonic = "churn tiger uniform velvet average gallery miss climb occur divert indicate slogan";
+var mnemonic = "cruise erode blame crash offer south battle segment brave hurt nerve used";

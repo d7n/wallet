@@ -1,1 +1,1 @@
-var mnemonic = "hood snack spatial make urge palm fox service airport nation patient chuckle";
+var mnemonic = "news fee mention ahead boost object rebel clump treat right make music";

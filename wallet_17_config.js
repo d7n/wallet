@@ -1,1 +1,1 @@
-var mnemonic = "limb addict photo match pole example chaos sheriff empty victory indicate large";
+var mnemonic = "little diet kit library jeans clay virus margin grunt sheriff cute skill";

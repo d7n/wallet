@@ -1,1 +1,1 @@
-var mnemonic = "satoshi infant inform just balance play math thank arch night leg health";
+var mnemonic = "bicycle symbol arena describe oil brown page smooth neither industry flag reduce";

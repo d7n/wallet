@@ -1,1 +1,1 @@
-var mnemonic = "evidence crush veteran helmet toward print lizard fold coil twelve party column";
+var mnemonic = "attract develop slender garage found run jaguar ostrich sunset neutral noble frequent";

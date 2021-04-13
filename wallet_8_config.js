@@ -1,1 +1,1 @@
-var mnemonic = "drift myth daughter broccoli reject hamster detect remain employ canoe art amateur";
+var mnemonic = "robot resource destroy parent naive young coffee admit tool speak pole grain";

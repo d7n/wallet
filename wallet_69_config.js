@@ -1,1 +1,1 @@
-var mnemonic = "poem bottom unique neglect analyst bicycle frequent raw mask they true magic";
+var mnemonic = "copper because exhaust deposit repeat attitude detail hood travel vacuum priority laugh";

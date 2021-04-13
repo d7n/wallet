@@ -1,1 +1,1 @@
-var mnemonic = "culture dragon flame wrestle interest label much kitten team copy measure divert";
+var mnemonic = "index wage thank icon celery wet live grass diagram between valve fiber";

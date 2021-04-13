@@ -1,1 +1,1 @@
-var mnemonic = "cross chaos pledge news combine basket step torch desk hint soap maze";
+var mnemonic = "address leaf horse grocery describe exotic voyage manual margin finger pluck emerge";

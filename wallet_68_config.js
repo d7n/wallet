@@ -1,1 +1,1 @@
-var mnemonic = "helmet shoulder they supply unhappy admit motion winter debris blind tray follow";
+var mnemonic = "error thrive tunnel eager congress staff ginger lend utility become sugar uncle";

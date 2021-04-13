@@ -1,1 +1,1 @@
-var mnemonic = "wagon glimpse oil stay vibrant innocent praise midnight shrimp squirrel daughter object";
+var mnemonic = "guide about entire cry genre float amused return jaguar this nasty setup";

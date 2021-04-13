@@ -1,1 +1,1 @@
-var mnemonic = "panic depth purpose news earn salad forget arena almost moral because hedgehog";
+var mnemonic = "rally lady cement almost hidden abandon cram sort reflect useful raccoon panther";

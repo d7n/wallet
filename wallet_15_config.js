@@ -1,1 +1,1 @@
-var mnemonic = "game humble slender enemy hurt depth service flavor mimic chat general federal";
+var mnemonic = "dad odor faculty copper theory hurt daring theory other erupt prize cousin";

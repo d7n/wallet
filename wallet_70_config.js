@@ -1,1 +1,1 @@
-var mnemonic = "banner alcohol hybrid front chase expose obscure latin crowd muscle rich wait";
+var mnemonic = "devote skirt humor coast romance release adjust kiwi start chair violin analyst";

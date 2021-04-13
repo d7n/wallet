@@ -1,1 +1,1 @@
-var mnemonic = "fiction hood plug media large pizza fat urban economy kick metal rebel";
+var mnemonic = "crush viable palm lend blouse fatigue dog job box awful power luxury";

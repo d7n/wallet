@@ -1,1 +1,1 @@
-var mnemonic = "swift rice blast script claim obvious spare worry artefact figure emerge describe";
+var mnemonic = "surround exchange work relax any insect tone table quality parent news accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog brand inmate sadness rescue warfare act sphere nephew jaguar slow tuna";
+var mnemonic = "cup pistol price need kit sheriff crop motor feel chase robot blind";

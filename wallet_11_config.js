@@ -1,1 +1,1 @@
-var mnemonic = "cherry convince possible husband stone ramp lottery author track goose game arrow";
+var mnemonic = "puppy boil deposit yard all kidney hospital grape coast buyer cancel friend";

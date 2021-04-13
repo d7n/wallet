@@ -1,1 +1,1 @@
-var mnemonic = "yard fancy warfare sweet crucial pelican drop confirm major unfair desert spike";
+var mnemonic = "anger also crisp eight session night solar orange pumpkin wash fault dinner";

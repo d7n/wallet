@@ -1,1 +1,1 @@
-var mnemonic = "follow stumble wonder broccoli huge bridge alpha album avocado approve october just";
+var mnemonic = "sister truth twist enroll pink chunk cool tilt tank impact patch pattern";

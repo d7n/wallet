@@ -1,1 +1,1 @@
-var mnemonic = "toward wagon now torch seat glory rude indicate inherit shield auction sign";
+var mnemonic = "use lend mom fragile diesel faculty rail wasp where across close leopard";

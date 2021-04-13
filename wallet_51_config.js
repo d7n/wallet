@@ -1,1 +1,1 @@
-var mnemonic = "artefact feature mechanic master armor sun process salon credit style since coral";
+var mnemonic = "pigeon tray skirt strong fiber yellow flat program you home lecture renew";

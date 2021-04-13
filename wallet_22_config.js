@@ -1,1 +1,1 @@
-var mnemonic = "pause glory degree glare common apple near assist switch goat isolate kiss";
+var mnemonic = "brain excess slide jacket worth key ignore dove beef mistake camera what";

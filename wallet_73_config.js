@@ -1,1 +1,1 @@
-var mnemonic = "mimic torch sentence choose snap sausage helmet nature verify horror oyster occur";
+var mnemonic = "wood below visit parade brain filter mushroom strike picture canyon answer enough";

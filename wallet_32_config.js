@@ -1,1 +1,1 @@
-var mnemonic = "make flip hybrid air deny toddler addict save defense remember sound odor";
+var mnemonic = "switch fish decline alert trend pizza onion differ riot boat embody output";

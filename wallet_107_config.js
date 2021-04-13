@@ -1,1 +1,1 @@
-var mnemonic = "pulse gossip harbor banner stool concert truth slam squeeze leisure decade mammal";
+var mnemonic = "boil hurt vague gather analyst hip upgrade hawk fire call have run";

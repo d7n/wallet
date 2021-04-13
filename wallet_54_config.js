@@ -1,1 +1,1 @@
-var mnemonic = "essence brisk cherry nerve medal sugar lion excite globe display dinosaur high";
+var mnemonic = "total grief comfort tiger educate avoid reflect believe pledge success adult pigeon";

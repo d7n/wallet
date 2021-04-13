@@ -1,1 +1,1 @@
-var mnemonic = "van size inside laundry open whale fancy prefer select lawn jacket all";
+var mnemonic = "rabbit park stock rather recall glow snack carbon differ bacon sunset cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "input private depend child memory recycle turtle tube gun total buffalo caught";
+var mnemonic = "polar rose gap obvious autumn guitar alert general math lawsuit food dragon";

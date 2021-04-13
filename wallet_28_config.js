@@ -1,1 +1,1 @@
-var mnemonic = "must unusual short harbor jazz uncover warrior glue fabric priority dentist pear";
+var mnemonic = "remind diagram finish viable harvest damp fame eager shell nice keep script";

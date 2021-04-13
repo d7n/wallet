@@ -1,1 +1,1 @@
-var mnemonic = "reveal sunny device solar taxi rice valve leisure expand pencil movie chronic";
+var mnemonic = "despair vocal cannon favorite cube lava vast wave parade when addict library";

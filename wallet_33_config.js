@@ -1,1 +1,1 @@
-var mnemonic = "bleak wrist own lady alien tobacco street coffee upset cup insect duty";
+var mnemonic = "stomach click ahead ranch distance tell wild maximum delay bubble major tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "cry half member welcome begin arena real plastic among verify cook advice";
+var mnemonic = "end weird perfect cherry frown napkin glue abuse crisp wagon game pelican";

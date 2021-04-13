@@ -1,1 +1,1 @@
-var mnemonic = "today address sniff layer come private expand feature model ethics connect another";
+var mnemonic = "spoil piece vote sock degree cry sunset horror erode famous faith feature";

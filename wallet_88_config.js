@@ -1,1 +1,1 @@
-var mnemonic = "expect draw bind bind crime sausage boil robot alien common relax disagree";
+var mnemonic = "sight census this man father height bomb theme furnace surprise audit rely";

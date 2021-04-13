@@ -1,1 +1,1 @@
-var mnemonic = "banner still hobby unveil social letter young trip recall length expose ski";
+var mnemonic = "range soldier mom stool kidney climb labor vanish heart divide estate panel";

@@ -1,1 +1,1 @@
-var mnemonic = "cube tribe route detect major uncover pulse high nuclear raven farm debate";
+var mnemonic = "insect maple mandate boost camp acid arrow school fox special initial talent";

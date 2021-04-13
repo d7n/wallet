@@ -1,1 +1,1 @@
-var mnemonic = "envelope dinosaur velvet lawsuit nuclear behave loop lion trial physical demise update";
+var mnemonic = "legal outdoor artwork admit slogan uncover razor satisfy energy excess celery cross";

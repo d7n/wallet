@@ -1,1 +1,1 @@
-var mnemonic = "gun sphere have online observe key cousin leopard enroll eternal burst senior";
+var mnemonic = "ability laugh account board beauty elephant kingdom student country whale faculty exhibit";

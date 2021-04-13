@@ -1,1 +1,1 @@
-var mnemonic = "loan special strike shiver decrease hold yard crisp certain flame column chicken";
+var mnemonic = "basket bright screen sustain domain rebuild fatigue first able pioneer kid fee";

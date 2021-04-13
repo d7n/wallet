@@ -1,1 +1,1 @@
-var mnemonic = "object inside sell victory develop person exercise drip spy usage meadow pipe";
+var mnemonic = "indicate finish hire million tissue ball pumpkin random ten simple first used";

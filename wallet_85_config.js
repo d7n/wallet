@@ -1,1 +1,1 @@
-var mnemonic = "alone miracle crush drop risk rule hazard eye impact involve return volcano";
+var mnemonic = "dress easy bulb maze seed panther lady later risk artwork gas update";

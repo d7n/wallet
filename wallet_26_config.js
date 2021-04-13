@@ -1,1 +1,1 @@
-var mnemonic = "apology hungry soon section maple trust depart pill machine weather brown fresh";
+var mnemonic = "people roof debris relief feel embrace muscle sort short sentence taste dilemma";

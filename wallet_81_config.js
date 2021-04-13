@@ -1,1 +1,1 @@
-var mnemonic = "skate crystal hazard urban element city female dynamic fox ill upgrade dice";
+var mnemonic = "weather hero zero echo spoil find filter room fiscal enemy double embody";

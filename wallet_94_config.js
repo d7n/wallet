@@ -1,1 +1,1 @@
-var mnemonic = "grief segment thumb veteran access slogan blood shop sad jaguar sentence slow";
+var mnemonic = "spin butter excess obey hello feature wire fatal theory harsh wedding off";

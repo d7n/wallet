@@ -1,1 +1,1 @@
-var mnemonic = "elegant trick smooth pluck theme vast room shiver fitness vessel robot immense";
+var mnemonic = "street pitch satisfy there sponsor frozen divert movie gain unaware rapid punch";

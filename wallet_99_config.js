@@ -1,1 +1,1 @@
-var mnemonic = "arm robust melody veteran jewel typical episode pigeon genuine type bind involve";
+var mnemonic = "party because fabric draft smart flame mail buzz water release taste mixture";

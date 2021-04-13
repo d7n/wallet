@@ -1,1 +1,1 @@
-var mnemonic = "fog depart copy swear sign assault flat key merry picnic rose broccoli";
+var mnemonic = "rival elder answer cave scout alarm round raven brisk absurd learn wonder";

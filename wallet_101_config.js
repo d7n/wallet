@@ -1,1 +1,1 @@
-var mnemonic = "like replace spray window soft envelope public pledge blame fossil cycle bulk";
+var mnemonic = "noble husband thank toast used grace fence admit asthma second solution caution";

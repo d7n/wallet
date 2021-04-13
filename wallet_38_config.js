@@ -1,1 +1,1 @@
-var mnemonic = "unusual useful radar toddler vast tribe dune search welcome mask guide verb";
+var mnemonic = "ignore frame chapter valid enable imitate novel diamond gate occur arm grocery";

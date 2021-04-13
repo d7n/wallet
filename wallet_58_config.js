@@ -1,1 +1,1 @@
-var mnemonic = "metal broken cigar web sniff strike enlist excite dose good pudding violin";
+var mnemonic = "humor lonely educate desk sail unit umbrella uncle return sad define street";

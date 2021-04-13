@@ -1,1 +1,1 @@
-var mnemonic = "govern dinner wide cake van achieve eyebrow patrol waste jar field occur";
+var mnemonic = "report physical hole admit occur winter summer plate resemble pelican squeeze goat";

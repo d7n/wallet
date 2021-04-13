@@ -1,1 +1,1 @@
-var mnemonic = "rebel wise uphold script mail thing gloom observe apart sign sunset program";
+var mnemonic = "club actual rent park sing village harsh bag swing kit tornado hamster";

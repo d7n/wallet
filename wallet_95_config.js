@@ -1,1 +1,1 @@
-var mnemonic = "join rival noble hard angry obscure world airport slice flame captain flame";
+var mnemonic = "boat team copper hire ancient conduct cactus avocado scene ill boss myself";

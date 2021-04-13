@@ -1,1 +1,1 @@
-var mnemonic = "retreat magnet embark enjoy vague brief pledge confirm jealous clock lady pilot";
+var mnemonic = "faith twenty panther type nest arctic state path purity sun believe town";

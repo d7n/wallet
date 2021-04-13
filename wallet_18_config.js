@@ -1,1 +1,1 @@
-var mnemonic = "rude interest grant multiply feel crucial cube bomb spot rebuild scatter cabbage";
+var mnemonic = "typical melt story uniform wink party tragic supply belt talk scene orbit";

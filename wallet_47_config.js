@@ -1,1 +1,1 @@
-var mnemonic = "round humor throw half tree million olive tail next head humble oak";
+var mnemonic = "copy solid car oval sun enhance tide annual debris alone this list";

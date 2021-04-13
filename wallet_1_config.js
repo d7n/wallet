@@ -1,1 +1,1 @@
-var mnemonic = "soup book rough donkey math plug stem across fit write buzz mom";
+var mnemonic = "number fortune fall boring space mimic okay smile airport under engine coral";

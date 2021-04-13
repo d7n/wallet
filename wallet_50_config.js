@@ -1,1 +1,1 @@
-var mnemonic = "across fossil measure audit version swallow blame pave dizzy possible sweet violin";
+var mnemonic = "clock trophy update notable useless puzzle one prison sad marble neutral save";

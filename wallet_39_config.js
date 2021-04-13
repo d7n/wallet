@@ -1,1 +1,1 @@
-var mnemonic = "actress dinner disorder raw cliff catalog blouse month mango ridge wreck pioneer";
+var mnemonic = "theory fade isolate domain science logic outdoor rhythm little insect taxi fog";

@@ -1,1 +1,1 @@
-var mnemonic = "upper mad spatial anxiety fresh image please much earth abandon garment seed";
+var mnemonic = "simple twelve acquire client lion crouch trophy method cliff water feel fossil";

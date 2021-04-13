@@ -1,1 +1,1 @@
-var mnemonic = "finger print divide farm sibling cereal crazy tank reunion loud pattern shed";
+var mnemonic = "arrest gossip rally always afford depart live city transfer put unusual jelly";

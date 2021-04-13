@@ -1,1 +1,1 @@
-var mnemonic = "crouch dignity dinosaur sell mistake unable parrot note hand urge escape hill";
+var mnemonic = "because example saddle oblige lounge decrease pact leg outside broken across lab";

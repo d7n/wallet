@@ -1,1 +1,1 @@
-var mnemonic = "strike maze before tiger order poet always tray retire tribe canvas orbit";
+var mnemonic = "peasant initial elephant direct can foot perfect wood sausage floor spin have";

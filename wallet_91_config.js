@@ -1,1 +1,1 @@
-var mnemonic = "twenty remove burger wide ill pelican forget elevator only brown follow view";
+var mnemonic = "plunge plunge ancient current juice dragon mountain stage sponsor more sell vicious";

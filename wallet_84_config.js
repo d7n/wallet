@@ -1,1 +1,1 @@
-var mnemonic = "kingdom fitness rebuild cousin elite demand jelly select girl risk feed length";
+var mnemonic = "custom blouse target bean flash amount travel inspire marriage bird junk scout";

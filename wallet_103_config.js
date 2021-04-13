@@ -1,1 +1,1 @@
-var mnemonic = "option element there solve company damp engage rich thought glove easy option";
+var mnemonic = "diagram reveal dove obscure apology injury theme banana slam dwarf appear umbrella";

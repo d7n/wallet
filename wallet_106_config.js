@@ -1,1 +1,1 @@
-var mnemonic = "tongue forget grow fiction stool axis humor cabin myself rubber december fish";
+var mnemonic = "curious region reveal bring always napkin census crash thought flash only sail";

@@ -1,1 +1,1 @@
-var mnemonic = "title check liar slab napkin ten mobile rapid husband little game prepare";
+var mnemonic = "ball easily museum machine later action thumb bench mirror panel ritual produce";

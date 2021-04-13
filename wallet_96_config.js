@@ -1,1 +1,1 @@
-var mnemonic = "torch year image neck advance amused code rotate raccoon saddle absurd ecology";
+var mnemonic = "initial will normal tunnel mammal fetch elegant host naive modify panda scene";
