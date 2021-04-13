@@ -1,1 +1,1 @@
-var mnemonic = "shrimp faculty script face skill magic force spray tomato sail grief fiber";
+var mnemonic = "thank drink hand priority tragic behind tobacco finger relax neutral remember head";

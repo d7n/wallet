@@ -1,1 +1,1 @@
-var mnemonic = "usage canvas lounge capable extend category salmon interest return home crazy whip";
+var mnemonic = "remember wash range orphan lion range jump wait antique vessel robust hockey";

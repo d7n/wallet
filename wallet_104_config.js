@@ -1,1 +1,1 @@
-var mnemonic = "maze second notable stairs renew bless snack genuine earth stem tag stock";
+var mnemonic = "verb onion sure material burst pistol cat throw trouble recall pluck lamp";

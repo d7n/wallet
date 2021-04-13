@@ -1,1 +1,1 @@
-var mnemonic = "regret penalty dice employ notable visual fetch nurse dose coral because erase";
+var mnemonic = "congress oxygen ethics solution small tape rough twin index strategy moment salmon";

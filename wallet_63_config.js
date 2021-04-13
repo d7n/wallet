@@ -1,1 +1,1 @@
-var mnemonic = "finger produce author adapt romance price lawsuit image pink fringe flight heart";
+var mnemonic = "teach diamond another tomato three leaf midnight inspire swap photo taste bus";

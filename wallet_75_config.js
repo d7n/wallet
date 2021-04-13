@@ -1,1 +1,1 @@
-var mnemonic = "ecology setup defy noodle style clip velvet cost pull hill ladder blast";
+var mnemonic = "gospel aunt ranch oil fan husband modify flat divorce false decade group";

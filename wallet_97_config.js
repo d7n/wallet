@@ -1,1 +1,1 @@
-var mnemonic = "group polar indoor crystal roast thought approve miracle coral vote again banana";
+var mnemonic = "vote excuse face steel ability sight inch play smart brown quiz armor";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe hammer rookie knife tunnel salon crisp drill spring defy disorder proof";
+var mnemonic = "edge habit young patrol feature crash crunch normal army earth direct crumble";

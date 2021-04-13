@@ -1,1 +1,1 @@
-var mnemonic = "cycle dove another outer invest nose amount document desert peace march very";
+var mnemonic = "gap text bring light sail enhance still sight damp empower bottom fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "face mercy choice latin curtain leader sadness rich army dragon practice final";
+var mnemonic = "taxi suspect gaze dust other deer stairs climb census tribe broken atom";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade idea farm distance figure private iron case into service cherry insane";
+var mnemonic = "joy latin convince soft ugly tuition video increase business unknown kid total";

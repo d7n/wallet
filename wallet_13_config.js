@@ -1,1 +1,1 @@
-var mnemonic = "gospel also bitter spirit heavy city surface flag scout coast boss focus";
+var mnemonic = "culture solid subject pencil notice breeze vague dismiss tag shoe panther jungle";

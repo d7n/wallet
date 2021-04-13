@@ -1,1 +1,1 @@
-var mnemonic = "vicious mixed satoshi mention load smoke clarify idle mosquito double vast jealous";
+var mnemonic = "media swarm answer equal culture gentle sibling need wait peasant argue tornado";

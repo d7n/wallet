@@ -1,1 +1,1 @@
-var mnemonic = "table middle split auto manual awful autumn equip corn genius photo subject";
+var mnemonic = "impose harbor dog erase comfort congress mixture game gown clown harsh country";

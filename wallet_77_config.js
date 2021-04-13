@@ -1,1 +1,1 @@
-var mnemonic = "behind trap cannon width deny myself marble shed night umbrella payment slow";
+var mnemonic = "bird word bunker hidden beauty plastic work index grab dentist harvest enemy";

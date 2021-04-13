@@ -1,1 +1,1 @@
-var mnemonic = "supreme female flip camera cinnamon come drill kingdom sentence connect charge chapter";
+var mnemonic = "become grant phone laundry hybrid spray armed oyster broom scare birth rude";

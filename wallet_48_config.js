@@ -1,1 +1,1 @@
-var mnemonic = "luggage garage off health rich drama north antenna better budget face bonus";
+var mnemonic = "warrior harbor flee rigid urban animal duck provide course tooth wreck middle";

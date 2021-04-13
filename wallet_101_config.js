@@ -1,1 +1,1 @@
-var mnemonic = "treat clay bone genius junior enroll twenty hundred eye property stool pair";
+var mnemonic = "neck repair illness mom dolphin river learn brave expire truth craft addict";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck side race grain animal develop bus wrap artwork year elevator unit";
+var mnemonic = "dress maze economy crumble health gentle maximum gym bird describe clap goat";

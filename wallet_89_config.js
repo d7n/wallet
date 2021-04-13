@@ -1,1 +1,1 @@
-var mnemonic = "thumb health paddle fossil soul bright hobby food fix wedding despair thumb";
+var mnemonic = "similar enjoy flip duck work drive screen gauge start tired cube head";

@@ -1,1 +1,1 @@
-var mnemonic = "organ sunny pull sad rhythm purchase ginger top region ceiling connect banana";
+var mnemonic = "dizzy skate chapter crunch loop fringe illegal never recall bird cherry nuclear";

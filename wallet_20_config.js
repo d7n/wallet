@@ -1,1 +1,1 @@
-var mnemonic = "clinic duty protect trap picture seat magnet common maximum faith symbol legal";
+var mnemonic = "chronic pass more similar net flash flash else palm cook again smoke";

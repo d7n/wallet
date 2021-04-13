@@ -1,1 +1,1 @@
-var mnemonic = "skin cover treat depend sense void insane swamp city they short city";
+var mnemonic = "usual lizard absorb timber laundry anxiety firm funny help gadget frog throw";

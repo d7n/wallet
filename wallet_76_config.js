@@ -1,1 +1,1 @@
-var mnemonic = "panther pluck action into party hover aim picture cricket ordinary hospital motor";
+var mnemonic = "wolf wisdom battle fine explain rifle road brave wet caught noodle panther";

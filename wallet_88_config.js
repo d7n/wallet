@@ -1,1 +1,1 @@
-var mnemonic = "spring motion swift buddy skirt vendor provide jewel salad head load tired";
+var mnemonic = "soul squeeze deposit price account bid reduce twice opinion virus earth error";

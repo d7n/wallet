@@ -1,1 +1,1 @@
-var mnemonic = "milk misery basic two fish motor potato sauce top blossom chalk good";
+var mnemonic = "unusual vast then gas spare own six gap finger script inside turn";

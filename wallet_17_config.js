@@ -1,1 +1,1 @@
-var mnemonic = "picnic snow current memory lottery civil market fault toy stuff marble final";
+var mnemonic = "judge buyer harbor cram hammer wolf glove mountain pumpkin host animal travel";

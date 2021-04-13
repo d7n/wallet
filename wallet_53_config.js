@@ -1,1 +1,1 @@
-var mnemonic = "embrace hospital spoil frost cycle into vibrant route loud fancy valley wink";
+var mnemonic = "virtual garden century phone reunion eight used version bread night recycle tuna";

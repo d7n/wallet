@@ -1,1 +1,1 @@
-var mnemonic = "begin glare ketchup fatal forum scrap argue general latin cheap merit skirt";
+var mnemonic = "gossip file era genre elephant apple doll enrich label science lake abuse";

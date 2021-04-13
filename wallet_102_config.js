@@ -1,1 +1,1 @@
-var mnemonic = "spawn minor pact make country paddle injury lazy source stuff nature basket";
+var mnemonic = "noble fly proof trade tilt mutual illegal initial electric pupil jaguar fiber";

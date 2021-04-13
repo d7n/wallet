@@ -1,1 +1,1 @@
-var mnemonic = "atom bottom song cross sign pilot concert embody lab bridge differ extend";
+var mnemonic = "can math garage legal gas escape huge age outdoor guard foot bacon";

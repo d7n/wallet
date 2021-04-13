@@ -1,1 +1,1 @@
-var mnemonic = "armed fantasy help scan cross loyal crowd tonight buffalo rather banana picture";
+var mnemonic = "giggle sudden pride this danger sugar ocean black impose second wrestle adapt";

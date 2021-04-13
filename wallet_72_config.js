@@ -1,1 +1,1 @@
-var mnemonic = "blue sleep deer solution vague bulb innocent pledge balance eye marine tornado";
+var mnemonic = "caution bone subject improve frown output shoe pull ship humble defense cool";

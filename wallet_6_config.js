@@ -1,1 +1,1 @@
-var mnemonic = "shock defense analyst steak tenant symbol float oil dutch squeeze wonder ethics";
+var mnemonic = "angry snake connect hint clutch squirrel trash toilet say blind rose chalk";

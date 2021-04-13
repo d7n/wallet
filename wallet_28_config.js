@@ -1,1 +1,1 @@
-var mnemonic = "destroy library gain friend security wet hat aunt receive camp magic scrap";
+var mnemonic = "amateur movie talent quick news suit record journey glow bomb inmate cheese";

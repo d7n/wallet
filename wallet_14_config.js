@@ -1,1 +1,1 @@
-var mnemonic = "enrich apple bracket across extend scare ahead satisfy yellow figure gun question";
+var mnemonic = "endorse entry husband web define price lobster confirm family guard boring tackle";

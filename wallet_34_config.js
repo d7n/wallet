@@ -1,1 +1,1 @@
-var mnemonic = "dismiss paper help drive peace pony humble grab oppose together direct baby";
+var mnemonic = "pond pass deliver zoo unusual motion penalty dragon quiz settle diamond seminar";

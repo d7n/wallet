@@ -1,1 +1,1 @@
-var mnemonic = "car that square oil boss slush find satisfy strike type cigar entire";
+var mnemonic = "dress insect indicate course orient inner list pull round bulk van afraid";

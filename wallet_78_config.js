@@ -1,1 +1,1 @@
-var mnemonic = "excess dish unfair act calm divide pass farm ribbon position grit jewel";
+var mnemonic = "seed shoe tennis cool meat basic letter aisle festival anchor cannon ability";

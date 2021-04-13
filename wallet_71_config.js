@@ -1,1 +1,1 @@
-var mnemonic = "crash large poet smart road acquire matter armed wing face run advance";
+var mnemonic = "nose champion program fetch prosper bulk usual net wood giant soup tongue";

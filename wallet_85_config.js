@@ -1,1 +1,1 @@
-var mnemonic = "sudden normal always warfare aunt assist coin shrimp canyon weasel off index";
+var mnemonic = "entry off dish sustain hamster captain anchor move biology vault riot potato";

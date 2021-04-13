@@ -1,1 +1,1 @@
-var mnemonic = "visa stone idea language leg wink pink hamster cancel side dream candy";
+var mnemonic = "mind forget renew marine fresh real hazard candy black remind soon sibling";

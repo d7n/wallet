@@ -1,1 +1,1 @@
-var mnemonic = "shoot capital crisp swear depth off chase uncle leopard oxygen excite tilt";
+var mnemonic = "invite afford dial link ribbon spatial hollow town someone echo sorry either";

@@ -1,1 +1,1 @@
-var mnemonic = "skill quarter enter car paper legend tip embark dutch midnight valid axis";
+var mnemonic = "abstract knife candy merit donate ginger robust picnic weather maple detail first";

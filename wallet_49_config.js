@@ -1,1 +1,1 @@
-var mnemonic = "icon extend coral coffee pen awful intact album aspect picture affair rate";
+var mnemonic = "pluck warrior anchor provide motor silk layer spy cross tip hawk erosion";

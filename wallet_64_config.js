@@ -1,1 +1,1 @@
-var mnemonic = "position remove wealth try category observe pulse unique exist chicken mercy movie";
+var mnemonic = "risk deal guitar huge train subway stove cake lift tiny pudding park";

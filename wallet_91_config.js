@@ -1,1 +1,1 @@
-var mnemonic = "safe cart hunt renew scissors potato fire garment skull farm slogan asset";
+var mnemonic = "road cheese total mouse isolate citizen reduce wood acoustic hint bullet street";

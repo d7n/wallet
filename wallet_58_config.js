@@ -1,1 +1,1 @@
-var mnemonic = "input thank decline worth keep motor ostrich behave elite various visual cattle";
+var mnemonic = "nurse library embrace used thumb horn draw boil shallow marine bird high";

@@ -1,1 +1,1 @@
-var mnemonic = "raw diagram junior give holiday case milk hat buddy original injury relax";
+var mnemonic = "muscle lava pill arctic labor arctic render train diet wing west floor";

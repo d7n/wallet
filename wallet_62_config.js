@@ -1,1 +1,1 @@
-var mnemonic = "left nice enact filter pilot enter bird voice plastic finger either state";
+var mnemonic = "shrug paper sweet vital call strike extra curious skirt enter buyer rose";

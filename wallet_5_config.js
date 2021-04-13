@@ -1,1 +1,1 @@
-var mnemonic = "trust pony snake public credit velvet segment expose armor lion train sauce";
+var mnemonic = "gospel horn tuna vault such cruel arrange olympic miracle lemon night season";

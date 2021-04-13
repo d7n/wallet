@@ -1,1 +1,1 @@
-var mnemonic = "idea ahead script can embody property odor sad token emotion rapid badge";
+var mnemonic = "run tide unusual consider analyst fashion phrase happy mass vicious skate dove";

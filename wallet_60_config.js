@@ -1,1 +1,1 @@
-var mnemonic = "chicken admit arm acoustic invite potato now various scale enable silly economy";
+var mnemonic = "amazing split keen reopen question bar waste segment explain crisp dirt much";

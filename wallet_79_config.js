@@ -1,1 +1,1 @@
-var mnemonic = "response olympic vault involve grab scorpion retreat honey exhibit record lawn mystery";
+var mnemonic = "egg message mirror program first human hobby autumn similar message angle vendor";

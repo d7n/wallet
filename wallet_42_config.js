@@ -1,1 +1,1 @@
-var mnemonic = "topple scrap poem ramp rhythm maximum fortune enemy busy practice senior dignity";
+var mnemonic = "push grass deliver tennis swap person arrest shove field picture mask mind";

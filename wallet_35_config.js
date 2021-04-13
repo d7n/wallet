@@ -1,1 +1,1 @@
-var mnemonic = "response adjust bean figure kid pupil funny prefer snake dinner adapt turkey";
+var mnemonic = "giggle because depart magic equip legal sting attract pony spike metal regret";

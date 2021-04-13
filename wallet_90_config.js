@@ -1,1 +1,1 @@
-var mnemonic = "abstract run real immense stamp tower speak census category rabbit raw squeeze";
+var mnemonic = "boy toy pudding reject mimic cupboard cry similar garden cable vault way";

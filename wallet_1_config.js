@@ -1,1 +1,1 @@
-var mnemonic = "stumble finger equip cute cross better calm happy buzz burden tank lamp";
+var mnemonic = "slim range noise unable mosquito silk venture deliver worry this cherry live";

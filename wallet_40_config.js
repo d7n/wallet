@@ -1,1 +1,1 @@
-var mnemonic = "chase forest hurdle dumb wide iron dish proof pact bacon spray message";
+var mnemonic = "harbor gap chair slender margin moral police tip rich milk album owner";

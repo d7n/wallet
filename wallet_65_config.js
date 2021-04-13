@@ -1,1 +1,1 @@
-var mnemonic = "cruise guide social correct fossil number zero sand erupt genius round cover";
+var mnemonic = "trust prize verb section park pretty various junk solar smart major easily";

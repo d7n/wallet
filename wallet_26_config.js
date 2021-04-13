@@ -1,1 +1,1 @@
-var mnemonic = "clutch grain wreck cluster pizza join one lawn kiwi million permit simple";
+var mnemonic = "spray require stand immune width raise loud elbow few world pill topic";

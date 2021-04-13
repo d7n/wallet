@@ -1,1 +1,1 @@
-var mnemonic = "fix beauty sibling great car second wreck comic song endorse fame blame";
+var mnemonic = "nuclear menu parrot large copper crack glimpse mammal lumber have dirt various";

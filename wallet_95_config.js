@@ -1,1 +1,1 @@
-var mnemonic = "clip virus poem solar issue leader pigeon season symptom describe print waste";
+var mnemonic = "version virus illegal void stick document rival always improve local pretty quarter";

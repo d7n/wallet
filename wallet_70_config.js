@@ -1,1 +1,1 @@
-var mnemonic = "rose custom label pull casual giggle economy diagram exchange between adult prosper";
+var mnemonic = "order educate rhythm drama learn clay recycle potato kitten useless want actual";

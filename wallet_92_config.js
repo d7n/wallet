@@ -1,1 +1,1 @@
-var mnemonic = "clump permit frozen fine coast busy fresh picnic select beef vapor option";
+var mnemonic = "forest scene neutral cute possible verb trim butter mistake simple holiday party";

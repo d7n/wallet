@@ -1,1 +1,1 @@
-var mnemonic = "clay book market diamond truth boy cross east drop dirt when bamboo";
+var mnemonic = "dumb bulk select tent couch already hobby beyond false blast nothing pilot";

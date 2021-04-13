@@ -1,1 +1,1 @@
-var mnemonic = "shoot jar horror mouse slush put member pizza fury dolphin jelly nuclear";
+var mnemonic = "child dirt cactus daughter print enter garbage consider hollow coast thunder couple";

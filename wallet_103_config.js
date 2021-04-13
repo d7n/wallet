@@ -1,1 +1,1 @@
-var mnemonic = "banner valid joy plunge pond menu gas joy market place present admit";
+var mnemonic = "meat captain sunset leisure demand scatter protect soft antenna omit sad brother";

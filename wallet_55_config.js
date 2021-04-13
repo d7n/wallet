@@ -1,1 +1,1 @@
-var mnemonic = "display service absurd forum outside banner column shoot shallow alter license plastic";
+var mnemonic = "increase grace isolate snap benefit hover fitness ritual civil excess second egg";

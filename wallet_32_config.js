@@ -1,1 +1,1 @@
-var mnemonic = "hair dress insane awkward release water square merge rich worry napkin mushroom";
+var mnemonic = "purchase often live deer hill elevator seek matrix sure gas distance fancy";

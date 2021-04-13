@@ -1,1 +1,1 @@
-var mnemonic = "drastic thank blast solar eyebrow duty other dove infant faith print phrase";
+var mnemonic = "sugar address manage giggle similar blur caution legal kingdom hurry disagree acid";

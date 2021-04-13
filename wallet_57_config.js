@@ -1,1 +1,1 @@
-var mnemonic = "fix resemble wine visual gaze liar brand oval grab film minute observe";
+var mnemonic = "air basic shield dune holiday guitar machine sorry civil hope leisure reveal";

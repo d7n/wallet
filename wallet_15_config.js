@@ -1,1 +1,1 @@
-var mnemonic = "aspect cancel stove test gentle process enhance isolate gift dynamic daughter century";
+var mnemonic = "pipe mammal misery express gas panda fish estate cash oppose innocent gossip";

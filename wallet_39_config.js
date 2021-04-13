@@ -1,1 +1,1 @@
-var mnemonic = "target casino spend shaft manual width piano tag sausage slush fossil pet";
+var mnemonic = "coil ribbon across hunt mouse east rigid whip actual anchor history black";

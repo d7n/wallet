@@ -1,1 +1,1 @@
-var mnemonic = "master summer bicycle display inspire swing tissue ride atom layer choose course";
+var mnemonic = "void bacon border amazing until human impact view peanut version purchase avocado";

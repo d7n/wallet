@@ -1,1 +1,1 @@
-var mnemonic = "candy consider involve portion gaze carbon prosper face lyrics increase original depth";
+var mnemonic = "rapid suggest hour aisle auto ship light busy agree sniff drum okay";

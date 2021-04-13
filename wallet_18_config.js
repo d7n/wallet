@@ -1,1 +1,1 @@
-var mnemonic = "frog small speak birth knee valid six cook laptop produce cage demise";
+var mnemonic = "credit minute staff champion arrange slender tongue expose divorce lobster credit expire";

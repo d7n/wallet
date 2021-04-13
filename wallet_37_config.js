@@ -1,1 +1,1 @@
-var mnemonic = "sunny execute caution speed grid pulp toss verify bread fold stereo sort";
+var mnemonic = "summer human tomato develop best priority master young remain horn detect nut";

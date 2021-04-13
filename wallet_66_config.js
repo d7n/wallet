@@ -1,1 +1,1 @@
-var mnemonic = "cup scare furnace just burden guide breeze indoor junior pizza type globe";
+var mnemonic = "address label bonus tip illegal present around resource envelope tuition pledge assault";

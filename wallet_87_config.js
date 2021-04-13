@@ -1,1 +1,1 @@
-var mnemonic = "wide advice error subject excess animal equal accuse vintage flower visa robust";
+var mnemonic = "only uniform still sweet holiday fork absurd void physical seminar fitness ginger";

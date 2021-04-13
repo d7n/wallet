@@ -1,1 +1,1 @@
-var mnemonic = "toe faith observe grace daughter vendor zoo heavy joke shove island eagle";
+var mnemonic = "city uniform toe retire basic season timber clock various brass edit hip";

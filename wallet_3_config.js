@@ -1,1 +1,1 @@
-var mnemonic = "language crack ocean air govern essence escape heavy insect earth gift junk";
+var mnemonic = "twin manual merry work provide holiday dolphin wolf ask egg tissue divorce";

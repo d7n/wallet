@@ -1,1 +1,1 @@
-var mnemonic = "deliver social zone priority govern stock strike side denial slogan mask notable";
+var mnemonic = "labor mercy chat scrub comfort express east amused flush race ghost veteran";

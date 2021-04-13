@@ -1,1 +1,1 @@
-var mnemonic = "wife legend main coral resource pilot pyramid hover blur wrap betray blush";
+var mnemonic = "series card sudden join solve know blur turtle proof man drop raise";

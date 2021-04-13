@@ -1,1 +1,1 @@
-var mnemonic = "eight scorpion version sniff resist priority amount immune force educate true child";
+var mnemonic = "metal enter suggest stem level tunnel man convince sketch start yard cactus";

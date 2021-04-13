@@ -1,1 +1,1 @@
-var mnemonic = "moon girl thank tongue eight pave home river album gas equip can";
+var mnemonic = "story tongue gas despair team verb shock behave tennis want shy solution";

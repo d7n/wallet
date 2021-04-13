@@ -1,1 +1,1 @@
-var mnemonic = "few future frequent rival test elevator school coral arrive sand atom leisure";
+var mnemonic = "staff online recall wonder museum step elder drum ring reform album marine";

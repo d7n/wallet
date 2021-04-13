@@ -1,1 +1,1 @@
-var mnemonic = "sniff slot pigeon scare cheap vacant swap food blush vibrant demise license";
+var mnemonic = "chimney bike hundred cave garment figure barrel right pet tiny action wreck";

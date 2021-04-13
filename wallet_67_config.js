@@ -1,1 +1,1 @@
-var mnemonic = "van goat artefact access quiz general power again ensure health photo immense";
+var mnemonic = "property control tonight aspect power wild answer critic help hope empty you";

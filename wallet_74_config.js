@@ -1,1 +1,1 @@
-var mnemonic = "you goddess width angry hurdle adapt such inquiry ancient sunny regret write";
+var mnemonic = "refuse access canyon clarify nurse cricket shed tornado exhaust pony humor oval";

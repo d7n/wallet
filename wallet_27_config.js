@@ -1,1 +1,1 @@
-var mnemonic = "poverty finish sheriff lottery economy grid famous van trumpet tiger antique erosion";
+var mnemonic = "era knock melt spike quit garage split coconut scrub fault rain poem";

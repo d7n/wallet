@@ -1,1 +1,1 @@
-var mnemonic = "manual gate wedding trash column ginger glow increase alpha anchor execute shine";
+var mnemonic = "elder drama exclude become early cook volcano alter bus wink betray recipe";

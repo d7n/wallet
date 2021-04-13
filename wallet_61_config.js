@@ -1,1 +1,1 @@
-var mnemonic = "wheel mixed junior alter pole ramp erase cruise jar usage oval ready";
+var mnemonic = "dish drive furnace pumpkin inject glare stage path second laptop model bread";
