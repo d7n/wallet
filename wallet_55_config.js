@@ -1,1 +1,1 @@
-var mnemonic = "youth save issue monitor enjoy device easy planet fault practice salad vanish";
+var mnemonic = "coast sheriff number group trouble pill play shadow state hedgehog code repeat";

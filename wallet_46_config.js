@@ -1,1 +1,1 @@
-var mnemonic = "business uncover solid marriage width island dose photo broccoli eye champion toe";
+var mnemonic = "round review anchor cry frame blossom radar glide culture mad actor sheriff";

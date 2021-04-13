@@ -1,1 +1,1 @@
-var mnemonic = "draft carpet sponsor melt soccer rose pottery yellow follow borrow lift deliver";
+var mnemonic = "lab diamond aerobic dove adjust please suffer bullet family stick army nose";

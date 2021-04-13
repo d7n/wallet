@@ -1,1 +1,1 @@
-var mnemonic = "genuine hold tone lab rubber narrow swamp fall tattoo project turtle game";
+var mnemonic = "habit drop leg hard wise uncle oak proof private cloud mail iron";

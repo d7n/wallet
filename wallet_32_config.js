@@ -1,1 +1,1 @@
-var mnemonic = "melt foil panic tilt output crater muscle same umbrella marble boy tired";
+var mnemonic = "upset day unlock fall frown sock exchange thing wisdom monster school actor";

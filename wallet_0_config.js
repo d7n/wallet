@@ -1,1 +1,1 @@
-var mnemonic = "odor silver text that model soccer silver cloth visa winner cushion rescue";
+var mnemonic = "coast hold prefer demise beach catch core beyond prize december fabric leg";

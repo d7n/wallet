@@ -1,1 +1,1 @@
-var mnemonic = "second fresh crowd spike diamond enact quit lamp juice where survey tip";
+var mnemonic = "manual violin squirrel universe bridge derive jelly misery script key design left";

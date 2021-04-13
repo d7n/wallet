@@ -1,1 +1,1 @@
-var mnemonic = "topple sort often lend describe offer expect equal resource pattern immense local";
+var mnemonic = "tribe train buffalo survey build ability tail neck seed label able moment";

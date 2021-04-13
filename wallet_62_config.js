@@ -1,1 +1,1 @@
-var mnemonic = "spoil mystery spin discover try answer cereal guard adult great veteran eye";
+var mnemonic = "mean spirit beach museum budget slot balcony final sausage play torch hurdle";

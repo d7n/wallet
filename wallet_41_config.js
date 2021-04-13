@@ -1,1 +1,1 @@
-var mnemonic = "eternal entry impulse close fantasy hawk bubble combine still hungry inherit bacon";
+var mnemonic = "scale frog draw grief satoshi exact immune cat impact news walk dragon";

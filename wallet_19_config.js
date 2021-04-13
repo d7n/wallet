@@ -1,1 +1,1 @@
-var mnemonic = "sunset glove crisp eternal tone sauce upper prison blue indicate actual pistol";
+var mnemonic = "install mixed more shock cloth slush salad slab road someone seed carbon";

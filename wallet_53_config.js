@@ -1,1 +1,1 @@
-var mnemonic = "banana auto snack razor hammer hammer man pitch purpose office short obey";
+var mnemonic = "start alley victory ice unaware amateur vapor protect output island culture turn";

@@ -1,1 +1,1 @@
-var mnemonic = "chest cinnamon torch series east sphere wood rug pizza arrow umbrella age";
+var mnemonic = "voice code idle smoke mandate cloud torch milk front enrich before border";

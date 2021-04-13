@@ -1,1 +1,1 @@
-var mnemonic = "antique sponsor cradle chuckle leopard increase panther airport dust gesture vanish gossip";
+var mnemonic = "permit above puzzle eternal weird skill return genius unknown fancy exchange account";

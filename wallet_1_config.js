@@ -1,1 +1,1 @@
-var mnemonic = "torch result improve erosion infant weird next faith expose celery frost flush";
+var mnemonic = "dirt young chimney voyage wash pulp enable table fly cash erosion glove";

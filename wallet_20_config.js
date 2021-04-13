@@ -1,1 +1,1 @@
-var mnemonic = "pulp planet language love angle journey anger lunar flavor hat antenna loyal";
+var mnemonic = "animal one duck verify bachelor twenty infant celery exhibit derive copy female";

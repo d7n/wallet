@@ -1,1 +1,1 @@
-var mnemonic = "robust exhaust wisdom usage kid abandon stairs cinnamon hope stove indoor weekend";
+var mnemonic = "pupil drip swarm diamond capital radar ankle nurse mango prison icon disease";

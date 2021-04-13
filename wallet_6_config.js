@@ -1,1 +1,1 @@
-var mnemonic = "harvest cube cruise unfold turn keen hint tank mirror nest coyote ill";
+var mnemonic = "basket end rough alarm turkey response travel goddess visa that illness punch";

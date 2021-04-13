@@ -1,1 +1,1 @@
-var mnemonic = "cable tide relief bag acquire radio grab magic truth federal identify abuse";
+var mnemonic = "such caught awkward hero mammal design hard plug swallow equip camera clown";

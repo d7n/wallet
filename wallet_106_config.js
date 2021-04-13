@@ -1,1 +1,1 @@
-var mnemonic = "vocal response begin jewel crazy purse income civil inhale fancy copy clump";
+var mnemonic = "clump vacant device mind glare electric essay adult provide timber vintage bag";

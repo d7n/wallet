@@ -1,1 +1,1 @@
-var mnemonic = "ritual renew tide churn assist install dish actual side december measure urban";
+var mnemonic = "champion portion ride nest inform assist update clock sister lens nasty forum";

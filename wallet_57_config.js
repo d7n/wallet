@@ -1,1 +1,1 @@
-var mnemonic = "twin release truly major object shrug mule brief egg ridge broken dentist";
+var mnemonic = "notice garage steak disorder cash issue thing flight hybrid trophy junior remove";

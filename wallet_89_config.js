@@ -1,1 +1,1 @@
-var mnemonic = "tube borrow glue dizzy live omit wool daughter pudding judge huge juice";
+var mnemonic = "lawn endless adapt cereal drama disease pulse love bridge embody science book";

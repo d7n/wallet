@@ -1,1 +1,1 @@
-var mnemonic = "success stairs control width pipe marble ramp dream just biology salute kind";
+var mnemonic = "skirt harbor area mushroom rely burger feature stick giraffe lesson make direct";

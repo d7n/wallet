@@ -1,1 +1,1 @@
-var mnemonic = "harsh distance actor stool rhythm soap slam mandate ill fiction power job";
+var mnemonic = "spawn crash bicycle chief girl frequent achieve slow supreme trick judge beef";

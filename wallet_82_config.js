@@ -1,1 +1,1 @@
-var mnemonic = "luggage dinner point evidence utility cram december student slender crater around gun";
+var mnemonic = "deputy river reopen glide hill pond issue ordinary annual still misery hazard";

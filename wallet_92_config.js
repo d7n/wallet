@@ -1,1 +1,1 @@
-var mnemonic = "resist impulse exercise fly lyrics dawn pretty side chicken produce plug mouse";
+var mnemonic = "worry gospel hard void trigger notable service foil connect amount visual hockey";

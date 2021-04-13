@@ -1,1 +1,1 @@
-var mnemonic = "super just badge upgrade truck almost deny aisle shrimp weekend buyer sock";
+var mnemonic = "roof mango mountain fence wave draft leopard evil knife fury attack save";

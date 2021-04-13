@@ -1,1 +1,1 @@
-var mnemonic = "toy gentle because reform only double come cover sport news engine truck";
+var mnemonic = "sausage century atom obscure practice achieve evoke garlic squeeze hover rather alter";

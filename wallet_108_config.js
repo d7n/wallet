@@ -1,1 +1,1 @@
-var mnemonic = "robot weather hand capable soap between arrow own bulb device scan price";
+var mnemonic = "adult angry jewel scheme shrug table rabbit gorilla whisper hour toward swift";

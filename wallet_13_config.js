@@ -1,1 +1,1 @@
-var mnemonic = "toe orbit ahead mystery raise stay day remain distance matrix glare original";
+var mnemonic = "embody faculty toward grace pupil silk wage east remember exhaust hurt because";

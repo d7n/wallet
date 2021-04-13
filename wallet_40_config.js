@@ -1,1 +1,1 @@
-var mnemonic = "repeat rack lend veteran record fire sad grape suit year orient seed";
+var mnemonic = "army depart neutral benefit liar clever begin style asset report cheese deputy";

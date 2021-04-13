@@ -1,1 +1,1 @@
-var mnemonic = "aunt exit crop casino excess wrong shrug shine cat level task oil";
+var mnemonic = "path brand into close kiwi noble energy summer post sorry donor latin";

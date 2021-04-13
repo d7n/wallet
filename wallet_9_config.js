@@ -1,1 +1,1 @@
-var mnemonic = "sort arrest cotton cry obtain mom control rug task crystal senior shop";
+var mnemonic = "humble health melt wild globe try taxi jeans more cute nephew boat";

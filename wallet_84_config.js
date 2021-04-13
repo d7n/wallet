@@ -1,1 +1,1 @@
-var mnemonic = "live visual refuse elevator snap april whale hold course volume doctor swing";
+var mnemonic = "sweet potato void riot minute wolf mouse brief forward zone vocal tip";

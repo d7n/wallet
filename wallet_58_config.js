@@ -1,1 +1,1 @@
-var mnemonic = "veteran opinion staff swing ranch barely run used shield worth staff gossip";
+var mnemonic = "alpha legal vivid balance online husband audit butter other eyebrow travel voice";

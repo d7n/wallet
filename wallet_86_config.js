@@ -1,1 +1,1 @@
-var mnemonic = "miracle hammer group ritual increase panther swing indicate surface chunk wheel bike";
+var mnemonic = "video omit rotate room enforce fluid practice exotic current midnight please public";

@@ -1,1 +1,1 @@
-var mnemonic = "share adapt creek fitness bar black shield ketchup monster drum amount program";
+var mnemonic = "also artist advance ball garment almost indicate dad window matter carry notable";

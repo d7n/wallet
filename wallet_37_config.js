@@ -1,1 +1,1 @@
-var mnemonic = "almost reveal fantasy riot blanket breeze abuse repeat pottery script click equal";
+var mnemonic = "final arena able battle nut essay want garden select range frog betray";

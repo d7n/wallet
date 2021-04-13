@@ -1,1 +1,1 @@
-var mnemonic = "material bridge shiver confirm window chronic super run cloth retreat giggle obtain";
+var mnemonic = "chronic town half easy fragile pull during blush permit need chief hybrid";

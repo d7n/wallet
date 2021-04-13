@@ -1,1 +1,1 @@
-var mnemonic = "purpose motor slice walk solve camp width long avocado ozone faculty soup";
+var mnemonic = "scissors badge hope office slam oval risk focus champion basic smile oval";

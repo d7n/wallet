@@ -1,1 +1,1 @@
-var mnemonic = "apology unveil song churn cradle else addict iron tiger tribe hub breeze";
+var mnemonic = "auto truck tent antenna banner exhaust walnut tank fashion panel wife lawsuit";

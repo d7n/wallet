@@ -1,1 +1,1 @@
-var mnemonic = "universe honey knock gain rice luggage giant uphold useless material tower jaguar";
+var mnemonic = "month garage stem predict chronic dust author series south couple sun split";

@@ -1,1 +1,1 @@
-var mnemonic = "planet silk logic become ocean disagree motion gravity surface borrow peace lock";
+var mnemonic = "good kitten humble federal snake cousin next resource remind stove armor please";

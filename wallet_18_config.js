@@ -1,1 +1,1 @@
-var mnemonic = "senior oil jazz owner better leopard dynamic basket allow build trumpet excess";
+var mnemonic = "employ false dream still traffic enjoy smile flavor fashion follow sadness rug";

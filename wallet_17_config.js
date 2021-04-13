@@ -1,1 +1,1 @@
-var mnemonic = "machine video topple arctic father response range lava maze stock mimic demand";
+var mnemonic = "whip doctor bargain wait scheme october nation next chef powder skill razor";

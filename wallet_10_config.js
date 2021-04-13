@@ -1,1 +1,1 @@
-var mnemonic = "adjust labor draw sheriff lecture stairs genuine mosquito upgrade museum fringe eyebrow";
+var mnemonic = "fun lounge pride have draft hood artefact pottery fat hurry beef ostrich";

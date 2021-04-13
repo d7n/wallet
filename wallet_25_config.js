@@ -1,1 +1,1 @@
-var mnemonic = "solar zoo brass speak trouble rural license cotton object shrimp push cousin";
+var mnemonic = "broken aware hamster capital cancel struggle gun twist panic common rather tortoise";

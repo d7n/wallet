@@ -1,1 +1,1 @@
-var mnemonic = "size lobster kitchen course happy daring drive weird piece enhance help search";
+var mnemonic = "domain blossom invest burden endorse knife route sad turtle bar rack baby";

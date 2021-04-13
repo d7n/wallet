@@ -1,1 +1,1 @@
-var mnemonic = "spirit again receive marine captain more proud area huge juice cloth atom";
+var mnemonic = "ice rate rely wagon wasp team tourist explain they budget bus cover";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant deliver demand roof salmon pledge drift path zone used know laugh";
+var mnemonic = "lobster bread catalog jewel leisure during cinnamon hover pioneer swap fix again";

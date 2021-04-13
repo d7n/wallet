@@ -1,1 +1,1 @@
-var mnemonic = "invest crunch brief prevent key muscle minor kingdom stuff layer spot solve";
+var mnemonic = "dinosaur trip warrior inquiry young runway raise shield eye cradle all same";

@@ -1,1 +1,1 @@
-var mnemonic = "rate divert flip thunder disagree drive cage prosper lesson lecture curtain skull";
+var mnemonic = "female gym female strike marble chalk pen either remember crazy robust note";

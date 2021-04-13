@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow slight invest spot proud group unfold judge wet lava digital pause";
+var mnemonic = "result follow garage sadness fold twin length congress always large office drop";

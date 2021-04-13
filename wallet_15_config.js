@@ -1,1 +1,1 @@
-var mnemonic = "dish cricket beef damage odor black hello jacket coffee train rhythm immense";
+var mnemonic = "kidney size disagree topple wise extra layer pioneer rude pupil book chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "escape anchor report cave deny know runway culture tackle expire lawsuit capable";
+var mnemonic = "saddle attract imitate describe yellow lava woman pottery double promote emerge okay";

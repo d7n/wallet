@@ -1,1 +1,1 @@
-var mnemonic = "almost awkward adult arrive gallery discover false under gown please truly roof";
+var mnemonic = "absent cross case spell manual tip arrange canvas label north eagle device";

@@ -1,1 +1,1 @@
-var mnemonic = "earth sentence usual carbon boring alcohol valve obey hero gym garbage odor";
+var mnemonic = "index humble select destroy fox robot nerve mansion rely resist floor use";

@@ -1,1 +1,1 @@
-var mnemonic = "call short cheap tomorrow choose rug citizen shrug attack core sponsor try";
+var mnemonic = "try stable blur balcony chuckle produce monitor liar maximum hold zoo predict";

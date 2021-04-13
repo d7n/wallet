@@ -1,1 +1,1 @@
-var mnemonic = "guilt slogan breeze jelly brief major coach tuna load apart bargain oven";
+var mnemonic = "matrix throw stone strike pepper kid cute sausage any stage visit submit";

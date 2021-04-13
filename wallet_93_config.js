@@ -1,1 +1,1 @@
-var mnemonic = "hire negative raccoon clutch vicious balance weapon book action regular turn identify";
+var mnemonic = "minimum practice level fine video dolphin axis vault gym bracket april soul";

@@ -1,1 +1,1 @@
-var mnemonic = "casino elegant name novel muffin hat blanket canvas crucial shrimp road plug";
+var mnemonic = "silly side hamster pudding curve ritual bless shed spell grow wash measure";

@@ -1,1 +1,1 @@
-var mnemonic = "figure sword avoid sunset dash raise roast brick cannon enroll sphere tree";
+var mnemonic = "sleep wealth acquire include intact program base success drive shiver loud figure";

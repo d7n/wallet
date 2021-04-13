@@ -1,1 +1,1 @@
-var mnemonic = "gather drum bronze rather scale angry front solid helmet amateur major run";
+var mnemonic = "mixed stumble vehicle traffic trophy dynamic pepper silly lazy erupt spot rate";

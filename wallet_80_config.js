@@ -1,1 +1,1 @@
-var mnemonic = "regular coffee aunt chief entry share blade add nut weapon index digital";
+var mnemonic = "junior federal law apart pumpkin rival bacon public emotion universe once fragile";

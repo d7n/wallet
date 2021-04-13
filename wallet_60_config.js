@@ -1,1 +1,1 @@
-var mnemonic = "legal hire husband ability balcony reduce maple tornado bid supreme crime symptom";
+var mnemonic = "kitchen blouse outside hospital tourist vocal fuel image furnace left illegal member";

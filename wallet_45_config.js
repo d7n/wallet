@@ -1,1 +1,1 @@
-var mnemonic = "spin dinner odor elbow ignore scare fruit wheel paddle art impulse ask";
+var mnemonic = "plug throw life crane muffin grunt weekend liquid speed appear yellow erase";

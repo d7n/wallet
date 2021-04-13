@@ -1,1 +1,1 @@
-var mnemonic = "mutual tag coast joke erupt guess purse margin resemble settle witness visa";
+var mnemonic = "check upset same annual satoshi lesson town miracle mistake cricket notable milk";

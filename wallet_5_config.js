@@ -1,1 +1,1 @@
-var mnemonic = "vote arrest tenant salad cave mistake finish omit depart wire cradle brother";
+var mnemonic = "night banner settle merge crowd stem wrong buffalo actress demise rookie blood";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder rate tube wise payment outside category agent seven police fit envelope";
+var mnemonic = "similar melt solve oxygen elevator want able orchard paddle peace place lounge";

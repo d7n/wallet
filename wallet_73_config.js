@@ -1,1 +1,1 @@
-var mnemonic = "caught kitten shell region admit curve turkey various action journey woman citizen";
+var mnemonic = "april key ribbon panic sure walnut orange between issue merry awake nose";

@@ -1,1 +1,1 @@
-var mnemonic = "page marble runway pelican margin mango toast ship suffer hotel juice stay";
+var mnemonic = "hollow update table setup sponsor convince north direct blouse west raven trouble";

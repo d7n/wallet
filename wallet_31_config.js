@@ -1,1 +1,1 @@
-var mnemonic = "crouch major smooth million write theme boat letter advance moment awesome laundry";
+var mnemonic = "pattern absurd execute spoil act pistol slush duck shoot arrow solve enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "hope oyster illegal expect like snake village trap waste figure snack reveal";
+var mnemonic = "mix position swallow correct brush drive truck alien predict search fly evoke";

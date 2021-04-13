@@ -1,1 +1,1 @@
-var mnemonic = "health keen pistol witness habit wrong vacuum estate violin tube dumb kiss";
+var mnemonic = "else torch river winter call six desk project ghost weather virus orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "matter follow canal click castle security repair security lonely lady hello crunch";
+var mnemonic = "brick quality spare axis high jelly make deer kind basic flock nothing";

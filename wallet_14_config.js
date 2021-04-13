@@ -1,1 +1,1 @@
-var mnemonic = "attitude tortoise school alien slide riot fish index parrot indoor screen gesture";
+var mnemonic = "quote galaxy circle bean crystal spy scout runway banana salute cash sing";

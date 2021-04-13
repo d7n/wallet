@@ -1,1 +1,1 @@
-var mnemonic = "pyramid sugar torch roof filter field toast coin suspect electric ladder coral";
+var mnemonic = "usage fall casual romance scan across unveil velvet fever emotion drum sun";

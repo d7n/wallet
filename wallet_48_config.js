@@ -1,1 +1,1 @@
-var mnemonic = "drill usage stage work arm curve urban crater place cargo clinic february";
+var mnemonic = "include tourist fish model weapon craft ring chat edit baby damp riot";

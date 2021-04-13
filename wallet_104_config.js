@@ -1,1 +1,1 @@
-var mnemonic = "glad ask copy pupil puzzle embody sphere gown you couple sustain child";
+var mnemonic = "novel apple hover zero swim patient stock milk unusual farm village defy";

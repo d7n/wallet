@@ -1,1 +1,1 @@
-var mnemonic = "lunch engage notable gasp woman pretty fog vote doll chest mirror vault";
+var mnemonic = "elbow crouch truth rabbit tooth reduce milk dwarf misery rare giant journey";

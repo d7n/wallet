@@ -1,1 +1,1 @@
-var mnemonic = "return runway switch property cash perfect brief arrive hurt lamp glance future";
+var mnemonic = "feed salmon movie bracket few thank slight junk relief program pottery ancient";

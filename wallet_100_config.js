@@ -1,1 +1,1 @@
-var mnemonic = "local fly sting coyote melody electric excuse matter valley length logic armed";
+var mnemonic = "useful swim buyer valid sunset reveal connect number banana team major wrestle";

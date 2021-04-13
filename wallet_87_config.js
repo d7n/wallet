@@ -1,1 +1,1 @@
-var mnemonic = "era skirt plate cool hollow salad garage teach eye pumpkin math soda";
+var mnemonic = "busy lumber trouble furnace shove uncover alone chunk climb soldier mom action";

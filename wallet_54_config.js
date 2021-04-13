@@ -1,1 +1,1 @@
-var mnemonic = "tag planet page verify cheese pudding fat frog clever stock road keen";
+var mnemonic = "barrel bacon mean cover correct name shine chicken web differ shine pair";

@@ -1,1 +1,1 @@
-var mnemonic = "air year airport since moral fiscal foster monkey leave increase assault column";
+var mnemonic = "tape slim wool rebuild decorate loop suspect clutch struggle bamboo private birth";

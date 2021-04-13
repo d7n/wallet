@@ -1,1 +1,1 @@
-var mnemonic = "will service panic dial ranch trial until abuse merry wink click tattoo";
+var mnemonic = "catch salt grid hammer bundle arm flag tunnel shift foot until wood";

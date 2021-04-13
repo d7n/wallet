@@ -1,1 +1,1 @@
-var mnemonic = "jar face harvest success inner invite lounge clerk miracle wool error torch";
+var mnemonic = "mail switch blue solution kitchen trash net subway meat absorb quiz swear";

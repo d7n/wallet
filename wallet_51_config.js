@@ -1,1 +1,1 @@
-var mnemonic = "evidence hollow inform father submit swamp expect fly sentence ask supreme two";
+var mnemonic = "rookie above tree bicycle negative oak scorpion throw inject lemon rabbit timber";

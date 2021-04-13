@@ -1,1 +1,1 @@
-var mnemonic = "cry wheel tomato drum kitchen loan pigeon rival hero legend knee drift";
+var mnemonic = "outer enrich absent equal pitch you peace dice cute list nation head";

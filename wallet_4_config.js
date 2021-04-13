@@ -1,1 +1,1 @@
-var mnemonic = "medal amateur leg breeze gown wing plunge morning flee reward square chest";
+var mnemonic = "balance elder dynamic august behave tongue wire swear ripple work sport immense";
