@@ -1,1 +1,1 @@
-var mnemonic = "caught rather artefact need pattern fine song pelican stove party correct dash";
+var mnemonic = "unusual milk involve weather property toss dilemma gadget accident news beef shove";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs asset keep cradle minor forest table frost choice dial boost happy";
+var mnemonic = "host dream end alpha poem prepare paddle river repair scrub robot pond";

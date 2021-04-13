@@ -1,1 +1,1 @@
-var mnemonic = "jealous render coconut cage usual wise theme shallow primary govern actress script";
+var mnemonic = "van aim title fantasy frost profit unlock wreck reunion shadow noise rough";

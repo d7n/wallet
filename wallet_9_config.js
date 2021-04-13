@@ -1,1 +1,1 @@
-var mnemonic = "endorse rain already aisle toy unlock clinic junk clock sense wasp federal";
+var mnemonic = "danger inch cover uphold crazy green slow quit element win top kick";

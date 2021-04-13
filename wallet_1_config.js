@@ -1,1 +1,1 @@
-var mnemonic = "away slot plunge find tiny ten arena census future settle sing affair";
+var mnemonic = "result please cloth repair jump segment ordinary clip try swallow vanish beef";

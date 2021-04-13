@@ -1,1 +1,1 @@
-var mnemonic = "clay ring river skill pool buddy forward viable razor file cause erosion";
+var mnemonic = "remember snow reunion law imitate hedgehog dilemma ecology guilt soup light divert";

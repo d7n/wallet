@@ -1,1 +1,1 @@
-var mnemonic = "enhance lunar town clutch spring click oppose forest buyer note common mushroom";
+var mnemonic = "bridge walnut episode scout else hedgehog depart young later loan little fiscal";

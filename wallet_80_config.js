@@ -1,1 +1,1 @@
-var mnemonic = "mix rule safe scan mistake wolf fold range motor ramp silver vacant";
+var mnemonic = "wasp always decorate seed where proof pride will deputy total tell dismiss";

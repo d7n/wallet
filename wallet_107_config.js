@@ -1,1 +1,1 @@
-var mnemonic = "debate mango file fashion episode stage short roof only grow deposit bright";
+var mnemonic = "second echo truly regular aunt humble sustain process air give length attend";

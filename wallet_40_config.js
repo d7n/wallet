@@ -1,1 +1,1 @@
-var mnemonic = "puzzle genius chief coast excess service cinnamon universe coin organ skull history";
+var mnemonic = "surge pony tooth open rotate word detail emerge vendor right nut margin";

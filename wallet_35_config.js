@@ -1,1 +1,1 @@
-var mnemonic = "rich seek donate crane actor clay code trust cherry fix globe valve";
+var mnemonic = "dove setup detect job chapter exile estate glory tower kit rally actor";

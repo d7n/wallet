@@ -1,1 +1,1 @@
-var mnemonic = "empower crouch physical stamp choose stamp dutch surround garlic wagon long first";
+var mnemonic = "garage frog tide sniff cigar salute large wall spawn unknown mind conduct";

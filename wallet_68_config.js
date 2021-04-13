@@ -1,1 +1,1 @@
-var mnemonic = "biology south turtle humble mountain salt hurt leisure media craft gaze unfold";
+var mnemonic = "crystal spot nothing lava trigger rocket fan space thank left lonely peasant";

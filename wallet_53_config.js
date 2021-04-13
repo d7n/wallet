@@ -1,1 +1,1 @@
-var mnemonic = "please abandon delay inside become sunset cook open ahead acquire attack seek";
+var mnemonic = "possible coach code box toss thought gap van target wealth copper celery";

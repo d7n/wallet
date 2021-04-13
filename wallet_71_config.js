@@ -1,1 +1,1 @@
-var mnemonic = "sheriff reunion cool lobster wire lens bridge sniff bench wisdom tip service";
+var mnemonic = "toss husband carpet rail liar scheme else ecology torch soda into hand";

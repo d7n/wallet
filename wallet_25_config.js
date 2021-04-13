@@ -1,1 +1,1 @@
-var mnemonic = "forest dignity panda actor toe suggest foil cigar laundry avocado toilet wait";
+var mnemonic = "physical replace glare oval brother maple trash error meadow salute parade surge";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel help cat outdoor fish hollow appear issue stay destroy project during";
+var mnemonic = "scrap paper hollow system pet hunt journey fall spoil soldier wool tired";

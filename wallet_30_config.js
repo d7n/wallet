@@ -1,1 +1,1 @@
-var mnemonic = "enforce warrior wall trend resist piece auto cousin depth hurry fold choose";
+var mnemonic = "vote tragic essence over essay drastic bird leader clutch soda room pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "near regret burden bullet piece century slam fan hungry visa subway century";
+var mnemonic = "please series income atom mirror fortune can shop acoustic mansion taste retire";

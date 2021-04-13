@@ -1,1 +1,1 @@
-var mnemonic = "donor sweet another clog gaze swap name anxiety now giraffe during liar";
+var mnemonic = "follow lawsuit use leader front kitchen federal hidden spend rich release what";

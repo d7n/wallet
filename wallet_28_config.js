@@ -1,1 +1,1 @@
-var mnemonic = "hybrid detect album stay weird bottom pill engage catch funny law seek";
+var mnemonic = "half spread clerk purse village skirt bronze soap walnut wisdom copy fun";

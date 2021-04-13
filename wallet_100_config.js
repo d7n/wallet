@@ -1,1 +1,1 @@
-var mnemonic = "donor heavy vital middle glass predict swift kitchen forum purity maple mixed";
+var mnemonic = "erosion notable metal potato ritual thumb crazy gun evolve boil screen bicycle";

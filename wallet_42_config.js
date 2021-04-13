@@ -1,1 +1,1 @@
-var mnemonic = "ship lift pitch tomorrow explain deliver fragile owner ridge win green that";
+var mnemonic = "magic company dance fine notice object there recall tongue invite fold banana";

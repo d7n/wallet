@@ -1,1 +1,1 @@
-var mnemonic = "ocean patch car net acid problem october very domain affair calm fresh";
+var mnemonic = "moment embody chuckle siren viable mammal unveil oval slice sunny poet local";

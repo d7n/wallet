@@ -1,1 +1,1 @@
-var mnemonic = "excite romance fly program gain attract smart math hockey flock diamond normal";
+var mnemonic = "proof update keep twin whale major ozone section gown ill fence boring";

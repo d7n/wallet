@@ -1,1 +1,1 @@
-var mnemonic = "panda manage interest ranch can embark planet agent gospel mirror narrow author";
+var mnemonic = "text spice now rebuild desert swallow wild black slam roast reopen chicken";

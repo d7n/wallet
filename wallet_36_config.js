@@ -1,1 +1,1 @@
-var mnemonic = "surround reject eight large enrich chat arrest knock axis wheat unaware humor";
+var mnemonic = "wall power rude because become theory prosper sibling resemble planet hunt coral";

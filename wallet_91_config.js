@@ -1,1 +1,1 @@
-var mnemonic = "tuna mistake evolve they avocado gauge buyer wide today truth peace purity";
+var mnemonic = "now tool matter bicycle dial major comic convince abuse garbage credit luggage";

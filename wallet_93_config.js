@@ -1,1 +1,1 @@
-var mnemonic = "sting regular robust toilet case genius evil magic wide arrange expand gain";
+var mnemonic = "episode adult prefer man file yellow mirror length notice fog frequent accuse";

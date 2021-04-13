@@ -1,1 +1,1 @@
-var mnemonic = "square angle spoon boring knife toss journey kitten tortoise tragic armor cost";
+var mnemonic = "surprise hybrid kid kitchen nasty matter decade simple belt common dose bid";

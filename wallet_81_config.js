@@ -1,1 +1,1 @@
-var mnemonic = "segment calm height tower liberty middle vital spot during heavy plug eyebrow";
+var mnemonic = "journey tennis decide better please law burst trigger win page between simple";

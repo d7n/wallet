@@ -1,1 +1,1 @@
-var mnemonic = "clerk arch drink shrug critic develop boring slab garment taste manage foil";
+var mnemonic = "unveil hair organ phrase misery acid amount error crawl clog average appear";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy panda say voyage special salt million zero legal onion sign girl";
+var mnemonic = "glimpse pass try first athlete message knee code snack evil focus hire";

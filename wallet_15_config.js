@@ -1,1 +1,1 @@
-var mnemonic = "ignore balance enforce ignore response exotic sell embark adapt cabin dice above";
+var mnemonic = "flat avoid online fame eternal eager brand gesture special certain marriage history";

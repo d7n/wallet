@@ -1,1 +1,1 @@
-var mnemonic = "pen session fever inquiry opera book bird vacuum school ketchup ozone danger";
+var mnemonic = "garage sniff hedgehog follow cage mountain twenty purchase youth lottery diamond clay";

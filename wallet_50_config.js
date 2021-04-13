@@ -1,1 +1,1 @@
-var mnemonic = "involve crane reduce space force thumb famous never use pistol wing like";
+var mnemonic = "gossip cruel beef silver issue egg noodle weasel ability airport fuel indicate";

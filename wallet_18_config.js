@@ -1,1 +1,1 @@
-var mnemonic = "squeeze blast visit scheme force credit catch crisp slim hurdle novel chase";
+var mnemonic = "inject bomb genre submit height core asthma wait result hobby tank stool";

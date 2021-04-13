@@ -1,1 +1,1 @@
-var mnemonic = "always soft raw exhibit slight youth make rate silent guide skill accuse";
+var mnemonic = "tennis sell advance volume skin possible kit sick egg juice monitor arrow";

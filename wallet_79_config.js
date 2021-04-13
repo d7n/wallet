@@ -1,1 +1,1 @@
-var mnemonic = "act drop drip wrong music cruise loud glass burst jealous gather margin";
+var mnemonic = "agent rely wear uniform alien record paper method damp skate purchase play";

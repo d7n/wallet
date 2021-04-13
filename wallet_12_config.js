@@ -1,1 +1,1 @@
-var mnemonic = "verb always gaze logic tenant rubber load sister first amount young similar";
+var mnemonic = "tongue bless dust tone modify tuna divide guess spawn bargain garment old";

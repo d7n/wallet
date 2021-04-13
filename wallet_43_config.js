@@ -1,1 +1,1 @@
-var mnemonic = "wreck hat parade bomb tortoise two powder asthma galaxy wet vague thank";
+var mnemonic = "patrol manual panel canvas message piano beyond ugly guard execute fly street";

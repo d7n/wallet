@@ -1,1 +1,1 @@
-var mnemonic = "sunny captain hungry vanish orient mercy element you load salute magnet tongue";
+var mnemonic = "depart life source obey use wave enhance unfold fame sister defy guard";

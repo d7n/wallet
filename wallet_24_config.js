@@ -1,1 +1,1 @@
-var mnemonic = "suggest opinion cart cigar match very pair useless online employ fiction subject";
+var mnemonic = "capable leaf primary imitate bonus produce already twelve empower conduct unfold crack";

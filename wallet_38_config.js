@@ -1,1 +1,1 @@
-var mnemonic = "glare crew about obtain twin market spring cream guide much raccoon develop";
+var mnemonic = "lesson nothing festival educate talk board deputy inhale depend mix digital deliver";

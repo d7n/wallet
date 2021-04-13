@@ -1,1 +1,1 @@
-var mnemonic = "west angry define average wash senior behave bright sustain desk just strategy";
+var mnemonic = "embrace race alter pistol smoke glance actor okay pilot snap vivid tuition";

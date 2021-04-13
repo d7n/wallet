@@ -1,1 +1,1 @@
-var mnemonic = "battle beauty surface start kid diet same crisp stand expose aerobic topic";
+var mnemonic = "brief pride drill spring truly woman broom normal tiger canoe leg sure";

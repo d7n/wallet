@@ -1,1 +1,1 @@
-var mnemonic = "adapt tonight orbit wing own lesson struggle accuse gift clean future enact";
+var mnemonic = "middle shoot romance supply barely tail success what neutral confirm gown enter";

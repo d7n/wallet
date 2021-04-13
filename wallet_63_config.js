@@ -1,1 +1,1 @@
-var mnemonic = "student seed render slender fix code clerk teach circle future injury text";
+var mnemonic = "lake museum exotic equip feed horse blush believe sustain firm despair track";

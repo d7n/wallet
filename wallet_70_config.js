@@ -1,1 +1,1 @@
-var mnemonic = "draft myself prison october insane gallery fun theme recycle material mansion install";
+var mnemonic = "drastic grape huge arch cash celery devote define left spoil wave seminar";

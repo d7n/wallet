@@ -1,1 +1,1 @@
-var mnemonic = "organ toilet dignity assist festival guide cream remind fork turkey conduct absent";
+var mnemonic = "author moment pledge hour appear toe electric execute crowd produce buzz hero";

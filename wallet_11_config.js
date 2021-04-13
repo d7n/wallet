@@ -1,1 +1,1 @@
-var mnemonic = "middle vintage matter zone simple father phrase giant frame assist sell enforce";
+var mnemonic = "bone country exhibit cruel glass copy cupboard explain recall decline fossil pond";

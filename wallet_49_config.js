@@ -1,1 +1,1 @@
-var mnemonic = "sell slender subway trumpet devote identify stereo popular seek squirrel power daring";
+var mnemonic = "fresh napkin around appear opinion body edit equip produce boil pledge bargain";

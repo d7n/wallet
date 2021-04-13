@@ -1,1 +1,1 @@
-var mnemonic = "priority butter over burger initial fat letter energy same solution gold minimum";
+var mnemonic = "ensure behind magnet like deer extra couple token trap walk endorse devote";

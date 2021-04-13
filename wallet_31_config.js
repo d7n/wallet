@@ -1,1 +1,1 @@
-var mnemonic = "polar ozone wonder one increase debris collect work jaguar mutual age machine";
+var mnemonic = "girl label beyond cart race find hen fan absent swim winter involve";

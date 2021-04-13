@@ -1,1 +1,1 @@
-var mnemonic = "seed chase gesture defy farm family saddle scorpion park soccer gravity shoot";
+var mnemonic = "sword receive main praise refuse lock image unhappy detect buyer bottom endorse";

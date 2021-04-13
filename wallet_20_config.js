@@ -1,1 +1,1 @@
-var mnemonic = "age phrase february trip list card strong metal much setup link tongue";
+var mnemonic = "sing joke youth denial occur capable vendor sight sense hint rent mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "waste swap fitness skin task sight useless used text ask attract confirm";
+var mnemonic = "drop music magic can sting scrap group glare trust improve damage mammal";

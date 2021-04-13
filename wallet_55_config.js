@@ -1,1 +1,1 @@
-var mnemonic = "peanut author tired monitor tenant steel novel monster mango orphan canvas fuel";
+var mnemonic = "maze pencil quantum feel tray ordinary fancy unable trial help casual thing";

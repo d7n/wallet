@@ -1,1 +1,1 @@
-var mnemonic = "report atom gap lounge venue payment business upper goat audit present brown";
+var mnemonic = "together purchase design traffic exercise mercy potato margin ring energy fun tool";

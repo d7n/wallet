@@ -1,1 +1,1 @@
-var mnemonic = "oval garlic method long pole stairs animal kitten kingdom carpet mad embody";
+var mnemonic = "wash raise merge hammer hint wise fall mad gather device cart planet";

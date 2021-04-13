@@ -1,1 +1,1 @@
-var mnemonic = "day cotton reject fresh weasel kit cruise primary hammer today vicious rack";
+var mnemonic = "ostrich session dentist casino crop garbage world october shoot genre enforce cable";

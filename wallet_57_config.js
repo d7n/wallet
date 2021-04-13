@@ -1,1 +1,1 @@
-var mnemonic = "index account master modify pave trigger hood eager behind day stairs dwarf";
+var mnemonic = "knock crime amused shield dilemma basic symptom diamond defense change basic maze";

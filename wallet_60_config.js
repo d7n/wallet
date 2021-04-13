@@ -1,1 +1,1 @@
-var mnemonic = "rookie wage penalty climb salon maple crop hollow lucky voice goddess ancient";
+var mnemonic = "spirit awake ranch ridge guide stamp peanut awake side insane clay shine";

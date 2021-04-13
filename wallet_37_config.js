@@ -1,1 +1,1 @@
-var mnemonic = "math citizen cruel snake series excess error say clay kitchen hammer echo";
+var mnemonic = "lecture modify account rain basic same spider marble sign crane swear salute";

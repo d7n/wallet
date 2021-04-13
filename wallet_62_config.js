@@ -1,1 +1,1 @@
-var mnemonic = "race hockey escape face double amateur core suffer excuse anchor vanish detect";
+var mnemonic = "anchor garment order curious ability six undo twelve ignore fine account promote";

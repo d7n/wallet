@@ -1,1 +1,1 @@
-var mnemonic = "achieve junk flock error nature amazing wash mountain gain also prefer muffin";
+var mnemonic = "shoulder adult peasant banana better frown funny huge shell know giraffe coin";

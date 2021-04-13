@@ -1,1 +1,1 @@
-var mnemonic = "veteran detect shaft walnut garage exist gas rhythm reopen prefer rapid august";
+var mnemonic = "brisk approve shiver wall home upgrade flock famous bundle trumpet direct eight";

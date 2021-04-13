@@ -1,1 +1,1 @@
-var mnemonic = "soon fog bone acoustic nice antique kite weapon someone clerk liberty excuse";
+var mnemonic = "soon imitate orchard sing come practice detail okay write grant apple wear";

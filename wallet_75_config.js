@@ -1,1 +1,1 @@
-var mnemonic = "dance rigid gorilla trophy slow chicken village gown panther please thing casino";
+var mnemonic = "trick imitate uncover cute skull material tornado grunt vital mechanic rent inspire";

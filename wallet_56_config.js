@@ -1,1 +1,1 @@
-var mnemonic = "omit lab toy rug inner gown enrich make top race vanish finger";
+var mnemonic = "lawsuit club pulp actual curve movie luxury regular trigger idle steel eye";

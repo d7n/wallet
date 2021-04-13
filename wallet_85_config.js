@@ -1,1 +1,1 @@
-var mnemonic = "impulse fragile toward dash cigar match mammal carpet helmet lava brisk dice";
+var mnemonic = "pipe runway mystery comfort split pill doll virtual train leaf fan exist";

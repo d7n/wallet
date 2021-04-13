@@ -1,1 +1,1 @@
-var mnemonic = "neither soul dynamic actress math long long session rely obey perfect vanish";
+var mnemonic = "slogan inject large second fire black buyer problem seed jelly engine vintage";

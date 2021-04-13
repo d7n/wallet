@@ -1,1 +1,1 @@
-var mnemonic = "twenty matter time gold winter spray ecology jazz slim cool antenna duck";
+var mnemonic = "story equip captain daring clog budget noodle reveal arch clever truck phone";

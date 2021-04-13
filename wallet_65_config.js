@@ -1,1 +1,1 @@
-var mnemonic = "doll almost evolve trap smile lift busy patrol cheap fringe steel decide";
+var mnemonic = "column surround drip floor party strike layer case float rigid gentle rib";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy matrix toy brush exclude hurt tumble wrestle mixed nurse race credit";
+var mnemonic = "mother valid only forum degree check maid city valve warm draft carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "visit purpose party jealous honey pulse juice sketch relief powder pizza link";
+var mnemonic = "increase mimic kiss rug metal merit fancy curve shy patient perfect help";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur machine speak canoe card funny census own mistake unique desert vote";
+var mnemonic = "beyond tuition sibling fitness soft sight violin exercise write diamond emotion bubble";

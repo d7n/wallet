@@ -1,1 +1,1 @@
-var mnemonic = "maximum dumb check silver priority address brown monster cup raccoon shift unit";
+var mnemonic = "segment degree waste stand glory quantum blade blanket cook cube phrase occur";

@@ -1,1 +1,1 @@
-var mnemonic = "stool harbor maze congress decide broccoli banner ginger initial evolve galaxy side";
+var mnemonic = "shallow minimum era capital toss fever cactus column stem holiday brain floor";

@@ -1,1 +1,1 @@
-var mnemonic = "say boss world stay invite talk cup already need drama sudden ketchup";
+var mnemonic = "illness grocery young crack remain earth monitor wine leopard truck turn bargain";

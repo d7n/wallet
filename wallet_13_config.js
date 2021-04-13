@@ -1,1 +1,1 @@
-var mnemonic = "lab sting embody cactus double tomorrow kit divorce useless elephant initial exile";
+var mnemonic = "scorpion hello muscle elbow able panther custom awesome soccer almost brain odor";

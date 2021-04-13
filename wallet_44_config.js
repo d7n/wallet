@@ -1,1 +1,1 @@
-var mnemonic = "hamster vanish motor spoil way unknown soccer melt glue dog army sense";
+var mnemonic = "must giraffe remember brisk raccoon milk surge sniff typical car air brand";

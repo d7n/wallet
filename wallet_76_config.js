@@ -1,1 +1,1 @@
-var mnemonic = "work quick kick maximum fire age like vehicle world inquiry fork boat";
+var mnemonic = "garden clay hybrid copper brown lawsuit inject merge flash goose wool ordinary";

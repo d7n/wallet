@@ -1,1 +1,1 @@
-var mnemonic = "carpet column wise nuclear change ginger day train develop fox assume add";
+var mnemonic = "forum blue badge solution drive control grass bronze type account human health";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness present spoon climb indoor sunset leaf mango local rural file brick";
+var mnemonic = "cheese captain equip erupt spoon lottery ten group visa breeze record chef";

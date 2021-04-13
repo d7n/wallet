@@ -1,1 +1,1 @@
-var mnemonic = "badge marriage robot silver wear man tip relief category misery lemon arrange";
+var mnemonic = "floor stage reform minor field circle script place exchange flip blossom empty";

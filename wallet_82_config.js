@@ -1,1 +1,1 @@
-var mnemonic = "desert truck glory stomach drill profit sniff kidney hospital auto perfect issue";
+var mnemonic = "build fantasy brave capable attack struggle gorilla august pride bulk brass sudden";

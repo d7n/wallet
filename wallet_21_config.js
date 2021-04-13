@@ -1,1 +1,1 @@
-var mnemonic = "proof gift visual avocado fog area cinnamon tumble essence soup spirit until";
+var mnemonic = "soccer liar office smile ensure refuse lottery auction frame violin candy network";

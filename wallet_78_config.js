@@ -1,1 +1,1 @@
-var mnemonic = "rabbit claw merge ability inspire west burden behind idle slice stereo laundry";
+var mnemonic = "girl resource drop office nest space ghost flame pioneer autumn silk tuna";

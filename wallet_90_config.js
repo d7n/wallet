@@ -1,1 +1,1 @@
-var mnemonic = "canal loud exit prison shine nut shoe slow assault exercise pig apart";
+var mnemonic = "decide lab milk wasp neutral midnight stove smooth project derive spike shoot";

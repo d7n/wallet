@@ -1,1 +1,1 @@
-var mnemonic = "average arrange blue nut next eagle mutual draft wool cactus fetch secret";
+var mnemonic = "grid paddle around host spoon tenant table defense chief echo furnace fame";

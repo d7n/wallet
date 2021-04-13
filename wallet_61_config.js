@@ -1,1 +1,1 @@
-var mnemonic = "install common island nerve stamp cash road wild match output wet grief";
+var mnemonic = "combine local cattle figure rude parrot plug couple session runway way tower";

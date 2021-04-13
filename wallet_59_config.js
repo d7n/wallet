@@ -1,1 +1,1 @@
-var mnemonic = "robust coast bicycle luggage secret fire squeeze goose theory catalog present inner";
+var mnemonic = "lesson puppy fire upon addict crane elephant claw correct scheme crop zero";

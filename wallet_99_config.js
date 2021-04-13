@@ -1,1 +1,1 @@
-var mnemonic = "cheese there morning client concert actual seminar spot short pact document runway";
+var mnemonic = "saddle tip annual pipe sauce coach holiday clown creek volcano fatigue word";

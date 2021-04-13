@@ -1,1 +1,1 @@
-var mnemonic = "dash again bag chef list awful decorate wear scrub inside appear naive";
+var mnemonic = "pudding worth senior salmon action judge derive describe install spirit obtain abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "already physical excite add destroy board casual laundry loud kid cigar treat";
+var mnemonic = "stem fancy light canoe theory buffalo west educate crater mad medal owner";
