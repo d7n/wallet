@@ -1,1 +1,1 @@
-var mnemonic = "weapon idle deny try ill have bronze improve scissors like result author";
+var mnemonic = "old surround multiply item future tree law else tip display verify soda";

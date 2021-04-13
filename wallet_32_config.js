@@ -1,1 +1,1 @@
-var mnemonic = "gossip flavor among crucial milk warm dress kitchen truth obscure hybrid timber";
+var mnemonic = "whale act cereal orphan mixed lemon smile cliff tenant state angle wink";

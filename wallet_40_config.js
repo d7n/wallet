@@ -1,1 +1,1 @@
-var mnemonic = "beach option word famous purity candy fee liar car episode door caught";
+var mnemonic = "fine blue cube antique video route skate bicycle rely vintage offer laptop";

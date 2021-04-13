@@ -1,1 +1,1 @@
-var mnemonic = "proud erupt below rabbit vanish talk pencil option reduce frog fortune mutual";
+var mnemonic = "maid vocal actor elegant crash evolve laundry mosquito very pistol flash myself";

@@ -1,1 +1,1 @@
-var mnemonic = "clump leave minute brown refuse popular powder drama black three palace embrace";
+var mnemonic = "width million flag edit fancy few between defy misery submit corn peace";

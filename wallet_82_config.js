@@ -1,1 +1,1 @@
-var mnemonic = "clerk hockey average rival cannon wife spice struggle position phone waste kangaroo";
+var mnemonic = "accident club arctic day inflict text enforce game young ecology number must";

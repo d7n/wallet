@@ -1,1 +1,1 @@
-var mnemonic = "august violin slender detect message owner stay gospel gravity wide silent olympic";
+var mnemonic = "slender minute topple fashion range wet end clinic topic hover drastic rice";

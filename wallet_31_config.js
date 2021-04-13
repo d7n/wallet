@@ -1,1 +1,1 @@
-var mnemonic = "merit shoulder buddy dune improve leave cover run mimic lucky garbage lion";
+var mnemonic = "size walnut saddle cheap pony educate eye sail daring skin badge general";

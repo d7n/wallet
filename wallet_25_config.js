@@ -1,1 +1,1 @@
-var mnemonic = "pool cruise deposit cherry end bone truth caught possible trust wedding face";
+var mnemonic = "kitchen edge hire dumb service hammer enroll bar fault minimum neutral bracket";

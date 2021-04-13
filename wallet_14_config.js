@@ -1,1 +1,1 @@
-var mnemonic = "salute obscure old bounce picture quote behind credit combine split safe ten";
+var mnemonic = "barrel dutch muscle body regret rifle grape garden quarter usual survey clip";

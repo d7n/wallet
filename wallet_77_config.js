@@ -1,1 +1,1 @@
-var mnemonic = "image squeeze roast harbor fly regular board march critic goose sword asthma";
+var mnemonic = "debate inhale tuition expire blood time sustain razor pill garbage control firm";

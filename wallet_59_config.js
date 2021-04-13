@@ -1,1 +1,1 @@
-var mnemonic = "fan destroy arrange frost thumb mind camp album sock quote you try";
+var mnemonic = "chuckle spike lady pudding call broken cancel admit they program dash save";

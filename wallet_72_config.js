@@ -1,1 +1,1 @@
-var mnemonic = "strong insect river twin panda tiny light energy gorilla live pave spring";
+var mnemonic = "month hard term quick general initial lounge stick north garden snake blame";

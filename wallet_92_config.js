@@ -1,1 +1,1 @@
-var mnemonic = "legend column match shop forget this happy differ velvet tray lion account";
+var mnemonic = "clerk icon wisdom spatial own twist wheat hint uncover sad inherit only";

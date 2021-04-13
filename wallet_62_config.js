@@ -1,1 +1,1 @@
-var mnemonic = "puzzle ten alcohol voyage rabbit legal arm over wedding next kangaroo bulb";
+var mnemonic = "leg puppy tip maid rug hello staff grief paper pill black camp";

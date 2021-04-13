@@ -1,1 +1,1 @@
-var mnemonic = "poverty task powder chapter parent chest tomorrow nephew fan finger spend glide";
+var mnemonic = "inside cannon kangaroo grass guard pistol adult panel tray thought sing evoke";

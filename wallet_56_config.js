@@ -1,1 +1,1 @@
-var mnemonic = "fossil leg evoke subway consider edge short card bread modify place humble";
+var mnemonic = "health between must evoke scheme cake science rib rabbit private pattern jaguar";

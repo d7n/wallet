@@ -1,1 +1,1 @@
-var mnemonic = "circle into inject kind anxiety lottery rely behind bar unique solid light";
+var mnemonic = "hole element easy fly road odor virus degree stable weird leave puzzle";

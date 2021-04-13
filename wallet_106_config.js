@@ -1,1 +1,1 @@
-var mnemonic = "elephant dynamic toe artefact race cousin birth social ball face absurd flight";
+var mnemonic = "immense banner glimpse wasp plug mountain spend ostrich angry cram empower begin";

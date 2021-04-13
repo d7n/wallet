@@ -1,1 +1,1 @@
-var mnemonic = "much oak theory twist patrol smart suit service slide stem increase twist";
+var mnemonic = "moon frequent upgrade lend valid song atom alone receive normal erosion belt";

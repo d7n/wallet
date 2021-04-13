@@ -1,1 +1,1 @@
-var mnemonic = "follow little forget shield logic hill truck length inside similar common gather";
+var mnemonic = "fish boat fun approve mom awesome tent soft region payment glide busy";

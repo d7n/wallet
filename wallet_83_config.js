@@ -1,1 +1,1 @@
-var mnemonic = "favorite elite never wasp funny vital awake simple address equip cool sadness";
+var mnemonic = "bulb scout donate hammer home twelve culture street album cause stove orphan";

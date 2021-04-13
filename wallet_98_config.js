@@ -1,1 +1,1 @@
-var mnemonic = "private bread input cheap snow cigar river common anxiety prepare area quit";
+var mnemonic = "coast traffic praise mushroom warm record sustain cage depend cream used base";

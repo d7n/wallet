@@ -1,1 +1,1 @@
-var mnemonic = "fuel beauty movie feature health calm jealous deposit humble witness hammer true";
+var mnemonic = "raise apart limit rocket ghost family boat pact skill cinnamon lottery misery";

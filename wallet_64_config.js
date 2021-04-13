@@ -1,1 +1,1 @@
-var mnemonic = "swallow moral punch catch embody spy educate atom unique illegal casual market";
+var mnemonic = "panther tennis office fish panic orbit uniform army artwork renew develop glass";

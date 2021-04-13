@@ -1,1 +1,1 @@
-var mnemonic = "rifle naive year canvas dentist rose general shoulder kingdom bus cycle churn";
+var mnemonic = "crash ceiling leave very recipe pull fish warrior tent scrap model hello";

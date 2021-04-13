@@ -1,1 +1,1 @@
-var mnemonic = "belt fence sample click system relief kangaroo list blood bundle distance wisdom";
+var mnemonic = "bring cheese outside buffalo flee equal pistol oyster warrior pyramid addict purchase";

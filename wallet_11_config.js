@@ -1,1 +1,1 @@
-var mnemonic = "junk just hole trip cradle project load fashion between pattern embody boost";
+var mnemonic = "sell place lake hair antique enough purchase enemy trick front age engine";

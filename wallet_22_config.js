@@ -1,1 +1,1 @@
-var mnemonic = "stone giraffe column cycle merry chicken actress rocket pause waste street panda";
+var mnemonic = "photo spot give drill young clean cluster pottery tired hospital awesome tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil seat fever before pistol air wagon vocal catch ring connect empty";
+var mnemonic = "slot fat illness biology merry primary cover hole tell inflict boss crunch";

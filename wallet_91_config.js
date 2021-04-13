@@ -1,1 +1,1 @@
-var mnemonic = "avocado rely total engine situate library edit carry climb slim crop paper";
+var mnemonic = "sail carry assume luxury gloom east crew comfort maid trash success expect";

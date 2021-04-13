@@ -1,1 +1,1 @@
-var mnemonic = "under swear execute program poet food casual squeeze lecture spare stand arena";
+var mnemonic = "normal civil turkey pupil image certain vast vanish amount village orphan attitude";

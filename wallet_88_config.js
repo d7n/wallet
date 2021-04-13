@@ -1,1 +1,1 @@
-var mnemonic = "runway female major honey prevent end trophy armed subject nation photo secret";
+var mnemonic = "nice bean bulk suffer taxi employ detail jaguar wheel solar egg swarm";

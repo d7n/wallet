@@ -1,1 +1,1 @@
-var mnemonic = "virus knock now champion story miss transfer stereo aim room novel oblige";
+var mnemonic = "quote loan fatal stand culture spider country opinion spy random check jazz";

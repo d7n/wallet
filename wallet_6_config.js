@@ -1,1 +1,1 @@
-var mnemonic = "fancy ankle truly destroy life stadium turtle gadget lab possible limb oppose";
+var mnemonic = "almost truck fee first swallow property song warfare night fit screen slender";

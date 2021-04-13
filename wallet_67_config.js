@@ -1,1 +1,1 @@
-var mnemonic = "wagon ripple night glare boat electric machine recipe verb nasty flame blanket";
+var mnemonic = "cover marble goose riot humor race label popular search learn employ weekend";

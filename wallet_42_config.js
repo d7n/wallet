@@ -1,1 +1,1 @@
-var mnemonic = "faith have bamboo rocket pumpkin swap hub detail add oxygen uncle spare";
+var mnemonic = "target lyrics seven crunch analyst street network have morning fabric neither reveal";

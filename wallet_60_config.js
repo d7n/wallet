@@ -1,1 +1,1 @@
-var mnemonic = "office nothing electric cancel bid enlist grid analyst panic embark above stamp";
+var mnemonic = "decline notable cactus art friend stone group duty enforce style alert illegal";

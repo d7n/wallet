@@ -1,1 +1,1 @@
-var mnemonic = "clinic check tower hair defy beyond fox course noble ask noodle thing";
+var mnemonic = "damage pink apology faint stumble old busy whale object board explain slight";

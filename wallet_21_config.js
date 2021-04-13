@@ -1,1 +1,1 @@
-var mnemonic = "case crouch nasty cruise author step situate desert expect hotel visual kitten";
+var mnemonic = "cream crack net dance pretty glide snack sadness print risk core sniff";

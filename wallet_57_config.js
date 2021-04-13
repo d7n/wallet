@@ -1,1 +1,1 @@
-var mnemonic = "boss shoulder father audit rally rebuild awkward seed measure group paper phone";
+var mnemonic = "cable neither game peanut capable smile theory term payment ketchup pipe quit";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge chief search mad relief album banner bottom occur west cluster lend";
+var mnemonic = "belt trade assault unit amateur have ancient shell orbit art zone cover";

@@ -1,1 +1,1 @@
-var mnemonic = "salt renew claim member notice immune vapor room soda desert obey purity";
+var mnemonic = "tribe cram desk panther enlist suffer remind copper fragile pact swap rabbit";

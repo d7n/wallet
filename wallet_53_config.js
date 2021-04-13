@@ -1,1 +1,1 @@
-var mnemonic = "maximum velvet that absorb oppose evil blood welcome super seed rib kind";
+var mnemonic = "flee borrow kiss scrub skill top feed elite trade filter burden wish";

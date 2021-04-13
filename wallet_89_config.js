@@ -1,1 +1,1 @@
-var mnemonic = "oblige genuine attend bottom state major parent stone home among thrive soft";
+var mnemonic = "print clean wild milk mercy joy wild nerve potato boy logic ugly";

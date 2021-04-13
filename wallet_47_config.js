@@ -1,1 +1,1 @@
-var mnemonic = "fragile truck hover broccoli yard reflect future neglect female derive hero hero";
+var mnemonic = "pink middle sand patch slow wheat grab patch gasp what slogan cigar";

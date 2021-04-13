@@ -1,1 +1,1 @@
-var mnemonic = "faculty whale forest myself labor believe honey guess claw faint cool ensure";
+var mnemonic = "hill fresh floor quit trigger rifle rely jacket boy elephant coast leaf";

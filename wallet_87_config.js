@@ -1,1 +1,1 @@
-var mnemonic = "crater jeans life soul wink swallow couch people monitor found donor cost";
+var mnemonic = "above crucial basket marine finger bracket donkey pumpkin receive train morning envelope";

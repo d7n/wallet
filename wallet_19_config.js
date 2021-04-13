@@ -1,1 +1,1 @@
-var mnemonic = "six cement skate spy symptom denial verb crush library guitar inmate taste";
+var mnemonic = "shoulder demand shadow clutch buffalo truck brisk wide horror blossom empower receive";

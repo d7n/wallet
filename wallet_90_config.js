@@ -1,1 +1,1 @@
-var mnemonic = "glad pencil match waste grass indicate race edge dose keep book bicycle";
+var mnemonic = "idle almost practice east humor seed tent where run lesson bunker material";

@@ -1,1 +1,1 @@
-var mnemonic = "moment reason ginger slam cost genre lake minimum actress daughter below vendor";
+var mnemonic = "prepare celery true much media oil moment uncle banana invite powder course";

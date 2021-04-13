@@ -1,1 +1,1 @@
-var mnemonic = "cream afraid fatigue unaware gasp elbow bargain nest bonus century lab text";
+var mnemonic = "uniform upon van announce manage leopard ecology buzz soldier tobacco sunny sail";

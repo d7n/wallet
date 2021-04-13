@@ -1,1 +1,1 @@
-var mnemonic = "exile hurdle grass feature acid ride engine example muffin surface august normal";
+var mnemonic = "all resist confirm patrol letter diesel diary dynamic advice mail join indoor";

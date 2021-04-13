@@ -1,1 +1,1 @@
-var mnemonic = "same master stone section visa wrist soul castle bread ball canal ticket";
+var mnemonic = "pledge art elder industry harvest panic police obtain vibrant target thing universe";

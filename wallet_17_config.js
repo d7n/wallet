@@ -1,1 +1,1 @@
-var mnemonic = "weird people vintage trend silver elegant peanut panther royal budget inhale wait";
+var mnemonic = "chief banner slide huge husband control label world photo ribbon text icon";

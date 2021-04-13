@@ -1,1 +1,1 @@
-var mnemonic = "glow puppy clerk raw adapt grant quality hero crew walk myself frown";
+var mnemonic = "canal utility disorder bring palm pool nominee winner dance head column knee";

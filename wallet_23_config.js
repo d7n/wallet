@@ -1,1 +1,1 @@
-var mnemonic = "there remain glance current system august truck edit page metal reopen idle";
+var mnemonic = "orphan tomato announce section vapor tuna hold brown victory laundry brand health";

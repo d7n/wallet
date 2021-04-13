@@ -1,1 +1,1 @@
-var mnemonic = "fetch mystery wealth cradle belt beyond term paddle seminar paper noble educate";
+var mnemonic = "say oblige naive topic find meat lend retreat trumpet major monkey roof";

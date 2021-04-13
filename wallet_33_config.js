@@ -1,1 +1,1 @@
-var mnemonic = "denial stem patient kiwi invite what text roof nephew miracle fiscal volume";
+var mnemonic = "ordinary camera jacket life pioneer order unaware expect odor van celery muffin";

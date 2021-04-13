@@ -1,1 +1,1 @@
-var mnemonic = "artwork naive embrace skin tool improve green language ride gentle field trophy";
+var mnemonic = "collect theory damp lounge bridge nest property primary peanut surround lava path";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon police kangaroo globe grocery betray pyramid struggle glance knee neglect prepare";
+var mnemonic = "spice tonight awful glide stairs dinner body muffin settle adult fade tank";

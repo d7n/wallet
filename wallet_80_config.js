@@ -1,1 +1,1 @@
-var mnemonic = "rely seminar visa turtle chuckle direct denial calm extend crash width space";
+var mnemonic = "river seven middle bulb control real frame fantasy scissors call polar swing";

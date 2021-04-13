@@ -1,1 +1,1 @@
-var mnemonic = "smooth achieve notice analyst bachelor side want know poet dial soda act";
+var mnemonic = "aunt dinner north peanut column witness athlete black fiscal push that expect";

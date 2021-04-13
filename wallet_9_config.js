@@ -1,1 +1,1 @@
-var mnemonic = "tackle drop jazz loan venue stem badge spell ranch farm purpose motor";
+var mnemonic = "violin season movie cactus abstract fork spider one panther approve seed thought";

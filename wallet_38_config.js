@@ -1,1 +1,1 @@
-var mnemonic = "illness pencil all iron live resemble library acoustic latin crisp web marine";
+var mnemonic = "predict regret hedgehog dismiss enter awful loud useful curtain dune fade have";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue prosper obscure ski rather casino cute team practice attend jaguar sense";
+var mnemonic = "sustain empower sell any bus hand eight call unhappy occur thought gospel";

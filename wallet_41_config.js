@@ -1,1 +1,1 @@
-var mnemonic = "pyramid seat deer suffer moral seven basket agree chuckle tattoo custom make";
+var mnemonic = "monkey range example winter pyramid gate system shiver nation powder above decline";

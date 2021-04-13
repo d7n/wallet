@@ -1,1 +1,1 @@
-var mnemonic = "soldier meat music lemon response balcony make ridge dentist disorder draft museum";
+var mnemonic = "harsh super notice marriage human jeans polar glass usual between cherry yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "have quarter leave chaos account fun route dog between history notable recipe";
+var mnemonic = "tiny fit expand pull glad light fire kite admit life split robust";

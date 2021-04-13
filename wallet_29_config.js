@@ -1,1 +1,1 @@
-var mnemonic = "magnet hire drop brush group pupil picnic devote tourist project tourist distance";
+var mnemonic = "group suffer until depart fat pull stairs minor hope conduct speed gravity";

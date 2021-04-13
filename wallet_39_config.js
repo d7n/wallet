@@ -1,1 +1,1 @@
-var mnemonic = "virtual tortoise tennis wreck airport option rebel field suggest cement tonight current";
+var mnemonic = "impact measure street moment glass base maid polar safe position fossil disease";

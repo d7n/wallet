@@ -1,1 +1,1 @@
-var mnemonic = "peanut okay august donor viable amused swim minimum verify refuse burger sunset";
+var mnemonic = "truck measure orphan nut name jaguar devote push erode ill universe wire";

@@ -1,1 +1,1 @@
-var mnemonic = "grain twist west patch link wet bone easily energy pistol include first";
+var mnemonic = "friend wife blast october crisp tackle pudding cycle drink client acoustic define";

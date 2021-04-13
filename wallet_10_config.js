@@ -1,1 +1,1 @@
-var mnemonic = "term fever type evoke describe pulp obvious sadness force height weekend buyer";
+var mnemonic = "hint claim fabric measure busy april pencil donate first next consider thunder";

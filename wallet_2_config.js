@@ -1,1 +1,1 @@
-var mnemonic = "cross census another chicken raise misery left junior suit party midnight soup";
+var mnemonic = "impose adapt manual often scout accuse sail disease off foil during load";

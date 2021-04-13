@@ -1,1 +1,1 @@
-var mnemonic = "prosper note welcome end badge chapter piece alarm gate rebuild return minor";
+var mnemonic = "spare math zone north hedgehog priority truth category weekend way coin galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "snap wink loop jacket card blast proud lesson sun push survey library";
+var mnemonic = "crawl truck sibling cliff promote bar repair stable coffee body sponsor bulk";

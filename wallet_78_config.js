@@ -1,1 +1,1 @@
-var mnemonic = "electric tape punch tray scan wheat random laugh broken scorpion salt inch";
+var mnemonic = "east furnace scale trim boss imitate device wrap include sting mansion dice";

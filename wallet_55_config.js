@@ -1,1 +1,1 @@
-var mnemonic = "lock keep indicate rhythm blood congress cat marine protect help hamster spoil";
+var mnemonic = "tiger rate village trap rail parent tooth motor bachelor unable black spawn";

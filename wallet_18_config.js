@@ -1,1 +1,1 @@
-var mnemonic = "holiday express flag potato harsh spring rough grow blade annual embody owner";
+var mnemonic = "situate dry offer float chest crack easily educate security lab brass convince";

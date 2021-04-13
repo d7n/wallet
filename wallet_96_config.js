@@ -1,1 +1,1 @@
-var mnemonic = "pear poverty faint cattle couch place exhaust near spend pride creek move";
+var mnemonic = "bundle volcano nominee swap inspire honey nasty zebra cherry stuff will quarter";

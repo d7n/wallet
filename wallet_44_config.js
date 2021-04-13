@@ -1,1 +1,1 @@
-var mnemonic = "chunk few category mango member attack zone lesson brick auto athlete coconut";
+var mnemonic = "angle rose borrow club lend slush success cannon ensure sight check frozen";

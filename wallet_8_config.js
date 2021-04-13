@@ -1,1 +1,1 @@
-var mnemonic = "wolf vendor banner want piano slight hobby family dial reflect elder flip";
+var mnemonic = "resist across excuse kingdom hockey swim guard kangaroo pupil very sudden sorry";

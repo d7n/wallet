@@ -1,1 +1,1 @@
-var mnemonic = "someone sword very announce sand lunch grow lock hospital spell park large";
+var mnemonic = "endless burst never bubble vicious diagram together anger climb report wisdom explain";

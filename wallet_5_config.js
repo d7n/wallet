@@ -1,1 +1,1 @@
-var mnemonic = "panel noodle ritual pull can exotic letter unable wheat naive soft learn";
+var mnemonic = "exact addict search shrug resemble embark trouble pretty slice possible moon between";

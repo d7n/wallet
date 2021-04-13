@@ -1,1 +1,1 @@
-var mnemonic = "paper home measure divide innocent sibling crop faculty myth dirt hybrid universe";
+var mnemonic = "divide broccoli achieve initial split invest joke loan camera claw daughter two";

@@ -1,1 +1,1 @@
-var mnemonic = "scan vessel acquire stool energy debris man appear shadow olympic distance symptom";
+var mnemonic = "nature nominee favorite charge century tumble pill congress nuclear neutral fork crouch";

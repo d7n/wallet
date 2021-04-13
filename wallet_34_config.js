@@ -1,1 +1,1 @@
-var mnemonic = "same act forest bulb trumpet alien later clever mercy shrimp elder segment";
+var mnemonic = "crash main battle only turn kingdom math beauty warm toddler model day";

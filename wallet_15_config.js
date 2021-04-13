@@ -1,1 +1,1 @@
-var mnemonic = "jaguar cattle dinner select sea crew mix black ensure metal virtual evolve";
+var mnemonic = "hand mesh top skate exact silent horse stairs crack mechanic slice chef";

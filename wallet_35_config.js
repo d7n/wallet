@@ -1,1 +1,1 @@
-var mnemonic = "donor bubble clarify alone wild desert leg desert offer together scrap siege";
+var mnemonic = "hollow hard pride envelope peanut agent sense crew link weasel where eye";

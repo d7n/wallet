@@ -1,1 +1,1 @@
-var mnemonic = "robot priority garage glove lock vapor resist century repeat extend maximum fiction";
+var mnemonic = "brief water claim era transfer shock civil glide media push open apple";

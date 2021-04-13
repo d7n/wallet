@@ -1,1 +1,1 @@
-var mnemonic = "bleak few master stand audit dial aerobic six copper rebuild heart arctic";
+var mnemonic = "gasp velvet grain come chaos frown access raw myself upper run steel";

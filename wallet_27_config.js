@@ -1,1 +1,1 @@
-var mnemonic = "episode vacant lunch tip hire demise become series adult novel edge property";
+var mnemonic = "mandate august chapter chunk chair tiger neglect east lobster surface profit offer";

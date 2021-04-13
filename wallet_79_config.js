@@ -1,1 +1,1 @@
-var mnemonic = "wink drama code follow fetch device oxygen achieve arrange control habit mountain";
+var mnemonic = "tuna steak figure near scrub knee oak program normal rival acid island";
