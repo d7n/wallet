@@ -1,1 +1,1 @@
-var mnemonic = "tourist eternal oppose ship craft vague rally crisp response manage disorder tent";
+var mnemonic = "bread turtle fatal thumb axis avoid uncover claw donkey simple decrease cushion";

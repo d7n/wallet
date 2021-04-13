@@ -1,1 +1,1 @@
-var mnemonic = "vivid arrive improve champion crime grain trend scissors wrist tiny rural museum";
+var mnemonic = "broom atom aerobic concert ship double measure suit unique spawn cactus stable";

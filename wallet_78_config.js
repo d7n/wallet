@@ -1,1 +1,1 @@
-var mnemonic = "artist ocean science oxygen extend circle penalty surprise vibrant weekend hurdle live";
+var mnemonic = "device kangaroo approve shaft minor mosquito hold oblige common fall library lonely";

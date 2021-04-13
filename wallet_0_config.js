@@ -1,1 +1,1 @@
-var mnemonic = "fit safe buzz alarm sense neither unknown coyote unique mystery dove bubble";
+var mnemonic = "evil square frame corn predict uncle amount lab song useful inhale pudding";

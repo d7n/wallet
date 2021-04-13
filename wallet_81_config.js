@@ -1,1 +1,1 @@
-var mnemonic = "oblige reunion crowd guitar antique before chest donate name spy staff move";
+var mnemonic = "involve author olive valley protect mutual quality guess same pink hat shrimp";

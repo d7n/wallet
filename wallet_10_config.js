@@ -1,1 +1,1 @@
-var mnemonic = "tongue sister boring farm infant cloud assault praise robust six parent bar";
+var mnemonic = "honey fix mail bird disorder pupil call rebuild glance jewel remove erode";

@@ -1,1 +1,1 @@
-var mnemonic = "earn grocery tide doctor toy fog rail drum sea fox raise dove";
+var mnemonic = "timber indoor world monitor cart odor puzzle hood bamboo pulp evil result";

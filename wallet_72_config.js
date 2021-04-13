@@ -1,1 +1,1 @@
-var mnemonic = "female orphan want ripple maid amazing slide feel edit unfair under taxi";
+var mnemonic = "donate teach net such crisp letter sorry decline business brick forum poem";

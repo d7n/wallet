@@ -1,1 +1,1 @@
-var mnemonic = "tissue erosion language casino fringe fossil sheriff deposit claim equip punch initial";
+var mnemonic = "fat peanut clip patch half husband fury punch floor suspect snake insect";

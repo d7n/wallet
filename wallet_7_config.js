@@ -1,1 +1,1 @@
-var mnemonic = "siren cost oppose express reflect end dolphin cart melody video doctor lunar";
+var mnemonic = "virtual pattern sock render field opinion weekend right resist chat swear middle";

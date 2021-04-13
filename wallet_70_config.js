@@ -1,1 +1,1 @@
-var mnemonic = "pigeon crop hub also canyon library jaguar view tent supreme pencil tooth";
+var mnemonic = "surprise clown social judge above flee mixed frame caution pink shock net";

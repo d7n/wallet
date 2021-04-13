@@ -1,1 +1,1 @@
-var mnemonic = "output mad civil diagram deliver tennis glue onion coffee proud awful laundry";
+var mnemonic = "hospital bar plug response result recipe eye foot normal invest iron curve";

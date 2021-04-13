@@ -1,1 +1,1 @@
-var mnemonic = "scrub ethics slender talent seek moment length effort brisk expand hedgehog harbor";
+var mnemonic = "letter purity cigar antenna carbon slush eternal comic illegal script gate giggle";

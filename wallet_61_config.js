@@ -1,1 +1,1 @@
-var mnemonic = "modify snow canoe illness loop laptop firm summer vast slot worry clean";
+var mnemonic = "garlic adjust now wide gaze enter typical control yellow maple describe solution";

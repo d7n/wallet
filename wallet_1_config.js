@@ -1,1 +1,1 @@
-var mnemonic = "task tenant lake vital lyrics spin job insane slot blade victory snack";
+var mnemonic = "rice frown mercy shadow absorb spoil box oxygen faint relax network control";

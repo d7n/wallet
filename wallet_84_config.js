@@ -1,1 +1,1 @@
-var mnemonic = "garlic canoe language harsh void tip zero shaft shadow paddle cage student";
+var mnemonic = "outer federal pink unhappy wash orphan trend clip trust youth slab together";

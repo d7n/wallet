@@ -1,1 +1,1 @@
-var mnemonic = "rapid gesture great welcome anger scan onion define garbage coast knife drip";
+var mnemonic = "region car ghost promote fashion series belt brass figure carbon vague problem";

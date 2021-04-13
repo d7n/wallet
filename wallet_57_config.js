@@ -1,1 +1,1 @@
-var mnemonic = "song cheese hen design wing upset copper garbage comic matrix outside enhance";
+var mnemonic = "cherry kitten general elevator property rely oyster surround truth way tilt soft";

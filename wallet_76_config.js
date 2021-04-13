@@ -1,1 +1,1 @@
-var mnemonic = "nominee outside fuel census clip nest room bachelor knife retire focus supreme";
+var mnemonic = "keen rigid edge double chaos muffin reform patient push treat book shiver";

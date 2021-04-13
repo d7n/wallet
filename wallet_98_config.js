@@ -1,1 +1,1 @@
-var mnemonic = "school sand raise parrot enough assume calm scene window leave then east";
+var mnemonic = "sight runway engage consider basket picture sweet quote quality short comfort okay";

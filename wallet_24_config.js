@@ -1,1 +1,1 @@
-var mnemonic = "discover bulk stool business security state demand regret size bonus birth food";
+var mnemonic = "odor blame suspect genius chimney sketch melody online effort lab scene quantum";

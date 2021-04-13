@@ -1,1 +1,1 @@
-var mnemonic = "excess barely nut door mixture coyote decline used claim coral dizzy accident";
+var mnemonic = "moment shop art predict load mail aunt tone clean industry hand scissors";

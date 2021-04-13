@@ -1,1 +1,1 @@
-var mnemonic = "width firm carry sugar close globe rule faith velvet volcano before creek";
+var mnemonic = "stool brand auction monkey detail obey mansion stuff order valve rain rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "dial figure industry thank total improve large object artefact ride autumn crime";
+var mnemonic = "immense clever flee orphan judge purse flavor old wise imitate sketch sight";

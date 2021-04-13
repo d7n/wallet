@@ -1,1 +1,1 @@
-var mnemonic = "hurry valley broom color attend divorce want release staff bench weird snake";
+var mnemonic = "process garment egg corn dirt link hedgehog slam throw photo fox select";

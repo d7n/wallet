@@ -1,1 +1,1 @@
-var mnemonic = "soap follow join slab hat pupil roast voyage spell card laundry chair";
+var mnemonic = "wedding element torch intact brisk mail base cancel visa problem then hand";

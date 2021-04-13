@@ -1,1 +1,1 @@
-var mnemonic = "virtual slogan dolphin action cake hub jaguar mother unit clap style unfair";
+var mnemonic = "dream orchard fringe soft select lab farm thought hood sun salad sick";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur bounce differ virtual lounge fitness jazz will churn bind saddle measure";
+var mnemonic = "spoil require park flock track one aspect among helmet movie choice mirror";

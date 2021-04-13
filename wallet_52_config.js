@@ -1,1 +1,1 @@
-var mnemonic = "notable guitar wish record aerobic symptom envelope estate oblige when year what";
+var mnemonic = "copy hidden patrol fine wonder assault bonus oppose power infant inhale sphere";

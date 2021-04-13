@@ -1,1 +1,1 @@
-var mnemonic = "page auto between october arrive hand rail inner answer involve home camera";
+var mnemonic = "erosion unfold final guard helmet warm cabin jungle ancient cruise clinic arrive";

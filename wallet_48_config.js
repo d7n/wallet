@@ -1,1 +1,1 @@
-var mnemonic = "quantum kid ice monster notice eagle fit involve blood wine awful cable";
+var mnemonic = "soft equip jeans april brick update what ritual hotel paper renew exhibit";

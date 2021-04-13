@@ -1,1 +1,1 @@
-var mnemonic = "critic benefit tent author until cotton cabin machine endless weather veteran top";
+var mnemonic = "primary flash diary air other voice brick run subject host siege olympic";

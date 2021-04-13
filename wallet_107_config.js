@@ -1,1 +1,1 @@
-var mnemonic = "buffalo claim play layer tobacco muscle cinnamon clean scrub hen depart caution";
+var mnemonic = "amazing fashion execute vital same confirm lemon evil blast enjoy space rail";

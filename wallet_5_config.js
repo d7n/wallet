@@ -1,1 +1,1 @@
-var mnemonic = "mimic eight method village follow only monster disagree organ tumble right text";
+var mnemonic = "walk miracle entire traffic pumpkin usage quarter crawl coyote clog valve refuse";

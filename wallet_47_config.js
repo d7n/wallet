@@ -1,1 +1,1 @@
-var mnemonic = "mutual giant dice pull lift curve truly tribe symptom neither walk visual";
+var mnemonic = "charge category snack fun wealth cricket project army blouse kiss palm luxury";

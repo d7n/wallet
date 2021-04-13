@@ -1,1 +1,1 @@
-var mnemonic = "vapor expose unfair intact phone pig flame volume edge finish present drive";
+var mnemonic = "refuse elephant search detect analyst injury increase sauce race payment mule position";

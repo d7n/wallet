@@ -1,1 +1,1 @@
-var mnemonic = "erase cruise basket roof network dog document sibling wasp vintage obtain topic";
+var mnemonic = "cloud alley napkin rib rack mad sadness wrestle armed rule potato tomorrow";

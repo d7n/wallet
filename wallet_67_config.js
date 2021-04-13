@@ -1,1 +1,1 @@
-var mnemonic = "pact bring fresh opera minimum total glimpse history orchard because nation soap";
+var mnemonic = "inside small judge pulse ecology cactus layer poet deputy quantum pink book";

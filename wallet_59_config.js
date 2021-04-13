@@ -1,1 +1,1 @@
-var mnemonic = "fat indicate warrior hold prefer bitter shift knife when bacon spirit announce";
+var mnemonic = "album guide video spray cousin state cat limit quote donkey order scrub";

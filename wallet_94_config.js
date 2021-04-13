@@ -1,1 +1,1 @@
-var mnemonic = "casino piece wheel riot pause other supply mystery galaxy stove jelly country";
+var mnemonic = "multiply solution can move whale wise grape library verify move pulse army";

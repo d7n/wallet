@@ -1,1 +1,1 @@
-var mnemonic = "glimpse lesson business flash color stamp oppose angry document grunt voice remain";
+var mnemonic = "very sustain manage sudden mention affair chalk claw can leave join man";

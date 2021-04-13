@@ -1,1 +1,1 @@
-var mnemonic = "faith response head car vapor remain express banner slab school noodle victory";
+var mnemonic = "scorpion banana wide rebel prevent soldier era various volcano tilt still labor";

@@ -1,1 +1,1 @@
-var mnemonic = "vague park charge hard dentist actual hockey legal rose sense throw field";
+var mnemonic = "account hat lawn solar topple cousin cry orphan spawn helmet wash come";

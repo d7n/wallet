@@ -1,1 +1,1 @@
-var mnemonic = "stereo flip harbor oven chef claim anchor victory sponsor web they print";
+var mnemonic = "illegal library mountain degree fat twin dawn shell sustain genre submit stove";

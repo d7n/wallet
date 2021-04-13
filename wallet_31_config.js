@@ -1,1 +1,1 @@
-var mnemonic = "trophy update media waste knife heavy nest reunion wonder wire skull decline";
+var mnemonic = "waste february desert strong pear second spray hood build banana grunt spy";

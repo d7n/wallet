@@ -1,1 +1,1 @@
-var mnemonic = "chuckle side ill loyal payment draw captain rigid domain embody moon bright";
+var mnemonic = "mirror cute ride silver call sting soup crystal patch disagree grass check";

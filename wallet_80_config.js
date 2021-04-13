@@ -1,1 +1,1 @@
-var mnemonic = "result sleep horn adapt estate typical tent marriage genius whip laugh wine";
+var mnemonic = "occur tenant dismiss mother rotate double myth business ready canvas neck reopen";

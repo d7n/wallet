@@ -1,1 +1,1 @@
-var mnemonic = "hire ritual forward axis labor spend trouble vital wrap museum stamp carry";
+var mnemonic = "online spring fish analyst drive thing list panel gossip tent act sock";

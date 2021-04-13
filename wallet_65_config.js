@@ -1,1 +1,1 @@
-var mnemonic = "mixed snow brush hungry tomato define impact legend script save depend organ";
+var mnemonic = "reopen reopen normal rate genuine track rare slight sniff three eager soup";

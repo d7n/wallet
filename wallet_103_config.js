@@ -1,1 +1,1 @@
-var mnemonic = "fox height usage fiber oak mail body space slide switch casino attend";
+var mnemonic = "merry road child pause burden diary subway hole width arrange soul abuse";

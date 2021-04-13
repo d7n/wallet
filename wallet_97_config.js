@@ -1,1 +1,1 @@
-var mnemonic = "cloth toy easily treat below shove enroll debate frog brave outside unit";
+var mnemonic = "purse witness chief deer unveil boring guilt sand flag wing gate kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "floor guess leg night twelve unhappy promote beauty just gown grace since";
+var mnemonic = "robot update tag tail art visa multiply punch jealous judge tourist horse";

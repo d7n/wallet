@@ -1,1 +1,1 @@
-var mnemonic = "device phone paper rough vote forward jar album like unique casual still";
+var mnemonic = "give mother hover west peace minimum present diamond mobile earn record embark";

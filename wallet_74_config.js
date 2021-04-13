@@ -1,1 +1,1 @@
-var mnemonic = "muscle jewel skirt thing limb violin clay safe sand recycle enough fluid";
+var mnemonic = "render lawsuit suit bamboo dish subway page business announce fog quality excite";

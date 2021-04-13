@@ -1,1 +1,1 @@
-var mnemonic = "stand illness park method web cattle draw lava develop pluck vault undo";
+var mnemonic = "describe evolve sing cave juice barrel acoustic curious dream lazy govern drama";

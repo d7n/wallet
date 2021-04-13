@@ -1,1 +1,1 @@
-var mnemonic = "decorate shed hurt digital weapon hole obscure already glad area orange accident";
+var mnemonic = "usage worry actor romance energy just income miss parent crisp kitten bag";

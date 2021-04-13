@@ -1,1 +1,1 @@
-var mnemonic = "save blouse laundry vote monitor seek response romance impulse clerk glow paper";
+var mnemonic = "brisk run bomb wet vehicle smart rocket setup core mean two oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "amused kingdom clap buffalo gauge romance muffin canyon elephant beach unfold nerve";
+var mnemonic = "image joy jealous false decorate innocent evil flee illness donkey agree again";

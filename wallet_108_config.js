@@ -1,1 +1,1 @@
-var mnemonic = "slot insect ghost scare butter gloom polar guard kite once away prison";
+var mnemonic = "risk upon toss dutch insect olive network fresh kick steel across differ";

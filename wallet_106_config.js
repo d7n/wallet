@@ -1,1 +1,1 @@
-var mnemonic = "diet imitate property method alien warrior machine stomach upon room bamboo aisle";
+var mnemonic = "hair february grief thought meat cage burden coin clean board path acid";

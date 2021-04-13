@@ -1,1 +1,1 @@
-var mnemonic = "zoo sail tray ranch deny exclude cabbage choose height spy orange social";
+var mnemonic = "couple isolate rib melt creek message tennis safe word rapid family impose";

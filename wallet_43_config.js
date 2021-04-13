@@ -1,1 +1,1 @@
-var mnemonic = "rather chronic usage quiz ticket train fence guitar girl rotate that humble";
+var mnemonic = "large since atom morning crouch master toe setup cupboard cruel velvet lava";

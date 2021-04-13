@@ -1,1 +1,1 @@
-var mnemonic = "post observe icon month bring digital crash drink shed dynamic same moral";
+var mnemonic = "amount portion unaware cereal position joy later stamp craft dutch judge label";

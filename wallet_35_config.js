@@ -1,1 +1,1 @@
-var mnemonic = "cliff cash captain stand license join produce cup accuse traffic episode snap";
+var mnemonic = "pass tuna phone wealth logic traffic express news process utility silk episode";

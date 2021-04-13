@@ -1,1 +1,1 @@
-var mnemonic = "general loud clump dignity way detect hidden jar tissue hub theme easy";
+var mnemonic = "amazing egg various wish diet stay soup usage gospel grief endorse honey";

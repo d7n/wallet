@@ -1,1 +1,1 @@
-var mnemonic = "name grape sister arctic rival blossom luxury voice neglect match chat stand";
+var mnemonic = "sing visa thank type rare know gate neglect drink have napkin poet";

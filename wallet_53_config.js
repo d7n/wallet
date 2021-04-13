@@ -1,1 +1,1 @@
-var mnemonic = "paddle oil core sponsor science throw two enact evoke rabbit fetch oppose";
+var mnemonic = "kiss face wisdom story already metal embrace music favorite rack juice divide";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate science direct pretty frog general quarter captain snack device donor square";
+var mnemonic = "eternal similar already dilemma bread save grid twice involve nose measure remember";

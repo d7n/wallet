@@ -1,1 +1,1 @@
-var mnemonic = "crack reward laptop february area walnut green deny saddle depth opera soon";
+var mnemonic = "wagon awkward mix still inner various secret stone shrug juice act tail";

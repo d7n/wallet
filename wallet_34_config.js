@@ -1,1 +1,1 @@
-var mnemonic = "deputy coin argue bundle allow scare denial live witness future brush smoke";
+var mnemonic = "doctor reason explain boring discover cupboard sibling buyer prize demand arch draw";

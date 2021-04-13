@@ -1,1 +1,1 @@
-var mnemonic = "juice piece kidney eagle fade travel engage crouch fan senior sheriff spare";
+var mnemonic = "priority leaf seminar film labor actress unit illegal disagree lend blush recycle";

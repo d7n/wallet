@@ -1,1 +1,1 @@
-var mnemonic = "devote disorder angry burger leave real buyer follow nothing foot visit now";
+var mnemonic = "style tool like stairs network boat where action bracket moral sausage hero";

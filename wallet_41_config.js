@@ -1,1 +1,1 @@
-var mnemonic = "quick ramp autumn marriage room similar cruise nation cloud finish level critic";
+var mnemonic = "mixed message manage aware now spend predict trip virus abstract asthma maid";

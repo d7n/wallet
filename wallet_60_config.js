@@ -1,1 +1,1 @@
-var mnemonic = "aunt actress badge diet skull inmate tomorrow omit follow crucial eye pretty";
+var mnemonic = "final rely snake ring cherry bamboo solar muffin refuse expand gather essence";

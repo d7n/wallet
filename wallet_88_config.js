@@ -1,1 +1,1 @@
-var mnemonic = "bless garlic turkey drop river duty fame swing security vacant awful rapid";
+var mnemonic = "puppy this park arrange expect empty flight sniff frequent total silk tilt";

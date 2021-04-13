@@ -1,1 +1,1 @@
-var mnemonic = "hip dream faith claim cancel aim uphold install grocery work crystal truck";
+var mnemonic = "power cheese obtain chest impose neither pig lounge wire desk coral oblige";

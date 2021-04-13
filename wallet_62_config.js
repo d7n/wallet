@@ -1,1 +1,1 @@
-var mnemonic = "hybrid slow cloth run pact either bind winter able record edit inhale";
+var mnemonic = "shoot secret tube over tube damp zebra dash vivid term square visa";

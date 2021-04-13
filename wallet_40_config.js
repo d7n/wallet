@@ -1,1 +1,1 @@
-var mnemonic = "rotate employ smile trend artefact issue room habit easily humble erosion digital";
+var mnemonic = "inner cannon fatal useful eight lend indoor sort situate radio online write";

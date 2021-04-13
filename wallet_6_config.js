@@ -1,1 +1,1 @@
-var mnemonic = "charge fatal boy tide ozone sketch expect miss leopard circle actress predict";
+var mnemonic = "stadium common dune extend slide charge brave grit essay casino expire two";

@@ -1,1 +1,1 @@
-var mnemonic = "execute ladder cabin ladder forest someone release birth barely fan gun toward";
+var mnemonic = "enact suffer street pole time pretty post junk hole still ginger spray";

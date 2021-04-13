@@ -1,1 +1,1 @@
-var mnemonic = "enough veteran jacket message unfold weather divorce paper mention shoot hat brother";
+var mnemonic = "hold toilet keen nephew police essence bright idle hybrid true wrestle cook";

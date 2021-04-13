@@ -1,1 +1,1 @@
-var mnemonic = "rural sketch mass garlic dolphin toward snap palm lucky rack cook gentle";
+var mnemonic = "dash wash churn pistol resist alpha ask garden easily club rib path";

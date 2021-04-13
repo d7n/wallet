@@ -1,1 +1,1 @@
-var mnemonic = "photo manage stuff hard coffee episode category matrix off exchange fix kiwi";
+var mnemonic = "slush punch eagle move wire gas viable clerk tornado bargain found long";

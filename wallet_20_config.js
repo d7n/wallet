@@ -1,1 +1,1 @@
-var mnemonic = "common anxiety trophy thought lemon twin sing sunny adult dice force wave";
+var mnemonic = "pioneer blade worth cancel stairs amount cigar morning hope body better liberty";

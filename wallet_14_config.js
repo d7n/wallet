@@ -1,1 +1,1 @@
-var mnemonic = "daring nose cushion wife mechanic giant upgrade outside mansion cheese you index";
+var mnemonic = "retire mutual sleep antique dry renew brisk dog oven inner tuna holiday";

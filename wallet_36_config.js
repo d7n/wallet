@@ -1,1 +1,1 @@
-var mnemonic = "enrich ostrich early elephant acoustic blood answer topic ostrich neither waste width";
+var mnemonic = "call symbol admit clutch wheat exchange sugar cushion reopen monkey birth theme";
