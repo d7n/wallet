@@ -1,1 +1,1 @@
-var mnemonic = "extra fantasy resist pigeon impact dizzy flat garlic panther brisk umbrella quiz";
+var mnemonic = "tortoise pink rebuild bronze knock claim hobby own cover gaze begin dinosaur";

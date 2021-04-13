@@ -1,1 +1,1 @@
-var mnemonic = "indoor oak raise project tenant lion network connect flat churn grain employ";
+var mnemonic = "cluster pumpkin combine attack spray group limb point occur chat letter dwarf";

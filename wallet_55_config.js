@@ -1,1 +1,1 @@
-var mnemonic = "minute fame rebel poem east talk remember magic champion dwarf churn protect";
+var mnemonic = "spirit feature club arrive wise monkey slab plastic vehicle solar undo cash";

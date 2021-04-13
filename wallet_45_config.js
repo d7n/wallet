@@ -1,1 +1,1 @@
-var mnemonic = "tribe rhythm twice ankle champion heavy nice snap clean crucial fiction style";
+var mnemonic = "select exit chicken post inspire scrub glide dish bright thought grant episode";

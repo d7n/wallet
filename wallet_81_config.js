@@ -1,1 +1,1 @@
-var mnemonic = "stove unaware recipe question ready offer under soft joke trouble bracket glide";
+var mnemonic = "pigeon fiscal climb disagree real bitter fish track cake moment glance outside";

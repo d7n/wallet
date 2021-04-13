@@ -1,1 +1,1 @@
-var mnemonic = "gaze seed solar fat extend liar use anxiety laugh hole arm amount";
+var mnemonic = "inspire imitate ability lady square spin laundry envelope heavy library issue elite";

@@ -1,1 +1,1 @@
-var mnemonic = "across grunt snack dress answer cool warfare primary evil test measure flee";
+var mnemonic = "category ahead wet buddy drink few grow defy vague rely when talk";

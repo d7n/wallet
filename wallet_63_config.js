@@ -1,1 +1,1 @@
-var mnemonic = "novel second solve cave series shadow east wife ask flee warrior replace";
+var mnemonic = "history rhythm child erase memory tenant cotton please dash approve satoshi praise";

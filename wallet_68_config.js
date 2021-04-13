@@ -1,1 +1,1 @@
-var mnemonic = "system shield gauge cover violin tomato release student ten earth order can";
+var mnemonic = "hair pioneer desert quick fiction acquire excess amateur ahead rebuild attitude siren";

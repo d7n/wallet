@@ -1,1 +1,1 @@
-var mnemonic = "path light dash neutral genius tonight save play noodle repair fall item";
+var mnemonic = "major scare giraffe local pluck mango mesh future broom ship radio always";

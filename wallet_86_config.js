@@ -1,1 +1,1 @@
-var mnemonic = "scale story guitar where walnut scare wire steel hover episode shift disagree";
+var mnemonic = "there undo question eight mechanic lemon safe demise lab ankle gadget oval";

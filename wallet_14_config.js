@@ -1,1 +1,1 @@
-var mnemonic = "middle easy wealth enable hour earth couch moral confirm nephew bachelor clerk";
+var mnemonic = "fall rabbit injury diary menu comfort toward midnight hurt advice alcohol music";

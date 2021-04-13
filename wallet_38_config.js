@@ -1,1 +1,1 @@
-var mnemonic = "helmet ramp grape spend three else render opera cost that smart radio";
+var mnemonic = "business cheap speed they then menu effort trash merry bonus vast aim";

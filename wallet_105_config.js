@@ -1,1 +1,1 @@
-var mnemonic = "there ginger drift diamond swear crisp royal amazing day august merry truth";
+var mnemonic = "raise wet order buddy off news october flock theory grace fine skull";

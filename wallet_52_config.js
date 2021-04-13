@@ -1,1 +1,1 @@
-var mnemonic = "beauty enjoy pencil pudding piece rubber nation drive sauce fiscal day side";
+var mnemonic = "lift call mail stove permit tenant tag uphold scale bar spell worth";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter usual service spike around father another chef carbon frame style series";
+var mnemonic = "solution eager champion gospel nominee camp render armed oyster never mansion bright";

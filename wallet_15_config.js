@@ -1,1 +1,1 @@
-var mnemonic = "cradle lumber shrug forget ranch truck indoor dream found present faculty burger";
+var mnemonic = "erode rely daughter beauty skin toss emotion hole project endless pink strike";

@@ -1,1 +1,1 @@
-var mnemonic = "degree plastic essay oval ancient screen pause analyst guard screen type satisfy";
+var mnemonic = "mind amount nuclear blur uncle transfer fresh pool length outdoor east parade";

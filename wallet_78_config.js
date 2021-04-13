@@ -1,1 +1,1 @@
-var mnemonic = "squeeze sphere lift year ordinary episode yellow note toss method defy ribbon";
+var mnemonic = "inflict clean rather sweet physical old omit tiny obtain lizard issue boil";

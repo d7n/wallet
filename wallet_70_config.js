@@ -1,1 +1,1 @@
-var mnemonic = "hint often that color slight coin misery ancient material glide miss fire";
+var mnemonic = "impact club slide bean lobster wreck ride turn subway tomorrow spray maple";

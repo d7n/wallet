@@ -1,1 +1,1 @@
-var mnemonic = "destroy seven olympic brave series ring clump broken insane video novel sound";
+var mnemonic = "pool avoid leg expand sketch museum junior possible later trial current violin";

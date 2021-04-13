@@ -1,1 +1,1 @@
-var mnemonic = "spot submit area salon spring option mom castle end proud kick old";
+var mnemonic = "indicate ugly melt large train bench feature marine buffalo suit ahead dutch";

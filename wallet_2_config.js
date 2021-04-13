@@ -1,1 +1,1 @@
-var mnemonic = "alley erode bright phone source monitor globe drop quit flat hurdle fence";
+var mnemonic = "tide coach affair rose cluster winner climb sudden page rely busy planet";

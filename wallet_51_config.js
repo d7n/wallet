@@ -1,1 +1,1 @@
-var mnemonic = "rotate term spend pause discover steel enroll acid opinion other rib conduct";
+var mnemonic = "fat card pitch hello wait arrow change globe creek burden quarter miss";

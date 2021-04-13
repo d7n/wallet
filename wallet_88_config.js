@@ -1,1 +1,1 @@
-var mnemonic = "satisfy solve chicken palm gather setup agent ribbon excuse strong salute envelope";
+var mnemonic = "monitor arena mutual trophy pill limb divorce school monster easily glory cabin";

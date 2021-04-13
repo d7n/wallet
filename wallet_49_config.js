@@ -1,1 +1,1 @@
-var mnemonic = "begin wasp town during lady hood enhance weekend client scrap fix short";
+var mnemonic = "joy shoe slot boss disorder clap cinnamon capital employ art marble segment";

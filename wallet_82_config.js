@@ -1,1 +1,1 @@
-var mnemonic = "expect detect minute snack hungry menu exhaust toward minimum food correct number";
+var mnemonic = "myself faculty hunt project aerobic arrange between good blossom pioneer label belt";

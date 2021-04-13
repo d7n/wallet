@@ -1,1 +1,1 @@
-var mnemonic = "alien dirt trade solution knee quantum dignity flee voice galaxy surprise mix";
+var mnemonic = "leopard order illness sure spring text tackle feed steel venue vast express";

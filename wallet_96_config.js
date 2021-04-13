@@ -1,1 +1,1 @@
-var mnemonic = "leg toilet zone flush move hair okay fitness lend daughter fatal version";
+var mnemonic = "tongue milk casual exact shrug congress science cause swear stumble rival mystery";

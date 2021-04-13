@@ -1,1 +1,1 @@
-var mnemonic = "kitten forget ginger happy amused lunch decline drive dynamic eternal morning gain";
+var mnemonic = "nose phrase tube salon dentist panic action unfold banana plug glad water";

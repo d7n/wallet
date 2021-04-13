@@ -1,1 +1,1 @@
-var mnemonic = "gift install dose prosper target essence name turn honey island setup safe";
+var mnemonic = "chase turtle bounce erosion fault arrest bulb thank job nuclear solution trust";

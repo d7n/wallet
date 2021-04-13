@@ -1,1 +1,1 @@
-var mnemonic = "polar secret lonely drum device behind south mouse tiger canvas bridge what";
+var mnemonic = "moon wire wrist hurry believe useless guitar arrange diary donkey soup number";

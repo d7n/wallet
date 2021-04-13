@@ -1,1 +1,1 @@
-var mnemonic = "sun actor document soccer inflict clock kiss cement era wet lend crater";
+var mnemonic = "behind birth record bright observe smart provide siege unfair ghost deer butter";

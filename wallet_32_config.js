@@ -1,1 +1,1 @@
-var mnemonic = "trick magnet metal cable lyrics announce smile immense aerobic lucky shoe father";
+var mnemonic = "bag lyrics reform outer critic modify expect nation unhappy print demand glare";

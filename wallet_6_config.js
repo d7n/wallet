@@ -1,1 +1,1 @@
-var mnemonic = "deposit vague flush bag embrace obey consider rude usage knife trend cute";
+var mnemonic = "second bean demand dial cross awkward any crazy exhaust give clean blanket";

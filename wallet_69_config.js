@@ -1,1 +1,1 @@
-var mnemonic = "urge fade limb insect cargo genuine shove correct cabbage define draft rose";
+var mnemonic = "kiwi amazing blood twist follow light rabbit capable liquid surge senior orient";

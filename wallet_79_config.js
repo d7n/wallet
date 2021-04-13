@@ -1,1 +1,1 @@
-var mnemonic = "envelope tired paper glad wash charge burst sorry lonely nerve hungry kind";
+var mnemonic = "apple flip two dance cancel autumn hood labor uniform female example budget";

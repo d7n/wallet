@@ -1,1 +1,1 @@
-var mnemonic = "blush slab oblige weapon hazard work plunge tuna inherit monster relax another";
+var mnemonic = "cabin venture close report update banner radio math field boring elegant steak";

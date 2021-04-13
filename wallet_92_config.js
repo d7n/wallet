@@ -1,1 +1,1 @@
-var mnemonic = "mechanic popular usual tired gossip warrior hedgehog marble bundle concert absurd actress";
+var mnemonic = "arrive oil atom goose yard into flame pill pledge shoot brass pigeon";

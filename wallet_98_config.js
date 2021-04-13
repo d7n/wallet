@@ -1,1 +1,1 @@
-var mnemonic = "jar proof guide ginger ahead enjoy coconut dash dry knock over boil";
+var mnemonic = "muffin bicycle drop execute dress gold drama copy stone fox wild depart";

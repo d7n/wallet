@@ -1,1 +1,1 @@
-var mnemonic = "mutual audit together theory winner smile runway exit decrease milk donor blush";
+var mnemonic = "brass december program mimic member nut panic escape shiver minor alley matter";

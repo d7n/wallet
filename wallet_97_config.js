@@ -1,1 +1,1 @@
-var mnemonic = "desk shove core young barrel skin need zone curve gospel jewel old";
+var mnemonic = "horse again visual inside shove angry useful venue away abandon prosper lyrics";

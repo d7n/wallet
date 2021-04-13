@@ -1,1 +1,1 @@
-var mnemonic = "air focus now scorpion onion music update point affair culture festival impose";
+var mnemonic = "museum borrow subway erase notice spirit north tape price fat maximum bomb";

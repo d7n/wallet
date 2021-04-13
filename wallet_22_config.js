@@ -1,1 +1,1 @@
-var mnemonic = "crowd loop distance candy brother witness pencil idle repeat project either zero";
+var mnemonic = "poverty portion tobacco alpha hedgehog three capital laptop profit fiction upgrade help";

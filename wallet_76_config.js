@@ -1,1 +1,1 @@
-var mnemonic = "belt voyage gaze crystal charge armed shine snake original ridge better nation";
+var mnemonic = "kitten kingdom sad menu diet scare spatial motion become voice put slice";

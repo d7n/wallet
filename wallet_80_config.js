@@ -1,1 +1,1 @@
-var mnemonic = "extra seed novel lawsuit banana useful hint jazz east price melt laugh";
+var mnemonic = "receive know frame author defy mean size spend hospital hundred snap rare";

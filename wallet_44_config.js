@@ -1,1 +1,1 @@
-var mnemonic = "tilt dream jar dune dawn robot flower settle baby anger birth wine";
+var mnemonic = "home word replace retire fiction travel treat session stereo differ match best";

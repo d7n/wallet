@@ -1,1 +1,1 @@
-var mnemonic = "guess common ignore sea sibling fiction useless bright buyer surround river long";
+var mnemonic = "mean laundry win clean hub seven quote dream hammer vote edit huge";

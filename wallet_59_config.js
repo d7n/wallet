@@ -1,1 +1,1 @@
-var mnemonic = "misery hello crouch method naive say brush siege shop act suspect bicycle";
+var mnemonic = "magnet drastic merge sweet drop jealous ranch ranch suffer delay gallery train";

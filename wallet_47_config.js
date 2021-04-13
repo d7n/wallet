@@ -1,1 +1,1 @@
-var mnemonic = "bless case hire spider bachelor display lecture mistake copy sauce question insane";
+var mnemonic = "vibrant fan under bag ugly possible parent steel damp company penalty dinosaur";

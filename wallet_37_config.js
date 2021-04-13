@@ -1,1 +1,1 @@
-var mnemonic = "tip soap cement dragon garbage oppose burger fortune leg veteran fringe wash";
+var mnemonic = "update ramp width ride engine mesh during course lonely slice stone trade";

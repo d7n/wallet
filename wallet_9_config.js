@@ -1,1 +1,1 @@
-var mnemonic = "purpose program trumpet year connect home salon vibrant item prefer maid doll";
+var mnemonic = "gown virtual green goat metal exhaust priority enforce shy chief stand bike";

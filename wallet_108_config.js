@@ -1,1 +1,1 @@
-var mnemonic = "brown picnic female reunion donate original all enjoy wise tuition poverty buffalo";
+var mnemonic = "pelican floor bundle thrive hockey crew depart sand sick approve side ostrich";

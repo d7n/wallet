@@ -1,1 +1,1 @@
-var mnemonic = "bicycle wine onion idea nature olympic barrel twenty hint winner teach flee";
+var mnemonic = "enough fine donkey cotton fringe alien cabbage aisle avocado degree exile remain";

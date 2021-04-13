@@ -1,1 +1,1 @@
-var mnemonic = "cricket hood globe vanish little train special sphere laugh flavor butter kite";
+var mnemonic = "artwork display off orphan pluck observe orphan tree fade umbrella noise cousin";

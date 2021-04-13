@@ -1,1 +1,1 @@
-var mnemonic = "put render injury library brand prison local amateur blossom similar father mesh";
+var mnemonic = "garment pen gap blood canal artwork umbrella brave child math foster today";

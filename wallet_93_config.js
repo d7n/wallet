@@ -1,1 +1,1 @@
-var mnemonic = "glad argue fame enhance noodle glow leisure zoo off unit prefer enforce";
+var mnemonic = "afford replace fury skull occur bubble choice business route olive shadow receive";

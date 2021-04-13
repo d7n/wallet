@@ -1,1 +1,1 @@
-var mnemonic = "token episode hat nerve today embody muscle icon attitude cement salt mom";
+var mnemonic = "virtual ladder priority artist dignity equal cheese option isolate bicycle cloud leg";

@@ -1,1 +1,1 @@
-var mnemonic = "december mimic oil maximum cram library net decrease better adult fan van";
+var mnemonic = "able sunset marriage ghost tribe refuse menu uphold guide egg isolate oblige";

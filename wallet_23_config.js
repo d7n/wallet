@@ -1,1 +1,1 @@
-var mnemonic = "fatal quote polar kiss creek burst seed receive witness faculty wedding announce";
+var mnemonic = "color pair marine nice flame person grief artwork disagree soft drive shoulder";

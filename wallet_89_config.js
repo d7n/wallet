@@ -1,1 +1,1 @@
-var mnemonic = "forest end buzz weapon matter tip pen alone decide deliver crowd nominee";
+var mnemonic = "mixed fantasy drill skirt other impact absurd rate must middle shrug powder";

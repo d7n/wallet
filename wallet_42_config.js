@@ -1,1 +1,1 @@
-var mnemonic = "scene sunny measure hundred cute champion swing maze add wire garden grocery";
+var mnemonic = "radar curve fence level art two essay genuine board option orphan bone";

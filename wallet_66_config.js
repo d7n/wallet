@@ -1,1 +1,1 @@
-var mnemonic = "blouse flame trial holiday very ordinary fall father since oil detail right";
+var mnemonic = "gas radar mail next grain enter nerve hope track december hold flat";

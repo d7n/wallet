@@ -1,1 +1,1 @@
-var mnemonic = "loop blue width zebra security design master surface foot message romance lecture";
+var mnemonic = "cross palace army army fashion manage report matter debate retire peasant enough";

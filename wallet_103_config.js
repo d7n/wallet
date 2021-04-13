@@ -1,1 +1,1 @@
-var mnemonic = "bone shadow two bottom dish method essence cabbage beyond bomb market yard";
+var mnemonic = "ethics income curve gaze way crucial insect soup fresh empty enter mask";

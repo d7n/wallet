@@ -1,1 +1,1 @@
-var mnemonic = "candy profit resource uphold dwarf kangaroo next easily combine maid proud exotic";
+var mnemonic = "cabin lonely broom verb flush humble clever worry barrel timber devote tattoo";

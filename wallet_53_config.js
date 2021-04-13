@@ -1,1 +1,1 @@
-var mnemonic = "ring staff gravity cave law replace measure treat regret moment woman scout";
+var mnemonic = "unveil atom hotel library bargain rebel assault review audit fly surge trend";

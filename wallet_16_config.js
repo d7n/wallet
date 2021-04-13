@@ -1,1 +1,1 @@
-var mnemonic = "topple climb sure game mind cannon fancy slim forget trigger remain record";
+var mnemonic = "quick eye crucial hawk action lunar cereal apple shine swift aim perfect";

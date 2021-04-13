@@ -1,1 +1,1 @@
-var mnemonic = "jar luxury parent twenty salon grunt poem stable bridge forum motor mad";
+var mnemonic = "volcano tail lounge sock question giggle assume spider return garden witness gather";

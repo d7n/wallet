@@ -1,1 +1,1 @@
-var mnemonic = "account help diamond giraffe marine siege first spice donor stick source pizza";
+var mnemonic = "fog wet pledge alert fly range quote stock gun common express become";

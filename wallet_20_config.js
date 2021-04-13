@@ -1,1 +1,1 @@
-var mnemonic = "pottery acoustic glue journey anchor taxi resemble fall budget journey visa fragile";
+var mnemonic = "parrot sauce cause pottery tell turtle flee fortune limit chat shaft zero";

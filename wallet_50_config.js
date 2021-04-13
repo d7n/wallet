@@ -1,1 +1,1 @@
-var mnemonic = "borrow symbol village light sentence once believe famous upper column agree october";
+var mnemonic = "panel torch claim provide flame hunt sun urge lucky enhance finish hen";

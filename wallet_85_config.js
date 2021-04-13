@@ -1,1 +1,1 @@
-var mnemonic = "upset tonight spray please piano rookie chat kite lazy coach hour race";
+var mnemonic = "marine entry shrug suggest solar mirror solar quick theme rail wisdom thank";

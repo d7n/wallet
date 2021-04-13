@@ -1,1 +1,1 @@
-var mnemonic = "album spatial attack infant calm until cinnamon because note buffalo session diagram";
+var mnemonic = "aim tribe move fancy boy swamp rose junk night step purse legend";

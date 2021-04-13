@@ -1,1 +1,1 @@
-var mnemonic = "card expose grain upon ozone sting any burst spoil error entire stamp";
+var mnemonic = "attract gossip sick lunch quantum type stomach canal erase jealous donate race";

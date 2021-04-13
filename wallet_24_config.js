@@ -1,1 +1,1 @@
-var mnemonic = "ecology before office blade code cause foam toss lizard uphold office reflect";
+var mnemonic = "fluid mango about lyrics doctor invite action opera become maximum word iron";

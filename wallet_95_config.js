@@ -1,1 +1,1 @@
-var mnemonic = "sight concert hire fat amused garbage found marine oblige trip enforce tornado";
+var mnemonic = "view aspect minute final assault pride reward scan sunny abandon turkey option";

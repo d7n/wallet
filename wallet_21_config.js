@@ -1,1 +1,1 @@
-var mnemonic = "control arena drift gas wolf frost camera father circle try soldier tone";
+var mnemonic = "ancient ridge have huge tissue damage fish beef siege enhance chunk sing";

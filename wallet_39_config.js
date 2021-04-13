@@ -1,1 +1,1 @@
-var mnemonic = "opinion tube admit phone custom glad grant blood salute boy roast cruel";
+var mnemonic = "inject annual mandate mechanic diary pelican problem flight spread hole mother head";

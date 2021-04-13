@@ -1,1 +1,1 @@
-var mnemonic = "hollow tattoo rigid jelly rotate acquire sock broom nation sing party muscle";
+var mnemonic = "pave matter bicycle deal trigger camera satisfy ahead emotion rug wedding rely";

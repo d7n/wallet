@@ -1,1 +1,1 @@
-var mnemonic = "jewel shaft around rail screen ticket trim fiction manual planet humble solar";
+var mnemonic = "inform hobby circle auto true innocent total later speak despair lounge photo";

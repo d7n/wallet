@@ -1,1 +1,1 @@
-var mnemonic = "season adapt rebuild trend live merit artefact garage useless security talk hint";
+var mnemonic = "other little aunt fuel alarm palm guilt under lady summer panic benefit";

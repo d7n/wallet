@@ -1,1 +1,1 @@
-var mnemonic = "gain beach unveil hand extend worth abstract fringe myself wrong arrest clarify";
+var mnemonic = "resource fancy list cave midnight subject eager music poverty sock item honey";

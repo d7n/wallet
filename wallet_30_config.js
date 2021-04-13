@@ -1,1 +1,1 @@
-var mnemonic = "soldier solution air simple abstract garbage faint scare heart fog lion coconut";
+var mnemonic = "remain proud potato adapt empower near betray pride ozone skirt danger glove";

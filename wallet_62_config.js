@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog leader anger palm minor garage maid moral neglect expire spatial author";
+var mnemonic = "enjoy south creek what burst coast culture yard beyond public choose crouch";

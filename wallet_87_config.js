@@ -1,1 +1,1 @@
-var mnemonic = "biology choice fame crowd because fit future view soft law device nasty";
+var mnemonic = "autumn elite silver provide powder rubber portion visual aim biology arena have";

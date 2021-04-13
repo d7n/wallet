@@ -1,1 +1,1 @@
-var mnemonic = "glide father odor virtual tube shed image draft shoot zoo favorite exclude";
+var mnemonic = "feel enact start until income dumb sing armor cry robust rose mail";

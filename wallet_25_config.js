@@ -1,1 +1,1 @@
-var mnemonic = "tiny antique mix lonely save panic then balance pumpkin dynamic poet hazard";
+var mnemonic = "left mystery praise list fantasy clay alert subway forest day obvious neutral";

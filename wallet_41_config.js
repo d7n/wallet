@@ -1,1 +1,1 @@
-var mnemonic = "awesome bind upgrade buffalo choose disagree ball wing dawn embark pear pilot";
+var mnemonic = "unit animal latin route script profit post episode advice early pencil struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit tenant river taste clown tank match steel enhance betray pull shiver";
+var mnemonic = "among elite path subject bus round long creek spider ocean hood mistake";

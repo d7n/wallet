@@ -1,1 +1,1 @@
-var mnemonic = "silent stove parent shadow hybrid control volcano million equip train rapid oak";
+var mnemonic = "square ostrich tackle drive accuse object choose script cash magnet curious dentist";
