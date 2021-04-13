@@ -1,1 +1,1 @@
-var mnemonic = "water best sauce private muscle upon trip hero poverty child impulse blood";
+var mnemonic = "sun owner will donate verb torch already captain top clay border muscle";

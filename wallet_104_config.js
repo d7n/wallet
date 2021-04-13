@@ -1,1 +1,1 @@
-var mnemonic = "strategy answer play analyst timber shed pipe attitude cement ill pause report";
+var mnemonic = "bronze side empty nose minute leave horn only mule pause drum frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "alien trouble west wife frozen right ugly napkin priority suspect steak lunch";
+var mnemonic = "melody winter wink flower can voice ramp menu merry tree play move";

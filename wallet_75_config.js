@@ -1,1 +1,1 @@
-var mnemonic = "gasp crime section fiction adjust joy grief device provide odor soft deny";
+var mnemonic = "spirit grape farm cement strong below describe naive liberty paddle chaos uphold";

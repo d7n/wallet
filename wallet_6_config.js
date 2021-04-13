@@ -1,1 +1,1 @@
-var mnemonic = "actor ghost fall tide cake vicious boil oil degree must pink valid";
+var mnemonic = "subway garment hurt puppy chimney coach express cage brief more fame tonight";

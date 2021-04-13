@@ -1,1 +1,1 @@
-var mnemonic = "cruise artist dwarf copper special interest embrace recipe motor rabbit salt lesson";
+var mnemonic = "royal peace gasp perfect inject all ecology alter bulk thumb moon senior";

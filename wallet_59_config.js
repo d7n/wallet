@@ -1,1 +1,1 @@
-var mnemonic = "nerve indoor future marine skill visit guilt light trick buyer average steak";
+var mnemonic = "cost waste claim nation blanket calm correct rookie correct giant weather clean";

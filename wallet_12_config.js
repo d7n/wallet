@@ -1,1 +1,1 @@
-var mnemonic = "yard travel floor jeans total crawl snap able opinion thing orphan fish";
+var mnemonic = "genuine resemble midnight tiger blush snack earn dog wear nuclear error timber";

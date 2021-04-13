@@ -1,1 +1,1 @@
-var mnemonic = "noodle sport imitate teach alcohol lawn trend glow priority team goddess alpha";
+var mnemonic = "lend guide cotton else garment slot two library jacket bird climb lift";

@@ -1,1 +1,1 @@
-var mnemonic = "click betray tell april festival cook grit absurd alter service public valid";
+var mnemonic = "tool regular buyer gasp kitten solar unfair sponsor arm speed trend obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope glove bubble key depth tonight tunnel exhibit bacon photo pair opinion";
+var mnemonic = "find tree coil melody sorry orange match health thank airport smoke omit";

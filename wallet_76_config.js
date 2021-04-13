@@ -1,1 +1,1 @@
-var mnemonic = "garage dove desert front ugly glory weekend cube season rally poverty relief";
+var mnemonic = "arrange want inform reform unable industry album liquid coconut armed pen manual";

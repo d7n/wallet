@@ -1,1 +1,1 @@
-var mnemonic = "dizzy useful oppose hood wood tongue wolf pulp input diesel certain tackle";
+var mnemonic = "scale tape mistake finger tip silver march trumpet tag trade edge album";

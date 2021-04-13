@@ -1,1 +1,1 @@
-var mnemonic = "stumble miss fun absent hat glance clerk lion salt coast fish laptop";
+var mnemonic = "expire dignity public pupil cloud receive that retire speak peasant cool dove";

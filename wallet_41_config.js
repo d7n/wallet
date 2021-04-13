@@ -1,1 +1,1 @@
-var mnemonic = "inherit logic entire jaguar solar ensure smile panic mammal industry merry boss";
+var mnemonic = "measure main invest maze gorilla tuna forget attitude dice sphere arrest hurt";

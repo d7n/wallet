@@ -1,1 +1,1 @@
-var mnemonic = "broken wrap fire boy hip combine ghost urge beach river online hover";
+var mnemonic = "luxury must chimney mirror intact grow wealth syrup suffer purse oven foam";

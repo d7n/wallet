@@ -1,1 +1,1 @@
-var mnemonic = "focus cube toy wave matter sausage rotate quit grow opinion spend timber";
+var mnemonic = "more climb erupt brass rapid anger decorate addict judge satoshi reveal silver";

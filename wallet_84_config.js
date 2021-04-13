@@ -1,1 +1,1 @@
-var mnemonic = "acoustic giant mammal siren twin blast success easily taste thought world burger";
+var mnemonic = "swarm donate song hazard level use major tongue cool vast animal dance";

@@ -1,1 +1,1 @@
-var mnemonic = "setup judge aunt corn credit brother resource explain concert casino doll before";
+var mnemonic = "tank token session crash craft bring idle settle monster engine flash fence";

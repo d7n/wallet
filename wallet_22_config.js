@@ -1,1 +1,1 @@
-var mnemonic = "legend gospel torch method volcano predict assume surround rough sound immune embark";
+var mnemonic = "arena thank resource begin tube tunnel repair rich fly april salute cash";

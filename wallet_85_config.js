@@ -1,1 +1,1 @@
-var mnemonic = "tiny someone lounge sign project network arrow hint ridge bottom cargo insect";
+var mnemonic = "seat bread license level boil push combine multiply kind assume sword capital";

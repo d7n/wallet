@@ -1,1 +1,1 @@
-var mnemonic = "castle popular finger rain disease genuine gloom recipe hub frequent inside rapid";
+var mnemonic = "salmon fashion step tonight hazard green half crack iron guide fly twelve";

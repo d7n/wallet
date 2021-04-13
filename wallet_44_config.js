@@ -1,1 +1,1 @@
-var mnemonic = "grape select call mistake carry cereal involve novel route essay glare medal";
+var mnemonic = "cruise text zebra seed scrap scene lens urge spoil insect remember try";

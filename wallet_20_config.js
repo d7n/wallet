@@ -1,1 +1,1 @@
-var mnemonic = "unusual survey toilet position baby oil siege fit left kitten gasp mechanic";
+var mnemonic = "phone expose mixed daring curtain joy board canoe spice drip sing unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle illegal soccer envelope hole century stool point rent ritual jeans wait";
+var mnemonic = "gloom opinion achieve slab abuse admit damp tumble wish short language remind";

@@ -1,1 +1,1 @@
-var mnemonic = "health satisfy return top pepper puppy decline sniff curve they uncle final";
+var mnemonic = "account curious game exile duty wrong swim inch length over boss fold";

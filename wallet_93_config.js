@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur absurd subway rifle offer soda mutual olympic half cup member seminar";
+var mnemonic = "grain tragic team trigger verb flat pause buzz love veteran time desert";

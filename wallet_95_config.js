@@ -1,1 +1,1 @@
-var mnemonic = "error slender attitude radar puzzle assault picnic meadow bullet blame hurry glue";
+var mnemonic = "arm bacon stove security unfair luggage shop flame vacant bamboo cliff also";

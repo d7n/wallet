@@ -1,1 +1,1 @@
-var mnemonic = "moon poet shock uncover still mom culture fresh royal icon love tackle";
+var mnemonic = "school cup senior behave token wolf deny slush tackle dinosaur sudden tribe";

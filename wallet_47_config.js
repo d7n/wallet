@@ -1,1 +1,1 @@
-var mnemonic = "select celery liberty search sure debate omit tree february group surprise caught";
+var mnemonic = "egg faint element transfer debate fetch various dinosaur favorite tiger access monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard north piano airport shell invest faith cradle nephew desert lounge sign";
+var mnemonic = "absent spawn toilet miss bag vote pill race glass syrup alarm zoo";

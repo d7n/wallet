@@ -1,1 +1,1 @@
-var mnemonic = "victory december approve property lounge minute pyramid husband toast clean upgrade guide";
+var mnemonic = "junior icon sheriff praise proof card laptop stadium riot body half category";

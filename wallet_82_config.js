@@ -1,1 +1,1 @@
-var mnemonic = "decorate vocal fox survey stick wedding knee allow wear inmate grape veteran";
+var mnemonic = "vocal approve fiscal double beach bomb olympic exclude chronic hidden toilet defy";

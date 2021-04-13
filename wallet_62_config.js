@@ -1,1 +1,1 @@
-var mnemonic = "strike model short exotic rule fatal nephew belt giggle tell bean gesture";
+var mnemonic = "syrup trumpet excuse upgrade ginger tortoise next churn pig parade song subject";

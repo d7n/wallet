@@ -1,1 +1,1 @@
-var mnemonic = "glass test dress accident horn sell swear divide napkin void crash never";
+var mnemonic = "planet laugh flat mass salute talent echo palm post series abuse swarm";

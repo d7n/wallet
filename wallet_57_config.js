@@ -1,1 +1,1 @@
-var mnemonic = "offer ensure thrive grid crisp industry record ensure buddy banner tortoise noise";
+var mnemonic = "oblige industry final output spoon clarify math prize angle reward banana twenty";

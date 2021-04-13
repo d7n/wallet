@@ -1,1 +1,1 @@
-var mnemonic = "session breeze moment mean hungry plunge market galaxy cup engine torch spot";
+var mnemonic = "cupboard cricket ranch noble craft rebel velvet glad warm alcohol mystery lift";

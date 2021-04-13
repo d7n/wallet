@@ -1,1 +1,1 @@
-var mnemonic = "breeze uniform galaxy sign robust type card charge loan dice child fatal";
+var mnemonic = "task shell coyote document knee sure fetch mistake symptom tent clock sleep";

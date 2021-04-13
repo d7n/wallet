@@ -1,1 +1,1 @@
-var mnemonic = "reunion federal embrace olive dinner window around stool note apple profit spoil";
+var mnemonic = "will egg meat risk address shop quick voyage sting year letter grain";

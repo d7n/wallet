@@ -1,1 +1,1 @@
-var mnemonic = "tape champion oyster melt release few olympic hint present curve confirm gospel";
+var mnemonic = "field illness only multiply evil borrow blur sauce vehicle sand host impulse";

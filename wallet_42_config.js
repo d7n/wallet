@@ -1,1 +1,1 @@
-var mnemonic = "example minute risk job resist child day grow quote picnic old walnut";
+var mnemonic = "best blouse torch clown clip pause chimney decide bring wet barely mystery";

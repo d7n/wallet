@@ -1,1 +1,1 @@
-var mnemonic = "connect mother prison climb weekend butter myself rib mandate end unknown hungry";
+var mnemonic = "razor verify vanish salmon clown surge valid early gravity oven they control";

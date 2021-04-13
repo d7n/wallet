@@ -1,1 +1,1 @@
-var mnemonic = "economy behind tank shy degree door base stereo laundry poverty bulk auto";
+var mnemonic = "veteran unlock eight captain junk crisp clean universe manage cupboard gym food";

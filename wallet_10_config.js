@@ -1,1 +1,1 @@
-var mnemonic = "day motion afford phrase cloth velvet battle chat spoon betray cross animal";
+var mnemonic = "invest target adjust twice input bicycle key regular scale harbor income super";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet repeat token virus finger forward spice power beef east tired random";
+var mnemonic = "govern one decrease relax judge stable pave faith rebel board stumble auto";

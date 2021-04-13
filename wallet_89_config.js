@@ -1,1 +1,1 @@
-var mnemonic = "bachelor gospel document uphold inside aisle lonely asthma accident uphold six explain";
+var mnemonic = "example open fantasy drill section domain school charge video judge promote trade";

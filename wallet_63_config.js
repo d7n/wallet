@@ -1,1 +1,1 @@
-var mnemonic = "regular media radio brisk struggle guide hedgehog state such lumber clutch planet";
+var mnemonic = "violin village peasant exercise holiday describe ancient retire antique use retreat dignity";

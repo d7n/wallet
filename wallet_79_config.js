@@ -1,1 +1,1 @@
-var mnemonic = "glory club clip execute fish sail animal bar oval romance metal pulp";
+var mnemonic = "inject kit index daughter across drastic west stick rely protect century slam";

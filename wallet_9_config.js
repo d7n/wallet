@@ -1,1 +1,1 @@
-var mnemonic = "shy evidence frown grain neck police open work safe success clarify inject";
+var mnemonic = "recipe autumn ask drop tunnel original design bachelor record bicycle strong gold";

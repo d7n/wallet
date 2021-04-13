@@ -1,1 +1,1 @@
-var mnemonic = "occur skate nose gasp piece horror south convince hint stairs melt price";
+var mnemonic = "blame twin lobster staff garment deposit sadness space remove style daring west";

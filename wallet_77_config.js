@@ -1,1 +1,1 @@
-var mnemonic = "season boring bike goddess fault bachelor arrest inform clay mercy reflect party";
+var mnemonic = "radio poem fee pave modify parent reduce episode need castle grass people";

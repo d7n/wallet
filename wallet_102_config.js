@@ -1,1 +1,1 @@
-var mnemonic = "silk come strike suit weekend frog hamster negative island regret wait shoe";
+var mnemonic = "dial protect near transfer silent option pigeon approve what world essence crop";

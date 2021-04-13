@@ -1,1 +1,1 @@
-var mnemonic = "dinner polar change stumble text wish lock habit release will mail slim";
+var mnemonic = "world anxiety lottery spike help rib box amused kiwi wet swim hip";

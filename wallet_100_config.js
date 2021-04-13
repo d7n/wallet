@@ -1,1 +1,1 @@
-var mnemonic = "nice just episode legal goat usage engage water wool garlic blanket find";
+var mnemonic = "mango awkward become occur fragile any laundry describe tortoise slender rapid october";

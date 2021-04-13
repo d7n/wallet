@@ -1,1 +1,1 @@
-var mnemonic = "width elevator acid hair general change tool word salmon away tell brain";
+var mnemonic = "parent about enhance merge second frog bulb jelly despair cruise athlete dress";

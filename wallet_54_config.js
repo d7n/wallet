@@ -1,1 +1,1 @@
-var mnemonic = "coyote brisk nominee divert cross stairs system stereo lounge crouch cricket glad";
+var mnemonic = "online example tone isolate broccoli divide script hair avocado pepper slim clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "general issue modify poverty sudden leg history rich excuse addict stone knock";
+var mnemonic = "melt exercise action margin seat noodle hedgehog reject zoo appear exchange arch";

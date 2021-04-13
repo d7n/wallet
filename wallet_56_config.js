@@ -1,1 +1,1 @@
-var mnemonic = "soldier road slush bachelor patrol sniff rival tackle space orchard hobby maximum";
+var mnemonic = "enter fit square about leopard desk inherit health congress dish believe sorry";

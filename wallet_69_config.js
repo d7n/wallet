@@ -1,1 +1,1 @@
-var mnemonic = "business dial hip range casual prize rapid alien wrist slam trap room";
+var mnemonic = "limb filter crystal struggle practice cloth expand cross account spice boat shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "movie until define beauty opera short gorilla loop style sister theory address";
+var mnemonic = "near crawl reopen cricket bright stumble alley twin similar dance raise machine";

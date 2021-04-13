@@ -1,1 +1,1 @@
-var mnemonic = "cousin drama license install hat vacant salt endorse connect bean siege dial";
+var mnemonic = "ecology egg topic trigger desert squirrel audit sure finger elite debate slogan";

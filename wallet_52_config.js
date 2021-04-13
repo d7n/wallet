@@ -1,1 +1,1 @@
-var mnemonic = "clap input twenty eight prize tuition great future weapon slush stand panel";
+var mnemonic = "exist transfer nurse holiday frown trick inquiry mean stuff analyst ripple rhythm";

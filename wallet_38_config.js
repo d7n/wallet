@@ -1,1 +1,1 @@
-var mnemonic = "scene buzz reform weapon dumb napkin orphan vacant chat tomorrow spread spoil";
+var mnemonic = "toward close unfair tribe occur cabin mushroom banner feed tortoise rocket matrix";

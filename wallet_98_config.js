@@ -1,1 +1,1 @@
-var mnemonic = "food stone glory crumble mix scale race dolphin gun annual swim feel";
+var mnemonic = "receive pony tennis sword animal slight pigeon laptop ocean fall scene better";

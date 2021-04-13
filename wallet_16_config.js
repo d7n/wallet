@@ -1,1 +1,1 @@
-var mnemonic = "cause slow father mutual glove pioneer fence control idea shove oblige amount";
+var mnemonic = "perfect shine warrior car enter trust quote prevent story vibrant protect water";

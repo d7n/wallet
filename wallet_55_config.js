@@ -1,1 +1,1 @@
-var mnemonic = "dad net tissue sauce ill security boring ancient silk nut tackle toddler";
+var mnemonic = "final increase portion rare vault stuff tenant execute outer meadow finish protect";

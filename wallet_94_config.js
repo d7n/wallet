@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo razor orient license mixture eternal explain artwork media dutch invite split";
+var mnemonic = "vast agree theory yard write general simple cereal speak piece gas day";

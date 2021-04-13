@@ -1,1 +1,1 @@
-var mnemonic = "powder kangaroo kite such cart vibrant tunnel clown snap trumpet neck bean";
+var mnemonic = "dinner shiver enforce tube file crack hotel skull endorse pelican toe usage";

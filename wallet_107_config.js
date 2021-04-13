@@ -1,1 +1,1 @@
-var mnemonic = "that cost spatial rally art rug kick faint decline reject deputy panic";
+var mnemonic = "runway caution accident peasant cotton guess vast high magic reason exit blanket";

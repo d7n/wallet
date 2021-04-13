@@ -1,1 +1,1 @@
-var mnemonic = "various file enhance hip pause squeeze disagree asthma music abuse begin spell";
+var mnemonic = "mansion category road zero super liquid just outer organ heart rude again";

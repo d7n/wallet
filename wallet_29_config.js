@@ -1,1 +1,1 @@
-var mnemonic = "foster noble where state income carry alley ignore gain stage project robust";
+var mnemonic = "debate stairs neutral frog orbit follow amused manual orange victory above wash";

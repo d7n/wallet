@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin ugly desk regular toward general disagree hire pear atom gospel action";
+var mnemonic = "suit pudding know brown embody few purity crumble hard latin sphere captain";

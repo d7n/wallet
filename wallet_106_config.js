@@ -1,1 +1,1 @@
-var mnemonic = "negative clever cushion settle wild valley brother confirm range average village side";
+var mnemonic = "hurt brass atom grit siren stick sheriff hood bubble trial ring garbage";

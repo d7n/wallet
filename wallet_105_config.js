@@ -1,1 +1,1 @@
-var mnemonic = "smooth scorpion occur cream mirror stool keep tattoo announce feature curtain spread";
+var mnemonic = "step side knee tackle diary doll silk obey axis crawl message pill";

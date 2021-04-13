@@ -1,1 +1,1 @@
-var mnemonic = "cash already project comic menu edit staff fetch fold twist neglect harsh";
+var mnemonic = "wish alpha trumpet buyer duty word drive remember useful jar autumn spider";

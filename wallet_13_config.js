@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow web iron tomato opinion teach kangaroo obscure crouch palace ability favorite";
+var mnemonic = "boat wage purpose umbrella drink dance job right jewel eagle quiz test";

@@ -1,1 +1,1 @@
-var mnemonic = "scare lonely potato indicate divorce virus amazing cat random face farm crush";
+var mnemonic = "flame income garden issue peace misery uphold sport day state wall proof";

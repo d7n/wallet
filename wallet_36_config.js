@@ -1,1 +1,1 @@
-var mnemonic = "royal equip wrong isolate never spell secret flip alley cube anger sponsor";
+var mnemonic = "news monitor park labor spot silly royal valley blast sunset credit egg";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty high paper smoke merge broom skate left trophy oblige swarm parent";
+var mnemonic = "forum motor bridge swing leopard opinion task shift episode entry hidden spend";

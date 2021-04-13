@@ -1,1 +1,1 @@
-var mnemonic = "flock evoke energy soccer dirt diagram arrow attitude capable term assist antenna";
+var mnemonic = "hidden find market yard stuff saddle ensure other bright sick before parade";

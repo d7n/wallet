@@ -1,1 +1,1 @@
-var mnemonic = "super average truly hard walnut smooth trend burst boost now credit give";
+var mnemonic = "merry nerve twice seek immune tobacco absent ridge into summer black wisdom";

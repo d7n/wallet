@@ -1,1 +1,1 @@
-var mnemonic = "fall girl electric solution praise right palace shift page advice remind proud";
+var mnemonic = "spider burden vacuum fetch wonder mix cereal recipe sunset spawn chef festival";

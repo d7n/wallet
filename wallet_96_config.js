@@ -1,1 +1,1 @@
-var mnemonic = "firm august naive bone fluid tree ancient mom then horror major swap";
+var mnemonic = "obey reunion add predict fresh floor lab ceiling unit veteran circle news";

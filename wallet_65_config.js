@@ -1,1 +1,1 @@
-var mnemonic = "genre collect brisk december tuna gather praise dinner switch juice employ party";
+var mnemonic = "trim balance slice humble soul canvas cotton now cup across alert knee";

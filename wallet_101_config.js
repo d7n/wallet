@@ -1,1 +1,1 @@
-var mnemonic = "liar trip loan weasel dinosaur term lunch beach weasel original wagon artist";
+var mnemonic = "rack torch mirror nerve pink pause process poet hundred modify pencil spawn";

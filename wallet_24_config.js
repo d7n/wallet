@@ -1,1 +1,1 @@
-var mnemonic = "decline series juice cruel unable paper spider wrestle mushroom plastic sudden history";
+var mnemonic = "casual cool stick midnight safe erupt sort pride piece weapon execute chest";

@@ -1,1 +1,1 @@
-var mnemonic = "myself fame cheese walnut will powder ask nephew outdoor sadness emotion ugly";
+var mnemonic = "shy lion mimic monkey street castle kid already retreat cargo start route";

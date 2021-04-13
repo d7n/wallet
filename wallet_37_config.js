@@ -1,1 +1,1 @@
-var mnemonic = "danger only unlock verify approve crystal brother hard curve blade pulp fancy";
+var mnemonic = "laptop reduce knife chimney long impact ranch chuckle advice want warrior silent";

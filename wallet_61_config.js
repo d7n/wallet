@@ -1,1 +1,1 @@
-var mnemonic = "lemon oil hill tuition keep physical day rich wagon eagle wing remind";
+var mnemonic = "void shoot task draft spell what biology maximum zone cradle ensure body";

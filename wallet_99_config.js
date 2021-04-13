@@ -1,1 +1,1 @@
-var mnemonic = "glove pottery crisp surprise pyramid earth page outdoor mushroom vast staff danger";
+var mnemonic = "fitness budget route enhance master gospel business boy aim pet chef clock";
