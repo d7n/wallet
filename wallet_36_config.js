@@ -1,1 +1,1 @@
-var mnemonic = "chief shove mixed welcome steak super what combine issue race plastic slender";
+var mnemonic = "ensure manual boost armed regular excess magic prize sister rose tunnel wait";

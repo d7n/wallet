@@ -1,1 +1,1 @@
-var mnemonic = "budget salt music faith obscure gather token craft vast quarter memory sort";
+var mnemonic = "coconut man funny captain kiwi surprise machine column expire ticket ignore peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "mind kind across cube tomato region injury spend income engage doctor pulp";
+var mnemonic = "lady lamp gravity zero model unknown eagle brown salon harsh bright hero";

@@ -1,1 +1,1 @@
-var mnemonic = "goat same mirror switch can hockey extra amateur fame employ frozen ginger";
+var mnemonic = "provide topic coffee question inherit that install member net device clip unaware";

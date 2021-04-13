@@ -1,1 +1,1 @@
-var mnemonic = "smart labor engage aunt ranch custom fan hungry rookie insect maple hungry";
+var mnemonic = "man owner purse slab stomach gossip prepare square toast naive april drum";

@@ -1,1 +1,1 @@
-var mnemonic = "armed garbage quarter cricket invite syrup spirit meat life august loan process";
+var mnemonic = "close autumn donkey run zebra punch belt bunker jelly crime dance mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "resist surround text accident fly close gloom hover patch potato bronze random";
+var mnemonic = "fog crack crouch kiss juice bike club inform tool boil sauce atom";

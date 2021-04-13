@@ -1,1 +1,1 @@
-var mnemonic = "eager stereo quiz flat upper pave stick ignore laugh carry later kid";
+var mnemonic = "door inflict slim gather title foam iron exhaust raven author patch voice";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer hard brown diary adapt crumble coffee bird vital relax prevent control";
+var mnemonic = "saddle guess reason stable possible myself siege drama quarter choose high bless";

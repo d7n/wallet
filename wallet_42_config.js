@@ -1,1 +1,1 @@
-var mnemonic = "cup bird stairs bag catalog ginger movie ask gentle praise between screen";
+var mnemonic = "peanut harvest unfair success team evoke region fresh island actual eagle energy";

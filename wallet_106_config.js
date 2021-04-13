@@ -1,1 +1,1 @@
-var mnemonic = "luxury response route fix stereo assault grass judge cave ability better foam";
+var mnemonic = "column struggle shock waste ability van journey casual all amazing snap enable";

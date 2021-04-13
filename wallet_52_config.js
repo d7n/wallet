@@ -1,1 +1,1 @@
-var mnemonic = "keep couch fury stay clutch travel depth flat tape tag raise old";
+var mnemonic = "slam friend floor stuff nephew shallow honey nephew weird survey render sorry";

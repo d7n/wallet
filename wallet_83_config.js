@@ -1,1 +1,1 @@
-var mnemonic = "install stem salute cargo very sugar month main double network mechanic choice";
+var mnemonic = "busy output quiz remember flame salmon object elegant lottery wise install lunch";

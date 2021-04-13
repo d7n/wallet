@@ -1,1 +1,1 @@
-var mnemonic = "dwarf cupboard quote dice empower mystery fitness hello trend uncover gadget goat";
+var mnemonic = "divorce same sauce clown brain arctic wisdom embody island skirt liquid refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "bar spread rural gate absent possible glare face there bottom tilt catch";
+var mnemonic = "amount shy ring since tank magnet old wise catalog sort girl potato";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch mad very faint swift camera split tuna choice again topple lobster";
+var mnemonic = "run another vintage voyage duty bar sick tuition shrimp sea soccer average";

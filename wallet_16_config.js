@@ -1,1 +1,1 @@
-var mnemonic = "trap physical miss across army voyage bubble rack gather ethics long attend";
+var mnemonic = "alone comfort comic cable double payment thunder network fiscal vague fish catalog";

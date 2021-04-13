@@ -1,1 +1,1 @@
-var mnemonic = "tragic expire kiss able afraid lawsuit person napkin skin joke comfort silent";
+var mnemonic = "finish camp vast marble oval kit drink steak magic license eight lobster";

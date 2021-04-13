@@ -1,1 +1,1 @@
-var mnemonic = "pair buddy fiction wrong travel ride ski patient pelican ripple buddy aisle";
+var mnemonic = "state hunt shaft rhythm sing victory brief appear dizzy soul resemble agree";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon message noise fossil pink jacket shop will office slab setup quote";
+var mnemonic = "loyal level riot elephant spray main lamp goat chest retire bind beef";

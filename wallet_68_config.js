@@ -1,1 +1,1 @@
-var mnemonic = "swarm noise enable such surface wolf obtain knock cart grab hint demand";
+var mnemonic = "marriage health mixture artefact join oval delay until duck tip security flight";

@@ -1,1 +1,1 @@
-var mnemonic = "annual educate panther sea easily young summer believe weasel behave emotion grant";
+var mnemonic = "hard human exhaust guard battle vintage hungry debris kid hammer strategy submit";

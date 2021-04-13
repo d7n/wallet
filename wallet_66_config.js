@@ -1,1 +1,1 @@
-var mnemonic = "brave adjust prepare rice island security wise outer together federal vocal expire";
+var mnemonic = "dose audit giant sand small explain bird where filter cheap siren relief";

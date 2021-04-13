@@ -1,1 +1,1 @@
-var mnemonic = "planet chair thunder vibrant blind muscle view indoor song cool what wise";
+var mnemonic = "kick mom spatial jar write search report harbor canvas clip enrich stem";

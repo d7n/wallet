@@ -1,1 +1,1 @@
-var mnemonic = "park polar what crouch embody soul enjoy animal science arch loyal attitude";
+var mnemonic = "bring catch cigar version disagree three blur toy vendor oil quit gain";

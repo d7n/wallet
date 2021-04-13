@@ -1,1 +1,1 @@
-var mnemonic = "any early leave edit hub lunar tool voice man beach kiwi bottom";
+var mnemonic = "clay cool rescue arm purchase bamboo install speed exercise diary teach turn";

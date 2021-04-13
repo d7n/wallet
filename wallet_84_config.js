@@ -1,1 +1,1 @@
-var mnemonic = "armor script romance champion repair catch skin jar filter brief divert abstract";
+var mnemonic = "elevator oil struggle atom grace tuna public peace few imitate crush extend";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic salon discover artefact secret magic ability prevent cricket found gas image";
+var mnemonic = "false acoustic hurry address eyebrow mountain blast rebel time eye lend profit";

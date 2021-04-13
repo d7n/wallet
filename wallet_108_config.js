@@ -1,1 +1,1 @@
-var mnemonic = "edge exhibit sleep pitch prevent culture banner payment law quarter arrive balance";
+var mnemonic = "repeat inject hungry infant dignity acid select repair crop rude drink credit";

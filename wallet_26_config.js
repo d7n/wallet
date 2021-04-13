@@ -1,1 +1,1 @@
-var mnemonic = "genuine surge brief across gasp turkey work mystery ginger latin sell memory";
+var mnemonic = "employ shop supreme please social buyer sport alert easy brave large hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "license market judge slim brisk still horse affair increase ship truly unusual";
+var mnemonic = "art bulk tooth raise unfold boy ramp screen pole brother client slush";

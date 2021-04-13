@@ -1,1 +1,1 @@
-var mnemonic = "there earn stay hire humble prosper laugh portion toward nothing fox illegal";
+var mnemonic = "kitchen end woman steel flock link this heavy fiscal screen slogan very";

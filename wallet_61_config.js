@@ -1,1 +1,1 @@
-var mnemonic = "wild guess tide pulse flee square decline know sick fan original blast";
+var mnemonic = "art toddler deny sunny hazard car sadness meadow swarm page elite grab";

@@ -1,1 +1,1 @@
-var mnemonic = "pair evolve hope bracket supply soul miss sniff modify leader chef practice";
+var mnemonic = "egg hood sudden moment modify reason maid hawk fall hour denial long";

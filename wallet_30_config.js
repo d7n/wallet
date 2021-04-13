@@ -1,1 +1,1 @@
-var mnemonic = "scheme space wheel sauce until carbon foam frog laugh survey still exhibit";
+var mnemonic = "wet canal rally bachelor child swift wide notable silent tackle pretty interest";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome above bless able when balance camera wing ivory pupil quit body";
+var mnemonic = "file kingdom trust spring fade bronze alcohol welcome stereo run first shaft";

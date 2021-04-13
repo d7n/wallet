@@ -1,1 +1,1 @@
-var mnemonic = "cactus winner dune coin neither tone mind amazing antenna badge notice light";
+var mnemonic = "blind evidence daughter credit vast mixed gun limit sustain model lumber arctic";

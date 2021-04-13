@@ -1,1 +1,1 @@
-var mnemonic = "month delay junk digital sentence raven excuse cause such question lens credit";
+var mnemonic = "rebel eager next wheel senior extra desk chapter radio club much latin";

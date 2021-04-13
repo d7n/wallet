@@ -1,1 +1,1 @@
-var mnemonic = "office scissors vast crash monkey float news vintage nose solar believe chair";
+var mnemonic = "choice slight evolve favorite elegant plunge impulse curve left train minor tumble";

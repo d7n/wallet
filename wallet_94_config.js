@@ -1,1 +1,1 @@
-var mnemonic = "prevent digital school source head sorry carpet antique desert fish option develop";
+var mnemonic = "chair fence rapid another walk number coach twist wolf lamp crop hold";

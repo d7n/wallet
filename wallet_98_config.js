@@ -1,1 +1,1 @@
-var mnemonic = "box piano column oyster expire cherry spy surprise now brown cargo diary";
+var mnemonic = "upon north charge solar write accuse bicycle sustain duty uncover thunder friend";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer craft million pen secret clump retreat rally solar search dial cube";
+var mnemonic = "timber calm type unlock egg wheat convince say path chimney interest swap";

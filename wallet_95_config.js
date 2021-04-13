@@ -1,1 +1,1 @@
-var mnemonic = "second liquid notice north piano list rate recycle letter regret divide ice";
+var mnemonic = "monster gauge dune snap keep dust powder option artwork rail come armed";

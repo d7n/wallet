@@ -1,1 +1,1 @@
-var mnemonic = "fabric fan hamster next patient gesture island lizard truly couple voice stable";
+var mnemonic = "addict sadness tuna volcano law gaze toddler scatter cost equip burden entire";

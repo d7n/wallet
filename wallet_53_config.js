@@ -1,1 +1,1 @@
-var mnemonic = "inject mutual absorb mail toe palm bonus trade cactus usual crime snack";
+var mnemonic = "will fit razor memory strategy derive wonder uncover senior find release zoo";

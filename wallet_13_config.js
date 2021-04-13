@@ -1,1 +1,1 @@
-var mnemonic = "vintage enjoy stem brisk flower fragile front army repeat culture weird eyebrow";
+var mnemonic = "lizard balance celery ginger retire sell beach confirm consider business question dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase blush acid word doll orbit venue use cabbage melt include dentist";
+var mnemonic = "joke control digital adapt piano group already april super panel upper connect";

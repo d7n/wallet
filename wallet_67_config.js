@@ -1,1 +1,1 @@
-var mnemonic = "argue library excite shop fence mule sand index file surface client wet";
+var mnemonic = "cream kitchen skin type sell spike please concert absent grain lunch onion";

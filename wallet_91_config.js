@@ -1,1 +1,1 @@
-var mnemonic = "umbrella carry across bless custom bind resource canvas average table calm float";
+var mnemonic = "firm boat layer combine company address base vacuum office strike trap bacon";

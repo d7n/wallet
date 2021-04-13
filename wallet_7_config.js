@@ -1,1 +1,1 @@
-var mnemonic = "dish noodle episode today prison struggle milk wet negative kick safe fault";
+var mnemonic = "winner churn horn amount success napkin salute pen sand neck improve symptom";

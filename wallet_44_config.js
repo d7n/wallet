@@ -1,1 +1,1 @@
-var mnemonic = "submit license person fan paddle debate budget save occur palace final race";
+var mnemonic = "know document someone slender wheel win scatter runway plug similar pitch muffin";

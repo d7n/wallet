@@ -1,1 +1,1 @@
-var mnemonic = "usual honey blue pepper east moral knee alien uncle mass rookie subject";
+var mnemonic = "smile visual space daring hour token remove donate chimney shield adapt interest";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle swarm group canvas giraffe arch post harsh scout discover true shell";
+var mnemonic = "ship lawn alley sugar position bid entire artist column child remind fatigue";

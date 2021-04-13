@@ -1,1 +1,1 @@
-var mnemonic = "acid office minute salt calm leader floor error blanket rice miss degree";
+var mnemonic = "neutral island piece pretty soon release siege tool little blanket remind labor";

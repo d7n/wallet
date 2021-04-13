@@ -1,1 +1,1 @@
-var mnemonic = "fatigue dilemma dumb payment swamp latin dice country guess phrase valid deposit";
+var mnemonic = "nature kangaroo net math sample dish fall celery lesson stick item attitude";

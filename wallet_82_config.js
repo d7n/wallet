@@ -1,1 +1,1 @@
-var mnemonic = "iron bonus give found impose affair shove shield bamboo slogan rent february";
+var mnemonic = "outer seven text erode link bottom avocado citizen like victory actress margin";

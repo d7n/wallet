@@ -1,1 +1,1 @@
-var mnemonic = "entry theory above segment above mention color theme lumber pupil open another";
+var mnemonic = "observe dove era expose wreck sketch maximum lock below magnet gather chaos";

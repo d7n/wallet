@@ -1,1 +1,1 @@
-var mnemonic = "want baby edit dynamic end favorite vanish denial bargain verify opinion style";
+var mnemonic = "dawn assault climb certain better monster mandate switch cable train exile patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer beach echo scrap judge skull truly extend inmate rely doll comfort";
+var mnemonic = "idle banana shiver vocal pigeon glow giraffe quantum wagon laptop point eager";

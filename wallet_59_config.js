@@ -1,1 +1,1 @@
-var mnemonic = "bullet divorce spawn save employ swear marine peasant bunker differ discover bone";
+var mnemonic = "strong movie admit disease frozen address harsh next sniff size banner capable";

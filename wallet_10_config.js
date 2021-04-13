@@ -1,1 +1,1 @@
-var mnemonic = "virtual multiply crime fashion tobacco cheese mimic salmon charge february wrong canoe";
+var mnemonic = "pull stomach resist switch current sponsor nose snake base hat puzzle script";

@@ -1,1 +1,1 @@
-var mnemonic = "bench victory palm health feel brief fold water very dry social verify";
+var mnemonic = "crime pulse raccoon remember dinner quote giant gossip remain surround choose mask";

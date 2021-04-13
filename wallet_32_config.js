@@ -1,1 +1,1 @@
-var mnemonic = "twelve ship above hazard chimney three glass easily jungle depth quarter legend";
+var mnemonic = "salute tomato afford major palm medal fish supreme dolphin festival beef release";

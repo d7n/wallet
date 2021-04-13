@@ -1,1 +1,1 @@
-var mnemonic = "turkey allow glimpse once vacant woman exist moment casual organ wedding table";
+var mnemonic = "promote tuition girl prefer usage common various scene library verify success grass";

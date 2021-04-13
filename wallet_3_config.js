@@ -1,1 +1,1 @@
-var mnemonic = "rough photo bridge twin extra display sentence meat joy exile scan salute";
+var mnemonic = "error census squeeze exercise camp monitor school barrel sign dawn cram noble";

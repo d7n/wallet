@@ -1,1 +1,1 @@
-var mnemonic = "key sock column change drill horse cruel kit dinosaur error title simple";
+var mnemonic = "roof mammal shoot scissors off equip tissue media blame love royal buffalo";

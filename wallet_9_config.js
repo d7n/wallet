@@ -1,1 +1,1 @@
-var mnemonic = "lyrics actor shy fun clown tube shoe raven party laundry story refuse";
+var mnemonic = "connect field husband will skirt civil venue group daughter swift spatial bundle";

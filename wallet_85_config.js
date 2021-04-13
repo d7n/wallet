@@ -1,1 +1,1 @@
-var mnemonic = "slam deer sweet cruel feel daughter evidence staff raven dress inject enter";
+var mnemonic = "reveal blast issue vapor path bracket post ritual damage access staff palace";

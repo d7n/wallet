@@ -1,1 +1,1 @@
-var mnemonic = "unlock danger divert secret medal romance artist library render company rookie owner";
+var mnemonic = "gold glory grocery flavor cricket shiver clerk soul visa fork guitar pulp";

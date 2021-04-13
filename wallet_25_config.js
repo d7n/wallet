@@ -1,1 +1,1 @@
-var mnemonic = "market fluid chief under notice sudden cheap pistol ten senior isolate unknown";
+var mnemonic = "wood still swamp cement parent rifle pave legend often dawn genuine essay";

@@ -1,1 +1,1 @@
-var mnemonic = "attract inner cousin deputy guess planet theme wait three choice aspect sniff";
+var mnemonic = "sample trade note cable depend cruise slide gallery silk pilot olympic sick";

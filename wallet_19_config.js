@@ -1,1 +1,1 @@
-var mnemonic = "random improve update bullet tail pelican chase rough police segment corn clerk";
+var mnemonic = "give finish situate purse rebel buzz gesture innocent shoulder mail raccoon reject";

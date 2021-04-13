@@ -1,1 +1,1 @@
-var mnemonic = "goat flavor round luxury lounge sugar scan comfort solid maze point buzz";
+var mnemonic = "female arrow true mouse excess trumpet liar protect pyramid noise payment tool";

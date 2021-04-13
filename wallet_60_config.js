@@ -1,1 +1,1 @@
-var mnemonic = "ceiling fiber muscle must nuclear walk flush rough raw tennis slender leader";
+var mnemonic = "that title hello song pulse midnight cabbage arch universe have dad neglect";

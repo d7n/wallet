@@ -1,1 +1,1 @@
-var mnemonic = "concert level still rural wall cake another ladder album time aspect minor";
+var mnemonic = "again talent screen answer acid curtain bar picnic chicken logic verify veteran";

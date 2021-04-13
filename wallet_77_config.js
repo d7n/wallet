@@ -1,1 +1,1 @@
-var mnemonic = "powder aerobic fame narrow exercise govern know whip distance gold pioneer reduce";
+var mnemonic = "armor sing plug hire change coyote buddy dove entire task property wagon";

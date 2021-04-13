@@ -1,1 +1,1 @@
-var mnemonic = "first hundred muscle fine echo city giggle surface pumpkin boat mom crane";
+var mnemonic = "liberty tennis sorry rural drastic flee major profit notice squirrel grunt void";

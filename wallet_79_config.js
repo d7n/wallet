@@ -1,1 +1,1 @@
-var mnemonic = "goat extra bird walk under pencil scene urge animal auction gate place";
+var mnemonic = "doll gas party seed hurdle pond equip envelope gossip tilt obvious pyramid";

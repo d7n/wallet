@@ -1,1 +1,1 @@
-var mnemonic = "betray cry loyal security castle pass erosion venture quantum indicate step abstract";
+var mnemonic = "amazing face ramp emerge thunder bleak tortoise engine disease anchor system draft";

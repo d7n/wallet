@@ -1,1 +1,1 @@
-var mnemonic = "improve strong use speed dad round solution kind tumble frozen crouch gift";
+var mnemonic = "script cruel guide sunset vanish island local outer goddess exotic ugly young";

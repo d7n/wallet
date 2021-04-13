@@ -1,1 +1,1 @@
-var mnemonic = "exile latin inject rent wet raven valley raise true feel unlock drip";
+var mnemonic = "picnic drink then mask view abstract vault struggle nephew special smoke okay";

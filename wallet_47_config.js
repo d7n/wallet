@@ -1,1 +1,1 @@
-var mnemonic = "squirrel talk possible mushroom blood pull behave bachelor base rebuild grit actual";
+var mnemonic = "fitness pool steel frozen census silver urge sample miss symptom stadium arena";

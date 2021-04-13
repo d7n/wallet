@@ -1,1 +1,1 @@
-var mnemonic = "long used firm ramp correct spare spoon various anger series brown this";
+var mnemonic = "unusual prefer staff jewel south random knife negative window click inside organ";

@@ -1,1 +1,1 @@
-var mnemonic = "subway another lens dilemma okay antenna recycle access click curtain avoid face";
+var mnemonic = "recycle type ill matter monitor wink cotton solve nuclear deal imitate tag";

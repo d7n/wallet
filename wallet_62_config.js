@@ -1,1 +1,1 @@
-var mnemonic = "ancient private sunset entry science orphan away surface lonely banner better potato";
+var mnemonic = "grocery nerve task frozen best quick ritual sing flock assault borrow wheel";

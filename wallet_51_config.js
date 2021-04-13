@@ -1,1 +1,1 @@
-var mnemonic = "profit body eyebrow swear fence worth select film goose donate dish three";
+var mnemonic = "stage purity alien goat curious cruel height subject divorce seven upset add";

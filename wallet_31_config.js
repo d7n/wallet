@@ -1,1 +1,1 @@
-var mnemonic = "general net wash flavor invite that alien tunnel spell quote sweet ramp";
+var mnemonic = "consider soup buddy blue subway surface judge fetch oval bounce funny drip";

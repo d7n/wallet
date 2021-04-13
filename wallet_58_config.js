@@ -1,1 +1,1 @@
-var mnemonic = "flash thing dice process equal hint delay approve actress rapid box track";
+var mnemonic = "replace crime february quarter tortoise update reveal grit series depend pull desk";

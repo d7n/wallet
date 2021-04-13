@@ -1,1 +1,1 @@
-var mnemonic = "wrist false raw exclude hawk total oak diary disease casino lava burden";
+var mnemonic = "bamboo visa spread aunt prosper noise law column vote birth hood noble";

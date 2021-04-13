@@ -1,1 +1,1 @@
-var mnemonic = "large steak metal enroll lounge obey opinion census utility sword anger vault";
+var mnemonic = "clerk garment again ball jeans food actress fiction craft camera bacon execute";

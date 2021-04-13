@@ -1,1 +1,1 @@
-var mnemonic = "globe twist zoo valve happy license this village vital excess panic jacket";
+var mnemonic = "audit depth hedgehog salmon renew doll way abandon orient now alley object";

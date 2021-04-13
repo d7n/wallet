@@ -1,1 +1,1 @@
-var mnemonic = "call track jump divide leisure rain deputy make weekend drama level trap";
+var mnemonic = "cushion soup plunge level eagle shield drum pear lens trade into exhaust";
