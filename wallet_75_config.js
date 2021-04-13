@@ -1,1 +1,1 @@
-var mnemonic = "age jump club window choose dress hurt giraffe hurdle leaf trick decrease";
+var mnemonic = "devote disorder angry burger leave real buyer follow nothing foot visit now";

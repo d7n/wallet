@@ -1,1 +1,1 @@
-var mnemonic = "rose shy install chief liar jelly under cousin wine success addict genius";
+var mnemonic = "hello peasant skill mom bean that mom whip lend pear evidence sheriff";

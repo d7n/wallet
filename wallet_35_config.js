@@ -1,1 +1,1 @@
-var mnemonic = "measure unusual please journey erode debate hazard eight dutch tunnel seed pledge";
+var mnemonic = "cliff cash captain stand license join produce cup accuse traffic episode snap";

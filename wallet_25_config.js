@@ -1,1 +1,1 @@
-var mnemonic = "bird connect critic top cycle palm weekend attack price reform disorder race";
+var mnemonic = "indicate science direct pretty frog general quarter captain snack device donor square";

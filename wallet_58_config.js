@@ -1,1 +1,1 @@
-var mnemonic = "mind spin scout priority net perfect outer wool glimpse fine forest way";
+var mnemonic = "series crew face book develop hybrid clap screen swamp adjust lizard faint";

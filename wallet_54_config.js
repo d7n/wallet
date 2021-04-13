@@ -1,1 +1,1 @@
-var mnemonic = "frown gown grant grape off note result response news gown ripple flock";
+var mnemonic = "maple custom unlock foster cram load neither tone now frown rug angry";

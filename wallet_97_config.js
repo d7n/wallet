@@ -1,1 +1,1 @@
-var mnemonic = "search uphold now enable engage often awesome element habit behave couch explain";
+var mnemonic = "cloth toy easily treat below shove enroll debate frog brave outside unit";

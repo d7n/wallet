@@ -1,1 +1,1 @@
-var mnemonic = "gym tourist very script permit slow open address boy shoot flavor logic";
+var mnemonic = "guilt crystal evolve sunny allow dial feed crime fatigue license armed hint";

@@ -1,1 +1,1 @@
-var mnemonic = "grief gain globe burst swarm average buzz lobster syrup victory brain elephant";
+var mnemonic = "hurry valley broom color attend divorce want release staff bench weird snake";

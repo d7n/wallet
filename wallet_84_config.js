@@ -1,1 +1,1 @@
-var mnemonic = "sure other front whip rigid opera torch athlete stay prosper equal icon";
+var mnemonic = "garlic canoe language harsh void tip zero shaft shadow paddle cage student";

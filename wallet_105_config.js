@@ -1,1 +1,1 @@
-var mnemonic = "venue celery glad when peasant muffin since half clip curtain join waste";
+var mnemonic = "zoo sail tray ranch deny exclude cabbage choose height spy orange social";

@@ -1,1 +1,1 @@
-var mnemonic = "crane chicken vacant swap hawk coral deer erode autumn discover best hybrid";
+var mnemonic = "stereo flip harbor oven chef claim anchor victory sponsor web they print";

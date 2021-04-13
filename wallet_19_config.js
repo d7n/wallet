@@ -1,1 +1,1 @@
-var mnemonic = "title aim team same jealous page core slice company goddess front later";
+var mnemonic = "erase cruise basket roof network dog document sibling wasp vintage obtain topic";

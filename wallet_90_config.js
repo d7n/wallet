@@ -1,1 +1,1 @@
-var mnemonic = "oyster bread suit fetch elevator viable material awake visual attract simple glide";
+var mnemonic = "whisper leg now doll polar pipe couch home spider destroy over chaos";

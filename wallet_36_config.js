@@ -1,1 +1,1 @@
-var mnemonic = "crop rate manage wisdom evolve cliff garbage happy jaguar fun engage giant";
+var mnemonic = "enrich ostrich early elephant acoustic blood answer topic ostrich neither waste width";

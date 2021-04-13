@@ -1,1 +1,1 @@
-var mnemonic = "inch current solar exhaust sure able figure plate tonight impact draft film";
+var mnemonic = "river burst shrug exact obtain spawn decline eyebrow gift decrease panic tissue";

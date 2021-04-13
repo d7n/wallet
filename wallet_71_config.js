@@ -1,1 +1,1 @@
-var mnemonic = "inflict build edge load caught paper someone multiply ahead lonely beach rifle";
+var mnemonic = "sample vintage dinner apology relief cement pyramid remain coil hurt neglect caught";

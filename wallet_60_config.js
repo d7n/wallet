@@ -1,1 +1,1 @@
-var mnemonic = "simple anxiety bubble butter push believe champion great waste top sister economy";
+var mnemonic = "aunt actress badge diet skull inmate tomorrow omit follow crucial eye pretty";

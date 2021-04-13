@@ -1,1 +1,1 @@
-var mnemonic = "plate buffalo deny shy time expect balcony addict butter vendor clump ribbon";
+var mnemonic = "cube small month orange unknown rough define have buyer team bacon today";

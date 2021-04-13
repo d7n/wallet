@@ -1,1 +1,1 @@
-var mnemonic = "oxygen survey exercise agent leg motor barrel home goose enroll advance door";
+var mnemonic = "faith response head car vapor remain express banner slab school noodle victory";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic boy deposit fit puppy pumpkin catalog digital cover cycle wolf hair";
+var mnemonic = "soap follow join slab hat pupil roast voyage spell card laundry chair";

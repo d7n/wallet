@@ -1,1 +1,1 @@
-var mnemonic = "friend devote dutch woman lazy employ rather style soccer become decline demise";
+var mnemonic = "victory forget window upon book main either ritual solution firm episode lens";

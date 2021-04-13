@@ -1,1 +1,1 @@
-var mnemonic = "toe patrol example soon master legal arm draw walk track gown two";
+var mnemonic = "hip dream faith claim cancel aim uphold install grocery work crystal truck";

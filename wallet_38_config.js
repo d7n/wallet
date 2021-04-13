@@ -1,1 +1,1 @@
-var mnemonic = "capable cute recall wonder bike pottery essence gather toy rice oppose decline";
+var mnemonic = "excess barely nut door mixture coyote decline used claim coral dizzy accident";

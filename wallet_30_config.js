@@ -1,1 +1,1 @@
-var mnemonic = "vessel tackle eight scatter infant kitten pull river spray general bacon you";
+var mnemonic = "prefer viable young skill crunch seed picture decide clock secret record act";

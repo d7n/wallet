@@ -1,1 +1,1 @@
-var mnemonic = "hand bleak unfair emerge rain ticket ritual youth rigid sword frame trophy";
+var mnemonic = "tissue erosion language casino fringe fossil sheriff deposit claim equip punch initial";

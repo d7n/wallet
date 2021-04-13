@@ -1,1 +1,1 @@
-var mnemonic = "carbon wasp sail piece exchange act shrimp swear crystal saddle affair inhale";
+var mnemonic = "notable guitar wish record aerobic symptom envelope estate oblige when year what";

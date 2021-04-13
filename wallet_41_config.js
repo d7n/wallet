@@ -1,1 +1,1 @@
-var mnemonic = "hire hybrid fiscal monkey autumn useful monitor slight diagram sound already still";
+var mnemonic = "quick ramp autumn marriage room similar cruise nation cloud finish level critic";

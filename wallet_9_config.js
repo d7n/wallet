@@ -1,1 +1,1 @@
-var mnemonic = "world wrestle oil turkey craft nurse media alpha galaxy globe risk result";
+var mnemonic = "earn grocery tide doctor toy fog rail drum sea fox raise dove";

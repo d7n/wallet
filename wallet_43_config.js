@@ -1,1 +1,1 @@
-var mnemonic = "ritual region cook jeans review black action margin depend outside supreme depth";
+var mnemonic = "rather chronic usage quiz ticket train fence guitar girl rotate that humble";

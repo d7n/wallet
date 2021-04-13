@@ -1,1 +1,1 @@
-var mnemonic = "squeeze during diamond dad clog uncle wait rose multiply accuse sleep unaware";
+var mnemonic = "photo manage stuff hard coffee episode category matrix off exchange fix kiwi";

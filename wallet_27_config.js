@@ -1,1 +1,1 @@
-var mnemonic = "hundred wealth hover deny dynamic sudden true dilemma wrist leopard mother camp";
+var mnemonic = "amused kingdom clap buffalo gauge romance muffin canyon elephant beach unfold nerve";

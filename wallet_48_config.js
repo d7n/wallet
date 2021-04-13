@@ -1,1 +1,1 @@
-var mnemonic = "potato beauty husband main muffin rack shiver reform door tool wear road";
+var mnemonic = "quantum kid ice monster notice eagle fit involve blood wine awful cable";

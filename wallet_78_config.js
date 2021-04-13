@@ -1,1 +1,1 @@
-var mnemonic = "arm vacant below dose rare leaf cheese swear tattoo title cinnamon over";
+var mnemonic = "artist ocean science oxygen extend circle penalty surprise vibrant weekend hurdle live";

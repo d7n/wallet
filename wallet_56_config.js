@@ -1,1 +1,1 @@
-var mnemonic = "horn accident parade vapor pill obtain end shed pet gossip harsh increase";
+var mnemonic = "ship diamond run science sausage neutral slush when nature scatter inquiry easy";

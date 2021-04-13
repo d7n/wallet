@@ -1,1 +1,1 @@
-var mnemonic = "like treat tone hover weather coconut little soft connect cook silver drill";
+var mnemonic = "dinosaur bounce differ virtual lounge fitness jazz will churn bind saddle measure";

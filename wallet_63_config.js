@@ -1,1 +1,1 @@
-var mnemonic = "elevator luxury dish nephew loyal magic census gospel since entire strategy van";
+var mnemonic = "enough veteran jacket message unfold weather divorce paper mention shoot hat brother";

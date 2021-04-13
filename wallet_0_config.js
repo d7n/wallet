@@ -1,1 +1,1 @@
-var mnemonic = "plate melody actress evil negative artist execute abstract olympic raven zoo path";
+var mnemonic = "fit safe buzz alarm sense neither unknown coyote unique mystery dove bubble";

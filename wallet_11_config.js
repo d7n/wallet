@@ -1,1 +1,1 @@
-var mnemonic = "long collect nation uncle clog box snow attitude erosion basic first good";
+var mnemonic = "device phone paper rough vote forward jar album like unique casual still";

@@ -1,1 +1,1 @@
-var mnemonic = "flip decorate riot relief yellow awful immense fault start length patch kitten";
+var mnemonic = "hire ritual forward axis labor spend trouble vital wrap museum stamp carry";

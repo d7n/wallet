@@ -1,1 +1,1 @@
-var mnemonic = "lonely effort salad assume alone rare flag rug badge math stock banana";
+var mnemonic = "river energy razor vanish push offer dance actor purity display call yellow";

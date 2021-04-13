@@ -1,1 +1,1 @@
-var mnemonic = "tower elder gas priority toilet pledge knee title define burst vintage silk";
+var mnemonic = "bridge refuse collect confirm message sunny dry tenant monster faith conduct special";

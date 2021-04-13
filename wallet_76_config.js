@@ -1,1 +1,1 @@
-var mnemonic = "attitude arena valid vote scare claw travel soldier collect zone season sunset";
+var mnemonic = "nominee outside fuel census clip nest room bachelor knife retire focus supreme";

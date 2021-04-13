@@ -1,1 +1,1 @@
-var mnemonic = "ugly sponsor dream suspect have forest bonus draw fly mixture brass hammer";
+var mnemonic = "common anxiety trophy thought lemon twin sing sunny adult dice force wave";

@@ -1,1 +1,1 @@
-var mnemonic = "truth liquid hello call path member quantum mansion argue nuclear modify oven";
+var mnemonic = "dial figure industry thank total improve large object artefact ride autumn crime";

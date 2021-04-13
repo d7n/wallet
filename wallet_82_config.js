@@ -1,1 +1,1 @@
-var mnemonic = "gold season rain uphold topic doctor toe sudden girl goddess weasel ceiling";
+var mnemonic = "spring sock ivory creek adapt test dream split goddess satoshi word merry";

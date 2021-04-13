@@ -1,1 +1,1 @@
-var mnemonic = "kiss secret pupil pigeon market puppy burger response ready dignity pitch winner";
+var mnemonic = "vapor expose unfair intact phone pig flame volume edge finish present drive";

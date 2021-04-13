@@ -1,1 +1,1 @@
-var mnemonic = "harsh razor near beef satisfy atom dumb loud divorce glass unusual staff";
+var mnemonic = "follow margin fox fall champion nominee afraid goddess mouse purchase notable crime";

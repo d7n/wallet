@@ -1,1 +1,1 @@
-var mnemonic = "arch bright scan object tomorrow monster bracket achieve egg potato dream tourist";
+var mnemonic = "trophy update media waste knife heavy nest reunion wonder wire skull decline";

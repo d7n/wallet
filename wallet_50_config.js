@@ -1,1 +1,1 @@
-var mnemonic = "hint predict business lobster predict shoot inherit globe double copy key below";
+var mnemonic = "chapter raven kidney medal zero mimic accident govern prefer ecology actress pill";

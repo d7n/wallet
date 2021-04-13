@@ -1,1 +1,1 @@
-var mnemonic = "theory master neck upset system educate dish between syrup pluck basic water";
+var mnemonic = "crack reward laptop february area walnut green deny saddle depth opera soon";

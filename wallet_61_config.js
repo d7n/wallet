@@ -1,1 +1,1 @@
-var mnemonic = "tunnel wrap ozone void mimic scene card sustain release simple anchor chat";
+var mnemonic = "modify snow canoe illness loop laptop firm summer vast slot worry clean";

@@ -1,1 +1,1 @@
-var mnemonic = "flee hover game wait peace warm fit danger clerk rifle left glow";
+var mnemonic = "page auto between october arrive hand rail inner answer involve home camera";

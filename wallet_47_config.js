@@ -1,1 +1,1 @@
-var mnemonic = "addict treat online antenna legal pitch rigid file sad video evil ignore";
+var mnemonic = "mutual giant dice pull lift curve truly tribe symptom neither walk visual";

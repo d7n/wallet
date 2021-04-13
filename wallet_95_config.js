@@ -1,1 +1,1 @@
-var mnemonic = "write found infant gas dawn again amount toddler identify cram moon drop";
+var mnemonic = "vague park charge hard dentist actual hockey legal rose sense throw field";

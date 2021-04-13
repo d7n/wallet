@@ -1,1 +1,1 @@
-var mnemonic = "shine magnet staff term gap organ destroy assist judge foil gun cotton";
+var mnemonic = "recycle august mail crucial parrot captain early tone egg mule copy echo";

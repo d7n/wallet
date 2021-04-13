@@ -1,1 +1,1 @@
-var mnemonic = "crash useful satisfy cattle void lottery piece bunker clean knife artist bid";
+var mnemonic = "pigeon crop hub also canyon library jaguar view tent supreme pencil tooth";

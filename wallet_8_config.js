@@ -1,1 +1,1 @@
-var mnemonic = "dose stage sheriff remove citizen solution hybrid youth poem inspire mimic curve";
+var mnemonic = "jealous analyst maximum sort cement patrol announce beef salute profit choose accident";

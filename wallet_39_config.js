@@ -1,1 +1,1 @@
-var mnemonic = "case sail rapid fetch victory wrist kind enough hello keen weird pink";
+var mnemonic = "monkey spray annual stone sketch tent carbon moment stumble spring aim relief";

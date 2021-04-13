@@ -1,1 +1,1 @@
-var mnemonic = "mango write prize interest limit execute taxi gun culture lift topic bench";
+var mnemonic = "task tenant lake vital lyrics spin job insane slot blade victory snack";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit area scissors speed attack negative jacket day pluck cigar suffer squirrel";
+var mnemonic = "casino piece wheel riot pause other supply mystery galaxy stove jelly country";

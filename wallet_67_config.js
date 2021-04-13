@@ -1,1 +1,1 @@
-var mnemonic = "roast morning symptom profit universe observe clip idle useful light trust sausage";
+var mnemonic = "pact bring fresh opera minimum total glimpse history orchard because nation soap";

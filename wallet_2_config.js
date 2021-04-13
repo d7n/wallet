@@ -1,1 +1,1 @@
-var mnemonic = "chuckle pitch pitch vote fiscal argue nuclear february file soul blanket purity";
+var mnemonic = "scrub ethics slender talent seek moment length effort brisk expand hedgehog harbor";

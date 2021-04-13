@@ -1,1 +1,1 @@
-var mnemonic = "gospel leisure sugar olive young monster expose today world entry truth ordinary";
+var mnemonic = "deputy coin argue bundle allow scare denial live witness future brush smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "police goose try gorilla field milk pass mosquito ready inflict dance cart";
+var mnemonic = "tourist eternal oppose ship craft vague rally crisp response manage disorder tent";

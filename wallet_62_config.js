@@ -1,1 +1,1 @@
-var mnemonic = "capable stairs child matrix quantum system palace voice hand cruise vivid lake";
+var mnemonic = "hybrid slow cloth run pact either bind winter able record edit inhale";

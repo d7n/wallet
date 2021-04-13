@@ -1,1 +1,1 @@
-var mnemonic = "deal sauce taste draw wealth actual language stuff february brand gift width";
+var mnemonic = "slot insect ghost scare butter gloom polar guard kite once away prison";

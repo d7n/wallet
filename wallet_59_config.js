@@ -1,1 +1,1 @@
-var mnemonic = "ignore fitness never quit popular assist cool happy follow when boss left";
+var mnemonic = "fat indicate warrior hold prefer bitter shift knife when bacon spirit announce";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding borrow inspire scrap setup brown seven river curve lyrics party science";
+var mnemonic = "stand illness park method web cattle draw lava develop pluck vault undo";

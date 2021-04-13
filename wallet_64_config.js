@@ -1,1 +1,1 @@
-var mnemonic = "pluck soccer mistake together test wisdom clay opera panic album goat matter";
+var mnemonic = "rapid gesture great welcome anger scan onion define garbage coast knife drip";

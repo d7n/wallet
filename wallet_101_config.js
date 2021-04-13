@@ -1,1 +1,1 @@
-var mnemonic = "exist summer nominee claim table symbol rib tumble intact acquire surge smile";
+var mnemonic = "output mad civil diagram deliver tennis glue onion coffee proud awful laundry";

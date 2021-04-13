@@ -1,1 +1,1 @@
-var mnemonic = "belt business arrest poet office alien giraffe couple adapt core exist empower";
+var mnemonic = "save blouse laundry vote monitor seek response romance impulse clerk glow paper";

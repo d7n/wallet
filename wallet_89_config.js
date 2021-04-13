@@ -1,1 +1,1 @@
-var mnemonic = "license business quiz bachelor example first feature belt still wage urge endless";
+var mnemonic = "eager opinion achieve noise access fade follow shed van night rail picture";

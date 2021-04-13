@@ -1,1 +1,1 @@
-var mnemonic = "cave gesture hawk board brave abuse ask now rack agent arrest ostrich";
+var mnemonic = "execute ladder cabin ladder forest someone release birth barely fan gun toward";

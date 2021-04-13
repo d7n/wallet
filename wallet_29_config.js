@@ -1,1 +1,1 @@
-var mnemonic = "enhance melt ladder mushroom thrive media crime town chat indoor poet curve";
+var mnemonic = "post observe icon month bring digital crash drink shed dynamic same moral";

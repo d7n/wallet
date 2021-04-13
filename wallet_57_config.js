@@ -1,1 +1,1 @@
-var mnemonic = "flat spawn addict estate zero pink resource between sound blue subject ancient";
+var mnemonic = "song cheese hen design wing upset copper garbage comic matrix outside enhance";

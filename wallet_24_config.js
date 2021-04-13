@@ -1,1 +1,1 @@
-var mnemonic = "unaware pistol shy nominee edit visa plastic lecture spin symptom cotton crane";
+var mnemonic = "discover bulk stool business security state demand regret size bonus birth food";

@@ -1,1 +1,1 @@
-var mnemonic = "help cannon also spy unhappy doll chunk subway divorce ice puzzle exclude";
+var mnemonic = "tongue sister boring farm infant cloud assault praise robust six parent bar";

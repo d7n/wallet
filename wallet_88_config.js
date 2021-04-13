@@ -1,1 +1,1 @@
-var mnemonic = "attend network stumble outside strategy present sibling earth bicycle small earth steel";
+var mnemonic = "bless garlic turkey drop river duty fame swing security vacant awful rapid";

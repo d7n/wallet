@@ -1,1 +1,1 @@
-var mnemonic = "uphold siege scrap elevator flavor wrestle lady buzz square weapon tumble embark";
+var mnemonic = "siren cost oppose express reflect end dolphin cart melody video doctor lunar";

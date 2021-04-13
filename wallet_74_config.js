@@ -1,1 +1,1 @@
-var mnemonic = "popular develop bird type grain quarter food kite chronic agree attract crew";
+var mnemonic = "muscle jewel skirt thing limb violin clay safe sand recycle enough fluid";

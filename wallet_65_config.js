@@ -1,1 +1,1 @@
-var mnemonic = "divorce surround loyal bomb parade model gorilla turn axis canal polar zebra";
+var mnemonic = "mixed snow brush hungry tomato define impact legend script save depend organ";

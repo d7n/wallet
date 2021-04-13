@@ -1,1 +1,1 @@
-var mnemonic = "cheap maid rigid middle torch old whisper apple pair exhibit ramp survey";
+var mnemonic = "ten panther useless script senior verify family nuclear brisk market ice sign";

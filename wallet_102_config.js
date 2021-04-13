@@ -1,1 +1,1 @@
-var mnemonic = "circle jazz dolphin virus feel beef grass prison wedding earn purpose october";
+var mnemonic = "rural sketch mass garlic dolphin toward snap palm lucky rack cook gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "raise update eyebrow inform wife cargo faint coffee patch either tilt analyst";
+var mnemonic = "rotate employ smile trend artefact issue room habit easily humble erosion digital";
