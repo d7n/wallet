@@ -1,1 +1,1 @@
-var mnemonic = "glove luggage grunt kangaroo enrich strong apple squeeze witness poverty regular inch";
+var mnemonic = "truth liquid hello call path member quantum mansion argue nuclear modify oven";

@@ -1,1 +1,1 @@
-var mnemonic = "access drill escape mass zebra awesome cactus away rent wire hire vacuum";
+var mnemonic = "crane chicken vacant swap hawk coral deer erode autumn discover best hybrid";

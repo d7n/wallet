@@ -1,1 +1,1 @@
-var mnemonic = "ankle when neutral park poet aim slim quality turkey liberty coach nurse";
+var mnemonic = "exhaust term satisfy memory divorce leg rebel since clean castle ozone better";

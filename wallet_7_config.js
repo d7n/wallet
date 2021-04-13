@@ -1,1 +1,1 @@
-var mnemonic = "truth never add account warrior remove laundry reason purity desk train raw";
+var mnemonic = "uphold siege scrap elevator flavor wrestle lady buzz square weapon tumble embark";

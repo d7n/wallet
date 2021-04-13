@@ -1,1 +1,1 @@
-var mnemonic = "road denial worth trim element road color bonus very ignore humble video";
+var mnemonic = "federal tilt bird blind observe lunch near cargo vapor security fun seminar";

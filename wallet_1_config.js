@@ -1,1 +1,1 @@
-var mnemonic = "grant opera sister width between half elite illness coach olympic swallow toss";
+var mnemonic = "mango write prize interest limit execute taxi gun culture lift topic bench";

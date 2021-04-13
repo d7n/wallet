@@ -1,1 +1,1 @@
-var mnemonic = "tail one blade regret robust guess long between reward gauge draw blame";
+var mnemonic = "oyster bread suit fetch elevator viable material awake visual attract simple glide";

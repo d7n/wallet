@@ -1,1 +1,1 @@
-var mnemonic = "unusual owner very tank state arrest mosquito benefit noise together human belt";
+var mnemonic = "hire hybrid fiscal monkey autumn useful monitor slight diagram sound already still";

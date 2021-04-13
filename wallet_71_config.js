@@ -1,1 +1,1 @@
-var mnemonic = "illegal small chest wool caution tiny faith human label soft kit sustain";
+var mnemonic = "inflict build edge load caught paper someone multiply ahead lonely beach rifle";

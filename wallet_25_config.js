@@ -1,1 +1,1 @@
-var mnemonic = "battle more drift battle unfair phrase genre also pizza muscle language super";
+var mnemonic = "bird connect critic top cycle palm weekend attack price reform disorder race";

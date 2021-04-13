@@ -1,1 +1,1 @@
-var mnemonic = "cart open escape lawn behave pill public bundle lens slice artefact forget";
+var mnemonic = "drastic chat include rebuild garage awkward invite fade shove potato mixed tone";

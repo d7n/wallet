@@ -1,1 +1,1 @@
-var mnemonic = "world still veteran help weasel first write expect nut border test ramp";
+var mnemonic = "pepper lawsuit nurse calm coil visit glide all either tree mix vague";

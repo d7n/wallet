@@ -1,1 +1,1 @@
-var mnemonic = "appear sport depend era angry cactus future merge forget match script panel";
+var mnemonic = "grief gain globe burst swarm average buzz lobster syrup victory brain elephant";

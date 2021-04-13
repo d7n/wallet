@@ -1,1 +1,1 @@
-var mnemonic = "cliff point purity smoke abuse virtual butter brief below poem runway cage";
+var mnemonic = "attitude arena valid vote scare claw travel soldier collect zone season sunset";

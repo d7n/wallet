@@ -1,1 +1,1 @@
-var mnemonic = "pipe minute wild abuse know bachelor flip pond old inside muffin royal";
+var mnemonic = "elevator luxury dish nephew loyal magic census gospel since entire strategy van";

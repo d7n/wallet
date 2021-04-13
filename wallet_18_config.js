@@ -1,1 +1,1 @@
-var mnemonic = "trend super brisk leave orbit code behind curtain antenna million best speed";
+var mnemonic = "hand bleak unfair emerge rain ticket ritual youth rigid sword frame trophy";

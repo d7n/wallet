@@ -1,1 +1,1 @@
-var mnemonic = "wrap tennis deputy six area alien duty excite ask surprise quick goddess";
+var mnemonic = "ozone rose release seed very mouse federal jar change rely bright old";

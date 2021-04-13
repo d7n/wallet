@@ -1,1 +1,1 @@
-var mnemonic = "ecology dwarf domain layer modify cabbage airport matter divorce treat detect sugar";
+var mnemonic = "addict treat online antenna legal pitch rigid file sad video evil ignore";

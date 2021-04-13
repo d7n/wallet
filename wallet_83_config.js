@@ -1,1 +1,1 @@
-var mnemonic = "tennis lamp oyster have reduce border cricket goat child film stone police";
+var mnemonic = "gym tourist very script permit slow open address boy shoot flavor logic";

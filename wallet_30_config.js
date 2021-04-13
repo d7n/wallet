@@ -1,1 +1,1 @@
-var mnemonic = "drip rough emerge drama donor humor pig muscle upgrade build actor alert";
+var mnemonic = "vessel tackle eight scatter infant kitten pull river spray general bacon you";

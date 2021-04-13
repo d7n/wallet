@@ -1,1 +1,1 @@
-var mnemonic = "thrive caught smooth drama level scheme okay unlock waste repair differ become";
+var mnemonic = "circle jazz dolphin virus feel beef grass prison wedding earn purpose october";

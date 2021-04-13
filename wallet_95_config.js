@@ -1,1 +1,1 @@
-var mnemonic = "around busy nature man replace dwarf chef image barely perfect bracket soup";
+var mnemonic = "write found infant gas dawn again amount toddler identify cram moon drop";

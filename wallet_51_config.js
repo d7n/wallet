@@ -1,1 +1,1 @@
-var mnemonic = "nation floor news spin salute refuse mercy define will flat industry turn";
+var mnemonic = "like treat tone hover weather coconut little soft connect cook silver drill";

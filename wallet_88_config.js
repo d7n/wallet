@@ -1,1 +1,1 @@
-var mnemonic = "large royal text segment one deposit police ring uphold parade draft daring";
+var mnemonic = "attend network stumble outside strategy present sibling earth bicycle small earth steel";

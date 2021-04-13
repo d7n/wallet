@@ -1,1 +1,1 @@
-var mnemonic = "sick fluid earth hamster wool pool spare twin behave save knock input";
+var mnemonic = "flee hover game wait peace warm fit danger clerk rifle left glow";

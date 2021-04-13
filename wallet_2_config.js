@@ -1,1 +1,1 @@
-var mnemonic = "farm nothing bright blade dove reunion spy walk public lazy input smooth";
+var mnemonic = "chuckle pitch pitch vote fiscal argue nuclear february file soul blanket purity";

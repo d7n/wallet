@@ -1,1 +1,1 @@
-var mnemonic = "enhance rigid long tackle push jelly list tool tourist maid family large";
+var mnemonic = "hundred wealth hover deny dynamic sudden true dilemma wrist leopard mother camp";

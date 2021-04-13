@@ -1,1 +1,1 @@
-var mnemonic = "attend bring surface family region suggest news clerk orange tuition know retire";
+var mnemonic = "lonely effort salad assume alone rare flag rug badge math stock banana";

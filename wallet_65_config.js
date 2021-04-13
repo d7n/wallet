@@ -1,1 +1,1 @@
-var mnemonic = "burst foot rebel mystery orient corn bone peace asthma side during electric";
+var mnemonic = "divorce surround loyal bomb parade model gorilla turn axis canal polar zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "crop occur fury avocado account virtual trip tag basket field canyon loan";
+var mnemonic = "flip decorate riot relief yellow awful immense fault start length patch kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "glue rural panic around jump cup lunch praise humble base only rifle";
+var mnemonic = "help cannon also spy unhappy doll chunk subway divorce ice puzzle exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "life illness fire umbrella hawk input ocean lion shoot slush inform picture";
+var mnemonic = "ritual region cook jeans review black action margin depend outside supreme depth";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel lend hedgehog rude face media output bone salon diagram alcohol ring";
+var mnemonic = "dutch recall spot rescue pipe cactus social season much quality pony obey";

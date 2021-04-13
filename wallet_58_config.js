@@ -1,1 +1,1 @@
-var mnemonic = "suit uncover blossom crisp merry employ dolphin feel evolve wrist traffic already";
+var mnemonic = "mind spin scout priority net perfect outer wool glimpse fine forest way";

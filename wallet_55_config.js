@@ -1,1 +1,1 @@
-var mnemonic = "snake attack swift unhappy advice aware legal primary cabbage police satoshi category";
+var mnemonic = "corn doctor squirrel fury fluid super siren spread response ask host moon";

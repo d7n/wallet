@@ -1,1 +1,1 @@
-var mnemonic = "sound reward what gravity economy brother name prison picnic aunt when lyrics";
+var mnemonic = "police goose try gorilla field milk pass mosquito ready inflict dance cart";

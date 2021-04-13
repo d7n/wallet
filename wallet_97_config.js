@@ -1,1 +1,1 @@
-var mnemonic = "dizzy baby trial old chimney length rifle hurt cricket eager tank ready";
+var mnemonic = "search uphold now enable engage often awesome element habit behave couch explain";

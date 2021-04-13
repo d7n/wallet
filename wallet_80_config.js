@@ -1,1 +1,1 @@
-var mnemonic = "kind smooth misery success oak bring chicken depend dilemma disagree mix easily";
+var mnemonic = "luxury duck fetch decade almost worry turtle impulse end spice jelly grocery";

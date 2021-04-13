@@ -1,1 +1,1 @@
-var mnemonic = "fluid dream squeeze hockey lend inner shine canvas fragile rocket judge eight";
+var mnemonic = "comic bunker wear clarify ready boy cat that view hold define photo";

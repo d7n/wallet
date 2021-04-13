@@ -1,1 +1,1 @@
-var mnemonic = "theory maximum clip scout discover enact tube debris lecture item whisper child";
+var mnemonic = "wedding borrow inspire scrap setup brown seven river curve lyrics party science";

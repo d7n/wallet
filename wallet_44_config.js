@@ -1,1 +1,1 @@
-var mnemonic = "erase lyrics spoon pipe melody stage subject buzz gasp kidney six resemble";
+var mnemonic = "foil cable palm above travel enable day tail slam project frame oppose";

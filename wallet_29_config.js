@@ -1,1 +1,1 @@
-var mnemonic = "snow measure penalty detail spend random pluck loyal conduct basket armed symbol";
+var mnemonic = "enhance melt ladder mushroom thrive media crime town chat indoor poet curve";

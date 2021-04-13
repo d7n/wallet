@@ -1,1 +1,1 @@
-var mnemonic = "idle patient barely lend fashion father erode bag forget grid give uncle";
+var mnemonic = "kiss secret pupil pigeon market puppy burger response ready dignity pitch winner";

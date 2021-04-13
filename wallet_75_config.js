@@ -1,1 +1,1 @@
-var mnemonic = "winner alert safe crisp water suggest artist actual trip edit social health";
+var mnemonic = "age jump club window choose dress hurt giraffe hurdle leaf trick decrease";

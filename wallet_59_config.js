@@ -1,1 +1,1 @@
-var mnemonic = "level bottom run machine honey erode bind danger couch input food error";
+var mnemonic = "ignore fitness never quit popular assist cool happy follow when boss left";

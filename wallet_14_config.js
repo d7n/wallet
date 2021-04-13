@@ -1,1 +1,1 @@
-var mnemonic = "special father dream version artist target hybrid boost identify half photo since";
+var mnemonic = "shy blossom furnace stand movie room miracle core dial fine change enter";

@@ -1,1 +1,1 @@
-var mnemonic = "caution trade diesel dance victory sing column eager spatial ship dose material";
+var mnemonic = "profit rich often obey erode civil favorite whale duty erosion rice purity";

@@ -1,1 +1,1 @@
-var mnemonic = "renew delay cliff once calm cable lyrics dune toilet holiday spot response";
+var mnemonic = "carbon wasp sail piece exchange act shrimp swear crystal saddle affair inhale";

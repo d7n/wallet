@@ -1,1 +1,1 @@
-var mnemonic = "security guitar treat repeat biology involve unlock lumber step deny device cherry";
+var mnemonic = "drastic boy deposit fit puppy pumpkin catalog digital cover cycle wolf hair";

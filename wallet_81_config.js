@@ -1,1 +1,1 @@
-var mnemonic = "walk practice truly slot crazy dutch skate amused moment myth master analyst";
+var mnemonic = "inhale twenty divorce embrace escape swarm shove cabbage pact kiwi wink parrot";

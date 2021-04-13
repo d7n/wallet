@@ -1,1 +1,1 @@
-var mnemonic = "still neck guitar drive gorilla tone laugh lava scare camera embark walnut";
+var mnemonic = "popular develop bird type grain quarter food kite chronic agree attract crew";

@@ -1,1 +1,1 @@
-var mnemonic = "knee romance neglect slow piano kingdom delay wild wage gasp range together";
+var mnemonic = "inch current solar exhaust sure able figure plate tonight impact draft film";

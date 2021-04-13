@@ -1,1 +1,1 @@
-var mnemonic = "police merge oil inspire brother involve engine cruel admit position antenna gloom";
+var mnemonic = "toe patrol example soon master legal arm draw walk track gown two";

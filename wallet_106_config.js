@@ -1,1 +1,1 @@
-var mnemonic = "over fossil odor reopen forum balance rude culture endless absorb speak dismiss";
+var mnemonic = "flavor gallery mad cherry lawsuit barely cereal salmon rude belt ice salt";

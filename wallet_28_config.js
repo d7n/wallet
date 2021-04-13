@@ -1,1 +1,1 @@
-var mnemonic = "sauce order shy caution vintage grant three finger smart harbor cute cake";
+var mnemonic = "shine magnet staff term gap organ destroy assist judge foil gun cotton";

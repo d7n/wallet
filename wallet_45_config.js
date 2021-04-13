@@ -1,1 +1,1 @@
-var mnemonic = "sell warrior friend sleep captain page fruit rate unusual night resource bone";
+var mnemonic = "cave gesture hawk board brave abuse ask now rack agent arrest ostrich";

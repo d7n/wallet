@@ -1,1 +1,1 @@
-var mnemonic = "witness mammal guess impulse matter lobster decline very vital amount have salad";
+var mnemonic = "hint predict business lobster predict shoot inherit globe double copy key below";

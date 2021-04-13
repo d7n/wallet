@@ -1,1 +1,1 @@
-var mnemonic = "vacant voyage minimum already sudden adult merge reduce arctic method orphan silver";
+var mnemonic = "capable stairs child matrix quantum system palace voice hand cruise vivid lake";

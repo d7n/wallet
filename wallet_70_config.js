@@ -1,1 +1,1 @@
-var mnemonic = "visit foster suit regret attract diagram morning lumber help muffin clinic palm";
+var mnemonic = "crash useful satisfy cattle void lottery piece bunker clean knife artist bid";

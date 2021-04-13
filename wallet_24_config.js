@@ -1,1 +1,1 @@
-var mnemonic = "betray shock genuine bird robot boil train ring announce flip foot will";
+var mnemonic = "unaware pistol shy nominee edit visa plastic lecture spin symptom cotton crane";

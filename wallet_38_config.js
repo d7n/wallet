@@ -1,1 +1,1 @@
-var mnemonic = "village release wedding copy employ menu eagle broccoli pulp fun tennis foil";
+var mnemonic = "capable cute recall wonder bike pottery essence gather toy rice oppose decline";

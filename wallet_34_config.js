@@ -1,1 +1,1 @@
-var mnemonic = "left destroy rigid win yard inspire include speak kidney craft arch merge";
+var mnemonic = "gospel leisure sugar olive young monster expose today world entry truth ordinary";

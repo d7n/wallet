@@ -1,1 +1,1 @@
-var mnemonic = "business physical unhappy worry harvest hurry police dream primary height mouse solve";
+var mnemonic = "plate melody actress evil negative artist execute abstract olympic raven zoo path";

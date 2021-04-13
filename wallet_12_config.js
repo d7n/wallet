@@ -1,1 +1,1 @@
-var mnemonic = "garage tray position expand differ motion asset nose reason ginger situate oval";
+var mnemonic = "tower elder gas priority toilet pledge knee title define burst vintage silk";

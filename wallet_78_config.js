@@ -1,1 +1,1 @@
-var mnemonic = "call tunnel rather kidney husband clutch innocent rack joke border velvet science";
+var mnemonic = "arm vacant below dose rare leaf cheese swear tattoo title cinnamon over";

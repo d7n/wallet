@@ -1,1 +1,1 @@
-var mnemonic = "return rely tower someone rack attitude injury old pet trophy evidence insane";
+var mnemonic = "pluck soccer mistake together test wisdom clay opera panic album goat matter";

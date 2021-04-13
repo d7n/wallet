@@ -1,1 +1,1 @@
-var mnemonic = "swear end weekend lyrics result wrong office visual betray agree panda survey";
+var mnemonic = "panel add pilot raven wink select short winner dune either people physical";

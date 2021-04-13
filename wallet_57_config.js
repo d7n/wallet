@@ -1,1 +1,1 @@
-var mnemonic = "sphere myself mandate sense cream notice erode valley dog fashion devote system";
+var mnemonic = "flat spawn addict estate zero pink resource between sound blue subject ancient";

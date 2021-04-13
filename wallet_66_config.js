@@ -1,1 +1,1 @@
-var mnemonic = "tribe honey borrow repair above blame stool chief announce fiction bargain assume";
+var mnemonic = "jazz impose you whip hollow dutch lock oven shuffle laugh turn task";

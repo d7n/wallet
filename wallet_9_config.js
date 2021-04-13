@@ -1,1 +1,1 @@
-var mnemonic = "gun sleep lazy tackle never lift crane cool rent engage write top";
+var mnemonic = "world wrestle oil turkey craft nurse media alpha galaxy globe risk result";

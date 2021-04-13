@@ -1,1 +1,1 @@
-var mnemonic = "parent still walk trust wife traffic tape evidence umbrella very someone raw";
+var mnemonic = "tunnel wrap ozone void mimic scene card sustain release simple anchor chat";

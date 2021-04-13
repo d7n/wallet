@@ -1,1 +1,1 @@
-var mnemonic = "primary order trim ball wave find dragon fruit cargo mean broccoli recycle";
+var mnemonic = "plate buffalo deny shy time expect balcony addict butter vendor clump ribbon";

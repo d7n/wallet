@@ -1,1 +1,1 @@
-var mnemonic = "holiday duck diet game square reason patch puzzle lecture winter quick transfer";
+var mnemonic = "venue celery glad when peasant muffin since half clip curtain join waste";

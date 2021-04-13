@@ -1,1 +1,1 @@
-var mnemonic = "chase cliff buzz candy slot garment until sketch hundred empty public slender";
+var mnemonic = "potato beauty husband main muffin rack shiver reform door tool wear road";

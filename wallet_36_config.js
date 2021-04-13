@@ -1,1 +1,1 @@
-var mnemonic = "fruit blind rack moment verify nerve basket column cram program will property";
+var mnemonic = "crop rate manage wisdom evolve cliff garbage happy jaguar fun engage giant";

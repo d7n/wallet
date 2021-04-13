@@ -1,1 +1,1 @@
-var mnemonic = "divide sail fiction village cruel finger certain seed submit ancient true increase";
+var mnemonic = "horn accident parade vapor pill obtain end shed pet gossip harsh increase";

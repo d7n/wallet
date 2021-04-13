@@ -1,1 +1,1 @@
-var mnemonic = "taste badge orbit solution drastic route curve discover voyage guide pizza hurt";
+var mnemonic = "dose stage sheriff remove citizen solution hybrid youth poem inspire mimic curve";

@@ -1,1 +1,1 @@
-var mnemonic = "sail scare carbon auto crisp slight female ivory swift silly rent decline";
+var mnemonic = "rabbit area scissors speed attack negative jacket day pluck cigar suffer squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "essence grunt access broom ski pill wool pioneer coral tuition dumb circle";
+var mnemonic = "arch bright scan object tomorrow monster bracket achieve egg potato dream tourist";

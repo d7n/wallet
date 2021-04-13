@@ -1,1 +1,1 @@
-var mnemonic = "section donate anxiety hedgehog manual innocent stem attitude enrich brush amused swamp";
+var mnemonic = "gold season rain uphold topic doctor toe sudden girl goddess weasel ceiling";

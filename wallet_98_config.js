@@ -1,1 +1,1 @@
-var mnemonic = "picnic finger comfort fix more economy blanket pencil grass gate near mountain";
+var mnemonic = "baby blouse verb improve lab sample myself fox spoon sock monkey version";

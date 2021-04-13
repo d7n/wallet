@@ -1,1 +1,1 @@
-var mnemonic = "infant bulk strike aisle give lift involve come turtle common unveil inspire";
+var mnemonic = "deal sauce taste draw wealth actual language stuff february brand gift width";

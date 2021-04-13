@@ -1,1 +1,1 @@
-var mnemonic = "game about announce finish dial milk bid fiber clap decade alien short";
+var mnemonic = "friend devote dutch woman lazy employ rather style soccer become decline demise";

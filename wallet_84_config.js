@@ -1,1 +1,1 @@
-var mnemonic = "space globe stamp stay erosion liquid wolf nephew diagram fetch update rocket";
+var mnemonic = "sure other front whip rigid opera torch athlete stay prosper equal icon";

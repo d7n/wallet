@@ -1,1 +1,1 @@
-var mnemonic = "still text venue since banana figure cost youth lecture federal acoustic guard";
+var mnemonic = "rose shy install chief liar jelly under cousin wine success addict genius";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket boat cattle develop leaf heart reform bleak bring squeeze exercise aisle";
+var mnemonic = "style reunion join unit kitchen zoo chuckle desert maid rich warrior prize";

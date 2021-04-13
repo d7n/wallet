@@ -1,1 +1,1 @@
-var mnemonic = "ahead whisper diet possible moral volume lemon enact reward west minimum weapon";
+var mnemonic = "title aim team same jealous page core slice company goddess front later";

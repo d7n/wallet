@@ -1,1 +1,1 @@
-var mnemonic = "stone rapid fever exhaust wheel cabbage lazy setup unlock market subway food";
+var mnemonic = "lobster rocket bracket rich crowd burger jewel alpha best guess hotel inner";

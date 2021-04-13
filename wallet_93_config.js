@@ -1,1 +1,1 @@
-var mnemonic = "surge grass height sort ginger potato display object vibrant mask gravity transfer";
+var mnemonic = "cheap maid rigid middle torch old whisper apple pair exhibit ramp survey";

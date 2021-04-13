@@ -1,1 +1,1 @@
-var mnemonic = "motor reflect topple dragon wealth bunker essay mouse cherry transfer patch warrior";
+var mnemonic = "squeeze during diamond dad clog uncle wait rose multiply accuse sleep unaware";

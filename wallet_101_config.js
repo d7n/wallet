@@ -1,1 +1,1 @@
-var mnemonic = "volcano electric prepare insane rug copy panda kid rather silk extra believe";
+var mnemonic = "exist summer nominee claim table symbol rib tumble intact acquire surge smile";

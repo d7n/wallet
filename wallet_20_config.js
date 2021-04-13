@@ -1,1 +1,1 @@
-var mnemonic = "tiny frame member sweet task sniff dress palm draft steak cute sand";
+var mnemonic = "ugly sponsor dream suspect have forest bonus draw fly mixture brass hammer";

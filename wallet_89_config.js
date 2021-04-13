@@ -1,1 +1,1 @@
-var mnemonic = "victory wise mom airport someone hair keep baby sign banana disease salmon";
+var mnemonic = "license business quiz bachelor example first feature belt still wage urge endless";
