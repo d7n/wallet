@@ -1,1 +1,1 @@
-var mnemonic = "relax window stamp wrap pear crucial season improve half traffic lonely town";
+var mnemonic = "shrimp another immune mechanic intact symbol invite lunch jump dish poverty vacant";

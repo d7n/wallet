@@ -1,1 +1,1 @@
-var mnemonic = "saddle tiger shine fog amused sunny quit hint enact good flavor sleep";
+var mnemonic = "blur scrap patch hybrid foot rice evoke label few drastic text diesel";

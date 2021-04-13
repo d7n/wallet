@@ -1,1 +1,1 @@
-var mnemonic = "unit exhaust rifle harsh output brown exclude crawl mango soft bronze desk";
+var mnemonic = "general upon barely sand april trial lift assist good sign reopen wing";

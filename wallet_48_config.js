@@ -1,1 +1,1 @@
-var mnemonic = "rabbit nation reform vivid next slim increase loud famous trick impulse random";
+var mnemonic = "ancient small field true magnet metal pave among opera question present portion";

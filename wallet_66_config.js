@@ -1,1 +1,1 @@
-var mnemonic = "stable lion merit dragon various plug jazz fire round police cotton flavor";
+var mnemonic = "client toe fresh walnut depend miss ripple come number junk crime brass";

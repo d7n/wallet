@@ -1,1 +1,1 @@
-var mnemonic = "message all pet catch spare sorry crunch material attract clutch kiss immune";
+var mnemonic = "soap guitar laptop gloom anxiety amateur quiz front champion try amateur acquire";

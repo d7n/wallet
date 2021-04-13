@@ -1,1 +1,1 @@
-var mnemonic = "day bomb blood sun track tiger spice fuel frozen scissors trust mobile";
+var mnemonic = "pledge tilt copy silent curtain distance wait coast gym interest mention grape";

@@ -1,1 +1,1 @@
-var mnemonic = "income give cancel whisper bracket novel found course pluck fire pattern punch";
+var mnemonic = "burger custom galaxy penalty enhance rare sell broken bulb flip feature sock";

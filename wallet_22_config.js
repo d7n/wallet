@@ -1,1 +1,1 @@
-var mnemonic = "harvest tobacco hotel average bring rigid kind champion surprise right second daughter";
+var mnemonic = "divorce hurry school away between melody pluck arrest labor consider auction catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt mule chuckle strike humble bring give salute achieve angry garlic enhance";
+var mnemonic = "harbor approve spy view scheme onion climb tenant belt major slab city";

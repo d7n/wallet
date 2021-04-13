@@ -1,1 +1,1 @@
-var mnemonic = "license limit innocent giraffe path sick deliver slice struggle gravity thank car";
+var mnemonic = "burden coast swing diesel search outer wage mosquito narrow welcome dune orange";

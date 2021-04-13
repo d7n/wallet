@@ -1,1 +1,1 @@
-var mnemonic = "tray chef thought field brave arrive obtain play okay result domain trouble";
+var mnemonic = "car puzzle manage black nest love negative toddler deer rhythm wife average";

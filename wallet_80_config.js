@@ -1,1 +1,1 @@
-var mnemonic = "huge crew hill maze delay since hand hazard armor such grit salt";
+var mnemonic = "write visa twenty choose leave broken spice eager ice tenant traffic avocado";

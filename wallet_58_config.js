@@ -1,1 +1,1 @@
-var mnemonic = "gallery scrub satoshi tower bind narrow cargo misery theme tribe priority actual";
+var mnemonic = "volcano vacuum solution pull theory news snow evidence attract coil ride budget";

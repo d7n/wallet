@@ -1,1 +1,1 @@
-var mnemonic = "beef embrace world vicious front demise luggage auction jewel sign style cloud";
+var mnemonic = "rate elder mean satoshi dirt buffalo item robust monster grape dream split";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise above same lunar achieve ceiling candy speed gasp gospel public crime";
+var mnemonic = "rather hamster candy gown skirt spider invite please unlock salute amount draw";

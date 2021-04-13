@@ -1,1 +1,1 @@
-var mnemonic = "pear ice behave laugh engage penalty iron garage crucial gift cousin acoustic";
+var mnemonic = "film auto harvest can concert payment sign place huge fatal game industry";

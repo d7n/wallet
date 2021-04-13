@@ -1,1 +1,1 @@
-var mnemonic = "debate blanket rapid timber tape zebra job alpha infant mountain problem discover";
+var mnemonic = "cement letter better mean decorate shed usual dose bridge motion rocket fly";

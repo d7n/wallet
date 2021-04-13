@@ -1,1 +1,1 @@
-var mnemonic = "board violin vibrant edit acquire pear side cycle ketchup car rate radio";
+var mnemonic = "want violin lawsuit flat shuffle maze audit six harbor cup innocent that";

@@ -1,1 +1,1 @@
-var mnemonic = "equal car grow question animal attend muscle side vicious chapter explain wrist";
+var mnemonic = "canal news shove company zero soda wonder bitter close lizard blossom eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "volume any talk outside limit jacket reflect velvet pink reopen trip next";
+var mnemonic = "volcano bless wood sudden throw case barely strategy uphold sustain rifle curious";

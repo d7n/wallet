@@ -1,1 +1,1 @@
-var mnemonic = "misery lake jaguar cost deal need lobster orange act icon discover visa";
+var mnemonic = "injury seat gym pitch theory public junk dinner box ethics poet open";

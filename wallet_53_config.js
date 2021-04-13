@@ -1,1 +1,1 @@
-var mnemonic = "antique whale celery suffer achieve fish radar student visa gorilla delay acoustic";
+var mnemonic = "tree quality melody square song remind blossom live version brick someone stock";

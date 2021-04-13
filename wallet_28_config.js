@@ -1,1 +1,1 @@
-var mnemonic = "acoustic orbit inquiry wisdom seed bid noble merry chair that fuel boring";
+var mnemonic = "toe other special dress card void claw twenty vacuum dish occur love";

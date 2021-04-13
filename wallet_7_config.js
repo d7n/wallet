@@ -1,1 +1,1 @@
-var mnemonic = "impose vague thing enrich position fee human mail position cluster hurt affair";
+var mnemonic = "awake story correct scene advance brief piano soon parrot thunder pull pigeon";

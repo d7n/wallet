@@ -1,1 +1,1 @@
-var mnemonic = "type unlock inhale industry reflect castle lake affair document egg call vibrant";
+var mnemonic = "marriage wrong egg rely permit swap bind figure feed worry gift bargain";

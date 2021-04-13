@@ -1,1 +1,1 @@
-var mnemonic = "piece soft talk cruise tuition anger prison ball one damp victory chair";
+var mnemonic = "move strategy ski solution latin eyebrow endless session fat record shine tired";

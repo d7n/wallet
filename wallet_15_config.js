@@ -1,1 +1,1 @@
-var mnemonic = "wear extend night craft banner emerge state exist zero dress critic mirror";
+var mnemonic = "method uncover better garage chimney planet enrich devote custom shoe fluid cliff";

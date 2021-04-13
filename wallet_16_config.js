@@ -1,1 +1,1 @@
-var mnemonic = "green exhibit lady fever area awake bless deposit invite salt antenna club";
+var mnemonic = "thing year auto two endless open label this image cushion size twelve";

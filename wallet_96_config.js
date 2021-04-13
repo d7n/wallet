@@ -1,1 +1,1 @@
-var mnemonic = "just goddess cute adult ride apology during sponsor payment wreck silk gravity";
+var mnemonic = "memory urban example display visa unit various joy case update rubber typical";

@@ -1,1 +1,1 @@
-var mnemonic = "can double dove neck answer mobile mean uniform donor machine afraid square";
+var mnemonic = "hat onion travel wasp laugh organ sustain alone high write neither expose";

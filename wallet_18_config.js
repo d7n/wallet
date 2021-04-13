@@ -1,1 +1,1 @@
-var mnemonic = "fan provide exit dad spider add combine notice cruel broken nature error";
+var mnemonic = "come fancy oxygen simple sketch era arch balcony squeeze captain clock palm";

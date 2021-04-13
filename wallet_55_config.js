@@ -1,1 +1,1 @@
-var mnemonic = "vehicle scissors mom stove club off draw uncle shiver paddle below state";
+var mnemonic = "income merry exchange case toilet hotel next jeans visa sight decide joke";

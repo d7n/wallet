@@ -1,1 +1,1 @@
-var mnemonic = "toe warfare leaf drive desert asset test soccer false palace private trouble";
+var mnemonic = "cactus slim fiction grow social spread swim gain open sick shield mango";

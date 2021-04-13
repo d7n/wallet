@@ -1,1 +1,1 @@
-var mnemonic = "maid name fork swamp leopard battle this size prosper cook boy pistol";
+var mnemonic = "hero stadium pioneer planet agree blouse awesome perfect stay web double bargain";

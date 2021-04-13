@@ -1,1 +1,1 @@
-var mnemonic = "door behind blush pattern guess orange will buffalo smile barrel ethics grid";
+var mnemonic = "pulse minimum payment wage comfort ill film bounce fit payment vocal asset";

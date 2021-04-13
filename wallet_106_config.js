@@ -1,1 +1,1 @@
-var mnemonic = "insect man enjoy beauty enable banana neglect buddy gauge put turtle tongue";
+var mnemonic = "series stand multiply garage gentle wife news dutch sniff swamp blue peace";

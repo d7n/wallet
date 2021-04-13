@@ -1,1 +1,1 @@
-var mnemonic = "caution layer size panda voyage recall fold jeans shrimp behind faint crop";
+var mnemonic = "old fiction rabbit decade over scrub private impulse utility okay delay frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial pitch tiger access bulk dial round mix tornado timber can economy";
+var mnemonic = "solid grape thunder marble swallow position grief police idea amazing very decline";

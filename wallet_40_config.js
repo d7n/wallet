@@ -1,1 +1,1 @@
-var mnemonic = "jewel door axis urge neck frown inside shell library soon clever pitch";
+var mnemonic = "citizen about one ranch mystery put angry topple kick promote gauge van";

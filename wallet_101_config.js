@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow idle cement turtle laptop broken absorb old borrow wood blue repair";
+var mnemonic = "churn spider world balcony stairs chief orphan asthma gas question green main";

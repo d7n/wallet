@@ -1,1 +1,1 @@
-var mnemonic = "deposit tuition question soldier twenty skull giant table arrest gown virus tone";
+var mnemonic = "frozen urban giggle lady sustain outer orange distance virus insect tag music";

@@ -1,1 +1,1 @@
-var mnemonic = "proof close noble riot fresh honey tuition away forget hidden great portion";
+var mnemonic = "noodle fluid magnet orchard duty observe divert chef online report hour consider";

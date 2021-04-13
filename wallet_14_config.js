@@ -1,1 +1,1 @@
-var mnemonic = "idea seed jungle correct token clever force field ostrich business forest fringe";
+var mnemonic = "cereal exit term paper escape green crane engage popular frame clip taxi";

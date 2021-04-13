@@ -1,1 +1,1 @@
-var mnemonic = "security cement bring sample shadow napkin swim win cool occur inspire decorate";
+var mnemonic = "all network dance argue size army welcome purse manual ignore planet shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket grain dumb dawn want luxury draw coach color spot lecture series";
+var mnemonic = "hollow aerobic strategy prevent author cloth mad pet erosion silver margin cruise";

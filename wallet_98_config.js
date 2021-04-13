@@ -1,1 +1,1 @@
-var mnemonic = "erupt general ship party spirit spy rug spin into among urge hello";
+var mnemonic = "crime lounge install auto relax inspire mosquito page pitch mule neck domain";

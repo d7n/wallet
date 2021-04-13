@@ -1,1 +1,1 @@
-var mnemonic = "fiscal infant real unusual thrive garlic unknown absent shiver whip off crazy";
+var mnemonic = "slogan merge field blur cool transfer sniff travel elephant special title power";

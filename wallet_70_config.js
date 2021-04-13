@@ -1,1 +1,1 @@
-var mnemonic = "settle under dream laugh powder ocean beach antique spike gentle close arctic";
+var mnemonic = "author reason credit arena pencil umbrella demise bind alarm hat kidney skill";

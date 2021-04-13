@@ -1,1 +1,1 @@
-var mnemonic = "fire spider piano yellow melody alien pretty camp wrap art chalk view";
+var mnemonic = "crazy vocal repair neither silly bring tomorrow where matter perfect employ mutual";

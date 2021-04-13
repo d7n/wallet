@@ -1,1 +1,1 @@
-var mnemonic = "notable record inflict average buyer breeze stool jazz mobile skirt merry citizen";
+var mnemonic = "quit element credit round oxygen sunny wasp ready abstract phone chase face";

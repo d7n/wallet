@@ -1,1 +1,1 @@
-var mnemonic = "nominee fitness balance direct goose corn need spin venue entire pear hybrid";
+var mnemonic = "cupboard either romance steak lens fat crush amazing engage leave file seek";

@@ -1,1 +1,1 @@
-var mnemonic = "error sunny staff female solid pigeon affair measure output earth eternal boring";
+var mnemonic = "forum employ become bamboo mesh velvet again capable ignore regular gallery conduct";

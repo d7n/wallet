@@ -1,1 +1,1 @@
-var mnemonic = "assume pyramid flee rib kite sorry link mansion nice blouse vague toddler";
+var mnemonic = "rookie prize few screen veteran win badge track outdoor great toy crane";

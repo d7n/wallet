@@ -1,1 +1,1 @@
-var mnemonic = "crucial catch tilt glue boat verify staff swallow swamp trap once place";
+var mnemonic = "final august fat throw tissue vanish require hood aerobic clever mean puzzle";

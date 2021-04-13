@@ -1,1 +1,1 @@
-var mnemonic = "favorite honey ask doll flight alcohol canyon wait come cereal size sunset";
+var mnemonic = "daughter lyrics alien elbow measure vicious find mask alcohol wedding weather fat";

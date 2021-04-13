@@ -1,1 +1,1 @@
-var mnemonic = "upgrade capital electric shock word bean calm fiction all normal pottery runway";
+var mnemonic = "soup index toast rice typical coral biology dynamic pudding spare waste auction";

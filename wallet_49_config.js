@@ -1,1 +1,1 @@
-var mnemonic = "venue twelve carbon heavy guide remember lumber believe couple item castle exit";
+var mnemonic = "foil harsh mutual anchor repair cargo divide yard truth about machine alert";

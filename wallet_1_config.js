@@ -1,1 +1,1 @@
-var mnemonic = "provide lecture cash ill victory myself clog found auto lake diamond fame";
+var mnemonic = "file obey panda sorry assist dose large soon fetch mixed prefer blur";

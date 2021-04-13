@@ -1,1 +1,1 @@
-var mnemonic = "column cram copper drama coach kitchen moral merry divert elevator fatal nice";
+var mnemonic = "gaze clinic clarify inflict region leaf giraffe bicycle crane cube lend poverty";

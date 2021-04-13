@@ -1,1 +1,1 @@
-var mnemonic = "snake vital nation bus useless hotel truck defy dog ankle flock vivid";
+var mnemonic = "runway custom crane favorite consider crash dismiss grass report october three noise";

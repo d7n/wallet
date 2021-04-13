@@ -1,1 +1,1 @@
-var mnemonic = "model hire easily install recall square affair chase stadium question fuel economy";
+var mnemonic = "trim stable hedgehog pitch wagon rebuild fold deal jeans warfare board license";

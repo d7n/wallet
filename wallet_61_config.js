@@ -1,1 +1,1 @@
-var mnemonic = "couch foam chuckle robot topple enable person inform throw avocado banner sense";
+var mnemonic = "resource digital extra blue dinosaur nose index lucky gallery can divert force";

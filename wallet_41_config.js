@@ -1,1 +1,1 @@
-var mnemonic = "item much slow keen jewel spell violin brave gold left nest hybrid";
+var mnemonic = "cabin squirrel dish exotic frown slow noble cruel fiction bid tree rib";

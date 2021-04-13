@@ -1,1 +1,1 @@
-var mnemonic = "ivory junk cry enemy bulk term snake medal own artist blast advance";
+var mnemonic = "leisure payment glare history amateur dawn ship immense material melt render snack";

@@ -1,1 +1,1 @@
-var mnemonic = "identify ghost film become because talk attack core inquiry shop emotion address";
+var mnemonic = "profit inspire royal horror prevent foster have say ask bread fabric labor";

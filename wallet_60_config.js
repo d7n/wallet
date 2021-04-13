@@ -1,1 +1,1 @@
-var mnemonic = "affair switch stamp way author practice portion obey pony congress fragile sand";
+var mnemonic = "mix army winter divert woman keen distance miracle vivid sail title defy";

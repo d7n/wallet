@@ -1,1 +1,1 @@
-var mnemonic = "neither lazy blame fatigue race man fitness safe merit discover start episode";
+var mnemonic = "claw umbrella ripple trust glue swear often crush rule found fringe dirt";

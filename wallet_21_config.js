@@ -1,1 +1,1 @@
-var mnemonic = "net artist print thought inner master position smart hint trumpet busy parent";
+var mnemonic = "crawl glimpse now audit weapon write cereal quarter jazz calm gap drastic";

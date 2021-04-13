@@ -1,1 +1,1 @@
-var mnemonic = "canoe quality balcony layer certain hazard attend canvas crawl twin unlock stay";
+var mnemonic = "boy awake lawsuit finish dentist dwarf damage coyote expand dragon jeans slam";

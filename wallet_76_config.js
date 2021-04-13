@@ -1,1 +1,1 @@
-var mnemonic = "appear machine child mimic must super term prize range attend peanut learn";
+var mnemonic = "mass future foam unlock dress grain timber win hire pride pulp deposit";

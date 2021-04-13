@@ -1,1 +1,1 @@
-var mnemonic = "spare rail harvest despair liquid fitness brisk stage crouch chief welcome topple";
+var mnemonic = "scrub syrup supreme episode palace soup train cereal awful local visual simple";

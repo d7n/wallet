@@ -1,1 +1,1 @@
-var mnemonic = "fit journey vague example noble shaft wheel august addict grain high answer";
+var mnemonic = "position ahead lawn uphold surge nut print topple maple blossom orbit print";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse village diamond crouch crew copy bleak elephant balcony illness evil super";
+var mnemonic = "behind essay fruit resemble lucky major history item vendor abuse practice awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "easily essence second image dress during hospital grace uncle harvest produce harvest";
+var mnemonic = "afford train flush novel gas loop clerk orient blush cave decorate tree";

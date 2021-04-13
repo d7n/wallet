@@ -1,1 +1,1 @@
-var mnemonic = "join letter chief piano speak various above must drive change buffalo neglect";
+var mnemonic = "profit sure private clutch wish lazy canal surround display kick cage venue";

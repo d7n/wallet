@@ -1,1 +1,1 @@
-var mnemonic = "debate creek price thunder oil gauge evil puzzle undo outside sniff husband";
+var mnemonic = "such decorate limb battle hungry network original coach idle letter adapt summer";

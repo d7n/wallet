@@ -1,1 +1,1 @@
-var mnemonic = "rival theme coyote twelve drip secret course plug march dynamic sadness broken";
+var mnemonic = "convince swing lend police view bid kite fatigue result wash husband tackle";

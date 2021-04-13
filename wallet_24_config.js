@@ -1,1 +1,1 @@
-var mnemonic = "catalog only people boss render hip cat install predict bleak lounge cube";
+var mnemonic = "match blouse garbage trap balance spider item expect fox cable harvest tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "then scan barrel leader human crack vanish accuse source curtain parrot attitude";
+var mnemonic = "reopen large hint under design stove giggle change traffic chuckle sense siren";

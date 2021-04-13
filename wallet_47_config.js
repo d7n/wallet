@@ -1,1 +1,1 @@
-var mnemonic = "loud street length orange naive slogan wet ugly wire suggest useful legend";
+var mnemonic = "process order super brown garlic addict grocery income cram minor toast help";

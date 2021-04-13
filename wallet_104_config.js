@@ -1,1 +1,1 @@
-var mnemonic = "snake clinic script inner labor ensure result like wage seminar turkey choice";
+var mnemonic = "frown debate satisfy excuse reject equal rebuild hero buffalo number surge used";

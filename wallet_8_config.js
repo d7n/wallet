@@ -1,1 +1,1 @@
-var mnemonic = "rule august rival crisp include close one warm model lyrics orbit differ";
+var mnemonic = "pencil bread convince unusual start group trip silver actress census oil differ";

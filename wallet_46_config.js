@@ -1,1 +1,1 @@
-var mnemonic = "team scatter polar maze demise music grief busy impose cannon reduce measure";
+var mnemonic = "media tortoise kit female link acquire leopard tumble uphold spin wood cube";

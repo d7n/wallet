@@ -1,1 +1,1 @@
-var mnemonic = "tenant wine tourist any seven hazard danger plug loan afraid assist afford";
+var mnemonic = "debris exile milk zebra cushion fantasy exclude rifle space congress drink drum";

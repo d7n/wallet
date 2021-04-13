@@ -1,1 +1,1 @@
-var mnemonic = "heart liquid attitude pudding blame denial odor shrug state link palace slam";
+var mnemonic = "medal vote phone tool transfer never ability tribe wife waste weapon essay";
