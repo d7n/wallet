@@ -1,1 +1,1 @@
-var mnemonic = "other tilt fantasy hazard bicycle limit normal donor family volume general usual";
+var mnemonic = "hole say around two weekend deny layer opinion present tiger unfair voice";

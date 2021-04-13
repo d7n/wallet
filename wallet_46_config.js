@@ -1,1 +1,1 @@
-var mnemonic = "easy during release web weapon text reflect shop fever much hand output";
+var mnemonic = "social fuel main frog omit erosion boost more govern gallery chief element";

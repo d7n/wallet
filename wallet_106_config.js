@@ -1,1 +1,1 @@
-var mnemonic = "oxygen alarm stereo license script beyond usual add team butter mesh heart";
+var mnemonic = "there endless young pole enemy banner wish kit input fiscal today subject";

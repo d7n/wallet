@@ -1,1 +1,1 @@
-var mnemonic = "boring myth similar cheese exhibit dice loud hobby expire indicate language basket";
+var mnemonic = "movie park fiscal wet frame mercy chair gather peasant radio chronic fresh";

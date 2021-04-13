@@ -1,1 +1,1 @@
-var mnemonic = "patient visit quick victory crush bean grant split adjust convince dog crazy";
+var mnemonic = "runway token course remain equip laundry spoon recycle valley avoid tonight tool";

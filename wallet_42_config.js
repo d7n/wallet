@@ -1,1 +1,1 @@
-var mnemonic = "fashion ancient one wing favorite already bone seek have junior firm velvet";
+var mnemonic = "purity dish used base shoot column sibling pact acid improve silk knee";

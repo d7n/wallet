@@ -1,1 +1,1 @@
-var mnemonic = "reason brick air toe food curtain fine pioneer car surge yard spider";
+var mnemonic = "remain what sentence radar column reflect infant tissue join lounge room jaguar";

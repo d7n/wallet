@@ -1,1 +1,1 @@
-var mnemonic = "little razor decline pair side mad defy improve nephew gorilla cloud upset";
+var mnemonic = "artist plate salmon flip deny hen pretty pride kiwi bean desert brain";

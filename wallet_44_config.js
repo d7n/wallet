@@ -1,1 +1,1 @@
-var mnemonic = "canyon portion diary express idle laundry horror real same nation index measure";
+var mnemonic = "bundle ladder shock science shrimp degree record six heavy slight lyrics near";

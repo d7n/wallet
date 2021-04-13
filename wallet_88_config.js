@@ -1,1 +1,1 @@
-var mnemonic = "culture stage grief winter believe assault sad artwork grunt warm ostrich unhappy";
+var mnemonic = "sheriff total toy term elbow consider craft question suit coral range subway";

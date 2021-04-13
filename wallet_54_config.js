@@ -1,1 +1,1 @@
-var mnemonic = "unlock cupboard kangaroo feature shove silver crazy gravity offer program tool three";
+var mnemonic = "improve fiction way there inhale there turkey gap guard emotion upgrade click";

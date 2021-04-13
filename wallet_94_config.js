@@ -1,1 +1,1 @@
-var mnemonic = "switch arctic illness vicious quote sport plunge anchor fork sun north fatal";
+var mnemonic = "brief post artwork eagle fault order crouch food village culture mouse hospital";

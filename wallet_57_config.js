@@ -1,1 +1,1 @@
-var mnemonic = "whisper fossil upon access narrow garbage sock pupil salon move universe lucky";
+var mnemonic = "drastic become brave regular spell exclude dentist boring follow detect renew cloud";

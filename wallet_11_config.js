@@ -1,1 +1,1 @@
-var mnemonic = "company happy grass lizard garlic pride runway palace gather improve potato reject";
+var mnemonic = "snap hawk harsh push ahead urban actual perfect marble imitate cost burden";

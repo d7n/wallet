@@ -1,1 +1,1 @@
-var mnemonic = "ride future waste struggle intact aim find flower crew time spawn capable";
+var mnemonic = "intact discover share night magnet danger rigid blanket federal quit gloom dream";

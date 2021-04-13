@@ -1,1 +1,1 @@
-var mnemonic = "large ripple autumn oppose cactus circle asset afford about scheme garden egg";
+var mnemonic = "obtain display settle spider uphold target blossom inject become emotion prosper flip";

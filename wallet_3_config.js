@@ -1,1 +1,1 @@
-var mnemonic = "forget cousin wide seat baby noodle type census early recall mobile evolve";
+var mnemonic = "stuff outdoor blush tunnel garment clutch shoe large manage light rescue deer";

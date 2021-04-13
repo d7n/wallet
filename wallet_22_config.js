@@ -1,1 +1,1 @@
-var mnemonic = "mobile daring gravity idea multiply ripple run insane neutral also genre balance";
+var mnemonic = "begin avoid medal exhibit quit render rare advice digital ski aerobic romance";

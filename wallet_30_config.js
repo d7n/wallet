@@ -1,1 +1,1 @@
-var mnemonic = "copper frown spell deliver miracle height own box decline gossip island thunder";
+var mnemonic = "era warrior vital glory sting citizen gain carpet saddle cash safe endorse";

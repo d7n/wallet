@@ -1,1 +1,1 @@
-var mnemonic = "arrive topic explain ten cover person pistol vehicle gain tunnel shrimp ripple";
+var mnemonic = "audit letter spin false aware flush number crisp silk yard surprise badge";

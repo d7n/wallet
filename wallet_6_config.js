@@ -1,1 +1,1 @@
-var mnemonic = "wealth miss shadow either destroy bunker coyote pattern laptop sphere response utility";
+var mnemonic = "treat melody key frown high report tortoise melt lend bike useless solar";

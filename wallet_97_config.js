@@ -1,1 +1,1 @@
-var mnemonic = "rack pen balcony lion sunny science farm excite message entire silver river";
+var mnemonic = "already brass future project spice grass orange crane stool meadow dash velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "basic mother release tomato trip hospital dwarf loyal bench square amused infant";
+var mnemonic = "help body man anxiety make window favorite payment siege cool toy will";

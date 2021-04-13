@@ -1,1 +1,1 @@
-var mnemonic = "pride possible gift tobacco giggle rose used ski square enforce fan canoe";
+var mnemonic = "where hour veteran busy finish axis build length affair setup scout strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo gesture direct comic weekend example puzzle chief arena audit seek pattern";
+var mnemonic = "audit cage blush point differ window proof believe remain castle sound great";

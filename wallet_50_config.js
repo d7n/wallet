@@ -1,1 +1,1 @@
-var mnemonic = "narrow trip fatigue enemy sniff horse mail machine mind middle soul differ";
+var mnemonic = "rookie vicious stone captain crew resemble rifle biology crucial harbor extend okay";

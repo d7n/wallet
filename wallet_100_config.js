@@ -1,1 +1,1 @@
-var mnemonic = "pact cake cradle dinner virtual daring useless elephant torch want large track";
+var mnemonic = "swear gallery rough enjoy reopen valid monkey lemon net card loop mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "copy sing custom fringe unveil that valid memory pipe impose glory imitate";
+var mnemonic = "steak what shuffle okay dragon consider whip funny phone ice piece improve";

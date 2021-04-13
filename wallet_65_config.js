@@ -1,1 +1,1 @@
-var mnemonic = "island pledge hard start mother lab almost soft boss drift six proud";
+var mnemonic = "response observe fancy puzzle father meadow fish hammer maid simple monkey fish";

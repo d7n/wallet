@@ -1,1 +1,1 @@
-var mnemonic = "witness mom smile will scan stone relax fitness panther federal rate cannon";
+var mnemonic = "tennis route duck flight again brain already priority narrow similar wonder isolate";

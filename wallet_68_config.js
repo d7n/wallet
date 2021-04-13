@@ -1,1 +1,1 @@
-var mnemonic = "company supply celery machine want friend chase tower senior sail obscure milk";
+var mnemonic = "helmet army student laundry toward follow clock float west nuclear swarm finish";

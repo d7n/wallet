@@ -1,1 +1,1 @@
-var mnemonic = "pottery number candy park present ten pond monitor insane express cruel light";
+var mnemonic = "gym ten stool kiwi rail pair rebuild lounge brass city act duty";

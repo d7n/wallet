@@ -1,1 +1,1 @@
-var mnemonic = "exercise topple maximum exit like shrimp hurdle seat embark same catalog liquid";
+var mnemonic = "dish flock silver quantum family better kitchen axis crime inject word opinion";

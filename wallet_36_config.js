@@ -1,1 +1,1 @@
-var mnemonic = "twenty duty edit evidence truly crisp glad ostrich weapon able parrot initial";
+var mnemonic = "state ticket crazy convince snap blouse topple buyer agree recall ill boost";

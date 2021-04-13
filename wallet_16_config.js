@@ -1,1 +1,1 @@
-var mnemonic = "one lazy tribe obvious hill arctic shock angry hammer stereo mountain push";
+var mnemonic = "online bounce floor layer able fence kick fantasy desert critic antique fork";

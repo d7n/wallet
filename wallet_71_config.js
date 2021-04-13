@@ -1,1 +1,1 @@
-var mnemonic = "task hurry later employ rich accident rude cherry leg moral merit fragile";
+var mnemonic = "quote shallow perfect regret general family limit devote buffalo weather custom shift";

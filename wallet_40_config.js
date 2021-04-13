@@ -1,1 +1,1 @@
-var mnemonic = "winter domain try fashion shield swap equip vacuum guide dial empower phone";
+var mnemonic = "leave poem firm pig credit picnic autumn surround relax cannon owner core";

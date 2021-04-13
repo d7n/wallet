@@ -1,1 +1,1 @@
-var mnemonic = "pass explain region put discover tourist defense dog document whisper toward roof";
+var mnemonic = "auto roof east future fame evidence decide culture act faith similar sport";

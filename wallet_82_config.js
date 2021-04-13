@@ -1,1 +1,1 @@
-var mnemonic = "wait host hello float sick spike ticket anchor endless envelope pledge develop";
+var mnemonic = "giraffe turtle table inmate where junk grass winter hurt salon pioneer below";

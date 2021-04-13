@@ -1,1 +1,1 @@
-var mnemonic = "note spirit exact weather bundle find dove salad story foot sponsor can";
+var mnemonic = "surround salon slot nice gospel obscure language year ancient ghost goose dismiss";

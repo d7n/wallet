@@ -1,1 +1,1 @@
-var mnemonic = "fire fresh duty diamond humble state example pipe captain civil bench again";
+var mnemonic = "hedgehog ensure curious hundred sleep pizza top address two cry taxi few";

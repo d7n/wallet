@@ -1,1 +1,1 @@
-var mnemonic = "main grace wink soon welcome climb monitor harbor pride fold news swear";
+var mnemonic = "biology fog dash argue kit layer furnace measure link strategy bone canoe";

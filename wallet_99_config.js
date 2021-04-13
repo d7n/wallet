@@ -1,1 +1,1 @@
-var mnemonic = "tag plastic catch cable virus inject weird fun horse wait stumble police";
+var mnemonic = "horse gallery text chef balcony pitch shallow fresh rapid snack hidden midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "mad atom mimic imitate below upset rocket right balance cage total metal";
+var mnemonic = "repair wet bracket leaf dash sport crane tooth furnace shed glory general";

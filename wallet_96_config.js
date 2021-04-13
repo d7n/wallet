@@ -1,1 +1,1 @@
-var mnemonic = "mail helmet science mule fury shadow forest since million exist pledge total";
+var mnemonic = "powder girl endless fantasy crew swap sweet title lobster nose better insect";

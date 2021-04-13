@@ -1,1 +1,1 @@
-var mnemonic = "future manual slide reward potato side draw donkey tuition car crucial husband";
+var mnemonic = "firm hobby helmet hub critic entire tool range envelope hobby minor system";

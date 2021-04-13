@@ -1,1 +1,1 @@
-var mnemonic = "profit lazy inherit piano galaxy spice abstract level future staff bronze purity";
+var mnemonic = "innocent decline cousin detail soldier acoustic worth remove range foster panel scale";

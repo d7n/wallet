@@ -1,1 +1,1 @@
-var mnemonic = "cloud power state witness fantasy early scrap again assault awkward panther oven";
+var mnemonic = "piece survey tent hope retire engage window dose outdoor ladder clerk giraffe";

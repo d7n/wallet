@@ -1,1 +1,1 @@
-var mnemonic = "peanut allow atom expect season cradle wise gap behave seven risk rough";
+var mnemonic = "soft access prepare sad estate flame upgrade pride crumble resist depart wire";

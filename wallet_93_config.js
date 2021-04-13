@@ -1,1 +1,1 @@
-var mnemonic = "resource luxury vendor click palm vast close bring clay describe pen spell";
+var mnemonic = "wonder rapid cool truly add expect hurt observe wall photo worth ring";

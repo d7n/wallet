@@ -1,1 +1,1 @@
-var mnemonic = "lyrics unlock near actual muffin gentle misery multiply suspect vague fat charge";
+var mnemonic = "urge idle orphan awkward coconut rich sport you mule canoe hundred retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "limb travel mean ozone raw smile hazard cute make frost toy invite";
+var mnemonic = "street pony rebel volcano jacket antique divert lend order what iron section";

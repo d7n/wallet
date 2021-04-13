@@ -1,1 +1,1 @@
-var mnemonic = "day fruit uphold flame twelve flame board learn tent mask shrug shy";
+var mnemonic = "mushroom gallery athlete spell suggest cotton squeeze indoor chimney fame dignity inside";

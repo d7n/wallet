@@ -1,1 +1,1 @@
-var mnemonic = "bleak energy virus among assault palm seat tribe syrup quote worth source";
+var mnemonic = "pyramid elite foster sun wreck oyster flavor cook tattoo record outside double";

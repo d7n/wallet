@@ -1,1 +1,1 @@
-var mnemonic = "you learn gap margin rug town retire service need ivory gold uncover";
+var mnemonic = "face nominee cannon exotic adapt will road sad juice quote route length";

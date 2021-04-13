@@ -1,1 +1,1 @@
-var mnemonic = "people more know sadness jacket inquiry chef road body film bargain oil";
+var mnemonic = "lawn bronze dumb alert boy mean young wrist screen glory blush access";

@@ -1,1 +1,1 @@
-var mnemonic = "card next twin stay potato better rich list improve walnut amount monitor";
+var mnemonic = "penalty option tomato crash dragon abstract shadow fat auto crush multiply banana";

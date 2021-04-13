@@ -1,1 +1,1 @@
-var mnemonic = "rubber romance tenant garlic snake pact notice aware glow close ripple gossip";
+var mnemonic = "egg situate olympic siege spawn fossil glow unaware aunt chimney curious job";

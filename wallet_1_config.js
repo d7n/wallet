@@ -1,1 +1,1 @@
-var mnemonic = "open shy scrub recipe oppose fault surge episode sorry plunge never require";
+var mnemonic = "hold embark uphold bubble film video rival brain olive maid climb leave";

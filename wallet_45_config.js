@@ -1,1 +1,1 @@
-var mnemonic = "fiber myth bullet reunion blade labor isolate business response ready borrow acoustic";
+var mnemonic = "minimum object gesture banana pride pink huge skill exile toe knee crush";

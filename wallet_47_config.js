@@ -1,1 +1,1 @@
-var mnemonic = "approve clever business liquid kid trigger code similar rail kiss goose call";
+var mnemonic = "canvas pilot order screen dry describe license arrow moon more unveil quality";

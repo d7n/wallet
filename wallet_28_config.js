@@ -1,1 +1,1 @@
-var mnemonic = "kiss beef bid saddle mountain fame shadow digital alter neutral first neglect";
+var mnemonic = "grunt error clutch reward ask coral excuse creek inflict consider turtle crush";

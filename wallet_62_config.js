@@ -1,1 +1,1 @@
-var mnemonic = "program mail crucial task inquiry hero permit report library glass equal seminar";
+var mnemonic = "uncle water soon muscle direct air admit butter feed chief denial squirrel";

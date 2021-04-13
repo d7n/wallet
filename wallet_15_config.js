@@ -1,1 +1,1 @@
-var mnemonic = "own sleep buyer pupil wish film doll tube ill eye desert decline";
+var mnemonic = "mercy link client expire about snack elephant witness art mass basket melt";

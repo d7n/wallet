@@ -1,1 +1,1 @@
-var mnemonic = "similar renew clip whip burger arm negative badge yard zoo biology gallery";
+var mnemonic = "must burden have abuse accident twist baby resist merge lecture tunnel pen";

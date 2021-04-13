@@ -1,1 +1,1 @@
-var mnemonic = "guide head filter bronze hood radio pledge disagree dial casual pizza shock";
+var mnemonic = "female dog piece release neutral exhaust crack height volume math tackle suffer";

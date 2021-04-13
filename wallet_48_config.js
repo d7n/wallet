@@ -1,1 +1,1 @@
-var mnemonic = "noise canoe airport swift web life menu aerobic supreme black dizzy matrix";
+var mnemonic = "ten raccoon uphold exhibit six armed trend talk finger desk chuckle duty";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce awful brush actress hospital better open frozen rent wave fiscal lonely";
+var mnemonic = "ship warfare under suspect deal brush sad artefact come naive detect hard";

@@ -1,1 +1,1 @@
-var mnemonic = "rally devote moon visa private wrap achieve ride radio short eternal wealth";
+var mnemonic = "afraid enjoy message canyon fun please reopen figure tuna mosquito afford fuel";

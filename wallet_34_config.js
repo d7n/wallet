@@ -1,1 +1,1 @@
-var mnemonic = "base coil thought excite jelly vapor lift enroll boy fly uncle gadget";
+var mnemonic = "indoor rabbit predict desert agree cactus ignore double patch peasant history area";

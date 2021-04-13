@@ -1,1 +1,1 @@
-var mnemonic = "meat cross all gorilla wrestle labor coconut cement level danger switch film";
+var mnemonic = "more shadow close inside pen tank section pet output duck smooth venture";

@@ -1,1 +1,1 @@
-var mnemonic = "quick dash chapter donate physical sunny castle discover dirt review palace rubber";
+var mnemonic = "just method staff either social talent vast index coach balance begin foil";

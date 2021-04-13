@@ -1,1 +1,1 @@
-var mnemonic = "lobster advance similar code artefact cause spot ten rabbit ridge subway result";
+var mnemonic = "crumble soul junior limb letter know circle stock rhythm phrase bundle half";

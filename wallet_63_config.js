@@ -1,1 +1,1 @@
-var mnemonic = "episode energy volcano happy genius plunge control music check snack project cricket";
+var mnemonic = "corn travel penalty run ring what predict deliver boss profit man guide";

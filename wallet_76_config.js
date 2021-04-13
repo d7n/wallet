@@ -1,1 +1,1 @@
-var mnemonic = "donkey shift perfect pioneer into kick eight raw world often floor monster";
+var mnemonic = "humor gun between deer want dove volcano trumpet fit dad dwarf master";

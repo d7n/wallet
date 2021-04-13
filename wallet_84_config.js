@@ -1,1 +1,1 @@
-var mnemonic = "cotton repeat fat trash impulse only tank frown physical remove police foil";
+var mnemonic = "again occur below talk another hold monitor ride stool pulse wheat physical";

@@ -1,1 +1,1 @@
-var mnemonic = "silly wife right assist better seed curious abuse afford cheese nice cereal";
+var mnemonic = "mixed snake alpha siren erupt useful dinner blossom team panic slush trumpet";

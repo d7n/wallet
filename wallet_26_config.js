@@ -1,1 +1,1 @@
-var mnemonic = "cross split fiscal raise saddle clean attract label space black annual account";
+var mnemonic = "unknown differ connect obvious update illness casual van demand super chronic spare";

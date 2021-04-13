@@ -1,1 +1,1 @@
-var mnemonic = "choose scout person game dawn lawn deputy reunion story bacon pave consider";
+var mnemonic = "assist asthma ripple pilot length milk extra clean mom team unusual room";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern coffee useful jelly gadget film cycle color tortoise farm position agent";
+var mnemonic = "ill snap hurdle elbow picture crunch multiply call leader orient program fresh";

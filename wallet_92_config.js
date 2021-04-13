@@ -1,1 +1,1 @@
-var mnemonic = "excess weapon rail invite angle ethics swallow drive february hover tone casino";
+var mnemonic = "item enable lecture jealous stomach dad tuition elephant spy height story gesture";

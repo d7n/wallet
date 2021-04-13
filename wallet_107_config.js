@@ -1,1 +1,1 @@
-var mnemonic = "select hamster ecology talent stone shed raven expose river wasp whale gas";
+var mnemonic = "donate uphold math journey ordinary prison know sunny inhale soup bracket cry";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold position donkey elephant genre screen someone spare equal door brain family";
+var mnemonic = "employ toilet about adapt evil decorate toddler furnace input whale master man";

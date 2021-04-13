@@ -1,1 +1,1 @@
-var mnemonic = "upgrade session grow forget barely zoo quick squirrel below when rose various";
+var mnemonic = "accident insane work receive rare huge frequent castle century embark sugar ignore";

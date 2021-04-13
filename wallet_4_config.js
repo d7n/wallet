@@ -1,1 +1,1 @@
-var mnemonic = "reason peace maze autumn sail dinner wine almost degree glimpse wage message";
+var mnemonic = "meat remind friend main visit behave pyramid intact vocal oval fantasy man";

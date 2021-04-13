@@ -1,1 +1,1 @@
-var mnemonic = "source cruel ivory globe dinosaur foil stove zero width wish abstract enhance";
+var mnemonic = "ozone join floor steel stairs now brick sort song satoshi bridge digital";

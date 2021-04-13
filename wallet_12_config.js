@@ -1,1 +1,1 @@
-var mnemonic = "unfold stairs number enjoy render exercise open wonder source title enroll blur";
+var mnemonic = "honey when viable orphan enemy west unusual trap setup taste gas purse";

@@ -1,1 +1,1 @@
-var mnemonic = "fever check area ready soft music tape verb lumber imitate mother play";
+var mnemonic = "explain virtual lesson oven lawsuit camera afraid prison weekend sell stay reason";

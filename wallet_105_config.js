@@ -1,1 +1,1 @@
-var mnemonic = "wink thing choice wagon state where group inhale choose bus wish salad";
+var mnemonic = "below flash risk ordinary harbor repeat include entire element joke faculty auction";

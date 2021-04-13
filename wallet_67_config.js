@@ -1,1 +1,1 @@
-var mnemonic = "deal hour pudding fox secret attract spawn layer crucial stock soup fit";
+var mnemonic = "alert become rally goddess early nut issue exhibit eyebrow grid since junk";

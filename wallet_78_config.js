@@ -1,1 +1,1 @@
-var mnemonic = "deal term cricket sentence escape artefact elevator fluid can armor wet gauge";
+var mnemonic = "market useless park myth round grass wrap oblige nut seat raccoon chimney";

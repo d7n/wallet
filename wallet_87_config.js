@@ -1,1 +1,1 @@
-var mnemonic = "burst elbow inspire spend obtain kiwi slam method forget aware immense embark";
+var mnemonic = "winner vehicle feature general jeans bracket extend differ wheat mention mixture game";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker napkin sea february message duck rent search blast another shock fan";
+var mnemonic = "cereal cousin number rent luxury sunset wool nation spawn cushion second letter";
