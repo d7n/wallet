@@ -1,1 +1,1 @@
-var mnemonic = "away voyage account scrap creek nothing tank arena web burger thunder glory";
+var mnemonic = "dry connect dash wrestle donate panel alone secret tribe salon distance obvious";

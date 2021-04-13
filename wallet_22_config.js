@@ -1,1 +1,1 @@
-var mnemonic = "exclude abstract excite insane grape layer pond orange prize suspect soda happy";
+var mnemonic = "sail please culture sleep cloud version narrow mind unfold timber blouse muffin";

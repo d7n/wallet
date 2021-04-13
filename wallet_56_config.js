@@ -1,1 +1,1 @@
-var mnemonic = "rice neither patch toast glory slush judge cash foster cement march live";
+var mnemonic = "jewel liberty front wink cannon employ save dragon almost return comic cruel";

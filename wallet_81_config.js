@@ -1,1 +1,1 @@
-var mnemonic = "skirt jelly primary action dismiss rude label lesson second admit dinner orphan";
+var mnemonic = "dumb sting banana mind title throw flavor love hybrid position reflect exhaust";

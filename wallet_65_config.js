@@ -1,1 +1,1 @@
-var mnemonic = "purse license cherry glue blush nut truly rhythm action above mango project";
+var mnemonic = "will holiday dry slot concert empower actress omit park city ladder olive";

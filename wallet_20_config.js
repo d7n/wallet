@@ -1,1 +1,1 @@
-var mnemonic = "spell pen cram slab rib margin kidney syrup ginger sunny hunt sort";
+var mnemonic = "curious credit electric bid bitter lab liquid debris salon call castle maid";

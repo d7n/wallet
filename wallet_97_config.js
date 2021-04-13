@@ -1,1 +1,1 @@
-var mnemonic = "table lock flag speed bench table once ethics prepare vital close online";
+var mnemonic = "favorite spend struggle need put owner praise antique genius kind similar access";

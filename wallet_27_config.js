@@ -1,1 +1,1 @@
-var mnemonic = "bunker limit rain domain estate gas flee demand short noodle flock pledge";
+var mnemonic = "clever certain board dust deer depth charge cage kidney tourist retire pudding";

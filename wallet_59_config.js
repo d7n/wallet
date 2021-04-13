@@ -1,1 +1,1 @@
-var mnemonic = "dress over tent pole plunge kiss run alley domain dove answer foil";
+var mnemonic = "enforce cliff manual display sign cart yellow swamp blade cake cream knife";

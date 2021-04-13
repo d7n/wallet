@@ -1,1 +1,1 @@
-var mnemonic = "turkey border alone length upset brave extra bamboo harsh embrace curve cousin";
+var mnemonic = "glimpse obscure mansion junior gentle act fortune virtual equip kiss plate success";

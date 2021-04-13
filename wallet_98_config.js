@@ -1,1 +1,1 @@
-var mnemonic = "ridge rack book cherry tissue year dice street shy narrow runway brisk";
+var mnemonic = "thunder reject radar custom asthma follow cross punch antenna expire beach security";

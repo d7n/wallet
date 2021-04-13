@@ -1,1 +1,1 @@
-var mnemonic = "figure kind lunch sign episode waste chimney occur noble drill sentence nasty";
+var mnemonic = "usage floor move allow match thunder height hub tuna city skate involve";

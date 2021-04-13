@@ -1,1 +1,1 @@
-var mnemonic = "enemy place stumble method danger assume enact write demise family predict scale";
+var mnemonic = "speed must salmon paper build amazing audit brush grant shoe tower boost";

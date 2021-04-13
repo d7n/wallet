@@ -1,1 +1,1 @@
-var mnemonic = "film accuse erase receive soldier pony message around coast scissors indicate weekend";
+var mnemonic = "frame place among wall side before beauty salon early need miracle attitude";

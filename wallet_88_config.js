@@ -1,1 +1,1 @@
-var mnemonic = "radar salute happy system valley moral device coil edit monkey number trouble";
+var mnemonic = "six ticket sudden canyon corn benefit left cigar magnet sock gain cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "remind dirt speed piece modify eagle slide dress slab veteran crucial fun";
+var mnemonic = "spray radio sing start tissue accuse slow pond best young castle coyote";

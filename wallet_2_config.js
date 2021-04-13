@@ -1,1 +1,1 @@
-var mnemonic = "slim coast path citizen blast very reunion brother nephew fresh undo quick";
+var mnemonic = "puppy little glance gun dust music sorry move pepper salute code style";

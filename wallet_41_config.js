@@ -1,1 +1,1 @@
-var mnemonic = "wait clip lounge portion steak athlete sock prefer coral alley frown man";
+var mnemonic = "impulse relax diesel extra escape foster close isolate nasty again olympic first";

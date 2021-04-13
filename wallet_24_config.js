@@ -1,1 +1,1 @@
-var mnemonic = "there defy sponsor night twin brief hair night become peace song issue";
+var mnemonic = "steel opera humor split meat treat unusual ticket swing furnace select husband";

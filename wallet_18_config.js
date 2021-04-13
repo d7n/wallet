@@ -1,1 +1,1 @@
-var mnemonic = "decorate peasant artist dismiss whale acid armor used coast book dose leaf";
+var mnemonic = "onion typical thing raven horror bean salute brief shove weird intact prize";

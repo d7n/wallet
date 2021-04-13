@@ -1,1 +1,1 @@
-var mnemonic = "carbon bunker feature hotel park believe neither feature blind ankle expose spring";
+var mnemonic = "about kidney student sausage piano rival liar digital resource cage fish menu";

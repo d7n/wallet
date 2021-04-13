@@ -1,1 +1,1 @@
-var mnemonic = "clip glance bachelor guard radio you choose vanish earn awake cave design";
+var mnemonic = "image radar profit eight arena shallow whip brother lizard inflict helmet monkey";

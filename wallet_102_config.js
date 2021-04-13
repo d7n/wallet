@@ -1,1 +1,1 @@
-var mnemonic = "company burden drink plate spy bomb oyster include monitor post drastic sight";
+var mnemonic = "exit deer gain law smooth basket panther ladder habit program cry deputy";

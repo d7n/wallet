@@ -1,1 +1,1 @@
-var mnemonic = "scale length ticket shed image praise path victory essence arm useless spot";
+var mnemonic = "antique zoo boost endorse interest lava smooth coffee add deer liquid improve";

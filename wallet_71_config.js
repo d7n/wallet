@@ -1,1 +1,1 @@
-var mnemonic = "ring region hedgehog visit genuine diet bitter method cargo stereo waste turn";
+var mnemonic = "cactus romance foil miracle vote twice path youth liquid divide sketch fat";

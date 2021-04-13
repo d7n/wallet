@@ -1,1 +1,1 @@
-var mnemonic = "romance october risk food latin brief gauge fancy where steel caught swear";
+var mnemonic = "power damage curve decide excuse tomato skate little weather snap bamboo tourist";

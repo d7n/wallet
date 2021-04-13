@@ -1,1 +1,1 @@
-var mnemonic = "split envelope wage diagram pelican start inform intact clerk spy round wasp";
+var mnemonic = "hen dove chat honey never exile mistake soldier list season any decade";

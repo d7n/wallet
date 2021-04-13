@@ -1,1 +1,1 @@
-var mnemonic = "usage egg crowd transfer album sick sunset fruit license dream odor permit";
+var mnemonic = "tower blush junior cradle canvas remember execute carry math demand green broom";

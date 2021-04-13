@@ -1,1 +1,1 @@
-var mnemonic = "subway author wrap clean sunny load olympic sort renew exist slow trip";
+var mnemonic = "wall mesh century helmet coyote tattoo want twice nation bus reflect nest";

@@ -1,1 +1,1 @@
-var mnemonic = "correct opera card decline blind model cat farm satoshi apple slam nation";
+var mnemonic = "label thought other naive version lumber taste pet any student ignore hour";

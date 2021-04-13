@@ -1,1 +1,1 @@
-var mnemonic = "fox spatial clip medal ceiling catalog nerve half empty situate labor apart";
+var mnemonic = "cupboard blood milk erosion leave grass harsh photo soldier useful toast axis";

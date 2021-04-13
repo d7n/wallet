@@ -1,1 +1,1 @@
-var mnemonic = "cement alien blouse unit jealous level left ask hungry coffee expect chief";
+var mnemonic = "display fragile foot sheriff first first enter tape sail ramp liar ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "juice next sentence shuffle various bar say relief glue advice choice stereo";
+var mnemonic = "quick upon resist only cement south always group injury pretty rocket elite";

@@ -1,1 +1,1 @@
-var mnemonic = "flee token tuition cry like hip strategy hard suit crisp offer thrive";
+var mnemonic = "gold impose legend wild what visa cement dutch worth own judge hood";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid coin wasp aisle nurse boy badge define brain proud erupt minimum";
+var mnemonic = "rescue relax loop antenna peanut copper describe grass vanish abandon awake such";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper doctor jungle stumble nice moment apology unhappy cart hospital settle minimum";
+var mnemonic = "door capable bone corn obtain average wrong rabbit genuine favorite adapt novel";

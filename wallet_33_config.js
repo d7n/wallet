@@ -1,1 +1,1 @@
-var mnemonic = "celery theme depart seat recipe ginger input wagon venture old blouse ribbon";
+var mnemonic = "loyal orient future blade flock flame donkey group swift erosion drip glimpse";

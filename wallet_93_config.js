@@ -1,1 +1,1 @@
-var mnemonic = "skate breeze lens before turtle atom receive luggage boost spy almost faculty";
+var mnemonic = "shrimp clip regular illegal document exit obvious stamp globe soldier smart year";

@@ -1,1 +1,1 @@
-var mnemonic = "cave digital solve curious learn wool blast wait half original address print";
+var mnemonic = "call olive margin awful actual become present term raise common power monkey";

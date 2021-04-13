@@ -1,1 +1,1 @@
-var mnemonic = "fish shed pizza manage holiday action taste way dynamic height argue scissors";
+var mnemonic = "follow fame sadness survey hybrid olympic powder stick kind annual brave reunion";

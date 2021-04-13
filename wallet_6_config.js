@@ -1,1 +1,1 @@
-var mnemonic = "aspect tumble equip lake snack decline hip wise depth sail point asset";
+var mnemonic = "sugar artwork unit buzz plunge shy adapt asset celery throw diagram fuel";

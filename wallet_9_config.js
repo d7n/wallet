@@ -1,1 +1,1 @@
-var mnemonic = "update turn hill panic board clinic ocean become subject salt aware give";
+var mnemonic = "make filter first scorpion degree avoid ritual beach canal dizzy wish light";

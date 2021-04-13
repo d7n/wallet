@@ -1,1 +1,1 @@
-var mnemonic = "execute view chimney anchor banner around behave bounce orient loyal half regular";
+var mnemonic = "process meadow someone frost raw wash veteran minimum seek yard fee record";

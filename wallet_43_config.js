@@ -1,1 +1,1 @@
-var mnemonic = "carry grit oyster twelve used piece zero clay obtain purse bread push";
+var mnemonic = "capable gasp curtain crucial pipe wine couch cabin misery illness convince plastic";

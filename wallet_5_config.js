@@ -1,1 +1,1 @@
-var mnemonic = "merge phone settle visit brand catch shrug become firm castle muffin hotel";
+var mnemonic = "razor cattle purse mass side label wire venture clock gun supreme depth";

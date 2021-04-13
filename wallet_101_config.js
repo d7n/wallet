@@ -1,1 +1,1 @@
-var mnemonic = "give maid leisure enter awesome sock flash scheme title afford army title";
+var mnemonic = "slice tail glance toilet awkward security funny awful bus device bulb police";

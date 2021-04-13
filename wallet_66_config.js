@@ -1,1 +1,1 @@
-var mnemonic = "crater input horn thing observe provide above kiwi case caution switch ready";
+var mnemonic = "toddler maple health boost cinnamon scheme speak awake vicious gaze banana gym";

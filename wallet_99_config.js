@@ -1,1 +1,1 @@
-var mnemonic = "beef imitate pupil corn seek give strike inch spoil sort essence that";
+var mnemonic = "east shiver slab lens input build fatigue hip energy whisper also spin";

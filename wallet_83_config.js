@@ -1,1 +1,1 @@
-var mnemonic = "crisp lyrics car prevent sister slender curious appear outdoor media train typical";
+var mnemonic = "sand strike grocery cream muscle window apart daring boil infant crowd trophy";

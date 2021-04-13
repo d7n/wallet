@@ -1,1 +1,1 @@
-var mnemonic = "swing together cart riot will swallow frame afford giant slow wool exhibit";
+var mnemonic = "shoe useful strong pole toast tool lady lift refuse assist ramp step";

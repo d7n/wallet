@@ -1,1 +1,1 @@
-var mnemonic = "wage table coconut wise trade abandon hunt tragic noodle smoke goat van";
+var mnemonic = "mercy bone hello donkey amused identify noodle grass absent food voice large";

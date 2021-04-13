@@ -1,1 +1,1 @@
-var mnemonic = "cost panther chicken frown volcano history way eight company sniff choice execute";
+var mnemonic = "kind senior erosion expand route speak story opinion check purity start rib";

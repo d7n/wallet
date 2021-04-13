@@ -1,1 +1,1 @@
-var mnemonic = "sting laptop effort light camera fury bar bargain bright mean effort project";
+var mnemonic = "route olive expire oil undo melt clump tower recipe episode slogan say";

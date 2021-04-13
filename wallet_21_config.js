@@ -1,1 +1,1 @@
-var mnemonic = "lock warfare enforce choose isolate acquire chimney earth enact garlic grow merry";
+var mnemonic = "control tackle silly virus awake banana salon safe puppy check crowd peasant";

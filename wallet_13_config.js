@@ -1,1 +1,1 @@
-var mnemonic = "insect cushion april pudding near program old genre alert wheat hedgehog document";
+var mnemonic = "machine recipe autumn wave attract term kitchen fury busy tray hurdle hunt";

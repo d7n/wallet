@@ -1,1 +1,1 @@
-var mnemonic = "wrist nuclear tide answer defy uncover proud crazy same ball buffalo arch";
+var mnemonic = "project quick hat team nuclear scare inner woman system stairs bunker century";

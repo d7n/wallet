@@ -1,1 +1,1 @@
-var mnemonic = "gloom engage ethics uncle balcony hero vicious hen oak fox athlete excite";
+var mnemonic = "birth onion artwork series village observe man chef strong flush monitor clarify";

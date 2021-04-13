@@ -1,1 +1,1 @@
-var mnemonic = "photo viable peanut avoid rookie orange kitchen surface zero around swamp accuse";
+var mnemonic = "soap zero chase fault amount inherit skate cliff drive fork lens home";

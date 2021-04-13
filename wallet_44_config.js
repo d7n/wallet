@@ -1,1 +1,1 @@
-var mnemonic = "erode hockey sunset claw denial party inflict dial ketchup rough hello crucial";
+var mnemonic = "actor gasp ice quote approve impact door picnic machine winter lens movie";

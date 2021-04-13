@@ -1,1 +1,1 @@
-var mnemonic = "strategy mouse bag cruel piece wolf letter only stem duck video traffic";
+var mnemonic = "fruit noodle kitchen embody trigger globe elevator already because farm bench crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "when wolf exhibit harbor very stable praise egg toilet company promote park";
+var mnemonic = "pulp flash okay mosquito item swear skate quit grid keep sport fan";

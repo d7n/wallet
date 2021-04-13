@@ -1,1 +1,1 @@
-var mnemonic = "farm cute horse deal vast same teach metal decide leave pyramid text";
+var mnemonic = "own later oblige inmate merge below pig pave notable toy amazing banana";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden spring unaware bonus high tail woman million summer talent price canyon";
+var mnemonic = "narrow spike fiction solve wing awesome extend narrow sketch debris exchange ask";

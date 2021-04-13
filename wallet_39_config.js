@@ -1,1 +1,1 @@
-var mnemonic = "priority ticket border practice rent interest order prefer where congress coyote recall";
+var mnemonic = "rely uncle derive surround ostrich frost dove ethics shop quarter month vibrant";

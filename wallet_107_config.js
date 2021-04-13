@@ -1,1 +1,1 @@
-var mnemonic = "bachelor fold shield room rose various raccoon extend refuse wasp kitchen athlete";
+var mnemonic = "guide drift hunt boat deputy drink attack fuel ill someone number crash";

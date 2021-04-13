@@ -1,1 +1,1 @@
-var mnemonic = "kitten spy base virtual float normal patrol minor regular small disorder boost";
+var mnemonic = "blush panther panda decide east acoustic gift syrup multiply camera tomato festival";

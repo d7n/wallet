@@ -1,1 +1,1 @@
-var mnemonic = "image mass deposit tourist water can gospel athlete eyebrow system afraid portion";
+var mnemonic = "region fit grace predict blind security stadium welcome truck ecology pluck rug";

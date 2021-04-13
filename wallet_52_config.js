@@ -1,1 +1,1 @@
-var mnemonic = "resource void board alcohol earth tourist cycle kingdom window quote range example";
+var mnemonic = "gather cry grace logic repair empty champion album salad toddler snap ignore";

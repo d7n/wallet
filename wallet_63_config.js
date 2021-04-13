@@ -1,1 +1,1 @@
-var mnemonic = "brisk click limit furnace announce olive situate spend market much junior wrist";
+var mnemonic = "fat beyond range fine cloud issue flee harvest just search remove uncover";

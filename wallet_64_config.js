@@ -1,1 +1,1 @@
-var mnemonic = "crew fiber artist fetch hedgehog have kingdom capable toss foam bring ankle";
+var mnemonic = "upset loyal broccoli stone portion tone slab season clever clay whale abandon";

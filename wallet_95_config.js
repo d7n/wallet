@@ -1,1 +1,1 @@
-var mnemonic = "zero fall between test slight muffin disorder vintage uphold boring around file";
+var mnemonic = "asset people prison crucial wheel peasant grace exotic beauty family stereo ostrich";

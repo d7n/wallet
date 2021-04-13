@@ -1,1 +1,1 @@
-var mnemonic = "tail laugh special consider attend stand clean stereo improve element plunge test";
+var mnemonic = "sheriff anchor hazard wrong off gap body reward hope sleep culture chef";

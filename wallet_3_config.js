@@ -1,1 +1,1 @@
-var mnemonic = "abandon arch talent raven hint fine plunge silly invite video alpha pear";
+var mnemonic = "bid boat column critic fruit paper actress feature ready wrestle afford wrong";

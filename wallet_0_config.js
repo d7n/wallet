@@ -1,1 +1,1 @@
-var mnemonic = "gaze lecture cactus code security govern maze identify merge abstract decide review";
+var mnemonic = "reveal inspire bachelor uncover benefit loan drip unique wet amused token wheat";

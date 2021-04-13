@@ -1,1 +1,1 @@
-var mnemonic = "chase maid wood royal pair chuckle pond manage empty raccoon citizen swift";
+var mnemonic = "royal snap weapon tone genius runway divide climb avocado oven sting knife";

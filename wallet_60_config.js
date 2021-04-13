@@ -1,1 +1,1 @@
-var mnemonic = "feature sing finish segment hard vault gasp visit soccer mail accident attend";
+var mnemonic = "alter pudding mixed save gossip resource super fantasy soup view garment battle";

@@ -1,1 +1,1 @@
-var mnemonic = "away debate segment expect announce typical sound veteran aisle lobster behave remind";
+var mnemonic = "depend column slender boost since hat decline record super scorpion maid close";

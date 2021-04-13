@@ -1,1 +1,1 @@
-var mnemonic = "rather deer list when road position find used humble account tag skirt";
+var mnemonic = "type spray hard enjoy flat oyster such decide another way mammal wave";

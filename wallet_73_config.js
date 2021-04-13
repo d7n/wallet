@@ -1,1 +1,1 @@
-var mnemonic = "exhaust door yard attend mammal anchor asset bullet purpose current arctic display";
+var mnemonic = "delay milk normal sorry oyster enable patrol make depart pull only clock";

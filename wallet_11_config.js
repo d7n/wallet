@@ -1,1 +1,1 @@
-var mnemonic = "famous recipe machine identify radar unhappy hybrid mobile laundry arm siege tent";
+var mnemonic = "joke gloom kid great essence crouch daring below lyrics tennis blast letter";

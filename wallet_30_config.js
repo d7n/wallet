@@ -1,1 +1,1 @@
-var mnemonic = "island language tool dynamic dust client sudden enlist initial park glow powder";
+var mnemonic = "detail limit danger reason garlic dirt moon day client chase keen scorpion";

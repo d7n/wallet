@@ -1,1 +1,1 @@
-var mnemonic = "salmon tip wing open coconut economy maximum quick credit pony check pave";
+var mnemonic = "fire hill soft detail team engage biology chat method runway torch more";

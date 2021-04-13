@@ -1,1 +1,1 @@
-var mnemonic = "lunch false below silly talent path pill erode math adapt describe label";
+var mnemonic = "reopen coconut silk clay review panther furnace slide degree trophy like happy";

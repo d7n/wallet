@@ -1,1 +1,1 @@
-var mnemonic = "cup glass loan skin primary again fork divide escape ten omit away";
+var mnemonic = "rent gadget dwarf reflect attitude lake medal canal skate south age walk";

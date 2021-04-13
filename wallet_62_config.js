@@ -1,1 +1,1 @@
-var mnemonic = "valve since engage foot spare sword off valve surge gadget resource salt";
+var mnemonic = "local cram lion sniff strategy buzz win dirt profit nerve midnight item";

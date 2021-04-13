@@ -1,1 +1,1 @@
-var mnemonic = "echo awkward moment join alert dial nasty run damp lake mansion thing";
+var mnemonic = "result enrich section ethics kiwi consider present strong stone average caught wrestle";

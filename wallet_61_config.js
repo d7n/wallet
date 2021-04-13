@@ -1,1 +1,1 @@
-var mnemonic = "bean auction camera scheme goose valid angry pause sphere extend cherry curious";
+var mnemonic = "dinosaur echo situate say job govern depend brush sauce remind route lamp";

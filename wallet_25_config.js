@@ -1,1 +1,1 @@
-var mnemonic = "tongue swamp opera image diagram again fortune cigar attract ticket warrior jewel";
+var mnemonic = "control field stone park honey cabin witness cause excess type often ridge";

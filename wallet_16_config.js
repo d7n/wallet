@@ -1,1 +1,1 @@
-var mnemonic = "sign explain gate chapter club glance snow tray march announce pill comic";
+var mnemonic = "practice trophy lyrics kiwi leader hunt grass later tip scrap liquid expose";

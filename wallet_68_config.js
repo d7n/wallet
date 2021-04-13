@@ -1,1 +1,1 @@
-var mnemonic = "pepper maximum obvious stone crowd mule silk still pudding letter sense oxygen";
+var mnemonic = "super travel winner oval invest fire height wrong waste civil such parrot";

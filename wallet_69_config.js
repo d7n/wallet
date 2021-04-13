@@ -1,1 +1,1 @@
-var mnemonic = "direct exhibit bunker daring tumble junior margin honey sun awesome initial crystal";
+var mnemonic = "trumpet shrimp pumpkin army honey relax affair cook good profit surround spirit";

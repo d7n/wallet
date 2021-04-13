@@ -1,1 +1,1 @@
-var mnemonic = "market peanut spoil tonight below uphold because race script source lawn deputy";
+var mnemonic = "plug route film uniform second army rubber velvet enjoy pulp asset around";

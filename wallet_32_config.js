@@ -1,1 +1,1 @@
-var mnemonic = "recall middle page hybrid put dream depend route produce bamboo bleak swamp";
+var mnemonic = "august useful hockey network taxi unusual ozone rifle wool glimpse smart snow";

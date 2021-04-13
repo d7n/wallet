@@ -1,1 +1,1 @@
-var mnemonic = "axis crop gesture culture valley essay unable motion edit tag proof march";
+var mnemonic = "enjoy gorilla zero theory broken eyebrow garment gold mobile convince ceiling write";

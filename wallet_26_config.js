@@ -1,1 +1,1 @@
-var mnemonic = "bright program anchor connect replace club surface gospel multiply machine combine object";
+var mnemonic = "scare always table call snap breeze between exchange window bulk mountain rail";

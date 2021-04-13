@@ -1,1 +1,1 @@
-var mnemonic = "aunt stock able immune basket bless arrow horse midnight bone pluck loyal";
+var mnemonic = "endless still cube noodle pledge jazz glare dinner siege candy crumble act";

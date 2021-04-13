@@ -1,1 +1,1 @@
-var mnemonic = "noble hedgehog among cement argue enough lounge cargo bind find swarm dinosaur";
+var mnemonic = "canoe source zoo task quarter unfold vote drift arrive shock quarter festival";
