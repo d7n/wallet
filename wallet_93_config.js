@@ -1,1 +1,1 @@
-var mnemonic = "tongue law brief spoil party across potato tank antique device chicken mistake";
+var mnemonic = "empty boat tennis organ prevent spatial nice remove roof fever arrest debate";

@@ -1,1 +1,1 @@
-var mnemonic = "treat penalty sight exercise glow grant enhance velvet ridge absorb neutral potato";
+var mnemonic = "slide butter curve afford bone long feel coil okay federal flat bonus";

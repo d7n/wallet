@@ -1,1 +1,1 @@
-var mnemonic = "wet apology absurd hire target ceiling people swap world case material furnace";
+var mnemonic = "skill execute pyramid history drop photo leader start dilemma eyebrow horn day";

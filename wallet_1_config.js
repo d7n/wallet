@@ -1,1 +1,1 @@
-var mnemonic = "hurt scout bone silly range vault draft endorse title party avocado maximum";
+var mnemonic = "feel clip merge slow beyond quarter over idea belt congress menu elder";

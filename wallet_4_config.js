@@ -1,1 +1,1 @@
-var mnemonic = "fade unhappy what jazz smoke match country crazy green bicycle rack thunder";
+var mnemonic = "infant toilet swear blind arrange pull fee morning knife cover supply forest";

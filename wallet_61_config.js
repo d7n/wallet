@@ -1,1 +1,1 @@
-var mnemonic = "vote universe bone deny awful vote pencil tube fossil ugly cost oxygen";
+var mnemonic = "firm move decrease labor round invite spell exclude shrug problem fly float";

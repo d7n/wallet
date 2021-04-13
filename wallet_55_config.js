@@ -1,1 +1,1 @@
-var mnemonic = "genius gaze involve bonus velvet viable ancient video junk arrange mind wonder";
+var mnemonic = "local insect upset decade eight ensure erosion caught sweet mean say stone";

@@ -1,1 +1,1 @@
-var mnemonic = "attend frog silk example person waste remove trophy detect claw lady simple";
+var mnemonic = "champion movie frog uncover split pill globe raise nest celery wreck february";

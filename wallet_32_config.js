@@ -1,1 +1,1 @@
-var mnemonic = "use peanut sting shuffle bounce olympic manage tornado vacant sword scene cool";
+var mnemonic = "dance turn answer food chuckle material gossip dance zone engage fence country";

@@ -1,1 +1,1 @@
-var mnemonic = "junior cigar maze boy tomorrow mirror fiber april shoulder absurd car boss";
+var mnemonic = "young shoulder until exit elite fly subject tortoise smoke job tube kangaroo";

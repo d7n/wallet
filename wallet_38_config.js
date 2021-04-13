@@ -1,1 +1,1 @@
-var mnemonic = "member gasp domain size clap south rifle theory acoustic sponsor injury avoid";
+var mnemonic = "post sustain reunion stone mango during room move ghost spend toilet ripple";

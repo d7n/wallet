@@ -1,1 +1,1 @@
-var mnemonic = "valid direct gossip blade maple secret cheap combine donkey bottom gallery nut";
+var mnemonic = "below sadness height engage tree cat road ridge vicious crop coach tide";

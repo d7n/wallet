@@ -1,1 +1,1 @@
-var mnemonic = "note couch gift until settle rate ivory color lunar admit abstract bleak";
+var mnemonic = "sort onion around usage then sugar early kite cherry search creek knock";

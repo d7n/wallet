@@ -1,1 +1,1 @@
-var mnemonic = "marble piece film nurse quick denial distance please maximum stage seek uncover";
+var mnemonic = "business diamond tell noodle acid rent flight bracket become quiz bulk raw";

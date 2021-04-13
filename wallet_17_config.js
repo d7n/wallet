@@ -1,1 +1,1 @@
-var mnemonic = "embrace notice upon card debris child beach drive hand daring famous item";
+var mnemonic = "fetch annual crash nature armed mango depth chicken loyal laptop friend praise";

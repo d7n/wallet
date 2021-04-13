@@ -1,1 +1,1 @@
-var mnemonic = "gentle taste service inspire churn crouch lumber brown famous viable stadium page";
+var mnemonic = "tornado chase exchange rural arrest welcome indoor push describe dilemma creek ghost";

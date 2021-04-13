@@ -1,1 +1,1 @@
-var mnemonic = "life enact zebra crush pupil people face box next latin exhibit film";
+var mnemonic = "short evidence kitten tongue now mean mansion negative hunt leisure book job";

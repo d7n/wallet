@@ -1,1 +1,1 @@
-var mnemonic = "utility frown issue toddler matter system hurdle voyage because friend list arrive";
+var mnemonic = "submit zone wash negative barrel quit wild mad exile soda abuse insane";

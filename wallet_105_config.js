@@ -1,1 +1,1 @@
-var mnemonic = "leader large then hair hat coyote shy local device claim where steak";
+var mnemonic = "blossom bike south uphold ahead taxi state nephew refuse bullet onion desk";

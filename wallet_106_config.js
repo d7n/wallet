@@ -1,1 +1,1 @@
-var mnemonic = "leader fan worth tray proof royal enlist vault fly bleak puppy unknown";
+var mnemonic = "dolphin sugar trend tooth lens toddler spell clever avocado someone warm genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust galaxy sample boss boy flee tail nurse spawn athlete acquire square";
+var mnemonic = "certain enrich speed unveil drum silk distance rare enlist loyal craft picnic";

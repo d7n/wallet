@@ -1,1 +1,1 @@
-var mnemonic = "dove risk family worry inspire shop furnace stairs future siege cereal expand";
+var mnemonic = "raccoon where utility emotion ahead bachelor sun awkward deer never veteran clock";

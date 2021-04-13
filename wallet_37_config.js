@@ -1,1 +1,1 @@
-var mnemonic = "nerve clerk rotate tumble access survey sentence powder around resource buddy never";
+var mnemonic = "grow attitude leave wrist talk smart carpet flag tooth radio true empower";

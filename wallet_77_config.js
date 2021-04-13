@@ -1,1 +1,1 @@
-var mnemonic = "prepare ghost liquid easily apart empty program earn buyer response canal search";
+var mnemonic = "valley ready hand eye ill guard scissors nothing manage trip panther dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "alert pen cinnamon pig person tray oven will mind cactus roof spoil";
+var mnemonic = "shock cute rich jazz door depth peanut resist width behind reveal argue";

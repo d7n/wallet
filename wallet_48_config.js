@@ -1,1 +1,1 @@
-var mnemonic = "worth cushion phone fog memory genuine disease energy share kid cargo suspect";
+var mnemonic = "very evidence today chase fuel practice amount drip liquid fuel dove high";

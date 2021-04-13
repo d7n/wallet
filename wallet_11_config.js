@@ -1,1 +1,1 @@
-var mnemonic = "drop pony absent urban burst busy shoulder believe army tribe cycle result";
+var mnemonic = "certain lamp whale vault average symbol silver tilt armor blouse summer element";

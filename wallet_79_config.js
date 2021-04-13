@@ -1,1 +1,1 @@
-var mnemonic = "cute chalk galaxy general rival orbit copy economy ask bullet mass invite";
+var mnemonic = "mercy link excess oblige venue initial disorder tag shy congress approve ask";

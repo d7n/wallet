@@ -1,1 +1,1 @@
-var mnemonic = "pigeon chair monster repair ozone matrix boring satisfy raccoon number list two";
+var mnemonic = "derive occur balcony before despair horn acquire priority trim seat syrup step";

@@ -1,1 +1,1 @@
-var mnemonic = "matter palace jaguar senior raven injury steel nest enter trick domain height";
+var mnemonic = "boost taste tissue point secret ecology rule pave vivid cross material fringe";

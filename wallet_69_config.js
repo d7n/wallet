@@ -1,1 +1,1 @@
-var mnemonic = "kingdom hurry bright chalk pill brain thank decide veteran burger task auction";
+var mnemonic = "garment dove tiny goose fame start wet supply coconut always rather ladder";

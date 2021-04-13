@@ -1,1 +1,1 @@
-var mnemonic = "heart bless fit clay bulk engine final pepper broccoli glance shrug damage";
+var mnemonic = "avocado shadow approve matter bike weather tragic rain that pen improve bounce";

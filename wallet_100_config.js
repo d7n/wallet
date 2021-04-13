@@ -1,1 +1,1 @@
-var mnemonic = "scale arrive renew sample radio lake there relax tree family script obvious";
+var mnemonic = "pretty fish spike sting flower dinosaur junk zero settle arena pass column";

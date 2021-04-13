@@ -1,1 +1,1 @@
-var mnemonic = "matter circle three increase blossom elephant cry text slogan afraid flag tree";
+var mnemonic = "fiscal fragile wire verify voice identify salute burden expand reunion sound tired";

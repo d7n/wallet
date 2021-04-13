@@ -1,1 +1,1 @@
-var mnemonic = "initial narrow enhance plug spike social clown canal differ town twelve amused";
+var mnemonic = "sphere news trophy shove wheel front announce weather soon sand snack toilet";

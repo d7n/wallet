@@ -1,1 +1,1 @@
-var mnemonic = "boat furnace cushion plastic type tiger insane champion rival spin viable witness";
+var mnemonic = "pave advance carry artefact twin century next acoustic math hidden scrap wisdom";

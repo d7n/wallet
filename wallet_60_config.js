@@ -1,1 +1,1 @@
-var mnemonic = "crowd decade shove lizard recipe ladder torch car initial object mercy police";
+var mnemonic = "goat sponsor glimpse mind toward basket group frog divert useless enroll original";

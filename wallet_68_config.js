@@ -1,1 +1,1 @@
-var mnemonic = "museum bamboo car never write vast where wolf wink enhance plate ivory";
+var mnemonic = "device combine sibling rebel until bonus bracket forget grass lonely nasty inject";

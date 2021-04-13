@@ -1,1 +1,1 @@
-var mnemonic = "release quantum sleep task result chimney crash betray ripple release index ceiling";
+var mnemonic = "happy put orchard panel mouse enlist ankle patient affair side cheap gym";

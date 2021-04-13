@@ -1,1 +1,1 @@
-var mnemonic = "wire swing material regret river point distance talk rubber soldier target under";
+var mnemonic = "front wealth what grief trial police slice decade nut alone find news";

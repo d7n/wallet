@@ -1,1 +1,1 @@
-var mnemonic = "transfer warfare teach ball hour employ three scissors proof era fragile what";
+var mnemonic = "cinnamon taste identify proud zone country patrol mixed arrest shoulder ability topic";

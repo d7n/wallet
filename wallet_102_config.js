@@ -1,1 +1,1 @@
-var mnemonic = "moment saddle turkey damp control divide weasel mom culture youth sister damage";
+var mnemonic = "glare sunset number fan allow orchard cup castle remind mushroom orbit dynamic";

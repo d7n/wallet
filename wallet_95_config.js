@@ -1,1 +1,1 @@
-var mnemonic = "hub taxi detail enforce garage crime grass butter dizzy hurt dress merry";
+var mnemonic = "hockey scheme fade ranch weasel wheel universe yard airport distance frame naive";

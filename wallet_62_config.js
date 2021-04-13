@@ -1,1 +1,1 @@
-var mnemonic = "extend siren tide trade orchard truly such heavy soda goat say exchange";
+var mnemonic = "bag thunder shrimp tackle breeze wool tumble cupboard jeans shed affair collect";

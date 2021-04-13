@@ -1,1 +1,1 @@
-var mnemonic = "load film myself myth salute cloth issue mushroom wasp search negative whisper";
+var mnemonic = "world initial kite tunnel punch grunt sleep velvet sausage family voice private";

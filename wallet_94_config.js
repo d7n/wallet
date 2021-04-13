@@ -1,1 +1,1 @@
-var mnemonic = "disease crop fossil ring seven split burst mom shy evil unveil butter";
+var mnemonic = "skull move pitch foil surge scheme future sketch thrive unlock aware cram";

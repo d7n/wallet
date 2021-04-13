@@ -1,1 +1,1 @@
-var mnemonic = "online damp subway provide long relief amount small decorate cake bundle bean";
+var mnemonic = "name buddy oyster dilemma broom leopard crawl urban sail announce lounge life";

@@ -1,1 +1,1 @@
-var mnemonic = "label throw soda brother actress lounge improve pull gate parrot fun stuff";
+var mnemonic = "lawsuit sure base onion west degree edge mountain wild stick sibling brand";

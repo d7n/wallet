@@ -1,1 +1,1 @@
-var mnemonic = "cannon conduct price rely gossip pigeon voyage perfect decide inflict leave pledge";
+var mnemonic = "able wheat bicycle artefact fossil else combine often gap zoo video harvest";

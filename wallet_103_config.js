@@ -1,1 +1,1 @@
-var mnemonic = "dress carpet energy beyond lion miracle resemble mean similar hat runway crush";
+var mnemonic = "onion divide west clay comfort fault reveal electric dove curve deposit double";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare feel include sing bind fault night behind trigger seed valley suit";
+var mnemonic = "thunder original card pioneer forest purity stay can kind patrol champion area";

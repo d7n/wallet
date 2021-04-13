@@ -1,1 +1,1 @@
-var mnemonic = "truth milk marriage avoid useful where round pig jelly utility obvious spin";
+var mnemonic = "rice wreck deposit apple grab save animal soccer explain spell exercise skull";

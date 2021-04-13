@@ -1,1 +1,1 @@
-var mnemonic = "tail you sense save festival seat behind someone fiction year zero reject";
+var mnemonic = "goddess test fix hospital skull cost degree goddess orphan gasp thank tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf scan derive van dynamic endorse dragon ginger sport exist shed seminar";
+var mnemonic = "antenna cattle spirit knife scorpion tuna evoke chaos drink alien fat simple";

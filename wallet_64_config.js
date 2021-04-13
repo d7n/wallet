@@ -1,1 +1,1 @@
-var mnemonic = "hill muffin enact retreat oxygen wing crystal weather symbol debris flock wealth";
+var mnemonic = "broom until talent window scheme popular refuse must cushion spend theory seminar";

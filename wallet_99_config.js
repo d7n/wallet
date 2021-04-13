@@ -1,1 +1,1 @@
-var mnemonic = "december else appear cannon arrest angle degree wire employ stomach page fringe";
+var mnemonic = "aunt measure badge chunk jelly ready laugh corn fine disorder swift order";

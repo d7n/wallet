@@ -1,1 +1,1 @@
-var mnemonic = "conduct topic liberty ketchup index critic volume exchange strong describe rocket easy";
+var mnemonic = "family sport thought level lake become when pattern universe topic uncover elder";

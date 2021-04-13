@@ -1,1 +1,1 @@
-var mnemonic = "voyage doll lobster leg science also skill refuse reward decorate mutual hazard";
+var mnemonic = "crouch device source between cycle profit ritual current rate page since miss";

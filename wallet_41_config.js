@@ -1,1 +1,1 @@
-var mnemonic = "tooth birth foot prevent side frown wink resist degree cigar bird fire";
+var mnemonic = "panther service truly mirror response lobster swamp romance axis obtain royal glow";

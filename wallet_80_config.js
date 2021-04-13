@@ -1,1 +1,1 @@
-var mnemonic = "still cube fun debate mutual brick cream member father casual february adult";
+var mnemonic = "magnet media sorry room book clay kit arrive gasp dice three twist";

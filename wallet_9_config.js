@@ -1,1 +1,1 @@
-var mnemonic = "truck swear curtain junk venue shove sea little such fat addict orange";
+var mnemonic = "tackle lounge sick divide warm canvas now aerobic nice twist joy web";

@@ -1,1 +1,1 @@
-var mnemonic = "depart cheap pattern include expand village squeeze develop income chapter catch vivid";
+var mnemonic = "frozen parrot job nose lyrics next exist vendor key write dash innocent";

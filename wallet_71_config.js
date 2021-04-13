@@ -1,1 +1,1 @@
-var mnemonic = "cream ivory cherry knee melody forest crater hello angry method effort virus";
+var mnemonic = "cinnamon inch beyond provide response slab announce pistol fringe ankle short spare";

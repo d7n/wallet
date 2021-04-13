@@ -1,1 +1,1 @@
-var mnemonic = "rotate shrug mean pumpkin pizza video bread one chaos head sunny pear";
+var mnemonic = "across reward fever card salmon ancient bone leader torch aerobic because achieve";

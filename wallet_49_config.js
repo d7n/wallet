@@ -1,1 +1,1 @@
-var mnemonic = "home quality harsh kind local goose draft clerk private true concert feature";
+var mnemonic = "turkey brand joy scene cherry club bulk economy describe cover box error";

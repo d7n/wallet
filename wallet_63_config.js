@@ -1,1 +1,1 @@
-var mnemonic = "famous belt gift when jungle small cup vendor foster laptop country hybrid";
+var mnemonic = "pepper goddess muffin unlock clog income helmet machine cream surprise reopen good";

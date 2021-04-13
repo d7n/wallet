@@ -1,1 +1,1 @@
-var mnemonic = "bike rural coral spider young fetch vague good middle crew essay orient";
+var mnemonic = "oval zoo smart tooth oyster river exist review envelope tragic olympic setup";

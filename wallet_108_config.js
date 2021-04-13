@@ -1,1 +1,1 @@
-var mnemonic = "inmate movie pole disease useless embark bridge lunch element sound hip height";
+var mnemonic = "gospel road letter era novel curious avoid empty drill judge essence demise";

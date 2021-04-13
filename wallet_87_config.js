@@ -1,1 +1,1 @@
-var mnemonic = "tenant hobby believe possible bottom below black hill alone scissors impact surface";
+var mnemonic = "twelve flat dirt slender industry employ apology feed embark dune ketchup atom";

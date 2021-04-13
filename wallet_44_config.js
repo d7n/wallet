@@ -1,1 +1,1 @@
-var mnemonic = "vacant old soft subject behave cabbage undo rebuild afraid saddle wrong either";
+var mnemonic = "valve object denial smile become hurry truly negative stereo aisle pass sustain";

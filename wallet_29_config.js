@@ -1,1 +1,1 @@
-var mnemonic = "lake toe cry robust wash head now soul voice infant end cash";
+var mnemonic = "retreat tilt moment vapor divert fit divert hurt charge force tumble actor";

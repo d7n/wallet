@@ -1,1 +1,1 @@
-var mnemonic = "soda half expose execute replace zone soon letter cotton shrug aunt involve";
+var mnemonic = "just dentist famous net nominee song tree grow advance acoustic screen glove";

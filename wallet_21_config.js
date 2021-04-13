@@ -1,1 +1,1 @@
-var mnemonic = "damp sing box expose ten exotic client hard winter false nature woman";
+var mnemonic = "submit vintage decorate speed useful delay impact broccoli sentence doctor soda swallow";

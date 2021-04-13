@@ -1,1 +1,1 @@
-var mnemonic = "science myself initial saddle pulse modify broken fantasy fruit scheme junk almost";
+var mnemonic = "warm real tenant brisk humble hold swim prosper impose fire baby boss";

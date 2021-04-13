@@ -1,1 +1,1 @@
-var mnemonic = "allow forest favorite fog blur fade snake movie sugar sunny act bamboo";
+var mnemonic = "income pulse imitate flee desert chest powder crack pig tiny orange coral";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel major wait episode damp dutch alert gown return simple viable decade";
+var mnemonic = "afraid bench grace exit retire industry cover space parent wing tray cup";

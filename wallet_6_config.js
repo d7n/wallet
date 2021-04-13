@@ -1,1 +1,1 @@
-var mnemonic = "fame river beyond sound cross napkin focus envelope cloth history slow action";
+var mnemonic = "tomato indoor horn victory tide company outer miracle medal army smart lady";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky prize tip swap mushroom appear view earth famous rapid elephant whisper";
+var mnemonic = "that cute rescue account upset animal rookie mercy crystal medal angle lend";

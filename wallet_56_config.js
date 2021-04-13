@@ -1,1 +1,1 @@
-var mnemonic = "enter mesh undo comic clog retreat apart grass duck mosquito exotic print";
+var mnemonic = "book stage oxygen draw seven snake loop curtain laundry oil chicken sad";

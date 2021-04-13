@@ -1,1 +1,1 @@
-var mnemonic = "speak silly victory pelican nerve wage flight horse credit whisper there clap";
+var mnemonic = "source reopen mad twist work faint enforce scissors poverty ordinary replace similar";

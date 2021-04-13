@@ -1,1 +1,1 @@
-var mnemonic = "crisp old bleak entire punch tube track connect inform scheme trigger era";
+var mnemonic = "trade rhythm rabbit quote slush cactus twelve drift theory two light pudding";

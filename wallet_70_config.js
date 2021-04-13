@@ -1,1 +1,1 @@
-var mnemonic = "home can much library escape crunch shoot street shuffle elite million reunion";
+var mnemonic = "deputy lemon screen reject elbow reveal burger trust define shy swarm true";

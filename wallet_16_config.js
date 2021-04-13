@@ -1,1 +1,1 @@
-var mnemonic = "frame lesson clip often crush quick apart twelve health rhythm maple shoot";
+var mnemonic = "plastic search illegal relief helmet off glass cute grow fatal dice inside";

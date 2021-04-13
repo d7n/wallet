@@ -1,1 +1,1 @@
-var mnemonic = "vault rough absorb candy wolf hundred slender project execute idle head luggage";
+var mnemonic = "neither exotic wheat license soda april castle shine basket master awkward similar";

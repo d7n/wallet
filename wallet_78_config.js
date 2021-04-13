@@ -1,1 +1,1 @@
-var mnemonic = "output memory ability tag giant polar quantum loan grief symbol suspect front";
+var mnemonic = "plug chunk book tackle enable head math nothing romance disagree tourist charge";

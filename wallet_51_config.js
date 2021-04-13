@@ -1,1 +1,1 @@
-var mnemonic = "school rhythm jelly man key slam mobile mention rebel jealous entry express";
+var mnemonic = "distance purchase mammal glare domain jelly quit gym snow sustain view tortoise";

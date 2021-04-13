@@ -1,1 +1,1 @@
-var mnemonic = "false local quick echo lesson regular achieve absent exist elevator size spring";
+var mnemonic = "shrug choice fatigue title work dirt vehicle winner abandon curtain want soup";

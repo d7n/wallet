@@ -1,1 +1,1 @@
-var mnemonic = "jacket marriage voyage family tilt easily tornado better speak medal supreme calm";
+var mnemonic = "tongue marriage ordinary vacuum razor cage isolate invite damage picture time source";
