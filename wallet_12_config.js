@@ -1,1 +1,1 @@
-var mnemonic = "deal potato inmate behind mutual ivory biology because rubber hill mom general";
+var mnemonic = "clinic initial demise inside tackle desk prepare athlete butter spike empower use";

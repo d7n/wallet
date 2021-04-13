@@ -1,1 +1,1 @@
-var mnemonic = "wire illness glory twice scare forward lizard clean pepper turtle fan extra";
+var mnemonic = "live assault fault bitter sphere arena depend neglect love diary stool much";

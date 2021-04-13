@@ -1,1 +1,1 @@
-var mnemonic = "shrimp hub shadow opera junk pond ensure airport topic pencil bargain gloom";
+var mnemonic = "solve victory guitar safe write toy tennis ankle benefit clinic weird virus";

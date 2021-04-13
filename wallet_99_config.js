@@ -1,1 +1,1 @@
-var mnemonic = "grid very link fold angry amount pencil wish sponsor shiver pause bird";
+var mnemonic = "seed hero afraid fun squeeze bird immune tree glow metal chapter width";

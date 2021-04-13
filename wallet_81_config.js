@@ -1,1 +1,1 @@
-var mnemonic = "attend receive shaft truly route quarter various drink demise slab stamp page";
+var mnemonic = "render net pill peace vault sand immense list wreck vivid east brick";

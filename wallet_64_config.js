@@ -1,1 +1,1 @@
-var mnemonic = "pass fuel tide fox rigid outside sail toss noise fashion immune unit";
+var mnemonic = "engine awake cricket midnight weasel carbon bench office unlock tornado culture viable";

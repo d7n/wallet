@@ -1,1 +1,1 @@
-var mnemonic = "banana custom great ivory beef gaze tell try pipe hire company popular";
+var mnemonic = "oppose climb shield bag smart ostrich famous fuel enroll scout unlock cake";

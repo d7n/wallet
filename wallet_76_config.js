@@ -1,1 +1,1 @@
-var mnemonic = "warrior just party impact beef what wreck blossom question embark success stem";
+var mnemonic = "wagon tube chimney emerge armor unfold remind tortoise tiger crop call wife";

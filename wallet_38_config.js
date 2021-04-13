@@ -1,1 +1,1 @@
-var mnemonic = "captain this dizzy disease dilemma couch boil clinic hub parrot produce decrease";
+var mnemonic = "auction today pudding early april piano next online follow pattern charge improve";

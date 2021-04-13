@@ -1,1 +1,1 @@
-var mnemonic = "valve illness wish half loan emerge tape away olive stumble recipe pretty";
+var mnemonic = "walnut jungle range urge visa yellow vintage equal soup left piece junior";

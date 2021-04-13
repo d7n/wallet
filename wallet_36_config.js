@@ -1,1 +1,1 @@
-var mnemonic = "cover gloom tired alarm front hello caution property unusual pen cactus chimney";
+var mnemonic = "wet access little shoot steel season fine pluck draft basic lobster enjoy";

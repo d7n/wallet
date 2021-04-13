@@ -1,1 +1,1 @@
-var mnemonic = "original long major raw barely stairs convince oppose save pipe blood chat";
+var mnemonic = "business habit taste panel owner glass rifle again early whale patient advance";

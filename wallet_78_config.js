@@ -1,1 +1,1 @@
-var mnemonic = "wrap trend cotton economy envelope category subway stable matter claw laugh fatal";
+var mnemonic = "decorate link cruel retire first cost crisp ridge garlic power ritual mass";

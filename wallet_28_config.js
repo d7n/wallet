@@ -1,1 +1,1 @@
-var mnemonic = "once embody oil tooth cheese wise erosion control frequent ridge swift process";
+var mnemonic = "moon interest buddy stomach lava gown disagree eye test kitten address initial";

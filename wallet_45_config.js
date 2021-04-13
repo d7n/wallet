@@ -1,1 +1,1 @@
-var mnemonic = "false lyrics desert fatigue save tonight grocery moral credit whisper lucky girl";
+var mnemonic = "fancy army agree glimpse place car usual fence crystal earn cake stem";

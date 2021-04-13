@@ -1,1 +1,1 @@
-var mnemonic = "bone garbage chapter size three palace marriage worry cactus east neutral frozen";
+var mnemonic = "trophy birth leader also defy weapon affair fashion slight tunnel transfer autumn";

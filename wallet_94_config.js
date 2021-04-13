@@ -1,1 +1,1 @@
-var mnemonic = "seed liquid pretty scout mirror left tribe slight govern emotion hazard medal";
+var mnemonic = "invest unfold because grid struggle bundle wheel disease toilet ancient junior time";

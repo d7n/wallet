@@ -1,1 +1,1 @@
-var mnemonic = "army make settle liberty occur warfare tattoo notable similar hawk vanish edge";
+var mnemonic = "wolf charge disorder recycle beef distance mother canyon rain daughter feature just";

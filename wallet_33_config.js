@@ -1,1 +1,1 @@
-var mnemonic = "divorce weekend snap giant opera casual quality cook smile error wise brick";
+var mnemonic = "tube share forest swift swap panic convince brother toy picture hand rely";

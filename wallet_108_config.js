@@ -1,1 +1,1 @@
-var mnemonic = "enough lecture crack enlist knife mix donate label cover rebuild hello glare";
+var mnemonic = "tongue hint pencil payment enemy popular heavy long give tomorrow exercise exchange";

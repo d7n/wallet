@@ -1,1 +1,1 @@
-var mnemonic = "snack tank goat misery prosper cage benefit error laptop gorilla side waste";
+var mnemonic = "spawn result bridge universe review soon such tuition silver draft student tunnel";

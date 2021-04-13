@@ -1,1 +1,1 @@
-var mnemonic = "baby flash struggle such forward deer cruise loud parade focus trigger donkey";
+var mnemonic = "creek arena reform nut resist dynamic boring online knock scissors spawn ring";

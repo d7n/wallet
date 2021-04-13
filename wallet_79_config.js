@@ -1,1 +1,1 @@
-var mnemonic = "picnic write dish beyond wheat gift destroy dust pony banner pond finish";
+var mnemonic = "hockey captain laundry luxury position expand spare various breeze ivory cancel clay";

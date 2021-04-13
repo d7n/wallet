@@ -1,1 +1,1 @@
-var mnemonic = "cable mother inside vehicle humble sadness dirt blur unaware uncover salt time";
+var mnemonic = "seek bread mobile snake loan better rigid magnet abuse usual doll network";

@@ -1,1 +1,1 @@
-var mnemonic = "involve width glue below fame myth ivory swim among magnet neither pepper";
+var mnemonic = "minor alert opera air identify valley sample permit mule deal fuel cloth";

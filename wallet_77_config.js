@@ -1,1 +1,1 @@
-var mnemonic = "fire valid tiny friend capital alone great brother give mail reject unlock";
+var mnemonic = "scorpion avocado front stereo celery gravity human smart oak trial glimpse merry";

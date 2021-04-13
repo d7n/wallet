@@ -1,1 +1,1 @@
-var mnemonic = "citizen define swarm this foot page same buddy away unable witness truly";
+var mnemonic = "utility sing champion attack auction despair wash virus parade dawn census answer";

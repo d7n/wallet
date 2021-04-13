@@ -1,1 +1,1 @@
-var mnemonic = "deny rhythm sail wife brief cactus click sing bounce cushion voice expire";
+var mnemonic = "afford target ancient corn elephant arrest super immune render simple vicious toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "fan impose lunar else time carry coin skull easy poet arrive element";
+var mnemonic = "bench first city mechanic today mansion pill million clip reduce slender top";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle honey notice apart park grunt kangaroo ozone wire business crime tattoo";
+var mnemonic = "useless lemon hole practice proud powder motion hazard code rug tomato marble";

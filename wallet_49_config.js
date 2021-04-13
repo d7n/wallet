@@ -1,1 +1,1 @@
-var mnemonic = "sorry diet crucial now race swarm water crew shy ball bench power";
+var mnemonic = "snap anchor camp approve secret winner pass virus food armor orchard region";

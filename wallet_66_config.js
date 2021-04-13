@@ -1,1 +1,1 @@
-var mnemonic = "access vocal garbage matter candy view animal need hire fuel announce height";
+var mnemonic = "trap shy trash bread bottom method recycle climb jacket blade craft group";

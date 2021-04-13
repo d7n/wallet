@@ -1,1 +1,1 @@
-var mnemonic = "child smart spare ethics energy motion illness bundle demand ill hub awful";
+var mnemonic = "stand sorry brave spring ripple swap awful skin travel reopen horse flame";

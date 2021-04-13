@@ -1,1 +1,1 @@
-var mnemonic = "weasel miracle allow muscle patrol actor supreme next sorry near taxi swap";
+var mnemonic = "wall rocket price piece spatial rib curtain drama vacuum perfect timber unknown";

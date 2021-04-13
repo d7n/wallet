@@ -1,1 +1,1 @@
-var mnemonic = "tide path shrug decorate unfold loud ride rotate myself dawn sport hotel";
+var mnemonic = "trick menu grace health foil sense moon tuition snack spray swift gossip";

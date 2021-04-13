@@ -1,1 +1,1 @@
-var mnemonic = "climb issue potato fork solar boat tray mirror mass coconut enlist destroy";
+var mnemonic = "strategy kidney remind erode rule tourist shrug upon mosquito wisdom donate puppy";

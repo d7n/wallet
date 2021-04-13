@@ -1,1 +1,1 @@
-var mnemonic = "address rally leg riot sail margin maple vapor short radar sad maple";
+var mnemonic = "true weird face easy iron sample cream brisk fantasy chunk garage more";

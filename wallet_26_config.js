@@ -1,1 +1,1 @@
-var mnemonic = "thunder industry rebel zoo slice situate roast lift pen various modify reunion";
+var mnemonic = "heavy report shock reunion derive early large century curious shrimp list sting";

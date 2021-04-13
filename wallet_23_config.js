@@ -1,1 +1,1 @@
-var mnemonic = "zone vessel include enter unaware winner fork any ankle off donkey celery";
+var mnemonic = "lyrics plunge tiger novel lunch can inherit nut crane wasp shed field";

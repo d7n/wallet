@@ -1,1 +1,1 @@
-var mnemonic = "feed select farm invite winner bomb torch easy envelope glance three isolate";
+var mnemonic = "fix island rival merit foot loop fruit bundle loan another confirm into";

@@ -1,1 +1,1 @@
-var mnemonic = "pen biology grain decade vivid bounce essay dinosaur decorate stereo unveil primary";
+var mnemonic = "salt panic flock swamp autumn planet twelve square daughter excuse beef galaxy";

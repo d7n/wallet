@@ -1,1 +1,1 @@
-var mnemonic = "manage climb mass grocery shoe old kangaroo else this pig replace panic";
+var mnemonic = "toss source mule merit depart captain juice slogan mirror pioneer proof rubber";

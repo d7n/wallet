@@ -1,1 +1,1 @@
-var mnemonic = "inquiry sphere toward diary try spread lake benefit swift broccoli grid metal";
+var mnemonic = "luggage hybrid swamp unknown jelly speed step used noodle blur cement laugh";

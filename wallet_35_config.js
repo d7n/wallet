@@ -1,1 +1,1 @@
-var mnemonic = "increase tobacco film buddy rare diesel admit depart steel flip crumble click";
+var mnemonic = "swear love gate equal swamp tube fault clerk south mix length trip";

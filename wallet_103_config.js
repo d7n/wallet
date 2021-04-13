@@ -1,1 +1,1 @@
-var mnemonic = "ivory wreck letter inmate garment chapter forest heavy hundred draw rocket budget";
+var mnemonic = "success resist day shed trick wisdom physical garlic wage true silk nest";

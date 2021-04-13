@@ -1,1 +1,1 @@
-var mnemonic = "resist hope noise nation vague knock mail physical dumb vehicle rack shoot";
+var mnemonic = "solar float same eight quiz program purity cannon awkward blur pizza raw";

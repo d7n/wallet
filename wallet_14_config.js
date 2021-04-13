@@ -1,1 +1,1 @@
-var mnemonic = "sunset matter junk scorpion tonight left sort again lock seed provide crawl";
+var mnemonic = "dress circle erase dose grit such economy syrup quiz region demise fever";

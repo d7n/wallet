@@ -1,1 +1,1 @@
-var mnemonic = "furnace monster fuel impose wood kid tomorrow actor between summer sand slight";
+var mnemonic = "club purity visual possible congress remember mosquito useless bean match attract foam";

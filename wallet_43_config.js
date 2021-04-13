@@ -1,1 +1,1 @@
-var mnemonic = "remind clog old orient alpha fine gorilla protect clutch tobacco ball vacant";
+var mnemonic = "grain tiger south hint ritual surge neutral spy certain car zoo deal";

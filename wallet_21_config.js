@@ -1,1 +1,1 @@
-var mnemonic = "waste vocal great approve ivory mandate orange great valid pumpkin isolate sorry";
+var mnemonic = "conduct because bunker peanut valid flash save gather state basket sell tooth";

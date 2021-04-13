@@ -1,1 +1,1 @@
-var mnemonic = "vehicle release unveil mesh shiver repair unfair drip brick inside scissors cute";
+var mnemonic = "unusual couch tray help camera theme harvest flush material north virtual deal";

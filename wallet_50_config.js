@@ -1,1 +1,1 @@
-var mnemonic = "soup april hidden practice label near envelope apart glad universe develop crumble";
+var mnemonic = "dream depend asset struggle weapon live pull believe near crawl mind crazy";

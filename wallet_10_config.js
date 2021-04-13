@@ -1,1 +1,1 @@
-var mnemonic = "brick drill guitar hole capital annual cause sun rug chest toy churn";
+var mnemonic = "canvas flavor hunt angry whale impose dog sorry nut forget rate upset";

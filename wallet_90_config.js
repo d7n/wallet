@@ -1,1 +1,1 @@
-var mnemonic = "hour verb gate one already noble tent label royal cupboard width version";
+var mnemonic = "hub chaos fever venue push ladder sleep amazing immune cushion horse average";

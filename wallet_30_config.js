@@ -1,1 +1,1 @@
-var mnemonic = "scale supreme extra foam decade salmon scare brief spring rug neither evoke";
+var mnemonic = "bike antique weather destroy duck fashion rubber fabric behave lounge gain travel";

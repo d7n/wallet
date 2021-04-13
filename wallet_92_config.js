@@ -1,1 +1,1 @@
-var mnemonic = "negative dynamic account control salute certain admit flee issue island flock audit";
+var mnemonic = "accuse reveal essence accident future pipe proof senior crunch grunt year electric";

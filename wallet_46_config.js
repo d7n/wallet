@@ -1,1 +1,1 @@
-var mnemonic = "bean sleep park clinic alarm enforce prosper bargain rookie outdoor stadium two";
+var mnemonic = "title sponsor pigeon thunder lottery spray ride find toast vote prize hat";

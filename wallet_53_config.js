@@ -1,1 +1,1 @@
-var mnemonic = "liar actual imitate truth fragile sketch attract put absorb exist blanket doll";
+var mnemonic = "enforce trade behind appear hollow hero thought virtual lobster belt hobby fashion";

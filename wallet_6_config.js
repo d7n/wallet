@@ -1,1 +1,1 @@
-var mnemonic = "foster modify chair swift rocket accuse skull flash just miss term cream";
+var mnemonic = "truth owner census joke tool brave shine brother bicycle learn supreme tell";

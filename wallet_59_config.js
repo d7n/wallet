@@ -1,1 +1,1 @@
-var mnemonic = "grocery spray arch nuclear across dish check aim thank sight crop truly";
+var mnemonic = "goose that crack provide punch bar soccer blast stove elegant occur salute";

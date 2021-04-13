@@ -1,1 +1,1 @@
-var mnemonic = "ivory bench people idle olive food goddess salt news venture dismiss fury";
+var mnemonic = "main menu clinic exchange fiscal advance injury oyster true select neglect tent";

@@ -1,1 +1,1 @@
-var mnemonic = "item fiction library achieve detect divide limb license monitor expect deer future";
+var mnemonic = "fame camera wreck economy social valve child patrol panther risk mountain model";

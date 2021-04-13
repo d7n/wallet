@@ -1,1 +1,1 @@
-var mnemonic = "install genuine seek fatal cat duck hover rose consider snow visa water";
+var mnemonic = "target system capable apart pitch shrug casual ride recipe erase left grant";

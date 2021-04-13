@@ -1,1 +1,1 @@
-var mnemonic = "sort other any entire object forward object comic install light state illness";
+var mnemonic = "trap future blue cinnamon want vapor soul spring rally warrior combine huge";

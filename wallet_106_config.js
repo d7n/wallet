@@ -1,1 +1,1 @@
-var mnemonic = "corn moon school swift rug tone timber cage soul path jump hybrid";
+var mnemonic = "area sense garment rely retire sick garden credit follow hazard suggest build";

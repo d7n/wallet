@@ -1,1 +1,1 @@
-var mnemonic = "beach nut giggle reunion dignity advice repeat eternal advance eagle echo betray";
+var mnemonic = "rare avoid zero cliff beach social spoon domain push tornado laptop emerge";

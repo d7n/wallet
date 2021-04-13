@@ -1,1 +1,1 @@
-var mnemonic = "wet omit hire wet fun dirt atom code hidden crime firm wet";
+var mnemonic = "spoon thank ketchup leisure asset finish bronze evoke oblige they possible behind";

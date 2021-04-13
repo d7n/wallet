@@ -1,1 +1,1 @@
-var mnemonic = "loan pioneer uphold spirit gadget swing brick lucky clarify crouch day dress";
+var mnemonic = "fruit width worth indicate oven paddle model boring culture drama unlock argue";

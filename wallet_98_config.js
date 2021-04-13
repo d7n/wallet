@@ -1,1 +1,1 @@
-var mnemonic = "crisp food march social option age spoon deposit pig carbon neglect reason";
+var mnemonic = "day fabric exit clown valid sight jazz strong ahead flock bitter silk";

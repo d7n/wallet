@@ -1,1 +1,1 @@
-var mnemonic = "admit dust cover forget crew mansion rabbit merry always mixed help quantum";
+var mnemonic = "bottom extra use uncover weekend vendor where amused piece hover scheme pulse";

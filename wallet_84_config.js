@@ -1,1 +1,1 @@
-var mnemonic = "ship mask arrow spider seminar guess few news assume luxury shuffle portion";
+var mnemonic = "toast concert better please useless panther this theory kite execute kite plastic";

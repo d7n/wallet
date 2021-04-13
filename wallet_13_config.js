@@ -1,1 +1,1 @@
-var mnemonic = "game clip flower expire enable effort acquire alone thing eternal flock hole";
+var mnemonic = "purse already badge debate adapt crumble hat escape route galaxy wait slow";

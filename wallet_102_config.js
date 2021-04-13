@@ -1,1 +1,1 @@
-var mnemonic = "galaxy balcony junior convince expand rebel mushroom scale warfare punch below oxygen";
+var mnemonic = "immense remind betray main soldier bike half solve learn exile spirit sniff";

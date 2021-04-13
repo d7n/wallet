@@ -1,1 +1,1 @@
-var mnemonic = "nerve junior whisper extend door stable power tired genius sing muscle guess";
+var mnemonic = "number spy hire cube wolf dumb primary chat ranch west toddler range";

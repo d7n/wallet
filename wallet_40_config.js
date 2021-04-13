@@ -1,1 +1,1 @@
-var mnemonic = "ancient guess burden essence rule opinion wine naive absorb forward height train";
+var mnemonic = "giggle joke feed fuel analyst torch dirt dice joke disagree donkey wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal until pitch sudden cheap chase lizard change obey unhappy romance truck";
+var mnemonic = "uncover tooth exit avoid harbor purpose rally myth stool place damage cream";

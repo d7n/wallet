@@ -1,1 +1,1 @@
-var mnemonic = "swim mask figure blast since diet sand window match ozone manual sense";
+var mnemonic = "body absent catalog include napkin shy capable fog glad release average inhale";

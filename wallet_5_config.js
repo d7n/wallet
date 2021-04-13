@@ -1,1 +1,1 @@
-var mnemonic = "input oblige hold autumn pond solid unaware engage world scene tiger spy";
+var mnemonic = "saddle oppose thank film bomb wide copper surge together spring lecture hotel";

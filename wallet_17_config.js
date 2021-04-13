@@ -1,1 +1,1 @@
-var mnemonic = "aim twenty magnet tool weekend female net swear cram arrest defy inform";
+var mnemonic = "error light cable salt million album quick stone crowd artist kind jeans";

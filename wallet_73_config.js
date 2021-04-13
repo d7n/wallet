@@ -1,1 +1,1 @@
-var mnemonic = "express whip wall item addict know save jazz hybrid inner boss junior";
+var mnemonic = "cause speak exist flock burst nut young salute web pole dune bright";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp orange casual distance awesome nut flock raise gravity dog scale timber";
+var mnemonic = "soldier wisdom correct tissue check dismiss mention execute spend bone fork dinner";

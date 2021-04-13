@@ -1,1 +1,1 @@
-var mnemonic = "road area bone volume ready hospital check park ski domain taxi strong";
+var mnemonic = "custom boost chapter excuse dentist coil ten range sugar broccoli inch oxygen";

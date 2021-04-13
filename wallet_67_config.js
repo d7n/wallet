@@ -1,1 +1,1 @@
-var mnemonic = "trick move witness submit frame picnic dwarf twenty pledge wedding pave ripple";
+var mnemonic = "fly slush debris dinosaur defense sell disease dutch search vague fancy large";

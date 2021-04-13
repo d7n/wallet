@@ -1,1 +1,1 @@
-var mnemonic = "whale casual famous wedding lend soldier install silly joke scissors curious lyrics";
+var mnemonic = "super hour manual fruit vocal inquiry lumber surround tackle robot invite wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose van code extra suffer unknown pond invest normal pair hedgehog icon";
+var mnemonic = "defense consider lucky expect asthma confirm alert void riot best disease lamp";

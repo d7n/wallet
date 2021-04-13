@@ -1,1 +1,1 @@
-var mnemonic = "unusual oppose copy vital ivory muffin narrow sad hawk language math gate";
+var mnemonic = "deny spot pupil faith report sick clump rent switch address orchard tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "dust enable hobby drum above demise observe clever merge buffalo cupboard next";
+var mnemonic = "once pen often novel wreck orchard wear squeeze reveal butter sun student";
