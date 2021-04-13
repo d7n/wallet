@@ -1,1 +1,1 @@
-var mnemonic = "option session noise valley unique grit disagree pencil bar kingdom damage spell";
+var mnemonic = "husband scorpion high front release scrap rival supreme unknown click off castle";

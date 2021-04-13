@@ -1,1 +1,1 @@
-var mnemonic = "model rubber easily glare burden shallow ask swamp rule pipe drip accident";
+var mnemonic = "feed select farm invite winner bomb torch easy envelope glance three isolate";

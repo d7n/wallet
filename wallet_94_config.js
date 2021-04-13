@@ -1,1 +1,1 @@
-var mnemonic = "ugly exit ceiling win tackle post winner cliff crystal rich trumpet giraffe";
+var mnemonic = "seed liquid pretty scout mirror left tribe slight govern emotion hazard medal";

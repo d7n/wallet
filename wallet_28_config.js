@@ -1,1 +1,1 @@
-var mnemonic = "minimum boy push matter relax sudden sadness frog chair account token bean";
+var mnemonic = "once embody oil tooth cheese wise erosion control frequent ridge swift process";

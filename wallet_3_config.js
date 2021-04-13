@@ -1,1 +1,1 @@
-var mnemonic = "wolf bomb silk cotton spike razor major fire any borrow dad card";
+var mnemonic = "wet omit hire wet fun dirt atom code hidden crime firm wet";

@@ -1,1 +1,1 @@
-var mnemonic = "company front oppose deliver position tuna exclude margin hurt cluster genre giant";
+var mnemonic = "resist hope noise nation vague knock mail physical dumb vehicle rack shoot";

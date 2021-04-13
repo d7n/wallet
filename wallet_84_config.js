@@ -1,1 +1,1 @@
-var mnemonic = "syrup upon huge copy oven era sniff uncover unable tackle comfort reform";
+var mnemonic = "ship mask arrow spider seminar guess few news assume luxury shuffle portion";

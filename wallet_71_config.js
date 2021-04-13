@@ -1,1 +1,1 @@
-var mnemonic = "jacket select radar range rent mix spot galaxy enable equip dial drive";
+var mnemonic = "address rally leg riot sail margin maple vapor short radar sad maple";

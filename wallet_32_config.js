@@ -1,1 +1,1 @@
-var mnemonic = "oppose neither burger advance spoil possible one dinosaur faint bomb urban state";
+var mnemonic = "pen biology grain decade vivid bounce essay dinosaur decorate stereo unveil primary";

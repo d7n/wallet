@@ -1,1 +1,1 @@
-var mnemonic = "lake doll country bag voyage obvious vanish van today town among guilt";
+var mnemonic = "deny rhythm sail wife brief cactus click sing bounce cushion voice expire";

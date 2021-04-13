@@ -1,1 +1,1 @@
-var mnemonic = "beef hub amused clap vanish fine world nation energy honey crawl sad";
+var mnemonic = "install genuine seek fatal cat duck hover rose consider snow visa water";

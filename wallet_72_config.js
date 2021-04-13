@@ -1,1 +1,1 @@
-var mnemonic = "voice ivory girl tower eagle junk silk amount casual dune team input";
+var mnemonic = "worry order possible begin egg rapid bag slush lesson there rack zebra";

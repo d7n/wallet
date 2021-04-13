@@ -1,1 +1,1 @@
-var mnemonic = "come solid dilemma found together memory mean all enough change detail top";
+var mnemonic = "vault enact turkey reject hour knee try lunar tool cloth better search";

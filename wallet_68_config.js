@@ -1,1 +1,1 @@
-var mnemonic = "jaguar round neither eternal long multiply wheat lecture rich still rigid spray";
+var mnemonic = "deal segment youth inform scorpion develop night turkey army fatal piano allow";

@@ -1,1 +1,1 @@
-var mnemonic = "village you patient know leave smooth blame claim visa actor gun develop";
+var mnemonic = "whale casual famous wedding lend soldier install silly joke scissors curious lyrics";

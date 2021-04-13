@@ -1,1 +1,1 @@
-var mnemonic = "access recipe spell sword scene whale side chapter unfold wood segment bind";
+var mnemonic = "unaware deny enjoy march obvious identify quote same two print ten main";

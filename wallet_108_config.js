@@ -1,1 +1,1 @@
-var mnemonic = "invest aware place candy cabbage canyon tonight consider total effort squirrel express";
+var mnemonic = "enough lecture crack enlist knife mix donate label cover rebuild hello glare";

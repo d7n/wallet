@@ -1,1 +1,1 @@
-var mnemonic = "seven shuffle little agree shaft core blur swallow proud thumb couple mimic";
+var mnemonic = "increase tobacco film buddy rare diesel admit depart steel flip crumble click";

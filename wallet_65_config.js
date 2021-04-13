@@ -1,1 +1,1 @@
-var mnemonic = "axis artwork nephew fatal lobster gift host below fork used yellow pass";
+var mnemonic = "sort other any entire object forward object comic install light state illness";

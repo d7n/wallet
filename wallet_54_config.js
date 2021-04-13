@@ -1,1 +1,1 @@
-var mnemonic = "tray kick disagree pave scissors liberty private impose sick claw cheese stage";
+var mnemonic = "biology typical crush fox lecture fabric across unaware elder front rude amateur";

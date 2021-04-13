@@ -1,1 +1,1 @@
-var mnemonic = "eternal shiver sea whale bid upon return wasp corn canvas plastic left";
+var mnemonic = "long vibrant ecology tooth duty slogan exercise bunker enemy shed slogan pioneer";

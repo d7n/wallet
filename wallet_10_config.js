@@ -1,1 +1,1 @@
-var mnemonic = "credit baby garden crouch vocal winner kingdom exact surround sort wolf credit";
+var mnemonic = "brick drill guitar hole capital annual cause sun rug chest toy churn";

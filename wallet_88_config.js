@@ -1,1 +1,1 @@
-var mnemonic = "autumn medal either million vast guard crucial seat always mind february mix";
+var mnemonic = "reveal until pitch sudden cheap chase lizard change obey unhappy romance truck";

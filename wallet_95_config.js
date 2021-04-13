@@ -1,1 +1,1 @@
-var mnemonic = "link host analyst diary seven excess clip future brain trip endorse crack";
+var mnemonic = "banana custom great ivory beef gaze tell try pipe hire company popular";

@@ -1,1 +1,1 @@
-var mnemonic = "truly blur program orient spy crouch enforce hat manual canal taste tonight";
+var mnemonic = "bring inform favorite victory sunny seminar shop bridge chunk scatter lift evolve";

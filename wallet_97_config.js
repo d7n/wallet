@@ -1,1 +1,1 @@
-var mnemonic = "unhappy right guard breeze useful veteran desk saddle infant matter close stand";
+var mnemonic = "original long major raw barely stairs convince oppose save pipe blood chat";

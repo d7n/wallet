@@ -1,1 +1,1 @@
-var mnemonic = "add you virus turkey assist online picture flower amazing spring interest rail";
+var mnemonic = "swim mask figure blast since diet sand window match ozone manual sense";

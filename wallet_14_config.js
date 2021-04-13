@@ -1,1 +1,1 @@
-var mnemonic = "science voyage ill blanket ranch scene broccoli provide surface capable tag powder";
+var mnemonic = "sunset matter junk scorpion tonight left sort again lock seed provide crawl";

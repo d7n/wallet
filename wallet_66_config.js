@@ -1,1 +1,1 @@
-var mnemonic = "canvas sad lab chest daring hire fever submit hamster virtual cube confirm";
+var mnemonic = "access vocal garbage matter candy view animal need hire fuel announce height";

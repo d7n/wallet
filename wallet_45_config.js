@@ -1,1 +1,1 @@
-var mnemonic = "punch picnic inmate front patient caught aunt present silly mass transfer people";
+var mnemonic = "false lyrics desert fatigue save tonight grocery moral credit whisper lucky girl";

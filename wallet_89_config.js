@@ -1,1 +1,1 @@
-var mnemonic = "acid require you track gravity faith excuse shop refuse strategy side client";
+var mnemonic = "swamp orange casual distance awesome nut flock raise gravity dog scale timber";

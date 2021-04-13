@@ -1,1 +1,1 @@
-var mnemonic = "ordinary become lemon oak weasel spawn ceiling stool mixed juice leader mad";
+var mnemonic = "vehicle honey notice apart park grunt kangaroo ozone wire business crime tattoo";

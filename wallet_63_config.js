@@ -1,1 +1,1 @@
-var mnemonic = "bike retire engine jewel predict autumn cable blanket wish dash genre average";
+var mnemonic = "snack tank goat misery prosper cage benefit error laptop gorilla side waste";

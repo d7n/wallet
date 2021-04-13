@@ -1,1 +1,1 @@
-var mnemonic = "awesome carpet range topic subject away ginger discover absorb setup harvest muscle";
+var mnemonic = "loan pioneer uphold spirit gadget swing brick lucky clarify crouch day dress";

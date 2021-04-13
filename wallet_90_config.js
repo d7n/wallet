@@ -1,1 +1,1 @@
-var mnemonic = "breeze cereal idle devote deputy chef spirit fan holiday liquid wink potato";
+var mnemonic = "hour verb gate one already noble tent label royal cupboard width version";

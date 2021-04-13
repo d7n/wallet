@@ -1,1 +1,1 @@
-var mnemonic = "genre negative dad control sauce island artwork actual olympic ask fun unknown";
+var mnemonic = "valve illness wish half loan emerge tape away olive stumble recipe pretty";

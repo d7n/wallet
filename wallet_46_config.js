@@ -1,1 +1,1 @@
-var mnemonic = "box stone grant woman love spoon answer cruise judge maid tone skill";
+var mnemonic = "bean sleep park clinic alarm enforce prosper bargain rookie outdoor stadium two";

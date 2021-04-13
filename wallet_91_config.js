@@ -1,1 +1,1 @@
-var mnemonic = "high luggage frozen catalog gift very soon token narrow cheese lounge various";
+var mnemonic = "baby flash struggle such forward deer cruise loud parade focus trigger donkey";

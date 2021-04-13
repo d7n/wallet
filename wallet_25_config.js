@@ -1,1 +1,1 @@
-var mnemonic = "rose time lift wild comic weather matter swear distance sheriff march field";
+var mnemonic = "item fiction library achieve detect divide limb license monitor expect deer future";

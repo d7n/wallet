@@ -1,1 +1,1 @@
-var mnemonic = "huge tennis lesson beauty patient knee vote repair release rural squirrel car";
+var mnemonic = "inform indicate initial mask ramp sibling other pupil green symbol memory frozen";

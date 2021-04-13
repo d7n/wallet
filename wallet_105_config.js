@@ -1,1 +1,1 @@
-var mnemonic = "poem age couch unfair globe sell marriage deer animal endorse floor ivory";
+var mnemonic = "beach nut giggle reunion dignity advice repeat eternal advance eagle echo betray";

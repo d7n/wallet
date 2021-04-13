@@ -1,1 +1,1 @@
-var mnemonic = "sing card plate cliff sheriff immense object tunnel pact task shrimp return";
+var mnemonic = "tide path shrug decorate unfold loud ride rotate myself dawn sport hotel";

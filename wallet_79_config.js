@@ -1,1 +1,1 @@
-var mnemonic = "daughter mention illness brave mimic wide cram way apart river brand jewel";
+var mnemonic = "picnic write dish beyond wheat gift destroy dust pony banner pond finish";

@@ -1,1 +1,1 @@
-var mnemonic = "collect ranch chicken nice exotic army thrive oyster segment village salon raise";
+var mnemonic = "lobster verify idle neglect kidney resource wedding arrow someone sword fatigue transfer";

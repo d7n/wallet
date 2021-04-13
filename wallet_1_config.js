@@ -1,1 +1,1 @@
-var mnemonic = "also mouse topic vivid what industry curtain rose mixed laundry tennis attract";
+var mnemonic = "fan impose lunar else time carry coin skull easy poet arrive element";

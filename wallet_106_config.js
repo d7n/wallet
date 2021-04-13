@@ -1,1 +1,1 @@
-var mnemonic = "awesome improve wire fix chair borrow skate dad friend summer olive cage";
+var mnemonic = "corn moon school swift rug tone timber cage soul path jump hybrid";

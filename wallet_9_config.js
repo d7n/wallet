@@ -1,1 +1,1 @@
-var mnemonic = "remind citizen orient business screen wild bless buddy shallow coffee resource satoshi";
+var mnemonic = "unusual oppose copy vital ivory muffin narrow sad hawk language math gate";

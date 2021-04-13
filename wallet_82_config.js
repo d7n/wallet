@@ -1,1 +1,1 @@
-var mnemonic = "castle faculty train boost naive crash slice job claw fiction forest clerk";
+var mnemonic = "climb issue potato fork solar boat tray mirror mass coconut enlist destroy";

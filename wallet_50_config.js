@@ -1,1 +1,1 @@
-var mnemonic = "power dumb piano seed robust copy wise purity shed cluster electric layer";
+var mnemonic = "soup april hidden practice label near envelope apart glad universe develop crumble";

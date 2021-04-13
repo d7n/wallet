@@ -1,1 +1,1 @@
-var mnemonic = "addict struggle six idle cargo puppy exit soap evidence spell pulp pattern";
+var mnemonic = "oppose van code extra suffer unknown pond invest normal pair hedgehog icon";

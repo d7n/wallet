@@ -1,1 +1,1 @@
-var mnemonic = "increase brick domain bread weekend lucky mirror relax air shed patrol rate";
+var mnemonic = "remind clog old orient alpha fine gorilla protect clutch tobacco ball vacant";

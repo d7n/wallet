@@ -1,1 +1,1 @@
-var mnemonic = "edit step clown love awkward vicious plastic mystery absorb laugh ecology worry";
+var mnemonic = "ancient guess burden essence rule opinion wine naive absorb forward height train";

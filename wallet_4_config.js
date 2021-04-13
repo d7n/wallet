@@ -1,1 +1,1 @@
-var mnemonic = "draw permit one other never inquiry slogan dry robust umbrella gift letter";
+var mnemonic = "cable mother inside vehicle humble sadness dirt blur unaware uncover salt time";

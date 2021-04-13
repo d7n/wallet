@@ -1,1 +1,1 @@
-var mnemonic = "stand torch marriage section inhale melt awful arrow visit tank submit spatial";
+var mnemonic = "express whip wall item addict know save jazz hybrid inner boss junior";

@@ -1,1 +1,1 @@
-var mnemonic = "scare renew fatal video trigger shy sting rocket section manage repair advance";
+var mnemonic = "trick move witness submit frame picnic dwarf twenty pledge wedding pave ripple";

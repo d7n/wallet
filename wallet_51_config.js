@@ -1,1 +1,1 @@
-var mnemonic = "satisfy giraffe simple admit purse knife cargo march peace chimney exist silk";
+var mnemonic = "nation power industry decline custom oven oblige degree exit style enable mean";

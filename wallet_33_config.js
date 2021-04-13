@@ -1,1 +1,1 @@
-var mnemonic = "whisper path forward icon hard knee unique mercy load use crumble garment";
+var mnemonic = "divorce weekend snap giant opera casual quality cook smile error wise brick";

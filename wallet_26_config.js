@@ -1,1 +1,1 @@
-var mnemonic = "pupil direct claim cancel flee jazz school hand luxury corn fade code";
+var mnemonic = "thunder industry rebel zoo slice situate roast lift pen various modify reunion";

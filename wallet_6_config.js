@@ -1,1 +1,1 @@
-var mnemonic = "smoke security ostrich credit nose atom napkin settle defense capital attract earth";
+var mnemonic = "foster modify chair swift rocket accuse skull flash just miss term cream";

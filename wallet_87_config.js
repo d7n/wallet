@@ -1,1 +1,1 @@
-var mnemonic = "hour height fix brand reflect bless salmon gas subject tray assault exhibit";
+var mnemonic = "under blouse steak inject soon glare flip parent ozone push green economy";

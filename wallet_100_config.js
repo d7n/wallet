@@ -1,1 +1,1 @@
-var mnemonic = "govern dad glare shrug cram tourist inject say fence purse safe vote";
+var mnemonic = "nerve junior whisper extend door stable power tired genius sing muscle guess";

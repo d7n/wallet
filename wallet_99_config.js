@@ -1,1 +1,1 @@
-var mnemonic = "capable dream beach cluster race struggle tribe shed exist whisper funny task";
+var mnemonic = "grid very link fold angry amount pencil wish sponsor shiver pause bird";

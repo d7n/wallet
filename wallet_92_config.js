@@ -1,1 +1,1 @@
-var mnemonic = "humble close second sponsor trend seek critic phrase boss diamond marriage strike";
+var mnemonic = "negative dynamic account control salute certain admit flee issue island flock audit";

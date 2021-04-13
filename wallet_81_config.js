@@ -1,1 +1,1 @@
-var mnemonic = "vicious genuine depth impulse sport fork spy jungle thunder almost broom horse";
+var mnemonic = "attend receive shaft truly route quarter various drink demise slab stamp page";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet able enlist tip flee gravity stand chapter toilet task lumber burst";
+var mnemonic = "army make settle liberty occur warfare tattoo notable similar hawk vanish edge";

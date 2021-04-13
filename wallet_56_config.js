@@ -1,1 +1,1 @@
-var mnemonic = "roast crawl beach assume unable spike clutch board give relief expect egg";
+var mnemonic = "vehicle release unveil mesh shiver repair unfair drip brick inside scissors cute";

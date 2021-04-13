@@ -1,1 +1,1 @@
-var mnemonic = "wage shift equip enemy pigeon attack squeeze globe net sorry sure client";
+var mnemonic = "warrior just party impact beef what wreck blossom question embark success stem";

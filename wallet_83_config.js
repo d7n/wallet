@@ -1,1 +1,1 @@
-var mnemonic = "critic gesture bench half rapid annual loud rather joke april carpet tiny";
+var mnemonic = "height arctic vicious topple denial swim math marble emerge above organ nut";

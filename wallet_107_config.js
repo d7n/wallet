@@ -1,1 +1,1 @@
-var mnemonic = "rapid eager pudding idea cupboard away garden defy hammer trash today ladder";
+var mnemonic = "ability dish indoor walk few chest enrich inform account throw space isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster bunker daughter industry consider afford bacon interest purchase rabbit mandate top";
+var mnemonic = "fresh camp wild lift husband survey again term breeze buzz december ancient";

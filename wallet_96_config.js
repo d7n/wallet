@@ -1,1 +1,1 @@
-var mnemonic = "toy jelly current dune fix quick document clip live midnight betray universe";
+var mnemonic = "dust enable hobby drum above demise observe clever merge buffalo cupboard next";

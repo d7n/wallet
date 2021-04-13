@@ -1,1 +1,1 @@
-var mnemonic = "wedding copy antenna rapid hood visit valve supply alien select essay park";
+var mnemonic = "ivory wreck letter inmate garment chapter forest heavy hundred draw rocket budget";

@@ -1,1 +1,1 @@
-var mnemonic = "code source wedding cheap moral alone pumpkin plate upon spoon virus cereal";
+var mnemonic = "boat enjoy bird pony still work middle sound ill current stand avoid";

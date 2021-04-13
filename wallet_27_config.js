@@ -1,1 +1,1 @@
-var mnemonic = "sail riot buyer exchange among portion mandate under spawn trend usual material";
+var mnemonic = "road area bone volume ready hospital check park ski domain taxi strong";

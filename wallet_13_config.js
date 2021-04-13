@@ -1,1 +1,1 @@
-var mnemonic = "price machine message match knife kiss short scout parent sock border razor";
+var mnemonic = "game clip flower expire enable effort acquire alone thing eternal flock hole";

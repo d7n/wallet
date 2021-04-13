@@ -1,1 +1,1 @@
-var mnemonic = "reward slab already umbrella attitude weasel mesh brain rich chest spot poem";
+var mnemonic = "grocery spray arch nuclear across dish check aim thank sight crop truly";

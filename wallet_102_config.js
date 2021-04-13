@@ -1,1 +1,1 @@
-var mnemonic = "message reflect exercise enter trip cushion evolve observe skull general laundry absent";
+var mnemonic = "galaxy balcony junior convince expand rebel mushroom scale warfare punch below oxygen";

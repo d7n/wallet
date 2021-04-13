@@ -1,1 +1,1 @@
-var mnemonic = "opera work hockey daring primary usage scheme meat fan today client east";
+var mnemonic = "fire valid tiny friend capital alone great brother give mail reject unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse lazy soccer replace grit horror noodle impose lend fever setup orient";
+var mnemonic = "deal potato inmate behind mutual ivory biology because rubber hill mom general";

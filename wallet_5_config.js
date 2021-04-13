@@ -1,1 +1,1 @@
-var mnemonic = "middle road elite globe original also soap cave simple cabin divert issue";
+var mnemonic = "input oblige hold autumn pond solid unaware engage world scene tiger spy";

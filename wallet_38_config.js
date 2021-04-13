@@ -1,1 +1,1 @@
-var mnemonic = "jump movie whip club sniff decade spray situate armor sick jelly afford";
+var mnemonic = "captain this dizzy disease dilemma couch boil clinic hub parrot produce decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor put clarify claim hammer motion melody setup pull pact upgrade labor";
+var mnemonic = "admit dust cover forget crew mansion rabbit merry always mixed help quantum";
