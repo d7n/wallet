@@ -1,1 +1,1 @@
-var mnemonic = "shallow minimum era capital toss fever cactus column stem holiday brain floor";
+var mnemonic = "clump leave minute brown refuse popular powder drama black three palace embrace";

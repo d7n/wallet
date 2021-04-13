@@ -1,1 +1,1 @@
-var mnemonic = "beyond tuition sibling fitness soft sight violin exercise write diamond emotion bubble";
+var mnemonic = "favorite elite never wasp funny vital awake simple address equip cool sadness";

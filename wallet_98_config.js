@@ -1,1 +1,1 @@
-var mnemonic = "monkey major uphold sample special smile cool spy air scatter come clay";
+var mnemonic = "private bread input cheap snow cigar river common anxiety prepare area quit";

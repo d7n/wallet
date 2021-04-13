@@ -1,1 +1,1 @@
-var mnemonic = "combine local cattle figure rude parrot plug couple session runway way tower";
+var mnemonic = "snap wink loop jacket card blast proud lesson sun push survey library";

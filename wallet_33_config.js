@@ -1,1 +1,1 @@
-var mnemonic = "sword receive main praise refuse lock image unhappy detect buyer bottom endorse";
+var mnemonic = "denial stem patient kiwi invite what text roof nephew miracle fiscal volume";

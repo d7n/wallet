@@ -1,1 +1,1 @@
-var mnemonic = "text spice now rebuild desert swallow wild black slam roast reopen chicken";
+var mnemonic = "dismiss trend guard anxiety silly coach cabbage detail ticket slight practice unveil";

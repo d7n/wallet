@@ -1,1 +1,1 @@
-var mnemonic = "unveil hair organ phrase misery acid amount error crawl clog average appear";
+var mnemonic = "erase fluid monkey minimum argue finish input ginger organ dice matrix home";

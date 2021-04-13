@@ -1,1 +1,1 @@
-var mnemonic = "grid paddle around host spoon tenant table defense chief echo furnace fame";
+var mnemonic = "peanut okay august donor viable amused swim minimum verify refuse burger sunset";

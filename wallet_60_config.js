@@ -1,1 +1,1 @@
-var mnemonic = "spirit awake ranch ridge guide stamp peanut awake side insane clay shine";
+var mnemonic = "office nothing electric cancel bid enlist grid analyst panic embark above stamp";

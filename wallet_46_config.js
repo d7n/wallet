@@ -1,1 +1,1 @@
-var mnemonic = "live cactus leave hurdle tube derive wrestle morning inquiry tray true hover";
+var mnemonic = "raccoon police kangaroo globe grocery betray pyramid struggle glance knee neglect prepare";

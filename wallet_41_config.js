@@ -1,1 +1,1 @@
-var mnemonic = "mother valid only forum degree check maid city valve warm draft carpet";
+var mnemonic = "pyramid seat deer suffer moral seven basket agree chuckle tattoo custom make";

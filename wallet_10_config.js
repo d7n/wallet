@@ -1,1 +1,1 @@
-var mnemonic = "soon imitate orchard sing come practice detail okay write grant apple wear";
+var mnemonic = "term fever type evoke describe pulp obvious sadness force height weekend buyer";

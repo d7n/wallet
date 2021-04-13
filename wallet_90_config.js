@@ -1,1 +1,1 @@
-var mnemonic = "decide lab milk wasp neutral midnight stove smooth project derive spike shoot";
+var mnemonic = "glad pencil match waste grass indicate race edge dose keep book bicycle";

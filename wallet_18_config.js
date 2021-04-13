@@ -1,1 +1,1 @@
-var mnemonic = "inject bomb genre submit height core asthma wait result hobby tank stool";
+var mnemonic = "holiday express flag potato harsh spring rough grow blade annual embody owner";

@@ -1,1 +1,1 @@
-var mnemonic = "middle shoot romance supply barely tail success what neutral confirm gown enter";
+var mnemonic = "oblige genuine attend bottom state major parent stone home among thrive soft";

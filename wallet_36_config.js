@@ -1,1 +1,1 @@
-var mnemonic = "wall power rude because become theory prosper sibling resemble planet hunt coral";
+var mnemonic = "paper home measure divide innocent sibling crop faculty myth dirt hybrid universe";

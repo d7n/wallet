@@ -1,1 +1,1 @@
-var mnemonic = "design tilt once school this road unveil struggle camp quantum champion aisle";
+var mnemonic = "wolf vendor banner want piano slight hobby family dial reflect elder flip";

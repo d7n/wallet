@@ -1,1 +1,1 @@
-var mnemonic = "remember snow reunion law imitate hedgehog dilemma ecology guilt soup light divert";
+var mnemonic = "virtual tortoise tennis wreck airport option rebel field suggest cement tonight current";

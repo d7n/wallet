@@ -1,1 +1,1 @@
-var mnemonic = "fresh napkin around appear opinion body edit equip produce boil pledge bargain";
+var mnemonic = "raise lock forest flash thrive lesson inspire hello give bench drop host";

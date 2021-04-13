@@ -1,1 +1,1 @@
-var mnemonic = "danger inch cover uphold crazy green slow quit element win top kick";
+var mnemonic = "tackle drop jazz loan venue stem badge spell ranch farm purpose motor";

@@ -1,1 +1,1 @@
-var mnemonic = "result please cloth repair jump segment ordinary clip try swallow vanish beef";
+var mnemonic = "artwork naive embrace skin tool improve green language ride gentle field trophy";

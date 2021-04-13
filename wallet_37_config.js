@@ -1,1 +1,1 @@
-var mnemonic = "lecture modify account rain basic same spider marble sign crane swear salute";
+var mnemonic = "isolate solar assault enact blood direct rate scrap orange identify real train";

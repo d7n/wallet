@@ -1,1 +1,1 @@
-var mnemonic = "comfort sketch true short mad balcony plunge man sock ask curious lunar";
+var mnemonic = "grain twist west patch link wet bone easily energy pistol include first";

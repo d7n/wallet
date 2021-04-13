@@ -1,1 +1,1 @@
-var mnemonic = "drastic grape huge arch cash celery devote define left spoil wave seminar";
+var mnemonic = "bleak few master stand audit dial aerobic six copper rebuild heart arctic";

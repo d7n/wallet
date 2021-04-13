@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit club pulp actual curve movie luxury regular trigger idle steel eye";
+var mnemonic = "fossil leg evoke subway consider edge short card bread modify place humble";

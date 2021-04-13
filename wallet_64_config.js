@@ -1,1 +1,1 @@
-var mnemonic = "please series income atom mirror fortune can shop acoustic mansion taste retire";
+var mnemonic = "swallow moral punch catch embody spy educate atom unique illegal casual market";

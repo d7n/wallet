@@ -1,1 +1,1 @@
-var mnemonic = "sing joke youth denial occur capable vendor sight sense hint rent mixed";
+var mnemonic = "circle into inject kind anxiety lottery rely behind bar unique solid light";

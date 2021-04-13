@@ -1,1 +1,1 @@
-var mnemonic = "lake museum exotic equip feed horse blush believe sustain firm despair track";
+var mnemonic = "salt renew claim member notice immune vapor room soda desert obey purity";

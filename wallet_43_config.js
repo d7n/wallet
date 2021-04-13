@@ -1,1 +1,1 @@
-var mnemonic = "patrol manual panel canvas message piano beyond ugly guard execute fly street";
+var mnemonic = "exile hurdle grass feature acid ride engine example muffin surface august normal";

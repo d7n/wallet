@@ -1,1 +1,1 @@
-var mnemonic = "brisk approve shiver wall home upgrade flock famous bundle trumpet direct eight";
+var mnemonic = "salute obscure old bounce picture quote behind credit combine split safe ten";

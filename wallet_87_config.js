@@ -1,1 +1,1 @@
-var mnemonic = "drop music magic can sting scrap group glare trust improve damage mammal";
+var mnemonic = "crater jeans life soul wink swallow couch people monitor found donor cost";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis sell advance volume skin possible kit sick egg juice monitor arrow";
+var mnemonic = "frog wave pyramid hamster beach fiscal interest rubber kick remove romance warrior";

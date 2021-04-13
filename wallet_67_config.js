@@ -1,1 +1,1 @@
-var mnemonic = "cheese captain equip erupt spoon lottery ten group visa breeze record chef";
+var mnemonic = "wagon ripple night glare boat electric machine recipe verb nasty flame blanket";

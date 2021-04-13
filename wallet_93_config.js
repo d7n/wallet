@@ -1,1 +1,1 @@
-var mnemonic = "episode adult prefer man file yellow mirror length notice fog frequent accuse";
+var mnemonic = "rifle naive year canvas dentist rose general shoulder kingdom bus cycle churn";

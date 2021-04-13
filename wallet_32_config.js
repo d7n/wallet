@@ -1,1 +1,1 @@
-var mnemonic = "ensure behind magnet like deer extra couple token trap walk endorse devote";
+var mnemonic = "gossip flavor among crucial milk warm dress kitchen truth obscure hybrid timber";

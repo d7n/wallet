@@ -1,1 +1,1 @@
-var mnemonic = "increase mimic kiss rug metal merit fancy curve shy patient perfect help";
+var mnemonic = "follow little forget shield logic hill truck length inside similar common gather";

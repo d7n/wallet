@@ -1,1 +1,1 @@
-var mnemonic = "tongue bless dust tone modify tuna divide guess spawn bargain garment old";
+var mnemonic = "spoil seat fever before pistol air wagon vocal catch ring connect empty";

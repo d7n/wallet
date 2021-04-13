@@ -1,1 +1,1 @@
-var mnemonic = "build fantasy brave capable attack struggle gorilla august pride bulk brass sudden";
+var mnemonic = "clerk hockey average rival cannon wife spice struggle position phone waste kangaroo";

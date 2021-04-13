@@ -1,1 +1,1 @@
-var mnemonic = "bridge walnut episode scout else hedgehog depart young later loan little fiscal";
+var mnemonic = "cross census another chicken raise misery left junior suit party midnight soup";

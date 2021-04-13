@@ -1,1 +1,1 @@
-var mnemonic = "pipe runway mystery comfort split pill doll virtual train leaf fan exist";
+var mnemonic = "faculty whale forest myself labor believe honey guess claw faint cool ensure";

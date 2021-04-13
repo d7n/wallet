@@ -1,1 +1,1 @@
-var mnemonic = "wash raise merge hammer hint wise fall mad gather device cart planet";
+var mnemonic = "magnet hire drop brush group pupil picnic devote tourist project tourist distance";

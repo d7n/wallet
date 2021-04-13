@@ -1,1 +1,1 @@
-var mnemonic = "surprise hybrid kid kitchen nasty matter decade simple belt common dose bid";
+var mnemonic = "fancy ankle truly destroy life stadium turtle gadget lab possible limb oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "van aim title fantasy frost profit unlock wreck reunion shadow noise rough";
+var mnemonic = "detect average oven rose route wing box accident wire holiday viable scene";

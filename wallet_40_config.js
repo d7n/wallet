@@ -1,1 +1,1 @@
-var mnemonic = "surge pony tooth open rotate word detail emerge vendor right nut margin";
+var mnemonic = "beach option word famous purity candy fee liar car episode door caught";

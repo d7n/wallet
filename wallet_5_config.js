@@ -1,1 +1,1 @@
-var mnemonic = "month mobile snap gesture age pulp riot oxygen ten era frown fun";
+var mnemonic = "panel noodle ritual pull can exotic letter unable wheat naive soft learn";

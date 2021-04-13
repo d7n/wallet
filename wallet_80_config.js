@@ -1,1 +1,1 @@
-var mnemonic = "wasp always decorate seed where proof pride will deputy total tell dismiss";
+var mnemonic = "rely seminar visa turtle chuckle direct denial calm extend crash width space";

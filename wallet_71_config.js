@@ -1,1 +1,1 @@
-var mnemonic = "toss husband carpet rail liar scheme else ecology torch soda into hand";
+var mnemonic = "moment reason ginger slam cost genre lake minimum actress daughter below vendor";

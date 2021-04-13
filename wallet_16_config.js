@@ -1,1 +1,1 @@
-var mnemonic = "depart life source obey use wave enhance unfold fame sister defy guard";
+var mnemonic = "cream afraid fatigue unaware gasp elbow bargain nest bonus century lab text";

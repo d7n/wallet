@@ -1,1 +1,1 @@
-var mnemonic = "rival casino ball frown jeans leave shoot reflect observe giraffe final ocean";
+var mnemonic = "fetch mystery wealth cradle belt beyond term paddle seminar paper noble educate";

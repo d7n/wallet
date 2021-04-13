@@ -1,1 +1,1 @@
-var mnemonic = "proof update keep twin whale major ozone section gown ill fence boring";
+var mnemonic = "stone giraffe column cycle merry chicken actress rocket pause waste street panda";

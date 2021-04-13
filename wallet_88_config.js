@@ -1,1 +1,1 @@
-var mnemonic = "floor stage reform minor field circle script place exchange flip blossom empty";
+var mnemonic = "runway female major honey prevent end trophy armed subject nation photo secret";

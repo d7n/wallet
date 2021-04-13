@@ -1,1 +1,1 @@
-var mnemonic = "lesson nothing festival educate talk board deputy inhale depend mix digital deliver";
+var mnemonic = "illness pencil all iron live resemble library acoustic latin crisp web marine";

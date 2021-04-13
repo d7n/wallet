@@ -1,1 +1,1 @@
-var mnemonic = "scrap paper hollow system pet hunt journey fall spoil soldier wool tired";
+var mnemonic = "robot priority garage glove lock vapor resist century repeat extend maximum fiction";

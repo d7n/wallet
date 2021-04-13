@@ -1,1 +1,1 @@
-var mnemonic = "flat avoid online fame eternal eager brand gesture special certain marriage history";
+var mnemonic = "jaguar cattle dinner select sea crew mix black ensure metal virtual evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder adult peasant banana better frown funny huge shell know giraffe coin";
+var mnemonic = "polar project tribe bacon suspect merge spell lesson tortoise snake give fork";

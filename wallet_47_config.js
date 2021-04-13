@@ -1,1 +1,1 @@
-var mnemonic = "author moment pledge hour appear toe electric execute crowd produce buzz hero";
+var mnemonic = "fragile truck hover broccoli yard reflect future neglect female derive hero hero";

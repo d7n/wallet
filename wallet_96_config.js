@@ -1,1 +1,1 @@
-var mnemonic = "brief pride drill spring truly woman broom normal tiger canoe leg sure";
+var mnemonic = "pear poverty faint cattle couch place exhaust near spend pride creek move";

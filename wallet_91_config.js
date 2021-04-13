@@ -1,1 +1,1 @@
-var mnemonic = "now tool matter bicycle dial major comic convince abuse garbage credit luggage";
+var mnemonic = "avocado rely total engine situate library edit carry climb slim crop paper";

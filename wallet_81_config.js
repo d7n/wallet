@@ -1,1 +1,1 @@
-var mnemonic = "journey tennis decide better please law burst trigger win page between simple";
+var mnemonic = "august violin slender detect message owner stay gospel gravity wide silent olympic";

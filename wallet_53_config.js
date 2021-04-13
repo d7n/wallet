@@ -1,1 +1,1 @@
-var mnemonic = "possible coach code box toss thought gap van target wealth copper celery";
+var mnemonic = "maximum velvet that absorb oppose evil blood welcome super seed rib kind";

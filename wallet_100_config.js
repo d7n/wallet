@@ -1,1 +1,1 @@
-var mnemonic = "erosion notable metal potato ritual thumb crazy gun evolve boil screen bicycle";
+var mnemonic = "page exact rubber fury popular shy wire empower correct biology weekend attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "agent rely wear uniform alien record paper method damp skate purchase play";
+var mnemonic = "wink drama code follow fetch device oxygen achieve arrange control habit mountain";

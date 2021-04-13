@@ -1,1 +1,1 @@
-var mnemonic = "forum blue badge solution drive control grass bronze type account human health";
+var mnemonic = "six cement skate spy symptom denial verb crush library guitar inmate taste";

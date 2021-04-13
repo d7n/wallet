@@ -1,1 +1,1 @@
-var mnemonic = "ostrich session dentist casino crop garbage world october shoot genre enforce cable";
+var mnemonic = "fuel beauty movie feature health calm jealous deposit humble witness hammer true";

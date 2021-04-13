@@ -1,1 +1,1 @@
-var mnemonic = "anchor garment order curious ability six undo twelve ignore fine account promote";
+var mnemonic = "puzzle ten alcohol voyage rabbit legal arm over wedding next kangaroo bulb";

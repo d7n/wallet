@@ -1,1 +1,1 @@
-var mnemonic = "soccer liar office smile ensure refuse lottery auction frame violin candy network";
+var mnemonic = "case crouch nasty cruise author step situate desert expect hotel visual kitten";

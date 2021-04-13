@@ -1,1 +1,1 @@
-var mnemonic = "half spread clerk purse village skirt bronze soap walnut wisdom copy fun";
+var mnemonic = "pledge chief search mad relief album banner bottom occur west cluster lend";

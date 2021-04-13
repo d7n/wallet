@@ -1,1 +1,1 @@
-var mnemonic = "story equip captain daring clog budget noodle reveal arch clever truck phone";
+var mnemonic = "scan vessel acquire stool energy debris man appear shadow olympic distance symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic spirit video good harbor comic usual spoil ethics reason segment right";
+var mnemonic = "episode vacant lunch tip hire demise become series adult novel edge property";

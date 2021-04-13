@@ -1,1 +1,1 @@
-var mnemonic = "saddle tip annual pipe sauce coach holiday clown creek volcano fatigue word";
+var mnemonic = "glow puppy clerk raw adapt grant quality hero crew walk myself frown";

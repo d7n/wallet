@@ -1,1 +1,1 @@
-var mnemonic = "unusual milk involve weather property toss dilemma gadget accident news beef shove";
+var mnemonic = "strong insect river twin panda tiny light energy gorilla live pave spring";

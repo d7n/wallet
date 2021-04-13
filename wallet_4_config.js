@@ -1,1 +1,1 @@
-var mnemonic = "random giant kit cube gasp fault powder victory they police unveil shadow";
+var mnemonic = "skate stumble coyote mirror carbon guess dinner bread almost found brown panic";

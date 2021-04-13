@@ -1,1 +1,1 @@
-var mnemonic = "girl label beyond cart race find hen fan absent swim winter involve";
+var mnemonic = "merit shoulder buddy dune improve leave cover run mimic lucky garbage lion";

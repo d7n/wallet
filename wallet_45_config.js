@@ -1,1 +1,1 @@
-var mnemonic = "moment embody chuckle siren viable mammal unveil oval slice sunny poet local";
+var mnemonic = "student gorilla orchard father poet draft head century promote relief involve enroll";

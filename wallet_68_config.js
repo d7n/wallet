@@ -1,1 +1,1 @@
-var mnemonic = "crystal spot nothing lava trigger rocket fan space thank left lonely peasant";
+var mnemonic = "someone sword very announce sand lunch grow lock hospital spell park large";

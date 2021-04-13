@@ -1,1 +1,1 @@
-var mnemonic = "garage sniff hedgehog follow cage mountain twenty purchase youth lottery diamond clay";
+var mnemonic = "image squeeze roast harbor fly regular board march critic goose sword asthma";

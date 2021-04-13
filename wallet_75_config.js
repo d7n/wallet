@@ -1,1 +1,1 @@
-var mnemonic = "trick imitate uncover cute skull material tornado grunt vital mechanic rent inspire";
+var mnemonic = "surprise noise border parrot engage casual memory able final enhance slender economy";

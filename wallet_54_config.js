@@ -1,1 +1,1 @@
-var mnemonic = "suit more stadium miracle draft young often edge crater coast elephant where";
+var mnemonic = "empty confirm level juice island calm behind uphold fiscal lizard canal whale";

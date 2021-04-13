@@ -1,1 +1,1 @@
-var mnemonic = "garden clay hybrid copper brown lawsuit inject merge flash goose wool ordinary";
+var mnemonic = "clinic check tower hair defy beyond fox course noble ask noodle thing";

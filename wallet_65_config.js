@@ -1,1 +1,1 @@
-var mnemonic = "column surround drip floor party strike layer case float rigid gentle rib";
+var mnemonic = "much oak theory twist patrol smart suit service slide stem increase twist";

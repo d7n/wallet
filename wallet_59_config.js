@@ -1,1 +1,1 @@
-var mnemonic = "lesson puppy fire upon addict crane elephant claw correct scheme crop zero";
+var mnemonic = "fan destroy arrange frost thumb mind camp album sock quote you try";

@@ -1,1 +1,1 @@
-var mnemonic = "physical replace glare oval brother maple trash error meadow salute parade surge";
+var mnemonic = "pool cruise deposit cherry end bone truth caught possible trust wedding face";

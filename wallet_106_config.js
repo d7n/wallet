@@ -1,1 +1,1 @@
-var mnemonic = "garage frog tide sniff cigar salute large wall spawn unknown mind conduct";
+var mnemonic = "elephant dynamic toe artefact race cousin birth social ball face absurd flight";

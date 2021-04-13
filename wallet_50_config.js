@@ -1,1 +1,1 @@
-var mnemonic = "gossip cruel beef silver issue egg noodle weasel ability airport fuel indicate";
+var mnemonic = "sing home kitten celery dirt vast mad bitter truly ill basic segment";
