@@ -1,1 +1,1 @@
-var mnemonic = "goddess test fix hospital skull cost degree goddess orphan gasp thank tuna";
+var mnemonic = "foster virus idle purity cluster mammal magic melt poet under toilet october";

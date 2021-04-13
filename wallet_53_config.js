@@ -1,1 +1,1 @@
-var mnemonic = "avocado shadow approve matter bike weather tragic rain that pen improve bounce";
+var mnemonic = "token midnight bargain world bacon able paddle spin tragic clinic during pact";

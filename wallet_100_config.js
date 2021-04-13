@@ -1,1 +1,1 @@
-var mnemonic = "pretty fish spike sting flower dinosaur junk zero settle arena pass column";
+var mnemonic = "hazard spice add tongue judge sustain real develop void soul salt slush";

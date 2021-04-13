@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon taste identify proud zone country patrol mixed arrest shoulder ability topic";
+var mnemonic = "defy crowd unaware rival matter bomb faith grid habit eye prize stairs";

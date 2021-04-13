@@ -1,1 +1,1 @@
-var mnemonic = "twelve flat dirt slender industry employ apology feed embark dune ketchup atom";
+var mnemonic = "guard pizza okay index swing year airport action provide surround lift peanut";

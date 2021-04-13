@@ -1,1 +1,1 @@
-var mnemonic = "frozen parrot job nose lyrics next exist vendor key write dash innocent";
+var mnemonic = "mushroom skirt genre celery squeeze canal denial sunset canal unusual under audit";

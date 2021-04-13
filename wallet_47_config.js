@@ -1,1 +1,1 @@
-var mnemonic = "antenna cattle spirit knife scorpion tuna evoke chaos drink alien fat simple";
+var mnemonic = "snack cute problem clap strategy type stadium detail enter beyond tornado time";

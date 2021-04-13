@@ -1,1 +1,1 @@
-var mnemonic = "happy put orchard panel mouse enlist ankle patient affair side cheap gym";
+var mnemonic = "affair shy parrot push satisfy discover heavy rich sentence volume labor genuine";

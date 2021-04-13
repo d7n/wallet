@@ -1,1 +1,1 @@
-var mnemonic = "rice wreck deposit apple grab save animal soccer explain spell exercise skull";
+var mnemonic = "brass brave old indicate foil ladder butter aunt fuel cute wear hen";

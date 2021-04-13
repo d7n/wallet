@@ -1,1 +1,1 @@
-var mnemonic = "raccoon where utility emotion ahead bachelor sun awkward deer never veteran clock";
+var mnemonic = "uncover cable tree expand orchard deposit topic bomb document warm differ middle";

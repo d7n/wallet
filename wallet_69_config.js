@@ -1,1 +1,1 @@
-var mnemonic = "garment dove tiny goose fame start wet supply coconut always rather ladder";
+var mnemonic = "credit edge nurse desk spell project latin review avocado crisp battle repeat";

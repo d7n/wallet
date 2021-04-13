@@ -1,1 +1,1 @@
-var mnemonic = "distance purchase mammal glare domain jelly quit gym snow sustain view tortoise";
+var mnemonic = "alarm ecology monitor anchor hurt mass violin air spare soldier silly runway";

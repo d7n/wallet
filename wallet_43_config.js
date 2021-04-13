@@ -1,1 +1,1 @@
-var mnemonic = "certain enrich speed unveil drum silk distance rare enlist loyal craft picnic";
+var mnemonic = "social jacket foster crumble chef prosper case try prosper soft come scrap";

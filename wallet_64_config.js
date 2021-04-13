@@ -1,1 +1,1 @@
-var mnemonic = "broom until talent window scheme popular refuse must cushion spend theory seminar";
+var mnemonic = "sunny claim can huge lunar steak ethics junk hurt danger kiss door";

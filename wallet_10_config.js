@@ -1,1 +1,1 @@
-var mnemonic = "warm real tenant brisk humble hold swim prosper impose fire baby boss";
+var mnemonic = "before accuse solar stage document bid acquire control machine hidden tent brief";

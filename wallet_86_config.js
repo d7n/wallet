@@ -1,1 +1,1 @@
-var mnemonic = "front wealth what grief trial police slice decade nut alone find news";
+var mnemonic = "invite print ocean dolphin pill naive illegal song race teach wing sign";

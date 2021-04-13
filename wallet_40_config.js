@@ -1,1 +1,1 @@
-var mnemonic = "across reward fever card salmon ancient bone leader torch aerobic because achieve";
+var mnemonic = "robot advance hazard suspect million craft squeeze tilt trade better follow once";

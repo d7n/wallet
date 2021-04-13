@@ -1,1 +1,1 @@
-var mnemonic = "erosion reward junk analyst weapon panda lounge sell hurry bus can salon";
+var mnemonic = "matter nut sense inspire witness horror noble know train gun initial exist";

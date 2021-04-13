@@ -1,1 +1,1 @@
-var mnemonic = "valve object denial smile become hurry truly negative stereo aisle pass sustain";
+var mnemonic = "require boy reform space minimum notice case donkey oven nuclear jealous equip";

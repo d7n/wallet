@@ -1,1 +1,1 @@
-var mnemonic = "skill execute pyramid history drop photo leader start dilemma eyebrow horn day";
+var mnemonic = "unfair vital swamp vicious zone use climb soup nurse bread pigeon must";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder priority arrange tower simple pizza bounce click group gauge expire liar";
+var mnemonic = "scorpion net point net hunt hood replace eagle embody paddle issue embody";

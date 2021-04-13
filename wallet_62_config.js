@@ -1,1 +1,1 @@
-var mnemonic = "bag thunder shrimp tackle breeze wool tumble cupboard jeans shed affair collect";
+var mnemonic = "alpha senior pig club above wage music mask time fatigue master foot";

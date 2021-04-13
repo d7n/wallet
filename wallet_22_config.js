@@ -1,1 +1,1 @@
-var mnemonic = "swap disagree index want cute invite boy name rice trophy shuffle marriage";
+var mnemonic = "heart impact misery gather beach giraffe warfare explain divert coffee vintage typical";

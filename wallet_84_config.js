@@ -1,1 +1,1 @@
-var mnemonic = "vague sound improve sudden name wink wedding sheriff city kite consider dizzy";
+var mnemonic = "drill chuckle heavy winner circle biology because actual odor puppy audit breeze";

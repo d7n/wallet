@@ -1,1 +1,1 @@
-var mnemonic = "valley ready hand eye ill guard scissors nothing manage trip panther dirt";
+var mnemonic = "poet short wear dress person silver faculty laundry punch hammer inch violin";

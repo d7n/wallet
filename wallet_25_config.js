@@ -1,1 +1,1 @@
-var mnemonic = "source reopen mad twist work faint enforce scissors poverty ordinary replace similar";
+var mnemonic = "tip license liquid promote book accident mad ceiling purchase pulse sort raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon inch beyond provide response slab announce pistol fringe ankle short spare";
+var mnemonic = "accident impose photo ginger inform snake render captain flee powder sausage nasty";

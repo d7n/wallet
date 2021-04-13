@@ -1,1 +1,1 @@
-var mnemonic = "that cute rescue account upset animal rookie mercy crystal medal angle lend";
+var mnemonic = "crush gentle shift toast piece food moral lava witness tomorrow dynamic speed";

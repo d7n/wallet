@@ -1,1 +1,1 @@
-var mnemonic = "magnet media sorry room book clay kit arrive gasp dice three twist";
+var mnemonic = "cram idle hazard welcome wire junior stable verb host eight shoe nation";

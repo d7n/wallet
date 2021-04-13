@@ -1,1 +1,1 @@
-var mnemonic = "afraid bench grace exit retire industry cover space parent wing tray cup";
+var mnemonic = "choice ozone angle solar box escape clown recycle engage owner wide thumb";

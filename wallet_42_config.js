@@ -1,1 +1,1 @@
-var mnemonic = "just dentist famous net nominee song tree grow advance acoustic screen glove";
+var mnemonic = "round ankle sound outer left bacon noise gather high magic palace course";

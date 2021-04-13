@@ -1,1 +1,1 @@
-var mnemonic = "sort onion around usage then sugar early kite cherry search creek knock";
+var mnemonic = "despair dish arrange card chapter then scrap custom clinic fee lift drive";

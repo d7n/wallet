@@ -1,1 +1,1 @@
-var mnemonic = "dance turn answer food chuckle material gossip dance zone engage fence country";
+var mnemonic = "entry machine apple chapter modify huge surround exist innocent student leopard dune";

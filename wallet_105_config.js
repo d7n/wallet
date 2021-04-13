@@ -1,1 +1,1 @@
-var mnemonic = "blossom bike south uphold ahead taxi state nephew refuse bullet onion desk";
+var mnemonic = "industry holiday keep speak peace catch prevent fish sorry pipe manual spatial";

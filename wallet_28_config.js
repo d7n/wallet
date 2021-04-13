@@ -1,1 +1,1 @@
-var mnemonic = "pigeon actual defense spell purse remain nest rotate review below effort fiscal";
+var mnemonic = "anxiety wheat case extend base hurry attack letter envelope zone property office";

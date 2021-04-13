@@ -1,1 +1,1 @@
-var mnemonic = "boost taste tissue point secret ecology rule pave vivid cross material fringe";
+var mnemonic = "museum fragile ahead attack side infant hold tumble item shiver gravity like";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety broccoli praise illegal desk odor tooth despair slow spread end great";
+var mnemonic = "okay party penalty invite install happy almost shove blossom virus switch chair";

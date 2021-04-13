@@ -1,1 +1,1 @@
-var mnemonic = "cry sauce robust quick upper file scrub market output invest defy link";
+var mnemonic = "believe exist impulse moon imitate quick possible dutch trade wink produce wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado chase exchange rural arrest welcome indoor push describe dilemma creek ghost";
+var mnemonic = "toddler milk since few upper history hat example defy limit page impose";

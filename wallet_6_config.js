@@ -1,1 +1,1 @@
-var mnemonic = "tomato indoor horn victory tide company outer miracle medal army smart lady";
+var mnemonic = "bounce stand play inhale mixed void dice above joke involve sunny absent";

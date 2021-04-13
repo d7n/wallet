@@ -1,1 +1,1 @@
-var mnemonic = "tackle lounge sick divide warm canvas now aerobic nice twist joy web";
+var mnemonic = "pencil curve corn virtual scissors ginger marble normal shiver call west produce";

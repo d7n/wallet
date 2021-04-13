@@ -1,1 +1,1 @@
-var mnemonic = "certain lamp whale vault average symbol silver tilt armor blouse summer element";
+var mnemonic = "combine where wing power lawsuit plug draw cousin solid useless bicycle ladder";

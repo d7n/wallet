@@ -1,1 +1,1 @@
-var mnemonic = "swap middle focus clean stairs copy fatigue sunny cloud trigger march ethics";
+var mnemonic = "scale inform few despair sniff ecology hotel ghost remember bind sentence bounce";

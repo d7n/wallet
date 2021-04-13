@@ -1,1 +1,1 @@
-var mnemonic = "sphere news trophy shove wheel front announce weather soon sand snack toilet";
+var mnemonic = "flower wrestle patrol hip fetch lucky asthma bless slice disorder blossom walk";

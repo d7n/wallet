@@ -1,1 +1,1 @@
-var mnemonic = "crouch device source between cycle profit ritual current rate page since miss";
+var mnemonic = "century depart comfort medal gaze adult path card jacket tourist achieve team";

@@ -1,1 +1,1 @@
-var mnemonic = "surface glove design flush royal rhythm scene clerk rack force near sister";
+var mnemonic = "eight actress lens table faint delay staff raccoon crater purse afraid total";

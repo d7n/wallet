@@ -1,1 +1,1 @@
-var mnemonic = "hidden crack inflict industry educate poverty method buddy bronze dose ill peace";
+var mnemonic = "matter trade device shine suggest disagree swallow cupboard slogan mountain announce good";

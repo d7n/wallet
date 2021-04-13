@@ -1,1 +1,1 @@
-var mnemonic = "below sadness height engage tree cat road ridge vicious crop coach tide";
+var mnemonic = "love fat input whip turtle month reveal brand design mom piano help";

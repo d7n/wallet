@@ -1,1 +1,1 @@
-var mnemonic = "local insect upset decade eight ensure erosion caught sweet mean say stone";
+var mnemonic = "broken range shift birth urban they hunt steel timber winter pride usual";

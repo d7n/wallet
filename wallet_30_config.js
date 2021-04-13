@@ -1,1 +1,1 @@
-var mnemonic = "oxygen inmate like fruit report harvest return glance rotate slam fade quality";
+var mnemonic = "soul detail drink exclude toward want chronic vacuum problem hurt foster indicate";

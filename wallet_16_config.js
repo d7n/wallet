@@ -1,1 +1,1 @@
-var mnemonic = "plastic search illegal relief helmet off glass cute grow fatal dice inside";
+var mnemonic = "wool debris share agent reunion duty world travel bamboo again blame include";

@@ -1,1 +1,1 @@
-var mnemonic = "onion divide west clay comfort fault reveal electric dove curve deposit double";
+var mnemonic = "aunt prevent hidden alpha bonus beef hip vintage pioneer divide anchor good";

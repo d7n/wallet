@@ -1,1 +1,1 @@
-var mnemonic = "hockey scheme fade ranch weasel wheel universe yard airport distance frame naive";
+var mnemonic = "reunion camera bone defense machine crane photo organ celery hobby omit royal";

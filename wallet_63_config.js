@@ -1,1 +1,1 @@
-var mnemonic = "pepper goddess muffin unlock clog income helmet machine cream surprise reopen good";
+var mnemonic = "lounge regular alcohol problem sting run prize annual make roof target test";

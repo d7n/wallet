@@ -1,1 +1,1 @@
-var mnemonic = "mountain early remember twin toss one country curious stay omit kitchen radar";
+var mnemonic = "filter smile weasel direct social sick violin pepper ankle describe room portion";

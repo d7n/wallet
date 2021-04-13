@@ -1,1 +1,1 @@
-var mnemonic = "shock cute rich jazz door depth peanut resist width behind reveal argue";
+var mnemonic = "tuna miss spoil figure keep day disease attack addict must life bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "able wheat bicycle artefact fossil else combine often gap zoo video harvest";
+var mnemonic = "scare surge toward clump cup sing census pulse sign race common elite";

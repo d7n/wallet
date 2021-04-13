@@ -1,1 +1,1 @@
-var mnemonic = "dolphin sugar trend tooth lens toddler spell clever avocado someone warm genuine";
+var mnemonic = "wrong today diamond soldier dismiss honey fan wife awkward wild glow prize";

@@ -1,1 +1,1 @@
-var mnemonic = "derive occur balcony before despair horn acquire priority trim seat syrup step";
+var mnemonic = "relax license equal camera wagon tissue traffic atom miracle pond small roof";

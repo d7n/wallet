@@ -1,1 +1,1 @@
-var mnemonic = "tongue marriage ordinary vacuum razor cage isolate invite damage picture time source";
+var mnemonic = "point snack addict click victory ensure myself outer letter stadium rapid soap";

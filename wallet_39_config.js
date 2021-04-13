@@ -1,1 +1,1 @@
-var mnemonic = "trade rhythm rabbit quote slush cactus twelve drift theory two light pudding";
+var mnemonic = "must ten tiny dog west urge mind juice pumpkin mass mutual caution";

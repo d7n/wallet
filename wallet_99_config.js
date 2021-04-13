@@ -1,1 +1,1 @@
-var mnemonic = "aunt measure badge chunk jelly ready laugh corn fine disorder swift order";
+var mnemonic = "play actual bacon pen leisure buzz bicycle meat breeze frequent exact cable";

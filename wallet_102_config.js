@@ -1,1 +1,1 @@
-var mnemonic = "glare sunset number fan allow orchard cup castle remind mushroom orbit dynamic";
+var mnemonic = "change bunker second cousin stomach object tuition offer coffee organ magnet milk";

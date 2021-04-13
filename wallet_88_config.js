@@ -1,1 +1,1 @@
-var mnemonic = "pave advance carry artefact twin century next acoustic math hidden scrap wisdom";
+var mnemonic = "estate burst climb rookie follow meadow aunt give old economy ring buzz";

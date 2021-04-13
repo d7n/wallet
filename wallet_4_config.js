@@ -1,1 +1,1 @@
-var mnemonic = "infant toilet swear blind arrange pull fee morning knife cover supply forest";
+var mnemonic = "action pen flee text swarm funny gauge prefer talk tail include style";

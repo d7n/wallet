@@ -1,1 +1,1 @@
-var mnemonic = "short evidence kitten tongue now mean mansion negative hunt leisure book job";
+var mnemonic = "blush laugh derive flush nephew love exhibit vacant detect twenty member uphold";

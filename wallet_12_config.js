@@ -1,1 +1,1 @@
-var mnemonic = "family sport thought level lake become when pattern universe topic uncover elder";
+var mnemonic = "snow will hard goat river better indoor pattern calm appear wrestle side";

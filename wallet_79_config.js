@@ -1,1 +1,1 @@
-var mnemonic = "mercy link excess oblige venue initial disorder tag shy congress approve ask";
+var mnemonic = "over page copper vague heavy anxiety push foam barely hobby artefact verify";

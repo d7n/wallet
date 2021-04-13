@@ -1,1 +1,1 @@
-var mnemonic = "world initial kite tunnel punch grunt sleep velvet sausage family voice private";
+var mnemonic = "update slot address champion film sound whisper science rather birth apology foot";

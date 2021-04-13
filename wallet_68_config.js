@@ -1,1 +1,1 @@
-var mnemonic = "device combine sibling rebel until bonus bracket forget grass lonely nasty inject";
+var mnemonic = "act indoor reduce proof prize result spawn model rather october hair topic";

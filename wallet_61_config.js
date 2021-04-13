@@ -1,1 +1,1 @@
-var mnemonic = "firm move decrease labor round invite spell exclude shrug problem fly float";
+var mnemonic = "off false faculty push waste episode kind shove crash family income brown";

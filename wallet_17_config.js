@@ -1,1 +1,1 @@
-var mnemonic = "fetch annual crash nature armed mango depth chicken loyal laptop friend praise";
+var mnemonic = "insect egg exhibit river reopen foot evil faith include slot enlist essence";

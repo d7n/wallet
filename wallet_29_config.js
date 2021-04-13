@@ -1,1 +1,1 @@
-var mnemonic = "retreat tilt moment vapor divert fit divert hurt charge force tumble actor";
+var mnemonic = "spirit refuse lucky slush hunt peace live stool nominee rigid spice repeat";

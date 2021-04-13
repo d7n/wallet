@@ -1,1 +1,1 @@
-var mnemonic = "book stage oxygen draw seven snake loop curtain laundry oil chicken sad";
+var mnemonic = "potato glow segment wolf goat report cereal join hurt tired bicycle only";

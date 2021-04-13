@@ -1,1 +1,1 @@
-var mnemonic = "turkey brand joy scene cherry club bulk economy describe cover box error";
+var mnemonic = "kingdom front ritual despair guilt share embark habit click convince vacant stock";

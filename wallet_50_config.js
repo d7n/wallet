@@ -1,1 +1,1 @@
-var mnemonic = "shrug choice fatigue title work dirt vehicle winner abandon curtain want soup";
+var mnemonic = "peasant orange flavor reward fuel piece often enough quarter inch beef spirit";

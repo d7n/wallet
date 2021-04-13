@@ -1,1 +1,1 @@
-var mnemonic = "oval zoo smart tooth oyster river exist review envelope tragic olympic setup";
+var mnemonic = "edge basket chronic play tilt appear board celery pudding trash office avocado";

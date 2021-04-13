@@ -1,1 +1,1 @@
-var mnemonic = "post sustain reunion stone mango during room move ghost spend toilet ripple";
+var mnemonic = "motion square ice south midnight about merge shrimp lounge clog pill energy";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal fragile wire verify voice identify salute burden expand reunion sound tired";
+var mnemonic = "plunge indicate soon clump abstract piece such popular year smoke alter parrot";

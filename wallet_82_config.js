@@ -1,1 +1,1 @@
-var mnemonic = "token often hungry horror protect virus surge forum aspect couple level supreme";
+var mnemonic = "cannon merry tone that canoe chapter occur mom leave kitten man wide";

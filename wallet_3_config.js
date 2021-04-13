@@ -1,1 +1,1 @@
-var mnemonic = "sheriff auto double ordinary weekend turn acoustic globe person tornado window faith";
+var mnemonic = "dish demand blade fix stage acoustic planet salmon arctic loud vague annual";

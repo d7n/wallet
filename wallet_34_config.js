@@ -1,1 +1,1 @@
-var mnemonic = "slide butter curve afford bone long feel coil okay federal flat bonus";
+var mnemonic = "ladder bullet fish crater upon office follow aspect member raccoon verb beach";

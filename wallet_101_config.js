@@ -1,1 +1,1 @@
-var mnemonic = "write nasty whisper mixture spare toe symptom attitude clever fine gold cigar";
+var mnemonic = "index embrace game stadium position scale sell solve cage surface road swim";

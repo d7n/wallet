@@ -1,1 +1,1 @@
-var mnemonic = "grass resist hand artwork upset bird cattle time promote memory gate faculty";
+var mnemonic = "mobile major injury scan pizza actual unlock elevator diary light hunt make";

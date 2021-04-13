@@ -1,1 +1,1 @@
-var mnemonic = "submit vintage decorate speed useful delay impact broccoli sentence doctor soda swallow";
+var mnemonic = "traffic fruit gesture balance similar best enable radar giraffe library film own";
