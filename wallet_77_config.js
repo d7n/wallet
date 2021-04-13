@@ -1,1 +1,1 @@
-var mnemonic = "bird word bunker hidden beauty plastic work index grab dentist harvest enemy";
+var mnemonic = "deliver soul prevent guard enrich fury vintage patch athlete promote inch donate";

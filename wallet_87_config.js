@@ -1,1 +1,1 @@
-var mnemonic = "only uniform still sweet holiday fork absurd void physical seminar fitness ginger";
+var mnemonic = "nominee gentle park limb possible angle chunk owner intact right ready mask";

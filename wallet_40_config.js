@@ -1,1 +1,1 @@
-var mnemonic = "harbor gap chair slender margin moral police tip rich milk album owner";
+var mnemonic = "inch spend load behind proof artwork spoon school prevent man flight under";

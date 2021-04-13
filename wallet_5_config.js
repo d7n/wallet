@@ -1,1 +1,1 @@
-var mnemonic = "gospel horn tuna vault such cruel arrange olympic miracle lemon night season";
+var mnemonic = "define fork excess nature enable loan sock select reject gallery banana useless";

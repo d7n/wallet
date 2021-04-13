@@ -1,1 +1,1 @@
-var mnemonic = "staff online recall wonder museum step elder drum ring reform album marine";
+var mnemonic = "minute across awake august zone poverty captain raw canyon pear jar expect";

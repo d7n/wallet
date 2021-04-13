@@ -1,1 +1,1 @@
-var mnemonic = "chimney bike hundred cave garment figure barrel right pet tiny action wreck";
+var mnemonic = "rebuild visual attitude sell alter phone news dirt boil increase soup garbage";

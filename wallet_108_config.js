@@ -1,1 +1,1 @@
-var mnemonic = "save village husband mean force august city bundle harbor crumble six clerk";
+var mnemonic = "farm capital scout ecology quick trade uncle width silver try aunt noise";

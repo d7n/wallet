@@ -1,1 +1,1 @@
-var mnemonic = "slim range noise unable mosquito silk venture deliver worry this cherry live";
+var mnemonic = "vital angry dance camp pear cash pull cradle survey upset tide juice";

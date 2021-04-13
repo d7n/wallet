@@ -1,1 +1,1 @@
-var mnemonic = "abstract knife candy merit donate ginger robust picnic weather maple detail first";
+var mnemonic = "this pioneer scorpion frame fragile enhance sample photo step pledge dentist sound";

@@ -1,1 +1,1 @@
-var mnemonic = "address label bonus tip illegal present around resource envelope tuition pledge assault";
+var mnemonic = "give away wood dash pink prize powder age ocean road boss indoor";

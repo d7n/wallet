@@ -1,1 +1,1 @@
-var mnemonic = "curtain control debris ancient able lunch enforce fever brisk identify pet casino";
+var mnemonic = "arena pact oval forest crisp hub visit unit quality afford tenant assume";

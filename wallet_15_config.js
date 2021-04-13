@@ -1,1 +1,1 @@
-var mnemonic = "pipe mammal misery express gas panda fish estate cash oppose innocent gossip";
+var mnemonic = "follow dutch carry access mule glove surprise opera ridge lumber deny crazy";

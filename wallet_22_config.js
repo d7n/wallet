@@ -1,1 +1,1 @@
-var mnemonic = "edge habit young patrol feature crash crunch normal army earth direct crumble";
+var mnemonic = "cradle country ketchup actress glove cable post argue release army abuse fog";

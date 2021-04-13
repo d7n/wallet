@@ -1,1 +1,1 @@
-var mnemonic = "deer frame service decrease bar essence excite eye hello spy popular avocado";
+var mnemonic = "outer before second orient place vintage canal helmet autumn stamp squeeze chunk";

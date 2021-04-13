@@ -1,1 +1,1 @@
-var mnemonic = "entry off dish sustain hamster captain anchor move biology vault riot potato";
+var mnemonic = "father question mirror trick antenna length skate reflect library cliff beyond size";

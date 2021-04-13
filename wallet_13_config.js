@@ -1,1 +1,1 @@
-var mnemonic = "culture solid subject pencil notice breeze vague dismiss tag shoe panther jungle";
+var mnemonic = "cruise display fancy doctor dune upper engage zebra cannon blade arctic balance";

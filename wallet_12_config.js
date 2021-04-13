@@ -1,1 +1,1 @@
-var mnemonic = "void bacon border amazing until human impact view peanut version purchase avocado";
+var mnemonic = "response dress mother effort pyramid host expire attack reunion library twist crazy";

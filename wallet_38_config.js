@@ -1,1 +1,1 @@
-var mnemonic = "can math garage legal gas escape huge age outdoor guard foot bacon";
+var mnemonic = "romance bike because wait victory car uniform enhance melt chicken process own";

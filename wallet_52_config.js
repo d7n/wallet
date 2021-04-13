@@ -1,1 +1,1 @@
-var mnemonic = "become grant phone laundry hybrid spray armed oyster broom scare birth rude";
+var mnemonic = "thumb absent time alley enough huge hunt dutch soldier retreat cherry vivid";

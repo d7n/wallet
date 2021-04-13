@@ -1,1 +1,1 @@
-var mnemonic = "twin manual merry work provide holiday dolphin wolf ask egg tissue divorce";
+var mnemonic = "unique employ bike immune march discover elegant school shine fiber trade torch";

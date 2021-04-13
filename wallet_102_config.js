@@ -1,1 +1,1 @@
-var mnemonic = "noble fly proof trade tilt mutual illegal initial electric pupil jaguar fiber";
+var mnemonic = "jaguar prize bamboo road finish divert journey romance clerk catalog follow human";

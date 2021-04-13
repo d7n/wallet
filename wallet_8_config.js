@@ -1,1 +1,1 @@
-var mnemonic = "impose harbor dog erase comfort congress mixture game gown clown harsh country";
+var mnemonic = "glance arrive genre ski target clutch guilt shed will fine spring height";

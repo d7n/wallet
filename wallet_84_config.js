@@ -1,1 +1,1 @@
-var mnemonic = "return dial faith trigger spare meadow steak stage buddy sunset smoke put";
+var mnemonic = "lawn inject danger shield select annual manual pigeon summer uniform talent twin";

@@ -1,1 +1,1 @@
-var mnemonic = "egg message mirror program first human hobby autumn similar message angle vendor";
+var mnemonic = "spatial advice party rib habit bulk stairs list picnic express addict glare";

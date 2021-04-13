@@ -1,1 +1,1 @@
-var mnemonic = "amazing split keen reopen question bar waste segment explain crisp dirt much";
+var mnemonic = "report coast acquire expect emotion actor soccer diary side wasp abstract owner";

@@ -1,1 +1,1 @@
-var mnemonic = "trust prize verb section park pretty various junk solar smart major easily";
+var mnemonic = "shuffle purse heavy list network input chase lottery umbrella impact labor glue";

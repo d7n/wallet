@@ -1,1 +1,1 @@
-var mnemonic = "city uniform toe retire basic season timber clock various brass edit hip";
+var mnemonic = "security enrich toy student balcony hazard wet hard gauge author crowd fresh";

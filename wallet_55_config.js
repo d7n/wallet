@@ -1,1 +1,1 @@
-var mnemonic = "increase grace isolate snap benefit hover fitness ritual civil excess second egg";
+var mnemonic = "raise nominee kitten pilot zero method calm brother boring curve size just";

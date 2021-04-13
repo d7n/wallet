@@ -1,1 +1,1 @@
-var mnemonic = "risk deal guitar huge train subway stove cake lift tiny pudding park";
+var mnemonic = "patch shock labor one hurt problem enrich huge warrior legal gorilla gift";

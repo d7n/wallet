@@ -1,1 +1,1 @@
-var mnemonic = "coil ribbon across hunt mouse east rigid whip actual anchor history black";
+var mnemonic = "autumn squeeze obvious sibling stay eight have gift museum chaos protect skin";

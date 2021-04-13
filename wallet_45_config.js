@@ -1,1 +1,1 @@
-var mnemonic = "hurry sorry poet volcano lottery business embrace tourist post welcome pull electric";
+var mnemonic = "corn business resemble clog unknown daring hybrid immune abandon spring degree traffic";

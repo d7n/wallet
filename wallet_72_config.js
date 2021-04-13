@@ -1,1 +1,1 @@
-var mnemonic = "caution bone subject improve frown output shoe pull ship humble defense cool";
+var mnemonic = "write limit note result tumble negative immense jewel drive banana asset screen";

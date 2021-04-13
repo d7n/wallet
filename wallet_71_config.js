@@ -1,1 +1,1 @@
-var mnemonic = "nose champion program fetch prosper bulk usual net wood giant soup tongue";
+var mnemonic = "effort coyote athlete math unit embark sponsor festival soda skin dawn attitude";

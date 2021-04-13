@@ -1,1 +1,1 @@
-var mnemonic = "road cheese total mouse isolate citizen reduce wood acoustic hint bullet street";
+var mnemonic = "clean network arrest citizen season twenty matter venture stool female drink park";

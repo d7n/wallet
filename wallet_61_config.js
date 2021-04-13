@@ -1,1 +1,1 @@
-var mnemonic = "dish drive furnace pumpkin inject glare stage path second laptop model bread";
+var mnemonic = "sustain real ladder level bacon oyster miss version select notable topic gift";

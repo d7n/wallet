@@ -1,1 +1,1 @@
-var mnemonic = "boy toy pudding reject mimic cupboard cry similar garden cable vault way";
+var mnemonic = "opera below inner boring divert rival result figure elegant door casual impose";

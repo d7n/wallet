@@ -1,1 +1,1 @@
-var mnemonic = "rapid suggest hour aisle auto ship light busy agree sniff drum okay";
+var mnemonic = "fold use decorate record kidney awkward language bike neither group now happy";

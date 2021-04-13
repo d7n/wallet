@@ -1,1 +1,1 @@
-var mnemonic = "conduct shock speed exchange funny draft certain discover display clever gadget rose";
+var mnemonic = "tiny beach wrap relax valley skill rhythm sphere caution service series enact";

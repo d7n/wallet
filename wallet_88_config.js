@@ -1,1 +1,1 @@
-var mnemonic = "soul squeeze deposit price account bid reduce twice opinion virus earth error";
+var mnemonic = "success exchange angle address moon team piece build woman direct staff solution";

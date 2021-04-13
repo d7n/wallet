@@ -1,1 +1,1 @@
-var mnemonic = "hunt outside excess angry ordinary deny catalog plug group jacket parade general";
+var mnemonic = "meadow camera obscure promote reunion ripple family dismiss bring cage embark tortoise";

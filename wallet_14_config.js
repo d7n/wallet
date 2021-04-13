@@ -1,1 +1,1 @@
-var mnemonic = "endorse entry husband web define price lobster confirm family guard boring tackle";
+var mnemonic = "step fork rescue about rich vivid jewel unaware inject chat sketch ripple";

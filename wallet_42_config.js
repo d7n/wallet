@@ -1,1 +1,1 @@
-var mnemonic = "push grass deliver tennis swap person arrest shove field picture mask mind";
+var mnemonic = "example usage rent latin draft buffalo travel marriage license consider royal belt";

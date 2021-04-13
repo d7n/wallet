@@ -1,1 +1,1 @@
-var mnemonic = "amateur movie talent quick news suit record journey glow bomb inmate cheese";
+var mnemonic = "guess second slab parrot direct bottom wisdom eyebrow ski sunset law chest";

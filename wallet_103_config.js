@@ -1,1 +1,1 @@
-var mnemonic = "meat captain sunset leisure demand scatter protect soft antenna omit sad brother";
+var mnemonic = "fuel stay journey mention slice skill payment immense guess response pulp april";

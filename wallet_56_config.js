@@ -1,1 +1,1 @@
-var mnemonic = "mind forget renew marine fresh real hazard candy black remind soon sibling";
+var mnemonic = "length ginger trust mouse observe brain exclude provide wedding what sausage puzzle";

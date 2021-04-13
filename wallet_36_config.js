@@ -1,1 +1,1 @@
-var mnemonic = "joy latin convince soft ugly tuition video increase business unknown kid total";
+var mnemonic = "swarm pretty shop flame price wheat federal either royal whale vacant inquiry";

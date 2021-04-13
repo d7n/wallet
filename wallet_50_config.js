@@ -1,1 +1,1 @@
-var mnemonic = "muffin bread pluck card alarm fly find tape flash table ginger bunker";
+var mnemonic = "result junk protect family slam iron job alter bullet lens improve youth";

@@ -1,1 +1,1 @@
-var mnemonic = "metal enter suggest stem level tunnel man convince sketch start yard cactus";
+var mnemonic = "lonely spider punch casual frown correct proud umbrella shock smooth rally yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug paper sweet vital call strike extra curious skirt enter buyer rose";
+var mnemonic = "stereo move electric nature defense swing ice snake wine invite fold differ";

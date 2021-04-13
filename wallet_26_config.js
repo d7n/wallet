@@ -1,1 +1,1 @@
-var mnemonic = "spray require stand immune width raise loud elbow few world pill topic";
+var mnemonic = "video nasty tank panther veteran neck expire very acoustic foot fatal devote";

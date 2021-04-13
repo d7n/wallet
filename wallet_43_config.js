@@ -1,1 +1,1 @@
-var mnemonic = "thank drink hand priority tragic behind tobacco finger relax neutral remember head";
+var mnemonic = "slab total powder rabbit ghost stage draft sentence outer bulk furnace hole";

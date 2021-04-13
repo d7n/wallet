@@ -1,1 +1,1 @@
-var mnemonic = "media swarm answer equal culture gentle sibling need wait peasant argue tornado";
+var mnemonic = "virtual bulk speak age surge snack vapor leg input people cage city";

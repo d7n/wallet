@@ -1,1 +1,1 @@
-var mnemonic = "believe eight quick horror rich alley lesson version another column desert original";
+var mnemonic = "purchase abuse prosper spider front mansion involve garbage heart account reopen alone";

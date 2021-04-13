@@ -1,1 +1,1 @@
-var mnemonic = "run tide unusual consider analyst fashion phrase happy mass vicious skate dove";
+var mnemonic = "myth skin income insane patrol wet job vapor snack small whisper fire";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual garden century phone reunion eight used version bread night recycle tuna";
+var mnemonic = "other invest leader detect urge choose vendor update festival source yellow emerge";

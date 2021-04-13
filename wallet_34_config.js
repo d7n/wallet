@@ -1,1 +1,1 @@
-var mnemonic = "pond pass deliver zoo unusual motion penalty dragon quiz settle diamond seminar";
+var mnemonic = "guide cannon yard library ripple anchor film sort face express march brown";

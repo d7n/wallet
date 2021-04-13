@@ -1,1 +1,1 @@
-var mnemonic = "story tongue gas despair team verb shock behave tennis want shy solution";
+var mnemonic = "consider opera during film struggle unfold pulp oak ozone early bleak document";

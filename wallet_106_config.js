@@ -1,1 +1,1 @@
-var mnemonic = "unusual vast then gas spare own six gap finger script inside turn";
+var mnemonic = "horror stumble shallow knee genius ketchup hat hurry boy before forum humble";

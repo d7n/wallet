@@ -1,1 +1,1 @@
-var mnemonic = "pluck warrior anchor provide motor silk layer spy cross tip hawk erosion";
+var mnemonic = "link segment myself soon water art trap swallow found canal surprise coach";

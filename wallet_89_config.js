@@ -1,1 +1,1 @@
-var mnemonic = "similar enjoy flip duck work drive screen gauge start tired cube head";
+var mnemonic = "balance ice grocery web since bread marble misery crop slender sugar torch";

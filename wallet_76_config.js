@@ -1,1 +1,1 @@
-var mnemonic = "wolf wisdom battle fine explain rifle road brave wet caught noodle panther";
+var mnemonic = "frozen method later discover elder brass man erosion artwork proud grain spray";

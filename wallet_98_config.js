@@ -1,1 +1,1 @@
-var mnemonic = "dizzy skate chapter crunch loop fringe illegal never recall bird cherry nuclear";
+var mnemonic = "nation news couch opera delay rebel rescue spread yard bounce road brief";

@@ -1,1 +1,1 @@
-var mnemonic = "credit minute staff champion arrange slender tongue expose divorce lobster credit expire";
+var mnemonic = "close stay shell bunker tumble tobacco hour obvious shrug put race trumpet";

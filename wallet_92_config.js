@@ -1,1 +1,1 @@
-var mnemonic = "forest scene neutral cute possible verb trim butter mistake simple holiday party";
+var mnemonic = "outside buyer history nothing sad acid stage unveil fold bacon visit magnet";

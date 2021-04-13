@@ -1,1 +1,1 @@
-var mnemonic = "chronic pass more similar net flash flash else palm cook again smoke";
+var mnemonic = "science problem jewel anger insect gallery cube boil globe much bag invest";

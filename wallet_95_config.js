@@ -1,1 +1,1 @@
-var mnemonic = "version virus illegal void stick document rival always improve local pretty quarter";
+var mnemonic = "trend exchange sock ocean that valve leg potato culture knock engine scorpion";

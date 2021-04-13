@@ -1,1 +1,1 @@
-var mnemonic = "gap text bring light sail enhance still sight damp empower bottom fresh";
+var mnemonic = "shove gentle enemy absent laugh rug version fluid response ten country body";

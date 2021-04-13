@@ -1,1 +1,1 @@
-var mnemonic = "teach diamond another tomato three leaf midnight inspire swap photo taste bus";
+var mnemonic = "gas banana donate equip buddy fashion wealth lion scissors brother lumber train";

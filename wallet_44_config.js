@@ -1,1 +1,1 @@
-var mnemonic = "dress insect indicate course orient inner list pull round bulk van afraid";
+var mnemonic = "rack bounce kind monkey churn leaf earth loan ceiling response acid layer";

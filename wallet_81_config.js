@@ -1,1 +1,1 @@
-var mnemonic = "labor mercy chat scrub comfort express east amused flush race ghost veteran";
+var mnemonic = "rain surface poem funny chunk helmet ozone coconut panther dance again fringe";

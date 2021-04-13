@@ -1,1 +1,1 @@
-var mnemonic = "seed shoe tennis cool meat basic letter aisle festival anchor cannon ability";
+var mnemonic = "warrior senior habit hint session tomorrow describe anchor amateur frame portion photo";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse library embrace used thumb horn draw boil shallow marine bird high";
+var mnemonic = "abuse main dismiss salute skill furnace page deny dish improve mesh point";

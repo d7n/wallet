@@ -1,1 +1,1 @@
-var mnemonic = "judge buyer harbor cram hammer wolf glove mountain pumpkin host animal travel";
+var mnemonic = "tobacco know fitness embark rubber oxygen run spoon strong minor flip wild";

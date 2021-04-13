@@ -1,1 +1,1 @@
-var mnemonic = "angry snake connect hint clutch squirrel trash toilet say blind rose chalk";
+var mnemonic = "vital produce nose minute employ bulb glance slight paddle cluster pumpkin exhaust";

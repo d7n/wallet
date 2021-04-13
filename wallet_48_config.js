@@ -1,1 +1,1 @@
-var mnemonic = "warrior harbor flee rigid urban animal duck provide course tooth wreck middle";
+var mnemonic = "wall resemble custom prize make mimic trade giant month column nurse aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "impose stadium urge eye that artist couch tortoise march token wedding cycle";
+var mnemonic = "stamp teach sleep peasant dial differ around interest length video can park";

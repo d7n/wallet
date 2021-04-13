@@ -1,1 +1,1 @@
-var mnemonic = "vote excuse face steel ability sight inch play smart brown quiz armor";
+var mnemonic = "gauge cargo body airport box drive brand number frog fetch canyon tomato";

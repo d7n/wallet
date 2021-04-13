@@ -1,1 +1,1 @@
-var mnemonic = "castle link monkey outside pottery dumb section remember endorse walnut taste together";
+var mnemonic = "skate crisp accuse average delay movie where output slab amazing auto cry";

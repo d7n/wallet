@@ -1,1 +1,1 @@
-var mnemonic = "usual lizard absorb timber laundry anxiety firm funny help gadget frog throw";
+var mnemonic = "olympic room uncover turtle equal define confirm acoustic concert jungle swap orchard";

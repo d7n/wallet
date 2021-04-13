@@ -1,1 +1,1 @@
-var mnemonic = "child dirt cactus daughter print enter garbage consider hollow coast thunder couple";
+var mnemonic = "park deny bone element oval rack adapt trophy siege method marriage major";

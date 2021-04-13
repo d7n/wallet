@@ -1,1 +1,1 @@
-var mnemonic = "dumb bulk select tent couch already hobby beyond false blast nothing pilot";
+var mnemonic = "glory idle matter minute casual real harbor episode rain pet scheme human";

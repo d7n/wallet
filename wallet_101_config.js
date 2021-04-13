@@ -1,1 +1,1 @@
-var mnemonic = "neck repair illness mom dolphin river learn brave expire truth craft addict";
+var mnemonic = "certain apart gospel shell kiwi jaguar regret grape rubber vehicle nothing buddy";

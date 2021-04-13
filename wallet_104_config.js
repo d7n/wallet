@@ -1,1 +1,1 @@
-var mnemonic = "verb onion sure material burst pistol cat throw trouble recall pluck lamp";
+var mnemonic = "salad salt swing now symbol movie afraid flower bind obvious melt drama";

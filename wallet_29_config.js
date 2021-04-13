@@ -1,1 +1,1 @@
-var mnemonic = "series card sudden join solve know blur turtle proof man drop raise";
+var mnemonic = "phrase fork chest pilot original large foster brand stand unfair suggest upon";

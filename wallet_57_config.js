@@ -1,1 +1,1 @@
-var mnemonic = "air basic shield dune holiday guitar machine sorry civil hope leisure reveal";
+var mnemonic = "vehicle cargo sniff aspect magnet voyage prosper fortune muscle outside core useful";

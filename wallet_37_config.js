@@ -1,1 +1,1 @@
-var mnemonic = "summer human tomato develop best priority master young remain horn detect nut";
+var mnemonic = "suggest sell album manual wild crowd inspire fatigue enlist mother bachelor sand";

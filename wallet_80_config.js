@@ -1,1 +1,1 @@
-var mnemonic = "invite afford dial link ribbon spatial hollow town someone echo sorry either";
+var mnemonic = "cool measure joke alert vault tell provide satisfy movie reason local kind";

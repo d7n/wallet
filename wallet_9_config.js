@@ -1,1 +1,1 @@
-var mnemonic = "dress maze economy crumble health gentle maximum gym bird describe clap goat";
+var mnemonic = "course radio fault layer mirror gospel reveal sadness gown balance indoor harvest";

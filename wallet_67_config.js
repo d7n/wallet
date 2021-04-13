@@ -1,1 +1,1 @@
-var mnemonic = "property control tonight aspect power wild answer critic help hope empty you";
+var mnemonic = "pattern inherit core badge nephew nation hair century wrestle impose super barely";

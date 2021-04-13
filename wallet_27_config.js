@@ -1,1 +1,1 @@
-var mnemonic = "era knock melt spike quit garage split coconut scrub fault rain poem";
+var mnemonic = "exotic ceiling flame buyer reunion defy globe salute volume empty next skin";

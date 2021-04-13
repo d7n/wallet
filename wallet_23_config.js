@@ -1,1 +1,1 @@
-var mnemonic = "giggle sudden pride this danger sugar ocean black impose second wrestle adapt";
+var mnemonic = "distance remove gasp eyebrow cash surround nerve voice frequent mad shrug boat";

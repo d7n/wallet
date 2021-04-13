@@ -1,1 +1,1 @@
-var mnemonic = "refuse access canyon clarify nurse cricket shed tornado exhaust pony humor oval";
+var mnemonic = "runway midnight destroy lecture pupil receive hood sport flat wise fork secret";

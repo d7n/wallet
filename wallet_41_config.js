@@ -1,1 +1,1 @@
-var mnemonic = "sign portion lemon royal light fury olive cliff rather stumble crouch version";
+var mnemonic = "harvest tail wedding sphere orbit decade paper blast sea fresh spot sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle because depart magic equip legal sting attract pony spike metal regret";
+var mnemonic = "rubber fancy keen attend tool leader aisle unfold snake license morning bean";

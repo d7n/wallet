@@ -1,1 +1,1 @@
-var mnemonic = "elder drama exclude become early cook volcano alter bus wink betray recipe";
+var mnemonic = "timber chalk luggage float ranch saddle hero list trumpet double moment brief";
