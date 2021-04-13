@@ -1,1 +1,1 @@
-var mnemonic = "wood still swamp cement parent rifle pave legend often dawn genuine essay";
+var mnemonic = "face mercy choice latin curtain leader sadness rich army dragon practice final";

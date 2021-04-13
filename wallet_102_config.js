@@ -1,1 +1,1 @@
-var mnemonic = "recycle type ill matter monitor wink cotton solve nuclear deal imitate tag";
+var mnemonic = "spawn minor pact make country paddle injury lazy source stuff nature basket";

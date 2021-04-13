@@ -1,1 +1,1 @@
-var mnemonic = "give finish situate purse rebel buzz gesture innocent shoulder mail raccoon reject";
+var mnemonic = "skin cover treat depend sense void insane swamp city they short city";

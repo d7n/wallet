@@ -1,1 +1,1 @@
-var mnemonic = "kick mom spatial jar write search report harbor canvas clip enrich stem";
+var mnemonic = "shock defense analyst steak tenant symbol float oil dutch squeeze wonder ethics";

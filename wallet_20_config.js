@@ -1,1 +1,1 @@
-var mnemonic = "nature kangaroo net math sample dish fall celery lesson stick item attitude";
+var mnemonic = "clinic duty protect trap picture seat magnet common maximum faith symbol legal";

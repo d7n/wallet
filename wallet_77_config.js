@@ -1,1 +1,1 @@
-var mnemonic = "armor sing plug hire change coyote buddy dove entire task property wagon";
+var mnemonic = "behind trap cannon width deny myself marble shed night umbrella payment slow";

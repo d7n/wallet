@@ -1,1 +1,1 @@
-var mnemonic = "audit depth hedgehog salmon renew doll way abandon orient now alley object";
+var mnemonic = "chief field corn stock find tonight repair sketch sort session drastic cloud";

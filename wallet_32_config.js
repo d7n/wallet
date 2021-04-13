@@ -1,1 +1,1 @@
-var mnemonic = "salute tomato afford major palm medal fish supreme dolphin festival beef release";
+var mnemonic = "hair dress insane awkward release water square merge rich worry napkin mushroom";

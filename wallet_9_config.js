@@ -1,1 +1,1 @@
-var mnemonic = "connect field husband will skirt civil venue group daughter swift spatial bundle";
+var mnemonic = "pluck side race grain animal develop bus wrap artwork year elevator unit";

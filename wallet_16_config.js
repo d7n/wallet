@@ -1,1 +1,1 @@
-var mnemonic = "alone comfort comic cable double payment thunder network fiscal vague fish catalog";
+var mnemonic = "repair inquiry problem old mad walk card pilot prevent service corn focus";

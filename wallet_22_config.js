@@ -1,1 +1,1 @@
-var mnemonic = "provide topic coffee question inherit that install member net device clip unaware";
+var mnemonic = "shoe hammer rookie knife tunnel salon crisp drill spring defy disorder proof";

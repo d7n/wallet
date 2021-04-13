@@ -1,1 +1,1 @@
-var mnemonic = "idle banana shiver vocal pigeon glow giraffe quantum wagon laptop point eager";
+var mnemonic = "toward wrist holiday mirror text slight shallow glove surface oyster cave bracket";

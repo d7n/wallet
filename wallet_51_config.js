@@ -1,1 +1,1 @@
-var mnemonic = "stage purity alien goat curious cruel height subject divorce seven upset add";
+var mnemonic = "eight scorpion version sniff resist priority amount immune force educate true child";

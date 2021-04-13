@@ -1,1 +1,1 @@
-var mnemonic = "glow chat tower vocal atom citizen dawn fever forum turkey federal differ";
+var mnemonic = "blue sleep deer solution vague bulb innocent pledge balance eye marine tornado";

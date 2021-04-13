@@ -1,1 +1,1 @@
-var mnemonic = "state hunt shaft rhythm sing victory brief appear dizzy soul resemble agree";
+var mnemonic = "toe faith observe grace daughter vendor zoo heavy joke shove island eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator oil struggle atom grace tuna public peace few imitate crush extend";
+var mnemonic = "fade body dawn grunt soap actual load glance strategy pumpkin rule zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess clown brisk parent coyote idle save boss flash dog apart inherit";
+var mnemonic = "target casino spend shaft manual width piano tag sausage slush fossil pet";

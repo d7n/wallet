@@ -1,1 +1,1 @@
-var mnemonic = "dawn assault climb certain better monster mandate switch cable train exile patrol";
+var mnemonic = "banner valid joy plunge pond menu gas joy market place present admit";

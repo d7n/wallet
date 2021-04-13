@@ -1,1 +1,1 @@
-var mnemonic = "art bulk tooth raise unfold boy ramp screen pole brother client slush";
+var mnemonic = "baby quality change word emotion infant forum bubble lesson mass please soup";

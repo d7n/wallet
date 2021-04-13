@@ -1,1 +1,1 @@
-var mnemonic = "clerk garment again ball jeans food actress fiction craft camera bacon execute";
+var mnemonic = "stumble finger equip cute cross better calm happy buzz burden tank lamp";

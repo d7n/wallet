@@ -1,1 +1,1 @@
-var mnemonic = "divorce same sauce clown brain arctic wisdom embody island skirt liquid refuse";
+var mnemonic = "sniff slot pigeon scare cheap vacant swap food blush vibrant demise license";

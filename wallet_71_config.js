@@ -1,1 +1,1 @@
-var mnemonic = "crime pulse raccoon remember dinner quote giant gossip remain surround choose mask";
+var mnemonic = "crash large poet smart road acquire matter armed wing face run advance";

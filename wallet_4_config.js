@@ -1,1 +1,1 @@
-var mnemonic = "finish camp vast marble oval kit drink steak magic license eight lobster";
+var mnemonic = "regret penalty dice employ notable visual fetch nurse dose coral because erase";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual prefer staff jewel south random knife negative window click inside organ";
+var mnemonic = "shoot jar horror mouse slush put member pizza fury dolphin jelly nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard balance celery ginger retire sell beach confirm consider business question dignity";
+var mnemonic = "gospel also bitter spirit heavy city surface flag scout coast boss focus";

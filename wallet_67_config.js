@@ -1,1 +1,1 @@
-var mnemonic = "cream kitchen skin type sell spike please concert absent grain lunch onion";
+var mnemonic = "van goat artefact access quiz general power again ensure health photo immense";

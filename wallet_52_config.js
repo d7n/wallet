@@ -1,1 +1,1 @@
-var mnemonic = "slam friend floor stuff nephew shallow honey nephew weird survey render sorry";
+var mnemonic = "supreme female flip camera cinnamon come drill kingdom sentence connect charge chapter";

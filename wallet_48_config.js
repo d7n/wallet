@@ -1,1 +1,1 @@
-var mnemonic = "picnic drink then mask view abstract vault struggle nephew special smoke okay";
+var mnemonic = "luggage garage off health rich drama north antenna better budget face bonus";

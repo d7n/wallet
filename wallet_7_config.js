@@ -1,1 +1,1 @@
-var mnemonic = "winner churn horn amount success napkin salute pen sand neck improve symptom";
+var mnemonic = "moon girl thank tongue eight pave home river album gas equip can";

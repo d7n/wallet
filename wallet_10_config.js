@@ -1,1 +1,1 @@
-var mnemonic = "pull stomach resist switch current sponsor nose snake base hat puzzle script";
+var mnemonic = "manual gate wedding trash column ginger glow increase alpha anchor execute shine";

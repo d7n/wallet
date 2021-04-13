@@ -1,1 +1,1 @@
-var mnemonic = "fog crack crouch kiss juice bike club inform tool boil sauce atom";
+var mnemonic = "wide advice error subject excess animal equal accuse vintage flower visa robust";

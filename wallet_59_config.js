@@ -1,1 +1,1 @@
-var mnemonic = "strong movie admit disease frozen address harsh next sniff size banner capable";
+var mnemonic = "shop pause bullet lady priority real injury orphan gun ten either there";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness pool steel frozen census silver urge sample miss symptom stadium arena";
+var mnemonic = "begin glare ketchup fatal forum scrap argue general latin cheap merit skirt";

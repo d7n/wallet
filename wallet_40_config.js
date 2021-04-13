@@ -1,1 +1,1 @@
-var mnemonic = "sample trade note cable depend cruise slide gallery silk pilot olympic sick";
+var mnemonic = "chase forest hurdle dumb wide iron dish proof pact bacon spray message";

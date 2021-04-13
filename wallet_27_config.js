@@ -1,1 +1,1 @@
-var mnemonic = "door inflict slim gather title foam iron exhaust raven author patch voice";
+var mnemonic = "poverty finish sheriff lottery economy grid famous van trumpet tiger antique erosion";

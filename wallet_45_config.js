@@ -1,1 +1,1 @@
-var mnemonic = "addict sadness tuna volcano law gaze toddler scatter cost equip burden entire";
+var mnemonic = "reform throw refuse brown action similar banana tiny quality member shy tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "promote tuition girl prefer usage common various scene library verify success grass";
+var mnemonic = "aspect cancel stove test gentle process enhance isolate gift dynamic daughter century";

@@ -1,1 +1,1 @@
-var mnemonic = "replace crime february quarter tortoise update reveal grit series depend pull desk";
+var mnemonic = "input thank decline worth keep motor ostrich behave elite various visual cattle";

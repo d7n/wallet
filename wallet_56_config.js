@@ -1,1 +1,1 @@
-var mnemonic = "cabin gas bundle match choose column sausage thought dad donate host pitch";
+var mnemonic = "visa stone idea language leg wink pink hamster cancel side dream candy";

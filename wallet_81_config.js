@@ -1,1 +1,1 @@
-var mnemonic = "oval stem fly exhibit friend cherry rather primary infant radio find brief";
+var mnemonic = "deliver social zone priority govern stock strike side denial slogan mask notable";

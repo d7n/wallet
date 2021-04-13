@@ -1,1 +1,1 @@
-var mnemonic = "coconut man funny captain kiwi surprise machine column expire ticket ignore peanut";
+var mnemonic = "fix resemble wine visual gaze liar brand oval grab film minute observe";

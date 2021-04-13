@@ -1,1 +1,1 @@
-var mnemonic = "liberty tennis sorry rural drastic flee major profit notice squirrel grunt void";
+var mnemonic = "rifle walnut expect category crouch lyrics pact mixture ignore engage elite dove";

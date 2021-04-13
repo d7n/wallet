@@ -1,1 +1,1 @@
-var mnemonic = "motion panel fashion average scout lawsuit lottery cash beef invest reward layer";
+var mnemonic = "treat clay bone genius junior enroll twenty hundred eye property stool pair";

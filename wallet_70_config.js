@@ -1,1 +1,1 @@
-var mnemonic = "pilot note dentist enforce decorate dust credit grab nasty toy rack place";
+var mnemonic = "rose custom label pull casual giggle economy diagram exchange between adult prosper";

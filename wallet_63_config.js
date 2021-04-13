@@ -1,1 +1,1 @@
-var mnemonic = "run another vintage voyage duty bar sick tuition shrimp sea soccer average";
+var mnemonic = "finger produce author adapt romance price lawsuit image pink fringe flight heart";

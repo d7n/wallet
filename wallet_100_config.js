@@ -1,1 +1,1 @@
-var mnemonic = "tackle robust link voice enough palm vast zone moon urge way into";
+var mnemonic = "skill quarter enter car paper legend tip embark dutch midnight valid axis";

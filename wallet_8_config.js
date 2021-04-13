@@ -1,1 +1,1 @@
-var mnemonic = "close autumn donkey run zebra punch belt bunker jelly crime dance mobile";
+var mnemonic = "table middle split auto manual awful autumn equip corn genius photo subject";

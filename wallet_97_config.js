@@ -1,1 +1,1 @@
-var mnemonic = "file kingdom trust spring fade bronze alcohol welcome stereo run first shaft";
+var mnemonic = "group polar indoor crystal roast thought approve miracle coral vote again banana";

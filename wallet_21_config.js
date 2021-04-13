@@ -1,1 +1,1 @@
-var mnemonic = "clay cool rescue arm purchase bamboo install speed exercise diary teach turn";
+var mnemonic = "raw diagram junior give holiday case milk hat buddy original injury relax";

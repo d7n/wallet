@@ -1,1 +1,1 @@
-var mnemonic = "dose audit giant sand small explain bird where filter cheap siren relief";
+var mnemonic = "cup scare furnace just burden guide breeze indoor junior pizza type globe";

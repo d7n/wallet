@@ -1,1 +1,1 @@
-var mnemonic = "ensure manual boost armed regular excess magic prize sister rose tunnel wait";
+var mnemonic = "upgrade idea farm distance figure private iron case into service cherry insane";

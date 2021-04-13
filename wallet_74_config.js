@@ -1,1 +1,1 @@
-var mnemonic = "diesel right voyage wolf easily day reform version rain family inspire program";
+var mnemonic = "you goddess width angry hurdle adapt such inquiry ancient sunny regret write";

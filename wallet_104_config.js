@@ -1,1 +1,1 @@
-var mnemonic = "saddle guess reason stable possible myself siege drama quarter choose high bless";
+var mnemonic = "maze second notable stairs renew bless snack genuine earth stem tag stock";

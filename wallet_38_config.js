@@ -1,1 +1,1 @@
-var mnemonic = "cushion soup plunge level eagle shield drum pear lens trade into exhaust";
+var mnemonic = "atom bottom song cross sign pilot concert embody lab bridge differ extend";

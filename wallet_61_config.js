@@ -1,1 +1,1 @@
-var mnemonic = "art toddler deny sunny hazard car sadness meadow swarm page elite grab";
+var mnemonic = "wheel mixed junior alter pole ramp erase cruise jar usage oval ready";

@@ -1,1 +1,1 @@
-var mnemonic = "amount shy ring since tank magnet old wise catalog sort girl potato";
+var mnemonic = "icon extend coral coffee pen awful intact album aspect picture affair rate";

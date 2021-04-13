@@ -1,1 +1,1 @@
-var mnemonic = "column struggle shock waste ability van journey casual all amazing snap enable";
+var mnemonic = "milk misery basic two fish motor potato sauce top blossom chalk good";

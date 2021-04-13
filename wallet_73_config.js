@@ -1,1 +1,1 @@
-var mnemonic = "timber calm type unlock egg wheat convince say path chimney interest swap";
+var mnemonic = "idea ahead script can embody property odor sad token emotion rapid badge";

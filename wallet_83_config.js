@@ -1,1 +1,1 @@
-var mnemonic = "busy output quiz remember flame salmon object elegant lottery wise install lunch";
+var mnemonic = "point sorry resemble labor claim sight public sudden lazy glue employ ticket";

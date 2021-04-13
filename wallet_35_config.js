@@ -1,1 +1,1 @@
-var mnemonic = "rebel eager next wheel senior extra desk chapter radio club much latin";
+var mnemonic = "response adjust bean figure kid pupil funny prefer snake dinner adapt turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "chair fence rapid another walk number coach twist wolf lamp crop hold";
+var mnemonic = "clay book market diamond truth boy cross east drop dirt when bamboo";

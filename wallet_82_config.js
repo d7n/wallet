@@ -1,1 +1,1 @@
-var mnemonic = "outer seven text erode link bottom avocado citizen like victory actress margin";
+var mnemonic = "few future frequent rival test elevator school coral arrive sand atom leisure";

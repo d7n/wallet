@@ -1,1 +1,1 @@
-var mnemonic = "will fit razor memory strategy derive wonder uncover senior find release zoo";
+var mnemonic = "embrace hospital spoil frost cycle into vibrant route loud fancy valley wink";

@@ -1,1 +1,1 @@
-var mnemonic = "man owner purse slab stomach gossip prepare square toast naive april drum";
+var mnemonic = "candy consider involve portion gaze carbon prosper face lyrics increase original depth";

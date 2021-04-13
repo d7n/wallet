@@ -1,1 +1,1 @@
-var mnemonic = "joke control digital adapt piano group already april super panel upper connect";
+var mnemonic = "trust pony snake public credit velvet segment expose armor lion train sauce";

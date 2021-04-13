@@ -1,1 +1,1 @@
-var mnemonic = "way harvest kind near rabbit spoil comfort rack discover degree adjust knock";
+var mnemonic = "vicious mixed satoshi mention load smoke clarify idle mosquito double vast jealous";

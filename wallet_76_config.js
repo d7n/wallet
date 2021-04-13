@@ -1,1 +1,1 @@
-var mnemonic = "kitchen end woman steel flock link this heavy fiscal screen slogan very";
+var mnemonic = "panther pluck action into party hover aim picture cricket ordinary hospital motor";

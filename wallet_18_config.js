@@ -1,1 +1,1 @@
-var mnemonic = "jaguar flavor sugar antique accuse arrange truly hub tool country garbage magic";
+var mnemonic = "frog small speak birth knee valid six cook laptop produce cage demise";

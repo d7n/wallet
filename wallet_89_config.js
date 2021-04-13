@@ -1,1 +1,1 @@
-var mnemonic = "gold glory grocery flavor cricket shiver clerk soul visa fork guitar pulp";
+var mnemonic = "thumb health paddle fossil soul bright hobby food fix wedding despair thumb";

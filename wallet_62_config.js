@@ -1,1 +1,1 @@
-var mnemonic = "grocery nerve task frozen best quick ritual sing flock assault borrow wheel";
+var mnemonic = "left nice enact filter pilot enter bird voice plastic finger either state";

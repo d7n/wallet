@@ -1,1 +1,1 @@
-var mnemonic = "false acoustic hurry address eyebrow mountain blast rebel time eye lend profit";
+var mnemonic = "sunny execute caution speed grid pulp toss verify bread fold stereo sort";

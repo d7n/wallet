@@ -1,1 +1,1 @@
-var mnemonic = "bamboo visa spread aunt prosper noise law column vote birth hood noble";
+var mnemonic = "dismiss paper help drive peace pony humble grab oppose together direct baby";

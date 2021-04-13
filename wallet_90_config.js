@@ -1,1 +1,1 @@
-var mnemonic = "first girl device measure stereo hill miracle crouch voyage canvas gentle solid";
+var mnemonic = "abstract run real immense stamp tower speak census category rabbit raw squeeze";

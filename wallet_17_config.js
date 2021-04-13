@@ -1,1 +1,1 @@
-var mnemonic = "empty little beef lizard elegant cloud fancy quiz shaft venture orange thought";
+var mnemonic = "picnic snow current memory lottery civil market fault toy stuff marble final";

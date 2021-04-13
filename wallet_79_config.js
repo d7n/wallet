@@ -1,1 +1,1 @@
-var mnemonic = "doll gas party seed hurdle pond equip envelope gossip tilt obvious pyramid";
+var mnemonic = "response olympic vault involve grab scorpion retreat honey exhibit record lawn mystery";

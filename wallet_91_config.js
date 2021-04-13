@@ -1,1 +1,1 @@
-var mnemonic = "firm boat layer combine company address base vacuum office strike trap bacon";
+var mnemonic = "safe cart hunt renew scissors potato fire garment skull farm slogan asset";

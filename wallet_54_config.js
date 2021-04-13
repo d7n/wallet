@@ -1,1 +1,1 @@
-var mnemonic = "amazing face ramp emerge thunder bleak tortoise engine disease anchor system draft";
+var mnemonic = "drastic thank blast solar eyebrow duty other dove infant faith print phrase";

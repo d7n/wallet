@@ -1,1 +1,1 @@
-var mnemonic = "hard human exhaust guard battle vintage hungry debris kid hammer strategy submit";
+var mnemonic = "clump permit frozen fine coast busy fresh picnic select beef vapor option";

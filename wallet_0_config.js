@@ -1,1 +1,1 @@
-var mnemonic = "lady lamp gravity zero model unknown eagle brown salon harsh bright hero";
+var mnemonic = "cycle dove another outer invest nose amount document desert peace march very";

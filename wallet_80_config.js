@@ -1,1 +1,1 @@
-var mnemonic = "ship lawn alley sugar position bid entire artist column child remind fatigue";
+var mnemonic = "shoot capital crisp swear depth off chase uncle leopard oxygen excite tilt";

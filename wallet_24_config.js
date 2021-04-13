@@ -1,1 +1,1 @@
-var mnemonic = "smile visual space daring hour token remove donate chimney shield adapt interest";
+var mnemonic = "syrup dutch idea artefact quality switch pact avocado couch menu addict short";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat inject hungry infant dignity acid select repair crop rude drink credit";
+var mnemonic = "cereal join toy melt tackle happy field upgrade drill raccoon idle shove";

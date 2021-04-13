@@ -1,1 +1,1 @@
-var mnemonic = "bring catch cigar version disagree three blur toy vendor oil quit gain";
+var mnemonic = "display service absurd forum outside banner column shoot shallow alter license plastic";

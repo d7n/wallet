@@ -1,1 +1,1 @@
-var mnemonic = "script cruel guide sunset vanish island local outer goddess exotic ugly young";
+var mnemonic = "excess dish unfair act calm divide pass farm ribbon position grit jewel";

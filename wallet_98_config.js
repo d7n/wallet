@@ -1,1 +1,1 @@
-var mnemonic = "upon north charge solar write accuse bicycle sustain duty uncover thunder friend";
+var mnemonic = "organ sunny pull sad rhythm purchase ginger top region ceiling connect banana";

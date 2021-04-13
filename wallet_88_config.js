@@ -1,1 +1,1 @@
-var mnemonic = "answer ceiling ivory combine glance home pilot husband south hip brief toast";
+var mnemonic = "spring motion swift buddy skirt vendor provide jewel salad head load tired";
