@@ -1,1 +1,1 @@
-var mnemonic = "matter nut sense inspire witness horror noble know train gun initial exist";
+var mnemonic = "chuckle meat quarter upper inform trip tongue accident release guitar suffer fiscal";

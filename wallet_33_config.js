@@ -1,1 +1,1 @@
-var mnemonic = "foster virus idle purity cluster mammal magic melt poet under toilet october";
+var mnemonic = "found plate large because shadow direct donkey peasant history autumn army neither";

@@ -1,1 +1,1 @@
-var mnemonic = "monster giraffe stock possible vast poverty protect test ask announce cute moment";
+var mnemonic = "mouse power jacket decrease input fancy adjust lesson alarm auto tired disorder";

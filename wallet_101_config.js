@@ -1,1 +1,1 @@
-var mnemonic = "index embrace game stadium position scale sell solve cage surface road swim";
+var mnemonic = "success reveal shoe helmet cart churn field talk survey lunar chat spend";

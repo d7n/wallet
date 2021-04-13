@@ -1,1 +1,1 @@
-var mnemonic = "unfair vital swamp vicious zone use climb soup nurse bread pigeon must";
+var mnemonic = "present bicycle story horror bamboo scorpion beach oxygen common sing include hundred";

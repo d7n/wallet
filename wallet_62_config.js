@@ -1,1 +1,1 @@
-var mnemonic = "alpha senior pig club above wage music mask time fatigue master foot";
+var mnemonic = "embody cabbage thunder simple critic box home rail latin fat kid reason";

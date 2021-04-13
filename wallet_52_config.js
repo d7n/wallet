@@ -1,1 +1,1 @@
-var mnemonic = "lion fantasy crane butter unaware much toss race pull risk genuine guitar";
+var mnemonic = "story eight image crystal flavor legal curtain ripple machine crumble cereal nest";

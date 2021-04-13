@@ -1,1 +1,1 @@
-var mnemonic = "over page copper vague heavy anxiety push foam barely hobby artefact verify";
+var mnemonic = "tonight sing seek bicycle power wash brother rice divorce color stomach reason";

@@ -1,1 +1,1 @@
-var mnemonic = "round ankle sound outer left bacon noise gather high magic palace course";
+var mnemonic = "rigid senior oven pink dad dentist language wolf stove guard wine report";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth lava leisure bread virtual cliff spawn option dose erupt learn velvet";
+var mnemonic = "over laundry cloud pupil silver danger word neck smooth burden cry artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "social jacket foster crumble chef prosper case try prosper soft come scrap";
+var mnemonic = "flush margin desert chronic casual jewel oven secret abstract airport change sun";

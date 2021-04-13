@@ -1,1 +1,1 @@
-var mnemonic = "mobile major injury scan pizza actual unlock elevator diary light hunt make";
+var mnemonic = "occur bracket blur prison bike bonus require avoid surge first boil host";

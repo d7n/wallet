@@ -1,1 +1,1 @@
-var mnemonic = "industry holiday keep speak peace catch prevent fish sorry pipe manual spatial";
+var mnemonic = "patient unable plug winner expect oppose liar rough ten episode bundle feel";

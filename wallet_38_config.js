@@ -1,1 +1,1 @@
-var mnemonic = "motion square ice south midnight about merge shrimp lounge clog pill energy";
+var mnemonic = "shed furnace cute clap toilet pill gorilla firm employ cigar ankle shy";

@@ -1,1 +1,1 @@
-var mnemonic = "insect egg exhibit river reopen foot evil faith include slot enlist essence";
+var mnemonic = "butter canal nation trend envelope soup alone betray puzzle exercise travel glance";

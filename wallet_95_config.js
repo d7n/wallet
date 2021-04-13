@@ -1,1 +1,1 @@
-var mnemonic = "reunion camera bone defense machine crane photo organ celery hobby omit royal";
+var mnemonic = "wide sense genuine firm chair vault access empty transfer invest together occur";

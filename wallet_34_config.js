@@ -1,1 +1,1 @@
-var mnemonic = "ladder bullet fish crater upon office follow aspect member raccoon verb beach";
+var mnemonic = "frown point help food jelly attract write anxiety often decline capable obvious";

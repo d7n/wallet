@@ -1,1 +1,1 @@
-var mnemonic = "eight actress lens table faint delay staff raccoon crater purse afraid total";
+var mnemonic = "toy fee endorse record pumpkin measure trigger zero tackle brand soldier sense";

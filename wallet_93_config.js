@@ -1,1 +1,1 @@
-var mnemonic = "day van business obtain inhale lawn virtual smile physical sister cheap because";
+var mnemonic = "airport update annual scale fall habit oven slide choose chalk smooth lecture";

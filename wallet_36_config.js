@@ -1,1 +1,1 @@
-var mnemonic = "scare surge toward clump cup sing census pulse sign race common elite";
+var mnemonic = "sponsor similar assume honey muscle spoon bubble tiny typical moment file govern";

@@ -1,1 +1,1 @@
-var mnemonic = "museum fragile ahead attack side infant hold tumble item shiver gravity like";
+var mnemonic = "vacant coach agent burger spawn walnut upset novel shiver sustain suggest goose";

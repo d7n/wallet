@@ -1,1 +1,1 @@
-var mnemonic = "entry machine apple chapter modify huge surround exist innocent student leopard dune";
+var mnemonic = "few kid disagree dish jeans absorb victory image off swing torch once";

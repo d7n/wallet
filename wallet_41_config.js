@@ -1,1 +1,1 @@
-var mnemonic = "zebra salon fence core turtle utility ready early skin ladder behind entire";
+var mnemonic = "coil history city can miracle left misery copy sauce monitor mobile sponsor";

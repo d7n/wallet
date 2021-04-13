@@ -1,1 +1,1 @@
-var mnemonic = "spirit refuse lucky slush hunt peace live stool nominee rigid spice repeat";
+var mnemonic = "develop buffalo year retreat lock guess spell mixed town blood auction cover";

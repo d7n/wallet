@@ -1,1 +1,1 @@
-var mnemonic = "soul detail drink exclude toward want chronic vacuum problem hurt foster indicate";
+var mnemonic = "erupt slender copy lesson rain boil real relief steak abuse universe idle";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm ecology monitor anchor hurt mass violin air spare soldier silly runway";
+var mnemonic = "flavor sick access sample wool doll gasp velvet joke lawsuit winner chapter";

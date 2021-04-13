@@ -1,1 +1,1 @@
-var mnemonic = "wrong today diamond soldier dismiss honey fan wife awkward wild glow prize";
+var mnemonic = "piece water gown village climb priority angry tide approve laptop rate wave";

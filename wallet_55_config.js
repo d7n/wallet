@@ -1,1 +1,1 @@
-var mnemonic = "broken range shift birth urban they hunt steel timber winter pride usual";
+var mnemonic = "fortune hunt faith roof nurse want speak wage tackle sausage shove junk";

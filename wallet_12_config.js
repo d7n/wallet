@@ -1,1 +1,1 @@
-var mnemonic = "snow will hard goat river better indoor pattern calm appear wrestle side";
+var mnemonic = "carry enact gain undo gain romance south simple amount kitchen garbage trip";

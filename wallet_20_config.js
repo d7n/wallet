@@ -1,1 +1,1 @@
-var mnemonic = "tuna miss spoil figure keep day disease attack addict must life bronze";
+var mnemonic = "salon fox street whale tornado axis write code magnet valve radio gym";

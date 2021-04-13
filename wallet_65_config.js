@@ -1,1 +1,1 @@
-var mnemonic = "buffalo outside wool canvas danger smart middle december coconut feature soft margin";
+var mnemonic = "among palm canoe install spot shoot health family multiply together globe purse";

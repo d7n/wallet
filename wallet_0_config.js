@@ -1,1 +1,1 @@
-var mnemonic = "crush gentle shift toast piece food moral lava witness tomorrow dynamic speed";
+var mnemonic = "feature aware room tide lottery note title ramp hold hunt immune only";

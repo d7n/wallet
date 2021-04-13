@@ -1,1 +1,1 @@
-var mnemonic = "despair dish arrange card chapter then scrap custom clinic fee lift drive";
+var mnemonic = "amateur credit story elevator picnic bargain august monster skill spike alarm suggest";

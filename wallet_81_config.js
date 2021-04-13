@@ -1,1 +1,1 @@
-var mnemonic = "income tiny mountain clap summer reveal know hood jewel usual blame measure";
+var mnemonic = "useless proof syrup main west tuition patrol cloth trumpet palace element maximum";

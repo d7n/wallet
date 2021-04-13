@@ -1,1 +1,1 @@
-var mnemonic = "plunge indicate soon clump abstract piece such popular year smoke alter parrot";
+var mnemonic = "evolve oppose despair panic make elegant process receive fan spike essay final";

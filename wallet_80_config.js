@@ -1,1 +1,1 @@
-var mnemonic = "cram idle hazard welcome wire junior stable verb host eight shoe nation";
+var mnemonic = "motor today develop want tattoo split token pulse canvas movie width used";

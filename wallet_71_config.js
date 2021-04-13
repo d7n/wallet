@@ -1,1 +1,1 @@
-var mnemonic = "accident impose photo ginger inform snake render captain flee powder sausage nasty";
+var mnemonic = "horn alert fun govern empower uniform tonight decade gloom ivory heart renew";

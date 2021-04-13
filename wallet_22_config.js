@@ -1,1 +1,1 @@
-var mnemonic = "heart impact misery gather beach giraffe warfare explain divert coffee vintage typical";
+var mnemonic = "tornado digital chuckle large elegant enlist rather dumb strong fresh robot outside";

@@ -1,1 +1,1 @@
-var mnemonic = "scale inform few despair sniff ecology hotel ghost remember bind sentence bounce";
+var mnemonic = "hello skin maximum proud prize day include tornado vote flash april manual";

@@ -1,1 +1,1 @@
-var mnemonic = "act indoor reduce proof prize result spawn model rather october hair topic";
+var mnemonic = "giggle grid borrow theory execute below surface river question ship oval slam";

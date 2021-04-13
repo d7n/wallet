@@ -1,1 +1,1 @@
-var mnemonic = "tip license liquid promote book accident mad ceiling purchase pulse sort raccoon";
+var mnemonic = "cousin believe purpose bone goddess feel clap oppose member twin fatigue evolve";

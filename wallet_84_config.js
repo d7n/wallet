@@ -1,1 +1,1 @@
-var mnemonic = "drill chuckle heavy winner circle biology because actual odor puppy audit breeze";
+var mnemonic = "enough ride armed payment unknown moral buffalo live fence gaze risk burden";

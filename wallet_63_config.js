@@ -1,1 +1,1 @@
-var mnemonic = "lounge regular alcohol problem sting run prize annual make roof target test";
+var mnemonic = "about remember soon emotion scissors museum flush fantasy inquiry acid choice welcome";

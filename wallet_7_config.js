@@ -1,1 +1,1 @@
-var mnemonic = "point snack addict click victory ensure myself outer letter stadium rapid soap";
+var mnemonic = "boss unknown twelve absorb despair involve delay gain waste bag neck clever";

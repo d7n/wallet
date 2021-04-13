@@ -1,1 +1,1 @@
-var mnemonic = "update slot address champion film sound whisper science rather birth apology foot";
+var mnemonic = "cliff zone mad flame sun submit rain celery enroll attract camera rough";

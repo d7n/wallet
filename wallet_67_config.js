@@ -1,1 +1,1 @@
-var mnemonic = "poet virus absurd path process tennis hammer grow upper suspect east economy";
+var mnemonic = "need pond pink airport army resource version armor desk swap unit carbon";

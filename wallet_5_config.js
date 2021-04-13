@@ -1,1 +1,1 @@
-var mnemonic = "mushroom skirt genre celery squeeze canal denial sunset canal unusual under audit";
+var mnemonic = "edit zebra depth parade spy either truck avoid fee bike raw diet";

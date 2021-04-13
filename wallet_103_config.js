@@ -1,1 +1,1 @@
-var mnemonic = "aunt prevent hidden alpha bonus beef hip vintage pioneer divide anchor good";
+var mnemonic = "romance devote seed chalk park misery quote various critic require rebel injury";

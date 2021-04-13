@@ -1,1 +1,1 @@
-var mnemonic = "civil draft odor dish senior chair million dress pull bunker viable liar";
+var mnemonic = "clock language oblige goddess goat nature render focus raise resemble trash card";

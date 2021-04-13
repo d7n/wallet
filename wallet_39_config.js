@@ -1,1 +1,1 @@
-var mnemonic = "must ten tiny dog west urge mind juice pumpkin mass mutual caution";
+var mnemonic = "traffic brush globe dove movie lawn laptop auction pact economy return high";

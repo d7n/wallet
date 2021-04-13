@@ -1,1 +1,1 @@
-var mnemonic = "scorpion net point net hunt hood replace eagle embody paddle issue embody";
+var mnemonic = "sudden hollow extend frame sock green stick beyond shock repeat undo almost";

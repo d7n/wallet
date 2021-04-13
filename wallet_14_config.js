@@ -1,1 +1,1 @@
-var mnemonic = "vendor master excuse loyal churn corn blood olympic yard utility original pool";
+var mnemonic = "damp carry pause sheriff drip genuine silver sphere myth wisdom orphan gas";

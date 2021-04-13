@@ -1,1 +1,1 @@
-var mnemonic = "nominee crane jewel dash napkin hidden feel hard rough evoke believe pave";
+var mnemonic = "federal useful betray theory humble story jaguar abstract brass stuff young orange";

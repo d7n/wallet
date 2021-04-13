@@ -1,1 +1,1 @@
-var mnemonic = "such rotate rack wrist fresh term return recall fade woman priority pole";
+var mnemonic = "title above park enter rose blame car athlete pulp symptom manual foster";

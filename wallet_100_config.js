@@ -1,1 +1,1 @@
-var mnemonic = "hazard spice add tongue judge sustain real develop void soul salt slush";
+var mnemonic = "charge survey damage truly zero priority regret adult guilt insect upset chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner hen cash submit pet blast kid business crane such boring power";
+var mnemonic = "world venue tennis wedding borrow evidence connect code chair where risk assume";

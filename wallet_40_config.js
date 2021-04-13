@@ -1,1 +1,1 @@
-var mnemonic = "robot advance hazard suspect million craft squeeze tilt trade better follow once";
+var mnemonic = "such hope monitor festival this floor right glory mix sing blouse human";

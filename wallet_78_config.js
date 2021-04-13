@@ -1,1 +1,1 @@
-var mnemonic = "item public food wait only this toe exchange advice upon ecology add";
+var mnemonic = "wealth link segment pen dizzy shrimp wonder world shrug home biology toss";

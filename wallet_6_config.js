@@ -1,1 +1,1 @@
-var mnemonic = "bounce stand play inhale mixed void dice above joke involve sunny absent";
+var mnemonic = "gym auction lonely hidden width much chief breeze among east improve about";

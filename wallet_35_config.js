@@ -1,1 +1,1 @@
-var mnemonic = "okay party penalty invite install happy almost shove blossom virus switch chair";
+var mnemonic = "wasp odor car umbrella security arena balance leg same boil soft quote";

@@ -1,1 +1,1 @@
-var mnemonic = "action pen flee text swarm funny gauge prefer talk tail include style";
+var mnemonic = "enforce donkey piece modify student return time clump poet used gold merge";

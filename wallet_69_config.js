@@ -1,1 +1,1 @@
-var mnemonic = "credit edge nurse desk spell project latin review avocado crisp battle repeat";
+var mnemonic = "axis devote reflect ready cactus bring spend such pave pudding review gravity";

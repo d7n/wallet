@@ -1,1 +1,1 @@
-var mnemonic = "estate burst climb rookie follow meadow aunt give old economy ring buzz";
+var mnemonic = "brand wet come crack rug flag flame demand leisure need tortoise moon";

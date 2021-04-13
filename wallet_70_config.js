@@ -1,1 +1,1 @@
-var mnemonic = "decide plate error scissors trend cruise entry noodle firm meat candy property";
+var mnemonic = "pretty border family gown gossip prepare genuine jacket tribe fee win remain";

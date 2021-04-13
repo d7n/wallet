@@ -1,1 +1,1 @@
-var mnemonic = "require boy reform space minimum notice case donkey oven nuclear jealous equip";
+var mnemonic = "ramp wheel ask flower reflect damage inmate medal night crack valley deposit";

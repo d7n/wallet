@@ -1,1 +1,1 @@
-var mnemonic = "change bunker second cousin stomach object tuition offer coffee organ magnet milk";
+var mnemonic = "little scare rotate weekend crawl during minor vault salute net chef ice";

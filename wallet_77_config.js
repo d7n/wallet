@@ -1,1 +1,1 @@
-var mnemonic = "poet short wear dress person silver faculty laundry punch hammer inch violin";
+var mnemonic = "bird version bronze polar length pause suit raw shadow nominee blanket fabric";

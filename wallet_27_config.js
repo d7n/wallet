@@ -1,1 +1,1 @@
-var mnemonic = "relax license equal camera wagon tissue traffic atom miracle pond small roof";
+var mnemonic = "summer involve ski image brush tide salon swift upper squirrel syrup such";

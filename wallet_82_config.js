@@ -1,1 +1,1 @@
-var mnemonic = "cannon merry tone that canoe chapter occur mom leave kitten man wide";
+var mnemonic = "earn announce gallery setup friend hockey mutual dragon genius unfair hen soap";

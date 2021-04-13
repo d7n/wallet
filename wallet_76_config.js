@@ -1,1 +1,1 @@
-var mnemonic = "love fat input whip turtle month reveal brand design mom piano help";
+var mnemonic = "tissue perfect foster regret club salon bright shine fish flush local bamboo";

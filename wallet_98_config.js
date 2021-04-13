@@ -1,1 +1,1 @@
-var mnemonic = "defy crowd unaware rival matter bomb faith grid habit eye prize stairs";
+var mnemonic = "economy ability illegal easy cliff trim bike palace void again card near";

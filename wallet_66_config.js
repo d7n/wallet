@@ -1,1 +1,1 @@
-var mnemonic = "acoustic scrub target ketchup stereo doctor claw shoe digital shock decade situate";
+var mnemonic = "example people bulb shuffle reunion come base blue pepper short belt edit";

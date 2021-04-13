@@ -1,1 +1,1 @@
-var mnemonic = "invite print ocean dolphin pill naive illegal song race teach wing sign";
+var mnemonic = "because civil palace concert spell local steel clutch wasp enable punch mystery";

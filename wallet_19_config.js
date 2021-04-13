@@ -1,1 +1,1 @@
-var mnemonic = "affair shy parrot push satisfy discover heavy rich sentence volume labor genuine";
+var mnemonic = "tell network lend normal exercise rain frequent note solution oyster shadow west";

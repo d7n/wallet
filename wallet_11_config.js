@@ -1,1 +1,1 @@
-var mnemonic = "combine where wing power lawsuit plug draw cousin solid useless bicycle ladder";
+var mnemonic = "upon wedding detail cactus goose meat miss author fault lawn market great";

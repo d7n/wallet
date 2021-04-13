@@ -1,1 +1,1 @@
-var mnemonic = "play actual bacon pen leisure buzz bicycle meat breeze frequent exact cable";
+var mnemonic = "market sort attitude come travel fluid arena find style awful negative offer";

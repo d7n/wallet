@@ -1,1 +1,1 @@
-var mnemonic = "peasant orange flavor reward fuel piece often enough quarter inch beef spirit";
+var mnemonic = "twist rally prison middle six wasp neutral another flash reflect sustain motion";

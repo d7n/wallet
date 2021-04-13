@@ -1,1 +1,1 @@
-var mnemonic = "uncover cable tree expand orchard deposit topic bomb document warm differ middle";
+var mnemonic = "drink diamond holiday during pudding glass enough industry mind sustain message rose";

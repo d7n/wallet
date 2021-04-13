@@ -1,1 +1,1 @@
-var mnemonic = "off false faculty push waste episode kind shove crash family income brown";
+var mnemonic = "kitchen link basket mosquito another click fantasy solid select live oyster abstract";

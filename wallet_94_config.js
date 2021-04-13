@@ -1,1 +1,1 @@
-var mnemonic = "obscure monitor change finger setup thing trust consider burden major number there";
+var mnemonic = "stumble knee truck shrimp riot judge shell bulb patient resist double tired";

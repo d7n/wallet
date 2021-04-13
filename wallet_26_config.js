@@ -1,1 +1,1 @@
-var mnemonic = "loud square call slam knock enroll voyage jungle problem student apple viable";
+var mnemonic = "cinnamon ice stamp globe doctor monitor pelican hover oven sibling journey reduce";

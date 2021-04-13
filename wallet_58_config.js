@@ -1,1 +1,1 @@
-var mnemonic = "detail shock hour wonder awake physical grief correct amount spoil country impact";
+var mnemonic = "behave blush tortoise custom tongue faith neck antenna grass air cancel wave";

@@ -1,1 +1,1 @@
-var mnemonic = "filter smile weasel direct social sick violin pepper ankle describe room portion";
+var mnemonic = "rival only reduce dash they birth glimpse merge fade jelly fossil rich";

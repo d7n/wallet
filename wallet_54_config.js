@@ -1,1 +1,1 @@
-var mnemonic = "matter trade device shine suggest disagree swallow cupboard slogan mountain announce good";
+var mnemonic = "trade flavor fence farm secret december place insane cross tank because version";

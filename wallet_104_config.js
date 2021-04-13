@@ -1,1 +1,1 @@
-var mnemonic = "upper bicycle credit whip potato antenna film monitor bullet message tone east";
+var mnemonic = "choice awful extra clerk heavy alter connect mandate victory staff dirt illness";

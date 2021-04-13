@@ -1,1 +1,1 @@
-var mnemonic = "blush laugh derive flush nephew love exhibit vacant detect twenty member uphold";
+var mnemonic = "filter bottom close radar onion blanket health genius sentence person tray advice";

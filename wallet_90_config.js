@@ -1,1 +1,1 @@
-var mnemonic = "believe exist impulse moon imitate quick possible dutch trade wink produce wealth";
+var mnemonic = "message mail walnut monitor someone forget baby loan top alone borrow arrow";

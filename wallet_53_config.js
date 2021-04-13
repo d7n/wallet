@@ -1,1 +1,1 @@
-var mnemonic = "token midnight bargain world bacon able paddle spin tragic clinic during pact";
+var mnemonic = "movie oppose place verb core spell tragic own disagree switch curtain girl";

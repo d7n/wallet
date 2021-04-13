@@ -1,1 +1,1 @@
-var mnemonic = "toddler milk since few upper history hat example defy limit page impose";
+var mnemonic = "taste strategy basket girl earth round pulp very raven real guilt misery";

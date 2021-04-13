@@ -1,1 +1,1 @@
-var mnemonic = "liar hollow educate buffalo mind scorpion purity refuse try modify village situate";
+var mnemonic = "radio screen senior floor position open cycle blast vanish library ensure caution";

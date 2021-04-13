@@ -1,1 +1,1 @@
-var mnemonic = "fit where purchase apart destroy length ten wing dog pudding cactus fold";
+var mnemonic = "risk inject during fat ripple aspect aisle tilt hero forest remind noise";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny claim can huge lunar steak ethics junk hurt danger kiss door";
+var mnemonic = "arrange ability license diesel coin render write engine cheap seed wing toast";

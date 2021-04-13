@@ -1,1 +1,1 @@
-var mnemonic = "snack cute problem clap strategy type stadium detail enter beyond tornado time";
+var mnemonic = "strong moon glare title solution harbor call sound document aware easily inch";

@@ -1,1 +1,1 @@
-var mnemonic = "choice ozone angle solar box escape clown recycle engage owner wide thumb";
+var mnemonic = "vault slow teach put blossom slim copy rail devote promote divert happy";

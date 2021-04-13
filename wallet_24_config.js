@@ -1,1 +1,1 @@
-var mnemonic = "century depart comfort medal gaze adult path card jacket tourist achieve team";
+var mnemonic = "economy crunch husband fuel stumble rabbit lake lamp where museum fatal again";

@@ -1,1 +1,1 @@
-var mnemonic = "edge basket chronic play tilt appear board celery pudding trash office avocado";
+var mnemonic = "pudding pave net unique blossom desert congress uphold total mutual ivory giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "potato glow segment wolf goat report cereal join hurt tired bicycle only";
+var mnemonic = "oil margin endless lesson snake lizard stage mixture merit course resist prefer";

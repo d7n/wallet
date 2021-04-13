@@ -1,1 +1,1 @@
-var mnemonic = "brass brave old indicate foil ladder butter aunt fuel cute wear hen";
+var mnemonic = "resource mass dentist segment gasp state kiss awake deny remember material pudding";
