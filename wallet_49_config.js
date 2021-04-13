@@ -1,1 +1,1 @@
-var mnemonic = "hybrid rebel fold traffic half choice modify urge outside case metal combine";
+var mnemonic = "normal youth evil people since tiger pyramid shy window cement axis usage";

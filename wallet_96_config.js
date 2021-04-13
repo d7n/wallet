@@ -1,1 +1,1 @@
-var mnemonic = "gym rally misery trial enjoy clip radio naive must attract immune prosper";
+var mnemonic = "another capital term deliver seek million hole antenna hard turtle resemble fetch";

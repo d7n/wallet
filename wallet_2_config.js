@@ -1,1 +1,1 @@
-var mnemonic = "truck trumpet pretty ship flock puzzle year airport dad bulk empty someone";
+var mnemonic = "verify banner amount gift disease deny middle man space element illegal sand";

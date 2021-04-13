@@ -1,1 +1,1 @@
-var mnemonic = "gown apart spoon truck bundle holiday large art candy relax equip feature";
+var mnemonic = "panda promote jewel faculty satisfy enroll exile mail hair box congress gold";

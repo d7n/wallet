@@ -1,1 +1,1 @@
-var mnemonic = "fabric then fox little cross melt drastic mixed festival garage brand gate";
+var mnemonic = "wire length tip inherit amused trust bench orchard subway zone stable ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "grace climb library eagle warrior silent install vacuum fit right horror key";
+var mnemonic = "wild patch cherry proud mesh trade diesel target gloom sort devote morning";

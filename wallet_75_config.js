@@ -1,1 +1,1 @@
-var mnemonic = "human wait drill crystal six notice good what industry method million scare";
+var mnemonic = "disease comfort until virtual nephew solar arena village grant boost gift flock";

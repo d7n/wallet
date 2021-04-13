@@ -1,1 +1,1 @@
-var mnemonic = "soldier tattoo outdoor love debris spawn bag tribe stadium armor upon penalty";
+var mnemonic = "market open dwarf host earn olive proof prize acoustic cash angle brief";

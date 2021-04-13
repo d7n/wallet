@@ -1,1 +1,1 @@
-var mnemonic = "salon purpose dwarf post scene sponsor run dash hunt buffalo snack mind";
+var mnemonic = "fatigue cargo warrior roof involve consider spoon talk isolate yard plunge time";

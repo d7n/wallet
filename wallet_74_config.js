@@ -1,1 +1,1 @@
-var mnemonic = "during deposit pulse harsh error sweet alley above marine glove canal actual";
+var mnemonic = "image village hammer young target spoil unfair inherit rebel tennis jealous truck";

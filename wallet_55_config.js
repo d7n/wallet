@@ -1,1 +1,1 @@
-var mnemonic = "roof cricket decline false basket vapor effort armor almost badge volcano episode";
+var mnemonic = "pizza ocean elder know punch cool stove awesome stadium roast quit alpha";

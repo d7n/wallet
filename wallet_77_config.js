@@ -1,1 +1,1 @@
-var mnemonic = "valid rely movie case space skill salute matrix strong stool steel silver";
+var mnemonic = "library october crystal blame shove history manage monkey aerobic junior medal frost";

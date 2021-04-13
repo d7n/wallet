@@ -1,1 +1,1 @@
-var mnemonic = "moon solve citizen state version smart more guard pride exchange ride adjust";
+var mnemonic = "embody ask bid what unveil century violin slogan solid consider swift spray";

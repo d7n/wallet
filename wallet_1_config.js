@@ -1,1 +1,1 @@
-var mnemonic = "blue happy title evoke razor pony faith away trust general seat unaware";
+var mnemonic = "sugar hen filter spot cable boil dose nation question nasty glide leaf";

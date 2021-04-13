@@ -1,1 +1,1 @@
-var mnemonic = "predict jeans dawn shallow cement theme common simple canal toast palm cliff";
+var mnemonic = "cactus bamboo involve dress rigid boy thrive twelve between enemy exchange retire";

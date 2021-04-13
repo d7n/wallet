@@ -1,1 +1,1 @@
-var mnemonic = "omit pizza rule attract talk squirrel panther bunker subject client oval tiny";
+var mnemonic = "raccoon year tragic sample toward deal upset differ siege omit bless icon";

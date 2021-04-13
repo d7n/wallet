@@ -1,1 +1,1 @@
-var mnemonic = "state nominee bubble can mango slot cute pact grass shoot seminar only";
+var mnemonic = "vintage consider forest drop flower cat gather rent length mask feed film";

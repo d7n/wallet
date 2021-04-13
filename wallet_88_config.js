@@ -1,1 +1,1 @@
-var mnemonic = "expose course inflict mass awful mango farm sunset sibling pioneer enough penalty";
+var mnemonic = "town story glance question slot coyote object world dumb fox wait relax";

@@ -1,1 +1,1 @@
-var mnemonic = "song october kingdom always hen bundle tree seed ahead food wealth canoe";
+var mnemonic = "daughter good utility ozone advance ask edge short tennis problem bridge describe";

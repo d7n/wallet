@@ -1,1 +1,1 @@
-var mnemonic = "six discover swear merry furnace hat economy avocado estate device resource elegant";
+var mnemonic = "horn tired seminar draft clean wash concert diary ordinary room connect neutral";

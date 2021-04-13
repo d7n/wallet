@@ -1,1 +1,1 @@
-var mnemonic = "comic install cousin cloud cheese gaze pact neck torch mansion artist trap";
+var mnemonic = "lava rookie find repair session exhibit coffee hurdle differ arrow grape shiver";

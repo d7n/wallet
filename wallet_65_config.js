@@ -1,1 +1,1 @@
-var mnemonic = "edit empty system random chimney celery wheel crime leopard pretty case stairs";
+var mnemonic = "light expire flight debate perfect note real target school casino banana inspire";

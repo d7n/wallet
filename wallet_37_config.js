@@ -1,1 +1,1 @@
-var mnemonic = "book width unit help again roof warfare dinosaur people wrap wing journey";
+var mnemonic = "increase faculty siege cram tired cook moment clock food panel chapter broccoli";

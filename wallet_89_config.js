@@ -1,1 +1,1 @@
-var mnemonic = "predict tattoo artist remind ridge trade noodle present million round alter market";
+var mnemonic = "echo mad trade gown elegant angry depart foam puzzle puppy quality prevent";

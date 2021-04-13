@@ -1,1 +1,1 @@
-var mnemonic = "slow abuse develop eternal notable action win scan prize affair garden wolf";
+var mnemonic = "scare device bar hub push diary duck quick sea girl world village";

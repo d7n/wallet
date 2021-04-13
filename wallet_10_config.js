@@ -1,1 +1,1 @@
-var mnemonic = "begin bottom fragile hard security swamp long chunk differ forward agree remember";
+var mnemonic = "shed tool high bubble air garbage napkin announce awake column voyage dry";

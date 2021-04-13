@@ -1,1 +1,1 @@
-var mnemonic = "cabin clutch book birth guard engage blush yellow current always fox report";
+var mnemonic = "jealous alcohol apple game library rapid strong dirt people medal month retire";

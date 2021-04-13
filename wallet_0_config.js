@@ -1,1 +1,1 @@
-var mnemonic = "beyond ready express among silent rate town judge head tuna stomach visa";
+var mnemonic = "goat sphere nuclear distance announce betray army layer van input demand explain";

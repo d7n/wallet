@@ -1,1 +1,1 @@
-var mnemonic = "spend pitch submit cupboard build produce tube ticket suggest before crime vote";
+var mnemonic = "stereo coyote share dad render immune ostrich fabric chalk abuse sudden sign";

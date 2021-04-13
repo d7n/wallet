@@ -1,1 +1,1 @@
-var mnemonic = "blame rally butter distance juice provide smile motion wrap clinic spot note";
+var mnemonic = "ice spin master crater remain sun order bracket fantasy broccoli learn furnace";

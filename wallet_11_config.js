@@ -1,1 +1,1 @@
-var mnemonic = "pistol tissue hint diamond weather eye radar quote youth dial sunset load";
+var mnemonic = "boat twelve collect have issue traffic worth uphold harsh whip punch grass";

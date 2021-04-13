@@ -1,1 +1,1 @@
-var mnemonic = "super risk harvest aspect prevent miracle trick lyrics gather rule kidney unique";
+var mnemonic = "atom stone coral service company inch page regular fever trade course until";

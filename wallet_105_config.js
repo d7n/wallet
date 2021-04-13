@@ -1,1 +1,1 @@
-var mnemonic = "peace museum pencil thought essence salmon radio depth rebuild bridge attract next";
+var mnemonic = "install giant size dinosaur taste dad video knock diary unable camp step";

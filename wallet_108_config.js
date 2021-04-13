@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo custom topple spirit little gaze sphere chase dynamic lumber aware fragile";
+var mnemonic = "blind marriage arrange fault broom calm special release satisfy rebuild coconut puzzle";

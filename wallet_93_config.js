@@ -1,1 +1,1 @@
-var mnemonic = "fury sister session where diagram ask toddler pipe sense shield rhythm derive";
+var mnemonic = "nasty better prepare example pudding champion hammer kitten shock vapor lady offer";

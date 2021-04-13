@@ -1,1 +1,1 @@
-var mnemonic = "sure twice april setup autumn approve force march act puzzle dress parrot";
+var mnemonic = "spare split copy battle cloud ripple exist train oppose explain bubble near";

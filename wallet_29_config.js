@@ -1,1 +1,1 @@
-var mnemonic = "accident battle exhaust medal toy wage onion uniform also taxi clip barrel";
+var mnemonic = "brick leg mansion include artist dirt quarter purpose word corn noble tilt";

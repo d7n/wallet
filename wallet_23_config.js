@@ -1,1 +1,1 @@
-var mnemonic = "mistake plunge interest empower arrow true learn acoustic original lab federal such";
+var mnemonic = "bargain switch adult obvious owner hundred easily glimpse language glory fish foster";

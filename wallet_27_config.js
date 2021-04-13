@@ -1,1 +1,1 @@
-var mnemonic = "dove animal turtle reduce brother album very moon bottom elder gift worry";
+var mnemonic = "broom spare interest tonight display include finger flip hurdle clock chest disease";

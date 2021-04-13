@@ -1,1 +1,1 @@
-var mnemonic = "during chapter pepper fatal brief liquid regret base easily major garbage quit";
+var mnemonic = "food vivid crater use arrest ready horror series awful meadow stone fee";

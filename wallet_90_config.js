@@ -1,1 +1,1 @@
-var mnemonic = "visa lecture glare step cupboard report hurry afford rain medal inform glad";
+var mnemonic = "rifle urban trust ship pepper finger super quit clay remind sweet diamond";

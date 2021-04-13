@@ -1,1 +1,1 @@
-var mnemonic = "usual flavor artist often horse rubber finish soldier flee cave lab when";
+var mnemonic = "soup season curious until absorb taxi view glare illness another clinic cotton";

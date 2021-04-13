@@ -1,1 +1,1 @@
-var mnemonic = "try zoo seed power flower picnic other enhance wheel protect athlete syrup";
+var mnemonic = "stock meadow okay wealth nut near faith track course mixture mammal hover";

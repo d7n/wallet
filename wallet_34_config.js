@@ -1,1 +1,1 @@
-var mnemonic = "maze orchard job aerobic fashion brand happy that rebuild cousin web snap";
+var mnemonic = "mimic empty ozone rocket meat inform beauty bench remember average response enroll";

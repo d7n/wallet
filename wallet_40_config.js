@@ -1,1 +1,1 @@
-var mnemonic = "settle journey clarify crime alone cancel just hedgehog lava tip section devote";
+var mnemonic = "nut cry uniform render thunder mass duty cup immense wet visit yellow";

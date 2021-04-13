@@ -1,1 +1,1 @@
-var mnemonic = "drink lunch frost few dove program across ready spike thank hammer curve";
+var mnemonic = "swim pill mind skull route wolf repair trim distance visual morning chaos";

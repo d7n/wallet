@@ -1,1 +1,1 @@
-var mnemonic = "start pool guide hint age change soldier grid walnut head around conduct";
+var mnemonic = "warfare arm skull cover round female ten track broccoli impulse print scrub";

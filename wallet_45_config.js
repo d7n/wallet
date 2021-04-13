@@ -1,1 +1,1 @@
-var mnemonic = "tiger case flame owner pear stumble animal skull double meat until adapt";
+var mnemonic = "dune flip reopen neglect slow route six toilet pause muffin cup disagree";

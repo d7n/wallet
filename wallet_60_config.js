@@ -1,1 +1,1 @@
-var mnemonic = "monitor diesel resist loyal unfold congress armed bar focus hub arena brisk";
+var mnemonic = "struggle tone wet window lobster salute trial host bread mom wet mixture";

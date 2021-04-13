@@ -1,1 +1,1 @@
-var mnemonic = "twice fluid extra together cherry harsh retire mercy jewel result click forward";
+var mnemonic = "easy track drive stumble iron business obvious upgrade clinic rice harvest chapter";

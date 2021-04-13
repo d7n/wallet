@@ -1,1 +1,1 @@
-var mnemonic = "float humor rabbit wage purity long hurry attack movie ritual globe hold";
+var mnemonic = "destroy flock horror people soon monitor tackle toy fade artwork inflict rough";

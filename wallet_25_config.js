@@ -1,1 +1,1 @@
-var mnemonic = "save emotion reunion cattle visit protect gun prepare run repair bean naive";
+var mnemonic = "lesson train you humble knife squirrel jazz fiction season purity act bring";

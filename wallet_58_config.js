@@ -1,1 +1,1 @@
-var mnemonic = "finish fossil census fame swim spoil miracle evolve mandate twenty bottom pencil";
+var mnemonic = "tower mystery stable allow ice test grid melt very chunk misery private";

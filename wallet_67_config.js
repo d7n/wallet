@@ -1,1 +1,1 @@
-var mnemonic = "leave comfort okay side child sand clog narrow inform brick scene trap";
+var mnemonic = "shift glow huge auto fluid swift episode topic sadness solution bus tomato";

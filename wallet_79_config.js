@@ -1,1 +1,1 @@
-var mnemonic = "beyond raven mad dune rookie dry alter aware jelly hamster fox quarter";
+var mnemonic = "equip banner praise job weekend truth medal pear ethics level cargo noodle";

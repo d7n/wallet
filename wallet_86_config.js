@@ -1,1 +1,1 @@
-var mnemonic = "around north field then code utility rescue blur mail worry tongue radar";
+var mnemonic = "below offer material topic wide biology bargain ride talk quote own aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual prevent drip obtain topic winter dad blush trash satoshi sport mammal";
+var mnemonic = "target someone daring diamond track carry spin damage slam powder pause add";

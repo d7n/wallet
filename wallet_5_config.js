@@ -1,1 +1,1 @@
-var mnemonic = "alpha hole hundred grocery tackle return pattern loop wing spot crash top";
+var mnemonic = "merit debate recycle drum inner obey kick camera find south govern turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "position primary okay suit promote fresh weather donkey noble damage glow egg";
+var mnemonic = "panther dragon bomb conduct web spirit climb phone century salute modify force";

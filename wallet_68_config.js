@@ -1,1 +1,1 @@
-var mnemonic = "transfer pony earth power remind below skill blush lawn dinner battle group";
+var mnemonic = "shy jar message smart dismiss multiply include suggest oxygen repeat payment say";

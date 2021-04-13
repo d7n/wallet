@@ -1,1 +1,1 @@
-var mnemonic = "body verb assume enroll actual car glad small upgrade gadget tree chronic";
+var mnemonic = "orbit social eternal pelican science memory crucial crew fitness faith virtual absent";

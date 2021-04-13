@@ -1,1 +1,1 @@
-var mnemonic = "rally spatial saddle across climb brick cupboard gain pause tube forward fiscal";
+var mnemonic = "exist boost advice find enroll intact social nephew piece equal weekend body";

@@ -1,1 +1,1 @@
-var mnemonic = "middle lemon aim gym afford awful pen keen license helmet middle twin";
+var mnemonic = "spare picnic royal stem include robust slot auto nut syrup promote door";

@@ -1,1 +1,1 @@
-var mnemonic = "cook also expose tiger control pave sadness parrot mixed great trip skull";
+var mnemonic = "abandon bag wreck pond merry exchange sibling express toddler sail forget such";

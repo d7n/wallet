@@ -1,1 +1,1 @@
-var mnemonic = "morning horror imitate purpose describe gun knee stand crumble island zoo tobacco";
+var mnemonic = "talent outer notice twice shoe toilet box stand detect initial waste what";

@@ -1,1 +1,1 @@
-var mnemonic = "good clown quiz pet embody garage police please giggle sorry clerk wisdom";
+var mnemonic = "episode crazy express genuine switch caught doll frown arrive gasp swear budget";

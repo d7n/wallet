@@ -1,1 +1,1 @@
-var mnemonic = "still tunnel pair table slide typical soap lend fence roof current visit";
+var mnemonic = "piece pottery hole shield woman escape plate quiz pond peace rebel buyer";

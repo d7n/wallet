@@ -1,1 +1,1 @@
-var mnemonic = "police bargain soon property inject bus live crime maze safe ability slow";
+var mnemonic = "price perfect surface position divorce ice large legal position evil tiny that";

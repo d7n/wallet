@@ -1,1 +1,1 @@
-var mnemonic = "project universe consider shed glide menu cat else very pencil olive cradle";
+var mnemonic = "uniform water melody kiss follow vast keen south afraid step sound strong";

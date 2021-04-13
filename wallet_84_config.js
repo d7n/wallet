@@ -1,1 +1,1 @@
-var mnemonic = "blame jazz winter gasp leave punch race pattern window rose cactus liberty";
+var mnemonic = "expose physical piano reform lab brave upper knee few arrest choose cabbage";

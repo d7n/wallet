@@ -1,1 +1,1 @@
-var mnemonic = "decade flip arm dash human lazy doctor drop major limb limb guide";
+var mnemonic = "trigger useless lemon strong moment airport divide conduct grief gloom rural diamond";

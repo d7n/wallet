@@ -1,1 +1,1 @@
-var mnemonic = "accuse art list alien hamster spike gospel tone fault tackle poverty cover";
+var mnemonic = "twelve empower royal state hidden ice stone inform health answer walk scorpion";

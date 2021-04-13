@@ -1,1 +1,1 @@
-var mnemonic = "syrup hold own forest almost stomach tenant approve flip abuse flush meat";
+var mnemonic = "worth ski travel acid arm behave trip trouble dumb work antenna install";

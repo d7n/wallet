@@ -1,1 +1,1 @@
-var mnemonic = "embark rabbit find milk endorse cash minor light squeeze myself monitor day";
+var mnemonic = "decrease include rack spot leopard clog tail curious subject admit chronic potato";

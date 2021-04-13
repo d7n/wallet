@@ -1,1 +1,1 @@
-var mnemonic = "barely sick crane debris crash narrow power film ignore push wolf adapt";
+var mnemonic = "clump cheap point camp now priority bomb snack meadow lyrics basic prison";

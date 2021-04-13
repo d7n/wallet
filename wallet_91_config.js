@@ -1,1 +1,1 @@
-var mnemonic = "ten shoot digital noble equal vote this impulse various hole race obtain";
+var mnemonic = "script moral false add weekend prefer antenna million thunder horror educate fee";

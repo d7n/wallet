@@ -1,1 +1,1 @@
-var mnemonic = "wrist give leopard match glue roof welcome remember olive critic crop excess";
+var mnemonic = "obtain change remember diagram size actual credit armed jaguar exhaust brush betray";

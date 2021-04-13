@@ -1,1 +1,1 @@
-var mnemonic = "humble luxury orchard famous title minimum strong melody right yellow prevent dwarf";
+var mnemonic = "trim shallow degree retire correct wash forward goddess modify cream photo vicious";

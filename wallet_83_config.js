@@ -1,1 +1,1 @@
-var mnemonic = "vendor height drift divert menu old defy struggle penalty apart during ripple";
+var mnemonic = "antique shield ridge top reform beach medal reflect use pulse rescue glare";

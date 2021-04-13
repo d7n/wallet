@@ -1,1 +1,1 @@
-var mnemonic = "you torch wall attend casino ocean volume lake since asset year toast";
+var mnemonic = "often virus battle gas country cotton bright grape surface combine spin various";

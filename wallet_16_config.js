@@ -1,1 +1,1 @@
-var mnemonic = "hidden remind until worth knee flush sun mean alter reflect top lunar";
+var mnemonic = "waste urge session ski draft skill travel usage staff vital know laptop";

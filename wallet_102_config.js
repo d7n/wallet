@@ -1,1 +1,1 @@
-var mnemonic = "quick melt crawl umbrella trip muscle rubber what tree candy stable wedding";
+var mnemonic = "orchard present bullet casino exhibit era wheat meat correct burst limit bacon";

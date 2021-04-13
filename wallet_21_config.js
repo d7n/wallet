@@ -1,1 +1,1 @@
-var mnemonic = "present float blossom jewel job ready suspect answer tortoise script ranch open";
+var mnemonic = "duck shallow allow mean motor vocal pencil fork pottery year arena disease";

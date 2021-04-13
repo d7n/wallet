@@ -1,1 +1,1 @@
-var mnemonic = "scout shoulder feed inner unveil income card jungle crime stock orchard gun";
+var mnemonic = "camp improve nest couple load debris trumpet same plate chest glory stuff";

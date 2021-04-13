@@ -1,1 +1,1 @@
-var mnemonic = "drip jar brisk genius boring foster liar mercy banner junior goddess slide";
+var mnemonic = "blue surge stool knee just cotton cancel joke verify arrow cave man";

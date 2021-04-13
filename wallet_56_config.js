@@ -1,1 +1,1 @@
-var mnemonic = "ghost attend speed notice area stamp quarter bench good doctor crazy make";
+var mnemonic = "allow pigeon load future cherry decrease meat robust slim sure retire extend";

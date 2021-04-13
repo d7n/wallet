@@ -1,1 +1,1 @@
-var mnemonic = "orphan hero idea uniform snake orient eagle lesson wood rookie control nut";
+var mnemonic = "fiber rich noodle april helmet wheat more short reform cancel pond gauge";

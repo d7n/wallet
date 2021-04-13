@@ -1,1 +1,1 @@
-var mnemonic = "vacuum despair list armor always tell deer zone inhale glove struggle mean";
+var mnemonic = "test age miss age amount barely reflect live piece remember mistake leader";

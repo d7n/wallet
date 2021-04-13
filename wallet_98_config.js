@@ -1,1 +1,1 @@
-var mnemonic = "flock noble obvious clinic blouse bronze example endorse leave jeans city badge";
+var mnemonic = "pyramid garbage exile idea conduct expose chapter mushroom cage until rent dove";

@@ -1,1 +1,1 @@
-var mnemonic = "bean pioneer era lobster sphere team ozone prevent extend junk window theme";
+var mnemonic = "jar trigger duck goat ship island ten garbage core share change focus";

@@ -1,1 +1,1 @@
-var mnemonic = "finish truly antenna become stool laundry entire innocent any shrug step broken";
+var mnemonic = "firm inside decline soldier glare use galaxy become pledge menu tobacco caution";

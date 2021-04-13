@@ -1,1 +1,1 @@
-var mnemonic = "grab carry palace frown open column visual blanket wasp prevent increase thumb";
+var mnemonic = "theme husband car print casino path case method clerk ski nose lounge";
