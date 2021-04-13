@@ -1,1 +1,1 @@
-var mnemonic = "place post drink burden bridge spoil speed ceiling phrase saddle vintage almost";
+var mnemonic = "tail laugh special consider attend stand clean stereo improve element plunge test";

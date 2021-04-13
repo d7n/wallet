@@ -1,1 +1,1 @@
-var mnemonic = "carry blanket snack side slam idea volcano town whale bench fix sock";
+var mnemonic = "update turn hill panic board clinic ocean become subject salt aware give";

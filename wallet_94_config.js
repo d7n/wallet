@@ -1,1 +1,1 @@
-var mnemonic = "roast actor slim normal seek grant farm physical fox ski stick energy";
+var mnemonic = "cost panther chicken frown volcano history way eight company sniff choice execute";

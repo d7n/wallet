@@ -1,1 +1,1 @@
-var mnemonic = "erosion outside usage diesel supreme refuse damp cabbage vicious again minimum street";
+var mnemonic = "gloom engage ethics uncle balcony hero vicious hen oak fox athlete excite";

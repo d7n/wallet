@@ -1,1 +1,1 @@
-var mnemonic = "original post wage current author surround dismiss beyond pride green hidden address";
+var mnemonic = "romance october risk food latin brief gauge fancy where steel caught swear";

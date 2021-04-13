@@ -1,1 +1,1 @@
-var mnemonic = "light wedding settle tenant define social across action bind quiz derive glimpse";
+var mnemonic = "fish shed pizza manage holiday action taste way dynamic height argue scissors";

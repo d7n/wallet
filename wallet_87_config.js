@@ -1,1 +1,1 @@
-var mnemonic = "until fringe hungry thought input moon vapor waste say prison okay trigger";
+var mnemonic = "square permit planet web grain forest tray cargo script vapor powder west";

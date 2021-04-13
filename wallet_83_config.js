@@ -1,1 +1,1 @@
-var mnemonic = "today gas that brother clerk urban heart history today force caution maximum";
+var mnemonic = "crisp lyrics car prevent sister slender curious appear outdoor media train typical";

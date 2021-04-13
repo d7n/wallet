@@ -1,1 +1,1 @@
-var mnemonic = "stand focus ten ceiling inquiry dentist neutral coconut size broom infant arena";
+var mnemonic = "beef imitate pupil corn seek give strike inch spoil sort essence that";

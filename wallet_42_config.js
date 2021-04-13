@@ -1,1 +1,1 @@
-var mnemonic = "phrase cancel hope buddy bike enlist energy rose pride pull cruise city";
+var mnemonic = "scale length ticket shed image praise path victory essence arm useless spot";

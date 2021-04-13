@@ -1,1 +1,1 @@
-var mnemonic = "million time stairs taxi region chase inflict inmate race suffer alien vault";
+var mnemonic = "rather deer list when road position find used humble account tag skirt";

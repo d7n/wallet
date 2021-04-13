@@ -1,1 +1,1 @@
-var mnemonic = "sign flag jar label ocean manage expect universe insane ostrich sample tuna";
+var mnemonic = "wait clip lounge portion steak athlete sock prefer coral alley frown man";

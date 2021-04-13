@@ -1,1 +1,1 @@
-var mnemonic = "sell manual tail elbow liar fatigue isolate antenna short veteran tank jar";
+var mnemonic = "correct opera card decline blind model cat farm satoshi apple slam nation";

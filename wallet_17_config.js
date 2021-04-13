@@ -1,1 +1,1 @@
-var mnemonic = "reject grab metal funny this ivory park ensure exclude minute satoshi arrest";
+var mnemonic = "aunt stock able immune basket bless arrow horse midnight bone pluck loyal";

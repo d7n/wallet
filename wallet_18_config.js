@@ -1,1 +1,1 @@
-var mnemonic = "shift sauce nose luxury answer copy cash orphan soda adult solid consider";
+var mnemonic = "decorate peasant artist dismiss whale acid armor used coast book dose leaf";

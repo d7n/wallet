@@ -1,1 +1,1 @@
-var mnemonic = "reform code rotate hand ball you pulp cliff flock rule caught involve";
+var mnemonic = "spell pen cram slab rib margin kidney syrup ginger sunny hunt sort";

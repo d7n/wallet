@@ -1,1 +1,1 @@
-var mnemonic = "wheat coil awake raw fine curious dad home choice sport kick funny";
+var mnemonic = "teach undo pipe patch nature pilot broccoli pizza frown bottom duty session";

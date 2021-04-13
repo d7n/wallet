@@ -1,1 +1,1 @@
-var mnemonic = "lake quit wolf actress oyster valve grief exotic genre panther over below";
+var mnemonic = "company burden drink plate spy bomb oyster include monitor post drastic sight";

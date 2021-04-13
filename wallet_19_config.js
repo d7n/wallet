@@ -1,1 +1,1 @@
-var mnemonic = "pave accident poet type robot divorce hero oppose tomorrow neck tiger humor";
+var mnemonic = "enemy place stumble method danger assume enact write demise family predict scale";

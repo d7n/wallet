@@ -1,1 +1,1 @@
-var mnemonic = "enact tragic labor click carry pause start stick spring capable festival link";
+var mnemonic = "execute view chimney anchor banner around behave bounce orient loyal half regular";

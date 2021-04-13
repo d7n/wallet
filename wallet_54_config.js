@@ -1,1 +1,1 @@
-var mnemonic = "bachelor unique crumble release turtle tribe elder recipe satisfy salmon purpose mule";
+var mnemonic = "juice next sentence shuffle various bar say relief glue advice choice stereo";

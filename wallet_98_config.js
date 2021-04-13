@@ -1,1 +1,1 @@
-var mnemonic = "velvet nothing slab okay raven food begin energy story magic bench garment";
+var mnemonic = "ridge rack book cherry tissue year dice street shy narrow runway brisk";

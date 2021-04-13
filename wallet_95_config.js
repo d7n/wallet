@@ -1,1 +1,1 @@
-var mnemonic = "convince push raw metal valid rally recycle luxury charge edit industry boy";
+var mnemonic = "zero fall between test slight muffin disorder vintage uphold boring around file";

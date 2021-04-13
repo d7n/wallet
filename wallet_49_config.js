@@ -1,1 +1,1 @@
-var mnemonic = "file blood parent employ ugly remind transfer olympic bunker panther noble mail";
+var mnemonic = "wrist nuclear tide answer defy uncover proud crazy same ball buffalo arch";

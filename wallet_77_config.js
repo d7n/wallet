@@ -1,1 +1,1 @@
-var mnemonic = "once world emerge elite clever scorpion void level hurdle saddle speed attract";
+var mnemonic = "feed dynamic fox salad joke text midnight margin zebra then tip half";

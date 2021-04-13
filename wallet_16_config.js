@@ -1,1 +1,1 @@
-var mnemonic = "emerge half velvet note engage crater leg jar vocal second try hollow";
+var mnemonic = "sign explain gate chapter club glance snow tray march announce pill comic";

@@ -1,1 +1,1 @@
-var mnemonic = "add cycle drop juice mystery midnight punch usual kitten pet neutral radio";
+var mnemonic = "cave digital solve curious learn wool blast wait half original address print";

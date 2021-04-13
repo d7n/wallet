@@ -1,1 +1,1 @@
-var mnemonic = "renew behave scrub ignore season net into script seat board tongue smooth";
+var mnemonic = "celery theme depart seat recipe ginger input wagon venture old blouse ribbon";

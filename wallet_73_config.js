@@ -1,1 +1,1 @@
-var mnemonic = "balance super maximum cute surface recycle ensure isolate seminar slim orient trade";
+var mnemonic = "exhaust door yard attend mammal anchor asset bullet purpose current arctic display";

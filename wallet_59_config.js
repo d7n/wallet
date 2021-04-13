@@ -1,1 +1,1 @@
-var mnemonic = "magic rescue swim imitate domain mad dream pitch drift general tiger spell";
+var mnemonic = "dress over tent pole plunge kiss run alley domain dove answer foil";

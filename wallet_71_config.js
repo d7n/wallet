@@ -1,1 +1,1 @@
-var mnemonic = "void lecture blood sorry foam motion consider gallery keep toss giraffe family";
+var mnemonic = "ring region hedgehog visit genuine diet bitter method cargo stereo waste turn";

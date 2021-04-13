@@ -1,1 +1,1 @@
-var mnemonic = "duty picnic farm frame odor pudding garage cream quit board rack road";
+var mnemonic = "exclude abstract excite insane grape layer pond orange prize suspect soda happy";

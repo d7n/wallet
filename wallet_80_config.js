@@ -1,1 +1,1 @@
-var mnemonic = "flag hat cram output stumble crisp present key plate evidence expire monitor";
+var mnemonic = "hidden spring unaware bonus high tail woman million summer talent price canyon";

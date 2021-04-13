@@ -1,1 +1,1 @@
-var mnemonic = "gym forward clog patrol output rotate whisper oil guilt other mandate fatal";
+var mnemonic = "cup glass loan skin primary again fork divide escape ten omit away";

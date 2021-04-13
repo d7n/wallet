@@ -1,1 +1,1 @@
-var mnemonic = "minimum census suggest desert expand glue talk gorilla siege grocery priority sight";
+var mnemonic = "island language tool dynamic dust client sudden enlist initial park glow powder";

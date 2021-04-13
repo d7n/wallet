@@ -1,1 +1,1 @@
-var mnemonic = "civil mixture second toss meat spike almost anxiety skill pencil nature attack";
+var mnemonic = "kitten spy base virtual float normal patrol minor regular small disorder boost";

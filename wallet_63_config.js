@@ -1,1 +1,1 @@
-var mnemonic = "super tunnel canvas rocket flight oyster dwarf noble account energy response fee";
+var mnemonic = "brisk click limit furnace announce olive situate spend market much junior wrist";

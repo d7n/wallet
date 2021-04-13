@@ -1,1 +1,1 @@
-var mnemonic = "damage plate basic rely bird march canal add flame language ozone sight";
+var mnemonic = "valve since engage foot spare sword off valve surge gadget resource salt";

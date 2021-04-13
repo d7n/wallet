@@ -1,1 +1,1 @@
-var mnemonic = "lyrics try unknown multiply bunker record yellow innocent keen use panic festival";
+var mnemonic = "insect cushion april pudding near program old genre alert wheat hedgehog document";

@@ -1,1 +1,1 @@
-var mnemonic = "task spring gown jump appear wonder educate clog hunt outdoor salt burden";
+var mnemonic = "lunch false below silly talent path pill erode math adapt describe label";

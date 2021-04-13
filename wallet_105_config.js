@@ -1,1 +1,1 @@
-var mnemonic = "update wage rib faint manage fringe position gift habit heart timber unaware";
+var mnemonic = "photo viable peanut avoid rookie orange kitchen surface zero around swamp accuse";

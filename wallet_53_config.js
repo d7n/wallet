@@ -1,1 +1,1 @@
-var mnemonic = "void pluck degree inmate bring echo horror position acquire cannon churn film";
+var mnemonic = "image mass deposit tourist water can gospel athlete eyebrow system afraid portion";

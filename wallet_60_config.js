@@ -1,1 +1,1 @@
-var mnemonic = "vault biology squirrel nature consider travel response success unaware lake adult vast";
+var mnemonic = "feature sing finish segment hard vault gasp visit soccer mail accident attend";

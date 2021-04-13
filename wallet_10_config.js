@@ -1,1 +1,1 @@
-var mnemonic = "hen forward wagon purchase jump brass neck flock trumpet web eternal security";
+var mnemonic = "swing together cart riot will swallow frame afford giant slow wool exhibit";

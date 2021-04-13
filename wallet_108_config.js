@@ -1,1 +1,1 @@
-var mnemonic = "display opera strong cereal little state rapid until awesome ribbon churn scene";
+var mnemonic = "fox spatial clip medal ceiling catalog nerve half empty situate labor apart";

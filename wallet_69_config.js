@@ -1,1 +1,1 @@
-var mnemonic = "moon cheese fence put amazing digital december dance mushroom mandate bag casino";
+var mnemonic = "direct exhibit bunker daring tumble junior margin honey sun awesome initial crystal";

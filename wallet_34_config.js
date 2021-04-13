@@ -1,1 +1,1 @@
-var mnemonic = "bubble spawn thrive pink amateur harbor snap say always laugh express deputy";
+var mnemonic = "noble hedgehog among cement argue enough lounge cargo bind find swarm dinosaur";

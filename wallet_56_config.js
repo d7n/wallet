@@ -1,1 +1,1 @@
-var mnemonic = "pact point client hole blur blur label famous pave butter public admit";
+var mnemonic = "rice neither patch toast glory slush judge cash foster cement march live";

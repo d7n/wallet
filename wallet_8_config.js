@@ -1,1 +1,1 @@
-var mnemonic = "misery strong moral ensure piano proof satisfy employ screen smooth churn wolf";
+var mnemonic = "absurd rail frequent spatial weapon floor corn wisdom tuna autumn label embark";

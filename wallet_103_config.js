@@ -1,1 +1,1 @@
-var mnemonic = "school matter creek unfold buyer office inner agree grain enrich guess quote";
+var mnemonic = "clip glance bachelor guard radio you choose vanish earn awake cave design";

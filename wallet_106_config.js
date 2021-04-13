@@ -1,1 +1,1 @@
-var mnemonic = "walk own oil action amazing swift monkey cabbage situate travel acquire west";
+var mnemonic = "flee token tuition cry like hip strategy hard suit crisp offer thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore gorilla guilt all provide stable cable rhythm car useful order program";
+var mnemonic = "figure kind lunch sign episode waste chimney occur noble drill sentence nasty";

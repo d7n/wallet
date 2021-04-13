@@ -1,1 +1,1 @@
-var mnemonic = "priority make cram level jump direct garlic tone material help across special";
+var mnemonic = "sting laptop effort light camera fury bar bargain bright mean effort project";

@@ -1,1 +1,1 @@
-var mnemonic = "media submit edge term whale nephew keep burger repair insane eager perfect";
+var mnemonic = "notable cloud ugly vapor wedding chest grunt planet swear change someone reason";

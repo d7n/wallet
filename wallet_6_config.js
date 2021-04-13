@@ -1,1 +1,1 @@
-var mnemonic = "actor rally paddle syrup much spray nasty earth devote voyage mushroom remember";
+var mnemonic = "aspect tumble equip lake snack decline hip wise depth sail point asset";

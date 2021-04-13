@@ -1,1 +1,1 @@
-var mnemonic = "song narrow tank glue sunset universe purchase language judge lion crop inhale";
+var mnemonic = "bunker limit rain domain estate gas flee demand short noodle flock pledge";

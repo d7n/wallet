@@ -1,1 +1,1 @@
-var mnemonic = "still choice curious ribbon lens hawk front cart decide assume scare kitten";
+var mnemonic = "split envelope wage diagram pelican start inform intact clerk spy round wasp";

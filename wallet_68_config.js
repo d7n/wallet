@@ -1,1 +1,1 @@
-var mnemonic = "cherry bounce valve stone choice install crazy rack picture fruit rookie design";
+var mnemonic = "pepper maximum obvious stone crowd mule silk still pudding letter sense oxygen";

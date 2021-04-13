@@ -1,1 +1,1 @@
-var mnemonic = "project pretty maple april spell core fetch crisp vague course laundry dolphin";
+var mnemonic = "there defy sponsor night twin brief hair night become peace song issue";

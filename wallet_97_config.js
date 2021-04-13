@@ -1,1 +1,1 @@
-var mnemonic = "february economy vanish stay path viable tiny ability embody ski public follow";
+var mnemonic = "table lock flag speed bench table once ethics prepare vital close online";

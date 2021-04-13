@@ -1,1 +1,1 @@
-var mnemonic = "ribbon input large help more accuse merge business erosion pattern alley attend";
+var mnemonic = "abandon arch talent raven hint fine plunge silly invite video alpha pear";

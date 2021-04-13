@@ -1,1 +1,1 @@
-var mnemonic = "coyote betray slice can iron quality resist entire oven bird frost harsh";
+var mnemonic = "tongue swamp opera image diagram again fortune cigar attract ticket warrior jewel";

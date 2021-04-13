@@ -1,1 +1,1 @@
-var mnemonic = "intact wing welcome cube kitchen voice vague whisper lamp rare dragon main";
+var mnemonic = "purse license cherry glue blush nut truly rhythm action above mango project";

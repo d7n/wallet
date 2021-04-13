@@ -1,1 +1,1 @@
-var mnemonic = "abandon sting stage mango habit melody imitate loyal dune matter idea begin";
+var mnemonic = "priority ticket border practice rent interest order prefer where congress coyote recall";

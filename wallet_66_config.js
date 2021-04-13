@@ -1,1 +1,1 @@
-var mnemonic = "crack hero video bonus armor focus flat armed foam cactus type outside";
+var mnemonic = "crater input horn thing observe provide above kiwi case caution switch ready";

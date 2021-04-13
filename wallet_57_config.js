@@ -1,1 +1,1 @@
-var mnemonic = "dignity elder moral dynamic frown someone pepper husband lunch enact grass side";
+var mnemonic = "strategy mouse bag cruel piece wolf letter only stem duck video traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "agree oven loop stable ketchup grace dice three vivid ready runway crater";
+var mnemonic = "lock warfare enforce choose isolate acquire chimney earth enact garlic grow merry";

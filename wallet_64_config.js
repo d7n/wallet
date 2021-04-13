@@ -1,1 +1,1 @@
-var mnemonic = "priority dutch square cabin loop project oxygen pluck squeeze warm sudden type";
+var mnemonic = "crew fiber artist fetch hedgehog have kingdom capable toss foam bring ankle";

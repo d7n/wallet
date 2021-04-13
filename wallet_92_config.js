@@ -1,1 +1,1 @@
-var mnemonic = "include slush rough pull sad polar glimpse trust loan document advance move";
+var mnemonic = "film accuse erase receive soldier pony message around coast scissors indicate weekend";

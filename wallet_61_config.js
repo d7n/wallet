@@ -1,1 +1,1 @@
-var mnemonic = "climb ginger guitar pencil jungle explain foot cotton surge fade carry stomach";
+var mnemonic = "bean auction camera scheme goose valid angry pause sphere extend cherry curious";

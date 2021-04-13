@@ -1,1 +1,1 @@
-var mnemonic = "pledge bulk flavor brush slice worry spare reveal suggest cigar glory honey";
+var mnemonic = "chase maid wood royal pair chuckle pond manage empty raccoon citizen swift";

@@ -1,1 +1,1 @@
-var mnemonic = "boost review guilt swift orange ill tomorrow green casual demise behind tortoise";
+var mnemonic = "when wolf exhibit harbor very stable praise egg toilet company promote park";

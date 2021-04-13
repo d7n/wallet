@@ -1,1 +1,1 @@
-var mnemonic = "garage cotton tray rate when organ drink ordinary drive clever village faint";
+var mnemonic = "famous recipe machine identify radar unhappy hybrid mobile laundry arm siege tent";

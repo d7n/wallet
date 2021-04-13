@@ -1,1 +1,1 @@
-var mnemonic = "treat shaft tumble sunset miss find initial scrap stuff crash foam type";
+var mnemonic = "recall middle page hybrid put dream depend route produce bamboo bleak swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "unique gauge grocery head task treat hip fox consider library news cheap";
+var mnemonic = "away voyage account scrap creek nothing tank arena web burger thunder glory";

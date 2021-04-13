@@ -1,1 +1,1 @@
-var mnemonic = "canoe visual modify okay hire bundle virtual judge employ oyster control want";
+var mnemonic = "bachelor fold shield room rose various raccoon extend refuse wasp kitchen athlete";

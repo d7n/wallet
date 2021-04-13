@@ -1,1 +1,1 @@
-var mnemonic = "glass demand alcohol cash taxi flip color jealous fee burden panel mobile";
+var mnemonic = "year toss nurse trade become daughter differ carpet phone warm neglect reunion";

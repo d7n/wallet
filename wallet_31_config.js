@@ -1,1 +1,1 @@
-var mnemonic = "lift tooth anxiety cat goose mountain surround reward country bubble trouble patch";
+var mnemonic = "away debate segment expect announce typical sound veteran aisle lobster behave remind";

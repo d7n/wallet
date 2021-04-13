@@ -1,1 +1,1 @@
-var mnemonic = "wheel cross midnight pear rely tenant series party plunge double evoke flee";
+var mnemonic = "turkey border alone length upset brave extra bamboo harsh embrace curve cousin";

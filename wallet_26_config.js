@@ -1,1 +1,1 @@
-var mnemonic = "pause limit angry loud awake jacket pink unknown reduce primary ghost keep";
+var mnemonic = "bright program anchor connect replace club surface gospel multiply machine combine object";

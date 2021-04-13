@@ -1,1 +1,1 @@
-var mnemonic = "fix betray trash execute push fine number eyebrow oppose noodle student off";
+var mnemonic = "resource void board alcohol earth tourist cycle kingdom window quote range example";

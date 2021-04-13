@@ -1,1 +1,1 @@
-var mnemonic = "tissue arena tomorrow ethics cheap barrel save category when always trim unfold";
+var mnemonic = "farm cute horse deal vast same teach metal decide leave pyramid text";

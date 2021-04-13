@@ -1,1 +1,1 @@
-var mnemonic = "expand gospel apart design globe furnace blur yellow test drum hybrid audit";
+var mnemonic = "market peanut spoil tonight below uphold because race script source lawn deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "drift cactus cube frozen sorry under garage segment cherry forest load convince";
+var mnemonic = "subway author wrap clean sunny load olympic sort renew exist slow trip";

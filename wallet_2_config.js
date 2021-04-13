@@ -1,1 +1,1 @@
-var mnemonic = "ivory come lock comic stable dose october pond obey welcome north horror";
+var mnemonic = "slim coast path citizen blast very reunion brother nephew fresh undo quick";

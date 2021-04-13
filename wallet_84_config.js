@@ -1,1 +1,1 @@
-var mnemonic = "vague husband spider mouse despair purchase dentist twelve indicate glimpse enrich thunder";
+var mnemonic = "axis crop gesture culture valley essay unable motion edit tag proof march";

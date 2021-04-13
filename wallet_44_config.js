@@ -1,1 +1,1 @@
-var mnemonic = "foster wear siege sausage series sniff stumble sheriff slush hold plastic young";
+var mnemonic = "erode hockey sunset claw denial party inflict dial ketchup rough hello crucial";

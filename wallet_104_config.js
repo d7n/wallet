@@ -1,1 +1,1 @@
-var mnemonic = "blouse noodle fantasy session depart globe lemon water camp require energy fitness";
+var mnemonic = "salmon tip wing open coconut economy maximum quick credit pony check pave";

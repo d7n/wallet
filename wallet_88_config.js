@@ -1,1 +1,1 @@
-var mnemonic = "margin make amateur device swallow disorder expand analyst order elevator grain dutch";
+var mnemonic = "radar salute happy system valley moral device coil edit monkey number trouble";

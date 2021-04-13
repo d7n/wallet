@@ -1,1 +1,1 @@
-var mnemonic = "lecture normal curtain diagram truly survey coin parade neutral curve topple slam";
+var mnemonic = "skirt jelly primary action dismiss rude label lesson second admit dinner orphan";

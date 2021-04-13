@@ -1,1 +1,1 @@
-var mnemonic = "bunker fuel equip acid unaware sand actress figure tourist crop invite receive";
+var mnemonic = "carry grit oyster twelve used piece zero clay obtain purse bread push";

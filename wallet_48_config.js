@@ -1,1 +1,1 @@
-var mnemonic = "merry whip pipe mirror fly edge major road acoustic exercise echo volume";
+var mnemonic = "grace spy glue disagree insect cement call pole visit palace tenant enrich";

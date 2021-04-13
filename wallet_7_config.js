@@ -1,1 +1,1 @@
-var mnemonic = "dutch embody tower grain dove network typical food bounce detect fluid correct";
+var mnemonic = "prosper doctor jungle stumble nice moment apology unhappy cart hospital settle minimum";

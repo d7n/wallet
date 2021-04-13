@@ -1,1 +1,1 @@
-var mnemonic = "faith scrub track pony egg kangaroo tackle resist escape merry siege unique";
+var mnemonic = "give maid leisure enter awesome sock flash scheme title afford army title";

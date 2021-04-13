@@ -1,1 +1,1 @@
-var mnemonic = "onion reason april clerk kite blue shoulder pulp spawn mountain sad album";
+var mnemonic = "staff blanket army bounce trouble away stem demand yard hamster luxury welcome";

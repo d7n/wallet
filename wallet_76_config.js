@@ -1,1 +1,1 @@
-var mnemonic = "bus material maple swap coyote siege usage mirror large hamster connect juice";
+var mnemonic = "mix slot prefer fog muffin rapid relief fee naive phrase expand rapid";
