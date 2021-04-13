@@ -1,1 +1,1 @@
-var mnemonic = "catalog apple answer eternal derive action dress actor denial sound potato merge";
+var mnemonic = "anxiety jungle camp join board legend museum strategy crazy profit crush swear";

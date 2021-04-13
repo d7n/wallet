@@ -1,1 +1,1 @@
-var mnemonic = "afford volcano lady trumpet pledge summer burden execute notice hobby fashion flat";
+var mnemonic = "merit above hurdle level series fiction walk song bitter mask clump neglect";

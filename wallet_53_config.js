@@ -1,1 +1,1 @@
-var mnemonic = "fabric castle scatter neck flock merry guitar alarm crush other guess coconut";
+var mnemonic = "stereo parade climb seminar they weekend trim chair path hard attract trust";

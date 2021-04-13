@@ -1,1 +1,1 @@
-var mnemonic = "access resemble sail neck vessel between valley pole group casual catalog chapter";
+var mnemonic = "host spatial tackle beauty six error afford acid ladder opinion embrace shed";

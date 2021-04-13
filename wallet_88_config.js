@@ -1,1 +1,1 @@
-var mnemonic = "disorder hold miss search fall edge fashion bitter similar error island kiss";
+var mnemonic = "must roast enhance image jacket trash they much question fold grit sketch";

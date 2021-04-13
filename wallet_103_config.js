@@ -1,1 +1,1 @@
-var mnemonic = "pear add fine intact buddy mosquito draft mountain couple scorpion cool marble";
+var mnemonic = "write addict require boy obscure bracket december term what action nuclear mouse";

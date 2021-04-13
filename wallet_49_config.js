@@ -1,1 +1,1 @@
-var mnemonic = "rhythm miss client excess island reveal chronic rose burden ability nice plunge";
+var mnemonic = "future lesson iron visa say dust joke retire gallery law firm syrup";

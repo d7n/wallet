@@ -1,1 +1,1 @@
-var mnemonic = "captain nuclear primary damp network write ice erosion give chalk moral market";
+var mnemonic = "visa pledge plate stock still believe medal glimpse document office clever method";

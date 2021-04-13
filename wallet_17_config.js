@@ -1,1 +1,1 @@
-var mnemonic = "achieve violin island inhale retire stove image calm foster lawsuit hotel plunge";
+var mnemonic = "account giggle open country country length choose mail cancel priority suffer payment";

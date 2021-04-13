@@ -1,1 +1,1 @@
-var mnemonic = "obtain apple glad federal wave color sock wire crisp bomb please crucial";
+var mnemonic = "lucky until settle aisle begin trim sun staff mirror crumble cargo believe";

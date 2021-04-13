@@ -1,1 +1,1 @@
-var mnemonic = "now monitor behind utility genuine abandon similar position reason goat maximum huge";
+var mnemonic = "shine cradle purity tilt style riot tourist inch palace goat monster day";

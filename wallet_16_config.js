@@ -1,1 +1,1 @@
-var mnemonic = "eternal comic random absorb enrich oil amount chunk finger napkin hawk purse";
+var mnemonic = "surge fork note beef blood join crew poet destroy dog post canoe";

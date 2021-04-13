@@ -1,1 +1,1 @@
-var mnemonic = "image hobby gadget people pulse miracle bulk guard drastic mammal stuff urge";
+var mnemonic = "doll penalty welcome sense uncover knife invest arctic dentist wasp congress payment";

@@ -1,1 +1,1 @@
-var mnemonic = "clock manual coast worth cabbage grow approve squeeze unaware blind bar laundry";
+var mnemonic = "riot marble one wonder vicious few sample gesture sing route inject power";

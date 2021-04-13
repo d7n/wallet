@@ -1,1 +1,1 @@
-var mnemonic = "excite inherit deal glance quote smooth cool barely shield review sample onion";
+var mnemonic = "pig dice actress blood plate patrol alley craft wall stadium chaos virtual";

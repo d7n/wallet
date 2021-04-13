@@ -1,1 +1,1 @@
-var mnemonic = "ahead lamp help reduce staff hammer jar exhaust moral huge oval rich";
+var mnemonic = "month rely rich foster warrior there taxi tuna object coconut dumb canal";

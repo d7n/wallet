@@ -1,1 +1,1 @@
-var mnemonic = "art strong elevator response auction cook stadium lecture kiss swap fragile grocery";
+var mnemonic = "live carbon vacuum jar ignore lottery notice nation stumble strategy same feel";

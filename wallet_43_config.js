@@ -1,1 +1,1 @@
-var mnemonic = "define expect minimum mass club egg ticket logic cushion uncle tattoo moral";
+var mnemonic = "employ improve vault case attitude random promote pact hair future mercy weapon";

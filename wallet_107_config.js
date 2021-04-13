@@ -1,1 +1,1 @@
-var mnemonic = "aim art since lock elephant flush black casino draw document exact warm";
+var mnemonic = "put velvet rubber wet belt rocket antenna wreck stable split vote era";

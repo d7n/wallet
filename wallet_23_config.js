@@ -1,1 +1,1 @@
-var mnemonic = "bicycle orient hybrid cherry baby refuse forest buzz crystal lyrics spirit keen";
+var mnemonic = "live foster crazy sunset owner winter jungle few casual web cake cup";

@@ -1,1 +1,1 @@
-var mnemonic = "add elephant degree patient race mistake valley merit casino observe patch extra";
+var mnemonic = "regret guess student nerve waste muscle couple response convince alcohol security craft";

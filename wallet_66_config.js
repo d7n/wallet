@@ -1,1 +1,1 @@
-var mnemonic = "shop club almost castle worry glimpse forest squirrel polar return erupt brush";
+var mnemonic = "bargain orient script inch will dash loan turtle deputy major silk magic";

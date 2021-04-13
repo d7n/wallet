@@ -1,1 +1,1 @@
-var mnemonic = "melt slot ordinary flat leopard exchange february private attack list process genius";
+var mnemonic = "cloud exchange tilt uncle arena kiss left lion enable demise work clarify";

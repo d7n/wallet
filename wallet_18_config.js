@@ -1,1 +1,1 @@
-var mnemonic = "engine enrich tape stadium smile gloom elder space loyal sell cotton sheriff";
+var mnemonic = "bomb also control stumble column expose stamp pill life little olive home";

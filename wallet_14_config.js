@@ -1,1 +1,1 @@
-var mnemonic = "pull start pole feed during elephant frequent upon pistol burden plug cancel";
+var mnemonic = "eye matter chat pink other orbit void exchange morning wreck subject size";

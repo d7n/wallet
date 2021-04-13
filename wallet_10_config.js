@@ -1,1 +1,1 @@
-var mnemonic = "next fashion draft insect loyal assault congress episode series capable rude flag";
+var mnemonic = "sock miss door pottery increase segment zoo olive hobby foam metal grab";

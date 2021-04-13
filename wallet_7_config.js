@@ -1,1 +1,1 @@
-var mnemonic = "fence idle help clever uniform spawn galaxy feed guide spider acquire elite";
+var mnemonic = "often nothing able dolphin runway ability zebra deny paddle focus cousin summer";

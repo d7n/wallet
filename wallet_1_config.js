@@ -1,1 +1,1 @@
-var mnemonic = "scrub treat crack wrist enemy machine curve jar assault kick install priority";
+var mnemonic = "such year neglect sketch front board world fame stage any luxury system";

@@ -1,1 +1,1 @@
-var mnemonic = "tip air camp bullet swim amused gap alarm glare abuse obtain strike";
+var mnemonic = "dinner close supply seminar genuine rookie mom enlist clarify rent wear hospital";

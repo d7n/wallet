@@ -1,1 +1,1 @@
-var mnemonic = "brief police month funny kidney need iron horror wing cloth remember release";
+var mnemonic = "finger awkward cat elegant parrot cluster solid moral uncle horse avocado tail";

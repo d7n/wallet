@@ -1,1 +1,1 @@
-var mnemonic = "garlic lottery ivory emotion hammer bring source royal robust forest expect rich";
+var mnemonic = "farm crowd immense squeeze bulk rebuild setup race mushroom invest market budget";

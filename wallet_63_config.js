@@ -1,1 +1,1 @@
-var mnemonic = "beyond lock wheel deny enter fantasy over across behave poet run antenna";
+var mnemonic = "castle manage direct woman lake brother deputy fresh once nurse cash secret";

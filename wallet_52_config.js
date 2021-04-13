@@ -1,1 +1,1 @@
-var mnemonic = "wrong client pelican bean sun turkey embark siren nasty wedding crew any";
+var mnemonic = "wrong area master essay cause hawk symptom select ritual afford excuse diet";

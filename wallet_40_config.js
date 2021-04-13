@@ -1,1 +1,1 @@
-var mnemonic = "brief wide hello upper mystery dutch crunch foot catalog transfer maze page";
+var mnemonic = "spray range lazy sugar unusual erode mad skate neglect nose detect battle";

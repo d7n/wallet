@@ -1,1 +1,1 @@
-var mnemonic = "discover vehicle priority pet eagle stadium maid reunion glad banner party mad";
+var mnemonic = "dignity vanish person identify term quality clarify helmet glory muscle fault scan";

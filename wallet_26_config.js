@@ -1,1 +1,1 @@
-var mnemonic = "extra adapt strong extra between flavor veteran sound corn rifle alpha fire";
+var mnemonic = "habit kite fantasy early thrive day kiss abstract asset priority script test";

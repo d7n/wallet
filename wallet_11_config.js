@@ -1,1 +1,1 @@
-var mnemonic = "balcony spell jewel bulb polar confirm twelve mammal tree push beyond pulse";
+var mnemonic = "pluck glass report snake voyage canyon over fade buddy kitten drink power";

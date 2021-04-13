@@ -1,1 +1,1 @@
-var mnemonic = "grant tape crawl give sister then wisdom arctic chat best chief marriage";
+var mnemonic = "annual wage stamp voyage olympic cool crush media unveil awake wrestle brass";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition battle have error monitor fee trophy move crush casual jazz purity";
+var mnemonic = "involve nut usual popular brother rude garment income satoshi buyer garlic accuse";

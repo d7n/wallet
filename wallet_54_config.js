@@ -1,1 +1,1 @@
-var mnemonic = "umbrella stairs comfort soap poet armed choice cupboard congress decorate general pencil";
+var mnemonic = "invite utility injury pause phone danger peace movie awkward lonely banana light";

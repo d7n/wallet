@@ -1,1 +1,1 @@
-var mnemonic = "spatial unknown faint exit cruise tent magic develop budget sword jelly mammal";
+var mnemonic = "whale caution wine swear neglect earn chat crazy hen nurse grace stamp";

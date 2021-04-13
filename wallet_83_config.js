@@ -1,1 +1,1 @@
-var mnemonic = "aspect comfort kite correct differ inspire prefer trial diamond shoot school resource";
+var mnemonic = "next cause shuffle bag regular diet plastic stable edge flag upon brown";

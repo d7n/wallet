@@ -1,1 +1,1 @@
-var mnemonic = "coffee glare hello eye couch mesh curious client family receive stock toe";
+var mnemonic = "damage lawn radar vapor assist travel input ability gesture gown skate merit";

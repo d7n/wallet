@@ -1,1 +1,1 @@
-var mnemonic = "modify toward blind fiscal digital wide toilet scout man cable throw two";
+var mnemonic = "profit caught seat long tackle museum immense arm mule reduce all vast";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient bean emerge switch barrel garment trap amateur employ door ugly pet";
+var mnemonic = "glory grunt wise various wire area design orphan cushion pact ability knee";

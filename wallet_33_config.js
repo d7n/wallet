@@ -1,1 +1,1 @@
-var mnemonic = "salon tomorrow hundred couch future drink attitude prevent process payment copper cigar";
+var mnemonic = "soul rescue sight cost impulse usage put brand proud sound wish liquid";

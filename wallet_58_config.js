@@ -1,1 +1,1 @@
-var mnemonic = "amount next carry female require bacon grief shaft number half legal regret";
+var mnemonic = "arrive female lounge buyer hour head absurd loan crucial stomach stem purchase";

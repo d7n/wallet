@@ -1,1 +1,1 @@
-var mnemonic = "dice bid woman elegant bind trial neglect flush winter pencil champion special";
+var mnemonic = "adult involve office oven end embark wheel bulk project parrot hospital forward";

@@ -1,1 +1,1 @@
-var mnemonic = "army ill float learn yard push gate trend token lemon funny wide";
+var mnemonic = "radar hundred cable idea upon large tobacco balcony because trophy ability speed";

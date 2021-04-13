@@ -1,1 +1,1 @@
-var mnemonic = "million eyebrow black load execute country rapid eye renew autumn twist marriage";
+var mnemonic = "cycle tired spawn figure wrist sun nut indicate fluid nation century leader";

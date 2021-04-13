@@ -1,1 +1,1 @@
-var mnemonic = "tape almost airport rescue speak turkey tortoise aunt service advice beauty neither";
+var mnemonic = "inform concert clog taste put beyond stadium fashion reason useful trend feed";

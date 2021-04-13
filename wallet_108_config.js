@@ -1,1 +1,1 @@
-var mnemonic = "split arrange barrel brush siege celery raccoon train regret find road air";
+var mnemonic = "legend vendor client ball renew rigid flat vessel canal motor idea picture";

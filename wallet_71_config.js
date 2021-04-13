@@ -1,1 +1,1 @@
-var mnemonic = "long rifle please entry shiver girl pizza joy shell dog umbrella car";
+var mnemonic = "liberty wide stadium benefit crop toilet castle spray puzzle sound device hurt";

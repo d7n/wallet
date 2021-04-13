@@ -1,1 +1,1 @@
-var mnemonic = "december peace parent disorder enjoy smile random demise shuffle ensure short unhappy";
+var mnemonic = "injury foot argue outside image okay unique second define curtain ski kitten";

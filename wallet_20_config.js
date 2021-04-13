@@ -1,1 +1,1 @@
-var mnemonic = "nut arrest gorilla differ cereal romance parrot category stool ethics treat name";
+var mnemonic = "edge skate spell gap rack struggle cable vintage lava supply latin wash";

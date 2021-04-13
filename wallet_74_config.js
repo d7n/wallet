@@ -1,1 +1,1 @@
-var mnemonic = "paddle come way increase treat emerge hundred confirm slender decline city people";
+var mnemonic = "quit beef fortune unknown spider feed great bid base post what viable";

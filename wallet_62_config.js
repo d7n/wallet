@@ -1,1 +1,1 @@
-var mnemonic = "lecture marine sugar bottom venture maple doll length sad cereal episode east";
+var mnemonic = "pioneer mirror into endorse front rocket second lemon warm plastic joke marriage";

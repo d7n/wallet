@@ -1,1 +1,1 @@
-var mnemonic = "artefact across skull question mosquito village web paper travel half sleep canoe";
+var mnemonic = "chef flip gadget letter treat fiscal canyon punch truth clever garlic bicycle";

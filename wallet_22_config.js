@@ -1,1 +1,1 @@
-var mnemonic = "bitter dream estate yellow pond cancel drastic sail huge arch run series";
+var mnemonic = "urban version impose pattern volcano sketch master amateur shallow glory dismiss crunch";

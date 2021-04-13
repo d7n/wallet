@@ -1,1 +1,1 @@
-var mnemonic = "enact hunt sock catalog impact describe palace hybrid scare alien joke ginger";
+var mnemonic = "credit trumpet world lift park eyebrow hen hurry scale lawsuit spice message";

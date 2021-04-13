@@ -1,1 +1,1 @@
-var mnemonic = "rib hair ocean number title cover escape wedding brother alter way announce";
+var mnemonic = "tissue moon capital steel define pact jaguar rail into treat sweet cluster";

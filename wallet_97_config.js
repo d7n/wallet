@@ -1,1 +1,1 @@
-var mnemonic = "eternal transfer put useful chat sphere lucky patch struggle tunnel brother guitar";
+var mnemonic = "shock obtain erosion crouch remove travel mystery merge lazy three green write";

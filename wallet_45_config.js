@@ -1,1 +1,1 @@
-var mnemonic = "series speak stone daring van soft ice spatial drama hire decrease cruise";
+var mnemonic = "snow address ill engage luggage twenty flock clump mountain emerge habit busy";

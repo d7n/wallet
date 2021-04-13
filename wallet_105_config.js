@@ -1,1 +1,1 @@
-var mnemonic = "critic vital old render outer swamp devote invite census forum total juice";
+var mnemonic = "dragon neglect lunar muscle major giggle winner warm pizza odor mimic reform";

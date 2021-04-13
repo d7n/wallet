@@ -1,1 +1,1 @@
-var mnemonic = "reveal assault female dry poem jar carbon manual tide learn verb celery";
+var mnemonic = "debate tray gallery latin arm budget heavy veteran pave rib runway elbow";

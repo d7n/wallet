@@ -1,1 +1,1 @@
-var mnemonic = "genuine frog stick erupt pill kidney unaware enemy bleak connect rotate juice";
+var mnemonic = "surge peace pigeon kidney ribbon pattern oil paper slab wolf answer pelican";

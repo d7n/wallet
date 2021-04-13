@@ -1,1 +1,1 @@
-var mnemonic = "federal spell cave uniform visit say limb people furnace oblige apple reunion";
+var mnemonic = "lamp across library sunny gorilla peanut region embrace certain post energy pact";

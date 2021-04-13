@@ -1,1 +1,1 @@
-var mnemonic = "airport slab stove deputy increase gadget crucial bubble achieve aware news crystal";
+var mnemonic = "echo hood blossom cream equal expand mixed size among today slender voyage";

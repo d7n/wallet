@@ -1,1 +1,1 @@
-var mnemonic = "neither there fantasy arrest guess mechanic gold insane sleep hunt tape water";
+var mnemonic = "huge shuffle initial vanish kit puzzle draft winter diet delay wet cupboard";

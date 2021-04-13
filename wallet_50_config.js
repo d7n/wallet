@@ -1,1 +1,1 @@
-var mnemonic = "napkin gauge tobacco skate dream pledge right clown pony lesson glide evidence";
+var mnemonic = "slim iron dutch option police intact shiver cabbage drink unique primary toddler";

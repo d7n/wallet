@@ -1,1 +1,1 @@
-var mnemonic = "install fetch amazing photo reveal share ginger voice dance wisdom green world";
+var mnemonic = "proof loop fame source alpha raise shove gaze toe sea weekend have";

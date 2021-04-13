@@ -1,1 +1,1 @@
-var mnemonic = "indoor educate twenty gadget under worth carry finish way wood leisure ability";
+var mnemonic = "subject royal goose shoe festival salon know strong paper giggle dance nasty";

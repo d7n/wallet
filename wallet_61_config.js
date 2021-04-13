@@ -1,1 +1,1 @@
-var mnemonic = "good excite jar guess settle share waste ramp chaos ripple sponsor install";
+var mnemonic = "bus antenna note swim dumb palace west foot rival senior close board";

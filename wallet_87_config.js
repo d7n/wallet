@@ -1,1 +1,1 @@
-var mnemonic = "physical stand tissue absorb harbor tuition express resource wolf gather resource check";
+var mnemonic = "mosquito always present lounge busy grass stage satisfy clinic eternal sudden carry";

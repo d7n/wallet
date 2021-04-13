@@ -1,1 +1,1 @@
-var mnemonic = "situate science pilot often anxiety snack puzzle seven bless pen gun flame";
+var mnemonic = "damage canoe oval drink bubble able ridge envelope faint captain ridge exhibit";

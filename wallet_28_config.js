@@ -1,1 +1,1 @@
-var mnemonic = "sand awake razor fiscal kit cart awake weird render clog mango rule";
+var mnemonic = "blast close keep warm light trust machine collect wish fragile horror hundred";

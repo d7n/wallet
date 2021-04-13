@@ -1,1 +1,1 @@
-var mnemonic = "cement runway ignore social zoo worth capable ladder finish tone cloth media";
+var mnemonic = "middle speak essence dune shoot toward measure tenant possible jar salt animal";

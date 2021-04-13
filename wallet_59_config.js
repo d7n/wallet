@@ -1,1 +1,1 @@
-var mnemonic = "tray later treat genius yellow party parade acid nurse hero fragile morning";
+var mnemonic = "broom evolve turtle viable foot garlic edge physical swap sugar vault badge";

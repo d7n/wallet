@@ -1,1 +1,1 @@
-var mnemonic = "nothing rough palace rescue dwarf speed champion lion buyer vault eight clarify";
+var mnemonic = "speak fat sail park roof random force balance crystal wish visual nose";

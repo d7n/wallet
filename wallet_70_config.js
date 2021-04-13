@@ -1,1 +1,1 @@
-var mnemonic = "trust match diamond detail garbage fiction december security wrist erupt point coconut";
+var mnemonic = "hurry ceiling sausage degree deer weasel reform rent memory pink bachelor volume";

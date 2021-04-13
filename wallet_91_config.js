@@ -1,1 +1,1 @@
-var mnemonic = "cup network owner few cotton stereo mango reunion discover help prepare tent";
+var mnemonic = "route upper ready need false toddler annual essence cause trip ramp rally";

@@ -1,1 +1,1 @@
-var mnemonic = "summer material anchor tilt fatigue consider enforce baby latin walk render kit";
+var mnemonic = "cream aisle visa empty canal language miss brush heart frequent cousin insane";

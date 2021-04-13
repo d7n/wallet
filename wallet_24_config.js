@@ -1,1 +1,1 @@
-var mnemonic = "neglect retreat obtain merit girl mixed arch fun fat custom require sentence";
+var mnemonic = "laugh unit autumn vehicle weapon drink video bullet remove heart feel deliver";

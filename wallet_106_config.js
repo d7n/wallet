@@ -1,1 +1,1 @@
-var mnemonic = "remove cloud abstract choose van security sister swarm modify limit obtain century";
+var mnemonic = "enlist cabbage save helmet strategy quit expose save sniff example method multiply";

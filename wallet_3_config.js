@@ -1,1 +1,1 @@
-var mnemonic = "just citizen flame lion leopard castle object pledge plastic point fix turn";
+var mnemonic = "oyster kangaroo ribbon skin athlete sadness forum cram reveal enroll silver crunch";

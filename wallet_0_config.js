@@ -1,1 +1,1 @@
-var mnemonic = "brave isolate unable dwarf burden nest afford crew special sphere collect riot";
+var mnemonic = "remove organ swarm fiber friend net logic chapter there pepper alone disorder";

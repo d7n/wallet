@@ -1,1 +1,1 @@
-var mnemonic = "stem kind upset paper rally valid fire grow junk artwork nerve vicious";
+var mnemonic = "aerobic fame virus alpha crouch empower bracket caution churn hover muffin convince";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum wait stuff trophy about paper monkey car sadness west lamp palm";
+var mnemonic = "duty voyage eye globe budget anxiety cable morning affair leopard dinosaur fury";

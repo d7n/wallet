@@ -1,1 +1,1 @@
-var mnemonic = "coil defense slim weapon genius output insane lawn spy confirm wool credit";
+var mnemonic = "crouch acid property retire timber explain crater rocket today spring salt toward";

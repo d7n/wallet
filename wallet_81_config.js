@@ -1,1 +1,1 @@
-var mnemonic = "hunt among brain float vocal april rocket great offer rapid brick rib";
+var mnemonic = "bonus kit rural garment slab course beauty already first festival fiber wheat";

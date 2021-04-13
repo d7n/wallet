@@ -1,1 +1,1 @@
-var mnemonic = "female hidden hedgehog trumpet belt someone daring turn always afford enlist gaze";
+var mnemonic = "gorilla brand film connect upon bench various alert explain enter over zero";
