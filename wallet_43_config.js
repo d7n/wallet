@@ -1,1 +1,1 @@
-var mnemonic = "outer enrich absent equal pitch you peace dice cute list nation head";
+var mnemonic = "define expect minimum mass club egg ticket logic cushion uncle tattoo moral";

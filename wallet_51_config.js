@@ -1,1 +1,1 @@
-var mnemonic = "rookie above tree bicycle negative oak scorpion throw inject lemon rabbit timber";
+var mnemonic = "excite inherit deal glance quote smooth cool barely shield review sample onion";

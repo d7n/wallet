@@ -1,1 +1,1 @@
-var mnemonic = "total junk capital ticket adjust flame ancient shallow gloom sense opera vicious";
+var mnemonic = "now monitor behind utility genuine abandon similar position reason goat maximum huge";

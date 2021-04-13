@@ -1,1 +1,1 @@
-var mnemonic = "start alley victory ice unaware amateur vapor protect output island culture turn";
+var mnemonic = "fabric castle scatter neck flock merry guitar alarm crush other guess coconut";

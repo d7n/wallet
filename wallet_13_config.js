@@ -1,1 +1,1 @@
-var mnemonic = "embody faculty toward grace pupil silk wage east remember exhaust hurt because";
+var mnemonic = "access resemble sail neck vessel between valley pole group casual catalog chapter";

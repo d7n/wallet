@@ -1,1 +1,1 @@
-var mnemonic = "auto truck tent antenna banner exhaust walnut tank fashion panel wife lawsuit";
+var mnemonic = "december peace parent disorder enjoy smile random demise shuffle ensure short unhappy";

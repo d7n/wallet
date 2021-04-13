@@ -1,1 +1,1 @@
-var mnemonic = "pattern absurd execute spoil act pistol slush duck shoot arrow solve enrich";
+var mnemonic = "install fetch amazing photo reveal share ginger voice dance wisdom green world";

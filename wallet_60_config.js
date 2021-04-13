@@ -1,1 +1,1 @@
-var mnemonic = "kitchen blouse outside hospital tourist vocal fuel image furnace left illegal member";
+var mnemonic = "summer material anchor tilt fatigue consider enforce baby latin walk render kit";

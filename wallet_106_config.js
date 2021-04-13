@@ -1,1 +1,1 @@
-var mnemonic = "clump vacant device mind glare electric essay adult provide timber vintage bag";
+var mnemonic = "remove cloud abstract choose van security sister swarm modify limit obtain century";

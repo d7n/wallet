@@ -1,1 +1,1 @@
-var mnemonic = "tribe train buffalo survey build ability tail neck seed label able moment";
+var mnemonic = "pear add fine intact buddy mosquito draft mountain couple scorpion cool marble";

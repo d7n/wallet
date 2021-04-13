@@ -1,1 +1,1 @@
-var mnemonic = "casino curious claw away fine awesome digital wave success zoo push enemy";
+var mnemonic = "image hobby gadget people pulse miracle bulk guard drastic mammal stuff urge";

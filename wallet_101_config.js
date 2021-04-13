@@ -1,1 +1,1 @@
-var mnemonic = "pupil drip swarm diamond capital radar ankle nurse mango prison icon disease";
+var mnemonic = "grant tape crawl give sister then wisdom arctic chat best chief marriage";

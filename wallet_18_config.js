@@ -1,1 +1,1 @@
-var mnemonic = "employ false dream still traffic enjoy smile flavor fashion follow sadness rug";
+var mnemonic = "engine enrich tape stadium smile gloom elder space loyal sell cotton sheriff";

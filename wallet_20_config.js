@@ -1,1 +1,1 @@
-var mnemonic = "animal one duck verify bachelor twenty infant celery exhibit derive copy female";
+var mnemonic = "nut arrest gorilla differ cereal romance parrot category stool ethics treat name";

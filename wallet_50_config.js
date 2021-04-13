@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur trip warrior inquiry young runway raise shield eye cradle all same";
+var mnemonic = "napkin gauge tobacco skate dream pledge right clown pony lesson glide evidence";

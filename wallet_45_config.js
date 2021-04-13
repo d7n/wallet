@@ -1,1 +1,1 @@
-var mnemonic = "plug throw life crane muffin grunt weekend liquid speed appear yellow erase";
+var mnemonic = "series speak stone daring van soft ice spatial drama hire decrease cruise";

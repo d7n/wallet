@@ -1,1 +1,1 @@
-var mnemonic = "useful swim buyer valid sunset reveal connect number banana team major wrestle";
+var mnemonic = "airport slab stove deputy increase gadget crucial bubble achieve aware news crystal";

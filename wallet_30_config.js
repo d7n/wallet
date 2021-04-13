@@ -1,1 +1,1 @@
-var mnemonic = "chronic town half easy fragile pull during blush permit need chief hybrid";
+var mnemonic = "dice bid woman elegant bind trial neglect flush winter pencil champion special";

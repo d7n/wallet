@@ -1,1 +1,1 @@
-var mnemonic = "birth dentist faculty fee echo bind unfold huge swamp early van cube";
+var mnemonic = "rhythm miss client excess island reveal chronic rose burden ability nice plunge";

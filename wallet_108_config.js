@@ -1,1 +1,1 @@
-var mnemonic = "adult angry jewel scheme shrug table rabbit gorilla whisper hour toward swift";
+var mnemonic = "split arrange barrel brush siege celery raccoon train regret find road air";

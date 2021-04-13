@@ -1,1 +1,1 @@
-var mnemonic = "name squeeze gown grant buyer mechanic round solar foster robot velvet finger";
+var mnemonic = "dash knife dad elephant finish pretty depth whisper toss congress neutral myth";

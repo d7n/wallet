@@ -1,1 +1,1 @@
-var mnemonic = "humble health melt wild globe try taxi jeans more cute nephew boat";
+var mnemonic = "cruise banana govern rebel require dash whisper skill lottery bag wash screen";

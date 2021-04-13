@@ -1,1 +1,1 @@
-var mnemonic = "mean spirit beach museum budget slot balcony final sausage play torch hurdle";
+var mnemonic = "lecture marine sugar bottom venture maple doll length sad cereal episode east";

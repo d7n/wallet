@@ -1,1 +1,1 @@
-var mnemonic = "good kitten humble federal snake cousin next resource remind stove armor please";
+var mnemonic = "bicycle orient hybrid cherry baby refuse forest buzz crystal lyrics spirit keen";

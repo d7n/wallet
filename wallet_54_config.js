@@ -1,1 +1,1 @@
-var mnemonic = "barrel bacon mean cover correct name shine chicken web differ shine pair";
+var mnemonic = "umbrella stairs comfort soap poet armed choice cupboard congress decorate general pencil";

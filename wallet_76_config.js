@@ -1,1 +1,1 @@
-var mnemonic = "skirt harbor area mushroom rely burger feature stick giraffe lesson make direct";
+var mnemonic = "nothing rough palace rescue dwarf speed champion lion buyer vault eight clarify";

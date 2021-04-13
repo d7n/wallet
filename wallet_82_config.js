@@ -1,1 +1,1 @@
-var mnemonic = "deputy river reopen glide hill pond issue ordinary annual still misery hazard";
+var mnemonic = "indoor educate twenty gadget under worth carry finish way wood leisure ability";

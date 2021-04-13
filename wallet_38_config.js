@@ -1,1 +1,1 @@
-var mnemonic = "saddle attract imitate describe yellow lava woman pottery double promote emerge okay";
+var mnemonic = "garlic lottery ivory emotion hammer bring source royal robust forest expect rich";

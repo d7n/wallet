@@ -1,1 +1,1 @@
-var mnemonic = "habit drop leg hard wise uncle oak proof private cloud mail iron";
+var mnemonic = "just citizen flame lion leopard castle object pledge plastic point fix turn";

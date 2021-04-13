@@ -1,1 +1,1 @@
-var mnemonic = "result follow garage sadness fold twin length congress always large office drop";
+var mnemonic = "shop club almost castle worry glimpse forest squirrel polar return erupt brush";

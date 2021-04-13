@@ -1,1 +1,1 @@
-var mnemonic = "notice garage steak disorder cash issue thing flight hybrid trophy junior remove";
+var mnemonic = "frown hero radio dilemma ball market increase motor truth upset lonely life";

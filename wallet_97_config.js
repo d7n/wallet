@@ -1,1 +1,1 @@
-var mnemonic = "mixed stumble vehicle traffic trophy dynamic pepper silly lazy erupt spot rate";
+var mnemonic = "eternal transfer put useful chat sphere lucky patch struggle tunnel brother guitar";

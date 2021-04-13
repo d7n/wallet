@@ -1,1 +1,1 @@
-var mnemonic = "novel apple hover zero swim patient stock milk unusual farm village defy";
+var mnemonic = "afford volcano lady trumpet pledge summer burden execute notice hobby fashion flat";

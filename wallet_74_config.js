@@ -1,1 +1,1 @@
-var mnemonic = "aim kind panic fold venture term disease equal worth special seven senior";
+var mnemonic = "paddle come way increase treat emerge hundred confirm slender decline city people";

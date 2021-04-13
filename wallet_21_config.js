@@ -1,1 +1,1 @@
-var mnemonic = "domain blossom invest burden endorse knife route sad turtle bar rack baby";
+var mnemonic = "art strong elevator response auction cook stadium lecture kiss swap fragile grocery";

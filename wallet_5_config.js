@@ -1,1 +1,1 @@
-var mnemonic = "night banner settle merge crowd stem wrong buffalo actress demise rookie blood";
+var mnemonic = "flush armor slam again provide chuckle dwarf merry deer retire predict alarm";

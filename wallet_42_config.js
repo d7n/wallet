@@ -1,1 +1,1 @@
-var mnemonic = "absent cross case spell manual tip arrange canvas label north eagle device";
+var mnemonic = "release fiction random leader enemy dizzy together remind lady scare reason ill";

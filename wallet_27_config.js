@@ -1,1 +1,1 @@
-var mnemonic = "lab diamond aerobic dove adjust please suffer bullet family stick army nose";
+var mnemonic = "spatial unknown faint exit cruise tent magic develop budget sword jelly mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "else torch river winter call six desk project ghost weather virus orchard";
+var mnemonic = "voice hurt album buffalo away blame lab bundle addict entry hat amateur";

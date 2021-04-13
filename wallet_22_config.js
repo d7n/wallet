@@ -1,1 +1,1 @@
-var mnemonic = "mail switch blue solution kitchen trash net subway meat absorb quiz swear";
+var mnemonic = "bitter dream estate yellow pond cancel drastic sail huge arch run series";

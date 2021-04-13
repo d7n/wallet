@@ -1,1 +1,1 @@
-var mnemonic = "tape slim wool rebuild decorate loop suspect clutch struggle bamboo private birth";
+var mnemonic = "wire battle elegant movie disease occur weasel sunny drastic provide truck fade";

@@ -1,1 +1,1 @@
-var mnemonic = "busy lumber trouble furnace shove uncover alone chunk climb soldier mom action";
+var mnemonic = "physical stand tissue absorb harbor tuition express resource wolf gather resource check";

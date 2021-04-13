@@ -1,1 +1,1 @@
-var mnemonic = "video omit rotate room enforce fluid practice exotic current midnight please public";
+var mnemonic = "noodle crush critic survey jar hello travel east patch off arrange box";

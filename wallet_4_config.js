@@ -1,1 +1,1 @@
-var mnemonic = "balance elder dynamic august behave tongue wire swear ripple work sport immense";
+var mnemonic = "reopen female huge stadium sock profit primary bitter ceiling wife helmet crew";

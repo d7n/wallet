@@ -1,1 +1,1 @@
-var mnemonic = "also artist advance ball garment almost indicate dad window matter carry notable";
+var mnemonic = "clock manual coast worth cabbage grow approve squeeze unaware blind bar laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "brick quality spare axis high jelly make deer kind basic flock nothing";
+var mnemonic = "beyond lock wheel deny enter fantasy over across behave poet run antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "scale frog draw grief satoshi exact immune cat impact news walk dragon";
+var mnemonic = "tape almost airport rescue speak turkey tortoise aunt service advice beauty neither";

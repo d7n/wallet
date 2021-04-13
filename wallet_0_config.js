@@ -1,1 +1,1 @@
-var mnemonic = "coast hold prefer demise beach catch core beyond prize december fabric leg";
+var mnemonic = "brave isolate unable dwarf burden nest afford crew special sphere collect riot";

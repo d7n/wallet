@@ -1,1 +1,1 @@
-var mnemonic = "immense borrow length sustain twist balance logic cat wise veteran desert glory";
+var mnemonic = "neither there fantasy arrest guess mechanic gold insane sleep hunt tape water";

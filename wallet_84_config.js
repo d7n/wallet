@@ -1,1 +1,1 @@
-var mnemonic = "sweet potato void riot minute wolf mouse brief forward zone vocal tip";
+var mnemonic = "require gesture doctor marble hazard sponsor firm outer decline dial metal arm";

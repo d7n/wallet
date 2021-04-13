@@ -1,1 +1,1 @@
-var mnemonic = "coast sheriff number group trouble pill play shadow state hedgehog code repeat";
+var mnemonic = "situate science pilot often anxiety snack puzzle seven bless pen gun flame";

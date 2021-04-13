@@ -1,1 +1,1 @@
-var mnemonic = "check upset same annual satoshi lesson town miracle mistake cricket notable milk";
+var mnemonic = "aim art since lock elephant flush black casino draw document exact warm";

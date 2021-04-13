@@ -1,1 +1,1 @@
-var mnemonic = "similar melt solve oxygen elevator want able orchard paddle peace place lounge";
+var mnemonic = "melt slot ordinary flat leopard exchange february private attack list process genius";

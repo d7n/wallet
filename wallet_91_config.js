@@ -1,1 +1,1 @@
-var mnemonic = "depth shock street medal latin armor any hungry turkey stem tomorrow duck";
+var mnemonic = "cup network owner few cotton stereo mango reunion discover help prepare tent";

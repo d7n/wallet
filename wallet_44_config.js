@@ -1,1 +1,1 @@
-var mnemonic = "pause cliff million canoe bring piano between target length write scout person";
+var mnemonic = "brief police month funny kidney need iron horror wing cloth remember release";

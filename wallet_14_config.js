@@ -1,1 +1,1 @@
-var mnemonic = "quote galaxy circle bean crystal spy scout runway banana salute cash sing";
+var mnemonic = "pull start pole feed during elephant frequent upon pistol burden plug cancel";

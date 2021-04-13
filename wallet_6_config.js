@@ -1,1 +1,1 @@
-var mnemonic = "basket end rough alarm turkey response travel goddess visa that illness punch";
+var mnemonic = "cement runway ignore social zoo worth capable ladder finish tone cloth media";

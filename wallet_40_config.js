@@ -1,1 +1,1 @@
-var mnemonic = "army depart neutral benefit liar clever begin style asset report cheese deputy";
+var mnemonic = "brief wide hello upper mystery dutch crunch foot catalog transfer maze page";

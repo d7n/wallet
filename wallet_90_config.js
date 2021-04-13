@@ -1,1 +1,1 @@
-var mnemonic = "feed salmon movie bracket few thank slight junk relief program pottery ancient";
+var mnemonic = "vacuum wait stuff trophy about paper monkey car sadness west lamp palm";

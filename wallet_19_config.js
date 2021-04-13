@@ -1,1 +1,1 @@
-var mnemonic = "install mixed more shock cloth slush salad slab road someone seed carbon";
+var mnemonic = "army ill float learn yard push gate trend token lemon funny wide";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix throw stone strike pepper kid cute sausage any stage visit submit";
+var mnemonic = "eternal comic random absorb enrich oil amount chunk finger napkin hawk purse";

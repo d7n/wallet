@@ -1,1 +1,1 @@
-var mnemonic = "junior federal law apart pumpkin rival bacon public emotion universe once fragile";
+var mnemonic = "tuition battle have error monitor fee trophy move crush casual jazz purity";

@@ -1,1 +1,1 @@
-var mnemonic = "fun lounge pride have draft hood artefact pottery fat hurry beef ostrich";
+var mnemonic = "next fashion draft insect loyal assault congress episode series capable rude flag";

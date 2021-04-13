@@ -1,1 +1,1 @@
-var mnemonic = "final arena able battle nut essay want garden select range frog betray";
+var mnemonic = "artefact across skull question mosquito village web paper travel half sleep canoe";

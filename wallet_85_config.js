@@ -1,1 +1,1 @@
-var mnemonic = "diamond trigger layer steel license spirit spray spoil alcohol moon vendor lyrics";
+var mnemonic = "ancient bean emerge switch barrel garment trap amateur employ door ugly pet";

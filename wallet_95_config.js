@@ -1,1 +1,1 @@
-var mnemonic = "provide rose meat combine when bubble journey daughter gown harvest toy bleak";
+var mnemonic = "enact hunt sock catalog impact describe palace hybrid scare alien joke ginger";

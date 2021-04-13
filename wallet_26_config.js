@@ -1,1 +1,1 @@
-var mnemonic = "silly side hamster pudding curve ritual bless shed spell grow wash measure";
+var mnemonic = "extra adapt strong extra between flavor veteran sound corn rifle alpha fire";

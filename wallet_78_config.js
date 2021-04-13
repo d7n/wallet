@@ -1,1 +1,1 @@
-var mnemonic = "mansion resource improve cloud simple because certain lend social ramp attend wash";
+var mnemonic = "obtain apple glad federal wave color sock wire crisp bomb please crucial";

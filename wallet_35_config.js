@@ -1,1 +1,1 @@
-var mnemonic = "voice code idle smoke mandate cloud torch milk front enrich before border";
+var mnemonic = "captain nuclear primary damp network write ice erosion give chalk moral market";

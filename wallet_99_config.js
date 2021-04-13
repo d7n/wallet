@@ -1,1 +1,1 @@
-var mnemonic = "sausage century atom obscure practice achieve evoke garlic squeeze hover rather alter";
+var mnemonic = "cancel midnight notable square park boat carbon bullet then always electric merge";

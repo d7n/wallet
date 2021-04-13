@@ -1,1 +1,1 @@
-var mnemonic = "round review anchor cry frame blossom radar glide culture mad actor sheriff";
+var mnemonic = "genuine frog stick erupt pill kidney unaware enemy bleak connect rotate juice";

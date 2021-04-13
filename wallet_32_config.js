@@ -1,1 +1,1 @@
-var mnemonic = "upset day unlock fall frown sock exchange thing wisdom monster school actor";
+var mnemonic = "add elephant degree patient race mistake valley merit casino observe patch extra";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum practice level fine video dolphin axis vault gym bracket april soul";
+var mnemonic = "female hidden hedgehog trumpet belt someone daring turn always afford enlist gaze";

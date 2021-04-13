@@ -1,1 +1,1 @@
-var mnemonic = "kid answer old mountain loop lamp abstract sausage roof gown lottery drift";
+var mnemonic = "aspect comfort kite correct differ inspire prefer trial diamond shoot school resource";

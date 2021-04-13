@@ -1,1 +1,1 @@
-var mnemonic = "month garage stem predict chronic dust author series south couple sun split";
+var mnemonic = "stomach edit camp level chunk shop coyote print useful control flat view";

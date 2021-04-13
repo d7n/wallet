@@ -1,1 +1,1 @@
-var mnemonic = "task humor scheme effort donkey bunker picture clean twist domain believe holiday";
+var mnemonic = "salon tomorrow hundred couch future drink attitude prevent process payment copper cigar";

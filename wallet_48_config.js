@@ -1,1 +1,1 @@
-var mnemonic = "include tourist fish model weapon craft ring chat edit baby damp riot";
+var mnemonic = "lava access auction payment unknown zebra people main horror promote barely cross";

@@ -1,1 +1,1 @@
-var mnemonic = "worry gospel hard void trigger notable service foil connect amount visual hockey";
+var mnemonic = "federal spell cave uniform visit say limb people furnace oblige apple reunion";

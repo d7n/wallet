@@ -1,1 +1,1 @@
-var mnemonic = "such caught awkward hero mammal design hard plug swallow equip camera clown";
+var mnemonic = "good excite jar guess settle share waste ramp chaos ripple sponsor install";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney size disagree topple wise extra layer pioneer rude pupil book chicken";
+var mnemonic = "discover vehicle priority pet eagle stadium maid reunion glad banner party mad";

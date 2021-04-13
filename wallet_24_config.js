@@ -1,1 +1,1 @@
-var mnemonic = "hollow update table setup sponsor convince north direct blouse west raven trouble";
+var mnemonic = "neglect retreat obtain merit girl mixed arch fun fat custom require sentence";

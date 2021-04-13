@@ -1,1 +1,1 @@
-var mnemonic = "dirt young chimney voyage wash pulp enable table fly cash erosion glove";
+var mnemonic = "scrub treat crack wrist enemy machine curve jar assault kick install priority";

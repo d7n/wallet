@@ -1,1 +1,1 @@
-var mnemonic = "manual violin squirrel universe bridge derive jelly misery script key design left";
+var mnemonic = "rib hair ocean number title cover escape wedding brother alter way announce";

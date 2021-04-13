@@ -1,1 +1,1 @@
-var mnemonic = "lawn endless adapt cereal drama disease pulse love bridge embody science book";
+var mnemonic = "modify toward blind fiscal digital wide toilet scout man cable throw two";

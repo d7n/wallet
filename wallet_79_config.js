@@ -1,1 +1,1 @@
-var mnemonic = "home naive test few decorate rescue way lamp subject casual sketch minimum";
+var mnemonic = "million eyebrow black load execute country rapid eye renew autumn twist marriage";

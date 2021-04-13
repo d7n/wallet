@@ -1,1 +1,1 @@
-var mnemonic = "artwork borrow seek usage convince melt weasel chicken together subway negative open";
+var mnemonic = "trust match diamond detail garbage fiction december security wrist erupt point coconut";

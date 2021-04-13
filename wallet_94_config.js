@@ -1,1 +1,1 @@
-var mnemonic = "champion portion ride nest inform assist update clock sister lens nasty forum";
+var mnemonic = "infant discover slow bamboo invite butter mad sell proof grocery garage minute";
