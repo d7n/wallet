@@ -1,1 +1,1 @@
-var mnemonic = "cycle tired spawn figure wrist sun nut indicate fluid nation century leader";
+var mnemonic = "envelope tired paper glad wash charge burst sorry lonely nerve hungry kind";

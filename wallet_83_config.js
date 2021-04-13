@@ -1,1 +1,1 @@
-var mnemonic = "next cause shuffle bag regular diet plastic stable edge flag upon brown";
+var mnemonic = "vibrant shield wait various peasant feed fly quality another ignore tunnel digital";

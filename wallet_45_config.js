@@ -1,1 +1,1 @@
-var mnemonic = "snow address ill engage luggage twenty flock clump mountain emerge habit busy";
+var mnemonic = "tribe rhythm twice ankle champion heavy nice snap clean crucial fiction style";

@@ -1,1 +1,1 @@
-var mnemonic = "regret guess student nerve waste muscle couple response convince alcohol security craft";
+var mnemonic = "trick magnet metal cable lyrics announce smile immense aerobic lucky shoe father";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist cabbage save helmet strategy quit expose save sniff example method multiply";
+var mnemonic = "guess common ignore sea sibling fiction useless bright buyer surround river long";

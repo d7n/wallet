@@ -1,1 +1,1 @@
-var mnemonic = "anxiety jungle camp join board legend museum strategy crazy profit crush swear";
+var mnemonic = "token episode hat nerve today embody muscle icon attitude cement salt mom";

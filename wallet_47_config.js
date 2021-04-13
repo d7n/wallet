@@ -1,1 +1,1 @@
-var mnemonic = "crouch acid property retire timber explain crater rocket today spring salt toward";
+var mnemonic = "bless case hire spider bachelor display lecture mistake copy sauce question insane";

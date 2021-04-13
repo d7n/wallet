@@ -1,1 +1,1 @@
-var mnemonic = "eye matter chat pink other orbit void exchange morning wreck subject size";
+var mnemonic = "middle easy wealth enable hour earth couch moral confirm nephew bachelor clerk";

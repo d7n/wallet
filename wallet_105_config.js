@@ -1,1 +1,1 @@
-var mnemonic = "dragon neglect lunar muscle major giggle winner warm pizza odor mimic reform";
+var mnemonic = "there ginger drift diamond swear crisp royal amazing day august merry truth";

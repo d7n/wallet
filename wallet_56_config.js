@@ -1,1 +1,1 @@
-var mnemonic = "riot marble one wonder vicious few sample gesture sing route inject power";
+var mnemonic = "sun actor document soccer inflict clock kiss cement era wet lend crater";

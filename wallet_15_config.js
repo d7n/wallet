@@ -1,1 +1,1 @@
-var mnemonic = "dignity vanish person identify term quality clarify helmet glory muscle fault scan";
+var mnemonic = "cradle lumber shrug forget ranch truck indoor dream found present faculty burger";

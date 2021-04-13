@@ -1,1 +1,1 @@
-var mnemonic = "lucky until settle aisle begin trim sun staff mirror crumble cargo believe";
+var mnemonic = "squeeze sphere lift year ordinary episode yellow note toss method defy ribbon";

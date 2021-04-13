@@ -1,1 +1,1 @@
-var mnemonic = "debate tray gallery latin arm budget heavy veteran pave rib runway elbow";
+var mnemonic = "hollow tattoo rigid jelly rotate acquire sock broom nation sing party muscle";

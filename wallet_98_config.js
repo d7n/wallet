@@ -1,1 +1,1 @@
-var mnemonic = "depth dose violin style derive carpet laugh boy engage mix disagree brisk";
+var mnemonic = "jar proof guide ginger ahead enjoy coconut dash dry knock over boil";

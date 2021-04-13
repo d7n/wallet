@@ -1,1 +1,1 @@
-var mnemonic = "broom evolve turtle viable foot garlic edge physical swap sugar vault badge";
+var mnemonic = "misery hello crouch method naive say brush siege shop act suspect bicycle";

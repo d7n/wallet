@@ -1,1 +1,1 @@
-var mnemonic = "chef flip gadget letter treat fiscal canyon punch truth clever garlic bicycle";
+var mnemonic = "tip soap cement dragon garbage oppose burger fortune leg veteran fringe wash";

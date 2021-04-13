@@ -1,1 +1,1 @@
-var mnemonic = "bargain orient script inch will dash loan turtle deputy major silk magic";
+var mnemonic = "blouse flame trial holiday very ordinary fall father since oil detail right";

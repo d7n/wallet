@@ -1,1 +1,1 @@
-var mnemonic = "hurry ceiling sausage degree deer weasel reform rent memory pink bachelor volume";
+var mnemonic = "hint often that color slight coin misery ancient material glide miss fire";

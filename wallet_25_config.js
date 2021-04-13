@@ -1,1 +1,1 @@
-var mnemonic = "gossip wall pitch machine talk glue impose walk rookie nose outdoor half";
+var mnemonic = "tiny antique mix lonely save panic then balance pumpkin dynamic poet hazard";

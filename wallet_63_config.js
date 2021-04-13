@@ -1,1 +1,1 @@
-var mnemonic = "castle manage direct woman lake brother deputy fresh once nurse cash secret";
+var mnemonic = "novel second solve cave series shadow east wife ask flee warrior replace";

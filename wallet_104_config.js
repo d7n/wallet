@@ -1,1 +1,1 @@
-var mnemonic = "merit above hurdle level series fiction walk song bitter mask clump neglect";
+var mnemonic = "hobby tooth range night breeze inmate scan audit amused lawn actual salute";

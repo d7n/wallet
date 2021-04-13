@@ -1,1 +1,1 @@
-var mnemonic = "battle behave hospital grace ivory twin goose ensure tube trip blood file";
+var mnemonic = "scale story guitar where walnut scare wire steel hover episode shift disagree";

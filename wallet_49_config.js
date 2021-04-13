@@ -1,1 +1,1 @@
-var mnemonic = "future lesson iron visa say dust joke retire gallery law firm syrup";
+var mnemonic = "begin wasp town during lady hood enhance weekend client scrap fix short";

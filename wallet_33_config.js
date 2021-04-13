@@ -1,1 +1,1 @@
-var mnemonic = "soul rescue sight cost impulse usage put brand proud sound wish liquid";
+var mnemonic = "gain beach unveil hand extend worth abstract fringe myself wrong arrest clarify";

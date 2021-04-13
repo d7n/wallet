@@ -1,1 +1,1 @@
-var mnemonic = "develop cable chair discover race three six fence stomach awake curious misery";
+var mnemonic = "purpose program trumpet year connect home salon vibrant item prefer maid doll";

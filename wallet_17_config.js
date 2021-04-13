@@ -1,1 +1,1 @@
-var mnemonic = "account giggle open country country length choose mail cancel priority suffer payment";
+var mnemonic = "amazing clutch empower fortune little smooth layer protect leader hammer town skate";

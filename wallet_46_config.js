@@ -1,1 +1,1 @@
-var mnemonic = "surge peace pigeon kidney ribbon pattern oil paper slab wolf answer pelican";
+var mnemonic = "quarter usual service spike around father another chef carbon frame style series";

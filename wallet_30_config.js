@@ -1,1 +1,1 @@
-var mnemonic = "adult involve office oven end embark wheel bulk project parrot hospital forward";
+var mnemonic = "soldier solution air simple abstract garbage faint scare heart fog lion coconut";

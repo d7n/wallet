@@ -1,1 +1,1 @@
-var mnemonic = "finger awkward cat elegant parrot cluster solid moral uncle horse avocado tail";
+var mnemonic = "tilt dream jar dune dawn robot flower settle baby anger birth wine";

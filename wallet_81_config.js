@@ -1,1 +1,1 @@
-var mnemonic = "bonus kit rural garment slab course beauty already first festival fiber wheat";
+var mnemonic = "stove unaware recipe question ready offer under soft joke trouble bracket glide";

@@ -1,1 +1,1 @@
-var mnemonic = "duty voyage eye globe budget anxiety cable morning affair leopard dinosaur fury";
+var mnemonic = "spot submit area salon spring option mom castle end proud kick old";

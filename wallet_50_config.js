@@ -1,1 +1,1 @@
-var mnemonic = "slim iron dutch option police intact shiver cabbage drink unique primary toddler";
+var mnemonic = "borrow symbol village light sentence once believe famous upper column agree october";

@@ -1,1 +1,1 @@
-var mnemonic = "naive muffin orange federal pulp ridge fitness heart animal solid skull dolphin";
+var mnemonic = "rule chef liberty goat tape wealth gun okay chicken love wrist quarter";

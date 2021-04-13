@@ -1,1 +1,1 @@
-var mnemonic = "shock obtain erosion crouch remove travel mystery merge lazy three green write";
+var mnemonic = "desk shove core young barrel skin need zone curve gospel jewel old";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder smoke fat actual budget adapt celery forget column describe cousin camp";
+var mnemonic = "educate bird ignore flush feature talk kid staff air settle wink valid";

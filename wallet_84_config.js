@@ -1,1 +1,1 @@
-var mnemonic = "ahead foot crash kangaroo enough bench bundle march puppy liberty blade beauty";
+var mnemonic = "album spatial attack infant calm until cinnamon because note buffalo session diagram";

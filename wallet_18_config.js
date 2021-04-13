@@ -1,1 +1,1 @@
-var mnemonic = "bomb also control stumble column expose stamp pill life little olive home";
+var mnemonic = "tissue about black reason reveal core project inside steel silent piano cave";

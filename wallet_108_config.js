@@ -1,1 +1,1 @@
-var mnemonic = "legend vendor client ball renew rigid flat vessel canal motor idea picture";
+var mnemonic = "brown picnic female reunion donate original all enjoy wise tuition poverty buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond slice vendor silent favorite number frame image title orange luggage once";
+var mnemonic = "opinion tube admit phone custom glad grant blood salute boy roast cruel";

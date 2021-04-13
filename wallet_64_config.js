@@ -1,1 +1,1 @@
-var mnemonic = "injury foot argue outside image okay unique second define curtain ski kitten";
+var mnemonic = "card expose grain upon ozone sting any burst spoil error entire stamp";

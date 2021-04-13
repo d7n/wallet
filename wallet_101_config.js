@@ -1,1 +1,1 @@
-var mnemonic = "annual wage stamp voyage olympic cool crush media unveil awake wrestle brass";
+var mnemonic = "kitten forget ginger happy amused lunch decline drive dynamic eternal morning gain";

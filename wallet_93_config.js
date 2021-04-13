@@ -1,1 +1,1 @@
-var mnemonic = "gorilla brand film connect upon bench various alert explain enter over zero";
+var mnemonic = "glad argue fame enhance noodle glow leisure zoo off unit prefer enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito always present lounge busy grass stage satisfy clinic eternal sudden carry";
+var mnemonic = "biology choice fame crowd because fit future view soft law device nasty";

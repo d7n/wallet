@@ -1,1 +1,1 @@
-var mnemonic = "doll penalty welcome sense uncover knife invest arctic dentist wasp congress payment";
+var mnemonic = "mutual audit together theory winner smile runway exit decrease milk donor blush";

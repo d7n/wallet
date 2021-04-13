@@ -1,1 +1,1 @@
-var mnemonic = "credit trumpet world lift park eyebrow hen hurry scale lawsuit spice message";
+var mnemonic = "sight concert hire fat amused garbage found marine oblige trip enforce tornado";

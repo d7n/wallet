@@ -1,1 +1,1 @@
-var mnemonic = "calm toy wealth team bid shy client conduct duck soft fun script";
+var mnemonic = "urge fade limb insect cargo genuine shove correct cabbage define draft rose";

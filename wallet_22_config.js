@@ -1,1 +1,1 @@
-var mnemonic = "urban version impose pattern volcano sketch master amateur shallow glory dismiss crunch";
+var mnemonic = "crowd loop distance candy brother witness pencil idle repeat project either zero";

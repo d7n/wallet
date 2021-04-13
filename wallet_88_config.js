@@ -1,1 +1,1 @@
-var mnemonic = "must roast enhance image jacket trash they much question fold grit sketch";
+var mnemonic = "satisfy solve chicken palm gather setup agent ribbon excuse strong salute envelope";

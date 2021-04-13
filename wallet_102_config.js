@@ -1,1 +1,1 @@
-var mnemonic = "damage lawn radar vapor assist travel input ability gesture gown skate merit";
+var mnemonic = "dose theme define what excess expect sauce boring dawn iron rocket then";

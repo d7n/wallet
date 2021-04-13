@@ -1,1 +1,1 @@
-var mnemonic = "edge skate spell gap rack struggle cable vintage lava supply latin wash";
+var mnemonic = "pottery acoustic glue journey anchor taxi resemble fall budget journey visa fragile";

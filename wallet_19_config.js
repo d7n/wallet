@@ -1,1 +1,1 @@
-var mnemonic = "radar hundred cable idea upon large tobacco balcony because trophy ability speed";
+var mnemonic = "candy profit resource uphold dwarf kangaroo next easily combine maid proud exotic";

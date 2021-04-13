@@ -1,1 +1,1 @@
-var mnemonic = "month rely rich foster warrior there taxi tuna object coconut dumb canal";
+var mnemonic = "leg toilet zone flush move hair okay fitness lend daughter fatal version";

@@ -1,1 +1,1 @@
-var mnemonic = "file among fox sniff thrive lonely execute party quick own pilot lawn";
+var mnemonic = "jewel shaft around rail screen ticket trim fiction manual planet humble solar";

@@ -1,1 +1,1 @@
-var mnemonic = "cream aisle visa empty canal language miss brush heart frequent cousin insane";
+var mnemonic = "shy energy doll across slot appear danger distance loud annual fury place";

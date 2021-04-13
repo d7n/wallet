@@ -1,1 +1,1 @@
-var mnemonic = "subject royal goose shoe festival salon know strong paper giggle dance nasty";
+var mnemonic = "expect detect minute snack hungry menu exhaust toward minimum food correct number";

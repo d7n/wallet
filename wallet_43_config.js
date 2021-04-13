@@ -1,1 +1,1 @@
-var mnemonic = "employ improve vault case attitude random promote pact hair future mercy weapon";
+var mnemonic = "cake voyage strategy pigeon ignore truth upper tattoo stomach pear surprise resist";

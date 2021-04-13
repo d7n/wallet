@@ -1,1 +1,1 @@
-var mnemonic = "lamp across library sunny gorilla peanut region embrace certain post energy pact";
+var mnemonic = "mechanic popular usual tired gossip warrior hedgehog marble bundle concert absurd actress";

@@ -1,1 +1,1 @@
-var mnemonic = "proof loop fame source alpha raise shove gaze toe sea weekend have";
+var mnemonic = "crawl stamp scan inch broccoli voyage genre track endorse abuse inside prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "super taxi industry happy control catch catch cycle assume claw guess humor";
+var mnemonic = "degree plastic essay oval ancient screen pause analyst guard screen type satisfy";

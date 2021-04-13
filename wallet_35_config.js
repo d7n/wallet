@@ -1,1 +1,1 @@
-var mnemonic = "visa pledge plate stock still believe medal glimpse document office clever method";
+var mnemonic = "path light dash neutral genius tonight save play noodle repair fall item";

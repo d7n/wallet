@@ -1,1 +1,1 @@
-var mnemonic = "habit kite fantasy early thrive day kiss abstract asset priority script test";
+var mnemonic = "cricket hood globe vanish little train special sphere laugh flavor butter kite";

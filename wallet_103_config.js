@@ -1,1 +1,1 @@
-var mnemonic = "write addict require boy obscure bracket december term what action nuclear mouse";
+var mnemonic = "bone shadow two bottom dish method essence cabbage beyond bomb market yard";

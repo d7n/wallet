@@ -1,1 +1,1 @@
-var mnemonic = "news stool engage obtain evidence main afraid final merit favorite piano reduce";
+var mnemonic = "glide father odor virtual tube shed image draft shoot zoo favorite exclude";

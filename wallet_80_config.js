@@ -1,1 +1,1 @@
-var mnemonic = "involve nut usual popular brother rude garment income satoshi buyer garlic accuse";
+var mnemonic = "extra seed novel lawsuit banana useful hint jazz east price melt laugh";

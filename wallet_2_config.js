@@ -1,1 +1,1 @@
-var mnemonic = "jar kitchen cricket abstract salad observe clown husband jeans lobster wrestle hobby";
+var mnemonic = "alley erode bright phone source monitor globe drop quit flat hurdle fence";

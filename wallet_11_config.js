@@ -1,1 +1,1 @@
-var mnemonic = "pluck glass report snake voyage canyon over fade buddy kitten drink power";
+var mnemonic = "season adapt rebuild trend live merit artefact garage useless security talk hint";

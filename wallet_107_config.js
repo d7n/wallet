@@ -1,1 +1,1 @@
-var mnemonic = "put velvet rubber wet belt rocket antenna wreck stable split vote era";
+var mnemonic = "destroy seven olympic brave series ring clump broken insane video novel sound";

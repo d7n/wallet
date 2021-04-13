@@ -1,1 +1,1 @@
-var mnemonic = "often nothing able dolphin runway ability zebra deny paddle focus cousin summer";
+var mnemonic = "polar secret lonely drum device behind south mouse tiger canvas bridge what";

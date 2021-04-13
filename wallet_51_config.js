@@ -1,1 +1,1 @@
-var mnemonic = "pig dice actress blood plate patrol alley craft wall stadium chaos virtual";
+var mnemonic = "rotate term spend pause discover steel enroll acid opinion other rib conduct";

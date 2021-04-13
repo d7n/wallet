@@ -1,1 +1,1 @@
-var mnemonic = "middle speak essence dune shoot toward measure tenant possible jar salt animal";
+var mnemonic = "deposit vague flush bag embrace obey consider rude usage knife trend cute";

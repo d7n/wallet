@@ -1,1 +1,1 @@
-var mnemonic = "tissue moon capital steel define pact jaguar rail into treat sweet cluster";
+var mnemonic = "volcano feature glare three term garbage planet judge anger during game sure";

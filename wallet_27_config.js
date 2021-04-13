@@ -1,1 +1,1 @@
-var mnemonic = "whale caution wine swear neglect earn chat crazy hen nurse grace stamp";
+var mnemonic = "jar luxury parent twenty salon grunt poem stable bridge forum motor mad";

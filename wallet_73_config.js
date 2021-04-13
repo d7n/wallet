@@ -1,1 +1,1 @@
-var mnemonic = "dinner close supply seminar genuine rookie mom enlist clarify rent wear hospital";
+var mnemonic = "gaze seed solar fat extend liar use anxiety laugh hole arm amount";

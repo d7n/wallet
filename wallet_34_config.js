@@ -1,1 +1,1 @@
-var mnemonic = "huge shuffle initial vanish kit puzzle draft winter diet delay wet cupboard";
+var mnemonic = "bicycle wine onion idea nature olympic barrel twenty hint winner teach flee";

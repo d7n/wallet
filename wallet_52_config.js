@@ -1,1 +1,1 @@
-var mnemonic = "wrong area master essay cause hawk symptom select ritual afford excuse diet";
+var mnemonic = "beauty enjoy pencil pudding piece rubber nation drive sauce fiscal day side";

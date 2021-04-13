@@ -1,1 +1,1 @@
-var mnemonic = "profit caught seat long tackle museum immense arm mule reduce all vast";
+var mnemonic = "forest end buzz weapon matter tip pen alone decide deliver crowd nominee";

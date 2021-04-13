@@ -1,1 +1,1 @@
-var mnemonic = "inform concert clog taste put beyond stadium fashion reason useful trend feed";
+var mnemonic = "awesome bind upgrade buffalo choose disagree ball wing dawn embark pear pilot";

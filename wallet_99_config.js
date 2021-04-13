@@ -1,1 +1,1 @@
-var mnemonic = "donkey party eyebrow rally require suit what sting step priority coin dumb";
+var mnemonic = "indoor oak raise project tenant lion network connect flat churn grain employ";

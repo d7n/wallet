@@ -1,1 +1,1 @@
-var mnemonic = "spray range lazy sugar unusual erode mad skate neglect nose detect battle";
+var mnemonic = "valley reopen mad sad slogan harbor achieve fury vehicle tree chapter agent";

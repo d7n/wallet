@@ -1,1 +1,1 @@
-var mnemonic = "nut front swim sample office slab armor produce tunnel quote vintage access";
+var mnemonic = "crime title embark someone spice scrap traffic cave lobster ride real romance";

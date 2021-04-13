@@ -1,1 +1,1 @@
-var mnemonic = "sock miss door pottery increase segment zoo olive hobby foam metal grab";
+var mnemonic = "silent stove parent shadow hybrid control volcano million equip train rapid oak";

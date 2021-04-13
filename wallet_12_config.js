@@ -1,1 +1,1 @@
-var mnemonic = "shine cradle purity tilt style riot tourist inch palace goat monster day";
+var mnemonic = "blush slab oblige weapon hazard work plunge tuna inherit monster relax another";

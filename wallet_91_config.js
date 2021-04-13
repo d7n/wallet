@@ -1,1 +1,1 @@
-var mnemonic = "route upper ready need false toddler annual essence cause trip ramp rally";
+var mnemonic = "account help diamond giraffe marine siege first spice donor stick source pizza";

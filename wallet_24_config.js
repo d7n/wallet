@@ -1,1 +1,1 @@
-var mnemonic = "laugh unit autumn vehicle weapon drink video bullet remove heart feel deliver";
+var mnemonic = "ecology before office blade code cause foam toss lizard uphold office reflect";

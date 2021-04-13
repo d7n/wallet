@@ -1,1 +1,1 @@
-var mnemonic = "bus antenna note swim dumb palace west foot rival senior close board";
+var mnemonic = "gift install dose prosper target essence name turn honey island setup safe";

@@ -1,1 +1,1 @@
-var mnemonic = "surge fork note beef blood join crew poet destroy dog post canoe";
+var mnemonic = "topple climb sure game mind cannon fancy slim forget trigger remain record";

@@ -1,1 +1,1 @@
-var mnemonic = "farm crowd immense squeeze bulk rebuild setup race mushroom invest market budget";
+var mnemonic = "helmet ramp grape spend three else render opera cost that smart radio";
