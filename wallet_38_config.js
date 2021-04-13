@@ -1,1 +1,1 @@
-var mnemonic = "ball have season barely sea dilemma because nose finger museum december hire";
+var mnemonic = "jump movie whip club sniff decade spray situate armor sick jelly afford";

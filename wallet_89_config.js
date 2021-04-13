@@ -1,1 +1,1 @@
-var mnemonic = "photo salute jealous rapid course crouch own smoke position baby brush aim";
+var mnemonic = "acid require you track gravity faith excuse shop refuse strategy side client";

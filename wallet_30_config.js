@@ -1,1 +1,1 @@
-var mnemonic = "stadium rough guitar cause dirt little entire arrange inform mad icon crouch";
+var mnemonic = "must mosquito history muscle knock penalty cabin dentist bunker dynamic cage valid";

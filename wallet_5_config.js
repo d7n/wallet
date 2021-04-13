@@ -1,1 +1,1 @@
-var mnemonic = "fence canoe tackle enough hotel mom humor orbit meadow beach remain trim";
+var mnemonic = "middle road elite globe original also soap cave simple cabin divert issue";

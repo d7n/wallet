@@ -1,1 +1,1 @@
-var mnemonic = "million clip food tunnel liberty rotate hundred toddler excite patient inform face";
+var mnemonic = "area slam bar leopard frost october convince struggle trumpet retreat tilt harvest";

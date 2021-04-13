@@ -1,1 +1,1 @@
-var mnemonic = "milk coach credit venue achieve cart nothing unhappy surge civil afraid region";
+var mnemonic = "sail riot buyer exchange among portion mandate under spawn trend usual material";

@@ -1,1 +1,1 @@
-var mnemonic = "dose fiber creek onion master bread key mule nerve action cigar obey";
+var mnemonic = "pupil direct claim cancel flee jazz school hand luxury corn fade code";

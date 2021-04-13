@@ -1,1 +1,1 @@
-var mnemonic = "outdoor immune shoulder captain energy chat garment chalk demand sense script more";
+var mnemonic = "genre negative dad control sauce island artwork actual olympic ask fun unknown";

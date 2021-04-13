@@ -1,1 +1,1 @@
-var mnemonic = "tragic cabbage shadow orphan hazard spin paddle layer medal globe innocent lady";
+var mnemonic = "link host analyst diary seven excess clip future brain trip endorse crack";

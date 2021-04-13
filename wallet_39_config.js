@@ -1,1 +1,1 @@
-var mnemonic = "mutual farm exhibit human ghost coach nut state yellow problem brick churn";
+var mnemonic = "element device picnic crater course tag breeze fiscal faith decade fiction affair";

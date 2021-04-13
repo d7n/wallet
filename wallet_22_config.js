@@ -1,1 +1,1 @@
-var mnemonic = "humble castle have initial wheel mystery clutch usual strong behind slide floor";
+var mnemonic = "wrestle fall dish this comfort twelve battle mean cover pulp tail seed";

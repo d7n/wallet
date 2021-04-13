@@ -1,1 +1,1 @@
-var mnemonic = "nose gain artefact crowd always make expand toy travel bracket fancy wage";
+var mnemonic = "design purity age pet parrot truly perfect able negative honey mosquito edit";

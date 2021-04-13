@@ -1,1 +1,1 @@
-var mnemonic = "detect lion code lizard mimic height water gaze type hundred unit kiwi";
+var mnemonic = "addict struggle six idle cargo puppy exit soap evidence spell pulp pattern";

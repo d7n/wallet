@@ -1,1 +1,1 @@
-var mnemonic = "theme oyster elder lucky manual village slot average crash dizzy access example";
+var mnemonic = "canvas sad lab chest daring hire fever submit hamster virtual cube confirm";

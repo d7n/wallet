@@ -1,1 +1,1 @@
-var mnemonic = "produce junior boost remind orange ocean april undo desert radar involve cousin";
+var mnemonic = "credit baby garden crouch vocal winner kingdom exact surround sort wolf credit";

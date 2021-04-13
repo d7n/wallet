@@ -1,1 +1,1 @@
-var mnemonic = "gate uncle black letter clinic fury vicious route clean control approve size";
+var mnemonic = "axis artwork nephew fatal lobster gift host below fork used yellow pass";

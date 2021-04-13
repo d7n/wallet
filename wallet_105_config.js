@@ -1,1 +1,1 @@
-var mnemonic = "output charge manage gas hundred scene board attack space cricket record people";
+var mnemonic = "poem age couch unfair globe sell marriage deer animal endorse floor ivory";

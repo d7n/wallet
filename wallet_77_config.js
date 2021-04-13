@@ -1,1 +1,1 @@
-var mnemonic = "front ensure glad across shadow beauty attitude bean buddy supreme weasel dragon";
+var mnemonic = "opera work hockey daring primary usage scheme meat fan today client east";

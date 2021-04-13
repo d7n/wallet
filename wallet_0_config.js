@@ -1,1 +1,1 @@
-var mnemonic = "belt dismiss rigid fancy border aisle multiply modify grab east aunt sketch";
+var mnemonic = "village you patient know leave smooth blame claim visa actor gun develop";

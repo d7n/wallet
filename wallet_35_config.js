@@ -1,1 +1,1 @@
-var mnemonic = "slice draft pioneer illness portion toy allow chase rate just clarify friend";
+var mnemonic = "seven shuffle little agree shaft core blur swallow proud thumb couple mimic";

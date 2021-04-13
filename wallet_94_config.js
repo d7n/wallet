@@ -1,1 +1,1 @@
-var mnemonic = "test penalty sibling sense panda tunnel blush basic duck birth hurt awful";
+var mnemonic = "ugly exit ceiling win tackle post winner cliff crystal rich trumpet giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend habit slab wet extra quality injury theory logic girl cotton soul";
+var mnemonic = "van barely spatial axis iron syrup tribe network around fold danger lumber";

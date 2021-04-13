@@ -1,1 +1,1 @@
-var mnemonic = "copy various twist sign increase alpha order mutual increase unfold trial income";
+var mnemonic = "stand torch marriage section inhale melt awful arrow visit tank submit spatial";

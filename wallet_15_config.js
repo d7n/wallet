@@ -1,1 +1,1 @@
-var mnemonic = "bright safe now ticket depend mistake order sell move luxury educate universe";
+var mnemonic = "model rubber easily glare burden shallow ask swamp rule pipe drip accident";

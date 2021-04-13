@@ -1,1 +1,1 @@
-var mnemonic = "whisper slow song glad seed cost slide bulb alarm coyote pig vote";
+var mnemonic = "beef hub amused clap vanish fine world nation energy honey crawl sad";

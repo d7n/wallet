@@ -1,1 +1,1 @@
-var mnemonic = "explain stem essay area warm latin choose foster type seven cereal eight";
+var mnemonic = "humble close second sponsor trend seek critic phrase boss diamond marriage strike";

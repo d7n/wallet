@@ -1,1 +1,1 @@
-var mnemonic = "midnight badge slight grain since blind kit sustain kitten oppose slim tide";
+var mnemonic = "bike retire engine jewel predict autumn cable blanket wish dash genre average";

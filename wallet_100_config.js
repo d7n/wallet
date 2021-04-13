@@ -1,1 +1,1 @@
-var mnemonic = "demise task double dream foster knee disorder proud rifle leader wall plunge";
+var mnemonic = "govern dad glare shrug cram tourist inject say fence purse safe vote";

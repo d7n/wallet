@@ -1,1 +1,1 @@
-var mnemonic = "dust try cloud wave response segment mercy private ring ship mechanic sail";
+var mnemonic = "remain surface panic notice oblige ability impulse object sleep exhaust runway twin";

@@ -1,1 +1,1 @@
-var mnemonic = "talent school coil artefact cool muscle exist coil never pool mirror topic";
+var mnemonic = "code source wedding cheap moral alone pumpkin plate upon spoon virus cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "royal question beach feed robot security rabbit smooth mercy prison minute boy";
+var mnemonic = "minimum boy push matter relax sudden sadness frog chair account token bean";

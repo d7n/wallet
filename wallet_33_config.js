@@ -1,1 +1,1 @@
-var mnemonic = "sauce strategy mandate nerve twelve shuffle feed dose glove orbit rude screen";
+var mnemonic = "whisper path forward icon hard knee unique mercy load use crumble garment";

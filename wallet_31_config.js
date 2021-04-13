@@ -1,1 +1,1 @@
-var mnemonic = "window grape kidney food whisper transfer cherry used hurry blame average crouch";
+var mnemonic = "fruit flower broken lawsuit must february small job guess clog quantum silly";

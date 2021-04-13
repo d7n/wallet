@@ -1,1 +1,1 @@
-var mnemonic = "spoil engine hazard spring hybrid valley ozone suffer enact butter blood own";
+var mnemonic = "offer name stool joke cannon anchor horror smoke cube industry scrub kangaroo";

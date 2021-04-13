@@ -1,1 +1,1 @@
-var mnemonic = "clock share cotton find eyebrow boy vicious alien smoke transfer oyster guitar";
+var mnemonic = "smoke security ostrich credit nose atom napkin settle defense capital attract earth";

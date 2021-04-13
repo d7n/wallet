@@ -1,1 +1,1 @@
-var mnemonic = "rug burger match turn infant narrow arctic input avocado predict frog social";
+var mnemonic = "daughter mention illness brave mimic wide cram way apart river brand jewel";

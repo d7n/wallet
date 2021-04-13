@@ -1,1 +1,1 @@
-var mnemonic = "legal attract belt banner flash sadness wrist inquiry strike aim pact impose";
+var mnemonic = "capable dream beach cluster race struggle tribe shed exist whisper funny task";

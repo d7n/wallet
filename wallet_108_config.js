@@ -1,1 +1,1 @@
-var mnemonic = "caught donate lizard point hover also melody almost vivid win relief sample";
+var mnemonic = "invest aware place candy cabbage canyon tonight consider total effort squirrel express";

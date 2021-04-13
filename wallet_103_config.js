@@ -1,1 +1,1 @@
-var mnemonic = "model vocal tonight trend flame royal vast evil fade duck simple position";
+var mnemonic = "wedding copy antenna rapid hood visit valve supply alien select essay park";

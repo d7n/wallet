@@ -1,1 +1,1 @@
-var mnemonic = "gaze bullet check assist cup symbol found alert involve flavor fog over";
+var mnemonic = "access recipe spell sword scene whale side chapter unfold wood segment bind";

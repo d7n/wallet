@@ -1,1 +1,1 @@
-var mnemonic = "coach trigger pelican wheat nature utility health emotion exist squeeze bind wonder";
+var mnemonic = "reward slab already umbrella attitude weasel mesh brain rich chest spot poem";

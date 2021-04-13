@@ -1,1 +1,1 @@
-var mnemonic = "such solid grant fluid copper reveal sea above write garbage embark spike";
+var mnemonic = "mystery fault design envelope buffalo medal matrix acoustic afraid range early myth";

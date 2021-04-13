@@ -1,1 +1,1 @@
-var mnemonic = "face diamond fruit relief garment talk other rule finish private drip divorce";
+var mnemonic = "punch picnic inmate front patient caught aunt present silly mass transfer people";

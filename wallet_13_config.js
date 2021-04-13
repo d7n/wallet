@@ -1,1 +1,1 @@
-var mnemonic = "arm scan aisle sorry vocal crew hill number smoke betray fringe prosper";
+var mnemonic = "price machine message match knife kiss short scout parent sock border razor";

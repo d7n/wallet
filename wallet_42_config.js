@@ -1,1 +1,1 @@
-var mnemonic = "biology frozen enroll earn involve secret frown scheme custom mesh mosquito robot";
+var mnemonic = "exotic chronic crazy vendor hand control rebel ranch prepare knock pitch tone";

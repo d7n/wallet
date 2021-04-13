@@ -1,1 +1,1 @@
-var mnemonic = "nice crisp service castle warfare glare diagram process rebuild hidden powder anchor";
+var mnemonic = "camera shock cage drop tonight section carry remember trouble work walk satoshi";

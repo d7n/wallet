@@ -1,1 +1,1 @@
-var mnemonic = "buddy later rude royal genuine shoulder wall canvas credit fresh mutual easy";
+var mnemonic = "add you virus turkey assist online picture flower amazing spring interest rail";

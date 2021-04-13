@@ -1,1 +1,1 @@
-var mnemonic = "result ginger spend grow grid blue ice patch dove abstract fossil forum";
+var mnemonic = "gentle trim hammer cotton attack heart famous neutral youth regret major olive";

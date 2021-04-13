@@ -1,1 +1,1 @@
-var mnemonic = "mention flush world timber pool axis cloud pause wife cruise thrive robot";
+var mnemonic = "huge tennis lesson beauty patient knee vote repair release rural squirrel car";

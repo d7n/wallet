@@ -1,1 +1,1 @@
-var mnemonic = "stable neutral maple spell base portion fossil fancy bus obey educate dinosaur";
+var mnemonic = "increase brick domain bread weekend lucky mirror relax air shed patrol rate";

@@ -1,1 +1,1 @@
-var mnemonic = "garment weapon sadness festival fruit neither menu ethics hotel apple around wait";
+var mnemonic = "prize clown arctic ship enact certain blast chaos thunder away joy lizard";

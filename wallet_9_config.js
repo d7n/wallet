@@ -1,1 +1,1 @@
-var mnemonic = "sister isolate sword thank oak frost fly divert include biology oppose forget";
+var mnemonic = "remind citizen orient business screen wild bless buddy shallow coffee resource satoshi";

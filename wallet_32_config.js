@@ -1,1 +1,1 @@
-var mnemonic = "text submit survey bachelor ramp dish little curious blanket accuse much direct";
+var mnemonic = "oppose neither burger advance spoil possible one dinosaur faint bomb urban state";

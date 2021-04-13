@@ -1,1 +1,1 @@
-var mnemonic = "witness until metal weasel spare enhance behave fancy reward zero rifle grass";
+var mnemonic = "rapid eager pudding idea cupboard away garden defy hammer trash today ladder";

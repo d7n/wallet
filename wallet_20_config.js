@@ -1,1 +1,1 @@
-var mnemonic = "found mouse diagram depart clutch target return parade extend neutral left brick";
+var mnemonic = "awesome carpet range topic subject away ginger discover absorb setup harvest muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "search pony veteran logic liquid since bounce order debate tool during neither";
+var mnemonic = "roast crawl beach assume unable spike clutch board give relief expect egg";

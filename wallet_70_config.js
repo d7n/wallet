@@ -1,1 +1,1 @@
-var mnemonic = "save soon popular acoustic claim basic miss annual bike uncle weasel happy";
+var mnemonic = "truly blur program orient spy crouch enforce hat manual canal taste tonight";

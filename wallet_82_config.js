@@ -1,1 +1,1 @@
-var mnemonic = "shiver energy response process ridge rug sport casino chair meadow bless hope";
+var mnemonic = "castle faculty train boost naive crash slice job claw fiction forest clerk";

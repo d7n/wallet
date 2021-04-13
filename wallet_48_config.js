@@ -1,1 +1,1 @@
-var mnemonic = "milk route vanish other funny labor rubber kitten tell clarify peace source";
+var mnemonic = "company front oppose deliver position tuna exclude margin hurt cluster genre giant";

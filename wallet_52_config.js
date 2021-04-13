@@ -1,1 +1,1 @@
-var mnemonic = "safe wave that stock surround open meat adjust toward salad menu habit";
+var mnemonic = "maximum unhappy fly laugh awful route obvious render window old ankle picture";

@@ -1,1 +1,1 @@
-var mnemonic = "logic mammal ceiling neither flight spread horror combine eye lock nice nothing";
+var mnemonic = "list neither exotic door pool physical three deny dynamic decade delay success";

@@ -1,1 +1,1 @@
-var mnemonic = "then furnace display suffer ring nasty copy party erase hold elephant risk";
+var mnemonic = "frequent carry alone faint winner success snake stamp grocery perfect rough culture";

@@ -1,1 +1,1 @@
-var mnemonic = "country delay urban avoid benefit forest silent ahead slush remain erode pupil";
+var mnemonic = "vicious genuine depth impulse sport fork spy jungle thunder almost broom horse";

@@ -1,1 +1,1 @@
-var mnemonic = "twin immense try enlist river husband mountain iron drive stamp limit palace";
+var mnemonic = "autumn medal either million vast guard crucial seat always mind february mix";

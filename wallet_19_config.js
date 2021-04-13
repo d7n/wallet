@@ -1,1 +1,1 @@
-var mnemonic = "frequent casino cream eager buddy chief pull warfare nut invest claw erupt";
+var mnemonic = "lake doll country bag voyage obvious vanish van today town among guilt";

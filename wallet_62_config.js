@@ -1,1 +1,1 @@
-var mnemonic = "divide throw north citizen kangaroo concert slide abstract when boy pluck recycle";
+var mnemonic = "option session noise valley unique grit disagree pencil bar kingdom damage spell";

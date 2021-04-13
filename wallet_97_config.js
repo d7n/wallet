@@ -1,1 +1,1 @@
-var mnemonic = "giant review soldier during coral assist kingdom frost pigeon merry awesome suspect";
+var mnemonic = "unhappy right guard breeze useful veteran desk saddle infant matter close stand";

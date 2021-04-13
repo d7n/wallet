@@ -1,1 +1,1 @@
-var mnemonic = "local where blue liar glove swamp stone narrow reward leg push disagree";
+var mnemonic = "proof control hire nation run endorse net sphere fresh group person merit";

@@ -1,1 +1,1 @@
-var mnemonic = "dog opera there onion ginger duck slight spoon buyer symbol mouse embrace";
+var mnemonic = "box stone grant woman love spoon answer cruise judge maid tone skill";

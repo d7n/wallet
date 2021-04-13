@@ -1,1 +1,1 @@
-var mnemonic = "clean spring order speed siege drama juice usage habit settle normal client";
+var mnemonic = "wolf bomb silk cotton spike razor major fire any borrow dad card";

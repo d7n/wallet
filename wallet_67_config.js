@@ -1,1 +1,1 @@
-var mnemonic = "tenant piece tuna recipe rack strong mask traffic joy cluster true mosquito";
+var mnemonic = "scare renew fatal video trigger shy sting rocket section manage repair advance";

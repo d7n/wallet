@@ -1,1 +1,1 @@
-var mnemonic = "awkward alone ghost shrimp couch elephant witness exotic entire mandate eagle ship";
+var mnemonic = "voice ivory girl tower eagle junk silk amount casual dune team input";

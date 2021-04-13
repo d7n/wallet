@@ -1,1 +1,1 @@
-var mnemonic = "trust link save crouch text normal wage divorce once snap minimum fetch";
+var mnemonic = "draw permit one other never inquiry slogan dry robust umbrella gift letter";

@@ -1,1 +1,1 @@
-var mnemonic = "negative clever crane sketch crack day hobby laundry spring upset cover cube";
+var mnemonic = "crumble credit chef negative novel garage govern canyon cable slush casual fence";

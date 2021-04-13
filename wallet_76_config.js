@@ -1,1 +1,1 @@
-var mnemonic = "robot able august kind color settle hundred artefact opera nerve wrist radio";
+var mnemonic = "wage shift equip enemy pigeon attack squeeze globe net sorry sure client";

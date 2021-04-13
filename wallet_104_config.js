@@ -1,1 +1,1 @@
-var mnemonic = "keen age confirm peanut love second west price treat unfair robot liquid";
+var mnemonic = "ordinary become lemon oak weasel spawn ceiling stool mixed juice leader mad";

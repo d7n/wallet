@@ -1,1 +1,1 @@
-var mnemonic = "deer man actress civil holiday endorse step spoon attract injury clutch crater";
+var mnemonic = "eternal shiver sea whale bid upon return wasp corn canvas plastic left";

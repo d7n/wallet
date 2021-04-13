@@ -1,1 +1,1 @@
-var mnemonic = "puzzle rug allow scale distance antenna lake lizard turn kind about rubber";
+var mnemonic = "toy jelly current dune fix quick document clip live midnight betray universe";

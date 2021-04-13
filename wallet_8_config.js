@@ -1,1 +1,1 @@
-var mnemonic = "sniff lumber smile athlete game ensure actual social clarify faint subway language";
+var mnemonic = "sing card plate cliff sheriff immense object tunnel pact task shrimp return";

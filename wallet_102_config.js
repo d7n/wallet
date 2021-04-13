@@ -1,1 +1,1 @@
-var mnemonic = "stadium claw decrease move enhance public episode lonely affair saddle tomorrow shoot";
+var mnemonic = "message reflect exercise enter trip cushion evolve observe skull general laundry absent";

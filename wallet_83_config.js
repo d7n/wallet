@@ -1,1 +1,1 @@
-var mnemonic = "opera shuffle uphold general find toe gentle mix exact fence measure smart";
+var mnemonic = "critic gesture bench half rapid annual loud rather joke april carpet tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "high destroy hello wolf wine actor gun stone famous marriage require record";
+var mnemonic = "also mouse topic vivid what industry curtain rose mixed laundry tennis attract";

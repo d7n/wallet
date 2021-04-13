@@ -1,1 +1,1 @@
-var mnemonic = "road jealous never soccer coil razor bring loyal hip harbor imitate direct";
+var mnemonic = "funny chuckle giraffe damage because clutch relax spatial mail salon just enforce";
