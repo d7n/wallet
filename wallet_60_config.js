@@ -1,1 +1,1 @@
-var mnemonic = "reason desert strategy dolphin bracket fade work wrong shaft hip naive solution";
+var mnemonic = "pipe stove ahead fragile fish voice dismiss decorate goddess bike friend mixed";

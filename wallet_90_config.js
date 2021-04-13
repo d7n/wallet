@@ -1,1 +1,1 @@
-var mnemonic = "endless scale puzzle lottery middle chuckle gallery sport wool still ancient speed";
+var mnemonic = "social eager discover tired seek crime gauge buzz child neck key frown";

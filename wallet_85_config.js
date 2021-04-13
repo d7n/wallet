@@ -1,1 +1,1 @@
-var mnemonic = "artwork orphan ready enact nerve fade tonight crunch network next sort balcony";
+var mnemonic = "typical bid egg bleak vacuum cup celery aerobic awkward private border swear";

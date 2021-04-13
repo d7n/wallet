@@ -1,1 +1,1 @@
-var mnemonic = "fit goddess release unable wash will mutual fashion tragic gentle valid pulse";
+var mnemonic = "sausage guide fatigue fly ostrich infant knee story current curve chicken celery";

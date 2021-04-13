@@ -1,1 +1,1 @@
-var mnemonic = "suspect food smile assume elder chronic sausage inherit inject kiwi hawk shove";
+var mnemonic = "chronic inside oyster alcohol luxury panel top donate pizza border olive term";

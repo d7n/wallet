@@ -1,1 +1,1 @@
-var mnemonic = "remember brass cave lamp cushion muscle series quantum cram such steak remove";
+var mnemonic = "flat more later praise soup legend sock drift box subway potato pulp";

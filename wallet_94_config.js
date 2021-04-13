@@ -1,1 +1,1 @@
-var mnemonic = "lift avocado essay garment stage amount cereal liberty enlist radio random kiwi";
+var mnemonic = "resource dream task slam river train produce rule cousin wrestle gym dish";

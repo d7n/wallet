@@ -1,1 +1,1 @@
-var mnemonic = "short lemon usage forum topic elbow arrange cloud idle lock supreme dilemma";
+var mnemonic = "fiscal lab estate deal broken gift loud fabric radio cube protect seek";

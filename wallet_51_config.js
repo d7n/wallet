@@ -1,1 +1,1 @@
-var mnemonic = "engage silver glide dress donor flock pipe ice luggage awesome health exist";
+var mnemonic = "rib crash hurry trumpet make pool best stay neither add thought space";

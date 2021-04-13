@@ -1,1 +1,1 @@
-var mnemonic = "ability clip seat demand swim december add rival grab shrug harsh truth";
+var mnemonic = "ribbon zoo violin coyote oblige again enhance sun later clog filter excuse";

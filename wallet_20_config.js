@@ -1,1 +1,1 @@
-var mnemonic = "security usage carpet else afraid climb hawk carry title capital across metal";
+var mnemonic = "pride female shift say powder park rival across dice scorpion print unaware";

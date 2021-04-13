@@ -1,1 +1,1 @@
-var mnemonic = "muffin sniff lift antenna depth reunion decade humble concert clock laptop paper";
+var mnemonic = "atom allow demand buddy purpose sample misery index film second unusual case";

@@ -1,1 +1,1 @@
-var mnemonic = "siren cactus slab gold come assault claw dutch category biology repair squeeze";
+var mnemonic = "much debate visual shrug column mango exchange delay fresh stereo neglect nation";

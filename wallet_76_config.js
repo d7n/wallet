@@ -1,1 +1,1 @@
-var mnemonic = "subway method bundle champion ethics fall zone pledge mistake dial have jacket";
+var mnemonic = "dad blanket teach play awesome often breeze refuse solution stamp paper garden";

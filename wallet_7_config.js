@@ -1,1 +1,1 @@
-var mnemonic = "various wrong sting choice tumble mobile moon awake strike whale capital meat";
+var mnemonic = "manual absorb chest step october crucial media bunker tape cart relief cruel";

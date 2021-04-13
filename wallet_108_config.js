@@ -1,1 +1,1 @@
-var mnemonic = "shift daring key visa ship purse stamp employ coffee limb thank follow";
+var mnemonic = "seminar federal because pink entry network fine wine plug wrap civil exclude";

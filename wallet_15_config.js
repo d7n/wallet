@@ -1,1 +1,1 @@
-var mnemonic = "wall chapter fantasy story frequent dove attract upper stove flat kangaroo energy";
+var mnemonic = "ankle car rely lake van system police reform fish match left flock";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow mixture pizza chest quote attack quote drum tube system vast mechanic";
+var mnemonic = "mechanic winter add name conduct happy trap donor pave blossom rare utility";

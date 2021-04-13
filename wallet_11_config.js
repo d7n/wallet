@@ -1,1 +1,1 @@
-var mnemonic = "city love throw note mirror pool swift chair ranch broccoli thumb orchard";
+var mnemonic = "shoulder dragon idea inquiry message make fame salon history amused obvious balance";

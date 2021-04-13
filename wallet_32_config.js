@@ -1,1 +1,1 @@
-var mnemonic = "enter vital absent isolate pool banner address bracket swim manage exhaust purse";
+var mnemonic = "crowd gasp catalog envelope pair law heart smoke effort mass practice nasty";

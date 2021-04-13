@@ -1,1 +1,1 @@
-var mnemonic = "behave scare orbit truth lunch april junior angry assist pull multiply champion";
+var mnemonic = "evolve under then mouse wait pipe poverty water vessel method other rather";

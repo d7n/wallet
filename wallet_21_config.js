@@ -1,1 +1,1 @@
-var mnemonic = "year wise maximum strong day detect festival equip cook glide lava wife";
+var mnemonic = "banner blast absent spice artist vanish ivory busy reduce blue slab reopen";

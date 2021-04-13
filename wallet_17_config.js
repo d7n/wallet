@@ -1,1 +1,1 @@
-var mnemonic = "cancel smoke broken check logic vehicle push gesture table claw grief hedgehog";
+var mnemonic = "behave blast drop camp negative eager gesture please major yard divert genuine";

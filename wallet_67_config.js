@@ -1,1 +1,1 @@
-var mnemonic = "depend good salad wet sudden mother crater boost vanish perfect idle multiply";
+var mnemonic = "fabric hybrid announce trade trick favorite begin brown cigar suggest mail usage";

@@ -1,1 +1,1 @@
-var mnemonic = "gain park diet slogan unaware uphold can infant else second alter network";
+var mnemonic = "desk crop trial budget beach gown shell depart minimum bomb crack super";

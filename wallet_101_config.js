@@ -1,1 +1,1 @@
-var mnemonic = "draw pact aware oil fossil divide recall churn cigar know trophy test";
+var mnemonic = "object alien involve rely install message edge enhance next still craft jewel";

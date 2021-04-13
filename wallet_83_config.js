@@ -1,1 +1,1 @@
-var mnemonic = "divert sniff goddess olive poverty chuckle exotic tuition area decade lawn surface";
+var mnemonic = "nominee robust student normal glass rhythm syrup uniform tail all obvious issue";

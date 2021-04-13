@@ -1,1 +1,1 @@
-var mnemonic = "item spy egg elevator mean stumble energy month later fly latin vault";
+var mnemonic = "merit install obscure accident slight thunder pioneer oven surprise candy bulb west";

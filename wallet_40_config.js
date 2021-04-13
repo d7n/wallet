@@ -1,1 +1,1 @@
-var mnemonic = "tip mandate behave oil oxygen inmate pact admit airport awesome kind magic";
+var mnemonic = "leg affair helmet fan dizzy elevator special differ venue yellow cabin crew";

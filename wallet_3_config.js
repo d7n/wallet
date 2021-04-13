@@ -1,1 +1,1 @@
-var mnemonic = "clump craft index lobster siren mass diet shrug finish side obscure hybrid";
+var mnemonic = "tone conduct loan monitor involve athlete climb twice you shock judge chase";

@@ -1,1 +1,1 @@
-var mnemonic = "grain taste skull leg device expand helmet obey develop left royal orbit";
+var mnemonic = "shy engage science anxiety enlist idea success clip venue trend doll usual";

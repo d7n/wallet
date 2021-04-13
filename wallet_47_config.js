@@ -1,1 +1,1 @@
-var mnemonic = "program joke remain height table depth intact sauce phone car mansion chapter";
+var mnemonic = "cousin legal glad okay liquid drop royal wire cook mushroom act subject";

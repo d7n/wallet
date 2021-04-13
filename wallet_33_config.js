@@ -1,1 +1,1 @@
-var mnemonic = "flag toss sauce belt fly burger push soldier month sibling nothing stable";
+var mnemonic = "cash faculty awkward rude angle street assist weasel mercy mother broken pig";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd turkey fruit pistol allow prepare sail bachelor double vendor fit risk";
+var mnemonic = "crisp annual hip airport army option access diagram tomorrow drill wreck strategy";

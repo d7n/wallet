@@ -1,1 +1,1 @@
-var mnemonic = "lend document innocent hat avocado nose pumpkin image sentence lemon affair amateur";
+var mnemonic = "glad phone action salute burger teach alter tongue unknown genius drink dinosaur";

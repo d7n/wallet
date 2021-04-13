@@ -1,1 +1,1 @@
-var mnemonic = "friend where inflict auction caution clump ride priority affair tired enter easily";
+var mnemonic = "ostrich concert cheese joy scale fashion suspect onion home mobile parent surprise";

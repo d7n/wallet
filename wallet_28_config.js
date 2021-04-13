@@ -1,1 +1,1 @@
-var mnemonic = "patrol cheap unhappy bus hello detail purity judge cancel amount put student";
+var mnemonic = "hold sure hunt guilt water anxiety direct toss card desert endless source";

@@ -1,1 +1,1 @@
-var mnemonic = "pact peasant wool slush language throw scene brick inside announce owner donate";
+var mnemonic = "find train test candy action screen circle still permit sniff shuffle expand";

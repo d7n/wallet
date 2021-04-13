@@ -1,1 +1,1 @@
-var mnemonic = "canal sight meadow cactus series gravity snake depth author frozen month salute";
+var mnemonic = "detect appear quality festival nurse tumble guilt divide female often express either";

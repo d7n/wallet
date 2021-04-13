@@ -1,1 +1,1 @@
-var mnemonic = "devote step valve best gas replace obey truly hat spend mechanic open";
+var mnemonic = "cheese stage tree retreat sick rely then describe west victory trophy travel";

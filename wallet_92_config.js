@@ -1,1 +1,1 @@
-var mnemonic = "rhythm radio retire warfare tumble earn grit frost ready lamp snack supply";
+var mnemonic = "accuse radio arrange bonus depend sun elder snake goddess slender engage world";

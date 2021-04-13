@@ -1,1 +1,1 @@
-var mnemonic = "brave tissue first mango brain wood aerobic tomato violin dial kidney bullet";
+var mnemonic = "sense frog identify sniff face sustain swamp decline famous receive barely bomb";

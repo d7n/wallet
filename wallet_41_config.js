@@ -1,1 +1,1 @@
-var mnemonic = "object one paddle target video popular grace dignity evil trade reward tunnel";
+var mnemonic = "spoil curve vintage captain state reflect spider beach prepare that debate bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "year spend smooth jar correct betray disorder stairs pause gather fatigue host";
+var mnemonic = "friend rally devote hamster energy accuse lonely improve caution mad eight cup";

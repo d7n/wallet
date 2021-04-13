@@ -1,1 +1,1 @@
-var mnemonic = "benefit nuclear own coral woman able dance mushroom grocery castle polar unfold";
+var mnemonic = "portion payment benefit auto south nephew marriage tone reform burst casual february";

@@ -1,1 +1,1 @@
-var mnemonic = "junior twist section recipe draft mother rubber drive update toddler frost label";
+var mnemonic = "poem multiply wheat because lyrics spare crazy arrow put fluid aunt indoor";

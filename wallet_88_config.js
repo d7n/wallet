@@ -1,1 +1,1 @@
-var mnemonic = "hammer depth output mule dutch color recipe poem bleak flush bulb wheel";
+var mnemonic = "weather volume mobile orbit adapt render way craft sting toilet alone update";

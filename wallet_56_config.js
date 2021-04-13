@@ -1,1 +1,1 @@
-var mnemonic = "throw robust brass ready great sunset quality game broom screen ginger wide";
+var mnemonic = "leisure toast rescue note broken brief fuel boil race inch find task";

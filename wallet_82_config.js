@@ -1,1 +1,1 @@
-var mnemonic = "burger boat horse pass enlist guess health galaxy veteran document infant goddess";
+var mnemonic = "other pear steak cave melody lion attack fringe congress danger tattoo hammer";

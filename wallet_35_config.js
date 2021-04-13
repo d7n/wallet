@@ -1,1 +1,1 @@
-var mnemonic = "ramp inch situate idle hollow parent loan thought weather know become during";
+var mnemonic = "bind snake fire crew amused wrestle demise enjoy marble cause program repeat";

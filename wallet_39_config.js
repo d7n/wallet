@@ -1,1 +1,1 @@
-var mnemonic = "seek beyond tank news noodle slam when ivory such almost learn black";
+var mnemonic = "wonder unaware van fancy moment rib travel long stumble upgrade behind brain";

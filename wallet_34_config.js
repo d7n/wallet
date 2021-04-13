@@ -1,1 +1,1 @@
-var mnemonic = "scrap utility learn similar phone dose satoshi crush practice radio grocery acoustic";
+var mnemonic = "tip pattern jump regular visa dose imitate about banner imitate rescue inquiry";

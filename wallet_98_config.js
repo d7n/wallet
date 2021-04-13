@@ -1,1 +1,1 @@
-var mnemonic = "brown estate bottom cook business maid lobster grant treat eagle diet lion";
+var mnemonic = "cabbage sudden heart ride pumpkin history galaxy furnace unfold spawn fat reward";

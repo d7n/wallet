@@ -1,1 +1,1 @@
-var mnemonic = "huge stock reveal move deputy organ pistol rigid egg ladder trend pilot";
+var mnemonic = "avocado follow heavy book sphere finish river pink put rescue unfold hybrid";

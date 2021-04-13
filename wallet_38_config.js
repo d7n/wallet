@@ -1,1 +1,1 @@
-var mnemonic = "need speak script acid fly magic sibling violin barrel social space garment";
+var mnemonic = "rebuild piano soccer potato frown join inspire sure south library odor first";

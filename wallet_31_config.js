@@ -1,1 +1,1 @@
-var mnemonic = "abuse moon stool inquiry flight fun soda crane door frequent affair because";
+var mnemonic = "improve cereal curve code leave silent state muffin laugh initial lawsuit offer";

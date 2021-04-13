@@ -1,1 +1,1 @@
-var mnemonic = "axis select sunny target inside library spend glance aisle upper build base";
+var mnemonic = "hockey fog unaware sort theory mechanic library idle save palm owner way";

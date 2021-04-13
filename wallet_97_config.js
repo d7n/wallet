@@ -1,1 +1,1 @@
-var mnemonic = "mutual mobile crowd funny best federal case unfold attend cube pink legal";
+var mnemonic = "acoustic inch barrel allow bean merit flame motion collect parent wink burden";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter creek genre idle library list trust winter silver resemble dragon cousin";
+var mnemonic = "patch raccoon tip chapter number puzzle wear weapon virtual spend supreme rifle";

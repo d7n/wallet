@@ -1,1 +1,1 @@
-var mnemonic = "bright custom demise sound focus goose oxygen various mean theme want benefit";
+var mnemonic = "boy thunder lab merge invest win boy grain property bullet mouse urge";

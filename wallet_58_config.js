@@ -1,1 +1,1 @@
-var mnemonic = "around retire office comic inhale shy bring float immune furnace topple expose";
+var mnemonic = "inquiry senior beach accident rookie donor random result vault weather ivory slender";

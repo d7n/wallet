@@ -1,1 +1,1 @@
-var mnemonic = "review syrup leisure address canvas gown paper orbit accuse wisdom peasant cart";
+var mnemonic = "another head concert blood unhappy hurt observe gun stage silver gate best";

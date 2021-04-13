@@ -1,1 +1,1 @@
-var mnemonic = "language eternal emerge mom stomach skull creek original yard movie family certain";
+var mnemonic = "april essay raise weekend rail draft news make rice poet slice exercise";

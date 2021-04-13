@@ -1,1 +1,1 @@
-var mnemonic = "rookie domain ranch law start federal afford usage elbow rhythm noise shallow";
+var mnemonic = "pole robust retire grunt mother tilt humble prize record deny prize train";

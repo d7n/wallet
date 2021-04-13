@@ -1,1 +1,1 @@
-var mnemonic = "sibling miss echo winner stuff waste west swift jewel head repair way";
+var mnemonic = "enroll salt tilt apple destroy post report vivid keep glass debris unfold";

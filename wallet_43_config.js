@@ -1,1 +1,1 @@
-var mnemonic = "bachelor hire dynamic crack dutch hover enlist system undo dice nice good";
+var mnemonic = "thunder lunch curious object slide civil wait neutral amount tomato turkey shoot";

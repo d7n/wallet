@@ -1,1 +1,1 @@
-var mnemonic = "check ordinary cancel flee enjoy bright battle wine hurt utility later iron";
+var mnemonic = "detail universe dove patrol ridge guard actual marble jungle dance atom heavy";

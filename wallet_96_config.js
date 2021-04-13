@@ -1,1 +1,1 @@
-var mnemonic = "doll other such web yard wash trumpet again enjoy vault zebra elder";
+var mnemonic = "same december victory pigeon snow palm refuse myth pride voice update focus";

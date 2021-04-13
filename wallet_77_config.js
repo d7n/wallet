@@ -1,1 +1,1 @@
-var mnemonic = "argue tray round make margin symptom audit pet eagle tide blade plate";
+var mnemonic = "behave zero sick client fabric loyal push art use depth fiction shoulder";

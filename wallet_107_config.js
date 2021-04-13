@@ -1,1 +1,1 @@
-var mnemonic = "code olympic inherit earn radar window scrub taxi swallow service snow prevent";
+var mnemonic = "fan gift month tent trophy file wealth gaze guard cover over inhale";

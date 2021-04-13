@@ -1,1 +1,1 @@
-var mnemonic = "ensure world squirrel bread loop category diesel unfold kid assume chunk captain";
+var mnemonic = "credit alley myself visa voice input find never price black logic wash";

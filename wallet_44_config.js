@@ -1,1 +1,1 @@
-var mnemonic = "enroll exotic flame remain clinic latin forum column tissue deer train glow";
+var mnemonic = "various tuition wagon caution exhibit shine maze suit among glass auction educate";

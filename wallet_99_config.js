@@ -1,1 +1,1 @@
-var mnemonic = "south travel coconut acid prosper much portion jar rose torch need wing";
+var mnemonic = "wink heavy spot piece already drastic radio duty carpet tower wrong blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "roof state delay hawk have remain glow popular audit tenant clump heart";
+var mnemonic = "rice unit brown sort elephant spot script borrow thank fiber volume clever";

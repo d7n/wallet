@@ -1,1 +1,1 @@
-var mnemonic = "keep hour media lecture sample find end reopen explain pigeon rotate latin";
+var mnemonic = "various aisle manual circle comic gloom shrimp result pear play number update";

@@ -1,1 +1,1 @@
-var mnemonic = "ring system notable focus amount lunch penalty eyebrow tube harbor ball step";
+var mnemonic = "theory museum tip aim curtain embrace female dilemma submit essence gadget size";

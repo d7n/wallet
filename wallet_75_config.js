@@ -1,1 +1,1 @@
-var mnemonic = "hobby swear gather umbrella glue game pond banana purpose census twice lunch";
+var mnemonic = "young cradle girl student rebel blame universe finish climb base gauge cave";

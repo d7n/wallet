@@ -1,1 +1,1 @@
-var mnemonic = "maid drop often mosquito clump there hunt mean mechanic cotton earth walk";
+var mnemonic = "fortune topple badge destroy parent chaos betray leaf mountain swear plunge tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "motor piano caught torch call record square noodle february first adapt avocado";
+var mnemonic = "train nephew nuclear begin matter account civil grit receive trial flame need";

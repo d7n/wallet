@@ -1,1 +1,1 @@
-var mnemonic = "helmet defy tiny either fame swarm strike clip fiction crew gentle blush";
+var mnemonic = "because draft smoke move vintage sphere decade music crouch lyrics perfect execute";

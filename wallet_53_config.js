@@ -1,1 +1,1 @@
-var mnemonic = "ladder brush garbage december help mask mushroom awesome zone gym primary laugh";
+var mnemonic = "area upper unique can outside math ring sort poet pluck swamp inspire";

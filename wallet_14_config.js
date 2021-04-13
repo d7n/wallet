@@ -1,1 +1,1 @@
-var mnemonic = "mixture rocket panic curtain emerge holiday chat penalty legal morning exhibit donkey";
+var mnemonic = "truly list client elder two jump leave leader mountain runway calm cliff";

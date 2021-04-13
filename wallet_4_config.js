@@ -1,1 +1,1 @@
-var mnemonic = "eight improve inject tape elite thrive grab angry tourist amused logic paddle";
+var mnemonic = "sign energy myth copper stick soap interest output warm filter artefact success";

@@ -1,1 +1,1 @@
-var mnemonic = "whale else crazy misery trend fitness total dress ketchup learn token inquiry";
+var mnemonic = "impact wealth roast zoo above danger version bubble visit similar ranch boil";

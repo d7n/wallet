@@ -1,1 +1,1 @@
-var mnemonic = "pass inflict tilt fashion heart burden client immense valve donor hundred cage";
+var mnemonic = "notice abstract giggle boost valve word ticket okay bonus cart joke exact";

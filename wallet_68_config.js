@@ -1,1 +1,1 @@
-var mnemonic = "turtle blame shoulder inflict buddy yellow result short assault easy staff report";
+var mnemonic = "cave crack inhale elite better glide erupt dragon pupil bundle various please";

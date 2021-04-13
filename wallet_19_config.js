@@ -1,1 +1,1 @@
-var mnemonic = "abstract month awful reunion drill hurt language valley dress buddy runway meat";
+var mnemonic = "federal identify urban afford minute badge right immune obey park pact matrix";

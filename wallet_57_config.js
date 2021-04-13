@@ -1,1 +1,1 @@
-var mnemonic = "valve magic alone hope mother better kite list hood order diet sausage";
+var mnemonic = "keen sketch endorse ranch smooth cushion churn time early permit hard dust";

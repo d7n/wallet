@@ -1,1 +1,1 @@
-var mnemonic = "sunny step alcohol giggle focus robust intact sick unfold price attract joy";
+var mnemonic = "visit million equal attitude avoid find raccoon large power vivid gloom atom";

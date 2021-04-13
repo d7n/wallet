@@ -1,1 +1,1 @@
-var mnemonic = "head fiction select depth fog cement flat conduct remove phrase animal woman";
+var mnemonic = "slight tray shy excite dog infant level night link broccoli ivory scorpion";
