@@ -1,1 +1,1 @@
-var mnemonic = "scare always table call snap breeze between exchange window bulk mountain rail";
+var mnemonic = "always case winter evoke meadow afford city orange ice usage body hazard";

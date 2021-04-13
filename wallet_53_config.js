@@ -1,1 +1,1 @@
-var mnemonic = "region fit grace predict blind security stadium welcome truck ecology pluck rug";
+var mnemonic = "able off infant grocery produce mountain often object dune fruit lens duty";

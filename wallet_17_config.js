@@ -1,1 +1,1 @@
-var mnemonic = "endless still cube noodle pledge jazz glare dinner siege candy crumble act";
+var mnemonic = "marine ice frame nose tiger winner remove zero strategy box juice teach";

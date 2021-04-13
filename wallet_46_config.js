@@ -1,1 +1,1 @@
-var mnemonic = "tower blush junior cradle canvas remember execute carry math demand green broom";
+var mnemonic = "soon fitness ask ocean busy pipe oven educate visit table cheese wise";

@@ -1,1 +1,1 @@
-var mnemonic = "practice trophy lyrics kiwi leader hunt grass later tip scrap liquid expose";
+var mnemonic = "artefact spike genuine box choose just input sadness venture quality merit miracle";

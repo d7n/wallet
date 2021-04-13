@@ -1,1 +1,1 @@
-var mnemonic = "guide drift hunt boat deputy drink attack fuel ill someone number crash";
+var mnemonic = "useful possible punch delay nation unaware ostrich holiday frame solution awkward stage";

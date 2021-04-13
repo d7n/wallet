@@ -1,1 +1,1 @@
-var mnemonic = "steel opera humor split meat treat unusual ticket swing furnace select husband";
+var mnemonic = "tower mechanic speak shine exchange trip expand lizard steel wolf pulp wrist";

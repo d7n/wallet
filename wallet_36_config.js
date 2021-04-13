@@ -1,1 +1,1 @@
-var mnemonic = "endorse region panic aware stuff process pipe cement modify sheriff pudding pottery";
+var mnemonic = "cigar radio girl client explain resemble poverty slender doctor transfer uncle inch";

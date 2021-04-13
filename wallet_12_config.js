@@ -1,1 +1,1 @@
-var mnemonic = "bright toss ride bus law great space suit egg scrub upon riot";
+var mnemonic = "raccoon shed skirt decline plate purity swallow suit render hard clutch innocent";

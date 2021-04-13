@@ -1,1 +1,1 @@
-var mnemonic = "joke gloom kid great essence crouch daring below lyrics tennis blast letter";
+var mnemonic = "scare resource skin faith begin olympic embody urge hospital wild source truly";

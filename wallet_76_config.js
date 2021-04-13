@@ -1,1 +1,1 @@
-var mnemonic = "power logic material rhythm critic example immense stay brain frozen type inflict";
+var mnemonic = "chest salmon benefit embrace replace asthma outdoor release quick chronic axis guilt";

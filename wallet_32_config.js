@@ -1,1 +1,1 @@
-var mnemonic = "august useful hockey network taxi unusual ozone rifle wool glimpse smart snow";
+var mnemonic = "rabbit soda spider wing museum crowd sister major trap blade pair nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "project quick hat team nuclear scare inner woman system stairs bunker century";
+var mnemonic = "ranch clarify rural extend used then patch pledge panther law earth yellow";

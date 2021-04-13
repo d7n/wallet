@@ -1,1 +1,1 @@
-var mnemonic = "blouse pattern empower galaxy decrease sauce piece decade history mother imitate rely";
+var mnemonic = "proud laptop brush wide address issue spider head mystery animal flame select";

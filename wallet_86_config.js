@@ -1,1 +1,1 @@
-var mnemonic = "label thought other naive version lumber taste pet any student ignore hour";
+var mnemonic = "recipe riot eternal rent describe napkin subway volcano detect skill cabbage embrace";

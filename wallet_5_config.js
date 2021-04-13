@@ -1,1 +1,1 @@
-var mnemonic = "razor cattle purse mass side label wire venture clock gun supreme depth";
+var mnemonic = "film loud chuckle kid boat sleep sea light guess fan option easy";

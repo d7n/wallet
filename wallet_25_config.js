@@ -1,1 +1,1 @@
-var mnemonic = "control field stone park honey cabin witness cause excess type often ridge";
+var mnemonic = "oppose dream false immense medal cloud vivid muscle true spatial avocado sense";

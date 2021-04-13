@@ -1,1 +1,1 @@
-var mnemonic = "dumb sting banana mind title throw flavor love hybrid position reflect exhaust";
+var mnemonic = "nose amateur tennis six radar resist bounce device material unusual hint trash";

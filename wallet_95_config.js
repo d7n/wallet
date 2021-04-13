@@ -1,1 +1,1 @@
-var mnemonic = "asset people prison crucial wheel peasant grace exotic beauty family stereo ostrich";
+var mnemonic = "aspect key sample repair embrace great salad dose clog manual nature unfold";

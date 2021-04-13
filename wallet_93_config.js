@@ -1,1 +1,1 @@
-var mnemonic = "shrimp clip regular illegal document exit obvious stamp globe soldier smart year";
+var mnemonic = "battle before wisdom help family error deer icon vicious heavy isolate clarify";

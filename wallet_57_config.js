@@ -1,1 +1,1 @@
-var mnemonic = "fruit noodle kitchen embody trigger globe elevator already because farm bench crawl";
+var mnemonic = "source spin nurse autumn organ vanish roof science fetch kiss enough auto";

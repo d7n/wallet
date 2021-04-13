@@ -1,1 +1,1 @@
-var mnemonic = "rescue relax loop antenna peanut copper describe grass vanish abandon awake such";
+var mnemonic = "shoulder coast fix minimum swamp isolate mass auto pole pause either lottery";

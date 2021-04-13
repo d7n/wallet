@@ -1,1 +1,1 @@
-var mnemonic = "collect dream fringe truth warfare always own coin clinic one easy rose";
+var mnemonic = "home expand monster repeat crush once visit zoo type provide fiber birth";

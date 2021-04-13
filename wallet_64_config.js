@@ -1,1 +1,1 @@
-var mnemonic = "upset loyal broccoli stone portion tone slab season clever clay whale abandon";
+var mnemonic = "cruel rubber popular ocean virus muffin best addict divide pottery artist faith";

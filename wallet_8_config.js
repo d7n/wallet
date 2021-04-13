@@ -1,1 +1,1 @@
-var mnemonic = "stable family canoe desk chapter copper spider hunt genius decide huge autumn";
+var mnemonic = "picnic tooth powder celery scan hour tuna wear wealth topic adult pair";

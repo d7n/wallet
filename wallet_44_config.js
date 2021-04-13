@@ -1,1 +1,1 @@
-var mnemonic = "actor gasp ice quote approve impact door picnic machine winter lens movie";
+var mnemonic = "mom silent defense swap dance list grit news churn random load kick";

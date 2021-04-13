@@ -1,1 +1,1 @@
-var mnemonic = "super travel winner oval invest fire height wrong waste civil such parrot";
+var mnemonic = "advance relax render model home comfort cotton keen tenant dinosaur art asset";

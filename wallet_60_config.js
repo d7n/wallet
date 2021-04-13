@@ -1,1 +1,1 @@
-var mnemonic = "alter pudding mixed save gossip resource super fantasy soup view garment battle";
+var mnemonic = "sauce boy remove wrap invite lend recycle keen news mind protect they";

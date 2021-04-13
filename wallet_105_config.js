@@ -1,1 +1,1 @@
-var mnemonic = "soap zero chase fault amount inherit skate cliff drive fork lens home";
+var mnemonic = "enable gown number morning soon vocal oxygen dash tenant rebuild funny fog";

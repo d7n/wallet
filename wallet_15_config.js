@@ -1,1 +1,1 @@
-var mnemonic = "usage floor move allow match thunder height hub tuna city skate involve";
+var mnemonic = "general glare decline slender tragic crane layer rural quality erupt tobacco flower";

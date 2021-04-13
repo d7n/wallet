@@ -1,1 +1,1 @@
-var mnemonic = "hen dove chat honey never exile mistake soldier list season any decade";
+var mnemonic = "path detail company adult link quantum cancel dutch object inherit cruel arctic";

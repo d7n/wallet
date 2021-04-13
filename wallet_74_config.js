@@ -1,1 +1,1 @@
-var mnemonic = "follow fame sadness survey hybrid olympic powder stick kind annual brave reunion";
+var mnemonic = "wave initial drop secret display orphan spin pyramid quantum stuff pelican allow";

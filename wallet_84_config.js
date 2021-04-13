@@ -1,1 +1,1 @@
-var mnemonic = "enjoy gorilla zero theory broken eyebrow garment gold mobile convince ceiling write";
+var mnemonic = "bubble unlock grid fuel volcano permit grocery act hawk length clog chimney";

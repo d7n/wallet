@@ -1,1 +1,1 @@
-var mnemonic = "favorite spend struggle need put owner praise antique genius kind similar access";
+var mnemonic = "fetch barrel mimic kiss deliver viable inherit siren cave raise future during";

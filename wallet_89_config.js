@@ -1,1 +1,1 @@
-var mnemonic = "process meadow someone frost raw wash veteran minimum seek yard fee record";
+var mnemonic = "liquid typical camp layer feel police clock wagon matrix brown number syrup";

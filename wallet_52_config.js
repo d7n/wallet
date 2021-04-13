@@ -1,1 +1,1 @@
-var mnemonic = "gather cry grace logic repair empty champion album salad toddler snap ignore";
+var mnemonic = "filter pig inherit install midnight deer network perfect secret pony fresh gorilla";

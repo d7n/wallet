@@ -1,1 +1,1 @@
-var mnemonic = "type spray hard enjoy flat oyster such decide another way mammal wave";
+var mnemonic = "napkin code ocean you eight feature enough frog act recipe desert drink";

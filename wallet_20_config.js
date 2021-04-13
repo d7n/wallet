@@ -1,1 +1,1 @@
-var mnemonic = "curious credit electric bid bitter lab liquid debris salon call castle maid";
+var mnemonic = "fortune fortune ticket dash census photo render catalog pulse trust paper melody";

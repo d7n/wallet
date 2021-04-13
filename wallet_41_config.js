@@ -1,1 +1,1 @@
-var mnemonic = "impulse relax diesel extra escape foster close isolate nasty again olympic first";
+var mnemonic = "way crane monkey wink boring year divorce since extend fish loud slush";

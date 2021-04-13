@@ -1,1 +1,1 @@
-var mnemonic = "pulp flash okay mosquito item swear skate quit grid keep sport fan";
+var mnemonic = "talk swap develop swim version luggage lady siren denial bronze vivid city";

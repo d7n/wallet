@@ -1,1 +1,1 @@
-var mnemonic = "mercy bone hello donkey amused identify noodle grass absent food voice large";
+var mnemonic = "claw divert sentence direct safe grab jazz blame exotic dolphin piano program";

@@ -1,1 +1,1 @@
-var mnemonic = "kind senior erosion expand route speak story opinion check purity start rib";
+var mnemonic = "filter puzzle poverty wrong man immense unfold inside express sweet frozen ring";

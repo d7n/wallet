@@ -1,1 +1,1 @@
-var mnemonic = "glimpse obscure mansion junior gentle act fortune virtual equip kiss plate success";
+var mnemonic = "vote latin win ocean rail ship annual gym very carpet throw digital";

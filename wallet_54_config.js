@@ -1,1 +1,1 @@
-var mnemonic = "quick upon resist only cement south always group injury pretty rocket elite";
+var mnemonic = "elegant tooth cereal arrest caught surprise jaguar build talk human crack ramp";

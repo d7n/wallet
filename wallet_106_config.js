@@ -1,1 +1,1 @@
-var mnemonic = "gold impose legend wild what visa cement dutch worth own judge hood";
+var mnemonic = "festival faith reflect they gap boy awkward meadow jazz life rescue toast";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus romance foil miracle vote twice path youth liquid divide sketch fat";
+var mnemonic = "busy vapor story trick clutch van luxury safe tiny frog rail ill";

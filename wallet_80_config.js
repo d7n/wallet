@@ -1,1 +1,1 @@
-var mnemonic = "narrow spike fiction solve wing awesome extend narrow sketch debris exchange ask";
+var mnemonic = "casino skate fit clock gravity panic squirrel ask plate picture box myth";

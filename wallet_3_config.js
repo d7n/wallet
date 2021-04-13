@@ -1,1 +1,1 @@
-var mnemonic = "bid boat column critic fruit paper actress feature ready wrestle afford wrong";
+var mnemonic = "uphold chalk crush error patient airport category tree cradle egg sting hurdle";

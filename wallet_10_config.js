@@ -1,1 +1,1 @@
-var mnemonic = "shoe useful strong pole toast tool lady lift refuse assist ramp step";
+var mnemonic = "mesh better salon daring bitter machine seminar wrist giant pyramid monkey point";

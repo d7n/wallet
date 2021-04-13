@@ -1,1 +1,1 @@
-var mnemonic = "reopen coconut silk clay review panther furnace slide degree trophy like happy";
+var mnemonic = "upset diary tribe december foot debate buyer lounge swamp rigid weasel chunk";

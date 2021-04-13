@@ -1,1 +1,1 @@
-var mnemonic = "wall mesh century helmet coyote tattoo want twice nation bus reflect nest";
+var mnemonic = "chicken ecology erosion vintage ordinary ghost already motion alert citizen critic staff";

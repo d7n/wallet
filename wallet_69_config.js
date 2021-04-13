@@ -1,1 +1,1 @@
-var mnemonic = "trumpet shrimp pumpkin army honey relax affair cook good profit surround spirit";
+var mnemonic = "ozone mammal exchange heart south crunch witness laugh envelope sick carpet door";

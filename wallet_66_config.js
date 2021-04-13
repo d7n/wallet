@@ -1,1 +1,1 @@
-var mnemonic = "toddler maple health boost cinnamon scheme speak awake vicious gaze banana gym";
+var mnemonic = "nasty canal rich crunch sadness twice column dove arrange fault they siren";

@@ -1,1 +1,1 @@
-var mnemonic = "birth onion artwork series village observe man chef strong flush monitor clarify";
+var mnemonic = "noodle keen include sing shrug element gather cabbage measure spray orphan lounge";

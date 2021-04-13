@@ -1,1 +1,1 @@
-var mnemonic = "royal snap weapon tone genius runway divide climb avocado oven sting knife";
+var mnemonic = "absurd impulse tail stick liquid kind state people omit inch pride turtle";

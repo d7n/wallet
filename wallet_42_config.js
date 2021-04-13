@@ -1,1 +1,1 @@
-var mnemonic = "antique zoo boost endorse interest lava smooth coffee add deer liquid improve";
+var mnemonic = "flee lava later flock detect same choice now broken fire mercy weird";

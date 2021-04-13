@@ -1,1 +1,1 @@
-var mnemonic = "sail please culture sleep cloud version narrow mind unfold timber blouse muffin";
+var mnemonic = "goat example skirt rate minute garbage champion hip exchange until engine inch";

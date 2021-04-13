@@ -1,1 +1,1 @@
-var mnemonic = "bean genre left nice wash vanish harsh text dad purchase attend degree";
+var mnemonic = "hip lounge film general aware someone bitter scorpion december sister dutch runway";

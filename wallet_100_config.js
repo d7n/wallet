@@ -1,1 +1,1 @@
-var mnemonic = "rent gadget dwarf reflect attitude lake medal canal skate south age walk";
+var mnemonic = "mouse problem silk parent prosper narrow second devote grief trend canyon blast";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe source zoo task quarter unfold vote drift arrive shock quarter festival";
+var mnemonic = "autumn leisure hand vapor guilt cigar slam keen shy grief vast nature";

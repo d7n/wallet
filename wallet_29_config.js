@@ -1,1 +1,1 @@
-var mnemonic = "toddler comic sock shine eternal laundry bench bulk clip able ceiling neutral";
+var mnemonic = "series unveil shock shuffle six exclude decline island jar vapor when cargo";

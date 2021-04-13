@@ -1,1 +1,1 @@
-var mnemonic = "clever certain board dust deer depth charge cage kidney tourist retire pudding";
+var mnemonic = "traffic give spoil grow sail shock bid car garlic side reform differ";

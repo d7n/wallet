@@ -1,1 +1,1 @@
-var mnemonic = "about kidney student sausage piano rival liar digital resource cage fish menu";
+var mnemonic = "live hollow reject cruise unknown depend great much globe acid unknown cycle";

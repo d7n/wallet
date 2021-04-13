@@ -1,1 +1,1 @@
-var mnemonic = "control tackle silly virus awake banana salon safe puppy check crowd peasant";
+var mnemonic = "canyon ski festival catch smile phrase close mesh entry city proud warrior";

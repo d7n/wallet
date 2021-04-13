@@ -1,1 +1,1 @@
-var mnemonic = "will holiday dry slot concert empower actress omit park city ladder olive";
+var mnemonic = "gossip pulp mind knock helmet start nasty sponsor fox someone shallow post";

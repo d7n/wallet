@@ -1,1 +1,1 @@
-var mnemonic = "onion typical thing raven horror bean salute brief shove weird intact prize";
+var mnemonic = "rude damage people wet undo dawn spatial become one figure gun fix";

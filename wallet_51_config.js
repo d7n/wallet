@@ -1,1 +1,1 @@
-var mnemonic = "display fragile foot sheriff first first enter tape sail ramp liar ceiling";
+var mnemonic = "food canvas grass slab acid sustain dynamic dish buyer coffee exotic debate";

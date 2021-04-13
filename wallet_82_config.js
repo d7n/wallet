@@ -1,1 +1,1 @@
-var mnemonic = "call olive margin awful actual become present term raise common power monkey";
+var mnemonic = "unusual hand start cloud element measure patient tired position stool antique truck";

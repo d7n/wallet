@@ -1,1 +1,1 @@
-var mnemonic = "enforce cliff manual display sign cart yellow swamp blade cake cream knife";
+var mnemonic = "drop hundred poem pepper business cave system motion later saddle art wealth";

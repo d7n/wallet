@@ -1,1 +1,1 @@
-var mnemonic = "local cram lion sniff strategy buzz win dirt profit nerve midnight item";
+var mnemonic = "tomato aunt cannon danger spray pact aim mushroom stem habit crater elephant";

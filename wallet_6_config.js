@@ -1,1 +1,1 @@
-var mnemonic = "sugar artwork unit buzz plunge shy adapt asset celery throw diagram fuel";
+var mnemonic = "noodle federal neither frog organ fox flat canyon rural spike diet raw";

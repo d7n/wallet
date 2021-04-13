@@ -1,1 +1,1 @@
-var mnemonic = "detail limit danger reason garlic dirt moon day client chase keen scorpion";
+var mnemonic = "add betray fly tattoo lens group forum grass name burger dose regular";

@@ -1,1 +1,1 @@
-var mnemonic = "image radar profit eight arena shallow whip brother lizard inflict helmet monkey";
+var mnemonic = "mixture people knife coast grit work club equal radio thrive enroll twice";

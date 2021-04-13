@@ -1,1 +1,1 @@
-var mnemonic = "delay milk normal sorry oyster enable patrol make depart pull only clock";
+var mnemonic = "stumble small wrist version pass depart waste pretty feed scan eagle awake";

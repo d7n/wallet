@@ -1,1 +1,1 @@
-var mnemonic = "puppy little glance gun dust music sorry move pepper salute code style";
+var mnemonic = "olive under filter frog amateur logic occur ignore tired uphold gossip please";

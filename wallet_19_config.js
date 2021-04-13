@@ -1,1 +1,1 @@
-var mnemonic = "speed must salmon paper build amazing audit brush grant shoe tower boost";
+var mnemonic = "plate brain rely cannon math liquid useless exercise example age camera rain";

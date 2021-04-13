@@ -1,1 +1,1 @@
-var mnemonic = "jewel liberty front wink cannon employ save dragon almost return comic cruel";
+var mnemonic = "bar donate hurdle toy reopen nut popular satisfy draw garment tomorrow subway";

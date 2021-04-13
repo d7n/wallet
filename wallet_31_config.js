@@ -1,1 +1,1 @@
-var mnemonic = "depend column slender boost since hat decline record super scorpion maid close";
+var mnemonic = "depend shoe aware lawn sweet muffin plunge thought body erupt help urban";

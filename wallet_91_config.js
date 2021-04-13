@@ -1,1 +1,1 @@
-var mnemonic = "spray radio sing start tissue accuse slow pond best young castle coyote";
+var mnemonic = "region atom decline birth area payment warrior slam diet monster scheme luxury";

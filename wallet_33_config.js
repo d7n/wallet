@@ -1,1 +1,1 @@
-var mnemonic = "loyal orient future blade flock flame donkey group swift erosion drip glimpse";
+var mnemonic = "harbor put predict traffic kitchen fresh gift scorpion pudding actual notice coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "capable gasp curtain crucial pipe wine couch cabin misery illness convince plastic";
+var mnemonic = "squeeze hat magnet hello cover vast account where off permit satoshi track";

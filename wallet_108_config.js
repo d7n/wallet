@@ -1,1 +1,1 @@
-var mnemonic = "cupboard blood milk erosion leave grass harsh photo soldier useful toast axis";
+var mnemonic = "voice history adapt pulp tired hunt cereal hidden canal mansion ecology help";

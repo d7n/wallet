@@ -1,1 +1,1 @@
-var mnemonic = "frame place among wall side before beauty salon early need miracle attitude";
+var mnemonic = "trim brand wide person castle whisper chapter city state love virtual despair";

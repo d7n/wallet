@@ -1,1 +1,1 @@
-var mnemonic = "result enrich section ethics kiwi consider present strong stone average caught wrestle";
+var mnemonic = "turn lab grocery ill install stereo noise token pilot correct plunge senior";

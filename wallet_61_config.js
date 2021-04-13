@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur echo situate say job govern depend brush sauce remind route lamp";
+var mnemonic = "defense spike large copper retreat patch stumble broken square tree canyon actress";

@@ -1,1 +1,1 @@
-var mnemonic = "sand strike grocery cream muscle window apart daring boil infant crowd trophy";
+var mnemonic = "sleep verb wire sunset arrest hundred truth staff decline predict submit craft";

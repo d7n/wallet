@@ -1,1 +1,1 @@
-var mnemonic = "east shiver slab lens input build fatigue hip energy whisper also spin";
+var mnemonic = "hover evil pencil harvest crucial ten wreck gun pitch budget fire network";

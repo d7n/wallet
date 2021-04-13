@@ -1,1 +1,1 @@
-var mnemonic = "machine recipe autumn wave attract term kitchen fury busy tray hurdle hunt";
+var mnemonic = "lunar tiny tortoise helmet chimney cost mix meadow glow orchard situate tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "fire hill soft detail team engage biology chat method runway torch more";
+var mnemonic = "glimpse always image hawk pill spell rigid uncle tattoo noodle capital decorate";
