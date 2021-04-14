@@ -1,1 +1,1 @@
-var mnemonic = "music put filter because there zoo accuse excuse crack swim school sadness";
+var mnemonic = "cabbage milk drama nature pepper pattern oval priority cave melody window industry";

@@ -1,1 +1,1 @@
-var mnemonic = "dream vague surround usual mystery clown helmet spray later that clean slow";
+var mnemonic = "behind armor program put feed umbrella carry clown vendor seven live captain";

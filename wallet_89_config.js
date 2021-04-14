@@ -1,1 +1,1 @@
-var mnemonic = "toward shock buyer gaze diagram mushroom blue there crater woman hair artwork";
+var mnemonic = "goddess cupboard either parade scale any dignity card action lunch rubber wish";

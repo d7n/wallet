@@ -1,1 +1,1 @@
-var mnemonic = "calm february ship skirt web valve orchard wood keep venue aisle liberty";
+var mnemonic = "ability income praise tired direct about remind loan frequent crush scale weapon";

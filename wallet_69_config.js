@@ -1,1 +1,1 @@
-var mnemonic = "fly record evolve control poem consider cream staff drip analyst awful connect";
+var mnemonic = "bubble already erode disagree goose jealous chronic submit final combine crunch salute";

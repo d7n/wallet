@@ -1,1 +1,1 @@
-var mnemonic = "mix vessel mule garbage glare satoshi strong aerobic flower rate snake question";
+var mnemonic = "veteran guitar wisdom seminar promote grunt calm mix tiger use silent claim";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose asset diesel arctic broken behave renew rude fan elite average patient";
+var mnemonic = "angry sleep scissors change jelly expand enroll wall rabbit move bullet grief";

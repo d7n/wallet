@@ -1,1 +1,1 @@
-var mnemonic = "siren place valley guide mirror action book split forest stem crew write";
+var mnemonic = "waste easy tiny dragon appear ghost satisfy catch crop nut address sure";

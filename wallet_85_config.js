@@ -1,1 +1,1 @@
-var mnemonic = "pulse biology artist ozone arrow inmate size base urge around match page";
+var mnemonic = "east empty fortune spare dolphin inmate assault peanut cloud curve hour stamp";

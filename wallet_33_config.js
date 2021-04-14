@@ -1,1 +1,1 @@
-var mnemonic = "huge silver kick curtain valid tribe crane clump dust slogan barely artwork";
+var mnemonic = "slight into rich kangaroo door manual album repeat law cable jump company";

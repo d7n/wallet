@@ -1,1 +1,1 @@
-var mnemonic = "possible defy peace athlete earn cloud shoe turtle pottery charge near genuine";
+var mnemonic = "gate world property tiny birth find gold canal anxiety raw night garden";

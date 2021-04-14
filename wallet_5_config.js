@@ -1,1 +1,1 @@
-var mnemonic = "salad ocean taxi bargain element suit blue swing hood fashion attack display";
+var mnemonic = "pepper ladder model pony inform apple truly only keen divert protect surround";

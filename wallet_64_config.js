@@ -1,1 +1,1 @@
-var mnemonic = "walk upset paper release glue option left approve frozen lecture feature little";
+var mnemonic = "finish violin unlock merry bounce tissue wisdom dress agree path robust october";

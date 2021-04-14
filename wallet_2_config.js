@@ -1,1 +1,1 @@
-var mnemonic = "gasp struggle enrich debris smooth two harsh finger speed muscle journey honey";
+var mnemonic = "fire initial awake broccoli dose country among wife rule decline school shift";

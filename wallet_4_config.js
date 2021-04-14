@@ -1,1 +1,1 @@
-var mnemonic = "horse hurry original simple actor parrot thank private involve popular raw debris";
+var mnemonic = "lunch curve defense brief bachelor goddess quick joke column slot agree orient";

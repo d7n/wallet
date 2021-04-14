@@ -1,1 +1,1 @@
-var mnemonic = "apart surprise hint wife recycle race taste abuse rib develop lion combine";
+var mnemonic = "next below dolphin repeat limit finish tail sting benefit hour sunny skull";

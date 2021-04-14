@@ -1,1 +1,1 @@
-var mnemonic = "vapor master poet lift define siren idea vendor left torch practice jewel";
+var mnemonic = "foster office tomorrow book slice bar fox vanish oyster mosquito liar helmet";

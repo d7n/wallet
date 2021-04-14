@@ -1,1 +1,1 @@
-var mnemonic = "rescue harbor injury knee vessel badge exit area safe sleep camp evidence";
+var mnemonic = "manage trouble fit lyrics lift sentence file add rotate nature curtain earn";

@@ -1,1 +1,1 @@
-var mnemonic = "enact nerve august crane reason siren camp embark pill snow victory what";
+var mnemonic = "size upon mule wink bridge useful develop goat universe three stamp detail";

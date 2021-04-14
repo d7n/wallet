@@ -1,1 +1,1 @@
-var mnemonic = "peanut regret please priority yellow bread outer lunch pole lawsuit ostrich swift";
+var mnemonic = "dynamic stuff since diagram volume aspect mad census young orange tackle silver";

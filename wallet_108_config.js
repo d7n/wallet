@@ -1,1 +1,1 @@
-var mnemonic = "donor flag slender verify valid rate tiger lobster marriage initial fruit blur";
+var mnemonic = "addict victory option owner ski census depart fork swim link top surface";

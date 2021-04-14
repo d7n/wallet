@@ -1,1 +1,1 @@
-var mnemonic = "aisle shy mixture rate zoo affair spike install leg nominee fault disease";
+var mnemonic = "glass ski proud rice cool nasty text rally problem input morning final";

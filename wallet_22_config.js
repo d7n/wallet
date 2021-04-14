@@ -1,1 +1,1 @@
-var mnemonic = "planet shoulder spin diet wild deputy split brave noise squirrel seat black";
+var mnemonic = "spell oppose happy inside gap perfect estate useless bomb jazz utility oxygen";

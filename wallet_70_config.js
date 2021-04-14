@@ -1,1 +1,1 @@
-var mnemonic = "link refuse plunge fossil jacket bundle success between prevent loan lecture truck";
+var mnemonic = "census diagram bleak coil stool palm rib clip drum music grief grace";

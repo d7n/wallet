@@ -1,1 +1,1 @@
-var mnemonic = "trigger suggest resource release viable bamboo grant decline rapid finger expire upgrade";
+var mnemonic = "advance fun else bid rescue cheap muscle road gaze connect change chest";

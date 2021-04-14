@@ -1,1 +1,1 @@
-var mnemonic = "arena thank elbow fragile theme lock enter expect escape giggle marine edge";
+var mnemonic = "flower diet trim cup vicious refuse fix anchor flight report client defense";

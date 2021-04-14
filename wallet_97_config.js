@@ -1,1 +1,1 @@
-var mnemonic = "govern raw six snack album author design half good garment cruise vital";
+var mnemonic = "settle still vault divorce same maze already fee execute snow decide shallow";

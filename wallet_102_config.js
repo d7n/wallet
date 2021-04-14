@@ -1,1 +1,1 @@
-var mnemonic = "perfect post cheese depend hungry enhance include blood piano innocent green head";
+var mnemonic = "coach decrease cost usage december sing mobile notice whip exchange panda resource";

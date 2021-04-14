@@ -1,1 +1,1 @@
-var mnemonic = "acquire brief slogan impact name siren try winter version rabbit double divert";
+var mnemonic = "february involve tone brass prepare cage dice truck bunker segment cart tribe";

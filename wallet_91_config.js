@@ -1,1 +1,1 @@
-var mnemonic = "skull whip wolf physical all flush solid cereal filter turtle panic fancy";
+var mnemonic = "flag addict tomato slight cancel seek prevent tilt jar parrot accuse slot";

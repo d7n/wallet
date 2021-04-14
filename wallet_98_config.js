@@ -1,1 +1,1 @@
-var mnemonic = "ostrich hub phone fork boss recycle receive frost wool hint horror feel";
+var mnemonic = "share twelve region ring mule oyster moment leave lady about gospel planet";

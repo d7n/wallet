@@ -1,1 +1,1 @@
-var mnemonic = "dice alley rule diary unveil radar possible crumble edge early vague used";
+var mnemonic = "aim repeat science false crack pink ritual crush theory grief near fault";

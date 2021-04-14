@@ -1,1 +1,1 @@
-var mnemonic = "taxi divert parent color myth fine sample life high inner drum kit";
+var mnemonic = "sport owner patrol path truth delay bonus random palace loud awake tuition";

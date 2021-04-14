@@ -1,1 +1,1 @@
-var mnemonic = "surge warfare rival crime reward chest inspire again scorpion exchange sick quiz";
+var mnemonic = "develop wild sudden tray people trim balance suffer document report pig bar";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy adult screen athlete detail tenant noble dinner movie mix odor demise";
+var mnemonic = "hybrid brother bid machine tumble praise humble noise prefer myself prevent amused";

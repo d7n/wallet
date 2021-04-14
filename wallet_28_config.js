@@ -1,1 +1,1 @@
-var mnemonic = "motor boss more fluid surround smooth cost mosquito right kitchen three toss";
+var mnemonic = "beauty cereal profit swim soup better student paddle stomach gauge purse sock";

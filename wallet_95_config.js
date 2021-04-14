@@ -1,1 +1,1 @@
-var mnemonic = "festival transfer promote favorite anxiety sketch defense inform clog brass field company";
+var mnemonic = "cousin table tumble sausage keen cushion drill october pipe february comic hood";

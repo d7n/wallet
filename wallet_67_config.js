@@ -1,1 +1,1 @@
-var mnemonic = "lake clay robust manual glimpse void tongue moon visit apple artefact carbon";
+var mnemonic = "nature stool unlock slush goat conduct trash special law figure ridge embody";

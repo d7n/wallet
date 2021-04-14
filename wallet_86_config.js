@@ -1,1 +1,1 @@
-var mnemonic = "modify eight diagram trend struggle laundry dawn flat find absurd report mad";
+var mnemonic = "ceiling deliver explain seminar cause pill slab lounge chase swap erupt ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "young matter laugh race snake artefact tilt parade wrong property genuine neglect";
+var mnemonic = "wheel elephant they among decline column glass demise quarter gallery drive source";

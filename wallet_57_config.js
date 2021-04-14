@@ -1,1 +1,1 @@
-var mnemonic = "song burden adjust hour cram floor price canvas flee erode silly genuine";
+var mnemonic = "lemon model assault plastic unique method gauge position road stairs tape solid";

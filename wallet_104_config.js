@@ -1,1 +1,1 @@
-var mnemonic = "tank enter learn predict unit upper client galaxy banana illness drama adult";
+var mnemonic = "blossom tag amount goddess security brass violin umbrella mango domain hammer such";

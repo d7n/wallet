@@ -1,1 +1,1 @@
-var mnemonic = "relief chicken bring vapor coach quit cloud alcohol grass pull tennis drill";
+var mnemonic = "proof lava include wreck smile erosion toy elbow crucial silk pass belt";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred spread shop puppy evidence food knock secret illegal fortune flee mystery";
+var mnemonic = "network pond artist face emerge sad kingdom dumb fantasy gossip sea clarify";

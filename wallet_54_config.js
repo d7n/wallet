@@ -1,1 +1,1 @@
-var mnemonic = "another strike bomb south elbow subject minimum teach try midnight pill glad";
+var mnemonic = "bag talent cave rotate defense film magic web success reject walnut claim";

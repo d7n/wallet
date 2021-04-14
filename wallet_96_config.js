@@ -1,1 +1,1 @@
-var mnemonic = "gloom warfare village raccoon puzzle erode attack huge message edit drift begin";
+var mnemonic = "mirror raw lake long run now sugar forward unique perfect reject post";

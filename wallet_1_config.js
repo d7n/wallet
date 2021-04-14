@@ -1,1 +1,1 @@
-var mnemonic = "wheel enter benefit rookie profit gaze pizza knife leg eager east eyebrow";
+var mnemonic = "practice raise rotate another return slide hazard struggle tag rude twelve pelican";

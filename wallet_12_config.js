@@ -1,1 +1,1 @@
-var mnemonic = "vehicle bacon job tone cup pact occur alert warfare spider injury cram";
+var mnemonic = "clutch renew bomb dose timber arrange endorse across cause royal margin curve";

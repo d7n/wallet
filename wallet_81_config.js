@@ -1,1 +1,1 @@
-var mnemonic = "ecology taste follow salon marble honey party indicate stove rescue aisle junk";
+var mnemonic = "screen twist layer guitar boil video relief impact toe flower control dose";

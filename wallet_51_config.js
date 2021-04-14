@@ -1,1 +1,1 @@
-var mnemonic = "festival bleak peanut decide dash lobster cotton lazy bright trim medal cream";
+var mnemonic = "oak leaf floor ginger father green myself edge response bulk genre two";

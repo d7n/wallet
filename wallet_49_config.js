@@ -1,1 +1,1 @@
-var mnemonic = "denial father glad heart slow fabric awake fresh unit day victory royal";
+var mnemonic = "goat subject walk staff fatigue material hat square quit myself work main";

@@ -1,1 +1,1 @@
-var mnemonic = "youth still improve citizen animal stove old remember mistake minor catch flat";
+var mnemonic = "excuse just bullet theory blush drive quantum robust grab piano acoustic beef";

@@ -1,1 +1,1 @@
-var mnemonic = "order spy sausage where isolate priority girl engage when nation device busy";
+var mnemonic = "story flight slide lunar tide pet scene pen announce blast curve you";

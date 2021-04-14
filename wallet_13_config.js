@@ -1,1 +1,1 @@
-var mnemonic = "lady someone sponsor figure piece pistol then club robot worry net emerge";
+var mnemonic = "minute exact middle debate story wrist logic nose speed consider pupil admit";

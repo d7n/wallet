@@ -1,1 +1,1 @@
-var mnemonic = "try camera mom ramp grunt renew differ snow behave convince debate record";
+var mnemonic = "trim entry paddle effort dinner velvet wire another world check champion glance";

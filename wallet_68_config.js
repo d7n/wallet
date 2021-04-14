@@ -1,1 +1,1 @@
-var mnemonic = "husband army enrich satoshi okay certain cute keep patient virus nice height";
+var mnemonic = "ski put orient cheese opera dash stuff affair fantasy prison wrong bottom";

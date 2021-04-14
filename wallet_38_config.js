@@ -1,1 +1,1 @@
-var mnemonic = "tube young electric ostrich poet please fresh escape jungle oxygen domain parent";
+var mnemonic = "carbon glide expect scorpion jeans outer drama practice view federal actress bring";

@@ -1,1 +1,1 @@
-var mnemonic = "lift bag mutual swallow final merit burden outdoor door clip eagle wolf";
+var mnemonic = "tail paper creek derive renew penalty spot normal crane fancy top welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "cost name cave knife impose task witness provide cactus settle when skull";
+var mnemonic = "dune notice noodle common gentle weasel aisle work cake reason tiger twenty";

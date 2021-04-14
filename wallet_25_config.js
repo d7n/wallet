@@ -1,1 +1,1 @@
-var mnemonic = "quality orphan salute mask salt image elbow baby fly deny own merry";
+var mnemonic = "high pill gap brother employ over yard hair prevent cricket raven charge";

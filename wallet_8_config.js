@@ -1,1 +1,1 @@
-var mnemonic = "clean spider scale noise radar reopen floor school present retreat use use";
+var mnemonic = "game thing start follow anxiety surge then tower reject rely inmate claim";

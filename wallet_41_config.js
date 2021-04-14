@@ -1,1 +1,1 @@
-var mnemonic = "then demise sadness bundle produce release actual hundred ask aspect honey prepare";
+var mnemonic = "subject stamp average donate brother cousin theme head race spend employ exist";

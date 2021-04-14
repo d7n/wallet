@@ -1,1 +1,1 @@
-var mnemonic = "top opera dolphin love unique lazy raccoon actress agree evolve syrup measure";
+var mnemonic = "busy bonus sight order body census practice fatal plastic dentist about busy";

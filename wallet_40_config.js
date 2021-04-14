@@ -1,1 +1,1 @@
-var mnemonic = "cry proof remember boring throw fold mom snap deny engage dish say";
+var mnemonic = "drop later bless canyon airport chase number flag acid crash silver auction";

@@ -1,1 +1,1 @@
-var mnemonic = "sword employ insect sustain arm try forest apology team inform arena chase";
+var mnemonic = "game trash hazard fork museum apart salad motion cake erode book venture";

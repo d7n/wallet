@@ -1,1 +1,1 @@
-var mnemonic = "travel party repair friend question oil priority panic pyramid cattle question setup";
+var mnemonic = "write impact hamster fire credit sound exclude else title silk develop adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin source virtual rotate term match accuse machine sunny salad weasel spoil";
+var mnemonic = "palace actor assist juice whisper produce bullet inspire exhaust robust congress illness";

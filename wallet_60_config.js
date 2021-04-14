@@ -1,1 +1,1 @@
-var mnemonic = "tunnel wood funny arctic project pluck street slide elegant sense length sock";
+var mnemonic = "artwork flight tribe whisper dinosaur maple coin visual always letter wasp wood";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure slight face identify blade museum elevator tree make glue dentist dish";
+var mnemonic = "question develop virus safe sound west flower seat vivid jealous nose poet";

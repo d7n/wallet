@@ -1,1 +1,1 @@
-var mnemonic = "dream unhappy chair shiver picture protect govern family thought any sad replace";
+var mnemonic = "sick daughter indicate thunder theme entire rifle moon dawn embrace try loan";

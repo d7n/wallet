@@ -1,1 +1,1 @@
-var mnemonic = "crunch insane tag eyebrow indoor lake woman nuclear abstract sponsor rail poet";
+var mnemonic = "domain wise gym rule luggage clip duck laptop equal average spawn talk";

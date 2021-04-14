@@ -1,1 +1,1 @@
-var mnemonic = "uniform tissue deer mammal switch boost subject spin grant list diary quiz";
+var mnemonic = "pill business protect round ship chat melody fancy donkey boil bubble tail";

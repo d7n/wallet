@@ -1,1 +1,1 @@
-var mnemonic = "submit never elite laugh sausage will bronze method turtle diagram position such";
+var mnemonic = "brief cushion cherry alien obtain deny story manage version side want evil";

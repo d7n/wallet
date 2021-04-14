@@ -1,1 +1,1 @@
-var mnemonic = "satoshi joy fetch dance wage nurse anchor error craft category traffic shoot";
+var mnemonic = "unusual final million guard someone eight island coconut illegal retire invite hospital";

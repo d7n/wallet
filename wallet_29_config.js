@@ -1,1 +1,1 @@
-var mnemonic = "army kiwi table humble orchard solution fashion congress radar eight fade scatter";
+var mnemonic = "junior demise disorder weekend ceiling case manage satisfy lounge bracket crack glory";

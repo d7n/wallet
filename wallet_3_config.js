@@ -1,1 +1,1 @@
-var mnemonic = "legend push comfort castle slam often book horse mule parent large remind";
+var mnemonic = "popular among fantasy quick trade bind gossip split swallow rocket once position";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote hello client ancient breeze outer gesture loan obscure inner month sudden";
+var mnemonic = "silver use plastic memory cricket table frost unit rabbit shoot wise defense";

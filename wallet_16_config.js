@@ -1,1 +1,1 @@
-var mnemonic = "border injury kiss monster biology explain trial escape powder journey shadow page";
+var mnemonic = "lobster grain tackle all casual violin humble leg rail fragile various strong";

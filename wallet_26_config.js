@@ -1,1 +1,1 @@
-var mnemonic = "under trick wrap village odor shove deputy cluster emotion pattern unhappy question";
+var mnemonic = "shrimp gold radio wave clog rain hammer stem brisk cloth always amateur";

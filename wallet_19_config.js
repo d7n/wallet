@@ -1,1 +1,1 @@
-var mnemonic = "security hedgehog anchor snake garment cave craft property cube police eyebrow balcony";
+var mnemonic = "shock burst average concert drift main cup plunge same enrich appear cry";

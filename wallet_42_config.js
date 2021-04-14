@@ -1,1 +1,1 @@
-var mnemonic = "bubble usual stand beach license manage prefer mercy lemon rib talent sunset";
+var mnemonic = "van heavy glance wedding diagram away gate color horn virus congress liar";

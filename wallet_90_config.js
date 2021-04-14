@@ -1,1 +1,1 @@
-var mnemonic = "sock exile also electric exclude normal space bean nation script okay climb";
+var mnemonic = "already six globe egg web walk couch close filter hidden slush country";
