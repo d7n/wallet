@@ -1,1 +1,1 @@
-var mnemonic = "short emotion crew kick quiz tribe tip diagram sick cost acquire peace";
+var mnemonic = "print pyramid tide oven vote chief spot belt weasel walk elephant eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "hire inner convince rubber pledge ocean general flag flavor gauge desk soda";
+var mnemonic = "certain athlete strike slice enjoy copy plunge private gain illness invest curious";

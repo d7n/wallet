@@ -1,1 +1,1 @@
-var mnemonic = "popular mean worry mandate ordinary junior rule profit leopard school glove card";
+var mnemonic = "alone prosper word silk borrow exhaust double boring mask jacket code shaft";

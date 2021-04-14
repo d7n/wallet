@@ -1,1 +1,1 @@
-var mnemonic = "tongue word memory want spare snack order canyon other firm fresh library";
+var mnemonic = "grocery rule color olympic talent source enjoy miss reform youth sunny soup";

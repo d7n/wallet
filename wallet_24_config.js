@@ -1,1 +1,1 @@
-var mnemonic = "middle hair sea bright shallow hungry right palm deliver plunge visual denial";
+var mnemonic = "pulse utility idle honey course hawk miracle prison kitchen arrow music venue";

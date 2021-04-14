@@ -1,1 +1,1 @@
-var mnemonic = "novel album allow mask phrase syrup future shoe manual arctic gauge begin";
+var mnemonic = "potato sketch velvet dwarf canal voyage crazy sign quiz million more marriage";

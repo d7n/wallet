@@ -1,1 +1,1 @@
-var mnemonic = "trade few tackle rely half clip sudden rhythm wall title industry lyrics";
+var mnemonic = "insect peasant math wonder subject pink clean orange fantasy someone post average";

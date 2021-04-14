@@ -1,1 +1,1 @@
-var mnemonic = "public relax salad pelican salad parent skin deliver syrup offer solution hair";
+var mnemonic = "prevent hidden nasty toilet crane speak live wrap wine mirror shrimp copy";

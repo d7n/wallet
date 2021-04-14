@@ -1,1 +1,1 @@
-var mnemonic = "quiz owner unusual famous portion behind oval teach crawl magnet orchard false";
+var mnemonic = "gap voyage shrimp minimum tiger adult leave own harbor grid mosquito audit";

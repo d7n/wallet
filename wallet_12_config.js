@@ -1,1 +1,1 @@
-var mnemonic = "young announce truck service wasp winner reunion airport champion arctic style able";
+var mnemonic = "eyebrow parrot actor proof flower true humor tuition initial search host shine";

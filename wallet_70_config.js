@@ -1,1 +1,1 @@
-var mnemonic = "hollow observe merry keen twist cancel please whisper write chapter same display";
+var mnemonic = "steel box torch floor eyebrow logic cotton warm apology hint tissue beauty";

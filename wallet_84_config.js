@@ -1,1 +1,1 @@
-var mnemonic = "wash outside puppy fish make badge enroll brave manage trophy soldier fatigue";
+var mnemonic = "misery welcome ticket kind spike law morning hair type output since hard";

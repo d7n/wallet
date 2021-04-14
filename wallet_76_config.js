@@ -1,1 +1,1 @@
-var mnemonic = "improve soda orient feel tennis note second end diet talk hair video";
+var mnemonic = "across whisper cabbage joy silent pottery boss license conduct air lab harbor";

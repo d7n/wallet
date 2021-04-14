@@ -1,1 +1,1 @@
-var mnemonic = "shed neither toss income moment fault orchard wing fit dry secret clump";
+var mnemonic = "country have nerve rail river major welcome general smart smooth tool stay";

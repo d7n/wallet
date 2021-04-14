@@ -1,1 +1,1 @@
-var mnemonic = "gloom hockey seek hazard wave mom cloud off axis brave warrior open";
+var mnemonic = "speak lion voyage argue category object ready raise couch double ring daughter";

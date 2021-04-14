@@ -1,1 +1,1 @@
-var mnemonic = "mandate lady nephew poet pioneer fringe meadow together gallery select fee people";
+var mnemonic = "fuel pelican best capable occur use sock street maximum gallery because jeans";

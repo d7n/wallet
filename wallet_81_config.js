@@ -1,1 +1,1 @@
-var mnemonic = "glove medal begin ladder all segment crash fringe evil castle priority chapter";
+var mnemonic = "casino good embody orbit couple blossom slender else attack hunt myth glance";

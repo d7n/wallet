@@ -1,1 +1,1 @@
-var mnemonic = "type layer area wing spawn attract ski domain drop inject tragic advice";
+var mnemonic = "cross castle deposit train isolate gaze shrimp labor retreat ketchup feed primary";

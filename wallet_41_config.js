@@ -1,1 +1,1 @@
-var mnemonic = "crater romance hour shed cube upper fame wasp length organ room brass";
+var mnemonic = "absorb truth celery pulse toddler rescue excuse similar copy impulse wink escape";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut lecture undo tuition notice dinosaur debris pond letter evoke feed champion";
+var mnemonic = "ugly sibling index scatter area whale just assist chronic waste job fiber";

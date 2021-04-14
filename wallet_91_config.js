@@ -1,1 +1,1 @@
-var mnemonic = "manual noise vague above pumpkin tuna client invest obtain coil connect stem";
+var mnemonic = "harvest interest hair violin hockey rack analyst pony able mule hurt oppose";

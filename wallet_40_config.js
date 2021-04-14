@@ -1,1 +1,1 @@
-var mnemonic = "company pioneer one wife candy bone chair token increase juice arrow gift";
+var mnemonic = "print easily lady tattoo vehicle cool latin soft motor infant where local";

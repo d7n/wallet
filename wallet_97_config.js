@@ -1,1 +1,1 @@
-var mnemonic = "twin column city tragic purpose ugly motion analyst hold scheme crucial october";
+var mnemonic = "relax jewel pony smooth scheme system express myself burger close clap chapter";

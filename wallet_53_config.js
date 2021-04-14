@@ -1,1 +1,1 @@
-var mnemonic = "laugh object drip trim half mango kangaroo army tiger tiger mixed pony";
+var mnemonic = "film tired feed expose stuff orphan property melody decade rally toast rigid";

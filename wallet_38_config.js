@@ -1,1 +1,1 @@
-var mnemonic = "matter man color light embody repeat weird lobster solution board erode public";
+var mnemonic = "blue swap cupboard enact train grace lecture fatal one salon morning forum";

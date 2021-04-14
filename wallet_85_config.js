@@ -1,1 +1,1 @@
-var mnemonic = "uncover acid accuse visual sausage sausage collect laugh clock laundry hen dilemma";
+var mnemonic = "hunt pattern peanut scan drama pencil skate element canyon volcano gentle spy";

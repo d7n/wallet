@@ -1,1 +1,1 @@
-var mnemonic = "asthma purpose team margin coil violin distance good huge battle love maximum";
+var mnemonic = "virus collect question cute tip unusual merit special round doctor rebel exhibit";

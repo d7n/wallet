@@ -1,1 +1,1 @@
-var mnemonic = "glad health street shy feed into hockey found screen engage average possible";
+var mnemonic = "tumble pupil resemble awkward remind use caught uphold rose attack regular range";

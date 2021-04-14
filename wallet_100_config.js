@@ -1,1 +1,1 @@
-var mnemonic = "believe mesh milk feed silly hundred fashion garden sugar crane cricket catalog";
+var mnemonic = "puppy pair parade pencil sniff swift hurry stay stock tomorrow error quantum";

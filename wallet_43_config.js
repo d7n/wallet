@@ -1,1 +1,1 @@
-var mnemonic = "imitate sad broom plate digital crane nephew witness february wish picnic there";
+var mnemonic = "discover chimney chalk express web basket hungry doll unable shed make payment";

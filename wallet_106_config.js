@@ -1,1 +1,1 @@
-var mnemonic = "park super muffin battle welcome unusual regret deny hunt arrest silver glad";
+var mnemonic = "physical smoke since drum uncle gold original huge achieve brush canoe kiss";

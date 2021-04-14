@@ -1,1 +1,1 @@
-var mnemonic = "knock author puppy wine network luggage marine ceiling weapon glimpse skull decrease";
+var mnemonic = "celery monitor luggage gift spawn work library settle vacuum fabric ahead jungle";

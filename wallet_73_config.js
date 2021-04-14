@@ -1,1 +1,1 @@
-var mnemonic = "excess sleep connect view mutual frost oblige trip beauty brain health promote";
+var mnemonic = "toy post canoe uncover exact hawk lawn helmet drip flower spread west";

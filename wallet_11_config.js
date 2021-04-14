@@ -1,1 +1,1 @@
-var mnemonic = "diary rich region net weird expire dose pistol page unhappy category gallery";
+var mnemonic = "correct across chief inmate picnic own hint under lyrics ceiling ask cruel";

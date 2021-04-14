@@ -1,1 +1,1 @@
-var mnemonic = "puppy fossil lawn liar transfer sure federal sudden lend cannon sad glass";
+var mnemonic = "just brick turn alert lunar carry milk detect benefit biology country actor";

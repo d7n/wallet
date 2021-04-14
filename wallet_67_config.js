@@ -1,1 +1,1 @@
-var mnemonic = "tomato stadium brisk dinosaur trumpet pull caught cheese legal denial ranch still";
+var mnemonic = "wrestle economy snow floor weekend online sing ivory exclude casino have kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor elephant rebel cloth public prepare twelve usual noise process elevator doctor";
+var mnemonic = "review adult coral word safe village usual retire enroll future flock because";

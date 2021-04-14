@@ -1,1 +1,1 @@
-var mnemonic = "liar stuff lunch snap hill naive abandon appear ritual glad fiscal forget";
+var mnemonic = "can reunion cradle reduce peanut slab bamboo sheriff wonder thought crack under";

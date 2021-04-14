@@ -1,1 +1,1 @@
-var mnemonic = "tiger spin price rigid reveal document sleep clever meadow escape alone enroll";
+var mnemonic = "wagon toy series work fog assist image address boost embody armed acoustic";

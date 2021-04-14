@@ -1,1 +1,1 @@
-var mnemonic = "miss ensure climb canyon donate target morning horror ancient throw license truth";
+var mnemonic = "awful gain civil guitar loud define dinosaur alert galaxy tourist ecology spread";

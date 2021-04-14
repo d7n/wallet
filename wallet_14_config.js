@@ -1,1 +1,1 @@
-var mnemonic = "rug pipe nurse simple ordinary morning menu width reason lecture clock year";
+var mnemonic = "wheel autumn wear cross shell run hold hour prison defy crew crash";

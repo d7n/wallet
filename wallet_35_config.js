@@ -1,1 +1,1 @@
-var mnemonic = "above tag discover reform wool kind three misery sponsor dumb song soup";
+var mnemonic = "news raven pencil slim meat you chaos swing afraid piano fury icon";

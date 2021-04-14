@@ -1,1 +1,1 @@
-var mnemonic = "pull mirror raise point shop major dynamic toilet across lobster lawsuit mouse";
+var mnemonic = "atom salmon company valid shift gaze appear blind trim art stay trash";

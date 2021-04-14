@@ -1,1 +1,1 @@
-var mnemonic = "fold hedgehog warfare knee cactus fly ridge inhale deer visit retreat bulk";
+var mnemonic = "review upon patrol cart wealth swarm help glow shield soft veteran close";

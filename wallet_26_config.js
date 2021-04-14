@@ -1,1 +1,1 @@
-var mnemonic = "must weasel sing foster social double latin someone wheel engage cricket surround";
+var mnemonic = "grace dash poet stay shadow raise middle negative matrix sell retire floor";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon defense ginger panel chef decline banner pear very entire trigger tree";
+var mnemonic = "flower private food garment maid surprise shoot lonely project ten blade pig";

@@ -1,1 +1,1 @@
-var mnemonic = "woman chuckle curve blood junior base embark giggle pretty shrimp drastic blast";
+var mnemonic = "invest unknown domain genre common sun topic grant scissors pull immense social";

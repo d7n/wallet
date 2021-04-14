@@ -1,1 +1,1 @@
-var mnemonic = "marine powder real gap deny stick syrup across judge female body lobster";
+var mnemonic = "crunch acoustic bring rabbit gossip sheriff report robot rally movie sell idle";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon valley carpet mammal change stove fringe mom blast then sure destroy";
+var mnemonic = "deny wink vocal dish result original guitar crouch eager then render layer";

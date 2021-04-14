@@ -1,1 +1,1 @@
-var mnemonic = "achieve okay snack hero squeeze electric bring error matrix flavor will bar";
+var mnemonic = "guitar evolve expire explain popular girl dumb bitter same country window volcano";

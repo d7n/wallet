@@ -1,1 +1,1 @@
-var mnemonic = "embody trouble once mixture leg predict pact voyage address planet music current";
+var mnemonic = "laundry bachelor save purse current surge skin output perfect trade happy cart";

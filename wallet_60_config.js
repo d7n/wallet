@@ -1,1 +1,1 @@
-var mnemonic = "loan engage rose guide moral lake spell female leader congress fat bright";
+var mnemonic = "pair mercy urge clip analyst satisfy sound farm wage problem attend task";

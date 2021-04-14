@@ -1,1 +1,1 @@
-var mnemonic = "neutral timber day armed adjust uncle insect chunk velvet believe fiction excite";
+var mnemonic = "vendor shrimp ship session rhythm horn phrase almost share gospel they juice";

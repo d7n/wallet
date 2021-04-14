@@ -1,1 +1,1 @@
-var mnemonic = "thrive spend choose reform seminar plunge stove sting tent hair play car";
+var mnemonic = "neck raise chimney pitch damage educate romance hello hammer clown hundred vicious";

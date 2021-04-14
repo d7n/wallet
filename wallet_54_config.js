@@ -1,1 +1,1 @@
-var mnemonic = "endless vocal gadget decide sunny upon twin subject erase swap cover dry";
+var mnemonic = "power orient athlete stock maximum fine dish margin glance welcome pitch liquid";

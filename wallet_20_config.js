@@ -1,1 +1,1 @@
-var mnemonic = "ocean idle cinnamon next wrong meat ridge notable robust source tilt lucky";
+var mnemonic = "warrior tomato helmet forward green year curtain bounce oak city like crawl";

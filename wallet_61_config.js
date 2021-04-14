@@ -1,1 +1,1 @@
-var mnemonic = "oak leopard fault pen replace slight inhale what awake novel chest orbit";
+var mnemonic = "oppose ritual stand help increase bind hub key cake basket lawn distance";

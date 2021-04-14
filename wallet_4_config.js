@@ -1,1 +1,1 @@
-var mnemonic = "fly inner tuna unveil poem pull sketch mask leg any pony puppy";
+var mnemonic = "because cycle phrase code yard sword warrior amused post shrimp forum that";

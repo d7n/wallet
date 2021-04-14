@@ -1,1 +1,1 @@
-var mnemonic = "pattern later token paddle embrace jewel swallow sad across catalog ecology return";
+var mnemonic = "trust brand urge globe during sell move lift bicycle toy estate bargain";

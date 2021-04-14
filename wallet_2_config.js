@@ -1,1 +1,1 @@
-var mnemonic = "pill drive glory visa bicycle wait decorate abandon together welcome error pupil";
+var mnemonic = "peasant escape wink require cause avocado friend blue soap consider endorse release";

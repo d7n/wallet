@@ -1,1 +1,1 @@
-var mnemonic = "sand phone glance have awkward charge roof patrol oyster gate program fault";
+var mnemonic = "awful search gallery cigar juice awesome already daring saddle napkin mother gloom";

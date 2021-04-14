@@ -1,1 +1,1 @@
-var mnemonic = "perfect party afford manual drill latin bachelor coyote protect magnet monitor track";
+var mnemonic = "oyster canyon wet ocean proud repair hotel stumble assume near decline finger";

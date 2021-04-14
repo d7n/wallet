@@ -1,1 +1,1 @@
-var mnemonic = "demise aim alone large output panic current wonder cream fix ivory pumpkin";
+var mnemonic = "cake hybrid follow wood twelve fish dress fringe melt gloom arrange rather";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery riot tomato concert tent garlic syrup bundle worth salmon duck false";
+var mnemonic = "elbow duty version happy warrior domain giraffe fashion worth index team income";

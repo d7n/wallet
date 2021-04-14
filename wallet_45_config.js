@@ -1,1 +1,1 @@
-var mnemonic = "oxygen ski elegant figure equip under door special cart fluid click debris";
+var mnemonic = "tube attend cactus love industry found juice base romance mother oil garlic";

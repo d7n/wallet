@@ -1,1 +1,1 @@
-var mnemonic = "flush feature angle one mad predict fall mom person cover relief rare";
+var mnemonic = "escape resemble sample real elite remember drink shop marine gift crop grace";

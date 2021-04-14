@@ -1,1 +1,1 @@
-var mnemonic = "elder relax blue gaze cube youth magic beach throw human tooth orchard";
+var mnemonic = "pig employ start wealth print bus give broken city cluster cheese lawsuit";

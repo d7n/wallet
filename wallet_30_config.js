@@ -1,1 +1,1 @@
-var mnemonic = "just pass merge hold price doctor sell air bundle lunar express unique";
+var mnemonic = "coach cruise shaft cricket attract category update world save fine chair hint";

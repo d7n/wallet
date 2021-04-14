@@ -1,1 +1,1 @@
-var mnemonic = "exercise dish pulp elbow ankle finger canyon cause air blanket stone sudden";
+var mnemonic = "oven foam grid cheese beef friend jazz eager soap find smoke penalty";

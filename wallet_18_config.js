@@ -1,1 +1,1 @@
-var mnemonic = "all airport wealth seminar success liar earth junior long duck history fade";
+var mnemonic = "elite stand wise earth fish donor filter couple radio insect quick bike";

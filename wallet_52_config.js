@@ -1,1 +1,1 @@
-var mnemonic = "promote ahead coach hope chaos join blossom drastic exhaust damage then render";
+var mnemonic = "robot boring predict rebuild found suffer razor mimic squirrel beach theory giant";

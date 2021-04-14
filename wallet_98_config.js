@@ -1,1 +1,1 @@
-var mnemonic = "length subject cave eternal animal palm frost elegant rescue segment fortune flat";
+var mnemonic = "course way beach matrix pride eye ignore nuclear evil quantum miss annual";

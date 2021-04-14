@@ -1,1 +1,1 @@
-var mnemonic = "deliver symptom trust neutral expand real clerk hedgehog valley usage still buzz";
+var mnemonic = "gun intact scare enjoy humble word assume void dinner unaware filter inquiry";

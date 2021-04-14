@@ -1,1 +1,1 @@
-var mnemonic = "farm human bring bubble issue early anxiety prefer bulb depart churn check";
+var mnemonic = "access alley forum toy bus eternal barely around pattern around fix describe";

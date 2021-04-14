@@ -1,1 +1,1 @@
-var mnemonic = "angle rain misery thing prosper fruit essence trade desk pupil beef anger";
+var mnemonic = "program alpha secret attend clerk stick develop borrow wink skin dinner easy";

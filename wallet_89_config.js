@@ -1,1 +1,1 @@
-var mnemonic = "advice scare boat pattern buyer will crazy result conduct dynamic distance grace";
+var mnemonic = "youth fiction course second affair odor network usage brown virus coffee shoot";

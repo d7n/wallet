@@ -1,1 +1,1 @@
-var mnemonic = "party hamster embark element gadget fiber erase junior suggest fish awful body";
+var mnemonic = "diary poem fuel region glare fever question common stumble hockey venue robust";

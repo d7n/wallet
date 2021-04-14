@@ -1,1 +1,1 @@
-var mnemonic = "whisper episode rival camp rabbit moon top magnet pond around cactus churn";
+var mnemonic = "candy farm material spoil win alley frown fatal agent miracle hire genre";

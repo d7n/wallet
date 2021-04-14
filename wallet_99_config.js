@@ -1,1 +1,1 @@
-var mnemonic = "neck piano mystery few about excess derive exile rookie snow medal praise";
+var mnemonic = "curve decade duck split express sweet peasant uniform swing shrimp sword recycle";

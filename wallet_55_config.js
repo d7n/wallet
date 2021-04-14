@@ -1,1 +1,1 @@
-var mnemonic = "session laptop liquid duty spatial proud tissue captain pair ladder acoustic grocery";
+var mnemonic = "drive trial zoo high recall intact barely gloom salmon defy ethics spot";

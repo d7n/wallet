@@ -1,1 +1,1 @@
-var mnemonic = "deny banana shuffle punch lamp agree caught age ill sunset capable palm";
+var mnemonic = "cruise stumble member tell river bachelor always arrange mad faculty cabbage rib";

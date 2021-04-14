@@ -1,1 +1,1 @@
-var mnemonic = "another chaos lake forum all odor ticket glance sample name buddy swear";
+var mnemonic = "mind sort rib protect demise sustain chalk census wire possible coil omit";

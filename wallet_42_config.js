@@ -1,1 +1,1 @@
-var mnemonic = "pig clock unfold this beyond pottery knife boil once modify elite file";
+var mnemonic = "account donkey annual shuffle option upon coconut swing grace bless zebra fluid";

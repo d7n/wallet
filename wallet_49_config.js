@@ -1,1 +1,1 @@
-var mnemonic = "gauge region home shock west tool tuition food echo load quote sea";
+var mnemonic = "vault novel escape birth success scan fruit orphan copper initial index theory";

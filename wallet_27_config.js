@@ -1,1 +1,1 @@
-var mnemonic = "butter wagon verify patient spin vendor motor circle topic later arrive rival";
+var mnemonic = "excite gate defense normal title day ladder witness mixed fatal local aspect";

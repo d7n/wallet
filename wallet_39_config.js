@@ -1,1 +1,1 @@
-var mnemonic = "visual must eager craft biology cherry pill category scheme kit horror inner";
+var mnemonic = "throw join humble dream spy boy wall approve deal nasty lounge buddy";

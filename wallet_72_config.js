@@ -1,1 +1,1 @@
-var mnemonic = "wrap atom slide column betray dry heart cattle undo give ski blossom";
+var mnemonic = "amount speak raw two shallow radio cactus fossil split allow rude canvas";

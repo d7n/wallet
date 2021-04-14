@@ -1,1 +1,1 @@
-var mnemonic = "north short spirit jaguar kite purity sleep pulp child test armed torch";
+var mnemonic = "tattoo pole move verify reject avoid demand version refuse three file lonely";
