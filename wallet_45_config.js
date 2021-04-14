@@ -1,1 +1,1 @@
-var mnemonic = "champion prepare lab toddler fiscal verify laptop hint toilet utility butter devote";
+var mnemonic = "wink make maximum drink wolf true gloom cactus year grief require away";

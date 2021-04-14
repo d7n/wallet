@@ -1,1 +1,1 @@
-var mnemonic = "record child work benefit width right oven pact silent grab cart theory";
+var mnemonic = "rhythm motor step emotion time sweet advice baby cage divide shrimp hollow";

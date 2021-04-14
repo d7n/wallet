@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cupboard ripple brisk payment document dutch depth rib dragon design inject";
+var mnemonic = "sort denial tooth monster forget happy thrive saddle bulb ask pigeon meadow";

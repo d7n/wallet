@@ -1,1 +1,1 @@
-var mnemonic = "argue broom across seat when cover machine guess arrive submit neck liquid";
+var mnemonic = "island voyage nice album school tunnel gain gossip capital drive axis flash";

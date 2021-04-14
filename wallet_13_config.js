@@ -1,1 +1,1 @@
-var mnemonic = "trash garden outside ride caught faculty horse search merit creek ramp trim";
+var mnemonic = "target jeans daring decade place frozen sunny proof item decrease jacket side";

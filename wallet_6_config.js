@@ -1,1 +1,1 @@
-var mnemonic = "squirrel stomach grain path purchase bomb occur wear oil news whale utility";
+var mnemonic = "eternal seven avocado chalk labor dismiss advance cable below fabric broken midnight";

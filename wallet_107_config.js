@@ -1,1 +1,1 @@
-var mnemonic = "fox small inspire skirt leaf pyramid obey dolphin now token chapter nose";
+var mnemonic = "way evil sure excuse belt shop doctor hedgehog bleak motion door voyage";

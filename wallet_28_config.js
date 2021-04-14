@@ -1,1 +1,1 @@
-var mnemonic = "dress giant hen reveal wood chaos latin analyst rare region actor kit";
+var mnemonic = "arrest dress today just smoke regret brown route quarter utility lawn sphere";

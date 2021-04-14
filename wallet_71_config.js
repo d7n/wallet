@@ -1,1 +1,1 @@
-var mnemonic = "pottery sponsor gentle enrich torch tent whisper confirm just enrich broom title";
+var mnemonic = "butter tornado spread era group action jazz oil group can real advice";

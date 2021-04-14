@@ -1,1 +1,1 @@
-var mnemonic = "truth odor resemble unknown list you fresh donor tilt page occur kidney";
+var mnemonic = "unaware vanish cliff planet useful fringe borrow feature around display celery dragon";

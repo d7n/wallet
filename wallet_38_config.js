@@ -1,1 +1,1 @@
-var mnemonic = "taste detect depend cage equip gaze tomato narrow stereo total say lottery";
+var mnemonic = "motor actual pride fire vehicle maid cloth enemy curve orchard dinner camp";

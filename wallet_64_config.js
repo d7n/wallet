@@ -1,1 +1,1 @@
-var mnemonic = "clown harbor speed prefer number shove future hip trouble sustain layer obtain";
+var mnemonic = "example book giant photo cinnamon fiber treat wheat put talent innocent chair";

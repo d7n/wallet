@@ -1,1 +1,1 @@
-var mnemonic = "iron dice obvious ensure tide square subject shift human gospel pilot oven";
+var mnemonic = "cage hurt clutch april join crush junk spatial demise sail bench elevator";

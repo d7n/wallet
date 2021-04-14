@@ -1,1 +1,1 @@
-var mnemonic = "pigeon bid muscle acquire govern birth luggage slender praise lemon debate muffin";
+var mnemonic = "huge action summer horror pioneer meadow rebuild catalog stuff wink legend obvious";

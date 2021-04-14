@@ -1,1 +1,1 @@
-var mnemonic = "violin thank nature mango simple citizen syrup father walnut possible eyebrow auto";
+var mnemonic = "random apology comic fury clap fit moment thunder pulp noodle turkey cry";

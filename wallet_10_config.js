@@ -1,1 +1,1 @@
-var mnemonic = "prepare usual put layer final buddy angle sister machine explain must gather";
+var mnemonic = "shaft sail auto identify silver planet muffin sheriff amount thing earn chase";

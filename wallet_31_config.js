@@ -1,1 +1,1 @@
-var mnemonic = "often multiply fabric dragon they much spring attack emotion lyrics another frost";
+var mnemonic = "physical lamp dumb song estate turn bracket talk roof fever door until";

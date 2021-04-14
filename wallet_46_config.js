@@ -1,1 +1,1 @@
-var mnemonic = "ozone pilot task will force dust camp bunker elegant physical brand jump";
+var mnemonic = "soup piece risk regular body hamster sock water hidden arrest just remain";

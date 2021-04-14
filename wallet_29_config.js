@@ -1,1 +1,1 @@
-var mnemonic = "vibrant impact clip radio follow resemble kite seed goddess clap valley there";
+var mnemonic = "year guess spoil reason rail chapter twenty portion proof plunge injury august";

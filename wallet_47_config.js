@@ -1,1 +1,1 @@
-var mnemonic = "sample memory detail swap predict machine churn devote zero cattle real minimum";
+var mnemonic = "crouch floor vote net topple plate mom absurd garden caught cactus poverty";

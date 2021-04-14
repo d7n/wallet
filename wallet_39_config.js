@@ -1,1 +1,1 @@
-var mnemonic = "clutch language wheat size health visit harvest castle rival leaf warfare club";
+var mnemonic = "present domain devote abuse tube liberty december favorite eyebrow confirm neck swim";

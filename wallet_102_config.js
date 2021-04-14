@@ -1,1 +1,1 @@
-var mnemonic = "oak manage fabric nuclear stairs quote alarm eight prefer fringe catch super";
+var mnemonic = "rib dice inject window slam exhibit bomb dawn siren echo occur steel";

@@ -1,1 +1,1 @@
-var mnemonic = "impact whip intact envelope test alpha very turtle truly regret van dynamic";
+var mnemonic = "tag finger setup popular breeze chair gallery remove useful accident hood exchange";

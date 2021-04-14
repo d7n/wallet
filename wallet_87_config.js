@@ -1,1 +1,1 @@
-var mnemonic = "museum coach version chuckle region quarter rigid chat boss steel echo evolve";
+var mnemonic = "describe shed brother wall bring office merge odor afraid enable wood vast";

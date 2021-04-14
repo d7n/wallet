@@ -1,1 +1,1 @@
-var mnemonic = "catalog van rough vault phrase race valid duck brain meadow fun problem";
+var mnemonic = "mean brick this pond scatter script fold witness truck hammer hub student";

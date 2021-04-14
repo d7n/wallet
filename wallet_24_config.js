@@ -1,1 +1,1 @@
-var mnemonic = "trust couple dilemma donor ginger addict aware man worry solution sudden again";
+var mnemonic = "apart face alcohol report physical circle sausage kick print initial work price";

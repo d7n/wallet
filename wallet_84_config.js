@@ -1,1 +1,1 @@
-var mnemonic = "have strike bar install curious host swift meat field jacket tip leader";
+var mnemonic = "public damage volcano build illness happy cloud dose work code double fall";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic radar giraffe myself devote gospel two fantasy quit sorry woman oak";
+var mnemonic = "never tribe enrich dizzy question ocean tooth all march private voyage lucky";

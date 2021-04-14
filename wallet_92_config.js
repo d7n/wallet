@@ -1,1 +1,1 @@
-var mnemonic = "brain vessel purity trust sort exit ecology minimum giant clay stone doll";
+var mnemonic = "awake grief area erupt power drive nest length aspect trick elite dish";

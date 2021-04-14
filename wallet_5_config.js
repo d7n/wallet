@@ -1,1 +1,1 @@
-var mnemonic = "inquiry machine cereal apple push someone total aim crew fit excite seed";
+var mnemonic = "home frost behave gadget tool guitar canvas comfort key siren focus winter";

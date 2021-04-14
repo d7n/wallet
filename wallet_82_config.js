@@ -1,1 +1,1 @@
-var mnemonic = "humble pitch city essay area sing share wave siren web clump lift";
+var mnemonic = "differ film choice benefit screen riot know weird will that twist divorce";

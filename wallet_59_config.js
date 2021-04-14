@@ -1,1 +1,1 @@
-var mnemonic = "chicken decrease shallow concert large effort chef syrup execute return pottery nothing";
+var mnemonic = "never lobster pilot crash disease prevent cluster step soul source post silk";

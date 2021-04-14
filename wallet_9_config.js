@@ -1,1 +1,1 @@
-var mnemonic = "human head cheese snake long symptom arena goose resource sting wire strike";
+var mnemonic = "weapon wagon future cake effort twin erosion wide coconut pig attitude margin";

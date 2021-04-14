@@ -1,1 +1,1 @@
-var mnemonic = "scheme sad pretty false palm segment release damage cash above simple wink";
+var mnemonic = "path spatial foot lady axis prefer strategy park ten pull mind pulp";

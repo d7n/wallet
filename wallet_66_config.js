@@ -1,1 +1,1 @@
-var mnemonic = "main protect have toss sunny since announce patch dwarf believe undo jump";
+var mnemonic = "fantasy ghost pear polar romance bracket interest soda hungry humble pave rifle";

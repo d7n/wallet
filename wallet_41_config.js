@@ -1,1 +1,1 @@
-var mnemonic = "absurd sun vehicle kiss confirm immune payment latin law diagram funny olympic";
+var mnemonic = "equal budget gorilla bubble gate opinion hobby fat grab melt boost develop";

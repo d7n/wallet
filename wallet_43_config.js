@@ -1,1 +1,1 @@
-var mnemonic = "tide truly brass peanut vicious smoke between test carpet federal better suffer";
+var mnemonic = "false dutch vacant govern insect shoe concert dish beach shaft ceiling tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "library banana quit patch year load book win wonder symbol attend remember";
+var mnemonic = "crouch fit entire crater tree rhythm salute owner lady mandate demand insect";

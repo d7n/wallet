@@ -1,1 +1,1 @@
-var mnemonic = "fox convince desk galaxy truly erode item math business orient card wool";
+var mnemonic = "pelican library patrol more drum garbage treat soap subject size thunder hour";

@@ -1,1 +1,1 @@
-var mnemonic = "grain toilet bar minute staff miss rebel dune stool moon lizard night";
+var mnemonic = "ring uphold again theory item dial cram spice suit this metal camera";

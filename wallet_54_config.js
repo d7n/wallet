@@ -1,1 +1,1 @@
-var mnemonic = "magic twist festival noodle emotion model gate crowd valley bulk possible legal";
+var mnemonic = "citizen prefer link polar gadget gun lawsuit fold exit trophy knock fan";

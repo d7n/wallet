@@ -1,1 +1,1 @@
-var mnemonic = "obvious project thumb scheme junk misery critic kiwi exhibit tape please rely";
+var mnemonic = "recall subject level curtain input predict dismiss argue mechanic evidence birth attack";

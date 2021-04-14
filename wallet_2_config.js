@@ -1,1 +1,1 @@
-var mnemonic = "ensure bean popular someone worry wash tuition bundle giggle forward laugh refuse";
+var mnemonic = "match type faculty unit describe police drum minute lift better street pottery";

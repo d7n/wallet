@@ -1,1 +1,1 @@
-var mnemonic = "innocent club good habit biology design fog push wolf identify fantasy potato";
+var mnemonic = "tray uncle wedding picnic eyebrow unaware umbrella awesome surprise shoot pelican cool";

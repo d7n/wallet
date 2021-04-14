@@ -1,1 +1,1 @@
-var mnemonic = "gain eagle tooth bomb pigeon school polar notable fantasy obscure door immune";
+var mnemonic = "cool turn jump labor laundry labor survey connect ready young struggle consider";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble daring rain tell nose honey surround clerk accuse recycle youth budget";
+var mnemonic = "define replace prison off improve joy physical school nest group crush later";

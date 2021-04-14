@@ -1,1 +1,1 @@
-var mnemonic = "busy rate argue husband reject planet vivid tired trouble balance rate catch";
+var mnemonic = "trophy manage basic tourist mystery dumb matter speak horror explain because curious";

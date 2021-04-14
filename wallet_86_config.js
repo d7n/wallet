@@ -1,1 +1,1 @@
-var mnemonic = "virtual idea label doll guilt move horse happy marine conduct receive december";
+var mnemonic = "alter theory wrap obey know tape brand fever oxygen seven dizzy already";

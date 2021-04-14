@@ -1,1 +1,1 @@
-var mnemonic = "rapid valley rookie item major fortune leg base rack arctic list pair";
+var mnemonic = "disagree foster ozone caught valve august stamp orbit plug punch eyebrow degree";

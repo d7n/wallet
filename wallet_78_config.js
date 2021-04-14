@@ -1,1 +1,1 @@
-var mnemonic = "child rally off page apple coil vivid fancy bread cream shadow typical";
+var mnemonic = "essence bind glad leave rebuild original bounce junior deliver blame adapt average";

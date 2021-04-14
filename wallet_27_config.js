@@ -1,1 +1,1 @@
-var mnemonic = "middle lend unveil hidden govern umbrella liar balance trim pride video become";
+var mnemonic = "modify lawn option guide bundle ritual morning slice suggest distance gift song";

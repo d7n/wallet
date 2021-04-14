@@ -1,1 +1,1 @@
-var mnemonic = "matrix road fix asset unveil web uphold crowd rack insane question army";
+var mnemonic = "sing throw inside asthma artist wise strong slice fancy solid stereo secret";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle analyst craft erupt click remember skirt boss zero castle onion genre";
+var mnemonic = "illegal tomato wool below token word position void only raven category copper";

@@ -1,1 +1,1 @@
-var mnemonic = "spike subway matter hope region swim six fortune quarter steel monster rain";
+var mnemonic = "lyrics churn rural street stick skull melody develop hour midnight smoke embark";

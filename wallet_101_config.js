@@ -1,1 +1,1 @@
-var mnemonic = "legend panel height random blur warm dress denial outside seven vast garden";
+var mnemonic = "climb shiver call foil brief system hunt burst fish radar dish fabric";

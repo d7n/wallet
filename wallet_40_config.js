@@ -1,1 +1,1 @@
-var mnemonic = "shoe detail alert tell emotion earn lonely ketchup vault boost cycle tag";
+var mnemonic = "imitate vivid climb rifle slam book camera invest seven give donkey stairs";

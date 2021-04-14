@@ -1,1 +1,1 @@
-var mnemonic = "horn cactus history bunker mad wave setup gap harbor assume spider slush";
+var mnemonic = "left render fire genius twice extra climb morning regret ecology grant resource";

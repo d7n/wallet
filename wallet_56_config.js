@@ -1,1 +1,1 @@
-var mnemonic = "media swear chalk hunt switch decorate upset sound knock beach dignity jewel";
+var mnemonic = "trim omit broken ride snap collect capital cute file design stick pass";

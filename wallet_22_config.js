@@ -1,1 +1,1 @@
-var mnemonic = "tired myth indicate bench daughter person rival orphan sleep canvas carpet disorder";
+var mnemonic = "inhale potato clock run misery firm major hole year current powder assault";

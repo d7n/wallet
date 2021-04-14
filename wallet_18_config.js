@@ -1,1 +1,1 @@
-var mnemonic = "uncover salmon vicious oven flip nerve glue cousin sword decorate gentle salt";
+var mnemonic = "radio steel entry over snow machine theory ill goat hybrid gauge coyote";

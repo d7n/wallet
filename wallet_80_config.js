@@ -1,1 +1,1 @@
-var mnemonic = "iron bus garage sport village era doctor course unfair way jacket empty";
+var mnemonic = "palm danger acquire install provide mountain fashion job kidney own act tool";

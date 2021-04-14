@@ -1,1 +1,1 @@
-var mnemonic = "host summer crumble fault process chuckle shaft caught review album debris crumble";
+var mnemonic = "net nest soup lock trial finish awful chef anchor awesome sea arrive";

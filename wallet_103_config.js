@@ -1,1 +1,1 @@
-var mnemonic = "lecture sure stamp myself grow apart outer tool vivid physical notice margin";
+var mnemonic = "long refuse wait whip lawsuit print risk able hammer shed remind wife";

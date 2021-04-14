@@ -1,1 +1,1 @@
-var mnemonic = "amateur cry wise scrub strategy coffee more fiction find dwarf change fantasy";
+var mnemonic = "strike excite update drastic bottom better title great merge dial kick wage";

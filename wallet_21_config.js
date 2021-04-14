@@ -1,1 +1,1 @@
-var mnemonic = "soap chief income diesel cute task brand race hurt differ affair spirit";
+var mnemonic = "adjust bridge solve maze when monkey energy shift math motor below spawn";

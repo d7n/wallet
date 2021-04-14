@@ -1,1 +1,1 @@
-var mnemonic = "sniff fork oval tongue valve flag occur dog chicken sea left canal";
+var mnemonic = "priority citizen gorilla term rose idea hungry below confirm rack inflict couch";

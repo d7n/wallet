@@ -1,1 +1,1 @@
-var mnemonic = "imitate use ski rescue mountain novel denial whisper digital win game tiny";
+var mnemonic = "noise magnet scene smile such tool equal mobile album smart lamp venue";

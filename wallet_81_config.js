@@ -1,1 +1,1 @@
-var mnemonic = "soldier earn loan figure exist journey column good bulk rookie dolphin tell";
+var mnemonic = "hurt flush knee panic cool shove brisk couple pool gadget regret crucial";

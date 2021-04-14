@@ -1,1 +1,1 @@
-var mnemonic = "hurt love bonus slow ahead nice later sign smart grape trend ceiling";
+var mnemonic = "miracle cluster dynamic silly burden plunge owner smile guilt job will trip";

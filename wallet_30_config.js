@@ -1,1 +1,1 @@
-var mnemonic = "enter six jeans more cause digital student border rhythm insect father hair";
+var mnemonic = "minor spoil young coral point topic client benefit mansion seek false govern";

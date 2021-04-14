@@ -1,1 +1,1 @@
-var mnemonic = "find deer fruit awake believe embark wire dust suffer cereal female argue";
+var mnemonic = "ice bubble glide climb march object what title muffin various bronze until";

@@ -1,1 +1,1 @@
-var mnemonic = "eye illegal verify parrot gap vital inspire best above congress animal hamster";
+var mnemonic = "honey else oil effort sudden swim letter gift sad bounce swallow inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain rhythm violin true group nuclear garden come awkward image ecology round";
+var mnemonic = "apart quit load dry minute flash chunk venue parent quarter time wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel bargain gift uncle minute cabbage anchor transfer coconut gloom noodle visual";
+var mnemonic = "naive ridge exercise adjust various manage announce any across farm vivid guilt";

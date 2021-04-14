@@ -1,1 +1,1 @@
-var mnemonic = "advance define pyramid before voice benefit glare inside hurdle mass kitchen series";
+var mnemonic = "allow right tape office goddess biology bubble cram relax solve human pause";

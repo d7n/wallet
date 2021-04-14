@@ -1,1 +1,1 @@
-var mnemonic = "fresh legend urge shop danger decrease margin decrease room size polar appear";
+var mnemonic = "tip mom coach become subway gift awake gentle connect ginger tuition video";

@@ -1,1 +1,1 @@
-var mnemonic = "topple legend admit spider giggle snack tag sting panda rose output tilt";
+var mnemonic = "weapon include mansion list pepper example asset fuel scout finish oppose merge";

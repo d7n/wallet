@@ -1,1 +1,1 @@
-var mnemonic = "figure there brother brown explain picnic aisle arrange skill spray off current";
+var mnemonic = "fold group exercise grocery fiscal address grid climb what medal learn sugar";

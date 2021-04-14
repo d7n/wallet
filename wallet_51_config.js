@@ -1,1 +1,1 @@
-var mnemonic = "coast step voyage bridge snack ship depth kangaroo exchange human draw test";
+var mnemonic = "intact dawn video public acoustic elite claw before globe uncover fiscal race";

@@ -1,1 +1,1 @@
-var mnemonic = "reject lounge dry budget clown effort slow focus orchard judge slim exhaust";
+var mnemonic = "case awake indicate stove segment code stamp wolf morning drill copper keep";

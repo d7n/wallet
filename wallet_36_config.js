@@ -1,1 +1,1 @@
-var mnemonic = "idle step cement basic useful senior mango butter carry butter earn reward";
+var mnemonic = "sniff dentist loud dumb abuse write pact electric bargain mammal hole drink";

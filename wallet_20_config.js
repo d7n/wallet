@@ -1,1 +1,1 @@
-var mnemonic = "federal walk income antenna warfare eight broccoli leave hamster perfect reform dust";
+var mnemonic = "duty mom arena net clutch lava beef six type churn broccoli song";

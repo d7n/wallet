@@ -1,1 +1,1 @@
-var mnemonic = "tongue argue cook purpose grow tackle banana digital walnut spatial join ankle";
+var mnemonic = "olympic ten equal salad cannon lake witness mobile table lens find heavy";

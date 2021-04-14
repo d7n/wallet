@@ -1,1 +1,1 @@
-var mnemonic = "biology slight clog club need walnut sad list twin scrap bread goose";
+var mnemonic = "episode barrel recall rescue wasp hip purse pelican keep improve razor spatial";

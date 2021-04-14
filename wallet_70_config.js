@@ -1,1 +1,1 @@
-var mnemonic = "vintage punch crouch fiction shadow arrow noise clean cheap custom elite section";
+var mnemonic = "economy swim unique silly will hole faith century add truck vessel blood";

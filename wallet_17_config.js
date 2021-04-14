@@ -1,1 +1,1 @@
-var mnemonic = "group rebuild tone blouse poverty girl penalty brief govern close mixture know";
+var mnemonic = "expand have junk grant carpet oyster sweet engine verify increase moral olive";

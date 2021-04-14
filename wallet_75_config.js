@@ -1,1 +1,1 @@
-var mnemonic = "cost tongue humble sell believe perfect girl pelican lady secret devote echo";
+var mnemonic = "cloud wise glow hero mom festival lawn inflict announce chief six pole";

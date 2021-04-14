@@ -1,1 +1,1 @@
-var mnemonic = "produce regular legend skin memory trend fiction elder lawsuit plate light camera";
+var mnemonic = "gym boat size gasp huge toward ankle swamp aspect bitter enforce grunt";

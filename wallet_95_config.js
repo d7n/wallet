@@ -1,1 +1,1 @@
-var mnemonic = "liberty hair funny modify slide gaze panther hobby estate couple blue moment";
+var mnemonic = "betray indicate panther mistake ring volcano lounge argue above rich remove ride";

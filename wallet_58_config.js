@@ -1,1 +1,1 @@
-var mnemonic = "vendor draft legend pepper dentist wood relax friend favorite robot dutch oxygen";
+var mnemonic = "intact task disagree unit humble wine dolphin tank slogan cricket caution mesh";

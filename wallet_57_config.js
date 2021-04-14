@@ -1,1 +1,1 @@
-var mnemonic = "more scrub elegant charge proof pole fitness orange kingdom view typical embrace";
+var mnemonic = "come reveal cupboard valve deputy path diamond ask donkey session amount multiply";

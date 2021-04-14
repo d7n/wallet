@@ -1,1 +1,1 @@
-var mnemonic = "defense forest execute equip horror chair trash blast wonder reflect bargain siege";
+var mnemonic = "civil quit castle fashion liquid swallow recycle then twice bamboo kiwi theory";
