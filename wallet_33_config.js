@@ -1,1 +1,1 @@
-var mnemonic = "produce mistake lamp never firm scene common daring lizard peace party key";
+var mnemonic = "basic jelly term ride sugar describe usage you shoot later focus human";

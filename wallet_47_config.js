@@ -1,1 +1,1 @@
-var mnemonic = "produce useful trap unlock genuine rapid repair case lumber hamster melt occur";
+var mnemonic = "cattle slim patch fringe desk remember balance fancy they indicate inherit furnace";

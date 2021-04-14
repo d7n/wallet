@@ -1,1 +1,1 @@
-var mnemonic = "drama crew candy vote brisk acoustic brush novel hawk crunch trade weasel";
+var mnemonic = "evoke acoustic sight faint waste humble skull comfort fade wagon bracket impulse";

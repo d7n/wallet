@@ -1,1 +1,1 @@
-var mnemonic = "impose initial say wood flat resource shiver century forward proof worry picture";
+var mnemonic = "beauty couple hurdle lava crime casino system jump law margin special friend";

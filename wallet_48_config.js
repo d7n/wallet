@@ -1,1 +1,1 @@
-var mnemonic = "flame base barely praise sport fetch square exotic december online dose symbol";
+var mnemonic = "scatter rural gorilla wash mention adjust oven pig play emerge popular gather";

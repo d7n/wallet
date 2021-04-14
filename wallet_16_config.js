@@ -1,1 +1,1 @@
-var mnemonic = "wine predict industry behave nose roof goose size crush pause forum scrub";
+var mnemonic = "village major illness access buddy slogan mandate danger property umbrella struggle shy";

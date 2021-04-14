@@ -1,1 +1,1 @@
-var mnemonic = "fancy cage royal wife guide report hedgehog time swallow model impose pluck";
+var mnemonic = "defense oval meadow capital dish mind bomb report pupil toilet mule praise";

@@ -1,1 +1,1 @@
-var mnemonic = "length cabin camp time atom lunar rate brief have liar mirror crunch";
+var mnemonic = "meadow physical moment nurse strong catalog camp relax skull acid detect wisdom";

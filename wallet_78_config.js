@@ -1,1 +1,1 @@
-var mnemonic = "maze core race mechanic amount black since sudden inspire axis deal fancy";
+var mnemonic = "wrong type stage butter exile gossip axis hero glow buffalo electric crunch";

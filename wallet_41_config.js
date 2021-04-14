@@ -1,1 +1,1 @@
-var mnemonic = "report apple lawn they pencil whip grape library silver river kiss citizen";
+var mnemonic = "purpose reform icon appear face sausage garlic recall peanut junk wing arctic";

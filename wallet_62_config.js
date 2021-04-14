@@ -1,1 +1,1 @@
-var mnemonic = "multiply deny photo diagram imitate usual wink cancel retreat card travel opinion";
+var mnemonic = "oyster hybrid fence master poet slim scale relief jeans draw tide satoshi";

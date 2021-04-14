@@ -1,1 +1,1 @@
-var mnemonic = "exercise behind style cost ribbon private display pair mango arena book balcony";
+var mnemonic = "local win fee weird month ritual embark distance supreme amused view spring";

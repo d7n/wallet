@@ -1,1 +1,1 @@
-var mnemonic = "chapter maze skull shadow health mom coin crime general school bomb because";
+var mnemonic = "special dirt refuse idle prefer kiss already evidence omit baby sphere inside";

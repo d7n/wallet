@@ -1,1 +1,1 @@
-var mnemonic = "stereo coffee engage scene sell isolate clip helmet situate crowd uphold glide";
+var mnemonic = "dutch insect build deliver true swarm bright flat whale husband exercise speed";

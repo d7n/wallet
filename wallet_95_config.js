@@ -1,1 +1,1 @@
-var mnemonic = "fox book clever soda once jeans tattoo skate twenty exercise exit arch";
+var mnemonic = "shell popular frozen hello upon business thing video brass kid side ketchup";

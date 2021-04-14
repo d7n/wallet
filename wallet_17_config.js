@@ -1,1 +1,1 @@
-var mnemonic = "limit advance soft cradle unveil lady chaos shove glad noble brief unhappy";
+var mnemonic = "often nerve predict thrive sleep travel toe price plastic clown bench pig";

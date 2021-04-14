@@ -1,1 +1,1 @@
-var mnemonic = "elder rain spread swap conduct split travel canoe capable uniform crystal action";
+var mnemonic = "door party offer soap nothing use crisp network aspect youth laundry combine";

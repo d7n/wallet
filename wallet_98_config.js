@@ -1,1 +1,1 @@
-var mnemonic = "level hundred quit camera debate wrestle era aunt swallow bounce entire sibling";
+var mnemonic = "vintage burden rigid have march bridge nerve rent olympic cereal stay mean";

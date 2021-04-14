@@ -1,1 +1,1 @@
-var mnemonic = "catch miss hat chef palace squirrel shuffle state trend member joy fragile";
+var mnemonic = "step harsh identify urge sort month story cement fever negative hungry pledge";

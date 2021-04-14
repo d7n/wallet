@@ -1,1 +1,1 @@
-var mnemonic = "client obtain notable setup actress bitter crash remind produce garment manual aim";
+var mnemonic = "pledge rally rival ocean unaware erase absurd deliver steak syrup scheme patch";

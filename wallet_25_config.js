@@ -1,1 +1,1 @@
-var mnemonic = "invite wage sample bleak hub chronic board boy fun tape royal smooth";
+var mnemonic = "submit tackle occur essence sustain spell shy clap title lunch security garage";

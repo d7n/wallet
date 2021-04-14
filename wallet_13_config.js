@@ -1,1 +1,1 @@
-var mnemonic = "rookie bullet asset memory bright town album smooth ticket off crane teach";
+var mnemonic = "spring delay estate hammer relief once desk stove drip purse nest wood";

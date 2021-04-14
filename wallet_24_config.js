@@ -1,1 +1,1 @@
-var mnemonic = "sugar cry spend behind boat install doll change renew replace story absorb";
+var mnemonic = "spot water boost title turtle weekend coach bless gas random divorce pudding";

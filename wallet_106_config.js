@@ -1,1 +1,1 @@
-var mnemonic = "uncle cream sauce head stomach island uncover just round maid patch hockey";
+var mnemonic = "diary power dentist cruise swallow end garbage aerobic kind thought fatal siege";

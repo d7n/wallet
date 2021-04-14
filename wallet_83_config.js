@@ -1,1 +1,1 @@
-var mnemonic = "logic orphan devote success chicken leaf grow bargain toast capable donate shift";
+var mnemonic = "measure joy unique spice prepare usage type quick resist manual extend wrist";

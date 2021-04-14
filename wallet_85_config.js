@@ -1,1 +1,1 @@
-var mnemonic = "brick wedding feel race bulb write wife badge crime success twin pig";
+var mnemonic = "illegal indoor actual negative announce tomorrow skirt doll innocent clip amateur nut";

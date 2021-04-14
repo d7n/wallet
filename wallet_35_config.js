@@ -1,1 +1,1 @@
-var mnemonic = "sting lecture much stamp mistake leave night chat drum remember often discover";
+var mnemonic = "scissors usual conduct actress debris oval item invite fabric wire turn noodle";

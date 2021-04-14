@@ -1,1 +1,1 @@
-var mnemonic = "dinner lizard match during bonus spike gift carry blur neck congress toddler";
+var mnemonic = "album liberty outside elder immense quiz recycle boat filter magnet divide addict";

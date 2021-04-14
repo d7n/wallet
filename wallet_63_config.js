@@ -1,1 +1,1 @@
-var mnemonic = "slam tilt glare become milk tourist timber opinion bonus video dirt trap";
+var mnemonic = "antique soon salad dentist grain dress general piece convince maid bike expect";

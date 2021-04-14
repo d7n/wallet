@@ -1,1 +1,1 @@
-var mnemonic = "repair service goat upper tumble still salmon edit weather oyster dance soon";
+var mnemonic = "sorry blind sun coast torch share cereal copper sell execute culture course";

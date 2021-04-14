@@ -1,1 +1,1 @@
-var mnemonic = "feature smoke know acquire prepare profit cheese travel you pass february like";
+var mnemonic = "motor asthma cherry village will merge fold prosper horror thought culture panel";

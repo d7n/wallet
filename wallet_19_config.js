@@ -1,1 +1,1 @@
-var mnemonic = "maple cruel whip observe will cigar track mystery lava must endless dish";
+var mnemonic = "school universe main exchange alone arena shuffle spare public cotton next easily";

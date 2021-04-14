@@ -1,1 +1,1 @@
-var mnemonic = "noodle execute bus narrow broken injury number belt chef prosper boring pupil";
+var mnemonic = "pole exist chuckle horse write hamster inch rough smooth flag early hammer";

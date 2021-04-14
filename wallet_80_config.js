@@ -1,1 +1,1 @@
-var mnemonic = "recycle style detect gaze retreat axis foil treat bulk female color weasel";
+var mnemonic = "affair nephew elbow clever mass gap orphan alley athlete squeeze length keen";

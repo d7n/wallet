@@ -1,1 +1,1 @@
-var mnemonic = "disorder pistol flash outdoor sort security accident essence loop round giant forest";
+var mnemonic = "garbage exotic pitch script matrix wheat stairs caught brown fitness jump fatal";

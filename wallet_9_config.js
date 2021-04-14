@@ -1,1 +1,1 @@
-var mnemonic = "captain seven quit ivory game whale sing category dolphin alarm faint annual";
+var mnemonic = "put habit know nose unveil floor rotate rib check slush fruit dizzy";

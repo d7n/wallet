@@ -1,1 +1,1 @@
-var mnemonic = "turkey tribe unaware knock meadow team ecology pioneer board phrase farm enjoy";
+var mnemonic = "acoustic crunch fault scorpion animal sustain soccer inflict trumpet grunt work inside";

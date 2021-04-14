@@ -1,1 +1,1 @@
-var mnemonic = "say ramp bus coin ticket license injury poverty minute universe village cloth";
+var mnemonic = "census fashion travel glance oak vote forget twenty waste museum suggest proud";

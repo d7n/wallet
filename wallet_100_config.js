@@ -1,1 +1,1 @@
-var mnemonic = "such option cage ladder fine advance replace person wing tray chronic mansion";
+var mnemonic = "dinosaur oval verify inflict half click design document maze august stem sauce";

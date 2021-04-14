@@ -1,1 +1,1 @@
-var mnemonic = "physical garden oyster rocket lava syrup forget image excess twice easily lava";
+var mnemonic = "gentle walk main adapt auto heart capital garage pair drift awesome valid";

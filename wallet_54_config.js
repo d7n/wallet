@@ -1,1 +1,1 @@
-var mnemonic = "comic panda brief unveil borrow goose blush waste relax begin december heart";
+var mnemonic = "victory girl clinic vintage fun link idea shrug web science ripple strong";

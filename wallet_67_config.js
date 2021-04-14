@@ -1,1 +1,1 @@
-var mnemonic = "brisk satoshi balcony cute virus shoulder rhythm garden gauge panther butter october";
+var mnemonic = "alley erupt clever rare hello mask derive short license enact eye maid";

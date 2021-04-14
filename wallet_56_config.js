@@ -1,1 +1,1 @@
-var mnemonic = "rate abandon alpha diary bicycle awkward vocal sweet message want flip glance";
+var mnemonic = "dolphin mirror deal crop reunion language boost charge enforce wrestle digital raise";

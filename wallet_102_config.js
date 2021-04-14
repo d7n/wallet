@@ -1,1 +1,1 @@
-var mnemonic = "ship then panther demise matrix evil client gown follow dwarf source dance";
+var mnemonic = "laugh buddy provide enhance month weasel nuclear produce slight purpose bounce daring";

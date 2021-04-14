@@ -1,1 +1,1 @@
-var mnemonic = "agent cotton situate ball black west trick enter crystal amateur patrol august";
+var mnemonic = "abuse cross kit crush turtle inspire method birth solve welcome bring twin";

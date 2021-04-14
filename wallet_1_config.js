@@ -1,1 +1,1 @@
-var mnemonic = "unable dance south service cave hood orphan guess ahead case hire neglect";
+var mnemonic = "banana canvas lawn fence cruel trigger favorite version mushroom because goddess series";

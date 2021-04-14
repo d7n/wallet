@@ -1,1 +1,1 @@
-var mnemonic = "hint drum jewel merge hand sure still earn mystery fabric time inject";
+var mnemonic = "dutch idle gift actual ecology fame era food warfare female toddler panda";

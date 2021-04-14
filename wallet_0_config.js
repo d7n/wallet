@@ -1,1 +1,1 @@
-var mnemonic = "lumber answer prosper rural kingdom lesson tape dad soft amazing wreck busy";
+var mnemonic = "deal ozone true stone case rail piano pipe ethics sea used curve";

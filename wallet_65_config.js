@@ -1,1 +1,1 @@
-var mnemonic = "you oyster clean various put ten useful snow code situate legal hunt";
+var mnemonic = "outside next lift swear penalty staff soup blanket caught voice furnace flee";

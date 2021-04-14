@@ -1,1 +1,1 @@
-var mnemonic = "today sibling helmet airport combine away amused circle black forget own shoe";
+var mnemonic = "broom alone jump curve dwarf expire reduce silent argue ranch lab female";

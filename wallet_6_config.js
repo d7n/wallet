@@ -1,1 +1,1 @@
-var mnemonic = "program craft bless best insect mansion know excuse wolf hold pelican town";
+var mnemonic = "bleak security person awful rapid century rent brush click raw youth slide";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote accident layer lock crouch rent lava bone excuse also until cereal";
+var mnemonic = "coconut object hint panic harbor vacant flag phone caught torch jewel layer";

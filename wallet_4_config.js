@@ -1,1 +1,1 @@
-var mnemonic = "stove olympic dutch burger question primary avocado broken sadness pair coin paper";
+var mnemonic = "exact monster guess isolate fault staff ethics hill service wealth shove lava";

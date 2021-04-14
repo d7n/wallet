@@ -1,1 +1,1 @@
-var mnemonic = "catalog stand unknown phrase polar switch snow web scorpion sport label away";
+var mnemonic = "raw limb tell mention artist face assume sister rug upper scene spider";

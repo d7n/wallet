@@ -1,1 +1,1 @@
-var mnemonic = "remind churn penalty save inform position rug vehicle when marine infant pull";
+var mnemonic = "author vacuum supply burden reopen panic rose answer report elegant reject differ";

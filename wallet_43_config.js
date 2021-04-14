@@ -1,1 +1,1 @@
-var mnemonic = "plug waste general tool torch immense rookie uphold join amount warfare top";
+var mnemonic = "key photo sustain cruise erupt liquid parrot dinosaur heavy poem spawn drastic";

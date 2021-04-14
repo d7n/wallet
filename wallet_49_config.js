@@ -1,1 +1,1 @@
-var mnemonic = "unit forum person useless approve pulp domain length toss eager humble truly";
+var mnemonic = "sugar sure symptom common retire gift noble turtle pig slight upon buffalo";

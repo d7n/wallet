@@ -1,1 +1,1 @@
-var mnemonic = "news giant bridge lady front scan speak scare corn arm duty social";
+var mnemonic = "chimney appear blind fly gospel cabbage catch clump royal lazy dutch naive";

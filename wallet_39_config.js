@@ -1,1 +1,1 @@
-var mnemonic = "century rib cricket fat there tornado acquire stadium alpha cake below day";
+var mnemonic = "enable nurse rotate cave bitter review mistake soon possible neck soft scout";

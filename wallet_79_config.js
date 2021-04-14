@@ -1,1 +1,1 @@
-var mnemonic = "cabbage input scout elegant autumn develop endless correct dynamic sponsor write face";
+var mnemonic = "adapt boat nerve excite before globe general island lion crowd high bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny exotic parent rhythm jungle banana taxi grape sunny ensure smooth slender";
+var mnemonic = "process endorse mansion useful mind task trust decorate sister recall enter hint";

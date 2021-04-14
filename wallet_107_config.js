@@ -1,1 +1,1 @@
-var mnemonic = "sign arrest force work repair detect security crowd parade recall embody differ";
+var mnemonic = "vicious moon museum trend joke pledge settle radio search ridge network fit";

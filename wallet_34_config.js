@@ -1,1 +1,1 @@
-var mnemonic = "chat ranch lemon fold grid immense unique black impulse math wasp stool";
+var mnemonic = "object inherit once mango delay citizen enrich grunt dynamic any replace pride";

@@ -1,1 +1,1 @@
-var mnemonic = "man lawsuit dial weekend alpha dilemma item better push collect squirrel odor";
+var mnemonic = "upgrade happy number write scare moral elegant possible barrel shine muffin zoo";

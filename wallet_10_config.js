@@ -1,1 +1,1 @@
-var mnemonic = "wait sentence island swing exchange orphan clown walk crawl catch essay tube";
+var mnemonic = "weekend lottery goose spider solid add gain rocket faculty mushroom document improve";

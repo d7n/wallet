@@ -1,1 +1,1 @@
-var mnemonic = "fashion lemon maid van work mercy climb game member stable error goddess";
+var mnemonic = "short swift suit jeans access toward cup merit exhaust breeze mushroom rally";

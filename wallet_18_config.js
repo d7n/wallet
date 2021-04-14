@@ -1,1 +1,1 @@
-var mnemonic = "post lounge test immune current diesel domain dynamic achieve act cannon mind";
+var mnemonic = "limit gun vacuum run marine exercise young rally enough garment force vehicle";

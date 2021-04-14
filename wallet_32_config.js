@@ -1,1 +1,1 @@
-var mnemonic = "lizard tip balance around midnight divert matter toward spot tobacco street jaguar";
+var mnemonic = "slight gap peace bright minor collect decide uncle bunker devote fatigue random";

@@ -1,1 +1,1 @@
-var mnemonic = "foam cushion switch always sleep verify grocery group anger pluck guard cancel";
+var mnemonic = "thank list fuel blue toilet maid bean cotton amount dash lady museum";

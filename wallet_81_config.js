@@ -1,1 +1,1 @@
-var mnemonic = "portion sadness true nature disorder danger machine gather extend castle alcohol cancel";
+var mnemonic = "knife notable cereal endless uncover bind adult spell width fork that involve";

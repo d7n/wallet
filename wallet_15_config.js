@@ -1,1 +1,1 @@
-var mnemonic = "bus share puzzle oxygen forward already lawsuit silver bracket author club sunset";
+var mnemonic = "balance decrease jewel put disagree cliff music decline salad evoke safe drastic";

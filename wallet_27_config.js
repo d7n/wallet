@@ -1,1 +1,1 @@
-var mnemonic = "legend carry crawl honey hope nation sheriff drama tissue cupboard oxygen device";
+var mnemonic = "nurse lunar curtain poem panda organ crash toe clutch table kit occur";

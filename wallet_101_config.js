@@ -1,1 +1,1 @@
-var mnemonic = "link blame photo short enlist spin damp fall forum exotic gauge canvas";
+var mnemonic = "mad swing castle account void corn twice hockey town leaf palace stamp";

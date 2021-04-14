@@ -1,1 +1,1 @@
-var mnemonic = "meat snack room blade tuna exclude capable pepper banner honey faint float";
+var mnemonic = "escape kind young state sorry yard worth much about message warm bundle";

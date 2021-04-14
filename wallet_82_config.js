@@ -1,1 +1,1 @@
-var mnemonic = "jealous okay hurt chat during ticket rebel brass review genuine language wink";
+var mnemonic = "clutch lunch castle oil galaxy skate celery frost deputy rib lady net";

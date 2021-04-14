@@ -1,1 +1,1 @@
-var mnemonic = "decorate absorb keep almost organ drastic ritual job hint wish three sure";
+var mnemonic = "glance noble saddle display doctor captain zone large story ethics video twenty";

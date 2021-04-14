@@ -1,1 +1,1 @@
-var mnemonic = "beauty can alpha tell design excess mule gap feel warrior erosion rigid";
+var mnemonic = "during vital adapt century glow ticket birth tank hero kingdom sweet indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle carbon lion radar winner bulb club initial bachelor phone install naive";
+var mnemonic = "soul baby pattern demand text good front mandate mixed horror car leave";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome head profit agree false action cousin adult logic cup urge salmon";
+var mnemonic = "price often erode history general work leaf labor width cycle earn mechanic";

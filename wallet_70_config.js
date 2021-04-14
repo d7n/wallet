@@ -1,1 +1,1 @@
-var mnemonic = "tell firm february miss puppy fox stomach dismiss scare wealth marriage certain";
+var mnemonic = "cabbage enough abandon bench spike pepper gym express forward car split two";

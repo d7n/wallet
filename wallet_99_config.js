@@ -1,1 +1,1 @@
-var mnemonic = "dumb matrix post salon garage plastic trophy victory sign type garage banner";
+var mnemonic = "siege tornado obtain fix left foil corn bamboo frozen zero lunch yard";

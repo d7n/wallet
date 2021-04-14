@@ -1,1 +1,1 @@
-var mnemonic = "this polar add pen mean clutch join stamp detail tone throw debris";
+var mnemonic = "weird fade network unit burger open crystal enough deposit pluck jar eagle";

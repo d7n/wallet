@@ -1,1 +1,1 @@
-var mnemonic = "away obscure waste mountain stable shoulder much open upset begin disease seat";
+var mnemonic = "blade skull city swap cloud quantum embrace wealth frequent mistake either major";

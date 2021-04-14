@@ -1,1 +1,1 @@
-var mnemonic = "odor eye unknown grunt chair olympic spawn grain battle area army affair";
+var mnemonic = "maid resource saddle horse process else apart sphere below wise exchange bubble";

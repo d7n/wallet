@@ -1,1 +1,1 @@
-var mnemonic = "bottom upgrade scare athlete account tired banana return exotic wrestle beef cigar";
+var mnemonic = "inspire two image farm fix hero apology night merry ethics payment muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "during crew wreck sign dry puppy film elephant visual aware gold style";
+var mnemonic = "slow either outside jump holiday alcohol diesel uncover forget walnut what cook";

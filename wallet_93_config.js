@@ -1,1 +1,1 @@
-var mnemonic = "silly detect mercy blood another love month mixture bridge guide moral artwork";
+var mnemonic = "slender nominee bulk pepper kick divert field eagle cup amount awkward word";

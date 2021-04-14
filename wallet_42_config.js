@@ -1,1 +1,1 @@
-var mnemonic = "garbage dutch diamond tomato toss couch trim drip shop save time debate";
+var mnemonic = "wash panic position provide beach twelve swap pistol goddess autumn job now";

@@ -1,1 +1,1 @@
-var mnemonic = "exact tree typical fitness reform reopen venue avoid dust runway nose hybrid";
+var mnemonic = "hill left surround excuse sorry fetch describe under symptom cherry aim pluck";

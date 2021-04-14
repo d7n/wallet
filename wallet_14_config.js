@@ -1,1 +1,1 @@
-var mnemonic = "hood medal grit claw pupil analyst odor region pony melt hazard escape";
+var mnemonic = "pumpkin notable ahead decorate ski brief film capable sphere effort stem lens";

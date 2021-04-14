@@ -1,1 +1,1 @@
-var mnemonic = "merit mind object thank guitar tree divide quit health all steak chimney";
+var mnemonic = "service ready mixture gorilla neutral shoot answer company virtual impulse donor knee";

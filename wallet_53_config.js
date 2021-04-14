@@ -1,1 +1,1 @@
-var mnemonic = "camp around way robot water recall armed chair hope come defense morning";
+var mnemonic = "mean copper message rural brand horn impose useless treat piano struggle run";

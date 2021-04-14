@@ -1,1 +1,1 @@
-var mnemonic = "noodle ticket tomato hello card upgrade squirrel noise decade rule diamond idea";
+var mnemonic = "enjoy music aunt buyer flash wave cousin genuine giant fire enjoy twenty";

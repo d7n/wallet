@@ -1,1 +1,1 @@
-var mnemonic = "alpha trial bomb beyond tuna replace next usual shuffle rib release style";
+var mnemonic = "skate hurdle ring approve example neck business tower water cement science act";
