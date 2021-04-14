@@ -1,1 +1,1 @@
-var mnemonic = "canal bar inch ability wasp mountain pretty sense carbon equal brave orient";
+var mnemonic = "size stable pyramid system popular hamster arch myself drama grape letter spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "anger fossil glad dentist elite barrel detail vacuum dumb doctor fancy panic";
+var mnemonic = "purity tornado notable glide inflict alcohol wash ripple yellow grief into disorder";

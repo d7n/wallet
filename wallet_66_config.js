@@ -1,1 +1,1 @@
-var mnemonic = "nuclear short income three approve reform eyebrow judge girl page execute arctic";
+var mnemonic = "screen pottery flavor original alarm exotic slam spare glare plunge among fall";

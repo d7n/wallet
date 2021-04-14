@@ -1,1 +1,1 @@
-var mnemonic = "film double labor test range toy onion captain ride boring pull source";
+var mnemonic = "scrub diet network around art main next voyage decide rapid edge stomach";

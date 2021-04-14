@@ -1,1 +1,1 @@
-var mnemonic = "soft custom genuine cross crouch elevator amateur uncover destroy warm flock tube";
+var mnemonic = "beach indoor square improve attract burst anger organ game moment around enable";

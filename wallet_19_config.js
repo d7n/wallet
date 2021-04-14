@@ -1,1 +1,1 @@
-var mnemonic = "solve effort fragile drastic turkey summer token genuine beyond ride cancel display";
+var mnemonic = "spell alarm island grape chimney police push sock aim panic divorce tissue";

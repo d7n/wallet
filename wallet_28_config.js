@@ -1,1 +1,1 @@
-var mnemonic = "priority photo unhappy bitter often gym clap useless hurt praise black inmate";
+var mnemonic = "mix clown banner anger clerk auction solid only medal bleak ensure advice";

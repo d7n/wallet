@@ -1,1 +1,1 @@
-var mnemonic = "shell laundry recycle gain fat winter project gasp tourist lens pencil upgrade";
+var mnemonic = "public slogan salt water news deer antique blush grace velvet chest vague";

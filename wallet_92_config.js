@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow canal wire tuition unique voice lonely order glance engine pupil drum";
+var mnemonic = "typical worry calm venue defense lion orchard local document park ripple school";

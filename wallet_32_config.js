@@ -1,1 +1,1 @@
-var mnemonic = "end jazz glory suspect unknown become hint enact skull forum dad snake";
+var mnemonic = "doctor abuse praise goat gorilla notable october guess page twin tide demise";

@@ -1,1 +1,1 @@
-var mnemonic = "cart arch immune together accuse calm nominee decrease kingdom praise gorilla athlete";
+var mnemonic = "milk slam arrest pair father auto abstract solution middle hello arctic faith";

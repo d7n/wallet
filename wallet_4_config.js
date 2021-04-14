@@ -1,1 +1,1 @@
-var mnemonic = "kitchen kiwi crew rather torch cable artist aim jar rack certain replace";
+var mnemonic = "vacant wood armed city device reflect fitness elegant credit accident dance prefer";

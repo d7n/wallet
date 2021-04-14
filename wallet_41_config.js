@@ -1,1 +1,1 @@
-var mnemonic = "physical script raven learn pitch width brick they avoid hammer mind during";
+var mnemonic = "during drum awful useless acoustic stay excuse satisfy during use surge regular";

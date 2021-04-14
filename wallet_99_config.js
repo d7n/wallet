@@ -1,1 +1,1 @@
-var mnemonic = "total behind ladder sea alien accuse work rifle lady video ketchup wheel";
+var mnemonic = "member tell dawn sad unfair siege donate venue render recipe meat helmet";

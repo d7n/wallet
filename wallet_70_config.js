@@ -1,1 +1,1 @@
-var mnemonic = "earn nice fatal round giant wrestle enact lobster drop invite forest vanish";
+var mnemonic = "novel physical range ostrich cheap owner change coconut market popular parade beach";

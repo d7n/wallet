@@ -1,1 +1,1 @@
-var mnemonic = "age absorb only hunt message robust duty where elephant canal mansion dream";
+var mnemonic = "view elder husband medal canal bottom approve dilemma evil moon more program";

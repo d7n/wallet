@@ -1,1 +1,1 @@
-var mnemonic = "loan simple term doll bus expand gap siege hair rare fee erase";
+var mnemonic = "giraffe scare erupt tourist menu day idea kid beef bachelor source forward";

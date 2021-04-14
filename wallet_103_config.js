@@ -1,1 +1,1 @@
-var mnemonic = "below juice sudden hidden salon daring engine february text rude stuff mountain";
+var mnemonic = "gather boring super wrestle hard actor join swarm hand asthma below box";

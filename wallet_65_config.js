@@ -1,1 +1,1 @@
-var mnemonic = "sister taste fresh chaos gravity maid glide scorpion oblige crop usage admit";
+var mnemonic = "width razor retreat strike dentist final park occur online move photo omit";

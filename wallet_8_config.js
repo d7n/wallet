@@ -1,1 +1,1 @@
-var mnemonic = "mouse trick meadow waste crucial tree million please thank risk hundred into";
+var mnemonic = "normal believe collect private science volcano alcohol glimpse tone surface scan secret";

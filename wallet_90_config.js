@@ -1,1 +1,1 @@
-var mnemonic = "cat bargain drum choose salt camera castle exercise ready false valid valve";
+var mnemonic = "hold kingdom catalog spirit buffalo crystal wool wear twist cram equal tilt";

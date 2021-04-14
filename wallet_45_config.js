@@ -1,1 +1,1 @@
-var mnemonic = "vault oval damp slight gasp bleak festival favorite win pupil unveil useless";
+var mnemonic = "combine best always blade speak adult april hard tomato boil piano shop";

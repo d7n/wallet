@@ -1,1 +1,1 @@
-var mnemonic = "mail ask manage reveal fire humor grain tuition thumb either inflict kitchen";
+var mnemonic = "position thank miss idea palace tray universe term crush body census thank";

@@ -1,1 +1,1 @@
-var mnemonic = "powder depart reopen now injury fly unit bonus crunch hard denial island";
+var mnemonic = "spot loop analyst little simple resource runway soup tray lobster cart injury";

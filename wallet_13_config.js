@@ -1,1 +1,1 @@
-var mnemonic = "muscle hire pyramid enact song outer van lunch vessel option assume spare";
+var mnemonic = "mimic safe flash feature happy course seed swear daughter hurdle wedding clump";

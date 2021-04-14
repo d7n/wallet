@@ -1,1 +1,1 @@
-var mnemonic = "sausage miracle sure cube poverty innocent sting inject open skirt service lion";
+var mnemonic = "shy pepper mean diet measure increase priority slot genuine gossip sight ice";

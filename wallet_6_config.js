@@ -1,1 +1,1 @@
-var mnemonic = "rather scatter left rain kidney arrange whisper law crazy sort harsh anchor";
+var mnemonic = "rubber leader figure sense neck isolate clap globe huge shock category organ";

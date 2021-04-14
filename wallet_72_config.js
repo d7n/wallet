@@ -1,1 +1,1 @@
-var mnemonic = "winner room pink budget grow brown mimic awake amazing ribbon output barrel";
+var mnemonic = "aspect cross forget friend motion olympic cherry shadow enemy awful wisdom alter";

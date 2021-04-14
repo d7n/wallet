@@ -1,1 +1,1 @@
-var mnemonic = "census violin isolate table faith cover coyote garage match achieve inject radio";
+var mnemonic = "wall penalty task example index seat stove airport report faculty sick switch";

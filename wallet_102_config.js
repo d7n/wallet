@@ -1,1 +1,1 @@
-var mnemonic = "glue giraffe license shaft panic broom turkey desert soccer fix era dad";
+var mnemonic = "twist hidden shield pact garment pledge unaware turn twice degree comic shallow";

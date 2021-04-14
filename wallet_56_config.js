@@ -1,1 +1,1 @@
-var mnemonic = "enhance fee valid aunt police sock sponsor pulse noise arrow soldier end";
+var mnemonic = "dry veteran bottom crowd idle crush decline surprise suggest review coral unusual";

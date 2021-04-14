@@ -1,1 +1,1 @@
-var mnemonic = "away flush solid love weather eternal hungry bonus aisle awesome piece brief";
+var mnemonic = "cake magnet erupt depart common sword scene shallow place awful sail track";

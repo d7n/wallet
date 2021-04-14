@@ -1,1 +1,1 @@
-var mnemonic = "kitten help sock knife mutual success pioneer hybrid alone century price uphold";
+var mnemonic = "rocket blue aunt nest hybrid can initial motor found key act sphere";

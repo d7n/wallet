@@ -1,1 +1,1 @@
-var mnemonic = "exit dove tray kid dawn cloud speak key scale noise reward alone";
+var mnemonic = "figure dune sorry laundry valid cement fame edit setup museum deputy fat";

@@ -1,1 +1,1 @@
-var mnemonic = "wall electric someone grain drive feature soldier object mad lift plastic early";
+var mnemonic = "jealous coin negative page canyon nose orbit three worth disease slender defense";

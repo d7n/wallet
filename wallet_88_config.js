@@ -1,1 +1,1 @@
-var mnemonic = "coffee card gun addict prepare seminar recycle topple dial aerobic garlic garlic";
+var mnemonic = "tuition science destroy employ wear trip rubber concert ride brisk bubble peasant";

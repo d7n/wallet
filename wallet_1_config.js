@@ -1,1 +1,1 @@
-var mnemonic = "donor dog noodle wait pilot size vague arm misery off ozone visit";
+var mnemonic = "tenant knife lemon brown upgrade degree inch surround ill parent gate chalk";

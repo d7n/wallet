@@ -1,1 +1,1 @@
-var mnemonic = "dust artist flush reason canyon absurd auction mention bless asthma canvas steak";
+var mnemonic = "advice nose monitor indicate hurry license guard rare green onion under lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry ivory knife easy winter december fish capable view weather page nut";
+var mnemonic = "drop rough vendor cabin stay dutch melody nasty maze drink promote then";

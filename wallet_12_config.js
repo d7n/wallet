@@ -1,1 +1,1 @@
-var mnemonic = "age boost student guide rally melody civil column hockey squirrel silent hurt";
+var mnemonic = "cable repeat copper dog crew sorry sphere develop stereo error dry medal";

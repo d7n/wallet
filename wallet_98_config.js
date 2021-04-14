@@ -1,1 +1,1 @@
-var mnemonic = "burst trophy photo fruit envelope solar second blast muffin home hurry strong";
+var mnemonic = "health pull order will beach flock flame cart window alley method wall";

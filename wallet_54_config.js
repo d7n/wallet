@@ -1,1 +1,1 @@
-var mnemonic = "latin method shine loyal cushion comfort more tribe abandon smile clean clever";
+var mnemonic = "exchange vocal demise circle timber attitude wet hedgehog joy elegant burst advance";

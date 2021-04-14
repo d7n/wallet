@@ -1,1 +1,1 @@
-var mnemonic = "suffer sniff achieve ketchup antenna better slam stumble always escape icon frog";
+var mnemonic = "tumble total garbage chronic employ always photo goddess vehicle crawl useful ancient";

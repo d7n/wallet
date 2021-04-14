@@ -1,1 +1,1 @@
-var mnemonic = "invite bring path social chase doctor west network submit until claw they";
+var mnemonic = "moment comic fan claim put fossil retire shaft sweet coin struggle canoe";

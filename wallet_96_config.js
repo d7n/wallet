@@ -1,1 +1,1 @@
-var mnemonic = "cash common mandate science day profit audit daughter analyst depart taste glad";
+var mnemonic = "crop food price bounce fat surprise forest loud dolphin betray symbol fabric";

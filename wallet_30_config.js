@@ -1,1 +1,1 @@
-var mnemonic = "gold senior keep slab barrel august when uncover ignore robust random beauty";
+var mnemonic = "believe cover reject beach champion proud water rival human suspect shop human";

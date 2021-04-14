@@ -1,1 +1,1 @@
-var mnemonic = "scare eye sport sugar wink chapter funny glue shiver thumb reason cruise";
+var mnemonic = "wagon lawn dizzy slim afford lonely matrix question armed walnut prison debris";

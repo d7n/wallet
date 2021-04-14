@@ -1,1 +1,1 @@
-var mnemonic = "item sample bulb dignity mean cabin asset ankle pretty tube tag loud";
+var mnemonic = "fashion jar mom brush rough enable label leave right front crisp right";

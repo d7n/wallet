@@ -1,1 +1,1 @@
-var mnemonic = "order armor tiger ostrich absent there venue bag home flash crack donkey";
+var mnemonic = "erase owner picture awake fan aunt hazard rocket visit lonely friend legal";

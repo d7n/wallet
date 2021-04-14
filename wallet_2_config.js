@@ -1,1 +1,1 @@
-var mnemonic = "bracket dinosaur stomach describe usual demand saddle cycle hawk disagree rifle climb";
+var mnemonic = "custom lonely cheese jump street gather salad oak join spy disease useful";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup pride harsh frost morning oyster foam float bullet rice impulse distance";
+var mnemonic = "extend gun urban shift exist dry stick toward popular fame off sound";

@@ -1,1 +1,1 @@
-var mnemonic = "empty impact venue subject wreck rally carbon spider awesome habit viable leave";
+var mnemonic = "gloom mom that genuine normal inmate drama author before indoor attack width";

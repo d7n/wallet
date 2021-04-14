@@ -1,1 +1,1 @@
-var mnemonic = "receive forget eyebrow conduct moment stable choose shaft dawn vapor include mountain";
+var mnemonic = "believe dice trim turkey radio divorce belt multiply between oak drop habit";

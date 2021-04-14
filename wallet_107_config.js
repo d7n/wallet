@@ -1,1 +1,1 @@
-var mnemonic = "brush affair happy arch now bone silk desert horse shine city alone";
+var mnemonic = "renew gloom divert identify window ill decade toy network traffic casino public";

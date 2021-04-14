@@ -1,1 +1,1 @@
-var mnemonic = "yard prize eternal top grass hollow over demise budget sad biology derive";
+var mnemonic = "bean use unveil sketch melody siren what leader safe govern salon champion";

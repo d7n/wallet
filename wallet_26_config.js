@@ -1,1 +1,1 @@
-var mnemonic = "dynamic warrior bachelor jealous rib apple energy hybrid marriage doll gift mix";
+var mnemonic = "normal brisk possible poverty idea budget inflict stick torch month resource lawsuit";

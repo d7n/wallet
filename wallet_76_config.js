@@ -1,1 +1,1 @@
-var mnemonic = "gorilla pistol label cheese surprise clap canyon lottery stool giant frog assault";
+var mnemonic = "world six great supreme move museum powder devote raise cargo mobile parrot";

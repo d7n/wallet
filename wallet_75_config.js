@@ -1,1 +1,1 @@
-var mnemonic = "spice fiber casual razor tail visa toilet drink rocket picnic sphere voyage";
+var mnemonic = "beyond debate false garlic isolate fix crucial biology method ring soul blade";

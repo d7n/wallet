@@ -1,1 +1,1 @@
-var mnemonic = "hole theme whip reflect rib cattle top school axis habit cause airport";
+var mnemonic = "list destroy rebel letter book ill digital uncle aspect ketchup flower involve";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel burst woman omit increase pause action enforce deny size auto lucky";
+var mnemonic = "maid episode dentist eight crime ghost prevent black breeze market stone liberty";

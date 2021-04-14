@@ -1,1 +1,1 @@
-var mnemonic = "mistake head uncover expect sniff when harsh energy clinic warrior source shuffle";
+var mnemonic = "raven spatial unveil animal jump antique market advice involve alien coyote usage";

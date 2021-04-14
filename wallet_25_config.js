@@ -1,1 +1,1 @@
-var mnemonic = "maze arrow spoil ribbon sentence sudden guess mango length airport hammer avoid";
+var mnemonic = "hurry denial device urge lyrics various luggage loop stand vocal tuna close";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve sad devote captain coach ethics prosper noble also hobby bus coyote";
+var mnemonic = "gorilla course angle humor blast omit extend broccoli panda wood arena reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "cart hour cram alarm explain credit luggage forum twice page orbit science";
+var mnemonic = "movie carbon chronic coin message jar merry island forest dust enough young";

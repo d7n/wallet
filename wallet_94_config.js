@@ -1,1 +1,1 @@
-var mnemonic = "large account success silly poem aim aerobic gravity tip pottery soda unaware";
+var mnemonic = "define accident wasp pencil parent space crew hope tissue dutch liar one";

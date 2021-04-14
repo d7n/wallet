@@ -1,1 +1,1 @@
-var mnemonic = "fog brass scissors horn trim season broom roof industry save taxi diesel";
+var mnemonic = "begin type inherit bronze uncover exhaust size phone layer explain pattern balance";

@@ -1,1 +1,1 @@
-var mnemonic = "camp clog lottery stock place scout impulse neglect ankle limb cost adult";
+var mnemonic = "pattern dry hurdle orange snap bench intact heavy history gesture correct noise";

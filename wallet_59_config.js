@@ -1,1 +1,1 @@
-var mnemonic = "desert speed shaft divert junior parade man vessel sword veteran tiny mobile";
+var mnemonic = "source dinosaur drama gravity twelve buyer mean impose oblige claw supreme industry";

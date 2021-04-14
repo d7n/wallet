@@ -1,1 +1,1 @@
-var mnemonic = "large decorate force family reject panda better engine arena puzzle donor artwork";
+var mnemonic = "merry annual absorb puppy decorate coast abstract empower valley purity cotton long";

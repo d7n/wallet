@@ -1,1 +1,1 @@
-var mnemonic = "sort prize decline jelly brother wedding submit light exotic flip grab cement";
+var mnemonic = "ten curious gas special elite profit seven van fold motion topple motion";

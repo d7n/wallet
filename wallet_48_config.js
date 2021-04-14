@@ -1,1 +1,1 @@
-var mnemonic = "aerobic lyrics reason honey regret kidney length gift hover circle assault virus";
+var mnemonic = "hobby lawsuit hello apple add chronic glimpse screen devote ice ceiling vintage";

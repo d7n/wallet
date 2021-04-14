@@ -1,1 +1,1 @@
-var mnemonic = "flavor eye wise strategy stem train dinner crucial sustain yellow monster now";
+var mnemonic = "tongue lion hat bridge width insect deal hold sentence coast blush asset";

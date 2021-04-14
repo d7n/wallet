@@ -1,1 +1,1 @@
-var mnemonic = "common patrol engine speak mammal myself cousin capable medal ramp lounge reason";
+var mnemonic = "sea fat jaguar gossip habit pistol grass ripple little truth rifle soon";

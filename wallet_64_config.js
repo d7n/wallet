@@ -1,1 +1,1 @@
-var mnemonic = "struggle nice obey rifle voice upgrade pen sight salad remember arrive option";
+var mnemonic = "menu again salmon connect flat machine gallery disorder dial garlic during silly";

@@ -1,1 +1,1 @@
-var mnemonic = "gain romance piano eagle frequent adult verify analyst phone maximum page glare";
+var mnemonic = "rally violin inform alone duck disagree upgrade barely volcano enact great scout";

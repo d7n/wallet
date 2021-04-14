@@ -1,1 +1,1 @@
-var mnemonic = "spot flee sing dog agent plug pencil faith decrease napkin family solar";
+var mnemonic = "paper final trend custom series dignity material submit tomato shop turn define";

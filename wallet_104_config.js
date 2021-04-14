@@ -1,1 +1,1 @@
-var mnemonic = "major tooth place edge helmet purse return gauge flash unveil copper mesh";
+var mnemonic = "eager crush senior perfect mixed quote bullet enroll perfect life flash also";

@@ -1,1 +1,1 @@
-var mnemonic = "cage lecture barely confirm reunion wasp absorb treat effort dove social dentist";
+var mnemonic = "taste approve cruise crane film hidden turkey alpha oven artefact open mercy";

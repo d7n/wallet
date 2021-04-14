@@ -1,1 +1,1 @@
-var mnemonic = "tower obey planet best fuel talent dignity key core repair rich island";
+var mnemonic = "mammal lyrics check episode core buyer frost rather absorb science auction fog";

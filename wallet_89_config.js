@@ -1,1 +1,1 @@
-var mnemonic = "critic angry winner always include release own talk fossil hawk doctor garlic";
+var mnemonic = "once chronic gauge immune feed receive visit reveal all violin horse human";

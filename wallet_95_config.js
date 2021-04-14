@@ -1,1 +1,1 @@
-var mnemonic = "uphold tennis earth enjoy mango cause sick ripple humor couch latin copy";
+var mnemonic = "behave nominee hire crisp fire always twelve damp staff slot warfare mosquito";

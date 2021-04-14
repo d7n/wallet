@@ -1,1 +1,1 @@
-var mnemonic = "property jeans portion bench curtain useless amused flat decorate donkey useless provide";
+var mnemonic = "race unveil grass symptom winter sample need slam myself point wagon cabin";

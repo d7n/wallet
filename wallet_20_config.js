@@ -1,1 +1,1 @@
-var mnemonic = "asset attitude refuse mechanic affair grant cactus maid ugly ramp easily pitch";
+var mnemonic = "voyage ceiling goddess pave fuel useless ignore neither sunset flash garden mail";

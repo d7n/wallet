@@ -1,1 +1,1 @@
-var mnemonic = "pretty virtual all trouble suit neutral baby whale van accident syrup drink";
+var mnemonic = "roast pride maid tell monitor fine animal world very barrel wagon wrist";

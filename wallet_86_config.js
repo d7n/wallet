@@ -1,1 +1,1 @@
-var mnemonic = "include mind afford feature neutral symptom pulp erupt cage garlic stool example";
+var mnemonic = "kitten danger people warrior worth bottom hammer reflect stereo bounce issue youth";

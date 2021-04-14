@@ -1,1 +1,1 @@
-var mnemonic = "number paddle slab option half lamp water giggle wish voyage miss uncover";
+var mnemonic = "jacket resemble amateur shaft senior first dad shell wire genius penalty elephant";

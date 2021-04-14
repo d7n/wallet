@@ -1,1 +1,1 @@
-var mnemonic = "visit height basic radio hungry arch fiscal tide accident share eternal spice";
+var mnemonic = "enemy popular subway impose latin music pride offer amused twice hole cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent snap tank surge rail immense lion divert can leg rather van";
+var mnemonic = "inside want fuel over invite again bracket smooth round dinosaur crazy what";
