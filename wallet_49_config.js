@@ -1,1 +1,1 @@
-var mnemonic = "draw frequent knife decorate note wheat fix clay afford vanish umbrella flight";
+var mnemonic = "excess kiss boss raise thrive dog smile inherit antique tuna face obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist boss kidney ugly style harsh giant coral seek gym digital grunt";
+var mnemonic = "protect alley kit remember welcome cheap gap sure argue armor more fame";

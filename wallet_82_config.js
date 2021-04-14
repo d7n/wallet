@@ -1,1 +1,1 @@
-var mnemonic = "sugar rate pass pigeon junior shrimp retreat winter shaft custom excuse urban";
+var mnemonic = "march romance gorilla hazard grace cherry soda release radio elevator bottom rare";

@@ -1,1 +1,1 @@
-var mnemonic = "draw child palm patrol decrease mammal control because empower entire firm elbow";
+var mnemonic = "fortune market next coach vague gauge diet despair cook flash permit mirror";

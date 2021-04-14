@@ -1,1 +1,1 @@
-var mnemonic = "intact split garage guilt economy kick add champion drift negative exhaust control";
+var mnemonic = "answer reflect floor hard giant day spin secret depend wire figure width";

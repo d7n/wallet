@@ -1,1 +1,1 @@
-var mnemonic = "round nuclear bargain filter shed steel camp mother flame coffee attend equip";
+var mnemonic = "noble resemble broken deputy butter merit clean bag prosper embody panic know";

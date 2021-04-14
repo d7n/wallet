@@ -1,1 +1,1 @@
-var mnemonic = "tell crystal alone gravity elephant hand broom spare circle half there laptop";
+var mnemonic = "leave tip tool pair fury glimpse text multiply body observe topic behind";

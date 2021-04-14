@@ -1,1 +1,1 @@
-var mnemonic = "genuine fine pyramid update twenty explain myth walnut predict ladder merge relief";
+var mnemonic = "claim aunt kite horse receive main luggage nest snack adult thrive bronze";

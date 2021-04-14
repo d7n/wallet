@@ -1,1 +1,1 @@
-var mnemonic = "angry rebel cricket lecture time ten clutch mean jewel laundry misery license";
+var mnemonic = "junior feel silent hundred buffalo ahead morning similar tuna grape diamond voice";

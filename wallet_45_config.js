@@ -1,1 +1,1 @@
-var mnemonic = "science dinner expect media worry infant spin amateur vapor style survey wage";
+var mnemonic = "virtual wrist stone ethics toast disagree high busy dentist strong surface tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "warm gauge pattern junior bus express rough equal sun power dentist lumber";
+var mnemonic = "pave renew below together arrow either lawn stadium fame ball law dream";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock joke useful guitar fatal elbow sausage combine diary unlock example floor";
+var mnemonic = "risk pelican peasant measure amused fix action coral equal scorpion transfer vacuum";

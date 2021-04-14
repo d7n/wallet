@@ -1,1 +1,1 @@
-var mnemonic = "royal pet enrich mountain recipe exchange among style crystal clock force luxury";
+var mnemonic = "exercise cactus clerk husband celery draw rain improve extra betray exhaust topple";

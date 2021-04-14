@@ -1,1 +1,1 @@
-var mnemonic = "limit gain icon exile stick key ladder embody ring junk opinion flame";
+var mnemonic = "mandate midnight kiwi inner brother ten margin cake deposit horror pyramid virus";

@@ -1,1 +1,1 @@
-var mnemonic = "fine into tip again practice decide shadow century gravity host squirrel misery";
+var mnemonic = "lyrics crisp zone armor top resource draw mirror bachelor logic decade fence";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion letter lava position latin orient idle modify impulse update suspect pig";
+var mnemonic = "black token enlist unaware town gown put tongue word hint naive grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "skull agree agree river dismiss reward glance puppy river venture average shoulder";
+var mnemonic = "audit noodle guilt second friend drama boil ocean album slogan sketch easy";

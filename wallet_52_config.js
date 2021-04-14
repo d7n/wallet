@@ -1,1 +1,1 @@
-var mnemonic = "neither west rail then avoid equip pledge maple lens oven face family";
+var mnemonic = "trouble boy holiday match climb require clip asset grant such bench trade";

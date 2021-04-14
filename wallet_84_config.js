@@ -1,1 +1,1 @@
-var mnemonic = "high snap virtual glad occur piano gap reduce remain stem eye execute";
+var mnemonic = "horror admit south number bag dose actress jealous avocado together photo team";

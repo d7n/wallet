@@ -1,1 +1,1 @@
-var mnemonic = "process subway ability live spike impose obtain foster bid wine vessel page";
+var mnemonic = "palace border blame resemble grit label glimpse ranch stand photo disagree obtain";

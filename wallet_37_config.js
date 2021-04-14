@@ -1,1 +1,1 @@
-var mnemonic = "suggest youth acoustic expect afford talk helmet great memory property exercise rail";
+var mnemonic = "long prefer novel keen faculty give rigid season field gloom play expose";

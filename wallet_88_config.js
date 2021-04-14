@@ -1,1 +1,1 @@
-var mnemonic = "coast decade hidden soup birth squirrel elegant victory addict weasel lecture great";
+var mnemonic = "worth vital shop craft share fit spray latin blast trap join rare";

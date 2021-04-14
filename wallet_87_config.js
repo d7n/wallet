@@ -1,1 +1,1 @@
-var mnemonic = "dignity hat margin similar humor object settle sorry sign budget flavor either";
+var mnemonic = "ordinary penalty ceiling snack hurry lift wonder dignity tortoise resist mimic drastic";

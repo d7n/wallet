@@ -1,1 +1,1 @@
-var mnemonic = "about actress cube wish sadness discover direct liar economy health margin swear";
+var mnemonic = "can mushroom chapter wise rely decline public bleak park glide knife fossil";

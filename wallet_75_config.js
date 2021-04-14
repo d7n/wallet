@@ -1,1 +1,1 @@
-var mnemonic = "humor small bachelor engine lunar mechanic guitar glow tobacco soldier charge siege";
+var mnemonic = "blossom ocean raccoon awesome pyramid winner rain museum zebra addict tragic involve";

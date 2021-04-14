@@ -1,1 +1,1 @@
-var mnemonic = "pledge health merit tell airport present heart trust peasant arrow unveil believe";
+var mnemonic = "canoe husband chat fuel announce bachelor dinosaur drip canoe movie engage excess";

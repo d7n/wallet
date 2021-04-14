@@ -1,1 +1,1 @@
-var mnemonic = "office lawsuit twenty jelly cool exclude spider fragile leaf permit tell define";
+var mnemonic = "lake sport limit blind tumble ship please happy pepper olive glimpse planet";

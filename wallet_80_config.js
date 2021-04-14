@@ -1,1 +1,1 @@
-var mnemonic = "renew beyond glow evidence wait crucial craft enrich equip ask stairs multiply";
+var mnemonic = "dance era pride salute taxi lonely apology afraid theme flag text detect";

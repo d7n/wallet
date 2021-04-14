@@ -1,1 +1,1 @@
-var mnemonic = "enemy local fluid name crop brick install lottery genius above fashion insane";
+var mnemonic = "tent olive place witness unknown quarter gift atom modify spell enforce wing";

@@ -1,1 +1,1 @@
-var mnemonic = "inch alcohol gather lobster turn obvious wrap ripple core latin main account";
+var mnemonic = "raven taste motor chimney session master you busy fault logic embody casual";

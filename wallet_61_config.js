@@ -1,1 +1,1 @@
-var mnemonic = "subway defy typical inside rail cabbage hurt swamp choice army jazz struggle";
+var mnemonic = "banner grain seven rebuild decade hip update aim false alcohol stamp repeat";

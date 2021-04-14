@@ -1,1 +1,1 @@
-var mnemonic = "diesel snack miracle desk ship turtle kiss despair amazing label clip hair";
+var mnemonic = "shadow network alley still know correct coach stool design latin oxygen comfort";

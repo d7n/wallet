@@ -1,1 +1,1 @@
-var mnemonic = "school reform daring medal forward bunker siege drop escape artwork cloud umbrella";
+var mnemonic = "faculty female harbor scrap club segment erupt rare adjust office solve panel";

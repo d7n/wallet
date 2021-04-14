@@ -1,1 +1,1 @@
-var mnemonic = "siren few office mention chaos student field leisure system ramp social prepare";
+var mnemonic = "grab income lumber brain mom rack diagram leopard vault utility casino fruit";

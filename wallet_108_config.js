@@ -1,1 +1,1 @@
-var mnemonic = "crowd bring excite improve swing nest total master current regret library develop";
+var mnemonic = "giant ask public maximum ski evidence mango any soon alley holiday twelve";

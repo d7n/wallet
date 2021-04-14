@@ -1,1 +1,1 @@
-var mnemonic = "project gravity trial feature just clever false wolf two rapid worth mistake";
+var mnemonic = "ready truth lunar first broom treat tomorrow turkey alert screen twelve umbrella";

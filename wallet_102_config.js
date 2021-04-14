@@ -1,1 +1,1 @@
-var mnemonic = "aware visual misery jacket movie mixed captain salmon rail ecology private armor";
+var mnemonic = "draft claw coral dumb proof fantasy main tragic govern kitten cannon tube";

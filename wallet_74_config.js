@@ -1,1 +1,1 @@
-var mnemonic = "camera purity rebuild dilemma buddy minimum position cable limb jelly shoulder enemy";
+var mnemonic = "love noise illegal wait gym slice style magic poet anchor poet eyebrow";

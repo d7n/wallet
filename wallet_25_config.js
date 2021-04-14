@@ -1,1 +1,1 @@
-var mnemonic = "total ahead two control canvas swift frown engine code section steel connect";
+var mnemonic = "only this chalk lyrics nothing stick armor nurse upgrade when fashion toilet";

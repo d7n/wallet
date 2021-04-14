@@ -1,1 +1,1 @@
-var mnemonic = "recycle shed depth female soul behave column fish symptom topic valley riot";
+var mnemonic = "connect area favorite alien whale miss clip avoid arctic quality skirt ability";

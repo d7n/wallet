@@ -1,1 +1,1 @@
-var mnemonic = "invest cupboard stick predict hospital swarm derive excess shine soon plunge client";
+var mnemonic = "split dilemma desert save remind human fetch session crisp cute retreat wet";

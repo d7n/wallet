@@ -1,1 +1,1 @@
-var mnemonic = "wasp urban saddle thought file food minor senior figure burger panther assault";
+var mnemonic = "wing kitten mobile online mystery clean face worry tobacco must pitch cable";

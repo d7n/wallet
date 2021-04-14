@@ -1,1 +1,1 @@
-var mnemonic = "fade this input art balcony awkward trend arrest turn loud wool salute";
+var mnemonic = "ice humor once permit shiver tag cushion demand beyond barely feature improve";

@@ -1,1 +1,1 @@
-var mnemonic = "novel gospel rule cute rough connect jewel eager blade differ taste mobile";
+var mnemonic = "satoshi human mad merit museum scene attack way artefact obtain milk merge";

@@ -1,1 +1,1 @@
-var mnemonic = "file castle misery reason net transfer adjust coyote fossil firm gift dismiss";
+var mnemonic = "walk pole pistol picnic sketch oven fit brown maze allow start cupboard";

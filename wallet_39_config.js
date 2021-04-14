@@ -1,1 +1,1 @@
-var mnemonic = "twelve tackle fish salad usual belt gain noble fatigue cheap total cream";
+var mnemonic = "return until olympic summer swallow nation multiply cherry transfer negative soup vanish";

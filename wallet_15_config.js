@@ -1,1 +1,1 @@
-var mnemonic = "forget match shrimp air kitchen shadow toast nest dumb curtain absorb direct";
+var mnemonic = "twist cram broken genius economy surge canal scatter unique hundred noise oval";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz exclude donkey prize horse wine lamp exotic six fringe bridge pass";
+var mnemonic = "figure control asthma ribbon bomb jar bridge hello palace write blur accident";

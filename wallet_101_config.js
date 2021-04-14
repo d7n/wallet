@@ -1,1 +1,1 @@
-var mnemonic = "goddess illness switch control siren toilet today awake turn remove forward enrich";
+var mnemonic = "seek erupt average shallow embody economy penalty alarm clean farm rebuild ill";

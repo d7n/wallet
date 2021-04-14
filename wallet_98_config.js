@@ -1,1 +1,1 @@
-var mnemonic = "hover fashion noise entire chat witness hazard trigger popular artefact path parrot";
+var mnemonic = "finger mushroom stamp bind ripple rival open various famous ill finish steak";

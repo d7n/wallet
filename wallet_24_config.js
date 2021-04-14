@@ -1,1 +1,1 @@
-var mnemonic = "airport enjoy across broken caution item cloth engine fragile more limit remove";
+var mnemonic = "old win crane pond spot dentist test want require code burden key";

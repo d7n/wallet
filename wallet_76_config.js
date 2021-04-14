@@ -1,1 +1,1 @@
-var mnemonic = "culture virus barrel ozone angle capable argue cruel odor cancel exotic sample";
+var mnemonic = "name immune eager universe amateur sad weird elephant track milk invest word";

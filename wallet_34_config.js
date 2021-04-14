@@ -1,1 +1,1 @@
-var mnemonic = "resource list public mesh inquiry catch december burger blossom awkward dial permit";
+var mnemonic = "blind mandate donor gun appear grocery wish noble tomorrow property script pattern";

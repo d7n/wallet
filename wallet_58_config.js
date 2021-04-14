@@ -1,1 +1,1 @@
-var mnemonic = "loan cake absent mean glove bean steak jump around harbor script inject";
+var mnemonic = "enrich winner steel before siege item enrich armed travel educate misery trash";

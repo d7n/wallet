@@ -1,1 +1,1 @@
-var mnemonic = "behind adult clump cup panda destroy total autumn act jaguar solve post";
+var mnemonic = "meat relief reunion wire nasty lake gate crane arm village refuse range";

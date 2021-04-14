@@ -1,1 +1,1 @@
-var mnemonic = "like arrange thought foot result elephant behave dwarf grunt clay mansion jewel";
+var mnemonic = "neglect credit split general napkin humor apology antique tank general poem east";

@@ -1,1 +1,1 @@
-var mnemonic = "crop camp century pen size lottery keen lawsuit broken eagle bronze segment";
+var mnemonic = "salon gift client tortoise split talk eight stomach apology close ivory dawn";

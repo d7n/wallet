@@ -1,1 +1,1 @@
-var mnemonic = "detail shoe skin pluck rose concert suit bleak upset depart eager gate";
+var mnemonic = "immune eagle lounge smart science culture used shop truck chronic animal mix";

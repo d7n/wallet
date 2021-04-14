@@ -1,1 +1,1 @@
-var mnemonic = "stick dragon elbow multiply goose color undo drink movie amateur gallery airport";
+var mnemonic = "despair electric cattle sibling slogan limb cement nut leisure relief visit early";

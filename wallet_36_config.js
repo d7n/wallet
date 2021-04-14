@@ -1,1 +1,1 @@
-var mnemonic = "female develop genre oval drop child situate silent usual dismiss hobby nose";
+var mnemonic = "robot review welcome rebuild artwork bamboo merit drift exact design sponsor head";

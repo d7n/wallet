@@ -1,1 +1,1 @@
-var mnemonic = "burst mango cluster rib arrive shallow style later suggest chuckle pear fatigue";
+var mnemonic = "toddler replace balance sting earn gold alarm camp invite edge marble again";

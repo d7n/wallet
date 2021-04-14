@@ -1,1 +1,1 @@
-var mnemonic = "hundred oak joke pink brass plate slender jump injury very adapt acoustic";
+var mnemonic = "chronic brand east fiction supreme modify knee space expect uncle wreck butter";

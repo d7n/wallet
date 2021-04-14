@@ -1,1 +1,1 @@
-var mnemonic = "cloud dynamic gate gold snap hybrid evidence home pride stairs jungle wish";
+var mnemonic = "rent wagon goddess lift earn armor frost love blood front rough rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual charge blood envelope tunnel shed sock inner shiver circle similar gain";
+var mnemonic = "acquire engine service display dose suit tree soldier title other gentle lady";

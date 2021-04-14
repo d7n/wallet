@@ -1,1 +1,1 @@
-var mnemonic = "sudden uniform segment job stamp ivory goat minimum voyage admit fitness mushroom";
+var mnemonic = "hand stomach retire suffer chronic dragon poverty oak wrong field pyramid mimic";

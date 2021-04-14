@@ -1,1 +1,1 @@
-var mnemonic = "much fiscal tumble ordinary crowd easy camp grief mango alien chase field";
+var mnemonic = "hurry prison bicycle blanket company power ball above round sick shiver feature";

@@ -1,1 +1,1 @@
-var mnemonic = "spare birth remind bicycle hope refuse motor spin borrow business best hero";
+var mnemonic = "record disorder retire attack steak industry tuna circle job olive perfect spin";

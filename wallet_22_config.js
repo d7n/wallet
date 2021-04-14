@@ -1,1 +1,1 @@
-var mnemonic = "bind reveal name motion giggle civil seat civil fall ethics submit near";
+var mnemonic = "ask cabin grace narrow clutch journey render rule fence vault tonight property";

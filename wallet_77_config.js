@@ -1,1 +1,1 @@
-var mnemonic = "swamp benefit frost panther minor obvious pulse front paper balance debris open";
+var mnemonic = "gaze agent soap summer rescue discover angle galaxy tank spell bring rice";

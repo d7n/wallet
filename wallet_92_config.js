@@ -1,1 +1,1 @@
-var mnemonic = "absurd struggle master cattle cactus duck sing whip raccoon rabbit all divide";
+var mnemonic = "toward cliff cushion surround more spin token auction soft pull survey vote";

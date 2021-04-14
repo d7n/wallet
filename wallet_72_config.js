@@ -1,1 +1,1 @@
-var mnemonic = "lawn various sponsor tissue security until execute ladder limb valley hair biology";
+var mnemonic = "absorb predict below blind crack bachelor daring jump evolve window lobster gospel";

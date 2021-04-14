@@ -1,1 +1,1 @@
-var mnemonic = "horn prosper labor cattle update flower innocent all fat swift live shadow";
+var mnemonic = "wheat bean bubble patch theory diagram remember citizen arch knock young step";

@@ -1,1 +1,1 @@
-var mnemonic = "choose naive venue angry drink cabbage fit ensure column spell success amused";
+var mnemonic = "arch canal cherry use harbor junk forward betray october yellow quiz december";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain notable enact slab trend gesture slot fresh mom insect reopen length";
+var mnemonic = "stairs cradle pole caution random lab trophy phrase change derive throw hidden";

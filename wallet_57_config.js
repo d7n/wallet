@@ -1,1 +1,1 @@
-var mnemonic = "poem acoustic squeeze bracket tired glove stadium weather glue midnight detect black";
+var mnemonic = "purpose company next simple relax narrow invest glass thank festival embrace lizard";

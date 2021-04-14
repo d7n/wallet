@@ -1,1 +1,1 @@
-var mnemonic = "attend elder provide sleep fold neglect myself better crew pave unveil liberty";
+var mnemonic = "disorder whale grit ask render cost reopen blush spike episode area maximum";

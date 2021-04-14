@@ -1,1 +1,1 @@
-var mnemonic = "parent daughter saddle income pig fiber bus glue learn diesel december dial";
+var mnemonic = "science alter rough predict young fox aerobic feel hair spot wash first";

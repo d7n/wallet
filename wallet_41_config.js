@@ -1,1 +1,1 @@
-var mnemonic = "please shell movie true crew spice midnight witness village cry camera garage";
+var mnemonic = "sting wire feed any excuse vapor fun dune false gospel powder sweet";

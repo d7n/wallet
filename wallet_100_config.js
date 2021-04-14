@@ -1,1 +1,1 @@
-var mnemonic = "brick hawk anchor fame craft noodle school struggle tennis giggle coast quote";
+var mnemonic = "across rate mouse since poem miss uncle soup gallery better fix illegal";

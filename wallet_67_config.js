@@ -1,1 +1,1 @@
-var mnemonic = "reason fatigue bring agent discover foil buddy have fossil plunge flight fold";
+var mnemonic = "object pole never sauce track toddler need bomb sleep online immune penalty";

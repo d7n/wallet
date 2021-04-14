@@ -1,1 +1,1 @@
-var mnemonic = "stumble kiss diary siren frozen setup baby monster vendor used dial blood";
+var mnemonic = "vicious neither road begin tornado twist inmate grape clutch tuna cycle carry";

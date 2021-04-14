@@ -1,1 +1,1 @@
-var mnemonic = "sword mask young diagram horror sunset author shoulder liquid swing small payment";
+var mnemonic = "nature original coral people tiny system exclude skull silly either resist ugly";

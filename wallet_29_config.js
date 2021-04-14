@@ -1,1 +1,1 @@
-var mnemonic = "ladder execute object audit congress vicious error city scrub never fortune despair";
+var mnemonic = "barely trick exact update auction scatter erase arctic umbrella vital lumber gesture";

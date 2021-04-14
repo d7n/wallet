@@ -1,1 +1,1 @@
-var mnemonic = "utility cheese unlock cool bus document twice tip method bleak sad gadget";
+var mnemonic = "weather prefer attend aunt before daring reason robot promote anxiety exile lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble goddess column predict quick night treat patrol steak impact typical fluid";
+var mnemonic = "saddle tank bar water prize tilt road high icon melt great true";

@@ -1,1 +1,1 @@
-var mnemonic = "mule energy speed execute key civil salute among put trick purse flat";
+var mnemonic = "travel brush panda tunnel endless depart absorb blue sugar seek artefact table";

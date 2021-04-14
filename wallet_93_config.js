@@ -1,1 +1,1 @@
-var mnemonic = "expose announce upset wrist slide sick acid kite high language benefit goddess";
+var mnemonic = "cup switch ancient rotate jazz endorse debate crane problem swing thrive bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit step wall enjoy addict exhaust dinosaur fatal render cherry august solve";
+var mnemonic = "bubble allow anger include drift dilemma drop barely special garden tide test";

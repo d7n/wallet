@@ -1,1 +1,1 @@
-var mnemonic = "business enable wagon act flee usage forward rookie maximum mansion siege client";
+var mnemonic = "ocean brisk have predict symbol mesh village turtle blush ski mixed concert";

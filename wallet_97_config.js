@@ -1,1 +1,1 @@
-var mnemonic = "dust paddle bounce ginger group sport other filter asset latin vibrant easily";
+var mnemonic = "force cable mandate anxiety slab vague purchase hold glue mass join goose";

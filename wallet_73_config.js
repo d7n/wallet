@@ -1,1 +1,1 @@
-var mnemonic = "jump clutch oblige distance pipe open wonder tonight denial modify dune already";
+var mnemonic = "toilet laugh either insane quote comfort meat silly cheese choice gauge scan";

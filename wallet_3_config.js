@@ -1,1 +1,1 @@
-var mnemonic = "pen execute spy random kid split palm chapter heart arctic dentist maid";
+var mnemonic = "then dash acid oven stand author excess elite best crouch middle announce";

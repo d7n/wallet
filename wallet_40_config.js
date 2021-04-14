@@ -1,1 +1,1 @@
-var mnemonic = "wrong canyon pretty other hollow distance clown nerve tackle oven ivory never";
+var mnemonic = "wrong forum green suggest hope gravity soldier dizzy search amazing spoon express";
