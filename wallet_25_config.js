@@ -1,1 +1,1 @@
-var mnemonic = "phrase bag drop certain damage stable view inch sort village increase acoustic";
+var mnemonic = "figure depend pistol suggest process ill expand myself shift canyon road brother";

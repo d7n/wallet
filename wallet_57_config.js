@@ -1,1 +1,1 @@
-var mnemonic = "fall chuckle pass fiber shrimp chunk friend exchange learn coconut nerve habit";
+var mnemonic = "evil slogan foam sting skirt dial devote upper obvious monkey swift attack";

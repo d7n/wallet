@@ -1,1 +1,1 @@
-var mnemonic = "jeans equal fatal hat opera play brush dismiss lottery card wish ecology";
+var mnemonic = "cloud click glove eternal hazard debate ordinary response solid hunt appear web";

@@ -1,1 +1,1 @@
-var mnemonic = "wave hazard hour often valley health wide more avoid hair muffin tobacco";
+var mnemonic = "panic whip annual lamp cute gossip result clock city onion park vital";

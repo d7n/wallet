@@ -1,1 +1,1 @@
-var mnemonic = "canal cycle pear talent merge route nation poem jacket rigid skirt maple";
+var mnemonic = "ship peanut merit gather business earth weather market thumb gentle dawn bridge";

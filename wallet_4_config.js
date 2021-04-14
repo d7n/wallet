@@ -1,1 +1,1 @@
-var mnemonic = "vintage youth profit sadness crew goat bus harbor way hybrid trick citizen";
+var mnemonic = "empower setup cancel exist purchase flight royal fine thought excuse next response";

@@ -1,1 +1,1 @@
-var mnemonic = "iron tumble laptop tortoise address climb soup venture topple assist amateur bright";
+var mnemonic = "snake hockey merit demand link belt blind box shadow uncle tobacco object";

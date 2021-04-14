@@ -1,1 +1,1 @@
-var mnemonic = "novel inherit muffin lucky potato pear slot intact observe scrub rule borrow";
+var mnemonic = "uphold tower topic stuff tuition palace gorilla recall mix mind trouble misery";

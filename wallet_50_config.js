@@ -1,1 +1,1 @@
-var mnemonic = "strong belt scorpion fashion clip false squirrel buddy flame snap limit energy";
+var mnemonic = "sister either click nut apple cabbage assist scout neck oblige aspect convince";

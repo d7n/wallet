@@ -1,1 +1,1 @@
-var mnemonic = "nephew electric label pilot belt near eyebrow trash suit another snow cash";
+var mnemonic = "social spike frequent antique mom misery owner attack velvet rice tongue rifle";

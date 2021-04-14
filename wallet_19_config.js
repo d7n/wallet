@@ -1,1 +1,1 @@
-var mnemonic = "bring bitter steak december domain gym height until fold oak mix select";
+var mnemonic = "text wealth social glide round slot miracle vocal cradle mimic cotton nation";

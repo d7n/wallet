@@ -1,1 +1,1 @@
-var mnemonic = "slight choose potato welcome title october deputy photo birth blame royal affair";
+var mnemonic = "mechanic illness polar push race pelican cause coconut defy now credit nature";

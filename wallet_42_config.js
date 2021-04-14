@@ -1,1 +1,1 @@
-var mnemonic = "job fiber eager wing arm smile disease pottery afraid uniform tree shop";
+var mnemonic = "escape festival skate slab truly dad lens frozen skirt breeze obscure length";

@@ -1,1 +1,1 @@
-var mnemonic = "purity kit adult puppy cheap gym found grunt math tuition trigger lawn";
+var mnemonic = "trap breeze donkey eager flee enough weekend wrong fan swear advice oval";

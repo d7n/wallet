@@ -1,1 +1,1 @@
-var mnemonic = "sleep great action case material dish diesel catch under culture donkey rail";
+var mnemonic = "knock fog rule hazard genius gasp erode find bring like leaf lunar";

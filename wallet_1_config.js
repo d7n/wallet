@@ -1,1 +1,1 @@
-var mnemonic = "concert coin vacant school crane fruit tube shop brass mansion table atom";
+var mnemonic = "notice access junior inflict tooth thrive furnace cheap predict believe decrease fame";

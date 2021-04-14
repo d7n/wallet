@@ -1,1 +1,1 @@
-var mnemonic = "happy panda stomach project sadness glide image opera famous shrimp grape three";
+var mnemonic = "erupt slim correct alien bag list brain head win earn flash mushroom";

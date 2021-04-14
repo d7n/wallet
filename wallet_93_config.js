@@ -1,1 +1,1 @@
-var mnemonic = "title girl humble fancy erosion hurdle rich frost cloth sign permit maximum";
+var mnemonic = "spirit volume leader shy hint all dream dog steak gather flower frog";

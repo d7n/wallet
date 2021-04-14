@@ -1,1 +1,1 @@
-var mnemonic = "ready keen obvious february avoid strong ensure ostrich chronic fun runway license";
+var mnemonic = "approve middle result knife rhythm motor now silk pride about spread stomach";

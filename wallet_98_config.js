@@ -1,1 +1,1 @@
-var mnemonic = "pledge beyond flavor muffin basic cycle tell rebuild labor act grocery spoil";
+var mnemonic = "stadium weasel aerobic cancel rigid cream bachelor sunny young lion cause segment";

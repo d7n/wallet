@@ -1,1 +1,1 @@
-var mnemonic = "rice must lobster flower trip roof hurdle march path tone around impulse";
+var mnemonic = "addict guitar meat debris pudding garment enforce movie argue creek effort comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "sword circle strong day mango lift denial spend creek crime horn worth";
+var mnemonic = "habit afford hungry business useful measure hamster piece upset equip soul relax";

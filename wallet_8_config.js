@@ -1,1 +1,1 @@
-var mnemonic = "auction cup excuse silk child bachelor lamp employ truly excuse object kit";
+var mnemonic = "gasp rain market remember opera ancient bench morning aware sure victory wonder";

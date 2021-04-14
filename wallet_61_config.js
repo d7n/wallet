@@ -1,1 +1,1 @@
-var mnemonic = "elevator pistol female already multiply cereal energy endless output few scout story";
+var mnemonic = "pact immune unfold clever box river mansion there dad company soon organ";

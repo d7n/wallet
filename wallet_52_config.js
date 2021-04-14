@@ -1,1 +1,1 @@
-var mnemonic = "desert burger stage eight critic end extend honey sister butter person easy";
+var mnemonic = "jump melt trap tip scatter emotion display vehicle prevent cotton wonder involve";

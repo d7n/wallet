@@ -1,1 +1,1 @@
-var mnemonic = "motor talk alcohol smooth fancy video true life oxygen width trial cram";
+var mnemonic = "powder seven impulse old cousin lounge link focus bubble tilt sort desk";

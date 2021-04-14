@@ -1,1 +1,1 @@
-var mnemonic = "ball scene sick river come slim express merry robot year alone brisk";
+var mnemonic = "member can spring engage potato antique ready bulb idea tuna cave great";

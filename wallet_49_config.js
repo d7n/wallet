@@ -1,1 +1,1 @@
-var mnemonic = "brush ranch pig garden surprise square name comfort tool betray trap tobacco";
+var mnemonic = "sentence pilot devote garment flight math ripple practice talk whisper hotel twelve";

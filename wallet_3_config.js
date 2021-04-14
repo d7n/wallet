@@ -1,1 +1,1 @@
-var mnemonic = "alert visual build develop steel bounce shoulder turkey session mandate sight lonely";
+var mnemonic = "prefer catch sugar squeeze bargain brisk month guitar never master source width";

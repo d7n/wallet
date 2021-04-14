@@ -1,1 +1,1 @@
-var mnemonic = "artefact mean axis budget spoil sense fancy just laugh ghost emerge modify";
+var mnemonic = "either attend zoo damage one gauge matrix glad party measure screen relief";

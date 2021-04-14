@@ -1,1 +1,1 @@
-var mnemonic = "saddle photo reason note crash step focus deliver marble cross right describe";
+var mnemonic = "crouch document force toss blush inmate nothing pioneer dog fiction weather kangaroo";

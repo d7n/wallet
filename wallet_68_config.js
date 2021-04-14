@@ -1,1 +1,1 @@
-var mnemonic = "other exercise focus galaxy spider scale trust pattern lab negative trigger dilemma";
+var mnemonic = "cycle daughter rare gospel visual pizza smooth donkey struggle settle success frost";

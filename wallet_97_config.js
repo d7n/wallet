@@ -1,1 +1,1 @@
-var mnemonic = "neglect employ point net mad butter tragic like pair filter cart master";
+var mnemonic = "cattle clap cement feel total frown bitter snack dirt enter major talk";

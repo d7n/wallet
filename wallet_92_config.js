@@ -1,1 +1,1 @@
-var mnemonic = "orange happy mirror shine essay cousin artefact nerve survey cheap ritual toilet";
+var mnemonic = "advance solution tired virus churn arrest wear analyst upon rabbit drip equip";

@@ -1,1 +1,1 @@
-var mnemonic = "bench argue avoid peasant salmon board tray reward sugar doctor skull naive";
+var mnemonic = "link frown tooth across clean civil fox portion estate shift attract pause";

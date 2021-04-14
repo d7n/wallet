@@ -1,1 +1,1 @@
-var mnemonic = "clown flip eight lizard gaze float glimpse run guilt cradle report ivory";
+var mnemonic = "opinion mosquito tag silk develop pact illegal echo minimum brown reward never";

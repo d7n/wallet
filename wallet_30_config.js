@@ -1,1 +1,1 @@
-var mnemonic = "retire remind defense library solar envelope nurse neck timber detail soft connect";
+var mnemonic = "warm toast feature test latin decorate swift produce fox dizzy blood object";

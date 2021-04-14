@@ -1,1 +1,1 @@
-var mnemonic = "tool life spell gold elder yard foil truck music ankle truly country";
+var mnemonic = "aim embody business sing tiny castle radio merry bamboo fade hand please";

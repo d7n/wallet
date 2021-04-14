@@ -1,1 +1,1 @@
-var mnemonic = "behave lawsuit rack sugar quit common frequent horn angle gun wave crowd";
+var mnemonic = "lobster barely clerk shed actress engage side field predict control team unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy tourist rapid light solid urban mammal swamp approve diagram cost buddy";
+var mnemonic = "bar door what base kangaroo ridge axis mountain engage fetch stand point";

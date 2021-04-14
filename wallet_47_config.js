@@ -1,1 +1,1 @@
-var mnemonic = "where attack toy afraid element rate spoil raccoon hard police sniff cheese";
+var mnemonic = "private spider antique rib hair board gasp scrub sister phrase slight online";

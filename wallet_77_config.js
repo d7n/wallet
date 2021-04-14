@@ -1,1 +1,1 @@
-var mnemonic = "mansion pepper honey night host install fork earn page disagree act dismiss";
+var mnemonic = "device foster lyrics night ability misery over boy now lunch donkey grow";

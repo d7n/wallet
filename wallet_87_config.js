@@ -1,1 +1,1 @@
-var mnemonic = "finish common push inflict laugh home load legend seminar nothing nation chest";
+var mnemonic = "over basket mouse thank feed fun prison federal chunk carbon battle disease";

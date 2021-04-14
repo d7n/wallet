@@ -1,1 +1,1 @@
-var mnemonic = "surround quantum fiscal maple coyote spatial radio guard gain wife sight inject";
+var mnemonic = "defy unaware deer arrive device affair task melt piano expose sheriff cart";

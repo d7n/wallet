@@ -1,1 +1,1 @@
-var mnemonic = "marine beach donor enable walk coconut blossom between quit supreme olive couch";
+var mnemonic = "goose book argue turn shrug shed diary reject script also slam apple";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach joke car setup off trophy casual moment right asset question abstract";
+var mnemonic = "bamboo kiwi popular drift eternal tube prize piece silly fiction hover jaguar";

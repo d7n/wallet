@@ -1,1 +1,1 @@
-var mnemonic = "great father slight improve lunch pistol wood goat state dog kid kick";
+var mnemonic = "pause soon country cattle march knee collect sting evoke labor best nominee";

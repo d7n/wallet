@@ -1,1 +1,1 @@
-var mnemonic = "feel cat tree echo say loud luggage word click upset own color";
+var mnemonic = "dwarf victory feel hawk dry plate eyebrow april swap response violin dry";

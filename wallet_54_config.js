@@ -1,1 +1,1 @@
-var mnemonic = "gesture fly shine muscle beauty fatal cement rose stamp knee drip tiger";
+var mnemonic = "cradle elephant stay scissors document want license beyond movie perfect tenant festival";

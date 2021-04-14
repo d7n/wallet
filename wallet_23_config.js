@@ -1,1 +1,1 @@
-var mnemonic = "oval alcohol name forward vendor seek bounce absurd sentence valid junior taste";
+var mnemonic = "hope device assist put wrestle tunnel tray aspect kitchen lake luggage another";

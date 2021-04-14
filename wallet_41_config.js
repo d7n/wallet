@@ -1,1 +1,1 @@
-var mnemonic = "latin twice match they subject deny model novel crowd swing already warfare";
+var mnemonic = "fall used blood monitor damage thrive prepare absorb unaware lend ordinary split";

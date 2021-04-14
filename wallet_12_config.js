@@ -1,1 +1,1 @@
-var mnemonic = "earth soup cradle planet under bamboo beef acquire volume cake parrot glare";
+var mnemonic = "force wheat mail various scrub crew parent plate harbor confirm toss verify";

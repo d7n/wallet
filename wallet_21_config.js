@@ -1,1 +1,1 @@
-var mnemonic = "arrive destroy apple mother benefit save goddess pear harbor quantum youth end";
+var mnemonic = "abstract tool enact track interest sound body perfect hospital source rent brass";

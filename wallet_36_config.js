@@ -1,1 +1,1 @@
-var mnemonic = "combine demise train south taxi million also undo welcome wage cattle stomach";
+var mnemonic = "appear thumb royal dry immune choose dune sunset please abandon resemble valve";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve order spend vapor age word recipe credit script horn negative laundry";
+var mnemonic = "aerobic genius conduct room story leopard someone empower force virtual river high";

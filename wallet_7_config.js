@@ -1,1 +1,1 @@
-var mnemonic = "exotic traffic photo teach swim enjoy humor elevator stay summer summer kangaroo";
+var mnemonic = "artwork divorce curtain level advice club salad layer roof bus keep leisure";

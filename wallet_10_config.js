@@ -1,1 +1,1 @@
-var mnemonic = "rain retreat blind autumn cash lesson crystal ethics sing panda scatter drift";
+var mnemonic = "another quit onion language apart snap solid dolphin betray super trust else";

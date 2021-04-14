@@ -1,1 +1,1 @@
-var mnemonic = "flock cost mesh island web beauty flag school scare among bulb scare";
+var mnemonic = "unit jaguar novel awkward scissors live angry select dose repeat gate crime";

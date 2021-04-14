@@ -1,1 +1,1 @@
-var mnemonic = "style script evolve guess panther dish wrestle input ring cinnamon below once";
+var mnemonic = "already left diary tiger attack dilemma maze coach glue transfer guitar feed";

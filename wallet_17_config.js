@@ -1,1 +1,1 @@
-var mnemonic = "frown response combine basic amateur genius test foil question curtain market guilt";
+var mnemonic = "cupboard grass bicycle hybrid abuse universe file fetch pottery cost print capital";

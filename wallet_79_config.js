@@ -1,1 +1,1 @@
-var mnemonic = "wreck hamster cradle artist winner denial left comic crouch school mechanic egg";
+var mnemonic = "bean front lesson border welcome width damp balance yard spatial rail ozone";

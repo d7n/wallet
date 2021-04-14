@@ -1,1 +1,1 @@
-var mnemonic = "mask expand rotate outside filter beyond bid cage fever garlic anger vital";
+var mnemonic = "park border wait deposit trophy crash submit street current diary amateur nature";

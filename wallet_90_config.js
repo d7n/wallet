@@ -1,1 +1,1 @@
-var mnemonic = "theory always add member sphere clock copper effort poem history robot couple";
+var mnemonic = "cotton edit indicate village coin true omit script pluck mean slam candy";

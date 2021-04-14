@@ -1,1 +1,1 @@
-var mnemonic = "bronze arrow idea nest boss trophy design puzzle discover ramp tag evoke";
+var mnemonic = "lucky drop express wink rib erupt race leisure occur scale bridge media";

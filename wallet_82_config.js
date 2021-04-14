@@ -1,1 +1,1 @@
-var mnemonic = "taxi slogan inflict bundle manual nominee youth maze caution love reason piece";
+var mnemonic = "please inmate toilet park neck festival orbit recipe wealth advance recycle riot";

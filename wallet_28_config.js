@@ -1,1 +1,1 @@
-var mnemonic = "adapt title bread inherit destroy noise blind share pelican urge setup cable";
+var mnemonic = "later pudding must debris small junk domain tool creek deny account alley";

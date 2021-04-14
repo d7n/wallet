@@ -1,1 +1,1 @@
-var mnemonic = "educate disorder muscle bicycle worry cute float suggest tiny rural present sail";
+var mnemonic = "outside era cargo purse maid pumpkin hint civil devote cause wing card";

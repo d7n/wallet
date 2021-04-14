@@ -1,1 +1,1 @@
-var mnemonic = "goddess enlist delay keep neither one flush nation cereal economy feature danger";
+var mnemonic = "hard mercy elder fix year prepare employ blouse basic light divide amount";

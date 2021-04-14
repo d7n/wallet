@@ -1,1 +1,1 @@
-var mnemonic = "rotate boat umbrella paddle kitten hammer wash dash elder payment level bleak";
+var mnemonic = "border sudden bright object job uniform mention silent hint bar orphan vendor";

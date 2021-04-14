@@ -1,1 +1,1 @@
-var mnemonic = "crunch spawn exit zero game arrange stick recipe embrace wine faint finger";
+var mnemonic = "spell marriage chalk tortoise random cluster brown perfect loop era social casual";

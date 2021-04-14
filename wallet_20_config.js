@@ -1,1 +1,1 @@
-var mnemonic = "hood theory fun burger blush tunnel domain sail brand catalog leader jealous";
+var mnemonic = "suggest dwarf brick system grow either mind distance brass fresh beauty depend";

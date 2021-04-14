@@ -1,1 +1,1 @@
-var mnemonic = "devote bind large train grape west good wet deny final gadget fee";
+var mnemonic = "mask faint stadium erosion scan soap toss demand hill drama pumpkin half";

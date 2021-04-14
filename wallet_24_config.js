@@ -1,1 +1,1 @@
-var mnemonic = "require quarter move coach survey exact path humble chapter decorate buffalo potato";
+var mnemonic = "chaos purpose road bone rude found tomato bar seed shy near mail";

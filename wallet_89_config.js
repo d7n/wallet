@@ -1,1 +1,1 @@
-var mnemonic = "night elite pupil total phrase castle odor chuckle attend tumble cover pumpkin";
+var mnemonic = "lizard length wise boil become luggage gaze chalk mammal salt make march";

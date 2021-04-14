@@ -1,1 +1,1 @@
-var mnemonic = "slogan stomach coin orbit spare social woman snow setup peasant explain violin";
+var mnemonic = "crime month neglect blame market badge version toilet quarter fame bleak cupboard";

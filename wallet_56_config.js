@@ -1,1 +1,1 @@
-var mnemonic = "later artwork cancel chronic way jump cliff spray sniff oxygen improve lemon";
+var mnemonic = "safe language moment follow enroll harsh bomb useful invest tornado appear walk";

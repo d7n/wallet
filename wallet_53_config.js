@@ -1,1 +1,1 @@
-var mnemonic = "unique notice chief tennis vessel ahead attract spoon artist maximum peace potato";
+var mnemonic = "kind system misery armed educate color faculty vocal discover joy mammal fox";

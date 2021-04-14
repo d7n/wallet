@@ -1,1 +1,1 @@
-var mnemonic = "tunnel melody survey panther elegant magic truly eagle worth exist list kid";
+var mnemonic = "huge iron wage random diagram near spend hockey record load resemble element";

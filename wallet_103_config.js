@@ -1,1 +1,1 @@
-var mnemonic = "first stone wait rare argue clap anger run focus coach asset foster";
+var mnemonic = "slide sea banner garden kidney smooth distance expand crisp story cereal acoustic";

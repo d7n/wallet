@@ -1,1 +1,1 @@
-var mnemonic = "hire labor orchard trip token matrix picture express lend month silver jealous";
+var mnemonic = "path gospel visual cushion job guitar change cruise tuna limit donkey ramp";

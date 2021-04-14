@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog hidden join february farm match misery issue doctor track width connect";
+var mnemonic = "friend lion taste lunar angry blossom deal talk demand tuition clip foam";

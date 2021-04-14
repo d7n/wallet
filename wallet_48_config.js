@@ -1,1 +1,1 @@
-var mnemonic = "blur craft suggest decrease route staff emotion will frame penalty shiver voice";
+var mnemonic = "dice solar cabbage valve true invest ticket act inmate scatter load sponsor";

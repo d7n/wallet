@@ -1,1 +1,1 @@
-var mnemonic = "extend argue afraid fringe body inject bamboo pudding master solution sniff vocal";
+var mnemonic = "oval connect film liquid damage gown garage choose symbol token mobile wash";

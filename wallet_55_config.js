@@ -1,1 +1,1 @@
-var mnemonic = "burger pigeon exact penalty mammal convince element learn wise forget muffin error";
+var mnemonic = "salt type indoor title coach exist music ask prevent save sun wine";

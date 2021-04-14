@@ -1,1 +1,1 @@
-var mnemonic = "clinic fix key country wait twenty hockey brain original price tray thunder";
+var mnemonic = "analyst clown way blade invest kidney short road bundle announce cereal verb";

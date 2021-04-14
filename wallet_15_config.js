@@ -1,1 +1,1 @@
-var mnemonic = "frog shift stumble design place ancient crop trumpet special spatial unfair school";
+var mnemonic = "purse blame normal current trial ghost plunge cash unlock weather achieve primary";

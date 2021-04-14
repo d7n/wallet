@@ -1,1 +1,1 @@
-var mnemonic = "display steak wide grit example guard eager organ arena message symptom gasp";
+var mnemonic = "such hidden differ lamp unknown asset major smart arrest toward match calm";

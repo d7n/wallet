@@ -1,1 +1,1 @@
-var mnemonic = "search other mutual oval loyal sort tape neutral fire maid reveal salad";
+var mnemonic = "flavor slice clip slice genre drop arrest damp vital olive auction scare";

@@ -1,1 +1,1 @@
-var mnemonic = "empty banana unit tongue goat favorite front differ menu have material cloud";
+var mnemonic = "surge miss west mother immense hungry lady setup exist ranch play whale";

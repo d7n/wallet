@@ -1,1 +1,1 @@
-var mnemonic = "airport crunch alert sister kangaroo limit buddy hero false crime dress magic";
+var mnemonic = "produce music caught change gate giggle benefit issue wife emotion autumn aim";

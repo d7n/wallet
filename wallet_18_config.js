@@ -1,1 +1,1 @@
-var mnemonic = "switch badge trial tail father once present coconut liquid raise mother word";
+var mnemonic = "fall double double gain eager source endorse trouble student torch coffee wolf";

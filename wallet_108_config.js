@@ -1,1 +1,1 @@
-var mnemonic = "valid casino taxi flower clock switch galaxy head aunt path person urban";
+var mnemonic = "nuclear feel question hurdle normal first arrange abandon wolf alarm news trade";

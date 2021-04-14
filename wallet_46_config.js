@@ -1,1 +1,1 @@
-var mnemonic = "sorry produce item decline clinic mountain ribbon lesson laptop ordinary chair talk";
+var mnemonic = "soldier afford math riot home faith settle appear name dune produce route";

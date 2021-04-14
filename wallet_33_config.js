@@ -1,1 +1,1 @@
-var mnemonic = "turkey addict truly west luxury inform nothing busy charge vendor source tape";
+var mnemonic = "left dice source ethics device obvious breeze various game ice pond castle";

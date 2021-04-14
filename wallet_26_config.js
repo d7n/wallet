@@ -1,1 +1,1 @@
-var mnemonic = "argue desk pen giggle glad fork aspect basic foot electric orient blood";
+var mnemonic = "web kidney must pet frown dog entire steel brush sadness puppy replace";

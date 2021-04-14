@@ -1,1 +1,1 @@
-var mnemonic = "rocket vibrant trial device design vendor candy dolphin holiday wedding cream below";
+var mnemonic = "moral protect grain fortune merry idea same abandon mutual tongue live daring";

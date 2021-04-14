@@ -1,1 +1,1 @@
-var mnemonic = "next charge plastic street squeeze rail occur endless unlock disease disorder nuclear";
+var mnemonic = "ticket mix soda slender paddle field spring lemon kitchen coyote yard bitter";
