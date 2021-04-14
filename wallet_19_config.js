@@ -1,1 +1,1 @@
-var mnemonic = "spell alarm island grape chimney police push sock aim panic divorce tissue";
+var mnemonic = "come fatigue kidney flip shrug hurry mango chicken vivid whale beef powder";

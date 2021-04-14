@@ -1,1 +1,1 @@
-var mnemonic = "valid chunk check multiply rabbit cat cinnamon month degree hurry half guitar";
+var mnemonic = "aspect junior solution fall phone deer cry bulk divide sorry bottom snack";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant knife lemon brown upgrade degree inch surround ill parent gate chalk";
+var mnemonic = "unable order goat bless matter fortune primary shove kitchen trap battle easy";

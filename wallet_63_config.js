@@ -1,1 +1,1 @@
-var mnemonic = "inside want fuel over invite again bracket smooth round dinosaur crazy what";
+var mnemonic = "phone mechanic change sorry car melt until inject spell rate quick chair";

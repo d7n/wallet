@@ -1,1 +1,1 @@
-var mnemonic = "rally violin inform alone duck disagree upgrade barely volcano enact great scout";
+var mnemonic = "card elder alarm festival rabbit lock minute imitate swear year original swap";

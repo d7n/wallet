@@ -1,1 +1,1 @@
-var mnemonic = "race unveil grass symptom winter sample need slam myself point wagon cabin";
+var mnemonic = "trumpet force embrace twenty diesel post flush hire chapter fuel grocery iron";

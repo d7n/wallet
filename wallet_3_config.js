@@ -1,1 +1,1 @@
-var mnemonic = "paper final trend custom series dignity material submit tomato shop turn define";
+var mnemonic = "inhale tragic blade expire method badge trial arrive legend faculty document crash";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor abuse praise goat gorilla notable october guess page twin tide demise";
+var mnemonic = "fit mix comic replace urge sudden domain charge minimum expire rent shock";

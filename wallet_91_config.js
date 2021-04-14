@@ -1,1 +1,1 @@
-var mnemonic = "wagon lawn dizzy slim afford lonely matrix question armed walnut prison debris";
+var mnemonic = "blanket print fence wheat protect track east citizen goddess easily gate resist";

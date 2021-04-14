@@ -1,1 +1,1 @@
-var mnemonic = "vacant wood armed city device reflect fitness elegant credit accident dance prefer";
+var mnemonic = "lizard tomorrow dizzy fee congress prosper mouse library walnut skull glimpse client";

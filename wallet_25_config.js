@@ -1,1 +1,1 @@
-var mnemonic = "hurry denial device urge lyrics various luggage loop stand vocal tuna close";
+var mnemonic = "doctor poem peasant good budget business clean jump grain story almost start";

@@ -1,1 +1,1 @@
-var mnemonic = "normal brisk possible poverty idea budget inflict stick torch month resource lawsuit";
+var mnemonic = "helmet pottery finger valley maple tonight assault obey utility dash physical number";

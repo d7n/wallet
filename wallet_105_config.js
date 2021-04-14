@@ -1,1 +1,1 @@
-var mnemonic = "public slogan salt water news deer antique blush grace velvet chest vague";
+var mnemonic = "biology fiction spy load garden polar news venture monster owner erode check";

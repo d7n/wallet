@@ -1,1 +1,1 @@
-var mnemonic = "general impact brain between expect diesel cliff story bounce sock unknown divide";
+var mnemonic = "shell stuff wheel host shoe dream tomorrow limit notice joy spike kite";

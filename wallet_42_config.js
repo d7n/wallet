@@ -1,1 +1,1 @@
-var mnemonic = "note corn program word merry window cake close head piano seed hole";
+var mnemonic = "shed coin music rug net voice napkin punch maze salad crystal close";

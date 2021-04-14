@@ -1,1 +1,1 @@
-var mnemonic = "custom lonely cheese jump street gather salad oak join spy disease useful";
+var mnemonic = "aim medal bird protect island cross double resemble scale party weapon summer";

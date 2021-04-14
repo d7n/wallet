@@ -1,1 +1,1 @@
-var mnemonic = "talent private wing fantasy cool ready organ state emerge main atom real";
+var mnemonic = "industry easy begin cart shoulder calm album average rude develop skirt equal";

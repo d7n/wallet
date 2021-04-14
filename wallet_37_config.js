@@ -1,1 +1,1 @@
-var mnemonic = "tongue lion hat bridge width insect deal hold sentence coast blush asset";
+var mnemonic = "swing useless core resist oppose lizard panda old predict rude spare pepper";

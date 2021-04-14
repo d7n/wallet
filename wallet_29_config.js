@@ -1,1 +1,1 @@
-var mnemonic = "cake magnet erupt depart common sword scene shallow place awful sail track";
+var mnemonic = "trap brief cart version globe meat own sense version country push thank";

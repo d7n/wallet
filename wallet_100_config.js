@@ -1,1 +1,1 @@
-var mnemonic = "merry annual absorb puppy decorate coast abstract empower valley purity cotton long";
+var mnemonic = "culture author uniform match scare route repeat palm fat plate calm insect";

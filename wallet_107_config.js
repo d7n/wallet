@@ -1,1 +1,1 @@
-var mnemonic = "renew gloom divert identify window ill decade toy network traffic casino public";
+var mnemonic = "tone vote jaguar mimic bus virtual volcano material mask monster size offer";

@@ -1,1 +1,1 @@
-var mnemonic = "spot loop analyst little simple resource runway soup tray lobster cart injury";
+var mnemonic = "collect soap rather still nut grow light case push visa where tilt";

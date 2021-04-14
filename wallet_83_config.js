@@ -1,1 +1,1 @@
-var mnemonic = "beach indoor square improve attract burst anger organ game moment around enable";
+var mnemonic = "profit escape sense main field crater cream country salt fever tone someone";

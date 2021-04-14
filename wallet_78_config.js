@@ -1,1 +1,1 @@
-var mnemonic = "list destroy rebel letter book ill digital uncle aspect ketchup flower involve";
+var mnemonic = "clean tag giant under gate country retire chalk alien gap used minor";

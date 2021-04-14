@@ -1,1 +1,1 @@
-var mnemonic = "eager crush senior perfect mixed quote bullet enroll perfect life flash also";
+var mnemonic = "poet arrow ahead zoo horror warm seek reason piano help maple marine";

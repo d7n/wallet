@@ -1,1 +1,1 @@
-var mnemonic = "erase owner picture awake fan aunt hazard rocket visit lonely friend legal";
+var mnemonic = "goddess lounge wine unit purity warm current shrug enact eye mushroom panel";

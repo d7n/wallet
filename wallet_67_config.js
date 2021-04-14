@@ -1,1 +1,1 @@
-var mnemonic = "movie carbon chronic coin message jar merry island forest dust enough young";
+var mnemonic = "ring comfort arrive divorce better trap today cup barely farm banana holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl speed couple high copy already firm satisfy meadow since across skull";
+var mnemonic = "smooth despair dad front ivory food drift blouse seven gym call winter";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub diet network around art main next voyage decide rapid edge stomach";
+var mnemonic = "scrub flash excess laundry nurse fiber indoor order organ stem invite grit";

@@ -1,1 +1,1 @@
-var mnemonic = "basket verb issue unveil forward place found spray trash vault ride spider";
+var mnemonic = "eight paper chair seek dry glory easy orphan powder mango together soccer";

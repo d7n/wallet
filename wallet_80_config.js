@@ -1,1 +1,1 @@
-var mnemonic = "panther spider hover slice balcony cliff rug funny slogan visual arrest situate";
+var mnemonic = "hobby legend where coconut sign drive agent gallery private want mention solve";

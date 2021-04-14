@@ -1,1 +1,1 @@
-var mnemonic = "sea fat jaguar gossip habit pistol grass ripple little truth rifle soon";
+var mnemonic = "damage language sort rapid base loop excuse leave calm bus bar sadness";

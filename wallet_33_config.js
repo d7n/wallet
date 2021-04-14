@@ -1,1 +1,1 @@
-var mnemonic = "begin type inherit bronze uncover exhaust size phone layer explain pattern balance";
+var mnemonic = "program miracle dry own hawk cloud way oven work resemble coil sudden";

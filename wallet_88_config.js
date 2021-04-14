@@ -1,1 +1,1 @@
-var mnemonic = "tuition science destroy employ wear trip rubber concert ride brisk bubble peasant";
+var mnemonic = "february liquid now basket captain usage carbon funny person mail proof deposit";

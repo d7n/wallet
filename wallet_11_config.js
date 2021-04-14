@@ -1,1 +1,1 @@
-var mnemonic = "moment comic fan claim put fossil retire shaft sweet coin struggle canoe";
+var mnemonic = "surge this delay innocent medal lava fetch effort help animal venue people";

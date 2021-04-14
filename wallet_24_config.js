@@ -1,1 +1,1 @@
-var mnemonic = "drop rough vendor cabin stay dutch melody nasty maze drink promote then";
+var mnemonic = "husband senior fortune receive dentist reason certain select hour appear muscle pigeon";

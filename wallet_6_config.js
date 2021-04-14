@@ -1,1 +1,1 @@
-var mnemonic = "rubber leader figure sense neck isolate clap globe huge shock category organ";
+var mnemonic = "sea surprise card dune cruel stool report game essence indoor exotic space";

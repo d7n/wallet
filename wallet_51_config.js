@@ -1,1 +1,1 @@
-var mnemonic = "zebra invest swarm agent menu picture find twin tennis flame coconut second";
+var mnemonic = "cattle boss ritual cat prepare cabbage angry oven isolate spice hair firm";

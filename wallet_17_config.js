@@ -1,1 +1,1 @@
-var mnemonic = "size stable pyramid system popular hamster arch myself drama grape letter spoil";
+var mnemonic = "season prison human one legal over fish what scare subject boost action";

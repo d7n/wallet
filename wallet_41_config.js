@@ -1,1 +1,1 @@
-var mnemonic = "during drum awful useless acoustic stay excuse satisfy during use surge regular";
+var mnemonic = "paper mad sheriff scene bracket bulb odor more problem defy enough initial";

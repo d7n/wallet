@@ -1,1 +1,1 @@
-var mnemonic = "beyond debate false garlic isolate fix crucial biology method ring soul blade";
+var mnemonic = "dance current window blur six clutch bring hedgehog guess sheriff dilemma letter";

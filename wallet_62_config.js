@@ -1,1 +1,1 @@
-var mnemonic = "fashion jar mom brush rough enable label leave right front crisp right";
+var mnemonic = "mean method seed require drill hip steel hat luggage office clean wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "moral analyst stereo hundred rebuild kangaroo play adapt victory flavor blanket off";
+var mnemonic = "soda valve lobster token mail two mass noodle receive fiction kiss danger";

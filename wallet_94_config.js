@@ -1,1 +1,1 @@
-var mnemonic = "define accident wasp pencil parent space crew hope tissue dutch liar one";
+var mnemonic = "question odor salad syrup fiscal vacant memory across sort kangaroo ostrich hip";

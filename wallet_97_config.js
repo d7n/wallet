@@ -1,1 +1,1 @@
-var mnemonic = "wall penalty task example index seat stove airport report faculty sick switch";
+var mnemonic = "theory aim guard observe arctic scatter frost arrange pyramid nerve moment cargo";

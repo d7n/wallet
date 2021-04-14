@@ -1,1 +1,1 @@
-var mnemonic = "enemy popular subway impose latin music pride offer amused twice hole cushion";
+var mnemonic = "control equip oppose friend bomb sea used august disorder small nature sand";

@@ -1,1 +1,1 @@
-var mnemonic = "roast pride maid tell monitor fine animal world very barrel wagon wrist";
+var mnemonic = "injury have nest human alarm pencil vehicle long couple buzz reflect blossom";

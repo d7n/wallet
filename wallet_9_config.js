@@ -1,1 +1,1 @@
-var mnemonic = "jealous coin negative page canyon nose orbit three worth disease slender defense";
+var mnemonic = "uniform monitor daughter light section leisure forest gravity crumble very cushion empower";

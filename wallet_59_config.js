@@ -1,1 +1,1 @@
-var mnemonic = "source dinosaur drama gravity twelve buyer mean impose oblige claw supreme industry";
+var mnemonic = "indoor swallow spot attract talent drill river toward admit siege vacuum laugh";

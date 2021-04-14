@@ -1,1 +1,1 @@
-var mnemonic = "bean use unveil sketch melody siren what leader safe govern salon champion";
+var mnemonic = "dilemma hope salute soldier young mutual nerve west stick gap jewel dynamic";

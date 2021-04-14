@@ -1,1 +1,1 @@
-var mnemonic = "gloom mom that genuine normal inmate drama author before indoor attack width";
+var mnemonic = "drum brand chaos grain involve silk creek task liquid bless utility vast";

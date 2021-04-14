@@ -1,1 +1,1 @@
-var mnemonic = "giraffe scare erupt tourist menu day idea kid beef bachelor source forward";
+var mnemonic = "rally velvet donkey slot ceiling good eagle much science survey bubble benefit";

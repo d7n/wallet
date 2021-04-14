@@ -1,1 +1,1 @@
-var mnemonic = "cricket south advice leave aware space romance remain tuna promote hint better";
+var mnemonic = "behind sign return earth clutch staff negative island hill squeeze slide maze";

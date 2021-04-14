@@ -1,1 +1,1 @@
-var mnemonic = "normal believe collect private science volcano alcohol glimpse tone surface scan secret";
+var mnemonic = "present buddy glory flame glide maze below advance indoor hard tree pull";

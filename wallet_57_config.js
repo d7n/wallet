@@ -1,1 +1,1 @@
-var mnemonic = "purity tornado notable glide inflict alcohol wash ripple yellow grief into disorder";
+var mnemonic = "own evolve select demise yard rigid yard crowd adjust outdoor detail review";

@@ -1,1 +1,1 @@
-var mnemonic = "mix clown banner anger clerk auction solid only medal bleak ensure advice";
+var mnemonic = "design hill laundry person scrub pipe face member flat curious creek obey";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose alter ring allow strategy just organ unfair sword label fringe offer";
+var mnemonic = "bomb final despair repair ski detect pyramid cart theme fall truck blood";

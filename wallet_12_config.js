@@ -1,1 +1,1 @@
-var mnemonic = "cable repeat copper dog crew sorry sphere develop stereo error dry medal";
+var mnemonic = "ugly leisure ostrich camp dinner imitate sunset festival donate help spread order";

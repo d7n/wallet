@@ -1,1 +1,1 @@
-var mnemonic = "view elder husband medal canal bottom approve dilemma evil moon more program";
+var mnemonic = "bench vehicle round enact snow buffalo broken below sustain fame fiction borrow";

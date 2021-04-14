@@ -1,1 +1,1 @@
-var mnemonic = "world six great supreme move museum powder devote raise cargo mobile parrot";
+var mnemonic = "such cycle hard thought toward extend spread north lunar dish depend play";

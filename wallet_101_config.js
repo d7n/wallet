@@ -1,1 +1,1 @@
-var mnemonic = "secret major vicious typical wrist crucial gym material gym relief maze taste";
+var mnemonic = "fetch hungry museum injury pride pledge talent perfect that access display tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal lyrics check episode core buyer frost rather absorb science auction fog";
+var mnemonic = "feature coast lounge remember pair tattoo ecology fun model shallow staff skate";

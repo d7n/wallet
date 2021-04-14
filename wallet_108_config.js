@@ -1,1 +1,1 @@
-var mnemonic = "gorilla course angle humor blast omit extend broccoli panda wood arena reduce";
+var mnemonic = "unusual universe crucial bone wrong million broccoli service eagle nothing skin skill";

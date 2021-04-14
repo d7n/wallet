@@ -1,1 +1,1 @@
-var mnemonic = "novel physical range ostrich cheap owner change coconut market popular parade beach";
+var mnemonic = "bundle smoke famous gossip south move elephant payment dash style shed cargo";

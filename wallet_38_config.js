@@ -1,1 +1,1 @@
-var mnemonic = "olive general attitude please amused parent field quality coffee special ball decline";
+var mnemonic = "camp garbage load tuition balcony dry welcome fever attitude badge potato basic";

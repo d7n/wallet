@@ -1,1 +1,1 @@
-var mnemonic = "bounce relax away raise hurry alien change banner resource return radio street";
+var mnemonic = "kick strong rocket imitate smoke salad mail argue father region wood hold";

@@ -1,1 +1,1 @@
-var mnemonic = "milk slam arrest pair father auto abstract solution middle hello arctic faith";
+var mnemonic = "carbon funny thought venue raw shove clever disagree concert ensure alcohol alarm";

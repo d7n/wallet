@@ -1,1 +1,1 @@
-var mnemonic = "crop joy sample aware air layer memory gentle stand rather chronic raven";
+var mnemonic = "disagree cruel kitchen logic hidden travel mouse digital crunch sphere stock special";

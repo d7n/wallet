@@ -1,1 +1,1 @@
-var mnemonic = "rocket blue aunt nest hybrid can initial motor found key act sphere";
+var mnemonic = "replace secret song poet pencil glance myself section cram shiver asthma pear";

@@ -1,1 +1,1 @@
-var mnemonic = "door pet reunion skull garbage change museum better entry enable winner able";
+var mnemonic = "network miracle double beef slender follow vessel siege concert other believe live";

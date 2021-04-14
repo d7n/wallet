@@ -1,1 +1,1 @@
-var mnemonic = "maze eternal resource reward bamboo group zoo alcohol display shrug damage laugh";
+var mnemonic = "away object exhibit parade legal vote visit silly open beach divorce stage";

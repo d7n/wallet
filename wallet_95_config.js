@@ -1,1 +1,1 @@
-var mnemonic = "behave nominee hire crisp fire always twelve damp staff slot warfare mosquito";
+var mnemonic = "quiz federal secret citizen spend pair frost enhance ship mesh solve grab";

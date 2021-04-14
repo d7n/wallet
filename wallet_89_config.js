@@ -1,1 +1,1 @@
-var mnemonic = "once chronic gauge immune feed receive visit reveal all violin horse human";
+var mnemonic = "panic seat nasty fatigue fee silver february rich have call measure medal";

@@ -1,1 +1,1 @@
-var mnemonic = "health pull order will beach flock flame cart window alley method wall";
+var mnemonic = "bracket tragic inhale acquire tiny ginger someone bind light female frown citizen";

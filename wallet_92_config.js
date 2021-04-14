@@ -1,1 +1,1 @@
-var mnemonic = "typical worry calm venue defense lion orchard local document park ripple school";
+var mnemonic = "wine congress found setup guitar picnic foam maple brave coconut slight found";

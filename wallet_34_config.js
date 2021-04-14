@@ -1,1 +1,1 @@
-var mnemonic = "nephew sentence void boss tomato coconut program multiply rabbit jeans road biology";
+var mnemonic = "throw save sorry boring fiscal jealous used symbol potato front giggle valid";

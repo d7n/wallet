@@ -1,1 +1,1 @@
-var mnemonic = "raven spatial unveil animal jump antique market advice involve alien coyote usage";
+var mnemonic = "similar peasant mystery strategy sell pluck rely project viable air balance pact";

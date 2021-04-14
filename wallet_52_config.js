@@ -1,1 +1,1 @@
-var mnemonic = "tobacco improve other weasel fit ability require kind sample figure tonight extend";
+var mnemonic = "debris diet box daughter sick frost gasp tank patrol pottery annual extra";

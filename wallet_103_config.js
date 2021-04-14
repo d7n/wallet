@@ -1,1 +1,1 @@
-var mnemonic = "gather boring super wrestle hard actor join swarm hand asthma below box";
+var mnemonic = "debris lend anchor leg way capital thrive cabin manual bronze unveil humor";

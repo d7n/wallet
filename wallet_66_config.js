@@ -1,1 +1,1 @@
-var mnemonic = "screen pottery flavor original alarm exotic slam spare glare plunge among fall";
+var mnemonic = "alien venue ivory insane staff castle tiny athlete gospel when fancy blue";

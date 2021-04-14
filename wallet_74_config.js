@@ -1,1 +1,1 @@
-var mnemonic = "position thank miss idea palace tray universe term crush body census thank";
+var mnemonic = "east purse cool bronze two response salmon opera globe lawsuit goddess solution";

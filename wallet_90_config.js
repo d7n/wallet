@@ -1,1 +1,1 @@
-var mnemonic = "hold kingdom catalog spirit buffalo crystal wool wear twist cram equal tilt";
+var mnemonic = "athlete baby sponsor item sleep ugly chimney increase oyster when utility win";

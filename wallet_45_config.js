@@ -1,1 +1,1 @@
-var mnemonic = "combine best always blade speak adult april hard tomato boil piano shop";
+var mnemonic = "split glad mansion modify hub auction never polar uphold prevent peasant trend";

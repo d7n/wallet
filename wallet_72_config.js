@@ -1,1 +1,1 @@
-var mnemonic = "aspect cross forget friend motion olympic cherry shadow enemy awful wisdom alter";
+var mnemonic = "same bench service ankle jaguar stove inmate market wrong erase dismiss try";

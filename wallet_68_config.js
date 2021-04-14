@@ -1,1 +1,1 @@
-var mnemonic = "figure dune sorry laundry valid cement fame edit setup museum deputy fat";
+var mnemonic = "void moment mail oval screen target same proof destroy deputy stool tool";

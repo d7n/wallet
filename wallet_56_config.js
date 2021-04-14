@@ -1,1 +1,1 @@
-var mnemonic = "dry veteran bottom crowd idle crush decline surprise suggest review coral unusual";
+var mnemonic = "body brisk later yellow coconut truth search unable shy word crunch harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "menu again salmon connect flat machine gallery disorder dial garlic during silly";
+var mnemonic = "coral remind chunk absurd junk equal library desert anxiety pink dragon upgrade";

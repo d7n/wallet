@@ -1,1 +1,1 @@
-var mnemonic = "tortoise device long cat frozen usual gift later auto then skin pet";
+var mnemonic = "tiger lounge aunt mind major sibling verb apart average demise blue garbage";

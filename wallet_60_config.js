@@ -1,1 +1,1 @@
-var mnemonic = "extend gun urban shift exist dry stick toward popular fame off sound";
+var mnemonic = "misery add casual ramp fit used clinic series ill will glow west";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange vocal demise circle timber attitude wet hedgehog joy elegant burst advance";
+var mnemonic = "pet exhaust benefit liquid yard exit maze jewel edit daring oval alien";

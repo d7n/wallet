@@ -1,1 +1,1 @@
-var mnemonic = "jacket resemble amateur shaft senior first dad shell wire genius penalty elephant";
+var mnemonic = "hour ivory prefer twelve round detail wire must dish raccoon young pluck";

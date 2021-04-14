@@ -1,1 +1,1 @@
-var mnemonic = "width razor retreat strike dentist final park occur online move photo omit";
+var mnemonic = "action skate hard satoshi jar hazard scout gallery beauty reunion wild crucial";

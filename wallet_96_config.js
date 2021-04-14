@@ -1,1 +1,1 @@
-var mnemonic = "crop food price bounce fat surprise forest loud dolphin betray symbol fabric";
+var mnemonic = "oval entire debris shuffle receive dry suffer biology penalty amount brown foot";
