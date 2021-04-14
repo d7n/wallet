@@ -1,1 +1,1 @@
-var mnemonic = "traffic debate hurdle raven select smile echo alien true climb aim fee";
+var mnemonic = "height crucial ghost rate exclude soon that sunny horse chimney involve basket";

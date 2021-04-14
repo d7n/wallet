@@ -1,1 +1,1 @@
-var mnemonic = "clay river ahead candy steak include ensure surround home disagree render resist";
+var mnemonic = "picnic exist identify private repeat need hazard bike pigeon silly link taxi";

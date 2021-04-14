@@ -1,1 +1,1 @@
-var mnemonic = "fog explain video proud boost elite pupil square electric bus cargo avoid";
+var mnemonic = "power car inject whale harvest occur sand merge unfair fluid robust outdoor";

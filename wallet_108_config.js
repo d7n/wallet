@@ -1,1 +1,1 @@
-var mnemonic = "matrix base fall soft bomb envelope erase crew foot escape idea sweet";
+var mnemonic = "giggle axis frequent napkin muscle attitude child follow scale damage always shoulder";

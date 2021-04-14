@@ -1,1 +1,1 @@
-var mnemonic = "strategy learn confirm trust nut suggest citizen spring whisper churn front worry";
+var mnemonic = "injury apology client skill borrow bring asthma memory occur east motion excuse";

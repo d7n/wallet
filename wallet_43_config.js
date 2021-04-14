@@ -1,1 +1,1 @@
-var mnemonic = "gauge girl mercy mind hole shove sail focus grit fat flip loyal";
+var mnemonic = "offer host random spirit gauge mean position join farm trumpet grief eight";

@@ -1,1 +1,1 @@
-var mnemonic = "able oyster rotate tomorrow amateur step fringe wink fan left donate make";
+var mnemonic = "okay model divide wrong double enhance scorpion armed glory mixture episode matter";

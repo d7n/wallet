@@ -1,1 +1,1 @@
-var mnemonic = "globe elbow control scan disease village figure property stick game address blade";
+var mnemonic = "brisk result solid cement robot palm armor injury gun tent rapid file";

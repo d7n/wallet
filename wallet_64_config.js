@@ -1,1 +1,1 @@
-var mnemonic = "urban muffin display trick minor this summer bid stamp piano odor lunch";
+var mnemonic = "alone coyote term virtual loop bar bamboo eye ethics artist achieve great";

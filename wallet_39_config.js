@@ -1,1 +1,1 @@
-var mnemonic = "knee anger response bless drift habit corn share sponsor during direct say";
+var mnemonic = "weird online car lounge spike foil cement bamboo jealous gentle predict now";

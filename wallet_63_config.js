@@ -1,1 +1,1 @@
-var mnemonic = "bicycle motion identify axis minor police lonely noble embody asset casino indicate";
+var mnemonic = "square gauge magnet embrace tuition surface huge senior hazard goddess excite bean";

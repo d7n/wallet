@@ -1,1 +1,1 @@
-var mnemonic = "inspire manage rich habit also pass bullet fatigue climb ten lift drop";
+var mnemonic = "length color debris render still agree advance neither hair network marriage call";

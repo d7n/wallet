@@ -1,1 +1,1 @@
-var mnemonic = "flight badge cost lesson auto fantasy sense hope autumn avoid try minute";
+var mnemonic = "muffin cradle suffer patrol gown bless produce survey throw palace arrow attend";

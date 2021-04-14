@@ -1,1 +1,1 @@
-var mnemonic = "scan keen width melt logic case blast vacant jelly quality body drum";
+var mnemonic = "violin daring universe purpose border donate prosper glimpse device waste slide knife";

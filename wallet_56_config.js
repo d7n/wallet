@@ -1,1 +1,1 @@
-var mnemonic = "frog short turn kind faint print tourist climb borrow rocket know swear";
+var mnemonic = "lens require pear pelican claw industry expect magic lava cabin cake cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "addict dish okay waste ritual inside extend chest sure wine true ocean";
+var mnemonic = "admit arm grace isolate tragic blouse destroy transfer mix stuff rebuild taxi";

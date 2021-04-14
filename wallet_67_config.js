@@ -1,1 +1,1 @@
-var mnemonic = "material all science river hawk noble similar boy turkey interest actual vendor";
+var mnemonic = "key sword border right dream riot diagram evidence shield thought monkey snow";

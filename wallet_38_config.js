@@ -1,1 +1,1 @@
-var mnemonic = "venue cannon much carpet fatal vacuum object draft flame hurt shiver they";
+var mnemonic = "erosion repeat valid false rural helmet borrow ceiling fitness clump weather satoshi";

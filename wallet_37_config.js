@@ -1,1 +1,1 @@
-var mnemonic = "toast job insane arctic combine trouble shock purpose hazard inner have lens";
+var mnemonic = "ladder kite enlist pride angry dynamic actress drill cruel jazz curtain endorse";

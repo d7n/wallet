@@ -1,1 +1,1 @@
-var mnemonic = "affair brand lunar scatter quick upper budget tomorrow arena analyst budget silly";
+var mnemonic = "pause weekend airport diamond olympic vicious proof shadow cruise transfer outside video";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd holiday weird blast pyramid exact chapter mobile protect tribe soldier notice";
+var mnemonic = "butter hill hand entire lion forum flash expand chest letter critic bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit nice weapon cushion envelope already sniff buyer broom tissue deposit group";
+var mnemonic = "excess dizzy rotate fatigue wrap nerve twist exit pen flower dizzy case";

@@ -1,1 +1,1 @@
-var mnemonic = "point cabin explain salmon south below expect drift airport good you swing";
+var mnemonic = "infant list fragile faculty december mobile extend snow rubber switch erode aware";

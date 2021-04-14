@@ -1,1 +1,1 @@
-var mnemonic = "neglect scene favorite female utility sport common burger submit stove castle guess";
+var mnemonic = "wagon dinner casino guess oxygen fish paper blue primary flight fall wealth";

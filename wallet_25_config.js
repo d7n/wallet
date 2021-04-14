@@ -1,1 +1,1 @@
-var mnemonic = "discover tennis embark artist pond charge hunt engine reduce exit expect someone";
+var mnemonic = "circle immune collect market winter trouble notable spend gauge dash blood abstract";

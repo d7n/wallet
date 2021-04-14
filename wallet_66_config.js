@@ -1,1 +1,1 @@
-var mnemonic = "spread cabin pet clock shaft retreat remain rack flip leg illegal inmate";
+var mnemonic = "artefact atom dragon lady pluck crowd employ add maple detail west carbon";

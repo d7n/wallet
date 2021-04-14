@@ -1,1 +1,1 @@
-var mnemonic = "fetch dove young twelve submit advance bone south fiber mask dash image";
+var mnemonic = "flip rifle vital brush roof ensure dog garden cloud hockey gym alien";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner stay ball bright athlete theory robust universe shell kit aspect state";
+var mnemonic = "squirrel alarm nephew wall ramp lamp ranch mix above resemble draw twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "match joy cycle canal puzzle hole range total hedgehog maximum hip adapt";
+var mnemonic = "only meat exit bleak fox sword outdoor alarm swing damage render hurdle";

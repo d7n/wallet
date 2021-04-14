@@ -1,1 +1,1 @@
-var mnemonic = "unusual radio slide laundry above deer soldier neutral throw audit dignity horn";
+var mnemonic = "injury finger field text lumber hover era model bind tide piano coffee";

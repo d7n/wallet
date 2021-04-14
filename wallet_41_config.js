@@ -1,1 +1,1 @@
-var mnemonic = "lounge midnight simple talk erosion turtle hen gun script marble clog crack";
+var mnemonic = "hard gift hill useless galaxy into sick orient win subject swing diamond";

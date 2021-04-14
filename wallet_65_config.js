@@ -1,1 +1,1 @@
-var mnemonic = "stone arm foot guitar assist coin useful page noble collect mad cup";
+var mnemonic = "stable parrot chair helmet grace sure palm rug print dilemma install elegant";

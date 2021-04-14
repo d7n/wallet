@@ -1,1 +1,1 @@
-var mnemonic = "fine tilt palm bar rough submit acquire series adult innocent dice number";
+var mnemonic = "party evolve siren fly proof zone hollow laundry forget fabric love action";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich kangaroo arrive hotel pole gesture glass swear hour call engine bid";
+var mnemonic = "discover family speed pet report very choice boy ticket marriage device economy";

@@ -1,1 +1,1 @@
-var mnemonic = "denial corn gas depth ancient chief nothing gift work apart actress quality";
+var mnemonic = "shell annual invest hour sea total inherit coast banana pitch car weasel";

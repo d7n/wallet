@@ -1,1 +1,1 @@
-var mnemonic = "seat off company congress heart orient state orchard security remove fragile jump";
+var mnemonic = "volcano bounce question end diet alien crawl promote family zone trip mixed";

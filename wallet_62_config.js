@@ -1,1 +1,1 @@
-var mnemonic = "patrol permit swarm wine goose code crazy crumble tag screen phrase lunar";
+var mnemonic = "cruise journey impact garbage civil slow approve skirt zebra tuition snake taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "over fiction coach bag rhythm win ankle obey image actor tortoise moon";
+var mnemonic = "zone mistake provide genius slab symptom cup session depend million depth ranch";

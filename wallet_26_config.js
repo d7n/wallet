@@ -1,1 +1,1 @@
-var mnemonic = "aim walk embody expire find crowd sudden this way panic situate slow";
+var mnemonic = "caught wait family puzzle autumn input spider label edit milk crime kind";

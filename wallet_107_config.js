@@ -1,1 +1,1 @@
-var mnemonic = "firm exercise simple walnut quality talent rubber pen tattoo person bargain prevent";
+var mnemonic = "sort skate cool harvest large gold social galaxy one satisfy timber fragile";

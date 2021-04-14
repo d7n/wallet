@@ -1,1 +1,1 @@
-var mnemonic = "disagree fever box choice dash uniform already exhaust trash napkin flash slab";
+var mnemonic = "isolate expect ensure virtual heart security expand stuff treat inmate city extend";

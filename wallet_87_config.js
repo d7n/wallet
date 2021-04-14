@@ -1,1 +1,1 @@
-var mnemonic = "order uncover certain sketch addict inmate occur canal obey diagram legal analyst";
+var mnemonic = "mean argue float solve useless decade ghost spatial brass portion veteran brief";

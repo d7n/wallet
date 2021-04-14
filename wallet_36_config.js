@@ -1,1 +1,1 @@
-var mnemonic = "deer wear course copper stool media thank parrot magic ancient lemon lab";
+var mnemonic = "simple pupil wheat waste slogan carbon shy imitate risk must depart chat";

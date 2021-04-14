@@ -1,1 +1,1 @@
-var mnemonic = "custom pond twelve remove draft devote mosquito reject ship pipe margin peanut";
+var mnemonic = "void judge wonder sugar solar approve figure wrap know piece six noodle";

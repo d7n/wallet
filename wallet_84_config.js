@@ -1,1 +1,1 @@
-var mnemonic = "upset donor cross utility liberty reflect gentle regular poverty pistol spatial child";
+var mnemonic = "party front bundle timber voice face vibrant strategy turn club badge hub";

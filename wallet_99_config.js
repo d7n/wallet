@@ -1,1 +1,1 @@
-var mnemonic = "suspect cat omit guard cinnamon memory dizzy odor install game olive dentist";
+var mnemonic = "frown plate toss maid convince swift clap just galaxy glow leopard sketch";

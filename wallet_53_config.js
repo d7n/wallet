@@ -1,1 +1,1 @@
-var mnemonic = "blue raven dry main obvious hamster soft fury grid aisle trial rookie";
+var mnemonic = "double blind friend wrestle pencil glide improve slam oven fog fetch cart";

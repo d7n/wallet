@@ -1,1 +1,1 @@
-var mnemonic = "head knock entire clean best bomb envelope earth upon truth arrow unique";
+var mnemonic = "rent connect menu salute deputy mimic vault employ abstract bid taste mom";

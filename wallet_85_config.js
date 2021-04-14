@@ -1,1 +1,1 @@
-var mnemonic = "proof broom flock shed news door census truck faith glimpse hawk grocery";
+var mnemonic = "luggage exist pilot disagree actual dinner gasp imitate nominee recipe debris video";

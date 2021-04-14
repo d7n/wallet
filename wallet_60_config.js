@@ -1,1 +1,1 @@
-var mnemonic = "brain coin gossip invite throw kingdom trash verb barrel tray lock monster";
+var mnemonic = "private age staff student path inquiry special turn mule digital couple short";

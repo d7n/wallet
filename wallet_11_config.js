@@ -1,1 +1,1 @@
-var mnemonic = "sense split eager turn asthma simple estate security earn online face doll";
+var mnemonic = "online jacket pyramid valve goddess brief acquire climb mention moment rocket ice";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle hope since badge hover inner water recycle glow good usage setup";
+var mnemonic = "duty false abuse worry wait common van visit rigid hole will feed";

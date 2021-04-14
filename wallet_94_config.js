@@ -1,1 +1,1 @@
-var mnemonic = "cup tell staff copy next sun bright worry torch ghost effort rule";
+var mnemonic = "vocal warfare either figure member canal ugly solar matter theme delay rent";

@@ -1,1 +1,1 @@
-var mnemonic = "make giggle blanket thought liar special loyal furnace smile bone destroy dolphin";
+var mnemonic = "beyond churn series purchase immense office vital glow quote smooth yellow enlist";

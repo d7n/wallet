@@ -1,1 +1,1 @@
-var mnemonic = "million champion energy cash month force book cycle push engage trade major";
+var mnemonic = "scrub dinosaur end festival vital transfer guilt rather gossip property home critic";

@@ -1,1 +1,1 @@
-var mnemonic = "volume mass shift acquire drip final lion arrange forest tomato april destroy";
+var mnemonic = "arrow chaos friend cruel surprise desert glimpse miracle lucky zero material food";

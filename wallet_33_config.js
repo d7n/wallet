@@ -1,1 +1,1 @@
-var mnemonic = "cheese cheap jelly walnut dinosaur snow machine polar account universe pet cruel";
+var mnemonic = "evil lend blood fever welcome unaware angry library weapon miss cube book";

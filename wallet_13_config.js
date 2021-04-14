@@ -1,1 +1,1 @@
-var mnemonic = "sponsor bird jealous blue certain forum old hard cat arch word super";
+var mnemonic = "ordinary ramp limit fish nature arch crime demise farm control rent video";

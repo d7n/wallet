@@ -1,1 +1,1 @@
-var mnemonic = "taste twice devote light fame idea unusual current amazing height term shop";
+var mnemonic = "leader inquiry cram area crumble nephew scale rely tuna never echo bulb";

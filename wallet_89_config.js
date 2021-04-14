@@ -1,1 +1,1 @@
-var mnemonic = "mystery skirt rice portion peanut rose throw consider drama sister someone february";
+var mnemonic = "banner amazing grant load echo flip tackle conduct history rigid style now";

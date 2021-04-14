@@ -1,1 +1,1 @@
-var mnemonic = "resource strike topple debris fee plastic sadness acid below uphold laugh paper";
+var mnemonic = "copper crucial wrestle hospital wasp exhibit exact track amazing crowd glass priority";

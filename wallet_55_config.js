@@ -1,1 +1,1 @@
-var mnemonic = "pottery artefact divert leave rate employ kiwi effort alone glory fresh blue";
+var mnemonic = "mask drive cream dune syrup seven skate rubber voyage awkward clock click";

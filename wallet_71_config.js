@@ -1,1 +1,1 @@
-var mnemonic = "race snow salon ozone swear blanket pear gown aspect latin used escape";
+var mnemonic = "morning disorder smooth tool airport table sorry play broken travel toy sure";

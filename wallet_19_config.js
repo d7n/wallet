@@ -1,1 +1,1 @@
-var mnemonic = "tornado hair grass note air soda palm shield bring cage check illegal";
+var mnemonic = "resemble short vast bless hotel thunder dutch bind boring hammer waste abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "bless fragile noodle company wrestle coast zero chuckle border inquiry useful indoor";
+var mnemonic = "burst huge agree fossil power profit pony belt lonely skin appear heart";

@@ -1,1 +1,1 @@
-var mnemonic = "they neutral message flat away nuclear draft shy report gun negative become";
+var mnemonic = "west type giraffe stage shop breeze clever cannon champion two lizard culture";

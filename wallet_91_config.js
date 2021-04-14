@@ -1,1 +1,1 @@
-var mnemonic = "obscure renew maple unhappy truly mind game color donate danger embrace fine";
+var mnemonic = "online canal accuse hover adjust coach angle tape peace radar twelve lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "road feel come enable awake buzz arctic hand seek cruise tone below";
+var mnemonic = "pipe image security assist feel pear patient eternal client shuffle suit wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "stool borrow vibrant buzz turkey luxury give dance tiger jealous power favorite";
+var mnemonic = "regret cave barrel input twin problem useless teach slice label summer unhappy";

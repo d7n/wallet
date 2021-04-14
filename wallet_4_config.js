@@ -1,1 +1,1 @@
-var mnemonic = "cargo rib disorder avocado tooth breeze door version parent lens trumpet simple";
+var mnemonic = "faculty they verb comfort assault six broom spawn endorse midnight give drop";

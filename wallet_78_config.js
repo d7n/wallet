@@ -1,1 +1,1 @@
-var mnemonic = "arrive just venue route attitude happy amateur insane riot alone end dutch";
+var mnemonic = "indicate input cabbage ball expose rate scene castle license elephant twist material";

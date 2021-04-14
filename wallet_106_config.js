@@ -1,1 +1,1 @@
-var mnemonic = "ripple police disorder dirt ancient pool mix update miracle reject coral choose";
+var mnemonic = "badge forest nominee green unfair judge output execute junior glad crop play";

@@ -1,1 +1,1 @@
-var mnemonic = "pair ritual october point coast banana huge panic material anxiety derive guitar";
+var mnemonic = "canoe tell tray clutch vacuum want throw travel family balance extend episode";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold trap garbage sail cattle collect resist source grape shield practice tray";
+var mnemonic = "sand pupil unlock hedgehog leave year occur web deal team honey access";

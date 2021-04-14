@@ -1,1 +1,1 @@
-var mnemonic = "book guard smile power shrug again save scrub churn promote industry moon";
+var mnemonic = "kick review before bitter dad left parent car distance recipe badge skin";

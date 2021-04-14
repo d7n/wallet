@@ -1,1 +1,1 @@
-var mnemonic = "gorilla harbor ritual swim exotic whale color year noble salon hood sword";
+var mnemonic = "correct smoke maze opera lottery pipe same village velvet shrug glad chuckle";

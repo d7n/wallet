@@ -1,1 +1,1 @@
-var mnemonic = "marine sleep intact bomb stand crawl shrimp snow wise absorb seat feed";
+var mnemonic = "party milk inch grief tissue warrior belt betray undo degree type idle";

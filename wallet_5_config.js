@@ -1,1 +1,1 @@
-var mnemonic = "top wash illness burst desk upper palace gospel ability begin animal alcohol";
+var mnemonic = "giraffe pink sunset dutch property spice slide gap edit logic mistake casual";

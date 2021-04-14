@@ -1,1 +1,1 @@
-var mnemonic = "real color choose friend much height flip slogan illegal decade twin cattle";
+var mnemonic = "between chimney coil cable thumb smoke roof chimney describe torch snake drama";

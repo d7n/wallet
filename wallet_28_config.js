@@ -1,1 +1,1 @@
-var mnemonic = "budget view code humble aspect code gate cigar song online acoustic inch";
+var mnemonic = "velvet bean give exile senior other absent page drive february industry method";

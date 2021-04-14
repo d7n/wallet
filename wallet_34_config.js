@@ -1,1 +1,1 @@
-var mnemonic = "city connect piano regret one sentence include amount ready street mad monitor";
+var mnemonic = "blast practice giant swamp belt where brown couch wedding submit digital chaos";

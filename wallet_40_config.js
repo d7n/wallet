@@ -1,1 +1,1 @@
-var mnemonic = "example sudden vacuum key modify uniform olympic cricket fabric strike arrest eager";
+var mnemonic = "burger already zero aerobic once talk maximum police shiver jeans visit neutral";

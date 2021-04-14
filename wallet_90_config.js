@@ -1,1 +1,1 @@
-var mnemonic = "juice inner eyebrow cereal shrimp life depart describe bulk stuff person decade";
+var mnemonic = "coral host zone limit box know hobby adapt hair million trade actual";

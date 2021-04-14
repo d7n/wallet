@@ -1,1 +1,1 @@
-var mnemonic = "inside field mimic abuse explain shift million purpose grow budget dish ketchup";
+var mnemonic = "position umbrella cabin label flower flee job stereo kidney glide recycle drill";

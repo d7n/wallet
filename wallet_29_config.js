@@ -1,1 +1,1 @@
-var mnemonic = "endorse bulb earth horn cup chimney demand travel cheese exchange flag board";
+var mnemonic = "monkey wrestle imitate often average bean lunch hub deputy advance wagon account";

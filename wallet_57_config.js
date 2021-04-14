@@ -1,1 +1,1 @@
-var mnemonic = "scale found paddle excess network corn flat sting shell garden invite fiscal";
+var mnemonic = "urge window curtain surface scheme cube damage unlock between pledge member wool";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb carry stay purse tiger must undo mesh small sauce human fancy";
+var mnemonic = "advance despair turkey dog wife mosquito elder wisdom smooth small damage silver";

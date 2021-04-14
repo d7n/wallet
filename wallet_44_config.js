@@ -1,1 +1,1 @@
-var mnemonic = "october praise salute tower zebra nature jazz faith cream dash wrong sign";
+var mnemonic = "pride much defense gorilla weapon lawsuit mule object grab wheel media panda";

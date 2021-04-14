@@ -1,1 +1,1 @@
-var mnemonic = "bubble title vacant ginger volcano you insect oil give cherry rate test";
+var mnemonic = "name shadow oval napkin conduct coffee finger manage ticket youth sleep hope";

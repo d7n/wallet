@@ -1,1 +1,1 @@
-var mnemonic = "head trial nephew error valley dutch emotion toilet goose tide fat mammal";
+var mnemonic = "connect valve enforce leg rescue express riot victory grit sell away diary";

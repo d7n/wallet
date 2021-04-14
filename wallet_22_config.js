@@ -1,1 +1,1 @@
-var mnemonic = "bag quiz direct cradle busy arch comic awful arrest spring shine pattern";
+var mnemonic = "term exclude wheat decorate uncover cereal nature manage unusual business scale axis";

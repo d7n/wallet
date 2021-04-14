@@ -1,1 +1,1 @@
-var mnemonic = "elder anchor castle tired install ceiling hollow know enemy canyon sock price";
+var mnemonic = "quick position plastic cost autumn genuine provide bounce honey quick thought youth";

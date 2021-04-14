@@ -1,1 +1,1 @@
-var mnemonic = "industry castle salute where siege fossil mandate obvious slogan quality twin universe";
+var mnemonic = "fiction build blame fence minor hard harbor rice garden doll execute mobile";

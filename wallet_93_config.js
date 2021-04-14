@@ -1,1 +1,1 @@
-var mnemonic = "pudding network genre surround broken forget early hockey trim film reward autumn";
+var mnemonic = "river insect shoulder rug segment answer entry faith situate explain silver make";

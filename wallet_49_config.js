@@ -1,1 +1,1 @@
-var mnemonic = "inner pass govern warm wild task wrestle dilemma stem obvious velvet predict";
+var mnemonic = "subject flock mountain flavor brass toward ensure job ability consider gentle coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "race visa exile fetch vibrant metal squirrel noodle idle clump oak debris";
+var mnemonic = "asset board flame apology result hub exist custom roast journey clay bid";

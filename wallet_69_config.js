@@ -1,1 +1,1 @@
-var mnemonic = "either transfer kidney door section crouch decrease pretty laugh antique festival dash";
+var mnemonic = "daring chaos dizzy arrow price pulp secret dune toilet sadness ring lab";

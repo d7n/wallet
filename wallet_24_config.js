@@ -1,1 +1,1 @@
-var mnemonic = "start twist edit wrong auto level produce master excess matter level slush";
+var mnemonic = "memory game medal age cart peanut pyramid food adult elder witness clever";

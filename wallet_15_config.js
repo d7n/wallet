@@ -1,1 +1,1 @@
-var mnemonic = "shiver rescue leisure flat conduct tuition network toast neglect hazard service left";
+var mnemonic = "nut hidden thrive able height light seat frost globe ranch tide adult";

@@ -1,1 +1,1 @@
-var mnemonic = "lava mix whale hammer fuel brief salad decline mixed fetch cinnamon melody";
+var mnemonic = "agent menu tornado promote plastic announce illness veteran poet chunk arrive snow";

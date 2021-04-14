@@ -1,1 +1,1 @@
-var mnemonic = "rebuild nothing dragon fix blind soon knee mad frost major orbit usage";
+var mnemonic = "monitor come appear biology game mix coin already hamster bracket whip year";
