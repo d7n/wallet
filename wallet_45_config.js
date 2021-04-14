@@ -1,1 +1,1 @@
-var mnemonic = "diagram cradle monitor private gentle butter whip oval fatigue blast stumble uncover";
+var mnemonic = "surround quantum fiscal maple coyote spatial radio guard gain wife sight inject";

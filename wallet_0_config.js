@@ -1,1 +1,1 @@
-var mnemonic = "plug else venture guard dove giant dentist favorite goat tag broken proud";
+var mnemonic = "tunnel melody survey panther elegant magic truly eagle worth exist list kid";

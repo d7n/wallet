@@ -1,1 +1,1 @@
-var mnemonic = "stay kite exit predict fiction sing mule tuition program hero design lobster";
+var mnemonic = "ice flush hair gadget upon more before master magnet clean message suit";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome sudden pet chat left garage cannon sting blanket page autumn cart";
+var mnemonic = "slogan stomach coin orbit spare social woman snow setup peasant explain violin";

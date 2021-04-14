@@ -1,1 +1,1 @@
-var mnemonic = "suffer festival coin object pudding auto foster bicycle drill purchase wolf desk";
+var mnemonic = "hood theory fun burger blush tunnel domain sail brand catalog leader jealous";

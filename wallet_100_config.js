@@ -1,1 +1,1 @@
-var mnemonic = "sausage cost snack eternal man rigid depend casino excite pepper corn travel";
+var mnemonic = "flock cost mesh island web beauty flag school scare among bulb scare";

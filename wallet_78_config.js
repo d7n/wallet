@@ -1,1 +1,1 @@
-var mnemonic = "inflict swear daughter viable leaf tonight attract canal base option poverty tenant";
+var mnemonic = "great father slight improve lunch pistol wood goat state dog kid kick";

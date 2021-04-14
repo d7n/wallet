@@ -1,1 +1,1 @@
-var mnemonic = "click jacket toy medal bone pulp valley spirit skill valid two extend";
+var mnemonic = "deal fox prepare chat fly shrug display broken faculty banana rebuild lend";

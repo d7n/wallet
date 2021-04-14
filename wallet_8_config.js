@@ -1,1 +1,1 @@
-var mnemonic = "monster primary diagram culture hockey chimney patrol famous link maid slot stuff";
+var mnemonic = "auction cup excuse silk child bachelor lamp employ truly excuse object kit";

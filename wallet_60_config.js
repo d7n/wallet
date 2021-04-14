@@ -1,1 +1,1 @@
-var mnemonic = "tissue struggle slender horse ankle uniform castle sample ticket always output nasty";
+var mnemonic = "tool life spell gold elder yard foil truck music ankle truly country";

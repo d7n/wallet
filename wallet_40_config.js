@@ -1,1 +1,1 @@
-var mnemonic = "balcony prevent leopard thought great curve trim divorce frame net wagon carry";
+var mnemonic = "ready keen obvious february avoid strong ensure ostrich chronic fun runway license";

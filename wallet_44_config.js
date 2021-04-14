@@ -1,1 +1,1 @@
-var mnemonic = "exercise recipe identify soap please little assist palace deposit bicycle canoe young";
+var mnemonic = "display steak wide grit example guard eager organ arena message symptom gasp";

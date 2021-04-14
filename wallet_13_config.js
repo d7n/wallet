@@ -1,1 +1,1 @@
-var mnemonic = "network response shrimp auction churn level admit fashion wrong swarm title film";
+var mnemonic = "sword circle strong day mango lift denial spend creek crime horn worth";

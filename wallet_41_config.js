@@ -1,1 +1,1 @@
-var mnemonic = "bread smoke reform myself chief grain trigger return fade ahead guilt quality";
+var mnemonic = "latin twice match they subject deny model novel crowd swing already warfare";

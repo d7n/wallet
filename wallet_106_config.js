@@ -1,1 +1,1 @@
-var mnemonic = "fade sad steak remain oil tree scout symbol immune cave arrow company";
+var mnemonic = "hire labor orchard trip token matrix picture express lend month silver jealous";

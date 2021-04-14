@@ -1,1 +1,1 @@
-var mnemonic = "foil arm episode tray bring surface erase speak radio world annual shaft";
+var mnemonic = "where attack toy afraid element rate spoil raccoon hard police sniff cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "whip tip banana typical glad perfect shoulder ocean awkward motion unknown cheese";
+var mnemonic = "resemble harvest example motor link erupt adapt income time toast ghost coach";

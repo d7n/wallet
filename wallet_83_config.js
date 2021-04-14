@@ -1,1 +1,1 @@
-var mnemonic = "essay tail umbrella couple soft unfold giggle strike garment glory warfare potato";
+var mnemonic = "promote argue orange correct disagree entry input village equip toe artwork fiction";

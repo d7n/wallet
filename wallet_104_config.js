@@ -1,1 +1,1 @@
-var mnemonic = "viable vote essence donate pipe remember engage utility mention indoor repeat check";
+var mnemonic = "saddle photo reason note crash step focus deliver marble cross right describe";

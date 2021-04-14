@@ -1,1 +1,1 @@
-var mnemonic = "rail enable bracket cause visit someone globe now harvest input deny change";
+var mnemonic = "airport crunch alert sister kangaroo limit buddy hero false crime dress magic";

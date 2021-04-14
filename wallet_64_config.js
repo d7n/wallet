@@ -1,1 +1,1 @@
-var mnemonic = "defense funny spare exercise olympic detail seed lounge space shiver under blame";
+var mnemonic = "mask expand rotate outside filter beyond bid cage fever garlic anger vital";

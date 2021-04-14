@@ -1,1 +1,1 @@
-var mnemonic = "isolate false art reflect only scorpion also soon depend meadow emerge auction";
+var mnemonic = "behave lawsuit rack sugar quit common frequent horn angle gun wave crowd";

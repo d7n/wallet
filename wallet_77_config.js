@@ -1,1 +1,1 @@
-var mnemonic = "silly erase knee clown turn rude earth social spare own pizza chronic";
+var mnemonic = "mansion pepper honey night host install fork earn page disagree act dismiss";

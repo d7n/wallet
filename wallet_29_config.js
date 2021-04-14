@@ -1,1 +1,1 @@
-var mnemonic = "apology syrup useful travel skirt calm season reject where improve taste girl";
+var mnemonic = "goddess enlist delay keep neither one flush nation cereal economy feature danger";

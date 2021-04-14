@@ -1,1 +1,1 @@
-var mnemonic = "grape token hedgehog security swift abandon fetch pet weasel orient apple vendor";
+var mnemonic = "later artwork cancel chronic way jump cliff spray sniff oxygen improve lemon";

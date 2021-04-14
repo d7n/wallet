@@ -1,1 +1,1 @@
-var mnemonic = "end clock acid grow leader anchor truly situate rate blanket garlic atom";
+var mnemonic = "next charge plastic street squeeze rail occur endless unlock disease disorder nuclear";

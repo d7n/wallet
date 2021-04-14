@@ -1,1 +1,1 @@
-var mnemonic = "soccer grit hip display clutch draft enroll winter render forest flower end";
+var mnemonic = "artefact mean axis budget spoil sense fancy just laugh ghost emerge modify";

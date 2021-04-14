@@ -1,1 +1,1 @@
-var mnemonic = "dune gesture original female royal often oven fee opinion select kidney point";
+var mnemonic = "extend argue afraid fringe body inject bamboo pudding master solution sniff vocal";

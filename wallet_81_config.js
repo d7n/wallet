@@ -1,1 +1,1 @@
-var mnemonic = "blade exhibit sadness kidney midnight safe world power elite elevator traffic arm";
+var mnemonic = "iron tumble laptop tortoise address climb soup venture topple assist amateur bright";

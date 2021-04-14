@@ -1,1 +1,1 @@
-var mnemonic = "toss sugar desk draft clay veteran loyal upper praise student myth deputy";
+var mnemonic = "sleep great action case material dish diesel catch under culture donkey rail";

@@ -1,1 +1,1 @@
-var mnemonic = "hire expand sick confirm fix brave room motion top unhappy still start";
+var mnemonic = "turkey addict truly west luxury inform nothing busy charge vendor source tape";

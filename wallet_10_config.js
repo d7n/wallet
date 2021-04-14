@@ -1,1 +1,1 @@
-var mnemonic = "century office bacon weird library across place jewel gallery actress fit demise";
+var mnemonic = "rain retreat blind autumn cash lesson crystal ethics sing panda scatter drift";

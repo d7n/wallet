@@ -1,1 +1,1 @@
-var mnemonic = "among ridge rather cable unique still cram become attack also deposit smile";
+var mnemonic = "oval alcohol name forward vendor seek bounce absurd sentence valid junior taste";

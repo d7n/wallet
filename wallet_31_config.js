@@ -1,1 +1,1 @@
-var mnemonic = "ketchup menu script garbage enable world buddy remain frequent damage magnet festival";
+var mnemonic = "donor rapid joke girl host control panther scheme obscure two achieve neglect";

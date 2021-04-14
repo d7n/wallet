@@ -1,1 +1,1 @@
-var mnemonic = "language display tornado bracket relax bulk spare hello music worth tobacco river";
+var mnemonic = "unique notice chief tennis vessel ahead attract spoon artist maximum peace potato";

@@ -1,1 +1,1 @@
-var mnemonic = "leader visit discover sibling kitten holiday soft object riot physical inject resource";
+var mnemonic = "purity kit adult puppy cheap gym found grunt math tuition trigger lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "year hello trip ill room tape update position weird tail glove alien";
+var mnemonic = "orange happy mirror shine essay cousin artefact nerve survey cheap ritual toilet";

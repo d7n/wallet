@@ -1,1 +1,1 @@
-var mnemonic = "april message army wire menu good month faint matrix south conduct system";
+var mnemonic = "brush ranch pig garden surprise square name comfort tool betray trap tobacco";

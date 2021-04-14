@@ -1,1 +1,1 @@
-var mnemonic = "bachelor shrug spin offer ugly humble supreme exit pledge asset evoke flower";
+var mnemonic = "rifle fetch moral evil dutch clog ancient question bamboo outdoor wood brain";

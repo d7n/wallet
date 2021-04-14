@@ -1,1 +1,1 @@
-var mnemonic = "sock fold plate bind muffin tail post nation green curve output vocal";
+var mnemonic = "clown flip eight lizard gaze float glimpse run guilt cradle report ivory";

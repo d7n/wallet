@@ -1,1 +1,1 @@
-var mnemonic = "one conduct fault figure gesture pumpkin mammal weasel upper finger letter either";
+var mnemonic = "wreck hamster cradle artist winner denial left comic crouch school mechanic egg";

@@ -1,1 +1,1 @@
-var mnemonic = "weird noodle end camera expire fat lunch street biology expect extend baby";
+var mnemonic = "gesture fly shine muscle beauty fatal cement rose stamp knee drip tiger";

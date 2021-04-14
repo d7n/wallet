@@ -1,1 +1,1 @@
-var mnemonic = "size mercy betray palm mansion claw balcony silent judge fiction better slight";
+var mnemonic = "bronze arrow idea nest boss trophy design puzzle discover ramp tag evoke";

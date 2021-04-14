@@ -1,1 +1,1 @@
-var mnemonic = "congress upset slice sand retire error blame notable illegal seven ski team";
+var mnemonic = "fall chuckle pass fiber shrimp chunk friend exchange learn coconut nerve habit";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate achieve burger cream patient print nuclear disease such original you pioneer";
+var mnemonic = "slight choose potato welcome title october deputy photo birth blame royal affair";

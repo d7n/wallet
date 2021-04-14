@@ -1,1 +1,1 @@
-var mnemonic = "exact come daring exhaust chair antenna mouse fever cry analyst swarm layer";
+var mnemonic = "strong belt scorpion fashion clip false squirrel buddy flame snap limit energy";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle lava daring tray nuclear accident risk media real joke tonight sunny";
+var mnemonic = "search other mutual oval loyal sort tape neutral fire maid reveal salad";

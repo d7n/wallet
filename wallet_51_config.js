@@ -1,1 +1,1 @@
-var mnemonic = "brave wrestle wisdom twenty service boil brass evolve fog office novel fit";
+var mnemonic = "nephew electric label pilot belt near eyebrow trash suit another snow cash";

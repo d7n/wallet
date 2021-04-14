@@ -1,1 +1,1 @@
-var mnemonic = "wine reveal exhaust void creek weekend curious aisle yellow hair blush rule";
+var mnemonic = "infant busy sing close warm biology art umbrella glory top breeze candy";

@@ -1,1 +1,1 @@
-var mnemonic = "raven zero jacket green floor spawn woman buyer clay gorilla mail fancy";
+var mnemonic = "lazy tourist rapid light solid urban mammal swamp approve diagram cost buddy";

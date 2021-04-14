@@ -1,1 +1,1 @@
-var mnemonic = "unveil employ admit found size employ make only chaos act man release";
+var mnemonic = "retire remind defense library solar envelope nurse neck timber detail soft connect";

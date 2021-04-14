@@ -1,1 +1,1 @@
-var mnemonic = "impact shop what minimum sunny tennis absent kitchen manage intact aunt usage";
+var mnemonic = "earth soup cradle planet under bamboo beef acquire volume cake parrot glare";

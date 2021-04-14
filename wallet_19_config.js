@@ -1,1 +1,1 @@
-var mnemonic = "banana utility estate cost basket cross ramp furnace casino quit picnic memory";
+var mnemonic = "bring bitter steak december domain gym height until fold oak mix select";

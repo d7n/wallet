@@ -1,1 +1,1 @@
-var mnemonic = "duck chase heart teach arch problem humor snake result debate harvest bus";
+var mnemonic = "valid casino taxi flower clock switch galaxy head aunt path person urban";

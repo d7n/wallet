@@ -1,1 +1,1 @@
-var mnemonic = "fabric wife empty proud mercy segment thrive please foster sibling split salute";
+var mnemonic = "canal cycle pear talent merge route nation poem jacket rigid skirt maple";

@@ -1,1 +1,1 @@
-var mnemonic = "eight sail income trumpet behave start stamp cool envelope member dial assault";
+var mnemonic = "rice must lobster flower trip roof hurdle march path tone around impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness soda empty priority combine box arctic opinion divide air prefer enact";
+var mnemonic = "argue desk pen giggle glad fork aspect basic foot electric orient blood";

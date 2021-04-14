@@ -1,1 +1,1 @@
-var mnemonic = "promote kitten want elbow sweet mule trust possible pair visit episode royal";
+var mnemonic = "clinic fix key country wait twenty hockey brain original price tray thunder";

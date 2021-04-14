@@ -1,1 +1,1 @@
-var mnemonic = "oppose actual strong column cigar effort add neck collect shoot venue opera";
+var mnemonic = "other exercise focus galaxy spider scale trust pattern lab negative trigger dilemma";

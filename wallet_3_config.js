@@ -1,1 +1,1 @@
-var mnemonic = "true check absurd love already twin crawl lumber table warfare embrace black";
+var mnemonic = "alert visual build develop steel bounce shoulder turkey session mandate sight lonely";

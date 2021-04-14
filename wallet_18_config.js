@@ -1,1 +1,1 @@
-var mnemonic = "wheat fetch fantasy boat whip catch purchase donkey device design because claw";
+var mnemonic = "switch badge trial tail father once present coconut liquid raise mother word";

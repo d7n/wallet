@@ -1,1 +1,1 @@
-var mnemonic = "shy gather quantum void idea hire fetch nasty aware note faculty turtle";
+var mnemonic = "style script evolve guess panther dish wrestle input ring cinnamon below once";

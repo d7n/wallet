@@ -1,1 +1,1 @@
-var mnemonic = "flag alarm age hotel outside decade insect fat arena expire badge present";
+var mnemonic = "rocket vibrant trial device design vendor candy dolphin holiday wedding cream below";

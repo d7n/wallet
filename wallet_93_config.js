@@ -1,1 +1,1 @@
-var mnemonic = "bottom surface resemble very shift design secret gather token side regular vast";
+var mnemonic = "title girl humble fancy erosion hurdle rich frost cloth sign permit maximum";

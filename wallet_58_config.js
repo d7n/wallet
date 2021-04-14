@@ -1,1 +1,1 @@
-var mnemonic = "market feature skin elevator hub van welcome liquid suffer sword hand noodle";
+var mnemonic = "ball scene sick river come slim express merry robot year alone brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "mask fortune economy subway young garbage number absurd gaze save shadow artist";
+var mnemonic = "sorry produce item decline clinic mountain ribbon lesson laptop ordinary chair talk";

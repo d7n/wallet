@@ -1,1 +1,1 @@
-var mnemonic = "gorilla fix polar series plate virtual above design cupboard chief away lyrics";
+var mnemonic = "wrestle chapter husband prepare delay ignore engage aunt item phone noise range";

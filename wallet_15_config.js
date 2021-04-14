@@ -1,1 +1,1 @@
-var mnemonic = "flush inherit panther filter timber trick swamp melody roast auto spike divide";
+var mnemonic = "frog shift stumble design place ancient crop trumpet special spatial unfair school";

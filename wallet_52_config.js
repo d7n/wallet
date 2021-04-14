@@ -1,1 +1,1 @@
-var mnemonic = "bomb hungry section spell evidence bonus type clay trick seminar trick note";
+var mnemonic = "desert burger stage eight critic end extend honey sister butter person easy";

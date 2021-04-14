@@ -1,1 +1,1 @@
-var mnemonic = "cereal balance autumn pink debate apple giraffe gym holiday invite divorce jump";
+var mnemonic = "adapt title bread inherit destroy noise blind share pelican urge setup cable";

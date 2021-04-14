@@ -1,1 +1,1 @@
-var mnemonic = "egg crouch balance blouse dial plunge future sentence heart shield critic birth";
+var mnemonic = "finish common push inflict laugh home load legend seminar nothing nation chest";

@@ -1,1 +1,1 @@
-var mnemonic = "now movie suggest harbor paper enter discover copy cereal maple elbow depth";
+var mnemonic = "hedgehog hidden join february farm match misery issue doctor track width connect";

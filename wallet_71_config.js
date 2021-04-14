@@ -1,1 +1,1 @@
-var mnemonic = "flame speed erase vacant goddess service only mobile velvet patrol that purity";
+var mnemonic = "feel cat tree echo say loud luggage word click upset own color";

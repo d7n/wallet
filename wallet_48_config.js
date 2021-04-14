@@ -1,1 +1,1 @@
-var mnemonic = "throw next steak style goddess blue kitten prefer ketchup burden august more";
+var mnemonic = "blur craft suggest decrease route staff emotion will frame penalty shiver voice";

@@ -1,1 +1,1 @@
-var mnemonic = "law oval please actual fog vivid thank mansion affair tooth refuse tattoo";
+var mnemonic = "neglect employ point net mad butter tragic like pair filter cart master";

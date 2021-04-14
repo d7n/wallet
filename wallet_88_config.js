@@ -1,1 +1,1 @@
-var mnemonic = "build garage guess dawn route auction walk alien wash tonight worry safe";
+var mnemonic = "jeans equal fatal hat opera play brush dismiss lottery card wish ecology";

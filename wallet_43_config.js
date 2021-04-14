@@ -1,1 +1,1 @@
-var mnemonic = "disagree pave cake addict west awkward unusual document embrace protect plate march";
+var mnemonic = "foster theory clap dice arena offer stove tennis tool flock garage divorce";

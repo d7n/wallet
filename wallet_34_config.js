@@ -1,1 +1,1 @@
-var mnemonic = "debate jeans episode east height chapter solar boost potato strong small oppose";
+var mnemonic = "visa bronze embark disease lonely gauge remember mansion cake mutual window pony";

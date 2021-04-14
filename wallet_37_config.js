@@ -1,1 +1,1 @@
-var mnemonic = "hill pill long giggle basic noise ginger chaos fine ribbon ethics ahead";
+var mnemonic = "wave hazard hour often valley health wide more avoid hair muffin tobacco";

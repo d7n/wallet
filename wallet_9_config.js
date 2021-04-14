@@ -1,1 +1,1 @@
-var mnemonic = "differ echo surge sister also inflict skull erosion tooth tissue buddy differ";
+var mnemonic = "marine beach donor enable walk coconut blossom between quit supreme olive couch";

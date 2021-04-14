@@ -1,1 +1,1 @@
-var mnemonic = "impose width advance unfair double damp wet treat want license train drift";
+var mnemonic = "stomach joke car setup off trophy casual moment right asset question abstract";

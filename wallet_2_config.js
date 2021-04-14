@@ -1,1 +1,1 @@
-var mnemonic = "symbol squeeze rate setup genius trial night fuel glide glance bulb tunnel";
+var mnemonic = "educate disorder muscle bicycle worry cute float suggest tiny rural present sail";

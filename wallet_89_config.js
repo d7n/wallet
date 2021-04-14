@@ -1,1 +1,1 @@
-var mnemonic = "lake month muscle candy embody group bunker nominee rail tackle fresh effort";
+var mnemonic = "night elite pupil total phrase castle odor chuckle attend tumble cover pumpkin";

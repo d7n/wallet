@@ -1,1 +1,1 @@
-var mnemonic = "urge client arch dune donkey random hurt craft crystal warm year wire";
+var mnemonic = "vintage youth profit sadness crew goat bus harbor way hybrid trick citizen";

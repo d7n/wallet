@@ -1,1 +1,1 @@
-var mnemonic = "divide hungry mass grant own lady casual theory list chalk buddy size";
+var mnemonic = "novel inherit muffin lucky potato pear slot intact observe scrub rule borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "mad loop flag lawn crouch ranch boil reduce enroll best idle dream";
+var mnemonic = "concert coin vacant school crane fruit tube shop brass mansion table atom";

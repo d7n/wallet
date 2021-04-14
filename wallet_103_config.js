@@ -1,1 +1,1 @@
-var mnemonic = "silk earth salmon anger always catalog oval print castle avocado range annual";
+var mnemonic = "first stone wait rare argue clap anger run focus coach asset foster";

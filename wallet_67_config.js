@@ -1,1 +1,1 @@
-var mnemonic = "girl oblige surround alone museum kick cart prize zone salon slim square";
+var mnemonic = "happy panda stomach project sadness glide image opera famous shrimp grape three";

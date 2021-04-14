@@ -1,1 +1,1 @@
-var mnemonic = "yellow build arena thing garment beauty enable dinner bracket mammal remove submit";
+var mnemonic = "motor talk alcohol smooth fancy video true life oxygen width trial cram";

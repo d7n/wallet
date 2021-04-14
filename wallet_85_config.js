@@ -1,1 +1,1 @@
-var mnemonic = "name pear profit train pretty cage grocery system spoon paddle vault else";
+var mnemonic = "empty banana unit tongue goat favorite front differ menu have material cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "coil prevent asset harvest satoshi moral labor trend foil oppose topic cupboard";
+var mnemonic = "evolve order spend vapor age word recipe credit script horn negative laundry";

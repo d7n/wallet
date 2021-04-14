@@ -1,1 +1,1 @@
-var mnemonic = "lucky floor excite culture turtle aisle door snap about scheme noodle peanut";
+var mnemonic = "crunch spawn exit zero game arrange stick recipe embrace wine faint finger";

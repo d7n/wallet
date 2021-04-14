@@ -1,1 +1,1 @@
-var mnemonic = "firm twist hungry simple resource differ enlist town sauce stay gospel dragon";
+var mnemonic = "burger pigeon exact penalty mammal convince element learn wise forget muffin error";
