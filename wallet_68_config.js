@@ -1,1 +1,1 @@
-var mnemonic = "expose about install purchase normal fancy picnic equip index hole orbit place";
+var mnemonic = "begin airport develop diet aisle hint gossip position copper donate rally subject";

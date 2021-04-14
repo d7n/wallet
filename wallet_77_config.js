@@ -1,1 +1,1 @@
-var mnemonic = "awake reward quantum nut awake face injury science differ prefer ice narrow";
+var mnemonic = "laptop hood reopen cheap imitate insect antique tunnel relax code clerk gym";

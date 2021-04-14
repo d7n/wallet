@@ -1,1 +1,1 @@
-var mnemonic = "about pigeon machine choose provide wire debris purity tiny annual magnet neck";
+var mnemonic = "boss shy critic clay silly indoor predict drastic panel minor length evil";

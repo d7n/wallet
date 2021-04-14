@@ -1,1 +1,1 @@
-var mnemonic = "correct scissors trumpet foil ride dilemma lunar pitch round decrease fitness audit";
+var mnemonic = "bacon grape pulp tenant curtain team student debris crunch decrease primary youth";

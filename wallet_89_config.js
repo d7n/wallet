@@ -1,1 +1,1 @@
-var mnemonic = "that orient title poem journey globe warfare source dish review wall balcony";
+var mnemonic = "fiction faith danger obey oppose reopen virtual decorate cry become round muscle";

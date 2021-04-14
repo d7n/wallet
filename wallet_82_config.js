@@ -1,1 +1,1 @@
-var mnemonic = "labor dismiss bamboo flip never repeat write glide half uncover lemon head";
+var mnemonic = "van mule slogan master robot grass coffee arena endless loud meat toy";

@@ -1,1 +1,1 @@
-var mnemonic = "essence rate swim priority shallow flight sibling sock point horse palace phone";
+var mnemonic = "defy interest sell ripple screen east step leopard october arm vintage tomorrow";

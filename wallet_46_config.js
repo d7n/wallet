@@ -1,1 +1,1 @@
-var mnemonic = "ivory tide riot mandate van cupboard travel flee solar beyond jar bamboo";
+var mnemonic = "keen ocean rocket food popular plastic coach piano play legend clutch turtle";

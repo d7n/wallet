@@ -1,1 +1,1 @@
-var mnemonic = "sport goddess choice memory call slam degree trade social fan uncover clown";
+var mnemonic = "party steak manual social inmate device tooth season engine ridge snap question";

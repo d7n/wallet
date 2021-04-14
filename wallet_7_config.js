@@ -1,1 +1,1 @@
-var mnemonic = "deal math crop busy wedding beauty turn cruel gravity attract enemy basic";
+var mnemonic = "theory now stage tennis change retreat region omit group gap quit soccer";

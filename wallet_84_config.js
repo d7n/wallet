@@ -1,1 +1,1 @@
-var mnemonic = "winner bottom injury there praise width pledge rent update lens forum car";
+var mnemonic = "patient salad audit stand width tray art first ripple come sunny plastic";

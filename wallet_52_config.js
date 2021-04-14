@@ -1,1 +1,1 @@
-var mnemonic = "sail bike dog inherit vacuum hobby regular smile pear reason token sponsor";
+var mnemonic = "unlock woman nerve mansion certain dismiss decline tortoise desk hawk tonight clarify";

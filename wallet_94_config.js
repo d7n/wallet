@@ -1,1 +1,1 @@
-var mnemonic = "enact exit mass jacket tent cream accuse possible garden select video eager";
+var mnemonic = "tuna sure collect relief illegal lemon silly purchase enlist casual rug sadness";

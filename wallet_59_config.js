@@ -1,1 +1,1 @@
-var mnemonic = "orbit desert fox metal own opinion bone legend public library whip opinion";
+var mnemonic = "sun athlete cloth town summer canal time unit pause material combine bone";

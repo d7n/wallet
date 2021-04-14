@@ -1,1 +1,1 @@
-var mnemonic = "island lab city boring metal food reduce betray become flash prefer dish";
+var mnemonic = "bind arrive meat cherry fold soul plunge angry ball pink travel good";

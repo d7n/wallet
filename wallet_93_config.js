@@ -1,1 +1,1 @@
-var mnemonic = "infant glow seat sniff vibrant globe only tornado fame later horror dash";
+var mnemonic = "kick ready ugly disagree ready gentle virus manual sauce measure banner ensure";

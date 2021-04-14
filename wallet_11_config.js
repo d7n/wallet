@@ -1,1 +1,1 @@
-var mnemonic = "hospital lizard thing purpose width poem case will build between stay bullet";
+var mnemonic = "one senior evil identify slot canal object syrup matrix trial label range";

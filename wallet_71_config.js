@@ -1,1 +1,1 @@
-var mnemonic = "cup donor garment scout north vote stem shine bounce boy peanut recall";
+var mnemonic = "year slight moment salon hover sock number tribe slide icon round vital";

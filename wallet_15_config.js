@@ -1,1 +1,1 @@
-var mnemonic = "soul merry task mention consider outside valve spell dinosaur edge action game";
+var mnemonic = "legal vibrant era payment seminar fresh good split clarify smooth suspect limit";

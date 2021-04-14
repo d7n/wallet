@@ -1,1 +1,1 @@
-var mnemonic = "okay journey card net flock govern spare dumb outside object truck unknown";
+var mnemonic = "hawk risk cat soon rival spell exhibit rib infant kiwi sure flight";

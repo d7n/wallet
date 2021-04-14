@@ -1,1 +1,1 @@
-var mnemonic = "box describe frame mind sketch appear talk perfect rule sad photo crime";
+var mnemonic = "try quarter express mom soda pet session outer glad cave focus unknown";

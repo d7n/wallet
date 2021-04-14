@@ -1,1 +1,1 @@
-var mnemonic = "canal what pizza aisle bulb they interest essay drastic require vendor blur";
+var mnemonic = "glance oblige senior grit cupboard crazy bind guard hurt throw potato road";

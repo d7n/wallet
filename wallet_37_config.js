@@ -1,1 +1,1 @@
-var mnemonic = "unfair tuna erupt gold item phrase surprise remind make peace icon urban";
+var mnemonic = "pencil collect avocado lunch misery rhythm like tuition pig blood west castle";

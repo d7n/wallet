@@ -1,1 +1,1 @@
-var mnemonic = "recipe element bronze spend increase wisdom come great caution tank thrive carbon";
+var mnemonic = "just raven install lawsuit inflict meadow pact expose dismiss hospital mechanic crawl";

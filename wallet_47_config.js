@@ -1,1 +1,1 @@
-var mnemonic = "emotion quantum saddle prison off when foil always jewel fossil royal kit";
+var mnemonic = "vapor man language work shallow host siren head prepare flight choice sick";

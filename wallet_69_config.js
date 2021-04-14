@@ -1,1 +1,1 @@
-var mnemonic = "crystal load fetch fog duck wave buddy victory patch afford program cute";
+var mnemonic = "upper sing decade course manage moon pony kingdom puzzle dentist legend joy";

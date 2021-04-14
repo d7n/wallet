@@ -1,1 +1,1 @@
-var mnemonic = "come sure convince spike pink when tip expect subject around obtain load";
+var mnemonic = "cinnamon rapid index emerge ocean lava squeeze link onion slab help leave";

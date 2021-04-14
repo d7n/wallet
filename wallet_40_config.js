@@ -1,1 +1,1 @@
-var mnemonic = "canoe eight stand employ satoshi fiber model luggage permit hard conduct category";
+var mnemonic = "repair vote ready blossom insane control indicate tree shine bone protect mesh";

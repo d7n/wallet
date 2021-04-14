@@ -1,1 +1,1 @@
-var mnemonic = "cream almost history absurd omit frost resemble swim orchard helmet bomb pencil";
+var mnemonic = "scene achieve seminar holiday risk clutch grass hunt quick guilt name above";

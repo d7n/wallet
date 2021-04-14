@@ -1,1 +1,1 @@
-var mnemonic = "prevent romance document measure oval bacon deer swamp stock own fiscal virus";
+var mnemonic = "blossom cry noble junior outdoor pony mansion smart coyote whip bone also";

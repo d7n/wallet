@@ -1,1 +1,1 @@
-var mnemonic = "suggest circle trophy travel cattle post pipe purchase renew habit lava senior";
+var mnemonic = "heart adapt tortoise vapor husband steak angry rain nice avoid push treat";

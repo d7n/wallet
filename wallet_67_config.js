@@ -1,1 +1,1 @@
-var mnemonic = "club put then avocado gorilla say october bring female stable flash fury";
+var mnemonic = "mechanic you pyramid celery slab dinner work wrap peace eye gallery athlete";

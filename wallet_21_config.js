@@ -1,1 +1,1 @@
-var mnemonic = "high delay gown hobby suggest cargo wrestle issue wink false pink panel";
+var mnemonic = "emotion frozen betray matrix swear already style acid notable brick tissue table";

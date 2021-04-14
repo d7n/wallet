@@ -1,1 +1,1 @@
-var mnemonic = "orbit rug clock length true ketchup screen rate indoor body arrive tip";
+var mnemonic = "unveil embrace retreat major season buffalo cotton draw cricket october outside ring";

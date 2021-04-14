@@ -1,1 +1,1 @@
-var mnemonic = "divorce decorate undo extend damp globe rough raise legal frown argue unique";
+var mnemonic = "fortune carbon able fringe naive actual problem damage blanket wire common awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "bone slow charge dose ivory toy tag soft price camera agent pattern";
+var mnemonic = "inquiry civil cover waste again negative forget vehicle learn practice outer bridge";

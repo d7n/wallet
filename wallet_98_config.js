@@ -1,1 +1,1 @@
-var mnemonic = "actual crush true fringe report spoil solution pen cannon oblige beauty nominee";
+var mnemonic = "mimic news major fresh course razor vehicle blade midnight hint mistake embark";

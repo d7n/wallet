@@ -1,1 +1,1 @@
-var mnemonic = "draft join fatigue trigger wet hill pledge hurt quick motion half proud";
+var mnemonic = "deer level used mammal start catch dry injury ostrich version consider announce";

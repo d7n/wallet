@@ -1,1 +1,1 @@
-var mnemonic = "impose sure arctic popular palace brave mimic shell salute kitten close another";
+var mnemonic = "dog cradle globe deposit earn gun thumb length weather drip sister visit";

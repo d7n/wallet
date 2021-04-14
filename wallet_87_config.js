@@ -1,1 +1,1 @@
-var mnemonic = "thank situate return hen cook bean author faint inquiry embody large demise";
+var mnemonic = "inflict auction soft ripple orbit spike opinion imitate meadow oblige flush original";

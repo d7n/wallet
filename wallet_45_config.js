@@ -1,1 +1,1 @@
-var mnemonic = "render balance slice horse seek rival reunion ladder sing labor hollow cruel";
+var mnemonic = "dawn usage giant subject frame ceiling hope raw gossip broom gold transfer";

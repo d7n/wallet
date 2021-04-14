@@ -1,1 +1,1 @@
-var mnemonic = "shield quarter deputy random busy guilt aerobic frog spoil rebuild wisdom copy";
+var mnemonic = "keep motion private brother avoid donate live rocket scrap match unlock news";

@@ -1,1 +1,1 @@
-var mnemonic = "rude boil evil spin solid suffer digital envelope brown odor iron crash";
+var mnemonic = "vibrant penalty pet bottom train excuse absent cruel cloth visual pilot heavy";

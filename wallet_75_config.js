@@ -1,1 +1,1 @@
-var mnemonic = "mouse fan leave thank actual thumb brave desk usage gloom pill raven";
+var mnemonic = "assault month airport public doll retire claim response only life blush range";

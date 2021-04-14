@@ -1,1 +1,1 @@
-var mnemonic = "disagree step carry awake tragic radar universe yellow warfare pluck flower regret";
+var mnemonic = "kangaroo mandate legal universe square olympic obey project recycle answer general enrich";

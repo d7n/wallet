@@ -1,1 +1,1 @@
-var mnemonic = "teach choice grass canvas buzz ride cereal wheat trade genuine clay poet";
+var mnemonic = "fold excite field kick moment sick force harvest measure whale steel manual";

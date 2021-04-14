@@ -1,1 +1,1 @@
-var mnemonic = "disorder protect drop soccer glass vintage father fiscal way same final race";
+var mnemonic = "confirm night liquid cheap zero bless enemy naive infant artwork comic kiss";

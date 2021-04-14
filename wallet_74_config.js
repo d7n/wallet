@@ -1,1 +1,1 @@
-var mnemonic = "amateur banana jealous enable large opinion merry camp merry then wave eye";
+var mnemonic = "gesture unfair squeeze teach error allow certain matrix eye area earn indoor";

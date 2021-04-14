@@ -1,1 +1,1 @@
-var mnemonic = "miracle science student music direct crucial profit forget vault raven multiply current";
+var mnemonic = "coil sure labor obtain cannon income tortoise town again satisfy until drip";

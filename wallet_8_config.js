@@ -1,1 +1,1 @@
-var mnemonic = "banana rice estate cotton fever grape pulse hotel puppy tissue view inner";
+var mnemonic = "trigger setup shrimp hazard master sell era legal rare alarm grunt mean";

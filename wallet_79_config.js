@@ -1,1 +1,1 @@
-var mnemonic = "visual banana vessel normal adapt hood employ property brand front cream bright";
+var mnemonic = "jewel dumb start initial position mandate notice garbage bird switch catalog slab";

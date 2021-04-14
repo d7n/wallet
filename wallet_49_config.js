@@ -1,1 +1,1 @@
-var mnemonic = "culture gloom daring sing soon phone child soldier comfort behind news caution";
+var mnemonic = "loan web ready royal afraid model evoke demand lawsuit subject fade pear";

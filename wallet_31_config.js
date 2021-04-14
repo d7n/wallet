@@ -1,1 +1,1 @@
-var mnemonic = "jacket adjust adapt cupboard soul taxi father meadow doctor federal ocean multiply";
+var mnemonic = "correct double deposit gate turn jewel steak fold spot sort butter panther";

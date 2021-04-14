@@ -1,1 +1,1 @@
-var mnemonic = "panda culture quote wish among shoot state bacon solution grow thumb crazy";
+var mnemonic = "emerge modify deliver sword library sign machine chapter render daughter reform copper";

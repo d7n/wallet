@@ -1,1 +1,1 @@
-var mnemonic = "witness word umbrella access next mercy tortoise stove picnic live lemon alert";
+var mnemonic = "melody minute wide spell today income talk path absent dust symptom differ";

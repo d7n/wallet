@@ -1,1 +1,1 @@
-var mnemonic = "mad reopen reason edge possible afford beach will about decrease alert smooth";
+var mnemonic = "daring syrup believe educate major skull pretty burger ship mistake short replace";

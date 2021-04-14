@@ -1,1 +1,1 @@
-var mnemonic = "gather hedgehog tunnel daring tourist gown mouse exercise dirt property someone day";
+var mnemonic = "fiber horn plate stumble sheriff hurry absent inform opera hair season runway";

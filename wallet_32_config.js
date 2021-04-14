@@ -1,1 +1,1 @@
-var mnemonic = "siren sample hedgehog onion bamboo person shove sheriff excite hour smart machine";
+var mnemonic = "dash blur physical hole indoor desk cube will humble brush canal hole";

@@ -1,1 +1,1 @@
-var mnemonic = "air evolve credit strategy parrot inflict settle poverty frost sign prison journey";
+var mnemonic = "honey media borrow car congress cannon reject seat soul vacuum december erase";

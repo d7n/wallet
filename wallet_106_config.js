@@ -1,1 +1,1 @@
-var mnemonic = "pizza session outdoor state tenant whisper glory disorder dance virtual gesture merry";
+var mnemonic = "fantasy nose slogan badge repeat hunt magic advice tennis silk favorite food";

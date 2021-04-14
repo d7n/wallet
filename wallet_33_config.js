@@ -1,1 +1,1 @@
-var mnemonic = "cable joy joke tip easy all sport result knife canvas lunch pigeon";
+var mnemonic = "gallery pond act error gospel fan say amazing left action employ spread";

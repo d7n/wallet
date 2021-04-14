@@ -1,1 +1,1 @@
-var mnemonic = "blue quote pluck forget panda legend ladder taste visual twin tell radar";
+var mnemonic = "deliver scan hurry guide prize scrap wife music small put shoe air";

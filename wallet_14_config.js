@@ -1,1 +1,1 @@
-var mnemonic = "arrive goat square million render message eye vast man myth very amount";
+var mnemonic = "dream bind session normal rose knee direct torch plug tissue simple horn";

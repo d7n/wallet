@@ -1,1 +1,1 @@
-var mnemonic = "utility make reason blind finger topple winter bomb monitor snake wash same";
+var mnemonic = "square soccer cage bullet abstract tilt boost bread cube naive used orchard";

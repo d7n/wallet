@@ -1,1 +1,1 @@
-var mnemonic = "auction certain magnet actual bubble whale during time double shrimp inherit galaxy";
+var mnemonic = "tunnel genuine shove material conduct oblige ship tonight wash hammer hammer usage";

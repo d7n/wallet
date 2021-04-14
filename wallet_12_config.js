@@ -1,1 +1,1 @@
-var mnemonic = "shuffle antenna coil win file snake exercise meat segment keen man clean";
+var mnemonic = "inmate cinnamon tail old menu unfair field broccoli exclude skate legend box";

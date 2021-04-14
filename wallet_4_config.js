@@ -1,1 +1,1 @@
-var mnemonic = "burger share used pact amused exclude belt glare category aim awkward immense";
+var mnemonic = "radio wear apology leave thumb spirit win lazy devote small venue pink";

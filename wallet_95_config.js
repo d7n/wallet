@@ -1,1 +1,1 @@
-var mnemonic = "inch humble kiss curve refuse fresh tray silent fury sand salmon volcano";
+var mnemonic = "diesel grow speak extend major speed view doll shuffle next light february";

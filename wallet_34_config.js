@@ -1,1 +1,1 @@
-var mnemonic = "industry indicate shaft movie rural churn miracle drama flash awkward figure nice";
+var mnemonic = "pitch chest nice image fresh onion burger ladder lazy drastic rookie hope";

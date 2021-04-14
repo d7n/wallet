@@ -1,1 +1,1 @@
-var mnemonic = "dirt sniff step amateur dinosaur pig bounce head top tiger dignity bundle";
+var mnemonic = "degree sphere immense crush because capital absorb hood orient lemon crouch teach";

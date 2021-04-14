@@ -1,1 +1,1 @@
-var mnemonic = "vessel erode element key happy patrol where magnet term meadow leader cable";
+var mnemonic = "evoke stomach excess load bulb demise note affair taxi coconut legend affair";

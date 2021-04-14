@@ -1,1 +1,1 @@
-var mnemonic = "error sport team agent enjoy path monitor foil debate three force father";
+var mnemonic = "stem clip extra spare remember pistol bring tongue vocal change dizzy shoe";

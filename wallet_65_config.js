@@ -1,1 +1,1 @@
-var mnemonic = "victory rifle enhance sing myth limb ocean impose horn boy left system";
+var mnemonic = "fossil genuine kid torch science fiber brass pave shuffle ignore lecture tip";

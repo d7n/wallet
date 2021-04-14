@@ -1,1 +1,1 @@
-var mnemonic = "expect fringe museum job attitude ocean opera kingdom lounge park quantum bean";
+var mnemonic = "unveil steak chimney age topic slide fish evoke auto churn depend ritual";

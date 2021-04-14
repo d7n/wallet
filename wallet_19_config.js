@@ -1,1 +1,1 @@
-var mnemonic = "ribbon choice caution cigar enemy include fame puppy juice flame midnight unknown";
+var mnemonic = "setup spirit hen coyote distance boy able cream document total erode nature";

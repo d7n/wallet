@@ -1,1 +1,1 @@
-var mnemonic = "genre miracle faint culture yard until front crystal radar flock oyster simple";
+var mnemonic = "current bubble fatal filter spin carbon tobacco sunset champion pride convince praise";

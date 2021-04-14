@@ -1,1 +1,1 @@
-var mnemonic = "ozone nerve trade actor quantum celery element blade balance zone sketch december";
+var mnemonic = "twenty narrow brother wagon program umbrella margin that logic cradle open diesel";

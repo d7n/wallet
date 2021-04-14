@@ -1,1 +1,1 @@
-var mnemonic = "citizen intact calm three great cricket ritual grain open wrist car hazard";
+var mnemonic = "leisure ship found shadow pair give salmon metal observe prepare close celery";

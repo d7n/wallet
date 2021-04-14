@@ -1,1 +1,1 @@
-var mnemonic = "hour wrong gentle sponsor tunnel riot party oblige arrive mango image will";
+var mnemonic = "remain party surge extra success soldier secret float general increase marble increase";

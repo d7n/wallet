@@ -1,1 +1,1 @@
-var mnemonic = "cousin local olive wrong wise matter machine patrol near crisp topic vendor";
+var mnemonic = "song giraffe memory belt smooth ancient accident bless toilet half sister misery";

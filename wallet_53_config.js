@@ -1,1 +1,1 @@
-var mnemonic = "night escape story film pluck party rigid dish flavor captain depend hour";
+var mnemonic = "cement sport subject alcohol claim bring alpha resist fun unique you legend";

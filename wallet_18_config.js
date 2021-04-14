@@ -1,1 +1,1 @@
-var mnemonic = "right brief benefit flower face birth among lesson call have limb paddle";
+var mnemonic = "veteran cactus supply vintage hamster tank leave drill poem amateur top amazing";

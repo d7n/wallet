@@ -1,1 +1,1 @@
-var mnemonic = "hour child skull cause crowd valley survey fork because olive decline subject";
+var mnemonic = "select grab rocket wisdom wheel order near kite grow return nurse absurd";

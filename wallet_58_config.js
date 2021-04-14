@@ -1,1 +1,1 @@
-var mnemonic = "crazy labor start cry sheriff fence essay leave child hover night alpha";
+var mnemonic = "vicious hill skate marble runway drink canvas wear tourist scrap result tank";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney chicken shoot case park click pumpkin indoor curtain general into soon";
+var mnemonic = "pink awesome celery maple wide horn among wonder glare quote cannon shed";

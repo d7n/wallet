@@ -1,1 +1,1 @@
-var mnemonic = "castle unlock neutral ridge range bonus cake popular divide pear maid shoe";
+var mnemonic = "detect gasp tuition solid impulse rebel current seven gaze wall faint south";

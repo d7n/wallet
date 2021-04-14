@@ -1,1 +1,1 @@
-var mnemonic = "glory document involve state slush steel electric viable glove type mango moment";
+var mnemonic = "patch slice lesson balcony focus myth cabin quote village minimum tent lake";

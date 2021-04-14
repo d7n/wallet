@@ -1,1 +1,1 @@
-var mnemonic = "must close humor report door subway version assault cave segment reflect estate";
+var mnemonic = "tiger pistol arrest distance found zoo meadow slide believe release reward strong";

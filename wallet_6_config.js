@@ -1,1 +1,1 @@
-var mnemonic = "couple stumble diary brush shove gun venture fox nose wait adult unveil";
+var mnemonic = "crew merry tomorrow wasp wrestle minute page mirror aunt tent trumpet angle";

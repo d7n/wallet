@@ -1,1 +1,1 @@
-var mnemonic = "domain evoke artefact riot enact flat exhibit exotic know immense hungry flame";
+var mnemonic = "rabbit accuse ugly green puppy ramp hurdle expect taxi excess magnet truly";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold tank antenna torch opera reunion method select win lamp join dumb";
+var mnemonic = "gym bunker unfair stable blame front uncover thought loud parent patient atom";

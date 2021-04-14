@@ -1,1 +1,1 @@
-var mnemonic = "soul real clump uncover credit enroll element keep bridge shell leaf wealth";
+var mnemonic = "indicate water survey clown confirm mix inmate note blossom salmon work bacon";
