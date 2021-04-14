@@ -1,1 +1,1 @@
-var mnemonic = "sure cancel iron cannon swap jaguar erupt peace federal castle cabbage fly";
+var mnemonic = "consider section believe panda stock enter royal dust twin envelope lecture fitness";

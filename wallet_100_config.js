@@ -1,1 +1,1 @@
-var mnemonic = "addict garbage license cannon cradle silver only response cluster mistake correct winter";
+var mnemonic = "warfare oil harsh artwork hurry noble imitate occur shove ugly record mimic";

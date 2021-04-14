@@ -1,1 +1,1 @@
-var mnemonic = "piano reject mimic canyon juice define rebuild flight idea title provide thing";
+var mnemonic = "strong wing day width expand morning vacant cradle enact guess swamp way";

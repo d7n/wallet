@@ -1,1 +1,1 @@
-var mnemonic = "knock half success provide paddle enjoy park choice second fever another spare";
+var mnemonic = "route priority bean elder enemy abstract fly good inner liberty glow suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty defense twist moral what private orchard bulb speak frame inch alter";
+var mnemonic = "finger exist sadness firm enemy elite barely purchase expect slam what jaguar";

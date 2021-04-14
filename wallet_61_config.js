@@ -1,1 +1,1 @@
-var mnemonic = "since prepare blame cushion sure grunt uncover ecology velvet phone praise sun";
+var mnemonic = "carbon pipe hat answer analyst since abstract box puzzle type stone sad";

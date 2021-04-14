@@ -1,1 +1,1 @@
-var mnemonic = "reward tent oyster tree strike icon kidney crunch height worth produce figure";
+var mnemonic = "goose episode delay core meadow mad fetch bring bubble bind magic fortune";

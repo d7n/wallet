@@ -1,1 +1,1 @@
-var mnemonic = "dawn lady item kind capable stick ugly shove stage road volume place";
+var mnemonic = "nut shoulder rebuild either need tumble polar cricket flock agree salon floor";

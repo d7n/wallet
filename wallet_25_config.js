@@ -1,1 +1,1 @@
-var mnemonic = "since artefact fragile accuse topic lucky write lobster enter copy deny say";
+var mnemonic = "visa elephant wise find quality belt recycle outdoor ready ten sauce reform";

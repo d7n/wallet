@@ -1,1 +1,1 @@
-var mnemonic = "ivory disorder base digital spy omit air trade shoulder fit shield ask";
+var mnemonic = "squeeze fox uniform help civil elbow visa lumber hair tree spray off";

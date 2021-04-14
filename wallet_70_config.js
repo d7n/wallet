@@ -1,1 +1,1 @@
-var mnemonic = "gun orchard catch seed oxygen aware dial dream panther lobster strategy crazy";
+var mnemonic = "village health cage anchor vivid file near apple reunion combine answer chase";

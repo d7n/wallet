@@ -1,1 +1,1 @@
-var mnemonic = "jewel recall sentence once giraffe upper gather priority layer buffalo divorce reunion";
+var mnemonic = "empower notable fog blast cube clean purity burden rabbit detect broccoli enable";

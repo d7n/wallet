@@ -1,1 +1,1 @@
-var mnemonic = "duck recall relax fire near that pink media rebel awful stem exit";
+var mnemonic = "ozone display problem hungry head entry cotton lens beauty salmon mean avoid";

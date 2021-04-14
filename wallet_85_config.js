@@ -1,1 +1,1 @@
-var mnemonic = "hollow misery arrange forest road concert tuition walk inject melt paddle summer";
+var mnemonic = "win mind artist sail seed vicious tunnel drama soul negative harsh obtain";

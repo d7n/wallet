@@ -1,1 +1,1 @@
-var mnemonic = "top drum arrange empty heavy vocal ripple nephew cost shiver expect expose";
+var mnemonic = "life paddle rug will habit govern cook twist sick absurd blame escape";

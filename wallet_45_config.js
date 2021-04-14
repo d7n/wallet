@@ -1,1 +1,1 @@
-var mnemonic = "rally other private strike item zebra refuse myth employ blame album sight";
+var mnemonic = "task afford arrange bounce dish taxi magic coyote museum erase ketchup wide";

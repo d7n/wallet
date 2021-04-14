@@ -1,1 +1,1 @@
-var mnemonic = "dentist birth card account estate turtle zoo rotate begin sentence hamster route";
+var mnemonic = "attitude wrap guitar address celery gather crop elephant ice produce city auction";

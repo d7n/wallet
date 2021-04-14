@@ -1,1 +1,1 @@
-var mnemonic = "client draw pottery piece lumber toward opera situate across venue enlist glimpse";
+var mnemonic = "genuine frequent cactus desert credit mind mutual chunk crane luggage cliff south";

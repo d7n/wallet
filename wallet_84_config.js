@@ -1,1 +1,1 @@
-var mnemonic = "visual canyon plate talk panel goat language please abuse fragile model snack";
+var mnemonic = "pet panther invite dial oven hold day you tennis coil survey hat";

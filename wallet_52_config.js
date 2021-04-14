@@ -1,1 +1,1 @@
-var mnemonic = "assist grab dune aerobic mesh seek general stay swallow jelly air young";
+var mnemonic = "canoe hospital curtain rabbit scheme onion insect inside dinosaur dilemma tuition walnut";

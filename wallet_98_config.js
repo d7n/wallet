@@ -1,1 +1,1 @@
-var mnemonic = "frequent struggle put exotic science knock lava matrix upgrade below pact process";
+var mnemonic = "tobacco electric south shuffle layer jeans web dolphin offer wash build envelope";

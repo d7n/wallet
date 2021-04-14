@@ -1,1 +1,1 @@
-var mnemonic = "spend crop fiscal surround credit achieve erupt desert quantum bring bless volume";
+var mnemonic = "tell skill april tail erosion orchard wide universe camera blouse person expire";

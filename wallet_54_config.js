@@ -1,1 +1,1 @@
-var mnemonic = "panic bean neglect try harbor lunch mystery poverty flash sick elite help";
+var mnemonic = "craft say stairs vintage immense unlock pause snack tilt rack motor loud";

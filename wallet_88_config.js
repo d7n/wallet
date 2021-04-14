@@ -1,1 +1,1 @@
-var mnemonic = "toddler utility cycle wisdom train word humble grief found island firm visual";
+var mnemonic = "poverty flee figure federal west subject sentence rifle firm rival advance genuine";

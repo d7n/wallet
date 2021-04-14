@@ -1,1 +1,1 @@
-var mnemonic = "perfect dash gas erode heart merit night battle mail build home company";
+var mnemonic = "only faint virus usage that neutral census license indicate accident impose predict";

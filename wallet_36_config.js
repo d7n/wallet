@@ -1,1 +1,1 @@
-var mnemonic = "deputy mixture insane give soul worth dinosaur eager test number plate wagon";
+var mnemonic = "electric warm interest across theme effort word series cotton door region behave";

@@ -1,1 +1,1 @@
-var mnemonic = "horn brisk once struggle math mother wrestle detect curve ceiling cabbage about";
+var mnemonic = "fun era paper lecture cherry warm dune below apology ethics miss clip";

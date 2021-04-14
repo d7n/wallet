@@ -1,1 +1,1 @@
-var mnemonic = "vendor cricket patrol price shuffle web ceiling bulb leg benefit client motion";
+var mnemonic = "snap deputy devote birth card glad hip deer orphan mouse junior basic";

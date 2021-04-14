@@ -1,1 +1,1 @@
-var mnemonic = "tongue panel company race comic swamp gate dolphin conduct heart exotic airport";
+var mnemonic = "birth slight fitness drastic best vault obvious able gloom whale matter forum";

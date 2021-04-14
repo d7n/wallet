@@ -1,1 +1,1 @@
-var mnemonic = "kiwi flock estate kingdom liquid toy bacon argue term action rebel matrix";
+var mnemonic = "awful axis cattle small fetch hunt maid eager canal hub silver eager";

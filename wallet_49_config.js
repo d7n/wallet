@@ -1,1 +1,1 @@
-var mnemonic = "panther feed guard loop sweet reward neck setup roast silly erosion jacket";
+var mnemonic = "lunar endless pledge tiger chief pledge cloud cactus dress crop infant leaf";

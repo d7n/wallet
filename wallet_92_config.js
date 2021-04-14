@@ -1,1 +1,1 @@
-var mnemonic = "whale frog before negative divide moment begin brisk woman note nominee delay";
+var mnemonic = "egg faculty plate action bundle clarify sword long bless thing hollow come";

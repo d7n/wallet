@@ -1,1 +1,1 @@
-var mnemonic = "dress verify february business clog foam swift puppy desk tourist step rough";
+var mnemonic = "donkey fat success dinosaur coffee beyond tribe tilt oil replace situate chair";

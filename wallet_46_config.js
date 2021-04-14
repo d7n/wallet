@@ -1,1 +1,1 @@
-var mnemonic = "rich document priority rescue chest crazy pledge core number monkey gesture royal";
+var mnemonic = "unhappy clump leaf voice taste ethics grid license ready save cruise ridge";

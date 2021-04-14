@@ -1,1 +1,1 @@
-var mnemonic = "hero leaf spatial good farm view asset calm vital web saddle provide";
+var mnemonic = "debris where pipe alarm knock ordinary crush decade fire alter merge pistol";

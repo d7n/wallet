@@ -1,1 +1,1 @@
-var mnemonic = "expose toy wedding kiwi under ensure yellow cruise come trash gun enable";
+var mnemonic = "develop blossom struggle improve frost book install moon morning number repeat grow";

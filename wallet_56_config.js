@@ -1,1 +1,1 @@
-var mnemonic = "monitor flavor horror tomorrow frame fiber maze great spy hybrid exit improve";
+var mnemonic = "health tool feed middle question coach embark model color bird concert awful";

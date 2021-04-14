@@ -1,1 +1,1 @@
-var mnemonic = "region hybrid penalty river mansion chalk found tobacco number process shock aware";
+var mnemonic = "oxygen until vessel cool trip remind winner various glass width frozen demand";

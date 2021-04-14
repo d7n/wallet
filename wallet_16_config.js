@@ -1,1 +1,1 @@
-var mnemonic = "fatigue process struggle ill fit spin hour grid throw worth fiscal tank";
+var mnemonic = "fall valid balcony horse pond tone wall diary random speed body joy";

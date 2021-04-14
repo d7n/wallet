@@ -1,1 +1,1 @@
-var mnemonic = "limit master smile dwarf bench check east denial entry upgrade unhappy dragon";
+var mnemonic = "age body plunge nothing aspect script indoor donkey tortoise spoil always wrap";

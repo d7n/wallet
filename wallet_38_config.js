@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon earn paper walnut legal atom return creek crouch essay pioneer edge";
+var mnemonic = "pill find cupboard humble wear exile tornado almost key busy silent expand";

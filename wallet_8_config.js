@@ -1,1 +1,1 @@
-var mnemonic = "track similar accident green ordinary blossom parade stable noble oven snow concert";
+var mnemonic = "walnut fruit tragic chat need rocket wolf soft scatter stick behave bench";

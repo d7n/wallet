@@ -1,1 +1,1 @@
-var mnemonic = "process fuel sadness lawsuit glimpse drum crawl hole mother elevator welcome source";
+var mnemonic = "hope idea volume increase weird ritual wet matrix issue congress cluster wine";

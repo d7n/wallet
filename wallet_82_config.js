@@ -1,1 +1,1 @@
-var mnemonic = "quiz help provide clever card metal dragon what cushion silly yard auto";
+var mnemonic = "endless city indoor mean all zone glad wool pattern wish host gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "maid school nerve rookie shove ramp vital flee mansion token minor risk";
+var mnemonic = "hurdle shock swallow gauge symbol miracle panda exclude option payment milk version";

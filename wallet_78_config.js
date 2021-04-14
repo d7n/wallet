@@ -1,1 +1,1 @@
-var mnemonic = "unaware unveil shove tray they deliver bone audit cave helmet never strike";
+var mnemonic = "jar toilet guilt lonely hood kick wolf sound above balance nuclear finish";

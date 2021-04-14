@@ -1,1 +1,1 @@
-var mnemonic = "spin barrel hill ankle home pupil two appear clarify chaos interest side";
+var mnemonic = "essay liberty mystery pen april track erode captain bubble vacuum food tank";

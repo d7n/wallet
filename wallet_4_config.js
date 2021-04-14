@@ -1,1 +1,1 @@
-var mnemonic = "bronze shop benefit arena chaos brief galaxy sand staff image jar arctic";
+var mnemonic = "weekend hundred profit purity keep ski metal have save report market surge";

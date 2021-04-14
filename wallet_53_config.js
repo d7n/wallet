@@ -1,1 +1,1 @@
-var mnemonic = "spin flat stumble anchor creek castle tail okay gadget cash gloom leisure";
+var mnemonic = "muffin make usual plate author uncover spike promote manual reduce pilot critic";

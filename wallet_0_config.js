@@ -1,1 +1,1 @@
-var mnemonic = "juice half illness purpose garage citizen wire require soon blue ethics april";
+var mnemonic = "melt upgrade vicious city duty various list rack collect unhappy ozone off";

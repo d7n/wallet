@@ -1,1 +1,1 @@
-var mnemonic = "cruise february scout need genuine defense private sign rookie praise dog term";
+var mnemonic = "cool flag garlic nurse clinic ribbon adjust hat deputy visa evoke brass";

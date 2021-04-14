@@ -1,1 +1,1 @@
-var mnemonic = "economy fan sight absent fire acid pair witness drastic embrace upgrade skin";
+var mnemonic = "fluid ankle swap indoor demise drama sustain middle law ten panther physical";

@@ -1,1 +1,1 @@
-var mnemonic = "marble spoil wisdom bless end hen front other test seek ten shiver";
+var mnemonic = "month letter salmon fossil enlist obvious click teach second omit book banner";

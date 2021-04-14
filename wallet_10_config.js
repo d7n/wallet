@@ -1,1 +1,1 @@
-var mnemonic = "genius shoot always use luggage crack tuition legal primary pond screen priority";
+var mnemonic = "smile trial squeeze victory come grunt shove shuffle tent wood vote margin";

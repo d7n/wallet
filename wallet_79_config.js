@@ -1,1 +1,1 @@
-var mnemonic = "draw fade fossil total lady again science journey angry caution divert weapon";
+var mnemonic = "sphere word flight gym brief fancy dose divide great rate sick buzz";

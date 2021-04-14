@@ -1,1 +1,1 @@
-var mnemonic = "palace upper inform phrase broken maximum fitness tip flock stick taxi license";
+var mnemonic = "tiny knife repair tonight sick token toward else radio survey flip excite";

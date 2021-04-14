@@ -1,1 +1,1 @@
-var mnemonic = "inmate raw universe never injury verb heavy plug vocal athlete analyst butter";
+var mnemonic = "choice upper live shoe provide donate renew floor hello eternal crumble loan";

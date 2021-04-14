@@ -1,1 +1,1 @@
-var mnemonic = "element afraid grain happy practice nephew normal taxi spike violin direct deny";
+var mnemonic = "boat argue elder shift limit field cigar wear juice online join chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "junk tooth chunk tobacco myself jeans solid room valve learn gather monkey";
+var mnemonic = "village jump foam spare bottom umbrella lazy hub maple confirm slam bicycle";

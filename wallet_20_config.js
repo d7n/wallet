@@ -1,1 +1,1 @@
-var mnemonic = "desk live dream vicious pass coil glance glory point canyon field spin";
+var mnemonic = "spot pill cotton sweet autumn apart key surround voice payment pill shadow";

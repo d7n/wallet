@@ -1,1 +1,1 @@
-var mnemonic = "slim decorate ugly emotion flag orphan carbon parrot position river spread multiply";
+var mnemonic = "claim sea sugar minute effort vanish torch purse trash life mule misery";

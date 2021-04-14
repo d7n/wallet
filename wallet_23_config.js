@@ -1,1 +1,1 @@
-var mnemonic = "lift era accuse glory kiss gospel search coach tank success spice urban";
+var mnemonic = "squeeze bag jazz combine gun phone horror air spin depend remember roast";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis trap quiz size shove zero law dignity ketchup tired solar wise";
+var mnemonic = "ill pony response master come circle acquire sample switch warm exercise female";

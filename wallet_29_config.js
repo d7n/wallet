@@ -1,1 +1,1 @@
-var mnemonic = "bring flee receive sure innocent tooth inject undo tone layer liar imitate";
+var mnemonic = "now arm enemy sweet wagon gauge burden alter cake reflect endless cave";

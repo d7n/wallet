@@ -1,1 +1,1 @@
-var mnemonic = "power memory photo income mixed deliver poet moral series level chef chef";
+var mnemonic = "expose hedgehog amount proud blind brother jump hire edit citizen travel floor";

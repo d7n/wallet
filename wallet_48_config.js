@@ -1,1 +1,1 @@
-var mnemonic = "swear crime outside price garlic spread jelly movie pond tattoo recycle jazz";
+var mnemonic = "hockey obscure way fiber used tool region practice cost border must chimney";

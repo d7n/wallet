@@ -1,1 +1,1 @@
-var mnemonic = "pride age argue update plate bullet again winter hobby loan jungle excuse";
+var mnemonic = "place distance salmon soap stock lion kitchen dizzy price purpose rapid improve";

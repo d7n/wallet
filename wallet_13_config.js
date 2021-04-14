@@ -1,1 +1,1 @@
-var mnemonic = "inhale west shadow problem twist fever bachelor runway female disagree infant bracket";
+var mnemonic = "steel outside ceiling mobile fix mom ahead basket swim tag canvas tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "category custom street argue excess this sing cash media mule situate benefit";
+var mnemonic = "cluster address satoshi girl pioneer galaxy meadow demand cereal thunder draw topple";

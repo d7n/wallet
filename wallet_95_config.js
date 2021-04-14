@@ -1,1 +1,1 @@
-var mnemonic = "cable announce shuffle dolphin sea gravity near table tackle fence unit hint";
+var mnemonic = "obtain answer desert amazing drastic tumble figure luxury planet age country report";

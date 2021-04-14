@@ -1,1 +1,1 @@
-var mnemonic = "crash awkward shiver leader busy recipe forget leave invest margin pipe whale";
+var mnemonic = "view village hockey steak apple park fan require input dumb clap flat";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger olympic bar marine elevator wing pen firm captain feature design talk";
+var mnemonic = "used canoe virtual wet dynamic roof parent link force anchor close security";

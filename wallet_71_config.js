@@ -1,1 +1,1 @@
-var mnemonic = "echo doll economy dash dynamic govern build alert slim resemble ecology cereal";
+var mnemonic = "math enlist mouse tape rail left famous bind dove episode govern coin";

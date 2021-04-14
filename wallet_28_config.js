@@ -1,1 +1,1 @@
-var mnemonic = "dry drive cannon bus wool distance faint friend toy furnace trumpet expose";
+var mnemonic = "success ride print bulk thumb oyster submit random dolphin author renew fly";

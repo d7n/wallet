@@ -1,1 +1,1 @@
-var mnemonic = "page spell attract hood youth hamster wet outdoor hungry shell load various";
+var mnemonic = "book twin arrow addict labor regular deliver manual mixed wine cricket brain";

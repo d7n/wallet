@@ -1,1 +1,1 @@
-var mnemonic = "suffer regret april decrease aspect left output stomach tone giraffe method harvest";
+var mnemonic = "wink ordinary couple merit slim risk rescue parrot uniform flush unknown right";

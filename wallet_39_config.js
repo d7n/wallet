@@ -1,1 +1,1 @@
-var mnemonic = "ignore flip world march myself swarm sleep voyage leisure doll prison artwork";
+var mnemonic = "depart system member uncover tower rebuild mandate glad knife point team emotion";

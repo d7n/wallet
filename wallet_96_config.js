@@ -1,1 +1,1 @@
-var mnemonic = "happy analyst matrix sunny glide adult clap industry armed lion mention poverty";
+var mnemonic = "bind goose minimum actual choice grocery tip scene visa quiz shove error";

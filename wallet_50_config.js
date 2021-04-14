@@ -1,1 +1,1 @@
-var mnemonic = "snap hundred guitar throw now harvest express north venue grace shell attract";
+var mnemonic = "actor twin wash bar pupil hope include stable educate quiz pelican employ";

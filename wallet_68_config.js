@@ -1,1 +1,1 @@
-var mnemonic = "clinic palm mammal little holiday december wage blue vanish galaxy ghost age";
+var mnemonic = "copper force vehicle anchor basket guard employ cat provide style gift stock";

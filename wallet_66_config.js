@@ -1,1 +1,1 @@
-var mnemonic = "crowd heart hockey shed gym friend claw atom during mutual stay excuse";
+var mnemonic = "exile electric charge scorpion disorder eager inform lunar ridge traffic unlock select";

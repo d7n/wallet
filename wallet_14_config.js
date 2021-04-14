@@ -1,1 +1,1 @@
-var mnemonic = "marble apple shock emerge steel when slab mesh slush auction liquid news";
+var mnemonic = "give dizzy alone adult refuse code lawn embrace school fiscal junk poet";

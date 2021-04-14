@@ -1,1 +1,1 @@
-var mnemonic = "cannon begin fork timber orange fitness make tone museum roast check mistake";
+var mnemonic = "income ride poem rifle test ocean soup business junk seat dismiss hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "fat donate situate brush motor fresh sight initial spider lizard section wise";
+var mnemonic = "tonight erupt amateur gadget pen true rice arm retreat satoshi girl goose";

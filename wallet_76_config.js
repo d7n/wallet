@@ -1,1 +1,1 @@
-var mnemonic = "wet mandate erosion blur enact name smooth ugly spike violin improve reveal";
+var mnemonic = "coral trophy where pilot coil arrest kite series squirrel honey dry baby";

@@ -1,1 +1,1 @@
-var mnemonic = "remind elegant answer magic noodle amazing crane toast sheriff alter borrow upon";
+var mnemonic = "wise kitten reopen load talent milk friend attitude any occur vacant luxury";

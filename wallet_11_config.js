@@ -1,1 +1,1 @@
-var mnemonic = "vocal oyster photo devote elegant entry cash cushion sunset bind impulse wood";
+var mnemonic = "multiply guess trade equip coast omit farm cement then joy slot brother";

@@ -1,1 +1,1 @@
-var mnemonic = "family luxury dentist trend rice stove task silk mind ribbon figure praise";
+var mnemonic = "lady cancel father act employ once toilet open rifle praise april tiny";

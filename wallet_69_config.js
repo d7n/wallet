@@ -1,1 +1,1 @@
-var mnemonic = "rival denial brisk detail tube midnight auction elite ranch strong bar congress";
+var mnemonic = "business all fortune fluid enter start view symbol horn funny trash perfect";

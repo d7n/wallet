@@ -1,1 +1,1 @@
-var mnemonic = "rare earn account ankle live split cement edit marriage over veteran mystery";
+var mnemonic = "pipe rotate insect super job rookie cry brand letter year oil dignity";
