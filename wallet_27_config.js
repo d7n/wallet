@@ -1,1 +1,1 @@
-var mnemonic = "excuse just bullet theory blush drive quantum robust grab piano acoustic beef";
+var mnemonic = "fever absent host strike census ghost tilt below donate plastic point thumb";

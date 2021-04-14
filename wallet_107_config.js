@@ -1,1 +1,1 @@
-var mnemonic = "glass ski proud rice cool nasty text rally problem input morning final";
+var mnemonic = "moral insane broom junk alarm wave surface flower adapt network bench fruit";

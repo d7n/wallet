@@ -1,1 +1,1 @@
-var mnemonic = "goddess cupboard either parade scale any dignity card action lunch rubber wish";
+var mnemonic = "about venue captain fee salmon six forward illegal gas adult hamster grit";

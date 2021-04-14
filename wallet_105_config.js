@@ -1,1 +1,1 @@
-var mnemonic = "jazz worth maple weather patch soup rug coconut shuffle prefer mosquito planet";
+var mnemonic = "trend beach crumble afford eternal august valley auto oil loud market follow";

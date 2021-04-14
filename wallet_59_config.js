@@ -1,1 +1,1 @@
-var mnemonic = "palace actor assist juice whisper produce bullet inspire exhaust robust congress illness";
+var mnemonic = "crater chaos glance mom patch fire matter father brave pink wage human";

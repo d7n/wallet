@@ -1,1 +1,1 @@
-var mnemonic = "found involve uncle safe emotion visa rhythm glow tip approve tragic achieve";
+var mnemonic = "token ozone pill globe decrease price able outside ill boss unknown labor";

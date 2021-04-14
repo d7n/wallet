@@ -1,1 +1,1 @@
-var mnemonic = "gate world property tiny birth find gold canal anxiety raw night garden";
+var mnemonic = "laugh latin letter gate pear proud culture illness buzz move faculty link";

@@ -1,1 +1,1 @@
-var mnemonic = "silver use plastic memory cricket table frost unit rabbit shoot wise defense";
+var mnemonic = "table toddler thing dance easy mirror almost elder avoid acid blouse labor";

@@ -1,1 +1,1 @@
-var mnemonic = "coach decrease cost usage december sing mobile notice whip exchange panda resource";
+var mnemonic = "aware worry sell assist degree melody blouse palace blanket forest claim fall";

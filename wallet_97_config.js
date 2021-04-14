@@ -1,1 +1,1 @@
-var mnemonic = "settle still vault divorce same maze already fee execute snow decide shallow";
+var mnemonic = "funny diagram snow firm still silly pulse skirt task deliver rent damage";

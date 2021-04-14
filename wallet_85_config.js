@@ -1,1 +1,1 @@
-var mnemonic = "east empty fortune spare dolphin inmate assault peanut cloud curve hour stamp";
+var mnemonic = "yellow broken farm myth visa civil limb member amazing humble alter recipe";

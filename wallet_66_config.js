@@ -1,1 +1,1 @@
-var mnemonic = "foster office tomorrow book slice bar fox vanish oyster mosquito liar helmet";
+var mnemonic = "wall wish flavor flee wide extend roof must grit sunset priority ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "legend pole father enroll credit paddle excuse team quiz debate shrug panic";
+var mnemonic = "year embrace envelope female cycle inform siren private skull book zebra cherry";

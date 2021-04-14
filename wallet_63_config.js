@@ -1,1 +1,1 @@
-var mnemonic = "degree detail crawl mixture ahead ankle palace typical deny flip lizard walk";
+var mnemonic = "choose axis erase unknown garage ketchup gesture sad absent paddle toss fancy";

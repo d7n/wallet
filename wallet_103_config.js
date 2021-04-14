@@ -1,1 +1,1 @@
-var mnemonic = "spoil type panic valid around waste gallery educate market abuse ladder bird";
+var mnemonic = "extra excite coach release advance arm flat seed that rent moon raise";

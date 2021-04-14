@@ -1,1 +1,1 @@
-var mnemonic = "screen twist layer guitar boil video relief impact toe flower control dose";
+var mnemonic = "unusual shrug sword seminar taxi injury torch spare useful imitate beauty start";

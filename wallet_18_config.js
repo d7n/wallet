@@ -1,1 +1,1 @@
-var mnemonic = "advance fun else bid rescue cheap muscle road gaze connect change chest";
+var mnemonic = "tower pen basket banana employ unknown sting future radar fresh oyster hello";

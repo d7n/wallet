@@ -1,1 +1,1 @@
-var mnemonic = "story flight slide lunar tide pet scene pen announce blast curve you";
+var mnemonic = "worth foot cat siren cabbage bread thank solution survey warm hurt elevator";

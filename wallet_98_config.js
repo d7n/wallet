@@ -1,1 +1,1 @@
-var mnemonic = "share twelve region ring mule oyster moment leave lady about gospel planet";
+var mnemonic = "razor above dry tornado fame glare sand again tray empty three frown";

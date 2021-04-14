@@ -1,1 +1,1 @@
-var mnemonic = "cabbage milk drama nature pepper pattern oval priority cave melody window industry";
+var mnemonic = "neglect cupboard few such disorder burden first summer ship relax mass about";

@@ -1,1 +1,1 @@
-var mnemonic = "grace prosper replace arena shoot rare laptop peasant devote harsh quote chaos";
+var mnemonic = "praise write blood canvas biology civil drama cricket glance festival clever doctor";

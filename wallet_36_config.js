@@ -1,1 +1,1 @@
-var mnemonic = "merit other chunk grant stick stairs judge intact pair buyer festival agent";
+var mnemonic = "height cluster acid actress slide chicken reunion hammer discover unusual sweet creek";

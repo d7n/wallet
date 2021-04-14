@@ -1,1 +1,1 @@
-var mnemonic = "radio post mango plate dust outside wait public above subway pyramid that";
+var mnemonic = "barrel pig link asthma morning hour copper body once clutch cross couch";

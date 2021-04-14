@@ -1,1 +1,1 @@
-var mnemonic = "shrimp gold radio wave clog rain hammer stem brisk cloth always amateur";
+var mnemonic = "super oil dirt trap return verify remind feel end radio drastic connect";

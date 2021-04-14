@@ -1,1 +1,1 @@
-var mnemonic = "panda tennis alarm uniform slot axis monitor wage sugar enact almost wait";
+var mnemonic = "alley under globe various smart surface session surge economy present simple erase";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon glide expect scorpion jeans outer drama practice view federal actress bring";
+var mnemonic = "firm dwarf identify pelican mean addict wrist catalog brick hip pretty earth";

@@ -1,1 +1,1 @@
-var mnemonic = "bag talent cave rotate defense film magic web success reject walnut claim";
+var mnemonic = "promote innocent drastic memory guess snack forward electric fit build adjust apart";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe almost program key bacon fever hawk skull yellow math ten coconut";
+var mnemonic = "vacuum helmet when moral pelican stay dune syrup teach earth calm midnight";

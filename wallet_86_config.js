@@ -1,1 +1,1 @@
-var mnemonic = "ceiling deliver explain seminar cause pill slab lounge chase swap erupt ridge";
+var mnemonic = "trust easy era moon security salon three provide east explain alpha guess";

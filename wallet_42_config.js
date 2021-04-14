@@ -1,1 +1,1 @@
-var mnemonic = "van heavy glance wedding diagram away gate color horn virus congress liar";
+var mnemonic = "vital laptop dolphin exchange bean chicken disorder mouse asset damp board two";

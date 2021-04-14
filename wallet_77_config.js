@@ -1,1 +1,1 @@
-var mnemonic = "manage trouble fit lyrics lift sentence file add rotate nature curtain earn";
+var mnemonic = "lawsuit light symptom judge mutual stage shell atom police together bronze choice";

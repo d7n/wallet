@@ -1,1 +1,1 @@
-var mnemonic = "next below dolphin repeat limit finish tail sting benefit hour sunny skull";
+var mnemonic = "genius grace begin clog trap great cry oven better comfort host clay";

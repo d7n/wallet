@@ -1,1 +1,1 @@
-var mnemonic = "sick daughter indicate thunder theme entire rifle moon dawn embrace try loan";
+var mnemonic = "useless neutral use fancy chest long music stock clown horse inquiry situate";

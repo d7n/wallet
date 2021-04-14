@@ -1,1 +1,1 @@
-var mnemonic = "beyond shed say dynamic swap attitude aunt despair sample shrug twelve notice";
+var mnemonic = "swear blouse situate pottery under debris shop donor lucky rude youth way";

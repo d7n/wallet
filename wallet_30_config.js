@@ -1,1 +1,1 @@
-var mnemonic = "busy bonus sight order body census practice fatal plastic dentist about busy";
+var mnemonic = "penalty era amused piano anger planet certain loan bring trigger oxygen chef";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch curve defense brief bachelor goddess quick joke column slot agree orient";
+var mnemonic = "tunnel teach benefit virtual open acid turkey cake walnut virtual grab destroy";

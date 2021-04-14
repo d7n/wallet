@@ -1,1 +1,1 @@
-var mnemonic = "size upon mule wink bridge useful develop goat universe three stamp detail";
+var mnemonic = "purchase moral girl dirt quarter furnace common woman destroy real fit inhale";

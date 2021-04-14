@@ -1,1 +1,1 @@
-var mnemonic = "more become leader balance manage honey pelican myth casino rigid dog spy";
+var mnemonic = "visa easily visual blanket wide tent account sea salt credit snow crater";

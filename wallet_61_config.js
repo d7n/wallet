@@ -1,1 +1,1 @@
-var mnemonic = "matrix glad harsh struggle loud one mom cigar buffalo couch mad main";
+var mnemonic = "select victory unhappy proud easy length when permit settle category rigid any";

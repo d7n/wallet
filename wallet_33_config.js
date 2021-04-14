@@ -1,1 +1,1 @@
-var mnemonic = "slight into rich kangaroo door manual album repeat law cable jump company";
+var mnemonic = "excuse range hold stem venue unfold sudden atom stem taxi input size";

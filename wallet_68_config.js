@@ -1,1 +1,1 @@
-var mnemonic = "ski put orient cheese opera dash stuff affair fantasy prison wrong bottom";
+var mnemonic = "industry camera version ranch devote elder match better card panda damage midnight";

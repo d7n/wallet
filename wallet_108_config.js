@@ -1,1 +1,1 @@
-var mnemonic = "addict victory option owner ski census depart fork swim link top surface";
+var mnemonic = "exile shell else bag cancel doctor step ability celery record smile young";

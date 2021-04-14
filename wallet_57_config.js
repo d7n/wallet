@@ -1,1 +1,1 @@
-var mnemonic = "lemon model assault plastic unique method gauge position road stairs tape solid";
+var mnemonic = "season plate wonder stumble stock network six milk panther access cousin away";

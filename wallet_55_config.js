@@ -1,1 +1,1 @@
-var mnemonic = "sport owner patrol path truth delay bonus random palace loud awake tuition";
+var mnemonic = "return mammal raccoon across govern faint happy category sphere biology multiply shop";

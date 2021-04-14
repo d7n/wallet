@@ -1,1 +1,1 @@
-var mnemonic = "finish violin unlock merry bounce tissue wisdom dress agree path robust october";
+var mnemonic = "smart shoulder foil mention chimney garbage check year trip tooth theory seat";

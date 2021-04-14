@@ -1,1 +1,1 @@
-var mnemonic = "veteran guitar wisdom seminar promote grunt calm mix tiger use silent claim";
+var mnemonic = "orient talent lock need guard reward property buffalo public panther delay door";

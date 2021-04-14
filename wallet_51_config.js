@@ -1,1 +1,1 @@
-var mnemonic = "oak leaf floor ginger father green myself edge response bulk genre two";
+var mnemonic = "ready tattoo track couple depart breeze save access demise there obscure top";

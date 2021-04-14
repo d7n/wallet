@@ -1,1 +1,1 @@
-var mnemonic = "proof lava include wreck smile erosion toy elbow crucial silk pass belt";
+var mnemonic = "choice play pair glare dignity valley hamster gold broom estate pudding power";

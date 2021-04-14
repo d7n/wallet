@@ -1,1 +1,1 @@
-var mnemonic = "domain wise gym rule luggage clip duck laptop equal average spawn talk";
+var mnemonic = "attract idle pattern unfold avoid cabin this lake ramp fury slogan click";

@@ -1,1 +1,1 @@
-var mnemonic = "shock burst average concert drift main cup plunge same enrich appear cry";
+var mnemonic = "hello youth evidence someone shoot dilemma journey nothing salute episode ramp exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "practice raise rotate another return slide hazard struggle tag rude twelve pelican";
+var mnemonic = "admit love mother lazy shrug stage rather pledge slide squeeze reject bus";

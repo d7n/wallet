@@ -1,1 +1,1 @@
-var mnemonic = "quote reflect lab stool orient empower scissors mule toe glance produce under";
+var mnemonic = "shallow train leopard garlic rug pulse receive tone gown notice absorb soup";

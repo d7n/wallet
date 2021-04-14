@@ -1,1 +1,1 @@
-var mnemonic = "hybrid brother bid machine tumble praise humble noise prefer myself prevent amused";
+var mnemonic = "six must spoil odor express trip easy asthma moment promote assault tragic";

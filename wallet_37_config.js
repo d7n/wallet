@@ -1,1 +1,1 @@
-var mnemonic = "chief thought ceiling add yard situate bread page hole forum annual option";
+var mnemonic = "tomato viable decide oil glove wish lecture turkey prison inside another meadow";

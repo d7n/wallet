@@ -1,1 +1,1 @@
-var mnemonic = "trim entry paddle effort dinner velvet wire another world check champion glance";
+var mnemonic = "trade tag much perfect orbit seed give device curtain shuffle air scout";

@@ -1,1 +1,1 @@
-var mnemonic = "gap asthma topple ignore clap barrel one intact library lens recipe thank";
+var mnemonic = "marble pigeon again early primary live what have all height amateur shine";

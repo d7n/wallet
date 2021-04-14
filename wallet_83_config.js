@@ -1,1 +1,1 @@
-var mnemonic = "aim repeat science false crack pink ritual crush theory grief near fault";
+var mnemonic = "destroy leave amateur topple soft vicious machine culture excite armor unfold faith";

@@ -1,1 +1,1 @@
-var mnemonic = "angry sleep scissors change jelly expand enroll wall rabbit move bullet grief";
+var mnemonic = "flag range resemble major ugly defense depth damage flip inner pepper holiday";

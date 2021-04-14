@@ -1,1 +1,1 @@
-var mnemonic = "nature stool unlock slush goat conduct trash special law figure ridge embody";
+var mnemonic = "virtual stone viable cement track angry sell also apple exchange fine dog";

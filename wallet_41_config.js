@@ -1,1 +1,1 @@
-var mnemonic = "subject stamp average donate brother cousin theme head race spend employ exist";
+var mnemonic = "become burst theory develop half move wedding palm act erode key indoor";

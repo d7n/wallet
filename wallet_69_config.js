@@ -1,1 +1,1 @@
-var mnemonic = "bubble already erode disagree goose jealous chronic submit final combine crunch salute";
+var mnemonic = "notice satisfy piece price enter cliff evil rebel ghost move blouse divide";

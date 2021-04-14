@@ -1,1 +1,1 @@
-var mnemonic = "photo shop asthma limb evoke tunnel comfort assume student layer poet blanket";
+var mnemonic = "board immense open outer example eager rib sting rail resemble daughter reason";

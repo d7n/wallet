@@ -1,1 +1,1 @@
-var mnemonic = "funny smile pioneer scan life legal coast badge rural around taxi laundry";
+var mnemonic = "tennis walk health muffin typical junk echo stem bicycle rough spoil prepare";

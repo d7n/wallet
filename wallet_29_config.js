@@ -1,1 +1,1 @@
-var mnemonic = "junior demise disorder weekend ceiling case manage satisfy lounge bracket crack glory";
+var mnemonic = "soft armor brand glue skill stable act rigid sketch stamp monster upgrade";

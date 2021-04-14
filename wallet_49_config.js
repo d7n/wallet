@@ -1,1 +1,1 @@
-var mnemonic = "goat subject walk staff fatigue material hat square quit myself work main";
+var mnemonic = "cloud subway tackle hybrid history toddler parrot climb lake sand hockey maple";

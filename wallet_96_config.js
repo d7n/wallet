@@ -1,1 +1,1 @@
-var mnemonic = "mirror raw lake long run now sugar forward unique perfect reject post";
+var mnemonic = "radar have bronze loan blood front peace couple tone exit delay ancient";

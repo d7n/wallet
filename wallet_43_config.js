@@ -1,1 +1,1 @@
-var mnemonic = "trend winter apple hard speak write birth copy match banana theme pride";
+var mnemonic = "method wheat lounge double market uniform sing wage decline business logic guess";

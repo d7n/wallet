@@ -1,1 +1,1 @@
-var mnemonic = "minute exact middle debate story wrist logic nose speed consider pupil admit";
+var mnemonic = "stadium consider deposit resemble blast mask like thumb wing alpha daring nest";

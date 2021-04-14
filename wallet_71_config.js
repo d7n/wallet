@@ -1,1 +1,1 @@
-var mnemonic = "brief cushion cherry alien obtain deny story manage version side want evil";
+var mnemonic = "hen beauty crouch decrease famous young auction weekend want upgrade next fork";

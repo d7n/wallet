@@ -1,1 +1,1 @@
-var mnemonic = "lyrics bulb magic collect monitor negative december assault start chimney angry jar";
+var mnemonic = "spin absorb mad traffic tortoise remember arctic nephew gather shove actual learn";

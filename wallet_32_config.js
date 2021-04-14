@@ -1,1 +1,1 @@
-var mnemonic = "question develop virus safe sound west flower seat vivid jealous nose poet";
+var mnemonic = "ski magnet quick journey public valley suspect rocket hybrid involve december vibrant";

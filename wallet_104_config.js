@@ -1,1 +1,1 @@
-var mnemonic = "blossom tag amount goddess security brass violin umbrella mango domain hammer such";
+var mnemonic = "piano suffer gorilla girl resist cruel play initial stock loop eye focus";

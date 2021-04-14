@@ -1,1 +1,1 @@
-var mnemonic = "behind armor program put feed umbrella carry clown vendor seven live captain";
+var mnemonic = "claim reflect reopen test civil acquire local female person pen wool fever";

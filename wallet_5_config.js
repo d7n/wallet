@@ -1,1 +1,1 @@
-var mnemonic = "pepper ladder model pony inform apple truly only keen divert protect surround";
+var mnemonic = "lawn long relax obscure trim clap excite catalog voyage junior snake banner";

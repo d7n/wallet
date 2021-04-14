@@ -1,1 +1,1 @@
-var mnemonic = "spell oppose happy inside gap perfect estate useless bomb jazz utility oxygen";
+var mnemonic = "divide crouch aspect black garage stable gather cluster position recall hockey wood";

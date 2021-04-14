@@ -1,1 +1,1 @@
-var mnemonic = "game trash hazard fork museum apart salad motion cake erode book venture";
+var mnemonic = "chair also strike angry film dizzy prosper scene bone thrive suit slice";

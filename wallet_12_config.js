@@ -1,1 +1,1 @@
-var mnemonic = "clutch renew bomb dose timber arrange endorse across cause royal margin curve";
+var mnemonic = "tourist fashion sick violin motion series pencil cannon cup purity mammal pattern";

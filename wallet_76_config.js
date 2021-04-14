@@ -1,1 +1,1 @@
-var mnemonic = "color limb lens orient salt december title pony hundred strike gather fence";
+var mnemonic = "spray spike follow culture accident emotion fortune wonder action essay charge siren";

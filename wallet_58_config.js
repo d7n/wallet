@@ -1,1 +1,1 @@
-var mnemonic = "swamp raven lift sure black caution kite fatal sight train invite that";
+var mnemonic = "cat mention neither business various addict junk exotic focus bottom original lab";

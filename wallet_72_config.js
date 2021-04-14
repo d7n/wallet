@@ -1,1 +1,1 @@
-var mnemonic = "write impact hamster fire credit sound exclude else title silk develop adapt";
+var mnemonic = "sweet cousin glow decorate donor dove eager wedding clock evoke boss kingdom";

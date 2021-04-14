@@ -1,1 +1,1 @@
-var mnemonic = "wheel elephant they among decline column glass demise quarter gallery drive source";
+var mnemonic = "whale video simple speak stable juice steak liar myth token permit ritual";

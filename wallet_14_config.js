@@ -1,1 +1,1 @@
-var mnemonic = "february involve tone brass prepare cage dice truck bunker segment cart tribe";
+var mnemonic = "monitor decrease argue curtain mystery weasel real kiss fiber census melt there";

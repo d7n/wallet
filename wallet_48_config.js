@@ -1,1 +1,1 @@
-var mnemonic = "dune notice noodle common gentle weasel aisle work cake reason tiger twenty";
+var mnemonic = "win health diet bicycle window ankle you mammal hat enjoy throw produce";

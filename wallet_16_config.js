@@ -1,1 +1,1 @@
-var mnemonic = "lobster grain tackle all casual violin humble leg rail fragile various strong";
+var mnemonic = "topple miss stamp barely cactus safe marble sketch train exist badge october";

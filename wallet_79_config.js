@@ -1,1 +1,1 @@
-var mnemonic = "network pond artist face emerge sad kingdom dumb fantasy gossip sea clarify";
+var mnemonic = "galaxy recipe stairs vintage reduce grant aerobic subway slice rich barrel raccoon";

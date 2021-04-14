@@ -1,1 +1,1 @@
-var mnemonic = "tail paper creek derive renew penalty spot normal crane fancy top welcome";
+var mnemonic = "finger penalty lounge worth shaft close source feel leave purse intact coach";

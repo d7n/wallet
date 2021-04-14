@@ -1,1 +1,1 @@
-var mnemonic = "develop wild sudden tray people trim balance suffer document report pig bar";
+var mnemonic = "feature climb true nose dice impose stone announce limb main recipe crash";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin table tumble sausage keen cushion drill october pipe february comic hood";
+var mnemonic = "sting quit middle pill goose fish sell vague farm actress mountain flip";

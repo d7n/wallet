@@ -1,1 +1,1 @@
-var mnemonic = "drop later bless canyon airport chase number flag acid crash silver auction";
+var mnemonic = "denial color gate fine patch bubble father arena hair shed sand soccer";

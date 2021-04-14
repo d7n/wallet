@@ -1,1 +1,1 @@
-var mnemonic = "unusual final million guard someone eight island coconut illegal retire invite hospital";
+var mnemonic = "best practice doctor heart practice detect air quarter alpha fee invest citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork flight tribe whisper dinosaur maple coin visual always letter wasp wood";
+var mnemonic = "gentle exclude divorce increase hidden expect pistol abandon thumb struggle into waste";
