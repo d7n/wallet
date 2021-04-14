@@ -1,1 +1,1 @@
-var mnemonic = "heavy version repair outdoor drink finger dog wrestle tip monitor super mass";
+var mnemonic = "piece pride enforce dress snap promote twenty orient flame chair sugar taste";

@@ -1,1 +1,1 @@
-var mnemonic = "wear text question enrich review female hood panda timber hunt ranch cancel";
+var mnemonic = "mandate attract spike flower cannon tornado wall heavy secret they renew hotel";

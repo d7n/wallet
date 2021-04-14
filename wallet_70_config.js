@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit embrace embark plunge captain prize interest good typical differ naive decade";
+var mnemonic = "example dentist depend canvas vacant organ unique item alien above father round";

@@ -1,1 +1,1 @@
-var mnemonic = "desk search protect apart outdoor wish wolf praise judge correct solve more";
+var mnemonic = "ancient slender sail attend ten enemy alley fashion okay toy expect curtain";

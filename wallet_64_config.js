@@ -1,1 +1,1 @@
-var mnemonic = "turkey easy tomato jacket library stage weather much peasant quick vocal lyrics";
+var mnemonic = "drill pear melt master target adapt audit match staff goat earn brass";

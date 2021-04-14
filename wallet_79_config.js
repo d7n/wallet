@@ -1,1 +1,1 @@
-var mnemonic = "news vital execute breeze dust diamond fringe bonus design coyote raven essay";
+var mnemonic = "hurt disagree mandate oppose talk blouse easily virus seed federal nerve enough";

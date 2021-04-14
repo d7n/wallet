@@ -1,1 +1,1 @@
-var mnemonic = "scrap gain learn urban victory chief range dry salon steel suffer tent";
+var mnemonic = "like extend void trouble half honey uncle join penalty walk city control";

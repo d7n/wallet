@@ -1,1 +1,1 @@
-var mnemonic = "farm shield cliff grain element jewel village produce lunar cabin amused window";
+var mnemonic = "marine winner wrong jeans broken upon enough cushion lady vital inflict chase";

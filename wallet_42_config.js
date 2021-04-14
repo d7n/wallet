@@ -1,1 +1,1 @@
-var mnemonic = "page jump thing devote result prevent honey icon rate before crunch skirt";
+var mnemonic = "analyst neutral humble vivid voice giraffe guilt napkin naive oyster alpha enforce";

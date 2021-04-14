@@ -1,1 +1,1 @@
-var mnemonic = "pudding gold cook club private range bleak inner regular tone live medal";
+var mnemonic = "marriage rich act march rib exhaust danger earn track cotton fly father";

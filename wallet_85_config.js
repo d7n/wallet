@@ -1,1 +1,1 @@
-var mnemonic = "august ranch will north road will lend judge saddle fresh brain term";
+var mnemonic = "tissue mountain rookie increase toddler purchase soldier never usage vanish soap degree";

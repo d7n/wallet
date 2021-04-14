@@ -1,1 +1,1 @@
-var mnemonic = "course control omit fork evolve travel flight season what level plastic drift";
+var mnemonic = "nose monitor genuine collect ripple math wool year planet power injury valve";

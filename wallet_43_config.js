@@ -1,1 +1,1 @@
-var mnemonic = "twin pipe glad next subway opera travel salad cage cancel horror gloom";
+var mnemonic = "warfare oppose smoke always mouse accident enlist citizen food sport egg doctor";

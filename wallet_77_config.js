@@ -1,1 +1,1 @@
-var mnemonic = "cave wrong account ethics illness lemon print alone surface arena harbor endorse";
+var mnemonic = "volcano rose know fork cargo twist dolphin kite battle rely unknown exotic";

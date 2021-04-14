@@ -1,1 +1,1 @@
-var mnemonic = "music universe hedgehog cross lift desert any picture stool swing silly film";
+var mnemonic = "phone chef mistake absorb hurdle globe oxygen grass source transfer goddess ice";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger erode nerve movie wonder latin rail plunge charge addict stadium idea";
+var mnemonic = "system add cloud mouse differ body pool liquid reward plastic control zebra";

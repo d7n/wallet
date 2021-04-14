@@ -1,1 +1,1 @@
-var mnemonic = "miss force inherit upset three strategy pen choice ancient loop two myth";
+var mnemonic = "chunk quantum stick scrap bike again purity puppy swift roof glow moment";

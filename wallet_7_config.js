@@ -1,1 +1,1 @@
-var mnemonic = "radio rotate scout arrange rule hurry agree alone educate unfair leopard mule";
+var mnemonic = "need reject orphan theory art boat add cliff clay hurt until toast";

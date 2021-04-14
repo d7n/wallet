@@ -1,1 +1,1 @@
-var mnemonic = "grid excite hobby equip birth square split pulse board cute island certain";
+var mnemonic = "lawsuit act chest unhappy boat travel develop intact vague budget fantasy fine";

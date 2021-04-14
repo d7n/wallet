@@ -1,1 +1,1 @@
-var mnemonic = "marine era wisdom method bench menu soul point canoe easy plastic siren";
+var mnemonic = "garment pink update pioneer oxygen album trial vague bring tattoo beauty match";

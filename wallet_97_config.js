@@ -1,1 +1,1 @@
-var mnemonic = "hawk please unaware game can guess figure wool mosquito foam coconut dwarf";
+var mnemonic = "cart fiber fiction coast peanut door pond address crush dutch hire unable";

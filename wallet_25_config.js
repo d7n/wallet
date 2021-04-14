@@ -1,1 +1,1 @@
-var mnemonic = "boat holiday stay clog unable kitten switch bamboo slight team twin awful";
+var mnemonic = "glance special aim manual eager stairs original circle corn violin wool supply";

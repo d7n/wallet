@@ -1,1 +1,1 @@
-var mnemonic = "spirit fee memory spread aspect public fiber dance orient remember success rival";
+var mnemonic = "huge recall need rebuild injury lyrics exchange bonus road garage ahead warm";

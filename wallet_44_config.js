@@ -1,1 +1,1 @@
-var mnemonic = "merge body public vast various coral snow transfer elder cave tube treat";
+var mnemonic = "raw fun list bleak receive vacant fit gold item essay creek shy";

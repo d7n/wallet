@@ -1,1 +1,1 @@
-var mnemonic = "brisk caught cement antenna carpet panther energy club either laugh town ginger";
+var mnemonic = "glass disorder depart cigar require planet direct better off cat margin strong";

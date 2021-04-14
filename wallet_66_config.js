@@ -1,1 +1,1 @@
-var mnemonic = "chimney party pink mammal sheriff flip poem bubble empty boat angle wisdom";
+var mnemonic = "proud venue public actor ketchup safe rubber used repeat useful ceiling cube";

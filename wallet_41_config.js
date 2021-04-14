@@ -1,1 +1,1 @@
-var mnemonic = "strategy local cancel summer decrease spend open mutual desert shoulder ask barely";
+var mnemonic = "dust outdoor sight laugh shoe resemble cigar lady negative doctor easily razor";

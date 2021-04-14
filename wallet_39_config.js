@@ -1,1 +1,1 @@
-var mnemonic = "beyond feature expire owner destroy fit sail whisper cross throw humor lottery";
+var mnemonic = "frost cat trend action found once nest sentence push polar phone fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset skill hello involve fortune hospital piano usage dinner flight coral pause";
+var mnemonic = "skull token hawk stone menu squeeze assist magic legal cage they network";

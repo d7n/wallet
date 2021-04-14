@@ -1,1 +1,1 @@
-var mnemonic = "egg manage exhibit other phrase curve strong label pink soap sand pulse";
+var mnemonic = "bunker fit pulp erosion furnace broken midnight furnace course embark enough decline";

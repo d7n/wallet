@@ -1,1 +1,1 @@
-var mnemonic = "mouse awful ordinary timber grant clay fury lecture version wheat donkey notice";
+var mnemonic = "clerk rhythm maximum true pistol chief popular casual liberty anxiety width debate";

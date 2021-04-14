@@ -1,1 +1,1 @@
-var mnemonic = "donor seven area loyal country benefit move journey then thumb pluck grant";
+var mnemonic = "badge sunset retire cupboard during disagree atom relax real enlist census tool";

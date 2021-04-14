@@ -1,1 +1,1 @@
-var mnemonic = "nut fuel sea tongue rebel easily away kiwi version reward wrist worth";
+var mnemonic = "impact desk during acid trend crazy betray slight siren film slush tuition";

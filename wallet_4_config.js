@@ -1,1 +1,1 @@
-var mnemonic = "hammer column ocean still develop scatter better area alpha drift surface morning";
+var mnemonic = "question crumble hazard gate protect boy chimney flat faculty dolphin inch loyal";

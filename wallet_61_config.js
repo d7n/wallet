@@ -1,1 +1,1 @@
-var mnemonic = "again episode lumber dumb web drink quiz spot april approve correct mix";
+var mnemonic = "moon drift essence walnut describe body ramp fatal already trial expose moon";

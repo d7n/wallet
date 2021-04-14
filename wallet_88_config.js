@@ -1,1 +1,1 @@
-var mnemonic = "avoid artwork belt dove ancient glue satoshi unlock erase win badge leopard";
+var mnemonic = "involve heart loop elephant lift flee report hurdle injury uncover winner minimum";

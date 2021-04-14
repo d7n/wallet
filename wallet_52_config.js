@@ -1,1 +1,1 @@
-var mnemonic = "history evil blur swap sleep inmate wrong soap umbrella abuse estate win";
+var mnemonic = "cycle supreme spray chase job lady again roast pulse mouse attract bleak";

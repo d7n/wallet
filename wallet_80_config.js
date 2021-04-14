@@ -1,1 +1,1 @@
-var mnemonic = "include reform exhaust earn husband wonder enforce excite swear mouse crystal blush";
+var mnemonic = "brand gentle guilt always enroll search paper divorce dinner close embody december";

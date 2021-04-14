@@ -1,1 +1,1 @@
-var mnemonic = "puzzle link envelope aunt absorb oxygen few robust help result layer work";
+var mnemonic = "lab scorpion furnace during express upper scissors talk keen lesson put outer";

@@ -1,1 +1,1 @@
-var mnemonic = "cement explain glass table evidence robust small wheat drop immense wife green";
+var mnemonic = "strike trade drastic blade win clarify update easy phrase happy grunt change";

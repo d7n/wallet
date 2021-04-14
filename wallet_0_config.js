@@ -1,1 +1,1 @@
-var mnemonic = "any print kiss pelican orbit funny express pave quote ship theory broken";
+var mnemonic = "venture normal tell library express enough tower trim talk clarify kiwi loud";

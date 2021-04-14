@@ -1,1 +1,1 @@
-var mnemonic = "net vintage fury prepare enter palace area alarm subway priority cruise major";
+var mnemonic = "spell play announce bread blush stem shed laundry repair exact art acquire";

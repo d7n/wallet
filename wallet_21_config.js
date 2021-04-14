@@ -1,1 +1,1 @@
-var mnemonic = "kick curve shallow name process immune physical electric live conduct cream abuse";
+var mnemonic = "brain attack gauge surprise trip fabric divorce regular sword until knife cattle";

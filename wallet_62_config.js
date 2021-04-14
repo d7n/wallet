@@ -1,1 +1,1 @@
-var mnemonic = "grief flee school chunk average mercy caught subject laundry sheriff addict jazz";
+var mnemonic = "match dawn soon surface produce dog armor jewel scare moment anchor off";

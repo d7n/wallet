@@ -1,1 +1,1 @@
-var mnemonic = "matrix quote duck dog slide member pole board carry best split situate";
+var mnemonic = "promote exercise nuclear drive question dumb apple spatial elbow bright urge update";

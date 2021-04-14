@@ -1,1 +1,1 @@
-var mnemonic = "toddler kit cruel use suit guitar envelope nice path fetch enable visit";
+var mnemonic = "add afraid student network canvas moon accuse fringe call paper student mad";

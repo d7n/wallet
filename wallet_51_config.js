@@ -1,1 +1,1 @@
-var mnemonic = "region head double broom lyrics pear entry electric expect book address swing";
+var mnemonic = "found vintage rival cook always vivid season wool raise island primary real";

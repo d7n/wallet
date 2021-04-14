@@ -1,1 +1,1 @@
-var mnemonic = "enable cave good crop voice whisper spread renew ten number retreat cluster";
+var mnemonic = "upgrade basket race enact one video guess picture tree code laptop confirm";

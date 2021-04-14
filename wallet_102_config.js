@@ -1,1 +1,1 @@
-var mnemonic = "crawl gallery give reject measure side confirm cotton gentle allow grunt one";
+var mnemonic = "cricket embrace urge mistake civil unhappy icon salute kitten eyebrow omit fringe";

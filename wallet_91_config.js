@@ -1,1 +1,1 @@
-var mnemonic = "grunt valve jewel input jelly skirt learn click ignore course admit start";
+var mnemonic = "hard owner advance minute potato fame snack label fade arrive result jealous";

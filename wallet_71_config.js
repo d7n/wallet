@@ -1,1 +1,1 @@
-var mnemonic = "tide deal topic arm swear amused flee chest output mango proof brush";
+var mnemonic = "defense gym merry topple furnace swim label tribe body parrot crane tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis material own humble entry humble rabbit science say always item civil";
+var mnemonic = "butter gospel lamp stable scan save chimney ten cushion bid lava gravity";

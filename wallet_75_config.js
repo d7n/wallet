@@ -1,1 +1,1 @@
-var mnemonic = "hidden jungle happy hen gasp trap absurd skull harbor apple fossil ten";
+var mnemonic = "youth punch smart empty cook smile please acquire spawn claim arrange level";

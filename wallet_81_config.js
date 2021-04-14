@@ -1,1 +1,1 @@
-var mnemonic = "spoon hobby nuclear tackle record remind price bar green toddler mouse rent";
+var mnemonic = "thunder deny invite awesome phone firm venue uniform quantum unlock sniff culture";

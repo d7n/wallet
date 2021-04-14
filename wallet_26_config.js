@@ -1,1 +1,1 @@
-var mnemonic = "license mule chaos cage erode aisle acoustic intact then velvet beach hen";
+var mnemonic = "tag great wage message pony frequent shadow blush fatigue renew fuel popular";

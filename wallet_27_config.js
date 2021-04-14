@@ -1,1 +1,1 @@
-var mnemonic = "love wrong orbit galaxy favorite fuel weekend flight agent bullet impulse leg";
+var mnemonic = "loop index area stadium afraid upper reflect soft amazing blood indoor pioneer";

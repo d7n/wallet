@@ -1,1 +1,1 @@
-var mnemonic = "minute father illness kingdom peace purity gown glimpse gossip meadow door acoustic";
+var mnemonic = "meat squirrel earth chat bacon fire cloth tank profit oblige cushion cage";

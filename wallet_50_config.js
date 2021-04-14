@@ -1,1 +1,1 @@
-var mnemonic = "purchase winter ecology stem radar success guess kite ribbon talent park select";
+var mnemonic = "often hollow apple tape upper famous child control umbrella desk occur average";

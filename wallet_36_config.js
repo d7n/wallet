@@ -1,1 +1,1 @@
-var mnemonic = "robust sort menu spoon note grape vehicle state tone victory hunt grow";
+var mnemonic = "patient october venue bus abuse patient speak ugly slight crew shrimp moment";

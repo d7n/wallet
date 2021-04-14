@@ -1,1 +1,1 @@
-var mnemonic = "marriage face motion subject heavy panel below soccer imitate siege craft gesture";
+var mnemonic = "consider stairs brother phone whale section unable blanket notice bunker custom foster";

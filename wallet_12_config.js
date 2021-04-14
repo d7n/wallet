@@ -1,1 +1,1 @@
-var mnemonic = "purse easily paddle quote city weekend charge venture recycle february grass sheriff";
+var mnemonic = "about melody old crack rain busy scene glare pyramid hollow manual upon";

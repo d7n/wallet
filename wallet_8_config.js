@@ -1,1 +1,1 @@
-var mnemonic = "own giant hover atom inner mule border flush recipe patrol expect miracle";
+var mnemonic = "flush buffalo hen resemble fatal uniform recycle fitness cupboard leaf illness life";

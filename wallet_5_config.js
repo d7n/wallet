@@ -1,1 +1,1 @@
-var mnemonic = "recipe regular camera flame remove bundle couch wire bless actor reward engage";
+var mnemonic = "sponsor differ series panther phone chicken wet absurd blue thunder virtual bonus";

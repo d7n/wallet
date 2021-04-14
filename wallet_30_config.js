@@ -1,1 +1,1 @@
-var mnemonic = "art rude bubble zone tragic hotel length lion path love flee canal";
+var mnemonic = "option vintage filter guide arena enter thunder alpha quit panda say output";

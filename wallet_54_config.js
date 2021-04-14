@@ -1,1 +1,1 @@
-var mnemonic = "sibling cave museum august another stable have lecture blanket gun trust above";
+var mnemonic = "fish burden amused history cute audit visit vocal seven unfold banana tree";

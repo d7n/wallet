@@ -1,1 +1,1 @@
-var mnemonic = "trouble april purity danger fashion group rack biology foot coach net day";
+var mnemonic = "proof mirror you chef picture reason cousin check beef acquire video region";

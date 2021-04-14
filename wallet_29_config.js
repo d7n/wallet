@@ -1,1 +1,1 @@
-var mnemonic = "midnight model coach day amazing tackle keen upset device nuclear alter seed";
+var mnemonic = "enhance harvest safe reform feature sock castle broom toast mean erase transfer";

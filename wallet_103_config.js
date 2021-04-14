@@ -1,1 +1,1 @@
-var mnemonic = "illegal torch speed glory will cushion dose rookie estate income finger journey";
+var mnemonic = "nurse occur debris weasel valve achieve fossil top idea modify pave pattern";

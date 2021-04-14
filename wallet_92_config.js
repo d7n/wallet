@@ -1,1 +1,1 @@
-var mnemonic = "olympic auto agree ship expect field motor help august wet start claw";
+var mnemonic = "stool enough van coffee exit emotion spawn myth fitness opinion deer pencil";

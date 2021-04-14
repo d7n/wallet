@@ -1,1 +1,1 @@
-var mnemonic = "crash raccoon visa fiber pink swap merit economy miracle hidden jeans permit";
+var mnemonic = "soul label congress robust matrix kidney curious bone random demise actor chest";

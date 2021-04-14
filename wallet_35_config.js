@@ -1,1 +1,1 @@
-var mnemonic = "man mobile genius later rent faith board segment hawk canvas glow state";
+var mnemonic = "reopen toward mosquito almost walk profit neither fantasy scatter rail pass lend";

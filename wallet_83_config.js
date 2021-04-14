@@ -1,1 +1,1 @@
-var mnemonic = "shove promote easily horn silly walk team review paper index pen property";
+var mnemonic = "enforce amazing document ritual swamp earn ill gift sick state quality soccer";

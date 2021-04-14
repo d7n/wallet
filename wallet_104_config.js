@@ -1,1 +1,1 @@
-var mnemonic = "label kiwi cereal vacuum flock seed hold rhythm human opinion mutual federal";
+var mnemonic = "seven spot tired skill eye joke denial grant simple high spot width";

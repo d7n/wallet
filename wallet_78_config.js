@@ -1,1 +1,1 @@
-var mnemonic = "shield swamp ski type cotton finish mention leisure choice lyrics amazing oppose";
+var mnemonic = "stable mansion gauge timber multiply barrel immune object dawn rule mobile turtle";

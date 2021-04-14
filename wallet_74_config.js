@@ -1,1 +1,1 @@
-var mnemonic = "noodle resource purse chronic sea gate gather stove flush violin provide ski";
+var mnemonic = "inform alcohol impulse airport wedding expire dove nut dragon cage uphold milk";

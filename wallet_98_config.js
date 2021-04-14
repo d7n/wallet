@@ -1,1 +1,1 @@
-var mnemonic = "crush talk erase input column credit source shy discover toss wood project";
+var mnemonic = "submit arrest slot yellow clock box mushroom circle paddle impose reunion ship";

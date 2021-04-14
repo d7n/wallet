@@ -1,1 +1,1 @@
-var mnemonic = "job auto giant left spatial goddess frame finish pony dirt cactus bracket";
+var mnemonic = "fly cause resist hole december senior fit master derive hip organ false";

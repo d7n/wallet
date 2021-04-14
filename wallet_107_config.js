@@ -1,1 +1,1 @@
-var mnemonic = "tube embrace pelican burst better hour puzzle stem wonder wisdom control north";
+var mnemonic = "cat thank scout siren swallow onion loan trim parrot foam junk grunt";

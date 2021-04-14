@@ -1,1 +1,1 @@
-var mnemonic = "clip title rule account ancient movie fish enter poem service marine reunion";
+var mnemonic = "flight tackle mind more doctor couch sunny garlic know become body fox";

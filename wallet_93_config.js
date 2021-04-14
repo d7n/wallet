@@ -1,1 +1,1 @@
-var mnemonic = "amount job attack kidney patient arrange siren airport siege review thank kidney";
+var mnemonic = "tongue erupt label trip crouch tape peace unfair horse veteran uphold hundred";

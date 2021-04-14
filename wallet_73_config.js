@@ -1,1 +1,1 @@
-var mnemonic = "group car panel grid punch crack resemble major cry artefact artist reduce";
+var mnemonic = "remind lawsuit wage assume square tree shy ramp glove arrest amount dress";

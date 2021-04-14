@@ -1,1 +1,1 @@
-var mnemonic = "diagram term october huge risk iron offer kiwi decline teach chapter bind";
+var mnemonic = "narrow wife split obscure you cattle stuff isolate float turkey cup banner";

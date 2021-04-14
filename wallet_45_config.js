@@ -1,1 +1,1 @@
-var mnemonic = "manage soft rail swap item word salon mosquito follow sorry around visit";
+var mnemonic = "fossil nurse like report unlock dream tell radar clip suggest cruise sword";

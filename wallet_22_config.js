@@ -1,1 +1,1 @@
-var mnemonic = "health sudden dizzy pride caught network cube tower zoo ordinary helmet father";
+var mnemonic = "pretty wink hand hidden unknown there total amused sweet weather gasp brick";

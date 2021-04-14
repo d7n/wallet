@@ -1,1 +1,1 @@
-var mnemonic = "goddess boost right climb month code mistake creek hard crop genre feature";
+var mnemonic = "benefit traffic labor tunnel tomato sauce bike december erosion sound first age";

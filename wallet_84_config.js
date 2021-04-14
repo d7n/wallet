@@ -1,1 +1,1 @@
-var mnemonic = "canyon roof embrace valid own butter advice truck enforce fork staff smooth";
+var mnemonic = "carry fold camera sing push response never rapid cost odor clock shuffle";

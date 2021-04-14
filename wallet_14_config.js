@@ -1,1 +1,1 @@
-var mnemonic = "follow symptom lady refuse follow mandate dry fever own final canal actress";
+var mnemonic = "dolphin ignore diet deposit helmet welcome lift mom book federal punch tattoo";

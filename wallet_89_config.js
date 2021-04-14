@@ -1,1 +1,1 @@
-var mnemonic = "interest run degree deposit describe cruise above giggle order town bus eagle";
+var mnemonic = "margin video hand moon absorb ghost budget business fetch actress bird decrease";

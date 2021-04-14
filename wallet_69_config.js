@@ -1,1 +1,1 @@
-var mnemonic = "stumble eager busy mimic hover genius option ghost spice clutch stamp winter";
+var mnemonic = "dismiss flock quarter carbon cancel exotic eager forest tongue scene weapon series";

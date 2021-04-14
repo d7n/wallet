@@ -1,1 +1,1 @@
-var mnemonic = "bundle dry three fire card mask chair among acid garlic like become";
+var mnemonic = "tourist candy agree wealth ring expose abandon siren capable display misery toddler";
