@@ -1,1 +1,1 @@
-var mnemonic = "scan runway dove battle deposit buddy atom title quantum engage cloud purchase";
+var mnemonic = "toast job insane arctic combine trouble shock purpose hazard inner have lens";

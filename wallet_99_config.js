@@ -1,1 +1,1 @@
-var mnemonic = "forget reform legend bottom race crush admit night bunker wage parade loud";
+var mnemonic = "suspect cat omit guard cinnamon memory dizzy odor install game olive dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "omit cotton cheap heart cheap soon wrist stairs pond ocean blind quit";
+var mnemonic = "race snow salon ozone swear blanket pear gown aspect latin used escape";

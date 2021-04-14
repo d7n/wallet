@@ -1,1 +1,1 @@
-var mnemonic = "weird action month kick nation tank wrong brand early topple guide dial";
+var mnemonic = "venue cannon much carpet fatal vacuum object draft flame hurt shiver they";

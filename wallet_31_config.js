@@ -1,1 +1,1 @@
-var mnemonic = "put pumpkin purpose innocent proud phrase harbor coral sunny hybrid tissue awful";
+var mnemonic = "clay river ahead candy steak include ensure surround home disagree render resist";

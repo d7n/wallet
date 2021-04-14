@@ -1,1 +1,1 @@
-var mnemonic = "buzz train enhance fish solution series bind hotel vast hockey region gallery";
+var mnemonic = "gorilla harbor ritual swim exotic whale color year noble salon hood sword";

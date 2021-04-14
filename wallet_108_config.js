@@ -1,1 +1,1 @@
-var mnemonic = "fish style phrase chat caution trial eyebrow lobster oil air orchard lift";
+var mnemonic = "matrix base fall soft bomb envelope erase crew foot escape idea sweet";

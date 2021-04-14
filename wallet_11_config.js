@@ -1,1 +1,1 @@
-var mnemonic = "chronic oak embody rival modify bring range grow found wool net oil";
+var mnemonic = "sense split eager turn asthma simple estate security earn online face doll";

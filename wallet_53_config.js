@@ -1,1 +1,1 @@
-var mnemonic = "awesome luggage great food maze island connect account intact chief spray fog";
+var mnemonic = "blue raven dry main obvious hamster soft fury grid aisle trial rookie";

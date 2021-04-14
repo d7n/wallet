@@ -1,1 +1,1 @@
-var mnemonic = "dance female attract arctic interest carry wish stove rate seven scorpion worry";
+var mnemonic = "match joy cycle canal puzzle hole range total hedgehog maximum hip adapt";

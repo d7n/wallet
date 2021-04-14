@@ -1,1 +1,1 @@
-var mnemonic = "cattle caught aim reason kangaroo raw bean pelican debris jewel aerobic basic";
+var mnemonic = "lava mix whale hammer fuel brief salad decline mixed fetch cinnamon melody";

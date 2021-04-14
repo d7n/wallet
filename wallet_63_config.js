@@ -1,1 +1,1 @@
-var mnemonic = "shift stay picture hedgehog inherit mercy blanket cry enact act faint time";
+var mnemonic = "bicycle motion identify axis minor police lonely noble embody asset casino indicate";

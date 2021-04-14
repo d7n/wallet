@@ -1,1 +1,1 @@
-var mnemonic = "recall boring reopen dance unfair unveil setup stereo capable under field hour";
+var mnemonic = "traffic debate hurdle raven select smile echo alien true climb aim fee";

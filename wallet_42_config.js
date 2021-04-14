@@ -1,1 +1,1 @@
-var mnemonic = "banana sell art over small crime refuse fantasy unfold sponsor begin gasp";
+var mnemonic = "race visa exile fetch vibrant metal squirrel noodle idle clump oak debris";

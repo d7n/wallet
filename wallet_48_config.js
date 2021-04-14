@@ -1,1 +1,1 @@
-var mnemonic = "joy escape tree burst crash fury cargo reject peace verify spoil width";
+var mnemonic = "real color choose friend much height flip slogan illegal decade twin cattle";

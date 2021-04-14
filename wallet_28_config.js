@@ -1,1 +1,1 @@
-var mnemonic = "reason document pool among height embody portion pact mixture govern public sheriff";
+var mnemonic = "budget view code humble aspect code gate cigar song online acoustic inch";

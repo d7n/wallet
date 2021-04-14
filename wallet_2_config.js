@@ -1,1 +1,1 @@
-var mnemonic = "orphan melt artefact execute oppose famous add two close predict dice fever";
+var mnemonic = "they neutral message flat away nuclear draft shy report gun negative become";

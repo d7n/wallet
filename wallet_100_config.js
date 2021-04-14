@@ -1,1 +1,1 @@
-var mnemonic = "settle fresh churn radio lawn regular beach waste energy describe tag census";
+var mnemonic = "rebuild nothing dragon fix blind soon knee mad frost major orbit usage";

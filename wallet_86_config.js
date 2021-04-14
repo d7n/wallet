@@ -1,1 +1,1 @@
-var mnemonic = "aunt erupt melody invest radio vintage immense unfold conduct doll crop spin";
+var mnemonic = "true woman useless expand wheel monitor spend develop forget trim pair funny";

@@ -1,1 +1,1 @@
-var mnemonic = "bone angry stool dinner plate neither veteran deny finger surprise history turtle";
+var mnemonic = "order uncover certain sketch addict inmate occur canal obey diagram legal analyst";

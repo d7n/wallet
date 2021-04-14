@@ -1,1 +1,1 @@
-var mnemonic = "outside agent motion uniform snack melody exercise spend acid square demand install";
+var mnemonic = "volume mass shift acquire drip final lion arrange forest tomato april destroy";

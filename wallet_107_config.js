@@ -1,1 +1,1 @@
-var mnemonic = "consider earth door heart manage slight tag empty half horse owner history";
+var mnemonic = "firm exercise simple walnut quality talent rubber pen tattoo person bargain prevent";

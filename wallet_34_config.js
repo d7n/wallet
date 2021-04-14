@@ -1,1 +1,1 @@
-var mnemonic = "boat ostrich art marble gospel enhance leave curtain bag loop ten robot";
+var mnemonic = "city connect piano regret one sentence include amount ready street mad monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper skull business blade stone rebuild earn useless cage ranch memory rely";
+var mnemonic = "pottery artefact divert leave rate employ kiwi effort alone glory fresh blue";

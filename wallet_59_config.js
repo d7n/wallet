@@ -1,1 +1,1 @@
-var mnemonic = "rookie lend license major swing erase since across lawsuit kid tell mad";
+var mnemonic = "disagree fever box choice dash uniform already exhaust trash napkin flash slab";

@@ -1,1 +1,1 @@
-var mnemonic = "such lizard decade list inflict topple prefer flavor leisure river float spot";
+var mnemonic = "inner pass govern warm wild task wrestle dilemma stem obvious velvet predict";

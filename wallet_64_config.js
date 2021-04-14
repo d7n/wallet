@@ -1,1 +1,1 @@
-var mnemonic = "seek disorder despair need cheap loyal orchard robot more thumb drift camp";
+var mnemonic = "urban muffin display trick minor this summer bid stamp piano odor lunch";

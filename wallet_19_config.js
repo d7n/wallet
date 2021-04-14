@@ -1,1 +1,1 @@
-var mnemonic = "able lawsuit scare rack edit lab special scheme fiction sunset tourist talent";
+var mnemonic = "tornado hair grass note air soda palm shield bring cage check illegal";

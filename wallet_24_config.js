@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo inside bunker people network uniform cute sample mammal frown rabbit tissue";
+var mnemonic = "start twist edit wrong auto level produce master excess matter level slush";

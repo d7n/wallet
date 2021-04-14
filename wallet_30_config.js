@@ -1,1 +1,1 @@
-var mnemonic = "poverty broccoli river curious mistake evoke lamp wolf glow laptop gallery oak";
+var mnemonic = "scan keen width melt logic case blast vacant jelly quality body drum";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey below humor alert hospital snow winter habit swallow bind recall stamp";
+var mnemonic = "remain vault age sponsor seat uphold summer sugar tower resist firm purse";

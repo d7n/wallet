@@ -1,1 +1,1 @@
-var mnemonic = "vapor garden lamp spoon nut minor dice reason ramp system whale laundry";
+var mnemonic = "book guard smile power shrug again save scrub churn promote industry moon";

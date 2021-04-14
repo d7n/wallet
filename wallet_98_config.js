@@ -1,1 +1,1 @@
-var mnemonic = "join sphere uniform sail gift puppy cinnamon concert scene basic flee jewel";
+var mnemonic = "hurdle hope since badge hover inner water recycle glow good usage setup";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow squirrel wheat claw volcano vivid steel once valve family holiday auto";
+var mnemonic = "discover tennis embark artist pond charge hunt engine reduce exit expect someone";

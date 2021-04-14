@@ -1,1 +1,1 @@
-var mnemonic = "swallow scan tragic beyond virus autumn climb garment token manage brick sunset";
+var mnemonic = "autumn depart vivid sand snake between design battle bone abuse bracket kind";

@@ -1,1 +1,1 @@
-var mnemonic = "waste decade pair food grunt track hollow punch bundle entry kidney creek";
+var mnemonic = "affair brand lunar scatter quick upper budget tomorrow arena analyst budget silly";

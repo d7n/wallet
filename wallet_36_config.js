@@ -1,1 +1,1 @@
-var mnemonic = "prize ride uniform rug rather palm flat one issue chunk morning lawsuit";
+var mnemonic = "deer wear course copper stool media thank parrot magic ancient lemon lab";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney real spare roast stay cannon option topple claim lake anger typical";
+var mnemonic = "pluck volume claw amateur injury safe sudden magnet slight author uncle humble";

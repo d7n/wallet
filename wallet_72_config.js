@@ -1,1 +1,1 @@
-var mnemonic = "rotate say sense scan museum skill away broom seven six riot asset";
+var mnemonic = "million champion energy cash month force book cycle push engage trade major";

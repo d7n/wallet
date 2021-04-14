@@ -1,1 +1,1 @@
-var mnemonic = "cover ski scrub copper junior snack want february depth coffee barrel jaguar";
+var mnemonic = "bless fragile noodle company wrestle coast zero chuckle border inquiry useful indoor";

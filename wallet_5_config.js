@@ -1,1 +1,1 @@
-var mnemonic = "error toe cliff lonely slide erupt trumpet dilemma front talent morning quit";
+var mnemonic = "top wash illness burst desk upper palace gospel ability begin animal alcohol";

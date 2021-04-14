@@ -1,1 +1,1 @@
-var mnemonic = "bike joke omit rely quantum banana box above search fresh layer recall";
+var mnemonic = "fog explain video proud boost elite pupil square electric bus cargo avoid";

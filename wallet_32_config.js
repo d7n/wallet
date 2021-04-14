@@ -1,1 +1,1 @@
-var mnemonic = "coach ketchup strategy furnace want useless evil hat else road ghost survey";
+var mnemonic = "stool borrow vibrant buzz turkey luxury give dance tiger jealous power favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "word void seminar predict burst breeze recipe shoot acid salmon submit baby";
+var mnemonic = "sponsor bird jealous blue certain forum old hard cat arch word super";

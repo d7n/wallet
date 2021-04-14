@@ -1,1 +1,1 @@
-var mnemonic = "just hybrid pioneer vacant awful piano vendor giant destroy ritual merge list";
+var mnemonic = "elder anchor castle tired install ceiling hollow know enemy canyon sock price";

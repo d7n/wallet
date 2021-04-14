@@ -1,1 +1,1 @@
-var mnemonic = "draft method alone stay order decrease surprise mass square mail toilet code";
+var mnemonic = "head trial nephew error valley dutch emotion toilet goose tide fat mammal";

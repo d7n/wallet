@@ -1,1 +1,1 @@
-var mnemonic = "umbrella raven unhappy exercise return spice cake truth rough tomato rent arrive";
+var mnemonic = "endorse bulb earth horn cup chimney demand travel cheese exchange flag board";

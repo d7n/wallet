@@ -1,1 +1,1 @@
-var mnemonic = "trap accident tank panic skirt ostrich sign night glimpse kitchen degree tiny";
+var mnemonic = "shiver rescue leisure flat conduct tuition network toast neglect hazard service left";

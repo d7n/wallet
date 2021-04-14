@@ -1,1 +1,1 @@
-var mnemonic = "patient drip swallow trust orange north risk trick donor torch cake arctic";
+var mnemonic = "cup tell staff copy next sun bright worry torch ghost effort rule";

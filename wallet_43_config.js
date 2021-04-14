@@ -1,1 +1,1 @@
-var mnemonic = "shield staff fire inside angle merge child kiwi diesel direct appear upon";
+var mnemonic = "gauge girl mercy mind hole shove sail focus grit fat flip loyal";

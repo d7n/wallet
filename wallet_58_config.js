@@ -1,1 +1,1 @@
-var mnemonic = "rack guess goat admit blossom raven custom short mesh allow clay lobster";
+var mnemonic = "neglect scene favorite female utility sport common burger submit stove castle guess";

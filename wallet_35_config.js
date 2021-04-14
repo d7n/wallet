@@ -1,1 +1,1 @@
-var mnemonic = "tip toast maple violin endorse harsh dish then borrow check return patient";
+var mnemonic = "make giggle blanket thought liar special loyal furnace smile bone destroy dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "can lady hill number valve help exile rice rhythm space ecology wreck";
+var mnemonic = "aim walk embody expire find crowd sudden this way panic situate slow";

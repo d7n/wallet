@@ -1,1 +1,1 @@
-var mnemonic = "cement evil feel snack spice rug deer story short because dentist blouse";
+var mnemonic = "denial corn gas depth ancient chief nothing gift work apart actress quality";

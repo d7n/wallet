@@ -1,1 +1,1 @@
-var mnemonic = "escape anger pumpkin oblige hole fire umbrella void chair dog depend smooth";
+var mnemonic = "point cabin explain salmon south below expect drift airport good you swing";

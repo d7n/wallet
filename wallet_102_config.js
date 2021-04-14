@@ -1,1 +1,1 @@
-var mnemonic = "essay adapt comic wrestle predict educate diesel bubble stable album ancient enact";
+var mnemonic = "over fiction coach bag rhythm win ankle obey image actor tortoise moon";

@@ -1,1 +1,1 @@
-var mnemonic = "crater candy appear youth wrestle inhale odor hawk catalog yard sight horror";
+var mnemonic = "ten barely garlic mad trial history bottom present loop perfect rhythm valve";

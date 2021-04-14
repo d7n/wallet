@@ -1,1 +1,1 @@
-var mnemonic = "enjoy caution domain lawn female pact distance borrow short trust gown barrel";
+var mnemonic = "able oyster rotate tomorrow amateur step fringe wink fan left donate make";

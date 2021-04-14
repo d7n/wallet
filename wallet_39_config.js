@@ -1,1 +1,1 @@
-var mnemonic = "cheese dust unable offer seek roast fade advice divert right mean outside";
+var mnemonic = "knee anger response bless drift habit corn share sponsor during direct say";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant describe gentle disorder drink kick phrase coconut town day snack element";
+var mnemonic = "ripple police disorder dirt ancient pool mix update miracle reject coral choose";

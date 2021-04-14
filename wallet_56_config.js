@@ -1,1 +1,1 @@
-var mnemonic = "wedding judge idea space venture protect flip faint mouse daughter boil ivory";
+var mnemonic = "frog short turn kind faint print tourist climb borrow rocket know swear";

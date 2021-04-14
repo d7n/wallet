@@ -1,1 +1,1 @@
-var mnemonic = "actual estate option visual evidence genuine upset pipe damp rhythm raw transfer";
+var mnemonic = "material all science river hawk noble similar boy turkey interest actual vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "neck athlete pumpkin cluster burst uncover cause doctor idea actual resemble cactus";
+var mnemonic = "fetch dove young twelve submit advance bone south fiber mask dash image";

@@ -1,1 +1,1 @@
-var mnemonic = "sword pioneer expire denial apple feature decline virus outdoor mosquito flock link";
+var mnemonic = "industry castle salute where siege fossil mandate obvious slogan quality twin universe";

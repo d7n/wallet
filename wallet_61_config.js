@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin stuff maid gloom sun winter athlete buzz hybrid champion kit defense";
+var mnemonic = "pair ritual october point coast banana huge panic material anxiety derive guitar";

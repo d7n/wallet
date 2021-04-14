@@ -1,1 +1,1 @@
-var mnemonic = "sadness price wonder slight document insect spike eager twenty tool green primary";
+var mnemonic = "custom pond twelve remove draft devote mosquito reject ship pipe margin peanut";

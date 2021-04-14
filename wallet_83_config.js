@@ -1,1 +1,1 @@
-var mnemonic = "certain snake push clap shop alarm grocery bundle useless pact very observe";
+var mnemonic = "unusual radio slide laundry above deer soldier neutral throw audit dignity horn";

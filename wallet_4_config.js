@@ -1,1 +1,1 @@
-var mnemonic = "ankle depend cactus family random hobby farm predict office program glory memory";
+var mnemonic = "cargo rib disorder avocado tooth breeze door version parent lens trumpet simple";

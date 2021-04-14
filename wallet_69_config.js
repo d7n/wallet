@@ -1,1 +1,1 @@
-var mnemonic = "head rescue coffee sad work night motion one where glad endorse stage";
+var mnemonic = "either transfer kidney door section crouch decrease pretty laugh antique festival dash";

@@ -1,1 +1,1 @@
-var mnemonic = "science cruel vibrant outdoor fun whale giggle thing sound stone fantasy route";
+var mnemonic = "mystery skirt rice portion peanut rose throw consider drama sister someone february";

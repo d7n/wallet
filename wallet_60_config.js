@@ -1,1 +1,1 @@
-var mnemonic = "blame shine lock sun party vivid insane dragon age erupt medal crush";
+var mnemonic = "brain coin gossip invite throw kingdom trash verb barrel tray lock monster";

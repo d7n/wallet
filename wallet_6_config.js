@@ -1,1 +1,1 @@
-var mnemonic = "clever diary merge excess vast scorpion rapid pulp need neither echo ramp";
+var mnemonic = "road feel come enable awake buzz arctic hand seek cruise tone below";

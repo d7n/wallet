@@ -1,1 +1,1 @@
-var mnemonic = "oval diary peasant outdoor hazard alien banana mask garage truly patient science";
+var mnemonic = "unfold trap garbage sail cattle collect resist source grape shield practice tray";

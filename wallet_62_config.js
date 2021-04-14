@@ -1,1 +1,1 @@
-var mnemonic = "bus dismiss vague cricket shallow unveil close cute uncover abandon suffer tank";
+var mnemonic = "patrol permit swarm wine goose code crazy crumble tag screen phrase lunar";

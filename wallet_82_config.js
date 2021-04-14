@@ -1,1 +1,1 @@
-var mnemonic = "elite destroy special blast valid bread match bring fitness prosper ill december";
+var mnemonic = "seat off company congress heart orient state orchard security remove fragile jump";

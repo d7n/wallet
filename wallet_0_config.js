@@ -1,1 +1,1 @@
-var mnemonic = "hospital fix polar survey advance coach blue april bring price network rebuild";
+var mnemonic = "inside field mimic abuse explain shift million purpose grow budget dish ketchup";

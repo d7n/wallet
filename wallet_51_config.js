@@ -1,1 +1,1 @@
-var mnemonic = "repair soft license frequent blossom usage jump actor soap cannon abuse short";
+var mnemonic = "enrich kangaroo arrive hotel pole gesture glass swear hour call engine bid";

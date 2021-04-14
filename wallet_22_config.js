@@ -1,1 +1,1 @@
-var mnemonic = "life sister trigger slight media clock dismiss human else income spoon member";
+var mnemonic = "bag quiz direct cradle busy arch comic awful arrest spring shine pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "link room cute reveal visual reduce drastic member moral field scheme angle";
+var mnemonic = "inspire manage rich habit also pass bullet fatigue climb ten lift drop";

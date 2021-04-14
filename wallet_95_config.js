@@ -1,1 +1,1 @@
-var mnemonic = "drill camp core raven measure blossom work purchase hat father place bike";
+var mnemonic = "taste twice devote light fame idea unusual current amazing height term shop";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor ten master frog boat combine people brisk raccoon wisdom roof very";
+var mnemonic = "spirit nice weapon cushion envelope already sniff buyer broom tissue deposit group";

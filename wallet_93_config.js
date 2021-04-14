@@ -1,1 +1,1 @@
-var mnemonic = "earth buffalo note top endorse option lunar brass silver cram awake wife";
+var mnemonic = "pudding network genre surround broken forget early hockey trim film reward autumn";

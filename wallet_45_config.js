@@ -1,1 +1,1 @@
-var mnemonic = "bulb swear library very any skill coral knife capital soul auto spring";
+var mnemonic = "fine tilt palm bar rough submit acquire series adult innocent dice number";

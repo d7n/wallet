@@ -1,1 +1,1 @@
-var mnemonic = "neglect sibling armed bamboo essay carry merge scale park addict network sign";
+var mnemonic = "marine sleep intact bomb stand crawl shrimp snow wise absorb seat feed";

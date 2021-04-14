@@ -1,1 +1,1 @@
-var mnemonic = "crucial mule acquire aspect detail normal obscure because tissue earn village dentist";
+var mnemonic = "resource strike topple debris fee plastic sadness acid below uphold laugh paper";

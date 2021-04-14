@@ -1,1 +1,1 @@
-var mnemonic = "can half enough school leisure amount tube master pistol stone copper chronic";
+var mnemonic = "bulb carry stay purse tiger must undo mesh small sauce human fancy";

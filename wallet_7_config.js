@@ -1,1 +1,1 @@
-var mnemonic = "combine walnut inflict display ski soup miss protect snow glance connect ball";
+var mnemonic = "dinner stay ball bright athlete theory robust universe shell kit aspect state";

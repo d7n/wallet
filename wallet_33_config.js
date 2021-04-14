@@ -1,1 +1,1 @@
-var mnemonic = "swap cradle error divide toy insect mouse pledge gas demand assume bus";
+var mnemonic = "cheese cheap jelly walnut dinosaur snow machine polar account universe pet cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "explain delay vibrant blast click easily nature blush diet stick dolphin fresh";
+var mnemonic = "upset donor cross utility liberty reflect gentle regular poverty pistol spatial child";

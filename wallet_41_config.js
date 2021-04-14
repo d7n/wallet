@@ -1,1 +1,1 @@
-var mnemonic = "promote fever surround concert cannon glimpse cube enrich idle ostrich rocket action";
+var mnemonic = "lounge midnight simple talk erosion turtle hen gun script marble clog crack";

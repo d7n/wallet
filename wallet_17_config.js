@@ -1,1 +1,1 @@
-var mnemonic = "dress match release tilt raven win attitude scene weekend amazing purse love";
+var mnemonic = "strategy learn confirm trust nut suggest citizen spring whisper churn front worry";
