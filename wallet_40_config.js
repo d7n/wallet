@@ -1,1 +1,1 @@
-var mnemonic = "update also smile flee design muscle soon outer real damage board off";
+var mnemonic = "matter energy random dash mother abstract panda monster sheriff put they make";

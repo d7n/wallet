@@ -1,1 +1,1 @@
-var mnemonic = "lady sad glance train buffalo mixed label idle zone express toast measure";
+var mnemonic = "tribe rabbit infant doctor miss purse lock elder despair electric capable tourist";

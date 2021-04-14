@@ -1,1 +1,1 @@
-var mnemonic = "civil video topple bus obvious wall rug swap glass parent enrich trumpet";
+var mnemonic = "choose flag spot eternal brave loan usage wreck milk shrug hurry thing";

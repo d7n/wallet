@@ -1,1 +1,1 @@
-var mnemonic = "main fish owner toe witness nasty sheriff remember float saddle scan pitch";
+var mnemonic = "absurd online cover hawk soap steel shock drop pear claim sad ranch";

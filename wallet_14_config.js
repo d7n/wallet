@@ -1,1 +1,1 @@
-var mnemonic = "drive ladder cake census artwork pole angry luggage brief year bicycle silver";
+var mnemonic = "cliff chair arrive open raw party bundle proud together tail often slow";

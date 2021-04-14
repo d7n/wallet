@@ -1,1 +1,1 @@
-var mnemonic = "uniform this add innocent abandon peace motor drip gym hobby toast bronze";
+var mnemonic = "maximum lottery describe balcony elegant deny helmet all park wagon human next";

@@ -1,1 +1,1 @@
-var mnemonic = "argue repair civil sort slab bean debate february pretty faith swarm fine";
+var mnemonic = "rude replace arrive gain ketchup soldier thrive control enter lady sun ability";

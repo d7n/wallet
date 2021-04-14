@@ -1,1 +1,1 @@
-var mnemonic = "sad faith carbon goddess cheese soup hunt question release coil voyage drastic";
+var mnemonic = "october tree pet tip genius toddler shoe assault bacon harsh capital modify";

@@ -1,1 +1,1 @@
-var mnemonic = "donate morning sphere appear midnight reject pool tobacco hybrid unveil empower clog";
+var mnemonic = "coyote puppy menu dragon strategy solution mother squeeze delay that eternal reveal";

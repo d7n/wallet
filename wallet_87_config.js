@@ -1,1 +1,1 @@
-var mnemonic = "poverty observe jealous electric poverty warfare arctic morning food forward juice blood";
+var mnemonic = "proof pig swamp afford gravity finish like diet mind wreck palm cigar";

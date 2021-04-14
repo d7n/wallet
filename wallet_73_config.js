@@ -1,1 +1,1 @@
-var mnemonic = "crisp razor grow bean balance conduct talk menu foil tilt spirit property";
+var mnemonic = "leisure program style strategy crumble spin chimney sound loop hobby trouble glue";

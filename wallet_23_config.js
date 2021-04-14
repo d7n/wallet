@@ -1,1 +1,1 @@
-var mnemonic = "abandon image swing radar strong tragic story napkin small weird rebuild yellow";
+var mnemonic = "symptom proof split snap mesh base waste brave rebel filter across garlic";

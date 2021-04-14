@@ -1,1 +1,1 @@
-var mnemonic = "vintage ramp style month family cherry mixture heart tell twelve hedgehog actor";
+var mnemonic = "moon retire all liquid stem boat calm hip pond system almost rubber";

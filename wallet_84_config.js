@@ -1,1 +1,1 @@
-var mnemonic = "nature key animal depth tackle vanish increase fluid afraid carbon leader symptom";
+var mnemonic = "spring oppose item body audit need sudden table banner border supply initial";

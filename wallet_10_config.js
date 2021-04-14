@@ -1,1 +1,1 @@
-var mnemonic = "flash hawk erupt oven hawk script canoe point toe cargo roof dentist";
+var mnemonic = "require clap cup neck april cable sail follow deliver strike transfer bone";

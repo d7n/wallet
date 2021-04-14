@@ -1,1 +1,1 @@
-var mnemonic = "rocket oppose spot neglect budget slight token birth menu input fine timber";
+var mnemonic = "dune rabbit smooth barrel desk broccoli globe attack visual beauty lemon canyon";

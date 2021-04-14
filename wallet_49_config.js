@@ -1,1 +1,1 @@
-var mnemonic = "crunch genius pioneer depth civil survey captain page ocean parade chest company";
+var mnemonic = "ramp pelican barely since patch cave menu road paddle lonely wash kiwi";

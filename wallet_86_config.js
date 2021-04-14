@@ -1,1 +1,1 @@
-var mnemonic = "garage fault strategy neither album zebra time pen morning danger lock stool";
+var mnemonic = "dolphin harsh brush one unique lobster side purchase control main quarter section";

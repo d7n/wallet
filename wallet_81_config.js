@@ -1,1 +1,1 @@
-var mnemonic = "year smooth say lounge spike degree magic pig buffalo jacket sorry predict";
+var mnemonic = "cliff stool already tumble minute such menu march erosion excuse happy then";

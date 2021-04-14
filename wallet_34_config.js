@@ -1,1 +1,1 @@
-var mnemonic = "doll seek picnic car essence cat bird drip size title ordinary slender";
+var mnemonic = "empower wife federal hold loyal teach shrug embrace visa age hair weekend";

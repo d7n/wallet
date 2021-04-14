@@ -1,1 +1,1 @@
-var mnemonic = "melody resemble couch flip tilt circle faculty dawn unlock fun rhythm evidence";
+var mnemonic = "divorce civil seed gentle puppy sport math ugly melody lemon over check";

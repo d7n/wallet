@@ -1,1 +1,1 @@
-var mnemonic = "taxi obey parade slow nasty diary settle iron fan forget vessel frozen";
+var mnemonic = "magic hint trumpet protect one power puzzle script divorce van high rather";

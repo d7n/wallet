@@ -1,1 +1,1 @@
-var mnemonic = "orphan cute proof symptom mystery enhance true liberty parent put amused solid";
+var mnemonic = "skill key cube north skate crane talent monkey dish feel plunge split";

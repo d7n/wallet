@@ -1,1 +1,1 @@
-var mnemonic = "meadow tree sausage pact trim rough poet high dune bacon walnut truck";
+var mnemonic = "huge cool smile action kind humble loud mammal stand garage deposit tortoise";

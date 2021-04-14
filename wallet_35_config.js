@@ -1,1 +1,1 @@
-var mnemonic = "chair dose already alien dish rose dinner nest buyer aim couch amazing";
+var mnemonic = "erosion topic term lawsuit series real prevent tribe time speed tonight runway";

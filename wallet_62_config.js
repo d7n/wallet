@@ -1,1 +1,1 @@
-var mnemonic = "lava define gift else gun capable desk possible swap execute sheriff option";
+var mnemonic = "orient pulse firm original unaware tilt pistol reason brass skull shed spoil";

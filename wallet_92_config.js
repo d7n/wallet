@@ -1,1 +1,1 @@
-var mnemonic = "close music pig minimum script breeze salon various oblige palace impulse fan";
+var mnemonic = "can arrange lizard vivid guess snow advice truly wage mercy energy luggage";

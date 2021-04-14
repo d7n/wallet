@@ -1,1 +1,1 @@
-var mnemonic = "split index exchange purse obvious picnic rural there disease century gauge calm";
+var mnemonic = "glory famous win discover humor saddle indicate direct source normal special worth";

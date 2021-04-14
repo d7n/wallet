@@ -1,1 +1,1 @@
-var mnemonic = "judge medal medal never retreat sing bulk receive evil merit home february";
+var mnemonic = "champion loop caught letter field design purse start siege leaf weird simple";

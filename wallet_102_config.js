@@ -1,1 +1,1 @@
-var mnemonic = "gadget slogan explain smoke sausage chase cancel busy advance inside unfold age";
+var mnemonic = "pigeon logic artwork noble area fly into miracle armor husband deposit tired";

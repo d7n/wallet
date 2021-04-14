@@ -1,1 +1,1 @@
-var mnemonic = "bulk lake riot better strategy above enemy escape orbit skin slice wrong";
+var mnemonic = "put tiny filter tip cram fruit uniform pull raw frozen advance analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance length unhappy act fringe list pumpkin impulse steel month pumpkin gossip";
+var mnemonic = "taste cherry play token delay aware annual mobile paddle short history loud";

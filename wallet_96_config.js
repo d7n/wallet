@@ -1,1 +1,1 @@
-var mnemonic = "upper sample cement pilot divorce camp suggest decline note endorse speak cheese";
+var mnemonic = "never recipe gain chase corn rural pause tribe banana school holiday food";

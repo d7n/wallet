@@ -1,1 +1,1 @@
-var mnemonic = "ridge arctic staff race dice mean glide dynamic boring stone more winner";
+var mnemonic = "cool inherit frog child quote student light scorpion outside affair cost fiction";

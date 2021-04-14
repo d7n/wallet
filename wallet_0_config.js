@@ -1,1 +1,1 @@
-var mnemonic = "thunder produce into useful gather pitch snack curtain series agent never ride";
+var mnemonic = "express treat recycle extra indoor stay emerge pool learn similar foam push";

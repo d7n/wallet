@@ -1,1 +1,1 @@
-var mnemonic = "damp hover sustain under knife valid skirt frog say more truly friend";
+var mnemonic = "reason bean finish roast sustain know carpet bargain fever dish mule there";

@@ -1,1 +1,1 @@
-var mnemonic = "faith black arrow bless pair razor radar better brisk erode fat wire";
+var mnemonic = "actor vote enemy guess size cliff luggage orchard milk frequent repeat tail";

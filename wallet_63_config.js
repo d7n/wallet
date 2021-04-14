@@ -1,1 +1,1 @@
-var mnemonic = "palm exercise junk deer state bean job clog runway immune crater traffic";
+var mnemonic = "replace worth pigeon frown horse scheme sphere material language magnet side large";

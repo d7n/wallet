@@ -1,1 +1,1 @@
-var mnemonic = "deputy damage mask trophy entry trap middle rigid book mercy pipe display";
+var mnemonic = "during antenna idle urban that hazard local acoustic install empty coin method";

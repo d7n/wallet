@@ -1,1 +1,1 @@
-var mnemonic = "maximum adjust ceiling question tribe have flower guard panel space prefer crunch";
+var mnemonic = "focus hire wonder before burger suspect uphold spread chimney stem sunny mass";

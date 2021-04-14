@@ -1,1 +1,1 @@
-var mnemonic = "conduct spice adapt initial library field cupboard forest quality hurdle derive fade";
+var mnemonic = "world accident chat rain such napkin dawn dolphin glass narrow powder pill";

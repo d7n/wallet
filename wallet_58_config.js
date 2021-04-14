@@ -1,1 +1,1 @@
-var mnemonic = "dice anger shed reopen tiger ranch cream spray mechanic always stairs visit";
+var mnemonic = "brisk usual hero lift observe estate crouch cannon reason certain blue discover";

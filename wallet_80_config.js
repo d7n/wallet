@@ -1,1 +1,1 @@
-var mnemonic = "town cat slot bright crazy scan suspect dawn token zero flash recipe";
+var mnemonic = "warfare crouch board harsh champion various person okay fee crawl act just";

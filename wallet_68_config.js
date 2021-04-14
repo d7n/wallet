@@ -1,1 +1,1 @@
-var mnemonic = "gorilla taste seminar between tooth toward scene budget key moon bulk street";
+var mnemonic = "air cheese night sting adapt charge pond rotate defy more finger romance";

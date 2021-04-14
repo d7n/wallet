@@ -1,1 +1,1 @@
-var mnemonic = "treat bracket rotate huge benefit divorce phrase pulse subject helmet glimpse alarm";
+var mnemonic = "once false fine remember document wonder village shy desert expect rocket shell";

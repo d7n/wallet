@@ -1,1 +1,1 @@
-var mnemonic = "color doctor rifle disease misery wreck ivory across festival genuine rocket layer";
+var mnemonic = "fever mandate blind option result bundle almost arrange machine promote garlic medal";

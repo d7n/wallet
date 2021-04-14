@@ -1,1 +1,1 @@
-var mnemonic = "model antique robot bicycle tennis system east rookie jaguar capital angry usual";
+var mnemonic = "pole grant risk doll sad merry rhythm club human slim lazy entry";

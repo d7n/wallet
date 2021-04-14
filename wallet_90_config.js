@@ -1,1 +1,1 @@
-var mnemonic = "silly aspect about sport dwarf creek bounce wrist rent inflict lemon next";
+var mnemonic = "present primary mutual bring position fetch public option smile favorite hub satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "final pudding vibrant sense version drill catalog success warm fury inch celery";
+var mnemonic = "social turn connect tortoise drip voice fruit palace pretty response hen armor";

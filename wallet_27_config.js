@@ -1,1 +1,1 @@
-var mnemonic = "pistol pulse promote scatter vanish course resist vibrant begin call add genius";
+var mnemonic = "horror prevent rubber young club squeeze indoor outside such dad keep vote";

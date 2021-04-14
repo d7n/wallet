@@ -1,1 +1,1 @@
-var mnemonic = "layer minor virtual sting essence divorce fish damage weasel split always bid";
+var mnemonic = "fault size rescue poem asthma affair awake better stock alarm cloth nerve";

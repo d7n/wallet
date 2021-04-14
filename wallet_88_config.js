@@ -1,1 +1,1 @@
-var mnemonic = "marble zone purse lawsuit orange shuffle tiger ivory name crater permit april";
+var mnemonic = "trap brass goose achieve butter clarify sound theme cargo auction home spot";

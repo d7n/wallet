@@ -1,1 +1,1 @@
-var mnemonic = "vibrant suit sniff always impact orange butter surface video invest miss breeze";
+var mnemonic = "year session enroll receive enemy table beauty fever inherit thrive humble amused";

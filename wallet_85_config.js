@@ -1,1 +1,1 @@
-var mnemonic = "proof lobster expect jacket wolf remain romance luggage waste upon jaguar celery";
+var mnemonic = "grass fabric team topple common popular empower gold catch episode disorder smoke";

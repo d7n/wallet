@@ -1,1 +1,1 @@
-var mnemonic = "climb quantum soccer because boost photo treat globe mammal wonder shoulder wagon";
+var mnemonic = "balance skin urge type area paper bleak execute weapon awesome century response";

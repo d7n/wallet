@@ -1,1 +1,1 @@
-var mnemonic = "price burden online boat bunker scare urban ozone early grace deal dolphin";
+var mnemonic = "caution cruise cart art cook table primary life interest skull firm rifle";

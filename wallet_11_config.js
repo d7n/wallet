@@ -1,1 +1,1 @@
-var mnemonic = "ordinary bring royal truck medal letter short world lens immune private bless";
+var mnemonic = "jar circle track crumble drastic shy source disagree giggle long fringe ahead";

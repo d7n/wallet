@@ -1,1 +1,1 @@
-var mnemonic = "best network grunt scorpion canal shaft onion stuff carpet essence fan ethics";
+var mnemonic = "again food used buyer off coast acid pitch mom canvas warfare other";

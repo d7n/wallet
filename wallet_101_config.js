@@ -1,1 +1,1 @@
-var mnemonic = "sheriff coyote casino foil fatigue segment term stem lab panel joke dirt";
+var mnemonic = "appear lend omit turkey outside service reduce friend acoustic globe wrist kangaroo";

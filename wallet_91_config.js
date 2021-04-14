@@ -1,1 +1,1 @@
-var mnemonic = "enforce argue dismiss output retreat crazy dice smoke soft burger leg multiply";
+var mnemonic = "borrow advance category baby farm mad behave share away inhale sniff river";

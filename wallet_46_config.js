@@ -1,1 +1,1 @@
-var mnemonic = "slogan purity obvious street circle electric spin early sell tunnel together marble";
+var mnemonic = "reflect dust doctor impact student pistol club bachelor dove hollow blood hire";

@@ -1,1 +1,1 @@
-var mnemonic = "slow alpha hobby obvious cruel host glue brick enrich install risk inform";
+var mnemonic = "scatter now abandon famous weapon era tail crash lens someone record mandate";

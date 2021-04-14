@@ -1,1 +1,1 @@
-var mnemonic = "evil hen receive double desert rain meadow pelican neglect pistol paddle illegal";
+var mnemonic = "foam tackle million avoid large talk moral rescue this salad grunt avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra blood cheese mutual candy century cash glow setup harsh harvest unusual";
+var mnemonic = "loan subway agree middle divorce frequent wonder menu exercise into modify awake";

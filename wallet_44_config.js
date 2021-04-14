@@ -1,1 +1,1 @@
-var mnemonic = "ahead system confirm acquire buzz grass monster palace alarm regular friend paddle";
+var mnemonic = "twelve history tribe unfair field include marine twenty child butter unique veteran";

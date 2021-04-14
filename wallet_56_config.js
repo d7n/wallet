@@ -1,1 +1,1 @@
-var mnemonic = "tattoo border stove runway team chat worth tumble arrange autumn scheme correct";
+var mnemonic = "morning barrel youth choice retreat aisle exhaust cheese sadness attack clean jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "crime hill seven educate main elephant dash loyal effort creek lady above";
+var mnemonic = "front dish invest destroy mammal fragile follow umbrella word airport detail cattle";

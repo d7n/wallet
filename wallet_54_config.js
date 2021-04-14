@@ -1,1 +1,1 @@
-var mnemonic = "good dial dune follow attack critic cannon popular space coach accuse glide";
+var mnemonic = "trend before rice garage maple magic lemon draw dial right this craft";

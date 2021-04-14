@@ -1,1 +1,1 @@
-var mnemonic = "cigar top destroy slow cost resist shift barrel buddy final mechanic carbon";
+var mnemonic = "kitchen slim orbit sniff ribbon consider ignore people humble juice river music";

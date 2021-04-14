@@ -1,1 +1,1 @@
-var mnemonic = "hurry raw congress shrimp soon jaguar skate hill glove zone civil carbon";
+var mnemonic = "erupt illegal idea category park hospital object phrase now top fame other";

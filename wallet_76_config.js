@@ -1,1 +1,1 @@
-var mnemonic = "erupt unable strike tribe liberty ask battle bring vacuum direct toward major";
+var mnemonic = "deny broom stumble gain blind salmon street wealth tired require acid mesh";

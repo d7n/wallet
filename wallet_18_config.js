@@ -1,1 +1,1 @@
-var mnemonic = "barrel blanket canyon youth embark amateur sorry awkward enact try popular unique";
+var mnemonic = "enforce enact connect awful supreme present act hub spot antenna swallow cinnamon";

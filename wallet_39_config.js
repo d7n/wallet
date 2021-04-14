@@ -1,1 +1,1 @@
-var mnemonic = "awesome pledge tilt pact monitor giant eye donate ostrich eternal enable side";
+var mnemonic = "forest boost magic coach violin indicate make dismiss miracle brand infant energy";

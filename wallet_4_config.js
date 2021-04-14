@@ -1,1 +1,1 @@
-var mnemonic = "almost pistol outer bag claw penalty ski resource punch what tide march";
+var mnemonic = "exhibit deny walnut draw mammal shaft tiny universe virus document battle double";

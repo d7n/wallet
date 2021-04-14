@@ -1,1 +1,1 @@
-var mnemonic = "stock blanket crime drill fit random again arena galaxy patient smooth tuna";
+var mnemonic = "supreme hill filter cook trim exile barrel tent require human lottery engine";

@@ -1,1 +1,1 @@
-var mnemonic = "local advance announce speak fiber finger bike desert evidence rose spoil off";
+var mnemonic = "entry lava size nothing staff tray rapid offer tunnel extra double away";

@@ -1,1 +1,1 @@
-var mnemonic = "depth audit improve knee soldier timber nominee trap tired direct inflict ocean";
+var mnemonic = "city very tray snow jacket fiscal churn quit fence update news salad";

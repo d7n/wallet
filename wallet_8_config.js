@@ -1,1 +1,1 @@
-var mnemonic = "keen hungry airport make track furnace jealous confirm frequent angry lazy silly";
+var mnemonic = "rubber youth kite sock hover paper lottery isolate vibrant cube correct coyote";

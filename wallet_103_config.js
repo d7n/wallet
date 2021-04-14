@@ -1,1 +1,1 @@
-var mnemonic = "paddle whip hub wagon weird practice absorb grape maximum hole wash curious";
+var mnemonic = "eyebrow approve finish wool van supply salmon march curtain coyote carry setup";

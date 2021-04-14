@@ -1,1 +1,1 @@
-var mnemonic = "steel diagram control object day want pencil cotton birth photo topple bus";
+var mnemonic = "alley knee must clip crash hat barely abuse noise sphere input phone";

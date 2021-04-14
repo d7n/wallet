@@ -1,1 +1,1 @@
-var mnemonic = "diesel file prepare draft picture network interest able remain help favorite profit";
+var mnemonic = "measure debris royal hidden hint scorpion square car state bar jaguar police";

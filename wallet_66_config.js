@@ -1,1 +1,1 @@
-var mnemonic = "great saddle resist barely tourist click nuclear arena attract alarm enforce cycle";
+var mnemonic = "organ discover quantum ocean leopard carpet radio waste raccoon word discover pond";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn ball edit note lounge soup utility adult popular deputy lion glass";
+var mnemonic = "gasp audit together joke hundred rigid boss domain wood hope dinner total";

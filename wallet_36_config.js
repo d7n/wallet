@@ -1,1 +1,1 @@
-var mnemonic = "public credit picture ill crash pelican avocado person catch chimney document gossip";
+var mnemonic = "jaguar senior give music cup name topic wife tuition animal candy home";

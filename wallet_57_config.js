@@ -1,1 +1,1 @@
-var mnemonic = "manage machine attack medal electric fence burst pledge cry crystal ostrich club";
+var mnemonic = "season recipe list debate burger exhaust fringe injury assist choice iron become";

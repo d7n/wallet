@@ -1,1 +1,1 @@
-var mnemonic = "blood possible hurry panther plastic latin syrup mobile friend lumber network target";
+var mnemonic = "glance region melt screen repair busy bread execute border bounce carbon heavy";

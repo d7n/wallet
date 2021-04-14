@@ -1,1 +1,1 @@
-var mnemonic = "device beauty multiply athlete reunion naive awful obvious drip great satisfy asset";
+var mnemonic = "push verify snap cat comic rate tuition kiwi spike fold detect swap";
