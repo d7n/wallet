@@ -1,1 +1,1 @@
-var mnemonic = "abuse main dismiss salute skill furnace page deny dish improve mesh point";
+var mnemonic = "benefit naive misery input floor venture latin visual peanut front devote bottom";

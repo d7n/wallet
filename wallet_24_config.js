@@ -1,1 +1,1 @@
-var mnemonic = "blue enroll home spot pigeon click example boy demise bulk ethics dry";
+var mnemonic = "orient path about essence artist pair beauty emotion copper immune wash estate";

@@ -1,1 +1,1 @@
-var mnemonic = "vital angry dance camp pear cash pull cradle survey upset tide juice";
+var mnemonic = "uncle unknown clinic develop domain one leader range run tape shove cherry";

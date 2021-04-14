@@ -1,1 +1,1 @@
-var mnemonic = "guess second slab parrot direct bottom wisdom eyebrow ski sunset law chest";
+var mnemonic = "drive tumble open penalty palm bronze umbrella churn grief feed affair fortune";

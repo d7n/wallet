@@ -1,1 +1,1 @@
-var mnemonic = "close stay shell bunker tumble tobacco hour obvious shrug put race trumpet";
+var mnemonic = "glare muscle circle render physical girl blue divorce govern truly busy cruel";

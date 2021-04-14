@@ -1,1 +1,1 @@
-var mnemonic = "spatial advice party rib habit bulk stairs list picnic express addict glare";
+var mnemonic = "enable spice knee track fall throw mistake atom brave bean simple badge";

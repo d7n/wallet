@@ -1,1 +1,1 @@
-var mnemonic = "report coast acquire expect emotion actor soccer diary side wasp abstract owner";
+var mnemonic = "moral vocal stone alcohol clock network toss throw isolate second much combine";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase abuse prosper spider front mansion involve garbage heart account reopen alone";
+var mnemonic = "result wish meadow duty maple test monkey corn imitate border scatter task";

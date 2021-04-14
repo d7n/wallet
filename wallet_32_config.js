@@ -1,1 +1,1 @@
-var mnemonic = "public pair actual shine onion attitude blame current rural mass maximum choose";
+var mnemonic = "payment glare inquiry service picture punch still pair wool crawl winner large";

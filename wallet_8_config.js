@@ -1,1 +1,1 @@
-var mnemonic = "glance arrive genre ski target clutch guilt shed will fine spring height";
+var mnemonic = "romance equal garage scrub slice tourist debris horror knife deer clip night";

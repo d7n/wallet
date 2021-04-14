@@ -1,1 +1,1 @@
-var mnemonic = "opera below inner boring divert rival result figure elegant door casual impose";
+var mnemonic = "gate evidence february lab bleak spoil trash dash small either notice exact";

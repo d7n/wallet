@@ -1,1 +1,1 @@
-var mnemonic = "cry innocent network truly recall ordinary phrase crunch obscure analyst shrimp force";
+var mnemonic = "prepare acoustic flat acid where cushion mule pattern orbit garment icon math";

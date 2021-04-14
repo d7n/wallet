@@ -1,1 +1,1 @@
-var mnemonic = "fuel stay journey mention slice skill payment immense guess response pulp april";
+var mnemonic = "clean raw dwarf pluck badge memory vendor offer nature avoid knife pitch";

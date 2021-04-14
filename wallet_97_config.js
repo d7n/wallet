@@ -1,1 +1,1 @@
-var mnemonic = "gauge cargo body airport box drive brand number frog fetch canyon tomato";
+var mnemonic = "crucial burden vague message confirm shy donkey pulse derive mushroom august stand";

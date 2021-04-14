@@ -1,1 +1,1 @@
-var mnemonic = "skate crisp accuse average delay movie where output slab amazing auto cry";
+var mnemonic = "pig milk try six exhibit girl harsh conduct talent jaguar team column";

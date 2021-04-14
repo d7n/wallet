@@ -1,1 +1,1 @@
-var mnemonic = "arena pact oval forest crisp hub visit unit quality afford tenant assume";
+var mnemonic = "asthma walnut beauty swamp escape crunch buyer cable demand victory improve wagon";

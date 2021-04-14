@@ -1,1 +1,1 @@
-var mnemonic = "tiny beach wrap relax valley skill rhythm sphere caution service series enact";
+var mnemonic = "damage split calm curious pact birth claim crack real seminar baby luggage";

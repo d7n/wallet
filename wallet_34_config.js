@@ -1,1 +1,1 @@
-var mnemonic = "guide cannon yard library ripple anchor film sort face express march brown";
+var mnemonic = "strike media illness lamp wing creek habit fee canvas dumb purse major";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle purse heavy list network input chase lottery umbrella impact labor glue";
+var mnemonic = "card wear shuffle tuition pizza write switch absurd mother battle bacon wagon";

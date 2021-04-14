@@ -1,1 +1,1 @@
-var mnemonic = "tobacco know fitness embark rubber oxygen run spoon strong minor flip wild";
+var mnemonic = "reunion permit claim brain lonely cannon dumb hire nose adjust brain sunset";

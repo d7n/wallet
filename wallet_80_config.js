@@ -1,1 +1,1 @@
-var mnemonic = "cool measure joke alert vault tell provide satisfy movie reason local kind";
+var mnemonic = "wave twelve sport limit crop jelly elder behind grace forum raven ring";

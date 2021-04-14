@@ -1,1 +1,1 @@
-var mnemonic = "shove gentle enemy absent laugh rug version fluid response ten country body";
+var mnemonic = "load tuition bullet slim swamp pumpkin brick sweet matrix alter rookie best";

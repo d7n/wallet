@@ -1,1 +1,1 @@
-var mnemonic = "myth skin income insane patrol wet job vapor snack small whisper fire";
+var mnemonic = "leader elephant omit guitar dish dish pyramid spy crowd urge good area";

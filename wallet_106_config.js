@@ -1,1 +1,1 @@
-var mnemonic = "horror stumble shallow knee genius ketchup hat hurry boy before forum humble";
+var mnemonic = "copper cream above awake month empower trick monster drill pair culture caught";

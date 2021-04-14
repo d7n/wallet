@@ -1,1 +1,1 @@
-var mnemonic = "effort coyote athlete math unit embark sponsor festival soda skin dawn attitude";
+var mnemonic = "side voyage palace left copper fantasy puppy churn illegal nephew paper special";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb absent time alley enough huge hunt dutch soldier retreat cherry vivid";
+var mnemonic = "enemy pilot buffalo cheap spin quote artist broom stumble humble odor furnace";

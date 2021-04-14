@@ -1,1 +1,1 @@
-var mnemonic = "pattern inherit core badge nephew nation hair century wrestle impose super barely";
+var mnemonic = "current twenty faint diary normal train lucky remind ready jeans road collect";

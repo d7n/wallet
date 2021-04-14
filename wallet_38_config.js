@@ -1,1 +1,1 @@
-var mnemonic = "romance bike because wait victory car uniform enhance melt chicken process own";
+var mnemonic = "snack exhibit skirt comic open feed dance camp receive turn busy broken";

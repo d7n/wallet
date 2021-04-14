@@ -1,1 +1,1 @@
-var mnemonic = "autumn squeeze obvious sibling stay eight have gift museum chaos protect skin";
+var mnemonic = "learn achieve equal lift piece dog latin fall seminar firm poet embrace";

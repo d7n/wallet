@@ -1,1 +1,1 @@
-var mnemonic = "lawn inject danger shield select annual manual pigeon summer uniform talent twin";
+var mnemonic = "panel boss address gorilla cart excite scissors chicken pledge deal cute never";

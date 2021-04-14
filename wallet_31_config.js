@@ -1,1 +1,1 @@
-var mnemonic = "organ rebuild tortoise boring base fortune before rotate success wage luggage prefer";
+var mnemonic = "ability salt excess ridge barely actor bicycle frown short pipe clip unknown";

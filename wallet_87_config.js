@@ -1,1 +1,1 @@
-var mnemonic = "nominee gentle park limb possible angle chunk owner intact right ready mask";
+var mnemonic = "hire vivid swamp man recycle pudding used tell hub lobster material core";

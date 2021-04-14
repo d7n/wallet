@@ -1,1 +1,1 @@
-var mnemonic = "outside buyer history nothing sad acid stage unveil fold bacon visit magnet";
+var mnemonic = "dune account south three problem magic mouse render chaos draft pond then";

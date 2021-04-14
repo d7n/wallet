@@ -1,1 +1,1 @@
-var mnemonic = "virtual bulk speak age surge snack vapor leg input people cage city";
+var mnemonic = "tent vast snow still regular story twin void cement frog filter unfair";

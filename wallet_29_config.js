@@ -1,1 +1,1 @@
-var mnemonic = "phrase fork chest pilot original large foster brand stand unfair suggest upon";
+var mnemonic = "client range inject fine elbow push birth limit sketch arctic fury strategy";

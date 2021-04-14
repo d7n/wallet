@@ -1,1 +1,1 @@
-var mnemonic = "rack bounce kind monkey churn leaf earth loan ceiling response acid layer";
+var mnemonic = "capital stock supply remove metal volume rice minute often morning identify uphold";

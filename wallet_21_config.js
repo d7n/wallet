@@ -1,1 +1,1 @@
-var mnemonic = "muffin cross bracket today border under wrap coyote advance pottery resist tourist";
+var mnemonic = "viable wide divide soup sustain super bounce remind innocent elegant update hamster";

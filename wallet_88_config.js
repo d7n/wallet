@@ -1,1 +1,1 @@
-var mnemonic = "success exchange angle address moon team piece build woman direct staff solution";
+var mnemonic = "broom wild polar swim deputy warrior chef lamp design enroll angle analyst";

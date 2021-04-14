@@ -1,1 +1,1 @@
-var mnemonic = "unique employ bike immune march discover elegant school shine fiber trade torch";
+var mnemonic = "miracle ladder festival bid major there antenna auction local original brain give";

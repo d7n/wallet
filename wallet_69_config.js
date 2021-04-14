@@ -1,1 +1,1 @@
-var mnemonic = "behind figure glance ice item case friend lunch glare betray before donate";
+var mnemonic = "steel motor hunt sight sweet hawk abstract actual arrive tennis glue vintage";

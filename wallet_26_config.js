@@ -1,1 +1,1 @@
-var mnemonic = "video nasty tank panther veteran neck expire very acoustic foot fatal devote";
+var mnemonic = "useful opera quick feed group upon kitten sheriff defense kit duck tuition";

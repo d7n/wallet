@@ -1,1 +1,1 @@
-var mnemonic = "clean network arrest citizen season twenty matter venture stool female drink park";
+var mnemonic = "fiscal onion kind message genre armor trial also cabbage final slight model";

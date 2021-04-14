@@ -1,1 +1,1 @@
-var mnemonic = "write limit note result tumble negative immense jewel drive banana asset screen";
+var mnemonic = "shoot cat source hollow loan soap concert apple crisp sand parent fit";

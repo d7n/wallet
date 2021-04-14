@@ -1,1 +1,1 @@
-var mnemonic = "distance remove gasp eyebrow cash surround nerve voice frequent mad shrug boat";
+var mnemonic = "rather battle dignity swap kit universe key salad similar vote neither feel";

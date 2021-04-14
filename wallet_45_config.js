@@ -1,1 +1,1 @@
-var mnemonic = "corn business resemble clog unknown daring hybrid immune abandon spring degree traffic";
+var mnemonic = "offer attract season legend office path pretty retire acid fat result legal";

@@ -1,1 +1,1 @@
-var mnemonic = "example usage rent latin draft buffalo travel marriage license consider royal belt";
+var mnemonic = "weekend notable entire cycle next joke around canoe thumb blush hip raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "timber chalk luggage float ranch saddle hero list trumpet double moment brief";
+var mnemonic = "short parade valid fish salmon visual fine egg state illness casual merge";

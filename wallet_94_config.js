@@ -1,1 +1,1 @@
-var mnemonic = "glory idle matter minute casual real harbor episode rain pet scheme human";
+var mnemonic = "satoshi always guilt panel soap visa ivory just educate hover discover pact";

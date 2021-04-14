@@ -1,1 +1,1 @@
-var mnemonic = "security enrich toy student balcony hazard wet hard gauge author crowd fresh";
+var mnemonic = "option gallery sight lab fee erode dismiss aware base bubble fabric forward";

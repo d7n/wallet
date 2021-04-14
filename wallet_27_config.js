@@ -1,1 +1,1 @@
-var mnemonic = "exotic ceiling flame buyer reunion defy globe salute volume empty next skin";
+var mnemonic = "injury female west enough rug below royal dial stock muffin front barely";

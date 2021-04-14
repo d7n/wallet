@@ -1,1 +1,1 @@
-var mnemonic = "this pioneer scorpion frame fragile enhance sample photo step pledge dentist sound";
+var mnemonic = "clerk judge cable setup minute tape detect little once dream draft slam";

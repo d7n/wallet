@@ -1,1 +1,1 @@
-var mnemonic = "runway midnight destroy lecture pupil receive hood sport flat wise fork secret";
+var mnemonic = "worry slim ripple fade rescue direct lift rent cabbage weather casual finish";

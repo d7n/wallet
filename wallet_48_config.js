@@ -1,1 +1,1 @@
-var mnemonic = "wall resemble custom prize make mimic trade giant month column nurse aunt";
+var mnemonic = "stage exit soup stumble high now romance arena leader year enable lonely";

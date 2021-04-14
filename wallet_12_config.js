@@ -1,1 +1,1 @@
-var mnemonic = "response dress mother effort pyramid host expire attack reunion library twist crazy";
+var mnemonic = "cause forward brother truly omit august fault repair voyage physical exile lunch";

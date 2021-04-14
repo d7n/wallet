@@ -1,1 +1,1 @@
-var mnemonic = "deliver soul prevent guard enrich fury vintage patch athlete promote inch donate";
+var mnemonic = "bind gift student aisle only novel argue better occur chicken ozone harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "consider opera during film struggle unfold pulp oak ozone early bleak document";
+var mnemonic = "ladder swear royal impulse crop add that canvas kiwi trend surprise token";

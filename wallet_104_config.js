@@ -1,1 +1,1 @@
-var mnemonic = "salad salt swing now symbol movie afraid flower bind obvious melt drama";
+var mnemonic = "season mind gather knife abuse recycle ripple chase animal nuclear mother eternal";

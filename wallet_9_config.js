@@ -1,1 +1,1 @@
-var mnemonic = "course radio fault layer mirror gospel reveal sadness gown balance indoor harvest";
+var mnemonic = "cook toilet future chase cry amused ignore bicycle empty elite cover joke";

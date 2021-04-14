@@ -1,1 +1,1 @@
-var mnemonic = "armed blanket regular cargo join assist must engage fix matter swallow identify";
+var mnemonic = "gloom bone rigid damage empower crop eagle sunset pact earn great help";

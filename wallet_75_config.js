@@ -1,1 +1,1 @@
-var mnemonic = "sausage fatal reject tray explain remember leaf treat bus ask input album";
+var mnemonic = "notable way cat program rescue hair scare sunset together wrist hybrid blind";

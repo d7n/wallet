@@ -1,1 +1,1 @@
-var mnemonic = "sustain real ladder level bacon oyster miss version select notable topic gift";
+var mnemonic = "erase thing hen ozone dust artwork cycle type gain snow much buffalo";

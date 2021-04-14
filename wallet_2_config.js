@@ -1,1 +1,1 @@
-var mnemonic = "outer before second orient place vintage canal helmet autumn stamp squeeze chunk";
+var mnemonic = "sister below immense someone kangaroo kitten moon million swift beauty news switch";

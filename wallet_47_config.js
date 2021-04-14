@@ -1,1 +1,1 @@
-var mnemonic = "chaos verify outer ugly face swear level snake sign network wolf family";
+var mnemonic = "settle couch stable cruel praise repeat vocal face diamond lesson celery air";

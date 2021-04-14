@@ -1,1 +1,1 @@
-var mnemonic = "follow dutch carry access mule glove surprise opera ridge lumber deny crazy";
+var mnemonic = "uncle future pencil south verb error soft resemble tonight spirit spider famous";

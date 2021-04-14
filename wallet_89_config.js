@@ -1,1 +1,1 @@
-var mnemonic = "balance ice grocery web since bread marble misery crop slender sugar torch";
+var mnemonic = "coast control acquire deputy team glad staff primary exit zero first skirt";

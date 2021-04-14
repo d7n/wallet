@@ -1,1 +1,1 @@
-var mnemonic = "result junk protect family slam iron job alter bullet lens improve youth";
+var mnemonic = "system kit retreat sense stem saddle cliff eye glue same umbrella quit";

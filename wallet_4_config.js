@@ -1,1 +1,1 @@
-var mnemonic = "glue excuse robust shock plug tower melt economy autumn special tower hope";
+var mnemonic = "gate direct skin record city local achieve milk wolf capable diary trend";

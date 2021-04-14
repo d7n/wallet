@@ -1,1 +1,1 @@
-var mnemonic = "olympic room uncover turtle equal define confirm acoustic concert jungle swap orchard";
+var mnemonic = "juice mention glow example picture dizzy minute bomb double seat response toy";

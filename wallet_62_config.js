@@ -1,1 +1,1 @@
-var mnemonic = "stereo move electric nature defense swing ice snake wine invite fold differ";
+var mnemonic = "crack divert boil rigid doctor cram enrich float okay segment crucial dignity";

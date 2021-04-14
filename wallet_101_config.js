@@ -1,1 +1,1 @@
-var mnemonic = "certain apart gospel shell kiwi jaguar regret grape rubber vehicle nothing buddy";
+var mnemonic = "strong glance foam twice entire grocery rigid orbit liquid garbage inflict swap";

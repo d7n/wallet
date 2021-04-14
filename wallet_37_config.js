@@ -1,1 +1,1 @@
-var mnemonic = "suggest sell album manual wild crowd inspire fatigue enlist mother bachelor sand";
+var mnemonic = "approve strategy nation canyon regular magnet fiscal vendor retreat brain oil join";

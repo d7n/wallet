@@ -1,1 +1,1 @@
-var mnemonic = "step fork rescue about rich vivid jewel unaware inject chat sketch ripple";
+var mnemonic = "noodle beauty jelly boost hammer journey crazy lady robust royal voice gold";

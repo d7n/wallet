@@ -1,1 +1,1 @@
-var mnemonic = "frozen method later discover elder brass man erosion artwork proud grain spray";
+var mnemonic = "slender opinion attack inform inhale human debate sponsor fluid annual north timber";

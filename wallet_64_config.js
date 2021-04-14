@@ -1,1 +1,1 @@
-var mnemonic = "patch shock labor one hurt problem enrich huge warrior legal gorilla gift";
+var mnemonic = "reform income finger chat census soccer include drill quit message lunch minor";

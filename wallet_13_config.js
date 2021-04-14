@@ -1,1 +1,1 @@
-var mnemonic = "cruise display fancy doctor dune upper engage zebra cannon blade arctic balance";
+var mnemonic = "elite ketchup swift across sign escape actress dawn unveil bullet direct scan";

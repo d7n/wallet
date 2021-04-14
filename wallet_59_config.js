@@ -1,1 +1,1 @@
-var mnemonic = "destroy wheel carry hotel marble snap safe junk debate pink hurry empty";
+var mnemonic = "unveil express exchange hazard pull salute vacuum guilt list harvest twelve buddy";

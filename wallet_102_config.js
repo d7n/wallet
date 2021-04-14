@@ -1,1 +1,1 @@
-var mnemonic = "jaguar prize bamboo road finish divert journey romance clerk catalog follow human";
+var mnemonic = "medal major finish secret year orange hello bone obey ugly piece tuna";

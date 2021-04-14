@@ -1,1 +1,1 @@
-var mnemonic = "define fork excess nature enable loan sock select reject gallery banana useless";
+var mnemonic = "sadness broccoli pole arrest short clown spray scheme drop snake senior mean";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest tail wedding sphere orbit decade paper blast sea fresh spot sketch";
+var mnemonic = "cement hotel frequent famous display wage focus chronic depart idle remain attack";

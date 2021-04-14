@@ -1,1 +1,1 @@
-var mnemonic = "trend exchange sock ocean that valve leg potato culture knock engine scorpion";
+var mnemonic = "fan thunder stumble final nose double bridge end prison vacant holiday stool";

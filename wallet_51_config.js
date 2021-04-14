@@ -1,1 +1,1 @@
-var mnemonic = "lonely spider punch casual frown correct proud umbrella shock smooth rally yellow";
+var mnemonic = "once tongue knock obtain digital shaft frame river glass topic cement kind";

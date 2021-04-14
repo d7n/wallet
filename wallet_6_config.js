@@ -1,1 +1,1 @@
-var mnemonic = "vital produce nose minute employ bulb glance slight paddle cluster pumpkin exhaust";
+var mnemonic = "table myth grunt moment inmate spring draft because input catalog property long";

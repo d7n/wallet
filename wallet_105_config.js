@@ -1,1 +1,1 @@
-var mnemonic = "park deny bone element oval rack adapt trophy siege method marriage major";
+var mnemonic = "dry wish desk asthma promote lunar stomach rack sweet excess famous fitness";

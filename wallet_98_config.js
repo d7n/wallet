@@ -1,1 +1,1 @@
-var mnemonic = "nation news couch opera delay rebel rescue spread yard bounce road brief";
+var mnemonic = "skate quote surround alley sustain tilt loop typical pony primary minute exit";

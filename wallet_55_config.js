@@ -1,1 +1,1 @@
-var mnemonic = "raise nominee kitten pilot zero method calm brother boring curve size just";
+var mnemonic = "grit broom emerge baby like confirm term salon river since vessel sport";

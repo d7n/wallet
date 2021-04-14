@@ -1,1 +1,1 @@
-var mnemonic = "farm capital scout ecology quick trade uncle width silver try aunt noise";
+var mnemonic = "spatial inch describe finger force tiger april remain illegal smile key dash";

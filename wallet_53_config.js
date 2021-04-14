@@ -1,1 +1,1 @@
-var mnemonic = "other invest leader detect urge choose vendor update festival source yellow emerge";
+var mnemonic = "polar since birth lady inner supreme metal atom fame drop meadow meat";

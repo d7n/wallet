@@ -1,1 +1,1 @@
-var mnemonic = "vehicle cargo sniff aspect magnet voyage prosper fortune muscle outside core useful";
+var mnemonic = "custom ice same demand always benefit adapt option execute door afraid original";

@@ -1,1 +1,1 @@
-var mnemonic = "link segment myself soon water art trap swallow found canal surprise coach";
+var mnemonic = "bright upon weird replace auto before deer luxury sell inspire pluck hawk";

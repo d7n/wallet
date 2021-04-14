@@ -1,1 +1,1 @@
-var mnemonic = "fold use decorate record kidney awkward language bike neither group now happy";
+var mnemonic = "slam phrase dash club deposit clutch online mango ripple park enjoy inherit";

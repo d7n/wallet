@@ -1,1 +1,1 @@
-var mnemonic = "minute across awake august zone poverty captain raw canyon pear jar expect";
+var mnemonic = "gap loan loan luxury chase loud hedgehog axis very biology human finish";

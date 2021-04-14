@@ -1,1 +1,1 @@
-var mnemonic = "gas banana donate equip buddy fashion wealth lion scissors brother lumber train";
+var mnemonic = "enemy require rifle grief wheat force update that skull guilt disorder evoke";
