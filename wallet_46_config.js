@@ -1,1 +1,1 @@
-var mnemonic = "word later wisdom riot jewel remain grass capital resource ship year ski";
+var mnemonic = "ivory tide riot mandate van cupboard travel flee solar beyond jar bamboo";

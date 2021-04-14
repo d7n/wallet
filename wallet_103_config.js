@@ -1,1 +1,1 @@
-var mnemonic = "seek ranch elite eight aim almost hurdle gasp wheel exchange clown door";
+var mnemonic = "blue quote pluck forget panda legend ladder taste visual twin tell radar";

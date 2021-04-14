@@ -1,1 +1,1 @@
-var mnemonic = "abstract park service mirror skin say bacon coil object black pyramid virus";
+var mnemonic = "correct scissors trumpet foil ride dilemma lunar pitch round decrease fitness audit";

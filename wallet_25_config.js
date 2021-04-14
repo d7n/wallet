@@ -1,1 +1,1 @@
-var mnemonic = "cupboard sail pioneer intact fish reject minute appear fiber fiscal sister sibling";
+var mnemonic = "glory document involve state slush steel electric viable glove type mango moment";

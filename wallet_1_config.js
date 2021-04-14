@@ -1,1 +1,1 @@
-var mnemonic = "invest awesome minor satisfy tongue mask science deputy collect night absorb woman";
+var mnemonic = "mad reopen reason edge possible afford beach will about decrease alert smooth";

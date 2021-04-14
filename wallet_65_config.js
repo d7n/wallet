@@ -1,1 +1,1 @@
-var mnemonic = "sing ramp hope settle radar captain sunset foam below movie rescue enjoy";
+var mnemonic = "victory rifle enhance sing myth limb ocean impose horn boy left system";

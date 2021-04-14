@@ -1,1 +1,1 @@
-var mnemonic = "pencil live remain decrease nephew maximum usage possible suffer opera toward practice";
+var mnemonic = "hour child skull cause crowd valley survey fork because olive decline subject";

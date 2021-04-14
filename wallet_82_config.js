@@ -1,1 +1,1 @@
-var mnemonic = "daring wood soup pencil essay puppy dry fine prepare practice goat glue";
+var mnemonic = "labor dismiss bamboo flip never repeat write glide half uncover lemon head";

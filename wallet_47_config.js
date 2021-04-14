@@ -1,1 +1,1 @@
-var mnemonic = "shield rather jungle moral either arm ketchup finger expect arrange purpose key";
+var mnemonic = "emotion quantum saddle prison off when foil always jewel fossil royal kit";

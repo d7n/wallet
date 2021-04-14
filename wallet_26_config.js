@@ -1,1 +1,1 @@
-var mnemonic = "long bar soap bulk also march spice process town chat deal hour";
+var mnemonic = "between number write blast desert secret budget enrich apology illegal vehicle sad";

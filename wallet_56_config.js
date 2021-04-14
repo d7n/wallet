@@ -1,1 +1,1 @@
-var mnemonic = "pool reflect combine verify near entire frog noodle immune ghost science city";
+var mnemonic = "must close humor report door subway version assault cave segment reflect estate";

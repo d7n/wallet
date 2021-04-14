@@ -1,1 +1,1 @@
-var mnemonic = "forget music clever sphere ten betray cool salmon woman near rescue north";
+var mnemonic = "genre miracle faint culture yard until front crystal radar flock oyster simple";

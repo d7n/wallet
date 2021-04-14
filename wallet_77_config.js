@@ -1,1 +1,1 @@
-var mnemonic = "choice chicken walk betray together such because hobby art sugar call law";
+var mnemonic = "awake reward quantum nut awake face injury science differ prefer ice narrow";

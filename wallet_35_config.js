@@ -1,1 +1,1 @@
-var mnemonic = "yellow defy apology flash one coach arrange pass now story hidden clay";
+var mnemonic = "domain evoke artefact riot enact flat exhibit exotic know immense hungry flame";

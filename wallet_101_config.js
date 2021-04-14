@@ -1,1 +1,1 @@
-var mnemonic = "thought twelve alley surprise output unique duck aerobic hard toilet still pilot";
+var mnemonic = "okay journey card net flock govern spare dumb outside object truck unknown";

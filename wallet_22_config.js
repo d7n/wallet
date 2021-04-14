@@ -1,1 +1,1 @@
-var mnemonic = "elephant sample glare judge endless slice broken void describe wool cattle trap";
+var mnemonic = "shield quarter deputy random busy guilt aerobic frog spoil rebuild wisdom copy";

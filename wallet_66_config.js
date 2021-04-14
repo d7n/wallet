@@ -1,1 +1,1 @@
-var mnemonic = "retreat doctor island neither horse valve ocean start sauce split apart weird";
+var mnemonic = "lion business embark jacket supply fatal alarm minor pizza elevator delay farm";

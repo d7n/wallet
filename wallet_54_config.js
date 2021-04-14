@@ -1,1 +1,1 @@
-var mnemonic = "surprise sea one rival oval shell latin hover regular wagon warrior gentle";
+var mnemonic = "elegant yellow left market suspect race ecology long sadness month crane potato";

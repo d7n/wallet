@@ -1,1 +1,1 @@
-var mnemonic = "good embrace grant manual common gun vault forward host sad evidence grunt";
+var mnemonic = "avocado smooth language weapon erase grow ready amazing hockey target struggle danger";

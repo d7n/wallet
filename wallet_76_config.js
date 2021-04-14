@@ -1,1 +1,1 @@
-var mnemonic = "museum limit nature sense first century fruit round lawsuit curtain vocal crop";
+var mnemonic = "miracle science student music direct crucial profit forget vault raven multiply current";

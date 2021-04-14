@@ -1,1 +1,1 @@
-var mnemonic = "dune column list lake suspect valley wheat slogan expect design addict web";
+var mnemonic = "hour wrong gentle sponsor tunnel riot party oblige arrive mango image will";

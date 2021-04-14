@@ -1,1 +1,1 @@
-var mnemonic = "spin erase jelly seek raw dance glory stuff romance seed drama picnic";
+var mnemonic = "pizza session outdoor state tenant whisper glory disorder dance virtual gesture merry";

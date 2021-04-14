@@ -1,1 +1,1 @@
-var mnemonic = "public tower aunt festival child exercise travel dog boat unit million recipe";
+var mnemonic = "bone slow charge dose ivory toy tag soft price camera agent pattern";

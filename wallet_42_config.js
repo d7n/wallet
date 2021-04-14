@@ -1,1 +1,1 @@
-var mnemonic = "verify spider merry medal special emerge jelly olympic income believe economy print";
+var mnemonic = "canal what pizza aisle bulb they interest essay drastic require vendor blur";

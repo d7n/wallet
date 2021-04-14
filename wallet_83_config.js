@@ -1,1 +1,1 @@
-var mnemonic = "marriage grow pipe brain ancient build nothing sure slush frown similar song";
+var mnemonic = "usual mansion job defy maximum degree nation town turtle abuse submit visa";

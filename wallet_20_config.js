@@ -1,1 +1,1 @@
-var mnemonic = "shed flush pulse fine biology abandon attitude rhythm squeeze derive twice bring";
+var mnemonic = "attitude glide fresh team release close coyote often eight diagram peasant blind";

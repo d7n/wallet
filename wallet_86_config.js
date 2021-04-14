@@ -1,1 +1,1 @@
-var mnemonic = "cool math mom pilot mimic knife tank snake situate buddy arrest urban";
+var mnemonic = "gentle bronze awkward seed credit hope prevent certain average describe couple frost";

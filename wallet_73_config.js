@@ -1,1 +1,1 @@
-var mnemonic = "electric turkey amateur budget absurd hold zone rival curve few punch diet";
+var mnemonic = "vessel erode element key happy patrol where magnet term meadow leader cable";

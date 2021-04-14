@@ -1,1 +1,1 @@
-var mnemonic = "indicate tortoise avocado cargo bargain chunk develop bright text emotion wrist pyramid";
+var mnemonic = "dirt sniff step amateur dinosaur pig bounce head top tiger dignity bundle";

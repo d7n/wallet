@@ -1,1 +1,1 @@
-var mnemonic = "mix marriage coconut loud device october used worry betray worry ask pretty";
+var mnemonic = "high delay gown hobby suggest cargo wrestle issue wink false pink panel";

@@ -1,1 +1,1 @@
-var mnemonic = "corn elite diet cereal cruise secret mechanic guitar account pyramid hip media";
+var mnemonic = "cup donor garment scout north vote stem shine bounce boy peanut recall";

@@ -1,1 +1,1 @@
-var mnemonic = "victory sell rain render spoon glare market point present door modify song";
+var mnemonic = "middle trap extra brain power more hurry toss hole cinnamon account pole";

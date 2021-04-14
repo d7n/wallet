@@ -1,1 +1,1 @@
-var mnemonic = "you priority next north milk base give olympic kick lemon prefer mimic";
+var mnemonic = "slab smart frequent general myself truly helmet imitate earn maple talk float";

@@ -1,1 +1,1 @@
-var mnemonic = "surround decade recall now height garment foil jeans sponsor section icon follow";
+var mnemonic = "suggest circle trophy travel cattle post pipe purchase renew habit lava senior";

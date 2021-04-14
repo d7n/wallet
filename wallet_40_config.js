@@ -1,1 +1,1 @@
-var mnemonic = "earth novel burger entry force fresh purse sort almost endless paddle train";
+var mnemonic = "canoe eight stand employ satoshi fiber model luggage permit hard conduct category";

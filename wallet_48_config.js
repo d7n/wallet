@@ -1,1 +1,1 @@
-var mnemonic = "jeans decrease sketch rich shift can wreck final secret theme again behave";
+var mnemonic = "draft join fatigue trigger wet hill pledge hurt quick motion half proud";

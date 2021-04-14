@@ -1,1 +1,1 @@
-var mnemonic = "person treat device place type resemble catalog save ride couple option pave";
+var mnemonic = "amateur banana jealous enable large opinion merry camp merry then wave eye";

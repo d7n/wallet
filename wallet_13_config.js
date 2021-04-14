@@ -1,1 +1,1 @@
-var mnemonic = "color glass model just occur tent deal observe divert service tenant model";
+var mnemonic = "island lab city boring metal food reduce betray become flash prefer dish";

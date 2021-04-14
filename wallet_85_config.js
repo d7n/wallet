@@ -1,1 +1,1 @@
-var mnemonic = "razor twelve advice solid custom leisure member group guitar thing inject smooth";
+var mnemonic = "cousin local olive wrong wise matter machine patrol near crisp topic vendor";

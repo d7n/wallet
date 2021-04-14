@@ -1,1 +1,1 @@
-var mnemonic = "food explain include universe mixed people stairs minimum motor ugly much stool";
+var mnemonic = "burger share used pact amused exclude belt glare category aim awkward immense";

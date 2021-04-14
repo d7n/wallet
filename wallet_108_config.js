@@ -1,1 +1,1 @@
-var mnemonic = "south success minor olympic equip huge water estate curve expose already similar";
+var mnemonic = "error sport team agent enjoy path monitor foil debate three force father";

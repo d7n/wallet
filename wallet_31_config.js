@@ -1,1 +1,1 @@
-var mnemonic = "cement alley suit seminar dynamic slide crane beach false exotic mountain capable";
+var mnemonic = "jacket adjust adapt cupboard soul taxi father meadow doctor federal ocean multiply";

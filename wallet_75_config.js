@@ -1,1 +1,1 @@
-var mnemonic = "member typical shrimp pipe wall kick dawn patient shock hover practice avoid";
+var mnemonic = "mouse fan leave thank actual thumb brave desk usage gloom pill raven";

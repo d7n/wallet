@@ -1,1 +1,1 @@
-var mnemonic = "provide club ozone grief furnace peanut crop acquire lonely leisure fluid fault";
+var mnemonic = "winner bottom injury there praise width pledge rent update lens forum car";

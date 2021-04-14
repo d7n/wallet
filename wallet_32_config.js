@@ -1,1 +1,1 @@
-var mnemonic = "question club item adjust sibling party woman despair defense emotion taxi moral";
+var mnemonic = "siren sample hedgehog onion bamboo person shove sheriff excite hour smart machine";

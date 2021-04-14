@@ -1,1 +1,1 @@
-var mnemonic = "rely merit harvest bunker minor design endorse sauce burden garden jealous unhappy";
+var mnemonic = "disorder protect drop soccer glass vintage father fiscal way same final race";

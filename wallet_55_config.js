@@ -1,1 +1,1 @@
-var mnemonic = "seminar blush athlete noodle label subject palm plunge upper else yellow miracle";
+var mnemonic = "impose sure arctic popular palace brave mimic shell salute kitten close another";

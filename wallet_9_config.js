@@ -1,1 +1,1 @@
-var mnemonic = "grape broken lounge cycle about claw diesel truth demand item write decline";
+var mnemonic = "panda culture quote wish among shoot state bacon solution grow thumb crazy";

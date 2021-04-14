@@ -1,1 +1,1 @@
-var mnemonic = "absurd act glance wolf own rapid dance tree current zebra record puzzle";
+var mnemonic = "render balance slice horse seek rival reunion ladder sing labor hollow cruel";

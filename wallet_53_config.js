@@ -1,1 +1,1 @@
-var mnemonic = "sing ivory churn language kid merge tray acid solve card vital tilt";
+var mnemonic = "night escape story film pluck party rigid dish flavor captain depend hour";

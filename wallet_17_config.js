@@ -1,1 +1,1 @@
-var mnemonic = "shoot saddle team smooth drive adapt deliver cook banana royal height enact";
+var mnemonic = "come sure convince spike pink when tip expect subject around obtain load";

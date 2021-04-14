@@ -1,1 +1,1 @@
-var mnemonic = "audit isolate pumpkin derive boring level rough guard fiber immense sell drop";
+var mnemonic = "crazy labor start cry sheriff fence essay leave child hover night alpha";

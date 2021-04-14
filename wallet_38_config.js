@@ -1,1 +1,1 @@
-var mnemonic = "need theme guide common vacuum write tray decorate current talk federal cloud";
+var mnemonic = "prevent romance document measure oval bacon deer swamp stock own fiscal virus";

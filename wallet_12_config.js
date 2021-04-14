@@ -1,1 +1,1 @@
-var mnemonic = "story rural input boil movie toast march movie inherit swim rail useful";
+var mnemonic = "shuffle antenna coil win file snake exercise meat segment keen man clean";

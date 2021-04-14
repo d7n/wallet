@@ -1,1 +1,1 @@
-var mnemonic = "close clinic joy jacket cart bone message eternal among fix sing since";
+var mnemonic = "sport goddess choice memory call slam degree trade social fan uncover clown";

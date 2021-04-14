@@ -1,1 +1,1 @@
-var mnemonic = "ahead prison laugh version peanut ranch worth eagle symbol almost gym notice";
+var mnemonic = "culture gloom daring sing soon phone child soldier comfort behind news caution";

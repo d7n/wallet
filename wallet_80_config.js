@@ -1,1 +1,1 @@
-var mnemonic = "grain lesson identify piece salad barrel else nest punch hockey increase joy";
+var mnemonic = "planet rail quarter absorb renew view future salon tackle truth mouse average";

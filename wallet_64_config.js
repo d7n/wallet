@@ -1,1 +1,1 @@
-var mnemonic = "pill orient inherit hundred myself bunker innocent gallery shuffle artist blanket acoustic";
+var mnemonic = "rain offer country pride sense penalty lizard sun define lens mushroom tent";

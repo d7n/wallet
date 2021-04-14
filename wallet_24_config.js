@@ -1,1 +1,1 @@
-var mnemonic = "pigeon recipe hour rebel flat hold home dismiss shoe smart habit involve";
+var mnemonic = "box describe frame mind sketch appear talk perfect rule sad photo crime";

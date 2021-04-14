@@ -1,1 +1,1 @@
-var mnemonic = "exercise voyage treat parade one bottom upon economy wash turn until crack";
+var mnemonic = "right brief benefit flower face birth among lesson call have limb paddle";

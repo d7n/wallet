@@ -1,1 +1,1 @@
-var mnemonic = "shallow rigid ozone ankle day bonus mansion brass brisk either agree exit";
+var mnemonic = "disagree step carry awake tragic radar universe yellow warfare pluck flower regret";

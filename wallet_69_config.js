@@ -1,1 +1,1 @@
-var mnemonic = "install glance cattle pact foil quality source same empty worth inject priority";
+var mnemonic = "crystal load fetch fog duck wave buddy victory patch afford program cute";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder pony gate need tortoise onion breeze noodle panel laundry tent culture";
+var mnemonic = "visa find juice oil embody target expect kind mask unfold lecture library";

@@ -1,1 +1,1 @@
-var mnemonic = "lock civil brand march flag fortune draft harsh sense team wild cup";
+var mnemonic = "castle unlock neutral ridge range bonus cake popular divide pear maid shoe";

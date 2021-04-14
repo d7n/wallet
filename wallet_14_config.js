@@ -1,1 +1,1 @@
-var mnemonic = "egg erode pet peanut float together slight example wrong vacuum blur stable";
+var mnemonic = "arrive goat square million render message eye vast man myth very amount";

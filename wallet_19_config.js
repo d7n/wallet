@@ -1,1 +1,1 @@
-var mnemonic = "rude undo shadow false output elegant reveal brown hat rug oak surge";
+var mnemonic = "ribbon choice caution cigar enemy include fame puppy juice flame midnight unknown";

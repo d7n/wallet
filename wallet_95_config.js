@@ -1,1 +1,1 @@
-var mnemonic = "over family ripple myth winner method cute indicate private find inmate pink";
+var mnemonic = "inch humble kiss curve refuse fresh tray silent fury sand salmon volcano";

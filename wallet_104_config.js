@@ -1,1 +1,1 @@
-var mnemonic = "next wink remember knife super grunt glad maid blush fun miracle pause";
+var mnemonic = "chimney chicken shoot case park click pumpkin indoor curtain general into soon";

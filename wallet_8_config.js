@@ -1,1 +1,1 @@
-var mnemonic = "seven rather flower entry goat staff aerobic mad current lake urge burst";
+var mnemonic = "banana rice estate cotton fever grape pulse hotel puppy tissue view inner";

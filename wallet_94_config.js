@@ -1,1 +1,1 @@
-var mnemonic = "cradle engage science accident buddy card cloth warfare work gadget embody under";
+var mnemonic = "enact exit mass jacket tent cream accuse possible garden select video eager";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent unique unlock random main bless neither topic health limit garden toast";
+var mnemonic = "club put then avocado gorilla say october bring female stable flash fury";

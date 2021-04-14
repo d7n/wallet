@@ -1,1 +1,1 @@
-var mnemonic = "extend wink fish celery gown drip enter palace bread soap spot theme";
+var mnemonic = "cable joy joke tip easy all sport result knife canvas lunch pigeon";

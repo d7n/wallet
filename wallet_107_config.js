@@ -1,1 +1,1 @@
-var mnemonic = "dirt account shock similar reunion unveil until evoke drink wall yellow shield";
+var mnemonic = "grocery stadium tobacco fix trash diagram mother tail eagle green wish success";

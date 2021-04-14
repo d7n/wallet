@@ -1,1 +1,1 @@
-var mnemonic = "enjoy acid virtual mammal sure sample trick hole wet two tape someone";
+var mnemonic = "unfair tuna erupt gold item phrase surprise remind make peace icon urban";

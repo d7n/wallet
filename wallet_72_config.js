@@ -1,1 +1,1 @@
-var mnemonic = "kiwi shield width sample great night food round gorilla loud vicious peanut";
+var mnemonic = "orbit rug clock length true ketchup screen rate indoor body arrive tip";

@@ -1,1 +1,1 @@
-var mnemonic = "stay twin fan trouble barely fresh protect problem law exchange raw deer";
+var mnemonic = "utility make reason blind finger topple winter bomb monitor snake wash same";

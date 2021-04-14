@@ -1,1 +1,1 @@
-var mnemonic = "uncle diamond dash mom junior ocean emerge lady grass post violin among";
+var mnemonic = "deal math crop busy wedding beauty turn cruel gravity attract enemy basic";

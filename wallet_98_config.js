@@ -1,1 +1,1 @@
-var mnemonic = "steel ugly helmet fortune detail length trash pizza air erode struggle mix";
+var mnemonic = "actual crush true fringe report spoil solution pen cannon oblige beauty nominee";

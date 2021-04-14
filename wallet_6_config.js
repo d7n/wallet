@@ -1,1 +1,1 @@
-var mnemonic = "steel explain tribe hover test under remove enrich panda dignity mystery scorpion";
+var mnemonic = "couple stumble diary brush shove gun venture fox nose wait adult unveil";

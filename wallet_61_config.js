@@ -1,1 +1,1 @@
-var mnemonic = "length problem loop abuse beach gorilla spin opinion chuckle industry lecture call";
+var mnemonic = "school front whale clarify loyal master wire property toy cricket disease wreck";

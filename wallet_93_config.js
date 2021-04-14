@@ -1,1 +1,1 @@
-var mnemonic = "dirt void forward edge ticket pretty tilt learn van tooth quantum edge";
+var mnemonic = "infant glow seat sniff vibrant globe only tornado fame later horror dash";

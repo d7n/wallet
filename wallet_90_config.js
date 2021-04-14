@@ -1,1 +1,1 @@
-var mnemonic = "stuff diamond plunge barrel gentle grant shrimp earn describe toddler faint coast";
+var mnemonic = "witness word umbrella access next mercy tortoise stove picnic live lemon alert";

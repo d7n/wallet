@@ -1,1 +1,1 @@
-var mnemonic = "better process tone either poem law aisle offer feature neck spare repeat";
+var mnemonic = "visual banana vessel normal adapt hood employ property brand front cream bright";

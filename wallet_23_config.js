@@ -1,1 +1,1 @@
-var mnemonic = "auto feature modify blast flush will kidney direct flower swim galaxy tent";
+var mnemonic = "citizen intact calm three great cricket ritual grain open wrist car hazard";

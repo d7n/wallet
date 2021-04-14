@@ -1,1 +1,1 @@
-var mnemonic = "warfare asthma pledge merit universe cigar emerge shy drum reward excess alert";
+var mnemonic = "recipe element bronze spend increase wisdom come great caution tank thrive carbon";

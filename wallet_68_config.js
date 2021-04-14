@@ -1,1 +1,1 @@
-var mnemonic = "include hazard anxiety sponsor bronze lunch stable mutual resource ahead admit broccoli";
+var mnemonic = "expose about install purchase normal fancy picnic equip index hole orbit place";

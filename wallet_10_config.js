@@ -1,1 +1,1 @@
-var mnemonic = "clean scan crime pilot hair purity lamp perfect leaf bean girl blue";
+var mnemonic = "about pigeon machine choose provide wire debris purity tiny annual magnet neck";

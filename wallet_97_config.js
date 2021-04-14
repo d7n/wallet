@@ -1,1 +1,1 @@
-var mnemonic = "involve edge muscle earth fossil side middle tank diagram jewel fan legal";
+var mnemonic = "rude boil evil spin solid suffer digital envelope brown odor iron crash";
