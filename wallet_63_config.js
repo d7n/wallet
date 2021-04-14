@@ -1,1 +1,1 @@
-var mnemonic = "suffer link embody glory usual alien beauty leaf warrior review baby ability";
+var mnemonic = "palm exercise junk deer state bean job clog runway immune crater traffic";

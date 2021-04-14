@@ -1,1 +1,1 @@
-var mnemonic = "grape remind comfort museum ostrich shoot kid table sell circle hill spoil";
+var mnemonic = "sight position river wood oak farm donate detail scorpion weasel loyal merit";

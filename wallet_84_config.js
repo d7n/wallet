@@ -1,1 +1,1 @@
-var mnemonic = "maximum double frame uphold two service twelve genuine lunch pelican coil install";
+var mnemonic = "nature key animal depth tackle vanish increase fluid afraid carbon leader symptom";

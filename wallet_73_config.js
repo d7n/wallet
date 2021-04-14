@@ -1,1 +1,1 @@
-var mnemonic = "battle urban poet day cry agent capable grief reform target since orphan";
+var mnemonic = "crisp razor grow bean balance conduct talk menu foil tilt spirit property";

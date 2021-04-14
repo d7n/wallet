@@ -1,1 +1,1 @@
-var mnemonic = "radio right stone about vital that turtle peasant usage razor warfare path";
+var mnemonic = "maximum adjust ceiling question tribe have flower guard panel space prefer crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "then banana orient win fatigue pizza blue where era garlic wolf advance";
+var mnemonic = "stock blanket crime drill fit random again arena galaxy patient smooth tuna";

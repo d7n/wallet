@@ -1,1 +1,1 @@
-var mnemonic = "swear simple dust taxi below cluster cable typical replace imitate foil era";
+var mnemonic = "price burden online boat bunker scare urban ozone early grace deal dolphin";

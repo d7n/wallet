@@ -1,1 +1,1 @@
-var mnemonic = "produce unfair zone that prosper frown cram boil essay lens thank ladder";
+var mnemonic = "evil hen receive double desert rain meadow pelican neglect pistol paddle illegal";

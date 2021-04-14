@@ -1,1 +1,1 @@
-var mnemonic = "build olive provide grief claw coast hurt ignore merit refuse tooth nut";
+var mnemonic = "vibrant suit sniff always impact orange butter surface video invest miss breeze";

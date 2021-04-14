@@ -1,1 +1,1 @@
-var mnemonic = "diary piece receive elite crystal rely hospital radar frozen gift like please";
+var mnemonic = "dice anger shed reopen tiger ranch cream spray mechanic always stairs visit";

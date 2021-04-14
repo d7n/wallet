@@ -1,1 +1,1 @@
-var mnemonic = "inquiry they lucky unfair find roast amount uncle version photo honey dismiss";
+var mnemonic = "blood possible hurry panther plastic latin syrup mobile friend lumber network target";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor century famous fence derive salon skin motion feed tired resemble parrot";
+var mnemonic = "marble zone purse lawsuit orange shuffle tiger ivory name crater permit april";

@@ -1,1 +1,1 @@
-var mnemonic = "update defense game twist saddle electric north cheese priority vanish lion catalog";
+var mnemonic = "main fish owner toe witness nasty sheriff remember float saddle scan pitch";

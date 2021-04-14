@@ -1,1 +1,1 @@
-var mnemonic = "shy canvas escape aerobic admit banana foil fish original intact ski trash";
+var mnemonic = "awesome pledge tilt pact monitor giant eye donate ostrich eternal enable side";

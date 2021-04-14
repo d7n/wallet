@@ -1,1 +1,1 @@
-var mnemonic = "disease crack leisure museum ready humble air ten ice property violin notable";
+var mnemonic = "erupt unable strike tribe liberty ask battle bring vacuum direct toward major";

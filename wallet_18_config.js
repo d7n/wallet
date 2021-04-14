@@ -1,1 +1,1 @@
-var mnemonic = "casual gentle segment avocado inner pilot shed tragic room element buzz axis";
+var mnemonic = "barrel blanket canyon youth embark amateur sorry awkward enact try popular unique";

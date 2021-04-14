@@ -1,1 +1,1 @@
-var mnemonic = "remember genuine fork helmet roast rough oblige nature pony need glimpse rich";
+var mnemonic = "public credit picture ill crash pelican avocado person catch chimney document gossip";

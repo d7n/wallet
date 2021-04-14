@@ -1,1 +1,1 @@
-var mnemonic = "element oven accident awake quote chalk salmon slow entry spoil arrive into";
+var mnemonic = "sad faith carbon goddess cheese soup hunt question release coil voyage drastic";

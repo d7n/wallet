@@ -1,1 +1,1 @@
-var mnemonic = "depart lonely fuel lunar symptom slide grid math best lawn original prefer";
+var mnemonic = "drive ladder cake census artwork pole angry luggage brief year bicycle silver";

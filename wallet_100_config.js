@@ -1,1 +1,1 @@
-var mnemonic = "turkey rubber wagon favorite stay million dog identify prepare jaguar upset pottery";
+var mnemonic = "lady sad glance train buffalo mixed label idle zone express toast measure";

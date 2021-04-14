@@ -1,1 +1,1 @@
-var mnemonic = "immense blur quick hint barely village attack prepare file mean story start";
+var mnemonic = "volcano total stamp unique insect bulk stool bounce crane measure life test";

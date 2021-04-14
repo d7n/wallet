@@ -1,1 +1,1 @@
-var mnemonic = "rhythm squeeze inspire airport summer risk unusual muffin clever indoor forest duck";
+var mnemonic = "steel diagram control object day want pencil cotton birth photo topple bus";

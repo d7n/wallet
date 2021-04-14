@@ -1,1 +1,1 @@
-var mnemonic = "mixture settle between kit fence comic series pattern chapter cruel sibling audit";
+var mnemonic = "climb quantum soccer because boost photo treat globe mammal wonder shoulder wagon";

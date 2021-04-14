@@ -1,1 +1,1 @@
-var mnemonic = "title adult train hazard section fortune wing tilt book decrease wet sense";
+var mnemonic = "uniform this add innocent abandon peace motor drip gym hobby toast bronze";

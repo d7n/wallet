@@ -1,1 +1,1 @@
-var mnemonic = "normal project flush print cable cloth shadow verify wonder reveal mixture average";
+var mnemonic = "melody resemble couch flip tilt circle faculty dawn unlock fun rhythm evidence";

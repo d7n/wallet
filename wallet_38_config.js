@@ -1,1 +1,1 @@
-var mnemonic = "join pelican stumble ivory quiz escape magnet music access dream entire remain";
+var mnemonic = "argue repair civil sort slab bean debate february pretty faith swarm fine";

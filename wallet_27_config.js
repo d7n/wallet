@@ -1,1 +1,1 @@
-var mnemonic = "orient news very vote brass galaxy arch girl option vivid junior salute";
+var mnemonic = "pistol pulse promote scatter vanish course resist vibrant begin call add genius";

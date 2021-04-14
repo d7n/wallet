@@ -1,1 +1,1 @@
-var mnemonic = "year regular toast equal raven priority level remove oxygen loan price youth";
+var mnemonic = "enable hedgehog cushion oppose deliver seven area tourist ancient jacket super session";

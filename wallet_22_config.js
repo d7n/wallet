@@ -1,1 +1,1 @@
-var mnemonic = "ceiling leave problem stomach bag during strong teach diary board receive hurdle";
+var mnemonic = "weapon own believe pottery report point toward museum exhaust brisk payment leader";

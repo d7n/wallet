@@ -1,1 +1,1 @@
-var mnemonic = "talk crisp false combine section pistol bubble ostrich hunt inner body prosper";
+var mnemonic = "wave myself frame taxi kit space tonight left glare gentle chronic violin";

@@ -1,1 +1,1 @@
-var mnemonic = "ski series gown nation filter under gasp crime member hint process bone";
+var mnemonic = "assault help cactus spring bulb exhibit upon bracket crawl fringe pipe sibling";

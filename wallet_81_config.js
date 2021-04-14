@@ -1,1 +1,1 @@
-var mnemonic = "word dizzy autumn pelican leave wreck cloud subway drive wall prison excess";
+var mnemonic = "year smooth say lounge spike degree magic pig buffalo jacket sorry predict";

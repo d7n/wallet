@@ -1,1 +1,1 @@
-var mnemonic = "novel enable sun soon dose much advance main crowd deputy sorry zebra";
+var mnemonic = "diesel file prepare draft picture network interest able remain help favorite profit";

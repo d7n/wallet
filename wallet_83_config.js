@@ -1,1 +1,1 @@
-var mnemonic = "weasel task vague scrub thank nephew hint thought surface saddle change devote";
+var mnemonic = "depth audit improve knee soldier timber nominee trap tired direct inflict ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten parent intact hope vacant october mixture invest extra apart pottery sheriff";
+var mnemonic = "best network grunt scorpion canal shaft onion stuff carpet essence fan ethics";

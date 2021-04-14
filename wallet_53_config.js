@@ -1,1 +1,1 @@
-var mnemonic = "use arrive budget canoe brisk scatter glimpse spread bronze sugar verb sustain";
+var mnemonic = "faith black arrow bless pair razor radar better brisk erode fat wire";

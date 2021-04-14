@@ -1,1 +1,1 @@
-var mnemonic = "tilt jungle fog yard razor winter rookie uncover trust crazy birth jelly";
+var mnemonic = "zebra blood cheese mutual candy century cash glow setup harsh harvest unusual";

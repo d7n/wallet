@@ -1,1 +1,1 @@
-var mnemonic = "trigger depth mirror end coffee kid quarter scout what icon say scissors";
+var mnemonic = "great saddle resist barely tourist click nuclear arena attract alarm enforce cycle";

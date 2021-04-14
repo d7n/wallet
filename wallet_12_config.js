@@ -1,1 +1,1 @@
-var mnemonic = "replace choose meat mixed genuine crane cable cupboard harvest pact confirm phone";
+var mnemonic = "explain thumb live drive tiger start yellow bomb police enrich enable shock";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn fresh quantum pond hold inject border sock lion ecology grid pair";
+var mnemonic = "tent monster clerk suit clerk credit file dog floor shrug share flee";

@@ -1,1 +1,1 @@
-var mnemonic = "able boring august derive head start nasty toy memory protect debris that";
+var mnemonic = "ahead system confirm acquire buzz grass monster palace alarm regular friend paddle";

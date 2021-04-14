@@ -1,1 +1,1 @@
-var mnemonic = "unusual weasel page mountain laundry final grape bright north cash claim damp";
+var mnemonic = "taxi obey parade slow nasty diary settle iron fan forget vessel frozen";

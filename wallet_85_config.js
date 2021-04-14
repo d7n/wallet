@@ -1,1 +1,1 @@
-var mnemonic = "civil flock thing target trumpet age lyrics pass soon moral giant debate";
+var mnemonic = "proof lobster expect jacket wolf remain romance luggage waste upon jaguar celery";

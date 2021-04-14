@@ -1,1 +1,1 @@
-var mnemonic = "trim raven speak crash project session change fuel test cable muscle topic";
+var mnemonic = "split index exchange purse obvious picnic rural there disease century gauge calm";

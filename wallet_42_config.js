@@ -1,1 +1,1 @@
-var mnemonic = "walnut panther gold ankle lunar faint weapon sort fox blind cream clap";
+var mnemonic = "interest knee filter chalk history hello pride top flash hospital exist radio";

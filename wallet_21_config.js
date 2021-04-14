@@ -1,1 +1,1 @@
-var mnemonic = "ketchup joy click senior hello bargain witness arrive cart work cricket jacket";
+var mnemonic = "again plastic catch fabric arrange want photo project garden universe eagle quarter";

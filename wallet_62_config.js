@@ -1,1 +1,1 @@
-var mnemonic = "horror ill despair sign either text barrel evidence powder wheel royal arch";
+var mnemonic = "lava define gift else gun capable desk possible swap execute sheriff option";

@@ -1,1 +1,1 @@
-var mnemonic = "deal flower render empty they cool exhaust assist resemble join quantum traffic";
+var mnemonic = "bulk lake riot better strategy above enemy escape orbit skin slice wrong";

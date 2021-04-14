@@ -1,1 +1,1 @@
-var mnemonic = "measure husband bring talent bargain extend nature very sea play badge couch";
+var mnemonic = "doll seek picnic car essence cat bird drip size title ordinary slender";

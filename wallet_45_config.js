@@ -1,1 +1,1 @@
-var mnemonic = "exhaust live praise busy anxiety uncle earth soon awake uncle shell decade";
+var mnemonic = "rocket oppose spot neglect budget slight token birth menu input fine timber";

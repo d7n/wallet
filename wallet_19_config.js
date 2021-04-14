@@ -1,1 +1,1 @@
-var mnemonic = "never alpha hope impact again ice tornado above autumn zone tool exile";
+var mnemonic = "judge medal medal never retreat sing bulk receive evil merit home february";

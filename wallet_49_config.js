@@ -1,1 +1,1 @@
-var mnemonic = "frozen unknown entry depend beach garbage never magic rally hour myth squeeze";
+var mnemonic = "crunch genius pioneer depth civil survey captain page ocean parade chest company";

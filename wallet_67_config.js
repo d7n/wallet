@@ -1,1 +1,1 @@
-var mnemonic = "toilet fluid kidney hammer sadness describe allow flavor bag chase laugh pave";
+var mnemonic = "civil video topple bus obvious wall rug swap glass parent enrich trumpet";

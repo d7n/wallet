@@ -1,1 +1,1 @@
-var mnemonic = "come coyote helmet naive banner wrong rather sad weather lemon grow faculty";
+var mnemonic = "return spike update senior hazard camera way arch advance spring account village";

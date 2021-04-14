@@ -1,1 +1,1 @@
-var mnemonic = "anxiety bone verb either pipe seat govern olympic media eager when forum";
+var mnemonic = "sheriff coyote casino foil fatigue segment term stem lab panel joke dirt";

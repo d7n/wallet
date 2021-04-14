@@ -1,1 +1,1 @@
-var mnemonic = "topple curve fold nut couch prefer battle denial rug upset dwarf own";
+var mnemonic = "crime hill seven educate main elephant dash loyal effort creek lady above";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk confirm motor cable thumb industry because target rapid below mad dragon";
+var mnemonic = "erase jealous sunny rely long actress city chicken solar glad good daring";

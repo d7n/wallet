@@ -1,1 +1,1 @@
-var mnemonic = "resemble level fire deal horse fly stomach voyage move green soccer glide";
+var mnemonic = "good dial dune follow attack critic cannon popular space coach accuse glide";

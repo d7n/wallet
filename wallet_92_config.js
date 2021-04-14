@@ -1,1 +1,1 @@
-var mnemonic = "match someone brother toast win raven fun slam proof estate better seminar";
+var mnemonic = "close music pig minimum script breeze salon various oblige palace impulse fan";

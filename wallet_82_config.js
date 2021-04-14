@@ -1,1 +1,1 @@
-var mnemonic = "toward gift bean humor dial noise rebel crane peanut squeeze library physical";
+var mnemonic = "vintage ramp style month family cherry mixture heart tell twelve hedgehog actor";

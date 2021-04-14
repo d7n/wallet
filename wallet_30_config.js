@@ -1,1 +1,1 @@
-var mnemonic = "voyage rib toddler present book there elbow tail stand kiss quit fruit";
+var mnemonic = "orphan cute proof symptom mystery enhance true liberty parent put amused solid";

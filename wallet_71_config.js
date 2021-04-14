@@ -1,1 +1,1 @@
-var mnemonic = "spy minute speed rocket skill soup grow fortune material senior two fatigue";
+var mnemonic = "hurry raw congress shrimp soon jaguar skate hill glove zone civil carbon";

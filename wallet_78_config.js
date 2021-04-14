@@ -1,1 +1,1 @@
-var mnemonic = "next paper festival grit buzz runway slam tissue cargo ostrich endorse toward";
+var mnemonic = "differ phone image violin pride siege mixed edge brown dress smart habit";

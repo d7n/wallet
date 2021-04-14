@@ -1,1 +1,1 @@
-var mnemonic = "find hat manual remind crisp middle cloth bench spend buyer switch gesture";
+var mnemonic = "final pudding vibrant sense version drill catalog success warm fury inch celery";

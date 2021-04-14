@@ -1,1 +1,1 @@
-var mnemonic = "cash appear stand bridge debris robust void gasp oyster decline truly list";
+var mnemonic = "gorilla taste seminar between tooth toward scene budget key moon bulk street";

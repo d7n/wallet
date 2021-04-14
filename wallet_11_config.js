@@ -1,1 +1,1 @@
-var mnemonic = "sleep diet wolf box duty tuition napkin twist draw flash wave slender";
+var mnemonic = "ordinary bring royal truck medal letter short world lens immune private bless";

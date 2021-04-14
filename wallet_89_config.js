@@ -1,1 +1,1 @@
-var mnemonic = "educate move protect narrow melody pride mail mention usage owner movie end";
+var mnemonic = "ridge arctic staff race dice mean glide dynamic boring stone more winner";

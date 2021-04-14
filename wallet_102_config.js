@@ -1,1 +1,1 @@
-var mnemonic = "observe wine destroy legal crash fantasy dragon staff galaxy inherit quality enough";
+var mnemonic = "gadget slogan explain smoke sausage chase cancel busy advance inside unfold age";

@@ -1,1 +1,1 @@
-var mnemonic = "trash clock mean drama fashion chimney doll season endless friend illegal web";
+var mnemonic = "upper sample cement pilot divorce camp suggest decline note endorse speak cheese";

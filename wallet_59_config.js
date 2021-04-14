@@ -1,1 +1,1 @@
-var mnemonic = "basic oppose one repeat want mother accuse very hundred heart giraffe dog";
+var mnemonic = "cigar top destroy slow cost resist shift barrel buddy final mechanic carbon";

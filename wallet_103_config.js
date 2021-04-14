@@ -1,1 +1,1 @@
-var mnemonic = "version wish enrich maximum section rare jeans raise net result loan history";
+var mnemonic = "paddle whip hub wagon weird practice absorb grape maximum hole wash curious";

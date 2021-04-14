@@ -1,1 +1,1 @@
-var mnemonic = "grocery chunk hope thing zebra artwork report forward flame fat piece ritual";
+var mnemonic = "slogan purity obvious street circle electric spin early sell tunnel together marble";

@@ -1,1 +1,1 @@
-var mnemonic = "make noble violin banner tree enhance woman organ trigger auto jaguar lab";
+var mnemonic = "meadow tree sausage pact trim rough poet high dune bacon walnut truck";

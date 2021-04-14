@@ -1,1 +1,1 @@
-var mnemonic = "mention ramp ten escape meat rival clarify find rice trumpet myself shrug";
+var mnemonic = "weapon zoo open strike honey supreme orchard family fit come brisk custom";

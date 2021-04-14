@@ -1,1 +1,1 @@
-var mnemonic = "velvet destroy wealth bottom slow peasant monitor oblige summer radar broom family";
+var mnemonic = "keen hungry airport make track furnace jealous confirm frequent angry lazy silly";

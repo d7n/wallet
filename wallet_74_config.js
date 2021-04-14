@@ -1,1 +1,1 @@
-var mnemonic = "vivid region tone exclude sail satoshi talent shrug vibrant pond daring clog";
+var mnemonic = "bus thrive run calm cousin hard hockey north coast adult symptom puzzle";

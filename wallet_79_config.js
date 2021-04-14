@@ -1,1 +1,1 @@
-var mnemonic = "hope truth extra draft spread prepare cactus cart silver luxury usual minor";
+var mnemonic = "damp hover sustain under knife valid skirt frog say more truly friend";

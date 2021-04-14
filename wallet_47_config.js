@@ -1,1 +1,1 @@
-var mnemonic = "route vault eager science guard reason cruel use absent capable invest poverty";
+var mnemonic = "slow alpha hobby obvious cruel host glue brick enrich install risk inform";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup chicken behind evidence car bring maid stable evidence earn wash call";
+var mnemonic = "melt gentle radio little member bicycle skin cream piece chalk today cost";

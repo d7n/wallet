@@ -1,1 +1,1 @@
-var mnemonic = "volume safe flower history exchange scan trade top over fan boil ready";
+var mnemonic = "layer minor virtual sting essence divorce fish damage weasel split always bid";

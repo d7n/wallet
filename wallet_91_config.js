@@ -1,1 +1,1 @@
-var mnemonic = "problem stone hotel guilt sunny crisp sausage awkward exercise stumble write discover";
+var mnemonic = "enforce argue dismiss output retreat crazy dice smoke soft burger leg multiply";

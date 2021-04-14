@@ -1,1 +1,1 @@
-var mnemonic = "town okay citizen weekend pond together dish cover arrow artwork inch jungle";
+var mnemonic = "chair dose already alien dish rose dinner nest buyer aim couch amazing";

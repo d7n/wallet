@@ -1,1 +1,1 @@
-var mnemonic = "license lounge virtual fragile auction west husband idea crowd mistake sort coral";
+var mnemonic = "crime language twin coffee shoe decline pond labor recall merit carry inhale";

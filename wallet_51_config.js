@@ -1,1 +1,1 @@
-var mnemonic = "faculty wife window axis illegal grant lake tribe quote yellow main ten";
+var mnemonic = "salt sad stock nut moment trend cake focus century banana suit move";

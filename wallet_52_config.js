@@ -1,1 +1,1 @@
-var mnemonic = "turkey view execute attack figure venue web follow swing world romance man";
+var mnemonic = "conduct spice adapt initial library field cupboard forest quality hurdle derive fade";

@@ -1,1 +1,1 @@
-var mnemonic = "consider search model private decade uncover earth wood ceiling follow trend luxury";
+var mnemonic = "donate morning sphere appear midnight reject pool tobacco hybrid unveil empower clog";

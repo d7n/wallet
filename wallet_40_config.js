@@ -1,1 +1,1 @@
-var mnemonic = "flat hockey grab awful reopen found total foil surprise afraid rescue rug";
+var mnemonic = "update also smile flee design muscle soon outer real damage board off";

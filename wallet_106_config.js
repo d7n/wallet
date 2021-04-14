@@ -1,1 +1,1 @@
-var mnemonic = "heavy innocent race educate dial rubber feel size hollow relief rubber acquire";
+var mnemonic = "local advance announce speak fiber finger bike desert evidence rose spoil off";
