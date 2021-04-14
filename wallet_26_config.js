@@ -1,1 +1,1 @@
-var mnemonic = "circle loop weird home seat bright hidden gift exotic divide model glance";
+var mnemonic = "biology slight clog club need walnut sad list twin scrap bread goose";

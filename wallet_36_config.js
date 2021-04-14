@@ -1,1 +1,1 @@
-var mnemonic = "degree sphere immense crush because capital absorb hood orient lemon crouch teach";
+var mnemonic = "idle step cement basic useful senior mango butter carry butter earn reward";

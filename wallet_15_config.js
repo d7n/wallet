@@ -1,1 +1,1 @@
-var mnemonic = "legal vibrant era payment seminar fresh good split clarify smooth suspect limit";
+var mnemonic = "innocent club good habit biology design fog push wolf identify fantasy potato";

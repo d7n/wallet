@@ -1,1 +1,1 @@
-var mnemonic = "emotion frozen betray matrix swear already style acid notable brick tissue table";
+var mnemonic = "soap chief income diesel cute task brand race hurt differ affair spirit";

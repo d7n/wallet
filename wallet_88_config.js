@@ -1,1 +1,1 @@
-var mnemonic = "inquiry civil cover waste again negative forget vehicle learn practice outer bridge";
+var mnemonic = "figure there brother brown explain picnic aisle arrange skill spray off current";

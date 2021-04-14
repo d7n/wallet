@@ -1,1 +1,1 @@
-var mnemonic = "dream bind session normal rose knee direct torch plug tissue simple horn";
+var mnemonic = "host summer crumble fault process chuckle shaft caught review album debris crumble";

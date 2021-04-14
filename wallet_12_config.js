@@ -1,1 +1,1 @@
-var mnemonic = "inmate cinnamon tail old menu unfair field broccoli exclude skate legend box";
+var mnemonic = "tongue argue cook purpose grow tackle banana digital walnut spatial join ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "try quarter express mom soda pet session outer glad cave focus unknown";
+var mnemonic = "trust couple dilemma donor ginger addict aware man worry solution sudden again";

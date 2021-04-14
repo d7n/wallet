@@ -1,1 +1,1 @@
-var mnemonic = "bacon grape pulp tenant curtain team student debris crunch decrease primary youth";
+var mnemonic = "absurd sun vehicle kiss confirm immune payment latin law diagram funny olympic";

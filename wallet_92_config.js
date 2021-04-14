@@ -1,1 +1,1 @@
-var mnemonic = "butter near leisure flash trouble wall action ramp quarter organ legend wait";
+var mnemonic = "brain vessel purity trust sort exit ecology minimum giant clay stone doll";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran cactus supply vintage hamster tank leave drill poem amateur top amazing";
+var mnemonic = "uncover salmon vicious oven flip nerve glue cousin sword decorate gentle salt";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious hill skate marble runway drink canvas wear tourist scrap result tank";
+var mnemonic = "vendor draft legend pepper dentist wood relax friend favorite robot dutch oxygen";

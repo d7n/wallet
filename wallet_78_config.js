@@ -1,1 +1,1 @@
-var mnemonic = "fortune carbon able fringe naive actual problem damage blanket wire common awesome";
+var mnemonic = "child rally off page apple coil vivid fancy bread cream shadow typical";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm night liquid cheap zero bless enemy naive infant artwork comic kiss";
+var mnemonic = "scheme sad pretty false palm segment release damage cash above simple wink";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty narrow brother wagon program umbrella margin that logic cradle open diesel";
+var mnemonic = "soldier earn loan figure exist journey column good bulk rookie dolphin tell";

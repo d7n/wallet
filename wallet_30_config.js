@@ -1,1 +1,1 @@
-var mnemonic = "fold excite field kick moment sick force harvest measure whale steel manual";
+var mnemonic = "enter six jeans more cause digital student border rhythm insect father hair";

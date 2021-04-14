@@ -1,1 +1,1 @@
-var mnemonic = "heart adapt tortoise vapor husband steak angry rain nice avoid push treat";
+var mnemonic = "sustain rhythm violin true group nuclear garden come awkward image ecology round";

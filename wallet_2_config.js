@@ -1,1 +1,1 @@
-var mnemonic = "unveil steak chimney age topic slide fish evoke auto churn depend ritual";
+var mnemonic = "ensure bean popular someone worry wash tuition bundle giggle forward laugh refuse";

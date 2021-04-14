@@ -1,1 +1,1 @@
-var mnemonic = "loan web ready royal afraid model evoke demand lawsuit subject fade pear";
+var mnemonic = "pizza drum attend drum twelve craft honey few urban vote material mushroom";

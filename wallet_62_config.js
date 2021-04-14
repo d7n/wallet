@@ -1,1 +1,1 @@
-var mnemonic = "cradle valley offer equip business dilemma rate laptop embark theory lens chief";
+var mnemonic = "craft lab margin robust shock matter that fiction kangaroo also cupboard door";

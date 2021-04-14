@@ -1,1 +1,1 @@
-var mnemonic = "dawn usage giant subject frame ceiling hope raw gossip broom gold transfer";
+var mnemonic = "champion prepare lab toddler fiscal verify laptop hint toilet utility butter devote";

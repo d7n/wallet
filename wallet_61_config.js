@@ -1,1 +1,1 @@
-var mnemonic = "news fat age state ranch winter envelope over pigeon color soldier oak";
+var mnemonic = "impact whip intact envelope test alpha very turtle truly regret van dynamic";

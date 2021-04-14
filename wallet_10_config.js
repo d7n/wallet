@@ -1,1 +1,1 @@
-var mnemonic = "boss shy critic clay silly indoor predict drastic panel minor length evil";
+var mnemonic = "prepare usual put layer final buddy angle sister machine explain must gather";

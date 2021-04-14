@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo mandate legal universe square olympic obey project recycle answer general enrich";
+var mnemonic = "oak manage fabric nuclear stairs quote alarm eight prefer fringe catch super";

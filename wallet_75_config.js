@@ -1,1 +1,1 @@
-var mnemonic = "assault month airport public doll retire claim response only life blush range";
+var mnemonic = "cost tongue humble sell believe perfect girl pelican lady secret devote echo";

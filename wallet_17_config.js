@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon rapid index emerge ocean lava squeeze link onion slab help leave";
+var mnemonic = "group rebuild tone blouse poverty girl penalty brief govern close mixture know";

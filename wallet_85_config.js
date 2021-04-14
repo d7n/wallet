@@ -1,1 +1,1 @@
-var mnemonic = "song giraffe memory belt smooth ancient accident bless toilet half sister misery";
+var mnemonic = "hurt love bonus slow ahead nice later sign smart grape trend ceiling";

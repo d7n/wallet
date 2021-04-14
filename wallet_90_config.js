@@ -1,1 +1,1 @@
-var mnemonic = "melody minute wide spell today income talk path absent dust symptom differ";
+var mnemonic = "sniff fork oval tongue valve flag occur dog chicken sea left canal";

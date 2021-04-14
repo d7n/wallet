@@ -1,1 +1,1 @@
-var mnemonic = "correct double deposit gate turn jewel steak fold spot sort butter panther";
+var mnemonic = "often multiply fabric dragon they much spring attack emotion lyrics another frost";

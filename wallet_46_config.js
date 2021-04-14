@@ -1,1 +1,1 @@
-var mnemonic = "keen ocean rocket food popular plastic coach piano play legend clutch turtle";
+var mnemonic = "ozone pilot task will force dust camp bunker elegant physical brand jump";

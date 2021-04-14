@@ -1,1 +1,1 @@
-var mnemonic = "repair vote ready blossom insane control indicate tree shine bone protect mesh";
+var mnemonic = "shoe detail alert tell emotion earn lonely ketchup vault boost cycle tag";

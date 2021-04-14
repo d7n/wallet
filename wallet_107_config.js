@@ -1,1 +1,1 @@
-var mnemonic = "vital gauge general nurse machine beef hazard neither poet train level nothing";
+var mnemonic = "fox small inspire skirt leaf pyramid obey dolphin now token chapter nose";

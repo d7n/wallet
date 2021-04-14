@@ -1,1 +1,1 @@
-var mnemonic = "jewel dumb start initial position mandate notice garbage bird switch catalog slab";
+var mnemonic = "gain eagle tooth bomb pigeon school polar notable fantasy obscure door immune";

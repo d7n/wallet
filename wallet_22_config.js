@@ -1,1 +1,1 @@
-var mnemonic = "keep motion private brother avoid donate live rocket scrap match unlock news";
+var mnemonic = "tired myth indicate bench daughter person rival orphan sleep canvas carpet disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger pistol arrest distance found zoo meadow slide believe release reward strong";
+var mnemonic = "media swear chalk hunt switch decorate upset sound knock beach dignity jewel";

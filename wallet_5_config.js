@@ -1,1 +1,1 @@
-var mnemonic = "honey media borrow car congress cannon reject seat soul vacuum december erase";
+var mnemonic = "inquiry machine cereal apple push someone total aim crew fit excite seed";

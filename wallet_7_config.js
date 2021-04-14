@@ -1,1 +1,1 @@
-var mnemonic = "theory now stage tennis change retreat region omit group gap quit soccer";
+var mnemonic = "record child work benefit width right oven pact silent grab cart theory";

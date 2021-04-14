@@ -1,1 +1,1 @@
-var mnemonic = "unveil embrace retreat major season buffalo cotton draw cricket october outside ring";
+var mnemonic = "media truly prevent inform spice usage idea true turn tomorrow amateur chat";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure ship found shadow pair give salmon metal observe prepare close celery";
+var mnemonic = "frequent wear nation man list bid crash build bicycle ritual sport sock";

@@ -1,1 +1,1 @@
-var mnemonic = "crew merry tomorrow wasp wrestle minute page mirror aunt tent trumpet angle";
+var mnemonic = "squirrel stomach grain path purchase bomb occur wear oil news whale utility";

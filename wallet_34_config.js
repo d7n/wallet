@@ -1,1 +1,1 @@
-var mnemonic = "pitch chest nice image fresh onion burger ladder lazy drastic rookie hope";
+var mnemonic = "violin thank nature mango simple citizen syrup father walnut possible eyebrow auto";

@@ -1,1 +1,1 @@
-var mnemonic = "select grab rocket wisdom wheel order near kite grow return nurse absurd";
+var mnemonic = "coast step voyage bridge snack ship depth kangaroo exchange human draw test";

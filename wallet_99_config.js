@@ -1,1 +1,1 @@
-var mnemonic = "indicate water survey clown confirm mix inmate note blossom salmon work bacon";
+var mnemonic = "rapid valley rookie item major fortune leg base rack arctic list pair";

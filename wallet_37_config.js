@@ -1,1 +1,1 @@
-var mnemonic = "pencil collect avocado lunch misery rhythm like tuition pig blood west castle";
+var mnemonic = "reject lounge dry budget clown effort slow focus orchard judge slim exhaust";

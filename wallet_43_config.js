@@ -1,1 +1,1 @@
-var mnemonic = "fun monkey margin hold genius spin genius bring inside business sight soccer";
+var mnemonic = "tide truly brass peanut vicious smoke between test carpet federal better suffer";

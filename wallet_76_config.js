@@ -1,1 +1,1 @@
-var mnemonic = "coil sure labor obtain cannon income tortoise town again satisfy until drip";
+var mnemonic = "else math have screen okay have sword beauty return target soap differ";

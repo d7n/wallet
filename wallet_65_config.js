@@ -1,1 +1,1 @@
-var mnemonic = "fossil genuine kid torch science fiber brass pave shuffle ignore lecture tip";
+var mnemonic = "amateur cry wise scrub strategy coffee more fiction find dwarf change fantasy";

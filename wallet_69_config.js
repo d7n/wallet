@@ -1,1 +1,1 @@
-var mnemonic = "upper sing decade course manage moon pony kingdom puzzle dentist legend joy";
+var mnemonic = "web only lecture result select giggle boss elephant approve trip retire cousin";

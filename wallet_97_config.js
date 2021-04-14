@@ -1,1 +1,1 @@
-var mnemonic = "vibrant penalty pet bottom train excuse absent cruel cloth visual pilot heavy";
+var mnemonic = "library banana quit patch year load book win wonder symbol attend remember";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit accuse ugly green puppy ramp hurdle expect taxi excess magnet truly";
+var mnemonic = "swear print lava impose bottom dolphin merry manage raw ivory ugly misery";

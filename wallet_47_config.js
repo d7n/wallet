@@ -1,1 +1,1 @@
-var mnemonic = "vapor man language work shallow host siren head prepare flight choice sick";
+var mnemonic = "sample memory detail swap predict machine churn devote zero cattle real minimum";

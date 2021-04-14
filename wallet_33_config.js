@@ -1,1 +1,1 @@
-var mnemonic = "gallery pond act error gospel fan say amazing left action employ spread";
+var mnemonic = "goose sustain kangaroo dove bunker pair boat belt warm wonder witness power";

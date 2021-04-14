@@ -1,1 +1,1 @@
-var mnemonic = "daring syrup believe educate major skull pretty burger ship mistake short replace";
+var mnemonic = "rose project mask merit gorilla siren intact medal swarm enable submit charge";

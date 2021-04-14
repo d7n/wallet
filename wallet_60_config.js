@@ -1,1 +1,1 @@
-var mnemonic = "defy interest sell ripple screen east step leopard october arm vintage tomorrow";
+var mnemonic = "olympic radar giraffe myself devote gospel two fantasy quit sorry woman oak";

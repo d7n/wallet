@@ -1,1 +1,1 @@
-var mnemonic = "trigger setup shrimp hazard master sell era legal rare alarm grunt mean";
+var mnemonic = "defense forest execute equip horror chair trash blast wonder reflect bargain siege";

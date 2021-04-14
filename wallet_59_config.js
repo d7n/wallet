@@ -1,1 +1,1 @@
-var mnemonic = "sun athlete cloth town summer canal time unit pause material combine bone";
+var mnemonic = "chicken decrease shallow concert large effort chef syrup execute return pottery nothing";

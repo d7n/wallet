@@ -1,1 +1,1 @@
-var mnemonic = "dash blur physical hole indoor desk cube will humble brush canal hole";
+var mnemonic = "grain toilet bar minute staff miss rebel dune stool moon lizard night";

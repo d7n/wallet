@@ -1,1 +1,1 @@
-var mnemonic = "trend hard fog scale sweet judge clarify tunnel sleep aisle frog ring";
+var mnemonic = "magic twist festival noodle emotion model gate crowd valley bulk possible legal";

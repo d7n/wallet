@@ -1,1 +1,1 @@
-var mnemonic = "inflict auction soft ripple orbit spike opinion imitate meadow oblige flush original";
+var mnemonic = "museum coach version chuckle region quarter rigid chat boss steel echo evolve";

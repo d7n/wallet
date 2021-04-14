@@ -1,1 +1,1 @@
-var mnemonic = "actor damage they scale genre ankle control gift tackle play buddy barrel";
+var mnemonic = "more scrub elegant charge proof pole fitness orange kingdom view typical embrace";

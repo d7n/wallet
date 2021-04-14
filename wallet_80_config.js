@@ -1,1 +1,1 @@
-var mnemonic = "ethics finish inch toddler song sponsor magnet actress chalk innocent cereal brain";
+var mnemonic = "iron bus garage sport village era doctor course unfair way jacket empty";

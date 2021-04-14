@@ -1,1 +1,1 @@
-var mnemonic = "scene achieve seminar holiday risk clutch grass hunt quick guilt name above";
+var mnemonic = "truth odor resemble unknown list you fresh donor tilt page occur kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "radio wear apology leave thumb spirit win lazy devote small venue pink";
+var mnemonic = "fresh legend urge shop danger decrease margin decrease room size polar appear";

@@ -1,1 +1,1 @@
-var mnemonic = "patch slice lesson balcony focus myth cabin quote village minimum tent lake";
+var mnemonic = "find deer fruit awake believe embark wire dust suffer cereal female argue";

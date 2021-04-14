@@ -1,1 +1,1 @@
-var mnemonic = "begin airport develop diet aisle hint gossip position copper donate rally subject";
+var mnemonic = "cruel bargain gift uncle minute cabbage anchor transfer coconut gloom noodle visual";

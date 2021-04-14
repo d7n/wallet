@@ -1,1 +1,1 @@
-var mnemonic = "deliver scan hurry guide prize scrap wife music small put shoe air";
+var mnemonic = "lecture sure stamp myself grow apart outer tool vivid physical notice margin";

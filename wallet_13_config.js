@@ -1,1 +1,1 @@
-var mnemonic = "bind arrive meat cherry fold soul plunge angry ball pink travel good";
+var mnemonic = "trash garden outside ride caught faculty horse search merit creek ramp trim";

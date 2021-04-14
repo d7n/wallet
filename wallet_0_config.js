@@ -1,1 +1,1 @@
-var mnemonic = "square soccer cage bullet abstract tilt boost bread cube naive used orchard";
+var mnemonic = "obvious project thumb scheme junk misery critic kiwi exhibit tape please rely";

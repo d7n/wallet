@@ -1,1 +1,1 @@
-var mnemonic = "laptop hood reopen cheap imitate insect antique tunnel relax code clerk gym";
+var mnemonic = "iron dice obvious ensure tide square subject shift human gospel pilot oven";

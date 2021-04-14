@@ -1,1 +1,1 @@
-var mnemonic = "mechanic you pyramid celery slab dinner work wrap peace eye gallery athlete";
+var mnemonic = "pigeon bid muscle acquire govern birth luggage slender praise lemon debate muffin";

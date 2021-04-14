@@ -1,1 +1,1 @@
-var mnemonic = "cement sport subject alcohol claim bring alpha resist fun unique you legend";
+var mnemonic = "fox convince desk galaxy truly erode item math business orient card wool";

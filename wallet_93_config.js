@@ -1,1 +1,1 @@
-var mnemonic = "kick ready ugly disagree ready gentle virus manual sauce measure banner ensure";
+var mnemonic = "rent jelly pepper brother lunch eagle quick motor hero lazy cousin travel";

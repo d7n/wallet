@@ -1,1 +1,1 @@
-var mnemonic = "glance oblige senior grit cupboard crazy bind guard hurt throw potato road";
+var mnemonic = "aisle analyst craft erupt click remember skirt boss zero castle onion genre";

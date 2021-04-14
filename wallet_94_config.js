@@ -1,1 +1,1 @@
-var mnemonic = "tuna sure collect relief illegal lemon silly purchase enlist casual rug sadness";
+var mnemonic = "ostrich hockey potato traffic sorry rabbit surface panther soup cancel angry make";

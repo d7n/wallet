@@ -1,1 +1,1 @@
-var mnemonic = "party steak manual social inmate device tooth season engine ridge snap question";
+var mnemonic = "vibrant impact clip radio follow resemble kite seed goddess clap valley there";

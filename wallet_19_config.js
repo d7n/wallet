@@ -1,1 +1,1 @@
-var mnemonic = "setup spirit hen coyote distance boy able cream document total erode nature";
+var mnemonic = "argue broom across seat when cover machine guess arrive submit neck liquid";

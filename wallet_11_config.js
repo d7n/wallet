@@ -1,1 +1,1 @@
-var mnemonic = "one senior evil identify slot canal object syrup matrix trial label range";
+var mnemonic = "lottery grain face lake tag rally size tide marriage remember height popular";

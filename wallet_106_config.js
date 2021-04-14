@@ -1,1 +1,1 @@
-var mnemonic = "fantasy nose slogan badge repeat hunt magic advice tennis silk favorite food";
+var mnemonic = "advance define pyramid before voice benefit glare inside hurdle mass kitchen series";

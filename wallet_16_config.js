@@ -1,1 +1,1 @@
-var mnemonic = "economy modify fabric margin alert begin bridge dose force tornado brick stay";
+var mnemonic = "produce regular legend skin memory trend fiction elder lawsuit plate light camera";

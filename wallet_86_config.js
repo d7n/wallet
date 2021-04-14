@@ -1,1 +1,1 @@
-var mnemonic = "release fury actual chunk identify twist school night deliver vendor loud guard";
+var mnemonic = "virtual idea label doll guilt move horse happy marine conduct receive december";

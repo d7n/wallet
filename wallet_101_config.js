@@ -1,1 +1,1 @@
-var mnemonic = "hawk risk cat soon rival spell exhibit rib infant kiwi sure flight";
+var mnemonic = "legend panel height random blur warm dress denial outside seven vast garden";

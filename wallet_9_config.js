@@ -1,1 +1,1 @@
-var mnemonic = "emerge modify deliver sword library sign machine chapter render daughter reform copper";
+var mnemonic = "human head cheese snake long symptom arena goose resource sting wire strike";

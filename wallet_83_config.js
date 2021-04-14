@@ -1,1 +1,1 @@
-var mnemonic = "term into renew donor bulk cereal already bird promote loyal gift demise";
+var mnemonic = "catalog van rough vault phrase race valid duck brain meadow fun problem";

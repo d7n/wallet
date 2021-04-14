@@ -1,1 +1,1 @@
-var mnemonic = "evoke stomach excess load bulb demise note affair taxi coconut legend affair";
+var mnemonic = "ski doll weasel parrot butter abuse another advance minute region elephant exhaust";
