@@ -1,1 +1,1 @@
-var mnemonic = "fresh salad loud crystal pilot uniform panic viable space raise protect sibling";
+var mnemonic = "puppy gown fox address ribbon duck fish level color calm twist bullet";

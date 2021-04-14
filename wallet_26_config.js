@@ -1,1 +1,1 @@
-var mnemonic = "purse diet milk misery coyote indicate object few below cost cereal amused";
+var mnemonic = "agree project shaft mad pair wreck case amused denial rifle explain forest";

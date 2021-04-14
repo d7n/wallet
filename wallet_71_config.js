@@ -1,1 +1,1 @@
-var mnemonic = "flip dentist slush leg diet major harsh foil idea book neither music";
+var mnemonic = "kidney pull smoke drama vault view mask aware that middle clever rigid";

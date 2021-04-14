@@ -1,1 +1,1 @@
-var mnemonic = "save term ship exercise empower monitor mother second fork timber buddy chaos";
+var mnemonic = "much brush domain disease chimney power govern cricket silly salt diamond reason";

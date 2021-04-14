@@ -1,1 +1,1 @@
-var mnemonic = "tone ghost hard hotel silent snow axis bounce option luggage blast voice";
+var mnemonic = "erase calm front capital pet shield ketchup supply birth insect oil cousin";

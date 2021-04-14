@@ -1,1 +1,1 @@
-var mnemonic = "pink matter thank tray craft time rhythm tuition excite equip walk drift";
+var mnemonic = "royal brick clap elephant shed panel soft escape abuse mobile faith trim";

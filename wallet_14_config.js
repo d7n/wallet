@@ -1,1 +1,1 @@
-var mnemonic = "market venture behind flat place consider annual bitter pledge spray humble doll";
+var mnemonic = "undo lens sausage stage hello shadow short slim spot plug scatter walk";

@@ -1,1 +1,1 @@
-var mnemonic = "boss grain resemble oblige genuine rib engage type never digital model team";
+var mnemonic = "resist desert bargain material weasel approve pretty minimum visual buddy wrist slam";

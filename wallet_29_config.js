@@ -1,1 +1,1 @@
-var mnemonic = "powder tilt miracle clock unveil sample voice initial cat accident replace ask";
+var mnemonic = "monitor shift orange sport team nasty brisk borrow version receive will decide";

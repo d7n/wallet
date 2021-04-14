@@ -1,1 +1,1 @@
-var mnemonic = "crumble couple rabbit dirt approve melt zebra unfair typical mixed cabin teach";
+var mnemonic = "merit kitten found wisdom kind exhaust rail rude impose wolf aisle ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "powder rescue suggest police dynamic rigid organ deer recipe dad dilemma attend";
+var mnemonic = "knock pulse medal crush jacket sea effort inform pony census give verb";

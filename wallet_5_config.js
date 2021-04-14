@@ -1,1 +1,1 @@
-var mnemonic = "practice grocery kangaroo style chunk proud shoulder foam spike enjoy tribe crash";
+var mnemonic = "old inflict afford stone crack car camera diamond sting include cat joy";

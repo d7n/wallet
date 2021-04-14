@@ -1,1 +1,1 @@
-var mnemonic = "grow occur family demand knife wait demise forest liberty artist now spell";
+var mnemonic = "earn pretty grape junk portion useful suspect park virus describe knife poverty";

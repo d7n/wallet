@@ -1,1 +1,1 @@
-var mnemonic = "thumb youth risk planet select primary poem devote evil lion scale setup";
+var mnemonic = "disease law damage brick tunnel explain cry fire test vanish hundred winner";

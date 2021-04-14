@@ -1,1 +1,1 @@
-var mnemonic = "train memory flush eagle pilot nurse setup fatigue into taxi present avoid";
+var mnemonic = "maze dirt canvas stage eagle vocal puppy parent seven rack brass update";

@@ -1,1 +1,1 @@
-var mnemonic = "setup tragic ride wasp blouse situate airport rack tongue mesh monkey pride";
+var mnemonic = "sunny recipe shaft filter ask couple stone leaf wall observe fresh oven";

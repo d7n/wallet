@@ -1,1 +1,1 @@
-var mnemonic = "neck end mirror frozen fantasy theory sniff success bomb digital grace ankle";
+var mnemonic = "tank help clean news forget muffin rate fit tower peanut forget yellow";

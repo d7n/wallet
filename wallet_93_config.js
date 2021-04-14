@@ -1,1 +1,1 @@
-var mnemonic = "orient nominee stage fringe voice maid stairs home elevator utility ritual uphold";
+var mnemonic = "one cost father distance between goat quarter love knife during ready crush";

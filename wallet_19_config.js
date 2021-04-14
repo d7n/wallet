@@ -1,1 +1,1 @@
-var mnemonic = "acid left solve gold shy toddler kitten use pudding tank daughter boost";
+var mnemonic = "rescue sock amount claim humble latin buddy february survey ritual acquire brisk";

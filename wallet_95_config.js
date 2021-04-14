@@ -1,1 +1,1 @@
-var mnemonic = "modify topple dog achieve isolate post farm select visit head company fiscal";
+var mnemonic = "whisper length eager mushroom leader elite second large replace twelve fat loyal";

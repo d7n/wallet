@@ -1,1 +1,1 @@
-var mnemonic = "drum quality ill desk outdoor lunar spirit engine mail genre capable fiscal";
+var mnemonic = "split craft calm favorite embrace struggle window loud creek bubble cousin couch";

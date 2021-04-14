@@ -1,1 +1,1 @@
-var mnemonic = "fish wage frown firm level rural reform card adjust choice tennis indoor";
+var mnemonic = "end rate tail sponsor consider turtle sentence world ivory original fish history";

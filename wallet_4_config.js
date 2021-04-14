@@ -1,1 +1,1 @@
-var mnemonic = "bacon void elephant office timber flush oak thank wrestle below lunch identify";
+var mnemonic = "snake parade bracket caught law invite alien term prosper mosquito pulp aunt";

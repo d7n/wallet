@@ -1,1 +1,1 @@
-var mnemonic = "exist barrel melody goddess margin crunch riot idea mom friend drift brief";
+var mnemonic = "solution nerve tray sea excuse prison avoid tail smooth provide apple wrap";

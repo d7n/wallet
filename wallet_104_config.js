@@ -1,1 +1,1 @@
-var mnemonic = "clerk language bulb woman bitter iron crop title claim neck vivid baby";
+var mnemonic = "walk summer grit fame spike transfer obscure until tenant pole finish eternal";

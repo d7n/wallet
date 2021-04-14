@@ -1,1 +1,1 @@
-var mnemonic = "code milk bar element edge salon jewel know weather since aisle gossip";
+var mnemonic = "crush put version garage frost suspect sleep purse hurt virtual insane large";

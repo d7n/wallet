@@ -1,1 +1,1 @@
-var mnemonic = "head fruit glass crew essay town detect check family combine two hobby";
+var mnemonic = "arrange squirrel sunny couple country this aspect churn donate cabin vanish tuna";

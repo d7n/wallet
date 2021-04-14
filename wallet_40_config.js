@@ -1,1 +1,1 @@
-var mnemonic = "casino library play lumber buffalo frost unfair team nuclear glow claim whip";
+var mnemonic = "jelly clap poem fix tourist shiver toss man moral leg error lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "load dynamic bundle force census choose afford smoke security aisle young mushroom";
+var mnemonic = "move sniff skate income right build oxygen quiz fury empower dinosaur wild";

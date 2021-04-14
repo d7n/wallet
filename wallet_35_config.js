@@ -1,1 +1,1 @@
-var mnemonic = "segment nation disorder pill author glimpse suggest grab into drastic monster hurdle";
+var mnemonic = "limb switch helmet pass canal path error entry whisper define learn warm";

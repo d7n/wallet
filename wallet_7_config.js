@@ -1,1 +1,1 @@
-var mnemonic = "online photo ensure oven depart cereal symptom stable loyal group federal used";
+var mnemonic = "special poverty visual job west island awkward attract focus oppose club stable";

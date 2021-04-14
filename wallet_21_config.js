@@ -1,1 +1,1 @@
-var mnemonic = "radio credit enact zoo depth slot view fever student learn current clutch";
+var mnemonic = "rice air mutual kiwi warm foot science region loud trash island opera";

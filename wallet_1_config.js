@@ -1,1 +1,1 @@
-var mnemonic = "opinion wrap inmate loud release promote chat arrow adapt human cat sword";
+var mnemonic = "agree ancient lemon meadow country property shoulder alone soul cook garlic toward";

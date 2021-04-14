@@ -1,1 +1,1 @@
-var mnemonic = "certain weird grant sport warm office slender pupil dry digital season ahead";
+var mnemonic = "tennis grant liar boil wisdom august knock destroy regret design love screen";

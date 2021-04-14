@@ -1,1 +1,1 @@
-var mnemonic = "tiny live medal unique medal energy asthma enlist voice hen diet stamp";
+var mnemonic = "until spawn modify language region sauce industry equal cloud soft galaxy brother";

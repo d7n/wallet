@@ -1,1 +1,1 @@
-var mnemonic = "issue elevator damp slide defense ribbon notice now claim giant topic check";
+var mnemonic = "text receive joke scare exact expose hundred simple cover short teach boy";

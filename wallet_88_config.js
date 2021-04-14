@@ -1,1 +1,1 @@
-var mnemonic = "prosper slice share metal matrix goose sudden private energy latin battle great";
+var mnemonic = "wrong concert twenty cage awesome board grit foam volcano matrix nominee square";

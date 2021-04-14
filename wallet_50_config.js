@@ -1,1 +1,1 @@
-var mnemonic = "have wool business warrior link join push rally survey brick agent culture";
+var mnemonic = "blind people eyebrow muscle reject obvious all vote true gorilla crack peasant";

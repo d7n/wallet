@@ -1,1 +1,1 @@
-var mnemonic = "lyrics logic park crazy tell expand replace sphere airport recipe artefact imitate";
+var mnemonic = "raven purpose hazard bunker bid around receive enrich school heart horse tattoo";

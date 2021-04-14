@@ -1,1 +1,1 @@
-var mnemonic = "deny car involve exclude city polar situate return page before dentist obtain";
+var mnemonic = "mom diary enough bright mimic satisfy famous penalty forward weird pig unit";

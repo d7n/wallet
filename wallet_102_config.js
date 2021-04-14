@@ -1,1 +1,1 @@
-var mnemonic = "menu walk weather analyst original decorate fall neglect broccoli hobby disagree finger";
+var mnemonic = "dog hamster garment alien nothing boss steel arrive flash cook joke buzz";

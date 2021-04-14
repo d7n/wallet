@@ -1,1 +1,1 @@
-var mnemonic = "exotic leader run potato second rally imitate reopen dentist chef abandon slam";
+var mnemonic = "snake dad client load naive mandate fee mask skull huge crystal myself";

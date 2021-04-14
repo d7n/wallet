@@ -1,1 +1,1 @@
-var mnemonic = "sing armor boring ivory sting claim patrol erode stable spell autumn float";
+var mnemonic = "jacket rabbit pioneer bird dune brush lazy identify sting copper inform lumber";

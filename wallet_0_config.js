@@ -1,1 +1,1 @@
-var mnemonic = "curious sad dutch host wish despair bread expose shed shove action fluid";
+var mnemonic = "patch hurt celery sentence orchard mango slogan brass amateur switch illness onion";

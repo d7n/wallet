@@ -1,1 +1,1 @@
-var mnemonic = "breeze income rocket coast federal prepare sunny strategy rabbit menu vast foster";
+var mnemonic = "battle velvet adult again jeans invite chimney strong shy meat jealous ship";

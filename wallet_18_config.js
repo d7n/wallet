@@ -1,1 +1,1 @@
-var mnemonic = "coyote certain behind rely quality cloth begin disagree concert upgrade silly trend";
+var mnemonic = "lounge debate satoshi jealous casual zone arrange waste mountain fog device useful";

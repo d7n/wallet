@@ -1,1 +1,1 @@
-var mnemonic = "dutch few much dilemma common control absorb drift tobacco lift three buddy";
+var mnemonic = "deny typical street pupil flavor atom dawn item lizard monkey arch gravity";

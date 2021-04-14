@@ -1,1 +1,1 @@
-var mnemonic = "used blast derive jump fit want age lucky scene track gauge defy";
+var mnemonic = "allow tunnel inch time card dolphin art bulb disorder casual oven empower";

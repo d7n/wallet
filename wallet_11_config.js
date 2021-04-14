@@ -1,1 +1,1 @@
-var mnemonic = "genre front slim fix city fix address outdoor list mean orchard loud";
+var mnemonic = "stone oven always lava birth list oyster behave unique muffin wonder tube";

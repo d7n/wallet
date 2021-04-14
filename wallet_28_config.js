@@ -1,1 +1,1 @@
-var mnemonic = "census promote six celery eight bread bridge spatial awkward friend order gesture";
+var mnemonic = "family cannon robot reduce above mother over welcome velvet steel student casual";

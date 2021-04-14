@@ -1,1 +1,1 @@
-var mnemonic = "error shine chair penalty stock steak sample noodle illness conduct doctor dawn";
+var mnemonic = "olive tumble vacuum vital deny onion library impulse jewel anxiety gentle cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "music before limit occur endorse ostrich knock aunt favorite develop city clip";
+var mnemonic = "tent clarify vicious crater spend mandate method sea urban because blanket syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "grab trim pass pulse visual pencil maze easily find lizard soul stone";
+var mnemonic = "shrug aunt inflict decrease kit dirt oblige timber undo excess staff speak";

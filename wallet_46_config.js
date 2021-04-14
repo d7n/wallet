@@ -1,1 +1,1 @@
-var mnemonic = "assist sand leopard unit upgrade turtle elite drama song diamond spot soda";
+var mnemonic = "tiny column frame forget run narrow myself junior lab key glue inherit";

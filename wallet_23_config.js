@@ -1,1 +1,1 @@
-var mnemonic = "adapt urban blush swarm concert talent beauty they local soon element cable";
+var mnemonic = "earth chuckle idea like month until wedding kid pitch poet frequent rice";

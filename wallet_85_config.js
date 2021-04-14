@@ -1,1 +1,1 @@
-var mnemonic = "member crisp drill mix plug chapter boost chef repair void dune index";
+var mnemonic = "door peace edge sport warfare spider festival donor connect brick soap question";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle million robot entry erode alert service smart broccoli fan waste fit";
+var mnemonic = "health parent bus gift garbage sing seat body comfort hazard place sun";

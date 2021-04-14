@@ -1,1 +1,1 @@
-var mnemonic = "panic clerk reform perfect mammal flight nice turn know cousin current leave";
+var mnemonic = "solar police monitor check trophy obscure control rule enlist hawk canal learn";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce alley butter boss science cluster essay pizza industry pear army nuclear";
+var mnemonic = "blood cheese inhale author attitude harsh ecology dance wait infant target judge";

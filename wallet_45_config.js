@@ -1,1 +1,1 @@
-var mnemonic = "private what immune jewel clog stable park inside elite basic artist adult";
+var mnemonic = "twelve giraffe divert vicious oxygen cloud scheme design agree gun ordinary middle";

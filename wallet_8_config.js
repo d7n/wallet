@@ -1,1 +1,1 @@
-var mnemonic = "around elephant venture satisfy culture pizza morning book universe life burden stick";
+var mnemonic = "comic option razor mandate finger assault filter switch flat lava shrug weapon";

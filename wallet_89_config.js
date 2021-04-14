@@ -1,1 +1,1 @@
-var mnemonic = "globe flock either doll control mistake exile pen sock rule child crouch";
+var mnemonic = "treat gift paddle family brand track cause lend stamp resource pigeon wood";

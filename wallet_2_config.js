@@ -1,1 +1,1 @@
-var mnemonic = "grace sound worth problem faith idea bird awful praise law obvious wink";
+var mnemonic = "source laugh buddy account coral scout student volcano lake february erosion victory";

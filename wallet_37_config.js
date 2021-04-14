@@ -1,1 +1,1 @@
-var mnemonic = "invest word bench trophy cheap annual amateur uphold prosper what fitness vital";
+var mnemonic = "tip lumber tape curtain thunder tape vendor carbon cake disorder supply immune";

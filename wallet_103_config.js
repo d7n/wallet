@@ -1,1 +1,1 @@
-var mnemonic = "glimpse edit magic approve attract float phone danger pumpkin select swarm riot";
+var mnemonic = "first mercy radio wasp unknown item acid seven trend chase annual clinic";

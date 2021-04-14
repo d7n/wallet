@@ -1,1 +1,1 @@
-var mnemonic = "smile degree kiss layer town intact solve hope matter broken anger repeat";
+var mnemonic = "three tray trophy rail capital humor glory decade puzzle civil noodle wrong";

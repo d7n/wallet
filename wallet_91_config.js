@@ -1,1 +1,1 @@
-var mnemonic = "start magic soap dog armed feed odor end wealth capital clap odor";
+var mnemonic = "vacant once slot protect boat plug race scan limit return until ill";

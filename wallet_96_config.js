@@ -1,1 +1,1 @@
-var mnemonic = "learn amount column afraid hedgehog garment tiny high image east lake bench";
+var mnemonic = "stomach mutual lava evolve off derive future talk unveil powder axis judge";

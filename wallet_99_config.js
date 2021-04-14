@@ -1,1 +1,1 @@
-var mnemonic = "square enforce organ race task wisdom vacuum battle brief wedding drastic hill";
+var mnemonic = "symbol calm diary solid royal hope purse time error reward typical scissors";

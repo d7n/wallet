@@ -1,1 +1,1 @@
-var mnemonic = "vast wasp pigeon hub seat spy clerk pudding furnace enforce flash chicken";
+var mnemonic = "trust firm dwarf want acquire mad depart fiction foot theme custom account";

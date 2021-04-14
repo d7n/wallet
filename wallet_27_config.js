@@ -1,1 +1,1 @@
-var mnemonic = "toy claw kite plunge exotic kit lawsuit gospel crew jelly drop spice";
+var mnemonic = "already midnight huge mother hunt depth prison follow wear bleak slide mechanic";

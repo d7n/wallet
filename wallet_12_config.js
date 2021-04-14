@@ -1,1 +1,1 @@
-var mnemonic = "lock alter between member average detail negative soap broccoli menu output absurd";
+var mnemonic = "snow message paper brave rather weird state corn empower purchase hobby usual";

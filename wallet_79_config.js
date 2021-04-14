@@ -1,1 +1,1 @@
-var mnemonic = "divorce museum receive history advance spoil flame portion easily country empower question";
+var mnemonic = "road amused duty major symbol ranch fatigue window gorilla pulp mistake tragic";

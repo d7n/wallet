@@ -1,1 +1,1 @@
-var mnemonic = "peanut transfer museum success trade course doctor aspect embody course depend joke";
+var mnemonic = "dumb purity cook flight picture twist pony green act long general lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor pizza asthma caught wine nerve trick track scheme six hat pig";
+var mnemonic = "paper nest decide blush turn october permit switch similar angry wealth moment";

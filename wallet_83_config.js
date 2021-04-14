@@ -1,1 +1,1 @@
-var mnemonic = "grunt give scorpion pupil extend fatigue month either gaze hip guess offer";
+var mnemonic = "strong inquiry call tackle acoustic strategy spring inhale rail syrup beach song";

@@ -1,1 +1,1 @@
-var mnemonic = "peace limb enable sail monkey oil leisure legal wonder addict better burst";
+var mnemonic = "expand involve dry sea car crime tiny glance matrix setup library scheme";

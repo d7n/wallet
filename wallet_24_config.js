@@ -1,1 +1,1 @@
-var mnemonic = "sea victory brave vote maid arrow burden slush acid fog empower chef";
+var mnemonic = "current smart true before party girl rural badge steak turkey differ zoo";

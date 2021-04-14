@@ -1,1 +1,1 @@
-var mnemonic = "pill say razor vendor grunt power tuition venue resist hat pepper science";
+var mnemonic = "gossip cool plug uncle term control awkward dash polar group bridge wheel";

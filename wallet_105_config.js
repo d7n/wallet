@@ -1,1 +1,1 @@
-var mnemonic = "material intact final radar mom marriage grace endorse pear sick stumble dream";
+var mnemonic = "rocket mind buffalo garbage hurry angry minor famous civil write tackle nut";

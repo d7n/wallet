@@ -1,1 +1,1 @@
-var mnemonic = "squirrel opera subject setup pumpkin matter travel giggle harbor galaxy voice appear";
+var mnemonic = "celery weasel wear alpha roast million item decide check dizzy rail assist";

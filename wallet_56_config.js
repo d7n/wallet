@@ -1,1 +1,1 @@
-var mnemonic = "lab joy atom arrow spare reject muscle seminar cram bulb pen stadium";
+var mnemonic = "wing tide ranch random select pelican interest menu trigger force route frequent";

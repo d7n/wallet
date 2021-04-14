@@ -1,1 +1,1 @@
-var mnemonic = "similar prison tool tuition pencil hood able all off enrich blossom hard";
+var mnemonic = "tenant chicken thrive abandon timber field clap globe like pigeon blind dutch";

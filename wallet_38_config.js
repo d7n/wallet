@@ -1,1 +1,1 @@
-var mnemonic = "flush consider series distance whale mass tape phone risk dilemma bamboo awful";
+var mnemonic = "level grid erode butter blur all penalty broccoli lobster north member long";

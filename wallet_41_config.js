@@ -1,1 +1,1 @@
-var mnemonic = "write correct flee calm left diagram ability sure assume become method drum";
+var mnemonic = "scrap wool punch case arena loan bulk senior spawn corn fold december";

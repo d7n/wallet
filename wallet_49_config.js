@@ -1,1 +1,1 @@
-var mnemonic = "aerobic elder when trouble trend horror bag royal net rotate bulb middle";
+var mnemonic = "beyond price knock put chief carry plate lawsuit ancient expect idle glimpse";

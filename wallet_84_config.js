@@ -1,1 +1,1 @@
-var mnemonic = "sugar nerve put opera video peasant brass soft midnight ill bike elegant";
+var mnemonic = "energy brand since truck hip fragile menu half unlock choose grocery uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "smart good melt bird drama nut fault payment sibling sauce title hunt";
+var mnemonic = "clinic affair leave review tiny evoke foil empower organ suggest weekend ball";

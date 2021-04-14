@@ -1,1 +1,1 @@
-var mnemonic = "old frame hybrid net usual inmate today lemon warrior vivid van income";
+var mnemonic = "bracket ethics dragon pioneer demand relief carpet leaf emotion fury issue chapter";

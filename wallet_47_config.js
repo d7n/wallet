@@ -1,1 +1,1 @@
-var mnemonic = "delay execute bench hub track swim virtual flag enough defy calm fantasy";
+var mnemonic = "vacant certain senior away kick tornado battle birth few fun broken promote";

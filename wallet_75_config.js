@@ -1,1 +1,1 @@
-var mnemonic = "snack rule lumber vehicle among also cousin measure ostrich announce omit genuine";
+var mnemonic = "assume home thought fun tooth chronic empty future degree mango work hero";

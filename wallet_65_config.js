@@ -1,1 +1,1 @@
-var mnemonic = "provide venue wall injury error remind police blue idle name ball chuckle";
+var mnemonic = "tennis cloud nuclear boost ignore bulk head peasant stadium mammal shove stem";

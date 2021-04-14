@@ -1,1 +1,1 @@
-var mnemonic = "urban reason romance kingdom skate finish culture sunset album sock slide fame";
+var mnemonic = "pole powder rotate swarm dry abandon estate second ring spend minimum estate";
