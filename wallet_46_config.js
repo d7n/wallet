@@ -1,1 +1,1 @@
-var mnemonic = "rice wheat one pen drastic chicken hub frost announce frost panda blade";
+var mnemonic = "grocery chunk hope thing zebra artwork report forward flame fat piece ritual";

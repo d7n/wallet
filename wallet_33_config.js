@@ -1,1 +1,1 @@
-var mnemonic = "volume bronze actual dog deposit quarter grace inflict fade embody divert shock";
+var mnemonic = "trim raven speak crash project session change fuel test cable muscle topic";

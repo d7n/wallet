@@ -1,1 +1,1 @@
-var mnemonic = "castle shadow exhibit engage space false dry chaos appear finger metal embark";
+var mnemonic = "lawn fresh quantum pond hold inject border sock lion ecology grid pair";

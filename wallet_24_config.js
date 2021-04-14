@@ -1,1 +1,1 @@
-var mnemonic = "super virtual west slush task cool omit source divert come gospel merry";
+var mnemonic = "swear simple dust taxi below cluster cable typical replace imitate foil era";

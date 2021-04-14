@@ -1,1 +1,1 @@
-var mnemonic = "slot save pigeon regular predict ginger cannon soldier denial company usage limb";
+var mnemonic = "heavy innocent race educate dial rubber feel size hollow relief rubber acquire";

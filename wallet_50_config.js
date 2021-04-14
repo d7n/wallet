@@ -1,1 +1,1 @@
-var mnemonic = "cave eternal school secret citizen quarter sure fresh pause lottery olympic famous";
+var mnemonic = "volume safe flower history exchange scan trade top over fan boil ready";

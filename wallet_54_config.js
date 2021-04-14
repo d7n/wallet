@@ -1,1 +1,1 @@
-var mnemonic = "rotate bus elbow maze solid evil rely rich short royal toss spot";
+var mnemonic = "resemble level fire deal horse fly stomach voyage move green soccer glide";

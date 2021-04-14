@@ -1,1 +1,1 @@
-var mnemonic = "treat solve ghost onion lift tip cry pupil hole vanish find toy";
+var mnemonic = "around blouse future cloud cheese nephew hospital install canyon clay conduct sing";

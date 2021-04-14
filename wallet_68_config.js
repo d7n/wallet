@@ -1,1 +1,1 @@
-var mnemonic = "when window maid odor hold laptop start satoshi undo piano orange rebuild";
+var mnemonic = "cash appear stand bridge debris robust void gasp oyster decline truly list";

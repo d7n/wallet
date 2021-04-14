@@ -1,1 +1,1 @@
-var mnemonic = "bronze summer unaware beauty behave action vote crime industry soft easily tree";
+var mnemonic = "turkey view execute attack figure venue web follow swing world romance man";

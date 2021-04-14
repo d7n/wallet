@@ -1,1 +1,1 @@
-var mnemonic = "permit vacuum pulp vault renew school drama fabric avoid eyebrow afford urge";
+var mnemonic = "deny woman cereal plate front silly cupboard diesel adapt elephant ignore boring";

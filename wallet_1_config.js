@@ -1,1 +1,1 @@
-var mnemonic = "suspect strong calm cloud other alarm mammal twice cash crash drastic barrel";
+var mnemonic = "topple curve fold nut couch prefer battle denial rug upset dwarf own";

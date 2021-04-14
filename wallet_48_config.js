@@ -1,1 +1,1 @@
-var mnemonic = "retreat panther meadow razor swallow room decide orchard spend prosper friend horn";
+var mnemonic = "normal project flush print cable cloth shadow verify wonder reveal mixture average";

@@ -1,1 +1,1 @@
-var mnemonic = "glass lawn awesome mushroom leisure fade comfort today one music spirit boil";
+var mnemonic = "scrap fish cushion crush unveil gas type correct squeeze luxury swim drill";

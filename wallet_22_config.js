@@ -1,1 +1,1 @@
-var mnemonic = "rule viable bag bid polar twelve swift circle notable bird again produce";
+var mnemonic = "ceiling leave problem stomach bag during strong teach diary board receive hurdle";

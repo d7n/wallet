@@ -1,1 +1,1 @@
-var mnemonic = "rubber fitness hair indicate fury whip diet aisle want remember wedding vacant";
+var mnemonic = "find hat manual remind crisp middle cloth bench spend buyer switch gesture";

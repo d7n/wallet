@@ -1,1 +1,1 @@
-var mnemonic = "ketchup dial short dust aisle taste segment laugh drop metal unhappy drum";
+var mnemonic = "tag cube elephant bullet odor slot truly obey yellow chunk hope unfair";

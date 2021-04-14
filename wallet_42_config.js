@@ -1,1 +1,1 @@
-var mnemonic = "will extend spirit team also clarify admit piano connect excess burden display";
+var mnemonic = "walnut panther gold ankle lunar faint weapon sort fox blind cream clap";

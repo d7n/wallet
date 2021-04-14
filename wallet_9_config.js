@@ -1,1 +1,1 @@
-var mnemonic = "upper pipe alien margin moral tray swamp large robot law below guitar";
+var mnemonic = "update defense game twist saddle electric north cheese priority vanish lion catalog";

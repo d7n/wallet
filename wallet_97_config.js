@@ -1,1 +1,1 @@
-var mnemonic = "tag tone weekend blur inmate steak dust apology valve modify hello learn";
+var mnemonic = "syrup chicken behind evidence car bring maid stable evidence earn wash call";

@@ -1,1 +1,1 @@
-var mnemonic = "eight skate beef sponsor taxi series glow wrong despair myth lottery twin";
+var mnemonic = "word dizzy autumn pelican leave wreck cloud subway drive wall prison excess";

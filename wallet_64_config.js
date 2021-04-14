@@ -1,1 +1,1 @@
-var mnemonic = "search scorpion razor method elephant marble mule express farm oyster puppy senior";
+var mnemonic = "then banana orient win fatigue pizza blue where era garlic wolf advance";

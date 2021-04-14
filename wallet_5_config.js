@@ -1,1 +1,1 @@
-var mnemonic = "address promote public end abuse sibling regular blur broccoli tree parade surge";
+var mnemonic = "praise illness half feed depend climb emotion remove spatial topic filter lucky";

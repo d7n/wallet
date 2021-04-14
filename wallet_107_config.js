@@ -1,1 +1,1 @@
-var mnemonic = "learn camera slide sing poverty soft filter anger kitten duty toe obey";
+var mnemonic = "title adult train hazard section fortune wing tilt book decrease wet sense";

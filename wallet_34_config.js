@@ -1,1 +1,1 @@
-var mnemonic = "setup notice rural custom peanut design act swallow hawk pulp arctic foster";
+var mnemonic = "measure husband bring talent bargain extend nature very sea play badge couch";

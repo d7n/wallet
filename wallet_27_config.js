@@ -1,1 +1,1 @@
-var mnemonic = "muffin people help across devote athlete green aunt crawl clay detect scrub";
+var mnemonic = "orient news very vote brass galaxy arch girl option vivid junior salute";

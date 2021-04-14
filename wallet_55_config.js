@@ -1,1 +1,1 @@
-var mnemonic = "robot afford time pride fiber shop guard public error angle kidney below";
+var mnemonic = "make noble violin banner tree enhance woman organ trigger auto jaguar lab";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile apple change gift thought inform fog main develop girl distance destroy";
+var mnemonic = "radio right stone about vital that turtle peasant usage razor warfare path";

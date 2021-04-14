@@ -1,1 +1,1 @@
-var mnemonic = "thank please tomato rigid magic filter glow harbor guide bread release melody";
+var mnemonic = "version wish enrich maximum section rare jeans raise net result loan history";

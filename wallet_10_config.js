@@ -1,1 +1,1 @@
-var mnemonic = "east render isolate divert net jeans damage join slender expect order pink";
+var mnemonic = "input vanish gloom portion zone icon amazing auto accident tragic cart brisk";

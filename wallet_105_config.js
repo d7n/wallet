@@ -1,1 +1,1 @@
-var mnemonic = "aisle sting expand leg issue flight night because stumble immense unable ugly";
+var mnemonic = "unusual weasel page mountain laundry final grape bright north cash claim damp";

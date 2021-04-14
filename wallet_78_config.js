@@ -1,1 +1,1 @@
-var mnemonic = "rebel city frozen civil educate bracket rocket where traffic mind final leave";
+var mnemonic = "next paper festival grit buzz runway slam tissue cargo ostrich endorse toward";

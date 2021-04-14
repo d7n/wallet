@@ -1,1 +1,1 @@
-var mnemonic = "announce area husband badge flat buyer anxiety steak income actor quality soap";
+var mnemonic = "produce unfair zone that prosper frown cram boil essay lens thank ladder";

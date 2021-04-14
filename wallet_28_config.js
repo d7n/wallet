@@ -1,1 +1,1 @@
-var mnemonic = "gossip heart fabric soda index green rough crumble color system knock credit";
+var mnemonic = "element oven accident awake quote chalk salmon slow entry spoil arrive into";

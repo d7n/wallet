@@ -1,1 +1,1 @@
-var mnemonic = "quote ready phone make happy merry uniform crucial attend media bright all";
+var mnemonic = "talk crisp false combine section pistol bubble ostrich hunt inner body prosper";

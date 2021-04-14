@@ -1,1 +1,1 @@
-var mnemonic = "tongue disease session husband museum piano nice emotion cover bless fatal knock";
+var mnemonic = "rhythm squeeze inspire airport summer risk unusual muffin clever indoor forest duck";

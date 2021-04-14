@@ -1,1 +1,1 @@
-var mnemonic = "swift pulse change diary term infant uphold domain cargo garage front cage";
+var mnemonic = "maximum double frame uphold two service twelve genuine lunch pelican coil install";

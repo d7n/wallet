@@ -1,1 +1,1 @@
-var mnemonic = "control slab kid empower dentist fiscal pen knee popular flower cash void";
+var mnemonic = "build olive provide grief claw coast hurt ignore merit refuse tooth nut";

@@ -1,1 +1,1 @@
-var mnemonic = "twist person wrist peanut length chaos claim candy cute wealth wrong hurt";
+var mnemonic = "horror ill despair sign either text barrel evidence powder wheel royal arch";

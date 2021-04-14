@@ -1,1 +1,1 @@
-var mnemonic = "exist view cram pyramid match tackle energy crouch tuna figure latin bonus";
+var mnemonic = "inquiry they lucky unfair find roast amount uncle version photo honey dismiss";

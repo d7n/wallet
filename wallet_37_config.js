@@ -1,1 +1,1 @@
-var mnemonic = "swap floor genuine add misery clever pact embrace swift planet vocal result";
+var mnemonic = "security into rapid claw anger flat source absorb purity alert excess increase";

@@ -1,1 +1,1 @@
-var mnemonic = "survey glare order shed injury gravity address produce that roast craft mobile";
+var mnemonic = "crowd purse galaxy rack method toe enough end rubber brave crowd panic";

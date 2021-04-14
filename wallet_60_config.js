@@ -1,1 +1,1 @@
-var mnemonic = "cattle melt scorpion turkey wish tone crowd right patient angle agree review";
+var mnemonic = "soap tooth luxury unhappy beauty disease cattle patient behave strike debate lamp";

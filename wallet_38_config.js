@@ -1,1 +1,1 @@
-var mnemonic = "defy lumber normal spell state senior exit pupil elder cake cotton path";
+var mnemonic = "join pelican stumble ivory quiz escape magnet music access dream entire remain";

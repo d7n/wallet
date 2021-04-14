@@ -1,1 +1,1 @@
-var mnemonic = "assault marble address stumble hair buzz oppose consider common left sorry quiz";
+var mnemonic = "grape remind comfort museum ostrich shoot kid table sell circle hill spoil";

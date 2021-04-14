@@ -1,1 +1,1 @@
-var mnemonic = "one script minute issue tube melody palace toddler sun menu text prison";
+var mnemonic = "casual gentle segment avocado inner pilot shed tragic room element buzz axis";

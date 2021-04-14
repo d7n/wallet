@@ -1,1 +1,1 @@
-var mnemonic = "patrol anchor mixed dune rival length random trim subject turtle drop mammal";
+var mnemonic = "toilet fluid kidney hammer sadness describe allow flavor bag chase laugh pave";

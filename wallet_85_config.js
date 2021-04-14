@@ -1,1 +1,1 @@
-var mnemonic = "donor door keen quit right estate brave rent tree truck orange toast";
+var mnemonic = "civil flock thing target trumpet age lyrics pass soon moral giant debate";

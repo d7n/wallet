@@ -1,1 +1,1 @@
-var mnemonic = "duty muscle another left rubber coil pudding ramp gospel seed razor delay";
+var mnemonic = "educate move protect narrow melody pride mail mention usage owner movie end";

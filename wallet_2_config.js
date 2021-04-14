@@ -1,1 +1,1 @@
-var mnemonic = "drip undo open caught retire swamp vital around sponsor picture desert include";
+var mnemonic = "license lounge virtual fragile auction west husband idea crowd mistake sort coral";

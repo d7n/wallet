@@ -1,1 +1,1 @@
-var mnemonic = "else surround nut mind immune ranch poem game hundred animal pool razor";
+var mnemonic = "trigger depth mirror end coffee kid quarter scout what icon say scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "seed travel leaf tired art run toe valve verb usage pottery surround";
+var mnemonic = "consider search model private decade uncover earth wood ceiling follow trend luxury";

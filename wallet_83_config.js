@@ -1,1 +1,1 @@
-var mnemonic = "festival mystery fly vast calm sausage leg bargain monster output sunset artist";
+var mnemonic = "weasel task vague scrub thank nephew hint thought surface saddle change devote";

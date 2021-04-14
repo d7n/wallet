@@ -1,1 +1,1 @@
-var mnemonic = "stumble coast chunk tattoo evolve glad cube regret apart invite warfare have";
+var mnemonic = "exhaust live praise busy anxiety uncle earth soon awake uncle shell decade";

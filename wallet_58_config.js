@@ -1,1 +1,1 @@
-var mnemonic = "harsh mansion online net manage pattern raw eternal sudden success wise convince";
+var mnemonic = "diary piece receive elite crystal rely hospital radar frozen gift like please";

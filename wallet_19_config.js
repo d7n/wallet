@@ -1,1 +1,1 @@
-var mnemonic = "purity observe crop space forget flee boy then police van stamp hobby";
+var mnemonic = "never alpha hope impact again ice tornado above autumn zone tool exile";

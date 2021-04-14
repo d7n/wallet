@@ -1,1 +1,1 @@
-var mnemonic = "survey chase empty feel degree oil minute prosper snake suspect verb rocket";
+var mnemonic = "illness ozone notable earth route motion breeze rug issue sentence remove result";

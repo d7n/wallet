@@ -1,1 +1,1 @@
-var mnemonic = "green option burger symbol swamp shiver organ boy slot hybrid special sustain";
+var mnemonic = "kitten parent intact hope vacant october mixture invest extra apart pottery sheriff";

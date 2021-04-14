@@ -1,1 +1,1 @@
-var mnemonic = "leisure trophy ill illegal volume away doctor major imitate clarify crystal quote";
+var mnemonic = "duty leaf convince number route super cushion potato receive fever rough hammer";

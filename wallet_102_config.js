@@ -1,1 +1,1 @@
-var mnemonic = "inject stamp interest depart hunt morning noise match embody bounce title invite";
+var mnemonic = "observe wine destroy legal crash fantasy dragon staff galaxy inherit quality enough";

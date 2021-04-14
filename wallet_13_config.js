@@ -1,1 +1,1 @@
-var mnemonic = "cake flush fury time blanket muffin cactus borrow virus favorite suffer prosper";
+var mnemonic = "mixture settle between kit fence comic series pattern chapter cruel sibling audit";

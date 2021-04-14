@@ -1,1 +1,1 @@
-var mnemonic = "grit gym drive cute predict hockey invite polar mesh indoor pepper rich";
+var mnemonic = "world multiply give inner end point system fortune sick company crisp enroll";

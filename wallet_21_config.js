@@ -1,1 +1,1 @@
-var mnemonic = "attend return obey quick shield lend glance rookie ask fun announce bench";
+var mnemonic = "ketchup joy click senior hello bargain witness arrive cart work cricket jacket";

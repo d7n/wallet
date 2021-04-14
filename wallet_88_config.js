@@ -1,1 +1,1 @@
-var mnemonic = "panda soccer defense delay own remove peace match damp audit symbol voyage";
+var mnemonic = "vapor century famous fence derive salon skin motion feed tired resemble parrot";

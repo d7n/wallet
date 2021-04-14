@@ -1,1 +1,1 @@
-var mnemonic = "document error book chat trick future mistake secret gain glow habit eye";
+var mnemonic = "sleep diet wolf box duty tuition napkin twist draw flash wave slender";

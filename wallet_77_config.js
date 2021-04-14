@@ -1,1 +1,1 @@
-var mnemonic = "volcano east sing local glow one stadium total pencil embody use figure";
+var mnemonic = "run avoid thing remind embrace beef cereal tomato country rhythm okay observe";

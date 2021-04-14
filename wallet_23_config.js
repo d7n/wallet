@@ -1,1 +1,1 @@
-var mnemonic = "seed member license marine song clog regular truck ridge trap section cement";
+var mnemonic = "foil chuckle erode receive outer alarm tip jazz income base light render";

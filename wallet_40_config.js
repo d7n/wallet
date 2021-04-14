@@ -1,1 +1,1 @@
-var mnemonic = "slab fold glory swift crawl inject very goddess hungry side ribbon hybrid";
+var mnemonic = "flat hockey grab awful reopen found total foil surprise afraid rescue rug";

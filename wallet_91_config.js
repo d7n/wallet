@@ -1,1 +1,1 @@
-var mnemonic = "orient shuffle harvest demand give explain rain enough exit endorse dolphin easy";
+var mnemonic = "problem stone hotel guilt sunny crisp sausage awkward exercise stumble write discover";

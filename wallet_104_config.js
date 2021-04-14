@@ -1,1 +1,1 @@
-var mnemonic = "behind lock must rate pipe nephew copper magnet once language broom lava";
+var mnemonic = "novel enable sun soon dose much advance main crowd deputy sorry zebra";

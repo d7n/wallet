@@ -1,1 +1,1 @@
-var mnemonic = "next install expect knife replace roast virtual seven tooth climb notable current";
+var mnemonic = "miracle armor food verify raw devote matrix room lunar raccoon major scale";

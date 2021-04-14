@@ -1,1 +1,1 @@
-var mnemonic = "glide travel sustain shiver random kit lecture find armed village bargain click";
+var mnemonic = "voyage rib toddler present book there elbow tail stand kiss quit fruit";

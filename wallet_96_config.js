@@ -1,1 +1,1 @@
-var mnemonic = "close chapter extra nerve celery upgrade sad choose silk stairs unfold burger";
+var mnemonic = "trash clock mean drama fashion chimney doll season endless friend illegal web";

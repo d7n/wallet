@@ -1,1 +1,1 @@
-var mnemonic = "fossil hungry imitate quantum range sphere melody replace trouble warm tail square";
+var mnemonic = "town okay citizen weekend pond together dish cover arrow artwork inch jungle";

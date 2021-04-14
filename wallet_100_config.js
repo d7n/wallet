@@ -1,1 +1,1 @@
-var mnemonic = "maid woman retreat defense maid nature salad only solid trigger either silent";
+var mnemonic = "turkey rubber wagon favorite stay million dog identify prepare jaguar upset pottery";

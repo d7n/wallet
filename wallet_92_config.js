@@ -1,1 +1,1 @@
-var mnemonic = "cabin cage advance town fine leisure fringe inflict still marine hire easily";
+var mnemonic = "match someone brother toast win raven fun slam proof estate better seminar";

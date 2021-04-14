@@ -1,1 +1,1 @@
-var mnemonic = "join slow arrest sure march subway grant gun lake tower item dirt";
+var mnemonic = "use arrive budget canoe brisk scatter glimpse spread bronze sugar verb sustain";

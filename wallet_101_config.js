@@ -1,1 +1,1 @@
-var mnemonic = "negative pumpkin kind lava blame furnace track raccoon crew unaware eye diesel";
+var mnemonic = "anxiety bone verb either pipe seat govern olympic media eager when forum";

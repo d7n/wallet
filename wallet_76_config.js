@@ -1,1 +1,1 @@
-var mnemonic = "cost pupil floor settle young knee check sure truck depart undo indoor";
+var mnemonic = "disease crack leisure museum ready humble air ten ice property violin notable";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit assault february acquire barely caught dance morning floor yellow describe stay";
+var mnemonic = "come coyote helmet naive banner wrong rather sad weather lemon grow faculty";

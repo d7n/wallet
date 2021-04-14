@@ -1,1 +1,1 @@
-var mnemonic = "frequent dose appear ramp walk code hire where crowd tonight memory impose";
+var mnemonic = "spy minute speed rocket skill soup grow fortune material senior two fatigue";

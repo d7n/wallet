@@ -1,1 +1,1 @@
-var mnemonic = "agree day foster fee open drink gas keep ahead large empty drop";
+var mnemonic = "soccer sudden example soccer round elegant over project forget neutral ancient use";

@@ -1,1 +1,1 @@
-var mnemonic = "force grocery alarm divert era track tourist loan exact toward nut usage";
+var mnemonic = "mention ramp ten escape meat rival clarify find rice trumpet myself shrug";

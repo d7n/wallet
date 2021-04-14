@@ -1,1 +1,1 @@
-var mnemonic = "cruel team great twice virus thank tent grunt vivid nature divide bicycle";
+var mnemonic = "basic oppose one repeat want mother accuse very hundred heart giraffe dog";

@@ -1,1 +1,1 @@
-var mnemonic = "park puzzle enough near coil crew drip check perfect example kick domain";
+var mnemonic = "year regular toast equal raven priority level remove oxygen loan price youth";

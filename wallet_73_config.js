@@ -1,1 +1,1 @@
-var mnemonic = "intact before thrive private mass bread clog summer manual style before bleak";
+var mnemonic = "battle urban poet day cry agent capable grief reform target since orphan";

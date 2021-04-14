@@ -1,1 +1,1 @@
-var mnemonic = "orbit limb label wealth episode toy ice machine ladder explain hazard vessel";
+var mnemonic = "vivid region tone exclude sail satoshi talent shrug vibrant pond daring clog";

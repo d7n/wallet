@@ -1,1 +1,1 @@
-var mnemonic = "wink special black grass motor all addict usage length hover enrich bird";
+var mnemonic = "chunk confirm motor cable thumb industry because target rapid below mad dragon";

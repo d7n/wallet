@@ -1,1 +1,1 @@
-var mnemonic = "leg real hour layer unhappy museum raw weasel umbrella unaware message devote";
+var mnemonic = "deal flower render empty they cool exhaust assist resemble join quantum traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "inside board crack armed blossom sand solve smoke claim famous credit gun";
+var mnemonic = "transfer pool judge regret decrease oven enforce opera drill volume tomato dance";

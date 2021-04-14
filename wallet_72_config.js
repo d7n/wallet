@@ -1,1 +1,1 @@
-var mnemonic = "private hover display credit gas liberty thumb pigeon ride awful crew young";
+var mnemonic = "ski series gown nation filter under gasp crime member hint process bone";

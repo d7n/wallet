@@ -1,1 +1,1 @@
-var mnemonic = "first episode peace false tiger quiz water certain normal solution panda fence";
+var mnemonic = "immense blur quick hint barely village attack prepare file mean story start";

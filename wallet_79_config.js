@@ -1,1 +1,1 @@
-var mnemonic = "river hint pencil fame frost sign country hospital manual grain indicate erupt";
+var mnemonic = "hope truth extra draft spread prepare cactus cart silver luxury usual minor";

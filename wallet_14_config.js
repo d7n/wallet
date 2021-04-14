@@ -1,1 +1,1 @@
-var mnemonic = "shrimp never senior oyster gesture afford obtain gold library erode vintage cat";
+var mnemonic = "depart lonely fuel lunar symptom slide grid math best lawn original prefer";

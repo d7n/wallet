@@ -1,1 +1,1 @@
-var mnemonic = "beach admit release sun tattoo trick wire potato riot moon scheme degree";
+var mnemonic = "remember genuine fork helmet roast rough oblige nature pony need glimpse rich";
