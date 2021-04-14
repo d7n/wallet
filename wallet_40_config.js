@@ -1,1 +1,1 @@
-var mnemonic = "area media pencil cousin build movie breeze canvas okay dizzy field beauty";
+var mnemonic = "knock half success provide paddle enjoy park choice second fever another spare";

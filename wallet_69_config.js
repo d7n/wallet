@@ -1,1 +1,1 @@
-var mnemonic = "physical author display venture cancel rich author salmon story sound seek better";
+var mnemonic = "rival denial brisk detail tube midnight auction elite ranch strong bar congress";

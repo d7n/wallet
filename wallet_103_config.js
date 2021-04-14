@@ -1,1 +1,1 @@
-var mnemonic = "degree tackle wood remind load kick please volcano creek artwork shock rail";
+var mnemonic = "spin barrel hill ankle home pupil two appear clarify chaos interest side";

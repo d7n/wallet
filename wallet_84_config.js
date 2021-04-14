@@ -1,1 +1,1 @@
-var mnemonic = "choose inform smile pigeon job glove chat fine dash twice vicious borrow";
+var mnemonic = "visual canyon plate talk panel goat language please abuse fragile model snack";

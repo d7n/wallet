@@ -1,1 +1,1 @@
-var mnemonic = "life annual pair caught march snow crisp alone wall divert face regret";
+var mnemonic = "inhale west shadow problem twist fever bachelor runway female disagree infant bracket";

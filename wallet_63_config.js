@@ -1,1 +1,1 @@
-var mnemonic = "child unhappy extra silent atom payment cactus check clay borrow since remind";
+var mnemonic = "maid school nerve rookie shove ramp vital flee mansion token minor risk";

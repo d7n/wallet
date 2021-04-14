@@ -1,1 +1,1 @@
-var mnemonic = "surface side cricket improve solution stairs wealth ball retire pencil casual supreme";
+var mnemonic = "swear crime outside price garlic spread jelly movie pond tattoo recycle jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "manual help street hedgehog neutral humor flip project crouch twist devote genuine";
+var mnemonic = "quiz help provide clever card metal dragon what cushion silly yard auto";

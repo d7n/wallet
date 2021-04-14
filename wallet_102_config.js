@@ -1,1 +1,1 @@
-var mnemonic = "olive table capable shove twist chat joke type grocery hope plate stem";
+var mnemonic = "tongue panel company race comic swamp gate dolphin conduct heart exotic airport";

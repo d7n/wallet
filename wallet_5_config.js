@@ -1,1 +1,1 @@
-var mnemonic = "jaguar observe olympic vote auction reveal dutch one early pretty rib flag";
+var mnemonic = "dentist birth card account estate turtle zoo rotate begin sentence hamster route";

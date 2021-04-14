@@ -1,1 +1,1 @@
-var mnemonic = "task repair dress horn scare sketch bomb toy bracket hill monitor involve";
+var mnemonic = "juice half illness purpose garage citizen wire require soon blue ethics april";

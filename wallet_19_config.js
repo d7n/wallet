@@ -1,1 +1,1 @@
-var mnemonic = "repair swift ship maximum decorate circle normal update history payment acoustic bone";
+var mnemonic = "cruise february scout need genuine defense private sign rookie praise dog term";

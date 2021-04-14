@@ -1,1 +1,1 @@
-var mnemonic = "lawn such blue have firm wrist cereal alter prize figure tongue embark";
+var mnemonic = "fatigue process struggle ill fit spin hour grid throw worth fiscal tank";

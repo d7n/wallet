@@ -1,1 +1,1 @@
-var mnemonic = "crucial welcome carbon bridge bonus victory peasant indoor cash citizen average unaware";
+var mnemonic = "category custom street argue excess this sing cash media mule situate benefit";

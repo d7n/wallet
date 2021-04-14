@@ -1,1 +1,1 @@
-var mnemonic = "urban vacuum walk tree abuse neck castle until matrix sign train lake";
+var mnemonic = "assist grab dune aerobic mesh seek general stay swallow jelly air young";

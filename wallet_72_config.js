@@ -1,1 +1,1 @@
-var mnemonic = "emotion decade jealous produce outdoor bid tool spider mention nature finger insect";
+var mnemonic = "dress verify february business clog foam swift puppy desk tourist step rough";

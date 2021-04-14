@@ -1,1 +1,1 @@
-var mnemonic = "detail blame boat weird snow invest abandon runway staff weird ignore ramp";
+var mnemonic = "slim decorate ugly emotion flag orphan carbon parrot position river spread multiply";

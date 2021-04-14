@@ -1,1 +1,1 @@
-var mnemonic = "rare trumpet action either kiwi what shell solution waste first hidden cinnamon";
+var mnemonic = "horn brisk once struggle math mother wrestle detect curve ceiling cabbage about";

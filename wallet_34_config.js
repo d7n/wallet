@@ -1,1 +1,1 @@
-var mnemonic = "gospel drip hurry soccer like mirror maple sign olive become normal auction";
+var mnemonic = "limit master smile dwarf bench check east denial entry upgrade unhappy dragon";

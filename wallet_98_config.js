@@ -1,1 +1,1 @@
-var mnemonic = "truly drop wheel injury own tone tape blast forum equal sauce diagram";
+var mnemonic = "frequent struggle put exotic science knock lava matrix upgrade below pact process";

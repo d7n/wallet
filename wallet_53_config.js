@@ -1,1 +1,1 @@
-var mnemonic = "poet aware glory smart lawsuit draft dial tool alien ten surprise snap";
+var mnemonic = "spin flat stumble anchor creek castle tail okay gadget cash gloom leisure";

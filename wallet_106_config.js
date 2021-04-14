@@ -1,1 +1,1 @@
-var mnemonic = "butter oak churn brush erode winner route axis mountain fox violin fever";
+var mnemonic = "visual master rich emotion evoke harbor idle horse salad day firm citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket future song term fringe wagon slim boil split object vault fun";
+var mnemonic = "cherry copper metal lawsuit alien blossom genius industry review sniff sand vocal";

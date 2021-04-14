@@ -1,1 +1,1 @@
-var mnemonic = "cactus upgrade betray goose pluck total royal century screen panther beyond barely";
+var mnemonic = "addict garbage license cannon cradle silver only response cluster mistake correct winter";

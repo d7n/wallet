@@ -1,1 +1,1 @@
-var mnemonic = "mimic damage fiscal virtual bronze salute daughter pink general retreat onion globe";
+var mnemonic = "monitor flavor horror tomorrow frame fiber maze great spy hybrid exit improve";

@@ -1,1 +1,1 @@
-var mnemonic = "group fire exotic grief trust tip poverty relief narrow robust fault bean";
+var mnemonic = "bronze shop benefit arena chaos brief galaxy sand staff image jar arctic";

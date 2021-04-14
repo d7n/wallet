@@ -1,1 +1,1 @@
-var mnemonic = "mutual imitate monitor tide chest start shift bless dumb voyage prefer tattoo";
+var mnemonic = "fat donate situate brush motor fresh sight initial spider lizard section wise";

@@ -1,1 +1,1 @@
-var mnemonic = "street number foster hedgehog monkey rich biology enhance giggle attend budget pond";
+var mnemonic = "client draw pottery piece lumber toward opera situate across venue enlist glimpse";

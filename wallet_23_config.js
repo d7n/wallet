@@ -1,1 +1,1 @@
-var mnemonic = "neck salute awkward fit coyote sphere offer alarm friend broccoli toss shoe";
+var mnemonic = "lift era accuse glory kiss gospel search coach tank success spice urban";

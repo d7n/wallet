@@ -1,1 +1,1 @@
-var mnemonic = "jump anger must destroy can tennis gold raven fragile tail viable unusual";
+var mnemonic = "cup elevator metal sorry vintage attract flock exercise rich design together issue";

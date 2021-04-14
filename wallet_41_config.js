@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur tail inquiry impulse skate crack own knock next chalk artist bronze";
+var mnemonic = "trigger olympic bar marine elevator wing pen firm captain feature design talk";

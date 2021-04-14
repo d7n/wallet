@@ -1,1 +1,1 @@
-var mnemonic = "lesson glue energy stem two area digital secret napkin camera release devote";
+var mnemonic = "vocal oyster photo devote elegant entry cash cushion sunset bind impulse wood";

@@ -1,1 +1,1 @@
-var mnemonic = "firm hammer method ticket grant arrest exclude popular faint labor jaguar slice";
+var mnemonic = "angry cinnamon such sketch eagle debris mother smart spot elephant energy pulse";

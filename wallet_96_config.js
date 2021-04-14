@@ -1,1 +1,1 @@
-var mnemonic = "feature mobile tilt retire document orient relax again exist february plunge file";
+var mnemonic = "happy analyst matrix sunny glide adult clap industry armed lion mention poverty";

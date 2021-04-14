@@ -1,1 +1,1 @@
-var mnemonic = "churn motion bar amateur cost album tattoo over swing fatal access news";
+var mnemonic = "suffer regret april decrease aspect left output stomach tone giraffe method harvest";

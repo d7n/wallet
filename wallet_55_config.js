@@ -1,1 +1,1 @@
-var mnemonic = "bar hello give shoot save slab barely embrace flame coyote crime fat";
+var mnemonic = "reward tent oyster tree strike icon kidney crunch height worth produce figure";

@@ -1,1 +1,1 @@
-var mnemonic = "author search invite north large slender pony place order receive until strong";
+var mnemonic = "rally other private strike item zebra refuse myth employ blame album sight";

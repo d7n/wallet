@@ -1,1 +1,1 @@
-var mnemonic = "inmate blade wear pause demise bulb fall market learn squeeze coin obvious";
+var mnemonic = "hero leaf spatial good farm view asset calm vital web saddle provide";

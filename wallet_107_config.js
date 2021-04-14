@@ -1,1 +1,1 @@
-var mnemonic = "ten tool impact estate orient tired picnic gate frog chase tank about";
+var mnemonic = "solve recipe benefit open indicate firm wonder chuckle left antique strike genius";

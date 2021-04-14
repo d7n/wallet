@@ -1,1 +1,1 @@
-var mnemonic = "eagle crazy volcano wild club extra witness clarify impose web income cream";
+var mnemonic = "echo bird add frozen domain bus shine play better industry connect soup";

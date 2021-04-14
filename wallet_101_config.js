@@ -1,1 +1,1 @@
-var mnemonic = "fossil solid snack resource slight prefer enemy focus margin addict column journey";
+var mnemonic = "family luxury dentist trend rice stove task silk mind ribbon figure praise";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid nose side trumpet alarm imitate bid reopen cinnamon unhappy evoke kingdom";
+var mnemonic = "toddler utility cycle wisdom train word humble grief found island firm visual";

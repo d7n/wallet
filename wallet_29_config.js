@@ -1,1 +1,1 @@
-var mnemonic = "popular chalk mean spread gadget loop scrap error warfare digital relax gospel";
+var mnemonic = "bring flee receive sure innocent tooth inject undo tone layer liar imitate";

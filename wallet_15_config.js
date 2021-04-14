@@ -1,1 +1,1 @@
-var mnemonic = "click order butter swamp fall turkey trim fashion fashion tuition fit lift";
+var mnemonic = "element afraid grain happy practice nephew normal taxi spike violin direct deny";

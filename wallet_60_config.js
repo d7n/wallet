@@ -1,1 +1,1 @@
-var mnemonic = "enrich stomach wet away curtain arrange sunny hello blind portion already illness";
+var mnemonic = "fashion high siren shuffle virus super vessel cheap decorate neglect custom state";

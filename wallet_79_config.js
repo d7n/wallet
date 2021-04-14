@@ -1,1 +1,1 @@
-var mnemonic = "release earth trend cave phrase peasant phone apology hint worth device interest";
+var mnemonic = "draw fade fossil total lady again science journey angry caution divert weapon";

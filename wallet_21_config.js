@@ -1,1 +1,1 @@
-var mnemonic = "mosquito raven candy able coast lottery slice burst gym exchange table aware";
+var mnemonic = "sure cancel iron cannon swap jaguar erupt peace federal castle cabbage fly";

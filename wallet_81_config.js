@@ -1,1 +1,1 @@
-var mnemonic = "mean inflict monitor arctic crush embrace history tiny hawk essence session fade";
+var mnemonic = "remind elegant answer magic noodle amazing crane toast sheriff alter borrow upon";

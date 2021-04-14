@@ -1,1 +1,1 @@
-var mnemonic = "trick divide emotion erode close nerve ignore purity average split cable risk";
+var mnemonic = "crash awkward shiver leader busy recipe forget leave invest margin pipe whale";

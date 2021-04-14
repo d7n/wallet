@@ -1,1 +1,1 @@
-var mnemonic = "security same divert pave board forest enough acquire page witness violin shallow";
+var mnemonic = "clinic palm mammal little holiday december wage blue vanish galaxy ghost age";

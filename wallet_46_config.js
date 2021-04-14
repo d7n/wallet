@@ -1,1 +1,1 @@
-var mnemonic = "urban prevent february repeat vessel start taxi credit enemy coin roof base";
+var mnemonic = "rich document priority rescue chest crazy pledge core number monkey gesture royal";

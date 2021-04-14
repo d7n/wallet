@@ -1,1 +1,1 @@
-var mnemonic = "suit ride when swallow snow road zone anger result mountain alone together";
+var mnemonic = "long worth horse mirror envelope sand dry season base hire talk draft";

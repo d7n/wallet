@@ -1,1 +1,1 @@
-var mnemonic = "version afford clog river umbrella fire noodle buffalo hurdle dish trial chat";
+var mnemonic = "cinnamon earn paper walnut legal atom return creek crouch essay pioneer edge";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate apple welcome hundred forest album common once pool interest patch food";
+var mnemonic = "easily sign conduct fashion next doll tell invite torch latin purchase source";

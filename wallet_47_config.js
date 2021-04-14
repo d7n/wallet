@@ -1,1 +1,1 @@
-var mnemonic = "alert thought confirm shoe air now cherry gossip series inflict gold eagle";
+var mnemonic = "junk tooth chunk tobacco myself jeans solid room valve learn gather monkey";

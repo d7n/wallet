@@ -1,1 +1,1 @@
-var mnemonic = "village liar citizen prefer despair together subway box silent moon clown apart";
+var mnemonic = "palace upper inform phrase broken maximum fitness tip flock stick taxi license";

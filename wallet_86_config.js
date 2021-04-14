@@ -1,1 +1,1 @@
-var mnemonic = "weekend april story life liquid bike invite perfect theme always cheap brand";
+var mnemonic = "pig sort now feature sudden december finger girl able atom know miracle";

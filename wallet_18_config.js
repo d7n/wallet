@@ -1,1 +1,1 @@
-var mnemonic = "wear damp multiply upset hour source solar cup same invest page skull";
+var mnemonic = "furnace indoor grief yellow monster outdoor scatter analyst home million empty pottery";

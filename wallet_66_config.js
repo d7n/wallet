@@ -1,1 +1,1 @@
-var mnemonic = "acid tourist mean mirror about label glare velvet appear hundred color tray";
+var mnemonic = "crowd heart hockey shed gym friend claw atom during mutual stay excuse";

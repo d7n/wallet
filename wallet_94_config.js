@@ -1,1 +1,1 @@
-var mnemonic = "senior drama genre antenna satoshi around march detail rough fatigue gossip mixed";
+var mnemonic = "pride age argue update plate bullet again winter hobby loan jungle excuse";

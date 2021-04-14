@@ -1,1 +1,1 @@
-var mnemonic = "taste cart minute wood ten clay quick strong rural thunder bar actual";
+var mnemonic = "panic bean neglect try harbor lunch mystery poverty flash sick elite help";

@@ -1,1 +1,1 @@
-var mnemonic = "excess party shaft better spray spatial alone merry lava purchase enemy comfort";
+var mnemonic = "process fuel sadness lawsuit glimpse drum crawl hole mother elevator welcome source";

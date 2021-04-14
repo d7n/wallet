@@ -1,1 +1,1 @@
-var mnemonic = "total damp enrich snap before sponsor series dinner venture mirror today hundred";
+var mnemonic = "region hybrid penalty river mansion chalk found tobacco number process shock aware";

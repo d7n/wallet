@@ -1,1 +1,1 @@
-var mnemonic = "extend saddle rather crash secret eager error slush plug melody island prevent";
+var mnemonic = "unaware unveil shove tray they deliver bone audit cave helmet never strike";

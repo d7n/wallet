@@ -1,1 +1,1 @@
-var mnemonic = "connect eager throw bag congress cross garlic other dad cargo heavy remove";
+var mnemonic = "duck recall relax fire near that pink media rebel awful stem exit";

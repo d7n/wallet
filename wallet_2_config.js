@@ -1,1 +1,1 @@
-var mnemonic = "spy length random firm leave egg slim post present health gaze only";
+var mnemonic = "rare earn account ankle live split cement edit marriage over veteran mystery";

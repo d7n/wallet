@@ -1,1 +1,1 @@
-var mnemonic = "art bounce retire error cook again despair target cement average dwarf sing";
+var mnemonic = "cannon begin fork timber orange fitness make tone museum roast check mistake";

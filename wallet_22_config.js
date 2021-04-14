@@ -1,1 +1,1 @@
-var mnemonic = "rubber crush burst next cause fly eagle excess number couple guitar click";
+var mnemonic = "top drum arrange empty heavy vocal ripple nephew cost shiver expect expose";

@@ -1,1 +1,1 @@
-var mnemonic = "believe couch virus wire brown item company meadow ship drama input expose";
+var mnemonic = "since prepare blame cushion sure grunt uncover ecology velvet phone praise sun";

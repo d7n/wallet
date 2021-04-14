@@ -1,1 +1,1 @@
-var mnemonic = "warrior ugly photo amazing concert ketchup jelly spend purpose flock surface scrub";
+var mnemonic = "deputy mixture insane give soul worth dinosaur eager test number plate wagon";

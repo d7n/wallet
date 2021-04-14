@@ -1,1 +1,1 @@
-var mnemonic = "hub oxygen reform syrup wrestle drum unfold dinner people danger doctor girl";
+var mnemonic = "piano reject mimic canyon juice define rebuild flight idea title provide thing";

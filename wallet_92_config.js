@@ -1,1 +1,1 @@
-var mnemonic = "erosion try judge keep wolf foam wife search scorpion letter globe apart";
+var mnemonic = "whale frog before negative divide moment begin brisk woman note nominee delay";

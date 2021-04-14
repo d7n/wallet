@@ -1,1 +1,1 @@
-var mnemonic = "liquid ecology secret color bless music bamboo glass struggle curve surprise often";
+var mnemonic = "dawn lady item kind capable stick ugly shove stage road volume place";

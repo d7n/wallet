@@ -1,1 +1,1 @@
-var mnemonic = "trip engine material news pencil desert lift manual napkin fantasy genre reason";
+var mnemonic = "dry drive cannon bus wool distance faint friend toy furnace trumpet expose";

@@ -1,1 +1,1 @@
-var mnemonic = "result female favorite receive impulse task welcome patient accident broken story guess";
+var mnemonic = "track similar accident green ordinary blossom parade stable noble oven snow concert";

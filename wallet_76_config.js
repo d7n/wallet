@@ -1,1 +1,1 @@
-var mnemonic = "figure umbrella balcony gown ladder hip mouse marble hole elegant bean dinner";
+var mnemonic = "wet mandate erosion blur enact name smooth ugly spike violin improve reveal";

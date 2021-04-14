@@ -1,1 +1,1 @@
-var mnemonic = "creek outdoor cliff remember impulse casino book hawk gospel hurt dizzy hamster";
+var mnemonic = "ignore flip world march myself swarm sleep voyage leisure doll prison artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "always dignity address space breeze grow lesson exclude popular clerk mom faculty";
+var mnemonic = "inmate raw universe never injury verb heavy plug vocal athlete analyst butter";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon brass fork misery price pitch foot push crime climb all member";
+var mnemonic = "marble spoil wisdom bless end hen front other test seek ten shiver";

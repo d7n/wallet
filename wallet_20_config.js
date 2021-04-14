@@ -1,1 +1,1 @@
-var mnemonic = "famous beauty another ecology leisure receive direct orchard light wait relax salute";
+var mnemonic = "desk live dream vicious pass coil glance glory point canyon field spin";

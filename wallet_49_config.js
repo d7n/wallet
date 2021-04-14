@@ -1,1 +1,1 @@
-var mnemonic = "correct universe pudding beyond stock vocal casino goat mimic ranch balcony enhance";
+var mnemonic = "panther feed guard loop sweet reward neck setup roast silly erosion jacket";

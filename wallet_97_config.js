@@ -1,1 +1,1 @@
-var mnemonic = "equip middle minute inhale knee pair globe excite agree sad client keen";
+var mnemonic = "perfect dash gas erode heart merit night battle mail build home company";

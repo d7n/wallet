@@ -1,1 +1,1 @@
-var mnemonic = "ginger duty enjoy quantum lobster glass panda urban blood green crisp animal";
+var mnemonic = "marble apple shock emerge steel when slab mesh slush auction liquid news";

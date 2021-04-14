@@ -1,1 +1,1 @@
-var mnemonic = "focus weapon anxiety mass receive fan arm apology denial uncover country uniform";
+var mnemonic = "since artefact fragile accuse topic lucky write lobster enter copy deny say";

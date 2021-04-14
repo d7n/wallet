@@ -1,1 +1,1 @@
-var mnemonic = "solid knock casual else spot enough own arch travel shove fluid history";
+var mnemonic = "poverty defense twist moral what private orchard bulb speak frame inch alter";

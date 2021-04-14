@@ -1,1 +1,1 @@
-var mnemonic = "equip kangaroo staff eye sausage sunny visit clock thrive across off current";
+var mnemonic = "kiwi flock estate kingdom liquid toy bacon argue term action rebel matrix";

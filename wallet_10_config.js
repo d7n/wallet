@@ -1,1 +1,1 @@
-var mnemonic = "network mixed style flat motor only trust indoor sense misery heart addict";
+var mnemonic = "genius shoot always use luggage crack tuition legal primary pond screen priority";

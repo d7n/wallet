@@ -1,1 +1,1 @@
-var mnemonic = "blast limit youth chuckle purity magnet evidence drum outdoor history mail scrap";
+var mnemonic = "power memory photo income mixed deliver poet moral series level chef chef";

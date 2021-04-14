@@ -1,1 +1,1 @@
-var mnemonic = "crunch winner tuna brisk cloth enroll divert solution soon crucial voyage throw";
+var mnemonic = "column keep bulb shine exile coyote front gorilla group kangaroo similar vast";

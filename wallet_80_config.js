@@ -1,1 +1,1 @@
-var mnemonic = "burst shield mesh empower entire memory lift vacuum grunt diagram razor team";
+var mnemonic = "sword dolphin defense course hockey candy soap have rich patrol echo kite";

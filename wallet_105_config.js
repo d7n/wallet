@@ -1,1 +1,1 @@
-var mnemonic = "lend remember demand wealth cash medal museum distance imitate region diet paper";
+var mnemonic = "tennis trap quiz size shove zero law dignity ketchup tired solar wise";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney school shop onion twin walk genius situate enter hope story buyer";
+var mnemonic = "result crawl autumn expect verify another trust olympic present final nice way";

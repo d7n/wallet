@@ -1,1 +1,1 @@
-var mnemonic = "derive market buyer tortoise silly eye bacon shed recall primary arrange call";
+var mnemonic = "vendor cricket patrol price shuffle web ceiling bulb leg benefit client motion";
