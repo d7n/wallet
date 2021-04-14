@@ -1,1 +1,1 @@
-var mnemonic = "scrub scrub purchase robot profit drill flavor move panda boss prepare home";
+var mnemonic = "prosper slice share metal matrix goose sudden private energy latin battle great";

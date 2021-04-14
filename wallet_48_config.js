@@ -1,1 +1,1 @@
-var mnemonic = "enemy about better spoon knife nasty clinic bridge million primary profit mimic";
+var mnemonic = "exotic leader run potato second rally imitate reopen dentist chef abandon slam";

@@ -1,1 +1,1 @@
-var mnemonic = "clip enhance reason photo glad vibrant kite learn economy maximum lawsuit eight";
+var mnemonic = "train memory flush eagle pilot nurse setup fatigue into taxi present avoid";

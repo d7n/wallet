@@ -1,1 +1,1 @@
-var mnemonic = "cash step rabbit shell unveil blossom legal need pioneer beyond congress bulk";
+var mnemonic = "segment nation disorder pill author glimpse suggest grab into drastic monster hurdle";

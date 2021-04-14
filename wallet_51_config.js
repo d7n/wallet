@@ -1,1 +1,1 @@
-var mnemonic = "confirm plate general retreat confirm decade decorate peace tide mechanic inform twelve";
+var mnemonic = "sing armor boring ivory sting claim patrol erode stable spell autumn float";

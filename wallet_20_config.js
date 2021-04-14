@@ -1,1 +1,1 @@
-var mnemonic = "matrix art artist clinic toward episode pony capital memory neck main only";
+var mnemonic = "error shine chair penalty stock steak sample noodle illness conduct doctor dawn";

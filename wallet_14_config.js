@@ -1,1 +1,1 @@
-var mnemonic = "grunt fiber copy shoulder duty eyebrow brand muffin cherry pen bench pyramid";
+var mnemonic = "market venture behind flat place consider annual bitter pledge spray humble doll";

@@ -1,1 +1,1 @@
-var mnemonic = "lab winter warfare educate ribbon fringe real initial clutch purse people seed";
+var mnemonic = "delay execute bench hub track swim virtual flag enough defy calm fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate bright raccoon monkey pool chat tilt road print income share grape";
+var mnemonic = "grab trim pass pulse visual pencil maze easily find lizard soul stone";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth drip lend pigeon spare year february domain ahead tent script autumn";
+var mnemonic = "person ramp leave slab olympic lab chase dream economy panic ivory twice";

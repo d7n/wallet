@@ -1,1 +1,1 @@
-var mnemonic = "slice average lesson goat keep gallery broom position interest leg fossil pause";
+var mnemonic = "invest word bench trophy cheap annual amateur uphold prosper what fitness vital";

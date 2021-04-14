@@ -1,1 +1,1 @@
-var mnemonic = "drink cotton year rude wear accident shrimp unfold will title jewel ill";
+var mnemonic = "grunt give scorpion pupil extend fatigue month either gaze hip guess offer";

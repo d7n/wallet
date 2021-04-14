@@ -1,1 +1,1 @@
-var mnemonic = "useful alien mind height birth flame strategy total stay rival chuckle catalog";
+var mnemonic = "lock alter between member average detail negative soap broccoli menu output absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise bright wagon cricket poem kite false sea minor twelve input lion";
+var mnemonic = "bacon void elephant office timber flush oak thank wrestle below lunch identify";

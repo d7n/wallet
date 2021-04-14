@@ -1,1 +1,1 @@
-var mnemonic = "extend daring place drink lawsuit fog grow bring sad keen common prepare";
+var mnemonic = "duck sting police alter exact wild gap style jewel ancient detail blush";

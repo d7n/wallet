@@ -1,1 +1,1 @@
-var mnemonic = "place design medal submit poverty enough oil one result stock lawsuit sign";
+var mnemonic = "appear remove fitness total apple dose garden garage liar wrong museum toddler";

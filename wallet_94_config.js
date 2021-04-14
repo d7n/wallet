@@ -1,1 +1,1 @@
-var mnemonic = "floor toilet boss heart firm ethics range crowd palm sustain risk coil";
+var mnemonic = "load dynamic bundle force census choose afford smoke security aisle young mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "offer east nuclear thumb winter over indoor canal december harbor sudden monitor";
+var mnemonic = "thumb youth risk planet select primary poem devote evil lion scale setup";

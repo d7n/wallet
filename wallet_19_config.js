@@ -1,1 +1,1 @@
-var mnemonic = "catalog giraffe swallow eager marble border drift turtle distance steak fruit afraid";
+var mnemonic = "acid left solve gold shy toddler kitten use pudding tank daughter boost";

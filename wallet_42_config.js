@@ -1,1 +1,1 @@
-var mnemonic = "front kiss sugar shrimp happy bachelor essay harbor fortune bitter awkward sponsor";
+var mnemonic = "peace limb enable sail monkey oil leisure legal wonder addict better burst";

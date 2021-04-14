@@ -1,1 +1,1 @@
-var mnemonic = "middle trend hybrid age utility suspect exile obey drill inherit pilot execute";
+var mnemonic = "clerk language bulb woman bitter iron crop title claim neck vivid baby";

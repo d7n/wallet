@@ -1,1 +1,1 @@
-var mnemonic = "supreme brisk cycle tomato abuse purity address memory donate divert actual clap";
+var mnemonic = "plug barrel useless trial ankle scorpion because deer save smoke demand sweet";

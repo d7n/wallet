@@ -1,1 +1,1 @@
-var mnemonic = "tuition frost champion rally engage green forum smile essence man mammal range";
+var mnemonic = "candy idle disease bag they replace funny buffalo design water brain forward";

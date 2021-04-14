@@ -1,1 +1,1 @@
-var mnemonic = "stand roof wagon camera butter rival beef jar pet divert want love";
+var mnemonic = "powder tilt miracle clock unveil sample voice initial cat accident replace ask";

@@ -1,1 +1,1 @@
-var mnemonic = "capital similar mistake list marriage own gold want gossip crop fee bachelor";
+var mnemonic = "save term ship exercise empower monitor mother second fork timber buddy chaos";

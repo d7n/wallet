@@ -1,1 +1,1 @@
-var mnemonic = "endless nice prosper wagon hour pizza fuel stairs attack ripple asthma step";
+var mnemonic = "provide venue wall injury error remind police blue idle name ball chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter domain opera visa better nominee alley toe myth obtain long family";
+var mnemonic = "purse diet milk misery coyote indicate object few below cost cereal amused";

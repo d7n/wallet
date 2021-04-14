@@ -1,1 +1,1 @@
-var mnemonic = "hood chicken inch mirror garlic argue hard team whale science dove creek";
+var mnemonic = "opinion wrap inmate loud release promote chat arrow adapt human cat sword";

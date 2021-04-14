@@ -1,1 +1,1 @@
-var mnemonic = "million skate buddy survey frog since scare cry hazard moment cloud credit";
+var mnemonic = "mad minor cushion custom put gown wise grain cloth obey bridge shrug";

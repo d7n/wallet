@@ -1,1 +1,1 @@
-var mnemonic = "lizard later giggle you spell news sibling certain hold pelican there begin";
+var mnemonic = "order market guide garage giggle forward auction void exit link various scale";

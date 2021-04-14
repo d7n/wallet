@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo beef dragon lock uncover surface grunt swear globe accuse style dynamic";
+var mnemonic = "online photo ensure oven depart cereal symptom stable loyal group federal used";

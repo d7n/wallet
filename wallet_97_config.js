@@ -1,1 +1,1 @@
-var mnemonic = "gown sort chapter retire canoe shine enhance exchange sight detail wild just";
+var mnemonic = "pink matter thank tray craft time rhythm tuition excite equip walk drift";

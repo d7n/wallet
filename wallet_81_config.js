@@ -1,1 +1,1 @@
-var mnemonic = "carry regular scrub lumber elevator avocado sun chest design voyage bind bid";
+var mnemonic = "head fruit glass crew essay town detect check family combine two hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild atom false hotel myself describe answer tool rate oxygen south issue";
+var mnemonic = "grow occur family demand knife wait demise forest liberty artist now spell";

@@ -1,1 +1,1 @@
-var mnemonic = "exist myth mention adapt doctor easily thought puppy capable pioneer rail edge";
+var mnemonic = "learn amount column afraid hedgehog garment tiny high image east lake bench";

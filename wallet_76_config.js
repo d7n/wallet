@@ -1,1 +1,1 @@
-var mnemonic = "acid average pull also close ghost achieve opinion visual runway mesh surround";
+var mnemonic = "noodle million robot entry erode alert service smart broccoli fan waste fit";

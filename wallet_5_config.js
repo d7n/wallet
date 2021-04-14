@@ -1,1 +1,1 @@
-var mnemonic = "confirm above vault oak appear grocery hobby moment banner ritual next genre";
+var mnemonic = "practice grocery kangaroo style chunk proud shoulder foam spike enjoy tribe crash";

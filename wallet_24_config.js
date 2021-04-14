@@ -1,1 +1,1 @@
-var mnemonic = "mule large leaf spring snap account yard session steak add snap depend";
+var mnemonic = "sea victory brave vote maid arrow burden slush acid fog empower chef";

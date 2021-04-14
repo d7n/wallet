@@ -1,1 +1,1 @@
-var mnemonic = "south ask select submit soft design prefer icon ship author crisp tube";
+var mnemonic = "divorce museum receive history advance spoil flame portion easily country empower question";

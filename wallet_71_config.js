@@ -1,1 +1,1 @@
-var mnemonic = "collect expose maximum suspect dance recycle monster duty relax idle divide badge";
+var mnemonic = "flip dentist slush leg diet major harsh foil idea book neither music";

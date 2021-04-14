@@ -1,1 +1,1 @@
-var mnemonic = "polar garlic void amused predict column crawl ring nasty gasp ocean mistake";
+var mnemonic = "material intact final radar mom marriage grace endorse pear sick stumble dream";

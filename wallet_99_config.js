@@ -1,1 +1,1 @@
-var mnemonic = "lazy try cash sand antenna assault exclude boat pair razor fiction athlete";
+var mnemonic = "square enforce organ race task wisdom vacuum battle brief wedding drastic hill";

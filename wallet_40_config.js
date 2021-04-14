@@ -1,1 +1,1 @@
-var mnemonic = "leg valley injury biology choice estate anxiety staff drip random peanut cupboard";
+var mnemonic = "casino library play lumber buffalo frost unfair team nuclear glow claim whip";

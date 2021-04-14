@@ -1,1 +1,1 @@
-var mnemonic = "educate mad dinner genius beauty key sad also base pony hurt elbow";
+var mnemonic = "coyote certain behind rely quality cloth begin disagree concert upgrade silly trend";

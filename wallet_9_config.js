@@ -1,1 +1,1 @@
-var mnemonic = "key fashion float good debris inform elbow have chat quiz person fiction";
+var mnemonic = "deny car involve exclude city polar situate return page before dentist obtain";

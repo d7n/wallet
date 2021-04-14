@@ -1,1 +1,1 @@
-var mnemonic = "tip hazard put vanish film hunt pencil sword soda repair stage pioneer";
+var mnemonic = "code milk bar element edge salon jewel know weather since aisle gossip";

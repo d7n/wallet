@@ -1,1 +1,1 @@
-var mnemonic = "unaware notable rural smoke group virus demand dirt gauge camera panda coffee";
+var mnemonic = "drum quality ill desk outdoor lunar spirit engine mail genre capable fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "clown enlist erupt athlete canal cricket wash add waste struggle virtual frog";
+var mnemonic = "toy claw kite plunge exotic kit lawsuit gospel crew jelly drop spice";

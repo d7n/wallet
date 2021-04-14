@@ -1,1 +1,1 @@
-var mnemonic = "able easy endorse decade act yellow trouble buffalo exit gun print wall";
+var mnemonic = "grace sound worth problem faith idea bird awful praise law obvious wink";

@@ -1,1 +1,1 @@
-var mnemonic = "world settle shiver story fence august injury inside parade myself square sauce";
+var mnemonic = "exist barrel melody goddess margin crunch riot idea mom friend drift brief";

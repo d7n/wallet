@@ -1,1 +1,1 @@
-var mnemonic = "left before question time flavor domain country utility kid fetch ivory despair";
+var mnemonic = "dutch few much dilemma common control absorb drift tobacco lift three buddy";

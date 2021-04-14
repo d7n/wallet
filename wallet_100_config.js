@@ -1,1 +1,1 @@
-var mnemonic = "beauty myth mountain mutual noodle test artist toilet shoulder success seven original";
+var mnemonic = "smile degree kiss layer town intact solve hope matter broken anger repeat";

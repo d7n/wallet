@@ -1,1 +1,1 @@
-var mnemonic = "mammal filter farm destroy accident couple lizard tragic attend enter cancel foster";
+var mnemonic = "around elephant venture satisfy culture pizza morning book universe life burden stick";

@@ -1,1 +1,1 @@
-var mnemonic = "point large blouse tiger buyer dove timber fine define dismiss upgrade worry";
+var mnemonic = "lab joy atom arrow spare reject muscle seminar cram bulb pen stadium";

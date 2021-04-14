@@ -1,1 +1,1 @@
-var mnemonic = "aware syrup saddle bicycle regular render case try theme tonight glad primary";
+var mnemonic = "snack rule lumber vehicle among also cousin measure ostrich announce omit genuine";

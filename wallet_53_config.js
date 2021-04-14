@@ -1,1 +1,1 @@
-var mnemonic = "laundry slide clay seed uncover only drill win fall across arm stumble";
+var mnemonic = "equal deliver vibrant diagram icon palace remind way laugh chat life artwork";

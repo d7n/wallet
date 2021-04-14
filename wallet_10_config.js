@@ -1,1 +1,1 @@
-var mnemonic = "entire cinnamon fiscal snake decade alert crucial derive buzz cigar stamp such";
+var mnemonic = "faith nominee detail awkward move random involve exit coach donkey session stereo";

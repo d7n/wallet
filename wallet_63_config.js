@@ -1,1 +1,1 @@
-var mnemonic = "hidden system bounce magnet apology cradle inch orient crunch theory angry cinnamon";
+var mnemonic = "lamp stick spare flock honey put purchase fetch scatter oval edge cat";

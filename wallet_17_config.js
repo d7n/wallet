@@ -1,1 +1,1 @@
-var mnemonic = "enjoy awful ill exist marble before riot media fantasy mosquito glue issue";
+var mnemonic = "crumble couple rabbit dirt approve melt zebra unfair typical mixed cabin teach";

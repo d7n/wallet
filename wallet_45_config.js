@@ -1,1 +1,1 @@
-var mnemonic = "cruise surround stereo allow use flash bamboo labor axis stand distance artefact";
+var mnemonic = "private what immune jewel clog stable park inside elite basic artist adult";

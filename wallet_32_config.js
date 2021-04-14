@@ -1,1 +1,1 @@
-var mnemonic = "latin extra leopard subject slow unusual crack honey focus dizzy luxury system";
+var mnemonic = "panic clerk reform perfect mammal flight nice turn know cousin current leave";

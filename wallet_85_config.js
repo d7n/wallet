@@ -1,1 +1,1 @@
-var mnemonic = "farm surprise furnace cheese tag pretty person limb coin grunt orchard good";
+var mnemonic = "member crisp drill mix plug chapter boost chef repair void dune index";

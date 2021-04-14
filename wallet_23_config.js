@@ -1,1 +1,1 @@
-var mnemonic = "already patch engine stone chair sing impact beef jar anchor require wish";
+var mnemonic = "adapt urban blush swarm concert talent beauty they local soon element cable";

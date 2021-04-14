@@ -1,1 +1,1 @@
-var mnemonic = "riot company circle remain wealth drum next ordinary soul crowd pilot sudden";
+var mnemonic = "start magic soap dog armed feed odor end wealth capital clap odor";

@@ -1,1 +1,1 @@
-var mnemonic = "august discover twist planet subway paper asset can bus dizzy decline insect";
+var mnemonic = "squirrel opera subject setup pumpkin matter travel giggle harbor galaxy voice appear";

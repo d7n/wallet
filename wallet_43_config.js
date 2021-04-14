@@ -1,1 +1,1 @@
-var mnemonic = "chaos sudden olive detail match inspire winter ticket radio screen gather truck";
+var mnemonic = "smart good melt bird drama nut fault payment sibling sauce title hunt";

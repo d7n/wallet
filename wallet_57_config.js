@@ -1,1 +1,1 @@
-var mnemonic = "toe imitate local weekend siren flame point online become rifle episode trigger";
+var mnemonic = "certain weird grant sport warm office slender pupil dry digital season ahead";

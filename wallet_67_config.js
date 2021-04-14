@@ -1,1 +1,1 @@
-var mnemonic = "chapter winter bar say quote field hidden glow beef donkey cluster forest";
+var mnemonic = "similar prison tool tuition pencil hood able all off enrich blossom hard";

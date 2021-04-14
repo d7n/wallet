@@ -1,1 +1,1 @@
-var mnemonic = "universe valley typical coil birth chef trick rapid across mouse damp thrive";
+var mnemonic = "glimpse edit magic approve attract float phone danger pumpkin select swarm riot";

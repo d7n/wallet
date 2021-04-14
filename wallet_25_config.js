@@ -1,1 +1,1 @@
-var mnemonic = "ill popular siren leave belt type ethics put accuse order flower deer";
+var mnemonic = "peanut transfer museum success trade course doctor aspect embody course depend joke";

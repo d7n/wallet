@@ -1,1 +1,1 @@
-var mnemonic = "release mean warm special minute hour hood fat gate advance visit rate";
+var mnemonic = "breeze income rocket coast federal prepare sunny strategy rabbit menu vast foster";

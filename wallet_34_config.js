@@ -1,1 +1,1 @@
-var mnemonic = "error rubber any caution sport tattoo exit retire throw almost ivory lazy";
+var mnemonic = "issue elevator damp slide defense ribbon notice now claim giant topic check";

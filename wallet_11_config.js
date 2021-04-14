@@ -1,1 +1,1 @@
-var mnemonic = "cycle negative hub hold street helmet merit retreat soda bulk coyote oppose";
+var mnemonic = "genre front slim fix city fix address outdoor list mean orchard loud";

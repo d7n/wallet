@@ -1,1 +1,1 @@
-var mnemonic = "bottom expose attend silent elephant hundred they scorpion hope easily island twist";
+var mnemonic = "neck end mirror frozen fantasy theory sniff success bomb digital grace ankle";

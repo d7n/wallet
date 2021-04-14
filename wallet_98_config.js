@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog reopen will outdoor attack tone question number style drive inner sing";
+var mnemonic = "setup tragic ride wasp blouse situate airport rack tongue mesh monkey pride";

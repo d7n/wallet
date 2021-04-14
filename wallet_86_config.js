@@ -1,1 +1,1 @@
-var mnemonic = "town open person feed imitate caught miracle curtain slice various arch portion";
+var mnemonic = "sauce alley butter boss science cluster essay pizza industry pear army nuclear";

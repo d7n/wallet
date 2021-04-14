@@ -1,1 +1,1 @@
-var mnemonic = "girl injury kid symbol stairs piece oyster attend pause blur upgrade suggest";
+var mnemonic = "music before limit occur endorse ostrich knock aunt favorite develop city clip";

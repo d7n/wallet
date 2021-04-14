@@ -1,1 +1,1 @@
-var mnemonic = "outer build choose height chunk object dish board bird river frost razor";
+var mnemonic = "decorate put allow include sport armed amateur run mad rabbit chest donkey";

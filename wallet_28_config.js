@@ -1,1 +1,1 @@
-var mnemonic = "similar weekend desk cereal trap spy damage submit six nerve primary neither";
+var mnemonic = "census promote six celery eight bread bridge spatial awkward friend order gesture";

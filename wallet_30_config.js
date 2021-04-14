@@ -1,1 +1,1 @@
-var mnemonic = "inhale hair winner aware syrup solar news divide immune swallow lizard blur";
+var mnemonic = "old frame hybrid net usual inmate today lemon warrior vivid van income";

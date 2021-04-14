@@ -1,1 +1,1 @@
-var mnemonic = "kitchen hood frame often bunker shed armor siren undo soft pistol hero";
+var mnemonic = "assist sand leopard unit upgrade turtle elite drama song diamond spot soda";

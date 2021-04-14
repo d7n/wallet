@@ -1,1 +1,1 @@
-var mnemonic = "unit inflict globe shift manual cousin skate then slow goddess swear eager";
+var mnemonic = "menu walk weather analyst original decorate fall neglect broccoli hobby disagree finger";

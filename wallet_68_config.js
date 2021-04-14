@@ -1,1 +1,1 @@
-var mnemonic = "bless cancel omit arena into drop author lawsuit wonder wool video minor";
+var mnemonic = "tone ghost hard hotel silent snow axis bounce option luggage blast voice";

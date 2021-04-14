@@ -1,1 +1,1 @@
-var mnemonic = "huge rapid erode grape face knee hope cotton grief envelope extra poverty";
+var mnemonic = "modify topple dog achieve isolate post farm select visit head company fiscal";

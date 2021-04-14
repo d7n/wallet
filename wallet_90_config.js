@@ -1,1 +1,1 @@
-var mnemonic = "defy glance move question winner local vacuum clerk lounge pottery blind scan";
+var mnemonic = "vendor pizza asthma caught wine nerve trick track scheme six hat pig";

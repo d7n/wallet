@@ -1,1 +1,1 @@
-var mnemonic = "stomach blossom okay mansion monster visit attend gentle talk burst observe decade";
+var mnemonic = "cupboard one detect flush ghost camera virtual friend act attend sample envelope";

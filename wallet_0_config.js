@@ -1,1 +1,1 @@
-var mnemonic = "abandon asset note depend split neither lady filter about anchor expire paddle";
+var mnemonic = "curious sad dutch host wish despair bread expose shed shove action fluid";
