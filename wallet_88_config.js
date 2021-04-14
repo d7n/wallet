@@ -1,1 +1,1 @@
-var mnemonic = "worth vital shop craft share fit spray latin blast trap join rare";
+var mnemonic = "coffee card gun addict prepare seminar recycle topple dial aerobic garlic garlic";

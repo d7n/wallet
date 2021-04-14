@@ -1,1 +1,1 @@
-var mnemonic = "enrich winner steel before siege item enrich armed travel educate misery trash";
+var mnemonic = "involve rebel must lecture bar ahead vibrant obtain trouble cube salmon pact";

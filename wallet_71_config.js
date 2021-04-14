@@ -1,1 +1,1 @@
-var mnemonic = "meat relief reunion wire nasty lake gate crane arm village refuse range";
+var mnemonic = "horse intact copper vapor rich boil settle oil mutual wash give animal";

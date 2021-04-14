@@ -1,1 +1,1 @@
-var mnemonic = "wrong forum green suggest hope gravity soldier dizzy search amazing spoon express";
+var mnemonic = "camp clog lottery stock place scout impulse neglect ankle limb cost adult";

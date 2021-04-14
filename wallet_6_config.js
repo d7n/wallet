@@ -1,1 +1,1 @@
-var mnemonic = "siren license hair crystal pave stumble brave very gorilla just region original";
+var mnemonic = "rather scatter left rain kidney arrange whisper law crazy sort harsh anchor";

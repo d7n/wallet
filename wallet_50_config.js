@@ -1,1 +1,1 @@
-var mnemonic = "seat wasp humble frost honey convince spatial spin column recall various century";
+var mnemonic = "sort prize decline jelly brother wedding submit light exotic flip grab cement";

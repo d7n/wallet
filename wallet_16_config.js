@@ -1,1 +1,1 @@
-var mnemonic = "weather prefer attend aunt before daring reason robot promote anxiety exile lottery";
+var mnemonic = "common patrol engine speak mammal myself cousin capable medal ramp lounge reason";

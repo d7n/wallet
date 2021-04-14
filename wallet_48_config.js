@@ -1,1 +1,1 @@
-var mnemonic = "dynamic iron hybrid energy pool bleak come truly smoke clean afford fetch";
+var mnemonic = "aerobic lyrics reason honey regret kidney length gift hover circle assault virus";

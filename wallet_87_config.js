@@ -1,1 +1,1 @@
-var mnemonic = "ordinary penalty ceiling snack hurry lift wonder dignity tortoise resist mimic drastic";
+var mnemonic = "forward oblige mansion badge apology arrest afraid then oblige gas hope shoe";

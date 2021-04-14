@@ -1,1 +1,1 @@
-var mnemonic = "black token enlist unaware town gown put tongue word hint naive grunt";
+var mnemonic = "mountain birth tornado leg describe process twenty across patrol giant pave divert";

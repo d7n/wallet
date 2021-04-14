@@ -1,1 +1,1 @@
-var mnemonic = "barely trick exact update auction scatter erase arctic umbrella vital lumber gesture";
+var mnemonic = "away flush solid love weather eternal hungry bonus aisle awesome piece brief";

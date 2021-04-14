@@ -1,1 +1,1 @@
-var mnemonic = "grab income lumber brain mom rack diagram leopard vault utility casino fruit";
+var mnemonic = "sister taste fresh chaos gravity maid glide scorpion oblige crop usage admit";

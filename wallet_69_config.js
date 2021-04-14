@@ -1,1 +1,1 @@
-var mnemonic = "lyrics crisp zone armor top resource draw mirror bachelor logic decade fence";
+var mnemonic = "buffalo episode lumber employ paper appear legend fatigue guard govern away admit";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate midnight kiwi inner brother ten margin cake deposit horror pyramid virus";
+var mnemonic = "sick since crater ankle close tornado hand glass cream brave victory giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "pave renew below together arrow either lawn stadium fame ball law dream";
+var mnemonic = "dynamic warrior bachelor jealous rib apple energy hybrid marriage doll gift mix";

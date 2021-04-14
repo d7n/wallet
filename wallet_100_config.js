@@ -1,1 +1,1 @@
-var mnemonic = "across rate mouse since poem miss uncle soup gallery better fix illegal";
+var mnemonic = "large decorate force family reject panda better engine arena puzzle donor artwork";

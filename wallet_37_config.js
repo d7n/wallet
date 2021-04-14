@@ -1,1 +1,1 @@
-var mnemonic = "long prefer novel keen faculty give rigid season field gloom play expose";
+var mnemonic = "flavor eye wise strategy stem train dinner crucial sustain yellow monster now";

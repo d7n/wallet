@@ -1,1 +1,1 @@
-var mnemonic = "finger mushroom stamp bind ripple rival open various famous ill finish steak";
+var mnemonic = "burst trophy photo fruit envelope solar second blast muffin home hurry strong";

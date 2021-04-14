@@ -1,1 +1,1 @@
-var mnemonic = "salon gift client tortoise split talk eight stomach apology close ivory dawn";
+var mnemonic = "cash common mandate science day profit audit daughter analyst depart taste glad";

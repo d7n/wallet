@@ -1,1 +1,1 @@
-var mnemonic = "tomato tuna upper parent fault spare element trade issue occur quantum hundred";
+var mnemonic = "invite bring path social chase doctor west network submit until claw they";

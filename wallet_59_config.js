@@ -1,1 +1,1 @@
-var mnemonic = "walk pole pistol picnic sketch oven fit brown maze allow start cupboard";
+var mnemonic = "desert speed shaft divert junior parade man vessel sword veteran tiny mobile";

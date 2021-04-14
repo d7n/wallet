@@ -1,1 +1,1 @@
-var mnemonic = "saddle tank bar water prize tilt road high icon melt great true";
+var mnemonic = "priority photo unhappy bitter often gym clap useless hurt praise black inmate";

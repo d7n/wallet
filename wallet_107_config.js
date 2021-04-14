@@ -1,1 +1,1 @@
-var mnemonic = "canoe husband chat fuel announce bachelor dinosaur drip canoe movie engage excess";
+var mnemonic = "brush affair happy arch now bone silk desert horse shine city alone";

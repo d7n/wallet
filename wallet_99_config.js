@@ -1,1 +1,1 @@
-var mnemonic = "disorder whale grit ask render cost reopen blush spike episode area maximum";
+var mnemonic = "total behind ladder sea alien accuse work rifle lady video ketchup wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat bean bubble patch theory diagram remember citizen arch knock young step";
+var mnemonic = "wolf surface apple honey uncle lonely lecture card harvest wreck atom off";

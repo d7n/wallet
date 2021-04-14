@@ -1,1 +1,1 @@
-var mnemonic = "festival useful salute outer live kit gas allow present field indoor apple";
+var mnemonic = "task purity badge chef general plunge hammer abstract reflect print health bulb";

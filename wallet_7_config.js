@@ -1,1 +1,1 @@
-var mnemonic = "lake sport limit blind tumble ship please happy pepper olive glimpse planet";
+var mnemonic = "success almost degree output violin endless order slight nurse sketch spike try";

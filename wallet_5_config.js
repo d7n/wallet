@@ -1,1 +1,1 @@
-var mnemonic = "faculty female harbor scrap club segment erupt rare adjust office solve panel";
+var mnemonic = "twenty obey hospital erupt witness barely couch cram beef test rude ranch";

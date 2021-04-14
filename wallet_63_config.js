@@ -1,1 +1,1 @@
-var mnemonic = "despair electric cattle sibling slogan limb cement nut leisure relief visit early";
+var mnemonic = "frequent snap tank surge rail immense lion divert can leg rather van";

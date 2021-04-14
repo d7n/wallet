@@ -1,1 +1,1 @@
-var mnemonic = "purpose company next simple relax narrow invest glass thank festival embrace lizard";
+var mnemonic = "anger fossil glad dentist elite barrel detail vacuum dumb doctor fancy panic";

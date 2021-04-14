@@ -1,1 +1,1 @@
-var mnemonic = "arch canal cherry use harbor junk forward betray october yellow quiz december";
+var mnemonic = "tunnel burst woman omit increase pause action enforce deny size auto lucky";

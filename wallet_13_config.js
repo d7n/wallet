@@ -1,1 +1,1 @@
-var mnemonic = "vacuum below eager expose impact gloom crunch essence harsh victory rhythm ankle";
+var mnemonic = "muscle hire pyramid enact song outer van lunch vessel option assume spare";

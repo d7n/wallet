@@ -1,1 +1,1 @@
-var mnemonic = "only this chalk lyrics nothing stick armor nurse upgrade when fashion toilet";
+var mnemonic = "maze arrow spoil ribbon sentence sudden guess mango length airport hammer avoid";

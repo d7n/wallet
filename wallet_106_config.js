@@ -1,1 +1,1 @@
-var mnemonic = "bubble allow anger include drift dilemma drop barely special garden tide test";
+var mnemonic = "image guitar garment noise raccoon stairs purchase clarify flock absurd spread umbrella";

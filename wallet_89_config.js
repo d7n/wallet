@@ -1,1 +1,1 @@
-var mnemonic = "rent wagon goddess lift earn armor frost love blood front rough rubber";
+var mnemonic = "critic angry winner always include release own talk fossil hawk doctor garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire engine service display dose suit tree soldier title other gentle lady";
+var mnemonic = "include mind afford feature neutral symptom pulp erupt cage garlic stool example";

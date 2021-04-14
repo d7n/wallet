@@ -1,1 +1,1 @@
-var mnemonic = "cup switch ancient rotate jazz endorse debate crane problem swing thrive bargain";
+var mnemonic = "age absorb only hunt message robust duty where elephant canal mansion dream";

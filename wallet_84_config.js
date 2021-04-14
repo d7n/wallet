@@ -1,1 +1,1 @@
-var mnemonic = "horror admit south number bag dose actress jealous avocado together photo team";
+var mnemonic = "loan simple term doll bus expand gap siege hair rare fee erase";

@@ -1,1 +1,1 @@
-var mnemonic = "draft claw coral dumb proof fantasy main tragic govern kitten cannon tube";
+var mnemonic = "glue giraffe license shaft panic broom turkey desert soccer fix era dad";

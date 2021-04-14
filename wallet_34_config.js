@@ -1,1 +1,1 @@
-var mnemonic = "blind mandate donor gun appear grocery wish noble tomorrow property script pattern";
+var mnemonic = "awake fault post obtain liberty ugly ride throw monkey warm become ordinary";

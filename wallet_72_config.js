@@ -1,1 +1,1 @@
-var mnemonic = "absorb predict below blind crack bachelor daring jump evolve window lobster gospel";
+var mnemonic = "winner room pink budget grow brown mimic awake amazing ribbon output barrel";

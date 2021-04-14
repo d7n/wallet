@@ -1,1 +1,1 @@
-var mnemonic = "old win crane pond spot dentist test want require code burden key";
+var mnemonic = "laundry ivory knife easy winter december fish capable view weather page nut";

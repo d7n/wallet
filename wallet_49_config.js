@@ -1,1 +1,1 @@
-var mnemonic = "excess kiss boss raise thrive dog smile inherit antique tuna face obtain";
+var mnemonic = "gain romance piano eagle frequent adult verify analyst phone maximum page glare";

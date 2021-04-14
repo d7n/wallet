@@ -1,1 +1,1 @@
-var mnemonic = "exercise cactus clerk husband celery draw rain improve extra betray exhaust topple";
+var mnemonic = "end jazz glory suspect unknown become hint enact skull forum dad snake";

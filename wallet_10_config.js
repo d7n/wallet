@@ -1,1 +1,1 @@
-var mnemonic = "can mushroom chapter wise rely decline public bleak park glide knife fossil";
+var mnemonic = "mistake head uncover expect sniff when harsh energy clinic warrior source shuffle";

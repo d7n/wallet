@@ -1,1 +1,1 @@
-var mnemonic = "claim aunt kite horse receive main luggage nest snack adult thrive bronze";
+var mnemonic = "donor dog noodle wait pilot size vague arm misery off ozone visit";

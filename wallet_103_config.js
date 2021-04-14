@@ -1,1 +1,1 @@
-var mnemonic = "wing kitten mobile online mystery clean face worry tobacco must pitch cable";
+var mnemonic = "below juice sudden hidden salon daring engine february text rude stuff mountain";

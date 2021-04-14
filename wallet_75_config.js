@@ -1,1 +1,1 @@
-var mnemonic = "blossom ocean raccoon awesome pyramid winner rain museum zebra addict tragic involve";
+var mnemonic = "spice fiber casual razor tail visa toilet drink rocket picnic sphere voyage";

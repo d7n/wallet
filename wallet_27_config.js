@@ -1,1 +1,1 @@
-var mnemonic = "hand stomach retire suffer chronic dragon poverty oak wrong field pyramid mimic";
+var mnemonic = "attack accident middle parade custom arch winter gain slab cat mutual critic";

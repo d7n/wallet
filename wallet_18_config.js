@@ -1,1 +1,1 @@
-var mnemonic = "shadow network alley still know correct coach stool design latin oxygen comfort";
+var mnemonic = "hint hold slab patient proof manual whisper tenant soccer high cash stone";

@@ -1,1 +1,1 @@
-var mnemonic = "palace border blame resemble grit label glimpse ranch stand photo disagree obtain";
+var mnemonic = "canal bar inch ability wasp mountain pretty sense carbon equal brave orient";

@@ -1,1 +1,1 @@
-var mnemonic = "seek erupt average shallow embody economy penalty alarm clean farm rebuild ill";
+var mnemonic = "bleak intact planet rubber online arrive hundred decline clown rocket another absorb";

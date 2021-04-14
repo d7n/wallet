@@ -1,1 +1,1 @@
-var mnemonic = "when pride token mountain improve arrive frown busy into laptop silly dynamic";
+var mnemonic = "tower obey planet best fuel talent dignity key core repair rich island";

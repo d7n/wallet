@@ -1,1 +1,1 @@
-var mnemonic = "gaze agent soap summer rescue discover angle galaxy tank spell bring rice";
+var mnemonic = "kitten help sock knife mutual success pioneer hybrid alone century price uphold";

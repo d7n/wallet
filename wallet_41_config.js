@@ -1,1 +1,1 @@
-var mnemonic = "sting wire feed any excuse vapor fun dune false gospel powder sweet";
+var mnemonic = "physical script raven learn pitch width brick they avoid hammer mind during";

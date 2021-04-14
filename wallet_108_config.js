@@ -1,1 +1,1 @@
-var mnemonic = "giant ask public maximum ski evidence mango any soon alley holiday twelve";
+var mnemonic = "achieve sad devote captain coach ethics prosper noble also hobby bus coyote";

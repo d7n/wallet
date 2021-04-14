@@ -1,1 +1,1 @@
-var mnemonic = "alarm fox pistol canvas inject warfare shed human ring east foam stool";
+var mnemonic = "fog brass scissors horn trim season broom roof industry save taxi diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "risk pelican peasant measure amused fix action coral equal scorpion transfer vacuum";
+var mnemonic = "film double labor test range toy onion captain ride boring pull source";

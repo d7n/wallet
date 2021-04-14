@@ -1,1 +1,1 @@
-var mnemonic = "ocean brisk have predict symbol mesh village turtle blush ski mixed concert";
+var mnemonic = "solve effort fragile drastic turkey summer token genuine beyond ride cancel display";

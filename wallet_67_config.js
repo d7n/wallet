@@ -1,1 +1,1 @@
-var mnemonic = "object pole never sauce track toddler need bomb sleep online immune penalty";
+var mnemonic = "cart hour cram alarm explain credit luggage forum twice page orbit science";

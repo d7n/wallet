@@ -1,1 +1,1 @@
-var mnemonic = "figure control asthma ribbon bomb jar bridge hello palace write blur accident";
+var mnemonic = "major tooth place edge helmet purse return gauge flash unveil copper mesh";

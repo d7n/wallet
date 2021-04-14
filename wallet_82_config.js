@@ -1,1 +1,1 @@
-var mnemonic = "march romance gorilla hazard grace cherry soda release radio elevator bottom rare";
+var mnemonic = "guilt crystal damp word wink wasp magic couple ostrich donate twin base";

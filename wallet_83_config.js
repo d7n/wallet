@@ -1,1 +1,1 @@
-var mnemonic = "raven taste motor chimney session master you busy fault logic embody casual";
+var mnemonic = "soft custom genuine cross crouch elevator amateur uncover destroy warm flock tube";

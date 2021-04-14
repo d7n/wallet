@@ -1,1 +1,1 @@
-var mnemonic = "trouble boy holiday match climb require clip asset grant such bench trade";
+var mnemonic = "night tank artefact trap brief wasp exotic rocket ship bundle drill table";

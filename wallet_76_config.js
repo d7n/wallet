@@ -1,1 +1,1 @@
-var mnemonic = "name immune eager universe amateur sad weird elephant track milk invest word";
+var mnemonic = "gorilla pistol label cheese surprise clap canyon lottery stool giant frog assault";

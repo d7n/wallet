@@ -1,1 +1,1 @@
-var mnemonic = "fortune market next coach vague gauge diet despair cook flash permit mirror";
+var mnemonic = "gold senior keep slab barrel august when uncover ignore robust random beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic brand east fiction supreme modify knee space expect uncle wreck butter";
+var mnemonic = "hole theme whip reflect rib cattle top school axis habit cause airport";

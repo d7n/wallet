@@ -1,1 +1,1 @@
-var mnemonic = "neglect credit split general napkin humor apology antique tank general poem east";
+var mnemonic = "cat bargain drum choose salt camera castle exercise ready false valid valve";

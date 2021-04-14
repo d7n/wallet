@@ -1,1 +1,1 @@
-var mnemonic = "answer reflect floor hard giant day spin secret depend wire figure width";
+var mnemonic = "number paddle slab option half lamp water giggle wish voyage miss uncover";

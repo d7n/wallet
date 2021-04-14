@@ -1,1 +1,1 @@
-var mnemonic = "immune eagle lounge smart science culture used shop truck chronic animal mix";
+var mnemonic = "sausage miracle sure cube poverty innocent sting inject open skirt service lion";

@@ -1,1 +1,1 @@
-var mnemonic = "then dash acid oven stand author excess elite best crouch middle announce";
+var mnemonic = "spot flee sing dog agent plug pencil faith decrease napkin family solar";

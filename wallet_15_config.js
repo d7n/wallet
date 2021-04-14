@@ -1,1 +1,1 @@
-var mnemonic = "twist cram broken genius economy surge canal scatter unique hundred noise oval";
+var mnemonic = "receive forget eyebrow conduct moment stable choose shaft dawn vapor include mountain";

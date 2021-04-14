@@ -1,1 +1,1 @@
-var mnemonic = "science alter rough predict young fox aerobic feel hair spot wash first";
+var mnemonic = "shell laundry recycle gain fat winter project gasp tourist lens pencil upgrade";

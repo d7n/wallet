@@ -1,1 +1,1 @@
-var mnemonic = "ask cabin grace narrow clutch journey render rule fence vault tonight property";
+var mnemonic = "order armor tiger ostrich absent there venue bag home flash crack donkey";

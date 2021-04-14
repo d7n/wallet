@@ -1,1 +1,1 @@
-var mnemonic = "connect area favorite alien whale miss clip avoid arctic quality skirt ability";
+var mnemonic = "item sample bulb dignity mean cabin asset ankle pretty tube tag loud";

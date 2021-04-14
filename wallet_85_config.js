@@ -1,1 +1,1 @@
-var mnemonic = "romance access palace silly square rural border nephew hotel salmon vacuum bulb";
+var mnemonic = "trip pride calm chair injury true round script record shock stay visa";

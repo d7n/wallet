@@ -1,1 +1,1 @@
-var mnemonic = "toward cliff cushion surround more spin token auction soft pull survey vote";
+var mnemonic = "eyebrow canal wire tuition unique voice lonely order glance engine pupil drum";

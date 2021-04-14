@@ -1,1 +1,1 @@
-var mnemonic = "force cable mandate anxiety slab vague purchase hold glue mass join goose";
+var mnemonic = "census violin isolate table faith cover coyote garage match achieve inject radio";

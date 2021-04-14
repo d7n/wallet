@@ -1,1 +1,1 @@
-var mnemonic = "toilet laugh either insane quote comfort meat silly cheese choice gauge scan";
+var mnemonic = "vehicle evoke olympic glimpse laugh fiction assume achieve decide lemon math axis";

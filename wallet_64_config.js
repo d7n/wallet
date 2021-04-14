@@ -1,1 +1,1 @@
-var mnemonic = "ready truth lunar first broom treat tomorrow turkey alert screen twelve umbrella";
+var mnemonic = "struggle nice obey rifle voice upgrade pen sight salad remember arrive option";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby expire fun giant other permit pass dinner negative slogan egg poem";
+var mnemonic = "age boost student guide rally melody civil column hockey squirrel silent hurt";

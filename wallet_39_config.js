@@ -1,1 +1,1 @@
-var mnemonic = "return until olympic summer swallow nation multiply cherry transfer negative soup vanish";
+var mnemonic = "cage lecture barely confirm reunion wasp absorb treat effort dove social dentist";

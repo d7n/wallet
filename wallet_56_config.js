@@ -1,1 +1,1 @@
-var mnemonic = "travel brush panda tunnel endless depart absorb blue sugar seek artefact table";
+var mnemonic = "enhance fee valid aunt police sock sponsor pulse noise arrow soldier end";

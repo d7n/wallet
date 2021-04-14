@@ -1,1 +1,1 @@
-var mnemonic = "vicious neither road begin tornado twist inmate grape clutch tuna cycle carry";
+var mnemonic = "latin method shine loyal cushion comfort more tribe abandon smile clean clever";

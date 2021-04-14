@@ -1,1 +1,1 @@
-var mnemonic = "love noise illegal wait gym slice style magic poet anchor poet eyebrow";
+var mnemonic = "mail ask manage reveal fire humor grain tuition thumb either inflict kitchen";

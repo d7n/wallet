@@ -1,1 +1,1 @@
-var mnemonic = "record disorder retire attack steak industry tuna circle job olive perfect spin";
+var mnemonic = "large account success silly poem aim aerobic gravity tip pottery soda unaware";

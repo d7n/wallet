@@ -1,1 +1,1 @@
-var mnemonic = "nature original coral people tiny system exclude skull silly either resist ugly";
+var mnemonic = "kitchen kiwi crew rather torch cable artist aim jar rack certain replace";

@@ -1,1 +1,1 @@
-var mnemonic = "tent olive place witness unknown quarter gift atom modify spell enforce wing";
+var mnemonic = "bracket dinosaur stomach describe usual demand saddle cycle hawk disagree rifle climb";

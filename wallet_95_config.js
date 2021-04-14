@@ -1,1 +1,1 @@
-var mnemonic = "toddler replace balance sting earn gold alarm camp invite edge marble again";
+var mnemonic = "uphold tennis earth enjoy mango cause sick ripple humor couch latin copy";

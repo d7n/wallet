@@ -1,1 +1,1 @@
-var mnemonic = "banner grain seven rebuild decade hip update aim false alcohol stamp repeat";
+var mnemonic = "suffer sniff achieve ketchup antenna better slam stumble always escape icon frog";
