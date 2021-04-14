@@ -1,1 +1,1 @@
-var mnemonic = "have found mimic exchange price garlic typical success delay planet time news";
+var mnemonic = "bacon there planet insect wall oblige shiver decorate business distance device tray";

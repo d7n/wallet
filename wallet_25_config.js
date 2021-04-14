@@ -1,1 +1,1 @@
-var mnemonic = "actor code whale museum speak quick unable shoe say bus mention used";
+var mnemonic = "live basket expose smooth school box struggle certain can feature nasty wheat";

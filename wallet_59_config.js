@@ -1,1 +1,1 @@
-var mnemonic = "filter extend tank feature true table citizen entire equal birth book discover";
+var mnemonic = "old tongue teach amount day envelope forum medal release aisle charge measure";

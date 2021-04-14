@@ -1,1 +1,1 @@
-var mnemonic = "proof bacon speak prison seat scan hundred flower decade topple cover sorry";
+var mnemonic = "bamboo cool banana pulse stumble grid private either loyal price crush cable";

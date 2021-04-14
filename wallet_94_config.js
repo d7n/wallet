@@ -1,1 +1,1 @@
-var mnemonic = "vacant tornado just excite stove planet switch train shrug panic hero thank";
+var mnemonic = "scrub morning clarify scrub relax design citizen time remove reason assault shield";

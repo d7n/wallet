@@ -1,1 +1,1 @@
-var mnemonic = "spare notable range noodle bid tumble hour resist joke absorb depth marine";
+var mnemonic = "close coral expect solve edit typical carpet chunk purse possible jewel dog";

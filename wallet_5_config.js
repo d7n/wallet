@@ -1,1 +1,1 @@
-var mnemonic = "hole knock six delay side then name fly industry pizza illness pyramid";
+var mnemonic = "kitchen cook hospital party keep father file measure tent jar parrot tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy swap then lonely sell book transfer swamp cram park yellow position";
+var mnemonic = "mimic artwork arch hold ritual brass cannon fat firm swim robot pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "hard pudding run immune mule talent tongue route mix runway garden fat";
+var mnemonic = "strike idle region skill bless club patch stage artwork teach heart extend";

@@ -1,1 +1,1 @@
-var mnemonic = "own wisdom silver vocal kangaroo inflict because donate loop doctor pass quote";
+var mnemonic = "flame zone armor copy size hotel quiz fee wait note fame spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "short angry improve price hospital badge motion soft bracket few latin swear";
+var mnemonic = "cream like usage spoon coconut pair powder dog lady antenna unusual blossom";

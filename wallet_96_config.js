@@ -1,1 +1,1 @@
-var mnemonic = "battle mechanic twin multiply leopard actress gloom album pair enjoy atom endless";
+var mnemonic = "list keep rare flash leader decade burst unable sniff stone sorry tobacco";

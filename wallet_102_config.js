@@ -1,1 +1,1 @@
-var mnemonic = "pave brother doll estate laptop attack blossom father jar spirit elephant desert";
+var mnemonic = "exhibit essence leaf chair raccoon mix miss inform struggle winner return struggle";

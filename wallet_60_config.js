@@ -1,1 +1,1 @@
-var mnemonic = "pluck long enough palace pool coast goddess shield sick tomato siege inside";
+var mnemonic = "expect tree grape force piece diesel define machine dog bonus drip trade";

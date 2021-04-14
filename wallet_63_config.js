@@ -1,1 +1,1 @@
-var mnemonic = "bundle helmet subject ahead loud pond intact appear cross banner poet twice";
+var mnemonic = "head power fan dismiss mule idle hard street wait special zero dry";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver arena chase alpha seminar bunker razor impact network lawn sorry spend";
+var mnemonic = "regular cave genuine gentle erase month pluck area witness wire tone select";

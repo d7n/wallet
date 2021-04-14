@@ -1,1 +1,1 @@
-var mnemonic = "thought black style away salt clutch spell return top camp sad dance";
+var mnemonic = "alley shoe cinnamon dawn field october budget only plunge antenna illegal donor";

@@ -1,1 +1,1 @@
-var mnemonic = "armor pledge exercise recipe tank dismiss tape ticket trade blouse tortoise dismiss";
+var mnemonic = "hour bundle ribbon source nice robot kiwi senior hobby pet resist want";

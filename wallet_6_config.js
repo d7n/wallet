@@ -1,1 +1,1 @@
-var mnemonic = "motion figure gift jealous head shy post tip awful daring physical attitude";
+var mnemonic = "umbrella goddess grit increase admit hammer arrest room museum main wrist matter";

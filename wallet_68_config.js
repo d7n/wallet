@@ -1,1 +1,1 @@
-var mnemonic = "figure sudden reopen barely still recall way pistol damp group traffic iron";
+var mnemonic = "access claim decide siege economy gossip buddy resist ship sort asset pool";

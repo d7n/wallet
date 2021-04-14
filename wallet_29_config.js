@@ -1,1 +1,1 @@
-var mnemonic = "garlic zone guess clay prevent track wonder actress diamond oven evolve polar";
+var mnemonic = "guide body armor tuition resemble text occur rug drill ginger mother mistake";

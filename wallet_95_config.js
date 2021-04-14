@@ -1,1 +1,1 @@
-var mnemonic = "country area height oven garden announce garlic humble hire physical quick ticket";
+var mnemonic = "omit dilemma plunge favorite fuel twin leopard feature asthma pelican swallow sing";

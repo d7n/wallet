@@ -1,1 +1,1 @@
-var mnemonic = "pet tilt stadium awesome give curious humor bunker kiss dash home amount";
+var mnemonic = "shallow ghost bag fox depend sibling wine whip memory believe visit enjoy";

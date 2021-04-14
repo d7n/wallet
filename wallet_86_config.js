@@ -1,1 +1,1 @@
-var mnemonic = "taxi hard attract hello oxygen aware alone puppy vibrant barely pond mixed";
+var mnemonic = "goddess distance legend spell clip unhappy live access antique pave degree clip";

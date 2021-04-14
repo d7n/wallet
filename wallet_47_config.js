@@ -1,1 +1,1 @@
-var mnemonic = "cluster board correct cousin ostrich coconut know shaft carbon penalty crucial dolphin";
+var mnemonic = "opinion confirm symbol helmet huge ask core first artefact collect impose fitness";

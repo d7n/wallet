@@ -1,1 +1,1 @@
-var mnemonic = "protect cluster uncover future silly code mass aunt cargo math frog misery";
+var mnemonic = "alert juice pause myself wage arch scene design snap ladder rare spatial";

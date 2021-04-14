@@ -1,1 +1,1 @@
-var mnemonic = "slush deal trash athlete husband squeeze peanut faith ghost drink nasty jelly";
+var mnemonic = "sword fog confirm circle page stomach meadow hello quality win mom veteran";

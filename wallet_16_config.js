@@ -1,1 +1,1 @@
-var mnemonic = "dog dog axis online hungry allow reform coast ecology palace olive armed";
+var mnemonic = "soldier mouse short sun bonus rebuild success critic cabin tonight ancient sunset";

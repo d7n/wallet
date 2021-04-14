@@ -1,1 +1,1 @@
-var mnemonic = "legal base seminar frown shadow praise heavy knock present make throw top";
+var mnemonic = "list any fruit hand hub anger vacuum canyon gesture diesel shadow crazy";

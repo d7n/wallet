@@ -1,1 +1,1 @@
-var mnemonic = "chapter exact leader cliff thought envelope misery hill banner cruise arm toddler";
+var mnemonic = "inquiry welcome wine finish tribe hurt glove crater evolve drop hybrid kitchen";

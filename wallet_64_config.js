@@ -1,1 +1,1 @@
-var mnemonic = "army depend ripple arrow cherry submit guitar jeans song dice head family";
+var mnemonic = "regret insect fitness kid news alone judge better salad magnet hawk spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "cart link fall brand parade urge shoot loan title derive tobacco high";
+var mnemonic = "detect spend before dizzy flee latin creek fall dentist noise coyote wonder";

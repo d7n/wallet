@@ -1,1 +1,1 @@
-var mnemonic = "tent hip lamp obscure shrimp figure nature gather mad oppose amused mouse";
+var mnemonic = "chunk luxury gasp police anger plastic deer imitate rural sausage warm census";

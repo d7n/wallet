@@ -1,1 +1,1 @@
-var mnemonic = "season armed sibling segment usual lake outer horn weather basket conduct kidney";
+var mnemonic = "spin lawn gadget balance vapor come also anger hammer melody pink force";

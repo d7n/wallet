@@ -1,1 +1,1 @@
-var mnemonic = "local guide fatigue circle cradle dutch husband moral donor apple sand round";
+var mnemonic = "glide ten chaos bring diagram inherit convince tobacco oak artefact umbrella position";

@@ -1,1 +1,1 @@
-var mnemonic = "usage wreck exclude object glide they cigar spatial noise worry junk disagree";
+var mnemonic = "acquire lady stomach satisfy cargo matter enjoy nurse pottery detect hedgehog pyramid";

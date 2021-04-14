@@ -1,1 +1,1 @@
-var mnemonic = "diagram village girl hundred slow bicycle item control fall spice wrist sponsor";
+var mnemonic = "skin wire gossip cherry pyramid traffic gossip opinion swing spirit hospital sausage";

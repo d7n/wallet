@@ -1,1 +1,1 @@
-var mnemonic = "jewel charge session spin action business entire cake cluster pumpkin dynamic excite";
+var mnemonic = "primary rebel apple pudding safe good tattoo much episode when hospital erode";

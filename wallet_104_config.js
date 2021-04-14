@@ -1,1 +1,1 @@
-var mnemonic = "diet possible trash accident rude ostrich myself grace forget subway ocean cart";
+var mnemonic = "curious february clump guide dumb deer filter tiger torch brisk catalog donkey";

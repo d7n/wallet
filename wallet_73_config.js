@@ -1,1 +1,1 @@
-var mnemonic = "aunt april cabbage furnace brass debate explain sibling cliff expire palace hollow";
+var mnemonic = "defense rose spy match bachelor theory rare sport outer pigeon erosion bench";

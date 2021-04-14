@@ -1,1 +1,1 @@
-var mnemonic = "put exotic shoot pudding bunker front supreme garden live doctor equal figure";
+var mnemonic = "moon worry head crush rude ugly man onion gallery camp dial bachelor";

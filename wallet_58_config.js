@@ -1,1 +1,1 @@
-var mnemonic = "night humble unhappy fatal weather monster you citizen oyster hurdle fitness feed";
+var mnemonic = "again whisper stem present excite when tribe garden price help flavor board";

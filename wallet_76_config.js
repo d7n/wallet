@@ -1,1 +1,1 @@
-var mnemonic = "table scissors idea coyote bleak clown stereo maze pilot nephew local client";
+var mnemonic = "detect sphere pigeon already hamster thumb concert injury market video rent surprise";

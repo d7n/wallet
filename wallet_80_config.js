@@ -1,1 +1,1 @@
-var mnemonic = "glide nature reduce amused sick repeat require release sort cash swing future";
+var mnemonic = "person huge depth fee total join say balcony side crew repair weather";

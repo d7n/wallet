@@ -1,1 +1,1 @@
-var mnemonic = "young steak people paddle cinnamon theory rubber coin soft scan coach near";
+var mnemonic = "old ancient sketch hair web typical stand way quick antenna brick sense";

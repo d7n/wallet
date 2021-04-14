@@ -1,1 +1,1 @@
-var mnemonic = "urge coil icon seek acquire cruise width river debate kid old off";
+var mnemonic = "increase flash cross trumpet slight float bomb various copper movie mass trust";

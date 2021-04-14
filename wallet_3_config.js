@@ -1,1 +1,1 @@
-var mnemonic = "ordinary twelve infant nature pumpkin monkey pear debris oblige face slogan pitch";
+var mnemonic = "equal tell usage tip gun become winner gym student prison elevator uphold";

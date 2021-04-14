@@ -1,1 +1,1 @@
-var mnemonic = "leader track mixture paper dynamic zebra name another alley popular speed nurse";
+var mnemonic = "digital forest north allow bird also ladder female slide carry attitude steel";

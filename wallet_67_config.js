@@ -1,1 +1,1 @@
-var mnemonic = "goose purpose humble army real spend cactus educate knife help crazy comic";
+var mnemonic = "agree secret black humor tackle atom inspire real fringe priority hill evoke";

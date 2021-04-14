@@ -1,1 +1,1 @@
-var mnemonic = "popular fog turkey slide fork speed wise gospel excuse keep video snow";
+var mnemonic = "art mirror gentle clap market ribbon pepper fox square pulp chimney aunt";

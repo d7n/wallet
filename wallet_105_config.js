@@ -1,1 +1,1 @@
-var mnemonic = "tip gloom injury find alley fix topple remain enrich lion corn real";
+var mnemonic = "struggle boat balance attract virus hair sense luxury summer divorce hand bounce";

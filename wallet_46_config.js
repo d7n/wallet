@@ -1,1 +1,1 @@
-var mnemonic = "bring bamboo monitor snap wet leg fiction route join broccoli tongue artefact";
+var mnemonic = "spoil monkey into dinner renew rifle danger casual insect attend diagram hamster";

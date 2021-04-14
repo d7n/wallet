@@ -1,1 +1,1 @@
-var mnemonic = "purse scrub slam grid hazard width vital can evoke hobby wish unusual";
+var mnemonic = "upon shrug merry hospital estate slam loan hour filter glare shadow claim";

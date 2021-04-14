@@ -1,1 +1,1 @@
-var mnemonic = "review birth rack hat example fence strike you have shoot visa narrow";
+var mnemonic = "notable almost picture force raccoon quit update sponsor swift cliff you dress";

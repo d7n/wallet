@@ -1,1 +1,1 @@
-var mnemonic = "result grief parrot error undo rookie unfair forget evil dragon face monster";
+var mnemonic = "funny oven add give audit public punch people cross inside inflict coffee";

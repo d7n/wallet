@@ -1,1 +1,1 @@
-var mnemonic = "stay bachelor wagon educate grain coyote move surprise foot cushion mammal gospel";
+var mnemonic = "hurry badge price lock joke amount enlist smile gap luggage brain major";

@@ -1,1 +1,1 @@
-var mnemonic = "trash soul floor viable witness guard gaze swamp grief hungry worth erase";
+var mnemonic = "between ship wall tennis envelope fatal awake cook any fossil proof behave";

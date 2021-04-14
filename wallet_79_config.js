@@ -1,1 +1,1 @@
-var mnemonic = "later urge faint snap hour bird amused option mimic youth speak naive";
+var mnemonic = "recall owner divert tent trigger giggle wall silly calm basket bicycle water";

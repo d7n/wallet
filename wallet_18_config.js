@@ -1,1 +1,1 @@
-var mnemonic = "elephant salmon skill salad palace group return pencil defense such mixture dinosaur";
+var mnemonic = "exchange scale offer pluck burst warm chaos pink fragile umbrella improve artwork";

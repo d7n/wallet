@@ -1,1 +1,1 @@
-var mnemonic = "topic topple consider song three appear people dune leisure era shield topple";
+var mnemonic = "balcony deer bottom achieve spider wine brush method teach tortoise define emerge";

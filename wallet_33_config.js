@@ -1,1 +1,1 @@
-var mnemonic = "scale swallow adapt coach message distance donkey fiscal scorpion can text video";
+var mnemonic = "garment chase chalk tourist honey glide sausage twenty drum crush flavor joy";

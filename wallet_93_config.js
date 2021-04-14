@@ -1,1 +1,1 @@
-var mnemonic = "chair kitten nuclear walnut infant thank truth peace garden clinic cube essence";
+var mnemonic = "wear must motion oak fancy connect salmon know combine sponsor cloud tornado";

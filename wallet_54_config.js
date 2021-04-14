@@ -1,1 +1,1 @@
-var mnemonic = "initial coffee river trumpet maximum enjoy envelope cancel hurt street strike job";
+var mnemonic = "novel guard globe dismiss dove amazing copy reform loyal derive ketchup wedding";

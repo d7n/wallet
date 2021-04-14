@@ -1,1 +1,1 @@
-var mnemonic = "half develop illegal game neither juice race cream hobby ugly salmon rose";
+var mnemonic = "sun wool else distance guide allow acquire cloth robust become trophy gloom";

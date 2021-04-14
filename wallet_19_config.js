@@ -1,1 +1,1 @@
-var mnemonic = "certain super trick early captain lesson crop plate harsh hollow firm valve";
+var mnemonic = "submit flash course rally choose canvas trial salad wrong push glance verb";

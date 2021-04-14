@@ -1,1 +1,1 @@
-var mnemonic = "where feature there sample review junior machine slab dumb reunion plate exhaust";
+var mnemonic = "usage turn tag include extra sad fan sure myth stumble permit front";

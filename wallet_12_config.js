@@ -1,1 +1,1 @@
-var mnemonic = "bleak metal tunnel ghost chalk pitch enjoy wet capable warm zero exchange";
+var mnemonic = "income wing scene special swarm mechanic tag assume october sketch organ boss";

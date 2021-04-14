@@ -1,1 +1,1 @@
-var mnemonic = "table hidden kit garlic south fever rare pulp asthma loud sport tape";
+var mnemonic = "silly wolf light kiss stuff proof pelican already dash toss donor piano";

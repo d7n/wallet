@@ -1,1 +1,1 @@
-var mnemonic = "trip token december silent brush vicious monkey elevator pink rather steel exact";
+var mnemonic = "spot pelican gloom large license aware flash absent cup erosion pink extra";

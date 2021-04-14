@@ -1,1 +1,1 @@
-var mnemonic = "alley equal oblige cupboard original dynamic orphan salmon trial cover first fabric";
+var mnemonic = "cave run relief pear bird awful avocado tree bone chair crop leave";

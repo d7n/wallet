@@ -1,1 +1,1 @@
-var mnemonic = "famous view exist idea ghost tuition weather one month tattoo enable route";
+var mnemonic = "mesh cabbage blush space corn pave expose ignore arrest analyst sweet obey";

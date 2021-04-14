@@ -1,1 +1,1 @@
-var mnemonic = "claw sting strong orient domain gloom modify bus grief advance fox suspect";
+var mnemonic = "twenty enrich borrow project ready dinosaur dentist eager wire stem easily pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "brand forward famous budget limit lake great jeans mind sight symbol frost";
+var mnemonic = "pencil predict region elite stove curious believe spare seat country just manual";

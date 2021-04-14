@@ -1,1 +1,1 @@
-var mnemonic = "learn barely across hawk friend orphan decrease horse clinic wall stick then";
+var mnemonic = "spoil plate arrow stone congress moment fold snake crater neither quantum unfair";

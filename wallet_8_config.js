@@ -1,1 +1,1 @@
-var mnemonic = "region couple please critic swallow dress hybrid priority kick myth light case";
+var mnemonic = "soccer tribe liberty parent whisper planet strong tank lottery drop shadow sock";

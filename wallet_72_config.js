@@ -1,1 +1,1 @@
-var mnemonic = "another cross chase flee cycle goddess drive diary pattern shuffle public swamp";
+var mnemonic = "service have faculty equal moon roof turtle side harbor man crowd toe";

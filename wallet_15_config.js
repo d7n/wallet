@@ -1,1 +1,1 @@
-var mnemonic = "still another pretty wave attract found toss rain fault virtual kitten sense";
+var mnemonic = "force swift want manual food chest cream jar harsh print napkin ship";

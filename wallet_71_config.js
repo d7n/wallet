@@ -1,1 +1,1 @@
-var mnemonic = "shop position dragon inmate wagon pave burger region sunny blur fragile team";
+var mnemonic = "crawl fortune daughter hold great tourist lunar later want garlic tuition below";

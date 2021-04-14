@@ -1,1 +1,1 @@
-var mnemonic = "boat caution occur voice quarter body obscure above uniform cupboard purchase royal";
+var mnemonic = "tuition figure suffer alcohol better shed law force reduce net medal poverty";

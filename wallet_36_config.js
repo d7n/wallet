@@ -1,1 +1,1 @@
-var mnemonic = "such palm park genius defy pause immune another silly indoor want awake";
+var mnemonic = "anger fancy excite lend wrist review pony anger table toy exile mass";

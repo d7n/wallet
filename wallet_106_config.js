@@ -1,1 +1,1 @@
-var mnemonic = "sustain swamp doctor lunar kingdom forget sibling render box drive joy grid";
+var mnemonic = "stumble hobby charge region shine salt need dad clean stick cabin reunion";

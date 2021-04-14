@@ -1,1 +1,1 @@
-var mnemonic = "drop brown vacuum renew uncover margin swap rapid anchor enroll retire response";
+var mnemonic = "decrease clinic sad degree improve lawsuit duck gym mistake render worry globe";

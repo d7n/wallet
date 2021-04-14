@@ -1,1 +1,1 @@
-var mnemonic = "crater illegal orient basic element voice ready ranch arrive danger fit salad";
+var mnemonic = "cigar face scheme write clever solution review word man mule filter try";

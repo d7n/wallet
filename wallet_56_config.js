@@ -1,1 +1,1 @@
-var mnemonic = "delay mammal funny garden admit jewel stone question essay party bind accuse";
+var mnemonic = "embrace goat unit confirm mutual cute script rent bicycle urge abandon final";

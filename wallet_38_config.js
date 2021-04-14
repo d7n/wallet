@@ -1,1 +1,1 @@
-var mnemonic = "job beach decide cross angle beach magnet renew leopard miracle wheel alien";
+var mnemonic = "cube plunge gas copper atom board faith outdoor drip put explain north";

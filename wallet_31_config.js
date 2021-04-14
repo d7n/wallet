@@ -1,1 +1,1 @@
-var mnemonic = "orchard ride execute problem monkey result tube glide salad cruise enact addict";
+var mnemonic = "mother oppose stable immense follow fatigue rain atom welcome wrap picture machine";

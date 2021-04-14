@@ -1,1 +1,1 @@
-var mnemonic = "vapor erase bring employ embark click dinner congress logic behind world kind";
+var mnemonic = "spawn whale snow strike describe horn wide earn nephew dress spike list";

@@ -1,1 +1,1 @@
-var mnemonic = "such photo special beauty aunt aware husband tiger eternal own picture culture";
+var mnemonic = "claw review copy cinnamon effort lounge update strike hold offer capital cost";
