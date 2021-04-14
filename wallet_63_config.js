@@ -1,1 +1,1 @@
-var mnemonic = "burst rain unique race door soldier ride project obscure family night chalk";
+var mnemonic = "bundle helmet subject ahead loud pond intact appear cross banner poet twice";

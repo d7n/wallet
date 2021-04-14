@@ -1,1 +1,1 @@
-var mnemonic = "faint baby bulk gadget nice shoot promote skill sense caught tomorrow van";
+var mnemonic = "brand forward famous budget limit lake great jeans mind sight symbol frost";

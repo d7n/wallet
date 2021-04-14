@@ -1,1 +1,1 @@
-var mnemonic = "diesel exercise symbol minute wing globe hill demand harvest hen limb raven";
+var mnemonic = "silly expose rate pull arctic risk feel rail plastic plug wrap nut";

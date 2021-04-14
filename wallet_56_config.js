@@ -1,1 +1,1 @@
-var mnemonic = "turkey apology strong quit cycle wet expand opinion brown era diet ripple";
+var mnemonic = "delay mammal funny garden admit jewel stone question essay party bind accuse";

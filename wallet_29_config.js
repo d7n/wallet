@@ -1,1 +1,1 @@
-var mnemonic = "scorpion ahead fatigue wife skull answer quantum achieve knife poet puppy assault";
+var mnemonic = "garlic zone guess clay prevent track wonder actress diamond oven evolve polar";

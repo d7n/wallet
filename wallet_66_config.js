@@ -1,1 +1,1 @@
-var mnemonic = "spell version inch ill home proud indoor owner raven mercy actor argue";
+var mnemonic = "urge coil icon seek acquire cruise width river debate kid old off";

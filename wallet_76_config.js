@@ -1,1 +1,1 @@
-var mnemonic = "spy spot olive shine place wood base believe poem junk welcome shed";
+var mnemonic = "table scissors idea coyote bleak clown stereo maze pilot nephew local client";

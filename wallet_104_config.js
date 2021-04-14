@@ -1,1 +1,1 @@
-var mnemonic = "now meadow despair ready grace half wood toe abstract travel coin merry";
+var mnemonic = "diet possible trash accident rude ostrich myself grace forget subway ocean cart";

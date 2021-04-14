@@ -1,1 +1,1 @@
-var mnemonic = "picture fold thumb pottery gauge battle section demise pizza essence occur fire";
+var mnemonic = "deliver arena chase alpha seminar bunker razor impact network lawn sorry spend";

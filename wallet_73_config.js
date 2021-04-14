@@ -1,1 +1,1 @@
-var mnemonic = "stem rapid gossip gesture wink clay tornado remind erosion cereal alert cart";
+var mnemonic = "aunt april cabbage furnace brass debate explain sibling cliff expire palace hollow";

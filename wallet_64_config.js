@@ -1,1 +1,1 @@
-var mnemonic = "pistol slice sugar razor inform relax speak talk guard glad lyrics bus";
+var mnemonic = "army depend ripple arrow cherry submit guitar jeans song dice head family";

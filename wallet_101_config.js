@@ -1,1 +1,1 @@
-var mnemonic = "erase fit garden fall lock stay lion circle virtual festival require replace";
+var mnemonic = "trash soul floor viable witness guard gaze swamp grief hungry worth erase";

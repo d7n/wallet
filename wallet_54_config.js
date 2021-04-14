@@ -1,1 +1,1 @@
-var mnemonic = "youth obvious volume cradle stomach appear loud check near file sauce dolphin";
+var mnemonic = "initial coffee river trumpet maximum enjoy envelope cancel hurt street strike job";

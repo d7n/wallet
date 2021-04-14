@@ -1,1 +1,1 @@
-var mnemonic = "embark girl autumn surge text rural twenty mixture kiwi own license mandate";
+var mnemonic = "half develop illegal game neither juice race cream hobby ugly salmon rose";

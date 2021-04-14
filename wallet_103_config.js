@@ -1,1 +1,1 @@
-var mnemonic = "galaxy betray kingdom globe blur february dolphin print liberty student salute series";
+var mnemonic = "put exotic shoot pudding bunker front supreme garden live doctor equal figure";

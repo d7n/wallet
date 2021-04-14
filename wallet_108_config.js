@@ -1,1 +1,1 @@
-var mnemonic = "symptom ostrich real there sorry wheat embody gloom jelly banner insane stuff";
+var mnemonic = "orchard top peasant pottery inner census machine family blouse laundry brush middle";

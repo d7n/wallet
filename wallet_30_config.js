@@ -1,1 +1,1 @@
-var mnemonic = "robust screen zebra drastic early glimpse coil stuff guilt camera also urge";
+var mnemonic = "spare notable range noodle bid tumble hour resist joke absorb depth marine";

@@ -1,1 +1,1 @@
-var mnemonic = "video napkin ice crack monitor snow describe husband owner pen young cradle";
+var mnemonic = "hammer width palace search hamster deer game cannon pilot inside rubber ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "effort north vessel sure story patient income mountain city volume reward spoon";
+var mnemonic = "chapter exact leader cliff thought envelope misery hill banner cruise arm toddler";

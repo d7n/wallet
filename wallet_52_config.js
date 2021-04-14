@@ -1,1 +1,1 @@
-var mnemonic = "prosper clerk initial key short horse begin success renew neutral spoil later";
+var mnemonic = "hard pudding run immune mule talent tongue route mix runway garden fat";

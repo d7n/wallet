@@ -1,1 +1,1 @@
-var mnemonic = "buffalo lens toe museum earth vital long settle joke horse foil window";
+var mnemonic = "scale swallow adapt coach message distance donkey fiscal scorpion can text video";

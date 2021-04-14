@@ -1,1 +1,1 @@
-var mnemonic = "velvet latin fire current soldier expand scrap gate debris rate venue control";
+var mnemonic = "claw sting strong orient domain gloom modify bus grief advance fox suspect";

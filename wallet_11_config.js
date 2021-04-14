@@ -1,1 +1,1 @@
-var mnemonic = "brief forward goat mutual only tiny mobile element luxury decrease glimpse habit";
+var mnemonic = "sausage crack sight dice prevent valley special draw tree flavor hold worth";

@@ -1,1 +1,1 @@
-var mnemonic = "approve pluck talent attack flush secret future scale leg cloud cable tired";
+var mnemonic = "such palm park genius defy pause immune another silly indoor want awake";

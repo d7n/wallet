@@ -1,1 +1,1 @@
-var mnemonic = "stairs random stomach country truck century vault wet magic harvest rule fat";
+var mnemonic = "country area height oven garden announce garlic humble hire physical quick ticket";

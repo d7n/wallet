@@ -1,1 +1,1 @@
-var mnemonic = "income offer social garlic solution marriage victory path over sadness crash fire";
+var mnemonic = "proof bacon speak prison seat scan hundred flower decade topple cover sorry";

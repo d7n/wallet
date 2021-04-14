@@ -1,1 +1,1 @@
-var mnemonic = "subway speed cluster this flower govern fetch raccoon box light transfer unfair";
+var mnemonic = "cabin tube marble voice umbrella aunt immense jar little pig squirrel venture";

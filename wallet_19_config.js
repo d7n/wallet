@@ -1,1 +1,1 @@
-var mnemonic = "ski short census mobile rebel honey mandate slice famous steak power mirror";
+var mnemonic = "certain super trick early captain lesson crop plate harsh hollow firm valve";

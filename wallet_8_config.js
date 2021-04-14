@@ -1,1 +1,1 @@
-var mnemonic = "cradle minor bounce have type dumb surprise vocal october strategy kitten fiber";
+var mnemonic = "region couple please critic swallow dress hybrid priority kick myth light case";

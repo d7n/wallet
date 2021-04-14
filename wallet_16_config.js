@@ -1,1 +1,1 @@
-var mnemonic = "govern insect grocery rapid satoshi food check cream spirit atom mountain minor";
+var mnemonic = "dog dog axis online hungry allow reform coast ecology palace olive armed";

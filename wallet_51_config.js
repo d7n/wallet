@@ -1,1 +1,1 @@
-var mnemonic = "valve drip since soap learn spray all food company property vendor clever";
+var mnemonic = "pet tilt stadium awesome give curious humor bunker kiss dash home amount";

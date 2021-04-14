@@ -1,1 +1,1 @@
-var mnemonic = "cruise exile wisdom novel climb vibrant meadow narrow knee inherit during region";
+var mnemonic = "cart rival wife glass odor ship size mixed cross huge machine adapt";

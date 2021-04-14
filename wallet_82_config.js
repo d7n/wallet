@@ -1,1 +1,1 @@
-var mnemonic = "original blanket sausage attract mimic time cargo crater busy snap comic club";
+var mnemonic = "have found mimic exchange price garlic typical success delay planet time news";

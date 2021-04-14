@@ -1,1 +1,1 @@
-var mnemonic = "fatal rural sock mom author benefit vessel federal among remove swing when";
+var mnemonic = "table hidden kit garlic south fever rare pulp asthma loud sport tape";

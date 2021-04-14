@@ -1,1 +1,1 @@
-var mnemonic = "food whale stamp myth mix hold chicken detect capital amazing pill impulse";
+var mnemonic = "ginger brother soul february injury live idle ice mask few mosquito friend";

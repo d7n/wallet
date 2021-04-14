@@ -1,1 +1,1 @@
-var mnemonic = "bacon meat issue stem place empty ordinary color legend rain duck quiz";
+var mnemonic = "orchard ride execute problem monkey result tube glide salad cruise enact addict";

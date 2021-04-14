@@ -1,1 +1,1 @@
-var mnemonic = "until mouse afraid invest toilet vanish lab tourist thought diet present plate";
+var mnemonic = "still another pretty wave attract found toss rain fault virtual kitten sense";

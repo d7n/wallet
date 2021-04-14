@@ -1,1 +1,1 @@
-var mnemonic = "pencil sunny basket estate project muffin gaze unhappy suspect invite issue wool";
+var mnemonic = "unfold asthma filter two table bleak sand harbor meat wheat flip pass";

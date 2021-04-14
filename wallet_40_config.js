@@ -1,1 +1,1 @@
-var mnemonic = "glimpse grain script excess cruise west when humor hand match town goddess";
+var mnemonic = "fatal myth door response cloud loyal steel select enroll hungry caught meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "distance case genius wonder else afraid favorite vast lecture best warrior then";
+var mnemonic = "congress weird blind exclude hold peasant sketch wing goose cave half stick";

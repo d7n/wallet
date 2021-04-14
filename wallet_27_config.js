@@ -1,1 +1,1 @@
-var mnemonic = "economy wood outer tiny alcohol team elite common sibling cruise symbol drift";
+var mnemonic = "tent hip lamp obscure shrimp figure nature gather mad oppose amused mouse";

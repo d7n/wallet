@@ -1,1 +1,1 @@
-var mnemonic = "hollow consider leisure glide afraid reflect cereal million gift pattern tent spend";
+var mnemonic = "legal base seminar frown shadow praise heavy knock present make throw top";

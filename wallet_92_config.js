@@ -1,1 +1,1 @@
-var mnemonic = "now lamp warfare solve fire win choice wish alcohol three pair interest";
+var mnemonic = "alley equal oblige cupboard original dynamic orphan salmon trial cover first fabric";

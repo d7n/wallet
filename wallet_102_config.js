@@ -1,1 +1,1 @@
-var mnemonic = "lobster equip detect giggle question sample sun ethics oxygen assault federal guide";
+var mnemonic = "pave brother doll estate laptop attack blossom father jar spirit elephant desert";

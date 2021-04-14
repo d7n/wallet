@@ -1,1 +1,1 @@
-var mnemonic = "audit tree case gift grief echo bronze cousin dawn net lyrics evoke";
+var mnemonic = "crater illegal orient basic element voice ready ranch arrive danger fit salad";

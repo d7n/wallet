@@ -1,1 +1,1 @@
-var mnemonic = "enact occur any impact liar silly shuffle expire expose violin screen party";
+var mnemonic = "snap thunder melody cat false attitude alpha tail clever amount peace deputy";

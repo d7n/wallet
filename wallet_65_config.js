@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur chair harvest fiber test soon labor whip abuse calm original urge";
+var mnemonic = "trip token december silent brush vicious monkey elevator pink rather steel exact";

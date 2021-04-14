@@ -1,1 +1,1 @@
-var mnemonic = "jazz travel seminar have abandon wrong monitor shock fitness puzzle right silent";
+var mnemonic = "usage wreck exclude object glide they cigar spatial noise worry junk disagree";

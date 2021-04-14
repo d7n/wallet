@@ -1,1 +1,1 @@
-var mnemonic = "bronze flag library surround decide circle garden machine prevent wreck craft change";
+var mnemonic = "learn barely across hawk friend orphan decrease horse clinic wall stick then";

@@ -1,1 +1,1 @@
-var mnemonic = "now critic coin tell gain arch sunset exit donkey duck aunt notice";
+var mnemonic = "sustain swamp doctor lunar kingdom forget sibling render box drive joy grid";

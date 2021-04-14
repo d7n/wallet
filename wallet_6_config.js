@@ -1,1 +1,1 @@
-var mnemonic = "exotic rookie pen soda labor execute retreat candy bulb oxygen erase riot";
+var mnemonic = "motion figure gift jealous head shy post tip awful daring physical attitude";

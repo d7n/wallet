@@ -1,1 +1,1 @@
-var mnemonic = "absent car intact correct remove draft print surge panel wasp bachelor cactus";
+var mnemonic = "figure sudden reopen barely still recall way pistol damp group traffic iron";

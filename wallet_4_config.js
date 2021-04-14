@@ -1,1 +1,1 @@
-var mnemonic = "curve wrist suffer shield february reveal renew rapid frog stove coin suffer";
+var mnemonic = "jewel charge session spin action business entire cake cluster pumpkin dynamic excite";

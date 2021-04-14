@@ -1,1 +1,1 @@
-var mnemonic = "snow task broken squeeze tray raise bamboo alien uncover gap private husband";
+var mnemonic = "hospital castle strike festival private address wink hybrid frequent attract rely hungry";

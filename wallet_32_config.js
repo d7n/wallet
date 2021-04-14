@@ -1,1 +1,1 @@
-var mnemonic = "faculty valley host voice exist merit history elder matter wave police exhaust";
+var mnemonic = "thought black style away salt clutch spell return top camp sad dance";

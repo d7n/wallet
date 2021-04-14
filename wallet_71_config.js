@@ -1,1 +1,1 @@
-var mnemonic = "blood narrow evil build return ring sister alcohol asthma fuel action salmon";
+var mnemonic = "shop position dragon inmate wagon pave burger region sunny blur fragile team";

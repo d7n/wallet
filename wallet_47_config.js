@@ -1,1 +1,1 @@
-var mnemonic = "indoor glove twin exit subject cover direct note degree raven defy lizard";
+var mnemonic = "cluster board correct cousin ostrich coconut know shaft carbon penalty crucial dolphin";

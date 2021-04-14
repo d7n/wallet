@@ -1,1 +1,1 @@
-var mnemonic = "young dinosaur depend liberty advance grace clerk shuffle dance artefact minute develop";
+var mnemonic = "pluck long enough palace pool coast goddess shield sick tomato siege inside";

@@ -1,1 +1,1 @@
-var mnemonic = "amount truth color rotate above shoot disorder outside cave change syrup kiss";
+var mnemonic = "fancy swap then lonely sell book transfer swamp cram park yellow position";

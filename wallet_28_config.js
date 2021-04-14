@@ -1,1 +1,1 @@
-var mnemonic = "echo bean frost weasel push return will charge mirror silk excess mention";
+var mnemonic = "diagram village girl hundred slow bicycle item control fall spice wrist sponsor";

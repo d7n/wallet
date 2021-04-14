@@ -1,1 +1,1 @@
-var mnemonic = "tag vibrant husband joke slot toss chicken island answer brush shed face";
+var mnemonic = "range zone appear pause enemy skate vibrant cupboard stay drip blind mandate";

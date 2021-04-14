@@ -1,1 +1,1 @@
-var mnemonic = "ability below intact penalty final this practice bar polar birth person educate";
+var mnemonic = "bring bamboo monitor snap wet leg fiction route join broccoli tongue artefact";

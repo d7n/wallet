@@ -1,1 +1,1 @@
-var mnemonic = "judge hour gallery travel quarter enhance excess armed few kite useful hire";
+var mnemonic = "chair kitten nuclear walnut infant thank truth peace garden clinic cube essence";

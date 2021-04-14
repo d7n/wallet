@@ -1,1 +1,1 @@
-var mnemonic = "ahead admit settle rubber rail craft arrive where reject solar talk typical";
+var mnemonic = "drop brown vacuum renew uncover margin swap rapid anchor enroll retire response";

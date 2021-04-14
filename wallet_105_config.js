@@ -1,1 +1,1 @@
-var mnemonic = "fortune truly invest width drastic cattle stone write manage tent clean outdoor";
+var mnemonic = "tip gloom injury find alley fix topple remain enrich lion corn real";

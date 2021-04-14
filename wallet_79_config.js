@@ -1,1 +1,1 @@
-var mnemonic = "seven roast inform crumble bid rebuild nest video deny purity note upon";
+var mnemonic = "later urge faint snap hour bird amused option mimic youth speak naive";

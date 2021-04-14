@@ -1,1 +1,1 @@
-var mnemonic = "foot crucial speak few script myth post erase symptom chronic habit develop";
+var mnemonic = "young steak people paddle cinnamon theory rubber coin soft scan coach near";

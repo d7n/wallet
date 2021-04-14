@@ -1,1 +1,1 @@
-var mnemonic = "market actor forward ecology front idle party fan number vehicle gloom excuse";
+var mnemonic = "cart link fall brand parade urge shoot loan title derive tobacco high";

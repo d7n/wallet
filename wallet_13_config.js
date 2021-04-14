@@ -1,1 +1,1 @@
-var mnemonic = "advance indicate rhythm skin cupboard flush tortoise they kangaroo lens birth coil";
+var mnemonic = "where feature there sample review junior machine slab dumb reunion plate exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "nest earn poverty blue you annual lizard will tribe task hidden effort";
+var mnemonic = "ordinary twelve infant nature pumpkin monkey pear debris oblige face slogan pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "virus timber width exclude globe antenna comic vapor salon under frog horror";
+var mnemonic = "defense gas island romance appear enable seed aunt mirror nerve patrol feed";

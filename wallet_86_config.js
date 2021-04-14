@@ -1,1 +1,1 @@
-var mnemonic = "wrestle spray crater cup cloth budget infant rice razor vacant bronze mosquito";
+var mnemonic = "taxi hard attract hello oxygen aware alone puppy vibrant barely pond mixed";

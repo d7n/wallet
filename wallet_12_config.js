@@ -1,1 +1,1 @@
-var mnemonic = "real case chalk sibling truly diamond pink wool cry glance neglect latin";
+var mnemonic = "bleak metal tunnel ghost chalk pitch enjoy wet capable warm zero exchange";

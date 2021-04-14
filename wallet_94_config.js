@@ -1,1 +1,1 @@
-var mnemonic = "misery can short illness icon slogan almost luggage favorite all open method";
+var mnemonic = "vacant tornado just excite stove planet switch train shrug panic hero thank";

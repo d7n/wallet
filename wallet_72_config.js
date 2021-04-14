@@ -1,1 +1,1 @@
-var mnemonic = "wolf true property hundred base ramp canoe stay lesson trap derive hello";
+var mnemonic = "another cross chase flee cycle goddess drive diary pattern shuffle public swamp";

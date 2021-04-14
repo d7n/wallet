@@ -1,1 +1,1 @@
-var mnemonic = "wish stable wave trend faculty lend rule sell upgrade option educate empty";
+var mnemonic = "famous view exist idea ghost tuition weather one month tattoo enable route";

@@ -1,1 +1,1 @@
-var mnemonic = "easily valid genius brick drama alarm tackle cover metal elder hand bottom";
+var mnemonic = "reflect skill identify donkey skate crater glimpse tray olympic snow swift scatter";

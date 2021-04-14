@@ -1,1 +1,1 @@
-var mnemonic = "crush embody aware item degree album punch diary glow cable replace crowd";
+var mnemonic = "armor pledge exercise recipe tank dismiss tape ticket trade blouse tortoise dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "match ten breeze pass special foster empower debris run pulp poverty wall";
+var mnemonic = "vapor erase bring employ embark click dinner congress logic behind world kind";

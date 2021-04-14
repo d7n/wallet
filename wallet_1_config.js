@@ -1,1 +1,1 @@
-var mnemonic = "tooth keep gossip mansion void warm candy stay ugly split beach glow";
+var mnemonic = "slush deal trash athlete husband squeeze peanut faith ghost drink nasty jelly";

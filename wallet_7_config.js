@@ -1,1 +1,1 @@
-var mnemonic = "actress curious duty device forward mass furnace enemy home twin silent cancel";
+var mnemonic = "protect cluster uncover future silly code mass aunt cargo math frog misery";

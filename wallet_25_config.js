@@ -1,1 +1,1 @@
-var mnemonic = "seven mouse order open time enemy boat world humble cover that lobster";
+var mnemonic = "actor code whale museum speak quick unable shoe say bus mention used";

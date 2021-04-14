@@ -1,1 +1,1 @@
-var mnemonic = "juice inner payment grace donate potato salute loyal blush drive you final";
+var mnemonic = "topic topple consider song three appear people dune leisure era shield topple";

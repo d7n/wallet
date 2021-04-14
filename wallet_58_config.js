@@ -1,1 +1,1 @@
-var mnemonic = "excite slush burger tennis disorder belt tobacco foam wonder ranch frequent breeze";
+var mnemonic = "night humble unhappy fatal weather monster you citizen oyster hurdle fitness feed";

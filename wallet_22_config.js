@@ -1,1 +1,1 @@
-var mnemonic = "invite rare dirt update eager oyster relax fatal trust muffin resemble liquid";
+var mnemonic = "review birth rack hat example fence strike you have shoot visa narrow";

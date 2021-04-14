@@ -1,1 +1,1 @@
-var mnemonic = "finish reveal term awesome hidden position alien base hip pear record gesture";
+var mnemonic = "leader track mixture paper dynamic zebra name another alley popular speed nurse";

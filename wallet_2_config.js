@@ -1,1 +1,1 @@
-var mnemonic = "cable walnut album other arrow liberty coyote unaware school avoid lab cheap";
+var mnemonic = "popular fog turkey slide fork speed wise gospel excuse keep video snow";

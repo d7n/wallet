@@ -1,1 +1,1 @@
-var mnemonic = "gun envelope crime worth amount only fee chunk eager strategy miss kiss";
+var mnemonic = "boat caution occur voice quarter body obscure above uniform cupboard purchase royal";

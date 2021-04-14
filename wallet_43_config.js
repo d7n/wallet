@@ -1,1 +1,1 @@
-var mnemonic = "hub spike apart file honey already crunch crater provide doll decrease athlete";
+var mnemonic = "trip escape cargo until satoshi dress now pyramid lady mushroom gym wise";

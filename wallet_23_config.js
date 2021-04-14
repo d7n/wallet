@@ -1,1 +1,1 @@
-var mnemonic = "hub elegant feature include glide error fun march siren degree orchard manual";
+var mnemonic = "wait reduce gap record fatigue vote shine toilet reduce pyramid income stock";

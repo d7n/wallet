@@ -1,1 +1,1 @@
-var mnemonic = "update axis shy monkey push property toy someone board clap wine require";
+var mnemonic = "goose purpose humble army real spend cactus educate knife help crazy comic";

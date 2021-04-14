@@ -1,1 +1,1 @@
-var mnemonic = "miracle ginger another casino post toddler spider dwarf sphere stable climb worry";
+var mnemonic = "job beach decide cross angle beach magnet renew leopard miracle wheel alien";

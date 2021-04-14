@@ -1,1 +1,1 @@
-var mnemonic = "mushroom local brown electric embody wood cushion term visual story video nut";
+var mnemonic = "purse scrub slam grid hazard width vital can evoke hobby wish unusual";

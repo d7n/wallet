@@ -1,1 +1,1 @@
-var mnemonic = "rail post wash knock mad fun ordinary sleep tobacco section error deposit";
+var mnemonic = "whisper fine slow judge vessel coach skill zero eyebrow key budget dust";
