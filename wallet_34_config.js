@@ -1,1 +1,1 @@
-var mnemonic = "unit novel minor sport salad panic idle struggle sell breeze kiss head";
+var mnemonic = "legend lady pelican ring harsh portion chimney ocean spring seed weapon file";

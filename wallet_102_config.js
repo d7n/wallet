@@ -1,1 +1,1 @@
-var mnemonic = "assist feel route else later season funny leaf matter either often gift";
+var mnemonic = "pull mirror raise point shop major dynamic toilet across lobster lawsuit mouse";

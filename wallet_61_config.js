@@ -1,1 +1,1 @@
-var mnemonic = "outer monitor hurt jealous glance anger cannon wall thought under argue wait";
+var mnemonic = "oak leopard fault pen replace slight inhale what awake novel chest orbit";

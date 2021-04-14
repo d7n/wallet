@@ -1,1 +1,1 @@
-var mnemonic = "swear hold hub lab way muscle imitate rent pen label column praise";
+var mnemonic = "advice scare boat pattern buyer will crazy result conduct dynamic distance grace";

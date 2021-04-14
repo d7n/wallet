@@ -1,1 +1,1 @@
-var mnemonic = "fall screen call nominee behind shift wait enter dawn umbrella maze ordinary";
+var mnemonic = "online fitness slogan hockey nest write weather march typical front miracle coral";

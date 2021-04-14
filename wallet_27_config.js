@@ -1,1 +1,1 @@
-var mnemonic = "enter option laptop random enlist leader spy carry someone twin always proud";
+var mnemonic = "butter wagon verify patient spin vendor motor circle topic later arrive rival";

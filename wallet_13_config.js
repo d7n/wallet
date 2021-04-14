@@ -1,1 +1,1 @@
-var mnemonic = "lab file differ travel favorite link prison catch shift burst gallery typical";
+var mnemonic = "lizard joy math jewel spin more leaf sister office effort slight theme";

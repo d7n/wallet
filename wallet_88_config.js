@@ -1,1 +1,1 @@
-var mnemonic = "veteran swift butter hybrid keep trial mule together evolve lamp blur wave";
+var mnemonic = "mushroom dawn glare twelve tribe bless pen nature glance captain series unhappy";

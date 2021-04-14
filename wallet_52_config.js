@@ -1,1 +1,1 @@
-var mnemonic = "reveal wasp exact escape fall sting early account tattoo face video clap";
+var mnemonic = "promote ahead coach hope chaos join blossom drastic exhaust damage then render";

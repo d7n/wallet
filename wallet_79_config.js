@@ -1,1 +1,1 @@
-var mnemonic = "another chase banner point license shy diary return join update sea fatigue";
+var mnemonic = "asthma purpose team margin coil violin distance good huge battle love maximum";

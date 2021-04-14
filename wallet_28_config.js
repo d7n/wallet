@@ -1,1 +1,1 @@
-var mnemonic = "cradle cup exotic ritual invest oven rally celery later parrot clap reopen";
+var mnemonic = "vehicle kitchen notice strategy turn exclude into skill runway shell language split";

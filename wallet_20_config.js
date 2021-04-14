@@ -1,1 +1,1 @@
-var mnemonic = "theory anchor minimum retire retreat enjoy snow panel athlete report odor broom";
+var mnemonic = "ocean idle cinnamon next wrong meat ridge notable robust source tilt lucky";

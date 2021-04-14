@@ -1,1 +1,1 @@
-var mnemonic = "canvas tomorrow accident guide mask cream put ecology primary burst busy zone";
+var mnemonic = "crater romance hour shed cube upper fame wasp length organ room brass";

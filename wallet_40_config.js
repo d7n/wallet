@@ -1,1 +1,1 @@
-var mnemonic = "bench raw blind twin suggest answer borrow short message poet glow myth";
+var mnemonic = "company pioneer one wife candy bone chair token increase juice arrow gift";

@@ -1,1 +1,1 @@
-var mnemonic = "tape place seed crystal scissors eyebrow spoon real boat rebel lazy office";
+var mnemonic = "novel album allow mask phrase syrup future shoe manual arctic gauge begin";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain deer source basic pretty buffalo height nest air risk invite fee";
+var mnemonic = "rescue frequent cradle pretty measure crime oak pride install curtain remain master";

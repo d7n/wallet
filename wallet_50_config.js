@@ -1,1 +1,1 @@
-var mnemonic = "aunt example remember need suffer opinion goat process embark detect auction fun";
+var mnemonic = "quiz owner unusual famous portion behind oval teach crawl magnet orchard false";

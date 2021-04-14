@@ -1,1 +1,1 @@
-var mnemonic = "faculty want draw city search husband topple album fabric craft judge motor";
+var mnemonic = "oxygen draft later liberty laugh start odor beach grit frown leg month";

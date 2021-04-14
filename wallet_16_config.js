@@ -1,1 +1,1 @@
-var mnemonic = "polar spell essay tail duty bracket pupil few topple popular impose blanket";
+var mnemonic = "puppy fossil lawn liar transfer sure federal sudden lend cannon sad glass";

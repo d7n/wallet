@@ -1,1 +1,1 @@
-var mnemonic = "tomato shallow vicious tilt team wreck primary decade potato state betray canal";
+var mnemonic = "gloom hockey seek hazard wave mom cloud off axis brave warrior open";

@@ -1,1 +1,1 @@
-var mnemonic = "profit enter excuse major rack chair divide connect mixed rapid someone life";
+var mnemonic = "twin column city tragic purpose ugly motion analyst hold scheme crucial october";

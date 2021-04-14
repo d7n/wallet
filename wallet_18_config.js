@@ -1,1 +1,1 @@
-var mnemonic = "weird sun proof fall endless master title average skate auction leopard stamp";
+var mnemonic = "all airport wealth seminar success liar earth junior long duck history fade";

@@ -1,1 +1,1 @@
-var mnemonic = "either concert crouch nasty cupboard endless endorse one grain nose wasp number";
+var mnemonic = "public relax salad pelican salad parent skin deliver syrup offer solution hair";

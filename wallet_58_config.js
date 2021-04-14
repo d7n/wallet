@@ -1,1 +1,1 @@
-var mnemonic = "acoustic hedgehog fox open silk toward cinnamon wonder achieve kid hill express";
+var mnemonic = "demise aim alone large output panic current wonder cream fix ivory pumpkin";

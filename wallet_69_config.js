@@ -1,1 +1,1 @@
-var mnemonic = "tobacco bounce evolve grunt teach warrior boy fish virus manage hope brand";
+var mnemonic = "another chaos lake forum all odor ticket glance sample name buddy swear";

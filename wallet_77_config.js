@@ -1,1 +1,1 @@
-var mnemonic = "similar balance arena august yellow blue purity parent ribbon dwarf female mouse";
+var mnemonic = "deliver symptom trust neutral expand real clerk hedgehog valley usage still buzz";

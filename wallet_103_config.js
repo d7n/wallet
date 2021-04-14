@@ -1,1 +1,1 @@
-var mnemonic = "dial gravity eight month traffic green victory picnic soap bike ritual canal";
+var mnemonic = "volume churn inch vivid rent hobby zoo orchard disagree cigar bulb rhythm";

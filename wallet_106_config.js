@@ -1,1 +1,1 @@
-var mnemonic = "weird spike tackle salad loan boring divide arctic urge test oblige merry";
+var mnemonic = "park super muffin battle welcome unusual regret deny hunt arrest silver glad";

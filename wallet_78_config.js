@@ -1,1 +1,1 @@
-var mnemonic = "liberty cereal summer smooth original fence globe weird panel answer flower cabin";
+var mnemonic = "lemon defense ginger panel chef decline banner pear very entire trigger tree";

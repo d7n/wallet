@@ -1,1 +1,1 @@
-var mnemonic = "admit reveal electric grief cattle ordinary remain patient ribbon decorate depth artist";
+var mnemonic = "glad health street shy feed into hockey found screen engage average possible";

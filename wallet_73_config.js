@@ -1,1 +1,1 @@
-var mnemonic = "gossip airport ribbon useful cattle second top tilt fish access tip donkey";
+var mnemonic = "excess sleep connect view mutual frost oblige trip beauty brain health promote";

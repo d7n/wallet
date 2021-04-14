@@ -1,1 +1,1 @@
-var mnemonic = "guard anger turn tuna dove right tower matrix rhythm flavor shuffle shiver";
+var mnemonic = "skull suspect balance early farm couch glance clutch recipe name diesel grit";

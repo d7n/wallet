@@ -1,1 +1,1 @@
-var mnemonic = "safe father patch extend boil ranch talent ski vacuum visual affair film";
+var mnemonic = "flush feature angle one mad predict fall mom person cover relief rare";

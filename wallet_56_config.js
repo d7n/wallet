@@ -1,1 +1,1 @@
-var mnemonic = "sure nasty fatal fly truly shop push pony baby average excess wash";
+var mnemonic = "decade mechanic truth convince prize glow scene brick dentist kiwi name chalk";

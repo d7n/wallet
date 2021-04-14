@@ -1,1 +1,1 @@
-var mnemonic = "abstract bone shove mail firm today often inhale river promote blanket twelve";
+var mnemonic = "tongue word memory want spare snack order canyon other firm fresh library";

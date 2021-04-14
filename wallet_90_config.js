@@ -1,1 +1,1 @@
-var mnemonic = "rack glove camera seminar major dune promote ability cabin tribe stock problem";
+var mnemonic = "type layer area wing spawn attract ski domain drop inject tragic advice";

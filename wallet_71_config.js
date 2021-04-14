@@ -1,1 +1,1 @@
-var mnemonic = "memory town manual renew page hurry child vehicle bicycle pink force attract";
+var mnemonic = "lottery riot tomato concert tent garlic syrup bundle worth salmon duck false";

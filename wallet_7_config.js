@@ -1,1 +1,1 @@
-var mnemonic = "kind blind seven between energy master exhaust tone rally reveal west seek";
+var mnemonic = "trade few tackle rely half clip sudden rhythm wall title industry lyrics";

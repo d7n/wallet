@@ -1,1 +1,1 @@
-var mnemonic = "photo exhaust soft hurt comic oblige pause toilet orient innocent mix neither";
+var mnemonic = "short emotion crew kick quiz tribe tip diagram sick cost acquire peace";

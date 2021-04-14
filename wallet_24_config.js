@@ -1,1 +1,1 @@
-var mnemonic = "under exile again share expect before magic become joke list sound hidden";
+var mnemonic = "middle hair sea bright shallow hungry right palm deliver plunge visual denial";

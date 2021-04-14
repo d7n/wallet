@@ -1,1 +1,1 @@
-var mnemonic = "merit awful rent flock craft demise amused punch swim extra spy tip";
+var mnemonic = "neck piano mystery few about excess derive exile rookie snow medal praise";

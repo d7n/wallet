@@ -1,1 +1,1 @@
-var mnemonic = "rebel luxury trumpet patch crater fetch angry immense loop stuff pigeon injury";
+var mnemonic = "upset swear flush nominee science seven cheese idle apology survey shift recycle";

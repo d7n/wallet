@@ -1,1 +1,1 @@
-var mnemonic = "toward salad disagree input vital era quiz boil myself already teach expect";
+var mnemonic = "just pass merge hold price doctor sell air bundle lunar express unique";

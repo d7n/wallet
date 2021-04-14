@@ -1,1 +1,1 @@
-var mnemonic = "aspect ancient pitch safe inmate lunar repair echo ill tomato track bullet";
+var mnemonic = "imitate sad broom plate digital crane nephew witness february wish picnic there";

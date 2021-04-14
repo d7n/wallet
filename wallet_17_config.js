@@ -1,1 +1,1 @@
-var mnemonic = "skate bind figure area total cage target trouble ring allow truly help";
+var mnemonic = "north short spirit jaguar kite purity sleep pulp child test armed torch";

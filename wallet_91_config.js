@@ -1,1 +1,1 @@
-var mnemonic = "health proud lumber update better patch erosion area cluster sad woman flag";
+var mnemonic = "manual noise vague above pumpkin tuna client invest obtain coil connect stem";

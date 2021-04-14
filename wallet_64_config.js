@@ -1,1 +1,1 @@
-var mnemonic = "legal humble push pyramid inherit attract cattle special ten young kidney jump";
+var mnemonic = "honey bargain nation describe tourist walnut ritual live version erosion enlist light";

@@ -1,1 +1,1 @@
-var mnemonic = "measure valid check crowd ask jump beyond obscure goat crowd resemble blame";
+var mnemonic = "elder relax blue gaze cube youth magic beach throw human tooth orchard";

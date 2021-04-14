@@ -1,1 +1,1 @@
-var mnemonic = "box rose walk void certain pelican symbol worry foot zero vacuum flee";
+var mnemonic = "marine powder real gap deny stick syrup across judge female body lobster";

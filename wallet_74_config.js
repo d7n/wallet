@@ -1,1 +1,1 @@
-var mnemonic = "bulk half brick odor code hard lizard tilt announce immune render order";
+var mnemonic = "woman chuckle curve blood junior base embark giggle pretty shrimp drastic blast";

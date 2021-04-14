@@ -1,1 +1,1 @@
-var mnemonic = "ranch skull merge melody stand draw unusual elite prefer clap erosion wink";
+var mnemonic = "head road aisle boring world provide garbage bronze spoon high fit still";

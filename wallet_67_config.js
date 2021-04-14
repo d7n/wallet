@@ -1,1 +1,1 @@
-var mnemonic = "exercise ritual imitate describe other raw table choice swift surface punch fan";
+var mnemonic = "tomato stadium brisk dinosaur trumpet pull caught cheese legal denial ranch still";

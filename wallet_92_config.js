@@ -1,1 +1,1 @@
-var mnemonic = "heart cotton flat judge output ice reopen illness potato divert gravity buddy";
+var mnemonic = "perfect party afford manual drill latin bachelor coyote protect magnet monitor track";

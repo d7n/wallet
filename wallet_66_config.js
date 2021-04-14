@@ -1,1 +1,1 @@
-var mnemonic = "glance device visual grab laugh pony margin skill mouse lady derive pattern";
+var mnemonic = "pigeon valley carpet mammal change stove fringe mom blast then sure destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "atom material faculty market frog kangaroo harvest calm bubble subject fee polar";
+var mnemonic = "select inherit trip verb cream neutral funny pudding man rather ladder armor";

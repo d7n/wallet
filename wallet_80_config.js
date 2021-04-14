@@ -1,1 +1,1 @@
-var mnemonic = "volume couple jewel enter math black festival story divert flower gate matrix";
+var mnemonic = "sand phone glance have awkward charge roof patrol oyster gate program fault";

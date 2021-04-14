@@ -1,1 +1,1 @@
-var mnemonic = "exit flash struggle frozen fatal kangaroo soldier ocean ship amateur bridge canyon";
+var mnemonic = "oxygen ski elegant figure equip under door special cart fluid click debris";

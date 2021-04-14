@@ -1,1 +1,1 @@
-var mnemonic = "fault six crack interest record word pioneer wash pumpkin ozone web allow";
+var mnemonic = "gauge region home shock west tool tuition food echo load quote sea";

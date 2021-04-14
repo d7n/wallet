@@ -1,1 +1,1 @@
-var mnemonic = "fold science reason earth regret vintage palace visit quantum waste steel crash";
+var mnemonic = "wash outside puppy fish make badge enroll brave manage trophy soldier fatigue";

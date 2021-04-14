@@ -1,1 +1,1 @@
-var mnemonic = "gloom stadium army humor cream entry gravity profit stone analyst suffer spice";
+var mnemonic = "matter man color light embody repeat weird lobster solution board erode public";

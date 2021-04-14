@@ -1,1 +1,1 @@
-var mnemonic = "lesson clever please ketchup come update process edge forum barrel uniform spoil";
+var mnemonic = "believe mesh milk feed silly hundred fashion garden sugar crane cricket catalog";

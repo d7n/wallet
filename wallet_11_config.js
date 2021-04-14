@@ -1,1 +1,1 @@
-var mnemonic = "topple weasel foil sketch opinion connect blade van lazy misery video ignore";
+var mnemonic = "diary rich region net weird expire dose pistol page unhappy category gallery";

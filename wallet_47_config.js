@@ -1,1 +1,1 @@
-var mnemonic = "supreme arrange payment response junk sound maze steak public north diamond van";
+var mnemonic = "sponsor near rib token unfold sure pyramid dance call gloom wine humor";

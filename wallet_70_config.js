@@ -1,1 +1,1 @@
-var mnemonic = "junior diet festival bike canvas office silly obey nose sketch scrap gold";
+var mnemonic = "hollow observe merry keen twist cancel please whisper write chapter same display";

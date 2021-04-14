@@ -1,1 +1,1 @@
-var mnemonic = "deposit pen thumb armor brain half check enemy omit delay dilemma piece";
+var mnemonic = "visual must eager craft biology cherry pill category scheme kit horror inner";

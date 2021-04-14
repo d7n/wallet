@@ -1,1 +1,1 @@
-var mnemonic = "smoke elbow fame trip robot urban choice pony expire goose squeeze action";
+var mnemonic = "miss ensure climb canyon donate target morning horror ancient throw license truth";

@@ -1,1 +1,1 @@
-var mnemonic = "lady blouse canvas quote reason whip guide alien ring live lion expand";
+var mnemonic = "deny banana shuffle punch lamp agree caught age ill sunset capable palm";

@@ -1,1 +1,1 @@
-var mnemonic = "brush equal yellow trade pear panel kiss phone mirror wolf insane limit";
+var mnemonic = "mandate lady nephew poet pioneer fringe meadow together gallery select fee people";

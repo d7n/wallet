@@ -1,1 +1,1 @@
-var mnemonic = "hold clip sign mean there choice chair then airport into bone daring";
+var mnemonic = "fly inner tuna unveil poem pull sketch mask leg any pony puppy";

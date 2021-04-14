@@ -1,1 +1,1 @@
-var mnemonic = "survey pupil life fragile cherry toss demise leopard leader agent turn suggest";
+var mnemonic = "planet shed border industry open dignity tuna crush any what lazy capable";

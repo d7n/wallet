@@ -1,1 +1,1 @@
-var mnemonic = "iron culture object uphold grant basket birth goat junior end wrestle hard";
+var mnemonic = "achieve okay snack hero squeeze electric bring error matrix flavor will bar";

@@ -1,1 +1,1 @@
-var mnemonic = "discover confirm hat course iron define mule orchard travel dwarf ordinary bridge";
+var mnemonic = "rug pipe nurse simple ordinary morning menu width reason lecture clock year";

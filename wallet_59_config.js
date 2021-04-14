@@ -1,1 +1,1 @@
-var mnemonic = "mosquito fire fault phone doll manage small shed vault judge run swear";
+var mnemonic = "farm human bring bubble issue early anxiety prefer bulb depart churn check";

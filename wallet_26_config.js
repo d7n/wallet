@@ -1,1 +1,1 @@
-var mnemonic = "space promote pair final mass avocado gossip absurd canvas gesture leader name";
+var mnemonic = "must weasel sing foster social double latin someone wheel engage cricket surround";

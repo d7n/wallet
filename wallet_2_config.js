@@ -1,1 +1,1 @@
-var mnemonic = "cabin sick note budget that manual ship glare trouble grunt loud can";
+var mnemonic = "pill drive glory visa bicycle wait decorate abandon together welcome error pupil";

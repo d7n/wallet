@@ -1,1 +1,1 @@
-var mnemonic = "logic useful avocado gravity group cousin powder square source cushion bottom cover";
+var mnemonic = "loan engage rose guide moral lake spell female leader congress fat bright";

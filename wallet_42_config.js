@@ -1,1 +1,1 @@
-var mnemonic = "card hockey rookie before never lock wild across glass foot fitness stool";
+var mnemonic = "pig clock unfold this beyond pottery knife boil once modify elite file";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect brick napkin vocal baby save merry social foam quality drill fold";
+var mnemonic = "hire inner convince rubber pledge ocean general flag flavor gauge desk soda";

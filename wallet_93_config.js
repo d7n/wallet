@@ -1,1 +1,1 @@
-var mnemonic = "raw embrace spike sustain question work muffin wreck profit north brush ripple";
+var mnemonic = "liar stuff lunch snap hill naive abandon appear ritual glad fiscal forget";

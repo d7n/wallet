@@ -1,1 +1,1 @@
-var mnemonic = "visual fun sample fabric length system meadow suffer circle stamp reunion merit";
+var mnemonic = "neutral timber day armed adjust uncle insect chunk velvet believe fiction excite";

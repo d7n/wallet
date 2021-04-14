@@ -1,1 +1,1 @@
-var mnemonic = "debris elite include theory autumn coral novel youth mechanic move awful nuclear";
+var mnemonic = "pattern later token paddle embrace jewel swallow sad across catalog ecology return";

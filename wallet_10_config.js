@@ -1,1 +1,1 @@
-var mnemonic = "sick runway couch famous label table flee unlock cradle town split dust";
+var mnemonic = "shed neither toss income moment fault orchard wing fit dry secret clump";

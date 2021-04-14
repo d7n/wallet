@@ -1,1 +1,1 @@
-var mnemonic = "nuclear lyrics velvet mushroom guilt ladder before crouch emerge solution stone frog";
+var mnemonic = "uncover acid accuse visual sausage sausage collect laugh clock laundry hen dilemma";

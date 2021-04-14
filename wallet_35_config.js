@@ -1,1 +1,1 @@
-var mnemonic = "rhythm around car check analyst donor deputy tide immune unhappy puzzle lucky";
+var mnemonic = "above tag discover reform wool kind three misery sponsor dumb song soup";

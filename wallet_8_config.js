@@ -1,1 +1,1 @@
-var mnemonic = "luxury water door genre crack choice busy verb enemy devote impulse tiger";
+var mnemonic = "potato blossom easy renew this thumb convince peanut genre uncover order level";

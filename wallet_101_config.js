@@ -1,1 +1,1 @@
-var mnemonic = "invest penalty melody cabbage bracket fashion glimpse music axis nose chalk frown";
+var mnemonic = "exercise dish pulp elbow ankle finger canyon cause air blanket stone sudden";

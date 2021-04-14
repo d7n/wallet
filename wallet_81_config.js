@@ -1,1 +1,1 @@
-var mnemonic = "sock gown letter able arena rabbit become drum fame squirrel sell grow";
+var mnemonic = "glove medal begin ladder all segment crash fringe evil castle priority chapter";

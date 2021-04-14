@@ -1,1 +1,1 @@
-var mnemonic = "receive outside pumpkin belt paper helmet model spy sentence fresh yard quality";
+var mnemonic = "angle rain misery thing prosper fruit essence trade desk pupil beef anger";

@@ -1,1 +1,1 @@
-var mnemonic = "update actor together lazy youth february rich soul edit pen typical frequent";
+var mnemonic = "wait peanut circle become nominee skin double ski away table tennis voyage";
