@@ -1,1 +1,1 @@
-var mnemonic = "door peace edge sport warfare spider festival donor connect brick soap question";
+var mnemonic = "budget defense involve prison huge swap hurt wave wise help path pipe";

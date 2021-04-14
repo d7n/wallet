@@ -1,1 +1,1 @@
-var mnemonic = "solution nerve tray sea excuse prison avoid tail smooth provide apple wrap";
+var mnemonic = "believe couch virus wire brown item company meadow ship drama input expose";

@@ -1,1 +1,1 @@
-var mnemonic = "tip lumber tape curtain thunder tape vendor carbon cake disorder supply immune";
+var mnemonic = "detail blame boat weird snow invest abandon runway staff weird ignore ramp";

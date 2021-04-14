@@ -1,1 +1,1 @@
-var mnemonic = "energy brand since truck hip fragile menu half unlock choose grocery uphold";
+var mnemonic = "choose inform smile pigeon job glove chat fine dash twice vicious borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "current smart true before party girl rural badge steak turkey differ zoo";
+var mnemonic = "eagle crazy volcano wild club extra witness clarify impose web income cream";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny column frame forget run narrow myself junior lab key glue inherit";
+var mnemonic = "urban prevent february repeat vessel start taxi credit enemy coin roof base";

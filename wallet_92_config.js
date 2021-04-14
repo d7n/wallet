@@ -1,1 +1,1 @@
-var mnemonic = "until spawn modify language region sauce industry equal cloud soft galaxy brother";
+var mnemonic = "erosion try judge keep wolf foam wife search scorpion letter globe apart";

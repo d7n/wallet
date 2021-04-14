@@ -1,1 +1,1 @@
-var mnemonic = "rice air mutual kiwi warm foot science region loud trash island opera";
+var mnemonic = "mosquito raven candy able coast lottery slice burst gym exchange table aware";

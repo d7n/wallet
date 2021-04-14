@@ -1,1 +1,1 @@
-var mnemonic = "assume home thought fun tooth chronic empty future degree mango work hero";
+var mnemonic = "rare trumpet action either kiwi what shell solution waste first hidden cinnamon";

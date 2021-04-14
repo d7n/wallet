@@ -1,1 +1,1 @@
-var mnemonic = "patch hurt celery sentence orchard mango slogan brass amateur switch illness onion";
+var mnemonic = "task repair dress horn scare sketch bomb toy bracket hill monitor involve";

@@ -1,1 +1,1 @@
-var mnemonic = "horror aim sand load art gain tiny palace earth blade drive escape";
+var mnemonic = "citizen else exit leopard century clock boring hawk note ceiling boss hidden";

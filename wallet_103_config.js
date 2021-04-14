@@ -1,1 +1,1 @@
-var mnemonic = "first mercy radio wasp unknown item acid seven trend chase annual clinic";
+var mnemonic = "degree tackle wood remind load kick please volcano creek artwork shock rail";

@@ -1,1 +1,1 @@
-var mnemonic = "treat gift paddle family brand track cause lend stamp resource pigeon wood";
+var mnemonic = "disease lady alcohol fly fashion floor cliff recycle clog december unveil chalk";

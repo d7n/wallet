@@ -1,1 +1,1 @@
-var mnemonic = "tenant chicken thrive abandon timber field clap globe like pigeon blind dutch";
+var mnemonic = "raccoon brass fork misery price pitch foot push crime climb all member";

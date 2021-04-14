@@ -1,1 +1,1 @@
-var mnemonic = "vacant once slot protect boat plug race scan limit return until ill";
+var mnemonic = "fire upset toy address stem detail spread fringe spirit skin luggage render";

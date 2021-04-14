@@ -1,1 +1,1 @@
-var mnemonic = "sunny recipe shaft filter ask couple stone leaf wall observe fresh oven";
+var mnemonic = "truly drop wheel injury own tone tape blast forum equal sauce diagram";

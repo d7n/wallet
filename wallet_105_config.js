@@ -1,1 +1,1 @@
-var mnemonic = "rocket mind buffalo garbage hurry angry minor famous civil write tackle nut";
+var mnemonic = "lend remember demand wealth cash medal museum distance imitate region diet paper";

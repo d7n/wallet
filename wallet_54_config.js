@@ -1,1 +1,1 @@
-var mnemonic = "gossip cool plug uncle term control awkward dash polar group bridge wheel";
+var mnemonic = "taste cart minute wood ten clay quick strong rural thunder bar actual";

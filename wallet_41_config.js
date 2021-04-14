@@ -1,1 +1,1 @@
-var mnemonic = "scrap wool punch case arena loan bulk senior spawn corn fold december";
+var mnemonic = "dinosaur tail inquiry impulse skate crack own knock next chalk artist bronze";

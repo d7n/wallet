@@ -1,1 +1,1 @@
-var mnemonic = "earn pretty grape junk portion useful suspect park virus describe knife poverty";
+var mnemonic = "churn motion bar amateur cost album tattoo over swing fatal access news";

@@ -1,1 +1,1 @@
-var mnemonic = "olive tumble vacuum vital deny onion library impulse jewel anxiety gentle cherry";
+var mnemonic = "famous beauty another ecology leisure receive direct orchard light wait relax salute";

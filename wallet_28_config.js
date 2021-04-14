@@ -1,1 +1,1 @@
-var mnemonic = "family cannon robot reduce above mother over welcome velvet steel student casual";
+var mnemonic = "trip engine material news pencil desert lift manual napkin fantasy genre reason";

@@ -1,1 +1,1 @@
-var mnemonic = "snow message paper brave rather weird state corn empower purchase hobby usual";
+var mnemonic = "connect eager throw bag congress cross garlic other dad cargo heavy remove";

@@ -1,1 +1,1 @@
-var mnemonic = "paper nest decide blush turn october permit switch similar angry wealth moment";
+var mnemonic = "jump anger must destroy can tennis gold raven fragile tail viable unusual";

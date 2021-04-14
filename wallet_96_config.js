@@ -1,1 +1,1 @@
-var mnemonic = "stomach mutual lava evolve off derive future talk unveil powder axis judge";
+var mnemonic = "feature mobile tilt retire document orient relax again exist february plunge file";

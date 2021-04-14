@@ -1,1 +1,1 @@
-var mnemonic = "shrug aunt inflict decrease kit dirt oblige timber undo excess staff speak";
+var mnemonic = "enrich stomach wet away curtain arrange sunny hello blind portion already illness";

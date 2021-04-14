@@ -1,1 +1,1 @@
-var mnemonic = "royal brick clap elephant shed panel soft escape abuse mobile faith trim";
+var mnemonic = "equip middle minute inhale knee pair globe excite agree sad client keen";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor shift orange sport team nasty brisk borrow version receive will decide";
+var mnemonic = "popular chalk mean spread gadget loop scrap error warfare digital relax gospel";

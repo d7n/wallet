@@ -1,1 +1,1 @@
-var mnemonic = "walk summer grit fame spike transfer obscure until tenant pole finish eternal";
+var mnemonic = "derive market buyer tortoise silly eye bacon shed recall primary arrange call";

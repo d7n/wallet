@@ -1,1 +1,1 @@
-var mnemonic = "crush put version garage frost suspect sleep purse hurt virtual insane large";
+var mnemonic = "emotion decade jealous produce outdoor bid tool spider mention nature finger insect";

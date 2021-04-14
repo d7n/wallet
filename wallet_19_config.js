@@ -1,1 +1,1 @@
-var mnemonic = "rescue sock amount claim humble latin buddy february survey ritual acquire brisk";
+var mnemonic = "repair swift ship maximum decorate circle normal update history payment acoustic bone";

@@ -1,1 +1,1 @@
-var mnemonic = "snake parade bracket caught law invite alien term prosper mosquito pulp aunt";
+var mnemonic = "group fire exotic grief trust tip poverty relief narrow robust fault bean";

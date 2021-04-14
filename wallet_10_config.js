@@ -1,1 +1,1 @@
-var mnemonic = "gadget harbor lion romance kitchen scissors insect trap common section outdoor enrich";
+var mnemonic = "network mixed style flat motor only trust indoor sense misery heart addict";

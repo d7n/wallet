@@ -1,1 +1,1 @@
-var mnemonic = "trust firm dwarf want acquire mad depart fiction foot theme custom account";
+var mnemonic = "fossil solid snack resource slight prefer enemy focus margin addict column journey";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly clap poem fix tourist shiver toss man moral leg error lesson";
+var mnemonic = "area media pencil cousin build movie breeze canvas okay dizzy field beauty";

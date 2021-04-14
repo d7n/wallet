@@ -1,1 +1,1 @@
-var mnemonic = "text receive joke scare exact expose hundred simple cover short teach boy";
+var mnemonic = "gospel drip hurry soccer like mirror maple sign olive become normal auction";

@@ -1,1 +1,1 @@
-var mnemonic = "agree project shaft mad pair wreck case amused denial rifle explain forest";
+var mnemonic = "cliff clock receive nuclear stone file salute quiz amount merge mind pact";

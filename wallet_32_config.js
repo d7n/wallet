@@ -1,1 +1,1 @@
-var mnemonic = "solar police monitor check trophy obscure control rule enlist hawk canal learn";
+var mnemonic = "village liar citizen prefer despair together subway box silent moon clown apart";

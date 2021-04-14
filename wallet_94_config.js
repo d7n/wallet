@@ -1,1 +1,1 @@
-var mnemonic = "move sniff skate income right build oxygen quiz fury empower dinosaur wild";
+var mnemonic = "senior drama genre antenna satoshi around march detail rough fatigue gossip mixed";

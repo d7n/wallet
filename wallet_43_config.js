@@ -1,1 +1,1 @@
-var mnemonic = "clinic affair leave review tiny evoke foil empower organ suggest weekend ball";
+var mnemonic = "mutual imitate monitor tide chest start shift bless dumb voyage prefer tattoo";

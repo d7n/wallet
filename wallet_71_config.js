@@ -1,1 +1,1 @@
-var mnemonic = "kidney pull smoke drama vault view mask aware that middle clever rigid";
+var mnemonic = "level cricket scene topic victory hill okay lawn tuition forward slam alarm";

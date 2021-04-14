@@ -1,1 +1,1 @@
-var mnemonic = "dumb purity cook flight picture twist pony green act long general lawn";
+var mnemonic = "focus weapon anxiety mass receive fan arm apology denial uncover country uniform";

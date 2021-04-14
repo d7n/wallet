@@ -1,1 +1,1 @@
-var mnemonic = "symbol calm diary solid royal hope purse time error reward typical scissors";
+var mnemonic = "rabbit tag spice bid cushion alien vibrant sing special guide then above";

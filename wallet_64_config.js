@@ -1,1 +1,1 @@
-var mnemonic = "attack city silk omit across come fox sword grain vehicle athlete elevator";
+var mnemonic = "age erupt walk often memory caught proof call balcony jacket jazz sibling";

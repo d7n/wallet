@@ -1,1 +1,1 @@
-var mnemonic = "page banana valve segment scare control frost park noble magnet fit cup";
+var mnemonic = "warrior ugly photo amazing concert ketchup jelly spend purpose flock surface scrub";

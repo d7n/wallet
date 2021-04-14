@@ -1,1 +1,1 @@
-var mnemonic = "agree ancient lemon meadow country property shoulder alone soul cook garlic toward";
+var mnemonic = "crucial welcome carbon bridge bonus victory peasant indoor cash citizen average unaware";

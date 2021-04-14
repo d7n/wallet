@@ -1,1 +1,1 @@
-var mnemonic = "puppy gown fox address ribbon duck fish level color calm twist bullet";
+var mnemonic = "ten tool impact estate orient tired picnic gate frog chase tank about";

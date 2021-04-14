@@ -1,1 +1,1 @@
-var mnemonic = "comic option razor mandate finger assault filter switch flat lava shrug weapon";
+var mnemonic = "result female favorite receive impulse task welcome patient accident broken story guess";

@@ -1,1 +1,1 @@
-var mnemonic = "disease law damage brick tunnel explain cry fire test vanish hundred winner";
+var mnemonic = "kidney school shop onion twin walk genius situate enter hope story buyer";

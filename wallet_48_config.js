@@ -1,1 +1,1 @@
-var mnemonic = "snake dad client load naive mandate fee mask skull huge crystal myself";
+var mnemonic = "surface side cricket improve solution stairs wealth ball retire pencil casual supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis grant liar boil wisdom august knock destroy regret design love screen";
+var mnemonic = "inmate apple welcome hundred forest album common once pool interest patch food";

@@ -1,1 +1,1 @@
-var mnemonic = "limb switch helmet pass canal path error entry whisper define learn warm";
+var mnemonic = "hub oxygen reform syrup wrestle drum unfold dinner people danger doctor girl";

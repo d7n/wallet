@@ -1,1 +1,1 @@
-var mnemonic = "vendor debris bring slim elite rail tired lecture exotic marine purity circle";
+var mnemonic = "life annual pair caught march snow crisp alone wall divert face regret";

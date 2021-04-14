@@ -1,1 +1,1 @@
-var mnemonic = "stone oven always lava birth list oyster behave unique muffin wonder tube";
+var mnemonic = "lesson glue energy stem two area digital secret napkin camera release devote";

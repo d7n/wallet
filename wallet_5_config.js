@@ -1,1 +1,1 @@
-var mnemonic = "old inflict afford stone crack car camera diamond sting include cat joy";
+var mnemonic = "jaguar observe olympic vote auction reveal dutch one early pretty rib flag";

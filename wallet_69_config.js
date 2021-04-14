@@ -1,1 +1,1 @@
-var mnemonic = "eye park feel dwarf guitar gauge tank light open page census pass";
+var mnemonic = "physical author display venture cancel rich author salmon story sound seek better";

@@ -1,1 +1,1 @@
-var mnemonic = "change traffic echo citizen rent chapter bunker laptop double time govern bus";
+var mnemonic = "poet aware glory smart lawsuit draft dial tool alien ten surprise snap";

@@ -1,1 +1,1 @@
-var mnemonic = "pole powder rotate swarm dry abandon estate second ring spend minimum estate";
+var mnemonic = "click order butter swamp fall turkey trim fashion fashion tuition fit lift";

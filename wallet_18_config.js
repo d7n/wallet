@@ -1,1 +1,1 @@
-var mnemonic = "lounge debate satoshi jealous casual zone arrange waste mountain fog device useful";
+var mnemonic = "wear damp multiply upset hour source solar cup same invest page skull";

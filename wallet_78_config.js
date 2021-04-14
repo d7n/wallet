@@ -1,1 +1,1 @@
-var mnemonic = "deny typical street pupil flavor atom dawn item lizard monkey arch gravity";
+var mnemonic = "extend saddle rather crash secret eager error slush plug melody island prevent";

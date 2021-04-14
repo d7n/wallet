@@ -1,1 +1,1 @@
-var mnemonic = "knock pulse medal crush jacket sea effort inform pony census give verb";
+var mnemonic = "butter oak churn brush erode winner route axis mountain fox violin fever";

@@ -1,1 +1,1 @@
-var mnemonic = "great clean boss knife endless miracle jazz verb lady coil bone crush";
+var mnemonic = "excess party shaft better spray spatial alone merry lava purchase enemy comfort";

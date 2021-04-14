@@ -1,1 +1,1 @@
-var mnemonic = "beyond price knock put chief carry plate lawsuit ancient expect idle glimpse";
+var mnemonic = "correct universe pudding beyond stock vocal casino goat mimic ranch balcony enhance";

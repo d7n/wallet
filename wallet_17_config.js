@@ -1,1 +1,1 @@
-var mnemonic = "merit kitten found wisdom kind exhaust rail rude impose wolf aisle ahead";
+var mnemonic = "ticket future song term fringe wagon slim boil split object vault fun";

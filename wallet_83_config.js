@@ -1,1 +1,1 @@
-var mnemonic = "strong inquiry call tackle acoustic strategy spring inhale rail syrup beach song";
+var mnemonic = "afford seek above rude liberty shoe coyote found tornado program sun owner";

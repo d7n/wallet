@@ -1,1 +1,1 @@
-var mnemonic = "dog hamster garment alien nothing boss steel arrive flash cook joke buzz";
+var mnemonic = "olive table capable shove twist chat joke type grocery hope plate stem";

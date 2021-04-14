@@ -1,1 +1,1 @@
-var mnemonic = "level grid erode butter blur all penalty broccoli lobster north member long";
+var mnemonic = "version afford clog river umbrella fire noodle buffalo hurdle dish trial chat";

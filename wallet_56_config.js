@@ -1,1 +1,1 @@
-var mnemonic = "wing tide ranch random select pelican interest menu trigger force route frequent";
+var mnemonic = "mimic damage fiscal virtual bronze salute daughter pink general retreat onion globe";

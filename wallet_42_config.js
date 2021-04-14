@@ -1,1 +1,1 @@
-var mnemonic = "expand involve dry sea car crime tiny glance matrix setup library scheme";
+var mnemonic = "blast limit youth chuckle purity magnet evidence drum outdoor history mail scrap";

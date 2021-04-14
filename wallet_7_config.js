@@ -1,1 +1,1 @@
-var mnemonic = "special poverty visual job west island awkward attract focus oppose club stable";
+var mnemonic = "inmate blade wear pause demise bulb fall market learn squeeze coin obvious";

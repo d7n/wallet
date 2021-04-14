@@ -1,1 +1,1 @@
-var mnemonic = "talent have dust winter refuse vehicle gasp pony cotton excuse enough shiver";
+var mnemonic = "always dignity address space breeze grow lesson exclude popular clerk mom faculty";

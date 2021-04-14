@@ -1,1 +1,1 @@
-var mnemonic = "earth chuckle idea like month until wedding kid pitch poet frequent rice";
+var mnemonic = "neck salute awkward fit coyote sphere offer alarm friend broccoli toss shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "battle velvet adult again jeans invite chimney strong shy meat jealous ship";
+var mnemonic = "actress mix lounge fever fine rubber price thing grief antenna forest width";

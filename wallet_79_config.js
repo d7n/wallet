@@ -1,1 +1,1 @@
-var mnemonic = "road amused duty major symbol ranch fatigue window gorilla pulp mistake tragic";
+var mnemonic = "release earth trend cave phrase peasant phone apology hint worth device interest";

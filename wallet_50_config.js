@@ -1,1 +1,1 @@
-var mnemonic = "blind people eyebrow muscle reject obvious all vote true gorilla crack peasant";
+var mnemonic = "certain point sting settle large table mushroom paddle bean domain cannon evoke";

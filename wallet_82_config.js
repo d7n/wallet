@@ -1,1 +1,1 @@
-var mnemonic = "thrive sleep rib hat tobacco lamp suspect acid display share original anger";
+var mnemonic = "manual help street hedgehog neutral humor flip project crouch twist devote genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "trade merge grunt runway report arrange cradle penalty budget winner there tired";
+var mnemonic = "child unhappy extra silent atom payment cactus check clay borrow since remind";

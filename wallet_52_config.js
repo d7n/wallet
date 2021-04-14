@@ -1,1 +1,1 @@
-var mnemonic = "end rate tail sponsor consider turtle sentence world ivory original fish history";
+var mnemonic = "urban vacuum walk tree abuse neck castle until matrix sign train lake";

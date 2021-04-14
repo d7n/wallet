@@ -1,1 +1,1 @@
-var mnemonic = "jacket rabbit pioneer bird dune brush lazy identify sting copper inform lumber";
+var mnemonic = "property negative uphold gate farm name castle wrist mansion involve neck eagle";

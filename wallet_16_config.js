@@ -1,1 +1,1 @@
-var mnemonic = "tent clarify vicious crater spend mandate method sea urban because blanket syrup";
+var mnemonic = "lawn such blue have firm wrist cereal alter prize figure tongue embark";

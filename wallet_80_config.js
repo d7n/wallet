@@ -1,1 +1,1 @@
-var mnemonic = "raven purpose hazard bunker bid around receive enrich school heart horse tattoo";
+var mnemonic = "burst shield mesh empower entire memory lift vacuum grunt diagram razor team";

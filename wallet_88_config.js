@@ -1,1 +1,1 @@
-var mnemonic = "wrong concert twenty cage awesome board grit foam volcano matrix nominee square";
+var mnemonic = "rapid nose side trumpet alarm imitate bid reopen cinnamon unhappy evoke kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "undo lens sausage stage hello shadow short slim spot plug scatter walk";
+var mnemonic = "ginger duty enjoy quantum lobster glass panda urban blood green crisp animal";

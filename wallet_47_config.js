@@ -1,1 +1,1 @@
-var mnemonic = "vacant certain senior away kick tornado battle birth few fun broken promote";
+var mnemonic = "alert thought confirm shoe air now cherry gossip series inflict gold eagle";

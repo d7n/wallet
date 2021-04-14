@@ -1,1 +1,1 @@
-var mnemonic = "tennis cloud nuclear boost ignore bulk head peasant stadium mammal shove stem";
+var mnemonic = "trick divide emotion erode close nerve ignore purity average split cable risk";

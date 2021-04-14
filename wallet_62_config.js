@@ -1,1 +1,1 @@
-var mnemonic = "split craft calm favorite embrace struggle window loud creek bubble cousin couch";
+var mnemonic = "equip kangaroo staff eye sausage sunny visit clock thrive across off current";

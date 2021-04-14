@@ -1,1 +1,1 @@
-var mnemonic = "egg develop high huge toy snack matrix like vehicle knock spice calm";
+var mnemonic = "crunch winner tuna brisk cloth enroll divert solution soon crucial voyage throw";

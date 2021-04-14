@@ -1,1 +1,1 @@
-var mnemonic = "health parent bus gift garbage sing seat body comfort hazard place sun";
+var mnemonic = "figure umbrella balcony gown ladder hip mouse marble hole elegant bean dinner";

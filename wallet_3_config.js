@@ -1,1 +1,1 @@
-var mnemonic = "resist desert bargain material weasel approve pretty minimum visual buddy wrist slam";
+var mnemonic = "worry surprise wrestle fame antenna strong book wet odor observe output identify";

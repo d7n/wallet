@@ -1,1 +1,1 @@
-var mnemonic = "one cost father distance between goat quarter love knife during ready crush";
+var mnemonic = "firm hammer method ticket grant arrest exclude popular faint labor jaguar slice";

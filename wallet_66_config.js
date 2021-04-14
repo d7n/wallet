@@ -1,1 +1,1 @@
-var mnemonic = "tank help clean news forget muffin rate fit tower peanut forget yellow";
+var mnemonic = "acid tourist mean mirror about label glare velvet appear hundred color tray";
