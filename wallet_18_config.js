@@ -1,1 +1,1 @@
-var mnemonic = "elite stand wise earth fish donor filter couple radio insect quick bike";
+var mnemonic = "denial myself because hungry stool enemy deputy tape catch pool taste minimum";

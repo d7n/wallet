@@ -1,1 +1,1 @@
-var mnemonic = "misery welcome ticket kind spike law morning hair type output since hard";
+var mnemonic = "learn address patch north undo shy warfare youth again evolve tortoise elephant";

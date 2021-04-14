@@ -1,1 +1,1 @@
-var mnemonic = "access alley forum toy bus eternal barely around pattern around fix describe";
+var mnemonic = "pupil salute disorder inform cool mechanic useless lottery kitten topple erosion shed";

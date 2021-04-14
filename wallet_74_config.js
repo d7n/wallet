@@ -1,1 +1,1 @@
-var mnemonic = "invest unknown domain genre common sun topic grant scissors pull immense social";
+var mnemonic = "diet give fade easily decline retire monkey weapon clock mountain swap valley";

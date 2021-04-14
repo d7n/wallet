@@ -1,1 +1,1 @@
-var mnemonic = "can reunion cradle reduce peanut slab bamboo sheriff wonder thought crack under";
+var mnemonic = "render joke spider broom orphan ribbon ice strike lemon ethics exhibit bargain";

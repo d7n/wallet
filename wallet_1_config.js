@@ -1,1 +1,1 @@
-var mnemonic = "review upon patrol cart wealth swarm help glow shield soft veteran close";
+var mnemonic = "despair auction dust adjust leaf draw sad define board inner truck soap";

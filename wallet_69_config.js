@@ -1,1 +1,1 @@
-var mnemonic = "mind sort rib protect demise sustain chalk census wire possible coil omit";
+var mnemonic = "gym crush snap glance sing stock flavor cross october crop emotion region";

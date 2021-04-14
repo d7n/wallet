@@ -1,1 +1,1 @@
-var mnemonic = "oppose ritual stand help increase bind hub key cake basket lawn distance";
+var mnemonic = "stadium achieve salad silver order lab rack install sausage flush young park";

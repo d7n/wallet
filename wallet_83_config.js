@@ -1,1 +1,1 @@
-var mnemonic = "speak lion voyage argue category object ready raise couch double ring daughter";
+var mnemonic = "demand balcony east debris giant praise burst basic record legend offer hover";

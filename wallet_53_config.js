@@ -1,1 +1,1 @@
-var mnemonic = "film tired feed expose stuff orphan property melody decade rally toast rigid";
+var mnemonic = "unique monitor beauty cave motor coral peanut imitate whip glimpse thrive caught";

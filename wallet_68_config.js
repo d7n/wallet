@@ -1,1 +1,1 @@
-var mnemonic = "escape resemble sample real elite remember drink shop marine gift crop grace";
+var mnemonic = "proof evil attitude dignity become sustain hood people ordinary arrive wide draft";

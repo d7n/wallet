@@ -1,1 +1,1 @@
-var mnemonic = "cross castle deposit train isolate gaze shrimp labor retreat ketchup feed primary";
+var mnemonic = "cluster arrest idea priority actor repeat suggest fitness penalty anger mixture pizza";

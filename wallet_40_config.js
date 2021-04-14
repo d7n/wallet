@@ -1,1 +1,1 @@
-var mnemonic = "print easily lady tattoo vehicle cool latin soft motor infant where local";
+var mnemonic = "avoid suspect sell erase three ribbon column label veteran cloud lemon extend";

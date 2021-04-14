@@ -1,1 +1,1 @@
-var mnemonic = "pig employ start wealth print bus give broken city cluster cheese lawsuit";
+var mnemonic = "never air person leg crouch embrace prosper slender kit vintage man art";

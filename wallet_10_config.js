@@ -1,1 +1,1 @@
-var mnemonic = "country have nerve rail river major welcome general smart smooth tool stay";
+var mnemonic = "hamster scrub limb salmon jaguar disagree demise owner remember kit gather hat";

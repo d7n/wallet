@@ -1,1 +1,1 @@
-var mnemonic = "power orient athlete stock maximum fine dish margin glance welcome pitch liquid";
+var mnemonic = "floor trust cruise latin horror purity add crumble strategy nut rug animal";

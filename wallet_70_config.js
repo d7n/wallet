@@ -1,1 +1,1 @@
-var mnemonic = "steel box torch floor eyebrow logic cotton warm apology hint tissue beauty";
+var mnemonic = "reduce depart west tonight home approve soul fall baby squeeze melt dust";

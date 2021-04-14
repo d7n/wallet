@@ -1,1 +1,1 @@
-var mnemonic = "blue swap cupboard enact train grace lecture fatal one salon morning forum";
+var mnemonic = "gather club boil giggle denial gather already enroll police nut field mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble pupil resemble awkward remind use caught uphold rose attack regular range";
+var mnemonic = "lemon mother opera phrase awkward predict vapor fresh floor victory bind repair";

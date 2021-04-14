@@ -1,1 +1,1 @@
-var mnemonic = "wheel autumn wear cross shell run hold hour prison defy crew crash";
+var mnemonic = "oppose license ozone depart lyrics convince text rice observe innocent nasty abuse";

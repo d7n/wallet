@@ -1,1 +1,1 @@
-var mnemonic = "certain athlete strike slice enjoy copy plunge private gain illness invest curious";
+var mnemonic = "wrist carpet crouch load mercy silly blush finger jealous city cricket excess";

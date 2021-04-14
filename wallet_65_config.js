@@ -1,1 +1,1 @@
-var mnemonic = "crunch acoustic bring rabbit gossip sheriff report robot rally movie sell idle";
+var mnemonic = "girl tribe royal life rotate orbit sword rapid solve whale just impose";

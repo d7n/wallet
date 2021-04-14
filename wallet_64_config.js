@@ -1,1 +1,1 @@
-var mnemonic = "accuse solution fee senior siren fatal rebel outer must sting plastic plastic";
+var mnemonic = "erosion shallow erode flower sniff toilet movie pole skill girl myself siren";

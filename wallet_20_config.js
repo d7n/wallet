@@ -1,1 +1,1 @@
-var mnemonic = "warrior tomato helmet forward green year curtain bounce oak city like crawl";
+var mnemonic = "sample exotic sleep sleep erupt seek mimic edge enemy crystal stumble weird";

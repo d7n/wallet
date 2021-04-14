@@ -1,1 +1,1 @@
-var mnemonic = "excite gate defense normal title day ladder witness mixed fatal local aspect";
+var mnemonic = "need worth ecology coin pet dumb harbor rare unfold style liquid follow";

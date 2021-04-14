@@ -1,1 +1,1 @@
-var mnemonic = "potato sketch velvet dwarf canal voyage crazy sign quiz million more marriage";
+var mnemonic = "antique dwarf kind swamp improve talk negative broccoli long bag narrow ring";

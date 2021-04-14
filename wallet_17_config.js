@@ -1,1 +1,1 @@
-var mnemonic = "tattoo pole move verify reject avoid demand version refuse three file lonely";
+var mnemonic = "meat client romance client piano shrimp charge subway punch jacket cute cruel";

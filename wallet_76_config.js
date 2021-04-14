@@ -1,1 +1,1 @@
-var mnemonic = "across whisper cabbage joy silent pottery boss license conduct air lab harbor";
+var mnemonic = "strategy remember cave public lonely output embody supreme pact this key coach";

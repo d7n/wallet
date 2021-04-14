@@ -1,1 +1,1 @@
-var mnemonic = "harvest interest hair violin hockey rack analyst pony able mule hurt oppose";
+var mnemonic = "audit refuse anger clutch coast pigeon clap eyebrow tumble cargo owner problem";

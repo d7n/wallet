@@ -1,1 +1,1 @@
-var mnemonic = "neck raise chimney pitch damage educate romance hello hammer clown hundred vicious";
+var mnemonic = "dream beach crash nothing achieve private clog announce vacant earn dad despair";

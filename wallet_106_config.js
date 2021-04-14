@@ -1,1 +1,1 @@
-var mnemonic = "physical smoke since drum uncle gold original huge achieve brush canoe kiss";
+var mnemonic = "bless flight upgrade nephew column vital cube empower section logic ensure brand";

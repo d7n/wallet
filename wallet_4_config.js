@@ -1,1 +1,1 @@
-var mnemonic = "because cycle phrase code yard sword warrior amused post shrimp forum that";
+var mnemonic = "machine lava tool acoustic tool huge cancel old fruit fish around learn";

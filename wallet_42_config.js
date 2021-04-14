@@ -1,1 +1,1 @@
-var mnemonic = "account donkey annual shuffle option upon coconut swing grace bless zebra fluid";
+var mnemonic = "clinic catch creek essay canoe flee version neck wash cannon box census";

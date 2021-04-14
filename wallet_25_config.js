@@ -1,1 +1,1 @@
-var mnemonic = "cruise stumble member tell river bachelor always arrange mad faculty cabbage rib";
+var mnemonic = "soda cheese muscle child slide force exist shed track recall humor mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "print pyramid tide oven vote chief spot belt weasel walk elephant eternal";
+var mnemonic = "long betray permit bus wrist trouble volume digital butter load close recycle";

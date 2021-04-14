@@ -1,1 +1,1 @@
-var mnemonic = "throw join humble dream spy boy wall approve deal nasty lounge buddy";
+var mnemonic = "soup explain echo bundle oblige foster item wish sport state almost drift";

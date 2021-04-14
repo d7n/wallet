@@ -1,1 +1,1 @@
-var mnemonic = "absorb truth celery pulse toddler rescue excuse similar copy impulse wink escape";
+var mnemonic = "guide kiwi must answer useful auction cattle pony region mistake course lift";

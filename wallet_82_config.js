@@ -1,1 +1,1 @@
-var mnemonic = "okay nature expire exit morning moon test fruit exact announce solve obey";
+var mnemonic = "hub drama film remove pilot want invite combine amused chase carpet setup";

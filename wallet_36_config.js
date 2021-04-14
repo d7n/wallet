@@ -1,1 +1,1 @@
-var mnemonic = "private frost flush cup drip bridge cart gloom term enact royal initial";
+var mnemonic = "right evidence drum radio scatter differ credit unit fade link auction drip";

@@ -1,1 +1,1 @@
-var mnemonic = "vault novel escape birth success scan fruit orphan copper initial index theory";
+var mnemonic = "truly trust during list giant bounce buyer bullet super father matter purity";

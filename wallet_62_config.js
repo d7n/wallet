@@ -1,1 +1,1 @@
-var mnemonic = "drastic dice garlic wild trick aim cool elder mushroom exchange february delay";
+var mnemonic = "repeat naive busy staff weekend middle lunch pet sure nasty drive screen";

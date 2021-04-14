@@ -1,1 +1,1 @@
-var mnemonic = "just brick turn alert lunar carry milk detect benefit biology country actor";
+var mnemonic = "goose thumb above spider room admit unusual stool february toast flock okay";

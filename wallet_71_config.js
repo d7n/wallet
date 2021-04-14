@@ -1,1 +1,1 @@
-var mnemonic = "elbow duty version happy warrior domain giraffe fashion worth index team income";
+var mnemonic = "grant bonus flower chest frozen festival smooth upgrade chicken slender yellow fancy";

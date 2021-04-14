@@ -1,1 +1,1 @@
-var mnemonic = "coach cruise shaft cricket attract category update world save fine chair hint";
+var mnemonic = "antenna team illness install local piece rug write come uncover wait scissors";

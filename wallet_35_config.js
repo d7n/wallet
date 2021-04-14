@@ -1,1 +1,1 @@
-var mnemonic = "news raven pencil slim meat you chaos swing afraid piano fury icon";
+var mnemonic = "game protect dress audit stand sad resource lawn maple bracket cool knee";

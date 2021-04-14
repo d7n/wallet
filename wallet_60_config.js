@@ -1,1 +1,1 @@
-var mnemonic = "pair mercy urge clip analyst satisfy sound farm wage problem attend task";
+var mnemonic = "express feel ring digital furnace flower effort clog submit acquire negative gorilla";

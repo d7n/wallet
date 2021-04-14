@@ -1,1 +1,1 @@
-var mnemonic = "review adult coral word safe village usual retire enroll future flock because";
+var mnemonic = "impose ordinary casual donor slow aim year impulse sheriff process claim mixed";

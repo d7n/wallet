@@ -1,1 +1,1 @@
-var mnemonic = "frozen fetch super match crime hint wrong bachelor sunny sword extend flee";
+var mnemonic = "whip banana super desk retire double demand exotic thing unhappy size riot";

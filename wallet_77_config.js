@@ -1,1 +1,1 @@
-var mnemonic = "gun intact scare enjoy humble word assume void dinner unaware filter inquiry";
+var mnemonic = "rib happy path wet together anger domain beauty wish produce abandon blade";

@@ -1,1 +1,1 @@
-var mnemonic = "grow people comfort buddy surround song festival tuna hint maximum grow video";
+var mnemonic = "then barrel outside typical height flee castle diesel congress check fuel drop";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel pelican best capable occur use sock street maximum gallery because jeans";
+var mnemonic = "visual crash basket furnace fresh cycle dice exercise owner flock pear rely";

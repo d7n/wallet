@@ -1,1 +1,1 @@
-var mnemonic = "celery monitor luggage gift spawn work library settle vacuum fabric ahead jungle";
+var mnemonic = "junior subject bread gospel price sauce equip ship rule rival tone supreme";

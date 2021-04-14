@@ -1,1 +1,1 @@
-var mnemonic = "grocery rule color olympic talent source enjoy miss reform youth sunny soup";
+var mnemonic = "mimic major purpose enhance oblige hour bounce excess couple sight empower smart";

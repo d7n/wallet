@@ -1,1 +1,1 @@
-var mnemonic = "casino good embody orbit couple blossom slender else attack hunt myth glance";
+var mnemonic = "narrow arrest easily cram second chunk card speed earth shrug carpet west";

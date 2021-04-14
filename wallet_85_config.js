@@ -1,1 +1,1 @@
-var mnemonic = "hunt pattern peanut scan drama pencil skate element canyon volcano gentle spy";
+var mnemonic = "hazard seminar rich autumn express travel winner rude police welcome scorpion sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "snake lesson public display asthma apart physical sorry twin equal wall theory";
+var mnemonic = "labor insect blood more armed pudding gorilla increase joy bitter load one";

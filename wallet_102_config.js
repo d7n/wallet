@@ -1,1 +1,1 @@
-var mnemonic = "atom salmon company valid shift gaze appear blind trim art stay trash";
+var mnemonic = "elephant trumpet sock claim pencil tackle artefact lazy pen marriage injury poem";

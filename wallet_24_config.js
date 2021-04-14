@@ -1,1 +1,1 @@
-var mnemonic = "pulse utility idle honey course hawk miracle prison kitchen arrow music venue";
+var mnemonic = "keep blouse display girl auction orphan review crucial wolf jazz release nothing";

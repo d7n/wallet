@@ -1,1 +1,1 @@
-var mnemonic = "program alpha secret attend clerk stick develop borrow wink skin dinner easy";
+var mnemonic = "liar winner cable goat coconut matter among pen immense thing client calm";

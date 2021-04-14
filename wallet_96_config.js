@@ -1,1 +1,1 @@
-var mnemonic = "diary poem fuel region glare fever question common stumble hockey venue robust";
+var mnemonic = "magnet athlete fiber pole duty flight betray tooth any broccoli fresh disorder";

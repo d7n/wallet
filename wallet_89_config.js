@@ -1,1 +1,1 @@
-var mnemonic = "youth fiction course second affair odor network usage brown virus coffee shoot";
+var mnemonic = "fatal want rebel eager lazy relief staff wait twin author rotate industry";

@@ -1,1 +1,1 @@
-var mnemonic = "dad initial fortune dream trend awake armed input barrel float pipe any";
+var mnemonic = "cement margin onion reward notable renew oak section include color mystery ethics";

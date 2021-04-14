@@ -1,1 +1,1 @@
-var mnemonic = "puppy pair parade pencil sniff swift hurry stay stock tomorrow error quantum";
+var mnemonic = "agree garage destroy tool will series boss inject else creek balance walk";

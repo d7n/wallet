@@ -1,1 +1,1 @@
-var mnemonic = "alone prosper word silk borrow exhaust double boring mask jacket code shaft";
+var mnemonic = "card answer replace glue affair piece frozen struggle orbit mango tail price";

@@ -1,1 +1,1 @@
-var mnemonic = "federal race simple scorpion hurt cry shadow deliver science disagree enough search";
+var mnemonic = "image detect case arrive inflict alpha huge meadow they define guilt hurt";

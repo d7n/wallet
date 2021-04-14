@@ -1,1 +1,1 @@
-var mnemonic = "toy post canoe uncover exact hawk lawn helmet drip flower spread west";
+var mnemonic = "tiger label village quantum frog priority citizen sick stem truly salmon maid";

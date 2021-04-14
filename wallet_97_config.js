@@ -1,1 +1,1 @@
-var mnemonic = "relax jewel pony smooth scheme system express myself burger close clap chapter";
+var mnemonic = "shoe day spring adapt allow usage capital mistake oyster search market clap";

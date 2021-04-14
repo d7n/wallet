@@ -1,1 +1,1 @@
-var mnemonic = "shoe cry adult firm glow swamp couple maple neutral kite girl fog";
+var mnemonic = "album chunk ready sugar sport afford dream ski slogan alert angle twelve";

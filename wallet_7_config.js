@@ -1,1 +1,1 @@
-var mnemonic = "insect peasant math wonder subject pink clean orange fantasy someone post average";
+var mnemonic = "name maze leader pear evidence envelope clean must help gospel warrior wealth";

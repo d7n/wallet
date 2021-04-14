@@ -1,1 +1,1 @@
-var mnemonic = "curve decade duck split express sweet peasant uniform swing shrimp sword recycle";
+var mnemonic = "inflict lion net easily floor match only help taxi claim ugly polar";

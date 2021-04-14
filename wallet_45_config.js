@@ -1,1 +1,1 @@
-var mnemonic = "tube attend cactus love industry found juice base romance mother oil garlic";
+var mnemonic = "screen arrive ostrich snow vivid inside hurry fly property sauce brick tank";

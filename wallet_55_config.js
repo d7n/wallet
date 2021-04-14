@@ -1,1 +1,1 @@
-var mnemonic = "drive trial zoo high recall intact barely gloom salmon defy ethics spot";
+var mnemonic = "where shallow inform car helmet bread saddle response awesome jump dry fiscal";

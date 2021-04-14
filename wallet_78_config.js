@@ -1,1 +1,1 @@
-var mnemonic = "flower private food garment maid surprise shoot lonely project ten blade pig";
+var mnemonic = "blood limit ginger crack spice insane six column mom kid liquid brick";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow parrot actor proof flower true humor tuition initial search host shine";
+var mnemonic = "hint burger orphan once pink hybrid knife upper sustain uncover speak divorce";

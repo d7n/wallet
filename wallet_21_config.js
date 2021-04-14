@@ -1,1 +1,1 @@
-var mnemonic = "candy farm material spoil win alley frown fatal agent miracle hire genre";
+var mnemonic = "penalty rookie where fence unaware belt fine today cycle tell cargo table";

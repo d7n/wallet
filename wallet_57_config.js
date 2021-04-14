@@ -1,1 +1,1 @@
-var mnemonic = "come long animal call demise juice border increase priority settle local day";
+var mnemonic = "bicycle label laptop spare lab unlock lawn monster submit abstract receive jewel";

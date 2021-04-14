@@ -1,1 +1,1 @@
-var mnemonic = "gap voyage shrimp minimum tiger adult leave own harbor grid mosquito audit";
+var mnemonic = "supply lock impact copper devote concert domain elbow sleep pulp assist margin";

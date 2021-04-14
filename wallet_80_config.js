@@ -1,1 +1,1 @@
-var mnemonic = "awful search gallery cigar juice awesome already daring saddle napkin mother gloom";
+var mnemonic = "mystery metal rival brass child express betray slam update tomato clock route";

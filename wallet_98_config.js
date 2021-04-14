@@ -1,1 +1,1 @@
-var mnemonic = "course way beach matrix pride eye ignore nuclear evil quantum miss annual";
+var mnemonic = "brown join tent include right simple rough monster clutch cup shrimp wet";

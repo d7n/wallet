@@ -1,1 +1,1 @@
-var mnemonic = "material train slide tube mechanic divorce run attract inhale senior curve nominee";
+var mnemonic = "swap bracket devote sound exact action crystal man weird dose dawn glimpse";

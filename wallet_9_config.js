@@ -1,1 +1,1 @@
-var mnemonic = "wagon toy series work fog assist image address boost embody armed acoustic";
+var mnemonic = "add side element garment lake either actor whip bulk mixed need special";

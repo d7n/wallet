@@ -1,1 +1,1 @@
-var mnemonic = "awful gain civil guitar loud define dinosaur alert galaxy tourist ecology spread";
+var mnemonic = "side emotion student gadget follow history broken record street attract various rocket";

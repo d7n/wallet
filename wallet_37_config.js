@@ -1,1 +1,1 @@
-var mnemonic = "kitten fine gallery shoot file edit bread float mix cactus hotel faint";
+var mnemonic = "topic length super benefit region canyon allow churn noise swap manage alone";

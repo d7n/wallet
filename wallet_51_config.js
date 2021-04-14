@@ -1,1 +1,1 @@
-var mnemonic = "vendor shrimp ship session rhythm horn phrase almost share gospel they juice";
+var mnemonic = "entry rival village final symbol utility tennis around tube rebel narrow usual";

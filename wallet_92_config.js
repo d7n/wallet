@@ -1,1 +1,1 @@
-var mnemonic = "oyster canyon wet ocean proud repair hotel stumble assume near decline finger";
+var mnemonic = "must hour speed yellow slush fetch express exchange destroy seed include foil";

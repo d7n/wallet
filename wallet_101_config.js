@@ -1,1 +1,1 @@
-var mnemonic = "oven foam grid cheese beef friend jazz eager soap find smoke penalty";
+var mnemonic = "rural finish orchard slender faint ball wisdom rally truck cluster resemble jewel";

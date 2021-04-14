@@ -1,1 +1,1 @@
-var mnemonic = "peasant escape wink require cause avocado friend blue soap consider endorse release";
+var mnemonic = "wink way chicken fortune dismiss cradle foil again pear life release vacant";

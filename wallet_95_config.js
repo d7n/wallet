@@ -1,1 +1,1 @@
-var mnemonic = "cheese manual way certain ship kitchen category bitter brown carry jungle planet";
+var mnemonic = "hill unusual repeat grunt polar alert gravity gauge now tissue butter double";

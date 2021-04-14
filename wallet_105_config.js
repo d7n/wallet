@@ -1,1 +1,1 @@
-var mnemonic = "laundry bachelor save purse current surge skin output perfect trade happy cart";
+var mnemonic = "swallow wife secret receive guess immune casual chunk monkey amateur dad task";

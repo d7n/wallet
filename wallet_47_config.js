@@ -1,1 +1,1 @@
-var mnemonic = "physical tortoise key unaware shift jacket fiscal license share curve excite strike";
+var mnemonic = "tissue prefer pass hobby advice accident example march grid pilot lend reward";

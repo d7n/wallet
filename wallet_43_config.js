@@ -1,1 +1,1 @@
-var mnemonic = "discover chimney chalk express web basket hungry doll unable shed make payment";
+var mnemonic = "lottery answer dentist tag blur knife exhaust isolate donkey raise situate gallery";

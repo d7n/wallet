@@ -1,1 +1,1 @@
-var mnemonic = "virus collect question cute tip unusual merit special round doctor rebel exhibit";
+var mnemonic = "syrup emerge spell potato embody lab cash input turtle urge hover universe";

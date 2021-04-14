@@ -1,1 +1,1 @@
-var mnemonic = "wrestle economy snow floor weekend online sing ivory exclude casino have kangaroo";
+var mnemonic = "open sick napkin sweet craft rhythm bridge giggle viable mesh tenant garage";

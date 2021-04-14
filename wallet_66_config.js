@@ -1,1 +1,1 @@
-var mnemonic = "deny wink vocal dish result original guitar crouch eager then render layer";
+var mnemonic = "urge diet sea obscure any amused mixture museum destroy flag hill abuse";

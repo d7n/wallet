@@ -1,1 +1,1 @@
-var mnemonic = "trust brand urge globe during sell move lift bicycle toy estate bargain";
+var mnemonic = "receive charge upset budget enhance spring spin warm key steak digital various";

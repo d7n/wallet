@@ -1,1 +1,1 @@
-var mnemonic = "plate angle hunt ill leave grace capable omit blame attack holiday boil";
+var mnemonic = "must plastic subject flower party music coil elegant memory achieve canoe document";
