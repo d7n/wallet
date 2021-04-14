@@ -1,1 +1,1 @@
-var mnemonic = "pause weekend airport diamond olympic vicious proof shadow cruise transfer outside video";
+var mnemonic = "wheel enter benefit rookie profit gaze pizza knife leg eager east eyebrow";

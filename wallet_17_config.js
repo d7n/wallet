@@ -1,1 +1,1 @@
-var mnemonic = "injury apology client skill borrow bring asthma memory occur east motion excuse";
+var mnemonic = "relief chicken bring vapor coach quit cloud alcohol grass pull tennis drill";

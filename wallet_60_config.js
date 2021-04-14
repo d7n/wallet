@@ -1,1 +1,1 @@
-var mnemonic = "private age staff student path inquiry special turn mule digital couple short";
+var mnemonic = "tunnel wood funny arctic project pluck street slide elegant sense length sock";

@@ -1,1 +1,1 @@
-var mnemonic = "party milk inch grief tissue warrior belt betray undo degree type idle";
+var mnemonic = "satoshi joy fetch dance wage nurse anchor error craft category traffic shoot";

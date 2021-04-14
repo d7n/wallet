@@ -1,1 +1,1 @@
-var mnemonic = "brisk result solid cement robot palm armor injury gun tent rapid file";
+var mnemonic = "shed twenty lift traffic drama spice stand hobby pear hurt spread alarm";

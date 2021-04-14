@@ -1,1 +1,1 @@
-var mnemonic = "advance despair turkey dog wife mosquito elder wisdom smooth small damage silver";
+var mnemonic = "link refuse plunge fossil jacket bundle success between prevent loan lecture truck";

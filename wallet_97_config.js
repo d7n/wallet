@@ -1,1 +1,1 @@
-var mnemonic = "length color debris render still agree advance neither hair network marriage call";
+var mnemonic = "govern raw six snack album author design half good garment cruise vital";

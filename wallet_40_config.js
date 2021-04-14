@@ -1,1 +1,1 @@
-var mnemonic = "burger already zero aerobic once talk maximum police shiver jeans visit neutral";
+var mnemonic = "cry proof remember boring throw fold mom snap deny engage dish say";

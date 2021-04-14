@@ -1,1 +1,1 @@
-var mnemonic = "flip rifle vital brush roof ensure dog garden cloud hockey gym alien";
+var mnemonic = "innocent pretty manage wife margin loud thing country rely rubber call first";

@@ -1,1 +1,1 @@
-var mnemonic = "sand pupil unlock hedgehog leave year occur web deal team honey access";
+var mnemonic = "warrior spare buyer lecture deposit cruel office carpet fish badge afford moment";

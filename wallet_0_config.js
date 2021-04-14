@@ -1,1 +1,1 @@
-var mnemonic = "position umbrella cabin label flower flee job stereo kidney glide recycle drill";
+var mnemonic = "dream vague surround usual mystery clown helmet spray later that clean slow";

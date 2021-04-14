@@ -1,1 +1,1 @@
-var mnemonic = "river insect shoulder rug segment answer entry faith situate explain silver make";
+var mnemonic = "coyote hello client ancient breeze outer gesture loan obscure inner month sudden";

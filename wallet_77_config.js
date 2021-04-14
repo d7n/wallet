@@ -1,1 +1,1 @@
-var mnemonic = "muffin cradle suffer patrol gown bless produce survey throw palace arrow attend";
+var mnemonic = "rescue harbor injury knee vessel badge exit area safe sleep camp evidence";

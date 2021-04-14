@@ -1,1 +1,1 @@
-var mnemonic = "weird online car lounge spike foil cement bamboo jealous gentle predict now";
+var mnemonic = "dumb tuition replace laugh sauce hour cart trade liquid play unlock duck";

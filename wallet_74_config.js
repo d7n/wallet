@@ -1,1 +1,1 @@
-var mnemonic = "only meat exit bleak fox sword outdoor alarm swing damage render hurdle";
+var mnemonic = "dream unhappy chair shiver picture protect govern family thought any sad replace";

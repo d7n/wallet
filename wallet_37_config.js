@@ -1,1 +1,1 @@
-var mnemonic = "ladder kite enlist pride angry dynamic actress drill cruel jazz curtain endorse";
+var mnemonic = "pig youth bomb funny tonight bounce area someone possible zoo random among";

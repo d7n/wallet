@@ -1,1 +1,1 @@
-var mnemonic = "vocal warfare either figure member canal ugly solar matter theme delay rent";
+var mnemonic = "arena thank elbow fragile theme lock enter expect escape giggle marine edge";

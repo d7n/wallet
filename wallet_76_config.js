@@ -1,1 +1,1 @@
-var mnemonic = "butter hill hand entire lion forum flash expand chest letter critic bitter";
+var mnemonic = "more first client slot awake wrap eyebrow educate fit kitchen burst tower";

@@ -1,1 +1,1 @@
-var mnemonic = "morning disorder smooth tool airport table sorry play broken travel toy sure";
+var mnemonic = "submit never elite laugh sausage will bronze method turtle diagram position such";

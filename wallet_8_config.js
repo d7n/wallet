@@ -1,1 +1,1 @@
-var mnemonic = "fiction build blame fence minor hard harbor rice garden doll execute mobile";
+var mnemonic = "clean spider scale noise radar reopen floor school present retreat use use";

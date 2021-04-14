@@ -1,1 +1,1 @@
-var mnemonic = "term exclude wheat decorate uncover cereal nature manage unusual business scale axis";
+var mnemonic = "planet shoulder spin diet wild deputy split brave noise squirrel seat black";

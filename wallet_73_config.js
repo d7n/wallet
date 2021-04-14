@@ -1,1 +1,1 @@
-var mnemonic = "admit arm grace isolate tragic blouse destroy transfer mix stuff rebuild taxi";
+var mnemonic = "possible defy peace athlete earn cloud shoe turtle pottery charge near genuine";

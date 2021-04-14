@@ -1,1 +1,1 @@
-var mnemonic = "wagon dinner casino guess oxygen fish paper blue primary flight fall wealth";
+var mnemonic = "forget nerve useful credit tilt estate hedgehog bus party cattle abandon excite";

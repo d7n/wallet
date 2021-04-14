@@ -1,1 +1,1 @@
-var mnemonic = "shell annual invest hour sea total inherit coast banana pitch car weasel";
+var mnemonic = "uniform tissue deer mammal switch boost subject spin grant list diary quiz";

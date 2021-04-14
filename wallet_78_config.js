@@ -1,1 +1,1 @@
-var mnemonic = "indicate input cabbage ball expose rate scene castle license elephant twist material";
+var mnemonic = "coffee powder client rifle punch chunk roof size caught profit equip divert";

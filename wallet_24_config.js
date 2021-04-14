@@ -1,1 +1,1 @@
-var mnemonic = "memory game medal age cart peanut pyramid food adult elder witness clever";
+var mnemonic = "surge warfare rival crime reward chest inspire again scorpion exchange sick quiz";

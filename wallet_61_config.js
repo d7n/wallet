@@ -1,1 +1,1 @@
-var mnemonic = "canoe tell tray clutch vacuum want throw travel family balance extend episode";
+var mnemonic = "lady develop side half weapon blue glow beef tuition arrive satoshi nephew";

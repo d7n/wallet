@@ -1,1 +1,1 @@
-var mnemonic = "drama moment peanut sick hockey avocado lamp dove moral junior until mobile";
+var mnemonic = "oppose asset diesel arctic broken behave renew rude fan elite average patient";

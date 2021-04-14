@@ -1,1 +1,1 @@
-var mnemonic = "rent connect menu salute deputy mimic vault employ abstract bid taste mom";
+var mnemonic = "legend push comfort castle slam often book horse mule parent large remind";

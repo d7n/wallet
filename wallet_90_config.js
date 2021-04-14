@@ -1,1 +1,1 @@
-var mnemonic = "coral host zone limit box know hobby adapt hair million trade actual";
+var mnemonic = "sock exile also electric exclude normal space bean nation script okay climb";

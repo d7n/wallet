@@ -1,1 +1,1 @@
-var mnemonic = "monitor come appear biology game mix coin already hamster bracket whip year";
+var mnemonic = "very liar beach husband firm lady submit laugh give abandon garage barrel";

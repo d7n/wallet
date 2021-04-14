@@ -1,1 +1,1 @@
-var mnemonic = "between chimney coil cable thumb smoke roof chimney describe torch snake drama";
+var mnemonic = "cost name cave knife impose task witness provide cactus settle when skull";

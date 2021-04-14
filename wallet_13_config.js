@@ -1,1 +1,1 @@
-var mnemonic = "ordinary ramp limit fish nature arch crime demise farm control rent video";
+var mnemonic = "lady someone sponsor figure piece pistol then club robot worry net emerge";

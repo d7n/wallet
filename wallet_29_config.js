@@ -1,1 +1,1 @@
-var mnemonic = "monkey wrestle imitate often average bean lunch hub deputy advance wagon account";
+var mnemonic = "army kiwi table humble orchard solution fashion congress radar eight fade scatter";

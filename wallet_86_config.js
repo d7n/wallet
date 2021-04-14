@@ -1,1 +1,1 @@
-var mnemonic = "snap canvas sadness aunt trophy market ozone real satoshi salon option hundred";
+var mnemonic = "modify eight diagram trend struggle laundry dawn flat find absurd report mad";

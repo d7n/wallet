@@ -1,1 +1,1 @@
-var mnemonic = "beyond churn series purchase immense office vital glow quote smooth yellow enlist";
+var mnemonic = "calm february ship skirt web valve orchard wood keep venue aisle liberty";

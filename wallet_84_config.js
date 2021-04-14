@@ -1,1 +1,1 @@
-var mnemonic = "party front bundle timber voice face vibrant strategy turn club badge hub";
+var mnemonic = "emotion gown manual scene utility bind infant rebuild agree pair drink retire";

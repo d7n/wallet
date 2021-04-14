@@ -1,1 +1,1 @@
-var mnemonic = "square gauge magnet embrace tuition surface huge senior hazard goddess excite bean";
+var mnemonic = "idle improve club bitter give repeat census vocal illness power oxygen mesh";

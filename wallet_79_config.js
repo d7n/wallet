@@ -1,1 +1,1 @@
-var mnemonic = "quick position plastic cost autumn genuine provide bounce honey quick thought youth";
+var mnemonic = "hundred spread shop puppy evidence food knock secret illegal fortune flee mystery";

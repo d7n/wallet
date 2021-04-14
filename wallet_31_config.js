@@ -1,1 +1,1 @@
-var mnemonic = "picnic exist identify private repeat need hazard bike pigeon silly link taxi";
+var mnemonic = "order spy sausage where isolate priority girl engage when nation device busy";

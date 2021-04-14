@@ -1,1 +1,1 @@
-var mnemonic = "luggage exist pilot disagree actual dinner gasp imitate nominee recipe debris video";
+var mnemonic = "pulse biology artist ozone arrow inmate size base urge around match page";

@@ -1,1 +1,1 @@
-var mnemonic = "caught wait family puzzle autumn input spider label edit milk crime kind";
+var mnemonic = "under trick wrap village odor shove deputy cluster emotion pattern unhappy question";

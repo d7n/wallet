@@ -1,1 +1,1 @@
-var mnemonic = "alone coyote term virtual loop bar bamboo eye ethics artist achieve great";
+var mnemonic = "walk upset paper release glue option left approve frozen lecture feature little";

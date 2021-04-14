@@ -1,1 +1,1 @@
-var mnemonic = "leader inquiry cram area crumble nephew scale rely tuna never echo bulb";
+var mnemonic = "festival transfer promote favorite anxiety sketch defense inform clog brass field company";

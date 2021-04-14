@@ -1,1 +1,1 @@
-var mnemonic = "west type giraffe stage shop breeze clever cannon champion two lizard culture";
+var mnemonic = "gasp struggle enrich debris smooth two harsh finger speed muscle journey honey";

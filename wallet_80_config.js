@@ -1,1 +1,1 @@
-var mnemonic = "copper crucial wrestle hospital wasp exhibit exact track amazing crowd glass priority";
+var mnemonic = "try camera mom ramp grunt renew differ snow behave convince debate record";

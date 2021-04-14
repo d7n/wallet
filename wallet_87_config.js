@@ -1,1 +1,1 @@
-var mnemonic = "mean argue float solve useless decade ghost spatial brass portion veteran brief";
+var mnemonic = "long cat expose wagon park umbrella section alpha column comic air scrap";

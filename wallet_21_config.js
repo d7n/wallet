@@ -1,1 +1,1 @@
-var mnemonic = "okay model divide wrong double enhance scorpion armed glory mixture episode matter";
+var mnemonic = "apart surprise hint wife recycle race taste abuse rib develop lion combine";

@@ -1,1 +1,1 @@
-var mnemonic = "violin daring universe purpose border donate prosper glimpse device waste slide knife";
+var mnemonic = "top opera dolphin love unique lazy raccoon actress agree evolve syrup measure";

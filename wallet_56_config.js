@@ -1,1 +1,1 @@
-var mnemonic = "lens require pear pelican claw industry expect magic lava cabin cake cigar";
+var mnemonic = "sword employ insect sustain arm try forest apology team inform arena chase";

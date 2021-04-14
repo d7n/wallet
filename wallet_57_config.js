@@ -1,1 +1,1 @@
-var mnemonic = "urge window curtain surface scheme cube damage unlock between pledge member wool";
+var mnemonic = "song burden adjust hour cram floor price canvas flee erode silly genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "regret cave barrel input twin problem useless teach slice label summer unhappy";
+var mnemonic = "leisure slight face identify blade museum elevator tree make glue dentist dish";

@@ -1,1 +1,1 @@
-var mnemonic = "key sword border right dream riot diagram evidence shield thought monkey snow";
+var mnemonic = "lake clay robust manual glimpse void tongue moon visit apple artefact carbon";

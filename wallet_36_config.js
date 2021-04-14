@@ -1,1 +1,1 @@
-var mnemonic = "simple pupil wheat waste slogan carbon shy imitate risk must depart chat";
+var mnemonic = "consider park vacant input rail second unveil hungry pretty spy kangaroo ugly";

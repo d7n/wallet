@@ -1,1 +1,1 @@
-var mnemonic = "cruise journey impact garbage civil slow approve skirt zebra tuition snake taxi";
+var mnemonic = "credit pony shell army vault neglect clerk island control evil traffic few";

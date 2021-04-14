@@ -1,1 +1,1 @@
-var mnemonic = "pipe image security assist feel pear patient eternal client shuffle suit wealth";
+var mnemonic = "vault vast avocado insect symptom east digital bring present amateur divert farm";

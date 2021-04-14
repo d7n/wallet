@@ -1,1 +1,1 @@
-var mnemonic = "double blind friend wrestle pencil glide improve slam oven fog fetch cart";
+var mnemonic = "mix vessel mule garbage glare satoshi strong aerobic flower rate snake question";

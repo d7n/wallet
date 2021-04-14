@@ -1,1 +1,1 @@
-var mnemonic = "burst huge agree fossil power profit pony belt lonely skin appear heart";
+var mnemonic = "actor cost donate list valid patch great enrich shrimp true glare task";

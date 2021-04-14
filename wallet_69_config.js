@@ -1,1 +1,1 @@
-var mnemonic = "daring chaos dizzy arrow price pulp secret dune toilet sadness ring lab";
+var mnemonic = "fly record evolve control poem consider cream staff drip analyst awful connect";

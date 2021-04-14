@@ -1,1 +1,1 @@
-var mnemonic = "blast practice giant swamp belt where brown couch wedding submit digital chaos";
+var mnemonic = "crunch insane tag eyebrow indoor lake woman nuclear abstract sponsor rail poet";

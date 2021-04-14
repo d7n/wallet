@@ -1,1 +1,1 @@
-var mnemonic = "injury finger field text lumber hover era model bind tide piano coffee";
+var mnemonic = "dice alley rule diary unveil radar possible crumble edge early vague used";

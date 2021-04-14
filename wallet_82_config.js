@@ -1,1 +1,1 @@
-var mnemonic = "volcano bounce question end diet alien crawl promote family zone trip mixed";
+var mnemonic = "toss file kiwi library saddle switch kidney level vast pudding involve soft";

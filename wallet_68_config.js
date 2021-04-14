@@ -1,1 +1,1 @@
-var mnemonic = "void judge wonder sugar solar approve figure wrap know piece six noodle";
+var mnemonic = "husband army enrich satoshi okay certain cute keep patient virus nice height";

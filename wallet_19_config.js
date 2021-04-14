@@ -1,1 +1,1 @@
-var mnemonic = "resemble short vast bless hotel thunder dutch bind boring hammer waste abandon";
+var mnemonic = "security hedgehog anchor snake garment cave craft property cube police eyebrow balcony";

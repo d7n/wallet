@@ -1,1 +1,1 @@
-var mnemonic = "pride much defense gorilla weapon lawsuit mule object grab wheel media panda";
+var mnemonic = "embody abandon float satoshi prevent smooth acoustic approve drill year bounce family";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin spy stamp wrap future paddle outdoor earn balcony wear sword slot";
+var mnemonic = "another strike bomb south elbow subject minimum teach try midnight pill glad";

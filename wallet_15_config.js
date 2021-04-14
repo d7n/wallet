@@ -1,1 +1,1 @@
-var mnemonic = "nut hidden thrive able height light seat frost globe ranch tide adult";
+var mnemonic = "awkward push private upset warfare jacket else chief blood excess shiver ginger";

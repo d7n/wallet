@@ -1,1 +1,1 @@
-var mnemonic = "correct smoke maze opera lottery pipe same village velvet shrug glad chuckle";
+var mnemonic = "trigger suggest resource release viable bamboo grant decline rapid finger expire upgrade";

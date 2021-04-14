@@ -1,1 +1,1 @@
-var mnemonic = "excess dizzy rotate fatigue wrap nerve twist exit pen flower dizzy case";
+var mnemonic = "enact nerve august crane reason siren camp embark pill snow victory what";

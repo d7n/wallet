@@ -1,1 +1,1 @@
-var mnemonic = "name shadow oval napkin conduct coffee finger manage ticket youth sleep hope";
+var mnemonic = "gloom warfare village raccoon puzzle erode attack huge message edit drift begin";

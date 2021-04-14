@@ -1,1 +1,1 @@
-var mnemonic = "offer host random spirit gauge mean position join farm trumpet grief eight";
+var mnemonic = "claw anchor assist tail announce leader polar bus mean region range eagle";

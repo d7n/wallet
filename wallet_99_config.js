@@ -1,1 +1,1 @@
-var mnemonic = "frown plate toss maid convince swift clap just galaxy glow leopard sketch";
+var mnemonic = "peanut regret please priority yellow bread outer lunch pole lawsuit ostrich swift";

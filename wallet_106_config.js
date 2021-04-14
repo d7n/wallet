@@ -1,1 +1,1 @@
-var mnemonic = "badge forest nominee green unfair judge output execute junior glad crop play";
+var mnemonic = "lift bag mutual swallow final merit burden outdoor door clip eagle wolf";

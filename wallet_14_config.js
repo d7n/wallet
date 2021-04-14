@@ -1,1 +1,1 @@
-var mnemonic = "left muscle canvas extend humor deliver bottom dash address below muffin brave";
+var mnemonic = "acquire brief slogan impact name siren try winter version rabbit double divert";

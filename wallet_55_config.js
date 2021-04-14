@@ -1,1 +1,1 @@
-var mnemonic = "mask drive cream dune syrup seven skate rubber voyage awkward clock click";
+var mnemonic = "taxi divert parent color myth fine sample life high inner drum kit";

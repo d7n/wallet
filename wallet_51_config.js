@@ -1,1 +1,1 @@
-var mnemonic = "discover family speed pet report very choice boy ticket marriage device economy";
+var mnemonic = "festival bleak peanut decide dash lobster cotton lazy bright trim medal cream";

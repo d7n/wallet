@@ -1,1 +1,1 @@
-var mnemonic = "circle immune collect market winter trouble notable spend gauge dash blood abstract";
+var mnemonic = "quality orphan salute mask salt image elbow baby fly deny own merry";

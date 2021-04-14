@@ -1,1 +1,1 @@
-var mnemonic = "lemon barely deal frog number chef glory fork salute betray learn nasty";
+var mnemonic = "mean aunt rail enjoy across betray armor address guilt orient valley choose";

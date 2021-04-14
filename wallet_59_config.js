@@ -1,1 +1,1 @@
-var mnemonic = "isolate expect ensure virtual heart security expand stuff treat inmate city extend";
+var mnemonic = "pumpkin source virtual rotate term match accuse machine sunny salad weasel spoil";

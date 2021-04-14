@@ -1,1 +1,1 @@
-var mnemonic = "zone mistake provide genius slab symptom cup session depend million depth ranch";
+var mnemonic = "perfect post cheese depend hungry enhance include blood piano innocent green head";

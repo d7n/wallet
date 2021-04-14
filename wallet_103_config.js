@@ -1,1 +1,1 @@
-var mnemonic = "clinic side latin erode obvious raven gadget gasp expire doctor easily inject";
+var mnemonic = "vehicle sheriff lens lecture image play middle harsh guilt puppy bomb spray";

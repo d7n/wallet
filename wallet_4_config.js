@@ -1,1 +1,1 @@
-var mnemonic = "faculty they verb comfort assault six broom spawn endorse midnight give drop";
+var mnemonic = "horse hurry original simple actor parrot thank private involve popular raw debris";

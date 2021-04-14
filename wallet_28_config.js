@@ -1,1 +1,1 @@
-var mnemonic = "velvet bean give exile senior other absent page drive february industry method";
+var mnemonic = "motor boss more fluid surround smooth cost mosquito right kitchen three toss";

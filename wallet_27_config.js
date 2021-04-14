@@ -1,1 +1,1 @@
-var mnemonic = "arrow chaos friend cruel surprise desert glimpse miracle lucky zero material food";
+var mnemonic = "youth still improve citizen animal stove old remember mistake minor catch flat";

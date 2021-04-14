@@ -1,1 +1,1 @@
-var mnemonic = "giggle axis frequent napkin muscle attitude child follow scale damage always shoulder";
+var mnemonic = "donor flag slender verify valid rate tiger lobster marriage initial fruit blur";

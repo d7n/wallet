@@ -1,1 +1,1 @@
-var mnemonic = "banner amazing grant load echo flip tackle conduct history rigid style now";
+var mnemonic = "toward shock buyer gaze diagram mushroom blue there crater woman hair artwork";

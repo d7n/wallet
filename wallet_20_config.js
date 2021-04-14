@@ -1,1 +1,1 @@
-var mnemonic = "girl aspect spoon east garment unique flight imitate wire bar salad cloud";
+var mnemonic = "suffer when hammer cattle deer surprise capable consider runway ring action faculty";

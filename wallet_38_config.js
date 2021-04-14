@@ -1,1 +1,1 @@
-var mnemonic = "erosion repeat valid false rural helmet borrow ceiling fitness clump weather satoshi";
+var mnemonic = "tube young electric ostrich poet please fresh escape jungle oxygen domain parent";

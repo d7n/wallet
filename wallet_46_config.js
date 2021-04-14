@@ -1,1 +1,1 @@
-var mnemonic = "dance time patient dish plastic student rather hat bid lumber length place";
+var mnemonic = "siren place valley guide mirror action book split forest stem crew write";

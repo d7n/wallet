@@ -1,1 +1,1 @@
-var mnemonic = "online jacket pyramid valve goddess brief acquire climb mention moment rocket ice";
+var mnemonic = "ill chapter fantasy lumber evidence edge divorce valley evoke federal syrup tomorrow";

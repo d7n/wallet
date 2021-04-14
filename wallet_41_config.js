@@ -1,1 +1,1 @@
-var mnemonic = "hard gift hill useless galaxy into sick orient win subject swing diamond";
+var mnemonic = "then demise sadness bundle produce release actual hundred ask aspect honey prepare";

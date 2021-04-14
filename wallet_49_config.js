@@ -1,1 +1,1 @@
-var mnemonic = "subject flock mountain flavor brass toward ensure job ability consider gentle coconut";
+var mnemonic = "denial father glad heart slow fabric awake fresh unit day victory royal";

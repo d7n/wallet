@@ -1,1 +1,1 @@
-var mnemonic = "squirrel alarm nephew wall ramp lamp ranch mix above resemble draw twenty";
+var mnemonic = "music put filter because there zoo accuse excuse crack swim school sadness";

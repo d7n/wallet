@@ -1,1 +1,1 @@
-var mnemonic = "agent menu tornado promote plastic announce illness veteran poet chunk arrive snow";
+var mnemonic = "young matter laugh race snake artefact tilt parade wrong property genuine neglect";

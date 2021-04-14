@@ -1,1 +1,1 @@
-var mnemonic = "power car inject whale harvest occur sand merge unfair fluid robust outdoor";
+var mnemonic = "tank enter learn predict unit upper client galaxy banana illness drama adult";

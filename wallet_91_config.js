@@ -1,1 +1,1 @@
-var mnemonic = "online canal accuse hover adjust coach angle tape peace radar twelve lyrics";
+var mnemonic = "skull whip wolf physical all flush solid cereal filter turtle panic fancy";

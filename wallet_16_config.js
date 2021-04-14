@@ -1,1 +1,1 @@
-var mnemonic = "infant list fragile faculty december mobile extend snow rubber switch erode aware";
+var mnemonic = "border injury kiss monster biology explain trial escape powder journey shadow page";
