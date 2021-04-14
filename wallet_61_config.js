@@ -1,1 +1,1 @@
-var mnemonic = "push verify snap cat comic rate tuition kiwi spike fold detect swap";
+var mnemonic = "pumpkin stuff maid gloom sun winter athlete buzz hybrid champion kit defense";

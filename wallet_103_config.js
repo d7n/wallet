@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow approve finish wool van supply salmon march curtain coyote carry setup";
+var mnemonic = "stock auto chat oyster wheat toast boss group scout green test move";

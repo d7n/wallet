@@ -1,1 +1,1 @@
-var mnemonic = "horror prevent rubber young club squeeze indoor outside such dad keep vote";
+var mnemonic = "outside agent motion uniform snack melody exercise spend acid square demand install";

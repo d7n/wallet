@@ -1,1 +1,1 @@
-var mnemonic = "tribe rabbit infant doctor miss purse lock elder despair electric capable tourist";
+var mnemonic = "settle fresh churn radio lawn regular beach waste energy describe tag census";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit deny walnut draw mammal shaft tiny universe virus document battle double";
+var mnemonic = "ankle depend cactus family random hobby farm predict office program glory memory";

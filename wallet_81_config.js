@@ -1,1 +1,1 @@
-var mnemonic = "cliff stool already tumble minute such menu march erosion excuse happy then";
+var mnemonic = "vapor garden lamp spoon nut minor dice reason ramp system whale laundry";

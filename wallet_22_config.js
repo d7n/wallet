@@ -1,1 +1,1 @@
-var mnemonic = "prize bamboo hero gravity modify explain smooth say dumb shoot purity innocent";
+var mnemonic = "life sister trigger slight media clock dismiss human else income spoon member";

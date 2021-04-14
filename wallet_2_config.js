@@ -1,1 +1,1 @@
-var mnemonic = "side ghost play mask one boost question chronic prison holiday educate topple";
+var mnemonic = "orphan melt artefact execute oppose famous add two close predict dice fever";

@@ -1,1 +1,1 @@
-var mnemonic = "dune rabbit smooth barrel desk broccoli globe attack visual beauty lemon canyon";
+var mnemonic = "bulb swear library very any skill coral knife capital soul auto spring";

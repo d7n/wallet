@@ -1,1 +1,1 @@
-var mnemonic = "entry lava size nothing staff tray rapid offer tunnel extra double away";
+var mnemonic = "elegant describe gentle disorder drink kick phrase coconut town day snack element";

@@ -1,1 +1,1 @@
-var mnemonic = "taste cherry play token delay aware annual mobile paddle short history loud";
+var mnemonic = "scan runway dove battle deposit buddy atom title quantum engage cloud purchase";

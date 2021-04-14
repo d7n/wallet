@@ -1,1 +1,1 @@
-var mnemonic = "address clarify usage other review accident drama corn inmate behind danger above";
+var mnemonic = "shield staff fire inside angle merge child kiwi diesel direct appear upon";

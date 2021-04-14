@@ -1,1 +1,1 @@
-var mnemonic = "leisure program style strategy crumble spin chimney sound loop hobby trouble glue";
+var mnemonic = "tattoo endorse student cost muffin task hip input weasel rescue wagon travel";

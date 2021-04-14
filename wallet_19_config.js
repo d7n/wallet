@@ -1,1 +1,1 @@
-var mnemonic = "champion loop caught letter field design purse start siege leaf weird simple";
+var mnemonic = "able lawsuit scare rack edit lab special scheme fiction sunset tourist talent";

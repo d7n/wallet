@@ -1,1 +1,1 @@
-var mnemonic = "aware oil divert else citizen use lion street donkey where idea hockey";
+var mnemonic = "fossil tide slice fall panel brush follow grow candy exist area used";

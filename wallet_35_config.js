@@ -1,1 +1,1 @@
-var mnemonic = "erosion topic term lawsuit series real prevent tribe time speed tonight runway";
+var mnemonic = "tip toast maple violin endorse harsh dish then borrow check return patient";

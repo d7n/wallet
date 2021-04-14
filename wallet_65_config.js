@@ -1,1 +1,1 @@
-var mnemonic = "wasp pair cigar sunny sick style cream tattoo panther accident cupboard uncle";
+var mnemonic = "person dragon average weather slim credit story parade wild other federal bench";

@@ -1,1 +1,1 @@
-var mnemonic = "glance region melt screen repair busy bread execute border bounce carbon heavy";
+var mnemonic = "drill camp core raven measure blossom work purchase hat father place bike";

@@ -1,1 +1,1 @@
-var mnemonic = "trap brass goose achieve butter clarify sound theme cargo auction home spot";
+var mnemonic = "recall boring reopen dance unfair unveil setup stereo capable under field hour";

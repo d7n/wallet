@@ -1,1 +1,1 @@
-var mnemonic = "humor hub use dilemma census suggest congress garment half vacuum put royal";
+var mnemonic = "combine walnut inflict display ski soup miss protect snow glance connect ball";

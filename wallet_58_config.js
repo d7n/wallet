@@ -1,1 +1,1 @@
-var mnemonic = "brisk usual hero lift observe estate crouch cannon reason certain blue discover";
+var mnemonic = "rack guess goat admit blossom raven custom short mesh allow clay lobster";

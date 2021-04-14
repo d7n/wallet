@@ -1,1 +1,1 @@
-var mnemonic = "mirror lobster stool two flavor wool canyon siege entry frequent ramp shop";
+var mnemonic = "fish style phrase chat caution trial eyebrow lobster oil air orchard lift";

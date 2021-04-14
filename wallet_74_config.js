@@ -1,1 +1,1 @@
-var mnemonic = "sustain buddy such actual hello odor buyer awesome broccoli usage certain beach";
+var mnemonic = "dance female attract arctic interest carry wish stove rate seven scorpion worry";

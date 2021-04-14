@@ -1,1 +1,1 @@
-var mnemonic = "supreme hill filter cook trim exile barrel tent require human lottery engine";
+var mnemonic = "seek disorder despair need cheap loyal orchard robot more thumb drift camp";

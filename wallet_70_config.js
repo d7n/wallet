@@ -1,1 +1,1 @@
-var mnemonic = "ugly lawn afford embody zoo infant awesome skill addict script cable volcano";
+var mnemonic = "can half enough school leisure amount tube master pistol stone copper chronic";

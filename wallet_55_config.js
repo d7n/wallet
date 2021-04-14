@@ -1,1 +1,1 @@
-var mnemonic = "huge cool smile action kind humble loud mammal stand garage deposit tortoise";
+var mnemonic = "whisper skull business blade stone rebuild earn useless cage ranch memory rely";

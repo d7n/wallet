@@ -1,1 +1,1 @@
-var mnemonic = "during antenna idle urban that hazard local acoustic install empty coin method";
+var mnemonic = "clever diary merge excess vast scorpion rapid pulp need neither echo ramp";

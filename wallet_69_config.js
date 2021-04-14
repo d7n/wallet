@@ -1,1 +1,1 @@
-var mnemonic = "social turn connect tortoise drip voice fruit palace pretty response hen armor";
+var mnemonic = "head rescue coffee sad work night motion one where glad endorse stage";

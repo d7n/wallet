@@ -1,1 +1,1 @@
-var mnemonic = "matter energy random dash mother abstract panda monster sheriff put they make";
+var mnemonic = "envelope adjust talent wolf elegant initial leave hobby penalty welcome aware this";

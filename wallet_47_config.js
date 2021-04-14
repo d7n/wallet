@@ -1,1 +1,1 @@
-var mnemonic = "scatter now abandon famous weapon era tail crash lens someone record mandate";
+var mnemonic = "anchor ten master frog boat combine people brisk raccoon wisdom roof very";

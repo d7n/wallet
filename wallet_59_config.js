@@ -1,1 +1,1 @@
-var mnemonic = "kitchen slim orbit sniff ribbon consider ignore people humble juice river music";
+var mnemonic = "rookie lend license major swing erase since across lawsuit kid tell mad";

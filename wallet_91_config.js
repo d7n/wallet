@@ -1,1 +1,1 @@
-var mnemonic = "borrow advance category baby farm mad behave share away inhale sniff river";
+var mnemonic = "unfair pelican visual cactus glance capable giggle brisk doctor hidden stand dilemma";

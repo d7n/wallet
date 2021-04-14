@@ -1,1 +1,1 @@
-var mnemonic = "cool inherit frog child quote student light scorpion outside affair cost fiction";
+var mnemonic = "science cruel vibrant outdoor fun whale giggle thing sound stone fantasy route";

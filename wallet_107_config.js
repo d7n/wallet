@@ -1,1 +1,1 @@
-var mnemonic = "maximum lottery describe balcony elegant deny helmet all park wagon human next";
+var mnemonic = "consider earth door heart manage slight tag empty half horse owner history";

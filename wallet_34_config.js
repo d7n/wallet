@@ -1,1 +1,1 @@
-var mnemonic = "empower wife federal hold loyal teach shrug embrace visa age hair weekend";
+var mnemonic = "boat ostrich art marble gospel enhance leave curtain bag loop ten robot";

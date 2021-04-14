@@ -1,1 +1,1 @@
-var mnemonic = "symptom proof split snap mesh base waste brave rebel filter across garlic";
+var mnemonic = "kidney real spare roast stay cannon option topple claim lake anger typical";

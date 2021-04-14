@@ -1,1 +1,1 @@
-var mnemonic = "jaguar senior give music cup name topic wife tuition animal candy home";
+var mnemonic = "prize ride uniform rug rather palm flat one issue chunk morning lawsuit";

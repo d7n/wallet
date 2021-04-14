@@ -1,1 +1,1 @@
-var mnemonic = "season recipe list debate burger exhaust fringe injury assist choice iron become";
+var mnemonic = "use drink defense spice option security pig fever view today enroll fire";

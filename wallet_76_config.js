@@ -1,1 +1,1 @@
-var mnemonic = "deny broom stumble gain blind salmon street wealth tired require acid mesh";
+var mnemonic = "blouse sense digital few truck useless crisp sunset lemon buddy wait hammer";

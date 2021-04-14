@@ -1,1 +1,1 @@
-var mnemonic = "rude replace arrive gain ketchup soldier thrive control enter lady sun ability";
+var mnemonic = "weird action month kick nation tank wrong brand early topple guide dial";

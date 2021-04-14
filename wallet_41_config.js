@@ -1,1 +1,1 @@
-var mnemonic = "ignore action stadium school swarm wagon flip crystal guide nurse solution token";
+var mnemonic = "promote fever surround concert cannon glimpse cube enrich idle ostrich rocket action";

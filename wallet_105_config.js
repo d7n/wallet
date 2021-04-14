@@ -1,1 +1,1 @@
-var mnemonic = "magic hint trumpet protect one power puzzle script divorce van high rather";
+var mnemonic = "neck athlete pumpkin cluster burst uncover cause doctor idea actual resemble cactus";

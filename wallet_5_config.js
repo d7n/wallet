@@ -1,1 +1,1 @@
-var mnemonic = "exist merit seat vacant benefit tribe lift library embody tornado flock grab";
+var mnemonic = "error toe cliff lonely slide erupt trumpet dilemma front talent morning quit";

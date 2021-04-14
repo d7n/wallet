@@ -1,1 +1,1 @@
-var mnemonic = "air cheese night sting adapt charge pond rotate defy more finger romance";
+var mnemonic = "sadness price wonder slight document insect spike eager twenty tool green primary";

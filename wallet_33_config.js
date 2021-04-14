@@ -1,1 +1,1 @@
-var mnemonic = "glory famous win discover humor saddle indicate direct source normal special worth";
+var mnemonic = "swap cradle error divide toy insect mouse pledge gas demand assume bus";

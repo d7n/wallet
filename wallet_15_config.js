@@ -1,1 +1,1 @@
-var mnemonic = "alley knee must clip crash hat barely abuse noise sphere input phone";
+var mnemonic = "trap accident tank panic skirt ostrich sign night glimpse kitchen degree tiny";

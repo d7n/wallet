@@ -1,1 +1,1 @@
-var mnemonic = "front dish invest destroy mammal fragile follow umbrella word airport detail cattle";
+var mnemonic = "waste decade pair food grunt track hollow punch bundle entry kidney creek";

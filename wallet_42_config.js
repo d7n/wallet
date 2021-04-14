@@ -1,1 +1,1 @@
-var mnemonic = "robot armor sign wave capable jelly major hard target enable update broccoli";
+var mnemonic = "banana sell art over small crime refuse fantasy unfold sponsor begin gasp";

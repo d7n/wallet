@@ -1,1 +1,1 @@
-var mnemonic = "once false fine remember document wonder village shy desert expect rocket shell";
+var mnemonic = "blame shine lock sun party vivid insane dragon age erupt medal crush";

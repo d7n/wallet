@@ -1,1 +1,1 @@
-var mnemonic = "fault size rescue poem asthma affair awake better stock alarm cloth nerve";
+var mnemonic = "rack never discover top gym vocal alter poverty marble awful media learn";

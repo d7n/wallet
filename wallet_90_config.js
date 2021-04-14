@@ -1,1 +1,1 @@
-var mnemonic = "present primary mutual bring position fetch public option smile favorite hub satisfy";
+var mnemonic = "invest retire piano year april tool nerve also kid devote fish empty";

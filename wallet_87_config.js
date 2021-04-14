@@ -1,1 +1,1 @@
-var mnemonic = "proof pig swamp afford gravity finish like diet mind wreck palm cigar";
+var mnemonic = "bone angry stool dinner plate neither veteran deny finger surprise history turtle";

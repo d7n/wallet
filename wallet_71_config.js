@@ -1,1 +1,1 @@
-var mnemonic = "erupt illegal idea category park hospital object phrase now top fame other";
+var mnemonic = "omit cotton cheap heart cheap soon wrist stairs pond ocean blind quit";

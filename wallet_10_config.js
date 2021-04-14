@@ -1,1 +1,1 @@
-var mnemonic = "require clap cup neck april cable sail follow deliver strike transfer bone";
+var mnemonic = "neglect sibling armed bamboo essay carry merge scale park addict network sign";

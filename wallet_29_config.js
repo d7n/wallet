@@ -1,1 +1,1 @@
-var mnemonic = "focus hire wonder before burger suspect uphold spread chimney stem sunny mass";
+var mnemonic = "umbrella raven unhappy exercise return spice cake truth rough tomato rent arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon way purpose notice salt bike dust brick coin seven garage toast";
+var mnemonic = "dress match release tilt raven win attitude scene weekend amazing purse love";

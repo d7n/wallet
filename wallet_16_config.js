@@ -1,1 +1,1 @@
-var mnemonic = "put tiny filter tip cram fruit uniform pull raw frozen advance analyst";
+var mnemonic = "escape anger pumpkin oblige hole fire umbrella void chair dog depend smooth";

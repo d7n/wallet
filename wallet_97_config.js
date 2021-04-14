@@ -1,1 +1,1 @@
-var mnemonic = "transfer mom beach quality solar draft corn person verify language basic rifle";
+var mnemonic = "link room cute reveal visual reduce drastic member moral field scheme angle";

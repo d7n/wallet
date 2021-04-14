@@ -1,1 +1,1 @@
-var mnemonic = "enforce enact connect awful supreme present act hub spot antenna swallow cinnamon";
+var mnemonic = "buzz train enhance fish solution series bind hotel vast hockey region gallery";

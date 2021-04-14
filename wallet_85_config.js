@@ -1,1 +1,1 @@
-var mnemonic = "grass fabric team topple common popular empower gold catch episode disorder smoke";
+var mnemonic = "bitter medal swallow position clinic message turn bicycle couple left ancient nice";

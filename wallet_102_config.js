@@ -1,1 +1,1 @@
-var mnemonic = "pigeon logic artwork noble area fly into miracle armor husband deposit tired";
+var mnemonic = "essay adapt comic wrestle predict educate diesel bubble stable album ancient enact";

@@ -1,1 +1,1 @@
-var mnemonic = "talk verb nose scheme clock chase donate tank same old aware remember";
+var mnemonic = "coach ketchup strategy furnace want useless evil hat else road ghost survey";

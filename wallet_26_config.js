@@ -1,1 +1,1 @@
-var mnemonic = "find super orange dinner sock lunch noise because claw addict ignore enter";
+var mnemonic = "can lady hill number valve help exile rice rhythm space ecology wreck";

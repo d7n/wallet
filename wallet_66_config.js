@@ -1,1 +1,1 @@
-var mnemonic = "organ discover quantum ocean leopard carpet radio waste raccoon word discover pond";
+var mnemonic = "marine unusual harbor what grape then movie senior oblige bring struggle color";

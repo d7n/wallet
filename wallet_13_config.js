@@ -1,1 +1,1 @@
-var mnemonic = "balance skin urge type area paper bleak execute weapon awesome century response";
+var mnemonic = "word void seminar predict burst breeze recipe shoot acid salmon submit baby";

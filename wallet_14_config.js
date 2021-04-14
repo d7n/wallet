@@ -1,1 +1,1 @@
-var mnemonic = "cliff chair arrive open raw party bundle proud together tail often slow";
+var mnemonic = "donkey below humor alert hospital snow winter habit swallow bind recall stamp";

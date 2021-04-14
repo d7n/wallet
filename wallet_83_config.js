@@ -1,1 +1,1 @@
-var mnemonic = "city very tray snow jacket fiscal churn quit fence update news salad";
+var mnemonic = "certain snake push clap shop alarm grocery bundle useless pact very observe";

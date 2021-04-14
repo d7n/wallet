@@ -1,1 +1,1 @@
-var mnemonic = "morning barrel youth choice retreat aisle exhaust cheese sadness attack clean jacket";
+var mnemonic = "wedding judge idea space venture protect flip faint mouse daughter boil ivory";

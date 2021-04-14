@@ -1,1 +1,1 @@
-var mnemonic = "fever mandate blind option result bundle almost arrange machine promote garlic medal";
+var mnemonic = "earth buffalo note top endorse option lunar brass silver cram awake wife";

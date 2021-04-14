@@ -1,1 +1,1 @@
-var mnemonic = "coyote puppy menu dragon strategy solution mother squeeze delay that eternal reveal";
+var mnemonic = "forget reform legend bottom race crush admit night bunker wage parade loud";

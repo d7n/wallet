@@ -1,1 +1,1 @@
-var mnemonic = "divorce civil seed gentle puppy sport math ugly melody lemon over check";
+var mnemonic = "joy escape tree burst crash fury cargo reject peace verify spoil width";

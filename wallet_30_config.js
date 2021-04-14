@@ -1,1 +1,1 @@
-var mnemonic = "skill key cube north skate crane talent monkey dish feel plunge split";
+var mnemonic = "poverty broccoli river curious mistake evoke lamp wolf glow laptop gallery oak";

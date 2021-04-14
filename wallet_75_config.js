@@ -1,1 +1,1 @@
-var mnemonic = "loan subway agree middle divorce frequent wonder menu exercise into modify awake";
+var mnemonic = "cover ski scrub copper junior snack want february depth coffee barrel jaguar";

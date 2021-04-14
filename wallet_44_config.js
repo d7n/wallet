@@ -1,1 +1,1 @@
-var mnemonic = "twelve history tribe unfair field include marine twenty child butter unique veteran";
+var mnemonic = "punch swap size youth champion display smile leave cannon inside confirm remove";

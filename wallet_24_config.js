@@ -1,1 +1,1 @@
-var mnemonic = "caution cruise cart art cook table primary life interest skull firm rifle";
+var mnemonic = "kangaroo inside bunker people network uniform cute sample mammal frown rabbit tissue";

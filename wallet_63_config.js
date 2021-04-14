@@ -1,1 +1,1 @@
-var mnemonic = "replace worth pigeon frown horse scheme sphere material language magnet side large";
+var mnemonic = "shift stay picture hedgehog inherit mercy blanket cry enact act faint time";

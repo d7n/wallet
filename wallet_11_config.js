@@ -1,1 +1,1 @@
-var mnemonic = "jar circle track crumble drastic shy source disagree giggle long fringe ahead";
+var mnemonic = "chronic oak embody rival modify bring range grow found wool net oil";

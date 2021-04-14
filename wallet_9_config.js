@@ -1,1 +1,1 @@
-var mnemonic = "absurd online cover hawk soap steel shock drop pear claim sad ranch";
+var mnemonic = "oval diary peasant outdoor hazard alien banana mask garage truly patient science";

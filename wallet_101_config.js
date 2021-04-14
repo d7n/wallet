@@ -1,1 +1,1 @@
-var mnemonic = "appear lend omit turkey outside service reduce friend acoustic globe wrist kangaroo";
+var mnemonic = "casino echo glove arctic metal manual region share burger lumber acid melody";

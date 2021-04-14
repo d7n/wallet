@@ -1,1 +1,1 @@
-var mnemonic = "trend before rice garage maple magic lemon draw dial right this craft";
+var mnemonic = "crater candy appear youth wrestle inhale odor hawk catalog yard sight horror";

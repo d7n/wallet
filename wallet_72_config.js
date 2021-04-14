@@ -1,1 +1,1 @@
-var mnemonic = "size swim priority hurdle artist wedding marriage danger manual upgrade toddler mosquito";
+var mnemonic = "rotate say sense scan museum skill away broom seven six riot asset";

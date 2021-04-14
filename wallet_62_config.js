@@ -1,1 +1,1 @@
-var mnemonic = "orient pulse firm original unaware tilt pistol reason brass skull shed spoil";
+var mnemonic = "bus dismiss vague cricket shallow unveil close cute uncover abandon suffer tank";

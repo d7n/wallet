@@ -1,1 +1,1 @@
-var mnemonic = "pole grant risk doll sad merry rhythm club human slim lazy entry";
+var mnemonic = "match pledge smoke hazard grain surround federal ladder adjust grocery picture learn";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare crouch board harsh champion various person okay fee crawl act just";
+var mnemonic = "crucial mule acquire aspect detail normal obscure because tissue earn village dentist";

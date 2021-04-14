@@ -1,1 +1,1 @@
-var mnemonic = "measure debris royal hidden hint scorpion square car state bar jaguar police";
+var mnemonic = "bike joke omit rely quantum banana box above search fresh layer recall";
