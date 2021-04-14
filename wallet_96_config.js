@@ -1,1 +1,1 @@
-var mnemonic = "oval entire debris shuffle receive dry suffer biology penalty amount brown foot";
+var mnemonic = "frozen spot monitor make once dune husband clap legend giant smoke vague";

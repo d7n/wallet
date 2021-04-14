@@ -1,1 +1,1 @@
-var mnemonic = "blanket print fence wheat protect track east citizen goddess easily gate resist";
+var mnemonic = "control often orient source off always urge dismiss bleak spell program volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "meat dentist average home primary gorilla live uniform cute engine curve express";
+var mnemonic = "wave soup upper galaxy mind list call defense hair invest pizza sentence";

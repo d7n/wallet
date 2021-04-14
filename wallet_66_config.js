@@ -1,1 +1,1 @@
-var mnemonic = "alien venue ivory insane staff castle tiny athlete gospel when fancy blue";
+var mnemonic = "faculty pepper regular embark sadness nothing miracle talk mandate family neck loop";

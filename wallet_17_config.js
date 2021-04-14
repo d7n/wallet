@@ -1,1 +1,1 @@
-var mnemonic = "season prison human one legal over fish what scare subject boost action";
+var mnemonic = "actual guess tired rookie decline rate position need oval green tomorrow remember";

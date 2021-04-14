@@ -1,1 +1,1 @@
-var mnemonic = "shell stuff wheel host shoe dream tomorrow limit notice joy spike kite";
+var mnemonic = "poverty feel turtle enable pool announce garbage fire gauge unhappy stay scare";

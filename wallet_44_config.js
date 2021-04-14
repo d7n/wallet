@@ -1,1 +1,1 @@
-var mnemonic = "core mean equal cannon two spatial shiver run beef brick come believe";
+var mnemonic = "divert tomato repeat two inside permit judge tattoo devote jar sibling wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "collect soap rather still nut grow light case push visa where tilt";
+var mnemonic = "pet damp team concert banner half hour rib space slot artefact bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "replace secret song poet pencil glance myself section cram shiver asthma pear";
+var mnemonic = "before burst bounce tiny gasp permit gadget angry tell inner portion erase";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale tragic blade expire method badge trial arrive legend faculty document crash";
+var mnemonic = "green tiny liquid use giraffe give movie donor cloth pave west bridge";

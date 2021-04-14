@@ -1,1 +1,1 @@
-var mnemonic = "clean tag giant under gate country retire chalk alien gap used minor";
+var mnemonic = "cruel defy dinosaur rib rotate either cream pause pistol mistake upset mango";

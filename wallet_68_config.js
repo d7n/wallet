@@ -1,1 +1,1 @@
-var mnemonic = "void moment mail oval screen target same proof destroy deputy stool tool";
+var mnemonic = "raven general six pretty vault rebel ride cool quit pottery asthma buyer";

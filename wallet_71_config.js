@@ -1,1 +1,1 @@
-var mnemonic = "smooth despair dad front ivory food drift blouse seven gym call winter";
+var mnemonic = "vendor camera useful motion search ordinary spoon pudding other virus rose lecture";

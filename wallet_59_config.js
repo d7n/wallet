@@ -1,1 +1,1 @@
-var mnemonic = "indoor swallow spot attract talent drill river toward admit siege vacuum laugh";
+var mnemonic = "popular prevent brand above tail pulse bamboo wood plate grab farm gravity";

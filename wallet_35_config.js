@@ -1,1 +1,1 @@
-var mnemonic = "stairs add escape father stairs egg soda degree color robot face false";
+var mnemonic = "dwarf maid mandate rent property witness grunt distance mouse across never rail";

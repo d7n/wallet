@@ -1,1 +1,1 @@
-var mnemonic = "tiger lounge aunt mind major sibling verb apart average demise blue garbage";
+var mnemonic = "program slide destroy reduce room reopen pelican renew air flee scout exchange";

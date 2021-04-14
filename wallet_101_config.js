@@ -1,1 +1,1 @@
-var mnemonic = "fetch hungry museum injury pride pledge talent perfect that access display tenant";
+var mnemonic = "scare tape hollow dwarf tourist stereo denial curtain fit leaf carpet pencil";

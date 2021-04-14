@@ -1,1 +1,1 @@
-var mnemonic = "unusual universe crucial bone wrong million broccoli service eagle nothing skin skill";
+var mnemonic = "term walnut number gentle strong issue lazy guilt insane nation fun wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub flash excess laundry nurse fiber indoor order organ stem invite grit";
+var mnemonic = "parrot reason rather example club leg sniff swift winter street great gadget";

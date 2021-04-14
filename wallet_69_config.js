@@ -1,1 +1,1 @@
-var mnemonic = "industry easy begin cart shoulder calm album average rude develop skirt equal";
+var mnemonic = "fatigue affair coffee lunch physical suggest jewel leopard meat balcony ugly stove";

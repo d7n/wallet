@@ -1,1 +1,1 @@
-var mnemonic = "dance current window blur six clutch bring hedgehog guess sheriff dilemma letter";
+var mnemonic = "smoke hire twist burden rack claim creek toe rare usage spy skin";

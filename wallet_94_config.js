@@ -1,1 +1,1 @@
-var mnemonic = "question odor salad syrup fiscal vacant memory across sort kangaroo ostrich hip";
+var mnemonic = "police pole start trip cloth afraid excuse comfort shock island town crew";

@@ -1,1 +1,1 @@
-var mnemonic = "swing useless core resist oppose lizard panda old predict rude spare pepper";
+var mnemonic = "bitter attract claw exile pave junior motion trend eye jewel taxi fresh";

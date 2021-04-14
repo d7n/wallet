@@ -1,1 +1,1 @@
-var mnemonic = "doctor poem peasant good budget business clean jump grain story almost start";
+var mnemonic = "put enemy author pumpkin reward stumble twenty crystal moon tilt cube month";

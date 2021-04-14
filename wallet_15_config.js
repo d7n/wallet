@@ -1,1 +1,1 @@
-var mnemonic = "pair rack farm door few novel arrow ridge plastic test actor cycle";
+var mnemonic = "angle tiger truth top suspect people market lobster rabbit comic law coconut";

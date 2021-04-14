@@ -1,1 +1,1 @@
-var mnemonic = "goddess lounge wine unit purity warm current shrug enact eye mushroom panel";
+var mnemonic = "walnut pair opinion purity announce lyrics door spike give summer pause boss";

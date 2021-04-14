@@ -1,1 +1,1 @@
-var mnemonic = "lizard tomorrow dizzy fee congress prosper mouse library walnut skull glimpse client";
+var mnemonic = "fit sure enter lady awful coil reject awful gift swamp foot gas";

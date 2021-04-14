@@ -1,1 +1,1 @@
-var mnemonic = "present buddy glory flame glide maze below advance indoor hard tree pull";
+var mnemonic = "fluid hole engage damp section river blanket broken crouch network enable warm";

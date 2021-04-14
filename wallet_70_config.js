@@ -1,1 +1,1 @@
-var mnemonic = "bundle smoke famous gossip south move elephant payment dash style shed cargo";
+var mnemonic = "awesome human bike cost laptop ill slight syrup alone guess ordinary only";

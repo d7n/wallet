@@ -1,1 +1,1 @@
-var mnemonic = "theory aim guard observe arctic scatter frost arrange pyramid nerve moment cargo";
+var mnemonic = "please rich section chat double siren repeat month uncover tunnel hollow useless";

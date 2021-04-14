@@ -1,1 +1,1 @@
-var mnemonic = "same bench service ankle jaguar stove inmate market wrong erase dismiss try";
+var mnemonic = "keen aware tennis clap artefact silly smoke connect income chronic pipe pilot";

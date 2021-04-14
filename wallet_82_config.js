@@ -1,1 +1,1 @@
-var mnemonic = "oven inch mutual zone demise butter derive claw fringe erupt dad cherry";
+var mnemonic = "boss oppose anchor charge rare swallow capable script marine scene spin north";

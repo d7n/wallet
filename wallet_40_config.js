@@ -1,1 +1,1 @@
-var mnemonic = "forward grab genre owner decrease sunny gap two dinner capital staff reunion";
+var mnemonic = "worry bar tobacco calm corn deputy conduct man practice machine chronic help";

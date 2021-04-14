@@ -1,1 +1,1 @@
-var mnemonic = "camp garbage load tuition balcony dry welcome fever attitude badge potato basic";
+var mnemonic = "custom satoshi mystery hotel smooth tray often suffer rather evolve daring galaxy";

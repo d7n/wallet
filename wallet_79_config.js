@@ -1,1 +1,1 @@
-var mnemonic = "carbon funny thought venue raw shove clever disagree concert ensure alcohol alarm";
+var mnemonic = "village grocery key accident meadow caught truck village mixed design toddler carry";

@@ -1,1 +1,1 @@
-var mnemonic = "hour ivory prefer twelve round detail wire must dish raccoon young pluck";
+var mnemonic = "silver just owner coffee siren hundred require tattoo keep race rail cereal";

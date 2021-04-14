@@ -1,1 +1,1 @@
-var mnemonic = "away object exhibit parade legal vote visit silly open beach divorce stage";
+var mnemonic = "mercy runway tone solution tuna spice pulp cricket useless typical senior eyebrow";

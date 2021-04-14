@@ -1,1 +1,1 @@
-var mnemonic = "soda valve lobster token mail two mass noodle receive fiction kiss danger";
+var mnemonic = "regret discover radio human anxiety helmet craft soap funny obvious monitor novel";

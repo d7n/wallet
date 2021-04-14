@@ -1,1 +1,1 @@
-var mnemonic = "mean method seed require drill hip steel hat luggage office clean wrist";
+var mnemonic = "road cost aerobic bright estate swap text install admit number rabbit coyote";

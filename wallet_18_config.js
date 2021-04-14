@@ -1,1 +1,1 @@
-var mnemonic = "behind sign return earth clutch staff negative island hill squeeze slide maze";
+var mnemonic = "dish tiny strong giant veteran soul husband accuse birth pole sheriff claim";

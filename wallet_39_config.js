@@ -1,1 +1,1 @@
-var mnemonic = "fabric blush start hybrid fruit crime diary wrong chaos dream gold indicate";
+var mnemonic = "isolate speed lemon history harvest suffer zone ring refuse alone family piece";

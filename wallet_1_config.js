@@ -1,1 +1,1 @@
-var mnemonic = "unable order goat bless matter fortune primary shove kitchen trap battle easy";
+var mnemonic = "buddy parent fix digital access pact sunny panther electric energy unlock isolate";

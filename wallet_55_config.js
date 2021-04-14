@@ -1,1 +1,1 @@
-var mnemonic = "kick strong rocket imitate smoke salad mail argue father region wood hold";
+var mnemonic = "benefit marine room road pilot sister vanish great woman pledge suspect plunge";

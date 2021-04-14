@@ -1,1 +1,1 @@
-var mnemonic = "coral remind chunk absurd junk equal library desert anxiety pink dragon upgrade";
+var mnemonic = "erode only fancy craft multiply attack culture perfect polar industry today exchange";

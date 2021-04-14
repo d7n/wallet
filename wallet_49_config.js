@@ -1,1 +1,1 @@
-var mnemonic = "card elder alarm festival rabbit lock minute imitate swear year original swap";
+var mnemonic = "valve grow escape tilt bachelor mandate fat barely clinic swarm plastic ridge";

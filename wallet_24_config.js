@@ -1,1 +1,1 @@
-var mnemonic = "husband senior fortune receive dentist reason certain select hour appear muscle pigeon";
+var mnemonic = "van title call tomato flag brand meat liar glide release success flip";

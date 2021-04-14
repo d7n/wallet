@@ -1,1 +1,1 @@
-var mnemonic = "lecture planet input measure comic melody example clap recall rail merge vanish";
+var mnemonic = "husband frozen flat faculty then motor honey position neither decade crush box";

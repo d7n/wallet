@@ -1,1 +1,1 @@
-var mnemonic = "hobby legend where coconut sign drive agent gallery private want mention solve";
+var mnemonic = "edit flee amused job february swift abuse provide almost awake junk message";

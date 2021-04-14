@@ -1,1 +1,1 @@
-var mnemonic = "disagree cruel kitchen logic hidden travel mouse digital crunch sphere stock special";
+var mnemonic = "dumb bottom resemble network dilemma daring fold inner they choose yellow badge";

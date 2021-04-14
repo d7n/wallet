@@ -1,1 +1,1 @@
-var mnemonic = "program miracle dry own hawk cloud way oven work resemble coil sudden";
+var mnemonic = "clay flame despair foot perfect argue gaze club toe wink reform slab";

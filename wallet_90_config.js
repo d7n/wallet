@@ -1,1 +1,1 @@
-var mnemonic = "athlete baby sponsor item sleep ugly chimney increase oyster when utility win";
+var mnemonic = "mention clutch same pink tribe tray solution typical kit roof south depart";

@@ -1,1 +1,1 @@
-var mnemonic = "damage language sort rapid base loop excuse leave calm bus bar sadness";
+var mnemonic = "favorite exhibit neglect rough march pyramid confirm inner notable flash belt deny";

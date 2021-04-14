@@ -1,1 +1,1 @@
-var mnemonic = "misery add casual ramp fit used clinic series ill will glow west";
+var mnemonic = "poem loop flock denial engine grab super picture before health priority tiger";

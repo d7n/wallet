@@ -1,1 +1,1 @@
-var mnemonic = "similar peasant mystery strategy sell pluck rely project viable air balance pact";
+var mnemonic = "avoid viable kick exclude advance pipe blast air garage ticket couch pluck";

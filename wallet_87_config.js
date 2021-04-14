@@ -1,1 +1,1 @@
-var mnemonic = "network miracle double beef slender follow vessel siege concert other believe live";
+var mnemonic = "ten girl harsh mother film ranch spare energy work jaguar wall opera";

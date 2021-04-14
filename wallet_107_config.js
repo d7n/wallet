@@ -1,1 +1,1 @@
-var mnemonic = "tone vote jaguar mimic bus virtual volcano material mask monster size offer";
+var mnemonic = "panic sad nasty ring evil tilt relax eight anxiety loan useless riot";

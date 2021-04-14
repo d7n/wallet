@@ -1,1 +1,1 @@
-var mnemonic = "solution rapid fog category mix split lady critic main thing behave enrich";
+var mnemonic = "fall luxury cloud gift whale aim tenant pepper junk garage fit axis";

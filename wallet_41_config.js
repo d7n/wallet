@@ -1,1 +1,1 @@
-var mnemonic = "paper mad sheriff scene bracket bulb odor more problem defy enough initial";
+var mnemonic = "advance guilt valve able mail rescue couch kite tennis focus raw venue";

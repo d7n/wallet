@@ -1,1 +1,1 @@
-var mnemonic = "shed coin music rug net voice napkin punch maze salad crystal close";
+var mnemonic = "fault observe reduce metal pencil floor wear crucial vote loyal link marble";

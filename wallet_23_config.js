@@ -1,1 +1,1 @@
-var mnemonic = "feature coast lounge remember pair tattoo ecology fun model shallow staff skate";
+var mnemonic = "lumber boring scene section winner eternal reward deal call torch season rotate";

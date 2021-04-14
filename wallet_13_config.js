@@ -1,1 +1,1 @@
-var mnemonic = "tennis elevator boss explain away canvas party search buddy fee demise bacon";
+var mnemonic = "flock obscure right tail core ten near spoil endorse salt woman plunge";

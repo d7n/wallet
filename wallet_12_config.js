@@ -1,1 +1,1 @@
-var mnemonic = "ugly leisure ostrich camp dinner imitate sunset festival donate help spread order";
+var mnemonic = "dose horror congress issue credit dose inside step monkey verb equal industry";

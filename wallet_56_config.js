@@ -1,1 +1,1 @@
-var mnemonic = "body brisk later yellow coconut truth search unable shy word crunch harbor";
+var mnemonic = "brick open mammal muscle strike wall double mobile loop basic long label";

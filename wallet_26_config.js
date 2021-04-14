@@ -1,1 +1,1 @@
-var mnemonic = "helmet pottery finger valley maple tonight assault obey utility dash physical number";
+var mnemonic = "foam zone speed hurdle year craft label predict volume toast bargain page";

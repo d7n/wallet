@@ -1,1 +1,1 @@
-var mnemonic = "design hill laundry person scrub pipe face member flat curious creek obey";
+var mnemonic = "canoe caution exchange possible silver view lottery leaf truck twist always film";

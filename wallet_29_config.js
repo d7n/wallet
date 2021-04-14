@@ -1,1 +1,1 @@
-var mnemonic = "trap brief cart version globe meat own sense version country push thank";
+var mnemonic = "uniform multiply animal flush snack roof road jelly slender hill icon cause";

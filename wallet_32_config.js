@@ -1,1 +1,1 @@
-var mnemonic = "fit mix comic replace urge sudden domain charge minimum expire rent shock";
+var mnemonic = "asthma blind hand pig word flock degree shock offer slender team field";

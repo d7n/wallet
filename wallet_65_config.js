@@ -1,1 +1,1 @@
-var mnemonic = "action skate hard satoshi jar hazard scout gallery beauty reunion wild crucial";
+var mnemonic = "illegal barely diamond inflict pig toddler green corn elbow winner venture cannon";

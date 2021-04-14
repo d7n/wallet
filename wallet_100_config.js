@@ -1,1 +1,1 @@
-var mnemonic = "culture author uniform match scare route repeat palm fat plate calm insect";
+var mnemonic = "cream chicken office voice mind bacon relief place save bargain reform hybrid";

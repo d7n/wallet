@@ -1,1 +1,1 @@
-var mnemonic = "eight paper chair seek dry glory easy orphan powder mango together soccer";
+var mnemonic = "chapter extend family symptom bridge diamond wonder nuclear still early alone sign";

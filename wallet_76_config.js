@@ -1,1 +1,1 @@
-var mnemonic = "such cycle hard thought toward extend spread north lunar dish depend play";
+var mnemonic = "senior fruit lawsuit wide rather unique reform remove text print fog grit";

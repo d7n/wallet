@@ -1,1 +1,1 @@
-var mnemonic = "bracket tragic inhale acquire tiny ginger someone bind light female frown citizen";
+var mnemonic = "later planet address latin express throw involve snow settle turkey gloom drop";

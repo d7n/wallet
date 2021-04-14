@@ -1,1 +1,1 @@
-var mnemonic = "drum brand chaos grain involve silk creek task liquid bless utility vast";
+var mnemonic = "symbol suffer unlock spray manual wood tape guilt afraid virtual churn warrior";

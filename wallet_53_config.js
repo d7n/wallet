@@ -1,1 +1,1 @@
-var mnemonic = "team water virus gym monkey uncover episode grain outside sun around whip";
+var mnemonic = "force love often runway access mind wash design sign genius clean pretty";

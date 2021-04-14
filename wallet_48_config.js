@@ -1,1 +1,1 @@
-var mnemonic = "slush office casino ecology admit describe feel penalty palm fancy deputy truly";
+var mnemonic = "cart kiwi daring embark brown episode cave bone diamond autumn cliff promote";

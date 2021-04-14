@@ -1,1 +1,1 @@
-var mnemonic = "quiz federal secret citizen spend pair frost enhance ship mesh solve grab";
+var mnemonic = "dinner secret spatial amused make tuna video cool hair unhappy limit trial";

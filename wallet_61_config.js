@@ -1,1 +1,1 @@
-var mnemonic = "potato lend lens salon lift loud piece grain knife measure maid attitude";
+var mnemonic = "bread sauce metal jelly glare raven evolve name often valve crash echo";

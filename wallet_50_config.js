@@ -1,1 +1,1 @@
-var mnemonic = "pioneer lab husband truck suspect cover gate burger weekend deal clean biology";
+var mnemonic = "own craft gaze garden fabric spray roof provide trade motion license purpose";

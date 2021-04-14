@@ -1,1 +1,1 @@
-var mnemonic = "february liquid now basket captain usage carbon funny person mail proof deposit";
+var mnemonic = "pink author opinion orchard tobacco matrix uncover sibling fossil message mutual wing";

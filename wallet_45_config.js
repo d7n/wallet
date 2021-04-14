@@ -1,1 +1,1 @@
-var mnemonic = "split glad mansion modify hub auction never polar uphold prevent peasant trend";
+var mnemonic = "act strategy bronze street tree achieve anxiety verb grow cute flight girl";

@@ -1,1 +1,1 @@
-var mnemonic = "profit escape sense main field crater cream country salt fever tone someone";
+var mnemonic = "best idle fog hurry friend moral unknown achieve improve drop veteran neither";

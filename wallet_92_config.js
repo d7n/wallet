@@ -1,1 +1,1 @@
-var mnemonic = "wine congress found setup guitar picnic foam maple brave coconut slight found";
+var mnemonic = "salt write parrot market box empty swing relief exist choice business price";

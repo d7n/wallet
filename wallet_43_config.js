@@ -1,1 +1,1 @@
-var mnemonic = "injury have nest human alarm pencil vehicle long couple buzz reflect blossom";
+var mnemonic = "scan connect steak harvest bunker doll act brush rule humble busy lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "biology fiction spy load garden polar news venture monster owner erode check";
+var mnemonic = "fancy steak degree soup case toss injury snap blur meat eager test";

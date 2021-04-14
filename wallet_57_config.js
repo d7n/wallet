@@ -1,1 +1,1 @@
-var mnemonic = "own evolve select demise yard rigid yard crowd adjust outdoor detail review";
+var mnemonic = "property panel stone vital tumble leg size pottery hybrid twice verify sugar";

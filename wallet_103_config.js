@@ -1,1 +1,1 @@
-var mnemonic = "debris lend anchor leg way capital thrive cabin manual bronze unveil humor";
+var mnemonic = "leave verify setup sting dragon identify guilt number winter lunch else card";

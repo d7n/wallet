@@ -1,1 +1,1 @@
-var mnemonic = "panic seat nasty fatigue fee silver february rich have call measure medal";
+var mnemonic = "luxury explain prison position law mistake grant allow science economy tumble split";

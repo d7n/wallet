@@ -1,1 +1,1 @@
-var mnemonic = "rally velvet donkey slot ceiling good eagle much science survey bubble benefit";
+var mnemonic = "erase clinic install all illness treat boy possible million crane drop nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "sea surprise card dune cruel stool report game essence indoor exotic space";
+var mnemonic = "mammal field life wrap tape insane amazing team bread ignore gorilla shell";

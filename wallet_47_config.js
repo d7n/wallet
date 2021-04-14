@@ -1,1 +1,1 @@
-var mnemonic = "trumpet force embrace twenty diesel post flush hire chapter fuel grocery iron";
+var mnemonic = "bubble thing often shove remind fence patrol hunt income copper lounge chicken";

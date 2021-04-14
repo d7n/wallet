@@ -1,1 +1,1 @@
-var mnemonic = "aspect junior solution fall phone deer cry bulk divide sorry bottom snack";
+var mnemonic = "system escape common loop catch lizard fragile scare tunnel omit tired universe";
