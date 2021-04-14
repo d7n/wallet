@@ -1,1 +1,1 @@
-var mnemonic = "climb indicate copy space summer keen limit boss breeze claim color fringe";
+var mnemonic = "grape token hedgehog security swift abandon fetch pet weasel orient apple vendor";

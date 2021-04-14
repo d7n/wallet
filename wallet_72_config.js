@@ -1,1 +1,1 @@
-var mnemonic = "admit derive cost cause wild theme any edge dish own avoid rebel";
+var mnemonic = "raven zero jacket green floor spawn woman buyer clay gorilla mail fancy";

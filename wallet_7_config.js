@@ -1,1 +1,1 @@
-var mnemonic = "rely aunt occur viable scatter coach riot into eager shine web upper";
+var mnemonic = "type jaguar bean tenant stone horn evil assume accident echo search finger";

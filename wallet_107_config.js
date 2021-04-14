@@ -1,1 +1,1 @@
-var mnemonic = "talk media force square panel verb culture chapter mechanic hundred surge fatigue";
+var mnemonic = "wine reveal exhaust void creek weekend curious aisle yellow hair blush rule";

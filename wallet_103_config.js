@@ -1,1 +1,1 @@
-var mnemonic = "pioneer people draw exhaust hair foam voice van tail across adjust canyon";
+var mnemonic = "silk earth salmon anger always catalog oval print castle avocado range annual";

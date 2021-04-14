@@ -1,1 +1,1 @@
-var mnemonic = "electric eternal discover bread tuna trip runway sport address van surge opinion";
+var mnemonic = "whip tip banana typical glad perfect shoulder ocean awkward motion unknown cheese";

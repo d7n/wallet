@@ -1,1 +1,1 @@
-var mnemonic = "second auction spawn knife broccoli violin craft finish decline token unaware hollow";
+var mnemonic = "reflect reduce kingdom fiber miss endorse huge title frog atom double lion";

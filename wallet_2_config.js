@@ -1,1 +1,1 @@
-var mnemonic = "region case rich switch sort album element chronic eyebrow buffalo until grape";
+var mnemonic = "symbol squeeze rate setup genius trial night fuel glide glance bulb tunnel";

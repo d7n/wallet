@@ -1,1 +1,1 @@
-var mnemonic = "fury noodle icon spy picnic doctor guide tilt rookie kidney ramp buyer";
+var mnemonic = "hill pill long giggle basic noise ginger chaos fine ribbon ethics ahead";

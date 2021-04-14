@@ -1,1 +1,1 @@
-var mnemonic = "cup palm mechanic ribbon ribbon matrix rude solid glory beef dove stomach";
+var mnemonic = "dune gesture original female royal often oven fee opinion select kidney point";

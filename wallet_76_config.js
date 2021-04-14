@@ -1,1 +1,1 @@
-var mnemonic = "spoon resist eight come depart angry excess pledge doll mango place advance";
+var mnemonic = "soccer grit hip display clutch draft enroll winter render forest flower end";

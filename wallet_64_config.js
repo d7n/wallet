@@ -1,1 +1,1 @@
-var mnemonic = "aspect shell key doctor coil van shove cost burden wash alpha element";
+var mnemonic = "defense funny spare exercise olympic detail seed lounge space shiver under blame";

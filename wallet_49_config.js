@@ -1,1 +1,1 @@
-var mnemonic = "stool protect praise aerobic crowd doll convince brush picture burden bright claim";
+var mnemonic = "april message army wire menu good month faint matrix south conduct system";

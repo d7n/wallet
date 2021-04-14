@@ -1,1 +1,1 @@
-var mnemonic = "miss economy coral trap also push strategy drip female choice pigeon forward";
+var mnemonic = "exact come daring exhaust chair antenna mouse fever cry analyst swarm layer";

@@ -1,1 +1,1 @@
-var mnemonic = "extend winner involve cigar pottery skirt engage foil equal saddle depart change";
+var mnemonic = "unveil employ admit found size employ make only chaos act man release";

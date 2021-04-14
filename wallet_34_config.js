@@ -1,1 +1,1 @@
-var mnemonic = "decrease month rude twice possible phrase oyster check segment this swim habit";
+var mnemonic = "debate jeans episode east height chapter solar boost potato strong small oppose";

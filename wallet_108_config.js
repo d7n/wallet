@@ -1,1 +1,1 @@
-var mnemonic = "room sadness measure eager ridge ripple chair grab pole bone skate moment";
+var mnemonic = "duck chase heart teach arch problem humor snake result debate harvest bus";

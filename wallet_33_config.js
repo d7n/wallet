@@ -1,1 +1,1 @@
-var mnemonic = "fringe village rival example wrestle method stone barely clay ill announce rice";
+var mnemonic = "hire expand sick confirm fix brave room motion top unhappy still start";

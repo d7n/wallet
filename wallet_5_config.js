@@ -1,1 +1,1 @@
-var mnemonic = "season hybrid brief language kind switch vivid purpose usual merge gown soul";
+var mnemonic = "paddle lava daring tray nuclear accident risk media real joke tonight sunny";

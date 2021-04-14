@@ -1,1 +1,1 @@
-var mnemonic = "acquire fatigue laugh price siren spin mixed apple resemble resource unit emerge";
+var mnemonic = "viable vote essence donate pipe remember engage utility mention indoor repeat check";

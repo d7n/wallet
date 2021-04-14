@@ -1,1 +1,1 @@
-var mnemonic = "town invest nose border supply thunder pelican dog amount hunt village barely";
+var mnemonic = "fabric wife empty proud mercy segment thrive please foster sibling split salute";

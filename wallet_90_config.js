@@ -1,1 +1,1 @@
-var mnemonic = "donor smile method code use liberty curve work bridge pact turn claw";
+var mnemonic = "romance crawl accident focus tribe concert tomorrow path letter project mad setup";

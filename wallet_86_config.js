@@ -1,1 +1,1 @@
-var mnemonic = "judge fall sample room expand tree jazz strong nerve draw special system";
+var mnemonic = "rail enable bracket cause visit someone globe now harvest input deny change";

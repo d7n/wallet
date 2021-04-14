@@ -1,1 +1,1 @@
-var mnemonic = "wrap boring tunnel nation shrimp pipe behave pupil mixture enlist recall buyer";
+var mnemonic = "bachelor shrug spin offer ugly humble supreme exit pledge asset evoke flower";

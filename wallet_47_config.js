@@ -1,1 +1,1 @@
-var mnemonic = "pretty impact burst price doll brisk citizen check miss move outside physical";
+var mnemonic = "foil arm episode tray bring surface erase speak radio world annual shaft";

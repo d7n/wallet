@@ -1,1 +1,1 @@
-var mnemonic = "oyster until grid else basic flash submit random digital topple switch keen";
+var mnemonic = "isolate false art reflect only scorpion also soon depend meadow emerge auction";

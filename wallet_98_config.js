@@ -1,1 +1,1 @@
-var mnemonic = "power square sweet stamp tiny sorry assist way program zebra account surround";
+var mnemonic = "lunar where blade hobby gun dog someone sentence pistol puppy enjoy cabin";

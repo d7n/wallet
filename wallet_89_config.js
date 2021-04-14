@@ -1,1 +1,1 @@
-var mnemonic = "deliver rebuild brand lava hub spread loyal base kite focus spoon better";
+var mnemonic = "lake month muscle candy embody group bunker nominee rail tackle fresh effort";

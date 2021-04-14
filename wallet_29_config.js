@@ -1,1 +1,1 @@
-var mnemonic = "toss idea relax north camera attract sentence confirm symbol parrot pony awful";
+var mnemonic = "apology syrup useful travel skirt calm season reject where improve taste girl";

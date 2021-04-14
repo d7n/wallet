@@ -1,1 +1,1 @@
-var mnemonic = "cluster already stock update cabin perfect canoe lumber frost render option tip";
+var mnemonic = "plug else venture guard dove giant dentist favorite goat tag broken proud";

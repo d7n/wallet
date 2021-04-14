@@ -1,1 +1,1 @@
-var mnemonic = "before stable swarm visual west accident render oppose wheel donkey consider example";
+var mnemonic = "cereal balance autumn pink debate apple giraffe gym holiday invite divorce jump";

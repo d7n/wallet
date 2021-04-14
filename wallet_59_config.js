@@ -1,1 +1,1 @@
-var mnemonic = "produce give juice code stand slow fee milk illness level bird frequent";
+var mnemonic = "flag alarm age hotel outside decade insect fat arena expire badge present";

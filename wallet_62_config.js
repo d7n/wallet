@@ -1,1 +1,1 @@
-var mnemonic = "same distance split link enough hero female like hotel bomb female recipe";
+var mnemonic = "promote kitten want elbow sweet mule trust possible pair visit episode royal";

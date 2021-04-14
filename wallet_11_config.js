@@ -1,1 +1,1 @@
-var mnemonic = "blossom salon purchase suit brush express lazy entry arena pen cover income";
+var mnemonic = "gorilla fix polar series plate virtual above design cupboard chief away lyrics";

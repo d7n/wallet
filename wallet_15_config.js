@@ -1,1 +1,1 @@
-var mnemonic = "hill gentle throw cook always country wash dice amateur bridge burst emerge";
+var mnemonic = "flush inherit panther filter timber trick swamp melody roast auto spike divide";

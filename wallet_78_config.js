@@ -1,1 +1,1 @@
-var mnemonic = "dirt system bamboo arrow outdoor shock message crowd twist wave drift island";
+var mnemonic = "inflict swear daughter viable leaf tonight attract canal base option poverty tenant";

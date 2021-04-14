@@ -1,1 +1,1 @@
-var mnemonic = "gossip flat beach trophy damp shoulder main view ceiling board relief atom";
+var mnemonic = "network response shrimp auction churn level admit fashion wrong swarm title film";

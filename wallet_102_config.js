@@ -1,1 +1,1 @@
-var mnemonic = "mechanic liquid bubble loud belt retire nerve hungry derive fiscal leader suggest";
+var mnemonic = "now movie suggest harbor paper enter discover copy cereal maple elbow depth";

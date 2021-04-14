@@ -1,1 +1,1 @@
-var mnemonic = "bulk liquid goose mother lizard primary man industry cry cherry raccoon loop";
+var mnemonic = "fade sad steak remain oil tree scout symbol immune cave arrow company";

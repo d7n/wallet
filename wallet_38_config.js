@@ -1,1 +1,1 @@
-var mnemonic = "around truck island staff sketch cabin assault input carpet pencil swim mixed";
+var mnemonic = "impose width advance unfair double damp wet treat want license train drift";

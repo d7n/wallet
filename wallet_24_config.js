@@ -1,1 +1,1 @@
-var mnemonic = "swarm cloud conduct melt control save neither heavy hip elegant arrange exist";
+var mnemonic = "lyrics output frown scare toy resemble boy meat wise artefact bulb pyramid";

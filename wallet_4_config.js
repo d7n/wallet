@@ -1,1 +1,1 @@
-var mnemonic = "reopen forward all attend crop print situate verb vivid demand depth approve";
+var mnemonic = "urge client arch dune donkey random hurt craft crystal warm year wire";

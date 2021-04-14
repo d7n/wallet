@@ -1,1 +1,1 @@
-var mnemonic = "grunt common swear noble couple blind wrong arch erase thumb motor wrap";
+var mnemonic = "impact shop what minimum sunny tennis absent kitchen manage intact aunt usage";

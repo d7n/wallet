@@ -1,1 +1,1 @@
-var mnemonic = "maple rhythm drive someone weird alert time coconut organ jaguar enable inch";
+var mnemonic = "balcony prevent leopard thought great curve trim divorce frame net wagon carry";

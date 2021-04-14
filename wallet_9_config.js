@@ -1,1 +1,1 @@
-var mnemonic = "embark curious merit screen soul leaf crash have drive salt wage corn";
+var mnemonic = "differ echo surge sister also inflict skull erosion tooth tissue buddy differ";

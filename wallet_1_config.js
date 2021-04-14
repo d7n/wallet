@@ -1,1 +1,1 @@
-var mnemonic = "kitchen embark success wink endless coil valley oyster velvet able brave minor";
+var mnemonic = "mad loop flag lawn crouch ranch boil reduce enroll best idle dream";

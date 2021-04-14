@@ -1,1 +1,1 @@
-var mnemonic = "roof sustain light radio print smoke stick family must file spoon debris";
+var mnemonic = "cable voice fun around pluck love mimic turtle genre close ready seed";

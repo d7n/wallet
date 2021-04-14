@@ -1,1 +1,1 @@
-var mnemonic = "chat creek similar inspire trouble special sponsor elegant wet equal consider dignity";
+var mnemonic = "egg crouch balance blouse dial plunge future sentence heart shield critic birth";

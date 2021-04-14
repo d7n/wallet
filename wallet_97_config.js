@@ -1,1 +1,1 @@
-var mnemonic = "easy bulk quote raven sand trash evolve scrub peanut hockey liberty army";
+var mnemonic = "law oval please actual fog vivid thank mansion affair tooth refuse tattoo";

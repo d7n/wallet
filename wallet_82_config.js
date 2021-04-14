@@ -1,1 +1,1 @@
-var mnemonic = "assault planet talk lock offer amazing dilemma blood mad ice kiwi hand";
+var mnemonic = "twelve fox time cute raise disagree prepare sorry open luggage invest empty";

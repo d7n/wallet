@@ -1,1 +1,1 @@
-var mnemonic = "tree casino opera rack fossil noodle what input edit have sunset sustain";
+var mnemonic = "barrel female boost vital layer kitten bar second wall clean amateur usage";

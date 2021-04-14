@@ -1,1 +1,1 @@
-var mnemonic = "youth access north flavor bulk fragile cupboard upper primary matrix tissue erupt";
+var mnemonic = "flame speed erase vacant goddess service only mobile velvet patrol that purity";

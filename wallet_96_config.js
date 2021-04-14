@@ -1,1 +1,1 @@
-var mnemonic = "inflict skill law wood mixture upon fragile march camp father require tooth";
+var mnemonic = "stay kite exit predict fiction sing mule tuition program hero design lobster";

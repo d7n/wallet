@@ -1,1 +1,1 @@
-var mnemonic = "fluid grow young wish critic diesel glory vicious program daring churn deposit";
+var mnemonic = "ketchup menu script garbage enable world buddy remain frequent damage magnet festival";

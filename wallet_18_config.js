@@ -1,1 +1,1 @@
-var mnemonic = "bracket knee come invite weekend brick muscle economy document metal rotate again";
+var mnemonic = "wheat fetch fantasy boat whip catch purchase donkey device design because claw";

@@ -1,1 +1,1 @@
-var mnemonic = "park soup sadness sugar confirm yard swallow library obtain spray easy bench";
+var mnemonic = "rotate achieve burger cream patient print nuclear disease such original you pioneer";

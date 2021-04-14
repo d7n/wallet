@@ -1,1 +1,1 @@
-var mnemonic = "welcome season kitchen involve fiber wide problem blossom ill defy fog visual";
+var mnemonic = "end clock acid grow leader anchor truly situate rate blanket garlic atom";

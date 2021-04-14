@@ -1,1 +1,1 @@
-var mnemonic = "local essence offer harvest boy avocado toddler dirt connect digital small rack";
+var mnemonic = "banana utility estate cost basket cross ramp furnace casino quit picnic memory";

@@ -1,1 +1,1 @@
-var mnemonic = "where point govern wheat liquid walnut observe bracket absorb actor brief dish";
+var mnemonic = "bomb hungry section spell evidence bonus type clay trick seminar trick note";

@@ -1,1 +1,1 @@
-var mnemonic = "ring verb slab segment fancy student cabbage track poverty quote unlock strong";
+var mnemonic = "among ridge rather cable unique still cram become attack also deposit smile";

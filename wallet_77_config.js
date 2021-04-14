@@ -1,1 +1,1 @@
-var mnemonic = "cabin stumble invite foot pipe orphan used coconut taxi wasp achieve canyon";
+var mnemonic = "silly erase knee clown turn rude earth social spare own pizza chronic";

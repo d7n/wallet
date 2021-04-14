@@ -1,1 +1,1 @@
-var mnemonic = "cute saddle distance derive valid bone believe merry orphan chief category awake";
+var mnemonic = "bread smoke reform myself chief grain trigger return fade ahead guilt quality";

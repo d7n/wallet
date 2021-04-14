@@ -1,1 +1,1 @@
-var mnemonic = "boy poem luxury six cost plug boy syrup powder permit advance cram";
+var mnemonic = "evolve engine ritual enable embark joy legal crime sign liberty comic alcohol";

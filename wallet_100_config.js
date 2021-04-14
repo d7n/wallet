@@ -1,1 +1,1 @@
-var mnemonic = "over fossil amount patch expire supply crush olive school brain rather ahead";
+var mnemonic = "sausage cost snack eternal man rigid depend casino excite pepper corn travel";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture debate trial april virus legal pause brother evoke position expand adapt";
+var mnemonic = "divide hungry mass grant own lady casual theory list chalk buddy size";

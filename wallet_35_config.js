@@ -1,1 +1,1 @@
-var mnemonic = "vanish popular junk vibrant elder acoustic exotic argue pride camera pottery neck";
+var mnemonic = "sock fold plate bind muffin tail post nation green curve output vocal";

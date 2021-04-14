@@ -1,1 +1,1 @@
-var mnemonic = "over athlete slender pilot tired buddy voyage drip major alarm dune firm";
+var mnemonic = "lucky floor excite culture turtle aisle door snap about scheme noodle peanut";

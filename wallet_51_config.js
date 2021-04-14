@@ -1,1 +1,1 @@
-var mnemonic = "divide diagram program adult tornado much away hour rich wire truth faith";
+var mnemonic = "brave wrestle wisdom twenty service boil brass evolve fog office novel fit";

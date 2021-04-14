@@ -1,1 +1,1 @@
-var mnemonic = "spider blind conduct bring frozen begin place base venture way already pave";
+var mnemonic = "one conduct fault figure gesture pumpkin mammal weasel upper finger letter either";

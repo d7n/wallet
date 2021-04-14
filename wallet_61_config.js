@@ -1,1 +1,1 @@
-var mnemonic = "credit strong copy pigeon topple once indicate honey reunion maid ring leg";
+var mnemonic = "jewel survey pilot blouse agree despair depart riot very educate gauge winter";

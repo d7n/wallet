@@ -1,1 +1,1 @@
-var mnemonic = "onion pull flavor unit attend merge work garbage know enact flower before";
+var mnemonic = "sadness soda empty priority combine box arctic opinion divide air prefer enact";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel ripple lawn cover similar shrimp turtle reason section jacket false powder";
+var mnemonic = "awesome sudden pet chat left garage cannon sting blanket page autumn cart";

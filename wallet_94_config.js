@@ -1,1 +1,1 @@
-var mnemonic = "matter merge train garden glad water desk panda prize enrich burden glide";
+var mnemonic = "toss sugar desk draft clay veteran loyal upper praise student myth deputy";

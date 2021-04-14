@@ -1,1 +1,1 @@
-var mnemonic = "urban clutch cement evoke cat desert hint system honey enroll museum pipe";
+var mnemonic = "mimic patrol auto kit embody walk armor right month pumpkin wide owner";

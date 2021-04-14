@@ -1,1 +1,1 @@
-var mnemonic = "angry wagon usage tonight kangaroo clog margin match transfer false able morning";
+var mnemonic = "market feature skin elevator hub van welcome liquid suffer sword hand noodle";

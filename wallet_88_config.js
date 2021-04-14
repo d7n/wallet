@@ -1,1 +1,1 @@
-var mnemonic = "rail celery dial ugly chicken color other detect sibling trade basket glare";
+var mnemonic = "build garage guess dawn route auction walk alien wash tonight worry safe";

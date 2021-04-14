@@ -1,1 +1,1 @@
-var mnemonic = "crime super depart empty deliver tell anger frame lobster only vocal tuition";
+var mnemonic = "mask fortune economy subway young garbage number absurd gaze save shadow artist";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige spoon height great rebuild turkey rate obscure frown detail mammal vessel";
+var mnemonic = "leader visit discover sibling kitten holiday soft object riot physical inject resource";

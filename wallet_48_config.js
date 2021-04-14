@@ -1,1 +1,1 @@
-var mnemonic = "pool word carry disease under gorilla mask open silver staff vacant wrong";
+var mnemonic = "throw next steak style goddess blue kitten prefer ketchup burden august more";

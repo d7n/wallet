@@ -1,1 +1,1 @@
-var mnemonic = "tiny hen gravity remember digital then cart finger bottom adjust chase diary";
+var mnemonic = "true check absurd love already twin crawl lumber table warfare embrace black";

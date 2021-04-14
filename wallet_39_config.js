@@ -1,1 +1,1 @@
-var mnemonic = "thing raise reopen fit sea virtual album plate fire modify glimpse will";
+var mnemonic = "click jacket toy medal bone pulp valley spirit skill valid two extend";

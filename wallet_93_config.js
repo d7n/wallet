@@ -1,1 +1,1 @@
-var mnemonic = "young kangaroo parent inner keen arrow right leisure hole venue burger source";
+var mnemonic = "bottom surface resemble very shift design secret gather token side regular vast";

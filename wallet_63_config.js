@@ -1,1 +1,1 @@
-var mnemonic = "hockey flock fury improve cry canal hint amazing music girl clap illness";
+var mnemonic = "nothing drift imitate bag vast liberty trap man boss control mango echo";

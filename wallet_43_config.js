@@ -1,1 +1,1 @@
-var mnemonic = "wage oblige battle engine pudding roast fine axis wing title oval airport";
+var mnemonic = "disagree pave cake addict west awkward unusual document embrace protect plate march";

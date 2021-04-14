@@ -1,1 +1,1 @@
-var mnemonic = "wrap scatter clip pioneer window stem portion stomach reject urban valid voyage";
+var mnemonic = "language display tornado bracket relax bulk spare hello music worth tobacco river";

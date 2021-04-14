@@ -1,1 +1,1 @@
-var mnemonic = "awkward stomach dentist recycle laptop denial sea dutch sausage fantasy glance submit";
+var mnemonic = "oppose actual strong column cigar effort add neck collect shoot venue opera";

@@ -1,1 +1,1 @@
-var mnemonic = "alert mimic inch swallow penalty napkin permit race blast lava caught teach";
+var mnemonic = "broom educate output pink fun pony depend twice hair ketchup borrow ten";

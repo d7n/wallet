@@ -1,1 +1,1 @@
-var mnemonic = "evil april atom sword claim axis entire december genre lunch prosper baby";
+var mnemonic = "century office bacon weird library across place jewel gallery actress fit demise";

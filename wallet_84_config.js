@@ -1,1 +1,1 @@
-var mnemonic = "basic nest motion dutch require tragic daring world artefact check spatial pretty";
+var mnemonic = "yellow build arena thing garment beauty enable dinner bracket mammal remove submit";

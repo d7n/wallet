@@ -1,1 +1,1 @@
-var mnemonic = "surround pave ski vanish check goddess travel axis puzzle chronic chair catalog";
+var mnemonic = "girl oblige surround alone museum kick cart prize zone salon slim square";

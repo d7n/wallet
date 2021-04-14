@@ -1,1 +1,1 @@
-var mnemonic = "ginger salute salmon cattle pet demise negative swallow hover negative sing stable";
+var mnemonic = "slush ready text opinion baby treat fault during quit dial tower lunch";

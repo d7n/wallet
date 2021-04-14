@@ -1,1 +1,1 @@
-var mnemonic = "display uncover abuse cotton tonight entire cradle ahead giant sock ocean solve";
+var mnemonic = "tissue struggle slender horse ankle uniform castle sample ticket always output nasty";

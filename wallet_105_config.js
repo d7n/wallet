@@ -1,1 +1,1 @@
-var mnemonic = "strike kind fat family can purchase female must all check scatter else";
+var mnemonic = "coil prevent asset harvest satoshi moral labor trend foil oppose topic cupboard";
