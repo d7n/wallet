@@ -1,1 +1,1 @@
-var mnemonic = "future ivory behind water gain dolphin amazing pill cupboard pear affair all";
+var mnemonic = "bronze flag library surround decide circle garden machine prevent wreck craft change";

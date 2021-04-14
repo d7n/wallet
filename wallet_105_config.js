@@ -1,1 +1,1 @@
-var mnemonic = "silent wave roast memory turtle celery alpha twist bomb middle lucky dish";
+var mnemonic = "fortune truly invest width drastic cattle stone write manage tent clean outdoor";

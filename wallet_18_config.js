@@ -1,1 +1,1 @@
-var mnemonic = "pair sea foster era witness topic rotate jazz foot adult waste remind";
+var mnemonic = "attitude civil table about mouse market question hollow rapid aunt index bar";

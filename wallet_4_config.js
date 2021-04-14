@@ -1,1 +1,1 @@
-var mnemonic = "voice edge damage hawk obvious film shift satisfy copy always laptop budget";
+var mnemonic = "curve wrist suffer shield february reveal renew rapid frog stove coin suffer";

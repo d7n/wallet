@@ -1,1 +1,1 @@
-var mnemonic = "own raw carry power result upper cram captain pattern broccoli laugh wife";
+var mnemonic = "easily valid genius brick drama alarm tackle cover metal elder hand bottom";

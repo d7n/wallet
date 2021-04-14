@@ -1,1 +1,1 @@
-var mnemonic = "barely summer spice novel isolate game message smart fashion check sketch cost";
+var mnemonic = "approve pluck talent attack flush secret future scale leg cloud cable tired";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety menu fashion stool spread south evil grit clown leader recipe eight";
+var mnemonic = "youth obvious volume cradle stomach appear loud check near file sauce dolphin";

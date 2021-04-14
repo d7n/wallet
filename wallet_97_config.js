@@ -1,1 +1,1 @@
-var mnemonic = "outdoor salad palace custom hunt improve sting surprise garment tag crack assist";
+var mnemonic = "gun envelope crime worth amount only fee chunk eager strategy miss kiss";

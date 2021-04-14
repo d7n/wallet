@@ -1,1 +1,1 @@
-var mnemonic = "cargo name level finger wink clown kangaroo session another carbon pole solve";
+var mnemonic = "original blanket sausage attract mimic time cargo crater busy snap comic club";

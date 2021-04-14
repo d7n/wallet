@@ -1,1 +1,1 @@
-var mnemonic = "turkey length again diamond vanish purpose weekend match ribbon thing garage caught";
+var mnemonic = "glimpse grain script excess cruise west when humor hand match town goddess";

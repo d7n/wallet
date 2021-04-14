@@ -1,1 +1,1 @@
-var mnemonic = "rude clog palace able drop shiver despair pave rookie clever leg civil";
+var mnemonic = "excite slush burger tennis disorder belt tobacco foam wonder ranch frequent breeze";

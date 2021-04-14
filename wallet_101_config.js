@@ -1,1 +1,1 @@
-var mnemonic = "truly artist depart gown alcohol rocket crash sponsor vacuum card column wrist";
+var mnemonic = "erase fit garden fall lock stay lion circle virtual festival require replace";

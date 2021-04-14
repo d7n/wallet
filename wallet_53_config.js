@@ -1,1 +1,1 @@
-var mnemonic = "battle brisk win few unfold flag seat summer praise word make table";
+var mnemonic = "audit tree case gift grief echo bronze cousin dawn net lyrics evoke";

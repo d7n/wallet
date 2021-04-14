@@ -1,1 +1,1 @@
-var mnemonic = "novel upset turtle retreat wire puppy surprise awesome hip solid chief cannon";
+var mnemonic = "now critic coin tell gain arch sunset exit donkey duck aunt notice";

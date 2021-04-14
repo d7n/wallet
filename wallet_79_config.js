@@ -1,1 +1,1 @@
-var mnemonic = "replace knee floor month during glide frog deposit truly explain eyebrow apple";
+var mnemonic = "seven roast inform crumble bid rebuild nest video deny purity note upon";

@@ -1,1 +1,1 @@
-var mnemonic = "tree angle siege chat oven staff deny will elephant volume loud march";
+var mnemonic = "fatal rural sock mom author benefit vessel federal among remove swing when";

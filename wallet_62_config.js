@@ -1,1 +1,1 @@
-var mnemonic = "tortoise pen phone buffalo scrub volume situate unhappy mixed produce rally harvest";
+var mnemonic = "match ten breeze pass special foster empower debris run pulp poverty wall";

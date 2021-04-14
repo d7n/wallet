@@ -1,1 +1,1 @@
-var mnemonic = "crouch sorry trust ethics hollow cycle weekend vapor walnut lend lens all";
+var mnemonic = "turkey apology strong quit cycle wet expand opinion brown era diet ripple";

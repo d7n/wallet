@@ -1,1 +1,1 @@
-var mnemonic = "review chicken naive sign palace bid latin snow shrug crack interest smart";
+var mnemonic = "wolf true property hundred base ramp canoe stay lesson trap derive hello";

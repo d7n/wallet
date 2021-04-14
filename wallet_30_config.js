@@ -1,1 +1,1 @@
-var mnemonic = "swim grit myself approve bounce engine luxury stadium joke mirror lemon tag";
+var mnemonic = "robust screen zebra drastic early glimpse coil stuff guilt camera also urge";

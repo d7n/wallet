@@ -1,1 +1,1 @@
-var mnemonic = "parade amount apology diamond moon follow layer unique leave sting relief energy";
+var mnemonic = "juice inner payment grace donate potato salute loyal blush drive you final";

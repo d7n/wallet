@@ -1,1 +1,1 @@
-var mnemonic = "learn shell provide tower eternal champion furnace sick dust shoot bridge donate";
+var mnemonic = "burst rain unique race door soldier ride project obscure family night chalk";

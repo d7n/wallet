@@ -1,1 +1,1 @@
-var mnemonic = "baby weekend above captain piano health mushroom banner west canoe movie pilot";
+var mnemonic = "food whale stamp myth mix hold chicken detect capital amazing pill impulse";

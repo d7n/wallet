@@ -1,1 +1,1 @@
-var mnemonic = "glove total hour spell bench sign exercise crop type about detect turn";
+var mnemonic = "stairs random stomach country truck century vault wet magic harvest rule fat";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt peace energy electric uniform weather speed sword heavy undo one jump";
+var mnemonic = "gloom pigeon idle divide coyote plastic grief matter inherit witness assault gun";

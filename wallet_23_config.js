@@ -1,1 +1,1 @@
-var mnemonic = "verify fold exercise sudden canal uncover load grain regret only panic razor";
+var mnemonic = "hub elegant feature include glide error fun march siren degree orchard manual";

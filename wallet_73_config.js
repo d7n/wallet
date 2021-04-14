@@ -1,1 +1,1 @@
-var mnemonic = "avoid side execute remind brush reunion board brand banner sting reflect turkey";
+var mnemonic = "stem rapid gossip gesture wink clay tornado remind erosion cereal alert cart";

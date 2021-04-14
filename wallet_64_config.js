@@ -1,1 +1,1 @@
-var mnemonic = "soccer point decline minute lunch sibling screen notice baby grit critic sentence";
+var mnemonic = "pistol slice sugar razor inform relax speak talk guard glad lyrics bus";

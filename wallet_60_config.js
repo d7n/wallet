@@ -1,1 +1,1 @@
-var mnemonic = "unfair depth dismiss glass satoshi hour audit shallow tomato find reform regret";
+var mnemonic = "young dinosaur depend liberty advance grace clerk shuffle dance artefact minute develop";

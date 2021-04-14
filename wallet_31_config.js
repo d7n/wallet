@@ -1,1 +1,1 @@
-var mnemonic = "wire clip upon ring setup hospital weekend replace neither monitor inform attitude";
+var mnemonic = "bacon meat issue stem place empty ordinary color legend rain duck quiz";

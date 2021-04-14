@@ -1,1 +1,1 @@
-var mnemonic = "elegant embrace also cage nasty ribbon about announce annual cash spirit carpet";
+var mnemonic = "mixed surround eight under thank movie slim erode tomorrow yard coin jar";

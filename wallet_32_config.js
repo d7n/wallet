@@ -1,1 +1,1 @@
-var mnemonic = "warfare gentle you broom load license hold habit trick sock crowd dad";
+var mnemonic = "faculty valley host voice exist merit history elder matter wave police exhaust";

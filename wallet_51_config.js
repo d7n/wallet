@@ -1,1 +1,1 @@
-var mnemonic = "coffee suspect industry corn seed slice cage credit uphold jaguar mom civil";
+var mnemonic = "valve drip since soap learn spray all food company property vendor clever";

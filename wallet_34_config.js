@@ -1,1 +1,1 @@
-var mnemonic = "wheat then choice only key erosion rookie wine six october genius message";
+var mnemonic = "invite huge fabric raccoon middle cabin behave prize sponsor address attend behave";

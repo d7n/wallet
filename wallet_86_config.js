@@ -1,1 +1,1 @@
-var mnemonic = "warm agree awesome tackle arrange now basket cost reunion return camp culture";
+var mnemonic = "wrestle spray crater cup cloth budget infant rice razor vacant bronze mosquito";

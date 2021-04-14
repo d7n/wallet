@@ -1,1 +1,1 @@
-var mnemonic = "embrace amazing lonely gym cattle bonus boost dinner bacon clinic photo meat";
+var mnemonic = "clerk rhythm exist exile this valve maid injury tank garlic flag drop";

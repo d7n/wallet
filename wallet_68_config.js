@@ -1,1 +1,1 @@
-var mnemonic = "lesson enhance fold uphold symptom blade swim clarify property light budget program";
+var mnemonic = "absent car intact correct remove draft print surge panel wasp bachelor cactus";

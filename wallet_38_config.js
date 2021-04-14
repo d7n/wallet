@@ -1,1 +1,1 @@
-var mnemonic = "push antique dream flee pet night pattern spell oyster language gather seminar";
+var mnemonic = "miracle ginger another casino post toddler spider dwarf sphere stable climb worry";

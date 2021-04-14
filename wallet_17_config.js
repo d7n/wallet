@@ -1,1 +1,1 @@
-var mnemonic = "sudden acid segment copy layer poet melt version science owner miracle legend";
+var mnemonic = "cruise exile wisdom novel climb vibrant meadow narrow knee inherit during region";

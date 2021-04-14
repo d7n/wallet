@@ -1,1 +1,1 @@
-var mnemonic = "poet match autumn apology cram shoot mixed cause wealth lucky suspect process";
+var mnemonic = "seven mouse order open time enemy boat world humble cover that lobster";

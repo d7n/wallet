@@ -1,1 +1,1 @@
-var mnemonic = "drastic dwarf glide bottom catalog spider rotate crater pitch crowd surface used";
+var mnemonic = "misery can short illness icon slogan almost luggage favorite all open method";

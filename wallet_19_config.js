@@ -1,1 +1,1 @@
-var mnemonic = "wheel announce because satisfy chimney betray tackle orient spell address fine rib";
+var mnemonic = "ski short census mobile rebel honey mandate slice famous steak power mirror";

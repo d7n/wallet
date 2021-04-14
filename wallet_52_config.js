@@ -1,1 +1,1 @@
-var mnemonic = "bullet pelican chief derive garment alcohol pyramid ensure short crash breeze radar";
+var mnemonic = "prosper clerk initial key short horse begin success renew neutral spoil later";

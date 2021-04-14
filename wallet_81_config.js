@@ -1,1 +1,1 @@
-var mnemonic = "easy notice hour bench kid tape diamond category detect disagree flag try";
+var mnemonic = "effort north vessel sure story patient income mountain city volume reward spoon";

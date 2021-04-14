@@ -1,1 +1,1 @@
-var mnemonic = "fly giraffe music meat february online index economy girl romance bean sign";
+var mnemonic = "snow task broken squeeze tray raise bamboo alien uncover gap private husband";

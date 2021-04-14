@@ -1,1 +1,1 @@
-var mnemonic = "blast include execute peanut heavy exchange ethics upper place bread tumble profit";
+var mnemonic = "pencil sunny basket estate project muffin gaze unhappy suspect invite issue wool";

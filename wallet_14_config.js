@@ -1,1 +1,1 @@
-var mnemonic = "happy stick beauty buyer spatial creek salt boil elder tonight position wise";
+var mnemonic = "mule hurry raven during divorce early snow acquire indicate timber corn cushion";

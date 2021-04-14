@@ -1,1 +1,1 @@
-var mnemonic = "blanket raven basic gain insane invite smooth recall scare tenant appear shift";
+var mnemonic = "jazz travel seminar have abandon wrong monitor shock fitness puzzle right silent";

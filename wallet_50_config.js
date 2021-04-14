@@ -1,1 +1,1 @@
-var mnemonic = "chair act crane equal diamond canyon record loan rice boil merry decade";
+var mnemonic = "drama marriage vendor basket box essence nephew vessel now oyster antenna borrow";

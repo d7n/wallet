@@ -1,1 +1,1 @@
-var mnemonic = "side family mirror great dog chaos roast appear pattern quarter smooth glimpse";
+var mnemonic = "virus timber width exclude globe antenna comic vapor salon under frog horror";

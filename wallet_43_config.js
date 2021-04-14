@@ -1,1 +1,1 @@
-var mnemonic = "innocent wealth evil people attend lesson govern horn bonus tumble balance melody";
+var mnemonic = "hub spike apart file honey already crunch crater provide doll decrease athlete";

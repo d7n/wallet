@@ -1,1 +1,1 @@
-var mnemonic = "crazy sea leader book solution faint awkward abandon chimney repair tiger frown";
+var mnemonic = "brief forward goat mutual only tiny mobile element luxury decrease glimpse habit";

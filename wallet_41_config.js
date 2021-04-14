@@ -1,1 +1,1 @@
-var mnemonic = "pond renew inch annual tomato weasel reject chat leaf eternal speak another";
+var mnemonic = "ahead admit settle rubber rail craft arrive where reject solar talk typical";

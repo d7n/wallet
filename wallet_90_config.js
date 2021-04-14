@@ -1,1 +1,1 @@
-var mnemonic = "radar maximum stereo define inherit flush key awkward evolve small educate report";
+var mnemonic = "market actor forward ecology front idle party fan number vehicle gloom excuse";

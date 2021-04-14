@@ -1,1 +1,1 @@
-var mnemonic = "mass faint strategy jaguar weather true attitude agree hour phone lottery desk";
+var mnemonic = "galaxy betray kingdom globe blur february dolphin print liberty student salute series";

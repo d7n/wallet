@@ -1,1 +1,1 @@
-var mnemonic = "rib dose youth tribe silver excess rice round safe few stool reunion";
+var mnemonic = "hollow consider leisure glide afraid reflect cereal million gift pattern tent spend";

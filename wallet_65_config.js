@@ -1,1 +1,1 @@
-var mnemonic = "physical shy swap fix hire economy debris also fiber fiscal misery mushroom";
+var mnemonic = "dinosaur chair harvest fiber test soon labor whip abuse calm original urge";

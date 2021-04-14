@@ -1,1 +1,1 @@
-var mnemonic = "remove target oil banner final wash tape derive case vintage daring paper";
+var mnemonic = "crush embody aware item degree album punch diary glow cable replace crowd";

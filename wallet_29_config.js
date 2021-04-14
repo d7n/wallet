@@ -1,1 +1,1 @@
-var mnemonic = "urge apple fame script balcony return brown law gas talent kid debris";
+var mnemonic = "scorpion ahead fatigue wife skull answer quantum achieve knife poet puppy assault";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon wife bean road idea enroll flush interest winner mixture outside awake";
+var mnemonic = "govern insect grocery rapid satoshi food check cream spirit atom mountain minor";

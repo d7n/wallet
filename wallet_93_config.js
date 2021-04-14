@@ -1,1 +1,1 @@
-var mnemonic = "little candy bleak finger stairs gold soon real replace pizza hold sustain";
+var mnemonic = "judge hour gallery travel quarter enhance excess armed few kite useful hire";

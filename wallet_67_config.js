@@ -1,1 +1,1 @@
-var mnemonic = "garbage urban flock middle mutual denial approve source large combine bird zero";
+var mnemonic = "update axis shy monkey push property toy someone board clap wine require";

@@ -1,1 +1,1 @@
-var mnemonic = "box protect else budget differ hungry baby taxi angle liquid similar jazz";
+var mnemonic = "video napkin ice crack monitor snow describe husband owner pen young cradle";

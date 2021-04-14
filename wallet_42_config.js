@@ -1,1 +1,1 @@
-var mnemonic = "typical staff century same crew range favorite myself enjoy problem soap polar";
+var mnemonic = "income offer social garlic solution marriage victory path over sadness crash fire";

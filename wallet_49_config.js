@@ -1,1 +1,1 @@
-var mnemonic = "tragic vote level depart squeeze stool dose blossom battle abandon sorry nominee";
+var mnemonic = "discover flower flock digital drastic ivory better error trumpet swamp excuse improve";

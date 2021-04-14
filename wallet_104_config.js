@@ -1,1 +1,1 @@
-var mnemonic = "easily spy steak play clever snake sponsor sustain sell year picnic ask";
+var mnemonic = "now meadow despair ready grace half wood toe abstract travel coin merry";

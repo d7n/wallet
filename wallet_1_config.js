@@ -1,1 +1,1 @@
-var mnemonic = "pause exhibit sight priority there nest trust audit rib fashion latin demise";
+var mnemonic = "tooth keep gossip mansion void warm candy stay ugly split beach glow";

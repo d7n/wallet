@@ -1,1 +1,1 @@
-var mnemonic = "stay flat rescue album green attack burst margin axis enrich rubber item";
+var mnemonic = "picture fold thumb pottery gauge battle section demise pizza essence occur fire";

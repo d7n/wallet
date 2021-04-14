@@ -1,1 +1,1 @@
-var mnemonic = "juice fat trust student story segment story fever photo thing clump ship";
+var mnemonic = "diesel exercise symbol minute wing globe hill demand harvest hen limb raven";

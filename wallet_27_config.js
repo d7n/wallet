@@ -1,1 +1,1 @@
-var mnemonic = "room couple original march situate flash birth inform public draft proud verify";
+var mnemonic = "economy wood outer tiny alcohol team elite common sibling cruise symbol drift";

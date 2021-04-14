@@ -1,1 +1,1 @@
-var mnemonic = "cigar extend title vacant nature expose search pretty ice attack similar vocal";
+var mnemonic = "cradle minor bounce have type dumb surprise vocal october strategy kitten fiber";

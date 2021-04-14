@@ -1,1 +1,1 @@
-var mnemonic = "road clay employ social soup mom life scale call develop relax usage";
+var mnemonic = "spy spot olive shine place wood base believe poem junk welcome shed";

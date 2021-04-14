@@ -1,1 +1,1 @@
-var mnemonic = "keen master tongue manage entire theme gym comic limit urban bomb situate";
+var mnemonic = "until mouse afraid invest toilet vanish lab tourist thought diet present plate";

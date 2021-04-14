@@ -1,1 +1,1 @@
-var mnemonic = "wealth awful rocket dove ability toward wolf response light tone field nominee";
+var mnemonic = "actress curious duty device forward mass furnace enemy home twin silent cancel";

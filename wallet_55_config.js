@@ -1,1 +1,1 @@
-var mnemonic = "inspire employ shrimp educate govern kiss frog diagram blade economy depend ghost";
+var mnemonic = "mushroom local brown electric embody wood cushion term visual story video nut";

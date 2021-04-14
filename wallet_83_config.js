@@ -1,1 +1,1 @@
-var mnemonic = "insane fit strike team awake hello chunk inside hand furnace advice expand";
+var mnemonic = "wish stable wave trend faculty lend rule sell upgrade option educate empty";

@@ -1,1 +1,1 @@
-var mnemonic = "crop swim coach matter excite once arm flash reunion expand afford hawk";
+var mnemonic = "velvet latin fire current soldier expand scrap gate debris rate venue control";

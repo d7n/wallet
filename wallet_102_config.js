@@ -1,1 +1,1 @@
-var mnemonic = "pluck ivory grass road naive bag nation derive lawsuit latin panda multiply";
+var mnemonic = "lobster equip detect giggle question sample sun ethics oxygen assault federal guide";

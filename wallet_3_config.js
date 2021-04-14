@@ -1,1 +1,1 @@
-var mnemonic = "grief space taxi rocket grace original sponsor tool clever movie virtual boil";
+var mnemonic = "nest earn poverty blue you annual lizard will tribe task hidden effort";

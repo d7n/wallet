@@ -1,1 +1,1 @@
-var mnemonic = "royal write couple cannon still brown clarify extra melt wire soon modify";
+var mnemonic = "invite rare dirt update eager oyster relax fatal trust muffin resemble liquid";

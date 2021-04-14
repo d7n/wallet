@@ -1,1 +1,1 @@
-var mnemonic = "expect public any gospel cargo rough fame melt recipe weekend slow sugar";
+var mnemonic = "faint baby bulk gadget nice shoot promote skill sense caught tomorrow van";

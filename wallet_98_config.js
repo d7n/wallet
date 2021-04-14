@@ -1,1 +1,1 @@
-var mnemonic = "airport immense task eight monitor school elite together stable end expose slam";
+var mnemonic = "tag vibrant husband joke slot toss chicken island answer brush shed face";

@@ -1,1 +1,1 @@
-var mnemonic = "length aim very buzz skull offer route burden render coffee famous treat";
+var mnemonic = "cable walnut album other arrow liberty coyote unaware school avoid lab cheap";

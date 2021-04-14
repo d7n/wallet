@@ -1,1 +1,1 @@
-var mnemonic = "sustain valve blush city unveil tip exotic ten leg car behind market";
+var mnemonic = "eternal price wolf easy dish reduce bird festival oblige room code simple";

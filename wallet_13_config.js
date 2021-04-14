@@ -1,1 +1,1 @@
-var mnemonic = "easily sight pride pass nature nephew office banner omit option jump melody";
+var mnemonic = "advance indicate rhythm skin cupboard flush tortoise they kangaroo lens birth coil";

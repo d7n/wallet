@@ -1,1 +1,1 @@
-var mnemonic = "rocket chapter mirror level major monitor kidney number area expose glance trim";
+var mnemonic = "spell version inch ill home proud indoor owner raven mercy actor argue";

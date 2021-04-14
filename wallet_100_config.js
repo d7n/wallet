@@ -1,1 +1,1 @@
-var mnemonic = "torch dad since medal diagram power deputy torch health cluster age disagree";
+var mnemonic = "brick old matrix angry neutral depth true lion visa argue ranch common";

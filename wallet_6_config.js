@@ -1,1 +1,1 @@
-var mnemonic = "all approve seat argue boss regular alien neutral tape arrange ignore enlist";
+var mnemonic = "exotic rookie pen soda labor execute retreat candy bulb oxygen erase riot";

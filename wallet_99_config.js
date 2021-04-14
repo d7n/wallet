@@ -1,1 +1,1 @@
-var mnemonic = "force tribe pear merge police special onion control project vibrant trade young";
+var mnemonic = "surround absent select raw spell whisper horn myself adjust canvas fortune author";

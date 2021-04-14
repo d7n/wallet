@@ -1,1 +1,1 @@
-var mnemonic = "decline hurt remain vocal rather noodle range noodle lend position symptom garden";
+var mnemonic = "amount truth color rotate above shoot disorder outside cave change syrup kiss";

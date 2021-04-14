@@ -1,1 +1,1 @@
-var mnemonic = "meat time stamp film lock zero rabbit left invest female viable theme";
+var mnemonic = "finish reveal term awesome hidden position alien base hip pear record gesture";
