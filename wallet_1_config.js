@@ -1,1 +1,1 @@
-var mnemonic = "buddy parent fix digital access pact sunny panther electric energy unlock isolate";
+var mnemonic = "puzzle link envelope aunt absorb oxygen few robust help result layer work";

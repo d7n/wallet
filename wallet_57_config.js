@@ -1,1 +1,1 @@
-var mnemonic = "property panel stone vital tumble leg size pottery hybrid twice verify sugar";
+var mnemonic = "nut fuel sea tongue rebel easily away kiwi version reward wrist worth";

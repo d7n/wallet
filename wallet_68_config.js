@@ -1,1 +1,1 @@
-var mnemonic = "raven general six pretty vault rebel ride cool quit pottery asthma buyer";
+var mnemonic = "cement explain glass table evidence robust small wheat drop immense wife green";

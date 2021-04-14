@@ -1,1 +1,1 @@
-var mnemonic = "act strategy bronze street tree achieve anxiety verb grow cute flight girl";
+var mnemonic = "manage soft rail swap item word salon mosquito follow sorry around visit";

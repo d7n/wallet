@@ -1,1 +1,1 @@
-var mnemonic = "three lyrics album salmon view cement badge frown clinic donor bracket amused";
+var mnemonic = "trouble april purity danger fashion group rack biology foot coach net day";

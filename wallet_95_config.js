@@ -1,1 +1,1 @@
-var mnemonic = "dinner secret spatial amused make tuna video cool hair unhappy limit trial";
+var mnemonic = "mouse awful ordinary timber grant clay fury lecture version wheat donkey notice";

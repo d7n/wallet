@@ -1,1 +1,1 @@
-var mnemonic = "program slide destroy reduce room reopen pelican renew air flee scout exchange";
+var mnemonic = "recipe regular camera flame remove bundle couch wire bless actor reward engage";

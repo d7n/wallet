@@ -1,1 +1,1 @@
-var mnemonic = "walnut pair opinion purity announce lyrics door spike give summer pause boss";
+var mnemonic = "health sudden dizzy pride caught network cube tower zoo ordinary helmet father";

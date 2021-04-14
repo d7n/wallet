@@ -1,1 +1,1 @@
-var mnemonic = "salt write parrot market box empty swing relief exist choice business price";
+var mnemonic = "olympic auto agree ship expect field motor help august wet start claw";

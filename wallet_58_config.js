@@ -1,1 +1,1 @@
-var mnemonic = "mercy runway tone solution tuna spice pulp cricket useless typical senior eyebrow";
+var mnemonic = "more essence panther hybrid lend disagree quit pill lazy solid call surge";

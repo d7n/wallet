@@ -1,1 +1,1 @@
-var mnemonic = "bread sauce metal jelly glare raven evolve name often valve crash echo";
+var mnemonic = "again episode lumber dumb web drink quiz spot april approve correct mix";

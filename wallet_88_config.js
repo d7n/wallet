@@ -1,1 +1,1 @@
-var mnemonic = "pink author opinion orchard tobacco matrix uncover sibling fossil message mutual wing";
+var mnemonic = "avoid artwork belt dove ancient glue satoshi unlock erase win badge leopard";

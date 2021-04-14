@@ -1,1 +1,1 @@
-var mnemonic = "force love often runway access mind wash design sign genius clean pretty";
+var mnemonic = "trigger erode nerve movie wonder latin rail plunge charge addict stadium idea";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter extend family symptom bridge diamond wonder nuclear still early alone sign";
+var mnemonic = "radio rotate scout arrange rule hurry agree alone educate unfair leopard mule";

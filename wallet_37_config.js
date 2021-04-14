@@ -1,1 +1,1 @@
-var mnemonic = "bitter attract claw exile pave junior motion trend eye jewel taxi fresh";
+var mnemonic = "toddler kit cruel use suit guitar envelope nice path fetch enable visit";

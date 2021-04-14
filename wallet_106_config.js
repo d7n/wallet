@@ -1,1 +1,1 @@
-var mnemonic = "debate lunch furnace noble gaze chronic vote basket quote mystery occur humble";
+var mnemonic = "tennis material own humble entry humble rabbit science say always item civil";

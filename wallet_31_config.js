@@ -1,1 +1,1 @@
-var mnemonic = "system escape common loop catch lizard fragile scare tunnel omit tired universe";
+var mnemonic = "horn vendor phone genre silent nose permit crater alone invite anger stay";

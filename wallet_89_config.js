@@ -1,1 +1,1 @@
-var mnemonic = "luxury explain prison position law mistake grant allow science economy tumble split";
+var mnemonic = "interest run degree deposit describe cruise above giggle order town bus eagle";

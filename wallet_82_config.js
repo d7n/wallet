@@ -1,1 +1,1 @@
-var mnemonic = "boss oppose anchor charge rare swallow capable script marine scene spin north";
+var mnemonic = "course control omit fork evolve travel flight season what level plastic drift";

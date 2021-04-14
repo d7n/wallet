@@ -1,1 +1,1 @@
-var mnemonic = "keen aware tennis clap artefact silly smoke connect income chronic pipe pilot";
+var mnemonic = "renew rose vocal scorpion solution joke verify mask quiz design wool ready";

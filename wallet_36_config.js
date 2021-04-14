@@ -1,1 +1,1 @@
-var mnemonic = "muffin bronze clock figure cabin shift panel forest note alien sign can";
+var mnemonic = "robust sort menu spoon note grape vehicle state tone victory hunt grow";

@@ -1,1 +1,1 @@
-var mnemonic = "later planet address latin express throw involve snow settle turkey gloom drop";
+var mnemonic = "crush talk erase input column credit source shy discover toss wood project";

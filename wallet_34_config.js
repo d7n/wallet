@@ -1,1 +1,1 @@
-var mnemonic = "before physical seven sniff wash hip diamond identify biology rocket quit unique";
+var mnemonic = "sunset skill hello involve fortune hospital piano usage dinner flight coral pause";

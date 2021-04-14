@@ -1,1 +1,1 @@
-var mnemonic = "dish tiny strong giant veteran soul husband accuse birth pole sheriff claim";
+var mnemonic = "scrap gain learn urban victory chief range dry salon steel suffer tent";

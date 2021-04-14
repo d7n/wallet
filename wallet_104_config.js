@@ -1,1 +1,1 @@
-var mnemonic = "clap fun shadow travel eight assume club funny squirrel argue donate scissors";
+var mnemonic = "label kiwi cereal vacuum flock seed hold rhythm human opinion mutual federal";

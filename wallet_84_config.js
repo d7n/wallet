@@ -1,1 +1,1 @@
-var mnemonic = "erase clinic install all illness treat boy possible million crane drop nephew";
+var mnemonic = "canyon roof embrace valid own butter advice truck enforce fork staff smooth";

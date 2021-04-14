@@ -1,1 +1,1 @@
-var mnemonic = "silver just owner coffee siren hundred require tattoo keep race rail cereal";
+var mnemonic = "kick curve shallow name process immune physical electric live conduct cream abuse";

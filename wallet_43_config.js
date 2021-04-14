@@ -1,1 +1,1 @@
-var mnemonic = "scan connect steak harvest bunker doll act brush rule humble busy lyrics";
+var mnemonic = "twin pipe glad next subway opera travel salad cage cancel horror gloom";

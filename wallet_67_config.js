@@ -1,1 +1,1 @@
-var mnemonic = "spring theory six mechanic tell knock sword despair hat replace blossom sun";
+var mnemonic = "desk search protect apart outdoor wish wolf praise judge correct solve more";

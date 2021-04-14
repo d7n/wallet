@@ -1,1 +1,1 @@
-var mnemonic = "three nose clever paper sponsor food book riot genius unfair crop weird";
+var mnemonic = "noodle resource purse chronic sea gate gather stove flush violin provide ski";

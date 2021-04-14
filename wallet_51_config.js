@@ -1,1 +1,1 @@
-var mnemonic = "muscle swallow layer latin enjoy ramp inhale judge level upset expect alley";
+var mnemonic = "region head double broom lyrics pear entry electric expect book address swing";

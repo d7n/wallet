@@ -1,1 +1,1 @@
-var mnemonic = "put enemy author pumpkin reward stumble twenty crystal moon tilt cube month";
+var mnemonic = "boat holiday stay clog unable kitten switch bamboo slight team twin awful";

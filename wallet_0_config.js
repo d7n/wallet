@@ -1,1 +1,1 @@
-var mnemonic = "pet damp team concert banner half hour rib space slot artefact bottom";
+var mnemonic = "any print kiss pelican orbit funny express pave quote ship theory broken";

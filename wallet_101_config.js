@@ -1,1 +1,1 @@
-var mnemonic = "scare tape hollow dwarf tourist stereo denial curtain fit leaf carpet pencil";
+var mnemonic = "resist craft leaf worry build annual ring search plastic egg danger net";

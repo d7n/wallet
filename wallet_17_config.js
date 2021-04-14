@@ -1,1 +1,1 @@
-var mnemonic = "actual guess tired rookie decline rate position need oval green tomorrow remember";
+var mnemonic = "donor seven area loyal country benefit move journey then thumb pluck grant";

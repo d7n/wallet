@@ -1,1 +1,1 @@
-var mnemonic = "fade fatigue bless trap elbow scheme tragic volcano view tourist napkin horn";
+var mnemonic = "sibling cave museum august another stable have lecture blanket gun trust above";

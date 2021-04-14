@@ -1,1 +1,1 @@
-var mnemonic = "valve grow escape tilt bachelor mandate fat barely clinic swarm plastic ridge";
+var mnemonic = "marriage face motion subject heavy panel below soccer imitate siege craft gesture";

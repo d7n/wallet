@@ -1,1 +1,1 @@
-var mnemonic = "husband frozen flat faculty then motor honey position neither decade crush box";
+var mnemonic = "job auto giant left spatial goddess frame finish pony dirt cactus bracket";

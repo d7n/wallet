@@ -1,1 +1,1 @@
-var mnemonic = "parrot reason rather example club leg sniff swift winter street great gadget";
+var mnemonic = "spoon hobby nuclear tackle record remind price bar green toddler mouse rent";

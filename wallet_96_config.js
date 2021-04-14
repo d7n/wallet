@@ -1,1 +1,1 @@
-var mnemonic = "frozen spot monitor make once dune husband clap legend giant smoke vague";
+var mnemonic = "farm shield cliff grain element jewel village produce lunar cabin amused window";

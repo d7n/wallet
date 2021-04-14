@@ -1,1 +1,1 @@
-var mnemonic = "avoid viable kick exclude advance pipe blast air garage ticket couch pluck";
+var mnemonic = "brisk caught cement antenna carpet panther energy club either laugh town ginger";

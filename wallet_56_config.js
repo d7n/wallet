@@ -1,1 +1,1 @@
-var mnemonic = "brick open mammal muscle strike wall double mobile loop basic long label";
+var mnemonic = "smoke music security clog broken polar earn garment leaf notice victory very";

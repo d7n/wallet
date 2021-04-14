@@ -1,1 +1,1 @@
-var mnemonic = "term walnut number gentle strong issue lazy guilt insane nation fun wheat";
+var mnemonic = "wear text question enrich review female hood panda timber hunt ranch cancel";

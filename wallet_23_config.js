@@ -1,1 +1,1 @@
-var mnemonic = "lumber boring scene section winner eternal reward deal call torch season rotate";
+var mnemonic = "enable cave good crop voice whisper spread renew ten number retreat cluster";

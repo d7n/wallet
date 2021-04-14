@@ -1,1 +1,1 @@
-var mnemonic = "best idle fog hurry friend moral unknown achieve improve drop veteran neither";
+var mnemonic = "shove promote easily horn silly walk team review paper index pen property";

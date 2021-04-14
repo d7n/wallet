@@ -1,1 +1,1 @@
-var mnemonic = "custom satoshi mystery hotel smooth tray often suffer rather evolve daring galaxy";
+var mnemonic = "busy convince defy fiber aspect method behave hip tooth mother service sad";

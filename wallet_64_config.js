@@ -1,1 +1,1 @@
-var mnemonic = "erode only fancy craft multiply attack culture perfect polar industry today exchange";
+var mnemonic = "turkey easy tomato jacket library stage weather much peasant quick vocal lyrics";

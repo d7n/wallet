@@ -1,1 +1,1 @@
-var mnemonic = "bubble thing often shove remind fence patrol hunt income copper lounge chicken";
+var mnemonic = "purchase long lion question grit melody mad happy pretty gesture cage ability";

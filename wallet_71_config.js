@@ -1,1 +1,1 @@
-var mnemonic = "vendor camera useful motion search ordinary spoon pudding other virus rose lecture";
+var mnemonic = "tide deal topic arm swear amused flee chest output mango proof brush";

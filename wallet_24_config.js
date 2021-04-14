@@ -1,1 +1,1 @@
-var mnemonic = "van title call tomato flag brand meat liar glide release success flip";
+var mnemonic = "bundle dry three fire card mask chair among acid garlic like become";

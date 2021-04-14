@@ -1,1 +1,1 @@
-var mnemonic = "green tiny liquid use giraffe give movie donor cloth pave west bridge";
+var mnemonic = "diagram term october huge risk iron offer kiwi decline teach chapter bind";

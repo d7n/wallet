@@ -1,1 +1,1 @@
-var mnemonic = "smoke hire twist burden rack claim creek toe rare usage spy skin";
+var mnemonic = "hidden jungle happy hen gasp trap absurd skull harbor apple fossil ten";

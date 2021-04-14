@@ -1,1 +1,1 @@
-var mnemonic = "before burst bounce tiny gasp permit gadget angry tell inner portion erase";
+var mnemonic = "cave wrong account ethics illness lemon print alone surface arena harbor endorse";

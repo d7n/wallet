@@ -1,1 +1,1 @@
-var mnemonic = "village grocery key accident meadow caught truck village mixed design toddler carry";
+var mnemonic = "news vital execute breeze dust diamond fringe bonus design coyote raven essay";

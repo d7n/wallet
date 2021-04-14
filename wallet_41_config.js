@@ -1,1 +1,1 @@
-var mnemonic = "advance guilt valve able mail rescue couch kite tennis focus raw venue";
+var mnemonic = "strategy local cancel summer decrease spend open mutual desert shoulder ask barely";

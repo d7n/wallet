@@ -1,1 +1,1 @@
-var mnemonic = "police pole start trip cloth afraid excuse comfort shock island town crew";
+var mnemonic = "heavy version repair outdoor drink finger dog wrestle tip monitor super mass";

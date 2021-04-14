@@ -1,1 +1,1 @@
-var mnemonic = "panic sad nasty ring evil tilt relax eight anxiety loan useless riot";
+var mnemonic = "tube embrace pelican burst better hour puzzle stem wonder wisdom control north";

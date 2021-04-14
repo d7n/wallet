@@ -1,1 +1,1 @@
-var mnemonic = "divert tomato repeat two inside permit judge tattoo devote jar sibling wrestle";
+var mnemonic = "merge body public vast various coral snow transfer elder cave tube treat";

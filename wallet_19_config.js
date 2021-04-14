@@ -1,1 +1,1 @@
-var mnemonic = "earth word motor enlist peanut tragic involve witness piece math venue eternal";
+var mnemonic = "annual mobile sniff rival patch bridge region category favorite march liberty one";

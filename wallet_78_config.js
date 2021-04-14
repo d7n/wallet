@@ -1,1 +1,1 @@
-var mnemonic = "cruel defy dinosaur rib rotate either cream pause pistol mistake upset mango";
+var mnemonic = "shield swamp ski type cotton finish mention leisure choice lyrics amazing oppose";

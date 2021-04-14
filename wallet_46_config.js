@@ -1,1 +1,1 @@
-var mnemonic = "seed rely potato owner garbage spoon palace similar error oxygen switch want";
+var mnemonic = "music universe hedgehog cross lift desert any picture stool swing silly film";

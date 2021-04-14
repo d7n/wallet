@@ -1,1 +1,1 @@
-var mnemonic = "ten girl harsh mother film ranch spare energy work jaguar wall opera";
+var mnemonic = "matrix quote duck dog slide member pole board carry best split situate";

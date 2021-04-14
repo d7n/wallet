@@ -1,1 +1,1 @@
-var mnemonic = "regret discover radio human anxiety helmet craft soap funny obvious monitor novel";
+var mnemonic = "love wrong orbit galaxy favorite fuel weekend flight agent bullet impulse leg";

@@ -1,1 +1,1 @@
-var mnemonic = "garment combine absent danger crane reopen sketch enter scene category gospel rotate";
+var mnemonic = "net vintage fury prepare enter palace area alarm subway priority cruise major";

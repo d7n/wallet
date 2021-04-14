@@ -1,1 +1,1 @@
-var mnemonic = "wave soup upper galaxy mind list call defense hair invest pizza sentence";
+var mnemonic = "crawl gallery give reject measure side confirm cotton gentle allow grunt one";

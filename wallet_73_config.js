@@ -1,1 +1,1 @@
-var mnemonic = "poverty feel turtle enable pool announce garbage fire gauge unhappy stay scare";
+var mnemonic = "group car panel grid punch crack resemble major cry artefact artist reduce";

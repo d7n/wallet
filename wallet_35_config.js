@@ -1,1 +1,1 @@
-var mnemonic = "dwarf maid mandate rent property witness grunt distance mouse across never rail";
+var mnemonic = "man mobile genius later rent faith board segment hawk canvas glow state";

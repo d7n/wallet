@@ -1,1 +1,1 @@
-var mnemonic = "symbol suffer unlock spray manual wood tape guilt afraid virtual churn warrior";
+var mnemonic = "follow symptom lady refuse follow mandate dry fever own final canal actress";

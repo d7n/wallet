@@ -1,1 +1,1 @@
-var mnemonic = "foam zone speed hurdle year craft label predict volume toast bargain page";
+var mnemonic = "license mule chaos cage erode aisle acoustic intact then velvet beach hen";

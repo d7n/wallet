@@ -1,1 +1,1 @@
-var mnemonic = "clay flame despair foot perfect argue gaze club toe wink reform slab";
+var mnemonic = "egg manage exhibit other phrase curve strong label pink soap sand pulse";

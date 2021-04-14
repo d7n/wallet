@@ -1,1 +1,1 @@
-var mnemonic = "own craft gaze garden fabric spray roof provide trade motion license purpose";
+var mnemonic = "purchase winter ecology stem radar success guess kite ribbon talent park select";

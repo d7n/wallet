@@ -1,1 +1,1 @@
-var mnemonic = "awesome human bike cost laptop ill slight syrup alone guess ordinary only";
+var mnemonic = "lawsuit embrace embark plunge captain prize interest good typical differ naive decade";

@@ -1,1 +1,1 @@
-var mnemonic = "angle tiger truth top suspect people market lobster rabbit comic law coconut";
+var mnemonic = "reflect enemy alert extra parent shoot family slab table casual area squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "cart kiwi daring embark brown episode cave bone diamond autumn cliff promote";
+var mnemonic = "pudding gold cook club private range bleak inner regular tone live medal";

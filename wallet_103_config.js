@@ -1,1 +1,1 @@
-var mnemonic = "leave verify setup sting dragon identify guilt number winter lunch else card";
+var mnemonic = "illegal torch speed glory will cushion dose rookie estate income finger journey";

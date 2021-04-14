@@ -1,1 +1,1 @@
-var mnemonic = "canoe caution exchange possible silver view lottery leaf truck twist always film";
+var mnemonic = "dream upgrade update hurry fluid warm adult like surround steak salute meadow";

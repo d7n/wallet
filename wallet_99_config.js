@@ -1,1 +1,1 @@
-var mnemonic = "elder illness mosquito tower sock surround tragic code embark abandon danger hazard";
+var mnemonic = "bright reward festival shiver tone husband develop state eight uphold diet bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant fire quiz better void twenty rude shoe cactus pill lottery master";
+var mnemonic = "history evil blur swap sleep inmate wrong soap umbrella abuse estate win";

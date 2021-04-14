@@ -1,1 +1,1 @@
-var mnemonic = "flock obscure right tail core ten near spoil endorse salt woman plunge";
+var mnemonic = "bus sure pride grant armed around install remind brief animal salute normal";

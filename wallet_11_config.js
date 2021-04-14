@@ -1,1 +1,1 @@
-var mnemonic = "cereal safe before balance donor fantasy where powder level crack wash path";
+var mnemonic = "spot south spice gift okay lobster obscure price during renew economy stove";

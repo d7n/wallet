@@ -1,1 +1,1 @@
-var mnemonic = "favorite exhibit neglect rough march pyramid confirm inner notable flash belt deny";
+var mnemonic = "play veteran school peasant pave calm pen ostrich tumble wall club pistol";

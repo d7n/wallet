@@ -1,1 +1,1 @@
-var mnemonic = "benefit marine room road pilot sister vanish great woman pledge suspect plunge";
+var mnemonic = "grid excite hobby equip birth square split pulse board cute island certain";

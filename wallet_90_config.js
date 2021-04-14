@@ -1,1 +1,1 @@
-var mnemonic = "mention clutch same pink tribe tray solution typical kit roof south depart";
+var mnemonic = "miss force inherit upset three strategy pen choice ancient loop two myth";

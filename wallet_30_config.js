@@ -1,1 +1,1 @@
-var mnemonic = "base awkward protect argue screen oxygen series later sentence melody absorb end";
+var mnemonic = "art rude bubble zone tragic hotel length lion path love flee canal";

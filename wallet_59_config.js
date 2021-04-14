@@ -1,1 +1,1 @@
-var mnemonic = "popular prevent brand above tail pulse bamboo wood plate grab farm gravity";
+var mnemonic = "minute father illness kingdom peace purity gown glimpse gossip meadow door acoustic";

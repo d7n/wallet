@@ -1,1 +1,1 @@
-var mnemonic = "fault observe reduce metal pencil floor wear crucial vote loyal link marble";
+var mnemonic = "page jump thing devote result prevent honey icon rate before crunch skirt";

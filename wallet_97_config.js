@@ -1,1 +1,1 @@
-var mnemonic = "please rich section chat double siren repeat month uncover tunnel hollow useless";
+var mnemonic = "hawk please unaware game can guess figure wool mosquito foam coconut dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "dose horror congress issue credit dose inside step monkey verb equal industry";
+var mnemonic = "purse easily paddle quote city weekend charge venture recycle february grass sheriff";

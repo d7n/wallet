@@ -1,1 +1,1 @@
-var mnemonic = "repeat pet diamond cram essay clip citizen crucial short labor shove nature";
+var mnemonic = "pole chase right faculty donate genuine olive worth between reunion short spare";

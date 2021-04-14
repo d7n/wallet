@@ -1,1 +1,1 @@
-var mnemonic = "edit flee amused job february swift abuse provide almost awake junk message";
+var mnemonic = "include reform exhaust earn husband wonder enforce excite swear mouse crystal blush";

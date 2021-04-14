@@ -1,1 +1,1 @@
-var mnemonic = "road cost aerobic bright estate swap text install admit number rabbit coyote";
+var mnemonic = "grief flee school chunk average mercy caught subject laundry sheriff addict jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "cream chicken office voice mind bacon relief place save bargain reform hybrid";
+var mnemonic = "crash raccoon visa fiber pink swap merit economy miracle hidden jeans permit";

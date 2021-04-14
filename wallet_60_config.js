@@ -1,1 +1,1 @@
-var mnemonic = "poem loop flock denial engine grab super picture before health priority tiger";
+var mnemonic = "era sign quit clarify slot next bread novel whale nut speed pull";

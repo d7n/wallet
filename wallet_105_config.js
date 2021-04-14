@@ -1,1 +1,1 @@
-var mnemonic = "fancy steak degree soup case toss injury snap blur meat eager test";
+var mnemonic = "clip title rule account ancient movie fish enter poem service marine reunion";

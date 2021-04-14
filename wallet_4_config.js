@@ -1,1 +1,1 @@
-var mnemonic = "fit sure enter lady awful coil reject awful gift swamp foot gas";
+var mnemonic = "hammer column ocean still develop scatter better area alpha drift surface morning";
