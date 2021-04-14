@@ -1,1 +1,1 @@
-var mnemonic = "toward illness enforce rely virus urge asset prison pause uniform tragic inhale";
+var mnemonic = "follow wisdom link quality guide guitar salt define umbrella aim gift phone";

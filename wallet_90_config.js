@@ -1,1 +1,1 @@
-var mnemonic = "spring minor uphold tail vessel waste scheme wrap game among fine apology";
+var mnemonic = "educate wing myth receive skate slush job crucial either tumble latin baby";

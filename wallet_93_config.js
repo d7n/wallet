@@ -1,1 +1,1 @@
-var mnemonic = "planet mandate gift finish cave forest risk resource nest invest try define";
+var mnemonic = "enlist enrich pride situate sunset act venue sunset invest dinosaur steel walnut";

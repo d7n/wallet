@@ -1,1 +1,1 @@
-var mnemonic = "uniform double october into melody disagree because outer speed result goddess fiber";
+var mnemonic = "absent purity whip theory beach bracket quick cook judge wasp depth town";

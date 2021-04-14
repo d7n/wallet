@@ -1,1 +1,1 @@
-var mnemonic = "fortune brief wrist glue outdoor cabin three garbage shoe cattle coconut ketchup";
+var mnemonic = "burst dose promote loyal ancient clump melody razor kitten demise rural fever";

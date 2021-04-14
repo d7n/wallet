@@ -1,1 +1,1 @@
-var mnemonic = "sand airport obscure amount inform boring chest dismiss charge jacket spread risk";
+var mnemonic = "involve fabric sea key bomb frozen language case pen asset achieve myth";

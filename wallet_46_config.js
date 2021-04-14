@@ -1,1 +1,1 @@
-var mnemonic = "unit easy analyst hard buzz collect inform host chunk wrist either exclude";
+var mnemonic = "noodle bean husband gentle where inherit away dust relax mistake debris van";

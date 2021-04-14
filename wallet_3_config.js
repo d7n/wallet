@@ -1,1 +1,1 @@
-var mnemonic = "leaf essay gown polar february mechanic pioneer hockey gloom illegal success chest";
+var mnemonic = "civil such sugar time secret vanish patrol day soft exclude lumber garden";

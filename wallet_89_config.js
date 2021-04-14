@@ -1,1 +1,1 @@
-var mnemonic = "clerk elite favorite scare actress party miss sun visit waste rough install";
+var mnemonic = "umbrella tobacco fee blast like now minimum oyster panther return flash sleep";

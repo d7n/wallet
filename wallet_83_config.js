@@ -1,1 +1,1 @@
-var mnemonic = "outside plug put planet dawn prize civil vintage course false job decline";
+var mnemonic = "autumn game neck earn degree tower spend zero high mirror open float";

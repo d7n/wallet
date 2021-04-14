@@ -1,1 +1,1 @@
-var mnemonic = "bench meat alert lava mercy vintage same volcano broken inmate vocal library";
+var mnemonic = "long fringe galaxy text index peace toe wide special crawl toast point";

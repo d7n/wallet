@@ -1,1 +1,1 @@
-var mnemonic = "rug round jar wonder airport traffic decline balance unknown message scatter insane";
+var mnemonic = "visit chat nature alien camp sell silent program join news case involve";

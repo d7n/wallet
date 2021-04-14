@@ -1,1 +1,1 @@
-var mnemonic = "insane swing sand empower wire scout couple cram version disagree hand front";
+var mnemonic = "banner lawn genuine universe tail edge soda submit slot reflect prize transfer";

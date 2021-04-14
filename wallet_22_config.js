@@ -1,1 +1,1 @@
-var mnemonic = "artwork dad knock pattern wild scrub flee razor during race reform shop";
+var mnemonic = "online abstract leave business vibrant laptop put inhale more theme tribe gate";

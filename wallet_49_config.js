@@ -1,1 +1,1 @@
-var mnemonic = "pen twelve thank rely company defy grape earn thought ready picture parrot";
+var mnemonic = "wood brave spread fuel fantasy pilot panther dry steak thunder blood obscure";

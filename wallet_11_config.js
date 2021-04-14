@@ -1,1 +1,1 @@
-var mnemonic = "leader prison ill venture sentence rose arrange betray gloom glance century clap";
+var mnemonic = "cake member visit orange gown blind crisp wolf federal domain another smooth";

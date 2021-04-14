@@ -1,1 +1,1 @@
-var mnemonic = "stand debris consider lion meadow settle torch skull panther brass jar aerobic";
+var mnemonic = "final bread earn sugar vote artist poverty mask extend essay elegant camp";

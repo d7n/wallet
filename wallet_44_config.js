@@ -1,1 +1,1 @@
-var mnemonic = "network pupil rabbit toss sense snack tenant piano punch lizard monster onion";
+var mnemonic = "survey decrease stove glow alone wrong stumble actual cancel sing scrap turkey";

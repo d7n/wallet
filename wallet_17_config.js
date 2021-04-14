@@ -1,1 +1,1 @@
-var mnemonic = "blind thunder end unit general fruit huge rebuild fire sadness oak vault";
+var mnemonic = "embrace acoustic daring logic skill silk ritual trust match worth spring oval";

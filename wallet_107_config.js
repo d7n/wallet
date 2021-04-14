@@ -1,1 +1,1 @@
-var mnemonic = "eagle cement volume upset project secret tell market tuition beyond desert erupt";
+var mnemonic = "pair apart sad modify actor exotic barely weekend orange dad sunny dilemma";

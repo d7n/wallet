@@ -1,1 +1,1 @@
-var mnemonic = "setup save link pilot raw brief library drive second summer curious trip";
+var mnemonic = "seed bar slight special canoe math run night verify view walk dad";

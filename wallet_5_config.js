@@ -1,1 +1,1 @@
-var mnemonic = "abuse screen winter december woman addict mix wonder badge nature barely minute";
+var mnemonic = "soda lemon wheat funny please kid ranch female much paper junior warrior";

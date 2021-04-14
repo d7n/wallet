@@ -1,1 +1,1 @@
-var mnemonic = "route aim iron swift short long beyond yard salute melody sock safe";
+var mnemonic = "wire fan divorce spatial habit silent crumble shrug rich fury float gain";

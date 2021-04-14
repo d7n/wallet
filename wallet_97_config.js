@@ -1,1 +1,1 @@
-var mnemonic = "danger like unfold crater now mystery attend track moment turn traffic tell";
+var mnemonic = "suit tired model coast push guilt denial consider network story ecology sweet";

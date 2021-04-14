@@ -1,1 +1,1 @@
-var mnemonic = "couch victory glide wish visit drill mom two panther infant panic dirt";
+var mnemonic = "trophy require team soul athlete sketch river forward cross glance slab bid";

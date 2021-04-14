@@ -1,1 +1,1 @@
-var mnemonic = "pencil horse organ genius soap become engine cluster jewel pyramid require upper";
+var mnemonic = "violin patch jar bamboo kind present strong position together meadow rent purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry assault sure flame puppy thumb anger pond heavy snack trade novel";
+var mnemonic = "trick loan liquid anger lab section cream sick coach arrow enter either";

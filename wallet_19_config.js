@@ -1,1 +1,1 @@
-var mnemonic = "erupt mercy pole climb coach upgrade saddle amount accident shine arrive venue";
+var mnemonic = "crush explain creek bid cigar rude myself noise element delay paper merit";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant coconut wrong rather merry embody arrange famous sock attitude donate oven";
+var mnemonic = "cool manual deposit echo palace economy useless prosper more mandate boring fuel";

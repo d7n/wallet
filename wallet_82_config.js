@@ -1,1 +1,1 @@
-var mnemonic = "holiday example valid before yard kick panther income early change behind panic";
+var mnemonic = "shop moment verb equip canyon volume ordinary video liquid snake advice panic";

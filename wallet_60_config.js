@@ -1,1 +1,1 @@
-var mnemonic = "total symptom panda cactus arrive holiday witness gather theory promote armor shiver";
+var mnemonic = "car update when birth vanish inherit sphere canoe vessel upgrade ocean dynamic";

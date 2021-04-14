@@ -1,1 +1,1 @@
-var mnemonic = "demise end similar grid hover loud useless merit snake whip dust embody";
+var mnemonic = "funny notice shoe human vessel domain cousin cry best cry loud issue";

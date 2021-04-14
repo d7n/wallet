@@ -1,1 +1,1 @@
-var mnemonic = "salt never crack language six duck case episode flock lizard trick armor";
+var mnemonic = "baby fork dragon gadget pride limb oxygen ritual service debris muscle draw";

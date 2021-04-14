@@ -1,1 +1,1 @@
-var mnemonic = "flip title pyramid hip lyrics borrow name rather teach fiscal sun trim";
+var mnemonic = "decide wheel elegant waste assist endorse purse impact donor canal indoor stumble";

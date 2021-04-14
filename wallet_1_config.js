@@ -1,1 +1,1 @@
-var mnemonic = "broken brown damage judge daughter away pet retire join attitude spray hockey";
+var mnemonic = "talk please trade all hurdle artefact tiger father pet wish jump kit";

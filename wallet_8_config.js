@@ -1,1 +1,1 @@
-var mnemonic = "cover rug polar outside army praise submit vault resist wall arrange civil";
+var mnemonic = "disease debris second tilt crash dash medal lucky second guard chef pride";

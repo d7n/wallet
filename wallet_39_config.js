@@ -1,1 +1,1 @@
-var mnemonic = "disagree refuse today wall orient bag card bottom hospital coyote attend vendor";
+var mnemonic = "battle husband camera hunt bulk soft thing oak luxury venue cycle hurdle";

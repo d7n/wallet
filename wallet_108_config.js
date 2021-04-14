@@ -1,1 +1,1 @@
-var mnemonic = "flag system price doctor play dutch axis hand plate ethics popular medal";
+var mnemonic = "lawn attitude doll unfold rose pair model cement filter slight solid shield";

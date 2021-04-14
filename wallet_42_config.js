@@ -1,1 +1,1 @@
-var mnemonic = "ancient member bonus general urban turkey require quick mimic drastic sugar drive";
+var mnemonic = "hotel nice topic network health column execute frog glow toss table hill";

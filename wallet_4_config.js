@@ -1,1 +1,1 @@
-var mnemonic = "draft defy ship daring citizen above flip sausage check top write drip";
+var mnemonic = "aunt jelly address image deny rack fetch click evil tornado virus depend";

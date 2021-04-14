@@ -1,1 +1,1 @@
-var mnemonic = "peace urge way tissue project dust gesture that syrup mirror asset diagram";
+var mnemonic = "vapor isolate laundry grant pencil hint chapter equal evoke million regular high";

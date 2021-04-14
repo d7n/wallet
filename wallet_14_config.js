@@ -1,1 +1,1 @@
-var mnemonic = "already myth horn mixed library cousin donor coffee simple crystal quit cabbage";
+var mnemonic = "spirit wire buffalo icon utility large jaguar develop dry merry ship piece";

@@ -1,1 +1,1 @@
-var mnemonic = "bar program cherry mesh cool trumpet ceiling banana slow grocery stamp clinic";
+var mnemonic = "space trap coach toy novel enemy ten palace cage place sheriff devote";

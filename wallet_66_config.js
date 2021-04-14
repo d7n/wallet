@@ -1,1 +1,1 @@
-var mnemonic = "arch cream blouse trim speak become food knock total draw expect film";
+var mnemonic = "only digital kind skin runway brisk spring soldier shine extra collect library";

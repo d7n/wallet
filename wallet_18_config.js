@@ -1,1 +1,1 @@
-var mnemonic = "dizzy peace rotate stage robot skull debate humor daughter champion video educate";
+var mnemonic = "tortoise nut eagle hammer arrest skull end sort miss list inherit mesh";

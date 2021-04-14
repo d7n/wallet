@@ -1,1 +1,1 @@
-var mnemonic = "injury drama slice detail fringe addict fly hollow cliff combine defense dry";
+var mnemonic = "gossip catalog mouse funny bench crew wrong skin small barely ceiling engine";

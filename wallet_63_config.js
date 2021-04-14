@@ -1,1 +1,1 @@
-var mnemonic = "question fever across wage actor trend avocado forest wide supreme denial august";
+var mnemonic = "suit feed oppose castle cruel rack trouble display jaguar believe bind bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "screen soldier miracle strike future tongue excess nature inner laundry poverty girl";
+var mnemonic = "click draw invest time edit resemble sister snack traffic observe project diagram";

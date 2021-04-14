@@ -1,1 +1,1 @@
-var mnemonic = "combine sign weather beef clever tortoise aunt diary harsh van sort number";
+var mnemonic = "push baby filter club entry fee legal bachelor chicken runway eyebrow summer";

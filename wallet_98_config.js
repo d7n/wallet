@@ -1,1 +1,1 @@
-var mnemonic = "super rescue announce hub enact report oxygen stamp civil tourist alley legal";
+var mnemonic = "various arrow refuse profit pink session slender drive suffer easily badge entry";

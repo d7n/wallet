@@ -1,1 +1,1 @@
-var mnemonic = "peanut confirm question knock inflict arrange holiday mind forest tiger robust convince";
+var mnemonic = "spawn equal vibrant pistol neither icon rather wage neutral erosion visit shine";

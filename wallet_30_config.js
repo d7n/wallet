@@ -1,1 +1,1 @@
-var mnemonic = "gallery faint excess squirrel input elevator clap nominee adapt milk twenty salon";
+var mnemonic = "wish wonder liquid trap define report upgrade few coin shove method keen";

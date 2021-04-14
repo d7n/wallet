@@ -1,1 +1,1 @@
-var mnemonic = "drift stem kit squirrel fragile obvious cable fix sudden step horse harvest";
+var mnemonic = "call rapid pistol fluid ahead this ugly fiber kangaroo morning snap version";

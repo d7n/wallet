@@ -1,1 +1,1 @@
-var mnemonic = "step layer trigger rude sand special stand random caution rare book inform";
+var mnemonic = "rival harvest unaware luggage expand outer click artwork trumpet tag effort mind";

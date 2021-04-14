@@ -1,1 +1,1 @@
-var mnemonic = "escape panther choice exotic learn catalog marriage bird cover crack violin list";
+var mnemonic = "catch cake taxi dolphin art else blast polar slush there inhale detail";

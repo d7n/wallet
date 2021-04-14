@@ -1,1 +1,1 @@
-var mnemonic = "peasant raw hair brain spring evolve stable script figure predict sword spring";
+var mnemonic = "bundle suggest secret engine boat ramp gun swamp dry flag ask capable";

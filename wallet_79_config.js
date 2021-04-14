@@ -1,1 +1,1 @@
-var mnemonic = "invite arena recipe feed silver leave glory hold can tooth weather hover";
+var mnemonic = "oval any farm ridge kid oven payment dignity spice price film fruit";

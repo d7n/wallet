@@ -1,1 +1,1 @@
-var mnemonic = "make struggle turtle oil media motion close auto endorse cup weapon entry";
+var mnemonic = "legal grab huge uncover pulp gesture bulk mass rain proud strike news";

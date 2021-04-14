@@ -1,1 +1,1 @@
-var mnemonic = "virus rapid chalk ecology law uniform lava equal frown pistol damage oxygen";
+var mnemonic = "world moral enact tuition razor excite jungle obey move finish deliver divorce";

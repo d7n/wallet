@@ -1,1 +1,1 @@
-var mnemonic = "fade huge organ region nephew group educate hedgehog welcome sudden tomorrow bargain";
+var mnemonic = "disease never hungry step over nice engage start concert trust hidden clog";

@@ -1,1 +1,1 @@
-var mnemonic = "torch inject settle office minor enlist april stock burden thing fruit warrior";
+var mnemonic = "expect flame allow pig evoke inspire nuclear fox vacant expand bread water";

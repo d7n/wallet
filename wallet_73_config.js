@@ -1,1 +1,1 @@
-var mnemonic = "vessel length silk major female trap guide hen error brief employ hurt";
+var mnemonic = "ship injury certain cup myth notice ask wedding multiply quick identify fan";

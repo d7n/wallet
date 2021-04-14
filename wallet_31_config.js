@@ -1,1 +1,1 @@
-var mnemonic = "summer mystery magnet fury purchase travel theory endless portion depend term saddle";
+var mnemonic = "notice blush ship endorse member coconut chef misery nephew recipe lens always";

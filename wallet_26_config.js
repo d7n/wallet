@@ -1,1 +1,1 @@
-var mnemonic = "defense position venue damage seek during where clever cradle divide render inherit";
+var mnemonic = "supply coin already review trip arctic discover dinner target viable spell tent";

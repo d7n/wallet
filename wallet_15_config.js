@@ -1,1 +1,1 @@
-var mnemonic = "educate bulb true squeeze test route anger color reform tilt program riot";
+var mnemonic = "tube hen half dish panther list lucky juice little glory exhibit brown";

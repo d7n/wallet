@@ -1,1 +1,1 @@
-var mnemonic = "garbage pigeon window panel luggage vault wasp riot pottery barely famous visa";
+var mnemonic = "pause drink genius defy fly trust mammal cycle check dismiss make ship";

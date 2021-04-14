@@ -1,1 +1,1 @@
-var mnemonic = "car jazz produce swift text ticket sketch insect invest spice about melody";
+var mnemonic = "outdoor month already genius dismiss half fringe skin faculty rabbit buyer solar";

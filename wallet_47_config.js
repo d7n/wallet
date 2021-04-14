@@ -1,1 +1,1 @@
-var mnemonic = "alpha cement treat rough dynamic thumb thrive science unknown school yard goat";
+var mnemonic = "pumpkin lunch woman enable annual major chapter never wedding rail obvious elite";

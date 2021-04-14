@@ -1,1 +1,1 @@
-var mnemonic = "arrange annual enroll gorilla guess unfair sauce heart menu accident era quit";
+var mnemonic = "chair twice inhale accuse nerve nation inmate mechanic virtual around alone obscure";

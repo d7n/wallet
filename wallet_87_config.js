@@ -1,1 +1,1 @@
-var mnemonic = "bike typical buzz scatter bar van claw pencil flavor genuine leave grief";
+var mnemonic = "width crush summer easy prepare fringe dawn enroll actress essay glimpse congress";

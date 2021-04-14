@@ -1,1 +1,1 @@
-var mnemonic = "also jazz asset ankle maple tumble muffin drama snap drip scheme auction";
+var mnemonic = "bone ribbon teach news force lab indicate avocado extend prefer hole notice";

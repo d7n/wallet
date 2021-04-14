@@ -1,1 +1,1 @@
-var mnemonic = "cup sea negative merry ketchup cactus buffalo nurse lend main essence shallow";
+var mnemonic = "south idle rebuild actress weather denial lazy reveal jar shaft first fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "fury mule fork badge monster soft excite enroll congress owner vendor eternal";
+var mnemonic = "parade meadow else afford horror equal current domain federal month ocean morning";

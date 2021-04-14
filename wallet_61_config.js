@@ -1,1 +1,1 @@
-var mnemonic = "entry clip copper ticket twice axis panic extra shy parent recycle dish";
+var mnemonic = "genre token wise upset twice modify kangaroo prosper sphere arena certain bullet";

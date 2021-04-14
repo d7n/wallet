@@ -1,1 +1,1 @@
-var mnemonic = "include organ child across exhibit arrest palm merit wild misery salon furnace";
+var mnemonic = "bird glue shoe way enemy artist rookie elbow planet educate couple inject";

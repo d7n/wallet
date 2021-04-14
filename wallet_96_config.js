@@ -1,1 +1,1 @@
-var mnemonic = "wash rude foil captain rose butter deal scale garment code east benefit";
+var mnemonic = "moment hobby inform speed butter word plastic fade make pattern slender grief";

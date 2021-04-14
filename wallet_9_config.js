@@ -1,1 +1,1 @@
-var mnemonic = "vacant slow message unfair cigar mean play bring upgrade hidden main cycle";
+var mnemonic = "cannon deposit weapon guitar thrive blade hero nominee vivid there reveal erosion";

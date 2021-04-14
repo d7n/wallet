@@ -1,1 +1,1 @@
-var mnemonic = "festival rocket glide conduct burden grab hole enemy wisdom fix square regular";
+var mnemonic = "trend robust wave cause valid discover vessel velvet sample prevent rude wide";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy slogan torch mushroom mansion smooth tackle tunnel alley crew chief extra";
+var mnemonic = "call analyst split zebra virus fluid picture dilemma clown innocent silver puppy";

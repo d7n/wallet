@@ -1,1 +1,1 @@
-var mnemonic = "crash obvious polar stool issue frame piece bring furnace theory fee doctor";
+var mnemonic = "depth float jelly kangaroo grit clay mango kiss uncle quality coil diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "eye never dose quit input staff fun crowd rain pelican surface country";
+var mnemonic = "room test funny satisfy what recipe excite rich flash camp crime vacuum";

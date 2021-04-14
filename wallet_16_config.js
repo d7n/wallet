@@ -1,1 +1,1 @@
-var mnemonic = "reason foot farm unfair hello soup cactus zoo town image anchor give";
+var mnemonic = "must blame blood holiday super lawsuit danger mass fiction asset trap stomach";

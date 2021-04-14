@@ -1,1 +1,1 @@
-var mnemonic = "crack install appear dust gossip sock mansion dizzy novel element slow electric";
+var mnemonic = "cargo add planet camera wine stomach tattoo bread riot craft close egg";

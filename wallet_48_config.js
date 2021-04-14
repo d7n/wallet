@@ -1,1 +1,1 @@
-var mnemonic = "behind among cabin obvious dry end obvious online liar confirm prepare bridge";
+var mnemonic = "boil spring enhance void share axis engage ketchup journey baby reward cupboard";

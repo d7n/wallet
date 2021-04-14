@@ -1,1 +1,1 @@
-var mnemonic = "mention toy install else consider nerve cushion push prepare say north fragile";
+var mnemonic = "produce sibling often visual sail wrestle vital tent dentist oven green sword";

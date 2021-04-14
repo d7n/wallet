@@ -1,1 +1,1 @@
-var mnemonic = "rib approve chief uncle scale suggest fuel embody satoshi roof steak define";
+var mnemonic = "know skirt detect exit spider sudden cage town vibrant tape ridge home";

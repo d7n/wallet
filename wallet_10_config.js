@@ -1,1 +1,1 @@
-var mnemonic = "cement either mountain wealth unfair risk shallow fatal pet beyond siege cabbage";
+var mnemonic = "relax unfold include evidence squirrel crunch canyon wait feature badge royal myth";

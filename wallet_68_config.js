@@ -1,1 +1,1 @@
-var mnemonic = "final apart bubble public photo alcohol wrong volume cook loop romance dwarf";
+var mnemonic = "imitate violin engage pride almost name question range energy sort slush quick";

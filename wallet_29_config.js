@@ -1,1 +1,1 @@
-var mnemonic = "inspire only chicken angle anger parent reopen typical broccoli noodle congress oppose";
+var mnemonic = "spin warrior pipe together debris cruel tonight focus finger hour weird skull";

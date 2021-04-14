@@ -1,1 +1,1 @@
-var mnemonic = "duty fire sweet carbon evoke habit fuel sort benefit mass frog amazing";
+var mnemonic = "action dice invite way category helmet guide turn ginger laptop else license";

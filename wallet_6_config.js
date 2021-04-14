@@ -1,1 +1,1 @@
-var mnemonic = "math sign diary year inner prosper rare champion employ female cute try";
+var mnemonic = "ring age kitchen suggest coral canvas total apology peace trial dolphin absent";

@@ -1,1 +1,1 @@
-var mnemonic = "airport rookie mistake table absorb drip pond crazy say powder convince merit";
+var mnemonic = "north feed wool fever catch mixed chief waste assume lawsuit silent office";

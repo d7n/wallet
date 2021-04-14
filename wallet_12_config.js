@@ -1,1 +1,1 @@
-var mnemonic = "trip old produce evil stick repeat rebel dose rich struggle tribe offer";
+var mnemonic = "belt afford gorilla clock mutual spike fitness advice harvest special arch number";
