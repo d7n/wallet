@@ -1,1 +1,1 @@
-var mnemonic = "soda lemon wheat funny please kid ranch female much paper junior warrior";
+var mnemonic = "debate glare common guard ladder hedgehog drop roast cattle orbit essay risk";

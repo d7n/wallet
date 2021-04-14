@@ -1,1 +1,1 @@
-var mnemonic = "cake member visit orange gown blind crisp wolf federal domain another smooth";
+var mnemonic = "brother vacant rich stumble emerge road until protect fish knee mix north";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt jelly address image deny rack fetch click evil tornado virus depend";
+var mnemonic = "skill tiny afraid wisdom design option figure slide barrel cheese there pet";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel nice topic network health column execute frog glow toss table hill";
+var mnemonic = "tomorrow during black coach song mushroom stage occur evoke flavor valid viable";

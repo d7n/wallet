@@ -1,1 +1,1 @@
-var mnemonic = "burst dose promote loyal ancient clump melody razor kitten demise rural fever";
+var mnemonic = "theory arrest pistol pepper distance seminar human slide asset tip bike kiss";

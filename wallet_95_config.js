@@ -1,1 +1,1 @@
-var mnemonic = "seed bar slight special canoe math run night verify view walk dad";
+var mnemonic = "permit pulp solution ability oak certain flash destroy toss warfare blade like";

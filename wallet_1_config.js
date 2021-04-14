@@ -1,1 +1,1 @@
-var mnemonic = "talk please trade all hurdle artefact tiger father pet wish jump kit";
+var mnemonic = "place comic truth earn fluid middle flush brand comic alarm elite genre";

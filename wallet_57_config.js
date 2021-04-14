@@ -1,1 +1,1 @@
-var mnemonic = "latin equip tone gasp exchange solve buzz alcohol normal focus borrow life";
+var mnemonic = "blouse wrap peasant local pipe extend shop say stone nuclear champion case";

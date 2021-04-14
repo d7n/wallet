@@ -1,1 +1,1 @@
-var mnemonic = "parade meadow else afford horror equal current domain federal month ocean morning";
+var mnemonic = "galaxy task wasp fan liberty orbit category prepare drastic guard kick rough";

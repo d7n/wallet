@@ -1,1 +1,1 @@
-var mnemonic = "gossip catalog mouse funny bench crew wrong skin small barely ceiling engine";
+var mnemonic = "song fault resist sudden fatigue shallow world hedgehog portion buzz flash element";

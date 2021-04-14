@@ -1,1 +1,1 @@
-var mnemonic = "crush explain creek bid cigar rude myself noise element delay paper merit";
+var mnemonic = "exit winter such elite swap evoke engine tennis black worth dinosaur voyage";

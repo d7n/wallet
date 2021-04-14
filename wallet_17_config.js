@@ -1,1 +1,1 @@
-var mnemonic = "embrace acoustic daring logic skill silk ritual trust match worth spring oval";
+var mnemonic = "parade artefact glove december item seed connect caught rotate cabbage divorce few";

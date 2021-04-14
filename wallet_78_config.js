@@ -1,1 +1,1 @@
-var mnemonic = "long fringe galaxy text index peace toe wide special crawl toast point";
+var mnemonic = "tell stay someone game major skate cancel chuckle width eyebrow switch sister";

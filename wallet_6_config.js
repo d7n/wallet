@@ -1,1 +1,1 @@
-var mnemonic = "ring age kitchen suggest coral canvas total apology peace trial dolphin absent";
+var mnemonic = "polar utility frozen prize novel announce diamond ticket seven fresh razor assault";

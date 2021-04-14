@@ -1,1 +1,1 @@
-var mnemonic = "car update when birth vanish inherit sphere canoe vessel upgrade ocean dynamic";
+var mnemonic = "raw deal luggage olive brain funny scale warm spot market law young";

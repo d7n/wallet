@@ -1,1 +1,1 @@
-var mnemonic = "day force comic meat live above zone opera energy scout deposit say";
+var mnemonic = "amateur coach garment curious ten merry miss glimpse siren garment giant pill";

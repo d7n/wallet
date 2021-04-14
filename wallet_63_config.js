@@ -1,1 +1,1 @@
-var mnemonic = "suit feed oppose castle cruel rack trouble display jaguar believe bind bomb";
+var mnemonic = "symbol easily grass admit popular diary ankle card pull cross video news";

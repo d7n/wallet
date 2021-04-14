@@ -1,1 +1,1 @@
-var mnemonic = "click draw invest time edit resemble sister snack traffic observe project diagram";
+var mnemonic = "fetch album ship famous little symptom smoke bundle amazing avoid keen cluster";

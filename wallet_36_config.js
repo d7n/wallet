@@ -1,1 +1,1 @@
-var mnemonic = "bone ribbon teach news force lab indicate avocado extend prefer hole notice";
+var mnemonic = "olympic faith silly useless frost find climb able sort cargo describe patrol";

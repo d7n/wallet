@@ -1,1 +1,1 @@
-var mnemonic = "legal grab huge uncover pulp gesture bulk mass rain proud strike news";
+var mnemonic = "police jazz empower absurd spawn acoustic avocado ritual laptop convince fatigue bind";

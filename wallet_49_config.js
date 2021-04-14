@@ -1,1 +1,1 @@
-var mnemonic = "wood brave spread fuel fantasy pilot panther dry steak thunder blood obscure";
+var mnemonic = "noise strong subway solve consider flat among express lift creek intact guard";

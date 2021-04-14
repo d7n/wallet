@@ -1,1 +1,1 @@
-var mnemonic = "know skirt detect exit spider sudden cage town vibrant tape ridge home";
+var mnemonic = "gaze treat theme note comfort obvious explain sphere dynamic beauty slot demise";

@@ -1,1 +1,1 @@
-var mnemonic = "baby fork dragon gadget pride limb oxygen ritual service debris muscle draw";
+var mnemonic = "disease garage observe shuffle firm rack crucial answer return source journey fence";

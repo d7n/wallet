@@ -1,1 +1,1 @@
-var mnemonic = "survey decrease stove glow alone wrong stumble actual cancel sing scrap turkey";
+var mnemonic = "wait crane fly never portion legend battle gadget forum digital suffer echo";

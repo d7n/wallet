@@ -1,1 +1,1 @@
-var mnemonic = "push baby filter club entry fee legal bachelor chicken runway eyebrow summer";
+var mnemonic = "sting neutral path other reject pepper torch feel adjust actual siege menu";

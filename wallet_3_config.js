@@ -1,1 +1,1 @@
-var mnemonic = "civil such sugar time secret vanish patrol day soft exclude lumber garden";
+var mnemonic = "letter home east solve poem stumble one believe hunt liar duck portion";

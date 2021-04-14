@@ -1,1 +1,1 @@
-var mnemonic = "world moral enact tuition razor excite jungle obey move finish deliver divorce";
+var mnemonic = "method panic crumble glance fish swear clay much switch fit village connect";

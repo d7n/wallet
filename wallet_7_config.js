@@ -1,1 +1,1 @@
-var mnemonic = "decide wheel elegant waste assist endorse purse impact donor canal indoor stumble";
+var mnemonic = "impulse require boil luxury offer hip sister disagree drop other eight dutch";

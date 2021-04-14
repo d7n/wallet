@@ -1,1 +1,1 @@
-var mnemonic = "final bread earn sugar vote artist poverty mask extend essay elegant camp";
+var mnemonic = "moral upgrade degree chalk cup glide furnace grocery gossip music improve alter";

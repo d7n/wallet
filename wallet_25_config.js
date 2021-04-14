@@ -1,1 +1,1 @@
-var mnemonic = "call rapid pistol fluid ahead this ugly fiber kangaroo morning snap version";
+var mnemonic = "swallow mesh napkin grape husband ladder burst alley erase employ clog hawk";

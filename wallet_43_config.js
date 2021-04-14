@@ -1,1 +1,1 @@
-var mnemonic = "spawn equal vibrant pistol neither icon rather wage neutral erosion visit shine";
+var mnemonic = "vendor satisfy detail romance educate glass state margin calm bonus melody purity";

@@ -1,1 +1,1 @@
-var mnemonic = "boil spring enhance void share axis engage ketchup journey baby reward cupboard";
+var mnemonic = "lab shoot breeze excite alarm head slide tag decide december squirrel pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "tube hen half dish panther list lucky juice little glory exhibit brown";
+var mnemonic = "romance cricket patrol domain universe empty walnut law author battle lend cart";

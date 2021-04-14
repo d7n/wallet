@@ -1,1 +1,1 @@
-var mnemonic = "trend robust wave cause valid discover vessel velvet sample prevent rude wide";
+var mnemonic = "media agree hotel dove purse solution retreat obscure final sphere injury member";

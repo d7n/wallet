@@ -1,1 +1,1 @@
-var mnemonic = "lawn attitude doll unfold rose pair model cement filter slight solid shield";
+var mnemonic = "action cement april screen runway ankle insect custom soul view frown bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin lunch woman enable annual major chapter never wedding rail obvious elite";
+var mnemonic = "fringe comfort physical umbrella nephew voice liar castle normal deputy coast betray";

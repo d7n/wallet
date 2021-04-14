@@ -1,1 +1,1 @@
-var mnemonic = "funny notice shoe human vessel domain cousin cry best cry loud issue";
+var mnemonic = "wing lottery regular option uniform final wheel caution uphold flight weasel divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "rival harvest unaware luggage expand outer click artwork trumpet tag effort mind";
+var mnemonic = "verb tail border record talk trouble rabbit certain sheriff tail announce cross";

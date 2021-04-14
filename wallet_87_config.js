@@ -1,1 +1,1 @@
-var mnemonic = "width crush summer easy prepare fringe dawn enroll actress essay glimpse congress";
+var mnemonic = "panther cry idea motion jar horror catch course wedding pulse else fish";

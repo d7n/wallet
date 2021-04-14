@@ -1,1 +1,1 @@
-var mnemonic = "must blame blood holiday super lawsuit danger mass fiction asset trap stomach";
+var mnemonic = "capital rule beach violin oxygen impulse quarter worry ozone include laugh found";

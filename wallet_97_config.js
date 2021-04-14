@@ -1,1 +1,1 @@
-var mnemonic = "suit tired model coast push guilt denial consider network story ecology sweet";
+var mnemonic = "surge similar combine fat half either april such film trust square note";

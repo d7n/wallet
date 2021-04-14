@@ -1,1 +1,1 @@
-var mnemonic = "juice very whisper screen click grit access toward trend warrior setup similar";
+var mnemonic = "river maze warfare armor enough rain hospital valid brother script vessel math";

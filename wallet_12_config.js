@@ -1,1 +1,1 @@
-var mnemonic = "belt afford gorilla clock mutual spike fitness advice harvest special arch number";
+var mnemonic = "easy setup bachelor panic wage balance ranch sure merge exile popular day";

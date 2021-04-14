@@ -1,1 +1,1 @@
-var mnemonic = "wish wonder liquid trap define report upgrade few coin shove method keen";
+var mnemonic = "sudden safe ready degree hub evoke genius adapt crisp egg hurry genius";

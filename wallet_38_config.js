@@ -1,1 +1,1 @@
-var mnemonic = "bundle suggest secret engine boat ramp gun swamp dry flag ask capable";
+var mnemonic = "elephant owner model fiction code panda hobby purpose bus cat hamster spare";

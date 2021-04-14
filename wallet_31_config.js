@@ -1,1 +1,1 @@
-var mnemonic = "notice blush ship endorse member coconut chef misery nephew recipe lens always";
+var mnemonic = "pole cargo kangaroo scorpion nest alcohol tone taxi penalty dove move purity";

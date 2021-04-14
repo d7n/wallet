@@ -1,1 +1,1 @@
-var mnemonic = "ship injury certain cup myth notice ask wedding multiply quick identify fan";
+var mnemonic = "portion habit involve awkward sentence rigid alone dream confirm leader say solar";

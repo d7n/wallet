@@ -1,1 +1,1 @@
-var mnemonic = "autumn game neck earn degree tower spend zero high mirror open float";
+var mnemonic = "toward business find cabbage long detail notice arctic misery coconut erode meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "moment hobby inform speed butter word plastic fade make pattern slender grief";
+var mnemonic = "sunset fade motor act apple east train ski jealous gesture august bracket";

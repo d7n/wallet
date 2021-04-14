@@ -1,1 +1,1 @@
-var mnemonic = "depth float jelly kangaroo grit clay mango kiss uncle quality coil diamond";
+var mnemonic = "moment bunker dizzy cereal situate allow wrap case chair number author mix";

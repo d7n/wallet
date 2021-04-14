@@ -1,1 +1,1 @@
-var mnemonic = "catch cake taxi dolphin art else blast polar slush there inhale detail";
+var mnemonic = "people hen crazy mask rhythm taste shoot coyote exchange visa coach worth";

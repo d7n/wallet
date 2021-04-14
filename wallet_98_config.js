@@ -1,1 +1,1 @@
-var mnemonic = "various arrow refuse profit pink session slender drive suffer easily badge entry";
+var mnemonic = "sentence film clip patch van lunar congress lunch napkin text sell turn";

@@ -1,1 +1,1 @@
-var mnemonic = "genre token wise upset twice modify kangaroo prosper sphere arena certain bullet";
+var mnemonic = "text amateur grid weekend expand brother business margin grain soul hammer surround";

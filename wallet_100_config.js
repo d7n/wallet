@@ -1,1 +1,1 @@
-var mnemonic = "expect flame allow pig evoke inspire nuclear fox vacant expand bread water";
+var mnemonic = "castle team repair pipe palm analyst slow poverty supply flag gallery forest";

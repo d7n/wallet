@@ -1,1 +1,1 @@
-var mnemonic = "trophy require team soul athlete sketch river forward cross glance slab bid";
+var mnemonic = "blanket soul bike globe giraffe burst mind slender diagram heavy aunt file";

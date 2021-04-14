@@ -1,1 +1,1 @@
-var mnemonic = "involve fabric sea key bomb frozen language case pen asset achieve myth";
+var mnemonic = "human fat sport deputy congress eight list genre debate thrive despair copy";

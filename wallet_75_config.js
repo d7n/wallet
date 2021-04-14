@@ -1,1 +1,1 @@
-var mnemonic = "party bottom embark network blame spoil breeze girl trip diamond erupt maze";
+var mnemonic = "soft spot slim gospel produce tilt kind force pony burst champion degree";

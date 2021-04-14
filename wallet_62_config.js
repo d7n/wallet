@@ -1,1 +1,1 @@
-var mnemonic = "rescue salon weather nut office nice shiver pride blade cause clump liberty";
+var mnemonic = "install hotel crew glue rigid coyote cook remember bicycle nasty scrap impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "chair twice inhale accuse nerve nation inmate mechanic virtual around alone obscure";
+var mnemonic = "replace tribe pact wool sister quote infant sibling wide film day rookie";

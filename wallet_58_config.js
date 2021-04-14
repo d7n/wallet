@@ -1,1 +1,1 @@
-var mnemonic = "absent purity whip theory beach bracket quick cook judge wasp depth town";
+var mnemonic = "wink grape fit define insane warm retreat simple bright brisk demise wolf";

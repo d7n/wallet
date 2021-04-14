@@ -1,1 +1,1 @@
-var mnemonic = "stuff truly fly matter street alien else wear south prepare forest busy";
+var mnemonic = "immense rain report cool veteran gallery obey furnace flock nothing scheme cabbage";

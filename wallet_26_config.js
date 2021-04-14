@@ -1,1 +1,1 @@
-var mnemonic = "supply coin already review trip arctic discover dinner target viable spell tent";
+var mnemonic = "any close connect million liquid casino eager turtle order mimic maid mushroom";

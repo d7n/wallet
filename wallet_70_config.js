@@ -1,1 +1,1 @@
-var mnemonic = "exhibit slot brand fuel sniff refuse bicycle girl lonely road tone buffalo";
+var mnemonic = "identify opinion inform planet about anchor away divert awful quick apology waste";

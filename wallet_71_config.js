@@ -1,1 +1,1 @@
-var mnemonic = "hundred element team happy ability soldier please dizzy machine fee average equal";
+var mnemonic = "absurd stumble glide ghost half lyrics session clutch glide until wealth dutch";

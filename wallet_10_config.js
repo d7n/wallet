@@ -1,1 +1,1 @@
-var mnemonic = "relax unfold include evidence squirrel crunch canyon wait feature badge royal myth";
+var mnemonic = "traffic chase field clean question special local south barrel scene expect canyon";

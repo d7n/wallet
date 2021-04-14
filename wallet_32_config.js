@@ -1,1 +1,1 @@
-var mnemonic = "tool series street utility bean deposit settle flame pull toy simple differ";
+var mnemonic = "scan glance hard rice pig tornado must approve find expose company slush";

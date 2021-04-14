@@ -1,1 +1,1 @@
-var mnemonic = "oval any farm ridge kid oven payment dignity spice price film fruit";
+var mnemonic = "spare vintage farm core quality tattoo because husband secret spare offer fly";

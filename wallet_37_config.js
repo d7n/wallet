@@ -1,1 +1,1 @@
-var mnemonic = "pause drink genius defy fly trust mammal cycle check dismiss make ship";
+var mnemonic = "boring ethics amused ticket cluster blur unfair silent dignity swallow eye enemy";

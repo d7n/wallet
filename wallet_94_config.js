@@ -1,1 +1,1 @@
-var mnemonic = "outdoor month already genius dismiss half fringe skin faculty rabbit buyer solar";
+var mnemonic = "link net tower merry bundle witness shop banana ocean use goose another";

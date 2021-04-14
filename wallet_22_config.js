@@ -1,1 +1,1 @@
-var mnemonic = "online abstract leave business vibrant laptop put inhale more theme tribe gate";
+var mnemonic = "science bounce dog error such long salt stable easy cycle royal write";

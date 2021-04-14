@@ -1,1 +1,1 @@
-var mnemonic = "follow wisdom link quality guide guitar salt define umbrella aim gift phone";
+var mnemonic = "fantasy screen message frost amazing harvest hundred harvest battle voyage swamp sleep";

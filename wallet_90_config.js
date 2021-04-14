@@ -1,1 +1,1 @@
-var mnemonic = "educate wing myth receive skate slush job crucial either tumble latin baby";
+var mnemonic = "dilemma another spin unable select portion fix prosper cupboard brave glove december";

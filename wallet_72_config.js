@@ -1,1 +1,1 @@
-var mnemonic = "space trap coach toy novel enemy ten palace cage place sheriff devote";
+var mnemonic = "bullet pair endorse bullet axis defense segment rate catalog spin extend ability";

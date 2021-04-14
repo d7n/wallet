@@ -1,1 +1,1 @@
-var mnemonic = "spirit wire buffalo icon utility large jaguar develop dry merry ship piece";
+var mnemonic = "maze mandate piano slice jump trade kick play bachelor caution under magic";

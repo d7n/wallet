@@ -1,1 +1,1 @@
-var mnemonic = "disease never hungry step over nice engage start concert trust hidden clog";
+var mnemonic = "butter poverty hen put strategy discover prepare outdoor coach banner peace goat";

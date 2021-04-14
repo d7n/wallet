@@ -1,1 +1,1 @@
-var mnemonic = "bird glue shoe way enemy artist rookie elbow planet educate couple inject";
+var mnemonic = "flag hotel hunt salmon gasp grain satoshi actual judge picnic divide dignity";

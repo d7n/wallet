@@ -1,1 +1,1 @@
-var mnemonic = "produce sibling often visual sail wrestle vital tent dentist oven green sword";
+var mnemonic = "click end leaf turkey pulp library brown core type clarify like visit";

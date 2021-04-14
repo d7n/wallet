@@ -1,1 +1,1 @@
-var mnemonic = "trick loan liquid anger lab section cream sick coach arrow enter either";
+var mnemonic = "lady couple dress shell split craft cycle kit bulk tissue pelican steel";

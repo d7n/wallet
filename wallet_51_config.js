@@ -1,1 +1,1 @@
-var mnemonic = "room test funny satisfy what recipe excite rich flash camp crime vacuum";
+var mnemonic = "link chair tornado steel seat labor conduct grocery kid decline erosion artefact";

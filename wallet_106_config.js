@@ -1,1 +1,1 @@
-var mnemonic = "cargo add planet camera wine stomach tattoo bread riot craft close egg";
+var mnemonic = "shine place grocery dress drop vintage engage adult canoe govern slim wise";

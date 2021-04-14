@@ -1,1 +1,1 @@
-var mnemonic = "boat destroy pluck sail lounge recipe pill obey file return wonder polar";
+var mnemonic = "share marine trouble worry limb tonight behave knife weasel sting zero affair";

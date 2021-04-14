@@ -1,1 +1,1 @@
-var mnemonic = "north feed wool fever catch mixed chief waste assume lawsuit silent office";
+var mnemonic = "travel know main water short gossip glove brown small naive nominee busy";

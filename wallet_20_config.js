@@ -1,1 +1,1 @@
-var mnemonic = "banner lawn genuine universe tail edge soda submit slot reflect prize transfer";
+var mnemonic = "clutch during vacuum citizen liberty rice vibrant silly fancy size want staff";

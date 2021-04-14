@@ -1,1 +1,1 @@
-var mnemonic = "other credit hen addict high deal soul garlic liquid program print panther";
+var mnemonic = "climb tourist brief tongue figure abuse term stand divert beyond soccer expand";

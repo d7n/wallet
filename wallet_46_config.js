@@ -1,1 +1,1 @@
-var mnemonic = "noodle bean husband gentle where inherit away dust relax mistake debris van";
+var mnemonic = "universe vague flight domain birth again lava equal grace palm drama shock";

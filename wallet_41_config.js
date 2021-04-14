@@ -1,1 +1,1 @@
-var mnemonic = "diagram proud artist beach figure moon able sample mosquito veteran quiz donkey";
+var mnemonic = "frozen prison awesome adjust small curtain evidence endorse topic guide about slam";
