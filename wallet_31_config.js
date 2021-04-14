@@ -1,1 +1,1 @@
-var mnemonic = "forest hub lizard ribbon prefer word waste clog chimney logic century latin";
+var mnemonic = "decline genius release weekend field source mistake hawk produce absorb dial bone";

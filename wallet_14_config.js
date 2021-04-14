@@ -1,1 +1,1 @@
-var mnemonic = "give dizzy alone adult refuse code lawn embrace school fiscal junk poet";
+var mnemonic = "clip ask bike sadness vote nature adjust topic tell effort heart raven";

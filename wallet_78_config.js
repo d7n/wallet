@@ -1,1 +1,1 @@
-var mnemonic = "jar toilet guilt lonely hood kick wolf sound above balance nuclear finish";
+var mnemonic = "body invite host wheat clump start original layer weekend erupt spell sun";

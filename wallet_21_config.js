@@ -1,1 +1,1 @@
-var mnemonic = "consider section believe panda stock enter royal dust twin envelope lecture fitness";
+var mnemonic = "one bike major force client delay summer lobster route forest measure mobile";

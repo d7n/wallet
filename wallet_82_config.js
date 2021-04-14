@@ -1,1 +1,1 @@
-var mnemonic = "endless city indoor mean all zone glad wool pattern wish host gasp";
+var mnemonic = "rough broccoli hurdle dilemma joke sign play ivory tool fan grant father";

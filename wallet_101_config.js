@@ -1,1 +1,1 @@
-var mnemonic = "lady cancel father act employ once toilet open rifle praise april tiny";
+var mnemonic = "crowd announce coral custom quick because situate region film kitchen record tribe";

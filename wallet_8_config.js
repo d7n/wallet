@@ -1,1 +1,1 @@
-var mnemonic = "walnut fruit tragic chat need rocket wolf soft scatter stick behave bench";
+var mnemonic = "regular festival eye kind hole bus obvious dentist invest organ luggage return";

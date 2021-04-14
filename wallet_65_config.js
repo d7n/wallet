@@ -1,1 +1,1 @@
-var mnemonic = "view village hockey steak apple park fan require input dumb clap flat";
+var mnemonic = "stove huge dolphin frame chimney bitter detect quiz excuse favorite goddess physical";

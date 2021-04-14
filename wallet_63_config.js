@@ -1,1 +1,1 @@
-var mnemonic = "hurdle shock swallow gauge symbol miracle panda exclude option payment milk version";
+var mnemonic = "sadness process write ceiling blush pitch month cost bid debris mixture purse";

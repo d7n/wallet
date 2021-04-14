@@ -1,1 +1,1 @@
-var mnemonic = "hope idea volume increase weird ritual wet matrix issue congress cluster wine";
+var mnemonic = "turn genuine table like vague shoulder three stay jeans demand canyon funny";

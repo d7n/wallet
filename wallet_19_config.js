@@ -1,1 +1,1 @@
-var mnemonic = "cool flag garlic nurse clinic ribbon adjust hat deputy visa evoke brass";
+var mnemonic = "chief brush milk police wet first price bring eye original roof glove";

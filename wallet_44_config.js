@@ -1,1 +1,1 @@
-var mnemonic = "choice upper live shoe provide donate renew floor hello eternal crumble loan";
+var mnemonic = "leader effort guitar round when horror buddy call grocery merit evidence notable";

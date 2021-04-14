@@ -1,1 +1,1 @@
-var mnemonic = "used canoe virtual wet dynamic roof parent link force anchor close security";
+var mnemonic = "expand what easily panda leader ski worth pelican column share liberty divide";

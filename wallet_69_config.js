@@ -1,1 +1,1 @@
-var mnemonic = "business all fortune fluid enter start view symbol horn funny trash perfect";
+var mnemonic = "derive oxygen height digital quantum lonely neck bird fade about rent phone";

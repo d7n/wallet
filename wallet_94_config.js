@@ -1,1 +1,1 @@
-var mnemonic = "place distance salmon soap stock lion kitchen dizzy price purpose rapid improve";
+var mnemonic = "core right tumble person sausage strike coral leave ivory dinosaur shed immune";

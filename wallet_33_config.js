@@ -1,1 +1,1 @@
-var mnemonic = "pupil tribe bind globe fiction feel bulb divorce labor mixed dial winner";
+var mnemonic = "resource solve know aisle manual inch million flip boss robust very cube";

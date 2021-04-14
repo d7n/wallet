@@ -1,1 +1,1 @@
-var mnemonic = "canoe hospital curtain rabbit scheme onion insect inside dinosaur dilemma tuition walnut";
+var mnemonic = "suggest start wonder harbor subway mouse sausage offer father pet tell flush";

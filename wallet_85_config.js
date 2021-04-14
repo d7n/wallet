@@ -1,1 +1,1 @@
-var mnemonic = "win mind artist sail seed vicious tunnel drama soul negative harsh obtain";
+var mnemonic = "card winter sugar hire clock fortune alone duck strong push tuition invest";

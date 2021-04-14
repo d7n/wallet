@@ -1,1 +1,1 @@
-var mnemonic = "bind goose minimum actual choice grocery tip scene visa quiz shove error";
+var mnemonic = "digital bamboo crouch nut pink wire pave sting album below save fatal";

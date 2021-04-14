@@ -1,1 +1,1 @@
-var mnemonic = "book twin arrow addict labor regular deliver manual mixed wine cricket brain";
+var mnemonic = "wrap grace fat reason coil account runway trade mind chimney dismiss episode";

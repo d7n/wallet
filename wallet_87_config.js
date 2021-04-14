@@ -1,1 +1,1 @@
-var mnemonic = "income ride poem rifle test ocean soup business junk seat dismiss hamster";
+var mnemonic = "brass swamp evil dutch desert wrist album dial sword draw desk salt";

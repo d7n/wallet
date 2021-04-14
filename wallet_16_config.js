@@ -1,1 +1,1 @@
-var mnemonic = "fall valid balcony horse pond tone wall diary random speed body joy";
+var mnemonic = "slam athlete clown anchor junk kid pudding rate away various barrel shock";

@@ -1,1 +1,1 @@
-var mnemonic = "life paddle rug will habit govern cook twist sick absurd blame escape";
+var mnemonic = "zone short hawk tornado crack affair happy announce poet subway silly swift";

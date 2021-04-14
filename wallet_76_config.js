@@ -1,1 +1,1 @@
-var mnemonic = "coral trophy where pilot coil arrest kite series squirrel honey dry baby";
+var mnemonic = "kid ceiling inherit muffin toddler aspect kick spray local breeze tired october";

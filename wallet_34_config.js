@@ -1,1 +1,1 @@
-var mnemonic = "age body plunge nothing aspect script indoor donkey tortoise spoil always wrap";
+var mnemonic = "pear cat popular issue hollow jazz sock snap flight train invite broom";

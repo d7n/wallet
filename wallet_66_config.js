@@ -1,1 +1,1 @@
-var mnemonic = "exile electric charge scorpion disorder eager inform lunar ridge traffic unlock select";
+var mnemonic = "else view ankle stock alley floor radar debate staff eager multiply oppose";

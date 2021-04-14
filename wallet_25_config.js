@@ -1,1 +1,1 @@
-var mnemonic = "visa elephant wise find quality belt recycle outdoor ready ten sauce reform";
+var mnemonic = "wet tackle reason busy broom grocery cotton diesel question inner gather cricket";

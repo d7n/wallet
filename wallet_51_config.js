@@ -1,1 +1,1 @@
-var mnemonic = "marine hurdle airport onion dismiss burger situate south elbow mistake wreck near";
+var mnemonic = "try pilot slush inflict bounce organ cover armed wide runway result wrong";

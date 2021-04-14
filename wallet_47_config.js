@@ -1,1 +1,1 @@
-var mnemonic = "village jump foam spare bottom umbrella lazy hub maple confirm slam bicycle";
+var mnemonic = "there photo enter crater color sample ghost all crouch glove jump winner";

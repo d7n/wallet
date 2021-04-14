@@ -1,1 +1,1 @@
-var mnemonic = "melt upgrade vicious city duty various list rack collect unhappy ozone off";
+var mnemonic = "index casual pretty ice minor body shift ethics shove faith wealth height";

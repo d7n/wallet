@@ -1,1 +1,1 @@
-var mnemonic = "oxygen until vessel cool trip remind winner various glass width frozen demand";
+var mnemonic = "walk record ritual mango notice unknown palm surge together donkey happy lend";

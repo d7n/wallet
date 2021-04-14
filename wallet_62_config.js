@@ -1,1 +1,1 @@
-var mnemonic = "awful axis cattle small fetch hunt maid eager canal hub silver eager";
+var mnemonic = "bright tooth bar foot kit sock knee label dynamic guard brain play";

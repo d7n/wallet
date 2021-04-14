@@ -1,1 +1,1 @@
-var mnemonic = "cluster address satoshi girl pioneer galaxy meadow demand cereal thunder draw topple";
+var mnemonic = "soup fold before culture leg steel naive across ahead turkey tilt bind";

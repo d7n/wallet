@@ -1,1 +1,1 @@
-var mnemonic = "multiply guess trade equip coast omit farm cement then joy slot brother";
+var mnemonic = "inherit balcony debris identify limit chunk dial sudden angle supply salt mind";

@@ -1,1 +1,1 @@
-var mnemonic = "egg faculty plate action bundle clarify sword long bless thing hollow come";
+var mnemonic = "also grocery deny wire olive giraffe grain naive shop coffee relax wrong";

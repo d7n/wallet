@@ -1,1 +1,1 @@
-var mnemonic = "link journey desk orbit profit lake ski uphold asset bracket festival attack";
+var mnemonic = "range history essence expire repair venture piano oven scare option since color";

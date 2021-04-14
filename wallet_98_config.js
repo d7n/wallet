@@ -1,1 +1,1 @@
-var mnemonic = "tobacco electric south shuffle layer jeans web dolphin offer wash build envelope";
+var mnemonic = "desk scene prize puzzle river canyon eternal width relief story attract want";

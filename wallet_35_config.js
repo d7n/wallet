@@ -1,1 +1,1 @@
-var mnemonic = "strong wing day width expand morning vacant cradle enact guess swamp way";
+var mnemonic = "jungle only cabin have lazy uniform priority orchard hard census quick very";

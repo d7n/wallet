@@ -1,1 +1,1 @@
-var mnemonic = "muffin make usual plate author uncover spike promote manual reduce pilot critic";
+var mnemonic = "planet door toe fog main text lend farm south urge term put";

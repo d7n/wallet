@@ -1,1 +1,1 @@
-var mnemonic = "month letter salmon fossil enlist obvious click teach second omit book banner";
+var mnemonic = "actress leisure enjoy desert cake brass bright solar record still novel raven";

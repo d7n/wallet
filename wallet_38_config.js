@@ -1,1 +1,1 @@
-var mnemonic = "pill find cupboard humble wear exile tornado almost key busy silent expand";
+var mnemonic = "worry duty recall lift roast police cactus awake limb empty unlock what";

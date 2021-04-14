@@ -1,1 +1,1 @@
-var mnemonic = "empower notable fog blast cube clean purity burden rabbit detect broccoli enable";
+var mnemonic = "ahead novel column ghost crawl vivid hybrid convince true elevator deer nation";

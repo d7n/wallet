@@ -1,1 +1,1 @@
-var mnemonic = "steel outside ceiling mobile fix mom ahead basket swim tag canvas tragic";
+var mnemonic = "morning across midnight tennis ordinary miracle winter tiger air public habit stock";

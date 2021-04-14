@@ -1,1 +1,1 @@
-var mnemonic = "debris where pipe alarm knock ordinary crush decade fire alter merge pistol";
+var mnemonic = "better wonder detail general ugly balcony piece hold curious board state bonus";

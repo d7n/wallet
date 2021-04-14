@@ -1,1 +1,1 @@
-var mnemonic = "goose episode delay core meadow mad fetch bring bubble bind magic fortune";
+var mnemonic = "cherry battle tenant pulse fade banner castle farm modify come stone fabric";

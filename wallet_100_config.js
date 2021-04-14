@@ -1,1 +1,1 @@
-var mnemonic = "warfare oil harsh artwork hurry noble imitate occur shove ugly record mimic";
+var mnemonic = "bleak hurdle edge act rocket ancient version game pistol path antique exist";

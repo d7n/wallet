@@ -1,1 +1,1 @@
-var mnemonic = "palm decline impact kingdom install danger assault evoke trim clay luxury poet";
+var mnemonic = "ranch correct dignity focus mother awake slow shaft patient survey romance rifle";

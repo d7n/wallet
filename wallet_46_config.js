@@ -1,1 +1,1 @@
-var mnemonic = "unhappy clump leaf voice taste ethics grid license ready save cruise ridge";
+var mnemonic = "country hospital type chair pitch quick cool copper salmon business exact spatial";

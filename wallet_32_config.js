@@ -1,1 +1,1 @@
-var mnemonic = "tiny knife repair tonight sick token toward else radio survey flip excite";
+var mnemonic = "pioneer figure doctor matter video melt choose fetch display lady lesson ritual";

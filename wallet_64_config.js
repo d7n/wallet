@@ -1,1 +1,1 @@
-var mnemonic = "upset cancel shield mule love hair clay zero patient average image benefit";
+var mnemonic = "crush trumpet jungle veteran scorpion nest circle hamster name upon wisdom fashion";

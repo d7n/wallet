@@ -1,1 +1,1 @@
-var mnemonic = "now arm enemy sweet wagon gauge burden alter cake reflect endless cave";
+var mnemonic = "wolf light laundry december turtle long sugar bus special little input ring";

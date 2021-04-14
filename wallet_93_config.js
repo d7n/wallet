@@ -1,1 +1,1 @@
-var mnemonic = "huge arch orient curtain fade expand rescue margin bar include supply slice";
+var mnemonic = "genius betray jewel owner oyster reform favorite expect mule profit wait strong";

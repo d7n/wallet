@@ -1,1 +1,1 @@
-var mnemonic = "lounge tent spider ocean one only labor fly prefer panel absent select";
+var mnemonic = "reward bright rent easy oval bulk tackle blouse inherit pride horse place";

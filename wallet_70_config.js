@@ -1,1 +1,1 @@
-var mnemonic = "village health cage anchor vivid file near apple reunion combine answer chase";
+var mnemonic = "online confirm toss virus park affair moment blossom frog cricket ice bus";

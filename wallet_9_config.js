@@ -1,1 +1,1 @@
-var mnemonic = "genuine frequent cactus desert credit mind mutual chunk crane luggage cliff south";
+var mnemonic = "come hover strong year brush pass denial digital thumb present galaxy idea";

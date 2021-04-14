@@ -1,1 +1,1 @@
-var mnemonic = "nut shoulder rebuild either need tumble polar cricket flock agree salon floor";
+var mnemonic = "person muscle thing ocean dizzy wash year inspire act moral mention edge";

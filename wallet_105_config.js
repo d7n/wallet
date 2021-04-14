@@ -1,1 +1,1 @@
-var mnemonic = "ill pony response master come circle acquire sample switch warm exercise female";
+var mnemonic = "lumber media relax scatter actor elite glad space spread piano ecology lottery";

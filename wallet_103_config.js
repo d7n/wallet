@@ -1,1 +1,1 @@
-var mnemonic = "essay liberty mystery pen april track erode captain bubble vacuum food tank";
+var mnemonic = "puppy bundle once like wild found pink silver charge peace unit pudding";

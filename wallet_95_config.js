@@ -1,1 +1,1 @@
-var mnemonic = "obtain answer desert amazing drastic tumble figure luxury planet age country report";
+var mnemonic = "explain bridge boring foil east wave pave ice parade dwarf talent park";

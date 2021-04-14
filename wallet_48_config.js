@@ -1,1 +1,1 @@
-var mnemonic = "hockey obscure way fiber used tool region practice cost border must chimney";
+var mnemonic = "attend ten ten stock stable pulp erase eyebrow party depend venture inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "craft say stairs vintage immense unlock pause snack tilt rack motor loud";
+var mnemonic = "lava fossil nice project deposit spend wise all symptom police hammer laugh";

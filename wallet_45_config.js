@@ -1,1 +1,1 @@
-var mnemonic = "task afford arrange bounce dish taxi magic coyote museum erase ketchup wide";
+var mnemonic = "poem rubber sound comfort bone behave scheme fly climb salt student enact";

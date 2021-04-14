@@ -1,1 +1,1 @@
-var mnemonic = "boat argue elder shift limit field cigar wear juice online join chimney";
+var mnemonic = "vote fly shiver brown game camera vocal dumb amateur trip gaze ginger";

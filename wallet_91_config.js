@@ -1,1 +1,1 @@
-var mnemonic = "develop blossom struggle improve frost book install moon morning number repeat grow";
+var mnemonic = "combine cram abandon pig athlete certain reason hour brain trophy goddess that";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty flee figure federal west subject sentence rifle firm rival advance genuine";
+var mnemonic = "version sock salmon smoke comfort end filter guitar oven legend poet mobile";

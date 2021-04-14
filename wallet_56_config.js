@@ -1,1 +1,1 @@
-var mnemonic = "health tool feed middle question coach embark model color bird concert awful";
+var mnemonic = "figure prison dune garden high height receive reveal recall intact suspect error";

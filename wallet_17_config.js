@@ -1,1 +1,1 @@
-var mnemonic = "razor until bless parade town frame find cage abandon height drink forest";
+var mnemonic = "mouse dawn column dismiss frog baby speed youth divide jaguar subject victory";

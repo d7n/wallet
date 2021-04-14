@@ -1,1 +1,1 @@
-var mnemonic = "actor twin wash bar pupil hope include stable educate quiz pelican employ";
+var mnemonic = "napkin alone work child lecture couch puzzle biology obtain cannon robust mirror";

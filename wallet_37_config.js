@@ -1,1 +1,1 @@
-var mnemonic = "claim sea sugar minute effort vanish torch purse trash life mule misery";
+var mnemonic = "face shell there glow pizza bullet apple poem student that various portion";

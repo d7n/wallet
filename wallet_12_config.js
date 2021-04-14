@@ -1,1 +1,1 @@
-var mnemonic = "ozone display problem hungry head entry cotton lens beauty salmon mean avoid";
+var mnemonic = "dwarf grace afraid cover slender staff someone emerge inspire regular donor scissors";

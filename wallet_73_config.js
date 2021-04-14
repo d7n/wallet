@@ -1,1 +1,1 @@
-var mnemonic = "fluid ankle swap indoor demise drama sustain middle law ten panther physical";
+var mnemonic = "empty connect suit increase link inform stamp cart pigeon flash amazing depend";

@@ -1,1 +1,1 @@
-var mnemonic = "expose hedgehog amount proud blind brother jump hire edit citizen travel floor";
+var mnemonic = "eternal wealth half suit umbrella survey demise rent tray scissors law potato";

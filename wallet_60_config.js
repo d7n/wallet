@@ -1,1 +1,1 @@
-var mnemonic = "banana august purchase evil fit term reject cable shield victory stomach goddess";
+var mnemonic = "cattle execute trumpet person tent oppose chalk spoil faint differ scrap miracle";

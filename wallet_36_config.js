@@ -1,1 +1,1 @@
-var mnemonic = "electric warm interest across theme effort word series cotton door region behave";
+var mnemonic = "tonight feature connect electric hedgehog ask thrive alien fortune toward nephew leopard";

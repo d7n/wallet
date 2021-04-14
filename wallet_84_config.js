@@ -1,1 +1,1 @@
-var mnemonic = "pet panther invite dial oven hold day you tennis coil survey hat";
+var mnemonic = "spice trust just donate elite congress hidden sick clay disorder talent army";

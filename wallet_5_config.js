@@ -1,1 +1,1 @@
-var mnemonic = "attitude wrap guitar address celery gather crop elephant ice produce city auction";
+var mnemonic = "sugar post excuse figure hurt coast camera flock coffee convince funny comic";

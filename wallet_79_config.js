@@ -1,1 +1,1 @@
-var mnemonic = "sphere word flight gym brief fancy dose divide great rate sick buzz";
+var mnemonic = "vendor render shuffle sponsor tourist noble offer very strong join couple female";

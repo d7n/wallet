@@ -1,1 +1,1 @@
-var mnemonic = "finger exist sadness firm enemy elite barely purchase expect slam what jaguar";
+var mnemonic = "brief brush miracle bridge eye long success venture turtle tattoo uphold ozone";

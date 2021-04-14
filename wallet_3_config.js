@@ -1,1 +1,1 @@
-var mnemonic = "phrase brick good hill invest page sun tip industry shine view allow";
+var mnemonic = "service work differ broom tired situate best fun own slice slot useful";

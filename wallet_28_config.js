@@ -1,1 +1,1 @@
-var mnemonic = "success ride print bulk thumb oyster submit random dolphin author renew fly";
+var mnemonic = "shoulder eight repair vacuum youth pact increase sudden educate refuse another salute";

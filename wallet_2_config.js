@@ -1,1 +1,1 @@
-var mnemonic = "pipe rotate insect super job rookie cry brand letter year oil dignity";
+var mnemonic = "unaware paddle twin exercise violin earth fashion clock cupboard tree razor world";

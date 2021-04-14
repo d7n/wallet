@@ -1,1 +1,1 @@
-var mnemonic = "copper force vehicle anchor basket guard employ cat provide style gift stock";
+var mnemonic = "oyster surge play identify program cancel peasant net team scrap base display";

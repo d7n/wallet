@@ -1,1 +1,1 @@
-var mnemonic = "lunar endless pledge tiger chief pledge cloud cactus dress crop infant leaf";
+var mnemonic = "ask grunt tonight west mango cannon wink crater any fault tip panther";

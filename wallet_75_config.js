@@ -1,1 +1,1 @@
-var mnemonic = "fun era paper lecture cherry warm dune below apology ethics miss clip";
+var mnemonic = "dizzy mutual coach genuine kick zero husband man midnight stick brain spoon";

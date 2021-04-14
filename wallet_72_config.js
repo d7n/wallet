@@ -1,1 +1,1 @@
-var mnemonic = "donkey fat success dinosaur coffee beyond tribe tilt oil replace situate chair";
+var mnemonic = "worry scorpion claim cotton bind poverty tennis usage seat oyster giant beyond";

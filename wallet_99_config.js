@@ -1,1 +1,1 @@
-var mnemonic = "tell skill april tail erosion orchard wide universe camera blouse person expire";
+var mnemonic = "match jeans exercise engine claim top obtain business clog lumber unable shuffle";

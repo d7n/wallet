@@ -1,1 +1,1 @@
-var mnemonic = "truth project curtain upper hockey office stem occur catch father green yellow";
+var mnemonic = "feature wife fault file nasty spirit stock boost body thunder symptom chalk";
