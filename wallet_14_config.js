@@ -1,1 +1,1 @@
-var mnemonic = "clip ask bike sadness vote nature adjust topic tell effort heart raven";
+var mnemonic = "egg erode pet peanut float together slight example wrong vacuum blur stable";

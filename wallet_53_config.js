@@ -1,1 +1,1 @@
-var mnemonic = "planet door toe fog main text lend farm south urge term put";
+var mnemonic = "sing ivory churn language kid merge tray acid solve card vital tilt";

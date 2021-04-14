@@ -1,1 +1,1 @@
-var mnemonic = "service work differ broom tired situate best fun own slice slot useful";
+var mnemonic = "lock civil brand march flag fortune draft harsh sense team wild cup";

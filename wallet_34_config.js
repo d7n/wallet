@@ -1,1 +1,1 @@
-var mnemonic = "pear cat popular issue hollow jazz sock snap flight train invite broom";
+var mnemonic = "pause obtain polar issue raise damage swim switch chair release square beauty";

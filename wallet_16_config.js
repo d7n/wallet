@@ -1,1 +1,1 @@
-var mnemonic = "slam athlete clown anchor junk kid pudding rate away various barrel shock";
+var mnemonic = "victory sell rain render spoon glare market point present door modify song";

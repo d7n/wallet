@@ -1,1 +1,1 @@
-var mnemonic = "pioneer figure doctor matter video melt choose fetch display lady lesson ritual";
+var mnemonic = "question club item adjust sibling party woman despair defense emotion taxi moral";

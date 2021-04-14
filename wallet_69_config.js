@@ -1,1 +1,1 @@
-var mnemonic = "derive oxygen height digital quantum lonely neck bird fade about rent phone";
+var mnemonic = "install glance cattle pact foil quality source same empty worth inject priority";

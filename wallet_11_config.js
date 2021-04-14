@@ -1,1 +1,1 @@
-var mnemonic = "inherit balcony debris identify limit chunk dial sudden angle supply salt mind";
+var mnemonic = "promote robot warrior glass razor genius help owner excite occur birth tonight";

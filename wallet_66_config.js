@@ -1,1 +1,1 @@
-var mnemonic = "else view ankle stock alley floor radar debate staff eager multiply oppose";
+var mnemonic = "retreat doctor island neither horse valve ocean start sauce split apart weird";

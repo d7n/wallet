@@ -1,1 +1,1 @@
-var mnemonic = "puppy bundle once like wild found pink silver charge peace unit pudding";
+var mnemonic = "seek ranch elite eight aim almost hurdle gasp wheel exchange clown door";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd announce coral custom quick because situate region film kitchen record tribe";
+var mnemonic = "thought twelve alley surprise output unique duck aerobic hard toilet still pilot";

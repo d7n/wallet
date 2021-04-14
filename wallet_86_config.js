@@ -1,1 +1,1 @@
-var mnemonic = "lava humor have clinic abstract inherit prefer tree walnut clog pen develop";
+var mnemonic = "cool math mom pilot mimic knife tank snake situate buddy arrest urban";

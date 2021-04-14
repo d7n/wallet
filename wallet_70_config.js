@@ -1,1 +1,1 @@
-var mnemonic = "online confirm toss virus park affair moment blossom frog cricket ice bus";
+var mnemonic = "street letter toss fence horse salmon youth habit end already infant envelope";

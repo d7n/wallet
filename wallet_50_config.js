@@ -1,1 +1,1 @@
-var mnemonic = "napkin alone work child lecture couch puzzle biology obtain cannon robust mirror";
+var mnemonic = "good embrace grant manual common gun vault forward host sad evidence grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit toward coyote danger major jealous tuna bright digital meadow chronic tonight";
+var mnemonic = "stuff diamond plunge barrel gentle grant shrimp earn describe toddler faint coast";

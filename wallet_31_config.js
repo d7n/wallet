@@ -1,1 +1,1 @@
-var mnemonic = "decline genius release weekend field source mistake hawk produce absorb dial bone";
+var mnemonic = "cement alley suit seminar dynamic slide crane beach false exotic mountain capable";

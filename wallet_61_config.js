@@ -1,1 +1,1 @@
-var mnemonic = "throw behave inch sort table derive inside maximum asset hen myth shaft";
+var mnemonic = "length problem loop abuse beach gorilla spin opinion chuckle industry lecture call";

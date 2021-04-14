@@ -1,1 +1,1 @@
-var mnemonic = "turn genuine table like vague shoulder three stay jeans demand canyon funny";
+var mnemonic = "choice chicken walk betray together such because hobby art sugar call law";

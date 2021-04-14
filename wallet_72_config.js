@@ -1,1 +1,1 @@
-var mnemonic = "worry scorpion claim cotton bind poverty tennis usage seat oyster giant beyond";
+var mnemonic = "kiwi shield width sample great night food round gorilla loud vicious peanut";

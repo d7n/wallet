@@ -1,1 +1,1 @@
-var mnemonic = "vote fly shiver brown game camera vocal dumb amateur trip gaze ginger";
+var mnemonic = "connect provide defense elegant august quarter cactus useful siren year organ ability";

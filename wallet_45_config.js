@@ -1,1 +1,1 @@
-var mnemonic = "poem rubber sound comfort bone behave scheme fly climb salt student enact";
+var mnemonic = "absurd act glance wolf own rapid dance tree current zebra record puzzle";

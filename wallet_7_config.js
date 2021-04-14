@@ -1,1 +1,1 @@
-var mnemonic = "better wonder detail general ugly balcony piece hold curious board state bonus";
+var mnemonic = "uncle diamond dash mom junior ocean emerge lady grass post violin among";

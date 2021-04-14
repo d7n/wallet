@@ -1,1 +1,1 @@
-var mnemonic = "brief brush miracle bridge eye long success venture turtle tattoo uphold ozone";
+var mnemonic = "brush space soldier acid tag region invite expose globe text match pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "wet tackle reason busy broom grocery cotton diesel question inner gather cricket";
+var mnemonic = "cupboard sail pioneer intact fish reject minute appear fiber fiscal sister sibling";

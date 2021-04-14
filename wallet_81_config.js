@@ -1,1 +1,1 @@
-var mnemonic = "balcony sun caught sleep supreme author excess powder thank wall helmet aunt";
+var mnemonic = "crop buzz cave employ prefer regret suggest exit hint nuclear more hedgehog";

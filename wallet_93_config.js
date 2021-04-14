@@ -1,1 +1,1 @@
-var mnemonic = "genius betray jewel owner oyster reform favorite expect mule profit wait strong";
+var mnemonic = "dirt void forward edge ticket pretty tilt learn van tooth quantum edge";

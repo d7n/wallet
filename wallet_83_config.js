@@ -1,1 +1,1 @@
-var mnemonic = "ahead novel column ghost crawl vivid hybrid convince true elevator deer nation";
+var mnemonic = "marriage grow pipe brain ancient build nothing sure slush frown similar song";

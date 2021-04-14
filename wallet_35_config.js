@@ -1,1 +1,1 @@
-var mnemonic = "jungle only cabin have lazy uniform priority orchard hard census quick very";
+var mnemonic = "yellow defy apology flash one coach arrange pass now story hidden clay";

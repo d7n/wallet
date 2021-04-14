@@ -1,1 +1,1 @@
-var mnemonic = "version sock salmon smoke comfort end filter guitar oven legend poet mobile";
+var mnemonic = "public tower aunt festival child exercise travel dog boat unit million recipe";

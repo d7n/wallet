@@ -1,1 +1,1 @@
-var mnemonic = "digital bamboo crouch nut pink wire pave sting album below save fatal";
+var mnemonic = "entry cannon island loop avoid lounge clip mystery pause lock lottery sister";

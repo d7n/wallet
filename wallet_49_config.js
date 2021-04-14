@@ -1,1 +1,1 @@
-var mnemonic = "ask grunt tonight west mango cannon wink crater any fault tip panther";
+var mnemonic = "ahead prison laugh version peanut ranch worth eagle symbol almost gym notice";

@@ -1,1 +1,1 @@
-var mnemonic = "come hover strong year brush pass denial digital thumb present galaxy idea";
+var mnemonic = "grape broken lounge cycle about claw diesel truth demand item write decline";

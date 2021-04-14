@@ -1,1 +1,1 @@
-var mnemonic = "spice trust just donate elite congress hidden sick clay disorder talent army";
+var mnemonic = "provide club ozone grief furnace peanut crop acquire lonely leisure fluid fault";

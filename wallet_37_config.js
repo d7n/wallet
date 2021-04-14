@@ -1,1 +1,1 @@
-var mnemonic = "face shell there glow pizza bullet apple poem student that various portion";
+var mnemonic = "enjoy acid virtual mammal sure sample trick hole wet two tape someone";

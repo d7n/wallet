@@ -1,1 +1,1 @@
-var mnemonic = "kid ceiling inherit muffin toddler aspect kick spray local breeze tired october";
+var mnemonic = "museum limit nature sense first century fruit round lawsuit curtain vocal crop";

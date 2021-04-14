@@ -1,1 +1,1 @@
-var mnemonic = "float gallery truth company cactus search matrix uncover shoulder elegant reunion episode";
+var mnemonic = "auto feature modify blast flush will kidney direct flower swim galaxy tent";

@@ -1,1 +1,1 @@
-var mnemonic = "zone short hawk tornado crack affair happy announce poet subway silly swift";
+var mnemonic = "elephant sample glare judge endless slice broken void describe wool cattle trap";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor render shuffle sponsor tourist noble offer very strong join couple female";
+var mnemonic = "better process tone either poem law aisle offer feature neck spare repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy mutual coach genuine kick zero husband man midnight stick brain spoon";
+var mnemonic = "member typical shrimp pipe wall kick dawn patient shock hover practice avoid";

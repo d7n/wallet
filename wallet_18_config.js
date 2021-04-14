@@ -1,1 +1,1 @@
-var mnemonic = "dizzy act vicious catch dune smart concert space convince liquid secret ask";
+var mnemonic = "exercise voyage treat parade one bottom upon economy wash turn until crack";

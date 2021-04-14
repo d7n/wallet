@@ -1,1 +1,1 @@
-var mnemonic = "attend ten ten stock stable pulp erase eyebrow party depend venture inherit";
+var mnemonic = "jeans decrease sketch rich shift can wreck final secret theme again behave";

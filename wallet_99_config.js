@@ -1,1 +1,1 @@
-var mnemonic = "match jeans exercise engine claim top obtain business clog lumber unable shuffle";
+var mnemonic = "moment toast refuse save armor sad velvet hamster recycle era patch antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha term zoo ancient enroll element innocent wedding guard episode ordinary track";
+var mnemonic = "pigeon recipe hour rebel flat hold home dismiss shoe smart habit involve";

@@ -1,1 +1,1 @@
-var mnemonic = "worry duty recall lift roast police cactus awake limb empty unlock what";
+var mnemonic = "need theme guide common vacuum write tray decorate current talk federal cloud";

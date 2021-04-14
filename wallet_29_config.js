@@ -1,1 +1,1 @@
-var mnemonic = "wolf light laundry december turtle long sugar bus special little input ring";
+var mnemonic = "close clinic joy jacket cart bone message eternal among fix sing since";

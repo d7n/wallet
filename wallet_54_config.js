@@ -1,1 +1,1 @@
-var mnemonic = "lava fossil nice project deposit spend wise all symptom police hammer laugh";
+var mnemonic = "surprise sea one rival oval shell latin hover regular wagon warrior gentle";

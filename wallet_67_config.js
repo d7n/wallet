@@ -1,1 +1,1 @@
-var mnemonic = "actress leisure enjoy desert cake brass bright solar record still novel raven";
+var mnemonic = "prevent unique unlock random main bless neither topic health limit garden toast";

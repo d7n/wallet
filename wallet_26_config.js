@@ -1,1 +1,1 @@
-var mnemonic = "cost shaft noble visual myself forum throw lift sport imitate wink ostrich";
+var mnemonic = "long bar soap bulk also march spice process town chat deal hour";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder eight repair vacuum youth pact increase sudden educate refuse another salute";
+var mnemonic = "uphold disorder dune win dad kangaroo flower stamp three misery tribe name";

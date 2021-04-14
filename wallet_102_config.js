@@ -1,1 +1,1 @@
-var mnemonic = "spike anxiety wise hobby talent grit renew nominee guard toilet fan trash";
+var mnemonic = "shallow rigid ozone ankle day bonus mansion brass brisk either agree exit";

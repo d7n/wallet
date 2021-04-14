@@ -1,1 +1,1 @@
-var mnemonic = "country hospital type chair pitch quick cool copper salmon business exact spatial";
+var mnemonic = "word later wisdom riot jewel remain grass capital resource ship year ski";

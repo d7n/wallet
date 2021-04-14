@@ -1,1 +1,1 @@
-var mnemonic = "mouse dawn column dismiss frog baby speed youth divide jaguar subject victory";
+var mnemonic = "shoot saddle team smooth drive adapt deliver cook banana royal height enact";

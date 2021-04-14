@@ -1,1 +1,1 @@
-var mnemonic = "ranch correct dignity focus mother awake slow shaft patient survey romance rifle";
+var mnemonic = "steel explain tribe hover test under remove enrich panda dignity mystery scorpion";

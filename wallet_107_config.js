@@ -1,1 +1,1 @@
-var mnemonic = "extend embrace property pony shield detail culture material mind shell perfect enforce";
+var mnemonic = "dirt account shock similar reunion unveil until evoke drink wall yellow shield";

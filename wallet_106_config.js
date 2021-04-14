@@ -1,1 +1,1 @@
-var mnemonic = "tide sick mad belt category naive insane leave jar grace crash wave";
+var mnemonic = "spin erase jelly seek raw dance glory stuff romance seed drama picnic";

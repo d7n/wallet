@@ -1,1 +1,1 @@
-var mnemonic = "learn town adjust cabin hair auto receive bullet horn degree grunt before";
+var mnemonic = "involve edge muscle earth fossil side middle tank diagram jewel fan legal";

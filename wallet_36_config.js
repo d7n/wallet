@@ -1,1 +1,1 @@
-var mnemonic = "tonight feature connect electric hedgehog ask thrive alien fortune toward nephew leopard";
+var mnemonic = "indicate tortoise avocado cargo bargain chunk develop bright text emotion wrist pyramid";

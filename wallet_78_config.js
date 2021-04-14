@@ -1,1 +1,1 @@
-var mnemonic = "body invite host wheat clump start original layer weekend erupt spell sun";
+var mnemonic = "damp keen churn rival stock teach unhappy sorry veteran carry east fever";

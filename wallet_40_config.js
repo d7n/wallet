@@ -1,1 +1,1 @@
-var mnemonic = "street volcano express over skill ecology iron message noise dignity problem favorite";
+var mnemonic = "earth novel burger entry force fresh purse sort almost endless paddle train";

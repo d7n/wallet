@@ -1,1 +1,1 @@
-var mnemonic = "bleak hurdle edge act rocket ancient version game pistol path antique exist";
+var mnemonic = "equal fatigue flavor joke leisure tobacco aim castle hard extend force surprise";

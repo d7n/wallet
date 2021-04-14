@@ -1,1 +1,1 @@
-var mnemonic = "sadness process write ceiling blush pitch month cost bid debris mixture purse";
+var mnemonic = "forget music clever sphere ten betray cool salmon woman near rescue north";

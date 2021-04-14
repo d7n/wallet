@@ -1,1 +1,1 @@
-var mnemonic = "range history essence expire repair venture piano oven scare option since color";
+var mnemonic = "audit isolate pumpkin derive boring level rough guard fiber immense sell drop";

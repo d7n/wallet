@@ -1,1 +1,1 @@
-var mnemonic = "lumber media relax scatter actor elite glad space spread piano ecology lottery";
+var mnemonic = "surround decade recall now height garment foil jeans sponsor section icon follow";

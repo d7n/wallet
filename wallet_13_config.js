@@ -1,1 +1,1 @@
-var mnemonic = "morning across midnight tennis ordinary miracle winter tiger air public habit stock";
+var mnemonic = "color glass model just occur tent deal observe divert service tenant model";

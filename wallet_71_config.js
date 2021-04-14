@@ -1,1 +1,1 @@
-var mnemonic = "approve receive letter coyote ordinary town afraid dial praise punch enjoy question";
+var mnemonic = "corn elite diet cereal cruise secret mechanic guitar account pyramid hip media";

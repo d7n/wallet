@@ -1,1 +1,1 @@
-var mnemonic = "card winter sugar hire clock fortune alone duck strong push tuition invest";
+var mnemonic = "razor twelve advice solid custom leisure member group guitar thing inject smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "combine cram abandon pig athlete certain reason hour brain trophy goddess that";
+var mnemonic = "rely merit harvest bunker minor design endorse sauce burden garden jealous unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "add master tray wreck october pool abstract fresh topple squirrel man prefer";
+var mnemonic = "silent march forum sport betray woman engage luxury brand tuition agent party";

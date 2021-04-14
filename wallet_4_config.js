@@ -1,1 +1,1 @@
-var mnemonic = "baby resemble achieve judge machine pelican clay donate same sauce million danger";
+var mnemonic = "food explain include universe mixed people stairs minimum motor ugly much stool";

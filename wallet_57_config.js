@@ -1,1 +1,1 @@
-var mnemonic = "update later square whale rail biology hard hour velvet inform mention actual";
+var mnemonic = "you priority next north milk base give olympic kick lemon prefer mimic";

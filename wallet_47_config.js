@@ -1,1 +1,1 @@
-var mnemonic = "there photo enter crater color sample ghost all crouch glove jump winner";
+var mnemonic = "shield rather jungle moral either arm ketchup finger expect arrange purpose key";

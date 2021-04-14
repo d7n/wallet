@@ -1,1 +1,1 @@
-var mnemonic = "measure napkin crane initial oyster long winner need program dumb glue velvet";
+var mnemonic = "clean scan crime pilot hair purity lamp perfect leaf bean girl blue";

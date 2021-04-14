@@ -1,1 +1,1 @@
-var mnemonic = "suggest start wonder harbor subway mouse sausage offer father pet tell flush";
+var mnemonic = "radar tennis smart girl frame train infant anger toward glimpse follow still";

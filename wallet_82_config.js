@@ -1,1 +1,1 @@
-var mnemonic = "rough broccoli hurdle dilemma joke sign play ivory tool fan grant father";
+var mnemonic = "daring wood soup pencil essay puppy dry fine prepare practice goat glue";

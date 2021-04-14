@@ -1,1 +1,1 @@
-var mnemonic = "cherry battle tenant pulse fade banner castle farm modify come stone fabric";
+var mnemonic = "seminar blush athlete noodle label subject palm plunge upper else yellow miracle";

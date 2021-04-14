@@ -1,1 +1,1 @@
-var mnemonic = "crush trumpet jungle veteran scorpion nest circle hamster name upon wisdom fashion";
+var mnemonic = "pill orient inherit hundred myself bunker innocent gallery shuffle artist blanket acoustic";

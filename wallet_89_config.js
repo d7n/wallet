@@ -1,1 +1,1 @@
-var mnemonic = "wrap grace fat reason coil account runway trade mind chimney dismiss episode";
+var mnemonic = "omit outside blue tongue jacket belt deposit behind wolf autumn expire drum";

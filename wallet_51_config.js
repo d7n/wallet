@@ -1,1 +1,1 @@
-var mnemonic = "try pilot slush inflict bounce organ cover armed wide runway result wrong";
+var mnemonic = "pencil live remain decrease nephew maximum usage possible suffer opera toward practice";

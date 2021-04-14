@@ -1,1 +1,1 @@
-var mnemonic = "empty connect suit increase link inform stamp cart pigeon flash amazing depend";
+var mnemonic = "electric turkey amateur budget absurd hold zone rival curve few punch diet";

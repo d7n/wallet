@@ -1,1 +1,1 @@
-var mnemonic = "chief brush milk police wet first price bring eye original roof glove";
+var mnemonic = "rude undo shadow false output elegant reveal brown hat rug oak surge";

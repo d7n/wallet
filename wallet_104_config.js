@@ -1,1 +1,1 @@
-var mnemonic = "envelope problem math glass bike bird try slush wide artefact jewel silly";
+var mnemonic = "next wink remember knife super grunt glad maid blush fun miracle pause";

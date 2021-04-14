@@ -1,1 +1,1 @@
-var mnemonic = "dwarf grace afraid cover slender staff someone emerge inspire regular donor scissors";
+var mnemonic = "story rural input boil movie toast march movie inherit swim rail useful";

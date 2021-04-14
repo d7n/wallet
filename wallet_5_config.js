@@ -1,1 +1,1 @@
-var mnemonic = "sugar post excuse figure hurt coast camera flock coffee convince funny comic";
+var mnemonic = "field ask decrease phrase intact idea dial reason combine urge merry photo";

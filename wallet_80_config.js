@@ -1,1 +1,1 @@
-var mnemonic = "feature wife fault file nasty spirit stock boost body thunder symptom chalk";
+var mnemonic = "grain lesson identify piece salad barrel else nest punch hockey increase joy";

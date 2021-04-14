@@ -1,1 +1,1 @@
-var mnemonic = "reward bright rent easy oval bulk tackle blouse inherit pride horse place";
+var mnemonic = "person treat device place type resemble catalog save ride couple option pave";

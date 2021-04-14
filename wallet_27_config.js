@@ -1,1 +1,1 @@
-var mnemonic = "walk record ritual mango notice unknown palm surge together donkey happy lend";
+var mnemonic = "warfare asthma pledge merit universe cigar emerge shy drum reward excess alert";

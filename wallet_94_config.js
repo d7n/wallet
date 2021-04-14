@@ -1,1 +1,1 @@
-var mnemonic = "core right tumble person sausage strike coral leave ivory dinosaur shed immune";
+var mnemonic = "cradle engage science accident buddy card cloth warfare work gadget embody under";

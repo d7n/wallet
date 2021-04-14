@@ -1,1 +1,1 @@
-var mnemonic = "resource solve know aisle manual inch million flip boss robust very cube";
+var mnemonic = "extend wink fish celery gown drip enter palace bread soap spot theme";

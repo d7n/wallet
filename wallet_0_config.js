@@ -1,1 +1,1 @@
-var mnemonic = "index casual pretty ice minor body shift ethics shove faith wealth height";
+var mnemonic = "stay twin fan trouble barely fresh protect problem law exchange raw deer";

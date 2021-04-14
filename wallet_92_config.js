@@ -1,1 +1,1 @@
-var mnemonic = "also grocery deny wire olive giraffe grain naive shop coffee relax wrong";
+var mnemonic = "shoulder pony gate need tortoise onion breeze noodle panel laundry tent culture";

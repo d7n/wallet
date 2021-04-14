@@ -1,1 +1,1 @@
-var mnemonic = "desk scene prize puzzle river canyon eternal width relief story attract want";
+var mnemonic = "steel ugly helmet fortune detail length trash pizza air erode struggle mix";
