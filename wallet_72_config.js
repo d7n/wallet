@@ -1,1 +1,1 @@
-var mnemonic = "entire situate usage medal alley canal spoil kick crop few address apology";
+var mnemonic = "tip hazard put vanish film hunt pencil sword soda repair stage pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "example dentist depend canvas vacant organ unique item alien above father round";
+var mnemonic = "august discover twist planet subway paper asset can bus dizzy decline insect";

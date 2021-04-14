@@ -1,1 +1,1 @@
-var mnemonic = "involve heart loop elephant lift flee report hurdle injury uncover winner minimum";
+var mnemonic = "scrub scrub purchase robot profit drill flavor move panda boss prepare home";

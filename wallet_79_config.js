@@ -1,1 +1,1 @@
-var mnemonic = "hurt disagree mandate oppose talk blouse easily virus seed federal nerve enough";
+var mnemonic = "south ask select submit soft design prefer icon ship author crisp tube";

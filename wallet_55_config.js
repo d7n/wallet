@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit act chest unhappy boat travel develop intact vague budget fantasy fine";
+var mnemonic = "clip enhance reason photo glad vibrant kite learn economy maximum lawsuit eight";

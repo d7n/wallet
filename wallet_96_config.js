@@ -1,1 +1,1 @@
-var mnemonic = "marine winner wrong jeans broken upon enough cushion lady vital inflict chase";
+var mnemonic = "exist myth mention adapt doctor easily thought puppy capable pioneer rail edge";

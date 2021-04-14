@@ -1,1 +1,1 @@
-var mnemonic = "question crumble hazard gate protect boy chimney flat faculty dolphin inch loyal";
+var mnemonic = "surprise bright wagon cricket poem kite false sea minor twelve input lion";

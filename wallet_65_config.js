@@ -1,1 +1,1 @@
-var mnemonic = "benefit traffic labor tunnel tomato sauce bike december erosion sound first age";
+var mnemonic = "endless nice prosper wagon hour pizza fuel stairs attack ripple asthma step";

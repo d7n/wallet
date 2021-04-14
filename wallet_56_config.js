@@ -1,1 +1,1 @@
-var mnemonic = "inch swift fall amount elevator wisdom denial rally agree artefact warm inhale";
+var mnemonic = "point large blouse tiger buyer dove timber fine define dismiss upgrade worry";

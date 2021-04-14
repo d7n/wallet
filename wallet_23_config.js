@@ -1,1 +1,1 @@
-var mnemonic = "upgrade basket race enact one video guess picture tree code laptop confirm";
+var mnemonic = "already patch engine stone chair sing impact beef jar anchor require wish";

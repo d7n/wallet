@@ -1,1 +1,1 @@
-var mnemonic = "cricket embrace urge mistake civil unhappy icon salute kitten eyebrow omit fringe";
+var mnemonic = "unit inflict globe shift manual cousin skate then slow goddess swear eager";

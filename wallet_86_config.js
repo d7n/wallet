@@ -1,1 +1,1 @@
-var mnemonic = "fly cause resist hole december senior fit master derive hip organ false";
+var mnemonic = "town open person feed imitate caught miracle curtain slice various arch portion";

@@ -1,1 +1,1 @@
-var mnemonic = "cart fiber fiction coast peanut door pond address crush dutch hire unable";
+var mnemonic = "gown sort chapter retire canoe shine enhance exchange sight detail wild just";

@@ -1,1 +1,1 @@
-var mnemonic = "badge sunset retire cupboard during disagree atom relax real enlist census tool";
+var mnemonic = "enjoy awful ill exist marble before riot media fantasy mosquito glue issue";

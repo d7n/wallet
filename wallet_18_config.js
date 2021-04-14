@@ -1,1 +1,1 @@
-var mnemonic = "like extend void trouble half honey uncle join penalty walk city control";
+var mnemonic = "educate mad dinner genius beauty key sad also base pony hurt elbow";

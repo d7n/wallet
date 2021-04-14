@@ -1,1 +1,1 @@
-var mnemonic = "fish burden amused history cute audit visit vocal seven unfold banana tree";
+var mnemonic = "omit buyer trumpet leisure thumb duty provide light post force riot require";

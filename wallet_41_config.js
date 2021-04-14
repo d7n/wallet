@@ -1,1 +1,1 @@
-var mnemonic = "dust outdoor sight laugh shoe resemble cigar lady negative doctor easily razor";
+var mnemonic = "satoshi planet exist lottery forum genre silent gorilla patient rabbit famous distance";

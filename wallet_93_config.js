@@ -1,1 +1,1 @@
-var mnemonic = "tongue erupt label trip crouch tape peace unfair horse veteran uphold hundred";
+var mnemonic = "check guide tattoo oblige history knock legal choose assault often expose unique";

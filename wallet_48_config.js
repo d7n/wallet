@@ -1,1 +1,1 @@
-var mnemonic = "marriage rich act march rib exhaust danger earn track cotton fly father";
+var mnemonic = "enemy about better spoon knife nasty clinic bridge million primary profit mimic";

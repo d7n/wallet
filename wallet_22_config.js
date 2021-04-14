@@ -1,1 +1,1 @@
-var mnemonic = "pretty wink hand hidden unknown there total amused sweet weather gasp brick";
+var mnemonic = "split glare access dream borrow crush lesson cup box fault next dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "parent april trend flame apology mandate venue crater check olympic truth thumb";
+var mnemonic = "sword broken outdoor region april black soft tattoo tone pull game metal";

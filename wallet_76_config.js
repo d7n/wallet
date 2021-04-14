@@ -1,1 +1,1 @@
-var mnemonic = "flavor web elbow visa dry release salt clump depth blade winner moment";
+var mnemonic = "acid average pull also close ghost achieve opinion visual runway mesh surround";

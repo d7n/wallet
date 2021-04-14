@@ -1,1 +1,1 @@
-var mnemonic = "frost cat trend action found once nest sentence push polar phone fashion";
+var mnemonic = "cloth drip lend pigeon spare year february domain ahead tent script autumn";

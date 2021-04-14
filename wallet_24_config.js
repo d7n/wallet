@@ -1,1 +1,1 @@
-var mnemonic = "tourist candy agree wealth ring expose abandon siren capable display misery toddler";
+var mnemonic = "mule large leaf spring snap account yard session steak add snap depend";

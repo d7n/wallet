@@ -1,1 +1,1 @@
-var mnemonic = "cat thank scout siren swallow onion loan trim parrot foam junk grunt";
+var mnemonic = "light piece ecology ocean leaf wash jar staff glimpse evoke desk better";

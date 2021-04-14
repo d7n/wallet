@@ -1,1 +1,1 @@
-var mnemonic = "clerk rhythm maximum true pistol chief popular casual liberty anxiety width debate";
+var mnemonic = "huge rapid erode grape face knee hope cotton grief envelope extra poverty";

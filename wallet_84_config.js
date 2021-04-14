@@ -1,1 +1,1 @@
-var mnemonic = "carry fold camera sing push response never rapid cost odor clock shuffle";
+var mnemonic = "grocery tragic elephant ocean citizen genius juice soul favorite clerk robust hamster";

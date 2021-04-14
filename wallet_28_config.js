@@ -1,1 +1,1 @@
-var mnemonic = "fetch consider bargain omit pulse silver annual seek original surge avocado hip";
+var mnemonic = "similar weekend desk cereal trap spy damage submit six nerve primary neither";

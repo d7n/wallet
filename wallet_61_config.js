@@ -1,1 +1,1 @@
-var mnemonic = "moon drift essence walnut describe body ramp fatal already trial expose moon";
+var mnemonic = "world settle shiver story fence august injury inside parade myself square sauce";

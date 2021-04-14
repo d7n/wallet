@@ -1,1 +1,1 @@
-var mnemonic = "tissue mountain rookie increase toddler purchase soldier never usage vanish soap degree";
+var mnemonic = "farm surprise furnace cheese tag pretty person limb coin grunt orchard good";

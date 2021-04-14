@@ -1,1 +1,1 @@
-var mnemonic = "flight tackle mind more doctor couch sunny garlic know become body fox";
+var mnemonic = "polar garlic void amused predict column crawl ring nasty gasp ocean mistake";

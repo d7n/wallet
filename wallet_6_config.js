@@ -1,1 +1,1 @@
-var mnemonic = "garment pink update pioneer oxygen album trial vague bring tattoo beauty match";
+var mnemonic = "place design medal submit poverty enough oil one result stock lawsuit sign";

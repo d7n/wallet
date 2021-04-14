@@ -1,1 +1,1 @@
-var mnemonic = "sponsor differ series panther phone chicken wet absurd blue thunder virtual bonus";
+var mnemonic = "confirm above vault oak appear grocery hobby moment banner ritual next genre";

@@ -1,1 +1,1 @@
-var mnemonic = "raw fun list bleak receive vacant fit gold item essay creek shy";
+var mnemonic = "tuition frost champion rally engage green forum smile essence man mammal range";

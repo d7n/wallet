@@ -1,1 +1,1 @@
-var mnemonic = "vote skill matrix win naive tuna illness tube sick radar fox buffalo";
+var mnemonic = "lab winter warfare educate ribbon fringe real initial clutch purse people seed";

@@ -1,1 +1,1 @@
-var mnemonic = "stable mansion gauge timber multiply barrel immune object dawn rule mobile turtle";
+var mnemonic = "left before question time flavor domain country utility kid fetch ivory despair";

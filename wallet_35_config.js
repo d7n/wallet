@@ -1,1 +1,1 @@
-var mnemonic = "reopen toward mosquito almost walk profit neither fantasy scatter rail pass lend";
+var mnemonic = "cash step rabbit shell unveil blossom legal need pioneer beyond congress bulk";

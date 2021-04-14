@@ -1,1 +1,1 @@
-var mnemonic = "hard owner advance minute potato fame snack label fade arrive result jealous";
+var mnemonic = "riot company circle remain wealth drum next ordinary soul crowd pilot sudden";

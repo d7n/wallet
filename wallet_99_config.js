@@ -1,1 +1,1 @@
-var mnemonic = "cigar pioneer injury pumpkin tank hybrid brand raw father state mosquito dry";
+var mnemonic = "lazy try cash sand antenna assault exclude boat pair razor fiction athlete";

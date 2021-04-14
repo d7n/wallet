@@ -1,1 +1,1 @@
-var mnemonic = "patient october venue bus abuse patient speak ugly slight crew shrimp moment";
+var mnemonic = "supreme brisk cycle tomato abuse purity address memory donate divert actual clap";

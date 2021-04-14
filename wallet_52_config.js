@@ -1,1 +1,1 @@
-var mnemonic = "cycle supreme spray chase job lady again roast pulse mouse attract bleak";
+var mnemonic = "visa arena flock depart derive guitar shy extend sand drop twice parent";

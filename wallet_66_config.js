@@ -1,1 +1,1 @@
-var mnemonic = "proud venue public actor ketchup safe rubber used repeat useful ceiling cube";
+var mnemonic = "bottom expose attend silent elephant hundred they scorpion hope easily island twist";

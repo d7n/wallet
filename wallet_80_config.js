@@ -1,1 +1,1 @@
-var mnemonic = "brand gentle guilt always enroll search paper divorce dinner close embody december";
+var mnemonic = "protect duck key marble charge fatigue weird oval elevator also pioneer kind";

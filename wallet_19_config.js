@@ -1,1 +1,1 @@
-var mnemonic = "green main mirror wear lab annual repeat engage vacuum hammer jungle crucial";
+var mnemonic = "catalog giraffe swallow eager marble border drift turtle distance steak fruit afraid";

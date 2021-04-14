@@ -1,1 +1,1 @@
-var mnemonic = "system add cloud mouse differ body pool liquid reward plastic control zebra";
+var mnemonic = "laundry slide clay seed uncover only drill win fall across arm stumble";

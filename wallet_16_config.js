@@ -1,1 +1,1 @@
-var mnemonic = "around steak search message human hill ivory stone hobby traffic summer cabin";
+var mnemonic = "girl injury kid symbol stairs piece oyster attend pause blur upgrade suggest";

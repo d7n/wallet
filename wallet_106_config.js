@@ -1,1 +1,1 @@
-var mnemonic = "butter gospel lamp stable scan save chimney ten cushion bid lava gravity";
+var mnemonic = "tail oak judge debris final ride oblige december shoot account hour leave";

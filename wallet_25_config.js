@@ -1,1 +1,1 @@
-var mnemonic = "glance special aim manual eager stairs original circle corn violin wool supply";
+var mnemonic = "ill popular siren leave belt type ethics put accuse order flower deer";

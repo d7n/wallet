@@ -1,1 +1,1 @@
-var mnemonic = "skull token hawk stone menu squeeze assist magic legal cage they network";
+var mnemonic = "error rubber any caution sport tattoo exit retire throw almost ivory lazy";

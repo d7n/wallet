@@ -1,1 +1,1 @@
-var mnemonic = "add afraid student network canvas moon accuse fringe call paper student mad";
+var mnemonic = "slice average lesson goat keep gallery broom position interest leg fossil pause";

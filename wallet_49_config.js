@@ -1,1 +1,1 @@
-var mnemonic = "consider stairs brother phone whale section unable blanket notice bunker custom foster";
+var mnemonic = "fun quote thought laptop deny mosquito lake galaxy manage faculty trade park";

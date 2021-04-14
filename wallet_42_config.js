@@ -1,1 +1,1 @@
-var mnemonic = "analyst neutral humble vivid voice giraffe guilt napkin naive oyster alpha enforce";
+var mnemonic = "front kiss sugar shrimp happy bachelor essay harbor fortune bitter awkward sponsor";

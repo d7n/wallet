@@ -1,1 +1,1 @@
-var mnemonic = "spell play announce bread blush stem shed laundry repair exact art acquire";
+var mnemonic = "key fashion float good debris inform elbow have chat quiz person fiction";

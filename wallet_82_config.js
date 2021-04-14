@@ -1,1 +1,1 @@
-var mnemonic = "nose monitor genuine collect ripple math wool year planet power injury valve";
+var mnemonic = "lizard later giggle you spell news sibling certain hold pelican there begin";

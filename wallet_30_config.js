@@ -1,1 +1,1 @@
-var mnemonic = "option vintage filter guide arena enter thunder alpha quit panda say output";
+var mnemonic = "inhale hair winner aware syrup solar news divide immune swallow lizard blur";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk quantum stick scrap bike again purity puppy swift roof glow moment";
+var mnemonic = "defy glance move question winner local vacuum clerk lounge pottery blind scan";

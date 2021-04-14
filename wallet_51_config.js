@@ -1,1 +1,1 @@
-var mnemonic = "found vintage rival cook always vivid season wool raise island primary real";
+var mnemonic = "confirm plate general retreat confirm decade decorate peace tide mechanic inform twelve";

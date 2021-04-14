@@ -1,1 +1,1 @@
-var mnemonic = "kidney orange wonder toss medal tongue chunk sound bid junk extra style";
+var mnemonic = "leg valley injury biology choice estate anxiety staff drip random peanut cupboard";

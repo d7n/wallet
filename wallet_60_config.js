@@ -1,1 +1,1 @@
-var mnemonic = "elbow rescue stay wait join choice valid rug bicycle moral hello urge";
+var mnemonic = "imitate bright raccoon monkey pool chat tilt road print income share grape";

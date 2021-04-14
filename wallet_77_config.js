@@ -1,1 +1,1 @@
-var mnemonic = "volcano rose know fork cargo twist dolphin kite battle rely unknown exotic";
+var mnemonic = "wedding author group pretty strong fatigue office cram wave rotate capital soldier";

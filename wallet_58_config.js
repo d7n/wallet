@@ -1,1 +1,1 @@
-var mnemonic = "layer conduct purpose valley march stone debate radio limit illegal merge bread";
+var mnemonic = "pumpkin venture security space cradle bubble hunt century false mask awesome tide";

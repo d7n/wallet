@@ -1,1 +1,1 @@
-var mnemonic = "fossil nurse like report unlock dream tell radar clip suggest cruise sword";
+var mnemonic = "cruise surround stereo allow use flash bamboo labor axis stand distance artefact";

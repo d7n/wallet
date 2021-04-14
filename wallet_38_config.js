@@ -1,1 +1,1 @@
-var mnemonic = "daughter arena yard fabric weapon feed curtain fame render blood gospel obvious";
+var mnemonic = "patient upgrade any scrub deny sell reunion orient lunch like shoe feature";

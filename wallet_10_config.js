@@ -1,1 +1,1 @@
-var mnemonic = "glass disorder depart cigar require planet direct better off cat margin strong";
+var mnemonic = "entire cinnamon fiscal snake decade alert crucial derive buzz cigar stamp such";

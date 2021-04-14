@@ -1,1 +1,1 @@
-var mnemonic = "youth punch smart empty cook smile please acquire spawn claim arrange level";
+var mnemonic = "aware syrup saddle bicycle regular render case try theme tonight glad primary";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker fit pulp erosion furnace broken midnight furnace course embark enough decline";
+var mnemonic = "offer east nuclear thumb winter over indoor canal december harbor sudden monitor";

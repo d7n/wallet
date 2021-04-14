@@ -1,1 +1,1 @@
-var mnemonic = "dismiss flock quarter carbon cancel exotic eager forest tongue scene weapon series";
+var mnemonic = "extend daring place drink lawsuit fog grow bring sad keen common prepare";

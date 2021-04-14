@@ -1,1 +1,1 @@
-var mnemonic = "drill pear melt master target adapt audit match staff goat earn brass";
+var mnemonic = "stomach blossom okay mansion monster visit attend gentle talk burst observe decade";

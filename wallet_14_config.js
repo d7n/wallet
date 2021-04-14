@@ -1,1 +1,1 @@
-var mnemonic = "dolphin ignore diet deposit helmet welcome lift mom book federal punch tattoo";
+var mnemonic = "grunt fiber copy shoulder duty eyebrow brand muffin cherry pen bench pyramid";

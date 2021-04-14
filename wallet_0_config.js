@@ -1,1 +1,1 @@
-var mnemonic = "venture normal tell library express enough tower trim talk clarify kiwi loud";
+var mnemonic = "abandon asset note depend split neither lady filter about anchor expire paddle";

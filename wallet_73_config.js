@@ -1,1 +1,1 @@
-var mnemonic = "remind lawsuit wage assume square tree shy ramp glove arrest amount dress";
+var mnemonic = "color copper document mention squeeze slim knife drip diesel flip save lobster";

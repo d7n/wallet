@@ -1,1 +1,1 @@
-var mnemonic = "submit arrest slot yellow clock box mushroom circle paddle impose reunion ship";
+var mnemonic = "hedgehog reopen will outdoor attack tone question number style drive inner sing";

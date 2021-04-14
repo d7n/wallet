@@ -1,1 +1,1 @@
-var mnemonic = "phone chef mistake absorb hurdle globe oxygen grass source transfer goddess ice";
+var mnemonic = "kitchen hood frame often bunker shed armor siren undo soft pistol hero";

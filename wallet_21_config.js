@@ -1,1 +1,1 @@
-var mnemonic = "brain attack gauge surprise trip fabric divorce regular sword until knife cattle";
+var mnemonic = "middle call involve uncover agree sun era better wild question tank traffic";

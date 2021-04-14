@@ -1,1 +1,1 @@
-var mnemonic = "flush buffalo hen resemble fatal uniform recycle fitness cupboard leaf illness life";
+var mnemonic = "mammal filter farm destroy accident couple lizard tragic attend enter cancel foster";

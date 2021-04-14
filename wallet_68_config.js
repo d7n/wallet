@@ -1,1 +1,1 @@
-var mnemonic = "strike trade drastic blade win clarify update easy phrase happy grunt change";
+var mnemonic = "bless cancel omit arena into drop author lawsuit wonder wool video minor";

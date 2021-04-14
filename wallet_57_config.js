@@ -1,1 +1,1 @@
-var mnemonic = "impact desk during acid trend crazy betray slight siren film slush tuition";
+var mnemonic = "toe imitate local weekend siren flame point online become rifle episode trigger";

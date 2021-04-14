@@ -1,1 +1,1 @@
-var mnemonic = "ancient slender sail attend ten enemy alley fashion okay toy expect curtain";
+var mnemonic = "chapter winter bar say quote field hidden glow beef donkey cluster forest";

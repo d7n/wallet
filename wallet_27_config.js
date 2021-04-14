@@ -1,1 +1,1 @@
-var mnemonic = "loop index area stadium afraid upper reflect soft amazing blood indoor pioneer";
+var mnemonic = "clown enlist erupt athlete canal cricket wash add waste struggle virtual frog";

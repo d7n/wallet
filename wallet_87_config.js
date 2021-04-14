@@ -1,1 +1,1 @@
-var mnemonic = "promote exercise nuclear drive question dumb apple spatial elbow bright urge update";
+var mnemonic = "outer build choose height chunk object dish board bird river frost razor";

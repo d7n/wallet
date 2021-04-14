@@ -1,1 +1,1 @@
-var mnemonic = "proof mirror you chef picture reason cousin check beef acquire video region";
+var mnemonic = "hidden system bounce magnet apology cradle inch orient crunch theory angry cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "about melody old crack rain busy scene glare pyramid hollow manual upon";
+var mnemonic = "useful alien mind height birth flame strategy total stay rival chuckle catalog";

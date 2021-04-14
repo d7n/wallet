@@ -1,1 +1,1 @@
-var mnemonic = "eye bid task ecology disease sport treat video fat muscle nice exhaust";
+var mnemonic = "able easy endorse decade act yellow trouble buffalo exit gun print wall";

@@ -1,1 +1,1 @@
-var mnemonic = "fee hat pact oyster such until lunar manual lady boy bleak health";
+var mnemonic = "matrix art artist clinic toward episode pony capital memory neck main only";
