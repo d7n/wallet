@@ -1,1 +1,1 @@
-var mnemonic = "rhythm motor step emotion time sweet advice baby cage divide shrimp hollow";
+var mnemonic = "kind blind seven between energy master exhaust tone rally reveal west seek";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud wise glow hero mom festival lawn inflict announce chief six pole";
+var mnemonic = "guard anger turn tuna dove right tower matrix rhythm flavor shuffle shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "tag finger setup popular breeze chair gallery remove useful accident hood exchange";
+var mnemonic = "outer monitor hurt jealous glance anger cannon wall thought under argue wait";

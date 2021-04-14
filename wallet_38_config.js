@@ -1,1 +1,1 @@
-var mnemonic = "motor actual pride fire vehicle maid cloth enemy curve orchard dinner camp";
+var mnemonic = "gloom stadium army humor cream entry gravity profit stone analyst suffer spice";

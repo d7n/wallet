@@ -1,1 +1,1 @@
-var mnemonic = "pelican library patrol more drum garbage treat soap subject size thunder hour";
+var mnemonic = "edit impact apology airport mansion lake weekend summer hand safe play project";

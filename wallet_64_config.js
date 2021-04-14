@@ -1,1 +1,1 @@
-var mnemonic = "example book giant photo cinnamon fiber treat wheat put talent innocent chair";
+var mnemonic = "legal humble push pyramid inherit attract cattle special ten young kidney jump";

@@ -1,1 +1,1 @@
-var mnemonic = "essence bind glad leave rebuild original bounce junior deliver blame adapt average";
+var mnemonic = "liberty cereal summer smooth original fence globe weird panel answer flower cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "trim omit broken ride snap collect capital cute file design stick pass";
+var mnemonic = "sure nasty fatal fly truly shop push pony baby average excess wash";

@@ -1,1 +1,1 @@
-var mnemonic = "ice bubble glide climb march object what title muffin various bronze until";
+var mnemonic = "lady blouse canvas quote reason whip guide alien ring live lion expand";

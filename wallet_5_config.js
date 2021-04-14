@@ -1,1 +1,1 @@
-var mnemonic = "home frost behave gadget tool guitar canvas comfort key siren focus winter";
+var mnemonic = "token bounce life oyster turtle police sphere section surprise turn brick list";

@@ -1,1 +1,1 @@
-var mnemonic = "long refuse wait whip lawsuit print risk able hammer shed remind wife";
+var mnemonic = "dial gravity eight month traffic green victory picnic soap bike ritual canal";

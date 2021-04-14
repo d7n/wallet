@@ -1,1 +1,1 @@
-var mnemonic = "define replace prison off improve joy physical school nest group crush later";
+var mnemonic = "stand clip surge street mention wave will gun sibling wife fork rough";

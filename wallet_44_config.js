@@ -1,1 +1,1 @@
-var mnemonic = "sing throw inside asthma artist wise strong slice fancy solid stereo secret";
+var mnemonic = "smoke elbow fame trip robot urban choice pony expire goose squeeze action";

@@ -1,1 +1,1 @@
-var mnemonic = "radio steel entry over snow machine theory ill goat hybrid gauge coyote";
+var mnemonic = "weird sun proof fall endless master title average skate auction leopard stamp";

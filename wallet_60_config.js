@@ -1,1 +1,1 @@
-var mnemonic = "never tribe enrich dizzy question ocean tooth all march private voyage lucky";
+var mnemonic = "logic useful avocado gravity group cousin powder square source cushion bottom cover";

@@ -1,1 +1,1 @@
-var mnemonic = "left render fire genius twice extra climb morning regret ecology grant resource";
+var mnemonic = "abstract bone shove mail firm today often inhale river promote blanket twelve";

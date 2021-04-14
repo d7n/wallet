@@ -1,1 +1,1 @@
-var mnemonic = "cage hurt clutch april join crush junk spatial demise sail bench elevator";
+var mnemonic = "similar balance arena august yellow blue purity parent ribbon dwarf female mouse";

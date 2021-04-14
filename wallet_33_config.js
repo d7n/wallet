@@ -1,1 +1,1 @@
-var mnemonic = "nasty noble dizzy truck program grocery public program pupil enrich wait illness";
+var mnemonic = "admit reveal electric grief cattle ordinary remain patient ribbon decorate depth artist";

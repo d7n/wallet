@@ -1,1 +1,1 @@
-var mnemonic = "universe pudding art blur aerobic indoor adult session bright seed head regular";
+var mnemonic = "lesson clever please ketchup come update process edge forum barrel uniform spoil";

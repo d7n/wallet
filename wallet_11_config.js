@@ -1,1 +1,1 @@
-var mnemonic = "help pudding cabbage brisk flight dad liquid symbol hedgehog then bomb join";
+var mnemonic = "topple weasel foil sketch opinion connect blade van lazy misery video ignore";

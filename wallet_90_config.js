@@ -1,1 +1,1 @@
-var mnemonic = "priority citizen gorilla term rose idea hungry below confirm rack inflict couch";
+var mnemonic = "rack glove camera seminar major dune promote ability cabin tribe stock problem";

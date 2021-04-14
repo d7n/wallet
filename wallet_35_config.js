@@ -1,1 +1,1 @@
-var mnemonic = "juice squeeze innocent because gossip pigeon gas wealth banana slogan lobster mosquito";
+var mnemonic = "rhythm around car check analyst donor deputy tide immune unhappy puzzle lucky";

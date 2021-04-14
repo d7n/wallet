@@ -1,1 +1,1 @@
-var mnemonic = "modify lawn option guide bundle ritual morning slice suggest distance gift song";
+var mnemonic = "enter option laptop random enlist leader spy carry someone twin always proud";

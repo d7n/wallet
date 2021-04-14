@@ -1,1 +1,1 @@
-var mnemonic = "citizen prefer link polar gadget gun lawsuit fold exit trophy knock fan";
+var mnemonic = "gown require afford dance hamster gather vague almost firm pool simple permit";

@@ -1,1 +1,1 @@
-var mnemonic = "expand have junk grant carpet oyster sweet engine verify increase moral olive";
+var mnemonic = "skate bind figure area total cage target trouble ring allow truly help";

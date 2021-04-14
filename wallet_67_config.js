@@ -1,1 +1,1 @@
-var mnemonic = "huge action summer horror pioneer meadow rebuild catalog stuff wink legend obvious";
+var mnemonic = "exercise ritual imitate describe other raw table choice swift surface punch fan";

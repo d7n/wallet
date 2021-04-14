@@ -1,1 +1,1 @@
-var mnemonic = "intact task disagree unit humble wine dolphin tank slogan cricket caution mesh";
+var mnemonic = "acoustic hedgehog fox open silk toward cinnamon wonder achieve kid hill express";

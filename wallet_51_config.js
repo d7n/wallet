@@ -1,1 +1,1 @@
-var mnemonic = "intact dawn video public acoustic elite claw before globe uncover fiscal race";
+var mnemonic = "visual fun sample fabric length system meadow suffer circle stamp reunion merit";

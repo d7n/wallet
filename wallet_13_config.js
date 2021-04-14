@@ -1,1 +1,1 @@
-var mnemonic = "target jeans daring decade place frozen sunny proof item decrease jacket side";
+var mnemonic = "lab file differ travel favorite link prison catch shift burst gallery typical";

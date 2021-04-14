@@ -1,1 +1,1 @@
-var mnemonic = "duty mom arena net clutch lava beef six type churn broccoli song";
+var mnemonic = "theory anchor minimum retire retreat enjoy snow panel athlete report odor broom";

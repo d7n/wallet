@@ -1,1 +1,1 @@
-var mnemonic = "net nest soup lock trial finish awful chef anchor awesome sea arrive";
+var mnemonic = "discover confirm hat course iron define mule orchard travel dwarf ordinary bridge";

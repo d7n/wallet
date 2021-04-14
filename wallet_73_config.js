@@ -1,1 +1,1 @@
-var mnemonic = "vault rice ten peace lumber mad elegant clip recycle quiz neither knock";
+var mnemonic = "gossip airport ribbon useful cattle second top tilt fish access tip donkey";

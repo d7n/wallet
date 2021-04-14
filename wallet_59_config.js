@@ -1,1 +1,1 @@
-var mnemonic = "never lobster pilot crash disease prevent cluster step soul source post silk";
+var mnemonic = "mosquito fire fault phone doll manage small shed vault judge run swear";

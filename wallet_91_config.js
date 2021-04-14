@@ -1,1 +1,1 @@
-var mnemonic = "path spatial foot lady axis prefer strategy park ten pull mind pulp";
+var mnemonic = "health proud lumber update better patch erosion area cluster sad woman flag";

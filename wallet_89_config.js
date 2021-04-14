@@ -1,1 +1,1 @@
-var mnemonic = "purse usual cake novel quarter husband game harvest rather ancient sea angle";
+var mnemonic = "swear hold hub lab way muscle imitate rent pen label column praise";

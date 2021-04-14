@@ -1,1 +1,1 @@
-var mnemonic = "mean brick this pond scatter script fold witness truck hammer hub student";
+var mnemonic = "tomato shallow vicious tilt team wreck primary decade potato state betray canal";

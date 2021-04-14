@@ -1,1 +1,1 @@
-var mnemonic = "case awake indicate stove segment code stamp wolf morning drill copper keep";
+var mnemonic = "various clay rally pepper image smoke permit travel kidney almost people bronze";

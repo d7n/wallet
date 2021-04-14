@@ -1,1 +1,1 @@
-var mnemonic = "olympic ten equal salad cannon lake witness mobile table lens find heavy";
+var mnemonic = "artist clown dragon faculty voyage nuclear egg soap receive indoor bomb portion";

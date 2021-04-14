@@ -1,1 +1,1 @@
-var mnemonic = "apart quit load dry minute flash chunk venue parent quarter time wisdom";
+var mnemonic = "lend pair fork open click control air trophy garment camera seminar excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal tomato wool below token word position void only raven category copper";
+var mnemonic = "card hockey rookie before never lock wild across glass foot fitness stool";

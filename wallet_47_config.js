@@ -1,1 +1,1 @@
-var mnemonic = "crouch floor vote net topple plate mom absurd garden caught cactus poverty";
+var mnemonic = "supreme arrange payment response junk sound maze steak public north diamond van";

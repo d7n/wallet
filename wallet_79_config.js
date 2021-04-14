@@ -1,1 +1,1 @@
-var mnemonic = "cool turn jump labor laundry labor survey connect ready young struggle consider";
+var mnemonic = "another chase banner point license shy diary return join update sea fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "island voyage nice album school tunnel gain gossip capital drive axis flash";
+var mnemonic = "rebel luxury trumpet patch crater fetch angry immense loop stuff pigeon injury";

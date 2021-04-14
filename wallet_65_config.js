@@ -1,1 +1,1 @@
-var mnemonic = "strike excite update drastic bottom better title great merge dial kick wage";
+var mnemonic = "box rose walk void certain pelican symbol worry foot zero vacuum flee";

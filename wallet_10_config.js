@@ -1,1 +1,1 @@
-var mnemonic = "shaft sail auto identify silver planet muffin sheriff amount thing earn chase";
+var mnemonic = "sick runway couch famous label table flee unlock cradle town split dust";

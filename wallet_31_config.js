@@ -1,1 +1,1 @@
-var mnemonic = "physical lamp dumb song estate turn bracket talk roof fever door until";
+var mnemonic = "iron culture object uphold grant basket birth goat junior end wrestle hard";

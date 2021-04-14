@@ -1,1 +1,1 @@
-var mnemonic = "recall subject level curtain input predict dismiss argue mechanic evidence birth attack";
+var mnemonic = "tape place seed crystal scissors eyebrow spoon real boat rebel lazy office";

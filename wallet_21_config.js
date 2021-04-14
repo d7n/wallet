@@ -1,1 +1,1 @@
-var mnemonic = "adjust bridge solve maze when monkey energy shift math motor below spawn";
+var mnemonic = "arm whale pluck attend analyst step foil anxiety cradle concert bring regular";

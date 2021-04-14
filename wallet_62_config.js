@@ -1,1 +1,1 @@
-var mnemonic = "strike dad reflect myth spy rubber suit field crush venue prepare tuna";
+var mnemonic = "survey pupil life fragile cherry toss demise leopard leader agent turn suggest";

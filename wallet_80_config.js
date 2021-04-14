@@ -1,1 +1,1 @@
-var mnemonic = "palm danger acquire install provide mountain fashion job kidney own act tool";
+var mnemonic = "volume couple jewel enter math black festival story divert flower gate matrix";

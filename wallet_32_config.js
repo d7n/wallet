@@ -1,1 +1,1 @@
-var mnemonic = "ring uphold again theory item dial cram spice suit this metal camera";
+var mnemonic = "debris elite include theory autumn coral novel youth mechanic move awful nuclear";

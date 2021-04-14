@@ -1,1 +1,1 @@
-var mnemonic = "allow right tape office goddess biology bubble cram relax solve human pause";
+var mnemonic = "weird spike tackle salad loan boring divide arctic urge test oblige merry";

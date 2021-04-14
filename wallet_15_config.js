@@ -1,1 +1,1 @@
-var mnemonic = "tray uncle wedding picnic eyebrow unaware umbrella awesome surprise shoot pelican cool";
+var mnemonic = "atom material faculty market frog kangaroo harvest calm bubble subject fee polar";

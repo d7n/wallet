@@ -1,1 +1,1 @@
-var mnemonic = "betray indicate panther mistake ring volcano lounge argue above rich remove ride";
+var mnemonic = "movie rice column biology loan cactus man fortune surround donate stem husband";

@@ -1,1 +1,1 @@
-var mnemonic = "gym boat size gasp huge toward ankle swamp aspect bitter enforce grunt";
+var mnemonic = "polar spell essay tail duty bracket pupil few topple popular impose blanket";

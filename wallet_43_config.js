@@ -1,1 +1,1 @@
-var mnemonic = "false dutch vacant govern insect shoe concert dish beach shaft ceiling tattoo";
+var mnemonic = "aspect ancient pitch safe inmate lunar repair echo ill tomato track bullet";

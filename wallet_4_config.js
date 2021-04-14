@@ -1,1 +1,1 @@
-var mnemonic = "tip mom coach become subway gift awake gentle connect ginger tuition video";
+var mnemonic = "hold clip sign mean there choice chair then airport into bone daring";

@@ -1,1 +1,1 @@
-var mnemonic = "equal budget gorilla bubble gate opinion hobby fat grab melt boost develop";
+var mnemonic = "canvas tomorrow accident guide mask cream put ecology primary burst busy zone";

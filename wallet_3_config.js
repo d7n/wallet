@@ -1,1 +1,1 @@
-var mnemonic = "weapon include mansion list pepper example asset fuel scout finish oppose merge";
+var mnemonic = "oxygen taste future dish salute artefact mention people pig train guitar argue";

@@ -1,1 +1,1 @@
-var mnemonic = "differ film choice benefit screen riot know weird will that twist divorce";
+var mnemonic = "faculty want draw city search husband topple album fabric craft judge motor";

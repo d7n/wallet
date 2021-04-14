@@ -1,1 +1,1 @@
-var mnemonic = "episode barrel recall rescue wasp hip purse pelican keep improve razor spatial";
+var mnemonic = "space promote pair final mass avocado gossip absurd canvas gesture leader name";

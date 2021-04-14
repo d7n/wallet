@@ -1,1 +1,1 @@
-var mnemonic = "arrest dress today just smoke regret brown route quarter utility lawn sphere";
+var mnemonic = "cradle cup exotic ritual invest oven rally celery later parrot clap reopen";

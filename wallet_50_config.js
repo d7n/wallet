@@ -1,1 +1,1 @@
-var mnemonic = "honey else oil effort sudden swim letter gift sad bounce swallow inquiry";
+var mnemonic = "aunt example remember need suffer opinion goat process embark detect auction fun";

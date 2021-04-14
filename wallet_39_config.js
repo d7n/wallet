@@ -1,1 +1,1 @@
-var mnemonic = "present domain devote abuse tube liberty december favorite eyebrow confirm neck swim";
+var mnemonic = "deposit pen thumb armor brain half check enemy omit delay dilemma piece";

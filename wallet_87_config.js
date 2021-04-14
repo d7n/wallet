@@ -1,1 +1,1 @@
-var mnemonic = "describe shed brother wall bring office merge odor afraid enable wood vast";
+var mnemonic = "avoid acoustic inhale orange person future slogan inhale blame giraffe will cattle";

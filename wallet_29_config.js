@@ -1,1 +1,1 @@
-var mnemonic = "year guess spoil reason rail chapter twenty portion proof plunge injury august";
+var mnemonic = "fold buyer online piano poem hurt caution powder universe bubble angle digital";

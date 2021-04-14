@@ -1,1 +1,1 @@
-var mnemonic = "match type faculty unit describe police drum minute lift better street pottery";
+var mnemonic = "cabin sick note budget that manual ship glare trouble grunt loud can";

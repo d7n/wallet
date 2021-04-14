@@ -1,1 +1,1 @@
-var mnemonic = "crouch fit entire crater tree rhythm salute owner lady mandate demand insect";
+var mnemonic = "profit enter excuse major rack chair divide connect mixed rapid someone life";

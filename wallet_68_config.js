@@ -1,1 +1,1 @@
-var mnemonic = "naive ridge exercise adjust various manage announce any across farm vivid guilt";
+var mnemonic = "safe father patch extend boil ranch talent ski vacuum visual affair film";

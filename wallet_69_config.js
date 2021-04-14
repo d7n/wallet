@@ -1,1 +1,1 @@
-var mnemonic = "student dry enroll tape beach near level various aim what swamp final";
+var mnemonic = "tobacco bounce evolve grunt teach warrior boy fish virus manage hope brand";

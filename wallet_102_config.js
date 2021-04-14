@@ -1,1 +1,1 @@
-var mnemonic = "rib dice inject window slam exhibit bomb dawn siren echo occur steel";
+var mnemonic = "assist feel route else later season funny leaf matter either often gift";

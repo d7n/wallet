@@ -1,1 +1,1 @@
-var mnemonic = "random apology comic fury clap fit moment thunder pulp noodle turkey cry";
+var mnemonic = "unit novel minor sport salad panic idle struggle sell breeze kiss head";

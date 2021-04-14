@@ -1,1 +1,1 @@
-var mnemonic = "rural core air essence hotel damp oak flavor lumber garage angle awesome";
+var mnemonic = "brush equal yellow trade pear panel kiss phone mirror wolf insane limit";

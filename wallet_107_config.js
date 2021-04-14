@@ -1,1 +1,1 @@
-var mnemonic = "way evil sure excuse belt shop doctor hedgehog bleak motion door voyage";
+var mnemonic = "receive outside pumpkin belt paper helmet model spy sentence fresh yard quality";

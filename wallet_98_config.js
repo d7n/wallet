@@ -1,1 +1,1 @@
-var mnemonic = "lyrics churn rural street stick skull melody develop hour midnight smoke embark";
+var mnemonic = "route earn error menu round artist sauce dog define shallow cloud wall";

@@ -1,1 +1,1 @@
-var mnemonic = "noise magnet scene smile such tool equal mobile album smart lamp venue";
+var mnemonic = "either concert crouch nasty cupboard endless endorse one grain nose wasp number";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate vivid climb rifle slam book camera invest seven give donkey stairs";
+var mnemonic = "bench raw blind twin suggest answer borrow short message poet glow myth";

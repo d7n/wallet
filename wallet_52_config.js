@@ -1,1 +1,1 @@
-var mnemonic = "kid life toe fix neither age century raise knife alarm camera diamond";
+var mnemonic = "reveal wasp exact escape fall sting early account tattoo face video clap";

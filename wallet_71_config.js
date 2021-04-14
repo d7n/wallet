@@ -1,1 +1,1 @@
-var mnemonic = "butter tornado spread era group action jazz oil group can real advice";
+var mnemonic = "memory town manual renew page hurry child vehicle bicycle pink force attract";

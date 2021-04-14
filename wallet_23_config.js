@@ -1,1 +1,1 @@
-var mnemonic = "window frame asset sound genuine sound local indoor crop drill exclude photo";
+var mnemonic = "fall screen call nominee behind shift wait enter dawn umbrella maze ordinary";

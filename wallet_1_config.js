@@ -1,1 +1,1 @@
-var mnemonic = "enter narrow image spirit since mirror survey impulse emotion shoe orbit cigar";
+var mnemonic = "heavy early fabric clutch year tower noise physical purity angle suffer duck";

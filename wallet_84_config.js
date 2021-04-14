@@ -1,1 +1,1 @@
-var mnemonic = "public damage volcano build illness happy cloud dose work code double fall";
+var mnemonic = "fold science reason earth regret vintage palace visit quantum waste steel crash";

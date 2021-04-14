@@ -1,1 +1,1 @@
-var mnemonic = "sort denial tooth monster forget happy thrive saddle bulb ask pigeon meadow";
+var mnemonic = "category oxygen melody menu minute size faint rotate time clever weekend bus";

@@ -1,1 +1,1 @@
-var mnemonic = "wink make maximum drink wolf true gloom cactus year grief require away";
+var mnemonic = "exit flash struggle frozen fatal kangaroo soldier ocean ship amateur bridge canyon";

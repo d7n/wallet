@@ -1,1 +1,1 @@
-var mnemonic = "apart face alcohol report physical circle sausage kick print initial work price";
+var mnemonic = "under exile again share expect before magic become joke list sound hidden";

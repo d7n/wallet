@@ -1,1 +1,1 @@
-var mnemonic = "wolf rude kite other guitar couch tackle glance jaguar jazz jacket venue";
+var mnemonic = "fault six crack interest record word pioneer wash pumpkin ozone web allow";

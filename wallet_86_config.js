@@ -1,1 +1,1 @@
-var mnemonic = "alter theory wrap obey know tape brand fever oxygen seven dizzy already";
+var mnemonic = "obtain deer source basic pretty buffalo height nest air risk invite fee";

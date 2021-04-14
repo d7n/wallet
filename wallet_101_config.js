@@ -1,1 +1,1 @@
-var mnemonic = "climb shiver call foil brief system hunt burst fish radar dish fabric";
+var mnemonic = "invest penalty melody cabbage bracket fashion glimpse music axis nose chalk frown";

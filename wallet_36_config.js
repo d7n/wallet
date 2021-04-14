@@ -1,1 +1,1 @@
-var mnemonic = "sniff dentist loud dumb abuse write pact electric bargain mammal hole drink";
+var mnemonic = "ranch skull merge melody stand draw unusual elite prefer clap erosion wink";

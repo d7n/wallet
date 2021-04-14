@@ -1,1 +1,1 @@
-var mnemonic = "hurt flush knee panic cool shove brisk couple pool gadget regret crucial";
+var mnemonic = "sock gown letter able arena rabbit become drum fame squirrel sell grow";

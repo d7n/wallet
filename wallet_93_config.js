@@ -1,1 +1,1 @@
-var mnemonic = "embody boil infant illegal bulk elevator obtain clump offer merry rigid detail";
+var mnemonic = "raw embrace spike sustain question work muffin wreck profit north brush ripple";
