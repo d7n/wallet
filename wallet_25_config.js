@@ -1,1 +1,1 @@
-var mnemonic = "fox sphere thank time catalog popular sing action hero cram great annual";
+var mnemonic = "total ahead two control canvas swift frown engine code section steel connect";

@@ -1,1 +1,1 @@
-var mnemonic = "table toddler thing dance easy mirror almost elder avoid acid blouse labor";
+var mnemonic = "expose announce upset wrist slide sick acid kite high language benefit goddess";

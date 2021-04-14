@@ -1,1 +1,1 @@
-var mnemonic = "cat mention neither business various addict junk exotic focus bottom original lab";
+var mnemonic = "loan cake absent mean glove bean steak jump around harbor script inject";

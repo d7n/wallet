@@ -1,1 +1,1 @@
-var mnemonic = "swear blouse situate pottery under debris shop donor lucky rude youth way";
+var mnemonic = "sugar rate pass pigeon junior shrimp retreat winter shaft custom excuse urban";

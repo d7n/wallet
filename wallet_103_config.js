@@ -1,1 +1,1 @@
-var mnemonic = "extra excite coach release advance arm flat seed that rent moon raise";
+var mnemonic = "wasp urban saddle thought file food minor senior figure burger panther assault";

@@ -1,1 +1,1 @@
-var mnemonic = "vital laptop dolphin exchange bean chicken disorder mouse asset damp board two";
+var mnemonic = "limit gain icon exile stick key ladder embody ring junk opinion flame";

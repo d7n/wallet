@@ -1,1 +1,1 @@
-var mnemonic = "save ring valid priority risk stand great tenant strike property bacon open";
+var mnemonic = "enemy local fluid name crop brick install lottery genius above fashion insane";

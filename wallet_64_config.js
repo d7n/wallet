@@ -1,1 +1,1 @@
-var mnemonic = "smart shoulder foil mention chimney garbage check year trip tooth theory seat";
+var mnemonic = "project gravity trial feature just clever false wolf two rapid worth mistake";

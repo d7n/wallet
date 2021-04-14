@@ -1,1 +1,1 @@
-var mnemonic = "fever absent host strike census ghost tilt below donate plastic point thumb";
+var mnemonic = "sudden uniform segment job stamp ivory goat minimum voyage admit fitness mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow broken farm myth visa civil limb member amazing humble alter recipe";
+var mnemonic = "surface mention junior latin antique reject neutral gate limb oppose angry drum";

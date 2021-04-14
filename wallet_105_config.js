@@ -1,1 +1,1 @@
-var mnemonic = "trend beach crumble afford eternal august valley auto oil loud market follow";
+var mnemonic = "parent daughter saddle income pig fiber bus glue learn diesel december dial";

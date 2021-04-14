@@ -1,1 +1,1 @@
-var mnemonic = "spin absorb mad traffic tortoise remember arctic nephew gather shove actual learn";
+var mnemonic = "debate desk glue harvest gather parade slab sister enhance lend moral inquiry";

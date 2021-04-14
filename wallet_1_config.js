@@ -1,1 +1,1 @@
-var mnemonic = "admit love mother lazy shrug stage rather pledge slide squeeze reject bus";
+var mnemonic = "genuine fine pyramid update twenty explain myth walnut predict ladder merge relief";

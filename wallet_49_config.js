@@ -1,1 +1,1 @@
-var mnemonic = "cloud subway tackle hybrid history toddler parrot climb lake sand hockey maple";
+var mnemonic = "draw frequent knife decorate note wheat fix clay afford vanish umbrella flight";

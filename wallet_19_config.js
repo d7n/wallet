@@ -1,1 +1,1 @@
-var mnemonic = "hello youth evidence someone shoot dilemma journey nothing salute episode ramp exercise";
+var mnemonic = "business enable wagon act flee usage forward rookie maximum mansion siege client";

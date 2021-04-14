@@ -1,1 +1,1 @@
-var mnemonic = "laugh latin letter gate pear proud culture illness buzz move faculty link";
+var mnemonic = "jump clutch oblige distance pipe open wonder tonight denial modify dune already";

@@ -1,1 +1,1 @@
-var mnemonic = "divide crouch aspect black garage stable gather cluster position recall hockey wood";
+var mnemonic = "bind reveal name motion giggle civil seat civil fall ethics submit near";

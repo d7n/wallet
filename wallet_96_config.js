@@ -1,1 +1,1 @@
-var mnemonic = "radar have bronze loan blood front peace couple tone exit delay ancient";
+var mnemonic = "crop camp century pen size lottery keen lawsuit broken eagle bronze segment";

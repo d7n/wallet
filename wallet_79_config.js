@@ -1,1 +1,1 @@
-var mnemonic = "galaxy recipe stairs vintage reduce grant aerobic subway slice rich barrel raccoon";
+var mnemonic = "wrist boss kidney ugly style harsh giant coral seek gym digital grunt";

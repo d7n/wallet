@@ -1,1 +1,1 @@
-var mnemonic = "purchase moral girl dirt quarter furnace common woman destroy real fit inhale";
+var mnemonic = "angry rebel cricket lecture time ten clutch mean jewel laundry misery license";

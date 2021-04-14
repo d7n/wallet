@@ -1,1 +1,1 @@
-var mnemonic = "elbow motor solar treat great similar gain powder amateur goat orbit ticket";
+var mnemonic = "absurd struggle master cattle cactus duck sing whip raccoon rabbit all divide";

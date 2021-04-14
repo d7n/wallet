@@ -1,1 +1,1 @@
-var mnemonic = "height cluster acid actress slide chicken reunion hammer discover unusual sweet creek";
+var mnemonic = "female develop genre oval drop child situate silent usual dismiss hobby nose";

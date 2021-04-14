@@ -1,1 +1,1 @@
-var mnemonic = "about venue captain fee salmon six forward illegal gas adult hamster grit";
+var mnemonic = "cloud dynamic gate gold snap hybrid evidence home pride stairs jungle wish";

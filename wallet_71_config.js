@@ -1,1 +1,1 @@
-var mnemonic = "hen beauty crouch decrease famous young auction weekend want upgrade next fork";
+var mnemonic = "behind adult clump cup panda destroy total autumn act jaguar solve post";

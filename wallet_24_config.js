@@ -1,1 +1,1 @@
-var mnemonic = "feature climb true nose dice impose stone announce limb main recipe crash";
+var mnemonic = "airport enjoy across broken caution item cloth engine fragile more limit remove";

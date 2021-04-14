@@ -1,1 +1,1 @@
-var mnemonic = "alter level inform portion often define resemble panda blush desk team vocal";
+var mnemonic = "pen execute spy random kid split palm chapter heart arctic dentist maid";

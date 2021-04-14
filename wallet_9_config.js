@@ -1,1 +1,1 @@
-var mnemonic = "board immense open outer example eager rib sting rail resemble daughter reason";
+var mnemonic = "tell crystal alone gravity elephant hand broom spare circle half there laptop";

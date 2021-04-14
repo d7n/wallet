@@ -1,1 +1,1 @@
-var mnemonic = "tomato viable decide oil glove wish lecture turkey prison inside another meadow";
+var mnemonic = "suggest youth acoustic expect afford talk helmet great memory property exercise rail";

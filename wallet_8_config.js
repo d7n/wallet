@@ -1,1 +1,1 @@
-var mnemonic = "mind illness give burst clean receive crack lawn alley rally coconut kid";
+var mnemonic = "expire bracket grid insane economy nation spray same chaos horse betray hint";

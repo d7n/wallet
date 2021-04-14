@@ -1,1 +1,1 @@
-var mnemonic = "claim reflect reopen test civil acquire local female person pen wool fever";
+var mnemonic = "much fiscal tumble ordinary crowd easy camp grief mango alien chase field";

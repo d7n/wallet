@@ -1,1 +1,1 @@
-var mnemonic = "year embrace envelope female cycle inform siren private skull book zebra cherry";
+var mnemonic = "powder hill interest glow concert lumber brief level west build battle vibrant";

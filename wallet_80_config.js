@@ -1,1 +1,1 @@
-var mnemonic = "trade tag much perfect orbit seed give device curtain shuffle air scout";
+var mnemonic = "renew beyond glow evidence wait crucial craft enrich equip ask stairs multiply";

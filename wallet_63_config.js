@@ -1,1 +1,1 @@
-var mnemonic = "choose axis erase unknown garage ketchup gesture sad absent paddle toss fancy";
+var mnemonic = "stick dragon elbow multiply goose color undo drink movie amateur gallery airport";

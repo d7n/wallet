@@ -1,1 +1,1 @@
-var mnemonic = "entry knock employ fire collect material usage naive sunset habit finish leisure";
+var mnemonic = "skull agree agree river dismiss reward glance puppy river venture average shoulder";

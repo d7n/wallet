@@ -1,1 +1,1 @@
-var mnemonic = "potato blast sniff wedding evolve fabric pet tackle auction note thing twist";
+var mnemonic = "siren few office mention chaos student field leisure system ramp social prepare";

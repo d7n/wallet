@@ -1,1 +1,1 @@
-var mnemonic = "tunnel teach benefit virtual open acid turkey cake walnut virtual grab destroy";
+var mnemonic = "sword mask young diagram horror sunset author shoulder liquid swing small payment";

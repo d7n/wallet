@@ -1,1 +1,1 @@
-var mnemonic = "choice play pair glare dignity valley hamster gold broom estate pudding power";
+var mnemonic = "process subway ability live spike impose obtain foster bid wine vessel page";

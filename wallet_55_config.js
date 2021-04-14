@@ -1,1 +1,1 @@
-var mnemonic = "return mammal raccoon across govern faint happy category sphere biology multiply shop";
+var mnemonic = "novel gospel rule cute rough connect jewel eager blade differ taste mobile";

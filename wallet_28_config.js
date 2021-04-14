@@ -1,1 +1,1 @@
-var mnemonic = "plastic quick entire inmate autumn liberty awkward opera rigid tissue such oppose";
+var mnemonic = "trouble goddess column predict quick night treat patrol steak impact typical fluid";

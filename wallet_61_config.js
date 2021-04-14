@@ -1,1 +1,1 @@
-var mnemonic = "select victory unhappy proud easy length when permit settle category rigid any";
+var mnemonic = "subway defy typical inside rail cabbage hurt swamp choice army jazz struggle";

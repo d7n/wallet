@@ -1,1 +1,1 @@
-var mnemonic = "razor above dry tornado fame glare sand again tray empty three frown";
+var mnemonic = "hover fashion noise entire chat witness hazard trigger popular artefact path parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "denial color gate fine patch bubble father arena hair shed sand soccer";
+var mnemonic = "wrong canyon pretty other hollow distance clown nerve tackle oven ivory never";

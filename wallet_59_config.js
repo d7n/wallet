@@ -1,1 +1,1 @@
-var mnemonic = "crater chaos glance mom patch fire matter father brave pink wage human";
+var mnemonic = "file castle misery reason net transfer adjust coyote fossil firm gift dismiss";

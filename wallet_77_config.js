@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit light symptom judge mutual stage shell atom police together bronze choice";
+var mnemonic = "swamp benefit frost panther minor obvious pulse front paper balance debris open";

@@ -1,1 +1,1 @@
-var mnemonic = "sting quit middle pill goose fish sell vague farm actress mountain flip";
+var mnemonic = "burst mango cluster rib arrive shallow style later suggest chuckle pear fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse range hold stem venue unfold sudden atom stem taxi input size";
+var mnemonic = "void output swallow cement toss into bachelor foster damp license balcony empower";

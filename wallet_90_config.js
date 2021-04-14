@@ -1,1 +1,1 @@
-var mnemonic = "chief claim hen raccoon cover drip possible medal crew catalog clerk winner";
+var mnemonic = "like arrange thought foot result elephant behave dwarf grunt clay mansion jewel";

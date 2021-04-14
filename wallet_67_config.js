@@ -1,1 +1,1 @@
-var mnemonic = "virtual stone viable cement track angry sell also apple exchange fine dog";
+var mnemonic = "reason fatigue bring agent discover foil buddy have fossil plunge flight fold";

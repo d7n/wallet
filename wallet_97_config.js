@@ -1,1 +1,1 @@
-var mnemonic = "funny diagram snow firm still silly pulse skirt task deliver rent damage";
+var mnemonic = "dust paddle bounce ginger group sport other filter asset latin vibrant easily";

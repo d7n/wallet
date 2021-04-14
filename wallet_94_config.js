@@ -1,1 +1,1 @@
-var mnemonic = "day donate bus inquiry rug twin mango limb fatal pride prepare net";
+var mnemonic = "spare birth remind bicycle hope refuse motor spin borrow business best hero";

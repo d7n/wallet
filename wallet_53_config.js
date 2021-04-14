@@ -1,1 +1,1 @@
-var mnemonic = "orient talent lock need guard reward property buffalo public panther delay door";
+var mnemonic = "detail shoe skin pluck rose concert suit bleak upset depart eager gate";

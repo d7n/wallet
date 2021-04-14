@@ -1,1 +1,1 @@
-var mnemonic = "tower pen basket banana employ unknown sting future radar fresh oyster hello";
+var mnemonic = "diesel snack miracle desk ship turtle kiss despair amazing label clip hair";

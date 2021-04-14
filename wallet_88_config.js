@@ -1,1 +1,1 @@
-var mnemonic = "six must spoil odor express trip easy asthma moment promote assault tragic";
+var mnemonic = "coast decade hidden soup birth squirrel elegant victory addict weasel lecture great";

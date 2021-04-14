@@ -1,1 +1,1 @@
-var mnemonic = "popular innocent ride pull budget vague crazy company caught primary question accident";
+var mnemonic = "forget match shrimp air kitchen shadow toast nest dumb curtain absorb direct";

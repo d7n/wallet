@@ -1,1 +1,1 @@
-var mnemonic = "token ozone pill globe decrease price able outside ill boss unknown labor";
+var mnemonic = "humor small bachelor engine lunar mechanic guitar glow tobacco soldier charge siege";

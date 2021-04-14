@@ -1,1 +1,1 @@
-var mnemonic = "best practice doctor heart practice detect air quarter alpha fee invest citizen";
+var mnemonic = "about actress cube wish sadness discover direct liar economy health margin swear";

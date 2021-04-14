@@ -1,1 +1,1 @@
-var mnemonic = "promote innocent drastic memory guess snack forward electric fit build adjust apart";
+var mnemonic = "stumble kiss diary siren frozen setup baby monster vendor used dial blood";

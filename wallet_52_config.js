@@ -1,1 +1,1 @@
-var mnemonic = "whale video simple speak stable juice steak liar myth token permit ritual";
+var mnemonic = "neither west rail then avoid equip pledge maple lens oven face family";

@@ -1,1 +1,1 @@
-var mnemonic = "aware worry sell assist degree melody blouse palace blanket forest claim fall";
+var mnemonic = "aware visual misery jacket movie mixed captain salmon rail ecology private armor";

@@ -1,1 +1,1 @@
-var mnemonic = "fury sock stairs duck planet subway lend escape real jump arctic diary";
+var mnemonic = "adult object usage pave connect bacon globe mask media vocal enemy prison";

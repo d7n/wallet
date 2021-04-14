@@ -1,1 +1,1 @@
-var mnemonic = "win health diet bicycle window ankle you mammal hat enjoy throw produce";
+var mnemonic = "system journey success climb dish canyon stay monitor learn usage where girl";

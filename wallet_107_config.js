@@ -1,1 +1,1 @@
-var mnemonic = "moral insane broom junk alarm wave surface flower adapt network bench fruit";
+var mnemonic = "pledge health merit tell airport present heart trust peasant arrow unveil believe";

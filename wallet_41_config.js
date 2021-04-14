@@ -1,1 +1,1 @@
-var mnemonic = "become burst theory develop half move wedding palm act erode key indoor";
+var mnemonic = "please shell movie true crew spice midnight witness village cry camera garage";

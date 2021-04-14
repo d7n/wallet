@@ -1,1 +1,1 @@
-var mnemonic = "spray spike follow culture accident emotion fortune wonder action essay charge siren";
+var mnemonic = "culture virus barrel ozone angle capable argue cruel odor cancel exotic sample";

@@ -1,1 +1,1 @@
-var mnemonic = "alley under globe various smart surface session surge economy present simple erase";
+var mnemonic = "goddess illness switch control siren toilet today awake turn remove forward enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle exclude divorce increase hidden expect pistol abandon thumb struggle into waste";
+var mnemonic = "mountain notable enact slab trend gesture slot fresh mom insect reopen length";

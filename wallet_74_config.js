@@ -1,1 +1,1 @@
-var mnemonic = "useless neutral use fancy chest long music stock clown horse inquiry situate";
+var mnemonic = "camera purity rebuild dilemma buddy minimum position cable limb jelly shoulder enemy";

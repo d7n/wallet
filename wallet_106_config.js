@@ -1,1 +1,1 @@
-var mnemonic = "finger penalty lounge worth shaft close source feel leave purse intact coach";
+var mnemonic = "orbit step wall enjoy addict exhaust dinosaur fatal render cherry august solve";

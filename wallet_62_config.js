@@ -1,1 +1,1 @@
-var mnemonic = "genius margin random toast gauge school struggle coach disorder advice run pave";
+var mnemonic = "recycle shed depth female soul behave column fish symptom topic valley riot";

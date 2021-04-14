@@ -1,1 +1,1 @@
-var mnemonic = "marble pigeon again early primary live what have all height amateur shine";
+var mnemonic = "twelve tackle fish salad usual belt gain noble fatigue cheap total cream";

@@ -1,1 +1,1 @@
-var mnemonic = "season plate wonder stumble stock network six milk panther access cousin away";
+var mnemonic = "poem acoustic squeeze bracket tired glove stadium weather glue midnight detect black";

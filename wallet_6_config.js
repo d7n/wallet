@@ -1,1 +1,1 @@
-var mnemonic = "vacuum helmet when moral pelican stay dune syrup teach earth calm midnight";
+var mnemonic = "milk custom legal income syrup eager item ship juice loop deputy increase";

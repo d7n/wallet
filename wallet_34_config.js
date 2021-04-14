@@ -1,1 +1,1 @@
-var mnemonic = "attract idle pattern unfold avoid cabin this lake ramp fury slogan click";
+var mnemonic = "resource list public mesh inquiry catch december burger blossom awkward dial permit";

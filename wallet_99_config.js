@@ -1,1 +1,1 @@
-var mnemonic = "globe artefact warrior legal obtain demand capable lava sudden improve pass isolate";
+var mnemonic = "attend elder provide sleep fold neglect myself better crew pave unveil liberty";

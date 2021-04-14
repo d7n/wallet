@@ -1,1 +1,1 @@
-var mnemonic = "exile shell else bag cancel doctor step ability celery record smile young";
+var mnemonic = "crowd bring excite improve swing nest total master current regret library develop";

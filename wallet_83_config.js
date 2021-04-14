@@ -1,1 +1,1 @@
-var mnemonic = "destroy leave amateur topple soft vicious machine culture excite armor unfold faith";
+var mnemonic = "inch alcohol gather lobster turn obvious wrap ripple core latin main account";

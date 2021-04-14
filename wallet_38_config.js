@@ -1,1 +1,1 @@
-var mnemonic = "firm dwarf identify pelican mean addict wrist catalog brick hip pretty earth";
+var mnemonic = "deputy float clip swear faculty output shock angry cheap ticket deliver race";

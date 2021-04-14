@@ -1,1 +1,1 @@
-var mnemonic = "flag range resemble major ugly defense depth damage flip inner pepper holiday";
+var mnemonic = "excite sorry swim image benefit range pumpkin gauge exotic frozen poverty castle";

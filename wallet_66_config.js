@@ -1,1 +1,1 @@
-var mnemonic = "wall wish flavor flee wide extend roof must grit sunset priority ordinary";
+var mnemonic = "round nuclear bargain filter shed steel camp mother flame coffee attend equip";

@@ -1,1 +1,1 @@
-var mnemonic = "place shadow document casino adult ginger member parent leaf material lady concert";
+var mnemonic = "error stay mail one elegant reveal humor keen legend client trade pass";

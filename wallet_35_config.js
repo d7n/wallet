@@ -1,1 +1,1 @@
-var mnemonic = "pencil major list company keep reject coconut about seek pledge wrestle favorite";
+var mnemonic = "clump two input tide owner aim slot quality mesh barrel drastic pill";

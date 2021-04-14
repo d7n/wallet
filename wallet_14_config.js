@@ -1,1 +1,1 @@
-var mnemonic = "monitor decrease argue curtain mystery weasel real kiss fiber census melt there";
+var mnemonic = "fade this input art balcony awkward trend arrest turn loud wool salute";

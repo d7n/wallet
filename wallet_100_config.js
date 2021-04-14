@@ -1,1 +1,1 @@
-var mnemonic = "century whisper remember inquiry armed burger cushion air prepare market round skirt";
+var mnemonic = "brick hawk anchor fame craft noodle school struggle tennis giggle coast quote";

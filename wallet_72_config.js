@@ -1,1 +1,1 @@
-var mnemonic = "sweet cousin glow decorate donor dove eager wedding clock evoke boss kingdom";
+var mnemonic = "lawn various sponsor tissue security until execute ladder limb valley hair biology";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist fashion sick violin motion series pencil cannon cup purity mammal pattern";
+var mnemonic = "endorse kitchen alpha ecology jewel depend forest exist blouse task erosion alpha";

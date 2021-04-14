@@ -1,1 +1,1 @@
-var mnemonic = "shallow train leopard garlic rug pulse receive tone gown notice absorb soup";
+var mnemonic = "high snap virtual glad occur piano gap reduce remain stem eye execute";

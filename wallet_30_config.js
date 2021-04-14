@@ -1,1 +1,1 @@
-var mnemonic = "penalty era amused piano anger planet certain loan bring trigger oxygen chef";
+var mnemonic = "draw child palm patrol decrease mammal control because empower entire firm elbow";

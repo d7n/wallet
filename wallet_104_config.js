@@ -1,1 +1,1 @@
-var mnemonic = "piano suffer gorilla girl resist cruel play initial stock loop eye focus";
+var mnemonic = "quiz exclude donkey prize horse wine lamp exotic six fringe bridge pass";
