@@ -1,1 +1,1 @@
-var mnemonic = "piece plastic arrow ozone language tackle pill motor poet pipe fence tiger";
+var mnemonic = "wealth awful rocket dove ability toward wolf response light tone field nominee";

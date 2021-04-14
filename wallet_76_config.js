@@ -1,1 +1,1 @@
-var mnemonic = "defense oval meadow capital dish mind bomb report pupil toilet mule praise";
+var mnemonic = "road clay employ social soup mom life scale call develop relax usage";

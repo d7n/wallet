@@ -1,1 +1,1 @@
-var mnemonic = "slow either outside jump holiday alcohol diesel uncover forget walnut what cook";
+var mnemonic = "embrace amazing lonely gym cattle bonus boost dinner bacon clinic photo meat";

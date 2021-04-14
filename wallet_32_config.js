@@ -1,1 +1,1 @@
-var mnemonic = "slight gap peace bright minor collect decide uncle bunker devote fatigue random";
+var mnemonic = "warfare gentle you broom load license hold habit trick sock crowd dad";

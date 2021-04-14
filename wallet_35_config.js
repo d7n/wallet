@@ -1,1 +1,1 @@
-var mnemonic = "scissors usual conduct actress debris oval item invite fabric wire turn noodle";
+var mnemonic = "remove target oil banner final wash tape derive case vintage daring paper";

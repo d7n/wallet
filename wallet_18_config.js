@@ -1,1 +1,1 @@
-var mnemonic = "limit gun vacuum run marine exercise young rally enough garment force vehicle";
+var mnemonic = "pair sea foster era witness topic rotate jazz foot adult waste remind";

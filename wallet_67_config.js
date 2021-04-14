@@ -1,1 +1,1 @@
-var mnemonic = "alley erupt clever rare hello mask derive short license enact eye maid";
+var mnemonic = "garbage urban flock middle mutual denial approve source large combine bird zero";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp hair true veteran purchase float card balance almost few tilt wrist";
+var mnemonic = "lesson enhance fold uphold symptom blade swim clarify property light budget program";

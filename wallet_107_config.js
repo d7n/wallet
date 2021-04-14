@@ -1,1 +1,1 @@
-var mnemonic = "vicious moon museum trend joke pledge settle radio search ridge network fit";
+var mnemonic = "parade amount apology diamond moon follow layer unique leave sting relief energy";

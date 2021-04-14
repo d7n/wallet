@@ -1,1 +1,1 @@
-var mnemonic = "cattle slim patch fringe desk remember balance fancy they indicate inherit furnace";
+var mnemonic = "find science hazard moon around task attend deer arrest arch script wasp";

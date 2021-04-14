@@ -1,1 +1,1 @@
-var mnemonic = "key photo sustain cruise erupt liquid parrot dinosaur heavy poem spawn drastic";
+var mnemonic = "innocent wealth evil people attend lesson govern horn bonus tumble balance melody";

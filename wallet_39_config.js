@@ -1,1 +1,1 @@
-var mnemonic = "enable nurse rotate cave bitter review mistake soon possible neck soft scout";
+var mnemonic = "blanket raven basic gain insane invite smooth recall scare tenant appear shift";

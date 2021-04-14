@@ -1,1 +1,1 @@
-var mnemonic = "evoke acoustic sight faint waste humble skull comfort fade wagon bracket impulse";
+var mnemonic = "urge apple fame script balcony return brown law gas talent kid debris";

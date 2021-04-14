@@ -1,1 +1,1 @@
-var mnemonic = "hood marble discover violin phone sudden sponsor either bronze sing grant lift";
+var mnemonic = "divert cute when deer squeeze rain acoustic file wife appear height shell";

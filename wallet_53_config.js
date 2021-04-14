@@ -1,1 +1,1 @@
-var mnemonic = "mean copper message rural brand horn impose useless treat piano struggle run";
+var mnemonic = "battle brisk win few unfold flag seat summer praise word make table";

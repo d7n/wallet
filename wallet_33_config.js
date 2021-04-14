@@ -1,1 +1,1 @@
-var mnemonic = "basic jelly term ride sugar describe usage you shoot later focus human";
+var mnemonic = "slot mix core trust indicate stand talk bracket narrow disease because observe";

@@ -1,1 +1,1 @@
-var mnemonic = "define shuffle nation horror poverty fine castle hockey coconut drastic video hero";
+var mnemonic = "expect public any gospel cargo rough fame melt recipe weekend slow sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "service ready mixture gorilla neutral shoot answer company virtual impulse donor knee";
+var mnemonic = "future ivory behind water gain dolphin amazing pill cupboard pear affair all";

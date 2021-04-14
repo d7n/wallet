@@ -1,1 +1,1 @@
-var mnemonic = "acoustic crunch fault scorpion animal sustain soccer inflict trumpet grunt work inside";
+var mnemonic = "avoid side execute remind brush reunion board brand banner sting reflect turkey";

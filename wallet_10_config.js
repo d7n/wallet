@@ -1,1 +1,1 @@
-var mnemonic = "weekend lottery goose spider solid add gain rocket faculty mushroom document improve";
+var mnemonic = "trial ostrich involve dog coast job dolphin action ribbon decorate canyon affair";

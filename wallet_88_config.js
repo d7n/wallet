@@ -1,1 +1,1 @@
-var mnemonic = "local win fee weird month ritual embark distance supreme amused view spring";
+var mnemonic = "shaft click corn coach silk dentist diesel woman special media machine alley";

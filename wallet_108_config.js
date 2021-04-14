@@ -1,1 +1,1 @@
-var mnemonic = "pledge rally rival ocean unaware erase absurd deliver steak syrup scheme patch";
+var mnemonic = "hip salt album museum grain medal where vanish field outer rally holiday";

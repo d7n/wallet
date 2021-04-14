@@ -1,1 +1,1 @@
-var mnemonic = "another erase east absent wheat anxiety city mixture quarter day fuel defense";
+var mnemonic = "damage traffic disorder bamboo program response uniform sunset assault virtual core property";

@@ -1,1 +1,1 @@
-var mnemonic = "often nerve predict thrive sleep travel toe price plastic clown bench pig";
+var mnemonic = "sudden acid segment copy layer poet melt version science owner miracle legend";

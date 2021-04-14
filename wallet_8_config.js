@@ -1,1 +1,1 @@
-var mnemonic = "process endorse mansion useful mind task trust decorate sister recall enter hint";
+var mnemonic = "cigar extend title vacant nature expose search pretty ice attack similar vocal";

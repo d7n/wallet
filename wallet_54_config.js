@@ -1,1 +1,1 @@
-var mnemonic = "victory girl clinic vintage fun link idea shrug web science ripple strong";
+var mnemonic = "anxiety menu fashion stool spread south evil grit clown leader recipe eight";

@@ -1,1 +1,1 @@
-var mnemonic = "outside next lift swear penalty staff soup blanket caught voice furnace flee";
+var mnemonic = "physical shy swap fix hire economy debris also fiber fiscal misery mushroom";

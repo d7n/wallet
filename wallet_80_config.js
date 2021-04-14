@@ -1,1 +1,1 @@
-var mnemonic = "affair nephew elbow clever mass gap orphan alley athlete squeeze length keen";
+var mnemonic = "language upset glare hawk grunt expect sketch force hurry keep person absurd";

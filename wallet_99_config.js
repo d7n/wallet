@@ -1,1 +1,1 @@
-var mnemonic = "siege tornado obtain fix left foil corn bamboo frozen zero lunch yard";
+var mnemonic = "force tribe pear merge police special onion control project vibrant trade young";

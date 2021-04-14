@@ -1,1 +1,1 @@
-var mnemonic = "soul baby pattern demand text good front mandate mixed horror car leave";
+var mnemonic = "soccer point decline minute lunch sibling screen notice baby grit critic sentence";

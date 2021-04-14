@@ -1,1 +1,1 @@
-var mnemonic = "chimney appear blind fly gospel cabbage catch clump royal lazy dutch naive";
+var mnemonic = "wire clip upon ring setup hospital weekend replace neither monitor inform attitude";

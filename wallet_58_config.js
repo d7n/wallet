@@ -1,1 +1,1 @@
-var mnemonic = "blade skull city swap cloud quantum embrace wealth frequent mistake either major";
+var mnemonic = "rude clog palace able drop shiver despair pave rookie clever leg civil";

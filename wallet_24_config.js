@@ -1,1 +1,1 @@
-var mnemonic = "spot water boost title turtle weekend coach bless gas random divorce pudding";
+var mnemonic = "box protect else budget differ hungry baby taxi angle liquid similar jazz";

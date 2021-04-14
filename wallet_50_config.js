@@ -1,1 +1,1 @@
-var mnemonic = "gentle walk main adapt auto heart capital garage pair drift awesome valid";
+var mnemonic = "chair act crane equal diamond canyon record loan rice boil merry decade";

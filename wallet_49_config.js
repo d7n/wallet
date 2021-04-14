@@ -1,1 +1,1 @@
-var mnemonic = "sugar sure symptom common retire gift noble turtle pig slight upon buffalo";
+var mnemonic = "tragic vote level depart squeeze stool dose blossom battle abandon sorry nominee";

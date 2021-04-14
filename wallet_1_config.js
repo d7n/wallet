@@ -1,1 +1,1 @@
-var mnemonic = "banana canvas lawn fence cruel trigger favorite version mushroom because goddess series";
+var mnemonic = "pause exhibit sight priority there nest trust audit rib fashion latin demise";

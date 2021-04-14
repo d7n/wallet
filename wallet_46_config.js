@@ -1,1 +1,1 @@
-var mnemonic = "gown lend hedgehog limit olympic coil suffer like whale live stand false";
+var mnemonic = "medal reason violin reduce pizza purse increase boy desert gallery ahead diet";

@@ -1,1 +1,1 @@
-var mnemonic = "glance noble saddle display doctor captain zone large story ethics video twenty";
+var mnemonic = "sustain valve blush city unveil tip exotic ten leg car behind market";

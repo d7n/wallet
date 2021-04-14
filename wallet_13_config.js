@@ -1,1 +1,1 @@
-var mnemonic = "spring delay estate hammer relief once desk stove drip purse nest wood";
+var mnemonic = "easily sight pride pass nature nephew office banner omit option jump melody";

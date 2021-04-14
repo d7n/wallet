@@ -1,1 +1,1 @@
-var mnemonic = "mad swing castle account void corn twice hockey town leaf palace stamp";
+var mnemonic = "truly artist depart gown alcohol rocket crash sponsor vacuum card column wrist";

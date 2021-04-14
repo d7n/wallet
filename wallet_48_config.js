@@ -1,1 +1,1 @@
-var mnemonic = "scatter rural gorilla wash mention adjust oven pig play emerge popular gather";
+var mnemonic = "baby weekend above captain piano health mushroom banner west canoe movie pilot";

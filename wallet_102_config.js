@@ -1,1 +1,1 @@
-var mnemonic = "laugh buddy provide enhance month weasel nuclear produce slight purpose bounce daring";
+var mnemonic = "pluck ivory grass road naive bag nation derive lawsuit latin panda multiply";

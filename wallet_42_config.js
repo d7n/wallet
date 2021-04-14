@@ -1,1 +1,1 @@
-var mnemonic = "wash panic position provide beach twelve swap pistol goddess autumn job now";
+var mnemonic = "typical staff century same crew range favorite myself enjoy problem soap polar";

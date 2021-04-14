@@ -1,1 +1,1 @@
-var mnemonic = "knife notable cereal endless uncover bind adult spell width fork that involve";
+var mnemonic = "easy notice hour bench kid tape diamond category detect disagree flag try";

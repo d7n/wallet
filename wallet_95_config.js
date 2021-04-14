@@ -1,1 +1,1 @@
-var mnemonic = "shell popular frozen hello upon business thing video brass kid side ketchup";
+var mnemonic = "glove total hour spell bench sign exercise crop type about detect turn";

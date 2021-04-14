@@ -1,1 +1,1 @@
-var mnemonic = "exact monster guess isolate fault staff ethics hill service wealth shove lava";
+var mnemonic = "voice edge damage hawk obvious film shift satisfy copy always laptop budget";

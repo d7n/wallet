@@ -1,1 +1,1 @@
-var mnemonic = "price often erode history general work leaf labor width cycle earn mechanic";
+var mnemonic = "eyebrow attract search wheel kit peace arrive brush organ spy crystal doll";

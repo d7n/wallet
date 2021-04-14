@@ -1,1 +1,1 @@
-var mnemonic = "dutch insect build deliver true swarm bright flat whale husband exercise speed";
+var mnemonic = "barely summer spice novel isolate game message smart fashion check sketch cost";

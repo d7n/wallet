@@ -1,1 +1,1 @@
-var mnemonic = "short swift suit jeans access toward cup merit exhaust breeze mushroom rally";
+var mnemonic = "grief space taxi rocket grace original sponsor tool clever movie virtual boil";

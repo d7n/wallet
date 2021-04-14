@@ -1,1 +1,1 @@
-var mnemonic = "during vital adapt century glow ticket birth tank hero kingdom sweet indoor";
+var mnemonic = "side family mirror great dog chaos roast appear pattern quarter smooth glimpse";

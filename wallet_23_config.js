@@ -1,1 +1,1 @@
-var mnemonic = "step harsh identify urge sort month story cement fever negative hungry pledge";
+var mnemonic = "verify fold exercise sudden canal uncover load grain regret only panic razor";

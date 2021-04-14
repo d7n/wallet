@@ -1,1 +1,1 @@
-var mnemonic = "nurse lunar curtain poem panda organ crash toe clutch table kit occur";
+var mnemonic = "room couple original march situate flash birth inform public draft proud verify";

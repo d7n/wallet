@@ -1,1 +1,1 @@
-var mnemonic = "broom alone jump curve dwarf expire reduce silent argue ranch lab female";
+var mnemonic = "review chicken naive sign palace bid latin snow shrug crack interest smart";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong type stage butter exile gossip axis hero glow buffalo electric crunch";
+var mnemonic = "crop swim coach matter excite once arm flash reunion expand afford hawk";

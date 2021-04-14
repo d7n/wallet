@@ -1,1 +1,1 @@
-var mnemonic = "special dirt refuse idle prefer kiss already evidence omit baby sphere inside";
+var mnemonic = "length aim very buzz skull offer route burden render coffee famous treat";

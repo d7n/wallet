@@ -1,1 +1,1 @@
-var mnemonic = "deal ozone true stone case rail piano pipe ethics sea used curve";
+var mnemonic = "juice fat trust student story segment story fever photo thing clump ship";

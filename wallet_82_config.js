@@ -1,1 +1,1 @@
-var mnemonic = "clutch lunch castle oil galaxy skate celery frost deputy rib lady net";
+var mnemonic = "cargo name level finger wink clown kangaroo session another carbon pole solve";

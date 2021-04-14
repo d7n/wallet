@@ -1,1 +1,1 @@
-var mnemonic = "balance decrease jewel put disagree cliff music decline salad evoke safe drastic";
+var mnemonic = "keen master tongue manage entire theme gym comic limit urban bomb situate";

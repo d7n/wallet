@@ -1,1 +1,1 @@
-var mnemonic = "motor asthma cherry village will merge fold prosper horror thought culture panel";
+var mnemonic = "warm agree awesome tackle arrange now basket cost reunion return camp culture";

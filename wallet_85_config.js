@@ -1,1 +1,1 @@
-var mnemonic = "illegal indoor actual negative announce tomorrow skirt doll innocent clip amateur nut";
+var mnemonic = "tower toddler pink food urge shoulder warm fine buzz cash armed plunge";

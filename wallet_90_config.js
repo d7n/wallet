@@ -1,1 +1,1 @@
-var mnemonic = "thank list fuel blue toilet maid bean cotton amount dash lady museum";
+var mnemonic = "radar maximum stereo define inherit flush key awkward evolve small educate report";

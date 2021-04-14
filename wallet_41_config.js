@@ -1,1 +1,1 @@
-var mnemonic = "purpose reform icon appear face sausage garlic recall peanut junk wing arctic";
+var mnemonic = "pond renew inch annual tomato weasel reject chat leaf eternal speak another";

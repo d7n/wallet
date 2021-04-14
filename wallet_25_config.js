@@ -1,1 +1,1 @@
-var mnemonic = "submit tackle occur essence sustain spell shy clap title lunch security garage";
+var mnemonic = "poet match autumn apology cram shoot mixed cause wealth lucky suspect process";

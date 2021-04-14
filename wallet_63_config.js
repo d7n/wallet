@@ -1,1 +1,1 @@
-var mnemonic = "antique soon salad dentist grain dress general piece convince maid bike expect";
+var mnemonic = "learn shell provide tower eternal champion furnace sick dust shoot bridge donate";

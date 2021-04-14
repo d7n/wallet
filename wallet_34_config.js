@@ -1,1 +1,1 @@
-var mnemonic = "object inherit once mango delay citizen enrich grunt dynamic any replace pride";
+var mnemonic = "wheat then choice only key erosion rookie wine six october genius message";

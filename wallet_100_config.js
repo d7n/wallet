@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur oval verify inflict half click design document maze august stem sauce";
+var mnemonic = "torch dad since medal diagram power deputy torch health cluster age disagree";

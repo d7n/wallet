@@ -1,1 +1,1 @@
-var mnemonic = "coconut object hint panic harbor vacant flag phone caught torch jewel layer";
+var mnemonic = "silent wave roast memory turtle celery alpha twist bomb middle lucky dish";

@@ -1,1 +1,1 @@
-var mnemonic = "above genuine trade eight pottery tree park toddler april yellow hamster exit";
+var mnemonic = "elegant embrace also cage nasty ribbon about announce annual cash spirit carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "school universe main exchange alone arena shuffle spare public cotton next easily";
+var mnemonic = "wheel announce because satisfy chimney betray tackle orient spell address fine rib";

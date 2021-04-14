@@ -1,1 +1,1 @@
-var mnemonic = "upgrade happy number write scare moral elegant possible barrel shine muffin zoo";
+var mnemonic = "unfair depth dismiss glass satoshi hour audit shallow tomato find reform regret";

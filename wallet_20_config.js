@@ -1,1 +1,1 @@
-var mnemonic = "hill left surround excuse sorry fetch describe under symptom cherry aim pluck";
+var mnemonic = "rib dose youth tribe silver excess rice round safe few stool reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "crane wait black verify version moment hidden swear tired flip use ready";
+var mnemonic = "acid immune want dash void increase asthma render lamp taste spread slender";

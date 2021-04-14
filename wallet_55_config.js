@@ -1,1 +1,1 @@
-var mnemonic = "escape kind young state sorry yard worth much about message warm bundle";
+var mnemonic = "inspire employ shrimp educate govern kiss frog diagram blade economy depend ghost";

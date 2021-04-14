@@ -1,1 +1,1 @@
-var mnemonic = "cabbage enough abandon bench spike pepper gym express forward car split two";
+var mnemonic = "tree angle siege chat oven staff deny will elephant volume loud march";

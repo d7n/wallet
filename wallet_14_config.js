@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin notable ahead decorate ski brief film capable sphere effort stem lens";
+var mnemonic = "happy stick beauty buyer spatial creek salt boil elder tonight position wise";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse cross kit crush turtle inspire method birth solve welcome bring twin";
+var mnemonic = "drastic dwarf glide bottom catalog spider rotate crater pitch crowd surface used";

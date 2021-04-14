@@ -1,1 +1,1 @@
-var mnemonic = "dolphin mirror deal crop reunion language boost charge enforce wrestle digital raise";
+var mnemonic = "crouch sorry trust ethics hollow cycle weekend vapor walnut lend lens all";

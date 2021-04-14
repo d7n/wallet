@@ -1,1 +1,1 @@
-var mnemonic = "author vacuum supply burden reopen panic rose answer report elegant reject differ";
+var mnemonic = "night garden mule vibrant plunge current punch extra muscle wool genre slight";

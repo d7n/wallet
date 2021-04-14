@@ -1,1 +1,1 @@
-var mnemonic = "put habit know nose unveil floor rotate rib check slush fruit dizzy";
+var mnemonic = "own raw carry power result upper cram captain pattern broccoli laugh wife";

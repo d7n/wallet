@@ -1,1 +1,1 @@
-var mnemonic = "silent remain marriage man define pioneer quit search merge sad radio spirit";
+var mnemonic = "turkey length again diamond vanish purpose weekend match ribbon thing garage caught";

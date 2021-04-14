@@ -1,1 +1,1 @@
-var mnemonic = "dutch idle gift actual ecology fame era food warfare female toddler panda";
+var mnemonic = "push antique dream flee pet night pattern spell oyster language gather seminar";

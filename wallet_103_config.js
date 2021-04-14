@@ -1,1 +1,1 @@
-var mnemonic = "that guard cost can globe lab museum paper world elegant health where";
+var mnemonic = "mass faint strategy jaguar weather true attitude agree hour phone lottery desk";

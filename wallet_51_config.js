@@ -1,1 +1,1 @@
-var mnemonic = "weird fade network unit burger open crystal enough deposit pluck jar eagle";
+var mnemonic = "coffee suspect industry corn seed slice cage credit uphold jaguar mom civil";

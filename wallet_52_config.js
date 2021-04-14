@@ -1,1 +1,1 @@
-var mnemonic = "raw limb tell mention artist face assume sister rug upper scene spider";
+var mnemonic = "bullet pelican chief derive garment alcohol pyramid ensure short crash breeze radar";

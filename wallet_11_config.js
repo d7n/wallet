@@ -1,1 +1,1 @@
-var mnemonic = "album liberty outside elder immense quiz recycle boat filter magnet divide addict";
+var mnemonic = "crazy sea leader book solution faint awkward abandon chimney repair tiger frown";

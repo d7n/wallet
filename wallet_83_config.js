@@ -1,1 +1,1 @@
-var mnemonic = "measure joy unique spice prepare usage type quick resist manual extend wrist";
+var mnemonic = "insane fit strike team awake hello chunk inside hand furnace advice expand";

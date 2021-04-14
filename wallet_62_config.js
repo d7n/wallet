@@ -1,1 +1,1 @@
-var mnemonic = "oyster hybrid fence master poet slim scale relief jeans draw tide satoshi";
+var mnemonic = "tortoise pen phone buffalo scrub volume situate unhappy mixed produce rally harvest";
