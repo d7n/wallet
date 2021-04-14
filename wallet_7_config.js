@@ -1,1 +1,1 @@
-var mnemonic = "name maze leader pear evidence envelope clean must help gospel warrior wealth";
+var mnemonic = "rely aunt occur viable scatter coach riot into eager shine web upper";

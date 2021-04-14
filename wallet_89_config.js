@@ -1,1 +1,1 @@
-var mnemonic = "fatal want rebel eager lazy relief staff wait twin author rotate industry";
+var mnemonic = "deliver rebuild brand lava hub spread loyal base kite focus spoon better";

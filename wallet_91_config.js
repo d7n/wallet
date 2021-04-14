@@ -1,1 +1,1 @@
-var mnemonic = "audit refuse anger clutch coast pigeon clap eyebrow tumble cargo owner problem";
+var mnemonic = "cup palm mechanic ribbon ribbon matrix rude solid glory beef dove stomach";

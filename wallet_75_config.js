@@ -1,1 +1,1 @@
-var mnemonic = "swap bracket devote sound exact action crystal man weird dose dawn glimpse";
+var mnemonic = "almost ability merge cute convince try turtle flash anxiety grocery boring staff";

@@ -1,1 +1,1 @@
-var mnemonic = "blood limit ginger crack spice insane six column mom kid liquid brick";
+var mnemonic = "dirt system bamboo arrow outdoor shock message crowd twist wave drift island";

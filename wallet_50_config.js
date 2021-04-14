@@ -1,1 +1,1 @@
-var mnemonic = "supply lock impact copper devote concert domain elbow sleep pulp assist margin";
+var mnemonic = "miss economy coral trap also push strategy drip female choice pigeon forward";

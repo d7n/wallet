@@ -1,1 +1,1 @@
-var mnemonic = "magnet athlete fiber pole duty flight betray tooth any broccoli fresh disorder";
+var mnemonic = "inflict skill law wood mixture upon fragile march camp father require tooth";

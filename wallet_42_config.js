@@ -1,1 +1,1 @@
-var mnemonic = "clinic catch creek essay canoe flee version neck wash cannon box census";
+var mnemonic = "soldier danger speak verb runway flock march arena turkey error lucky satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe day spring adapt allow usage capital mistake oyster search market clap";
+var mnemonic = "easy bulk quote raven sand trash evolve scrub peanut hockey liberty army";

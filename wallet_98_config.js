@@ -1,1 +1,1 @@
-var mnemonic = "brown join tent include right simple rough monster clutch cup shrimp wet";
+var mnemonic = "power square sweet stamp tiny sorry assist way program zebra account surround";

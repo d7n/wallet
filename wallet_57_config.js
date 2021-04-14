@@ -1,1 +1,1 @@
-var mnemonic = "bicycle label laptop spare lab unlock lawn monster submit abstract receive jewel";
+var mnemonic = "venture report issue hungry armed cook news quiz squeeze cruel excite retire";

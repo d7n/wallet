@@ -1,1 +1,1 @@
-var mnemonic = "topic length super benefit region canyon allow churn noise swap manage alone";
+var mnemonic = "fury noodle icon spy picnic doctor guide tilt rookie kidney ramp buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow wife secret receive guess immune casual chunk monkey amateur dad task";
+var mnemonic = "strike kind fat family can purchase female must all check scatter else";

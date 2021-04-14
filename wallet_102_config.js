@@ -1,1 +1,1 @@
-var mnemonic = "elephant trumpet sock claim pencil tackle artefact lazy pen marriage injury poem";
+var mnemonic = "mechanic liquid bubble loud belt retire nerve hungry derive fiscal leader suggest";

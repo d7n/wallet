@@ -1,1 +1,1 @@
-var mnemonic = "receive charge upset budget enhance spring spin warm key steak digital various";
+var mnemonic = "urban clutch cement evoke cat desert hint system honey enroll museum pipe";

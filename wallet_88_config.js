@@ -1,1 +1,1 @@
-var mnemonic = "then barrel outside typical height flee castle diesel congress check fuel drop";
+var mnemonic = "rail celery dial ugly chicken color other detect sibling trade basket glare";

@@ -1,1 +1,1 @@
-var mnemonic = "demand balcony east debris giant praise burst basic record legend offer hover";
+var mnemonic = "chronic razor clap chat repeat wet suffer stable nuclear second venue fetch";

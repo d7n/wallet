@@ -1,1 +1,1 @@
-var mnemonic = "inflict lion net easily floor match only help taxi claim ugly polar";
+var mnemonic = "over athlete slender pilot tired buddy voyage drip major alarm dune firm";

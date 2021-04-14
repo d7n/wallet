@@ -1,1 +1,1 @@
-var mnemonic = "huge cloud cancel exile blossom brush easily satoshi cricket census coin strategy";
+var mnemonic = "pioneer people draw exhaust hair foam voice van tail across adjust canyon";

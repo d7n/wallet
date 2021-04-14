@@ -1,1 +1,1 @@
-var mnemonic = "gym crush snap glance sing stock flavor cross october crop emotion region";
+var mnemonic = "oblige spoon height great rebuild turkey rate obscure frown detail mammal vessel";

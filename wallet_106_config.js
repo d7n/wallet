@@ -1,1 +1,1 @@
-var mnemonic = "bless flight upgrade nephew column vital cube empower section logic ensure brand";
+var mnemonic = "bulk liquid goose mother lizard primary man industry cry cherry raccoon loop";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup emerge spell potato embody lab cash input turtle urge hover universe";
+var mnemonic = "spider blind conduct bring frozen begin place base venture way already pave";

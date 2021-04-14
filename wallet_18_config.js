@@ -1,1 +1,1 @@
-var mnemonic = "denial myself because hungry stool enemy deputy tape catch pool taste minimum";
+var mnemonic = "bracket knee come invite weekend brick muscle economy document metal rotate again";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat naive busy staff weekend middle lunch pet sure nasty drive screen";
+var mnemonic = "same distance split link enough hero female like hotel bomb female recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "soda cheese muscle child slide force exist shed track recall humor mistake";
+var mnemonic = "second auction spawn knife broccoli violin craft finish decline token unaware hollow";

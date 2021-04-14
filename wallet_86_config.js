@@ -1,1 +1,1 @@
-var mnemonic = "cement margin onion reward notable renew oak section include color mystery ethics";
+var mnemonic = "judge fall sample room expand tree jazz strong nerve draw special system";

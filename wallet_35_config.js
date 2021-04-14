@@ -1,1 +1,1 @@
-var mnemonic = "game protect dress audit stand sad resource lawn maple bracket cool knee";
+var mnemonic = "vanish popular junk vibrant elder acoustic exotic argue pride camera pottery neck";

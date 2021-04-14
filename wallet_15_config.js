@@ -1,1 +1,1 @@
-var mnemonic = "labor insect blood more armed pudding gorilla increase joy bitter load one";
+var mnemonic = "hill gentle throw cook always country wash dice amateur bridge burst emerge";

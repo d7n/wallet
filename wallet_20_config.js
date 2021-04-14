@@ -1,1 +1,1 @@
-var mnemonic = "sample exotic sleep sleep erupt seek mimic edge enemy crystal stumble weird";
+var mnemonic = "discover grab exhaust hen lady flavor enact cotton provide train combine void";

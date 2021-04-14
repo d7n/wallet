@@ -1,1 +1,1 @@
-var mnemonic = "entry rival village final symbol utility tennis around tube rebel narrow usual";
+var mnemonic = "divide diagram program adult tornado much away hour rich wire truth faith";

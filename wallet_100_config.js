@@ -1,1 +1,1 @@
-var mnemonic = "agree garage destroy tool will series boss inject else creek balance walk";
+var mnemonic = "over fossil amount patch expire supply crush olive school brain rather ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "wink way chicken fortune dismiss cradle foil again pear life release vacant";
+var mnemonic = "region case rich switch sort album element chronic eyebrow buffalo until grape";

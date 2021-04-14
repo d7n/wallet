@@ -1,1 +1,1 @@
-var mnemonic = "soldier mesh analyst roast consider slight cupboard battle opera position cinnamon boat";
+var mnemonic = "admit derive cost cause wild theme any edge dish own avoid rebel";

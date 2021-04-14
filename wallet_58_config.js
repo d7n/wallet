@@ -1,1 +1,1 @@
-var mnemonic = "congress cinnamon viable raven rack portion circle ordinary desk toddler river sheriff";
+var mnemonic = "angry wagon usage tonight kangaroo clog margin match transfer false able morning";

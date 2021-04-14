@@ -1,1 +1,1 @@
-var mnemonic = "soup explain echo bundle oblige foster item wish sport state almost drift";
+var mnemonic = "thing raise reopen fit sea virtual album plate fire modify glimpse will";

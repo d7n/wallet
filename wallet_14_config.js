@@ -1,1 +1,1 @@
-var mnemonic = "oppose license ozone depart lyrics convince text rice observe innocent nasty abuse";
+var mnemonic = "someone universe minute dolphin gesture soon size market novel toddler hybrid black";

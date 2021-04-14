@@ -1,1 +1,1 @@
-var mnemonic = "image detect case arrive inflict alpha huge meadow they define guilt hurt";
+var mnemonic = "detect chalk warm liquid ranch blush negative tenant session atom program verb";

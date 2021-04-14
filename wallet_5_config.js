@@ -1,1 +1,1 @@
-var mnemonic = "card answer replace glue affair piece frozen struggle orbit mango tail price";
+var mnemonic = "season hybrid brief language kind switch vivid purpose usual merge gown soul";

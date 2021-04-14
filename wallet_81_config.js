@@ -1,1 +1,1 @@
-var mnemonic = "narrow arrest easily cram second chunk card speed earth shrug carpet west";
+var mnemonic = "elder economy pond speak panel stage around worth avoid bunker velvet spatial";

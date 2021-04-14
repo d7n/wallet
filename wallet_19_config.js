@@ -1,1 +1,1 @@
-var mnemonic = "album chunk ready sugar sport afford dream ski slogan alert angle twelve";
+var mnemonic = "local essence offer harvest boy avocado toddler dirt connect digital small rack";

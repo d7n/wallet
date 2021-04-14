@@ -1,1 +1,1 @@
-var mnemonic = "long betray permit bus wrist trouble volume digital butter load close recycle";
+var mnemonic = "wrap boring tunnel nation shrimp pipe behave pupil mixture enlist recall buyer";

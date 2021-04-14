@@ -1,1 +1,1 @@
-var mnemonic = "machine lava tool acoustic tool huge cancel old fruit fish around learn";
+var mnemonic = "reopen forward all attend crop print situate verb vivid demand depth approve";

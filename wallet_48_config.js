@@ -1,1 +1,1 @@
-var mnemonic = "mesh enact globe afraid target lounge clock clip fashion mansion office pepper";
+var mnemonic = "pool word carry disease under gorilla mask open silver staff vacant wrong";

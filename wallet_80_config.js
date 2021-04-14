@@ -1,1 +1,1 @@
-var mnemonic = "mystery metal rival brass child express betray slam update tomato clock route";
+var mnemonic = "mixture debate trial april virus legal pause brother evoke position expand adapt";

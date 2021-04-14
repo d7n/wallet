@@ -1,1 +1,1 @@
-var mnemonic = "meat client romance client piano shrimp charge subway punch jacket cute cruel";
+var mnemonic = "boy poem luxury six cost plug boy syrup powder permit advance cram";

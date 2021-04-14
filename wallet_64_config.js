@@ -1,1 +1,1 @@
-var mnemonic = "erosion shallow erode flower sniff toilet movie pole skill girl myself siren";
+var mnemonic = "aspect shell key doctor coil van shove cost burden wash alpha element";

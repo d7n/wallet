@@ -1,1 +1,1 @@
-var mnemonic = "avoid suspect sell erase three ribbon column label veteran cloud lemon extend";
+var mnemonic = "maple rhythm drive someone weird alert time coconut organ jaguar enable inch";

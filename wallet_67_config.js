@@ -1,1 +1,1 @@
-var mnemonic = "open sick napkin sweet craft rhythm bridge giggle viable mesh tenant garage";
+var mnemonic = "surround pave ski vanish check goddess travel axis puzzle chronic chair catalog";

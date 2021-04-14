@@ -1,1 +1,1 @@
-var mnemonic = "urge diet sea obscure any amused mixture museum destroy flag hill abuse";
+var mnemonic = "tunnel ripple lawn cover similar shrimp turtle reason section jacket false powder";

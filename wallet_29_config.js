@@ -1,1 +1,1 @@
-var mnemonic = "dream beach crash nothing achieve private clog announce vacant earn dad despair";
+var mnemonic = "toss idea relax north camera attract sentence confirm symbol parrot pony awful";

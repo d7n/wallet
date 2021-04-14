@@ -1,1 +1,1 @@
-var mnemonic = "mushroom brand miracle shift okay rude blanket glow sample liquid crane fault";
+var mnemonic = "hockey flock fury improve cry canal hint amazing music girl clap illness";

@@ -1,1 +1,1 @@
-var mnemonic = "junior subject bread gospel price sauce equip ship rule rival tone supreme";
+var mnemonic = "chat creek similar inspire trouble special sponsor elegant wet equal consider dignity";

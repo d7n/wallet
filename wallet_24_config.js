@@ -1,1 +1,1 @@
-var mnemonic = "keep blouse display girl auction orphan review crucial wolf jazz release nothing";
+var mnemonic = "swarm cloud conduct melt control save neither heavy hip elegant arrange exist";

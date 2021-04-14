@@ -1,1 +1,1 @@
-var mnemonic = "proof evil attitude dignity become sustain hood people ordinary arrive wide draft";
+var mnemonic = "awkward stomach dentist recycle laptop denial sea dutch sausage fantasy glance submit";

@@ -1,1 +1,1 @@
-var mnemonic = "empty treat surface mention penalty glad actor practice leave clever rice gun";
+var mnemonic = "onion pull flavor unit attend merge work garbage know enact flower before";

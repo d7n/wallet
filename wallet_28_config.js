@@ -1,1 +1,1 @@
-var mnemonic = "review neutral sick escape captain peanut city fuel spawn mountain advance divide";
+var mnemonic = "before stable swarm visual west accident render oppose wheel donkey consider example";

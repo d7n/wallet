@@ -1,1 +1,1 @@
-var mnemonic = "penalty rookie where fence unaware belt fine today cycle tell cargo table";
+var mnemonic = "roof sustain light radio print smoke stick family must file spoon debris";

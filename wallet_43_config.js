@@ -1,1 +1,1 @@
-var mnemonic = "lottery answer dentist tag blur knife exhaust isolate donkey raise situate gallery";
+var mnemonic = "wage oblige battle engine pudding roast fine axis wing title oval airport";

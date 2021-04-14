@@ -1,1 +1,1 @@
-var mnemonic = "never air person leg crouch embrace prosper slender kit vintage man art";
+var mnemonic = "electric eternal discover bread tuna trip runway sport address van surge opinion";

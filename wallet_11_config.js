@@ -1,1 +1,1 @@
-var mnemonic = "input polar outdoor entry whip impact object student initial reject cross van";
+var mnemonic = "blossom salon purchase suit brush express lazy entry arena pen cover income";

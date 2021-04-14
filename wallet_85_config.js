@@ -1,1 +1,1 @@
-var mnemonic = "hazard seminar rich autumn express travel winner rude police welcome scorpion sudden";
+var mnemonic = "much salt total physical ketchup bunker glove slam cruise fly ice face";

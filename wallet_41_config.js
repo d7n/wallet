@@ -1,1 +1,1 @@
-var mnemonic = "guide kiwi must answer useful auction cattle pony region mistake course lift";
+var mnemonic = "cute saddle distance derive valid bone believe merry orphan chief category awake";

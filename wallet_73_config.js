@@ -1,1 +1,1 @@
-var mnemonic = "tiger label village quantum frog priority citizen sick stem truly salmon maid";
+var mnemonic = "oyster until grid else basic flash submit random digital topple switch keen";

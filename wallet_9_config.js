@@ -1,1 +1,1 @@
-var mnemonic = "add side element garment lake either actor whip bulk mixed need special";
+var mnemonic = "embark curious merit screen soul leaf crash have drive salt wage corn";

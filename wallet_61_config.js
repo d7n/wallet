@@ -1,1 +1,1 @@
-var mnemonic = "stadium achieve salad silver order lab rack install sausage flush young park";
+var mnemonic = "credit strong copy pigeon topple once indicate honey reunion maid ring leg";

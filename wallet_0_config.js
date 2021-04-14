@@ -1,1 +1,1 @@
-var mnemonic = "antique dwarf kind swamp improve talk negative broccoli long bag narrow ring";
+var mnemonic = "cluster already stock update cabin perfect canoe lumber frost render option tip";

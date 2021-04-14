@@ -1,1 +1,1 @@
-var mnemonic = "learn address patch north undo shy warfare youth again evolve tortoise elephant";
+var mnemonic = "basic nest motion dutch require tragic daring world artefact check spatial pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "where shallow inform car helmet bread saddle response awesome jump dry fiscal";
+var mnemonic = "antique unfair crisp wheel cinnamon credit fossil camera design grab visa utility";

@@ -1,1 +1,1 @@
-var mnemonic = "impose ordinary casual donor slow aim year impulse sheriff process claim mixed";
+var mnemonic = "room sadness measure eager ridge ripple chair grab pole bone skate moment";

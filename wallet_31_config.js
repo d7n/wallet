@@ -1,1 +1,1 @@
-var mnemonic = "sustain act believe exist object sort amused public mad cause bus demise";
+var mnemonic = "fluid grow young wish critic diesel glory vicious program daring churn deposit";

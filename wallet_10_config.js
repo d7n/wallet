@@ -1,1 +1,1 @@
-var mnemonic = "hamster scrub limb salmon jaguar disagree demise owner remember kit gather hat";
+var mnemonic = "evil april atom sword claim axis entire december genre lunch prosper baby";

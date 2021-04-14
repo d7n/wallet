@@ -1,1 +1,1 @@
-var mnemonic = "must hour speed yellow slush fetch express exchange destroy seed include foil";
+var mnemonic = "among misery path best chronic include online man rookie thought spider husband";

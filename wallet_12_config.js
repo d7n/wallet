@@ -1,1 +1,1 @@
-var mnemonic = "hint burger orphan once pink hybrid knife upper sustain uncover speak divorce";
+var mnemonic = "grunt common swear noble couple blind wrong arch erase thumb motor wrap";

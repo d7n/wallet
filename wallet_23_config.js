@@ -1,1 +1,1 @@
-var mnemonic = "whip banana super desk retire double demand exotic thing unhappy size riot";
+var mnemonic = "ring verb slab segment fancy student cabbage track poverty quote unlock strong";

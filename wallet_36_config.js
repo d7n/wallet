@@ -1,1 +1,1 @@
-var mnemonic = "right evidence drum radio scatter differ credit unit fade link auction drip";
+var mnemonic = "alert mimic inch swallow penalty napkin permit race blast lava caught teach";

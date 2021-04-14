@@ -1,1 +1,1 @@
-var mnemonic = "girl tribe royal life rotate orbit sword rapid solve whale just impose";
+var mnemonic = "welcome season kitchen involve fiber wide problem blossom ill defy fog visual";

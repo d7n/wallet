@@ -1,1 +1,1 @@
-var mnemonic = "fame step merit leisure style script bulk industry stadium then cream ranch";
+var mnemonic = "decrease month rude twice possible phrase oyster check segment this swim habit";

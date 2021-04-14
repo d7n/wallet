@@ -1,1 +1,1 @@
-var mnemonic = "liar winner cable goat coconut matter among pen immense thing client calm";
+var mnemonic = "talk media force square panel verb culture chapter mechanic hundred surge fatigue";

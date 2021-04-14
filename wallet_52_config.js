@@ -1,1 +1,1 @@
-var mnemonic = "walk jaguar crumble valid dog busy cancel remove table change empty execute";
+var mnemonic = "where point govern wheat liquid walnut observe bracket absorb actor brief dish";

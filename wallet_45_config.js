@@ -1,1 +1,1 @@
-var mnemonic = "screen arrive ostrich snow vivid inside hurry fly property sauce brick tank";
+var mnemonic = "broccoli culture flavor lawn mule insane ask caution client effort receive student";

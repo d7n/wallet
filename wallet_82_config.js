@@ -1,1 +1,1 @@
-var mnemonic = "hub drama film remove pilot want invite combine amused chase carpet setup";
+var mnemonic = "assault planet talk lock offer amazing dilemma blood mad ice kiwi hand";

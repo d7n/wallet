@@ -1,1 +1,1 @@
-var mnemonic = "rib happy path wet together anger domain beauty wish produce abandon blade";
+var mnemonic = "cabin stumble invite foot pipe orphan used coconut taxi wasp achieve canyon";

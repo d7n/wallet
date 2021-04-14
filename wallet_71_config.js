@@ -1,1 +1,1 @@
-var mnemonic = "grant bonus flower chest frozen festival smooth upgrade chicken slender yellow fancy";
+var mnemonic = "youth access north flavor bulk fragile cupboard upper primary matrix tissue erupt";

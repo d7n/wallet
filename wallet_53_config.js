@@ -1,1 +1,1 @@
-var mnemonic = "unique monitor beauty cave motor coral peanut imitate whip glimpse thrive caught";
+var mnemonic = "wrap scatter clip pioneer window stem portion stomach reject urban valid voyage";
