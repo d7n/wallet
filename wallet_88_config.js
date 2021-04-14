@@ -1,1 +1,1 @@
-var mnemonic = "river maze warfare armor enough rain hospital valid brother script vessel math";
+var mnemonic = "panda soccer defense delay own remove peace match damp audit symbol voyage";

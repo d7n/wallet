@@ -1,1 +1,1 @@
-var mnemonic = "insane mansion whale olympic doll pool rebuild solve blouse casual hope spirit";
+var mnemonic = "one script minute issue tube melody palace toddler sun menu text prison";

@@ -1,1 +1,1 @@
-var mnemonic = "share marine trouble worry limb tonight behave knife weasel sting zero affair";
+var mnemonic = "inside board crack armed blossom sand solve smoke claim famous credit gun";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen prison awesome adjust small curtain evidence endorse topic guide about slam";
+var mnemonic = "assault marble address stumble hair buzz oppose consider common left sorry quiz";

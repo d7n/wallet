@@ -1,1 +1,1 @@
-var mnemonic = "normal flash economy above resist dismiss reflect trust churn drill uncover claw";
+var mnemonic = "behind lock must rate pipe nephew copper magnet once language broom lava";

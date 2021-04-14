@@ -1,1 +1,1 @@
-var mnemonic = "exit winter such elite swap evoke engine tennis black worth dinosaur voyage";
+var mnemonic = "purity observe crop space forget flee boy then police van stamp hobby";

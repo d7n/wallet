@@ -1,1 +1,1 @@
-var mnemonic = "length logic vanish lemon warrior elite system lucky lunar fish confirm execute";
+var mnemonic = "seed member license marine song clog regular truck ridge trap section cement";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma another spin unable select portion fix prosper cupboard brave glove december";
+var mnemonic = "survey glare order shed injury gravity address produce that roast craft mobile";

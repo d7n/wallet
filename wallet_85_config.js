@@ -1,1 +1,1 @@
-var mnemonic = "theory arrest pistol pepper distance seminar human slide asset tip bike kiss";
+var mnemonic = "donor door keen quit right estate brave rent tree truck orange toast";

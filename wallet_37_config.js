@@ -1,1 +1,1 @@
-var mnemonic = "boring ethics amused ticket cluster blur unfair silent dignity swallow eye enemy";
+var mnemonic = "swap floor genuine add misery clever pact embrace swift planet vocal result";

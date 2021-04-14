@@ -1,1 +1,1 @@
-var mnemonic = "either shrug useless endorse rain legend affair nothing wait unit alter crop";
+var mnemonic = "search scorpion razor method elephant marble mule express farm oyster puppy senior";

@@ -1,1 +1,1 @@
-var mnemonic = "cram mystery business glide high empty media dance hotel concert foster trumpet";
+var mnemonic = "duty muscle another left rubber coil pudding ramp gospel seed razor delay";

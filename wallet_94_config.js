@@ -1,1 +1,1 @@
-var mnemonic = "link net tower merry bundle witness shop banana ocean use goose another";
+var mnemonic = "announce area husband badge flat buyer anxiety steak income actor quality soap";

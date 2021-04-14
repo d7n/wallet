@@ -1,1 +1,1 @@
-var mnemonic = "debate glare common guard ladder hedgehog drop roast cattle orbit essay risk";
+var mnemonic = "address promote public end abuse sibling regular blur broccoli tree parade surge";

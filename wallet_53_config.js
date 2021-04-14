@@ -1,1 +1,1 @@
-var mnemonic = "disease garage observe shuffle firm rack crucial answer return source journey fence";
+var mnemonic = "join slow arrest sure march subway grant gun lake tower item dirt";

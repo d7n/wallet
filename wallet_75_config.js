@@ -1,1 +1,1 @@
-var mnemonic = "soft spot slim gospel produce tilt kind force pony burst champion degree";
+var mnemonic = "body element catch doctor evoke convince behind sudden lawsuit analyst pig soda";

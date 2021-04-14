@@ -1,1 +1,1 @@
-var mnemonic = "garage decrease buzz senior into vacuum check sun lake soap already wool";
+var mnemonic = "super virtual west slush task cool omit source divert come gospel merry";

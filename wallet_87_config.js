@@ -1,1 +1,1 @@
-var mnemonic = "panther cry idea motion jar horror catch course wedding pulse else fish";
+var mnemonic = "treat solve ghost onion lift tip cry pupil hole vanish find toy";

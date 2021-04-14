@@ -1,1 +1,1 @@
-var mnemonic = "replace tribe pact wool sister quote infant sibling wide film day rookie";
+var mnemonic = "fossil hungry imitate quantum range sphere melody replace trouble warm tail square";

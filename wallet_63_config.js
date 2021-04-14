@@ -1,1 +1,1 @@
-var mnemonic = "symbol easily grass admit popular diary ankle card pull cross video news";
+var mnemonic = "tag century space absurd quote size organ clown before hard until napkin";

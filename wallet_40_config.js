@@ -1,1 +1,1 @@
-var mnemonic = "fetch album ship famous little symptom smoke bundle amazing avoid keen cluster";
+var mnemonic = "slab fold glory swift crawl inject very goddess hungry side ribbon hybrid";

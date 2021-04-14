@@ -1,1 +1,1 @@
-var mnemonic = "sting neutral path other reject pepper torch feel adjust actual siege menu";
+var mnemonic = "oak cupboard resource lake bone icon equip six when happy suspect note";

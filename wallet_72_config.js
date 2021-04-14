@@ -1,1 +1,1 @@
-var mnemonic = "bullet pair endorse bullet axis defense segment rate catalog spin extend ability";
+var mnemonic = "private hover display credit gas liberty thumb pigeon ride awful crew young";

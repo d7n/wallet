@@ -1,1 +1,1 @@
-var mnemonic = "clutch during vacuum citizen liberty rice vibrant silly fancy size want staff";
+var mnemonic = "glass lawn awesome mushroom leisure fade comfort today one music spirit boil";

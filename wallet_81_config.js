@@ -1,1 +1,1 @@
-var mnemonic = "wealth moment message future chat edit bicycle deer choose light abandon spirit";
+var mnemonic = "eight skate beef sponsor taxi series glow wrong despair myth lottery twin";

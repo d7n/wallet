@@ -1,1 +1,1 @@
-var mnemonic = "raw deal luggage olive brain funny scale warm spot market law young";
+var mnemonic = "cattle melt scorpion turkey wish tone crowd right patient angle agree review";

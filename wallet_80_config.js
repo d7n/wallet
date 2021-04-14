@@ -1,1 +1,1 @@
-var mnemonic = "song fault resist sudden fatigue shallow world hedgehog portion buzz flash element";
+var mnemonic = "survey chase empty feel degree oil minute prosper snake suspect verb rocket";

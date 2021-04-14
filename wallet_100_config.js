@@ -1,1 +1,1 @@
-var mnemonic = "castle team repair pipe palm analyst slow poverty supply flag gallery forest";
+var mnemonic = "maid woman retreat defense maid nature salad only solid trigger either silent";

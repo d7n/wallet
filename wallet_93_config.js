@@ -1,1 +1,1 @@
-var mnemonic = "talk notice shoe mind kid scout inch steel sentence forward airport farm";
+var mnemonic = "leisure trophy ill illegal volume away doctor major imitate clarify crystal quote";

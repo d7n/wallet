@@ -1,1 +1,1 @@
-var mnemonic = "pole cargo kangaroo scorpion nest alcohol tone taxi penalty dove move purity";
+var mnemonic = "near calm credit brick valley sport shy absurd seat cannon mansion ball";

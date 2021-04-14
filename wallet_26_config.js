@@ -1,1 +1,1 @@
-var mnemonic = "any close connect million liquid casino eager turtle order mimic maid mushroom";
+var mnemonic = "deposit assault february acquire barely caught dance morning floor yellow describe stay";

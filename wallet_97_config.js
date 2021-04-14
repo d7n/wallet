@@ -1,1 +1,1 @@
-var mnemonic = "surge similar combine fat half either april such film trust square note";
+var mnemonic = "tag tone weekend blur inmate steak dust apology valve modify hello learn";

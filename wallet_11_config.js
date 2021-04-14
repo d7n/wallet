@@ -1,1 +1,1 @@
-var mnemonic = "brother vacant rich stumble emerge road until protect fish knee mix north";
+var mnemonic = "document error book chat trick future mistake secret gain glow habit eye";

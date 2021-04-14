@@ -1,1 +1,1 @@
-var mnemonic = "link chair tornado steel seat labor conduct grocery kid decline erosion artefact";
+var mnemonic = "salmon net recipe tattoo virus pause agent purity jazz danger enable rapid";

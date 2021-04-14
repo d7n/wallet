@@ -1,1 +1,1 @@
-var mnemonic = "absurd stumble glide ghost half lyrics session clutch glide until wealth dutch";
+var mnemonic = "frequent dose appear ramp walk code hire where crowd tonight memory impose";

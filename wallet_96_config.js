@@ -1,1 +1,1 @@
-var mnemonic = "sunset fade motor act apple east train ski jealous gesture august bracket";
+var mnemonic = "close chapter extra nerve celery upgrade sad choose silk stairs unfold burger";

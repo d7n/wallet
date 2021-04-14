@@ -1,1 +1,1 @@
-var mnemonic = "universe vague flight domain birth again lava equal grace palm drama shock";
+var mnemonic = "rice wheat one pen drastic chicken hub frost announce frost panda blade";

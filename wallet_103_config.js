@@ -1,1 +1,1 @@
-var mnemonic = "verb tail border record talk trouble rabbit certain sheriff tail announce cross";
+var mnemonic = "thank please tomato rigid magic filter glow harbor guide bread release melody";

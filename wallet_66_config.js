@@ -1,1 +1,1 @@
-var mnemonic = "truly satoshi august buzz surface exit left actor later indoor help permit";
+var mnemonic = "else surround nut mind immune ranch poem game hundred animal pool razor";

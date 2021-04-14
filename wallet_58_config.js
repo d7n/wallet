@@ -1,1 +1,1 @@
-var mnemonic = "wink grape fit define insane warm retreat simple bright brisk demise wolf";
+var mnemonic = "harsh mansion online net manage pattern raw eternal sudden success wise convince";

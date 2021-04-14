@@ -1,1 +1,1 @@
-var mnemonic = "parade artefact glove december item seed connect caught rotate cabbage divorce few";
+var mnemonic = "first episode peace false tiger quiz water certain normal solution panda fence";

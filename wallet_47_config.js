@@ -1,1 +1,1 @@
-var mnemonic = "fringe comfort physical umbrella nephew voice liar castle normal deputy coast betray";
+var mnemonic = "simple soup dry ring glimpse engage armed film dwarf report butter cloth";

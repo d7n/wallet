@@ -1,1 +1,1 @@
-var mnemonic = "text amateur grid weekend expand brother business margin grain soul hammer surround";
+var mnemonic = "novel old palace disorder dumb unusual gossip liar elbow agree vacuum arctic";

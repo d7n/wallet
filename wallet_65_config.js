@@ -1,1 +1,1 @@
-var mnemonic = "travel know main water short gossip glove brown small naive nominee busy";
+var mnemonic = "permit vacuum pulp vault renew school drama fabric avoid eyebrow afford urge";

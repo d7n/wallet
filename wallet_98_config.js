@@ -1,1 +1,1 @@
-var mnemonic = "sentence film clip patch van lunar congress lunch napkin text sell turn";
+var mnemonic = "control slab kid empower dentist fiscal pen knee popular flower cash void";

@@ -1,1 +1,1 @@
-var mnemonic = "skill tiny afraid wisdom design option figure slide barrel cheese there pet";
+var mnemonic = "grit gym drive cute predict hockey invite polar mesh indoor pepper rich";

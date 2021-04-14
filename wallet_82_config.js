@@ -1,1 +1,1 @@
-var mnemonic = "segment push usual lava liquid memory ostrich illegal october slight cushion feed";
+var mnemonic = "will all size keen disease wrestle lady shell ranch car ramp damp";

@@ -1,1 +1,1 @@
-var mnemonic = "people hen crazy mask rhythm taste shoot coyote exchange visa coach worth";
+var mnemonic = "cruel team great twice virus thank tent grunt vivid nature divide bicycle";

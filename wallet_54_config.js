@@ -1,1 +1,1 @@
-var mnemonic = "blanket soul bike globe giraffe burst mind slender diagram heavy aunt file";
+var mnemonic = "rotate bus elbow maze solid evil rely rich short royal toss spot";

@@ -1,1 +1,1 @@
-var mnemonic = "wing lottery regular option uniform final wheel caution uphold flight weasel divorce";
+var mnemonic = "volume bronze actual dog deposit quarter grace inflict fade embody divert shock";

@@ -1,1 +1,1 @@
-var mnemonic = "over suit tuna stamp imitate attitude version two congress student script manual";
+var mnemonic = "vivid shadow crazy stage when equip coast arena demand hammer latin economy";

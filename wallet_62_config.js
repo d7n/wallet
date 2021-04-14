@@ -1,1 +1,1 @@
-var mnemonic = "install hotel crew glue rigid coyote cook remember bicycle nasty scrap impulse";
+var mnemonic = "twist person wrist peanut length chaos claim candy cute wealth wrong hurt";

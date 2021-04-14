@@ -1,1 +1,1 @@
-var mnemonic = "permit pulp solution ability oak certain flash destroy toss warfare blade like";
+var mnemonic = "exist view cram pyramid match tackle energy crouch tuna figure latin bonus";

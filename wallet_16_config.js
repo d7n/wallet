@@ -1,1 +1,1 @@
-var mnemonic = "capital rule beach violin oxygen impulse quarter worry ozone include laugh found";
+var mnemonic = "leg real hour layer unhappy museum raw weasel umbrella unaware message devote";

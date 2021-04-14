@@ -1,1 +1,1 @@
-var mnemonic = "impulse require boil luxury offer hip sister disagree drop other eight dutch";
+var mnemonic = "park puzzle enough near coil crew drip check perfect example kick domain";

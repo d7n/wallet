@@ -1,1 +1,1 @@
-var mnemonic = "shine place grocery dress drop vintage engage adult canoe govern slim wise";
+var mnemonic = "slot save pigeon regular predict ginger cannon soldier denial company usage limb";

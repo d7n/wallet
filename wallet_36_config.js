@@ -1,1 +1,1 @@
-var mnemonic = "olympic faith silly useless frost find climb able sort cargo describe patrol";
+var mnemonic = "beach admit release sun tattoo trick wire potato riot moon scheme degree";

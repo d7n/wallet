@@ -1,1 +1,1 @@
-var mnemonic = "police jazz empower absurd spawn acoustic avocado ritual laptop convince fatigue bind";
+var mnemonic = "aisle sting expand leg issue flight night because stumble immense unable ugly";

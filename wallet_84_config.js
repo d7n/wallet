@@ -1,1 +1,1 @@
-var mnemonic = "click end leaf turkey pulp library brown core type clarify like visit";
+var mnemonic = "swift pulse change diary term infant uphold domain cargo garage front cage";

@@ -1,1 +1,1 @@
-var mnemonic = "stand fee crazy palm dismiss talk hair lecture sting fiscal chapter bubble";
+var mnemonic = "seed travel leaf tired art run toe valve verb usage pottery surround";

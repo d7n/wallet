@@ -1,1 +1,1 @@
-var mnemonic = "butter poverty hen put strategy discover prepare outdoor coach banner peace goat";
+var mnemonic = "cabin cage advance town fine leisure fringe inflict still marine hire easily";

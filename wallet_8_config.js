@@ -1,1 +1,1 @@
-var mnemonic = "fitness dad lion arena enhance pride grape culture shell danger letter castle";
+var mnemonic = "flower dentist present cream grief arrest swear wealth always another purse trend";

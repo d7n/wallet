@@ -1,1 +1,1 @@
-var mnemonic = "amateur coach garment curious ten merry miss glimpse siren garment giant pill";
+var mnemonic = "cake flush fury time blanket muffin cactus borrow virus favorite suffer prosper";

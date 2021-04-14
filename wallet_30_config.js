@@ -1,1 +1,1 @@
-var mnemonic = "sudden safe ready degree hub evoke genius adapt crisp egg hurry genius";
+var mnemonic = "glide travel sustain shiver random kit lecture find armed village bargain click";

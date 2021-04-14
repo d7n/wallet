@@ -1,1 +1,1 @@
-var mnemonic = "science bounce dog error such long salt stable easy cycle royal write";
+var mnemonic = "rule viable bag bid polar twelve swift circle notable bird again produce";

@@ -1,1 +1,1 @@
-var mnemonic = "flag hotel hunt salmon gasp grain satoshi actual judge picnic divide dignity";
+var mnemonic = "gossip heart fabric soda index green rough crumble color system knock credit";

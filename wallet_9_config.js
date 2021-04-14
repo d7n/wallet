@@ -1,1 +1,1 @@
-var mnemonic = "tired foot bar regular snack stove special river cousin divorce keep lucky";
+var mnemonic = "upper pipe alien margin moral tray swamp large robot law below guitar";

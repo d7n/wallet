@@ -1,1 +1,1 @@
-var mnemonic = "wait crane fly never portion legend battle gadget forum digital suffer echo";
+var mnemonic = "survey smoke caught harsh tomorrow frame pitch connect chapter bachelor grant palm";

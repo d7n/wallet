@@ -1,1 +1,1 @@
-var mnemonic = "spare vintage farm core quality tattoo because husband secret spare offer fly";
+var mnemonic = "river hint pencil fame frost sign country hospital manual grain indicate erupt";

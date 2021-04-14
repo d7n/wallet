@@ -1,1 +1,1 @@
-var mnemonic = "spike pear ritual spell inflict rapid neglect second model punch offer clog";
+var mnemonic = "cave eternal school secret citizen quarter sure fresh pause lottery olympic famous";

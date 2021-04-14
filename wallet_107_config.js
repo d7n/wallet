@@ -1,1 +1,1 @@
-var mnemonic = "spawn pill nice worth spot clock grocery rib deputy rack junior friend";
+var mnemonic = "learn camera slide sing poverty soft filter anger kitten duty toe obey";

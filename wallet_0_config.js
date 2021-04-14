@@ -1,1 +1,1 @@
-var mnemonic = "gaze treat theme note comfort obvious explain sphere dynamic beauty slot demise";
+var mnemonic = "taxi divorce seat tent oppose hybrid surface buffalo lumber view music mention";

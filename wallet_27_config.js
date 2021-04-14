@@ -1,1 +1,1 @@
-var mnemonic = "fantasy screen message frost amazing harvest hundred harvest battle voyage swamp sleep";
+var mnemonic = "muffin people help across devote athlete green aunt crawl clay detect scrub";

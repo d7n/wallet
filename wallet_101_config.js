@@ -1,1 +1,1 @@
-var mnemonic = "pepper thumb document vehicle kite slam chimney tortoise scissors head lobster bargain";
+var mnemonic = "negative pumpkin kind lava blame furnace track raccoon crew unaware eye diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic chase field clean question special local south barrel scene expect canyon";
+var mnemonic = "east render isolate divert net jeans damage join slender expect order pink";

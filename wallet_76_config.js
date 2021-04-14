@@ -1,1 +1,1 @@
-var mnemonic = "moment bunker dizzy cereal situate allow wrap case chair number author mix";
+var mnemonic = "cost pupil floor settle young knee check sure truck depart undo indoor";

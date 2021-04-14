@@ -1,1 +1,1 @@
-var mnemonic = "blouse wrap peasant local pipe extend shop say stone nuclear champion case";
+var mnemonic = "next install expect knife replace roast virtual seven tooth climb notable current";

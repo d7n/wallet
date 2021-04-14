@@ -1,1 +1,1 @@
-var mnemonic = "human fat sport deputy congress eight list genre debate thrive despair copy";
+var mnemonic = "inject stamp interest depart hunt morning noise match embody bounce title invite";

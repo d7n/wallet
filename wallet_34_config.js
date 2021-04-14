@@ -1,1 +1,1 @@
-var mnemonic = "climb tourist brief tongue figure abuse term stand divert beyond soccer expand";
+var mnemonic = "setup notice rural custom peanut design act swallow hawk pulp arctic foster";

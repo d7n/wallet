@@ -1,1 +1,1 @@
-var mnemonic = "tell stay someone game major skate cancel chuckle width eyebrow switch sister";
+var mnemonic = "rebel city frozen civil educate bracket rocket where traffic mind final leave";

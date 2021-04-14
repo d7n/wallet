@@ -1,1 +1,1 @@
-var mnemonic = "polar utility frozen prize novel announce diamond ticket seven fresh razor assault";
+var mnemonic = "ketchup dial short dust aisle taste segment laugh drop metal unhappy drum";

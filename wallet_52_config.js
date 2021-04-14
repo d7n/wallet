@@ -1,1 +1,1 @@
-var mnemonic = "galaxy task wasp fan liberty orbit category prepare drastic guard kick rough";
+var mnemonic = "bronze summer unaware beauty behave action vote crime industry soft easily tree";

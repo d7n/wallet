@@ -1,1 +1,1 @@
-var mnemonic = "maze mandate piano slice jump trade kick play bachelor caution under magic";
+var mnemonic = "shrimp never senior oyster gesture afford obtain gold library erode vintage cat";

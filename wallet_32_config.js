@@ -1,1 +1,1 @@
-var mnemonic = "scan glance hard rice pig tornado must approve find expose company slush";
+var mnemonic = "agree day foster fee open drink gas keep ahead large empty drop";

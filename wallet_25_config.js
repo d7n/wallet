@@ -1,1 +1,1 @@
-var mnemonic = "swallow mesh napkin grape husband ladder burst alley erase employ clog hawk";
+var mnemonic = "green option burger symbol swamp shiver organ boy slot hybrid special sustain";

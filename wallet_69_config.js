@@ -1,1 +1,1 @@
-var mnemonic = "lady couple dress shell split craft cycle kit bulk tissue pelican steel";
+var mnemonic = "rubber fitness hair indicate fury whip diet aisle want remember wedding vacant";

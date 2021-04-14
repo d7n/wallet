@@ -1,1 +1,1 @@
-var mnemonic = "letter home east solve poem stumble one believe hunt liar duck portion";
+var mnemonic = "force grocery alarm divert era track tourist loan exact toward nut usage";

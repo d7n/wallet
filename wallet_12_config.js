@@ -1,1 +1,1 @@
-var mnemonic = "easy setup bachelor panic wage balance ranch sure merge exile popular day";
+var mnemonic = "fire merry home cry timber trust december visa okay olive recycle galaxy";

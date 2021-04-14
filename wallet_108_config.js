@@ -1,1 +1,1 @@
-var mnemonic = "action cement april screen runway ankle insect custom soul view frown bargain";
+var mnemonic = "castle shadow exhibit engage space false dry chaos appear finger metal embark";

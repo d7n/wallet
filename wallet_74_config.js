@@ -1,1 +1,1 @@
-var mnemonic = "immense rain report cool veteran gallery obey furnace flock nothing scheme cabbage";
+var mnemonic = "orbit limb label wealth episode toy ice machine ladder explain hazard vessel";

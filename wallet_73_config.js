@@ -1,1 +1,1 @@
-var mnemonic = "portion habit involve awkward sentence rigid alone dream confirm leader say solar";
+var mnemonic = "intact before thrive private mass bread clog summer manual style before bleak";

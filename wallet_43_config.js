@@ -1,1 +1,1 @@
-var mnemonic = "vendor satisfy detail romance educate glass state margin calm bonus melody purity";
+var mnemonic = "wink special black grass motor all addict usage length hover enrich bird";
