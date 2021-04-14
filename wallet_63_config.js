@@ -1,1 +1,1 @@
-var mnemonic = "enemy require rifle grief wheat force update that skull guilt disorder evoke";
+var mnemonic = "slam tilt glare become milk tourist timber opinion bonus video dirt trap";

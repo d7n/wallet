@@ -1,1 +1,1 @@
-var mnemonic = "weekend notable entire cycle next joke around canoe thumb blush hip raccoon";
+var mnemonic = "garbage dutch diamond tomato toss couch trim drip shop save time debate";

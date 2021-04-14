@@ -1,1 +1,1 @@
-var mnemonic = "option gallery sight lab fee erode dismiss aware base bubble fabric forward";
+var mnemonic = "sign arrest force work repair detect security crowd parade recall embody differ";

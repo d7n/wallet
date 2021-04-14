@@ -1,1 +1,1 @@
-var mnemonic = "enemy pilot buffalo cheap spin quote artist broom stumble humble odor furnace";
+var mnemonic = "catalog stand unknown phrase polar switch snow web scorpion sport label away";

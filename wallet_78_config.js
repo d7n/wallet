@@ -1,1 +1,1 @@
-var mnemonic = "split patrol shove thrive slogan size diet oven puppy warrior mesh dose";
+var mnemonic = "maze core race mechanic amount black since sudden inspire axis deal fancy";

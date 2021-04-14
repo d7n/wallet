@@ -1,1 +1,1 @@
-var mnemonic = "crucial burden vague message confirm shy donkey pulse derive mushroom august stand";
+var mnemonic = "suspect clown toe mention doll duty any wonder twist depend list margin";

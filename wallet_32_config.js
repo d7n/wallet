@@ -1,1 +1,1 @@
-var mnemonic = "payment glare inquiry service picture punch still pair wool crawl winner large";
+var mnemonic = "lizard tip balance around midnight divert matter toward spot tobacco street jaguar";

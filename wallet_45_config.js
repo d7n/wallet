@@ -1,1 +1,1 @@
-var mnemonic = "offer attract season legend office path pretty retire acid fat result legal";
+var mnemonic = "remind churn penalty save inform position rug vehicle when marine infant pull";

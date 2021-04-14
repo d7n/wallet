@@ -1,1 +1,1 @@
-var mnemonic = "hire vivid swamp man recycle pudding used tell hub lobster material core";
+var mnemonic = "beauty can alpha tell design excess mule gap feel warrior erosion rigid";

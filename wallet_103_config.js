@@ -1,1 +1,1 @@
-var mnemonic = "clean raw dwarf pluck badge memory vendor offer nature avoid knife pitch";
+var mnemonic = "flight orphan loan silly fancy novel transfer output still vacant orchard until";

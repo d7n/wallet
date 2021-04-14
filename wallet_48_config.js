@@ -1,1 +1,1 @@
-var mnemonic = "stage exit soup stumble high now romance arena leader year enable lonely";
+var mnemonic = "flame base barely praise sport fetch square exotic december online dose symbol";

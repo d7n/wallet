@@ -1,1 +1,1 @@
-var mnemonic = "bind gift student aisle only novel argue better occur chicken ozone harvest";
+var mnemonic = "feed torch leave embrace thumb group negative polar burden girl hub tumble";

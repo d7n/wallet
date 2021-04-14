@@ -1,1 +1,1 @@
-var mnemonic = "settle couch stable cruel praise repeat vocal face diamond lesson celery air";
+var mnemonic = "produce useful trap unlock genuine rapid repair case lumber hamster melt occur";

@@ -1,1 +1,1 @@
-var mnemonic = "dune account south three problem magic mouse render chaos draft pond then";
+var mnemonic = "alpha trial bomb beyond tuna replace next usual shuffle rib release style";

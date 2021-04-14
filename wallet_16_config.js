@@ -1,1 +1,1 @@
-var mnemonic = "result wish meadow duty maple test monkey corn imitate border scatter task";
+var mnemonic = "wine predict industry behave nose roof goose size crush pause forum scrub";

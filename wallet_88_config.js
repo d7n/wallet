@@ -1,1 +1,1 @@
-var mnemonic = "broom wild polar swim deputy warrior chef lamp design enroll angle analyst";
+var mnemonic = "exercise behind style cost ribbon private display pair mango arena book balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "design science cradle dolphin clean submit blame frequent attitude vault crystal enjoy";
+var mnemonic = "exact tree typical fitness reform reopen venue avoid dust runway nose hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial inch describe finger force tiger april remain illegal smile key dash";
+var mnemonic = "client obtain notable setup actress bitter crash remind produce garment manual aim";

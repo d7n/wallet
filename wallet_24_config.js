@@ -1,1 +1,1 @@
-var mnemonic = "orient path about essence artist pair beauty emotion copper immune wash estate";
+var mnemonic = "sugar cry spend behind boat install doll change renew replace story absorb";

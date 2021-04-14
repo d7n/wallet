@@ -1,1 +1,1 @@
-var mnemonic = "approve strategy nation canyon regular magnet fiscal vendor retreat brain oil join";
+var mnemonic = "disorder pistol flash outdoor sort security accident essence loop round giant forest";

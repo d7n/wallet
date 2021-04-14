@@ -1,1 +1,1 @@
-var mnemonic = "odor verify educate wife lottery life access main walnut inhale keep risk";
+var mnemonic = "dumb matrix post salon garage plastic trophy victory sign type garage banner";

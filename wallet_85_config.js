@@ -1,1 +1,1 @@
-var mnemonic = "rebuild kid glory episode verb situate tackle leisure law steak impulse code";
+var mnemonic = "brick wedding feel race bulb write wife badge crime success twin pig";

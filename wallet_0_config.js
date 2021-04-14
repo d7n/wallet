@@ -1,1 +1,1 @@
-var mnemonic = "load tuition bullet slim swamp pumpkin brick sweet matrix alter rookie best";
+var mnemonic = "lumber answer prosper rural kingdom lesson tape dad soft amazing wreck busy";

@@ -1,1 +1,1 @@
-var mnemonic = "client range inject fine elbow push birth limit sketch arctic fury strategy";
+var mnemonic = "drama crew candy vote brisk acoustic brush novel hawk crunch trade weasel";

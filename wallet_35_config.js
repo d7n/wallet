@@ -1,1 +1,1 @@
-var mnemonic = "arch exhaust funny modify habit release bonus wisdom over piano fiction power";
+var mnemonic = "sting lecture much stamp mistake leave night chat drum remember often discover";

@@ -1,1 +1,1 @@
-var mnemonic = "fan thunder stumble final nose double bridge end prison vacant holiday stool";
+var mnemonic = "fox book clever soda once jeans tattoo skate twenty exercise exit arch";

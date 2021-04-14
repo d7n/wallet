@@ -1,1 +1,1 @@
-var mnemonic = "romance equal garage scrub slice tourist debris horror knife deer clip night";
+var mnemonic = "tiny exotic parent rhythm jungle banana taxi grape sunny ensure smooth slender";

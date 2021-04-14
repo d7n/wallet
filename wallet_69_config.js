@@ -1,1 +1,1 @@
-var mnemonic = "steel motor hunt sight sweet hawk abstract actual arrive tennis glue vintage";
+var mnemonic = "during crew wreck sign dry puppy film elephant visual aware gold style";

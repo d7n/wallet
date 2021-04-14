@@ -1,1 +1,1 @@
-var mnemonic = "viable wide divide soup sustain super bounce remind innocent elegant update hamster";
+var mnemonic = "finger nation craft opera liquid cat cousin humor mixed frozen damage letter";

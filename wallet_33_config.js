@@ -1,1 +1,1 @@
-var mnemonic = "pig milk try six exhibit girl harsh conduct talent jaguar team column";
+var mnemonic = "produce mistake lamp never firm scene common daring lizard peace party key";

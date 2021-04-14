@@ -1,1 +1,1 @@
-var mnemonic = "gate evidence february lab bleak spoil trash dash small either notice exact";
+var mnemonic = "foam cushion switch always sleep verify grocery group anger pluck guard cancel";

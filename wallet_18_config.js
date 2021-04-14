@@ -1,1 +1,1 @@
-var mnemonic = "glare muscle circle render physical girl blue divorce govern truly busy cruel";
+var mnemonic = "post lounge test immune current diesel domain dynamic achieve act cannon mind";

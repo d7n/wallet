@@ -1,1 +1,1 @@
-var mnemonic = "season mind gather knife abuse recycle ripple chase animal nuclear mother eternal";
+var mnemonic = "wire crack dream rescue gaze major element zebra vague clip reason miss";

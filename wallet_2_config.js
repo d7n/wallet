@@ -1,1 +1,1 @@
-var mnemonic = "sister below immense someone kangaroo kitten moon million swift beauty news switch";
+var mnemonic = "chapter maze skull shadow health mom coin crime general school bomb because";

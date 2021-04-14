@@ -1,1 +1,1 @@
-var mnemonic = "moon federal nose universe copper witness jazz expose insane frame pass much";
+var mnemonic = "noodle execute bus narrow broken injury number belt chef prosper boring pupil";

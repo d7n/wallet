@@ -1,1 +1,1 @@
-var mnemonic = "noodle beauty jelly boost hammer journey crazy lady robust royal voice gold";
+var mnemonic = "hood medal grit claw pupil analyst odor region pony melt hazard escape";

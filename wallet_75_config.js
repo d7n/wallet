@@ -1,1 +1,1 @@
-var mnemonic = "notable way cat program rescue hair scare sunset together wrist hybrid blind";
+var mnemonic = "say ramp bus coin ticket license injury poverty minute universe village cloth";

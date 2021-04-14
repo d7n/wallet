@@ -1,1 +1,1 @@
-var mnemonic = "useful opera quick feed group upon kitten sheriff defense kit duck tuition";
+var mnemonic = "odor eye unknown grunt chair olympic spawn grain battle area army affair";

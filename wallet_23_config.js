@@ -1,1 +1,1 @@
-var mnemonic = "rather battle dignity swap kit universe key salad similar vote neither feel";
+var mnemonic = "catch miss hat chef palace squirrel shuffle state trend member joy fragile";

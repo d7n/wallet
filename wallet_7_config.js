@@ -1,1 +1,1 @@
-var mnemonic = "ladder swear royal impulse crop add that canvas kiwi trend surprise token";
+var mnemonic = "lounge choose vague clump bone extend media strategy improve crack merit ready";

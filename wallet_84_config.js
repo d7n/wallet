@@ -1,1 +1,1 @@
-var mnemonic = "panel boss address gorilla cart excite scissors chicken pledge deal cute never";
+var mnemonic = "region seed profit island rocket bamboo dismiss leaf cabbage update enlist panda";

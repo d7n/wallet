@@ -1,1 +1,1 @@
-var mnemonic = "shoot cat source hollow loan soap concert apple crisp sand parent fit";
+var mnemonic = "today sibling helmet airport combine away amused circle black forget own shoe";

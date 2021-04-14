@@ -1,1 +1,1 @@
-var mnemonic = "embody project oven notice amazing drive fortune submit west warfare govern found";
+var mnemonic = "comic panda brief unveil borrow goose blush waste relax begin december heart";

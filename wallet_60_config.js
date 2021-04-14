@@ -1,1 +1,1 @@
-var mnemonic = "moral vocal stone alcohol clock network toss throw isolate second much combine";
+var mnemonic = "man lawsuit dial weekend alpha dilemma item better push collect squirrel odor";

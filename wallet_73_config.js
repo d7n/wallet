@@ -1,1 +1,1 @@
-var mnemonic = "leader elephant omit guitar dish dish pyramid spy crowd urge good area";
+var mnemonic = "turkey tribe unaware knock meadow team ecology pioneer board phrase farm enjoy";

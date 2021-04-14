@@ -1,1 +1,1 @@
-var mnemonic = "cover palm sick tone wool fossil audit deal brief elegant crystal roof";
+var mnemonic = "portion sadness true nature disorder danger machine gather extend castle alcohol cancel";

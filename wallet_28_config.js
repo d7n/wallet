@@ -1,1 +1,1 @@
-var mnemonic = "drive tumble open penalty palm bronze umbrella churn grief feed affair fortune";
+var mnemonic = "lounge puzzle viable deputy stay have pulse favorite danger imitate display math";

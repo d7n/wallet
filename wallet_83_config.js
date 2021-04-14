@@ -1,1 +1,1 @@
-var mnemonic = "damage split calm curious pact birth claim crack real seminar baby luggage";
+var mnemonic = "logic orphan devote success chicken leaf grow bargain toast capable donate shift";

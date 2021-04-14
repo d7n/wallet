@@ -1,1 +1,1 @@
-var mnemonic = "card wear shuffle tuition pizza write switch absurd mother battle bacon wagon";
+var mnemonic = "you oyster clean various put ten useful snow code situate legal hunt";

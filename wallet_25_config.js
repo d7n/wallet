@@ -1,1 +1,1 @@
-var mnemonic = "foot cruise reflect flag average blanket agent recycle must poet split bean";
+var mnemonic = "invite wage sample bleak hub chronic board boy fun tape royal smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "dry wish desk asthma promote lunar stomach rack sweet excess famous fitness";
+var mnemonic = "coyote accident layer lock crouch rent lava bone excuse also until cereal";

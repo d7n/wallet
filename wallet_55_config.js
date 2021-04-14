@@ -1,1 +1,1 @@
-var mnemonic = "grit broom emerge baby like confirm term salon river since vessel sport";
+var mnemonic = "meat snack room blade tuna exclude capable pepper banner honey faint float";

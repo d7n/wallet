@@ -1,1 +1,1 @@
-var mnemonic = "sadness broccoli pole arrest short clown spray scheme drop snake senior mean";
+var mnemonic = "decorate absorb keep almost organ drastic ritual job hint wish three sure";

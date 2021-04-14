@@ -1,1 +1,1 @@
-var mnemonic = "include sea begin other please insect race deer truly depart crater text";
+var mnemonic = "dinner lizard match during bonus spike gift carry blur neck congress toddler";

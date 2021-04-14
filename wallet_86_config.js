@@ -1,1 +1,1 @@
-var mnemonic = "slam phrase dash club deposit clutch online mango ripple park enjoy inherit";
+var mnemonic = "feature smoke know acquire prepare profit cheese travel you pass february like";

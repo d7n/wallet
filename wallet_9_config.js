@@ -1,1 +1,1 @@
-var mnemonic = "cook toilet future chase cry amused ignore bicycle empty elite cover joke";
+var mnemonic = "captain seven quit ivory game whale sing category dolphin alarm faint annual";

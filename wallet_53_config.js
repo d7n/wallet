@@ -1,1 +1,1 @@
-var mnemonic = "polar since birth lady inner supreme metal atom fame drop meadow meat";
+var mnemonic = "camp around way robot water recall armed chair hope come defense morning";

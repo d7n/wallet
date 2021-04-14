@@ -1,1 +1,1 @@
-var mnemonic = "ability salt excess ridge barely actor bicycle frown short pipe clip unknown";
+var mnemonic = "news giant bridge lady front scan speak scare corn arm duty social";

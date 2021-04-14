@@ -1,1 +1,1 @@
-var mnemonic = "asthma walnut beauty swamp escape crunch buyer cable demand victory improve wagon";
+var mnemonic = "bottom upgrade scare athlete account tired banana return exotic wrestle beef cigar";

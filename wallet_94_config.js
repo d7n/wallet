@@ -1,1 +1,1 @@
-var mnemonic = "satoshi always guilt panel soap visa ivory just educate hover discover pact";
+var mnemonic = "agent cotton situate ball black west trick enter crystal amateur patrol august";

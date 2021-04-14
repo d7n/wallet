@@ -1,1 +1,1 @@
-var mnemonic = "crack divert boil rigid doctor cram enrich float okay segment crucial dignity";
+var mnemonic = "multiply deny photo diagram imitate usual wink cancel retreat card travel opinion";

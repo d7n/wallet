@@ -1,1 +1,1 @@
-var mnemonic = "table myth grunt moment inmate spring draft because input catalog property long";
+var mnemonic = "program craft bless best insect mansion know excuse wolf hold pelican town";

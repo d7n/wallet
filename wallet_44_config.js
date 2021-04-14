@@ -1,1 +1,1 @@
-var mnemonic = "capital stock supply remove metal volume rice minute often morning identify uphold";
+var mnemonic = "merit mind object thank guitar tree divide quit health all steak chimney";

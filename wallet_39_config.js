@@ -1,1 +1,1 @@
-var mnemonic = "learn achieve equal lift piece dog latin fall seminar firm poet embrace";
+var mnemonic = "century rib cricket fat there tornado acquire stadium alpha cake below day";

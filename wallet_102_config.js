@@ -1,1 +1,1 @@
-var mnemonic = "medal major finish secret year orange hello bone obey ugly piece tuna";
+var mnemonic = "ship then panther demise matrix evil client gown follow dwarf source dance";

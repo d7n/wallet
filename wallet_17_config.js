@@ -1,1 +1,1 @@
-var mnemonic = "reunion permit claim brain lonely cannon dumb hire nose adjust brain sunset";
+var mnemonic = "limit advance soft cradle unveil lady chaos shove glad noble brief unhappy";

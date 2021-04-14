@@ -1,1 +1,1 @@
-var mnemonic = "prepare acoustic flat acid where cushion mule pattern orbit garment icon math";
+var mnemonic = "adapt pelican key taxi toddler elite sauce eyebrow funny vanish vital faint";

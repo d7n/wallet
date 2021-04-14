@@ -1,1 +1,1 @@
-var mnemonic = "gap loan loan luxury chase loud hedgehog axis very biology human finish";
+var mnemonic = "jealous okay hurt chat during ticket rebel brass review genuine language wink";

@@ -1,1 +1,1 @@
-var mnemonic = "side voyage palace left copper fantasy puppy churn illegal nephew paper special";
+var mnemonic = "repair service goat upper tumble still salmon edit weather oyster dance soon";

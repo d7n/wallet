@@ -1,1 +1,1 @@
-var mnemonic = "system kit retreat sense stem saddle cliff eye glue same umbrella quit";
+var mnemonic = "physical garden oyster rocket lava syrup forget image excess twice easily lava";

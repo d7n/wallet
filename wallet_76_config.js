@@ -1,1 +1,1 @@
-var mnemonic = "slender opinion attack inform inhale human debate sponsor fluid annual north timber";
+var mnemonic = "fancy cage royal wife guide report hedgehog time swallow model impose pluck";

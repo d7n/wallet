@@ -1,1 +1,1 @@
-var mnemonic = "miracle ladder festival bid major there antenna auction local original brain give";
+var mnemonic = "fashion lemon maid van work mercy climb game member stable error goddess";

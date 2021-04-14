@@ -1,1 +1,1 @@
-var mnemonic = "cement hotel frequent famous display wage focus chronic depart idle remain attack";
+var mnemonic = "report apple lawn they pencil whip grape library silver river kiss citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "bright upon weird replace auto before deer luxury sell inspire pluck hawk";
+var mnemonic = "unit forum person useless approve pulp domain length toss eager humble truly";

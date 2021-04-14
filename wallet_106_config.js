@@ -1,1 +1,1 @@
-var mnemonic = "copper cream above awake month empower trick monster drill pair culture caught";
+var mnemonic = "uncle cream sauce head stomach island uncover just round maid patch hockey";

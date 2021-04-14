@@ -1,1 +1,1 @@
-var mnemonic = "gloom bone rigid damage empower crop eagle sunset pact earn great help";
+var mnemonic = "tell firm february miss puppy fox stomach dismiss scare wealth marriage certain";

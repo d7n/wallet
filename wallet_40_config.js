@@ -1,1 +1,1 @@
-var mnemonic = "join child gas promote welcome medal history portion guard pyramid use fan";
+var mnemonic = "ability ribbon shell release index normal deputy near clock grunt glass waste";

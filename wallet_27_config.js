@@ -1,1 +1,1 @@
-var mnemonic = "injury female west enough rug below royal dial stock muffin front barely";
+var mnemonic = "legend carry crawl honey hope nation sheriff drama tissue cupboard oxygen device";

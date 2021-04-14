@@ -1,1 +1,1 @@
-var mnemonic = "uncle unknown clinic develop domain one leader range run tape shove cherry";
+var mnemonic = "unable dance south service cave hood orphan guess ahead case hire neglect";

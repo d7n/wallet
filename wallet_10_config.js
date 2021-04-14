@@ -1,1 +1,1 @@
-var mnemonic = "short parade valid fish salmon visual fine egg state illness casual merge";
+var mnemonic = "wait sentence island swing exchange orphan clown walk crawl catch essay tube";

@@ -1,1 +1,1 @@
-var mnemonic = "wave twelve sport limit crop jelly elder behind grace forum raven ring";
+var mnemonic = "recycle style detect gaze retreat axis foil treat bulk female color weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "enable spice knee track fall throw mistake atom brave bean simple badge";
+var mnemonic = "cabbage input scout elegant autumn develop endless correct dynamic sponsor write face";

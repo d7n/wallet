@@ -1,1 +1,1 @@
-var mnemonic = "custom ice same demand always benefit adapt option execute door afraid original";
+var mnemonic = "noodle ticket tomato hello card upgrade squirrel noise decade rule diamond idea";

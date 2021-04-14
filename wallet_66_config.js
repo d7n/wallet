@@ -1,1 +1,1 @@
-var mnemonic = "small resemble van lobster west saddle smart style punch tomato clinic flash";
+var mnemonic = "build advice maple shoulder account civil bind decide stomach ostrich useless key";

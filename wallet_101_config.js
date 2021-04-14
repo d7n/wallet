@@ -1,1 +1,1 @@
-var mnemonic = "strong glance foam twice entire grocery rigid orbit liquid garbage inflict swap";
+var mnemonic = "link blame photo short enlist spin damp fall forum exotic gauge canvas";

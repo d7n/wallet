@@ -1,1 +1,1 @@
-var mnemonic = "creek major galaxy possible punch cloud slight exact powder nerve tone opera";
+var mnemonic = "plug waste general tool torch immense rookie uphold join amount warfare top";

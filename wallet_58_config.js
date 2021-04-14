@@ -1,1 +1,1 @@
-var mnemonic = "benefit naive misery input floor venture latin visual peanut front devote bottom";
+var mnemonic = "away obscure waste mountain stable shoulder much open upset begin disease seat";

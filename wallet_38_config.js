@@ -1,1 +1,1 @@
-var mnemonic = "snack exhibit skirt comic open feed dance camp receive turn busy broken";
+var mnemonic = "hint drum jewel merge hand sure still earn mystery fabric time inject";

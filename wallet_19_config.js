@@ -1,1 +1,1 @@
-var mnemonic = "juice mention glow example picture dizzy minute bomb double seat response toy";
+var mnemonic = "maple cruel whip observe will cigar track mystery lava must endless dish";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit page truth material body hover oyster sea leisure permit fall twice";
+var mnemonic = "cherry rocket craft fade assume never bind gaze pet zoo globe lonely";

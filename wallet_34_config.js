@@ -1,1 +1,1 @@
-var mnemonic = "strike media illness lamp wing creek habit fee canvas dumb purse major";
+var mnemonic = "chat ranch lemon fold grid immense unique black impulse math wasp stool";
