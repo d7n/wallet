@@ -1,1 +1,1 @@
-var mnemonic = "embrace goat unit confirm mutual cute script rent bicycle urge abandon final";
+var mnemonic = "wall open element analyst sketch bring argue cave power network aware ghost";

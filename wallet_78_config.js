@@ -1,1 +1,1 @@
-var mnemonic = "twenty enrich borrow project ready dinosaur dentist eager wire stem easily pottery";
+var mnemonic = "bench meat alert lava mercy vintage same volcano broken inmate vocal library";

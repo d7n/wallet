@@ -1,1 +1,1 @@
-var mnemonic = "mirror piano wall sight heart slim useful knock donate various shoot avocado";
+var mnemonic = "flag system price doctor play dutch axis hand plate ethics popular medal";

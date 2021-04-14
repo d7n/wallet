@@ -1,1 +1,1 @@
-var mnemonic = "garment chase chalk tourist honey glide sausage twenty drum crush flavor joy";
+var mnemonic = "demise end similar grid hover loud useless merit snake whip dust embody";

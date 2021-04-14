@@ -1,1 +1,1 @@
-var mnemonic = "print opera toilet sorry exist vote help reform upon jazz program quiz";
+var mnemonic = "olive tunnel earn train fancy garbage library acquire garment average engage segment";

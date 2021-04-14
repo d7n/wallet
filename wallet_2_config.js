@@ -1,1 +1,1 @@
-var mnemonic = "art mirror gentle clap market ribbon pepper fox square pulp chimney aunt";
+var mnemonic = "virus rapid chalk ecology law uniform lava equal frown pistol damage oxygen";

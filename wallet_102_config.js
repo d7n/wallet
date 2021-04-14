@@ -1,1 +1,1 @@
-var mnemonic = "exhibit essence leaf chair raccoon mix miss inform struggle winner return struggle";
+var mnemonic = "sand airport obscure amount inform boring chest dismiss charge jacket spread risk";

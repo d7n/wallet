@@ -1,1 +1,1 @@
-var mnemonic = "tiger scan short method ripple baby proud suggest rib jeans yard convince";
+var mnemonic = "pencil horse organ genius soap become engine cluster jewel pyramid require upper";

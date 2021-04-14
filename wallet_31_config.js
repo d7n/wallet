@@ -1,1 +1,1 @@
-var mnemonic = "mother oppose stable immense follow fatigue rain atom welcome wrap picture machine";
+var mnemonic = "summer mystery magnet fury purchase travel theory endless portion depend term saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "submit flash course rally choose canvas trial salad wrong push glance verb";
+var mnemonic = "erupt mercy pole climb coach upgrade saddle amount accident shine arrive venue";

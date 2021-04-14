@@ -1,1 +1,1 @@
-var mnemonic = "regret insect fitness kid news alone judge better salad magnet hawk spoon";
+var mnemonic = "rug round jar wonder airport traffic decline balance unknown message scatter insane";

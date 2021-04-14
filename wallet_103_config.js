@@ -1,1 +1,1 @@
-var mnemonic = "moon worry head crush rude ugly man onion gallery camp dial bachelor";
+var mnemonic = "step layer trigger rude sand special stand random caution rare book inform";

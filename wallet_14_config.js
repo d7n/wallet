@@ -1,1 +1,1 @@
-var mnemonic = "claw review copy cinnamon effort lounge update strike hold offer capital cost";
+var mnemonic = "already myth horn mixed library cousin donor coffee simple crystal quit cabbage";

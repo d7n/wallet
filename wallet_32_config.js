@@ -1,1 +1,1 @@
-var mnemonic = "alley shoe cinnamon dawn field october budget only plunge antenna illegal donor";
+var mnemonic = "wealth merge heart fork melt language impulse prison capable zebra tackle party";

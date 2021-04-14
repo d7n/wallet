@@ -1,1 +1,1 @@
-var mnemonic = "upon shrug merry hospital estate slam loan hour filter glare shadow claim";
+var mnemonic = "duty fire sweet carbon evoke habit fuel sort benefit mass frog amazing";

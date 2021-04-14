@@ -1,1 +1,1 @@
-var mnemonic = "mesh cabbage blush space corn pave expose ignore arrest analyst sweet obey";
+var mnemonic = "outside plug put planet dawn prize civil vintage course false job decline";

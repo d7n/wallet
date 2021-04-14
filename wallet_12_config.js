@@ -1,1 +1,1 @@
-var mnemonic = "income wing scene special swarm mechanic tag assume october sketch organ boss";
+var mnemonic = "trip old produce evil stick repeat rebel dose rich struggle tribe offer";

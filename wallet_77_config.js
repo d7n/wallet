@@ -1,1 +1,1 @@
-var mnemonic = "pencil predict region elite stove curious believe spare seat country just manual";
+var mnemonic = "festival rocket glide conduct burden grab hole enemy wisdom fix square regular";

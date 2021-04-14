@@ -1,1 +1,1 @@
-var mnemonic = "sound orbit old ahead scale helmet noble exchange muffin coin ensure friend";
+var mnemonic = "engage team song pond pottery gather borrow jaguar rain awkward receive equal";

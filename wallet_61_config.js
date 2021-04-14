@@ -1,1 +1,1 @@
-var mnemonic = "panel woman zoo cause fun giant treat silver ensure resemble search dose";
+var mnemonic = "entry clip copper ticket twice axis panic extra shy parent recycle dish";

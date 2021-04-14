@@ -1,1 +1,1 @@
-var mnemonic = "cigar face scheme write clever solution review word man mule filter try";
+var mnemonic = "salt never crack language six duck case episode flock lizard trick armor";

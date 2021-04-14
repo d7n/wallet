@@ -1,1 +1,1 @@
-var mnemonic = "hour bundle ribbon source nice robot kiwi senior hobby pet resist want";
+var mnemonic = "arrange annual enroll gorilla guess unfair sauce heart menu accident era quit";

@@ -1,1 +1,1 @@
-var mnemonic = "list keep rare flash leader decade burst unable sniff stone sorry tobacco";
+var mnemonic = "wash rude foil captain rose butter deal scale garment code east benefit";

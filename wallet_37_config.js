@@ -1,1 +1,1 @@
-var mnemonic = "sun wool else distance guide allow acquire cloth robust become trophy gloom";
+var mnemonic = "garbage pigeon window panel luggage vault wasp riot pottery barely famous visa";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin jacket work prison blade target then mouse knee cotton suffer hint";
+var mnemonic = "merit rather tent vault assault merge hawk window come scatter ranch easy";

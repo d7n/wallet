@@ -1,1 +1,1 @@
-var mnemonic = "spoil monkey into dinner renew rifle danger casual insect attend diagram hamster";
+var mnemonic = "unit easy analyst hard buzz collect inform host chunk wrist either exclude";

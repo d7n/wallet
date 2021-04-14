@@ -1,1 +1,1 @@
-var mnemonic = "agree secret black humor tackle atom inspire real fringe priority hill evoke";
+var mnemonic = "spin together sorry puppy envelope pigeon between maximum learn happy meat tell";

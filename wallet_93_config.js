@@ -1,1 +1,1 @@
-var mnemonic = "wear must motion oak fancy connect salmon know combine sponsor cloud tornado";
+var mnemonic = "planet mandate gift finish cave forest risk resource nest invest try define";

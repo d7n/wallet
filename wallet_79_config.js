@@ -1,1 +1,1 @@
-var mnemonic = "recall owner divert tent trigger giggle wall silly calm basket bicycle water";
+var mnemonic = "invite arena recipe feed silver leave glory hold can tooth weather hover";

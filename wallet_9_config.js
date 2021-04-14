@@ -1,1 +1,1 @@
-var mnemonic = "flight history wild blur guilt drastic screen group joy sample hungry little";
+var mnemonic = "vacant slow message unfair cigar mean play bring upgrade hidden main cycle";

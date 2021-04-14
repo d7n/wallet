@@ -1,1 +1,1 @@
-var mnemonic = "exchange scale offer pluck burst warm chaos pink fragile umbrella improve artwork";
+var mnemonic = "dizzy peace rotate stage robot skull debate humor daughter champion video educate";

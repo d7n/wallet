@@ -1,1 +1,1 @@
-var mnemonic = "detect sphere pigeon already hamster thumb concert injury market video rent surprise";
+var mnemonic = "crash obvious polar stool issue frame piece bring furnace theory fee doctor";

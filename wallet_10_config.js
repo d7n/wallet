@@ -1,1 +1,1 @@
-var mnemonic = "old ancient sketch hair web typical stand way quick antenna brick sense";
+var mnemonic = "cement either mountain wealth unfair risk shallow fatal pet beyond siege cabbage";

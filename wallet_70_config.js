@@ -1,1 +1,1 @@
-var mnemonic = "silly wolf light kiss stuff proof pelican already dash toss donor piano";
+var mnemonic = "toast edge truck skull south cement brave feel dignity walk donor weekend";

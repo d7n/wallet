@@ -1,1 +1,1 @@
-var mnemonic = "sword fog confirm circle page stomach meadow hello quality win mom veteran";
+var mnemonic = "broken brown damage judge daughter away pet retire join attitude spray hockey";

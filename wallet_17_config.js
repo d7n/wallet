@@ -1,1 +1,1 @@
-var mnemonic = "unable repair field smile rebel hundred misery scan stay walnut crime document";
+var mnemonic = "blind thunder end unit general fruit huge rebuild fire sadness oak vault";

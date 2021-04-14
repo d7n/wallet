@@ -1,1 +1,1 @@
-var mnemonic = "crawl fortune daughter hold great tourist lunar later want garlic tuition below";
+var mnemonic = "script exclude scout stamp swap acoustic crowd ramp improve knee daughter embrace";

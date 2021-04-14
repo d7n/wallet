@@ -1,1 +1,1 @@
-var mnemonic = "old tongue teach amount day envelope forum medal release aisle charge measure";
+var mnemonic = "escape panther choice exotic learn catalog marriage bird cover crack violin list";

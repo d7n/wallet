@@ -1,1 +1,1 @@
-var mnemonic = "resist dream brand random abuse father cancel safe book plug doll quote";
+var mnemonic = "torch inject settle office minor enlist april stock burden thing fruit warrior";

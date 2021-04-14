@@ -1,1 +1,1 @@
-var mnemonic = "between ship wall tennis envelope fatal awake cook any fossil proof behave";
+var mnemonic = "cup sea negative merry ketchup cactus buffalo nurse lend main essence shallow";

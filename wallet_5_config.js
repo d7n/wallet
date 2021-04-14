@@ -1,1 +1,1 @@
-var mnemonic = "kitchen cook hospital party keep father file measure tent jar parrot tobacco";
+var mnemonic = "abuse screen winter december woman addict mix wonder badge nature barely minute";

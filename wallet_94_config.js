@@ -1,1 +1,1 @@
-var mnemonic = "scrub morning clarify scrub relax design citizen time remove reason assault shield";
+var mnemonic = "car jazz produce swift text ticket sketch insect invest spice about melody";

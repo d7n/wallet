@@ -1,1 +1,1 @@
-var mnemonic = "umbrella goddess grit increase admit hammer arrest room museum main wrist matter";
+var mnemonic = "math sign diary year inner prosper rare champion employ female cute try";

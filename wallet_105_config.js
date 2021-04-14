@@ -1,1 +1,1 @@
-var mnemonic = "struggle boat balance attract virus hair sense luxury summer divorce hand bounce";
+var mnemonic = "make struggle turtle oil media motion close auto endorse cup weapon entry";

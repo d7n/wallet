@@ -1,1 +1,1 @@
-var mnemonic = "spoil plate arrow stone congress moment fold snake crater neither quantum unfair";
+var mnemonic = "network pupil rabbit toss sense snack tenant piano punch lizard monster onion";

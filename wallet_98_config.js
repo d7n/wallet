@@ -1,1 +1,1 @@
-var mnemonic = "income manage confirm labor rebel child window fee affair nuclear virus depend";
+var mnemonic = "super rescue announce hub enact report oxygen stamp civil tourist alley legal";

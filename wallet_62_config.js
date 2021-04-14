@@ -1,1 +1,1 @@
-var mnemonic = "spawn whale snow strike describe horn wide earn nephew dress spike list";
+var mnemonic = "expire topple assault firm lyrics choose usual flag toilet humor fox floor";

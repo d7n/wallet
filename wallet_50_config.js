@@ -1,1 +1,1 @@
-var mnemonic = "hurry badge price lock joke amount enlist smile gap luggage brain major";
+var mnemonic = "fancy slogan torch mushroom mansion smooth tackle tunnel alley crew chief extra";

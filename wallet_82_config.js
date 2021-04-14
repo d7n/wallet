@@ -1,1 +1,1 @@
-var mnemonic = "bacon there planet insect wall oblige shiver decorate business distance device tray";
+var mnemonic = "holiday example valid before yard kick panther income early change behind panic";

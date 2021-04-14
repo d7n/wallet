@@ -1,1 +1,1 @@
-var mnemonic = "again whisper stem present excite when tribe garden price help flavor board";
+var mnemonic = "uniform double october into melody disagree because outer speed result goddess fiber";

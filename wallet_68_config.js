@@ -1,1 +1,1 @@
-var mnemonic = "access claim decide siege economy gossip buddy resist ship sort asset pool";
+var mnemonic = "final apart bubble public photo alcohol wrong volume cook loop romance dwarf";

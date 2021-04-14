@@ -1,1 +1,1 @@
-var mnemonic = "close coral expect solve edit typical carpet chunk purse possible jewel dog";
+var mnemonic = "gallery faint excess squirrel input elevator clap nominee adapt milk twenty salon";

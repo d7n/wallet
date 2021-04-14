@@ -1,1 +1,1 @@
-var mnemonic = "spot pelican gloom large license aware flash absent cup erosion pink extra";
+var mnemonic = "airport rookie mistake table absorb drip pond crazy say powder convince merit";

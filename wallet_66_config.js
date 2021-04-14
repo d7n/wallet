@@ -1,1 +1,1 @@
-var mnemonic = "increase flash cross trumpet slight float bomb various copper movie mass trust";
+var mnemonic = "arch cream blouse trim speak become food knock total draw expect film";

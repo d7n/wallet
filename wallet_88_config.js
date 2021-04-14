@@ -1,1 +1,1 @@
-var mnemonic = "shield mad crystal gospel predict economy lawn keep trial have often window";
+var mnemonic = "galaxy crash shoe method assist produce again morning movie fox bid law";

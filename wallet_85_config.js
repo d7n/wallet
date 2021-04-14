@@ -1,1 +1,1 @@
-var mnemonic = "chicken source above sponsor sibling uniform song slab column rookie horn amazing";
+var mnemonic = "fortune brief wrist glue outdoor cabin three garbage shoe cattle coconut ketchup";

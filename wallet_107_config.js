@@ -1,1 +1,1 @@
-var mnemonic = "balcony deer bottom achieve spider wine brush method teach tortoise define emerge";
+var mnemonic = "eagle cement volume upset project secret tell market tuition beyond desert erupt";

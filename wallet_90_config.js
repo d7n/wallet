@@ -1,1 +1,1 @@
-var mnemonic = "detect spend before dizzy flee latin creek fall dentist noise coyote wonder";
+var mnemonic = "spring minor uphold tail vessel waste scheme wrap game among fine apology";

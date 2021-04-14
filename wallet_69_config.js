@@ -1,1 +1,1 @@
-var mnemonic = "black travel capital deal nurse inflict property decline drip setup draw tent";
+var mnemonic = "hungry assault sure flame puppy thumb anger pond heavy snack trade novel";

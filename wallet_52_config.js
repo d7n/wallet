@@ -1,1 +1,1 @@
-var mnemonic = "strike idle region skill bless club patch stage artwork teach heart extend";
+var mnemonic = "fury mule fork badge monster soft excite enroll congress owner vendor eternal";

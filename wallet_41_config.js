@@ -1,1 +1,1 @@
-var mnemonic = "decrease clinic sad degree improve lawsuit duck gym mistake render worry globe";
+var mnemonic = "van buyer tobacco mandate shallow street keep bus salad general match column";

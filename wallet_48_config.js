@@ -1,1 +1,1 @@
-var mnemonic = "maid cup noodle icon fork cloud confirm section badge twist more flash";
+var mnemonic = "behind among cabin obvious dry end obvious online liar confirm prepare bridge";

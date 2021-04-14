@@ -1,1 +1,1 @@
-var mnemonic = "equal tell usage tip gun become winner gym student prison elevator uphold";
+var mnemonic = "leaf essay gown polar february mechanic pioneer hockey gloom illegal success chest";

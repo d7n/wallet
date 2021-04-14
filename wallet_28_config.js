@@ -1,1 +1,1 @@
-var mnemonic = "skin wire gossip cherry pyramid traffic gossip opinion swing spirit hospital sausage";
+var mnemonic = "include organ child across exhibit arrest palm merit wild misery salon furnace";

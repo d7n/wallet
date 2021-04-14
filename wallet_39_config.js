@@ -1,1 +1,1 @@
-var mnemonic = "acquire lady stomach satisfy cargo matter enjoy nurse pottery detect hedgehog pyramid";
+var mnemonic = "disagree refuse today wall orient bag card bottom hospital coyote attend vendor";

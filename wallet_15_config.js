@@ -1,1 +1,1 @@
-var mnemonic = "force swift want manual food chest cream jar harsh print napkin ship";
+var mnemonic = "educate bulb true squeeze test route anger color reform tilt program riot";

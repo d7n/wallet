@@ -1,1 +1,1 @@
-var mnemonic = "patient artefact flock hint praise call top human capable walnut melody wisdom";
+var mnemonic = "screen soldier miracle strike future tongue excess nature inner laundry poverty girl";

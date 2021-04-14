@@ -1,1 +1,1 @@
-var mnemonic = "stumble hobby charge region shine salt need dad clean stick cabin reunion";
+var mnemonic = "crack install appear dust gossip sock mansion dizzy novel element slow electric";

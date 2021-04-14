@@ -1,1 +1,1 @@
-var mnemonic = "try gloom atom love elevator benefit govern pigeon absurd remind shield view";
+var mnemonic = "mention toy install else consider nerve cushion push prepare say north fragile";

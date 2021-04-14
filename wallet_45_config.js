@@ -1,1 +1,1 @@
-var mnemonic = "flame zone armor copy size hotel quiz fee wait note fame spatial";
+var mnemonic = "stand debris consider lion meadow settle torch skull panther brass jar aerobic";

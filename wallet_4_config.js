@@ -1,1 +1,1 @@
-var mnemonic = "primary rebel apple pudding safe good tattoo much episode when hospital erode";
+var mnemonic = "draft defy ship daring citizen above flip sausage check top write drip";

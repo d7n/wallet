@@ -1,1 +1,1 @@
-var mnemonic = "guide body armor tuition resemble text occur rug drill ginger mother mistake";
+var mnemonic = "inspire only chicken angle anger parent reopen typical broccoli noodle congress oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion confirm symbol helmet huge ask core first artefact collect impose fitness";
+var mnemonic = "alpha cement treat rough dynamic thumb thrive science unknown school yard goat";

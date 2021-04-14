@@ -1,1 +1,1 @@
-var mnemonic = "room innocent over trade design over become special rocket stay rack visual";
+var mnemonic = "peanut confirm question knock inflict arrange holiday mind forest tiger robust convince";

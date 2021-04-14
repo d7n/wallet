@@ -1,1 +1,1 @@
-var mnemonic = "tuition figure suffer alcohol better shed law force reduce net medal poverty";
+var mnemonic = "danger like unfold crater now mystery attend track moment turn traffic tell";

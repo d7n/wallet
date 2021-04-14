@@ -1,1 +1,1 @@
-var mnemonic = "chunk luxury gasp police anger plastic deer imitate rural sausage warm census";
+var mnemonic = "toward illness enforce rely virus urge asset prison pause uniform tragic inhale";

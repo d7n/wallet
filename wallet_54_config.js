@@ -1,1 +1,1 @@
-var mnemonic = "novel guard globe dismiss dove amazing copy reform loyal derive ketchup wedding";
+var mnemonic = "couch victory glide wish visit drill mom two panther infant panic dirt";

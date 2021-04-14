@@ -1,1 +1,1 @@
-var mnemonic = "funny oven add give audit public punch people cross inside inflict coffee";
+var mnemonic = "eternal embark vivid galaxy actress high wave field such dutch rebel cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow ghost bag fox depend sibling wine whip memory believe visit enjoy";
+var mnemonic = "eye never dose quit input staff fun crowd rain pelican surface country";

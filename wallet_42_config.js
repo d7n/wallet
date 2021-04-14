@@ -1,1 +1,1 @@
-var mnemonic = "bamboo cool banana pulse stumble grid private either loyal price crush cable";
+var mnemonic = "ancient member bonus general urban turkey require quick mimic drastic sugar drive";

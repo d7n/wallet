@@ -1,1 +1,1 @@
-var mnemonic = "armed truly glue magic choose hunt interest pony fee table layer stairs";
+var mnemonic = "rib approve chief uncle scale suggest fuel embody satoshi roof steak define";

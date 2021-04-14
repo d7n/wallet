@@ -1,1 +1,1 @@
-var mnemonic = "cream like usage spoon coconut pair powder dog lady antenna unusual blossom";
+var mnemonic = "elegant coconut wrong rather merry embody arrange famous sock attitude donate oven";

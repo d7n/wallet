@@ -1,1 +1,1 @@
-var mnemonic = "notable almost picture force raccoon quit update sponsor swift cliff you dress";
+var mnemonic = "artwork dad knock pattern wild scrub flee razor during race reform shop";

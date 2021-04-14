@@ -1,1 +1,1 @@
-var mnemonic = "person huge depth fee total join say balcony side crew repair weather";
+var mnemonic = "injury drama slice detail fringe addict fly hollow cliff combine defense dry";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt toast patch runway cancel cradle depart mountain garment frog weasel foster";
+var mnemonic = "bike typical buzz scatter bar van claw pencil flavor genuine leave grief";

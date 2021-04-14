@@ -1,1 +1,1 @@
-var mnemonic = "live basket expose smooth school box struggle certain can feature nasty wheat";
+var mnemonic = "drift stem kit squirrel fragile obvious cable fix sudden step horse harvest";

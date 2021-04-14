@@ -1,1 +1,1 @@
-var mnemonic = "defense rose spy match bachelor theory rare sport outer pigeon erosion bench";
+var mnemonic = "vessel length silk major female trap guide hen error brief employ hurt";

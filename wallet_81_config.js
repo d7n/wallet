@@ -1,1 +1,1 @@
-var mnemonic = "inquiry welcome wine finish tribe hurt glove crater evolve drop hybrid kitchen";
+var mnemonic = "derive right bright echo mention high april clip oblige lend tragic design";

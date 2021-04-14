@@ -1,1 +1,1 @@
-var mnemonic = "list any fruit hand hub anger vacuum canyon gesture diesel shadow crazy";
+var mnemonic = "insane swing sand empower wire scout couple cram version disagree hand front";

@@ -1,1 +1,1 @@
-var mnemonic = "head power fan dismiss mule idle hard street wait special zero dry";
+var mnemonic = "question fever across wage actor trend avocado forest wide supreme denial august";

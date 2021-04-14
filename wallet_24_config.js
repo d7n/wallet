@@ -1,1 +1,1 @@
-var mnemonic = "erode cargo bracket notice ten wood squirrel pig father magic harsh boss";
+var mnemonic = "route aim iron swift short long beyond yard salute melody sock safe";

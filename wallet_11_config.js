@@ -1,1 +1,1 @@
-var mnemonic = "black client scorpion weasel tuna snap digital tilt card erase debate snow";
+var mnemonic = "leader prison ill venture sentence rose arrange betray gloom glance century clap";

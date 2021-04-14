@@ -1,1 +1,1 @@
-var mnemonic = "omit dilemma plunge favorite fuel twin leopard feature asthma pelican swallow sing";
+var mnemonic = "setup save link pilot raw brief library drive second summer curious trip";

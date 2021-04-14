@@ -1,1 +1,1 @@
-var mnemonic = "service have faculty equal moon roof turtle side harbor man crowd toe";
+var mnemonic = "bar program cherry mesh cool trumpet ceiling banana slow grocery stamp clinic";
