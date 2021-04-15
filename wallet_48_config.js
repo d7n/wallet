@@ -1,1 +1,1 @@
-var mnemonic = "action airport confirm execute cube correct stomach head lawn mimic clock bomb";
+var mnemonic = "guess antenna few learn twist reason garage truth lizard jaguar among spare";

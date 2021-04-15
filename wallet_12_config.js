@@ -1,1 +1,1 @@
-var mnemonic = "evoke air consider picture valley bless fetch fringe trophy wolf monkey cattle";
+var mnemonic = "letter surface lady name marine dust become arrow foil body young track";

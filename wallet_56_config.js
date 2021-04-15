@@ -1,1 +1,1 @@
-var mnemonic = "coil oval furnace copper control doctor moment thing pet identify nothing track";
+var mnemonic = "bullet run refuse trade south engage enhance general lawn border summer good";

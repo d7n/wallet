@@ -1,1 +1,1 @@
-var mnemonic = "degree have job rib wash culture ball lonely divorce stuff assume hero";
+var mnemonic = "onion amused old pigeon birth margin traffic digital loop energy guitar reason";

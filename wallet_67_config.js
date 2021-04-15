@@ -1,1 +1,1 @@
-var mnemonic = "abandon task glow grape useful property sunset uncover poem chase ridge gospel";
+var mnemonic = "elder ahead shield aunt sting duty report load powder prize catalog duty";

@@ -1,1 +1,1 @@
-var mnemonic = "rough slab furnace divorce coast forward rice language grow inmate lava coin";
+var mnemonic = "summer surprise wide flag clever left source school balance metal away crisp";

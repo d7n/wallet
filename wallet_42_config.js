@@ -1,1 +1,1 @@
-var mnemonic = "around box lucky random ginger sell slot frown purchase sun canal control";
+var mnemonic = "area material write sort more secret negative enemy flame doll endorse demise";

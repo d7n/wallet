@@ -1,1 +1,1 @@
-var mnemonic = "bubble more buyer syrup gorilla much scheme exhibit gesture stamp lift blush";
+var mnemonic = "under interest bullet gather wrap hammer private caution hope only grid still";

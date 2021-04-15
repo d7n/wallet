@@ -1,1 +1,1 @@
-var mnemonic = "ozone rookie sting receive fruit amused rely render average know health quiz";
+var mnemonic = "atom wife inform exit position kick paper future demand unfair item blur";

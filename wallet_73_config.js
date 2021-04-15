@@ -1,1 +1,1 @@
-var mnemonic = "wonder artwork neutral identify fabric twist same okay evolve ghost six rookie";
+var mnemonic = "rapid member high fame speak tent dilemma column absent alley innocent push";

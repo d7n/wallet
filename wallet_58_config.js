@@ -1,1 +1,1 @@
-var mnemonic = "decorate attitude budget enrich horse canvas palace infant pave excess poet donate";
+var mnemonic = "dizzy puppy network song hotel hover quick pave there verify faculty foster";

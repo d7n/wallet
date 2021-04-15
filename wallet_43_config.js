@@ -1,1 +1,1 @@
-var mnemonic = "plug cruise increase credit waste there balcony oak absent stage nuclear garage";
+var mnemonic = "electric senior often deer label lumber tomorrow recall joy two session bone";

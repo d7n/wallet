@@ -1,1 +1,1 @@
-var mnemonic = "denial verb absent kitchen gather mule net pave gravity update dust among";
+var mnemonic = "input urge blur ice power section opera snap ring track jar people";

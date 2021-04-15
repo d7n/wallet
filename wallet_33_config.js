@@ -1,1 +1,1 @@
-var mnemonic = "tongue gadget banana file mask lottery movie front couch there valley gather";
+var mnemonic = "gossip replace knee choose moment tribe desk love senior deer awful giant";

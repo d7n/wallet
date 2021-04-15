@@ -1,1 +1,1 @@
-var mnemonic = "loan penalty jelly enroll lamp fame garage gorilla enlist void zebra pulp";
+var mnemonic = "absurd suspect mango buddy rate prison calm face seat when violin fit";

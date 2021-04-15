@@ -1,1 +1,1 @@
-var mnemonic = "swap verify royal mind nest atom solution bargain height verify awful anchor";
+var mnemonic = "abandon open lunch pull object force hidden despair cross plug pear leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "jar quote scale bitter satisfy fetch virus media humble pear used explain";
+var mnemonic = "weather sponsor decade motion play slim brave voice say rebel broccoli tube";

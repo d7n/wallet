@@ -1,1 +1,1 @@
-var mnemonic = "sleep picture elder tool left blade august regular want worry impulse promote";
+var mnemonic = "before problem practice weather field hidden appear target beauty spirit hair wild";

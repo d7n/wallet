@@ -1,1 +1,1 @@
-var mnemonic = "eternal dinosaur curve father above yard moon vocal choose collect alarm claw";
+var mnemonic = "auction local simple firm fabric enough genre zoo script unaware faint wait";

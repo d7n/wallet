@@ -1,1 +1,1 @@
-var mnemonic = "age maid various tortoise sight leader smoke shield transfer solid friend fence";
+var mnemonic = "gift garden hand midnight gallery cheese typical topple trouble kind milk token";

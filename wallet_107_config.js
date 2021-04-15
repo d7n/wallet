@@ -1,1 +1,1 @@
-var mnemonic = "tiny skill income include end case dilemma nerve sting shrug law visa";
+var mnemonic = "harvest essence symptom powder relax surge maid silk worth adult security oak";

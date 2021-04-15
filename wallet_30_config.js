@@ -1,1 +1,1 @@
-var mnemonic = "marine action afraid before vendor live fortune ahead yard dynamic snack range";
+var mnemonic = "laugh twelve error cycle mammal sleep admit access minute region mystery venture";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel spin craft mistake sniff strong stone boat nerve into salt strong";
+var mnemonic = "they come history fuel thumb peasant crime equal young jewel critic buzz";

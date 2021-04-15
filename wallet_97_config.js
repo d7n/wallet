@@ -1,1 +1,1 @@
-var mnemonic = "future reduce giraffe short tuna warm balcony will swarm mandate entry teach";
+var mnemonic = "deliver coconut garbage reform wink width keep foil error grid yard wedding";

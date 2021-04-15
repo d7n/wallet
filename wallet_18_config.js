@@ -1,1 +1,1 @@
-var mnemonic = "fiber ranch melody dress south easily trick drift gallery primary skin physical";
+var mnemonic = "stereo knife skate palace damage depend flock grief grow copy defy ketchup";

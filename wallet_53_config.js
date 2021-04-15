@@ -1,1 +1,1 @@
-var mnemonic = "wink term program alcohol tunnel security canoe right cloth park nation zoo";
+var mnemonic = "vacuum hat company awake involve budget above humor area suit fold snap";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh duck fiber exhibit tunnel sweet tornado obtain bag deny time knee";
+var mnemonic = "member palm guilt town neutral puzzle sleep book loop describe grape poet";

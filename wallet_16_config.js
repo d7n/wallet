@@ -1,1 +1,1 @@
-var mnemonic = "track nose margin pluck music gentle office ensure armor derive caught plastic";
+var mnemonic = "soccer muscle alien tornado corn chunk raw version tide cruel cigar vapor";

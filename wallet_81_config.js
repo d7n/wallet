@@ -1,1 +1,1 @@
-var mnemonic = "alpha maple wasp sugar glare domain ugly doctor code alley melt trap";
+var mnemonic = "private pact prevent want session case crop tunnel system outer regret echo";

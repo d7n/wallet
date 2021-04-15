@@ -1,1 +1,1 @@
-var mnemonic = "bench split cruise poet swap mention rely message lumber finger mechanic family";
+var mnemonic = "convince satoshi concert jazz narrow anxiety dove traffic fringe gold payment gain";

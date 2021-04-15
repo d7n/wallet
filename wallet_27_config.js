@@ -1,1 +1,1 @@
-var mnemonic = "range kite dolphin jelly lumber donate flight develop need fit verb elephant";
+var mnemonic = "purpose minor involve secret gift dinner sadness age alter later debris bid";

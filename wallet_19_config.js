@@ -1,1 +1,1 @@
-var mnemonic = "define seat derive close member limit ankle story field outdoor march crush";
+var mnemonic = "direct desert save airport level reason library green soccer barrel trust scheme";

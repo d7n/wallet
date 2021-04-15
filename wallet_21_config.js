@@ -1,1 +1,1 @@
-var mnemonic = "episode wild have humor actor police abandon suggest adjust glide bean planet";
+var mnemonic = "carbon seat slim faculty vital hint artist husband match tourist belt tragic";

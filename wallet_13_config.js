@@ -1,1 +1,1 @@
-var mnemonic = "protect dose lunar mind twenty agent century deal client rubber absorb husband";
+var mnemonic = "sphere same pigeon border survey crack camera interest huge auction armor buffalo";

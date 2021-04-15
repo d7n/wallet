@@ -1,1 +1,1 @@
-var mnemonic = "quantum child anger someone utility lend link vague lunch oppose rubber blush";
+var mnemonic = "master swift resource nerve lazy fire thrive pumpkin obvious invest canal adapt";

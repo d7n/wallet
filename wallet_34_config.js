@@ -1,1 +1,1 @@
-var mnemonic = "crawl lizard planet funny between you humble kangaroo lock enrich dilemma home";
+var mnemonic = "remember pipe simple tuna wrap total hunt frame judge roast problem flash";

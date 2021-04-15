@@ -1,1 +1,1 @@
-var mnemonic = "duty odor paddle armor wealth couple bench toilet cancel return number wrestle";
+var mnemonic = "drama gold miracle good hard cheap disorder tiny column cave farm reward";

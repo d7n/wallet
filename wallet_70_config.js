@@ -1,1 +1,1 @@
-var mnemonic = "please gauge fine sport stand pupil misery spend sister glad claim trend";
+var mnemonic = "bunker topic detect good nephew half similar abuse rapid build retire shadow";

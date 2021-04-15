@@ -1,1 +1,1 @@
-var mnemonic = "know balance seminar timber obtain update deer diary volcano patient uncle urban";
+var mnemonic = "buddy bomb face goddess razor original dish miss atom swarm sword bargain";

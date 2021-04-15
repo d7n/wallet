@@ -1,1 +1,1 @@
-var mnemonic = "oak impose supreme lava reopen way banner work rail horn coffee boy";
+var mnemonic = "globe panda potato gather sustain august prevent toilet target extend dutch volcano";

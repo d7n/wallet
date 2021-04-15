@@ -1,1 +1,1 @@
-var mnemonic = "change dog unable era floor release miss talent quit proof knock twist";
+var mnemonic = "pilot soda blanket enlist style pupil nature goddess gesture destroy float force";

@@ -1,1 +1,1 @@
-var mnemonic = "chef seminar impose bleak parade frown heart adult promote soda bicycle depth";
+var mnemonic = "devote target kiwi clarify glue movie text give prepare fun lemon final";

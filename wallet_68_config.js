@@ -1,1 +1,1 @@
-var mnemonic = "health margin ritual season mandate warrior inform measure pen excuse excite property";
+var mnemonic = "tiger super panda feel pool gym repair wrap night farm cruise clarify";

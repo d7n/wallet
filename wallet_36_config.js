@@ -1,1 +1,1 @@
-var mnemonic = "dawn grab violin rally behind wish concert gadget flock icon nut tenant";
+var mnemonic = "issue pass boost family action meadow sponsor unique settle settle banana miss";

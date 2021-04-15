@@ -1,1 +1,1 @@
-var mnemonic = "icon state drill spend awesome oblige yard inspire share grunt conduct gym";
+var mnemonic = "wish page ghost grit charge shaft motion barely make history visit zone";

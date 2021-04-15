@@ -1,1 +1,1 @@
-var mnemonic = "become double cage uphold yellow draw duck reject gap garden image emerge";
+var mnemonic = "foil guitar crystal base client antenna miss insect outdoor enhance pioneer priority";

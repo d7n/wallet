@@ -1,1 +1,1 @@
-var mnemonic = "thought salmon mask law weekend remove spare twice they palace judge left";
+var mnemonic = "orphan cheese honey unfold kidney balcony wagon obey dutch jeans depart polar";

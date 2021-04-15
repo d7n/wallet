@@ -1,1 +1,1 @@
-var mnemonic = "position shoot choose blouse cupboard pudding pear fragile add field liberty energy";
+var mnemonic = "powder melody surge kit either grace shadow keep deliver faint cousin pledge";

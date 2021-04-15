@@ -1,1 +1,1 @@
-var mnemonic = "mobile have age crater injury useless disorder odor air body beef clever";
+var mnemonic = "tank broom word kind sheriff garment filter planet bind subway quality school";

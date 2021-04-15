@@ -1,1 +1,1 @@
-var mnemonic = "frequent shield demand shallow inject broom tube attend imitate hard deer oak";
+var mnemonic = "canyon digital tuition oyster sort chapter injury bronze inhale edge amused mountain";

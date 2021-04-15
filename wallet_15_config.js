@@ -1,1 +1,1 @@
-var mnemonic = "pelican idle gauge episode fish sell machine immense monkey blue illness equal";
+var mnemonic = "mansion master ugly struggle area zero brisk leg wrap proof dice learn";

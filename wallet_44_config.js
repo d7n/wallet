@@ -1,1 +1,1 @@
-var mnemonic = "match churn virus tilt skin blouse squirrel height silly disease best junk";
+var mnemonic = "slab say giggle ugly stage lonely step jelly art nose pupil turn";

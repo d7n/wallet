@@ -1,1 +1,1 @@
-var mnemonic = "sample light mixed cheese neglect genius happy nut order hint split script";
+var mnemonic = "ozone all family correct page decorate little cry defy wish loop number";

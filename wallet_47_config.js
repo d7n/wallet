@@ -1,1 +1,1 @@
-var mnemonic = "photo matrix vibrant urban column forum bicycle liquid burst acquire width shuffle";
+var mnemonic = "attract that cruise sun van tower save aspect surround minute amateur nature";

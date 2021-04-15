@@ -1,1 +1,1 @@
-var mnemonic = "diamond fly shine split logic board wonder cereal slow chunk unknown clay";
+var mnemonic = "load smart poet flame tribe leisure ranch danger coil alarm demand struggle";

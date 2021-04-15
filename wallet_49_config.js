@@ -1,1 +1,1 @@
-var mnemonic = "snack foil about discover say category artwork light nut duty wet process";
+var mnemonic = "youth crane engine object patient unlock silver gown claw garlic beef mention";

@@ -1,1 +1,1 @@
-var mnemonic = "wise gate leave upgrade before snow know close obey scout fade unusual";
+var mnemonic = "forget predict jacket such burden mystery area humble chef kitchen balcony gym";

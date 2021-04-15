@@ -1,1 +1,1 @@
-var mnemonic = "common script caught rough major door excess move refuse update sadness twice";
+var mnemonic = "syrup bless cash odor timber ranch green actor there airport push code";

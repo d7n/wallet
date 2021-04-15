@@ -1,1 +1,1 @@
-var mnemonic = "square tiny again degree example shy aim rail journey document fog east";
+var mnemonic = "valley install lobster kitten deliver city palm replace explain sense erode annual";

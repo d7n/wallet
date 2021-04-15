@@ -1,1 +1,1 @@
-var mnemonic = "laptop habit radio purity strategy appear picture trial stove warm village august";
+var mnemonic = "banana car express bike frost plug unable lumber struggle broccoli various absurd";

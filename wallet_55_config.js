@@ -1,1 +1,1 @@
-var mnemonic = "toy rotate zero divert faculty valve crack under indicate coffee garage salute";
+var mnemonic = "glare muscle object find screen crouch deputy pass stadium please wear family";

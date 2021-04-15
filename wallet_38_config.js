@@ -1,1 +1,1 @@
-var mnemonic = "afraid sausage please bone disagree prepare actual fragile summer gentle dentist sphere";
+var mnemonic = "slice mango little paddle chaos awful winter tip speak throw rhythm hint";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect height evidence kidney kick audit net tumble orphan excuse museum brief";
+var mnemonic = "shove promote tiger maximum method drama private turtle scatter quality inflict indoor";

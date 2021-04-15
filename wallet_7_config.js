@@ -1,1 +1,1 @@
-var mnemonic = "floor rug fresh summer biology thumb range injury chaos atom ordinary candy";
+var mnemonic = "super hamster piece provide machine super exile resist slight capital boat sustain";

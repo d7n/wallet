@@ -1,1 +1,1 @@
-var mnemonic = "gospel whale shrug region nice model stereo ribbon edge rather gold trend";
+var mnemonic = "suit grit fresh enough filter pond vendor hurry cry chair name quality";

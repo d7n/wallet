@@ -1,1 +1,1 @@
-var mnemonic = "dwarf upset pony royal polar foil search term midnight squeeze draft wool";
+var mnemonic = "sail ridge festival farm couch island can afford olive any monkey elbow";

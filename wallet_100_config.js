@@ -1,1 +1,1 @@
-var mnemonic = "legend immune fish betray found inside vote assume solar tooth reason beach";
+var mnemonic = "peanut canvas pigeon season burst mail similar divert sentence ramp excess library";

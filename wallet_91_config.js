@@ -1,1 +1,1 @@
-var mnemonic = "gain sponsor agree shell pizza captain wild once recycle satisfy tell caution";
+var mnemonic = "side sunny crazy van nature trend deny start chronic train trust behind";

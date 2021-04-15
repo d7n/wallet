@@ -1,1 +1,1 @@
-var mnemonic = "weekend rural toy giggle ice certain scan design coffee wink welcome shallow";
+var mnemonic = "helmet ill syrup biology drip explain minute journey jelly unable worth gas";

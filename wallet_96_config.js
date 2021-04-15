@@ -1,1 +1,1 @@
-var mnemonic = "mixed result find attend warfare can question head lonely grant ostrich fine";
+var mnemonic = "angry invite coast below view brown uncover hobby ethics exhibit begin sweet";

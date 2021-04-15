@@ -1,1 +1,1 @@
-var mnemonic = "napkin until east invite pepper off penalty urban account swap vital double";
+var mnemonic = "already struggle plastic omit danger picture appear easily three method hair section";

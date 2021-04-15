@@ -1,1 +1,1 @@
-var mnemonic = "goddess three make manage actual unaware young novel broccoli muscle draft unhappy";
+var mnemonic = "opinion sweet humor vote general couple run one light naive shrug basket";

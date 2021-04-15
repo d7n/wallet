@@ -1,1 +1,1 @@
-var mnemonic = "police spy tackle imitate poem island arrest true hood impulse bus brother";
+var mnemonic = "spy toe bring route thought hill peace lobster copper ginger call wrap";

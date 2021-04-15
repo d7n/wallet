@@ -1,1 +1,1 @@
-var mnemonic = "shell moment regular wealth wood elephant security culture grit frost census speed";
+var mnemonic = "shift benefit tilt develop embrace brick easily air leg slogan series flat";

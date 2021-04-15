@@ -1,1 +1,1 @@
-var mnemonic = "steak remove fossil weasel train gold tennis fever tube bronze bread toy";
+var mnemonic = "loop prepare hand blue little cupboard kick crouch attack trouble gap live";

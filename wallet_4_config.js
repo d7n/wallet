@@ -1,1 +1,1 @@
-var mnemonic = "fatal palm man addict valley develop joke enter imitate exile wreck tilt";
+var mnemonic = "crunch group improve modify ramp credit mistake gym quick agent advice swamp";

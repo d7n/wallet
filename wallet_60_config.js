@@ -1,1 +1,1 @@
-var mnemonic = "advance plunge display post marriage lounge sand media swear half magnet nose";
+var mnemonic = "liquid worth swear earth input wrap dry seek fever mystery old vacant";

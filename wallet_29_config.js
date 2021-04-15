@@ -1,1 +1,1 @@
-var mnemonic = "minute try episode tragic lesson digital prize property merge run inform ivory";
+var mnemonic = "blur mutual find test blur dress one legend render pioneer champion long";

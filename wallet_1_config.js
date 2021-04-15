@@ -1,1 +1,1 @@
-var mnemonic = "clock neither glue disease push search coin health bunker cabin sleep arrow";
+var mnemonic = "layer sail sign bright fault mammal guard drum achieve tilt chimney icon";

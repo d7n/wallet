@@ -1,1 +1,1 @@
-var mnemonic = "spawn erode used diagram pulse scrub include goddess around weather sell cereal";
+var mnemonic = "vocal crime amused piano satoshi march arctic hundred promote retreat crystal sock";

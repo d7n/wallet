@@ -1,1 +1,1 @@
-var mnemonic = "merge slide rival hire diamond that bike such home buddy doll ocean";
+var mnemonic = "antenna recycle window clutch runway cycle leader gown bounce cliff place all";

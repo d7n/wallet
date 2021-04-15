@@ -1,1 +1,1 @@
-var mnemonic = "phone else any uphold fatigue remove chalk second local roof share flavor";
+var mnemonic = "cable casual rival hungry keen truth lady tiny include blossom blush proof";
