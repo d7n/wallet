@@ -1,1 +1,1 @@
-var mnemonic = "rocket gap burden save two congress host rail slogan assist hero enjoy";
+var mnemonic = "danger replace arena nuclear game inch brass swarm cable cricket bridge injury";

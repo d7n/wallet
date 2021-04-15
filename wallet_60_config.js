@@ -1,1 +1,1 @@
-var mnemonic = "offer exhaust predict also leave essay april enjoy asset tobacco raise hire";
+var mnemonic = "property wave master cube buyer stadium eternal large case wisdom eye fabric";

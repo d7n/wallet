@@ -1,1 +1,1 @@
-var mnemonic = "raise maze dad lumber clever grid sign gift moral stool popular mechanic";
+var mnemonic = "silk immense cram assume use bridge option hollow act employ tribe chalk";

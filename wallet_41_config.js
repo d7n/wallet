@@ -1,1 +1,1 @@
-var mnemonic = "pause bench horse exist among twice sing laundry empower wrong mass afford";
+var mnemonic = "ticket curtain photo enough ghost boat dutch video expire fox lesson pair";

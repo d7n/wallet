@@ -1,1 +1,1 @@
-var mnemonic = "dash unfold mosquito problem filter apology cereal false amused cliff cereal parrot";
+var mnemonic = "frost capital heavy hen side notable bean label south alone ancient stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat audit bracket sell tuition govern retreat sponsor you fun satisfy cube";
+var mnemonic = "celery repeat swap sunset fog icon alien adult silly zero tide trade";

@@ -1,1 +1,1 @@
-var mnemonic = "street wear long pen easy organ one slam margin category good thought";
+var mnemonic = "dumb crystal dignity spare waste outside harsh radio state rebuild wasp estate";

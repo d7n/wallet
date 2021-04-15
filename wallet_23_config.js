@@ -1,1 +1,1 @@
-var mnemonic = "method afford extend barrel tattoo notable glimpse member female bonus language employ";
+var mnemonic = "collect muscle unusual wonder fiber inner awful usage check limit remind mandate";

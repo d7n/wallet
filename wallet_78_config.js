@@ -1,1 +1,1 @@
-var mnemonic = "awake scheme picture shrug betray illness genius leader creek route bounce caught";
+var mnemonic = "hold start donate bracket ivory cousin guilt middle output garden reject body";

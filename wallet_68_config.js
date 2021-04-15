@@ -1,1 +1,1 @@
-var mnemonic = "make year bone relief mind level degree combine dwarf donate clog notable";
+var mnemonic = "sock multiply guitar raccoon snack kiss spatial invest occur olive park build";

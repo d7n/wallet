@@ -1,1 +1,1 @@
-var mnemonic = "pet agree ensure elder battle train figure error horn mother beyond face";
+var mnemonic = "permit unfair icon sight story fat throw unhappy garlic spoon umbrella kiwi";

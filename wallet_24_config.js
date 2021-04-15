@@ -1,1 +1,1 @@
-var mnemonic = "gaze laptop dish minute dress lyrics crash hire gather liar alien fantasy";
+var mnemonic = "ice utility recall wage actual fantasy gasp naive route fresh music tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist call nerve sentence way vapor credit load jungle warm lend obtain";
+var mnemonic = "nation what cross toddler release have ship kit throw old still secret";

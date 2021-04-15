@@ -1,1 +1,1 @@
-var mnemonic = "quantum area actress sand damage december wide page peace silly network pepper";
+var mnemonic = "sister evolve pluck giggle erase betray fancy video dizzy toast echo wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb trophy exercise damp illegal soap toss tail rhythm ancient code believe";
+var mnemonic = "recycle slide visa village phone blade april crawl light story regret civil";

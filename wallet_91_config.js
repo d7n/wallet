@@ -1,1 +1,1 @@
-var mnemonic = "fee spice draft rent fan burden surround town lion boring friend broken";
+var mnemonic = "west fiber blossom globe deer ceiling shrug blade happy border ignore bone";

@@ -1,1 +1,1 @@
-var mnemonic = "palm napkin depend few exotic brisk eternal wire table spray hospital mechanic";
+var mnemonic = "true derive virtual above merit hard print despair sustain pause conduct parrot";

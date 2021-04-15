@@ -1,1 +1,1 @@
-var mnemonic = "wrestle garment act update lecture crash utility sunny negative oblige obvious grab";
+var mnemonic = "width immune rabbit portion rigid loud side various carbon genre invest advance";

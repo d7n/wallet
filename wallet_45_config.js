@@ -1,1 +1,1 @@
-var mnemonic = "patient illness omit ripple produce casual mesh anxiety blade mandate vault someone";
+var mnemonic = "chef social rate brick hip museum example vault flock profit cannon antenna";

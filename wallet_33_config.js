@@ -1,1 +1,1 @@
-var mnemonic = "vote bridge shop parrot sustain panther resemble match alpha reject dismiss salute";
+var mnemonic = "goat sick cry oil laugh mail reflect slam music window hybrid between";

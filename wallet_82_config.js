@@ -1,1 +1,1 @@
-var mnemonic = "flat pet brain fall left vapor risk desk miss flat screen draw";
+var mnemonic = "fade latin yellow token infant enter penalty eagle search stock bone glory";

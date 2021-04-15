@@ -1,1 +1,1 @@
-var mnemonic = "whale chief palace quote jazz hunt exist enroll trim physical punch food";
+var mnemonic = "able ring boil nuclear fiction aspect element planet dizzy question payment alley";

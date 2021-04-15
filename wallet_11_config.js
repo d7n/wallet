@@ -1,1 +1,1 @@
-var mnemonic = "solid album marriage access helmet auction glow wage about radio deny chuckle";
+var mnemonic = "earth inch creek desert outdoor merry wait beyond snack absurd rule pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn crater system actress dutch coil vague lottery rebuild embody include camera";
+var mnemonic = "ill infant hollow cousin arrive green foil valve future chronic envelope fancy";

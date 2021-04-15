@@ -1,1 +1,1 @@
-var mnemonic = "verb olive moral local busy gain rival valley keen trade nose then";
+var mnemonic = "hover device neglect useless marine december unfair patrol sample shoe ill work";

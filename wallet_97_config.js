@@ -1,1 +1,1 @@
-var mnemonic = "path crane fluid wagon suggest universe soon coffee task view theme quarter";
+var mnemonic = "carbon cruel wire silk merry bachelor hello gain useful ride utility fever";

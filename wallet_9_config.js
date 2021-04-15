@@ -1,1 +1,1 @@
-var mnemonic = "silent project evil wash security candy observe film erode aware work dove";
+var mnemonic = "chimney slight prison ozone find reduce reduce luxury deputy body ozone either";

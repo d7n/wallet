@@ -1,1 +1,1 @@
-var mnemonic = "valley garment secret actual exotic pear indoor adapt furnace crouch crunch audit";
+var mnemonic = "rebel critic genius december cliff truck drink modify rigid popular media sort";

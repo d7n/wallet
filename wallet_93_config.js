@@ -1,1 +1,1 @@
-var mnemonic = "used express save rotate oil dream demise picture weasel submit narrow horror";
+var mnemonic = "aware bubble tell interest pole fury transfer dutch resemble possible wink appear";

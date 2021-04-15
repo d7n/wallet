@@ -1,1 +1,1 @@
-var mnemonic = "convince alert box always hour once bring federal lake fashion spider crime";
+var mnemonic = "try rib asthma juice impose mystery else track surface insane again elder";

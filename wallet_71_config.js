@@ -1,1 +1,1 @@
-var mnemonic = "message mammal pyramid dish ostrich just repeat shield crash muffin chat frost";
+var mnemonic = "lumber exclude angle dress black bracket glass rally embark foster amateur garment";

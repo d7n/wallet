@@ -1,1 +1,1 @@
-var mnemonic = "recycle together zero crawl arena wisdom demand injury neither moral hip leg";
+var mnemonic = "suffer adjust hub trap kite sentence aunt sand spring expand problem neck";

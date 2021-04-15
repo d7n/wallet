@@ -1,1 +1,1 @@
-var mnemonic = "already photo six orphan awesome cool enrich decrease device nothing hip shine";
+var mnemonic = "mad congress angle produce leave file glue under have oven curious prison";

@@ -1,1 +1,1 @@
-var mnemonic = "better social burger visual tuna cigar ribbon photo ethics barely concert bread";
+var mnemonic = "drill abstract jelly evidence apart grief meadow weather enroll antique runway blast";

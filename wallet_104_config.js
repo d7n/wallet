@@ -1,1 +1,1 @@
-var mnemonic = "develop example portion wonder inherit jazz expire tone glove object notable direct";
+var mnemonic = "divert pool shrimp apart language hawk cry tumble head buzz punch weather";

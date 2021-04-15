@@ -1,1 +1,1 @@
-var mnemonic = "catalog empower culture net depart double brass garage fold exclude immune kite";
+var mnemonic = "chat table sausage chat cross team try vault either suit shallow razor";

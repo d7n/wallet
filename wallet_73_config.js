@@ -1,1 +1,1 @@
-var mnemonic = "churn style arrange march theory frequent fan final window candy brother include";
+var mnemonic = "obey verb check range hold average sister electric enhance work portion track";

@@ -1,1 +1,1 @@
-var mnemonic = "run student letter amused message lady soap garment brave world height tomorrow";
+var mnemonic = "dream maid ability miracle detect grass genre curve dry dress fence shaft";

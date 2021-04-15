@@ -1,1 +1,1 @@
-var mnemonic = "dinner fragile float acid make crisp surround witness brain cereal genuine exact";
+var mnemonic = "jaguar nominee tooth chaos next manage fit rude expire blind blossom ugly";

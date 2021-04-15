@@ -1,1 +1,1 @@
-var mnemonic = "leader way language marriage aisle win corn tell solar vicious nephew eagle";
+var mnemonic = "album hospital scheme agree sport dish copy antenna thumb exit shock pact";

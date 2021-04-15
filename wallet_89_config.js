@@ -1,1 +1,1 @@
-var mnemonic = "credit spell hidden cattle repeat alarm vault narrow jelly panther fiction rose";
+var mnemonic = "slush version auto situate today outdoor build vapor circle retire index orange";

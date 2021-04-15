@@ -1,1 +1,1 @@
-var mnemonic = "crew exchange raccoon punch chicken parent rotate over update marriage shell cage";
+var mnemonic = "cruise deal solid task glimpse toilet blush wash save visual sock market";

@@ -1,1 +1,1 @@
-var mnemonic = "order loud pattern problem rocket mad snake miss setup team vast soul";
+var mnemonic = "elbow lab kitchen account all game wasp solution caught farm hood like";

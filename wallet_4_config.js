@@ -1,1 +1,1 @@
-var mnemonic = "else fame garment battle ask repair another ski winter brief drastic public";
+var mnemonic = "fever faith donkey birth cruise excuse arch doctor remove pulse citizen shy";

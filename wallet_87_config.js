@@ -1,1 +1,1 @@
-var mnemonic = "choice gloom crumble arrow remind embody result rough click glance capable toilet";
+var mnemonic = "argue random settle piano allow upon popular example humble belt digital universe";

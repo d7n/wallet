@@ -1,1 +1,1 @@
-var mnemonic = "hamster worry rescue grace program wife super affair state mention energy bracket";
+var mnemonic = "kick old profit genius bachelor sadness kitten sample project depth wire hint";

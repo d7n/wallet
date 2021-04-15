@@ -1,1 +1,1 @@
-var mnemonic = "captain amazing amount swift payment pledge wing oven much apology have boy";
+var mnemonic = "sentence license quality brown medal cushion push lonely long main engine lens";

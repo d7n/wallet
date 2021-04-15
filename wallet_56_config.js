@@ -1,1 +1,1 @@
-var mnemonic = "garlic flag angle grass increase wash patrol sugar pair visa attract pool";
+var mnemonic = "two crawl tenant kingdom inquiry chief claim fossil valid alter season lemon";

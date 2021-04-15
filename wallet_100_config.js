@@ -1,1 +1,1 @@
-var mnemonic = "peasant guard position wing actress artist tape inherit radio dizzy elbow scare";
+var mnemonic = "online uniform unknown want lamp faculty fish promote angry enjoy police diamond";

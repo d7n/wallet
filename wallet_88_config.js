@@ -1,1 +1,1 @@
-var mnemonic = "prosper embrace cause hello wrap october butter rude assist luxury claim tenant";
+var mnemonic = "normal spike assist pear limit arrange science claim exhaust ozone bracket visual";

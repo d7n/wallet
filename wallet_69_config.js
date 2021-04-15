@@ -1,1 +1,1 @@
-var mnemonic = "hole worth bright ill clown illegal interest best practice camera bomb tourist";
+var mnemonic = "syrup flush trap ocean build engage hover alarm chronic document bird sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "gift theme dignity mutual genuine physical deliver churn trap core math cram";
+var mnemonic = "demand net melt dentist powder curious aunt kite road inform obtain diary";

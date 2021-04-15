@@ -1,1 +1,1 @@
-var mnemonic = "sound august stomach position jacket border craft section leaf step fee claim";
+var mnemonic = "chimney fuel awkward velvet sunny verb comfort smooth symbol either dwarf promote";

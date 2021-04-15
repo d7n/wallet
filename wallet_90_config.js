@@ -1,1 +1,1 @@
-var mnemonic = "tool trim please unusual near bargain diary nut dice control captain hobby";
+var mnemonic = "wife fossil income shoulder stick deliver doctor above answer unique same wreck";

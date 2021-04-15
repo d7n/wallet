@@ -1,1 +1,1 @@
-var mnemonic = "core bleak inside nominee guard require gorilla business curious foil sentence original";
+var mnemonic = "exile inch science tiger noodle shed oblige cliff trophy cup pledge engage";

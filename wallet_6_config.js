@@ -1,1 +1,1 @@
-var mnemonic = "lucky team solar crack wine space either eight want able mad problem";
+var mnemonic = "strategy glad female cart assist remain praise gasp verify strong squirrel dumb";

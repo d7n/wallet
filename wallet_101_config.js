@@ -1,1 +1,1 @@
-var mnemonic = "suspect salmon hope impose labor duck write zoo butter garage bag final";
+var mnemonic = "recall despair load tooth foil humor dragon elite oyster mouse evidence model";

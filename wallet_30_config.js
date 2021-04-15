@@ -1,1 +1,1 @@
-var mnemonic = "fitness forest chunk able mango issue like kingdom canal entire abandon account";
+var mnemonic = "mix emerge eternal list aware surround initial shoot potato wrap lecture reflect";

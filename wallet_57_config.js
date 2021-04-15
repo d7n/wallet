@@ -1,1 +1,1 @@
-var mnemonic = "stem meat sign mention retreat enroll cycle dune resist elbow crisp magnet";
+var mnemonic = "anxiety left remind dash grape velvet symbol leopard pizza dynamic injury brother";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery toddler select spell cook thumb sustain rose sugar stick entire avocado";
+var mnemonic = "myth retreat hybrid abstract drift bench frost average elbow staff absurd permit";

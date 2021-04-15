@@ -1,1 +1,1 @@
-var mnemonic = "magnet prepare crop blind add lumber valley lazy frown argue winter salad";
+var mnemonic = "spoil curtain spray fragile struggle orient catch shrimp tooth attitude pride destroy";

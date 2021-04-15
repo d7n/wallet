@@ -1,1 +1,1 @@
-var mnemonic = "require example license quiz subway story decide twelve shy kite magic process";
+var mnemonic = "shoot absurd second brass peanut dust daughter diamond old broom bounce crater";

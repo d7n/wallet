@@ -1,1 +1,1 @@
-var mnemonic = "weasel tribe illegal silver scale fatal remain episode vivid one flight vintage";
+var mnemonic = "illness appear rapid accident bronze ladder gentle foster magnet orphan film vehicle";

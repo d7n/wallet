@@ -1,1 +1,1 @@
-var mnemonic = "creek foam wet clever feed surface glue buzz creek maximum liberty stool";
+var mnemonic = "call expect razor advance dove spray execute beyond license powder control mention";

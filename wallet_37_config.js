@@ -1,1 +1,1 @@
-var mnemonic = "boring nose glide river midnight seminar cabin also myth pair donor pupil";
+var mnemonic = "clinic slide safe kitten theme under upper order code asset satoshi erode";

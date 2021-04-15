@@ -1,1 +1,1 @@
-var mnemonic = "rug jealous absurd keen romance poet entire unable room wonder stuff mix";
+var mnemonic = "brand rack bracket useless sort soda junior mushroom nut potato fantasy opinion";

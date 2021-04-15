@@ -1,1 +1,1 @@
-var mnemonic = "leopard once imitate anchor staff sketch brass spring dress skill walnut spoon";
+var mnemonic = "collect spot foam response element lens giraffe raw city wrist quantum view";

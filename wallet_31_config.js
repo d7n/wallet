@@ -1,1 +1,1 @@
-var mnemonic = "logic young flag upper walnut spirit amazing two park animal gym fossil";
+var mnemonic = "order foster animal asthma ritual quantum brother salmon chapter shrimp hockey enhance";

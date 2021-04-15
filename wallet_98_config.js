@@ -1,1 +1,1 @@
-var mnemonic = "adjust picnic glass intact claim anxiety pause minute chunk ability grow boost";
+var mnemonic = "engine juice screen large tone planet party obtain crowd paper friend unhappy";

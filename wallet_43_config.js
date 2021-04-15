@@ -1,1 +1,1 @@
-var mnemonic = "huge term ripple outdoor faint town shuffle brick ethics dilemma silk poet";
+var mnemonic = "coast snake action puzzle system onion radio velvet fruit convince suit brief";

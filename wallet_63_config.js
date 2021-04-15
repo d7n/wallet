@@ -1,1 +1,1 @@
-var mnemonic = "soap glimpse exit amused toddler snack awesome impact discover that alone layer";
+var mnemonic = "rabbit stock zoo garlic young hip glide hint ugly energy orphan between";

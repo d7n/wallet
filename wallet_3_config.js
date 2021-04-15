@@ -1,1 +1,1 @@
-var mnemonic = "load craft marriage tape nuclear pulp inmate sample claim parent mechanic damp";
+var mnemonic = "adult hospital float travel science primary program dragon shine gloom bachelor riot";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp topple cheap feed replace curve join sure renew globe develop cake";
+var mnemonic = "question begin dinosaur lazy palace defense donate wait rough stereo dismiss regret";

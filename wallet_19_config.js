@@ -1,1 +1,1 @@
-var mnemonic = "mesh album move person pilot year pencil suffer educate toast parrot twice";
+var mnemonic = "lady keep patrol taxi style garment old idle zone very peanut tuition";

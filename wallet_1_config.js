@@ -1,1 +1,1 @@
-var mnemonic = "lady nephew corn lawsuit abuse crucial pattern buddy month nominee slim city";
+var mnemonic = "artwork chef wreck hair code attack amateur unique pitch ticket modify voice";

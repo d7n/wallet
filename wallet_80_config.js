@@ -1,1 +1,1 @@
-var mnemonic = "want method faculty recycle shoulder hat leader deputy loud unique deny awful";
+var mnemonic = "replace decade say music catch range world long arrest replace envelope flush";

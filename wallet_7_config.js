@@ -1,1 +1,1 @@
-var mnemonic = "save mango output capital atom service miracle style shallow trumpet lens negative";
+var mnemonic = "expire jar cause emerge move wear brush hen father city jaguar fatal";

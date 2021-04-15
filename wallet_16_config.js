@@ -1,1 +1,1 @@
-var mnemonic = "hip hunt way absorb vibrant high spray valid bird bar grab report";
+var mnemonic = "tell fence owner leisure require jewel cinnamon culture palm hard energy security";

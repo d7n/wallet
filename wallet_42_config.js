@@ -1,1 +1,1 @@
-var mnemonic = "solid public drop camp hill one hollow sadness ready hurdle scatter balance";
+var mnemonic = "ridge expose senior fun draw medal index flight kitchen warfare legal angle";

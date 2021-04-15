@@ -1,1 +1,1 @@
-var mnemonic = "truly report table ask soccer rely identify today afford raccoon subway jewel";
+var mnemonic = "galaxy possible idle display tissue joke poem arrow prefer absurd possible true";

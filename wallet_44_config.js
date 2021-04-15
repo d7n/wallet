@@ -1,1 +1,1 @@
-var mnemonic = "shove various way coconut fragile genius large speed parent balance second actor";
+var mnemonic = "slow slice cream unknown tuna economy autumn excite similar congress flight convince";

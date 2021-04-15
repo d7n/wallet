@@ -1,1 +1,1 @@
-var mnemonic = "panel modify wrestle whisper group fade couch young nuclear found tape wink";
+var mnemonic = "worry family congress buffalo strike staff plastic crouch talk observe caution honey";

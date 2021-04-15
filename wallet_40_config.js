@@ -1,1 +1,1 @@
-var mnemonic = "distance flat toilet pull exact ridge immense similar naive worth quit parrot";
+var mnemonic = "admit shield movie attend naive slender oval try cheese level small scheme";

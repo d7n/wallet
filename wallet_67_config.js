@@ -1,1 +1,1 @@
-var mnemonic = "couple risk image trick sense ten because cup math amused coyote another";
+var mnemonic = "jazz design dolphin detail quit choice foam farm series choice merry assist";

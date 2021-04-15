@@ -1,1 +1,1 @@
-var mnemonic = "hair divide weird advice review evil veteran dish flag school milk invest";
+var mnemonic = "transfer write weasel grow damage tomato color giggle exist side merry moon";

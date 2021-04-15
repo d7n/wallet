@@ -1,1 +1,1 @@
-var mnemonic = "shy elevator black pear sample prize rebuild model cream tuition blood perfect";
+var mnemonic = "excuse myth solution ecology grow analyst behind fork build nasty race guess";

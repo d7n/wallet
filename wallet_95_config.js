@@ -1,1 +1,1 @@
-var mnemonic = "next silent merry bracket immune material present rookie snake demand buyer volume";
+var mnemonic = "nothing aunt pair fat shock harvest reunion unhappy add tower blind oak";

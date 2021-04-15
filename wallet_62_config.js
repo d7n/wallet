@@ -1,1 +1,1 @@
-var mnemonic = "room trust health frequent umbrella tool pair assist prison jump mountain laugh";
+var mnemonic = "weather crumble defy celery galaxy kiss you movie solve inner silver sausage";

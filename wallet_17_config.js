@@ -1,1 +1,1 @@
-var mnemonic = "update boat retire hen submit author evil need name coral rail curve";
+var mnemonic = "bone bullet virtual front action mansion music peasant brief slot crawl innocent";

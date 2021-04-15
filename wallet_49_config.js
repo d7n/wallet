@@ -1,1 +1,1 @@
-var mnemonic = "wide chief glance example magnet feature bread wait time fresh joy ring";
+var mnemonic = "seminar buddy volume fire carry chat car swamp sell short mad boy";

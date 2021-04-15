@@ -1,1 +1,1 @@
-var mnemonic = "glance length tool write lazy pepper tunnel swap predict play slogan wink";
+var mnemonic = "open world rather cinnamon high unfair egg thought skill outer gospel bounce";

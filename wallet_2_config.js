@@ -1,1 +1,1 @@
-var mnemonic = "arm final unfair engage machine arrive deal sea cousin pair woman acoustic";
+var mnemonic = "amount body famous mixed cool else relax join immense host claw tennis";

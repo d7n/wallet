@@ -1,1 +1,1 @@
-var mnemonic = "arrange acoustic undo define cheap goat north trial nerve rescue enhance era";
+var mnemonic = "salad social family tuition ignore trust border govern follow dad toe release";

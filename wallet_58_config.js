@@ -1,1 +1,1 @@
-var mnemonic = "mistake cricket pilot rose inject fruit address kingdom parade fashion athlete equal";
+var mnemonic = "hurry hand never slot labor rib proof relax endless rapid park license";

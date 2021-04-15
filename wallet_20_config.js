@@ -1,1 +1,1 @@
-var mnemonic = "mask join typical disagree cancel material west naive reject rebuild mobile veteran";
+var mnemonic = "legal decide govern response agent sunset creek lumber excess detect lumber split";

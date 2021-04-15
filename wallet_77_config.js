@@ -1,1 +1,1 @@
-var mnemonic = "carbon friend fault position jealous describe orange become sad bicycle company brick";
+var mnemonic = "farm thank crumble shallow cotton siege wear major satisfy prize blade brother";
