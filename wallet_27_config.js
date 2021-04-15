@@ -1,1 +1,1 @@
-var mnemonic = "purpose minor involve secret gift dinner sadness age alter later debris bid";
+var mnemonic = "arctic like torch lend vibrant sunset cost travel vital feed spare poet";

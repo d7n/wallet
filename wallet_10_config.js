@@ -1,1 +1,1 @@
-var mnemonic = "tank broom word kind sheriff garment filter planet bind subway quality school";
+var mnemonic = "permit total twenty ocean leg prevent square same tent bring neither keen";

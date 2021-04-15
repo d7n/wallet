@@ -1,1 +1,1 @@
-var mnemonic = "drama gold miracle good hard cheap disorder tiny column cave farm reward";
+var mnemonic = "wave hamster alter follow fun believe prosper capable scatter slow skirt middle";

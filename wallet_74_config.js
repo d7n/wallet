@@ -1,1 +1,1 @@
-var mnemonic = "absurd suspect mango buddy rate prison calm face seat when violin fit";
+var mnemonic = "false taste snake inside call crane flock doctor book hero erosion sound";

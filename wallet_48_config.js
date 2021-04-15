@@ -1,1 +1,1 @@
-var mnemonic = "guess antenna few learn twist reason garage truth lizard jaguar among spare";
+var mnemonic = "idea click document pyramid meat drastic organ jealous trip humble since limb";

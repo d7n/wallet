@@ -1,1 +1,1 @@
-var mnemonic = "stereo knife skate palace damage depend flock grief grow copy defy ketchup";
+var mnemonic = "caution escape alert dwarf prosper announce ill stumble mobile cook busy return";

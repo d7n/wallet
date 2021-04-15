@@ -1,1 +1,1 @@
-var mnemonic = "dizzy puppy network song hotel hover quick pave there verify faculty foster";
+var mnemonic = "unknown rule demise car hover monkey extra express swap inflict floor say";

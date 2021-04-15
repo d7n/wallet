@@ -1,1 +1,1 @@
-var mnemonic = "before problem practice weather field hidden appear target beauty spirit hair wild";
+var mnemonic = "feed chimney valve glad mutual bottom embrace warrior final net silk bundle";

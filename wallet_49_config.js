@@ -1,1 +1,1 @@
-var mnemonic = "youth crane engine object patient unlock silver gown claw garlic beef mention";
+var mnemonic = "utility clump found fiscal crawl display thumb initial boil belt distance annual";

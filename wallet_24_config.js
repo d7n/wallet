@@ -1,1 +1,1 @@
-var mnemonic = "loop prepare hand blue little cupboard kick crouch attack trouble gap live";
+var mnemonic = "lobster mosquito tenant infant clutch common volcano ritual found bracket attitude file";

@@ -1,1 +1,1 @@
-var mnemonic = "online blade error grace degree play suspect wife final tuition bid lottery";
+var mnemonic = "injury buyer stadium dust peace unique meadow oven moon eye universe sea";

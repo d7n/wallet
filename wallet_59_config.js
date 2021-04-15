@@ -1,1 +1,1 @@
-var mnemonic = "globe panda potato gather sustain august prevent toilet target extend dutch volcano";
+var mnemonic = "festival collect tide possible vocal traffic tool pumpkin place march palace confirm";

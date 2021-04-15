@@ -1,1 +1,1 @@
-var mnemonic = "spy toe bring route thought hill peace lobster copper ginger call wrap";
+var mnemonic = "supply tool feature real ship banana question year wise sorry credit nation";

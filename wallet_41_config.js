@@ -1,1 +1,1 @@
-var mnemonic = "leader become nothing public feed outdoor mixed come dolphin girl riot chase";
+var mnemonic = "animal later monster stadium float antique solid embrace learn bench bacon tragic";

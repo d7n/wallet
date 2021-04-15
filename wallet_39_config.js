@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit blur category film shoot supreme shaft wash session essay milk wall";
+var mnemonic = "axis enrich arm owner sure detect call spy perfect job point useless";

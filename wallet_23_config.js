@@ -1,1 +1,1 @@
-var mnemonic = "melody humble fog creek tiger someone salute family ordinary prepare swift still";
+var mnemonic = "satisfy step oppose just shoot second decade winter security smoke keep such";

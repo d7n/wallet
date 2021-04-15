@@ -1,1 +1,1 @@
-var mnemonic = "suit grit fresh enough filter pond vendor hurry cry chair name quality";
+var mnemonic = "orient rabbit fire human swift describe solve obey inside area mandate since";

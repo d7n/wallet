@@ -1,1 +1,1 @@
-var mnemonic = "crazy fork ethics slot ghost employ sibling panther rare pony position frost";
+var mnemonic = "suspect slight gain pilot fly evolve tornado category resemble inner wrist march";

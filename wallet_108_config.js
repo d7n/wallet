@@ -1,1 +1,1 @@
-var mnemonic = "convince satoshi concert jazz narrow anxiety dove traffic fringe gold payment gain";
+var mnemonic = "gold glad employ burger produce bunker coach celery purse morning survey bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet run refuse trade south engage enhance general lawn border summer good";
+var mnemonic = "holiday shuffle satisfy glow logic energy hazard occur hello gift benefit genius";

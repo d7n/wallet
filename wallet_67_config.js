@@ -1,1 +1,1 @@
-var mnemonic = "elder ahead shield aunt sting duty report load powder prize catalog duty";
+var mnemonic = "busy shallow inch vocal educate poem tuition cheap debate pottery loyal weapon";

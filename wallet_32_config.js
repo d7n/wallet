@@ -1,1 +1,1 @@
-var mnemonic = "powder melody surge kit either grace shadow keep deliver faint cousin pledge";
+var mnemonic = "mobile load admit umbrella auto feature mammal use hip zoo attitude symptom";

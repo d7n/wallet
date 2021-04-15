@@ -1,1 +1,1 @@
-var mnemonic = "hazard turtle service glare drum price join own spike mandate tongue save";
+var mnemonic = "card knock cheap turkey ordinary cave stomach clump casual under fantasy trick";

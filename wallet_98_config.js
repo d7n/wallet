@@ -1,1 +1,1 @@
-var mnemonic = "baby elite course neither another damp tank token hand chuckle used oak";
+var mnemonic = "seat crowd arctic early hat local vacuum spend veteran polar top family";

@@ -1,1 +1,1 @@
-var mnemonic = "sail ridge festival farm couch island can afford olive any monkey elbow";
+var mnemonic = "select rate consider split jealous gossip tree march bench disagree return clarify";

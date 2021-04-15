@@ -1,1 +1,1 @@
-var mnemonic = "shrimp symbol siege steel tiger unique glow unfold second coconut spare sibling";
+var mnemonic = "series kitchen double such hobby novel cry embark library empty destroy auction";

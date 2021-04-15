@@ -1,1 +1,1 @@
-var mnemonic = "member palm guilt town neutral puzzle sleep book loop describe grape poet";
+var mnemonic = "table room merry they leisure typical van wealth evidence best ahead squeeze";

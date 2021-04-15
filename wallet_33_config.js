@@ -1,1 +1,1 @@
-var mnemonic = "gossip replace knee choose moment tribe desk love senior deer awful giant";
+var mnemonic = "pudding slam forest wolf exist fiction frown miss fashion pyramid ball jaguar";

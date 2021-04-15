@@ -1,1 +1,1 @@
-var mnemonic = "harvest essence symptom powder relax surge maid silk worth adult security oak";
+var mnemonic = "unlock frame random toddler lyrics rapid depend purpose doll light buzz message";

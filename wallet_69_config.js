@@ -1,1 +1,1 @@
-var mnemonic = "close apple sample brush wealth awful welcome pave lens feed orient cancel";
+var mnemonic = "fantasy exchange fork hungry mosquito stumble scan tennis tank excuse top live";

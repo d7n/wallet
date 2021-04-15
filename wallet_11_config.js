@@ -1,1 +1,1 @@
-var mnemonic = "brown floor coral guard alone bronze grab sugar tribe transfer trend observe";
+var mnemonic = "magnet miss cousin awesome glory hole genre plug angry garment casual side";

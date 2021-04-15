@@ -1,1 +1,1 @@
-var mnemonic = "forget predict jacket such burden mystery area humble chef kitchen balcony gym";
+var mnemonic = "february journey job swarm crucial jungle famous book man program kid spell";

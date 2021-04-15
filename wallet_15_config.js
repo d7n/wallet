@@ -1,1 +1,1 @@
-var mnemonic = "mansion master ugly struggle area zero brisk leg wrap proof dice learn";
+var mnemonic = "toe steak cram anchor okay sting primary only damp health sunny repair";

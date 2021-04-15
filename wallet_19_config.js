@@ -1,1 +1,1 @@
-var mnemonic = "direct desert save airport level reason library green soccer barrel trust scheme";
+var mnemonic = "snow pitch hub dilemma drift ribbon skirt tower state awkward toss trouble";

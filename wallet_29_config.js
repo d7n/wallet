@@ -1,1 +1,1 @@
-var mnemonic = "blur mutual find test blur dress one legend render pioneer champion long";
+var mnemonic = "lion fiber already wall risk salt stool twist collect list label electric";

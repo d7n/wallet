@@ -1,1 +1,1 @@
-var mnemonic = "foil guitar crystal base client antenna miss insect outdoor enhance pioneer priority";
+var mnemonic = "enough idea prize laugh unhappy vintage cloud bar husband accident hurry half";

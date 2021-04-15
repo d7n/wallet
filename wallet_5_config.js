@@ -1,1 +1,1 @@
-var mnemonic = "style stuff debris update attitude venue chapter foam head shell planet ketchup";
+var mnemonic = "arctic arm face stay lift recipe grain quiz floor useless pole claw";

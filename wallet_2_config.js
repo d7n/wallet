@@ -1,1 +1,1 @@
-var mnemonic = "antenna recycle window clutch runway cycle leader gown bounce cliff place all";
+var mnemonic = "pioneer crystal dolphin dignity relief solar title shrimp entry mass acoustic rescue";

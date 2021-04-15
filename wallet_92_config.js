@@ -1,1 +1,1 @@
-var mnemonic = "syrup bless cash odor timber ranch green actor there airport push code";
+var mnemonic = "album demand divorce surface season figure release uncover unveil tomato unfold sugar";

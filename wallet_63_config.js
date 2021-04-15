@@ -1,1 +1,1 @@
-var mnemonic = "shift benefit tilt develop embrace brick easily air leg slogan series flat";
+var mnemonic = "decide lobster wide cheese clinic scrap dune cattle wise drama assault recipe";

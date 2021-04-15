@@ -1,1 +1,1 @@
-var mnemonic = "ozone all family correct page decorate little cry defy wish loop number";
+var mnemonic = "mystery enlist rifle sunset define attack someone illness trumpet click stem bicycle";

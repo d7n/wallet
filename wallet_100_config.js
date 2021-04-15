@@ -1,1 +1,1 @@
-var mnemonic = "peanut canvas pigeon season burst mail similar divert sentence ramp excess library";
+var mnemonic = "team patient delay grace feed sail axis gasp admit betray cement fit";

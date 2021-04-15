@@ -1,1 +1,1 @@
-var mnemonic = "flip empty syrup saddle arrange exact deposit require jungle great sign float";
+var mnemonic = "bottom bargain hover anchor stand focus oil attack yard indicate scheme camp";

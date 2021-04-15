@@ -1,1 +1,1 @@
-var mnemonic = "under interest bullet gather wrap hammer private caution hope only grid still";
+var mnemonic = "few derive unhappy boy kiwi total blue load life off million decrease";

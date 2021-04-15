@@ -1,1 +1,1 @@
-var mnemonic = "side sunny crazy van nature trend deny start chronic train trust behind";
+var mnemonic = "circle ozone just success candy program mouse census culture tent civil grow";

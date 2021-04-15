@@ -1,1 +1,1 @@
-var mnemonic = "helmet ill syrup biology drip explain minute journey jelly unable worth gas";
+var mnemonic = "cupboard relax foam reunion stock dream cram deny cook grant dress reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh twelve error cycle mammal sleep admit access minute region mystery venture";
+var mnemonic = "digital pelican agent motor crowd capable label change cave notable suit frame";

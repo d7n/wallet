@@ -1,1 +1,1 @@
-var mnemonic = "weather sponsor decade motion play slim brave voice say rebel broccoli tube";
+var mnemonic = "media cricket verify sword absurd eager sorry kiss uncle car earn assist";

@@ -1,1 +1,1 @@
-var mnemonic = "glare muscle object find screen crouch deputy pass stadium please wear family";
+var mnemonic = "inside journey love index describe cinnamon strike right vast undo ahead soft";

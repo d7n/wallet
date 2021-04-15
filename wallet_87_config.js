@@ -1,1 +1,1 @@
-var mnemonic = "summer surprise wide flag clever left source school balance metal away crisp";
+var mnemonic = "bless feel because naive eager crucial loan book elder problem ostrich sport";

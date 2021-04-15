@@ -1,1 +1,1 @@
-var mnemonic = "vacuum hat company awake involve budget above humor area suit fold snap";
+var mnemonic = "enroll copper cactus chat notice bargain shrug language price voice choice swap";

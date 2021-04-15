@@ -1,1 +1,1 @@
-var mnemonic = "more race humble model exhaust pioneer connect crazy build gate stairs make";
+var mnemonic = "disagree disagree also way network apology depth corn drum reject recycle miracle";

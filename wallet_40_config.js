@@ -1,1 +1,1 @@
-var mnemonic = "banana car express bike frost plug unable lumber struggle broccoli various absurd";
+var mnemonic = "narrow gift amused one adult company smoke inner review margin demise blame";

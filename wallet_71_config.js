@@ -1,1 +1,1 @@
-var mnemonic = "gift garden hand midnight gallery cheese typical topple trouble kind milk token";
+var mnemonic = "birth habit talk true such someone range sick nice august diesel miss";

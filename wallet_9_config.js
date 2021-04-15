@@ -1,1 +1,1 @@
-var mnemonic = "opinion sweet humor vote general couple run one light naive shrug basket";
+var mnemonic = "screen elevator thumb fresh weekend pink crash flavor essay style purse fee";

@@ -1,1 +1,1 @@
-var mnemonic = "layer sail sign bright fault mammal guard drum achieve tilt chimney icon";
+var mnemonic = "census lawn rural ability obey ghost castle subject someone sorry safe bamboo";

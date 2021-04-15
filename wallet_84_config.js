@@ -1,1 +1,1 @@
-var mnemonic = "margin flat lonely scrub fury key clog episode slogan zebra balcony hood";
+var mnemonic = "future fiction wonder payment bunker reduce resource capable patrol boil skull scene";

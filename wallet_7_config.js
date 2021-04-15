@@ -1,1 +1,1 @@
-var mnemonic = "super hamster piece provide machine super exile resist slight capital boat sustain";
+var mnemonic = "planet focus immune ask joke solid taste word bundle exist odor excite";

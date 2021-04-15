@@ -1,1 +1,1 @@
-var mnemonic = "private pact prevent want session case crop tunnel system outer regret echo";
+var mnemonic = "search warrior reward actual trash garlic galaxy race husband skin buffalo twice";

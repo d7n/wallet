@@ -1,1 +1,1 @@
-var mnemonic = "shove promote tiger maximum method drama private turtle scatter quality inflict indoor";
+var mnemonic = "hand fuel thunder initial satisfy suit best exile faint web city soon";

@@ -1,1 +1,1 @@
-var mnemonic = "auction local simple firm fabric enough genre zoo script unaware faint wait";
+var mnemonic = "craft manage warrior web joke pistol carry lyrics filter vehicle trumpet visa";

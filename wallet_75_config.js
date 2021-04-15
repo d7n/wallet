@@ -1,1 +1,1 @@
-var mnemonic = "hundred fury first patch business mandate plastic slam brother belt permit sister";
+var mnemonic = "pool disorder turkey student second smooth dolphin jelly farm little syrup gadget";

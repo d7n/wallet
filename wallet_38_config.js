@@ -1,1 +1,1 @@
-var mnemonic = "slice mango little paddle chaos awful winter tip speak throw rhythm hint";
+var mnemonic = "lonely bonus toward another pudding oyster sick boy march they glimpse mail";

@@ -1,1 +1,1 @@
-var mnemonic = "slab say giggle ugly stage lonely step jelly art nose pupil turn";
+var mnemonic = "payment ripple online foot stereo stand snow dumb subway resist must blouse";

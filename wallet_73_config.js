@@ -1,1 +1,1 @@
-var mnemonic = "rapid member high fame speak tent dilemma column absent alley innocent push";
+var mnemonic = "birth champion wish else predict shock please salmon crane video tooth owner";

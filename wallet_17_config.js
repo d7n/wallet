@@ -1,1 +1,1 @@
-var mnemonic = "life control word minute safe small wild spoon pupil aim fantasy depend";
+var mnemonic = "vendor choose pond zebra pattern force caught boil frost outdoor spice radar";

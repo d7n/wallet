@@ -1,1 +1,1 @@
-var mnemonic = "letter surface lady name marine dust become arrow foil body young track";
+var mnemonic = "shine dog afford easy move area lamp kick protect entry trap evolve";

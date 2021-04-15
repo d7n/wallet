@@ -1,1 +1,1 @@
-var mnemonic = "sphere same pigeon border survey crack camera interest huge auction armor buffalo";
+var mnemonic = "bomb depth roof gather planet salt margin dose taxi desert tower arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon open lunch pull object force hidden despair cross plug pear leisure";
+var mnemonic = "bullet borrow cave section asthma perfect yard crush close motor account nature";

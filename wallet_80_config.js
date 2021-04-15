@@ -1,1 +1,1 @@
-var mnemonic = "fee cart drama party behind nature drift fury pipe steel wait vacant";
+var mnemonic = "emotion obvious amazing state soft squeeze common thing mansion syrup credit bundle";

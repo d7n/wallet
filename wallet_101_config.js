@@ -1,1 +1,1 @@
-var mnemonic = "concert avocado antenna behave length calm roast sphere roast mother clarify rather";
+var mnemonic = "cupboard quarter cube job index wisdom call brave slush install transfer health";

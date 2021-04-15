@@ -1,1 +1,1 @@
-var mnemonic = "electric senior often deer label lumber tomorrow recall joy two session bone";
+var mnemonic = "consider chef boss celery end penalty luggage asthma supreme brain coast sustain";

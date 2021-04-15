@@ -1,1 +1,1 @@
-var mnemonic = "bunker able drum industry merit custom cycle cup host draft dawn acoustic";
+var mnemonic = "miss degree advance noise vital feel coil smooth ladder sausage neutral thing";

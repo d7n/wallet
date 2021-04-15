@@ -1,1 +1,1 @@
-var mnemonic = "valley install lobster kitten deliver city palm replace explain sense erode annual";
+var mnemonic = "valley word feature cactus job damage elite right phone honey gift general";

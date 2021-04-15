@@ -1,1 +1,1 @@
-var mnemonic = "table bullet left inflict suggest point tide video neck fine pistol vital";
+var mnemonic = "team humor merge mobile craft scissors typical guess chapter fox park ceiling";

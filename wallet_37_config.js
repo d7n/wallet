@@ -1,1 +1,1 @@
-var mnemonic = "already struggle plastic omit danger picture appear easily three method hair section";
+var mnemonic = "fade episode identify cram bring sphere expand safe ball crumble bamboo program";

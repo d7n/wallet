@@ -1,1 +1,1 @@
-var mnemonic = "deliver coconut garbage reform wink width keep foil error grid yard wedding";
+var mnemonic = "hello claw whisper spawn unique settle pen neck when learn rifle crane";

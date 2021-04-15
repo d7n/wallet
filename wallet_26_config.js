@@ -1,1 +1,1 @@
-var mnemonic = "canyon digital tuition oyster sort chapter injury bronze inhale edge amused mountain";
+var mnemonic = "crawl arrow swift diet uniform dizzy clever error airport relief sniff tragic";

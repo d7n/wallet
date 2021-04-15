@@ -1,1 +1,1 @@
-var mnemonic = "crunch group improve modify ramp credit mistake gym quick agent advice swamp";
+var mnemonic = "enact nice street click often grunt ten nice adapt dirt tobacco garage";

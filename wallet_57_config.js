@@ -1,1 +1,1 @@
-var mnemonic = "vocal crime amused piano satoshi march arctic hundred promote retreat crystal sock";
+var mnemonic = "dragon senior link question agree perfect destroy receive useless salute ankle sleep";

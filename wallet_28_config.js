@@ -1,1 +1,1 @@
-var mnemonic = "final expand chief cereal squirrel average easily improve wrap favorite waste pink";
+var mnemonic = "priority art income luggage napkin immense sleep balance outdoor lesson verb quality";

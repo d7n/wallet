@@ -1,1 +1,1 @@
-var mnemonic = "cable casual rival hungry keen truth lady tiny include blossom blush proof";
+var mnemonic = "hybrid crash crater army share coffee bonus uniform sponsor early pass large";

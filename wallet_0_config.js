@@ -1,1 +1,1 @@
-var mnemonic = "atom wife inform exit position kick paper future demand unfair item blur";
+var mnemonic = "wink basket ozone basket like kangaroo icon relief firm snack spice century";

@@ -1,1 +1,1 @@
-var mnemonic = "they come history fuel thumb peasant crime equal young jewel critic buzz";
+var mnemonic = "task pond later cry people trade panda rookie club august coffee ship";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan cheese honey unfold kidney balcony wagon obey dutch jeans depart polar";
+var mnemonic = "grit rich multiply improve diet they chef caught voyage young creek nuclear";
