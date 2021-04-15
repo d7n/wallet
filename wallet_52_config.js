@@ -1,1 +1,1 @@
-var mnemonic = "hotel problem chapter elegant moment master coin nest maple bounce damage guess";
+var mnemonic = "laugh resemble marriage gather remove gallery begin seven plug monitor joke prize";

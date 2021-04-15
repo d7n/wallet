@@ -1,1 +1,1 @@
-var mnemonic = "witness hobby exotic woman wet chicken upset swamp humble reveal make false";
+var mnemonic = "canyon real include join copper deputy concert solid another top verify before";

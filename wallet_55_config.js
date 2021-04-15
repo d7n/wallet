@@ -1,1 +1,1 @@
-var mnemonic = "orchard endorse hat half feature lucky dial economy any lab ensure announce";
+var mnemonic = "truly curious crystal leg hole arena choose what bicycle idle move guess";

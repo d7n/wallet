@@ -1,1 +1,1 @@
-var mnemonic = "one spawn entry very invite cheap crime beach ozone ostrich clinic harsh";
+var mnemonic = "figure like obvious mobile fragile rain antique public shuffle page chef robust";

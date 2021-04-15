@@ -1,1 +1,1 @@
-var mnemonic = "test marriage ability blade voice can ugly wet bring wash canyon solar";
+var mnemonic = "drastic tomorrow pottery case pelican desert lizard aim horn fly diary innocent";

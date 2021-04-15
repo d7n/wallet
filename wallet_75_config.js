@@ -1,1 +1,1 @@
-var mnemonic = "update hope hotel toward wool echo member income keep alien drip nominee";
+var mnemonic = "mesh join aim coil govern morning latin rich utility gallery weird lonely";

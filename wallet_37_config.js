@@ -1,1 +1,1 @@
-var mnemonic = "west weekend donkey bamboo potato pull gasp insect neglect enter fantasy daring";
+var mnemonic = "spice stereo oak torch prevent easy accident collect such bread coin rose";

@@ -1,1 +1,1 @@
-var mnemonic = "elder empty danger hundred island bicycle minute despair problem vault six acquire";
+var mnemonic = "calm old world spy tornado inform tip travel expect deal seminar mix";

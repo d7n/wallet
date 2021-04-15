@@ -1,1 +1,1 @@
-var mnemonic = "draft damp spend lucky any luxury work harsh rough morning source idle";
+var mnemonic = "mobile best athlete bridge dish journey magnet idea rotate wear upset grocery";

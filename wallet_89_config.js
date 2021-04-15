@@ -1,1 +1,1 @@
-var mnemonic = "twin alcohol mushroom couch across level dress plunge wasp suggest desert seat";
+var mnemonic = "educate topple shoot rally coyote clever tumble helmet resemble promote slam cable";

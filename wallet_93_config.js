@@ -1,1 +1,1 @@
-var mnemonic = "secret sustain risk cube omit wool sand obtain trick shift april inform";
+var mnemonic = "second subway dwarf spin belt clap tone gold orange satoshi venture twice";

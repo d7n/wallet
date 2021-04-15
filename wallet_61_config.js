@@ -1,1 +1,1 @@
-var mnemonic = "river seven avocado snap write width amazing sleep grant wrap learn rare";
+var mnemonic = "emotion smile faint wheat giggle slide brisk frequent badge there script vendor";

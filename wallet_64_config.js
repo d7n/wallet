@@ -1,1 +1,1 @@
-var mnemonic = "achieve despair kiss lucky nature upper pelican oak swim adult entry wedding";
+var mnemonic = "awesome replace sentence paddle minimum balance skate cricket skirt razor tip know";

@@ -1,1 +1,1 @@
-var mnemonic = "whale aim smooth basic soccer canoe winner glimpse swing consider lawsuit very";
+var mnemonic = "opera abstract camp teach fossil imitate lizard milk gauge tower reduce place";

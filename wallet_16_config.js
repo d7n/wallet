@@ -1,1 +1,1 @@
-var mnemonic = "pluck prison chimney exchange knee make hedgehog glare foster attack vocal middle";
+var mnemonic = "farm fatal web make february tent deliver reunion coconut favorite prize eternal";

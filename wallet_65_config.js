@@ -1,1 +1,1 @@
-var mnemonic = "system uphold lesson mirror brave glow globe raven lumber lecture lamp rescue";
+var mnemonic = "example agent panda bring denial chimney butter lens nerve broom artist refuse";

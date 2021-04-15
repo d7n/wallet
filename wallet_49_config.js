@@ -1,1 +1,1 @@
-var mnemonic = "inch drip galaxy forest canoe rocket apart catalog business snap secret doll";
+var mnemonic = "spy target topic fabric above lion brush west buddy second spend funny";

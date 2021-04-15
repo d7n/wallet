@@ -1,1 +1,1 @@
-var mnemonic = "juice allow worth exchange few cabin thing worry sauce erode symptom group";
+var mnemonic = "tortoise glue brand bullet jazz manage found strong coin unknown enact strong";

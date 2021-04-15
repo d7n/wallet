@@ -1,1 +1,1 @@
-var mnemonic = "say meadow night fruit swear paper poverty mechanic earth pattern subway foster";
+var mnemonic = "soccer witness reflect gorilla wine camera crumble source laundry holiday grid prison";

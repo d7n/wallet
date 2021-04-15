@@ -1,1 +1,1 @@
-var mnemonic = "lonely twenty box stamp hundred orange silk disease boy peasant balance laundry";
+var mnemonic = "thumb summer domain mountain jar anchor only clump copper rice unfold image";

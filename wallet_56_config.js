@@ -1,1 +1,1 @@
-var mnemonic = "music tooth draw game hospital biology patient veteran marriage body object garage";
+var mnemonic = "home size wish relax skill flee sun tissue coral hip exotic soda";

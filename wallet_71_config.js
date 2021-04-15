@@ -1,1 +1,1 @@
-var mnemonic = "still fantasy toast salon thumb crew hope vacuum heavy piano tattoo endorse";
+var mnemonic = "excuse treat present luxury universe crack depart sea brain receive cereal lava";

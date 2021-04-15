@@ -1,1 +1,1 @@
-var mnemonic = "crumble curtain this chair proud enlist globe offer struggle panda filter differ";
+var mnemonic = "choice fringe museum muffin pen lava portion retreat cat diagram unique first";

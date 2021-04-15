@@ -1,1 +1,1 @@
-var mnemonic = "jump cannon record soap health lift discover you bring jelly local language";
+var mnemonic = "quality edge assume near away embody aerobic legal bread topple noise charge";

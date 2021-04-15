@@ -1,1 +1,1 @@
-var mnemonic = "scan swallow trick warm repeat sand note sure neutral task unfold penalty";
+var mnemonic = "seat moral boil off kidney allow property unique round friend fitness keep";

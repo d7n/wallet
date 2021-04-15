@@ -1,1 +1,1 @@
-var mnemonic = "library beef prison south blossom judge work family note unique obtain busy";
+var mnemonic = "jacket often come town cradle build range life midnight network narrow write";

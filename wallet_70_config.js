@@ -1,1 +1,1 @@
-var mnemonic = "trade will boring nuclear capable hill dog crater exact combine burden mask";
+var mnemonic = "picture diagram slam grab oppose jewel always various program detect insect mixture";

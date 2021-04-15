@@ -1,1 +1,1 @@
-var mnemonic = "cake aisle result century pond employ boat above until unknown buzz quarter";
+var mnemonic = "nasty you injury frog excite fame kick federal aunt prevent coconut elegant";

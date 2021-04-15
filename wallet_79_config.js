@@ -1,1 +1,1 @@
-var mnemonic = "lonely risk hen escape barrel accuse okay father mandate track lend punch";
+var mnemonic = "guilt ethics afford fame primary book frog suit ribbon memory keep cup";

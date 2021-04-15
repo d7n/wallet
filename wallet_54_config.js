@@ -1,1 +1,1 @@
-var mnemonic = "sphere cricket wrist cattle found spatial pill frame critic wheel winter inspire";
+var mnemonic = "dawn symbol basket involve enemy bar myself lava kite later dog glare";

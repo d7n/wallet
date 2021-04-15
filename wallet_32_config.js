@@ -1,1 +1,1 @@
-var mnemonic = "staff ahead body denial pig dust doll person virus genre refuse rib";
+var mnemonic = "dune sword code recipe another tail input latin budget remove kid rhythm";

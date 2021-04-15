@@ -1,1 +1,1 @@
-var mnemonic = "hidden unable magnet goddess reject job robot glide often whale abstract broccoli";
+var mnemonic = "cool wrong sense improve mansion session jaguar sketch credit kitchen error cover";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent regular rebuild begin napkin bomb stone drive alpha erase forest inject";
+var mnemonic = "consider welcome tower expose bleak grid bike arm crazy industry device inject";

@@ -1,1 +1,1 @@
-var mnemonic = "snap clay antenna festival marriage ranch news tragic maid total sister predict";
+var mnemonic = "unlock mutual permit drift minor limit spoil essay sting need local slender";

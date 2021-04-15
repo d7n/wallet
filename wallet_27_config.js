@@ -1,1 +1,1 @@
-var mnemonic = "prepare grass mimic cute best mixture glare grain effort jealous shaft midnight";
+var mnemonic = "panic master barrel enemy when crush two upgrade valve over cage vapor";

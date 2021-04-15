@@ -1,1 +1,1 @@
-var mnemonic = "debate write clump marble wear antenna park deliver effort burger solar piano";
+var mnemonic = "myself swap puzzle enlist sentence country nose boat august wheel worth domain";

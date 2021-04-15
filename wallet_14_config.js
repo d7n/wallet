@@ -1,1 +1,1 @@
-var mnemonic = "intact pumpkin alarm super lazy decide garbage turtle odor gown basket tiny";
+var mnemonic = "wrong earn across raise chunk impose bonus common human agree hero cage";

@@ -1,1 +1,1 @@
-var mnemonic = "control slender jealous year dream decade animal puppy utility frog pen announce";
+var mnemonic = "error record shoot wedding dry rotate perfect skirt couple enact bring cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "loud possible comfort imitate hamster elevator depth help timber phrase famous walnut";
+var mnemonic = "horror cabbage tool office clip punch bullet nominee series cat avoid upon";

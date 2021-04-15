@@ -1,1 +1,1 @@
-var mnemonic = "grab maple portion then unusual layer order drill quality dignity present mom";
+var mnemonic = "rebel offer jungle direct more mixture refuse garment will second limit special";

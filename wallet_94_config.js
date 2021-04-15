@@ -1,1 +1,1 @@
-var mnemonic = "that teach attack problem trophy space drink casino anger reunion pipe sell";
+var mnemonic = "drift helmet enact defense session skill genuine city sea taxi rocket school";

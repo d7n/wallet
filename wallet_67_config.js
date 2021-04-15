@@ -1,1 +1,1 @@
-var mnemonic = "sock radio duty skin chalk gown now easy surround fun mention usage";
+var mnemonic = "vague sting cart sun ancient amateur never soccer business clay exist height";

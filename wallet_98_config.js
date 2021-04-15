@@ -1,1 +1,1 @@
-var mnemonic = "blur swing source quarter option general unknown book pattern drip electric drum";
+var mnemonic = "vicious tag monitor correct own cross recipe language gym pudding eternal total";

@@ -1,1 +1,1 @@
-var mnemonic = "exit dove list brick run message switch erupt fluid father lab suit";
+var mnemonic = "egg sense joke ball pluck fetch elephant where bar senior crumble body";

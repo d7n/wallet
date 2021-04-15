@@ -1,1 +1,1 @@
-var mnemonic = "sister october oyster decide flee warrior page they enough reason moral picnic";
+var mnemonic = "rug nation okay destroy sibling grape around alcohol stamp fault device brown";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna dinosaur rich slender shaft finish safe slice plate one suggest poem";
+var mnemonic = "trip food side during gown track recall near salmon rapid supply mule";

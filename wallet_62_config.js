@@ -1,1 +1,1 @@
-var mnemonic = "journey carry topic waste salmon nurse gloom music venture sketch tide blast";
+var mnemonic = "sand sleep permit trust merge kid mosquito shrimp hood sphere scissors weird";

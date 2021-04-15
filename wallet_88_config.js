@@ -1,1 +1,1 @@
-var mnemonic = "immense glue oval ability lonely rabbit ridge topic misery clerk stuff behind";
+var mnemonic = "together chronic helmet thought aware shallow monster yard cattle salad manage sort";

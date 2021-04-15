@@ -1,1 +1,1 @@
-var mnemonic = "fortune twice cake account below concert soul dress coin height replace unveil";
+var mnemonic = "odor sleep deer soldier pledge chapter pen spice nut hen fork usage";

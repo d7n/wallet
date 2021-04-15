@@ -1,1 +1,1 @@
-var mnemonic = "panther brief there shuffle tongue credit theory remove usual police trouble balcony";
+var mnemonic = "company mixed very prison such virtual glance cash venture crater hour foil";

@@ -1,1 +1,1 @@
-var mnemonic = "pair throw relief bring key potato one worth mistake gap scene pass";
+var mnemonic = "suspect monster print beauty ankle pact boy chase brisk useless history cash";

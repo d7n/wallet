@@ -1,1 +1,1 @@
-var mnemonic = "turkey clump maple chalk heart motor gallery purse mask stool rose come";
+var mnemonic = "net supreme escape invest calm awkward net payment orphan inmate winter run";

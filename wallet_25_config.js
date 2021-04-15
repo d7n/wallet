@@ -1,1 +1,1 @@
-var mnemonic = "scorpion provide lottery second rail news more flavor endorse hunt obtain buffalo";
+var mnemonic = "twin relief nice hill road armed lion lunch glad away usage any";

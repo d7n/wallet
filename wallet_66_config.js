@@ -1,1 +1,1 @@
-var mnemonic = "champion often wish deny enable scatter normal indoor elevator arrange coffee dragon";
+var mnemonic = "exhaust elbow try stick test sing island clip actor inhale million rhythm";

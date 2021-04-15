@@ -1,1 +1,1 @@
-var mnemonic = "river jacket twice pilot fog crystal three base spy bargain issue settle";
+var mnemonic = "present spin sun hobby offer first punch fetch case topic there unable";

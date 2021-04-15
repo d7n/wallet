@@ -1,1 +1,1 @@
-var mnemonic = "frown quarter praise budget craft stereo minor toe weekend animal kitchen length";
+var mnemonic = "prosper volcano harvest certain parade equip clay coach lucky before regular diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion palace hazard myth rival depth fork shaft talent way inhale vicious";
+var mnemonic = "unable note ketchup citizen manage danger grocery noise unable day embark coil";

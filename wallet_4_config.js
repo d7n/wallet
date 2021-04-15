@@ -1,1 +1,1 @@
-var mnemonic = "favorite observe gold goat cram butter place excite like parrot gadget maple";
+var mnemonic = "base wire bulk urge puzzle when logic student best castle dice name";

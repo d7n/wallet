@@ -1,1 +1,1 @@
-var mnemonic = "foam august dirt hero next rally frog forget boring buffalo fashion diet";
+var mnemonic = "near skull crew diamond wood owner uncle garment spoon during father model";

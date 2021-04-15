@@ -1,1 +1,1 @@
-var mnemonic = "near actress alert vacant erase gadget sibling cream crush finger chair hold";
+var mnemonic = "jump employ frame lab open dirt abandon regular orchard evolve hole news";

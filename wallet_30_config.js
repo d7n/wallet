@@ -1,1 +1,1 @@
-var mnemonic = "palace just pluck vanish evoke motor cannon diagram key bag spatial range";
+var mnemonic = "route sign father venture marble daring zero client burden file face ski";

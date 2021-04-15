@@ -1,1 +1,1 @@
-var mnemonic = "bone remind clerk avocado lens truth post shaft wear husband peanut sausage";
+var mnemonic = "insect ramp expire pen beauty gentle toast dismiss apple dirt kiwi oppose";

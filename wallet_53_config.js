@@ -1,1 +1,1 @@
-var mnemonic = "agent page word bread chicken icon frown immune modify banner orphan review";
+var mnemonic = "ticket maze purpose virtual dust patrol matrix victory output inflict eternal attract";

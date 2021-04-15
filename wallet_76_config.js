@@ -1,1 +1,1 @@
-var mnemonic = "round exact suit frog exchange address cheap photo admit salmon empower second";
+var mnemonic = "hole strike drip solid chimney dirt noble dragon ship major one patch";

@@ -1,1 +1,1 @@
-var mnemonic = "phone bitter print about rural trade version employ giant typical pistol rabbit";
+var mnemonic = "luxury traffic awkward minor planet basic avocado excess broken quality crumble parade";

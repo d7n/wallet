@@ -1,1 +1,1 @@
-var mnemonic = "gun gown life course remind marine peace dose cabin identify north sell";
+var mnemonic = "parent before spoil segment flower muffin shell orient hello action lounge broom";

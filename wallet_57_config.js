@@ -1,1 +1,1 @@
-var mnemonic = "trust dignity letter insane drill shop tuna marine subway hen apple recycle";
+var mnemonic = "sound already honey uncle grant whale easy cousin language sponsor rent brother";

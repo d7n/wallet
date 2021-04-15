@@ -1,1 +1,1 @@
-var mnemonic = "tobacco carbon run clutch empower fish venture snow local noble spot foam";
+var mnemonic = "voice ensure pair call devote fruit economy defense defense artwork gadget bicycle";

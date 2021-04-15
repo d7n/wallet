@@ -1,1 +1,1 @@
-var mnemonic = "stone say social popular able ripple camera census reveal mobile parade bar";
+var mnemonic = "fox unable horror repair federal drastic rubber indoor journey dance only fire";

@@ -1,1 +1,1 @@
-var mnemonic = "expose shy timber strategy develop rail invest true suffer access orchard veteran";
+var mnemonic = "giant guitar venture lobster tuition beach patrol chicken verb link dream hamster";

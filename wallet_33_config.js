@@ -1,1 +1,1 @@
-var mnemonic = "fabric ribbon flip game clarify meadow wage video finish film struggle lunar";
+var mnemonic = "frown fork unaware helmet uphold idle broom gate arrow mixed boil often";

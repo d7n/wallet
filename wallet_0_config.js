@@ -1,1 +1,1 @@
-var mnemonic = "grape unique crew mail general arctic assault twelve anger shoot senior degree";
+var mnemonic = "garage slogan aerobic asset install notable attend bread category correct shell please";

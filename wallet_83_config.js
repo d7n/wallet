@@ -1,1 +1,1 @@
-var mnemonic = "bless humor crash high pet flower absorb dizzy zone behave mistake panel";
+var mnemonic = "easy junk sadness aware brush bring midnight theory alone capable connect strong";

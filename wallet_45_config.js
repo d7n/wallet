@@ -1,1 +1,1 @@
-var mnemonic = "inch memory mammal water clown hub trip broom daring escape force window";
+var mnemonic = "enter conduct nuclear slice antique brand fix door filter wedding inflict caution";

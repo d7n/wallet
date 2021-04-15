@@ -1,1 +1,1 @@
-var mnemonic = "disorder use fold depth now green aspect title team vicious syrup two";
+var mnemonic = "skate scatter call trend donor remain post fiscal theme orphan gallery cupboard";

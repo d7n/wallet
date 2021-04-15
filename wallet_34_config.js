@@ -1,1 +1,1 @@
-var mnemonic = "rely scene purpose palm forward refuse seek two panel umbrella mushroom mesh";
+var mnemonic = "weekend news clutch deal rely garage donate sister speak park brief turkey";

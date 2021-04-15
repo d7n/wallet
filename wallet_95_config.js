@@ -1,1 +1,1 @@
-var mnemonic = "skirt typical deputy object excess baby doll risk cotton device ordinary guide";
+var mnemonic = "clinic rice act present sugar arrest rare kitchen soup quick help process";

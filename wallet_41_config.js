@@ -1,1 +1,1 @@
-var mnemonic = "horse frog major carpet kitchen place source develop rhythm abstract scheme shaft";
+var mnemonic = "screen monitor combine punch faint web dry dentist senior attract retire tree";

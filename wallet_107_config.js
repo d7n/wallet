@@ -1,1 +1,1 @@
-var mnemonic = "laundry shine lift right left reform maze essence fish region level rubber";
+var mnemonic = "stool dose spy menu gasp reduce actress gravity pony innocent useful half";

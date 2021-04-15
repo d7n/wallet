@@ -1,1 +1,1 @@
-var mnemonic = "shield remind lake danger believe tide drastic lend blood mention remind meadow";
+var mnemonic = "duck anger source recipe chuckle bleak brief unusual about ring van cost";

@@ -1,1 +1,1 @@
-var mnemonic = "access kite adapt any ripple image hockey injury update sail else lift";
+var mnemonic = "pluck dance close ordinary gravity apple exact rug light chalk acid flame";

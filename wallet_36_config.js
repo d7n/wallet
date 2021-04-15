@@ -1,1 +1,1 @@
-var mnemonic = "escape sell offer crane fold window oyster fury prevent shine wrist faculty";
+var mnemonic = "bargain wreck lawsuit poet immune hover private person wet manual good kingdom";

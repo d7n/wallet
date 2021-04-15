@@ -1,1 +1,1 @@
-var mnemonic = "dolphin grab define fabric music total unique jewel shiver extend critic grace";
+var mnemonic = "indoor make analyst holiday vast pear question erase naive abuse dose twist";

@@ -1,1 +1,1 @@
-var mnemonic = "estate enrich garage neck vanish donate copper pencil crucial puzzle woman camp";
+var mnemonic = "surprise roast vault actor rib menu cousin habit winter monkey cluster fence";

@@ -1,1 +1,1 @@
-var mnemonic = "basic satoshi window foil ritual negative robot rule cat side build teach";
+var mnemonic = "private hold world shuffle brand custom push machine surface notice setup frost";

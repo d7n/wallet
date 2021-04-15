@@ -1,1 +1,1 @@
-var mnemonic = "track apology canal mistake asthma media slam bind seven hurt fabric author";
+var mnemonic = "buzz indicate tackle blouse board join conduct twin utility buyer smoke step";

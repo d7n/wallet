@@ -1,1 +1,1 @@
-var mnemonic = "yard animal force replace movie ethics inner steel label either reunion accident";
+var mnemonic = "remain peasant alcohol sign million shaft sphere rely lava almost person decade";

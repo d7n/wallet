@@ -1,1 +1,1 @@
-var mnemonic = "room ready appear siren sphere month radio parrot chuckle sketch apple web";
+var mnemonic = "memory knock run knife mail comfort silent lion arrest between receive cement";

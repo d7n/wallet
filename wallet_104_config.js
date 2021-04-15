@@ -1,1 +1,1 @@
-var mnemonic = "output flash six champion guard artefact consider thought snack include west velvet";
+var mnemonic = "width bullet skull ankle public peace pair imitate rabbit cigar fog thank";

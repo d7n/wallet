@@ -1,1 +1,1 @@
-var mnemonic = "grain lake birth ticket coral dumb trophy main sustain wagon bean beach";
+var mnemonic = "fatal tornado envelope clarify invest social wire snack sail assault disease comfort";

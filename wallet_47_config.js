@@ -1,1 +1,1 @@
-var mnemonic = "push tumble consider angry bracket similar warm maximum tank neutral decorate acoustic";
+var mnemonic = "flower monster advice side version naive action modify liberty initial rapid disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "little regular visual culture usage bullet ahead elevator guess alone kiwi argue";
+var mnemonic = "awesome interest seat host oblige diesel satoshi prevent potato term devote cause";

@@ -1,1 +1,1 @@
-var mnemonic = "inner noble resource effort park achieve dinosaur behave similar word foam mind";
+var mnemonic = "grief major prevent horn park cash twenty renew evoke phrase try test";

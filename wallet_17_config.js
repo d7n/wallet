@@ -1,1 +1,1 @@
-var mnemonic = "cupboard brisk universe sea champion educate gesture shoulder enhance awful blade major";
+var mnemonic = "fish sugar lonely copy retire comic army hover demand fiscal apart absent";

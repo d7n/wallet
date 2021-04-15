@@ -1,1 +1,1 @@
-var mnemonic = "bonus powder sugar ridge nephew rubber snake weasel kick tent outer end";
+var mnemonic = "crunch north hero flag deal script found wonder direct reunion erase together";
