@@ -1,1 +1,1 @@
-var mnemonic = "shuffle bunker sunset select join attract snack clean spot steel seek type";
+var mnemonic = "radar october lawsuit resist month glare during permit lazy chapter blossom tongue";

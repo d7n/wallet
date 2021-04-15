@@ -1,1 +1,1 @@
-var mnemonic = "wool mesh anger license whisper hurry laugh evidence pink magic exhaust replace";
+var mnemonic = "street mix coil prosper number umbrella artefact symbol cinnamon address cute nephew";

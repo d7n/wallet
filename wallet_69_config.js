@@ -1,1 +1,1 @@
-var mnemonic = "pistol clay rapid tray gun fresh ignore pretty sheriff alert miracle long";
+var mnemonic = "ball fan brief suffer dog fade stock boil safe genre random party";

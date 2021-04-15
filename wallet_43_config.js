@@ -1,1 +1,1 @@
-var mnemonic = "tuition possible crop you wealth galaxy tongue shock rain magic phrase title";
+var mnemonic = "extend critic comfort tornado stumble accuse antique begin balcony card actress vanish";

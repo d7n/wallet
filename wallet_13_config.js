@@ -1,1 +1,1 @@
-var mnemonic = "asthma fold hedgehog input gate energy warrior fabric cannon labor hover december";
+var mnemonic = "junk nice vast jeans food fitness cream fever account blue magic tenant";

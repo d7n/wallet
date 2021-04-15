@@ -1,1 +1,1 @@
-var mnemonic = "december marine regret color employ front mail hero topple furnace carry grunt";
+var mnemonic = "inspire music hollow elephant maid asset perfect axis way violin sauce borrow";

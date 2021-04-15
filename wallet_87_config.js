@@ -1,1 +1,1 @@
-var mnemonic = "warfare limit own pen police pledge cross around allow face breeze ethics";
+var mnemonic = "better card banana exchange warfare same devote hotel sword place slogan midnight";

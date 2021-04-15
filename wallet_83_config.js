@@ -1,1 +1,1 @@
-var mnemonic = "rule age pattern boil proud tobacco hawk youth wing injury spin mind";
+var mnemonic = "gadget venue first normal ecology food river park glove assault wool accident";

@@ -1,1 +1,1 @@
-var mnemonic = "useful culture twist width lab month tail sustain try poet number give";
+var mnemonic = "field lazy flock seed never glory first antique cake mystery cost finish";

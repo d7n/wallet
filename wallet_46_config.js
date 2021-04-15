@@ -1,1 +1,1 @@
-var mnemonic = "army crack vacant motion team industry vapor caught undo amateur you endless";
+var mnemonic = "resemble soul enter spring light cannon tank term burst route daring join";

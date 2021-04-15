@@ -1,1 +1,1 @@
-var mnemonic = "car concert crazy either lava green teach brush make proof moment nuclear";
+var mnemonic = "nut tiny sound exercise cushion soda color slogan police change devote chapter";

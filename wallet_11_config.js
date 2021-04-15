@@ -1,1 +1,1 @@
-var mnemonic = "erosion glimpse spare stick wine home reject south master hundred crisp become";
+var mnemonic = "carbon arrest super obscure strong sort tape cousin spider speak warrior execute";

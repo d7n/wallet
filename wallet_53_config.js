@@ -1,1 +1,1 @@
-var mnemonic = "chief noodle clinic slim sing farm topic dilemma exact remain wear wrong";
+var mnemonic = "resemble good image page system pizza elder try avocado help seven long";

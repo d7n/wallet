@@ -1,1 +1,1 @@
-var mnemonic = "repeat fitness parrot sugar radar rhythm basic okay jazz century flip major";
+var mnemonic = "pause notice bleak champion source silent bronze later brain weekend example quality";

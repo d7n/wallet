@@ -1,1 +1,1 @@
-var mnemonic = "rocket dutch canyon alone satoshi bracket success earth finish amateur essence finger";
+var mnemonic = "cupboard sound undo depart question frown ski gain world disagree pluck hire";

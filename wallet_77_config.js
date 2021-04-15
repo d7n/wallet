@@ -1,1 +1,1 @@
-var mnemonic = "pet bless chief tower type monster radar cotton oven remember identify vacant";
+var mnemonic = "denial cargo glow meadow climb cake segment speak mansion tobacco easily sustain";

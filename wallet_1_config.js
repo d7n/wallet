@@ -1,1 +1,1 @@
-var mnemonic = "type shuffle service floor vicious often scorpion biology absurd waste such panel";
+var mnemonic = "fury tiny surround wife car limb wide early member elephant cigar simple";

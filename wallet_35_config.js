@@ -1,1 +1,1 @@
-var mnemonic = "very seat divorce spend bronze tone also any dune bicycle employ danger";
+var mnemonic = "supply explain tray member apology unfold diary alcohol punch regular suffer collect";

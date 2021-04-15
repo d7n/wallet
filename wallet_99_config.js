@@ -1,1 +1,1 @@
-var mnemonic = "elevator route true eye vendor pepper safe zero early fatigue segment vendor";
+var mnemonic = "east hamster recipe rifle key nation ginger forget sure need joy buyer";

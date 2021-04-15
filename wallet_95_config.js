@@ -1,1 +1,1 @@
-var mnemonic = "wonder galaxy slab february clean cigar bulk lizard return crack during ball";
+var mnemonic = "lounge merge orchard call either renew person cattle initial version pledge rely";

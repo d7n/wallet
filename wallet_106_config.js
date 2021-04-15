@@ -1,1 +1,1 @@
-var mnemonic = "giant include security dog federal tonight morning rule mule lumber noise leg";
+var mnemonic = "desert wedding tiny craft apart old forest destroy retreat garbage obvious flag";

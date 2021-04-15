@@ -1,1 +1,1 @@
-var mnemonic = "hair debate crisp gather burger source picnic eagle place toddler bonus fault";
+var mnemonic = "short regular genre estate sail rebel leopard narrow sphere decorate feel rug";

@@ -1,1 +1,1 @@
-var mnemonic = "idle crowd kid benefit scale believe alpha anchor gain recipe clerk uphold";
+var mnemonic = "banana indoor describe scrub shaft region atom close mention wonder soccer scout";

@@ -1,1 +1,1 @@
-var mnemonic = "border ginger unhappy afraid easy weapon unhappy enough black answer else attack";
+var mnemonic = "candy rigid steel uncle fatigue element empower pull spring cloth short fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic unique kick spawn habit bachelor inflict citizen absurd endorse home elegant";
+var mnemonic = "title height identify swap genre oak dismiss indicate swift pottery puzzle lecture";

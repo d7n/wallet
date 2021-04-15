@@ -1,1 +1,1 @@
-var mnemonic = "maze tortoise harvest submit inflict remind rally crime crisp issue can code";
+var mnemonic = "misery raven leisure remain remain bicycle unhappy energy slim great twenty offer";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet ski victory wine wash symptom loud tobacco soul reunion luggage cheese";
+var mnemonic = "kick history devote enemy pair hip economy panic off broken report uncover";

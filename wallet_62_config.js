@@ -1,1 +1,1 @@
-var mnemonic = "state grief patient output wrist away buddy cash soccer dice olympic lonely";
+var mnemonic = "clown hybrid wild assist clean river voyage peace blind awake keen rich";

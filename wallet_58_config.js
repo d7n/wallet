@@ -1,1 +1,1 @@
-var mnemonic = "palace mesh host electric tortoise prize this picture top play love exercise";
+var mnemonic = "guitar broccoli uniform garlic fresh humor shrimp warrior term reunion expose behind";

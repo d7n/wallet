@@ -1,1 +1,1 @@
-var mnemonic = "badge toast lunch uniform select inmate bulk harbor promote seven excess grain";
+var mnemonic = "famous swallow chicken analyst concert reward kid turn drive road enemy judge";

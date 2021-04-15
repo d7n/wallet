@@ -1,1 +1,1 @@
-var mnemonic = "settle visual certain cream such opera power crumble hundred north monkey mosquito";
+var mnemonic = "pride tooth ribbon evolve describe idea worry level help resource hour glow";

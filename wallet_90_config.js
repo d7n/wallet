@@ -1,1 +1,1 @@
-var mnemonic = "void million giggle section arm copy category gadget delay process spice alter";
+var mnemonic = "monitor snake cabin fruit width artist tone major spring walnut sauce glide";

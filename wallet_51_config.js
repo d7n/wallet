@@ -1,1 +1,1 @@
-var mnemonic = "exotic wrap small practice lady coconut have basket broken owner switch fault";
+var mnemonic = "oppose spawn thought warm drum sign rhythm mass ancient life arrive style";

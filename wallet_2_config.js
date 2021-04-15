@@ -1,1 +1,1 @@
-var mnemonic = "focus afraid fish flock ask ensure stone danger satisfy reject orient drink";
+var mnemonic = "ski slim giggle napkin office blouse trophy grief calm enough dog arrow";

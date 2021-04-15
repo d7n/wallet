@@ -1,1 +1,1 @@
-var mnemonic = "salad rice bring more envelope hat improve forest fancy release drum recall";
+var mnemonic = "inform day slide shed cube fame six barely fiscal ability fringe legal";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual rude text over cattle refuse field position addict episode crash target";
+var mnemonic = "strategy rain retreat help ivory rocket minimum speed artwork offer priority predict";

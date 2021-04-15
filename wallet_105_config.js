@@ -1,1 +1,1 @@
-var mnemonic = "false miracle mandate alert focus outside hard dawn resemble tragic carpet wheat";
+var mnemonic = "owner they talent license combine shoe seminar choice divide latin equal crop";

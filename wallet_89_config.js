@@ -1,1 +1,1 @@
-var mnemonic = "tree panda van chair initial thunder hospital wing vocal clay smart embark";
+var mnemonic = "polar text betray elevator panel negative awake giggle elevator fiction share decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "surface search sketch garbage raccoon boy estate peace critic deliver vessel gown";
+var mnemonic = "front hero express battle cricket tiny athlete smoke video hint time april";

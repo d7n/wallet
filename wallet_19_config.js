@@ -1,1 +1,1 @@
-var mnemonic = "battle race swallow extend believe pride survey sugar life have apple erode";
+var mnemonic = "asthma share bus curious once code bench furnace ability match icon demise";

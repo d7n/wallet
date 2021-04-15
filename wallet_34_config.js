@@ -1,1 +1,1 @@
-var mnemonic = "source movie pelican ensure satoshi normal motion north abandon ghost alter jeans";
+var mnemonic = "truth position soap sun situate grunt giggle damage economy orange raw visit";

@@ -1,1 +1,1 @@
-var mnemonic = "silent bundle faint shiver proof legend century remember lecture make heart romance";
+var mnemonic = "change provide cram audit clean argue fit heavy trouble solar cram urge";

@@ -1,1 +1,1 @@
-var mnemonic = "assault rough exhaust cart arrest lady arctic mesh emerge glad accuse cherry";
+var mnemonic = "time vague hand carpet garlic armor label harvest cigar boy loyal catch";

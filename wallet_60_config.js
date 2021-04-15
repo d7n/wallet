@@ -1,1 +1,1 @@
-var mnemonic = "neither clog picture script ill cat knock leave during mother snap culture";
+var mnemonic = "label genuine pink loyal naive potato attend lesson hope monster rose scene";

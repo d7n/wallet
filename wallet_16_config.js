@@ -1,1 +1,1 @@
-var mnemonic = "kingdom glow myth crouch laptop pudding second vocal vessel special relief trial";
+var mnemonic = "chuckle escape reveal conduct couple hundred forest view burden chair potato reveal";

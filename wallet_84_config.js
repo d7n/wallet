@@ -1,1 +1,1 @@
-var mnemonic = "feel there term include dance clog van chunk jazz black scout travel";
+var mnemonic = "fiction dash grunt collect vacant clean soon claim often idle screen never";

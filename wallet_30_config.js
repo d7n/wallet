@@ -1,1 +1,1 @@
-var mnemonic = "sad educate describe people power aim enjoy invest winner safe matrix horn";
+var mnemonic = "scrap teach foil heavy surround caution lava access grunt inside demise season";

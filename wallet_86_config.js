@@ -1,1 +1,1 @@
-var mnemonic = "erase century install topple paper beauty blade entry pool pistol lava crowd";
+var mnemonic = "dial good nothing water catalog rally amateur artist note chronic sure pencil";

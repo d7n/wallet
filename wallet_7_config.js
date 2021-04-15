@@ -1,1 +1,1 @@
-var mnemonic = "whisper claw among hotel lizard sentence sadness fold keen catch skull close";
+var mnemonic = "repair swamp topic country fatal practice check enable twelve vague organ sketch";

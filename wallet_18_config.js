@@ -1,1 +1,1 @@
-var mnemonic = "nephew void defy hole sand bundle hidden gorilla drama south betray dumb";
+var mnemonic = "drip artefact treat shield august demand useless inch maze scatter remind violin";

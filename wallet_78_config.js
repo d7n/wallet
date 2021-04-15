@@ -1,1 +1,1 @@
-var mnemonic = "drift adapt bulb gadget fame vicious junior shove aspect general soda wall";
+var mnemonic = "monitor winter seed antique inquiry tilt strong true fame member climb venture";

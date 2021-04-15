@@ -1,1 +1,1 @@
-var mnemonic = "cricket blood grab ring fade amount thing skull ginger scout notice away";
+var mnemonic = "layer truly trade wolf say flight another rally focus trim vacant wire";

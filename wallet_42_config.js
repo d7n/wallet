@@ -1,1 +1,1 @@
-var mnemonic = "blush execute hold bag wolf differ rotate orient traffic kingdom claim ticket";
+var mnemonic = "nice attack gun display orchard reflect door rough giggle truly seed same";

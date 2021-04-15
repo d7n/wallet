@@ -1,1 +1,1 @@
-var mnemonic = "expect network initial breeze track drive nice culture welcome air clay plunge";
+var mnemonic = "dutch wrap seek couch struggle taste blouse coral radar duck antenna front";

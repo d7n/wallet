@@ -1,1 +1,1 @@
-var mnemonic = "depth use exchange law people path satisfy gate color convince say only";
+var mnemonic = "demand excess swamp dawn park more afraid hour cupboard unveil stock romance";

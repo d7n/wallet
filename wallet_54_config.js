@@ -1,1 +1,1 @@
-var mnemonic = "taste keen polar fragile trouble thought mule cause wisdom index canyon catalog";
+var mnemonic = "armor buffalo analyst together abandon daring fold table slender lecture report naive";

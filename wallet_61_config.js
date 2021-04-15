@@ -1,1 +1,1 @@
-var mnemonic = "custom aim seat wage nothing decide bar adapt flip point sick eternal";
+var mnemonic = "riot draw rocket embrace wagon more young marble dentist fall flower attend";

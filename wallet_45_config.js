@@ -1,1 +1,1 @@
-var mnemonic = "hole emerge oblige original shoot album involve jewel tissue decide distance purse";
+var mnemonic = "brain animal purse reunion north shell wait once current diary pear live";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture bacon black bind front live blouse rude margin easy spawn reject";
+var mnemonic = "economy neglect inject olive critic road fix believe ship jelly merit island";

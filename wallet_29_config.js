@@ -1,1 +1,1 @@
-var mnemonic = "copy moral plastic fiscal potato owner sunny country bonus zero spawn weekend";
+var mnemonic = "penalty pill over fatal wrap dad runway crush mimic behind shell elephant";

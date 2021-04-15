@@ -1,1 +1,1 @@
-var mnemonic = "install average inch anger assist medal boy damage connect human poem fault";
+var mnemonic = "vacuum ensure travel still paddle donor answer saddle south twist rare stamp";

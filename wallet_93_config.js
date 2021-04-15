@@ -1,1 +1,1 @@
-var mnemonic = "diet brisk differ eyebrow unveil habit exist brush mimic south frown actress";
+var mnemonic = "best junk unaware want punch head task debris omit rack tide struggle";

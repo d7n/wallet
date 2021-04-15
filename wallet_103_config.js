@@ -1,1 +1,1 @@
-var mnemonic = "involve layer victory opera pledge flush attack sport memory feature fire picnic";
+var mnemonic = "surprise stage insect cart goose omit accuse expire wrestle glory creek lunch";

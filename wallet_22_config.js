@@ -1,1 +1,1 @@
-var mnemonic = "north mesh select sign harsh assist element federal silent state zoo rescue";
+var mnemonic = "pipe canal boil puppy inside satoshi rifle danger erase remove light spawn";

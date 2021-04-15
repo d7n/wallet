@@ -1,1 +1,1 @@
-var mnemonic = "paper cloud sustain hundred stage cargo bone dwarf reflect globe napkin marriage";
+var mnemonic = "clown step visit country logic march jewel drop benefit talent winner shift";

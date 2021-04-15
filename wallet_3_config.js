@@ -1,1 +1,1 @@
-var mnemonic = "ski crowd hole safe task glad deny genius canyon acquire fork typical";
+var mnemonic = "turkey rapid coast hundred kingdom solar number debris you just pilot neither";

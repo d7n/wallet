@@ -1,1 +1,1 @@
-var mnemonic = "accident awesome bottom labor unlock urge multiply until jaguar urge quiz emotion";
+var mnemonic = "disorder page sister near omit undo poverty shop bamboo jeans breeze picture";

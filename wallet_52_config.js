@@ -1,1 +1,1 @@
-var mnemonic = "surface west number tent crack soccer bubble sheriff bleak oak orient soft";
+var mnemonic = "subway horse gown drama rose area holiday apology rescue day peasant guilt";

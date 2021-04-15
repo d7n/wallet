@@ -1,1 +1,1 @@
-var mnemonic = "broccoli person mystery olympic eight wheat letter language layer ten rather best";
+var mnemonic = "coast barely draft awake board jeans near drop wolf april recall usual";

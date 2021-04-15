@@ -1,1 +1,1 @@
-var mnemonic = "mistake mother route audit follow scorpion under fork unique cinnamon media maximum";
+var mnemonic = "song perfect water tube skate dilemma fat frequent curious subject enhance chunk";

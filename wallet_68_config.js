@@ -1,1 +1,1 @@
-var mnemonic = "waste category such clip medal funny cruise empower copper budget patrol street";
+var mnemonic = "false swing citizen decrease fence dry borrow cloth diamond broken together butter";

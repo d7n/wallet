@@ -1,1 +1,1 @@
-var mnemonic = "spy scheme pyramid noodle page spatial keen loud empower tourist report mention";
+var mnemonic = "fever reflect claim spike buffalo marine fluid inform expand wonder senior interest";

@@ -1,1 +1,1 @@
-var mnemonic = "error blur valley dragon almost citizen cook blue panel auction wealth lamp";
+var mnemonic = "knee tragic focus assume glass ranch veteran salt carbon echo beyond snack";

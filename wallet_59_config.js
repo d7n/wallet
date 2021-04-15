@@ -1,1 +1,1 @@
-var mnemonic = "replace mushroom abstract rare blade taxi gun clap behave quarter alert patient";
+var mnemonic = "rescue usual ski test fabric zero assault skate reflect nothing tiger earn";

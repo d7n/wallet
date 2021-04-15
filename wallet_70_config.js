@@ -1,1 +1,1 @@
-var mnemonic = "picture orbit couple school urban certain plate crash sunny shoulder gallery series";
+var mnemonic = "curve future cat battle insane insane recipe level heart fee clean direct";

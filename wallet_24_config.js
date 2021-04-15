@@ -1,1 +1,1 @@
-var mnemonic = "jewel slice plastic you speak family group mango artwork case struggle young";
+var mnemonic = "gallery capital multiply during dawn crane catalog try verb agree hire guide";

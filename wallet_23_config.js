@@ -1,1 +1,1 @@
-var mnemonic = "young share raven pretty habit stumble recall color curious above coral aim";
+var mnemonic = "orient giant utility guide wrist mouse keep infant tumble answer piano hole";

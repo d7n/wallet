@@ -1,1 +1,1 @@
-var mnemonic = "alley sunny one party few fury produce retreat pill merge crumble demise";
+var mnemonic = "autumn water rose wagon chaos music enter nut wisdom give write ready";

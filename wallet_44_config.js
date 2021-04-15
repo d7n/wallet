@@ -1,1 +1,1 @@
-var mnemonic = "dry arctic knife baby decrease state sausage opinion record keep head tag";
+var mnemonic = "there lens artefact velvet process apology alpha dish will asthma busy rookie";

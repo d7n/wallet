@@ -1,1 +1,1 @@
-var mnemonic = "festival small jewel olympic service short project ribbon toss one sadness nerve";
+var mnemonic = "stuff resist gun tumble wool denial kitten protect wall museum menu member";

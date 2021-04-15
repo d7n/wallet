@@ -1,1 +1,1 @@
-var mnemonic = "useless gossip team liberty crew arrest inside leave certain island injury situate";
+var mnemonic = "tank tuition affair special joke six velvet giggle slush service gym swap";

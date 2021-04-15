@@ -1,1 +1,1 @@
-var mnemonic = "click uncover harsh swallow junk garment bleak budget payment vague chair clown";
+var mnemonic = "walk crumble gadget million script hen husband deputy palm fresh drink dwarf";

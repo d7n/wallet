@@ -1,1 +1,1 @@
-var mnemonic = "injury jeans afford wire trophy absurd elegant check apple such trust below";
+var mnemonic = "settle clarify broccoli topple mention glory elevator hurry tobacco bounce damp into";

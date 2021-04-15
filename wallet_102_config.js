@@ -1,1 +1,1 @@
-var mnemonic = "talent skate dragon tissue group olive column chair grocery sock ketchup glove";
+var mnemonic = "canyon earth umbrella mushroom potato agent attitude volcano super wet review bridge";

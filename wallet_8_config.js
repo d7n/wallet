@@ -1,1 +1,1 @@
-var mnemonic = "often catalog rabbit enlist twelve capital jeans sentence retire art boost cube";
+var mnemonic = "divert over estate kangaroo moon dance aspect dentist among anger stock close";

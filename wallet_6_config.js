@@ -1,1 +1,1 @@
-var mnemonic = "reflect merge cricket reason because cheap thought enter erupt ladder mystery alarm";
+var mnemonic = "hurdle shaft number pigeon spend curve timber wagon course egg during pumpkin";
