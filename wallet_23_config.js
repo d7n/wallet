@@ -1,1 +1,1 @@
-var mnemonic = "tilt satoshi alpha you husband mad cheese forward attack debate human wish";
+var mnemonic = "either aware put myth never door resource venture garage frequent curve camp";

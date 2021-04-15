@@ -1,1 +1,1 @@
-var mnemonic = "equip beach lesson sorry curious deputy attract tribe just seminar below jealous";
+var mnemonic = "orient vote afraid faint liberty coach fatal seven upper crowd sauce cabbage";

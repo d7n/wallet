@@ -1,1 +1,1 @@
-var mnemonic = "knee wedding burger short know proud segment exhibit punch diet orphan spoon";
+var mnemonic = "learn spell pony uncover hurdle coyote stuff tray cushion near summer crop";

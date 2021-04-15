@@ -1,1 +1,1 @@
-var mnemonic = "isolate math announce nominee verify immune hundred memory cereal lamp slim neither";
+var mnemonic = "embrace witness awful winner dog donkey birth utility swarm job fold under";

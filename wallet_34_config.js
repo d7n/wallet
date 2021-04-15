@@ -1,1 +1,1 @@
-var mnemonic = "vacant turtle maximum future series raccoon ethics quarter ski snake voice tragic";
+var mnemonic = "doll boring morning warm tennis spray civil pioneer lamp insect arctic employ";

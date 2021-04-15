@@ -1,1 +1,1 @@
-var mnemonic = "excite execute unusual napkin soup staff proud private credit usual van off";
+var mnemonic = "sick cereal wagon various orchard sea unfair steak sting symptom outdoor garbage";

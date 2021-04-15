@@ -1,1 +1,1 @@
-var mnemonic = "match fashion middle point deliver angle hungry rude upgrade park infant uncle";
+var mnemonic = "female material spend oval electric engage fee inherit tornado margin great fine";

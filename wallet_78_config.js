@@ -1,1 +1,1 @@
-var mnemonic = "cloud junior history cushion pattern vendor change punch side zone pride frog";
+var mnemonic = "romance airport harvest surface waste predict crumble maze child winter bag cheap";

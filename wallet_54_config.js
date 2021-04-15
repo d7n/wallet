@@ -1,1 +1,1 @@
-var mnemonic = "measure canyon season stem super produce prize inform grid attract mechanic rifle";
+var mnemonic = "turtle small beauty cargo wink moral maple beef lab giggle notice wrap";

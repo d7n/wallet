@@ -1,1 +1,1 @@
-var mnemonic = "issue churn process february bread little enter cycle junk need million choose";
+var mnemonic = "address mansion lamp radar public chaos item treat answer cream avoid lava";

@@ -1,1 +1,1 @@
-var mnemonic = "maid latin decade economy jeans flock twin denial cook cruise edge six";
+var mnemonic = "seek dilemma siege wish fortune beach guess arrange stand harsh rookie network";

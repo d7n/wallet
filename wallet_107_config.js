@@ -1,1 +1,1 @@
-var mnemonic = "thrive stuff worth tray radar area shock wonder viable mask image pistol";
+var mnemonic = "inquiry three produce what opinion remove spoil okay heart oppose survey bird";

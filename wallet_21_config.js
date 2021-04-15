@@ -1,1 +1,1 @@
-var mnemonic = "business fly science hood tiny caution hamster cable surface strike enter whisper";
+var mnemonic = "unaware twelve angle ready deer twenty stumble fruit artwork frequent develop address";

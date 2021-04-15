@@ -1,1 +1,1 @@
-var mnemonic = "basic ghost refuse fluid dust shrug wild skull aspect dentist depth hero";
+var mnemonic = "vessel apart refuse attend feel tourist easy crisp ahead bike brief ill";

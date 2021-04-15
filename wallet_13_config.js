@@ -1,1 +1,1 @@
-var mnemonic = "elder arm garden excuse year moon claw evidence popular powder truck chunk";
+var mnemonic = "receive father spatial step seed purity minute wire wave chronic magnet myth";

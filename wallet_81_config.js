@@ -1,1 +1,1 @@
-var mnemonic = "salad liar sketch owner tower misery worth arrange canyon radio picnic yellow";
+var mnemonic = "walk among tattoo motion capable calm flat speed pave visual panic grape";

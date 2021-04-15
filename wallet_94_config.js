@@ -1,1 +1,1 @@
-var mnemonic = "stumble pact brush cattle visual ship until poem evoke defy stadium idea";
+var mnemonic = "finger frown fabric cube scrap damp step meadow peanut bomb kingdom bread";

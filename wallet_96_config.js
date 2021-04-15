@@ -1,1 +1,1 @@
-var mnemonic = "luggage island exit bundle nuclear miss lamp term bounce desk zone speed";
+var mnemonic = "cushion enable video end confirm cook remove topic never manual salad symbol";

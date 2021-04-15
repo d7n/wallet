@@ -1,1 +1,1 @@
-var mnemonic = "empty air soccer slight regular loud physical pluck pudding panther gift arrest";
+var mnemonic = "leopard enact royal cabin random seed cruel organ educate sign bubble again";

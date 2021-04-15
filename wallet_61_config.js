@@ -1,1 +1,1 @@
-var mnemonic = "captain spell cactus potato merit ball busy leisure pattern ramp mention orient";
+var mnemonic = "purity simple sleep erosion often exile sample immense goat enrich grab globe";

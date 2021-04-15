@@ -1,1 +1,1 @@
-var mnemonic = "bleak casual laugh attend regret ordinary pyramid jealous truly cancel duty burden";
+var mnemonic = "beach empty cradle shield bean domain exotic describe own picnic blur meat";

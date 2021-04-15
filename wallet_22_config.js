@@ -1,1 +1,1 @@
-var mnemonic = "muscle cable fat area mule romance gravity soda fall chalk wire mad";
+var mnemonic = "tissue story describe mask depend thought pole worry siren glimpse foil unit";

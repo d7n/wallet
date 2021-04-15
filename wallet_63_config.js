@@ -1,1 +1,1 @@
-var mnemonic = "time mule story horn merry comic share during insect drastic shallow horse";
+var mnemonic = "style code vivid color mule unusual sweet maximum okay stem silk over";

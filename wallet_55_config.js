@@ -1,1 +1,1 @@
-var mnemonic = "matter total twenty man roof reason any enjoy fox muffin tortoise box";
+var mnemonic = "renew about market insane draw tuition gorilla fault drama skirt expire hobby";

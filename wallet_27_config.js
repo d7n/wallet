@@ -1,1 +1,1 @@
-var mnemonic = "where chaos matter letter frost arrest ocean glide buffalo blame person cradle";
+var mnemonic = "around champion step unit fresh anchor ranch ride bread useless foot provide";

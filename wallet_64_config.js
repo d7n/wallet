@@ -1,1 +1,1 @@
-var mnemonic = "around coconut hello diet attract say job catch slight detail cement basic";
+var mnemonic = "crack fall want foil nerve burden federal job steak cabbage release mention";

@@ -1,1 +1,1 @@
-var mnemonic = "industry print stem funny knock bar ginger final solid pitch acquire lumber";
+var mnemonic = "siren soda entry flip balcony inject certain borrow tackle habit ozone edit";

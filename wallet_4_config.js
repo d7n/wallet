@@ -1,1 +1,1 @@
-var mnemonic = "grid ill orange gate convince biology mother medal diagram galaxy pink happy";
+var mnemonic = "change child food creek unveil club bulb kite since snap lift science";

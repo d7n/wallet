@@ -1,1 +1,1 @@
-var mnemonic = "original hawk barrel hybrid grow struggle print adult mule switch issue correct";
+var mnemonic = "toe puzzle weapon grit genre arrest dad goddess bright supreme cash voyage";

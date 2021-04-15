@@ -1,1 +1,1 @@
-var mnemonic = "lounge excuse surface shock divide trend aware shallow test field protect decorate";
+var mnemonic = "garlic quarter smooth fabric little maximum teach toe gas gasp coral have";

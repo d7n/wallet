@@ -1,1 +1,1 @@
-var mnemonic = "jacket asthma barely gather over clever shaft comic journey sample oak hair";
+var mnemonic = "demand typical tongue stone dolphin spy love soda person draft pear puppy";

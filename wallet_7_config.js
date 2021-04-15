@@ -1,1 +1,1 @@
-var mnemonic = "absorb service fluid race bargain pony nest wood resemble shine cable birth";
+var mnemonic = "trust snake sing fog elephant fatigue forum since extra circle engine top";

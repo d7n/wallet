@@ -1,1 +1,1 @@
-var mnemonic = "inmate burger despair solar tiger keep process speed fat hen small table";
+var mnemonic = "wrestle what lion room outdoor patrol tool parrot muffin oppose mammal camp";

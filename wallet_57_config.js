@@ -1,1 +1,1 @@
-var mnemonic = "journey shop amateur leaf bus enlist pink river twice angle chat frequent";
+var mnemonic = "moment course curve only isolate treat movie fall piano pride prepare catalog";

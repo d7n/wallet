@@ -1,1 +1,1 @@
-var mnemonic = "bulk busy lady outside drive reason load divert electric actual snack method";
+var mnemonic = "million tag tumble another base ignore wasp sad jaguar dial forget patrol";

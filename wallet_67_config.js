@@ -1,1 +1,1 @@
-var mnemonic = "dragon guilt mix topple fix avocado december once pact oven cycle faith";
+var mnemonic = "stadium rural reopen anxiety hair domain truck field medal brush borrow wonder";

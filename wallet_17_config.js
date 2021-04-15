@@ -1,1 +1,1 @@
-var mnemonic = "fiscal kidney crouch any celery october hollow decade into basic wolf rebel";
+var mnemonic = "lion obey eyebrow lucky pilot legend reason drop minimum stand token grab";

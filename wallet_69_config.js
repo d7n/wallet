@@ -1,1 +1,1 @@
-var mnemonic = "fluid exact six position upper guilt match rabbit chef mango reunion odor";
+var mnemonic = "tackle gaze size virtual write goat fee reduce betray struggle remind rich";

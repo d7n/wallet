@@ -1,1 +1,1 @@
-var mnemonic = "embark minute identify celery escape canoe basic antique gasp express lunch wash";
+var mnemonic = "bacon stock patrol opinion reopen often side math universe vivid kingdom forum";

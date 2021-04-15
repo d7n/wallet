@@ -1,1 +1,1 @@
-var mnemonic = "force arrange again dust license spice prosper already pistol coach retreat cinnamon";
+var mnemonic = "strong smoke caution winner hurry save insect exit cluster current trophy shell";

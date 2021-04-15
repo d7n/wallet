@@ -1,1 +1,1 @@
-var mnemonic = "peace wolf credit combine special cereal believe visa bitter garbage trap upper";
+var mnemonic = "slow market hand rescue setup trash melody detect purity exist fit banner";

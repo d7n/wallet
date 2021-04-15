@@ -1,1 +1,1 @@
-var mnemonic = "interest speak beef useless moral sheriff two crumble crisp tone good dish";
+var mnemonic = "bronze nasty crouch grow able boil traffic accident arm stamp blame grunt";

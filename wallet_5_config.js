@@ -1,1 +1,1 @@
-var mnemonic = "swamp can mouse decrease extra pole praise chunk tribe legend illness civil";
+var mnemonic = "practice equip chat design garbage keen labor blush advice sand patient basket";

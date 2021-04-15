@@ -1,1 +1,1 @@
-var mnemonic = "gasp neutral inflict laundry crime minute visual short cabbage trophy enrich thunder";
+var mnemonic = "solve section mutual erase rough dial siren scatter upgrade defy absorb move";

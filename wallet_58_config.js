@@ -1,1 +1,1 @@
-var mnemonic = "baby marine gauge vague bus dune floor word air gown emerge segment";
+var mnemonic = "pass bottom reduce favorite sketch relief salad picture renew trick public tuna";

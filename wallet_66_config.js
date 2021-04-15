@@ -1,1 +1,1 @@
-var mnemonic = "wife repair maze tone audit decline private duty year dignity wrap million";
+var mnemonic = "panda space rifle buzz mesh physical turkey boil spin breeze canoe increase";

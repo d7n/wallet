@@ -1,1 +1,1 @@
-var mnemonic = "lumber click message twist put salt slogan carpet pyramid vacant humor example";
+var mnemonic = "decide faith invite language laptop gather decline legal merge fossil evoke kit";

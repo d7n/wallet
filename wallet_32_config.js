@@ -1,1 +1,1 @@
-var mnemonic = "camera coast car sound kidney subject tiny donate duty canal muscle above";
+var mnemonic = "donor pencil notable silver relax crisp any wealth mass spell shock endorse";

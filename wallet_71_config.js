@@ -1,1 +1,1 @@
-var mnemonic = "fringe disease culture detect unknown guess mutual impact course popular increase palace";
+var mnemonic = "black clock define recall pudding tip render denial blame possible roast bottom";

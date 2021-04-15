@@ -1,1 +1,1 @@
-var mnemonic = "banner endless crunch spice spike car capable key rapid avocado dumb wealth";
+var mnemonic = "fork romance rural hill chunk world prepare legal blanket favorite diet senior";

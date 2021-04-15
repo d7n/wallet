@@ -1,1 +1,1 @@
-var mnemonic = "arm exotic sure maximum struggle rather common chunk mixture rally hour bullet";
+var mnemonic = "exile illness layer quarter among proud seven shed brisk cruel liar merge";

@@ -1,1 +1,1 @@
-var mnemonic = "pony vast sun joke proud leisure glow ankle logic notice chuckle bus";
+var mnemonic = "toward piece off rely morning style tobacco scare bullet art sport mistake";

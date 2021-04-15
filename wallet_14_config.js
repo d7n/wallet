@@ -1,1 +1,1 @@
-var mnemonic = "child member shed cram brother three demand depend tattoo action music element";
+var mnemonic = "husband exit load model twenty bright museum dilemma razor ritual post black";

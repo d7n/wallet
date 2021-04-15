@@ -1,1 +1,1 @@
-var mnemonic = "glide frog virtual meat response involve fashion recipe crane truly any face";
+var mnemonic = "scan hurt evidence worth finish speed camera engine wink drill just animal";

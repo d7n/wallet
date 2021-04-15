@@ -1,1 +1,1 @@
-var mnemonic = "ancient sea about speed album text sun peanut welcome deliver uphold wheel";
+var mnemonic = "clinic tortoise foster seven betray capital salmon dynamic enforce below rough car";

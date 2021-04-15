@@ -1,1 +1,1 @@
-var mnemonic = "solar report salmon tomato cheese wood danger slab nominee combine seek lend";
+var mnemonic = "fee belt dentist latin festival glide main satisfy income satoshi project agent";

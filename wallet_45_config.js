@@ -1,1 +1,1 @@
-var mnemonic = "basket disagree south wash avoid brush owner jeans teach easily spoon scout";
+var mnemonic = "earn afford design wrap color shadow turtle gift salute vote approve task";

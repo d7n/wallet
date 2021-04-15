@@ -1,1 +1,1 @@
-var mnemonic = "near wise warrior diagram unhappy food spray orbit protect spoil jazz buyer";
+var mnemonic = "cage concert wrong elephant purpose spread speed tribe news august visual pass";

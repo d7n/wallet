@@ -1,1 +1,1 @@
-var mnemonic = "write dizzy ship stumble happy ritual short glove catalog lion forest figure";
+var mnemonic = "hint category village vibrant cliff rotate rate dignity page soccer banana valid";

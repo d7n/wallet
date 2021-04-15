@@ -1,1 +1,1 @@
-var mnemonic = "soft mule useful emerge car general volcano wire model general tuna utility";
+var mnemonic = "sugar portion fitness pupil duty fold ocean opera wage release index taste";

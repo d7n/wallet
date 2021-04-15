@@ -1,1 +1,1 @@
-var mnemonic = "album ready turn link credit error sadness rack blue truth question prison";
+var mnemonic = "video clown tell transfer furnace gauge also minor select plate virtual trade";

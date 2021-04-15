@@ -1,1 +1,1 @@
-var mnemonic = "tumble miss siren quality toilet delay like final arm frost deposit obscure";
+var mnemonic = "segment iron shoe frequent old evil shuffle barely people dinosaur first unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "spend confirm debate shrug muscle differ cover elbow pole oil vessel axis";
+var mnemonic = "page hunt budget cash opera hard table battle annual enough situate heavy";

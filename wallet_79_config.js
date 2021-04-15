@@ -1,1 +1,1 @@
-var mnemonic = "visit amazing dentist board main cycle guitar near moon hero amateur program";
+var mnemonic = "come electric wealth lady segment butter rebel carry matter derive large issue";

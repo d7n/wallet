@@ -1,1 +1,1 @@
-var mnemonic = "silver auto photo immune fitness unhappy sail horror mother certain inquiry cluster";
+var mnemonic = "main umbrella tired essence still lab fish magic dry fancy regular phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "sad pottery very jelly frequent key voyage dance clown machine north nephew";
+var mnemonic = "lizard hero stadium delay urge envelope gown visual ask elegant assume evolve";

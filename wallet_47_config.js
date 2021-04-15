@@ -1,1 +1,1 @@
-var mnemonic = "plate above violin wasp pilot refuse obvious north armed worry shine celery";
+var mnemonic = "hard bird garage develop hero cereal castle maid gaze budget two student";

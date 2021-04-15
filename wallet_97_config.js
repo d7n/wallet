@@ -1,1 +1,1 @@
-var mnemonic = "jar jazz elevator cross can inch credit patch margin song kite enhance";
+var mnemonic = "scout wear tired level horn able orbit enforce excess rain excuse robust";

@@ -1,1 +1,1 @@
-var mnemonic = "term leg eye shrug company snack fashion balance hat raw salmon shoot";
+var mnemonic = "pitch pond trigger win ride olympic above metal science jar fade bunker";

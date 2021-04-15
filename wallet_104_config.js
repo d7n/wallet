@@ -1,1 +1,1 @@
-var mnemonic = "salon cloud area creek thumb disagree denial peace eye now like diet";
+var mnemonic = "proof snack exchange palm guilt mass never wild welcome turtle poverty caution";

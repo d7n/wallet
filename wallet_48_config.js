@@ -1,1 +1,1 @@
-var mnemonic = "enough hat left spawn erase machine diagram use fame choice boat bracket";
+var mnemonic = "relief math silk dynamic present inspire helmet razor effort garage enlist spin";

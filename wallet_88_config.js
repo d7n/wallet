@@ -1,1 +1,1 @@
-var mnemonic = "work maze museum maximum woman sort memory elbow regular shield repair goat";
+var mnemonic = "olympic room tool voyage brave wet frequent page guilt hint sphere fetch";

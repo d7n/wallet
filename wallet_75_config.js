@@ -1,1 +1,1 @@
-var mnemonic = "female transfer win kiss feel admit stumble rich lawn pink start speak";
+var mnemonic = "cinnamon patch draw segment hold critic mammal object sound price song abstract";

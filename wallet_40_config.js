@@ -1,1 +1,1 @@
-var mnemonic = "inside rookie enact tray program pupil inhale life bid float that toilet";
+var mnemonic = "mom december maximum silver barrel online tissue company guide planet useless repeat";

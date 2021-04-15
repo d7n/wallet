@@ -1,1 +1,1 @@
-var mnemonic = "stairs monkey torch rebuild grid aim machine slush give account destroy nasty";
+var mnemonic = "target apple autumn satisfy rival double end health sport coyote open solid";

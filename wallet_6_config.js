@@ -1,1 +1,1 @@
-var mnemonic = "shrimp grid ginger access prepare barrel minimum fluid excite immense busy diesel";
+var mnemonic = "defy hand deliver bright poem angle company domain prize sure exit master";

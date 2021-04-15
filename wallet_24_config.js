@@ -1,1 +1,1 @@
-var mnemonic = "then furnace term talent coffee face medal muffin noise tackle thing trade";
+var mnemonic = "enter dish unveil focus buyer seven enrich grape crumble pig purity enhance";

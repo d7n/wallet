@@ -1,1 +1,1 @@
-var mnemonic = "parade extra bench average robust train chase void defense inner eye fortune";
+var mnemonic = "modify cause key dish swift spider kite pistol situate total brown rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "cage eagle volume sand horror express adult spirit actual net hurry creek";
+var mnemonic = "enforce expand priority car wheel gift slot board wage noble oval rose";

@@ -1,1 +1,1 @@
-var mnemonic = "approve announce lava session night mule special girl truly wreck gravity physical";
+var mnemonic = "cute borrow primary anger bulb nothing oil razor enroll dune much chest";

@@ -1,1 +1,1 @@
-var mnemonic = "dice aim message nice horn laugh whip pumpkin squeeze athlete notice manage";
+var mnemonic = "zone cram comic stem office judge position mention express sting connect catch";

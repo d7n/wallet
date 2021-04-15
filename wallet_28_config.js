@@ -1,1 +1,1 @@
-var mnemonic = "twist place result teach person minimum cancel stadium south tackle snap runway";
+var mnemonic = "lobster project demise budget survey know property loud hello process short tongue";

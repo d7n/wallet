@@ -1,1 +1,1 @@
-var mnemonic = "gallery attack citizen pool orchard smile motion bless absent wing school dress";
+var mnemonic = "force glow refuse actor urge wave hazard arrange skin start arch eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "lava exchange daughter soup twin creek beach barely dumb sense detail tennis";
+var mnemonic = "scatter similar glove burden bamboo skirt wrestle roof second pond small general";

@@ -1,1 +1,1 @@
-var mnemonic = "desk horror eight tomorrow volcano garage seed someone dash neck glue portion";
+var mnemonic = "motor frequent axis soda nerve woman once talent inflict regular rescue coconut";

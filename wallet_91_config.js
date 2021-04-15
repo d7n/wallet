@@ -1,1 +1,1 @@
-var mnemonic = "stage turkey capable invite film dose ask fix credit bounce train priority";
+var mnemonic = "lecture give pyramid ethics giggle about sponsor hair boil kangaroo unusual similar";

@@ -1,1 +1,1 @@
-var mnemonic = "click vehicle glimpse scrap bitter silent barrel car olive stay act state";
+var mnemonic = "bracket receive noise lift pear phrase toward capital device plate senior theory";

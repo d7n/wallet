@@ -1,1 +1,1 @@
-var mnemonic = "keep argue mask arctic question aim solve wrong comfort daring pipe carry";
+var mnemonic = "truck nurse danger yellow provide tray rule upgrade polar indicate senior share";

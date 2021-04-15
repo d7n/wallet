@@ -1,1 +1,1 @@
-var mnemonic = "earth track until prosper essay process detail alert bunker inside indoor aware";
+var mnemonic = "inch worth fame stomach bone soon tornado vendor proof reduce pluck end";

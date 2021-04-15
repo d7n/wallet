@@ -1,1 +1,1 @@
-var mnemonic = "october shaft torch magic hero dwarf crane awesome half acquire slam receive";
+var mnemonic = "upgrade author again rookie decorate disorder symbol attack stuff palm impose daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "blush oval fine talent always congress wrist sponsor deposit waste owner crash";
+var mnemonic = "uncover cattle play photo open lamp opera copy fossil boil jelly rain";

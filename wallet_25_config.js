@@ -1,1 +1,1 @@
-var mnemonic = "angry copy rough bid praise behind thrive shiver garlic jealous narrow tribe";
+var mnemonic = "buyer cat lottery usual stable width position royal elder idea plug various";
