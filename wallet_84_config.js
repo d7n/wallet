@@ -1,1 +1,1 @@
-var mnemonic = "clarify unfair keen crane ability badge survey fresh human cash swap awake";
+var mnemonic = "escape unaware welcome lens quick tribe when amount swarm talent chef number";

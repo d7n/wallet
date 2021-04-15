@@ -1,1 +1,1 @@
-var mnemonic = "gain bunker chimney jump decline proof glance wage border vintage shoot laptop";
+var mnemonic = "dream erupt trade possible orchard purity negative whale gym lamp start just";

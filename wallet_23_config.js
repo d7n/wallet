@@ -1,1 +1,1 @@
-var mnemonic = "note approve wall supply pepper coach hope reflect step you zebra scan";
+var mnemonic = "lawsuit feed warm add glare mercy giggle swallow differ review glad found";

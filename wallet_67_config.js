@@ -1,1 +1,1 @@
-var mnemonic = "direct speak addict make curve lunch end chat farm slim wolf frost";
+var mnemonic = "photo regular erupt winner duck attitude multiply draw weapon glare force achieve";

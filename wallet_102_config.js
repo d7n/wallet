@@ -1,1 +1,1 @@
-var mnemonic = "trumpet book dog update alarm control slide six gasp unit tell veteran";
+var mnemonic = "will topic close vessel gallery vast success muffin brisk vacuum measure anger";

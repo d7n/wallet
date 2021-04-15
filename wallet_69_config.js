@@ -1,1 +1,1 @@
-var mnemonic = "trigger armor gasp edge aunt resource stick city width cereal avocado gauge";
+var mnemonic = "clinic west use off increase taste wink power entire weird useful toss";

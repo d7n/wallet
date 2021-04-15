@@ -1,1 +1,1 @@
-var mnemonic = "broom area degree model again tribe tone off early cigar course toddler";
+var mnemonic = "name certain open quick phone group sibling educate heart flip where loud";

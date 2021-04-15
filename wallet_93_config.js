@@ -1,1 +1,1 @@
-var mnemonic = "ribbon wire shine battle cost kick produce slush chronic goddess trend prison";
+var mnemonic = "upgrade devote abandon town super fatigue elite corn duck pigeon slender belt";

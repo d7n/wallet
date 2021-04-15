@@ -1,1 +1,1 @@
-var mnemonic = "episode smoke victory come tenant enhance teach fork raccoon talk fetch setup";
+var mnemonic = "slide club pig cup coral wrong great valve effort beach office easily";

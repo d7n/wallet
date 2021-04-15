@@ -1,1 +1,1 @@
-var mnemonic = "ugly remind paper focus logic reward jar polar provide bachelor nurse junior";
+var mnemonic = "penalty month inject summer benefit wheel flush develop deposit secret left source";

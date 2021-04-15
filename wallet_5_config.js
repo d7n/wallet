@@ -1,1 +1,1 @@
-var mnemonic = "fiction regular have visa assume another exact lunch ski jeans lawsuit canyon";
+var mnemonic = "loyal match explain spy regular trim capital cream shift clap myth emotion";

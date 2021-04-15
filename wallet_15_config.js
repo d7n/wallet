@@ -1,1 +1,1 @@
-var mnemonic = "equip track cage glad giant umbrella attend depth swift pull salmon filter";
+var mnemonic = "supply rice kingdom cotton exclude olympic deliver donor spring amateur churn oppose";

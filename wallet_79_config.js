@@ -1,1 +1,1 @@
-var mnemonic = "share museum disease able link enemy nominee industry else bind welcome october";
+var mnemonic = "magic borrow clever trap cream valley vendor predict mule tenant august bullet";

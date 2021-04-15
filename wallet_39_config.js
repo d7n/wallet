@@ -1,1 +1,1 @@
-var mnemonic = "carpet describe mix pupil will laugh spatial physical kitchen myself wheel wisdom";
+var mnemonic = "endless broken unaware cost mass forward rhythm biology border parade insane cabbage";

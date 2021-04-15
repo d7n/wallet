@@ -1,1 +1,1 @@
-var mnemonic = "industry bar pony blush private topple where brick history prosper violin during";
+var mnemonic = "drink maximum forget piano coffee crazy together submit quiz summer again unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "various slogan pelican spot piece regular supreme dust okay lake dad april";
+var mnemonic = "draft gauge come then follow century model potato bonus leave about goat";

@@ -1,1 +1,1 @@
-var mnemonic = "famous gravity erosion favorite urge lottery sadness wine blanket puppy feature once";
+var mnemonic = "common chronic crucial profit six budget craft morning pizza solve hard antique";

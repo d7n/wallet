@@ -1,1 +1,1 @@
-var mnemonic = "panther same crew cousin donor bread major cage expire step evoke chapter";
+var mnemonic = "suffer faith humble lounge aware elegant tomorrow potato dinosaur ghost panther fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "dust lumber exile dynamic bar when celery champion task since like super";
+var mnemonic = "tuna announce galaxy steel cereal useless meadow fall kiwi fun carry clip";

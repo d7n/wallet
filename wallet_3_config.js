@@ -1,1 +1,1 @@
-var mnemonic = "palm frequent cable flame frozen primary find attend print recall clap salad";
+var mnemonic = "mind left cinnamon legend chest protect safe tenant spider alien decide object";

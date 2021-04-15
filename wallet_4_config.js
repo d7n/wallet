@@ -1,1 +1,1 @@
-var mnemonic = "taxi goat truth youth walnut energy surprise giraffe dog bag dune border";
+var mnemonic = "together course nurse attack sea series school prison work now shield slush";

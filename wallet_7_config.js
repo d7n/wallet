@@ -1,1 +1,1 @@
-var mnemonic = "woman sadness page feature lounge melt gold soup off now popular genuine";
+var mnemonic = "public hire quote foam market catch inquiry clog alert general cloth federal";

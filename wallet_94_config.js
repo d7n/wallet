@@ -1,1 +1,1 @@
-var mnemonic = "margin trip tired cattle label random correct lift salt essay buddy imitate";
+var mnemonic = "nose dad dinner napkin visit salt bicycle funny alley midnight box gym";

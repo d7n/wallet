@@ -1,1 +1,1 @@
-var mnemonic = "chair cricket under pitch eight victory sustain bundle truly express pact library";
+var mnemonic = "toe unit word echo rule giggle mimic flush outer kite body essence";

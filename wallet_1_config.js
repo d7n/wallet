@@ -1,1 +1,1 @@
-var mnemonic = "divide weather useful gallery doll gather response virtual green clog renew path";
+var mnemonic = "cupboard culture kitten dilemma whip hint expose knock color plunge forum work";

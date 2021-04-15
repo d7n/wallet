@@ -1,1 +1,1 @@
-var mnemonic = "fiscal olive phone tobacco spend equal blind lady piece unaware foam buzz";
+var mnemonic = "excuse merge man clock light pigeon change deliver beef valid pink crazy";

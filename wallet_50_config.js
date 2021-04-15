@@ -1,1 +1,1 @@
-var mnemonic = "upgrade element thing mimic ring capable wash tumble proud useless keep layer";
+var mnemonic = "dice plug example guard theme injury message hole joke scatter survey must";

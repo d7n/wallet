@@ -1,1 +1,1 @@
-var mnemonic = "bounce witness dragon repair smart lake elephant bid roast doctor boost electric";
+var mnemonic = "chief initial romance brick tenant shiver advance address stick retreat annual vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "final clump machine tip forget multiply pave powder funny penalty intact alpha";
+var mnemonic = "voice drill mushroom senior dinner aerobic roast plug bachelor oxygen deputy critic";

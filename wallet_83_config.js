@@ -1,1 +1,1 @@
-var mnemonic = "envelope device twenty scrub flower measure tragic dizzy oak earn adjust pen";
+var mnemonic = "same inner april ignore estate situate grass obscure spot play soup someone";

@@ -1,1 +1,1 @@
-var mnemonic = "today simple coast company scheme focus pigeon patrol wrong wide say robust";
+var mnemonic = "dynamic snap infant spend tobacco shadow help steak top tiny pet match";

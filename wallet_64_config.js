@@ -1,1 +1,1 @@
-var mnemonic = "crowd match cruise ten quote village glory knee elevator cannon debate twin";
+var mnemonic = "dawn tornado repair coil kiss current cause pattern team bag express increase";

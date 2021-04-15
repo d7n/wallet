@@ -1,1 +1,1 @@
-var mnemonic = "pilot sick dumb flock spray impact escape isolate enough breeze vast hockey";
+var mnemonic = "venue police air box mixed transfer eternal coast solution verb blur gold";

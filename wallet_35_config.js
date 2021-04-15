@@ -1,1 +1,1 @@
-var mnemonic = "tragic night truth word vibrant green buzz congress endorse old toilet useless";
+var mnemonic = "oak limit funny alien saddle acoustic hazard purpose pole stairs asthma noble";

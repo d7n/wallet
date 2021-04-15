@@ -1,1 +1,1 @@
-var mnemonic = "beach outside urge hotel magnet loop crucial service grass monster rapid detail";
+var mnemonic = "curious enjoy sponsor pig fabric candy glove acquire seat youth search brass";

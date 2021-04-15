@@ -1,1 +1,1 @@
-var mnemonic = "target steak attitude second endorse blush idle lunar truck critic much soldier";
+var mnemonic = "goddess speak auto edit exchange quick craft scene flight bind tray mixture";

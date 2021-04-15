@@ -1,1 +1,1 @@
-var mnemonic = "ill trouble alarm goddess biology shed tray transfer shallow apart burst fortune";
+var mnemonic = "museum pole film claw during snack end survey decade butter float luggage";

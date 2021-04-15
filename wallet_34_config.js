@@ -1,1 +1,1 @@
-var mnemonic = "stadium frost card genre bar blue pulp curious festival winner crowd artist";
+var mnemonic = "tattoo report desert inject alpha gesture ocean spatial federal together female indicate";

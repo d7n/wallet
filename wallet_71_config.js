@@ -1,1 +1,1 @@
-var mnemonic = "transfer wild cross fault nose immense organ rule vapor rare regret address";
+var mnemonic = "plug motion will bus wisdom try refuse door flower banner foster post";

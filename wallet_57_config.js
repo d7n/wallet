@@ -1,1 +1,1 @@
-var mnemonic = "vital observe before village chunk surge theory almost stand verb urge book";
+var mnemonic = "eight legal charge hand put champion digital city spoil nice claim cereal";

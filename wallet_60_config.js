@@ -1,1 +1,1 @@
-var mnemonic = "connect glow goat auction relief health neither casino crawl camp latin check";
+var mnemonic = "stuff abandon rebuild grid combine latin crunch sad wolf blouse there flag";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap learn spice flat capital hockey zone fragile where punch vacuum alter";
+var mnemonic = "hero school slogan pony hire horse coconut popular bus kit coast gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale bike rigid buzz then idle proof resist sorry orbit remove drip";
+var mnemonic = "object have item height link armed grid bike left leader bus double";

@@ -1,1 +1,1 @@
-var mnemonic = "cup coin display sample build state remind sentence mask surprise used piece";
+var mnemonic = "soap race eternal system maximum magnet unlock bitter angle busy street task";

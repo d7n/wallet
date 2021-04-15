@@ -1,1 +1,1 @@
-var mnemonic = "poem law define hospital orchard moral general sword duck bus ethics wrong";
+var mnemonic = "police local flip crash ball holiday flame famous oval motion clown pioneer";

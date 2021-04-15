@@ -1,1 +1,1 @@
-var mnemonic = "truck bunker fat someone diet build pause bench same fat erase coyote";
+var mnemonic = "find drill under crucial people sail uncover fly real radio father great";

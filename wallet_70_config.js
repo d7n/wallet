@@ -1,1 +1,1 @@
-var mnemonic = "grief sadness latin drop lunar repair trip garlic paper spend bridge engage";
+var mnemonic = "cram movie orphan share caught damp sugar six relief steak point aisle";

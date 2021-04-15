@@ -1,1 +1,1 @@
-var mnemonic = "decide other chest judge arrange rural autumn gorilla mistake deliver medal wrap";
+var mnemonic = "various staff vendor clerk powder require tooth series theme gown busy bronze";

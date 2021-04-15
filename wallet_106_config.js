@@ -1,1 +1,1 @@
-var mnemonic = "chapter boost apart absent gun usual friend into rent rule jewel ladder";
+var mnemonic = "disease salt useless eagle tourist airport live actual smart orient dwarf umbrella";

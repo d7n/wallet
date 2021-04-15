@@ -1,1 +1,1 @@
-var mnemonic = "derive enlist auto desert scissors badge visa digital catalog fine shoulder say";
+var mnemonic = "blast error provide track fitness equal exclude uncle pink peanut turtle smoke";

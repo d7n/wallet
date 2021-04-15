@@ -1,1 +1,1 @@
-var mnemonic = "marine evoke door bird tumble truth connect actor exotic skirt flat pioneer";
+var mnemonic = "sea sadness reduce tunnel orbit offer time trust educate scale indicate benefit";

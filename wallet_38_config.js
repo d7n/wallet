@@ -1,1 +1,1 @@
-var mnemonic = "patch grace slab easy winter mix lab false regret road blouse medal";
+var mnemonic = "cute client finish blue payment protect swing lemon disease beyond hurdle enough";

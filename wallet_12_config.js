@@ -1,1 +1,1 @@
-var mnemonic = "true potato clever ready rose brain flash swim noise stamp wise spoil";
+var mnemonic = "grass domain exchange van couch able invest section square pull food hamster";

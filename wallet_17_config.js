@@ -1,1 +1,1 @@
-var mnemonic = "shoe bulk pony lab ranch chicken hunt tunnel brief pact seed truth";
+var mnemonic = "agree luggage scene mad amateur duty tuition diet crouch puppy enter drift";

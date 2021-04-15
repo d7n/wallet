@@ -1,1 +1,1 @@
-var mnemonic = "drip sadness lift glance promote drift kitchen word sell glove razor slow";
+var mnemonic = "wheat library dentist rural describe train occur outer taxi settle gift erosion";

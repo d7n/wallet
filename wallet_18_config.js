@@ -1,1 +1,1 @@
-var mnemonic = "super melt clown purpose crater mix track proud advice torch note edit";
+var mnemonic = "way oven truly gold model banana old health nominee stick gospel enact";

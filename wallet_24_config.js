@@ -1,1 +1,1 @@
-var mnemonic = "special cause spoil bench absorb cute lobster addict grape mouse nothing loop";
+var mnemonic = "thunder escape govern loan distance dignity penalty noble since slot life bonus";

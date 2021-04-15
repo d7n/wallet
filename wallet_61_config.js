@@ -1,1 +1,1 @@
-var mnemonic = "food pattern swear club vivid embody polar sight bracket siren left rule";
+var mnemonic = "cotton frequent holiday soap immense scheme toward invite amused chaos essay argue";

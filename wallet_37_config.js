@@ -1,1 +1,1 @@
-var mnemonic = "chase slush monitor young mushroom tunnel powder stable proof amused doll what";
+var mnemonic = "child bird glare enact weird earth rather eternal speak minimum audit ozone";

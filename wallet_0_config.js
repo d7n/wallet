@@ -1,1 +1,1 @@
-var mnemonic = "trap fluid sun adult disagree outer furnace rubber ethics daring interest assume";
+var mnemonic = "coyote oblige cart torch olive erosion inherit anchor into defy people diet";

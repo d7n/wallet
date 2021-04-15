@@ -1,1 +1,1 @@
-var mnemonic = "album answer ladder myth vocal denial happy cattle reform hint bracket keen";
+var mnemonic = "dwarf enroll swarm gas behind village escape solve gold dog else cannon";

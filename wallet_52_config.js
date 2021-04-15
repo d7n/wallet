@@ -1,1 +1,1 @@
-var mnemonic = "flag avocado myself witness lawn click radio gravity wolf scissors web exclude";
+var mnemonic = "confirm source business ring opinion ten reflect brisk panda unit absurd crew";

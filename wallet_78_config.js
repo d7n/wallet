@@ -1,1 +1,1 @@
-var mnemonic = "amateur diesel allow obscure list voyage twin diagram unfair unfold april gadget";
+var mnemonic = "fluid romance barrel pyramid ticket winner answer scare vanish input undo grant";

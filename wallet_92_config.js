@@ -1,1 +1,1 @@
-var mnemonic = "peanut jacket script desert off verify tube torch body antique spend garbage";
+var mnemonic = "clay harsh sure bring hurt lens tenant drink again slush region need";

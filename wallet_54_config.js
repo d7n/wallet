@@ -1,1 +1,1 @@
-var mnemonic = "know again motor midnight trash tone example sunny major also happy chalk";
+var mnemonic = "front rely ozone typical luggage work refuse actress evoke swallow shop glory";

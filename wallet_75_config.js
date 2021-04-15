@@ -1,1 +1,1 @@
-var mnemonic = "raise rookie slender sound cat wool awful faint column vague truck alone";
+var mnemonic = "boost audit loan spend gift motor beauty tunnel misery prison awake brand";

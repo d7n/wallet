@@ -1,1 +1,1 @@
-var mnemonic = "hip direct night genuine solar remove story tell remain bright mule rabbit";
+var mnemonic = "off caught culture outer real mystery bubble float cram mask endorse erupt";

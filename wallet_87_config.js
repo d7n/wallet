@@ -1,1 +1,1 @@
-var mnemonic = "enact eight friend prefer joke quit frequent will vital rose hen modify";
+var mnemonic = "cigar pipe bone unlock hole need cereal antique sustain employ ginger ridge";

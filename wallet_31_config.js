@@ -1,1 +1,1 @@
-var mnemonic = "strategy river leader theory object leisure destroy fancy antique decorate infant dad";
+var mnemonic = "slot extra capital brisk stage salute hire legend text cluster balcony cost";

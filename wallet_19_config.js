@@ -1,1 +1,1 @@
-var mnemonic = "ginger crucial dove era found provide hundred fish flee miss erosion grape";
+var mnemonic = "quarter surprise matter embark among feature pupil plunge swarm duck climb apart";

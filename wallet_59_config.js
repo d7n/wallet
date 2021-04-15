@@ -1,1 +1,1 @@
-var mnemonic = "bunker any couple glow gain senior spend silly hour spike exist job";
+var mnemonic = "expire tenant crew refuse harbor pill future travel acoustic patient pact attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "robot almost badge food type sight pencil subject ahead immense wave believe";
+var mnemonic = "sponsor celery desk daring call chat balcony water brief cannon file catalog";

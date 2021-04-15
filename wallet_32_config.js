@@ -1,1 +1,1 @@
-var mnemonic = "urban stuff denial mushroom parrot moral foot fossil silent floor benefit solution";
+var mnemonic = "bundle license manual globe planet predict indicate measure rule acid main unique";

@@ -1,1 +1,1 @@
-var mnemonic = "increase kit neglect december just toast buzz van alone easily leisure tuna";
+var mnemonic = "empower basket palm orchard primary gap shy film admit frost remove poet";

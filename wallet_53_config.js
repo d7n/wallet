@@ -1,1 +1,1 @@
-var mnemonic = "disorder coin vast wolf glory prepare ginger raccoon garden coyote mushroom memory";
+var mnemonic = "deposit retire cupboard erode sight veteran pen live grab sting design fragile";

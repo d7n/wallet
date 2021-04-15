@@ -1,1 +1,1 @@
-var mnemonic = "task record brush drill payment gain cloth coil limit dance twist sail";
+var mnemonic = "dawn atom salad try wool resist neutral cannon trap boat leave beef";

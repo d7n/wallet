@@ -1,1 +1,1 @@
-var mnemonic = "gallery tuition code slow doll dry plunge stone churn faint uniform upper";
+var mnemonic = "spring arm decrease similar denial summer ethics cash gain spike hamster village";

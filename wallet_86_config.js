@@ -1,1 +1,1 @@
-var mnemonic = "radar barely master intact brown crush draw across pull crystal judge tonight";
+var mnemonic = "enjoy oil supply soft video wash dismiss faith leisure bicycle fun right";

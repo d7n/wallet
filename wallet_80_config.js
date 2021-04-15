@@ -1,1 +1,1 @@
-var mnemonic = "lion lunch mouse senior zoo bar harbor human home glide wood town";
+var mnemonic = "firm lounge fluid truck hope dish ceiling punch ghost north guide airport";

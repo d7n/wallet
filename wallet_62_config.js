@@ -1,1 +1,1 @@
-var mnemonic = "drive bamboo lady dinosaur convince dinosaur pear dinner cousin brown decide movie";
+var mnemonic = "furnace slender torch talk tail power brand cabbage fancy project online police";

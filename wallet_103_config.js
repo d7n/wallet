@@ -1,1 +1,1 @@
-var mnemonic = "fluid board buyer view forest quarter manual thank notice cluster cost grape";
+var mnemonic = "frozen lion senior borrow risk prevent squirrel faculty soft champion voyage marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic dutch glimpse crystal jazz party chicken virus entire clay army junk";
+var mnemonic = "drive gate juice frost expose program rather matrix common unaware north figure";

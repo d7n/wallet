@@ -1,1 +1,1 @@
-var mnemonic = "exchange simple dizzy balance guide twelve gold process grocery sibling appear episode";
+var mnemonic = "half mind lock scrap under clerk giraffe organ length quarter polar mother";

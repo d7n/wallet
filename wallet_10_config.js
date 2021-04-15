@@ -1,1 +1,1 @@
-var mnemonic = "help athlete lawn wild oval such daughter curve glow safe galaxy stumble";
+var mnemonic = "sting antique cage decline myself dish bargain shy green lyrics oblige ladder";

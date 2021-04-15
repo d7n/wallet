@@ -1,1 +1,1 @@
-var mnemonic = "quote siren brief jump aerobic surround unaware tuition rural once fossil want";
+var mnemonic = "sponsor rent humble plate weather pencil bridge neck oyster shop injury chalk";

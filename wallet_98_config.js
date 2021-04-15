@@ -1,1 +1,1 @@
-var mnemonic = "law lounge prison amazing try carry assume feel pitch soap wool usual";
+var mnemonic = "eternal episode update put error over small effort hour improve twenty brand";

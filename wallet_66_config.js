@@ -1,1 +1,1 @@
-var mnemonic = "scout liar hurdle arrange nation final ski spider feed child grain notable";
+var mnemonic = "upset top short critic school frost age fringe upon author sorry awkward";
