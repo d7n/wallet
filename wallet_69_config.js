@@ -1,1 +1,1 @@
-var mnemonic = "danger glue flight work hungry auto stadium canoe can present document eager";
+var mnemonic = "hole worth bright ill clown illegal interest best practice camera bomb tourist";

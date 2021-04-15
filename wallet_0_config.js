@@ -1,1 +1,1 @@
-var mnemonic = "marble reduce own embody demise hurt bunker prepare repair lizard glue dish";
+var mnemonic = "decline list name october crunch primary scene advance lift distance feel code";

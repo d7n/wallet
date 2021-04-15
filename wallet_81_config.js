@@ -1,1 +1,1 @@
-var mnemonic = "custom supply rail admit pen galaxy observe used success category whisper matrix";
+var mnemonic = "hub present keep current hood cover better you reward refuse example battle";

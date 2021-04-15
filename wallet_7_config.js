@@ -1,1 +1,1 @@
-var mnemonic = "glimpse hidden fish february cake ocean enforce matter pyramid all wrap champion";
+var mnemonic = "save mango output capital atom service miracle style shallow trumpet lens negative";

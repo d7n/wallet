@@ -1,1 +1,1 @@
-var mnemonic = "arrest deputy obscure frog tree staff pattern crunch despair fence shed walnut";
+var mnemonic = "dinner fragile float acid make crisp surround witness brain cereal genuine exact";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy legend goat vocal wall love decide magnet oyster broccoli scissors orphan";
+var mnemonic = "glance length tool write lazy pepper tunnel swap predict play slogan wink";

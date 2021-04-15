@@ -1,1 +1,1 @@
-var mnemonic = "guilt remove fence north build stable over meadow garment such tourist immense";
+var mnemonic = "palm napkin depend few exotic brisk eternal wire table spray hospital mechanic";

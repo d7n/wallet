@@ -1,1 +1,1 @@
-var mnemonic = "lake barrel suit earth retire unknown law suspect sunset embrace slide pioneer";
+var mnemonic = "onion judge dance column elder canyon area dry tumble opinion derive funny";

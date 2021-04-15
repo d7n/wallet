@@ -1,1 +1,1 @@
-var mnemonic = "general family month energy decide fantasy this wage child elbow twice fury";
+var mnemonic = "rocket gap burden save two congress host rail slogan assist hero enjoy";

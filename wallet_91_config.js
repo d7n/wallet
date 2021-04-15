@@ -1,1 +1,1 @@
-var mnemonic = "rival enjoy antique glove manual wash volume hawk sister bus champion announce";
+var mnemonic = "fee spice draft rent fan burden surround town lion boring friend broken";

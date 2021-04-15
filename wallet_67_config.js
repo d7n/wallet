@@ -1,1 +1,1 @@
-var mnemonic = "goat banner grant uphold artist night circle virtual dynamic video night setup";
+var mnemonic = "couple risk image trick sense ten because cup math amused coyote another";

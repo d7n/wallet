@@ -1,1 +1,1 @@
-var mnemonic = "force client prize minor multiply vintage myth ship key actress east staff";
+var mnemonic = "choice gloom crumble arrow remind embody result rough click glance capable toilet";

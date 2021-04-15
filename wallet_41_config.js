@@ -1,1 +1,1 @@
-var mnemonic = "proof write word mutual home taxi polar depend join coffee rhythm lawn";
+var mnemonic = "pause bench horse exist among twice sing laundry empower wrong mass afford";

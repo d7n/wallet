@@ -1,1 +1,1 @@
-var mnemonic = "exhaust twin frown nerve wheel inhale ladder gain surface goat slush salmon";
+var mnemonic = "update boat retire hen submit author evil need name coral rail curve";

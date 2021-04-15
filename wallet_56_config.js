@@ -1,1 +1,1 @@
-var mnemonic = "cement drift chronic kite creek night fragile hungry shrug slow vault give";
+var mnemonic = "garlic flag angle grass increase wash patrol sugar pair visa attract pool";

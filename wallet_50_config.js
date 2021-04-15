@@ -1,1 +1,1 @@
-var mnemonic = "emerge rice comic husband deliver thunder object admit catch bunker advance strategy";
+var mnemonic = "catalog empower culture net depart double brass garage fold exclude immune kite";

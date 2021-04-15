@@ -1,1 +1,1 @@
-var mnemonic = "bounce naive prefer scorpion lion early bronze menu frown climb lady believe";
+var mnemonic = "boring nose glide river midnight seminar cabin also myth pair donor pupil";

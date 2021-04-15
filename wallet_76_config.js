@@ -1,1 +1,1 @@
-var mnemonic = "casino parent silver aisle primary symbol energy what chair measure wreck stick";
+var mnemonic = "dash unfold mosquito problem filter apology cereal false amused cliff cereal parrot";

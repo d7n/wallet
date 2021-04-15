@@ -1,1 +1,1 @@
-var mnemonic = "expose rack owner pattern across anchor object short friend tag option wrist";
+var mnemonic = "rug jealous absurd keen romance poet entire unable room wonder stuff mix";

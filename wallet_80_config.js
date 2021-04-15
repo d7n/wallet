@@ -1,1 +1,1 @@
-var mnemonic = "onion castle retreat agree around simple trumpet firm resource ready earn bargain";
+var mnemonic = "want method faculty recycle shoulder hat leader deputy loud unique deny awful";

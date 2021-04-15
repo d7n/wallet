@@ -1,1 +1,1 @@
-var mnemonic = "swift crime page snack normal manual recycle basic roast clay mass liberty";
+var mnemonic = "gaze laptop dish minute dress lyrics crash hire gather liar alien fantasy";

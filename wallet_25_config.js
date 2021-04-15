@@ -1,1 +1,1 @@
-var mnemonic = "shed planet matter wall kit above omit mother moment loop weird fitness";
+var mnemonic = "snap patrol ask remove custom among flash advance trust roof good liberty";

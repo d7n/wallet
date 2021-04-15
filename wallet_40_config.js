@@ -1,1 +1,1 @@
-var mnemonic = "program vacant reunion unique admit ensure item expand nation polar waste embody";
+var mnemonic = "distance flat toilet pull exact ridge immense similar naive worth quit parrot";

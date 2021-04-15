@@ -1,1 +1,1 @@
-var mnemonic = "spawn uncle crane gadget genre insect chat buyer soccer excuse excuse bargain";
+var mnemonic = "window basic matter winner security woman slow equip scissors mushroom genius flavor";

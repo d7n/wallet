@@ -1,1 +1,1 @@
-var mnemonic = "inherit member add keep obtain rhythm spell service grain alone jeans improve";
+var mnemonic = "shove various way coconut fragile genius large speed parent balance second actor";

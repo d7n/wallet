@@ -1,1 +1,1 @@
-var mnemonic = "ginger balance welcome noodle crowd boy game radar antique giggle brass fresh";
+var mnemonic = "develop example portion wonder inherit jazz expire tone glove object notable direct";

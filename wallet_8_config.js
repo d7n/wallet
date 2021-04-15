@@ -1,1 +1,1 @@
-var mnemonic = "door cube change infant vivid delay crime during north acid render jealous";
+var mnemonic = "better social burger visual tuna cigar ribbon photo ethics barely concert bread";

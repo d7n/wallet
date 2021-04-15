@@ -1,1 +1,1 @@
-var mnemonic = "master cloth climb result load style off gather matter magic vault license";
+var mnemonic = "logic young flag upper walnut spirit amazing two park animal gym fossil";

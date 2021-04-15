@@ -1,1 +1,1 @@
-var mnemonic = "beauty faith denial fork steel inherit unable flower purpose panda relax math";
+var mnemonic = "peasant guard position wing actress artist tape inherit radio dizzy elbow scare";

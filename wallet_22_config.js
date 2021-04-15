@@ -1,1 +1,1 @@
-var mnemonic = "subject minimum wisdom secret then payment velvet dirt spice brain still grid";
+var mnemonic = "wrist call nerve sentence way vapor credit load jungle warm lend obtain";

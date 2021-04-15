@@ -1,1 +1,1 @@
-var mnemonic = "sentence keep grape album arrive plug mango corn label save assist next";
+var mnemonic = "mesh album move person pilot year pencil suffer educate toast parrot twice";

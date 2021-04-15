@@ -1,1 +1,1 @@
-var mnemonic = "pledge lawn output ivory lazy alter glass card tuition turtle next bulb";
+var mnemonic = "hamster worry rescue grace program wife super affair state mention energy bracket";

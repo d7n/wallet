@@ -1,1 +1,1 @@
-var mnemonic = "icon review forward boss omit obscure hockey music zone puzzle arena admit";
+var mnemonic = "creek foam wet clever feed surface glue buzz creek maximum liberty stool";

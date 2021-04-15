@@ -1,1 +1,1 @@
-var mnemonic = "sand now picnic multiply income lyrics walk stable cruel candy animal barely";
+var mnemonic = "recycle together zero crawl arena wisdom demand injury neither moral hip leg";

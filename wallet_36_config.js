@@ -1,1 +1,1 @@
-var mnemonic = "habit voyage rose quality dress wrong couch wonder surge camp ghost people";
+var mnemonic = "core bleak inside nominee guard require gorilla business curious foil sentence original";

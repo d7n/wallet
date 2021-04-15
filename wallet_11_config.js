@@ -1,1 +1,1 @@
-var mnemonic = "orchard warrior carry hammer want gospel artwork theory notice cube fee interest";
+var mnemonic = "solid album marriage access helmet auction glow wage about radio deny chuckle";

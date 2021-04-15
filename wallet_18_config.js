@@ -1,1 +1,1 @@
-var mnemonic = "inherit proud silly ticket picture hint judge divert globe soft dragon nurse";
+var mnemonic = "crew exchange raccoon punch chicken parent rotate over update marriage shell cage";

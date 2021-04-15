@@ -1,1 +1,1 @@
-var mnemonic = "daring few position tilt access leaf enable motor laptop garage example stool";
+var mnemonic = "flat pet brain fall left vapor risk desk miss flat screen draw";

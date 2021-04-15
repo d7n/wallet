@@ -1,1 +1,1 @@
-var mnemonic = "nature position orbit raven light horn diagram dismiss universe surface speed dentist";
+var mnemonic = "else fame garment battle ask repair another ski winter brief drastic public";

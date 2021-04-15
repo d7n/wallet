@@ -1,1 +1,1 @@
-var mnemonic = "resemble grab obtain onion kitten among color draw kitchen rule fruit merit";
+var mnemonic = "carbon friend fault position jealous describe orange become sad bicycle company brick";

@@ -1,1 +1,1 @@
-var mnemonic = "glad snack nest party cause hockey stock simple apart chief ocean worry";
+var mnemonic = "bomb trophy exercise damp illegal soap toss tail rhythm ancient code believe";

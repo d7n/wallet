@@ -1,1 +1,1 @@
-var mnemonic = "click stuff present bubble equal popular friend hub razor legal logic spot";
+var mnemonic = "credit spell hidden cattle repeat alarm vault narrow jelly panther fiction rose";

@@ -1,1 +1,1 @@
-var mnemonic = "club never bunker twice gain remind improve shrimp expose twenty picnic buffalo";
+var mnemonic = "run student letter amused message lady soap garment brave world height tomorrow";

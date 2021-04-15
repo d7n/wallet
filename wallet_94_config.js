@@ -1,1 +1,1 @@
-var mnemonic = "sudden second veteran liquid afford load demand state name response school behind";
+var mnemonic = "require example license quiz subway story decide twelve shy kite magic process";

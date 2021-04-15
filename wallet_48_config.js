@@ -1,1 +1,1 @@
-var mnemonic = "file vehicle height pioneer smoke island eager voice mountain immune beauty rookie";
+var mnemonic = "panel modify wrestle whisper group fade couch young nuclear found tape wink";

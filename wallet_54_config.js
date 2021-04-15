@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog warrior cargo spoil credit material thumb flower rely sister donate sustain";
+var mnemonic = "captain amazing amount swift payment pledge wing oven much apology have boy";

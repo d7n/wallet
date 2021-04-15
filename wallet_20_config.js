@@ -1,1 +1,1 @@
-var mnemonic = "spell comic mirror click base struggle vicious lizard twin share simple accuse";
+var mnemonic = "mask join typical disagree cancel material west naive reject rebuild mobile veteran";

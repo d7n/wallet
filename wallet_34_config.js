@@ -1,1 +1,1 @@
-var mnemonic = "coach valley lucky learn disorder spoil flee wash hood caught climb oyster";
+var mnemonic = "truly report table ask soccer rely identify today afford raccoon subway jewel";

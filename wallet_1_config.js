@@ -1,1 +1,1 @@
-var mnemonic = "staff picture forget cube crater long tornado deer leave sick sort hurt";
+var mnemonic = "lady nephew corn lawsuit abuse crucial pattern buddy month nominee slim city";

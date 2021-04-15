@@ -1,1 +1,1 @@
-var mnemonic = "duty boil run swarm orchard current limb cram right start cereal patch";
+var mnemonic = "wheat audit bracket sell tuition govern retreat sponsor you fun satisfy cube";

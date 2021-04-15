@@ -1,1 +1,1 @@
-var mnemonic = "fee student volume onion suggest unveil wash nut cargo trial visual drift";
+var mnemonic = "pencil imitate edge toy pool ceiling pride flame put plastic figure upset";

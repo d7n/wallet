@@ -1,1 +1,1 @@
-var mnemonic = "fat waste episode owner apart film leaf elbow hurry ticket scissors behave";
+var mnemonic = "path crane fluid wagon suggest universe soon coffee task view theme quarter";

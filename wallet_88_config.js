@@ -1,1 +1,1 @@
-var mnemonic = "walnut fatigue elephant work cup board pepper poet fossil fresh now claw";
+var mnemonic = "prosper embrace cause hello wrap october butter rude assist luxury claim tenant";

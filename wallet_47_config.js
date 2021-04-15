@@ -1,1 +1,1 @@
-var mnemonic = "skate caught stuff badge hole cute deny boy achieve true doll electric";
+var mnemonic = "grocery toddler select spell cook thumb sustain rose sugar stick entire avocado";

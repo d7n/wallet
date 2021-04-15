@@ -1,1 +1,1 @@
-var mnemonic = "resist virtual trim reason food island odor jump alarm receive gas orchard";
+var mnemonic = "wide chief glance example magnet feature bread wait time fresh joy ring";

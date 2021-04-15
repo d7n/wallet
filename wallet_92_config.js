@@ -1,1 +1,1 @@
-var mnemonic = "few cross guard warm brave fun tape print depend engine carpet stereo";
+var mnemonic = "lawn crater system actress dutch coil vague lottery rebuild embody include camera";

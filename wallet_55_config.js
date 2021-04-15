@@ -1,1 +1,1 @@
-var mnemonic = "space price potato ostrich behind royal friend hurt dumb into host image";
+var mnemonic = "hair divide weird advice review evil veteran dish flag school milk invest";

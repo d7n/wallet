@@ -1,1 +1,1 @@
-var mnemonic = "write aerobic galaxy farm ensure gym admit sand umbrella glow empty swap";
+var mnemonic = "magnet prepare crop blind add lumber valley lazy frown argue winter salad";

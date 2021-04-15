@@ -1,1 +1,1 @@
-var mnemonic = "focus ecology achieve jazz into gain mother sell gossip thought brain page";
+var mnemonic = "silent project evil wash security candy observe film erode aware work dove";

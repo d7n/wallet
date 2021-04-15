@@ -1,1 +1,1 @@
-var mnemonic = "flush vibrant there rotate gorilla illegal regular rifle float ghost sunny inspire";
+var mnemonic = "stem meat sign mention retreat enroll cycle dune resist elbow crisp magnet";

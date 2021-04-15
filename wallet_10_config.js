@@ -1,1 +1,1 @@
-var mnemonic = "shop lend thunder struggle luggage stock survey outer quiz lecture cattle speed";
+var mnemonic = "raise maze dad lumber clever grid sign gift moral stool popular mechanic";

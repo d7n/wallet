@@ -1,1 +1,1 @@
-var mnemonic = "butter dry coin turn praise electric symptom kingdom addict dinosaur heavy toward";
+var mnemonic = "make year bone relief mind level degree combine dwarf donate clog notable";

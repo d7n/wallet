@@ -1,1 +1,1 @@
-var mnemonic = "buddy damp team decorate maximum wish knock remove link glimpse broccoli empty";
+var mnemonic = "message mammal pyramid dish ostrich just repeat shield crash muffin chat frost";

@@ -1,1 +1,1 @@
-var mnemonic = "asset wage loud warm receive degree mandate vanish silent brown warm jacket";
+var mnemonic = "mistake cricket pilot rose inject fruit address kingdom parade fashion athlete equal";

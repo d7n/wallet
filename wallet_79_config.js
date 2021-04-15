@@ -1,1 +1,1 @@
-var mnemonic = "attend accident wealth loyal protect any come survey chimney pizza salmon husband";
+var mnemonic = "order loud pattern problem rocket mad snake miss setup team vast soul";

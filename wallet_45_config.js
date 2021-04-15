@@ -1,1 +1,1 @@
-var mnemonic = "brother lunar awake lock abstract unknown wine hybrid lemon chuckle lazy budget";
+var mnemonic = "patient illness omit ripple produce casual mesh anxiety blade mandate vault someone";

@@ -1,1 +1,1 @@
-var mnemonic = "exile emotion unable glass student teach smart open total custom favorite jaguar";
+var mnemonic = "tool trim please unusual near bargain diary nut dice control captain hobby";

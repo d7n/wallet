@@ -1,1 +1,1 @@
-var mnemonic = "spawn ready trade risk fade project silly slot unfair file royal world";
+var mnemonic = "fitness forest chunk able mango issue like kingdom canal entire abandon account";

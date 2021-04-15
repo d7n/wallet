@@ -1,1 +1,1 @@
-var mnemonic = "diamond silly shoot symptom duck theme endorse aisle clinic peanut quality wood";
+var mnemonic = "valley garment secret actual exotic pear indoor adapt furnace crouch crunch audit";

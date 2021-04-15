@@ -1,1 +1,1 @@
-var mnemonic = "narrow dilemma member kick hurry law knock recall stick enemy anchor design";
+var mnemonic = "huge term ripple outdoor faint town shuffle brick ethics dilemma silk poet";

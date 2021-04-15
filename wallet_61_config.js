@@ -1,1 +1,1 @@
-var mnemonic = "program dance canvas cream asset follow junior subway define attitude security chair";
+var mnemonic = "arrange acoustic undo define cheap goat north trial nerve rescue enhance era";

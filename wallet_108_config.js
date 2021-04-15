@@ -1,1 +1,1 @@
-var mnemonic = "convince actor camp pupil dove spice daughter soda danger slab upper replace";
+var mnemonic = "weasel tribe illegal silver scale fatal remain episode vivid one flight vintage";

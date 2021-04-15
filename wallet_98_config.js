@@ -1,1 +1,1 @@
-var mnemonic = "april will earn away alpha rent swing balance wealth because vehicle orient";
+var mnemonic = "adjust picnic glass intact claim anxiety pause minute chunk ability grow boost";

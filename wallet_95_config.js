@@ -1,1 +1,1 @@
-var mnemonic = "can believe army escape crucial whip duck appear sausage moral salon kick";
+var mnemonic = "next silent merry bracket immune material present rookie snake demand buyer volume";

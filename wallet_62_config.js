@@ -1,1 +1,1 @@
-var mnemonic = "umbrella ring profit mutual inject outdoor meat steel foot goat deal shoot";
+var mnemonic = "room trust health frequent umbrella tool pair assist prison jump mountain laugh";

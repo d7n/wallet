@@ -1,1 +1,1 @@
-var mnemonic = "crystal relief region sibling equip nuclear marble gasp squeeze guide fan village";
+var mnemonic = "snow canal mirror fruit forum ketchup skin palace spell base noodle amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce peasant safe daring buffalo city pill behind betray dose wife auto";
+var mnemonic = "pet agree ensure elder battle train figure error horn mother beyond face";

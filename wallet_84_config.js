@@ -1,1 +1,1 @@
-var mnemonic = "bachelor oven come crush repair zone goddess relax home today call toss";
+var mnemonic = "verb olive moral local busy gain rival valley keen trade nose then";

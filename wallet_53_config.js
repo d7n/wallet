@@ -1,1 +1,1 @@
-var mnemonic = "crime open carbon capable camp illegal comfort fee tunnel age boat patrol";
+var mnemonic = "gift theme dignity mutual genuine physical deliver churn trap core math cram";

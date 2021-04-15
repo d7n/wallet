@@ -1,1 +1,1 @@
-var mnemonic = "alien poverty jelly zone slice coconut adjust club rival damp powder enemy";
+var mnemonic = "shy elevator black pear sample prize rebuild model cream tuition blood perfect";

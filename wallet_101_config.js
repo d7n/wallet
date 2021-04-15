@@ -1,1 +1,1 @@
-var mnemonic = "canoe dune train impose able income custom sudden agent hammer walk muffin";
+var mnemonic = "suspect salmon hope impose labor duck write zoo butter garage bag final";

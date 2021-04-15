@@ -1,1 +1,1 @@
-var mnemonic = "duty alarm onion body popular shock shaft aware open consider frown celery";
+var mnemonic = "vote bridge shop parrot sustain panther resemble match alpha reject dismiss salute";

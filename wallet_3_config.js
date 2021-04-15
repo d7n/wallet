@@ -1,1 +1,1 @@
-var mnemonic = "present dignity advance excite build six color guard omit ridge range auto";
+var mnemonic = "load craft marriage tape nuclear pulp inmate sample claim parent mechanic damp";

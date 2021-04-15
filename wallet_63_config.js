@@ -1,1 +1,1 @@
-var mnemonic = "possible mammal pole thrive antique hat agree envelope urge federal devote during";
+var mnemonic = "soap glimpse exit amused toddler snack awesome impact discover that alone layer";

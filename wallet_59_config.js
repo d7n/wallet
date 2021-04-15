@@ -1,1 +1,1 @@
-var mnemonic = "zone cattle lend other ketchup ketchup hub urban endorse typical enforce lab";
+var mnemonic = "whale chief palace quote jazz hunt exist enroll trim physical punch food";

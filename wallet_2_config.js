@@ -1,1 +1,1 @@
-var mnemonic = "glare invite you neck time excite diet misery raise trip divide shiver";
+var mnemonic = "arm final unfair engage machine arrive deal sea cousin pair woman acoustic";

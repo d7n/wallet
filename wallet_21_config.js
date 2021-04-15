@@ -1,1 +1,1 @@
-var mnemonic = "alter only deliver movie proof pepper relief tell account child add fold";
+var mnemonic = "fence link tent lecture lizard accident borrow occur unusual magic drop common";

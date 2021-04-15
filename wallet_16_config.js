@@ -1,1 +1,1 @@
-var mnemonic = "curtain admit message few survey help shock media comfort fee unit giggle";
+var mnemonic = "hip hunt way absorb vibrant high spray valid bird bar grab report";

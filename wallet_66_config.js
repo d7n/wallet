@@ -1,1 +1,1 @@
-var mnemonic = "wedding stumble plate wisdom medal forest drip erosion spirit marine wrestle suggest";
+var mnemonic = "ramp topple cheap feed replace curve join sure renew globe develop cake";

@@ -1,1 +1,1 @@
-var mnemonic = "stove stool mesh april add photo chest fatal fabric tonight until arrow";
+var mnemonic = "already photo six orphan awesome cool enrich decrease device nothing hip shine";
