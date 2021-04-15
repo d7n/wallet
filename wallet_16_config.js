@@ -1,1 +1,1 @@
-var mnemonic = "thumb dry brave erode resource click month distance struggle quarter doctor know";
+var mnemonic = "pluck prison chimney exchange knee make hedgehog glare foster attack vocal middle";

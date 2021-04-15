@@ -1,1 +1,1 @@
-var mnemonic = "answer version rapid relax alcohol vital token scare essay exact food friend";
+var mnemonic = "track apology canal mistake asthma media slam bind seven hurt fabric author";

@@ -1,1 +1,1 @@
-var mnemonic = "mix kitchen capable worry color erupt hospital crystal clerk sauce vacant myself";
+var mnemonic = "skirt typical deputy object excess baby doll risk cotton device ordinary guide";

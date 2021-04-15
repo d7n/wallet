@@ -1,1 +1,1 @@
-var mnemonic = "subway imitate visual shuffle odor romance tackle smile hungry neither fame staff";
+var mnemonic = "exit dove list brick run message switch erupt fluid father lab suit";

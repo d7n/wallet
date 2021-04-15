@@ -1,1 +1,1 @@
-var mnemonic = "glue online apology duck breeze include scout cliff blade soup steel sail";
+var mnemonic = "one spawn entry very invite cheap crime beach ozone ostrich clinic harsh";

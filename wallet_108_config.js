@@ -1,1 +1,1 @@
-var mnemonic = "nothing dice empower motion paddle sausage win dash auction frozen write local";
+var mnemonic = "ball bird mammal vault ghost impact aunt energy keen coach action perfect";

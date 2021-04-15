@@ -1,1 +1,1 @@
-var mnemonic = "retire snow ostrich daring swear mad slide fossil point six circle when";
+var mnemonic = "lonely risk hen escape barrel accuse okay father mandate track lend punch";

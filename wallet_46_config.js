@@ -1,1 +1,1 @@
-var mnemonic = "amateur journey base elegant item material century patient organ enact diesel valid";
+var mnemonic = "wave divorce drift improve unusual add license insect swim phone goat traffic";

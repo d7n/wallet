@@ -1,1 +1,1 @@
-var mnemonic = "element gap future lesson clerk phrase night piano boost advance paddle ripple";
+var mnemonic = "basic satoshi window foil ritual negative robot rule cat side build teach";

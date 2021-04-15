@@ -1,1 +1,1 @@
-var mnemonic = "evil bind truth lake ecology anxiety pulp portion peace horn upper wave";
+var mnemonic = "system uphold lesson mirror brave glow globe raven lumber lecture lamp rescue";

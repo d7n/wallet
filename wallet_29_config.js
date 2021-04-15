@@ -1,1 +1,1 @@
-var mnemonic = "air spike rotate general casino flat alien giraffe home city gift romance";
+var mnemonic = "access kite adapt any ripple image hockey injury update sail else lift";

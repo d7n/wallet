@@ -1,1 +1,1 @@
-var mnemonic = "dish nerve help midnight sketch wreck ready twin box salad park foot";
+var mnemonic = "room ready appear siren sphere month radio parrot chuckle sketch apple web";

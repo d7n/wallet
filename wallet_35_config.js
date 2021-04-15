@@ -1,1 +1,1 @@
-var mnemonic = "country stereo fantasy identify lemon oval initial spare scale inherit genius match";
+var mnemonic = "shield remind lake danger believe tide drastic lend blood mention remind meadow";

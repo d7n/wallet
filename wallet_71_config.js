@@ -1,1 +1,1 @@
-var mnemonic = "coffee hold cabin core novel innocent display upper reunion below blind atom";
+var mnemonic = "still fantasy toast salon thumb crew hope vacuum heavy piano tattoo endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "federal protect left cinnamon twist flag glory badge coconut beyond cliff impulse";
+var mnemonic = "update hope hotel toward wool echo member income keep alien drip nominee";

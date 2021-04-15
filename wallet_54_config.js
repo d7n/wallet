@@ -1,1 +1,1 @@
-var mnemonic = "found walk cabin join spice faculty person jaguar era silver abandon rude";
+var mnemonic = "sphere cricket wrist cattle found spatial pill frame critic wheel winter inspire";

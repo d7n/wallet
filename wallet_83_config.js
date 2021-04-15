@@ -1,1 +1,1 @@
-var mnemonic = "buzz original album taste thing digital anger slice husband crouch zoo range";
+var mnemonic = "bless humor crash high pet flower absorb dizzy zone behave mistake panel";

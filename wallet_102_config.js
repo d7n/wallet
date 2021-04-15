@@ -1,1 +1,1 @@
-var mnemonic = "old million antenna major congress network reopen betray path fresh sketch symbol";
+var mnemonic = "antenna dinosaur rich slender shaft finish safe slice plate one suggest poem";

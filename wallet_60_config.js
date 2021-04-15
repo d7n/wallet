@@ -1,1 +1,1 @@
-var mnemonic = "honey seat slot gown panel step usage boss marriage lion buyer crater";
+var mnemonic = "setup dose then arm august what scrub garment arctic post trap fame";

@@ -1,1 +1,1 @@
-var mnemonic = "great rival decline opera reason can clutch oval aerobic tribe apart voice";
+var mnemonic = "grain lake birth ticket coral dumb trophy main sustain wagon bean beach";

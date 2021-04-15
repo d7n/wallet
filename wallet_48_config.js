@@ -1,1 +1,1 @@
-var mnemonic = "grab pitch lumber swarm relief outside island owner maze maze market rubber";
+var mnemonic = "foam august dirt hero next rally frog forget boring buffalo fashion diet";

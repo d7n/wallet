@@ -1,1 +1,1 @@
-var mnemonic = "finger switch hungry slot exact weird wing normal sport device skill away";
+var mnemonic = "control slender jealous year dream decade animal puppy utility frog pen announce";

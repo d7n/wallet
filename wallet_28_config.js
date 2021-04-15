@@ -1,1 +1,1 @@
-var mnemonic = "panther trouble stadium coin prepare unit awful worry suffer pride grass arrow";
+var mnemonic = "analyst online quick asset field essay figure creek below mean melody off";

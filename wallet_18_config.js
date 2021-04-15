@@ -1,1 +1,1 @@
-var mnemonic = "unique have drum wolf flight athlete shift empty sunset start planet nephew";
+var mnemonic = "frown quarter praise budget craft stereo minor toe weekend animal kitchen length";

@@ -1,1 +1,1 @@
-var mnemonic = "manual kiwi city release image reduce midnight ritual under swarm swing birth";
+var mnemonic = "intact pumpkin alarm super lazy decide garbage turtle odor gown basket tiny";

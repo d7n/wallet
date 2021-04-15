@@ -1,1 +1,1 @@
-var mnemonic = "illness observe index put happy report stuff cry treat crash bicycle crane";
+var mnemonic = "scorpion provide lottery second rail news more flavor endorse hunt obtain buffalo";

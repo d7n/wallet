@@ -1,1 +1,1 @@
-var mnemonic = "demand peace pledge electric party group equal moral ordinary tired phone image";
+var mnemonic = "hotel problem chapter elegant moment master coin nest maple bounce damage guess";

@@ -1,1 +1,1 @@
-var mnemonic = "glory depend sustain safe potato term need helmet daring much matter conduct";
+var mnemonic = "output flash six champion guard artefact consider thought snack include west velvet";

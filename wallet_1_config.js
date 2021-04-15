@@ -1,1 +1,1 @@
-var mnemonic = "build load hurry decide pig dune puzzle labor onion giraffe chicken steel";
+var mnemonic = "test marriage ability blade voice can ugly wet bring wash canyon solar";

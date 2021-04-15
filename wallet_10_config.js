@@ -1,1 +1,1 @@
-var mnemonic = "web burst unknown holiday drastic final inflict jar pond glove couple profit";
+var mnemonic = "enhance eye begin build pencil wheel whip start seed mule vital hand";

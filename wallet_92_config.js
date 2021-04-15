@@ -1,1 +1,1 @@
-var mnemonic = "hole hero stable total surge addict differ tell nose neither amused flat";
+var mnemonic = "little regular visual culture usage bullet ahead elevator guess alone kiwi argue";

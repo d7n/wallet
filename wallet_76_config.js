@@ -1,1 +1,1 @@
-var mnemonic = "dismiss ticket rib gravity exact cement soap wasp spoil mother festival island";
+var mnemonic = "round exact suit frog exchange address cheap photo admit salmon empower second";

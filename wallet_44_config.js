@@ -1,1 +1,1 @@
-var mnemonic = "laptop green into cannon teach plate bag region draft gorilla olympic rain";
+var mnemonic = "river jacket twice pilot fog crystal three base spy bargain issue settle";

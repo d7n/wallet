@@ -1,1 +1,1 @@
-var mnemonic = "federal recall wasp artefact pizza buyer capital illegal title express casino pave";
+var mnemonic = "push tumble consider angry bracket similar warm maximum tank neutral decorate acoustic";

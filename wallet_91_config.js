@@ -1,1 +1,1 @@
-var mnemonic = "silly fragile tonight leader exhaust produce possible ahead gospel unknown angle select";
+var mnemonic = "turkey clump maple chalk heart motor gallery purse mask stool rose come";

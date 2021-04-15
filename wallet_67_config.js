@@ -1,1 +1,1 @@
-var mnemonic = "evolve walnut captain calm escape crystal puppy boss bless throw wrap fade";
+var mnemonic = "sock radio duty skin chalk gown now easy surround fun mention usage";

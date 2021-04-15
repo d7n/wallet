@@ -1,1 +1,1 @@
-var mnemonic = "salad else six vivid lizard oyster claw comfort elder convince task album";
+var mnemonic = "gun gown life course remind marine peace dose cabin identify north sell";

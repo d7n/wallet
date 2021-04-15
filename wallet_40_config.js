@@ -1,1 +1,1 @@
-var mnemonic = "velvet kingdom quarter tiger mercy often junk brown dinosaur pupil tunnel length";
+var mnemonic = "crumble curtain this chair proud enlist globe offer struggle panda filter differ";

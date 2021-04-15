@@ -1,1 +1,1 @@
-var mnemonic = "pink balcony weather swallow vague lawsuit razor short tunnel wire fly enroll";
+var mnemonic = "eyebrow employ solid oak fold grape ecology sponsor gate trust wrap damp";

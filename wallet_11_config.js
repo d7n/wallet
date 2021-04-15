@@ -1,1 +1,1 @@
-var mnemonic = "brand home candy decade senior frame tuition pen million ready onion security";
+var mnemonic = "near actress alert vacant erase gadget sibling cream crush finger chair hold";

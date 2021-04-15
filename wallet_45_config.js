@@ -1,1 +1,1 @@
-var mnemonic = "mansion bag usual drip squeeze fluid organ replace alley embody slow fat";
+var mnemonic = "inch memory mammal water clown hub trip broom daring escape force window";

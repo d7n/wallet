@@ -1,1 +1,1 @@
-var mnemonic = "intact warfare topple upgrade fiber waste shed fashion amazing rotate apple desert";
+var mnemonic = "snap clay antenna festival marriage ranch news tragic maid total sister predict";

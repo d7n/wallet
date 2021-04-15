@@ -1,1 +1,1 @@
-var mnemonic = "hello lazy knee genius gesture body normal elephant purpose fruit alpha web";
+var mnemonic = "win together slim drive hazard depart grab exclude depend collect wasp iron";

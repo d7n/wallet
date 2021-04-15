@@ -1,1 +1,1 @@
-var mnemonic = "lawn know net regular rent rural until vapor cousin shove brisk gain";
+var mnemonic = "immense glue oval ability lonely rabbit ridge topic misery clerk stuff behind";

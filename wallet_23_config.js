@@ -1,1 +1,1 @@
-var mnemonic = "prize aware either winter sleep crush couch pluck wife success grit puzzle";
+var mnemonic = "jump cannon record soap health lift discover you bring jelly local language";

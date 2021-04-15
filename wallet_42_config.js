@@ -1,1 +1,1 @@
-var mnemonic = "account ski mistake video vault flight merry bomb zoo fetch field vivid";
+var mnemonic = "innocent regular rebuild begin napkin bomb stone drive alpha erase forest inject";

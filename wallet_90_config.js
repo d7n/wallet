@@ -1,1 +1,1 @@
-var mnemonic = "source crush comic make person wreck dash need sound venture barrel tornado";
+var mnemonic = "say meadow night fruit swear paper poverty mechanic earth pattern subway foster";

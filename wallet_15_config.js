@@ -1,1 +1,1 @@
-var mnemonic = "table list library off decrease property horse turtle sure retreat barrel keep";
+var mnemonic = "stone say social popular able ripple camera census reveal mobile parade bar";

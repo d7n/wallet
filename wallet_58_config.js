@@ -1,1 +1,1 @@
-var mnemonic = "frozen whip swap scan color cake pear shoulder invest simple museum public";
+var mnemonic = "debate write clump marble wear antenna park deliver effort burger solar piano";

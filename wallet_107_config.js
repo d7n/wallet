@@ -1,1 +1,1 @@
-var mnemonic = "hub coyote coach select miss sound shoulder enforce coyote shoulder dolphin below";
+var mnemonic = "laundry shine lift right left reform maze essence fish region level rubber";

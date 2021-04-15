@@ -1,1 +1,1 @@
-var mnemonic = "walk inflict dove thunder fun describe hazard unusual fire also swarm water";
+var mnemonic = "hidden unable magnet goddess reject job robot glide often whale abstract broccoli";

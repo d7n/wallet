@@ -1,1 +1,1 @@
-var mnemonic = "scatter flat that fancy volume any unfold clerk hat core ordinary legend";
+var mnemonic = "west weekend donkey bamboo potato pull gasp insect neglect enter fantasy daring";

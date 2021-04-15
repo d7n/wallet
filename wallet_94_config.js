@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin arch response spray actress nut drop learn always sponsor stage bless";
+var mnemonic = "that teach attack problem trophy space drink casino anger reunion pipe sell";

@@ -1,1 +1,1 @@
-var mnemonic = "together what doll never jeans choose voice slim refuse jelly despair venture";
+var mnemonic = "blur swing source quarter option general unknown book pattern drip electric drum";

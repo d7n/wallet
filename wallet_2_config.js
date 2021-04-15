@@ -1,1 +1,1 @@
-var mnemonic = "decline achieve distance dice method hood salad club aerobic mimic crop autumn";
+var mnemonic = "library beef prison south blossom judge work family note unique obtain busy";

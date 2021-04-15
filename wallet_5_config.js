@@ -1,1 +1,1 @@
-var mnemonic = "shadow analyst frog pottery sick come arm work picture replace energy tail";
+var mnemonic = "phone bitter print about rural trade version employ giant typical pistol rabbit";

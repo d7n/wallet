@@ -1,1 +1,1 @@
-var mnemonic = "entire session guess predict logic october dune flight member fatigue sure umbrella";
+var mnemonic = "bonus powder sugar ridge nephew rubber snake weasel kick tent outer end";

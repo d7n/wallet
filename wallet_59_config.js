@@ -1,1 +1,1 @@
-var mnemonic = "exact design math process velvet pear flat hour tray ship prize ball";
+var mnemonic = "juice allow worth exchange few cabin thing worry sauce erode symptom group";

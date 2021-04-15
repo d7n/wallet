@@ -1,1 +1,1 @@
-var mnemonic = "example scout blanket voice butter mutual license minimum trash follow couch width";
+var mnemonic = "expose shy timber strategy develop rail invest true suffer access orchard veteran";

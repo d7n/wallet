@@ -1,1 +1,1 @@
-var mnemonic = "illegal dream skill enact license omit jacket month judge monkey aisle exact";
+var mnemonic = "yard animal force replace movie ethics inner steel label either reunion accident";

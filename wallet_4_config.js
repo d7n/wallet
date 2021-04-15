@@ -1,1 +1,1 @@
-var mnemonic = "guide during size vocal asthma admit eight inquiry left session trick screen";
+var mnemonic = "favorite observe gold goat cram butter place excite like parrot gadget maple";

@@ -1,1 +1,1 @@
-var mnemonic = "fence permit easily budget relax flip lend twelve shrug blind cricket skate";
+var mnemonic = "bone remind clerk avocado lens truth post shaft wear husband peanut sausage";

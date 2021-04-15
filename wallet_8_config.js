@@ -1,1 +1,1 @@
-var mnemonic = "modify buffalo dutch goose engage clock cluster three route neither skate bicycle";
+var mnemonic = "scan swallow trick warm repeat sand note sure neutral task unfold penalty";

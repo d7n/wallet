@@ -1,1 +1,1 @@
-var mnemonic = "library unique gospel crush pause pride tail knife border try wasp vacuum";
+var mnemonic = "disorder use fold depth now green aspect title team vicious syrup two";

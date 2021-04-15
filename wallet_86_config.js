@@ -1,1 +1,1 @@
-var mnemonic = "wide pelican choice wave replace impose trouble kind supply require merit math";
+var mnemonic = "draft damp spend lucky any luxury work harsh rough morning source idle";

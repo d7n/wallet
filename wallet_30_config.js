@@ -1,1 +1,1 @@
-var mnemonic = "myself antenna you nature prosper near awesome loan danger mimic shove afraid";
+var mnemonic = "palace just pluck vanish evoke motor cannon diagram key bag spatial range";

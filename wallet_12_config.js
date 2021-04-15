@@ -1,1 +1,1 @@
-var mnemonic = "bundle minor amount inch laundry grape disease hover admit tomorrow party very";
+var mnemonic = "elder empty danger hundred island bicycle minute despair problem vault six acquire";

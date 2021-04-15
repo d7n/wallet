@@ -1,1 +1,1 @@
-var mnemonic = "deposit master marine bless soccer survey citizen decorate skill kit empower warrior";
+var mnemonic = "sister october oyster decide flee warrior page they enough reason moral picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "book bulk buzz hungry hill trouble fun frozen right nut cactus ritual";
+var mnemonic = "brown swim wrap exchange comic siren nature physical upgrade inch lizard humble";

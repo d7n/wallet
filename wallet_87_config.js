@@ -1,1 +1,1 @@
-var mnemonic = "below concert joke tongue theory goat rice plug purpose myself scare subject";
+var mnemonic = "grab maple portion then unusual layer order drill quality dignity present mom";

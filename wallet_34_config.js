@@ -1,1 +1,1 @@
-var mnemonic = "tiny similar diet bring certain mom bacon crater tornado heavy open member";
+var mnemonic = "rely scene purpose palm forward refuse seek two panel umbrella mushroom mesh";

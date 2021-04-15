@@ -1,1 +1,1 @@
-var mnemonic = "accident fame tip believe speak turtle door umbrella wood vague budget depart";
+var mnemonic = "garage tourist display venture spare warfare life hobby math foam flash carbon";

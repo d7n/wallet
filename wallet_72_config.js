@@ -1,1 +1,1 @@
-var mnemonic = "elevator tobacco metal portion venture obtain stadium drama lecture hunt quality grid";
+var mnemonic = "opinion palace hazard myth rival depth fork shaft talent way inhale vicious";

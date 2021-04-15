@@ -1,1 +1,1 @@
-var mnemonic = "spoil lady rigid shoot robust trend hero when federal tornado shrug surround";
+var mnemonic = "staff ahead body denial pig dust doll person virus genre refuse rib";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp arm badge leisure thing vacuum hint excite tape reform stairs impose";
+var mnemonic = "panther brief there shuffle tongue credit theory remove usual police trouble balcony";

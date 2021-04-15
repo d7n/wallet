@@ -1,1 +1,1 @@
-var mnemonic = "spring undo economy olympic give sadness album force pluck asset skirt blouse";
+var mnemonic = "champion often wish deny enable scatter normal indoor elevator arrange coffee dragon";

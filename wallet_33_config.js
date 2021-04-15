@@ -1,1 +1,1 @@
-var mnemonic = "cloth van adjust electric upper select raise wide birth toy slice kick";
+var mnemonic = "fabric ribbon flip game clarify meadow wage video finish film struggle lunar";

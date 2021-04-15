@@ -1,1 +1,1 @@
-var mnemonic = "empower recycle argue asset gaze opinion quantum foot glue anxiety reunion topple";
+var mnemonic = "prepare grass mimic cute best mixture glare grain effort jealous shaft midnight";

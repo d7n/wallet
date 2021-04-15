@@ -1,1 +1,1 @@
-var mnemonic = "able define hub crowd start collect rival original produce stomach category mad";
+var mnemonic = "orchard endorse hat half feature lucky dial economy any lab ensure announce";

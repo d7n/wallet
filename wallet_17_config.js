@@ -1,1 +1,1 @@
-var mnemonic = "banana narrow among used will offer loop hour lab custom tuition reflect";
+var mnemonic = "cupboard brisk universe sea champion educate gesture shoulder enhance awful blade major";

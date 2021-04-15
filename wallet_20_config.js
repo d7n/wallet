@@ -1,1 +1,1 @@
-var mnemonic = "ready rain fan knock desk hat chase swim cake buzz taste correct";
+var mnemonic = "witness hobby exotic woman wet chicken upset swamp humble reveal make false";

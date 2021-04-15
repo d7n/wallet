@@ -1,1 +1,1 @@
-var mnemonic = "vocal vintage sock impact biology blood camp update afraid bridge champion there";
+var mnemonic = "achieve despair kiss lucky nature upper pelican oak swim adult entry wedding";

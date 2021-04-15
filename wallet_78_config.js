@@ -1,1 +1,1 @@
-var mnemonic = "oyster catalog client cannon dad order number burst benefit joke olympic skin";
+var mnemonic = "dolphin grab define fabric music total unique jewel shiver extend critic grace";

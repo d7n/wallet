@@ -1,1 +1,1 @@
-var mnemonic = "region history write raccoon giggle broken manage tonight spot push solar reject";
+var mnemonic = "inner noble resource effort park achieve dinosaur behave similar word foam mind";

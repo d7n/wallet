@@ -1,1 +1,1 @@
-var mnemonic = "boat until tuition must original lounge depend scale lake wife grape royal";
+var mnemonic = "whale aim smooth basic soccer canoe winner glimpse swing consider lawsuit very";

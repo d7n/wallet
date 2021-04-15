@@ -1,1 +1,1 @@
-var mnemonic = "drop bottom popular holiday hunt pulp volcano uphold reunion seven arm asset";
+var mnemonic = "pitch cherry side cloud cube liquid critic certain submit actress suffer they";
