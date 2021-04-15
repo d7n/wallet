@@ -1,1 +1,1 @@
-var mnemonic = "believe sponsor library young above size filter extra basket tumble price unfold";
+var mnemonic = "mango salad among wonder soccer kitten congress ordinary service acquire fat angle";

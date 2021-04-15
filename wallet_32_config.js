@@ -1,1 +1,1 @@
-var mnemonic = "accident other physical crowd three piece ride online roof ginger snap wild";
+var mnemonic = "shift try impulse unique mixture swamp collect visa high skill giant fire";

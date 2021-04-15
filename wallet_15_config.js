@@ -1,1 +1,1 @@
-var mnemonic = "runway purpose brown notable stamp parade repeat surge aisle gadget solution lottery";
+var mnemonic = "size mandate ribbon soul patient crater spend govern middle attack suffer champion";

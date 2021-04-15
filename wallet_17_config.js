@@ -1,1 +1,1 @@
-var mnemonic = "crew long ceiling type stick upset learn distance tray couple myth exit";
+var mnemonic = "valid oven flat spike ensure surface rally trap owner retreat swift loud";

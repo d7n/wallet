@@ -1,1 +1,1 @@
-var mnemonic = "foster wash arrive consider plate fever army leaf maple turn news fancy";
+var mnemonic = "hello hurdle skate scout yard soul token debate caution body ranch exact";

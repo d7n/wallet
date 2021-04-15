@@ -1,1 +1,1 @@
-var mnemonic = "over mask false arrow ring observe silk erode mad find sphere smooth";
+var mnemonic = "dizzy tomato unable sheriff fee easy proud dial swear urge sauce unhappy";

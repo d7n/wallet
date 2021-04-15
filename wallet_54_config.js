@@ -1,1 +1,1 @@
-var mnemonic = "pave input excuse vivid permit prosper bunker bacon noise gain butter slide";
+var mnemonic = "tool chief follow silent sponsor solution sail blind dinosaur wrestle slender goose";

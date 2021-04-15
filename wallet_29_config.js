@@ -1,1 +1,1 @@
-var mnemonic = "edit bridge airport swarm outer give negative grape absorb crime nurse bean";
+var mnemonic = "lion quantum object rain utility remember essay clutch home fish nature vault";

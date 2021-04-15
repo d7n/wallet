@@ -1,1 +1,1 @@
-var mnemonic = "fiscal display orchard float wedding sure warrior rotate neither next quote blame";
+var mnemonic = "liar gap report depth sand trophy push price cactus happy frame evolve";

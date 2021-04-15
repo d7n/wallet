@@ -1,1 +1,1 @@
-var mnemonic = "inherit census spot message seek crumble opera doll want report science eager";
+var mnemonic = "clump grace broom staff stomach survey they moral small flush mule voice";

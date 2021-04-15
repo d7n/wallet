@@ -1,1 +1,1 @@
-var mnemonic = "piece hair canvas popular sheriff excuse ordinary word arrange carpet wasp devote";
+var mnemonic = "mesh bread absent income finger vibrant nephew behind angry struggle wise hello";

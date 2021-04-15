@@ -1,1 +1,1 @@
-var mnemonic = "trust organ young frame actress quit know sibling expire suggest aim fly";
+var mnemonic = "coil stuff assault clay dizzy fatigue lumber enable mushroom remember submit pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "area winter radar equal express meat network useful observe already spike yard";
+var mnemonic = "resource salmon aunt fresh slam remind bench garbage budget liquid excuse turtle";

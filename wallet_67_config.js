@@ -1,1 +1,1 @@
-var mnemonic = "fiscal zone phrase borrow avoid ripple shop female action chicken present still";
+var mnemonic = "cheese night coach mouse pause theme drill menu winner repeat prison monkey";

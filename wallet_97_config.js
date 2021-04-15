@@ -1,1 +1,1 @@
-var mnemonic = "conduct jealous coyote guitar style cream run venue cable drill fancy cry";
+var mnemonic = "agree wine winter kit bind live shop outdoor hammer link fetch stumble";

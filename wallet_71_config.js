@@ -1,1 +1,1 @@
-var mnemonic = "leopard wage cover trial grace crumble huge grant east picnic tongue still";
+var mnemonic = "gift boring patrol follow modify document clock deposit doll bread sea wine";

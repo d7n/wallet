@@ -1,1 +1,1 @@
-var mnemonic = "choice effort alpha home tooth swing paddle doctor light avocado saddle gossip";
+var mnemonic = "ability ladder release conduct top rifle wave about world lift dragon inflict";

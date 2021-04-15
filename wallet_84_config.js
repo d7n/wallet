@@ -1,1 +1,1 @@
-var mnemonic = "else find just slogan one work crush kidney dice admit curious elephant";
+var mnemonic = "bullet pistol special model near icon proud range bronze vacant struggle update";

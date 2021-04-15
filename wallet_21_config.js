@@ -1,1 +1,1 @@
-var mnemonic = "split broccoli stay merit best genre spoil trick decade interest famous merge";
+var mnemonic = "street rather tennis century give mutual sleep sun indoor wide female adjust";

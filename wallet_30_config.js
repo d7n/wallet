@@ -1,1 +1,1 @@
-var mnemonic = "bubble ship unlock until decorate library dragon flush label pulp shift circle";
+var mnemonic = "student close ice enrich trend exotic deputy prison woman clutch tunnel giraffe";

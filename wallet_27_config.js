@@ -1,1 +1,1 @@
-var mnemonic = "boat floor bounce intact artist stairs loop element naive meat present village";
+var mnemonic = "enlist gold dawn action one enhance coral timber aspect kingdom day vendor";

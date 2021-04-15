@@ -1,1 +1,1 @@
-var mnemonic = "lock casual need recall true staff grief carpet elite reward journey slim";
+var mnemonic = "ribbon trade light genius stomach calm mango rally ensure improve two shove";

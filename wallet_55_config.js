@@ -1,1 +1,1 @@
-var mnemonic = "canvas noodle metal couple people detect error inquiry mean supreme angry render";
+var mnemonic = "blossom immune fever basic scissors mean organ intact puzzle wagon grape hair";

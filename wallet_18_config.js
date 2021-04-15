@@ -1,1 +1,1 @@
-var mnemonic = "pen okay possible often vessel midnight sadness grid movie claw repair repair";
+var mnemonic = "leave retreat universe share require gentle olive actual grunt cloth paddle audit";

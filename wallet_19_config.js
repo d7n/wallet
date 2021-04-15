@@ -1,1 +1,1 @@
-var mnemonic = "million organ hundred evil vote siege toy minute surround fragile can food";
+var mnemonic = "idea arch there expand nice brand sweet april cram pool maid truly";

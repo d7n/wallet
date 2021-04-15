@@ -1,1 +1,1 @@
-var mnemonic = "oppose nuclear penalty eyebrow random indoor brown eternal ocean opinion behind kiwi";
+var mnemonic = "purse grass ship dentist screen enact kick become layer sleep sure caught";

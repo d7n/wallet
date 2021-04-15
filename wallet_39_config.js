@@ -1,1 +1,1 @@
-var mnemonic = "doctor radar fatal shoulder change flight unique finger coast muscle disagree say";
+var mnemonic = "erupt army target basic lobster bless bid material soda fiction prepare apology";

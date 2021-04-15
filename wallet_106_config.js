@@ -1,1 +1,1 @@
-var mnemonic = "ten armor iron reopen dune top floor demise nation dinner lecture page";
+var mnemonic = "dove copper cream elegant iron super mercy finger duck leisure elbow fiction";

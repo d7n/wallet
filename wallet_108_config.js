@@ -1,1 +1,1 @@
-var mnemonic = "praise maple celery come skull zebra brand seven grape adult eager produce";
+var mnemonic = "club flight loyal angle myth topic again cage arm art float jewel";

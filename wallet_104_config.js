@@ -1,1 +1,1 @@
-var mnemonic = "tragic sell indoor shadow elder pluck glad heart salon faith route also";
+var mnemonic = "teach machine refuse present infant ring orchard sugar measure once foster scrap";

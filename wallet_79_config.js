@@ -1,1 +1,1 @@
-var mnemonic = "paddle legal assist battle adapt neck modify cram mango stick ignore spoon";
+var mnemonic = "record close arrange fragile deny resemble cigar tattoo limit shoe garbage combine";

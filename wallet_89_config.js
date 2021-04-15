@@ -1,1 +1,1 @@
-var mnemonic = "actual mimic rocket clock cram exercise baby wheel nuclear blind grief stable";
+var mnemonic = "cliff rifle bar purity boss list brief track gasp boil hair saddle";

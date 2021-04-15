@@ -1,1 +1,1 @@
-var mnemonic = "shy economy then silk slogan grow truly junior solid usual always leg";
+var mnemonic = "vital myself crowd reject second army pass once student across speak quantum";

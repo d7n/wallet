@@ -1,1 +1,1 @@
-var mnemonic = "patient team dry rough few scan main middle dizzy sample spy hybrid";
+var mnemonic = "subway buffalo movie shrimp climb upgrade kiss noble detect illegal appear cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty zoo rate elbow exchange wash bring salad benefit busy correct typical";
+var mnemonic = "clump nature gauge click angle captain genius vacant field mobile miracle either";

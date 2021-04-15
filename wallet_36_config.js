@@ -1,1 +1,1 @@
-var mnemonic = "chicken survey scatter runway original hawk error amateur lazy glance direct monster";
+var mnemonic = "velvet glad angry tiger sadness awesome major cradle answer attract thought worth";

@@ -1,1 +1,1 @@
-var mnemonic = "proof remind artefact learn turn unable piano crucial panel swear mobile rail";
+var mnemonic = "begin wink pelican tent light arrest walnut crime rib coach lawn embody";

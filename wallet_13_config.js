@@ -1,1 +1,1 @@
-var mnemonic = "file pause essence foam silent cupboard butter motion skull shell orchard equip";
+var mnemonic = "total expect license sentence oblige change cube moon until cliff number witness";

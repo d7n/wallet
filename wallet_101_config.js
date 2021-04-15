@@ -1,1 +1,1 @@
-var mnemonic = "treat moon gas embark pupil scrub inhale harbor unfair situate treat blouse";
+var mnemonic = "harsh false zebra denial music chase pioneer snow stamp remember repeat party";

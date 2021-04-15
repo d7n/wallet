@@ -1,1 +1,1 @@
-var mnemonic = "canoe learn square scrap average endorse quarter grocery slow grace rich accident";
+var mnemonic = "cook boil sibling work memory cruel nut image easily lend boring guitar";

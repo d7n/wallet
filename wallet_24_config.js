@@ -1,1 +1,1 @@
-var mnemonic = "address teach lemon sort purchase oval category again ski hood shift fantasy";
+var mnemonic = "random balance ladder solar chimney yellow clinic arrive large announce scatter lizard";

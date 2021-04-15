@@ -1,1 +1,1 @@
-var mnemonic = "battle game leopard decade plunge supply violin orbit mosquito cliff dress mobile";
+var mnemonic = "twelve theme tobacco cry squeeze cash pattern caught helmet canoe disorder inquiry";

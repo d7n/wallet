@@ -1,1 +1,1 @@
-var mnemonic = "bunker follow bar ketchup inspire ice timber useful sentence own envelope frown";
+var mnemonic = "ask ladder want excess asthma fabric negative tired soon tape duck erode";

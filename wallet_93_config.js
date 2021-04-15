@@ -1,1 +1,1 @@
-var mnemonic = "alert route city chaos lunar music tribe gown shiver main parade route";
+var mnemonic = "future lizard notable cereal toward lamp present system buzz work zone glide";

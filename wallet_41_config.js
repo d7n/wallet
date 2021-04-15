@@ -1,1 +1,1 @@
-var mnemonic = "increase radar sorry suffer spawn front true glide brave outdoor lion tragic";
+var mnemonic = "super divide true fit enable zebra toe spread century seat crew fault";

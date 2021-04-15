@@ -1,1 +1,1 @@
-var mnemonic = "apology mule globe gossip sight memory pudding silent salon soccer unaware scale";
+var mnemonic = "speak execute explain hard skin abandon adapt elite scan salmon thank burger";

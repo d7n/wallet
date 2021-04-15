@@ -1,1 +1,1 @@
-var mnemonic = "young allow news vacuum air puppy core obtain dress trap planet million";
+var mnemonic = "fan lesson gospel volume slender twice climb tool bean increase magic salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "judge avoid useless just amused nation crowd hill immune stairs buyer destroy";
+var mnemonic = "nurse ivory spin glad word attack trigger parent crash extra runway panel";

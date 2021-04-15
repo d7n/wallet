@@ -1,1 +1,1 @@
-var mnemonic = "battle bottom track impulse fortune convince usual axis online crush scrub awesome";
+var mnemonic = "fresh witness around omit length endless office follow normal term address trend";

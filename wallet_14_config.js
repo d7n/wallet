@@ -1,1 +1,1 @@
-var mnemonic = "fiction sword physical enhance hockey hospital guide pen improve cradle accident security";
+var mnemonic = "swamp escape lunch source smart dynamic venue task easily police also beef";

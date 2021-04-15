@@ -1,1 +1,1 @@
-var mnemonic = "dutch fitness flush soda goat rotate harbor move expose chief panda glue";
+var mnemonic = "mercy team quantum shadow adult awkward coast lava monkey soccer require aunt";

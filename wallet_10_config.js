@@ -1,1 +1,1 @@
-var mnemonic = "resist arch height chuckle exotic erase wild also apart tomorrow vote flee";
+var mnemonic = "rubber rival immune again address bullet shove history interest special drop decline";

@@ -1,1 +1,1 @@
-var mnemonic = "own work owner pole master idle tuition emerge victory over hotel carpet";
+var mnemonic = "book drill boy inflict vocal unable access anxiety lemon glue timber key";

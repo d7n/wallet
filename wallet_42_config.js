@@ -1,1 +1,1 @@
-var mnemonic = "cake absorb awkward all melt clog sponsor shift column extend glory athlete";
+var mnemonic = "rate tourist match orbit cloth avoid various digital ripple throw shuffle festival";

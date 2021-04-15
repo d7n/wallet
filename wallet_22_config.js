@@ -1,1 +1,1 @@
-var mnemonic = "swallow foot wine general air educate pony coyote frozen across liberty curve";
+var mnemonic = "unhappy battle elite twist shift what own budget one float gate food";

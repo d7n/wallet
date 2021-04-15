@@ -1,1 +1,1 @@
-var mnemonic = "knife where draw whisper silent second inch kid post addict practice rent";
+var mnemonic = "viable clump boy mixed mass snap give trouble quarter learn gym cushion";

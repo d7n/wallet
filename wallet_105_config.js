@@ -1,1 +1,1 @@
-var mnemonic = "candy turtle radar bundle curious devote repeat tower element crew result broken";
+var mnemonic = "aim rhythm edge despair lift risk parent enlist pool tent license jelly";

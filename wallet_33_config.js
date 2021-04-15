@@ -1,1 +1,1 @@
-var mnemonic = "diary poet cargo practice resist fly napkin wisdom mesh calm gallery divert";
+var mnemonic = "level furnace proud craft indicate camp yellow eternal dignity search arrive promote";

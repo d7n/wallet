@@ -1,1 +1,1 @@
-var mnemonic = "quiz swap february arctic clog helmet pepper three broccoli rather brief scene";
+var mnemonic = "curtain hamster gate like roast achieve badge brain fatigue planet crystal science";

@@ -1,1 +1,1 @@
-var mnemonic = "trim enlist uncover pause record ride label utility prefer depart nuclear brand";
+var mnemonic = "dentist antenna carbon position faint pact oppose trap mean file much else";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor oyster party cruel fabric crucial board crazy pencil sport grocery grid";
+var mnemonic = "ice quantum pole mansion below tornado doctor system stone opera boat exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "obey place menu utility urban curtain load rigid bullet shed minimum trend";
+var mnemonic = "guilt frog party situate transfer hospital wash hamster donate burger rely present";

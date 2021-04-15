@@ -1,1 +1,1 @@
-var mnemonic = "tilt eye ensure discover east angry spend final speed sad toast approve";
+var mnemonic = "guitar poverty alert icon already beef gospel summer eternal lyrics bottom middle";

@@ -1,1 +1,1 @@
-var mnemonic = "better unhappy suffer annual absent exhaust still leaf surprise clean dust candy";
+var mnemonic = "faculty stool decade list scheme bomb egg limit return dumb spy guitar";

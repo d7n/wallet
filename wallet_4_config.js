@@ -1,1 +1,1 @@
-var mnemonic = "equip antenna route coast bicycle unit genius mind scrub marriage arrest crawl";
+var mnemonic = "rally fish hockey tooth glue believe hurdle maid vacant step spot cattle";

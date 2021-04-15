@@ -1,1 +1,1 @@
-var mnemonic = "fortune letter leopard slot what unfold tornado brother camera oblige fog green";
+var mnemonic = "edit panther various east canal sweet rack bachelor true radio electric nest";

@@ -1,1 +1,1 @@
-var mnemonic = "expire abuse peasant obey world next want churn mushroom crisp lens stone";
+var mnemonic = "hire fox adapt taste fitness canvas science large cabin mean pretty chest";

@@ -1,1 +1,1 @@
-var mnemonic = "balance seminar sort minute immense lemon sketch frog collect chapter goat develop";
+var mnemonic = "attitude riot input cloud story fancy fringe action rotate kid bind digital";

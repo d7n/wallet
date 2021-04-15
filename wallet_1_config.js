@@ -1,1 +1,1 @@
-var mnemonic = "spare outer give prefer apple swim right easy nut remind primary unknown";
+var mnemonic = "limit turn celery planet husband reward coffee worry confirm circle ten action";

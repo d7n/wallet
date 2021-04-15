@@ -1,1 +1,1 @@
-var mnemonic = "mean ordinary honey crunch remain extend slim fine recipe shiver network apart";
+var mnemonic = "zoo fat escape february timber grace input put clinic eagle trouble egg";

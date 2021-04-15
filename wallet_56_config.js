@@ -1,1 +1,1 @@
-var mnemonic = "shield fame sausage attend pond sniff aim mountain coil wasp forum useless";
+var mnemonic = "flush flock weird mule stone common various universe gown elevator pigeon vault";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion impose fury rally warm scrap shuffle lazy fox initial like panic";
+var mnemonic = "pond insane trouble surround glass assume expect bird tide pizza during jeans";

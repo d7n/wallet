@@ -1,1 +1,1 @@
-var mnemonic = "juice abandon tuition strike rich arrive photo begin reduce pig ginger sorry";
+var mnemonic = "bachelor verify vendor another become payment breeze palace shrimp sustain token tell";

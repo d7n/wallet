@@ -1,1 +1,1 @@
-var mnemonic = "history parrot gesture annual reject salmon half pencil uniform blur easy kidney";
+var mnemonic = "wall clerk bachelor forum intact moral armed journey below tunnel expose identify";

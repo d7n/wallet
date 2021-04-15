@@ -1,1 +1,1 @@
-var mnemonic = "space follow sauce coin bag artist rack morning sudden kid scene whisper";
+var mnemonic = "matter baby sample control jar audit together lawn spice analyst basket slogan";

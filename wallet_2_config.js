@@ -1,1 +1,1 @@
-var mnemonic = "stool artefact crew cycle enrich brief enter exhaust damp split leisure garlic";
+var mnemonic = "phrase wing good manual skirt escape lumber flush alpha smile clerk salt";

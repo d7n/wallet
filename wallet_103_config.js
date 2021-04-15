@@ -1,1 +1,1 @@
-var mnemonic = "recall female myth negative glad abandon trial ramp juice whale forum scare";
+var mnemonic = "grass casual moral thank alcohol sheriff arrange clump enroll coil bid clay";

@@ -1,1 +1,1 @@
-var mnemonic = "topic sugar quit spell often engage raw chapter wasp shrug subway spider";
+var mnemonic = "armed draft gentle join day blur art bubble scissors gift camp price";

@@ -1,1 +1,1 @@
-var mnemonic = "maple festival feel this library bitter process parrot please hamster tornado fruit";
+var mnemonic = "alarm ordinary hair glove warm miracle learn heart bachelor deer concert banana";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch almost castle truth slush twice mercy labor excuse shiver wrong empower";
+var mnemonic = "marine video any relax doll point nuclear shiver awake govern skill kidney";

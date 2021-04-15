@@ -1,1 +1,1 @@
-var mnemonic = "material type wing agree predict impose pulse gorilla avoid donate text spin";
+var mnemonic = "crop tooth carry recall either clap safe unable custom column deputy maze";

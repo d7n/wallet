@@ -1,1 +1,1 @@
-var mnemonic = "board enjoy record nasty boost depth uncover inspire picture neither fly name";
+var mnemonic = "talk praise utility opera critic bulk topple bright sauce industry surge grit";

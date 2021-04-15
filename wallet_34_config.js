@@ -1,1 +1,1 @@
-var mnemonic = "defense chronic sick cricket camera grain cousin harsh float rookie renew unique";
+var mnemonic = "cupboard tag couch reject picture grass depth endorse soon rough galaxy what";

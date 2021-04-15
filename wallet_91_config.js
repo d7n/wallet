@@ -1,1 +1,1 @@
-var mnemonic = "spread choice veteran stomach cliff warfare announce logic glare brass upgrade mutual";
+var mnemonic = "alcohol song throw awful frequent hello net nominee great funny quiz soldier";

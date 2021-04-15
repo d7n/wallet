@@ -1,1 +1,1 @@
-var mnemonic = "cereal prosper thank love drill since file fog crisp alarm jar brown";
+var mnemonic = "still neglect immune pretty subject agent thought aunt angry thought fiction element";

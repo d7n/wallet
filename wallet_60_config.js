@@ -1,1 +1,1 @@
-var mnemonic = "woman rice attack prevent comic snake regret sheriff swarm oil surround chase";
+var mnemonic = "dilemma gasp similar laptop mutual kidney donate wild stool universe drum job";

@@ -1,1 +1,1 @@
-var mnemonic = "misery dust switch famous risk boost tail chef bullet love whip abandon";
+var mnemonic = "cargo super rack magic agree parrot custom state rally force inner address";

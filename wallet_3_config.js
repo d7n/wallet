@@ -1,1 +1,1 @@
-var mnemonic = "area bomb town chimney nose among runway card book notable promote leopard";
+var mnemonic = "what silver host grunt flavor message visit drive nothing know history level";

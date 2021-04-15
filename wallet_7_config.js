@@ -1,1 +1,1 @@
-var mnemonic = "crew apple whip country evoke economy offer rail family drop vivid degree";
+var mnemonic = "permit eight beyond nurse only intact width monitor brick knock mule minimum";

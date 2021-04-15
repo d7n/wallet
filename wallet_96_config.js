@@ -1,1 +1,1 @@
-var mnemonic = "urge depart bleak vast detail drive chest another sponsor accuse hole praise";
+var mnemonic = "erosion erosion upgrade seek electric century area congress soap blanket current pelican";

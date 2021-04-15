@@ -1,1 +1,1 @@
-var mnemonic = "funny about pretty similar setup liberty fringe ill lab outdoor sort road";
+var mnemonic = "purity shaft sight water follow live embark scorpion alter sibling love initial";
