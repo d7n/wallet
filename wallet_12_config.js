@@ -1,1 +1,1 @@
-var mnemonic = "illness myself denial lab race yellow badge develop jewel ring lake average";
+var mnemonic = "brother spring tell borrow farm burst crystal survey situate basket dad dentist";

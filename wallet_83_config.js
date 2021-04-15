@@ -1,1 +1,1 @@
-var mnemonic = "hold belt visit sea assault flavor source erase priority used speak vital";
+var mnemonic = "blast amused piano fault bargain maid feature tuition purpose truth actual trap";

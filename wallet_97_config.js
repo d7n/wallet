@@ -1,1 +1,1 @@
-var mnemonic = "relief lesson object obscure eagle shrimp connect engine motion junior fruit cattle";
+var mnemonic = "reveal blossom mandate market butter adjust pupil control index crash squirrel frame";

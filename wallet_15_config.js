@@ -1,1 +1,1 @@
-var mnemonic = "december wild knock oppose random option school assume error million stumble brass";
+var mnemonic = "rule melt merit auto west diamond radar gauge bulk swim crane grow";

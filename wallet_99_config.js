@@ -1,1 +1,1 @@
-var mnemonic = "gasp hire oval control menu blue sand silent still social surface slide";
+var mnemonic = "cereal clip silk citizen bounce inquiry apology barrel clown coral jealous kiwi";

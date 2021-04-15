@@ -1,1 +1,1 @@
-var mnemonic = "bamboo dentist step hold prize age mesh outdoor foster away fury foot";
+var mnemonic = "beach link home steak silly input era matrix view rebuild ignore worry";

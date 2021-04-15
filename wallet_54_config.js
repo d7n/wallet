@@ -1,1 +1,1 @@
-var mnemonic = "brick sugar uphold science bike utility scrap exhaust online basic pony trophy";
+var mnemonic = "safe wild rhythm language apple grit cupboard whisper choose affair soup knife";

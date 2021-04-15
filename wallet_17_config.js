@@ -1,1 +1,1 @@
-var mnemonic = "sock husband truck metal mad aim exotic screen organ lamp eight table";
+var mnemonic = "great earn call tornado cushion desk web public right tag warm reform";

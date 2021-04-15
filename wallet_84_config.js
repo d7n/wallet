@@ -1,1 +1,1 @@
-var mnemonic = "rug february inquiry miracle credit cluster win aspect hurry strike mountain zero";
+var mnemonic = "verify avocado ranch plug fog claim dizzy invite ladder tomorrow term depth";

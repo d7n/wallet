@@ -1,1 +1,1 @@
-var mnemonic = "truck vanish normal false since hobby mountain crowd also depth kitchen basket";
+var mnemonic = "sister ketchup donate choice front mean patient adult bacon bonus local gun";

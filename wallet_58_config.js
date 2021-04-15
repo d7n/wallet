@@ -1,1 +1,1 @@
-var mnemonic = "hurry wink emerge box impose unit open cruise tragic popular spring clip";
+var mnemonic = "crowd gas ticket rookie example buffalo sadness hunt master orient exist viable";

@@ -1,1 +1,1 @@
-var mnemonic = "nation write web extra elder elite link half pulp mean expose route";
+var mnemonic = "list trophy apple decline voice pelican humor sort rebuild parent category true";

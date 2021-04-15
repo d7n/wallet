@@ -1,1 +1,1 @@
-var mnemonic = "lady powder flock ahead chase garbage panther energy sponsor miss attack once";
+var mnemonic = "season pencil coach will bottom unveil gain later coin coffee steel review";

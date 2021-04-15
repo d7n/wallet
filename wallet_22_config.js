@@ -1,1 +1,1 @@
-var mnemonic = "gaze mesh cruel sport duty combine smile bacon urban lesson cool service";
+var mnemonic = "ancient close sight exist arrest fame girl nuclear helmet woman leisure smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "split excite cherry sight myth glass hero dignity shift lady anxiety glow";
+var mnemonic = "advice rare bone melody design ensure genre patrol clutch ordinary stay because";

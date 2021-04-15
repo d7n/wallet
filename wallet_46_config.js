@@ -1,1 +1,1 @@
-var mnemonic = "reopen vibrant coconut weather come cat lumber concert coffee kit tool dutch";
+var mnemonic = "above torch rival tree vacant current satisfy acoustic sting scale question diary";

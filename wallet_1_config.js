@@ -1,1 +1,1 @@
-var mnemonic = "beauty auto distance attend trap clap urban debate sock search heavy intact";
+var mnemonic = "useful fog alien ring face hour wing moon book globe express merge";

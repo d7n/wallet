@@ -1,1 +1,1 @@
-var mnemonic = "member core quote wet property excess approve item crumble digital monster link";
+var mnemonic = "hello strategy venture nice lava identify knee output brisk sorry cattle uncle";

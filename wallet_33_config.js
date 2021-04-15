@@ -1,1 +1,1 @@
-var mnemonic = "gas start airport angry matrix note surround accident flavor brave second improve";
+var mnemonic = "february isolate avoid eye exhaust practice stem observe gentle valve rifle green";

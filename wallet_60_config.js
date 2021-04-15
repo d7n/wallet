@@ -1,1 +1,1 @@
-var mnemonic = "gospel pudding trend doctor small quit error stumble sunset clean spin layer";
+var mnemonic = "clog mystery paper cactus rich wasp wife portion label orphan imitate pole";

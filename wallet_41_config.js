@@ -1,1 +1,1 @@
-var mnemonic = "recall boy pizza front magnet fun leave pioneer panel lift run answer";
+var mnemonic = "suggest pluck rubber swift capable space story you canal fork powder nasty";

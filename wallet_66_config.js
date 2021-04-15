@@ -1,1 +1,1 @@
-var mnemonic = "doctor cat mean spare tiger life fossil shiver stomach ship night travel";
+var mnemonic = "language panda tonight supreme equip junk shiver orbit summer tonight cook claim";

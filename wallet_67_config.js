@@ -1,1 +1,1 @@
-var mnemonic = "second program elephant film fuel keep shoulder inform club major pudding chronic";
+var mnemonic = "phrase seat plastic arch sister clutch jelly claim village rescue beef sail";

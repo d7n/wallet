@@ -1,1 +1,1 @@
-var mnemonic = "rapid various matrix belt cricket evolve cave rate work helmet puzzle fossil";
+var mnemonic = "panda rain rescue clay hammer balance connect dad alarm despair blanket rib";

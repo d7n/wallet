@@ -1,1 +1,1 @@
-var mnemonic = "size emotion dress census axis evidence picnic wolf habit credit there little";
+var mnemonic = "sunset wheel holiday cigar sure social scene salon catalog desk material clown";

@@ -1,1 +1,1 @@
-var mnemonic = "world seat memory salute olive lake inner device lobster answer ahead gloom";
+var mnemonic = "bench awake media tattoo escape flag fence bean slide soda zoo actress";

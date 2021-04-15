@@ -1,1 +1,1 @@
-var mnemonic = "produce company ribbon zero bargain tuna fashion apple worth banner ridge lake";
+var mnemonic = "gold hospital asthma sustain rhythm decorate arch rail chalk nephew crash already";

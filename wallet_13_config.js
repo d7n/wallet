@@ -1,1 +1,1 @@
-var mnemonic = "zebra obey canal orphan damage silk stove rice category caught false prison";
+var mnemonic = "page swarm family develop resemble much design improve love shadow post tattoo";

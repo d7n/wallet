@@ -1,1 +1,1 @@
-var mnemonic = "book honey gorilla alert hybrid release close acoustic degree vocal try dawn";
+var mnemonic = "crunch furnace armor type good chest observe movie common caught parade disagree";

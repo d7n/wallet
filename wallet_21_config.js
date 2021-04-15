@@ -1,1 +1,1 @@
-var mnemonic = "quantum gauge enforce gym dawn tank guilt spider rose donkey reveal top";
+var mnemonic = "duty agent grab dolphin catalog jacket happy mad ramp hero reunion mushroom";

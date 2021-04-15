@@ -1,1 +1,1 @@
-var mnemonic = "hire pink reform blind section topic lecture void output detail knee citizen";
+var mnemonic = "divide just equip danger goose mother giant assault mixed execute tornado love";

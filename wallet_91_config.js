@@ -1,1 +1,1 @@
-var mnemonic = "endorse click target near point enroll among pulp diary walk vessel lake";
+var mnemonic = "inner wolf receive faint way slam shadow later someone abandon silver review";

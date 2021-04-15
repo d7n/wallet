@@ -1,1 +1,1 @@
-var mnemonic = "glory million end doctor increase tank double cover citizen regular fiscal ritual";
+var mnemonic = "this news peasant cigar crouch raise discover coin electric demand issue junior";

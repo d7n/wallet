@@ -1,1 +1,1 @@
-var mnemonic = "will arch tag snow pencil barely unveil pair canyon usage silver door";
+var mnemonic = "fade crowd smart display either six castle saddle hole thank seed umbrella";

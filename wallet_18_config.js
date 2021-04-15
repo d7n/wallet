@@ -1,1 +1,1 @@
-var mnemonic = "again train orchard rapid plastic warrior pill donate canoe reason siren venture";
+var mnemonic = "vendor metal arena husband sure abandon wool book crack leopard way special";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate review panda brother alien bubble slow october carpet turn enemy excite";
+var mnemonic = "casual slim hard mechanic shoot glare distance receive fruit usage eternal talent";

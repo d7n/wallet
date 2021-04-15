@@ -1,1 +1,1 @@
-var mnemonic = "dice tube zoo royal shell neutral devote turn someone much shoulder dwarf";
+var mnemonic = "kidney carpet behave banner brush copper gather phrase winter obtain chalk knife";

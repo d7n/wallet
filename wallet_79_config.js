@@ -1,1 +1,1 @@
-var mnemonic = "music hole pear deposit salmon science hurdle pistol trim broccoli inmate foster";
+var mnemonic = "lunch whisper cinnamon motor loud rifle like uphold eye demand warm waste";

@@ -1,1 +1,1 @@
-var mnemonic = "million symptom sister horror vintage glory poem board dwarf palm prevent situate";
+var mnemonic = "sun mesh candy own stone recycle toss edge dune gift used cube";

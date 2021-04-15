@@ -1,1 +1,1 @@
-var mnemonic = "rib mansion scrub what cash enroll aisle remain gas obey grain chunk";
+var mnemonic = "ensure enhance equal express company among scrub air seminar immune twice tip";

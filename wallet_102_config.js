@@ -1,1 +1,1 @@
-var mnemonic = "turn post three plastic unlock medal provide tape universe cable primary ski";
+var mnemonic = "cereal expire lock order motion resource travel diet census chief private detect";

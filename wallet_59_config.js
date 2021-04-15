@@ -1,1 +1,1 @@
-var mnemonic = "oak belt mad comic leaf affair decide bridge weekend model security bitter";
+var mnemonic = "imitate survey flee reveal example knock boil put word donate degree size";

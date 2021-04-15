@@ -1,1 +1,1 @@
-var mnemonic = "print major document attack twenty swap portion acquire result sail elite few";
+var mnemonic = "push sadness meadow hood atom giraffe dolphin replace north search time certain";

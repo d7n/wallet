@@ -1,1 +1,1 @@
-var mnemonic = "core artist more voyage green fuel purchase season confirm resemble crunch crumble";
+var mnemonic = "pole box board used army viable school august extend motion smart mango";

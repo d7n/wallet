@@ -1,1 +1,1 @@
-var mnemonic = "relax glare zone fault market sort health apology erosion protect member fabric";
+var mnemonic = "toilet biology humor picnic half february thought treat element alcohol sell sunset";

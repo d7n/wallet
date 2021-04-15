@@ -1,1 +1,1 @@
-var mnemonic = "arm balance pipe check ignore pave mass garlic napkin cute only virus";
+var mnemonic = "tunnel arena address click absent salad torch then birth abandon indoor access";

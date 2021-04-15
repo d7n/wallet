@@ -1,1 +1,1 @@
-var mnemonic = "caution isolate either finger omit tide emotion brother video elephant morning shift";
+var mnemonic = "audit witness clap grace uncover sense banner wet ticket glare bus oval";

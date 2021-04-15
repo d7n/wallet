@@ -1,1 +1,1 @@
-var mnemonic = "crouch woman ketchup core october horse rebuild vivid certain possible join debris";
+var mnemonic = "leg pizza advice insect hurt donate day slight occur forward frost grace";

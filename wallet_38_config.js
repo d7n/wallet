@@ -1,1 +1,1 @@
-var mnemonic = "burger plastic never corn source rabbit symbol property wolf robust domain inhale";
+var mnemonic = "beef soccer open small derive castle village act rail blade crowd practice";

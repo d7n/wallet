@@ -1,1 +1,1 @@
-var mnemonic = "syrup relief become cushion gym reward curious vehicle glare team eyebrow swarm";
+var mnemonic = "pilot tobacco donkey hunt old ethics young shy ability gloom stadium liar";

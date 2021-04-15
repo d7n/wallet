@@ -1,1 +1,1 @@
-var mnemonic = "adapt rebuild rigid destroy lobster deer kitten heart suit laptop pony survey";
+var mnemonic = "town already prefer stumble large neither round mistake easily few light hint";

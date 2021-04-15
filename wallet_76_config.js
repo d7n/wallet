@@ -1,1 +1,1 @@
-var mnemonic = "tissue supply three dolphin bitter work boring must nest once wagon mail";
+var mnemonic = "brave sign silk walk expand hawk father spike under coin kingdom weather";

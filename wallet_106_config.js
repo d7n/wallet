@@ -1,1 +1,1 @@
-var mnemonic = "chapter rose horn basic roast course sniff spice leader breeze gain side";
+var mnemonic = "fruit decrease maple fabric junior warm shallow soda timber amount either cement";

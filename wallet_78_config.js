@@ -1,1 +1,1 @@
-var mnemonic = "there box spike thumb brown wagon safe garage salon jar shine pair";
+var mnemonic = "price need squirrel salon wealth travel honey camp carbon nominee fox dove";

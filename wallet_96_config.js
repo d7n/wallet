@@ -1,1 +1,1 @@
-var mnemonic = "hood language purpose marble hire love fine couch scale waste book nut";
+var mnemonic = "mystery clutch case climb swim world raise announce seek spawn fiscal reject";

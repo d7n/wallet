@@ -1,1 +1,1 @@
-var mnemonic = "ask phrase hold example garbage habit bronze unveil cheese tool check buffalo";
+var mnemonic = "invite island output ancient raise material choice toast trade wagon ball box";

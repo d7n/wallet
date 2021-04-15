@@ -1,1 +1,1 @@
-var mnemonic = "clown seek dune awake wheel device note inquiry invite diary axis real";
+var mnemonic = "relief design biology pony orbit volcano increase window jeans salute network imitate";

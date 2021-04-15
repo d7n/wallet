@@ -1,1 +1,1 @@
-var mnemonic = "saddle arctic motor fire brick tiny coin best swing name token umbrella";
+var mnemonic = "draft industry caught embrace drive survey predict congress usage certain tail lucky";

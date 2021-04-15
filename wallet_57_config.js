@@ -1,1 +1,1 @@
-var mnemonic = "photo useless effort paddle vapor palace lounge angry board scrub nose version";
+var mnemonic = "one sword enable ability announce sad observe hero project pole anxiety cherry";

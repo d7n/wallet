@@ -1,1 +1,1 @@
-var mnemonic = "warm bomb poet sniff evoke cause lizard attend limb genre laundry call";
+var mnemonic = "spirit main this funny wife name wood glove polar desk rival gym";

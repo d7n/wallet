@@ -1,1 +1,1 @@
-var mnemonic = "unfold lumber engage turtle trust clutch puppy federal reject type tenant into";
+var mnemonic = "since garage laundry lucky remain same must aerobic hello insane cement series";

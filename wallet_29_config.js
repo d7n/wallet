@@ -1,1 +1,1 @@
-var mnemonic = "artwork decorate pass scale casino core require column vintage hungry return water";
+var mnemonic = "version awesome video pig april vanish project chimney parrot hair truly glass";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin invite favorite hen mule diagram employ hope warm invite lab check";
+var mnemonic = "inquiry into sunset vibrant number over cry seat truth traffic magnet struggle";

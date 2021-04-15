@@ -1,1 +1,1 @@
-var mnemonic = "kingdom dignity else track impulse joy sort earth alley mix despair actor";
+var mnemonic = "demand angry produce absent depend endless cattle cave card emerge initial jaguar";

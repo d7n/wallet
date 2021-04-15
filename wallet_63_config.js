@@ -1,1 +1,1 @@
-var mnemonic = "boss firm dry victory shy unusual subject mammal twenty resist human interest";
+var mnemonic = "thought erupt dash enemy cruel club strike man correct word foam post";

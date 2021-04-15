@@ -1,1 +1,1 @@
-var mnemonic = "fury illness diagram emotion review reflect bitter local trigger clown illegal across";
+var mnemonic = "issue wheel icon seat lucky spatial ignore matrix feature slush organ shiver";

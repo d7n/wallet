@@ -1,1 +1,1 @@
-var mnemonic = "ability barely vast switch valid battle festival omit turkey scale cradle obscure";
+var mnemonic = "volcano ski extend mutual chaos grass bench student night number ancient suspect";

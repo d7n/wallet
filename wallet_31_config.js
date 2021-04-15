@@ -1,1 +1,1 @@
-var mnemonic = "erupt sustain wall update cute symbol harsh blood barrel they pull win";
+var mnemonic = "convince dinner guitar essay priority tissue prison praise payment drama ginger pilot";

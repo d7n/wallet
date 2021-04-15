@@ -1,1 +1,1 @@
-var mnemonic = "jaguar produce vague fashion cousin mystery erode picnic copy sick toy bomb";
+var mnemonic = "menu machine slender fatigue prison leader quantum fork athlete room dove sun";

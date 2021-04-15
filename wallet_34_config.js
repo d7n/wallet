@@ -1,1 +1,1 @@
-var mnemonic = "drop vivid gas volume dignity sample amused sugar grief seminar canoe permit";
+var mnemonic = "rather diet spread solid creek trumpet mango sand example glass fence ten";

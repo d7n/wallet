@@ -1,1 +1,1 @@
-var mnemonic = "bamboo exercise rug segment upon evolve alert lawn bacon film gasp vibrant";
+var mnemonic = "guitar input sound hen embrace tennis stable soft chapter miracle apart present";

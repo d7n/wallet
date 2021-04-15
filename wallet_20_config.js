@@ -1,1 +1,1 @@
-var mnemonic = "aim theory pledge horror program outdoor size illness select canyon foam feel";
+var mnemonic = "crucial swamp antenna like maze dance suggest plastic labor lock unlock diamond";

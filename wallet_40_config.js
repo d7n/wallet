@@ -1,1 +1,1 @@
-var mnemonic = "rain leisure basket cream rack acoustic uncover tourist quantum media kitchen horror";
+var mnemonic = "harbor near maid orbit hockey identify coyote property slight gate skin update";

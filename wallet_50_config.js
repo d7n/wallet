@@ -1,1 +1,1 @@
-var mnemonic = "mixed delay wolf unfair rely jar mean bounce enhance egg motor prefer";
+var mnemonic = "tone during mistake base animal badge pencil hedgehog trouble grab trial critic";

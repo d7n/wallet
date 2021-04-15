@@ -1,1 +1,1 @@
-var mnemonic = "worth cover discover boat pencil delay alien pipe present body actual balance";
+var mnemonic = "brave wealth type address embody large shy project term gift chicken excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify burger cupboard repeat monster elbow army melt denial much few whale";
+var mnemonic = "render pass tomato ring insect canvas what index style soap owner table";

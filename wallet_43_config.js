@@ -1,1 +1,1 @@
-var mnemonic = "patrol violin peasant claw crowd ability torch answer car sweet develop spy";
+var mnemonic = "blood arm risk excuse final hedgehog mix double drop swap cereal pipe";

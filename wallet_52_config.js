@@ -1,1 +1,1 @@
-var mnemonic = "inherit broom work liquid zebra faculty digital case reopen survey organ sphere";
+var mnemonic = "middle candy letter lesson pilot clog crack find depart demise coil betray";

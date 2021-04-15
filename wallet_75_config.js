@@ -1,1 +1,1 @@
-var mnemonic = "brain install leopard chunk holiday aware evolve harsh relief boost bind poverty";
+var mnemonic = "alone black cereal assume review lava diagram grid buyer believe wall mercy";

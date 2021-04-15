@@ -1,1 +1,1 @@
-var mnemonic = "soft nation chicken forget dial relax column stage main gate ozone base";
+var mnemonic = "eye motion stand ensure mandate dash recall knee vivid real noise south";

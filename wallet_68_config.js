@@ -1,1 +1,1 @@
-var mnemonic = "wool couch sure strike sight bachelor banner fold awful stomach hungry use";
+var mnemonic = "flush helmet session conduct city elephant ride element inspire hedgehog midnight thrive";

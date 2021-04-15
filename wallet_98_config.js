@@ -1,1 +1,1 @@
-var mnemonic = "art scout van repair trial pluck razor joy review shield club adult";
+var mnemonic = "shove charge blur head opinion hawk frog rather climb scorpion connect divorce";

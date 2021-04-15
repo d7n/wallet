@@ -1,1 +1,1 @@
-var mnemonic = "monster hospital coil spare spray hint clap since gravity fossil legal direct";
+var mnemonic = "eager horn detect cube bid maze peace blood gallery double isolate speak";

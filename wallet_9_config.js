@@ -1,1 +1,1 @@
-var mnemonic = "exit ready rural list fever certain coral actual jacket miracle marriage focus";
+var mnemonic = "expand sell since weekend helmet silent toe swallow enemy misery mean seat";

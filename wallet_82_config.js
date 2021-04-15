@@ -1,1 +1,1 @@
-var mnemonic = "dirt frame capable fabric almost current false book token bike proof music";
+var mnemonic = "custom good blade deliver cruise code quit season alarm connect alert wisdom";

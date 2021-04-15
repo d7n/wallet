@@ -1,1 +1,1 @@
-var mnemonic = "exist enroll double sell indicate diesel misery innocent drum phrase squirrel digital";
+var mnemonic = "legend ladder grab lake car weather twelve cement leader abstract shrug walnut";

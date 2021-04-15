@@ -1,1 +1,1 @@
-var mnemonic = "prison split extend rail clip quote bread punch bottom ceiling shadow cable";
+var mnemonic = "zoo body grocery believe basket anger frown marble inform assault unfair still";

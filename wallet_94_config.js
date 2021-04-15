@@ -1,1 +1,1 @@
-var mnemonic = "asset direct laundry refuse pair wink steak squeeze proud spot maple team";
+var mnemonic = "vanish pause athlete coil emotion flash exhibit false round laptop bridge match";

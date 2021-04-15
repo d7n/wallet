@@ -1,1 +1,1 @@
-var mnemonic = "immune winter access slight around strategy diesel silk vital ski lazy quote";
+var mnemonic = "jewel able ability turkey lens sing taxi april bird state vehicle sorry";

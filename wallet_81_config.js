@@ -1,1 +1,1 @@
-var mnemonic = "olympic issue pulse dawn amateur valve debate notice area find army hire";
+var mnemonic = "fossil opera what offer drive blue dinner distance dress defense stay surge";

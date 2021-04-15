@@ -1,1 +1,1 @@
-var mnemonic = "empty record assume health anchor live ugly detect reduce father leave equal";
+var mnemonic = "inspire engage media shock glad climb armed use nature imitate stairs receive";
