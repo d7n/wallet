@@ -1,1 +1,1 @@
-var mnemonic = "almost farm away tube rookie believe green expand bargain famous shy glove";
+var mnemonic = "cabin silly usual actor junior pink ridge include amount once shadow kite";

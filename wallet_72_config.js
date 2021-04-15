@@ -1,1 +1,1 @@
-var mnemonic = "curious enjoy sponsor pig fabric candy glove acquire seat youth search brass";
+var mnemonic = "mobile link timber birth relax tent exist lottery depth soup toast lounge";

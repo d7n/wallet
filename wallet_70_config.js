@@ -1,1 +1,1 @@
-var mnemonic = "cram movie orphan share caught damp sugar six relief steak point aisle";
+var mnemonic = "found useless sting want shallow hood hockey bubble permit seek way coconut";

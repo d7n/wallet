@@ -1,1 +1,1 @@
-var mnemonic = "blast error provide track fitness equal exclude uncle pink peanut turtle smoke";
+var mnemonic = "escape hybrid dry surprise bind coffee cram doctor cereal jelly dad wish";

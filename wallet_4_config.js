@@ -1,1 +1,1 @@
-var mnemonic = "together course nurse attack sea series school prison work now shield slush";
+var mnemonic = "arrive neither curve vanish sport embark boring manage dragon master possible next";

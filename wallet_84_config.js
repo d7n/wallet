@@ -1,1 +1,1 @@
-var mnemonic = "escape unaware welcome lens quick tribe when amount swarm talent chef number";
+var mnemonic = "inform flush away letter fade shop spider eight purpose mail find fade";

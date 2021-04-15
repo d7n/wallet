@@ -1,1 +1,1 @@
-var mnemonic = "dawn tornado repair coil kiss current cause pattern team bag express increase";
+var mnemonic = "matrix silver balance bulk ladder enter prison begin employ what misery pipe";

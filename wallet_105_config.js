@@ -1,1 +1,1 @@
-var mnemonic = "spring arm decrease similar denial summer ethics cash gain spike hamster village";
+var mnemonic = "flag shrug circle hospital mansion mobile ribbon wrestle hurt element cash bean";

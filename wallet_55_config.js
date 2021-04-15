@@ -1,1 +1,1 @@
-var mnemonic = "drink maximum forget piano coffee crazy together submit quiz summer again unusual";
+var mnemonic = "father feed lonely engine approve crisp faculty canal drift supreme crash accident";

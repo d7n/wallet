@@ -1,1 +1,1 @@
-var mnemonic = "museum pole film claw during snack end survey decade butter float luggage";
+var mnemonic = "december rib glass snap victory enemy invest series genuine ankle logic flip";

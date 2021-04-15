@@ -1,1 +1,1 @@
-var mnemonic = "clinic west use off increase taste wink power entire weird useful toss";
+var mnemonic = "decline dance load desert news include shiver army drama produce fabric oval";

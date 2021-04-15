@@ -1,1 +1,1 @@
-var mnemonic = "quarter surprise matter embark among feature pupil plunge swarm duck climb apart";
+var mnemonic = "clay blue half apology weird easy jealous pen hen lawn emerge yellow";

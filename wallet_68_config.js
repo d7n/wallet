@@ -1,1 +1,1 @@
-var mnemonic = "slice bicycle surprise glide never sleep admit climb tobacco soda net height";
+var mnemonic = "little sail aware guitar year scare circle margin used erupt oven differ";

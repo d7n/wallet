@@ -1,1 +1,1 @@
-var mnemonic = "grass domain exchange van couch able invest section square pull food hamster";
+var mnemonic = "broken sunny giraffe skate timber mimic delay receive announce rough crucial power";

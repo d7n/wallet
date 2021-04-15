@@ -1,1 +1,1 @@
-var mnemonic = "matrix clever rookie cloth cream author chunk glare athlete family head census";
+var mnemonic = "unveil camera curious hawk able all dumb vessel equip angle vast special";

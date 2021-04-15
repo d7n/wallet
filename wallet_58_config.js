@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rent humble plate weather pencil bridge neck oyster shop injury chalk";
+var mnemonic = "loan leisure custom sauce million range predict about draft ski audit december";

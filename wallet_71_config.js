@@ -1,1 +1,1 @@
-var mnemonic = "plug motion will bus wisdom try refuse door flower banner foster post";
+var mnemonic = "you describe aunt marriage help stage open vivid street insane clap april";

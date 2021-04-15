@@ -1,1 +1,1 @@
-var mnemonic = "off caught culture outer real mystery bubble float cram mask endorse erupt";
+var mnemonic = "glance young royal coach system right icon payment bomb saddle bridge gun";

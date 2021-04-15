@@ -1,1 +1,1 @@
-var mnemonic = "liberty relax staff lens armor turtle edge walnut climb axis satisfy century";
+var mnemonic = "cute satoshi strike oil liar brown modify test jazz eternal extend dash";

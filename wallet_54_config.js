@@ -1,1 +1,1 @@
-var mnemonic = "front rely ozone typical luggage work refuse actress evoke swallow shop glory";
+var mnemonic = "roof demand purchase mutual cream autumn wagon victory pill labor gas rebel";

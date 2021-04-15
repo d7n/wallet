@@ -1,1 +1,1 @@
-var mnemonic = "possible where monitor vapor slight column muscle joke floor flush text element";
+var mnemonic = "text betray shuffle chat truly gossip inflict submit scheme fire because spirit";

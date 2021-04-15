@@ -1,1 +1,1 @@
-var mnemonic = "dynamic snap infant spend tobacco shadow help steak top tiny pet match";
+var mnemonic = "earth drip salute accuse away skirt vintage fortune slide dune neck arrest";

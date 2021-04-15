@@ -1,1 +1,1 @@
-var mnemonic = "goose coffee lunch moon thought mechanic asthma innocent fatigue width involve relax";
+var mnemonic = "arch pattern broken train jar essay copy border pottery silent pink silver";

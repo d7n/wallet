@@ -1,1 +1,1 @@
-var mnemonic = "bundle license manual globe planet predict indicate measure rule acid main unique";
+var mnemonic = "catch rural pear hamster push laptop crush climb smooth march term champion";

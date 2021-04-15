@@ -1,1 +1,1 @@
-var mnemonic = "common chronic crucial profit six budget craft morning pizza solve hard antique";
+var mnemonic = "ride cream own attract chimney west dash acid manual quote true effort";

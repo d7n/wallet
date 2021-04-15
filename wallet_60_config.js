@@ -1,1 +1,1 @@
-var mnemonic = "stuff abandon rebuild grid combine latin crunch sad wolf blouse there flag";
+var mnemonic = "chief broom boat rice betray globe stand drive kitten ill kitchen pepper";

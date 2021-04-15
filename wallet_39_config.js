@@ -1,1 +1,1 @@
-var mnemonic = "endless broken unaware cost mass forward rhythm biology border parade insane cabbage";
+var mnemonic = "pet scale unable deny trust goat usual second connect cluster expire asthma";

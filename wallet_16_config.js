@@ -1,1 +1,1 @@
-var mnemonic = "find drill under crucial people sail uncover fly real radio father great";
+var mnemonic = "still occur local club ankle bitter define next fuel trumpet blossom believe";

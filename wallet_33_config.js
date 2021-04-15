@@ -1,1 +1,1 @@
-var mnemonic = "hero school slogan pony hire horse coconut popular bus kit coast gasp";
+var mnemonic = "urban museum tackle logic detail clump appear spoil will school afraid park";

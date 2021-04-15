@@ -1,1 +1,1 @@
-var mnemonic = "upset top short critic school frost age fringe upon author sorry awkward";
+var mnemonic = "stove gold wire seek pledge wild riot merry horn quantum flush solution";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic eight before spoon heart attend habit city metal device gate essence";
+var mnemonic = "hover post shield impact aerobic trash night assume topple peanut grape during";

@@ -1,1 +1,1 @@
-var mnemonic = "venue police air box mixed transfer eternal coast solution verb blur gold";
+var mnemonic = "chunk estate cannon police walnut fuel magic good medal donkey wrestle obtain";

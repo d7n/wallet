@@ -1,1 +1,1 @@
-var mnemonic = "public hire quote foam market catch inquiry clog alert general cloth federal";
+var mnemonic = "dizzy deposit corn peace shrug immense tunnel draft eye dilemma pulp universe";

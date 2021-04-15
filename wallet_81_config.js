@@ -1,1 +1,1 @@
-var mnemonic = "dream erupt trade possible orchard purity negative whale gym lamp start just";
+var mnemonic = "alone exhibit sunny swift child congress always laptop delay myself finish real";

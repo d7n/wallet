@@ -1,1 +1,1 @@
-var mnemonic = "magic borrow clever trap cream valley vendor predict mule tenant august bullet";
+var mnemonic = "jungle name animal also chuckle oblige east rigid canal marriage remain candy";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess speak auto edit exchange quick craft scene flight bind tray mixture";
+var mnemonic = "anchor rice six guilt equip smoke laptop rocket child differ output split";

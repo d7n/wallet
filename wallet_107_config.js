@@ -1,1 +1,1 @@
-var mnemonic = "slice doctor result laptop shift mule blue blossom evoke often knock luxury";
+var mnemonic = "despair bulk focus stool easily edge duck gossip rude zone test awake";

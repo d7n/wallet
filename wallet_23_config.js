@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit feed warm add glare mercy giggle swallow differ review glad found";
+var mnemonic = "ill token snake salad choice master weasel elder color visual eager portion";

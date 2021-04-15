@@ -1,1 +1,1 @@
-var mnemonic = "police local flip crash ball holiday flame famous oval motion clown pioneer";
+var mnemonic = "talk they stadium tuition shock swim silk panic flame digital short ranch";

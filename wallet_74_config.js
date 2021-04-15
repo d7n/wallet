@@ -1,1 +1,1 @@
-var mnemonic = "excuse merge man clock light pigeon change deliver beef valid pink crazy";
+var mnemonic = "disagree drama fit trigger fee burden stable mixed aspect bonus wonder brass";

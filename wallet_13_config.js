@@ -1,1 +1,1 @@
-var mnemonic = "name certain open quick phone group sibling educate heart flip where loud";
+var mnemonic = "fold gauge grab strike plunge fiction either obey gap lake until blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "photo regular erupt winner duck attitude multiply draw weapon glare force achieve";
+var mnemonic = "general razor scout confirm dragon govern satisfy claw video salute position cluster";

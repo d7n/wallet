@@ -1,1 +1,1 @@
-var mnemonic = "chief initial romance brick tenant shiver advance address stick retreat annual vessel";
+var mnemonic = "crystal castle satisfy earn athlete filter reflect cream cigar powder fox moral";

@@ -1,1 +1,1 @@
-var mnemonic = "dice plug example guard theme injury message hole joke scatter survey must";
+var mnemonic = "later play forward erase half gift scare light oblige daughter cupboard merit";

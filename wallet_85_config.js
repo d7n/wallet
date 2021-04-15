@@ -1,1 +1,1 @@
-var mnemonic = "saddle task skirt legend cross reopen miracle moment clip sight achieve flee";
+var mnemonic = "response scout language reward oblige village tragic jewel birth century ivory river";

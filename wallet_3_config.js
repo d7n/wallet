@@ -1,1 +1,1 @@
-var mnemonic = "mind left cinnamon legend chest protect safe tenant spider alien decide object";
+var mnemonic = "protect relief family morning industry grid cruel steel sort true supply mention";

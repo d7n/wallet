@@ -1,1 +1,1 @@
-var mnemonic = "penalty month inject summer benefit wheel flush develop deposit secret left source";
+var mnemonic = "dove suffer honey chest sadness work entire exhaust essay current garbage cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm source business ring opinion ten reflect brisk panda unit absurd crew";
+var mnemonic = "elevator setup boil speak pumpkin swap upgrade steak olive delay cherry clarify";

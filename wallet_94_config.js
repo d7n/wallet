@@ -1,1 +1,1 @@
-var mnemonic = "nose dad dinner napkin visit salt bicycle funny alley midnight box gym";
+var mnemonic = "angle bonus blame remove lyrics weird choose baby option neck giraffe obtain";

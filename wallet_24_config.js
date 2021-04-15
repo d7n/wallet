@@ -1,1 +1,1 @@
-var mnemonic = "thunder escape govern loan distance dignity penalty noble since slot life bonus";
+var mnemonic = "narrow surprise blouse coral feed eager sign year ticket wire floor remind";

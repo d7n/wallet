@@ -1,1 +1,1 @@
-var mnemonic = "excite shove mother accident insane load direct humor forward awake early embark";
+var mnemonic = "deliver battle insect twenty horror bone garbage fabric father orchard travel trap";

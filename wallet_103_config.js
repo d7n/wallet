@@ -1,1 +1,1 @@
-var mnemonic = "frozen lion senior borrow risk prevent squirrel faculty soft champion voyage marriage";
+var mnemonic = "build glad fan before shed coyote one snake this bamboo corn pill";

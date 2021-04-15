@@ -1,1 +1,1 @@
-var mnemonic = "cupboard culture kitten dilemma whip hint expose knock color plunge forum work";
+var mnemonic = "settle attitude message honey street odor east bring miss answer ball desert";

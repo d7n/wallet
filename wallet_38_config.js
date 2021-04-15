@@ -1,1 +1,1 @@
-var mnemonic = "cute client finish blue payment protect swing lemon disease beyond hurdle enough";
+var mnemonic = "frown lawsuit wonder marine toy exhaust fragile must square cereal quality palm";

@@ -1,1 +1,1 @@
-var mnemonic = "supply rice kingdom cotton exclude olympic deliver donor spring amateur churn oppose";
+var mnemonic = "increase frog race define cruel heavy volcano color rule elbow smile scan";

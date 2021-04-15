@@ -1,1 +1,1 @@
-var mnemonic = "same inner april ignore estate situate grass obscure spot play soup someone";
+var mnemonic = "recipe lucky layer enhance heart wild cradle vicious hub dinner blouse sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote oblige cart torch olive erosion inherit anchor into defy people diet";
+var mnemonic = "pledge amused across tiger then subway income alarm left add throw crash";

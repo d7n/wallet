@@ -1,1 +1,1 @@
-var mnemonic = "voice drill mushroom senior dinner aerobic roast plug bachelor oxygen deputy critic";
+var mnemonic = "illegal car provide chef maid bike broom way hood glide slot garden";

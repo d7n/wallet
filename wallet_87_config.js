@@ -1,1 +1,1 @@
-var mnemonic = "cigar pipe bone unlock hole need cereal antique sustain employ ginger ridge";
+var mnemonic = "express obvious urban lemon decide nothing celery verb syrup dragon earth frequent";

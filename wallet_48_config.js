@@ -1,1 +1,1 @@
-var mnemonic = "oxygen foam glass husband effort humor east saddle virus memory shield destroy";
+var mnemonic = "celery virtual canyon comfort speak inmate opera athlete idle scan ensure shadow";

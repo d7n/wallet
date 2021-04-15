@@ -1,1 +1,1 @@
-var mnemonic = "eternal episode update put error over small effort hour improve twenty brand";
+var mnemonic = "join crouch zero dynamic hammer merry strategy author coach entire search all";

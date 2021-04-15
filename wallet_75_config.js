@@ -1,1 +1,1 @@
-var mnemonic = "boost audit loan spend gift motor beauty tunnel misery prison awake brand";
+var mnemonic = "double onion slot remain abstract walnut drip salmon perfect father credit olive";

@@ -1,1 +1,1 @@
-var mnemonic = "slot extra capital brisk stage salute hire legend text cluster balcony cost";
+var mnemonic = "holiday grid garment ghost negative bus cook afraid abuse pilot return crowd";

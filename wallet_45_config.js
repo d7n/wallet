@@ -1,1 +1,1 @@
-var mnemonic = "select shy will another custom nature sort pupil legal boost wave current";
+var mnemonic = "coil park dress female axis upgrade coconut thrive gap weekend elephant order";

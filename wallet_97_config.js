@@ -1,1 +1,1 @@
-var mnemonic = "sibling thought brother broken wing abuse fuel best act under trick auto";
+var mnemonic = "claim piece goat ketchup burger emotion can that debris attend gold toy";

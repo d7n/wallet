@@ -1,1 +1,1 @@
-var mnemonic = "tuna announce galaxy steel cereal useless meadow fall kiwi fun carry clip";
+var mnemonic = "churn category build grant various another width swift decide office earth lumber";

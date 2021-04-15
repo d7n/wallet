@@ -1,1 +1,1 @@
-var mnemonic = "half mind lock scrap under clerk giraffe organ length quarter polar mother";
+var mnemonic = "fresh assume reward multiply rabbit series annual patient weird dice guitar model";

@@ -1,1 +1,1 @@
-var mnemonic = "they escape dress voyage sport process frozen gesture decorate scare rigid sail";
+var mnemonic = "device crouch engine lunch sunny average damage senior best month chimney mansion";

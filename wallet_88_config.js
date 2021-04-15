@@ -1,1 +1,1 @@
-var mnemonic = "draft gauge come then follow century model potato bonus leave about goat";
+var mnemonic = "owner omit gold reject suit lift salmon someone mouse process nominee ramp";

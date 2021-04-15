@@ -1,1 +1,1 @@
-var mnemonic = "upgrade devote abandon town super fatigue elite corn duck pigeon slender belt";
+var mnemonic = "grid fee angle region stable bronze half honey type spoil change velvet";

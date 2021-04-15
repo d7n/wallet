@@ -1,1 +1,1 @@
-var mnemonic = "toe unit word echo rule giggle mimic flush outer kite body essence";
+var mnemonic = "noodle slow slight vibrant second piece stay address motion again into van";

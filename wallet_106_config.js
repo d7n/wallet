@@ -1,1 +1,1 @@
-var mnemonic = "disease salt useless eagle tourist airport live actual smart orient dwarf umbrella";
+var mnemonic = "silver select ill like list retire gallery merge over belt mule room";

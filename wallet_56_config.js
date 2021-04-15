@@ -1,1 +1,1 @@
-var mnemonic = "sponsor celery desk daring call chat balcony water brief cannon file catalog";
+var mnemonic = "stairs tuna cloud have unique tank army effort chronic invite erosion hurdle";

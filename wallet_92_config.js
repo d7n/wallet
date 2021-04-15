@@ -1,1 +1,1 @@
-var mnemonic = "clay harsh sure bring hurt lens tenant drink again slush region need";
+var mnemonic = "abstract sleep dance fatigue page auction soda better six empower honey innocent";

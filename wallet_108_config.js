@@ -1,1 +1,1 @@
-var mnemonic = "soap race eternal system maximum magnet unlock bitter angle busy street task";
+var mnemonic = "wrong plastic lottery duck manual solar trash decline breeze hover glue mouse";

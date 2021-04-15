@@ -1,1 +1,1 @@
-var mnemonic = "tomato round entry crumble drastic erupt milk patient dance climb pizza arena";
+var mnemonic = "blind boil river quarter license remove alarm what lyrics wire shy uphold";

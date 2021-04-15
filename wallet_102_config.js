@@ -1,1 +1,1 @@
-var mnemonic = "will topic close vessel gallery vast success muffin brisk vacuum measure anger";
+var mnemonic = "inmate alarm soda license popular hard crane wet viable outdoor actress chat";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf enroll swarm gas behind village escape solve gold dog else cannon";
+var mnemonic = "keen toddler dance reward toilet agent vivid panda hollow puppy garment figure";

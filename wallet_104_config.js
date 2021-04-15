@@ -1,1 +1,1 @@
-var mnemonic = "dawn atom salad try wool resist neutral cannon trap boat leave beef";
+var mnemonic = "pizza glimpse cost element cactus arrow idle gasp congress trash toy thumb";

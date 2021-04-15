@@ -1,1 +1,1 @@
-var mnemonic = "replace advance music knife love rescue glance exile misery humor expect happy";
+var mnemonic = "wage pilot melt desert discover pair series render still quiz walk light";

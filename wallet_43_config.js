@@ -1,1 +1,1 @@
-var mnemonic = "shove awful topple field cargo member follow arena another neutral setup swing";
+var mnemonic = "grit path bubble loud moment staff later night maze faith gift kid";

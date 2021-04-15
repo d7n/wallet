@@ -1,1 +1,1 @@
-var mnemonic = "into dog check bacon dust hint negative alley foster fame debris attitude";
+var mnemonic = "erupt exile undo position cram gift fuel onion knock deputy ozone trust";

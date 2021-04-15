@@ -1,1 +1,1 @@
-var mnemonic = "agree luggage scene mad amateur duty tuition diet crouch puppy enter drift";
+var mnemonic = "unable despair dust then hospital danger smoke recall dwarf sphere congress access";

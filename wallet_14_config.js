@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo foam now claw tissue album eyebrow reunion proof find clip era";
+var mnemonic = "dignity shoe crowd hold design tongue twist sniff wire wear wonder client";

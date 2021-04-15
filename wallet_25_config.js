@@ -1,1 +1,1 @@
-var mnemonic = "wheat library dentist rural describe train occur outer taxi settle gift erosion";
+var mnemonic = "toast hole soul move shield about neglect faculty congress lawsuit seven ranch";

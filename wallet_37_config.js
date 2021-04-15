@@ -1,1 +1,1 @@
-var mnemonic = "child bird glare enact weird earth rather eternal speak minimum audit ozone";
+var mnemonic = "penalty sail early choice like glimpse welcome pretty smile south present gather";

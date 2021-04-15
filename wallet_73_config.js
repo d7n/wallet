@@ -1,1 +1,1 @@
-var mnemonic = "empower basket palm orchard primary gap shy film admit frost remove poet";
+var mnemonic = "cloth kind glue dirt deal state maximum level coast face trigger noble";

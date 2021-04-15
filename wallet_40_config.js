@@ -1,1 +1,1 @@
-var mnemonic = "object have item height link armed grid bike left leader bus double";
+var mnemonic = "machine front squirrel blur feature pretty board apart future maple kingdom brave";

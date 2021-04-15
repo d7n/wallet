@@ -1,1 +1,1 @@
-var mnemonic = "drive gate juice frost expose program rather matrix common unaware north figure";
+var mnemonic = "picnic rebuild seed breeze sting dynamic tuition height shed insane dutch recycle";

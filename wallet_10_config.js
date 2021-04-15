@@ -1,1 +1,1 @@
-var mnemonic = "sting antique cage decline myself dish bargain shy green lyrics oblige ladder";
+var mnemonic = "sentence weapon extend stamp team suggest victory shoe february curtain chaos oak";

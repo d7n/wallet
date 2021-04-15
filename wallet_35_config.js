@@ -1,1 +1,1 @@
-var mnemonic = "oak limit funny alien saddle acoustic hazard purpose pole stairs asthma noble";
+var mnemonic = "foster father include foam fuel arrest thank neither brave verify there feature";
