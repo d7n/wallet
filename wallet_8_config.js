@@ -1,1 +1,1 @@
-var mnemonic = "gasp rain market remember opera ancient bench morning aware sure victory wonder";
+var mnemonic = "indicate review panda brother alien bubble slow october carpet turn enemy excite";

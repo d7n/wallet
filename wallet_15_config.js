@@ -1,1 +1,1 @@
-var mnemonic = "purse blame normal current trial ghost plunge cash unlock weather achieve primary";
+var mnemonic = "december wild knock oppose random option school assume error million stumble brass";

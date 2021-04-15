@@ -1,1 +1,1 @@
-var mnemonic = "advance solution tired virus churn arrest wear analyst upon rabbit drip equip";
+var mnemonic = "print major document attack twenty swap portion acquire result sail elite few";

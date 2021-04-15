@@ -1,1 +1,1 @@
-var mnemonic = "chaos purpose road bone rude found tomato bar seed shy near mail";
+var mnemonic = "monster hospital coil spare spray hint clap since gravity fossil legal direct";

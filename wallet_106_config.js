@@ -1,1 +1,1 @@
-var mnemonic = "path gospel visual cushion job guitar change cruise tuna limit donkey ramp";
+var mnemonic = "chapter rose horn basic roast course sniff spice leader breeze gain side";

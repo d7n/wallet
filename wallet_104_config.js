@@ -1,1 +1,1 @@
-var mnemonic = "crouch document force toss blush inmate nothing pioneer dog fiction weather kangaroo";
+var mnemonic = "million symptom sister horror vintage glory poem board dwarf palm prevent situate";

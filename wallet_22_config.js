@@ -1,1 +1,1 @@
-var mnemonic = "feed group select boil quit chef february pole hub coyote help cup";
+var mnemonic = "gaze mesh cruel sport duty combine smile bacon urban lesson cool service";

@@ -1,1 +1,1 @@
-var mnemonic = "present cart social moral film correct outdoor siege bubble portion method seven";
+var mnemonic = "patrol violin peasant claw crowd ability torch answer car sweet develop spy";

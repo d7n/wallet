@@ -1,1 +1,1 @@
-var mnemonic = "sentence pilot devote garment flight math ripple practice talk whisper hotel twelve";
+var mnemonic = "expand replace wall pudding armed violin clutch banana rose notable ship syrup";

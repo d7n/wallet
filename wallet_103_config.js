@@ -1,1 +1,1 @@
-var mnemonic = "slide sea banner garden kidney smooth distance expand crisp story cereal acoustic";
+var mnemonic = "wife riot dice situate slogan robust memory people model various craft evidence";

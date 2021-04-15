@@ -1,1 +1,1 @@
-var mnemonic = "empower setup cancel exist purchase flight royal fine thought excuse next response";
+var mnemonic = "nominee resource cream nurse pause color empty excuse surround impulse gossip evoke";

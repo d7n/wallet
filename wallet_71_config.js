@@ -1,1 +1,1 @@
-var mnemonic = "dwarf victory feel hawk dry plate eyebrow april swap response violin dry";
+var mnemonic = "truck vanish normal false since hobby mountain crowd also depth kitchen basket";

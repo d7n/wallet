@@ -1,1 +1,1 @@
-var mnemonic = "addict guitar meat debris pudding garment enforce movie argue creek effort comfort";
+var mnemonic = "hip finger tragic practice choose denial truck bread web evolve ticket style";

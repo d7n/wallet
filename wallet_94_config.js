@@ -1,1 +1,1 @@
-var mnemonic = "knock fog rule hazard genius gasp erode find bring like leaf lunar";
+var mnemonic = "asset direct laundry refuse pair wink steak squeeze proud spot maple team";

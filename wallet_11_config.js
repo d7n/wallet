@@ -1,1 +1,1 @@
-var mnemonic = "harsh name glance still flock garlic frost trick nephew govern drill slim";
+var mnemonic = "immune winter access slight around strategy diesel silk vital ski lazy quote";

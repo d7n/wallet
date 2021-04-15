@@ -1,1 +1,1 @@
-var mnemonic = "defy unaware deer arrive device affair task melt piano expose sheriff cart";
+var mnemonic = "strategy mail trim merge rubber check reject stuff loud fix service multiply";

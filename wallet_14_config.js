@@ -1,1 +1,1 @@
-var mnemonic = "link frown tooth across clean civil fox portion estate shift attract pause";
+var mnemonic = "dice tube zoo royal shell neutral devote turn someone much shoulder dwarf";

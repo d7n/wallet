@@ -1,1 +1,1 @@
-var mnemonic = "powder seven impulse old cousin lounge link focus bubble tilt sort desk";
+var mnemonic = "rug february inquiry miracle credit cluster win aspect hurry strike mountain zero";

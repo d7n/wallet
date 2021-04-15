@@ -1,1 +1,1 @@
-var mnemonic = "lobster barely clerk shed actress engage side field predict control team unfold";
+var mnemonic = "mechanic vicious burst high kiwi truck tired scheme castle slice split south";

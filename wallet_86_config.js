@@ -1,1 +1,1 @@
-var mnemonic = "produce music caught change gate giggle benefit issue wife emotion autumn aim";
+var mnemonic = "local supreme forward wash vehicle verb want tenant novel cruel kite process";

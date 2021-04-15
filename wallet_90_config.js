@@ -1,1 +1,1 @@
-var mnemonic = "cotton edit indicate village coin true omit script pluck mean slam candy";
+var mnemonic = "soft nation chicken forget dial relax column stage main gate ozone base";

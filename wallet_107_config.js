@@ -1,1 +1,1 @@
-var mnemonic = "know measure soft car vault hero waste board salmon stand diary beauty";
+var mnemonic = "exist enroll double sell indicate diesel misery innocent drum phrase squirrel digital";

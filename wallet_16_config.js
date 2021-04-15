@@ -1,1 +1,1 @@
-var mnemonic = "lizard forum whale chunk suit canal betray pitch gauge draw raise anger";
+var mnemonic = "across goat avocado morning defy dance network route claim fat smoke chaos";

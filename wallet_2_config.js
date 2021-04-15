@@ -1,1 +1,1 @@
-var mnemonic = "outside era cargo purse maid pumpkin hint civil devote cause wing card";
+var mnemonic = "will arch tag snow pencil barely unveil pair canyon usage silver door";

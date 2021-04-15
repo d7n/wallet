@@ -1,1 +1,1 @@
-var mnemonic = "approve middle result knife rhythm motor now silk pride about spread stomach";
+var mnemonic = "rain leisure basket cream rack acoustic uncover tourist quantum media kitchen horror";

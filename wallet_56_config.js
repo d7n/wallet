@@ -1,1 +1,1 @@
-var mnemonic = "safe language moment follow enroll harsh bomb useful invest tornado appear walk";
+var mnemonic = "bamboo dentist step hold prize age mesh outdoor foster away fury foot";

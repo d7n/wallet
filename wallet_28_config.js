@@ -1,1 +1,1 @@
-var mnemonic = "later pudding must debris small junk domain tool creek deny account alley";
+var mnemonic = "ability visa harbor bundle vicious enrich erase spawn toast cupboard leave pizza";

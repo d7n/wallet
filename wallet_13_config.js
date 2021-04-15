@@ -1,1 +1,1 @@
-var mnemonic = "habit afford hungry business useful measure hamster piece upset equip soul relax";
+var mnemonic = "zebra obey canal orphan damage silk stove rice category caught false prison";

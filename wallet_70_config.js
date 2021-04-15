@@ -1,1 +1,1 @@
-var mnemonic = "ship peanut merit gather business earth weather market thumb gentle dawn bridge";
+var mnemonic = "hire pink reform blind section topic lecture void output detail knee citizen";

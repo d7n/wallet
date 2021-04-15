@@ -1,1 +1,1 @@
-var mnemonic = "moral protect grain fortune merry idea same abandon mutual tongue live daring";
+var mnemonic = "oak belt mad comic leaf affair decide bridge weekend model security bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "pause soon country cattle march knee collect sting evoke labor best nominee";
+var mnemonic = "there box spike thumb brown wagon safe garage salon jar shine pair";

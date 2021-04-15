@@ -1,1 +1,1 @@
-var mnemonic = "cycle daughter rare gospel visual pizza smooth donkey struggle settle success frost";
+var mnemonic = "wool couch sure strike sight bachelor banner fold awful stomach hungry use";

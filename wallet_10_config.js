@@ -1,1 +1,1 @@
-var mnemonic = "another quit onion language apart snap solid dolphin betray super trust else";
+var mnemonic = "fury illness diagram emotion review reflect bitter local trigger clown illegal across";

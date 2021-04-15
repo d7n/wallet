@@ -1,1 +1,1 @@
-var mnemonic = "uphold tower topic stuff tuition palace gorilla recall mix mind trouble misery";
+var mnemonic = "unfold lumber engage turtle trust clutch puppy federal reject type tenant into";

@@ -1,1 +1,1 @@
-var mnemonic = "pact immune unfold clever box river mansion there dad company soon organ";
+var mnemonic = "answer valley climb vacuum purse lab jar excite act fat useful real";

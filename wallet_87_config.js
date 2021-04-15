@@ -1,1 +1,1 @@
-var mnemonic = "over basket mouse thank feed fun prison federal chunk carbon battle disease";
+var mnemonic = "world seat memory salute olive lake inner device lobster answer ahead gloom";

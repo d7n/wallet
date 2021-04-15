@@ -1,1 +1,1 @@
-var mnemonic = "text wealth social glide round slot miracle vocal cradle mimic cotton nation";
+var mnemonic = "inhale pistol focus please prefer taxi devote seat glow hungry pill furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "evil slogan foam sting skirt dial devote upper obvious monkey swift attack";
+var mnemonic = "photo useless effort paddle vapor palace lounge angry board scrub nose version";

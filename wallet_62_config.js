@@ -1,1 +1,1 @@
-var mnemonic = "analyst clown way blade invest kidney short road bundle announce cereal verb";
+var mnemonic = "glory million end doctor increase tank double cover citizen regular fiscal ritual";

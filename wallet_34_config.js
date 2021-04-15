@@ -1,1 +1,1 @@
-var mnemonic = "detect post onion artist alone they eye swap flock wait sauce goose";
+var mnemonic = "drop vivid gas volume dignity sample amused sugar grief seminar canoe permit";

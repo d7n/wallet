@@ -1,1 +1,1 @@
-var mnemonic = "salt type indoor title coach exist music ask prevent save sun wine";
+var mnemonic = "core artist more voyage green fuel purchase season confirm resemble crunch crumble";

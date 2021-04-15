@@ -1,1 +1,1 @@
-var mnemonic = "nuclear feel question hurdle normal first arrange abandon wolf alarm news trade";
+var mnemonic = "book honey gorilla alert hybrid release close acoustic degree vocal try dawn";

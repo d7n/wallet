@@ -1,1 +1,1 @@
-var mnemonic = "panic whip annual lamp cute gossip result clock city onion park vital";
+var mnemonic = "relax glare zone fault market sort health apology erosion protect member fabric";

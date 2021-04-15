@@ -1,1 +1,1 @@
-var mnemonic = "bamboo kiwi popular drift eternal tube prize piece silly fiction hover jaguar";
+var mnemonic = "burger plastic never corn source rabbit symbol property wolf robust domain inhale";

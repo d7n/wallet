@@ -1,1 +1,1 @@
-var mnemonic = "trap breeze donkey eager flee enough weekend wrong fan swear advice oval";
+var mnemonic = "ask phrase hold example garbage habit bronze unveil cheese tool check buffalo";

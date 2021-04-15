@@ -1,1 +1,1 @@
-var mnemonic = "crime month neglect blame market badge version toilet quarter fame bleak cupboard";
+var mnemonic = "doctor cat mean spare tiger life fossil shiver stomach ship night travel";

@@ -1,1 +1,1 @@
-var mnemonic = "snake hockey merit demand link belt blind box shadow uncle tobacco object";
+var mnemonic = "olympic issue pulse dawn amateur valve debate notice area find army hire";

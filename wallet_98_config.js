@@ -1,1 +1,1 @@
-var mnemonic = "stadium weasel aerobic cancel rigid cream bachelor sunny young lion cause segment";
+var mnemonic = "art scout van repair trial pluck razor joy review shield club adult";

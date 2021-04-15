@@ -1,1 +1,1 @@
-var mnemonic = "notice access junior inflict tooth thrive furnace cheap predict believe decrease fame";
+var mnemonic = "beauty auto distance attend trap clap urban debate sock search heavy intact";

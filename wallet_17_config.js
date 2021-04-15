@@ -1,1 +1,1 @@
-var mnemonic = "cupboard grass bicycle hybrid abuse universe file fetch pottery cost print capital";
+var mnemonic = "sock husband truck metal mad aim exotic screen organ lamp eight table";

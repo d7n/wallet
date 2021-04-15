@@ -1,1 +1,1 @@
-var mnemonic = "mask faint stadium erosion scan soap toss demand hill drama pumpkin half";
+var mnemonic = "prison split extend rail clip quote bread punch bottom ceiling shadow cable";

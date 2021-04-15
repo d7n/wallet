@@ -1,1 +1,1 @@
-var mnemonic = "dice solar cabbage valve true invest ticket act inmate scatter load sponsor";
+var mnemonic = "crouch woman ketchup core october horse rebuild vivid certain possible join debris";

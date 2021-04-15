@@ -1,1 +1,1 @@
-var mnemonic = "private spider antique rib hair board gasp scrub sister phrase slight online";
+var mnemonic = "produce company ribbon zero bargain tuna fashion apple worth banner ridge lake";

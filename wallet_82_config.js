@@ -1,1 +1,1 @@
-var mnemonic = "please inmate toilet park neck festival orbit recipe wealth advance recycle riot";
+var mnemonic = "dirt frame capable fabric almost current false book token bike proof music";

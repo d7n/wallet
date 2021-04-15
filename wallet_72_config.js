@@ -1,1 +1,1 @@
-var mnemonic = "bar door what base kangaroo ridge axis mountain engage fetch stand point";
+var mnemonic = "warm bomb poet sniff evoke cause lizard attend limb genre laundry call";

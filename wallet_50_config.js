@@ -1,1 +1,1 @@
-var mnemonic = "sister either click nut apple cabbage assist scout neck oblige aspect convince";
+var mnemonic = "mixed delay wolf unfair rely jar mean bounce enhance egg motor prefer";

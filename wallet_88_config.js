@@ -1,1 +1,1 @@
-var mnemonic = "cloud click glove eternal hazard debate ordinary response solid hunt appear web";
+var mnemonic = "ability barely vast switch valid battle festival omit turkey scale cradle obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor slice clip slice genre drop arrest damp vital olive auction scare";
+var mnemonic = "engine game salute volume clay warrior wreck language corn struggle river train";

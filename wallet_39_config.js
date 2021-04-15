@@ -1,1 +1,1 @@
-var mnemonic = "hazard please vanish trumpet gossip liquid answer fix athlete control soon catalog";
+var mnemonic = "clown seek dune awake wheel device note inquiry invite diary axis real";

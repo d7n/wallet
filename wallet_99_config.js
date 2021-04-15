@@ -1,1 +1,1 @@
-var mnemonic = "spell marriage chalk tortoise random cluster brown perfect loop era social casual";
+var mnemonic = "gasp hire oval control menu blue sand silent still social surface slide";

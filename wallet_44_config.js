@@ -1,1 +1,1 @@
-var mnemonic = "such hidden differ lamp unknown asset major smart arrest toward match calm";
+var mnemonic = "lady powder flock ahead chase garbage panther energy sponsor miss attack once";

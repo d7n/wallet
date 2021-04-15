@@ -1,1 +1,1 @@
-var mnemonic = "dawn plastic kind error coral hobby cabbage wear fix marble ripple shoot";
+var mnemonic = "boss firm dry victory shy unusual subject mammal twenty resist human interest";

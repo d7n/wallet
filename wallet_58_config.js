@@ -1,1 +1,1 @@
-var mnemonic = "member can spring engage potato antique ready bulb idea tuna cave great";
+var mnemonic = "hurry wink emerge box impose unit open cruise tragic popular spring clip";

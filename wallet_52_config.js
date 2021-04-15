@@ -1,1 +1,1 @@
-var mnemonic = "jump melt trap tip scatter emotion display vehicle prevent cotton wonder involve";
+var mnemonic = "inherit broom work liquid zebra faculty digital case reopen survey organ sphere";

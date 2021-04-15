@@ -1,1 +1,1 @@
-var mnemonic = "aim embody business sing tiny castle radio merry bamboo fade hand please";
+var mnemonic = "gospel pudding trend doctor small quit error stumble sunset clean spin layer";

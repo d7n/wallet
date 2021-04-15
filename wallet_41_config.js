@@ -1,1 +1,1 @@
-var mnemonic = "fall used blood monitor damage thrive prepare absorb unaware lend ordinary split";
+var mnemonic = "recall boy pizza front magnet fun leave pioneer panel lift run answer";

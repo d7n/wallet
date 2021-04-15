@@ -1,1 +1,1 @@
-var mnemonic = "figure depend pistol suggest process ill expand myself shift canyon road brother";
+var mnemonic = "rib mansion scrub what cash enroll aisle remain gas obey grain chunk";

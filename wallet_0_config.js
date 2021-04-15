@@ -1,1 +1,1 @@
-var mnemonic = "huge iron wage random diagram near spend hockey record load resemble element";
+var mnemonic = "member core quote wet property excess approve item crumble digital monster link";

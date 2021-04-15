@@ -1,1 +1,1 @@
-var mnemonic = "hard mercy elder fix year prepare employ blouse basic light divide amount";
+var mnemonic = "artwork decorate pass scale casino core require column vintage hungry return water";

@@ -1,1 +1,1 @@
-var mnemonic = "hope device assist put wrestle tunnel tray aspect kitchen lake luggage another";
+var mnemonic = "account bread globe draft gown loan safe indoor tornado offer baby grow";

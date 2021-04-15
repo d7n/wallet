@@ -1,1 +1,1 @@
-var mnemonic = "appear thumb royal dry immune choose dune sunset please abandon resemble valve";
+var mnemonic = "forget warm brother kiss scout daughter wood spend trade opera fence ribbon";

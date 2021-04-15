@@ -1,1 +1,1 @@
-var mnemonic = "artwork divorce curtain level advice club salad layer roof bus keep leisure";
+var mnemonic = "split excite cherry sight myth glass hero dignity shift lady anxiety glow";

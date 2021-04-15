@@ -1,1 +1,1 @@
-var mnemonic = "device foster lyrics night ability misery over boy now lunch donkey grow";
+var mnemonic = "bamboo exercise rug segment upon evolve alert lawn bacon film gasp vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon angle polar drift bamboo cause object evoke dial typical sound mountain";
+var mnemonic = "hold belt visit sea assault flavor source erase priority used speak vital";

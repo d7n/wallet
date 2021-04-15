@@ -1,1 +1,1 @@
-var mnemonic = "lizard length wise boil become luggage gaze chalk mammal salt make march";
+var mnemonic = "shock frog food ski maid pupil combine napkin worry expose pizza vault";

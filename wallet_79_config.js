@@ -1,1 +1,1 @@
-var mnemonic = "bean front lesson border welcome width damp balance yard spatial rail ozone";
+var mnemonic = "music hole pear deposit salmon science hurdle pistol trim broccoli inmate foster";

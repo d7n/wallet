@@ -1,1 +1,1 @@
-var mnemonic = "survey project bulb doctor butter flight achieve shock improve minute cloth test";
+var mnemonic = "hood language purpose marble hire love fine couch scale waste book nut";

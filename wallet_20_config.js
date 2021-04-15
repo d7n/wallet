@@ -1,1 +1,1 @@
-var mnemonic = "suggest dwarf brick system grow either mind distance brass fresh beauty depend";
+var mnemonic = "aim theory pledge horror program outdoor size illness select canyon foam feel";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit volume leader shy hint all dream dog steak gather flower frog";
+var mnemonic = "nation write web extra elder elite link half pulp mean expose route";

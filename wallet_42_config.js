@@ -1,1 +1,1 @@
-var mnemonic = "escape festival skate slab truly dad lens frozen skirt breeze obscure length";
+var mnemonic = "kingdom dignity else track impulse joy sort earth alley mix despair actor";

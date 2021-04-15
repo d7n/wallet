@@ -1,1 +1,1 @@
-var mnemonic = "web kidney must pet frown dog entire steel brush sadness puppy replace";
+var mnemonic = "advance surge afford health lab boy fresh choose mountain can fault another";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract tool enact track interest sound body perfect hospital source rent brass";
+var mnemonic = "quantum gauge enforce gym dawn tank guilt spider rose donkey reveal top";

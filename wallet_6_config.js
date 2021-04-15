@@ -1,1 +1,1 @@
-var mnemonic = "burst drastic skirt renew drip spice drop void panel wide lava fashion";
+var mnemonic = "syrup relief become cushion gym reward curious vehicle glare team eyebrow swarm";

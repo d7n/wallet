@@ -1,1 +1,1 @@
-var mnemonic = "friend lion taste lunar angry blossom deal talk demand tuition clip foam";
+var mnemonic = "turn post three plastic unlock medal provide tape universe cable primary ski";

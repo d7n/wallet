@@ -1,1 +1,1 @@
-var mnemonic = "aerobic genius conduct room story leopard someone empower force virtual river high";
+var mnemonic = "size emotion dress census axis evidence picnic wolf habit credit there little";

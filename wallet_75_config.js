@@ -1,1 +1,1 @@
-var mnemonic = "lucky drop express wink rib erupt race leisure occur scale bridge media";
+var mnemonic = "brain install leopard chunk holiday aware evolve harsh relief boost bind poverty";
