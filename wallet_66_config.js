@@ -1,1 +1,1 @@
-var mnemonic = "trouble couple guess remove real blast friend sunny captain occur top easily";
+var mnemonic = "clarify pledge meat that pact favorite monkey cattle bargain butter extend certain";

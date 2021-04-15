@@ -1,1 +1,1 @@
-var mnemonic = "list close slot mention effort rice blush reunion core remind average present";
+var mnemonic = "eager wisdom question spend stock elevator carpet input click repeat summer curtain";

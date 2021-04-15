@@ -1,1 +1,1 @@
-var mnemonic = "wrap add cruel planet drum obtain attend course foster broom elbow pipe";
+var mnemonic = "occur coyote topic smooth bonus cricket minimum vapor disagree swim action help";

@@ -1,1 +1,1 @@
-var mnemonic = "album kiss suit erase rigid nephew local uniform energy foil atom army";
+var mnemonic = "glue video valley victory audit stock village private bring wall bless among";

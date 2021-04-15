@@ -1,1 +1,1 @@
-var mnemonic = "entire park sphere sport cause focus bomb risk act autumn common ancient";
+var mnemonic = "dune crisp thumb tornado insane invest remain wide inch february hat gravity";

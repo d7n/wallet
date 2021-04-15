@@ -1,1 +1,1 @@
-var mnemonic = "congress toast behind crack tonight neglect whisper stadium major brother choose term";
+var mnemonic = "between congress marine warm patient limb sweet waste piano feature pen resemble";

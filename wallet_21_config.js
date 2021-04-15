@@ -1,1 +1,1 @@
-var mnemonic = "menu banana future combine clever minute various panel park must banana deal";
+var mnemonic = "crunch scissors cart ignore pet rely increase bench switch claw nation member";

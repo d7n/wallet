@@ -1,1 +1,1 @@
-var mnemonic = "deer second success provide position fuel melt liquid plunge cradle knock feature";
+var mnemonic = "shock leg hat urban ostrich busy regular clog spring scene dream lava";

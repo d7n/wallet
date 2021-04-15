@@ -1,1 +1,1 @@
-var mnemonic = "soldier actual flight flip lunch salt review cram year license hair round";
+var mnemonic = "cargo team robot text exercise cruel project recycle collect champion neglect limit";

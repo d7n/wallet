@@ -1,1 +1,1 @@
-var mnemonic = "elephant avocado conduct review husband violin edit direct soldier multiply pepper loop";
+var mnemonic = "talent verb focus cargo speed machine kidney novel plunge someone actual enemy";

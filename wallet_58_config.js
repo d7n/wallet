@@ -1,1 +1,1 @@
-var mnemonic = "actor family ripple gather home culture impact stand make render health public";
+var mnemonic = "normal crazy wish design unusual settle fortune wild ugly rib pink gentle";

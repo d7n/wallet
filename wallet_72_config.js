@@ -1,1 +1,1 @@
-var mnemonic = "conduct answer tragic zebra slab find legend boil question water develop elegant";
+var mnemonic = "mail margin car wool provide under shop album demise arrive bottom fan";

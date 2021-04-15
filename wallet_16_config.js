@@ -1,1 +1,1 @@
-var mnemonic = "mom unfold veteran grass learn fitness prize plug vast turn remember various";
+var mnemonic = "athlete trash spare turn trim pony anxiety rotate token effort hood fortune";

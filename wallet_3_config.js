@@ -1,1 +1,1 @@
-var mnemonic = "glad edge smile alarm there scrub subject side syrup copy session join";
+var mnemonic = "melt ladder reveal catch tragic orchard above winter rapid antique barely burden";

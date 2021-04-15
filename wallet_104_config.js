@@ -1,1 +1,1 @@
-var mnemonic = "rose wife below thrive just regular shine globe light color doll expand";
+var mnemonic = "public obtain humble boil remember donate priority curious weapon bamboo noble code";

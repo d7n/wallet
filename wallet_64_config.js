@@ -1,1 +1,1 @@
-var mnemonic = "casino dwarf agree budget toddler illness door shed learn common lecture theme";
+var mnemonic = "birth refuse suffer end marine unit melt math harsh dutch luggage century";

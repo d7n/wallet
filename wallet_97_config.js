@@ -1,1 +1,1 @@
-var mnemonic = "vacant visit quiz lucky fossil depend know pony satisfy author wonder hero";
+var mnemonic = "other tragic federal ripple garlic surround barely sand figure crack rule tonight";

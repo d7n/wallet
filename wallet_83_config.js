@@ -1,1 +1,1 @@
-var mnemonic = "lounge fragile feature cover raven speak flip guitar flash foster boss absurd";
+var mnemonic = "viable pig right pool apology fence purse left return traffic drift legal";

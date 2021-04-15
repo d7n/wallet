@@ -1,1 +1,1 @@
-var mnemonic = "ready turn gun garbage output shaft expire youth rack clump accuse oppose";
+var mnemonic = "party jealous liquid wasp diesel grief common school ski rebel jelly nephew";

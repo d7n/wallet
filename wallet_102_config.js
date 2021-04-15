@@ -1,1 +1,1 @@
-var mnemonic = "family other trophy word core system festival miss raven slim bracket lecture";
+var mnemonic = "you sure salute hurt chronic century garden arena culture motor satisfy surface";

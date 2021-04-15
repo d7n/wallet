@@ -1,1 +1,1 @@
-var mnemonic = "bracket boat divide pave away clarify science trash deal trim sugar submit";
+var mnemonic = "family almost live orchard know account maple hope world neutral swing cannon";

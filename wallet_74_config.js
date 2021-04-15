@@ -1,1 +1,1 @@
-var mnemonic = "topic awkward business correct jar brother ice language bleak faith nephew run";
+var mnemonic = "what naive feel project device light ethics blush when quick castle midnight";

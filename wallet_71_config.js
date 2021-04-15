@@ -1,1 +1,1 @@
-var mnemonic = "hollow boss flavor cousin connect pipe eyebrow retreat blanket pudding uncover toward";
+var mnemonic = "brain million dose erupt seat merge black evoke amazing guitar oven response";

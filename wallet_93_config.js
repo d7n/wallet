@@ -1,1 +1,1 @@
-var mnemonic = "nasty oppose merit donkey drop silly cliff depth job wrap surface various";
+var mnemonic = "neck good retreat control verify dolphin bone school rabbit drastic govern crater";

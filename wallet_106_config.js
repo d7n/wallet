@@ -1,1 +1,1 @@
-var mnemonic = "steak witness exhaust logic cream pave correct mouse glad orchard anchor discover";
+var mnemonic = "inflict right mouse clump glass orient ketchup lift trash host ostrich hood";

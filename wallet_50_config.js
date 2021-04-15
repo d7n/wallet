@@ -1,1 +1,1 @@
-var mnemonic = "vessel rose nasty crime dial opera salt find card orphan among regular";
+var mnemonic = "meat broccoli nothing pact strong network screen entire acid air warfare saddle";

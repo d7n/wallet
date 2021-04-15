@@ -1,1 +1,1 @@
-var mnemonic = "trigger urban hobby salmon bright reject spirit cheap evolve lonely hotel weasel";
+var mnemonic = "behind top actress shrimp shadow patient slogan accident decade battle please buzz";

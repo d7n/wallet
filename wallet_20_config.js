@@ -1,1 +1,1 @@
-var mnemonic = "fork begin exit mystery skin pact amount curtain draw romance butter resist";
+var mnemonic = "science fancy gaze among tuna mobile electric oil evil hub orphan rubber";

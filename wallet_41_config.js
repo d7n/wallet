@@ -1,1 +1,1 @@
-var mnemonic = "pink crime involve fabric scout build marriage useless direct game rare such";
+var mnemonic = "draft rather twenty grow area right left dove treat artist gauge pool";

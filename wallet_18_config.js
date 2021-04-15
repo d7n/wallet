@@ -1,1 +1,1 @@
-var mnemonic = "burger asthma holiday direct library book gallery olive monster nuclear diagram shed";
+var mnemonic = "arrest wrong own swim visit evidence hood found mouse boy web retire";

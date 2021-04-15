@@ -1,1 +1,1 @@
-var mnemonic = "fiber crisp advance proof equal stumble around wheel panda taxi wheel parent";
+var mnemonic = "grape answer blouse black idle pet giggle exhibit fitness tone talent air";

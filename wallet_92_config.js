@@ -1,1 +1,1 @@
-var mnemonic = "strike genuine old tiny sense comic hope future cousin insect copper this";
+var mnemonic = "apple curve square add bitter invite across cinnamon feed crew tonight fine";

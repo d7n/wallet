@@ -1,1 +1,1 @@
-var mnemonic = "deer bomb girl goat inside gaze found position park someone keen crunch";
+var mnemonic = "insane label brisk paddle bargain office knee tired hockey large enroll list";

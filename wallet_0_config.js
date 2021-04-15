@@ -1,1 +1,1 @@
-var mnemonic = "build math bus sample width tower olympic mystery bottom angry curve soup";
+var mnemonic = "improve royal hold tag ski unit sketch lift slogan code volume bitter";

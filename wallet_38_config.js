@@ -1,1 +1,1 @@
-var mnemonic = "hungry extra ordinary craft stock cargo guitar eager trade extend prison thunder";
+var mnemonic = "angry margin connect deal doctor excess east benefit decide subject example entire";

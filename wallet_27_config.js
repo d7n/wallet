@@ -1,1 +1,1 @@
-var mnemonic = "pole liar fragile annual lecture eagle uphold social sphere exercise wrestle forget";
+var mnemonic = "rose anger update mushroom mercy resist pottery marriage ice dove quit common";

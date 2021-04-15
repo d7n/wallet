@@ -1,1 +1,1 @@
-var mnemonic = "enrich year inflict pudding solve lawn whip stock trash upper athlete hammer";
+var mnemonic = "opera into draw coffee rebuild save demise guitar fire swing lyrics above";

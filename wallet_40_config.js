@@ -1,1 +1,1 @@
-var mnemonic = "start pledge live jewel love burst mystery assault hip castle century river";
+var mnemonic = "snack master letter correct judge pumpkin rigid gesture liquid gorilla exile erosion";

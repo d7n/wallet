@@ -1,1 +1,1 @@
-var mnemonic = "metal effort cool nurse excess laundry scout daring right school frost wealth";
+var mnemonic = "autumn tragic mom muscle better total wage horse bleak viable april guess";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz endorse onion pattern horse crater day subject cute social glare soccer";
+var mnemonic = "kiss intact only sheriff cause fashion hair pony scheme shed pistol cake";

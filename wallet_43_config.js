@@ -1,1 +1,1 @@
-var mnemonic = "ill chief meat buyer margin anxiety erode goose allow board robust trend";
+var mnemonic = "intact mean bar grow bracket shallow above print alien because much sibling";

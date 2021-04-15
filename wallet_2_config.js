@@ -1,1 +1,1 @@
-var mnemonic = "false hope pistol avoid unfair coyote exchange bean polar observe strategy index";
+var mnemonic = "year nuclear matrix sustain eagle world slush tuition stand test tobacco renew";

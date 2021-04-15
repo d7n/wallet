@@ -1,1 +1,1 @@
-var mnemonic = "actor forget use video connect resemble check slot leisure foil harbor laugh";
+var mnemonic = "rocket soccer wink syrup frame unfair flush nothing bleak coconut rocket novel";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel birth spider exact swift manual lava invest oblige disorder ginger finger";
+var mnemonic = "vast hour clock service siren fatal knife memory shop tourist squeeze movie";

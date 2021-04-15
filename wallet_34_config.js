@@ -1,1 +1,1 @@
-var mnemonic = "give amazing smooth industry wool patrol chicken neck upgrade chair better mother";
+var mnemonic = "shock industry lady input wrestle tool weather tumble glove thought govern cycle";

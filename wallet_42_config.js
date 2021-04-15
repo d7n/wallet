@@ -1,1 +1,1 @@
-var mnemonic = "regular hint shy mountain fat occur satoshi angle cheap robot canyon success";
+var mnemonic = "tired goat rain battle supreme social armor slender attitude divide obscure palm";

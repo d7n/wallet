@@ -1,1 +1,1 @@
-var mnemonic = "tiger cross ship bind crawl airport exclude tragic little pelican obscure scorpion";
+var mnemonic = "badge sauce novel sword alley surround diamond wide palm inspire extend grace";

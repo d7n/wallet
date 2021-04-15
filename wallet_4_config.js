@@ -1,1 +1,1 @@
-var mnemonic = "antique soap tone rigid aware head allow swift mixed stand rabbit salt";
+var mnemonic = "enrich reason hub wool whale story animal bag deal shop manual wide";

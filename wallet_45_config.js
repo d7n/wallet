@@ -1,1 +1,1 @@
-var mnemonic = "please first make poem range board onion cigar human witness rapid blossom";
+var mnemonic = "ensure husband gesture enrich wisdom jacket engine embrace approve science country cruise";

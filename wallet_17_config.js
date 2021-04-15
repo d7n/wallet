@@ -1,1 +1,1 @@
-var mnemonic = "people word bird camp talk avocado pudding online wash arrive novel vivid";
+var mnemonic = "mountain segment meadow awful wide bless agree novel area junior month unit";

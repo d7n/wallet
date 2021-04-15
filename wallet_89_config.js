@@ -1,1 +1,1 @@
-var mnemonic = "bubble rice animal seat demise yellow father any floor kingdom donor east";
+var mnemonic = "tiny parent mandate notable man gasp brown window question yellow shove sister";

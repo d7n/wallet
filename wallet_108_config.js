@@ -1,1 +1,1 @@
-var mnemonic = "tired unhappy payment mistake turtle deer adjust damp three army join blue";
+var mnemonic = "card position sugar camera brown casual pond confirm grief smart mystery letter";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft silly merge offer aware own glow frame sword subway jar utility";
+var mnemonic = "cricket insane budget crucial adapt burst spare december oak cluster session fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "lava album badge dad spin similar spoil shop canoe pet lobster kangaroo";
+var mnemonic = "health odor mail secret foam original abandon spin relax biology now where";

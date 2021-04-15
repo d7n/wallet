@@ -1,1 +1,1 @@
-var mnemonic = "knock verify comic wolf budget garlic husband prize matter tape decorate vapor";
+var mnemonic = "quarter hunt pistol spread sauce thought steel reduce drip kingdom couple drink";

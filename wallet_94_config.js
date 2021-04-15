@@ -1,1 +1,1 @@
-var mnemonic = "metal cube thrive warrior retire price gospel razor balcony youth century empower";
+var mnemonic = "manage type brain shrug brand sibling fresh vital bean unusual lab judge";

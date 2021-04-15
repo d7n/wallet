@@ -1,1 +1,1 @@
-var mnemonic = "change destroy noodle surge wage vapor pupil remove mother wealth mixture master";
+var mnemonic = "people sniff cake industry message foam image couch forum divide system party";

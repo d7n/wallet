@@ -1,1 +1,1 @@
-var mnemonic = "old kingdom bless spy drift gasp medal plate earth maid ghost matter";
+var mnemonic = "cat crucial trouble behind enough kitchen sentence reopen electric during where region";

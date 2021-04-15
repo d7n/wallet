@@ -1,1 +1,1 @@
-var mnemonic = "ball once sleep insane angry extra blur unusual spring cry rate must";
+var mnemonic = "flush sister romance lucky link shadow remain rule drive parade fury zone";

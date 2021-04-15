@@ -1,1 +1,1 @@
-var mnemonic = "equip stay shrug obvious harvest december because gasp melt nature gold garbage";
+var mnemonic = "coffee else lyrics wine able royal recipe vote crumble hammer bulk evidence";

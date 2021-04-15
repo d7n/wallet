@@ -1,1 +1,1 @@
-var mnemonic = "embrace awake science tornado viable gift point cinnamon daughter oblige virtual choose";
+var mnemonic = "doctor office cliff cloth bike brisk amused desk fantasy scrub since cannon";

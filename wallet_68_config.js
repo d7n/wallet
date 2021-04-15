@@ -1,1 +1,1 @@
-var mnemonic = "desert twist mistake wear example thrive invite prevent illness concert federal search";
+var mnemonic = "account distance utility post memory margin strike winter dawn visa move hole";

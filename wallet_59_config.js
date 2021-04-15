@@ -1,1 +1,1 @@
-var mnemonic = "coffee message gasp noble doll remove spend vacant rare sudden soon faith";
+var mnemonic = "trip naive stage tattoo nuclear file silly icon funny bunker ivory pitch";

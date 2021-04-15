@@ -1,1 +1,1 @@
-var mnemonic = "vacuum end horn cactus charge asthma rich cool shock hamster onion joy";
+var mnemonic = "eight element owner found fault toast mirror supreme grant erase jar include";

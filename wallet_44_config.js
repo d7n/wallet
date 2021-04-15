@@ -1,1 +1,1 @@
-var mnemonic = "battle citizen owner pulp mass human toilet mushroom erosion castle lesson soon";
+var mnemonic = "wreck acid broken coast double age scan home donkey grape manual embark";

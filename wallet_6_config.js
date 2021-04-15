@@ -1,1 +1,1 @@
-var mnemonic = "try screen foot excite fall bonus sketch outside car cousin music path";
+var mnemonic = "hollow elbow grid super antique second long apart bamboo potato fruit damp";

@@ -1,1 +1,1 @@
-var mnemonic = "gold tool rabbit lizard evidence analyst cry rocket version replace message retreat";
+var mnemonic = "picnic upper wasp detail orient wool report boy clog mobile spread engage";

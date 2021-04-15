@@ -1,1 +1,1 @@
-var mnemonic = "gospel remind unique improve vintage penalty guess stove party bright sudden lawsuit";
+var mnemonic = "hedgehog desk order vast romance marble turkey hurdle inherit gentle eyebrow used";

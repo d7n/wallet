@@ -1,1 +1,1 @@
-var mnemonic = "double melt antique antique thought ahead couch sibling denial response tilt swamp";
+var mnemonic = "become express cotton found roast awful upset damp result humor spirit damage";

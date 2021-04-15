@@ -1,1 +1,1 @@
-var mnemonic = "opinion warrior illegal come coach essay joy cinnamon image equip begin heart";
+var mnemonic = "plate hard uphold inflict bubble genre nose steel permit fossil october owner";

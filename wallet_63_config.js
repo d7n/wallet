@@ -1,1 +1,1 @@
-var mnemonic = "sing fat select cycle coin color review identify portion powder cabbage envelope";
+var mnemonic = "boss explain nest until water peasant cage kid smile radar flight bleak";

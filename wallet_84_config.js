@@ -1,1 +1,1 @@
-var mnemonic = "relax vault economy utility unhappy pizza penalty jeans joy fancy tomorrow square";
+var mnemonic = "decrease simple remain offer fat chair print copy key barely vintage aspect";

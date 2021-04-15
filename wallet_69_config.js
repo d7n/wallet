@@ -1,1 +1,1 @@
-var mnemonic = "unlock room outdoor wing thumb draft give opinion often odor else pledge";
+var mnemonic = "stairs section crowd choice meadow bless clinic escape congress candy junior century";

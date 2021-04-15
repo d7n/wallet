@@ -1,1 +1,1 @@
-var mnemonic = "cloud basic derive rough pave ketchup infant flip meat broom unveil country";
+var mnemonic = "fix timber ginger rack stuff metal pioneer burst bamboo grief law apology";

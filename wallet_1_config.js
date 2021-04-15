@@ -1,1 +1,1 @@
-var mnemonic = "click glance ghost fancy cactus business ketchup husband unfair menu case lab";
+var mnemonic = "motion cross drama old will crater sustain power group achieve often hammer";

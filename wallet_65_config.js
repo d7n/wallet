@@ -1,1 +1,1 @@
-var mnemonic = "jar morning left flush drum payment cotton penalty large sunset tribe home";
+var mnemonic = "type tiny car opinion easily fancy acoustic output enough empty easily phrase";

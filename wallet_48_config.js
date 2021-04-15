@@ -1,1 +1,1 @@
-var mnemonic = "advice daughter industry label width gaze cargo human noble rural museum peanut";
+var mnemonic = "drive bunker blast between clip during gap walk mammal deer sustain embark";

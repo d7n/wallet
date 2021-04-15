@@ -1,1 +1,1 @@
-var mnemonic = "near action object luggage search very keen recycle venue domain topic column";
+var mnemonic = "doctor eye seek subject suspect climb tomato fortune almost work what toddler";

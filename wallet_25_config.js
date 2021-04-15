@@ -1,1 +1,1 @@
-var mnemonic = "save coin surround flame matter patient doll wrestle health anger resource idle";
+var mnemonic = "expand negative source pause airport become cause remember unveil senior tenant omit";

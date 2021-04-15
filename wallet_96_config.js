@@ -1,1 +1,1 @@
-var mnemonic = "easily emotion lemon exclude erase rabbit wrap tissue remind usage armed rib";
+var mnemonic = "spread asset zero upon panda cereal reflect hunt peace person armed roof";

@@ -1,1 +1,1 @@
-var mnemonic = "reject amount junior grass cute search lazy olympic season sample pride action";
+var mnemonic = "renew skate tail trap obscure life claw sustain roast twin egg immune";

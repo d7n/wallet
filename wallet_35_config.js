@@ -1,1 +1,1 @@
-var mnemonic = "reveal warm kiwi favorite view grab crisp fork tube cake alcohol pilot";
+var mnemonic = "feature car motion bronze hospital update citizen trip august tragic tourist nose";

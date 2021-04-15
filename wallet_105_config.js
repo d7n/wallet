@@ -1,1 +1,1 @@
-var mnemonic = "blur journey hurt credit between raise member shift pool fabric violin tray";
+var mnemonic = "license club appear daring laptop cherry crouch law wash south lizard figure";

@@ -1,1 +1,1 @@
-var mnemonic = "swift liberty seminar biology brick walk april provide milk lake benefit ice";
+var mnemonic = "suffer enemy fine brass teach fancy dove income ranch curtain kangaroo fiscal";

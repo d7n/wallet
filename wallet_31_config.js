@@ -1,1 +1,1 @@
-var mnemonic = "use satisfy genuine gossip faith dirt off sound tornado pulse educate umbrella";
+var mnemonic = "scrub shaft budget dish strong acoustic slice person coral benefit analyst joke";

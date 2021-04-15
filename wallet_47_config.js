@@ -1,1 +1,1 @@
-var mnemonic = "artefact two script salad soccer impact reflect offer buddy recipe gravity fragile";
+var mnemonic = "myself chaos spoil repeat arrange frog today guitar level borrow prepare weekend";

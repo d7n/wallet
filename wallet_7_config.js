@@ -1,1 +1,1 @@
-var mnemonic = "spawn index cement odor stereo sibling unfair tray clarify aspect zoo tired";
+var mnemonic = "debate hard upper toy purse wink system clay weekend ramp skirt eyebrow";

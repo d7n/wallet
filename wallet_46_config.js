@@ -1,1 +1,1 @@
-var mnemonic = "tent imitate escape moon twelve purpose noble capable fortune skin bottom maze";
+var mnemonic = "road present battle warrior elder letter nephew grape ready leaf tide script";

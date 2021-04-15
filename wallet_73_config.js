@@ -1,1 +1,1 @@
-var mnemonic = "dumb lucky couch eager vague punch sphere faculty weather horror exhibit clever";
+var mnemonic = "make better truth body vocal excess life fetch lounge depend burger always";

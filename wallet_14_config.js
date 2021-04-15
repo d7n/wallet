@@ -1,1 +1,1 @@
-var mnemonic = "artefact ocean word faith must alarm police crane crime original rough mind";
+var mnemonic = "laugh situate matter goat annual burst van film act talent obtain shadow";

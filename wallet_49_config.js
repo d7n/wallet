@@ -1,1 +1,1 @@
-var mnemonic = "large excess trumpet cruel steak flock busy hold find tumble foil recall";
+var mnemonic = "bag enjoy ramp rent phone limit gallery rule mammal shoe law tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "found sense spider mule gauge tomorrow purse prefer snake source tongue motion";
+var mnemonic = "law scatter tree twice sadness prefer light tone true tackle write fiber";
