@@ -1,1 +1,1 @@
-var mnemonic = "open margin ten cruel swamp crash shoot poet million logic page assault";
+var mnemonic = "shed planet matter wall kit above omit mother moment loop weird fitness";

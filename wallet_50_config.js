@@ -1,1 +1,1 @@
-var mnemonic = "trust magic skirt advance memory churn attract obtain city kid shadow divert";
+var mnemonic = "emerge rice comic husband deliver thunder object admit catch bunker advance strategy";

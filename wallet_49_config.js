@@ -1,1 +1,1 @@
-var mnemonic = "final weekend elephant zoo across announce stove stable october announce liberty stand";
+var mnemonic = "resist virtual trim reason food island odor jump alarm receive gas orchard";

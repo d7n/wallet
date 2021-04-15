@@ -1,1 +1,1 @@
-var mnemonic = "clerk sheriff exile agent tank member major close law hamster grant follow";
+var mnemonic = "present dignity advance excite build six color guard omit ridge range auto";

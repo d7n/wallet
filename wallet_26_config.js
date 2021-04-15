@@ -1,1 +1,1 @@
-var mnemonic = "critic test broccoli cash alpha alien pill hill smart end title vicious";
+var mnemonic = "club never bunker twice gain remind improve shrimp expose twenty picnic buffalo";

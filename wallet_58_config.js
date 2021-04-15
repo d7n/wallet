@@ -1,1 +1,1 @@
-var mnemonic = "solve diet soap climb sudden rebel cupboard joy asthma public chat shift";
+var mnemonic = "asset wage loud warm receive degree mandate vanish silent brown warm jacket";

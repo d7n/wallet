@@ -1,1 +1,1 @@
-var mnemonic = "just brass always off hope coffee ketchup extend viable cushion unfair endless";
+var mnemonic = "garden again fiction life empty element dish announce iron cube adult guide";

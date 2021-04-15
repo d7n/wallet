@@ -1,1 +1,1 @@
-var mnemonic = "metal poverty voyage winter alien doctor athlete path kid mango lazy delay";
+var mnemonic = "stage garbage basic garage off shallow ancient always hint cliff coffee mammal";

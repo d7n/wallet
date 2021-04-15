@@ -1,1 +1,1 @@
-var mnemonic = "pill arctic unveil soap track slab salmon picture drive process crop camera";
+var mnemonic = "focus ecology achieve jazz into gain mother sell gossip thought brain page";

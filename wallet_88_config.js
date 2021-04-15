@@ -1,1 +1,1 @@
-var mnemonic = "long thunder clutch machine lake space owner cushion around clog demand vintage";
+var mnemonic = "walnut fatigue elephant work cup board pepper poet fossil fresh now claw";

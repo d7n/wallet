@@ -1,1 +1,1 @@
-var mnemonic = "history fly escape canoe isolate auction feed jelly glimpse symptom dragon mandate";
+var mnemonic = "normal truck cigar gown journey garlic degree pitch mean laundry jeans trumpet";

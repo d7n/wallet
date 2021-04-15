@@ -1,1 +1,1 @@
-var mnemonic = "avocado list left attack loan scatter rabbit private edge item boat lobster";
+var mnemonic = "possible mammal pole thrive antique hat agree envelope urge federal devote during";

@@ -1,1 +1,1 @@
-var mnemonic = "manage birth family machine nothing zero lake hint inspire echo bracket wing";
+var mnemonic = "enjoy legend goat vocal wall love decide magnet oyster broccoli scissors orphan";

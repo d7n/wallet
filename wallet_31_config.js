@@ -1,1 +1,1 @@
-var mnemonic = "funny rice believe lab spy board slow bright situate stairs during holiday";
+var mnemonic = "master cloth climb result load style off gather matter magic vault license";

@@ -1,1 +1,1 @@
-var mnemonic = "taste cattle history provide interest twenty swim practice mention fossil tone jealous";
+var mnemonic = "diary rival side veteran input escape error remind add curtain seven uniform";

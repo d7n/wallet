@@ -1,1 +1,1 @@
-var mnemonic = "pull sample remove disagree permit blast action keep slow punch almost strategy";
+var mnemonic = "butter dry coin turn praise electric symptom kingdom addict dinosaur heavy toward";

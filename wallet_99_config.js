@@ -1,1 +1,1 @@
-var mnemonic = "unfold clown cereal east initial curve airport parent tragic shuffle toy vague";
+var mnemonic = "crystal relief region sibling equip nuclear marble gasp squeeze guide fan village";

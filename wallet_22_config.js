@@ -1,1 +1,1 @@
-var mnemonic = "lamp egg mother tape spray two very duck dish gold alcohol robot";
+var mnemonic = "subject minimum wisdom secret then payment velvet dirt spice brain still grid";

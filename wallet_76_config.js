@@ -1,1 +1,1 @@
-var mnemonic = "entry predict input hole brain entry cushion airport crucial false catch trumpet";
+var mnemonic = "casino parent silver aisle primary symbol energy what chair measure wreck stick";

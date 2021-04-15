@@ -1,1 +1,1 @@
-var mnemonic = "phone siren tomorrow october radio question already cup waste reveal mobile guide";
+var mnemonic = "buddy damp team decorate maximum wish knock remove link glimpse broccoli empty";

@@ -1,1 +1,1 @@
-var mnemonic = "sun glad rack west fashion repeat useful entire scan service shadow write";
+var mnemonic = "narrow dilemma member kick hurry law knock recall stick enemy anchor design";

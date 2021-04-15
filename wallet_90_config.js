@@ -1,1 +1,1 @@
-var mnemonic = "orphan position denial veteran catch drum screen potato indoor doll local lock";
+var mnemonic = "exile emotion unable glass student teach smart open total custom favorite jaguar";

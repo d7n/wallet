@@ -1,1 +1,1 @@
-var mnemonic = "level check maze market sauce hospital lamp earth into guess pave patch";
+var mnemonic = "attend accident wealth loyal protect any come survey chimney pizza salmon husband";

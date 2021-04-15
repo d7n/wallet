@@ -1,1 +1,1 @@
-var mnemonic = "bright prevent normal later royal run later garden today charge belt swamp";
+var mnemonic = "force client prize minor multiply vintage myth ship key actress east staff";

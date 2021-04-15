@@ -1,1 +1,1 @@
-var mnemonic = "film brain donor spread crumble spike example gesture myth video credit erase";
+var mnemonic = "develop balance juice still broom wild snack slush autumn carpet immense method";

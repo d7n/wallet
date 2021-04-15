@@ -1,1 +1,1 @@
-var mnemonic = "local belt unknown equip face census nation peanut salute planet improve suffer";
+var mnemonic = "onion castle retreat agree around simple trumpet firm resource ready earn bargain";

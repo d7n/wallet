@@ -1,1 +1,1 @@
-var mnemonic = "flight citizen jeans old park junk renew tag side script steak angry";
+var mnemonic = "diamond silly shoot symptom duck theme endorse aisle clinic peanut quality wood";

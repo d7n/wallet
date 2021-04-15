@@ -1,1 +1,1 @@
-var mnemonic = "play butter purpose old guard foot narrow then wisdom cactus script ladder";
+var mnemonic = "pledge lawn output ivory lazy alter glass card tuition turtle next bulb";

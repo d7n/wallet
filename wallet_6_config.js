@@ -1,1 +1,1 @@
-var mnemonic = "clap museum ask defy moon isolate shrimp guess chimney museum project income";
+var mnemonic = "joke diamond mechanic predict magic panic enter announce firm discover whip ketchup";

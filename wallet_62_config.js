@@ -1,1 +1,1 @@
-var mnemonic = "paddle pattern dragon matrix ceiling renew deer echo adapt frown vibrant voyage";
+var mnemonic = "umbrella ring profit mutual inject outdoor meat steel foot goat deal shoot";

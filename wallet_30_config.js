@@ -1,1 +1,1 @@
-var mnemonic = "palm similar grant clean network panther vault october recall media predict dad";
+var mnemonic = "spawn ready trade risk fade project silly slot unfair file royal world";

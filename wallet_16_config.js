@@ -1,1 +1,1 @@
-var mnemonic = "hollow toast round sketch lens direct imitate dawn pill idea best flag";
+var mnemonic = "curtain admit message few survey help shock media comfort fee unit giggle";

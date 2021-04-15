@@ -1,1 +1,1 @@
-var mnemonic = "season grow table purity nature disagree adjust awesome various chronic obtain smoke";
+var mnemonic = "crime open carbon capable camp illegal comfort fee tunnel age boat patrol";

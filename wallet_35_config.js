@@ -1,1 +1,1 @@
-var mnemonic = "present legend average march joy sting outside allow decade supply holiday arrest";
+var mnemonic = "sand now picnic multiply income lyrics walk stable cruel candy animal barely";

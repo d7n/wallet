@@ -1,1 +1,1 @@
-var mnemonic = "blind noodle behave kidney cinnamon age crater crush manual recall beef novel";
+var mnemonic = "fat waste episode owner apart film leaf elbow hurry ticket scissors behave";

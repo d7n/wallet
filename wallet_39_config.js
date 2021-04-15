@@ -1,1 +1,1 @@
-var mnemonic = "elegant obey split wrap section broom animal door board dream joke duck";
+var mnemonic = "guilt remove fence north build stable over meadow garment such tourist immense";

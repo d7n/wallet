@@ -1,1 +1,1 @@
-var mnemonic = "lunar organ raise poem winner wink effort employ ski slab repeat antique";
+var mnemonic = "file vehicle height pioneer smoke island eager voice mountain immune beauty rookie";

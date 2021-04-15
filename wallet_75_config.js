@@ -1,1 +1,1 @@
-var mnemonic = "protect inject donkey panda rally pig demand popular siege erosion rabbit glow";
+var mnemonic = "erase trash street raven require problem frequent capital desk dizzy finish people";

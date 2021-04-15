@@ -1,1 +1,1 @@
-var mnemonic = "ecology human wine bleak pattern talk oblige require very ordinary federal song";
+var mnemonic = "habit voyage rose quality dress wrong couch wonder surge camp ghost people";

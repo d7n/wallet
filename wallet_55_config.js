@@ -1,1 +1,1 @@
-var mnemonic = "prison evil mushroom flame wife end faith income script sibling energy crack";
+var mnemonic = "space price potato ostrich behind royal friend hurt dumb into host image";

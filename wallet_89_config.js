@@ -1,1 +1,1 @@
-var mnemonic = "dwarf address purchase blood menu ankle gain throw joke negative canvas steak";
+var mnemonic = "click stuff present bubble equal popular friend hub razor legal logic spot";

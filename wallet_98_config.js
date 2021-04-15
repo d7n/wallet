@@ -1,1 +1,1 @@
-var mnemonic = "left twin risk crash upset dizzy junk country remain bright gossip strong";
+var mnemonic = "april will earn away alpha rent swing balance wealth because vehicle orient";

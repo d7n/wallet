@@ -1,1 +1,1 @@
-var mnemonic = "found pear weasel cook word tissue develop tomorrow please invest resemble hill";
+var mnemonic = "expose rack owner pattern across anchor object short friend tag option wrist";

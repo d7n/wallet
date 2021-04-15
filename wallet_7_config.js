@@ -1,1 +1,1 @@
-var mnemonic = "basket immune balance loud found market later six cancel cherry arrange west";
+var mnemonic = "glimpse hidden fish february cake ocean enforce matter pyramid all wrap champion";

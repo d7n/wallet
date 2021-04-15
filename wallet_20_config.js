@@ -1,1 +1,1 @@
-var mnemonic = "chaos gravity insane symbol lobster bracket exotic slight wink movie surface recall";
+var mnemonic = "spell comic mirror click base struggle vicious lizard twin share simple accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "garage slot explain equal feel student menu beach pulse erosion piece rhythm";
+var mnemonic = "program vacant reunion unique admit ensure item expand nation polar waste embody";

@@ -1,1 +1,1 @@
-var mnemonic = "similar mind rail behave voice cotton gentle speak shoe unfair wheat sight";
+var mnemonic = "canoe dune train impose able income custom sudden agent hammer walk muffin";

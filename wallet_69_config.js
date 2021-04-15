@@ -1,1 +1,1 @@
-var mnemonic = "sleep nose ice reject junior shoulder wasp vehicle depth reward blade right";
+var mnemonic = "danger glue flight work hungry auto stadium canoe can present document eager";

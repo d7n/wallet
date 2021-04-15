@@ -1,1 +1,1 @@
-var mnemonic = "guilt program gallery predict blush screen near memory latin stuff crush mimic";
+var mnemonic = "convince actor camp pupil dove spice daughter soda danger slab upper replace";

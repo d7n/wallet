@@ -1,1 +1,1 @@
-var mnemonic = "shoe resist gasp hollow chief flag put glance erosion enter olympic holiday";
+var mnemonic = "clap service high patrol shoe churn raise main route cross swarm foster";

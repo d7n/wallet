@@ -1,1 +1,1 @@
-var mnemonic = "garbage language session weasel sniff amateur seven spoil elephant ball note learn";
+var mnemonic = "flush vibrant there rotate gorilla illegal regular rifle float ghost sunny inspire";

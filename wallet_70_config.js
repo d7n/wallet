@@ -1,1 +1,1 @@
-var mnemonic = "profit success guide island beef coyote copper agent under hospital plunge adult";
+var mnemonic = "stove stool mesh april add photo chest fatal fabric tonight until arrow";

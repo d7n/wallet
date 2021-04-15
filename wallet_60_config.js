@@ -1,1 +1,1 @@
-var mnemonic = "mosquito swim code tail filter skull soap beyond fly toast shrimp ecology";
+var mnemonic = "jealous almost rifle once furnace buyer verify pelican room picnic sing matter";

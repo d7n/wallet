@@ -1,1 +1,1 @@
-var mnemonic = "dirt broom describe pink circle enable surprise immune place subway gloom glide";
+var mnemonic = "glare invite you neck time excite diet misery raise trip divide shiver";

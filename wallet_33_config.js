@@ -1,1 +1,1 @@
-var mnemonic = "spot time speak annual quiz orient ivory swallow fade junk during label";
+var mnemonic = "duty alarm onion body popular shock shaft aware open consider frown celery";

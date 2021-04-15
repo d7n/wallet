@@ -1,1 +1,1 @@
-var mnemonic = "put ranch upgrade fire capital glance air afford bind maple also ancient";
+var mnemonic = "inherit member add keep obtain rhythm spell service grain alone jeans improve";

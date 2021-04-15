@@ -1,1 +1,1 @@
-var mnemonic = "large human bring edge kick stereo novel junior luggage utility silver differ";
+var mnemonic = "brother lunar awake lock abstract unknown wine hybrid lemon chuckle lazy budget";

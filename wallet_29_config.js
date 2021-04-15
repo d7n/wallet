@@ -1,1 +1,1 @@
-var mnemonic = "cousin asset cry immune entry electric cabin again security heart pattern six";
+var mnemonic = "universe vital thrive into rescue elbow royal filter polar remember kick section";

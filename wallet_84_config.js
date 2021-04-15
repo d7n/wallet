@@ -1,1 +1,1 @@
-var mnemonic = "meat income subject matrix beef female outside bulk cupboard wage boat match";
+var mnemonic = "bachelor oven come crush repair zone goddess relax home today call toss";

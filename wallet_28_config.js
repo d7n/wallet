@@ -1,1 +1,1 @@
-var mnemonic = "swamp truth forward tourist dune bind old donor rough injury trial drastic";
+var mnemonic = "shine ostrich pistol frost vote shift pyramid obtain team path banner there";

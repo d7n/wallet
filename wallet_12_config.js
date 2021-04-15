@@ -1,1 +1,1 @@
-var mnemonic = "since wasp grow burden welcome yellow present secret wait tone cannon decline";
+var mnemonic = "glad snack nest party cause hockey stock simple apart chief ocean worry";

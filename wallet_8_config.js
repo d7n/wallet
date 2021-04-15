@@ -1,1 +1,1 @@
-var mnemonic = "lunch split umbrella lamp broccoli skirt margin skin spoil dream exit vendor";
+var mnemonic = "door cube change infant vivid delay crime during north acid render jealous";

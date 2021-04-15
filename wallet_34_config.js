@@ -1,1 +1,1 @@
-var mnemonic = "trust such riot order venue urge pepper deal loud nice know cube";
+var mnemonic = "coach valley lucky learn disorder spoil flee wash hood caught climb oyster";

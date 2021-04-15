@@ -1,1 +1,1 @@
-var mnemonic = "deputy autumn source body robust inside weather extra wise brand myth boil";
+var mnemonic = "seek accuse glove wrist supply capable forum soup addict flame awake brief";

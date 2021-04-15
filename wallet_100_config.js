@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon grass share foam spy maple voyage tenant bicycle spread spend magic";
+var mnemonic = "beauty faith denial fork steel inherit unable flower purpose panda relax math";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd coyote all brush prosper crystal report resemble illegal correct invite shallow";
+var mnemonic = "rival enjoy antique glove manual wash volume hawk sister bus champion announce";

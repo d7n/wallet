@@ -1,1 +1,1 @@
-var mnemonic = "left review float shoulder camp garment kingdom shy chapter amazing verb accident";
+var mnemonic = "marble reduce own embody demise hurt bunker prepare repair lizard glue dish";

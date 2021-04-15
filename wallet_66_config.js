@@ -1,1 +1,1 @@
-var mnemonic = "crucial sure amused please spy coyote strike brief gym antenna limit cart";
+var mnemonic = "wedding stumble plate wisdom medal forest drip erosion spirit marine wrestle suggest";

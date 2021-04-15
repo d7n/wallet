@@ -1,1 +1,1 @@
-var mnemonic = "snow skate work shine address sugar twelve model bulb home have deer";
+var mnemonic = "nature position orbit raven light horn diagram dismiss universe surface speed dentist";

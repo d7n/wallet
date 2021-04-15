@@ -1,1 +1,1 @@
-var mnemonic = "horror case envelope document machine blush solve midnight vital envelope beef else";
+var mnemonic = "custom supply rail admit pen galaxy observe used success category whisper matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "girl popular educate merry later camera ethics caution warm fold very fatigue";
+var mnemonic = "ginger balance welcome noodle crowd boy game radar antique giggle brass fresh";

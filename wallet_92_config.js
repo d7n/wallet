@@ -1,1 +1,1 @@
-var mnemonic = "style earn melt employ magnet bubble place dizzy mask home parade future";
+var mnemonic = "few cross guard warm brave fun tape print depend engine carpet stereo";

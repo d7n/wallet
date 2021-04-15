@@ -1,1 +1,1 @@
-var mnemonic = "stock program hamster tragic spare grit vendor replace solve kidney finger glove";
+var mnemonic = "icon review forward boss omit obscure hockey music zone puzzle arena admit";

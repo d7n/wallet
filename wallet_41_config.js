@@ -1,1 +1,1 @@
-var mnemonic = "manage zero island strategy bench bind someone beauty shuffle milk pride tomorrow";
+var mnemonic = "proof write word mutual home taxi polar depend join coffee rhythm lawn";

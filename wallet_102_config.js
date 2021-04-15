@@ -1,1 +1,1 @@
-var mnemonic = "sword north outdoor method rate snow sport sphere school science rent also";
+var mnemonic = "write aerobic galaxy farm ensure gym admit sand umbrella glow empty swap";

@@ -1,1 +1,1 @@
-var mnemonic = "connect smooth surround skate genre endless equip obscure convince inflict grocery diagram";
+var mnemonic = "hedgehog warrior cargo spoil credit material thumb flower rely sister donate sustain";

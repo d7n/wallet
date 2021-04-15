@@ -1,1 +1,1 @@
-var mnemonic = "occur exclude trash exist mother vintage spoon region ball jazz scan dove";
+var mnemonic = "general family month energy decide fantasy this wage child elbow twice fury";

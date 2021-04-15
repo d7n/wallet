@@ -1,1 +1,1 @@
-var mnemonic = "common put thrive expire crew uniform cover wrap core shadow soup wealth";
+var mnemonic = "sentence keep grape album arrive plug mango corn label save assist next";

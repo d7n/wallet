@@ -1,1 +1,1 @@
-var mnemonic = "skin course liar giggle buzz regret knock eternal gauge robust super owner";
+var mnemonic = "arrest deputy obscure frog tree staff pattern crunch despair fence shed walnut";

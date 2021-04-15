@@ -1,1 +1,1 @@
-var mnemonic = "athlete repair ensure wife tornado cost magnet wisdom knock emotion nurse spawn";
+var mnemonic = "jeans fold company mixture regret brisk security citizen gain benefit salute design";

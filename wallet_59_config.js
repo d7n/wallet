@@ -1,1 +1,1 @@
-var mnemonic = "object street chunk hip document canal fatal hospital reflect trigger hero section";
+var mnemonic = "zone cattle lend other ketchup ketchup hub urban endorse typical enforce lab";

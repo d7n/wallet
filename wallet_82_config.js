@@ -1,1 +1,1 @@
-var mnemonic = "olive eight economy laptop kitchen chief apple faint body brain comic scrap";
+var mnemonic = "daring few position tilt access leaf enable motor laptop garage example stool";

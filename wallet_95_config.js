@@ -1,1 +1,1 @@
-var mnemonic = "sunset enable defense coach argue model cook wool short enrich field today";
+var mnemonic = "can believe army escape crucial whip duck appear sausage moral salon kick";

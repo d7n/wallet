@@ -1,1 +1,1 @@
-var mnemonic = "detail toilet observe arena suit initial warfare dove palace fish lazy tower";
+var mnemonic = "liar soon food bracket siren energy list divide chapter paddle lecture lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "sail magnet choice weapon kidney pet gun midnight toy drill insect pet";
+var mnemonic = "decorate unfold pond cook inflict raise ceiling world inspire wrap bubble begin";

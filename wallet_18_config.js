@@ -1,1 +1,1 @@
-var mnemonic = "sketch bless rabbit unfair wool lazy whisper bamboo belt problem distance rate";
+var mnemonic = "inherit proud silly ticket picture hint judge divert globe soft dragon nurse";

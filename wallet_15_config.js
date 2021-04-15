@@ -1,1 +1,1 @@
-var mnemonic = "stay busy rescue okay orient galaxy use network surge kiss light disorder";
+var mnemonic = "fee student volume onion suggest unveil wash nut cargo trial visual drift";
