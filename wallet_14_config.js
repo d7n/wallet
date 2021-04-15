@@ -1,1 +1,1 @@
-var mnemonic = "wrong earn across raise chunk impose bonus common human agree hero cage";
+var mnemonic = "later symbol claw track fortune arena hero limit grant taxi scale valve";

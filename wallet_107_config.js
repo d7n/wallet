@@ -1,1 +1,1 @@
-var mnemonic = "stool dose spy menu gasp reduce actress gravity pony innocent useful half";
+var mnemonic = "speak biology wing bless attitude sound hill setup lawn skin immense broken";

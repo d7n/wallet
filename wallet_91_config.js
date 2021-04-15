@@ -1,1 +1,1 @@
-var mnemonic = "net supreme escape invest calm awkward net payment orphan inmate winter run";
+var mnemonic = "crack vibrant shrug matter vocal follow trip that isolate brisk issue pistol";

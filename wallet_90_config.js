@@ -1,1 +1,1 @@
-var mnemonic = "soccer witness reflect gorilla wine camera crumble source laundry holiday grid prison";
+var mnemonic = "language keen bomb guess sea dry boss panda choose island broom ramp";

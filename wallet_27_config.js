@@ -1,1 +1,1 @@
-var mnemonic = "panic master barrel enemy when crush two upgrade valve over cage vapor";
+var mnemonic = "exit giggle cheap raven employ world slice moon annual student cluster demise";

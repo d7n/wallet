@@ -1,1 +1,1 @@
-var mnemonic = "surprise roast vault actor rib menu cousin habit winter monkey cluster fence";
+var mnemonic = "tone mention argue romance soon sad stick guard also tuition own song";

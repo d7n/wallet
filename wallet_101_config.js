@@ -1,1 +1,1 @@
-var mnemonic = "parent before spoil segment flower muffin shell orient hello action lounge broom";
+var mnemonic = "dance quote melody beef snack stem eagle merit hub tumble bulk air";

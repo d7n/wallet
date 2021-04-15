@@ -1,1 +1,1 @@
-var mnemonic = "dawn symbol basket involve enemy bar myself lava kite later dog glare";
+var mnemonic = "sad drink cheese book isolate question cheese box deal rebuild mail drink";

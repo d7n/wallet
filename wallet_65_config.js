@@ -1,1 +1,1 @@
-var mnemonic = "example agent panda bring denial chimney butter lens nerve broom artist refuse";
+var mnemonic = "pond assist chronic tube chair transfer repair charge wash amused earth time";

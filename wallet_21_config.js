@@ -1,1 +1,1 @@
-var mnemonic = "opera abstract camp teach fossil imitate lizard milk gauge tower reduce place";
+var mnemonic = "office angry sunny kick math breeze lemon boss chronic poem olive simple";

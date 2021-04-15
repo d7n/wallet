@@ -1,1 +1,1 @@
-var mnemonic = "spice stereo oak torch prevent easy accident collect such bread coin rose";
+var mnemonic = "refuse start coyote toast resist film ivory drastic vacuum leader lake promote";

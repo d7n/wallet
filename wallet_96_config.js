@@ -1,1 +1,1 @@
-var mnemonic = "unlock mutual permit drift minor limit spoil essay sting need local slender";
+var mnemonic = "fold insect cement skill modify evil negative warfare venue mango crime arrow";

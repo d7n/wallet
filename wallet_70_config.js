@@ -1,1 +1,1 @@
-var mnemonic = "picture diagram slam grab oppose jewel always various program detect insect mixture";
+var mnemonic = "law indoor blade section lizard fossil nose misery pioneer salute champion return";

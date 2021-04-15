@@ -1,1 +1,1 @@
-var mnemonic = "drift helmet enact defense session skill genuine city sea taxi rocket school";
+var mnemonic = "surge wedding between bike welcome offer dinosaur camp vital describe beyond extend";

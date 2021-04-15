@@ -1,1 +1,1 @@
-var mnemonic = "drop village solar clever price man million note replace impact cancel gas";
+var mnemonic = "sword powder then garbage enjoy bicycle about sorry illegal artwork hungry divorce";

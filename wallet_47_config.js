@@ -1,1 +1,1 @@
-var mnemonic = "flower monster advice side version naive action modify liberty initial rapid disorder";
+var mnemonic = "evoke mule remove explain face awake modify report jelly digital keep chimney";

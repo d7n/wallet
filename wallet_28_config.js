@@ -1,1 +1,1 @@
-var mnemonic = "medal then curious shaft wagon charge any elephant target simple elevator guess";
+var mnemonic = "thank second hand digital fan main banana day protect stereo circle nation";

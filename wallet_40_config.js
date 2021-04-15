@@ -1,1 +1,1 @@
-var mnemonic = "choice fringe museum muffin pen lava portion retreat cat diagram unique first";
+var mnemonic = "slab whale update pulp shallow describe grass daughter shoulder escape token walk";

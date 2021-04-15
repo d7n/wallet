@@ -1,1 +1,1 @@
-var mnemonic = "remain peasant alcohol sign million shaft sphere rely lava almost person decade";
+var mnemonic = "hard dentist spell cost surprise cheap together wisdom unable supply swift limb";

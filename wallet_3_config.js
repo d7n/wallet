@@ -1,1 +1,1 @@
-var mnemonic = "gallery win perfect hungry total burden hazard decade copper whip salmon radar";
+var mnemonic = "excuse depth aerobic budget gorilla wife iron bundle circle coral below brain";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger eager media quarter nice quarter embody radio leader identify govern just";
+var mnemonic = "approve service inform dirt marble later snow taxi leaf media armor jar";

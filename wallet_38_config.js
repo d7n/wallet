@@ -1,1 +1,1 @@
-var mnemonic = "buzz indicate tackle blouse board join conduct twin utility buyer smoke step";
+var mnemonic = "dignity rebuild repeat junk firm person cannon fatal skate lucky suspect famous";

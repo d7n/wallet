@@ -1,1 +1,1 @@
-var mnemonic = "farm fatal web make february tent deliver reunion coconut favorite prize eternal";
+var mnemonic = "pave wagon auto crazy build acid boy hub vault fine day rival";

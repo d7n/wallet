@@ -1,1 +1,1 @@
-var mnemonic = "quality edge assume near away embody aerobic legal bread topple noise charge";
+var mnemonic = "boss cruel shaft arrest assume vintage brief vocal cricket prison smoke rude";

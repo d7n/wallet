@@ -1,1 +1,1 @@
-var mnemonic = "trip food side during gown track recall near salmon rapid supply mule";
+var mnemonic = "fancy pet lunar always code job flight noble aspect leader cattle acid";

@@ -1,1 +1,1 @@
-var mnemonic = "company mixed very prison such virtual glance cash venture crater hour foil";
+var mnemonic = "wheat throw patrol kitchen essay differ laugh peanut mansion aerobic donkey rebuild";

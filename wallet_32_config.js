@@ -1,1 +1,1 @@
-var mnemonic = "dune sword code recipe another tail input latin budget remove kid rhythm";
+var mnemonic = "attitude undo shadow uncle success toss bag negative round amused pole season";

@@ -1,1 +1,1 @@
-var mnemonic = "core learn exist palace cross life return crater clock begin crater hamster";
+var mnemonic = "apology finger arm place shy dance work rather there dog ring across";

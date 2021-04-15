@@ -1,1 +1,1 @@
-var mnemonic = "home size wish relax skill flee sun tissue coral hip exotic soda";
+var mnemonic = "fade index busy shoe person captain steak circle enlist donor chef believe";

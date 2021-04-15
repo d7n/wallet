@@ -1,1 +1,1 @@
-var mnemonic = "excuse treat present luxury universe crack depart sea brain receive cereal lava";
+var mnemonic = "gold virtual forward bonus punch swear interest often umbrella grunt tree wide";

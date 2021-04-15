@@ -1,1 +1,1 @@
-var mnemonic = "route sign father venture marble daring zero client burden file face ski";
+var mnemonic = "inch range honey undo embark harbor list pitch reason educate history clump";

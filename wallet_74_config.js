@@ -1,1 +1,1 @@
-var mnemonic = "private hold world shuffle brand custom push machine surface notice setup frost";
+var mnemonic = "profit infant banner destroy place regular rubber seed pond avocado rose eager";

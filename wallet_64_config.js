@@ -1,1 +1,1 @@
-var mnemonic = "awesome replace sentence paddle minimum balance skate cricket skirt razor tip know";
+var mnemonic = "walnut night oven blood dinner provide crystal essence agree item wall any";

@@ -1,1 +1,1 @@
-var mnemonic = "fox unable horror repair federal drastic rubber indoor journey dance only fire";
+var mnemonic = "gym hunt wisdom tell stumble egg test flash alarm awesome valve charge";

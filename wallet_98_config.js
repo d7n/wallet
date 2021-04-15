@@ -1,1 +1,1 @@
-var mnemonic = "vicious tag monitor correct own cross recipe language gym pudding eternal total";
+var mnemonic = "lizard danger modify lock rule sibling shiver slab vintage walk monster strategy";

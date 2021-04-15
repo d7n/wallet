@@ -1,1 +1,1 @@
-var mnemonic = "prosper volcano harvest certain parade equip clay coach lucky before regular diesel";
+var mnemonic = "wheat accident teach heart shy toilet dumb glue bunker club senior empower";

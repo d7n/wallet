@@ -1,1 +1,1 @@
-var mnemonic = "seat moral boil off kidney allow property unique round friend fitness keep";
+var mnemonic = "satisfy library lemon sauce miss moment cloth payment engage expect crop window";

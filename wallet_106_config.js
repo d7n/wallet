@@ -1,1 +1,1 @@
-var mnemonic = "giant guitar venture lobster tuition beach patrol chicken verb link dream hamster";
+var mnemonic = "claim vacuum entire element silly festival axis exist wood pig winter stuff";

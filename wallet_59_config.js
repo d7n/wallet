@@ -1,1 +1,1 @@
-var mnemonic = "tortoise glue brand bullet jazz manage found strong coin unknown enact strong";
+var mnemonic = "pledge lemon escape angry address mosquito stuff world author sentence excess sock";

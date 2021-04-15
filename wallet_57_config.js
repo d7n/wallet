@@ -1,1 +1,1 @@
-var mnemonic = "sound already honey uncle grant whale easy cousin language sponsor rent brother";
+var mnemonic = "lecture toward trigger eternal travel brown brave practice assist figure taxi quit";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt ethics afford fame primary book frog suit ribbon memory keep cup";
+var mnemonic = "stairs fuel write buyer recycle ostrich glide museum demand fit cereal hungry";

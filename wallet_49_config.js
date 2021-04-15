@@ -1,1 +1,1 @@
-var mnemonic = "spy target topic fabric above lion brush west buddy second spend funny";
+var mnemonic = "jungle zoo charge loop horse parade trophy shock ticket street innocent ribbon";

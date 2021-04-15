@@ -1,1 +1,1 @@
-var mnemonic = "device tell ticket resist memory hat soon scare taste album exile stomach";
+var mnemonic = "yard tent pottery pipe athlete fault client frozen feel bubble ivory million";

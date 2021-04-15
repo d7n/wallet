@@ -1,1 +1,1 @@
-var mnemonic = "second subway dwarf spin belt clap tone gold orange satoshi venture twice";
+var mnemonic = "impose solar squeeze present theory tenant team normal force urban cost festival";

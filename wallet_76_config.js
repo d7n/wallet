@@ -1,1 +1,1 @@
-var mnemonic = "hole strike drip solid chimney dirt noble dragon ship major one patch";
+var mnemonic = "people bean venture include busy child question pony gauge obtain vanish erosion";

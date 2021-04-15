@@ -1,1 +1,1 @@
-var mnemonic = "short range amount loop cat setup plastic organ satisfy mercy hand frame";
+var mnemonic = "engage cloud inherit one economy inch valid target violin swear purity spread";

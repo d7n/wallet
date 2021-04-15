@@ -1,1 +1,1 @@
-var mnemonic = "screen monitor combine punch faint web dry dentist senior attract retire tree";
+var mnemonic = "normal domain cherry scout high east skin typical holiday purchase drink ticket";

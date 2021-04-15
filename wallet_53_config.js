@@ -1,1 +1,1 @@
-var mnemonic = "ticket maze purpose virtual dust patrol matrix victory output inflict eternal attract";
+var mnemonic = "today place pizza liberty pudding doll giraffe harsh empty grab argue planet";

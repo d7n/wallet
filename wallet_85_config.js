@@ -1,1 +1,1 @@
-var mnemonic = "crunch north hero flag deal script found wonder direct reunion erase together";
+var mnemonic = "clay phrase ivory dune scrap case tattoo nut luxury approve laundry upper";

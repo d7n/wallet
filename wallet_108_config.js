@@ -1,1 +1,1 @@
-var mnemonic = "crop spike side garage giant debris buzz seminar please glue three time";
+var mnemonic = "sudden hammer crawl erupt expect eye west dinner vintage process write nerve";

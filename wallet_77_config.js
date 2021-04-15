@@ -1,1 +1,1 @@
-var mnemonic = "figure like obvious mobile fragile rain antique public shuffle page chef robust";
+var mnemonic = "ensure tattoo review theme gas liquid bamboo child abstract license rubber side";

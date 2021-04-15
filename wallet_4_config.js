@@ -1,1 +1,1 @@
-var mnemonic = "base wire bulk urge puzzle when logic student best castle dice name";
+var mnemonic = "pizza evoke gate chicken mercy major whisper balance arrest peasant crash leader";

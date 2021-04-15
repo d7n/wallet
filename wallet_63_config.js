@@ -1,1 +1,1 @@
-var mnemonic = "voice ensure pair call devote fruit economy defense defense artwork gadget bicycle";
+var mnemonic = "pause credit reform alarm lobster involve grass voice size plug sudden cube";

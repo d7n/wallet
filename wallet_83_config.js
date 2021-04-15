@@ -1,1 +1,1 @@
-var mnemonic = "easy junk sadness aware brush bring midnight theory alone capable connect strong";
+var mnemonic = "found pyramid olive intact rare metal oyster fiscal obscure arrange carbon game";

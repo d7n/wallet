@@ -1,1 +1,1 @@
-var mnemonic = "pluck dance close ordinary gravity apple exact rug light chalk acid flame";
+var mnemonic = "burden sad donkey future add trust notice brand filter science motor shop";

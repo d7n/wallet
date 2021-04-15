@@ -1,1 +1,1 @@
-var mnemonic = "enter conduct nuclear slice antique brand fix door filter wedding inflict caution";
+var mnemonic = "age multiply eagle wonder creek ugly security torch reward light goat nut";

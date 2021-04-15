@@ -1,1 +1,1 @@
-var mnemonic = "myself swap puzzle enlist sentence country nose boat august wheel worth domain";
+var mnemonic = "crumble original sibling firm fossil evolve beef case valve assault hurt jacket";

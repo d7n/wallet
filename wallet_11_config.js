@@ -1,1 +1,1 @@
-var mnemonic = "jump employ frame lab open dirt abandon regular orchard evolve hole news";
+var mnemonic = "nest swamp list dose label ecology fun tiger month nephew dish daring";

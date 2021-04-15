@@ -1,1 +1,1 @@
-var mnemonic = "error record shoot wedding dry rotate perfect skirt couple enact bring cattle";
+var mnemonic = "bronze tragic silent next enjoy keep glide sudden praise cable jazz human";

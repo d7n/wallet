@@ -1,1 +1,1 @@
-var mnemonic = "calm old world spy tornado inform tip travel expect deal seminar mix";
+var mnemonic = "panther divorce estate when screen reopen fog install impose alien ethics field";

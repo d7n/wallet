@@ -1,1 +1,1 @@
-var mnemonic = "near skull crew diamond wood owner uncle garment spoon during father model";
+var mnemonic = "swift imitate dwarf sword trade hollow corn syrup donate foster axis month";

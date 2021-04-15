@@ -1,1 +1,1 @@
-var mnemonic = "luxury traffic awkward minor planet basic avocado excess broken quality crumble parade";
+var mnemonic = "arrive brand unknown usage tissue sudden orchard dignity drink tell metal main";

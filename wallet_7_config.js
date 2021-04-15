@@ -1,1 +1,1 @@
-var mnemonic = "cup case pond faculty trial measure damp surface broom test runway stove";
+var mnemonic = "enter steak require sort hello quick escape kit lend ladder reunion below";

@@ -1,1 +1,1 @@
-var mnemonic = "grief major prevent horn park cash twenty renew evoke phrase try test";
+var mnemonic = "anger taxi rural pitch bright hole involve raccoon join asthma kingdom random";

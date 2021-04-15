@@ -1,1 +1,1 @@
-var mnemonic = "suspect monster print beauty ankle pact boy chase brisk useless history cash";
+var mnemonic = "false copy spy kidney share shock bean hover panel situate clinic island";

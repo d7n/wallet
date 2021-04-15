@@ -1,1 +1,1 @@
-var mnemonic = "horror cabbage tool office clip punch bullet nominee series cat avoid upon";
+var mnemonic = "alpha reduce oppose because giggle east casual album sentence stick brother foot";

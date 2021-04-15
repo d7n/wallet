@@ -1,1 +1,1 @@
-var mnemonic = "maximum ivory swap catch student direct bubble cliff property velvet casual top";
+var mnemonic = "occur knife element insane dice tuition noble opera noodle fitness empty indicate";

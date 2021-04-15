@@ -1,1 +1,1 @@
-var mnemonic = "awesome interest seat host oblige diesel satoshi prevent potato term devote cause";
+var mnemonic = "crop owner space better usual intact brisk auction lion frequent misery humble";

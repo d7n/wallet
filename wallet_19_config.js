@@ -1,1 +1,1 @@
-var mnemonic = "memory knock run knife mail comfort silent lion arrest between receive cement";
+var mnemonic = "pilot boy side flock fringe birth spice version ivory shine romance parrot";

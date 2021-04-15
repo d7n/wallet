@@ -1,1 +1,1 @@
-var mnemonic = "cool wrong sense improve mansion session jaguar sketch credit kitchen error cover";
+var mnemonic = "game soccer hood measure city waste motion celery upgrade save oblige wear";

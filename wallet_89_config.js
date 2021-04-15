@@ -1,1 +1,1 @@
-var mnemonic = "educate topple shoot rally coyote clever tumble helmet resemble promote slam cable";
+var mnemonic = "bubble talk column boil photo still inject path breeze satisfy once fold";

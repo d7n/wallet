@@ -1,1 +1,1 @@
-var mnemonic = "canyon real include join copper deputy concert solid another top verify before";
+var mnemonic = "merit busy keep protect clip saddle abuse crack wool brand smart labor";

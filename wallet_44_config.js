@@ -1,1 +1,1 @@
-var mnemonic = "present spin sun hobby offer first punch fetch case topic there unable";
+var mnemonic = "lazy toward smile enhance catch item market license nuclear concert plastic share";

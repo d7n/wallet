@@ -1,1 +1,1 @@
-var mnemonic = "nasty you injury frog excite fame kick federal aunt prevent coconut elegant";
+var mnemonic = "choice dune engage aim trophy ill fit idle dragon leader female cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend news clutch deal rely garage donate sister speak park brief turkey";
+var mnemonic = "journey affair slogan winner favorite admit traffic position urban age extra slush";

@@ -1,1 +1,1 @@
-var mnemonic = "vague sting cart sun ancient amateur never soccer business clay exist height";
+var mnemonic = "blade cover dismiss egg flat parade guard spoon seed collect usual south";

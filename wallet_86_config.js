@@ -1,1 +1,1 @@
-var mnemonic = "mobile best athlete bridge dish journey magnet idea rotate wear upset grocery";
+var mnemonic = "science chase repeat verify pistol oval window future crouch supply evolve wear";

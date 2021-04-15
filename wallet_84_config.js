@@ -1,1 +1,1 @@
-var mnemonic = "skate scatter call trend donor remain post fiscal theme orphan gallery cupboard";
+var mnemonic = "milk curve brick concert arrow prefer grit mistake cactus settle tortoise inspire";

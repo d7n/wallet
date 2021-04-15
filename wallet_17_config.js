@@ -1,1 +1,1 @@
-var mnemonic = "fish sugar lonely copy retire comic army hover demand fiscal apart absent";
+var mnemonic = "tongue robot promote rate health near leave erupt achieve basket rotate benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "unable note ketchup citizen manage danger grocery noise unable day embark coil";
+var mnemonic = "awkward puzzle dynamic romance mad orange whisper label cheese rain swarm physical";

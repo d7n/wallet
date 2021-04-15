@@ -1,1 +1,1 @@
-var mnemonic = "fatal tornado envelope clarify invest social wire snack sail assault disease comfort";
+var mnemonic = "setup blast warfare indoor safe young fee waste duty summer repair canal";

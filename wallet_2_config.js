@@ -1,1 +1,1 @@
-var mnemonic = "jacket often come town cradle build range life midnight network narrow write";
+var mnemonic = "congress hidden hill weasel tumble burger tortoise grape vicious walk appear depart";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor make analyst holiday vast pear question erase naive abuse dose twist";
+var mnemonic = "knock what board able surface relief into bomb eagle surge legend depth";

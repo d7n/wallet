@@ -1,1 +1,1 @@
-var mnemonic = "sand sleep permit trust merge kid mosquito shrimp hood sphere scissors weird";
+var mnemonic = "city stone sea illness route desert achieve goat trim attack inform script";

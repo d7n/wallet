@@ -1,1 +1,1 @@
-var mnemonic = "mesh join aim coil govern morning latin rich utility gallery weird lonely";
+var mnemonic = "trophy canal differ genre tortoise knock soft okay inquiry detect dignity modify";

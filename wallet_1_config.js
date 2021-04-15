@@ -1,1 +1,1 @@
-var mnemonic = "drastic tomorrow pottery case pelican desert lizard aim horn fly diary innocent";
+var mnemonic = "garden seminar hood inner crush shell ecology ill degree clever early cat";

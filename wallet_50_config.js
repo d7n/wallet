@@ -1,1 +1,1 @@
-var mnemonic = "hamster accident car tribe bar attitude actual sketch balcony loop metal champion";
+var mnemonic = "asset thought video tattoo skirt parade hotel cruise glory what defy attract";

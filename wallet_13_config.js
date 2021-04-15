@@ -1,1 +1,1 @@
-var mnemonic = "odor sleep deer soldier pledge chapter pen spice nut hen fork usage";
+var mnemonic = "elephant rival divert endorse dawn debris erupt transfer lecture endless front hour";

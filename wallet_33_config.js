@@ -1,1 +1,1 @@
-var mnemonic = "frown fork unaware helmet uphold idle broom gate arrow mixed boil often";
+var mnemonic = "swing duty wage fold desert merge local neutral water list sock reject";

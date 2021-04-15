@@ -1,1 +1,1 @@
-var mnemonic = "rug nation okay destroy sibling grape around alcohol stamp fault device brown";
+var mnemonic = "inquiry canvas inmate family person property ranch ivory coast enrich sock patch";

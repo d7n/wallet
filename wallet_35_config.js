@@ -1,1 +1,1 @@
-var mnemonic = "duck anger source recipe chuckle bleak brief unusual about ring van cost";
+var mnemonic = "cabbage gold color museum measure spawn evoke weasel used valid hidden turkey";

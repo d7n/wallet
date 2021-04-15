@@ -1,1 +1,1 @@
-var mnemonic = "twin relief nice hill road armed lion lunch glad away usage any";
+var mnemonic = "grid vault brisk away loud post smoke pool trend fashion bid clump";
