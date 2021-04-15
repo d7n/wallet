@@ -1,1 +1,1 @@
-var mnemonic = "margin screen argue sword wash pupil cereal interest palm dove violin into";
+var mnemonic = "borrow monkey friend film master music there scout side hawk tired club";

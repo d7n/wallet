@@ -1,1 +1,1 @@
-var mnemonic = "economy jealous minimum unable garden special capable business tide gorilla language ketchup";
+var mnemonic = "reopen napkin initial misery faith blouse wine decorate roof flee camera universe";

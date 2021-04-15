@@ -1,1 +1,1 @@
-var mnemonic = "blanket shed accuse lock supply cram problem over language fruit ice bulb";
+var mnemonic = "danger sudden equal eagle width ensure discover circle survey umbrella friend umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "shock bomb nurse journey grab already trial stumble rude erupt whisper reject";
+var mnemonic = "scrap resemble inside spray devote real wild live public ivory more initial";

@@ -1,1 +1,1 @@
-var mnemonic = "float random symptom document turn awesome clog night school whip true butter";
+var mnemonic = "axis whisper spray admit frozen combine wedding milk valve motion jaguar swift";

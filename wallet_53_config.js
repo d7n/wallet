@@ -1,1 +1,1 @@
-var mnemonic = "town answer gold summer fun box people sorry inflict hunt close gold";
+var mnemonic = "nephew number common identify glove sample vanish adapt trumpet oak plastic dish";

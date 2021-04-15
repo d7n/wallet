@@ -1,1 +1,1 @@
-var mnemonic = "account rib sad call supply join vote cover type cable nothing person";
+var mnemonic = "glimpse parade beach pull detect stock come dash obtain rude actor basket";

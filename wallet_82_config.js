@@ -1,1 +1,1 @@
-var mnemonic = "olive trigger shoot book now two song clutch furnace rookie knee team";
+var mnemonic = "puppy other embark fiction bonus relief decline exhibit adjust render depart slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "chair demand basic extra arrive wisdom smoke cliff choose trash runway enhance";
+var mnemonic = "lens round salt race icon fence marine spoon vacuum blast dawn cement";

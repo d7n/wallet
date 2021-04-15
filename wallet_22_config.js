@@ -1,1 +1,1 @@
-var mnemonic = "walnut half food base river student face useless announce crazy object issue";
+var mnemonic = "almost nice viable garden swear earth torch way notice donkey excuse can";

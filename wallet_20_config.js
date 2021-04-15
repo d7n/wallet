@@ -1,1 +1,1 @@
-var mnemonic = "broom tackle much hawk accident parade oven tell scorpion tank roof piece";
+var mnemonic = "seed install fault satoshi script board amused fetch patrol post mutual candy";

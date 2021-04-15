@@ -1,1 +1,1 @@
-var mnemonic = "game skin hover position access stable focus random budget prize host eye";
+var mnemonic = "master coyote hundred govern tool canoe pigeon property noise frame smooth boring";

@@ -1,1 +1,1 @@
-var mnemonic = "teach hundred artist cat beach rough extra rich sauce inmate marine earth";
+var mnemonic = "carry ready reunion kite motor cupboard avoid project bone trumpet latin upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "damage oyster vintage trim roof fantasy stem exercise nation region orphan corn";
+var mnemonic = "angle taxi trend guitar year repair escape private captain tape unique ordinary";

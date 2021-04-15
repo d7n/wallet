@@ -1,1 +1,1 @@
-var mnemonic = "buffalo disagree vessel apology kingdom quit eagle squirrel solid famous fabric pulse";
+var mnemonic = "lonely scatter original account cricket scan outer pave nuclear tell wet scatter";

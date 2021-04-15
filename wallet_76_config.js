@@ -1,1 +1,1 @@
-var mnemonic = "glance wrestle apart grace steel when raven deny pulp monster crowd pen";
+var mnemonic = "upon bottom knock unfair choice horror access monkey pottery matrix anger point";

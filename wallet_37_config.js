@@ -1,1 +1,1 @@
-var mnemonic = "burst erode exact eye leader like property romance cinnamon inside liquid ask";
+var mnemonic = "rail aisle bomb fall draft rival brisk smile miracle find tilt search";

@@ -1,1 +1,1 @@
-var mnemonic = "useful job wedding brand donate quiz crew oven seek supply waste quote";
+var mnemonic = "salon weapon alcohol fly tree amused eternal forget peanut twice virtual shock";

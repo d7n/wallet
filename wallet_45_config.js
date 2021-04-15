@@ -1,1 +1,1 @@
-var mnemonic = "beach destroy benefit cute half lunar dad shop notice scale simple basic";
+var mnemonic = "remind rent extra extra spoon file desk genuine that brother universe proof";

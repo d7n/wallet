@@ -1,1 +1,1 @@
-var mnemonic = "genius post panic curtain scissors video move employ such scan mixture pepper";
+var mnemonic = "leaf lounge aisle right coyote spider verb sting text hamster hour liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "globe estate ready daughter they heavy round save chest canoe because deny";
+var mnemonic = "frown crater loan humor fog skate hard rookie image submit replace peanut";

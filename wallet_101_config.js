@@ -1,1 +1,1 @@
-var mnemonic = "coconut enjoy bleak square donate aim churn certain mix fade chat pigeon";
+var mnemonic = "book mosquito spatial walk idle expose tiny mouse whip puppy expire celery";

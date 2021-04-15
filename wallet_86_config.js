@@ -1,1 +1,1 @@
-var mnemonic = "margin bounce verb pretty lemon museum silly permit daughter spray avocado spread";
+var mnemonic = "night found twist loop october start ticket danger toss expose frame fit";

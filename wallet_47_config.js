@@ -1,1 +1,1 @@
-var mnemonic = "sugar inch swamp flame forum dirt lunar people crack ribbon olive casino";
+var mnemonic = "fork advice wall resist acoustic drift gadget quick express book effort same";

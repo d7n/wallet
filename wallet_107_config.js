@@ -1,1 +1,1 @@
-var mnemonic = "near achieve reward lazy tomato wide novel ticket spoil assume bike hole";
+var mnemonic = "skull guilt fatal bounce leave color panel fine kid valve make fog";

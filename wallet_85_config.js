@@ -1,1 +1,1 @@
-var mnemonic = "perfect oppose ramp spread execute chef general bubble street cousin genre silver";
+var mnemonic = "same visit rug simple nerve income beef argue hospital spring large style";

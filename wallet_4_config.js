@@ -1,1 +1,1 @@
-var mnemonic = "wreck nurse sort primary trend caught ritual young typical annual absent super";
+var mnemonic = "fuel sun oil action ripple range jar uncle whale author traffic achieve";

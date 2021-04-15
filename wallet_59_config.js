@@ -1,1 +1,1 @@
-var mnemonic = "mixed tonight agree novel crystal sausage busy actor shadow caution goat will";
+var mnemonic = "amused unusual floor super medal depth cherry paper coach hotel equip seat";

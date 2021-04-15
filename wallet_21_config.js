@@ -1,1 +1,1 @@
-var mnemonic = "vicious fuel abuse captain defense parrot lucky say slot ecology midnight jar";
+var mnemonic = "food maximum save call chief hour special advice day force shove prepare";

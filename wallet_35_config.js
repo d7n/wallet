@@ -1,1 +1,1 @@
-var mnemonic = "cousin vacuum grow crop equip boss grant slush buyer kid pizza guess";
+var mnemonic = "ostrich service forest train omit valley force merit quit update version express";

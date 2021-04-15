@@ -1,1 +1,1 @@
-var mnemonic = "mixed roof kit annual fiscal response anchor genius inside elevator vibrant joy";
+var mnemonic = "crowd rice crew matrix clinic water flight federal yard erase invite crisp";

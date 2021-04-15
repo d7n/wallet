@@ -1,1 +1,1 @@
-var mnemonic = "hip chest glide boy burden leader rookie build tragic furnace baby ivory";
+var mnemonic = "indicate title unit blood jaguar when lab quarter lottery useful speed achieve";

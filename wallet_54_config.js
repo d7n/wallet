@@ -1,1 +1,1 @@
-var mnemonic = "inspire solar jump despair poverty mobile hurdle burst hand correct replace wet";
+var mnemonic = "tired again dynamic chest abuse bag roof bench base junk battle risk";

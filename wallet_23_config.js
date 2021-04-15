@@ -1,1 +1,1 @@
-var mnemonic = "also express true drift rural bargain proof bronze shoe table aware energy";
+var mnemonic = "motor excite one trial pelican recipe advice train absurd cool grab letter";

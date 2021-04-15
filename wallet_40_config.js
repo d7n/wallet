@@ -1,1 +1,1 @@
-var mnemonic = "chuckle autumn rather snake liquid east erase mention girl episode clinic another";
+var mnemonic = "capable tank grass system clinic pause sister grain anger panic throw expose";

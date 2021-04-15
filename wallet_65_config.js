@@ -1,1 +1,1 @@
-var mnemonic = "junior damp fly young roast meadow embody laugh exact denial evoke wink";
+var mnemonic = "rich snake ankle copy glide neutral rude blast issue actual memory sound";

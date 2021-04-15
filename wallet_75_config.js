@@ -1,1 +1,1 @@
-var mnemonic = "ketchup embark faculty filter sweet pelican cruel option school shoot rose lucky";
+var mnemonic = "empty elbow still novel powder super steak web whisper wood now shift";

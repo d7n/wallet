@@ -1,1 +1,1 @@
-var mnemonic = "accuse bean broccoli primary shy sunny weasel nurse crane airport convince loyal";
+var mnemonic = "yard library crucial scissors endorse shoot check ignore bargain spray teach shock";

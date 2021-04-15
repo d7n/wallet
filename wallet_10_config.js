@@ -1,1 +1,1 @@
-var mnemonic = "useful sell curtain maze item basic churn warm garden height grab picture";
+var mnemonic = "place arch animal cheese bring flat else media modify rigid virus lady";

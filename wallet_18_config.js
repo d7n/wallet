@@ -1,1 +1,1 @@
-var mnemonic = "will enact cousin warfare toss oppose planet lecture other wrong path rebel";
+var mnemonic = "height hover radio festival scissors trumpet history dress room potato round buffalo";

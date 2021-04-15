@@ -1,1 +1,1 @@
-var mnemonic = "average apology square symptom smile build point exercise obvious visit cave learn";
+var mnemonic = "stomach cart power blood dirt guitar argue excite elite dance victory push";

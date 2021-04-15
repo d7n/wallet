@@ -1,1 +1,1 @@
-var mnemonic = "churn gown frozen state noodle leave language mistake focus deliver fiscal neglect";
+var mnemonic = "scene law zone fault camera rabbit strike twelve fragile family female squeeze";

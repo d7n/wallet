@@ -1,1 +1,1 @@
-var mnemonic = "bonus raw number bless despair split lunar tired antique tent blame scorpion";
+var mnemonic = "satisfy best muscle hunt version never radio finish cute impact target filter";

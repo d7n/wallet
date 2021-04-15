@@ -1,1 +1,1 @@
-var mnemonic = "loud know razor chronic hollow admit claw rapid dust maple foot domain";
+var mnemonic = "slow rate river play power apology harvest shine early sting uncover panel";

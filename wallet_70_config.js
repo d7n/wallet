@@ -1,1 +1,1 @@
-var mnemonic = "can welcome require symbol wage volume famous reduce coach critic vague column";
+var mnemonic = "erode tumble right exotic lumber shallow brisk post half mass teach romance";

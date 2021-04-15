@@ -1,1 +1,1 @@
-var mnemonic = "say polar charge burst come stereo proud marble faint kite voice angle";
+var mnemonic = "raccoon pepper worth boost kidney enemy green rocket attack inflict sauce nothing";

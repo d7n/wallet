@@ -1,1 +1,1 @@
-var mnemonic = "sure near explain toe pudding potato claw asset flip lamp still ordinary";
+var mnemonic = "all coconut ancient minute verb oil boss cash clump rigid sound crowd";

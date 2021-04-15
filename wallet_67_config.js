@@ -1,1 +1,1 @@
-var mnemonic = "pretty yard online ship soul loyal elevator venture labor core release taxi";
+var mnemonic = "wire short crumble rice bargain police tortoise allow shop spider minute isolate";

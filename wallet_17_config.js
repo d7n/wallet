@@ -1,1 +1,1 @@
-var mnemonic = "text minute lend quiz priority alone rapid trigger chair hotel shoot echo";
+var mnemonic = "welcome field plate canal amateur wing wear laptop calm web basic lumber";

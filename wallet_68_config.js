@@ -1,1 +1,1 @@
-var mnemonic = "clever expand camp erupt thought diary quick sphere spot color mountain manage";
+var mnemonic = "stumble ship language frozen sketch payment humor gate burst transfer blind volcano";

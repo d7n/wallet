@@ -1,1 +1,1 @@
-var mnemonic = "foam wage horn nation raw bar empower roof right spread accuse answer";
+var mnemonic = "gather album clinic enter little force vessel depend private process cake math";

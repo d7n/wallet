@@ -1,1 +1,1 @@
-var mnemonic = "cube depend render pet frame food desk frequent provide pear still camp";
+var mnemonic = "acquire sell science clap topple tomorrow crouch exclude narrow invite fossil language";

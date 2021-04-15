@@ -1,1 +1,1 @@
-var mnemonic = "thing earn sad fork wagon dance prefer such put during worry movie";
+var mnemonic = "coral vehicle toilet floor name credit then method produce cycle wheel gain";

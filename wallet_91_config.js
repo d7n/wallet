@@ -1,1 +1,1 @@
-var mnemonic = "siege fence uphold keep napkin sure twist misery chuckle turtle flip system";
+var mnemonic = "raccoon wish upgrade cycle diet start draft inside minute stereo zero foot";

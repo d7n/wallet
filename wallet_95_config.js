@@ -1,1 +1,1 @@
-var mnemonic = "casual lottery brief cinnamon magnet kitchen cloud buffalo light congress animal affair";
+var mnemonic = "midnight opinion pig cricket intact change include siege sunny ridge boy frown";

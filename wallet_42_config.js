@@ -1,1 +1,1 @@
-var mnemonic = "refuse surface explain upgrade couch true draft rural blood extend ticket panda";
+var mnemonic = "smart addict option confirm image subject milk comfort jelly muffin leg rude";

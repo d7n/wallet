@@ -1,1 +1,1 @@
-var mnemonic = "business loud woman wear onion mosquito measure chalk raise sniff public innocent";
+var mnemonic = "alcohol suspect dune machine female path staff cost infant flat stomach cancel";

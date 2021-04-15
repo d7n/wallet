@@ -1,1 +1,1 @@
-var mnemonic = "ready prison chest pipe swallow green spike view laundry collect nasty silly";
+var mnemonic = "bird lazy scrap album quantum message guess rival state busy undo occur";

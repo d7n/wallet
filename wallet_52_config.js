@@ -1,1 +1,1 @@
-var mnemonic = "hat spoon able donkey lift donate diary situate mass royal bring trouble";
+var mnemonic = "educate tank congress warfare decade engine online giraffe episode ignore west glare";

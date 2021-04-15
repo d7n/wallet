@@ -1,1 +1,1 @@
-var mnemonic = "current unit diet romance scale whale chest hammer excuse kidney cake frown";
+var mnemonic = "catch fancy caution useless trouble ceiling name rebuild noise blanket gate stem";

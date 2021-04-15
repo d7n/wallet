@@ -1,1 +1,1 @@
-var mnemonic = "suit green blade original short essence weather manual siege castle dust distance";
+var mnemonic = "puppy artwork nice wisdom trick client arrow rail half anchor fun jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper pink average moment girl battle twice hockey huge text stamp stone";
+var mnemonic = "sustain insane shield prison now tornado write produce around depth tomorrow prefer";

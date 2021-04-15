@@ -1,1 +1,1 @@
-var mnemonic = "liar gas awake risk tone toss debris unaware hard chef spike trade";
+var mnemonic = "struggle giraffe course govern alley plastic ankle logic know carbon merit meadow";

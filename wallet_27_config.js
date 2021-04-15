@@ -1,1 +1,1 @@
-var mnemonic = "fault fame ketchup cash okay envelope service impact cram ice diet unveil";
+var mnemonic = "brand squeeze rescue victory hint system carpet march dash truly injury spawn";

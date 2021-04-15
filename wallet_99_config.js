@@ -1,1 +1,1 @@
-var mnemonic = "avocado language burger year check lunar enable imitate basket afraid vibrant leaf";
+var mnemonic = "solution drum uncover olive unlock about shaft more pitch shiver gym fish";

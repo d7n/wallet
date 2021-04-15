@@ -1,1 +1,1 @@
-var mnemonic = "lend prize bean unfold afraid neutral entry hotel tool nothing circle cloth";
+var mnemonic = "maple movie perfect bulk farm stem artist average bunker obscure diagram grass";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey transfer olive together language rough sun uncover crucial rent image trim";
+var mnemonic = "floor endless butter myself work metal comfort yellow school heavy setup sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "fame keep upset baby flame sudden trap scene way slam solid fitness";
+var mnemonic = "eyebrow destroy swing round used include traffic crime figure remind potato nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "dune split brand room segment chest inquiry reunion butter say piece super";
+var mnemonic = "enough mango wash grocery tank soldier brave lamp six time orbit rare";

@@ -1,1 +1,1 @@
-var mnemonic = "cube now inch cheap senior keen person access drive endless field pave";
+var mnemonic = "success regret office illegal enrich olive fruit arm manual used layer deal";

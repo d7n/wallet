@@ -1,1 +1,1 @@
-var mnemonic = "purse celery frame ugly doctor jacket hybrid actual hungry grow rule cradle";
+var mnemonic = "abuse clog amused summer giraffe february leave heart wall pupil answer connect";

@@ -1,1 +1,1 @@
-var mnemonic = "budget wine excess federal oblige theme ancient more health cat creek mobile";
+var mnemonic = "mango elder thunder trim wide penalty various bacon pole receive drop laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "brain yellow salon skill figure issue occur sound finish service gain course";
+var mnemonic = "siren height trade favorite smile evolve mountain stage goddess team phone cube";

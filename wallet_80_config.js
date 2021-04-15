@@ -1,1 +1,1 @@
-var mnemonic = "kiwi outdoor nephew resist analyst grape fiber kind abandon attract window find";
+var mnemonic = "issue harbor artist glimpse design later rent chase limit ten alarm only";

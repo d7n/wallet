@@ -1,1 +1,1 @@
-var mnemonic = "issue student laugh bachelor clock cargo emerge scale doll true else weird";
+var mnemonic = "mail noodle dragon glad bridge radio skin crop anger acid useless fall";

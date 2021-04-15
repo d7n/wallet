@@ -1,1 +1,1 @@
-var mnemonic = "apology truly stairs firm crawl toward ring symptom noise desk deputy proud";
+var mnemonic = "walnut host tape elder swap street clock tooth view reform sound sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge tourist letter diet wrap inherit ribbon acquire equip cause slot liquid";
+var mnemonic = "imitate shop hundred orient vessel normal swamp inmate melody dress pear faith";

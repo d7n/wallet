@@ -1,1 +1,1 @@
-var mnemonic = "doctor knee empower siege case pizza know length prepare write inch image";
+var mnemonic = "supreme recycle advance clarify destroy velvet morning oak resource sample river blush";

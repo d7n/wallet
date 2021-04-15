@@ -1,1 +1,1 @@
-var mnemonic = "spider social avocado push scrap valid south smooth hire blame floor curve";
+var mnemonic = "laptop bring elevator bomb coffee top endless army return october segment lawn";

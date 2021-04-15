@@ -1,1 +1,1 @@
-var mnemonic = "fresh forward behave scare wife blouse story wagon collect cabbage wheat sister";
+var mnemonic = "fancy text surge cube three silk auto plunge minimum quality clown divert";

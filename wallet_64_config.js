@@ -1,1 +1,1 @@
-var mnemonic = "drum float table mammal blame miracle assume local bachelor rare now wish";
+var mnemonic = "want actual million brown maze believe spring oyster nasty hobby concert enter";

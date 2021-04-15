@@ -1,1 +1,1 @@
-var mnemonic = "disease useless physical tornado adjust legal review urban doctor once method immense";
+var mnemonic = "have fancy village craft giant stove cube over pistol attitude nice account";

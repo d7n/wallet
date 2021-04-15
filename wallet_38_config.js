@@ -1,1 +1,1 @@
-var mnemonic = "treat guide body slam anchor horn inside actual broom ride comfort prize";
+var mnemonic = "boy office eager apple confirm flower portion will popular series picture enter";

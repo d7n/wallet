@@ -1,1 +1,1 @@
-var mnemonic = "eight pilot rally where pig moon ball blanket ginger because wisdom ethics";
+var mnemonic = "south have shy rough ticket exist path fade increase monkey awake section";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk announce dice enact frequent clip bright today little turn spider margin";
+var mnemonic = "real ridge flight culture victory twist reform shrimp matrix property engine town";

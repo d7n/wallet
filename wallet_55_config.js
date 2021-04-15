@@ -1,1 +1,1 @@
-var mnemonic = "pride isolate pepper vacuum fold base head expect pudding state organ drift";
+var mnemonic = "pony pony garbage biology enough tilt pond invite warrior flag essence cigar";
