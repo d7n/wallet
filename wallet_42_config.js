@@ -1,1 +1,1 @@
-var mnemonic = "leader design into install wait syrup hen tag print bronze ten gloom";
+var mnemonic = "wreck zebra palm garlic modify suggest salad raise together small wreck spy";

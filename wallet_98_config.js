@@ -1,1 +1,1 @@
-var mnemonic = "year forget auction fix size half know able height neglect proof club";
+var mnemonic = "creek age clock diesel pen horror trust recycle wing better exhibit situate";

@@ -1,1 +1,1 @@
-var mnemonic = "know inherit host gift pioneer resource south foil remain unhappy mercy choose";
+var mnemonic = "love random pave cannon grab quote hidden indoor genius share buffalo primary";

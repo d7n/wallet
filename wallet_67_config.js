@@ -1,1 +1,1 @@
-var mnemonic = "stairs square parrot enter blouse gas weasel aware begin extra cook spoon";
+var mnemonic = "brush spirit decline voyage slab huge fault allow flavor frog large team";

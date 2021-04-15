@@ -1,1 +1,1 @@
-var mnemonic = "address turtle start language thrive agree climb evoke distance sweet pause corn";
+var mnemonic = "goose ability price omit warrior resource winner coil path fox matrix anchor";

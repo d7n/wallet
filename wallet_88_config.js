@@ -1,1 +1,1 @@
-var mnemonic = "bargain mimic video endorse pill scheme mechanic eagle fish together response horror";
+var mnemonic = "donkey recipe hobby hockey rebuild silk lizard gesture panel leisure snap brick";

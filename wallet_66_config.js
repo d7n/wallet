@@ -1,1 +1,1 @@
-var mnemonic = "brick arena pencil sheriff ozone space chest innocent occur scene advice good";
+var mnemonic = "treat print athlete conduct camp alcohol hurry sponsor life point raven length";

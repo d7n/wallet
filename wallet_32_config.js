@@ -1,1 +1,1 @@
-var mnemonic = "unfair consider media smart jump junior budget comfort copy boil knee pyramid";
+var mnemonic = "stuff guard shoulder copy cabin remove mosquito couch feed upgrade tortoise bird";

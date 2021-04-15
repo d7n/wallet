@@ -1,1 +1,1 @@
-var mnemonic = "palace business hello type patient alert metal cycle chair clutch consider dash";
+var mnemonic = "cupboard sketch throw reform mixture federal final mass decorate answer spread endless";

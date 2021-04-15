@@ -1,1 +1,1 @@
-var mnemonic = "horror amount ivory produce crucial dove spoon correct coyote expand use start";
+var mnemonic = "soup winter hen ugly then tornado desk neck primary future ten also";

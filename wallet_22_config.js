@@ -1,1 +1,1 @@
-var mnemonic = "private drill dry truly rug pudding spoon silent dust rotate express maid";
+var mnemonic = "state rocket table cattle harsh canvas thunder engage snack local time butter";

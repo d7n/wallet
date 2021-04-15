@@ -1,1 +1,1 @@
-var mnemonic = "umbrella festival type flee amused gap clay supreme present mule party chicken";
+var mnemonic = "region grape rose what pill violin stone bright scorpion hockey badge decline";

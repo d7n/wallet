@@ -1,1 +1,1 @@
-var mnemonic = "prevent gentle river similar senior shaft pistol pistol token poet equal crunch";
+var mnemonic = "van neglect market sign spread click cage coyote input profit inside table";

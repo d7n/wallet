@@ -1,1 +1,1 @@
-var mnemonic = "pear shuffle fit modify episode pig slush dust danger frost execute have";
+var mnemonic = "biology cash gentle arrow seat amused wheat height action plug sport carpet";

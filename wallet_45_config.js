@@ -1,1 +1,1 @@
-var mnemonic = "sing spray bird betray bike outdoor mask spare dirt whisper subject lunch";
+var mnemonic = "arm forget ticket friend hurry vast reason motor already witness cart tomato";

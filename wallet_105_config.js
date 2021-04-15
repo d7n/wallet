@@ -1,1 +1,1 @@
-var mnemonic = "sweet type mechanic umbrella menu play night quantum husband spawn unveil town";
+var mnemonic = "stick pattern lyrics priority panther poem space opera myth valley cycle electric";

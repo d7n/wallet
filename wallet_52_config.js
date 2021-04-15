@@ -1,1 +1,1 @@
-var mnemonic = "busy you helmet huge inquiry anxiety grow west scissors capable polar spirit";
+var mnemonic = "spawn long obvious sport asset tonight industry teach volcano broccoli estate book";

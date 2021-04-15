@@ -1,1 +1,1 @@
-var mnemonic = "drift camp give sing notice scene object organ dignity smile knock flock";
+var mnemonic = "office episode mixed battle team path amateur furnace type coffee muscle apart";

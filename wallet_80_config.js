@@ -1,1 +1,1 @@
-var mnemonic = "tiny frequent negative seed design image spare camp spread mass dust twist";
+var mnemonic = "zone link canyon creek wave funny tennis guide stumble route anger tourist";

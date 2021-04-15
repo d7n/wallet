@@ -1,1 +1,1 @@
-var mnemonic = "avoid artwork charge ivory item immune flight crush captain owner dismiss era";
+var mnemonic = "improve lamp gospel profit border picnic few access ginger either dawn interest";

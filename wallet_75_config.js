@@ -1,1 +1,1 @@
-var mnemonic = "math volcano math laptop test club account gold permit hybrid cabbage actual";
+var mnemonic = "film grow top material vanish often range uphold tooth govern mandate pistol";

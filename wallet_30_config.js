@@ -1,1 +1,1 @@
-var mnemonic = "brief album clerk dress vocal boat brisk ceiling start upon logic december";
+var mnemonic = "column eagle outside advice country shoot peace kingdom thunder reopen ritual mutual";

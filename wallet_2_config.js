@@ -1,1 +1,1 @@
-var mnemonic = "expire predict grape frame near tank mule push fashion attack next bulk";
+var mnemonic = "rebel capable weapon churn scheme kiwi ride deal crumble inch home fuel";

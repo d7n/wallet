@@ -1,1 +1,1 @@
-var mnemonic = "saddle ability science train appear void table occur arch impose wealth nominee";
+var mnemonic = "bubble celery sure churn solar denial country square creek wool pet buffalo";

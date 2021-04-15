@@ -1,1 +1,1 @@
-var mnemonic = "fork frame must brand plate run task social assault decade image assist";
+var mnemonic = "awful omit old merge about culture check retreat labor clinic model erode";

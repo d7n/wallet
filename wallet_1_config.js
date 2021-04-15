@@ -1,1 +1,1 @@
-var mnemonic = "rifle large leisure combine oppose robot curtain north shine save chalk amused";
+var mnemonic = "apple dumb group sniff expand until health under buffalo payment wrap renew";

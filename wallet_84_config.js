@@ -1,1 +1,1 @@
-var mnemonic = "grief boring student village glass noodle enact tail zone symptom train wing";
+var mnemonic = "purchase during session celery bunker please tip hurry spy accuse hen nasty";

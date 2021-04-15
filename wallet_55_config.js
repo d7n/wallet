@@ -1,1 +1,1 @@
-var mnemonic = "dizzy supreme appear property banana strike entire machine topic amount deputy trade";
+var mnemonic = "dress author mystery addict peace shock distance need business buyer puzzle menu";

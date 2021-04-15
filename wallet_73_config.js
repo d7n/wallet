@@ -1,1 +1,1 @@
-var mnemonic = "ugly turtle flame rather baby spoon ghost rug garbage isolate alarm donkey";
+var mnemonic = "phone urge upper capable taste illegal mechanic clutch name tumble happy strike";

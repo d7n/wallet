@@ -1,1 +1,1 @@
-var mnemonic = "emotion buzz scissors nuclear course drastic coyote feel divide relief twist inspire";
+var mnemonic = "medal fatal gasp route tissue turkey tape hat meat eagle valve only";

@@ -1,1 +1,1 @@
-var mnemonic = "undo recycle gas upset crisp left lobster rookie strike stage secret mother";
+var mnemonic = "gun rigid control web also enough faculty spin nation stone autumn end";

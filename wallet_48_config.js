@@ -1,1 +1,1 @@
-var mnemonic = "afford final excess pair disagree marine more step melody hotel debris dirt";
+var mnemonic = "mixed diary miracle curtain rubber sea easily spell town color unit skill";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster seek inside parade supply across wool master ring town upon snow";
+var mnemonic = "random entry zero acid few want label desk coral rebuild apple wave";

@@ -1,1 +1,1 @@
-var mnemonic = "juice age protect food cross cliff system derive melody skate rigid amused";
+var mnemonic = "sock again try file cupboard shuffle picnic retreat hill dentist kit unit";

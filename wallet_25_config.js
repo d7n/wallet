@@ -1,1 +1,1 @@
-var mnemonic = "crouch wool split exchange juice disorder again elephant marine plate danger practice";
+var mnemonic = "patch obey enter gold south program misery shoe balcony license void sadness";

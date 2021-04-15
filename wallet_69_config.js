@@ -1,1 +1,1 @@
-var mnemonic = "beyond harvest west trust grocery wet key poet hamster place country ceiling";
+var mnemonic = "lab love nominee snap game canoe lottery message elbow treat photo law";

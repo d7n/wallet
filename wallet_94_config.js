@@ -1,1 +1,1 @@
-var mnemonic = "twenty survey city nice acid excess crack offer jelly inhale page solve";
+var mnemonic = "muffin earn remind will comfort soldier trash film umbrella turtle naive crazy";

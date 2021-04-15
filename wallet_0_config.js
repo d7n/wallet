@@ -1,1 +1,1 @@
-var mnemonic = "arrest alert again frog strategy cereal logic board mosquito news plug over";
+var mnemonic = "squirrel alcohol child blue drop priority police jar lift hello media sustain";

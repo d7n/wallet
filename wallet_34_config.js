@@ -1,1 +1,1 @@
-var mnemonic = "develop vague hawk engine famous athlete kitchen dish month skin learn cousin";
+var mnemonic = "code super trim primary error patrol beef drama vault hawk list banner";

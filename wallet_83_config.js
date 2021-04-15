@@ -1,1 +1,1 @@
-var mnemonic = "wash input tiger happy before end despair path motion stone wire fluid";
+var mnemonic = "problem fan actual old later portion pause float rifle bench judge mind";

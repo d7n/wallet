@@ -1,1 +1,1 @@
-var mnemonic = "coyote faculty robust tag disagree erase myself walnut nephew chicken ozone ramp";
+var mnemonic = "torch suit frown type disease when famous obvious october quiz ordinary angry";

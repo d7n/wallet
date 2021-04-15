@@ -1,1 +1,1 @@
-var mnemonic = "borrow north mechanic plate level slim monitor atom mountain bid coffee isolate";
+var mnemonic = "then crack liar flock need code lawsuit govern before reopen kit axis";

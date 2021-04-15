@@ -1,1 +1,1 @@
-var mnemonic = "casual bike pull prepare bleak scissors dinosaur celery gospel express east engage";
+var mnemonic = "someone cherry sudden runway spin void hint guilt pull rebuild lava act";

@@ -1,1 +1,1 @@
-var mnemonic = "work blade bicycle early aspect prison rival expect diamond grape april cabbage";
+var mnemonic = "crater runway forest crater cook make state frequent odor smoke walk fix";

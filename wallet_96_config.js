@@ -1,1 +1,1 @@
-var mnemonic = "team depth image fiction assault between athlete once topple visit call rail";
+var mnemonic = "broom motion finish pioneer swift live start twenty burger nose best win";

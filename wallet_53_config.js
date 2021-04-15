@@ -1,1 +1,1 @@
-var mnemonic = "input leg attend post lift canoe minute message six actress region scout";
+var mnemonic = "tumble industry proof daughter lobster mix net flight silk soda senior wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "toss engage slender profit law veteran believe drill cat runway chalk bonus";
+var mnemonic = "tube chunk elephant film settle coffee syrup afford label crowd token agree";

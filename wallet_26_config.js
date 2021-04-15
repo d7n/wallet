@@ -1,1 +1,1 @@
-var mnemonic = "regret sentence brave field person lemon into beef ill peace common arrive";
+var mnemonic = "churn receive craft auction must output fade scale famous prosper enable modify";

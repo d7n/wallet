@@ -1,1 +1,1 @@
-var mnemonic = "tilt solar find radar marriage add gorilla snap tissue habit void question";
+var mnemonic = "pottery curious leopard tent room estate ocean improve gold nerve flavor captain";

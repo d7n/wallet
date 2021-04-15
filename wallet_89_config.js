@@ -1,1 +1,1 @@
-var mnemonic = "potato question market point reject obtain despair zoo box network just beach";
+var mnemonic = "raccoon reject kick then toe modify saddle bench impact essence march polar";

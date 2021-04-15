@@ -1,1 +1,1 @@
-var mnemonic = "dove citizen happy prize hat crawl alert cram guilt mimic bomb arch";
+var mnemonic = "glass involve memory corn shrimp concert trash scrub soap trap ostrich artefact";

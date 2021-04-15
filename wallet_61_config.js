@@ -1,1 +1,1 @@
-var mnemonic = "soda tackle flower winter regular hurt piano entire sing talk divide local";
+var mnemonic = "monitor spend sister exile green skill potato chest weather dignity corn achieve";

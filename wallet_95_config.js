@@ -1,1 +1,1 @@
-var mnemonic = "cost result problem sad west toilet over excite farm wedding library puppy";
+var mnemonic = "minimum creek nuclear cable please whale anxiety crime trash sugar despair point";

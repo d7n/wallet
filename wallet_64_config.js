@@ -1,1 +1,1 @@
-var mnemonic = "volume garlic peace venture curve draw cricket siege dash sudden hawk across";
+var mnemonic = "appear team box real confirm waste bamboo rescue mixed steel salute grief";

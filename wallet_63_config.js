@@ -1,1 +1,1 @@
-var mnemonic = "rule blast despair announce border shed until shallow garden final thing try";
+var mnemonic = "sample tonight position urge trick luxury police lawn forget hospital view carry";

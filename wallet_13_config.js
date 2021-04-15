@@ -1,1 +1,1 @@
-var mnemonic = "situate immune pear unfold issue junior salt brand grab decade banana flag";
+var mnemonic = "dirt crowd film laundry black season chair border pink cat charge feed";

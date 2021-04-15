@@ -1,1 +1,1 @@
-var mnemonic = "fire post crucial old coral wheel rotate fit wish jacket toddler mom";
+var mnemonic = "profit describe various ignore scout pyramid section right question rebuild firm canoe";

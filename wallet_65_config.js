@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin buzz area grant intact opinion math wedding lottery nose indicate drift";
+var mnemonic = "promote loud notice labor consider sock few raven wealth detect clip tilt";

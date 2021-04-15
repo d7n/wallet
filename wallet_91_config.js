@@ -1,1 +1,1 @@
-var mnemonic = "debris cycle mistake winter middle cliff liar only kite festival surround major";
+var mnemonic = "another method alert corn absent tonight control cradle dirt fat quiz fuel";

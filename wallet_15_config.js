@@ -1,1 +1,1 @@
-var mnemonic = "announce injury income banana sand critic dad blade pizza fiscal hospital civil";
+var mnemonic = "ocean evil violin girl omit clump pupil ahead cram become offer raise";

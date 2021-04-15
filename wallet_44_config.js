@@ -1,1 +1,1 @@
-var mnemonic = "day october foam pattern finish clarify income jeans volcano rule cram legal";
+var mnemonic = "clay foot usage include sphere eternal often van mix tooth refuse forest";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy poem bonus subway slight ostrich muscle affair top casual collect angry";
+var mnemonic = "carry tribe weapon apart ritual save battle retreat sign feature powder history";

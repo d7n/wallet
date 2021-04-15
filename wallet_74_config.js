@@ -1,1 +1,1 @@
-var mnemonic = "visit truck motor submit type fiber present umbrella opera ill harbor seed";
+var mnemonic = "crowd slush try speed moon satisfy tonight ball two mix twin poem";

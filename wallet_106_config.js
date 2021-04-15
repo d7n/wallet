@@ -1,1 +1,1 @@
-var mnemonic = "one rail leaf gossip wish two live salute music stool stomach eight";
+var mnemonic = "morning attitude toast unfold kit true concert ten special bless blast myself";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion lesson praise van vital jewel match remain potato boat nation eye";
+var mnemonic = "emerge wrong speak elder unfold fox demand flight rookie fox actual pottery";

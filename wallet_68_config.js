@@ -1,1 +1,1 @@
-var mnemonic = "switch unknown fly small convince original crisp lake pattern siege traffic child";
+var mnemonic = "outdoor piano pause antenna budget term leader divert venue kangaroo loan curious";

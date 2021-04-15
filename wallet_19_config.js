@@ -1,1 +1,1 @@
-var mnemonic = "still injury dizzy inhale seed annual swing supply horror gift match dune";
+var mnemonic = "tent diary asset alter surge obscure dog ozone taxi cherry robust reduce";

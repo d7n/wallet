@@ -1,1 +1,1 @@
-var mnemonic = "hybrid purpose cradle parade tail trash decrease silent announce mushroom grit soda";
+var mnemonic = "interest curtain stone mansion margin festival hurry label cheap caught enact sad";

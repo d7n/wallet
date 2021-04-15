@@ -1,1 +1,1 @@
-var mnemonic = "buffalo vital accident deliver card jewel cart pottery make edge feature exercise";
+var mnemonic = "song reveal alarm observe raw excuse young wheel polar until indoor ranch";

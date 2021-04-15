@@ -1,1 +1,1 @@
-var mnemonic = "slight syrup ecology onion target coconut pole harvest retire party arrive half";
+var mnemonic = "when bottom shed where syrup wear siege reunion flush zero fresh enroll";

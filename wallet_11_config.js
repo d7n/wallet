@@ -1,1 +1,1 @@
-var mnemonic = "ankle knife cool local surface near dwarf birth library trumpet spot strong";
+var mnemonic = "lend ivory deal brass spy winner throw toss glue woman machine nice";

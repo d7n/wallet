@@ -1,1 +1,1 @@
-var mnemonic = "actor toilet pluck adapt expire fox parade zoo live myself shock shrug";
+var mnemonic = "oxygen sentence sea mad benefit goat renew shuffle dash cycle viable airport";

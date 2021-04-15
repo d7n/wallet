@@ -1,1 +1,1 @@
-var mnemonic = "call identify escape allow jeans hover solid riot ten nasty transfer soft";
+var mnemonic = "corn birth lamp boost tower confirm tape blade wash derive current movie";

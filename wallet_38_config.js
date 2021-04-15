@@ -1,1 +1,1 @@
-var mnemonic = "vehicle pottery avocado glory stem fashion certain baby hello knee crucial together";
+var mnemonic = "secret excuse divert front load vague end happy glue question post second";

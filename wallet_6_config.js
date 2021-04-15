@@ -1,1 +1,1 @@
-var mnemonic = "game emotion utility motor goose clip list age supreme coconut lunch turn";
+var mnemonic = "job filter dignity solar glow track book lawn elbow ginger actual fence";

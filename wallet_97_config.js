@@ -1,1 +1,1 @@
-var mnemonic = "move ridge minor demise shine evil bulk sure industry speed control office";
+var mnemonic = "actress claim screen inject jump solid whale frog toward arena truck talk";

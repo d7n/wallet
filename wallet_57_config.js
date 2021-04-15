@@ -1,1 +1,1 @@
-var mnemonic = "dose copy sunny promote wide rocket arrow idea story observe bottom total";
+var mnemonic = "ecology moon tape term any welcome forward dynamic raw maple drama envelope";

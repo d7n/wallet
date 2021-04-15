@@ -1,1 +1,1 @@
-var mnemonic = "junior super awesome green talent brother uniform timber ability derive carpet spot";
+var mnemonic = "verify heart salad again absorb license adult roast ridge fit napkin veteran";

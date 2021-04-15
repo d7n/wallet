@@ -1,1 +1,1 @@
-var mnemonic = "auction satoshi indoor smoke luxury nut flag alcohol enough search produce easy";
+var mnemonic = "nuclear winter struggle chunk north property wolf benefit sausage garment march hero";

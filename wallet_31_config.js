@@ -1,1 +1,1 @@
-var mnemonic = "shop liquid lion seed harbor eyebrow mango afraid then grant pond desert";
+var mnemonic = "post hover decline like pony property burden swarm napkin shock income pilot";

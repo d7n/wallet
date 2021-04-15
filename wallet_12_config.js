@@ -1,1 +1,1 @@
-var mnemonic = "salad surface math display loyal coach chicken ahead hurdle weasel bargain clown";
+var mnemonic = "claim sight elegant cattle hazard sign evolve dress vacant dinosaur work ankle";

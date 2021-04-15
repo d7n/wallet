@@ -1,1 +1,1 @@
-var mnemonic = "onion replace basket practice cancel flee flight bone nerve morning stock dinner";
+var mnemonic = "toward find couch chronic series arrest credit monkey among bottom kangaroo cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "timber senior swap answer achieve wire alter link bitter fruit twin minimum";
+var mnemonic = "inner eternal canyon capable end bomb under shock joke vehicle whip comic";

@@ -1,1 +1,1 @@
-var mnemonic = "fish toe staff home magic wife forward stay monitor tourist toast involve";
+var mnemonic = "artist east damage anchor game swim immense swing pear quick dilemma require";

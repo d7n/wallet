@@ -1,1 +1,1 @@
-var mnemonic = "inspire napkin poem mammal venue dad tragic goddess swallow grunt sign neither";
+var mnemonic = "sting list sweet purity huge sport demise glass shine mean suit treat";

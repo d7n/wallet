@@ -1,1 +1,1 @@
-var mnemonic = "borrow remain genre scale plastic once text hammer board diamond celery eternal";
+var mnemonic = "crack arrest prosper teach claw steel north just hammer tongue sting material";
