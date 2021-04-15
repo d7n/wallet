@@ -1,1 +1,1 @@
-var mnemonic = "license club appear daring laptop cherry crouch law wash south lizard figure";
+var mnemonic = "protect awesome manual lend visa bench orphan peanut tilt forget cage hungry";

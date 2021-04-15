@@ -1,1 +1,1 @@
-var mnemonic = "enrich reason hub wool whale story animal bag deal shop manual wide";
+var mnemonic = "define polar maple crouch card ordinary pulp lyrics among brain slot ensure";

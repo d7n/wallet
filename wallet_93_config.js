@@ -1,1 +1,1 @@
-var mnemonic = "neck good retreat control verify dolphin bone school rabbit drastic govern crater";
+var mnemonic = "device select mean thing trigger dilemma swarm rent bracket benefit hold west";

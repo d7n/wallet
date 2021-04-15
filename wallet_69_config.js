@@ -1,1 +1,1 @@
-var mnemonic = "stairs section crowd choice meadow bless clinic escape congress candy junior century";
+var mnemonic = "ankle copy thank margin next mind inspire throw blanket front coil stem";

@@ -1,1 +1,1 @@
-var mnemonic = "shock industry lady input wrestle tool weather tumble glove thought govern cycle";
+var mnemonic = "subway bulb lab live pudding spend odor office borrow oak eight south";

@@ -1,1 +1,1 @@
-var mnemonic = "people sniff cake industry message foam image couch forum divide system party";
+var mnemonic = "elevator science bulb depart whale flat curtain property case damage point spread";

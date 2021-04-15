@@ -1,1 +1,1 @@
-var mnemonic = "account distance utility post memory margin strike winter dawn visa move hole";
+var mnemonic = "upon alter student already volume alter oak mother cage degree among spread";

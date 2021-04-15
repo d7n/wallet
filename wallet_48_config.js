@@ -1,1 +1,1 @@
-var mnemonic = "drive bunker blast between clip during gap walk mammal deer sustain embark";
+var mnemonic = "swamp ginger bullet sauce hollow verify cricket nerve master unknown era monster";

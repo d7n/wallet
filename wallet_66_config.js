@@ -1,1 +1,1 @@
-var mnemonic = "clarify pledge meat that pact favorite monkey cattle bargain butter extend certain";
+var mnemonic = "random shuffle range narrow suit wolf spatial siege attitude major fiber view";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog desk order vast romance marble turkey hurdle inherit gentle eyebrow used";
+var mnemonic = "remind smile mirror rose video cake unhappy shine option nasty render nest";

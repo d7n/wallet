@@ -1,1 +1,1 @@
-var mnemonic = "science fancy gaze among tuna mobile electric oil evil hub orphan rubber";
+var mnemonic = "stand street object bronze clinic casino nasty ginger chicken process sword film";

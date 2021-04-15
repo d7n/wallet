@@ -1,1 +1,1 @@
-var mnemonic = "make better truth body vocal excess life fetch lounge depend burger always";
+var mnemonic = "syrup setup pink wish upon when split frozen physical friend group actual";

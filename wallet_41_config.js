@@ -1,1 +1,1 @@
-var mnemonic = "draft rather twenty grow area right left dove treat artist gauge pool";
+var mnemonic = "assume issue nice ranch ensure scissors wool base neither anxiety latin depart";

@@ -1,1 +1,1 @@
-var mnemonic = "party unusual design truly book audit left humble depend swing length favorite";
+var mnemonic = "runway puppy report universe book tourist nerve math live device session clap";

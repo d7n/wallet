@@ -1,1 +1,1 @@
-var mnemonic = "tired goat rain battle supreme social armor slender attitude divide obscure palm";
+var mnemonic = "essay nation maid fade sibling that time face ivory jelly aspect basic";

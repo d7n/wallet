@@ -1,1 +1,1 @@
-var mnemonic = "rocket soccer wink syrup frame unfair flush nothing bleak coconut rocket novel";
+var mnemonic = "winner dust just race equal shove goddess adjust ostrich tired area flower";

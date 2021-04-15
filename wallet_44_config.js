@@ -1,1 +1,1 @@
-var mnemonic = "wreck acid broken coast double age scan home donkey grape manual embark";
+var mnemonic = "smooth conduct swing owner bird need expect argue guard spy nature skull";

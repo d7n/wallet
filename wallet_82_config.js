@@ -1,1 +1,1 @@
-var mnemonic = "fix timber ginger rack stuff metal pioneer burst bamboo grief law apology";
+var mnemonic = "dignity sausage learn boil wisdom again tip miss pride wrist view arena";

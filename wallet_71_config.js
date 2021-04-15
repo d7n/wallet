@@ -1,1 +1,1 @@
-var mnemonic = "brain million dose erupt seat merge black evoke amazing guitar oven response";
+var mnemonic = "weather bubble coconut repeat fiber sorry display summer margin trip riot ship";

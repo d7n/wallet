@@ -1,1 +1,1 @@
-var mnemonic = "render news fatal swift wine solve finish violin dice melt naive rug";
+var mnemonic = "put quarter kidney tribe erase neglect quit post process ready speak hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "normal crazy wish design unusual settle fortune wild ugly rib pink gentle";
+var mnemonic = "nothing news valve cliff pull angry school great decade path beef receive";

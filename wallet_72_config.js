@@ -1,1 +1,1 @@
-var mnemonic = "mail margin car wool provide under shop album demise arrive bottom fan";
+var mnemonic = "surge cram lock tortoise purity identify base enjoy tomato whisper fog forward";

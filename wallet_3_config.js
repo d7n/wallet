@@ -1,1 +1,1 @@
-var mnemonic = "melt ladder reveal catch tragic orchard above winter rapid antique barely burden";
+var mnemonic = "width autumn critic symptom monitor can seminar anxiety purse frown length thought";

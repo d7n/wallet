@@ -1,1 +1,1 @@
-var mnemonic = "armed melt what motor pill ceiling pistol seed shell guess huge small";
+var mnemonic = "guilt twenty point task club machine occur paper crush capable impulse bargain";

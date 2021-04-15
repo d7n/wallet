@@ -1,1 +1,1 @@
-var mnemonic = "uncover screen feature firm unaware coconut castle drop expose dizzy effort renew";
+var mnemonic = "banana unknown arrow gadget relief tape warfare diamond entry ethics meadow true";

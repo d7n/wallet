@@ -1,1 +1,1 @@
-var mnemonic = "decrease simple remain offer fat chair print copy key barely vintage aspect";
+var mnemonic = "express vehicle card gain apple quality small monster useless route bleak truth";

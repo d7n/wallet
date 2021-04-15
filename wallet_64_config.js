@@ -1,1 +1,1 @@
-var mnemonic = "birth refuse suffer end marine unit melt math harsh dutch luggage century";
+var mnemonic = "verb danger toe absorb gesture expose exile tape stand old major coin";

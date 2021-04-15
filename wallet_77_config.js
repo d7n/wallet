@@ -1,1 +1,1 @@
-var mnemonic = "zebra pole move snap ladder warfare insane rare scout fine post sorry";
+var mnemonic = "yard dose segment ketchup kiwi anxiety cart blur stool frog yard rug";

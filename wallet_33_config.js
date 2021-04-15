@@ -1,1 +1,1 @@
-var mnemonic = "shock leg hat urban ostrich busy regular clog spring scene dream lava";
+var mnemonic = "vibrant drip arrow airport extra property tube enforce brother twice buffalo picture";

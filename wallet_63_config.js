@@ -1,1 +1,1 @@
-var mnemonic = "boss explain nest until water peasant cage kid smile radar flight bleak";
+var mnemonic = "elder ceiling save already rate quick gun labor present science valid craft";

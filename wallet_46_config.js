@@ -1,1 +1,1 @@
-var mnemonic = "road present battle warrior elder letter nephew grape ready leaf tide script";
+var mnemonic = "alone estate potato food allow angry dwarf wedding pyramid decrease blade exile";

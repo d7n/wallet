@@ -1,1 +1,1 @@
-var mnemonic = "kiss intact only sheriff cause fashion hair pony scheme shed pistol cake";
+var mnemonic = "apology curve pink maze term hub surge moment awkward notice tomorrow case";

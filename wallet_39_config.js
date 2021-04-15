@@ -1,1 +1,1 @@
-var mnemonic = "dune crisp thumb tornado insane invest remain wide inch february hat gravity";
+var mnemonic = "journey axis gold slight banana stick identify income success health drum awkward";

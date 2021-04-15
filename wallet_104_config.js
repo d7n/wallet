@@ -1,1 +1,1 @@
-var mnemonic = "public obtain humble boil remember donate priority curious weapon bamboo noble code";
+var mnemonic = "occur bamboo mix easy grow raise volume jelly worry tiger marriage alone";

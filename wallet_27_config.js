@@ -1,1 +1,1 @@
-var mnemonic = "rose anger update mushroom mercy resist pottery marriage ice dove quit common";
+var mnemonic = "stool foil fox problem upon use region breeze useful scorpion chuckle bag";

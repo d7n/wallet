@@ -1,1 +1,1 @@
-var mnemonic = "cricket insane budget crucial adapt burst spare december oak cluster session fiscal";
+var mnemonic = "access hub pulse picture vast plate exercise action train fork bridge radar";

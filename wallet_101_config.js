@@ -1,1 +1,1 @@
-var mnemonic = "renew skate tail trap obscure life claw sustain roast twin egg immune";
+var mnemonic = "hood magnet hill proof alcohol burger luxury pilot boring buzz state stomach";

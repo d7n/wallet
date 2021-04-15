@@ -1,1 +1,1 @@
-var mnemonic = "deposit genuine evidence year nature illegal banner auto tornado program grass never";
+var mnemonic = "abuse art canoe nominee face turkey juice piano interest evil mixed fury";

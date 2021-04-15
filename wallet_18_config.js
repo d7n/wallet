@@ -1,1 +1,1 @@
-var mnemonic = "arrest wrong own swim visit evidence hood found mouse boy web retire";
+var mnemonic = "figure dial table hope drive decrease broccoli code admit copper want ginger";

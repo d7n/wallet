@@ -1,1 +1,1 @@
-var mnemonic = "coffee else lyrics wine able royal recipe vote crumble hammer bulk evidence";
+var mnemonic = "prosper gym front struggle reveal expand maple victory girl special consider miss";

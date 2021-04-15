@@ -1,1 +1,1 @@
-var mnemonic = "quarter hunt pistol spread sauce thought steel reduce drip kingdom couple drink";
+var mnemonic = "demise captain topple stem venture action short already drum coast mystery cover";

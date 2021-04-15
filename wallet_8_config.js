@@ -1,1 +1,1 @@
-var mnemonic = "flush sister romance lucky link shadow remain rule drive parade fury zone";
+var mnemonic = "network wall yard search noodle cushion sausage wheat spot story monster session";

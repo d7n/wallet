@@ -1,1 +1,1 @@
-var mnemonic = "hollow elbow grid super antique second long apart bamboo potato fruit damp";
+var mnemonic = "key bronze win teach latin skirt crack predict pilot visual wheel organ";

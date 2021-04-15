@@ -1,1 +1,1 @@
-var mnemonic = "between congress marine warm patient limb sweet waste piano feature pen resemble";
+var mnemonic = "slab december enlist citizen meadow group kitten stand ancient stick leave rug";

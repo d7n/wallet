@@ -1,1 +1,1 @@
-var mnemonic = "mountain segment meadow awful wide bless agree novel area junior month unit";
+var mnemonic = "knife country cancel neither fever romance song film spatial jacket absorb garbage";

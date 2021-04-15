@@ -1,1 +1,1 @@
-var mnemonic = "plate hard uphold inflict bubble genre nose steel permit fossil october owner";
+var mnemonic = "entry net demand tourist north jacket rally mandate trick couple allow sun";

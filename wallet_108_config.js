@@ -1,1 +1,1 @@
-var mnemonic = "card position sugar camera brown casual pond confirm grief smart mystery letter";
+var mnemonic = "elephant design wash obey dice erase size calm guide tomato depth toddler";

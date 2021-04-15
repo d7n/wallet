@@ -1,1 +1,1 @@
-var mnemonic = "angry margin connect deal doctor excess east benefit decide subject example entire";
+var mnemonic = "verb shy north grocery window frown zone elephant setup spatial legend picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "expand negative source pause airport become cause remember unveil senior tenant omit";
+var mnemonic = "two jazz appear slide random patrol system panel digital safe cram inform";

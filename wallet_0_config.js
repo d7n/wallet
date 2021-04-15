@@ -1,1 +1,1 @@
-var mnemonic = "improve royal hold tag ski unit sketch lift slogan code volume bitter";
+var mnemonic = "robust depart fuel tiger venture camera assault true early angle suffer clutch";

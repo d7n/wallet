@@ -1,1 +1,1 @@
-var mnemonic = "athlete trash spare turn trim pony anxiety rotate token effort hood fortune";
+var mnemonic = "join gasp choose elephant elite party punch short trial original brand buddy";

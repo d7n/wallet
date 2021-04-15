@@ -1,1 +1,1 @@
-var mnemonic = "immune chuckle drift borrow dish hurdle similar add supply ranch island panic";
+var mnemonic = "hurry garlic floor elephant motor knock fine bacon siege cat pulse symbol";

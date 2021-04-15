@@ -1,1 +1,1 @@
-var mnemonic = "vehicle ripple void pudding early shine spice boost sick squeeze squirrel include";
+var mnemonic = "nurse focus approve again avoid doctor symbol arrest festival proud pumpkin grass";

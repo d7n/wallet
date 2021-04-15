@@ -1,1 +1,1 @@
-var mnemonic = "other tragic federal ripple garlic surround barely sand figure crack rule tonight";
+var mnemonic = "sudden mask child mix pepper glue science fuel depart demand field mango";

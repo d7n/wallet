@@ -1,1 +1,1 @@
-var mnemonic = "doctor office cliff cloth bike brisk amused desk fantasy scrub since cannon";
+var mnemonic = "praise chuckle cube vanish icon top toy enter cement jazz hill service";

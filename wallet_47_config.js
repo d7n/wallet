@@ -1,1 +1,1 @@
-var mnemonic = "myself chaos spoil repeat arrange frog today guitar level borrow prepare weekend";
+var mnemonic = "steel question stem enroll praise photo other easily volcano blast about switch";

@@ -1,1 +1,1 @@
-var mnemonic = "family almost live orchard know account maple hope world neutral swing cannon";
+var mnemonic = "hard observe copy sad citizen enemy radar vehicle unveil game spray favorite";

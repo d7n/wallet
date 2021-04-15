@@ -1,1 +1,1 @@
-var mnemonic = "opera into draw coffee rebuild save demise guitar fire swing lyrics above";
+var mnemonic = "misery pioneer outside pilot six stay blush flame stock nice possible huge";

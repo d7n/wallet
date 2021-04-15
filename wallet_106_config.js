@@ -1,1 +1,1 @@
-var mnemonic = "inflict right mouse clump glass orient ketchup lift trash host ostrich hood";
+var mnemonic = "diamond olive screen buddy quick essay access faith hunt marble crumble bundle";

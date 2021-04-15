@@ -1,1 +1,1 @@
-var mnemonic = "manage type brain shrug brand sibling fresh vital bean unusual lab judge";
+var mnemonic = "birth final caught blouse train awesome siege nephew region rely music behind";

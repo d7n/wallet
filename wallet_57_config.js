@@ -1,1 +1,1 @@
-var mnemonic = "glue video valley victory audit stock village private bring wall bless among";
+var mnemonic = "rent wise bottom asset ugly pink bridge someone page amount desert mean";

@@ -1,1 +1,1 @@
-var mnemonic = "sound whale glass deposit skill race head attend obscure aim paddle truth";
+var mnemonic = "sniff addict festival oxygen gas step cloud mango tongue rubber mesh damp";

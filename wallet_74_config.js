@@ -1,1 +1,1 @@
-var mnemonic = "what naive feel project device light ethics blush when quick castle midnight";
+var mnemonic = "teach enlist hurt wrong sad atom runway hole spray sibling ocean coyote";

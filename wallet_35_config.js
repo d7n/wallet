@@ -1,1 +1,1 @@
-var mnemonic = "feature car motion bronze hospital update citizen trip august tragic tourist nose";
+var mnemonic = "gadget curious entire actual door drum acid midnight hundred supply box napkin";

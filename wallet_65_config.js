@@ -1,1 +1,1 @@
-var mnemonic = "type tiny car opinion easily fancy acoustic output enough empty easily phrase";
+var mnemonic = "afraid wrap rebuild wolf napkin lottery tone portion affair unfold hold engage";

@@ -1,1 +1,1 @@
-var mnemonic = "snack master letter correct judge pumpkin rigid gesture liquid gorilla exile erosion";
+var mnemonic = "today benefit emerge system stay drill silk slot skin width bulb creek";

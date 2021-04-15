@@ -1,1 +1,1 @@
-var mnemonic = "bag enjoy ramp rent phone limit gallery rule mammal shoe law tornado";
+var mnemonic = "then bright bottom warm year shock pond else grain floor material choose";

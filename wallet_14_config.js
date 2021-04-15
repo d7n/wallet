@@ -1,1 +1,1 @@
-var mnemonic = "laugh situate matter goat annual burst van film act talent obtain shadow";
+var mnemonic = "tool soon umbrella fatal celery planet deposit rail naive gown impose badge";

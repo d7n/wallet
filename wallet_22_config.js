@@ -1,1 +1,1 @@
-var mnemonic = "grape answer blouse black idle pet giggle exhibit fitness tone talent air";
+var mnemonic = "wool debris menu shoot profit almost slender blind cover girl useful robot";

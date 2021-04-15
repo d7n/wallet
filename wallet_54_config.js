@@ -1,1 +1,1 @@
-var mnemonic = "vast hour clock service siren fatal knife memory shop tourist squeeze movie";
+var mnemonic = "hammer chunk used cotton state curve marine relax baby belt mother tiger";

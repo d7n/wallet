@@ -1,1 +1,1 @@
-var mnemonic = "around diesel main wish rookie green material clutch note actor divide pear";
+var mnemonic = "medal cinnamon artefact knee material myth tank merry mobile item tobacco clap";

@@ -1,1 +1,1 @@
-var mnemonic = "behind top actress shrimp shadow patient slogan accident decade battle please buzz";
+var mnemonic = "owner expire scorpion maid quality obey improve dutch stamp dragon myself wasp";

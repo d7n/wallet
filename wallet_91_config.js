@@ -1,1 +1,1 @@
-var mnemonic = "autumn tragic mom muscle better total wage horse bleak viable april guess";
+var mnemonic = "wedding man dress advance sunny hub require shoulder harbor slim pitch vibrant";

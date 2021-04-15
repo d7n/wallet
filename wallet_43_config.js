@@ -1,1 +1,1 @@
-var mnemonic = "intact mean bar grow bracket shallow above print alien because much sibling";
+var mnemonic = "cotton receive hold wave maximum sound obtain state farm olive announce earn";

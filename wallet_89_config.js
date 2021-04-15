@@ -1,1 +1,1 @@
-var mnemonic = "tiny parent mandate notable man gasp brown window question yellow shove sister";
+var mnemonic = "rain cupboard gate shop raise steel chunk calm correct sister photo chronic";

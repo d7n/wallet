@@ -1,1 +1,1 @@
-var mnemonic = "spread asset zero upon panda cereal reflect hunt peace person armed roof";
+var mnemonic = "error photo dove melody isolate lunch craft glory world proof reduce armor";

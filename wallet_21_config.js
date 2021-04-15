@@ -1,1 +1,1 @@
-var mnemonic = "crunch scissors cart ignore pet rely increase bench switch claw nation member";
+var mnemonic = "mixed fringe obtain perfect agree catalog feed manual sail rotate street blur";

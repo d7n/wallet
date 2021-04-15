@@ -1,1 +1,1 @@
-var mnemonic = "balance acquire balance glare tragic topple daring case key rain primary combine";
+var mnemonic = "level brain palace lazy ginger brief seek speed element program heavy aerobic";

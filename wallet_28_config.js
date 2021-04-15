@@ -1,1 +1,1 @@
-var mnemonic = "talent verb focus cargo speed machine kidney novel plunge someone actual enemy";
+var mnemonic = "fragile edge royal sign number sugar first wing era radio crush dry";

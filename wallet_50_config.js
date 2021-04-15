@@ -1,1 +1,1 @@
-var mnemonic = "meat broccoli nothing pact strong network screen entire acid air warfare saddle";
+var mnemonic = "casino aerobic cousin away afraid indoor ladder license cave cabbage history unique";

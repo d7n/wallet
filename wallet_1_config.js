@@ -1,1 +1,1 @@
-var mnemonic = "motion cross drama old will crater sustain power group achieve often hammer";
+var mnemonic = "few marriage midnight stage print high song impose explain firm never foster";

@@ -1,1 +1,1 @@
-var mnemonic = "eight element owner found fault toast mirror supreme grant erase jar include";
+var mnemonic = "rural allow scrap isolate crane cash peace squeeze balance hard pulp slight";

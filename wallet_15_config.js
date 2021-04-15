@@ -1,1 +1,1 @@
-var mnemonic = "insane label brisk paddle bargain office knee tired hockey large enroll list";
+var mnemonic = "fluid bundle vocal index lady ticket skate laugh near elegant risk account";

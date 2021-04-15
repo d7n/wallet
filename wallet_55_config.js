@@ -1,1 +1,1 @@
-var mnemonic = "cargo team robot text exercise cruel project recycle collect champion neglect limit";
+var mnemonic = "belt volcano dragon city load vessel leaf saddle stool universe scale organ";

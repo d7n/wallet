@@ -1,1 +1,1 @@
-var mnemonic = "trip naive stage tattoo nuclear file silly icon funny bunker ivory pitch";
+var mnemonic = "bless torch december ring boat evil junior kitchen angle crouch bulk hand";

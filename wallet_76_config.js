@@ -1,1 +1,1 @@
-var mnemonic = "announce fantasy glue video perfect entry leisure spice clay example glance play";
+var mnemonic = "gossip trial gossip grit method patient spell wedding live veteran kingdom aspect";

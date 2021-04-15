@@ -1,1 +1,1 @@
-var mnemonic = "eager wisdom question spend stock elevator carpet input click repeat summer curtain";
+var mnemonic = "judge wine blanket trophy patch video tackle swamp powder rack analyst scrub";

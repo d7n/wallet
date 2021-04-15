@@ -1,1 +1,1 @@
-var mnemonic = "debate hard upper toy purse wink system clay weekend ramp skirt eyebrow";
+var mnemonic = "napkin illness cactus float virtual wave urge risk obvious one between phone";

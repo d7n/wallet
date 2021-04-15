@@ -1,1 +1,1 @@
-var mnemonic = "become express cotton found roast awful upset damp result humor spirit damage";
+var mnemonic = "bargain involve crush cool dad horror during bonus apology reason jelly much";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic upper wasp detail orient wool report boy clog mobile spread engage";
+var mnemonic = "speed early emerge book during junk beauty nuclear stomach salmon volcano someone";

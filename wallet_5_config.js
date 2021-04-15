@@ -1,1 +1,1 @@
-var mnemonic = "doctor eye seek subject suspect climb tomato fortune almost work what toddler";
+var mnemonic = "above path raccoon seven clap again van perfect gospel strong detect hat";
