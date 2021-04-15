@@ -1,1 +1,1 @@
-var mnemonic = "book drill boy inflict vocal unable access anxiety lemon glue timber key";
+var mnemonic = "hotel spin craft mistake sniff strong stone boat nerve into salt strong";

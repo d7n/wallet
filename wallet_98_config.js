@@ -1,1 +1,1 @@
-var mnemonic = "mother other long bamboo oven matter extra crucial peasant cousin number similar";
+var mnemonic = "illness multiply neither cupboard speed wife grab insect jelly prison inherit bargain";

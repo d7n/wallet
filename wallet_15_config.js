@@ -1,1 +1,1 @@
-var mnemonic = "size mandate ribbon soul patient crater spend govern middle attack suffer champion";
+var mnemonic = "pelican idle gauge episode fish sell machine immense monkey blue illness equal";

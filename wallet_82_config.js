@@ -1,1 +1,1 @@
-var mnemonic = "begin wink pelican tent light arrest walnut crime rib coach lawn embody";
+var mnemonic = "degree have job rib wash culture ball lonely divorce stuff assume hero";

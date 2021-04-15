@@ -1,1 +1,1 @@
-var mnemonic = "pond insane trouble surround glass assume expect bird tide pizza during jeans";
+var mnemonic = "goddess three make manage actual unaware young novel broccoli muscle draft unhappy";

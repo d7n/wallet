@@ -1,1 +1,1 @@
-var mnemonic = "speak wet blanket six asthma cereal fresh pigeon peasant kitchen tiger cruise";
+var mnemonic = "plug cruise increase credit waste there balcony oak absent stage nuclear garage";

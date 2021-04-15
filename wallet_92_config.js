@@ -1,1 +1,1 @@
-var mnemonic = "curtain hamster gate like roast achieve badge brain fatigue planet crystal science";
+var mnemonic = "common script caught rough major door excess move refuse update sadness twice";

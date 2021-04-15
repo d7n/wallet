@@ -1,1 +1,1 @@
-var mnemonic = "nurse ivory spin glad word attack trigger parent crash extra runway panel";
+var mnemonic = "health margin ritual season mandate warrior inform measure pen excuse excite property";

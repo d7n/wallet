@@ -1,1 +1,1 @@
-var mnemonic = "bullet pistol special model near icon proud range bronze vacant struggle update";
+var mnemonic = "rescue float order gallery rich pilot assume surge pact inner easy holiday";

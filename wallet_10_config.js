@@ -1,1 +1,1 @@
-var mnemonic = "rubber rival immune again address bullet shove history interest special drop decline";
+var mnemonic = "mobile have age crater injury useless disorder odor air body beef clever";

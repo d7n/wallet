@@ -1,1 +1,1 @@
-var mnemonic = "cargo super rack magic agree parrot custom state rally force inner address";
+var mnemonic = "only song swap punch depend pony motion old protect muscle drip achieve";

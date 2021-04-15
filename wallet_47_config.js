@@ -1,1 +1,1 @@
-var mnemonic = "vital myself crowd reject second army pass once student across speak quantum";
+var mnemonic = "photo matrix vibrant urban column forum bicycle liquid burst acquire width shuffle";

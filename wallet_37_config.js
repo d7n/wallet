@@ -1,1 +1,1 @@
-var mnemonic = "dizzy tomato unable sheriff fee easy proud dial swear urge sauce unhappy";
+var mnemonic = "napkin until east invite pepper off penalty urban account swap vital double";

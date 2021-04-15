@@ -1,1 +1,1 @@
-var mnemonic = "viable clump boy mixed mass snap give trouble quarter learn gym cushion";
+var mnemonic = "icon state drill spend awesome oblige yard inspire share grunt conduct gym";

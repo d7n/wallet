@@ -1,1 +1,1 @@
-var mnemonic = "lion quantum object rain utility remember essay clutch home fish nature vault";
+var mnemonic = "minute try episode tragic lesson digital prize property merge run inform ivory";

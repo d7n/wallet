@@ -1,1 +1,1 @@
-var mnemonic = "sure stuff guilt glove retire fee daring dumb yard choice oval glare";
+var mnemonic = "match churn virus tilt skin blouse squirrel height silly disease best junk";

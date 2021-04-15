@@ -1,1 +1,1 @@
-var mnemonic = "fresh witness around omit length endless office follow normal term address trend";
+var mnemonic = "track nose margin pluck music gentle office ensure armor derive caught plastic";

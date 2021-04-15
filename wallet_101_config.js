@@ -1,1 +1,1 @@
-var mnemonic = "harsh false zebra denial music chase pioneer snow stamp remember repeat party";
+var mnemonic = "educate suspect loyal wrap upgrade follow siren citizen very gap game become";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor verify vendor another become payment breeze palace shrimp sustain token tell";
+var mnemonic = "please gauge fine sport stand pupil misery spend sister glad claim trend";

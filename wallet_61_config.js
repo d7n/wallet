@@ -1,1 +1,1 @@
-var mnemonic = "guitar poverty alert icon already beef gospel summer eternal lyrics bottom middle";
+var mnemonic = "aspect height evidence kidney kick audit net tumble orphan excuse museum brief";

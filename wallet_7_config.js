@@ -1,1 +1,1 @@
-var mnemonic = "permit eight beyond nurse only intact width monitor brick knock mule minimum";
+var mnemonic = "floor rug fresh summer biology thumb range injury chaos atom ordinary candy";

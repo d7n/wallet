@@ -1,1 +1,1 @@
-var mnemonic = "flush flock weird mule stone common various universe gown elevator pigeon vault";
+var mnemonic = "coil oval furnace copper control doctor moment thing pet identify nothing track";

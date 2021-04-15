@@ -1,1 +1,1 @@
-var mnemonic = "dentist antenna carbon position faint pact oppose trap mean file much else";
+var mnemonic = "become double cage uphold yellow draw duck reject gap garden image emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "aim rhythm edge despair lift risk parent enlist pool tent license jelly";
+var mnemonic = "change dog unable era floor release miss talent quit proof knock twist";

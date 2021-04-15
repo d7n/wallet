@@ -1,1 +1,1 @@
-var mnemonic = "twelve theme tobacco cry squeeze cash pattern caught helmet canoe disorder inquiry";
+var mnemonic = "afraid sausage please bone disagree prepare actual fragile summer gentle dentist sphere";

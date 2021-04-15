@@ -1,1 +1,1 @@
-var mnemonic = "erosion erosion upgrade seek electric century area congress soap blanket current pelican";
+var mnemonic = "mixed result find attend warfare can question head lonely grant ostrich fine";

@@ -1,1 +1,1 @@
-var mnemonic = "limit turn celery planet husband reward coffee worry confirm circle ten action";
+var mnemonic = "clock neither glue disease push search coin health bunker cabin sleep arrow";

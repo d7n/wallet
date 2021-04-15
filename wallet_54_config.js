@@ -1,1 +1,1 @@
-var mnemonic = "tool chief follow silent sponsor solution sail blind dinosaur wrestle slender goose";
+var mnemonic = "duty odor paddle armor wealth couple bench toilet cancel return number wrestle";

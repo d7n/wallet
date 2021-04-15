@@ -1,1 +1,1 @@
-var mnemonic = "hire fox adapt taste fitness canvas science large cabin mean pretty chest";
+var mnemonic = "shell moment regular wealth wood elephant security culture grit frost census speed";

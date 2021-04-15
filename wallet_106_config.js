@@ -1,1 +1,1 @@
-var mnemonic = "dove copper cream elegant iron super mercy finger duck leisure elbow fiction";
+var mnemonic = "print car negative neither lecture tunnel link warrior menu six bronze type";

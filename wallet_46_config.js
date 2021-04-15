@@ -1,1 +1,1 @@
-var mnemonic = "mango salad among wonder soccer kitten congress ordinary service acquire fat angle";
+var mnemonic = "eternal dinosaur curve father above yard moon vocal choose collect alarm claw";

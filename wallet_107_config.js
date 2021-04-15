@@ -1,1 +1,1 @@
-var mnemonic = "marine video any relax doll point nuclear shiver awake govern skill kidney";
+var mnemonic = "tiny skill income include end case dilemma nerve sting shrug law visa";

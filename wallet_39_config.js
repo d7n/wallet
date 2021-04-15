@@ -1,1 +1,1 @@
-var mnemonic = "erupt army target basic lobster bless bid material soda fiction prepare apology";
+var mnemonic = "vacuum swallow grunt secret future ship loop myself neutral black key cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "armed draft gentle join day blur art bubble scissors gift camp price";
+var mnemonic = "hundred actress divide feed coral neck box wood mango make hunt exercise";

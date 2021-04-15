@@ -1,1 +1,1 @@
-var mnemonic = "crop tooth carry recall either clap safe unable custom column deputy maze";
+var mnemonic = "pool allow cage salon mention parent dolphin sunny phrase engage tissue endless";

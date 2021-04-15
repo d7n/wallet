@@ -1,1 +1,1 @@
-var mnemonic = "liar gap report depth sand trophy push price cactus happy frame evolve";
+var mnemonic = "evoke air consider picture valley bless fetch fringe trophy wolf monkey cattle";

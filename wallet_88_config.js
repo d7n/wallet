@@ -1,1 +1,1 @@
-var mnemonic = "help assault once rug safe nuclear dash plate black entire cook wing";
+var mnemonic = "rug pioneer weasel asthma crime drum split birth cart sustain maid wheat";

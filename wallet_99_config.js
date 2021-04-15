@@ -1,1 +1,1 @@
-var mnemonic = "hello hurdle skate scout yard soul token debate caution body ranch exact";
+var mnemonic = "erode amateur curious early boy ankle noble name tomato damage canvas resource";

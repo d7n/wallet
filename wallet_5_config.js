@@ -1,1 +1,1 @@
-var mnemonic = "faculty stool decade list scheme bomb egg limit return dumb spy guitar";
+var mnemonic = "grunt title sphere habit fit output combine whisper like sentence afraid vibrant";

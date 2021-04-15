@@ -1,1 +1,1 @@
-var mnemonic = "clump nature gauge click angle captain genius vacant field mobile miracle either";
+var mnemonic = "woman radar nose hurt nest section one cage click donor jar list";

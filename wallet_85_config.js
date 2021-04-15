@@ -1,1 +1,1 @@
-var mnemonic = "coil stuff assault clay dizzy fatigue lumber enable mushroom remember submit pumpkin";
+var mnemonic = "diamond fly shine split logic board wonder cereal slow chunk unknown clay";

@@ -1,1 +1,1 @@
-var mnemonic = "crop clump spring expect tide rally easy orient alpha innocent bag trust";
+var mnemonic = "avocado pig nothing wheel mom honey outside deposit teach ginger guess wall";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo fat escape february timber grace input put clinic eagle trouble egg";
+var mnemonic = "phone else any uphold fatigue remove chalk second local roof share flavor";

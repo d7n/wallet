@@ -1,1 +1,1 @@
-var mnemonic = "grass casual moral thank alcohol sheriff arrange clump enroll coil bid clay";
+var mnemonic = "police spy tackle imitate poem island arrest true hood impulse bus brother";

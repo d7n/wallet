@@ -1,1 +1,1 @@
-var mnemonic = "subway buffalo movie shrimp climb upgrade kiss noble detect illegal appear cereal";
+var mnemonic = "ozone rookie sting receive fruit amused rely render average know health quiz";

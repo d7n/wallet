@@ -1,1 +1,1 @@
-var mnemonic = "mechanic border inspire sure pipe intact orbit tank funny wolf occur siege";
+var mnemonic = "loan penalty jelly enroll lamp fame garage gorilla enlist void zebra pulp";

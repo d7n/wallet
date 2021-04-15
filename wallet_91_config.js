@@ -1,1 +1,1 @@
-var mnemonic = "alcohol song throw awful frequent hello net nominee great funny quiz soldier";
+var mnemonic = "gain sponsor agree shell pizza captain wild once recycle satisfy tell caution";

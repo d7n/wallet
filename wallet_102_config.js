@@ -1,1 +1,1 @@
-var mnemonic = "slam concert produce raven bag flight fragile bone volcano entry return notice";
+var mnemonic = "know balance seminar timber obtain update deer diary volcano patient uncle urban";

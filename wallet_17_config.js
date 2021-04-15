@@ -1,1 +1,1 @@
-var mnemonic = "valid oven flat spike ensure surface rally trap owner retreat swift loud";
+var mnemonic = "immense dirt utility midnight size example cabin divorce parrot pioneer weather champion";

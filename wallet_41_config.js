@@ -1,1 +1,1 @@
-var mnemonic = "super divide true fit enable zebra toe spread century seat crew fault";
+var mnemonic = "riot wall misery profit spare mention forget top gas erase park palace";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff rifle bar purity boss list brief track gasp boil hair saddle";
+var mnemonic = "shaft husband easy joke goddess rocket actress phrase fury face merit night";

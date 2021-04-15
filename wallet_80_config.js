@@ -1,1 +1,1 @@
-var mnemonic = "friend want balance smoke park bronze original organ alley ramp unfair clay";
+var mnemonic = "tube retreat casino trap chat violin under camp trial spring attitude mesh";

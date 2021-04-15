@@ -1,1 +1,1 @@
-var mnemonic = "phrase wing good manual skirt escape lumber flush alpha smile clerk salt";
+var mnemonic = "merge slide rival hire diamond that bike such home buddy doll ocean";

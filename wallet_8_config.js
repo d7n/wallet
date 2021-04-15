@@ -1,1 +1,1 @@
-var mnemonic = "purse grass ship dentist screen enact kick become layer sleep sure caught";
+var mnemonic = "axis camera echo setup into stadium air snap income harvest wise creek";

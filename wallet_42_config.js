@@ -1,1 +1,1 @@
-var mnemonic = "rate tourist match orbit cloth avoid various digital ripple throw shuffle festival";
+var mnemonic = "around box lucky random ginger sell slot frown purchase sun canal control";

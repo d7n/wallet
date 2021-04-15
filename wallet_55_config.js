@@ -1,1 +1,1 @@
-var mnemonic = "blossom immune fever basic scissors mean organ intact puzzle wagon grape hair";
+var mnemonic = "toy rotate zero divert faculty valve crack under indicate coffee garage salute";

@@ -1,1 +1,1 @@
-var mnemonic = "matter baby sample control jar audit together lawn spice analyst basket slogan";
+var mnemonic = "quantum child anger someone utility lend link vague lunch oppose rubber blush";

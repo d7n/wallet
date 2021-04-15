@@ -1,1 +1,1 @@
-var mnemonic = "attitude riot input cloud story fancy fringe action rotate kid bind digital";
+var mnemonic = "pilot tip grunt phrase almost diagram cradle veteran shiver balance lock sick";

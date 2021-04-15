@@ -1,1 +1,1 @@
-var mnemonic = "rally fish hockey tooth glue believe hurdle maid vacant step spot cattle";
+var mnemonic = "fatal palm man addict valley develop joke enter imitate exile wreck tilt";

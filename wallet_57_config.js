@@ -1,1 +1,1 @@
-var mnemonic = "ribbon trade light genius stomach calm mango rally ensure improve two shove";
+var mnemonic = "spawn erode used diagram pulse scrub include goddess around weather sell cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "resource salmon aunt fresh slam remind bench garbage budget liquid excuse turtle";
+var mnemonic = "waste account cliff bulb canyon search perfect engage index casino action message";

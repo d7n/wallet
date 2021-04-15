@@ -1,1 +1,1 @@
-var mnemonic = "purity shaft sight water follow live embark scorpion alter sibling love initial";
+var mnemonic = "else noble original machine novel cream mushroom hole spy snack nerve tackle";

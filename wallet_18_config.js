@@ -1,1 +1,1 @@
-var mnemonic = "leave retreat universe share require gentle olive actual grunt cloth paddle audit";
+var mnemonic = "fiber ranch melody dress south easily trick drift gallery primary skin physical";

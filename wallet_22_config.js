@@ -1,1 +1,1 @@
-var mnemonic = "unhappy battle elite twist shift what own budget one float gate food";
+var mnemonic = "power siege garment dad museum hub coffee couple sign woman wise submit";

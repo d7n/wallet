@@ -1,1 +1,1 @@
-var mnemonic = "gift boring patrol follow modify document clock deposit doll bread sea wine";
+var mnemonic = "age maid various tortoise sight leader smoke shield transfer solid friend fence";

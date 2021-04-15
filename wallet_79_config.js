@@ -1,1 +1,1 @@
-var mnemonic = "record close arrange fragile deny resemble cigar tattoo limit shoe garbage combine";
+var mnemonic = "sleep picture elder tool left blade august regular want worry impulse promote";

@@ -1,1 +1,1 @@
-var mnemonic = "level furnace proud craft indicate camp yellow eternal dignity search arrive promote";
+var mnemonic = "tongue gadget banana file mask lottery movie front couch there valley gather";

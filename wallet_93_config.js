@@ -1,1 +1,1 @@
-var mnemonic = "future lizard notable cereal toward lamp present system buzz work zone glide";
+var mnemonic = "thought salmon mask law weekend remove spare twice they palace judge left";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma gasp similar laptop mutual kidney donate wild stool universe drum job";
+var mnemonic = "advance plunge display post marriage lounge sand media swear half magnet nose";

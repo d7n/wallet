@@ -1,1 +1,1 @@
-var mnemonic = "shift equip afford tattoo avocado truly hollow wet flip parade shed effort";
+var mnemonic = "used curve sock tray pledge measure race dawn cinnamon famous grass army";

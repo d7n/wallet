@@ -1,1 +1,1 @@
-var mnemonic = "cook boil sibling work memory cruel nut image easily lend boring guitar";
+var mnemonic = "employ share fiscal enough echo elbow wool finish thing tiny clinic flame";

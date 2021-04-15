@@ -1,1 +1,1 @@
-var mnemonic = "what silver host grunt flavor message visit drive nothing know history level";
+var mnemonic = "chef seminar impose bleak parade frown heart adult promote soda bicycle depth";

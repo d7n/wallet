@@ -1,1 +1,1 @@
-var mnemonic = "wall clerk bachelor forum intact moral armed journey below tunnel expose identify";
+var mnemonic = "laptop habit radio purity strategy appear picture trial stove warm village august";

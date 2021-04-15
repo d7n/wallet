@@ -1,1 +1,1 @@
-var mnemonic = "idea arch there expand nice brand sweet april cram pool maid truly";
+var mnemonic = "define seat derive close member limit ankle story field outdoor march crush";

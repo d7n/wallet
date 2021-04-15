@@ -1,1 +1,1 @@
-var mnemonic = "ability ladder release conduct top rifle wave about world lift dragon inflict";
+var mnemonic = "snack foil about discover say category artwork light nut duty wet process";

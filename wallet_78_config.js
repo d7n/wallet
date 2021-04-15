@@ -1,1 +1,1 @@
-var mnemonic = "speak execute explain hard skin abandon adapt elite scan salmon thank burger";
+var mnemonic = "sample light mixed cheese neglect genius happy nut order hint split script";

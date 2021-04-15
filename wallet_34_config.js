@@ -1,1 +1,1 @@
-var mnemonic = "cupboard tag couch reject picture grass depth endorse soon rough galaxy what";
+var mnemonic = "crawl lizard planet funny between you humble kangaroo lock enrich dilemma home";

@@ -1,1 +1,1 @@
-var mnemonic = "total expect license sentence oblige change cube moon until cliff number witness";
+var mnemonic = "protect dose lunar mind twenty agent century deal client rubber absorb husband";

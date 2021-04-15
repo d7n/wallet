@@ -1,1 +1,1 @@
-var mnemonic = "ask ladder want excess asthma fabric negative tired soon tape duck erode";
+var mnemonic = "alpha maple wasp sugar glare domain ugly doctor code alley melt trap";

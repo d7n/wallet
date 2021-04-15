@@ -1,1 +1,1 @@
-var mnemonic = "enlist gold dawn action one enhance coral timber aspect kingdom day vendor";
+var mnemonic = "range kite dolphin jelly lumber donate flight develop need fit verb elephant";

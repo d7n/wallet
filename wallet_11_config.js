@@ -1,1 +1,1 @@
-var mnemonic = "what cause clown expose race decline regular cake talk uncle attract group";
+var mnemonic = "palace electric conduct glide erosion spend feed return crop ski board nasty";

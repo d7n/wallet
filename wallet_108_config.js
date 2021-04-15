@@ -1,1 +1,1 @@
-var mnemonic = "club flight loyal angle myth topic again cage arm art float jewel";
+var mnemonic = "bench split cruise poet swap mention rely message lumber finger mechanic family";

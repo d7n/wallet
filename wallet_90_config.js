@@ -1,1 +1,1 @@
-var mnemonic = "alarm ordinary hair glove warm miracle learn heart bachelor deer concert banana";
+var mnemonic = "peasant spirit fiber strategy hand blast universe poet then match exchange dilemma";

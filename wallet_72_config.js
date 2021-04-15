@@ -1,1 +1,1 @@
-var mnemonic = "edit panther various east canal sweet rack bachelor true radio electric nest";
+var mnemonic = "wise gate leave upgrade before snow know close obey scout fade unusual";

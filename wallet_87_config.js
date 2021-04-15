@@ -1,1 +1,1 @@
-var mnemonic = "roof swap crystal obscure mother time fragile cash armor trouble turn absorb";
+var mnemonic = "rough slab furnace divorce coast forward rice language grow inmate lava coin";

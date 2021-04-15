@@ -1,1 +1,1 @@
-var mnemonic = "bulb rescue ancient catalog height sample casino tired current hour oak inside";
+var mnemonic = "action airport confirm execute cube correct stomach head lawn mimic clock bomb";

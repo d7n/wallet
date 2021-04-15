@@ -1,1 +1,1 @@
-var mnemonic = "talk praise utility opera critic bulk topple bright sauce industry surge grit";
+var mnemonic = "mesh duck fiber exhibit tunnel sweet tornado obtain bag deny time knee";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt frog party situate transfer hospital wash hamster donate burger rely present";
+var mnemonic = "chalk bridge lizard carry attack decide canvas fall portion derive nut fox";

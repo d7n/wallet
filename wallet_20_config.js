@@ -1,1 +1,1 @@
-var mnemonic = "immense glue multiply sound can gold office arrange throw enlist spring paddle";
+var mnemonic = "swap verify royal mind nest atom solution bargain height verify awful anchor";

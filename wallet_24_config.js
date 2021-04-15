@@ -1,1 +1,1 @@
-var mnemonic = "random balance ladder solar chimney yellow clinic arrive large announce scatter lizard";
+var mnemonic = "steak remove fossil weasel train gold tennis fever tube bronze bread toy";
