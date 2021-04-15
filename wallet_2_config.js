@@ -1,1 +1,1 @@
-var mnemonic = "tribe biology correct marriage evolve vapor tobacco harsh drama swear void wreck";
+var mnemonic = "soon easy balance label matter service peace deer equip use basic either";

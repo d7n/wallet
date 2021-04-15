@@ -1,1 +1,1 @@
-var mnemonic = "chuckle gesture leader type similar perfect street deposit crucial suffer vital island";
+var mnemonic = "foam meat decrease chest filter fox oppose lunch easy fantasy flag timber";

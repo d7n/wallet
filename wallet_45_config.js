@@ -1,1 +1,1 @@
-var mnemonic = "question trash organ above security curtain turn round air lecture sure wolf";
+var mnemonic = "wasp train mushroom use pistol twenty autumn stove slab nuclear assist shrug";

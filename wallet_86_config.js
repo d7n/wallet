@@ -1,1 +1,1 @@
-var mnemonic = "guess advice adapt gorilla put fever capital cause rice critic badge abandon";
+var mnemonic = "leisure electric jar sister voice ten embrace state light wrong chase feature";

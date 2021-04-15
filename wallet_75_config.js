@@ -1,1 +1,1 @@
-var mnemonic = "season police napkin taste air body board planet useful limit cycle foot";
+var mnemonic = "isolate ability female always series manage beauty stereo earn thing flush almost";

@@ -1,1 +1,1 @@
-var mnemonic = "butter hero gate viable rookie canoe near crawl impulse perfect token syrup";
+var mnemonic = "famous fish girl glance identify pitch board toilet race human craft interest";

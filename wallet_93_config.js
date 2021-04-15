@@ -1,1 +1,1 @@
-var mnemonic = "combine moment citizen attack announce team woman art smart report material average";
+var mnemonic = "odor settle nerve bottom surround patrol expire uncover brief hurt icon draw";

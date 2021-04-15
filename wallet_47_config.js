@@ -1,1 +1,1 @@
-var mnemonic = "girl crazy arch stand cloud involve cheap develop runway gauge radar shine";
+var mnemonic = "embrace also also just taste crunch blade toddler nothing sort sadness oppose";

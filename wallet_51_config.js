@@ -1,1 +1,1 @@
-var mnemonic = "brief argue candy melt awful anchor call laundry cram erode audit appear";
+var mnemonic = "prevent say spare ketchup link sting member topple vault chapter swallow gospel";

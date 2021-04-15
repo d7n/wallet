@@ -1,1 +1,1 @@
-var mnemonic = "trophy pill wheel lake hedgehog supreme banner tonight shine loyal stadium coconut";
+var mnemonic = "canvas elite pottery ladder rule rate clip garlic doctor inquiry milk almost";

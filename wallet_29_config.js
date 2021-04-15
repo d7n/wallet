@@ -1,1 +1,1 @@
-var mnemonic = "seven shoulder slam west orange where shove proud dolphin earn poet hat";
+var mnemonic = "kind hedgehog tobacco capable very know pelican depend host bomb room shallow";

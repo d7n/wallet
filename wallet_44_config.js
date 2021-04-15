@@ -1,1 +1,1 @@
-var mnemonic = "oak inmate first assume top toy stadium old vocal bacon useful genius";
+var mnemonic = "clap theory bargain draw great symptom lecture modify winner obscure giraffe divide";

@@ -1,1 +1,1 @@
-var mnemonic = "grant metal pride bonus virtual light effort limit large innocent basket recycle";
+var mnemonic = "clarify warfare churn state mind danger ramp wood circle army erupt chef";

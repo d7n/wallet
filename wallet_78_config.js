@@ -1,1 +1,1 @@
-var mnemonic = "planet smooth coast tank travel sense skill calm model equip winner swing";
+var mnemonic = "bomb awful busy minimum mixture agree radar east kit theme near only";

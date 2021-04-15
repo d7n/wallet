@@ -1,1 +1,1 @@
-var mnemonic = "raw north dumb wide west fringe hazard bean virtual hen modify skate";
+var mnemonic = "radio motion sound clown design unhappy ask hunt daring vivid fortune juice";

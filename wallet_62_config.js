@@ -1,1 +1,1 @@
-var mnemonic = "forum swap credit panel history velvet carry cannon ethics front quiz sugar";
+var mnemonic = "connect legend brother merry trigger butter friend primary advance dumb problem define";

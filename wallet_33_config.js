@@ -1,1 +1,1 @@
-var mnemonic = "marriage relief coast grab rose future boost cake enforce transfer clutch question";
+var mnemonic = "cycle always card arch since army pony ethics roast juice bachelor foster";

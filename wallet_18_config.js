@@ -1,1 +1,1 @@
-var mnemonic = "local direct napkin festival card carpet economy walk box swing ugly machine";
+var mnemonic = "skate hunt lawn depth endless nerve size web strike bullet need soap";

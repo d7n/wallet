@@ -1,1 +1,1 @@
-var mnemonic = "surprise man tiny arm february poet correct squeeze control average walk ecology";
+var mnemonic = "bomb airport hazard balcony mask cube knee process identify assist lend attitude";

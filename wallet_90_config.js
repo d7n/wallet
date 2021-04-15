@@ -1,1 +1,1 @@
-var mnemonic = "slice blush earth famous cattle grid faculty sauce certain burger wild idea";
+var mnemonic = "exhibit disagree strategy include head fix master seed defense antenna decorate image";

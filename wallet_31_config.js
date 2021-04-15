@@ -1,1 +1,1 @@
-var mnemonic = "stamp stadium laugh penalty quantum dance just arch jewel ozone depend raw";
+var mnemonic = "south relief program agent arm choice nerve praise topic inmate vote symptom";

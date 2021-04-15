@@ -1,1 +1,1 @@
-var mnemonic = "pyramid shiver cotton define multiply east toe clock federal sweet thrive perfect";
+var mnemonic = "merry abuse bike soda camera scout category way huge spy laugh camera";

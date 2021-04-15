@@ -1,1 +1,1 @@
-var mnemonic = "fetch worry legend around bind venue pumpkin enable lyrics churn fox jelly";
+var mnemonic = "common fiber problem supreme lucky name urban orange make person math body";

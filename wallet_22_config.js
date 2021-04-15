@@ -1,1 +1,1 @@
-var mnemonic = "pretty flower balcony taxi sadness action raven silver funny enable cloth slab";
+var mnemonic = "grace sleep nothing thank farm fox window marble color museum gauge bus";

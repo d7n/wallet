@@ -1,1 +1,1 @@
-var mnemonic = "near blade elephant thrive december ski loud orange first bubble toddler live";
+var mnemonic = "forum chair spawn flash anger where lake vast slender display purpose candy";

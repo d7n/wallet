@@ -1,1 +1,1 @@
-var mnemonic = "detail voice cluster kid fruit parade consider that repair illegal rough element";
+var mnemonic = "cloud noble thank odor humble chaos panther tobacco journey wine deal type";

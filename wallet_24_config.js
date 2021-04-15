@@ -1,1 +1,1 @@
-var mnemonic = "south deer merge stove urban lawn only oxygen orchard myth clutch token";
+var mnemonic = "pitch chef color eagle auction miracle phrase grunt final club shiver visa";

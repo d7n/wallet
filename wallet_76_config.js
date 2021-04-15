@@ -1,1 +1,1 @@
-var mnemonic = "obey emotion punch turn laundry script normal student mango energy beyond caution";
+var mnemonic = "link venture hawk trend donkey rich swift chunk credit aunt sketch there";

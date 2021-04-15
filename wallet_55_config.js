@@ -1,1 +1,1 @@
-var mnemonic = "hen child cat uniform craft wine unknown wolf provide witness rotate surprise";
+var mnemonic = "gesture minor cloth host pencil average curtain arrange version mad hedgehog surround";

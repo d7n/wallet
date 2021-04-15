@@ -1,1 +1,1 @@
-var mnemonic = "space bone kiwi old make scout heart valid forget comic mimic trust";
+var mnemonic = "bus tobacco onion swear useful property burden luggage nominee chicken mesh enough";

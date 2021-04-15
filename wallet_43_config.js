@@ -1,1 +1,1 @@
-var mnemonic = "present receive solution manual monster junior ball never perfect useful dash aspect";
+var mnemonic = "bus divorce woman matrix possible chuckle flavor excess donate recall reunion input";

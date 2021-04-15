@@ -1,1 +1,1 @@
-var mnemonic = "repair approve thunder teach arm code donate verb energy drift enforce deal";
+var mnemonic = "charge shove toilet bamboo special dignity omit hair ring person female program";

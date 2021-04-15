@@ -1,1 +1,1 @@
-var mnemonic = "lucky crumble margin ask boss matrix load crash nasty effort gas portion";
+var mnemonic = "riot float upon cinnamon photo carpet evil engine subject burden print melody";

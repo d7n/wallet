@@ -1,1 +1,1 @@
-var mnemonic = "universe rose corn guard crush rural nurse game choice decline destroy demise";
+var mnemonic = "valve knife tip axis strike blast arrow acoustic marriage blast dilemma obtain";

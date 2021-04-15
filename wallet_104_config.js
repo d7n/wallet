@@ -1,1 +1,1 @@
-var mnemonic = "resemble reopen cricket gold carpet scheme horror ginger flush shell model book";
+var mnemonic = "churn cheese toast flee wing staff disagree road bench vault crystal elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "design pause sponsor sweet boost rib element side issue exile spell moral";
+var mnemonic = "rug absorb shove any urge another toe crazy hire palm also give";

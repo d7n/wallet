@@ -1,1 +1,1 @@
-var mnemonic = "peasant winter alcohol give friend remove gorilla hand sister price scatter genuine";
+var mnemonic = "casual pen actor virus resource around apart section rival embrace tennis during";

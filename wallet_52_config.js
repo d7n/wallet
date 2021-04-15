@@ -1,1 +1,1 @@
-var mnemonic = "logic two cruel believe later shove champion copy actor trouble opinion jar";
+var mnemonic = "travel prize mountain woman please tilt plug squirrel economy base tornado click";

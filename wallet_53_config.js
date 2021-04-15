@@ -1,1 +1,1 @@
-var mnemonic = "curious fire fortune person oyster illegal erode slight keep liar lonely gravity";
+var mnemonic = "onion cook output start gorilla clever mercy prefer match discover mail lemon";

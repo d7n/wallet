@@ -1,1 +1,1 @@
-var mnemonic = "oil syrup ahead jar arctic fold other curtain mobile merge blouse endorse";
+var mnemonic = "letter faith shuffle humor around correct romance wonder cereal brass wine diary";

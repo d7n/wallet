@@ -1,1 +1,1 @@
-var mnemonic = "keen notable unaware marble original merit area credit degree reopen away dragon";
+var mnemonic = "faith stool glad sword daring magic capital flight giraffe broccoli brain talent";

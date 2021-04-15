@@ -1,1 +1,1 @@
-var mnemonic = "random top cause burden pattern exile busy warm fabric library weapon friend";
+var mnemonic = "rhythm erase goat clog voyage also omit cave shove blast tunnel front";

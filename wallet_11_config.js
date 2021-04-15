@@ -1,1 +1,1 @@
-var mnemonic = "decade pride assault lunar cruise hold agent glad concert any favorite inform";
+var mnemonic = "chunk excess pigeon wheel hub discover second chaos middle zone obscure hello";

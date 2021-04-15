@@ -1,1 +1,1 @@
-var mnemonic = "scale song idea citizen impact about park kiwi disease bleak box true";
+var mnemonic = "eager horse buyer truly quote spring pepper stone other museum trim tired";

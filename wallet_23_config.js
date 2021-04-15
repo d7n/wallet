@@ -1,1 +1,1 @@
-var mnemonic = "maze wool tiny wrestle axis explain episode leisure topple essence rack jaguar";
+var mnemonic = "box derive bachelor fan market dignity normal behind horn elbow escape claim";

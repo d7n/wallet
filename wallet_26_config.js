@@ -1,1 +1,1 @@
-var mnemonic = "supply scrub category property noodle civil arrow march stumble innocent all oblige";
+var mnemonic = "hotel cricket drama scrub nasty health quick dry endorse effort defense crash";

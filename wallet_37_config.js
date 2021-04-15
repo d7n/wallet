@@ -1,1 +1,1 @@
-var mnemonic = "once carpet monitor still ribbon decade winter sell gift gospel unique toddler";
+var mnemonic = "airport brass edge timber rule walk large birth engine east gauge stone";

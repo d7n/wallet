@@ -1,1 +1,1 @@
-var mnemonic = "ridge dog all pink ecology timber crew crush gather glue update token";
+var mnemonic = "wish punch often concert west hip silk move captain core patrol tool";

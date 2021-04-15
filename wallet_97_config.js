@@ -1,1 +1,1 @@
-var mnemonic = "camera dog twist bar clutch crisp social despair bronze property shine paddle";
+var mnemonic = "crazy gym hidden final joke spare giggle response laundry lunar police verb";

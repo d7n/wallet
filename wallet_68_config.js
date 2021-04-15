@@ -1,1 +1,1 @@
-var mnemonic = "innocent merit view plate brass east meat anger nothing race autumn wrestle";
+var mnemonic = "inmate wide aunt nature fix state raccoon benefit version rifle thumb settle";

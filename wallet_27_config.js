@@ -1,1 +1,1 @@
-var mnemonic = "adjust cake hair food scorpion flight stand fabric hero inflict dose arch";
+var mnemonic = "urge section congress beauty oven scissors crazy eternal book cheese gorilla answer";

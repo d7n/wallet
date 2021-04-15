@@ -1,1 +1,1 @@
-var mnemonic = "subject fashion demand firm shoot card yard merit clerk expire arctic empty";
+var mnemonic = "ahead toddler ozone distance vessel hair miss usual barely rabbit oppose dinosaur";

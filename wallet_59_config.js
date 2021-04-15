@@ -1,1 +1,1 @@
-var mnemonic = "hurry flat maze focus actor inner guitar use bubble margin situate before";
+var mnemonic = "genuine oblige food movie traffic egg range eye still wide hint enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "remain swap tilt gesture width flush upset avocado eight subject effort cancel";
+var mnemonic = "dentist expect attend stock jaguar curious promote seek puppy short process shaft";

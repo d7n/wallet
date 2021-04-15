@@ -1,1 +1,1 @@
-var mnemonic = "vacant interest base minimum census soft feature paper negative cake student solution";
+var mnemonic = "civil sand oil lab video monster shallow sad predict educate melody jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "gym ill over cement brush bless abuse toss install later caught afraid";
+var mnemonic = "admit machine liquid trade april jump sheriff twenty width sweet edge impose";

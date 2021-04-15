@@ -1,1 +1,1 @@
-var mnemonic = "ride sting struggle film detect derive assume trash aisle scan enrich current";
+var mnemonic = "used blade vacuum announce item nose local puppy crazy lock cigar blue";

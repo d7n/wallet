@@ -1,1 +1,1 @@
-var mnemonic = "marble cost sad route hedgehog exit loud legal credit tilt friend upgrade";
+var mnemonic = "adult meadow brief evolve wet enact marriage extend token pepper skill pact";

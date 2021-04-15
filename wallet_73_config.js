@@ -1,1 +1,1 @@
-var mnemonic = "age scrub final color truth exit time hover coconut end payment strategy";
+var mnemonic = "seminar shell police gloom rookie general drip mimic what evidence range prevent";

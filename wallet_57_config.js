@@ -1,1 +1,1 @@
-var mnemonic = "water toe alpha able mean canvas author patch fold choice luggage frost";
+var mnemonic = "stumble key eagle then crash wisdom broken police eagle glide inquiry want";

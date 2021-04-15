@@ -1,1 +1,1 @@
-var mnemonic = "drop pelican hurry crash split nice alcohol enough crush dial endorse desk";
+var mnemonic = "female riot era vapor glance outside prevent angle guide vapor disorder impact";

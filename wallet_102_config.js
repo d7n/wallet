@@ -1,1 +1,1 @@
-var mnemonic = "rice fix lazy under gap clay speed observe bread inside giggle snap";
+var mnemonic = "combine whale develop drama cable rough limit humor card goat certain voyage";

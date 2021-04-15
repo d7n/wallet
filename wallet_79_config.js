@@ -1,1 +1,1 @@
-var mnemonic = "wasp polar resemble scrap bind soul spatial electric such domain curtain detail";
+var mnemonic = "bicycle crash behind photo awkward lonely nation eagle scrub lemon april firm";

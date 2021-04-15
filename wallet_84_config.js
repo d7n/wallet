@@ -1,1 +1,1 @@
-var mnemonic = "effort shield finish stove space captain uncle seven slam what busy hint";
+var mnemonic = "long express reform merge garment child planet divide ability morning occur occur";

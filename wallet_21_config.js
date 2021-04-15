@@ -1,1 +1,1 @@
-var mnemonic = "label vacuum used jar alcohol make afford arrow coin water indoor always";
+var mnemonic = "avocado party depend between clown purchase paddle tiger wet spin garden acquire";

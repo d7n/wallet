@@ -1,1 +1,1 @@
-var mnemonic = "amateur blame security one hen broken weasel question degree tornado abuse damage";
+var mnemonic = "sun dice trouble brand festival banner spare layer bamboo innocent negative wasp";

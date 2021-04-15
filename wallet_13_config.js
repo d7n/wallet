@@ -1,1 +1,1 @@
-var mnemonic = "chapter milk laptop leisure derive genuine runway cotton mail follow raven congress";
+var mnemonic = "arrow sting embody job vessel join impulse organ almost next grant pottery";

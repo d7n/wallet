@@ -1,1 +1,1 @@
-var mnemonic = "broccoli skull notable inner little library federal lunch divide forest puppy key";
+var mnemonic = "labor kiss age vote bottom gather exchange brush side also option edit";

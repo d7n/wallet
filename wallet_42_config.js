@@ -1,1 +1,1 @@
-var mnemonic = "seven mansion city muscle merry chief nasty material mixed file way faint";
+var mnemonic = "moment glide issue aunt globe tilt step rifle keep velvet tool firm";

@@ -1,1 +1,1 @@
-var mnemonic = "thought depend deliver alley burden arch damage rotate broccoli baby citizen tornado";
+var mnemonic = "midnight burst ritual unable round genuine marriage borrow recall reason insane category";

@@ -1,1 +1,1 @@
-var mnemonic = "torch merry thank jeans rally hurt monkey renew guide snow note track";
+var mnemonic = "attend way name dish silent begin prepare join dolphin glow end funny";

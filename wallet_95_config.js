@@ -1,1 +1,1 @@
-var mnemonic = "awesome pig inner vendor field job panther plate diet sea junk slight";
+var mnemonic = "update chicken dash pattern trumpet clean noise pig forum choose army choose";

@@ -1,1 +1,1 @@
-var mnemonic = "curious noise talent mango prize can hurt trim real click dance actor";
+var mnemonic = "burger goose jar fit stem mix confirm purity love credit response room";

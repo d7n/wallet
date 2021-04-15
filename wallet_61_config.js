@@ -1,1 +1,1 @@
-var mnemonic = "student venture essay exchange pony vault dust creek slot deputy twenty glad";
+var mnemonic = "differ candy act fish sun field robust exclude cheap various crowd pumpkin";

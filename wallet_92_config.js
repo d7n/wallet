@@ -1,1 +1,1 @@
-var mnemonic = "face outer bicycle praise figure visual couch shock fame sea nice ride";
+var mnemonic = "plastic please enhance seat cave buyer exhibit label brown hungry number outdoor";

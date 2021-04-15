@@ -1,1 +1,1 @@
-var mnemonic = "uphold replace lounge foot hope image heavy glide setup target radio coach";
+var mnemonic = "regular talk pen leisure day blossom artefact grain earth desert swamp very";

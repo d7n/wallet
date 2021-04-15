@@ -1,1 +1,1 @@
-var mnemonic = "iron scare uncover quiz donor pact assault ramp attitude like wine hint";
+var mnemonic = "saddle cart solve sunny enrich adult access mercy budget world junior piece";

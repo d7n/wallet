@@ -1,1 +1,1 @@
-var mnemonic = "innocent help mosquito core announce cactus dish clay skin magnet real sleep";
+var mnemonic = "engine special battle clean example glue august tone town energy banana speak";

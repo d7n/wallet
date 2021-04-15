@@ -1,1 +1,1 @@
-var mnemonic = "grass almost nice coast love such control talent gym utility castle decrease";
+var mnemonic = "luxury only annual state assault tuition lava sad oblige miracle plastic feel";

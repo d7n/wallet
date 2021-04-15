@@ -1,1 +1,1 @@
-var mnemonic = "always pig cable brass balance olympic dismiss foster derive damp stereo time";
+var mnemonic = "buzz cake million anchor butter motion develop long summer snake daughter smooth";

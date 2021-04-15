@@ -1,1 +1,1 @@
-var mnemonic = "display gate aware flash deposit joke globe margin diagram outdoor cruise card";
+var mnemonic = "security jealous stadium crouch voice veteran world lonely ridge wheel fragile volume";

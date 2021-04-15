@@ -1,1 +1,1 @@
-var mnemonic = "clever debate fortune cushion cement caught coil east pink razor brick brief";
+var mnemonic = "chat lucky subject drift tumble expose pole young right beauty harbor observe";

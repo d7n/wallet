@@ -1,1 +1,1 @@
-var mnemonic = "fragile cradle orchard blade kitten super kitchen cancel credit state toy business";
+var mnemonic = "skin purpose flip win mammal zero access hole pencil next smart bicycle";

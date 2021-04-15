@@ -1,1 +1,1 @@
-var mnemonic = "vacant drift similar drama embrace begin actual online school pause spin sketch";
+var mnemonic = "radio future clever snack bus fossil produce warm audit lamp cloud calm";

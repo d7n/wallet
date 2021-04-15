@@ -1,1 +1,1 @@
-var mnemonic = "measure volcano carbon age link bargain impulse brother worry tag head subway";
+var mnemonic = "wild club boost remove degree glue choose boring jaguar camera poem egg";

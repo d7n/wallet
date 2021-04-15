@@ -1,1 +1,1 @@
-var mnemonic = "wagon around tired process panther find life sniff awkward sort cancel gauge";
+var mnemonic = "caught unaware parent grass behave execute pretty sort symbol this wrestle monster";

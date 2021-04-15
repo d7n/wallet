@@ -1,1 +1,1 @@
-var mnemonic = "gap family danger blossom lucky draw camera list exit marriage disease jazz";
+var mnemonic = "kick hammer retreat field able critic display debris attract bike mask nominee";

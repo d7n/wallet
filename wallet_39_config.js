@@ -1,1 +1,1 @@
-var mnemonic = "dream relief nest famous arena urban clock chapter job senior bus spawn";
+var mnemonic = "slush victory vehicle gym sniff same depend lend riot bulk test music";

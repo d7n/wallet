@@ -1,1 +1,1 @@
-var mnemonic = "rapid verify brain just license music curious left donor ahead pretty bitter";
+var mnemonic = "must okay radar blossom night avocado foam shuffle inhale tiger pyramid finger";

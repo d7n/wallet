@@ -1,1 +1,1 @@
-var mnemonic = "hole rent pioneer escape reveal check play list parrot rally aisle badge";
+var mnemonic = "able vapor deposit wrist certain brand enter skin economy razor high alien";

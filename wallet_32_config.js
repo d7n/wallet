@@ -1,1 +1,1 @@
-var mnemonic = "subject lazy train segment you blanket noodle word parent assault already refuse";
+var mnemonic = "faint toilet kit hidden comfort despair strike number dog tree milk actor";

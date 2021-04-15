@@ -1,1 +1,1 @@
-var mnemonic = "march ugly raise foam test thing rich lady possible start day battle";
+var mnemonic = "discover achieve client baby slender thank sport absurd grain boss uphold time";

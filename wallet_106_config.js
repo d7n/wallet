@@ -1,1 +1,1 @@
-var mnemonic = "elbow manual spatial butter turtle pledge alcohol siren chase fetch retire toe";
+var mnemonic = "sugar blush scrap draw museum anchor federal meadow hire memory attitude rebuild";
