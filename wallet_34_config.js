@@ -1,1 +1,1 @@
-var mnemonic = "dolphin enroll mule grace winter midnight code spawn describe husband tumble tired";
+var mnemonic = "famous marine hope basket hire defy cushion mule lunar love stone bicycle";

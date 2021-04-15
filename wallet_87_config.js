@@ -1,1 +1,1 @@
-var mnemonic = "sketch veteran model decide valley sauce identify vehicle found uncle satisfy mesh";
+var mnemonic = "sand useful option night pizza length bunker entry final genuine beef coconut";

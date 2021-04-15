@@ -1,1 +1,1 @@
-var mnemonic = "magnet shed knee innocent again night hazard powder liquid fossil advice job";
+var mnemonic = "vocal usage lawn beef behave sphere opinion peasant woman demand adjust leader";

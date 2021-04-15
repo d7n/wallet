@@ -1,1 +1,1 @@
-var mnemonic = "gap absent clock into decide nut make grass pony metal luxury wrap";
+var mnemonic = "hint gym coin awful ready ribbon team better radar maid engine rally";

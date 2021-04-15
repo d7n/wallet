@@ -1,1 +1,1 @@
-var mnemonic = "pretty hour walk cherry tenant horror party snow tone glove fish brave";
+var mnemonic = "solid rain naive sheriff amount above despair easy narrow must frost snake";

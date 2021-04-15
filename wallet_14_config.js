@@ -1,1 +1,1 @@
-var mnemonic = "short point border virtual general stem tip electric permit wash anxiety satoshi";
+var mnemonic = "park zoo element predict student mother planet super clinic radio sting burden";

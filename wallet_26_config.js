@@ -1,1 +1,1 @@
-var mnemonic = "dutch art daring wrestle snow wheel brave gate call choose silver grape";
+var mnemonic = "say east meadow wear luxury business gym basic invest broken master ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "coil youth glass nothing furnace foot impulse bracket erosion system canyon spring";
+var mnemonic = "claim that spray alert address useful blouse visual series chalk spider asthma";

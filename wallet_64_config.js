@@ -1,1 +1,1 @@
-var mnemonic = "execute oval decide margin chunk bonus clever radar cricket credit crane toward";
+var mnemonic = "pond scout receive broom improve life welcome input stem suffer maximum violin";

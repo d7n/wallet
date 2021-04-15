@@ -1,1 +1,1 @@
-var mnemonic = "sing sniff spoon ramp lab asthma raise sight divide phrase sadness grape";
+var mnemonic = "bleak vacuum crucial series garment drama laugh amount that capable vague jar";

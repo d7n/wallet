@@ -1,1 +1,1 @@
-var mnemonic = "flush jelly drift rally wire valid palm address jacket castle foam medal";
+var mnemonic = "question dry ship now embrace have transfer flash number creek afford artwork";

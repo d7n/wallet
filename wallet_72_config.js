@@ -1,1 +1,1 @@
-var mnemonic = "margin season concert hen carpet outside early utility afraid exist very panic";
+var mnemonic = "note glue account pole brand upset sort desert series lizard rally way";

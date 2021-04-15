@@ -1,1 +1,1 @@
-var mnemonic = "scatter protect upset yellow sing maze visit toy pigeon engage twenty long";
+var mnemonic = "wait trouble hawk put dry orphan thing method weasel maze hotel icon";

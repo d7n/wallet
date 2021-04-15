@@ -1,1 +1,1 @@
-var mnemonic = "afford exhaust door pipe forward slush fiscal ability punch axis focus legend";
+var mnemonic = "fancy trash sort slow reunion first sure insect coconut like fog combine";

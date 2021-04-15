@@ -1,1 +1,1 @@
-var mnemonic = "only giggle crater anger almost brand snack vote brave smart devote tell";
+var mnemonic = "slogan venue result blood genius urban wreck loud hub keep salt foot";

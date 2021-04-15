@@ -1,1 +1,1 @@
-var mnemonic = "field sign float salt viable remain shuffle tackle bread expire unlock strike";
+var mnemonic = "offer item bridge tower tumble police festival that sure forget armor evil";

@@ -1,1 +1,1 @@
-var mnemonic = "two receive boy time banner arm hero rich napkin slogan own garment";
+var mnemonic = "sting champion height vintage asthma discover oil cage robot bunker zero prosper";

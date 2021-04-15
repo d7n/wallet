@@ -1,1 +1,1 @@
-var mnemonic = "catch liquid eyebrow legend kitchen visit edit dash zone dignity energy defense";
+var mnemonic = "stairs shallow finish spirit since define open catch now hidden famous ridge";

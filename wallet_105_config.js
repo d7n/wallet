@@ -1,1 +1,1 @@
-var mnemonic = "profit legal border false length blouse verify argue provide crystal weekend regular";
+var mnemonic = "shiver talk hedgehog laptop train pilot globe cause benefit cool snap young";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit electric best town ship dumb butter later soccer arrow frog below";
+var mnemonic = "slice float window bone student iron flush eagle long ahead define cost";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin drill message struggle noble broom siege own educate address gather bicycle";
+var mnemonic = "wrong twelve announce excite spider slide civil trade gloom sight happy era";

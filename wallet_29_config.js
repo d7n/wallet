@@ -1,1 +1,1 @@
-var mnemonic = "regular hello sausage modify evolve bright crouch above online knee utility push";
+var mnemonic = "twice mystery board scissors toe collect leader fall outside hero picnic estate";

@@ -1,1 +1,1 @@
-var mnemonic = "present world first valley address slab above denial section script lake cricket";
+var mnemonic = "unlock segment cart client like nature weird ensure unit toss pull tribe";

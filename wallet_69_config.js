@@ -1,1 +1,1 @@
-var mnemonic = "blind keep butter wife toast kiss pool expose domain glory asset acoustic";
+var mnemonic = "hotel inspire thrive claw can fee pluck flight gadget useless security people";

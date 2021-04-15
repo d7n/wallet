@@ -1,1 +1,1 @@
-var mnemonic = "lucky symptom stock stand work inner chicken private panel object ring control";
+var mnemonic = "three able obey loan enforce wild keen you evolve between punch disease";

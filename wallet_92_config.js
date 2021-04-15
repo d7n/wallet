@@ -1,1 +1,1 @@
-var mnemonic = "attitude pool phrase piece trade topic lock vague dignity ceiling syrup domain";
+var mnemonic = "siren barely marble urban ten become lend violin topple sign vacuum version";

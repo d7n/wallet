@@ -1,1 +1,1 @@
-var mnemonic = "blouse jacket tennis whisper life best crucial teach sudden hero inform daring";
+var mnemonic = "step secret leader coyote festival bright stool leaf buzz window young company";

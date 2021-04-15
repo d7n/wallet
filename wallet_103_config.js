@@ -1,1 +1,1 @@
-var mnemonic = "avoid thought lab design meat upgrade twice honey reunion clog denial random";
+var mnemonic = "canoe apology cook exist dream always useful ocean flush butter tackle allow";

@@ -1,1 +1,1 @@
-var mnemonic = "coil wool catch ankle struggle outside clever pool pitch imitate loan hour";
+var mnemonic = "future quick clown erosion attend someone lobster finger knock trust become intact";

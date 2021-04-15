@@ -1,1 +1,1 @@
-var mnemonic = "hidden fit tray lizard rhythm purity segment page deny afford cart panel";
+var mnemonic = "cheap awesome suggest wink jacket toss museum finger detail sunset split ship";

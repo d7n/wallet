@@ -1,1 +1,1 @@
-var mnemonic = "august burger hen symptom lava unfold engine army major actual tattoo pizza";
+var mnemonic = "pond doctor wise crop lounge insect ranch denial vacuum tennis usual fortune";

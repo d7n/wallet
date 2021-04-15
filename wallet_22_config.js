@@ -1,1 +1,1 @@
-var mnemonic = "fault green soon salt swamp segment either wasp roof social tone annual";
+var mnemonic = "spin frost black loyal display bring opera garment figure pioneer mountain torch";

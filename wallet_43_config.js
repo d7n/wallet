@@ -1,1 +1,1 @@
-var mnemonic = "pole toilet display reunion chef special whip meat powder swim snap service";
+var mnemonic = "essay sausage shiver myth churn warrior critic torch cross fame soup spread";

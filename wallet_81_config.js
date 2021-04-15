@@ -1,1 +1,1 @@
-var mnemonic = "sugar educate mutual park drama bronze method quality exercise glad cloth book";
+var mnemonic = "body forward trial base thumb surround phone task entire skirt then marine";

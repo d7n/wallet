@@ -1,1 +1,1 @@
-var mnemonic = "swallow end orchard camp trend grit topple move mutual cannon doctor gorilla";
+var mnemonic = "leader trend output cheap good transfer smile gate cattle describe increase pipe";

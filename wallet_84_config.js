@@ -1,1 +1,1 @@
-var mnemonic = "double master bitter hood quality lunch elevator much patrol rain amazing obvious";
+var mnemonic = "future confirm sponsor fatal object broken vocal luxury recipe symptom hope fee";

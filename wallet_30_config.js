@@ -1,1 +1,1 @@
-var mnemonic = "tortoise service guide fluid goat script elephant donor wood goose glad crime";
+var mnemonic = "pear stool adapt surround beyond loyal reject purpose chimney relax object divide";

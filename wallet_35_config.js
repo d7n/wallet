@@ -1,1 +1,1 @@
-var mnemonic = "review globe word cook tissue twice fat start van twelve trim unlock";
+var mnemonic = "prevent jelly lady curve patch square alpha boring avocado know minimum plunge";

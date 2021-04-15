@@ -1,1 +1,1 @@
-var mnemonic = "famous dirt armed space solid bomb oval ordinary unique test episode puzzle";
+var mnemonic = "trip begin immense assist melt tobacco wage present ask pride apple hip";

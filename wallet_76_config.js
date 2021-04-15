@@ -1,1 +1,1 @@
-var mnemonic = "wrestle brain owner amount glove this pitch glide island cube ball rate";
+var mnemonic = "volcano struggle long pony reunion split sad stove hip cloth torch canvas";

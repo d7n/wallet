@@ -1,1 +1,1 @@
-var mnemonic = "moment dial move forward color oil novel viable chaos forum slam wrestle";
+var mnemonic = "author open glory now buffalo unveil under erode oven happy region brand";

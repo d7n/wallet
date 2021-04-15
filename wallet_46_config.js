@@ -1,1 +1,1 @@
-var mnemonic = "area idle trip duty old genre rapid chaos film slush hotel wheat";
+var mnemonic = "lunch resist seed kiwi act alarm swallow appear trap erosion perfect measure";

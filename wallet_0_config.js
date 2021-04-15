@@ -1,1 +1,1 @@
-var mnemonic = "math term skin leader miracle rib bulb lawsuit select garden phone avocado";
+var mnemonic = "effort style hub reunion conduct found car actual exotic idea visa raccoon";

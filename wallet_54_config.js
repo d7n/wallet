@@ -1,1 +1,1 @@
-var mnemonic = "brown pact rib space require phone truck beef vague blanket patient satisfy";
+var mnemonic = "labor come museum cruise gap luxury smoke worth balance harsh relax dismiss";

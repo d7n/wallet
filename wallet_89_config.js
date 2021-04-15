@@ -1,1 +1,1 @@
-var mnemonic = "human captain tomorrow sure kiss health sight elbow input student make list";
+var mnemonic = "impulse gap butter ethics claim surprise lobster kind huge solid divorce talent";

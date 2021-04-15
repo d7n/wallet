@@ -1,1 +1,1 @@
-var mnemonic = "breeze jealous must piano cake chef link concert column include motor receive";
+var mnemonic = "elephant curious brain chair memory artist chief prize apart orbit switch endless";

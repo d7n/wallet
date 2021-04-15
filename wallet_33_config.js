@@ -1,1 +1,1 @@
-var mnemonic = "brother year wet rule response define then clock slender draw alpha mushroom";
+var mnemonic = "build write blue baby spawn sport typical crouch fold bundle segment degree";

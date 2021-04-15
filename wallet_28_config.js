@@ -1,1 +1,1 @@
-var mnemonic = "sibling hazard vessel want private cattle blur thunder exit job inhale wheel";
+var mnemonic = "conduct upset uniform embark people stone marble cover citizen fossil there east";

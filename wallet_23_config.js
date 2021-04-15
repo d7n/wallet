@@ -1,1 +1,1 @@
-var mnemonic = "purse base process vehicle bacon flame domain coyote swift announce modify fitness";
+var mnemonic = "circle worth napkin zoo fan birth breeze control weekend chunk bag story";

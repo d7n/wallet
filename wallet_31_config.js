@@ -1,1 +1,1 @@
-var mnemonic = "culture shallow ordinary remove fabric affair lamp fox ginger help soon crazy";
+var mnemonic = "like cook long link fabric door radar swap garbage trash knife cube";

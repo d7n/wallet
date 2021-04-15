@@ -1,1 +1,1 @@
-var mnemonic = "prevent save quarter hub reopen sketch actual manual nose when more spray";
+var mnemonic = "cloud just appear crash tornado crane slot repair settle fruit inquiry claw";

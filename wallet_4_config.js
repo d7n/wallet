@@ -1,1 +1,1 @@
-var mnemonic = "traffic clerk choose soup admit rack faculty palace ordinary alien barely gossip";
+var mnemonic = "utility salon toss hazard wagon matrix unveil scale brief seat electric crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "van always grid spring square roof wrap spy abstract praise scrap shed";
+var mnemonic = "very kick labor wear obtain feed defy season one bench second chair";

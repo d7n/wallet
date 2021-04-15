@@ -1,1 +1,1 @@
-var mnemonic = "hawk soda lab street train trip trip learn habit try grit flower";
+var mnemonic = "average surprise index broom case pioneer wrist beyond faculty skate rib wisdom";

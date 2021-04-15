@@ -1,1 +1,1 @@
-var mnemonic = "bind identify frog marine vicious salt film give foam junior renew fitness";
+var mnemonic = "ride drastic nurse elder chase crazy crazy sail very decrease satisfy forget";

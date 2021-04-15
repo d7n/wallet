@@ -1,1 +1,1 @@
-var mnemonic = "century impact never follow system radar dizzy leg alert build puzzle tiny";
+var mnemonic = "when bulk you riot lunch wreck fantasy dose swim rose abuse toast";

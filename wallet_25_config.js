@@ -1,1 +1,1 @@
-var mnemonic = "any tooth ride grunt cluster install tent proof grief eight tube cost";
+var mnemonic = "trigger cake ability horror unlock legal boil cart business length idea sausage";

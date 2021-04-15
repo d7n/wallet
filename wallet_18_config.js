@@ -1,1 +1,1 @@
-var mnemonic = "treat reward elephant hammer online shaft control shop wasp tape broom tide";
+var mnemonic = "control insane grit frost flush chicken cream entry own depend hour viable";

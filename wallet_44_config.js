@@ -1,1 +1,1 @@
-var mnemonic = "boat goose chat coffee bicycle erode float subject town foster order night";
+var mnemonic = "feel check enjoy vendor ethics undo diagram open plate key stock betray";

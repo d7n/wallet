@@ -1,1 +1,1 @@
-var mnemonic = "tide case debris census reflect limb future battle dumb promote execute approve";
+var mnemonic = "submit dial armed notable offer ugly vanish keep clap various bean mind";

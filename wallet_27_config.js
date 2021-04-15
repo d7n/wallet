@@ -1,1 +1,1 @@
-var mnemonic = "sample record spare caught adult muffin online wall oven useful spike inherit";
+var mnemonic = "hybrid media keen help margin patch antique pull write family reform gym";

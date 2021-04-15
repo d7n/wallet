@@ -1,1 +1,1 @@
-var mnemonic = "side buddy arm boat cousin pretty club thank square clump side fatigue";
+var mnemonic = "chief minor member health divert dirt moon sword syrup shadow seminar ghost";

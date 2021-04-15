@@ -1,1 +1,1 @@
-var mnemonic = "meadow idea click insane swear caution donate provide sphere enact brain melt";
+var mnemonic = "share layer crime river warm danger primary excite magic repeat prepare tunnel";

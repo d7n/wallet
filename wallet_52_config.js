@@ -1,1 +1,1 @@
-var mnemonic = "antenna auto soccer corn lift injury north sniff awkward spare abandon cotton";
+var mnemonic = "pride tip present prosper blood empty category donkey table solution physical spring";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose glory tonight turn drive dwarf expose cherry clay luxury used crucial";
+var mnemonic = "olive caught ostrich pride field narrow wedding large void inner caution march";

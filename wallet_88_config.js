@@ -1,1 +1,1 @@
-var mnemonic = "quote arrest lawn seminar fuel clarify pelican scout protect police august mule";
+var mnemonic = "target pupil birth math popular offer subject surge barrel range sound autumn";

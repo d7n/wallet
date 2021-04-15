@@ -1,1 +1,1 @@
-var mnemonic = "gauge list mutual grape gesture buffalo powder remember height spin apology error";
+var mnemonic = "senior lyrics erosion wild puppy lady anchor meat hurry remember eternal off";

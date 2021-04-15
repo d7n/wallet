@@ -1,1 +1,1 @@
-var mnemonic = "rapid smooth island rent initial interest cupboard original biology shock wet resource";
+var mnemonic = "diet key demand birth unaware resist kind clarify arrange suggest laptop critic";

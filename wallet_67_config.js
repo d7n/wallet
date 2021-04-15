@@ -1,1 +1,1 @@
-var mnemonic = "valley peasant carpet invest dash castle prevent fitness office random dizzy forest";
+var mnemonic = "shuffle ridge glimpse jaguar anger return pride festival parrot sibling crack gravity";

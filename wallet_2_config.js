@@ -1,1 +1,1 @@
-var mnemonic = "leave hammer skirt system chuckle hint easy prison resource endless behave service";
+var mnemonic = "list involve window buffalo section announce current wagon razor neither arrow abandon";

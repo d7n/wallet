@@ -1,1 +1,1 @@
-var mnemonic = "festival inspire man mail control waste liquid bridge taxi this bleak garment";
+var mnemonic = "trap pair cause object lazy image power viable call invest earn rug";

@@ -1,1 +1,1 @@
-var mnemonic = "custom guard thunder north shaft black human inside aisle fire panel series";
+var mnemonic = "apart athlete rice never mix copper hire fish alpha network tragic gym";

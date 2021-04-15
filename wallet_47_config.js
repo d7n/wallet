@@ -1,1 +1,1 @@
-var mnemonic = "awesome juice front pattern famous indicate square force offer planet camera rude";
+var mnemonic = "custom kiss still tree lens annual emotion mention captain stick interest tube";

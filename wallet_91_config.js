@@ -1,1 +1,1 @@
-var mnemonic = "number tray obvious simple inherit scorpion scan permit tortoise amateur wait lunch";
+var mnemonic = "traffic scorpion stadium speed saddle music eyebrow chaos hidden belt acid elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "bench input picture floor lawsuit good barely mystery puzzle blossom gaze scout";
+var mnemonic = "conduct pass parade sniff weapon trend tree chat sock dune tent range";

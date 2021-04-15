@@ -1,1 +1,1 @@
-var mnemonic = "crawl nest prefer fork hello inform lonely elder priority public tiger million";
+var mnemonic = "lyrics letter pottery curious luggage long panic youth speed legend tent tilt";

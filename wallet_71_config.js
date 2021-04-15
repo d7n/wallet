@@ -1,1 +1,1 @@
-var mnemonic = "knife scene arena train avocado sick corn journey ghost busy order bean";
+var mnemonic = "father drive caught trigger exist maze accuse neglect swim fat east cake";

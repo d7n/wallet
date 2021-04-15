@@ -1,1 +1,1 @@
-var mnemonic = "deposit crucial sauce erode miss artefact knife nephew brick rail amazing near";
+var mnemonic = "topic cheese observe forum metal decline evidence nut foot knife that online";

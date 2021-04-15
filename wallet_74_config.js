@@ -1,1 +1,1 @@
-var mnemonic = "pudding setup wool pause deliver clutch prize have ski doctor kiwi ribbon";
+var mnemonic = "own guide foil stand orange execute pear wage lesson deposit fetch off";

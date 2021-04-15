@@ -1,1 +1,1 @@
-var mnemonic = "below wise bring pelican keen atom pattern feature taxi poverty orient fragile";
+var mnemonic = "common success negative believe safe quote acid moment rhythm artwork smooth upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "travel rail prefer side photo fade story ghost people describe grit voyage";
+var mnemonic = "damp patrol arm slow blame size gas cube leisure cherry feature ring";

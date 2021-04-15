@@ -1,1 +1,1 @@
-var mnemonic = "torch broccoli twice column mask seven universe fiber flat inspire small start";
+var mnemonic = "hurry improve attract giraffe crash smooth call bullet beef finger shrug rapid";

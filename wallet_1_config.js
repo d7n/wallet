@@ -1,1 +1,1 @@
-var mnemonic = "pepper manage twenty cousin gesture element pigeon saddle glove modify enrich maze";
+var mnemonic = "obvious entire almost glass split inform raise panel wine ethics ahead enrich";

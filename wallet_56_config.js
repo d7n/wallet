@@ -1,1 +1,1 @@
-var mnemonic = "wedding aspect nut yellow sight exclude what settle zoo front blast gas";
+var mnemonic = "disorder biology tone tip melt theory bitter stool boss hill friend chest";

@@ -1,1 +1,1 @@
-var mnemonic = "act pipe ugly across transfer diary execute nuclear want funny tourist tell";
+var mnemonic = "help door impact cereal strong rapid time bracket price seminar orbit judge";

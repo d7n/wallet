@@ -1,1 +1,1 @@
-var mnemonic = "announce enjoy friend harsh gown height half bid critic breeze balcony achieve";
+var mnemonic = "opinion device jump music portion stool initial sing wide swear forget warrior";

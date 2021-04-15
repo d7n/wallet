@@ -1,1 +1,1 @@
-var mnemonic = "fatal unique shell sugar eternal dawn chapter capital spend bundle gym bitter";
+var mnemonic = "woman wire announce melt island unique antique seat equal hero nurse october";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant effort want cook version bounce across spawn hybrid check swap clump";
+var mnemonic = "power cake weather parrot shoulder short cool bundle matrix portion equal piece";
