@@ -1,1 +1,1 @@
-var mnemonic = "indicate title unit blood jaguar when lab quarter lottery useful speed achieve";
+var mnemonic = "include small neglect convince snap load poem season trend embody visa tooth";

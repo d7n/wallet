@@ -1,1 +1,1 @@
-var mnemonic = "carry ready reunion kite motor cupboard avoid project bone trumpet latin upgrade";
+var mnemonic = "announce enjoy friend harsh gown height half bid critic breeze balcony achieve";

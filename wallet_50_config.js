@@ -1,1 +1,1 @@
-var mnemonic = "acquire sell science clap topple tomorrow crouch exclude narrow invite fossil language";
+var mnemonic = "issue confirm ring icon labor enrich easily wall human produce ginger bread";

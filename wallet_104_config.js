@@ -1,1 +1,1 @@
-var mnemonic = "wreck together foot cabin talk switch father couple consider inside great unique";
+var mnemonic = "cousin drill message struggle noble broom siege own educate address gather bicycle";

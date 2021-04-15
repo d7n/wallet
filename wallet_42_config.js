@@ -1,1 +1,1 @@
-var mnemonic = "smart addict option confirm image subject milk comfort jelly muffin leg rude";
+var mnemonic = "torch broccoli twice column mask seven universe fiber flat inspire small start";

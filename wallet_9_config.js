@@ -1,1 +1,1 @@
-var mnemonic = "real ridge flight culture victory twist reform shrimp matrix property engine town";
+var mnemonic = "submit fault future dinosaur coconut term retreat zoo abandon demand panda repair";

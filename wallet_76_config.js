@@ -1,1 +1,1 @@
-var mnemonic = "upon bottom knock unfair choice horror access monkey pottery matrix anger point";
+var mnemonic = "wrestle brain owner amount glove this pitch glide island cube ball rate";

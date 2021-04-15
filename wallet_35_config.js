@@ -1,1 +1,1 @@
-var mnemonic = "ostrich service forest train omit valley force merit quit update version express";
+var mnemonic = "review globe word cook tissue twice fat start van twelve trim unlock";

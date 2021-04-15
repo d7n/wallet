@@ -1,1 +1,1 @@
-var mnemonic = "glimpse parade beach pull detect stock come dash obtain rude actor basket";
+var mnemonic = "awkward together amount kiwi pass turtle slot vital enlist boss senior name";

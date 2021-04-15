@@ -1,1 +1,1 @@
-var mnemonic = "sustain insane shield prison now tornado write produce around depth tomorrow prefer";
+var mnemonic = "prevent save quarter hub reopen sketch actual manual nose when more spray";

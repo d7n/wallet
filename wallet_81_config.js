@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow destroy swing round used include traffic crime figure remind potato nerve";
+var mnemonic = "sugar educate mutual park drama bronze method quality exercise glad cloth book";

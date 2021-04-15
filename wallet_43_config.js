@@ -1,1 +1,1 @@
-var mnemonic = "imitate shop hundred orient vessel normal swamp inmate melody dress pear faith";
+var mnemonic = "pole toilet display reunion chef special whip meat powder swim snap service";

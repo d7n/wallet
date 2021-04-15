@@ -1,1 +1,1 @@
-var mnemonic = "exact electric snap label connect already dignity render apart entry shift lawn";
+var mnemonic = "profit legal border false length blouse verify argue provide crystal weekend regular";

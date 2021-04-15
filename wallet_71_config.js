@@ -1,1 +1,1 @@
-var mnemonic = "raccoon pepper worth boost kidney enemy green rocket attack inflict sauce nothing";
+var mnemonic = "knife scene arena train avocado sick corn journey ghost busy order bean";

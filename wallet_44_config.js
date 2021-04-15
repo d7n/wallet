@@ -1,1 +1,1 @@
-var mnemonic = "struggle giraffe course govern alley plastic ankle logic know carbon merit meadow";
+var mnemonic = "boat goose chat coffee bicycle erode float subject town foster order night";

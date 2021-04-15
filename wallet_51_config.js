@@ -1,1 +1,1 @@
-var mnemonic = "alcohol suspect dune machine female path staff cost infant flat stomach cancel";
+var mnemonic = "bench input picture floor lawsuit good barely mystery puzzle blossom gaze scout";

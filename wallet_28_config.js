@@ -1,1 +1,1 @@
-var mnemonic = "sport toward pumpkin erode cry usage stock sell pledge dress remain situate";
+var mnemonic = "sibling hazard vessel want private cattle blur thunder exit job inhale wheel";

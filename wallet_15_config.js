@@ -1,1 +1,1 @@
-var mnemonic = "scrap resemble inside spray devote real wild live public ivory more initial";
+var mnemonic = "purpose glory tonight turn drive dwarf expose cherry clay luxury used crucial";

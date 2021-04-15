@@ -1,1 +1,1 @@
-var mnemonic = "night found twist loop october start ticket danger toss expose frame fit";
+var mnemonic = "travel rail prefer side photo fade story ghost people describe grit voyage";

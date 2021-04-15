@@ -1,1 +1,1 @@
-var mnemonic = "adapt tumble coconut supply mule business limb soccer easily ivory very deer";
+var mnemonic = "culture shallow ordinary remove fabric affair lamp fox ginger help soon crazy";

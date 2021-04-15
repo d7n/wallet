@@ -1,1 +1,1 @@
-var mnemonic = "scene law zone fault camera rabbit strike twelve fragile family female squeeze";
+var mnemonic = "leave hammer skirt system chuckle hint easy prison resource endless behave service";

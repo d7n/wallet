@@ -1,1 +1,1 @@
-var mnemonic = "raccoon wish upgrade cycle diet start draft inside minute stereo zero foot";
+var mnemonic = "number tray obvious simple inherit scorpion scan permit tortoise amateur wait lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "floor endless butter myself work metal comfort yellow school heavy setup sniff";
+var mnemonic = "phrase turn breeze notice solve pact rent grab relief leisure taste fine";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble ship language frozen sketch payment humor gate burst transfer blind volcano";
+var mnemonic = "scatter protect upset yellow sing maze visit toy pigeon engage twenty long";

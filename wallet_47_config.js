@@ -1,1 +1,1 @@
-var mnemonic = "fork advice wall resist acoustic drift gadget quick express book effort same";
+var mnemonic = "awesome juice front pattern famous indicate square force offer planet camera rude";

@@ -1,1 +1,1 @@
-var mnemonic = "south have shy rough ticket exist path fade increase monkey awake section";
+var mnemonic = "tortoise service guide fluid goat script elephant donor wood goose glad crime";

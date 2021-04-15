@@ -1,1 +1,1 @@
-var mnemonic = "atom true usage card apology torch solve moon despair bounce require outer";
+var mnemonic = "math term skin leader miracle rib bulb lawsuit select garden phone avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "all coconut ancient minute verb oil boss cash clump rigid sound crowd";
+var mnemonic = "orbit electric best town ship dumb butter later soccer arrow frog below";

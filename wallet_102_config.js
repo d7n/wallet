@@ -1,1 +1,1 @@
-var mnemonic = "mango elder thunder trim wide penalty various bacon pole receive drop laundry";
+var mnemonic = "rapid smooth island rent initial interest cupboard original biology shock wet resource";

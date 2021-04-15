@@ -1,1 +1,1 @@
-var mnemonic = "satisfy best muscle hunt version never radio finish cute impact target filter";
+var mnemonic = "human captain tomorrow sure kiss health sight elbow input student make list";

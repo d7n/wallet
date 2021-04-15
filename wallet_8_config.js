@@ -1,1 +1,1 @@
-var mnemonic = "leaf lounge aisle right coyote spider verb sting text hamster hour liberty";
+var mnemonic = "blouse jacket tennis whisper life best crucial teach sudden hero inform daring";

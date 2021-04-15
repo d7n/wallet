@@ -1,1 +1,1 @@
-var mnemonic = "height hover radio festival scissors trumpet history dress room potato round buffalo";
+var mnemonic = "treat reward elephant hammer online shaft control shop wasp tape broom tide";

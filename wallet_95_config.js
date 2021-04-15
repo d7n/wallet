@@ -1,1 +1,1 @@
-var mnemonic = "midnight opinion pig cricket intact change include siege sunny ridge boy frown";
+var mnemonic = "gap absent clock into decide nut make grass pony metal luxury wrap";

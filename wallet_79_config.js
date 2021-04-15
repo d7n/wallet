@@ -1,1 +1,1 @@
-var mnemonic = "hole novel plate improve sound bid broccoli federal enter radar helmet artist";
+var mnemonic = "second decide radio know write park sponsor rival tooth enact couch shrimp";

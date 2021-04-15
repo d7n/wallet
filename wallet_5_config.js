@@ -1,1 +1,1 @@
-var mnemonic = "can layer document adapt knock sword fee raven inch puzzle slender mean";
+var mnemonic = "magnet shed knee innocent again night hazard powder liquid fossil advice job";

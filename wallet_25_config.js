@@ -1,1 +1,1 @@
-var mnemonic = "riot company apology illegal monitor acid poem provide alien reflect solution wreck";
+var mnemonic = "any tooth ride grunt cluster install tent proof grief eight tube cost";

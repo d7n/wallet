@@ -1,1 +1,1 @@
-var mnemonic = "welcome field plate canal amateur wing wear laptop calm web basic lumber";
+var mnemonic = "fatal unique shell sugar eternal dawn chapter capital spend bundle gym bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "remind rent extra extra spoon file desk genuine that brother universe proof";
+var mnemonic = "sing sniff spoon ramp lab asthma raise sight divide phrase sadness grape";

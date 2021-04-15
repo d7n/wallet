@@ -1,1 +1,1 @@
-var mnemonic = "lonely scatter original account cricket scan outer pave nuclear tell wet scatter";
+var mnemonic = "meadow idea click insane swear caution donate provide sphere enact brain melt";

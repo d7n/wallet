@@ -1,1 +1,1 @@
-var mnemonic = "tired again dynamic chest abuse bag roof bench base junk battle risk";
+var mnemonic = "brown pact rib space require phone truck beef vague blanket patient satisfy";

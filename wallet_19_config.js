@@ -1,1 +1,1 @@
-var mnemonic = "catch fancy caution useless trouble ceiling name rebuild noise blanket gate stem";
+var mnemonic = "nuclear fury velvet coach curious delay idle process excess size leg drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "motor excite one trial pelican recipe advice train absurd cool grab letter";
+var mnemonic = "purse base process vehicle bacon flame domain coyote swift announce modify fitness";

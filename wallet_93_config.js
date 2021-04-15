@@ -1,1 +1,1 @@
-var mnemonic = "style grit turkey apology there what elegant increase music town convince oval";
+var mnemonic = "moment dial move forward color oil novel viable chaos forum slam wrestle";

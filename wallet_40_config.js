@@ -1,1 +1,1 @@
-var mnemonic = "capable tank grass system clinic pause sister grain anger panic throw expose";
+var mnemonic = "top movie brain pioneer carry faith grief intact cereal episode later magic";

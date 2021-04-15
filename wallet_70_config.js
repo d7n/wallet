@@ -1,1 +1,1 @@
-var mnemonic = "erode tumble right exotic lumber shallow brisk post half mass teach romance";
+var mnemonic = "act pipe ugly across transfer diary execute nuclear want funny tourist tell";

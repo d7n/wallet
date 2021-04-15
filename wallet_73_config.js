@@ -1,1 +1,1 @@
-var mnemonic = "gather album clinic enter little force vessel depend private process cake math";
+var mnemonic = "consider noble gun unusual improve muscle lamp net antenna imitate neck health";

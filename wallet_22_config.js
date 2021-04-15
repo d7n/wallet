@@ -1,1 +1,1 @@
-var mnemonic = "almost nice viable garden swear earth torch way notice donkey excuse can";
+var mnemonic = "fault green soon salt swamp segment either wasp roof social tone annual";

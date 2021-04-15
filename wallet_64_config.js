@@ -1,1 +1,1 @@
-var mnemonic = "want actual million brown maze believe spring oyster nasty hobby concert enter";
+var mnemonic = "execute oval decide margin chunk bonus clever radar cricket credit crane toward";

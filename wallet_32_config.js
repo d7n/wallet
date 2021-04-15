@@ -1,1 +1,1 @@
-var mnemonic = "mail noodle dragon glad bridge radio skin crop anger acid useless fall";
+var mnemonic = "side buddy arm boat cousin pretty club thank square clump side fatigue";

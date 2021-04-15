@@ -1,1 +1,1 @@
-var mnemonic = "master coyote hundred govern tool canoe pigeon property noise frame smooth boring";
+var mnemonic = "potato smart valid chief remain hand just trash success put sock rely";

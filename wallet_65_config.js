@@ -1,1 +1,1 @@
-var mnemonic = "rich snake ankle copy glide neutral rude blast issue actual memory sound";
+var mnemonic = "two receive boy time banner arm hero rich napkin slogan own garment";

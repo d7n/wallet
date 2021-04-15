@@ -1,1 +1,1 @@
-var mnemonic = "unknown scatter absorb choice pencil want domain woman bulk arrange any enhance";
+var mnemonic = "deposit crucial sauce erode miss artefact knife nephew brick rail amazing near";

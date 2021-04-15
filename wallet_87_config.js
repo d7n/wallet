@@ -1,1 +1,1 @@
-var mnemonic = "success regret office illegal enrich olive fruit arm manual used layer deal";
+var mnemonic = "sketch veteran model decide valley sauce identify vehicle found uncle satisfy mesh";

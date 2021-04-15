@@ -1,1 +1,1 @@
-var mnemonic = "walnut host tape elder swap street clock tooth view reform sound sponsor";
+var mnemonic = "catch liquid eyebrow legend kitchen visit edit dash zone dignity energy defense";

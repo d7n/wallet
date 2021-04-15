@@ -1,1 +1,1 @@
-var mnemonic = "boy office eager apple confirm flower portion will popular series picture enter";
+var mnemonic = "enable also cherry cheese trigger attack drama slam oil chef chalk flame";

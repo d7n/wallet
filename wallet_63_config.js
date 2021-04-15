@@ -1,1 +1,1 @@
-var mnemonic = "reopen napkin initial misery faith blouse wine decorate roof flee camera universe";
+var mnemonic = "clap lemon need napkin snow other slim steel response champion visual rack";

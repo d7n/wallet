@@ -1,1 +1,1 @@
-var mnemonic = "seed install fault satoshi script board amused fetch patrol post mutual candy";
+var mnemonic = "field sign float salt viable remain shuffle tackle bread expire unlock strike";

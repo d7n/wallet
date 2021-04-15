@@ -1,1 +1,1 @@
-var mnemonic = "brand squeeze rescue victory hint system carpet march dash truly injury spawn";
+var mnemonic = "sample record spare caught adult muffin online wall oven useful spike inherit";

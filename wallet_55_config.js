@@ -1,1 +1,1 @@
-var mnemonic = "pony pony garbage biology enough tilt pond invite warrior flag essence cigar";
+var mnemonic = "vibrant effort want cook version bounce across spawn hybrid check swap clump";

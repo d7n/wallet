@@ -1,1 +1,1 @@
-var mnemonic = "place arch animal cheese bring flat else media modify rigid virus lady";
+var mnemonic = "tide case debris census reflect limb future battle dumb promote execute approve";

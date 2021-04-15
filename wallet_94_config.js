@@ -1,1 +1,1 @@
-var mnemonic = "divert loud truly front multiply dash baby lock cupboard brief innocent domain";
+var mnemonic = "next walnut warrior monkey sight effort between math smooth mule supreme burst";

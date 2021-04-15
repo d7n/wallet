@@ -1,1 +1,1 @@
-var mnemonic = "fuel sun oil action ripple range jar uncle whale author traffic achieve";
+var mnemonic = "traffic clerk choose soup admit rack faculty palace ordinary alien barely gossip";

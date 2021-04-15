@@ -1,1 +1,1 @@
-var mnemonic = "nephew number common identify glove sample vanish adapt trumpet oak plastic dish";
+var mnemonic = "naive level clay erosion pact rose deputy bacon control marble adapt arm";

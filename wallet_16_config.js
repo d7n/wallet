@@ -1,1 +1,1 @@
-var mnemonic = "demand ankle drastic burger betray cabbage reduce venture parade puzzle robot raw";
+var mnemonic = "carry exercise bike spot transfer agent bus awesome doctor hint polar cousin";

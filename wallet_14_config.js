@@ -1,1 +1,1 @@
-var mnemonic = "water catch exercise swap antenna taste escape apology album easy divide lottery";
+var mnemonic = "short point border virtual general stem tip electric permit wash anxiety satoshi";

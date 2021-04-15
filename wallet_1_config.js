@@ -1,1 +1,1 @@
-var mnemonic = "access vast page bracket brave hobby violin vital cook wave half thought";
+var mnemonic = "pepper manage twenty cousin gesture element pigeon saddle glove modify enrich maze";

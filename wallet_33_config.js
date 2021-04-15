@@ -1,1 +1,1 @@
-var mnemonic = "crowd rice crew matrix clinic water flight federal yard erase invite crisp";
+var mnemonic = "brother year wet rule response define then clock slender draw alpha mushroom";

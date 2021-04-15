@@ -1,1 +1,1 @@
-var mnemonic = "have fancy village craft giant stove cube over pistol attitude nice account";
+var mnemonic = "august burger hen symptom lava unfold engine army major actual tattoo pizza";

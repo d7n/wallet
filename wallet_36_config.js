@@ -1,1 +1,1 @@
-var mnemonic = "stable symptom venue host shield jungle flag mobile awesome super receive wet";
+var mnemonic = "century impact never follow system radar dizzy leg alert build puzzle tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy text surge cube three silk auto plunge minimum quality clown divert";
+var mnemonic = "flush jelly drift rally wire valid palm address jacket castle foam medal";

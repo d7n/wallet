@@ -1,1 +1,1 @@
-var mnemonic = "supreme recycle advance clarify destroy velvet morning oak resource sample river blush";
+var mnemonic = "area idle trip duty old genre rapid chaos film slush hotel wheat";

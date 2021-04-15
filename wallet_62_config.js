@@ -1,1 +1,1 @@
-var mnemonic = "jazz tattoo grain liquid orbit soup car frozen aunt reject sheriff lend";
+var mnemonic = "gauge list mutual grape gesture buffalo powder remember height spin apology error";

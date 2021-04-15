@@ -1,1 +1,1 @@
-var mnemonic = "maple movie perfect bulk farm stem artist average bunker obscure diagram grass";
+var mnemonic = "hawk soda lab street train trip trip learn habit try grit flower";

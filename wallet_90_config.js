@@ -1,1 +1,1 @@
-var mnemonic = "bird lazy scrap album quantum message guess rival state busy undo occur";
+var mnemonic = "hidden fit tray lizard rhythm purity segment page deny afford cart panel";

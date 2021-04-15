@@ -1,1 +1,1 @@
-var mnemonic = "same visit rug simple nerve income beef argue hospital spring large style";
+var mnemonic = "afford exhaust door pipe forward slush fiscal ability punch axis focus legend";

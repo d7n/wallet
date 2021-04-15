@@ -1,1 +1,1 @@
-var mnemonic = "educate tank congress warfare decade engine online giraffe episode ignore west glare";
+var mnemonic = "antenna auto soccer corn lift injury north sniff awkward spare abandon cotton";

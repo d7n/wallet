@@ -1,1 +1,1 @@
-var mnemonic = "salon weapon alcohol fly tree amused eternal forget peanut twice virtual shock";
+var mnemonic = "avoid thought lab design meat upgrade twice honey reunion clog denial random";

@@ -1,1 +1,1 @@
-var mnemonic = "yard library crucial scissors endorse shoot check ignore bargain spray teach shock";
+var mnemonic = "blind keep butter wife toast kiss pool expose domain glory asset acoustic";

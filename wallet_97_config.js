@@ -1,1 +1,1 @@
-var mnemonic = "siren height trade favorite smile evolve mountain stage goddess team phone cube";
+var mnemonic = "coil wool catch ankle struggle outside clever pool pitch imitate loan hour";

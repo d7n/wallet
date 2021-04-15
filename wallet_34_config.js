@@ -1,1 +1,1 @@
-var mnemonic = "stomach cart power blood dirt guitar argue excite elite dance victory push";
+var mnemonic = "dolphin enroll mule grace winter midnight code spawn describe husband tumble tired";

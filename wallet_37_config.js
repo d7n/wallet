@@ -1,1 +1,1 @@
-var mnemonic = "rail aisle bomb fall draft rival brisk smile miracle find tilt search";
+var mnemonic = "crouch swarm cram candy produce entire favorite wing stereo timber case open";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory olive unfold hen fat cover gravity pave math border chef warfare";
+var mnemonic = "increase couch chat romance alter popular axis tuna razor bright argue suffer";

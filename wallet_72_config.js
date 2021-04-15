@@ -1,1 +1,1 @@
-var mnemonic = "finger pink fantasy again flush hero wood tomorrow advice like humor awkward";
+var mnemonic = "margin season concert hen carpet outside early utility afraid exist very panic";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop bring elevator bomb coffee top endless army return october segment lawn";
+var mnemonic = "crawl nest prefer fork hello inform lonely elder priority public tiger million";

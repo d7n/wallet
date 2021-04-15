@@ -1,1 +1,1 @@
-var mnemonic = "borrow monkey friend film master music there scout side hawk tired club";
+var mnemonic = "below wise bring pelican keen atom pattern feature taxi poverty orient fragile";
