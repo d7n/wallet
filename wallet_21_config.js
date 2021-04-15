@@ -1,1 +1,1 @@
-var mnemonic = "noodle slow slight vibrant second piece stay address motion again into van";
+var mnemonic = "midnight guitar drop crumble swift retreat recall kidney absent cause curve patient";

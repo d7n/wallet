@@ -1,1 +1,1 @@
-var mnemonic = "sentence weapon extend stamp team suggest victory shoe february curtain chaos oak";
+var mnemonic = "girl valid write rule state spare draft rookie example cushion soda loyal";

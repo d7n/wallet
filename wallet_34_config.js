@@ -1,1 +1,1 @@
-var mnemonic = "idea soda adapt clap dilemma stem vintage dial dinner spirit staff noise";
+var mnemonic = "onion canal fiscal neglect boost welcome rate flat easily have radar flame";

@@ -1,1 +1,1 @@
-var mnemonic = "cute satoshi strike oil liar brown modify test jazz eternal extend dash";
+var mnemonic = "defy adult bind avocado vehicle street casual hold mutual viable law move";

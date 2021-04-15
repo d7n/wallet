@@ -1,1 +1,1 @@
-var mnemonic = "pizza glimpse cost element cactus arrow idle gasp congress trash toy thumb";
+var mnemonic = "joy excess survey nurse hammer brisk educate detail deliver trumpet hood horse";

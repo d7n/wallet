@@ -1,1 +1,1 @@
-var mnemonic = "wage pilot melt desert discover pair series render still quiz walk light";
+var mnemonic = "brief oxygen latin eyebrow hundred measure rack mother comfort broccoli enact never";

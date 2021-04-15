@@ -1,1 +1,1 @@
-var mnemonic = "build glad fan before shed coyote one snake this bamboo corn pill";
+var mnemonic = "sight flip east word throw whisper pet term unfold unfold win member";

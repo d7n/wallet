@@ -1,1 +1,1 @@
-var mnemonic = "cute rotate hat ask hire obey peasant winter security possible curious vintage";
+var mnemonic = "three fiction mountain fiction develop museum toilet wreck dizzy almost focus stable";

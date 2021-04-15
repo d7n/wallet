@@ -1,1 +1,1 @@
-var mnemonic = "roof demand purchase mutual cream autumn wagon victory pill labor gas rebel";
+var mnemonic = "common yard else noble witness dismiss talk divorce before expand treat gadget";

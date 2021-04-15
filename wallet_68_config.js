@@ -1,1 +1,1 @@
-var mnemonic = "little sail aware guitar year scare circle margin used erupt oven differ";
+var mnemonic = "endless jeans fox avoid gown coast inhale verb answer wolf zoo tumble";

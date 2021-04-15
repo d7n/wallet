@@ -1,1 +1,1 @@
-var mnemonic = "you describe aunt marriage help stage open vivid street insane clap april";
+var mnemonic = "abstract chalk large shoe ethics script write copper bench release render seat";

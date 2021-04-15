@@ -1,1 +1,1 @@
-var mnemonic = "general razor scout confirm dragon govern satisfy claw video salute position cluster";
+var mnemonic = "olive virtual forget cattle tower polar myth tourist boring medal jump motion";

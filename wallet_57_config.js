@@ -1,1 +1,1 @@
-var mnemonic = "wait first turkey achieve stadium canyon lunch fork tongue lazy buffalo seminar";
+var mnemonic = "polar foot toast wonder dust hamster slush unit old feed retreat cave";

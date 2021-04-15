@@ -1,1 +1,1 @@
-var mnemonic = "grid fee angle region stable bronze half honey type spoil change velvet";
+var mnemonic = "sketch boring monkey supply breeze genre amateur scout doctor initial mushroom equal";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic rebuild seed breeze sting dynamic tuition height shed insane dutch recycle";
+var mnemonic = "test logic cram mule candy guard true quarter rotate diesel bubble stock";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract sleep dance fatigue page auction soda better six empower honey innocent";
+var mnemonic = "noble boring disease employ glance eagle baby lawsuit marble rely happy prefer";

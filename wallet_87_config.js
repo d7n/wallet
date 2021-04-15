@@ -1,1 +1,1 @@
-var mnemonic = "express obvious urban lemon decide nothing celery verb syrup dragon earth frequent";
+var mnemonic = "silk few team engage glue kick fringe hub pull awkward rural job";

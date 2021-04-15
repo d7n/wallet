@@ -1,1 +1,1 @@
-var mnemonic = "juice street exercise pupil movie clap clump genre stuff foil guide noise";
+var mnemonic = "nose monkey repair sample pigeon kid enter develop side switch crunch easy";

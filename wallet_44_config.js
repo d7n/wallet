@@ -1,1 +1,1 @@
-var mnemonic = "depart install few glass mansion toast tuna misery mesh three good dinosaur";
+var mnemonic = "off market defy recipe page begin because lemon cart venture program bone";

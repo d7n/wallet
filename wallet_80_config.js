@@ -1,1 +1,1 @@
-var mnemonic = "ozone since task work garage gas sense donate field run glimpse lion";
+var mnemonic = "mystery identify life absurd heart banana reveal gasp already just audit frame";

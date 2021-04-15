@@ -1,1 +1,1 @@
-var mnemonic = "churn category build grant various another width swift decide office earth lumber";
+var mnemonic = "piano broken enlist cage maid twice tent boost live trick minimum stuff";

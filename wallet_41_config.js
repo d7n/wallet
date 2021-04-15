@@ -1,1 +1,1 @@
-var mnemonic = "lake spread equal lunch surface inform action test second hollow advance gold";
+var mnemonic = "click just leader surge rhythm visit pulse fee morning celery tilt vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "clay blue half apology weird easy jealous pen hen lawn emerge yellow";
+var mnemonic = "crane embody focus clerk danger dove layer tumble length grid fruit blur";

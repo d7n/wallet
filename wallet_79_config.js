@@ -1,1 +1,1 @@
-var mnemonic = "jungle name animal also chuckle oblige east rigid canal marriage remain candy";
+var mnemonic = "catalog faculty skull fatigue monitor offer expire large rice vehicle oyster achieve";

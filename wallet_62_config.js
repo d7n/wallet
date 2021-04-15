@@ -1,1 +1,1 @@
-var mnemonic = "tower cabin board that prize abuse tuition learn repair matrix guitar expect";
+var mnemonic = "upon bread rude sphere amateur hundred rebuild clerk arrange pill shiver replace";

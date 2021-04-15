@@ -1,1 +1,1 @@
-var mnemonic = "wrong plastic lottery duck manual solar trash decline breeze hover glue mouse";
+var mnemonic = "bright purchase lock faith pause stage assume drive glance element keep replace";

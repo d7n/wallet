@@ -1,1 +1,1 @@
-var mnemonic = "pet scale unable deny trust goat usual second connect cluster expire asthma";
+var mnemonic = "volcano quote element retreat use race leg giant pair start laptop camera";

@@ -1,1 +1,1 @@
-var mnemonic = "stove gold wire seek pledge wild riot merry horn quantum flush solution";
+var mnemonic = "flight wine wagon spatial family beach liquid inflict pull hobby day slot";

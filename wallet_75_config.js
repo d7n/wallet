@@ -1,1 +1,1 @@
-var mnemonic = "double onion slot remain abstract walnut drip salmon perfect father credit olive";
+var mnemonic = "yellow recipe remind minor autumn color multiply gain tornado observe valley own";

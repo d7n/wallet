@@ -1,1 +1,1 @@
-var mnemonic = "found useless sting want shallow hood hockey bubble permit seek way coconut";
+var mnemonic = "supply faculty short garage scale what seed crash learn road motion reunion";

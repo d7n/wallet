@@ -1,1 +1,1 @@
-var mnemonic = "owner omit gold reject suit lift salmon someone mouse process nominee ramp";
+var mnemonic = "sentence effort vivid picture supply country pattern estate panic hedgehog rebuild true";

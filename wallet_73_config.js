@@ -1,1 +1,1 @@
-var mnemonic = "cloth kind glue dirt deal state maximum level coast face trigger noble";
+var mnemonic = "parrot worry task year letter oval whisper asthma pony trip torch super";

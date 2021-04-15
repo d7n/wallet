@@ -1,1 +1,1 @@
-var mnemonic = "put emerge miracle flower ignore taste pepper junior possible snap cream rare";
+var mnemonic = "uphold depart drastic eagle opera cloud legend echo concert ranch pigeon firm";

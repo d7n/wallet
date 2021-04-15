@@ -1,1 +1,1 @@
-var mnemonic = "join crouch zero dynamic hammer merry strategy author coach entire search all";
+var mnemonic = "fox video enable spike seminar hard peace biology switch airport ecology vault";

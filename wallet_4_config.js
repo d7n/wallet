@@ -1,1 +1,1 @@
-var mnemonic = "arrive neither curve vanish sport embark boring manage dragon master possible next";
+var mnemonic = "spread sick federal dial planet prosper mandate bracket organ lucky snow buddy";

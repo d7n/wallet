@@ -1,1 +1,1 @@
-var mnemonic = "earth drip salute accuse away skirt vintage fortune slide dune neck arrest";
+var mnemonic = "album news ceiling lunch baby help tide match clutch liar raw ramp";

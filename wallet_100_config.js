@@ -1,1 +1,1 @@
-var mnemonic = "anchor rice six guilt equip smoke laptop rocket child differ output split";
+var mnemonic = "action consider vote core saddle ordinary never early flat mom pair swarm";

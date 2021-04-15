@@ -1,1 +1,1 @@
-var mnemonic = "foster father include foam fuel arrest thank neither brave verify there feature";
+var mnemonic = "discover nephew bottom start surround few inform hundred time laugh wisdom light";

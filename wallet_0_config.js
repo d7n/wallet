@@ -1,1 +1,1 @@
-var mnemonic = "pledge amused across tiger then subway income alarm left add throw crash";
+var mnemonic = "space three smoke patrol inquiry paper winter embrace cost sample tornado chronic";

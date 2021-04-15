@@ -1,1 +1,1 @@
-var mnemonic = "inmate alarm soda license popular hard crane wet viable outdoor actress chat";
+var mnemonic = "credit away night comfort inside endless promote ice horse misery learn festival";

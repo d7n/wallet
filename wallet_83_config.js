@@ -1,1 +1,1 @@
-var mnemonic = "recipe lucky layer enhance heart wild cradle vicious hub dinner blouse sphere";
+var mnemonic = "opinion stadium check deliver minimum satoshi student shop student melt donkey vast";

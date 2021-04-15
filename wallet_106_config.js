@@ -1,1 +1,1 @@
-var mnemonic = "silver select ill like list retire gallery merge over belt mule room";
+var mnemonic = "toy blade race reduce lab clean spot icon connect author produce cart";

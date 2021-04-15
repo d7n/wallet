@@ -1,1 +1,1 @@
-var mnemonic = "erupt throw hen sorry jewel pluck online pumpkin atom useless recycle chicken";
+var mnemonic = "humble caught unhappy middle jeans already marine traffic sample stereo vicious jazz";

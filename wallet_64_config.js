@@ -1,1 +1,1 @@
-var mnemonic = "matrix silver balance bulk ladder enter prison begin employ what misery pipe";
+var mnemonic = "pyramid myth syrup attend sand lucky quarter orchard forward more calm employ";

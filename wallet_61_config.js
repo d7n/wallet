@@ -1,1 +1,1 @@
-var mnemonic = "steak once happy clarify welcome sausage grant spawn trap ask report program";
+var mnemonic = "aerobic olive labor cream seat flip wall bargain cook trap polar attitude";

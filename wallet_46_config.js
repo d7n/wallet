@@ -1,1 +1,1 @@
-var mnemonic = "ride cream own attract chimney west dash acid manual quote true effort";
+var mnemonic = "inner tent work hand acoustic hard latin chef brief practice stage crumble";

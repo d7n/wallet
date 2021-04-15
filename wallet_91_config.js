@@ -1,1 +1,1 @@
-var mnemonic = "unveil camera curious hawk able all dumb vessel equip angle vast special";
+var mnemonic = "grow treat tattoo trend mixed figure excess window copper soft exit ceiling";

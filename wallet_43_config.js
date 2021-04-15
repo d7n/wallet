@@ -1,1 +1,1 @@
-var mnemonic = "grit path bubble loud moment staff later night maze faith gift kid";
+var mnemonic = "chase clinic core minimum paper matrix bird visual wise shaft apart this";

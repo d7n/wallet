@@ -1,1 +1,1 @@
-var mnemonic = "talk they stadium tuition shock swim silk panic flame digital short ranch";
+var mnemonic = "sick carpet coin weapon address hair between extend rabbit torch jewel bread";

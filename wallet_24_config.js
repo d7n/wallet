@@ -1,1 +1,1 @@
-var mnemonic = "narrow surprise blouse coral feed eager sign year ticket wire floor remind";
+var mnemonic = "kiss sheriff cluster size tenant open code cable trend drum tourist govern";

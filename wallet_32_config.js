@@ -1,1 +1,1 @@
-var mnemonic = "catch rural pear hamster push laptop crush climb smooth march term champion";
+var mnemonic = "elbow tortoise aim reopen pupil kingdom exile arch spy bring thank achieve";

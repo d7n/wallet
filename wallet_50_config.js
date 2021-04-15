@@ -1,1 +1,1 @@
-var mnemonic = "later play forward erase half gift scare light oblige daughter cupboard merit";
+var mnemonic = "light again rebuild admit pitch wing slight steel tonight movie link window";

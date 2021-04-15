@@ -1,1 +1,1 @@
-var mnemonic = "mobile link timber birth relax tent exist lottery depth soup toast lounge";
+var mnemonic = "duty december they wood same cabbage upon donate kitchen artwork recycle theme";

@@ -1,1 +1,1 @@
-var mnemonic = "keen toddler dance reward toilet agent vivid panda hollow puppy garment figure";
+var mnemonic = "tenant deposit tourist document sock volume silent uncle parrot review deposit library";

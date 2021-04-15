@@ -1,1 +1,1 @@
-var mnemonic = "deliver battle insect twenty horror bone garbage fabric father orchard travel trap";
+var mnemonic = "dizzy among swift lonely output taste lawsuit fold word term glimpse chalk";

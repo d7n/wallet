@@ -1,1 +1,1 @@
-var mnemonic = "fresh assume reward multiply rabbit series annual patient weird dice guitar model";
+var mnemonic = "flight attract lamp duty symptom agent fatigue comfort mad dirt weasel text";

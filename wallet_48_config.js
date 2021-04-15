@@ -1,1 +1,1 @@
-var mnemonic = "celery virtual canyon comfort speak inmate opera athlete idle scan ensure shadow";
+var mnemonic = "inmate gift obvious mountain immense glass spread display shove exchange later ugly";

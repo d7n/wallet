@@ -1,1 +1,1 @@
-var mnemonic = "protect relief family morning industry grid cruel steel sort true supply mention";
+var mnemonic = "nice draft find aisle tone firm exchange ceiling supreme catch snow ten";

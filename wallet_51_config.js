@@ -1,1 +1,1 @@
-var mnemonic = "hover post shield impact aerobic trash night assume topple peanut grape during";
+var mnemonic = "crowd margin firm actress keep later father potato code nuclear beauty monkey";

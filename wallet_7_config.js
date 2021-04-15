@@ -1,1 +1,1 @@
-var mnemonic = "dizzy deposit corn peace shrug immense tunnel draft eye dilemma pulp universe";
+var mnemonic = "merit exit when alley cattle rhythm weapon detail decline amused arrange drop";

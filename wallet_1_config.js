@@ -1,1 +1,1 @@
-var mnemonic = "settle attitude message honey street odor east bring miss answer ball desert";
+var mnemonic = "silly vendor enrich slow machine wrestle edit tackle suffer argue tower success";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree drama fit trigger fee burden stable mixed aspect bonus wonder brass";
+var mnemonic = "hour throw risk jaguar unaware merit tuna zoo uniform ancient shoot material";

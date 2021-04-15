@@ -1,1 +1,1 @@
-var mnemonic = "crime pipe height ability mimic sail learn elegant brain wise clutch pepper";
+var mnemonic = "flat opinion onion toe rich train gravity stable session repeat sponsor fly";

@@ -1,1 +1,1 @@
-var mnemonic = "inform flush away letter fade shop spider eight purpose mail find fade";
+var mnemonic = "maze exact plate cycle cart buzz north spy loud upgrade certain coach";

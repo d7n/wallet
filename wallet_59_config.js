@@ -1,1 +1,1 @@
-var mnemonic = "mean mask left chunk anchor grace slam salmon blossom firm resemble project";
+var mnemonic = "legend ocean jeans leave dove menu thrive gas music fold main moment";

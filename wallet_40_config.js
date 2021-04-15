@@ -1,1 +1,1 @@
-var mnemonic = "machine front squirrel blur feature pretty board apart future maple kingdom brave";
+var mnemonic = "drama palace deny protect oil fire wave cabbage loan wheat mechanic gate";

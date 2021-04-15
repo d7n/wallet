@@ -1,1 +1,1 @@
-var mnemonic = "claim piece goat ketchup burger emotion can that debris attend gold toy";
+var mnemonic = "journey bless clip iron frown pink network ranch match royal wise vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "toast hole soul move shield about neglect faculty congress lawsuit seven ranch";
+var mnemonic = "glimpse kiss sadness flavor common drill retreat menu ripple hood iron champion";

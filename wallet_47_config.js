@@ -1,1 +1,1 @@
-var mnemonic = "illegal car provide chef maid bike broom way hood glide slot garden";
+var mnemonic = "ready that travel camp brave enemy tube comic balcony latin melt injury";

@@ -1,1 +1,1 @@
-var mnemonic = "response scout language reward oblige village tragic jewel birth century ivory river";
+var mnemonic = "endless palace trade silent fossil clay mad midnight fossil cave fine wave";

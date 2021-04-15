@@ -1,1 +1,1 @@
-var mnemonic = "blind boil river quarter license remove alarm what lyrics wire shy uphold";
+var mnemonic = "fancy champion nature inner gasp owner toss post mosquito pepper fit snake";

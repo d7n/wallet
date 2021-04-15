@@ -1,1 +1,1 @@
-var mnemonic = "drill three horror snack fancy observe ankle beef rough joke maple kiss";
+var mnemonic = "weird model era hand castle thunder hurt lazy foil easy blast smart";

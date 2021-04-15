@@ -1,1 +1,1 @@
-var mnemonic = "melt dignity fresh leave fabric hint sunny connect move sleep expect mutual";
+var mnemonic = "family spy crater cook supply cute payment else pelican midnight digital tube";

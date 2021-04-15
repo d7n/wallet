@@ -1,1 +1,1 @@
-var mnemonic = "angle bonus blame remove lyrics weird choose baby option neck giraffe obtain";
+var mnemonic = "rival when palace ivory fire frog web original rain patrol front answer";

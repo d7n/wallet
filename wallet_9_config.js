@@ -1,1 +1,1 @@
-var mnemonic = "arch pattern broken train jar essay copy border pottery silent pink silver";
+var mnemonic = "simple goddess turtle side earth ribbon lawsuit cigar city sword blade undo";

@@ -1,1 +1,1 @@
-var mnemonic = "broken sunny giraffe skate timber mimic delay receive announce rough crucial power";
+var mnemonic = "tooth pass fly seed diary trim dismiss enable pelican occur total deer";

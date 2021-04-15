@@ -1,1 +1,1 @@
-var mnemonic = "father feed lonely engine approve crisp faculty canal drift supreme crash accident";
+var mnemonic = "jacket wink canyon mystery core plate accident scrap demand drop interest snake";

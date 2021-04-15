@@ -1,1 +1,1 @@
-var mnemonic = "frown lawsuit wonder marine toy exhaust fragile must square cereal quality palm";
+var mnemonic = "return exile acquire pride toss love drive almost flat swear scale style";

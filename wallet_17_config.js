@@ -1,1 +1,1 @@
-var mnemonic = "unable despair dust then hospital danger smoke recall dwarf sphere congress access";
+var mnemonic = "tone fall arch winner local curve deliver paddle loyal borrow naive high";

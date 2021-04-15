@@ -1,1 +1,1 @@
-var mnemonic = "device crouch engine lunch sunny average damage senior best month chimney mansion";
+var mnemonic = "belt choose oxygen symbol about army lemon twelve city milk combine mango";

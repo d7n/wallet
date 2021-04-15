@@ -1,1 +1,1 @@
-var mnemonic = "crystal castle satisfy earn athlete filter reflect cream cigar powder fox moral";
+var mnemonic = "empower amount pony drill chef make bone fruit mad word awake card";

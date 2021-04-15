@@ -1,1 +1,1 @@
-var mnemonic = "erupt exile undo position cram gift fuel onion knock deputy ozone trust";
+var mnemonic = "swarm gasp toss thrive law ticket combine case depart pulp you tribe";

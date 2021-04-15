@@ -1,1 +1,1 @@
-var mnemonic = "penalty sail early choice like glimpse welcome pretty smile south present gather";
+var mnemonic = "fuel fine crew wood tape this already toilet hurt reject shift cheap";

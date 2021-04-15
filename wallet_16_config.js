@@ -1,1 +1,1 @@
-var mnemonic = "still occur local club ankle bitter define next fuel trumpet blossom believe";
+var mnemonic = "practice boil pudding injury lock journey duck stage execute include match print";

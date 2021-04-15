@@ -1,1 +1,1 @@
-var mnemonic = "increase frog race define cruel heavy volcano color rule elbow smile scan";
+var mnemonic = "weapon material afraid eye asthma weird found link include smile domain merge";

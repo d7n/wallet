@@ -1,1 +1,1 @@
-var mnemonic = "cabin silly usual actor junior pink ridge include amount once shadow kite";
+var mnemonic = "girl satoshi oblige innocent alien fog below cliff coach erode glide rice";

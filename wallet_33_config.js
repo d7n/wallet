@@ -1,1 +1,1 @@
-var mnemonic = "urban museum tackle logic detail clump appear spoil will school afraid park";
+var mnemonic = "oven rocket ocean cereal usual legal electric picnic glass train pyramid castle";

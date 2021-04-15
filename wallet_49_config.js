@@ -1,1 +1,1 @@
-var mnemonic = "category inquiry man test page street panel popular engage forest hold horse";
+var mnemonic = "gap tonight response range voyage flash lumber tilt sister outer oil click";

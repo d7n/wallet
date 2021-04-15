@@ -1,1 +1,1 @@
-var mnemonic = "coil park dress female axis upgrade coconut thrive gap weekend elephant order";
+var mnemonic = "gown coral reveal cloth find skill december sock truth cinnamon uniform goddess";

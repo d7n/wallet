@@ -1,1 +1,1 @@
-var mnemonic = "holiday grid garment ghost negative bus cook afraid abuse pilot return crowd";
+var mnemonic = "sing ostrich rescue motion hero install almost base eagle airport entry humor";

@@ -1,1 +1,1 @@
-var mnemonic = "color sibling net bus idle mix canoe access design jacket uncover chest";
+var mnemonic = "business legend coral dice pet label garlic recipe narrow happy october throw";
