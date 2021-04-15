@@ -1,1 +1,1 @@
-var mnemonic = "tenant deposit tourist document sock volume silent uncle parrot review deposit library";
+var mnemonic = "music torch mad hybrid faint diagram discover divide scheme amount enough used";

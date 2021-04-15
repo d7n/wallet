@@ -1,1 +1,1 @@
-var mnemonic = "humble caught unhappy middle jeans already marine traffic sample stereo vicious jazz";
+var mnemonic = "tragic burden finish give pigeon cruise drastic chicken mask increase purity flame";

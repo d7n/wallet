@@ -1,1 +1,1 @@
-var mnemonic = "girl valid write rule state spare draft rookie example cushion soda loyal";
+var mnemonic = "woman differ hub prevent security pave pet diagram balance great exile truck";

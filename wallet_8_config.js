@@ -1,1 +1,1 @@
-var mnemonic = "empower amount pony drill chef make bone fruit mad word awake card";
+var mnemonic = "pull advice column lava recall tornado always step drink agree jump march";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling dice resist increase moon rather real rigid style allow virtual myself";
+var mnemonic = "gorilla media hammer crisp hundred snake antenna road main lesson wear scare";

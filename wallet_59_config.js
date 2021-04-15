@@ -1,1 +1,1 @@
-var mnemonic = "legend ocean jeans leave dove menu thrive gas music fold main moment";
+var mnemonic = "join naive dutch change area chef garage bitter kingdom alter abuse draft";

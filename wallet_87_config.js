@@ -1,1 +1,1 @@
-var mnemonic = "silk few team engage glue kick fringe hub pull awkward rural job";
+var mnemonic = "basic orchard frame glow pause round sure bench trim differ cave reward";

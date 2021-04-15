@@ -1,1 +1,1 @@
-var mnemonic = "simple goddess turtle side earth ribbon lawsuit cigar city sword blade undo";
+var mnemonic = "taste canal human series cover review vocal picture exist gloom trumpet kiss";

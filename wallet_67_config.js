@@ -1,1 +1,1 @@
-var mnemonic = "olive virtual forget cattle tower polar myth tourist boring medal jump motion";
+var mnemonic = "crisp embody control eternal range wrap vault clay submit program shoulder fame";

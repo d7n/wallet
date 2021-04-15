@@ -1,1 +1,1 @@
-var mnemonic = "silly vendor enrich slow machine wrestle edit tackle suffer argue tower success";
+var mnemonic = "throw depth viable uphold swallow clog culture canyon robot shy dress artwork";

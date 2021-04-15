@@ -1,1 +1,1 @@
-var mnemonic = "fancy champion nature inner gasp owner toss post mosquito pepper fit snake";
+var mnemonic = "half giraffe jewel isolate neglect point say true effort detect table near";

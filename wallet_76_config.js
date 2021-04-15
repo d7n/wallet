@@ -1,1 +1,1 @@
-var mnemonic = "dizzy among swift lonely output taste lawsuit fold word term glimpse chalk";
+var mnemonic = "home obvious school occur process awesome simple finish ride horn usual afford";

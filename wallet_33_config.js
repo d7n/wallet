@@ -1,1 +1,1 @@
-var mnemonic = "oven rocket ocean cereal usual legal electric picnic glass train pyramid castle";
+var mnemonic = "begin search connect tell welcome flock during hidden frozen increase service steak";

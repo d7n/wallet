@@ -1,1 +1,1 @@
-var mnemonic = "rival when palace ivory fire frog web original rain patrol front answer";
+var mnemonic = "include relax bike flame runway vague timber thrive transfer twelve beyond nominee";

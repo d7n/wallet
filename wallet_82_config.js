@@ -1,1 +1,1 @@
-var mnemonic = "defy adult bind avocado vehicle street casual hold mutual viable law move";
+var mnemonic = "quiz exchange crew tag range arrange conduct slot edit hen model flag";

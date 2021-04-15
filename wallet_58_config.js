@@ -1,1 +1,1 @@
-var mnemonic = "robust nurse gun humble cargo define woman ladder eye rail toilet destroy";
+var mnemonic = "arm weird nice pelican rally brush furnace august stick village snap tent";

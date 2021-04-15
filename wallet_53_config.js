@@ -1,1 +1,1 @@
-var mnemonic = "family spy crater cook supply cute payment else pelican midnight digital tube";
+var mnemonic = "sting skill zero guess cruise protect earth rare cement alter fluid speak";

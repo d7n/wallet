@@ -1,1 +1,1 @@
-var mnemonic = "hour throw risk jaguar unaware merit tuna zoo uniform ancient shoot material";
+var mnemonic = "drip symptom else naive crazy vague stereo congress release simple park current";

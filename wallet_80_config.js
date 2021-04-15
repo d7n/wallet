@@ -1,1 +1,1 @@
-var mnemonic = "mystery identify life absurd heart banana reveal gasp already just audit frame";
+var mnemonic = "antenna bid stay enjoy entry flame snack west subject unfold mosquito vintage";

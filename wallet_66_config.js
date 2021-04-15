@@ -1,1 +1,1 @@
-var mnemonic = "flight wine wagon spatial family beach liquid inflict pull hobby day slot";
+var mnemonic = "obscure verb there episode win differ february polar buzz remind lesson cook";

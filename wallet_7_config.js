@@ -1,1 +1,1 @@
-var mnemonic = "merit exit when alley cattle rhythm weapon detail decline amused arrange drop";
+var mnemonic = "drum piece bright shine label smoke air wheat glue wire tissue rescue";

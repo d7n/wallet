@@ -1,1 +1,1 @@
-var mnemonic = "sunny sand broken save swift yard amused vital loyal stumble script above";
+var mnemonic = "worry appear judge cargo series famous census file ignore pupil easily crisp";

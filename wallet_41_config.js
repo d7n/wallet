@@ -1,1 +1,1 @@
-var mnemonic = "click just leader surge rhythm visit pulse fee morning celery tilt vendor";
+var mnemonic = "coin oppose loan blood future session display walnut actor target future insect";

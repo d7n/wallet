@@ -1,1 +1,1 @@
-var mnemonic = "flight attract lamp duty symptom agent fatigue comfort mad dirt weasel text";
+var mnemonic = "length calm soul ship dash thunder give vendor inherit meadow couch field";

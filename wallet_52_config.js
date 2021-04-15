@@ -1,1 +1,1 @@
-var mnemonic = "review slim color critic omit position faith lawn industry catalog giggle together";
+var mnemonic = "reunion glimpse current armed exit swift ahead tape hollow winter mistake replace";

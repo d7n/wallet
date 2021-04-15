@@ -1,1 +1,1 @@
-var mnemonic = "onion canal fiscal neglect boost welcome rate flat easily have radar flame";
+var mnemonic = "execute thrive embody stool theory crystal stuff raise loan bullet innocent knee";

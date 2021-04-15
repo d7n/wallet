@@ -1,1 +1,1 @@
-var mnemonic = "aerobic olive labor cream seat flip wall bargain cook trap polar attitude";
+var mnemonic = "opinion oxygen toilet cruise search arrow genius practice kingdom vintage over paper";

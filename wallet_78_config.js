@@ -1,1 +1,1 @@
-var mnemonic = "nose monkey repair sample pigeon kid enter develop side switch crunch easy";
+var mnemonic = "west fork cliff ticket observe figure alarm width pupil hood rib fault";

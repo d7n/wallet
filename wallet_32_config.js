@@ -1,1 +1,1 @@
-var mnemonic = "elbow tortoise aim reopen pupil kingdom exile arch spy bring thank achieve";
+var mnemonic = "giraffe decorate submit bar hazard avocado wonder dignity pumpkin spot jar knock";

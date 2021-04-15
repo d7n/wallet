@@ -1,1 +1,1 @@
-var mnemonic = "space three smoke patrol inquiry paper winter embrace cost sample tornado chronic";
+var mnemonic = "absurd decade copper route original cross already angle order smile great good";

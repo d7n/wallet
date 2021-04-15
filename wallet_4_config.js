@@ -1,1 +1,1 @@
-var mnemonic = "spread sick federal dial planet prosper mandate bracket organ lucky snow buddy";
+var mnemonic = "april same beach hero dentist stairs cup teach galaxy lamp bar drum";

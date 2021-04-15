@@ -1,1 +1,1 @@
-var mnemonic = "yellow recipe remind minor autumn color multiply gain tornado observe valley own";
+var mnemonic = "since bread magnet swift frost diet runway ticket aisle napkin muffin then";

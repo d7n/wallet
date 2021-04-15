@@ -1,1 +1,1 @@
-var mnemonic = "off market defy recipe page begin because lemon cart venture program bone";
+var mnemonic = "refuse subway feed sell swear arrest cousin kind jealous aunt field scissors";

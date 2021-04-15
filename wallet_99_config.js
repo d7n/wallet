@@ -1,1 +1,1 @@
-var mnemonic = "refuse flavor crunch surge round caution manage noodle shift famous tomorrow key";
+var mnemonic = "salon flip phrase medal acquire library defense luxury error gap orchard govern";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep donkey sauce life beach law tragic solar canyon avoid punch record";
+var mnemonic = "hope true tuition absurd issue leader move high section business spread leader";

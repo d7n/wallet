@@ -1,1 +1,1 @@
-var mnemonic = "glimpse kiss sadness flavor common drill retreat menu ripple hood iron champion";
+var mnemonic = "exchange avocado asthma wet juice pioneer super this imitate eternal live brand";

@@ -1,1 +1,1 @@
-var mnemonic = "job oval habit adult diamond glide funny media axis system left salute";
+var mnemonic = "beauty body jelly onion casino evoke device winner hero gain fork figure";

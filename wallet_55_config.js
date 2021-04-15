@@ -1,1 +1,1 @@
-var mnemonic = "jacket wink canyon mystery core plate accident scrap demand drop interest snake";
+var mnemonic = "royal head bottom wood frame parent simple melody salute pipe human town";

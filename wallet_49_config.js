@@ -1,1 +1,1 @@
-var mnemonic = "gap tonight response range voyage flash lumber tilt sister outer oil click";
+var mnemonic = "impose roof bread text silver right idea town broom ignore lottery hood";

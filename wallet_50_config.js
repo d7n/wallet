@@ -1,1 +1,1 @@
-var mnemonic = "light again rebuild admit pitch wing slight steel tonight movie link window";
+var mnemonic = "salt faculty catch surface civil drama sponsor february weather omit tail human";

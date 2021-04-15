@@ -1,1 +1,1 @@
-var mnemonic = "robot survey dismiss multiply news duck toss little lecture then calm scene";
+var mnemonic = "throw sentence basket asthma range game lunch unknown december fee winter settle";

@@ -1,1 +1,1 @@
-var mnemonic = "duty december they wood same cabbage upon donate kitchen artwork recycle theme";
+var mnemonic = "glow trap vacuum fruit base mail loud mesh skin voice near wage";

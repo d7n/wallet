@@ -1,1 +1,1 @@
-var mnemonic = "tone fall arch winner local curve deliver paddle loyal borrow naive high";
+var mnemonic = "zone vital limit similar novel collect orange input van valid essence pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "supply faculty short garage scale what seed crash learn road motion reunion";
+var mnemonic = "symptom phone crush mirror believe smooth rally mean fatal yard sponsor online";

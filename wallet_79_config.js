@@ -1,1 +1,1 @@
-var mnemonic = "catalog faculty skull fatigue monitor offer expire large rice vehicle oyster achieve";
+var mnemonic = "wheat rug blind divorce abstract spatial mind radio tool carpet when forward";

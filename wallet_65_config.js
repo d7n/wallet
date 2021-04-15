@@ -1,1 +1,1 @@
-var mnemonic = "swarm gasp toss thrive law ticket combine case depart pulp you tribe";
+var mnemonic = "wage teach actor air split custom supply inner yellow tree knife hill";

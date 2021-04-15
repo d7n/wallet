@@ -1,1 +1,1 @@
-var mnemonic = "ready that travel camp brave enemy tube comic balcony latin melt injury";
+var mnemonic = "index permit injury diesel custom pattern tomato alley wrap harbor potato always";

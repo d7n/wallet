@@ -1,1 +1,1 @@
-var mnemonic = "bright purchase lock faith pause stage assume drive glance element keep replace";
+var mnemonic = "cannon glad base region office version gun bomb direct skirt trial harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "nice draft find aisle tone firm exchange ceiling supreme catch snow ten";
+var mnemonic = "current arrive mystery tuna wear disagree quantum donor float nation deer almost";

@@ -1,1 +1,1 @@
-var mnemonic = "brief oxygen latin eyebrow hundred measure rack mother comfort broccoli enact never";
+var mnemonic = "merit lamp laundry jewel laptop forget client narrow approve color room anger";

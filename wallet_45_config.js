@@ -1,1 +1,1 @@
-var mnemonic = "gown coral reveal cloth find skill december sock truth cinnamon uniform goddess";
+var mnemonic = "general knock modify great era behave behind antenna forum lamp tuition dilemma";

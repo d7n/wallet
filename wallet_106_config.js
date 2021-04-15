@@ -1,1 +1,1 @@
-var mnemonic = "toy blade race reduce lab clean spot icon connect author produce cart";
+var mnemonic = "lecture fly credit away primary yard dish false can left hamster purpose";

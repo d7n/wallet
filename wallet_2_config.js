@@ -1,1 +1,1 @@
-var mnemonic = "try hire curve mean leave dizzy right post pill inherit cargo hole";
+var mnemonic = "thrive master goose print ugly ten video fine nurse promote hamster giant";

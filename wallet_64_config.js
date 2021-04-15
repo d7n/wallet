@@ -1,1 +1,1 @@
-var mnemonic = "pyramid myth syrup attend sand lucky quarter orchard forward more calm employ";
+var mnemonic = "exhaust junk worry assault donkey result rib idle step few stove rather";

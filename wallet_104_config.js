@@ -1,1 +1,1 @@
-var mnemonic = "joy excess survey nurse hammer brisk educate detail deliver trumpet hood horse";
+var mnemonic = "what dove cannon festival chat pill used alley pet club shy industry";

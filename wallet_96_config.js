@@ -1,1 +1,1 @@
-var mnemonic = "embark volcano inflict accuse hurry pact shaft remain coil debris cruel term";
+var mnemonic = "latin lottery sponsor reveal retreat exercise gather pond explain peasant crater effort";

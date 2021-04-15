@@ -1,1 +1,1 @@
-var mnemonic = "midnight guitar drop crumble swift retreat recall kidney absent cause curve patient";
+var mnemonic = "physical obtain cart supreme fury donate abandon neutral sense exclude purity sleep";

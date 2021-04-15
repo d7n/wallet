@@ -1,1 +1,1 @@
-var mnemonic = "credit away night comfort inside endless promote ice horse misery learn festival";
+var mnemonic = "forget organ pass response rich swarm bounce crucial appear awful want dignity";

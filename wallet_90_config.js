@@ -1,1 +1,1 @@
-var mnemonic = "belt choose oxygen symbol about army lemon twelve city milk combine mango";
+var mnemonic = "spatial census elegant rack merit jewel spawn illegal tent identify typical online";

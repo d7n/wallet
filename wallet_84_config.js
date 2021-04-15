@@ -1,1 +1,1 @@
-var mnemonic = "maze exact plate cycle cart buzz north spy loud upgrade certain coach";
+var mnemonic = "absorb sustain carry fetch badge fix empty unlock alter east grain chat";

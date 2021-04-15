@@ -1,1 +1,1 @@
-var mnemonic = "grow treat tattoo trend mixed figure excess window copper soft exit ceiling";
+var mnemonic = "mad era easy blanket wisdom mouse resemble wool jump resemble work uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "flat opinion onion toe rich train gravity stable session repeat sponsor fly";
+var mnemonic = "police hood chief doctor pluck uncle addict inch forward science width impact";

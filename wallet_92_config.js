@@ -1,1 +1,1 @@
-var mnemonic = "noble boring disease employ glance eagle baby lawsuit marble rely happy prefer";
+var mnemonic = "undo deposit bread shell soda between drift humble month midnight coast labor";

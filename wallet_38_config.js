@@ -1,1 +1,1 @@
-var mnemonic = "return exile acquire pride toss love drive almost flat swear scale style";
+var mnemonic = "glory rib midnight diagram increase spirit fiction bulk grief voyage possible near";

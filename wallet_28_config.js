@@ -1,1 +1,1 @@
-var mnemonic = "test logic cram mule candy guard true quarter rotate diesel bubble stock";
+var mnemonic = "together rapid bomb scare veteran spike derive badge utility glide exhibit there";

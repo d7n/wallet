@@ -1,1 +1,1 @@
-var mnemonic = "spell glow walk stuff basic tonight supply topple chunk expose absurd current";
+var mnemonic = "glide hybrid engage hospital tail exhibit obvious wool salad kitchen project train";

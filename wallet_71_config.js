@@ -1,1 +1,1 @@
-var mnemonic = "abstract chalk large shoe ethics script write copper bench release render seat";
+var mnemonic = "dress gap fun welcome light gaze print absorb family chest parent endorse";

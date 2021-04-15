@@ -1,1 +1,1 @@
-var mnemonic = "parrot worry task year letter oval whisper asthma pony trip torch super";
+var mnemonic = "trap announce bike divorce ugly drip shallow rubber body room wolf music";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion stadium check deliver minimum satoshi student shop student melt donkey vast";
+var mnemonic = "outside hammer rubber behave offer tide awake blast useless fuel obvious swing";

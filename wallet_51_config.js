@@ -1,1 +1,1 @@
-var mnemonic = "crowd margin firm actress keep later father potato code nuclear beauty monkey";
+var mnemonic = "more legal service motor dragon position farm female dish video exhibit image";

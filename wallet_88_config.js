@@ -1,1 +1,1 @@
-var mnemonic = "sentence effort vivid picture supply country pattern estate panic hedgehog rebuild true";
+var mnemonic = "various skill size defy orient pull love future crouch spatial fiction stadium";

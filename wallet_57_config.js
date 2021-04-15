@@ -1,1 +1,1 @@
-var mnemonic = "polar foot toast wonder dust hamster slush unit old feed retreat cave";
+var mnemonic = "nasty useful nurse awesome cart pluck pause spell obvious twist twice fiscal";

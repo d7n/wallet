@@ -1,1 +1,1 @@
-var mnemonic = "volcano quote element retreat use race leg giant pair start laptop camera";
+var mnemonic = "auction ethics observe silly hurt used stamp behave length melody ketchup taste";

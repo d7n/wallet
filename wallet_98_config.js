@@ -1,1 +1,1 @@
-var mnemonic = "fox video enable spike seminar hard peace biology switch airport ecology vault";
+var mnemonic = "gallery win stable glory list bread rib harvest unit gather photo other";

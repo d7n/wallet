@@ -1,1 +1,1 @@
-var mnemonic = "action consider vote core saddle ordinary never early flat mom pair swarm";
+var mnemonic = "spare news toy truck crush begin biology say wood victory name vague";

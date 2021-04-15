@@ -1,1 +1,1 @@
-var mnemonic = "couple arctic foot cat mirror senior main alert chaos network worry broccoli";
+var mnemonic = "define magic shy color blood cheap jazz title quick alpha output slab";

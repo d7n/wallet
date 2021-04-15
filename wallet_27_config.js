@@ -1,1 +1,1 @@
-var mnemonic = "sick carpet coin weapon address hair between extend rabbit torch jewel bread";
+var mnemonic = "issue warm betray hobby sorry naive joke fee access smile cigar episode";

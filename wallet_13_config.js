@@ -1,1 +1,1 @@
-var mnemonic = "modify rain upset engine million sick canvas amateur amused inhale spawn panda";
+var mnemonic = "bright desert able mechanic aware pitch before veteran suit canal tiny gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic hint column armor hobby venue tackle cross hello victory call fee";
+var mnemonic = "upset north clerk build silver lake anger notice patch problem letter raise";

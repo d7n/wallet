@@ -1,1 +1,1 @@
-var mnemonic = "sketch boring monkey supply breeze genre amateur scout doctor initial mushroom equal";
+var mnemonic = "loop dune latin field tank mutual misery cradle govern collect goat allow";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold depart drastic eagle opera cloud legend echo concert ranch pigeon firm";
+var mnemonic = "jar squeeze pizza slide fiscal cream bring gallery paper aunt thrive school";

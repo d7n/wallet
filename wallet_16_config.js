@@ -1,1 +1,1 @@
-var mnemonic = "practice boil pudding injury lock journey duck stage execute include match print";
+var mnemonic = "across cart once exhaust winner clip trial orient achieve erode enable vicious";

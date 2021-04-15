@@ -1,1 +1,1 @@
-var mnemonic = "journey bless clip iron frown pink network ranch match royal wise vanish";
+var mnemonic = "acoustic juice behave fluid assist distance doll heavy amateur vote express bring";

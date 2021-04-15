@@ -1,1 +1,1 @@
-var mnemonic = "fault salute crew absurd already visit april input sock myself relax acoustic";
+var mnemonic = "trap crop float inspire believe about pet marriage utility cloud town risk";

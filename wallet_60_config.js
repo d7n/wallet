@@ -1,1 +1,1 @@
-var mnemonic = "carry throw hospital private peanut admit pond sad clock awkward science fine";
+var mnemonic = "else dry shock robot damp budget grocery slush armed tuition area project";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon material afraid eye asthma weird found link include smile domain merge";
+var mnemonic = "chapter hockey bronze private valid anxiety target wedding require alpha random laundry";

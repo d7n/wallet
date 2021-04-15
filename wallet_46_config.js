@@ -1,1 +1,1 @@
-var mnemonic = "inner tent work hand acoustic hard latin chef brief practice stage crumble";
+var mnemonic = "address private raven rebuild ability harvest cat catalog script robot observe can";

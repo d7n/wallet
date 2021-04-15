@@ -1,1 +1,1 @@
-var mnemonic = "piano broken enlist cage maid twice tent boost live trick minimum stuff";
+var mnemonic = "alter kid upgrade section clip melt sand search print bus now omit";

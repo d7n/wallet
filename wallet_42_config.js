@@ -1,1 +1,1 @@
-var mnemonic = "business legend coral dice pet label garlic recipe narrow happy october throw";
+var mnemonic = "trumpet wagon whisper spy guitar fury bonus organ frown paper wagon oak";

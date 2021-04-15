@@ -1,1 +1,1 @@
-var mnemonic = "three fiction mountain fiction develop museum toilet wreck dizzy almost focus stable";
+var mnemonic = "give cheap range rookie guide weekend gospel zebra damage column desk hood";
