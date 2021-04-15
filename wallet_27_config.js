@@ -1,1 +1,1 @@
-var mnemonic = "exit giggle cheap raven employ world slice moon annual student cluster demise";
+var mnemonic = "drift fabric click direct adapt utility connect shaft hero walnut milk sort";

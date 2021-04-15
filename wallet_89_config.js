@@ -1,1 +1,1 @@
-var mnemonic = "bubble talk column boil photo still inject path breeze satisfy once fold";
+var mnemonic = "tree panda van chair initial thunder hospital wing vocal clay smart embark";

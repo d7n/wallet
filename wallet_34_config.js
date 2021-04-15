@@ -1,1 +1,1 @@
-var mnemonic = "journey affair slogan winner favorite admit traffic position urban age extra slush";
+var mnemonic = "source movie pelican ensure satoshi normal motion north abandon ghost alter jeans";

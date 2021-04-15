@@ -1,1 +1,1 @@
-var mnemonic = "fold insect cement skill modify evil negative warfare venue mango crime arrow";
+var mnemonic = "avoid tail struggle concert deny fetch asthma resemble scorpion asset chase captain";

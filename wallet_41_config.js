@@ -1,1 +1,1 @@
-var mnemonic = "normal domain cherry scout high east skin typical holiday purchase drink ticket";
+var mnemonic = "click uncover harsh swallow junk garment bleak budget payment vague chair clown";

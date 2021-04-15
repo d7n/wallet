@@ -1,1 +1,1 @@
-var mnemonic = "alpha reduce oppose because giggle east casual album sentence stick brother foot";
+var mnemonic = "north mesh select sign harsh assist element federal silent state zoo rescue";

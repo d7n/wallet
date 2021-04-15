@@ -1,1 +1,1 @@
-var mnemonic = "lizard danger modify lock rule sibling shiver slab vintage walk monster strategy";
+var mnemonic = "useful culture twist width lab month tail sustain try poet number give";

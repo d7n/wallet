@@ -1,1 +1,1 @@
-var mnemonic = "room venture shine exclude material wise sadness language reward evoke slush trumpet";
+var mnemonic = "jewel slice plastic you speak family group mango artwork case struggle young";

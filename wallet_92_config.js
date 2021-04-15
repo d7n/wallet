@@ -1,1 +1,1 @@
-var mnemonic = "crop owner space better usual intact brisk auction lion frequent misery humble";
+var mnemonic = "broccoli person mystery olympic eight wheat letter language layer ten rather best";

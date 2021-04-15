@@ -1,1 +1,1 @@
-var mnemonic = "speak biology wing bless attitude sound hill setup lawn skin immense broken";
+var mnemonic = "dove host assume fly business lab keep basket pink sense system flash";

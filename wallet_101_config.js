@@ -1,1 +1,1 @@
-var mnemonic = "dance quote melody beef snack stem eagle merit hub tumble bulk air";
+var mnemonic = "inherit uphold village final deer clock vast elder nothing salad knife blush";

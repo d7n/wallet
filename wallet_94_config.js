@@ -1,1 +1,1 @@
-var mnemonic = "surge wedding between bike welcome offer dinosaur camp vital describe beyond extend";
+var mnemonic = "shuffle bunker sunset select join attract snack clean spot steel seek type";

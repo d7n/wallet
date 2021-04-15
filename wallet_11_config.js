@@ -1,1 +1,1 @@
-var mnemonic = "nest swamp list dose label ecology fun tiger month nephew dish daring";
+var mnemonic = "erosion glimpse spare stick wine home reject south master hundred crisp become";

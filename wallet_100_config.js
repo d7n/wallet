@@ -1,1 +1,1 @@
-var mnemonic = "bronze tragic silent next enjoy keep glide sudden praise cable jazz human";
+var mnemonic = "upper south flavor kid kid praise cargo carbon trade buffalo grocery cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "thank second hand digital fan main banana day protect stereo circle nation";
+var mnemonic = "surface search sketch garbage raccoon boy estate peace critic deliver vessel gown";

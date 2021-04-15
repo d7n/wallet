@@ -1,1 +1,1 @@
-var mnemonic = "enter steak require sort hello quick escape kit lend ladder reunion below";
+var mnemonic = "whisper claw among hotel lizard sentence sadness fold keen catch skull close";

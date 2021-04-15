@@ -1,1 +1,1 @@
-var mnemonic = "evoke mule remove explain face awake modify report jelly digital keep chimney";
+var mnemonic = "quiz merry patrol smile acquire between mail romance pill art saddle predict";

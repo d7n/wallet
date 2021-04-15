@@ -1,1 +1,1 @@
-var mnemonic = "refuse start coyote toast resist film ivory drastic vacuum leader lake promote";
+var mnemonic = "short increase suspect tape top praise faint glide derive mention unveil jacket";

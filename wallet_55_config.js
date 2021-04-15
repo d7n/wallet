@@ -1,1 +1,1 @@
-var mnemonic = "asset dizzy prize nut story add embody excess banana penalty kitchen okay";
+var mnemonic = "settle visual certain cream such opera power crumble hundred north monkey mosquito";

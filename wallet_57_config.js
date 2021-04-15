@@ -1,1 +1,1 @@
-var mnemonic = "lecture toward trigger eternal travel brown brave practice assist figure taxi quit";
+var mnemonic = "guess tank tool anchor body chair select mouse gold zero large cute";

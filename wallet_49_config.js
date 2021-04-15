@@ -1,1 +1,1 @@
-var mnemonic = "jungle zoo charge loop horse parade trophy shock ticket street innocent ribbon";
+var mnemonic = "vendor hour hunt coral rough income clump script decorate excess damp believe";

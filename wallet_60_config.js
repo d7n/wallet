@@ -1,1 +1,1 @@
-var mnemonic = "yard tent pottery pipe athlete fault client frozen feel bubble ivory million";
+var mnemonic = "neither clog picture script ill cat knock leave during mother snap culture";

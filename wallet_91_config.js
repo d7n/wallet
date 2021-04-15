@@ -1,1 +1,1 @@
-var mnemonic = "crack vibrant shrug matter vocal follow trip that isolate brisk issue pistol";
+var mnemonic = "obtain avoid nation guilt detect coffee stool call arrive marble wrestle crouch";

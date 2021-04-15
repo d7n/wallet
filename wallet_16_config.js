@@ -1,1 +1,1 @@
-var mnemonic = "pave wagon auto crazy build acid boy hub vault fine day rival";
+var mnemonic = "kingdom glow myth crouch laptop pudding second vocal vessel special relief trial";

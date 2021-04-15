@@ -1,1 +1,1 @@
-var mnemonic = "occur knife element insane dice tuition noble opera noodle fitness empty indicate";
+var mnemonic = "useless gossip team liberty crew arrest inside leave certain island injury situate";

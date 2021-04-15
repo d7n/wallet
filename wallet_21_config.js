@@ -1,1 +1,1 @@
-var mnemonic = "office angry sunny kick math breeze lemon boss chronic poem olive simple";
+var mnemonic = "idle crowd kid benefit scale believe alpha anchor gain recipe clerk uphold";

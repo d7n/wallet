@@ -1,1 +1,1 @@
-var mnemonic = "engage cloud inherit one economy inch valid target violin swear purity spread";
+var mnemonic = "wool mesh anger license whisper hurry laugh evidence pink magic exhaust replace";

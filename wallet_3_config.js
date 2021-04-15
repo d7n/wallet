@@ -1,1 +1,1 @@
-var mnemonic = "excuse depth aerobic budget gorilla wife iron bundle circle coral below brain";
+var mnemonic = "ski crowd hole safe task glad deny genius canyon acquire fork typical";

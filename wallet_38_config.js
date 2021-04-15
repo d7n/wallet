@@ -1,1 +1,1 @@
-var mnemonic = "dignity rebuild repeat junk firm person cannon fatal skate lucky suspect famous";
+var mnemonic = "bracket punch scissors scorpion recall mix video cry word glance mass gospel";

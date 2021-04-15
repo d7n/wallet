@@ -1,1 +1,1 @@
-var mnemonic = "lazy toward smile enhance catch item market license nuclear concert plastic share";
+var mnemonic = "dry arctic knife baby decrease state sausage opinion record keep head tag";

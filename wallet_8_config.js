@@ -1,1 +1,1 @@
-var mnemonic = "satisfy library lemon sauce miss moment cloth payment engage expect crop window";
+var mnemonic = "often catalog rabbit enlist twelve capital jeans sentence retire art boost cube";

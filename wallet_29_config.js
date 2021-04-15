@@ -1,1 +1,1 @@
-var mnemonic = "burden sad donkey future add trust notice brand filter science motor shop";
+var mnemonic = "copy moral plastic fiscal potato owner sunny country bonus zero spawn weekend";

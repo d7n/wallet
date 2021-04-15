@@ -1,1 +1,1 @@
-var mnemonic = "choice dune engage aim trophy ill fit idle dragon leader female cliff";
+var mnemonic = "car concert crazy either lava green teach brush make proof moment nuclear";

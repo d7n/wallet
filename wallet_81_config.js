@@ -1,1 +1,1 @@
-var mnemonic = "nation sudden peace flock alert you opera mystery favorite layer imitate snow";
+var mnemonic = "accident awesome bottom labor unlock urge multiply until jaguar urge quiz emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "during harbor skill elegant cereal side valid ill pass wreck zebra impact";
+var mnemonic = "repeat fitness parrot sugar radar rhythm basic okay jazz century flip major";

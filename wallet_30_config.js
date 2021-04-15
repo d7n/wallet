@@ -1,1 +1,1 @@
-var mnemonic = "inch range honey undo embark harbor list pitch reason educate history clump";
+var mnemonic = "sad educate describe people power aim enjoy invest winner safe matrix horn";

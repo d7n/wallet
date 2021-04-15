@@ -1,1 +1,1 @@
-var mnemonic = "apology finger arm place shy dance work rather there dog ring across";
+var mnemonic = "army crack vacant motion team industry vapor caught undo amateur you endless";

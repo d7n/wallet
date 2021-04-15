@@ -1,1 +1,1 @@
-var mnemonic = "asset thought video tattoo skirt parade hotel cruise glory what defy attract";
+var mnemonic = "expect network initial breeze track drive nice culture welcome air clay plunge";

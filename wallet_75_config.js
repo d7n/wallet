@@ -1,1 +1,1 @@
-var mnemonic = "trophy canal differ genre tortoise knock soft okay inquiry detect dignity modify";
+var mnemonic = "gallery property either oval merge allow screen add air prefer still rate";

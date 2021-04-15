@@ -1,1 +1,1 @@
-var mnemonic = "false copy spy kidney share shock bean hover panel situate clinic island";
+var mnemonic = "involve layer victory opera pledge flush attack sport memory feature fire picnic";

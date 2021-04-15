@@ -1,1 +1,1 @@
-var mnemonic = "pizza evoke gate chicken mercy major whisper balance arrest peasant crash leader";
+var mnemonic = "gesture bacon black bind front live blouse rude margin easy spawn reject";

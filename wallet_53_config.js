@@ -1,1 +1,1 @@
-var mnemonic = "today place pizza liberty pudding doll giraffe harsh empty grab argue planet";
+var mnemonic = "chief noodle clinic slim sing farm topic dilemma exact remain wear wrong";

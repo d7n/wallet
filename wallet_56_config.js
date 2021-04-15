@@ -1,1 +1,1 @@
-var mnemonic = "fade index busy shoe person captain steak circle enlist donor chef believe";
+var mnemonic = "inch lumber seek gorilla drum canyon transfer demise fold bacon daughter still";

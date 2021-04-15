@@ -1,1 +1,1 @@
-var mnemonic = "seed sample cable dumb future arrest enhance hard shell slush pill couch";
+var mnemonic = "warfare limit own pen police pledge cross around allow face breeze ethics";

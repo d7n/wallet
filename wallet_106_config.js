@@ -1,1 +1,1 @@
-var mnemonic = "claim vacuum entire element silly festival axis exist wood pig winter stuff";
+var mnemonic = "giant include security dog federal tonight morning rule mule lumber noise leg";

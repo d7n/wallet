@@ -1,1 +1,1 @@
-var mnemonic = "hard dentist spell cost surprise cheap together wisdom unable supply swift limb";
+var mnemonic = "silent bundle faint shiver proof legend century remember lecture make heart romance";

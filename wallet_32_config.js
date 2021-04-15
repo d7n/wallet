@@ -1,1 +1,1 @@
-var mnemonic = "attitude undo shadow uncle success toss bag negative round amused pole season";
+var mnemonic = "assault rough exhaust cart arrest lady arctic mesh emerge glad accuse cherry";

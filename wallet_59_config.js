@@ -1,1 +1,1 @@
-var mnemonic = "pledge lemon escape angry address mosquito stuff world author sentence excess sock";
+var mnemonic = "replace mushroom abstract rare blade taxi gun clap behave quarter alert patient";

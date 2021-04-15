@@ -1,1 +1,1 @@
-var mnemonic = "cabbage gold color museum measure spawn evoke weasel used valid hidden turkey";
+var mnemonic = "very seat divorce spend bronze tone also any dune bicycle employ danger";

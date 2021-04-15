@@ -1,1 +1,1 @@
-var mnemonic = "wheat throw patrol kitchen essay differ laugh peanut mansion aerobic donkey rebuild";
+var mnemonic = "false miracle mandate alert focus outside hard dawn resemble tragic carpet wheat";

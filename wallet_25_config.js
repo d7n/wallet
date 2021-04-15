@@ -1,1 +1,1 @@
-var mnemonic = "grid vault brisk away loud post smoke pool trend fashion bid clump";
+var mnemonic = "border ginger unhappy afraid easy weapon unhappy enough black answer else attack";

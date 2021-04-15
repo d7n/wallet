@@ -1,1 +1,1 @@
-var mnemonic = "pilot boy side flock fringe birth spice version ivory shine romance parrot";
+var mnemonic = "battle race swallow extend believe pride survey sugar life have apple erode";

@@ -1,1 +1,1 @@
-var mnemonic = "anger taxi rural pitch bright hole involve raccoon join asthma kingdom random";
+var mnemonic = "waste category such clip medal funny cruise empower copper budget patrol street";

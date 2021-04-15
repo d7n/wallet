@@ -1,1 +1,1 @@
-var mnemonic = "desk shrug bleak north blush try weapon opera gun box diamond bread";
+var mnemonic = "wonder galaxy slab february clean cigar bulk lizard return crack during ball";

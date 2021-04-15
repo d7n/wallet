@@ -1,1 +1,1 @@
-var mnemonic = "age multiply eagle wonder creek ugly security torch reward light goat nut";
+var mnemonic = "hole emerge oblige original shoot album involve jewel tissue decide distance purse";

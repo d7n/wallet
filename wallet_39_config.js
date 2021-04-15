@@ -1,1 +1,1 @@
-var mnemonic = "sword powder then garbage enjoy bicycle about sorry illegal artwork hungry divorce";
+var mnemonic = "festival small jewel olympic service short project ribbon toss one sadness nerve";

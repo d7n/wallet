@@ -1,1 +1,1 @@
-var mnemonic = "boss cruel shaft arrest assume vintage brief vocal cricket prison smoke rude";
+var mnemonic = "young share raven pretty habit stumble recall color curious above coral aim";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry canvas inmate family person property ranch ivory coast enrich sock patch";
+var mnemonic = "whip craft foot winner expire vivid simple ask solar library bronze infant";

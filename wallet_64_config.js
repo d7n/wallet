@@ -1,1 +1,1 @@
-var mnemonic = "walnut night oven blood dinner provide crystal essence agree item wall any";
+var mnemonic = "mutual rude text over cattle refuse field position addict episode crash target";

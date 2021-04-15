@@ -1,1 +1,1 @@
-var mnemonic = "mind share harvest brand beef hidden relief uncover wave property fossil wasp";
+var mnemonic = "pistol clay rapid tray gun fresh ignore pretty sheriff alert miracle long";

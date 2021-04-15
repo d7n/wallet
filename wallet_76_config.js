@@ -1,1 +1,1 @@
-var mnemonic = "people bean venture include busy child question pony gauge obtain vanish erosion";
+var mnemonic = "carpet ski victory wine wash symptom loud tobacco soul reunion luggage cheese";

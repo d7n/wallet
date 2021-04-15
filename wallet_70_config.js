@@ -1,1 +1,1 @@
-var mnemonic = "law indoor blade section lizard fossil nose misery pioneer salute champion return";
+var mnemonic = "picture orbit couple school urban certain plate crash sunny shoulder gallery series";

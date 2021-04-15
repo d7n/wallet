@@ -1,1 +1,1 @@
-var mnemonic = "science chase repeat verify pistol oval window future crouch supply evolve wear";
+var mnemonic = "erase century install topple paper beauty blade entry pool pistol lava crowd";

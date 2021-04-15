@@ -1,1 +1,1 @@
-var mnemonic = "fancy pet lunar always code job flight noble aspect leader cattle acid";
+var mnemonic = "talent skate dragon tissue group olive column chair grocery sock ketchup glove";

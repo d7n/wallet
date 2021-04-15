@@ -1,1 +1,1 @@
-var mnemonic = "panther divorce estate when screen reopen fog install impose alien ethics field";
+var mnemonic = "hair debate crisp gather burger source picnic eagle place toddler bonus fault";

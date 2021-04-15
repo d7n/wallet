@@ -1,1 +1,1 @@
-var mnemonic = "voice nuclear illegal knife reward own copper turn tourist post purity student";
+var mnemonic = "surface west number tent crack soccer bubble sheriff bleak oak orient soft";

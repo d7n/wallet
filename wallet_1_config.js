@@ -1,1 +1,1 @@
-var mnemonic = "garden seminar hood inner crush shell ecology ill degree clever early cat";
+var mnemonic = "type shuffle service floor vicious often scorpion biology absurd waste such panel";

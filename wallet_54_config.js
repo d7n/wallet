@@ -1,1 +1,1 @@
-var mnemonic = "sad drink cheese book isolate question cheese box deal rebuild mail drink";
+var mnemonic = "taste keen polar fragile trouble thought mule cause wisdom index canyon catalog";

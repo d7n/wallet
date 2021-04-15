@@ -1,1 +1,1 @@
-var mnemonic = "congress hidden hill weasel tumble burger tortoise grape vicious walk appear depart";
+var mnemonic = "focus afraid fish flock ask ensure stone danger satisfy reject orient drink";

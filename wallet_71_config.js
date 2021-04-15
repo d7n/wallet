@@ -1,1 +1,1 @@
-var mnemonic = "gold virtual forward bonus punch swear interest often umbrella grunt tree wide";
+var mnemonic = "error blur valley dragon almost citizen cook blue panel auction wealth lamp";

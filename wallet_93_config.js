@@ -1,1 +1,1 @@
-var mnemonic = "impose solar squeeze present theory tenant team normal force urban cost festival";
+var mnemonic = "diet brisk differ eyebrow unveil habit exist brush mimic south frown actress";

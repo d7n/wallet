@@ -1,1 +1,1 @@
-var mnemonic = "language keen bomb guess sea dry boss panda choose island broom ramp";
+var mnemonic = "void million giggle section arm copy category gadget delay process spice alter";

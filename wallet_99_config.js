@@ -1,1 +1,1 @@
-var mnemonic = "approve service inform dirt marble later snow taxi leaf media armor jar";
+var mnemonic = "elevator route true eye vendor pepper safe zero early fatigue segment vendor";

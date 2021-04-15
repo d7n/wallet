@@ -1,1 +1,1 @@
-var mnemonic = "swift imitate dwarf sword trade hollow corn syrup donate foster axis month";
+var mnemonic = "hazard typical swallow fabric exhibit spray thing position token leaf fall occur";

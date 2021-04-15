@@ -1,1 +1,1 @@
-var mnemonic = "pause credit reform alarm lobster involve grass voice size plug sudden cube";
+var mnemonic = "salad rice bring more envelope hat improve forest fancy release drum recall";

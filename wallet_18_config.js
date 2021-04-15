@@ -1,1 +1,1 @@
-var mnemonic = "wheat accident teach heart shy toilet dumb glue bunker club senior empower";
+var mnemonic = "nephew void defy hole sand bundle hidden gorilla drama south betray dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "later symbol claw track fortune arena hero limit grant taxi scale valve";
+var mnemonic = "maze tortoise harvest submit inflict remind rally crime crisp issue can code";

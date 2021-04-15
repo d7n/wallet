@@ -1,1 +1,1 @@
-var mnemonic = "rotate vibrant student tunnel canal fat spread drum absurd consider panda jaguar";
+var mnemonic = "blush execute hold bag wolf differ rotate orient traffic kingdom claim ticket";

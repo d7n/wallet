@@ -1,1 +1,1 @@
-var mnemonic = "clay phrase ivory dune scrap case tattoo nut luxury approve laundry upper";
+var mnemonic = "injury jeans afford wire trophy absurd elegant check apple such trust below";

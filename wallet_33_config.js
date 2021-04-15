@@ -1,1 +1,1 @@
-var mnemonic = "swing duty wage fold desert merge local neutral water list sock reject";
+var mnemonic = "alley sunny one party few fury produce retreat pill merge crumble demise";

@@ -1,1 +1,1 @@
-var mnemonic = "city stone sea illness route desert achieve goat trim attack inform script";
+var mnemonic = "state grief patient output wrist away buddy cash soccer dice olympic lonely";

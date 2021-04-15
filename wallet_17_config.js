@@ -1,1 +1,1 @@
-var mnemonic = "tongue robot promote rate health near leave erupt achieve basket rotate benefit";
+var mnemonic = "tennis alter gasp gauge bronze ankle excuse tiny wealth produce pink bounce";

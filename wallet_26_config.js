@@ -1,1 +1,1 @@
-var mnemonic = "found unusual maid cigar degree dog average sentence few decide wash duck";
+var mnemonic = "spy scheme pyramid noodle page spatial keen loud empower tourist report mention";

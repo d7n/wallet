@@ -1,1 +1,1 @@
-var mnemonic = "arrive brand unknown usage tissue sudden orchard dignity drink tell metal main";
+var mnemonic = "cute ready live fatal decline tower ready found pair fatal flavor spirit";

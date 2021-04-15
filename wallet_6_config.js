@@ -1,1 +1,1 @@
-var mnemonic = "rule join trash empty issue loud wear few lunar mango option fish";
+var mnemonic = "reflect merge cricket reason because cheap thought enter erupt ladder mystery alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant rival divert endorse dawn debris erupt transfer lecture endless front hour";
+var mnemonic = "asthma fold hedgehog input gate energy warrior fabric cannon labor hover december";
