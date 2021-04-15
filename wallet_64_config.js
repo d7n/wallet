@@ -1,1 +1,1 @@
-var mnemonic = "appear team box real confirm waste bamboo rescue mixed steel salute grief";
+var mnemonic = "crowd match cruise ten quote village glory knee elevator cannon debate twin";

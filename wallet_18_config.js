@@ -1,1 +1,1 @@
-var mnemonic = "goose ability price omit warrior resource winner coil path fox matrix anchor";
+var mnemonic = "super melt clown purpose crater mix track proud advice torch note edit";

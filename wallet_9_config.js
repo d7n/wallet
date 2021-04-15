@@ -1,1 +1,1 @@
-var mnemonic = "improve lamp gospel profit border picnic few access ginger either dawn interest";
+var mnemonic = "shove color prison year there find trigger excess car velvet view jungle";

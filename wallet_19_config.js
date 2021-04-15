@@ -1,1 +1,1 @@
-var mnemonic = "tent diary asset alter surge obscure dog ozone taxi cherry robust reduce";
+var mnemonic = "ginger crucial dove era found provide hundred fish flee miss erosion grape";

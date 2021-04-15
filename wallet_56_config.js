@@ -1,1 +1,1 @@
-var mnemonic = "arm vendor unaware taxi fresh civil crowd worry echo useful drop cheese";
+var mnemonic = "robot almost badge food type sight pencil subject ahead immense wave believe";

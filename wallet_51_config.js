@@ -1,1 +1,1 @@
-var mnemonic = "travel ethics long produce choose rib mouse birth avoid shoot duty prosper";
+var mnemonic = "saddle sibling process rabbit suffer hat pole coil baby alone secret drink";

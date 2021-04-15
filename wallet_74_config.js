@@ -1,1 +1,1 @@
-var mnemonic = "crowd slush try speed moon satisfy tonight ball two mix twin poem";
+var mnemonic = "fiscal olive phone tobacco spend equal blind lady piece unaware foam buzz";

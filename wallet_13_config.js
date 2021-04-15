@@ -1,1 +1,1 @@
-var mnemonic = "dirt crowd film laundry black season chair border pink cat charge feed";
+var mnemonic = "broom area degree model again tribe tone off early cigar course toddler";

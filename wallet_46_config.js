@@ -1,1 +1,1 @@
-var mnemonic = "slot first unique jar tuna tiger spot sing tide food craft involve";
+var mnemonic = "famous gravity erosion favorite urge lottery sadness wine blanket puppy feature once";

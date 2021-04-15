@@ -1,1 +1,1 @@
-var mnemonic = "treat print athlete conduct camp alcohol hurry sponsor life point raven length";
+var mnemonic = "scout liar hurdle arrange nation final ski spider feed child grain notable";

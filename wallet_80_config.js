@@ -1,1 +1,1 @@
-var mnemonic = "zone link canyon creek wave funny tennis guide stumble route anger tourist";
+var mnemonic = "lion lunch mouse senior zoo bar harbor human home glide wood town";

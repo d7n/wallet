@@ -1,1 +1,1 @@
-var mnemonic = "now finger uncover gauge roast laundry erode hope inhale kidney mother laptop";
+var mnemonic = "carpet describe mix pupil will laugh spatial physical kitchen myself wheel wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "profit describe various ignore scout pyramid section right question rebuild firm canoe";
+var mnemonic = "woman sadness page feature lounge melt gold soup off now popular genuine";

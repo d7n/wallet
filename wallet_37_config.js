@@ -1,1 +1,1 @@
-var mnemonic = "song reveal alarm observe raw excuse young wheel polar until indoor ranch";
+var mnemonic = "chase slush monitor young mushroom tunnel powder stable proof amused doll what";

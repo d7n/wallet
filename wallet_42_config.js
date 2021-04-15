@@ -1,1 +1,1 @@
-var mnemonic = "wreck zebra palm garlic modify suggest salad raise together small wreck spy";
+var mnemonic = "panther same crew cousin donor bread major cage expire step evoke chapter";

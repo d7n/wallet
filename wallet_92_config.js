@@ -1,1 +1,1 @@
-var mnemonic = "coffee female major drill equal coffee warrior habit execute neck squirrel library";
+var mnemonic = "peanut jacket script desert off verify tube torch body antique spend garbage";

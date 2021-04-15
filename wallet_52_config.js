@@ -1,1 +1,1 @@
-var mnemonic = "spawn long obvious sport asset tonight industry teach volcano broccoli estate book";
+var mnemonic = "flag avocado myself witness lawn click radio gravity wolf scissors web exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "another method alert corn absent tonight control cradle dirt fat quiz fuel";
+var mnemonic = "exchange shoot poem pause speak kidney into turkey wool atom defense vessel";

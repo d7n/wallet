@@ -1,1 +1,1 @@
-var mnemonic = "apple dumb group sniff expand until health under buffalo payment wrap renew";
+var mnemonic = "divide weather useful gallery doll gather response virtual green clog renew path";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge wrong speak elder unfold fox demand flight rookie fox actual pottery";
+var mnemonic = "exist dog buzz renew adult pause broom enough silver earn hollow route";

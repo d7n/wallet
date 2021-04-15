@@ -1,1 +1,1 @@
-var mnemonic = "arm forget ticket friend hurry vast reason motor already witness cart tomato";
+var mnemonic = "online electric filter weird save practice nerve nurse clog chunk absent armed";

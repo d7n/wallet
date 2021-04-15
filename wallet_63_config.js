@@ -1,1 +1,1 @@
-var mnemonic = "sample tonight position urge trick luxury police lawn forget hospital view carry";
+var mnemonic = "exchange simple dizzy balance guide twelve gold process grocery sibling appear episode";

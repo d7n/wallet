@@ -1,1 +1,1 @@
-var mnemonic = "job filter dignity solar glow track book lawn elbow ginger actual fence";
+var mnemonic = "today simple coast company scheme focus pigeon patrol wrong wide say robust";

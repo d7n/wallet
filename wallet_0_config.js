@@ -1,1 +1,1 @@
-var mnemonic = "squirrel alcohol child blue drop priority police jar lift hello media sustain";
+var mnemonic = "trap fluid sun adult disagree outer furnace rubber ethics daring interest assume";

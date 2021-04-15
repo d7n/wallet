@@ -1,1 +1,1 @@
-var mnemonic = "lab love nominee snap game canoe lottery message elbow treat photo law";
+var mnemonic = "trigger armor gasp edge aunt resource stick city width cereal avocado gauge";

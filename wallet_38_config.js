@@ -1,1 +1,1 @@
-var mnemonic = "secret excuse divert front load vague end happy glue question post second";
+var mnemonic = "patch grace slab easy winter mix lab false regret road blouse medal";

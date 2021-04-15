@@ -1,1 +1,1 @@
-var mnemonic = "crack arrest prosper teach claw steel north just hammer tongue sting material";
+var mnemonic = "wealth dynamic purity canal vacant turn company attitude lab begin snap arrest";

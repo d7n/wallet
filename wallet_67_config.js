@@ -1,1 +1,1 @@
-var mnemonic = "brush spirit decline voyage slab huge fault allow flavor frog large team";
+var mnemonic = "direct speak addict make curve lunch end chat farm slim wolf frost";

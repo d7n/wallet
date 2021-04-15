@@ -1,1 +1,1 @@
-var mnemonic = "column eagle outside advice country shoot peace kingdom thunder reopen ritual mutual";
+var mnemonic = "mad anxiety hidden actress panda make room antenna mandate caution gas town";

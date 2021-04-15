@@ -1,1 +1,1 @@
-var mnemonic = "code super trim primary error patrol beef drama vault hawk list banner";
+var mnemonic = "stadium frost card genre bar blue pulp curious festival winner crowd artist";

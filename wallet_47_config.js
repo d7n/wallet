@@ -1,1 +1,1 @@
-var mnemonic = "phrase until boil embrace wheel sweet defense cradle craft inch hip depend";
+var mnemonic = "final clump machine tip forget multiply pave powder funny penalty intact alpha";

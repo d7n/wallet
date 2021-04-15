@@ -1,1 +1,1 @@
-var mnemonic = "math blast pull tourist cage account wine slim eager erase joy flip";
+var mnemonic = "fury next purchase cupboard scorpion ranch gown license age just junior echo";

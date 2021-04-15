@@ -1,1 +1,1 @@
-var mnemonic = "crater runway forest crater cook make state frequent odor smoke walk fix";
+var mnemonic = "enact eight friend prefer joke quit frequent will vital rose hen modify";

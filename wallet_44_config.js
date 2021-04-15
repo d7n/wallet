@@ -1,1 +1,1 @@
-var mnemonic = "clay foot usage include sphere eternal often van mix tooth refuse forest";
+var mnemonic = "lazy state peanut aerobic fitness rebel drip solar erase paddle vivid venue";

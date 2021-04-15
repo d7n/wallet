@@ -1,1 +1,1 @@
-var mnemonic = "hollow crop into holiday help orphan believe gadget merit boring future paddle";
+var mnemonic = "help athlete lawn wild oval such daughter curve glow safe galaxy stumble";

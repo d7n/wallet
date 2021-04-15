@@ -1,1 +1,1 @@
-var mnemonic = "broom motion finish pioneer swift live start twenty burger nose best win";
+var mnemonic = "ill trouble alarm goddess biology shed tray transfer shallow apart burst fortune";

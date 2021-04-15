@@ -1,1 +1,1 @@
-var mnemonic = "soup winter hen ugly then tornado desk neck primary future ten also";
+var mnemonic = "quote siren brief jump aerobic surround unaware tuition rural once fossil want";

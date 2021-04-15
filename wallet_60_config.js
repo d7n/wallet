@@ -1,1 +1,1 @@
-var mnemonic = "sock again try file cupboard shuffle picnic retreat hill dentist kit unit";
+var mnemonic = "connect glow goat auction relief health neither casino crawl camp latin check";

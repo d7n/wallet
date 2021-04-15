@@ -1,1 +1,1 @@
-var mnemonic = "purchase during session celery bunker please tip hurry spy accuse hen nasty";
+var mnemonic = "clarify unfair keen crane ability badge survey fresh human cash swap awake";

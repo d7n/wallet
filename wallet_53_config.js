@@ -1,1 +1,1 @@
-var mnemonic = "tumble industry proof daughter lobster mix net flight silk soda senior wrist";
+var mnemonic = "disorder coin vast wolf glory prepare ginger raccoon garden coyote mushroom memory";

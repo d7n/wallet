@@ -1,1 +1,1 @@
-var mnemonic = "medal fatal gasp route tissue turkey tape hat meat eagle valve only";
+var mnemonic = "hip direct night genuine solar remove story tell remain bright mule rabbit";

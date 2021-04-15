@@ -1,1 +1,1 @@
-var mnemonic = "rebel capable weapon churn scheme kiwi ride deal crumble inch home fuel";
+var mnemonic = "produce gap neutral pizza behind good milk pioneer satisfy dinosaur embody fan";

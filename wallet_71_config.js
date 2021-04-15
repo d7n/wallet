@@ -1,1 +1,1 @@
-var mnemonic = "interest curtain stone mansion margin festival hurry label cheap caught enact sad";
+var mnemonic = "transfer wild cross fault nose immense organ rule vapor rare regret address";

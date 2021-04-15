@@ -1,1 +1,1 @@
-var mnemonic = "ocean evil violin girl omit clump pupil ahead cram become offer raise";
+var mnemonic = "equip track cage glad giant umbrella attend depth swift pull salmon filter";

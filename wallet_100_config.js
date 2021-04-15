@@ -1,1 +1,1 @@
-var mnemonic = "bus meat thought spatial miracle cluster demise carry submit flock twin winter";
+var mnemonic = "target steak attitude second endorse blush idle lunar truck critic much soldier";

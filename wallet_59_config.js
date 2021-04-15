@@ -1,1 +1,1 @@
-var mnemonic = "then crack liar flock need code lawsuit govern before reopen kit axis";
+var mnemonic = "bunker any couple glow gain senior spend silly hour spike exist job";

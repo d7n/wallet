@@ -1,1 +1,1 @@
-var mnemonic = "stuff guard shoulder copy cabin remove mosquito couch feed upgrade tortoise bird";
+var mnemonic = "urban stuff denial mushroom parrot moral foot fossil silent floor benefit solution";

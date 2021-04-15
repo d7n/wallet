@@ -1,1 +1,1 @@
-var mnemonic = "toward find couch chronic series arrest credit monkey among bottom kangaroo cruel";
+var mnemonic = "poem law define hospital orchard moral general sword duck bus ethics wrong";

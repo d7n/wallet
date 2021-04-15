@@ -1,1 +1,1 @@
-var mnemonic = "outdoor piano pause antenna budget term leader divert venue kangaroo loan curious";
+var mnemonic = "session august bacon into cheese brick require vague will gold depend know";

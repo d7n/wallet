@@ -1,1 +1,1 @@
-var mnemonic = "gown faint lonely right approve visit asset august ensure version unit couple";
+var mnemonic = "grief sadness latin drop lunar repair trip garlic paper spend bridge engage";

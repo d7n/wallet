@@ -1,1 +1,1 @@
-var mnemonic = "patch obey enter gold south program misery shoe balcony license void sadness";
+var mnemonic = "drip sadness lift glance promote drift kitchen word sell glove razor slow";

@@ -1,1 +1,1 @@
-var mnemonic = "morning attitude toast unfold kit true concert ten special bless blast myself";
+var mnemonic = "chapter boost apart absent gun usual friend into rent rule jewel ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "love random pave cannon grab quote hidden indoor genius share buffalo primary";
+var mnemonic = "bounce witness dragon repair smart lake elephant bid roast doctor boost electric";

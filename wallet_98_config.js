@@ -1,1 +1,1 @@
-var mnemonic = "creek age clock diesel pen horror trust recycle wing better exhibit situate";
+var mnemonic = "law lounge prison amazing try carry assume feel pitch soap wool usual";

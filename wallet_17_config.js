@@ -1,1 +1,1 @@
-var mnemonic = "shield swallow find minor blush kingdom layer bronze logic outer fine swift";
+var mnemonic = "shoe bulk pony lab ranch chicken hunt tunnel brief pact seed truth";

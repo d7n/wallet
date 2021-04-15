@@ -1,1 +1,1 @@
-var mnemonic = "lend ivory deal brass spy winner throw toss glue woman machine nice";
+var mnemonic = "visual deer outside arrest grocery awake basket birth awful spell excuse loop";

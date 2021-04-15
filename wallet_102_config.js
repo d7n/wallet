@@ -1,1 +1,1 @@
-var mnemonic = "awful omit old merge about culture check retreat labor clinic model erode";
+var mnemonic = "trumpet book dog update alarm control slide six gasp unit tell veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "input weekend garment course team keep mimic inhale cancel frame tiny miss";
+var mnemonic = "obtain shrug runway mind spell search clay palace sniff shine airport gas";

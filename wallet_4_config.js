@@ -1,1 +1,1 @@
-var mnemonic = "random entry zero acid few want label desk coral rebuild apple wave";
+var mnemonic = "taxi goat truth youth walnut energy surprise giraffe dog bag dune border";

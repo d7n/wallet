@@ -1,1 +1,1 @@
-var mnemonic = "smile snake double girl deer junk avoid clean lift merry cruise section";
+var mnemonic = "radar barely master intact brown crush draw across pull crystal judge tonight";

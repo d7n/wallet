@@ -1,1 +1,1 @@
-var mnemonic = "raccoon reject kick then toe modify saddle bench impact essence march polar";
+var mnemonic = "album answer ladder myth vocal denial happy cattle reform hint bracket keen";

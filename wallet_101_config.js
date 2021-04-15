@@ -1,1 +1,1 @@
-var mnemonic = "when bottom shed where syrup wear siege reunion flush zero fresh enroll";
+var mnemonic = "dust lumber exile dynamic bar when celery champion task since like super";

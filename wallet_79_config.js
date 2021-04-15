@@ -1,1 +1,1 @@
-var mnemonic = "sting list sweet purity huge sport demise glass shine mean suit treat";
+var mnemonic = "share museum disease able link enemy nominee industry else bind welcome october";

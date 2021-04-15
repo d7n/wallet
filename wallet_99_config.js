@@ -1,1 +1,1 @@
-var mnemonic = "inner eternal canyon capable end bomb under shock joke vehicle whip comic";
+var mnemonic = "ugly remind paper focus logic reward jar polar provide bachelor nurse junior";

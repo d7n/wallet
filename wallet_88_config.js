@@ -1,1 +1,1 @@
-var mnemonic = "donkey recipe hobby hockey rebuild silk lizard gesture panel leisure snap brick";
+var mnemonic = "various slogan pelican spot piece regular supreme dust okay lake dad april";

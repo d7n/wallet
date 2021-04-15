@@ -1,1 +1,1 @@
-var mnemonic = "monitor spend sister exile green skill potato chest weather dignity corn achieve";
+var mnemonic = "food pattern swear club vivid embody polar sight bracket siren left rule";

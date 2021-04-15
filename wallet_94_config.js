@@ -1,1 +1,1 @@
-var mnemonic = "muffin earn remind will comfort soldier trash film umbrella turtle naive crazy";
+var mnemonic = "margin trip tired cattle label random correct lift salt essay buddy imitate";

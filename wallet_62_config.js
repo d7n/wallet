@@ -1,1 +1,1 @@
-var mnemonic = "tube chunk elephant film settle coffee syrup afford label crowd token agree";
+var mnemonic = "drive bamboo lady dinosaur convince dinosaur pear dinner cousin brown decide movie";

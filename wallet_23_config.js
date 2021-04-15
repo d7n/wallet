@@ -1,1 +1,1 @@
-var mnemonic = "oxygen sentence sea mad benefit goat renew shuffle dash cycle viable airport";
+var mnemonic = "note approve wall supply pepper coach hope reflect step you zebra scan";

@@ -1,1 +1,1 @@
-var mnemonic = "tower youth satisfy mechanic stomach sorry assume tunnel car satisfy peasant gospel";
+var mnemonic = "amateur diesel allow obscure list voyage twin diagram unfair unfold april gadget";

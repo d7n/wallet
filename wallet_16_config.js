@@ -1,1 +1,1 @@
-var mnemonic = "torch suit frown type disease when famous obvious october quiz ordinary angry";
+var mnemonic = "truck bunker fat someone diet build pause bench same fat erase coyote";

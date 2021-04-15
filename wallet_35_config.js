@@ -1,1 +1,1 @@
-var mnemonic = "gun rigid control web also enough faculty spin nation stone autumn end";
+var mnemonic = "tragic night truth word vibrant green buzz congress endorse old toilet useless";

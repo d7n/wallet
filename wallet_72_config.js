@@ -1,1 +1,1 @@
-var mnemonic = "cupboard sketch throw reform mixture federal final mass decorate answer spread endless";
+var mnemonic = "beach outside urge hotel magnet loop crucial service grass monster rapid detail";

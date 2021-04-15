@@ -1,1 +1,1 @@
-var mnemonic = "aware cart flip solve age ecology door wink busy special tiger limb";
+var mnemonic = "chair cricket under pitch eight victory sustain bundle truly express pact library";

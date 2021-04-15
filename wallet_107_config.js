@@ -1,1 +1,1 @@
-var mnemonic = "region grape rose what pill violin stone bright scorpion hockey badge decline";
+var mnemonic = "stay slogan lecture latin ketchup order appear earn goddess envelope volcano gaze";

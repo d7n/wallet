@@ -1,1 +1,1 @@
-var mnemonic = "bubble celery sure churn solar denial country square creek wool pet buffalo";
+var mnemonic = "know again motor midnight trash tone example sunny major also happy chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "van neglect market sign spread click cage coyote input profit inside table";
+var mnemonic = "fiction regular have visa assume another exact lunch ski jeans lawsuit canyon";

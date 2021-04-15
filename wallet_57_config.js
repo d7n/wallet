@@ -1,1 +1,1 @@
-var mnemonic = "ecology moon tape term any welcome forward dynamic raw maple drama envelope";
+var mnemonic = "vital observe before village chunk surge theory almost stand verb urge book";

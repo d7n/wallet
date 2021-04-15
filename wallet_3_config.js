@@ -1,1 +1,1 @@
-var mnemonic = "better expand conduct despair gym wage heart suit tunnel silent tell opera";
+var mnemonic = "palm frequent cable flame frozen primary find attend print recall clap salad";

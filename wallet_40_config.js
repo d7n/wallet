@@ -1,1 +1,1 @@
-var mnemonic = "attack also tell climb piano budget stadium tell flag obey normal nasty";
+var mnemonic = "inhale bike rigid buzz then idle proof resist sorry orbit remove drip";

@@ -1,1 +1,1 @@
-var mnemonic = "biology cash gentle arrow seat amused wheat height action plug sport carpet";
+var mnemonic = "decide other chest judge arrange rural autumn gorilla mistake deliver medal wrap";

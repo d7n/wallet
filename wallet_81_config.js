@@ -1,1 +1,1 @@
-var mnemonic = "glass involve memory corn shrimp concert trash scrub soap trap ostrich artefact";
+var mnemonic = "gain bunker chimney jump decline proof glance wage border vintage shoot laptop";

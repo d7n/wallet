@@ -1,1 +1,1 @@
-var mnemonic = "actress claim screen inject jump solid whale frog toward arena truck talk";
+var mnemonic = "also census dolphin truth great raccoon library pact reward pass develop history";

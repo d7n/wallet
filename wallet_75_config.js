@@ -1,1 +1,1 @@
-var mnemonic = "film grow top material vanish often range uphold tooth govern mandate pistol";
+var mnemonic = "raise rookie slender sound cat wool awful faint column vague truck alone";

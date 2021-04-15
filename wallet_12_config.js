@@ -1,1 +1,1 @@
-var mnemonic = "claim sight elegant cattle hazard sign evolve dress vacant dinosaur work ankle";
+var mnemonic = "true potato clever ready rose brain flash swim noise stamp wise spoil";

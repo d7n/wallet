@@ -1,1 +1,1 @@
-var mnemonic = "state rocket table cattle harsh canvas thunder engage snack local time butter";
+var mnemonic = "display lucky north apology boat problem snack segment aspect draw trade upper";

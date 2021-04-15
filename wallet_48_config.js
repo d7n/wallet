@@ -1,1 +1,1 @@
-var mnemonic = "mixed diary miracle curtain rubber sea easily spell town color unit skill";
+var mnemonic = "wing hold kick truly track fox casino danger elite mimic place accident";

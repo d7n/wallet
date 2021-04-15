@@ -1,1 +1,1 @@
-var mnemonic = "office episode mixed battle team path amateur furnace type coffee muscle apart";
+var mnemonic = "ribbon wire shine battle cost kick produce slush chronic goddess trend prison";

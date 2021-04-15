@@ -1,1 +1,1 @@
-var mnemonic = "artist east damage anchor game swim immense swing pear quick dilemma require";
+var mnemonic = "olympic dutch glimpse crystal jazz party chicken virus entire clay army junk";
