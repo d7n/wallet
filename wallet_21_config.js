@@ -1,1 +1,1 @@
-var mnemonic = "mixed fringe obtain perfect agree catalog feed manual sail rotate street blur";
+var mnemonic = "myth target game kind private pass develop parrot ring trade leaf onion";

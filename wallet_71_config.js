@@ -1,1 +1,1 @@
-var mnemonic = "weather bubble coconut repeat fiber sorry display summer margin trip riot ship";
+var mnemonic = "finger already brass inquiry sing empty gather math thing ginger picture response";

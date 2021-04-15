@@ -1,1 +1,1 @@
-var mnemonic = "today today cactus unfair make wrong enroll plate live loop wife little";
+var mnemonic = "betray enable only online budget gallery tunnel mandate glory space asthma chicken";

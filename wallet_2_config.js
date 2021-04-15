@@ -1,1 +1,1 @@
-var mnemonic = "major episode silk elevator evidence neck indoor fortune quote pool drastic devote";
+var mnemonic = "name liar know already caught good unveil today clutch net ramp pyramid";

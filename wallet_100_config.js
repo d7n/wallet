@@ -1,1 +1,1 @@
-var mnemonic = "tennis uncover arrest security unhappy blur fan era sheriff curious immense kid";
+var mnemonic = "primary eagle diamond visa nature pumpkin sibling royal simple van idle prevent";

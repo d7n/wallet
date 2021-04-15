@@ -1,1 +1,1 @@
-var mnemonic = "misery pioneer outside pilot six stay blush flame stock nice possible huge";
+var mnemonic = "response jacket whale couch trouble demise thunder wisdom season system pulse pond";

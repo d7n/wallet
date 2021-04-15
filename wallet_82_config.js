@@ -1,1 +1,1 @@
-var mnemonic = "dignity sausage learn boil wisdom again tip miss pride wrist view arena";
+var mnemonic = "naive feed long cross useless gesture express genius jelly digital enforce rate";

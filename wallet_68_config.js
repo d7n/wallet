@@ -1,1 +1,1 @@
-var mnemonic = "upon alter student already volume alter oak mother cage degree among spread";
+var mnemonic = "black empower wall spray invest cram inject bean abuse measure grid curve";

@@ -1,1 +1,1 @@
-var mnemonic = "science fashion rose core copper trap lake misery shop rely supply payment";
+var mnemonic = "cereal disagree tag extra reason concert girl radio enhance pelican method pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile edge royal sign number sugar first wing era radio crush dry";
+var mnemonic = "tired sleep lesson goose neglect green future drip innocent parade trap very";

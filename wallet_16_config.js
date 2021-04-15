@@ -1,1 +1,1 @@
-var mnemonic = "join gasp choose elephant elite party punch short trial original brand buddy";
+var mnemonic = "sad before myth tornado dial crawl ski father mass caution ball hint";

@@ -1,1 +1,1 @@
-var mnemonic = "belt volcano dragon city load vessel leaf saddle stool universe scale organ";
+var mnemonic = "scatter parent rebel fine swift income tool usage custom draw silver tornado";

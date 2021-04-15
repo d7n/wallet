@@ -1,1 +1,1 @@
-var mnemonic = "fluid bundle vocal index lady ticket skate laugh near elegant risk account";
+var mnemonic = "sketch cactus bone giraffe promote crack spread work spike involve nuclear rib";

@@ -1,1 +1,1 @@
-var mnemonic = "praise chuckle cube vanish icon top toy enter cement jazz hill service";
+var mnemonic = "planet network multiply blame grief cage latin current prevent arch chase accuse";

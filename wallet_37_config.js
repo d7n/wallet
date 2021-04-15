@@ -1,1 +1,1 @@
-var mnemonic = "runway puppy report universe book tourist nerve math live device session clap";
+var mnemonic = "save cry number decrease humor donor coast ginger traffic pigeon pair already";

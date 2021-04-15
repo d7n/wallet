@@ -1,1 +1,1 @@
-var mnemonic = "dune upgrade bargain key lock next group trend rich elite open dentist";
+var mnemonic = "engage taxi mechanic bike pulp fiber jeans horn flower rookie tool canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "medal cinnamon artefact knee material myth tank merry mobile item tobacco clap";
+var mnemonic = "phrase genius snack scheme couch olive vital bubble day need fix fence";

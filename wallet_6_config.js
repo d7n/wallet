@@ -1,1 +1,1 @@
-var mnemonic = "key bronze win teach latin skirt crack predict pilot visual wheel organ";
+var mnemonic = "subway owner odor dish hope donate total ball detail outside bus cotton";

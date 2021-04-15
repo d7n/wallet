@@ -1,1 +1,1 @@
-var mnemonic = "wool debris menu shoot profit almost slender blind cover girl useful robot";
+var mnemonic = "expand point embody girl pool fold pull gun great surface blush innocent";

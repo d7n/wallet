@@ -1,1 +1,1 @@
-var mnemonic = "prosper gym front struggle reveal expand maple victory girl special consider miss";
+var mnemonic = "arm nose guitar source absurd pretty grace jazz decline stumble acoustic horse";

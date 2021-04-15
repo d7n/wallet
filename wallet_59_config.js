@@ -1,1 +1,1 @@
-var mnemonic = "bless torch december ring boat evil junior kitchen angle crouch bulk hand";
+var mnemonic = "spike tortoise pottery moon risk priority kidney deputy keen logic dose thumb";

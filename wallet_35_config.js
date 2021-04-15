@@ -1,1 +1,1 @@
-var mnemonic = "gadget curious entire actual door drum acid midnight hundred supply box napkin";
+var mnemonic = "stereo wrestle grant negative pledge assault antique habit save april gaze busy";

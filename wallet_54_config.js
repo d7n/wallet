@@ -1,1 +1,1 @@
-var mnemonic = "hammer chunk used cotton state curve marine relax baby belt mother tiger";
+var mnemonic = "giggle turtle warrior sphere phrase sausage army embrace under select shaft game";

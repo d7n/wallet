@@ -1,1 +1,1 @@
-var mnemonic = "napkin illness cactus float virtual wave urge risk obvious one between phone";
+var mnemonic = "isolate parade chase foil scout cradle wall hybrid peanut arrange episode flame";

@@ -1,1 +1,1 @@
-var mnemonic = "rural allow scrap isolate crane cash peace squeeze balance hard pulp slight";
+var mnemonic = "shadow cradle time stem repeat still neglect valley utility issue destroy divide";

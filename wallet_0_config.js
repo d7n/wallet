@@ -1,1 +1,1 @@
-var mnemonic = "robust depart fuel tiger venture camera assault true early angle suffer clutch";
+var mnemonic = "infant marble scheme session help original crunch rival tribe tumble joke will";

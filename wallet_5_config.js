@@ -1,1 +1,1 @@
-var mnemonic = "above path raccoon seven clap again van perfect gospel strong detect hat";
+var mnemonic = "sail opera ski balcony gasp desk spice hunt repair require page cost";

@@ -1,1 +1,1 @@
-var mnemonic = "knife country cancel neither fever romance song film spatial jacket absorb garbage";
+var mnemonic = "extra steel summer awful pull future lend melody mechanic engage opinion cereal";

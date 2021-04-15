@@ -1,1 +1,1 @@
-var mnemonic = "glove useful normal arctic gorilla silly flat brother before marine link believe";
+var mnemonic = "title carbon patrol dance sunset blame ghost clock holiday fuel zero sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse art canoe nominee face turkey juice piano interest evil mixed fury";
+var mnemonic = "mention disease invite gap kiss rice fatigue shock young under rally all";

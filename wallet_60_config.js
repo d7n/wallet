@@ -1,1 +1,1 @@
-var mnemonic = "waste sunset spawn plate wrist notable proof inject acquire replace reunion wire";
+var mnemonic = "type normal holiday genius cabin mandate column require wash owner wash race";

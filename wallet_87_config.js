@@ -1,1 +1,1 @@
-var mnemonic = "hard observe copy sad citizen enemy radar vehicle unveil game spray favorite";
+var mnemonic = "desk boss mom genius heart seat ghost goose asthma sweet blast salute";

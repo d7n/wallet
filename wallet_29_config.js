@@ -1,1 +1,1 @@
-var mnemonic = "apology curve pink maze term hub surge moment awkward notice tomorrow case";
+var mnemonic = "earn need vacant agent barrel despair throw cupboard health comfort core prison";

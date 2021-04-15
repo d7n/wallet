@@ -1,1 +1,1 @@
-var mnemonic = "journey axis gold slight banana stick identify income success health drum awkward";
+var mnemonic = "join copy smooth people receive train early sure skull accident property curtain";

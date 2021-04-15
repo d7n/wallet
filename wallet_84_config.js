@@ -1,1 +1,1 @@
-var mnemonic = "express vehicle card gain apple quality small monster useless route bleak truth";
+var mnemonic = "uncle once little steak forest elder shrimp custom daring daring topic evoke";

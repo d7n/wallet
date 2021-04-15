@@ -1,1 +1,1 @@
-var mnemonic = "essay nation maid fade sibling that time face ivory jelly aspect basic";
+var mnemonic = "match series pyramid angle involve helmet else select dish sand dwarf father";

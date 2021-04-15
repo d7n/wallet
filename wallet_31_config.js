@@ -1,1 +1,1 @@
-var mnemonic = "charge lecture stool sand candy dinosaur gasp scheme canyon forward know sheriff";
+var mnemonic = "peace raccoon solid tribe trash carpet pelican enroll planet bind pottery smart";

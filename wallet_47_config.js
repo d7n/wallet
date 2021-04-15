@@ -1,1 +1,1 @@
-var mnemonic = "steel question stem enroll praise photo other easily volcano blast about switch";
+var mnemonic = "tent round leave twist ozone absent animal oppose spawn cactus tail snap";

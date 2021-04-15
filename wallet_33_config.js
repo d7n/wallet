@@ -1,1 +1,1 @@
-var mnemonic = "vibrant drip arrow airport extra property tube enforce brother twice buffalo picture";
+var mnemonic = "network pioneer kidney output enlist toilet public base luggage replace smooth distance";

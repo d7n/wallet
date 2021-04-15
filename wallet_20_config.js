@@ -1,1 +1,1 @@
-var mnemonic = "stand street object bronze clinic casino nasty ginger chicken process sword film";
+var mnemonic = "pear earn damage cause leaf betray veteran chapter slot age dry real";

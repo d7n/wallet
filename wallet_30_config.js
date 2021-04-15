@@ -1,1 +1,1 @@
-var mnemonic = "access hub pulse picture vast plate exercise action train fork bridge radar";
+var mnemonic = "hotel raccoon hold language jaguar clever mechanic orbit drop giggle hen firm";

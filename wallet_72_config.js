@@ -1,1 +1,1 @@
-var mnemonic = "surge cram lock tortoise purity identify base enjoy tomato whisper fog forward";
+var mnemonic = "blood license color buyer used nation bubble must peace pear obtain strong";

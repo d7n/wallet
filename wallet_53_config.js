@@ -1,1 +1,1 @@
-var mnemonic = "sniff addict festival oxygen gas step cloud mango tongue rubber mesh damp";
+var mnemonic = "bomb mixture hospital wall shield vague tail clerk vital salad daring capital";

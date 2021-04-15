@@ -1,1 +1,1 @@
-var mnemonic = "hood magnet hill proof alcohol burger luxury pilot boring buzz state stomach";
+var mnemonic = "decide thing burger image height host culture chase input dynamic neck close";

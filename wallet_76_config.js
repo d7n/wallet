@@ -1,1 +1,1 @@
-var mnemonic = "gossip trial gossip grit method patient spell wedding live veteran kingdom aspect";
+var mnemonic = "express judge mobile slush mechanic unit extend patch garment bundle drink initial";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing news valve cliff pull angry school great decade path beef receive";
+var mnemonic = "feel claim heavy divorce soldier response vendor bring balance recipe shop model";

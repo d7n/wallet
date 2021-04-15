@@ -1,1 +1,1 @@
-var mnemonic = "level brain palace lazy ginger brief seek speed element program heavy aerobic";
+var mnemonic = "planet reason thought strong culture boring civil chunk embark there chair kid";

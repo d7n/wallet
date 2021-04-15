@@ -1,1 +1,1 @@
-var mnemonic = "syrup setup pink wish upon when split frozen physical friend group actual";
+var mnemonic = "route reform river distance bomb lunar remember truth luggage neutral critic shield";

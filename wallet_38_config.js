@@ -1,1 +1,1 @@
-var mnemonic = "verb shy north grocery window frown zone elephant setup spatial legend picnic";
+var mnemonic = "knife broccoli purpose mind picture when diagram track detail fence since ahead";

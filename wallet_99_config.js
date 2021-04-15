@@ -1,1 +1,1 @@
-var mnemonic = "obscure lawn broccoli hawk title curious thunder runway scare cruise excess invest";
+var mnemonic = "tuna market indicate nuclear biology labor crash path key execute ozone little";

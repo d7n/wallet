@@ -1,1 +1,1 @@
-var mnemonic = "cotton receive hold wave maximum sound obtain state farm olive announce earn";
+var mnemonic = "exact thank piano all under measure food move ostrich session ginger riot";

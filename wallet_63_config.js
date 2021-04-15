@@ -1,1 +1,1 @@
-var mnemonic = "elder ceiling save already rate quick gun labor present science valid craft";
+var mnemonic = "sock donate chalk dismiss alert despair victory stove draw lumber seek wreck";

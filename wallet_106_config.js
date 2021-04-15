@@ -1,1 +1,1 @@
-var mnemonic = "diamond olive screen buddy quick essay access faith hunt marble crumble bundle";
+var mnemonic = "fever festival kangaroo verify found account jaguar humble daughter project pave exit";

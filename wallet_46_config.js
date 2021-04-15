@@ -1,1 +1,1 @@
-var mnemonic = "alone estate potato food allow angry dwarf wedding pyramid decrease blade exile";
+var mnemonic = "spray love industry edit law maple require limb collect dog nice subject";

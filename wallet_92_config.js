@@ -1,1 +1,1 @@
-var mnemonic = "favorite exhaust stand core mean mean earn public stairs stem junior grain";
+var mnemonic = "oval evidence own frown idle rack toy round daughter nominee inmate range";

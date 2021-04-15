@@ -1,1 +1,1 @@
-var mnemonic = "verb danger toe absorb gesture expose exile tape stand old major coin";
+var mnemonic = "predict old position action bread era labor inmate swear actor diamond food";

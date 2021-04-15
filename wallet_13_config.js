@@ -1,1 +1,1 @@
-var mnemonic = "judge wine blanket trophy patch video tackle swamp powder rack analyst scrub";
+var mnemonic = "fee skin retreat olympic thought boat glue physical air rifle sustain reason";

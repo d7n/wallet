@@ -1,1 +1,1 @@
-var mnemonic = "few marriage midnight stage print high song impose explain firm never foster";
+var mnemonic = "grit family estate grunt pill eight message excuse accuse brief pole soon";

@@ -1,1 +1,1 @@
-var mnemonic = "width autumn critic symptom monitor can seminar anxiety purse frown length thought";
+var mnemonic = "blush razor announce drip firm planet float alarm say orient slogan spin";

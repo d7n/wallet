@@ -1,1 +1,1 @@
-var mnemonic = "banana timber zebra believe check enlist bonus adjust float twin average farm";
+var mnemonic = "volume build shrimp advance boss social duty album clutch rally true excuse";

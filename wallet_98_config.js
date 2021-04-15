@@ -1,1 +1,1 @@
-var mnemonic = "entry net demand tourist north jacket rally mandate trick couple allow sun";
+var mnemonic = "high symptom chunk exotic rent desert stomach lawn calm donkey cinnamon kiwi";

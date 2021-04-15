@@ -1,1 +1,1 @@
-var mnemonic = "elephant design wash obey dice erase size calm guide tomato depth toddler";
+var mnemonic = "lawsuit occur bacon stuff symptom increase galaxy unique pull meadow sibling apart";

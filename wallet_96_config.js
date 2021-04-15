@@ -1,1 +1,1 @@
-var mnemonic = "error photo dove melody isolate lunch craft glory world proof reduce armor";
+var mnemonic = "wheat glass remember climb cover thumb mutual novel horn spirit soda bulb";

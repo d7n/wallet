@@ -1,1 +1,1 @@
-var mnemonic = "two jazz appear slide random patrol system panel digital safe cram inform";
+var mnemonic = "much odor wise note clarify afraid session topic wide bright response shell";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom flame air frost silent vapor service surprise process repair moon hurdle";
+var mnemonic = "comfort wonder slide pool spell flash mutual public olympic present stand insane";

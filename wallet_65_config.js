@@ -1,1 +1,1 @@
-var mnemonic = "afraid wrap rebuild wolf napkin lottery tone portion affair unfold hold engage";
+var mnemonic = "million estate immense cotton drum industry gadget seminar ripple example accident monkey";

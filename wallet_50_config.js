@@ -1,1 +1,1 @@
-var mnemonic = "casino aerobic cousin away afraid indoor ladder license cave cabbage history unique";
+var mnemonic = "horror old holiday wool gorilla one inside few deny illegal mammal educate";

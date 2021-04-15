@@ -1,1 +1,1 @@
-var mnemonic = "swamp ginger bullet sauce hollow verify cricket nerve master unknown era monster";
+var mnemonic = "staff extra firm snow train steel adjust area cream embrace suit fringe";

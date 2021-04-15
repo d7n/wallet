@@ -1,1 +1,1 @@
-var mnemonic = "then bright bottom warm year shock pond else grain floor material choose";
+var mnemonic = "adult august neglect wolf master defy baby merit enhance venue faith sick";

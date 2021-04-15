@@ -1,1 +1,1 @@
-var mnemonic = "yard dose segment ketchup kiwi anxiety cart blur stool frog yard rug";
+var mnemonic = "second program hint nothing pledge task model tree joke update banner wreck";

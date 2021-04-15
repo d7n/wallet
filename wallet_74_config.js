@@ -1,1 +1,1 @@
-var mnemonic = "teach enlist hurt wrong sad atom runway hole spray sibling ocean coyote";
+var mnemonic = "bounce any pilot machine imitate remember aim decorate mercy quiz enable provide";

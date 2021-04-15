@@ -1,1 +1,1 @@
-var mnemonic = "nurse focus approve again avoid doctor symbol arrest festival proud pumpkin grass";
+var mnemonic = "judge scissors neutral brave panic detail infant embark chat waste mosquito comfort";

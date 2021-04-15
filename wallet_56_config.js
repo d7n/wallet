@@ -1,1 +1,1 @@
-var mnemonic = "bargain involve crush cool dad horror during bonus apology reason jelly much";
+var mnemonic = "decorate proof bacon december pilot hard lend surface rubber fragile rail pact";

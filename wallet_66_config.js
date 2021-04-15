@@ -1,1 +1,1 @@
-var mnemonic = "random shuffle range narrow suit wolf spatial siege attitude major fiber view";
+var mnemonic = "elder sea trophy grocery shoot october tunnel potato various sniff march want";

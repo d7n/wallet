@@ -1,1 +1,1 @@
-var mnemonic = "today benefit emerge system stay drill silk slot skin width bulb creek";
+var mnemonic = "round churn visa sadness reflect detail space price foster amazing evil casual";

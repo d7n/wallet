@@ -1,1 +1,1 @@
-var mnemonic = "device select mean thing trigger dilemma swarm rent bracket benefit hold west";
+var mnemonic = "tape rival grape sunset vague month fit silent jaguar loyal faith clinic";

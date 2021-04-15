@@ -1,1 +1,1 @@
-var mnemonic = "put quarter kidney tribe erase neglect quit post process ready speak hawk";
+var mnemonic = "cloth long ship ramp favorite wrap know skirt match accuse deposit entire";

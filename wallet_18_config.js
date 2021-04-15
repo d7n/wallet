@@ -1,1 +1,1 @@
-var mnemonic = "figure dial table hope drive decrease broccoli code admit copper want ginger";
+var mnemonic = "access market skill supply tag fragile pony above curious vast pet cube";

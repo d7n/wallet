@@ -1,1 +1,1 @@
-var mnemonic = "birth final caught blouse train awesome siege nephew region rely music behind";
+var mnemonic = "umbrella carbon panther river person island humble phrase viable slide upon review";

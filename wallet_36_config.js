@@ -1,1 +1,1 @@
-var mnemonic = "winner dust just race equal shove goddess adjust ostrich tired area flower";
+var mnemonic = "conduct caution waste print still group grunt attend come cousin elder electric";

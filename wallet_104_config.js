@@ -1,1 +1,1 @@
-var mnemonic = "occur bamboo mix easy grow raise volume jelly worry tiger marriage alone";
+var mnemonic = "jar interest visa gorilla runway habit fold theory dismiss between left reform";

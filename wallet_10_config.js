@@ -1,1 +1,1 @@
-var mnemonic = "hurry garlic floor elephant motor knock fine bacon siege cat pulse symbol";
+var mnemonic = "final escape update pave spell defy timber crush rare trigger half trick";

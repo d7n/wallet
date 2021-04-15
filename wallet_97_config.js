@@ -1,1 +1,1 @@
-var mnemonic = "sudden mask child mix pepper glue science fuel depart demand field mango";
+var mnemonic = "sibling six circle mobile gentle grass end bless thunder bag royal tool";

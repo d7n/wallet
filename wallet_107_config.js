@@ -1,1 +1,1 @@
-var mnemonic = "slab december enlist citizen meadow group kitten stand ancient stick leave rug";
+var mnemonic = "army obscure glimpse hill pear deposit walnut gauge boost clever quantum punch";

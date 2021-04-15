@@ -1,1 +1,1 @@
-var mnemonic = "wedding man dress advance sunny hub require shoulder harbor slim pitch vibrant";
+var mnemonic = "margin fish short fault episode garment hair crazy federal flame despair history";

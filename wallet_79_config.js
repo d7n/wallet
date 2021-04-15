@@ -1,1 +1,1 @@
-var mnemonic = "elevator science bulb depart whale flat curtain property case damage point spread";
+var mnemonic = "digital ivory valid ketchup strike stool verb crowd math cloud tackle buyer";

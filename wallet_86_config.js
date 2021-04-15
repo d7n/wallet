@@ -1,1 +1,1 @@
-var mnemonic = "demise captain topple stem venture action short already drum coast mystery cover";
+var mnemonic = "wide salon argue any season margin permit photo anchor retreat planet butter";

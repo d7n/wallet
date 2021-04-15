@@ -1,1 +1,1 @@
-var mnemonic = "expect surface chronic diet scene ridge afford avocado midnight lucky exhibit peanut";
+var mnemonic = "gasp option employ calm right mixture husband around warfare abstract boy evidence";

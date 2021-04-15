@@ -1,1 +1,1 @@
-var mnemonic = "rain cupboard gate shop raise steel chunk calm correct sister photo chronic";
+var mnemonic = "crater nation gap denial clarify lake pride wealth antenna resource slab age";

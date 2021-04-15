@@ -1,1 +1,1 @@
-var mnemonic = "south expand student wink pelican apart police margin color message profit digital";
+var mnemonic = "type smoke seed high style deny used piano lens rib hundred mule";

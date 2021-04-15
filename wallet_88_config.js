@@ -1,1 +1,1 @@
-var mnemonic = "owner expire scorpion maid quality obey improve dutch stamp dragon myself wasp";
+var mnemonic = "traffic solution gas squeeze cheap yellow surface legal rail abandon mom ripple";
