@@ -1,1 +1,1 @@
-var mnemonic = "search south spoon iron banana quote lizard team virus develop almost grit";
+var mnemonic = "chunk alley bike soon put festival gym candy faint pudding fish jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket example used bicycle exist close board thing capital source wild rice";
+var mnemonic = "tiger stage uncle report soap shaft siege brother park loop undo require";

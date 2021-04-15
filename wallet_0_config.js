@@ -1,1 +1,1 @@
-var mnemonic = "jealous join actual question zero margin cactus cash pill limit session target";
+var mnemonic = "spoon good trophy green suffer giggle coach sight pen olympic mass lend";

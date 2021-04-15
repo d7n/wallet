@@ -1,1 +1,1 @@
-var mnemonic = "ten anchor blouse kind help hour used amused diesel cook rapid naive";
+var mnemonic = "mushroom company outer busy dumb snap page kangaroo family reward release vicious";

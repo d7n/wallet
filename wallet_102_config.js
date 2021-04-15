@@ -1,1 +1,1 @@
-var mnemonic = "peasant sugar neglect card fix pond electric rail swift borrow army eyebrow";
+var mnemonic = "cricket appear arrive explain angry reopen object topic cheese flock abstract rely";

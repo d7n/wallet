@@ -1,1 +1,1 @@
-var mnemonic = "double wing gift hurry source trade lens siren dish winner olive denial";
+var mnemonic = "guess since boy bus feed sibling hen either twin priority bachelor moon";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt walk strong diet cream bright banana flip below inflict sphere slam";
+var mnemonic = "frown web engine party impulse credit piece hamster solid cause visual today";

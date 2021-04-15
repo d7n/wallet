@@ -1,1 +1,1 @@
-var mnemonic = "custom vivid scrap inform steak easily push library uncover tattoo verb crater";
+var mnemonic = "inject actor category second label pudding during lonely legend obscure whisper radar";

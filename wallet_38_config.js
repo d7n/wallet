@@ -1,1 +1,1 @@
-var mnemonic = "tilt right ankle cat electric also worth jungle tide into skull there";
+var mnemonic = "mansion narrow sell boss exist assist wealth refuse judge range syrup cupboard";

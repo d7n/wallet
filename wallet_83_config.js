@@ -1,1 +1,1 @@
-var mnemonic = "picture they skirt monitor sight word derive response melody merit cake acid";
+var mnemonic = "disease mansion credit argue amazing black shrimp unaware royal subject exhibit claim";

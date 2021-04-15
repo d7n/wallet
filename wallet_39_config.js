@@ -1,1 +1,1 @@
-var mnemonic = "draw flash steak swear napkin frame large olympic juice mad burst sphere";
+var mnemonic = "client pigeon knife wrist slow movie junior awful pottery note release fine";

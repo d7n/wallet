@@ -1,1 +1,1 @@
-var mnemonic = "cluster bar acid mind cute era globe duck hold naive bottom inside";
+var mnemonic = "season clap fresh change summer album glad staff couple off fetch wrong";

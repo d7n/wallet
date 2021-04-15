@@ -1,1 +1,1 @@
-var mnemonic = "thrive normal report rescue naive toilet clever tongue unaware high light snow";
+var mnemonic = "surprise lemon people task direct army knee ghost fringe satisfy mistake crew";

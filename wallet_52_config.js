@@ -1,1 +1,1 @@
-var mnemonic = "hair apology charge adapt resemble render false real urban lounge dilemma daring";
+var mnemonic = "grape capable antenna wrong drastic husband cover humble common behind cupboard spare";

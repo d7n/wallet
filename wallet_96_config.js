@@ -1,1 +1,1 @@
-var mnemonic = "round federal arrive silk public face lawsuit jealous amazing senior pride olive";
+var mnemonic = "pool leave summer never circle gather disease rose thunder achieve cram brown";

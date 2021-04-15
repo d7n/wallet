@@ -1,1 +1,1 @@
-var mnemonic = "list boring walk cupboard walnut always prosper shine science wedding extra unique";
+var mnemonic = "jealous clinic wide loud elbow spread hundred believe series enjoy social please";

@@ -1,1 +1,1 @@
-var mnemonic = "exist radio win kick sign vanish cargo supreme collect supply clump viable";
+var mnemonic = "honey thunder problem estate buffalo risk tribe grant fog piece behind senior";

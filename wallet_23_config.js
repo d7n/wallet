@@ -1,1 +1,1 @@
-var mnemonic = "echo regret shaft winter embark miracle dawn tongue pond spare flat online";
+var mnemonic = "shrimp online water arm finish inner initial erosion can pepper depend mango";

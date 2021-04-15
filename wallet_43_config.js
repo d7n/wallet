@@ -1,1 +1,1 @@
-var mnemonic = "connect concert embody floor stairs ship decorate creek cloth sort soap ripple";
+var mnemonic = "sunset collect inject rare zebra elevator mass hint hedgehog current aunt hole";

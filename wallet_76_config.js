@@ -1,1 +1,1 @@
-var mnemonic = "aisle more dutch struggle hospital immune corn evidence powder actor equip alone";
+var mnemonic = "rocket manage wreck amazing grit pull spider cruel okay arch such sound";

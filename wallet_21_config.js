@@ -1,1 +1,1 @@
-var mnemonic = "toward riot mixture slogan clerk fiber fly fringe top column crash senior";
+var mnemonic = "window slim swarm candy kingdom fruit stool divide wreck soul toss crowd";

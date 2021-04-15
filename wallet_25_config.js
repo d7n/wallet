@@ -1,1 +1,1 @@
-var mnemonic = "much welcome window video allow luggage lady actor stage bone civil stem";
+var mnemonic = "dwarf purse case brisk offer stumble order spoon eyebrow bone host average";

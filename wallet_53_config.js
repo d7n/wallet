@@ -1,1 +1,1 @@
-var mnemonic = "tower fragile erode receive sister utility cream diesel edit orbit regret stove";
+var mnemonic = "fresh subway popular occur glove grow trash frost drift olive spike six";

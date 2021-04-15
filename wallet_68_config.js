@@ -1,1 +1,1 @@
-var mnemonic = "style upper ribbon brother exhibit faint elder pattern speak gun armor south";
+var mnemonic = "vital robot about ketchup list pave clerk tumble upgrade arrive when grow";

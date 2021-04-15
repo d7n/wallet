@@ -1,1 +1,1 @@
-var mnemonic = "history please portion taste notable chest blind today code hungry will tortoise";
+var mnemonic = "chapter tuition club wheat rabbit humble avoid speak forest gauge coin stomach";

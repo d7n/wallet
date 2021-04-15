@@ -1,1 +1,1 @@
-var mnemonic = "cloth wool acid asset disease attitude soup vacant orchard swim inflict radio";
+var mnemonic = "human frozen tenant lemon critic gossip priority shaft broom minute situate rack";

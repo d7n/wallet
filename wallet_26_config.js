@@ -1,1 +1,1 @@
-var mnemonic = "fiction minute excuse march found mixture sleep pet vast month broccoli satoshi";
+var mnemonic = "hunt climb today polar crack bus donor mountain balance glove install genius";

@@ -1,1 +1,1 @@
-var mnemonic = "easily crater plastic embrace collect expand canal what floor creek buyer odor";
+var mnemonic = "stuff fire core bright hawk tornado faculty cabbage water fix absurd awake";

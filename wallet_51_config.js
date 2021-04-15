@@ -1,1 +1,1 @@
-var mnemonic = "unlock fire eye jungle tortoise debris remove post combine behave address indicate";
+var mnemonic = "twice saddle syrup wagon member elevator frost talent pole salmon amused initial";

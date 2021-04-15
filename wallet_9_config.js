@@ -1,1 +1,1 @@
-var mnemonic = "blast caught video reunion atom prize group state desk fire renew mean";
+var mnemonic = "wasp laundry remove blouse apology mushroom luggage want shuffle gaze nest lion";

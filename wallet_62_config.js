@@ -1,1 +1,1 @@
-var mnemonic = "amused maximum find price hazard build unlock enforce fat cave print dish";
+var mnemonic = "brother weasel swear trim melody bring badge effort team bomb marine divert";

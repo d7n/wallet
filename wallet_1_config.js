@@ -1,1 +1,1 @@
-var mnemonic = "struggle rough detect satisfy idea economy crawl enrich robust suspect snow until";
+var mnemonic = "strong calm unit aisle boost police banana tower diary daughter fat woman";

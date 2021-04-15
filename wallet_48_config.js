@@ -1,1 +1,1 @@
-var mnemonic = "degree order sleep typical second much matrix property smart all wealth puppy";
+var mnemonic = "pulp another find live armed empty lemon glare anxiety clinic rabbit question";

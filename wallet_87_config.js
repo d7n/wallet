@@ -1,1 +1,1 @@
-var mnemonic = "buzz luggage health sentence ranch siege govern round reason unveil vendor iron";
+var mnemonic = "shiver motor glare monster trick select term flush vendor mechanic inherit prison";

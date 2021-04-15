@@ -1,1 +1,1 @@
-var mnemonic = "bamboo blind rebuild thunder fire day lemon ketchup doll spray trip rapid";
+var mnemonic = "attract used large twelve venue profit stable shoot bone leisure vacuum dutch";

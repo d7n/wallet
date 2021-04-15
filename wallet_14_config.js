@@ -1,1 +1,1 @@
-var mnemonic = "quote achieve fatal kiss antenna jacket celery quiz behind disagree avoid prison";
+var mnemonic = "sponsor task boat finger whisper file fitness intact merge rule rough general";

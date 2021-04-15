@@ -1,1 +1,1 @@
-var mnemonic = "dilemma click pull exit police moral repair moon enact middle frequent claim";
+var mnemonic = "flavor shop disagree heavy truth behind arctic market grace cigar pupil crumble";

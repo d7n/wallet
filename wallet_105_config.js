@@ -1,1 +1,1 @@
-var mnemonic = "either owner beyond venue ozone analyst bid rifle effort tool question list";
+var mnemonic = "gossip junk seek rail gallery fish eight provide enact lottery collect sport";

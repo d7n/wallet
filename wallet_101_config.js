@@ -1,1 +1,1 @@
-var mnemonic = "general swap feel gun coconut stage unaware toast screen hybrid arrive cry";
+var mnemonic = "neglect series issue enroll injury case ivory family obey shoulder there cereal";

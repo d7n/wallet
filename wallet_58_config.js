@@ -1,1 +1,1 @@
-var mnemonic = "feed voyage finger kite member dream long boy vicious they shoot stamp";
+var mnemonic = "miracle squeeze give coyote inquiry achieve slush portion absurd knife torch oak";

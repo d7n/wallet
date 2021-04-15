@@ -1,1 +1,1 @@
-var mnemonic = "math festival soul name render pudding wood cake vessel exit like wasp";
+var mnemonic = "skill awesome enforce token require uphold choice sign behave roast eye orange";

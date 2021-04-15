@@ -1,1 +1,1 @@
-var mnemonic = "trip benefit better life resource update category uphold custom follow off liquid";
+var mnemonic = "question idea simple room donate stumble tool woman news panic soldier this";

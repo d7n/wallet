@@ -1,1 +1,1 @@
-var mnemonic = "patrol spray myth popular trend country opinion luxury police cruel acquire neither";
+var mnemonic = "mushroom noise anger unusual tuna fatal distance other client blush middle prevent";

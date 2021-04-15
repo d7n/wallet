@@ -1,1 +1,1 @@
-var mnemonic = "february raccoon tumble mosquito steel apple ready census robust bread six pluck";
+var mnemonic = "crater ozone slide elbow icon crunch that very faith amateur open neither";

@@ -1,1 +1,1 @@
-var mnemonic = "call evidence analyst history cup dog fault prosper dinosaur fame wine update";
+var mnemonic = "traffic mistake oak oblige train elegant ranch buyer feel spawn ladder avoid";

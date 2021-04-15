@@ -1,1 +1,1 @@
-var mnemonic = "aim foam doctor nominee loud pool spot over alpha forest indoor retire";
+var mnemonic = "cancel swallow life stand style estate fit obscure brave risk prepare clay";

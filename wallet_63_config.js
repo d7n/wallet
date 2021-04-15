@@ -1,1 +1,1 @@
-var mnemonic = "elite island patient sting alpha shiver muscle hazard suspect empty olive control";
+var mnemonic = "stove genre awake pave destroy pause hungry damage coconut pyramid melt electric";

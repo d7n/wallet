@@ -1,1 +1,1 @@
-var mnemonic = "order gown airport again lion field pupil crew stereo supply believe client";
+var mnemonic = "two urban during attract pilot slender review student woman ill ramp win";

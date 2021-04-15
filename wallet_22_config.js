@@ -1,1 +1,1 @@
-var mnemonic = "blue current wrap film bone camera lab task wage future gain problem";
+var mnemonic = "roof noise lake stage region endorse hard draft bone push admit candy";

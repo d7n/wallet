@@ -1,1 +1,1 @@
-var mnemonic = "bottom enter check super impact advice pass digital enjoy endless test debris";
+var mnemonic = "card impact guess wink accuse special size voyage fury case coconut indicate";

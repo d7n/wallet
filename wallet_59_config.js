@@ -1,1 +1,1 @@
-var mnemonic = "pipe document brand gentle erupt way audit disease gorilla output drift wait";
+var mnemonic = "cricket brick isolate risk gap game casual rabbit attack acoustic mass spider";

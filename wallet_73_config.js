@@ -1,1 +1,1 @@
-var mnemonic = "edit venture keep toward observe history deputy element photo elder minute pool";
+var mnemonic = "unique express put ranch bulk body praise amused drop picnic viable safe";

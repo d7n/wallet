@@ -1,1 +1,1 @@
-var mnemonic = "spider park situate forest iron panda badge flight naive palace bacon tag";
+var mnemonic = "kangaroo more minimum urge private travel impact shock price point silk captain";

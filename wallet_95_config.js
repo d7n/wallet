@@ -1,1 +1,1 @@
-var mnemonic = "spike ability hidden pull cliff corn pill canal mansion orient elder planet";
+var mnemonic = "party congress scissors aerobic sustain winner skate mansion unknown various tragic keen";

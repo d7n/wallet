@@ -1,1 +1,1 @@
-var mnemonic = "jewel raven bless dismiss ginger torch erosion deputy tag special opinion decade";
+var mnemonic = "hybrid afraid analyst control raw dress wrong frozen today saddle arena safe";

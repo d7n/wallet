@@ -1,1 +1,1 @@
-var mnemonic = "bag rapid bus measure ramp forum eager vivid asset eight tunnel range";
+var mnemonic = "hobby wide soft rough bean utility lake segment leopard alley video banner";

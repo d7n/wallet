@@ -1,1 +1,1 @@
-var mnemonic = "layer lake crazy still hidden shallow simple jaguar peanut start occur apology";
+var mnemonic = "now tornado mention naive cabbage twist true film van verify art siren";

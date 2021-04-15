@@ -1,1 +1,1 @@
-var mnemonic = "series early easily economy peace oblige great limb marriage claim column segment";
+var mnemonic = "lonely garlic above dilemma swift jump skate during draw describe eye victory";

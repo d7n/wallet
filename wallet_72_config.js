@@ -1,1 +1,1 @@
-var mnemonic = "funny enact toast bulk dry program uphold forest mad nephew metal announce";
+var mnemonic = "champion execute mom estate awake toast nest disorder toward melody limb bulb";

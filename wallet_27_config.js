@@ -1,1 +1,1 @@
-var mnemonic = "brand alone permit bring need patient blade boat twelve damp retreat frown";
+var mnemonic = "curious crisp mail laundry benefit bomb logic buddy sudden assume coil struggle";

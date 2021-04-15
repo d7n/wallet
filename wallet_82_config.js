@@ -1,1 +1,1 @@
-var mnemonic = "wedding reject either tape farm retire august spatial any story view toward";
+var mnemonic = "silent grid woman above install derive monster kit any clog tail sketch";

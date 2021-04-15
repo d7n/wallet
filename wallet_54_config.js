@@ -1,1 +1,1 @@
-var mnemonic = "sand verb bulk rail decline cry remember truth figure kit air gorilla";
+var mnemonic = "unable expire awesome tag wolf inch tube invite state wrist fold only";

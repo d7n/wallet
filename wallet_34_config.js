@@ -1,1 +1,1 @@
-var mnemonic = "measure demise report tent text away measure lizard mistake smooth spare glow";
+var mnemonic = "shop talent table market glimpse pipe believe corn shoe human plug grape";

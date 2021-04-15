@@ -1,1 +1,1 @@
-var mnemonic = "bird nose chest angry burden fringe walk iron card produce warm clutch";
+var mnemonic = "modify sphere gun supreme foam claw smart mosquito rich ordinary rate planet";

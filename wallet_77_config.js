@@ -1,1 +1,1 @@
-var mnemonic = "together seed amazing prefer dinosaur surround jewel car near lonely puzzle soap";
+var mnemonic = "ready enhance cluster guilt police venture oak grace front leg define obtain";

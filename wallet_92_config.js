@@ -1,1 +1,1 @@
-var mnemonic = "virus spy eight dinosaur luggage mutual bid copy giggle marble blossom torch";
+var mnemonic = "job crew attend medal resource exile option slender loud umbrella balcony coffee";

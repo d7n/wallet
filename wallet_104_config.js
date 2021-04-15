@@ -1,1 +1,1 @@
-var mnemonic = "staff flash link seek battle emotion this nephew shed region dwarf right";
+var mnemonic = "math problem infant kiss achieve air laugh tide solution ripple vacant fantasy";

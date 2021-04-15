@@ -1,1 +1,1 @@
-var mnemonic = "power panda voice tired wheat fox domain employ glove vault obscure cheap";
+var mnemonic = "siren tower faith trend tourist absorb when scrub deer giraffe genre garden";

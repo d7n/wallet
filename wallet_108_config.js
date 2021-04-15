@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon purity south object ritual inmate road claim fault health crew credit";
+var mnemonic = "subway sentence sample endless ocean stairs dose sleep enlist test bundle metal";

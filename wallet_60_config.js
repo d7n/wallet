@@ -1,1 +1,1 @@
-var mnemonic = "goat mix quiz chimney below zoo potato vacant topic cushion magnet best";
+var mnemonic = "floor faint pepper pave acquire dentist slide stage animal brave pepper fit";

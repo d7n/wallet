@@ -1,1 +1,1 @@
-var mnemonic = "off pyramid will school bullet warrior great nephew priority when age knee";
+var mnemonic = "lucky audit theory swap scale spread cute mesh junior dignity toward dutch";

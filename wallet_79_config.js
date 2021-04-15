@@ -1,1 +1,1 @@
-var mnemonic = "admit pole isolate fabric mad phone thought game hood board exhibit quick";
+var mnemonic = "hammer vehicle robust lake museum early news delay vivid guilt auto elite";

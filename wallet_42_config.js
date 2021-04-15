@@ -1,1 +1,1 @@
-var mnemonic = "novel make vacant flush beyond chimney trap adapt video nice maximum joy";
+var mnemonic = "spot laugh minimum robust drastic burger gown afraid image wool recycle wool";

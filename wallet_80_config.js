@@ -1,1 +1,1 @@
-var mnemonic = "august negative pen discover exotic vacuum lion patch belt chalk check bus";
+var mnemonic = "gossip cigar exercise vocal pact gown ketchup high hawk horse copy laptop";

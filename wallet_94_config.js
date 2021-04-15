@@ -1,1 +1,1 @@
-var mnemonic = "laundry palm immense sphere east input always sport slush atom grid flee";
+var mnemonic = "idea phone bleak speak ethics ramp sadness rug cream enough vapor cannon";

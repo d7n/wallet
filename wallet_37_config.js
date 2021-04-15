@@ -1,1 +1,1 @@
-var mnemonic = "toilet seek argue pupil cute major misery deliver worry huge acquire visit";
+var mnemonic = "festival series sauce razor good normal glare drum fringe alert hazard diagram";

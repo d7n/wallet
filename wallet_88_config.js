@@ -1,1 +1,1 @@
-var mnemonic = "random minimum earn robot inspire wedding manage purpose bind wreck domain dumb";
+var mnemonic = "kingdom valley hen miracle jacket zone slush desert glove surprise produce subject";

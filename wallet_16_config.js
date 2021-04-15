@@ -1,1 +1,1 @@
-var mnemonic = "joke agree token usage exercise setup bronze cannon country kingdom figure theory";
+var mnemonic = "gadget language decade kingdom clarify mimic stadium canoe silent sting gift curious";

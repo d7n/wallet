@@ -1,1 +1,1 @@
-var mnemonic = "surface olive amount please scene idle apart orbit reason potato twice regular";
+var mnemonic = "jar depend antenna equip pluck reveal sponsor adult cupboard sad ticket someone";

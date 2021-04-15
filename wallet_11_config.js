@@ -1,1 +1,1 @@
-var mnemonic = "detail unfold child audit wing minor faint feed gather foster talent orphan";
+var mnemonic = "office onion bundle hour viable twin blur bamboo damp ready carbon raw";

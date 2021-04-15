@@ -1,1 +1,1 @@
-var mnemonic = "shoulder casino lawsuit winter possible twelve earth teach wedding faint again oval";
+var mnemonic = "ice forward start patrol cup muffin high crack fruit damage uncle heart";

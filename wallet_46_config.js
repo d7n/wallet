@@ -1,1 +1,1 @@
-var mnemonic = "walk boost trouble improve wasp hundred element oblige height modify bonus whip";
+var mnemonic = "rug include struggle praise pole day pause stomach luxury mountain egg phrase";

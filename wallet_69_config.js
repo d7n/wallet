@@ -1,1 +1,1 @@
-var mnemonic = "month keep catch disease energy put victory affair tray task sick feel";
+var mnemonic = "another awful inhale raise coach ceiling tilt rich reopen pretty divert draw";

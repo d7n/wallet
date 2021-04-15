@@ -1,1 +1,1 @@
-var mnemonic = "shallow taxi trophy kiss tell erosion praise grunt more adult gentle income";
+var mnemonic = "speed long curve unveil pyramid hip rebuild cigar company dwarf subject source";

@@ -1,1 +1,1 @@
-var mnemonic = "army cat invest maple blouse habit planet include remain person believe hammer";
+var mnemonic = "tuition skin hole pride company account review whip you draw advance upset";

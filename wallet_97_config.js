@@ -1,1 +1,1 @@
-var mnemonic = "record proud square record when debate fit monkey solve turkey appear process";
+var mnemonic = "ginger search hedgehog mobile flee inch collect net prefer scene smart joke";

@@ -1,1 +1,1 @@
-var mnemonic = "foster spring pigeon deposit chair demise guide embrace push uphold clever wood";
+var mnemonic = "safe hint sponsor spin cereal bike faint code believe tone like there";

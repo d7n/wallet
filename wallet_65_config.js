@@ -1,1 +1,1 @@
-var mnemonic = "cool witness antique venture ethics treat chimney latin kiss axis flip brass";
+var mnemonic = "peanut gap stadium potato empower chalk planet sunset shuffle mercy neutral ethics";

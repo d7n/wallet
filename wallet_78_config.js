@@ -1,1 +1,1 @@
-var mnemonic = "ten wild glory assume walk brush moon fuel grace yard soldier guide";
+var mnemonic = "fog pride enjoy submit guitar brief symptom october picture sea clump phone";

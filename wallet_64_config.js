@@ -1,1 +1,1 @@
-var mnemonic = "jump struggle tip bounce pact birth census alien man bottom advance father";
+var mnemonic = "divide strategy angle tenant cattle weasel dish protect clap earth exhaust chronic";
