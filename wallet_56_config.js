@@ -1,1 +1,1 @@
-var mnemonic = "lion hedgehog present ring void smile rebel auction assist throw educate black";
+var mnemonic = "birth wisdom battle visual debris dress sketch enact detect wall green solution";

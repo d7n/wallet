@@ -1,1 +1,1 @@
-var mnemonic = "prevent say spare ketchup link sting member topple vault chapter swallow gospel";
+var mnemonic = "walk inflict dove thunder fun describe hazard unusual fire also swarm water";

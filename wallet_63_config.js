@@ -1,1 +1,1 @@
-var mnemonic = "cloud noble thank odor humble chaos panther tobacco journey wine deal type";
+var mnemonic = "special suffer sphere burst fortune disagree real unknown sugar common debate critic";

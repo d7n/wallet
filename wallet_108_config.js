@@ -1,1 +1,1 @@
-var mnemonic = "wild club boost remove degree glue choose boring jaguar camera poem egg";
+var mnemonic = "nothing dice empower motion paddle sausage win dash auction frozen write local";

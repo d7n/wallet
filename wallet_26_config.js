@@ -1,1 +1,1 @@
-var mnemonic = "hotel cricket drama scrub nasty health quick dry endorse effort defense crash";
+var mnemonic = "subway imitate visual shuffle odor romance tackle smile hungry neither fame staff";

@@ -1,1 +1,1 @@
-var mnemonic = "observe stereo country include purpose source average theory enlist whip dog filter";
+var mnemonic = "pumpkin arch response spray actress nut drop learn always sponsor stage bless";

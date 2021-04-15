@@ -1,1 +1,1 @@
-var mnemonic = "common fiber problem supreme lucky name urban orange make person math body";
+var mnemonic = "hero flee mixed reunion ancient eagle clip rich member erase battle way";

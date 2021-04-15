@@ -1,1 +1,1 @@
-var mnemonic = "doctor valley thrive link equal midnight toy pyramid delay ripple toilet burger";
+var mnemonic = "coffee hold cabin core novel innocent display upper reunion below blind atom";

@@ -1,1 +1,1 @@
-var mnemonic = "labor kiss age vote bottom gather exchange brush side also option edit";
+var mnemonic = "evil bind truth lake ecology anxiety pulp portion peace horn upper wave";

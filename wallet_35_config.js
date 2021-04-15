@@ -1,1 +1,1 @@
-var mnemonic = "adult meadow brief evolve wet enact marriage extend token pepper skill pact";
+var mnemonic = "country stereo fantasy identify lemon oval initial spare scale inherit genius match";

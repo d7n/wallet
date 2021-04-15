@@ -1,1 +1,1 @@
-var mnemonic = "south relief program agent arm choice nerve praise topic inmate vote symptom";
+var mnemonic = "limb surface group spider black faculty alcohol address glass unusual blanket mom";

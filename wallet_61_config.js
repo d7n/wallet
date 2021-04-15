@@ -1,1 +1,1 @@
-var mnemonic = "differ candy act fish sun field robust exclude cheap various crowd pumpkin";
+var mnemonic = "ride thumb common usage road ritual miss inside mass famous nose enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "casual pen actor virus resource around apart section rival embrace tennis during";
+var mnemonic = "hand robust palace vacant crowd myself cluster floor inch among dice misery";

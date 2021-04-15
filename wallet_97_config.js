@@ -1,1 +1,1 @@
-var mnemonic = "crazy gym hidden final joke spare giggle response laundry lunar police verb";
+var mnemonic = "genius cactus rescue paper athlete panic ethics invite cliff believe call wide";

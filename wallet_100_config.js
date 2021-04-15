@@ -1,1 +1,1 @@
-var mnemonic = "forum chair spawn flash anger where lake vast slender display purpose candy";
+var mnemonic = "finger switch hungry slot exact weird wing normal sport device skill away";

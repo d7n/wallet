@@ -1,1 +1,1 @@
-var mnemonic = "rhythm erase goat clog voyage also omit cave shove blast tunnel front";
+var mnemonic = "thumb dry brave erode resource click month distance struggle quarter doctor know";

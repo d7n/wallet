@@ -1,1 +1,1 @@
-var mnemonic = "dentist expect attend stock jaguar curious promote seek puppy short process shaft";
+var mnemonic = "few smoke spoil sponsor often throw pact inhale lumber fun kangaroo fabric";

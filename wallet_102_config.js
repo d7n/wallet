@@ -1,1 +1,1 @@
-var mnemonic = "combine whale develop drama cable rough limit humor card goat certain voyage";
+var mnemonic = "old million antenna major congress network reopen betray path fresh sketch symbol";

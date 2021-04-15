@@ -1,1 +1,1 @@
-var mnemonic = "buzz cake million anchor butter motion develop long summer snake daughter smooth";
+var mnemonic = "manual kiwi city release image reduce midnight ritual under swarm swing birth";

@@ -1,1 +1,1 @@
-var mnemonic = "wish punch often concert west hip silk move captain core patrol tool";
+var mnemonic = "vocal vintage sock impact biology blood camp update afraid bridge champion there";

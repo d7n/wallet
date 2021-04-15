@@ -1,1 +1,1 @@
-var mnemonic = "faith stool glad sword daring magic capital flight giraffe broccoli brain talent";
+var mnemonic = "bacon leader struggle case toddler lottery bus width board welcome congress bike";

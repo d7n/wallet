@@ -1,1 +1,1 @@
-var mnemonic = "chat lucky subject drift tumble expose pole young right beauty harbor observe";
+var mnemonic = "element gap future lesson clerk phrase night piano boost advance paddle ripple";

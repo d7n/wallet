@@ -1,1 +1,1 @@
-var mnemonic = "exhibit disagree strategy include head fix master seed defense antenna decorate image";
+var mnemonic = "source crush comic make person wreck dash need sound venture barrel tornado";

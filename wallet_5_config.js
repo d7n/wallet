@@ -1,1 +1,1 @@
-var mnemonic = "used blade vacuum announce item nose local puppy crazy lock cigar blue";
+var mnemonic = "shadow analyst frog pottery sick come arm work picture replace energy tail";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb awful busy minimum mixture agree radar east kit theme near only";
+var mnemonic = "oyster catalog client cannon dad order number burst benefit joke olympic skin";

@@ -1,1 +1,1 @@
-var mnemonic = "faint toilet kit hidden comfort despair strike number dog tree milk actor";
+var mnemonic = "spoil lady rigid shoot robust trend hero when federal tornado shrug surround";

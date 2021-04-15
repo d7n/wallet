@@ -1,1 +1,1 @@
-var mnemonic = "chunk excess pigeon wheel hub discover second chaos middle zone obscure hello";
+var mnemonic = "brand home candy decade senior frame tuition pen million ready onion security";

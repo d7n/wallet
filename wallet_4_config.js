@@ -1,1 +1,1 @@
-var mnemonic = "midnight burst ritual unable round genuine marriage borrow recall reason insane category";
+var mnemonic = "guide during size vocal asthma admit eight inquiry left session trick screen";

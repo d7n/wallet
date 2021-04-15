@@ -1,1 +1,1 @@
-var mnemonic = "stumble key eagle then crash wisdom broken police eagle glide inquiry want";
+var mnemonic = "rebel return ability ankle spice hurry response battle rubber fox banner juice";

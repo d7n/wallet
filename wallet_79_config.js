@@ -1,1 +1,1 @@
-var mnemonic = "bicycle crash behind photo awkward lonely nation eagle scrub lemon april firm";
+var mnemonic = "retire snow ostrich daring swear mad slide fossil point six circle when";

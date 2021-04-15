@@ -1,1 +1,1 @@
-var mnemonic = "sword goat angry lamp cage wealth pluck pilot only journey public taxi";
+var mnemonic = "salad else six vivid lizard oyster claw comfort elder convince task album";

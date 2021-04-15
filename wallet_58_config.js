@@ -1,1 +1,1 @@
-var mnemonic = "valve knife tip axis strike blast arrow acoustic marriage blast dilemma obtain";
+var mnemonic = "frozen whip swap scan color cake pear shoulder invest simple museum public";

@@ -1,1 +1,1 @@
-var mnemonic = "box derive bachelor fan market dignity normal behind horn elbow escape claim";
+var mnemonic = "prize aware either winter sleep crush couch pluck wife success grit puzzle";

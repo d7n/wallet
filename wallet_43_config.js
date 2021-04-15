@@ -1,1 +1,1 @@
-var mnemonic = "bus divorce woman matrix possible chuckle flavor excess donate recall reunion input";
+var mnemonic = "great rival decline opera reason can clutch oval aerobic tribe apart voice";

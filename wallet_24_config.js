@@ -1,1 +1,1 @@
-var mnemonic = "pitch chef color eagle auction miracle phrase grunt final club shiver visa";
+var mnemonic = "fence permit easily budget relax flip lend twelve shrug blind cricket skate";

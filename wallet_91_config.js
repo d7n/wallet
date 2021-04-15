@@ -1,1 +1,1 @@
-var mnemonic = "cargo exchange text bomb awesome grab orient runway coach razor tube slogan";
+var mnemonic = "silly fragile tonight leader exhaust produce possible ahead gospel unknown angle select";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead toddler ozone distance vessel hair miss usual barely rabbit oppose dinosaur";
+var mnemonic = "accident fame tip believe speak turtle door umbrella wood vague budget depart";

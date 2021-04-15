@@ -1,1 +1,1 @@
-var mnemonic = "famous fish girl glance identify pitch board toilet race human craft interest";
+var mnemonic = "illness observe index put happy report stuff cry treat crash bicycle crane";

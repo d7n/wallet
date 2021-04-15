@@ -1,1 +1,1 @@
-var mnemonic = "beach tide screen jump match ability cool witness action rice bone regret";
+var mnemonic = "buzz original album taste thing digital anger slice husband crouch zoo range";

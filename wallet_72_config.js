@@ -1,1 +1,1 @@
-var mnemonic = "sun dice trouble brand festival banner spare layer bamboo innocent negative wasp";
+var mnemonic = "elevator tobacco metal portion venture obtain stadium drama lecture hunt quality grid";

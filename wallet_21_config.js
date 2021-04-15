@@ -1,1 +1,1 @@
-var mnemonic = "avocado party depend between clown purchase paddle tiger wet spin garden acquire";
+var mnemonic = "boat until tuition must original lounge depend scale lake wife grape royal";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle always card arch since army pony ethics roast juice bachelor foster";
+var mnemonic = "cloth van adjust electric upper select raise wide birth toy slice kick";

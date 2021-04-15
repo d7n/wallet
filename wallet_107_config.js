@@ -1,1 +1,1 @@
-var mnemonic = "pony tribe juice world model mixed tell child shaft wire escape wine";
+var mnemonic = "hub coyote coach select miss sound shoulder enforce coyote shoulder dolphin below";

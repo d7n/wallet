@@ -1,1 +1,1 @@
-var mnemonic = "able vapor deposit wrist certain brand enter skin economy razor high alien";
+var mnemonic = "ready rain fan knock desk hat chase swim cake buzz taste correct";

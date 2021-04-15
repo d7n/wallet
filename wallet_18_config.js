@@ -1,1 +1,1 @@
-var mnemonic = "skate hunt lawn depth endless nerve size web strike bullet need soap";
+var mnemonic = "unique have drum wolf flight athlete shift empty sunset start planet nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "skin purpose flip win mammal zero access hole pencil next smart bicycle";
+var mnemonic = "bundle minor amount inch laundry grape disease hover admit tomorrow party very";

@@ -1,1 +1,1 @@
-var mnemonic = "connect legend brother merry trigger butter friend primary advance dumb problem define";
+var mnemonic = "eager again wide robust oval skirt cheap resource tennis worry brush adjust";

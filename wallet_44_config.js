@@ -1,1 +1,1 @@
-var mnemonic = "clap theory bargain draw great symptom lecture modify winner obscure giraffe divide";
+var mnemonic = "laptop green into cannon teach plate bag region draft gorilla olympic rain";

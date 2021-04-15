@@ -1,1 +1,1 @@
-var mnemonic = "kingdom document addict ring faint alcohol column general open audit viable park";
+var mnemonic = "modify buffalo dutch goose engage clock cluster three route neither skate bicycle";

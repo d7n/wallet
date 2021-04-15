@@ -1,1 +1,1 @@
-var mnemonic = "eager horse buyer truly quote spring pepper stone other museum trim tired";
+var mnemonic = "book bulk buzz hungry hill trouble fun frozen right nut cactus ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "burger goose jar fit stem mix confirm purity love credit response room";
+var mnemonic = "amateur journey base elegant item material century patient organ enact diesel valid";

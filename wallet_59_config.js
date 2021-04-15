@@ -1,1 +1,1 @@
-var mnemonic = "genuine oblige food movie traffic egg range eye still wide hint enforce";
+var mnemonic = "exact design math process velvet pear flat hour tray ship prize ball";

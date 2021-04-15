@@ -1,1 +1,1 @@
-var mnemonic = "female riot era vapor glance outside prevent angle guide vapor disorder impact";
+var mnemonic = "ramp arm badge leisure thing vacuum hint excite tape reform stairs impose";

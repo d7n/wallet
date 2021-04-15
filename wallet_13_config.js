@@ -1,1 +1,1 @@
-var mnemonic = "arrow sting embody job vessel join impulse organ almost next grant pottery";
+var mnemonic = "doctor expect bless apple damp fork shuffle broom wisdom news cave impose";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen year orange genuine lounge swim ensure fun sadness avocado torch chaos";
+var mnemonic = "glue online apology duck breeze include scout cliff blade soup steel sail";

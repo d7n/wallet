@@ -1,1 +1,1 @@
-var mnemonic = "riot float upon cinnamon photo carpet evil engine subject burden print melody";
+var mnemonic = "lawn know net regular rent rural until vapor cousin shove brisk gain";

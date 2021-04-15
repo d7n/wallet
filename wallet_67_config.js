@@ -1,1 +1,1 @@
-var mnemonic = "bus tobacco onion swear useful property burden luggage nominee chicken mesh enough";
+var mnemonic = "evolve walnut captain calm escape crystal puppy boss bless throw wrap fade";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle anger super monster news tortoise grocery kiss long reopen pottery hat";
+var mnemonic = "web burst unknown holiday drastic final inflict jar pond glove couple profit";

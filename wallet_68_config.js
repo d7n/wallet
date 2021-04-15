@@ -1,1 +1,1 @@
-var mnemonic = "inmate wide aunt nature fix state raccoon benefit version rifle thumb settle";
+var mnemonic = "region history write raccoon giggle broken manage tonight spot push solar reject";

@@ -1,1 +1,1 @@
-var mnemonic = "update chicken dash pattern trumpet clean noise pig forum choose army choose";
+var mnemonic = "mix kitchen capable worry color erupt hospital crystal clerk sauce vacant myself";

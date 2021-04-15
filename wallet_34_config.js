@@ -1,1 +1,1 @@
-var mnemonic = "regular talk pen leisure day blossom artefact grain earth desert swamp very";
+var mnemonic = "tiny similar diet bring certain mom bacon crater tornado heavy open member";

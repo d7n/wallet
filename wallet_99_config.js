@@ -1,1 +1,1 @@
-var mnemonic = "rug absorb shove any urge another toe crazy hire palm also give";
+var mnemonic = "patch question purpose click zero goose rally sniff march kid clog slam";

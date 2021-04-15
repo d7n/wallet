@@ -1,1 +1,1 @@
-var mnemonic = "charge shove toilet bamboo special dignity omit hair ring person female program";
+var mnemonic = "grab pitch lumber swarm relief outside island owner maze maze market rubber";

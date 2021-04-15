@@ -1,1 +1,1 @@
-var mnemonic = "security jealous stadium crouch voice veteran world lonely ridge wheel fragile volume";
+var mnemonic = "deposit master marine bless soccer survey citizen decorate skill kit empower warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "long express reform merge garment child planet divide ability morning occur occur";
+var mnemonic = "library unique gospel crush pause pride tail knife border try wasp vacuum";

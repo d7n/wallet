@@ -1,1 +1,1 @@
-var mnemonic = "sugar blush scrap draw museum anchor federal meadow hire memory attitude rebuild";
+var mnemonic = "example scout blanket voice butter mutual license minimum trash follow couch width";

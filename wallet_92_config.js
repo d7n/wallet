@@ -1,1 +1,1 @@
-var mnemonic = "plastic please enhance seat cave buyer exhibit label brown hungry number outdoor";
+var mnemonic = "hole hero stable total surge addict differ tell nose neither amused flat";

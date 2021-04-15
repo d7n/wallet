@@ -1,1 +1,1 @@
-var mnemonic = "engine special battle clean example glue august tone town energy banana speak";
+var mnemonic = "entire session guess predict logic october dune flight member fatigue sure umbrella";

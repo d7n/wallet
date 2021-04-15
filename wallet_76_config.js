@@ -1,1 +1,1 @@
-var mnemonic = "link venture hawk trend donkey rich swift chunk credit aunt sketch there";
+var mnemonic = "dismiss ticket rib gravity exact cement soap wasp spoil mother festival island";

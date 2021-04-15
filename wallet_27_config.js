@@ -1,1 +1,1 @@
-var mnemonic = "urge section congress beauty oven scissors crazy eternal book cheese gorilla answer";
+var mnemonic = "empower recycle argue asset gaze opinion quantum foot glue anxiety reunion topple";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas elite pottery ladder rule rate clip garlic doctor inquiry milk almost";
+var mnemonic = "drop bottom popular holiday hunt pulp volcano uphold reunion seven arm asset";

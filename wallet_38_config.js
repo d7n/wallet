@@ -1,1 +1,1 @@
-var mnemonic = "caught unaware parent grass behave execute pretty sort symbol this wrestle monster";
+var mnemonic = "answer version rapid relax alcohol vital token scare essay exact food friend";

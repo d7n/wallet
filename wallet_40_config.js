@@ -1,1 +1,1 @@
-var mnemonic = "radio future clever snack bus fossil produce warm audit lamp cloud calm";
+var mnemonic = "velvet kingdom quarter tiger mercy often junk brown dinosaur pupil tunnel length";

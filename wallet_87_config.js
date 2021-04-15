@@ -1,1 +1,1 @@
-var mnemonic = "letter faith shuffle humor around correct romance wonder cereal brass wine diary";
+var mnemonic = "below concert joke tongue theory goat rice plug purpose myself scare subject";

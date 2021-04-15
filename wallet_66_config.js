@@ -1,1 +1,1 @@
-var mnemonic = "civil sand oil lab video monster shallow sad predict educate melody jaguar";
+var mnemonic = "spring undo economy olympic give sadness album force pluck asset skirt blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor lawsuit peasant width sorry final prize version era deer vicious assault";
+var mnemonic = "put thing legend predict weapon behave harbor boss basic two huge must";

@@ -1,1 +1,1 @@
-var mnemonic = "grace sleep nothing thank farm fox window marble color museum gauge bus";
+var mnemonic = "main hour anchor power slow release brand path story toe casual ripple";

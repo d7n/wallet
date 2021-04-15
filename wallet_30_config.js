@@ -1,1 +1,1 @@
-var mnemonic = "attend way name dish silent begin prepare join dolphin glow end funny";
+var mnemonic = "myself antenna you nature prosper near awesome loan danger mimic shove afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "foam meat decrease chest filter fox oppose lunch easy fantasy flag timber";
+var mnemonic = "found walk cabin join spice faculty person jaguar era silver abandon rude";

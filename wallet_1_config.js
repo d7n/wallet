@@ -1,1 +1,1 @@
-var mnemonic = "discover achieve client baby slender thank sport absurd grain boss uphold time";
+var mnemonic = "build load hurry decide pig dune puzzle labor onion giraffe chicken steel";

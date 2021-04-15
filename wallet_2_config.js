@@ -1,1 +1,1 @@
-var mnemonic = "soon easy balance label matter service peace deer equip use basic either";
+var mnemonic = "decline achieve distance dice method hood salad club aerobic mimic crop autumn";

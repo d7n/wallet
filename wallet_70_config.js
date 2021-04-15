@@ -1,1 +1,1 @@
-var mnemonic = "possible captain turn police whip ginger into lesson fitness hundred chest live";
+var mnemonic = "reopen question pretty duck obscure coyote black side drift wrist wool carbon";

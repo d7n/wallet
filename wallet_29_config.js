@@ -1,1 +1,1 @@
-var mnemonic = "kind hedgehog tobacco capable very know pelican depend host bomb room shallow";
+var mnemonic = "air spike rotate general casino flat alien giraffe home city gift romance";

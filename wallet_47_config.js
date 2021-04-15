@@ -1,1 +1,1 @@
-var mnemonic = "embrace also also just taste crunch blade toddler nothing sort sadness oppose";
+var mnemonic = "federal recall wasp artefact pizza buyer capital illegal title express casino pave";
