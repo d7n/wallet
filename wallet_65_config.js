@@ -1,1 +1,1 @@
-var mnemonic = "wrap below pole milk waste taxi alarm venture pizza lobster bind ensure";
+var mnemonic = "still lobster digital act assume move glide original reform uncle little remember";

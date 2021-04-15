@@ -1,1 +1,1 @@
-var mnemonic = "fuel tip squirrel dolphin pool record argue reward pretty cotton humor blush";
+var mnemonic = "butter spell sword tank health lava title piano address vocal panther butter";

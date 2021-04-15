@@ -1,1 +1,1 @@
-var mnemonic = "sock lab tape fame term blanket fashion chunk brother protect grain winter";
+var mnemonic = "unveil open share tone grocery local media index melt magnet grunt vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "antique put unfair near used label void travel ginger diary slot expose";
+var mnemonic = "visual tragic crouch barrel major ranch capital move left evoke tank produce";

@@ -1,1 +1,1 @@
-var mnemonic = "derive never void olive news hockey twenty claw echo excite sphere buyer";
+var mnemonic = "pelican spin sea begin ice shove volcano upper cotton fabric orange brass";

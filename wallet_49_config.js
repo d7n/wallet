@@ -1,1 +1,1 @@
-var mnemonic = "alien method mention toast found job now rebel work letter blame maid";
+var mnemonic = "battle myth shy duty doctor appear trend sound taxi stay whisper axis";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney bunker junk eagle spawn blast this mesh excess acoustic traffic essay";
+var mnemonic = "spirit eager settle stay fat august quote label knee visa caught exchange";

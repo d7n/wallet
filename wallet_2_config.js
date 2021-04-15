@@ -1,1 +1,1 @@
-var mnemonic = "royal swallow road example shaft disagree truth black cloud snow solar acid";
+var mnemonic = "echo doctor aunt tired picnic prize nose atom answer tonight practice good";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday sunny inside antique sweet cat tonight shoe physical bitter disagree confirm";
+var mnemonic = "work turtle problem wash stomach wave ugly company much battle carpet venue";

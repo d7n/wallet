@@ -1,1 +1,1 @@
-var mnemonic = "include cable field then width bargain gentle plug unhappy question state soldier";
+var mnemonic = "lava green essence shaft army flag marine sick pond place notice winter";

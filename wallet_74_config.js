@@ -1,1 +1,1 @@
-var mnemonic = "together document famous often trap ship renew stick mixed among diagram web";
+var mnemonic = "coast dance switch nephew normal cinnamon umbrella horn proud shaft lawsuit broccoli";

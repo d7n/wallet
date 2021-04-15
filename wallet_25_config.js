@@ -1,1 +1,1 @@
-var mnemonic = "chicken canal glue diet grocery choose immune people face dentist defy draft";
+var mnemonic = "eight vault proud maximum flee net almost upon excuse file beach inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "estate assist inner laugh crazy dish ozone sting aerobic cabin eager casino";
+var mnemonic = "coil buddy stock worry muscle winter again before vicious follow shock cousin";

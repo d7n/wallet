@@ -1,1 +1,1 @@
-var mnemonic = "feed bread hunt entire water scout argue trade scrub science zero upgrade";
+var mnemonic = "crack pull private hurry stumble card remain grass gate comic pulse trial";

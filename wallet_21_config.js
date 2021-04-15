@@ -1,1 +1,1 @@
-var mnemonic = "logic hire clerk this salad cactus reason climb spell obscure chicken hood";
+var mnemonic = "moment object carbon another waste ritual wear away sponsor again wide girl";

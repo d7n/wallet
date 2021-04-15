@@ -1,1 +1,1 @@
-var mnemonic = "trick exile capable swallow increase aerobic member vocal aware cave casino level";
+var mnemonic = "cube soda suit install strong hover hazard crater start gauge keen source";

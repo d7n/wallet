@@ -1,1 +1,1 @@
-var mnemonic = "nurse help oyster hungry multiply canyon best orange helmet tree sign dial";
+var mnemonic = "pistol beyond fun lesson visit fault plug follow advice reduce fine abandon";

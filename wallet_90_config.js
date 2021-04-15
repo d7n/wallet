@@ -1,1 +1,1 @@
-var mnemonic = "sibling reopen soul unusual broccoli strike soon space rib fit faith make";
+var mnemonic = "focus laundry digital begin client remove fashion drama drum mother sorry valid";

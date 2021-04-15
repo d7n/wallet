@@ -1,1 +1,1 @@
-var mnemonic = "lottery black view radio rare intact leave mind cheese duty approve amazing";
+var mnemonic = "seminar clip fashion just rough fog addict wire arch impact animal bean";

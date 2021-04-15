@@ -1,1 +1,1 @@
-var mnemonic = "join mention cloth holiday wall soldier jump audit envelope poverty pluck toe";
+var mnemonic = "avoid retreat polar this comfort shrimp hen job market spray panic chaos";

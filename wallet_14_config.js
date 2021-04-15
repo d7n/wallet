@@ -1,1 +1,1 @@
-var mnemonic = "young lumber next follow twice soda sure kid inner chest screen weekend";
+var mnemonic = "document fault forward clip boil idle first month breeze clip chair body";

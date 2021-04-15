@@ -1,1 +1,1 @@
-var mnemonic = "sort insane visit clog kitchen fall amount caught marble lucky nephew clarify";
+var mnemonic = "lobster jar during best update barely dish stadium mimic clean collect tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "vault next clog swamp tank bonus balance blue prevent found letter neglect";
+var mnemonic = "vote magnet retreat initial link glare renew inhale image glad corn gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual predict chase skull potato leisure street thunder print sugar claw modify";
+var mnemonic = "eight since guide old young know maze discover shuffle glory scale release";

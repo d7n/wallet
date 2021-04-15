@@ -1,1 +1,1 @@
-var mnemonic = "struggle inside mistake bitter country hawk mesh steak airport clean grant sphere";
+var mnemonic = "myth mask defy nurse nothing kiss buyer soda gun canyon alien domain";

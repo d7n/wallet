@@ -1,1 +1,1 @@
-var mnemonic = "funny deny jar stove expect winner cliff grocery script motion pony lion";
+var mnemonic = "vital fortune palm grant toilet humble luxury ripple lend produce phone twice";

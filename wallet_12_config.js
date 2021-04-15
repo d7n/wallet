@@ -1,1 +1,1 @@
-var mnemonic = "game couple safe dove like account ridge track mind idea comfort wheat";
+var mnemonic = "render skill donor thing car hurt above tuition park aunt survey cool";

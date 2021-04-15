@@ -1,1 +1,1 @@
-var mnemonic = "perfect evoke blush bike stage program engage ecology input copper scorpion elephant";
+var mnemonic = "apple measure rigid cage cable demise express find patient side bundle scheme";

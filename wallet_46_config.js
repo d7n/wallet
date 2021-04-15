@@ -1,1 +1,1 @@
-var mnemonic = "ketchup normal enter thumb girl royal small join review key clown drive";
+var mnemonic = "roast split veteran tag winner laundry draft try circle tennis engage insect";

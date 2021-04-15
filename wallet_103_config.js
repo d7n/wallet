@@ -1,1 +1,1 @@
-var mnemonic = "flat fine squeeze scorpion veteran divert ketchup struggle misery skull call method";
+var mnemonic = "wish shuffle shift midnight scissors man arch object obey catalog radar chaos";

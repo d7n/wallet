@@ -1,1 +1,1 @@
-var mnemonic = "kitten violin hen guess slow pitch will draft leg junior useful squeeze";
+var mnemonic = "about prize holiday inject balance volcano room bamboo length rate melt castle";

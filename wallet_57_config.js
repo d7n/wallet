@@ -1,1 +1,1 @@
-var mnemonic = "note glide nose tilt market maximum patient timber tube swing stereo invite";
+var mnemonic = "gesture world come time seat flip curious dash depth custom path can";

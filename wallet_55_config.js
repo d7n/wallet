@@ -1,1 +1,1 @@
-var mnemonic = "spring brown umbrella machine toe zebra struggle wire genre february nerve shiver";
+var mnemonic = "gentle surprise bundle junk human amateur oval actress friend side stay glide";

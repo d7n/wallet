@@ -1,1 +1,1 @@
-var mnemonic = "welcome trade song cargo scout dance twist stairs alley warfare obvious use";
+var mnemonic = "rifle horror ring crucial blue donate kiss pattern health door shop tonight";

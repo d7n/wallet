@@ -1,1 +1,1 @@
-var mnemonic = "spray machine end benefit million genuine laundry they random siege bulb fashion";
+var mnemonic = "around agree resist also snake hope hope cherry chalk know quality gown";

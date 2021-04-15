@@ -1,1 +1,1 @@
-var mnemonic = "guess year surprise open blossom relief code wisdom kick unknown brisk eagle";
+var mnemonic = "sail end torch tornado resist series latin mean valve oil advance renew";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle burden lyrics rubber grief radar hunt absurd make idea quit hurdle";
+var mnemonic = "noise bid fitness pizza globe much minute property side bundle bridge flower";

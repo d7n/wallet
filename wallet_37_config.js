@@ -1,1 +1,1 @@
-var mnemonic = "smile second rotate until need risk keep brother decade flavor hat curve";
+var mnemonic = "intact sustain history aunt relax busy rude describe ridge legal point benefit";

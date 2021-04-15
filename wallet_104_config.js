@@ -1,1 +1,1 @@
-var mnemonic = "once tenant bomb initial blouse family plunge wish rule torch leg amazing";
+var mnemonic = "digital fruit cart sock across area soft ostrich assault chair treat drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "toss sleep lyrics add tourist glory rabbit sphere slam deal become over";
+var mnemonic = "tide track awesome ivory grief enable control siren fall derive alter slab";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis repair empower approve give face great have frequent joke cannon solar";
+var mnemonic = "sweet relief daughter labor exclude head fashion miracle diary elder school seat";

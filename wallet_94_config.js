@@ -1,1 +1,1 @@
-var mnemonic = "boss organ juice current angle live toss indoor tell car ordinary scrub";
+var mnemonic = "original priority laugh pact attend decade vapor head rigid gown brief street";

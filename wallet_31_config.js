@@ -1,1 +1,1 @@
-var mnemonic = "teach comic program unknown fold rib syrup evoke hunt chapter chair grid";
+var mnemonic = "adjust diary rely govern noble clog harvest cradle sense magnet wage portion";

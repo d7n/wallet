@@ -1,1 +1,1 @@
-var mnemonic = "police mammal chimney column erase tornado rare outside sail barrel lunar rocket";
+var mnemonic = "floor crane lunch famous cluster basic into turn side remind attract source";

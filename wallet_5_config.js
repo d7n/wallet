@@ -1,1 +1,1 @@
-var mnemonic = "better indicate grant fitness fork pioneer curtain butter purchase blush genre burger";
+var mnemonic = "meadow echo mention nominee truly draw rocket attract shoe insane ice hybrid";

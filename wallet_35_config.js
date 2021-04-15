@@ -1,1 +1,1 @@
-var mnemonic = "question that foam patrol gentle erase chapter decade drill supply approve bottom";
+var mnemonic = "prosper equip acid shell sentence village keen favorite supreme tattoo minimum tone";

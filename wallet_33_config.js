@@ -1,1 +1,1 @@
-var mnemonic = "twin nose fortune own invite tunnel humble turkey armed frog allow blind";
+var mnemonic = "guard disorder kiwi pony stable oppose humble cargo this erosion name man";

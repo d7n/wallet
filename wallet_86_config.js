@@ -1,1 +1,1 @@
-var mnemonic = "praise wet bulk door always section comfort vessel off dolphin guard enable";
+var mnemonic = "close suffer mix they toilet muscle strike drift swamp adult problem grass";

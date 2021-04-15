@@ -1,1 +1,1 @@
-var mnemonic = "short loud need smooth small common extra city confirm wrist lobster sponsor";
+var mnemonic = "velvet city luxury file side gossip road amateur during impact dynamic reform";

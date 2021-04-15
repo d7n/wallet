@@ -1,1 +1,1 @@
-var mnemonic = "perfect patch churn rich nose gorilla imitate milk casual always depart uniform";
+var mnemonic = "true elevator riot speak rotate mention fiber cross pink jazz diagram hope";

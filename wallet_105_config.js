@@ -1,1 +1,1 @@
-var mnemonic = "angle entire soldier chair uphold height way ghost spy banana clarify fetch";
+var mnemonic = "search fit purse birth punch pass parent answer bulk essay term refuse";

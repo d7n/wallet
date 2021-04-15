@@ -1,1 +1,1 @@
-var mnemonic = "love moon cabbage sheriff wish town deputy rain script usage together oyster";
+var mnemonic = "scorpion betray order second blade reject mother quarter company dress zebra blade";

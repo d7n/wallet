@@ -1,1 +1,1 @@
-var mnemonic = "surprise ship valve apple crazy talk million happy injury into high wrong";
+var mnemonic = "mosquito undo lounge cash quick enroll cry crazy brass health exchange bring";

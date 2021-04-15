@@ -1,1 +1,1 @@
-var mnemonic = "tackle fluid lamp wage cheap limit teach shed anchor eager attack dilemma";
+var mnemonic = "apology banana electric shift job ginger choice cover genuine skate pistol chef";

@@ -1,1 +1,1 @@
-var mnemonic = "company enact mind beyond artist avoid riot cereal cluster gown coral zoo";
+var mnemonic = "home leader state like lamp stem cabbage tribe novel romance need clock";

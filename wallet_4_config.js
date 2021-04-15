@@ -1,1 +1,1 @@
-var mnemonic = "author capital dinosaur situate banana ridge electric sell soon company unusual voice";
+var mnemonic = "flag dose like attack viable behave fly brief cherry detail army midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow ahead super allow phrase group assault thunder cargo once thumb silent";
+var mnemonic = "idea sick offer carbon hover girl invite budget tell belt artwork own";

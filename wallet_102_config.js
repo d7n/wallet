@@ -1,1 +1,1 @@
-var mnemonic = "velvet book abstract recycle shove diamond spare pulse profit skill wet organ";
+var mnemonic = "rely million atom clinic vicious song neglect express coffee plate try harsh";

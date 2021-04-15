@@ -1,1 +1,1 @@
-var mnemonic = "learn cloud park coil chase badge top cream leader celery fork boat";
+var mnemonic = "melody abuse mule dune scorpion lion warm combine error dance april razor";

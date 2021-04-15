@@ -1,1 +1,1 @@
-var mnemonic = "satisfy table deny notable exhibit increase quote extend upon verb danger jaguar";
+var mnemonic = "stable steel exact muscle exact puzzle strong link artefact put cruel maple";

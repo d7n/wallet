@@ -1,1 +1,1 @@
-var mnemonic = "silver used limit mistake mention soda lecture green scout stereo mail door";
+var mnemonic = "chapter together glance paper render nerve smooth canvas inhale invest nuclear arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "legal leopard sweet during frame tunnel barrel aspect deposit pipe voyage skirt";
+var mnemonic = "girl image ceiling wire claim phrase grape grunt celery salt style hero";

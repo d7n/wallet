@@ -1,1 +1,1 @@
-var mnemonic = "change good borrow farm snack rigid hidden east what lyrics decide faint";
+var mnemonic = "deposit home nurse entry faint frog double come wheat kangaroo letter trust";

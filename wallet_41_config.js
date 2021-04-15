@@ -1,1 +1,1 @@
-var mnemonic = "art spoon cute purse under obscure review glow absorb element bounce dolphin";
+var mnemonic = "jacket blossom machine speed fan lawsuit void emotion curtain poet hard behave";

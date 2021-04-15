@@ -1,1 +1,1 @@
-var mnemonic = "betray strike target close snake attend spring parade add shy taxi choose";
+var mnemonic = "silk venue hole finger thought material anchor indicate defy hole aware airport";

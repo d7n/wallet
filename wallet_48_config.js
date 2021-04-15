@@ -1,1 +1,1 @@
-var mnemonic = "relief broom increase cabin grunt school romance must frequent submit chest quick";
+var mnemonic = "empower below version shop monster scrap garment verb digital casual piece gadget";

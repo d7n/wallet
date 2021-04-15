@@ -1,1 +1,1 @@
-var mnemonic = "pact front warrior clown mouse sad tribe fat wing electric afraid pen";
+var mnemonic = "equip scrap wish belt earn tackle frame pig mention evidence hold short";

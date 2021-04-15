@@ -1,1 +1,1 @@
-var mnemonic = "orchard auto notable venture canyon bind cannon east have muffin report ritual";
+var mnemonic = "dirt mule sting fossil ship snake media stock woman throw salt elite";

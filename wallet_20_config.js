@@ -1,1 +1,1 @@
-var mnemonic = "motor lemon caught under churn tooth ticket demand series jewel million like";
+var mnemonic = "follow regret school caught logic transfer mixed heart coral young luxury cheap";

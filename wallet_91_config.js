@@ -1,1 +1,1 @@
-var mnemonic = "card acoustic express target general essence ranch airport convince render broken split";
+var mnemonic = "cotton pipe crack risk artwork vintage fury myth fever paper approve orphan";

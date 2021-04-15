@@ -1,1 +1,1 @@
-var mnemonic = "zone month grid dove plunge assault afford please hip monkey chimney fit";
+var mnemonic = "master scorpion early snap bag harsh try trip fame eight hungry else";

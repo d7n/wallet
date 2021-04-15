@@ -1,1 +1,1 @@
-var mnemonic = "little siege kite orphan better aunt bulk coconut celery hockey prison say";
+var mnemonic = "vacuum perfect fashion enroll arrow enroll tenant champion learn appear effort east";

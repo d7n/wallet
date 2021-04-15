@@ -1,1 +1,1 @@
-var mnemonic = "derive pistol legend spoon cycle method hood melt exile finish ability decide";
+var mnemonic = "tiger fit camera jazz warfare labor pistol long arrow decorate provide gaze";

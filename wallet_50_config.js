@@ -1,1 +1,1 @@
-var mnemonic = "debate seminar cake state three slender churn miss kit odor slender maple";
+var mnemonic = "memory bulb equip apart main disease museum vacant scrap submit narrow price";

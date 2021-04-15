@@ -1,1 +1,1 @@
-var mnemonic = "wife cool spawn cook minor umbrella dolphin cage border split undo color";
+var mnemonic = "rail ritual quarter place transfer jealous into drip tragic attract author daughter";

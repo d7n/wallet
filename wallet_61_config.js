@@ -1,1 +1,1 @@
-var mnemonic = "vital come gaze giggle cotton dune castle intact name mail enrich swamp";
+var mnemonic = "pair afraid cup flavor able hard kingdom mom able lemon spoil camera";

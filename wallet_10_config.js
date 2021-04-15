@@ -1,1 +1,1 @@
-var mnemonic = "orchard neutral cheap educate author rug hour wife tortoise accident chuckle later";
+var mnemonic = "clump tail box coin panel twin laundry call spawn butter panel float";

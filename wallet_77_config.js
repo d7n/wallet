@@ -1,1 +1,1 @@
-var mnemonic = "enhance trend foot west piece monster galaxy uniform laundry bracket blood weasel";
+var mnemonic = "fiction hawk hub spike slim ozone beach please coach shaft grass erode";

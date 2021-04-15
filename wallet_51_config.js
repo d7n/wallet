@@ -1,1 +1,1 @@
-var mnemonic = "insect sand gorilla fringe level base farm purse notice shallow slot aim";
+var mnemonic = "easily almost virtual erosion obtain merge lesson saddle pact cream pill gesture";

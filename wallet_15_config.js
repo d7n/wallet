@@ -1,1 +1,1 @@
-var mnemonic = "edge timber suit refuse chronic post furnace stool pipe flip choose artefact";
+var mnemonic = "manage need blood coach kit churn arrow oil endless whip adapt antique";

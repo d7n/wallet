@@ -1,1 +1,1 @@
-var mnemonic = "allow obscure lamp panic rescue angry gorilla result produce cloud exclude whip";
+var mnemonic = "rent course dignity unhappy idea upset fiber defense license resemble hold dragon";

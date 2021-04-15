@@ -1,1 +1,1 @@
-var mnemonic = "rack kingdom call rival antenna observe farm sausage bundle deputy angry frame";
+var mnemonic = "upgrade method later suggest ahead system reform visa return minimum axis correct";

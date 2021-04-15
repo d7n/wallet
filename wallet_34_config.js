@@ -1,1 +1,1 @@
-var mnemonic = "tiger foot layer above six squeeze venue kitten primary salute hurt obey";
+var mnemonic = "general remind exhaust inject gallery quantum fluid feel alone group hawk ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "jump issue attitude broken crew defense diesel fox ugly correct object art";
+var mnemonic = "wait bone scrap leisure card sick adult deer broken agent crazy depend";
