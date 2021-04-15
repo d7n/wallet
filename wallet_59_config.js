@@ -1,1 +1,1 @@
-var mnemonic = "bag very easily young advance dove raccoon rescue banner cargo enlist orient";
+var mnemonic = "ahead name appear wall opera female aunt lunar measure element project menu";

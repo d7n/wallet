@@ -1,1 +1,1 @@
-var mnemonic = "note pioneer exit tobacco turn flower twist eye bridge ivory become hip";
+var mnemonic = "warfare panic call market course purse job aunt orphan correct eyebrow allow";

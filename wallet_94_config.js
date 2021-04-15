@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon sorry term require together burden sleep puppy patch scrap divorce load";
+var mnemonic = "dice stock proof eternal rib great term focus inmate stomach glass usual";

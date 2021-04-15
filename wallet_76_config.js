@@ -1,1 +1,1 @@
-var mnemonic = "galaxy mechanic holiday aware magic arrive barely repeat motion member goddess dress";
+var mnemonic = "zone tray wedding cannon narrow curious sibling interest spend reason cargo guess";

@@ -1,1 +1,1 @@
-var mnemonic = "negative opera link path return visa zoo curtain rural outdoor goat music";
+var mnemonic = "parent honey priority exhaust success bicycle vapor stuff forward law question advance";

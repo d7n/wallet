@@ -1,1 +1,1 @@
-var mnemonic = "torch work holiday engine crouch chief artefact park liquid attend dynamic mobile";
+var mnemonic = "poverty cigar plastic pig spray deputy entire tool swing liquid nerve you";

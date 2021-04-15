@@ -1,1 +1,1 @@
-var mnemonic = "cannon when extend cross spice quit file ski soft virtual teach recycle";
+var mnemonic = "certain tail napkin assault promote asthma near become egg usage fetch census";

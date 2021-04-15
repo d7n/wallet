@@ -1,1 +1,1 @@
-var mnemonic = "sign oyster digital release forest manage awake dentist charge primary section south";
+var mnemonic = "key business aunt adjust idea shoe nose despair trick yard decorate clock";

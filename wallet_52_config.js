@@ -1,1 +1,1 @@
-var mnemonic = "film hat napkin garage increase execute analyst chef text eager skin exact";
+var mnemonic = "poet real velvet train old holiday present gallery alert tube junk nut";

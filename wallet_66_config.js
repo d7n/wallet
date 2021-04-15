@@ -1,1 +1,1 @@
-var mnemonic = "defense polar ugly cool sibling one culture tape noodle focus strike video";
+var mnemonic = "drink venue emotion supreme theme diesel until wrong cage curious daring eye";

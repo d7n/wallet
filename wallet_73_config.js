@@ -1,1 +1,1 @@
-var mnemonic = "shrug poet hamster garden dial near entire hazard visit deputy hidden hill";
+var mnemonic = "clap expand clarify sheriff orient hurt caution sand disease glide romance manage";

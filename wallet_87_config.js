@@ -1,1 +1,1 @@
-var mnemonic = "wide power wink degree mosquito core stuff certain banner indoor reflect peace";
+var mnemonic = "harsh depth hybrid inch science manage absent disagree thank clever rebel grief";

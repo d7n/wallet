@@ -1,1 +1,1 @@
-var mnemonic = "dance evolve doll funny process outer scare confirm fire oyster rural client";
+var mnemonic = "guide silk habit indicate fever ordinary season dream eagle crack maid cricket";

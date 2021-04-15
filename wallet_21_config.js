@@ -1,1 +1,1 @@
-var mnemonic = "palm sibling speed canvas detail ostrich narrow thank correct man fan poem";
+var mnemonic = "imitate observe that vacuum leg radar rice sure gym bird pigeon blur";

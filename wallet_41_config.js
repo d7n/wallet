@@ -1,1 +1,1 @@
-var mnemonic = "debris innocent during case left elite material carry reopen sand crop boy";
+var mnemonic = "vacuum patrol head category ride soul shock apple immense error more pupil";

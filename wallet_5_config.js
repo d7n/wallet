@@ -1,1 +1,1 @@
-var mnemonic = "name surface wrist asthma oven inquiry group push suit unlock woman top";
+var mnemonic = "clock below banana annual donor settle session ritual pupil world banana mistake";

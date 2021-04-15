@@ -1,1 +1,1 @@
-var mnemonic = "educate journey tourist assault program better bleak impact hill divide impose bundle";
+var mnemonic = "wheel sphere digital raw circle abstract female tool receive chapter truly goose";

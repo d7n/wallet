@@ -1,1 +1,1 @@
-var mnemonic = "flock switch planet unusual adjust rival slender select exercise render license clinic";
+var mnemonic = "alarm evil sheriff lesson absorb jungle wait remember local resist awkward symbol";

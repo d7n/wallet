@@ -1,1 +1,1 @@
-var mnemonic = "foster cry you image alert remember creek conduct three kiss soap virus";
+var mnemonic = "another mad tongue hire possible deal armed guess nose fence attack submit";

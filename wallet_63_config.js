@@ -1,1 +1,1 @@
-var mnemonic = "throw sea crowd ticket isolate spider wife found already priority heart trick";
+var mnemonic = "goddess slush swallow cube captain solid tuna task about fine artwork shoulder";

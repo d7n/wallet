@@ -1,1 +1,1 @@
-var mnemonic = "about medal vessel slogan broccoli chronic pudding census congress walk drama climb";
+var mnemonic = "spoil claw renew shock spy engage invite defy rocket nothing pipe canvas";

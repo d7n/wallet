@@ -1,1 +1,1 @@
-var mnemonic = "multiply shed piano dog section breeze shed parrot text divorce know drive";
+var mnemonic = "push obtain please hero enforce custom ready kind dumb decide element dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "slight bachelor embrace exhaust resource hawk antique fluid stereo funny season jar";
+var mnemonic = "scrub hole speed piano bone gather sock muffin enhance evidence moral issue";

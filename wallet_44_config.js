@@ -1,1 +1,1 @@
-var mnemonic = "garlic family staff civil party adult already indoor maze student column fringe";
+var mnemonic = "relax hip left media client give addict talk addict stage forum now";

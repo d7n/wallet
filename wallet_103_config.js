@@ -1,1 +1,1 @@
-var mnemonic = "accuse suit flavor fury oppose cliff much clock fresh human power eternal";
+var mnemonic = "write roof film mouse paper celery rhythm boring drama best devote jelly";

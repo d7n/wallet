@@ -1,1 +1,1 @@
-var mnemonic = "resource sustain finish tomorrow armor once buyer ribbon enable engage ski eight";
+var mnemonic = "silver across series route retire barely claim chalk cycle adapt page dash";

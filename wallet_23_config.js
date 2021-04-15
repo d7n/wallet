@@ -1,1 +1,1 @@
-var mnemonic = "maze girl noble bundle bid wrestle enough noise uncover boost fitness canal";
+var mnemonic = "uphold escape brand wash finger weather trade duck tired hold head unlock";

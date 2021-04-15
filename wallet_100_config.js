@@ -1,1 +1,1 @@
-var mnemonic = "eager action emotion make soup modify crime price ethics couple local name";
+var mnemonic = "nature accident tongue pumpkin road noise treat mind typical leopard pen act";

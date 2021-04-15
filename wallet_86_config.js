@@ -1,1 +1,1 @@
-var mnemonic = "body heart snack skirt surge gas veteran half ocean old hat lunar";
+var mnemonic = "mule clog share play amazing gown dash someone equal valley sword razor";

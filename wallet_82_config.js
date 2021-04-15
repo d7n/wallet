@@ -1,1 +1,1 @@
-var mnemonic = "barrel way access net seven require canvas into lion unhappy witness similar";
+var mnemonic = "rely donate month judge rude also shuffle physical another reveal guess install";

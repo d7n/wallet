@@ -1,1 +1,1 @@
-var mnemonic = "word hawk grant teach castle resource another lucky gold yellow gossip more";
+var mnemonic = "shield rare goat disorder sing owner helmet lumber census snap vicious oil";

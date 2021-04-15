@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon smooth live wagon stay uncover spoon speak infant frown credit sting";
+var mnemonic = "grid hour sustain toe tree still quarter nut best bomb regret common";

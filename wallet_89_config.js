@@ -1,1 +1,1 @@
-var mnemonic = "enjoy illness measure legend disorder chat pledge advance vintage tank alien wing";
+var mnemonic = "rice when profit casino razor pride recall mercy system reopen wall clump";

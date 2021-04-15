@@ -1,1 +1,1 @@
-var mnemonic = "stay dice whisper load nest devote blanket light gun okay inflict marble";
+var mnemonic = "awkward attitude theme check boss urge gas timber answer sweet rich auction";

@@ -1,1 +1,1 @@
-var mnemonic = "siege cattle differ pluck brave void law river peanut advice slogan whip";
+var mnemonic = "bitter napkin typical cover boring direct right swift injury magic topic will";

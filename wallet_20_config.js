@@ -1,1 +1,1 @@
-var mnemonic = "calm parrot mad mass metal raven man shed impulse nature simple eyebrow";
+var mnemonic = "force gallery audit exit bench radar crucial south hip large section rare";

@@ -1,1 +1,1 @@
-var mnemonic = "toward table forum wise wonder february husband salad swift wrap fan voice";
+var mnemonic = "current shadow action tree private animal earn below frozen trial street emerge";

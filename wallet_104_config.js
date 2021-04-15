@@ -1,1 +1,1 @@
-var mnemonic = "agree cover talent acoustic patch quiz myself cage border broom zebra foam";
+var mnemonic = "frost easy life mix stable journey series method sad bus code common";

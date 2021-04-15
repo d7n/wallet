@@ -1,1 +1,1 @@
-var mnemonic = "hen gym column tide label skill opera sad gauge dose crash legend";
+var mnemonic = "post tilt wet deposit crisp foam clump motion quality case chat anxiety";

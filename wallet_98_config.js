@@ -1,1 +1,1 @@
-var mnemonic = "response average churn toe castle property thing injury trip cool cabin sunny";
+var mnemonic = "scale phrase oil picnic shrug episode crawl use duty blind often blade";

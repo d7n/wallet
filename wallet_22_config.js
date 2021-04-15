@@ -1,1 +1,1 @@
-var mnemonic = "destroy rebel click deliver trick casino account eager old direct market siren";
+var mnemonic = "road feed receive place park evil merry guard beef mind boil situate";

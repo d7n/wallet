@@ -1,1 +1,1 @@
-var mnemonic = "simple build kitten kingdom note predict van buddy approve cactus siren job";
+var mnemonic = "hip rocket life kangaroo asset require carpet shop miss when field approve";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual glare dinner security stomach steak glad phone claim pull cave milk";
+var mnemonic = "host certain drill wait someone pyramid quote acid wink indicate raise buffalo";

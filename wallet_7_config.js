@@ -1,1 +1,1 @@
-var mnemonic = "entire under athlete physical ozone brick chunk cry just song item patch";
+var mnemonic = "donkey display stage sustain replace right huge badge bright despair rice unhappy";

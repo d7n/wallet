@@ -1,1 +1,1 @@
-var mnemonic = "bacon invite stable inside decide okay grief purchase access primary dragon ten";
+var mnemonic = "viable kiwi crisp steak good story secret dynamic dog visa grant leader";

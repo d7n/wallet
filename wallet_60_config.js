@@ -1,1 +1,1 @@
-var mnemonic = "define kind blame speak measure tuna educate champion glance jealous stairs shoulder";
+var mnemonic = "lunch come process cage talent enable describe civil chunk illegal fabric dial";

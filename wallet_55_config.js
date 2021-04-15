@@ -1,1 +1,1 @@
-var mnemonic = "rigid shoot axis trend employ match distance prosper idle sketch replace mystery";
+var mnemonic = "swap spend cost knock hybrid awesome razor farm sand witness erode arch";

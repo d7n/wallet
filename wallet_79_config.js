@@ -1,1 +1,1 @@
-var mnemonic = "ribbon economy core advance capital ability click short bone reason smile ceiling";
+var mnemonic = "satoshi prefer chef fringe situate couch mutual voice label giant hidden lawn";

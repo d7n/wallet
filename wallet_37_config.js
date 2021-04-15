@@ -1,1 +1,1 @@
-var mnemonic = "horror gold allow must demand pride resource diagram brisk awful fog find";
+var mnemonic = "achieve put library project rigid turn desert pyramid picnic brain crane describe";

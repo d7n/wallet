@@ -1,1 +1,1 @@
-var mnemonic = "planet feed loop armor symptom program woman mask world response school peace";
+var mnemonic = "kingdom scorpion glare obscure elbow cheap asset before approve sunny cart apple";

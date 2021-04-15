@@ -1,1 +1,1 @@
-var mnemonic = "noise wash frozen attack soul fly tumble true inherit egg proud charge";
+var mnemonic = "warm pet fun gown suit craft rigid mandate nest coin flame penalty";

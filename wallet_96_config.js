@@ -1,1 +1,1 @@
-var mnemonic = "answer myth wood original old host planet regret column clay ball senior";
+var mnemonic = "list siren audit enlist wagon rigid hunt silly token render social dune";

@@ -1,1 +1,1 @@
-var mnemonic = "cross claim pipe lonely empower river devote wasp grace suggest pudding assume";
+var mnemonic = "sting where stone shadow arrest rhythm task item circle argue miss mean";

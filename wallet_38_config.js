@@ -1,1 +1,1 @@
-var mnemonic = "slam avocado wish know suit urban lunch decorate idea drop dream nose";
+var mnemonic = "doll panda inject earth jealous glad sweet kite love fence earth boring";

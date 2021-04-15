@@ -1,1 +1,1 @@
-var mnemonic = "never oyster bulk whale pyramid shiver clap slot slam early equal reason";
+var mnemonic = "frame ahead lawn fruit female input below umbrella network viable situate suit";

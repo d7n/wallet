@@ -1,1 +1,1 @@
-var mnemonic = "first check height glory dust breeze blossom liar path believe solution install";
+var mnemonic = "erase luxury frost orange eye era elephant cherry shoulder grocery phrase they";

@@ -1,1 +1,1 @@
-var mnemonic = "sand turtle wild claim creek train donor magic bone giraffe bomb element";
+var mnemonic = "defy bullet kingdom unlock swarm maid decorate protect heavy sting nerve axis";

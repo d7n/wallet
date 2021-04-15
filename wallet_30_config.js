@@ -1,1 +1,1 @@
-var mnemonic = "define wet deny flower supreme prepare obvious eyebrow glow mushroom stable whale";
+var mnemonic = "prison gate safe camera inject wagon kick emotion obscure hole sound depart";

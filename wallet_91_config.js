@@ -1,1 +1,1 @@
-var mnemonic = "vacuum they equal permit strong clock maze secret bulk knock bulb rely";
+var mnemonic = "below now soap milk soccer key dish stay inmate trick embrace benefit";

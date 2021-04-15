@@ -1,1 +1,1 @@
-var mnemonic = "merit rhythm note cupboard idea deposit suggest glance rib rug come donkey";
+var mnemonic = "cabbage section spike prepare way reform extra ginger bachelor zero add finger";

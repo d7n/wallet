@@ -1,1 +1,1 @@
-var mnemonic = "patient chef cause reveal film anger differ neck foam wreck pool various";
+var mnemonic = "nerve seed mystery moment volcano damp abuse boy depart reunion animal prefer";

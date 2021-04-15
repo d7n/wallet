@@ -1,1 +1,1 @@
-var mnemonic = "found margin try artefact flight arch butter industry pizza ticket trigger bottom";
+var mnemonic = "allow smooth balcony copy brush crane hurt renew female olympic test toy";

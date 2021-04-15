@@ -1,1 +1,1 @@
-var mnemonic = "middle switch lawn young disagree fish solution sight auto buyer merry fall";
+var mnemonic = "floor famous process lava make whisper scheme upgrade pistol engage sunset elegant";

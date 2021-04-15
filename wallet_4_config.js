@@ -1,1 +1,1 @@
-var mnemonic = "shiver garlic rebuild boy actual soup custom trust enter major sword mention";
+var mnemonic = "roast verify shoulder knock ranch usage lava fresh toddler fury peanut ethics";

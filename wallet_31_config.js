@@ -1,1 +1,1 @@
-var mnemonic = "soft used crash window raise document couch panther stadium eager fiction happy";
+var mnemonic = "monster viable script slim approve delay stereo energy river army chimney limit";

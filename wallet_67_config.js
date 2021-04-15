@@ -1,1 +1,1 @@
-var mnemonic = "approve street salt curtain sight aware achieve similar castle tissue inflict fruit";
+var mnemonic = "much health alone plug winter bean position mind actual slam identify aerobic";

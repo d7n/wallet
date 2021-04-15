@@ -1,1 +1,1 @@
-var mnemonic = "script metal swap such treat twice squirrel news shallow debris vocal salon";
+var mnemonic = "crouch degree fury hat avoid average lunch daughter inquiry ginger job slim";

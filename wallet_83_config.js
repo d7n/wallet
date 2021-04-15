@@ -1,1 +1,1 @@
-var mnemonic = "diary reopen cube frequent gesture prepare spring start differ carbon mixture phone";
+var mnemonic = "casino near favorite cost bus right hint sunset label host enlist since";

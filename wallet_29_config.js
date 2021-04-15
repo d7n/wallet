@@ -1,1 +1,1 @@
-var mnemonic = "lemon bean inner clarify patch ticket unfold scout inherit cargo ordinary sock";
+var mnemonic = "inherit topic panel spatial brief plate fall spot tourist deal raw lawsuit";

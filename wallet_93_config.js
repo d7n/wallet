@@ -1,1 +1,1 @@
-var mnemonic = "pond idea festival awesome era lonely parent dignity maximum enable ethics cattle";
+var mnemonic = "coconut enhance boring habit staff ship spatial paper remain vacant milk upper";

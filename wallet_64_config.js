@@ -1,1 +1,1 @@
-var mnemonic = "detect hurdle sense abuse vocal uphold orbit atom deposit attitude accuse assume";
+var mnemonic = "item best marine into grace step clip moon exile envelope layer hood";

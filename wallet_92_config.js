@@ -1,1 +1,1 @@
-var mnemonic = "alpha kind shock slight canyon canal chalk age key amused copper oven";
+var mnemonic = "endless route volume rubber foster unfair volume raven write monkey sorry cheap";

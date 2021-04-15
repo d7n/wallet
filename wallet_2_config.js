@@ -1,1 +1,1 @@
-var mnemonic = "tool nurse level fossil plug breeze empty involve vital bright false morning";
+var mnemonic = "surround clerk skate deputy air umbrella engage opinion please skill expand unit";

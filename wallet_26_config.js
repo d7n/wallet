@@ -1,1 +1,1 @@
-var mnemonic = "salt alarm era motor face rent abstract race farm space absurd team";
+var mnemonic = "sketch expose farm behave boring script dose length tennis home lonely upset";

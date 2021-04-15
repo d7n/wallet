@@ -1,1 +1,1 @@
-var mnemonic = "woman behave medal swallow lunar smoke salmon goddess reflect supreme cute funny";
+var mnemonic = "paddle purpose material party review segment execute train intact whale spare unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney cable then denial pave prevent ripple dawn black reveal diet habit";
+var mnemonic = "guide food shrug movie taxi elbow predict level denial kit language crater";

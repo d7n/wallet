@@ -1,1 +1,1 @@
-var mnemonic = "praise furnace shallow pool drill foster car innocent tip scale wire hollow";
+var mnemonic = "shadow energy jump above layer state omit fire antenna keen decide vote";

@@ -1,1 +1,1 @@
-var mnemonic = "network gaze moment unit pass custom story tunnel man load forest gadget";
+var mnemonic = "update cave you caution raise stem know common possible label bulk element";

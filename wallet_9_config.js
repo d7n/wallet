@@ -1,1 +1,1 @@
-var mnemonic = "stick market strike knife wedding impact advance depend million mind label gentle";
+var mnemonic = "steak stamp must shift creek blood equal return invite surface point never";

@@ -1,1 +1,1 @@
-var mnemonic = "project orphan craft lucky hundred current gorilla science work eagle topic describe";
+var mnemonic = "coin love finger ski reveal flee crowd orbit dolphin ensure satoshi decorate";

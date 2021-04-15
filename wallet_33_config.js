@@ -1,1 +1,1 @@
-var mnemonic = "margin fitness select merge hungry mistake warm glad cable unit tomorrow stone";
+var mnemonic = "bone fiber derive mean moment eyebrow like icon pulse basket black endorse";

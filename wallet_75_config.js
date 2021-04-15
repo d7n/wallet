@@ -1,1 +1,1 @@
-var mnemonic = "early believe recipe area entry width switch day creek asthma fetch buddy";
+var mnemonic = "extend busy mirror rain fiction govern bird cake rapid age bridge aerobic";

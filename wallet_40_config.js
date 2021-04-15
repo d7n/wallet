@@ -1,1 +1,1 @@
-var mnemonic = "together drill penalty reduce pulp section hen height concert shove grid alley";
+var mnemonic = "fun prefer vapor crumble grace satoshi actress fault quarter home rookie praise";

@@ -1,1 +1,1 @@
-var mnemonic = "flag measure steak permit wheat debris slab youth usual glory judge diet";
+var mnemonic = "review midnight arrange symbol short path around hill acoustic glance topic betray";

@@ -1,1 +1,1 @@
-var mnemonic = "provide arctic develop unhappy ice marine lyrics thank twelve acoustic canoe camera";
+var mnemonic = "minor glad because picture knife walk ugly rice wreck fetch second dizzy";

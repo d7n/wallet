@@ -1,1 +1,1 @@
-var mnemonic = "category void canvas output still gorilla rare three scene nasty laundry love";
+var mnemonic = "bounce total robust discover erupt later cactus beach equip crane guess arm";
