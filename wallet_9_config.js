@@ -1,1 +1,1 @@
-var mnemonic = "rebuild holiday raven input grow master skate zoo truth also engage phrase";
+var mnemonic = "seek draft dinosaur kangaroo opera explain silver grow disease dial very mirror";

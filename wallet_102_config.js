@@ -1,1 +1,1 @@
-var mnemonic = "child garbage burden cash fat swim inquiry retire faculty chronic pistol marine";
+var mnemonic = "sibling artist rack twelve accident ship depth waste other quiz wrist board";

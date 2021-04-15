@@ -1,1 +1,1 @@
-var mnemonic = "act document noble slim raw punch summer fog fantasy draft fruit master";
+var mnemonic = "hub artist idea actual arctic purpose inch throw hawk audit goose mammal";

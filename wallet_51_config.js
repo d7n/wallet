@@ -1,1 +1,1 @@
-var mnemonic = "nut merit material crystal bundle engage embrace feel else paddle year safe";
+var mnemonic = "castle wheat broom loop parrot attack cloud cupboard uniform nose kitchen knock";

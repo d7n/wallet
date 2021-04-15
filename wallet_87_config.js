@@ -1,1 +1,1 @@
-var mnemonic = "brand brief fox tissue adult zoo depth weapon penalty torch fiber gospel";
+var mnemonic = "divide alien turtle come helmet chaos group title lawn dance fury erosion";

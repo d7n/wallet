@@ -1,1 +1,1 @@
-var mnemonic = "viable elite scrub donate next august elevator census guitar coyote remember prepare";
+var mnemonic = "oyster west shy increase run oil bread shift task divert post shift";

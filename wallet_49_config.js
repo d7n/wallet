@@ -1,1 +1,1 @@
-var mnemonic = "like cost accident patient cotton spin debris aspect cruise point notable increase";
+var mnemonic = "glory home slight make require tower behind unlock measure boil plastic reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze shadow cigar palace vanish connect sock pigeon logic sail transfer idea";
+var mnemonic = "region dutch settle fatigue rail myself latin forum toy absorb citizen memory";

@@ -1,1 +1,1 @@
-var mnemonic = "witness autumn silk gasp large lobster illegal endorse title rail later vanish";
+var mnemonic = "obtain forest hand sort vendor festival solve parent setup height zebra joy";

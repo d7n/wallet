@@ -1,1 +1,1 @@
-var mnemonic = "gadget forget edge float rich liberty useless forward phone sadness urban draw";
+var mnemonic = "frozen awkward test soon knife view section notable goose occur gloom catch";

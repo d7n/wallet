@@ -1,1 +1,1 @@
-var mnemonic = "give orient guard usage bronze horse fiction hundred real reform whip urban";
+var mnemonic = "laptop series regular already token observe border math inch approve swing debris";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard grant negative depart debris situate recipe jungle flush hedgehog wide cash";
+var mnemonic = "detect ball weapon inmate claim spring open feel lamp scale marine fix";

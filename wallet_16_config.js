@@ -1,1 +1,1 @@
-var mnemonic = "apple slender soul pepper misery castle rug satoshi hill tiny reveal cream";
+var mnemonic = "genuine cram coast fine tag truck immense property canal fetch muscle nation";

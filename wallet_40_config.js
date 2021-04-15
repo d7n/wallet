@@ -1,1 +1,1 @@
-var mnemonic = "then bridge choose cruel flavor either village resist mercy flag labor hen";
+var mnemonic = "fashion tank venture reward balcony mango first situate ankle vintage journey clever";

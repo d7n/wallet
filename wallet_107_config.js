@@ -1,1 +1,1 @@
-var mnemonic = "cigar chat lazy brass pluck party surge boy wrestle prison also unable";
+var mnemonic = "round provide comic lion love other convince pretty profit market empower churn";

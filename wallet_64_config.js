@@ -1,1 +1,1 @@
-var mnemonic = "coffee chat edge copy dream pigeon eyebrow duty crystal filter fiction rare";
+var mnemonic = "impose couple chase risk debris open tone scan morning uphold small expand";

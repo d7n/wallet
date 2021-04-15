@@ -1,1 +1,1 @@
-var mnemonic = "genuine barrel fantasy hamster chat nurse cinnamon coconut naive dune indoor upon";
+var mnemonic = "ordinary arm maximum swap few car despair beauty earth slender toddler present";

@@ -1,1 +1,1 @@
-var mnemonic = "image weekend above move excite second wealth detect total hole rigid rug";
+var mnemonic = "dirt disease cram husband slab evoke kangaroo aim always danger rule similar";

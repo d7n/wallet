@@ -1,1 +1,1 @@
-var mnemonic = "ten this book cup maze defense barely better ladder found forget piano";
+var mnemonic = "era layer exist discover love sun split lazy detect spatial secret repair";

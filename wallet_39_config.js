@@ -1,1 +1,1 @@
-var mnemonic = "invest flavor raccoon response scheme require client bottom sport demise badge myself";
+var mnemonic = "female deputy orphan gun exercise type frost improve machine display figure lyrics";

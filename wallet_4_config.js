@@ -1,1 +1,1 @@
-var mnemonic = "dress decade pottery twenty onion sustain ball sing industry borrow barrel drink";
+var mnemonic = "split sell spirit visit hen balcony vote evidence picnic vocal snack seek";

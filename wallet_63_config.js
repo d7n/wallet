@@ -1,1 +1,1 @@
-var mnemonic = "vivid busy share embark camp gain very nerve coral fury opinion arrange";
+var mnemonic = "injury right random subway gold wheel taxi uphold relax wasp coffee awkward";

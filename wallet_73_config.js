@@ -1,1 +1,1 @@
-var mnemonic = "volume business bring rhythm hen sentence pepper exist dust job main bubble";
+var mnemonic = "rival save better square deputy rubber insane mom inject mixture village trick";

@@ -1,1 +1,1 @@
-var mnemonic = "speak follow stay exchange accident arm brother thank tube uncover blame theory";
+var mnemonic = "beauty style muscle door high luggage soon just jaguar ketchup thrive way";

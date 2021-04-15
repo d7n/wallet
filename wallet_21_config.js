@@ -1,1 +1,1 @@
-var mnemonic = "woman squeeze field angry place address heavy fetch order excite face useless";
+var mnemonic = "lunch farm bracket interest route shine business pair one alert flee antique";

@@ -1,1 +1,1 @@
-var mnemonic = "soon then bargain another menu rebel trigger waste bread lab green reopen";
+var mnemonic = "raven chunk liar neutral sing middle meat derive spike affair leopard brass";

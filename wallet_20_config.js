@@ -1,1 +1,1 @@
-var mnemonic = "float slice alert muscle kitten place capable mouse vocal milk public romance";
+var mnemonic = "another sunny drift blue effort artist crater pyramid upgrade castle squirrel extend";

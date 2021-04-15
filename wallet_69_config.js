@@ -1,1 +1,1 @@
-var mnemonic = "current escape sock message album memory proof fitness cart silent wheel dolphin";
+var mnemonic = "forum above cluster shift salute ecology grunt resemble athlete enemy spike garden";

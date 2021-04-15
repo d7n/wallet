@@ -1,1 +1,1 @@
-var mnemonic = "page film trumpet surge baby interest camp remain judge any illegal hero";
+var mnemonic = "mention silk angle bomb tone leisure tube nose limit invest shoot wonder";

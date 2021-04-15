@@ -1,1 +1,1 @@
-var mnemonic = "member off list outdoor vehicle lecture panther check electric drop provide sausage";
+var mnemonic = "future deer mirror march alert hip rabbit half fine boil mass wisdom";

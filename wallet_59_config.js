@@ -1,1 +1,1 @@
-var mnemonic = "domain father brain kingdom pottery churn hour gasp cannon collect acoustic gift";
+var mnemonic = "force field always divert feed fine skirt spider common void story thunder";

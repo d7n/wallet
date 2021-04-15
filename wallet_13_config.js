@@ -1,1 +1,1 @@
-var mnemonic = "shiver various point song wood basic ginger boil elephant quit echo merry";
+var mnemonic = "boring warrior egg badge vanish fade coyote omit rigid parent debate wealth";

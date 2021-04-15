@@ -1,1 +1,1 @@
-var mnemonic = "find comic job length pottery cause minor deliver snake cat brand thing";
+var mnemonic = "candy advice tuition doll fringe balance demand clever bean alpha scare obey";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred observe core click obtain extend super wrap husband cave cage assault";
+var mnemonic = "panel twist cricket travel story penalty dice glare member flee balcony faith";

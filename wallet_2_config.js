@@ -1,1 +1,1 @@
-var mnemonic = "midnight identify safe extra exotic boat pumpkin fit position desk spread giraffe";
+var mnemonic = "churn sudden plastic number crack flame letter glad radio stomach hurt index";

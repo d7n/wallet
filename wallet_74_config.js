@@ -1,1 +1,1 @@
-var mnemonic = "canyon bomb good school forget room rescue design soldier digital unaware maximum";
+var mnemonic = "afraid spoon hub art bleak cinnamon tail zoo mango panda slogan engage";

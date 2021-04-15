@@ -1,1 +1,1 @@
-var mnemonic = "vivid fly dynamic fan gallery economy retreat vanish grain symptom punch cluster";
+var mnemonic = "gold coil transfer skirt dismiss gesture drastic narrow oblige stereo nut awake";

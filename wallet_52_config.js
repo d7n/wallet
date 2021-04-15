@@ -1,1 +1,1 @@
-var mnemonic = "violin ribbon almost boat stairs love tool divert pyramid expand travel velvet";
+var mnemonic = "course capital survey resist bread leg toss awake depth social brisk method";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt piece fuel wrap clay universe tone guitar movie night volume clerk";
+var mnemonic = "another actor nothing nest puzzle library borrow minute annual wool rough walnut";

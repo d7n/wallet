@@ -1,1 +1,1 @@
-var mnemonic = "pelican slogan arrest excess sweet easy language short junior cave apology lens";
+var mnemonic = "edit fruit begin jeans evidence message quit dutch second clean such force";

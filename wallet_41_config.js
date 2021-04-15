@@ -1,1 +1,1 @@
-var mnemonic = "fragile verify tourist cart session olympic casual nothing detect weasel just upset";
+var mnemonic = "miracle shrimp plug orphan gown attract climb dance appear huge essay boy";

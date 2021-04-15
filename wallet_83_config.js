@@ -1,1 +1,1 @@
-var mnemonic = "strike fork hurry flip verb release jar mammal chuckle crack question indicate";
+var mnemonic = "bridge bag accident nest beach twist vault zone where lawn aspect thunder";

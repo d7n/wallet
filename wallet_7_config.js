@@ -1,1 +1,1 @@
-var mnemonic = "spawn ask crew hurdle biology laptop find peanut topic luggage trumpet liar";
+var mnemonic = "goose camp shed pigeon goddess pluck force reflect sample giggle where room";

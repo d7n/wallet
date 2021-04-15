@@ -1,1 +1,1 @@
-var mnemonic = "method step sound paper valley square expand evidence galaxy approve half shed";
+var mnemonic = "message stairs asset easily connect unit script few job remain slender because";

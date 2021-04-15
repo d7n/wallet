@@ -1,1 +1,1 @@
-var mnemonic = "coyote rigid clump parade tomato claim this slice leisure vendor valid random";
+var mnemonic = "couch desk entry can skate doctor enhance occur acquire grace wink response";

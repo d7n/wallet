@@ -1,1 +1,1 @@
-var mnemonic = "silly census video cereal frame copy airport offer tunnel jaguar maple gallery";
+var mnemonic = "door theory youth flavor snake spoil yard leaf attitude critic field attack";

@@ -1,1 +1,1 @@
-var mnemonic = "humor milk pigeon episode damage world mimic unique stumble there leopard able";
+var mnemonic = "off excuse ghost dynamic garlic spy crumble spirit fabric label boost wink";

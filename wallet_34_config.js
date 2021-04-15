@@ -1,1 +1,1 @@
-var mnemonic = "resist trash frost truck blur cycle fitness rent lend volume pink web";
+var mnemonic = "muscle math salad force industry usual alley joke will vault surface supply";

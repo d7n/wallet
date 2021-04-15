@@ -1,1 +1,1 @@
-var mnemonic = "cart danger squeeze canvas trigger hungry since wheat outside knee test team";
+var mnemonic = "name hotel bacon concert pride miracle insect reform version half jungle baby";

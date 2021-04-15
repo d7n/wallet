@@ -1,1 +1,1 @@
-var mnemonic = "tell ten draft lottery skull transfer ball swing jump hospital athlete slab";
+var mnemonic = "pencil shock pause opera emerge amazing guilt match memory rocket aunt tool";

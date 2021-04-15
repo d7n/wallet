@@ -1,1 +1,1 @@
-var mnemonic = "trash special nature idle boss more twenty ivory potato mammal negative now";
+var mnemonic = "afford level miracle act toward that basic load lecture trumpet cross seven";

@@ -1,1 +1,1 @@
-var mnemonic = "client when taxi absent either region lock day congress creek wrong theory";
+var mnemonic = "benefit enter autumn receive youth service early radio civil develop surround elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "unable inflict weapon copy snake exhaust again apple flavor despair abuse two";
+var mnemonic = "beef summer dilemma maximum beauty three infant bronze wait cute piece reflect";

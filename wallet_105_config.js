@@ -1,1 +1,1 @@
-var mnemonic = "lock patch casino cave jungle reform army leg rule true west fuel";
+var mnemonic = "mother project surface vivid return shop acquire angry arrive grocery scout zebra";

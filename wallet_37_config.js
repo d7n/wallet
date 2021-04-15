@@ -1,1 +1,1 @@
-var mnemonic = "unable question wise tooth industry apple play open plunge detail lizard deer";
+var mnemonic = "stem ridge vintage dentist spirit kangaroo toilet degree gather endorse ring leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "fish wrong govern meadow garbage soul mix plunge clog gold pipe pride";
+var mnemonic = "fragile like journey segment square spoon happy ranch spare coffee october laundry";

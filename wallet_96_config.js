@@ -1,1 +1,1 @@
-var mnemonic = "spatial oblige bring ethics feed stomach match hole venture cereal tomato evolve";
+var mnemonic = "clown asthma lab dynamic unable what ankle barrel glad maid buffalo ten";

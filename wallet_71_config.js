@@ -1,1 +1,1 @@
-var mnemonic = "various phone drop dismiss spell keep avoid turkey path laugh wash cat";
+var mnemonic = "cause blush carpet family cereal skate slot airport pioneer symbol accident juice";

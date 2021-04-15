@@ -1,1 +1,1 @@
-var mnemonic = "run step zone tide east soup gentle shuffle reduce drink universe depart";
+var mnemonic = "vicious copy mandate original tunnel maximum debate symbol vapor enough biology render";

@@ -1,1 +1,1 @@
-var mnemonic = "duty employ unaware nut ceiling grain blade local effort eye engage stereo";
+var mnemonic = "property rigid zero sad giraffe depth first similar uniform ahead wire flag";

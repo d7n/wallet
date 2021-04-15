@@ -1,1 +1,1 @@
-var mnemonic = "coyote smooth crowd decline when clog alone party weather assume eight motion";
+var mnemonic = "charge spike beauty month cabin vanish gold shaft useless okay recipe novel";

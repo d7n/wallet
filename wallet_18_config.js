@@ -1,1 +1,1 @@
-var mnemonic = "aware unusual dolphin network document horn parent provide spirit awake sponsor myth";
+var mnemonic = "office barrel arena spoon canal electric expand history paddle crumble quality hospital";

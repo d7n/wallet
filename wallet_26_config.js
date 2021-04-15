@@ -1,1 +1,1 @@
-var mnemonic = "fold van real dice unusual wrist copper human pulp wise festival enrich";
+var mnemonic = "exotic pelican own man light tumble duty silk fitness ill ivory calm";

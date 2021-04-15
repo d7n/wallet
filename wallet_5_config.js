@@ -1,1 +1,1 @@
-var mnemonic = "toddler congress slush hour episode resemble pipe echo sad stairs corn unknown";
+var mnemonic = "stool refuse chuckle fat wild gentle warfare before forward walnut egg edit";

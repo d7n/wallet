@@ -1,1 +1,1 @@
-var mnemonic = "present nothing bike patch search purpose very heart negative afford again weasel";
+var mnemonic = "invest talk easy notable wedding ring leaf wool sound club want law";

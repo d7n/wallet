@@ -1,1 +1,1 @@
-var mnemonic = "mammal jacket elegant begin basket hazard gravity squirrel shine proud luggage genre";
+var mnemonic = "major divide raccoon artist gesture bright loop biology salad affair chief puppy";

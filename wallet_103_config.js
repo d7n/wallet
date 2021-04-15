@@ -1,1 +1,1 @@
-var mnemonic = "solution garbage erupt gadget save into sudden path zebra visual bind derive";
+var mnemonic = "three firm crunch idle month castle owner hedgehog flame amount trip crucial";

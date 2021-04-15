@@ -1,1 +1,1 @@
-var mnemonic = "cup you change blood visit tray ankle novel hedgehog deputy wrong enter";
+var mnemonic = "language copy delay surge resemble spoil palm recall report when spawn enroll";

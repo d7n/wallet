@@ -1,1 +1,1 @@
-var mnemonic = "genius give path grit ecology stumble holiday apple juice section famous outside";
+var mnemonic = "puppy quality coyote matter slender twelve meadow weasel steak enforce rookie fantasy";

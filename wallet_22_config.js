@@ -1,1 +1,1 @@
-var mnemonic = "climb maze rural main analyst zero harsh monster leg setup initial wrong";
+var mnemonic = "orient monkey dragon error sadness improve rack wheel mail garment lock absurd";

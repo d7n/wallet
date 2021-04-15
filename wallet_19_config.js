@@ -1,1 +1,1 @@
-var mnemonic = "trash slot auction taxi biology shallow dust prefer member boil clock simple";
+var mnemonic = "coin layer demand rigid near garbage cement leave primary heavy faith this";

@@ -1,1 +1,1 @@
-var mnemonic = "steel bag desert sword future curtain unhappy whale cradle rule intact suspect";
+var mnemonic = "dumb online pluck glad divorce awkward pet evidence about load swift hunt";

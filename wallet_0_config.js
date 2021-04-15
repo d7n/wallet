@@ -1,1 +1,1 @@
-var mnemonic = "above bike utility fatal myself same laundry december memory rely runway half";
+var mnemonic = "mass slide defy city predict feed dawn universe pudding physical judge armor";

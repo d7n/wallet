@@ -1,1 +1,1 @@
-var mnemonic = "duty language deer pitch hip shoot joy second amateur lonely analyst invite";
+var mnemonic = "prevent put between wing course radio fatigue grass screen latin sunset chief";

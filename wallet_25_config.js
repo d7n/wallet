@@ -1,1 +1,1 @@
-var mnemonic = "burden couple alert civil time smoke plastic code theme kidney doll flip";
+var mnemonic = "idea treat episode liar arctic summer true shy silent wrist cover lady";

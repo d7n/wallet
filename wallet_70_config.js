@@ -1,1 +1,1 @@
-var mnemonic = "around spice square worry canoe tape indoor usual phrase biology unusual expose";
+var mnemonic = "pulse argue panic humble squirrel intact amount infant daring unlock cart humble";

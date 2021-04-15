@@ -1,1 +1,1 @@
-var mnemonic = "recall amateur tank seven edge stadium ugly job chronic negative knee teach";
+var mnemonic = "absent clap journey essence invite sword prefer magnet crime ill soldier company";

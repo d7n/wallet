@@ -1,1 +1,1 @@
-var mnemonic = "shuffle paddle chest miracle blade lemon noble monitor good blouse real mansion";
+var mnemonic = "more still trumpet swear protect recall organ habit acoustic hamster fog prize";

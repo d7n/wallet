@@ -1,1 +1,1 @@
-var mnemonic = "faint practice leisure taxi cotton glimpse curve shove seek amazing citizen start";
+var mnemonic = "harvest myself universe shrug account hazard nothing grid favorite pitch off prepare";

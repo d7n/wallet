@@ -1,1 +1,1 @@
-var mnemonic = "purity grit absorb service acquire own fence tornado three stand fringe aunt";
+var mnemonic = "heavy hub kite sponsor law habit gentle cigar pattern trouble diagram fox";

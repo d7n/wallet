@@ -1,1 +1,1 @@
-var mnemonic = "slice tortoise fabric mouse dilemma humor dream card soup garden action report";
+var mnemonic = "imitate start match glory chief mom melody siren puppy use scorpion antenna";

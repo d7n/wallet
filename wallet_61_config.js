@@ -1,1 +1,1 @@
-var mnemonic = "push dizzy they wet believe best rice eyebrow atom cement differ minimum";
+var mnemonic = "drink trick razor believe notable loan crash region tattoo moon profit cushion";

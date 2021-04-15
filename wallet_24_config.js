@@ -1,1 +1,1 @@
-var mnemonic = "order sample brain glow sunset breeze spray illegal cement metal this picnic";
+var mnemonic = "refuse good roast violin indoor buyer tape toilet doctor magic speed auto";

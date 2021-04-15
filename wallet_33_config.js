@@ -1,1 +1,1 @@
-var mnemonic = "cannon gesture step derive quit sound road pink artist wine stool erase";
+var mnemonic = "educate cart belt urban hen leave enough exact today hand lizard switch";

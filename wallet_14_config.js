@@ -1,1 +1,1 @@
-var mnemonic = "sign section swap bonus ghost figure doctor nephew eternal embrace address tomato";
+var mnemonic = "napkin floor hole bar emotion toward hair amateur sniff subway until coach";

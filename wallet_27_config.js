@@ -1,1 +1,1 @@
-var mnemonic = "release say rubber pattern dirt office nothing shock bicycle error cry bulk";
+var mnemonic = "soft prefer riot scout start detail laundry found top yellow walk few";

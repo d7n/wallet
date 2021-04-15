@@ -1,1 +1,1 @@
-var mnemonic = "alone piano december end check execute baby share child trick fuel thunder";
+var mnemonic = "clerk hello kingdom maple eternal public plug card box math air aunt";

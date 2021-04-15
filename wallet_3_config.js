@@ -1,1 +1,1 @@
-var mnemonic = "noise echo school lecture tunnel soul tennis shrimp regular busy leg proud";
+var mnemonic = "survey angry powder scale false gospel keen pet circle excuse there mansion";

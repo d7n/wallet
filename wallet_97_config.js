@@ -1,1 +1,1 @@
-var mnemonic = "forget sunny baby rent topic renew lazy tray corn peanut admit busy";
+var mnemonic = "coil enroll produce lottery addict draw reject peasant tennis theory uncover cheese";

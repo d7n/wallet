@@ -1,1 +1,1 @@
-var mnemonic = "garment soda business wall flower aisle office suffer segment purity pelican subject";
+var mnemonic = "rotate agree reform fat sail rib grunt keen arrow weasel cabin club";

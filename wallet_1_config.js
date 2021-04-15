@@ -1,1 +1,1 @@
-var mnemonic = "hobby when limb danger fix clean earth rain rude daughter trip pencil";
+var mnemonic = "electric enable fall diary kiss glad alone gasp cost wrist pizza pigeon";

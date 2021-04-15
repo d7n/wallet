@@ -1,1 +1,1 @@
-var mnemonic = "joy resemble acoustic venture slice sock label gaze repair gesture solution coin";
+var mnemonic = "diary cradle exhibit potato wild debris field shadow bomb notice slot pond";

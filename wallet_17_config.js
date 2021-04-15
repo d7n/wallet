@@ -1,1 +1,1 @@
-var mnemonic = "melt report merge moon cinnamon monster history admit innocent stumble soldier border";
+var mnemonic = "diamond roast lion life teach master safe fine modify ten letter mango";

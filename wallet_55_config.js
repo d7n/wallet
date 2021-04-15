@@ -1,1 +1,1 @@
-var mnemonic = "obvious offer display trust enter green champion rather junk join glory grid";
+var mnemonic = "fence miracle learn lift make antique enhance food immense oak chuckle soup";

@@ -1,1 +1,1 @@
-var mnemonic = "fault enroll reunion entire penalty hood range always huge pudding merge crater";
+var mnemonic = "they acoustic grant learn rapid blanket car steak actual year antenna camp";

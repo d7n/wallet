@@ -1,1 +1,1 @@
-var mnemonic = "hand birth safe diesel fold issue ugly turkey useful nose fault until";
+var mnemonic = "awesome salon top system scrap swallow camp magnet measure engine lounge asset";

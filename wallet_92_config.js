@@ -1,1 +1,1 @@
-var mnemonic = "chronic someone dish carbon account chicken tenant bright volcano resource corn report";
+var mnemonic = "diagram home decrease tide stadium glad meat motion outside key payment praise";
