@@ -1,1 +1,1 @@
-var mnemonic = "diagram home decrease tide stadium glad meat motion outside key payment praise";
+var mnemonic = "rifle quality decorate suggest fun axis burden fever swarm apology latin cave";

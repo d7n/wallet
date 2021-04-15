@@ -1,1 +1,1 @@
-var mnemonic = "alpha obvious reform depend blue almost hard hand artwork suit snow symptom";
+var mnemonic = "pill left review robot wage hunt inspire uncle movie cabin ring pond";

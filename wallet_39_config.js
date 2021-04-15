@@ -1,1 +1,1 @@
-var mnemonic = "female deputy orphan gun exercise type frost improve machine display figure lyrics";
+var mnemonic = "axis woman street clutch dog deputy dance door salon amateur already guide";

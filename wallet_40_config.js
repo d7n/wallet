@@ -1,1 +1,1 @@
-var mnemonic = "fashion tank venture reward balcony mango first situate ankle vintage journey clever";
+var mnemonic = "ring guide thing foam addict more dance dish speak rather afraid inside";

@@ -1,1 +1,1 @@
-var mnemonic = "gold coil transfer skirt dismiss gesture drastic narrow oblige stereo nut awake";
+var mnemonic = "tell toilet bamboo yellow wisdom joy ripple culture isolate rent crowd narrow";

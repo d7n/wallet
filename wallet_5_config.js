@@ -1,1 +1,1 @@
-var mnemonic = "stool refuse chuckle fat wild gentle warfare before forward walnut egg edit";
+var mnemonic = "animal tackle secret tank spray dice spoon jar allow one play idle";

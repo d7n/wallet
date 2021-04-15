@@ -1,1 +1,1 @@
-var mnemonic = "exhibit swift patient goose monkey rent arctic tragic rail length absent glue";
+var mnemonic = "slim best crumble gallery toddler bitter street disorder danger note model vocal";

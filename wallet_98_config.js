@@ -1,1 +1,1 @@
-var mnemonic = "fragile like journey segment square spoon happy ranch spare coffee october laundry";
+var mnemonic = "view crash play horn hotel skirt phone hidden lawn praise exile marble";

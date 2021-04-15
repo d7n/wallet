@@ -1,1 +1,1 @@
-var mnemonic = "fence miracle learn lift make antique enhance food immense oak chuckle soup";
+var mnemonic = "aunt blood toy twist giant oxygen ugly shock pulp dirt panther brass";

@@ -1,1 +1,1 @@
-var mnemonic = "drink trick razor believe notable loan crash region tattoo moon profit cushion";
+var mnemonic = "estate fatal dream solar vault cat keep attend dizzy insane climb army";

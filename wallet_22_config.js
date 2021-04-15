@@ -1,1 +1,1 @@
-var mnemonic = "orient monkey dragon error sadness improve rack wheel mail garment lock absurd";
+var mnemonic = "afford labor iron guilt obscure erosion battle diary train coil delay can";

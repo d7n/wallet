@@ -1,1 +1,1 @@
-var mnemonic = "major divide raccoon artist gesture bright loop biology salad affair chief puppy";
+var mnemonic = "fence section dismiss render solid december title hair almost august mobile unaware";

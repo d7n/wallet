@@ -1,1 +1,1 @@
-var mnemonic = "oyster west shy increase run oil bread shift task divert post shift";
+var mnemonic = "private knock hollow lift color edit soul toddler brush rib broom pig";

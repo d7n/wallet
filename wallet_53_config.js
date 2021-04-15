@@ -1,1 +1,1 @@
-var mnemonic = "obtain forest hand sort vendor festival solve parent setup height zebra joy";
+var mnemonic = "odor board nature utility approve begin neglect boss piece route season artist";

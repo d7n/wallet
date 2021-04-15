@@ -1,1 +1,1 @@
-var mnemonic = "coil enroll produce lottery addict draw reject peasant tennis theory uncover cheese";
+var mnemonic = "spatial wait dismiss army grape aware because slice siege weekend camera view";

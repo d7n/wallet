@@ -1,1 +1,1 @@
-var mnemonic = "mass slide defy city predict feed dawn universe pudding physical judge armor";
+var mnemonic = "welcome unit machine erase swing eyebrow stem tape club renew hedgehog sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt disease cram husband slab evoke kangaroo aim always danger rule similar";
+var mnemonic = "desert often nut creek dawn patrol unit broken gadget radar organ brave";

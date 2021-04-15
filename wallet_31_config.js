@@ -1,1 +1,1 @@
-var mnemonic = "off excuse ghost dynamic garlic spy crumble spirit fabric label boost wink";
+var mnemonic = "bundle shaft dress addict plunge electric moral leave sea nephew obtain cheap";

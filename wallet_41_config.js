@@ -1,1 +1,1 @@
-var mnemonic = "miracle shrimp plug orphan gown attract climb dance appear huge essay boy";
+var mnemonic = "bonus million enlist pilot truth forest rabbit tunnel purse sing claim shallow";

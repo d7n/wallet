@@ -1,1 +1,1 @@
-var mnemonic = "name hotel bacon concert pride miracle insect reform version half jungle baby";
+var mnemonic = "when mutual cook holiday lonely gospel pole plunge shaft true giggle camera";

@@ -1,1 +1,1 @@
-var mnemonic = "coin layer demand rigid near garbage cement leave primary heavy faith this";
+var mnemonic = "eager feed scorpion brick feature brain suggest because arm kangaroo grit spike";

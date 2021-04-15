@@ -1,1 +1,1 @@
-var mnemonic = "dumb online pluck glad divorce awkward pet evidence about load swift hunt";
+var mnemonic = "bachelor toe dilemma notable camera buyer drastic man balance faint expand repeat";

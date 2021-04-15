@@ -1,1 +1,1 @@
-var mnemonic = "message stairs asset easily connect unit script few job remain slender because";
+var mnemonic = "resemble trick utility second sea bike coral feed square urge pelican flight";

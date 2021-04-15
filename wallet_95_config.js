@@ -1,1 +1,1 @@
-var mnemonic = "gather donate target share excuse income wire utility execute inform cup blast";
+var mnemonic = "confirm accuse atom gossip embrace action rare sorry grape blossom orchard spirit";

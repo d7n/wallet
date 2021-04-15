@@ -1,1 +1,1 @@
-var mnemonic = "awesome salon top system scrap swallow camp magnet measure engine lounge asset";
+var mnemonic = "leader today title appear scale decrease until surprise home main federal capable";

@@ -1,1 +1,1 @@
-var mnemonic = "another sunny drift blue effort artist crater pyramid upgrade castle squirrel extend";
+var mnemonic = "prosper company together range pause hundred supply wave master ocean army quantum";

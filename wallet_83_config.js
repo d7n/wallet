@@ -1,1 +1,1 @@
-var mnemonic = "bridge bag accident nest beach twist vault zone where lawn aspect thunder";
+var mnemonic = "neglect oyster kiss scrap used success float turn tumble immune tongue august";

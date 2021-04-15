@@ -1,1 +1,1 @@
-var mnemonic = "clerk hello kingdom maple eternal public plug card box math air aunt";
+var mnemonic = "slow nice spoil garment earth soldier draft mirror fabric like north message";

@@ -1,1 +1,1 @@
-var mnemonic = "goose camp shed pigeon goddess pluck force reflect sample giggle where room";
+var mnemonic = "urban loud skin recycle vacuum dutch early museum rice suit develop spare";

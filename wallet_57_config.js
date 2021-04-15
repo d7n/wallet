@@ -1,1 +1,1 @@
-var mnemonic = "couch desk entry can skate doctor enhance occur acquire grace wink response";
+var mnemonic = "artist tilt satisfy oppose cabin say visual rubber ugly draw axis flip";

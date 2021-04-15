@@ -1,1 +1,1 @@
-var mnemonic = "more still trumpet swear protect recall organ habit acoustic hamster fog prize";
+var mnemonic = "enable will coach bicycle matrix long message soul man prevent witness edge";

@@ -1,1 +1,1 @@
-var mnemonic = "divide alien turtle come helmet chaos group title lawn dance fury erosion";
+var mnemonic = "vital violin chat elite try cup pledge that drift awkward open between";

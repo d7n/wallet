@@ -1,1 +1,1 @@
-var mnemonic = "electric enable fall diary kiss glad alone gasp cost wrist pizza pigeon";
+var mnemonic = "gloom tribe record guard frog earn shine magic donor arena spatial enforce";

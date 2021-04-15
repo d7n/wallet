@@ -1,1 +1,1 @@
-var mnemonic = "office barrel arena spoon canal electric expand history paddle crumble quality hospital";
+var mnemonic = "tail ill scare alone drama fringe arm puppy decade appear beyond puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "castle wheat broom loop parrot attack cloud cupboard uniform nose kitchen knock";
+var mnemonic = "basic blood economy soccer tuna impose sniff choose kidney nation wood help";

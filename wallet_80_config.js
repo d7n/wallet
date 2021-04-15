@@ -1,1 +1,1 @@
-var mnemonic = "future deer mirror march alert hip rabbit half fine boil mass wisdom";
+var mnemonic = "occur upgrade wealth joy organ stage monkey multiply alert pencil copy music";

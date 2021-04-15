@@ -1,1 +1,1 @@
-var mnemonic = "rival save better square deputy rubber insane mom inject mixture village trick";
+var mnemonic = "grid elevator minute drop salute earn eye nut bachelor pioneer mom width";

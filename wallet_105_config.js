@@ -1,1 +1,1 @@
-var mnemonic = "mother project surface vivid return shop acquire angry arrive grocery scout zebra";
+var mnemonic = "deer deputy eyebrow effort power later crumble gentle casino loud sibling area";

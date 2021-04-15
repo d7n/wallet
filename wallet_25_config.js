@@ -1,1 +1,1 @@
-var mnemonic = "idea treat episode liar arctic summer true shy silent wrist cover lady";
+var mnemonic = "worth initial street pumpkin tag chimney coffee federal october satoshi squirrel slogan";

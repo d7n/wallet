@@ -1,1 +1,1 @@
-var mnemonic = "stem ridge vintage dentist spirit kangaroo toilet degree gather endorse ring leopard";
+var mnemonic = "surface will vibrant harbor diagram gallery answer dirt nation useless prevent solve";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse argue panic humble squirrel intact amount infant daring unlock cart humble";
+var mnemonic = "taste base tree alien slim tape change sunny fresh shrug capital advice";

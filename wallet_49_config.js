@@ -1,1 +1,1 @@
-var mnemonic = "glory home slight make require tower behind unlock measure boil plastic reopen";
+var mnemonic = "shoe type eight suffer paddle short kiwi wisdom there defy fog defy";

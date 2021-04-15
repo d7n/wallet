@@ -1,1 +1,1 @@
-var mnemonic = "mention silk angle bomb tone leisure tube nose limit invest shoot wonder";
+var mnemonic = "machine swear hidden rough close vessel disorder enough coach blast auction advice";

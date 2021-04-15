@@ -1,1 +1,1 @@
-var mnemonic = "round provide comic lion love other convince pretty profit market empower churn";
+var mnemonic = "turtle convince mushroom defy escape repeat expose december inch permit slender curious";

@@ -1,1 +1,1 @@
-var mnemonic = "property rigid zero sad giraffe depth first similar uniform ahead wire flag";
+var mnemonic = "duty clump lottery pig point thought load heart crawl fetch bird gloom";

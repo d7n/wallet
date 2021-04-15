@@ -1,1 +1,1 @@
-var mnemonic = "benefit enter autumn receive youth service early radio civil develop surround elevator";
+var mnemonic = "smoke abstract zone dismiss option gloom supply setup naive saddle like minimum";

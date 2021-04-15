@@ -1,1 +1,1 @@
-var mnemonic = "region dutch settle fatigue rail myself latin forum toy absorb citizen memory";
+var mnemonic = "judge witness around knife banana fold often bullet dismiss vibrant nasty robot";

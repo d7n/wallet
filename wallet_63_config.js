@@ -1,1 +1,1 @@
-var mnemonic = "injury right random subway gold wheel taxi uphold relax wasp coffee awkward";
+var mnemonic = "inquiry panda gossip napkin hour fiction alpha rabbit trouble story pass surprise";

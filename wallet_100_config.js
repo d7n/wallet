@@ -1,1 +1,1 @@
-var mnemonic = "rotate agree reform fat sail rib grunt keen arrow weasel cabin club";
+var mnemonic = "layer very cruel number regular mushroom success citizen summer bus raven left";

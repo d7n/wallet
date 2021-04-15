@@ -1,1 +1,1 @@
-var mnemonic = "absent clap journey essence invite sword prefer magnet crime ill soldier company";
+var mnemonic = "metal prison scare tree sting valve animal hockey century addict admit wink";

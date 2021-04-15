@@ -1,1 +1,1 @@
-var mnemonic = "three firm crunch idle month castle owner hedgehog flame amount trip crucial";
+var mnemonic = "wing love glide device lyrics fly gospel train equal negative simple room";

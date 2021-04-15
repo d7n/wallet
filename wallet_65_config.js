@@ -1,1 +1,1 @@
-var mnemonic = "harvest myself universe shrug account hazard nothing grid favorite pitch off prepare";
+var mnemonic = "where fantasy junk rapid ketchup device switch adapt plug ring fancy engage";

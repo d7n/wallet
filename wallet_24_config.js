@@ -1,1 +1,1 @@
-var mnemonic = "refuse good roast violin indoor buyer tape toilet doctor magic speed auto";
+var mnemonic = "great boy devote fault plunge casino walnut buddy cause drop copper law";

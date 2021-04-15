@@ -1,1 +1,1 @@
-var mnemonic = "churn sudden plastic number crack flame letter glad radio stomach hurt index";
+var mnemonic = "affair enact scissors beyond plunge during cupboard mouse supreme miracle stool fragile";

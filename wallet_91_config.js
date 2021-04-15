@@ -1,1 +1,1 @@
-var mnemonic = "frozen awkward test soon knife view section notable goose occur gloom catch";
+var mnemonic = "cement gown sight six force since dragon future dust junior one measure";

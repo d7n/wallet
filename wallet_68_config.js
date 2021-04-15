@@ -1,1 +1,1 @@
-var mnemonic = "middle antenna suggest side hollow alpha mansion ball film sibling scatter kiss";
+var mnemonic = "object hockey jelly conduct essay motor dress monster shrimp answer green floor";

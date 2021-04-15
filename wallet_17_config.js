@@ -1,1 +1,1 @@
-var mnemonic = "diamond roast lion life teach master safe fine modify ten letter mango";
+var mnemonic = "phrase fatigue gain soup inquiry spirit blossom wise unhappy mesh number story";

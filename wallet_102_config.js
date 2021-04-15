@@ -1,1 +1,1 @@
-var mnemonic = "sibling artist rack twelve accident ship depth waste other quiz wrist board";
+var mnemonic = "fiscal smoke abandon later list useless brief hammer lucky cross crystal picnic";

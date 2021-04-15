@@ -1,1 +1,1 @@
-var mnemonic = "impose couple chase risk debris open tone scan morning uphold small expand";
+var mnemonic = "true rival fold protect piece music trash corn little ability offer nothing";

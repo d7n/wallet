@@ -1,1 +1,1 @@
-var mnemonic = "force field always divert feed fine skirt spider common void story thunder";
+var mnemonic = "twenty ocean antique treat auto route abandon evolve ill voyage release program";

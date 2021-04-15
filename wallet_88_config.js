@@ -1,1 +1,1 @@
-var mnemonic = "clinic pig uncle super scheme pupil general test wing same slow size";
+var mnemonic = "toss debate evoke enable trim option ready nose chase turn spoon wish";

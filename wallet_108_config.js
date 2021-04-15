@@ -1,1 +1,1 @@
-var mnemonic = "afford level miracle act toward that basic load lecture trumpet cross seven";
+var mnemonic = "lazy royal genre someone chapter sting hamster lava receive ribbon main club";

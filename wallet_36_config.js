@@ -1,1 +1,1 @@
-var mnemonic = "raven chunk liar neutral sing middle meat derive spike affair leopard brass";
+var mnemonic = "pilot always hen limb cliff noble poverty crumble despair knee treat remove";

@@ -1,1 +1,1 @@
-var mnemonic = "course capital survey resist bread leg toss awake depth social brisk method";
+var mnemonic = "cliff door tell conduct mobile arrange garden coast impose slab soccer winter";

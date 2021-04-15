@@ -1,1 +1,1 @@
-var mnemonic = "muscle math salad force industry usual alley joke will vault surface supply";
+var mnemonic = "hope culture link answer slide furnace duty public right youth world tent";

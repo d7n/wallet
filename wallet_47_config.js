@@ -1,1 +1,1 @@
-var mnemonic = "era layer exist discover love sun split lazy detect spatial secret repair";
+var mnemonic = "innocent survey debate spatial home doctor broken story busy file world welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil shock pause opera emerge amazing guilt match memory rocket aunt tool";
+var mnemonic = "nation bitter abstract cream can finger coil cigar domain van super clinic";

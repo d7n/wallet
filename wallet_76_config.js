@@ -1,1 +1,1 @@
-var mnemonic = "ostrich column sell bonus grass odor vessel oyster prepare battle cream auction";
+var mnemonic = "catch rate inhale slush wife globe sad embark load brand protect walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "beef summer dilemma maximum beauty three infant bronze wait cute piece reflect";
+var mnemonic = "task grief submit spare history sand umbrella insane melody hidden dress library";

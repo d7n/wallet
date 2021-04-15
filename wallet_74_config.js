@@ -1,1 +1,1 @@
-var mnemonic = "afraid spoon hub art bleak cinnamon tail zoo mango panda slogan engage";
+var mnemonic = "cargo off illness enemy exist fee across idle brief recall room hair";

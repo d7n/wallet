@@ -1,1 +1,1 @@
-var mnemonic = "door theory youth flavor snake spoil yard leaf attitude critic field attack";
+var mnemonic = "boil quit parade demand pilot first father cool grant repair today error";

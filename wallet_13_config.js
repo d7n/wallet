@@ -1,1 +1,1 @@
-var mnemonic = "boring warrior egg badge vanish fade coyote omit rigid parent debate wealth";
+var mnemonic = "patient job oblige bone ensure tube swift mass tragic north shrug among";

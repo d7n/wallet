@@ -1,1 +1,1 @@
-var mnemonic = "salon century palm kingdom debate age hard arch sleep approve quantum core";
+var mnemonic = "enough buffalo promote choose movie lamp potato busy pole into faculty grief";

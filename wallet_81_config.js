@@ -1,1 +1,1 @@
-var mnemonic = "laptop series regular already token observe border math inch approve swing debris";
+var mnemonic = "pave boil slight vacuum keep grid word survey stamp science review image";

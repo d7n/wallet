@@ -1,1 +1,1 @@
-var mnemonic = "master width play capital clutch patch rookie dad peasant close sock luxury";
+var mnemonic = "weather crowd coyote found spawn note tiger blanket sort lamp tortoise pull";

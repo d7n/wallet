@@ -1,1 +1,1 @@
-var mnemonic = "lounge avocado elite luggage labor coral scheme valve recall neck beauty crime";
+var mnemonic = "credit judge original code common quality misery twelve disease fossil mouse idea";

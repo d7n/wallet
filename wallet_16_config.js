@@ -1,1 +1,1 @@
-var mnemonic = "genuine cram coast fine tag truck immense property canal fetch muscle nation";
+var mnemonic = "mixed trend sick pattern thunder attitude vicious walnut spread kite decorate giggle";

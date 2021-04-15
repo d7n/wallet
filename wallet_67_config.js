@@ -1,1 +1,1 @@
-var mnemonic = "diary cradle exhibit potato wild debris field shadow bomb notice slot pond";
+var mnemonic = "tunnel goddess before taxi sense harvest priority ring bind alien oak enable";

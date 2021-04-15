@@ -1,1 +1,1 @@
-var mnemonic = "lunch farm bracket interest route shine business pair one alert flee antique";
+var mnemonic = "dose search flower skull rack zone setup reform bring easy regular cable";

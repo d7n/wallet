@@ -1,1 +1,1 @@
-var mnemonic = "imitate start match glory chief mom melody siren puppy use scorpion antenna";
+var mnemonic = "group vibrant imitate portion draft veteran accident fog comic brush damp rude";

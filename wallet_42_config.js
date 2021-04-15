@@ -1,1 +1,1 @@
-var mnemonic = "edit fruit begin jeans evidence message quit dutch second clean such force";
+var mnemonic = "cry into milk mimic hover struggle emotion squeeze vehicle middle trouble spray";

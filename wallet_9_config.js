@@ -1,1 +1,1 @@
-var mnemonic = "seek draft dinosaur kangaroo opera explain silver grow disease dial very mirror";
+var mnemonic = "mixture cost ride diamond rapid file exotic sibling swim lady toe sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "language copy delay surge resemble spoil palm recall report when spawn enroll";
+var mnemonic = "attract echo devote medal trick loyal invest debate math permit dismiss goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy hub kite sponsor law habit gentle cigar pattern trouble diagram fox";
+var mnemonic = "visa galaxy police bring glove bracket sword crush ship track ancient shadow";

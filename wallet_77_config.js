@@ -1,1 +1,1 @@
-var mnemonic = "ordinary arm maximum swap few car despair beauty earth slender toddler present";
+var mnemonic = "arena victory kit grass glare gold fatal rude law casual present daring";

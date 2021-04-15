@@ -1,1 +1,1 @@
-var mnemonic = "candy advice tuition doll fringe balance demand clever bean alpha scare obey";
+var mnemonic = "ship scare feed chronic analyst vintage digital ecology kit coin cradle above";

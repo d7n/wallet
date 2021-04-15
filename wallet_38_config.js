@@ -1,1 +1,1 @@
-var mnemonic = "vicious copy mandate original tunnel maximum debate symbol vapor enough biology render";
+var mnemonic = "champion deliver purse stay during stereo deny mesh mandate throw can eyebrow";

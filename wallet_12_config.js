@@ -1,1 +1,1 @@
-var mnemonic = "invest talk easy notable wedding ring leaf wool sound club want law";
+var mnemonic = "add umbrella toast huge label blouse athlete beach velvet reform list repeat";

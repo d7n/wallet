@@ -1,1 +1,1 @@
-var mnemonic = "detect ball weapon inmate claim spring open feel lamp scale marine fix";
+var mnemonic = "tray drastic sign critic relax task lab library govern piano oak offer";

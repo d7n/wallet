@@ -1,1 +1,1 @@
-var mnemonic = "charge spike beauty month cabin vanish gold shaft useless okay recipe novel";
+var mnemonic = "voyage purchase spring dove stem type attend sight acquire easy fine fox";

@@ -1,1 +1,1 @@
-var mnemonic = "educate cart belt urban hen leave enough exact today hand lizard switch";
+var mnemonic = "remove hollow spirit cross olympic tornado valve original round old extra eternal";
