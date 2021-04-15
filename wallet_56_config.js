@@ -1,1 +1,1 @@
-var mnemonic = "pill left review robot wage hunt inspire uncle movie cabin ring pond";
+var mnemonic = "play sand come jacket grow jewel agent final pave proof room mosquito";

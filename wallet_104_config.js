@@ -1,1 +1,1 @@
-var mnemonic = "fade random cheese grain dawn olympic owner acid spirit opinion infant senior";
+var mnemonic = "salon cloud area creek thumb disagree denial peace eye now like diet";

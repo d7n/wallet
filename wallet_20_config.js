@@ -1,1 +1,1 @@
-var mnemonic = "prosper company together range pause hundred supply wave master ocean army quantum";
+var mnemonic = "inmate burger despair solar tiger keep process speed fat hen small table";

@@ -1,1 +1,1 @@
-var mnemonic = "true rival fold protect piece music trash corn little ability offer nothing";
+var mnemonic = "around coconut hello diet attract say job catch slight detail cement basic";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle convince mushroom defy escape repeat expose december inch permit slender curious";
+var mnemonic = "thrive stuff worth tray radar area shock wonder viable mask image pistol";

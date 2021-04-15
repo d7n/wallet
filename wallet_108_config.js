@@ -1,1 +1,1 @@
-var mnemonic = "lazy royal genre someone chapter sting hamster lava receive ribbon main club";
+var mnemonic = "peace wolf credit combine special cereal believe visa bitter garbage trap upper";

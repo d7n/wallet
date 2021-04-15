@@ -1,1 +1,1 @@
-var mnemonic = "fiscal smoke abandon later list useless brief hammer lucky cross crystal picnic";
+var mnemonic = "interest speak beef useless moral sheriff two crumble crisp tone good dish";

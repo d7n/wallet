@@ -1,1 +1,1 @@
-var mnemonic = "confirm accuse atom gossip embrace action rare sorry grape blossom orchard spirit";
+var mnemonic = "maid latin decade economy jeans flock twin denial cook cruise edge six";

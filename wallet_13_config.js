@@ -1,1 +1,1 @@
-var mnemonic = "patient job oblige bone ensure tube swift mass tragic north shrug among";
+var mnemonic = "elder arm garden excuse year moon claw evidence popular powder truck chunk";

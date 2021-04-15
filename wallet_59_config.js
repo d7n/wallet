@@ -1,1 +1,1 @@
-var mnemonic = "twenty ocean antique treat auto route abandon evolve ill voyage release program";
+var mnemonic = "gallery attack citizen pool orchard smile motion bless absent wing school dress";

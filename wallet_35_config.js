@@ -1,1 +1,1 @@
-var mnemonic = "mobile mountain mosquito response minute where stove crew bench panther pilot dune";
+var mnemonic = "stairs monkey torch rebuild grid aim machine slush give account destroy nasty";

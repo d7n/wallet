@@ -1,1 +1,1 @@
-var mnemonic = "basic blood economy soccer tuna impose sniff choose kidney nation wood help";
+var mnemonic = "desk horror eight tomorrow volcano garage seed someone dash neck glue portion";

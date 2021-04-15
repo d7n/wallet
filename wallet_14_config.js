@@ -1,1 +1,1 @@
-var mnemonic = "damp target walk paddle museum purchase note congress expect enrich puppy priority";
+var mnemonic = "child member shed cram brother three demand depend tattoo action music element";

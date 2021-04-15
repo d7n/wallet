@@ -1,1 +1,1 @@
-var mnemonic = "ring guide thing foam addict more dance dish speak rather afraid inside";
+var mnemonic = "inside rookie enact tray program pupil inhale life bid float that toilet";

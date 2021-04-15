@@ -1,1 +1,1 @@
-var mnemonic = "enough buffalo promote choose movie lamp potato busy pole into faculty grief";
+var mnemonic = "wife repair maze tone audit decline private duty year dignity wrap million";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor toe dilemma notable camera buyer drastic man balance faint expand repeat";
+var mnemonic = "hold bacon wire brisk robot skill settle season vendor sword ranch chaos";

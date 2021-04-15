@@ -1,1 +1,1 @@
-var mnemonic = "brisk humble oyster old oxygen detect cargo seminar never bulb resemble phrase";
+var mnemonic = "ancient sea about speed album text sun peanut welcome deliver uphold wheel";

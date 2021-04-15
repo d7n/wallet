@@ -1,1 +1,1 @@
-var mnemonic = "axis woman street clutch dog deputy dance door salon amateur already guide";
+var mnemonic = "tumble miss siren quality toilet delay like final arm frost deposit obscure";

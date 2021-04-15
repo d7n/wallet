@@ -1,1 +1,1 @@
-var mnemonic = "mixture cost ride diamond rapid file exotic sibling swim lady toe sleep";
+var mnemonic = "lava exchange daughter soup twin creek beach barely dumb sense detail tennis";

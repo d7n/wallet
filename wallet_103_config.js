@@ -1,1 +1,1 @@
-var mnemonic = "wing love glide device lyrics fly gospel train equal negative simple room";
+var mnemonic = "reject mixture siren domain pipe tobacco clump kick laugh guess around capable";

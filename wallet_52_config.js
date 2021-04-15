@@ -1,1 +1,1 @@
-var mnemonic = "cliff door tell conduct mobile arrange garden coast impose slab soccer winter";
+var mnemonic = "bulk busy lady outside drive reason load divert electric actual snack method";

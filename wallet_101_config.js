@@ -1,1 +1,1 @@
-var mnemonic = "metal prison scare tree sting valve animal hockey century addict admit wink";
+var mnemonic = "approve announce lava session night mule special girl truly wreck gravity physical";

@@ -1,1 +1,1 @@
-var mnemonic = "duty clump lottery pig point thought load heart crawl fetch bird gloom";
+var mnemonic = "under merry antique glad wagon thing more hour fit width hockey baby";

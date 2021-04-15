@@ -1,1 +1,1 @@
-var mnemonic = "estate fatal dream solar vault cat keep attend dizzy insane climb army";
+var mnemonic = "captain spell cactus potato merit ball busy leisure pattern ramp mention orient";

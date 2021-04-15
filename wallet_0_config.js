@@ -1,1 +1,1 @@
-var mnemonic = "welcome unit machine erase swing eyebrow stem tape club renew hedgehog sphere";
+var mnemonic = "industry print stem funny knock bar ginger final solid pitch acquire lumber";

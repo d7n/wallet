@@ -1,1 +1,1 @@
-var mnemonic = "pave boil slight vacuum keep grid word survey stamp science review image";
+var mnemonic = "salad liar sketch owner tower misery worth arrange canyon radio picnic yellow";

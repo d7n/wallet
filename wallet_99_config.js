@@ -1,1 +1,1 @@
-var mnemonic = "leader today title appear scale decrease until surprise home main federal capable";
+var mnemonic = "bleak casual laugh attend regret ordinary pyramid jealous truly cancel duty burden";

@@ -1,1 +1,1 @@
-var mnemonic = "oil frame ski february business verb sight lend spread burst coach profit";
+var mnemonic = "fringe disease culture detect unknown guess mutual impact course popular increase palace";

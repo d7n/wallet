@@ -1,1 +1,1 @@
-var mnemonic = "desert often nut creek dawn patrol unit broken gadget radar organ brave";
+var mnemonic = "stumble pact brush cattle visual ship until poem evoke defy stadium idea";

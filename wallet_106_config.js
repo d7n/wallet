@@ -1,1 +1,1 @@
-var mnemonic = "weather crowd coyote found spawn note tiger blanket sort lamp tortoise pull";
+var mnemonic = "isolate math announce nominee verify immune hundred memory cereal lamp slim neither";

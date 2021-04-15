@@ -1,1 +1,1 @@
-var mnemonic = "space cigar armor furnace post matter gain foam dismiss rotate heart carbon";
+var mnemonic = "hub drastic boy young lemon region move vital race stool fat few";

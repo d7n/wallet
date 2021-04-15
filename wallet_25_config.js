@@ -1,1 +1,1 @@
-var mnemonic = "worth initial street pumpkin tag chimney coffee federal october satoshi squirrel slogan";
+var mnemonic = "angry copy rough bid praise behind thrive shiver garlic jealous narrow tribe";

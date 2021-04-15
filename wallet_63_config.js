@@ -1,1 +1,1 @@
-var mnemonic = "inquiry panda gossip napkin hour fiction alpha rabbit trouble story pass surprise";
+var mnemonic = "time mule story horn merry comic share during insect drastic shallow horse";

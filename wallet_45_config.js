@@ -1,1 +1,1 @@
-var mnemonic = "judge witness around knife banana fold often bullet dismiss vibrant nasty robot";
+var mnemonic = "basket disagree south wash avoid brush owner jeans teach easily spoon scout";

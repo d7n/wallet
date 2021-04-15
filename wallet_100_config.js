@@ -1,1 +1,1 @@
-var mnemonic = "layer very cruel number regular mushroom success citizen summer bus raven left";
+var mnemonic = "lounge excuse surface shock divide trend aware shallow test field protect decorate";

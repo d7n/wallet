@@ -1,1 +1,1 @@
-var mnemonic = "great boy devote fault plunge casino walnut buddy cause drop copper law";
+var mnemonic = "then furnace term talent coffee face medal muffin noise tackle thing trade";

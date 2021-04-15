@@ -1,1 +1,1 @@
-var mnemonic = "exist circle rather clever describe rapid lion lamp enemy crazy sugar smart";
+var mnemonic = "grid ill orange gate convince biology mother medal diagram galaxy pink happy";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage purchase spring dove stem type attend sight acquire easy fine fox";
+var mnemonic = "pony vast sun joke proud leisure glow ankle logic notice chuckle bus";

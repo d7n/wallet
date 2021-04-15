@@ -1,1 +1,1 @@
-var mnemonic = "cargo off illness enemy exist fee across idle brief recall room hair";
+var mnemonic = "joke honey quick jacket sphere kiwi supply badge shy hour seat gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke abstract zone dismiss option gloom supply setup naive saddle like minimum";
+var mnemonic = "jacket asthma barely gather over clever shaft comic journey sample oak hair";

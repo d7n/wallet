@@ -1,1 +1,1 @@
-var mnemonic = "object hockey jelly conduct essay motor dress monster shrimp answer green floor";
+var mnemonic = "original hawk barrel hybrid grow struggle print adult mule switch issue correct";

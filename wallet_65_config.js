@@ -1,1 +1,1 @@
-var mnemonic = "where fantasy junk rapid ketchup device switch adapt plug ring fancy engage";
+var mnemonic = "cage eagle volume sand horror express adult spirit actual net hurry creek";

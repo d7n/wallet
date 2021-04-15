@@ -1,1 +1,1 @@
-var mnemonic = "cry into milk mimic hover struggle emotion squeeze vehicle middle trouble spray";
+var mnemonic = "term leg eye shrug company snack fashion balance hat raw salmon shoot";

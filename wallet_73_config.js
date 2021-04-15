@@ -1,1 +1,1 @@
-var mnemonic = "grid elevator minute drop salute earn eye nut bachelor pioneer mom width";
+var mnemonic = "gasp neutral inflict laundry crime minute visual short cabbage trophy enrich thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "dose search flower skull rack zone setup reform bring easy regular cable";
+var mnemonic = "business fly science hood tiny caution hamster cable surface strike enter whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "machine swear hidden rough close vessel disorder enough coach blast auction advice";
+var mnemonic = "enough hat left spawn erase machine diagram use fame choice boat bracket";

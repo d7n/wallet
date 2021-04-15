@@ -1,1 +1,1 @@
-var mnemonic = "pilot always hen limb cliff noble poverty crumble despair knee treat remove";
+var mnemonic = "near wise warrior diagram unhappy food spray orbit protect spoil jazz buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "taste base tree alien slim tape change sunny fresh shrug capital advice";
+var mnemonic = "kangaroo hard trend sheriff cage slice link rate junk beauty stove butter";

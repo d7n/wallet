@@ -1,1 +1,1 @@
-var mnemonic = "visa galaxy police bring glove bracket sword crush ship track ancient shadow";
+var mnemonic = "match fashion middle point deliver angle hungry rude upgrade park infant uncle";

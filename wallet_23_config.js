@@ -1,1 +1,1 @@
-var mnemonic = "private knock hollow lift color edit soul toddler brush rib broom pig";
+var mnemonic = "tilt satoshi alpha you husband mad cheese forward attack debate human wish";

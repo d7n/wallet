@@ -1,1 +1,1 @@
-var mnemonic = "resemble trick utility second sea bike coral feed square urge pelican flight";
+var mnemonic = "album ready turn link credit error sadness rack blue truth question prison";

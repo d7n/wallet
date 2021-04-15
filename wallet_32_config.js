@@ -1,1 +1,1 @@
-var mnemonic = "someone mutual portion say close worth shallow salute breeze cereal surround surface";
+var mnemonic = "camera coast car sound kidney subject tiny donate duty canal muscle above";

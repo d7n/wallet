@@ -1,1 +1,1 @@
-var mnemonic = "surface will vibrant harbor diagram gallery answer dirt nation useless prevent solve";
+var mnemonic = "sad pottery very jelly frequent key voyage dance clown machine north nephew";

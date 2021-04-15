@@ -1,1 +1,1 @@
-var mnemonic = "shoe type eight suffer paddle short kiwi wisdom there defy fog defy";
+var mnemonic = "click vehicle glimpse scrap bitter silent barrel car olive stay act state";

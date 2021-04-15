@@ -1,1 +1,1 @@
-var mnemonic = "tray drastic sign critic relax task lab library govern piano oak offer";
+var mnemonic = "knee wedding burger short know proud segment exhibit punch diet orphan spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "cement gown sight six force since dragon future dust junior one measure";
+var mnemonic = "stage turkey capable invite film dose ask fix credit bounce train priority";

@@ -1,1 +1,1 @@
-var mnemonic = "champion deliver purse stay during stereo deny mesh mandate throw can eyebrow";
+var mnemonic = "dismiss ride stairs group quiz absent electric symbol jungle lazy museum grant";

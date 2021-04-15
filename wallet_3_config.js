@@ -1,1 +1,1 @@
-var mnemonic = "robust elite pluck park creek dry find saddle crew wear unknown finish";
+var mnemonic = "hello beyond crazy mask caught amount guess badge sunset text infant kitchen";

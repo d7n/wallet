@@ -1,1 +1,1 @@
-var mnemonic = "roast pink twin able cave discover night dish flash hunt fuel bar";
+var mnemonic = "issue churn process february bread little enter cycle junk need million choose";

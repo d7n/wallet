@@ -1,1 +1,1 @@
-var mnemonic = "spirit slush outside venture already option also toy scatter science fine excuse";
+var mnemonic = "fluid exact six position upper guilt match rabbit chef mango reunion odor";

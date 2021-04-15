@@ -1,1 +1,1 @@
-var mnemonic = "vital violin chat elite try cup pledge that drift awkward open between";
+var mnemonic = "silver auto photo immune fitness unhappy sail horror mother certain inquiry cluster";

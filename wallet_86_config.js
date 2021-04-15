@@ -1,1 +1,1 @@
-var mnemonic = "enable will coach bicycle matrix long message soul man prevent witness edge";
+var mnemonic = "equip beach lesson sorry curious deputy attract tribe just seminar below jealous";

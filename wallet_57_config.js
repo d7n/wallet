@@ -1,1 +1,1 @@
-var mnemonic = "artist tilt satisfy oppose cabin say visual rubber ugly draw axis flip";
+var mnemonic = "journey shop amateur leaf bus enlist pink river twice angle chat frequent";

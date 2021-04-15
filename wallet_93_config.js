@@ -1,1 +1,1 @@
-var mnemonic = "physical mobile space wage run govern swift actress peasant foster unable cube";
+var mnemonic = "parade extra bench average robust train chase void defense inner eye fortune";

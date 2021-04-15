@@ -1,1 +1,1 @@
-var mnemonic = "boil quit parade demand pilot first father cool grant repair today error";
+var mnemonic = "force arrange again dust license spice prosper already pistol coach retreat cinnamon";

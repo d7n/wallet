@@ -1,1 +1,1 @@
-var mnemonic = "tunnel goddess before taxi sense harvest priority ring bind alien oak enable";
+var mnemonic = "dragon guilt mix topple fix avocado december once pact oven cycle faith";

@@ -1,1 +1,1 @@
-var mnemonic = "odor board nature utility approve begin neglect boss piece route season artist";
+var mnemonic = "blush oval fine talent always congress wrist sponsor deposit waste owner crash";

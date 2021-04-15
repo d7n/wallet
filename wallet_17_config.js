@@ -1,1 +1,1 @@
-var mnemonic = "phrase fatigue gain soup inquiry spirit blossom wise unhappy mesh number story";
+var mnemonic = "fiscal kidney crouch any celery october hollow decade into basic wolf rebel";

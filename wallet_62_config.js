@@ -1,1 +1,1 @@
-var mnemonic = "task grief submit spare history sand umbrella insane melody hidden dress library";
+var mnemonic = "earth track until prosper essay process detail alert bunker inside indoor aware";

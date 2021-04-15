@@ -1,1 +1,1 @@
-var mnemonic = "tell toilet bamboo yellow wisdom joy ripple culture isolate rent crowd narrow";
+var mnemonic = "borrow almost range wide lab vast sniff cabbage tip holiday brief calm";

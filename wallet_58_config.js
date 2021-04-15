@@ -1,1 +1,1 @@
-var mnemonic = "slow nice spoil garment earth soldier draft mirror fabric like north message";
+var mnemonic = "baby marine gauge vague bus dune floor word air gown emerge segment";

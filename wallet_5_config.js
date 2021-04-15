@@ -1,1 +1,1 @@
-var mnemonic = "animal tackle secret tank spray dice spoon jar allow one play idle";
+var mnemonic = "swamp can mouse decrease extra pole praise chunk tribe legend illness civil";

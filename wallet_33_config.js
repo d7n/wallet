@@ -1,1 +1,1 @@
-var mnemonic = "remove hollow spirit cross olympic tornado valve original round old extra eternal";
+var mnemonic = "spend confirm debate shrug muscle differ cover elbow pole oil vessel axis";

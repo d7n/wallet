@@ -1,1 +1,1 @@
-var mnemonic = "rifle quality decorate suggest fun axis burden fever swarm apology latin cave";
+var mnemonic = "device forward leopard vapor lunar method mad profit donor vanish citizen hockey";

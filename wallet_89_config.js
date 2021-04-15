@@ -1,1 +1,1 @@
-var mnemonic = "ship scare feed chronic analyst vintage digital ecology kit coin cradle above";
+var mnemonic = "solar report salmon tomato cheese wood danger slab nominee combine seek lend";

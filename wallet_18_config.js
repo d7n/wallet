@@ -1,1 +1,1 @@
-var mnemonic = "tail ill scare alone drama fringe arm puppy decade appear beyond puppy";
+var mnemonic = "dose enjoy quit squeeze earn tuna wheel pilot kid excess kitchen intact";

@@ -1,1 +1,1 @@
-var mnemonic = "balance offer child mistake typical cigar few good into demise live seat";
+var mnemonic = "where chaos matter letter frost arrest ocean glide buffalo blame person cradle";

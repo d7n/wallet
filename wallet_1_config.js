@@ -1,1 +1,1 @@
-var mnemonic = "gloom tribe record guard frog earn shine magic donor arena spatial enforce";
+var mnemonic = "excite execute unusual napkin soup staff proud private credit usual van off";

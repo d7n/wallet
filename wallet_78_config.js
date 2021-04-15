@@ -1,1 +1,1 @@
-var mnemonic = "aunt fox cattle legend blouse tiger emotion aerobic expose arrow elevator major";
+var mnemonic = "cloud junior history cushion pattern vendor change punch side zone pride frog";

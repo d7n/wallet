@@ -1,1 +1,1 @@
-var mnemonic = "urban loud skin recycle vacuum dutch early museum rice suit develop spare";
+var mnemonic = "absorb service fluid race bargain pony nest wood resemble shine cable birth";

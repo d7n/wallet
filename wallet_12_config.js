@@ -1,1 +1,1 @@
-var mnemonic = "add umbrella toast huge label blouse athlete beach velvet reform list repeat";
+var mnemonic = "join divert labor nothing album jeans pledge use cheese hockey symptom range";

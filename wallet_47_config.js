@@ -1,1 +1,1 @@
-var mnemonic = "innocent survey debate spatial home doctor broken story busy file world welcome";
+var mnemonic = "plate above violin wasp pilot refuse obvious north armed worry shine celery";

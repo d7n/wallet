@@ -1,1 +1,1 @@
-var mnemonic = "occur upgrade wealth joy organ stage monkey multiply alert pencil copy music";
+var mnemonic = "strike baby alcohol metal sponsor inspire illegal stadium anger you flavor devote";

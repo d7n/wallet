@@ -1,1 +1,1 @@
-var mnemonic = "deer deputy eyebrow effort power later crumble gentle casino loud sibling area";
+var mnemonic = "physical stone cheese rescue crush dirt chief surface turtle worth clock detect";

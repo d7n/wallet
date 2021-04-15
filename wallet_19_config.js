@@ -1,1 +1,1 @@
-var mnemonic = "eager feed scorpion brick feature brain suggest because arm kangaroo grit spike";
+var mnemonic = "edge episode soap outdoor advice clean become tool census wash disagree current";

@@ -1,1 +1,1 @@
-var mnemonic = "affair enact scissors beyond plunge during cupboard mouse supreme miracle stool fragile";
+var mnemonic = "keep argue mask arctic question aim solve wrong comfort daring pipe carry";

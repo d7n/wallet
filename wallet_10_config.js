@@ -1,1 +1,1 @@
-var mnemonic = "credit judge original code common quality misery twelve disease fossil mouse idea";
+var mnemonic = "embark minute identify celery escape canoe basic antique gasp express lunch wash";

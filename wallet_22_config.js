@@ -1,1 +1,1 @@
-var mnemonic = "afford labor iron guilt obscure erosion battle diary train coil delay can";
+var mnemonic = "muscle cable fat area mule romance gravity soda fall chalk wire mad";
