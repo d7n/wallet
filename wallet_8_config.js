@@ -1,1 +1,1 @@
-var mnemonic = "drill abstract jelly evidence apart grief meadow weather enroll antique runway blast";
+var mnemonic = "giant defy source flip gather whisper hidden same force tenant alien humor";

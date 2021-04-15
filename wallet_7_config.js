@@ -1,1 +1,1 @@
-var mnemonic = "expire jar cause emerge move wear brush hen father city jaguar fatal";
+var mnemonic = "road lake museum amount virus faculty glove rude creek small stomach safe";

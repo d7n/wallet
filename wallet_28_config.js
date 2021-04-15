@@ -1,1 +1,1 @@
-var mnemonic = "chimney fuel awkward velvet sunny verb comfort smooth symbol either dwarf promote";
+var mnemonic = "allow brisk jacket lottery rubber dose shock reopen wife mistake dinosaur hurry";

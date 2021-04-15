@@ -1,1 +1,1 @@
-var mnemonic = "admit shield movie attend naive slender oval try cheese level small scheme";
+var mnemonic = "series tenant clump mom six credit used romance exercise uphold oval deer";

@@ -1,1 +1,1 @@
-var mnemonic = "dream maid ability miracle detect grass genre curve dry dress fence shaft";
+var mnemonic = "type exhaust soul wasp stereo dress robot virus abandon clog usual choose";

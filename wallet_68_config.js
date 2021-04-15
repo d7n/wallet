@@ -1,1 +1,1 @@
-var mnemonic = "sock multiply guitar raccoon snack kiss spatial invest occur olive park build";
+var mnemonic = "autumn scare recall tone mind crack glass honey bench salad tray enact";

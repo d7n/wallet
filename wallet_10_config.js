@@ -1,1 +1,1 @@
-var mnemonic = "silk immense cram assume use bridge option hollow act employ tribe chalk";
+var mnemonic = "blade busy extend garlic fish enrich bind play issue immune catch winter";

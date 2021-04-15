@@ -1,1 +1,1 @@
-var mnemonic = "nation what cross toddler release have ship kit throw old still secret";
+var mnemonic = "anxiety post action wolf quick quality coast snake duty usage butter corn";

@@ -1,1 +1,1 @@
-var mnemonic = "true derive virtual above merit hard print despair sustain pause conduct parrot";
+var mnemonic = "abuse rely hair trouble bind blush arrange elbow aim repair faculty panda";

@@ -1,1 +1,1 @@
-var mnemonic = "still sport wood energy bracket monitor sword champion fury turtle express total";
+var mnemonic = "thought rough price later arrow avoid dumb door loan chest clay aware";

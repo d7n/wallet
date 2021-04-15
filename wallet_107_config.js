@@ -1,1 +1,1 @@
-var mnemonic = "permit unfair icon sight story fat throw unhappy garlic spoon umbrella kiwi";
+var mnemonic = "ignore worth swing change genuine great wonder leaf thought lucky expire toddler";

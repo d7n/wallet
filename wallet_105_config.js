@@ -1,1 +1,1 @@
-var mnemonic = "call expect razor advance dove spray execute beyond license powder control mention";
+var mnemonic = "decade sock pole property receive educate blush feel fun zoo unable coyote";

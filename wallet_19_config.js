@@ -1,1 +1,1 @@
-var mnemonic = "lady keep patrol taxi style garment old idle zone very peanut tuition";
+var mnemonic = "first elephant december gallery dose sight bring rose fiscal normal disease beyond";

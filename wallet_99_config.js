@@ -1,1 +1,1 @@
-var mnemonic = "obscure virus tip avoid collect insane ignore vintage blind axis work sketch";
+var mnemonic = "grab nature bullet cancel army foam initial casual bird august van rice";

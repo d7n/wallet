@@ -1,1 +1,1 @@
-var mnemonic = "legal decide govern response agent sunset creek lumber excess detect lumber split";
+var mnemonic = "penalty ignore blue want destroy bonus primary shaft harbor inmate glance lunch";

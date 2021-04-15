@@ -1,1 +1,1 @@
-var mnemonic = "sentence license quality brown medal cushion push lonely long main engine lens";
+var mnemonic = "limit voyage bless field brand arctic giant pear drama fury arrange miss";

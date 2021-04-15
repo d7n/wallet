@@ -1,1 +1,1 @@
-var mnemonic = "ridge expose senior fun draw medal index flight kitchen warfare legal angle";
+var mnemonic = "praise blast main silly pole title proof select similar local frequent novel";

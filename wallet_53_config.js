@@ -1,1 +1,1 @@
-var mnemonic = "demand net melt dentist powder curious aunt kite road inform obtain diary";
+var mnemonic = "carpet base coffee limb job bleak home this ethics attract recipe venture";

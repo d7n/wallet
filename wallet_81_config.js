@@ -1,1 +1,1 @@
-var mnemonic = "tooth shove midnight radar blast moral where athlete crane romance skin suggest";
+var mnemonic = "rent assume lava okay attack mail false gap nest chalk mass coral";

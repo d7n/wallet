@@ -1,1 +1,1 @@
-var mnemonic = "shoot absurd second brass peanut dust daughter diamond old broom bounce crater";
+var mnemonic = "because naive exhibit panel frozen attitude perfect together carpet cinnamon cloth suffer";

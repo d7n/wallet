@@ -1,1 +1,1 @@
-var mnemonic = "jazz design dolphin detail quit choice foam farm series choice merry assist";
+var mnemonic = "when brown occur panic message turtle emerge silent engage dawn bench foster";

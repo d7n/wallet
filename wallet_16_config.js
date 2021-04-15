@@ -1,1 +1,1 @@
-var mnemonic = "tell fence owner leisure require jewel cinnamon culture palm hard energy security";
+var mnemonic = "begin stomach confirm swap image cruise false slender noble resist capital define";

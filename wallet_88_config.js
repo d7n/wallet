@@ -1,1 +1,1 @@
-var mnemonic = "normal spike assist pear limit arrange science claim exhaust ozone bracket visual";
+var mnemonic = "orchard system domain barely now rib foot similar adjust start gravity junk";

@@ -1,1 +1,1 @@
-var mnemonic = "danger replace arena nuclear game inch brass swarm cable cricket bridge injury";
+var mnemonic = "portion jungle elegant elegant fish fresh claim stuff alpha flame pipe master";

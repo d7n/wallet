@@ -1,1 +1,1 @@
-var mnemonic = "illness appear rapid accident bronze ladder gentle foster magnet orphan film vehicle";
+var mnemonic = "absent pelican bone future grab poverty shiver opinion whale example situate salute";

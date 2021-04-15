@@ -1,1 +1,1 @@
-var mnemonic = "chat table sausage chat cross team try vault either suit shallow razor";
+var mnemonic = "claim luxury kitten announce chase harsh dinosaur onion skirt draft lunar indicate";

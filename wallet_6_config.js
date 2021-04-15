@@ -1,1 +1,1 @@
-var mnemonic = "strategy glad female cart assist remain praise gasp verify strong squirrel dumb";
+var mnemonic = "fence husband weapon reform brother borrow make spy gorilla little unable warfare";

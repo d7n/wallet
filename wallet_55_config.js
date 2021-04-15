@@ -1,1 +1,1 @@
-var mnemonic = "transfer write weasel grow damage tomato color giggle exist side merry moon";
+var mnemonic = "bind such name circle wheat sample old yard million hotel fruit slice";

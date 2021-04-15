@@ -1,1 +1,1 @@
-var mnemonic = "slow slice cream unknown tuna economy autumn excite similar congress flight convince";
+var mnemonic = "govern speak firm gun glass abandon false pledge small exercise erupt forward";

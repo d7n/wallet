@@ -1,1 +1,1 @@
-var mnemonic = "aware bubble tell interest pole fury transfer dutch resemble possible wink appear";
+var mnemonic = "cinnamon client impulse detail pipe rhythm stage accuse tail design can hire";

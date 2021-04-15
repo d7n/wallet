@@ -1,1 +1,1 @@
-var mnemonic = "suffer adjust hub trap kite sentence aunt sand spring expand problem neck";
+var mnemonic = "collect follow clutch almost vapor note wasp cook minute dwarf pave emotion";

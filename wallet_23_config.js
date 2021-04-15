@@ -1,1 +1,1 @@
-var mnemonic = "collect muscle unusual wonder fiber inner awful usage check limit remind mandate";
+var mnemonic = "involve idea major shaft record frost crane bunker goddess paper attend rally";

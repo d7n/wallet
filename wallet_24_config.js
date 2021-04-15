@@ -1,1 +1,1 @@
-var mnemonic = "ice utility recall wage actual fantasy gasp naive route fresh music tooth";
+var mnemonic = "bicycle fault display rabbit object among suggest phone nephew rail height unable";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb crystal dignity spare waste outside harsh radio state rebuild wasp estate";
+var mnemonic = "face cabin express system tone public already wealth miracle alcohol sauce express";

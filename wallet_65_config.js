@@ -1,1 +1,1 @@
-var mnemonic = "peasant rule ride eight frozen cupboard wild delay square sun street review";
+var mnemonic = "fragile fringe frog fossil catch hard exact hedgehog stadium suggest acquire parent";

@@ -1,1 +1,1 @@
-var mnemonic = "worry family congress buffalo strike staff plastic crouch talk observe caution honey";
+var mnemonic = "dawn language derive abandon veteran group father dog silk egg thunder delay";

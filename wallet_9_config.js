@@ -1,1 +1,1 @@
-var mnemonic = "chimney slight prison ozone find reduce reduce luxury deputy body ozone either";
+var mnemonic = "squeeze income possible slush office erosion betray start drum execute move ostrich";

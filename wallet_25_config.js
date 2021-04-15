@@ -1,1 +1,1 @@
-var mnemonic = "abuse bike unlock above main slide brain jaguar menu portion jaguar peace";
+var mnemonic = "joke robust inhale reunion final crime cigar useful body extra host album";

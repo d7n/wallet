@@ -1,1 +1,1 @@
-var mnemonic = "suit trial history immense ethics fatal buddy slender wise thank payment health";
+var mnemonic = "symbol laptop eternal today stool glare orchard stock gate faint bargain carpet";

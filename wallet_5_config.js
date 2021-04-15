@@ -1,1 +1,1 @@
-var mnemonic = "celery repeat swap sunset fog icon alien adult silly zero tide trade";
+var mnemonic = "engine aunt blame eight pen tool clerk frog simple tissue quarter modify";

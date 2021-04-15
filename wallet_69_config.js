@@ -1,1 +1,1 @@
-var mnemonic = "syrup flush trap ocean build engage hover alarm chronic document bird sausage";
+var mnemonic = "pig pupil chair impact genius pepper gallery pull knock cloth tired magnet";

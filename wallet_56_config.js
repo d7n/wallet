@@ -1,1 +1,1 @@
-var mnemonic = "two crawl tenant kingdom inquiry chief claim fossil valid alter season lemon";
+var mnemonic = "tomato idea vanish anxiety custom kick plastic invest phone canoe indicate donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel critic genius december cliff truck drink modify rigid popular media sort";
+var mnemonic = "connect imitate uncover unit vote tilt sugar erupt layer dilemma route possible";

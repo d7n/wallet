@@ -1,1 +1,1 @@
-var mnemonic = "online uniform unknown want lamp faculty fish promote angry enjoy police diamond";
+var mnemonic = "endorse buyer caught palace orchard few toast cargo special term museum gas";

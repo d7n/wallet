@@ -1,1 +1,1 @@
-var mnemonic = "jaguar nominee tooth chaos next manage fit rude expire blind blossom ugly";
+var mnemonic = "assist pet era allow install error mutual palace weekend gesture cart eager";

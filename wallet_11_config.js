@@ -1,1 +1,1 @@
-var mnemonic = "earth inch creek desert outdoor merry wait beyond snack absurd rule pupil";
+var mnemonic = "river kitten knife climb final dry script note nose skin reason board";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle slide visa village phone blade april crawl light story regret civil";
+var mnemonic = "focus frozen charge unknown giant rapid dose dismiss multiply guard strike harbor";

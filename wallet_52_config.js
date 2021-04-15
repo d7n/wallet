@@ -1,1 +1,1 @@
-var mnemonic = "kick old profit genius bachelor sadness kitten sample project depth wire hint";
+var mnemonic = "duty knee benefit cable need rather pig grant alcohol trophy wheel exchange";

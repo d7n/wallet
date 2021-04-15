@@ -1,1 +1,1 @@
-var mnemonic = "hill ripple jelly rival bounce bridge control tongue upon vicious certain age";
+var mnemonic = "script suggest curve siege course crunch indicate naive roof rebuild trumpet debate";

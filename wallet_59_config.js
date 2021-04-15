@@ -1,1 +1,1 @@
-var mnemonic = "able ring boil nuclear fiction aspect element planet dizzy question payment alley";
+var mnemonic = "absorb dove regular code fence thrive satoshi dry require hour island night";

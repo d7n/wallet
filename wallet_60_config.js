@@ -1,1 +1,1 @@
-var mnemonic = "property wave master cube buyer stadium eternal large case wisdom eye fabric";
+var mnemonic = "trap reason cluster artwork people stable pilot perfect script canoe lion team";

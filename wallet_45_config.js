@@ -1,1 +1,1 @@
-var mnemonic = "chef social rate brick hip museum example vault flock profit cannon antenna";
+var mnemonic = "reduce venture huge garlic hawk client misery universe silent million school loud";

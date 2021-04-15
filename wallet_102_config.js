@@ -1,1 +1,1 @@
-var mnemonic = "spoil curtain spray fragile struggle orient catch shrimp tooth attitude pride destroy";
+var mnemonic = "tower dice typical effort offer renew bright stick pigeon siege fame clump";

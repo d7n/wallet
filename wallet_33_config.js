@@ -1,1 +1,1 @@
-var mnemonic = "goat sick cry oil laugh mail reflect slam music window hybrid between";
+var mnemonic = "measure rural weapon tortoise crowd soda world exact coach gain frame where";

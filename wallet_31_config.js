@@ -1,1 +1,1 @@
-var mnemonic = "order foster animal asthma ritual quantum brother salmon chapter shrimp hockey enhance";
+var mnemonic = "below short drum fortune mixture bachelor gloom color spoil ignore coffee multiply";

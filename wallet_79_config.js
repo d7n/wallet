@@ -1,1 +1,1 @@
-var mnemonic = "elbow lab kitchen account all game wasp solution caught farm hood like";
+var mnemonic = "immense dog isolate addict kick gentle sibling hint confirm tent trap miss";

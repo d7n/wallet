@@ -1,1 +1,1 @@
-var mnemonic = "bone bullet virtual front action mansion music peasant brief slot crawl innocent";
+var mnemonic = "tortoise soap catch used know blame picnic odor behave office install winter";

@@ -1,1 +1,1 @@
-var mnemonic = "brand rack bracket useless sort soda junior mushroom nut potato fantasy opinion";
+var mnemonic = "jar idea dragon dinosaur surface direct ethics sorry before predict unlock coil";

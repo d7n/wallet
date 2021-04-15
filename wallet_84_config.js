@@ -1,1 +1,1 @@
-var mnemonic = "hover device neglect useless marine december unfair patrol sample shoe ill work";
+var mnemonic = "enemy announce dilemma void team print seat message defy network sort mirror";

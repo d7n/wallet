@@ -1,1 +1,1 @@
-var mnemonic = "myth retreat hybrid abstract drift bench frost average elbow staff absurd permit";
+var mnemonic = "fat trigger physical away flash crisp blanket coconut degree option leaf coast";

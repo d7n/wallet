@@ -1,1 +1,1 @@
-var mnemonic = "west fiber blossom globe deer ceiling shrug blade happy border ignore bone";
+var mnemonic = "exile pizza champion present pull tone alone target funny art attack owner";

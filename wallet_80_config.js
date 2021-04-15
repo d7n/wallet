@@ -1,1 +1,1 @@
-var mnemonic = "replace decade say music catch range world long arrest replace envelope flush";
+var mnemonic = "spread chicken bitter gun never twist spatial puzzle oak stage timber host";

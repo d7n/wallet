@@ -1,1 +1,1 @@
-var mnemonic = "ripple kid north cage boy visa hint soldier survey invite decorate hollow";
+var mnemonic = "model chief nerve identify asset project fun camera hammer cousin lyrics cigar";

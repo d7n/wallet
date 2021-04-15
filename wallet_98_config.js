@@ -1,1 +1,1 @@
-var mnemonic = "engine juice screen large tone planet party obtain crowd paper friend unhappy";
+var mnemonic = "hen confirm ribbon ribbon walk police arrive card omit fox stock wedding";

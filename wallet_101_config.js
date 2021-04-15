@@ -1,1 +1,1 @@
-var mnemonic = "recall despair load tooth foil humor dragon elite oyster mouse evidence model";
+var mnemonic = "husband weather insect pottery cube nephew rule keep beach you scissors blue";

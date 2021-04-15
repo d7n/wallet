@@ -1,1 +1,1 @@
-var mnemonic = "mix emerge eternal list aware surround initial shoot potato wrap lecture reflect";
+var mnemonic = "pact rebuild symbol wood used runway exact wild old movie sheriff farm";

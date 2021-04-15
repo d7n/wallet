@@ -1,1 +1,1 @@
-var mnemonic = "cruise deal solid task glimpse toilet blush wash save visual sock market";
+var mnemonic = "frog dance gift stable marble island seek choice dash glow old fit";

@@ -1,1 +1,1 @@
-var mnemonic = "ill infant hollow cousin arrive green foil valve future chronic envelope fancy";
+var mnemonic = "find knee remain hospital slam drop brass squeeze violin buzz volcano wheel";

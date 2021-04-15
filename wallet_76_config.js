@@ -1,1 +1,1 @@
-var mnemonic = "frost capital heavy hen side notable bean label south alone ancient stomach";
+var mnemonic = "stay ancient income rebuild reason curtain struggle airport benefit bonus alter animal";

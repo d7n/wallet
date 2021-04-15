@@ -1,1 +1,1 @@
-var mnemonic = "obey verb check range hold average sister electric enhance work portion track";
+var mnemonic = "weird network agent mail tomato brick manage orphan scan fancy obscure gas";

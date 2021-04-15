@@ -1,1 +1,1 @@
-var mnemonic = "nothing aunt pair fat shock harvest reunion unhappy add tower blind oak";
+var mnemonic = "obey tunnel behave limb fruit agent acquire verify history pond patient peace";

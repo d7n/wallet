@@ -1,1 +1,1 @@
-var mnemonic = "develop inquiry upgrade dinosaur circle senior cat coast day brick rapid still";
+var mnemonic = "carry solid turtle drastic stumble source slender allow victory original moral mystery";

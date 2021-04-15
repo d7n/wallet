@@ -1,1 +1,1 @@
-var mnemonic = "exile inch science tiger noodle shed oblige cliff trophy cup pledge engage";
+var mnemonic = "ten zero engine alien bar width tomato evidence spin warfare shock bronze";

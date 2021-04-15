@@ -1,1 +1,1 @@
-var mnemonic = "width immune rabbit portion rigid loud side various carbon genre invest advance";
+var mnemonic = "sausage cannon tomato elephant chest brief tail naive nature accuse mass steel";

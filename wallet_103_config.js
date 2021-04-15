@@ -1,1 +1,1 @@
-var mnemonic = "open world rather cinnamon high unfair egg thought skill outer gospel bounce";
+var mnemonic = "this pen candy repeat audit fog bind mass offer casino bamboo pretty";

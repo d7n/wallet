@@ -1,1 +1,1 @@
-var mnemonic = "coast snake action puzzle system onion radio velvet fruit convince suit brief";
+var mnemonic = "tone bless garbage vacuum dynamic goddess spread enjoy member magnet thank fame";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic slide safe kitten theme under upper order code asset satoshi erode";
+var mnemonic = "aim firm hint kind private knife govern knife news end leave celery";

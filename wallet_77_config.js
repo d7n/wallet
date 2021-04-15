@@ -1,1 +1,1 @@
-var mnemonic = "farm thank crumble shallow cotton siege wear major satisfy prize blade brother";
+var mnemonic = "bunker matter urge pulse artefact reason draw drive scale pyramid gentle decide";

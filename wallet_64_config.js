@@ -1,1 +1,1 @@
-var mnemonic = "collect spot foam response element lens giraffe raw city wrist quantum view";
+var mnemonic = "prison move alert occur modify nose still coral pumpkin rich blanket chunk";

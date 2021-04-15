@@ -1,1 +1,1 @@
-var mnemonic = "ticket curtain photo enough ghost boat dutch video expire fox lesson pair";
+var mnemonic = "cotton aim mystery speak explain always museum clinic knife basket boil bachelor";

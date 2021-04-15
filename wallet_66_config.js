@@ -1,1 +1,1 @@
-var mnemonic = "question begin dinosaur lazy palace defense donate wait rough stereo dismiss regret";
+var mnemonic = "useless rubber outer remind spin daughter member stick track divide scale fog";

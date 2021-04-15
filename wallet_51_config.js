@@ -1,1 +1,1 @@
-var mnemonic = "album hospital scheme agree sport dish copy antenna thumb exit shock pact";
+var mnemonic = "safe project debate rare flock end funny use crisp first hood tunnel";

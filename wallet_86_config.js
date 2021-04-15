@@ -1,1 +1,1 @@
-var mnemonic = "sister evolve pluck giggle erase betray fancy video dizzy toast echo wisdom";
+var mnemonic = "shuffle ribbon secret ankle happy essay reward raccoon huge outer wasp trumpet";

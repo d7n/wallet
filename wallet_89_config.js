@@ -1,1 +1,1 @@
-var mnemonic = "slush version auto situate today outdoor build vapor circle retire index orange";
+var mnemonic = "wedding rhythm truly cousin symptom edge capital cry absurd tell wire impulse";

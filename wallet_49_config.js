@@ -1,1 +1,1 @@
-var mnemonic = "seminar buddy volume fire carry chat car swamp sell short mad boy";
+var mnemonic = "traffic pave cause feed dune goat void knee spot width cause current";

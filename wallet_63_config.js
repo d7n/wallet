@@ -1,1 +1,1 @@
-var mnemonic = "rabbit stock zoo garlic young hip glide hint ugly energy orphan between";
+var mnemonic = "private observe health spirit nation useful very ticket urge unveil cake void";

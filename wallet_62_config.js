@@ -1,1 +1,1 @@
-var mnemonic = "weather crumble defy celery galaxy kiss you movie solve inner silver sausage";
+var mnemonic = "rigid define seed december deer blue must pulse cousin window slam like";

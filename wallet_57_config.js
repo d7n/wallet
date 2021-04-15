@@ -1,1 +1,1 @@
-var mnemonic = "anxiety left remind dash grape velvet symbol leopard pizza dynamic injury brother";
+var mnemonic = "bind over clean easily foot humor weather web street spawn slender rookie";

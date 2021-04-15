@@ -1,1 +1,1 @@
-var mnemonic = "hurry hand never slot labor rib proof relax endless rapid park license";
+var mnemonic = "turtle oak calm moral solve camera put barely current artefact ozone clump";
