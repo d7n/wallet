@@ -1,1 +1,1 @@
-var mnemonic = "forget organ pass response rich swarm bounce crucial appear awful want dignity";
+var mnemonic = "cinnamon smooth live wagon stay uncover spoon speak infant frown credit sting";

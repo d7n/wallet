@@ -1,1 +1,1 @@
-var mnemonic = "address private raven rebuild ability harvest cat catalog script robot observe can";
+var mnemonic = "tone rice penalty again ensure disorder chapter funny actress brother subject glory";

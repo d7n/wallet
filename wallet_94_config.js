@@ -1,1 +1,1 @@
-var mnemonic = "include relax bike flame runway vague timber thrive transfer twelve beyond nominee";
+var mnemonic = "cinnamon sorry term require together burden sleep puppy patch scrap divorce load";

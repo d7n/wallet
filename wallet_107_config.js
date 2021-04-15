@@ -1,1 +1,1 @@
-var mnemonic = "polar reunion sting knee token hammer luxury basic enemy oval family author";
+var mnemonic = "project orphan craft lucky hundred current gorilla science work eagle topic describe";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna bid stay enjoy entry flame snack west subject unfold mosquito vintage";
+var mnemonic = "benefit disagree member loop design frown vote flock frown seminar sleep minimum";

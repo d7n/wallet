@@ -1,1 +1,1 @@
-var mnemonic = "merit lamp laundry jewel laptop forget client narrow approve color room anger";
+var mnemonic = "toward table forum wise wonder february husband salad swift wrap fan voice";

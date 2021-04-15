@@ -1,1 +1,1 @@
-var mnemonic = "nasty useful nurse awesome cart pluck pause spell obvious twist twice fiscal";
+var mnemonic = "first check height glory dust breeze blossom liar path believe solution install";

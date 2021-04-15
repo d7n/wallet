@@ -1,1 +1,1 @@
-var mnemonic = "gallery win stable glory list bread rib harvest unit gather photo other";
+var mnemonic = "response average churn toe castle property thing injury trip cool cabin sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "mad era easy blanket wisdom mouse resemble wool jump resemble work uphold";
+var mnemonic = "vacuum they equal permit strong clock maze secret bulk knock bulb rely";

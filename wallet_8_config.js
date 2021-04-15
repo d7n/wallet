@@ -1,1 +1,1 @@
-var mnemonic = "pull advice column lava recall tornado always step drink agree jump march";
+var mnemonic = "flag measure steak permit wheat debris slab youth usual glory judge diet";

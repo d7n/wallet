@@ -1,1 +1,1 @@
-var mnemonic = "wheat rug blind divorce abstract spatial mind radio tool carpet when forward";
+var mnemonic = "ribbon economy core advance capital ability click short bone reason smile ceiling";

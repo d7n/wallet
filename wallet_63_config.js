@@ -1,1 +1,1 @@
-var mnemonic = "length calm soul ship dash thunder give vendor inherit meadow couch field";
+var mnemonic = "throw sea crowd ticket isolate spider wife found already priority heart trick";

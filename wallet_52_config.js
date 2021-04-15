@@ -1,1 +1,1 @@
-var mnemonic = "reunion glimpse current armed exit swift ahead tape hollow winter mistake replace";
+var mnemonic = "film hat napkin garage increase execute analyst chef text eager skin exact";

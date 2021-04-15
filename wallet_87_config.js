@@ -1,1 +1,1 @@
-var mnemonic = "basic orchard frame glow pause round sure bench trim differ cave reward";
+var mnemonic = "wide power wink degree mosquito core stuff certain banner indoor reflect peace";

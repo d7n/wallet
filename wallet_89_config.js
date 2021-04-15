@@ -1,1 +1,1 @@
-var mnemonic = "music torch mad hybrid faint diagram discover divide scheme amount enough used";
+var mnemonic = "enjoy illness measure legend disorder chat pledge advance vintage tank alien wing";

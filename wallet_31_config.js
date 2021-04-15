@@ -1,1 +1,1 @@
-var mnemonic = "kick parrot rate defy evolve slush crystal velvet host kite enough crater";
+var mnemonic = "soft used crash window raise document couch panther stadium eager fiction happy";

@@ -1,1 +1,1 @@
-var mnemonic = "give cheap range rookie guide weekend gospel zebra damage column desk hood";
+var mnemonic = "salt alarm era motor face rent abstract race farm space absurd team";

@@ -1,1 +1,1 @@
-var mnemonic = "cute target spoil acquire first squeeze addict cave student wisdom wire diesel";
+var mnemonic = "horror gold allow must demand pride resource diagram brisk awful fog find";

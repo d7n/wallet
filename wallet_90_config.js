@@ -1,1 +1,1 @@
-var mnemonic = "spatial census elegant rack merit jewel spawn illegal tent identify typical online";
+var mnemonic = "step invest oppose either cruise process open cousin ability always lab turn";

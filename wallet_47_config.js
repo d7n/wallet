@@ -1,1 +1,1 @@
-var mnemonic = "index permit injury diesel custom pattern tomato alley wrap harbor potato always";
+var mnemonic = "rocket city ten tourist exile accident cross divert answer father require total";

@@ -1,1 +1,1 @@
-var mnemonic = "wage teach actor air split custom supply inner yellow tree knife hill";
+var mnemonic = "cargo humble exact people solution filter crane demand neck wall gentle stove";

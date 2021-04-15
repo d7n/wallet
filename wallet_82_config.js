@@ -1,1 +1,1 @@
-var mnemonic = "quiz exchange crew tag range arrange conduct slot edit hen model flag";
+var mnemonic = "barrel way access net seven require canvas into lion unhappy witness similar";

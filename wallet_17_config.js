@@ -1,1 +1,1 @@
-var mnemonic = "zone vital limit similar novel collect orange input van valid essence pioneer";
+var mnemonic = "hip engine crowd police able fame slim myself noble solar rhythm obey";

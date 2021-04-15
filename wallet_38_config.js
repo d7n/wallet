@@ -1,1 +1,1 @@
-var mnemonic = "glory rib midnight diagram increase spirit fiction bulk grief voyage possible near";
+var mnemonic = "slam avocado wish know suit urban lunch decorate idea drop dream nose";

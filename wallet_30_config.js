@@ -1,1 +1,1 @@
-var mnemonic = "half giraffe jewel isolate neglect point say true effort detect table near";
+var mnemonic = "define wet deny flower supreme prepare obvious eyebrow glow mushroom stable whale";

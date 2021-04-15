@@ -1,1 +1,1 @@
-var mnemonic = "impose roof bread text silver right idea town broom ignore lottery hood";
+var mnemonic = "torch work holiday engine crouch chief artefact park liquid attend dynamic mobile";

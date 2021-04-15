@@ -1,1 +1,1 @@
-var mnemonic = "undo deposit bread shell soda between drift humble month midnight coast labor";
+var mnemonic = "alpha kind shock slight canyon canal chalk age key amused copper oven";

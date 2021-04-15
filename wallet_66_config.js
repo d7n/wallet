@@ -1,1 +1,1 @@
-var mnemonic = "obscure verb there episode win differ february polar buzz remind lesson cook";
+var mnemonic = "defense polar ugly cool sibling one culture tape noodle focus strike video";

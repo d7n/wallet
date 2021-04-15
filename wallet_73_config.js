@@ -1,1 +1,1 @@
-var mnemonic = "trap announce bike divorce ugly drip shallow rubber body room wolf music";
+var mnemonic = "shrug poet hamster garden dial near entire hazard visit deputy hidden hill";

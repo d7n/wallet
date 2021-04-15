@@ -1,1 +1,1 @@
-var mnemonic = "exhaust junk worry assault donkey result rib idle step few stove rather";
+var mnemonic = "detect hurdle sense abuse vocal uphold orbit atom deposit attitude accuse assume";

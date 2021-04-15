@@ -1,1 +1,1 @@
-var mnemonic = "gorilla media hammer crisp hundred snake antenna road main lesson wear scare";
+var mnemonic = "lemon bean inner clarify patch ticket unfold scout inherit cargo ordinary sock";

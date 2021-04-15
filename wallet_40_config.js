@@ -1,1 +1,1 @@
-var mnemonic = "skill grass use blood delay rain cherry peace scrap thought bamboo world";
+var mnemonic = "together drill penalty reduce pulp section hen height concert shove grid alley";

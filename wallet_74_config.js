@@ -1,1 +1,1 @@
-var mnemonic = "drip symptom else naive crazy vague stereo congress release simple park current";
+var mnemonic = "merit rhythm note cupboard idea deposit suggest glance rib rug come donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe decorate submit bar hazard avocado wonder dignity pumpkin spot jar knock";
+var mnemonic = "trust naive across upper chalk scan pear layer educate account urge wheel";

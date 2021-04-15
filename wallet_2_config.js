@@ -1,1 +1,1 @@
-var mnemonic = "thrive master goose print ugly ten video fine nurse promote hamster giant";
+var mnemonic = "tool nurse level fossil plug breeze empty involve vital bright false morning";

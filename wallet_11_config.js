@@ -1,1 +1,1 @@
-var mnemonic = "enable rude design way say force prison globe cable top swift noise";
+var mnemonic = "stay dice whisper load nest devote blanket light gun okay inflict marble";

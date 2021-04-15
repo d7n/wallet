@@ -1,1 +1,1 @@
-var mnemonic = "conduct step art receive equip exclude candy hybrid butter broken strong fever";
+var mnemonic = "hood code green friend inherit ball cheap industry label combine original target";

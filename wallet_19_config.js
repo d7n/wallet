@@ -1,1 +1,1 @@
-var mnemonic = "consider fantasy stadium rug have prefer sheriff license garment creek ostrich near";
+var mnemonic = "cabin forget brand across basic profit rent during strong patch drum lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "dress gap fun welcome light gaze print absorb family chest parent endorse";
+var mnemonic = "siege cattle differ pluck brave void law river peanut advice slogan whip";

@@ -1,1 +1,1 @@
-var mnemonic = "salon flip phrase medal acquire library defense luxury error gap orchard govern";
+var mnemonic = "script metal swap such treat twice squirrel news shallow debris vocal salon";

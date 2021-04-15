@@ -1,1 +1,1 @@
-var mnemonic = "exchange avocado asthma wet juice pioneer super this imitate eternal live brand";
+var mnemonic = "middle switch lawn young disagree fish solution sight auto buyer merry fall";

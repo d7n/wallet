@@ -1,1 +1,1 @@
-var mnemonic = "various skill size defy orient pull love future crouch spatial fiction stadium";
+var mnemonic = "network gaze moment unit pass custom story tunnel man load forest gadget";

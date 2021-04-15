@@ -1,1 +1,1 @@
-var mnemonic = "worry appear judge cargo series famous census file ignore pupil easily crisp";
+var mnemonic = "usage assume coyote bomb matter leg easy found bus prison hurry knock";

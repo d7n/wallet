@@ -1,1 +1,1 @@
-var mnemonic = "taste canal human series cover review vocal picture exist gloom trumpet kiss";
+var mnemonic = "stick market strike knife wedding impact advance depend million mind label gentle";

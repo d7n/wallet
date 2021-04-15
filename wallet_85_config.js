@@ -1,1 +1,1 @@
-var mnemonic = "number phone grocery winter plate original obtain borrow axis brass illness success";
+var mnemonic = "trick race gain kick grid canvas frog country october reunion discover tuition";

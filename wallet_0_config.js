@@ -1,1 +1,1 @@
-var mnemonic = "absurd decade copper route original cross already angle order smile great good";
+var mnemonic = "resource sustain finish tomorrow armor once buyer ribbon enable engage ski eight";

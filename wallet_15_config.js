@@ -1,1 +1,1 @@
-var mnemonic = "chapter hockey bronze private valid anxiety target wedding require alpha random laundry";
+var mnemonic = "planet feed loop armor symptom program woman mask world response school peace";

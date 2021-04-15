@@ -1,1 +1,1 @@
-var mnemonic = "sting skill zero guess cruise protect earth rare cement alter fluid speak";
+var mnemonic = "describe sing garlic nut eager verb blanket dynamic tip vintage identify father";

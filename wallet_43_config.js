@@ -1,1 +1,1 @@
-var mnemonic = "open demand output border proud holiday project hammer main desk suffer galaxy";
+var mnemonic = "taste ignore oblige illness weasel grid shallow breeze hood bicycle climb useful";

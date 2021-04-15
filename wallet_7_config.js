@@ -1,1 +1,1 @@
-var mnemonic = "drum piece bright shine label smoke air wheat glue wire tissue rescue";
+var mnemonic = "entire under athlete physical ozone brick chunk cry just song item patch";

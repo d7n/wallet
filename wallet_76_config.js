@@ -1,1 +1,1 @@
-var mnemonic = "home obvious school occur process awesome simple finish ride horn usual afford";
+var mnemonic = "galaxy mechanic holiday aware magic arrive barely repeat motion member goddess dress";

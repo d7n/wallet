@@ -1,1 +1,1 @@
-var mnemonic = "crucial horror century stomach divorce mass goat describe art name dilemma frequent";
+var mnemonic = "foster cry you image alert remember creek conduct three kiss soap virus";

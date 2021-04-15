@@ -1,1 +1,1 @@
-var mnemonic = "danger retreat crime inside pull wreck mango rebel blossom enrich spawn latin";
+var mnemonic = "cannon when extend cross spice quit file ski soft virtual teach recycle";

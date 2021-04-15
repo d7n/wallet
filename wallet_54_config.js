@@ -1,1 +1,1 @@
-var mnemonic = "garage lumber choose episode mail kind immune profit age decorate dry quick";
+var mnemonic = "copy tip picnic thank wage foster morning stable extra divert candy repair";

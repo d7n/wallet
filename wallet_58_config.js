@@ -1,1 +1,1 @@
-var mnemonic = "arm weird nice pelican rally brush furnace august stick village snap tent";
+var mnemonic = "praise furnace shallow pool drill foster car innocent tip scale wire hollow";

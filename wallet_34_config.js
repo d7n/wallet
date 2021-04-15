@@ -1,1 +1,1 @@
-var mnemonic = "execute thrive embody stool theory crystal stuff raise loan bullet innocent knee";
+var mnemonic = "chimney cable then denial pave prevent ripple dawn black reveal diet habit";

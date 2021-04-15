@@ -1,1 +1,1 @@
-var mnemonic = "across cart once exhaust winner clip trial orient achieve erode enable vicious";
+var mnemonic = "hand crucial frozen prosper side gorilla soft banana design squirrel brown impulse";

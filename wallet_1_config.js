@@ -1,1 +1,1 @@
-var mnemonic = "throw depth viable uphold swallow clog culture canyon robot shy dress artwork";
+var mnemonic = "woman behave medal swallow lunar smoke salmon goddess reflect supreme cute funny";

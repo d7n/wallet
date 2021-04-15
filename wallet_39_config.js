@@ -1,1 +1,1 @@
-var mnemonic = "auction ethics observe silly hurt used stamp behave length melody ketchup taste";
+var mnemonic = "category void canvas output still gorilla rare three scene nasty laundry love";

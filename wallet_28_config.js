@@ -1,1 +1,1 @@
-var mnemonic = "together rapid bomb scare veteran spike derive badge utility glide exhibit there";
+var mnemonic = "winter acid spare gadget render outdoor grant same illegal farm security verify";

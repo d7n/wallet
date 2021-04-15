@@ -1,1 +1,1 @@
-var mnemonic = "since bread magnet swift frost diet runway ticket aisle napkin muffin then";
+var mnemonic = "early believe recipe area entry width switch day creek asthma fetch buddy";

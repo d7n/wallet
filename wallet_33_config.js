@@ -1,1 +1,1 @@
-var mnemonic = "begin search connect tell welcome flock during hidden frozen increase service steak";
+var mnemonic = "margin fitness select merge hungry mistake warm glad cable unit tomorrow stone";

@@ -1,1 +1,1 @@
-var mnemonic = "police hood chief doctor pluck uncle addict inch forward science width impact";
+var mnemonic = "found margin try artefact flight arch butter industry pizza ticket trigger bottom";

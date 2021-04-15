@@ -1,1 +1,1 @@
-var mnemonic = "tragic burden finish give pigeon cruise drastic chicken mask increase purity flame";
+var mnemonic = "destroy rebel click deliver trick casino account eager old direct market siren";

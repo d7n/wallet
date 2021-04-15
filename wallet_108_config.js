@@ -1,1 +1,1 @@
-var mnemonic = "cannon glad base region office version gun bomb direct skirt trial harsh";
+var mnemonic = "simple build kitten kingdom note predict van buddy approve cactus siren job";

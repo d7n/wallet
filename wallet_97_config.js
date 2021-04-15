@@ -1,1 +1,1 @@
-var mnemonic = "acoustic juice behave fluid assist distance doll heavy amateur vote express bring";
+var mnemonic = "word hawk grant teach castle resource another lucky gold yellow gossip more";

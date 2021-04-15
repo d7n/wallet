@@ -1,1 +1,1 @@
-var mnemonic = "trumpet wagon whisper spy guitar fury bonus organ frown paper wagon oak";
+var mnemonic = "slight bachelor embrace exhaust resource hawk antique fluid stereo funny season jar";

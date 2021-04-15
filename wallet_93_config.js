@@ -1,1 +1,1 @@
-var mnemonic = "loop dune latin field tank mutual misery cradle govern collect goat allow";
+var mnemonic = "pond idea festival awesome era lonely parent dignity maximum enable ethics cattle";

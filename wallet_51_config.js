@@ -1,1 +1,1 @@
-var mnemonic = "more legal service motor dragon position farm female dish video exhibit image";
+var mnemonic = "flock switch planet unusual adjust rival slender select exercise render license clinic";

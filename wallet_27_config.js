@@ -1,1 +1,1 @@
-var mnemonic = "issue warm betray hobby sorry naive joke fee access smile cigar episode";
+var mnemonic = "item month wink soldier lawsuit feature tumble involve fold april dynamic warm";

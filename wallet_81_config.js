@@ -1,1 +1,1 @@
-var mnemonic = "upset north clerk build silver lake anger notice patch problem letter raise";
+var mnemonic = "north twice session fee rely cause clock cup trade please impulse traffic";

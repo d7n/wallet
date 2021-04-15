@@ -1,1 +1,1 @@
-var mnemonic = "define magic shy color blood cheap jazz title quick alpha output slab";
+var mnemonic = "bacon invite stable inside decide okay grief purchase access primary dragon ten";

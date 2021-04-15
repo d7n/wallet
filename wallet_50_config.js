@@ -1,1 +1,1 @@
-var mnemonic = "salt faculty catch surface civil drama sponsor february weather omit tail human";
+var mnemonic = "cargo unhappy harvest sea target also gold soon decrease cost canvas tank";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb sustain carry fetch badge fix empty unlock alter east grain chat";
+var mnemonic = "noise wash frozen attack soul fly tumble true inherit egg proud charge";

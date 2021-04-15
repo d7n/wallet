@@ -1,1 +1,1 @@
-var mnemonic = "physical obtain cart supreme fury donate abandon neutral sense exclude purity sleep";
+var mnemonic = "palm sibling speed canvas detail ostrich narrow thank correct man fan poem";

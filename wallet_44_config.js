@@ -1,1 +1,1 @@
-var mnemonic = "refuse subway feed sell swear arrest cousin kind jealous aunt field scissors";
+var mnemonic = "garlic family staff civil party adult already indoor maze student column fringe";

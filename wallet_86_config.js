@@ -1,1 +1,1 @@
-var mnemonic = "jar squeeze pizza slide fiscal cream bring gallery paper aunt thrive school";
+var mnemonic = "body heart snack skirt surge gas veteran half ocean old hat lunar";

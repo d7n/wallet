@@ -1,1 +1,1 @@
-var mnemonic = "old buffalo sibling matter post wine price route cart body blouse want";
+var mnemonic = "educate journey tourist assault program better bleak impact hill divide impose bundle";

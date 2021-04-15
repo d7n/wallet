@@ -1,1 +1,1 @@
-var mnemonic = "opinion oxygen toilet cruise search arrow genius practice kingdom vintage over paper";
+var mnemonic = "sight banana found catalog six remind stairs inquiry okay enact brick space";

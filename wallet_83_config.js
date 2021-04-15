@@ -1,1 +1,1 @@
-var mnemonic = "outside hammer rubber behave offer tide awake blast useless fuel obvious swing";
+var mnemonic = "diary reopen cube frequent gesture prepare spring start differ carbon mixture phone";

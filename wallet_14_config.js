@@ -1,1 +1,1 @@
-var mnemonic = "beauty body jelly onion casino evoke device winner hero gain fork figure";
+var mnemonic = "kitchen radar orange verb guitar waste flight mimic shaft lonely rifle owner";

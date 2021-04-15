@@ -1,1 +1,1 @@
-var mnemonic = "woman differ hub prevent security pave pet diagram balance great exile truck";
+var mnemonic = "negative opera link path return visa zoo curtain rural outdoor goat music";

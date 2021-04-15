@@ -1,1 +1,1 @@
-var mnemonic = "latin lottery sponsor reveal retreat exercise gather pond explain peasant crater effort";
+var mnemonic = "answer myth wood original old host planet regret column clay ball senior";

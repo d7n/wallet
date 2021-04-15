@@ -1,1 +1,1 @@
-var mnemonic = "settle under hawk source board quality gadget hedgehog sweet member weird language";
+var mnemonic = "name surface wrist asthma oven inquiry group push suit unlock woman top";

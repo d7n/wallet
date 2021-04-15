@@ -1,1 +1,1 @@
-var mnemonic = "spare news toy truck crush begin biology say wood victory name vague";
+var mnemonic = "eager action emotion make soup modify crime price ethics couple local name";
