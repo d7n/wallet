@@ -1,1 +1,1 @@
-var mnemonic = "canyon earth umbrella mushroom potato agent attitude volcano super wet review bridge";
+var mnemonic = "fork frame must brand plate run task social assault decade image assist";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy rain retreat help ivory rocket minimum speed artwork offer priority predict";
+var mnemonic = "volume garlic peace venture curve draw cricket siege dash sudden hawk across";

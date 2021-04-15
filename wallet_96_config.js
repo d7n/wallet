@@ -1,1 +1,1 @@
-var mnemonic = "benefit repair way cousin comfort vintage inside ecology pipe fluid harbor zebra";
+var mnemonic = "team depth image fiction assault between athlete once topple visit call rail";

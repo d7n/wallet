@@ -1,1 +1,1 @@
-var mnemonic = "pause notice bleak champion source silent bronze later brain weekend example quality";
+var mnemonic = "junior super awesome green talent brother uniform timber ability derive carpet spot";

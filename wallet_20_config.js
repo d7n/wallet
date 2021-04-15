@@ -1,1 +1,1 @@
-var mnemonic = "clown step visit country logic march jewel drop benefit talent winner shift";
+var mnemonic = "together change novel extend ugly give reunion will voyage message clarify way";

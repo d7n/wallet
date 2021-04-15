@@ -1,1 +1,1 @@
-var mnemonic = "current visual estate desert remain pill useless crazy hurt still require onion";
+var mnemonic = "congress auto balance rice relief dutch decrease wood cup bargain notice weather";

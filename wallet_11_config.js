@@ -1,1 +1,1 @@
-var mnemonic = "carbon arrest super obscure strong sort tape cousin spider speak warrior execute";
+var mnemonic = "ankle knife cool local surface near dwarf birth library trumpet spot strong";

@@ -1,1 +1,1 @@
-var mnemonic = "song perfect water tube skate dilemma fat frequent curious subject enhance chunk";
+var mnemonic = "tilt solar find radar marriage add gorilla snap tissue habit void question";

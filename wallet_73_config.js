@@ -1,1 +1,1 @@
-var mnemonic = "change provide cram audit clean argue fit heavy trouble solar cram urge";
+var mnemonic = "ugly turtle flame rather baby spoon ghost rug garbage isolate alarm donkey";

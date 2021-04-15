@@ -1,1 +1,1 @@
-var mnemonic = "dutch wrap seek couch struggle taste blouse coral radar duck antenna front";
+var mnemonic = "morning aware truly private annual random hollow pink twelve tornado dash document";

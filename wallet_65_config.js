@@ -1,1 +1,1 @@
-var mnemonic = "vacuum ensure travel still paddle donor answer saddle south twist rare stamp";
+var mnemonic = "pumpkin buzz area grant intact opinion math wedding lottery nose indicate drift";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle escape reveal conduct couple hundred forest view burden chair potato reveal";
+var mnemonic = "coyote faculty robust tag disagree erase myself walnut nephew chicken ozone ramp";

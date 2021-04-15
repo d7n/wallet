@@ -1,1 +1,1 @@
-var mnemonic = "resemble soul enter spring light cannon tank term burst route daring join";
+var mnemonic = "hammer admit pet grid exile can shift brisk window oyster animal ketchup";

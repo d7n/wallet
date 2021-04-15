@@ -1,1 +1,1 @@
-var mnemonic = "dismiss basket globe choice arrest turkey million shock sunny pledge field cloud";
+var mnemonic = "arrow picture chief slim ring pet three fun jungle dice sock super";

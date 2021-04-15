@@ -1,1 +1,1 @@
-var mnemonic = "oppose spawn thought warm drum sign rhythm mass ancient life arrive style";
+var mnemonic = "absorb fade fee vessel bonus crisp polar planet produce olive bar throw";

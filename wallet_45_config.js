@@ -1,1 +1,1 @@
-var mnemonic = "brain animal purse reunion north shell wait once current diary pear live";
+var mnemonic = "sing spray bird betray bike outdoor mask spare dirt whisper subject lunch";

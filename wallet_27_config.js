@@ -1,1 +1,1 @@
-var mnemonic = "buddy robot town wolf grit draw either solve door sun impact lawsuit";
+var mnemonic = "onion replace basket practice cancel flee flight bone nerve morning stock dinner";

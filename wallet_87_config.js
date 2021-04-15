@@ -1,1 +1,1 @@
-var mnemonic = "better card banana exchange warfare same devote hotel sword place slogan midnight";
+var mnemonic = "work blade bicycle early aspect prison rival expect diamond grape april cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear assist weekend box supply ranch retreat wear age please endorse chicken";
+var mnemonic = "bargain mimic video endorse pill scheme mechanic eagle fish together response horror";

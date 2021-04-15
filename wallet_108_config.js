@@ -1,1 +1,1 @@
-var mnemonic = "demand excess swamp dawn park more afraid hour cupboard unveil stock romance";
+var mnemonic = "medal inflict tape toward lamp rifle orange canvas derive globe pill beauty";

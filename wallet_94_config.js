@@ -1,1 +1,1 @@
-var mnemonic = "radar october lawsuit resist month glare during permit lazy chapter blossom tongue";
+var mnemonic = "twenty survey city nice acid excess crack offer jelly inhale page solve";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery capital multiply during dawn crane catalog try verb agree hire guide";
+var mnemonic = "puppy poem bonus subway slight ostrich muscle affair top casual collect angry";

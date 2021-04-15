@@ -1,1 +1,1 @@
-var mnemonic = "leg caught garden click pink plunge goose dentist oppose casino kingdom defy";
+var mnemonic = "stairs square parrot enter blouse gas weasel aware begin extra cook spoon";

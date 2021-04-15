@@ -1,1 +1,1 @@
-var mnemonic = "nut tiny sound exercise cushion soda color slogan police change devote chapter";
+var mnemonic = "avoid artwork charge ivory item immune flight crush captain owner dismiss era";

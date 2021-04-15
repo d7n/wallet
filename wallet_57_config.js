@@ -1,1 +1,1 @@
-var mnemonic = "quick rescue radar half crane relax glimpse unfair illness jump east sun";
+var mnemonic = "dose copy sunny promote wide rocket arrow idea story observe bottom total";

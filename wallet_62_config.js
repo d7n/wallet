@@ -1,1 +1,1 @@
-var mnemonic = "clown hybrid wild assist clean river voyage peace blind awake keen rich";
+var mnemonic = "toss engage slender profit law veteran believe drill cat runway chalk bonus";

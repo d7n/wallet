@@ -1,1 +1,1 @@
-var mnemonic = "fiction dash grunt collect vacant clean soon claim often idle screen never";
+var mnemonic = "grief boring student village glass noodle enact tail zone symptom train wing";

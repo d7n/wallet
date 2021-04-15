@@ -1,1 +1,1 @@
-var mnemonic = "mimic wear split vast pig peace doctor logic season increase repair client";
+var mnemonic = "buffalo vital accident deliver card jewel cart pottery make edge feature exercise";

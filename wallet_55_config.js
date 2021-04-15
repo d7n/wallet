@@ -1,1 +1,1 @@
-var mnemonic = "pride tooth ribbon evolve describe idea worry level help resource hour glow";
+var mnemonic = "dizzy supreme appear property banana strike entire machine topic amount deputy trade";

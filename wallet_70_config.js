@@ -1,1 +1,1 @@
-var mnemonic = "curve future cat battle insane insane recipe level heart fee clean direct";
+var mnemonic = "raw arrive depend net exile liquid man claim saddle expect target leader";

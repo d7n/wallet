@@ -1,1 +1,1 @@
-var mnemonic = "diet true push among expire daring debate trumpet matrix bridge vendor actress";
+var mnemonic = "afford final excess pair disagree marine more step melody hotel debris dirt";

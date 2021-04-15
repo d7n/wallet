@@ -1,1 +1,1 @@
-var mnemonic = "fury tiny surround wife car limb wide early member elephant cigar simple";
+var mnemonic = "rifle large leisure combine oppose robot curtain north shine save chalk amused";

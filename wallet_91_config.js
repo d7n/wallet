@@ -1,1 +1,1 @@
-var mnemonic = "coil space cinnamon harsh fold naive total learn paper one round crazy";
+var mnemonic = "debris cycle mistake winter middle cliff liar only kite festival surround major";

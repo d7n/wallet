@@ -1,1 +1,1 @@
-var mnemonic = "output apology romance scout spray thank junk convince crazy endless push canal";
+var mnemonic = "vehicle pottery avocado glory stem fashion certain baby hello knee crucial together";

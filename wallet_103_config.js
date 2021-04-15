@@ -1,1 +1,1 @@
-var mnemonic = "surprise stage insect cart goose omit accuse expire wrestle glory creek lunch";
+var mnemonic = "call identify escape allow jeans hover solid riot ten nasty transfer soft";

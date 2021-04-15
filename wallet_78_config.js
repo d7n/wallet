@@ -1,1 +1,1 @@
-var mnemonic = "monitor winter seed antique inquiry tilt strong true fame member climb venture";
+var mnemonic = "fire mom gravity tiny predict sibling guess gain unaware lend raise way";

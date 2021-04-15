@@ -1,1 +1,1 @@
-var mnemonic = "economy neglect inject olive critic road fix believe ship jelly merit island";
+var mnemonic = "oyster seek inside parade supply across wool master ring town upon snow";

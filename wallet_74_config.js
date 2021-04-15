@@ -1,1 +1,1 @@
-var mnemonic = "inspire music hollow elephant maid asset perfect axis way violin sauce borrow";
+var mnemonic = "visit truck motor submit type fiber present umbrella opera ill harbor seed";

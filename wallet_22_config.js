@@ -1,1 +1,1 @@
-var mnemonic = "pipe canal boil puppy inside satoshi rifle danger erase remove light spawn";
+var mnemonic = "private drill dry truly rug pudding spoon silent dust rotate express maid";

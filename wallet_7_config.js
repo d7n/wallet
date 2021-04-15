@@ -1,1 +1,1 @@
-var mnemonic = "repair swamp topic country fatal practice check enable twelve vague organ sketch";
+var mnemonic = "fire post crucial old coral wheel rotate fit wish jacket toddler mom";

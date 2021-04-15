@@ -1,1 +1,1 @@
-var mnemonic = "guitar broccoli uniform garlic fresh humor shrimp warrior term reunion expose behind";
+var mnemonic = "horror amount ivory produce crucial dove spoon correct coyote expand use start";

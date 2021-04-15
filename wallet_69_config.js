@@ -1,1 +1,1 @@
-var mnemonic = "ball fan brief suffer dog fade stock boil safe genre random party";
+var mnemonic = "beyond harvest west trust grocery wet key poet hamster place country ceiling";

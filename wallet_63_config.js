@@ -1,1 +1,1 @@
-var mnemonic = "inform day slide shed cube fame six barely fiscal ability fringe legal";
+var mnemonic = "rule blast despair announce border shed until shallow garden final thing try";

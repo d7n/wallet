@@ -1,1 +1,1 @@
-var mnemonic = "dial good nothing water catalog rally amateur artist note chronic sure pencil";
+var mnemonic = "venture mixed wave immune tuition obscure thunder artwork indoor mystery party draw";

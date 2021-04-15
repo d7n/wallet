@@ -1,1 +1,1 @@
-var mnemonic = "subway horse gown drama rose area holiday apology rescue day peasant guilt";
+var mnemonic = "busy you helmet huge inquiry anxiety grow west scissors capable polar spirit";

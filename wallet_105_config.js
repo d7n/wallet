@@ -1,1 +1,1 @@
-var mnemonic = "owner they talent license combine shoe seminar choice divide latin equal crop";
+var mnemonic = "sweet type mechanic umbrella menu play night quantum husband spawn unveil town";

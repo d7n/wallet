@@ -1,1 +1,1 @@
-var mnemonic = "nice attack gun display orchard reflect door rough giggle truly seed same";
+var mnemonic = "leader design into install wait syrup hen tag print bronze ten gloom";

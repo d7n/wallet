@@ -1,1 +1,1 @@
-var mnemonic = "scrap teach foil heavy surround caution lava access grunt inside demise season";
+var mnemonic = "brief album clerk dress vocal boat brisk ceiling start upon logic december";

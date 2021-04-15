@@ -1,1 +1,1 @@
-var mnemonic = "supply explain tray member apology unfold diary alcohol punch regular suffer collect";
+var mnemonic = "undo recycle gas upset crisp left lobster rookie strike stage secret mother";

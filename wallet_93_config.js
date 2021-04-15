@@ -1,1 +1,1 @@
-var mnemonic = "best junk unaware want punch head task debris omit rack tide struggle";
+var mnemonic = "drift camp give sing notice scene object organ dignity smile knock flock";

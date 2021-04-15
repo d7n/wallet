@@ -1,1 +1,1 @@
-var mnemonic = "banana indoor describe scrub shaft region atom close mention wonder soccer scout";
+var mnemonic = "master axis elegant lesson genuine envelope merge screen motor flash milk erase";

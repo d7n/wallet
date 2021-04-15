@@ -1,1 +1,1 @@
-var mnemonic = "candy rigid steel uncle fatigue element empower pull spring cloth short fabric";
+var mnemonic = "crouch wool split exchange juice disorder again elephant marine plate danger practice";

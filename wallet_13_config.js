@@ -1,1 +1,1 @@
-var mnemonic = "junk nice vast jeans food fitness cream fever account blue magic tenant";
+var mnemonic = "situate immune pear unfold issue junior salt brand grab decade banana flag";

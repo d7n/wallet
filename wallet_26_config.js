@@ -1,1 +1,1 @@
-var mnemonic = "fever reflect claim spike buffalo marine fluid inform expand wonder senior interest";
+var mnemonic = "regret sentence brave field person lemon into beef ill peace common arrive";

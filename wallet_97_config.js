@@ -1,1 +1,1 @@
-var mnemonic = "street mix coil prosper number umbrella artefact symbol cinnamon address cute nephew";
+var mnemonic = "move ridge minor demise shine evil bulk sure industry speed control office";

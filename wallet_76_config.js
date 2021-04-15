@@ -1,1 +1,1 @@
-var mnemonic = "kick history devote enemy pair hip economy panic off broken report uncover";
+var mnemonic = "disagree inside shadow wool tennis rent illness hen guess blue net near";

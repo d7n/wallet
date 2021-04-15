@@ -1,1 +1,1 @@
-var mnemonic = "hurdle shaft number pigeon spend curve timber wagon course egg during pumpkin";
+var mnemonic = "game emotion utility motor goose clip list age supreme coconut lunch turn";

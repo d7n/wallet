@@ -1,1 +1,1 @@
-var mnemonic = "time vague hand carpet garlic armor label harvest cigar boy loyal catch";
+var mnemonic = "unfair consider media smart jump junior budget comfort copy boil knee pyramid";

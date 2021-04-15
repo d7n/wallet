@@ -1,1 +1,1 @@
-var mnemonic = "asthma share bus curious once code bench furnace ability match icon demise";
+var mnemonic = "still injury dizzy inhale seed annual swing supply horror gift match dune";

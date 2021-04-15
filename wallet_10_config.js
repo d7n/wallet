@@ -1,1 +1,1 @@
-var mnemonic = "tank tuition affair special joke six velvet giggle slush service gym swap";
+var mnemonic = "mask unable tape pizza slice emotion gallery coffee boost banner stock table";

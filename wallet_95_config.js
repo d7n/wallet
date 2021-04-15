@@ -1,1 +1,1 @@
-var mnemonic = "lounge merge orchard call either renew person cattle initial version pledge rely";
+var mnemonic = "cost result problem sad west toilet over excite farm wedding library puppy";

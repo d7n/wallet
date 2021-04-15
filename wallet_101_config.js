@@ -1,1 +1,1 @@
-var mnemonic = "coconut ivory response shallow code sugar defense section welcome amateur hen pig";
+var mnemonic = "slight syrup ecology onion target coconut pole harvest retire party arrive half";

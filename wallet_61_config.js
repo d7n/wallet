@@ -1,1 +1,1 @@
-var mnemonic = "riot draw rocket embrace wagon more young marble dentist fall flower attend";
+var mnemonic = "soda tackle flower winter regular hurt piano entire sing talk divide local";

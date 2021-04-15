@@ -1,1 +1,1 @@
-var mnemonic = "armor buffalo analyst together abandon daring fold table slender lecture report naive";
+var mnemonic = "saddle ability science train appear void table occur arch impose wealth nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "there lens artefact velvet process apology alpha dish will asthma busy rookie";
+var mnemonic = "day october foam pattern finish clarify income jeans volcano rule cram legal";

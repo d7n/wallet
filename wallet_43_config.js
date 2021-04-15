@@ -1,1 +1,1 @@
-var mnemonic = "extend critic comfort tornado stumble accuse antique begin balcony card actress vanish";
+var mnemonic = "erosion lesson praise van vital jewel match remain potato boat nation eye";

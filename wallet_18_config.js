@@ -1,1 +1,1 @@
-var mnemonic = "drip artefact treat shield august demand useless inch maze scatter remind violin";
+var mnemonic = "address turtle start language thrive agree climb evoke distance sweet pause corn";

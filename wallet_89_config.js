@@ -1,1 +1,1 @@
-var mnemonic = "polar text betray elevator panel negative awake giggle elevator fiction share decorate";
+var mnemonic = "potato question market point reject obtain despair zoo box network just beach";

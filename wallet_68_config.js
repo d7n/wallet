@@ -1,1 +1,1 @@
-var mnemonic = "false swing citizen decrease fence dry borrow cloth diamond broken together butter";
+var mnemonic = "switch unknown fly small convince original crisp lake pattern siege traffic child";

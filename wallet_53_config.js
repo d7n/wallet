@@ -1,1 +1,1 @@
-var mnemonic = "resemble good image page system pizza elder try avocado help seven long";
+var mnemonic = "input leg attend post lift canoe minute message six actress region scout";

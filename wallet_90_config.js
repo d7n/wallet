@@ -1,1 +1,1 @@
-var mnemonic = "monitor snake cabin fruit width artist tone major spring walnut sauce glide";
+var mnemonic = "borrow remain genre scale plastic once text hammer board diamond celery eternal";

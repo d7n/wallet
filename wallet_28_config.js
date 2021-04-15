@@ -1,1 +1,1 @@
-var mnemonic = "front hero express battle cricket tiny athlete smoke video hint time april";
+var mnemonic = "fish toe staff home magic wife forward stay monitor tourist toast involve";

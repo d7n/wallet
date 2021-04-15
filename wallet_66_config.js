@@ -1,1 +1,1 @@
-var mnemonic = "fence foil monkey want dose between chat copy scale indicate number puzzle";
+var mnemonic = "brick arena pencil sheriff ozone space chest innocent occur scene advice good";

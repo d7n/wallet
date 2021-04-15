@@ -1,1 +1,1 @@
-var mnemonic = "knee tragic focus assume glass ranch veteran salt carbon echo beyond snack";
+var mnemonic = "hybrid purpose cradle parade tail trash decrease silent announce mushroom grit soda";

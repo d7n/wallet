@@ -1,1 +1,1 @@
-var mnemonic = "disorder page sister near omit undo poverty shop bamboo jeans breeze picture";
+var mnemonic = "dove citizen happy prize hat crawl alert cram guilt mimic bomb arch";

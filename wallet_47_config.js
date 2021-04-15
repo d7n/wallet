@@ -1,1 +1,1 @@
-var mnemonic = "extend write usage ecology final rotate obey over indoor broom pool tape";
+var mnemonic = "fish room staff absurd now story write circle borrow promote stuff today";

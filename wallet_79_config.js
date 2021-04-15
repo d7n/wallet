@@ -1,1 +1,1 @@
-var mnemonic = "circle game carpet boss describe force consider equal awesome sketch number baby";
+var mnemonic = "inspire napkin poem mammal venue dad tragic goddess swallow grunt sign neither";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget venue first normal ecology food river park glove assault wool accident";
+var mnemonic = "wash input tiger happy before end despair path motion stone wire fluid";

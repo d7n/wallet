@@ -1,1 +1,1 @@
-var mnemonic = "rescue usual ski test fabric zero assault skate reflect nothing tiger earn";
+var mnemonic = "borrow north mechanic plate level slim monitor atom mountain bid coffee isolate";

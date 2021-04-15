@@ -1,1 +1,1 @@
-var mnemonic = "settle clarify broccoli topple mention glory elevator hurry tobacco bounce damp into";
+var mnemonic = "lumber keen accuse rocket pistol illegal design method subway spoon razor solar";

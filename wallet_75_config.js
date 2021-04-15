@@ -1,1 +1,1 @@
-var mnemonic = "energy badge increase soup manage amazing border air reunion cage hundred taxi";
+var mnemonic = "math volcano math laptop test club account gold permit hybrid cabbage actual";

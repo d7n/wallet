@@ -1,1 +1,1 @@
-var mnemonic = "short regular genre estate sail rebel leopard narrow sphere decorate feel rug";
+var mnemonic = "salad surface math display loyal coach chicken ahead hurdle weasel bargain clown";

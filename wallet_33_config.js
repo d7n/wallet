@@ -1,1 +1,1 @@
-var mnemonic = "autumn water rose wagon chaos music enter nut wisdom give write ready";
+var mnemonic = "auction satoshi indoor smoke luxury nut flag alcohol enough search produce easy";

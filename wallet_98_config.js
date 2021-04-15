@@ -1,1 +1,1 @@
-var mnemonic = "field lazy flock seed never glory first antique cake mystery cost finish";
+var mnemonic = "year forget auction fix size half know able height neglect proof club";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty pill over fatal wrap dad runway crush mimic behind shell elephant";
+var mnemonic = "emotion buzz scissors nuclear course drastic coyote feel divide relief twist inspire";

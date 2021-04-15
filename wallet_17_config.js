@@ -1,1 +1,1 @@
-var mnemonic = "trumpet fabric stage fabric sound dad hub inflict unit number cheese angry";
+var mnemonic = "glide chuckle mail flock bench curious sorry sponsor oven damage wage relief";

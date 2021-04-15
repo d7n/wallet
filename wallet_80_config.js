@@ -1,1 +1,1 @@
-var mnemonic = "anchor turkey mandate genre hedgehog step hill pull clump bronze group sand";
+var mnemonic = "tiny frequent negative seed design image spare camp spread mass dust twist";

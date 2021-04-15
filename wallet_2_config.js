@@ -1,1 +1,1 @@
-var mnemonic = "ski slim giggle napkin office blouse trophy grief calm enough dog arrow";
+var mnemonic = "expire predict grape frame near tank mule push fashion attack next bulk";

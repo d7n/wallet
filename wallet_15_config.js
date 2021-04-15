@@ -1,1 +1,1 @@
-var mnemonic = "famous swallow chicken analyst concert reward kid turn drive road enemy judge";
+var mnemonic = "announce injury income banana sand critic dad blade pizza fiscal hospital civil";

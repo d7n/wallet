@@ -1,1 +1,1 @@
-var mnemonic = "coast barely draft awake board jeans near drop wolf april recall usual";
+var mnemonic = "senior holiday mind napkin nurse bar coach purchase december electric tag marble";

@@ -1,1 +1,1 @@
-var mnemonic = "flee borrow history quiz match scorpion provide weekend grab teach van author";
+var mnemonic = "umbrella festival type flee amused gap clay supreme present mule party chicken";

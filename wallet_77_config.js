@@ -1,1 +1,1 @@
-var mnemonic = "denial cargo glow meadow climb cake segment speak mansion tobacco easily sustain";
+var mnemonic = "casual bike pull prepare bleak scissors dinosaur celery gospel express east engage";
