@@ -1,1 +1,1 @@
-var mnemonic = "spoon good trophy green suffer giggle coach sight pen olympic mass lend";
+var mnemonic = "left review float shoulder camp garment kingdom shy chapter amazing verb accident";

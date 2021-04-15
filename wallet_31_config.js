@@ -1,1 +1,1 @@
-var mnemonic = "guess since boy bus feed sibling hen either twin priority bachelor moon";
+var mnemonic = "funny rice believe lab spy board slow bright situate stairs during holiday";

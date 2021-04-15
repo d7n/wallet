@@ -1,1 +1,1 @@
-var mnemonic = "speed long curve unveil pyramid hip rebuild cigar company dwarf subject source";
+var mnemonic = "flight citizen jeans old park junk renew tag side script steak angry";

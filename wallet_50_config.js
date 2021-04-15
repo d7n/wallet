@@ -1,1 +1,1 @@
-var mnemonic = "visa glue monkey lecture boy fluid indoor silver rain task fire trouble";
+var mnemonic = "trust magic skirt advance memory churn attract obtain city kid shadow divert";

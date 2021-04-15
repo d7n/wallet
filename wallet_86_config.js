@@ -1,1 +1,1 @@
-var mnemonic = "tuition skin hole pride company account review whip you draw advance upset";
+var mnemonic = "shoe resist gasp hollow chief flag put glance erosion enter olympic holiday";

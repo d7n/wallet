@@ -1,1 +1,1 @@
-var mnemonic = "client pigeon knife wrist slow movie junior awful pottery note release fine";
+var mnemonic = "elegant obey split wrap section broom animal door board dream joke duck";

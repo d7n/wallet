@@ -1,1 +1,1 @@
-var mnemonic = "flavor shop disagree heavy truth behind arctic market grace cigar pupil crumble";
+var mnemonic = "spot time speak annual quiz orient ivory swallow fade junk during label";

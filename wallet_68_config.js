@@ -1,1 +1,1 @@
-var mnemonic = "vital robot about ketchup list pave clerk tumble upgrade arrive when grow";
+var mnemonic = "pull sample remove disagree permit blast action keep slow punch almost strategy";

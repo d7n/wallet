@@ -1,1 +1,1 @@
-var mnemonic = "tiger stage uncle report soap shaft siege brother park loop undo require";
+var mnemonic = "meat income subject matrix beef female outside bulk cupboard wage boat match";

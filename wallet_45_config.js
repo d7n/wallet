@@ -1,1 +1,1 @@
-var mnemonic = "crater ozone slide elbow icon crunch that very faith amateur open neither";
+var mnemonic = "large human bring edge kick stereo novel junior luggage utility silver differ";

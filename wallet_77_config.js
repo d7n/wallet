@@ -1,1 +1,1 @@
-var mnemonic = "ready enhance cluster guilt police venture oak grace front leg define obtain";
+var mnemonic = "escape keep keep cave faint bacon mom cake female duty able brand";

@@ -1,1 +1,1 @@
-var mnemonic = "subway sentence sample endless ocean stairs dose sleep enlist test bundle metal";
+var mnemonic = "guilt program gallery predict blush screen near memory latin stuff crush mimic";

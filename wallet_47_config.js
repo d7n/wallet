@@ -1,1 +1,1 @@
-var mnemonic = "jealous clinic wide loud elbow spread hundred believe series enjoy social please";
+var mnemonic = "layer illegal sheriff copy drama tourist salt equal poet power drama woman";

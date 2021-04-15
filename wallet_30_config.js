@@ -1,1 +1,1 @@
-var mnemonic = "rapid brass notice cabin melt vehicle chef ordinary faint scrap become cradle";
+var mnemonic = "palm similar grant clean network panther vault october recall media predict dad";

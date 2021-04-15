@@ -1,1 +1,1 @@
-var mnemonic = "focus cereal useful way general jungle pool smoke trend wash village economy";
+var mnemonic = "common put thrive expire crew uniform cover wrap core shadow soup wealth";

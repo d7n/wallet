@@ -1,1 +1,1 @@
-var mnemonic = "party congress scissors aerobic sustain winner skate mansion unknown various tragic keen";
+var mnemonic = "sunset enable defense coach argue model cook wool short enrich field today";

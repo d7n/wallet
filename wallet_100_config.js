@@ -1,1 +1,1 @@
-var mnemonic = "reduce slight object argue valley any that exotic wash luxury output account";
+var mnemonic = "cinnamon grass share foam spy maple voyage tenant bicycle spread spend magic";

@@ -1,1 +1,1 @@
-var mnemonic = "human frozen tenant lemon critic gossip priority shaft broom minute situate rack";
+var mnemonic = "crush mimic now pledge town outside spatial citizen waste noodle away canal";

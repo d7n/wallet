@@ -1,1 +1,1 @@
-var mnemonic = "frown web engine party impulse credit piece hamster solid cause visual today";
+var mnemonic = "clap museum ask defy moon isolate shrimp guess chimney museum project income";

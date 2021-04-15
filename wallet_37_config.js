@@ -1,1 +1,1 @@
-var mnemonic = "festival series sauce razor good normal glare drum fringe alert hazard diagram";
+var mnemonic = "legal clip hedgehog puzzle cave flag dune marriage squirrel first swear another";

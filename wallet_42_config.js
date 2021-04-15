@@ -1,1 +1,1 @@
-var mnemonic = "spot laugh minimum robust drastic burger gown afraid image wool recycle wool";
+var mnemonic = "just brass always off hope coffee ketchup extend viable cushion unfair endless";

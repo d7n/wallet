@@ -1,1 +1,1 @@
-var mnemonic = "gossip junk seek rail gallery fish eight provide enact lottery collect sport";
+var mnemonic = "stock program hamster tragic spare grit vendor replace solve kidney finger glove";

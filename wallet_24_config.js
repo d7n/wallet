@@ -1,1 +1,1 @@
-var mnemonic = "lonely garlic above dilemma swift jump skate during draw describe eye victory";
+var mnemonic = "nature course someone innocent plastic upset below strike useless laptop base matrix";

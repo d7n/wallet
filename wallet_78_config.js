@@ -1,1 +1,1 @@
-var mnemonic = "fog pride enjoy submit guitar brief symptom october picture sea clump phone";
+var mnemonic = "sail magnet choice weapon kidney pet gun midnight toy drill insect pet";

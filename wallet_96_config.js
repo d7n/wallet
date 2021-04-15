@@ -1,1 +1,1 @@
-var mnemonic = "pool leave summer never circle gather disease rose thunder achieve cram brown";
+var mnemonic = "history fly escape canoe isolate auction feed jelly glimpse symptom dragon mandate";

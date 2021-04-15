@@ -1,1 +1,1 @@
-var mnemonic = "hobby wide soft rough bean utility lake segment leopard alley video banner";
+var mnemonic = "profit success guide island beef coyote copper agent under hospital plunge adult";

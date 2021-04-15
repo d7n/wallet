@@ -1,1 +1,1 @@
-var mnemonic = "traffic mistake oak oblige train elegant ranch buyer feel spawn ladder avoid";
+var mnemonic = "orphan position denial veteran catch drum screen potato indoor doll local lock";

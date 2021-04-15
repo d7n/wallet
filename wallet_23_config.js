@@ -1,1 +1,1 @@
-var mnemonic = "shrimp online water arm finish inner initial erosion can pepper depend mango";
+var mnemonic = "metal poverty voyage winter alien doctor athlete path kid mango lazy delay";

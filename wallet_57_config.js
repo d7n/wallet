@@ -1,1 +1,1 @@
-var mnemonic = "tooth gloom ridge immune dress release rather flash ozone across cover penalty";
+var mnemonic = "garbage language session weasel sniff amateur seven spoil elephant ball note learn";

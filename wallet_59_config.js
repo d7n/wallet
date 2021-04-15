@@ -1,1 +1,1 @@
-var mnemonic = "cricket brick isolate risk gap game casual rabbit attack acoustic mass spider";
+var mnemonic = "object street chunk hip document canal fatal hospital reflect trigger hero section";

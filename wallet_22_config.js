@@ -1,1 +1,1 @@
-var mnemonic = "roof noise lake stage region endorse hard draft bone push admit candy";
+var mnemonic = "lamp egg mother tape spray two very duck dish gold alcohol robot";

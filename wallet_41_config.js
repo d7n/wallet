@@ -1,1 +1,1 @@
-var mnemonic = "skill awesome enforce token require uphold choice sign behave roast eye orange";
+var mnemonic = "manage zero island strategy bench bind someone beauty shuffle milk pride tomorrow";

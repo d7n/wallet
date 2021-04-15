@@ -1,1 +1,1 @@
-var mnemonic = "hammer vehicle robust lake museum early news delay vivid guilt auto elite";
+var mnemonic = "level check maze market sauce hospital lamp earth into guess pave patch";

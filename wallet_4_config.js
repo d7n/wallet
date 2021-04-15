@@ -1,1 +1,1 @@
-var mnemonic = "door swarm shaft sketch negative never high video stock flash genuine trap";
+var mnemonic = "snow skate work shine address sugar twelve model bulb home have deer";

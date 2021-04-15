@@ -1,1 +1,1 @@
-var mnemonic = "gossip cigar exercise vocal pact gown ketchup high hawk horse copy laptop";
+var mnemonic = "local belt unknown equip face census nation peanut salute planet improve suffer";

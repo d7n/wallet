@@ -1,1 +1,1 @@
-var mnemonic = "wasp laundry remove blouse apology mushroom luggage want shuffle gaze nest lion";
+var mnemonic = "pill arctic unveil soap track slab salmon picture drive process crop camera";

@@ -1,1 +1,1 @@
-var mnemonic = "bring cry expose blast guard labor strong rigid also way hotel country";
+var mnemonic = "phone siren tomorrow october radio question already cup waste reveal mobile guide";

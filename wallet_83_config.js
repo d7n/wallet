@@ -1,1 +1,1 @@
-var mnemonic = "disease mansion credit argue amazing black shrimp unaware royal subject exhibit claim";
+var mnemonic = "film brain donor spread crumble spike example gesture myth video credit erase";

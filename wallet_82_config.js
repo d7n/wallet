@@ -1,1 +1,1 @@
-var mnemonic = "silent grid woman above install derive monster kit any clog tail sketch";
+var mnemonic = "olive eight economy laptop kitchen chief apple faint body brain comic scrap";

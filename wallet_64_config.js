@@ -1,1 +1,1 @@
-var mnemonic = "divide strategy angle tenant cattle weasel dish protect clap earth exhaust chronic";
+var mnemonic = "master pizza actor problem year area right cry bachelor buyer deer physical";

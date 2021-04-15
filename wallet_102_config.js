@@ -1,1 +1,1 @@
-var mnemonic = "cricket appear arrive explain angry reopen object topic cheese flock abstract rely";
+var mnemonic = "sword north outdoor method rate snow sport sphere school science rent also";

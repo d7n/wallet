@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo more minimum urge private travel impact shock price point silk captain";
+var mnemonic = "put ranch upgrade fire capital glance air afford bind maple also ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "question idea simple room donate stumble tool woman news panic soldier this";
+var mnemonic = "garage slot explain equal feel student menu beach pulse erosion piece rhythm";

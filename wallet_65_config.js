@@ -1,1 +1,1 @@
-var mnemonic = "peanut gap stadium potato empower chalk planet sunset shuffle mercy neutral ethics";
+var mnemonic = "taste cattle history provide interest twenty swim practice mention fossil tone jealous";

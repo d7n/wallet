@@ -1,1 +1,1 @@
-var mnemonic = "lucky audit theory swap scale spread cute mesh junior dignity toward dutch";
+var mnemonic = "basket immune balance loud found market later six cancel cherry arrange west";

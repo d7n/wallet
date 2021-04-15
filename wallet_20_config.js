@@ -1,1 +1,1 @@
-var mnemonic = "easy midnight ignore problem narrow energy escape garbage robust noise planet wrestle";
+var mnemonic = "chaos gravity insane symbol lobster bracket exotic slight wink movie surface recall";

@@ -1,1 +1,1 @@
-var mnemonic = "snack prosper owner post grass enforce open involve strike erode fit leaf";
+var mnemonic = "screen off another inform unlock hawk victory enter piano cloth suggest margin";

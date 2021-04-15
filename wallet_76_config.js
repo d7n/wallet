@@ -1,1 +1,1 @@
-var mnemonic = "rocket manage wreck amazing grit pull spider cruel okay arch such sound";
+var mnemonic = "entry predict input hole brain entry cushion airport crucial false catch trumpet";

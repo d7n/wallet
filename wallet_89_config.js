@@ -1,1 +1,1 @@
-var mnemonic = "season clap fresh change summer album glad staff couple off fetch wrong";
+var mnemonic = "dwarf address purchase blood menu ankle gain throw joke negative canvas steak";

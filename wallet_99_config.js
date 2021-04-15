@@ -1,1 +1,1 @@
-var mnemonic = "card impact guess wink accuse special size voyage fury case coconut indicate";
+var mnemonic = "unfold clown cereal east initial curve airport parent tragic shuffle toy vague";

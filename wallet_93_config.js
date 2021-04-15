@@ -1,1 +1,1 @@
-var mnemonic = "jar depend antenna equip pluck reveal sponsor adult cupboard sad ticket someone";
+var mnemonic = "range narrow local hospital adjust knee suggest meat creek punch churn cupboard";

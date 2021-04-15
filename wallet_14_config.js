@@ -1,1 +1,1 @@
-var mnemonic = "sponsor task boat finger whisper file fitness intact merge rule rough general";
+var mnemonic = "found pear weasel cook word tissue develop tomorrow please invest resemble hill";

@@ -1,1 +1,1 @@
-var mnemonic = "twice saddle syrup wagon member elevator frost talent pole salmon amused initial";
+var mnemonic = "detail toilet observe arena suit initial warfare dove palace fish lazy tower";

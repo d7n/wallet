@@ -1,1 +1,1 @@
-var mnemonic = "chapter tuition club wheat rabbit humble avoid speak forest gauge coin stomach";
+var mnemonic = "since wasp grow burden welcome yellow present secret wait tone cannon decline";

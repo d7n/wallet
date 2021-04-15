@@ -1,1 +1,1 @@
-var mnemonic = "shop talent table market glimpse pipe believe corn shoe human plug grape";
+var mnemonic = "trust such riot order venue urge pepper deal loud nice know cube";

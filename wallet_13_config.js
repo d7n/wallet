@@ -1,1 +1,1 @@
-var mnemonic = "dash toddler mutual curtain ten flag silly where close uncle furnace mammal";
+var mnemonic = "rally cross assume warfare furnace fringe keep oval shiver upset mushroom switch";

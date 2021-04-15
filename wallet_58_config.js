@@ -1,1 +1,1 @@
-var mnemonic = "miracle squeeze give coyote inquiry achieve slush portion absurd knife torch oak";
+var mnemonic = "solve diet soap climb sudden rebel cupboard joy asthma public chat shift";

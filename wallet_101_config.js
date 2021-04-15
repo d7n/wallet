@@ -1,1 +1,1 @@
-var mnemonic = "neglect series issue enroll injury case ivory family obey shoulder there cereal";
+var mnemonic = "similar mind rail behave voice cotton gentle speak shoe unfair wheat sight";

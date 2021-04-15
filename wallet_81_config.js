@@ -1,1 +1,1 @@
-var mnemonic = "ice forward start patrol cup muffin high crack fruit damage uncle heart";
+var mnemonic = "horror case envelope document machine blush solve midnight vital envelope beef else";

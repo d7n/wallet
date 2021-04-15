@@ -1,1 +1,1 @@
-var mnemonic = "stove genre awake pave destroy pause hungry damage coconut pyramid melt electric";
+var mnemonic = "avocado list left attack loan scatter rabbit private edge item boat lobster";

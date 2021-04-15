@@ -1,1 +1,1 @@
-var mnemonic = "safe hint sponsor spin cereal bike faint code believe tone like there";
+var mnemonic = "stay busy rescue okay orient galaxy use network surge kiss light disorder";

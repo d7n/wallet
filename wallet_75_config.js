@@ -1,1 +1,1 @@
-var mnemonic = "siren tower faith trend tourist absorb when scrub deer giraffe genre garden";
+var mnemonic = "protect inject donkey panda rally pig demand popular siege erosion rabbit glow";

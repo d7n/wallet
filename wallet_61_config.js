@@ -1,1 +1,1 @@
-var mnemonic = "modify sphere gun supreme foam claw smart mosquito rich ordinary rate planet";
+var mnemonic = "receive believe casino cradle subway catch grain pepper drop pepper wet select";

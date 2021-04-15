@@ -1,1 +1,1 @@
-var mnemonic = "unable expire awesome tag wolf inch tube invite state wrist fold only";
+var mnemonic = "connect smooth surround skate genre endless equip obscure convince inflict grocery diagram";

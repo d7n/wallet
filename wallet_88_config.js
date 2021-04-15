@@ -1,1 +1,1 @@
-var mnemonic = "kingdom valley hen miracle jacket zone slush desert glove surprise produce subject";
+var mnemonic = "long thunder clutch machine lake space owner cushion around clog demand vintage";

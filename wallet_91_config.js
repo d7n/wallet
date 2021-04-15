@@ -1,1 +1,1 @@
-var mnemonic = "source kitten enough rack update erode height culture rule later inside exist";
+var mnemonic = "crowd coyote all brush prosper crystal report resemble illegal correct invite shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp another find live armed empty lemon glare anxiety clinic rabbit question";
+var mnemonic = "lunar organ raise poem winner wink effort employ ski slab repeat antique";

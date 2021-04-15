@@ -1,1 +1,1 @@
-var mnemonic = "fresh subway popular occur glove grow trash frost drift olive spike six";
+var mnemonic = "season grow table purity nature disagree adjust awesome various chronic obtain smoke";

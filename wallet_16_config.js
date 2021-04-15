@@ -1,1 +1,1 @@
-var mnemonic = "gadget language decade kingdom clarify mimic stadium canoe silent sting gift curious";
+var mnemonic = "hollow toast round sketch lens direct imitate dawn pill idea best flag";

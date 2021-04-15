@@ -1,1 +1,1 @@
-var mnemonic = "hunt climb today polar crack bus donor mountain balance glove install genius";
+var mnemonic = "critic test broccoli cash alpha alien pill hill smart end title vicious";

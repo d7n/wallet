@@ -1,1 +1,1 @@
-var mnemonic = "idea phone bleak speak ethics ramp sadness rug cream enough vapor cannon";
+var mnemonic = "mass help vapor prosper genre acoustic couple twenty about cry circle enough";

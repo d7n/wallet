@@ -1,1 +1,1 @@
-var mnemonic = "attract used large twelve venue profit stable shoot bone leisure vacuum dutch";
+var mnemonic = "left twin risk crash upset dizzy junk country remain bright gossip strong";

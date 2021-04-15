@@ -1,1 +1,1 @@
-var mnemonic = "window slim swarm candy kingdom fruit stool divide wreck soul toss crowd";
+var mnemonic = "gown train rifle spare main repeat moment have detail sword police lobster";

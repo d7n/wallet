@@ -1,1 +1,1 @@
-var mnemonic = "curious crisp mail laundry benefit bomb logic buddy sudden assume coil struggle";
+var mnemonic = "win mutual verify sample arm blossom thought lyrics warm mutual dirt proud";

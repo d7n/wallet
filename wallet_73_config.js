@@ -1,1 +1,1 @@
-var mnemonic = "unique express put ranch bulk body praise amused drop picnic viable safe";
+var mnemonic = "deputy autumn source body robust inside weather extra wise brand myth boil";

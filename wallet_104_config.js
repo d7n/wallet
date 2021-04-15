@@ -1,1 +1,1 @@
-var mnemonic = "math problem infant kiss achieve air laugh tide solution ripple vacant fantasy";
+var mnemonic = "girl popular educate merry later camera ethics caution warm fold very fatigue";

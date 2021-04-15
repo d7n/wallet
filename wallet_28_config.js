@@ -1,1 +1,1 @@
-var mnemonic = "chunk alley bike soon put festival gym candy faint pudding fish jungle";
+var mnemonic = "swamp truth forward tourist dune bind old donor rough injury trial drastic";

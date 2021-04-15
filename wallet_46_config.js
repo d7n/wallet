@@ -1,1 +1,1 @@
-var mnemonic = "rug include struggle praise pole day pause stomach luxury mountain egg phrase";
+var mnemonic = "occur exclude trash exist mother vintage spoon region ball jazz scan dove";

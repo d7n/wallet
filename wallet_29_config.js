@@ -1,1 +1,1 @@
-var mnemonic = "surprise lemon people task direct army knee ghost fringe satisfy mistake crew";
+var mnemonic = "cousin asset cry immune entry electric cabin again security heart pattern six";

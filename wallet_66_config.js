@@ -1,1 +1,1 @@
-var mnemonic = "assault erosion during hand ten point patient cousin profit vehicle stairs produce";
+var mnemonic = "crucial sure amused please spy coyote strike brief gym antenna limit cart";

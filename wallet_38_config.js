@@ -1,1 +1,1 @@
-var mnemonic = "mansion narrow sell boss exist assist wealth refuse judge range syrup cupboard";
+var mnemonic = "quick basket upset range grow stadium shuffle refuse police mask rack abuse";

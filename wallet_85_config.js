@@ -1,1 +1,1 @@
-var mnemonic = "replace own unusual lounge water panel sister mushroom palace adapt truly guitar";
+var mnemonic = "umbrella sentence popular flock degree call forest humble blade wing giggle output";

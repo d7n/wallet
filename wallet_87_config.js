@@ -1,1 +1,1 @@
-var mnemonic = "shiver motor glare monster trick select term flush vendor mechanic inherit prison";
+var mnemonic = "bright prevent normal later royal run later garden today charge belt swamp";

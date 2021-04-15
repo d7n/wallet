@@ -1,1 +1,1 @@
-var mnemonic = "gospel pave mask rare friend nice legal rich fade vessel version humble";
+var mnemonic = "skin course liar giggle buzz regret knock eternal gauge robust super owner";
