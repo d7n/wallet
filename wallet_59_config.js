@@ -1,1 +1,1 @@
-var mnemonic = "absorb dove regular code fence thrive satoshi dry require hour island night";
+var mnemonic = "mixed tonight agree novel crystal sausage busy actor shadow caution goat will";

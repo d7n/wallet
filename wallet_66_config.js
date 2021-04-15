@@ -1,1 +1,1 @@
-var mnemonic = "useless rubber outer remind spin daughter member stick track divide scale fog";
+var mnemonic = "sure near explain toe pudding potato claw asset flip lamp still ordinary";

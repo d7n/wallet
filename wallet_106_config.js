@@ -1,1 +1,1 @@
-var mnemonic = "night expect wave view mad blur disagree park afford rescue light pilot";
+var mnemonic = "evolve clean sniff human tattoo address unlock embody able legend shaft ride";

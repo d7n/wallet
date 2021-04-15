@@ -1,1 +1,1 @@
-var mnemonic = "pond gravity health original sauce assume sea immense glimpse eagle pulse trial";
+var mnemonic = "vanish tribe pulse level cricket misery copper chicken deal tower remove harsh";

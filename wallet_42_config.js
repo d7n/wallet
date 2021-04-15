@@ -1,1 +1,1 @@
-var mnemonic = "praise blast main silly pole title proof select similar local frequent novel";
+var mnemonic = "refuse surface explain upgrade couch true draft rural blood extend ticket panda";

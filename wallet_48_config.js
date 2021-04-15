@@ -1,1 +1,1 @@
-var mnemonic = "dawn language derive abandon veteran group father dog silk egg thunder delay";
+var mnemonic = "account rib sad call supply join vote cover type cable nothing person";

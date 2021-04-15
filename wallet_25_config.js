@@ -1,1 +1,1 @@
-var mnemonic = "joke robust inhale reunion final crime cigar useful body extra host album";
+var mnemonic = "assault buddy catch captain neck mix device recycle sausage virus lamp country";

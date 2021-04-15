@@ -1,1 +1,1 @@
-var mnemonic = "find knee remain hospital slam drop brass squeeze violin buzz volcano wheel";
+var mnemonic = "globe estate ready daughter they heavy round save chest canoe because deny";

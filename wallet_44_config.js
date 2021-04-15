@@ -1,1 +1,1 @@
-var mnemonic = "govern speak firm gun glass abandon false pledge small exercise erupt forward";
+var mnemonic = "liar gas awake risk tone toss debris unaware hard chef spike trade";

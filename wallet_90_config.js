@@ -1,1 +1,1 @@
-var mnemonic = "oval badge laptop vessel blanket among until afraid mail speak flush swamp";
+var mnemonic = "ready prison chest pipe swallow green spike view laundry collect nasty silly";

@@ -1,1 +1,1 @@
-var mnemonic = "assist pet era allow install error mutual palace weekend gesture cart eager";
+var mnemonic = "issue student laugh bachelor clock cargo emerge scale doll true else weird";

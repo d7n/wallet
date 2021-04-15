@@ -1,1 +1,1 @@
-var mnemonic = "bicycle fault display rabbit object among suggest phone nephew rail height unable";
+var mnemonic = "spider social avocado push scrap valid south smooth hire blame floor curve";

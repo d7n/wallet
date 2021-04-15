@@ -1,1 +1,1 @@
-var mnemonic = "trumpet merit motion leader place pole embrace father type dial stool happy";
+var mnemonic = "endorse idle author old scare six primary roast produce tent ask rookie";

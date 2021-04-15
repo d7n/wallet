@@ -1,1 +1,1 @@
-var mnemonic = "blade busy extend garlic fish enrich bind play issue immune catch winter";
+var mnemonic = "useful sell curtain maze item basic churn warm garden height grab picture";

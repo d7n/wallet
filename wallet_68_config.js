@@ -1,1 +1,1 @@
-var mnemonic = "autumn scare recall tone mind crack glass honey bench salad tray enact";
+var mnemonic = "clever expand camp erupt thought diary quick sphere spot color mountain manage";

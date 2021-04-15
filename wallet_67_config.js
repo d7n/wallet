@@ -1,1 +1,1 @@
-var mnemonic = "when brown occur panic message turtle emerge silent engage dawn bench foster";
+var mnemonic = "pretty yard online ship soul loyal elevator venture labor core release taxi";

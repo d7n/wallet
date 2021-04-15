@@ -1,1 +1,1 @@
-var mnemonic = "face cabin express system tone public already wealth miracle alcohol sauce express";
+var mnemonic = "purse celery frame ugly doctor jacket hybrid actual hungry grow rule cradle";

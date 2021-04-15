@@ -1,1 +1,1 @@
-var mnemonic = "prison move alert occur modify nose still coral pumpkin rich blanket chunk";
+var mnemonic = "drum float table mammal blame miracle assume local bachelor rare now wish";

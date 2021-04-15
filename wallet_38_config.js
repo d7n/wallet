@@ -1,1 +1,1 @@
-var mnemonic = "auto borrow slim spike point ability shaft vintage online metal legend permit";
+var mnemonic = "treat guide body slam anchor horn inside actual broom ride comfort prize";

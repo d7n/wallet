@@ -1,1 +1,1 @@
-var mnemonic = "spread chicken bitter gun never twist spatial puzzle oak stage timber host";
+var mnemonic = "kiwi outdoor nephew resist analyst grape fiber kind abandon attract window find";

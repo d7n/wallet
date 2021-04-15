@@ -1,1 +1,1 @@
-var mnemonic = "model chief nerve identify asset project fun camera hammer cousin lyrics cigar";
+var mnemonic = "fault fame ketchup cash okay envelope service impact cram ice diet unveil";

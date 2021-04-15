@@ -1,1 +1,1 @@
-var mnemonic = "squeeze income possible slush office erosion betray start drum execute move ostrich";
+var mnemonic = "hawk announce dice enact frequent clip bright today little turn spider margin";

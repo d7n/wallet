@@ -1,1 +1,1 @@
-var mnemonic = "duty knee benefit cable need rather pig grant alcohol trophy wheel exchange";
+var mnemonic = "hat spoon able donkey lift donate diary situate mass royal bring trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "grab nature bullet cancel army foam initial casual bird august van rice";
+var mnemonic = "avocado language burger year check lunar enable imitate basket afraid vibrant leaf";

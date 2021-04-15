@@ -1,1 +1,1 @@
-var mnemonic = "frog dance gift stable marble island seek choice dash glow old fit";
+var mnemonic = "will enact cousin warfare toss oppose planet lecture other wrong path rebel";

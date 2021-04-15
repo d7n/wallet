@@ -1,1 +1,1 @@
-var mnemonic = "grit swear join kick clean despair present choice negative artist engage disease";
+var mnemonic = "life loud clog rice keep glow bottom next ginger logic shy dentist";

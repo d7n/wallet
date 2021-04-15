@@ -1,1 +1,1 @@
-var mnemonic = "rent assume lava okay attack mail false gap nest chalk mass coral";
+var mnemonic = "fame keep upset baby flame sudden trap scene way slam solid fitness";

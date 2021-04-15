@@ -1,1 +1,1 @@
-var mnemonic = "weird network agent mail tomato brick manage orphan scan fancy obscure gas";
+var mnemonic = "foam wage horn nation raw bar empower roof right spread accuse answer";

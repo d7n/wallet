@@ -1,1 +1,1 @@
-var mnemonic = "bracket wire chimney uniform winner pact kingdom screen exit delay game parent";
+var mnemonic = "olive trigger shoot book now two song clutch furnace rookie knee team";

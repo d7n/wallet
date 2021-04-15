@@ -1,1 +1,1 @@
-var mnemonic = "absent pelican bone future grab poverty shiver opinion whale example situate salute";
+var mnemonic = "hip chest glide boy burden leader rookie build tragic furnace baby ivory";

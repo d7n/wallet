@@ -1,1 +1,1 @@
-var mnemonic = "immense dog isolate addict kick gentle sibling hint confirm tent trap miss";
+var mnemonic = "flavor frequent combine corn verb detail anchor garlic shell trouble analyst coyote";

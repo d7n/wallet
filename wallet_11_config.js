@@ -1,1 +1,1 @@
-var mnemonic = "river kitten knife climb final dry script note nose skin reason board";
+var mnemonic = "monkey transfer olive together language rough sun uncover crucial rent image trim";

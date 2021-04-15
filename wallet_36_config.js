@@ -1,1 +1,1 @@
-var mnemonic = "ten zero engine alien bar width tomato evidence spin warfare shock bronze";
+var mnemonic = "beef blouse direct observe now bounce tide rhythm ginger trim rough include";

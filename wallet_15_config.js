@@ -1,1 +1,1 @@
-var mnemonic = "symbol laptop eternal today stool glare orchard stock gate faint bargain carpet";
+var mnemonic = "shock bomb nurse journey grab already trial stumble rude erupt whisper reject";

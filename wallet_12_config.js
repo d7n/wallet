@@ -1,1 +1,1 @@
-var mnemonic = "focus frozen charge unknown giant rapid dose dismiss multiply guard strike harbor";
+var mnemonic = "apology truly stairs firm crawl toward ring symptom noise desk deputy proud";

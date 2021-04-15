@@ -1,1 +1,1 @@
-var mnemonic = "ticket ten picnic stand sport brand biology wet absurd thank valve merge";
+var mnemonic = "say polar charge burst come stereo proud marble faint kite voice angle";

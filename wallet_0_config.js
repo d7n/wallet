@@ -1,1 +1,1 @@
-var mnemonic = "carry solid turtle drastic stumble source slender allow victory original moral mystery";
+var mnemonic = "unique tenant magnet debris custom custom roast scrap corn area board assault";

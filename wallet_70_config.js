@@ -1,1 +1,1 @@
-var mnemonic = "unaware junior album hidden denial drip stereo goat awful faith omit swear";
+var mnemonic = "can welcome require symbol wage volume famous reduce coach critic vague column";

@@ -1,1 +1,1 @@
-var mnemonic = "thought rough price later arrow avoid dumb door loan chest clay aware";
+var mnemonic = "loud know razor chronic hollow admit claw rapid dust maple foot domain";

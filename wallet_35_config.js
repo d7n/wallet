@@ -1,1 +1,1 @@
-var mnemonic = "collect follow clutch almost vapor note wasp cook minute dwarf pave emotion";
+var mnemonic = "cousin vacuum grow crop equip boss grant slush buyer kid pizza guess";

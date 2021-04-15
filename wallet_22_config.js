@@ -1,1 +1,1 @@
-var mnemonic = "anxiety post action wolf quick quality coast snake duty usage butter corn";
+var mnemonic = "walnut half food base river student face useless announce crazy object issue";

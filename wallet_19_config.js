@@ -1,1 +1,1 @@
-var mnemonic = "first elephant december gallery dose sight bring rose fiscal normal disease beyond";
+var mnemonic = "current unit diet romance scale whale chest hammer excuse kidney cake frown";

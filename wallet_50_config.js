@@ -1,1 +1,1 @@
-var mnemonic = "claim luxury kitten announce chase harsh dinosaur onion skirt draft lunar indicate";
+var mnemonic = "cube depend render pet frame food desk frequent provide pear still camp";

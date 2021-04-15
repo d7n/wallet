@@ -1,1 +1,1 @@
-var mnemonic = "series tenant clump mom six credit used romance exercise uphold oval deer";
+var mnemonic = "chuckle autumn rather snake liquid east erase mention girl episode clinic another";

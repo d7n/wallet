@@ -1,1 +1,1 @@
-var mnemonic = "ignore worth swing change genuine great wonder leaf thought lucky expire toddler";
+var mnemonic = "near achieve reward lazy tomato wide novel ticket spoil assume bike hole";

@@ -1,1 +1,1 @@
-var mnemonic = "motion cherry boring donor attack field sad fade crystal gentle muffin huge";
+var mnemonic = "lend prize bean unfold afraid neutral entry hotel tool nothing circle cloth";

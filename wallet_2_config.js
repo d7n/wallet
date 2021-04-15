@@ -1,1 +1,1 @@
-var mnemonic = "ozone violin orbit mule snow arrest estate since tag fun photo van";
+var mnemonic = "churn gown frozen state noodle leave language mistake focus deliver fiscal neglect";

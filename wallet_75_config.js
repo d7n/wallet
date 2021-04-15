@@ -1,1 +1,1 @@
-var mnemonic = "item capable season garage what monster ticket avocado exchange mixture surround ripple";
+var mnemonic = "ketchup embark faculty filter sweet pelican cruel option school shoot rose lucky";

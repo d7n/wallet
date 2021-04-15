@@ -1,1 +1,1 @@
-var mnemonic = "orchard system domain barely now rib foot similar adjust start gravity junk";
+var mnemonic = "chair demand basic extra arrive wisdom smoke cliff choose trash runway enhance";

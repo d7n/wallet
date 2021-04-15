@@ -1,1 +1,1 @@
-var mnemonic = "involve idea major shaft record frost crane bunker goddess paper attend rally";
+var mnemonic = "also express true drift rural bargain proof bronze shoe table aware energy";

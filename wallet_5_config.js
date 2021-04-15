@@ -1,1 +1,1 @@
-var mnemonic = "engine aunt blame eight pen tool clerk frog simple tissue quarter modify";
+var mnemonic = "budget above brief shallow book rose recipe hidden viable rapid write discover";

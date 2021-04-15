@@ -1,1 +1,1 @@
-var mnemonic = "measure rural weapon tortoise crowd soda world exact coach gain frame where";
+var mnemonic = "mixed roof kit annual fiscal response anchor genius inside elevator vibrant joy";

@@ -1,1 +1,1 @@
-var mnemonic = "pact rebuild symbol wood used runway exact wild old movie sheriff farm";
+var mnemonic = "eight pilot rally where pig moon ball blanket ginger because wisdom ethics";

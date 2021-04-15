@@ -1,1 +1,1 @@
-var mnemonic = "road lake museum amount virus faculty glove rude creek small stomach safe";
+var mnemonic = "pepper pink average moment girl battle twice hockey huge text stamp stone";

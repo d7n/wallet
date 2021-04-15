@@ -1,1 +1,1 @@
-var mnemonic = "decade sock pole property receive educate blush feel fun zoo unable coyote";
+var mnemonic = "woman symbol seed donkey border movie evolve flock upper erosion shock fan";

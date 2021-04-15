@@ -1,1 +1,1 @@
-var mnemonic = "pig pupil chair impact genius pepper gallery pull knock cloth tired magnet";
+var mnemonic = "accuse bean broccoli primary shy sunny weasel nurse crane airport convince loyal";

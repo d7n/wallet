@@ -1,1 +1,1 @@
-var mnemonic = "bind such name circle wheat sample old yard million hotel fruit slice";
+var mnemonic = "pride isolate pepper vacuum fold base head expect pudding state organ drift";

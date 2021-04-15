@@ -1,1 +1,1 @@
-var mnemonic = "turtle oak calm moral solve camera put barely current artefact ozone clump";
+var mnemonic = "game skin hover position access stable focus random budget prize host eye";

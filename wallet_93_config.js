@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon client impulse detail pipe rhythm stage accuse tail design can hire";
+var mnemonic = "exercise scout assault essence embrace occur object consider huge powder aerobic sound";

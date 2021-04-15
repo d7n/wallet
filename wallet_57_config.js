@@ -1,1 +1,1 @@
-var mnemonic = "bind over clean easily foot humor weather web street spawn slender rookie";
+var mnemonic = "grocery artwork atom gain drip genuine seed library way impulse buffalo subject";

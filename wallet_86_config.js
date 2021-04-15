@@ -1,1 +1,1 @@
-var mnemonic = "shuffle ribbon secret ankle happy essay reward raccoon huge outer wasp trumpet";
+var mnemonic = "margin bounce verb pretty lemon museum silly permit daughter spray avocado spread";

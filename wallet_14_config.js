@@ -1,1 +1,1 @@
-var mnemonic = "jar idea dragon dinosaur surface direct ethics sorry before predict unlock coil";
+var mnemonic = "file detect powder hungry search clinic dentist document high bullet ice faculty";

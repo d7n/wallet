@@ -1,1 +1,1 @@
-var mnemonic = "this pen candy repeat audit fog bind mass offer casino bamboo pretty";
+var mnemonic = "useful job wedding brand donate quiz crew oven seek supply waste quote";

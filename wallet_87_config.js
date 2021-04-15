@@ -1,1 +1,1 @@
-var mnemonic = "frown digital nose garlic steel two few sport correct best foster unable";
+var mnemonic = "cube now inch cheap senior keen person access drive endless field pave";

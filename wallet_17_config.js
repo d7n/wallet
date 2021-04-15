@@ -1,1 +1,1 @@
-var mnemonic = "tortoise soap catch used know blame picnic odor behave office install winter";
+var mnemonic = "text minute lend quiz priority alone rapid trigger chair hotel shoot echo";

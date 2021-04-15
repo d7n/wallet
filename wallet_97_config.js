@@ -1,1 +1,1 @@
-var mnemonic = "garbage spider buddy turkey join consider mercy happy squirrel anxiety disagree artist";
+var mnemonic = "brain yellow salon skill figure issue occur sound finish service gain course";

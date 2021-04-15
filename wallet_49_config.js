@@ -1,1 +1,1 @@
-var mnemonic = "traffic pave cause feed dune goat void knee spot width cause current";
+var mnemonic = "dune split brand room segment chest inquiry reunion butter say piece super";

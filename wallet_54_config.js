@@ -1,1 +1,1 @@
-var mnemonic = "limit voyage bless field brand arctic giant pear drama fury arrange miss";
+var mnemonic = "inspire solar jump despair poverty mobile hurdle burst hand correct replace wet";

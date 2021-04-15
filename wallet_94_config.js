@@ -1,1 +1,1 @@
-var mnemonic = "because naive exhibit panel frozen attitude perfect together carpet cinnamon cloth suffer";
+var mnemonic = "pulse inspire faint upper evidence neutral cry bench position term heart aerobic";

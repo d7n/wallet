@@ -1,1 +1,1 @@
-var mnemonic = "tower dice typical effort offer renew bright stick pigeon siege fame clump";
+var mnemonic = "budget wine excess federal oblige theme ancient more health cat creek mobile";

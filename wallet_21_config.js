@@ -1,1 +1,1 @@
-var mnemonic = "gospel awesome add work possible burst feed area creek morning afraid unfair";
+var mnemonic = "vicious fuel abuse captain defense parrot lucky say slot ecology midnight jar";

@@ -1,1 +1,1 @@
-var mnemonic = "exile pizza champion present pull tone alone target funny art attack owner";
+var mnemonic = "siege fence uphold keep napkin sure twist misery chuckle turtle flip system";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding rhythm truly cousin symptom edge capital cry absurd tell wire impulse";
+var mnemonic = "bonus raw number bless despair split lunar tired antique tent blame scorpion";

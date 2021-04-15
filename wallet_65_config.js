@@ -1,1 +1,1 @@
-var mnemonic = "fragile fringe frog fossil catch hard exact hedgehog stadium suggest acquire parent";
+var mnemonic = "junior damp fly young roast meadow embody laugh exact denial evoke wink";

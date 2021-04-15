@@ -1,1 +1,1 @@
-var mnemonic = "safe project debate rare flock end funny use crisp first hood tunnel";
+var mnemonic = "business loud woman wear onion mosquito measure chalk raise sniff public innocent";

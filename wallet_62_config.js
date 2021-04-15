@@ -1,1 +1,1 @@
-var mnemonic = "rigid define seed december deer blue must pulse cousin window slam like";
+var mnemonic = "illegal silent vanish hollow wagon lunch need guess round frequent share furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "crack luggage fly shift emerge acid mistake swim source execute blouse horse";
+var mnemonic = "average apology square symptom smile build point exercise obvious visit cave learn";

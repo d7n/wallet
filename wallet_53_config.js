@@ -1,1 +1,1 @@
-var mnemonic = "carpet base coffee limb job bleak home this ethics attract recipe venture";
+var mnemonic = "town answer gold summer fun box people sorry inflict hunt close gold";

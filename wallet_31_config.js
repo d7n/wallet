@@ -1,1 +1,1 @@
-var mnemonic = "below short drum fortune mixture bachelor gloom color spoil ignore coffee multiply";
+var mnemonic = "build rocket crop jewel young person measure inject royal remain battle burst";

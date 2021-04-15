@@ -1,1 +1,1 @@
-var mnemonic = "trap reason cluster artwork people stable pilot perfect script canoe lion team";
+var mnemonic = "fresh forward behave scare wife blouse story wagon collect cabbage wheat sister";

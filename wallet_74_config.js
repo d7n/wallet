@@ -1,1 +1,1 @@
-var mnemonic = "connect imitate uncover unit vote tilt sugar erupt layer dilemma route possible";
+var mnemonic = "deposit law cherry surge lesson chaos ozone drift embrace dream attitude casino";

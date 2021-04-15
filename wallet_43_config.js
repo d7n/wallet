@@ -1,1 +1,1 @@
-var mnemonic = "tone bless garbage vacuum dynamic goddess spread enjoy member magnet thank fame";
+var mnemonic = "ridge tourist letter diet wrap inherit ribbon acquire equip cause slot liquid";

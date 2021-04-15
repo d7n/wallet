@@ -1,1 +1,1 @@
-var mnemonic = "endorse buyer caught palace orchard few toast cargo special term museum gas";
+var mnemonic = "suit green blade original short essence weather manual siege castle dust distance";

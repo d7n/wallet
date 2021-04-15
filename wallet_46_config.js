@@ -1,1 +1,1 @@
-var mnemonic = "portion jungle elegant elegant fish fresh claim stuff alpha flame pipe master";
+var mnemonic = "doctor knee empower siege case pizza know length prepare write inch image";
