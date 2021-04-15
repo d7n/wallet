@@ -1,1 +1,1 @@
-var mnemonic = "another mad tongue hire possible deal armed guess nose fence attack submit";
+var mnemonic = "tiger cross ship bind crawl airport exclude tragic little pelican obscure scorpion";

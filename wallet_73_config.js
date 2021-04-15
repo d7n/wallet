@@ -1,1 +1,1 @@
-var mnemonic = "clap expand clarify sheriff orient hurt caution sand disease glide romance manage";
+var mnemonic = "dumb lucky couch eager vague punch sphere faculty weather horror exhibit clever";

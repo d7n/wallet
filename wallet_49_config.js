@@ -1,1 +1,1 @@
-var mnemonic = "poverty cigar plastic pig spray deputy entire tool swing liquid nerve you";
+var mnemonic = "large excess trumpet cruel steak flock busy hold find tumble foil recall";

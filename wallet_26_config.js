@@ -1,1 +1,1 @@
-var mnemonic = "sketch expose farm behave boring script dose length tennis home lonely upset";
+var mnemonic = "embrace awake science tornado viable gift point cinnamon daughter oblige virtual choose";

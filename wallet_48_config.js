@@ -1,1 +1,1 @@
-var mnemonic = "sting where stone shadow arrest rhythm task item circle argue miss mean";
+var mnemonic = "advice daughter industry label width gaze cargo human noble rural museum peanut";

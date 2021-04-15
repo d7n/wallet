@@ -1,1 +1,1 @@
-var mnemonic = "bone fiber derive mean moment eyebrow like icon pulse basket black endorse";
+var mnemonic = "deer second success provide position fuel melt liquid plunge cradle knock feature";

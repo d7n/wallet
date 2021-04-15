@@ -1,1 +1,1 @@
-var mnemonic = "paddle purpose material party review segment execute train intact whale spare unaware";
+var mnemonic = "click glance ghost fancy cactus business ketchup husband unfair menu case lab";

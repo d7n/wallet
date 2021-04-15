@@ -1,1 +1,1 @@
-var mnemonic = "goddess slush swallow cube captain solid tuna task about fine artwork shoulder";
+var mnemonic = "sing fat select cycle coin color review identify portion powder cabbage envelope";

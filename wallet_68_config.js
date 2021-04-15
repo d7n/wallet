@@ -1,1 +1,1 @@
-var mnemonic = "furnace lucky vessel gift song valley gap dice link champion guide hour";
+var mnemonic = "desert twist mistake wear example thrive invite prevent illness concert federal search";

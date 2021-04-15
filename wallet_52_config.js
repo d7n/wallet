@@ -1,1 +1,1 @@
-var mnemonic = "poet real velvet train old holiday present gallery alert tube junk nut";
+var mnemonic = "enrich year inflict pudding solve lawn whip stock trash upper athlete hammer";

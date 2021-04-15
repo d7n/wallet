@@ -1,1 +1,1 @@
-var mnemonic = "type differ ship book heart indicate display stick mouse dutch ten regret";
+var mnemonic = "old kingdom bless spy drift gasp medal plate earth maid ghost matter";

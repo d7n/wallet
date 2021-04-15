@@ -1,1 +1,1 @@
-var mnemonic = "road feed receive place park evil merry guard beef mind boil situate";
+var mnemonic = "fiber crisp advance proof equal stumble around wheel panda taxi wheel parent";

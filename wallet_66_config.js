@@ -1,1 +1,1 @@
-var mnemonic = "drink venue emotion supreme theme diesel until wrong cage curious daring eye";
+var mnemonic = "trouble couple guess remove real blast friend sunny captain occur top easily";

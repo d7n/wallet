@@ -1,1 +1,1 @@
-var mnemonic = "roof oyster segment awful vintage ring powder journey behind point slow mistake";
+var mnemonic = "lava album badge dad spin similar spoil shop canoe pet lobster kangaroo";

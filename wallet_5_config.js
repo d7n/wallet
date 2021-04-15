@@ -1,1 +1,1 @@
-var mnemonic = "clock below banana annual donor settle session ritual pupil world banana mistake";
+var mnemonic = "near action object luggage search very keen recycle venue domain topic column";

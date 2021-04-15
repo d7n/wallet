@@ -1,1 +1,1 @@
-var mnemonic = "kingdom scorpion glare obscure elbow cheap asset before approve sunny cart apple";
+var mnemonic = "deer bomb girl goat inside gaze found position park someone keen crunch";

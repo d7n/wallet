@@ -1,1 +1,1 @@
-var mnemonic = "civil worry twist cancel win float art rival accident jacket actor damage";
+var mnemonic = "pole liar fragile annual lecture eagle uphold social sphere exercise wrestle forget";

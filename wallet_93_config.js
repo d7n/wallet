@@ -1,1 +1,1 @@
-var mnemonic = "coconut enhance boring habit staff ship spatial paper remain vacant milk upper";
+var mnemonic = "nasty oppose merit donkey drop silly cliff depth job wrap surface various";

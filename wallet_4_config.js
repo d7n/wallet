@@ -1,1 +1,1 @@
-var mnemonic = "roast verify shoulder knock ranch usage lava fresh toddler fury peanut ethics";
+var mnemonic = "antique soap tone rigid aware head allow swift mixed stand rabbit salt";

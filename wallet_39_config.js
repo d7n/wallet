@@ -1,1 +1,1 @@
-var mnemonic = "bounce total robust discover erupt later cactus beach equip crane guess arm";
+var mnemonic = "entire park sphere sport cause focus bomb risk act autumn common ancient";

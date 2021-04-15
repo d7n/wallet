@@ -1,1 +1,1 @@
-var mnemonic = "nature accident tongue pumpkin road noise treat mind typical leopard pen act";
+var mnemonic = "october hungry film hurry fee kid tray present confirm boy bachelor pig";

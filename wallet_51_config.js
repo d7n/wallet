@@ -1,1 +1,1 @@
-var mnemonic = "alarm evil sheriff lesson absorb jungle wait remember local resist awkward symbol";
+var mnemonic = "ready turn gun garbage output shaft expire youth rack clump accuse oppose";

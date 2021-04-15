@@ -1,1 +1,1 @@
-var mnemonic = "casino near favorite cost bus right hint sunset label host enlist since";
+var mnemonic = "lounge fragile feature cover raven speak flip guitar flash foster boss absurd";

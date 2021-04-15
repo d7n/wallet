@@ -1,1 +1,1 @@
-var mnemonic = "surround clerk skate deputy air umbrella engage opinion please skill expand unit";
+var mnemonic = "false hope pistol avoid unfair coyote exchange bean polar observe strategy index";

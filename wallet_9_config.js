@@ -1,1 +1,1 @@
-var mnemonic = "steak stamp must shift creek blood equal return invite surface point never";
+var mnemonic = "shield into upper improve again world wall mirror urban awesome private camera";

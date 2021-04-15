@@ -1,1 +1,1 @@
-var mnemonic = "warm pet fun gown suit craft rigid mandate nest coin flame penalty";
+var mnemonic = "relax vault economy utility unhappy pizza penalty jeans joy fancy tomorrow square";

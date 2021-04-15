@@ -1,1 +1,1 @@
-var mnemonic = "awkward attitude theme check boss urge gas timber answer sweet rich auction";
+var mnemonic = "lesson teach rude spoon rubber airport upper public milk blast analyst echo";

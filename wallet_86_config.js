@@ -1,1 +1,1 @@
-var mnemonic = "mule clog share play amazing gown dash someone equal valley sword razor";
+var mnemonic = "knock verify comic wolf budget garlic husband prize matter tape decorate vapor";

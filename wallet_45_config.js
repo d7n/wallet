@@ -1,1 +1,1 @@
-var mnemonic = "absurd blur slam dwarf chair gadget require ranch october release trophy derive";
+var mnemonic = "please first make poem range board onion cigar human witness rapid blossom";

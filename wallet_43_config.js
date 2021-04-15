@@ -1,1 +1,1 @@
-var mnemonic = "time oven vanish below stem funny script rival skirt hazard basket birth";
+var mnemonic = "ill chief meat buyer margin anxiety erode goose allow board robust trend";

@@ -1,1 +1,1 @@
-var mnemonic = "coin love finger ski reveal flee crowd orbit dolphin ensure satoshi decorate";
+var mnemonic = "congress toast behind crack tonight neglect whisper stadium major brother choose term";

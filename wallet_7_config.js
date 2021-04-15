@@ -1,1 +1,1 @@
-var mnemonic = "donkey display stage sustain replace right huge badge bright despair rice unhappy";
+var mnemonic = "spawn index cement odor stereo sibling unfair tray clarify aspect zoo tired";

@@ -1,1 +1,1 @@
-var mnemonic = "guide food shrug movie taxi elbow predict level denial kit language crater";
+var mnemonic = "give amazing smooth industry wool patrol chicken neck upgrade chair better mother";

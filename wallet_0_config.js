@@ -1,1 +1,1 @@
-var mnemonic = "silver across series route retire barely claim chalk cycle adapt page dash";
+var mnemonic = "build math bus sample width tower olympic mystery bottom angry curve soup";

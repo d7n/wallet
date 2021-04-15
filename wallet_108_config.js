@@ -1,1 +1,1 @@
-var mnemonic = "hip rocket life kangaroo asset require carpet shop miss when field approve";
+var mnemonic = "tired unhappy payment mistake turtle deer adjust damp three army join blue";

@@ -1,1 +1,1 @@
-var mnemonic = "output fitness cause brand forward example voice scare mechanic used analyst dream";
+var mnemonic = "found sense spider mule gauge tomorrow purse prefer snake source tongue motion";

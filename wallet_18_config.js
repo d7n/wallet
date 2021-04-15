@@ -1,1 +1,1 @@
-var mnemonic = "allow smooth balcony copy brush crane hurt renew female olympic test toy";
+var mnemonic = "burger asthma holiday direct library book gallery olive monster nuclear diagram shed";

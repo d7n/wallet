@@ -1,1 +1,1 @@
-var mnemonic = "certain tail napkin assault promote asthma near become egg usage fetch census";
+var mnemonic = "try screen foot excite fall bonus sketch outside car cousin music path";

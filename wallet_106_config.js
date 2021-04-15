@@ -1,1 +1,1 @@
-var mnemonic = "guide silk habit indicate fever ordinary season dream eagle crack maid cricket";
+var mnemonic = "steak witness exhaust logic cream pave correct mouse glad orchard anchor discover";

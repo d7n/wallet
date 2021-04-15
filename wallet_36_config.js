@@ -1,1 +1,1 @@
-var mnemonic = "current shadow action tree private animal earn below frozen trial street emerge";
+var mnemonic = "actor forget use video connect resemble check slot leisure foil harbor laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "screen pencil crack stuff battle token collect lava frown acoustic notice only";
+var mnemonic = "clutch film major chalk ride please next satisfy cherry aunt satoshi urge";

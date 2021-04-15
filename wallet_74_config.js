@@ -1,1 +1,1 @@
-var mnemonic = "cabbage section spike prepare way reform extra ginger bachelor zero add finger";
+var mnemonic = "topic awkward business correct jar brother ice language bleak faith nephew run";

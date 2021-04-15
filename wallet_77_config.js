@@ -1,1 +1,1 @@
-var mnemonic = "key business aunt adjust idea shoe nose despair trick yard decorate clock";
+var mnemonic = "alcohol struggle enforce curtain brain step that essence video husband state dentist";

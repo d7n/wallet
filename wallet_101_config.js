@@ -1,1 +1,1 @@
-var mnemonic = "spoil claw renew shock spy engage invite defy rocket nothing pipe canvas";
+var mnemonic = "reject amount junior grass cute search lazy olympic season sample pride action";

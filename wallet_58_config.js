@@ -1,1 +1,1 @@
-var mnemonic = "shadow energy jump above layer state omit fire antenna keen decide vote";
+var mnemonic = "actor family ripple gather home culture impact stand make render health public";

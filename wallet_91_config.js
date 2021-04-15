@@ -1,1 +1,1 @@
-var mnemonic = "below now soap milk soccer key dish stay inmate trick embrace benefit";
+var mnemonic = "metal effort cool nurse excess laundry scout daring right school frost wealth";

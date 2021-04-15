@@ -1,1 +1,1 @@
-var mnemonic = "push obtain please hero enforce custom ready kind dumb decide element dutch";
+var mnemonic = "gold tool rabbit lizard evidence analyst cry rocket version replace message retreat";

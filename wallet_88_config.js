@@ -1,1 +1,1 @@
-var mnemonic = "update cave you caution raise stem know common possible label bulk element";
+var mnemonic = "trigger urban hobby salmon bright reject spirit cheap evolve lonely hotel weasel";

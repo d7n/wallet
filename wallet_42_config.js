@@ -1,1 +1,1 @@
-var mnemonic = "scrub hole speed piano bone gather sock muffin enhance evidence moral issue";
+var mnemonic = "regular hint shy mountain fat occur satoshi angle cheap robot canyon success";

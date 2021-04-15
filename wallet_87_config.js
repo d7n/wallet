@@ -1,1 +1,1 @@
-var mnemonic = "harsh depth hybrid inch science manage absent disagree thank clever rebel grief";
+var mnemonic = "bracket boat divide pave away clarify science trash deal trim sugar submit";

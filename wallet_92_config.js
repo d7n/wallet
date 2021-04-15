@@ -1,1 +1,1 @@
-var mnemonic = "endless route volume rubber foster unfair volume raven write monkey sorry cheap";
+var mnemonic = "strike genuine old tiny sense comic hope future cousin insect copper this";

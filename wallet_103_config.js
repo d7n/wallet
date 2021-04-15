@@ -1,1 +1,1 @@
-var mnemonic = "write roof film mouse paper celery rhythm boring drama best devote jelly";
+var mnemonic = "equip stay shrug obvious harvest december because gasp melt nature gold garbage";

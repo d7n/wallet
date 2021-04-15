@@ -1,1 +1,1 @@
-var mnemonic = "swap spend cost knock hybrid awesome razor farm sand witness erode arch";
+var mnemonic = "soldier actual flight flip lunch salt review cram year license hair round";

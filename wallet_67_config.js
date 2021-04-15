@@ -1,1 +1,1 @@
-var mnemonic = "much health alone plug winter bean position mind actual slam identify aerobic";
+var mnemonic = "gospel remind unique improve vintage penalty guess stove party bright sudden lawsuit";

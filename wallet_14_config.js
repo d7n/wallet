@@ -1,1 +1,1 @@
-var mnemonic = "uncle chuckle float sell shop nation local talk hospital frozen grit twenty";
+var mnemonic = "artefact ocean word faith must alarm police crane crime original rough mind";

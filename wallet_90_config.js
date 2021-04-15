@@ -1,1 +1,1 @@
-var mnemonic = "camera evoke snake umbrella stone slot ahead response birth armed word invest";
+var mnemonic = "crime chunk used nuclear depart never engine sphere cricket floor toilet position";

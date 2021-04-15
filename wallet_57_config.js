@@ -1,1 +1,1 @@
-var mnemonic = "erase luxury frost orange eye era elephant cherry shoulder grocery phrase they";
+var mnemonic = "album kiss suit erase rigid nephew local uniform energy foil atom army";

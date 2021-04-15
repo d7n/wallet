@@ -1,1 +1,1 @@
-var mnemonic = "review midnight arrange symbol short path around hill acoustic glance topic betray";
+var mnemonic = "ball once sleep insane angry extra blur unusual spring cry rate must";

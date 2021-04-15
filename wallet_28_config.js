@@ -1,1 +1,1 @@
-var mnemonic = "action snake matter punch mad wedding glimpse siege solution novel trust cable";
+var mnemonic = "elephant avocado conduct review husband violin edit direct soldier multiply pepper loop";

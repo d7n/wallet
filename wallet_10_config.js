@@ -1,1 +1,1 @@
-var mnemonic = "parent honey priority exhaust success bicycle vapor stuff forward law question advance";
+var mnemonic = "end warfare ramp slot skill guilt issue vault divorce opera destroy wet";

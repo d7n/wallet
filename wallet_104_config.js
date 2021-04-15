@@ -1,1 +1,1 @@
-var mnemonic = "frost easy life mix stable journey series method sad bus code common";
+var mnemonic = "rose wife below thrive just regular shine globe light color doll expand";

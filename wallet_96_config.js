@@ -1,1 +1,1 @@
-var mnemonic = "list siren audit enlist wagon rigid hunt silly token render social dune";
+var mnemonic = "easily emotion lemon exclude erase rabbit wrap tissue remind usage armed rib";

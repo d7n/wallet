@@ -1,1 +1,1 @@
-var mnemonic = "monster viable script slim approve delay stereo energy river army chimney limit";
+var mnemonic = "use satisfy genuine gossip faith dirt off sound tornado pulse educate umbrella";

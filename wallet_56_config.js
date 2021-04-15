@@ -1,1 +1,1 @@
-var mnemonic = "viable kiwi crisp steak good story secret dynamic dog visa grant leader";
+var mnemonic = "double melt antique antique thought ahead couch sibling denial response tilt swamp";

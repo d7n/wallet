@@ -1,1 +1,1 @@
-var mnemonic = "rely donate month judge rude also shuffle physical another reveal guess install";
+var mnemonic = "cloud basic derive rough pave ketchup infant flip meat broom unveil country";

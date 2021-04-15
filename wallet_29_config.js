@@ -1,1 +1,1 @@
-var mnemonic = "inherit topic panel spatial brief plate fall spot tourist deal raw lawsuit";
+var mnemonic = "jazz endorse onion pattern horse crater day subject cute social glare soccer";

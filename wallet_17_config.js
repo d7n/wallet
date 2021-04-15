@@ -1,1 +1,1 @@
-var mnemonic = "silent ocean maid twin account vanish false risk boost search pudding judge";
+var mnemonic = "people word bird camp talk avocado pudding online wash arrive novel vivid";

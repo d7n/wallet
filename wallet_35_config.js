@@ -1,1 +1,1 @@
-var mnemonic = "wheel sphere digital raw circle abstract female tool receive chapter truly goose";
+var mnemonic = "reveal warm kiwi favorite view grab crisp fork tube cake alcohol pilot";

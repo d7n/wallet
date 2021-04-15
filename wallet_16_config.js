@@ -1,1 +1,1 @@
-var mnemonic = "liquid goddess fold shop donkey affair trick nominee mail chronic hidden target";
+var mnemonic = "mom unfold veteran grass learn fitness prize plug vast turn remember various";

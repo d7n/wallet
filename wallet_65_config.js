@@ -1,1 +1,1 @@
-var mnemonic = "rude escape taste anger oxygen battle venture salute monitor basket solution broom";
+var mnemonic = "jar morning left flush drum payment cotton penalty large sunset tribe home";

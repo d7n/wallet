@@ -1,1 +1,1 @@
-var mnemonic = "achieve put library project rigid turn desert pyramid picnic brain crane describe";
+var mnemonic = "unable naive open cigar labor ice abandon razor actor produce blush adjust";

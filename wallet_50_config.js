@@ -1,1 +1,1 @@
-var mnemonic = "ginger people vacuum someone electric crucial battle rather between rule bundle velvet";
+var mnemonic = "vessel rose nasty crime dial opera salt find card orphan among regular";

@@ -1,1 +1,1 @@
-var mnemonic = "cave similar pony bean sense atom royal absent trumpet gossip match cliff";
+var mnemonic = "vacuum end horn cactus charge asthma rich cool shock hamster onion joy";

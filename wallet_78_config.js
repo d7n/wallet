@@ -1,1 +1,1 @@
-var mnemonic = "depth fitness pretty evidence valid agent prison artist velvet master income grief";
+var mnemonic = "involve acquire fall abstract useless language tank police author virus radio force";

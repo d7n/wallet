@@ -1,1 +1,1 @@
-var mnemonic = "host certain drill wait someone pyramid quote acid wink indicate raise buffalo";
+var mnemonic = "boring license invest plastic modify service mammal mask pull scissors stuff tape";

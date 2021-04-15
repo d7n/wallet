@@ -1,1 +1,1 @@
-var mnemonic = "page brisk high alien filter catalog infant noodle amused awake range true";
+var mnemonic = "barrel birth spider exact swift manual lava invest oblige disorder ginger finger";

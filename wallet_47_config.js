@@ -1,1 +1,1 @@
-var mnemonic = "junior term eagle another wild style crawl dream oxygen skate crash clutch";
+var mnemonic = "artefact two script salad soccer impact reflect offer buddy recipe gravity fragile";

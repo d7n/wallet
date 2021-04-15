@@ -1,1 +1,1 @@
-var mnemonic = "frame ahead lawn fruit female input below umbrella network viable situate suit";
+var mnemonic = "glad edge smile alarm there scrub subject side syrup copy session join";

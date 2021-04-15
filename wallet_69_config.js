@@ -1,1 +1,1 @@
-var mnemonic = "minor glad because picture knife walk ugly rice wreck fetch second dizzy";
+var mnemonic = "unlock room outdoor wing thumb draft give opinion often odor else pledge";

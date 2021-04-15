@@ -1,1 +1,1 @@
-var mnemonic = "fun prefer vapor crumble grace satoshi actress fault quarter home rookie praise";
+var mnemonic = "start pledge live jewel love burst mystery assault hip castle century river";

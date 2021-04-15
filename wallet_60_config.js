@@ -1,1 +1,1 @@
-var mnemonic = "lunch come process cage talent enable describe civil chunk illegal fabric dial";
+var mnemonic = "dawn crystal seat enlist border chimney earth switch apology bridge bread canyon";

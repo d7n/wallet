@@ -1,1 +1,1 @@
-var mnemonic = "scale phrase oil picnic shrug episode crawl use duty blind often blade";
+var mnemonic = "opinion warrior illegal come coach essay joy cinnamon image equip begin heart";

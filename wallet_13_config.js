@@ -1,1 +1,1 @@
-var mnemonic = "post tilt wet deposit crisp foam clump motion quality case chat anxiety";
+var mnemonic = "list close slot mention effort rice blush reunion core remind average present";

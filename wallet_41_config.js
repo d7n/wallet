@@ -1,1 +1,1 @@
-var mnemonic = "vacuum patrol head category ride soul shock apple immense error more pupil";
+var mnemonic = "pink crime involve fabric scout build marriage useless direct game rare such";

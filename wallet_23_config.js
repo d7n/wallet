@@ -1,1 +1,1 @@
-var mnemonic = "uphold escape brand wash finger weather trade duck tired hold head unlock";
+var mnemonic = "muffin east jacket oppose original spray next supreme drive broccoli excuse sunset";

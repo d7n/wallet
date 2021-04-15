@@ -1,1 +1,1 @@
-var mnemonic = "rice when profit casino razor pride recall mercy system reopen wall clump";
+var mnemonic = "bubble rice animal seat demise yellow father any floor kingdom donor east";
