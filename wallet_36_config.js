@@ -1,1 +1,1 @@
-var mnemonic = "false advice salad crazy scrap thrive clinic couple desert seminar crater cable";
+var mnemonic = "embark basic zero mistake blame pony secret tail certain network shed health";

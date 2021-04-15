@@ -1,1 +1,1 @@
-var mnemonic = "crouch ostrich add soap cabin brand canal upper galaxy tortoise suspect army";
+var mnemonic = "width urban auto region mix title electric scale mouse garment twenty agree";

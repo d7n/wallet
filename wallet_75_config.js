@@ -1,1 +1,1 @@
-var mnemonic = "door gas brief news ridge choice spring brick garlic lion weapon bargain";
+var mnemonic = "parade accuse regular please defy cage sponsor month parent profit primary tool";

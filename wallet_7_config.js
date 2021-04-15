@@ -1,1 +1,1 @@
-var mnemonic = "wealth energy lonely yellow reject awkward top tobacco orphan zoo rent under";
+var mnemonic = "eager guilt term radar dial heart wreck wink napkin doctor copy eager";

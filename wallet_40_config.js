@@ -1,1 +1,1 @@
-var mnemonic = "urge denial flip dice deer private size body gate orient hazard giant";
+var mnemonic = "just include canoe make rural dial outer stem eager scrap toast embark";

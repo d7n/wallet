@@ -1,1 +1,1 @@
-var mnemonic = "width appear bring gravity grab suspect like emerge blast lizard churn oblige";
+var mnemonic = "trap bright coffee result hospital fatal foam between live idle income lion";

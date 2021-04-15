@@ -1,1 +1,1 @@
-var mnemonic = "city spike phrase pyramid pig gauge fence fatal field hope adapt elevator";
+var mnemonic = "place year fantasy verb alcohol lunch shrimp very book similar cake act";

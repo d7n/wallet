@@ -1,1 +1,1 @@
-var mnemonic = "drama hole doll day blind because air special aerobic few large friend";
+var mnemonic = "cause imitate extra alien sail glimpse base ketchup narrow smooth icon hair";

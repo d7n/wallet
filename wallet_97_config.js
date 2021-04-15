@@ -1,1 +1,1 @@
-var mnemonic = "ill bright vital cause drum glue digital deal save quit eight fatal";
+var mnemonic = "symbol devote front ridge joy logic expire glare guilt item fish senior";

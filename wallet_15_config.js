@@ -1,1 +1,1 @@
-var mnemonic = "interest travel coil march shallow october easily alley discover movie budget lunar";
+var mnemonic = "place iron travel apart old caught mom unaware fade stool gallery churn";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme swing suspect capable figure wife north nurse unfold horror latin sheriff";
+var mnemonic = "zebra mouse learn learn gold gauge advance rabbit basic photo rose firm";

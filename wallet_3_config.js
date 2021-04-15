@@ -1,1 +1,1 @@
-var mnemonic = "multiply shallow install embrace black crunch vicious sniff tissue diamond hard tomato";
+var mnemonic = "shiver analyst humble master satisfy melody certain torch climb acid still whale";

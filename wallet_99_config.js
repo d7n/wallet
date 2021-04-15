@@ -1,1 +1,1 @@
-var mnemonic = "surface usage gorilla banner shoulder impact section quality fury identify voice breeze";
+var mnemonic = "project shoot spoil tenant camp almost version universe elder approve ignore vessel";

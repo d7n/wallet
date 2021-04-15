@@ -1,1 +1,1 @@
-var mnemonic = "grab interest before neither network discover economy again concert disease habit shoe";
+var mnemonic = "chicken brief seven cross flock turn surface large describe question avocado parade";

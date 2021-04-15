@@ -1,1 +1,1 @@
-var mnemonic = "entry anger olive blind van attend during depend taxi struggle target attract";
+var mnemonic = "future liquid myself tooth busy camera average edit robot entire nerve track";

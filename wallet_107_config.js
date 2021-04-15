@@ -1,1 +1,1 @@
-var mnemonic = "feel poem sponsor health sleep ethics race grunt hundred medal finger utility";
+var mnemonic = "diet cheese column frown grocery stock utility wonder business lift cause grass";

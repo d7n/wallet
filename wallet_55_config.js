@@ -1,1 +1,1 @@
-var mnemonic = "vicious solar kiss physical arch bench crack mesh around oven drive lock";
+var mnemonic = "rate hard arch scheme allow mesh ribbon idle captain mammal iron bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "summer joy auction list large wish flight beach rather entire border make";
+var mnemonic = "dream lava mansion print trick gossip until evolve insane famous huge admit";

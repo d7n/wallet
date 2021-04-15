@@ -1,1 +1,1 @@
-var mnemonic = "what defy skin ignore able april trial nothing knock notable fat destroy";
+var mnemonic = "merge aisle actress decline loop juice spend fantasy educate dish heavy book";

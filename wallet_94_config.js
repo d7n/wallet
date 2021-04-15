@@ -1,1 +1,1 @@
-var mnemonic = "garbage wide evoke veteran pet device ozone federal cradle length fury speed";
+var mnemonic = "swift sort near cover cover lazy hotel traffic tape pipe upgrade scale";

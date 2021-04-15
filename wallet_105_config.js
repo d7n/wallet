@@ -1,1 +1,1 @@
-var mnemonic = "three drastic current negative unfold swing lecture faculty elite bring hood salon";
+var mnemonic = "speed loud shrimp gadget elbow pledge local gentle aspect tonight fossil radio";

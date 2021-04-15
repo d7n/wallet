@@ -1,1 +1,1 @@
-var mnemonic = "proof despair brush uncover merge deal wall critic insect energy icon quality";
+var mnemonic = "hero delay snap wood swear cross resource devote ship ability riot predict";

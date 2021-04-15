@@ -1,1 +1,1 @@
-var mnemonic = "ticket melody gold joy shrimp diagram accident diary galaxy catch dog host";
+var mnemonic = "observe impose weapon caution ask crowd cement marble maid increase aim maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "physical horror dose design divorce utility settle acid deny rely shrimp present";
+var mnemonic = "fetch job course record sudden idle lunch grocery chair caution divorce genuine";

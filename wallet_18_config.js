@@ -1,1 +1,1 @@
-var mnemonic = "unlock wait equip tragic system smooth basket demise electric this travel airport";
+var mnemonic = "left like vanish report heavy hero width desert scrub grow shoot noodle";

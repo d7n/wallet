@@ -1,1 +1,1 @@
-var mnemonic = "deal need shift battle tilt brick mobile combine another finger erupt resemble";
+var mnemonic = "defy fabric great iron doctor pact brother gap orphan panther forest ahead";

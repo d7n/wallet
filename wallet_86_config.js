@@ -1,1 +1,1 @@
-var mnemonic = "ability nothing hill first cactus essay foil grape trust crush olive sphere";
+var mnemonic = "copper hand diagram shaft present wheat pink volcano moment dragon hat regret";

@@ -1,1 +1,1 @@
-var mnemonic = "project final bleak avoid devote athlete fine hill grit quiz result shaft";
+var mnemonic = "bird share obtain flame jacket subject elbow empower what lawn gallery luggage";

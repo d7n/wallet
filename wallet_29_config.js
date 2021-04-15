@@ -1,1 +1,1 @@
-var mnemonic = "oblige quit tent damp bulk gown retire surface extra order wild upon";
+var mnemonic = "between birth drama atom airport verify slender rebuild frost inflict april wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "upper burger wolf mask wink long enact together beyond ready brass capital";
+var mnemonic = "define enemy act portion sock inject before rally seat valve feel verify";

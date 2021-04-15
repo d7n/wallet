@@ -1,1 +1,1 @@
-var mnemonic = "spider rocket current legend inner unhappy process other meadow garden twice false";
+var mnemonic = "exact annual bomb indoor theme audit small palace tired fine name sting";

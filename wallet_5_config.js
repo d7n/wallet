@@ -1,1 +1,1 @@
-var mnemonic = "wrist method reason harsh toilet flight famous steel end lucky congress correct";
+var mnemonic = "record layer erupt poem matter pool angle orient inhale seed toss spare";

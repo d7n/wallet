@@ -1,1 +1,1 @@
-var mnemonic = "code tooth teach rug color height future usage cake awkward lion orange";
+var mnemonic = "chief math renew horn estate group churn change slide outside fragile employ";

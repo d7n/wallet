@@ -1,1 +1,1 @@
-var mnemonic = "address slot grace retreat reunion reopen fire kiss south orphan cheap random";
+var mnemonic = "giggle ocean into payment mimic glow manual damp any cactus canal limb";

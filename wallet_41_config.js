@@ -1,1 +1,1 @@
-var mnemonic = "toss force escape protect column enter night window still spy fresh method";
+var mnemonic = "best provide fan coast flash science chase denial citizen purity evidence cradle";

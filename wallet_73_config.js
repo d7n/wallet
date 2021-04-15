@@ -1,1 +1,1 @@
-var mnemonic = "toast midnight until logic cake budget shock output model tired neck ripple";
+var mnemonic = "gold pudding fix man spice shrimp kingdom clean secret hidden female jazz";

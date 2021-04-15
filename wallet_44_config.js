@@ -1,1 +1,1 @@
-var mnemonic = "early siege maze fan style giant lyrics panic tired orient riot dice";
+var mnemonic = "endless clog wet protect talk risk arch cloth mixture urge copper dial";

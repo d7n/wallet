@@ -1,1 +1,1 @@
-var mnemonic = "drum person menu dinner scorpion wear sweet charge topple notable drill gasp";
+var mnemonic = "salute catch hospital barrel they cradle derive profit general language fire candy";

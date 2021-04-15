@@ -1,1 +1,1 @@
-var mnemonic = "goose pluck genre diary announce ozone hub gospel team devote possible also";
+var mnemonic = "cloth animal swamp report eye filter suggest shop athlete license select scissors";

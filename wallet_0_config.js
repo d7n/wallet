@@ -1,1 +1,1 @@
-var mnemonic = "trial mixed very obvious bicycle year bring major trigger doll lend weather";
+var mnemonic = "pyramid autumn tumble address economy usage same describe harvest slot citizen hard";

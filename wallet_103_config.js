@@ -1,1 +1,1 @@
-var mnemonic = "bone bid zoo end grunt attitude coast ride stairs name pond setup";
+var mnemonic = "pizza sadness universe toddler almost panther enough loan job whale diet affair";

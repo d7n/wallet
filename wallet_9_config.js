@@ -1,1 +1,1 @@
-var mnemonic = "enter rotate shaft desk fossil drop glass already first peanut tired style";
+var mnemonic = "thunder swim grace six accuse rocket dirt permit way caught staff drastic";

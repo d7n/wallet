@@ -1,1 +1,1 @@
-var mnemonic = "pig vague brand club fly soccer raw vapor rifle search plug bean";
+var mnemonic = "midnight afford catch tourist foster world duty wire sketch course cigar wealth";

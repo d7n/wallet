@@ -1,1 +1,1 @@
-var mnemonic = "topic banana spatial chef very tumble relax tip sea dish toward reward";
+var mnemonic = "stereo copper clog zebra day youth color obvious odor demand fork hat";

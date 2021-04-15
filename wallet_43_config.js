@@ -1,1 +1,1 @@
-var mnemonic = "syrup nasty paddle crouch prepare bird mix volume payment decrease mask history";
+var mnemonic = "series enemy matrix exclude vote winter dizzy museum model phone rotate cat";

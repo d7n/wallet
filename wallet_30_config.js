@@ -1,1 +1,1 @@
-var mnemonic = "doll doctor crowd inside spend liar comic tree scheme dance float income";
+var mnemonic = "wrestle appear ethics search gain wink stage protect day ivory glue rifle";

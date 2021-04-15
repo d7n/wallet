@@ -1,1 +1,1 @@
-var mnemonic = "husband acquire chimney agent cherry glory manual nasty gasp scene donate clean";
+var mnemonic = "apart kitchen inside link pudding estate nature age mad raw tooth card";

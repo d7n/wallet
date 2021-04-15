@@ -1,1 +1,1 @@
-var mnemonic = "consider fee hill nut drama dune adapt chief digital acquire try equip";
+var mnemonic = "license scare source embody bar credit mountain strategy select wait scan pet";

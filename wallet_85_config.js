@@ -1,1 +1,1 @@
-var mnemonic = "fame clarify want bag very rocket trend stadium sorry pair suit aunt";
+var mnemonic = "blame meadow mule wear dry permit laugh urge defense brown owner minor";

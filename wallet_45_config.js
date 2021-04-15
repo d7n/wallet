@@ -1,1 +1,1 @@
-var mnemonic = "doll exist vast apology warrior core often curve rescue moment collect genre";
+var mnemonic = "deal early holiday omit drift pupil fiber try where pet buffalo yard";

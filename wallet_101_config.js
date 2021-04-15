@@ -1,1 +1,1 @@
-var mnemonic = "sock ladder fee error clutch hip crucial spider bunker grocery brisk inmate";
+var mnemonic = "split monkey remain tool rack moment forest shop frozen woman hobby kangaroo";

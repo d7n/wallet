@@ -1,1 +1,1 @@
-var mnemonic = "grunt enrich account valley tag shrug enroll fabric art foot obscure write";
+var mnemonic = "enhance erode detail return front treat angry climb fence grant fragile reform";

@@ -1,1 +1,1 @@
-var mnemonic = "caught initial purse eyebrow perfect salad glad rocket display craft snap summer";
+var mnemonic = "erupt giant super heavy bitter orbit hammer version index point unable express";

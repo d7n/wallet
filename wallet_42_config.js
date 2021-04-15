@@ -1,1 +1,1 @@
-var mnemonic = "sense present property bag bridge invest file curtain exile limit shop garden";
+var mnemonic = "myth fossil guard balcony shy solution exist submit this garlic oak gauge";

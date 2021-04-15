@@ -1,1 +1,1 @@
-var mnemonic = "noise athlete defense tragic disease choice plug oppose orbit vault find bacon";
+var mnemonic = "elephant argue multiply useful know unit inform wave noise type grape install";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm wall wheel fortune hundred absent month fan wool armed fly cake";
+var mnemonic = "road smoke palm echo sing police confirm honey asthma symbol small cupboard";

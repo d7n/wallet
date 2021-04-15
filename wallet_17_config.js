@@ -1,1 +1,1 @@
-var mnemonic = "outer require among pill music maze anchor sustain congress museum wealth bulb";
+var mnemonic = "crystal space divert sample fringe fit sock away balance purity coach flee";

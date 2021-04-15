@@ -1,1 +1,1 @@
-var mnemonic = "april type salon case useless matter people injury draw appear result remember";
+var mnemonic = "tilt endless fee dish author car process post copy drama excite agree";

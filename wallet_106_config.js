@@ -1,1 +1,1 @@
-var mnemonic = "screen lecture notice front van sure market under purse feel calm drastic";
+var mnemonic = "skirt unfold noble mail remove nuclear like execute crawl vehicle quick wedding";

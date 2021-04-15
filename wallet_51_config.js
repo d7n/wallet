@@ -1,1 +1,1 @@
-var mnemonic = "gap session prize hero orient artefact flock tooth oxygen merge above early";
+var mnemonic = "spring pride vehicle cloud run traffic range focus scheme muscle tape artefact";

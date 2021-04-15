@@ -1,1 +1,1 @@
-var mnemonic = "wing arrive pumpkin wrist pencil lumber nominee wagon enough seminar page mention";
+var mnemonic = "club today act squirrel amateur member figure advice broken banana fish ranch";

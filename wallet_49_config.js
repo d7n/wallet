@@ -1,1 +1,1 @@
-var mnemonic = "cook mosquito chunk scheme marble frog suit dose keep chair bar garden";
+var mnemonic = "cable destroy slice oppose extra double govern recycle solve climb august couch";

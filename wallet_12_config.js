@@ -1,1 +1,1 @@
-var mnemonic = "unfold more must screen hood three race prison super uncover chair cheap";
+var mnemonic = "media hunt erosion damage approve negative helmet shine anchor deliver garbage globe";

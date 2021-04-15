@@ -1,1 +1,1 @@
-var mnemonic = "success deliver boring clerk amateur equip report plug sunset reunion arrive between";
+var mnemonic = "slab victory foster grocery road trial notable coconut rug sea box winter";

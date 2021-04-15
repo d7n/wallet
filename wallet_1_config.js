@@ -1,1 +1,1 @@
-var mnemonic = "region onion pelican crew code execute title oxygen pink expose swallow employ";
+var mnemonic = "father poverty pet equal athlete return youth stuff shine trip angry piano";

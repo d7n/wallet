@@ -1,1 +1,1 @@
-var mnemonic = "fox pledge guilt miss code dice alien bullet maid unique midnight neutral";
+var mnemonic = "chase replace occur brush science question talent view unusual invite aunt smile";

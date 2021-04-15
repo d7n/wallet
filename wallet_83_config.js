@@ -1,1 +1,1 @@
-var mnemonic = "wire minor master crash panel fat provide boat gas legal you airport";
+var mnemonic = "wheat okay tunnel custom twin type cactus finish gift forward wealth seed";

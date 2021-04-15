@@ -1,1 +1,1 @@
-var mnemonic = "follow shock enemy ivory enrich insect chimney click front coast lend topic";
+var mnemonic = "into sister surprise field open twice atom joy goddess script click obscure";

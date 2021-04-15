@@ -1,1 +1,1 @@
-var mnemonic = "liquid hire warrior wear way trash mail face clarify mesh fat fold";
+var mnemonic = "still match erode robot brief couple have dash safe reunion remind castle";

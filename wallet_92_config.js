@@ -1,1 +1,1 @@
-var mnemonic = "forget invite runway orbit truly vague dinner arena clinic enable letter burger";
+var mnemonic = "hawk flag earth edge game guilt ripple cook couch fresh will other";

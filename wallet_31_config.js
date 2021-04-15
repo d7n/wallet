@@ -1,1 +1,1 @@
-var mnemonic = "between game primary dial output supreme boy celery sphere sweet radar elegant";
+var mnemonic = "abstract maze patch brief toilet sibling pact rescue cause rhythm refuse siege";

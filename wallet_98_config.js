@@ -1,1 +1,1 @@
-var mnemonic = "tuition ski inquiry merit zero myself reunion balance approve trend achieve dice";
+var mnemonic = "mobile hidden long nation diagram divert tell panda wood inject metal price";

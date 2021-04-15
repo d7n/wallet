@@ -1,1 +1,1 @@
-var mnemonic = "tumble gap wolf gym gather lonely hover chair second axis edit whale";
+var mnemonic = "endorse health prepare sample apart autumn stairs erase outside hockey rail end";

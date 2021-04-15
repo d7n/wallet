@@ -1,1 +1,1 @@
-var mnemonic = "few zoo february forget grant adjust trade rally divide science demise tragic";
+var mnemonic = "ethics total hen victory pepper usual nerve road craft frame peace total";

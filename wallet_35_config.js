@@ -1,1 +1,1 @@
-var mnemonic = "tobacco pause zone will join pond tank orange lumber stand walk gossip";
+var mnemonic = "distance west chest company pitch skin hope daring large busy neutral fragile";

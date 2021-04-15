@@ -1,1 +1,1 @@
-var mnemonic = "shell spoon mesh vibrant manual awesome glow harvest jealous fault speak mom";
+var mnemonic = "dove card grief keep town connect pill scale tiger junior ginger crouch";

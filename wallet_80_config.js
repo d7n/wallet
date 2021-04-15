@@ -1,1 +1,1 @@
-var mnemonic = "dress identify trip spike move inflict jazz lawn draw december brief skill";
+var mnemonic = "food cheap lock raccoon token minor caught drift february bless adult option";

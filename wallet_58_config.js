@@ -1,1 +1,1 @@
-var mnemonic = "pencil input bench truth note brown sketch attract secret wink width detect";
+var mnemonic = "dove weather tuna label love planet glass celery chuckle remove pass reopen";

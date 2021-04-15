@@ -1,1 +1,1 @@
-var mnemonic = "document enter monkey ethics glad popular bean bounce drama buffalo pony ability";
+var mnemonic = "veteran together sport resource move toss layer lava cave name opinion future";

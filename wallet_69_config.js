@@ -1,1 +1,1 @@
-var mnemonic = "sight antenna fence tornado steel vapor bus orange any curtain host gold";
+var mnemonic = "silver build theme amount ten squeeze junk cry sheriff material scatter execute";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal glimpse derive oil dune render wool oak match shy metal differ";
+var mnemonic = "purity prison hover milk scatter fever recipe silk sniff output limb lottery";

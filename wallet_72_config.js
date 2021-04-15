@@ -1,1 +1,1 @@
-var mnemonic = "good stereo witness essay erase honey dash vital cricket donate idle trap";
+var mnemonic = "coast eternal sail comic lake embrace flight allow possible bachelor tortoise nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "inject story happy crush coast trumpet surround cereal cabbage rail pattern curious";
+var mnemonic = "foam sight spare whisper first raccoon shed legend bid rib soldier curve";

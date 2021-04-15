@@ -1,1 +1,1 @@
-var mnemonic = "inside prepare rural kangaroo choice mechanic library disorder behind course roast ride";
+var mnemonic = "myth ladder escape whisper ladder cruel injury task six donkey ketchup genre";

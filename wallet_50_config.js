@@ -1,1 +1,1 @@
-var mnemonic = "helmet devote hand fortune unaware bid shrug eye hungry mom rain erupt";
+var mnemonic = "someone shaft section thought priority quarter decide select teach salad detail twin";

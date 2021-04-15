@@ -1,1 +1,1 @@
-var mnemonic = "evidence basic kite badge power load thrive slot embody chimney wood agree";
+var mnemonic = "usage mother cheap bulb unable one pizza olive drama almost object omit";

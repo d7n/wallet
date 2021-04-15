@@ -1,1 +1,1 @@
-var mnemonic = "drop quit apart display wing bag gravity step record keep spread antenna";
+var mnemonic = "again drum tired welcome crumble pill goddess nature unfair absurd solar green";

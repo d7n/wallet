@@ -1,1 +1,1 @@
-var mnemonic = "saddle voyage gorilla elegant prosper urban tide clever liberty bike obey surprise";
+var mnemonic = "ring arrow always shrimp skill arctic orange couple luggage health just genre";

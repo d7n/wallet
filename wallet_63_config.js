@@ -1,1 +1,1 @@
-var mnemonic = "crazy whale protect answer roof suffer tuna way lazy script away strike";
+var mnemonic = "thing snack boat beach flock tomato green travel burst symptom true shadow";

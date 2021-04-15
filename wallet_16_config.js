@@ -1,1 +1,1 @@
-var mnemonic = "bench bleak glow lava blouse bag secret window expire betray leave valid";
+var mnemonic = "diamond banana cinnamon shoulder machine occur globe dinner talk what defy tent";
