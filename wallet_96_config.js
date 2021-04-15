@@ -1,1 +1,1 @@
-var mnemonic = "butter spell sword tank health lava title piano address vocal panther butter";
+var mnemonic = "urge depart bleak vast detail drive chest another sponsor accuse hole praise";

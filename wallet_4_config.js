@@ -1,1 +1,1 @@
-var mnemonic = "flag dose like attack viable behave fly brief cherry detail army midnight";
+var mnemonic = "equip antenna route coast bicycle unit genius mind scrub marriage arrest crawl";

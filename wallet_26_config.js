@@ -1,1 +1,1 @@
-var mnemonic = "melody abuse mule dune scorpion lion warm combine error dance april razor";
+var mnemonic = "beauty dog ladder duty decline elder chief opinion dutch lonely minimum town";

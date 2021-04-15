@@ -1,1 +1,1 @@
-var mnemonic = "dirt mule sting fossil ship snake media stock woman throw salt elite";
+var mnemonic = "material type wing agree predict impose pulse gorilla avoid donate text spin";

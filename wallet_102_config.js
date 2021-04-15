@@ -1,1 +1,1 @@
-var mnemonic = "rely million atom clinic vicious song neglect express coffee plate try harsh";
+var mnemonic = "admit farm axis alpha message soda range sting merry staff become surface";

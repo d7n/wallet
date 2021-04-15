@@ -1,1 +1,1 @@
-var mnemonic = "history mad foam lyrics they wide lava dish romance warrior photo solution";
+var mnemonic = "young allow news vacuum air puppy core obtain dress trap planet million";

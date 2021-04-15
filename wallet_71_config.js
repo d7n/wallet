@@ -1,1 +1,1 @@
-var mnemonic = "predict crazy bounce area diet deny cheap acoustic motor silent picnic display";
+var mnemonic = "leopard wage cover trial grace crumble huge grant east picnic tongue still";

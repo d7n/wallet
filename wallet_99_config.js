@@ -1,1 +1,1 @@
-var mnemonic = "vacuum perfect fashion enroll arrow enroll tenant champion learn appear effort east";
+var mnemonic = "foster wash arrive consider plate fever army leaf maple turn news fancy";

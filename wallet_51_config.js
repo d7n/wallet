@@ -1,1 +1,1 @@
-var mnemonic = "easily almost virtual erosion obtain merge lesson saddle pact cream pill gesture";
+var mnemonic = "cereal prosper thank love drill since file fog crisp alarm jar brown";

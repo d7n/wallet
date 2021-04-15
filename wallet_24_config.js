@@ -1,1 +1,1 @@
-var mnemonic = "west hospital normal renew lemon flush illegal course lumber unfair load soup";
+var mnemonic = "address teach lemon sort purchase oval category again ski hood shift fantasy";

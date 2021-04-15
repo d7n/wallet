@@ -1,1 +1,1 @@
-var mnemonic = "fiction hawk hub spike slim ozone beach please coach shaft grass erode";
+var mnemonic = "topic sugar quit spell often engage raw chapter wasp shrug subway spider";

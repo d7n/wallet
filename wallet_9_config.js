@@ -1,1 +1,1 @@
-var mnemonic = "trade note recipe dress glimpse choice area where armor alter approve upper";
+var mnemonic = "mansion impose fury rally warm scrap shuffle lazy fox initial like panic";

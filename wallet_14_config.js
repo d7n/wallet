@@ -1,1 +1,1 @@
-var mnemonic = "document fault forward clip boil idle first month breeze clip chair body";
+var mnemonic = "fiction sword physical enhance hockey hospital guide pen improve cradle accident security";

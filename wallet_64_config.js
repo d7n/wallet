@@ -1,1 +1,1 @@
-var mnemonic = "eight since guide old young know maze discover shuffle glory scale release";
+var mnemonic = "weasel april company among reject unveil lobster innocent immune stairs summer point";

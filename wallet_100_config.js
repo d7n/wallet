@@ -1,1 +1,1 @@
-var mnemonic = "frozen win exit drama december dilemma negative cream lesson neutral ribbon simple";
+var mnemonic = "flavor oyster party cruel fabric crucial board crazy pencil sport grocery grid";

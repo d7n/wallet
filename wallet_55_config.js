@@ -1,1 +1,1 @@
-var mnemonic = "gentle surprise bundle junk human amateur oval actress friend side stay glide";
+var mnemonic = "canvas noodle metal couple people detect error inquiry mean supreme angry render";

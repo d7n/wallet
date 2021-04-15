@@ -1,1 +1,1 @@
-var mnemonic = "wish shuffle shift midnight scissors man arch object obey catalog radar chaos";
+var mnemonic = "recall female myth negative glad abandon trial ramp juice whale forum scare";

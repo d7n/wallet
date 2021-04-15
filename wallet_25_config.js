@@ -1,1 +1,1 @@
-var mnemonic = "eight vault proud maximum flee net almost upon excuse file beach inmate";
+var mnemonic = "trim enlist uncover pause record ride label utility prefer depart nuclear brand";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet relief daughter labor exclude head fashion miracle diary elder school seat";
+var mnemonic = "file pause essence foam silent cupboard butter motion skull shell orchard equip";

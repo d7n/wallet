@@ -1,1 +1,1 @@
-var mnemonic = "invite elevator equip pizza actor sand blast width dragon copy violin enhance";
+var mnemonic = "space follow sauce coin bag artist rack morning sudden kid scene whisper";

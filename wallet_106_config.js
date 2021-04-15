@@ -1,1 +1,1 @@
-var mnemonic = "wild page sibling robust bid sphere question powder hand exotic apple stadium";
+var mnemonic = "ten armor iron reopen dune top floor demise nation dinner lecture page";

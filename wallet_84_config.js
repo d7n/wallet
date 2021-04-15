@@ -1,1 +1,1 @@
-var mnemonic = "mosquito undo lounge cash quick enroll cry crazy brass health exchange bring";
+var mnemonic = "else find just slogan one work crush kidney dice admit curious elephant";

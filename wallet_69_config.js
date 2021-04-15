@@ -1,1 +1,1 @@
-var mnemonic = "tiger fit camera jazz warfare labor pistol long arrow decorate provide gaze";
+var mnemonic = "transfer such luggage wood pause gasp there dilemma inside swift broom across";

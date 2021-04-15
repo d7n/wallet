@@ -1,1 +1,1 @@
-var mnemonic = "intact sustain history aunt relax busy rude describe ridge legal point benefit";
+var mnemonic = "over mask false arrow ring observe silk erode mad find sphere smooth";

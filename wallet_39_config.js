@@ -1,1 +1,1 @@
-var mnemonic = "survey badge skirt correct buzz dwarf round name hen enforce high auction";
+var mnemonic = "doctor radar fatal shoulder change flight unique finger coast muscle disagree say";

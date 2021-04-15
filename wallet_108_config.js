@@ -1,1 +1,1 @@
-var mnemonic = "stable steel exact muscle exact puzzle strong link artefact put cruel maple";
+var mnemonic = "praise maple celery come skull zebra brand seven grape adult eager produce";

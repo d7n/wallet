@@ -1,1 +1,1 @@
-var mnemonic = "equip scrap wish belt earn tackle frame pig mention evidence hold short";
+var mnemonic = "million organ hundred evil vote siege toy minute surround fragile can food";

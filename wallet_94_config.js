@@ -1,1 +1,1 @@
-var mnemonic = "original priority laugh pact attend decade vapor head rigid gown brief street";
+var mnemonic = "obey place menu utility urban curtain load rigid bullet shed minimum trend";

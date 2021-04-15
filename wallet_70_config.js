@@ -1,1 +1,1 @@
-var mnemonic = "pelican spin sea begin ice shove volcano upper cotton fabric orange brass";
+var mnemonic = "juice abandon tuition strike rich arrive photo begin reduce pig ginger sorry";

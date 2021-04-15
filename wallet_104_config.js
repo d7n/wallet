@@ -1,1 +1,1 @@
-var mnemonic = "digital fruit cart sock across area soft ostrich assault chair treat drastic";
+var mnemonic = "tragic sell indoor shadow elder pluck glad heart salon faith route also";

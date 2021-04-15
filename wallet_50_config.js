@@ -1,1 +1,1 @@
-var mnemonic = "memory bulb equip apart main disease museum vacant scrap submit narrow price";
+var mnemonic = "knife where draw whisper silent second inch kid post addict practice rent";

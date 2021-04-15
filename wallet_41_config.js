@@ -1,1 +1,1 @@
-var mnemonic = "jacket blossom machine speed fan lawsuit void emotion curtain poet hard behave";
+var mnemonic = "increase radar sorry suffer spawn front true glide brave outdoor lion tragic";

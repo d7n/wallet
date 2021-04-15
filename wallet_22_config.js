@@ -1,1 +1,1 @@
-var mnemonic = "upgrade method later suggest ahead system reform visa return minimum axis correct";
+var mnemonic = "swallow foot wine general air educate pony coyote frozen across liberty curve";

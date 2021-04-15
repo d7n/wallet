@@ -1,1 +1,1 @@
-var mnemonic = "sail end torch tornado resist series latin mean valve oil advance renew";
+var mnemonic = "paddle legal assist battle adapt neck modify cram mango stick ignore spoon";

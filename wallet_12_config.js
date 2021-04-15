@@ -1,1 +1,1 @@
-var mnemonic = "render skill donor thing car hurt above tuition park aunt survey cool";
+var mnemonic = "fiscal display orchard float wedding sure warrior rotate neither next quote blame";

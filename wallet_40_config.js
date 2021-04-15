@@ -1,1 +1,1 @@
-var mnemonic = "debate fuel citizen depend blade fiction thumb save stool dance spin olympic";
+var mnemonic = "history parrot gesture annual reject salmon half pencil uniform blur easy kidney";

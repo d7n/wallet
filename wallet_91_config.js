@@ -1,1 +1,1 @@
-var mnemonic = "cotton pipe crack risk artwork vintage fury myth fever paper approve orphan";
+var mnemonic = "spread choice veteran stomach cliff warfare announce logic glare brass upgrade mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "moment object carbon another waste ritual wear away sponsor again wide girl";
+var mnemonic = "split broccoli stay merit best genre spoil trick decade interest famous merge";

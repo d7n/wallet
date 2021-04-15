@@ -1,1 +1,1 @@
-var mnemonic = "home leader state like lamp stem cabbage tribe novel romance need clock";
+var mnemonic = "board enjoy record nasty boost depth uncover inspire picture neither fly name";

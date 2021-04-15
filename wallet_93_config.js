@@ -1,1 +1,1 @@
-var mnemonic = "noise bid fitness pizza globe much minute property side bundle bridge flower";
+var mnemonic = "alert route city chaos lunar music tribe gown shiver main parade route";

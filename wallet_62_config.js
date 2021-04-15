@@ -1,1 +1,1 @@
-var mnemonic = "true elevator riot speak rotate mention fiber cross pink jazz diagram hope";
+var mnemonic = "area winter radar equal express meat network useful observe already spike yard";

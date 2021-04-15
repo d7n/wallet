@@ -1,1 +1,1 @@
-var mnemonic = "give multiply mass drink impose suit holiday goat kid actor tail quote";
+var mnemonic = "oppose nuclear penalty eyebrow random indoor brown eternal ocean opinion behind kiwi";

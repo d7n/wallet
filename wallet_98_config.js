@@ -1,1 +1,1 @@
-var mnemonic = "dumb citizen crack depend solve aunt grid raven drip coconut evolve refuse";
+var mnemonic = "drink absorb fun work income august carry breeze element ship arrange congress";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol beyond fun lesson visit fault plug follow advice reduce fine abandon";
+var mnemonic = "elegant prize lemon taste genuine casino little meat cup crouch where board";

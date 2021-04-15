@@ -1,1 +1,1 @@
-var mnemonic = "aisle sadness urban arrive success menu trip what panda vintage indoor document";
+var mnemonic = "cake absorb awkward all melt clog sponsor shift column extend glory athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter together glance paper render nerve smooth canvas inhale invest nuclear arctic";
+var mnemonic = "bubble ship unlock until decorate library dragon flush label pulp shift circle";

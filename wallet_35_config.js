@@ -1,1 +1,1 @@
-var mnemonic = "prosper equip acid shell sentence village keen favorite supreme tattoo minimum tone";
+var mnemonic = "inherit census spot message seek crumble opera doll want report science eager";

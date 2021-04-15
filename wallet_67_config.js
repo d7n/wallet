@@ -1,1 +1,1 @@
-var mnemonic = "expand rabbit illegal burst can session quick shoulder always ignore cost kidney";
+var mnemonic = "fiscal zone phrase borrow avoid ripple shop female action chicken present still";

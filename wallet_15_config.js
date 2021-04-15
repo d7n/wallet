@@ -1,1 +1,1 @@
-var mnemonic = "manage need blood coach kit churn arrow oil endless whip adapt antique";
+var mnemonic = "runway purpose brown notable stamp parade repeat surge aisle gadget solution lottery";

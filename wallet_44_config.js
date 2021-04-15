@@ -1,1 +1,1 @@
-var mnemonic = "best viable toe off search copper rail sibling mercy recall host skate";
+var mnemonic = "color grant scale thought crazy slim lake soul cradle nature jungle vacant";

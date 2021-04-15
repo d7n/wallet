@@ -1,1 +1,1 @@
-var mnemonic = "rent course dignity unhappy idea upset fiber defense license resemble hold dragon";
+var mnemonic = "treat moon gas embark pupil scrub inhale harbor unfair situate treat blouse";

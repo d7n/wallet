@@ -1,1 +1,1 @@
-var mnemonic = "meadow echo mention nominee truly draw rocket attract shoe insane ice hybrid";
+var mnemonic = "better unhappy suffer annual absent exhaust still leaf surprise clean dust candy";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion betray order second blade reject mother quarter company dress zebra blade";
+var mnemonic = "actual mimic rocket clock cram exercise baby wheel nuclear blind grief stable";

@@ -1,1 +1,1 @@
-var mnemonic = "vote magnet retreat initial link glare renew inhale image glad corn gospel";
+var mnemonic = "canoe learn square scrap average endorse quarter grocery slow grace rich accident";

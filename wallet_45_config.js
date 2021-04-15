@@ -1,1 +1,1 @@
-var mnemonic = "lava green essence shaft army flag marine sick pond place notice winter";
+var mnemonic = "misery dust switch famous risk boost tail chef bullet love whip abandon";

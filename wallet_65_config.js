@@ -1,1 +1,1 @@
-var mnemonic = "still lobster digital act assume move glide original reform uncle little remember";
+var mnemonic = "mean ordinary honey crunch remain extend slim fine recipe shiver network apart";

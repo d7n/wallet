@@ -1,1 +1,1 @@
-var mnemonic = "crack pull private hurry stumble card remain grass gate comic pulse trial";
+var mnemonic = "scan goose focus shield chair stomach bright dinner huge vocal dutch shed";

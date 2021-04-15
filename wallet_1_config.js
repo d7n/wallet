@@ -1,1 +1,1 @@
-var mnemonic = "myth mask defy nurse nothing kiss buyer soda gun canyon alien domain";
+var mnemonic = "spare outer give prefer apple swim right easy nut remind primary unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle horror ring crucial blue donate kiss pattern health door shop tonight";
+var mnemonic = "conduct jealous coyote guitar style cream run venue cable drill fancy cry";

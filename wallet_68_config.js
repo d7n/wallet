@@ -1,1 +1,1 @@
-var mnemonic = "apology banana electric shift job ginger choice cover genuine skate pistol chef";
+var mnemonic = "judge avoid useless just amused nation crowd hill immune stairs buyer destroy";

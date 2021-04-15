@@ -1,1 +1,1 @@
-var mnemonic = "gesture world come time seat flip curious dash depth custom path can";
+var mnemonic = "lock casual need recall true staff grief carpet elite reward journey slim";

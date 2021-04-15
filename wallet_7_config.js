@@ -1,1 +1,1 @@
-var mnemonic = "unveil open share tone grocery local media index melt magnet grunt vintage";
+var mnemonic = "crew apple whip country evoke economy offer rail family drop vivid degree";

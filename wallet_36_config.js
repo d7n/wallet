@@ -1,1 +1,1 @@
-var mnemonic = "floor crane lunch famous cluster basic into turn side remind attract source";
+var mnemonic = "chicken survey scatter runway original hawk error amateur lazy glance direct monster";

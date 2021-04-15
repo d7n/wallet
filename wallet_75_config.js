@@ -1,1 +1,1 @@
-var mnemonic = "cram enjoy sense replace resist rotate slight achieve mean ivory sun doll";
+var mnemonic = "funny about pretty similar setup liberty fringe ill lab outdoor sort road";

@@ -1,1 +1,1 @@
-var mnemonic = "guard disorder kiwi pony stable oppose humble cargo this erosion name man";
+var mnemonic = "diary poet cargo practice resist fly napkin wisdom mesh calm gallery divert";

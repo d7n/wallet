@@ -1,1 +1,1 @@
-var mnemonic = "vital fortune palm grant toilet humble luxury ripple lend produce phone twice";
+var mnemonic = "battle bottom track impulse fortune convince usual axis online crush scrub awesome";

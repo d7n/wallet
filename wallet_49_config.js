@@ -1,1 +1,1 @@
-var mnemonic = "battle myth shy duty doctor appear trend sound taxi stay whisper axis";
+var mnemonic = "choice effort alpha home tooth swing paddle doctor light avocado saddle gossip";

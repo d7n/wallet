@@ -1,1 +1,1 @@
-var mnemonic = "focus laundry digital begin client remove fashion drama drum mother sorry valid";
+var mnemonic = "maple festival feel this library bitter process parrot please hamster tornado fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "idea sick offer carbon hover girl invite budget tell belt artwork own";
+var mnemonic = "battle game leopard decade plunge supply violin orbit mosquito cliff dress mobile";

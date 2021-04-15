@@ -1,1 +1,1 @@
-var mnemonic = "visual tragic crouch barrel major ranch capital move left evoke tank produce";
+var mnemonic = "trust organ young frame actress quit know sibling expire suggest aim fly";

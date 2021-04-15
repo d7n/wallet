@@ -1,1 +1,1 @@
-var mnemonic = "middle gentle try found idle saddle hair pottery disease wreck thunder elephant";
+var mnemonic = "blue pitch top spray fantasy cheap shoulder miss book season wrist medal";

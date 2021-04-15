@@ -1,1 +1,1 @@
-var mnemonic = "follow regret school caught logic transfer mixed heart coral young luxury cheap";
+var mnemonic = "charge gaze test series assume start certain library truck unique gym acquire";

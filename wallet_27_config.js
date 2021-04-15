@@ -1,1 +1,1 @@
-var mnemonic = "melody bullet security expose afford album piece lottery neck shy hard pottery";
+var mnemonic = "boat floor bounce intact artist stairs loop element naive meat present village";

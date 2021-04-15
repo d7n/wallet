@@ -1,1 +1,1 @@
-var mnemonic = "lawn quantum lab elder leaf energy baby total able good lounge wrist";
+var mnemonic = "twenty zoo rate elbow exchange wash bring salad benefit busy correct typical";

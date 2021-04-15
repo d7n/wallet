@@ -1,1 +1,1 @@
-var mnemonic = "judge canal potato scissors rug remind equip kingdom when figure matrix bless";
+var mnemonic = "million hockey castle wealth spray address south solid copy agree excuse what";

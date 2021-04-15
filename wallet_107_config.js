@@ -1,1 +1,1 @@
-var mnemonic = "impact pencil crucial unique modify address fee dragon bronze head derive issue";
+var mnemonic = "sketch almost castle truth slush twice mercy labor excuse shiver wrong empower";

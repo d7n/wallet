@@ -1,1 +1,1 @@
-var mnemonic = "apple measure rigid cage cable demise express find patient side bundle scheme";
+var mnemonic = "shy economy then silk slogan grow truly junior solid usual always leg";

@@ -1,1 +1,1 @@
-var mnemonic = "search fit purse birth punch pass parent answer bulk essay term refuse";
+var mnemonic = "candy turtle radar bundle curious devote repeat tower element crew result broken";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff grit guilt repeat position drastic dolphin turtle luxury figure cereal alert";
+var mnemonic = "apology mule globe gossip sight memory pudding silent salon soccer unaware scale";

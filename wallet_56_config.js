@@ -1,1 +1,1 @@
-var mnemonic = "cube soda suit install strong hover hazard crater start gauge keen source";
+var mnemonic = "shield fame sausage attend pond sniff aim mountain coil wasp forum useless";

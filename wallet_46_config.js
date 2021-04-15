@@ -1,1 +1,1 @@
-var mnemonic = "roast split veteran tag winner laundry draft try circle tennis engage insect";
+var mnemonic = "believe sponsor library young above size filter extra basket tumble price unfold";

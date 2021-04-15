@@ -1,1 +1,1 @@
-var mnemonic = "seminar clip fashion just rough fog addict wire arch impact animal bean";
+var mnemonic = "edit bridge airport swarm outer give negative grape absorb crime nurse bean";

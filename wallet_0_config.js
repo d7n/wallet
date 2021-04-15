@@ -1,1 +1,1 @@
-var mnemonic = "work turtle problem wash stomach wave ugly company much battle carpet venue";
+var mnemonic = "patient team dry rough few scan main middle dizzy sample spy hybrid";

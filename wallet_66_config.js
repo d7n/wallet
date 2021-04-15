@@ -1,1 +1,1 @@
-var mnemonic = "spirit eager settle stay fat august quote label knee visa caught exchange";
+var mnemonic = "own work owner pole master idle tuition emerge victory over hotel carpet";

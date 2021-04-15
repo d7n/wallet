@@ -1,1 +1,1 @@
-var mnemonic = "deposit home nurse entry faint frog double come wheat kangaroo letter trust";
+var mnemonic = "draft six soccer merry goat unveil carry nuclear heavy artefact unit raven";

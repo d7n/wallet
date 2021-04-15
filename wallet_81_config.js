@@ -1,1 +1,1 @@
-var mnemonic = "silk venue hole finger thought material anchor indicate defy hole aware airport";
+var mnemonic = "bunker follow bar ketchup inspire ice timber useful sentence own envelope frown";

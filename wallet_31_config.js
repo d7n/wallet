@@ -1,1 +1,1 @@
-var mnemonic = "adjust diary rely govern noble clog harvest cradle sense magnet wage portion";
+var mnemonic = "balance seminar sort minute immense lemon sketch frog collect chapter goat develop";

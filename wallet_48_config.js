@@ -1,1 +1,1 @@
-var mnemonic = "empower below version shop monster scrap garment verb digital casual piece gadget";
+var mnemonic = "differ old news prison harbor organ column victory together physical dinner plug";

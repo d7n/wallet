@@ -1,1 +1,1 @@
-var mnemonic = "velvet city luxury file side gossip road amateur during impact dynamic reform";
+var mnemonic = "accident other physical crowd three piece ride online roof ginger snap wild";

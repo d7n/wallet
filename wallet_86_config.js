@@ -1,1 +1,1 @@
-var mnemonic = "close suffer mix they toilet muscle strike drift swamp adult problem grass";
+var mnemonic = "inhale very royal purity tree prosper thumb album you jump health turkey";
