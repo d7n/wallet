@@ -1,1 +1,1 @@
-var mnemonic = "myth target game kind private pass develop parrot ring trade leaf onion";
+var mnemonic = "city spike phrase pyramid pig gauge fence fatal field hope adapt elevator";

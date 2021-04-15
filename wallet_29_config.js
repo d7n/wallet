@@ -1,1 +1,1 @@
-var mnemonic = "earn need vacant agent barrel despair throw cupboard health comfort core prison";
+var mnemonic = "oblige quit tent damp bulk gown retire surface extra order wild upon";

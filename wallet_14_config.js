@@ -1,1 +1,1 @@
-var mnemonic = "render seven material paper guess weapon fantasy day snap jazz crowd ramp";
+var mnemonic = "amused toward spatial settle devote inherit ghost head bid replace resource smooth";

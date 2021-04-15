@@ -1,1 +1,1 @@
-var mnemonic = "pear earn damage cause leaf betray veteran chapter slot age dry real";
+var mnemonic = "project final bleak avoid devote athlete fine hill grit quiz result shaft";

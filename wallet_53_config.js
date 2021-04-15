@@ -1,1 +1,1 @@
-var mnemonic = "bomb mixture hospital wall shield vague tail clerk vital salad daring capital";
+var mnemonic = "bargain slim bottom outer envelope owner scatter amount divide level illegal baby";

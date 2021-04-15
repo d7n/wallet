@@ -1,1 +1,1 @@
-var mnemonic = "express judge mobile slush mechanic unit extend patch garment bundle drink initial";
+var mnemonic = "glove stem letter fan way december pink surprise federal promote glance discover";

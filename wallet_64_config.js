@@ -1,1 +1,1 @@
-var mnemonic = "predict old position action bread era labor inmate swear actor diamond food";
+var mnemonic = "topic banana spatial chef very tumble relax tip sea dish toward reward";

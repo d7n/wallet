@@ -1,1 +1,1 @@
-var mnemonic = "route reform river distance bomb lunar remember truth luggage neutral critic shield";
+var mnemonic = "toast midnight until logic cake budget shock output model tired neck ripple";

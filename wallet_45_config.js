@@ -1,1 +1,1 @@
-var mnemonic = "type smoke seed high style deny used piano lens rib hundred mule";
+var mnemonic = "doll exist vast apology warrior core often curve rescue moment collect genre";

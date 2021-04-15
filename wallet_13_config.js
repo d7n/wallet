@@ -1,1 +1,1 @@
-var mnemonic = "fee skin retreat olympic thought boat glue physical air rifle sustain reason";
+var mnemonic = "pudding trick budget ensure cycle dress rookie idle claw cinnamon anxiety notice";

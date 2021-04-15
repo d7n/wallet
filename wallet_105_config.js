@@ -1,1 +1,1 @@
-var mnemonic = "truck stove pitch ceiling bargain hub save tattoo nose empower cause able";
+var mnemonic = "three drastic current negative unfold swing lecture faculty elite bring hood salon";

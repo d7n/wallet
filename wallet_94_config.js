@@ -1,1 +1,1 @@
-var mnemonic = "umbrella carbon panther river person island humble phrase viable slide upon review";
+var mnemonic = "garbage wide evoke veteran pet device ozone federal cradle length fury speed";

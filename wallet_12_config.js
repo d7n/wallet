@@ -1,1 +1,1 @@
-var mnemonic = "cereal disagree tag extra reason concert girl radio enhance pelican method pulse";
+var mnemonic = "unfold more must screen hood three race prison super uncover chair cheap";

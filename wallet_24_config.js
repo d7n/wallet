@@ -1,1 +1,1 @@
-var mnemonic = "volume build shrimp advance boss social duty album clutch rally true excuse";
+var mnemonic = "pig vague brand club fly soccer raw vapor rifle search plug bean";

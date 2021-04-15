@@ -1,1 +1,1 @@
-var mnemonic = "soup salad rabbit across clown trigger obey silver under wrestle option doctor";
+var mnemonic = "inject story happy crush coast trumpet surround cereal cabbage rail pattern curious";

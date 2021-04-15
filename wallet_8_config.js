@@ -1,1 +1,1 @@
-var mnemonic = "stool sign level jungle lizard slide fury twelve silk gospel tired mammal";
+var mnemonic = "husband acquire chimney agent cherry glory manual nasty gasp scene donate clean";

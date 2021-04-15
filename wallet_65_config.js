@@ -1,1 +1,1 @@
-var mnemonic = "million estate immense cotton drum industry gadget seminar ripple example accident monkey";
+var mnemonic = "prevent female famous stove can turtle typical tired provide slot divide tent";

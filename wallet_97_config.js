@@ -1,1 +1,1 @@
-var mnemonic = "sibling six circle mobile gentle grass end bless thunder bag royal tool";
+var mnemonic = "ill bright vital cause drum glue digital deal save quit eight fatal";

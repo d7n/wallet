@@ -1,1 +1,1 @@
-var mnemonic = "peace raccoon solid tribe trash carpet pelican enroll planet bind pottery smart";
+var mnemonic = "between game primary dial output supreme boy celery sphere sweet radar elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "arm nose guitar source absurd pretty grace jazz decline stumble acoustic horse";
+var mnemonic = "bone bid zoo end grunt attitude coast ride stairs name pond setup";

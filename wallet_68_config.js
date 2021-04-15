@@ -1,1 +1,1 @@
-var mnemonic = "black empower wall spray invest cram inject bean abuse measure grid curve";
+var mnemonic = "supreme swing suspect capable figure wife north nurse unfold horror latin sheriff";

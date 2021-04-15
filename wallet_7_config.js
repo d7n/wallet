@@ -1,1 +1,1 @@
-var mnemonic = "isolate parade chase foil scout cradle wall hybrid peanut arrange episode flame";
+var mnemonic = "wealth energy lonely yellow reject awkward top tobacco orphan zoo rent under";

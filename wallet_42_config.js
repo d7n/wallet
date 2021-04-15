@@ -1,1 +1,1 @@
-var mnemonic = "match series pyramid angle involve helmet else select dish sand dwarf father";
+var mnemonic = "sense present property bag bridge invest file curtain exile limit shop garden";

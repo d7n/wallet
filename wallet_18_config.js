@@ -1,1 +1,1 @@
-var mnemonic = "access market skill supply tag fragile pony above curious vast pet cube";
+var mnemonic = "unlock wait equip tragic system smooth basket demise electric this travel airport";

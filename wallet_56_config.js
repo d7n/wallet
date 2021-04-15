@@ -1,1 +1,1 @@
-var mnemonic = "decorate proof bacon december pilot hard lend surface rubber fragile rail pact";
+var mnemonic = "inside prepare rural kangaroo choice mechanic library disorder behind course roast ride";

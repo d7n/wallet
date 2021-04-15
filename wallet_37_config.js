@@ -1,1 +1,1 @@
-var mnemonic = "save cry number decrease humor donor coast ginger traffic pigeon pair already";
+var mnemonic = "deal need shift battle tilt brick mobile combine another finger erupt resemble";

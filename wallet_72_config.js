@@ -1,1 +1,1 @@
-var mnemonic = "blood license color buyer used nation bubble must peace pear obtain strong";
+var mnemonic = "good stereo witness essay erase honey dash vital cricket donate idle trap";

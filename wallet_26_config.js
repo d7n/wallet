@@ -1,1 +1,1 @@
-var mnemonic = "planet network multiply blame grief cage latin current prevent arch chase accuse";
+var mnemonic = "liquid hire warrior wear way trash mail face clarify mesh fat fold";

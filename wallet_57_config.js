@@ -1,1 +1,1 @@
-var mnemonic = "current floor slam start faith hill august office motion blush match farm";
+var mnemonic = "noise athlete defense tragic disease choice plug oppose orbit vault find bacon";

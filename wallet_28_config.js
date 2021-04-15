@@ -1,1 +1,1 @@
-var mnemonic = "tired sleep lesson goose neglect green future drip innocent parade trap very";
+var mnemonic = "spider rocket current legend inner unhappy process other meadow garden twice false";

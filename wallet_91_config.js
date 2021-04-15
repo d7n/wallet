@@ -1,1 +1,1 @@
-var mnemonic = "margin fish short fault episode garment hair crazy federal flame despair history";
+var mnemonic = "upper burger wolf mask wink long enact together beyond ready brass capital";

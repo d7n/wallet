@@ -1,1 +1,1 @@
-var mnemonic = "dance icon catalog rabbit liberty notice mimic expire glue drill obscure garlic";
+var mnemonic = "what defy skin ignore able april trial nothing knock notable fat destroy";

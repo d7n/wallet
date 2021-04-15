@@ -1,1 +1,1 @@
-var mnemonic = "conduct caution waste print still group grunt attend come cousin elder electric";
+var mnemonic = "false advice salad crazy scrap thrive clinic couple desert seminar crater cable";

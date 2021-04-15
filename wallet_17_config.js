@@ -1,1 +1,1 @@
-var mnemonic = "extra steel summer awful pull future lend melody mechanic engage opinion cereal";
+var mnemonic = "outer require among pill music maze anchor sustain congress museum wealth bulb";

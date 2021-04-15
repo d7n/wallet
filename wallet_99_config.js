@@ -1,1 +1,1 @@
-var mnemonic = "tuna market indicate nuclear biology labor crash path key execute ozone little";
+var mnemonic = "surface usage gorilla banner shoulder impact section quality fury identify voice breeze";

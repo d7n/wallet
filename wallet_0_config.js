@@ -1,1 +1,1 @@
-var mnemonic = "infant marble scheme session help original crunch rival tribe tumble joke will";
+var mnemonic = "trial mixed very obvious bicycle year bring major trigger doll lend weather";

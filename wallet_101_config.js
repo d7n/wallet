@@ -1,1 +1,1 @@
-var mnemonic = "decide thing burger image height host culture chase input dynamic neck close";
+var mnemonic = "sock ladder fee error clutch hip crucial spider bunker grocery brisk inmate";

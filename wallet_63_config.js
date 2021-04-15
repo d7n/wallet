@@ -1,1 +1,1 @@
-var mnemonic = "sock donate chalk dismiss alert despair victory stove draw lumber seek wreck";
+var mnemonic = "crazy whale protect answer roof suffer tuna way lazy script away strike";

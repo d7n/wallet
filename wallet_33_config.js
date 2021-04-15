@@ -1,1 +1,1 @@
-var mnemonic = "network pioneer kidney output enlist toilet public base luggage replace smooth distance";
+var mnemonic = "have blush dust little actor subject claim convince denial tribe uphold nation";

@@ -1,1 +1,1 @@
-var mnemonic = "title carbon patrol dance sunset blame ghost clock holiday fuel zero sweet";
+var mnemonic = "gap session prize hero orient artefact flock tooth oxygen merge above early";

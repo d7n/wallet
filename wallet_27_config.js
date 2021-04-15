@@ -1,1 +1,1 @@
-var mnemonic = "critic raise case rude suspect insane diamond luxury almost salon couch neglect";
+var mnemonic = "evidence basic kite badge power load thrive slot embody chimney wood agree";

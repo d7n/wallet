@@ -1,1 +1,1 @@
-var mnemonic = "digital ivory valid ketchup strike stool verb crowd math cloud tackle buyer";
+var mnemonic = "code tooth teach rug color height future usage cake awkward lion orange";

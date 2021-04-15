@@ -1,1 +1,1 @@
-var mnemonic = "mention disease invite gap kiss rice fatigue shock young under rally all";
+var mnemonic = "alarm wall wheel fortune hundred absent month fan wool armed fly cake";

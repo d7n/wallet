@@ -1,1 +1,1 @@
-var mnemonic = "wide salon argue any season margin permit photo anchor retreat planet butter";
+var mnemonic = "ability nothing hill first cactus essay foil grape trust crush olive sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "blush razor announce drip firm planet float alarm say orient slogan spin";
+var mnemonic = "multiply shallow install embrace black crunch vicious sniff tissue diamond hard tomato";

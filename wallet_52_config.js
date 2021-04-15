@@ -1,1 +1,1 @@
-var mnemonic = "response jacket whale couch trouble demise thunder wisdom season system pulse pond";
+var mnemonic = "evidence lock hamster habit tourist solid erosion inherit scrap ceiling middle fruit";

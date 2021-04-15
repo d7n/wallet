@@ -1,1 +1,1 @@
-var mnemonic = "subway owner odor dish hope donate total ball detail outside bus cotton";
+var mnemonic = "account letter original brush trend impulse camp amused moment beef frequent among";

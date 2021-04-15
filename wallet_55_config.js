@@ -1,1 +1,1 @@
-var mnemonic = "scatter parent rebel fine swift income tool usage custom draw silver tornado";
+var mnemonic = "vicious solar kiss physical arch bench crack mesh around oven drive lock";

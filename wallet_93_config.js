@@ -1,1 +1,1 @@
-var mnemonic = "tape rival grape sunset vague month fit silent jaguar loyal faith clinic";
+var mnemonic = "crouch ostrich add soap cabin brand canal upper galaxy tortoise suspect army";

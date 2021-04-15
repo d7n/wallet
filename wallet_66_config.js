@@ -1,1 +1,1 @@
-var mnemonic = "elder sea trophy grocery shoot october tunnel potato various sniff march want";
+var mnemonic = "proof despair brush uncover merge deal wall critic insect energy icon quality";

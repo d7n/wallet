@@ -1,1 +1,1 @@
-var mnemonic = "grit family estate grunt pill eight message excuse accuse brief pole soon";
+var mnemonic = "region onion pelican crew code execute title oxygen pink expose swallow employ";

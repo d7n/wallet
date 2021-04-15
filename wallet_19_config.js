@@ -1,1 +1,1 @@
-var mnemonic = "winner foam spike entire pass peanut skill dwarf neither evidence ability script";
+var mnemonic = "wing arrive pumpkin wrist pencil lumber nominee wagon enough seminar page mention";

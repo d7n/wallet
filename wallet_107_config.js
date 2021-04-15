@@ -1,1 +1,1 @@
-var mnemonic = "army obscure glimpse hill pear deposit walnut gauge boost clever quantum punch";
+var mnemonic = "feel poem sponsor health sleep ethics race grunt hundred medal finger utility";

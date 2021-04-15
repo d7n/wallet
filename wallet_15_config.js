@@ -1,1 +1,1 @@
-var mnemonic = "sketch cactus bone giraffe promote crack spread work spike involve nuclear rib";
+var mnemonic = "interest travel coil march shallow october easily alley discover movie budget lunar";

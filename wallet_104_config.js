@@ -1,1 +1,1 @@
-var mnemonic = "jar interest visa gorilla runway habit fold theory dismiss between left reform";
+var mnemonic = "document enter monkey ethics glad popular bean bounce drama buffalo pony ability";

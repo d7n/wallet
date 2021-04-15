@@ -1,1 +1,1 @@
-var mnemonic = "gasp option employ calm right mixture husband around warfare abstract boy evidence";
+var mnemonic = "physical useless response salad shiver autumn marriage frame hedgehog undo clinic celery";

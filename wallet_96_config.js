@@ -1,1 +1,1 @@
-var mnemonic = "wheat glass remember climb cover thumb mutual novel horn spirit soda bulb";
+var mnemonic = "grunt enrich account valley tag shrug enroll fabric art foot obscure write";

@@ -1,1 +1,1 @@
-var mnemonic = "high symptom chunk exotic rent desert stomach lawn calm donkey cinnamon kiwi";
+var mnemonic = "tuition ski inquiry merit zero myself reunion balance approve trend achieve dice";

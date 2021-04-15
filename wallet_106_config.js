@@ -1,1 +1,1 @@
-var mnemonic = "fever festival kangaroo verify found account jaguar humble daughter project pave exit";
+var mnemonic = "screen lecture notice front van sure market under purse feel calm drastic";

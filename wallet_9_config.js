@@ -1,1 +1,1 @@
-var mnemonic = "raw wire stand child soul scan volume near split drum picture recipe";
+var mnemonic = "enter rotate shaft desk fossil drop glass already first peanut tired style";

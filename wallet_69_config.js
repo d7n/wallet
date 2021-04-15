@@ -1,1 +1,1 @@
-var mnemonic = "surround finger sweet ladder tilt net grant ostrich middle art vendor firm";
+var mnemonic = "sight antenna fence tornado steel vapor bus orange any curtain host gold";

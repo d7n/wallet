@@ -1,1 +1,1 @@
-var mnemonic = "giggle turtle warrior sphere phrase sausage army embrace under select shaft game";
+var mnemonic = "follow shock enemy ivory enrich insect chimney click front coast lend topic";

@@ -1,1 +1,1 @@
-var mnemonic = "spray love industry edit law maple require limb collect dog nice subject";
+var mnemonic = "consider fee hill nut drama dune adapt chief digital acquire try equip";

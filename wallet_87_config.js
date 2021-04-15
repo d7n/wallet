@@ -1,1 +1,1 @@
-var mnemonic = "desk boss mom genius heart seat ghost goose asthma sweet blast salute";
+var mnemonic = "address slot grace retreat reunion reopen fire kiss south orphan cheap random";

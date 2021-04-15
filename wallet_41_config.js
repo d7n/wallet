@@ -1,1 +1,1 @@
-var mnemonic = "income prepare like magnet sunset scan survey entry hobby anchor frog behind";
+var mnemonic = "toss force escape protect column enter night window still spy fresh method";

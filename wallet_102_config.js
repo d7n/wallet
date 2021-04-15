@@ -1,1 +1,1 @@
-var mnemonic = "betray enable only online budget gallery tunnel mandate glory space asthma chicken";
+var mnemonic = "jazz device crane awful term assault upper dolphin pattern panel happy garlic";

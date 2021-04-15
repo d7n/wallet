@@ -1,1 +1,1 @@
-var mnemonic = "phrase genius snack scheme couch olive vital bubble day need fix fence";
+var mnemonic = "door gas brief news ridge choice spring brick garlic lion weapon bargain";

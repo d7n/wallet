@@ -1,1 +1,1 @@
-var mnemonic = "second program hint nothing pledge task model tree joke update banner wreck";
+var mnemonic = "saddle voyage gorilla elegant prosper urban tide clever liberty bike obey surprise";

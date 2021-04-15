@@ -1,1 +1,1 @@
-var mnemonic = "engage taxi mechanic bike pulp fiber jeans horn flower rookie tool canyon";
+var mnemonic = "width appear bring gravity grab suspect like emerge blast lizard churn oblige";

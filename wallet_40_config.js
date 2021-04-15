@@ -1,1 +1,1 @@
-var mnemonic = "round churn visa sadness reflect detail space price foster amazing evil casual";
+var mnemonic = "urge denial flip dice deer private size body gate orient hazard giant";

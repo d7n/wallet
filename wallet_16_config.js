@@ -1,1 +1,1 @@
-var mnemonic = "sad before myth tornado dial crawl ski father mass caution ball hint";
+var mnemonic = "bench bleak glow lava blouse bag secret window expire betray leave valid";

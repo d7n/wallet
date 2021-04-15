@@ -1,1 +1,1 @@
-var mnemonic = "exact thank piano all under measure food move ostrich session ginger riot";
+var mnemonic = "syrup nasty paddle crouch prepare bird mix volume payment decrease mask history";

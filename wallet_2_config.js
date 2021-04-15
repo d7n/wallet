@@ -1,1 +1,1 @@
-var mnemonic = "name liar know already caught good unveil today clutch net ramp pyramid";
+var mnemonic = "drum person menu dinner scorpion wear sweet charge topple notable drill gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "horror old holiday wool gorilla one inside few deny illegal mammal educate";
+var mnemonic = "helmet devote hand fortune unaware bid shrug eye hungry mom rain erupt";

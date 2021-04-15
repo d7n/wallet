@@ -1,1 +1,1 @@
-var mnemonic = "hotel raccoon hold language jaguar clever mechanic orbit drop giggle hen firm";
+var mnemonic = "doll doctor crowd inside spend liar comic tree scheme dance float income";

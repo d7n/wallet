@@ -1,1 +1,1 @@
-var mnemonic = "rice luxury winter fluid return horse end use alone because address pass";
+var mnemonic = "wire minor master crash panel fat provide boat gas legal you airport";

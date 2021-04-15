@@ -1,1 +1,1 @@
-var mnemonic = "finger already brass inquiry sing empty gather math thing ginger picture response";
+var mnemonic = "fox pledge guilt miss code dice alien bullet maid unique midnight neutral";

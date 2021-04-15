@@ -1,1 +1,1 @@
-var mnemonic = "comfort wonder slide pool spell flash mutual public olympic present stand insane";
+var mnemonic = "fame clarify want bag very rocket trend stadium sorry pair suit aunt";

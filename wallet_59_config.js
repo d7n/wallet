@@ -1,1 +1,1 @@
-var mnemonic = "spike tortoise pottery moon risk priority kidney deputy keen logic dose thumb";
+var mnemonic = "grab interest before neither network discover economy again concert disease habit shoe";

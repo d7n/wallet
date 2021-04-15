@@ -1,1 +1,1 @@
-var mnemonic = "shadow cradle time stem repeat still neglect valley utility issue destroy divide";
+var mnemonic = "dress identify trip spike move inflict jazz lawn draw december brief skill";

@@ -1,1 +1,1 @@
-var mnemonic = "feel claim heavy divorce soldier response vendor bring balance recipe shop model";
+var mnemonic = "pencil input bench truth note brown sketch attract secret wink width detect";

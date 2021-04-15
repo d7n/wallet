@@ -1,1 +1,1 @@
-var mnemonic = "much odor wise note clarify afraid session topic wide bright response shell";
+var mnemonic = "fiscal glimpse derive oil dune render wool oak match shy metal differ";

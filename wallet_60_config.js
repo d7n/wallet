@@ -1,1 +1,1 @@
-var mnemonic = "type normal holiday genius cabin mandate column require wash owner wash race";
+var mnemonic = "drama hole doll day blind because air special aerobic few large friend";

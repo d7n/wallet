@@ -1,1 +1,1 @@
-var mnemonic = "uncle once little steak forest elder shrimp custom daring daring topic evoke";
+var mnemonic = "shell spoon mesh vibrant manual awesome glow harvest jealous fault speak mom";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon hollow wild mobile hawk long return speak slush error fiction pact";
+var mnemonic = "ticket melody gold joy shrimp diagram accident diary galaxy catch dog host";

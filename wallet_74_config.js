@@ -1,1 +1,1 @@
-var mnemonic = "bounce any pilot machine imitate remember aim decorate mercy quiz enable provide";
+var mnemonic = "april type salon case useless matter people injury draw appear result remember";

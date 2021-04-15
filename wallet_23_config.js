@@ -1,1 +1,1 @@
-var mnemonic = "planet reason thought strong culture boring civil chunk embark there chair kid";
+var mnemonic = "entry anger olive blind van attend during depend taxi struggle target attract";

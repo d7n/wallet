@@ -1,1 +1,1 @@
-var mnemonic = "expand point embody girl pool fold pull gun great surface blush innocent";
+var mnemonic = "few zoo february forget grant adjust trade rally divide science demise tragic";
