@@ -1,1 +1,1 @@
-var mnemonic = "helmet dance dress blame crack unhappy index fortune skull jewel ahead security";
+var mnemonic = "noise echo school lecture tunnel soul tennis shrimp regular busy leg proud";

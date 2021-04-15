@@ -1,1 +1,1 @@
-var mnemonic = "bottom bargain hover anchor stand focus oil attack yard indicate scheme camp";
+var mnemonic = "orchard grant negative depart debris situate recipe jungle flush hedgehog wide cash";

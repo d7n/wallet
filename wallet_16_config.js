@@ -1,1 +1,1 @@
-var mnemonic = "sentence tongue spy endorse animal maximum sad wrong broccoli gain west snap";
+var mnemonic = "apple slender soul pepper misery castle rug satoshi hill tiny reveal cream";

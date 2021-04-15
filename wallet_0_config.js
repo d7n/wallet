@@ -1,1 +1,1 @@
-var mnemonic = "wink basket ozone basket like kangaroo icon relief firm snack spice century";
+var mnemonic = "above bike utility fatal myself same laundry december memory rely runway half";

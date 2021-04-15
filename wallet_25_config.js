@@ -1,1 +1,1 @@
-var mnemonic = "enough idea prize laugh unhappy vintage cloud bar husband accident hurry half";
+var mnemonic = "burden couple alert civil time smoke plastic code theme kidney doll flip";

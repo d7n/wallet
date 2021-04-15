@@ -1,1 +1,1 @@
-var mnemonic = "fade episode identify cram bring sphere expand safe ball crumble bamboo program";
+var mnemonic = "unable question wise tooth industry apple play open plunge detail lizard deer";

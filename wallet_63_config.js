@@ -1,1 +1,1 @@
-var mnemonic = "decide lobster wide cheese clinic scrap dune cattle wise drama assault recipe";
+var mnemonic = "vivid busy share embark camp gain very nerve coral fury opinion arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "screen elevator thumb fresh weekend pink crash flavor essay style purse fee";
+var mnemonic = "rebuild holiday raven input grow master skate zoo truth also engage phrase";

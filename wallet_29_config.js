@@ -1,1 +1,1 @@
-var mnemonic = "lion fiber already wall risk salt stool twist collect list label electric";
+var mnemonic = "slot infant beach burger provide morning busy call morning aware salt animal";

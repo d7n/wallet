@@ -1,1 +1,1 @@
-var mnemonic = "team patient delay grace feed sail axis gasp admit betray cement fit";
+var mnemonic = "garment soda business wall flower aisle office suffer segment purity pelican subject";

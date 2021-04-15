@@ -1,1 +1,1 @@
-var mnemonic = "pioneer crystal dolphin dignity relief solar title shrimp entry mass acoustic rescue";
+var mnemonic = "midnight identify safe extra exotic boat pumpkin fit position desk spread giraffe";

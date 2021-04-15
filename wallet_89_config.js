@@ -1,1 +1,1 @@
-var mnemonic = "fish erosion order stick mutual fun pattern lounge sister pet below fiscal";
+var mnemonic = "find comic job length pottery cause minor deliver snake cat brand thing";

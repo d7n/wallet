@@ -1,1 +1,1 @@
-var mnemonic = "cannon pet praise sudden audit six social shoe adapt desert sample also";
+var mnemonic = "silly census video cereal frame copy airport offer tunnel jaguar maple gallery";

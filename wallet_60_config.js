@@ -1,1 +1,1 @@
-var mnemonic = "expect enforce spread arena garden climb left cruel icon ketchup wheel razor";
+var mnemonic = "client when taxi absent either region lock day congress creek wrong theory";

@@ -1,1 +1,1 @@
-var mnemonic = "circle ozone just success candy program mouse census culture tent civil grow";
+var mnemonic = "gadget forget edge float rich liberty useless forward phone sadness urban draw";

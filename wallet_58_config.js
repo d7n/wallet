@@ -1,1 +1,1 @@
-var mnemonic = "unknown rule demise car hover monkey extra express swap inflict floor say";
+var mnemonic = "alone piano december end check execute baby share child trick fuel thunder";

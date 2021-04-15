@@ -1,1 +1,1 @@
-var mnemonic = "arctic arm face stay lift recipe grain quiz floor useless pole claw";
+var mnemonic = "toddler congress slush hour episode resemble pipe echo sad stairs corn unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "shine dog afford easy move area lamp kick protect entry trap evolve";
+var mnemonic = "present nothing bike patch search purpose very heart negative afford again weasel";

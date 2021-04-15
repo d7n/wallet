@@ -1,1 +1,1 @@
-var mnemonic = "birth champion wish else predict shock please salmon crane video tooth owner";
+var mnemonic = "volume business bring rhythm hen sentence pepper exist dust job main bubble";

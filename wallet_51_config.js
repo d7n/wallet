@@ -1,1 +1,1 @@
-var mnemonic = "select rate consider split jealous gossip tree march bench disagree return clarify";
+var mnemonic = "nut merit material crystal bundle engage embrace feel else paddle year safe";

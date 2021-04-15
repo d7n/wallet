@@ -1,1 +1,1 @@
-var mnemonic = "enact nice street click often grunt ten nice adapt dirt tobacco garage";
+var mnemonic = "dress decade pottery twenty onion sustain ball sing industry borrow barrel drink";

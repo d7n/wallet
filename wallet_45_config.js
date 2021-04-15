@@ -1,1 +1,1 @@
-var mnemonic = "series kitchen double such hobby novel cry embark library empty destroy auction";
+var mnemonic = "bronze shadow cigar palace vanish connect sock pigeon logic sail transfer idea";

@@ -1,1 +1,1 @@
-var mnemonic = "february journey job swarm crucial jungle famous book man program kid spell";
+var mnemonic = "steel bag desert sword future curtain unhappy whale cradle rule intact suspect";

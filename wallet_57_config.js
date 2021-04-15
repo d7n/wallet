@@ -1,1 +1,1 @@
-var mnemonic = "dragon senior link question agree perfect destroy receive useless salute ankle sleep";
+var mnemonic = "coyote rigid clump parade tomato claim this slice leisure vendor valid random";

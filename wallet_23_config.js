@@ -1,1 +1,1 @@
-var mnemonic = "satisfy step oppose just shoot second decade winter security smoke keep such";
+var mnemonic = "viable elite scrub donate next august elevator census guitar coyote remember prepare";

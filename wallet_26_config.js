@@ -1,1 +1,1 @@
-var mnemonic = "crawl arrow swift diet uniform dizzy clever error airport relief sniff tragic";
+var mnemonic = "fold van real dice unusual wrist copper human pulp wise festival enrich";

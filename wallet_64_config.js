@@ -1,1 +1,1 @@
-var mnemonic = "miss degree advance noise vital feel coil smooth ladder sausage neutral thing";
+var mnemonic = "coffee chat edge copy dream pigeon eyebrow duty crystal filter fiction rare";

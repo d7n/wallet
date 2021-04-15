@@ -1,1 +1,1 @@
-var mnemonic = "festival collect tide possible vocal traffic tool pumpkin place march palace confirm";
+var mnemonic = "domain father brain kingdom pottery churn hour gasp cannon collect acoustic gift";

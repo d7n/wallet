@@ -1,1 +1,1 @@
-var mnemonic = "payment ripple online foot stereo stand snow dumb subway resist must blouse";
+var mnemonic = "duty employ unaware nut ceiling grain blade local effort eye engage stereo";

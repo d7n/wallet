@@ -1,1 +1,1 @@
-var mnemonic = "future fiction wonder payment bunker reduce resource capable patrol boil skull scene";
+var mnemonic = "hundred observe core click obtain extend super wrap husband cave cage assault";

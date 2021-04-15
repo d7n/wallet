@@ -1,1 +1,1 @@
-var mnemonic = "civil diesel ecology quiz around life hand mixture balcony antique split risk";
+var mnemonic = "violin ribbon almost boat stairs love tool divert pyramid expand travel velvet";

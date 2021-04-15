@@ -1,1 +1,1 @@
-var mnemonic = "animal later monster stadium float antique solid embrace learn bench bacon tragic";
+var mnemonic = "fragile verify tourist cart session olympic casual nothing detect weasel just upset";

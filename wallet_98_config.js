@@ -1,1 +1,1 @@
-var mnemonic = "seat crowd arctic early hat local vacuum spend veteran polar top family";
+var mnemonic = "fish wrong govern meadow garbage soul mix plunge clog gold pipe pride";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree disagree also way network apology depth corn drum reject recycle miracle";
+var mnemonic = "unable inflict weapon copy snake exhaust again apple flavor despair abuse two";

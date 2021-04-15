@@ -1,1 +1,1 @@
-var mnemonic = "snow pitch hub dilemma drift ribbon skirt tower state awkward toss trouble";
+var mnemonic = "trash slot auction taxi biology shallow dust prefer member boil clock simple";

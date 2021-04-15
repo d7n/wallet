@@ -1,1 +1,1 @@
-var mnemonic = "hybrid crash crater army share coffee bonus uniform sponsor early pass large";
+var mnemonic = "faint practice leisure taxi cotton glimpse curve shove seek amazing citizen start";

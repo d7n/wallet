@@ -1,1 +1,1 @@
-var mnemonic = "census lawn rural ability obey ghost castle subject someone sorry safe bamboo";
+var mnemonic = "hobby when limb danger fix clean earth rain rude daughter trip pencil";

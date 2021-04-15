@@ -1,1 +1,1 @@
-var mnemonic = "bullet borrow cave section asthma perfect yard crush close motor account nature";
+var mnemonic = "float slice alert muscle kitten place capable mouse vocal milk public romance";

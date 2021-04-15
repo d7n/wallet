@@ -1,1 +1,1 @@
-var mnemonic = "style company flower marine reduce divert actual gown scrap notable ball whisper";
+var mnemonic = "slice tortoise fabric mouse dilemma humor dream card soup garden action report";

@@ -1,1 +1,1 @@
-var mnemonic = "grit rich multiply improve diet they chef caught voyage young creek nuclear";
+var mnemonic = "aunt piece fuel wrap clay universe tone guitar movie night volume clerk";

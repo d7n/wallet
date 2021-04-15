@@ -1,1 +1,1 @@
-var mnemonic = "hello claw whisper spawn unique settle pen neck when learn rifle crane";
+var mnemonic = "forget sunny baby rent topic renew lazy tray corn peanut admit busy";

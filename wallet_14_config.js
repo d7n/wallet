@@ -1,1 +1,1 @@
-var mnemonic = "pink gate plunge satoshi identify they someone sight promote kidney alter defense";
+var mnemonic = "sign section swap bonus ghost figure doctor nephew eternal embrace address tomato";

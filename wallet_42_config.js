@@ -1,1 +1,1 @@
-var mnemonic = "tail urban wine tilt baby divide vicious celery tortoise hour blue okay";
+var mnemonic = "pelican slogan arrest excess sweet easy language short junior cave apology lens";

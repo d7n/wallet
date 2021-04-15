@@ -1,1 +1,1 @@
-var mnemonic = "certain differ action flee ahead tape labor heart draft cram cradle item";
+var mnemonic = "child garbage burden cash fat swim inquiry retire faculty chronic pistol marine";

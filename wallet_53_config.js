@@ -1,1 +1,1 @@
-var mnemonic = "enroll copper cactus chat notice bargain shrug language price voice choice swap";
+var mnemonic = "witness autumn silk gasp large lobster illegal endorse title rail later vanish";

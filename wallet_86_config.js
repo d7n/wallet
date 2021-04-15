@@ -1,1 +1,1 @@
-var mnemonic = "valley word feature cactus job damage elite right phone honey gift general";
+var mnemonic = "shuffle paddle chest miracle blade lemon noble monitor good blouse real mansion";

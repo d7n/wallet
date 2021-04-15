@@ -1,1 +1,1 @@
-var mnemonic = "mystery enlist rifle sunset define attack someone illness trumpet click stem bicycle";
+var mnemonic = "act document noble slim raw punch summer fog fantasy draft fruit master";

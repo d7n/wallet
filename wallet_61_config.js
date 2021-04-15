@@ -1,1 +1,1 @@
-var mnemonic = "hand fuel thunder initial satisfy suit best exile faint web city soon";
+var mnemonic = "push dizzy they wet believe best rice eyebrow atom cement differ minimum";

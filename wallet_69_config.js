@@ -1,1 +1,1 @@
-var mnemonic = "fantasy exchange fork hungry mosquito stumble scan tennis tank excuse top live";
+var mnemonic = "current escape sock message album memory proof fitness cart silent wheel dolphin";

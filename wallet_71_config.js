@@ -1,1 +1,1 @@
-var mnemonic = "birth habit talk true such someone range sick nice august diesel miss";
+var mnemonic = "various phone drop dismiss spell keep avoid turkey path laugh wash cat";

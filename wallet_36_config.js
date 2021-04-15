@@ -1,1 +1,1 @@
-var mnemonic = "dolphin quote index permit resource daughter give shrug boost waste upgrade three";
+var mnemonic = "soon then bargain another menu rebel trigger waste bread lab green reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "media cricket verify sword absurd eager sorry kiss uncle car earn assist";
+var mnemonic = "speak follow stay exchange accident arm brother thank tube uncover blame theory";

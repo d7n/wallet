@@ -1,1 +1,1 @@
-var mnemonic = "wise creek athlete protect helmet two toast hurry oak sound stove color";
+var mnemonic = "around spice square worry canoe tape indoor usual phrase biology unusual expose";

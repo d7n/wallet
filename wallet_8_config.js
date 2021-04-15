@@ -1,1 +1,1 @@
-var mnemonic = "team humor merge mobile craft scissors typical guess chapter fox park ceiling";
+var mnemonic = "coyote smooth crowd decline when clog alone party weather assume eight motion";

@@ -1,1 +1,1 @@
-var mnemonic = "orient rabbit fire human swift describe solve obey inside area mandate since";
+var mnemonic = "girl maximum traffic abandon where curve squeeze echo since license social repeat";

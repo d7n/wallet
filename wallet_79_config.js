@@ -1,1 +1,1 @@
-var mnemonic = "feed chimney valve glad mutual bottom embrace warrior final net silk bundle";
+var mnemonic = "tell ten draft lottery skull transfer ball swing jump hospital athlete slab";

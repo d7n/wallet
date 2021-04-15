@@ -1,1 +1,1 @@
-var mnemonic = "pool disorder turkey student second smooth dolphin jelly farm little syrup gadget";
+var mnemonic = "wing deposit air sugar balance cattle verify busy north weasel air myth";

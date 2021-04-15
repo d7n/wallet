@@ -1,1 +1,1 @@
-var mnemonic = "vendor choose pond zebra pattern force caught boil frost outdoor spice radar";
+var mnemonic = "melt report merge moon cinnamon monster history admit innocent stumble soldier border";

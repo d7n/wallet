@@ -1,1 +1,1 @@
-var mnemonic = "toe slender barely brief city rent fever legal guilt leg view menu";
+var mnemonic = "comic roof faith security liar panda repair suit awake copper shuffle lucky";

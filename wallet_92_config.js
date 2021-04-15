@@ -1,1 +1,1 @@
-var mnemonic = "album demand divorce surface season figure release uncover unveil tomato unfold sugar";
+var mnemonic = "chronic someone dish carbon account chicken tenant bright volcano resource corn report";

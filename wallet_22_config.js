@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit notice butter leisure used square ecology clip video habit forest walk";
+var mnemonic = "climb maze rural main analyst zero harsh monster leg setup initial wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "few derive unhappy boy kiwi total blue load life off million decrease";
+var mnemonic = "duty language deer pitch hip shoot joy second amateur lonely analyst invite";

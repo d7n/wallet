@@ -1,1 +1,1 @@
-var mnemonic = "behave thing wisdom install must sibling capable much chimney inside meadow cream";
+var mnemonic = "genuine barrel fantasy hamster chat nurse cinnamon coconut naive dune indoor upon";

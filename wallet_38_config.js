@@ -1,1 +1,1 @@
-var mnemonic = "lonely bonus toward another pudding oyster sick boy march they glimpse mail";
+var mnemonic = "run step zone tide east soup gentle shuffle reduce drink universe depart";

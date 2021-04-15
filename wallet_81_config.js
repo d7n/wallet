@@ -1,1 +1,1 @@
-var mnemonic = "search warrior reward actual trash garlic galaxy race husband skin buffalo twice";
+var mnemonic = "give orient guard usage bronze horse fiction hundred real reform whip urban";

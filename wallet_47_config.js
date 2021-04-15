@@ -1,1 +1,1 @@
-var mnemonic = "hat bind cruise rival session brush gesture magnet never gain latin peanut";
+var mnemonic = "ten this book cup maze defense barely better ladder found forget piano";

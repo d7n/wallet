@@ -1,1 +1,1 @@
-var mnemonic = "magnet miss cousin awesome glory hole genre plug angry garment casual side";
+var mnemonic = "mammal jacket elegant begin basket hazard gravity squirrel shine proud luggage genre";

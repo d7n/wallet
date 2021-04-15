@@ -1,1 +1,1 @@
-var mnemonic = "much auction power spoon control current upset year green gold company blanket";
+var mnemonic = "spatial oblige bring ethics feed stomach match hole venture cereal tomato evolve";

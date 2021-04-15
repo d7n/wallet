@@ -1,1 +1,1 @@
-var mnemonic = "suspect slight gain pilot fly evolve tornado category resemble inner wrist march";
+var mnemonic = "turtle ship shed raw basic crop wheat small oxygen image annual million";

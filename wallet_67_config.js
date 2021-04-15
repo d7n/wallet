@@ -1,1 +1,1 @@
-var mnemonic = "busy shallow inch vocal educate poem tuition cheap debate pottery loyal weapon";
+var mnemonic = "joy resemble acoustic venture slice sock label gaze repair gesture solution coin";

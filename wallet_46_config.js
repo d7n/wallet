@@ -1,1 +1,1 @@
-var mnemonic = "craft manage warrior web joke pistol carry lyrics filter vehicle trumpet visa";
+var mnemonic = "vivid fly dynamic fan gallery economy retreat vanish grain symptom punch cluster";

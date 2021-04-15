@@ -1,1 +1,1 @@
-var mnemonic = "digital pelican agent motor crowd capable label change cave notable suit frame";
+var mnemonic = "method step sound paper valley square expand evidence galaxy approve half shed";

@@ -1,1 +1,1 @@
-var mnemonic = "belt rabbit spawn long ring sing obey assume atom omit glance filter";
+var mnemonic = "woman squeeze field angry place address heavy fetch order excite face useless";

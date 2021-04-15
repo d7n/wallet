@@ -1,1 +1,1 @@
-var mnemonic = "double wrong bid knock finish poverty unknown picture hello must leave slab";
+var mnemonic = "lock patch casino cave jungle reform army leg rule true west fuel";

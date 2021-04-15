@@ -1,1 +1,1 @@
-var mnemonic = "shoot lemon glory feature wisdom blood family venue dismiss isolate tape minute";
+var mnemonic = "hand birth safe diesel fold issue ugly turkey useful nose fault until";

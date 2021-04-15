@@ -1,1 +1,1 @@
-var mnemonic = "utility clump found fiscal crawl display thumb initial boil belt distance annual";
+var mnemonic = "like cost accident patient cotton spin debris aspect cruise point notable increase";

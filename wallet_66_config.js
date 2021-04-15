@@ -1,1 +1,1 @@
-var mnemonic = "task pond later cry people trade panda rookie club august coffee ship";
+var mnemonic = "tiger elbow seek army vacant mention belt perfect van flash method purse";

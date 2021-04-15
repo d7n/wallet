@@ -1,1 +1,1 @@
-var mnemonic = "walk artefact cricket produce such theory arrive spawn letter use furnace tomorrow";
+var mnemonic = "image weekend above move excite second wealth detect total hole rigid rug";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday shuffle satisfy glow logic energy hazard occur hello gift benefit genius";
+var mnemonic = "clay choice repair message unaware agent among slot august angle castle faith";

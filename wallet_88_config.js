@@ -1,1 +1,1 @@
-var mnemonic = "injury buyer stadium dust peace unique meadow oven moon eye universe sea";
+var mnemonic = "fancy tiny sight cheap slide across mixture approve dose attitude cable day";

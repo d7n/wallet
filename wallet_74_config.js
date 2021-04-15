@@ -1,1 +1,1 @@
-var mnemonic = "false taste snake inside call crane flock doctor book hero erosion sound";
+var mnemonic = "canyon bomb good school forget room rescue design soldier digital unaware maximum";

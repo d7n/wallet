@@ -1,1 +1,1 @@
-var mnemonic = "bless feel because naive eager crucial loan book elder problem ostrich sport";
+var mnemonic = "brand brief fox tissue adult zoo depth weapon penalty torch fiber gospel";

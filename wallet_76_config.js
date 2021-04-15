@@ -1,1 +1,1 @@
-var mnemonic = "cupboard relax foam reunion stock dream cram deny cook grant dress reunion";
+var mnemonic = "child jewel employ tape gap open fall inch nephew act street together";

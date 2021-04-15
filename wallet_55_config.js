@@ -1,1 +1,1 @@
-var mnemonic = "inside journey love index describe cinnamon strike right vast undo ahead soft";
+var mnemonic = "obvious offer display trust enter green champion rather junk join glory grid";

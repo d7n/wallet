@@ -1,1 +1,1 @@
-var mnemonic = "lobster mosquito tenant infant clutch common volcano ritual found bracket attitude file";
+var mnemonic = "order sample brain glow sunset breeze spray illegal cement metal this picnic";

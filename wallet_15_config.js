@@ -1,1 +1,1 @@
-var mnemonic = "toe steak cram anchor okay sting primary only damp health sunny repair";
+var mnemonic = "cart danger squeeze canvas trigger hungry since wheat outside knee test team";

@@ -1,1 +1,1 @@
-var mnemonic = "idea click document pyramid meat drastic organ jealous trip humble since limb";
+var mnemonic = "page film trumpet surge baby interest camp remain judge any illegal hero";
