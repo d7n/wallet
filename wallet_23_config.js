@@ -1,1 +1,1 @@
-var mnemonic = "either aware put myth never door resource venture garage frequent curve camp";
+var mnemonic = "echo regret shaft winter embark miracle dawn tongue pond spare flat online";

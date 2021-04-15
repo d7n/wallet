@@ -1,1 +1,1 @@
-var mnemonic = "cushion enable video end confirm cook remove topic never manual salad symbol";
+var mnemonic = "round federal arrive silk public face lawsuit jealous amazing senior pride olive";

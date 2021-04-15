@@ -1,1 +1,1 @@
-var mnemonic = "hard bird garage develop hero cereal castle maid gaze budget two student";
+var mnemonic = "list boring walk cupboard walnut always prosper shine science wedding extra unique";

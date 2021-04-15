@@ -1,1 +1,1 @@
-var mnemonic = "vessel apart refuse attend feel tourist easy crisp ahead bike brief ill";
+var mnemonic = "together seed amazing prefer dinosaur surround jewel car near lonely puzzle soap";

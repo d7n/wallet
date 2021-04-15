@@ -1,1 +1,1 @@
-var mnemonic = "fee belt dentist latin festival glide main satisfy income satoshi project agent";
+var mnemonic = "cluster bar acid mind cute era globe duck hold naive bottom inside";

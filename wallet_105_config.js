@@ -1,1 +1,1 @@
-var mnemonic = "federal include duty penalty section more rhythm beauty identify soft oxygen cause";
+var mnemonic = "either owner beyond venue ozone analyst bid rifle effort tool question list";

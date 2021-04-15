@@ -1,1 +1,1 @@
-var mnemonic = "decide faith invite language laptop gather decline legal merge fossil evoke kit";
+var mnemonic = "picture they skirt monitor sight word derive response melody merit cake acid";

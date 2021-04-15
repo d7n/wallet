@@ -1,1 +1,1 @@
-var mnemonic = "slow market hand rescue setup trash melody detect purity exist fit banner";
+var mnemonic = "cinnamon purity south object ritual inmate road claim fault health crew credit";

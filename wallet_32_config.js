@@ -1,1 +1,1 @@
-var mnemonic = "donor pencil notable silver relax crisp any wealth mass spell shock endorse";
+var mnemonic = "identify control uncle fly exclude luxury blind wonder height stone addict fork";

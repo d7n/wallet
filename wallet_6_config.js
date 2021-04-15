@@ -1,1 +1,1 @@
-var mnemonic = "defy hand deliver bright poem angle company domain prize sure exit master";
+var mnemonic = "tilt walk strong diet cream bright banana flip below inflict sphere slam";

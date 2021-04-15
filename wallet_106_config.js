@@ -1,1 +1,1 @@
-var mnemonic = "embrace witness awful winner dog donkey birth utility swarm job fold under";
+var mnemonic = "sense style raccoon guard march chat guilt glory awful lens glass dawn";

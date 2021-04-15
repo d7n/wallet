@@ -1,1 +1,1 @@
-var mnemonic = "come electric wealth lady segment butter rebel carry matter derive large issue";
+var mnemonic = "admit pole isolate fabric mad phone thought game hood board exhibit quick";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce expand priority car wheel gift slot board wage noble oval rose";
+var mnemonic = "cool witness antique venture ethics treat chimney latin kiss axis flip brass";

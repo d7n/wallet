@@ -1,1 +1,1 @@
-var mnemonic = "bracket receive noise lift pear phrase toward capital device plate senior theory";
+var mnemonic = "garlic ridge script client mistake scissors unfair imitate venture spin swing inflict";

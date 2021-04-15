@@ -1,1 +1,1 @@
-var mnemonic = "main umbrella tired essence still lab fish magic dry fancy regular phrase";
+var mnemonic = "buzz luggage health sentence ranch siege govern round reason unveil vendor iron";

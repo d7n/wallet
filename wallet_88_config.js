@@ -1,1 +1,1 @@
-var mnemonic = "olympic room tool voyage brave wet frequent page guilt hint sphere fetch";
+var mnemonic = "random minimum earn robot inspire wedding manage purpose bind wreck domain dumb";

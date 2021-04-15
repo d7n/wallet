@@ -1,1 +1,1 @@
-var mnemonic = "finger frown fabric cube scrap damp step meadow peanut bomb kingdom bread";
+var mnemonic = "laundry palm immense sphere east input always sport slush atom grid flee";

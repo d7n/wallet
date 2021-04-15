@@ -1,1 +1,1 @@
-var mnemonic = "bacon stock patrol opinion reopen often side math universe vivid kingdom forum";
+var mnemonic = "island ecology dizzy parade trade keen glove wide surround section cradle picture";

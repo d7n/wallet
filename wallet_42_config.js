@@ -1,1 +1,1 @@
-var mnemonic = "pitch pond trigger win ride olympic above metal science jar fade bunker";
+var mnemonic = "novel make vacant flush beyond chimney trap adapt video nice maximum joy";

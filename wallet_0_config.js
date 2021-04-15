@@ -1,1 +1,1 @@
-var mnemonic = "siren soda entry flip balcony inject certain borrow tackle habit ozone edit";
+var mnemonic = "jealous join actual question zero margin cactus cash pill limit session target";

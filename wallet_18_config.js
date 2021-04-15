@@ -1,1 +1,1 @@
-var mnemonic = "aisle fluid elegant alpha scorpion indoor couple obscure skirt bullet type final";
+var mnemonic = "custom vivid scrap inform steak easily push library uncover tattoo verb crater";

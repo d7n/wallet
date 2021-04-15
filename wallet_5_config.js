@@ -1,1 +1,1 @@
-var mnemonic = "practice equip chat design garbage keen labor blush advice sand patient basket";
+var mnemonic = "cloth wool acid asset disease attitude soup vacant orchard swim inflict radio";

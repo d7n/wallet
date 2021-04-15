@@ -1,1 +1,1 @@
-var mnemonic = "buyer cat lottery usual stable width position royal elder idea plug various";
+var mnemonic = "much welcome window video allow luggage lady actor stage bone civil stem";

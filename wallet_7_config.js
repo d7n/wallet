@@ -1,1 +1,1 @@
-var mnemonic = "trust snake sing fog elephant fatigue forum since extra circle engine top";
+var mnemonic = "off pyramid will school bullet warrior great nephew priority when age knee";

@@ -1,1 +1,1 @@
-var mnemonic = "air salon merry deal fine exclude tenant total try odor cherry suggest";
+var mnemonic = "walk boost trouble improve wasp hundred element oblige height modify bonus whip";

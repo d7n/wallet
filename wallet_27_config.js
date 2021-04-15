@@ -1,1 +1,1 @@
-var mnemonic = "around champion step unit fresh anchor ranch ride bread useless foot provide";
+var mnemonic = "brand alone permit bring need patient blade boat twelve damp retreat frown";

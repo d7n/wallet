@@ -1,1 +1,1 @@
-var mnemonic = "strong smoke caution winner hurry save insect exit cluster current trophy shell";
+var mnemonic = "define syrup also rent wish over visit enrich february rib brisk endless";

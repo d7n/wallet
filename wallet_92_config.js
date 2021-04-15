@@ -1,1 +1,1 @@
-var mnemonic = "empty spend prefer script nephew popular oxygen fork people join castle usual";
+var mnemonic = "virus spy eight dinosaur luggage mutual bid copy giggle marble blossom torch";

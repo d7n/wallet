@@ -1,1 +1,1 @@
-var mnemonic = "mom december maximum silver barrel online tissue company guide planet useless repeat";
+var mnemonic = "trip benefit better life resource update category uphold custom follow off liquid";

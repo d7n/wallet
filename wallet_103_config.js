@@ -1,1 +1,1 @@
-var mnemonic = "gap eyebrow virus asthma glow volume settle visa shuffle saddle beef boss";
+var mnemonic = "exist radio win kick sign vanish cargo supreme collect supply clump viable";

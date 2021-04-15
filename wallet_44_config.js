@@ -1,1 +1,1 @@
-var mnemonic = "hole copy drop foot hazard trumpet flight champion impulse spirit onion unveil";
+var mnemonic = "spider park situate forest iron panda badge flight naive palace bacon tag";

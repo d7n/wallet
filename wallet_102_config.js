@@ -1,1 +1,1 @@
-var mnemonic = "bronze nasty crouch grow able boil traffic accident arm stamp blame grunt";
+var mnemonic = "peasant sugar neglect card fix pond electric rail swift borrow army eyebrow";

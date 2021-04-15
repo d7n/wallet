@@ -1,1 +1,1 @@
-var mnemonic = "exile illness layer quarter among proud seven shed brisk cruel liar merge";
+var mnemonic = "math festival soul name render pudding wood cake vessel exit like wasp";

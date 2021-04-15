@@ -1,1 +1,1 @@
-var mnemonic = "husband exit load model twenty bright museum dilemma razor ritual post black";
+var mnemonic = "quote achieve fatal kiss antenna jacket celery quiz behind disagree avoid prison";

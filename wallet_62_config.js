@@ -1,1 +1,1 @@
-var mnemonic = "inch worth fame stomach bone soon tornado vendor proof reduce pluck end";
+var mnemonic = "amused maximum find price hazard build unlock enforce fat cave print dish";

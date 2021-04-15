@@ -1,1 +1,1 @@
-var mnemonic = "modify cause key dish swift spider kite pistol situate total brown rescue";
+var mnemonic = "surface olive amount please scene idle apart orbit reason potato twice regular";

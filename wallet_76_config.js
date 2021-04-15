@@ -1,1 +1,1 @@
-var mnemonic = "sugar portion fitness pupil duty fold ocean opera wage release index taste";
+var mnemonic = "aisle more dutch struggle hospital immune corn evidence powder actor equip alone";

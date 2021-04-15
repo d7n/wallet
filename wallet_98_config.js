@@ -1,1 +1,1 @@
-var mnemonic = "zone cram comic stem office judge position mention express sting connect catch";
+var mnemonic = "bamboo blind rebuild thunder fire day lemon ketchup doll spray trip rapid";

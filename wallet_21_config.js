@@ -1,1 +1,1 @@
-var mnemonic = "unaware twelve angle ready deer twenty stumble fruit artwork frequent develop address";
+var mnemonic = "toward riot mixture slogan clerk fiber fly fringe top column crash senior";

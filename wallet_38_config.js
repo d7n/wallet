@@ -1,1 +1,1 @@
-var mnemonic = "town census noise abuse sell genre possible economy enjoy found swing fever";
+var mnemonic = "tilt right ankle cat electric also worth jungle tide into skull there";

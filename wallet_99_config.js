@@ -1,1 +1,1 @@
-var mnemonic = "beach empty cradle shield bean domain exotic describe own picnic blur meat";
+var mnemonic = "bottom enter check super impact advice pass digital enjoy endless test debris";

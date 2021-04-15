@@ -1,1 +1,1 @@
-var mnemonic = "gospel wasp solar result genius cake course radio shy ethics letter melody";
+var mnemonic = "shallow taxi trophy kiss tell erosion praise grunt more adult gentle income";

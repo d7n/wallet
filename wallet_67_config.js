@@ -1,1 +1,1 @@
-var mnemonic = "stadium rural reopen anxiety hair domain truck field medal brush borrow wonder";
+var mnemonic = "layer lake crazy still hidden shallow simple jaguar peanut start occur apology";

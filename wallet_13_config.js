@@ -1,1 +1,1 @@
-var mnemonic = "receive father spatial step seed purity minute wire wave chronic magnet myth";
+var mnemonic = "expect relief cart column office acoustic fruit call bus degree eagle grab";

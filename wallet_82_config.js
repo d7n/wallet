@@ -1,1 +1,1 @@
-var mnemonic = "plunge vacant floor mountain lady web laptop jaguar east butter similar rival";
+var mnemonic = "wedding reject either tape farm retire august spatial any story view toward";

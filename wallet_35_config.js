@@ -1,1 +1,1 @@
-var mnemonic = "target apple autumn satisfy rival double end health sport coyote open solid";
+var mnemonic = "palace balance ensure guard century crew front demise much bonus citizen guilt";

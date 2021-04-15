@@ -1,1 +1,1 @@
-var mnemonic = "tissue story describe mask depend thought pole worry siren glimpse foil unit";
+var mnemonic = "blue current wrap film bone camera lab task wage future gain problem";

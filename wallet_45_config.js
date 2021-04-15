@@ -1,1 +1,1 @@
-var mnemonic = "earn afford design wrap color shadow turtle gift salute vote approve task";
+var mnemonic = "february raccoon tumble mosquito steel apple ready census robust bread six pluck";

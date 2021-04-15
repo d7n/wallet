@@ -1,1 +1,1 @@
-var mnemonic = "walk among tattoo motion capable calm flat speed pave visual panic grape";
+var mnemonic = "shoulder casino lawsuit winter possible twelve earth teach wedding faint again oval";

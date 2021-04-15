@@ -1,1 +1,1 @@
-var mnemonic = "clinic tortoise foster seven betray capital salmon dynamic enforce below rough car";
+var mnemonic = "fiction minute excuse march found mixture sleep pet vast month broccoli satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "enter dish unveil focus buyer seven enrich grape crumble pig purity enhance";
+var mnemonic = "series early easily economy peace oblige great limb marriage claim column segment";

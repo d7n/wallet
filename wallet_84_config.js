@@ -1,1 +1,1 @@
-var mnemonic = "address mansion lamp radar public chaos item treat answer cream avoid lava";
+var mnemonic = "cricket example used bicycle exist close board thing capital source wild rice";

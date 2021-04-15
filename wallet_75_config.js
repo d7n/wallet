@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon patch draw segment hold critic mammal object sound price song abstract";
+var mnemonic = "power panda voice tired wheat fox domain employ glove vault obscure cheap";

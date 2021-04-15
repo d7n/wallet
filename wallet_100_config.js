@@ -1,1 +1,1 @@
-var mnemonic = "garlic quarter smooth fabric little maximum teach toe gas gasp coral have";
+var mnemonic = "tattoo hundred sick brother derive universe machine hope grape news elephant venue";

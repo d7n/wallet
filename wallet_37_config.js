@@ -1,1 +1,1 @@
-var mnemonic = "lizard hero stadium delay urge envelope gown visual ask elegant assume evolve";
+var mnemonic = "toilet seek argue pupil cute major misery deliver worry huge acquire visit";

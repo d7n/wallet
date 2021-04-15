@@ -1,1 +1,1 @@
-var mnemonic = "leopard enact royal cabin random seed cruel organ educate sign bubble again";
+var mnemonic = "double wing gift hurry source trade lens siren dish winner olive denial";

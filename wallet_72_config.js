@@ -1,1 +1,1 @@
-var mnemonic = "buddy narrow wedding price smart hard peanut barely electric clerk dwarf remind";
+var mnemonic = "funny enact toast bulk dry program uphold forest mad nephew metal announce";

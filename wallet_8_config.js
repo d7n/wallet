@@ -1,1 +1,1 @@
-var mnemonic = "toward piece off rely morning style tobacco scare bullet art sport mistake";
+var mnemonic = "patrol spray myth popular trend country opinion luxury police cruel acquire neither";

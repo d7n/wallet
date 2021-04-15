@@ -1,1 +1,1 @@
-var mnemonic = "inquiry three produce what opinion remove spoil okay heart oppose survey bird";
+var mnemonic = "easily crater plastic embrace collect expand canal what floor creek buyer odor";

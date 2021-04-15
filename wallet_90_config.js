@@ -1,1 +1,1 @@
-var mnemonic = "learn spell pony uncover hurdle coyote stuff tray cushion near summer crop";
+var mnemonic = "call evidence analyst history cup dog fault prosper dinosaur fame wine update";

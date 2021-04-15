@@ -1,1 +1,1 @@
-var mnemonic = "scout wear tired level horn able orbit enforce excess rain excuse robust";
+var mnemonic = "record proud square record when debate fit monkey solve turkey appear process";

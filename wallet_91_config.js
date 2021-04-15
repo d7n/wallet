@@ -1,1 +1,1 @@
-var mnemonic = "lecture give pyramid ethics giggle about sponsor hair boil kangaroo unusual similar";
+var mnemonic = "ticket team screen success teach degree museum cash circle among foam bitter";

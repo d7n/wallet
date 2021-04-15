@@ -1,1 +1,1 @@
-var mnemonic = "fork romance rural hill chunk world prepare legal blanket favorite diet senior";
+var mnemonic = "detail unfold child audit wing minor faint feed gather foster talent orphan";

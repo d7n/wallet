@@ -1,1 +1,1 @@
-var mnemonic = "salon urge ball onion depend hover shop spoil dial choose sad segment";
+var mnemonic = "swing similar goose vibrant raven minimum crater exotic video loud account expire";

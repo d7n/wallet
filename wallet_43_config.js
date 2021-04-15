@@ -1,1 +1,1 @@
-var mnemonic = "swift mass alone stone leave sound obey total spoon town elite erupt";
+var mnemonic = "connect concert embody floor stairs ship decorate creek cloth sort soap ripple";

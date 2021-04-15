@@ -1,1 +1,1 @@
-var mnemonic = "proof snack exchange palm guilt mass never wild welcome turtle poverty caution";
+var mnemonic = "staff flash link seek battle emotion this nephew shed region dwarf right";

@@ -1,1 +1,1 @@
-var mnemonic = "pass bottom reduce favorite sketch relief salad picture renew trick public tuna";
+var mnemonic = "feed voyage finger kite member dream long boy vicious they shoot stamp";

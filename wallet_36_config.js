@@ -1,1 +1,1 @@
-var mnemonic = "cage concert wrong elephant purpose spread speed tribe news august visual pass";
+var mnemonic = "jewel raven bless dismiss ginger torch erosion deputy tag special opinion decade";

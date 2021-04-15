@@ -1,1 +1,1 @@
-var mnemonic = "seek dilemma siege wish fortune beach guess arrange stand harsh rookie network";
+var mnemonic = "spike ability hidden pull cliff corn pill canal mansion orient elder planet";

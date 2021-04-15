@@ -1,1 +1,1 @@
-var mnemonic = "scatter similar glove burden bamboo skirt wrestle roof second pond small general";
+var mnemonic = "blast caught video reunion atom prize group state desk fire renew mean";

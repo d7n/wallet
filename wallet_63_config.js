@@ -1,1 +1,1 @@
-var mnemonic = "style code vivid color mule unusual sweet maximum okay stem silk over";
+var mnemonic = "elite island patient sting alpha shiver muscle hazard suspect empty olive control";

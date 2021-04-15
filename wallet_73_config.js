@@ -1,1 +1,1 @@
-var mnemonic = "solve section mutual erase rough dial siren scatter upgrade defy absorb move";
+var mnemonic = "edit venture keep toward observe history deputy element photo elder minute pool";

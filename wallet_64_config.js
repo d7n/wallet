@@ -1,1 +1,1 @@
-var mnemonic = "crack fall want foil nerve burden federal job steak cabbage release mention";
+var mnemonic = "jump struggle tip bounce pact birth census alien man bottom advance father";

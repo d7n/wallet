@@ -1,1 +1,1 @@
-var mnemonic = "sick cereal wagon various orchard sea unfair steak sting symptom outdoor garbage";
+var mnemonic = "struggle rough detect satisfy idea economy crawl enrich robust suspect snow until";

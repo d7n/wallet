@@ -1,1 +1,1 @@
-var mnemonic = "lion obey eyebrow lucky pilot legend reason drop minimum stand token grab";
+var mnemonic = "royal worry mom bounce tongue exercise cradle elder helmet dress claw jelly";

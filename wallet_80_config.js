@@ -1,1 +1,1 @@
-var mnemonic = "evolve shield ribbon inflict balcony example million muscle helmet victory kitten boil";
+var mnemonic = "august negative pen discover exotic vacuum lion patch belt chalk check bus";

@@ -1,1 +1,1 @@
-var mnemonic = "truck nurse danger yellow provide tray rule upgrade polar indicate senior share";
+var mnemonic = "hammer funny auto velvet giant erode satisfy aunt medal image color effort";

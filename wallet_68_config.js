@@ -1,1 +1,1 @@
-var mnemonic = "toe puzzle weapon grit genre arrest dad goddess bright supreme cash voyage";
+var mnemonic = "style upper ribbon brother exhibit faint elder pattern speak gun armor south";

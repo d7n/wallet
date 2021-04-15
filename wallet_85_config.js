@@ -1,1 +1,1 @@
-var mnemonic = "female material spend oval electric engage fee inherit tornado margin great fine";
+var mnemonic = "excuse vacuum teach burger coral warrior vapor staff alarm shadow faith evidence";

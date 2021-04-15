@@ -1,1 +1,1 @@
-var mnemonic = "lobster project demise budget survey know property loud hello process short tongue";
+var mnemonic = "search south spoon iron banana quote lizard team virus develop almost grit";

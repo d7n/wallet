@@ -1,1 +1,1 @@
-var mnemonic = "doll boring morning warm tennis spray civil pioneer lamp insect arctic employ";
+var mnemonic = "measure demise report tent text away measure lizard mistake smooth spare glow";

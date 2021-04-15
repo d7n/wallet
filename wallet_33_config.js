@@ -1,1 +1,1 @@
-var mnemonic = "page hunt budget cash opera hard table battle annual enough situate heavy";
+var mnemonic = "dilemma click pull exit police moral repair moon enact middle frequent claim";

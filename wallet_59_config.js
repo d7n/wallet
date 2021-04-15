@@ -1,1 +1,1 @@
-var mnemonic = "force glow refuse actor urge wave hazard arrange skin start arch eyebrow";
+var mnemonic = "pipe document brand gentle erupt way audit disease gorilla output drift wait";
