@@ -1,1 +1,1 @@
-var mnemonic = "list involve window buffalo section announce current wagon razor neither arrow abandon";
+var mnemonic = "tribe biology correct marriage evolve vapor tobacco harsh drama swear void wreck";

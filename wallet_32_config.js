@@ -1,1 +1,1 @@
-var mnemonic = "chief minor member health divert dirt moon sword syrup shadow seminar ghost";
+var mnemonic = "subject lazy train segment you blanket noodle word parent assault already refuse";

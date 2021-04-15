@@ -1,1 +1,1 @@
-var mnemonic = "twice mystery board scissors toe collect leader fall outside hero picnic estate";
+var mnemonic = "seven shoulder slam west orange where shove proud dolphin earn poet hat";

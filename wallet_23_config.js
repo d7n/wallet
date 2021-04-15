@@ -1,1 +1,1 @@
-var mnemonic = "circle worth napkin zoo fan birth breeze control weekend chunk bag story";
+var mnemonic = "maze wool tiny wrestle axis explain episode leisure topple essence rack jaguar";

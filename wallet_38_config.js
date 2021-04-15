@@ -1,1 +1,1 @@
-var mnemonic = "grit junk celery piano ahead term actual acquire inquiry rebel pigeon blade";
+var mnemonic = "wagon around tired process panther find life sniff awkward sort cancel gauge";

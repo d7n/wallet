@@ -1,1 +1,1 @@
-var mnemonic = "siren barely marble urban ten become lend violin topple sign vacuum version";
+var mnemonic = "face outer bicycle praise figure visual couch shock fame sea nice ride";

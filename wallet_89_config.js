@@ -1,1 +1,1 @@
-var mnemonic = "impulse gap butter ethics claim surprise lobster kind huge solid divorce talent";
+var mnemonic = "peasant winter alcohol give friend remove gorilla hand sister price scatter genuine";

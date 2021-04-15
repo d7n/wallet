@@ -1,1 +1,1 @@
-var mnemonic = "bottom outdoor supreme pigeon student worry sunset want detect math tiger kidney";
+var mnemonic = "universe rose corn guard crush rural nurse game choice decline destroy demise";

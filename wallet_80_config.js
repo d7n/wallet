@@ -1,1 +1,1 @@
-var mnemonic = "very kick labor wear obtain feed defy season one bench second chair";
+var mnemonic = "display gate aware flash deposit joke globe margin diagram outdoor cruise card";

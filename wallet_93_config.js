@@ -1,1 +1,1 @@
-var mnemonic = "author open glory now buffalo unveil under erode oven happy region brand";
+var mnemonic = "combine moment citizen attack announce team woman art smart report material average";

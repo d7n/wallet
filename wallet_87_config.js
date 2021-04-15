@@ -1,1 +1,1 @@
-var mnemonic = "sand useful option night pizza length bunker entry final genuine beef coconut";
+var mnemonic = "oil syrup ahead jar arctic fold other curtain mobile merge blouse endorse";

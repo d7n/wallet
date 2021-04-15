@@ -1,1 +1,1 @@
-var mnemonic = "shiver talk hedgehog laptop train pilot globe cause benefit cool snap young";
+var mnemonic = "drop pelican hurry crash split nice alcohol enough crush dial endorse desk";

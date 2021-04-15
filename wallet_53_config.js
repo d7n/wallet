@@ -1,1 +1,1 @@
-var mnemonic = "input funny measure mention nominee usual one atom certain smart alpha rude";
+var mnemonic = "curious fire fortune person oyster illegal erode slight keep liar lonely gravity";

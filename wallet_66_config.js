@@ -1,1 +1,1 @@
-var mnemonic = "slice float window bone student iron flush eagle long ahead define cost";
+var mnemonic = "vacant interest base minimum census soft feature paper negative cake student solution";

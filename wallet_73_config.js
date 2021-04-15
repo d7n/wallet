@@ -1,1 +1,1 @@
-var mnemonic = "such sword multiply change attend plate protect entire giant someone video brick";
+var mnemonic = "age scrub final color truth exit time hover coconut end payment strategy";

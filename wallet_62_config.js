@@ -1,1 +1,1 @@
-var mnemonic = "senior lyrics erosion wild puppy lady anchor meat hurry remember eternal off";
+var mnemonic = "forum swap credit panel history velvet carry cannon ethics front quiz sugar";

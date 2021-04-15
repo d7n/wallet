@@ -1,1 +1,1 @@
-var mnemonic = "hurry improve attract giraffe crash smooth call bullet beef finger shrug rapid";
+var mnemonic = "seven mansion city muscle merry chief nasty material mixed file way faint";

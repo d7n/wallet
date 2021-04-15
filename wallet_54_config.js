@@ -1,1 +1,1 @@
-var mnemonic = "labor come museum cruise gap luxury smoke worth balance harsh relax dismiss";
+var mnemonic = "chuckle gesture leader type similar perfect street deposit crucial suffer vital island";

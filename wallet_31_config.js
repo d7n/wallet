@@ -1,1 +1,1 @@
-var mnemonic = "like cook long link fabric door radar swap garbage trash knife cube";
+var mnemonic = "stamp stadium laugh penalty quantum dance just arch jewel ozone depend raw";

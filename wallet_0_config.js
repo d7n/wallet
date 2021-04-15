@@ -1,1 +1,1 @@
-var mnemonic = "effort style hub reunion conduct found car actual exotic idea visa raccoon";
+var mnemonic = "remain swap tilt gesture width flush upset avocado eight subject effort cancel";

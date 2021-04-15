@@ -1,1 +1,1 @@
-var mnemonic = "prevent jelly lady curve patch square alpha boring avocado know minimum plunge";
+var mnemonic = "marble cost sad route hedgehog exit loud legal credit tilt friend upgrade";

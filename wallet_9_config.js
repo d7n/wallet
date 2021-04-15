@@ -1,1 +1,1 @@
-var mnemonic = "where exclude you verb post drama image cat miss jar advice segment";
+var mnemonic = "keen notable unaware marble original merit area credit degree reopen away dragon";

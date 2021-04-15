@@ -1,1 +1,1 @@
-var mnemonic = "pond doctor wise crop lounge insect ranch denial vacuum tennis usual fortune";
+var mnemonic = "rapid verify brain just license music curious left donor ahead pretty bitter";

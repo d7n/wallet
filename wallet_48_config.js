@@ -1,1 +1,1 @@
-var mnemonic = "south giggle able run display bunker vivid try crack phone innocent huge";
+var mnemonic = "repair approve thunder teach arm code donate verb energy drift enforce deal";

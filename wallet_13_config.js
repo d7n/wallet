@@ -1,1 +1,1 @@
-var mnemonic = "cute female range ankle sheriff opinion noise outside surprise term brother warfare";
+var mnemonic = "chapter milk laptop leisure derive genuine runway cotton mail follow raven congress";

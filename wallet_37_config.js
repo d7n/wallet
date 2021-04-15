@@ -1,1 +1,1 @@
-var mnemonic = "piano cotton recall east attend surround couple curious window hill angry disease";
+var mnemonic = "once carpet monitor still ribbon decade winter sell gift gospel unique toddler";

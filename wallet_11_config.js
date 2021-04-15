@@ -1,1 +1,1 @@
-var mnemonic = "type another animal magic memory scissors payment guitar focus again true keen";
+var mnemonic = "decade pride assault lunar cruise hold agent glad concert any favorite inform";

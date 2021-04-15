@@ -1,1 +1,1 @@
-var mnemonic = "question dry ship now embrace have transfer flash number creek afford artwork";
+var mnemonic = "grant metal pride bonus virtual light effort limit large innocent basket recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock segment cart client like nature weird ensure unit toss pull tribe";
+var mnemonic = "label vacuum used jar alcohol make afford arrow coin water indoor always";

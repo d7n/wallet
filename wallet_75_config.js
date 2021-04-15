@@ -1,1 +1,1 @@
-var mnemonic = "three able obey loan enforce wild keen you evolve between punch disease";
+var mnemonic = "season police napkin taste air body board planet useful limit cycle foot";

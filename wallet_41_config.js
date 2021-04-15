@@ -1,1 +1,1 @@
-var mnemonic = "topic cheese observe forum metal decline evidence nut foot knife that online";
+var mnemonic = "fetch worry legend around bind venue pumpkin enable lyrics churn fox jelly";

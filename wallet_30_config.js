@@ -1,1 +1,1 @@
-var mnemonic = "pear stool adapt surround beyond loyal reject purpose chimney relax object divide";
+var mnemonic = "torch merry thank jeans rally hurt monkey renew guide snow note track";

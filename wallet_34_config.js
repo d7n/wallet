@@ -1,1 +1,1 @@
-var mnemonic = "famous marine hope basket hire defy cushion mule lunar love stone bicycle";
+var mnemonic = "uphold replace lounge foot hope image heavy glide setup target radio coach";

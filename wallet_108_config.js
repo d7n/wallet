@@ -1,1 +1,1 @@
-var mnemonic = "avocado truck nothing reform when design lift chronic decline erase you blind";
+var mnemonic = "measure volcano carbon age link bargain impulse brother worry tag head subway";

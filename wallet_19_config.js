@@ -1,1 +1,1 @@
-var mnemonic = "door bundle nature spawn mom crunch disease endless decrease offer sail twelve";
+var mnemonic = "surprise man tiny arm february poet correct squeeze control average walk ecology";

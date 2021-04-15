@@ -1,1 +1,1 @@
-var mnemonic = "father drive caught trigger exist maze accuse neglect swim fat east cake";
+var mnemonic = "reward devote icon similar start voyage youth meat cheese marine any eager";

@@ -1,1 +1,1 @@
-var mnemonic = "build write blue baby spawn sport typical crouch fold bundle segment degree";
+var mnemonic = "marriage relief coast grab rose future boost cake enforce transfer clutch question";

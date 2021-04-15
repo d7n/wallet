@@ -1,1 +1,1 @@
-var mnemonic = "common success negative believe safe quote acid moment rhythm artwork smooth upgrade";
+var mnemonic = "scale song idea citizen impact about park kiwi disease bleak box true";

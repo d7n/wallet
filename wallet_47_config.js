@@ -1,1 +1,1 @@
-var mnemonic = "custom kiss still tree lens annual emotion mention captain stick interest tube";
+var mnemonic = "girl crazy arch stand cloud involve cheap develop runway gauge radar shine";

@@ -1,1 +1,1 @@
-var mnemonic = "power cake weather parrot shoulder short cool bundle matrix portion equal piece";
+var mnemonic = "hen child cat uniform craft wine unknown wolf provide witness rotate surprise";

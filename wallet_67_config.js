@@ -1,1 +1,1 @@
-var mnemonic = "shuffle ridge glimpse jaguar anger return pride festival parrot sibling crack gravity";
+var mnemonic = "space bone kiwi old make scout heart valid forget comic mimic trust";

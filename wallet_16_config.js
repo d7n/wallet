@@ -1,1 +1,1 @@
-var mnemonic = "delay rough dignity swallow drift steel autumn enter spend sniff say pink";
+var mnemonic = "random top cause burden pattern exile busy warm fabric library weapon friend";

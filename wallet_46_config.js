@@ -1,1 +1,1 @@
-var mnemonic = "lunch resist seed kiwi act alarm swallow appear trap erosion perfect measure";
+var mnemonic = "curious noise talent mango prize can hurt trim real click dance actor";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap awesome suggest wink jacket toss museum finger detail sunset split ship";
+var mnemonic = "slice blush earth famous cattle grid faculty sauce certain burger wild idea";

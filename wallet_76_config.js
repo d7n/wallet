@@ -1,1 +1,1 @@
-var mnemonic = "volcano struggle long pony reunion split sad stove hip cloth torch canvas";
+var mnemonic = "obey emotion punch turn laundry script normal student mango energy beyond caution";

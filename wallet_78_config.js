@@ -1,1 +1,1 @@
-var mnemonic = "ride drastic nurse elder chase crazy crazy sail very decrease satisfy forget";
+var mnemonic = "planet smooth coast tank travel sense skill calm model equip winner swing";

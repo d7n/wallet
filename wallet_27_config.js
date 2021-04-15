@@ -1,1 +1,1 @@
-var mnemonic = "hybrid media keen help margin patch antique pull write family reform gym";
+var mnemonic = "adjust cake hair food scorpion flight stand fabric hero inflict dose arch";

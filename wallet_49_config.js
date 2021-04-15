@@ -1,1 +1,1 @@
-var mnemonic = "position salad warm hunt aerobic chuckle riot discover lonely borrow portion first";
+var mnemonic = "gym ill over cement brush bless abuse toss install later caught afraid";

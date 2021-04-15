@@ -1,1 +1,1 @@
-var mnemonic = "solid rain naive sheriff amount above despair easy narrow must frost snake";
+var mnemonic = "wedding dragon gasp cart start column mango dutch cross bamboo scene lonely";

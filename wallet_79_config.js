@@ -1,1 +1,1 @@
-var mnemonic = "never check margin ladder toddler employ stone frozen absent neither sand luxury";
+var mnemonic = "wasp polar resemble scrap bind soul spatial electric such domain curtain detail";

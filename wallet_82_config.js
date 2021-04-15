@@ -1,1 +1,1 @@
-var mnemonic = "apart athlete rice never mix copper hire fish alpha network tragic gym";
+var mnemonic = "iron scare uncover quiz donor pact assault ramp attitude like wine hint";

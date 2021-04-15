@@ -1,1 +1,1 @@
-var mnemonic = "when bulk you riot lunch wreck fantasy dose swim rose abuse toast";
+var mnemonic = "survey crash picnic feed sense dash web stable chimney equip relax inflict";

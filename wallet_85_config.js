@@ -1,1 +1,1 @@
-var mnemonic = "fancy trash sort slow reunion first sure insect coconut like fog combine";
+var mnemonic = "innocent help mosquito core announce cactus dish clay skin magnet real sleep";

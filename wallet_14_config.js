@@ -1,1 +1,1 @@
-var mnemonic = "park zoo element predict student mother planet super clinic radio sting burden";
+var mnemonic = "always pig cable brass balance olympic dismiss foster derive damp stereo time";

@@ -1,1 +1,1 @@
-var mnemonic = "future quick clown erosion attend someone lobster finger knock trust become intact";
+var mnemonic = "camera dog twist bar clutch crisp social despair bronze property shine paddle";

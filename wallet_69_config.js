@@ -1,1 +1,1 @@
-var mnemonic = "hotel inspire thrive claw can fee pluck flight gadget useless security people";
+var mnemonic = "subject fashion demand firm shoot card yard merit clerk expire arctic empty";

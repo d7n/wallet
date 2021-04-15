@@ -1,1 +1,1 @@
-var mnemonic = "canoe apology cook exist dream always useful ocean flush butter tackle allow";
+var mnemonic = "exercise ginger gas rose give praise negative fabric romance bind super patient";

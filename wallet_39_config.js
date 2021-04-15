@@ -1,1 +1,1 @@
-var mnemonic = "trip begin immense assist melt tobacco wage present ask pride apple hip";
+var mnemonic = "dream relief nest famous arena urban clock chapter job senior bus spawn";

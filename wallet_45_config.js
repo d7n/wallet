@@ -1,1 +1,1 @@
-var mnemonic = "bleak vacuum crucial series garment drama laugh amount that capable vague jar";
+var mnemonic = "question trash organ above security curtain turn round air lecture sure wolf";

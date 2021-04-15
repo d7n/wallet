@@ -1,1 +1,1 @@
-var mnemonic = "control insane grit frost flush chicken cream entry own depend hour viable";
+var mnemonic = "local direct napkin festival card carpet economy walk box swing ugly machine";

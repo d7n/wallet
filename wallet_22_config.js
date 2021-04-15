@@ -1,1 +1,1 @@
-var mnemonic = "spin frost black loyal display bring opera garment figure pioneer mountain torch";
+var mnemonic = "pretty flower balcony taxi sadness action raven silver funny enable cloth slab";

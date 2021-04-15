@@ -1,1 +1,1 @@
-var mnemonic = "vocal usage lawn beef behave sphere opinion peasant woman demand adjust leader";
+var mnemonic = "ride sting struggle film detect derive assume trash aisle scan enrich current";

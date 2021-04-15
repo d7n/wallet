@@ -1,1 +1,1 @@
-var mnemonic = "reject tragic sunset blame gloom decline network liberty hip social crush tired";
+var mnemonic = "vacant drift similar drama embrace begin actual online school pause spin sketch";

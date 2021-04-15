@@ -1,1 +1,1 @@
-var mnemonic = "opinion device jump music portion stool initial sing wide swear forget warrior";
+var mnemonic = "debris inflict frozen describe much perfect library glory wheel creek busy uniform";

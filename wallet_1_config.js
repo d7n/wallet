@@ -1,1 +1,1 @@
-var mnemonic = "obvious entire almost glass split inform raise panel wine ethics ahead enrich";
+var mnemonic = "march ugly raise foam test thing rich lady possible start day battle";

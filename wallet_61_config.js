@@ -1,1 +1,1 @@
-var mnemonic = "reduce sketch surge own earn man oil aware need silly they opera";
+var mnemonic = "student venture essay exchange pony vault dust creek slot deputy twenty glad";

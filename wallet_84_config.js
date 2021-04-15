@@ -1,1 +1,1 @@
-var mnemonic = "future confirm sponsor fatal object broken vocal luxury recipe symptom hope fee";
+var mnemonic = "effort shield finish stove space captain uncle seven slam what busy hint";

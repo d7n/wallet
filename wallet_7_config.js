@@ -1,1 +1,1 @@
-var mnemonic = "cloud just appear crash tornado crane slot repair settle fruit inquiry claw";
+var mnemonic = "raw north dumb wide west fringe hazard bean virtual hen modify skate";

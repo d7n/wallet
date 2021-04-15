@@ -1,1 +1,1 @@
-var mnemonic = "lyrics letter pottery curious luggage long panic youth speed legend tent tilt";
+var mnemonic = "south deer merge stove urban lawn only oxygen orchard myth clutch token";

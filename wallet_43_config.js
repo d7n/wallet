@@ -1,1 +1,1 @@
-var mnemonic = "essay sausage shiver myth churn warrior critic torch cross fame soup spread";
+var mnemonic = "present receive solution manual monster junior ball never perfect useful dash aspect";

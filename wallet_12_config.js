@@ -1,1 +1,1 @@
-var mnemonic = "stairs shallow finish spirit since define open catch now hidden famous ridge";
+var mnemonic = "fragile cradle orchard blade kitten super kitchen cancel credit state toy business";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct pass parade sniff weapon trend tree chat sock dune tent range";
+var mnemonic = "brief argue candy melt awful anchor call laundry cram erode audit appear";

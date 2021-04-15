@@ -1,1 +1,1 @@
-var mnemonic = "sting champion height vintage asthma discover oil cage robot bunker zero prosper";
+var mnemonic = "broccoli skull notable inner little library federal lunch divide forest puppy key";

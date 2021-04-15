@@ -1,1 +1,1 @@
-var mnemonic = "target pupil birth math popular offer subject surge barrel range sound autumn";
+var mnemonic = "lucky crumble margin ask boss matrix load crash nasty effort gas portion";

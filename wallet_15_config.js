@@ -1,1 +1,1 @@
-var mnemonic = "olive caught ostrich pride field narrow wedding large void inner caution march";
+var mnemonic = "list pole jump chalk spot receive large stage plug drink demise broom";

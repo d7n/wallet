@@ -1,1 +1,1 @@
-var mnemonic = "body forward trial base thumb surround phone task entire skirt then marine";
+var mnemonic = "blue electric oak tone moon hollow blood kangaroo suit agent clutch tower";

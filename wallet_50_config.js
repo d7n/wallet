@@ -1,1 +1,1 @@
-var mnemonic = "gap depart defense gentle explain aunt stadium govern build talent inner test";
+var mnemonic = "trophy pill wheel lake hedgehog supreme banner tonight shine loyal stadium coconut";

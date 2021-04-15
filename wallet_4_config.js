@@ -1,1 +1,1 @@
-var mnemonic = "utility salon toss hazard wagon matrix unveil scale brief seat electric crunch";
+var mnemonic = "thought depend deliver alley burden arch damage rotate broccoli baby citizen tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "say east meadow wear luxury business gym basic invest broken master ozone";
+var mnemonic = "supply scrub category property noodle civil arrow march stumble innocent all oblige";

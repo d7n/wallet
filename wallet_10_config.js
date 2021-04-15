@@ -1,1 +1,1 @@
-var mnemonic = "submit dial armed notable offer ugly vanish keep clap various bean mind";
+var mnemonic = "festival opinion wrong tuition naive rather benefit section network dream winner make";

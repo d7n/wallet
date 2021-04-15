@@ -1,1 +1,1 @@
-var mnemonic = "slogan venue result blood genius urban wreck loud hub keep salt foot";
+var mnemonic = "design pause sponsor sweet boost rib element side issue exile spell moral";

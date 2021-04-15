@@ -1,1 +1,1 @@
-var mnemonic = "feel check enjoy vendor ethics undo diagram open plate key stock betray";
+var mnemonic = "oak inmate first assume top toy stadium old vocal bacon useful genius";

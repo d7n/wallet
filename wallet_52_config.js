@@ -1,1 +1,1 @@
-var mnemonic = "pride tip present prosper blood empty category donkey table solution physical spring";
+var mnemonic = "logic two cruel believe later shove champion copy actor trouble opinion jar";

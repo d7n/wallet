@@ -1,1 +1,1 @@
-var mnemonic = "trigger cake ability horror unlock legal boil cart business length idea sausage";
+var mnemonic = "butter hero gate viable rookie canoe near crawl impulse perfect token syrup";
