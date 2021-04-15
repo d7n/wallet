@@ -1,1 +1,1 @@
-var mnemonic = "west avoid ask same dismiss judge lumber eight disease hover orbit change";
+var mnemonic = "police mammal chimney column erase tornado rare outside sail barrel lunar rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "menu machine slender fatigue prison leader quantum fork athlete room dove sun";
+var mnemonic = "virtual predict chase skull potato leisure street thunder print sugar claw modify";

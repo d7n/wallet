@@ -1,1 +1,1 @@
-var mnemonic = "inner wolf receive faint way slam shadow later someone abandon silver review";
+var mnemonic = "card acoustic express target general essence ranch airport convince render broken split";

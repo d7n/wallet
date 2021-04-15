@@ -1,1 +1,1 @@
-var mnemonic = "leg pizza advice insect hurt donate day slight occur forward frost grace";
+var mnemonic = "relief broom increase cabin grunt school romance must frequent submit chest quick";

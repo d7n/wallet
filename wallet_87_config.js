@@ -1,1 +1,1 @@
-var mnemonic = "bench awake media tattoo escape flag fence bean slide soda zoo actress";
+var mnemonic = "nurse help oyster hungry multiply canyon best orange helmet tree sign dial";

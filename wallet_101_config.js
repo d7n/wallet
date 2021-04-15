@@ -1,1 +1,1 @@
-var mnemonic = "party universe gaze print there guess chest runway repeat miss feed aerobic";
+var mnemonic = "allow obscure lamp panic rescue angry gorilla result produce cloud exclude whip";

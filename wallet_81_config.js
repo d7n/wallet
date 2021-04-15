@@ -1,1 +1,1 @@
-var mnemonic = "fossil opera what offer drive blue dinner distance dress defense stay surge";
+var mnemonic = "betray strike target close snake attend spring parade add shy taxi choose";

@@ -1,1 +1,1 @@
-var mnemonic = "inform since picture miracle gym gentle skull ride fatal busy robust scout";
+var mnemonic = "funny deny jar stove expect winner cliff grocery script motion pony lion";

@@ -1,1 +1,1 @@
-var mnemonic = "pole box board used army viable school august extend motion smart mango";
+var mnemonic = "spring brown umbrella machine toe zebra struggle wire genre february nerve shiver";

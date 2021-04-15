@@ -1,1 +1,1 @@
-var mnemonic = "vendor metal arena husband sure abandon wool book crack leopard way special";
+var mnemonic = "toss sleep lyrics add tourist glory rabbit sphere slam deal become over";

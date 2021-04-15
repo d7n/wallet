@@ -1,1 +1,1 @@
-var mnemonic = "gold hospital asthma sustain rhythm decorate arch rail chalk nephew crash already";
+var mnemonic = "perfect evoke blush bike stage program engage ecology input copper scorpion elephant";

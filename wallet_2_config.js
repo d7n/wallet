@@ -1,1 +1,1 @@
-var mnemonic = "fade crowd smart display either six castle saddle hole thank seed umbrella";
+var mnemonic = "royal swallow road example shaft disagree truth black cloud snow solar acid";

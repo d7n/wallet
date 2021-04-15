@@ -1,1 +1,1 @@
-var mnemonic = "this news peasant cigar crouch raise discover coin electric demand issue junior";
+var mnemonic = "perfect patch churn rich nose gorilla imitate milk casual always depart uniform";

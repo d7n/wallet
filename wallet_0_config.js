@@ -1,1 +1,1 @@
-var mnemonic = "hello strategy venture nice lava identify knee output brisk sorry cattle uncle";
+var mnemonic = "holiday sunny inside antique sweet cat tonight shoe physical bitter disagree confirm";

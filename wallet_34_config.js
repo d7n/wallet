@@ -1,1 +1,1 @@
-var mnemonic = "rather diet spread solid creek trumpet mango sand example glass fence ten";
+var mnemonic = "tiger foot layer above six squeeze venue kitten primary salute hurt obey";

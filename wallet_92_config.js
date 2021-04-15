@@ -1,1 +1,1 @@
-var mnemonic = "push sadness meadow hood atom giraffe dolphin replace north search time certain";
+var mnemonic = "find scrap squirrel invite teach reopen fatal come account silk deal sweet";

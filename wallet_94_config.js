@@ -1,1 +1,1 @@
-var mnemonic = "vanish pause athlete coil emotion flash exhibit false round laptop bridge match";
+var mnemonic = "boss organ juice current angle live toss indoor tell car ordinary scrub";

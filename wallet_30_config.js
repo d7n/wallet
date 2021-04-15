@@ -1,1 +1,1 @@
-var mnemonic = "humor easy helmet picture emerge bird material trip join animal useless crane";
+var mnemonic = "silver used limit mistake mention soda lecture green scout stereo mail door";

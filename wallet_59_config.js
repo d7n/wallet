@@ -1,1 +1,1 @@
-var mnemonic = "imitate survey flee reveal example knock boil put word donate degree size";
+var mnemonic = "change good borrow farm snack rigid hidden east what lyrics decide faint";

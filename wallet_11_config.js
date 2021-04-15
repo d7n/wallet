@@ -1,1 +1,1 @@
-var mnemonic = "jewel able ability turkey lens sing taxi april bird state vehicle sorry";
+var mnemonic = "spray machine end benefit million genuine laundry they random siege bulb fashion";

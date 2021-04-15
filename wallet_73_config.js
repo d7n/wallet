@@ -1,1 +1,1 @@
-var mnemonic = "glad meat spatial brown detect resource crime please budget lava acquire inflict";
+var mnemonic = "legal leopard sweet during frame tunnel barrel aspect deposit pipe voyage skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar input sound hen embrace tennis stable soft chapter miracle apart present";
+var mnemonic = "enhance trend foot west piece monster galaxy uniform laundry bracket blood weasel";

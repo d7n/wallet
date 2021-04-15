@@ -1,1 +1,1 @@
-var mnemonic = "crystal cricket notice patch emotion decide still three split duty youth bounce";
+var mnemonic = "learn cloud park coil chase badge top cream leader celery fork boat";

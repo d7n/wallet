@@ -1,1 +1,1 @@
-var mnemonic = "invite island output ancient raise material choice toast trade wagon ball box";
+var mnemonic = "derive pistol legend spoon cycle method hood melt exile finish ability decide";

@@ -1,1 +1,1 @@
-var mnemonic = "version awesome video pig april vanish project chimney parrot hair truly glass";
+var mnemonic = "lottery black view radio rare intact leave mind cheese duty approve amazing";

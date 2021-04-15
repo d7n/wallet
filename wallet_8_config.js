@@ -1,1 +1,1 @@
-var mnemonic = "casual slim hard mechanic shoot glare distance receive fruit usage eternal talent";
+var mnemonic = "disagree damp affair kite traffic grid play play argue pear fresh cram";

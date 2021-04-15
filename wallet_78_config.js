@@ -1,1 +1,1 @@
-var mnemonic = "price need squirrel salon wealth travel honey camp carbon nominee fox dove";
+var mnemonic = "unknown cherry harvest brain solar velvet wing pilot orchard click dance clip";

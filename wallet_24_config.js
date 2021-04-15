@@ -1,1 +1,1 @@
-var mnemonic = "eager horn detect cube bid maze peace blood gallery double isolate speak";
+var mnemonic = "slab pitch side bronze wink combine pitch increase actress company cancel alter";

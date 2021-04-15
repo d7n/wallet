@@ -1,1 +1,1 @@
-var mnemonic = "draft industry caught embrace drive survey predict congress usage certain tail lucky";
+var mnemonic = "travel where jealous clog level firm start derive shed heart cute tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch whisper cinnamon motor loud rifle like uphold eye demand warm waste";
+var mnemonic = "guess year surprise open blossom relief code wisdom kick unknown brisk eagle";

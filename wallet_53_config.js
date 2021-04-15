@@ -1,1 +1,1 @@
-var mnemonic = "inspire engage media shock glad climb armed use nature imitate stairs receive";
+var mnemonic = "estate assist inner laugh crazy dish ozone sting aerobic cabin eager casino";

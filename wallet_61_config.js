@@ -1,1 +1,1 @@
-var mnemonic = "stable season response clog cheap plug during decline dust either shy enough";
+var mnemonic = "vital come gaze giggle cotton dune castle intact name mail enrich swamp";

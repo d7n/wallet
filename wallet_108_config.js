@@ -1,1 +1,1 @@
-var mnemonic = "crunch furnace armor type good chest observe movie common caught parade disagree";
+var mnemonic = "satisfy table deny notable exhibit increase quote extend upon verb danger jaguar";

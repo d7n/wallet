@@ -1,1 +1,1 @@
-var mnemonic = "brave sign silk walk expand hawk father spike under coin kingdom weather";
+var mnemonic = "join mention cloth holiday wall soldier jump audit envelope poverty pluck toe";

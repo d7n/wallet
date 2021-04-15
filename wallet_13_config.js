@@ -1,1 +1,1 @@
-var mnemonic = "page swarm family develop resemble much design improve love shadow post tattoo";
+var mnemonic = "tennis repair empower approve give face great have frequent joke cannon solar";

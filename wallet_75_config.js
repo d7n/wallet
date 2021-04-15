@@ -1,1 +1,1 @@
-var mnemonic = "alone black cereal assume review lava diagram grid buyer believe wall mercy";
+var mnemonic = "color eager lunch expire tube elder oxygen crystal add loyal monkey option";

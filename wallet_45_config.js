@@ -1,1 +1,1 @@
-var mnemonic = "chapter false soldier skill bean salt nest detail skill fence welcome violin";
+var mnemonic = "include cable field then width bargain gentle plug unhappy question state soldier";

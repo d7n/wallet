@@ -1,1 +1,1 @@
-var mnemonic = "issue wheel icon seat lucky spatial ignore matrix feature slush organ shiver";
+var mnemonic = "orchard neutral cheap educate author rug hour wife tortoise accident chuckle later";

@@ -1,1 +1,1 @@
-var mnemonic = "thought erupt dash enemy cruel club strike man correct word foam post";
+var mnemonic = "kitten violin hen guess slow pitch will draft leg junior useful squeeze";

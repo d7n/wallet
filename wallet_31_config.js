@@ -1,1 +1,1 @@
-var mnemonic = "convince dinner guitar essay priority tissue prison praise payment drama ginger pilot";
+var mnemonic = "teach comic program unknown fold rib syrup evoke hunt chapter chair grid";

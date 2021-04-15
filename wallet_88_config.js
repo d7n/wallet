@@ -1,1 +1,1 @@
-var mnemonic = "volcano ski extend mutual chaos grass bench student night number ancient suspect";
+var mnemonic = "jump issue attitude broken crew defense diesel fox ugly correct object art";

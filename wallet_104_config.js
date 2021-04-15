@@ -1,1 +1,1 @@
-var mnemonic = "sun mesh candy own stone recycle toss edge dune gift used cube";
+var mnemonic = "once tenant bomb initial blouse family plunge wish rule torch leg amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "town already prefer stumble large neither round mistake easily few light hint";
+var mnemonic = "wrap below pole milk waste taxi alarm venture pizza lobster bind ensure";

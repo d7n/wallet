@@ -1,1 +1,1 @@
-var mnemonic = "toilet biology humor picnic half february thought treat element alcohol sell sunset";
+var mnemonic = "smile second rotate until need risk keep brother decade flavor hat curve";

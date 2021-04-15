@@ -1,1 +1,1 @@
-var mnemonic = "audit witness clap grace uncover sense banner wet ticket glare bus oval";
+var mnemonic = "frame alley will account blanket square tuna coyote claw comfort retire plastic";

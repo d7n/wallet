@@ -1,1 +1,1 @@
-var mnemonic = "motion reject figure current sort base behind give ordinary lobster garden engage";
+var mnemonic = "question that foam patrol gentle erase chapter decade drill supply approve bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "render pass tomato ring insect canvas what index style soap owner table";
+var mnemonic = "antique put unfair near used label void travel ginger diary slot expose";

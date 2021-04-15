@@ -1,1 +1,1 @@
-var mnemonic = "rule melt merit auto west diamond radar gauge bulk swim crane grow";
+var mnemonic = "edge timber suit refuse chronic post furnace stool pipe flip choose artefact";

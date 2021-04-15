@@ -1,1 +1,1 @@
-var mnemonic = "blast amused piano fault bargain maid feature tuition purpose truth actual trap";
+var mnemonic = "company enact mind beyond artist avoid riot cereal cluster gown coral zoo";

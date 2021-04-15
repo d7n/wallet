@@ -1,1 +1,1 @@
-var mnemonic = "mystery clutch case climb swim world raise announce seek spawn fiscal reject";
+var mnemonic = "fuel tip squirrel dolphin pool record argue reward pretty cotton humor blush";

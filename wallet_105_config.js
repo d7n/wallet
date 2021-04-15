@@ -1,1 +1,1 @@
-var mnemonic = "sunset wheel holiday cigar sure social scene salon catalog desk material clown";
+var mnemonic = "angle entire soldier chair uphold height way ghost spy banana clarify fetch";

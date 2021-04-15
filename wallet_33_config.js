@@ -1,1 +1,1 @@
-var mnemonic = "february isolate avoid eye exhaust practice stem observe gentle valve rifle green";
+var mnemonic = "twin nose fortune own invite tunnel humble turkey armed frog allow blind";

@@ -1,1 +1,1 @@
-var mnemonic = "tone during mistake base animal badge pencil hedgehog trouble grab trial critic";
+var mnemonic = "debate seminar cake state three slender churn miss kit odor slender maple";

@@ -1,1 +1,1 @@
-var mnemonic = "above torch rival tree vacant current satisfy acoustic sting scale question diary";
+var mnemonic = "ketchup normal enter thumb girl royal small join review key clown drive";

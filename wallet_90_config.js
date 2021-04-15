@@ -1,1 +1,1 @@
-var mnemonic = "eye motion stand ensure mandate dash recall knee vivid real noise south";
+var mnemonic = "sibling reopen soul unusual broccoli strike soon space rib fit faith make";

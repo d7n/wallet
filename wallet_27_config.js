@@ -1,1 +1,1 @@
-var mnemonic = "zoo body grocery believe basket anger frown marble inform assault unfair still";
+var mnemonic = "stuff devote analyst dilemma rally animal evolve follow churn skull flavor month";

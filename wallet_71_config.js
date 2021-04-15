@@ -1,1 +1,1 @@
-var mnemonic = "sister ketchup donate choice front mean patient adult bacon bonus local gun";
+var mnemonic = "robust claw you power tuna select steel spy gate grocery month game";

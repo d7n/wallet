@@ -1,1 +1,1 @@
-var mnemonic = "brother spring tell borrow farm burst crystal survey situate basket dad dentist";
+var mnemonic = "game couple safe dove like account ridge track mind idea comfort wheat";

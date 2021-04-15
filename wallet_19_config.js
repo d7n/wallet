@@ -1,1 +1,1 @@
-var mnemonic = "crash whisper crouch vague festival mass aisle combine shield attend predict noble";
+var mnemonic = "pact front warrior clown mouse sad tribe fat wing electric afraid pen";

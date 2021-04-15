@@ -1,1 +1,1 @@
-var mnemonic = "harbor near maid orbit hockey identify coyote property slight gate skin update";
+var mnemonic = "hurt eternal hill expand still royal spirit way beef opinion dress sunny";

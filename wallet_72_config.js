@@ -1,1 +1,1 @@
-var mnemonic = "spirit main this funny wife name wood glove polar desk rival gym";
+var mnemonic = "sort insane visit clog kitchen fall amount caught marble lucky nephew clarify";

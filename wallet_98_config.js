@@ -1,1 +1,1 @@
-var mnemonic = "shove charge blur head opinion hawk frog rather climb scorpion connect divorce";
+var mnemonic = "tonight drop riot gorilla twenty honey climb announce cereal buyer thank sad";

@@ -1,1 +1,1 @@
-var mnemonic = "forest settle desert imitate cattle liquid strategy inmate dove admit home trust";
+var mnemonic = "fun chicken used notable copy naive beach swear frog coffee shallow december";

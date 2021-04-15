@@ -1,1 +1,1 @@
-var mnemonic = "fault unknown neck warm awake leave salon cable early path main senior";
+var mnemonic = "vault next clog swamp tank bonus balance blue prevent found letter neglect";

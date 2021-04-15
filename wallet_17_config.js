@@ -1,1 +1,1 @@
-var mnemonic = "great earn call tornado cushion desk web public right tag warm reform";
+var mnemonic = "spin poverty capable depend mountain fashion script supreme original lake buffalo rice";

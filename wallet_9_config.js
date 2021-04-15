@@ -1,1 +1,1 @@
-var mnemonic = "expand sell since weekend helmet silent toe swallow enemy misery mean seat";
+var mnemonic = "match onion master behind poverty hospital antenna poem random also orphan situate";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase seat plastic arch sister clutch jelly claim village rescue beef sail";
+var mnemonic = "much prosper guilt cart combine danger there pattern web coconut topple gloom";

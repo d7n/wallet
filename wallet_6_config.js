@@ -1,1 +1,1 @@
-var mnemonic = "pilot tobacco donkey hunt old ethics young shy ability gloom stadium liar";
+var mnemonic = "ketchup cost flavor come eye city forward update carry surround exhibit stadium";

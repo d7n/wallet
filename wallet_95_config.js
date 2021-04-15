@@ -1,1 +1,1 @@
-var mnemonic = "tunnel arena address click absent salad torch then birth abandon indoor access";
+var mnemonic = "orchard auto notable venture canyon bind cannon east have muffin report ritual";

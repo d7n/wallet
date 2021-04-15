@@ -1,1 +1,1 @@
-var mnemonic = "crucial swamp antenna like maze dance suggest plastic labor lock unlock diamond";
+var mnemonic = "motor lemon caught under churn tooth ticket demand series jewel million like";

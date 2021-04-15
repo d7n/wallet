@@ -1,1 +1,1 @@
-var mnemonic = "brave wealth type address embody large shy project term gift chicken excuse";
+var mnemonic = "together document famous often trap ship renew stick mixed among diagram web";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal clip silk citizen bounce inquiry apology barrel clown coral jealous kiwi";
+var mnemonic = "little siege kite orphan better aunt bulk coconut celery hockey prison say";

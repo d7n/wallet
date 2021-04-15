@@ -1,1 +1,1 @@
-var mnemonic = "cereal expire lock order motion resource travel diet census chief private detect";
+var mnemonic = "velvet book abstract recycle shove diamond spare pulse profit skill wet organ";

@@ -1,1 +1,1 @@
-var mnemonic = "flush helmet session conduct city elephant ride element inspire hedgehog midnight thrive";
+var mnemonic = "tackle fluid lamp wage cheap limit teach shed anchor eager attack dilemma";

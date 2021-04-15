@@ -1,1 +1,1 @@
-var mnemonic = "since garage laundry lucky remain same must aerobic hello insane cement series";
+var mnemonic = "deputy stay armed hover silly skin gather light arena chef armed vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "beach link home steak silly input era matrix view rebuild ignore worry";
+var mnemonic = "trick exile capable swallow increase aerobic member vocal aware cave casino level";

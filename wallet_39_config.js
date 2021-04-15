@@ -1,1 +1,1 @@
-var mnemonic = "relief design biology pony orbit volcano increase window jeans salute network imitate";
+var mnemonic = "taste advance medal spray resemble core trial noodle follow dilemma gasp own";

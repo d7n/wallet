@@ -1,1 +1,1 @@
-var mnemonic = "clog mystery paper cactus rich wasp wife portion label orphan imitate pole";
+var mnemonic = "magnet toddler primary render dawn bulb exist cargo early gauge develop comfort";

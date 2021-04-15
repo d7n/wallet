@@ -1,1 +1,1 @@
-var mnemonic = "advice rare bone melody design ensure genre patrol clutch ordinary stay because";
+var mnemonic = "sock lab tape fame term blanket fashion chunk brother protect grain winter";

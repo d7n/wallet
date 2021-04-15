@@ -1,1 +1,1 @@
-var mnemonic = "crowd gas ticket rookie example buffalo sadness hunt master orient exist viable";
+var mnemonic = "crucial industry hollow object catalog flat punch dumb toast print mutual genuine";

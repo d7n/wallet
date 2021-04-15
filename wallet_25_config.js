@@ -1,1 +1,1 @@
-var mnemonic = "ensure enhance equal express company among scrub air seminar immune twice tip";
+var mnemonic = "chicken canal glue diet grocery choose immune people face dentist defy draft";

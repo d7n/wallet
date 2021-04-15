@@ -1,1 +1,1 @@
-var mnemonic = "one sword enable ability announce sad observe hero project pole anxiety cherry";
+var mnemonic = "note glide nose tilt market maximum patient timber tube swing stereo invite";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient close sight exist arrest fame girl nuclear helmet woman leisure smooth";
+var mnemonic = "rack kingdom call rival antenna observe farm sausage bundle deputy angry frame";

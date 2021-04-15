@@ -1,1 +1,1 @@
-var mnemonic = "legend ladder grab lake car weather twelve cement leader abstract shrug walnut";
+var mnemonic = "shove coyote file caution apology there paddle thank claw correct next exile";

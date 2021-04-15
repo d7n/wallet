@@ -1,1 +1,1 @@
-var mnemonic = "filter shuffle program indoor mansion immune weasel stage olive poet quantum year";
+var mnemonic = "praise wet bulk door always section comfort vessel off dolphin guard enable";

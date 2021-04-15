@@ -1,1 +1,1 @@
-var mnemonic = "verify avocado ranch plug fog claim dizzy invite ladder tomorrow term depth";
+var mnemonic = "surprise ship valve apple crazy talk million happy injury into high wrong";

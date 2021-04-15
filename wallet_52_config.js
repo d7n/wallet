@@ -1,1 +1,1 @@
-var mnemonic = "middle candy letter lesson pilot clog crack find depart demise coil betray";
+var mnemonic = "rifle swarm dice receive work either vacuum fruit myth path jelly middle";

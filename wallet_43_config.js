@@ -1,1 +1,1 @@
-var mnemonic = "blood arm risk excuse final hedgehog mix double drop swap cereal pipe";
+var mnemonic = "feed bread hunt entire water scout argue trade scrub science zero upgrade";

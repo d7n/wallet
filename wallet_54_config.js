@@ -1,1 +1,1 @@
-var mnemonic = "safe wild rhythm language apple grit cupboard whisper choose affair soup knife";
+var mnemonic = "zone month grid dove plunge assault afford please hip monkey chimney fit";

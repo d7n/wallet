@@ -1,1 +1,1 @@
-var mnemonic = "custom good blade deliver cruise code quit season alarm connect alert wisdom";
+var mnemonic = "wife cool spawn cook minor umbrella dolphin cage border split undo color";

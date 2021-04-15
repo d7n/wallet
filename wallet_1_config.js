@@ -1,1 +1,1 @@
-var mnemonic = "useful fog alien ring face hour wing moon book globe express merge";
+var mnemonic = "struggle inside mistake bitter country hawk mesh steak airport clean grant sphere";

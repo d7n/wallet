@@ -1,1 +1,1 @@
-var mnemonic = "divorce brain dose wave symbol gun rebuild game carbon nose baby kidney";
+var mnemonic = "flat fine squeeze scorpion veteran divert ketchup struggle misery skull call method";
