@@ -1,1 +1,1 @@
-var mnemonic = "cake they junk maid wisdom chuckle keep board media gift barely wedding";
+var mnemonic = "oblige drill know exit genius hedgehog public ribbon retreat session slow hello";

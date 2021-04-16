@@ -1,1 +1,1 @@
-var mnemonic = "used robot cover harvest story craft humor noise work give idle amazing";
+var mnemonic = "weasel voice basket issue emotion jump cannon language hidden traffic elevator muffin";

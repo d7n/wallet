@@ -1,1 +1,1 @@
-var mnemonic = "agent extra grow elephant legend guitar loyal ignore defy midnight isolate blood";
+var mnemonic = "jungle skate easily retreat tragic absurd lecture kid panic outdoor chapter eight";

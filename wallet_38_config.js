@@ -1,1 +1,1 @@
-var mnemonic = "insect caught such artist joke bracket physical hope little tuna tribe speed";
+var mnemonic = "okay pencil degree protect novel traffic wet accuse version bounce ripple bulk";

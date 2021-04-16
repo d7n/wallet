@@ -1,1 +1,1 @@
-var mnemonic = "chunk tilt fashion medal volume bleak empty appear cherry tonight book bridge";
+var mnemonic = "shoe tomorrow damp mule canyon pluck magnet couch organ shove guitar lamp";

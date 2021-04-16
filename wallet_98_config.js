@@ -1,1 +1,1 @@
-var mnemonic = "tiny concert ask much wife apart chunk gown deny plug annual remind";
+var mnemonic = "develop asset duty venue office dilemma anger emotion unit heart method elite";

@@ -1,1 +1,1 @@
-var mnemonic = "desert act sphere exist relax nest silly snake boost tuna math woman";
+var mnemonic = "nuclear bread toy night lion remind foot mean silver zero comic rent";

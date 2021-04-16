@@ -1,1 +1,1 @@
-var mnemonic = "frozen infant decade fitness trophy answer tortoise alone cable pluck barely author";
+var mnemonic = "reopen blush interest pudding gasp opinion monster salt purity number load ocean";

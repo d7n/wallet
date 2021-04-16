@@ -1,1 +1,1 @@
-var mnemonic = "stadium possible jacket unit sphere soul comic pluck bird spider method picnic";
+var mnemonic = "profit express license unlock blast fine tower room deal actress recall column";

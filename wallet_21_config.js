@@ -1,1 +1,1 @@
-var mnemonic = "general confirm talent prize solution hawk two clay bone bright staff ticket";
+var mnemonic = "suffer ankle tag sword problem sample hood gesture carbon turn juice century";

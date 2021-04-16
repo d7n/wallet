@@ -1,1 +1,1 @@
-var mnemonic = "true grief blossom outer giant valley cancel tell obtain window syrup rather";
+var mnemonic = "mushroom slice fence filter will crush vault soul famous smile deputy what";

@@ -1,1 +1,1 @@
-var mnemonic = "short art cover divert explain illness loop error hunt reform panda page";
+var mnemonic = "abstract worth suggest true ribbon runway rent traffic lift crisp virus wealth";

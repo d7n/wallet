@@ -1,1 +1,1 @@
-var mnemonic = "divert occur marine journey giraffe lamp rude task lazy include large crystal";
+var mnemonic = "adult million grain cargo receive resource ketchup helmet put pull pistol advice";

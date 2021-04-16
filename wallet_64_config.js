@@ -1,1 +1,1 @@
-var mnemonic = "ethics entry prison unfold pretty version play evolve ginger pretty refuse decide";
+var mnemonic = "eyebrow dice axis air witness nut skill crystal antique vintage layer coffee";

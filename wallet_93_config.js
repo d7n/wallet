@@ -1,1 +1,1 @@
-var mnemonic = "grab file cigar labor rally level slice proud trap sunset vocal romance";
+var mnemonic = "during snap risk purity whale orchard pride rigid gold scale nephew card";

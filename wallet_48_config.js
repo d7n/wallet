@@ -1,1 +1,1 @@
-var mnemonic = "snap run volume host sheriff spirit bright material cushion try repeat column";
+var mnemonic = "novel skill wise shrimp desk moral lemon pudding theory hundred off nothing";

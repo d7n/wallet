@@ -1,1 +1,1 @@
-var mnemonic = "runway skill kidney slot cry strategy cloud imitate law modify step off";
+var mnemonic = "know sheriff sick will forward team brother later fiscal success loyal blur";

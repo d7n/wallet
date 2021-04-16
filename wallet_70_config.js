@@ -1,1 +1,1 @@
-var mnemonic = "turkey ring this coach girl assist chair across pond depth second cereal";
+var mnemonic = "laugh cruise tank raw garment castle walk disorder tone race raven cute";

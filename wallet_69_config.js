@@ -1,1 +1,1 @@
-var mnemonic = "fix motion fragile profit brisk convince aim remind humor gasp iron swarm";
+var mnemonic = "never eternal round apart narrow pizza quote depend caution option mobile portion";

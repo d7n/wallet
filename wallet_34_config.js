@@ -1,1 +1,1 @@
-var mnemonic = "guess birth second dove anxiety dad legal record nominee task badge degree";
+var mnemonic = "smart bright cable first obtain coyote now scan parade question hawk couple";

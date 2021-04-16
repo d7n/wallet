@@ -1,1 +1,1 @@
-var mnemonic = "use rigid defy evil frequent hat world tide bless genius camp calm";
+var mnemonic = "song depth unknown word skirt morning type table wink silk dinner close";

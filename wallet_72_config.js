@@ -1,1 +1,1 @@
-var mnemonic = "sustain cancel hurry latin chief ladder snack office long pluck bulk agree";
+var mnemonic = "oblige news inner penalty permit fitness yard demise walk soft rotate guilt";

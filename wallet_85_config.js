@@ -1,1 +1,1 @@
-var mnemonic = "move reward music poet head pond weird cannon this scene window boil";
+var mnemonic = "hope try very release shaft resist dinosaur honey excess scrap marriage attract";

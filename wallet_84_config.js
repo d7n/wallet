@@ -1,1 +1,1 @@
-var mnemonic = "breeze rule input elegant dumb almost name office salon reject hospital vault";
+var mnemonic = "venue garbage tobacco ignore vital slice embrace swarm purse sheriff reunion same";

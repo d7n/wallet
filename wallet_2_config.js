@@ -1,1 +1,1 @@
-var mnemonic = "oil inflict toward twice involve reform cancel hen dutch math snow century";
+var mnemonic = "bind service uncover double deal twice clip napkin brave dragon gather boring";

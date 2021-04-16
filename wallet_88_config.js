@@ -1,1 +1,1 @@
-var mnemonic = "write human employ piece monitor century stool minimum weather coconut jungle dove";
+var mnemonic = "ball tower distance diet exist manual carbon angle logic rotate short orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon ripple chuckle unaware hour planet amount pyramid wave shrimp resemble near";
+var mnemonic = "toward public clog frozen orphan beyond replace clip open twenty middle evoke";

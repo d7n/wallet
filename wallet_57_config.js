@@ -1,1 +1,1 @@
-var mnemonic = "shrug engine cook love square depth pledge example noodle quote breeze live";
+var mnemonic = "involve ladder choice shield charge creek holiday destroy march tobacco shell reveal";

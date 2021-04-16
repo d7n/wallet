@@ -1,1 +1,1 @@
-var mnemonic = "jacket install man pig clinic indicate someone truck gym hurry uncle author";
+var mnemonic = "steel weekend guard differ empower rail color urge curve light picnic other";

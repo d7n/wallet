@@ -1,1 +1,1 @@
-var mnemonic = "roast forget know dawn party february decline list age wasp myth whisper";
+var mnemonic = "acquire audit virtual corn replace average defense hockey actress volcano crisp scorpion";

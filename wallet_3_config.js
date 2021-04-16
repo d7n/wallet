@@ -1,1 +1,1 @@
-var mnemonic = "ceiling brass coil rich size host canal salt modify link dilemma cup";
+var mnemonic = "trade across noble hard wrap luggage collect will invite unfold destroy post";

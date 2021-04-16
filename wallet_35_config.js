@@ -1,1 +1,1 @@
-var mnemonic = "suffer law brisk degree system dwarf amused license more hollow maple crumble";
+var mnemonic = "anger gadget edge festival ordinary shoe shell cry december prize whisper mutual";

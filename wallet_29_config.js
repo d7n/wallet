@@ -1,1 +1,1 @@
-var mnemonic = "run oil auto save live mansion appear treat eternal yard fun enhance";
+var mnemonic = "addict middle field blouse old mechanic know furnace antenna protect piano harsh";

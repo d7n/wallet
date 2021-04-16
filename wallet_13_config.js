@@ -1,1 +1,1 @@
-var mnemonic = "monitor equip dune truly void trade rose between property topple fine distance";
+var mnemonic = "name easily velvet cart permit damage resource thought grace citizen grain track";

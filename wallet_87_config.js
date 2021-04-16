@@ -1,1 +1,1 @@
-var mnemonic = "escape client confirm oak praise net fat inject remove patrol exile eternal";
+var mnemonic = "city embody expire sail rib chalk opera exotic ability health live private";

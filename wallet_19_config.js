@@ -1,1 +1,1 @@
-var mnemonic = "canal find emotion cabin people wash already brand pear lawsuit tongue slice";
+var mnemonic = "surprise bundle animal orange dignity toast mind resource doctor staff source cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "sport cry gift dove smile divide tragic narrow garlic ramp measure carpet";
+var mnemonic = "during remind card board shrug embody parrot athlete mask mixture junk toilet";

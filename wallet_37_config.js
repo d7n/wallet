@@ -1,1 +1,1 @@
-var mnemonic = "erupt cereal asthma minute stuff gaze alter question increase now response canal";
+var mnemonic = "nose select army unknown already polar potato custom equip happy release skill";

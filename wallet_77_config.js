@@ -1,1 +1,1 @@
-var mnemonic = "bullet flight rigid exhibit blouse regret elegant century physical recipe shock solar";
+var mnemonic = "beef eager royal search path survey enter swim stay brave song ethics";

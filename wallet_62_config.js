@@ -1,1 +1,1 @@
-var mnemonic = "coffee blast trouble catch insane plug loop empower ethics dish slide laptop";
+var mnemonic = "door flash cinnamon filter focus review trap dismiss item bulb dune busy";

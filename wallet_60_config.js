@@ -1,1 +1,1 @@
-var mnemonic = "fine bench follow final math idle security citizen tonight mass rug great";
+var mnemonic = "hill owner upon urge hurt column version top borrow spell tourist wave";

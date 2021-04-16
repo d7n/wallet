@@ -1,1 +1,1 @@
-var mnemonic = "dilemma gallery giggle belt warrior suffer ankle license motor buffalo wonder dad";
+var mnemonic = "rally age curious gown quantum range law bargain bounce asthma slight actress";

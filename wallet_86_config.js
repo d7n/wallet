@@ -1,1 +1,1 @@
-var mnemonic = "census afford dust secret veteran topic mixture lend fun similar razor come";
+var mnemonic = "system cactus card giraffe relax math grape case regular sample filter click";

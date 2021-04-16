@@ -1,1 +1,1 @@
-var mnemonic = "cloth test target buyer barrel champion auction suspect run desert arctic rescue";
+var mnemonic = "isolate super enroll dolphin inner child horror ignore wise pledge two love";

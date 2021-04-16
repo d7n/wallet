@@ -1,1 +1,1 @@
-var mnemonic = "prize saddle bottom edge stand poem kid road flame deputy canoe code";
+var mnemonic = "own pause grace tattoo north gap eight wife parent delay loyal chief";

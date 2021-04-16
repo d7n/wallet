@@ -1,1 +1,1 @@
-var mnemonic = "tube coast wrap payment open position ahead display supply garbage story deposit";
+var mnemonic = "cup garden glide venue slow bacon crop cave reason acquire sausage oxygen";

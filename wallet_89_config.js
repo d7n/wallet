@@ -1,1 +1,1 @@
-var mnemonic = "sand tuna mobile ticket mystery private company horror obvious easily pond mesh";
+var mnemonic = "isolate adapt gain repeat hard wagon evolve easily drama consider neutral ahead";

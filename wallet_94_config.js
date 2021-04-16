@@ -1,1 +1,1 @@
-var mnemonic = "rotate tenant twelve toy safe duck income want brush celery jaguar elegant";
+var mnemonic = "thank trip sick pluck claw forum inhale coach again scissors demand subject";

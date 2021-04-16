@@ -1,1 +1,1 @@
-var mnemonic = "transfer dream leader guitar omit brain action sell often planet bullet mule";
+var mnemonic = "always scene goose alarm learn oval garment poverty company umbrella cliff ghost";

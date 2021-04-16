@@ -1,1 +1,1 @@
-var mnemonic = "surround harvest lion pelican grow trumpet flat absorb soup dignity proof turtle";
+var mnemonic = "near mechanic helmet inherit bacon trade leg captain knee current chaos good";

@@ -1,1 +1,1 @@
-var mnemonic = "country cloth wage under wear unit canal delay giraffe excite village cushion";
+var mnemonic = "twin impact make hard trigger useless tell quote funny amazing output shoot";

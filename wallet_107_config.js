@@ -1,1 +1,1 @@
-var mnemonic = "pave fade sport net romance series exit review flee nurse alarm course";
+var mnemonic = "unveil predict sell beyond window ritual demise open rabbit attack runway pause";

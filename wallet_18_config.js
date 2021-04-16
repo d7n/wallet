@@ -1,1 +1,1 @@
-var mnemonic = "summer life rival vocal excuse audit pole sea ramp anxiety vacant pen";
+var mnemonic = "lunar alien elite pattern act skirt industry fee wonder prevent bullet pencil";

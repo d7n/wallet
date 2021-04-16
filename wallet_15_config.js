@@ -1,1 +1,1 @@
-var mnemonic = "drastic siren friend token ensure stem cruel elephant train thrive jeans blade";
+var mnemonic = "pupil crazy ketchup dad food crumble slide dolphin only doctor keen chuckle";

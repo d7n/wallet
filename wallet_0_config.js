@@ -1,1 +1,1 @@
-var mnemonic = "fence mimic machine side fix corn place eternal bundle frozen luggage apple";
+var mnemonic = "once practice grass oppose fault excuse spare board early mystery ask arm";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer echo click glass egg great pelican snow boss captain stairs ice";
+var mnemonic = "accuse suit corn choose win silent phone suffer rug arch priority universe";

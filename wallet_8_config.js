@@ -1,1 +1,1 @@
-var mnemonic = "letter pet flower north huge crime wish pole lamp disagree bargain pool";
+var mnemonic = "crumble return betray argue purpose south onion educate wink float spring ankle";

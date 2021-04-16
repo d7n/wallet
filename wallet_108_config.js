@@ -1,1 +1,1 @@
-var mnemonic = "sustain promote recycle decrease lock bulk repair movie orphan thank cluster stuff";
+var mnemonic = "core pumpkin airport eagle color village memory city account wet sheriff buyer";

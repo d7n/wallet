@@ -1,1 +1,1 @@
-var mnemonic = "movie lion gauge resist sentence holiday witness meat wish soccer flame card";
+var mnemonic = "urge run oppose hurt genuine mandate mountain side fun appear crater grow";

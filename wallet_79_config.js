@@ -1,1 +1,1 @@
-var mnemonic = "air year muscle bread erosion jungle popular photo start raise dwarf avoid";
+var mnemonic = "crumble sock flight length slender heart immune thrive nuclear caught food radar";

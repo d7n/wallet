@@ -1,1 +1,1 @@
-var mnemonic = "crack general border liquid arrest mango panel abstract satoshi agree torch multiply";
+var mnemonic = "cruise escape board popular lunch raise beauty merit battle hover bunker duty";

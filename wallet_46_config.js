@@ -1,1 +1,1 @@
-var mnemonic = "this roof neck under deal pen sentence woman sketch caution option struggle";
+var mnemonic = "waste list ceiling school public claw stairs enroll butter december prevent domain";

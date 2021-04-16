@@ -1,1 +1,1 @@
-var mnemonic = "trick deny hedgehog hover winner south prepare illness wear endless parrot calm";
+var mnemonic = "erode vocal throw mango drama fault expire theory cash settle success easy";

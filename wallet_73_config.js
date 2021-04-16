@@ -1,1 +1,1 @@
-var mnemonic = "east urge youth mouse office battle circle enable spatial team stand bonus";
+var mnemonic = "rather end pony dinosaur peace february engage keen brisk detail magic only";

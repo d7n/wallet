@@ -1,1 +1,1 @@
-var mnemonic = "local express process supreme raise oil elite twist smooth soup wet tent";
+var mnemonic = "ahead frame staff jewel piano number grain fiction siege hunt sing dilemma";

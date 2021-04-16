@@ -1,1 +1,1 @@
-var mnemonic = "erosion uphold street approve false fatal choose phrase curve ghost monitor brown";
+var mnemonic = "recipe course select dwarf urge any render valley fetch already wedding oyster";

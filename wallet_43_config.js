@@ -1,1 +1,1 @@
-var mnemonic = "mimic vocal vanish gentle manual boost census exact giggle best figure nose";
+var mnemonic = "yellow target sleep fantasy obey group switch reunion mind wagon torch wrap";

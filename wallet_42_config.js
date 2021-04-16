@@ -1,1 +1,1 @@
-var mnemonic = "table swarm ripple transfer doll busy auction ensure chuckle venue volcano pattern";
+var mnemonic = "that upgrade mule tourist pupil vibrant decide rather orchard trouble wish notice";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe dance whisper world duty mix track dinosaur retire inquiry enlist blossom";
+var mnemonic = "hood lunar illegal asset squirrel reduce flight need system butter silver client";

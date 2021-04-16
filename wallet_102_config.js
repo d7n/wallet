@@ -1,1 +1,1 @@
-var mnemonic = "atom cement apology awesome gift job chimney ripple wild park inherit veteran";
+var mnemonic = "choice earn carpet stuff size save stuff melody key alone hidden lyrics";

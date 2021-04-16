@@ -1,1 +1,1 @@
-var mnemonic = "raise drastic hip bomb steak drink remember artist nut always into cart";
+var mnemonic = "pioneer parade custom tonight poem lock manage venue oven tribe tree include";

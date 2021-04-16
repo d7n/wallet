@@ -1,1 +1,1 @@
-var mnemonic = "gain genre picture ivory valve bamboo retire face treat mesh plastic cloud";
+var mnemonic = "wreck mad maid domain tide advance vital session airport predict scorpion average";

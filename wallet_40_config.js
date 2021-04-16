@@ -1,1 +1,1 @@
-var mnemonic = "book chuckle floor sudden donkey snow iron split cheap unusual sibling taxi";
+var mnemonic = "draw return barely finger acoustic mushroom story erupt engage vote inject tribe";

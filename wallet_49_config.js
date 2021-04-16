@@ -1,1 +1,1 @@
-var mnemonic = "little science festival witness moon reason north phrase crane flame rebel tunnel";
+var mnemonic = "maple office six airport chest place service cart pact banner clarify present";

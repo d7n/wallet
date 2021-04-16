@@ -1,1 +1,1 @@
-var mnemonic = "recycle rent black timber chief cattle win expose basket profit paper pretty";
+var mnemonic = "wood gallery announce museum scissors brisk almost foil pulse ski develop achieve";

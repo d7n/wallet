@@ -1,1 +1,1 @@
-var mnemonic = "leg nothing farm movie great witness very raven gentle saddle rough volcano";
+var mnemonic = "alcohol law slender gallery track bargain comfort pluck life exchange upgrade scale";

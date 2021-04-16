@@ -1,1 +1,1 @@
-var mnemonic = "couch unhappy address valve three useful whale normal drip obscure seven search";
+var mnemonic = "quiz snow improve ocean area hover lunar sibling dwarf blossom laundry gather";

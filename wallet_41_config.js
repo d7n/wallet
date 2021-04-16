@@ -1,1 +1,1 @@
-var mnemonic = "collect siege bulk hill lift magnet tissue wash cover neck knife before";
+var mnemonic = "grunt unknown fresh caught party cinnamon twin copy forest dance female powder";

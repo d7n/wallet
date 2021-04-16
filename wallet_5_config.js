@@ -1,1 +1,1 @@
-var mnemonic = "often deer whip raise skin spatial maze clump vapor perfect either swarm";
+var mnemonic = "puzzle atom frame flip wheat drink deliver fabric maple boy front number";

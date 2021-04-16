@@ -1,1 +1,1 @@
-var mnemonic = "chef rule phrase sun gentle state wire acid divorce hill alter cradle";
+var mnemonic = "rib raw title clean noble more mosquito error acoustic swing sponsor chalk";

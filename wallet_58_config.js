@@ -1,1 +1,1 @@
-var mnemonic = "gate arrive thumb tobacco session spy mushroom train fit orient priority cable";
+var mnemonic = "monkey fix rich breeze wonder stamp box inside track bird green sting";

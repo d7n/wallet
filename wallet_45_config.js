@@ -1,1 +1,1 @@
-var mnemonic = "hill worry ancient enroll wrestle guilt unusual truth pepper evidence essence depart";
+var mnemonic = "mixture fiber trade six radar case miracle harsh across lawsuit cattle razor";

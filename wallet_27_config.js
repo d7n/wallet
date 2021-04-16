@@ -1,1 +1,1 @@
-var mnemonic = "step congress catch spoon speed mixture expect three where canal hurdle walk";
+var mnemonic = "topic object first tail all away prepare day crack raven asset survey";

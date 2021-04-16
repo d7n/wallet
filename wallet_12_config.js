@@ -1,1 +1,1 @@
-var mnemonic = "wing version valve two dignity illegal slide left fork upset need script";
+var mnemonic = "strategy april simple answer above portion choose wave ranch super decide luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "increase stand dignity junk member old shy trip lawn another van curve";
+var mnemonic = "lion toddler demand dawn lyrics soft paddle silent test trumpet kitten pony";

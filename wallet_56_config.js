@@ -1,1 +1,1 @@
-var mnemonic = "sock whip hazard bone talk beef ugly swing session noble rocket identify";
+var mnemonic = "orient buzz broccoli panel bag black document base misery echo aisle course";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange cream gun bread oval coyote push decide item enter sign ring";
+var mnemonic = "where boost notice private possible sick priority library library room daughter cash";

@@ -1,1 +1,1 @@
-var mnemonic = "when front box stem advance trash viable bamboo awful song clip dawn";
+var mnemonic = "cereal blast estate old wish worry spring eye night sure cushion bullet";

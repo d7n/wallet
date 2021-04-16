@@ -1,1 +1,1 @@
-var mnemonic = "miss tool absurd unable fortune way easily fatigue rebel dream save annual";
+var mnemonic = "enact same glue roof deputy insect section pipe snap easily curious smile";

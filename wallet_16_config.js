@@ -1,1 +1,1 @@
-var mnemonic = "myth remind lounge save alone narrow casual cargo tooth decide present purse";
+var mnemonic = "special nephew spare attitude theory liquid cute derive common bid sniff drink";

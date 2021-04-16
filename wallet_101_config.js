@@ -1,1 +1,1 @@
-var mnemonic = "move stomach rebuild harsh popular fire smooth economy beyond hundred vivid hover";
+var mnemonic = "expose south voice actor boss neglect ritual movie dismiss silent utility cricket";

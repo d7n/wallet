@@ -1,1 +1,1 @@
-var mnemonic = "remind air buffalo blossom weekend arch mask vacant learn talk clog female";
+var mnemonic = "surge stomach obey voyage lunch view wink govern charge borrow blame core";

@@ -1,1 +1,1 @@
-var mnemonic = "urban all token skirt cool when junk unlock case step purchase giraffe";
+var mnemonic = "gym keen rent sustain panel jaguar rubber loan gown faith impose tomato";

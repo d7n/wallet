@@ -1,1 +1,1 @@
-var mnemonic = "banana eye describe park onion guilt culture denial urban spring jelly crush";
+var mnemonic = "motion carpet outer glance junk throw vehicle arctic often crew cushion grape";

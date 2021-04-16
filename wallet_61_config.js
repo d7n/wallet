@@ -1,1 +1,1 @@
-var mnemonic = "kind share quality motion gun scatter carbon rubber oblige asset digital galaxy";
+var mnemonic = "clarify coach turtle truth theme forward link metal pool cycle dirt appear";

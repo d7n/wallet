@@ -1,1 +1,1 @@
-var mnemonic = "same screen control saddle impact what rifle grace control lab vessel trip";
+var mnemonic = "tomato hill column express legal conduct midnight fever remain host very oven";

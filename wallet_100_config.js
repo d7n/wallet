@@ -1,1 +1,1 @@
-var mnemonic = "sleep stick hole furnace parade topic boil coyote message neither quantum game";
+var mnemonic = "leaf among castle sphere machine advance holiday budget power attract egg library";
