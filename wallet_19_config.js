@@ -1,1 +1,1 @@
-var mnemonic = "unusual weird power slice rely modify image attend knock welcome act story";
+var mnemonic = "blade moon prevent sand all still earn dutch door physical dream dumb";

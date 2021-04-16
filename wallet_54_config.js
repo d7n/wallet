@@ -1,1 +1,1 @@
-var mnemonic = "put jewel curtain junk once that pass coach essence oppose excite spoil";
+var mnemonic = "private unfair power huge wrestle trade current punch frog edge unfold game";

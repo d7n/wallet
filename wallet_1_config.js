@@ -1,1 +1,1 @@
-var mnemonic = "item pumpkin ankle fish try voice gate license doll damage book tool";
+var mnemonic = "link deliver siren off firm pride wrist benefit sausage brief cycle kid";

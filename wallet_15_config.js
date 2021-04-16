@@ -1,1 +1,1 @@
-var mnemonic = "market snake say dignity release coast category purchase crush copy mixture velvet";
+var mnemonic = "record stomach shove coin card daring feed december shy knife rocket team";

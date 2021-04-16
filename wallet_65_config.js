@@ -1,1 +1,1 @@
-var mnemonic = "provide cactus used cupboard run muffin cement tackle body price loan flight";
+var mnemonic = "approve deny mushroom leave trend bus sleep away original lounge cactus bread";

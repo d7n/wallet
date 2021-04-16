@@ -1,1 +1,1 @@
-var mnemonic = "citizen exist clerk elegant excite ribbon grit solution sand light soft reflect";
+var mnemonic = "adapt quiz toddler consider cause movie sound first barrel bracket tree daughter";

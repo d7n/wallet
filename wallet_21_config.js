@@ -1,1 +1,1 @@
-var mnemonic = "define excite maximum donate penalty lyrics debate relax hurt isolate tilt vocal";
+var mnemonic = "evidence clever science crowd pulp invite february result silk measure situate regret";

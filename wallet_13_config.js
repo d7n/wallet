@@ -1,1 +1,1 @@
-var mnemonic = "vacuum welcome opinion nature isolate stay size indicate park frame pumpkin library";
+var mnemonic = "tool casual produce jump one group hire simple slide soccer laptop jar";

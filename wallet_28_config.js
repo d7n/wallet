@@ -1,1 +1,1 @@
-var mnemonic = "dynamic decade trash purse gate survey cycle always salmon burden oval farm";
+var mnemonic = "fabric project flame where obscure ostrich update giggle dismiss orbit nation cup";

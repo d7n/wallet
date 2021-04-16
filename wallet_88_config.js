@@ -1,1 +1,1 @@
-var mnemonic = "kingdom thrive waste lawsuit shadow valley habit lake verb casual egg mesh";
+var mnemonic = "like jungle kidney sail soft hood urge roast cage focus shallow degree";

@@ -1,1 +1,1 @@
-var mnemonic = "main citizen swamp cube mimic doctor truly amateur suggest ivory decrease usage";
+var mnemonic = "mixture price spray hip kite wolf imitate ginger leaf uphold van render";

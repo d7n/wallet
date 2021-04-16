@@ -1,1 +1,1 @@
-var mnemonic = "symbol expect already clean globe destroy draft ranch swallow leader blind type";
+var mnemonic = "globe torch choose dutch crack echo throw skate age few oven scan";

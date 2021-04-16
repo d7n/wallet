@@ -1,1 +1,1 @@
-var mnemonic = "behind nice winter wait credit gown lion planet trim crime glove badge";
+var mnemonic = "oil october gravity length immense vendor unhappy physical wasp attend blossom pen";

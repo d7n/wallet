@@ -1,1 +1,1 @@
-var mnemonic = "pass already glory smooth ski animal spatial fragile marine air donkey since";
+var mnemonic = "add rent walnut action club garage reject alter ghost write sad lazy";

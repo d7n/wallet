@@ -1,1 +1,1 @@
-var mnemonic = "extend loud violin penalty today pigeon gown welcome health govern detail cabbage";
+var mnemonic = "tiger hole body offer consider hungry enhance jealous cancel supply rough pencil";

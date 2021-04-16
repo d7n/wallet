@@ -1,1 +1,1 @@
-var mnemonic = "diagram myth exist cliff flavor skirt utility rail turtle churn borrow describe";
+var mnemonic = "throw push sunny orphan dove pave write curve glad equal erosion work";

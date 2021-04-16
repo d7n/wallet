@@ -1,1 +1,1 @@
-var mnemonic = "omit often possible awkward success below nut valve sudden torch quote couple";
+var mnemonic = "palm pear model skirt roast maple prevent clap vibrant weapon hybrid offer";

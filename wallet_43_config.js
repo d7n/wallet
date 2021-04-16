@@ -1,1 +1,1 @@
-var mnemonic = "flip survey edit around action notice stick lend physical panda pumpkin museum";
+var mnemonic = "tank adapt antenna cargo gold upset alley begin increase lottery convince act";

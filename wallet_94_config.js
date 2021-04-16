@@ -1,1 +1,1 @@
-var mnemonic = "emotion reflect eyebrow short develop mixture common traffic front palm wet lazy";
+var mnemonic = "prosper argue six six gain boost increase country park derive dumb dune";

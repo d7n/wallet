@@ -1,1 +1,1 @@
-var mnemonic = "royal bid reopen hammer human reward raw seat century girl cruise burger";
+var mnemonic = "sadness require timber shine bracket sign chest roof bike crater segment blur";

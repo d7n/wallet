@@ -1,1 +1,1 @@
-var mnemonic = "memory brush return donate pilot response pelican pudding slam spread rain dress";
+var mnemonic = "off oak neither ring choose capable supreme mixture insane wasp fall depart";

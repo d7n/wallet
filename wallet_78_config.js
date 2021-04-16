@@ -1,1 +1,1 @@
-var mnemonic = "angle mandate firm broken split dune velvet tape cement region magnet galaxy";
+var mnemonic = "over chunk version correct report embrace cover field chat sentence force pizza";

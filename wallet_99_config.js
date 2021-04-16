@@ -1,1 +1,1 @@
-var mnemonic = "today dinosaur illegal decorate sand fan nice sight puzzle immune virtual slice";
+var mnemonic = "farm aim army spider grocery label unlock zero riot equal wreck crisp";

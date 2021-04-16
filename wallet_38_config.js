@@ -1,1 +1,1 @@
-var mnemonic = "spend traffic dial wire sadness injury business camp cost runway behave second";
+var mnemonic = "half bullet region addict trap improve pipe silly nut maximum mandate valve";

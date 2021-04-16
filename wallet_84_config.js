@@ -1,1 +1,1 @@
-var mnemonic = "online attract magic profit claim famous try chair special little alley carpet";
+var mnemonic = "mechanic genius what enough option view never solution suggest baby umbrella apart";

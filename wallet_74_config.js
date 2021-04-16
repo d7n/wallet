@@ -1,1 +1,1 @@
-var mnemonic = "strong toilet chat liar middle digital soda impact viable thumb pepper lucky";
+var mnemonic = "soft armor lawn hour tribe devote scrub coin cruel century pair crack";

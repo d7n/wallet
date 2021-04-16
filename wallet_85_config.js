@@ -1,1 +1,1 @@
-var mnemonic = "unveil access gather behind sure cool equal warfare warfare engage enable flee";
+var mnemonic = "glad praise physical curve mirror orange plug conduct margin ostrich math pencil";

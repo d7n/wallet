@@ -1,1 +1,1 @@
-var mnemonic = "egg bubble civil combine combine bronze reject leader wave crew aspect ugly";
+var mnemonic = "hawk express science tip fetch area virus van response eagle among option";

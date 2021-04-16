@@ -1,1 +1,1 @@
-var mnemonic = "warfare oven chalk canal move apart foster journey armed seat coral trade";
+var mnemonic = "library wise power catalog mirror tone impose music rapid congress evil correct";

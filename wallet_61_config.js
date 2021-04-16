@@ -1,1 +1,1 @@
-var mnemonic = "warfare stage item car crack key inner diamond concert ecology cabbage attend";
+var mnemonic = "protect album armed later correct avocado whisper boy improve pink churn matrix";

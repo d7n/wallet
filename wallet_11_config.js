@@ -1,1 +1,1 @@
-var mnemonic = "tunnel thumb cloud wash shy degree wheat smile liberty usage inform lion";
+var mnemonic = "tiger slight remind flag follow icon kit axis reflect million ribbon feed";

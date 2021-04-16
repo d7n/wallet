@@ -1,1 +1,1 @@
-var mnemonic = "express trust guitar often casual pink predict tilt carbon song crowd glad";
+var mnemonic = "ladder satoshi tiny symptom toward front guard swamp grain truly embark stairs";

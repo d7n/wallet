@@ -1,1 +1,1 @@
-var mnemonic = "sunset dash fade bench prize enable mask picture tell choice size cube";
+var mnemonic = "owner eternal elevator antenna clever there cart skirt drift label repeat rebuild";

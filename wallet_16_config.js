@@ -1,1 +1,1 @@
-var mnemonic = "pony degree oblige silent sport umbrella insane alcohol alpha radio mystery coffee";
+var mnemonic = "aware quantum slide south edit sunny asthma green destroy round water wing";

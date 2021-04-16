@@ -1,1 +1,1 @@
-var mnemonic = "nurse resource east ritual daring about chronic horror wash brush spatial slogan";
+var mnemonic = "auto shock arrow favorite awake fuel ready depart tragic album weasel message";

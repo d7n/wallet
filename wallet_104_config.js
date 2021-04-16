@@ -1,1 +1,1 @@
-var mnemonic = "absent minimum wrestle tomorrow hawk pool energy own gospel hill imitate again";
+var mnemonic = "ankle asset cost render garbage twelve moral uphold aunt high fury gesture";

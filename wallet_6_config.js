@@ -1,1 +1,1 @@
-var mnemonic = "level winter boil famous proud step divert paper toast nose armed narrow";
+var mnemonic = "crouch clerk source motion enemy parade delay pistol seat matter demise cotton";

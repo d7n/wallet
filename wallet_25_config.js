@@ -1,1 +1,1 @@
-var mnemonic = "assume wing lawsuit raise flip auto call moon expand journey extend glimpse";
+var mnemonic = "increase valid intact west swift drift rhythm sponsor spice fatal region patient";

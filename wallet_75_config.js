@@ -1,1 +1,1 @@
-var mnemonic = "easily price purity gravity banner female weekend time hazard convince away frequent";
+var mnemonic = "snap clever cream arm ride diagram pioneer obey peanut exclude sail involve";

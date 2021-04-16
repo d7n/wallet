@@ -1,1 +1,1 @@
-var mnemonic = "anger nation office winter better craft ceiling scrub raw drink exhibit special";
+var mnemonic = "labor purse pet tide motion theory focus balance minute normal frown pull";

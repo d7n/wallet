@@ -1,1 +1,1 @@
-var mnemonic = "wealth scene fly pelican example pole cup meadow window turn warfare mobile";
+var mnemonic = "degree fiber clean anxiety decline youth apology wine crunch maid lava across";

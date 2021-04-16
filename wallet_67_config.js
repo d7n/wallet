@@ -1,1 +1,1 @@
-var mnemonic = "stuff during cable differ traffic manual fence type urge filter thumb chase";
+var mnemonic = "brand own cable banana dream together toward famous young ridge athlete paddle";

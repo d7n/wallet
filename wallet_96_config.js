@@ -1,1 +1,1 @@
-var mnemonic = "weasel issue film cream disagree forum cigar observe unknown proof travel snap";
+var mnemonic = "busy fly idle dice toe patch sudden east capital lunar cactus ill";

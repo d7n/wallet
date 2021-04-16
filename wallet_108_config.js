@@ -1,1 +1,1 @@
-var mnemonic = "issue depth achieve truly polar process myself isolate wide cabin parrot include";
+var mnemonic = "police pair coil oblige myth domain acoustic accuse play toilet control empower";

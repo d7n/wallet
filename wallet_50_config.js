@@ -1,1 +1,1 @@
-var mnemonic = "glimpse brown river gap equip carpet usual monkey average dolphin hope option";
+var mnemonic = "tone happy service shiver observe shoulder egg cash idea kidney child enhance";

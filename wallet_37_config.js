@@ -1,1 +1,1 @@
-var mnemonic = "mouse open view solve verb suspect scale coffee arm dilemma panda bring";
+var mnemonic = "power exhibit success patient garden trash music buffalo steak rail naive between";

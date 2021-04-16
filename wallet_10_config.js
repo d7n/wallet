@@ -1,1 +1,1 @@
-var mnemonic = "focus spatial theme aspect found travel galaxy mom strategy stereo giraffe fold";
+var mnemonic = "vehicle trick mechanic empty stone oval assist dentist witness valid ticket disease";

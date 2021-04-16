@@ -1,1 +1,1 @@
-var mnemonic = "fault lecture yard glass enforce gain exist dice slight write ghost rough";
+var mnemonic = "soda chest pride loyal power wrap ocean health syrup west badge book";

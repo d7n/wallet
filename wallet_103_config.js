@@ -1,1 +1,1 @@
-var mnemonic = "field witness couple nut wife world camera pond fence surface knee clump";
+var mnemonic = "romance craft proof say infant vapor thunder predict monitor source pelican kit";

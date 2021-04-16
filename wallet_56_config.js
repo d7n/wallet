@@ -1,1 +1,1 @@
-var mnemonic = "funny mouse fantasy thrive invite bird guitar infant tool ancient comfort double";
+var mnemonic = "donkey rebuild pear joy amused rapid slender proud direct have between traffic";

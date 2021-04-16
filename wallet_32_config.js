@@ -1,1 +1,1 @@
-var mnemonic = "wash again arctic just young picture around main coast anger scissors appear";
+var mnemonic = "gentle ahead butter original blouse taste kiwi steak another crop account sheriff";

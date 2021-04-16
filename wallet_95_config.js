@@ -1,1 +1,1 @@
-var mnemonic = "off course hold spider hero sniff dirt sting parade trophy dutch pistol";
+var mnemonic = "metal west wrap minor relax mystery bamboo amateur bulk trigger false private";

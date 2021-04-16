@@ -1,1 +1,1 @@
-var mnemonic = "cup badge palace drip foster inspire illness grace music hurt survey van";
+var mnemonic = "clip expose limit donkey version planet favorite claim talent net cover visit";

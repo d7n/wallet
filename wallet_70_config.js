@@ -1,1 +1,1 @@
-var mnemonic = "near pact banana orange behind merit talent donkey pear knee uncle tool";
+var mnemonic = "devote sea soft drive skirt voice truly tooth text finger endless much";

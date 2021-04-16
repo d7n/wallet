@@ -1,1 +1,1 @@
-var mnemonic = "rose erode improve attend pull distance limit tuna cover eight monitor unaware";
+var mnemonic = "aspect noodle charge despair august bid test submit hedgehog word negative story";

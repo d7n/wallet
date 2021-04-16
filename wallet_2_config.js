@@ -1,1 +1,1 @@
-var mnemonic = "train age spoil act curious mind speed slot provide busy noodle fossil";
+var mnemonic = "segment scene stamp virus fee infant leg glide polar twin cart below";

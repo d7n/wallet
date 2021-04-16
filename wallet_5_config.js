@@ -1,1 +1,1 @@
-var mnemonic = "innocent usual weasel tail flavor tonight daughter clerk trouble odor mind bomb";
+var mnemonic = "buzz catch school arena soldier habit easy soldier ticket leader company crash";

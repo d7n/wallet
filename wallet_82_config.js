@@ -1,1 +1,1 @@
-var mnemonic = "nephew rug globe federal chicken region assault nurse pride female turkey retreat";
+var mnemonic = "inflict village build mom aisle column recipe fish often magic process gloom";

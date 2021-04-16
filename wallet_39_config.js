@@ -1,1 +1,1 @@
-var mnemonic = "subject enforce sign business snack virus harbor snack hard bomb retreat punch";
+var mnemonic = "vibrant way matrix ocean wrong trial kangaroo faint anger develop gold baby";

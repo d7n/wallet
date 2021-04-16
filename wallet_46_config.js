@@ -1,1 +1,1 @@
-var mnemonic = "bundle element school bomb crowd kind scrap subject impact race forget reopen";
+var mnemonic = "crawl office demise floor tent maximum again remain survey favorite choice misery";

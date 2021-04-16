@@ -1,1 +1,1 @@
-var mnemonic = "april panic then faculty help boy jeans soda ladder giant memory shove";
+var mnemonic = "park birth perfect bleak build brush proud thing congress settle time first";

@@ -1,1 +1,1 @@
-var mnemonic = "about grit ladder spread helmet hold admit project hat talent theory rate";
+var mnemonic = "wing stem radio dignity twice hospital alpha border ask buzz flight choose";

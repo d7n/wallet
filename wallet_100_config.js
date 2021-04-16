@@ -1,1 +1,1 @@
-var mnemonic = "fit fetch maid edit imitate ten cheese erase zoo mix tuition victory";
+var mnemonic = "actor potato ticket visual expect any minute camp just volcano immense shy";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel logic mansion unfair devote draw genre gasp dress hire october crumble";
+var mnemonic = "twin duty remove drum toddler remain dizzy amateur almost portion mechanic exact";

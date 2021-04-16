@@ -1,1 +1,1 @@
-var mnemonic = "secret brass practice museum floor uncover arm flight library vault mass baby";
+var mnemonic = "recall light throw magnet decide dwarf venue skin assist fever ivory recycle";

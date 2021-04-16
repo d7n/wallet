@@ -1,1 +1,1 @@
-var mnemonic = "play busy brave web scan capable grow frog vintage hover actress popular";
+var mnemonic = "mandate obey cereal cotton typical mom conduct liar member crush mad candy";

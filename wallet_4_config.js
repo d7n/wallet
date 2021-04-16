@@ -1,1 +1,1 @@
-var mnemonic = "seed tattoo upon glory cherry buzz sort bounce arrow chuckle weasel bracket";
+var mnemonic = "double clown employ fashion mask exit sudden broom crazy peace educate decorate";

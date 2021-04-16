@@ -1,1 +1,1 @@
-var mnemonic = "spike comfort addict hybrid clarify awesome exhibit brave love shadow bless ordinary";
+var mnemonic = "chaos emotion goose correct enable body loop amount menu come about share";

@@ -1,1 +1,1 @@
-var mnemonic = "rib arena wild snow common opinion taste pretty burger hat kite bundle";
+var mnemonic = "denial volume mandate arrow frame skill flee diamond mechanic stairs fresh scatter";

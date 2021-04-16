@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit street decide peace vote install essence reunion oppose siege theme neck";
+var mnemonic = "buffalo frost inquiry brother sauce stone satoshi harsh relax proud access arctic";

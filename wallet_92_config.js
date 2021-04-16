@@ -1,1 +1,1 @@
-var mnemonic = "series double dry media talent slow hurry seat future paper tragic enemy";
+var mnemonic = "setup real town service ramp choose hope attitude evoke pilot narrow lady";

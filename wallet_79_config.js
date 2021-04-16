@@ -1,1 +1,1 @@
-var mnemonic = "wrap someone drive world arrest april mix desk hobby hood multiply unit";
+var mnemonic = "guitar trap advice business aspect act web stereo blossom hand cube expire";

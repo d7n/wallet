@@ -1,1 +1,1 @@
-var mnemonic = "artefact cost high love stock legal trigger struggle always dilemma diamond uphold";
+var mnemonic = "insane social long system also erupt world must cross deal virtual inform";

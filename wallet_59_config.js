@@ -1,1 +1,1 @@
-var mnemonic = "exchange timber conduct wire plastic alert seat board define tribe afraid hurt";
+var mnemonic = "between sadness amazing casino forest require impulse arrive wrist learn devote walk";

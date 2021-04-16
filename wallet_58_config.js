@@ -1,1 +1,1 @@
-var mnemonic = "hungry alley toss liar year twenty asset little laugh abstract garlic inmate";
+var mnemonic = "noble drastic shed alter prefer cotton ankle work exercise gas fade market";

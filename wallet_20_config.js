@@ -1,1 +1,1 @@
-var mnemonic = "act basket verify eager anxiety view cat chef sadness april answer thing";
+var mnemonic = "stereo spin pattern together radio remember palace cage palm regular spread cliff";

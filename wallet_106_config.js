@@ -1,1 +1,1 @@
-var mnemonic = "phrase avocado dutch because athlete popular deer wolf pull kid tray swallow";
+var mnemonic = "access sentence divorce feel husband smile section fragile surround student appear clay";

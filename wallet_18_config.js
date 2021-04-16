@@ -1,1 +1,1 @@
-var mnemonic = "early ozone life future skate hunt hair arm fuel illegal glory jar";
+var mnemonic = "choice height unknown chalk actress session sunset drive clarify impulse awful thank";

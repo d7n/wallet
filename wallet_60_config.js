@@ -1,1 +1,1 @@
-var mnemonic = "thing mouse happy such engage food debris insect wise delay name bunker";
+var mnemonic = "surprise sea tooth empty congress street decrease enemy income artwork bridge inherit";

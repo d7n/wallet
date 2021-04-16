@@ -1,1 +1,1 @@
-var mnemonic = "shrimp wrap team owner soccer unfair worth early material ivory around tone";
+var mnemonic = "scatter viable beef olive erosion local legend catalog sense miracle often venue";

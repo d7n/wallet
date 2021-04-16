@@ -1,1 +1,1 @@
-var mnemonic = "design museum banana cabbage real meat hidden slot crystal coffee dentist young";
+var mnemonic = "scout canoe title base soon occur shine olive tourist annual derive silly";

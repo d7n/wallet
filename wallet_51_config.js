@@ -1,1 +1,1 @@
-var mnemonic = "swim admit oxygen bitter canyon coil lottery struggle wheel mystery warrior divide";
+var mnemonic = "theory never quick typical bracket struggle moral flame warrior ugly pelican humble";

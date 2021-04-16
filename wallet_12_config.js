@@ -1,1 +1,1 @@
-var mnemonic = "praise stumble clown better robust glare table onion mountain liquid grant firm";
+var mnemonic = "screen wall improve ripple eternal inform better detail fashion modify laptop distance";

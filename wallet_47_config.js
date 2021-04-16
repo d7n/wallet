@@ -1,1 +1,1 @@
-var mnemonic = "illness grass derive slow before fringe draft tube boring tail hurdle sign";
+var mnemonic = "sell mail discover machine soul front enhance window disagree chimney cash success";

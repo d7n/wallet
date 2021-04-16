@@ -1,1 +1,1 @@
-var mnemonic = "cricket onion suit sausage consider retire undo milk cactus index design resemble";
+var mnemonic = "meadow rifle team uphold want brass current impact grape own toilet blanket";

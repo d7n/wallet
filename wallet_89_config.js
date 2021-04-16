@@ -1,1 +1,1 @@
-var mnemonic = "will width bird height make blush joke what guard extra thrive inch";
+var mnemonic = "brother orbit someone kick lunar hour idea chapter gorilla trial prize salmon";

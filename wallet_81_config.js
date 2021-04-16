@@ -1,1 +1,1 @@
-var mnemonic = "fever keep over steak kit obey purchase admit park meadow elephant cargo";
+var mnemonic = "buffalo pizza grit work local settle fetch erosion belt feed slab trick";

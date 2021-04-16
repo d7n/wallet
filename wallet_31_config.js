@@ -1,1 +1,1 @@
-var mnemonic = "mystery label dragon pen grape enough pilot essence wing cute join chest";
+var mnemonic = "usual pig rib stay flame wrist distance success drift forum adult medal";

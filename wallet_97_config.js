@@ -1,1 +1,1 @@
-var mnemonic = "ranch cute organ lumber negative click gather recipe weapon deposit rabbit wrong";
+var mnemonic = "title right anger picnic follow soup paddle lyrics upgrade harvest zebra ride";

@@ -1,1 +1,1 @@
-var mnemonic = "trim boring bar rather must property employ glove earth labor steak much";
+var mnemonic = "this elder fancy captain forest admit suggest august soap meat girl donkey";

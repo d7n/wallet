@@ -1,1 +1,1 @@
-var mnemonic = "program medal true ladder dismiss brain clean slim swamp half sheriff truth";
+var mnemonic = "jaguar tragic cool glory manual margin dinner elbow dad sweet crew find";

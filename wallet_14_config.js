@@ -1,1 +1,1 @@
-var mnemonic = "charge elegant tree fly sense glove more average frame scene rail stable";
+var mnemonic = "fiscal alter cargo hungry shrimp dad rural wait ranch grace aspect cram";

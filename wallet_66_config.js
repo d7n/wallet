@@ -1,1 +1,1 @@
-var mnemonic = "invite inquiry lecture wood keen almost vital gaze fly neglect kitchen shift";
+var mnemonic = "custom replace arrest mass course olympic album sense state toss elephant local";

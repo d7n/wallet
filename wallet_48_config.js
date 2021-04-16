@@ -1,1 +1,1 @@
-var mnemonic = "later country month tank culture pride custom easily mother move arrive wasp";
+var mnemonic = "embark tackle wall gap guide topple erase agent vague emotion rough addict";
