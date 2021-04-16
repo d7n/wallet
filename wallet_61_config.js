@@ -1,1 +1,1 @@
-var mnemonic = "mention reopen onion fiscal say onion amazing smooth any grant board pupil";
+var mnemonic = "excite legal under slow age garment lift add infant work twenty elder";

@@ -1,1 +1,1 @@
-var mnemonic = "steel age section divide shine soldier sugar upper corn whip extend neutral";
+var mnemonic = "symbol window imitate avoid group talk pull razor pole document shuffle merit";

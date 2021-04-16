@@ -1,1 +1,1 @@
-var mnemonic = "glow trigger monster charge nose liberty dentist ethics topic reveal maze scissors";
+var mnemonic = "fury buffalo cream smile resource involve great mouse powder job pizza dignity";

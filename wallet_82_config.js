@@ -1,1 +1,1 @@
-var mnemonic = "oil bless fiction detect thought suit wreck olive swarm reopen remind pulse";
+var mnemonic = "rebuild effort oyster derive rug blouse inform theme jazz deposit scheme rhythm";

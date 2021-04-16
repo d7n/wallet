@@ -1,1 +1,1 @@
-var mnemonic = "ecology trash spoil basic elite buffalo boss agent bring cross oil click";
+var mnemonic = "desert electric confirm distance despair organ fly cliff runway dose vintage gadget";

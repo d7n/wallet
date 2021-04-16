@@ -1,1 +1,1 @@
-var mnemonic = "key alcohol sport find main today tuna circle receive monitor calm diary";
+var mnemonic = "sight pledge atom skin arrest law screen differ title spatial turn cereal";

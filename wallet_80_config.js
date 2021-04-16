@@ -1,1 +1,1 @@
-var mnemonic = "sunny genius choice obscure kiss high expand timber tongue elbow slice two";
+var mnemonic = "trigger iron marriage alter slab wear success real often roof bag sponsor";

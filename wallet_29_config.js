@@ -1,1 +1,1 @@
-var mnemonic = "eye valid play like column find attitude crew word arch jaguar kiss";
+var mnemonic = "garage sick order doll course miracle forest flag accident surprise tank rhythm";

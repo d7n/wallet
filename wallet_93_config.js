@@ -1,1 +1,1 @@
-var mnemonic = "lawn identify over inquiry invite palace nut elbow slab sing dinner jeans";
+var mnemonic = "indicate music okay online world civil appear husband water myself major ritual";

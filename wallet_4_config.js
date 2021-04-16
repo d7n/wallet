@@ -1,1 +1,1 @@
-var mnemonic = "alert industry bless girl tourist nut announce common farm eternal pact approve";
+var mnemonic = "aware hard total fetch start fox elegant rail dish copy dash grab";

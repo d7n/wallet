@@ -1,1 +1,1 @@
-var mnemonic = "bamboo easily wood provide fiber prefer flip situate exit word ecology damp";
+var mnemonic = "hawk price into obscure prize loop cream bread trim stove cabbage outer";

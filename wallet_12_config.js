@@ -1,1 +1,1 @@
-var mnemonic = "relief slight day mixture sign west curtain give fit rotate rose sound";
+var mnemonic = "repeat depend alter edit stuff relief tonight blame lemon system napkin cash";

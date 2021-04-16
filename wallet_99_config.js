@@ -1,1 +1,1 @@
-var mnemonic = "coconut bench army vocal rack uniform strong come filter double excite slide";
+var mnemonic = "reduce patrol struggle gesture gospel mule social shaft bubble tongue elegant trash";

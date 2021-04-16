@@ -1,1 +1,1 @@
-var mnemonic = "point symbol pencil humor cargo language certain scene fringe addict boss cave";
+var mnemonic = "blue month action garlic unique dad proof love custom square require major";

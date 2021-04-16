@@ -1,1 +1,1 @@
-var mnemonic = "space subway sketch term trophy carry hire obvious decide explain series runway";
+var mnemonic = "goose usual leader phone spike mutual language dutch oppose private uphold rural";

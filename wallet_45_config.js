@@ -1,1 +1,1 @@
-var mnemonic = "lend grape risk wise method pencil like fine march join require topple";
+var mnemonic = "drink solar fantasy science science broken this crystal lesson actual garbage luggage";

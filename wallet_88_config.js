@@ -1,1 +1,1 @@
-var mnemonic = "change citizen situate belt ivory couch jazz chest various sport venue trash";
+var mnemonic = "knock account there tray potato response tribe flame eager artefact arrest bread";

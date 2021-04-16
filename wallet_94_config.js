@@ -1,1 +1,1 @@
-var mnemonic = "thought upon require notice gospel path head gorilla genius blanket green sport";
+var mnemonic = "sustain forward helmet dirt produce flip glad hybrid resemble acoustic head banana";

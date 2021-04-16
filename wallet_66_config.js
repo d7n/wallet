@@ -1,1 +1,1 @@
-var mnemonic = "surround solve pig lady angry lock fossil genius tobacco quick certain auction";
+var mnemonic = "shy submit end certain element climb alone empty deer slot table inmate";

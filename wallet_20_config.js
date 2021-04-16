@@ -1,1 +1,1 @@
-var mnemonic = "mixture exhibit modify glory quote choice become answer shop inside hair demise";
+var mnemonic = "drift stamp category arrange sign cruise wire knife burden leg find able";

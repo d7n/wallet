@@ -1,1 +1,1 @@
-var mnemonic = "outer mushroom piece cupboard into frequent nothing notice defense search street aerobic";
+var mnemonic = "stadium motor glad grace void medal tongue know immense control smooth pulse";

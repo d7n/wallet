@@ -1,1 +1,1 @@
-var mnemonic = "skate enrich tape input trash always diary meat spoil lock assist long";
+var mnemonic = "layer mind mean kingdom figure affair earth admit enrich escape stamp daring";

@@ -1,1 +1,1 @@
-var mnemonic = "require someone task alcohol thunder lion powder clever fix opera defense ketchup";
+var mnemonic = "palm attitude end giraffe student boy brain rebuild crumble job horror survey";

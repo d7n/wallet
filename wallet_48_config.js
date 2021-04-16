@@ -1,1 +1,1 @@
-var mnemonic = "shadow coin height work bind river say sting warm mandate evoke begin";
+var mnemonic = "flag holiday famous filter three reform begin feel allow stool begin salt";

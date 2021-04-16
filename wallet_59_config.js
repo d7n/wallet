@@ -1,1 +1,1 @@
-var mnemonic = "vendor caution replace stuff tragic flock slush cargo super wall story door";
+var mnemonic = "violin about alter bitter ill afford fat song replace urge common stairs";

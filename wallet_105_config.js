@@ -1,1 +1,1 @@
-var mnemonic = "east crucial situate erode system game hard crime gold decorate artwork relief";
+var mnemonic = "first point film actress replace inmate figure damp stereo impose crouch average";

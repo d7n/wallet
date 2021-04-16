@@ -1,1 +1,1 @@
-var mnemonic = "rather damage lemon drum trip resist sense bargain comfort luxury neck tail";
+var mnemonic = "gaze wire danger athlete pumpkin stomach palm industry torch live swamp human";

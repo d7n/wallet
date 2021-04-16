@@ -1,1 +1,1 @@
-var mnemonic = "color drama wall decrease claw vacuum artefact dash prison insane treat return";
+var mnemonic = "trim butter couple reduce guard genius warrior cart awesome shed chalk crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "story dove museum slab hedgehog metal close salon multiply congress truth potato";
+var mnemonic = "brick veteran either meat smart make tiny chief debris enact chimney buffalo";

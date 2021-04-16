@@ -1,1 +1,1 @@
-var mnemonic = "consider black jeans situate joy series fiscal project capable ugly during perfect";
+var mnemonic = "thought famous measure vicious sand merge concert vintage cake mask angle risk";

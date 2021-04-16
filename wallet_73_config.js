@@ -1,1 +1,1 @@
-var mnemonic = "trial level output sting split cabbage beef service cube inflict teach visa";
+var mnemonic = "distance involve shy laptop uphold plunge glance urge idle offer term rain";

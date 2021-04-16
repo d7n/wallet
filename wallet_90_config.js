@@ -1,1 +1,1 @@
-var mnemonic = "wild consider since avoid crater news silver gaze chief universe tourist impose";
+var mnemonic = "proof cry mandate tell program ill maple crater wear present news onion";

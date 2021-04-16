@@ -1,1 +1,1 @@
-var mnemonic = "pattern tissue mystery tower fossil much fashion sand shift dinner combine razor";
+var mnemonic = "despair defense wrist denial luxury tenant make asset pact bounce hold busy";

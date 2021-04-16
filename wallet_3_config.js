@@ -1,1 +1,1 @@
-var mnemonic = "onion salmon goose scare wrist blouse hour mention snap hand solar sort";
+var mnemonic = "shoe deal tool choose sword emerge become hurry dilemma fresh brown hair";

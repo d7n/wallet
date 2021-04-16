@@ -1,1 +1,1 @@
-var mnemonic = "normal note feel lounge farm legal hunt gentle sail same bitter vote";
+var mnemonic = "immune fluid metal asthma marble hood craft crack town wine borrow denial";

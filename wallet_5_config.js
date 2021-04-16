@@ -1,1 +1,1 @@
-var mnemonic = "embark awkward doctor other jump dolphin flip artwork acoustic fetch close you";
+var mnemonic = "begin accuse congress sustain noodle into average target hollow domain good report";

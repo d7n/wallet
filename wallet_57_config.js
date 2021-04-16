@@ -1,1 +1,1 @@
-var mnemonic = "scale hand output evil around debris poverty develop output become home valid";
+var mnemonic = "door mushroom spatial artefact essay soft unaware indoor mimic hat adapt humble";

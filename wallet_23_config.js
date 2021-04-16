@@ -1,1 +1,1 @@
-var mnemonic = "bargain diary flock minor aware awful social cruel place core actor meadow";
+var mnemonic = "drift tissue flag brother lesson route pumpkin indoor weekend movie ill can";

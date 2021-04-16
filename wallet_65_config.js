@@ -1,1 +1,1 @@
-var mnemonic = "myself extend seminar tiny wave strategy potato viable mango purpose rigid apple";
+var mnemonic = "post check crystal around snake claim bench define believe achieve suggest heart";

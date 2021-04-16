@@ -1,1 +1,1 @@
-var mnemonic = "brown current ozone ozone bicycle gaze cup push man melt section concert";
+var mnemonic = "wreck point gift upgrade kind grit caught regret dry suspect wheel thunder";

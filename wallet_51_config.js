@@ -1,1 +1,1 @@
-var mnemonic = "hunt ghost build switch zone enable elbow pole gas oven olympic radio";
+var mnemonic = "jeans payment shadow bid tower slam amazing jealous auction mouse write twist";

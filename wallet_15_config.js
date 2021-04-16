@@ -1,1 +1,1 @@
-var mnemonic = "purity sketch gate spike machine wink cradle security diamond jelly stuff palm";
+var mnemonic = "danger circle fortune material observe jewel gain voyage bleak happy jeans item";

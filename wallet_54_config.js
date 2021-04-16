@@ -1,1 +1,1 @@
-var mnemonic = "remain anxiety pupil then exit path acid leaf crouch bicycle away wrist";
+var mnemonic = "couch enrich stone salad victory salon car guide initial change float mistake";

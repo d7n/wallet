@@ -1,1 +1,1 @@
-var mnemonic = "else share stairs wait between viable cream glare affair mention wild fold";
+var mnemonic = "artwork retreat unveil cruel liquid basic pact timber rotate region antenna ski";

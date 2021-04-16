@@ -1,1 +1,1 @@
-var mnemonic = "picture question mansion olive science blossom brisk march hire jacket ugly foam";
+var mnemonic = "captain define uncover pilot hair equal foam winner seek segment eternal head";

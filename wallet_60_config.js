@@ -1,1 +1,1 @@
-var mnemonic = "cheap march bamboo because spend citizen expect wealth name notice egg token";
+var mnemonic = "people supply calm black vivid expose rain pepper mask buzz brass lens";

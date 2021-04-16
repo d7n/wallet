@@ -1,1 +1,1 @@
-var mnemonic = "review mother clerk seven keep denial input clip oven attack gallery junk";
+var mnemonic = "enough repair duty empower upset sting level spin auto maid shove wink";

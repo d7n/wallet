@@ -1,1 +1,1 @@
-var mnemonic = "fun office shaft cricket session enjoy lady frown virtual fee group refuse";
+var mnemonic = "loop payment curve plastic soft aware rebel village keen palm escape derive";

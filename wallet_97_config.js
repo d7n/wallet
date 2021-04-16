@@ -1,1 +1,1 @@
-var mnemonic = "rotate plug drip october stereo only mind enroll earn uncle idle smoke";
+var mnemonic = "fork gun often mail damage elder transfer athlete clerk enrich supreme country";

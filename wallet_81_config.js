@@ -1,1 +1,1 @@
-var mnemonic = "true foot supply orchard rough panda rely spoon donkey december voice spice";
+var mnemonic = "seek add false grace raise option chest shrimp travel glove never please";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain trust image season dynamic donate aspect spend bag flat husband legal";
+var mnemonic = "piano like exchange boy trash blast raccoon cannon domain cotton picnic mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "rail tip flower wink obvious nasty evidence pistol silly blouse flight portion";
+var mnemonic = "ketchup gap nothing hammer limb jump shift feel gas combine bike evil";

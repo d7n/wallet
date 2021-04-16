@@ -1,1 +1,1 @@
-var mnemonic = "guess hidden jewel shift tongue buddy flower place blanket town either student";
+var mnemonic = "devote happy carbon fossil clinic decide captain depend reunion travel reward network";

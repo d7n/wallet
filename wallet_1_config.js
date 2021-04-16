@@ -1,1 +1,1 @@
-var mnemonic = "axis ritual option open stumble pipe bronze torch pizza actor crisp typical";
+var mnemonic = "square enemy oyster abuse gate turtle pass enjoy citizen hard amount insect";

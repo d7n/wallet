@@ -1,1 +1,1 @@
-var mnemonic = "cube matter next little skate when item orient stay brown alcohol valley";
+var mnemonic = "live guilt fuel payment walk point enforce panda tuition pepper list glass";

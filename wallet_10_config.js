@@ -1,1 +1,1 @@
-var mnemonic = "choice nerve ring lion glide awful across attack claim scene globe degree";
+var mnemonic = "keep element income denial creek spoon already problem ethics rabbit autumn error";

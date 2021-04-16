@@ -1,1 +1,1 @@
-var mnemonic = "since bless rapid cancel library enable involve lobster kiss slow age welcome";
+var mnemonic = "venture neglect outside chicken faint park intact loop armor solve parade need";

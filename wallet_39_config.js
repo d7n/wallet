@@ -1,1 +1,1 @@
-var mnemonic = "cliff adjust daring rhythm rail abandon enable more move chronic wreck silk";
+var mnemonic = "tennis glad faint setup law blind dinosaur stairs jazz whisper relax fee";

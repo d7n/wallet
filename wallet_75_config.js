@@ -1,1 +1,1 @@
-var mnemonic = "couch excite prize monitor topic nest leader escape step lion initial gun";
+var mnemonic = "army bench make burger below dad wrestle horse bar virus crop lonely";

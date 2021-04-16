@@ -1,1 +1,1 @@
-var mnemonic = "deliver follow island blush burger guess citizen junior guilt refuse sudden snow";
+var mnemonic = "shoe distance capable coin card mansion stay brain derive pond plastic describe";

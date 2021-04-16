@@ -1,1 +1,1 @@
-var mnemonic = "pudding travel weasel mirror final biology ancient exercise tag final season best";
+var mnemonic = "orient blast outer main loop canvas mushroom hole aim doctor refuse man";

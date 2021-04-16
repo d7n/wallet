@@ -1,1 +1,1 @@
-var mnemonic = "smooth siren tattoo unusual pill sorry first dust jewel brush toy rent";
+var mnemonic = "matter joke promote safe gold play space eye cycle twenty lyrics garbage";

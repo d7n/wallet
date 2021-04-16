@@ -1,1 +1,1 @@
-var mnemonic = "memory soap miracle elder hybrid order announce okay defy lizard laptop tank";
+var mnemonic = "tail truly shoe flock six couch relax nut feature coffee lazy reason";

@@ -1,1 +1,1 @@
-var mnemonic = "claim convince dizzy awesome derive south visit piano cute leave slice insect";
+var mnemonic = "legal supreme shy nasty mango bid bench rug bamboo pig kick long";

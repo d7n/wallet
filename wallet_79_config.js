@@ -1,1 +1,1 @@
-var mnemonic = "nose body solar hundred impulse float action biology design upper protect disease";
+var mnemonic = "very dove jewel dignity swift judge couple release reunion seat alley sort";

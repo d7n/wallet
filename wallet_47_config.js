@@ -1,1 +1,1 @@
-var mnemonic = "company elite spread barely law hat april buffalo ramp ranch noble apology";
+var mnemonic = "panther mixture gospel carry elegant slide when laugh trick ordinary auction ocean";

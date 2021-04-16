@@ -1,1 +1,1 @@
-var mnemonic = "disorder soccer waste room express uncover happy credit pause bread naive cash";
+var mnemonic = "obtain bronze keen life quit lounge slide hood chicken misery tonight hungry";

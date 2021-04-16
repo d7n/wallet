@@ -1,1 +1,1 @@
-var mnemonic = "inherit security timber bubble razor cigar swing tumble west swim fame sand";
+var mnemonic = "useless south echo certain direct nurse hundred adjust shoe fame invite zero";

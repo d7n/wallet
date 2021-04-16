@@ -1,1 +1,1 @@
-var mnemonic = "attitude enforce source display design forum shift property borrow pair accident hard";
+var mnemonic = "sadness fault angry accident much point wait snack light amateur divert athlete";

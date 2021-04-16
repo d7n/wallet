@@ -1,1 +1,1 @@
-var mnemonic = "match rug control country myself since slam audit decline silver lizard toward";
+var mnemonic = "season achieve honey route drama field model hunt hold speed pledge boat";

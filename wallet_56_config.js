@@ -1,1 +1,1 @@
-var mnemonic = "avoid lake spoon typical tunnel recycle illegal caught define visit buddy mandate";
+var mnemonic = "nephew draft invest hollow vessel exhaust manage differ shine tonight crater sniff";

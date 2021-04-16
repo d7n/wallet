@@ -1,1 +1,1 @@
-var mnemonic = "try surge trip champion city city suit nuclear life twice royal region";
+var mnemonic = "agent stool narrow pass december six wreck gown glad game orchard vessel";

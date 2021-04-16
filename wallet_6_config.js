@@ -1,1 +1,1 @@
-var mnemonic = "route embrace hill now ask price stay pulp play crime road direct";
+var mnemonic = "luggage laptop net basic labor silk know often rifle already length lizard";

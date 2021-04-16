@@ -1,1 +1,1 @@
-var mnemonic = "hunt desert rhythm delay soldier pony bone clarify brisk inner define harvest";
+var mnemonic = "churn renew track undo axis push upon acid insect tape iron jar";

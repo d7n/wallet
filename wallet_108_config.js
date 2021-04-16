@@ -1,1 +1,1 @@
-var mnemonic = "stadium solar village page demand twin system change gown enact magic suggest";
+var mnemonic = "pencil puzzle arrest evidence trigger clean maze general evoke guilt mammal update";

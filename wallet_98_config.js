@@ -1,1 +1,1 @@
-var mnemonic = "supreme bicycle curtain decorate fortune follow blossom conduct foam bind inside funny";
+var mnemonic = "melt scare wild bracket segment dash exhibit year ship measure tourist grant";

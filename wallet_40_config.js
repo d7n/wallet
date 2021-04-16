@@ -1,1 +1,1 @@
-var mnemonic = "ecology vault laptop item phrase move diet biology amateur stem term patient";
+var mnemonic = "couple trial decrease bicycle antenna party blue crane icon obscure habit vast";

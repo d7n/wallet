@@ -1,1 +1,1 @@
-var mnemonic = "involve panel lake lady tortoise upper hole tip shock inner index nominee";
+var mnemonic = "old noise right switch myth candy day trim receive fringe crunch seven";

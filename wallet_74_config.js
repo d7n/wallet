@@ -1,1 +1,1 @@
-var mnemonic = "sketch gown gorilla urge monster tank ignore proud cheap seed vault wealth";
+var mnemonic = "actor panther crack muffin input midnight doctor ski tape tobacco scare congress";

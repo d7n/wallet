@@ -1,1 +1,1 @@
-var mnemonic = "craft tonight use reflect bomb forward guitar unveil ticket summer love liberty";
+var mnemonic = "proud trust normal various urge tube slender mouse layer liberty lumber easily";

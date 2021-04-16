@@ -1,1 +1,1 @@
-var mnemonic = "citizen skirt purchase plunge great toe swarm measure afford auto farm fit";
+var mnemonic = "awkward orphan helmet bubble bike coast poet elbow follow industry barrel spy";

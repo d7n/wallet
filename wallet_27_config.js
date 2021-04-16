@@ -1,1 +1,1 @@
-var mnemonic = "have summer wealth wool hub digital cement pottery document run space novel";
+var mnemonic = "foster warrior mercy perfect wasp museum glove fit glory upset tray dune";

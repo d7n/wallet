@@ -1,1 +1,1 @@
-var mnemonic = "rare pulse blossom luggage dwarf rather tiny rude inside mass slab riot";
+var mnemonic = "promote remove romance since jump typical rival degree hedgehog share remember beyond";

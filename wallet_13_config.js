@@ -1,1 +1,1 @@
-var mnemonic = "water mistake glory portion oak razor tiny coral reflect upon off arena";
+var mnemonic = "citizen ask pencil napkin dress world pony fade winner three fetch purse";

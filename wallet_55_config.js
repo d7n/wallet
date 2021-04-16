@@ -1,1 +1,1 @@
-var mnemonic = "slot glove town riot section twist mobile knee quantum episode raw permit";
+var mnemonic = "royal delay inject remember brother mixed frog plate pelican cash devote give";

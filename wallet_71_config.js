@@ -1,1 +1,1 @@
-var mnemonic = "foil two bread provide suit pilot carpet auto spring lend brick biology";
+var mnemonic = "discover unhappy bench valve aware blade tomato hand rain finger make drive";

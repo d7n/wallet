@@ -1,1 +1,1 @@
-var mnemonic = "alcohol close glance bottom weapon scan oyster ankle sausage engine ozone fit";
+var mnemonic = "orbit figure raw pink garden stand faith this oyster pretty pear drip";

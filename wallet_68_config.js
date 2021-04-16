@@ -1,1 +1,1 @@
-var mnemonic = "hurry kangaroo alley debate spend club figure announce correct law fork valley";
+var mnemonic = "patch inside farm poet dish awesome any enact stone agree purse reward";

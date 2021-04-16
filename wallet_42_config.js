@@ -1,1 +1,1 @@
-var mnemonic = "teach protect stairs purity gloom twin tank crush denial panther art produce";
+var mnemonic = "hope arrest globe infant bulk gesture ability sound sudden sand soft coil";

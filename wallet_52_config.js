@@ -1,1 +1,1 @@
-var mnemonic = "exhaust wing initial erode feed advice magnet original man soap garbage uniform";
+var mnemonic = "impact sun company course antenna cheese noise train manual coconut slam unit";
