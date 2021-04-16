@@ -1,1 +1,1 @@
-var mnemonic = "raw grit mutual amateur jungle setup praise razor buzz deliver marine pistol";
+var mnemonic = "envelope display couple promote neglect erode apart process sting kit drum pilot";

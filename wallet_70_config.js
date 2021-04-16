@@ -1,1 +1,1 @@
-var mnemonic = "relief lecture pioneer hedgehog goddess exclude pony rice best cause card glance";
+var mnemonic = "glad barrel exile canoe ten fresh soft click retreat tooth animal verb";

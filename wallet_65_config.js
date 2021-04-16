@@ -1,1 +1,1 @@
-var mnemonic = "educate spray erode produce switch toy estate logic fat circle typical glad";
+var mnemonic = "sting cattle sister sadness famous resist skirt patient table sing earn boil";

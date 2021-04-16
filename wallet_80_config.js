@@ -1,1 +1,1 @@
-var mnemonic = "risk shell table journey easy sentence road control bomb long vanish hair";
+var mnemonic = "velvet artefact civil salute attack floor outdoor spread glass net rule tennis";

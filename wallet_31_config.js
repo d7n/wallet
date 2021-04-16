@@ -1,1 +1,1 @@
-var mnemonic = "pistol jewel peanut marine live damage wealth math mass cost guilt roof";
+var mnemonic = "scorpion gaze cave hint lab identify struggle autumn negative what visit pair";

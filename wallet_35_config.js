@@ -1,1 +1,1 @@
-var mnemonic = "can jump iron uncover motor question joke chef yellow split canyon casino";
+var mnemonic = "typical sample cargo force thumb edit chaos waste old ripple expose sugar";

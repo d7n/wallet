@@ -1,1 +1,1 @@
-var mnemonic = "olive wheel casino bamboo ivory omit agent ecology fiscal frame vicious call";
+var mnemonic = "deposit ready horror body erupt foam need swift weasel chunk broccoli math";

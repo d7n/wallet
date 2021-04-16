@@ -1,1 +1,1 @@
-var mnemonic = "fat virus attend match submit begin come morning fly duty deputy blush";
+var mnemonic = "toast green exercise letter narrow library radio gate hover acoustic retreat script";

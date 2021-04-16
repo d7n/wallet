@@ -1,1 +1,1 @@
-var mnemonic = "carbon fatal boss ecology ill couch secret spice hurt brain inherit unfold";
+var mnemonic = "earn beach height away pave width shift hand project explain obtain sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon dust cream deliver nation involve attack tornado track urge leg attract";
+var mnemonic = "circle shoot sniff spirit spring hand fetch parrot path allow until attitude";

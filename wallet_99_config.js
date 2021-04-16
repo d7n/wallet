@@ -1,1 +1,1 @@
-var mnemonic = "alpha raccoon trap wrap frown bus erupt safe quick comic later cannon";
+var mnemonic = "sick endless yard fresh improve shoe stand episode hill large betray ugly";

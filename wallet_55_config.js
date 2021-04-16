@@ -1,1 +1,1 @@
-var mnemonic = "shoot beauty trophy enable clinic multiply permit wide supply capable drop motor";
+var mnemonic = "carpet define occur wealth liar situate kiwi dynamic fossil nephew require park";

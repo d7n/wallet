@@ -1,1 +1,1 @@
-var mnemonic = "hello comic wife grocery announce test east title stumble daring hazard feature";
+var mnemonic = "office envelope seek bind jungle blast twenty search increase venture lab depend";

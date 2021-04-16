@@ -1,1 +1,1 @@
-var mnemonic = "bench total round tomato orient skin wasp crazy trip hockey vacant champion";
+var mnemonic = "large narrow decline human blur promote raven across lock bird total debris";

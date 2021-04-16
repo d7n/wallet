@@ -1,1 +1,1 @@
-var mnemonic = "junior immune love rely east number visa alarm normal limit drama thumb";
+var mnemonic = "squeeze gaze capital brick undo flock hundred artwork session eye ice beyond";

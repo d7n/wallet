@@ -1,1 +1,1 @@
-var mnemonic = "sugar inflict main twin blue mushroom fresh fashion bachelor wonder choice easy";
+var mnemonic = "poverty exotic element double scrap plunge quarter fiction exclude party bind hungry";

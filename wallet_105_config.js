@@ -1,1 +1,1 @@
-var mnemonic = "modify amateur film capital dust pony sell comfort bunker crack spell pole";
+var mnemonic = "demand eyebrow symbol pony senior hire ability fruit actual zoo skill transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth plug mushroom luggage magnet still bright bean notice average trick expire";
+var mnemonic = "sustain notable swear photo father raccoon funny flip observe food female west";

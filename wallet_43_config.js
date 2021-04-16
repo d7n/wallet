@@ -1,1 +1,1 @@
-var mnemonic = "theme emotion later position employ evoke hole jar next flight wink differ";
+var mnemonic = "burger innocent sketch horror answer prosper also runway clip diary text decorate";

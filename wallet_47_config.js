@@ -1,1 +1,1 @@
-var mnemonic = "muffin merge one cotton peace camera venture loud birth diet crowd vague";
+var mnemonic = "maximum pigeon brain funny gain filter music grid position million drink neither";

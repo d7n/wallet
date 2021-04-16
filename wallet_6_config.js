@@ -1,1 +1,1 @@
-var mnemonic = "mandate prison gaze elephant blouse test come click shy dress cable skin";
+var mnemonic = "slide click base tape topple ostrich upset alien seek wink share damage";

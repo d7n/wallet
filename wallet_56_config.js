@@ -1,1 +1,1 @@
-var mnemonic = "pistol twenty apology elegant today kangaroo wreck gasp stamp accident resource gather";
+var mnemonic = "giant basic west accuse rocket two town gym piece friend ripple fruit";

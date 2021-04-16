@@ -1,1 +1,1 @@
-var mnemonic = "raccoon tenant shuffle shrug clever pelican two olympic car loop ring series";
+var mnemonic = "employ yellow dove intact annual canyon album dove track glow write siege";

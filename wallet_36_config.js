@@ -1,1 +1,1 @@
-var mnemonic = "speed coconut private mother arrive dinosaur forest april fantasy frozen penalty desk";
+var mnemonic = "hawk fall enlist naive toilet science prevent live era sunset equip vicious";

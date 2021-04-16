@@ -1,1 +1,1 @@
-var mnemonic = "tray equip lock jazz title coach way spend bag loan album rifle";
+var mnemonic = "blame sure chaos wash orphan three anchor skin punch check slot stand";

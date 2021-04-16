@@ -1,1 +1,1 @@
-var mnemonic = "bird mention major chronic ten into tray unhappy october frost mandate battle";
+var mnemonic = "borrow rain chat hard topple impose fuel seed panic omit quantum total";

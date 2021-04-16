@@ -1,1 +1,1 @@
-var mnemonic = "decorate delay slide purpose resemble advance school relief toy trash insect such";
+var mnemonic = "hope put bulk kitchen pelican hen volume pattern giraffe absurd pulp physical";

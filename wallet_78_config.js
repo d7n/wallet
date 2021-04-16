@@ -1,1 +1,1 @@
-var mnemonic = "business route tennis shoulder stairs banner radio hammer humble apple gravity sleep";
+var mnemonic = "prevent dad hybrid coffee hybrid oxygen rapid material hard soap duck radar";

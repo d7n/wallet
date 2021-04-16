@@ -1,1 +1,1 @@
-var mnemonic = "novel banner night law vendor manage body drop stamp burden distance paddle";
+var mnemonic = "world try unveil more win muffin embrace way mimic unveil evidence sugar";

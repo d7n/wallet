@@ -1,1 +1,1 @@
-var mnemonic = "jump banana force unfair skirt pigeon wasp scrub shop buddy dilemma insect";
+var mnemonic = "middle lesson survey consider develop smoke pact evidence obscure night advance boil";

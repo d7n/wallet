@@ -1,1 +1,1 @@
-var mnemonic = "video taste trim comfort sausage vague safe private alter alcohol estate raven";
+var mnemonic = "ski news enter mixed before spice assault victory fire twin lounge simple";

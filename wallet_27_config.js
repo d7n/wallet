@@ -1,1 +1,1 @@
-var mnemonic = "cube later shield vivid equal direct twin swear carbon diamond oyster iron";
+var mnemonic = "then vessel help copy gate essay ocean develop moral unique unusual claim";

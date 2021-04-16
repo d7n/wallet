@@ -1,1 +1,1 @@
-var mnemonic = "verify turn wonder flag hamster nasty typical flower genre empty laugh kitchen";
+var mnemonic = "shuffle ranch keen maple perfect flash museum pipe report swap find way";

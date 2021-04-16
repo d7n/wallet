@@ -1,1 +1,1 @@
-var mnemonic = "puppy icon reopen solar valley what exhibit gaze march vapor grape speak";
+var mnemonic = "ketchup arm smooth topic act fresh absurd unaware kit police citizen exhaust";

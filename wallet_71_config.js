@@ -1,1 +1,1 @@
-var mnemonic = "gold cute east tumble saddle romance year motor soup risk skill kiss";
+var mnemonic = "still devote oxygen tell flash cruise pudding motion lizard welcome sibling denial";

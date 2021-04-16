@@ -1,1 +1,1 @@
-var mnemonic = "extra wood session warrior dizzy tuition excuse winter market ribbon clerk stove";
+var mnemonic = "rookie obscure again ridge page track parrot garlic actual dolphin patient dutch";

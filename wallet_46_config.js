@@ -1,1 +1,1 @@
-var mnemonic = "arctic pigeon hedgehog satoshi found weird convince renew monster palace weapon empower";
+var mnemonic = "basket tunnel fabric steak world joy away moon truly album usual defy";

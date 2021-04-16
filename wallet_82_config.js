@@ -1,1 +1,1 @@
-var mnemonic = "square use lava mask witness jelly afford faculty dynamic boat keep dwarf";
+var mnemonic = "area cactus hour awful apart leisure same program wing candy whip behave";

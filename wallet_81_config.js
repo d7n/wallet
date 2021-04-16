@@ -1,1 +1,1 @@
-var mnemonic = "useless spawn decorate square surround sphere switch toward sniff carbon pig spell";
+var mnemonic = "garage nothing question penalty remain canoe power sniff sustain dress iron gas";

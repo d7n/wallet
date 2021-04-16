@@ -1,1 +1,1 @@
-var mnemonic = "moon banner afraid hire alien upper kick trophy shoe furnace obtain fix";
+var mnemonic = "repair inhale awesome wrestle arctic wear derive hat summer satisfy expand grunt";

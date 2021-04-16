@@ -1,1 +1,1 @@
-var mnemonic = "maple unlock catch upper napkin primary usual depend pond tourist cover promote";
+var mnemonic = "occur opinion box inch dust wagon pair arm neither two year jealous";

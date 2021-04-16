@@ -1,1 +1,1 @@
-var mnemonic = "arch clerk film return reason unlock credit ramp galaxy detail atom armed";
+var mnemonic = "require few rebel velvet ladder trumpet hammer transfer mass nerve glare leopard";

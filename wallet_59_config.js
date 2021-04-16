@@ -1,1 +1,1 @@
-var mnemonic = "wasp pepper violin include copy pool please predict utility tongue cart early";
+var mnemonic = "erosion light flame drive throw rubber mobile crater result accident mistake flock";

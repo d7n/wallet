@@ -1,1 +1,1 @@
-var mnemonic = "major trial brand demand pear truth sponsor original future repeat resist local";
+var mnemonic = "want opinion awake ranch knee action foot fire guitar index few raw";

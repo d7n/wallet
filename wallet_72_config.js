@@ -1,1 +1,1 @@
-var mnemonic = "around famous heart glad gown recycle ribbon maple badge ranch chef toy";
+var mnemonic = "run cake lawsuit practice vault notable inch sphere gorilla submit garment hub";

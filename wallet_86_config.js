@@ -1,1 +1,1 @@
-var mnemonic = "kite margin able buffalo clap swap mammal giant luggage ski auction turn";
+var mnemonic = "cigar weekend swarm worry discover armor kit enable lizard case cushion wing";

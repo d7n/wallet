@@ -1,1 +1,1 @@
-var mnemonic = "umbrella agree invest spy mistake leader absorb tag oblige awkward add field";
+var mnemonic = "biology toward panel mad dawn possible bone success lobster possible receive card";

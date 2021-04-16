@@ -1,1 +1,1 @@
-var mnemonic = "deputy salad below right east drop wife twenty edge insane accuse blast";
+var mnemonic = "elder beyond pact outdoor awesome purpose burst enrich grass banner direct pulp";

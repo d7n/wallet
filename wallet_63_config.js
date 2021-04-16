@@ -1,1 +1,1 @@
-var mnemonic = "top athlete onion cruise provide asthma loan pact ugly silly resemble disease";
+var mnemonic = "taste fatigue hamster hurry six acoustic flag old return member output north";

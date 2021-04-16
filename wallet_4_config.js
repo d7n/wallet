@@ -1,1 +1,1 @@
-var mnemonic = "expand option pencil dish ball embody dinosaur response tattoo piece regular place";
+var mnemonic = "vicious feel rule flavor artefact cushion share rose squirrel chat nothing celery";

@@ -1,1 +1,1 @@
-var mnemonic = "mom mansion trip bunker apology flip verify mobile dress punch extend shrug";
+var mnemonic = "skirt refuse gather express club swap impact goat income defense trend portion";

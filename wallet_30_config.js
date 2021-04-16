@@ -1,1 +1,1 @@
-var mnemonic = "plug flash theory census usual absent text prevent void borrow good prepare";
+var mnemonic = "churn insect auction glad stove play adult unfair goddess carpet unfold rocket";

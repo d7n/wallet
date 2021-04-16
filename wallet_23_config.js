@@ -1,1 +1,1 @@
-var mnemonic = "urban health virtual mechanic badge boss mechanic afford eyebrow exclude edit grit";
+var mnemonic = "remind derive fruit roast swear soul valve mansion hire blast pipe rice";

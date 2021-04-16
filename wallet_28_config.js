@@ -1,1 +1,1 @@
-var mnemonic = "angle rhythm notable melody high syrup taxi walk joy coral over below";
+var mnemonic = "elite model jump search long fitness awkward number found bicycle region vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse call gallery typical envelope kangaroo slim stay layer movie course jump";
+var mnemonic = "someone scatter walk antenna comic reform nature robust electric olive walk ensure";

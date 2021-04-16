@@ -1,1 +1,1 @@
-var mnemonic = "advance mechanic primary rhythm occur skin citizen canoe six math lend exact";
+var mnemonic = "behave dilemma double manual horror hat awkward find tone force holiday job";

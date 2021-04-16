@@ -1,1 +1,1 @@
-var mnemonic = "draw shy tuna idea frozen tail history best medal power engine mass";
+var mnemonic = "vivid design lava curve gallery loan voice armed carry skull clinic claim";

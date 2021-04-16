@@ -1,1 +1,1 @@
-var mnemonic = "egg define wedding convince drum equip furnace sheriff identify torch excite birth";
+var mnemonic = "trophy divide surround chimney faint letter merry mouse ginger demand fossil ozone";

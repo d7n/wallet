@@ -1,1 +1,1 @@
-var mnemonic = "fault remain effort vibrant know nest portion myth vendor tribe waste rate";
+var mnemonic = "cool educate flag miss gate accuse stuff glad sense device ranch gun";

@@ -1,1 +1,1 @@
-var mnemonic = "warm impulse buffalo dwarf night tent section suit exclude pizza piano movie";
+var mnemonic = "bean deputy issue word live math disorder toilet creek manual please act";

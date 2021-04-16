@@ -1,1 +1,1 @@
-var mnemonic = "receive autumn fish boy anger fade grain select bid crouch street edge";
+var mnemonic = "frost quit peace eagle daring fish clay old rich bread round write";

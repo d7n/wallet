@@ -1,1 +1,1 @@
-var mnemonic = "borrow public verb quit country floor license release oxygen boring much element";
+var mnemonic = "brass minute giraffe media depend six raw renew shallow pioneer now dwarf";

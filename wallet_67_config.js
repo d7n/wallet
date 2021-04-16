@@ -1,1 +1,1 @@
-var mnemonic = "radar plastic swamp camp expire travel zone scout anxiety coconut feature resource";
+var mnemonic = "main swap turkey retire skate typical mixed reduce vapor crack cat conduct";

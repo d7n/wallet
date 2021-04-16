@@ -1,1 +1,1 @@
-var mnemonic = "piece consider sort clerk unlock order social rich kitchen apart orphan purpose";
+var mnemonic = "sustain casino gather sick airport length door exotic glimpse chalk girl invest";

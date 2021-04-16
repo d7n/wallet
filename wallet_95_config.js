@@ -1,1 +1,1 @@
-var mnemonic = "stove funny sting blush cargo enable captain recycle culture truly camp connect";
+var mnemonic = "tortoise dizzy dutch quarter solve sight damp same settle hover fever pottery";

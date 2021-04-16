@@ -1,1 +1,1 @@
-var mnemonic = "hazard develop ten ladder never once slab like odor luggage phone visit";
+var mnemonic = "humble planet acid mirror farm possible blur hurdle measure type salon solar";

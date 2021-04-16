@@ -1,1 +1,1 @@
-var mnemonic = "goose fruit blue stereo love tattoo rain pottery novel twelve area dress";
+var mnemonic = "tenant clean spread renew evolve world pony seminar wear toe pitch lake";

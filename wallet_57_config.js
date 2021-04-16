@@ -1,1 +1,1 @@
-var mnemonic = "sight recall school seed admit priority leisure canyon crane develop snow point";
+var mnemonic = "whale nest dumb wrestle ask slender dress suit student print furnace october";

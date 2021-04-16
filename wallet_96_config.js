@@ -1,1 +1,1 @@
-var mnemonic = "lamp eyebrow legend father video canvas second protect captain kiss hub ketchup";
+var mnemonic = "guess include rich stool venture win social arena evil filter ridge elegant";

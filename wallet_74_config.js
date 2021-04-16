@@ -1,1 +1,1 @@
-var mnemonic = "lizard legend sail federal inner image spider grace cream asthma warm belt";
+var mnemonic = "satoshi can oppose hamster supreme mean morning remember tissue enjoy hair hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "young ranch tuna end result peace twenty trade verb wrist mass place";
+var mnemonic = "friend menu flame very spell skull large neither market sister west seat";

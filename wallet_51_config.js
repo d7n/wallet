@@ -1,1 +1,1 @@
-var mnemonic = "crisp deer nose sleep nominee romance salad diet fancy during video evoke";
+var mnemonic = "wife badge fruit solar service mistake lake wait cargo vapor ship choice";

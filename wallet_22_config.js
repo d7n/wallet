@@ -1,1 +1,1 @@
-var mnemonic = "pencil parrot pottery ranch exile fold among assault laugh pull dial health";
+var mnemonic = "leg picnic elder sight wealth blind position drill odor online differ pet";

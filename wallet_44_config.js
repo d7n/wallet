@@ -1,1 +1,1 @@
-var mnemonic = "violin behave run member walnut real ketchup crime belt dish coffee fiscal";
+var mnemonic = "minimum rabbit chest plunge arrow order early rotate huge oppose curve crucial";

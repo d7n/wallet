@@ -1,1 +1,1 @@
-var mnemonic = "captain solar logic veteran garlic lumber holiday decline define huge medal health";
+var mnemonic = "predict gospel relief certain earn divert chest across city measure garment area";

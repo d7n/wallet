@@ -1,1 +1,1 @@
-var mnemonic = "distance genuine burger sting slam income wrong fence valid gasp slide edge";
+var mnemonic = "spike luxury junior lounge goat tourist install order what crowd endorse dry";

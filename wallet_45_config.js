@@ -1,1 +1,1 @@
-var mnemonic = "clay jazz tray claim blanket plunge pencil mansion virus stand awake original";
+var mnemonic = "desert fetch rival clock ice announce light cricket able street accident vacuum";

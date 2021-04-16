@@ -1,1 +1,1 @@
-var mnemonic = "seat absurd stool harbor car drum face fire unusual usual fade damage";
+var mnemonic = "engage syrup stomach siren know island engine aunt toy multiply skull gun";
