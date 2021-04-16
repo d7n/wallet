@@ -1,1 +1,1 @@
-var mnemonic = "negative empty tomorrow danger early desert hybrid artist short census meadow labor";
+var mnemonic = "song fiber salon upper sketch ritual own couch rose soul pass call";

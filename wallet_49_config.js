@@ -1,1 +1,1 @@
-var mnemonic = "left wife defy admit certain planet crop skirt vacuum tourist artist chuckle";
+var mnemonic = "tunnel bleak release shine boost buyer proof library social throw erosion face";

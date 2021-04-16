@@ -1,1 +1,1 @@
-var mnemonic = "cloud layer easily mammal all gospel together student medal pioneer chat appear";
+var mnemonic = "popular gentle rather common embark diamond rescue pencil alley cactus tiny myth";

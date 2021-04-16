@@ -1,1 +1,1 @@
-var mnemonic = "crystal captain craft spring crane cross coast food gold fork fever hover";
+var mnemonic = "piece ghost spread feature file craft fluid element abstract portion method swear";

@@ -1,1 +1,1 @@
-var mnemonic = "catch fatal disease glare essence whip balcony praise extend spin reward noodle";
+var mnemonic = "jaguar blossom sorry win gate cattle isolate distance list room dress spend";

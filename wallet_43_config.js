@@ -1,1 +1,1 @@
-var mnemonic = "certain fly vault deliver picture hockey net interest amount rent ripple come";
+var mnemonic = "talk scrub west frozen glove awake outer ahead fashion abandon powder offer";

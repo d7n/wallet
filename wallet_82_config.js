@@ -1,1 +1,1 @@
-var mnemonic = "road derive fly eager render firm purpose wedding comic enemy board baby";
+var mnemonic = "sudden frown gloom crisp spin hat quit sea between lounge believe impulse";

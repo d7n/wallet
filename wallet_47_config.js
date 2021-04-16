@@ -1,1 +1,1 @@
-var mnemonic = "space orphan brand horror effort risk robust worth sponsor shrimp actor blush";
+var mnemonic = "satoshi behind panel runway maple decade kind code once silent salad legal";

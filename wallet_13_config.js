@@ -1,1 +1,1 @@
-var mnemonic = "exact broken frost east sausage actor trumpet artist mechanic rocket face erode";
+var mnemonic = "once brisk damp cheese snack mutual olympic involve boss pact car hole";

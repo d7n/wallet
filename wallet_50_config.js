@@ -1,1 +1,1 @@
-var mnemonic = "tent mutual key fragile head evidence kind foot element point vendor crystal";
+var mnemonic = "embrace cook carry east chicken sudden gasp armed laundry chuckle amused law";

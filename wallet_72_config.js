@@ -1,1 +1,1 @@
-var mnemonic = "broccoli swing shock tired winner knock end remove radio kiwi disagree any";
+var mnemonic = "odor crunch scout season impact morning bone tuition pony report happy breeze";

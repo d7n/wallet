@@ -1,1 +1,1 @@
-var mnemonic = "team tattoo fork bright cat avocado narrow rather easily electric fabric depend";
+var mnemonic = "caution exit depart minimum humble argue curious cement estate proud author wide";

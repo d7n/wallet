@@ -1,1 +1,1 @@
-var mnemonic = "better screen hard retreat solar thank cruel pencil vibrant possible news vault";
+var mnemonic = "common powder grow stove plastic kit pole foam neither gadget jar horn";

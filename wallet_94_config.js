@@ -1,1 +1,1 @@
-var mnemonic = "increase arch tribe wine weird mosquito little quick acquire pepper illness ocean";
+var mnemonic = "search neutral together popular filter trumpet gown increase where brand rain cliff";

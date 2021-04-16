@@ -1,1 +1,1 @@
-var mnemonic = "vivid unit false canvas law true lion hunt coyote reason fix other";
+var mnemonic = "puppy tide shell cotton lady pool image maximum actor bright potato pitch";

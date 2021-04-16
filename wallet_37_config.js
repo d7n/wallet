@@ -1,1 +1,1 @@
-var mnemonic = "online design angle size exercise settle quiz rich fuel neutral crisp mix";
+var mnemonic = "second news soda able capital buddy vacant crunch electric weird tenant survey";

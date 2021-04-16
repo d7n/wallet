@@ -1,1 +1,1 @@
-var mnemonic = "peanut inner butter raw prepare labor pause sock tomato camp relax east";
+var mnemonic = "spring fire exist couch weird rapid fog file wealth original worth thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster peanut render source siren enroll nature load stool voice write stove";
+var mnemonic = "exact reward load habit they stick start novel fabric cancel sun judge";

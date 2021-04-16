@@ -1,1 +1,1 @@
-var mnemonic = "nominee ready type sunny danger ticket voyage evoke version vapor blood sugar";
+var mnemonic = "jump squirrel range robust service eagle easy design final resist grace good";

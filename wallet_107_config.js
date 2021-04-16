@@ -1,1 +1,1 @@
-var mnemonic = "sight swamp silver orchard cloth essence medal tourist cost cinnamon woman confirm";
+var mnemonic = "rain athlete rigid inner major ten escape duty hotel letter clever correct";

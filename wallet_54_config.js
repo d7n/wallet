@@ -1,1 +1,1 @@
-var mnemonic = "cat gun inspire fringe police maple hamster ripple tool nothing section amazing";
+var mnemonic = "vibrant invest push chicken buddy gym churn vapor outer menu orbit slow";

@@ -1,1 +1,1 @@
-var mnemonic = "purse hammer drive pottery deer raise note member position afraid talk cool";
+var mnemonic = "inside mother pistol badge motor blanket simple hollow oak stone peanut rent";

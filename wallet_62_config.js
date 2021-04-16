@@ -1,1 +1,1 @@
-var mnemonic = "reduce vendor wire purchase disease local pitch winner very perfect talk answer";
+var mnemonic = "sing fit shuffle gain craft fiscal hard design inspire repair dawn beach";

@@ -1,1 +1,1 @@
-var mnemonic = "topple section inherit hard win flush suggest obvious race entire dwarf primary";
+var mnemonic = "food chief flight reject trip priority grab hedgehog can unhappy scatter wheat";

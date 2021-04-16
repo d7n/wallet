@@ -1,1 +1,1 @@
-var mnemonic = "sketch invest busy flame champion arrest switch scrub rescue buyer grid improve";
+var mnemonic = "hurdle silent army pretty hurt victory remove sheriff race pair arena magnet";

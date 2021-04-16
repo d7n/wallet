@@ -1,1 +1,1 @@
-var mnemonic = "text army later pistol water depend inmate crane amused student surface supply";
+var mnemonic = "random rhythm melt region lecture goddess next trim wife under easy comic";

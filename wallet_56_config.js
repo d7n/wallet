@@ -1,1 +1,1 @@
-var mnemonic = "polar merit polar until state blush stadium swift mechanic mule unaware electric";
+var mnemonic = "kick squeeze rescue traffic cross position teach execute iron joy black cliff";

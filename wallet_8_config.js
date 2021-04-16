@@ -1,1 +1,1 @@
-var mnemonic = "boring hockey bottom sausage energy romance summer shed suspect patient barrel unable";
+var mnemonic = "evoke rubber observe riot giggle rookie view moral volume blouse visa valley";

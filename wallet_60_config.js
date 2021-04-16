@@ -1,1 +1,1 @@
-var mnemonic = "fun narrow picture nasty tuna riot pool novel emerge bitter axis cave";
+var mnemonic = "holiday process citizen hard forward shoulder fish exile crisp dilemma wine slight";

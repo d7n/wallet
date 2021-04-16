@@ -1,1 +1,1 @@
-var mnemonic = "crop acid strong scale equip inform issue opinion woman wagon video write";
+var mnemonic = "cupboard luggage real mobile diamond dolphin mistake finger record weekend elite impulse";

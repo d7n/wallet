@@ -1,1 +1,1 @@
-var mnemonic = "van emotion hedgehog scheme shiver thrive quantum moon scrub crowd predict asset";
+var mnemonic = "move basket brave gloom science leopard grass canoe decorate love orbit abuse";

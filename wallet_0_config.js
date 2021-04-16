@@ -1,1 +1,1 @@
-var mnemonic = "tenant frequent civil spare math luggage enemy time fault debris middle stove";
+var mnemonic = "dove stock game roast write motion rookie three neck solution foster brain";

@@ -1,1 +1,1 @@
-var mnemonic = "sock scare raccoon garlic feed cream silk primary cattle pet appear flag";
+var mnemonic = "nurse fitness vacant frame voice tuition acid trouble spread unhappy follow bubble";

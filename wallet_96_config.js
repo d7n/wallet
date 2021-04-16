@@ -1,1 +1,1 @@
-var mnemonic = "asthma drive aim husband drip unknown raccoon envelope matrix eyebrow exclude case";
+var mnemonic = "domain radio fruit drastic gossip toilet flower detect embody width artefact shield";

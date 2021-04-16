@@ -1,1 +1,1 @@
-var mnemonic = "scatter math follow broken crumble travel tone mosquito start shine worth abandon";
+var mnemonic = "purse pull fix bulb cheap theme kick donkey broken machine say armed";

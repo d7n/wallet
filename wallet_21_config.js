@@ -1,1 +1,1 @@
-var mnemonic = "toast author planet wear jacket shadow program inside slight nothing doctor dove";
+var mnemonic = "improve gold fan beyond stereo sight hedgehog near lady affair ask belt";

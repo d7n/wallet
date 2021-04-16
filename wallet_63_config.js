@@ -1,1 +1,1 @@
-var mnemonic = "wrong tray lonely clock unit front erupt grunt riot street misery patient";
+var mnemonic = "dutch crawl grid pelican memory alert essence forum task enrich shop thought";

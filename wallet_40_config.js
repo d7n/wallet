@@ -1,1 +1,1 @@
-var mnemonic = "video right quote casual card roast project engage crowd staff radar nothing";
+var mnemonic = "network gauge entire collect exercise vapor trip climb love high disease split";

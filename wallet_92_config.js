@@ -1,1 +1,1 @@
-var mnemonic = "elephant suffer clean forest verify square smart isolate rug next faint strong";
+var mnemonic = "charge exhaust rabbit speed junk cloud invest slow family render armor gas";

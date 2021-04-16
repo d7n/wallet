@@ -1,1 +1,1 @@
-var mnemonic = "airport middle country toy parade damage outer silver share virtual scrap wedding";
+var mnemonic = "unlock match shaft fruit clean tooth dash witness scheme fit gravity add";

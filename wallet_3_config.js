@@ -1,1 +1,1 @@
-var mnemonic = "destroy find adjust dilemma off just spice drive cancel animal crew gentle";
+var mnemonic = "tip soul awful expand decline kangaroo gossip rely two turtle era syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow object quality tonight ginger corn north skirt top insect empower toy";
+var mnemonic = "change receive spawn twenty gun remain predict stuff concert earn egg start";

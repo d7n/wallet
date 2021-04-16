@@ -1,1 +1,1 @@
-var mnemonic = "dwarf under tomato income time token fox turn enemy outer cabbage town";
+var mnemonic = "minute detail crumble copy swamp mask square together devote curious setup rail";

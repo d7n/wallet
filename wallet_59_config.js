@@ -1,1 +1,1 @@
-var mnemonic = "grid session shrug board author uncover recipe butter warrior degree hobby record";
+var mnemonic = "avoid win brain author devote kit social manage evolve shed boss equal";

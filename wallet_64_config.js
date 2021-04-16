@@ -1,1 +1,1 @@
-var mnemonic = "fall defense friend hip note unlock ridge sheriff about impose valid canvas";
+var mnemonic = "kitten exile wood wisdom stage ability antenna ship practice rent monkey panel";

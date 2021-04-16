@@ -1,1 +1,1 @@
-var mnemonic = "stomach alien grocery logic cube above subway negative acid fashion hat balance";
+var mnemonic = "stick try zone upset alpha vast nominee trick crawl crush prosper call";

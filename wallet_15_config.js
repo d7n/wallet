@@ -1,1 +1,1 @@
-var mnemonic = "hawk army use trick helmet tooth rack sail ladder glimpse boy render";
+var mnemonic = "accident live thumb inherit into brass cook cherry hedgehog bean master shift";

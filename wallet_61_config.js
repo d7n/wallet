@@ -1,1 +1,1 @@
-var mnemonic = "blue curious vote offer luggage bounce despair snack utility enter recall ski";
+var mnemonic = "stamp letter ahead sister spin anxiety diesel crane act camera ceiling craft";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel any brick truly city goose boring employ palace census almost final";
+var mnemonic = "fault detail now diesel suspect elephant chapter frequent awake eagle observe eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "drive little crawl reveal napkin ginger genre away rib coconut curious dove";
+var mnemonic = "very language method marble step rhythm garlic token under emotion useless medal";

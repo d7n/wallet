@@ -1,1 +1,1 @@
-var mnemonic = "state essay vapor very ice chief work cancel earth oppose axis prepare";
+var mnemonic = "trap miss rural bread brave problem refuse body pause discover oblige ribbon";

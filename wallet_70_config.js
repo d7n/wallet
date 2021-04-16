@@ -1,1 +1,1 @@
-var mnemonic = "bus order autumn potato eager fine ecology short parrot since wrap leg";
+var mnemonic = "dance video term legend desk scorpion banner slush pig friend tornado provide";

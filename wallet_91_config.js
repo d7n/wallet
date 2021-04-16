@@ -1,1 +1,1 @@
-var mnemonic = "female feel easy deposit parade receive mutual ceiling trim output maid cinnamon";
+var mnemonic = "better toy ship grief swap refuse steak crash arrest amused brain ticket";

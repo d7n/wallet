@@ -1,1 +1,1 @@
-var mnemonic = "pattern marriage jeans potato bench matter cruel squirrel castle hurry twist connect";
+var mnemonic = "apple banana cattle toy hello salmon someone flush crater play peasant survey";

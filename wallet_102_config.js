@@ -1,1 +1,1 @@
-var mnemonic = "table armor carpet excuse park general egg cover symptom scene step horse";
+var mnemonic = "goddess rescue bleak fun solid cool soda type advance clean term cinnamon";

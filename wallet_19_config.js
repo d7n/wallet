@@ -1,1 +1,1 @@
-var mnemonic = "success element camera canyon first flag spot denial tilt total glove motor";
+var mnemonic = "sadness modify empty hospital outer ability patient limit episode catch spirit elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "flower solar gown promote guide shell grief lawn suspect buddy version million";
+var mnemonic = "collect vintage gift ignore path output pony museum praise involve glad entry";

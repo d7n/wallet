@@ -1,1 +1,1 @@
-var mnemonic = "leopard rural accident hotel cram load sense aspect myself salute sadness economy";
+var mnemonic = "same web creek tent upset cabbage deny taste split amused twice burst";

@@ -1,1 +1,1 @@
-var mnemonic = "kite client account below huge metal maze school half cash old globe";
+var mnemonic = "agree empower palace hand sail wise paper romance goddess wheat wrestle satisfy";

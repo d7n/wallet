@@ -1,1 +1,1 @@
-var mnemonic = "coast diet crush size recycle review admit concert banner tongue black world";
+var mnemonic = "lab pretty loyal robot kite cash brick medal purchase onion tennis you";

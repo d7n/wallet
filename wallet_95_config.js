@@ -1,1 +1,1 @@
-var mnemonic = "problem glare unusual south escape noodle option swing zone style shift casino";
+var mnemonic = "vicious trend edge sustain timber decade dawn car position enable toilet address";

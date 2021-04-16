@@ -1,1 +1,1 @@
-var mnemonic = "taxi punch illegal glimpse tooth smoke actual inspire cup spider track chat";
+var mnemonic = "body defy business stairs upset apple midnight sunset fuel indoor banner art";

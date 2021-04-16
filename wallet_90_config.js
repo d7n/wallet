@@ -1,1 +1,1 @@
-var mnemonic = "egg chicken injury lecture hair only lamp special echo debate gentle shuffle";
+var mnemonic = "chat start tomorrow army burst arena calm venue scan crumble yellow photo";

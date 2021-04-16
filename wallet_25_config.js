@@ -1,1 +1,1 @@
-var mnemonic = "lunar swamp foot jar despair sand valve hub hedgehog violin nature movie";
+var mnemonic = "few three cliff limb vibrant then domain sauce glow elite aspect cry";

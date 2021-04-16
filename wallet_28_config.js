@@ -1,1 +1,1 @@
-var mnemonic = "symbol phone quote wasp gauge enough divorce clinic veteran segment soap saddle";
+var mnemonic = "kiss picnic surface all grocery sentence voice conduct height leader man avocado";

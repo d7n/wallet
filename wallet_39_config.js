@@ -1,1 +1,1 @@
-var mnemonic = "express session police decrease clutch orient duty argue ensure pig blind useless";
+var mnemonic = "dismiss remember spot glimpse fiction stage clown glory buzz ribbon life captain";

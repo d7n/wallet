@@ -1,1 +1,1 @@
-var mnemonic = "inherit bulk grace accident floor lucky neither brave border multiply breeze size";
+var mnemonic = "slim absorb air divorce write tooth conduct cattle shallow survey attack flight";

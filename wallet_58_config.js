@@ -1,1 +1,1 @@
-var mnemonic = "category tennis enter sketch roof fatigue trim wine identify music eagle crater";
+var mnemonic = "upon shock chronic novel crack husband uncle mechanic donkey surround group avoid";

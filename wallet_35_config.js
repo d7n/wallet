@@ -1,1 +1,1 @@
-var mnemonic = "cause plate human device blind place subway turkey year biology flavor coach";
+var mnemonic = "hole skate echo journey tuition walk canal beyond brick elegant number february";

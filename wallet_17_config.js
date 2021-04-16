@@ -1,1 +1,1 @@
-var mnemonic = "monkey invest balance forest steel badge garbage success near heavy begin gun";
+var mnemonic = "divide settle exercise expect inch almost wisdom corn minor cage casino sail";

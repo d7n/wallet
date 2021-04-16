@@ -1,1 +1,1 @@
-var mnemonic = "garbage glimpse bicycle mechanic priority step bottom oyster october apology come harbor";
+var mnemonic = "siren case energy main enable cricket faith potato bus common tree exit";

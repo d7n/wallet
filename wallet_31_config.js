@@ -1,1 +1,1 @@
-var mnemonic = "final stove whip aim switch remove capital math february polar train blanket";
+var mnemonic = "issue cigar consider gesture image vote loan cram jelly solution garment all";

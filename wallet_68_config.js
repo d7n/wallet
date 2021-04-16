@@ -1,1 +1,1 @@
-var mnemonic = "explain wrestle happy crystal wrestle bind chimney calm crisp own cannon raw";
+var mnemonic = "ugly gym aware glimpse net feed skull jazz gorilla crisp guide admit";

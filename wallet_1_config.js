@@ -1,1 +1,1 @@
-var mnemonic = "shine interest sauce cave smart palace mansion unhappy wool diamond vocal trumpet";
+var mnemonic = "victory industry pistol guess idea ivory quick prefer zoo physical cave merge";

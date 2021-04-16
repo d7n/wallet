@@ -1,1 +1,1 @@
-var mnemonic = "debate quote alpha veteran kiwi kind excess lamp ocean elbow movie sun";
+var mnemonic = "slot expect depth animal tunnel multiply among index define design brain thrive";

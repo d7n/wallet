@@ -1,1 +1,1 @@
-var mnemonic = "spin brand true country double velvet crush usage dial mosquito inform table";
+var mnemonic = "remember joy hover naive fit among drill water visa question borrow ball";

@@ -1,1 +1,1 @@
-var mnemonic = "today arm ugly embody range music have can movie sustain vintage cat";
+var mnemonic = "custom crisp earn ranch degree clown swim rally birth woman buddy wash";

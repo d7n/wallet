@@ -1,1 +1,1 @@
-var mnemonic = "join blanket turtle rose wrestle assist split tomato learn month naive utility";
+var mnemonic = "course glimpse segment civil seminar bar jazz strike labor install throw sugar";

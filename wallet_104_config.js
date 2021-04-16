@@ -1,1 +1,1 @@
-var mnemonic = "solve vital portion unusual size define loan purchase acoustic maze clap gossip";
+var mnemonic = "truly wonder earn stool silly boy shoot vague small snack toy depart";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise country escape slam memory fever broom tone genius warrior tooth quit";
+var mnemonic = "idea between ranch love force quiz split margin retreat upset blossom change";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent fault strong trust possible true artist wonder capable erode shiver blur";
+var mnemonic = "stick regular awesome smile desk matter ordinary must toss creek unusual hundred";

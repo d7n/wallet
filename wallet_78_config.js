@@ -1,1 +1,1 @@
-var mnemonic = "broken impact kiwi pistol fossil crush forest leg multiply federal mixture inside";
+var mnemonic = "once theme alone embark sniff regret leader balance rice runway joy about";

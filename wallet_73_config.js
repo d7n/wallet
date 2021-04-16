@@ -1,1 +1,1 @@
-var mnemonic = "decide inquiry ethics flat brass fat cage nature marriage anxiety ability vague";
+var mnemonic = "roof tool salmon market gas acid alarm dilemma bright danger boil actor";

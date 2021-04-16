@@ -1,1 +1,1 @@
-var mnemonic = "oxygen lamp cheese captain interest clinic book bike edit lyrics best stick";
+var mnemonic = "marriage west model model first oppose amazing social man badge brief coin";

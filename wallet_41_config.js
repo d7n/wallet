@@ -1,1 +1,1 @@
-var mnemonic = "grass guide fiction again garbage warfare horn soul supreme open argue divert";
+var mnemonic = "cotton embrace possible draw salon person vehicle protect donkey tuition sword heart";

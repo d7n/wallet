@@ -1,1 +1,1 @@
-var mnemonic = "chief ask obscure pact actor degree theory basic group toddler congress crunch";
+var mnemonic = "subway tape health split carpet vapor kid toilet immense mango title bless";

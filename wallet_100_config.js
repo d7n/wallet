@@ -1,1 +1,1 @@
-var mnemonic = "outer shift exile custom situate survey crop mixed choose amazing direct warm";
+var mnemonic = "lava elbow sadness sample process depart picture warrior narrow pulse town gas";

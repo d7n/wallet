@@ -1,1 +1,1 @@
-var mnemonic = "general blur police garment interest abstract grab hurdle wet dance skate title";
+var mnemonic = "toddler pyramid black fabric clog waste rigid afraid robust odor adjust hire";

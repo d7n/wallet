@@ -1,1 +1,1 @@
-var mnemonic = "diary detail glimpse task resource absorb brand split nurse kick income school";
+var mnemonic = "maid prosper scrap human roast town priority bus slam oblige extra unfair";

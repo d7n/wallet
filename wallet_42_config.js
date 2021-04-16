@@ -1,1 +1,1 @@
-var mnemonic = "edit tomorrow you broom unaware solution science narrow caution two element ice";
+var mnemonic = "dilemma asset swear real similar divide hello phrase illegal ugly awful initial";

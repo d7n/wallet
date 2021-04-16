@@ -1,1 +1,1 @@
-var mnemonic = "limb toilet donkey firm common legal seven veteran admit cross cart jealous";
+var mnemonic = "prepare hope require scene harbor tip ability host garbage daring base minor";

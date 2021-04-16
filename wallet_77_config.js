@@ -1,1 +1,1 @@
-var mnemonic = "tell inherit post logic huge always daughter ensure usual message consider fossil";
+var mnemonic = "capable year cupboard online screen vote right pioneer topic fox train initial";

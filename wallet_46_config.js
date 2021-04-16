@@ -1,1 +1,1 @@
-var mnemonic = "tackle slender abstract page field basket tumble infant security exile boat deer";
+var mnemonic = "path scan chunk crazy relax urban swim better canvas odor hole swing";

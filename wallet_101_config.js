@@ -1,1 +1,1 @@
-var mnemonic = "dentist stereo wait satisfy embark captain patient puppy duck group pyramid visit";
+var mnemonic = "blame caught harbor caught steel sentence pyramid explain quit erupt animal evil";
